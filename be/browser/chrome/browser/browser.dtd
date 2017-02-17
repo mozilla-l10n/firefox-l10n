@@ -723,9 +723,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "Гэты вэб-сайт змяшчае неабароненае змесціва (такое, як сцэнары) і ваша злучэнне з ім не з'яўляецца прыватным.">
 <!ENTITY identity.description.activeLoaded2 "Інфармацыя, якую вы ўводзіце на гэтым сайце, можа быць бачная для іншых (напрыклад, паролі, паведамленні, нумары крэдытных карт і г.д.).">
 
-<!ENTITY identity.enableMixedContentBlocking.label "Уключыць абарону">
+<!ENTITY identity.enableMixedContentBlocking.label "Уключыць ахову">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "У">
-<!ENTITY identity.disableMixedContentBlocking.label "Часова адключыць абарону">
+<!ENTITY identity.disableMixedContentBlocking.label "Часова адключыць ахову">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "А">
 <!ENTITY identity.learnMore "Даведацца больш">
 
@@ -736,33 +736,51 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Дазволы">
 <!ENTITY identity.permissionsEmpty "Вы не давалі гэтаму сайту ніякіх адмысловых дазволаў.">
-<!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку каб прымяніць змены.">
+<!ENTITY identity.permissionsReloadHint "Магчыма, вам спатрэбіцца перазагрузіць старонку, каб змены пачалі дзейнічаць.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-<!ENTITY tabsToolbar.label "Устаўкі азіральніка">
+<!ENTITY tabsToolbar.label "Карткі браўзера">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Сінхранізаваныя карткі">
 
 <!ENTITY syncedTabs.sidebar.label              "Сінхранізаваныя карткі">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Увайдзіце ў Firefox з вашых іншых прылад, каб пабачыць іх карткі тут.">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Няма сінхранізаваных картак… пакуль!">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Хочаце пабачыць вашы карткі з іншых прылад тут?">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Увайдзіце, каб бачыць спіс картак з вашых астатніх прылад.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Няма адкрытых картак">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Адкрыць &syncBrand.shortName.label; Налады">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Уключыце сінхранізацыю картак, каб бачыць спіс картак з вашых іншых прылад.">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Адкрыць">
+<!ENTITY syncedTabs.context.open.accesskey                   "Ў">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Адкрыць у новай картцы">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "ц">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Адкрыць у новым акне">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "Т">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Адкрыць у новым прыватным акне">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "З">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Закладку на гэту картку…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "І">
+<!ENTITY syncedTabs.context.copy.label                       "Капіяваць">
+<!ENTITY syncedTabs.context.copy.accesskey                   "С">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Адкрыць усе ў картках">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Ў">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Увайсці ў &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.accesskey         "У">
 <!ENTITY syncSyncNowItem.label        "Сінхранізаваць зараз ">
 <!ENTITY syncSyncNowItem.accesskey    "С">
 <!ENTITY syncReAuthItem.label         "Перазлучыцца з &syncBrand.shortName.label;…">
@@ -791,14 +809,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Атрымаць больш тэм">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "А">
 
-<!ENTITY getUserMedia.selectCamera.label "Здымач для падзелу:">
+<!ENTITY getUserMedia.selectCamera.label "Да якой камеры даць доступ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "З">
-<!ENTITY getUserMedia.selectMicrophone.label "Мікрафон для падзелу:">
+<!ENTITY getUserMedia.selectMicrophone.label "Да якога мікрафона даць доступ:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "М">
+<!ENTITY getUserMedia.audioCapture.label "Гуказапіс з карткі будзе абагулены.">
+<!ENTITY getUserMedia.allWindowsShared.message "Усе бачныя вокны на вашым экране будуць абагулены.">
 
-<!ENTITY trackingProtection.title "Абарона ад адсочвання">
+<!ENTITY trackingProtection.title "Ахова ад сачэння">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць адсочваць вашы паводзіны ў Інтэрнэце.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць адсочваць вашы паводзіны ў Інтэрнэце. Вы адключылі абарону.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць адсочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
 <!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента адсочвання.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
