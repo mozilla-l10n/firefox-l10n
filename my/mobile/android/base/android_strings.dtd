@@ -281,6 +281,7 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "စိတ်ကြိုက်တပ်ဗ်များ">
+<!ENTITY pref_custom_tabs_summary3 "ဝဘ်ဆိုက်များကို ဖွင့်ရာတွင် &brandShortName; ၏ စိတ်ကြိုက်ပြင်ဆင်ထားသော ဗားရှင်းကို အသုံးပြုရန် အက်ပ်များကို ခွင့်ပြုပါ">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ကိစ္စအဖုံဖုံ">
@@ -539,6 +540,7 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "တပ်ဗ်များကို နေရာသိုသိပ်စေရန် ပြုလုပ်ပါ">
+<!ENTITY pref_compact_tabs_summary2 "ဒေါင်လိုက်ပုံစံတွင် တပ်ဗ်များကို အတိုင်နှစ်တိုင်ပုံစံ စီစဉ်ပါ">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -849,3 +851,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "မှတ်တမ်းမှ ဖျက်ပါ">
 
 <!ENTITY activity_stream_welcome_title "ဦးစားပေးအကြောင်းအရာများကနေ ကြိုဆိုပါသည်">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; သည် ဝဘ်တွင် သင်ရှာဖွေတွေ့ရှိထားသော အကြောင်းအရာများထဲမှ အထူးဖော်ပြလိုသော အကြောင်းအရာများကို ယခုပင် ဖန်တီးလိုက်သည်။ ထို့အတွက်ကြောင့် သင်ဖတ်ရှုလေ့ရှိသော ဆောင်းပါးများ၊ ဗီဒီယိုများ၊ စာမှတ်များနှင့် အခြားစာမျက်နှာများကို တွေ့မြင်နိုင်သည်။">
