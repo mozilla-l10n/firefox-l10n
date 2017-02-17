@@ -823,24 +823,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Адключыць абарону для гэтага сайта">
+<!ENTITY trackingProtection.unblock.label "Адключыць ахову для гэтага сайта">
 <!ENTITY trackingProtection.unblock.accesskey "А">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Адключыць абарону для гэтай сесіі">
+<!ENTITY trackingProtection.unblockPrivate.label "Адключыць ахову для гэтай сесіі">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "А">
-<!ENTITY trackingProtection.block2.label "Уключыць абарону">
+<!ENTITY trackingProtection.block2.label "Уключыць ахову">
 <!ENTITY trackingProtection.block2.accesskey "У">
 
 <!ENTITY trackingContentBlocked.message "Адсочванне">
-<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія адсочвалі вашы дзеянні ў Інтэрнэце, былі заблакаваны.">
+<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія адсочвалі вашы дзеянні ў інтэрнэце, былі заблакаваны.">
 <!ENTITY trackingContentBlocked.learnMore "Даведацца больш">
-<!ENTITY trackingContentBlocked.unblock2.label "Адключыць абарону для гэтага сайта">
+<!ENTITY trackingContentBlocked.options "Налады">
+<!ENTITY trackingContentBlocked.unblock2.label "Адключыць ахову для гэтага сайта">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "А">
-<!ENTITY trackingContentBlocked.block.label "Уключыць абарону">
+<!ENTITY trackingContentBlocked.block.label "Уключыць ахову">
 <!ENTITY trackingContentBlocked.block.accesskey "У">
-<!ENTITY trackingContentBlocked.disabled.message "Абарона ад адсочвання адключана">
+<!ENTITY trackingContentBlocked.disabled.message "Ахова ад сачэння адключана">
 
 <!ENTITY pluginNotification.showAll.label "Паказаць усе">
 <!ENTITY pluginNotification.showAll.accesskey "у">
@@ -848,7 +849,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Дазволіць зараз">
 <!ENTITY pluginActivateAlways.label "Дазволіць і запомніць">
-<!ENTITY pluginBlockNow.label "Заблакаваць убудову">
+<!ENTITY pluginBlockNow.label "Заблакаваць плагін">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
@@ -857,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      a CSS length value. -->
 <!ENTITY pluginNotification.width "35em">
 
-<!ENTITY uiTour.infoPanel.close "Зачыніць">
+<!ENTITY uiTour.infoPanel.close "Закрыць">
 
 <!ENTITY appMenuSidebars.label         "Палічкі">
 
@@ -876,10 +877,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "Пры гэтым будуць:">
 <!ENTITY panicButton.view.deleteCookies           "Выдалены апошнія <html:strong>Кукі</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "Выдалена нядаўняя <html:strong>Гісторыя</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Зачынены ўсе <html:strong>Карткі</html:strong> і <html:strong>Вокны</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Закрыты ўсе <html:strong>Карткі</html:strong> і <html:strong>Вокны</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Адкрыць новае чыстае акно">
 
-<!ENTITY panicButton.view.undoWarning             "Гэта дзеянне не можа быць адменена.">
+<!ENTITY panicButton.view.undoWarning             "Гэта дзеянне немагчыма скасаваць.">
 <!ENTITY panicButton.view.forgetButton            "Забыцца!">
 
 <!ENTITY panicButton.thankyou.msg1                "Ваша нядаўняя гісторыя ачышчана.">
