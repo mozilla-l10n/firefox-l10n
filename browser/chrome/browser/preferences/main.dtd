@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Пасля запуску &brandShortName;:">
 <!ENTITY startupPage.accesskey     "з">
+<!ENTITY startupUserHomePage.label "Паказваць вашу хатнюю старонку">
 <!ENTITY startupBlankPage.label    "Паказаць пустую старонку">
+<!ENTITY startupPrevSession.label  "Паказваць вокны і карткі з апошняга разу">
 
 <!ENTITY homepage.label            "Хатняя старонка:">
 <!ENTITY homepage.accesskey        "Х">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "г">
 <!ENTITY chooseFolderMac.label        "Выбраць…">
 <!ENTITY chooseFolderMac.accesskey    "В">
+<!ENTITY alwaysAskWhere.label         "Заўжды пытацца, куды запісваць файлы">
 
 
+<!ENTITY getStarted.label                 "Пачаць выкарыстоўваць Sync…">
 
