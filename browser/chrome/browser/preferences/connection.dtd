@@ -23,7 +23,7 @@
 <!ENTITY  ftp.label                     "พร็อกซี FTP:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "พร็อกซี HTTP:">
-<!ENTITY  http.accesskey                "H">
+<!ENTITY  http.accesskey                "x">
 <!ENTITY  ssl.label                     "พร็อกซี SSL:">
 <!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "โฮสต์ SOCKS:">
