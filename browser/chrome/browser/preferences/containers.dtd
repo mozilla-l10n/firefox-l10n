@@ -14,6 +14,7 @@
 
 <!ENTITY name.label           "ชื่อ:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "ป้อนชื่อการแยกตัวตน">
 <!ENTITY icon.label           "ไอคอน:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "สี:">
