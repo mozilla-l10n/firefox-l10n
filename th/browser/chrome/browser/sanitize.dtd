@@ -48,7 +48,7 @@ that require it.  -->
 <!ENTITY historySection.label         "ประวัติ">
 <!ENTITY dataSection.label            "ข้อมูล">
 
-<!ENTITY itemHistoryAndDownloads.label     "ประวัติการท่องเว็บและดาวน์โหลด">
+<!ENTITY itemHistoryAndDownloads.label     "ประวัติการท่องเว็บและการดาวน์โหลด">
 <!ENTITY itemHistoryAndDownloads.accesskey "ป">
 <!ENTITY itemFormSearchHistory.label       "ประวัติแบบฟอร์มและการค้นหา">
 <!ENTITY itemFormSearchHistory.accesskey   "ป">
