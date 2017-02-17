@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "การตั้งค่า - ข้อมูลไซต์">
+<!ENTITY     settings.description          "เว็บไซต์ดังต่อไปนี้ได้ร้องขอเพื่อจัดเก็บข้อมูลไซต์ในดิสก์ของคุณ คุณสามารถระบุว่าเว็บไซต์ใดได้รับอนุญาตให้จัดเก็บข้อมูลไซต์ ข้อมูลไซต์เริ่มต้นคือชั่วคราวและอาจถูกลบโดยอัตโนมัติ">
 <!ENTITY     hostCol.label                 "ไซต์">
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
