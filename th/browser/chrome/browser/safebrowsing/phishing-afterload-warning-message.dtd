@@ -20,7 +20,7 @@
 <!ENTITY safeb.blocked.malwarePage.shortDesc "หน้าเว็บนี้ที่ <span id='malware_sitename'/> ถูกรายงานว่าเป็นหน้ารุกรานและถูกปิดกั้นตามการตั้งค่าความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>หน้ารุกรานจะพยายามติดตั้งโปรแกรมซึ่งขโมยข้อมูลส่วนตัว ใช้คอมพิวเตอร์ของคุณเพื่อโจมตีผู้อื่น หรือสร้างความเสียหายให้กับระบบของคุณ</p><p>บางหน้ารุกรานจงใจแจกจ่ายซอฟต์แวร์ที่เป็นอันตราย แต่หลายแห่งก็ถูกบุกรุกโดยที่เจ้าของไม่ทราบหรือไม่ได้อนุญาต</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "รายงานหน้าซอฟต์แวร์ไม่พึงประสงค์แล้ว!">
+<!ENTITY safeb.blocked.unwantedPage.title "หน้าที่มีซอฟต์แวร์ไม่พึงประสงค์ตามการรายงาน!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "หน้าเว็บนี้ที่ <span id='unwanted_sitename'/> ถูกรายงานว่ามีซอฟต์แวร์ไม่พึงประสงค์และถูกปิดกั้นตามการตั้งค่าความปลอดภัยของคุณ">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>หน้าที่มีซอฟต์แวร์ไม่พึงประสงค์จะพยายามติดตั้งซอฟต์แวร์ที่สามารถหลอกลวงและส่งผลกระทบกับระบบของคุณในทางที่ไม่คาดคิด</p>">
