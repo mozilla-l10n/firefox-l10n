@@ -38,6 +38,7 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Erilliset kutsut jokaiselle osallistujalle">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "j">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Jos tämä on valittu, niin jokaiselle osallistujalle lähetetään yksi sähköpostiviesti. Jokaisessa kutsussa on mainittu vain osallistuja, joka on vastaanottanut sen. Näin muiden osallistujien henkilöllisyydet eivät paljastu.">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Osoittaa, että et hyväksy vastaehdotuksia">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
