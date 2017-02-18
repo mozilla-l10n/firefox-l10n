@@ -94,10 +94,12 @@
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+<!ENTITY options.enableServiceWorkersHTTP.label     "เปิดใช้งานตัวทำงานบริการผ่าน HTTP (เมื่อกล่องเครื่องมือเปิดอยู่)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "เครื่องมือนักพัฒนาเริ่มต้น">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
@@ -135,6 +137,7 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+<!ENTITY options.debugger.label            "ตัวดีบั๊ก">
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
