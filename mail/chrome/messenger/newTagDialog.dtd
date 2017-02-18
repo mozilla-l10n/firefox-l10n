@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- New Tag Dialog -->
-<!ENTITY newTagDialog.title "Uue sildi loomine">
-<!ENTITY name.label         "Sildi nimi:">
-<!ENTITY name.accesskey     "S">
+<!ENTITY newTagDialog1.title     "Uue sildi loomine">
+<!ENTITY name.label              "Sildi nimi:">
+<!ENTITY name.accesskey          "S">

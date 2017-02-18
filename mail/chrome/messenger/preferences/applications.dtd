@@ -2,37 +2,37 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  typeColumn.label         "Sisu tüüp">
-<!ENTITY  typeColumn.accesskey     "S">
+<!ENTITY  typeColumn.label            "Sisu tüüp">
+<!ENTITY  typeColumn.accesskey        "S">
 
-<!ENTITY  actionColumn2.label      "Tegevus">
-<!ENTITY  actionColumn2.accesskey  "T">
+<!ENTITY  actionColumn2.label         "Tegevus">
+<!ENTITY  actionColumn2.accesskey     "T">
 
-<!ENTITY  focusSearch1.key         "F">
-<!ENTITY  focusSearch2.key         "K">
+<!ENTITY  focusSearch1.key            "F">
+<!ENTITY  focusSearch2.key            "K">
 
-<!ENTITY  filter.placeholder       "Otsi">
+<!ENTITY  filter.placeholder          "Otsi">
 
-<!ENTITY saveTo.label              "Failid salvestatakse asukohta">
-<!ENTITY saveTo.accesskey          "F">
-<!ENTITY alwaysAsk.label           "Alati küsitakse, kuhu failid salvestatakse">
-<!ENTITY alwaysAsk.accesskey       "A">
-<!ENTITY chooseFolderWin.label     "Lehitse…">
-<!ENTITY chooseFolderWin.accesskey "L">
-<!ENTITY chooseFolderMac.label     "Lehitse…">
-<!ENTITY chooseFolderMac.accesskey "L">
+<!ENTITY saveTo.label                 "Failid salvestatakse asukohta">
+<!ENTITY saveTo.accesskey             "F">
+<!ENTITY alwaysAsk.label              "Alati küsitakse, kuhu failid salvestatakse">
+<!ENTITY alwaysAsk.accesskey          "A">
+<!ENTITY chooseFolderWin.label        "Lehitse…">
+<!ENTITY chooseFolderWin.accesskey    "L">
+<!ENTITY chooseFolderMac.label        "Lehitse…">
+<!ENTITY chooseFolderMac.accesskey    "L">
 
-<!ENTITY attachments.incoming.label        "Saabuvad">
-<!ENTITY attachments.outgoing.label        "Väljuvad">
+<!ENTITY attachments.incoming.label   "Saabuvad">
+<!ENTITY attachments.outgoing.label   "Väljuvad">
 
-<!ENTITY addCloudFileAccount.label         "Lisa">
-<!ENTITY addCloudFileAccount.accesskey     "L">
-<!ENTITY addCloudFileAccount.description   "Lisa uus pilveteenus">
-<!ENTITY removeCloudFileAccount.label      "Eemalda">
-<!ENTITY removeCloudFileAccount.accesskey  "E">
-<!ENTITY authRequired.description          "Teenuse sätete nägemiseks on vajalik autoriseerimine.">
-<!ENTITY authRequired.button.label         "Autoriseeri">
-<!ENTITY authRequired.button.accesskey     "A">
+<!ENTITY addCloudFileAccount1.label       "Lisa…">
+<!ENTITY addCloudFileAccount1.accesskey   "L">
+<!ENTITY addCloudFileAccount.description  "Lisa uus pilveteenus">
+<!ENTITY removeCloudFileAccount.label     "Eemalda">
+<!ENTITY removeCloudFileAccount.accesskey "E">
+<!ENTITY authRequired.description         "Teenuse sätete nägemiseks on vajalik autoriseerimine.">
+<!ENTITY authRequired.button.label        "Autoriseeri">
+<!ENTITY authRequired.button.accesskey    "A">
 
 <!ENTITY enableCloudFileAccountOffer.label "Pilveteenuste kasutamist pakutakse suuremate failide puhul kui">
-<!ENTITY enableCloudFileAccountOffer.mb    "MiB">
+<!ENTITY enableCloudFileAccountOffer.mb "MiB">
