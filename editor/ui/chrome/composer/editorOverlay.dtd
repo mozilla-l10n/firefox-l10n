@@ -27,6 +27,8 @@
 <!-- Insert menu items -->
 <!ENTITY insertMenu.label "Lisää">
 <!ENTITY insertMenu.accesskey "L">
+<!ENTITY insertLinkCmd2.label "Lähetä linkki…">
+<!ENTITY insertLinkCmd2.accesskey "L">
 <!ENTITY insertAnchorCmd.label "Nimetty ankkuri…">
 <!ENTITY insertAnchorCmd.accesskey "N">
 <!ENTITY insertImageCmd.label "Kuva…">

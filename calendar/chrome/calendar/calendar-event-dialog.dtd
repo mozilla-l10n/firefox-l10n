@@ -38,6 +38,7 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Erilliset kutsut jokaiselle osallistujalle">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "j">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Jos tämä on valittu, niin jokaiselle osallistujalle lähetetään yksi sähköpostiviesti. Jokaisessa kutsussa on mainittu vain osallistuja, joka on vastaanottanut sen. Näin muiden osallistujien henkilöllisyydet eivät paljastu.">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Osoittaa, että et hyväksy vastaehdotuksia">
 
 <!-- Keyboard Shortcuts -->
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -160,10 +161,14 @@
 <!ENTITY event.remove.attendee.accesskey                  "o">
 
 <!-- Toolbar -->
+<!ENTITY  event.toolbar.save.label2                       "Tallenna">
+<!ENTITY  event.toolbar.saveandclose.label                "Tallenna ja sulje">
 <!ENTITY  event.toolbar.delete.label                      "Poista">
 <!ENTITY  event.toolbar.attendees.label                   "Kutsu osallistujia">
 <!ENTITY  event.toolbar.privacy.label                     "Tietosuoja">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Tallenna">
+<!ENTITY  event.toolbar.saveandclose.tooltip              "Tallenna ja sulje">
 <!ENTITY  event.toolbar.delete.tooltip                    "Poista">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Kutsu henkilöitä">
 <!ENTITY  event.toolbar.attachments.tooltip               "Lisää liitetiedostoja">
@@ -396,6 +401,7 @@
 <!ENTITY read.only.tentative.label       "Saatan osallistua">
 <!ENTITY read.only.needs.action.label    "Vahvistan myöhemmin">
 <!ENTITY read.only.reminder.label        "Muistuta:">
+<!ENTITY read.only.attachments.label     "Liitteet:">
 <!ENTITY read.only.attendees.label       "Osallistujat">
 <!ENTITY read.only.description.label     "Kuvaus">
 <!ENTITY read.only.link.label            "Aiheeseen liittyvä linkki">
