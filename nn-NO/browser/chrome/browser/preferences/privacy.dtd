@@ -19,9 +19,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Les meir">
 <!ENTITY changeBlockList.label          "Endra blokkeringsliste">
 <!ENTITY changeBlockList.accesskey      "b">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Du kan og ">
 <!ENTITY  doNotTrack.settings.label     "handsame Ikkje spor-innstillingane dine">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "Liknande søk frå standardsøkjemotoren">
 <!ENTITY  locbar.searches.accesskey     "L">
 
-<!ENTITY  suggestionSettings.label      "Endra innstillingar for søkjeforslag …">
+<!ENTITY  suggestionSettings.label      "Endra innstillingar for forslag frå søkjemotoren…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
@@ -72,10 +72,10 @@
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil hugsa nettlesing, nedlasting, skjema og søkehistorikk, og ta vare på infokapslar frå nettsider du vitjar.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Du kan velja å ">
 <!ENTITY  rememberActions.clearHistory.label  "fjerna nyleg historikk">
 <!ENTITY  rememberActions.middle.label        ", eller ">
@@ -83,9 +83,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; vil bruka dei same innstillingane som privat nettlesing og vil ikkje hugsa historikk medan du brukar nettet.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Du kan velja å ">
 <!ENTITY  dontrememberActions.clearHistory.label "fjerna all historikk">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -102,12 +102,12 @@
 <!ENTITY  clearOnClose.label             "Sletta historikk når &brandShortName; avsluttar">
 <!ENTITY  clearOnClose.accesskey         "S">
 
-<!ENTITY  clearOnCloseSettings.label     "Innstillingar …">
+<!ENTITY  clearOnCloseSettings.label     "Innstillingar…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
 <!ENTITY  browserContainersHeader.label         "Innhaldsfaner">
 <!ENTITY  browserContainersLearnMore.label      "Les meir">
 <!ENTITY  browserContainersEnabled.label        "Aktiver innehaldsfaner">
 <!ENTITY  browserContainersEnabled.accesskey    "k">
-<!ENTITY  browserContainersSettings.label        "Innstillingar …">
+<!ENTITY  browserContainersSettings.label        "Innstillingar…">
 <!ENTITY  browserContainersSettings.accesskey    "I">

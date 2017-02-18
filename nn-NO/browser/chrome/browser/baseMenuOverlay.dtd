@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "Omvising i &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "m">
 
-<!ENTITY preferencesCmdMac.label        "Innstillingar …">
+<!ENTITY preferencesCmdMac.label        "Innstillingar…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tenester">
