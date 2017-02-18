@@ -42,3 +42,4 @@
 <!ENTITY pref.systemcolors.accesskey "v">
 
 <!ENTITY pref.eventsandtasks.label "Tapahtumat ja tehtävät" >
+<!ENTITY pref.editInTab.label "Muokkaa tapahtumia ja tehtäviä välilehdessä ikkunan sijaan." >
