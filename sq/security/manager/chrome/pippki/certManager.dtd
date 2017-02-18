@@ -67,7 +67,7 @@
 <!ENTITY exceptionMgr.certlocation.caption2   "Shërbyes">
 <!ENTITY exceptionMgr.certlocation.url        "Vend:">
 <!ENTITY exceptionMgr.certlocation.download   "Merrni Dëshmi">
-<!ENTITY exceptionMgr.certlocation.accesskey  "b">
+<!ENTITY exceptionMgr.certlocation.accesskey  "M">
 <!ENTITY exceptionMgr.certstatus.caption      "Gjendje Dëshmie">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Shiheni…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "S">
