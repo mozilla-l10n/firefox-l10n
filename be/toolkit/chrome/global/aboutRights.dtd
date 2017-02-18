@@ -6,6 +6,7 @@
 <!ENTITY rights.pagetitle       "Пра правы">
 <!ENTITY rights.intro-header    "Пра вашы правы">
 <!ENTITY rights.intro "&brandFullName; свабоднае праграмнае забеспячэнне з адкрытымі зыходнікамі, створанае шматлюднай сусветнай грамадой. Вам будзе цікава ведаць:">
+
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
      split into chunks for text before the link, the link text, and the text
@@ -14,7 +15,6 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-
 <!ENTITY rights.intro-point1a "&brandShortName; даступны вам згодна умовам">
 <!ENTITY rights.intro-point1b "Прылюднай Ліцэнзіі Mozilla">
 <!ENTITY rights.intro-point1c ". Яна дазваляе вам ужываць, капіяваць і распаўсюджваць &brandShortName;.  Вы таксама можаце змяняць зыходны код &brandShortName; дзеля задавальнення вашых патрэбаў. Прылюдная Ліцэнзія Mozilla дазваляе вам распаўсюджваць вашы змененыя версіі.">
@@ -22,49 +22,51 @@
 <!ENTITY rights.intro-point2-a "Ва не даюцца ніякія правы або дазволы на гандлёвыя маркі Mozilla Foundation ці іншых бакоў, уключаючы без абмежавання назву і эмблему Firefox. Дадатковыя звесткі пра гандлёвыя маркі можна знайсці">
 <!ENTITY rights.intro-point2-b "тут">
 <!ENTITY rights.intro-point2-c ".">
+
 <!-- point 2.5 text for official branded builds -->
-
 <!ENTITY rights.intro-point2.5 "Асобныя асаблівасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук да &vendorShortName;. Дасылаючы водгук, вы даяце &vendorShortName; дазвол ужываць гэты водгук для паляпшэння яго прадуктаў, публікаваць водгук на яго сеціўных пляцоўках і распаўсюджваць водгук.">
-<!-- point 3 text for official branded builds -->
 
+<!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Як мы ўжываем вашы асабістыя звесткі і водгукі, пададзеныя &vendorShortName; з &brandShortName;, апісана ў">
 <!ENTITY rights2.intro-point3b "палітыцы захавання адасаблення &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
-
 <!ENTITY rights.intro-point3-unbranded "Усе прыдатныя палітыкі прыватнасці для гэтага прадукту павінны быць пералічаны тут.">
-<!-- point 4 text for official branded builds -->
 
+<!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "Асобныя асаблівасці &brandShortName; ужываюць сеціўныя звесткавыя службы, аднак мы не гарантуем, што яны працуюць на 100&#037; правільна і адсутнасць памылак. Падрабязнасці, разам з звесткамі пра забарону гэтых асаблівасцяў, можна знайсці ў ">
 <!ENTITY rights.intro-point4b "умовах пагаднення службаў">
 <!ENTITY rights.intro-point4c ".">
-<!-- point 4 text for unbranded builds -->
 
+<!-- point 4 text for unbranded builds -->
 <!ENTITY rights.intro-point4a-unbranded "Калі гэты прадукт уключае службы Сеціва, усе прыдатныя ўмовы пагаднення службаў павінны мець спасылкі ў раздзеле ">
 <!ENTITY rights.intro-point4b-unbranded "Службы пляцовак Сеціва">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights2.webservices-header "Сеткавыя звесткавыя службы &brandFullName;">
+
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Для прайгравання пэўных тыпаў відэакантэнту &brandShortName; сцягвае пэўныя ўбудовы расшыфроўкі кантэнту ад іншых вытворцаў.">
+
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
-
 <!ENTITY rights2.webservices-a "&brandFullName; ужывае сеткавыя звесткавыя службы (&quot;Службы&quot;) для забеспячэння іншых асаблівасцяў, якія даступныя вам для ўжывання ў гэтай двайковай версіі &brandShortName; паводле ўмоваў, апісаных ніжэй. Калі вы не хочаце ўжываць адну ці больш з службаў або ўмовы пагаднення непрымальныя, вы можаце забараніць асаблівасць ці службу. Прадпісанні, у якіх апісваецца, як гэта зрабіць, можна адшукаць">
 <!ENTITY rights2.webservices-b "тут">
 <!ENTITY rights3.webservices-c ". Іншыя асаблівасці і службы могуць быць забаронены ў перавагах прыстасавання.">
-<!-- safe browsing points for branded builds -->
 
+<!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Бяспечнае азіранне:">
 <!ENTITY rights.safebrowsing-b "Забарона бяспечнага азірання не раіцца, бо ў выніку вы можаце патрапіць на небяспечныя пляцоўкі.  Калі вы хочаце забараніць гэтую асаблівасць цалкам, выканайце наступнае:">
 <!ENTITY rights.safebrowsing-term1 "Адкрыйце перавагі прыстасавання">
 <!ENTITY rights.safebrowsing-term2 "Выберыце раздзел &quot;Бяспека&quot;">
-
+<!ENTITY rights2.safebrowsing-term3 "Зніміце сцяжок &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Бяспечнае азіранне зараз забаронена">
-<!-- location aware browsing points for branded builds -->
 
+<!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Месцазалежнае азіранне:">
 <!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае. Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце забараніць гэтую асаблівасць цалкам, выканайце наступнае:">
 <!ENTITY rights.locationawarebrowsing-term1a "Набярыце на паліцы URL">
@@ -72,14 +74,14 @@
 <!ENTITY rights.locationawarebrowsing-term2 "Набярыце geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Двойчы пстрыкніце перавагу geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term4 "Месцазалежнае азіранне зараз забаронена">
+
 <!-- intro paragraph for unbranded builds -->
-
 <!ENTITY rights.webservices-unbranded "Агляд службаў пляцовак Сеціва, якія ўключаны ў прадукт, разам з прадпісаннямі, якія дазваляюць забараніць гэтыя службы, калі гэта магчыма, павінны быць пералічаны тут.">
+
 <!-- point 1 text for unbranded builds -->
-
 <!ENTITY rights.webservices-term1-unbranded "Усе прыдатныя ўмовы пагаднення службаў гэтага прадукту павінны быць пералічаны тут.">
-<!-- points 1-7 text for branded builds -->
 
+<!-- points 1-7 text for branded builds -->
 <!ENTITY rights2.webservices-term1 "&vendorShortName; і яго ўкладчыкі, ліцэнзіяты і ўдзельнікі працуюць над тым, каб забяспечыць найбольш дакладныя і сучасныя службы. Аднак мы не можам паручыцца, што гэтыя звесткі вычарпальныя і ў іх адсутнічаюць хібы. Напрыклад, служба бяспечнага азірання можа не вызначаць асобныя пляцоўкі як небяспечныя і вызначаць такімі асобныя бяспечныя пляцоўкі памылкова, служба месцазалежнага азірання карыстаецца месцазнаходжаннямі, якія нашы дастаўшчыкі даюць прыблізна, і ні мы, ні нашы дастаўшчыкі не гарантуюць дакладнасць месцазнаходжанняў.">
 <!ENTITY rights.webservices-term2 "&vendorShortName; можа самастойна перастаць карыстацца службай ці змяніць яе.">
 <!ENTITY rights2.webservices-term3 "Вы можаце карыстацца гэтымі службамі разам з дадзенай версіяй  &brandShortName;, вы маеце ўсе неабходныя правы. &vendorShortName; і ўсе ліцэнзіяты захоўваюць за сабой усе іншыя правы Службаў. Гэтыя ўмовы пагадненняў не абмяжоўваюць правоў, якія дадзеныя ліцэнзіямі адкрытых зыходнікаў, прыдатных для &brandShortName; і адпаведных версіяў зыходнага кода &brandShortName;.">
