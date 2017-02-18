@@ -4,6 +4,8 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Здаткі тэлеметрыі">
 
+<!ENTITY aboutTelemetry.changeDataChoices "
+  Змяніць">
 
 
 
@@ -13,14 +15,24 @@
 
 
 
+<!ENTITY aboutTelemetry.structured "
+Структураванае ">
+
+<!ENTITY aboutTelemetry.raw "
+Неапрацаваны JSON">
 
 
 
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "
+Тыдзень
+">
 
-
+<!ENTITY aboutTelemetry.archivePingHeader "
+Пінг
+">
 
 
 
@@ -33,7 +45,9 @@
 
 
 
+
 <!ENTITY aboutTelemetry.histogramsSection "  Гістаграмы">
+
 
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Простыя вымярэнні">
@@ -57,4 +71,10 @@
 
 <!ENTITY aboutTelemetry.filterText "  Сіта (радкі або /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  Нагрузка
+">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  Неапрацаваная нагрузка
+">
