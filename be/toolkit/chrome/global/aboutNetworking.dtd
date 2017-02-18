@@ -30,3 +30,14 @@
 <!ENTITY aboutNetworking.bytesSent             "Дасланыя байты">
 <!ENTITY aboutNetworking.bytesReceived         "Атрыманыя байты">
 <!ENTITY aboutNetworking.logging               "Метрыка">
+<!ENTITY aboutNetworking.logTutorial           "Для атрымання інструкцый пра тое, як выкарыстоўваць гэты інструмент, прачытайце артыкул <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
+<!ENTITY aboutNetworking.currentLogFile        "Бягучы файл журнала:">
+<!ENTITY aboutNetworking.currentLogModules     "Бягучыя модулі журнала:">
+<!ENTITY aboutNetworking.setLogFile            "Пазначыць файл журнала">
+<!ENTITY aboutNetworking.setLogModules         "Пазначыць модулі журнала">
+<!ENTITY aboutNetworking.startLogging          "Пачаць вядзенне журнала">
+<!ENTITY aboutNetworking.stopLogging           "Спыніць вядзенне журнала">
+<!ENTITY aboutNetworking.dnsLookup             "Пошук DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Вырашыць">
+<!ENTITY aboutNetworking.dnsDomain             "Дамен">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
