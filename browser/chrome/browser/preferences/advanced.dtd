@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Generelt">
 
@@ -50,27 +50,27 @@
 <!ENTITY connection.label                "Tilkopling">
 
 <!ENTITY connectionDesc.label            "Still inn korleis &brandShortName; koplar seg til Internett">
-<!ENTITY connectionSettings.label        "Innstillingar …">
+<!ENTITY connectionSettings.label        "Innstillingar…">
 <!ENTITY connectionSettings.accesskey    "I">
 
 <!ENTITY httpCache.label                 "Snøgglagra nettinnhald">
 
 <!ENTITY offlineStorage2.label           "Fråkopla nettinnhald og brukardata">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sidedata">
 <!ENTITY clearSiteData.label             "Nullstill alle data">
 <!ENTITY clearSiteData.accesskey         "u">
 <!ENTITY siteDataSettings.label          "Innstillingar…">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Les meir">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Avgrens snøgglageret til">
 <!ENTITY limitCacheSizeBefore.accesskey  "r">
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
