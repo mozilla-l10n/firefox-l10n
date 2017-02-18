@@ -31,7 +31,7 @@
 <!ENTITY certmgr.certdetail.o                 "Установа (O)">
 <!ENTITY certmgr.certdetail.ou                "Установавая адзінка (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Серыйны нумар">
-
+<!ENTITY certmgr.certdetail.sha256fingerprint "Адбітак SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Адбітак SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Рэдагаванне наладжванняў даверу да пасведчання КП">
@@ -74,7 +74,7 @@
 <!ENTITY certmgr.fields.label                 "Значэнне поля">
 <!ENTITY certmgr.fields.accesskey             "З">
 <!ENTITY certmgr.hierarchy.label              "Іерархія пасведчання">
-
+<!ENTITY certmgr.hierarchy.accesskey2         "І">
 <!ENTITY certmgr.addException.label           "Дадаць выключэнне…">
 <!ENTITY certmgr.addException.accesskey       "в">
 
