@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Reemplazar todo">
 <!ENTITY replaceAllButton.accesskey "a">
 <!ENTITY closeButton.label "Cerrar">
+<!ENTITY closeButton.accesskey "C">
