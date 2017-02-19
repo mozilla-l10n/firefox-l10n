@@ -10,6 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Използване на каретка за придвижване в страниците">
 <!ENTITY useCursorNavigation.accesskey   "к">
+<!ENTITY searchOnStartTyping.label       "Търсене на текст при започване на въвеждане">
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, ако е необходимо">
 <!ENTITY useOnScreenKeyboard.accesskey   "д">
 
