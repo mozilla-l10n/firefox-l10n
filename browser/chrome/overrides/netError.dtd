@@ -25,6 +25,10 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Упэўніцеся, што няма ніякай памылкі ў назве файла, такой, як прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.</li> <li>Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Доступ да файла забаронены">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Магчыма, што ён быў выдалены або перамешчаны, або дазволы на файл не даюць атрымаць да яго доступ.</li>
+</ul>">
 
 <!ENTITY generic.title "Ух?!">
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
@@ -79,11 +83,13 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Магчыма, пляцоўка часова недаступна або перагружана. Паспрабуйце зноў трохі пазней.</li> <li>Праверце злучэнне вашага кампутара з сеткаю, калі вы не здольны загрузіць ніякую старонку.</li> <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li> </ul>">
 
+<!ENTITY cspBlocked.title "Заблакавана палітыкай абароны змесціва">
 
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
 
+<!ENTITY errorReporting.learnMore "Даведацца больш…">
 
 <!ENTITY remoteXUL.title "Адлеглы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li></ul></p>">
@@ -93,11 +99,14 @@ was trying to connect. -->
 
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc2 "Дадатковыя звесткі: SSL_ERROR_NO_CYPHER_OVERLAP">
+<!ENTITY weakCryptoAdvanced.title "Дадаткова">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.copyToClipboard.label "Капіяваць тэкст у буфер абмену">
 
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
