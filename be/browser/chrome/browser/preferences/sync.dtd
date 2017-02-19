@@ -38,7 +38,10 @@
 
 <!-- Device Settings -->
 <!ENTITY syncDeviceName.label       "Назва збудовы:">
+<!ENTITY fxaSyncDeviceName.label       "Назва прылады">
+<!ENTITY changeSyncDeviceName.label "Змяніць назву прылады…">
 <!ENTITY cancelChangeSyncDeviceName.label "Скасаваць">
+<!ENTITY saveChangeSyncDeviceName.label "Захаваць">
 <!ENTITY unlinkDevice.label           "Разлучыцца з гэтай збудовай">
 
 <!-- Footer stuff -->
@@ -67,6 +70,12 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Вы не ўвайшлі.">
 <!ENTITY signIn.label                "Увайсці">
+<!ENTITY disconnect.label            "Адлучыцца…">
+<!ENTITY disconnect.accesskey        "А">
+<!ENTITY verify.label                "Пацвердзіць эл.пошту">
+<!ENTITY verify.accesskey            "П">
+<!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
+<!ENTITY forget.accesskey            "З">
 
 <!ENTITY welcome.description "Доступа да вашых уставак, пароляў і іншага, што ўжываецца вамі на &brandShortName;.">
 <!ENTITY welcome.signIn.label "Увайсці">
@@ -74,7 +83,11 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY welcome.useOldSync.label "Ужываеце старэйшую версію Sync?">
 
+<!ENTITY signedOut.caption            "Вазьміце сваё Сеціва з сабой">
+<!ENTITY signedOut.accountBox.create  "Стварыць акаунт">
+<!ENTITY signedOut.accountBox.create.accesskey  "С">
 <!ENTITY signedOut.accountBox.signin  "Увайсці">
+<!ENTITY signedOut.accountBox.signin.accesskey  "У">
 
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
@@ -82,6 +95,7 @@ both, to better adapt this sentence to their language.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "Сцягнуць Firefox для ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
@@ -90,3 +104,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
+<!ENTITY mobilePromo3.end              " каб сінхранізавацца са сваёй мабільнай прыладай.">
