@@ -11,20 +11,49 @@
 
 
 
+<!ENTITY aboutTelemetry.pingDataSource "
+Крыніца дадзеных пінга:
+">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "
+Дадзеныя бягучага пінга
+">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "
+Дадзеныя архіўнага пінга
+">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "
+Адлюстраванне дадзеных пінга:
+">
 
 <!ENTITY aboutTelemetry.structured "
-Структураванае ">
+Структураванае
+">
 
 <!ENTITY aboutTelemetry.raw "
-Неапрацаваны JSON">
+Неапрацаваны JSON
+">
 
+<!ENTITY aboutTelemetry.showSubsessionData "
+Адлюстроўваць дадзеныя падсесіі
+">
 
+<!ENTITY aboutTelemetry.choosePing "
+Выберыце пінг:
+">
 
+<!ENTITY aboutTelemetry.showNewerPing "
+&lt;&lt; Больш новы пінг
+">
 
+<!ENTITY aboutTelemetry.showOlderPing "
+Больш стары пінг &gt;&gt;
+">
 
+<!ENTITY aboutTelemetry.rawPingData "
+Неапрацаваныя дадзеныя пінга…
+">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Тыдзень
@@ -34,8 +63,14 @@
 Пінг
 ">
 
+<!ENTITY aboutTelemetry.generalDataSection "
+   Агульныя дадзеныя">
 
+<!ENTITY aboutTelemetry.environmentDataSection "
+   Дадзеныя асяроддзя ">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "
+   Лог тэлеметрыі ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Паказ чыннікаў SQL">
 
@@ -43,12 +78,27 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Нізкі завісанняў">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Захопленыя стэкі
+">
 
+<!ENTITY aboutTelemetry.scalarsSection "
+  Скаляры
+">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Ключавыя скаляры
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Гістаграмы">
 
+<!ENTITY aboutTelemetry.keyedHistogramsSection "
+  Ключавыя гістаграмы
+">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Падзеі
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Простыя вымярэнні">
 
@@ -56,6 +106,9 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Апошнія запісы">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "
+  Інфармацыя сесіі
+">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Гістаграма, пазбіраныя дадаткамі">
 
