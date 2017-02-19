@@ -5,10 +5,14 @@
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
 <!ENTITY  trackingProtectionPrivate.label      "Толькі ў прыватных вокнах">
 <!ENTITY  trackingProtectionNever.label        "Ніколі">
+<!ENTITY  trackingProtectionLearnMore.label    "Даведацца больш">
 <!ENTITY  trackingProtectionExceptions.label   "Выключэнні…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ч">
 
 <!ENTITY tracking.label                 "Высочванне">
+<!ENTITY trackingProtectionPBMLearnMore.label "Даведацца больш">
+<!ENTITY changeBlockList.label          "Змяніць спіс блакавання">
+<!ENTITY changeBlockList.accesskey      "З">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -24,6 +28,7 @@
 <!ENTITY  locbar.history.accesskey      "Г">
 <!ENTITY  locbar.bookmarks.label        "Закладкі">
 <!ENTITY  locbar.openpage.label         "Адкрытыя карткі">
+<!ENTITY  locbar.openpage.accesskey     "А">
 
 
 <!ENTITY  acceptCookies.label           "Набываць біркі з пляцовак">
@@ -89,3 +94,5 @@
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
 <!ENTITY  browserContainersHeader.label         "Карткі кантэйнераў">
+<!ENTITY  browserContainersLearnMore.label      "Даведацца больш">
+<!ENTITY  browserContainersEnabled.label        "Уключыць карткі кантэйнераў">
