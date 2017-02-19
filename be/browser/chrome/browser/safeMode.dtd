@@ -6,9 +6,10 @@
 <!ENTITY window.maxWidth              "430">
 
 <!ENTITY startSafeMode.label          "Запсук у бяспечным рэжыме">
-
+<!ENTITY refreshProfile.label         "Ачысціць &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Бяспечны рэжым – адмысловы рэжым &brandShortName;, які выкарыстоўваецца для вырашэння праблемаў.">
 <!ENTITY safeModeDescription4.label   "Вашы дадаткі і асабістыя наладжванні будуць часова забаронены.">
+
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
