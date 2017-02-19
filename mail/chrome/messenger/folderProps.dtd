@@ -30,7 +30,7 @@
 <!ENTITY retentionKeepAll.accesskey "N">
 <!ENTITY retentionKeepRecent.label "Izbriši vse, razen najnovejših">
 <!ENTITY retentionKeepRecent.accesskey "v">
-<!ENTITY retentionApplyToFlagged.label "Vedno obdrži označena sporočila">
+<!ENTITY retentionApplyToFlagged.label "Vedno obdrži sporočila z zvezdico">
 <!ENTITY retentionApplyToFlagged.accesskey "s">
 
 <!ENTITY folderSynchronizationTab.label          "Sinhronizacija">
