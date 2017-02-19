@@ -285,6 +285,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ကိစ္စအဖုံဖုံ">
+<!ENTITY pref_activity_stream_summary "&brandShortName; တွင် သင်ရှာဖွေလိုသည်ကို ပိုမိုတိကျစွာ ရှာဖွေနိုင်ရန် အမြင်ပိုင်းပိုမိုကောင်းမွန်သော မှတ်တမ်းသတင်းနှင့် ပြန်လည်ပုံဖော်ထားသော မူလစာမျက်နှာတို့ကို ယခင်ကထက် အသုံးပြုရပိုမိုလွယ်ကူစေရန် ပြုလုပ်ထားသည်။">
 
 <!ENTITY tracking_protection_prompt_title "ယခု ခြေရာခံ ကာကွယ်မှုစနစ် ပါဝင်ပါသည်">
 <!ENTITY tracking_protection_prompt_text "ခြေရာခံအစိတ်အပိုင်းများကို နိုးကြားတက်ကြွစွာ ပိတ်ပင်တားဆီးနေသည့်အတွက် စိုးရိမ်ပူပန်စရာ မလိုပါ။">
