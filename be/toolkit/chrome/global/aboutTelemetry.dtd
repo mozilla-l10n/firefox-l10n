@@ -5,11 +5,24 @@
 <!ENTITY aboutTelemetry.pageTitle "Здаткі тэлеметрыі">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
-  Змяніць">
+  Змяніць
+">
 
+<!ENTITY aboutTelemetry.uploadEnabled "
+  Выгрузка дадзеных FHR <span>уключана</span>.
+">
 
+<!ENTITY aboutTelemetry.uploadDisabled "
+  Выгрузка дадзеных FHR <span>адключана</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Запіс пашыранай тэлеметрыі <span>уключана</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Запіс пашыранай тэлеметрыі <span>адключана</span>.
+">
 
 <!ENTITY aboutTelemetry.pingDataSource "
 Крыніца дадзеных пінга:
@@ -64,13 +77,16 @@
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
-   Агульныя дадзеныя">
+  Агульныя дадзеныя
+">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-   Дадзеныя асяроддзя ">
+  Дадзеныя асяроддзя
+">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-   Лог тэлеметрыі ">
+  Лог тэлеметрыі
+">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Паказ чыннікаў SQL">
 
