@@ -48,7 +48,7 @@
 <!ENTITY  switch_to_tab "מעבר ללשונית">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "הגרסה הבלתי מקוונת מוצגת">
+<!ENTITY  tab_offline_version "מוצגת הגרסה הלא מקוונת">
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; נתקל בבעיה וקרס. הלשוניות שלך אמורות להיות רשומות לאחר הפעלה מחדש בדף הפתיחה של &brandShortName;.">
@@ -830,7 +830,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY promotion_add_to_homescreen "הוספה למסך הבית">
 
-<!ENTITY helper_first_offline_bookmark_title "לקריאה בלתי מקוונת">
+<!ENTITY helper_first_offline_bookmark_title "לקריאה לא מקוונת">
 <!ENTITY helper_first_offline_bookmark_message "ניתן למצוא את פריטי תצוגת הקריאה שלך בין הסימניות, אפילו ללא חיבור לאינטרנט.">
 <!ENTITY helper_first_offline_bookmark_button "מעבר לסימניות">
 
