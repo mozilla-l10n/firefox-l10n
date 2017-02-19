@@ -7,25 +7,26 @@
 <!ENTITY  blockPopups.label           "Затрымліваць вокны-вынырцы">
 <!ENTITY  blockPopups.accesskey       "т">
 
-
-
-
-
-
-
-
+<!ENTITY  notificationsPolicy.label            "Апавяшчэнні">
+<!ENTITY  notificationsPolicyLearnMore.label   "Даведацца больш">
+<!ENTITY  notificationsPolicyDesc3.label       "Пазначце, якія сайты могуць дасылаць вам апавяшчэнні">
+<!ENTITY  notificationsPolicyButton.accesskey  "р">
+<!ENTITY  notificationsPolicyButton.label      "Выбраць…">
+<!ENTITY  notificationsDoNotDisturb.label      "Не турбаваць мяне">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "т">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Не паказваць апавяшчэння пакуль вы не перазапусціце &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Выключэнні…">
 <!ENTITY  popupExceptions.accesskey   "В">
 
-<!ENTITY  fontsAndColors.label        "Шрыфты і колеры">
+<!ENTITY  fontsAndColors.label        "Шрыфты &amp; колеры">
 
 <!ENTITY  defaultFont.label           "Змоўчны шрыфт:">
 <!ENTITY  defaultFont.accesskey       "ш">
 <!ENTITY  defaultSize.label           "Памер:">
 <!ENTITY  defaultSize.accesskey       "П">
 
-<!ENTITY  advancedFonts.label         "Пашыраны…">
+<!ENTITY  advancedFonts.label         "Дадаткова…">
 <!ENTITY  advancedFonts.accesskey     "р">
 
 <!ENTITY  colors.label                "Колеры…">
@@ -37,8 +38,10 @@
 <!ENTITY chooseButton.label           "Выбраць…">
 <!ENTITY chooseButton.accesskey       "В">
 
-
-
+<!ENTITY translateWebPages.label      "Перакладаць змесціва">
+<!ENTITY translateWebPages.accesskey  "П">
+<!ENTITY translateExceptions.label    "Выключэнні…">
+<!ENTITY translateExceptions.accesskey "ч">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
@@ -47,8 +50,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
+<!ENTITY translation.options.attribution.beforeLogo "Пераклад">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM змесціва">
 
-
-
+<!ENTITY  playDRMContent.label         "Прайграваць DRM змесціва">
+<!ENTITY  playDRMContent.accesskey     "П">
+<!ENTITY  playDRMContent.learnMore.label "Даведацца больш">
