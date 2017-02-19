@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "I">
 <!ENTITY siteDataSettings.label          "Configuraciones…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "Aprende más">
+<!ENTITY siteDataLearnMoreLink.label     "Aprender más">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,7 +71,7 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Caché limitado a">
+<!ENTITY limitCacheSizeBefore.label      "Limitar caché a">
 <!ENTITY limitCacheSizeBefore.accesskey  "l">
 <!ENTITY limitCacheSizeAfter.label       "MB de espacio">
 <!ENTITY clearCacheNow.label             "Limpiar ahora">
@@ -117,10 +117,10 @@
 <!ENTITY certPersonal.description        "Cuando el servidor te pide tu certificado personal:">
 <!ENTITY selectCerts.auto                "Seleccionar uno automáticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
-<!ENTITY selectCerts.ask                 "Te lo pide cada vez">
+<!ENTITY selectCerts.ask                 "Solicitar cada vez">
 <!ENTITY selectCerts.ask.accesskey       "A">
-<!ENTITY enableOCSP.label                "Respuesta de la consulta OCSP los servidores confirman la validez actual de los certificados">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.label                "Consultar servidores de respuesta OCSP para confirmar la validez actual de los certificados">
+<!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de seguridad">
