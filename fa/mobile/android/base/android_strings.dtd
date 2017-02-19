@@ -256,7 +256,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "نمایش تصاویر">
 <!ENTITY pref_tap_to_load_images_enabled "همیشه">
 <!ENTITY pref_tap_to_load_images_data "فقط با Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "مسدود شد">
+<!ENTITY pref_tap_to_load_images_disabled2 "مسدود شود">
 
 <!ENTITY pref_show_web_fonts "نمایش قلم‌های تحت وب">
 <!ENTITY pref_show_web_fonts_summary2 "بارگیری از راه‌ دور فونت ها زمانی که یک صفحه بارگذاری می‌شود">
@@ -387,19 +387,19 @@ size. -->
 <!ENTITY pref_history_search_suggestions "نمایش تاریخچه جست‌وجو">
 <!ENTITY pref_import_options "گزینه‌های وارد کردن">
 <!ENTITY pref_import_android_summary "وارد‌کردن نشانک‌ها و تاریخچه از مرورگر اصلی">
-<!ENTITY pref_private_data_openTabs "زبانه های باز">
+<!ENTITY pref_private_data_openTabs "زبانه‌های باز">
 <!ENTITY pref_private_data_history2 "تاریخچۀ مرور">
-<!ENTITY pref_private_data_searchHistory "جست‌وجو در تاریخچه">
-<!ENTITY pref_private_data_formdata2 "از تاریخچه">
-<!ENTITY pref_private_data_cookies2 "کوکی‌ها و ورود های فعال">
-<!ENTITY pref_private_data_passwords2 "ورود‌های دخیره شده">
+<!ENTITY pref_private_data_searchHistory "تاریخچهٔ جست‌وجو">
+<!ENTITY pref_private_data_formdata2 "تاریخچهٔ فرم‌ها">
+<!ENTITY pref_private_data_cookies2 "کوکی‌ها و ورودهای فعال">
+<!ENTITY pref_private_data_passwords2 "ورودهای ذخیره شده">
 <!ENTITY pref_private_data_cache "حافظهٔ نهان">
 <!ENTITY pref_private_data_offlineApps "اطلاعات آفلاین وب‌سایت‌ها">
-<!ENTITY pref_private_data_siteSettings2 "تنظیمات سایت">
+<!ENTITY pref_private_data_siteSettings2 "تنظیمات سایت‌ها">
 <!ENTITY pref_private_data_downloadFiles2 "دریافت‌ها">
 <!ENTITY pref_private_data_syncedTabs "زبانه‌های همگام‌سازی شده">
 
-<!ENTITY pref_default_browser "ایجاد مرورگر پیش فرض">
+<!ENTITY pref_default_browser "تبدیل به مرورگر پیش‌فرض">
 <!ENTITY pref_default_browser_mozilla_support_tablet "بازدید از پشتیبانی موزیلا">
 <!ENTITY pref_about_firefox "درباره &brandShortName;">
 <!ENTITY pref_vendor_faqs "پرسش‌های متداول">
@@ -663,7 +663,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "محافظت در برابر ردگیری">
 <!ENTITY doorhanger_tracking_state_enabled "فعال شد">
 <!ENTITY doorhanger_tracking_state_disabled "غیرفعال شد">
-<!ENTITY doorhanger_tracking_message_enabled1 "تلاش‌هایی برای رد گیری فعالیت‌های آنلاین شما، مسدود شدند.">
+<!ENTITY doorhanger_tracking_message_enabled1 "تلاش‌هایی برای ردگیری فعالیت‌های آنلاین شما، مسدود شده‌اند.">
 <!ENTITY doorhanger_tracking_message_disabled2 "این صفحه حاوی عناصری است که ممکن است مرور شما را رد گیری کنند.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
@@ -671,7 +671,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "فعال‌سازی حفاظت">
 <!ENTITY disable_protection "غیرفعال سازی حفاظت">
 
-<!ENTITY private_data_success "داده‌های شخصی پاک شده‌اند">
+<!ENTITY private_data_success "داده‌های شخصی پاک شدند">
 <!ENTITY private_data_fail "بعضی از داده‌های شخصی نمی‌توانند پاک شوند">
 
 <!ENTITY bookmarkhistory_button_import "وارد کردن">
