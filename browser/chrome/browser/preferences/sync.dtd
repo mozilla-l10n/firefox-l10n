@@ -70,6 +70,8 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Вы не ўвайшлі.">
 <!ENTITY signIn.label                "Увайсці">
+<!ENTITY profilePicture.tooltip      "Змяніць профільную выяву">
+<!ENTITY verifiedManage.label        "Кіраванне акаунтам">
 <!ENTITY disconnect.label            "Адлучыцца…">
 <!ENTITY disconnect.accesskey        "А">
 <!ENTITY verify.label                "Пацвердзіць эл.пошту">
@@ -84,11 +86,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.useOldSync.label "Ужываеце старэйшую версію Sync?">
 
 <!ENTITY signedOut.caption            "Вазьміце сваё Сеціва з сабой">
+<!ENTITY signedOut.description        "Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.">
+<!ENTITY signedOut.accountBox.title   "Злучыцца з &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Стварыць акаунт">
 <!ENTITY signedOut.accountBox.create.accesskey  "С">
 <!ENTITY signedOut.accountBox.signin  "Увайсці">
 <!ENTITY signedOut.accountBox.signin.accesskey  "У">
 
+<!ENTITY signedIn.engines.label       "Сінхранізаваць усе прылады">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

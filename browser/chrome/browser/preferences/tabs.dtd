@@ -7,8 +7,11 @@
 <!ENTITY newWindowsAsTabs.label       "Адкрываць новыя вокны ў новых устаўках">
 <!ENTITY newWindowsAsTabs.accesskey   "у">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Папярэджваць пры закрыцці некалькіх картак">
 
+<!ENTITY warnOnOpenManyTabs.label       "Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць &brandShortName;">
 
+<!ENTITY switchLinksToNewTabs.label        "Калі вы адкрылі спасылку ў новай картцы, неадкладна пераключыцца на яе">
 
 <!ENTITY showTabsInTaskbar.label          "Паказваць перадпрагляды ўставак на паліцы задачаў Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "з">
