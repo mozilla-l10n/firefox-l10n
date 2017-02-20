@@ -63,11 +63,15 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "c">
 <!ENTITY cmd.removeFromHistory.label      "Scancella da-a stöia">
 <!ENTITY cmd.removeFromHistory.accesskey  "n">
+<!ENTITY cmd.clearList2.label             "Scancella Panello Anteprimma">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Cancella elenco descaregamenti">
 <!ENTITY cmd.clearDownloads.accesskey     "n">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "Permetti descaregamento">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -77,11 +81,13 @@
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Scancella File ò Permetti Descaregamento">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Arvi ò Scancella File">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
