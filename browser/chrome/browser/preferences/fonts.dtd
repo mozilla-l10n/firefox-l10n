@@ -47,6 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayano">
 <!ENTITY  font.langGroup.math                     "Matematica">
+<!ENTITY  font.langGroup.odia                     "Òriya">
 <!ENTITY  font.langGroup.telugu                   "Telogo">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -60,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Permette a-e pagine de çerne i seu font, invece de quelli che t'æ seleçionou chi sotta">
+<!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Codifica do testo pe contegui vegi">
 <!ENTITY languages.customize.Fallback2.label      "Codifica do testo da deuviâ:">
@@ -100,5 +103,5 @@
 <!ENTITY languages.customize.Fallback.turkish     "Turco">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamitta">
+<!ENTITY languages.customize.Fallback.vietnamese  "Vietnamitto">
 <!ENTITY languages.customize.Fallback.other       "Atro (incl. Ouröpa ponentinn-a)">
