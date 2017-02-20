@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "ទូទៅ">
 
+<!ENTITY  warnOnAddonInstall.label        "ព្រមាន​អ្នក​ពេល​វេបសាយ​ព្យាយាម​ដំឡើង​កម្មវិធី​បន្ថែម">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "ទប់ស្កាត់​ការ​ទាញយក​ដែល​គ្រោះថ្នាក់">
 <!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "ព្រមាន​អ្នក​អំពី​កម្មវិធី​ដែល​មិន​ធម្មតា ឬ​មិន​ចង់បាន">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ករណី​លើកលែង…">
 <!ENTITY  addonExceptions.accesskey     "ង">
