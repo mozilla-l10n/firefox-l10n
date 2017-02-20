@@ -118,6 +118,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; មិន​បាន​តភ្ជាប់​ទៅ <span id='wrongSystemTime_URL'/> ព្រោះ​ម៉ោង​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក​​បង្ហាញ​ពេលវេលា​ខុស ហើយ​​វាកំពុង​ទប់ស្កាត់​ការ​តភ្ជាប់​សុវត្ថិភាព។</p> <p>កុំព្យូទ័​រ​របស់​អ្នក​ត្រូវ​បាន​កំណត់​ជា <span id='wrongSystemTime_systemDate'/> នៅ​ពេល​ដែល​វា​គួរ​តែ​ជា <span id='wrongSystemTime_actualDate'/>។ ដើម្បី​កែ​បញ្ហា​នេះ សូម​ផ្លាស់ប្ដូរ​​ការ​កំណត់​កាលបរិច្ឆេទ និង​ពេលវេលា​របស់​អ្នក ដើម្បី​ឲ្យ​ត្រូវគ្នា​នឹង​ពេលវេលា​​ត្រឹមត្រូវ។</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; មិន​បាន​តភ្ជាប់​ទៅ <span id='wrongSystemTimeWithoutReference_URL'/> ព្រោះ​ម៉ោង​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក​​បង្ហាញ​ពេលវេលា​ខុស ហើយ​​វាកំពុង​ទប់ស្កាត់​ការ​តភ្ជាប់​សុវត្ថិភាព។</p> <p>កុំព្យូទ័​រ​របស់​អ្នក​ត្រូវ​បាន​កំណត់​ជា <span id='wrongSystemTimeWithoutReference_systemDate'/>។ ដើម្បី​កែ​បញ្ហា​នេះ សូម​ផ្លាស់ប្ដូរ​​ការ​កំណត់​កាលបរិច្ឆេទ និង​ពេលវេលា​របស់​អ្នក ដើម្បី​ឲ្យ​ត្រូវគ្នា​នឹង​ពេលវេលា​​ត្រឹមត្រូវ។</p>">
 
 <!ENTITY certerror.pagetitle1  "ការ​តភ្ជាប់​ដែល​មិន​មាន​សុវត្ថិភាព​">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "វេបសាយ​នេះ​ប្រើ HTTP Strict Transport Security (HSTS) ដើម្បី​បញ្ជាក់​ថា &brandShortName; អាច​ភ្ជាប់​វា​បាន​តែតាម​វិធី​ដែល​មាន​សុវត្ថិភាព​ប៉ុណ្ណោះ។ ជា​លទ្ធផល វា​មិនអាច​បន្ថែម​ការ​លើកលែង​បាន​សម្រាប់​វិញ្ញាបនបត្រ​នេះ​ទេ។">

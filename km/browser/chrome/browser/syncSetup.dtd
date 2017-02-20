@@ -85,6 +85,7 @@
 <!ENTITY syncMy.label               "ធ្វើ​សមកាលកម្ម">
 <!ENTITY engine.bookmarks.label     "ចំណាំ">
 <!ENTITY engine.bookmarks.accesskey "ច">
+<!ENTITY engine.tabs.label2         "បើក​ផ្ទាំង">
 <!ENTITY engine.tabs.accesskey      "ផ">
 <!ENTITY engine.history.label       "ប្រវត្តិ">
 <!ENTITY engine.history.accesskey   "ប">
