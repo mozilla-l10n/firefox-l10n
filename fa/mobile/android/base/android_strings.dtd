@@ -200,7 +200,7 @@
 <!ENTITY pref_category_notifications_summary "امکانات جدید، بروزرسانی‌های وب‌سایت">
 <!ENTITY pref_content_notifications "بروزرسانی‌های پایگاه وب">
 <!ENTITY pref_content_notifications_summary2 "محتوا جدید را از پایگاه های وب پشتیبانی شده کشف کنید">
-<!ENTITY pref_developer_remotedebugging_usb "رفع اشکال راه دور به واسطه‌ی USB">
+<!ENTITY pref_developer_remotedebugging_usb "رفع اشکال از راه دور به واسطه‌ی USB">
 <!ENTITY pref_developer_remotedebugging_wifi "رفع اشکال از راه دور به وسیله Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "رفع اشکال زدایی توسط Wi-Fi نیازمند نصب برنامه ‌تشخیص کد QR بر روی دستگاه شما می باشد.">
 <!ENTITY pref_remember_signons2 "بخاطر سپردن ورودها">
@@ -259,7 +259,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "مسدود شود">
 
 <!ENTITY pref_show_web_fonts "نمایش قلم‌های تحت وب">
-<!ENTITY pref_show_web_fonts_summary2 "بارگیری از راه‌ دور فونت ها زمانی که یک صفحه بارگذاری می‌شود">
+<!ENTITY pref_show_web_fonts_summary2 "قلم‌های راه‌دور هنگام بارگیری صفحه دریافت شوند.">
 
 <!ENTITY pref_tracking_protection_title2 "محافظت در برابر ردگیری">
 <!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
@@ -270,8 +270,8 @@
 <!ENTITY pref_tracking_protection_enabled_pb "فعال شده در حالت مرور خصوصی">
 <!ENTITY pref_tracking_protection_disabled "غیرفعال شد">
 
-<!ENTITY pref_whats_new_notification "چیزهای جدید در &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "اطلاع پیدا کردن در مورد امکانات جدید پس از هر بروزرسانی">
+<!ENTITY pref_whats_new_notification "امکانات جدید در &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "از امکانات جدید پس از هر بروزرسانی اطلاع پیدا کنید">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
@@ -288,7 +288,7 @@
 <!ENTITY pref_activity_stream_summary "یک فیدِ بصریِ غنی و یک صفحه‌خانگی جدید که پیدا کردن آنچه دنبالش هستید را از هر زمانی در &brandShortName; سریع‌تر می‌کند.">
 
 <!ENTITY tracking_protection_prompt_title "هم‌اکنون با قابلیت محافظت در برابر ردگیری">
-<!ENTITY tracking_protection_prompt_text "عناصر ردیابی به طور فعال مسدود می‌شود بنابراین جایی برای نگرانی وجود ندارد.">
+<!ENTITY tracking_protection_prompt_text "عناصری که ممکن است شما را ردگیری کنند مسدود خواهند شد، تا شما هیچ نگرانی‌ای نداشته باشید.">
 <!ENTITY tracking_protection_prompt_tip_text "برای اطلاعات بیشتر تنظیمات حریم خصوصی را ببنید">
 <!ENTITY tracking_protection_prompt_action_button "گرفتم!">
 
@@ -338,17 +338,17 @@
 
 <!ENTITY pref_char_encoding "کدگذاری نویسه‌ها">
 <!ENTITY pref_char_encoding_on "نمایش منو">
-<!ENTITY pref_char_encoding_off "منو را نمایش نده">
+<!ENTITY pref_char_encoding_off "عدم نمایش منو">
 <!ENTITY pref_clear_private_data2 "پاک‌سازی اطلاعات خصوصی">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "هم‌اکنون پاک شود">
-<!ENTITY pref_clear_on_exit_title3 "پاک کردن اطاعات خصوصی هنگام خروج">
+<!ENTITY pref_clear_on_exit_title3 "حذف اطلاعات خصوصی هنگام خروج">
 <!ENTITY pref_clear_on_exit_summary2 "هر زمان \u0022خروج\u0022 را از منوی اصلی انتخاب کنید &brandShortName; اطلاعات شما را به طور خودکار پاک می‌کند">
 <!ENTITY pref_clear_on_exit_dialog_title "داده‌هایی که می‌خواهید پاک شوند را انتخاب کنید">
 <!ENTITY pref_plugins "افزونه‌ها">
 <!ENTITY pref_plugins_enabled "فعال شد">
-<!ENTITY pref_plugins_tap_to_play2 "برای پخش شدن لمس کنید">
+<!ENTITY pref_plugins_tap_to_play2 "اجرا از طریق لمس کردن">
 <!ENTITY pref_plugins_disabled "غیرفعال شد">
 <!ENTITY pref_text_size "اندازهٔ متن">
 <!ENTITY pref_restore_tabs "بازآوری زبانه‌ها">
@@ -373,14 +373,14 @@ size. -->
 
 <!ENTITY pref_media_autoplay_enabled "اجازه پخش خودکار">
 <!ENTITY pref_media_autoplay_enabled_summary "بررسی قابلیت پخش خودکار ویدئو و دیگر محتوای رسانه بر روی پایگاه‌های وب">
-<!ENTITY pref_zoom_force_enabled "همیشه زوم‌ فعال‌ باشد">
-<!ENTITY pref_zoom_force_enabled_summary "نادیده‌ گرفتن درخواست‌ها بنابراین امکان بزرگنمایی در هر صفحه">
+<!ENTITY pref_zoom_force_enabled "همیشه زوم فعال باشد">
+<!ENTITY pref_zoom_force_enabled_summary "اجبار کردن این امکان تا شما بتوانید هر صفحه‌ای را زوم کنید">
 <!ENTITY pref_voice_input "ورودی صدا">
-<!ENTITY pref_voice_input_summary2 "مجوز به فرمان صوتی در نوار آدرس">
+<!ENTITY pref_voice_input_summary2 "اجازه دادنِ امکانِ فرمان صوتی در نوار آدرس">
 <!ENTITY pref_qrcode_enabled "خواننده کد QR">
-<!ENTITY pref_qrcode_enabled_summary2 "مجوز به بارکدخوان QR در نوار عنوان">
+<!ENTITY pref_qrcode_enabled_summary2 "اجازه دادنِ امکانِ QR در نوار آدرس">
 
-<!ENTITY pref_use_master_password "استفاده از گذرواژهٔ اصلی">
+<!ENTITY pref_use_master_password "استفاده از گذرواژهٔ همگانی">
 <!ENTITY pref_sync2 "ورود">
 <!ENTITY pref_sync_summary2 "زبانه‌ها، نشانک‌ها، ورودها و تاریخچه خود را هم‌گام‌سازی کنید">
 <!ENTITY pref_search_suggestions "نمایش پیشنهادهای جست‌وجو">
@@ -471,7 +471,7 @@ size. -->
 <!ENTITY page "صفحه">
 <!ENTITY tools "ابزارها">
 <!ENTITY new_tab "زبانه جدید">
-<!ENTITY new_private_tab "زبانه‌ی خصوصی جدید">
+<!ENTITY new_private_tab "زبانه خصوصی جدید">
 <!ENTITY close_all_tabs "بستن همه‌ی زبانه‌ها">
 <!ENTITY close_private_tabs "بستن زبانه‌های خصوصی">
 <!ENTITY tabs_normal "زبانه‌ها">
@@ -495,7 +495,7 @@ size. -->
 <!ENTITY media_stop "توقف">
 
 <!ENTITY contextmenu_open_new_tab "باز کردن در زبانهٔ جدید">
-<!ENTITY contextmenu_open_private_tab "باز کردن در زبانه‌ی خصوصی">
+<!ENTITY contextmenu_open_private_tab "باز کردن در زبانهٔ خصوصی">
 <!ENTITY contextmenu_remove "حذف">
 <!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
 <!ENTITY contextmenu_share "اشتراک‌گذاری">
@@ -540,8 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
-<!ENTITY pref_compact_tabs "زبانه های جمع و جور">
-<!ENTITY pref_compact_tabs_summary2 "تنظیم زبانه‌ها در دو ستون برای حالت ایستاده">
+<!ENTITY pref_compact_tabs "زبانه‌های جمع و جور">
+<!ENTITY pref_compact_tabs_summary2 "مرتب کردن زبانه‌ها در دو ستون در حالت پرتره‌ای">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -720,12 +720,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY exit_guest_session "خروج از نشست مهمان">
 <!ENTITY guest_session_dialog_continue "ادامه">
 <!ENTITY guest_session_dialog_cancel "انصراف">
-<!ENTITY new_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
-<!ENTITY new_guest_session_text2 "شخص با استفاده از این قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شود، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
+<!ENTITY new_guest_session_title "هم‌اکنون &brandShortName; مجددا راه‌اندازی خواهد شد">
+<!ENTITY new_guest_session_text2 "شخصی که از این امکان استفاده می‌کند، قادر نخواهد بود هیچ یک از داده‌های مرور شخصی شما را ببیند (مانند گذرواژه‌های ذخیره شده، تاریخچه یا نشانک‌ها).\n\nزمانی که کار مهمان شما تمام شد، داده‌های مرور پاک خواهند شد و نشست شما بازگردانده می‌شود.">
 <!ENTITY guest_browsing_notification_title "مرور در حالت مهمان فعال است">
 <!ENTITY guest_browsing_notification_text "برای خروج تپ کنید">
 
-<!ENTITY exit_guest_session_title "&brandShortName; هم‌اکنون راه اندازی مجدد خواهد شد">
+<!ENTITY exit_guest_session_title "هم‌اکنون &brandShortName; مجددا راه‌اندازی خواهد شد">
 <!ENTITY exit_guest_session_text "داده‌های مرور شده در این نشست حذف خواهند شد.">
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
