@@ -26,7 +26,7 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "显示浏览器样式">
-<!ENTITY options.showUserAgentStyles.tooltip "启用此选项将显示由浏览器加载的默认样式。">
+<!ENTITY options.showUserAgentStyles.tooltip "启用此选项将显示由浏览器载入的默认样式。">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
