@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Kiam &brandShortName; ekfunkcias:">
 <!ENTITY startupPage.accesskey     "e">
-<!ENTITY startupHomePage.label     "Montri mian ekan paĝon">
+<!ENTITY startupUserHomePage.label "Montri vian ekan paĝon">
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
-<!ENTITY startupLastSession.label  "Montri miajn lastajn fenestrojn kaj langetojn">
+<!ENTITY startupPrevSession.label  "Montri viajn lastajn fenestrojn kaj langetojn">
 
 <!ENTITY homepage.label            "Eka paĝo:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "l">
 <!ENTITY chooseFolderMac.label        "Elekti…">
 <!ENTITY chooseFolderMac.accesskey    "l">
-<!ENTITY alwaysAsk.label "Ĉiam demandi al mi kie konservi dosierojn">
-<!ENTITY alwaysAsk.accesskey "i">
+<!ENTITY alwaysAskWhere.label         "Ĉiam demandi, kie konservi dosierojn">
+<!ENTITY alwaysAskWhere.accesskey     "d">
 
 <!ENTITY alwaysCheckDefault2.label        "Ĉiam kontroli ĉu &brandShortName; estas via ĉefa retumilo">
 <!ENTITY alwaysCheckDefault2.accesskey    "i">

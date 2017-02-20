@@ -2,30 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Agordo de &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "A">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permesas al vi havi vian historion, viajn legosignojn, pasvortojn kaj malfermitajn langetojn en ĉiuj viaj aparatoj.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Ĝisdatigi">
-<!ENTITY resetPass.label              "Rekomenci">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Administri konton">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Ŝanĝi pasvorton…">
-<!ENTITY myRecoveryKey.label          "Mia reakira ŝlosilo">
-<!ENTITY resetSync2.label             "Rekomenci speguladon…">
-
-<!ENTITY pairDevice.label             "Asocii aparaton">
-
-<!ENTITY syncMy.label               "Speguli miajn">
 <!ENTITY engine.bookmarks.label     "legosignojn">
 <!ENTITY engine.bookmarks.accesskey "l">
-<!ENTITY engine.tabs.label          "langetojn">
+<!ENTITY engine.tabs.label2         "malfermitajn langetojn">
 <!ENTITY engine.tabs.accesskey      "g">
 <!ENTITY engine.history.label       "historion">
 <!ENTITY engine.history.accesskey   "h">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Nomo de aparato:">
 <!ENTITY fxaSyncDeviceName.label       "Nomo de aparato">
 <!ENTITY changeSyncDeviceName.label "Ŝanĝi nomon de aparato…">
 <!ENTITY changeSyncDeviceName.accesskey "a">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "N">
 <!ENTITY saveChangeSyncDeviceName.label "Konservi">
 <!ENTITY saveChangeSyncDeviceName.accesskey "K">
-<!ENTITY unlinkDevice.label           "Malligi tiun ĉi aparaton">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kondiĉoj de uzado">
-<!ENTITY prefs.ppLink.label         "Politiko pri privateco">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Rimarko pri privateco">
-<!ENTITY determiningAcctStatus.label     "Determino de la stato de via konto…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Forgesi tiun ĉi retpoŝton">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "Aliri viajn langetojn, legosignojn, pasvortojn kaj aliajn aferojn, kie ajn vi uzas &brandShortName;.">
-<!ENTITY welcome.signIn.label "Komenci seancon">
-<!ENTITY welcome.createAccount.label "Krei konton">
-
-<!ENTITY welcome.useOldSync.label "Ĉu vi uzas malnovan version de Speguli?">
 
 <!ENTITY signedOut.caption            "Kunporti vian Teksaĵon kun vi">
 <!ENTITY signedOut.description        "Speguli viajn legosignojn, historion, langetojn, pasvortojn, aldonaĵojn kaj preferojn en ĉiuj viaj aparatoj.">

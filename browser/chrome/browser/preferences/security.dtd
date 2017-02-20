@@ -4,8 +4,8 @@
 
 <!ENTITY  general.label                 "Ĝenerala">
 
-<!ENTITY  warnAddonInstall.label        "Atentigi min kiam retejoj volas instali aldonaĵojn">
-<!ENTITY  warnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall.label        "Averti min kiam retejoj volas instali aldonaĵojn">
+<!ENTITY  warnOnAddonInstall.accesskey    "A">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,8 +17,8 @@
 <!ENTITY  blockDownloads.label            "Bloki danĝerajn elŝutojn">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonUnwanted.label     "Averti min pri nekutimaj aŭ nedezirataj programoj">
-<!ENTITY  blockUncommonUnwanted.accesskey "A">
+<!ENTITY  blockUncommonAndUnwanted.label     "Averti min pri evitendaj kaj maloftaj programoj">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "p">
 
 <!ENTITY  addonExceptions.label         "Esceptoj…">
 <!ENTITY  addonExceptions.accesskey     "E">

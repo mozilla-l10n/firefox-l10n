@@ -192,14 +192,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Konsileto: aldonu iun ajn retejon al via listo de serĉiloj per longa premo sur la serĉkampo kaj posta tuŝo de la emblemo &formatI;.">
 <!ENTITY pref_category_advanced "Spertulaj">
-<<<<<<< local
-<!-- Localization note (pref_category_advanced_summary3) : "data saver" means
-     "reduce the amount of data being transferred". -->
-=======
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
->>>>>>> other
 <!ENTITY pref_category_advanced_summary3 "Restarigo de langetoj, datumŝparo, programistaj iloj">
 <!ENTITY pref_category_notifications "Sciigoj">
 <!ENTITY pref_category_notifications_summary "Novaj trajtoj, retejaj ĝisdatigoj">
@@ -251,14 +246,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktivaj, krom la nerektaj">
 <!ENTITY pref_cookies_disabled "Malaktiva">
 
-<<<<<<< local
-<!-- Localization note (pref_category_data_saver) : "data saver" means
-     "reduce the amount of data being transferred". -->
-=======
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
->>>>>>> other
 <!ENTITY pref_category_data_saver "Datumŝparilo">
 <!ENTITY pref_category_media "Aŭdvidaĵoj">
 <!ENTITY pref_category_developer_tools "Programistaj iloj">
@@ -397,6 +387,9 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Montri serĉan historion">
 <!ENTITY pref_import_options "Elekteboj de importo">
 <!ENTITY pref_import_android_summary "Importi legosignojn kaj historion el la nativa retumilo">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Malfermitaj langetoj">
 <!ENTITY pref_private_data_history2 "Historio de retumado">
 <!ENTITY pref_private_data_searchHistory "Historio de serĉoj">
 <!ENTITY pref_private_data_formdata2 "Historio de formularoj">
@@ -527,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Uzantonomo">
 <!ENTITY doorhanger_login_edit_password_hint "Pasvorto">
 <!ENTITY doorhanger_login_edit_toggle "Montri pasvorton">
-<!ENTITY doorhanger_login_edit_toast_error "Malsukcesa konservado de seanco">
 <!ENTITY doorhanger_login_select_message "Ĉu kopii pasvorton de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Pasvorto kopiita al la tondujo">
-<!ENTITY doorhanger_login_select_toast_copy_error "Ne eblis kopii pasvorton">
 <!ENTITY doorhanger_login_select_action_text "Elekti alian akreditilon">
 <!ENTITY doorhanger_login_select_title "Kopii pasvorton de">
 

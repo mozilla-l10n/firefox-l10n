@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Tajpu vian retpoŝtan adreson ĉi tie">
 <!ENTITY tabCrashed.emailMe "Sendi retpoŝton kiam pli da informo estas havebla">
 <!ENTITY tabCrashed.reportSent "Raporto pri paneo sendita, dankon, vi helpas nin plibonigi &brandShortName;!">
-<!ENTITY tabCrashed.requestAutoSubmit "Peti fonajn langetojn">
-<!ENTITY tabCrashed.autoSubmit "Ĝisdatigi preferojn por aŭtomate sendi atendantajn raportojn pri paneo (kaj ricevi malpli da ĉi tiaj mesaĝoj en la estonteco)">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Raporti fonajn langetojn">
+<!ENTITY tabCrashed.autoSubmit2 "Modifi preferojn por aŭtomate sendi raportojn pri paneo, kiuj inkluzivas ankaŭ raportojn pri paneo de fonaj langetoj, en tiu ĉi seanco kaj en la venontaj.">

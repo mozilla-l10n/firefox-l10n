@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Ĉiam uzi la moviĝoklavojn por moviĝi ene de paĝoj">
 <!ENTITY useCursorNavigation.accesskey   "m">
-<!ENTITY searchStartTyping.label         "Serĉi tekston kiam mi komencas tajpi">
-<!ENTITY searchStartTyping.accesskey     "S">
-<!ENTITY blockAutoRefresh.label          "Averti min kiam retejoj klopodas redirekti aŭ reŝargi paĝon">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY searchOnStartTyping.label       "Serĉi tekston kiam vi ektajpas">
+<!ENTITY searchOnStartTyping.accesskey   "t">
+<!ENTITY blockAutoReload.label           "Averti min kiam retejoj provas redirekti aŭ reŝargi la paĝon">
+<!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Montri tuŝklavaron se necesas">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
 <!ENTITY allowHWAccel.accesskey          "d">
-<!ENTITY checkSpelling.label             "Kontroli literumadon dum tajpado">
-<!ENTITY checkSpelling.accesskey         "t">
+<!ENTITY checkUserSpelling.label         "Kontroli literumadon dum tajpado">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Elektado de datumoj">
 
@@ -63,6 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "V">
 <!ENTITY siteDataSettings.label          "Agordoj…">
 <!ENTITY siteDataSettings.accesskey      "A">
+<!ENTITY siteDataLearnMoreLink.label     "Pli da informo">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -85,8 +86,8 @@
 <!ENTITY updateApplication.label         "Ĝisdatigoj de &brandShortName;">
 <!ENTITY updateAuto1.label               "Aŭtomate instali ĝisdatigojn (rekomendita por via sekureco)">
 <!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheck.label               "Kontroli ĉu estas ĝisdatigoj, sed lasi min elekti ĉu instali ilin aŭ ne">
-<!ENTITY updateCheck.accesskey           "K">
+<!ENTITY updateCheckChoose.label         "Kontroli ĉu estas ĝisdatigoj, sed permesi al vi elekti kiam instali ilin">
+<!ENTITY updateCheckChoose.accesskey     "K">
 <!ENTITY updateManual.label              "Neniam kontroli ĉu estas ĝisdatigoj (ne rekomendita: sekureca risko)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -100,10 +101,10 @@
 <!ENTITY enableSearchUpdate.label        "Serĉilojn">
 <!ENTITY enableSearchUpdate.accesskey    "S">
 
-<!ENTITY offlineNotify.label             "Diri al mi kiam retejo petas la konservado de datumojn por uzi malkonektite">
-<!ENTITY offlineNotify.accesskey         "D">
-<!ENTITY offlineNotifyExceptions.label   "Esceptoj…">
-<!ENTITY offlineNotifyExceptions.accesskey "s">
+<!ENTITY offlineStorageNotify.label               "Diri al mi kiam retejoj petas konservi datumojn por uzi malkonektite">
+<!ENTITY offlineStorageNotify.accesskey           "r">
+<!ENTITY offlineStorageNotifyExceptions.label     "Esceptoj…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "E">
 
 <!ENTITY offlineAppsList2.label          "La jenaj retejoj rajtas konservi datumojn por uzi malkonektite:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -112,12 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Forigi malkonektitaĵojn">
 
 <!ENTITY certificateTab.label            "Atestiloj">
-<!ENTITY certSelection.label             "Petoj">
-<!ENTITY certSelection.description       "Kiam servilo petas mian personan atestilon:">
-<!ENTITY certs.auto                      "Elekti unu aŭtomate">
-<!ENTITY certs.auto.accesskey            "E">
-<!ENTITY certs.ask                       "Ĉiam demandi al mi">
-<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY certPersonal.label              "Petoj">
+<!ENTITY certPersonal.description        "Kiam servilo petas vian personan atestilon:">
+<!ENTITY selectCerts.auto                "Aŭtomate elekti unu">
+<!ENTITY selectCerts.auto.accesskey      "A">
+<!ENTITY selectCerts.ask                 "Demandi ĉiufoje">
+<!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Peti al OCSP respondaj serviloj konfirmon pri la nuna valideco de atestiloj">
 <!ENTITY enableOCSP.accesskey            "P">
 <!ENTITY viewCerts.label                 "Vidi atestilojn">

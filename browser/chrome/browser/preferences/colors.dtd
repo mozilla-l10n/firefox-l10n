@@ -6,12 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Uzi la kolorojn elektitajn de mi supre, anstataŭ tiujn specifitajn de la paĝo:">
-<!ENTITY  overridePageColors.accesskey    "U">
+<!ENTITY  overrideDefaultPageColors.label        "Superregi la kolorojn specifitajn de la paĝo per viaj supraj elektoj:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "S">
 
-<!ENTITY  overridePageColors.always.label "Ĉiam">
-<!ENTITY  overridePageColors.auto.label   "Nur en alte kontrastaj etosoj">
-<!ENTITY  overridePageColors.never.label  "Neniam">
+<!ENTITY  overrideDefaultPageColors.always.label "Ĉiam">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Nur en etosojkun granda konstrasto">
+<!ENTITY  overrideDefaultPageColors.never.label  "Neniam">
 
 <!ENTITY  color                           "Teksto kaj fono">
 <!ENTITY  textColor.label                 "Teksto:">
