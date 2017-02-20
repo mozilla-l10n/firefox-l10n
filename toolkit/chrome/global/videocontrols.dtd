@@ -24,7 +24,7 @@
 <!ENTITY stats.framesPresented "已显示帧">
 <!ENTITY stats.framesPainted "已绘制帧">
 
-<!ENTITY error.aborted "视频加载已停止。">
+<!ENTITY error.aborted "视频载入已停止。">
 <!ENTITY error.network "视频播放因网络错误中止。">
 <!ENTITY error.decode "视频无法播放，因为该文件已损坏。">
 <!ENTITY error.srcNotSupported "视频格式或 MIME 类型不受支持。">
