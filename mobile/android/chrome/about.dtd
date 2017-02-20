@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "درباره &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
-<!ENTITY aboutPage.telemetryStart               " به‌طور خودکار اطاعاتی در مورد کارایی، سخت‌افزار، کاربری و سفارشی‌سازی ارسال می‌کند به ">
+<!ENTITY aboutPage.telemetryStart               " به‌طور خودکار اطلاعاتی در مورد کارایی، سخت‌افزار، کاربری و سفارشی‌سازی ارسال می‌کند به ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " برای کمک به بهتر شدن &brandShortName;.">
 <!ENTITY aboutPage.checkForUpdates.link         "بررسی برای بروزرسانی‌ها »">

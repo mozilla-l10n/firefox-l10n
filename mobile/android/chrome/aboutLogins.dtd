@@ -5,5 +5,5 @@
    %brandDTD;
 <!ENTITY aboutLogins.title                       "ورود">
 <!ENTITY aboutLogins.update                      "به‌هنگام‌سازی">
-<!ENTITY aboutLogins.emptyLoginText              "ورود خود را امن کنید">
-<!ENTITY aboutLogins.emptyLoginHint              "ورود‌ها و اعتبار‌های شما که به عنوان &brandShortName; ذخیره می‌شود در اینحا نمایش داده خواهد شد.">
+<!ENTITY aboutLogins.emptyLoginText              "از گذرواژه‌های خود محافظت کنید">
+<!ENTITY aboutLogins.emptyLoginHint              "ورود‌ها و گذرواژه‌های شما که با استفاده از &brandShortName; ذخیره می‌کنید در اینجا نمایش داده خواهند شد.">
