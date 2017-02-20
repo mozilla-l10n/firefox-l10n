@@ -76,8 +76,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Egenskaper">
+<!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
 
 
@@ -140,11 +140,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Rediger">
+<!ENTITY propertiesContext.label                        "Egenskaper">
+<!ENTITY propertiesContext.accesskey                    "E">
+<!ENTITY abPropertiesContext.label                      "Egenskaper">
+<!ENTITY abPropertiesContext.accesskey                  "E">
 
 
 
@@ -163,7 +163,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste">
 <!ENTITY editPropertiesButton.tooltip                   "Rediger valgt element">
 
-
+<!ENTITY editContactPropertiesButton.tooltip            "Rediger valgt kontakt">
 
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat">

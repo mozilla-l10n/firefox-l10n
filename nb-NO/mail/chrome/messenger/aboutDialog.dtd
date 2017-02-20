@@ -102,6 +102,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Du bruker nå oppdateringskanalen ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.end    " oppdateringskanal. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
