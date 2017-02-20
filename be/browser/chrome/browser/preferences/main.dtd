@@ -29,7 +29,10 @@
 <!ENTITY chooseFolderMac.label        "Выбраць…">
 <!ENTITY chooseFolderMac.accesskey    "В">
 <!ENTITY alwaysAskWhere.label         "Заўжды пытацца, куды запісваць файлы">
+<!ENTITY alwaysAskWhere.accesskey     "З">
 
+<!ENTITY setAsMyDefaultBrowser2.accesskey "П">
 
+<!ENTITY useFirefoxSync.label             "Падказка: гэта выкарыстоўвае асобныя профілі. Карыстайцеся Sync для абмену данымі паміж імі.">
 <!ENTITY getStarted.label                 "Пачаць выкарыстоўваць Sync…">
 
