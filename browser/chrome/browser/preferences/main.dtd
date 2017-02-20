@@ -6,9 +6,11 @@
 
 <!ENTITY startupPage.label         "Quande &brandShortName; o s'arve:">
 <!ENTITY startupPage.accesskey     "Q">
+<!ENTITY startupUserHomePage.label "Fanni vedde a pagina iniçiâ">
 <!ENTITY startupBlankPage.label    "Fanni vedde 'na pagina gianca">
+<!ENTITY startupPrevSession.label  "Fanni vedde i barcoin e feuggi averti l'urtima vòtta">
 
-<!ENTITY homepage.label            "Pagina prinçipâ:">
+<!ENTITY homepage.label            "Pagina Prinçipâ:">
 <!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Adeuvia a pagina corente">
 <!ENTITY useCurrentPage.accesskey  "c">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "Ç">
 <!ENTITY chooseFolderMac.label        "Çerni…">
 <!ENTITY chooseFolderMac.accesskey    "i">
+<!ENTITY alwaysAskWhere.label         "Domanda de longo donde sarvâ i file">
+<!ENTITY alwaysAskWhere.accesskey     "D">
 
 <!ENTITY alwaysCheckDefault2.label        "Contròlla de longo se &brandShortName; o l'é o navegatô predefinio">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
