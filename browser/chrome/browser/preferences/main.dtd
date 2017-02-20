@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "ពេល &brandShortName; ចាប់ផ្ដើម ៖">
 <!ENTITY startupPage.accesskey     "ច">
+<!ENTITY startupUserHomePage.label "បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក">
 <!ENTITY startupBlankPage.label    "បង្ហាញ​ទំព័រ​ទទេ">
+<!ENTITY startupPrevSession.label  "បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន">
 
 <!ENTITY homepage.label            "គេហ​ទំព័រ ៖">
 <!ENTITY homepage.accesskey        "ទ">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ល">
 <!ENTITY chooseFolderMac.label        "ជ្រើស…">
 <!ENTITY chooseFolderMac.accesskey    "ស">
+<!ENTITY alwaysAskWhere.label         "តែងតែ​សួរ​​រក​កន្លែង​ដែល​ត្រូវរក្សាទុក​ឯកសារ">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "ពិនិត្យជានិច្ច ថា &brandShortName; ជា​កម្មវិធី​អ៊ីនធឺណិត​លំនាំដើម">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

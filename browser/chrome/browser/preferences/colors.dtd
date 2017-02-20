@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "48.38em">
 
+<!ENTITY  overrideDefaultPageColors.label        "ផាត់ចោល​ពណ៌​ដែល​បាន​បញ្ជាក់​ដោយ​ទំព័រ​ជាមួយ​ពណ៌​ដែល​អ្នក​ជ្រើសរើស​ខាងលើ៖">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "ជានិច្ចកាល">
+<!ENTITY  overrideDefaultPageColors.auto.label   "បាន​តែ​ជាមួយ​រចនាប័ទ្ម​​ដែល​មាន​កម្រិត​ពណ៌​ខ្លាំង">
+<!ENTITY  overrideDefaultPageColors.never.label  "កុំ​ឲ្យសោះ">
 
 <!ENTITY  color                           "អត្ថបទ និង​ផ្ទៃខាងក្រោយ">
 <!ENTITY  textColor.label                 "អត្ថបទ ៖">
