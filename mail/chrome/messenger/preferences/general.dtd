@@ -17,8 +17,8 @@
 <!ENTITY newMessagesArrive.label          "Når en ny melding ankommer:">
 <!ENTITY playSound.label                  "Spill av en lyd">
 <!ENTITY playSound1.accesskey             "S">
-
-
+<!ENTITY playSoundMac.label               "Spill av følgende lydfil:">
+<!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Vis en beskjed">
 <!ENTITY showAnimatedAlert.accesskey      "n">
 

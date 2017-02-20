@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "N">
 <!ENTITY compactVersion.label "Kompakt visning">
 <!ENTITY compactVersion.accesskey "K">
-
-
+<!ENTITY folderPaneBar.label "Mappevisningsverktøylinje">
+<!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "Mappevisninger">
 <!-- Sort Menu -->
 
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Mottaker">
 <!ENTITY sortByRecipientCmd.accesskey "M">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Korrespondenter">
+<!ENTITY sortByCorrespondentCmd.accesskey "n">
 <!ENTITY sortByUnreadCmd.label "Lest">
 <!ENTITY sortByUnreadCmd.accesskey "L">
 <!ENTITY sortByOrderReceivedCmd.label "Mottatt rekkefølge">
@@ -511,6 +511,8 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!-- Mail Toolbar -->
