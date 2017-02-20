@@ -61,8 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serifa">
 <!ENTITY  useDefaultFontSansSerif.label           "Senserifa">
 
-<!ENTITY  allowPagesToUse.label                   "Permesi al paĝoj elekti proprajn tiparojn anstataŭ tiujn kiujn mi elektis supre">
-<!ENTITY  allowPagesToUse.accesskey               "a">
+<!ENTITY  allowPagesToUseOwn.label                "Permesi al paĝoj elekti siajn proprajn tiparojn, anstataŭ tiujn, kiujn vi supre elektis">
+<!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Teksta enkodigo por kaduka enhavo">
 <!ENTITY languages.customize.Fallback2.label      "Vica teksta enkodigo:">

@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Montri ĉiujn legosignojn">
 <!ENTITY recentBookmarks.label "Ĵusaj legosignoj">
 <!ENTITY otherBookmarksCmd.label "Aliaj legosignoj">
+<!ENTITY mobileBookmarksCmd.label "Poŝaparataj legosignoj">
 <!ENTITY bookmarksToolbarChevron.tooltip "Montri pliajn legosignojn">
 <!ENTITY showRecentlyBookmarked.label     "Montri ĵusajn legosignojn">
 <!ENTITY showRecentlyBookmarked.accesskey "M">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Legosignoj">
 <!ENTITY bookmarksMenuButton.other.label "Aliaj legosignoj">
+<!ENTITY bookmarksMenuButton.mobile.label "Poŝaparataj legosignoj">
 <!ENTITY viewBookmarksSidebar2.label        "Montri flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
 
@@ -756,6 +758,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Ŝaltu la speguladon de langetoj por vidi liston de langetoj el viaj aliaj aparatoj.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Malfermi">
 <!ENTITY syncedTabs.context.open.accesskey                   "M">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Malfermi en nova langeto">
@@ -768,6 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "l">
 <!ENTITY syncedTabs.context.copy.label                       "Kopii">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Open All in Tabs">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "Speguli">

@@ -44,11 +44,11 @@ certiĝu ke &brandShortName; rajtas aliri la TTT-n.</li> </ul>">
 <!ENTITY generic.longDesc "<p>Pro iu kialo &brandShortName; ne povas ŝargi tiun ĉi paĝon.</p>">
 
 <!ENTITY captivePortal.title "Komenci seancon en tiu ĉi reto">
-<!ENTITY captivePortal.longDesc "
-<p>Tiu ĉi reto povus postuli al vi komenci seancon por povi aliri la interreton.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>Vi devas komenci seancon en tiu ĉi reto antaŭ ol vi povos aliri la Interreton.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Malfermi paĝon por komenci seancon">
+<!ENTITY openPortalLoginPage.label2 "Malfermi paĝon por komenci seancon en la reto">
 
 <!ENTITY malformedURI.title "Tiu ĉi adreso ne estas valida">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -154,18 +154,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Spertula informo: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Via konekto ne estas sekura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Spertula informo: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Spertula">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uzas sekurecan teĥnologion, kiu estas kaduka kaj sendefenda. Atakanto povas facile elmeti informojn, kiujn vi opiniis sekuraj.">
-<!ENTITY weakCryptoAdvanced.override "(Ne sekura) Klopodi ŝargi <span class='hostname'></span> kun kaduka sekureco">
-
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Ne eblas sekure konektiĝi al <span id='wrongSystemTime_URL'/> ĉar via horloĝo estas ŝajne malĝusta.</p> <p>Via komputilo pensas ke nun estas <span id='wrongSystemTime_systemDate'/>, sed la dato devus esti <span id='wrongSystemTime_actualDate'/>. Por solvi tiun ĉi problemon, ŝanĝu la daton kaj horon tiel ke ili kongruas kun la ĝustaj dato kaj horo.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nesekura konekto">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Tiu ĉi retejo uzas HTTP

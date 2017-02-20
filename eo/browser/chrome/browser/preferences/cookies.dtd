@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "La jenaj kuketoj estas konservitaj en via komputilo:">
 <!ENTITY     cookiename.label               "Nomo de kuketo">
-<!ENTITY     cookiedomain.label             "Retejo"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Forigi ĉiujn">
-<!ENTITY     button.removeAllCookies.accesskey "i">
+<!ENTITY     cookiedomain.label             "Retejo">
 
 <!ENTITY     props.name.label               "Nomo:">
 <!ENTITY     props.value.label              "Enhavo:">
