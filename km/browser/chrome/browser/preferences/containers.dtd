@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "បន្ថែម​ប្រអប់​ផ្ទុក​ថ្មី">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "ចំណូលចិត្ត">
+<!ENTITY removeButton.label   "លុប​ចេញ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; ត្រឡប់​ទៅ​ភាព​ឯកជន">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "ឈ្មោះ៖">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "បញ្ចូល​ឈ្មោះ​ប្រអប់">
 <!ENTITY icon.label           "រូបតំណាង៖">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "ពណ៌៖">

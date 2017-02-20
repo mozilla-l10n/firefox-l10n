@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "អនុញ្ញាត​ឲ្យ​ទំព័រ​ជ្រើសរើស​ពុម្ពអក្សរ​​ដោយ​ខ្លួន​ឯង ជំនួស​ឲ្យ​​​ពុម្ព​អក្សរ​ដែល​អ្នក​ជ្រើសរើស​ខាង​លើ">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "ការ​អ៊ិនកូដ​​អត្ថបទ​សម្រាប់​មាតិកា​ចាស់ៗ">
 <!ENTITY languages.customize.Fallback2.label      "ការ​អ៊ីនកូដ​អត្ថបទ និង​​ត្រឡប់​ក្រោយ៖">
