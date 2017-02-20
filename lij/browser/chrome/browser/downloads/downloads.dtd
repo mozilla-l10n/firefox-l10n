@@ -110,6 +110,7 @@
 <!ENTITY downloadsHistory.label           "Fanni vedde tutti i descaregamenti">
 <!ENTITY downloadsHistory.accesskey       "v">
 
+<!ENTITY openDownloadsFolder.label       "Arvi Cartella Descaregamenti">
 
 <!ENTITY clearDownloadsButton.label       "Cancella elenco descaregamenti">
 <!ENTITY clearDownloadsButton.tooltip     "Scancella da l'elenco i descaregamenti conpletæ, anulæ ò no ariescii">

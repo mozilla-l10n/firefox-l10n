@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "b">
 <!ENTITY engine.history.label             "Stöia">
 <!ENTITY engine.history.accesskey         "S">
+<!ENTITY engine.tabs.label2               "Arvi Feuggi">
 <!ENTITY engine.tabs.accesskey            "g">
 <!ENTITY engine.passwords.label           "Paròlle Segrete">
 <!ENTITY engine.passwords.accesskey       "P">
