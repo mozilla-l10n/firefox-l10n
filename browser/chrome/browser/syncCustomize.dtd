@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "ប្រវត្តិ">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "បើក​ផ្ទាំង">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "ពាក្យ​សម្ងាត់">
 <!ENTITY engine.passwords.accesskey       "P">
