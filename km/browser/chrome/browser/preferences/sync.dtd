@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "ធ្វើ​សមកាលកម្ម">
 <!ENTITY engine.bookmarks.label     "ចំណាំ">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "បើក​ផ្ទាំង">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ប្រវត្តិ">
 <!ENTITY engine.history.accesskey   "r">
