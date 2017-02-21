@@ -65,7 +65,7 @@
 <!ENTITY updates.resetUpdatesToAutomatic.label       "تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت خودکار">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "خ">
 <!ENTITY updates.resetUpdatesToManual.label          "تنظیم مجدد همهٔ افزودنی‌ها برای انجام بروزرسانی بصورت دستی">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "ت">
 <!ENTITY updates.updating.label               "در حال بروزرسانی افزودنی‌ها">
 <!ENTITY updates.installed.label              "افزودنی‌های شما به‌هنگام شدند.">
 <!ENTITY updates.downloaded.label             "بروزرسانی‌های افزودنی‌های شما دریافت گردیدند.">

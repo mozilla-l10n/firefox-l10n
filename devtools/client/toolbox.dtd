@@ -40,7 +40,7 @@
   -  key for a dropdown list that controls the default color unit used in the
   -  inspector. This is visible in the options panel. -->
 
-<!ENTITY options.defaultColorUnit.accesskey "u">
+<!ENTITY options.defaultColorUnit.accesskey "پ">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
 
@@ -196,8 +196,8 @@
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "افزودن خودکار براکت بسته">
 <!ENTITY options.sourceeditor.expandtab.label           "تورفتگی با استفاده از فاصله">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "استفاده از فاصله به جای نویسه تب">
-<!ENTITY options.sourceeditor.tabsize.label             "&amp; اندازۀ زبانه">
-<!ENTITY options.sourceeditor.tabsize.accesskey         "T">
+<!ENTITY options.sourceeditor.tabsize.label             "اندازه زبانه">
+<!ENTITY options.sourceeditor.tabsize.accesskey         "ز">
 
 
 <!ENTITY options.sourceeditor.keybinding.default.label  "پیش‌فرض">

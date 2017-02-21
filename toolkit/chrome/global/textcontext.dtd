@@ -18,8 +18,8 @@
 <!ENTITY spellAddToDictionary.label "اضافه‌کردن به واژه‌نامه">
 <!ENTITY spellAddToDictionary.accesskey "ا">
 <!ENTITY spellUndoAddToDictionary.label "حذف کردن از واژه‌ نامه">
-<!ENTITY spellUndoAddToDictionary.accesskey "n">
-<!ENTITY spellCheckToggle.label "بررسی املا">
+<!ENTITY spellUndoAddToDictionary.accesskey "ف">
+<!ENTITY spellCheckToggle.label "بررسی املا&amp;">
 <!ENTITY spellCheckToggle.accesskey "g">
 <!ENTITY spellNoSuggestions.label "(پیشنهاد املائی موجود نیست)">
 <!ENTITY spellDictionaries.label "زبان‌ها">
