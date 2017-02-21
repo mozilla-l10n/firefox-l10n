@@ -34,7 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "با موفقیت انجام شد!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; آماده شروع است.">
 
-<!ENTITY welcomeback2.label.restoreAll  "برگرداندن تمام پنجره ها و زبانه ها">
+<!ENTITY welcomeback2.label.restoreAll  "برگرداندن تمام پنجره‌ها و زبانه‌ها">
 <!ENTITY welcomeback2.label.restoreSome "تنها‌ مواردی که من می‌خواهم بازگردانده شود">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
