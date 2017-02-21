@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "အ">
 <!ENTITY toolsMenu.tooltip                    "အတ်အွန်အားလုံးအတွက် အသုံးချပစ္စည်းများ">
 
+<!ENTITY getThemes.description                "စိတ်ကြိုက်ဆောင်ရွက်နိုင်မည့် ဘရောင်ဇာကို ရှာဖွေနေပါသလား။">
+<!ENTITY getThemes.learnMore                  "အခင်းအကျင်း အသွင်အပြင်ပေါင်း ထောင်ပေါင်းများစွာထဲမှ ရွေးချယ်အသုံးပြုပါ။">
+
 <!ENTITY cmd.back.tooltip                     "နောက် တမျက်နှာ သွားပါ">
 <!ENTITY cmd.forward.tooltip                  "ရှေ့ တမျက်နှာ သွားပါ">
 
@@ -27,8 +30,8 @@
 <!ENTITY showAllExtensions.button.label       "နောက်တွဲ ပရိုဂရမ်အားလုံးကို ပြပါ">
 <!ENTITY debugAddons.label                    "အတ်အွန်များကို အမှားရှာရန်">
 <!ENTITY debugAddons.accesskey                "b">
-<!-- global warnings -->
 
+<!-- global warnings -->
 <!ENTITY warning.safemode.label                    "လုံခြုံရေးအပြင်အဆင်အရအတ်အွန်အားလုံးအားပိတ်သိမ်းထားသည်။">
 <!ENTITY warning.checkcompatibility.label          "အတ်အွန် အဆင့်မှီမမှီ စစ်ဆေးသော လုပ်ဆောင်ချက် အား ပိတ်ထားသည်။ သင့်တွင် အသုံးမဝင်တော့သော မသစ်တော့သော အတ်အွန်များ ရှိနိုင်သည်။">
 <!ENTITY warning.checkcompatibility.enable.label   "လုပ်ဆောင်နိုင်စေမည်။">
@@ -36,14 +39,14 @@
 <!ENTITY warning.updatesecurity.label              "အတ်အွန် အဆင့်မြှင့်တင်ခြင်းလုံခြုံရေးစစ်ဆေးချက်အားပိတ်ထားသည်။သင်သည် အဆင့်မြှင့်တင်ခြင်းများနှင့်ပတ်သတ်ပြီးအံအားသင့်နိုင်သည်။">
 <!ENTITY warning.updatesecurity.enable.label       "လုပ်ဆောင်နိုင်စေမည်။">
 <!ENTITY warning.updatesecurity.enable.tooltip     "အက်အွန် အပ်ဒိပ် လုံခြုံရေး စစ်ဆေးခြင်းကို ဖွင့်ထားမယ်">
-<!-- categories / views -->
 
+<!-- categories / views -->
 <!ENTITY view.search.label                    "ရှာဖွေရန်">
 <!ENTITY view.discover.label                  "အက်အွန်ရယူပါ">
 <!ENTITY view.recentUpdates.label             "လက်ရှိ အသစ်">
 <!ENTITY view.availableUpdates.label          "ရရှိနိုင်သော အဆင့်မြင်တင်မှု">
-<!-- addon updates -->
 
+<!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "အဆင့်မြှင့်တင်ရန်လိုအပ်နေလားစစ်ကြည့်မည်။">
 <!ENTITY updates.checkForUpdates.accesskey    "အ">
 <!ENTITY updates.viewUpdates.label            "လတ်တလော အပ်ဒိပ်များကို ကြည့်ပါ">
@@ -71,8 +74,8 @@
 <!ENTITY updates.manualUpdatesFound.label     "ရရှိနိုင်သော အဆင့်မြင်တင်မှုအား ကြည့်ရှုပါ">
 <!ENTITY updates.updateSelected.label         "လုပ်ဆောင်ချက် အသစ်ထည့်ခြင်း">
 <!ENTITY updates.updateSelected.tooltip       "စာရင်းထဲတွင် ပြထားသော အဆင့်မြှင့်တင်မှူများ ကိုပြုလုပ်မည်။">
-<!-- addon actions -->
 
+<!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "အချက်အလက်များထပ်ပြပါ။">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "အဆင့်မြှင့်တင်မှူများကိုရှာပါ။">
@@ -115,15 +118,15 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ယခု အဆင့်မြင့်တင်မှု အတွက် ထုတ်လုပ်မှု စာတမ်းအား ဖော်ပြပါ။">
 <!ENTITY cmd.hideReleaseNotes.label           "ထုပ်လုပ်သည့် အချက်အလက်ကို မဖော်ပြပါ။">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ယခု ထုတ်လုပ်မှု၏ အကြောင်းအရာ အား ဖျောက်ထားပေးပါ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
-
 <!ENTITY discover.title                       "အက်အွန်ဆိုတာဘာလဲ?">
 <!ENTITY discover.description2                "အတ်အွန်များ သည် သင်၏ &brandShortName; အားတစ်ကိုယ်ရေသုံးဆန်စေရန် ပြုလုပ်ပေးသော ထပ်တိုးလုပ်ဆောင်ချက်များနှင့် အက်ပလီကေးရှင်းများဖြစ်သည်။ ဘေးဘက်ဘား သို့ ရာသီဥတုအချက်ပေးအစီအစဉ် သို့ သမ်းပုံစုံတစ်ခုခုကို သုံးပြီး &brandShortName; အားသင့်ပုံစံအဖြစ်ပြောင်းလဲပါ။">
 <!ENTITY discover.footer                      "သင့်ကွန်ပျူတာ အင်တာနက်နဲ့ ချိတ်ဆက်မှုရတဲ့အခါ၊ ဒီဘက်ခြမ်းမှာ သင့်အတွက် အကောင်းဆုံးနဲ့ အကျော်ကြားဆုံးသော အက်အွန်အချို့ကို စမ်းသပ်ကြည့်နိုင်ဖို့ ဖော်ပြပေးထားပါမယ်။">
-<!-- detail view -->
 
+<!-- detail view -->
 <!ENTITY detail.version.label                 "မူအဆင့်">
 <!ENTITY detail.lastupdated.label             "နောက်ဆုံး အသစ်">
 <!ENTITY detail.creator.label                 "Developer">
@@ -152,17 +155,17 @@
 <!ENTITY detail.showPreferencesUnix.label     "ဦးစားပေး အချက်များ">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ယခုအက်အွန်၏ preferences ကိုပြောင်းပါ">
+
+
 <!-- ratings -->
-
-
 <!ENTITY rating2.label                        "အဆင့်">
-<!-- download/install progress -->
 
+<!-- download/install progress -->
 <!ENTITY progress.pause.tooltip               "ခေတ္တရပ်တန့်တယ်">
 <!ENTITY progress.cancel.tooltip              "ပယ်​ဖျက်ပါ">
+
+
 <!-- list sorting -->
-
-
 <!ENTITY sort.name.label                      "အမည်">
 <!ENTITY sort.name.tooltip                    "နာမည်အလိုက် စီပါ">
 <!ENTITY sort.dateUpdated.label               "နောက်ဆုံး အသစ်">
@@ -215,12 +218,12 @@
 <!ENTITY eula.accept                          "လက်ခံပြီး တပ်ဆင်ပါ...">
 
 <!ENTITY settings.path.button.label           "ဖွင့်ရှာကြည့်ပါ။">
+
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.
      This tab won't be displayed unless an Experiment add-on is installed.
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
-
 <!ENTITY experiment.info.label "ဒါဘာလဲ? Telemetry ဟာ စမ်းသပ်ချက်များ ကို တပ်ဆင်ပြီး လုပ်ဆောင်ကောင်းလုပ်နေလိမ့်မည်">
 <!ENTITY experiment.info.learnmore "ဆက်လက်ဖတ်ရှူရန်">
 <!ENTITY experiment.info.learnmore.accesskey "L">
@@ -243,3 +246,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "ဖန်တီးသူများသည် သူတို့၏ အတ်အွန်များ အတည်ပြုပြီးခြင်းကို လိုလားသည်။ ကျွန်တော်တို့၏">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "အသုံးပြုသူလက်စွဲကို ဖတ်ခြင်းဖြင့် ဆက်လက်ဆောင်ရွက်နိုင်သည်။">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "တစ်စုံတစ်ရာကို မတွေ့မိဘူးလား။ အချို့သောပလက်အင်များကို &brandShortName; က မထောက်ပံ့တော့ပါ။">
+<!ENTITY pluginDeprecation.learnMore "ပိုမိုလေ့လာရန်။">
