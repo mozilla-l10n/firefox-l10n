@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Legg til ny beholder">
 <!ENTITY addButton.accesskey  "L">
-
-
+<!ENTITY preferencesButton.label "Innstillinger">
+<!ENTITY removeButton.label   "Fjern">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Gå tilbake til personvern">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Navn:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "Oppgi et beholdernavn">
 <!ENTITY icon.label           "Ikon:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Farge:">

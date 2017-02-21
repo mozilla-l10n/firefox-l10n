@@ -10,7 +10,7 @@
 <!ENTITY syncKey.keepItSafe1.description  "Ikke mist nøkkelen.">
 <!ENTITY syncKey.keepItSafe2.description  " Vi har ingen kopi av nøkkelen (det ville ikke ha vært å holde den hemmelig!) så ">
 <!ENTITY syncKey.keepItSafe3.description  "vi kan ikke hjelpe deg å finne den">
-<!ENTITY syncKey.keepItSafe4a.description "  dersom du mister den. Du må bruke denne nøkkelen hver gang du kobler en ny enhet til &syncBrand.fullName.label;.">
+<!ENTITY syncKey.keepItSafe4a.description " dersom du mister den. Du må bruke denne nøkkelen hver gang du kobler en ny enhet til &syncBrand.fullName.label;.">
 <!ENTITY syncKey.findOutMore1.label       "Finn ut mer om &syncBrand.fullName.label; og personvernet ditt på ">
 <!ENTITY syncKey.findOutMore2.label       ".">
 <!ENTITY syncKey.footer1.label            "Tjenestevilkår for &syncBrand.fullName.label; er tilgjengelig på ">
