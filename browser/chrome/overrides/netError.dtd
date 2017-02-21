@@ -33,6 +33,10 @@
 <!ENTITY generic.title "Ух?!">
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
 
+<!ENTITY captivePortal.title "Злучыцца з сеткай">
+<!ENTITY captivePortal.longDesc "
+<p>Гэтая сетка можа патрабаваць уваход для доступу да інтэрнэту.</p>
+">
 
 <!ENTITY openPortalLoginPage.label "Адкрыць старонку ўваходу">
 
@@ -57,7 +61,7 @@
 <!ENTITY netReset.title "Злучэнне скінута">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Злучэнне па-за часам">
+<!ENTITY netTimeout.title "Час чакання злучэння выйшаў">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Немагчыма распазнаць адрас">
@@ -76,38 +80,64 @@
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Упэўніцеся, што Асабісты Кіраўнік Бяспекі ўсталяваны ў вашай сістэме.</li> <li>Гэта магчыма з нагоды незвычайнай наладкі паслугача.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Старонка, якую вы спрабуеце адкрыць, не можа быць паказана, бо сапраўднасць атрыманых звестак нельга пацвердзіць.</li>
+  <li>Калі ласка, паведаміце ўладальніку сайта пра гэтую праблему.</li>
+</ul>
+">
 
+<!ENTITY certerror.longpagetitle1 "Вашае злучэнне не бяспечнае">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Уладальнік <span class='hostname'/> наладзіў свой вэб-сайт няправільна.  Каб абараніць вашы звесткі ад крадзяжу, &brandShortName; не злучаўся з сайтам.">
 
-<!ENTITY sharedLongDesc "<ul> <li>Магчыма, пляцоўка часова недаступна або перагружана. Паспрабуйце зноў трохі пазней.</li> <li>Праверце злучэнне вашага кампутара з сеткаю, калі вы не здольны загрузіць ніякую старонку.</li> <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li> </ul>">
+<!ENTITY sharedLongDesc "<ul> <li>Магчыма, сайт часова недаступны ці перагружаны. Паспрабуйце зноў трохі пазней.</li> <li>Калі ніводная старонка не адкрываецца, праверце злучэнне камп'ютара з сеткай.</li> <li>Калі ваш камп'ютар ці сетка ахоўваюцца фаерволам ці проксі, пераканайцеся, што &brandShortName; дазволена мець доступ да сеціва.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Заблакавана палітыкай абароны змесціва">
+<!ENTITY cspBlocked.title "Заблакавана палітыкай бяспекі змесціва">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў чытанні такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Памылка пашкоджанага змесціва">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Старонка, якую вы спрабуеце адкрыць, не можа быць паказана, бо выяўлена памылка перадачы даных.</p><ul><li>Калі ласка, паведаміце ўладальніку сайта пра гэтую праблему.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
 
+<!ENTITY errorReporting.automatic2 "Паведамляць пра памылкі такога кшталту, каб дапамагчы Mozilla выяўляць і блакаваць зламысныя сайты">
 <!ENTITY errorReporting.learnMore "Даведацца больш…">
 
-<!ENTITY remoteXUL.title "Адлеглы XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li></ul></p>">
+<!ENTITY remoteXUL.title "Аддалены XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведаміце, калі ласка, уладальнікам сайта пра гэтую праблему.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Немагчыма злучыцца бяспечна">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc2 "Дадатковыя звесткі: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Ваша злучэнне не бяспечнае">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 <!ENTITY weakCryptoUsed.longDesc2 "Дадатковыя звесткі: SSL_ERROR_NO_CYPHER_OVERLAP">
 <!ENTITY weakCryptoAdvanced.title "Дадаткова">
+<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы.">
+<!ENTITY weakCryptoAdvanced.override "(Не бяспечна) Паспрабаваць адкрыць <span class='hostname'></span> з састарэлай бяспекай">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; не злучыўся з <span id='wrongSystemTime_URL'/>, бо гадзіннік вашага камп'ютара паказвае няправільны час, і гэта прадухіляе бяспечныя злучэнні.</p> <p>Ваш камп'ютар настаўлены на <span id='wrongSystemTime_systemDate'/>, калі мусіць быць <span id='wrongSystemTime_actualDate'/>. Каб выправіць праблему, змяніце свае налады даты і часу, каб адпавядаць карэктнаму часу.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; не злучыўся з <span id='wrongSystemTimeWithoutReference_URL'/>, бо гадзіннік вашага камп'ютара паказвае няправільны час, і гэта прадухіляе бяспечныя злучэнні.</p> <p>Ваш камп'ютар настаўлены на <span id='wrongSystemTimeWithoutReference_systemDate'/>. Каб выправіць гэту праблему, змяніце свае налады даты і часу, каб адпавядаць карэктнаму часу.</p>">
 
+<!ENTITY certerror.pagetitle1  "Небяспечнае злучэнне">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Гэты сайт выкарыстоўвае HTTP
+Строгая бяспека транспарту (HSTS) прадугледжвае, што &brandShortName; можа злучацца з ім толькі бяспечна. Як следства, немагчыма дадаць выключэнне для гэтага сертыфіката.">
 <!ENTITY certerror.copyToClipboard.label "Капіяваць тэкст у буфер абмену">
 
+<!ENTITY inadequateSecurityError.title "Ваша злучэнне не бяспечнае">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы. Адміністратар вэб-сайта мусіць выправіць гэты сервер, перш чым вы зможаце наведаць яго бяспечна.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Выглядае, што выклікаць гэта маглі вашыя налады сеткавай бяспекі. Хочаце скінуць налады да змоўчных?">
+<!ENTITY prefReset.label "Скінуць да змоўчных">
