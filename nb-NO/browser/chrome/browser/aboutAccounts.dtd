@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Velkommen til &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "Logg inn for å synkronisere faner, bokmerker, passord m.m.">
+<!ENTITY aboutAccountsConfig.description "Logg inn for å synkronisere faner, bokmerker, passord med mer.">
 <!ENTITY aboutAccountsConfig.startButton.label "Begynn">
 <!ENTITY aboutAccountsConfig.useOldSync.label "Bruker du en eldre versjon av Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync-innstillinger">
