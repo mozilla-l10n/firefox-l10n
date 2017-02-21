@@ -22,7 +22,7 @@
 <!ENTITY  reloadTab.label                    "โหลดแท็บใหม่">
 <!ENTITY  reloadTab.accesskey                "ล">
 <!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY  reloadAllTabs.accesskey            "ด">
+<!ENTITY  reloadAllTabs.accesskey            "ท">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -47,9 +47,9 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.accesskey          "ม">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ค">
+<!ENTITY  bookmarkAllTabs.accesskey          "บ">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY  undoCloseTab.accesskey             "ด">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
@@ -70,33 +70,33 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
-<!ENTITY printPreviewCmd.accesskey "v">
+<!ENTITY printPreviewCmd.accesskey "ต">
 <!ENTITY printCmd.label "พิมพ์…">
 <!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.accesskey "ฟ">
 
 <!ENTITY menubarCmd.label "แถบเมนู">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "ถ">
 <!ENTITY navbarCmd.label "แถบเครื่องมือนำทาง">
 <!ENTITY personalbarCmd.label "แถบเครื่องมือที่คั่นหน้า">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.accesskey "ค">
 <!ENTITY bookmarksToolbarItem.label "รายการแถบเครื่องมือที่คั่นหน้า">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นแท็บทั้งหมด…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
 
 <!ENTITY pageSourceCmd.label "ต้นฉบับหน้า">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "ต">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "ข้อมูลหน้า">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "ข">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "สะท้อนแท็บ">
 <!ENTITY mirrorTabCmd.accesskey "m">
@@ -105,9 +105,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "อ">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.accesskey "อ">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
