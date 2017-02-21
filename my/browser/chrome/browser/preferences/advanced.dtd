@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "စာမျက်နှာများထဲမှာ ကူးသန်းဖို့ cursor သော့ချက်များကို အမြဲသုံးစွဲပါ">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "သင် စာစရိုက်သည်နှင့် စရှာပါ">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "သင့်အား ဝတ်ဆိုဒ်များမှ ထပ်ဆင့်ပေးပို့မည်ဆိုပါက သတိပေးမည်">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "လိုအပ်လျှင် တို့ထိကီးဘုတ်ကို ပြပါ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "r ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
 <!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkUserSpelling.label         "သင့် စာလုံးပေါင်းများအား စာရိုက်နေစဉ်စစ်ပေးမည်">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
@@ -52,6 +58,7 @@
 <!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "ဆိုက်အချက်အလက်">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
