@@ -2,14 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Выкарыстоўваць ахову ад сачэння">
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
+<!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Толькі ў прыватных вокнах">
+<!ENTITY  trackingProtectionPrivate.accesskey  "л">
 <!ENTITY  trackingProtectionNever.label        "Ніколі">
+<!ENTITY  trackingProtectionNever.accesskey    "н">
 <!ENTITY  trackingProtectionLearnMore.label    "Даведацца больш">
 <!ENTITY  trackingProtectionExceptions.label   "Выключэнні…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ч">
 
 <!ENTITY tracking.label                 "Высочванне">
+<!ENTITY trackingProtectionPBM5.label         "Выкарыстоўваць ахову ад сачэння ў прыватных вокнах">
+<!ENTITY trackingProtectionPBM5.accesskey     "В">
 <!ENTITY trackingProtectionPBMLearnMore.label "Даведацца больш">
 <!ENTITY changeBlockList.label          "Змяніць спіс блакавання">
 <!ENTITY changeBlockList.accesskey      "З">
@@ -17,24 +23,30 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "Вы таксама можаце ">
+<!ENTITY  doNotTrack.settings.label     "кіраваць наладамі 'Не сачыць'">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Гісторыя">
 
-<!ENTITY  locationBar.label             "Паліца месцазнаходжання">
+<!ENTITY  locationBar.label             "Адрасны радок">
 
 <!ENTITY  locbar.suggest.label          "Пры выкарыстанні адраснага радка, прапаноўваць:">
 <!ENTITY  locbar.history.label          "Гісторыю">
 <!ENTITY  locbar.history.accesskey      "Г">
 <!ENTITY  locbar.bookmarks.label        "Закладкі">
+<!ENTITY  locbar.bookmarks.accesskey    "л">
 <!ENTITY  locbar.openpage.label         "Адкрытыя карткі">
 <!ENTITY  locbar.openpage.accesskey     "А">
+<!ENTITY  locbar.searches.label         "Звязаныя запыты з прадвызначанага пашукавіка">
+<!ENTITY  locbar.searches.accesskey     "в">
 
+<!ENTITY  suggestionSettings.label      "Змяніць перавагі для падказак пашукавіка…">
+<!ENTITY  suggestionSettings.accesskey  "п">
 
-<!ENTITY  acceptCookies.label           "Набываць біркі з пляцовак">
+<!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">
 <!ENTITY  acceptCookies.accesskey       "б">
 
-<!ENTITY  acceptThirdParty.pre.label      "Набываць пабочныя біркі:">
+<!ENTITY  acceptThirdParty.pre.label      "Прымаць кукі з пабочных сайтаў:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "п">
 <!ENTITY  acceptThirdParty.always.label   "Заўсёды">
 <!ENTITY  acceptThirdParty.never.label    "Ніколі">
@@ -49,17 +61,17 @@
 <!ENTITY  cookieExceptions.label        "Выключэнні…">
 <!ENTITY  cookieExceptions.accesskey    "В">
 
-<!ENTITY  showCookies.label             "Паказаць біркі…">
+<!ENTITY  showCookies.label             "Паказаць кукі…">
 <!ENTITY  showCookies.accesskey         "П">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; павінен:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "Памятаць гісторыю">
 <!ENTITY  historyHeader.dontremember.label "Ніколі не памятаць гісторыю">
-<!ENTITY  historyHeader.custom.label       "Ужываць наладжванні для гісторыі">
+<!ENTITY  historyHeader.custom.label       "Ужываць налады для гісторыі">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; будзе памятаць гісторыю вашых азірання, загрузак, запаўнення формаў і пошуку і будзе трымаць біркі з наведаных пляцовак Сеціва.">
+<!ENTITY  rememberDescription.label      "&brandShortName; будзе памятаць гісторыю вашага аглядання, сцягванняў, запаўнення формаў і пошуку і будзе трымаць кукі з наведаных сайтаў.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -67,10 +79,10 @@
 <!ENTITY  rememberActions.pre.label           "Вы можаце">
 <!ENTITY  rememberActions.clearHistory.label  "ачысціць нядаўнюю гісторыю">
 <!ENTITY  rememberActions.middle.label        "або">
-<!ENTITY  rememberActions.removeCookies.label "выдаліць асобныя біркі">
+<!ENTITY  rememberActions.removeCookies.label "выдаліць асобныя кукі">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; будзе ўжываць наладжванні, аднолькавыя наладжванням адасобленага азірання, і не будзе запамінаць гісторыю вашага азірання Сеціва.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; будзе ўжываць тыя ж налады, што і ў прыватным рэжыме, і не будзе памятаць гісторыю вашага аглядання Сеціва.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -78,10 +90,10 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ачысціць усю цяперашнюю гісторыю">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Заўсёды ўжываць адасоблены рэжым азірання">
+<!ENTITY  privateBrowsingPermanent2.label "Заўсёды ўжываць прыватны рэжым аглядання">
 <!ENTITY  privateBrowsingPermanent2.accesskey "д">
 
-<!ENTITY  rememberHistory2.label      "Памятаць гісторыю маіх азірання і сцягванняў">
+<!ENTITY  rememberHistory2.label      "Памятаць гісторыю маіх аглядання і сцягванняў">
 <!ENTITY  rememberHistory2.accesskey  "а">
 
 <!ENTITY  rememberSearchForm.label       "Памятаць гісторыю пошуку і запаўнення формаў">
@@ -90,9 +102,12 @@
 <!ENTITY  clearOnClose.label             "Ачышчаць гісторыю, калі &brandShortName; закрываецца">
 <!ENTITY  clearOnClose.accesskey         "ч">
 
-<!ENTITY  clearOnCloseSettings.label     "Наладжванні…">
+<!ENTITY  clearOnCloseSettings.label     "Налады…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
 <!ENTITY  browserContainersHeader.label         "Карткі кантэйнераў">
 <!ENTITY  browserContainersLearnMore.label      "Даведацца больш">
 <!ENTITY  browserContainersEnabled.label        "Уключыць карткі кантэйнераў">
+<!ENTITY  browserContainersEnabled.accesskey    "т">
+<!ENTITY  browserContainersSettings.label        "Налады…">
+<!ENTITY  browserContainersSettings.accesskey    "т">
