@@ -20,14 +20,14 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "โหลดแท็บใหม่">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "ล">
 <!ENTITY  reloadAllTabs.label                "โหลดแท็บทั้งหมดใหม่">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "ด">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บไปทางขวา">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ข">
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
@@ -37,9 +37,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ปักหมุดแท็บ">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.accesskey                   "ม">
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "ถ">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
 <!ENTITY  sendTabToDevice.accesskey          "D">
 <!ENTITY  sendPageToDevice.label             "ส่งหน้าไปยังอุปกรณ์">
@@ -49,23 +49,23 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.accesskey          "ค">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.accesskey             "ร">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
-<!ENTITY  closeTab.accesskey                 "c">
+<!ENTITY  closeTab.accesskey                 "ป">
 
 <!ENTITY  listAllTabs.label      "แสดงรายการแท็บทั้งหมด">
 
 <!ENTITY tabCmd.label "แท็บใหม่">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.accesskey "ท">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "เปิดตำแหน่งที่ตั้ง…">
 <!ENTITY openFileCmd.label "เปิดไฟล์…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "ป">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "ท">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "เครื่องมือ">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "ค"> 
 
 <!ENTITY keywordfield.label           "ใส่คำสำคัญเพื่อค้นหา…">
 <!ENTITY keywordfield.accesskey       "K">
@@ -280,18 +280,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.accesskey       "ฟ">
 <!ENTITY newUserContext.label             "แท็บแยกตัวตนใหม่">
-<!ENTITY newUserContext.accesskey         "B">
+<!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.accesskey      "น">
 <!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "ส">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
-<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY editMenu.accesskey       "ก"> 
 <!ENTITY undoCmd.label            "เลิกทำ">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
@@ -323,7 +323,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "มุมมอง"> 
-<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewMenu.accesskey       "ม"> 
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
@@ -332,7 +332,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "ประวัติ">
-<!ENTITY historyMenu.accesskey "s">
+<!ENTITY historyMenu.accesskey "ป">
 <!ENTITY historyUndoMenu.label "แท็บที่เพิ่งปิด">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "หน้าต่างที่เพิ่งปิด">
