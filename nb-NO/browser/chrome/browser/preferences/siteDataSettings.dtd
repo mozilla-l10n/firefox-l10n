@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Innstillinger - sidedata">
-
+<!ENTITY     settings.description          "De følgende nettsteder har bedt om å lagre nettstedsdata på disken. Du kan spesifisere hvilke nettsteder som har lov til å lagre nettstedsdata . Standard nettstedsdata er midlertidig og kan bli slettet automatisk.">
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">

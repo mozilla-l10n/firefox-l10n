@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Trådheng">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  oppfanget stakker">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skalarer">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Histogrammer etter nøkler">
 
+<!ENTITY aboutTelemetry.eventsSection "  hendelser">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Enkle målinger">
 
