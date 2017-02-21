@@ -20,7 +20,7 @@
 <!ENTITY myRecoveryKey.label          "Мой адноўны ключ">
 <!ENTITY resetSync2.label             "Узнавіць сінхранізацыю…">
 
-<!ENTITY pairDevice.label             "Спараваць збудову">
+<!ENTITY pairDevice.label             "Спараваць прыладу">
 
 <!ENTITY syncMy.label               "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label     "Закладкі">
@@ -40,9 +40,12 @@
 <!ENTITY syncDeviceName.label       "Назва збудовы:">
 <!ENTITY fxaSyncDeviceName.label       "Назва прылады">
 <!ENTITY changeSyncDeviceName.label "Змяніць назву прылады…">
+<!ENTITY changeSyncDeviceName.accesskey "р">
 <!ENTITY cancelChangeSyncDeviceName.label "Скасаваць">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "ь">
 <!ENTITY saveChangeSyncDeviceName.label "Захаваць">
-<!ENTITY unlinkDevice.label           "Разлучыцца з гэтай збудовай">
+<!ENTITY saveChangeSyncDeviceName.accesskey "і">
+<!ENTITY unlinkDevice.label           "Разлінкаваць гэту прыладу">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умовы абслугоўвання">
@@ -70,8 +73,10 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Вы не ўвайшлі.">
 <!ENTITY signIn.label                "Увайсці">
+<!ENTITY signIn.accesskey            "і">
 <!ENTITY profilePicture.tooltip      "Змяніць профільную выяву">
 <!ENTITY verifiedManage.label        "Кіраванне акаунтам">
+<!ENTITY verifiedManage.accesskey    "у">
 <!ENTITY disconnect.label            "Адлучыцца…">
 <!ENTITY disconnect.accesskey        "А">
 <!ENTITY verify.label                "Пацвердзіць эл.пошту">
