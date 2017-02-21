@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Nutsgoed vir alle byvoegings">
 
-
+<!ENTITY getThemes.description                "Lus om die blaaier te verpersoonlik?">
+<!ENTITY getThemes.learnMore                  "Kies uit duisende temas.">
 
 <!ENTITY cmd.back.tooltip                     "Gaan een bladsy terug">
 <!ENTITY cmd.forward.tooltip                  "Gaan een bladsy vorentoe">
