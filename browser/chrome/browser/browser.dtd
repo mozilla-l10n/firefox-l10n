@@ -51,7 +51,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ค">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
-<!ENTITY  undoCloseTab.accesskey             "ร">
+<!ENTITY  undoCloseTab.accesskey             "ด">
 <!ENTITY  closeTab.label                     "ปิดแท็บ">
 <!ENTITY  closeTab.accesskey                 "ป">
 
@@ -72,7 +72,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "พิมพ์…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.accesskey "พ">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "ทำงานออฟไลน์">
@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
-<!ENTITY bookmarksMenu.accesskey "ท">
+<!ENTITY bookmarksMenu.accesskey "น">
 <!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
