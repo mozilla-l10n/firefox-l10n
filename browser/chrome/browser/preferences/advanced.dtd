@@ -58,7 +58,9 @@
 <!ENTITY offlineStorage2.label           "Frakoblet nettinnhold og brukerdata">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "Sidedata">
+<!ENTITY clearSiteData.label             "Fjern alle data">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Innstillinger …">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Les mer">
@@ -114,9 +116,9 @@
 <!ENTITY certPersonal.label              "Forespørsler">
 <!ENTITY certPersonal.description        "Når et nettsted ber om ditt personlige sertifikat:">
 <!ENTITY selectCerts.auto                "Velg ett automatisk">
-
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Spør deg hver gang">
-
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Spør OCSP-servere om å bekrefte gyldigheten til sertifikater">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Vis sertifikater">
