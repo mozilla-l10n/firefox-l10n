@@ -266,18 +266,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ดาวน์โหลด">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.accesskey          "ด">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "ส่วนเสริม">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "ส">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "นักพัฒนาเว็บ">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.accesskey   "พ">
 
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
-<!ENTITY inspectContextMenu.accesskey "Q">
+<!ENTITY inspectContextMenu.accesskey "ป">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
@@ -285,38 +285,38 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "น">
+<!ENTITY newNavigatorCmd.accesskey      "ม">
 <!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
-<!ENTITY newPrivateWindow.accesskey "ส">
+<!ENTITY newPrivateWindow.accesskey "น">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
 <!ENTITY editMenu.accesskey       "ก"> 
 <!ENTITY undoCmd.label            "เลิกทำ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "ก"> 
 <!ENTITY redoCmd.label            "ทำซ้ำ">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "ท"> 
 <!ENTITY cutCmd.label           "ตัด">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.accesskey         "ต"> 
 <!ENTITY copyCmd.label            "คัดลอก">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.accesskey          "ค"> 
 <!ENTITY pasteCmd.label           "วาง">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.accesskey         "ว"> 
 <!ENTITY deleteCmd.label          "ลบ">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "ล"> 
 <!ENTITY selectAllCmd.label         "เลือกทั้งหมด">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.accesskey       "ม"> 
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ต"> 
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
@@ -325,7 +325,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.label         "มุมมอง"> 
 <!ENTITY viewMenu.accesskey       "ม"> 
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey     "ค"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
 <!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
@@ -400,9 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ม">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ใช่">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ช">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
