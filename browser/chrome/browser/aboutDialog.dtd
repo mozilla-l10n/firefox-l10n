@@ -96,7 +96,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "Aflaai van bywerking — ">
+<!ENTITY update.downloading.start   "Laai tans bywerking af — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Pas tans bywerking toe…">
