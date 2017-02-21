@@ -123,7 +123,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "คืนสภาพ">
 <!ENTITY fullScreenClose.tooltip "ปิด">
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "น">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
 <!ENTITY fullScreenExit.accesskey "อ">
 
@@ -294,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.accesskey       "ก"> 
 <!ENTITY undoCmd.label            "เลิกทำ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ก"> 
+<!ENTITY undoCmd.accesskey          "ล"> 
 <!ENTITY redoCmd.label            "ทำซ้ำ">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "ท"> 
@@ -309,14 +309,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.accesskey         "ว"> 
 <!ENTITY deleteCmd.label          "ลบ">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ล"> 
+<!ENTITY deleteCmd.accesskey        "บ"> 
 <!ENTITY selectAllCmd.label         "เลือกทั้งหมด">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ม"> 
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
 <!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
-<!ENTITY preferencesCmdUnix.accesskey     "ต"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ง"> 
 
 <!ENTITY clearRecentHistory.label               "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 
@@ -327,7 +327,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
 <!ENTITY viewToolbarsMenu.accesskey     "ค"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "ง">
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
