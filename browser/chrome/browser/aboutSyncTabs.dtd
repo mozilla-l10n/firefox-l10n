@@ -9,12 +9,12 @@
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
 
 <!ENTITY tabs.context.openTab.label                   "باز کردن این زبانه">
-<!ENTITY tabs.context.openTab.accesskey               "O">
+<!ENTITY tabs.context.openTab.accesskey               "ب">
 <!ENTITY tabs.context.openMultipleTabs.label          "باز کردن زبانه‌های انتخاب شده">
-<!ENTITY tabs.context.openMultipleTabs.accesskey      "O">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "ب">
 <!ENTITY tabs.context.bookmarkSingleTab.label         "نشانک‌گذاری این زبانه…">
-<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "B">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "ن">
 <!ENTITY tabs.context.bookmarkMultipleTabs.label      "نشانک‌گذاری زبانه‌های انتخاب شده…">
-<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "B">
-<!ENTITY tabs.context.refreshList.label               "بازآوردن فهرست">
-<!ENTITY tabs.context.refreshList.accesskey           "R">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "ن">
+<!ENTITY tabs.context.refreshList.label               "بازآوری فهرست‌">
+<!ENTITY tabs.context.refreshList.accesskey           "ب">

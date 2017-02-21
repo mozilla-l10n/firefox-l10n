@@ -270,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "افزودنی‌ها">
-<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.accesskey             "ا">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
@@ -469,13 +469,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 <!ENTITY openLinkCmd.label            "باز کردن پیوند در پنجرهٔ جدید">
 <!ENTITY openLinkCmd.accesskey        "پ">
-<!ENTITY openLinkInPrivateWindowCmd.label "باز کردن پیوند در پنجرهٔ جدید">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "پ">
+<!ENTITY openLinkInPrivateWindowCmd.label "باز کردن پیوند در پنجره خصوصی جدید">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "خ">
 <!ENTITY openLinkCmdInCurrent.label     "باز کردن پیوند">
 <!ENTITY openLinkCmdInCurrent.accesskey "ب">
-<!ENTITY openFrameCmdInTab.label      "باز کردن چارچوب در زبانهٔ جدید">
+<!ENTITY openFrameCmdInTab.label      "باز کردن چارچوب در زبانه جدید">
 <!ENTITY openFrameCmdInTab.accesskey  "ز">
-<!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجرهٔ جدید">
+<!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجره جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
 <!ENTITY openLinkCmdInContainerTab.label "باز کردن پیوند در زبانه حامل جدید">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
@@ -763,9 +763,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.open.label                       "باز کردن‌">
 <!ENTITY syncedTabs.context.open.accesskey                   "ب">
-<!ENTITY syncedTabs.context.openInNewTab.label               "باز کردن در زبانهٔ جدید">
+<!ENTITY syncedTabs.context.openInNewTab.label               "باز کردن در زبانه جدید">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "ج">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "باز کردن در پنجرهٔ جدید">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "باز کردن در پنجره جدید">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ج">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "باز کردن در پنجرهٔ ناشناس جدید">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "ن">
