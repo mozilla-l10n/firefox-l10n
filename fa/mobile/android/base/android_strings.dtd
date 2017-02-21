@@ -170,7 +170,7 @@
 <!ENTITY overlay_no_synced_devices "هیچ حساب فایرفاکس متصل شده به این دستگاه پیدا نشد">
 
 <!ENTITY pref_category_search3 "جستجو">
-<!ENTITY pref_category_search_summary2 "اضافه، تنظیم به عنوان پیش فرض، نمایش پیشنهادات">
+<!ENTITY pref_category_search_summary2 "اضافه، تنظیمِ پیش‌فرض، نمایش پیشنهادات">
 <!ENTITY pref_category_accessibility "دسترسی‌پذیری">
 <!ENTITY pref_category_accessibility_summary2 "اندازه متن، بزرگنمایی، ورودی صوتی">
 <!ENTITY pref_category_privacy_short "حریم‌خصوصی">
@@ -181,7 +181,7 @@
 <!ENTITY pref_category_logins "ورودها">
 <!ENTITY pref_learn_more "اطلاعات بیشتر">
 <!ENTITY pref_category_installed_search_engines "موتورهای جستجو نصب شده">
-<!ENTITY pref_category_add_search_providers "اضافه کردن بیشتر تامین‌کننده‌های جستجو">
+<!ENTITY pref_category_add_search_providers "اضافه کردن تامین‌کننده‌های جستجو">
 <!ENTITY pref_category_search_restore_defaults "بازآوری موتورهای جستجو">
 <!ENTITY pref_search_restore_defaults "بازگرداندن پیش‌فرض‌ها">
 <!ENTITY pref_search_restore_defaults_summary "بازگرداندن پیش‌فرض‌ها">
