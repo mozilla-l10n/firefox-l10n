@@ -5,11 +5,13 @@
 <!ENTITY safeModeDialog.title         "Бяспечны рэжым &brandShortName;">
 <!ENTITY window.maxWidth              "430">
 
-<!ENTITY startSafeMode.label          "Запсук у бяспечным рэжыме">
+<!ENTITY startSafeMode.label          "Запуск у бяспечным рэжыме">
 <!ENTITY refreshProfile.label         "Ачысціць &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Бяспечны рэжым – адмысловы рэжым &brandShortName;, які выкарыстоўваецца для вырашэння праблемаў.">
-<!ENTITY safeModeDescription4.label   "Вашы дадаткі і асабістыя наладжванні будуць часова забаронены.">
+<!ENTITY safeModeDescription4.label   "Вашы дадаткі і асабістыя налады будуць часова адключаны.">
 
+<!ENTITY refreshProfileInstead.label  "Яшчэ вы можаце прапусціць пошук рашэння і паспрабаваць ачысціць &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; нечакана закрыўся падчас запуску. Гэта магло стацца з-за дадаткаў ці іншых праблем. Вы можаце паспрабаваць вырашыць праблему, запусціўшыся ў бяспечным рэжыме.">
