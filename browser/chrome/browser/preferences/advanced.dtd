@@ -61,7 +61,7 @@
 
 
 
-
+<!ENTITY siteDataLearnMoreLink.label     "Meer inligting">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,6 +81,7 @@
 
 <!ENTITY updateTab.label                 "Bywerk">
 
+<!ENTITY updateApplication.label         "&brandShortName;-bywerkings">
 <!ENTITY updateAuto1.label               "Installeer bywerkings outomaties (beter vir sekuriteit)">
 <!ENTITY updateAuto1.accesskey           "I">
 
