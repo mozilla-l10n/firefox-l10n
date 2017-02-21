@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "غ">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
-<!ENTITY checkUserSpelling.label         "بررسی املاءهمزمان با نوشتن">
+<!ENTITY checkUserSpelling.label         "بررسی املا همزمان با نوشتن">
 <!ENTITY checkUserSpelling.accesskey     "ن">
 
 <!ENTITY dataChoicesTab.label            "انتخاب داده‌ها">
