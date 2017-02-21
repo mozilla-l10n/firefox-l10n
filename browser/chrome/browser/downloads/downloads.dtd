@@ -63,8 +63,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Suprimeix de l'historial">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "Esborra la subfinestra de previsualització">
-<!ENTITY cmd.clearList2.accesskey         "b">
+<!ENTITY cmd.clearList2.label             "Buida la subfinestra de previsualització">
+<!ENTITY cmd.clearList2.accesskey         "B">
 <!ENTITY cmd.clearDownloads.label         "Buida la llista de baixades">
 <!ENTITY cmd.clearDownloads.accesskey     "B">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
