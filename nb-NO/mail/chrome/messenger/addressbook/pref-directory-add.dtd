@@ -5,7 +5,7 @@
 <!ENTITY directoryName.label               "Navn: ">
 <!ENTITY directoryName.accesskey           "N">
 <!ENTITY directoryHostname.label           "Servernavn: ">
-<!ENTITY directoryHostname.accesskey       "o">
+<!ENTITY directoryHostname.accesskey       "S">
 <!ENTITY directoryBaseDN.label             "Base DN: ">
 <!ENTITY directoryBaseDN.accesskey         "B">
 <!ENTITY findButton.label                  "Søk">

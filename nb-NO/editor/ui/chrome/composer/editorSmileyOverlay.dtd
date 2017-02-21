@@ -28,16 +28,16 @@
 <!ENTITY smiley7Cmd.accesskey "U">
 <!ENTITY smiley7Cmd.tooltip "Sett inn ubestemt smilefjes">
 <!ENTITY smiley8Cmd.label "Overrasket">
-<!ENTITY smiley8Cmd.accesskey "p">
+<!ENTITY smiley8Cmd.accesskey "r">
 <!ENTITY smiley8Cmd.tooltip "Sett inn overrasket smilefjes">
 <!ENTITY smiley9Cmd.label "Kyss">
 <!ENTITY smiley9Cmd.accesskey "K">
 <!ENTITY smiley9Cmd.tooltip "Sett inn smilefjeskyss">
 <!ENTITY smiley10Cmd.label "Skrik">
-<!ENTITY smiley10Cmd.accesskey "Y">
+<!ENTITY smiley10Cmd.accesskey "S">
 <!ENTITY smiley10Cmd.tooltip "Sett inn smilefjesskrik">
 <!ENTITY smiley11Cmd.label "Kul">
-<!ENTITY smiley11Cmd.accesskey "C">
+<!ENTITY smiley11Cmd.accesskey "K">
 <!ENTITY smiley11Cmd.tooltip "Sett inn kult smilefjes">
 <!ENTITY smiley12Cmd.label "Pengemunn">
 <!ENTITY smiley12Cmd.accesskey "m">
@@ -52,7 +52,7 @@
 <!ENTITY smiley15Cmd.accesskey "r">
 <!ENTITY smiley15Cmd.tooltip "Sett inn gråtende smilefjes">
 <!ENTITY smiley16Cmd.label "Munnen-er-forseglet">
-<!ENTITY smiley16Cmd.accesskey "a">
+<!ENTITY smiley16Cmd.accesskey "n">
 <!ENTITY smiley16Cmd.tooltip "Sett inn munnen-er-forseglet-smilefjes">
 <!ENTITY SmileButton.tooltip "Sett inn smilefjes">
 

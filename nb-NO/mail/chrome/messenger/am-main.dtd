@@ -30,8 +30,8 @@
 <!ENTITY editVCard.label "Rediger adressekort …">
 <!ENTITY editVCard.accesskey "R">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
-<!ENTITY attachVCard.label "Legg ved mitt adressekort (vCard)">
-<!ENTITY attachVCard.accesskey "m">
+<!ENTITY attachVCard.label "Legg ved mitt vCard-adressekort">
+<!ENTITY attachVCard.accesskey "v">
 
 <!ENTITY manageIdentities.label "Behandle identiteter …">
 <!ENTITY manageIdentities.accesskey "B">
