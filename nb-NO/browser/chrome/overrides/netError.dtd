@@ -116,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; koblet ikke til <span id='wrongSystemTime_URL'/> fordi klokken ser ut til å vise feil tid og dette hindrer en sikker tilkobling.</p> <p>Datamaskinens klokke er satt til <span id='wrongSystemTime_systemDate'/>, når den burde være <span id='wrongSystemTime_actualDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; koblet ikke til <span id='wrongSystemTimeWithoutReference_URL'/> fordi klokken ser ut til å vise feil tid og dette hindrer en sikker tilkobling.</p> <p>Datamaskinens klokke er satt til <span id='wrongSystemTimeWithoutReference_systemDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker tilkobling">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dette nettstedet bruker HTTP Strict Transport Security (HSTS) for å spesifisere at &brandShortName; bare kan koble til det sikkert. Derfor kan en ikke legge til et unntak for dette sertifikatet.">
