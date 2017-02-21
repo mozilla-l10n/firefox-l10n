@@ -99,7 +99,7 @@
 <!ENTITY certs.ask                       "Spør meg hver gang">
 <!ENTITY certs.ask.accesskey             "S">
 <!ENTITY enableOCSP.label                "Spør OCSP-serverne om å bekrefte gyldigheten til sertifikater">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "S">
 
 <!ENTITY manageCertificates.label "Behandle sertifikater">
 <!ENTITY manageCertificates.accesskey "B">

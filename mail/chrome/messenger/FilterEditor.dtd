@@ -18,7 +18,7 @@
 
 <!ENTITY contextDesc.label "Bruk filteret når:">
 <!ENTITY contextIncomingMail.label "Henter ny e-post:">
-<!ENTITY contextIncomingMail.accesskey "G">
+<!ENTITY contextIncomingMail.accesskey "H">
 <!ENTITY contextManual.label "Kjør manuelt">
 <!ENTITY contextManual.accesskey "r">
 <!ENTITY contextBeforeCls.label "Filtrer før søppelpost-klassifisering">

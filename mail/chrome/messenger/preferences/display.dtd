@@ -55,7 +55,7 @@
 <!ENTITY autoMarkAsRead.label             "Automatisk merk meldinger som lest">
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "Umiddelbart etter de er vist">
-<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!ENTITY markAsReadNoDelay.accesskey      "U">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
