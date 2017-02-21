@@ -12,7 +12,7 @@
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Te avertizează atunci când deschiderea mai multor file ar putea încetini &brandShortName;">
-<!ENTITY warnOnOpenManyTabs.accesskey   "c">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "Când se deschide un link într-o nouă filă, comută la aceasta imediat">
 <!ENTITY switchLinksToNewTabs.accesskey    "C">

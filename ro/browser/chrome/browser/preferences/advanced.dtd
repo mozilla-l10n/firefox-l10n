@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "F">
 <!ENTITY searchOnStartTyping.label       "Caută textul când încep să tastez">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avertizează-mă când site-urile încearcă să redirecteze sau să reîncarce pagina">
+<!ENTITY blockAutoReload.label           "Te avertizează când site-urile web încearcă să redirecteze sau să reîncarce pagina">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Arată o tastatură tactilă când este necesar">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -41,7 +41,7 @@
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
 <!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
-<!ENTITY alwaysSubmitCrashReports.label   "Permite &brandShortName; să trimită rapoarte de defecțiuni din trecut din partea ta">
+<!ENTITY alwaysSubmitCrashReports.label   "Permite &brandShortName; să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Află mai multe">
 

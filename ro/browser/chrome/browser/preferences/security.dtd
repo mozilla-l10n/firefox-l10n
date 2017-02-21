@@ -5,7 +5,7 @@
 <!ENTITY  general.label                 "General">
 
 <!ENTITY  warnOnAddonInstall.label        "Avertizează atunci când site-urile încearcă să instaleze file">
-<!ENTITY  warnOnAddonInstall.accesskey    "A">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "d">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Te avertizează despre programe nedorite sau suspecte">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "s">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Excepții…">
 <!ENTITY  addonExceptions.accesskey     "E">
