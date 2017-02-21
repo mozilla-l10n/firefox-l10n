@@ -8,19 +8,19 @@
 <!ENTITY startupPage.accesskey     "з">
 <!ENTITY startupUserHomePage.label "Паказваць вашу хатнюю старонку">
 <!ENTITY startupBlankPage.label    "Паказаць пустую старонку">
-<!ENTITY startupPrevSession.label  "Паказваць вокны і карткі з апошняга разу">
+<!ENTITY startupPrevSession.label  "Паказваць апошнія вокны і карткі">
 
 <!ENTITY homepage.label            "Хатняя старонка:">
 <!ENTITY homepage.accesskey        "Х">
-<!ENTITY useCurrentPage.label      "Ужыць гэтачасовую старонку">
+<!ENTITY useCurrentPage.label      "Ужыць дзейную старонку">
 <!ENTITY useCurrentPage.accesskey  "г">
-<!ENTITY useMultiple.label         "Ужыць гэтачасовыя старонкі">
+<!ENTITY useMultiple.label         "Ужыць дзейныя старонкі">
 <!ENTITY chooseBookmark.label      "Ужыць закладку…">
 <!ENTITY chooseBookmark.accesskey  "з">
 <!ENTITY restoreDefault.label      "Аднавіць змоўчную">
 <!ENTITY restoreDefault.accesskey  "А">
 
-<!ENTITY downloads.label     "Загрузкі">
+<!ENTITY downloads.label     "Сцягванні">
 
 <!ENTITY saveTo.label "Захоўваць файлы ў">
 <!ENTITY saveTo.accesskey "З">
@@ -31,8 +31,14 @@
 <!ENTITY alwaysAskWhere.label         "Заўжды пытацца, куды запісваць файлы">
 <!ENTITY alwaysAskWhere.accesskey     "З">
 
+<!ENTITY alwaysCheckDefault2.label        "Заўжды правяраць, ці з'яўляецца &brandShortName; прадвызначаным браўзерам">
+<!ENTITY alwaysCheckDefault2.accesskey    "н">
+<!ENTITY setAsMyDefaultBrowser2.label     "Зрабіць прадвызначаным">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "П">
+<!ENTITY isDefault.label                  "&brandShortName; зараз ваш прадвызначаны браўзер">
+<!ENTITY isNotDefault.label               "&brandShortName; не прадвызначаны браўзер">
 
+<!ENTITY separateProfileMode.label        "Дазволіць &brandShortName; і Firefox выконвацца адначасова">
 <!ENTITY useFirefoxSync.label             "Падказка: гэта выкарыстоўвае асобныя профілі. Карыстайцеся Sync для абмену данымі паміж імі.">
 <!ENTITY getStarted.label                 "Пачаць выкарыстоўваць Sync…">
 
