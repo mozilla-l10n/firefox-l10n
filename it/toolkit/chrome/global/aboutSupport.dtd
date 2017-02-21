@@ -67,6 +67,14 @@
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copia il testo negli appunti">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia i dati non elaborati negli appunti">
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Chiamate di sistema">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Secondi fa">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo processo">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argomenti">
 <!ENTITY aboutSupport.safeModeTitle "Prova la modalità provvisoria">
 <!ENTITY aboutSupport.restartInSafeMode.label "Riavvia disattivando i componenti aggiuntivi…">
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Caratteristiche">
