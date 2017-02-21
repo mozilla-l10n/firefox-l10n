@@ -50,8 +50,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
-<!ENTITY  undoCloseTab.label                 "برگردان بستن زبانه">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.label                 "برگردان زبانه بسته شده">
+<!ENTITY  undoCloseTab.accesskey             "ب">
 <!ENTITY  closeTab.label                     "بستن زبانه">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -282,12 +282,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "فایل"> 
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "زبانه حامل جدید">
-<!ENTITY newUserContext.accesskey         "b">
+<!ENTITY newUserContext.accesskey         "ز">
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "N">
+<!ENTITY newNavigatorCmd.accesskey      "ج">
 <!ENTITY newPrivateWindow.label     "پنجره ناشناس جدید">
-<!ENTITY newPrivateWindow.accesskey "W">
+<!ENTITY newPrivateWindow.accesskey "پ">
 <!ENTITY newNonRemoteWindow.label   "پنجره جدید Non-e10s">
 
 <!ENTITY editMenu.label         "ویرایش"> 
@@ -465,7 +465,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.label     "تنظیم به عنوان موتور جست‌وجو پیش‌فرض">
 <!ENTITY searchSetAsDefault.accesskey "پ">
 
-<!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانهٔ جدید">
+<!ENTITY openLinkCmdInTab.label       "باز کردن پیوند در زبانه جدید">
 <!ENTITY openLinkCmdInTab.accesskey   "ز">
 <!ENTITY openLinkCmd.label            "باز کردن پیوند در پنجرهٔ جدید">
 <!ENTITY openLinkCmd.accesskey        "پ">
