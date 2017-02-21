@@ -29,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บไปทางขวา">
 <!ENTITY  closeTabsToTheEnd.accesskey        "ข">
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeOtherTabs.accesskey           "อ">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -619,30 +619,30 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY fullZoomEnlargeCmd.label       "ซูมเข้า">
-<!ENTITY fullZoomEnlargeCmd.accesskey   "I">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "ข">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "ซูมออก">
-<!ENTITY fullZoomReduceCmd.accesskey    "O">
+<!ENTITY fullZoomReduceCmd.accesskey    "อ">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "กลับค่าเดิม">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.accesskey     "ด">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ซูมเฉพาะตัวอักษร">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoomToggleCmd.accesskey    "ต">
 <!ENTITY fullZoom.label                 "ซูม">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoom.accesskey             "ม">
 
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
 
 <!ENTITY quitApplicationCmdWin2.label       "ออก">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "อ">
 <!ENTITY quitApplicationCmdWin2.tooltip     "ออกจาก &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
