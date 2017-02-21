@@ -52,14 +52,26 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Captured Stacks
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   
   Scalars
   ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Keyed Scalars
+">
+
 <!ENTITY aboutTelemetry.histogramsSection "  Histograms">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  ကီးများဖြင့် ဇယားကွက်">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Events
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   ရိုးရှင်းသော တိုင်းတာချက်များ">
 
