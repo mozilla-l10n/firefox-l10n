@@ -34,7 +34,7 @@
    - they still fit in. -->
 
 <!ENTITY event.attendees.notify.label                "Varsle deltakere">
-<!ENTITY event.attendees.notify.accesskey            "f">
+<!ENTITY event.attendees.notify.accesskey            "s">
 <!ENTITY event.attendees.notifyundisclosed.label     "Egen invitasjon for hver deltaker">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Denne innstillingen sender en invitasjon for hver deltaker. Hver invitasjon inneholder bare informasjon om om den enkelte deltaker, slik at andre deltakere ikke vises.">
@@ -189,7 +189,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
 <!ENTITY counter.button.proposal.label                    "Anvend forslag">
-<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.accesskey                "n">
 <!ENTITY counter.button.proposal.tooltip2                 "Hendelsesfeltene vil bli fylt ut med de verdiene fra motforslag, bare lagring med eller uten ytterligere endringer vil varsle alle deltakere deretter">
 <!ENTITY counter.button.original.label                    "Anvend opprinnelig data">
 <!ENTITY counter.button.original.accesskey                "r">
