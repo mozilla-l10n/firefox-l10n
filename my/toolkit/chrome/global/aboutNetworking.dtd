@@ -29,6 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "စာတိုလက်ခံရရှိပြီး">
 <!ENTITY aboutNetworking.bytesSent             "ပို့ပြီးဘိုက်ပ်">
 <!ENTITY aboutNetworking.bytesReceived         "လက်ခံရရှိသောဘိုက်ပ်">
+<!ENTITY aboutNetworking.logging               "ခြေရာမှတ်တမ်းများ">
+<!ENTITY aboutNetworking.logTutorial           "<a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP ခြေရာမှတ်တမ်း</a> အား ယခု တူးလ်ကို သုံးရန်လေ့လာပါ">
+<!ENTITY aboutNetworking.currentLogFile        "လက်ရှိ ခြေရာခံဖိုင် -">
+<!ENTITY aboutNetworking.currentLogModules     "လက်ရှိခြေရာခံနေသော အစိတ်အပိုင်းများ -">
+<!ENTITY aboutNetworking.setLogFile            "ခြေရာခံဖိုင်သတ်မှတ်မည်">
+<!ENTITY aboutNetworking.setLogModules         "အစိတ်အပိုင်များအား စတင်ခြေရာခံမည်">
+<!ENTITY aboutNetworking.startLogging          "ခြေရာခံခြင်းစပါ">
+<!ENTITY aboutNetworking.stopLogging           "ခြေရာခံခြင်းရပ်ပါ">
 <!ENTITY aboutNetworking.dnsLookup             "DNS ကြည့်">
 <!ENTITY aboutNetworking.dnsLookupButton       "ဖြေရှင်းပါ">
 <!ENTITY aboutNetworking.dnsDomain             "ဒိုမိန်း">

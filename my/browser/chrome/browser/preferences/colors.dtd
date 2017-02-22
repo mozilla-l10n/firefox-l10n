@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "စာမျက်နှာမှ သတ်မှတ်ထားသော ကာလာများအား သင့်ရွေးချယ်မှု ဖြင့်သုံးမည်:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "အမြဲတမ်း">
+<!ENTITY  overrideDefaultPageColors.auto.label   "ကာလာမြင့် ပုံစံများဖြင့်သာ">
+<!ENTITY  overrideDefaultPageColors.never.label  "ဘယ်တော့မှ">
 
 <!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
 <!ENTITY  textColor.label                 "Tစာသား|">
