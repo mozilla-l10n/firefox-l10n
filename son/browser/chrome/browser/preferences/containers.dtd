@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "Sun taaga tonton">
 <!ENTITY addButton.accesskey  "o">
 
-
+<!ENTITY removeButton.label   "Kaa">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Willi sutura ga">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Maa:">
 <!ENTITY name.accesskey       "M">
-
+<!ENTITY name.placeholder     "Sun maa dam">
 <!ENTITY icon.label           "Bii:">
 <!ENTITY icon.accesskey       "i">
 <!ENTITY color.label          "Noone:">
