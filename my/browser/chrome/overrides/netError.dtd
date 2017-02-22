@@ -118,8 +118,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
-<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
 <!ENTITY certerror.pagetitle1  "မလုံခြုံသော ချိတ်ဆက်မှု">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "&brandShortName; က ဒီဝဘ်ဆိုက်ကို လုံခြုံစွာ ချိတ်ဆက်နိုင်ခြင်းရှိမရှိ ဖော်ပြရန် ၎င်းဝဘ်ဆိုက်သည် HTTP Strict Transport Security (HSTS) ကို အသုံးပြုထားသည်။ ရလဒ်အနေနှင့် ဒီအထောက်အထားအတွက် ခြွင်းချက်အဖြစ်ထည့်ရန် မဖြစ်နိုင်ပါ။">
