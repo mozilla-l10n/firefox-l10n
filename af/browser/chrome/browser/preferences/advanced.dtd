@@ -58,9 +58,11 @@
 <!ENTITY offlineStorage2.label           "Vanlyn-webinhoud en gebruikerdata">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "Werfdata">
 
 
-
+<!ENTITY siteDataSettings.label          "Instellings…">
+<!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Meer inligting">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -84,8 +86,8 @@
 <!ENTITY updateApplication.label         "&brandShortName;-bywerkings">
 <!ENTITY updateAuto1.label               "Installeer bywerkings outomaties (beter vir sekuriteit)">
 <!ENTITY updateAuto1.accesskey           "I">
-
-
+<!ENTITY updateCheckChoose.label         "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
+<!ENTITY updateCheckChoose.accesskey     "K">
 <!ENTITY updateManual.label              "Moet nooit kontroleer vir bywerkings nie (sekuriteitsrisiko)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -95,10 +97,12 @@
 <!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
 <!ENTITY useService.accesskey            "a">
 
+<!ENTITY autoUpdateOthers.label          "Outomatiese bywerking">
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-
+<!ENTITY offlineStorageNotify.label               "Sê wanneer 'n webwerf vra om data te stoor vir vanlyn gebruik">
+<!ENTITY offlineStorageNotify.accesskey           "S">
 <!ENTITY offlineStorageNotifyExceptions.label     "Uitsonderings…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "t">
 
@@ -110,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Sertifikate">
 <!ENTITY certPersonal.label              "Versoeke">
-
+<!ENTITY certPersonal.description        "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
 <!ENTITY selectCerts.auto                "Kies een outomaties">
 
-
-
+<!ENTITY selectCerts.ask                 "Vra elke keer">
+<!ENTITY selectCerts.ask.accesskey       "V">
 <!ENTITY enableOCSP.label                "Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra">
 <!ENTITY enableOCSP.accesskey            "B">
 <!ENTITY viewCerts.label                 "Bekyk sertifikate">
