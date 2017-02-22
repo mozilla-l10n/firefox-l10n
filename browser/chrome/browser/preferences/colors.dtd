@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Gebruik die keuse bo vir kleure eerder as dié wat die bladsy spesifiseer:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "G">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Altyd">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Slegs met hoëkontrastemas">
