@@ -17,7 +17,7 @@
 
 <!ENTITY rights.intro-point1a "El &brandShortName; es posa a la vostra disposició sota els termes de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License (Llicència Pública de Mozilla)">
-<!ENTITY rights.intro-point1c ". Això significa que podeu utilitzar, copiar i distribuir el &brandShortName; a altres. També es permet obertament la modificació del codi font del &brandShortName; per tal que s'adequï a les vostres necessitats. La Mozilla Public License us dóna també el dret de distribuir versions modificades.">
+<!ENTITY rights.intro-point1c ". Això significa que podeu utilitzar, copiar i distribuir el &brandShortName; a altres. També es permet obertament la modificació del codi font del &brandShortName; per tal que s'adeqüi a les vostres necessitats. La Mozilla Public License us dóna també el dret de distribuir versions modificades.">
 
 <!ENTITY rights.intro-point2-a "No s'atorga cap dret ni cap llicència sobre les marques de la Fundació Mozilla, o de cap altra part, incloent-hi sense cap limitació el nom i el logotip del Firefox. Podeu trobar més informació referent a la política de marques ">
 <!ENTITY rights.intro-point2-b "aquí">
