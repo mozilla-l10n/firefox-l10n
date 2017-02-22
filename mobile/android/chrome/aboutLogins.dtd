@@ -5,6 +5,6 @@
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
 <!ENTITY aboutLogins.title                       "ప్రవేశాలు">
-<!ENTITY aboutLogins.update                      "నవీకరణ">
+<!ENTITY aboutLogins.update                      "తాజాకరించు">
 <!ENTITY aboutLogins.emptyLoginText              "మీ లాగిన్ లు సురక్షితంగా ఉంచండి">
 <!ENTITY aboutLogins.emptyLoginHint              "మీరు &brandShortName; ఉపయోగించి సేవ్ చేసిన లాగిన్స్ మరియు ఆధారాలు ఇక్కడ కనిపిస్తాయి.">
