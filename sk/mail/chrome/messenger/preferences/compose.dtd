@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "žiadny">
 <!ENTITY editDirectories.label                 "Upraviť adresáre…">
 <!ENTITY editDirectories.accesskey             "U">
+<!ENTITY showAsDefault.label                   "Predvolený spúšťací priečinok v okne adresára:">
+<!ENTITY showAsDefault.accesskey               "r">
+<!ENTITY showAsDefaultLast.label               "Naposledy použitý priečinok">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurácia správania formátovania textov">
 <!ENTITY sendOptions.label                     "Nastavenie odosielania…">
