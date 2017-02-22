@@ -8,8 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "အသစ်ဖွင်ထားသော ဝင်းဒိုးများအား တပ်ဗ်အသစ် တစ်ခုတွင်သာဖွင့်ထားမည်">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "တပ်ဗ်အများကြီးအား ပိတ်ပါက သတိပေးပါ">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "&brandShortName; အား နှေးသွားစေမည် တပ်ဗ်အများကြီးအား ဖွင့်ပါ ကသတိပေးပါ">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "တပ်ဗ်တစ်ခုဖြင့် လင်ခ့်တစ်ခုအား ဖွင့်ပါ ၎င်းဆီသိုချက်ခြင်းပြောင်းပါ">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "ဝင်းဒိုးတက်စ်ဘားတွင်တပ်များအားဖော်ပြထားမည်">
 <!ENTITY showTabsInTaskbar.accesskey      "k">

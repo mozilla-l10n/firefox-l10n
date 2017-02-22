@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "အထွေထွေ">
 
+<!ENTITY  warnOnAddonInstall.label        "ဆိုက်များမှ အက်အွန်များသွင်းလိုပါက သတိပေးပါ">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ">
 <!ENTITY  blockDownloads.accesskey        "d">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "မလိုချင်သော ဆော့ဝဲများအား အကြောင်းသတိပေးပါ">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "Eခြွင်းချက်များ...">
 <!ENTITY  addonExceptions.accesskey     "E">

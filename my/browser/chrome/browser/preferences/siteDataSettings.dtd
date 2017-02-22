@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "အပြင်အဆင် - ဆိုက်ဒေတာ">
+<!ENTITY     settings.description          "အောက်ပါဝက်ဆိုက်များမှ သင့်ကွန်ပျူတာတွင် အချက်အလက်သိမ်းထားသည်။မည်သည့် ဝက်ဆိုက်ကို ခွင့်ပြုမည်ကို သင်ရွေးချယ်နိုင်သည်။  စံပုံစံဆိုက် သည် ခတ္တ မျှသာ ဖြစ်ပြီး ပျက်သွားနိုင်သည်">
+<!ENTITY     hostCol.label                 "ဆိုက်">
+<!ENTITY     statusCol.label               "အခြေအနေ">
+<!ENTITY     usageCol.label                "သိမ်းဆည်းပါ">
+<!ENTITY     search.label                  "ရှာဖွေပါ -">
+<!ENTITY     search.accesskey              "S">
