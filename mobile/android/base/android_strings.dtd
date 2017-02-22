@@ -107,8 +107,8 @@
 <!ENTITY site_security "సైటు భద్రత">
 <!ENTITY edit_mode_cancel "రద్దుచేయి">
 
-<!ENTITY close_tab "టాబ్‌ను మూయి">
-<!ENTITY one_tab "1 టాబ్">
+<!ENTITY close_tab "ట్యాబుని మూసివేయి">
+<!ENTITY one_tab "1 ట్యాబు">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ట్యాబులు">
@@ -178,7 +178,7 @@
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "గురించి &brandShortName;, FAQs, ఫీడ్ బాక్">
 <!ENTITY pref_category_datareporting "డేటా ఎంపికలు">
-<!ENTITY pref_category_logins "లాగిన్ లు">
+<!ENTITY pref_category_logins "ప్రవేశాలు">
 <!ENTITY pref_learn_more "మరింత తెలుసుకోండి">
 <!ENTITY pref_category_installed_search_engines "స్థాపిత సెర్చింజన్లు">
 <!ENTITY pref_category_add_search_providers "మరిన్ని శోధన ప్రదాతలను చేర్చండి">
@@ -229,7 +229,7 @@
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
-<!ENTITY home_homepage_hint_user_address "అడ్రసు ఎంటరు చేయండి లేదా పదమును శోధించండి">
+<!ENTITY home_homepage_hint_user_address "చిరునామా ఇవ్వండి లేదా వెతకండి">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "సాధారణం">
@@ -313,7 +313,7 @@
 <!ENTITY tab_queue_notification_text_plural2 "&formatD; టాబ్లు వేచి ఉన్నవి">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 టాబ్ వేచి ఉన్నయి">
+<!ENTITY tab_queue_notification_text_singular2 "1 ట్యాబు వేచివుంది">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
@@ -351,7 +351,7 @@
 <!ENTITY pref_plugins_tap_to_play2 "ఆడటానికి తాకండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
 <!ENTITY pref_text_size "పాఠ్య పరిమాణం">
-<!ENTITY pref_restore_tabs "టాబ్లు పునరుద్ధరించు">
+<!ENTITY pref_restore_tabs "ట్యాబుల పునరుద్ధరణ">
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
 <!ENTITY pref_font_size_tiny "అతి చిన్న">
@@ -387,10 +387,10 @@ size. -->
 <!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
 <!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
-<!ENTITY pref_private_data_openTabs "ట్యాబులను తెరువండి">
+<!ENTITY pref_private_data_openTabs "తెరిచివున్న ట్యాబులు">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
-<!ENTITY pref_private_data_searchHistory "చరిత్ర శోధన">
-<!ENTITY pref_private_data_formdata2 "చరిత్రను రకము">
+<!ENTITY pref_private_data_searchHistory "వెతుకుడు చరిత్ర">
+<!ENTITY pref_private_data_formdata2 "ఫారం చరిత్ర">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
 <!ENTITY pref_private_data_passwords2 "సేవ్ చేయబడిన లాగిన్ లు">
 <!ENTITY pref_private_data_cache "క్యాషె">
@@ -470,7 +470,7 @@ size. -->
 <!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
 <!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
-<!ENTITY new_tab "కొత్త టాబ్">
+<!ENTITY new_tab "కొత్త ట్యాబు">
 <!ENTITY new_private_tab "కొత్త ప్రైవేట్ ట్యాబు">
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
@@ -726,7 +726,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY new_guest_session_text2 "అది ఉపయోగిస్తున్న వ్యక్తి మీ వ్యక్తిగత బ్రౌజింగ్ డేటా (సేవ్ లాగిన్, చరిత్ర లేదా బుక్మార్క్లు) చూడటానికి చెయ్యగలరు. \n \n మీ అతిథి చేసుంటే, వారి బ్రౌజింగ్ డేటా తొలగించబడుతుంది మరియు మీ సెషన్ పునరుద్ధరించబడుతుంది.">
 <!ENTITY guest_browsing_notification_title "అతిథి విహారణ చేతనమైంది">
-<!ENTITY guest_browsing_notification_text "తాకి నిష్క్రమించు">
+<!ENTITY guest_browsing_notification_text "నిష్క్రమించడానికి తాకండి">
 
 <!ENTITY exit_guest_session_title "&brandShortName; ఇప్పుడు పునఃప్రారంభమవుతుంది">
 <!ENTITY exit_guest_session_text "ఈ సెషన్ నుండి విహరణ దత్తాంశం తొలగించబడును.">
