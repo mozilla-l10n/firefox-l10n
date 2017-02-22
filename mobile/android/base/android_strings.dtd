@@ -52,7 +52,7 @@
 
 <!ENTITY  crash_reporter_title "מדווח הקריסות של &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; נתקל בבעיה וקרס. הלשוניות שלך אמורות להיות רשומות לאחר הפעלה מחדש בדף הפתיחה של &brandShortName;.">
-<!ENTITY  crash_send_report_message3 "כדאי לספר ל־&vendorShortName; על קריסה זו כדי שניתן יהיה לתקן אותה">
+<!ENTITY  crash_send_report_message3 "שליחת דיווח ל־&vendorShortName; על קריסה זו כדי שניתן יהיה לתקן אותה">
 <!ENTITY  crash_include_url2 "לכלול את כתובת הדף בו הייתי">
 <!ENTITY  crash_sorry "אנו מצטערים">
 <!ENTITY  crash_comment "הוספת הערה (ההערות חשופות לקהל)">
