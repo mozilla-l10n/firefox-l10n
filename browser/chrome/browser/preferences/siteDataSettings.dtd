@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastavenia - Údaje stránok">
+<!ENTITY     settings.description          "Tieto webové stránky požiadali o možnosť ukladania údajov na váš disk. Tu môžete zoznam stránok s týmto povolením upraviť. Predvolene sú údaje stránok ukladané dočasne a môžu byť vymazané automaticky.">
 <!ENTITY     hostCol.label                 "Stránka">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložisko">
