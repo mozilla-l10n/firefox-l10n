@@ -128,7 +128,7 @@
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "Weergawe">
-<!ENTITY detail.lastupdated.label             "Onlangsste bygewerk">
+<!ENTITY detail.lastupdated.label             "Laas bygewerk">
 <!ENTITY detail.creator.label                 "Ontwikkelaar">
 <!ENTITY detail.homepage.label                "Tuisblad">
 <!ENTITY detail.numberOfDownloads.label       "Aflaaie">
@@ -168,9 +168,9 @@
 
 <!ENTITY sort.name.label                      "Naam">
 <!ENTITY sort.name.tooltip                    "Rangskik volgens naam">
-<!ENTITY sort.dateUpdated.label               "Onlangsste bygewerk">
+<!ENTITY sort.dateUpdated.label               "Laas bygewerk">
 <!ENTITY sort.dateUpdated.tooltip             "Rangskik volgens datum bygewerk">
-<!ENTITY sort.relevance.label                 "Beste passende">
+<!ENTITY sort.relevance.label                 "Relevansie">
 <!ENTITY sort.relevance.tooltip               "Rangskik volgens relevansie">
 <!ENTITY sort.price.label                     "Prys">
 <!ENTITY sort.price.tooltip                   "Rangskik volgens prys">
