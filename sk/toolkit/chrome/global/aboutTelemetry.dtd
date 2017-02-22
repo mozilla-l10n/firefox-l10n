@@ -54,6 +54,10 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "Zlyhania vlákien">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Zachytené zásobníky
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skaláre
 ">
@@ -65,6 +69,10 @@
 <!ENTITY aboutTelemetry.histogramsSection "Histogramy">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "Histogramy s kľúčom">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Udalosti
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "Jednoduché merania">
 
