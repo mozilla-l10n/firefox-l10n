@@ -26,10 +26,10 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "بستن زبانه‌ها به راست">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.label            "بستن زبانه‌ها به چپ">
+<!ENTITY  closeTabsToTheEnd.accesskey        "چ">
 <!ENTITY  closeOtherTabs.label               "بستن زبانه‌های دیگر">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeOtherTabs.accesskey           "ب">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
@@ -53,7 +53,7 @@ can reach it easily. -->
 <!ENTITY  undoCloseTab.label                 "برگردان زبانه بسته شده">
 <!ENTITY  undoCloseTab.accesskey             "ب">
 <!ENTITY  closeTab.label                     "بستن زبانه">
-<!ENTITY  closeTab.accesskey                 "C">
+<!ENTITY  closeTab.accesskey                 "ب">
 
 <!ENTITY  listAllTabs.label      "فهرست کردن همهٔ زبانه‌ها">
 
@@ -76,7 +76,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "آفلاین کار کن">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.accesskey "ک">
 
 <!ENTITY menubarCmd.label "نوار منو">
 <!ENTITY menubarCmd.accesskey "M">
@@ -103,9 +103,9 @@ when there are no windows but Firefox is still running. -->
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ورود به تمام‌صفحه">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "ت">
 <!ENTITY exitFullScreenCmd.label "خروج از حالت تمام‌صفحه">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "ت">
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -123,9 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "برگرداندن">
 <!ENTITY fullScreenClose.tooltip "بستن">
 <!ENTITY fullScreenAutohide.label "پنهان‌سازی نوارهای ابزار">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "پ">
 <!ENTITY fullScreenExit.label "خروج از حالت مرور تمام‌صفحه">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.accesskey "ت">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "خروج از حالت تمام‌صفحه (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "خروج از حالت تمام‌صفحه (Esc)">
 <!ENTITY leaveDOMFullScreen.label "خروج از حالت تمام‌صفحه">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "ت">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -154,10 +154,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "این سند کنترل مکان‌نما شما را در دست گرفته است. برای پس گرفتن کنترل، Esc را فشار دهید.">
 
 <!ENTITY closeWindow.label "بستن پنجره">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "پ">
 
 <!ENTITY bookmarksMenu.label "نشانک‌ها">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "ن">
 <!ENTITY bookmarkThisPageCmd.label "نشانک‌گذاری این صفحه">
 <!ENTITY editThisBookmarkCmd.label "ویرایش این نشانک">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
@@ -265,8 +265,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جست‌وجو…">
 <!ENTITY keywordfield.accesskey       "K">
 
-<!ENTITY downloads.label              "بارگیری">
-<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.label              "بارگیری‌ها">
+<!ENTITY downloads.accesskey          "ب">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "افزودنی‌ها">
@@ -279,8 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY inspectContextMenu.label     "بازرسی عناصر">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
-<!ENTITY fileMenu.label         "فایل"> 
-<!ENTITY fileMenu.accesskey       "F">
+<!ENTITY fileMenu.label         "پرونده‌"> 
+<!ENTITY fileMenu.accesskey       "پ">
 <!ENTITY newUserContext.label             "زبانه حامل جدید">
 <!ENTITY newUserContext.accesskey         "ز">
 <!ENTITY newNavigatorCmd.label        "پنجره جدید‌">
@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNonRemoteWindow.label   "پنجره جدید Non-e10s">
 
 <!ENTITY editMenu.label         "ویرایش"> 
-<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY editMenu.accesskey       "و"> 
 <!ENTITY undoCmd.label            "برگردان">  
 <!ENTITY undoCmd.key            "Z">  
 <!ENTITY undoCmd.accesskey          "U"> 
@@ -300,16 +300,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
-<!ENTITY copyCmd.label            " رونوشت">  
+<!ENTITY cutCmd.accesskey         "ب"> 
+<!ENTITY copyCmd.label            "رونوشت‌">  
 <!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.accesskey          "ر"> 
 <!ENTITY pasteCmd.label           "جایگذاری">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "حذف">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.accesskey        "ح"> 
 <!ENTITY selectAllCmd.label         "انتخاب همه">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
@@ -374,7 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToPanel.label "افزودن به منو">
 <!ENTITY customizeMenu.addToPanel.accesskey "م">
 <!ENTITY customizeMenu.moveToToolbar.label "انتقال به نوار ابزار">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "ا">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
@@ -517,7 +517,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
 <!ENTITY savePageCmd.accesskey        "ص">
 <!-- alternate for content area context menu -->
@@ -536,9 +536,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.label           "ذخیرهٔ پروندهٔ صوتی به نام…">
 <!ENTITY saveAudioCmd.accesskey       "ذ">
 <!ENTITY emailImageCmd.label          "ایمیل کردن عکس...">
-<!ENTITY emailImageCmd.accesskey      "g">
-<!ENTITY emailVideoCmd.label          "ایمیل کردن فیلم...">
-<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY emailImageCmd.accesskey      "ع">
+<!ENTITY emailVideoCmd.label          "ایمیل کردن صدا...">
+<!ENTITY emailVideoCmd.accesskey      "ا">
 <!ENTITY castVideoCmd.label           "ارسال ویدیو به دستگاه">
 <!ENTITY castVideoCmd.accesskey       "ا">
 <!ENTITY emailAudioCmd.label          "ایمیل کردن صدا...">
