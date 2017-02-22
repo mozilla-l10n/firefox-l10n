@@ -541,7 +541,7 @@ size. -->
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!ENTITY pref_compact_tabs "Kompakt ichki oynalar">
-
+<!ENTITY pref_compact_tabs_summary2 "Ichki oynalarni \&quot;Bo‘yiga\&quot; rejimida ikki ustunga joylash">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -695,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Izlash &formatS1; (&formatS2; uchun)">
 
 <!ENTITY searchable_description "Xatcho‘plar va tarix">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; uchun yangilanish mavjud">
 <!ENTITY updater_start_select2 "Yuklab olish uchun bosing">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; yuklab olinmoqda">
@@ -703,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Bir marta yuklab olingan yangilanishlarni qo‘llash uchun bosing">
 <!ENTITY updater_downloading_retry2 "Qayta urinish uchun bosing">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; uchun yangilanishlar yuklab olindi">
+<!ENTITY updater_apply_select3 "O‘rnatish uchun bosing">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -848,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Rad qilish">
 <!ENTITY activity_stream_delete_history "Tarixdan o‘chirish">
 
+<!ENTITY activity_stream_welcome_title "\&quot;Ajratilganlar\&quot;ga xush kelibsiz">
 
