@@ -21,12 +21,12 @@
 <!ENTITY firstrun_button_notnow "ఇప్పుడు కాదు">
 <!ENTITY firstrun_button_next "తదుపరి">
 
-<!ENTITY firstrun_tabqueue_title "లింకులు">
+<!ENTITY firstrun_tabqueue_title "లంకెలు">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "టాబ్ క్యూ ఆన్ చేయండి">
 <!ENTITY firstrun_tabqueue_subtext_off "ఇతర ఆప్స్ ని నొక్కేటప్పుడు తరువాత &brandShortName; కోసం లింకులు సేవ్ చేయండి.">
 
-<!ENTITY firstrun_tabqueue_message_on "సఫలం!">
+<!ENTITY firstrun_tabqueue_message_on "విజయవంతం!">
 <!ENTITY firstrun_tabqueue_subtext_on "మీరు ఎల్లప్పుడూ &settings; లో &pref_category_general; కింద ఆఫ్ చెయ్యవచ్చు.">
 
 <!ENTITY firstrun_readerview_title "వ్యాసాలు">
@@ -35,7 +35,7 @@
 <!ENTITY firstrun_readerview_subtext "ఆఫ్లైన్లో కూడా చదవడానికి \u2014 వ్యాసాలు బాగా చేయడానికి రీడర్స్ వీక్షణ ఉపయోగించవచ్చు.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-<!ENTITY firstrun_account_title "నీవు">
+<!ENTITY firstrun_account_title "మీరు">
 <!ENTITY firstrun_account_message "మరొక &brandShortName; ఉన్నదా?">
 
 <!ENTITY  onboard_start_restricted1 "&brandShortName; యొక్క ఈ సరళీకృత వెర్షన్ తో సురక్షితమైన మరియు నియంత్రణలో ఉంచండి.">
@@ -48,7 +48,7 @@
 <!ENTITY  switch_to_tab "ట్యాబుకు మారండి">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
-<!ENTITY  tab_offline_version "ఆఫ్ లైన్ వెర్షన్ చూపించు">
+<!ENTITY  tab_offline_version "ఆఫ్‌లైన్ వెర్షన్ చూపిస్తున్నాం">
 
 <!ENTITY  crash_reporter_title "&brandShortName; క్రాష్ రిపోర్టర్">
 <!ENTITY  crash_message2 "&brandShortName; ఏదో సమస్య వచ్చి క్రాషయ్యింది. పునఃప్రారంభించగానే మీ ట్యాబులు &brandShortName; మొదటి పేజీలో కనిపిస్తాయి.">
@@ -79,8 +79,8 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "స్క్రీన్‌షాట్‌లు">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "చదివుతున్న జాబితా">
+<!ENTITY screenshot_folder_label_in_bookmarks "తెరపట్లు">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "చదువుతూన్న జాబితా">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -130,7 +130,7 @@
 <!ENTITY settings "అమరికలు">
 <!ENTITY settings_title "అమరికలు">
 <!ENTITY pref_category_general "సాధారణం">
-<!ENTITY pref_category_general_summary3 "హోం, భాష, టాబ్ క్యూ">
+<!ENTITY pref_category_general_summary3 "ముంగిలి, భాష, ట్యాబుల వరుస">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -172,7 +172,7 @@
 <!ENTITY pref_category_search3 "వెతుకు">
 <!ENTITY pref_category_search_summary2 "డిఫాల్ట్ గా సెట్ చెయ్యండి, ప్రదర్శన సూచనలను జోడించండి">
 <!ENTITY pref_category_accessibility "అందుబాటు">
-<!ENTITY pref_category_accessibility_summary2 "వచన పరిమాణం, జూమ్, వాయిస్ ఇన్పుట్">
+<!ENTITY pref_category_accessibility_summary2 "పాఠ్య పరిమాణం, జూమ్, వాయిస్ ఇన్పుట్">
 <!ENTITY pref_category_privacy_short "అంతరంగికత">
 <!ENTITY pref_category_privacy_summary4 "ట్రాకింగ్, లాగిన్, డేటా ఎంపికలు">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -223,7 +223,7 @@
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
-<!ENTITY home_homepage_radio_user_address "కస్ట్ం">
+<!ENTITY home_homepage_radio_user_address "అభిమత">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
@@ -251,7 +251,7 @@
      “storing data”. -->
 <!ENTITY pref_category_data_saver "డేటా సేవర్">
 <!ENTITY pref_category_media "మీడియా">
-<!ENTITY pref_category_developer_tools "డెవలపర్ సాధనాలు">
+<!ENTITY pref_category_developer_tools "డెవలపర్ పనిముట్లు">
 
 <!ENTITY pref_tap_to_load_images_title2 "బొమ్మలను చూపించు">
 <!ENTITY pref_tap_to_load_images_enabled "ఎల్లప్పుడూ">
@@ -266,16 +266,16 @@
 <!ENTITY pref_donottrack_title "ట్రాక్ చెయ్యవద్దు">
 <!ENTITY pref_donottrack_summary "మిమ్మల్ని ట్రాక్ చెయ్యవద్దనుకుంటున్నారని &brandShortName; వెబ్‌సైట్లకు తెలియజేస్తుంది">
 
-<!ENTITY pref_tracking_protection_enabled "ప్రారంభించబడింది">
+<!ENTITY pref_tracking_protection_enabled "చేతనం">
 <!ENTITY pref_tracking_protection_enabled_pb "ప్రైవేట్ బ్రౌజింగ్ ను ప్రారంభించండి">
-<!ENTITY pref_tracking_protection_disabled "నిలిపివేయబడింది">
+<!ENTITY pref_tracking_protection_disabled "అచేతనం">
 
 <!ENTITY pref_whats_new_notification "&brandShortName;‌ లో కొత్తదనం ఏమిటి">
 <!ENTITY pref_whats_new_notification_summary "ఒక నవీకరణ తర్వాత కొత్త లక్షణాల గురించి తెలుసుకోండి">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "ప్రయోగాత్మక ఫీచర్‌లు">
+<!ENTITY pref_category_experimental "ప్రయోగాత్మక సౌలభ్యాలు">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -327,7 +327,7 @@
 <!ENTITY content_notification_title_plural "&formatD; వెబ్సైట్లు నవీకరించబడింది">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "సెట్టింగ్‌లు">
+<!ENTITY content_notification_action_settings2 "అమరికలు">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!ENTITY content_notification_action_read_now "ఇప్పుడు చదువు">
@@ -474,7 +474,7 @@ size. -->
 <!ENTITY new_private_tab "కొత్త ప్రైవేట్ ట్యాబు">
 <!ENTITY close_all_tabs "ట్యాబులన్నీ మూసివేయి">
 <!ENTITY close_private_tabs "ప్రయివేటు ట్యాబులను మూసివేయి">
-<!ENTITY tabs_normal "టాబ్‌లు">
+<!ENTITY tabs_normal "ట్యాబులు">
 <!ENTITY tabs_private "అంతరంగికం">
 <!ENTITY set_image_fail "చిత్రాన్ని అమర్చలేదు">
 <!ENTITY set_image_path_fail "చిత్రాన్ని దాయలేక పోయింది">
@@ -596,10 +596,10 @@ size. -->
 <!ENTITY home_bookmarks_empty "మీరు భద్రపరుచుకున్న ఇష్టాంశాలు ఇక్కడ ఉంటాయి.">
 <!ENTITY home_closed_tabs_title2 "ఇటీవల మూసినవి">
 <!ENTITY home_last_tabs_empty "మీ ఇటీవలి ట్యాబులు ఇక్కడ కనిపిస్తాయి.">
-<!ENTITY home_restore_all "మొత్తం పునరుద్ధరించు">
+<!ENTITY home_restore_all "అన్నిటినీ పునరుద్ధరించు">
 <!ENTITY home_closed_tabs_number "&formatD; ట్యాబులు">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
-<!ENTITY home_closed_tabs_one "1 టాబ్">
+<!ENTITY home_closed_tabs_one "1 ట్యాబు">
 <!ENTITY home_most_recent_empty "మీరు ఇటీవల చూసిన వెబ్ సైట్లు ఇక్కడ కనిపిస్తాయి.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -611,7 +611,7 @@ size. -->
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-<!ENTITY home_move_back_to_filter "&formatS; కి తిరిగి వెళ్ళుము">
+<!ENTITY home_move_back_to_filter "తిరిగి &formatS;‌కి">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -661,8 +661,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY doorhanger_tracking_state_enabled "ప్రారంభించబడింది">
-<!ENTITY doorhanger_tracking_state_disabled "అపివేయబడినది">
+<!ENTITY doorhanger_tracking_state_enabled "చేతనం">
+<!ENTITY doorhanger_tracking_state_disabled "అచేతనం">
 <!ENTITY doorhanger_tracking_message_enabled1 "మీ ఆన్లైన్ ప్రవర్తనను ట్రాక్ చేయడానికి ప్రయత్నాలు బ్లాక్ చేశారు.">
 <!ENTITY doorhanger_tracking_message_disabled2 "ఈ పేజీ మీ బ్రౌజింగ్ ను ట్రాక్ చేయడానికి అంశాలను కలిగి ఉంది.">
 
@@ -838,7 +838,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ఆఫ్ లైన్లో చదవడానికి బుక్మార్క్ రీడర్ వ్యూ ఉపయోగించండి.">
 <!ENTITY helper_triple_readerview_open_button "బుక్ మార్క్ లకు జోడించండి">
 
-<!ENTITY activity_stream_topsites "అగ్ర సైట్‌లు">
+<!ENTITY activity_stream_topsites "మేటి సైట్లు">
 <!ENTITY activity_stream_highlights "హైలైట్లు">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
