@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "ကွန်တိန်နာအသစ်ထပ်ထည့်ပါ">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "အပြင်အဆင်များ">
+<!ENTITY removeButton.label   "ဖယ်ရှားပါ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; လုံခြုံမှု သို့ပြန်သွားပါ">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "အမည်">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "ကွန်တိန်နာအမည်ရေးပါ">
 <!ENTITY icon.label           "ပုံသင်္ကေတ">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "အရောင်">
