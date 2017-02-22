@@ -130,7 +130,7 @@
 
 <!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
 <!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటపెట్టు!">
-<!ENTITY securityOverride.exceptionButtonLabel "ఆక్షేపనను జతచేయుము…">
+<!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపుని చేర్చు…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
