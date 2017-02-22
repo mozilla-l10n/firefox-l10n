@@ -17,6 +17,7 @@
 <!ENTITY engine.bookmarks.accesskey       "m">
 <!ENTITY engine.history.label             "(r)မှတ်တမ်း">
 <!ENTITY engine.history.accesskey         "r">
+<!ENTITY engine.tabs.label2               "တပ်ဗ်များအား ဖွင့်ပါ">
 <!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "(P)စကားဝှက်များ">
 <!ENTITY engine.passwords.accesskey       "P">
