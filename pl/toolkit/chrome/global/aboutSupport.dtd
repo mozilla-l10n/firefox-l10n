@@ -88,6 +88,14 @@
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Skopiuj nieprzetworzone dane do schowka">
 
 <!ENTITY aboutSupport.sandboxTitle "Piaskownica">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Odrzucone wywołania systemowe">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekund temu">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Typ procesu">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenty">
 
 <!ENTITY aboutSupport.safeModeTitle "Tryb awaryjny">
 <!ENTITY aboutSupport.restartInSafeMode.label "Uruchom ponownie z wyłączonymi dodatkami…">
