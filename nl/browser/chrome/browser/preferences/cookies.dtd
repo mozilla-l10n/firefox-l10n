@@ -28,8 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Zoeken:">
-<!ENTITY     filter.accesskey               "Z">
+<!ENTITY     searchFilter.label             "Zoeken">
+<!ENTITY     searchFilter.accesskey         "Z">
 
 <!ENTITY     button.close.label             "Sluiten">
 <!ENTITY     button.close.accesskey         "S">
