@@ -63,6 +63,7 @@
 <!ENTITY rights.safebrowsing-b "ບໍ່ແນະນຳໃຫ້ປິດນຳໃຊ້ໂຫມດການທ່ອງເວັບແບບປອດໄພເພາະມັນອາດຈະເຮັດໃຫ້ທ່ານເຂົ້າໄປຫາເວັບໄຊຕ໌ທີ່ບໍ່ປອດໄພໄດ້.  ຖ້າວ່າທ່ານຍັງຕ້ອງການປິດໂຫມດນີ້ແມ່ນໃຫ້ດຳເນີນການຕາມຂັ້ນຕອນດັ່ງຕໍ່ໄປນີ້:">
 <!ENTITY rights.safebrowsing-term1 "ເປີດການຕັ້ງຄ່າຂອງແອັບພລິເຄຊັນ">
 <!ENTITY rights.safebrowsing-term2 "ການເລືອກຄວາມປອດໄພ">
+<!ENTITY rights2.safebrowsing-term3 "ຍົກເລີກການເລືອກຕົວເລືອກທີ່ຈະ &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "ໂຫມດການທ່ອງເວັບແບບປອດໄພໄດ້ຖືກປິດນຳໃຊ້">
 
 <!-- location aware browsing points for branded builds -->
