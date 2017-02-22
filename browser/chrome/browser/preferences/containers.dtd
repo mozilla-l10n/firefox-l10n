@@ -2,9 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY label.label          "Naam">
 <!ENTITY addButton.label      "Nieuwe container toevoegen">
 <!ENTITY addButton.accesskey  "N">
+<!ENTITY preferencesButton.label "Voorkeuren">
+<!ENTITY removeButton.label   "Verwijderen">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Terug naar Privacy">
 
@@ -13,6 +14,7 @@
 
 <!ENTITY name.label           "Naam:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Voer een containernaam in">
 <!ENTITY icon.label           "Pictogram:">
 <!ENTITY icon.accesskey       "P">
 <!ENTITY color.label          "Kleur:">

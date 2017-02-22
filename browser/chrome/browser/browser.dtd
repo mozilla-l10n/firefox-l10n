@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zet tabbladsynchronisatie aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Openen">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Openen in een nieuw tabblad">
@@ -768,6 +772,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Kopiëren">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
+
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Alle openen in tabbladen">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

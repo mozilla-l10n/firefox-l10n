@@ -197,9 +197,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren.">
 <!ENTITY weakCryptoAdvanced.override "(Niet beveiligd) <span class='hostname'></span> proberen te laden via verouderde beveiliging">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Een beveiligde verbinding met <span id='wrongSystemTime_URL'/> is niet mogelijk, omdat uw klok de verkeerde tijd lijkt aan te geven.</p> <p>Uw computer denkt dat het <span id='wrongSystemTime_systemDate'/> is, terwijl het <span id='wrongSystemTime_actualDate'/> zou moeten zijn. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; heeft geen verbinding met <span id='wrongSystemTime_URL'/> gemaakt, omdat de klok van uw computer de verkeerde tijd lijkt aan te geven, en dit voorkomt een beveiligde verbinding.</p> <p>Uw computer is ingesteld op <span id='wrongSystemTime_systemDate'/>, terwijl dit <span id='wrongSystemTime_actualDate'/> zou moeten zijn. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; heeft geen verbinding met <span id='wrongSystemTimeWithoutReference_URL'/> gemaakt, omdat de klok van uw computer de verkeerde tijd lijkt aan te geven, en dit voorkomt een beveiligde verbinding.</p> <p>Uw computer is ingesteld op <span id='wrongSystemTimeWithoutReference_systemDate'/>. Wijzig uw datum- en tijdinstellingen naar de juiste tijd om dit probleem te verhelpen.</p>">
 
 <!ENTITY certerror.pagetitle1  "Niet-beveiligde verbinding">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Deze website maakt gebruik

@@ -1,0 +1,11 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY     window.title                  "Instellingen - Websitegegevens">
+<!ENTITY     settings.description          "De volgende websites hebben gevraagd websitegegevens op uw schijf op te slaan. U kunt opgeven welke websites toestemming hebben om websitegegevens op te slaan. Standaard websitegegevens zijn tijdelijk en kunnen automatisch worden verwijderd.">
+<!ENTITY     hostCol.label                 "Website">
+<!ENTITY     statusCol.label               "Status">
+<!ENTITY     usageCol.label                "Opslaag">
+<!ENTITY     search.label                  "Zoeken:">
+<!ENTITY     search.accesskey              "Z">

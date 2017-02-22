@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Synchroniseren:">
 <!ENTITY engine.bookmarks.label     "Bladwijzers">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Tabbladen">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.label2         "Open tabbladen">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Geschiedenis">
 <!ENTITY engine.history.accesskey   "G">
 <!ENTITY engine.passwords.label     "Wachtwoorden">

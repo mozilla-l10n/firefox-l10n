@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Mij een e-mailbericht sturen zodra er meer informatie beschikbaar is">
 <!ENTITY tabCrashed.reportSent "Crashrapport is al verzonden; bedankt voor uw hulp bij het verbeteren van &brandShortName;!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Achtergrondtabbladen rapporteren">
-<!ENTITY tabCrashed.autoSubmit "Voorkeuren aanpassen om automatisch achterstallige crashrapporten te verzenden (en in de toekomst minder berichten als deze van ons te zien)">
+<!ENTITY tabCrashed.autoSubmit2 "Voorkeuren aanpassen om automatisch crashrapporten te verzenden, waaronder rapporten voor gecrashte achtergrondtabbladen van deze sessie en toekomstige sessies">
