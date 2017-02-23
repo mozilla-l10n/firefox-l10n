@@ -3,16 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab пераключае паміж карткамі ў парадку апошняга выкарыстання">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "е">
 
-<!ENTITY newWindowsAsTabs.label       "Адкрываць новыя вокны ў новых устаўках">
+<!ENTITY newWindowsAsTabs.label       "Адкрываць новыя вокны ў новых картках">
 <!ENTITY newWindowsAsTabs.accesskey   "у">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Папярэджваць пры закрыцці некалькіх картак">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "ь">
 
 <!ENTITY warnOnOpenManyTabs.label       "Папярэджваць, калі адкрыццё некалькіх картак можа запаволіць &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "в">
 
-<!ENTITY switchLinksToNewTabs.label        "Калі вы адкрылі спасылку ў новай картцы, неадкладна пераключыцца на яе">
+<!ENTITY switchLinksToNewTabs.label        "Пры адкрыцці спасылкі ў новай картцы адразу пераключацца на яе">
+<!ENTITY switchLinksToNewTabs.accesskey    "р">
 
-<!ENTITY showTabsInTaskbar.label          "Паказваць перадпрагляды ўставак на паліцы задачаў Windows">
-<!ENTITY showTabsInTaskbar.accesskey      "з">
-<!ENTITY tabsGroup.label          "Устаўкі">
+<!ENTITY showTabsInTaskbar.label          "Паказваць мініяцюры картак у панэлі задач Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "л">
+<!ENTITY tabsGroup.label          "Карткі">
