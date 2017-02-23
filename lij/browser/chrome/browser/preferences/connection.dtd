@@ -4,6 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "Preferense de conescion">
+<!ENTITY  window.width2                 "49em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY  proxyTitle.label              "Inpòsta i proxy pe intrâ in sciâ ræ">
 <!ENTITY  noProxyTypeRadio.label        "No proxy">
@@ -30,6 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socksRemoteDNS.label2         "Proxy DNS quande se deuvia SOCKS v5">
 <!ENTITY  socksRemoteDNS.accesskey      "D">
 <!ENTITY  port.label                    "Pòrta:">
 <!ENTITY  HTTPport.accesskey            "P">

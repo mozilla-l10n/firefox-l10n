@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -17,6 +15,7 @@
 
 <!ENTITY  generalTab            "Generale">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Titolo:">
 <!ENTITY  generalURL            "Indirisso:">
 <!ENTITY  generalType           "Tipo:">
 <!ENTITY  generalMode           "Mòddo de prezentaçion:">
@@ -24,7 +23,7 @@
 <!ENTITY  generalReferrer       "Riferio a l'indirisso:">
 <!ENTITY  generalSource         "Sorgente cache:">
 <!ENTITY  generalModified       "Cangiou">
-<!ENTITY generalEncoding2 		"Codifica testo:">
+<!ENTITY  generalEncoding2      "Codifica testo:">
 <!ENTITY  generalMetaName       "Nomme">
 <!ENTITY  generalMetaContent    "Contegnuo">
 
@@ -85,5 +84,5 @@
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "v">
 
 <!ENTITY  securityView.technical.header                 "Detalli Tecnichi">
-<!ENTITY helpButton.label 								"Goidda">
 
+<!ENTITY  helpButton.label                              "Goidda">
