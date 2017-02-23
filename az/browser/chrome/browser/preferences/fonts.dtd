@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Saytlara yuxarıda seçdikləriniz şriftlərin yerinə öz şriftlərini işlətməyə icazə verin">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "İrsi Məzmun üçün mətn simvol kodlaşdırması">
 <!ENTITY languages.customize.Fallback2.label      "Alternativ Mətn Kodlaşdırması:">
