@@ -51,11 +51,14 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugin abilitæ">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Crea preferensa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Agente do utente">
+<!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Uzo da memöia">
+<!ENTITY aboutSupport.appBasicsPerformance "Prestaçioin">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service worker registræ">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Profî">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Barcoin moltiprocesso">
 
@@ -68,6 +71,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Fanni vedde into Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Arvi cartella">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Preferense inportanti cangiæ">
 <!ENTITY aboutSupport.modifiedPrefsName "Nomme">
@@ -83,6 +87,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafica">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Database di leughi">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Integritæ">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Verifica Integritæ">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "GC incrementale">
@@ -104,3 +111,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Preuva o mòddo seguo">
 <!ENTITY aboutSupport.restartInSafeMode.label "Arvi torna co-i conponenti azonti dizativæ…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Carateristiche">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnòsticâ">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Diaio di Cianti">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Diaio de Decixoin">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Carateristiche pe-a proteçion di cianti dizabilitæ">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Mastrussi">
