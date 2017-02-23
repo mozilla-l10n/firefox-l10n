@@ -37,7 +37,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "سنجاق کردن زبانه">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.accesskey                   "س">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ارسال زبانه به دستگاه">
@@ -47,7 +47,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
-<!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
 <!ENTITY  bookmarkAllTabs.accesskey          "ز">
 <!ENTITY  undoCloseTab.label                 "برگردان زبانه بسته شده">
@@ -65,7 +65,7 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "بازکردن مکان…">
 <!ENTITY openFileCmd.label "بازکردن پرونده…">
-<!ENTITY openFileCmd.accesskey "O">
+<!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "تنظیم صفحه…">
 <!ENTITY printSetupCmd.accesskey "u">
@@ -79,10 +79,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "ک">
 
 <!ENTITY menubarCmd.label "نوار منو">
-<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY menubarCmd.accesskey "ن">
 <!ENTITY navbarCmd.label "نوار ابزار راهبری">
 <!ENTITY personalbarCmd.label "نوار ابزار نشانک‌ها">
-<!ENTITY personalbarCmd.accesskey "B">
+<!ENTITY personalbarCmd.accesskey "ن">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
@@ -93,7 +93,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "متن صفحه">
-<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.accesskey "م">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
 <!ENTITY pageInfoCmd.accesskey "I">
@@ -304,9 +304,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyCmd.label            "رونوشت‌">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ر"> 
-<!ENTITY pasteCmd.label           "جایگذاری">  
+<!ENTITY pasteCmd.label           "چسباندن">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.accesskey         "چ"> 
 <!ENTITY deleteCmd.label          "حذف">  
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "ح"> 
@@ -314,7 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "گزینه‌ها">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "گ">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
@@ -478,7 +478,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "باز کردن چارچوب در پنجره جدید">
 <!ENTITY openFrameCmd.accesskey       "پ">
 <!ENTITY openLinkCmdInContainerTab.label "باز کردن پیوند در زبانه حامل جدید">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ز">
 <!ENTITY showOnlyThisFrameCmd.label     "فقط نمایش همین چارچوب">
 <!ENTITY showOnlyThisFrameCmd.accesskey "چ">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -544,7 +544,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailAudioCmd.label          "ایمیل کردن صدا...">
 <!ENTITY emailAudioCmd.accesskey      "ی">
 <!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
-<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.accesskey      "ف">
 <!ENTITY hidePluginCmd.label          "پنهان کردن این افزونه">
 <!ENTITY hidePluginCmd.accesskey      "پ">
 <!ENTITY copyLinkCmd.label            "رونوشت برداشتن از مکان پیوند">
