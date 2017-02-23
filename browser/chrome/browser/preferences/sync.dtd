@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Sinxronlaşdırılacaqlar:">
 <!ENTITY engine.bookmarks.label     "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey "c">
+<!ENTITY engine.tabs.label2         "Açıq Vərəqlər">
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
 <!ENTITY engine.history.accesskey   "i">

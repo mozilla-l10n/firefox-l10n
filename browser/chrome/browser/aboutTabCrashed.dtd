@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Ətraflı məlumat olduğunda mənə e-poçt göndər">
 <!ENTITY tabCrashed.reportSent "Qəza məlumatınız artıq göndərilib; &brandShortName; səyyahını daha yaxşı etməkdə köməyiniz üçün təşəkkürlər!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Arxa vərəqləri xəbər et">
+<!ENTITY tabCrashed.autoSubmit2 "Nizamlamaları, bu və bundan sonrakı sessiyalar üçün arxa tərəf vərəqlərin çökmə hesabatı da daxil olmaqla, avtomatik olaraq çökmə hesabatlarını göndərmək üçün yeniləyin">

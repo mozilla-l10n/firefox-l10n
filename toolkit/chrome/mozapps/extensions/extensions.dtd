@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Bütün əlavələr üçün alətlər">
 
+<!ENTITY getThemes.description                "Səyyahınızı şəxsiləşdirmək istəyirsiz?">
+<!ENTITY getThemes.learnMore                  "Minlərlə mövzulardan birini seçin.">
+
 <!ENTITY cmd.back.tooltip                     "Əvvəlki səhifəyə qayıt">
 <!ENTITY cmd.forward.tooltip                  "Sonrakı səhifəyə keç">
 
