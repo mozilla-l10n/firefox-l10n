@@ -2,18 +2,55 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "Deuvia proteçion anti-traciamento">
+<!ENTITY  trackingProtectionAlways.label       "De longo">
+<!ENTITY  trackingProtectionAlways.accesskey   "g">
+<!ENTITY  trackingProtectionPrivate.label      "Solo inti barcoin privæ">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "Mai">
+<!ENTITY  trackingProtectionNever.accesskey    "m">
+<!ENTITY  trackingProtectionLearnMore.label    "Atre informaçioin">
+<!ENTITY  trackingProtectionExceptions.label   "Eceçioin…">
+<!ENTITY  trackingProtectionExceptions.accesskey "c">
+
 <!ENTITY tracking.label                 "Traciamento">
+<!ENTITY trackingProtectionPBM5.label         "Ativa a proteçion anti-traciamento inta Navegaçion privâ">
+<!ENTITY trackingProtectionPBM5.accesskey     "e">
+<!ENTITY trackingProtectionPBMLearnMore.label "Atre informaçioin">
+<!ENTITY changeBlockList.label          "Seleçionn-a elenco">
+<!ENTITY changeBlockList.accesskey      "l">
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+<!ENTITY  doNotTrack.pre.label          "Ti peu anche ">
+<!ENTITY  doNotTrack.settings.label     "gestî e inpostaçioin No traciâ">
+<!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Stöia">
 
 <!ENTITY  locationBar.label             "Bara di indirissi">
 
+<!ENTITY  locbar.suggest.label          "Inta bara di indirissi fanni vedde conseggi da:">
 <!ENTITY  locbar.history.label          "Stöia">
+<!ENTITY  locbar.history.accesskey      "n">
 <!ENTITY  locbar.bookmarks.label        "Segnalibbri">
+<!ENTITY  locbar.bookmarks.accesskey    "b">
+<!ENTITY  locbar.openpage.label         "feuggi averti">
+<!ENTITY  locbar.openpage.accesskey     "g">
+<!ENTITY  locbar.searches.label         "riçerche corelæ do-u motô de riçerca predefinio">
+<!ENTITY  locbar.searches.accesskey     "h">
 
+<!ENTITY  suggestionSettings.label      "Cangia e inpostaçioin di conseggi di motoî de riçerca…">
+<!ENTITY  suggestionSettings.accesskey  "s">
 
 <!ENTITY  acceptCookies.label           "Acetta i cookie da sti sciti">
 <!ENTITY  acceptCookies.accesskey       "k">
+
+<!ENTITY  acceptThirdParty.pre.label      "Acetta i cookie de terse parte:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
+<!ENTITY  acceptThirdParty.always.label   "de longo">
+<!ENTITY  acceptThirdParty.never.label    "mai">
+<!ENTITY  acceptThirdParty.visited.label  "da-i sciti vixitæ">
 
 <!ENTITY  keepUntil.label               "Mantegni fin a che:">
 <!ENTITY  keepUntil.accesskey           "M">
@@ -68,44 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Inpostaçioin…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY doNotTrackInfo.label "Atre informaçioin">
-
-<!ENTITY acceptThirdParty.always.label "de longo">
-<!ENTITY acceptThirdParty.never.label "mai">
-<!ENTITY acceptThirdParty.pre.label "Acetta i cookie de terse parte:">
-<!ENTITY acceptThirdParty.pre.accesskey "t">
-<!ENTITY acceptThirdParty.visited.label "da-i sciti vixitæ">
-
-<!ENTITY changeBlockList.label "Seleçionn-a elenco">
-<!ENTITY changeBlockList.accesskey "l">
-
-<!ENTITY dntTrackingNotOkay4.label "Comunica a-i sciti vixitæ che mi no veuggio ese traciou">
-<!ENTITY dntTrackingNotOkay4.accesskey "a">
-<!ENTITY locbar.bookmarks.accesskey "b">
-<!ENTITY locbar.history.accesskey "n">
-<!ENTITY locbar.openpage.label "feuggi averti">
-<!ENTITY locbar.openpage.accesskey "g">
-<!ENTITY locbar.searches.label "riçerche corelæ do-u motô de riçerca predefinio">
-<!ENTITY locbar.searches.accesskey "h">
-<!ENTITY locbar.suggest.label "Inta bara di indirissi fanni vedde conseggi da:">
-<!ENTITY suggestionSettings.accesskey "s">
-<!ENTITY trackingProtection5.label "Ativa a proteçion anti-traciamento">
-<!ENTITY trackingProtection5.accesskey "m">
-<!ENTITY trackingProtectionLearnMore.label "Atre informaçioin">
-<!ENTITY trackingProtectionPBM5.label "Ativa a proteçion anti-traciamento inta Navegaçion privâ">
-<!ENTITY trackingProtectionPBM5.accesskey "e">
-<!ENTITY trackingProtectionPBMLearnMore.label "Atre informaçioin">
-<!ENTITY suggestionSettings.label "Cangia e inpostaçioin di conseggi di motoî de riçerca…">
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  browserContainersHeader.label         "Contegnitô de Feuggi">
+<!ENTITY  browserContainersLearnMore.label      "Ciù informaçioin">
+<!ENTITY  browserContainersEnabled.label        "Abilita Contegnitô de Feuggi">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "Inpostaçioin…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
