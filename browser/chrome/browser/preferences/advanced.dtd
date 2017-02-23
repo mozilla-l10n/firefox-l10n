@@ -55,7 +55,7 @@
 
 <!ENTITY httpCache.label                 "Webinhoud in die kas">
 
-<!ENTITY offlineStorage2.label           "Vanlyn-webinhoud en gebruikerdata">
+<!ENTITY offlineStorage2.label           "Vanlyn webinhoud en gebruikerdata">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "Werfdata">

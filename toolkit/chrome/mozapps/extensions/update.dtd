@@ -4,7 +4,7 @@
 
 <!ENTITY  updateWizard.title              "&brandShortName;-bywerking">
 
-<!ENTITY  offline.title                   "&brandShortName; werk aflyn">
+<!ENTITY  offline.title                   "&brandShortName; werk tans vanlyn">
 <!ENTITY  offline.description             "&brandShortName; moet aanlyn gaan om te kontroleer vir bywerkings vir u byvoegings om hulle versoenbaar met hierdie weergawe te maak.">
 <!ENTITY  offline.toggleOffline.label     "Gaan nou aanlyn.">
 <!ENTITY  offline.toggleOffline.accesskey "G">
