@@ -44,7 +44,7 @@
 <!ENTITY notCached.title "Dokumentgeldigheid het verval">
 <!ENTITY notCached.longDesc "<p>Die aangevraagde dokument is nie beskikbaar in &brandShortName; se kas nie.</p><ul><li>As 'n sekuriteitsmaatreël vra &brandShortName; nie outomaties weer vir sensitiewe dokumente nie.</li><li>Klik Probeer weer om die dokument weer van die webwerf aan te vra.</li></ul>">
 
-<!ENTITY netOffline.title "Aflynmodus">
+<!ENTITY netOffline.title "Vanlynmodus">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Klik &quot;Probeer weer&quot; om na aanlynmodus oor te skakel en die bladsy te herlaai.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Inhoudenkoderingfout">
