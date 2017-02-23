@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutPrivateBrowsing.notPrivate                 "Se riña ventana hua huìi nut akuan' nï">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Ga'nin riña 'ngo ventanahuìi">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "h">
+
+<!ENTITY privateBrowsing.title                           "Gachenu hùi'">
+<!ENTITY privateBrowsing.title.tracking                  "Riña aché nu huì' nikaj sa dugumî ñù'">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Nga aché nunt riña 'ngo ventana huìi, Firefox">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "Nu nanun sà'aj">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ": ">
+<!ENTITY aboutPrivateBrowsing.info.visited               "Nej ñanj ngà' ni'io'">
+<!ENTITY aboutPrivateBrowsing.info.searches              "Nej sa nanan'uî'">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Ñanj nitaj si nu yitïnj ïn">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "Nanïnj sà'aj">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          "si:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "Naduninj">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Sa raj sun doj ">
+<!ENTITY aboutPrivateBrowsing.note.before                "Gachenu hùi'">
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "Nitaj hua huì nunt">
+<!ENTITY aboutPrivateBrowsing.note.after                 "riña internet. Si aga't na ni ni'in riña aché nut">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Gahuin chrunt doj rayi'î ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Gachenu hùi'">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
+
+<!ENTITY trackingProtection.title                        "Sa arán da' si nari' guìi sò'">
+<!ENTITY trackingProtection.description2                 "Hua da'aj nej pâjina arajsun ni naga'naj nej man suun 'iát riña internêt. Nga sa Arán Yi'ì nikaj Firefox ga'ue garánt riña sun 'iaj nej pajinâ na.">
+<!ENTITY trackingProtection.startTour1                   "Ni'iaj dà 'iaj sunj">

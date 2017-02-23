@@ -1,0 +1,120 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Nuguan' garasun' dàj nagi'iô' sa hua a'nan'an">
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+
+<!ENTITY aboutSupport.pageSubtitle "  Ñuna narit nuguan'an rayi'i sa na'ue gi'iaj sun hue'e riña aga' na. Sisi na'na'ui' nuinsaj hua sa hua danaj riña  &brandShortName;, ga'ue ni'iaj riña na <a id='supportLink'>da' rugujñu'un so'</a>.">
+
+<!ENTITY aboutSupport.crashes.title "Nataj sa gire'e">
+<!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
+This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID nata'">
+<!ENTITY aboutSupport.crashes.sendDate "Nga ga'an">
+<!ENTITY aboutSupport.crashes.allReports "nataj daran' sa guire'e">
+<!ENTITY aboutSupport.crashes.noConfig "Nitaj si huaj nata' ma nej sa guire'e.">
+
+<!ENTITY aboutSupport.extensionsTitle "A'ngô ra'a">
+<!ENTITY aboutSupport.extensionName "Si yuguit">
+<!ENTITY aboutSupport.extensionEnabled "Ngà 'iaj sunj">
+<!ENTITY aboutSupport.extensionVersion "Versión">
+<!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.experimentsTitle "Da'nga' ranj hué ma">
+<!ENTITY aboutSupport.experimentName "Si yuguit">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Daj huaj">
+<!ENTITY aboutSupport.experimentActive "Ngà' 'iaj sunj">
+<!ENTITY aboutSupport.experimentEndDate "Diu ganahuij ma">
+<!ENTITY aboutSupport.experimentHomepage "Riña ayi'ì'">
+<!ENTITY aboutSupport.experimentBranch "Achij ra'a ma">
+
+<!ENTITY aboutSupport.appBasicsTitle "Daj nagui'io' aplicación na">
+<!ENTITY aboutSupport.appBasicsName "Si yuguit">
+<!ENTITY aboutSupport.appBasicsVersion "Versión">
+<!ENTITY aboutSupport.appBasicsBuildID "Id. nagui'iaj chre'">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+"Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Riña nagui'iaj nako'">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Riña ma sa nagui'iaj nako'">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Digun' riña ma sa nagui'iaj nako'">
+
+<!ENTITY aboutSupport.appBasicsProfileDir "Riña nataj ahuin'">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "riña ma daj huo'">
+
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Nga 'iaj sun Plugins">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Nagui'iaj chre' ma">
+<!ENTITY aboutSupport.appBasicsUserAgent "Sí raj sun">
+<!ENTITY aboutSupport.appBasicsOS "OS">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Daj nikó nichrá ma">
+<!ENTITY aboutSupport.appBasicsPerformance "Performance">
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Nej sa ma sa' Service Workers">
+
+<!ENTITY aboutSupport.appBasicsProfiles "Sa a'min rayi'i'">
+
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ga'i ventana 'iaj sun">
+
+<!ENTITY aboutSupport.appBasicsSafeMode "Hua ran yi'í man">
+
+<!ENTITY aboutSupport.showDir.label "Na'ni' sa ma sa'a">
+<!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
+"Finder" terminology on Mac. -->
+<!ENTITY aboutSupport.showMac.label "Digun' nga Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Na'nin' carpeta">
+
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Nej sa ña'an doj nga nagui'io'">
+<!ENTITY aboutSupport.modifiedPrefsName "Si yuguit">
+<!ENTITY aboutSupport.modifiedPrefsValue "Daj du'ue ma">
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
+
+<!ENTITY aboutSupport.userJSTitle "Sa huin ruo' nga user.js">
+<!ENTITY aboutSupport.userJSDescription "Riña ma sa' si rasunt <a id='prefs-user-js-link'>archivo user.js</a>, nu guiri rá sa gu'naj &brandShortName;.">
+
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Nej sa ña'an doj narán">
+<!ENTITY aboutSupport.lockedPrefsName "Si yuguit">
+<!ENTITY aboutSupport.lockedPrefsValue "Daj du'ue ma">
+
+<!ENTITY aboutSupport.graphicsTitle "Gráficas">
+
+<!ENTITY aboutSupport.placeDatabaseTitle "Places Database">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Gâ nin">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Ni'iaj si hua nin">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Sa ganako' siganinj akoo">
+
+<!ENTITY aboutSupport.a11yTitle "Hua gatu'">
+<!ENTITY aboutSupport.a11yActivated "Nga 'iaj sunj">
+<!ENTITY aboutSupport.a11yForceDisabled "Si ga'ni' gatu'">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Nej versión ma">
+
+<!ENTITY aboutSupport.installationHistoryTitle "Nej sa ga'nin' riñanj">
+<!ENTITY aboutSupport.updateHistoryTitle "Riña ma sa nagui'iaj nako'">
+
+<!ENTITY aboutSupport.copyTextToClipboard.label "Guyun' nej nuguan'">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Nachrun' datos riña portapapeles">
+
+<!ENTITY aboutSupport.sandboxTitle "Sa chruu">
+
+<!ENTITY aboutSupport.safeModeTitle "Garahue' modo seguro">
+<!ENTITY aboutSupport.restartInSafeMode.label "Nayi'í ñun' nga nej sa nitaj si 'iaj sun">
+
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Daj hua ma">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Daj 'iaj sun ma">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Nachro' sa gire'">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Riña nej sa ganahui'">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Nej sa Guard Disabled Features">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Ganahuin ma">

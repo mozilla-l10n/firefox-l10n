@@ -1,0 +1,89 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Nej sa ma Telemetry">
+
+<!ENTITY aboutTelemetry.changeDataChoices "  Naduno'">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  Nga ga'nin' nej datos FHR nga <span>'iaj sun ma</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  Nga ga'nin' nej datos FHR nga <span>'iaj sun ma</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Sa nachro' riña Telemetry <span>nga 'iaj sin ma</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Sa nachro' riña Telemetry <span> nitaj si 'iaj sun ma</span>.">
+
+<!ENTITY aboutTelemetry.pingDataSource "Riña ahui nej datos ping:">
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Nej ping hua nakà doj">
+
+<!ENTITY aboutTelemetry.showArchivedPingData "Datos nachro' riña ping">
+
+<!ENTITY aboutTelemetry.pingDataDisplay "Ni'io' nej datos ping:">
+
+<!ENTITY aboutTelemetry.structured "Niko' dugui' ma">
+
+<!ENTITY aboutTelemetry.raw "JSON nitaj si 'iaj sun">
+
+<!ENTITY aboutTelemetry.showSubsessionData "Nadigun nej datos 'na'">
+
+<!ENTITY aboutTelemetry.choosePing "Nahui' ping:">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping naká doj">
+
+<!ENTITY aboutTelemetry.showOlderPing "Ping ná doj &gt;&gt;">
+
+<!ENTITY aboutTelemetry.rawPingData "Nej datos nun gayi'i gi'iaj nga ping…">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
+
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.generalDataSection "  Datos nikó">
+
+<!ENTITY aboutTelemetry.environmentDataSection "  Ganikaj du'ua datos">
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Nuto' Telemetry">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Sa 'iaj naj SQL">
+
+<!ENTITY aboutTelemetry.chromeHangsSection "  Na'ue gi'iaj sun navegador">
+
+<!ENTITY aboutTelemetry.threadHangStatsSection "  Naniko' 'uej e">
+
+
+<!ENTITY aboutTelemetry.scalarsSection "  Gisi'">
+
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Gisij hui'">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Sa gahuin">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "   Sa nga gachin">
+
+
+<!ENTITY aboutTelemetry.simpleMeasurementsSection "  Daj ye'e ma">
+
+<!ENTITY aboutTelemetry.addonDetailsSection "  Daj hua sa nuto'">
+
+<!ENTITY aboutTelemetry.lateWritesSection "  nitaj si hua hue'e sa gachun'">
+
+<!ENTITY aboutTelemetry.sessionInfoSection "  Daj hua sesión">
+
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Sa nara'ui' yi'i sa nuto'">
+
+<!ENTITY aboutTelemetry.toggle "  Ga'ui' da' nayi'i sección">
+
+<!ENTITY aboutTelemetry.emptySection "  (nitaj datos nari'ij)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.">
+
+<!ENTITY aboutTelemetry.fetchSymbols "  Nana'ui' si yugui sa 'iaj sun nga sa naniko'o">
+
+<!ENTITY aboutTelemetry.hideSymbols "  Digun' sa nu ga'ue gi'iaj sun">
+
+<!ENTITY aboutTelemetry.filterText "  Gatu' (cadenas o /regexp/)">
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Sa ma">
+
+<!ENTITY aboutTelemetry.rawPayload "  Sa nu gi'iaj sun">
