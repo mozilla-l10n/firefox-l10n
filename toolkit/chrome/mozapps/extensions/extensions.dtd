@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
 <!ENTITY addons.windowTitle                   "Gestô di Conponenti azonti">
 
 <!ENTITY search.placeholder                   "Çerca tutti i conponenti azonti">
+<!ENTITY search.buttonlabel                   "Çerca">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -21,8 +21,16 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Angæsi pe tutti i conponenti azonti">
 
+<!ENTITY getThemes.description                "T'eu personalizâ o teu navegatô?">
+<!ENTITY getThemes.learnMore                  "Çerni fra migiæe de temi.">
+
 <!ENTITY cmd.back.tooltip                     "Vanni inderê de 'na pagina">
 <!ENTITY cmd.forward.tooltip                  "Vanni avanti de 'na pagina">
+
+<!ENTITY showUnsignedExtensions.button.label  "No ò posciuo verificâ quarche estenscion">
+<!ENTITY showAllExtensions.button.label       "Amia tutte e estenscioin">
+<!ENTITY debugAddons.label                    "Debug di Conponenti azonti">
+<!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Tutti i conponenti azonti son stæti dizabilitæ da o moddo seguo.">
@@ -32,10 +40,6 @@
 <!ENTITY warning.updatesecurity.label              "O contròllo de seguessa in sci agiornamenti di conponenti azonti o l'é dizabilitou. Te peu capitâ de ese aroinou da i agiornamenti.">
 <!ENTITY warning.updatesecurity.enable.label       "Abilita">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Abilita o contròllo de seguessa in sci agiornamenti di conponenti azonti">
-
-<!-- global informations -->
-<!ENTITY info.plugincheck.label                 "Contròlla se ti gh'æ da agiornâ di plugin">
-<!ENTITY info.plugincheck.tooltip               "Contròlla se ti gh'æ da agiornâ di plugin">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Riçerca">
@@ -92,6 +96,13 @@
 <!ENTITY cmd.enableTheme.accesskey            "M">
 <!ENTITY cmd.disableTheme.label               "Leva o Tema">
 <!ENTITY cmd.disableTheme.accesskey           "L">
+<!ENTITY cmd.askToActivate.label              "Domanda primma de ativâ">
+<!ENTITY cmd.askToActivate.tooltip            "Chiedi ògni vòtta primma de ativâ questo conponente azonto">
+<!ENTITY cmd.alwaysActivate.label             "Ativa de longo">
+<!ENTITY cmd.alwaysActivate.tooltip           "Adeuvia de longo sto conponente azonto">
+<!ENTITY cmd.neverActivate.label              "No ativâ mai">
+<!ENTITY cmd.neverActivate.tooltip            "No adeuviâ mai sto conponente azonto">
+<!ENTITY cmd.stateMenu.tooltip                "Domanda quande adeuviâ sto conponente azonto">
 <!ENTITY cmd.installAddon.label               "Installa">
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "Scancella">
@@ -212,35 +223,33 @@
 
 <!ENTITY settings.path.button.label           "Çerca…">
 
-<!ENTITY cmd.alwaysActivate.label "Ativa de longo">
-<!ENTITY cmd.alwaysActivate.tooltip "Adeuvia de longo sto conponente azonto">
-<!ENTITY cmd.askToActivate.label "Domanda primma de ativâ">
-<!ENTITY cmd.askToActivate.tooltip "Chiedi ògni vòtta primma de ativâ questo conponente azonto">
-<!ENTITY cmd.neverActivate.label "No ativâ mai">
-<!ENTITY cmd.neverActivate.tooltip "No adeuviâ mai sto conponente azonto">
-<!ENTITY cmd.stateMenu.tooltip "Domanda quande adeuviâ sto conponente azonto">
-
+<!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
+     experiments are present on the "Experiments" tab of the add-ons manager.
+     This tab won't be displayed unless an Experiment add-on is installed.
+     Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
+     to cause this tab to appear. -->
 <!ENTITY experiment.info.label "E cöse o saieiva sto chi? Quarche vòtta a telemetria porieiva instalâ e fâse di esperimenti.">
 <!ENTITY experiment.info.learnmore "Atre informaçioin">
 <!ENTITY experiment.info.learnmore.accesskey "A">
 <!ENTITY experiment.info.changetelemetry "Inpostaçioin telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "t">
+
 <!ENTITY setting.learnmore "Ulteriori informazioni…">
+
 <!ENTITY disabledUnsigned.heading "Quarche conponente azonto o l'é dizativou">
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
 <!ENTITY disabledUnsigned.description.start "Sti conponenti no en verificæ pe deuviali in &brandShortName;. L'é poscibile ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "çercâ de alternative">
 <!ENTITY disabledUnsigned.description.end " ò domandâ a-o svilupatô de fali verificâ.">
 <!ENTITY disabledUnsigned.learnMore "Descovri atre informaçoin in sciô nòstro inpegno pe garantî a seguessa di utenti in linia.">
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.start "I svilupatoî interesæ a-o processo de verifica di conponenti azonti peuan amiâ o segoente ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manuâ">
 <!ENTITY disabledUnsigned.devInfo.end ".">
-<!ENTITY cmd.debugAddon.label "Debug">
-<!ENTITY cmd.debugAddon.accesskey "D">
-<!ENTITY search.buttonlabel "Çerca">
-<!ENTITY showAllExtensions.button.label "Amia tutte e estenscioin">
-<!ENTITY showUnsignedExtensions.button.label "No ò posciuo verificâ quarche estenscion">
 
-
-
-
-
+<!ENTITY pluginDeprecation.description "Te manca quarcösa? Quarche plugin o no l'é ciù soportou da &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Ciù informaçioin.">
