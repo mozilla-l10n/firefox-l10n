@@ -469,7 +469,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "л">
 <!ENTITY openLinkCmd.label            "Відкрити посилання в новому вікні">
 <!ENTITY openLinkCmd.accesskey        "к">
-<!ENTITY openLinkInPrivateWindowCmd.label "Відкрити у новому приватному вікні">
+<!ENTITY openLinkInPrivateWindowCmd.label "Відкрити в приватному вікні">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "и">
 <!ENTITY openLinkCmdInCurrent.label     "Відкрити посилання">
 <!ENTITY openLinkCmdInCurrent.accesskey "В">
@@ -762,11 +762,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Відкрити">
 <!ENTITY syncedTabs.context.open.accesskey                   "В">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Відкрити у новій вкладці">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Відкрити в новій вкладці">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "н">
-<!ENTITY syncedTabs.context.openInNewWindow.label            "Відкрити у новому вікні">
+<!ENTITY syncedTabs.context.openInNewWindow.label            "Відкрити в новому вікні">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "о">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Відкрити у новому приватному вікні">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Відкрити в приватному вікні">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "п">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Закласти цю вкладку…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "З">
