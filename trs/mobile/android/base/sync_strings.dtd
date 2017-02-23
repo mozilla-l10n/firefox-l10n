@@ -1,0 +1,126 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
+
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
+<!-- Main titles. -->
+
+<!ENTITY sync.title.connect.label "gatu\u0027 nga &syncBrand.shortName.label;">
+<!-- J-PAKE Key Screen -->
+
+<!ENTITY sync.subtitle.connect.label "Da\u0027 ga\u0027ue gayi\u0027ì si gaga\u0027t gi\u0027iaj sunj ni, guru\u0027ma ra\u0027a \&quot;Nagi\u0027iaj &syncBrand.shortName.label;\&quot; riña si gaga\u0027t.">
+<!ENTITY sync.subtitle.pair.label "Da\u0027 dugi\u0027iaj sunt ma ni, guru\u0027ma ra\u0027a riña taj \&quot;nagi\u0027iaj guñun\u0027 \u0027ngo aga\u0027 sikà\u0027 ràa\&quot; riña a\u0027ngô aga\u0027 sikà\u0027 rà nikajt.">
+<!ENTITY sync.pin.default.label "...\n...\n...\n">
+<!ENTITY sync.link.nodevice.label "Nitaj aga\u0027 dan nika...">
+<!-- Configure Engines -->
+
+<!ENTITY sync.configure.engines.title.passwords2 "Nej riña ayi\u0027ì sesión">
+<!ENTITY sync.configure.engines.title.history "sa gahuin">
+<!ENTITY sync.configure.engines.title.tabs "Rakïj ñaj">
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!ENTITY sync.default.client.name "&formatS1; rayi\u0027î &formatS2;">
+<!-- Bookmark folder strings -->
+
+<!ENTITY bookmarks.folder.menu.label "yi\u0027nï\u0027 nej sa araj sun\u0027 doj">
+<!ENTITY bookmarks.folder.places.label "Yi\u0027nï\u0027 nej sa araj sun\u0027 doj">
+<!ENTITY bookmarks.folder.tags.label "Da\u0027nga\u0027 achrûn\u0027">
+<!ENTITY bookmarks.folder.toolbar.label "Riñan man sa gara sun\u0027">
+<!ENTITY bookmarks.folder.other.label "A\u0027ngo sa raj sun nichro\u0027 doj">
+<!ENTITY bookmarks.folder.desktop.label "Sa arajsun\u0027 doj nù riña ñanj tàj ñaa">
+<!ENTITY bookmarks.folder.mobile.label "Sa arajsun\u0027 doj \u0027na\u0027 riña nej aga\u0027 atô\u0027">
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label "Gà\u0027 nanû ma">
+<!-- Firefox Account strings. -->
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+
+
+<!ENTITY fxaccount_back_to_browsing "Gachenu ñû\u0027">
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Gatu\u0027 nga &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_description2 "Gayi\u0027ì si sesiônt da\u0027 ga\u0027ue nagi\u0027iaj guñant nej rakïj ñaj, nej sa ni\u0027iajt doj, nej da\u0027nga\u0027 huìi ni a\u0027ngô gà\u0027 sa huaa.">
+<!ENTITY fxaccount_getting_started_get_started "Daj nui si gui\u0027iaj sini\u0027">
+<!ENTITY fxaccount_getting_started_old_firefox "¿Arajsunt \u0027ngo sa nâ doj si\u0027iaj &syncBrand.shortName.label;?">
+
+<!ENTITY fxaccount_status_signed_in_as "Gatuj ru\u0027uin">
+<!ENTITY fxaccount_status_manage_account "Si Kuendâ administrador">
+<!ENTITY fxaccount_status_auth_server "Si kuendâ servidor">
+<!ENTITY fxaccount_status_sync_now "Nagi\u0027iaj guñan hìaj a">
+<!ENTITY fxaccount_status_syncing2 "Hìaj nagi\u0027iaj guñanj...">
+<!ENTITY fxaccount_status_device_name "Si yugui aga\u0027a">
+<!ENTITY fxaccount_status_sync_server "Si servidor Sync">
+<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
+<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: gua ni\u0027ninj man">
+<!ENTITY fxaccount_status_needs_verification2 "Da\u0027ui aga\u0027 na natsi si kuendât. Guru\u0027ma ra\u0027a da ga\u0027ue gan\u0027anj nuguan\u0027 ga\u0027nïn natsi.">
+<!ENTITY fxaccount_status_needs_credentials "Na\u0027ue gatut riña aga\u0027 na. Guru\u0027ma ra\u0027a da\u0027 gayi\u0027ìt sesión a.">
+<!ENTITY fxaccount_status_needs_upgrade "Da\u0027uît nagi\u0027iaj nakàt &brandShortName; da\u0027 ga\u0027ue gayi\u0027ìt ngà sesión.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; gà\u0027 hua ma gi\u0027iaj sun ma, sani nitaj si nagi\u0027iaj hue\u0027ê man man\u0027an. Guru\u0027ma ra\u0027a \&quot;nagi\u0027iaj hue\u0027ê ma ma\u0027an\&quot; riña ga\u0027ue nagi\u0027iô\u0027 na riña Android &gt; Dàj arajsun nej dâto.">
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; gà\u0027 hua ma gi\u0027iaj sun ma, sani nitaj si nagi\u0027iaj hue\u0027ê ma ma\u0027an. Guru\u0027ma ra\u0027a “Nagi\u0027iaj hue\u0027ê ma ma\u0027an” riña ga\u0027ue nagi\u0027iô\u0027 na riña Android &gt; Dàj arajsun\u0027 nej dâto.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Guru\u0027ma ra\u0027a da\u0027 ga\u0027ue gatut riña Kuendâ giri nakàt riña Firefox.">
+<!ENTITY fxaccount_status_bookmarks "Sa araj sun nichrò\u0027 doj">
+<!ENTITY fxaccount_status_history "Sa gahuin">
+<!ENTITY fxaccount_status_passwords2 "Nej ña gayi\u0027ì\u0027 sesión">
+<!ENTITY fxaccount_status_tabs "Nej rakïj ñaj hua ni\u0027nïnj">
+<!ENTITY fxaccount_status_legal "Nuguan\u0027 a\u0027nï\u0027ïn" >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 "Nuguan\u0027 da\u0027uît gini\u0027înt si ruhuât garasunt">
+<!ENTITY fxaccount_status_linkprivacy2 "Sa gara yino\u0027">
+<!ENTITY fxaccount_status_more "Doj&ellipsis;">
+<!ENTITY fxaccount_remove_account "Gahui riña internet&ellipsis;">
+
+<!ENTITY fxaccount_remove_account_dialog_title "¿Dure\u0027 cuenta Firefox aj?">
+<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; dunaj si nagi\u0027iaj hue\u0027ej si kuendât, sani si dure\u0027ej gà\u0027 si \u0027ngo datô nana\u0027ui\u0027t riña aga\u0027 na.">
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast "Si Kuendâ Firefox &formatS; gà\u0027 nare\u0027.">
+
+<!ENTITY fxaccount_enable_debug_mode "Nachrun\u0027 sa nagi\u0027iaj sà\u0027">
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+
+<!ENTITY fxaccount_account_type_label "Firefox">
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; ganahui">
+<!ENTITY fxaccount_options_configure_title "Nagui\u0027io\u0027 &syncBrand.shortName.label;">
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Da\u0027ui\u0027 nagui\u0027iaj naká Firefox">
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Nga hua cuenta. &formatS1;">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "korreo asi da\u0027nga\u0027 hùi nitaj si hua hue\u0027ê">
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "korreo asi da\u0027nga\u0027 hùi nitaj si hua hue\u0027ê">
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Hua nï\u0027 nu natsij ma kuendâ na">
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Servidor hua chruj riña, yakaj da\u0027nga\u0027 nanâ doj">
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Servidor hua chruj riña, yakaj da\u0027nga\u0027 nanâ doj">
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Gurugui\u0027 \u0027ngo sa rañu\u0027unj un">
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED "Hua arán riña kuendâ na. &formatS1;">
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; nitaj si \u0027iaj sun ma">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Guru\u0027ma ra\u0027a da\u0027 gatut huînt &formatS;">
+
+<!ENTITY fxaccount_sync_finish_migrating_notification_title "¿Dunahuít sa nahuin nakà &syncBrand.shortName.label;?">
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text "Guru\u0027ma ra\u0027a da\u0027 gatut huînt &formatS;">
