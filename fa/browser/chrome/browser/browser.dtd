@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
-<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  bookmarkAllTabs.accesskey          "ز">
 <!ENTITY  undoCloseTab.label                 "برگردان زبانه بسته شده">
 <!ENTITY  undoCloseTab.accesskey             "ب">
 <!ENTITY  closeTab.label                     "بستن زبانه">
@@ -88,7 +88,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه زبانه‌ها…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ز">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگردان زبانه بسته شده">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
@@ -107,7 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitFullScreenCmd.label "خروج از حالت تمام‌صفحه">
 <!ENTITY exitFullScreenCmd.accesskey "ت">
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
-<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.accesskey "ت">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
 <!ENTITY showAllTabsCmd.accesskey "A">
@@ -188,7 +188,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showRecentlyBookmarked.label     "نمایش اخیرا نشانک‌گذاری شده">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "مخفی کردن نشانک‌گذاری‌های اخیر">
-<!ENTITY hideRecentlyBookmarked.accesskey "H">
+<!ENTITY hideRecentlyBookmarked.accesskey "م">
 
 <!ENTITY backCmd.label                "برگشت">
 <!ENTITY backButton.tooltip           "برگشتن به یک صفحه قبل">
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جست‌وجو…">
-<!ENTITY keywordfield.accesskey       "K">
+<!ENTITY keywordfield.accesskey       "ک">
 
 <!ENTITY downloads.label              "بارگیری‌ها">
 <!ENTITY downloads.accesskey          "ب">
@@ -546,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.label          "فعال‌سازی این افزونه">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "پنهان کردن این افزونه">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.accesskey      "پ">
 <!ENTITY copyLinkCmd.label            "رونوشت برداشتن از مکان پیوند">
 <!ENTITY copyLinkCmd.accesskey        "ن">
 <!ENTITY copyImageCmd.label           "رونوشت برداشتن از مکان تصویر">
@@ -580,7 +580,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.label     "سرعت پخش">
 <!ENTITY mediaPlaybackRate2.accesskey "پ">
 <!ENTITY mediaPlaybackRate050x2.label "آهسته(0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "آ">
 <!ENTITY mediaPlaybackRate100x2.label "عادی">
 <!ENTITY mediaPlaybackRate100x2.accesskey "ع">
 <!ENTITY mediaPlaybackRate125x2.label "سریع (1.25×)">
