@@ -10,10 +10,12 @@
 <!ENTITY  offline.toggleOffline.accesskey "G">
 
 <!ENTITY  mismatch.win.title              "సారూప్యంకాని పొడిగింతలు">
-<!ENTITY  mismatch.top.label              "ఈక్రింది పొడిగింతలు &brandShortName;యొక్క ఈవర్షన్‌తో సారూప్యంకానివి మరియు అచేతనంచేయబడినవి:">
-<!ENTITY  mismatch.bottom.label           "ఈ  పొడిగింతలకు సారూప్యతగల  వర్షన్లు  అందుబాటులో  వున్నాయేమో &brandShortName; పరిశీలించగల్గను.">
+<!ENTITY  mismatch.top.label              "క్రింది పొడిగింతలు 
+                                           &brandShortName; యొక్క ఈ వర్షన్‌తో సారూప్యంకానివి మరియు అచేతనంచేయబడినవి:">
+<!ENTITY  mismatch.bottom.label           "&brandShortName;కు సారూప్యతగల వర్షన్లు 
+                                           ఈ పొడిగింతలకు అందుబాటులో వున్నాయేమో పరిశీలించబడును.">
 
-<!ENTITY  checking.wizard.title           "సారూప్యంగల పొడిగింతలు కొరకు పరిశీలన">
+<!ENTITY  checking.wizard.title           "సారూప్యంగల పొడిగింతలు కోసం పరిశీలిస్తున్నది">
 <!ENTITY  checking.top.label              "నవీకరణల కొరకు మీ సారూప్యంకాని పొడిగింతలు పరిశీలన...">
 <!ENTITY  checking.status                 "ఇది కొన్నినిముషాల సమయం తీసుకుంటుంది...">
 
