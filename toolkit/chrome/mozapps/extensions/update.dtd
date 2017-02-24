@@ -16,39 +16,43 @@
                                            ఈ పొడిగింతలకు అందుబాటులో వున్నాయేమో పరిశీలించబడును.">
 
 <!ENTITY  checking.wizard.title           "సారూప్యంగల పొడిగింతలు కోసం పరిశీలిస్తున్నది">
-<!ENTITY  checking.top.label              "నవీకరణల కొరకు మీ సారూప్యంకాని పొడిగింతలు పరిశీలన...">
+<!ENTITY  checking.top.label              "మీ సారూప్యంకాని పొడిగింతల నవీకరణల కోసం పరిశీలిస్తున్నది...">
 <!ENTITY  checking.status                 "ఇది కొన్నినిముషాల సమయం తీసుకుంటుంది...">
 
-<!ENTITY  found.wizard.title               "సారూప్యంగల పొడిగింతలు కనబడినవి">
-<!ENTITY  found.top.label                 "మీరు సంస్థాపించుటకు ఇష్టపడే పొడిగింతలు ఎంపికచేసుకొనండి:">
-<!ENTITY  found.disabledXPinstall.label   "ఈ నవీకరణలు సంస్థాపించబడవు ఎంచేతంటే ప్రస్తుతం సాఫ్టువేరు సంస్థాపన అచేతనం చేయబడివుంది. ఈఅమర్పును మీరు క్రింద మార్చవచ్చు.">
+<!ENTITY  found.wizard.title               "సారూప్యంగల పొడిగింతలు కనుగొనబడినవి">
+<!ENTITY  found.top.label                 "మీరు సంస్థాపించుటకు ఇష్టపడే పొడిగింతలు ఎంపికచేయండి:">
+<!ENTITY  found.disabledXPinstall.label   "ఈ నవీకరణలు సంస్థాపించబడవు ఎందుకంటే ప్రస్తుతం సాఫ్టువేరు సంస్థాపన
+                                            అచేతనించబడినది. ఈ అమర్పును మీరు క్రింద మార్చవచ్చు.">
 <!ENTITY  found.enableXPInstall.label     "సాఫ్టవేరులను సంస్థాపించుటకు వెబ్ సైటులను అనుమతించు">
 <!ENTITY  found.enableXPInstall.accesskey "A">
 
 <!ENTITY  installing.wizard.title         "సారూప్యతగల పొడిగింతలను సంస్థాపించుచున్నది">
-<!ENTITY  installing.top.label            "మీ పొడిగింతలకు నవీకరణలను డౌనులోడుచేసి మరియు సంస్థాపించుచున్నది...">
+<!ENTITY  installing.top.label            "మీ పొడిగింతలకు నవీకరణలను డౌనులోడుచేసి సంస్థాపిస్తున్నది...">
 
 <!ENTITY  noupdates.wizard.title          "ఏ సారూప్యతగల పొడిగింతలు కనబడలేదు">
-<!ENTITY  noupdates.intro.desc            "మీ సారూప్యతగాని పొడిగింతలకు &brandShortName; నవీకరణలను కనుగొనలేకపోయింది.">
+<!ENTITY  noupdates.intro.desc            "మీ సారూప్యతగాని పొడిగింతలకు 
+                                           &brandShortName; నవీకరణలను కనుగొనలేకపోయింది.">
 <!ENTITY  noupdates.error.desc            "నవీకరణలను కనుగొనుటకు ప్రయత్నిస్తున్నప్పుడు కొన్ని సమస్యలు ఎదురైనవి.">
 <!ENTITY  noupdates.checkEnabled.desc     "ఈ పొడిగింతలు కొరకు సారూప్యతగల నవీకరణలను &brandShortName; సమయానుసారం పరిశీలిస్తుంది మరియు అవి కలబడినప్పుడు మీకు తెలియజేస్తుంది.">
 
 <!ENTITY  finished.wizard.title           "సారూప్యతగల పొడిగింతలు సంస్థాపించబడినవి">
 <!ENTITY  finished.top.label              "&brandShortName; మీ పొడిగింతలకు నవీకరణలను సంస్థాపించినది.">
 <!ENTITY  finished.checkDisabled.desc     "ఈ పొడిగింతలు కొరకు నవీకరణలను &brandShortName; సమయానుసారం పరిశీలిస్తుంది మరియు అవి కలబడినప్పుడు మీకు తెలియజేస్తుంది.">
-<!ENTITY  finished.checkEnabled.desc      "ఈ పొడిగింతలు కొరకు నవీకరణలను &brandShortName; సమయానుసారం  పరిశీలిస్తుంది మరియు అవికలబడినప్పుడు  మీకుతెలియజేస్తుంది.">
+<!ENTITY  finished.checkEnabled.desc      "ఈ పొడిగింతలు కొరకు నవీకరణలను &brandShortName; సమయానుసారం పరిశీలిస్తుంది మరియు అవికలబడినప్పుడు మీకు తెలియజేస్తుంది.">
 
-<!ENTITY  adminDisabled.wizard.title      "నవీకరణల కొరకు పరశీలించలేదు">
+<!ENTITY  adminDisabled.wizard.title      "నవీకరణల కొరకు పరశీలించలేకపోయినది">
 <!ENTITY  adminDisabled.warning.label     "సారూప్యంకాని పొడిగింతలు కొరకు  నవీకరణలను పరిశీలించుట అసాధ్యం ఎంచేతంటే  &brandShortName; కొరకు  సాఫ్టవేర్  సంస్థాపన  అచేతనం చేయబడింది. సహాయంకొరకు దయచేసి  మీ  సిస్టమ్  నిర్వహణాదికారిని  సంప్రదించండి.">
 
 <!ENTITY  versioninfo.wizard.title        "పొడిగింతలు యొక్క సారూప్యత పరిశీలన">
-<!ENTITY  versioninfo.top.label           "మీ పొడిగింతలు ను సారూప్యత కొరకు  &brandShortName; యొక్క ఈవర్షన్‌తో  పరిశీలించండి.">
+<!ENTITY  versioninfo.top.label           "మీ పొడిగింతల సారూప్యత కొరకు
+                                           &brandShortName; యొక్క ఈవర్షన్‌తో పరిశీలించండి.">
 <!ENTITY  versioninfo.waiting             "ఇదికొన్ని నిమషాల సమయం తీసుకుంటుంది...">
 
 <!ENTITY  installerrors.wizard.title      "నవీకరణల సంస్థాపనలో సమస్య">
-<!ENTITY  installerrors.intro.label       "మీయొక్క  కొన్ని  పొడిగింతలు ను నవీకరిస్తున్నప్పుడు  &brandShortName; సమస్యలను  ఎదుర్కొంది.">
+<!ENTITY  installerrors.intro.label       "మీ యొక్క కొన్ని పొడిగింతలను నవీకరిస్తున్నప్పుడు &brandShortName; 
+                                           సమస్యలను ఎదుర్కొంది.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "&brandShortName;ను కొనసాగించుటకు ముగింపును నొక్కండి.">
+<!ENTITY  clickFinish.label               "&brandShortName;కు కొనసాగించుటకు ముగింపును నొక్కండి.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; ప్రారంభం కొనసాగించుటకు అయినది నొక్కండి.">
 <!ENTITY  enableChecking.label            "నవీకరణలను కొరకు పరిశీలించుటకు &brandShortName;ను అనుమతించండి.">
