@@ -43,7 +43,8 @@
 <!ENTITY TextLength.accesskey "d">
 <!ENTITY AccessKey.label "Tipka pristupa:">
 <!ENTITY AccessKey.accesskey "k">
+<!ENTITY Accept.label "Prihvati tipove:">
+<!ENTITY Accept.accesskey "P">
 
-
-
-
+<!ENTITY ImageProperties.label "Postavke slike…">
+<!ENTITY ImageProperties.accesskey "e">
