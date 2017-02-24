@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bookmark">
+<!ENTITY  bookmarks_title "Markah">
 <!ENTITY  history_title "Riwayat">
 
 <!ENTITY  switch_to_tab "Pindah ke tab">
@@ -174,11 +174,11 @@
 <!ENTITY pref_category_accessibility "Aksesibilitas">
 <!ENTITY pref_category_accessibility_summary2 "Ukuran teks, perbesaran, input suara">
 <!ENTITY pref_category_privacy_short "Privasi">
-<!ENTITY pref_category_privacy_summary4 "Pelacakan, log-masuk, pilihan data">
+<!ENTITY pref_category_privacy_summary4 "Pelacakan, info masuk, pilihan data">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Tentang &brandShortName;, tanya jawab, saran">
 <!ENTITY pref_category_datareporting "Pilihan data">
-<!ENTITY pref_category_logins "Log-masuk">
+<!ENTITY pref_category_logins "Info Masuk">
 <!ENTITY pref_learn_more "Pelajari lebih lanjut">
 <!ENTITY pref_category_installed_search_engines "Mesin pencari terpasang">
 <!ENTITY pref_category_add_search_providers "Tambahkan penyedia pencarian lainnya">
