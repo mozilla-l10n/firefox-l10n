@@ -8,6 +8,6 @@
 <!ENTITY id.heading                 "ID do Report">
 <!ENTITY dateCrashed.heading        "Dæta do cianto">
 <!ENTITY dateSubmitted.heading      "Dæta segnalaçion">
-<!ENTITY noReports.label            "Nisciun report inviou.">
+<!ENTITY noReports.label            "Nisciun report mandou.">
 <!ENTITY noConfig.label             "Sta aplicaçion a no l'é stæta inpostâ pe fâ vedde i report di problemi. E preferense <code>breakpad.reportURL</code> son da inposta.">
 <!ENTITY clearAllReports.label      "Leva da mezo tutti i Report">
