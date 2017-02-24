@@ -57,7 +57,7 @@
 <!ENTITY crash_restart_label "Uruchom ponownie przeglądarkę &brandShortName;">
 <!ENTITY sending_crash_report "Przesyłanie zgłoszenia\u2026">
 
-<!ENTITY url_bar_default_text2 "Wpisz zapytanie lub adres">
+<!ENTITY url_bar_default_text2 "Wpisz adres lub szukaj">
 
 <!ENTITY bookmark "Zakładka">
 <!ENTITY bookmark_remove "Usuń zakładkę">
