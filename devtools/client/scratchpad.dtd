@@ -71,8 +71,8 @@
 <!ENTITY editMenu.label               "ویرایش">
 <!ENTITY editMenu.accesskey           "و">
 
-<!ENTITY run.label                    "اجرا کردن">
-<!ENTITY run.accesskey                "R">
+<!ENTITY run.label                    "اجرا‌">
+<!ENTITY run.accesskey                "ا">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "وارسی">
@@ -124,7 +124,7 @@
 
 
 <!ENTITY resetContext2.label          "بازنشاندن متغیرها">
-<!ENTITY resetContext2.accesskey      "t">
+<!ENTITY resetContext2.accesskey      "ب">
 
 <!ENTITY reloadAndRun.label           "بازاوری و اجرا">
 <!ENTITY reloadAndRun.accesskey       "ب">
