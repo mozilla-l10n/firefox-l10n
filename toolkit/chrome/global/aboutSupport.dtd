@@ -40,6 +40,8 @@
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers registrados">
 <!ENTITY aboutSupport.appBasicsProfiles "Perfiles">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanas multiproceso">
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clave de Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clave del servicio de ubicación de Mozilla">
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
 <!ENTITY aboutSupport.showDir.label "Abrir directorio">
 <!ENTITY aboutSupport.showMac.label "Mostrar en Finder">
@@ -67,6 +69,14 @@
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copiar el texto al portapapeles">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en crudo al portapapeles">
 <!ENTITY aboutSupport.sandboxTitle "Entorno de pruebas">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Llamadas de sistema rechazadas">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hace segundos">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de proceso">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con complementos desactivados…">
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Características">

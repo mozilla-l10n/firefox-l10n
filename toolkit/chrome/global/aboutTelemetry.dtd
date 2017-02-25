@@ -111,11 +111,11 @@ Ping
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.
 ">
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Recuperar nombres de función de las pilas de cuelgue
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Recuperar nombres de funciones para las pilas
 ">
-<!ENTITY aboutTelemetry.hideSymbols "
-  Mostrar datos no procesados de cuelgues
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Mostrar datos de la pila sin procesarlos
 ">
 <!ENTITY aboutTelemetry.filterText "
   Filtrar (cadenas o /regexp/)
