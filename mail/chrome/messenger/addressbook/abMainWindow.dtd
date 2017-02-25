@@ -15,7 +15,7 @@
 <!ENTITY newContact.accesskey                           "k">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "E-postlista…">
-<!ENTITY newListCmd.accesskey                           "u">
+<!ENTITY newListCmd.accesskey                           "E">
 <!ENTITY newAddressBookCmd.label                        "Ny adressbok…">
 <!ENTITY newAddressBookCmd.accesskey                    "a">
 <!ENTITY newLDAPDirectoryCmd.label                      "Ny LDAP-katalog…">
@@ -139,7 +139,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.label                         "Ny kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny lista">
-<!ENTITY newlistButton.accesskey                        "u">
+<!ENTITY newlistButton.accesskey                        "N">
 <!ENTITY showAsDefault.label                            "Standardstartkatalog">
 <!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Redigera">
