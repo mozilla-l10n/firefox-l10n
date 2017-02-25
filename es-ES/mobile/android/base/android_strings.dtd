@@ -328,10 +328,8 @@
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
-<!ENTITY doorhanger_login_edit_toast_error "No se ha podido guardar la credencial">
 <!ENTITY doorhanger_login_select_message "¿Copiar contraseña de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al portapapeles">
-<!ENTITY doorhanger_login_select_toast_copy_error "No se ha podido copiar la contraseña">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
 <!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
