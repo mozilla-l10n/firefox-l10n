@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Jau yra adresyne">
 <!ENTITY overlay_share_send_other "Siųsti į kitus įrenginius">
 
+<!ENTITY overlay_share_open_browser_btn_label "Atverti per „&brandShortName;“">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -241,7 +242,7 @@
 <!ENTITY pref_header_vendor "„&vendorShortName;“">
 
 <!ENTITY pref_cookies_menu "Slapukai">
-<!ENTITY pref_cookies_accept_all "Įjungta">
+<!ENTITY pref_cookies_accept_all "Leidžiami">
 <!ENTITY pref_cookies_not_accept_foreign "Leidžiami, išskyrus trečiųjų šalių">
 <!ENTITY pref_cookies_disabled "Neleidžiami">
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -386,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Rodyti paieškos istoriją">
 <!ENTITY pref_import_options "Importo nuostatos">
 <!ENTITY pref_import_android_summary "Importuoti adresyną ir istoriją iš standartinės naršyklės">
-
+<!ENTITY pref_private_data_openTabs "Atvertos kortelės">
 <!ENTITY pref_private_data_history2 "Naršymo žurnalas">
 <!ENTITY pref_private_data_searchHistory "Paieškos istorija">
 <!ENTITY pref_private_data_formdata2 "Formų istorija">
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Kompaktiškos kortelės">
+<!ENTITY pref_compact_tabs_summary2 "Išdėstyti korteles dviem stulpeliais portreto veiksenoje">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -692,15 +695,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Ieškoti „&formatS1;“: &formatS2;">
 
 <!ENTITY searchable_description "Adresynas ir žurnalas">
-<!-- Updater notifications -->
-<!ENTITY updater_start_select2 "Bakstelėkite, kad naujinimas būtų parsiųstas">
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Išleistas „&brandShortName;“ naujinimas">
+<!ENTITY updater_start_select2 "Bakstelėkite, norėdami atsisiųsti">
 
 <!ENTITY updater_downloading_title2 "Parsiunčiama „&brandShortName;“">
 <!ENTITY updater_downloading_title_failed2 "Parsiųsti nepavyko">
-<!ENTITY updater_downloading_select2 "Bakstelėkite, kad parsiuntus, naujinimas būtų įdiegtas">
-<!ENTITY updater_downloading_retry2 "Bakstelėkite, kad būtų pabandyta iš naujo">
+<!ENTITY updater_downloading_select2 "Bakstelėkite, norėdami įdiegti naujinimą jį atsiuntus">
+<!ENTITY updater_downloading_retry2 "Bakstelėkite, norėdami pabandyti iš naujo">
 
-
+<!ENTITY updater_apply_title3 "Atsiųstas „&brandShortName;“ naujinimas">
+<!ENTITY updater_apply_select3 "Bakstelėkite, norėdami įdiegti">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -760,7 +766,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "Ši nuoroda bus atverta per „&formatS;“. Ar tikrai norite nutraukti privačiojo naršymo seansą?">
+<!ENTITY intent_uri_private_browsing_prompt "Šis saitas bus atvertas per „&formatS;“. Ar tikrai norite nutraukti privačiojo naršymo seansą?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -845,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Paslėpti">
 <!ENTITY activity_stream_delete_history "Pašalinti iš istorijos">
 
-
+<!ENTITY activity_stream_welcome_title "Sveiki, čia jūsų akcentai">
+<!ENTITY activity_stream_welcome_content1 "„&brandShortName;“ dabar formuoja akcentus iš jūsų saityne atrastų dalykų, kad galėtumėte grįžti prie puikių straipsnių, vaizdo įrašų, adresyno įrašų ir kitų tinklalapių.">
