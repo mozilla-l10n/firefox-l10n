@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Paleidžiant „&brandShortName;“">
 <!ENTITY startupPage.accesskey     "l">
-
+<!ENTITY startupUserHomePage.label "Rodyti pradžios tinklalapį">
 <!ENTITY startupBlankPage.label    "rodyti tuščią puslapį">
-
+<!ENTITY startupPrevSession.label  "Atverti paskiausio seanso langus ir korteles">
 
 <!ENTITY homepage.label            "Pradžios tinklalapis:">
 <!ENTITY homepage.accesskey        "P">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "r">
 <!ENTITY chooseFolderMac.label        "Parinkti…">
 <!ENTITY chooseFolderMac.accesskey    "r">
-
-
+<!ENTITY alwaysAskWhere.label         "Visada klausti, kur įrašyti failus">
+<!ENTITY alwaysAskWhere.accesskey     "V">
 
 <!ENTITY alwaysCheckDefault2.label        "Visada tikrinti, ar „&brandShortName;“ yra jūsų numatytoji naršyklė">
 <!ENTITY alwaysCheckDefault2.accesskey    "d">

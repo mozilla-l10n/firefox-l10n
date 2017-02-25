@@ -8,7 +8,8 @@
 <!ENTITY newWindowsAsTabs.label       "Vietoje naujų langų atverti naujas korteles">
 <!ENTITY newWindowsAsTabs.accesskey   "k">
 
-
+<!ENTITY warnOnCloseMultipleTabs.label      "Įspėti prieš užveriant daugiau kaip vieną kortelę">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "d">
 
 
 
