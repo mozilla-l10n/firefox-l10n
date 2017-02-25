@@ -42,7 +42,7 @@
 <!ENTITY AddOptGroup.accesskey "g">
 <!ENTITY RemoveElement.label "Ukloni">
 <!ENTITY RemoveElement.accesskey "U">
-
-
-
-
+<!ENTITY MoveElementUp.label "Pomjeri gore">
+<!ENTITY MoveElementUp.accesskey "g">
+<!ENTITY MoveElementDown.label "Pomjeri dolje">
+<!ENTITY MoveElementDown.accesskey "d">

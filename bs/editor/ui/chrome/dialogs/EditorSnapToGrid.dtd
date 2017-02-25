@@ -4,6 +4,12 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Uklapaj uz mrežu">
 
+<!ENTITY enableSnapToGrid.label "omogući uklapanje uz mrežu">
+<!ENTITY enableSnapToGrid.accessKey "e">
 
+<!ENTITY sizeEditField.label "Veličina:">
+<!ENTITY sizeEditField.accessKey "V">
 
+<!ENTITY pixelsLabel.value "piksela">
