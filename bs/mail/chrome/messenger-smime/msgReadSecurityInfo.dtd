@@ -4,7 +4,11 @@
 <!--LOCALIZATION NOTE msgReadSecurityInfo.dtd UI for viewing security status when reading a received message -->
 
 
+<!ENTITY status.label "Sigurnost poruke">
+<!ENTITY signatureCert.label "Prikaži certifikat potpisa">
+<!ENTITY encryptionCert.label "Prikaži certifikat enkripcije">
 
-
-
-
+<!ENTITY signer.name "Potpisan od:">
+<!ENTITY recipient.name "Enkriptovano za:">
+<!ENTITY email.address "Email adresa:">
+<!ENTITY issuer.name "Certifikat izdao:">
