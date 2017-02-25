@@ -5,9 +5,9 @@
 <!ENTITY itemJunk.label          "Junk">
 <!ENTITY itemPhishing.label      "Penipuan Email">
 <!ENTITY itemPasswords.label     "Sandi">
+<!ENTITY itemAntiVirus.label     "Antivirus">
 
 <!-- Junk Mail Controls -->
-
 <!ENTITY junkMail.intro "Atur pengaturan email junk default. Pengaturan email junk masing-masing akun dapat diatur pada Pengaturan Akun.">
 <!ENTITY manualMark.label "Saat menandai pesan sebagai pesan junk:">
 <!ENTITY manualMark.accesskey "S">
@@ -23,15 +23,15 @@
 <!ENTITY openJunkLog.accesskey "l">
 <!ENTITY resetTrainingData.label "Setel Ulang Data Training">
 <!ENTITY resetTrainingData.accesskey "D">
-<!-- Phishing Detector -->
 
+<!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; dapat menganalisis pesan yang mungkin berisi penipuan (scam) yang menggunakan teknik-teknik yang umum untuk menipu Anda.">
 <!ENTITY enablePhishingDetector1.label    "Beritahu jika pesan yang sedang dibaca adalah tersangka penipuan lewat email">
 <!ENTITY enablePhishingDetector1.accesskey  "e">
 <!ENTITY useDownloadedList.label "Gunakan daftar tersangka penipuan email yang diunduh dari Internet">
 <!ENTITY useDownloadedList.accesskey "u">
-<!-- Passwords -->
 
+<!-- Passwords -->
 <!ENTITY savedPasswords.intro           "&brandShortName; dapat menyimpan informasi sandi untuk semua akun Anda sehingga Anda tidak perlu mengetikkan ulang informasi log-masuk Anda berkali-kali.">
 <!ENTITY useMasterPassword.label        "Gunakan Sandi Utama">
 <!ENTITY useMasterPassword.accesskey    "m">
@@ -40,7 +40,9 @@
 <!ENTITY changeMasterPassword.accesskey "S">
 <!ENTITY savedPasswords.label           "Sandi Tersimpan…">
 <!ENTITY savedPasswords.accesskey       "a">
+
 <!-- Anti Virus -->
-
-
+<!ENTITY antiVirus.intro      "&brandShortName; membuat jadi mudah bagi perangkat lunak anti virus untuk menganalisis virus pada pesan surat masuk sebelum mereka disimpan secara lokal.">
+<!ENTITY antiVirus.label      "Izinkan klien anti virus mengkarantina pesan masuk individu">
+<!ENTITY antiVirus.accesskey  "A">
 
