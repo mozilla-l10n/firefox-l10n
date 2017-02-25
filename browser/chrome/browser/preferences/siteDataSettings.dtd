@@ -9,3 +9,12 @@
 <!ENTITY usageCol.label "Almacenamiento">
 <!ENTITY search.label "Buscar:">
 <!ENTITY search.accesskey "B">
+<!ENTITY removeSelected.label "Eliminar lo seleccionado">
+<!ENTITY removeSelected.accesskey "l">
+<!ENTITY save.label "Guardar cambios">
+<!ENTITY save.accesskey "a">
+<!ENTITY cancel.label "Cancelar">
+<!ENTITY cancel.accesskey "C">
+<!ENTITY removingDialog.title "Eliminando datos del sitio">
+<!ENTITY removingDialog.description "Eliminar los datos del sitio también eliminará las cookies. Esto puede cerrar su sesión en los sitios web y eliminar el contenido web sin conexión. ¿Está seguro de que quiere hacer los cambios?">
+<!ENTITY siteTree.label "Se eliminarán las cookies de los siguientes sitios web:">
