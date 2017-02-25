@@ -10,8 +10,8 @@
 <!ENTITY aboutNetworking.sockets               "Sockets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "Actualizar">
-<!ENTITY aboutNetworking.autoRefresh           "Referescar automáticamente cada 3 segundos">
+<!ENTITY aboutNetworking.refresh               "Refrescar">
+<!ENTITY aboutNetworking.autoRefresh           "Refrescar automáticamente cada 3 segundos">
 <!ENTITY aboutNetworking.hostname              "Nombre del servidor">
 <!ENTITY aboutNetworking.port                  "Puerto">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
