@@ -98,7 +98,7 @@
   <li>Questo problema spesso è causato dal blocco o dal rifiuto dei cookie.</li>
 </ul>
 ">
-<!ENTITY unknownSocketType.title "Risposta inattesa del server">
+<!ENTITY unknownSocketType.title "Risposta imprevista del server">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
   <li>Verificare che nel sistema sia installato il Personal Security Manager.</li>
