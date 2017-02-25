@@ -574,6 +574,9 @@
 <!ENTITY folderSizeColumn.label "Tamaño">
 <!ENTITY folderContextGetMessages.label "Recibir mensajes">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextPauseAllUpdates.label "Pausar todas las actualizaciones">
+<!ENTITY folderContextPauseUpdates.label "Pausar actualizaciones">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir en una ventana nueva">
 <!ENTITY folderContextOpenInNewWindow.accesskey "e">
 <!ENTITY folderContextOpenNewTab.label "Abrir en una pestaña nueva">
