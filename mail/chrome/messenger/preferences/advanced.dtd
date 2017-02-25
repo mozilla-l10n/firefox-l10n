@@ -77,7 +77,7 @@
 <!ENTITY certs.ask "Спрашивать каждый раз">
 <!ENTITY certs.ask.accesskey "и">
 <!ENTITY enableOCSP.label "Запрашивать у OCSP-серверов подтверждение текущего статуса сертификатов">
-<!ENTITY enableOCSP.accesskey "ю">
+<!ENTITY enableOCSP.accesskey "ш">
 <!ENTITY manageCertificates.label "Управление сертификатами">
 <!ENTITY manageCertificates.accesskey "ф">
 <!ENTITY viewSecurityDevices.label "Устройства защиты">
