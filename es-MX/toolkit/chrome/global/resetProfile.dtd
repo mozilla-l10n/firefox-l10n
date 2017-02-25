@@ -10,6 +10,6 @@
 <!ENTITY refreshProfile.dialog.button.label  "Actualizar &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Dar un repaso a &brandShortName;">
-<!ENTITY refreshProfile.button.label         "Restablecer &brandShortName;…">
+<!ENTITY refreshProfile.button.label         "Actualizar &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Casi listo…">
