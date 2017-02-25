@@ -13,6 +13,13 @@
 <!ENTITY validateText.label "Comprobar validación y recuperar una URL válida.">
 <!ENTITY feedFolder.label "Guardar artículos en:">
 <!ENTITY feedFolder.accesskey "G">
+<!ENTITY biffStart.label "Buscar mensajes nuevos cada ">
+<!ENTITY biffStart.accesskey "B">
+<!ENTITY biffMinutes.label "minutos">
+<!ENTITY biffMinutes.accesskey "n">
+<!ENTITY biffDays.label "días">
+<!ENTITY biffDays.accesskey "d">
+<!ENTITY recommendedUnits.label "El editor recomienda:">
 <!ENTITY quickMode.label "Mostrar el resumen del artículo en vez de la página web">
 <!ENTITY quickMode.accesskey "M">
 <!ENTITY autotagEnable.label "Crear automáticamente etiquetas a partir de los contenidos &lt;category&gt; de los canales">
