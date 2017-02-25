@@ -41,6 +41,8 @@
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Зарегистрированные Service Workers">
 <!ENTITY aboutSupport.appBasicsProfiles "Профили">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Многопроцессные окна">
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Службы определения местоположения от Mozilla">
 <!ENTITY aboutSupport.appBasicsSafeMode "Безопасный Режим">
 <!ENTITY aboutSupport.showDir.label "Открыть каталог">
 <!ENTITY aboutSupport.showMac.label "Показать в Finder">
