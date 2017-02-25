@@ -7,5 +7,9 @@
 
 
 
-
+<!ENTITY windowTitle2.label "Spasi i promijeni enkodiranje teksta">
+<!ENTITY documentTitleTitle.label "Naslov stranice">
+<!ENTITY documentCharsetTitle2.label "Enkodiranje teksta">
+<!ENTITY documentCharsetDesc2.label "Izaberite enkodiranje teksta u kojem želite snimiti dokument:">
+<!ENTITY documentExportToText.label "Izvezi u tekst">
 

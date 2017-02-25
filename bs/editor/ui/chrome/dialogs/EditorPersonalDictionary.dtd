@@ -3,14 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Lični rječnik">
 
+<!ENTITY wordEditField.label "Nova riječ:">
+<!ENTITY wordEditField.accessKey "N">
+<!ENTITY AddButton.label "Dodaj">
+<!ENTITY AddButton.accessKey "D">
+<!ENTITY DictionaryList.label "Riječi u rječniku:">
+<!ENTITY DictionaryList.accessKey "R">
+<!ENTITY ReplaceButton.label "Zamijeni">
+<!ENTITY ReplaceButton.accessKey "Z">
+<!ENTITY RemoveButton.label "Ukloni">
+<!ENTITY RemoveButton.accessKey "U">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY CloseButton.label "Zatvori">
+<!ENTITY CloseButton.accessKey "Z">
