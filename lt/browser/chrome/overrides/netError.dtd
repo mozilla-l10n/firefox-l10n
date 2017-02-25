@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Klaida">
 <!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
-
+<!ENTITY captivePortal.title "Prisijungti prie tinklo">
+<!ENTITY captivePortal.longDesc "<p>Šis tinklas gali reikalauti prisijungimo, kad leistų naudotis internetu.</p>">
 
 <!ENTITY openPortalLoginPage.label "Atverti prisijungimo tinklalapį">
 
@@ -115,6 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; neprisijungė prie <span id='wrongSystemTime_URL'/>, nes jūsų kompiuterio laikrodis, panašu, rodo neteisingą laiką, o tai neleidžia įvykti saugiam prisijungimui.</p> <p>Jūsų kompiuteris rodo <span id='wrongSystemTime_systemDate'/>, kai turėtų būti <span id='wrongSystemTime_actualDate'/>. Norėdami išspręsti šią problemą, pakeiskite savo datos ir laiko nuostatas, kad jos atitiktų teisingą laiką.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; neprisijungė prie <span id='wrongSystemTimeWithoutReference_URL'/>, nes jūsų kompiuterio laikrodis, panašu, rodo neteisingą laiką, o tai neleidžia įvykti saugiam prisijungimui.</p> <p>Jūsų kompiuteris rodo <span id='wrongSystemTimeWithoutReference_systemDate'/>. Norėdami išspręsti šią problemą, pakeiskite savo datos ir laiko nuostatas, kad jos atitiktų teisingą laiką.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nesaugus ryšys">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ši svetainė „HTTP Strict Transport Security“ (HSTS) pagalba nurodė, kad „&brandShortName;“ prie jos jungtųsi tik saugiu ryšiu. Dėl to šiam liudijimui negalima sukurti išimties.">

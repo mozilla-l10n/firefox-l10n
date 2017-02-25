@@ -23,9 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Privatusis naršymas ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nepadaro jūsų anonimu">
 <!ENTITY aboutPrivateBrowsing.note.after                 " internete. Jūsų darbdavys ar interneto paslaugų teikėjas vis tiek gali sekti kur naršote.">
-
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Sužinoti daugiau apie ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "privatųjį naršymą">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Apsauga nuo stebėjimo">
 <!ENTITY trackingProtection.description2                 "Kai kurios svetainės naudoja elementus, galinčius stebėti jūsų veiklą internete. Su apsauga nuo stebėjimo „Firefox“ blokuos daugumą tokių elementų, galinčių rinkti informaciją apie jūsų naršymo įpročius.">

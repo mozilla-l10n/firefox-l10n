@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "d">
 <!ENTITY toolsMenu.tooltip                    "Visiems priedams taikomos priemonės">
 
-
+<!ENTITY getThemes.description                "Norite suasmeninti savo naršyklę?">
+<!ENTITY getThemes.learnMore                  "Rinkitės iš tūkstančių grafinių apvalkalų.">
 
 <!ENTITY cmd.back.tooltip                     "Vienu tinklalapiu atgal">
 <!ENTITY cmd.forward.tooltip                  "Vienu tinklalapiu pirmyn">
