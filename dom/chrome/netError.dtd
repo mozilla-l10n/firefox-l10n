@@ -44,7 +44,7 @@
 <!ENTITY redirectLoop.title "Reindirizzamento ciclico">
 <!ENTITY redirectLoop.longDesc "<p>Il browser si è fermato dopo aver tentato di recuperare l’oggetto richiesto. Il sito reindirizza la richiesta in modo che non possa mai essere completata.</p><ul><li>Assicurarsi di non aver disattivato o bloccato i cookie per questo sito.</li><li><em>Nota</em>: se anche accettando i cookie del sito il problema non si risolve, con tutta probabilità si tratta di un problema di configurazione del server e non del computer in uso.</li></ul>">
 <!ENTITY unknownSocketType.title "Risposta errata">
-<!ENTITY unknownSocketType.longDesc "<p>Il sito ha risposto alla richiesta di rete in modo inatteso, quindi il browser non può continuare.</p>">
+<!ENTITY unknownSocketType.longDesc "<p>Il sito ha risposto alla richiesta di rete in modo imprevisto, quindi il browser non può continuare.</p>">
 <!ENTITY nssFailure2.title "Connessione sicura non riuscita">
 <!ENTITY nssFailure2.longDesc2 "
 <p>La pagina che si sta cercando di visualizzare non può essere mostrata poiché non è possibile verificare l’autenticità dei dati ricevuti.</p>
