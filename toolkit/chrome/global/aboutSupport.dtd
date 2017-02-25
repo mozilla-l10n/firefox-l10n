@@ -40,6 +40,8 @@
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service worker registrati">
 <!ENTITY aboutSupport.appBasicsProfiles "Profili">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestre multiprocesso">
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Chiave Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Chiave per il servizio Mozilla Location">
 <!ENTITY aboutSupport.appBasicsSafeMode "Modalità provvisoria">
 <!ENTITY aboutSupport.showDir.label "Apri percorso">
 <!ENTITY aboutSupport.showMac.label "Mostra nel Finder">
