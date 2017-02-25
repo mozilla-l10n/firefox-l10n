@@ -1,3 +1,6 @@
+amazondotcom
+bing
 google
-wikipedia-ar
 twitter
+wikipedia-ar
+yahoo
