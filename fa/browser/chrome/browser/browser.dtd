@@ -20,9 +20,9 @@
 <!-- Tab context menu -->
 
 <!ENTITY  reloadTab.label                    "بازآوری زبانه">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "ب">
 <!ENTITY  reloadAllTabs.label                "بازآوری همه‌ی زبانه‌ها">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "ه">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
@@ -39,13 +39,13 @@ can reach it easily. -->
 <!ENTITY  pinTab.label                       "سنجاق کردن زبانه">
 <!ENTITY  pinTab.accesskey                   "س">
 <!ENTITY  unpinTab.label                     "کندن زبانه">
-<!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  unpinTab.accesskey                 "ز">
 <!ENTITY  sendTabToDevice.label              "ارسال زبانه به دستگاه">
-<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendTabToDevice.accesskey          "د">
 <!ENTITY  sendPageToDevice.label             "ارسال صفحه به دستگاه">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "د">
 <!ENTITY  sendLinkToDevice.label             "ارسال پیوند به دستگاه">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "د">
 <!ENTITY  moveToNewWindow.label              "انتقال به پنجرهٔ جدید">
 <!ENTITY  moveToNewWindow.accesskey          "پ">
 <!ENTITY  bookmarkAllTabs.label              "نشانک‌گذاری همه زبانه‌ها…">
@@ -57,8 +57,8 @@ can reach it easily. -->
 
 <!ENTITY  listAllTabs.label      "فهرست کردن همهٔ زبانه‌ها">
 
-<!ENTITY tabCmd.label "زبانهٔ جدید">
-<!ENTITY tabCmd.accesskey "T">
+<!ENTITY tabCmd.label "زبانه جدید">
+<!ENTITY tabCmd.accesskey "ز">
 <!ENTITY tabCmd.commandkey "t">
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
@@ -68,11 +68,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "ب">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "تنظیم صفحه…">
-<!ENTITY printSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "پیش‌نمای چاپ">
-<!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "چاپ…">
-<!ENTITY printCmd.accesskey "P">
+<!ENTITY printSetupCmd.accesskey "ت">
+<!ENTITY printPreviewCmd.label "پیش‌نمایش چاپ">
+<!ENTITY printPreviewCmd.accesskey "پ">
+<!ENTITY printCmd.label "چاپ...">
+<!ENTITY printCmd.accesskey "چ">
 <!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "آفلاین کار کن">
@@ -85,21 +85,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "ن">
 <!ENTITY bookmarksToolbarItem.label "موارد نوار ابزار نشانک‌ها">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همهٔ زبانه‌ها">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "بازآوری همه زبانه‌ها">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ه">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "نشانک‌گذاری همه زبانه‌ها…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ز">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "برگردان زبانه بسته شده">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ب">
 
 <!ENTITY pageSourceCmd.label "متن صفحه">
 <!ENTITY pageSourceCmd.accesskey "م">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "اطلاعات صفحه">
-<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.accesskey "ا">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "زبانه‌ی آینه">
-<!ENTITY mirrorTabCmd.accesskey "M">
+<!ENTITY mirrorTabCmd.accesskey "آ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ورود به تمام‌صفحه">
@@ -109,8 +109,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "تمام‌صفحه">
 <!ENTITY fullScreenCmd.accesskey "ت">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "نمایش همهٔ زبانه‌ها">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.label "نمایش همه زبانه‌ها">
+<!ENTITY showAllTabsCmd.accesskey "ه">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ورود به &syncBrand.shortName.label;">
@@ -167,16 +167,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "یافتن سرویس های به اشتراک گذاری بیشتر…">
 <!ENTITY sharePageCmd.label "به‌اشتراک‌گذاری این صفحه">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY sharePageCmd.accesskey "ب">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "به‌اشتراک‌گذاری این پیوند">
 <!ENTITY shareLink.accesskey "ب">
 <!ENTITY shareImage.label "به‌اشتراک‌گذاری این عکس">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "ب">
 <!ENTITY shareSelect.label "به‌اشتراک‌گذاری انتخاب شده">
-<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareSelect.accesskey "ب">
 <!ENTITY shareVideo.label "به‌اشتراک‌گذاری این ویدئو">
-<!ENTITY shareVideo.accesskey "r">
+<!ENTITY shareVideo.accesskey "ب">
 <!ENTITY feedsMenu2.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenupopup.label "آبونه شدن در این صفحه">
 <!ENTITY subscribeToPageMenuitem.label "آبونه شدن در این صفحه…">
@@ -186,7 +186,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "نشانک‌‌های دیگر">
 <!ENTITY bookmarksToolbarChevron.tooltip "نشانک‌های بیشتری نمایش داده شود">
 <!ENTITY showRecentlyBookmarked.label     "نمایش اخیرا نشانک‌گذاری شده">
-<!ENTITY showRecentlyBookmarked.accesskey "h">
+<!ENTITY showRecentlyBookmarked.accesskey "ن">
 <!ENTITY hideRecentlyBookmarked.label     "مخفی کردن نشانک‌گذاری‌های اخیر">
 <!ENTITY hideRecentlyBookmarked.accesskey "م">
 
@@ -260,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ابزارها">
-<!ENTITY toolsMenu.accesskey          "T"> 
+<!ENTITY toolsMenu.accesskey          "ا"> 
 
 <!ENTITY keywordfield.label           "اضافه کردن یک کلیدواژه به این جست‌وجو…">
 <!ENTITY keywordfield.accesskey       "ک">
@@ -273,8 +273,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "ا">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "توسعه‌دهندۀ وب">
-<!ENTITY webDeveloperMenu.accesskey   "W">
+<!ENTITY webDeveloperMenu.label       "توسعه‌دهنده وب">
+<!ENTITY webDeveloperMenu.accesskey   "و">
 
 <!ENTITY inspectContextMenu.label     "بازرسی عناصر">
 <!ENTITY inspectContextMenu.accesskey "Q">
@@ -294,10 +294,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY editMenu.accesskey       "و"> 
 <!ENTITY undoCmd.label            "برگردان">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.accesskey          "ب"> 
 <!ENTITY redoCmd.label            "از نو">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.accesskey          "ا"> 
 <!ENTITY cutCmd.label           "بریدن">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ب"> 
@@ -312,11 +312,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.accesskey        "ح"> 
 <!ENTITY selectAllCmd.label         "انتخاب همه">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.accesskey       "ه"> 
 <!ENTITY preferencesCmd2.label       "گزینه‌ها">
 <!ENTITY preferencesCmd2.accesskey     "گ">
 <!ENTITY preferencesCmdUnix.label       "ترجیحات">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     "ت"> 
 
 <!ENTITY clearRecentHistory.label               "پاک کردن تاریخچه صفحه‌های اخیراً بازدید شده…">
 
@@ -604,14 +604,14 @@ items are mutually exclusive. -->
 <!ENTITY videoFullScreen.label       "تمام‌صفحه">
 <!ENTITY videoFullScreen.accesskey   "ت">
 <!ENTITY videoSaveImage.label        "ذخیرۀ تصویر لحظه‌ای به عنوان...">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.accesskey    "ذ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "نمایش آمار">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "ن">
 <!ENTITY videoHideStats.label        "پنهان کردن آمار">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "آ">
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
