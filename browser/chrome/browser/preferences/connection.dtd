@@ -9,7 +9,7 @@
 
 <!ENTITY  proxyTitle.label              "پیکربندی پیشکارها جهت دسترسی به اینترنت">
 <!ENTITY  noProxyTypeRadio.label        "بدون پیشکار">
-<!ENTITY  noProxyTypeRadio.accesskey    "y">
+<!ENTITY  noProxyTypeRadio.accesskey    "پ">
 <!ENTITY  systemTypeRadio.label         "استفاده از تنظیمات پیشکار سیستم">
 <!ENTITY  systemTypeRadio.accesskey     "ا">
 <!ENTITY  WPADTypeRadio.label           "تشخیص خودکار تنظیمات پیشکار برای این شبکه">
@@ -45,5 +45,5 @@
 <!ENTITY  shareproxy.label              "استفاده از این پیشکار برای همهٔ قراردادها">
 <!ENTITY  shareproxy.accesskey          "ه">
 <!ENTITY  autologinproxy.label          "اگر گذرواژه ذخیره شده است، جهت تصدیق‌هویت پیام نده">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.accesskey      "ت">
 <!ENTITY  autologinproxy.tooltip        "این گزینه در پس‌زمینه شما را در پیشکارها، زمانی که گذرواژه‌ی آنها را ذخیره کرده باشید، تصدیق‌هویت می‌کند. شما در صورتی که تصدیق‌هویت شکست بخورد مطلع خواهید شد.">

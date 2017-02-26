@@ -20,11 +20,11 @@
 <!ENTITY importFromCanary.label         "کروم قناری">
 <!ENTITY importFromCanary.accesskey     "ق">
 <!ENTITY importFromChrome.label         "کروم">
-<!ENTITY importFromChrome.accesskey     "C">
+<!ENTITY importFromChrome.accesskey     "ک">
 <!ENTITY importFromChromium.label       "کرومیوم">
 <!ENTITY importFromChromium.accesskey   "م">
 <!ENTITY importFromFirefox.label        "فایرفاکس">
-<!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFromFirefox.accesskey    "ف">
 <!ENTITY importFrom360se.label          "360 Secure Browser">
 <!ENTITY importFrom360se.accesskey      "3">
 
