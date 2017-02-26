@@ -173,12 +173,17 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+<!ENTITY options.screenshot.label            "Snímky obrazovky">
 
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
+<!ENTITY options.screenshot.clipboard.label      "Uložiť snímku obrazovky do schránky">
+<!ENTITY options.screenshot.clipboard.tooltip    "Uloží snímku obrazovky priamo do schránky">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "Prehrať zvuk spúšte fotoaparátu">
+<!ENTITY options.screenshot.audio.tooltip    "Povolí zvuk fotoaparátu pri tvorbe snímok obrazovky">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
