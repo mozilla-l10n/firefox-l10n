@@ -4,3 +4,6 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
+<!ENTITY mailViewListTitle.label "Prilagodi prikaz poruka">
+<!ENTITY viewName.label "Prikaži naziv">
+
