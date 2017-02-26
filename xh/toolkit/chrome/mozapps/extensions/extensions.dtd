@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "F">
 <!ENTITY toolsMenu.tooltip                    "Izixhobo zazo zonke izongezelelo">
 
-
+<!ENTITY getThemes.description                "Ufuna ukuphesonalayiza ibhrawza?">
+<!ENTITY getThemes.learnMore                  "Khetha amawakawaka emixholo.">
 
 <!ENTITY cmd.back.tooltip                     "Buya umva ngekhasi elinye">
 <!ENTITY cmd.forward.tooltip                  "Yiya phambili ngekhasi elinye">
