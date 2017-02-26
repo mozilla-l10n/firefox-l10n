@@ -190,6 +190,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> Aplikácia &brandShortName; sa nemohla pripojiť k adrese <span id='wrongSystemTime_URL'/>, pretože čas na vašom počítači je pravdepodobe zle nastavený. Toto bráni vytvoreniu zabezpečeného pripojenia.</p> <p>Čas na vašom počítači je nastavený na <span id='wrongSystemTime_systemDate'/>, mal by však byť nastavený na <span id='wrongSystemTime_actualDate'/>. Opravte, prosím, nastavenie času a dátumu na vašom počítači.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>Aplikácia &brandShortName; sa nemohla pripojiť k adrese <span id='wrongSystemTimeWithoutReference_URL'/>, pretože čas na vašom počítači je pravdepodobne zle nastavený. Toto bráni vytvoreniu zabezpečeného pripojenia.</p> <p>Čas na vašom počítači je nastavený na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Opravte, prosím, nastavenie času a dátumu na vašom počítači.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nezabezpečené pripojenie">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Táto stránka používa HTTP
