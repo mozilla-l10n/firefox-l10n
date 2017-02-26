@@ -57,8 +57,8 @@
 <!ENTITY cmd.showMac.label                "نمایش در یابنده">
 <!ENTITY cmd.showMac.accesskey            "ی">
 <!ENTITY cmd.retry.label                  "کوشش دوباره">
-<!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحهٔ بارگیری">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.goToDownloadPage.label       "رفتن به صفحه بارگیری">
+<!ENTITY cmd.goToDownloadPage.accesskey   "ر">
 <!ENTITY cmd.copyDownloadLink.label       "رونوشت برداشتن از پیوند بارگیری">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ش">
 <!ENTITY cmd.removeFromHistory.label      "حذف از تاریخچه">
