@@ -28,11 +28,11 @@
 <!ENTITY view.sortDescending.accesskey  "ت">
 
 <!ENTITY importBookmarksFromHTML.label     "وارد کردن نشانک‌ها از HTML...">
-<!ENTITY importBookmarksFromHTML.accesskey "I">
+<!ENTITY importBookmarksFromHTML.accesskey "و">
 <!ENTITY exportBookmarksToHTML.label       "فرستادن نشانک‌ها به HTML...">
-<!ENTITY exportBookmarksToHTML.accesskey   "E">
+<!ENTITY exportBookmarksToHTML.accesskey   "ف">
 <!ENTITY importOtherBrowser.label          "وارد کردن داده‌ها از برنامه‌های دیگر...">
-<!ENTITY importOtherBrowser.accesskey      "A">
+<!ENTITY importOtherBrowser.accesskey      "د">
 
 <!ENTITY cmd.backup.label               "پشتیبان‌گیری…">
 <!ENTITY cmd.backup.accesskey           "پ">

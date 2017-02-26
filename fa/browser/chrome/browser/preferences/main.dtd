@@ -13,23 +13,23 @@
 <!ENTITY homepage.label            "صفحهٔ خانگی">
 <!ENTITY homepage.accesskey        "خ">
 <!ENTITY useCurrentPage.label      "استفاده از صفحۀ فعلی">
-<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useCurrentPage.accesskey  "ف">
 <!ENTITY useMultiple.label         "استفاده از صفحۀ فعلی">
 <!ENTITY chooseBookmark.label      "استفاده از نشانک…">
-<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY chooseBookmark.accesskey  "ن">
 <!ENTITY restoreDefault.label      "بازگرداندن به پیش‌فرض‌">
-<!ENTITY restoreDefault.accesskey  "R">
+<!ENTITY restoreDefault.accesskey  "ب">
 
 <!ENTITY downloads.label     "بارگیری‌ها">
 
-<!ENTITY saveTo.label "ذخیرهٔ پرونده در">
-<!ENTITY saveTo.accesskey "v">
+<!ENTITY saveTo.label "ذخیره پرونده در">
+<!ENTITY saveTo.accesskey "ذ">
 <!ENTITY chooseFolderWin.label        "مرور…">
-<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderWin.accesskey    "م">
 <!ENTITY chooseFolderMac.label        "انتخاب…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "ا">
 <!ENTITY alwaysAskWhere.label         "همیشه در مورد محل ذخیره سازی سوال شود">
-<!ENTITY alwaysAskWhere.accesskey     "A">
+<!ENTITY alwaysAskWhere.accesskey     "ه">
 
 <!ENTITY alwaysCheckDefault2.label        "همیشه بررسی شود که آیا &brandShortName; مرورگر پیش‌فرض شما است یا خیر">
 <!ENTITY alwaysCheckDefault2.accesskey    "ه">
