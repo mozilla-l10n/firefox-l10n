@@ -76,15 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Postavke">
+<!ENTITY propertiesMenu.accesskey                       "P">
 <!ENTITY propertiesCmd.key                              "o">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Postavke adresara">
+<!ENTITY abPropertiesMenu.accesskey                     "a">
+<!ENTITY contactPropertiesMenu.label                    "Postavke kontakta">
+<!ENTITY contactPropertiesMenu.accesskey                "k">
+<!ENTITY mailingListPropertiesMenu.label                "Postavke mailing liste">
+<!ENTITY mailingListPropertiesMenu.accesskey            "P">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Pogled">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "N">
 <!ENTITY newlistButton.label                            "Nova lista">
 <!ENTITY newlistButton.accesskey                        "l">
-
-
-
-
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Uredi">
+<!ENTITY propertiesContext.label                        "Postavke">
+<!ENTITY propertiesContext.accesskey                    "P">
+<!ENTITY abPropertiesContext.label                      "Postavke">
+<!ENTITY abPropertiesContext.accesskey                  "P">
+<!ENTITY editContactContext.label                       "Uredi kontakt">
+<!ENTITY editContactContext.accesskey                   "e">
+<!ENTITY editMailingListContext.label                   "Uredi listu">
+<!ENTITY editMailingListContext.accesskey               "e">
 <!ENTITY newmsgButton.label                             "Piši">
 <!ENTITY newmsgButton.accesskey                         "i">
 <!ENTITY newIM.label                                    "Instant poruka">
@@ -162,9 +162,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Kreiraj novi kontakt u adresaru">
 <!ENTITY newlistButton.tooltip                          "Kreiraj novu listu">
 <!ENTITY editPropertiesButton.tooltip                   "Uredi izabranu stavku">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Uredi postavke izabranog adresara">
+<!ENTITY editContactPropertiesButton.tooltip            "Uredi izabrani kontakt">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Uredi izabranu mailing listu">
 <!ENTITY newmsgButton.tooltip                           "Pošalji email poruku">
 <!ENTITY newIM.tooltip                                  "Pošalji instant poruku ili chat">
 <!ENTITY deleteButton2.tooltip                          "Obriši izabranu stavku">
