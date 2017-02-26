@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "w">
 <!ENTITY chooseFolderMac.label        "Khetha…">
 <!ENTITY chooseFolderMac.accesskey    "a">
-
-
+<!ENTITY alwaysAskWhere.label         "Ndikubuze qho ngendawo emazigcinwe kuyo iifayile">
+<!ENTITY alwaysAskWhere.accesskey     "N">
 
 <!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">

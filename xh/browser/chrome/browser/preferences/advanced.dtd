@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Sebenzisa qho amaqhosha ekheza ukufunisela kumakhasi">
 <!ENTITY useCursorNavigation.accesskey   "a">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Khangela iteksti xa uqalisa ukuchwetheza">
+<!ENTITY searchOnStartTyping.accesskey   "t">
+<!ENTITY blockAutoReload.label           "Ndikulumkise xa iiwebhusayithi zizama ukwalathisa okanye ukulayisha iphepha">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Bonisa ukuphatha nekhibhodi xa kuyimfuneko">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka">
 <!ENTITY allowHWAccel.accesskey          "d">
-
-
+<!ENTITY checkUserSpelling.label         "Khangela upelo lwakho njengoko uchwetheza">
+<!ENTITY checkUserSpelling.accesskey     "u">
 
 <!ENTITY dataChoicesTab.label            "Okukhethwayo kwengcombolo">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Umxholo wewebhu wangaphandle kwenethiwekhi neengcombolo zomsebenzisi">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "IDatha yeSayithi">
+<!ENTITY clearSiteData.label             "Cima Yonke iDatha">
+<!ENTITY clearSiteData.accesskey         "i">
+<!ENTITY siteDataSettings.label          "Iietingi…">
+<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataLearnMoreLink.label     "Funda okungakumbi">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Hlaziya">
 
+<!ENTITY updateApplication.label         "I-&brandShortName; izihlaziyi">
 <!ENTITY updateAuto1.label               "fakela uhlaziyo ngokuzenzekela (kucetyiswa njalo: ukhuseleko olungaphezulu)">
 <!ENTITY updateAuto1.accesskey           "f">
-
-
+<!ENTITY updateCheckChoose.label         "i-Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na">
+<!ENTITY updateCheckChoose.accesskey     "K">
 <!ENTITY updateManual.label              "Ungaze ukhangele uhlaziyo (akucetyiswa oko: yingozi kukhuseleko)">
 <!ENTITY updateManual.accesskey          "U">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo">
 <!ENTITY useService.accesskey            "y">
 
+<!ENTITY autoUpdateOthers.label          "Uhlaziyo oluzenzekelayo">
 <!ENTITY enableSearchUpdate.label        "IiNjini zokukhangela">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
-
+<!ENTITY offlineStorageNotify.label               "Iyakuxelela xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
+<!ENTITY offlineStorageNotify.accesskey           "I">
 <!ENTITY offlineStorageNotifyExceptions.label     "Izinxaxhi…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "z">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Izatifikethi">
 <!ENTITY certPersonal.label              "Izicelo">
-
+<!ENTITY certPersonal.description        "Xa iseva icela isatifikethi sakho:">
 <!ENTITY selectCerts.auto                "Khetha esinye ngokuzenzekela">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Iyakubuza ngawo onke amaxesha">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Buza iiseva zomphenduli ze-OCSP ukuqinisekisa ukugqibelela kwangoku kwezatifikethi">
 <!ENTITY enableOCSP.accesskey            "B">
 <!ENTITY viewCerts.label                 "Bona izatifikethi">

@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Yigqithe imibala echazwe ngokwamaphepha owakhethe ngasentla:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "Y">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Qho">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Ezo zinemixholo engameleneyo kakhulu kuphela">
