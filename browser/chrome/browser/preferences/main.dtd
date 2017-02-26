@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Xa i-&brandShortName; iqalisa:">
 <!ENTITY startupPage.accesskey     "a">
-
+<!ENTITY startupUserHomePage.label "Bonisa iphepha lakho lokuqala">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
-
+<!ENTITY startupPrevSession.label  "Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam">
 
 <!ENTITY homepage.label            "Phepha laseKhaya:">
 <!ENTITY homepage.accesskey        "P">

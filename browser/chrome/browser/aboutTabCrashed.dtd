@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Faka idilesi ye-imeyili yakho apha">
 <!ENTITY tabCrashed.emailMe "Ndithumelele i-imeyili xa ifumaneka inkcazelo engakumbi">
 <!ENTITY tabCrashed.reportSent "Ingxelo yokonakala sele ifakiwe, enkosi ngokunceda ekwenzeni i-&brandShortName; bhetele!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "Xela iithebhu zemvelaphi">
+<!ENTITY tabCrashed.autoSubmit2 "Hlaziya iiprefrensi ukuze ngokuzenzekelayo zithumele ingxelo yokukhrsha, iingxelo zeethebhu zemvelaphi ezikhreshileyo zale seshoni neeseshoni zexesha elizayo">

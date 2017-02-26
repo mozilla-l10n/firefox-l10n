@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Ukubhrawuza Kwangasese">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "akukwenzi ungaziwa igama lakho">
 <!ENTITY aboutPrivateBrowsing.note.after                 "kwi-intanethi. Umqeshi wakho okanye umnikezeli wakho we-Intanethi useza kuwazi amaphepha owatyelelayo.">
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Funda okungakumbi">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Ukubhrawuza Kwangasese">
 
 
 <!ENTITY trackingProtection.title                        "Itreka Ukhuseleko">
