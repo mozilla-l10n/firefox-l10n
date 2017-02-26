@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Informujte ma, keď budú dostupné ďalšie informácie">
 <!ENTITY tabCrashed.reportSent "Správa o zlyhaní už bola odoslaná. Ďakujeme, že pomáhate urobiť &brandShortName; lepším!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Nahlásiť karty na pozadí">
+<!ENTITY tabCrashed.autoSubmit2 "Nastaviť automatické odosielanie správ o zlyhaní, vrátane informácií o kartách z tejto relácie a z budúcich relácii">
