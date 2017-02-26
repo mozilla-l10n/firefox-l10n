@@ -76,8 +76,8 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-
-
+<!ENTITY propertiesMenu.label                           "Īpašības">
+<!ENTITY propertiesMenu.accesskey                       "p">
 <!ENTITY propertiesCmd.key                              "i">
 
 
@@ -136,11 +136,11 @@ because displayed names don't have the comma in between. -->
 
 
 
-
-
-
-
-
+<!ENTITY editPropertiesButton.label                     "Rediģēt">
+<!ENTITY propertiesContext.label                        "Īpašības">
+<!ENTITY propertiesContext.accesskey                    "p">
+<!ENTITY abPropertiesContext.label                      "Īpašības">
+<!ENTITY abPropertiesContext.accesskey                  "p">
 
 
 

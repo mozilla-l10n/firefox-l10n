@@ -31,5 +31,5 @@
 
 
 <!-- Strings for the cert picker dialog -->
-
+<!ENTITY certPicker.info  "Sertifikāts:">
 

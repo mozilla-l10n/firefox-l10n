@@ -4,7 +4,7 @@
 
 
 
-
-
+<!ENTITY editKeywordButton1.label         "Rediģēt...">
+<!ENTITY editKeywordButton1.accesskey     "e">
 <!ENTITY removeKeywordButton.label        "Dzēst">
 <!ENTITY removeKeywordButton.accesskey    "D">
