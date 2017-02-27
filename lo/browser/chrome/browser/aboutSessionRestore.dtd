@@ -5,8 +5,11 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
+<!ENTITY restorepage.tryThis        "ທ່ານສາມາດລອງ:">
 
+<!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "ອອກ">
+<!ENTITY restorepage.close.access   "C">
 
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 
@@ -14,7 +17,9 @@
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
      not for about:sessionstore -->
 
+<!ENTITY welcomeback2.restoreButton.access "L">
 
+<!ENTITY welcomeback2.tabtitle      "ສຳເລັດ!">
 
 
 
