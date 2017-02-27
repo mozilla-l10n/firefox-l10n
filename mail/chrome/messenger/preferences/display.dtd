@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label    "Las etiquetas pueden ser usadas para categorizar y priorizar sus mensajes.">
-<!ENTITY addTagButton.label       "Agregar">
-<!ENTITY addTagButton.accesskey   "A">
-<!ENTITY editTagButton.label      "Editar">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY newTagButton.label        "Nueva…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Editar…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label    "Borrar">
 <!ENTITY removeTagButton.accesskey "B">
 
