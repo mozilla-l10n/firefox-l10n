@@ -15,7 +15,7 @@
 <!-- Manage Account -->
 
 <!ENTITY manageAccount.label          "تنظیم حساب کاربری">
-<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY manageAccount.accesskey      "ت">
 <!ENTITY changePassword2.label        "تغییر گذرواژه">
 <!ENTITY myRecoveryKey.label          "کلید بازیابی من">
 <!ENTITY resetSync2.label             "تنظیم دوبارۀ همگامی">
