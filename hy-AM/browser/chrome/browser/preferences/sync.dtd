@@ -25,8 +25,8 @@
 <!ENTITY syncMy.label               "Սինք իմ՝">
 <!ENTITY engine.bookmarks.label     "Էջանիշերը">
 <!ENTITY engine.bookmarks.accesskey "ն">
-
-
+<!ENTITY engine.tabs.label2         "Բացել ներդիրներ">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Պատմությունը">
 <!ENTITY engine.history.accesskey   "թ">
 <!ENTITY engine.passwords.label     "Գաղտնաբառերը">

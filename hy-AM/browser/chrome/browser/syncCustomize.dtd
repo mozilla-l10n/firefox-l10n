@@ -17,8 +17,8 @@
 <!ENTITY engine.bookmarks.accesskey       "ի">
 <!ENTITY engine.history.label             "Պատմություն">
 <!ENTITY engine.history.accesskey         "ւ">
-
-
+<!ENTITY engine.tabs.label2               "Բացել ներդիրները">
+<!ENTITY engine.tabs.accesskey            "T">
 <!ENTITY engine.passwords.label           "Գաղտնաբառեր">
 <!ENTITY engine.passwords.accesskey       "Գ">
 <!ENTITY engine.addons.label              "Դեսքթոփի Հավելումներ">
