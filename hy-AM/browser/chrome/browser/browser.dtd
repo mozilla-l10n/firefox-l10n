@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "Շ">
 <!ENTITY openFrameCmd.label           "Շրջանակը բացել նոր պատուհանում">
 <!ENTITY openFrameCmd.accesskey       "Շ">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Բացել հղումը Նոր Պարունակ Ներդիրում">
+<!ENTITY openLinkCmdInContainerTab.accesskey "դ">
 <!ENTITY showOnlyThisFrameCmd.label     "Ցուցադրել միայն այս շրջանակը">
 <!ENTITY showOnlyThisFrameCmd.accesskey "Ց">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -774,7 +774,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Պատճենել">
 <!ENTITY syncedTabs.context.copy.accesskey                   "Պ">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Բացել Բոլորը Ներդիրներում">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Բ">
 
 
 <!ENTITY syncBrand.shortName.label    "Սինք">

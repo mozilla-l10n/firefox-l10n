@@ -23,9 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Գաղտնի Դիտարկումը ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "չի դարձնում ձեզ անանուն">
 <!ENTITY aboutPrivateBrowsing.note.after                 " համացանցում: Ձեր գործատուն կամ ինտերնետի մատակարարը դեռ կարող է հետագծել ձեր այցելած էջերը:">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Իմացեք ավելին՝">
 
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Պաշտպանություն հետագծումից">
 <!ENTITY trackingProtection.description2                 "Որոշ կայքեր օգտագործում են հետագծումներ, որոնք կարող են հետևել ձեր ակտիվությանը համացանցում: Հետագծման պաշտպանությունը Firefox-ում հնարավորություն է տալիս արգելափակել հետագծումները, որոնք կարող են հավաքել տեղեկություններ ձեր դիտարկումների մասին:">

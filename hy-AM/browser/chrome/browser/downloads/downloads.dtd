@@ -46,7 +46,7 @@
 <!ENTITY cmd.pause.accesskey              "դ">
 <!ENTITY cmd.resume.label                 "Շարունակել">
 <!ENTITY cmd.resume.accesskey             "Շ">
-
+<!ENTITY cmd.cancel.label                 "Չեղարկել">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
