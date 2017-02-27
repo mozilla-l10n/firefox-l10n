@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Վերագրել էջում հատկորոշված գույները հետևյալ նշվածներով՝">
+<!ENTITY  overrideDefaultPageColors.accesskey    "Վ">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Միշտ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Միայն Բարձր ցայտունության ձևավորումների համար">

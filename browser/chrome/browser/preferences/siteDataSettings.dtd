@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY     window.title                  "Կարգավորումներ՝ կայքի տվյալ">
+<!ENTITY     settings.description          "Հետևյալ կայքերը հարցում են կատարել՝ հիշասարքում տվյալներ պահելու համար: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են պահել տվյալներ: Ըստ լռելյայնի՝ կայքի տվյալները ժամանակավոր են և չեն կարող ինքնաբար ջնջվել:">
+<!ENTITY     hostCol.label                 "Կայքը">
 
 
 
