@@ -90,11 +90,11 @@
 <!ENTITY  dontrememberActions.clearHistory.label "تمام تاریخچهٔ موجود را پاک کنید">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "همیشه از حالت &quot;مرور مخفیانه&quot; استفاده کن">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.label "همیشه از حالت  مرور خصوصی استفاده کن">
+<!ENTITY  privateBrowsingPermanent2.accesskey "م">
 
 <!ENTITY  rememberHistory2.label      "مرور و بارگذاری های مرا به خاطر بسپار">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "خ">
 
 <!ENTITY  rememberSearchForm.label       "اطلاعاتی که در فرم‌های صفحات وب و نوار جست‌وجو وارد می‌شوند به خاطر سپرده شود">
 <!ENTITY  rememberSearchForm.accesskey   "ط">

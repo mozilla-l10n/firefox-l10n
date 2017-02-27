@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "خ">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "به من در مورد نرم‌افزارهای نامطلوب و غیرمعمول اخطار بده">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "ن">
 
 <!ENTITY  addonExceptions.label         "استثناها…">
 <!ENTITY  addonExceptions.accesskey     "ت">

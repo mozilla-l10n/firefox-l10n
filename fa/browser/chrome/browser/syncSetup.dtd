@@ -48,7 +48,7 @@
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; به حریم خصوصی شما اهمیت میدهد">
 <!ENTITY setup.newRecoveryKeyPage.description.label "برای حفظ اطمینان از محفوظ ماندن اطلاعات خصوصی شما، تمام این اطلاعات پیش از ارسال به صورت رمز درمی‌آید. کلید لازم برای رمزگشایی از اطلاعات شما ارسال نخواهد گردید.">
 <!ENTITY recoveryKeyEntry.label        "کلید بازیابی شما">
-<!ENTITY recoveryKeyEntry.accesskey    "K">
+<!ENTITY recoveryKeyEntry.accesskey    "ک">
 <!ENTITY syncGenerateNewKey.label  "ایجاد کلید جدید">
 <!ENTITY recoveryKeyBackup.description "شما برای دسترسی به &syncBrand.fullName.label; در دستگاه‌های دیگر، به کلید بازیابی خود نیاز دارید. لطفا یک نسخۀ پشتیبان تهیۀ کنید. ما نمیتوانیم در بازیافت کلید بازیابی شما کمکی بکنیم.">
 
