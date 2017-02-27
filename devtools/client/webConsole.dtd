@@ -96,7 +96,7 @@
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
 <!ENTITY clearOutputCtrl.key  "L">
-<!ENTITY openInVarViewCmd.label "Vula &amp; ukuJonga iiVeriyebhuli">
+<!ENTITY openInVarViewCmd.label "Vula ukuJonga iiVeriyebhuli">
 <!ENTITY openInVarViewCmd.accesskey "V">
 <!ENTITY storeAsGlobalVar.label "Gcina njengeyahlukeneyo yehlabathi">
 <!ENTITY storeAsGlobalVar.accesskey "G">
