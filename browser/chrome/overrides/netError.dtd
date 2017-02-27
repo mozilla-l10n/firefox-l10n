@@ -30,7 +30,7 @@
 <!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը:</p>">
 
-
+<!ENTITY captivePortal.longDesc "<p>Այս ցանցը կարող է պահանջել մուտք գործել՝ համացանցից օգտվելու համար։</p>">
 
 <!ENTITY openPortalLoginPage.label "Բացել մուտքի էջը">
 
