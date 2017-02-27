@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Tejto stránke ste zakázali zdieľanie vašej obrazovky.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tejto stránke ste zakázali ukladať údaje do vášho počítača.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať oznámenia.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 

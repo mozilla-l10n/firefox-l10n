@@ -7,14 +7,14 @@
 <!ENTITY  blockPopups.label           "Blokovať nevyžiadané vyskakovacie okná">
 <!ENTITY  blockPopups.accesskey       "B">
 
-<!ENTITY  notificationsPolicy.label            "Upozornenia">
+<!ENTITY  notificationsPolicy.label            "Oznámenia">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ďalšie informácie">
-<!ENTITY  notificationsPolicyDesc3.label       "Vyberte, ktoré stránky majú povolené vám posielať upozornenia">
+<!ENTITY  notificationsPolicyDesc3.label       "Vyberte, ktoré stránky majú povolené vám posielať oznámenia">
 <!ENTITY  notificationsPolicyButton.accesskey  "Z">
-<!ENTITY  notificationsPolicyButton.label      "Zvoliť…">
+<!ENTITY  notificationsPolicyButton.label      "Vybrať…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nevyrušujte ma">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Nezobrazovať žiadne upozornenia kým nereštartujete svoj &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Do reštartu prehliadača &brandShortName; sa nebudú zobrazovať žiadne oznámenia">
 
 <!ENTITY  popupExceptions.label       "Výnimky…">
 <!ENTITY  popupExceptions.accesskey   "k">
