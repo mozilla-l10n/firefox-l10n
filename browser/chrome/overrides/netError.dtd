@@ -200,6 +200,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; hat gjin ferbining mei <span id='wrongSystemTime_URL'/> makke, omdat de klok fan jo kompjûter de ferkearde tiid liket oan te jaan, en dit komt in befeilige ferbining tefoar.</p> <p>Jo kompjûter is ynsteld op <span id='wrongSystemTime_systemDate'/>, wylst dit <span id='wrongSystemTime_actualDate'/> wêze moatte soe. Wizigje jo datum- en tiidsynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; hat gjin ferbining mei <span id='wrongSystemTimeWithoutReference_URL'/> makke, omdat de klok fan jo kompjûter de ferkearde tiid liket oan te jaan, en dit komt in befeilige ferbining tefoar.</p> <p>Jo kompjûter is ynsteld op <span id='wrongSystemTimeWithoutReference_systemDate'/>. Wizigje jo datum- en tiidsynstellingen nei de krekte tiid om dit probleem te ferhelpen.</p>">
 
 <!ENTITY certerror.pagetitle1  "Net-befeilige ferbining">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Dizze website makket gebrûk
