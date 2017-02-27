@@ -27,7 +27,7 @@
 <!-- Edit menu items -->
 
 <!ENTITY publishSettings.label "انتشار پیکربندی سایت...">
-<!ENTITY publishSettings.accesskey "b">
+<!ENTITY publishSettings.accesskey "ا">
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "جدید">
