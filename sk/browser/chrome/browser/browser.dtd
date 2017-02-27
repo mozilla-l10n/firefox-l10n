@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Otvorí panel správ offline úložiska">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvorí panel správ uloženia hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
-<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať oznámenia">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať upozornenia">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.screenBlocked.tooltip            "Tejto stránke ste zakázali zdieľanie vašej obrazovky.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tejto stránke ste zakázali ukladať údaje do vášho počítača.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať oznámenia.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
