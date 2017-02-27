@@ -25,6 +25,7 @@
 <!ENTITY rights.intro-point2c ".">
 
 <!-- point 2d is technically point 3. in the list -->
+<!ENTITY rights.intro-point2d "Some features in &brandShortName;, such as the Crash Reporter, give you the option to provide feedback to &vendorShortName;. By choosing to submit feedback, you give &vendorShortName; and Mozilla permission to use the feedback to improve their applications, to publish the feedback on their websites, and to distribute the feedback.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights.intro-point3a "Las políticas de privacidad para los productos de &vendorShortName; pueden encontrarse ">
