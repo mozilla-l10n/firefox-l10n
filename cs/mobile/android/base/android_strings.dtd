@@ -466,7 +466,7 @@ size. -->
 <!ENTITY share_image_failed "Obrázek se nepodařilo sdílet">
 <!ENTITY save_as_pdf "Uložit jako PDF">
 <!ENTITY print "Tisk">
-<!ENTITY find_in_page "Najít ve stránce">
+<!ENTITY find_in_page "Najít na stránce">
 <!ENTITY desktop_mode "Desktopová verze">
 <!ENTITY page "Stránka">
 <!ENTITY tools "Nástroje">
@@ -482,7 +482,7 @@ size. -->
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Najít ve stránce">
+<!ENTITY find_text "Najít na stránce">
 <!ENTITY find_prev "Předchozí">
 <!ENTITY find_next "Další">
 <!ENTITY find_close "Zavřít">
