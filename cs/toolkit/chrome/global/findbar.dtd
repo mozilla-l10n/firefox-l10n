@@ -13,7 +13,7 @@
 <!ENTITY highlightAll.tooltiptext "Zvýrazní všechny výskyty hledaného textu">
 <!ENTITY caseSensitive.label "Rozlišovat velikost">
 <!ENTITY caseSensitive.accesskey "R">
-<!ENTITY caseSensitive.tooltiptext "Rozlišuje velikost textu">
+<!ENTITY caseSensitive.tooltiptext "Zohlední se velikost písmen">
 <!ENTITY entireWord.label "Celá slova">
 <!ENTITY entireWord.accesskey "C">
 <!ENTITY entireWord.tooltiptext "Najde pouze celá slova">
