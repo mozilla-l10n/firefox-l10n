@@ -23,6 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "사생활 보호 브라우징이 ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "사용자를 인터넷에서 완전히 감추는 것은">
 <!ENTITY aboutPrivateBrowsing.note.after                 " 아닙니다. 고용주나 인터넷 서비스 제공자는 여전히 방문한 페이지를 알 수 있습니다.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "더 알아보기 ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "사생활 보호 모드">
 
 <!ENTITY trackingProtection.title                        "추적 보호">
 <!ENTITY trackingProtection.description2                 "어떤 사이트들은 사용자의 인터넷 활동을 추적할 수 있는 방법을 사용합니다. Firefox의 추적 방지 기능은 사용자 브라우징 행동을 수집하는 다양한 추적 방법을 막아줍니다.">
