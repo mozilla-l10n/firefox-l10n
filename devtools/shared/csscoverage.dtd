@@ -22,6 +22,8 @@
 <!ENTITY csscoverage.noMatches "لم تُعثر على مطابقات للقواعد الآتية:">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.header):
   -  This is the heading for the CSS optimization part of the report -->
+
+<!ENTITY csscoverage.optimize.header "صفحات قابلة للتحسين">
 <!-- LOCALIZATION NOTE (csscoverage.preload1, csscoverage.preload2,
   -  csscoverage.preload3): These 3 are part of a paragraph with 1 and 2
   -  separated by a styled <link> tag and 2 and 3 separated by a styled
