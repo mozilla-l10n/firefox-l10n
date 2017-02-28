@@ -64,7 +64,7 @@
 <!ENTITY  showCookies.label             "نمایش کوکی‌ها…">
 <!ENTITY  showCookies.accesskey         "ک">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "تاریخچه را به خاطر خواهد داشت">
 <!ENTITY  historyHeader.dontremember.label "هرگز تاریخچه را به خاطر نمی‌سپارد">

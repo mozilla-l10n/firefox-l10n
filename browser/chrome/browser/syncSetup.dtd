@@ -30,7 +30,7 @@
 <!ENTITY setup.emailAddress.label     "نشانی پست الکترونیکی">
 <!ENTITY setup.emailAddress.accesskey "ن">
 <!ENTITY setup.choosePassword.label      "یک گذرواژه انتخاب نمایید">
-<!ENTITY setup.choosePassword.accesskey  "P">
+<!ENTITY setup.choosePassword.accesskey  "ی">
 <!ENTITY setup.confirmPassword.label     "تأیید گذرواژه">
 <!ENTITY setup.confirmPassword.accesskey "ت">
 <!-- LOCALIZATION NOTE: tosAgree1, tosLink, tosAgree2, ppLink, tosAgree3 are
@@ -80,7 +80,7 @@
 
 <!ENTITY setup.optionsPage.title      "گزینه‌های هم‌گام‌سازی">
 <!ENTITY syncDeviceName.label       "نام دستگاه">
-<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY syncDeviceName.accesskey   "د">
 
 <!ENTITY syncMy.label               "موارد هم‌گام‌سازی:">
 <!ENTITY engine.bookmarks.label     "نشانک‌ها">
