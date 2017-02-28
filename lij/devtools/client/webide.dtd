@@ -190,6 +190,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Se l'atro dispoxitivo domanda un token invece da scanscion de 'n còdice QR, scrivi o segoente còdice:">
+<!ENTITY wifi_auth_qr_size_note "Se o còdice QR o pâ tròppo picin pe stabilî 'na conescion bonn-a, preuva a fâ un zoom ò ingrandî o barcon.">
 
 <!-- Logs panel -->
 <!ENTITY logs_title "Registro comandi pre-packaging">
@@ -206,3 +207,6 @@
 <!ENTITY simulator_device "Dispoxitivo">
 <!ENTITY simulator_screenSize "Schermo">
 <!ENTITY simulator_pixelRatio "Proporçioin pixel">
+<!ENTITY simulator_tv_data "Simolaçion TV">
+<!ENTITY simulator_tv_data_open "Configuraçion Dæti">
+<!ENTITY simulator_tv_data_open_button "Arvi cartella configuraçion…">
