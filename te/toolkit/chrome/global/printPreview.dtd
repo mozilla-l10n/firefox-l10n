@@ -34,10 +34,10 @@
 <!ENTITY customPrompt.title   "ఇష్టానుసారమైన స్కేలు...">
 <!ENTITY simplifyPage.label   "పేజీని సులభతరం చేయి">
 <!ENTITY simplifyPage.accesskey "i">
-<!ENTITY simplifyPage.enabled.tooltip  "సులభంగా పఠనం కోసం లేఅవుట్ను మార్చండి">
+<!ENTITY simplifyPage.enabled.tooltip  "సులభంగా పఠనం కోసం మూలాలను మార్చండి">
 <!ENTITY simplifyPage.disabled.tooltip "ఈ పేజీ స్వయంచాలకంగా సరళీకృత సాధ్యం కాదు">
 
 <!ENTITY homearrow.tooltip    "మొదటి పేజీ">
 <!ENTITY endarrow.tooltip     "చివరి పేజీ">
 <!ENTITY nextarrow.tooltip    "తరువాతి పేజీ">
-<!ENTITY previousarrow.tooltip "క్రితం పేజీ">
+<!ENTITY previousarrow.tooltip "మునుపటి పేజీ">
