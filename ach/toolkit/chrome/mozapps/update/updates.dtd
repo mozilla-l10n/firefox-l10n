@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Ngec manyen:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Ngec manyen biketo ikare mabino teke &brandShortName; ocake. I romo cako &brandShortName; odoco kombedi, onyo mede ki tic kadong i cako odoco lacen.">
-
+<!ENTITY  finishedBackground.moreElevated "Ngec manyen man mito twero pa laloc. Ki biketo ngec manyen ne lacen ka &brandShortName; ocake. Itwero nwoyo cako &brandShortName; kombedi, mede ki tic kadong i cako lacen, onyo kwero ngec manyen man.">
 
 <!ENTITY  update.details.label            "Matut">
 <!ENTITY  update.installedOn.label        "Kiketo iwi:">
