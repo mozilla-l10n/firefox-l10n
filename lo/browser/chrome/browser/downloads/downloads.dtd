@@ -113,11 +113,13 @@
 <!ENTITY openDownloadsFolder.label       "ເປີດໂຟນເດີສຳລັບການດາວໂຫລດ">
 
 <!ENTITY clearDownloadsButton.label       "ລ້າງການດາວໂຫລດ">
+<!ENTITY clearDownloadsButton.tooltip     "ລ້າງການດາວໂຫລດທີ່ສຳເລັດແລ້ວ, ທີ່ຖືກຍົກເລີກ ແລະ ການດາວໂຫລດທີ່ລົ້ມເຫລວ.">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.
      -->
+<!ENTITY downloadsListEmpty.label         "ບໍ່ມີການດາວໂຫລດ">
 
 <!-- LOCALIZATION NOTE (downloadsPanelEmpty.label):
      This string is shown when there are no items in the Downloads Panel.
@@ -127,3 +129,4 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
+<!ENTITY downloadsListNoMatch.label       "ບໍ່ສາມາດຊອກຫາການດາວໂຫລດຂໍ້ມູນໃດໆທີ່ກົງກັນ.">
