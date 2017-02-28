@@ -5,6 +5,7 @@
 <!-- LOCALIZATION NOTE (downloads.title):
      Used by screen readers to describe the Downloads Panel.
      -->
+<!ENTITY downloads.title                  "ດາວໂຫລດ">
 
 <!-- LOCALIZATION NOTE (downloadDetails.width):
      Width of details for a Downloads Panel item (which directly influences the
@@ -24,6 +25,7 @@
      the hovering case for an item or an action button.
      Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
      -->
+<!ENTITY downloadDetails.width            "50 ch">
 
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
@@ -38,49 +40,79 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
+<!ENTITY downloadsSummary.minWidth2       "21 ch">
 
 <!ENTITY cmd.pause.label                  "ຢຸດ">
 <!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.resume.label                 "ດຳເນີນການຕໍ່">
+<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.cancel.label                 "ຍົກເລີກ">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
+<!ENTITY cmd.show.label                   "ເປີດໂຟນເດີທີ່ບັນຈຸ">
+<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.showMac.label                "ສະແດງໃນ Finder">
+<!ENTITY cmd.showMac.accesskey            "F">
+<!ENTITY cmd.retry.label                  "ລອງໃຫມ່ອີກຄັ້ງ">
+<!ENTITY cmd.goToDownloadPage.label       "ໄປທີ່ຫນ້າດາວໂຫລດ">
+<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.copyDownloadLink.label       "ສຳເນົາລີ້ງກ໌ດາວໂຫລດ">
+<!ENTITY cmd.copyDownloadLink.accesskey   "​L​​">
+<!ENTITY cmd.removeFromHistory.label      "ລຶບອອກຈາກລາຍການ">
+<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "ລ້າງ Panel ການສະແດງຕົວຢ່າງ">
+<!ENTITY cmd.clearList2.accesskey         "a">
+<!ENTITY cmd.clearDownloads.label         "ລ້າງການດາວໂຫລດ">
+<!ENTITY cmd.clearDownloads.accesskey     "D​">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
+<!ENTITY cmd.unblock2.label               "ອະນຸຍາດການດາວໂຫລດ">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
+<!ENTITY cmd.removeFile.label             "ລົບໄຟລອອກ">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "ລົບໄຟລອອກ ຫລື ອະນຸຍາດໃຫ້ດາວໂຫລດ">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "ເປີດໄຟລ ຫລື ລົບໄຟລ">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY blocked.label                    "BLOCKED">
 
 <!-- LOCALIZATION NOTE (learnMore.label):
      Shown as a text link for some types of blocked downloads, for example
      malware, when there is an associated explanation page on the Mozilla site.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
      -->
+<!ENTITY learnMore.label                  "ຮຽນຮູ້ເພີ່ມເຕີມ">
 
 <!-- LOCALIZATION NOTE (downloadsHistory.label, downloadsHistory.accesskey):
      This string is shown at the bottom of the Downloads Panel when all the
      downloads fit in the available space, or when there are no downloads in
      the panel at all.
      -->
+<!ENTITY downloadsHistory.label           "ສະແດງການດາວໂຫລດທັງຫມົດ">
+<!ENTITY downloadsHistory.accesskey       "S​">
 
+<!ENTITY openDownloadsFolder.label       "ເປີດໂຟນເດີສຳລັບການດາວໂຫລດ">
 
+<!ENTITY clearDownloadsButton.label       "ລ້າງການດາວໂຫລດ">
 
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
