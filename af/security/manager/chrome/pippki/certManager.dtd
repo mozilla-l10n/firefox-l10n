@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                       "U het sertifikate op rekord wat hierdie mense identifiseer:">
 <!ENTITY certmgr.websites2                    "U het sertifikate op rekord wat hierdie bedieners identifiseer:">
 <!ENTITY certmgr.cas                          "U het sertifikate op rekord wat hierdie sertifikaatowerhede identifiseer:">
-<!ENTITY certmgr.orphans                      "U het sertifikaat op rekord wat nie by enige van die ander kategorieë pas nie:">
+<!ENTITY certmgr.orphans                      "U het sertifikate op rekord wat nie by enige van die ander kategorieë pas nie:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Algemeen">
 <!ENTITY certmgr.detail.general_tab.accesskey "A">
