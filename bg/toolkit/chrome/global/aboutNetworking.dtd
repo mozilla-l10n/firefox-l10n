@@ -16,7 +16,7 @@
 <!ENTITY aboutNetworking.port                  "Порт">
 <!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
-<!ENTITY aboutNetworking.active                "Активен">
+<!ENTITY aboutNetworking.active                "Включен">
 <!ENTITY aboutNetworking.idle                  "Бездействащ">
 <!ENTITY aboutNetworking.host                  "Хост">
 <!ENTITY aboutNetworking.tcp                   "TCP">
