@@ -10,7 +10,8 @@
 
 
 
-
+<!ENTITY switchLinksToNewTabs.label        "Ka iyabo kakube iyie dirica manyen, lokke iye cut">
+<!ENTITY switchLinksToNewTabs.accesskey    "a">
 
 <!ENTITY showTabsInTaskbar.label          "Nyut nen me dirica matino iye gintic me Dirica">
 <!ENTITY showTabsInTaskbar.accesskey      "t">

@@ -121,7 +121,7 @@ was trying to connect. -->
 
 <!ENTITY certerror.pagetitle1  "Kube ma pe ki ber bedo">
 
-
+<!ENTITY certerror.copyToClipboard.label "Lok coc i bao coc">
 
 <!ENTITY inadequateSecurityError.title "Kube ni pe tye ki ber bedo">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
