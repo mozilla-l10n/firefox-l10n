@@ -78,7 +78,7 @@
 <!ENTITY unsafeContentType.title "Опасен вид файл">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
-<!ENTITY netReset.title "Връзката беше прекъсната">
+<!ENTITY netReset.title "Връзката е прекъсната">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "Времето за изчакване при свързване изтече">
