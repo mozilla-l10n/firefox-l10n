@@ -59,7 +59,7 @@
 <!ENTITY updateCheck.accesskey           "П">
 <!ENTITY updateManual.label              "Никога не проверява за обновявания (не се препоръчва: риск по безопасността)">
 <!ENTITY updateManual.accesskey          "Н">
-<!ENTITY updateHistory.label             "Показване на историята на обновяванията">
+<!ENTITY updateHistory.label             "История на обновяванията">
 <!ENTITY updateHistory.accesskey         "о">
 
 <!ENTITY useService.label                "Използване на фонова услуга за инсталиране на обновявания">
