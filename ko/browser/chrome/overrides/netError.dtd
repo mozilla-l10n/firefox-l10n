@@ -200,6 +200,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>사용자 컴퓨터의 시계가 맞지 않기 때문에 보안 연결을 할 수 없어서 &brandShortName;가 <span id='wrongSystemTime_URL'/>에 연결하지 않았습니다.</p> <p><span id='wrongSystemTime_actualDate'/>여야 하지만 <span id='wrongSystemTime_systemDate'/>로 설정되어 있습니다. 올바른 날짜와 시간을 설정해 주세요.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>사용자 컴퓨터의 시계가 맞지 않기 때문에 보안 연결을 할 수 없어서 &brandShortName;가 <span id='wrongSystemTimeWithoutReference_URL'/>에 연결하지 않았습니다.</p> <p><span id='wrongSystemTimeWithoutReference_systemDate'/>로 설정되어 있습니다. 올바른 날짜와 시간을 설정해 주세요.</p>">
 
 <!ENTITY certerror.pagetitle1  "안전하지 않은 연결">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "이 사이트는 &brandShortName;가 안전한 경우에만 
