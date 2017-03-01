@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "ทั่วไป">
 <!ENTITY  generalTab.accesskey  "G">
-<!ENTITY  generalTitle          "หัวข้อ:">
+<!ENTITY  generalTitle          "ชื่อ:">
 <!ENTITY  generalURL            "ที่อยู่:">
 <!ENTITY  generalType           "ชนิด:">
 <!ENTITY  generalMode           "โหมดการเรนเดอร์:">
