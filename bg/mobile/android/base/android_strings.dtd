@@ -253,10 +253,10 @@
 <!ENTITY pref_category_media "Медия">
 <!ENTITY pref_category_developer_tools "Развойни инструменти">
 
-<!ENTITY pref_tap_to_load_images_title2 "Показване на изображенията">
-<!ENTITY pref_tap_to_load_images_enabled "Винаги">
+<!ENTITY pref_tap_to_load_images_title2 "Показване на изображения">
+<!ENTITY pref_tap_to_load_images_enabled "Разрешено">
 <!ENTITY pref_tap_to_load_images_data "Само през Wi-Fi">
-<!ENTITY pref_tap_to_load_images_disabled2 "Блокиране">
+<!ENTITY pref_tap_to_load_images_disabled2 "Забранено">
 
 <!ENTITY pref_show_web_fonts "Показване на уебшрифтове">
 <!ENTITY pref_show_web_fonts_summary2 "Изтегляне на шрифтовете при отваряне на страницата">
