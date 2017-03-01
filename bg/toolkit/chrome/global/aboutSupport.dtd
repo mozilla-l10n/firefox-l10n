@@ -27,7 +27,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Описание">
 <!ENTITY aboutSupport.experimentActive "Включен">
 <!ENTITY aboutSupport.experimentEndDate "Крайна дата">
-<!ENTITY aboutSupport.experimentHomepage "Начална страница">
+<!ENTITY aboutSupport.experimentHomepage "Страница">
 <!ENTITY aboutSupport.experimentBranch "Клон">
 
 <!ENTITY aboutSupport.appBasicsTitle "Основни за приложението">
@@ -55,7 +55,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Производителност">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани скрити обслужващи страници">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Регистрирани Service Workers">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Профили">
 
