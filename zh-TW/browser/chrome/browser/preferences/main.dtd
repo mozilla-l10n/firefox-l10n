@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; 不是您的預設瀏覽器">
 
 <!ENTITY separateProfileMode.label        "允許 &brandShortName; 與 Firefox 同時執行">
-<!ENTITY useFirefoxSync.label             "秘訣: 這樣會使用不同設定檔，使用 Sync 來同步資料。">
+<!ENTITY useFirefoxSync.label             "小秘訣: 這樣會使用不同設定檔，可使用 Sync 在兩套瀏覽器間同步資料。">
 <!ENTITY getStarted.label                 "開始使用 Sync…">
 
 <!ENTITY e10sEnabled.label                "啟用多程序的 &brandShortName;">
