@@ -82,7 +82,7 @@
 <!ENTITY syncDeviceName.label       "Име на устройството:">
 <!ENTITY syncDeviceName.accesskey   "м">
 
-<!ENTITY syncMy.label               "Sync за моите">
+<!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
 <!ENTITY engine.tabs.label2         "Отворени раздели">

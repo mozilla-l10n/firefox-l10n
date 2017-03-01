@@ -4,7 +4,7 @@
 
 <!ENTITY     window.title                  "Настройки - Данни на сайтове">
 <!ENTITY     settings.description          "Следните сайтове са поискали да съхраняват данни на диска. Може да определите на кои е разрешавате да го направят. Стандартно тези данни се пазят временно и се изтриват автоматично.">
-<!ENTITY     hostCol.label                 "Страница">
+<!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Състояние">
 <!ENTITY     usageCol.label                "Хранилище">
 <!ENTITY     search.label                  "Търсене:">
