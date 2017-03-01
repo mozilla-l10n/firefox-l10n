@@ -367,7 +367,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Поставке синхронизације">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Пријавите се да видите листу језичака са других уређаја.">
 <!ENTITY appMenuRemoteTabs.signin.label "Пријави се на Sync">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи траку са синхронизованим језичцима">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Прикажи траку са син. језичцима">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додај траци">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
