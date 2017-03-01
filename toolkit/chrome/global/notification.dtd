@@ -8,3 +8,5 @@
 
 <!ENTITY learnMore "자세히 살펴보기…">
 
+<!ENTITY defaultButton.label "네!">
+<!ENTITY defaultButton.accesskey "O">
