@@ -25,7 +25,7 @@
 <!ENTITY migrating.title                "Внасяне…">
 <!ENTITY migrating.label                "Следните позиции са внесени до момента…">
 
-<!ENTITY selectProfile.title            "Избор на профил">
+<!ENTITY selectProfile.title            "Избиране на профил">
 <!ENTITY selectProfile.label            "Налични са следните профили, от които може да се внесе:">
 
 <!ENTITY done.title                     "Внасянето завършено">
