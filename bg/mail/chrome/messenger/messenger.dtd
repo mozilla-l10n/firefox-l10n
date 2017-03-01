@@ -842,7 +842,7 @@
 <!ENTITY contextPause.accesskey "П">
 <!ENTITY contextMute.label "Заглушаване">
 <!ENTITY contextMute.accesskey "З">
-<!ENTITY contextUnmute.label "Отглушаване">
+<!ENTITY contextUnmute.label "Със звук">
 <!ENTITY contextUnmute.accesskey "О">
 
 <!-- Quick Search Bar -->
