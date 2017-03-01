@@ -96,6 +96,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
+<!ENTITY performanceUI.showJITOptimizations             "Fanni vedde otimizaçioin JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Fanni vedde i dæti di otimizaçioin JIT canpionæ in ògni frame JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
