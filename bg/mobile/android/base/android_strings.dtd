@@ -213,7 +213,7 @@
 <!ENTITY pref_home_updates2 "Обновяване на съдържанието">
 <!ENTITY pref_home_updates_enabled "Включено">
 <!ENTITY pref_home_updates_wifi "Само през Wi-Fi">
-<!ENTITY pref_category_home_homepage "Начална страница">
+<!ENTITY pref_category_home_homepage "Начален екран">
 <!ENTITY home_homepage_title "Избиране на начална страница">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
