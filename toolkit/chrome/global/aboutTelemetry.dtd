@@ -99,6 +99,10 @@
   쓰레드 중단
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  스택 캡춰
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   스칼라
 ">
@@ -113,6 +117,10 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   키가 들어간 히스토그램
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  이벤트
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "

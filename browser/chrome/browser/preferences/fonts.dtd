@@ -61,6 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "명조체">
 <!ENTITY  useDefaultFontSansSerif.label           "고딕체">
 
+<!ENTITY  allowPagesToUseOwn.label                "위에 선택된 서체 대신에 페이지 폰트 설정 표시 허용">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "레거시 콘텐츠에 사용할 글자 인코딩">
 <!ENTITY languages.customize.Fallback2.label      "대체할 글자 인코딩:">
