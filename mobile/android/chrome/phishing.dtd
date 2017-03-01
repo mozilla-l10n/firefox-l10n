@@ -18,6 +18,6 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "Докладвана страница с нежелан софтуер!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "Сайтът <span id='unwanted_sitename'/> е докладван за сервиране на нежелан софтуер и беше блокиран според вашите настройки за безопасност.">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Сайтът <span id='unwanted_sitename'/> е докладван за сервиране на нежелан софтуер и е блокиран според вашите настройки за безопасност.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "Страниците с нежелан софтуер се опитват да инсталират софтуер, който подвежда и влияе по неочакван начин на вашия компютър.">
 
