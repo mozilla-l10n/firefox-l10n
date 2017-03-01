@@ -4,7 +4,7 @@
 
 <!ENTITY aboutSupport.appBasicsAppBuildID "ID έκδοσης εφαρμογής">
 
-<!ENTITY aboutSupport.accountsTitle "Λογαριασμοί Αλληλογραφίας και συζητήσεων">
+<!ENTITY aboutSupport.accountsTitle "Λογαριασμοί αλληλογραφίας και ειδήσεων">
 <!ENTITY aboutSupport.showPrivateData.mainText "Να συμπεριλαμβάνονται ονόματα λογαριασμών">
 <!ENTITY aboutSupport.showPrivateData.explanationText "(πιθανώς ταυτοποιήσιμες πληροφορίες)">
 <!ENTITY aboutSupport.accountsID "Αναγνωριστικό">
@@ -17,4 +17,4 @@
 <!ENTITY aboutSupport.accountsDefault "Προεπιλογή;">
 <!ENTITY aboutSupport.identityName "Ταυτότητα">
 
-<!ENTITY aboutSupport.sendViaEmail.label "Αποστολή μέσω email">
+<!ENTITY aboutSupport.sendViaEmail.label "Αποστολή μέσω e-mail">

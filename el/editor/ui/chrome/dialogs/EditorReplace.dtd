@@ -4,7 +4,7 @@
 
 <!-- extracted from EdReplace.xul -->
 
-<!ENTITY replaceDialog.title "Εύρεση και Αντικατάσταση">
+<!ENTITY replaceDialog.title "Εύρεση και αντικατάσταση">
 <!ENTITY findField.label "Εύρεση του κειμένου:">
 <!ENTITY findField.accesskey "κ">
 <!ENTITY replaceField.label "Αντικατάσταση με:">
@@ -15,7 +15,7 @@
 <!ENTITY wrapCheckbox.accesskey "δ">
 <!ENTITY backwardsCheckbox.label "Αναζήτηση  προς τα πίσω">
 <!ENTITY backwardsCheckbox.accesskey "π">
-<!ENTITY findNextButton.label "Εύρεση επομένου">
+<!ENTITY findNextButton.label "Εύρεση επόμενου">
 <!ENTITY findNextButton.accesskey "π">
 <!ENTITY replaceButton.label "Αντικατάσταση">
 <!ENTITY replaceButton.accesskey "Α">

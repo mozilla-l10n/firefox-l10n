@@ -10,5 +10,5 @@
 
 <!ENTITY signer.name "Υπογράφηκε από:">
 <!ENTITY recipient.name "Κρυπτογραφήθηκε για:">
-<!ENTITY email.address "Διεύθυνση Email:">
+<!ENTITY email.address "Διεύθυνση e-mail:">
 <!ENTITY issuer.name "Πιστοποιητικό εκδόθηκε από:">

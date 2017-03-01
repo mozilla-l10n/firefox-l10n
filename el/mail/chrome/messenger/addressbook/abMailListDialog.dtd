@@ -3,19 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!ENTITY mailListWindowAdd.title        "Νέα Λίστα Ταχυδρομείου">
+<!ENTITY mailListWindowAdd.title        "Νέα λίστα αλληλογραφίας">
 
 <!-- Labels and Access Keys -->
 <!ENTITY addToAddressBook.label         "Προσθήκη σε:">
 <!ENTITY addToAddressBook.accesskey     "θ">
-<!ENTITY ListName.label                 "Όνομα Λίστας:">
+<!ENTITY ListName.label                 "Όνομα λίστας: ">
 <!ENTITY ListName.accesskey             "Λ">
 <!ENTITY ListNickName.label             "Προσωνύμιο λίστας:">
 <!ENTITY ListNickName.accesskey         "ν">
 <!ENTITY ListDescription.label          "Περιγραφή:">
 <!ENTITY ListDescription.accesskey      "ε">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Εισάγετε διευθύνσεις για να τις προσθέσετε στην  λίστα αλληλογραφίας:">
+<!ENTITY AddressTitle.label             "Εισάγετε διευθύνσεις email για προσθήκη στη λίστα αλληλογραφίας:">
 <!ENTITY AddressTitle.accesskey         "τ">
 <!ENTITY UpButton.label                 "Προς τα πάνω">
 <!ENTITY DownButton.label               "Προς τα κάτω">

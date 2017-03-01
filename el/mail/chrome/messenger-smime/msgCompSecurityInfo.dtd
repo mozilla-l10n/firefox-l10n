@@ -5,7 +5,7 @@
 <!--LOCALIZATION NOTE msgCompSecurityInfo.dtd UI for viewing security status when composing a message -->
 
 <!ENTITY title.label "Ασφάλεια μηνύματος">
-<!ENTITY subject.plaintextWarning "Σημείωση: Το Θέμα στα μηνύματα αλληλογραφίας δεν κρυπτογραφείται ποτέ.">
+<!ENTITY subject.plaintextWarning "Παρακαλώ σημειώστε ότι οι γραμμές θέματος των e-mails δεν κρυπτογραφούνται ποτέ.">
 <!ENTITY status.heading "Το περιεχόμενο του μηνύματος θα αποσταλεί ως ακολούθως:">
 <!ENTITY status.signed "Με ψηφιακή υπογραφή:">
 <!ENTITY status.encrypted "Κρυπτογραφημένα:">

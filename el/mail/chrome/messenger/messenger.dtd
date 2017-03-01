@@ -26,9 +26,9 @@
 <!ENTITY newVirtualFolderCmd.accesskey "θ">
 <!ENTITY newOtherAccountsCmd.label "Άλλοι λογαριασμοί…">
 <!ENTITY newOtherAccountsCmd.accesskey "λ">
-<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού email…">
+<!ENTITY newCreateEmailAccountCmd.label "Απόκτηση νέου λογαριασμού e-mail…">
 <!ENTITY newCreateEmailAccountCmd.accesskey "γ">
-<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός email…">
+<!ENTITY newExistingEmailAccountCmd.label "Υπάρχων λογαριασμός e-mail…">
 <!ENTITY newExistingEmailAccountCmd.accesskey "χ">
 <!ENTITY newIMAccountCmd.label "Λογαριασμός συνομιλίας…">
 <!ENTITY newIMAccountCmd.accesskey "Σ">
@@ -419,7 +419,7 @@
 <!ENTITY markStarredCmd.label "Προσθήκη αστεριού">
 <!ENTITY markStarredCmd.accesskey "σ">
 <!ENTITY markStarredCmd.key "Α">
-<!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητη αλληλογραφία">
+<!ENTITY markAsJunkCmd.label "Ως ανεπιθύμητο">
 <!ENTITY markAsJunkCmd.accesskey "ν">
 <!ENTITY markAsJunkCmd.key "π">
 <!ENTITY markAsNotJunkCmd.label "Ως επιθυμητή αλληλογραφία">
@@ -450,7 +450,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
+<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες ειδήσεων">
 <!ENTITY messengerCmd.accesskey "Α">
 <!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
 <!ENTITY addressBookCmd.accesskey "ρ">
@@ -545,7 +545,7 @@
 <!ENTITY stopButton.label "Διακοπή">
 <!ENTITY throbberItem.title "Επισήμανση ενέργειας">
 <!ENTITY junkItem.title "Ανεπιθύμητα">
-<!ENTITY junkButton.label "Ανεπιθύμητα">
+<!ENTITY junkButton.label "Ανεπιθύμητο">
 <!ENTITY notJunkButton.label "Επιθυμητά">
 <!ENTITY addressBookButton.label "Ευρετήριο">
 <!ENTITY chatButton.label "Συνομιλία">
@@ -634,7 +634,7 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Λήψη μηνυμάτων">
 <!ENTITY folderContextGetMessages.accesskey "Λ">
-<!ENTITY folderContextOpenInNewWindow.label "Άνοιγμα σε Νέο Παράθυρο">
+<!ENTITY folderContextOpenInNewWindow.label "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ο">
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY folderContextOpenNewTab.accesskey "τ">
@@ -670,7 +670,7 @@
 <!ENTITY folderContextSettings2.accesskey "θ">
 
 <!-- Search Bar -->
-<!ENTITY SearchNameOrEmail.label "Τό όνομα ή το Email περιέχει:">
+<!ENTITY SearchNameOrEmail.label "Το όνομα ή το e-mail περιέχει:">
 <!ENTITY SearchNameOrEmail.accesskey "ν">
 
 <!-- Gloda Search Bar -->
@@ -888,7 +888,7 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "δ">
 <!ENTITY SendMessageTo.label "Σύνταξη μηνύματος προς">
 <!ENTITY SendMessageTo.accesskey "Σ">
-<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης email">
+<!ENTITY CopyEmailAddress.label "Αντιγραφή διεύθυνσης e-mail">
 <!ENTITY CopyEmailAddress.accesskey "γ">
 <!ENTITY CopyNameAndEmailAddress.label "Αντιγραφή ονόματος και διεύθυνσης email">
 <!ENTITY CopyNameAndEmailAddress.accesskey "ο">

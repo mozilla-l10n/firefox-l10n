@@ -91,14 +91,14 @@
 <!ENTITY findBarCmd.label "Εύρεση…">
 <!ENTITY findBarCmd.accesskey "F">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση...">
+<!ENTITY findReplaceCmd.label "Εύρεση και αντικατάσταση…">
 <!ENTITY findReplaceCmd.accesskey "ρ">
 <!ENTITY findReplaceCmd.key "F">
 <!ENTITY findAgainCmd.label "Εύρεση ξανά">
 <!ENTITY findAgainCmd.accesskey "ρ">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.label "Εύρεση Προηγουμένου">
+<!ENTITY findPrevCmd.label "Εύρεση προηγούμενου">
 <!ENTITY findPrevCmd.accesskey "ν">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
@@ -178,7 +178,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Εργαλεία">
 <!ENTITY tasksMenu.accesskey "γ">
-<!ENTITY messengerCmd.label "Αλληλογραφία &amp; Συζητήσεις">
+<!ENTITY messengerCmd.label "Αλληλογραφία &amp; ομάδες ειδήσεων">
 <!ENTITY messengerCmd.accesskey "γ">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Ευρετήριο διευθύνσεων">
@@ -230,7 +230,7 @@
 <!ENTITY fromAddr.accesskey "π">
 <!ENTITY toAddr.label "Προς:">
 <!ENTITY ccAddr.label "Κοιν:">
-<!ENTITY bccAddr.label "Κρυφ.Κοιν:">
+<!ENTITY bccAddr.label "Κρυφ. Κοιν:">
 <!ENTITY replyAddr.label "Απάντηση σε:">
 <!ENTITY newsgroupsAddr.label "Ομάδα συζήτησης:">
 <!ENTITY followupAddr.label "Συνέχεια σε:">

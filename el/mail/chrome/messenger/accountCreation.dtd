@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY autoconfigWizard.title          "Ρύθμιση λογαριασμού email">
+<!ENTITY autoconfigWizard.title          "Ρύθμιση λογαριασμού e-mail">
 <!ENTITY name.label                      "Το όνομά σας:">
 <!ENTITY name.accesskey                  "ν">
 <!ENTITY name.placeholder                "Όνομα Επίθετο">
 <!ENTITY name.text                       "Το όνομά σας, όπως θα εμφανίζεται σε τρίτους">
-<!ENTITY email.label                     "Διεύθυνση email:">
+<!ENTITY email.label                     "Διεύθυνση e-mail:">
 <!ENTITY email.accesskey                 "ε">
 <!ENTITY email.placeholder               "email@example.com">
 <!ENTITY password.label                  "Κωδικός πρόσβασης:">
@@ -18,7 +18,7 @@
 <!ENTITY rememberPassword.accesskey      "μ">
 
 <!ENTITY imapLong.label                  "IMAP (απομακρυσμένοι φάκελοι)">
-<!ENTITY pop3Long.label                  "POP3 (διατήρηση των email στον υπολογιστή σας)">
+<!ENTITY pop3Long.label                  "POP3 (διατήρηση των e-mails στον υπολογιστή σας)">
 
 <!ENTITY incoming.label                  "Εισερχόμενα:">
 <!ENTITY outgoing.label                  "Εξερχόμενα:">

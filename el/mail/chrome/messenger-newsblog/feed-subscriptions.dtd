@@ -9,7 +9,7 @@
 <!ENTITY feedTitle.label             "Τίτλος:">
 <!ENTITY feedTitle.accesskey         "Τ">
 
-<!ENTITY feedLocation.label          "URL Ροής:">
+<!ENTITY feedLocation.label          "URL ροής:">
 <!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Εισάγετε ένα έγκυρο url ροής για προσθήκη">
 <!ENTITY locationValidate.label      "Επαλήθευση">

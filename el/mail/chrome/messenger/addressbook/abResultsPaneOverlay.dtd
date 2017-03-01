@@ -6,7 +6,7 @@
 <!ENTITY Addrbook.accesskey                    "Δ">
 <!ENTITY GeneratedName.label                   "Όνομα">
 <!ENTITY GeneratedName.accesskey               "ν">
-<!ENTITY PrimaryEmail.label                    "Email">
+<!ENTITY PrimaryEmail.label                    "E-mail">
 <!ENTITY PrimaryEmail.accesskey                "Ε">
 <!ENTITY Company.label                         "Οργανισμός">
 <!ENTITY Company.accesskey                     "γ">
@@ -14,7 +14,7 @@
 <!ENTITY _PhoneticName.accesskey               "ω">
 <!ENTITY NickName.label                        "Ψευδώνυμο">
 <!ENTITY NickName.accesskey                    "δ">
-<!ENTITY SecondEmail.label                     "Επιπρόσθετο  Email">
+<!ENTITY SecondEmail.label                     "Επιπρόσθετο e-mail">
 <!ENTITY SecondEmail.accesskey                 "π">
 <!ENTITY Department.label                      "Τμήμα">
 <!ENTITY Department.accesskey                  "μ">

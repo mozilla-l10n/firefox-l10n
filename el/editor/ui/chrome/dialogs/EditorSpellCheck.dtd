@@ -8,7 +8,7 @@
 <!ENTITY misspelledWord.label "Ανορθόγραφη λέξη">
 <!ENTITY wordEditField.label "Αντικατάσταση με:">
 <!ENTITY wordEditField.accessKey "κ">
-<!ENTITY checkwordButton.label "Έλεγχος Λέξης">
+<!ENTITY checkwordButton.label "Έλεγχος λέξης">
 <!ENTITY checkwordButton.accessKey "γ">
 <!ENTITY suggestions.label "Προτάσεις:">
 <!ENTITY suggestions.accessKey "τ">
@@ -18,7 +18,7 @@
 <!ENTITY ignoreAllButton.accessKey "λ">
 <!ENTITY replaceButton.label "Αντικατάσταση ">
 <!ENTITY replaceButton.accessKey "ν">
-<!ENTITY replaceAllButton.label "Αντικατάσταση  όλων">
+<!ENTITY replaceAllButton.label "Αντικατάσταση όλων">
 <!ENTITY replaceAllButton.accessKey "ω">
 <!ENTITY stopButton.label "Διακοπή">
 <!ENTITY stopButton.accessKey "κ">

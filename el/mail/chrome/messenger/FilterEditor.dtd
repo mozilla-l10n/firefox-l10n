@@ -7,7 +7,7 @@
 <!ENTITY filterName.label "Όνομα φίλτρου:">
 <!ENTITY filterName.accesskey "ν">
 
-<!ENTITY junk.label "Ανεπιθύμητη αλληλογραφία">
+<!ENTITY junk.label "Ανεπιθύμητα">
 <!ENTITY notJunk.label "Επιθυμητή αλληλογραφία">
 
 <!ENTITY lowestPriorityCmd.label "Πολύ χαμηλή">

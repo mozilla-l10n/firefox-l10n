@@ -44,7 +44,7 @@
 <!ENTITY insertMathCmd.accesskey "Μ">
 <!ENTITY insertCharsCmd.label "Χαρακτήρες και σύμβολα…">
 <!ENTITY insertCharsCmd.accesskey "Χ">
-<!ENTITY insertBreakAllCmd.label "Αλλαγή κάτω από εικόνα">
+<!ENTITY insertBreakAllCmd.label "Αλλαγή κάτω από εικόνα(ες)">
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->

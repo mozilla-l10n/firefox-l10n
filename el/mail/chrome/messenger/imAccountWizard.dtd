@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY windowTitle.label            "Οδηγός ρύθμισης λογαριασμού Chat">
+<!ENTITY windowTitle.label            "Οδηγός ρύθμισης λογαριασμού συνομιλίας">
 
 <!ENTITY accountProtocolTitle.label   "Δίκτυο συνομιλιών">
-<!ENTITY accountProtocolInfo.label    "Επιλέξτε το δίκτυο για το λογαριασμό chat.">
+<!ENTITY accountProtocolInfo.label    "Παρακαλώ επιλέξτε το δίκτυο του λογαριασμού συνομιλίας σας.">
 <!ENTITY accountProtocolField.label   "Δίκτυο:">
 <!ENTITY accountProtocolGetMore.label "Περισσότερα…">
 
@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "Ειδοποίηση σε νέα Mail">
 <!ENTITY accountAliasGroupbox.caption "Τοπικό Alias">
 <!ENTITY accountAliasField.label      "Ψευδώνυμο:">
-<!ENTITY accountAliasInfo.label       "Αυτό θα εμφανίζεται μόνο στις συζητήσεις που συμμετέχετε, οι απομακρυσμένες επαφές σας δεν θα το βλέπουν.">
+<!ENTITY accountAliasInfo.label       "Αυτό θα εμφανίζεται μόνο στις συνομιλίες σας που συμμετέχετε, οι απομακρυσμένες επαφές σας δεν θα το βλέπουν.">
 <!ENTITY accountProxySettings.caption "Ρυθμίσεις διαμεσολαβητή">
 <!ENTITY accountProxySettings.change.label     "Αλλαγή…">
 <!ENTITY accountProxySettings.change.accessKey "γ">

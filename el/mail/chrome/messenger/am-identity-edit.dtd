@@ -10,7 +10,7 @@
 
 <!ENTITY settingsTab.label       "Ρυθμίσεις">
 <!ENTITY copiesFoldersTab.label "Αντίγραφα &amp; φάκελοι">
-<!ENTITY addressingTab.label    "Σύνταξη &amp; Διευθυνσιοδότηση">
+<!ENTITY addressingTab.label    "Σύνταξη &amp; διευθυνσιοδότηση">
 
 <!ENTITY publicData.label        "Δημόσια Δεδομένα">
 <!ENTITY privateData.label       "Ιδιωτικά Δεδομένα">
