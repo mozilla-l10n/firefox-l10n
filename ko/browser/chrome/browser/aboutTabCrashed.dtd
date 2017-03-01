@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "추가 정보가 있을 경우 이메일 받기">
 <!ENTITY tabCrashed.reportSent "충돌 보고서를 이미 전송했습니다. &brandShortName;가 보다 나아지도록 도와주셔서 고맙습니다!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "배경탭 보고">
+<!ENTITY tabCrashed.autoSubmit2 "이 세션과 향후 세션에 대해 발생하는 백그라운드 탭의 오류 보고를 포함한 오류 보고를 자동으로 보내도록 설정">
