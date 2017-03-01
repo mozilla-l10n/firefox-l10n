@@ -24,7 +24,7 @@
 <!ENTITY  defaultFont.label           "Стандартен шрифт:">
 <!ENTITY  defaultFont.accesskey       "С">
 <!ENTITY  defaultSize.label           "Големина:">
-<!ENTITY  defaultSize.accesskey       "Р">
+<!ENTITY  defaultSize.accesskey       "Г">
 
 <!ENTITY  advancedFonts.label         "Разширени…">
 <!ENTITY  advancedFonts.accesskey     "Р">
