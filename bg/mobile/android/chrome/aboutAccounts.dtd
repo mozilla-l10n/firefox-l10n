@@ -7,7 +7,7 @@
 <!ENTITY aboutAccounts.syncPreferences.label "Докоснете тук, за да проверите настройките на Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Няма връзка с Интернет">
-<!ENTITY aboutAccounts.retry.label "Опитайте отново">
+<!ENTITY aboutAccounts.retry.label "Нов опит">
 
 <!ENTITY aboutAccounts.restrictedError.title "Ограничена">
 <!ENTITY aboutAccounts.restrictedError.description "Не може да управлявате сметки на Firefox Accounts от този профил.">
