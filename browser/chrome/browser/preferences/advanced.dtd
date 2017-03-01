@@ -101,7 +101,7 @@
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-<!ENTITY offlineStorageNotify.label               "Sê wanneer 'n webwerf vra om data te stoor vir vanlyn gebruik">
+<!ENTITY offlineStorageNotify.label               "Sê wanneer 'n webwerf vra om data vir vanlyn gebruik te stoor">
 <!ENTITY offlineStorageNotify.accesskey           "S">
 <!ENTITY offlineStorageNotifyExceptions.label     "Uitsonderings…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "t">
