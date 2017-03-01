@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "새 컨테이너 추가">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "설정">
+<!ENTITY removeButton.label   "삭제">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; 개인 정보로 돌아가기">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "이름:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "컨테이너 이름 입력">
 <!ENTITY icon.label           "아이콘:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "색:">
