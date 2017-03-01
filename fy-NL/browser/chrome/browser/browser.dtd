@@ -477,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Dielfinster yn nij finster iepenje">
 <!ENTITY openFrameCmd.accesskey       "f">
-<!ENTITY openLinkCmdInContainerTab.label "Keppeling iepenje yn nij kontenerljepblêd">
+<!ENTITY openLinkCmdInContainerTab.label "Keppeling yn nij kontenerljepblêd iepenje">
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Allinnich dit dielfinster toane">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
