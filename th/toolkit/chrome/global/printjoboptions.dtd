@@ -9,7 +9,7 @@
 <!ENTITY paperInput.label "ขนาดกระดาษ:">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY jobTitleInput.label "หัวข้องาน:">
+<!ENTITY jobTitleInput.label "ชื่องาน:">
 <!ENTITY jobTitleInput.accesskey "ห">
 
 <!ENTITY colorGroup.label "สี:">

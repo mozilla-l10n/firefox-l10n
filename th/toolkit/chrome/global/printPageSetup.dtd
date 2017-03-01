@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "ตั้งค่าหน้ากระดาษ">
 
@@ -54,7 +54,7 @@
 <!ENTITY footerCenter.tip    "ส่วนท้ายตรงกลาง">
 <!ENTITY footerRight.tip     "ส่วนท้ายด้านขวา">
 
-<!ENTITY hfTitle             "หัวข้อ">
+<!ENTITY hfTitle             "ชื่อ">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "วันที่/เวลา">
 <!ENTITY hfPage              "หน้า #">
