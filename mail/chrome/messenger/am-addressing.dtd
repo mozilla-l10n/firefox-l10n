@@ -4,7 +4,7 @@
 
 <!-- extracted from am-addressing.xul -->
 
-<!ENTITY addressing.label          "Διευθυνσιοδότηση &amp; Σύνταξη">
+<!ENTITY addressing.label          "Σύνταξη &amp; διευθυνσιοδότηση">
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!ENTITY addressingText.label      "Οταν γίνεται έλεγχος για διευθύνσεις:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
@@ -40,8 +40,8 @@
 <!ENTITY includeSigOnForward.label            "Χρήση υπογραφής στις προωθήσεις">
 <!ENTITY includeSigOnForward.accesskey        "θ">
 
-<!ENTITY globalComposingPrefs.label           "Καθολικές Προτιμήσεις Σύνταξης…">
+<!ENTITY globalComposingPrefs.label           "Καθολικές προτιμήσεις σύνταξης…">
 <!ENTITY globalComposingPrefs.accesskey       "κ">
 
-<!ENTITY globalAddressingPrefs.label          "Καθολικές Προτιμήσεις Διευθυνσιοδότησης…">
+<!ENTITY globalAddressingPrefs.label          "Καθολικές προτιμήσεις διευθυνσιοδότησης…">
 <!ENTITY globalAddressingPrefs.accesskey      "δ">

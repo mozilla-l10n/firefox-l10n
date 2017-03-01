@@ -20,7 +20,7 @@ sentence. -->
 <!ENTITY  andSetStatusToAway.label      "και να ορίζεται η κατάσταση μου σε Μακρυά με αυτό το μήνυμα κατάστασης:">
 <!ENTITY  andSetStatusToAway.accesskey  "υ">
 
-<!ENTITY  sendTyping.label              "Αποστολή ειδοποιήσεων πληκτρολόγησης στις συζητήσεις">
+<!ENTITY  sendTyping.label              "Αποστολή ειδοποιήσεων πληκτρολόγησης στις συνομιλίες">
 <!ENTITY  sendTyping.accesskey          "σ">
 
 <!ENTITY  chatNotifications.label             "Όταν έρχονται μηνύματα που απευθύνονται σε εσάς:">

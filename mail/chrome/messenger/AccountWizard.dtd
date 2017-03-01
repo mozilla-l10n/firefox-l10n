@@ -15,7 +15,7 @@
 <!ENTITY accountTypeDirections.label "Επιλέξτε το είδος του λογαριασμού που θέλετε να εγκαταστήσετε:">
 <!ENTITY accountTypeMail.label "Λογαριασμός Email">
 <!ENTITY accountTypeMail.accesskey "ρ">
-<!ENTITY accountTypeNews.label "Λογαριασμός συζητήσεων">
+<!ENTITY accountTypeNews.label "Λογαριασμός ομάδας ειδήσεων">
 <!ENTITY accountTypeNews.accesskey "ζ">
 
 <!-- Entities for Identity page -->
@@ -62,7 +62,7 @@
 <!ENTITY incomingUsername.accesskey "χ">
 <!-- LOCALIZATION NOTE (newsServerNameDesc.label) : Do not translate "NNTP" or the "&quot;" entities in below line -->
 <!ENTITY newsServerNameDesc.label "Εισάγετε το όνομα του εξυπηρετητή συζητήσεων (NNTP) (για παράδειγμα, &quot;news.example.net&quot;).">
-<!ENTITY newsServerLabel.label "Εξυπηρετητής ομάδων συζήτησης:">
+<!ENTITY newsServerLabel.label "Διακομιστής ομάδας ειδήσεων:">
 <!ENTITY newsServerLabel.accesskey "σ">
 
 <!-- Entities for Outgoing Server page -->

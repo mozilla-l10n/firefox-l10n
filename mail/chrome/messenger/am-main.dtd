@@ -27,7 +27,7 @@
 <!ENTITY edit.label "Επεξεργασία...">
 <!ENTITY choose.label "Επιλογή...">
 <!ENTITY choose.accesskey "λ">
-<!ENTITY editVCard.label "Επεξεργασία καρτέλας...">
+<!ENTITY editVCard.label "Επεξεργασία κάρτας…">
 <!ENTITY editVCard.accesskey "ξ">
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "Επισύναψη της vCard μου στα μηνύματα">

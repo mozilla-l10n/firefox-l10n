@@ -28,7 +28,7 @@
 <!ENTITY tinyheader.existing "Παράλειψη και χρήση υπάρχοντος email">
 <!ENTITY content.close "Θα ρυθμίσω τον λογαριασμό μου αργότερα.">
 <!ENTITY successful.title "Συγχαρητήρια!">
-<!ENTITY successful.successMessage "Ρυθμίσατε με επιτυχία τον λογαριασμό σας.">
+<!ENTITY successful.successMessage "Έχετε ρυθμίσει επιτυχώς το λογαριασμό σας.">
 <!ENTITY successful.write "Γράψτε κάποια μηνύματα">
 <!ENTITY successful.write.desc "Πείτε στους φίλους και την οικογένεια σας για την νέα σας διεύθυνση.<br/> Για αυτό εξάλλου δεν φτιάξατε αυτή την διεύθυνση;">
 <!ENTITY successful.customize "Προσαρμόστε το &brandShortName; με μερικά ενδιαφέροντα πρόσθετα">
