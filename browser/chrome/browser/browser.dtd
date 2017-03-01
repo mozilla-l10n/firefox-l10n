@@ -575,7 +575,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Без звук">
 <!ENTITY mediaMute.accesskey         "з">
-<!ENTITY mediaUnmute.label           "Звук">
+<!ENTITY mediaUnmute.label           "Със звук">
 <!ENTITY mediaUnmute.accesskey       "З">
 <!ENTITY mediaPlaybackRate2.label     "Скорост на възпроизвеждане">
 <!ENTITY mediaPlaybackRate2.accesskey "о">

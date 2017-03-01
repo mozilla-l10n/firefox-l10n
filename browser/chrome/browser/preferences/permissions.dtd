@@ -13,8 +13,8 @@
 <!ENTITY removeallpermissions.accesskey "в">
 <!ENTITY address.label                "Адрес на сайт:">
 <!ENTITY address.accesskey            "А">
-<!ENTITY block.label                  "Блокиране">
-<!ENTITY block.accesskey              "Б">
+<!ENTITY block.label                  "Забраняване">
+<!ENTITY block.accesskey              "З">
 <!ENTITY session.label                "Разрешаване за сесията">
 <!ENTITY session.accesskey            "с">
 <!ENTITY allow.label                  "Разрешаване">
