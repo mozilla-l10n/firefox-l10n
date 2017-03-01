@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Fier in sykterm of adres yn">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Utwreiding:">
 <!ENTITY urlbar.switchToTab.label     "Wikselje nei ljepblêd:">
 
@@ -476,7 +477,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "l">
 <!ENTITY openFrameCmd.label           "Dielfinster yn nij finster iepenje">
 <!ENTITY openFrameCmd.accesskey       "f">
-<!ENTITY openLinkCmdInContainerTab.label "Keppeling iepenje yn nij kontenerljepblêd">
+<!ENTITY openLinkCmdInContainerTab.label "Keppeling yn nij kontenerljepblêd iepenje">
 <!ENTITY openLinkCmdInContainerTab.accesskey "k">
 <!ENTITY showOnlyThisFrameCmd.label     "Allinnich dit dielfinster toane">
 <!ENTITY showOnlyThisFrameCmd.accesskey "d">
