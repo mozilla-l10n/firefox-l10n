@@ -44,7 +44,7 @@
 <!ENTITY  suggestionSettings.accesskey  "п">
 
 <!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">
-<!ENTITY  acceptCookies.accesskey       "б">
+<!ENTITY  acceptCookies.accesskey       "П">
 
 <!ENTITY  acceptThirdParty.pre.label      "Прымаць кукі з пабочных сайтаў:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "п">
@@ -65,7 +65,7 @@
 <!ENTITY  showCookies.accesskey         "П">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; павінен:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.pre.accesskey      "п">
 <!ENTITY  historyHeader.remember.label     "Памятаць гісторыю">
 <!ENTITY  historyHeader.dontremember.label "Ніколі не памятаць гісторыю">
 <!ENTITY  historyHeader.custom.label       "Ужываць налады для гісторыі">
