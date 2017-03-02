@@ -94,7 +94,7 @@
 <!ENTITY updateHistory.label             "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey         "а">
 
-<!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абналенняў">
+<!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абнаўленняў">
 <!ENTITY useService.accesskey            "ф">
 
 <!ENTITY autoUpdateOthers.label          "Абнаўляць аўтаматычна">
