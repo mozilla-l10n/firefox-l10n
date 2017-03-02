@@ -207,7 +207,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Roto pi ngec manyen…">
 <!ENTITY addon.releaseNotes.label             "Gony Coc:">
 <!ENTITY addon.loadingReleaseNotes.label      "Tye ka cano…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Kica, ento bal otime i kacano lagony coc.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Tim wa kica, ento bal otime i cano coc me cwalo woko.">
 
 <!ENTITY addon.createdBy.label                "Ki ">
 
