@@ -80,12 +80,13 @@
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ativa debug remòtto">
+<!ENTITY options.enableRemote.tooltip2  "Ativando sta opçion se peu adeuviâ i strumenti do svilupatô pò-u debug su istanse remòtte de Firefox comme Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableWorkers.label    "Ativa debug worker (in sviluppo)">
-<!ENTITY options.enableWorkers.tooltip  "Ativando sta opçion l'é poscibile adeuviâ i strumenti di svilupatoî pe fâ o debug di worker">
+<!ENTITY options.enableWorkers.tooltip  "Ativando sta opçion l'é poscibile adeuviâ i strumenti do svilupatô pe fâ o debug di worker">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
@@ -106,6 +107,7 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+<!ENTITY options.selectDefaultTools.label2    "Strumenti do svilupatô predefinii">
 
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
