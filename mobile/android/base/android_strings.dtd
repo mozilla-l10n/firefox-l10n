@@ -418,9 +418,9 @@ size. -->
 <!ENTITY pref_panels_move_down "Ներքև">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-ի վիճակը և տվյալը">
-<!ENTITY datareporting_notification_action "Ընտրել, թե ինչը համաօգտագործել">
+<!ENTITY datareporting_notification_action "Ընտրել, թե ինչը համօգտագործել">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը համաօգտագործել">
+<!ENTITY datareporting_notification_action_long "Ընտրեք, թե ինչը համօգտագործել">
 <!ENTITY datareporting_notification_summary "Աշխատանքը բարելավելու համար &brandShortName;-ը որոշ տեղեկություններ է հաղորդում &vendorShortName;-ին:">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
@@ -461,9 +461,9 @@ size. -->
 <!ENTITY downloads "Ներբեռնումներ">
 <!ENTITY char_encoding "Գրանշանների Կոդավորումը">
 
-<!ENTITY share "Համաօգտագործել">
-<!ENTITY share_title "Համաօգտագործել՝">
-<!ENTITY share_image_failed "Հնարավոր չեղավ համաօգտագործել պատկերը">
+<!ENTITY share "Համօգտագործել">
+<!ENTITY share_title "Համօգտագործել՝">
+<!ENTITY share_image_failed "Հնարավոր չեղավ համօգտագործել պատկերը">
 <!ENTITY save_as_pdf "Պահել որպես PDF">
 <!ENTITY print "Տպել">
 <!ENTITY find_in_page "Գտնել էջում">
@@ -498,7 +498,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
 <!ENTITY contextmenu_remove "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
-<!ENTITY contextmenu_share "Համաօգտագործել">
+<!ENTITY contextmenu_share "Համօգտագործել">
 <!ENTITY contextmenu_pasteandgo "Մեջբերել և Առաջ">
 <!ENTITY contextmenu_paste "Տեղադրել">
 <!ENTITY contextmenu_copyurl "Պատճենել հասցեն">
