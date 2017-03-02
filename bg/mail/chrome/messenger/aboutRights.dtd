@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "Разширени">
 <!ENTITY rights.webservices-c " и подраздела ">
 <!ENTITY rights.webservices-d "Обновяване">
-<!ENTITY rights.webservices-e ", като махнете отметката за някой от вариантите на &quot;Автоматична проверка за обновления на&quot;.">
+<!ENTITY rights.webservices-e ", като махнете отметката за някой от вариантите на &quot;Автоматична проверка за обновяване на&quot;.">
 
 <!-- intro paragraph for unbranded builds -->
 <!ENTITY rights.webservices-unbranded "Тук трябва да има общ преглед на услугите за уеб сайтове и инструкции как да се изключат.">
