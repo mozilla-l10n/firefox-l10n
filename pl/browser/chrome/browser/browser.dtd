@@ -306,6 +306,10 @@
 
 <!ENTITY appMenuRemoteTabs.label "Karty z innych urządzeń">
 <!ENTITY appMenuRemoteTabs.notabs.label "Brak otwartych kart">
+<!ENTITY appMenuRemoteTabs.showMore.label "Wyświetl więcej">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Wyświetl więcej kart z tego urządzenia">
+<!ENTITY appMenuRemoteTabs.showAll.label "Wyświetl wszystkie">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Wyświetl wszystkie karty z tego urządzenia">
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Włącz synchronizację kart, aby wyświetlić ich listę z innych urządzeń.">
 <!ENTITY appMenuRemoteTabs.noclients.title "Synchronizacja kart wyłączona">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Czy wyświetlić tutaj listę kart otwartych na innych urządzeniach?">
