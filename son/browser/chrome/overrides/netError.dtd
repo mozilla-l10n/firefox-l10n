@@ -116,8 +116,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
-<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; mana hin ka dobu <span id='wrongSystemTime_URL'/> ga zama war ordinateroo montoraa ga waati laala cebe nd'a ga ganji ">
-
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; mana hin ka dobu <span id='wrongSystemTime_URL'/> ga zama war ordinateroo montoraa ga waati laala cebe, nd'a ga dobuyan saajante ganji.</p> <p>War ordinateroo n ka kayandi <span id='wrongSystemTime_systemDate'/> ga, waati kaŋ a ga hima ka tee <span id='wrongSystemTime_actualDate'/>. Ka layboo woo kaa, war han nda waati kayandiyaney barmay k'i tenjandi nda waati boryaa.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; mana hin ka dobu <span id='wrongSystemTimeWithoutReference_URL'/> ga zama war ordinateroo montoraa ga waati laala cebe, nd'a ga dobuyan saajante ganji.</p> <p>War ordinateroo n ka kayandi <span id='wrongSystemTimeWithoutReference_systemDate'/> ga. Ka layboo woo kaa, war han nda waati kayandiyaney barmay k'i tenjandi nda waati boryaa.</p>">
 
 <!ENTITY certerror.pagetitle1  "Manti ciyari saajante">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Nungoo woo ga goy nda HTTP Strict Transport Security (HSTS) ka tabatandi kaŋ &brandShortName; ka ciya saajante hinne tee a ga. Woo sabboo ra, boro ši hin ka hasaraw tonton tabatiyan-tiiraa woo se.">
