@@ -175,7 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.accesskey "w">
 <!ENTITY shareSelect.label "Nywak Yer">
 <!ENTITY shareSelect.accesskey "w">
-<!ENTITY shareVideo.label "Nwyak video man">
+<!ENTITY shareVideo.label "Nwyak vidio man">
 <!ENTITY shareVideo.accesskey "y">
 <!ENTITY feedsMenu2.label "Cone i pot buk man">
 <!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
@@ -501,7 +501,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "e">
 <!ENTITY viewImageDescCmd.label       "Nen lok kome">
 <!ENTITY viewImageDescCmd.accesskey   "k">
-<!ENTITY viewVideoCmd.label           "Nen Video">
+<!ENTITY viewVideoCmd.label           "Nen Vidio">
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Nen cal me ngeye">
 <!ENTITY viewBGImageCmd.accesskey     "n">
@@ -527,15 +527,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "e">
 <!ENTITY saveImageCmd.label           "Gwok cal calo…">
 <!ENTITY saveImageCmd.accesskey       "k">
-<!ENTITY saveVideoCmd.label           "Gwok video calo…">
+<!ENTITY saveVideoCmd.label           "Gwok vidio calo…">
 <!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "Gwok dwon calo…">
 <!ENTITY saveAudioCmd.accesskey       "o">
 <!ENTITY emailImageCmd.label          "Cwal cal…">
 <!ENTITY emailImageCmd.accesskey      "l">
-<!ENTITY emailVideoCmd.label          "Cwal video…">
+<!ENTITY emailVideoCmd.label          "Cwal vidio…">
 <!ENTITY emailVideoCmd.accesskey      "l">
-<!ENTITY castVideoCmd.label           "Cwal video bot nyonyo">
+<!ENTITY castVideoCmd.label           "Cwal vidio bot nyonyo">
 <!ENTITY castVideoCmd.accesskey       "a">
 <!ENTITY emailAudioCmd.label          "Cwal dwon…">
 <!ENTITY emailAudioCmd.accesskey      "l">
@@ -549,7 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "Lok cal">
 <!ENTITY copyImageContentsCmd.accesskey  "k"> 
-<!ENTITY copyVideoURLCmd.label        "Lok kabedo me video">
+<!ENTITY copyVideoURLCmd.label        "Lok kabedo me vidio">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "Lok kabedo me dwon">
 <!ENTITY copyAudioURLCmd.accesskey    "o">

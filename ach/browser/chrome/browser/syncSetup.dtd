@@ -103,12 +103,12 @@
 <!-- Confirm Merge Options -->
 
 <!ENTITY setup.optionsConfirmPage.title "Moki">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; bi toro tic me layeny me nyonyo man weng iye akaunt mamegi me Tic marom.">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; bi toro tic me layeny me nyonyo man weng iye akaunt mamegi me Ribo.">
 <!ENTITY confirm.client3.label         "Ciko: Tic magi me &brandShortName; ma tye ikom nyonyo man  ki bikwanyo woko:">
 <!ENTITY confirm.client2.moreinfo.label "&brandShortName; dong bi loko tic mamegi me &syncBrand.fullName.label; cwalo i nyonyo man.">
 <!ENTITY confirm.server2.label         "Cik: Ki biloko nyonyo magi ki tic mamegi me paco:">
 <!-- New & Existing Account: Setup Complete -->
 
 <!ENTITY setup.successPage.title "Ter Otum">
-<!ENTITY changeOptions.label "Itwero loko ma imaro man kun iyero gin ayera me Tim marom ma tye piny.">
+<!ENTITY changeOptions.label "Itwero loko ter man kun iyero Ter me Ribo ma tye piny.">
 <!ENTITY continueUsing.label "Itwero mede kombedi ki tic ki &brandShortName;.">
