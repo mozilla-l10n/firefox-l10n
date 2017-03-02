@@ -57,9 +57,9 @@
 <!ENTITY cmd.showMac.label                "Паказаць у шукальніку">
 <!ENTITY cmd.showMac.accesskey            "ш">
 <!ENTITY cmd.retry.label                  "Паўтарыць">
-<!ENTITY cmd.goToDownloadPage.label       "Паказаць старонку загрузкі">
+<!ENTITY cmd.goToDownloadPage.label       "Паказаць старонку сцягвання">
 <!ENTITY cmd.goToDownloadPage.accesskey   "з">
-<!ENTITY cmd.copyDownloadLink.label       "Капіяваць спасылку загрузкі">
+<!ENTITY cmd.copyDownloadLink.label       "Капіяваць спасылку сцягвання">
 <!ENTITY cmd.copyDownloadLink.accesskey   "К">
 <!ENTITY cmd.removeFromHistory.label      "Выдаліць з гісторыі">
 <!ENTITY cmd.removeFromHistory.accesskey  "г">
