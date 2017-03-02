@@ -397,7 +397,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetra søkjeopplevinga di med søkjeforslag?">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les meir …">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les meir…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
@@ -887,5 +887,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "Trygg nettlesing!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Takk!">
 
-<!ENTITY emeLearnMoreContextMenu.label            "Les meir om DRM …">
+<!ENTITY emeLearnMoreContextMenu.label            "Les meir om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
