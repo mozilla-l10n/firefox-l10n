@@ -5,7 +5,7 @@
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 <!ENTITY tapToPlayPlugin                                     "Натиснете тук за активиране на приставка.">
 <!ENTITY clickToActivatePlugin                               "Активиране на приставка.">
-<!ENTITY checkForUpdates                                     "Проверка за обновления…">
+<!ENTITY checkForUpdates                                     "Проверка за обновяване…">
 <!ENTITY blockedPlugin.label                                 "Приставката беше блокирана от съображения за сигурност.">
 <!ENTITY hidePluginBtn.label                                 "Скриване на приставка">
 <!ENTITY managePlugins                                       "Управление на приставки…">

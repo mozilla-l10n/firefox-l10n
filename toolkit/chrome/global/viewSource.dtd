@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Копиране на препратката">
 <!ENTITY copyLinkCmd.accesskey "К">
-<!ENTITY copyEmailCmd.label "Копиране на пощенския адрес">
+<!ENTITY copyEmailCmd.label "Копиране на електронния адрес">
 <!ENTITY copyEmailCmd.accesskey "К">
