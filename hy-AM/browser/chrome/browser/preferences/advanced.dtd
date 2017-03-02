@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
 
-<!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և համաօգտագործել տվյալները &vendorShortName;-ի համար">
+<!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և համօգտագործել տվյալները &vendorShortName;-ի համար">
 <!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">
 <!ENTITY enableHealthReport.accesskey    "Զ">
 <!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
