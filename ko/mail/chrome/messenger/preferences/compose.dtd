@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "없음">
 <!ENTITY editDirectories.label                 "디렉터리 편집…">
 <!ENTITY editDirectories.accesskey             "E">
+<!ENTITY showAsDefault.label                   "주소록 창의 기본 시작 디렉토리:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "마지막 사용한 디렉토리">
 
 <!ENTITY sendOptionsDescription.label          "텍스트 형식 설정">
 <!ENTITY sendOptions.label                     "보내기 설정…">
