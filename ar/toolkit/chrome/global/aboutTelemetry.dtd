@@ -6,9 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  غيّر">
 
-<!ENTITY aboutTelemetry.uploadEnabled "  رفع بيانات FHR <span>مفعّل</span>.">
+<!ENTITY aboutTelemetry.uploadEnabled "  رفع بيانات تقرير حالة فَيرفُكس <span>مفعّل</span>.">
 
-<!ENTITY aboutTelemetry.uploadDisabled "  رفع بيانات FHR <span>معطّل</span>.">
+<!ENTITY aboutTelemetry.uploadDisabled "  رفع بيانات تقرير حالة فَيرفُكس <span>معطّل</span>.">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "  تسجيل القياس عن بعد الموسع <span>مفعل</span>.">
 
@@ -22,9 +22,11 @@
 
 <!ENTITY aboutTelemetry.pingDataDisplay "عرض بيانات الطرْق:">
 
+<!ENTITY aboutTelemetry.structured "منظّمة">
 
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
+<!ENTITY aboutTelemetry.showSubsessionData "اعرض بيانات الإرسال">
 
 <!ENTITY aboutTelemetry.choosePing "اختر الطرْق:">
 
@@ -50,13 +52,17 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  تعليقات الخيوط">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  المكدسات المُلتقطة">
 
+<!ENTITY aboutTelemetry.scalarsSection "  الكميات القياسية">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  الكميات القياسية المفتاحية">
 
 <!ENTITY aboutTelemetry.histogramsSection "  رسوم بيانية">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  رسوم بيانية مفتاحية">
 
+<!ENTITY aboutTelemetry.eventsSection "  الأحداث">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  قياسات بسيطة">
 
@@ -82,3 +88,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  الحمولة">
 
+<!ENTITY aboutTelemetry.rawPayload "  الحمولة الخام">
