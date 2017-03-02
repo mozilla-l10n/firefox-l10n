@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "이미 북마크 됨">
 <!ENTITY overlay_share_send_other "다른 기기로 보내기">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName;에서 열기">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "검색 이력 표시">
 <!ENTITY pref_import_options "가져오기 옵션">
 <!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
+<!ENTITY pref_private_data_openTabs "탭 열기">
 <!ENTITY pref_private_data_history2 "방문 기록">
 <!ENTITY pref_private_data_searchHistory "검색 기록">
 <!ENTITY pref_private_data_formdata2 "양식 데이터 기록">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "탭 간소화">
+<!ENTITY pref_compact_tabs_summary2 "세로 모드에서 탭을 두 다단으로 정렬">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "다운로드된 업데이트 적용">
 <!ENTITY updater_downloading_retry2 "재시도">
 
+<!ENTITY updater_apply_title3 "다운로드된 &brandShortName; 업데이트">
+<!ENTITY updater_apply_select3 "터치해서 설치">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -845,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "숨기기">
 <!ENTITY activity_stream_delete_history "방문 기록에서 삭제">
 
+<!ENTITY activity_stream_welcome_title "하이라이트에 오신 것을 환영합니다">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName;가 글이나 동영상, 즐겨찾기, 다른 페이지들을 쉽게 다시 찾을 수 있게 웹에서 발견한 것들의 하이라이트를 만들 것입니다.">
