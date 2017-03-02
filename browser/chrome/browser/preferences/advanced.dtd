@@ -26,18 +26,18 @@
 <!ENTITY allowHWAccel.label              "Ужываць, калі можна, паскарэнне начыння">
 <!ENTITY allowHWAccel.accesskey          "н">
 <!ENTITY checkUserSpelling.label         "Правяраць арфаграфію пад час набору">
-<!ENTITY checkUserSpelling.accesskey     "е">
+<!ENTITY checkUserSpelling.accesskey     "н">
 
-<!ENTITY dataChoicesTab.label            "Выбар здаткаў">
+<!ENTITY dataChoicesTab.label            "Выбар дадзеных">
 
-<!ENTITY healthReportDesc.label          "Дапамагае вам лепш разумець працавыніковасць вашага азіральніка і падзеляе здаткі з &vendorShortName; пра стан вашага азіральніка">
+<!ENTITY healthReportDesc.label          "Дапамагае зразумець як працуе ваш браўзер і адпраўляе дадзеныя аб яго працаздольнасці ў &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Дазволіць справаздачу пра стан &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "с">
 <!ENTITY healthReportLearnMore.label     "Падрабязней">
 
-<!ENTITY telemetryDesc.label             "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY telemetryDesc.label             "Дзеліцца дадзенымі пра хуткадзейнасць, выкарыстанне. апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
-<!ENTITY enableTelemetryData.accesskey   "Е">
+<!ENTITY enableTelemetryData.accesskey   "т">
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
 
 <!ENTITY crashReporterDesc2.label         "Справаздачы аб памылках дапамагаюць &vendorShortName; выпраўляць праблемы і рабіць ваш браўзер больш стабільным і бяспечным">
@@ -50,19 +50,19 @@
 <!ENTITY connection.label                "Злучэнне">
 
 <!ENTITY connectionDesc.label            "Наладзіць, як &brandShortName; мусіць злучацца з Інтэрнэтам">
-<!ENTITY connectionSettings.label        "Наладжванні…">
+<!ENTITY connectionSettings.label        "Налады…">
 <!ENTITY connectionSettings.accesskey    "л">
 
 <!ENTITY httpCache.label                 "Назапашанае сеціўнае змесціва">
 
-<!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія здаткі">
+<!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія дадзеныя">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Звесткі сайта">
 <!ENTITY clearSiteData.label             "Ачысціць усе звесткі">
-<!ENTITY clearSiteData.accesskey         "д">
+<!ENTITY clearSiteData.accesskey         "з">
 <!ENTITY siteDataSettings.label          "Налады…">
-<!ENTITY siteDataSettings.accesskey      "ш">
+<!ENTITY siteDataSettings.accesskey      "л">
 <!ENTITY siteDataLearnMoreLink.label     "Даведацца больш">
 
 <!-- LOCALIZATION NOTE:
@@ -106,11 +106,11 @@
 <!ENTITY offlineStorageNotifyExceptions.label     "Выключэнні…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ч">
 
-<!ENTITY offlineAppsList2.label          "Наступныя пляцоўкі Сеціва маюць дазвол на захаванне здаткаў для пазасеткавага ўжывання:">
+<!ENTITY offlineAppsList2.label          "Наступныя пляцоўкі сеціва маюць дазвол на захаванне дадзеных для пазасеткавага ўжывання:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Выдаліць…">
 <!ENTITY offlineAppsListRemove.accesskey "В">
-<!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя здаткі">
+<!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя дадзеныя">
 
 <!ENTITY certificateTab.label            "Пасведчанні">
 <!ENTITY certPersonal.label              "Запыты">
@@ -118,10 +118,10 @@
 <!ENTITY selectCerts.auto                "Выбіраць аўтаматычна">
 <!ENTITY selectCerts.auto.accesskey      "Ы">
 <!ENTITY selectCerts.ask                 "Пытацца кожны раз">
-<!ENTITY selectCerts.ask.accesskey       "Ф">
+<!ENTITY selectCerts.ask.accesskey       "П">
 <!ENTITY enableOCSP.label                "Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў">
-<!ENTITY enableOCSP.accesskey            "Й">
+<!ENTITY enableOCSP.accesskey            "З">
 <!ENTITY viewCerts.label                 "Прагляд пасведчанняў">
-<!ENTITY viewCerts.accesskey             "г">
+<!ENTITY viewCerts.accesskey             "П">
 <!ENTITY viewSecurityDevices.label       "Збудовы бяспекі">
 <!ENTITY viewSecurityDevices.accesskey   "б">
