@@ -803,7 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Моите теми">
-<!ENTITY customizeMode.lwthemes.recommended "Препоръчана">
+<!ENTITY customizeMode.lwthemes.recommended "Препоръчани">
 <!ENTITY customizeMode.lwthemes.menuManage "Управление">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Още теми">
