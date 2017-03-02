@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "আগে থেকেই বুকমার্ক করা আছে">
 <!ENTITY overlay_share_send_other "অন্য ডিভাইসসমূহে প্রেরণ করুন">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; এ খুলুন">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -386,6 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "অনুসন্ধান এর ইতিহাস দেখান">
 <!ENTITY pref_import_options "ইনপুট বিকল্পগুলি">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
+<!ENTITY pref_private_data_openTabs "ট্যাব খুলুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
 <!ENTITY pref_private_data_formdata2 "পূর্ববর্তী তথ্য বানান">
@@ -538,6 +540,8 @@ size. -->
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "কম্প্যাক্ট ট্যাব">
+<!ENTITY pref_compact_tabs_summary2 "প্রতিকৃতি মোডে দুই কলাম অনুসারে ট্যাব সুসজ্জিত করুন">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -701,6 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "ডাউনলোড ব্যর্থ হয়েছে">
 <!ENTITY updater_downloading_retry2 "পুনরায় চেষ্টা করুন">
 
+<!ENTITY updater_apply_title3 "&brandShortName; এর জন্য করা ডাউনলোড আপডেট করুন">
+<!ENTITY updater_apply_select3 "ইনস্টল করার জন্য স্পর্শ করুন">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -845,3 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "খারিজ করুন">
 <!ENTITY activity_stream_delete_history "ইতিহাস থেকে মুছে দিন">
 
+<!ENTITY activity_stream_welcome_title "আপনার হাইলাইটসমূহে স্বাগতম">
+<!ENTITY activity_stream_welcome_content1 "আপনি ওয়েবে যা দেখেছেন &brandShortName; তার হাইলাইটসমূহ এখানে তৈরি করবে, যাতে আপনি আপনার ভালোলাগা প্রবন্ধ, ভিডিও, বুকমার্ক এবং অন্যান্য পাতাগুলিকে খুঁজে পেতে পারেন।">
