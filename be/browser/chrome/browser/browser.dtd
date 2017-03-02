@@ -109,7 +109,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.label "Увесь экран">
 <!ENTITY fullScreenCmd.accesskey "У">
 <!ENTITY fullScreenCmd.macCommandKey "f">
-<!ENTITY showAllTabsCmd.label "Паказаць усе ўстаўкі">
+<!ENTITY showAllTabsCmd.label "Паказаць усе карткі">
 <!ENTITY showAllTabsCmd.accesskey "у">
 <!ENTITY toggleReaderMode.key "К">
 
@@ -265,7 +265,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Дадаць ключавое слова для гэтага пошуку…">
 <!ENTITY keywordfield.accesskey       "к">
 
-<!ENTITY downloads.label              "Загрузкі">
+<!ENTITY downloads.label              "Сцягванні">
 <!ENTITY downloads.accesskey          "З">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -394,7 +394,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.accesskey             "а">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Пашырэнне:">
-<!ENTITY urlbar.switchToTab.label     "Пераключыцца ў устаўку:">
+<!ENTITY urlbar.switchToTab.label     "Пераключыцца ў картку:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Не хочаце пашырыць свой досвед пошуку з дапамогай падказак?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Даведацца больш…">
