@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "Падрабязнасці пра прыстасаванне">
-<!ENTITY appManager.style     "width: 34em; min-height: 22em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Выдаліць">
-<!ENTITY remove.accesskey     "д">
+<!ENTITY remove.accesskey     "В">
