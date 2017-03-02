@@ -11,7 +11,7 @@
 <!ENTITY firstrun_bookmarks_subtext "Awi-d agmuḍ seg ticraḍ n yisebtar akked umazray-inek ticki tettnadiḍ.">
 <!ENTITY firstrun_data_title "Isefka">
 <!ENTITY firstrun_data_message "Mačči aṭas n yisefka, ugar n usekles">
-<!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel i tẓureḍ.">
+<!ENTITY firstrun_data_subtext2 "Kkes armad n tugniwin akken ad tḥerzeḍ isefka deg yal asmel anda terziḍ.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, yal tikelt s idis-ik">
 <!ENTITY firstrun_sync_subtext "Semtawi iccaren-inek, awalen uffiren, akked ugar deg yal amḍiq anida i t-teseqdaceḍ.">
@@ -57,7 +57,7 @@
 <!ENTITY  crash_sorry "Sureft-aɣ">
 <!ENTITY  crash_comment "Rnu awennit (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY  crash_allow_contact2 "Sireg &vendorShortName; akken ad yi-d-inermes ɣef uneqqis-agi">
-<!ENTITY  crash_email "Imayl-inek">
+<!ENTITY  crash_email "Imayl inek">
 <!ENTITY  crash_closing_alert "Ffeɣ s war ma tuzneḍ aneqqis n uɣelluy?">
 <!ENTITY  sending_crash_report "Tuzzna n ussaɣ n uɣelluy\u2026">
 <!ENTITY  crash_close_label "Mdel">
@@ -67,7 +67,7 @@
 
 <!ENTITY bookmark "Creḍ asebter-agi">
 <!ENTITY bookmark_remove "Kkes tacreṭ n usebter">
-<!ENTITY bookmark_added "Tacreṭ n usebter terna">
+<!ENTITY bookmark_added "Tacreṭ n usebter tettwerna">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
@@ -136,7 +136,7 @@
      UI. The locale includes both language and region concepts. -->
 
 <!ENTITY pref_category_language "Tutlayt">
-<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig-inek">
+<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig inek">
 <!ENTITY pref_browser_locale "Tutlayt n iminig">
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -184,7 +184,7 @@
 <!ENTITY pref_category_add_search_providers "Rnu ugar n isaǧǧawen n unadi">
 <!ENTITY pref_category_search_restore_defaults "Err-d imseddayen n unadi">
 <!ENTITY pref_search_restore_defaults "Err-d iɣewwaṛen imezwar">
-<!ENTITY pref_search_restore_defaults_summary "Err-ed iɣewwaṛen imezwar">
+<!ENTITY pref_search_restore_defaults_summary "Err-d iɣewwaṛen imezwar">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -304,7 +304,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Mačči tura">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "Ddu ɣer iɣawwaṛen">
+<!ENTITY tab_queue_prompt_settings_button "Ddu ɣer iɣewwaṛen">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -330,7 +330,7 @@
 <!ENTITY content_notification_action_settings2 "Iɣewwaṛen">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Ɣaṛ tura">
+<!ENTITY content_notification_action_read_now "Ɣeṛ tura">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -343,7 +343,7 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Sfeḍ tura">
-<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
+<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen di tuffɣa">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka yinek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
 <!ENTITY pref_plugins "Izegrar imernan">
@@ -568,7 +568,7 @@ size. -->
 <!ENTITY masterpassword_password "Awal uffir">
 <!ENTITY masterpassword_confirm "Sentem awal uffir">
 
-<!ENTITY button_ok "OK">
+<!ENTITY button_ok "IH">
 <!ENTITY button_cancel "Sefsex">
 <!ENTITY button_yes "Ih">
 <!ENTITY button_no "Ala">
@@ -835,7 +835,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Iferdisen n tmeẓri n umeɣri n tecraḍ ara teɣreḍ deg uskar war tuqqna.">
 <!ENTITY helper_triple_readerview_open_button "Rnu ɣer tecraḍ">
 
-<!ENTITY activity_stream_topsites "Ismal ɣur yettwarza aṭas">
+<!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
 <!ENTITY activity_stream_highlights "Asebrureq">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->

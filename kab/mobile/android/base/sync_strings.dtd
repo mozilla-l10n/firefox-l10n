@@ -65,7 +65,7 @@
 <!ENTITY fxaccount_status_needs_upgrade "Teriḍ ad leqqmeḍ &brandShortName; akken ad tkecmeḍ.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg iɣewwaṛen Android &gt; Aseqdec n isefka.">
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; yettusbadu, acukan ur yessemtaway ara s wudem awurman. Sit ɣef “Semtawi isefka s wudem awuman” deg umuɣ iɣewwaṛen Android &gt; Imiḍanen.">
-<!ENTITY fxaccount_status_needs_finish_migrating "Senned akken ad tkecmeḍ ɛer umiḍan-inek Firefox amaynut.">
+<!ENTITY fxaccount_status_needs_finish_migrating "Senned akken ad tkecmeḍ γer umiḍan inek Firefox amaynut.">
 <!ENTITY fxaccount_status_bookmarks "Ticraḍ n isebtar">
 <!ENTITY fxaccount_status_history "Amazray">
 <!ENTITY fxaccount_status_passwords2 "Inekcam">
