@@ -852,4 +852,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "इतिहासबाट मेट्नुहोस्">
 
 <!ENTITY activity_stream_welcome_title "स्वागत छ आफ्नो विशेषताहरूमा">
-
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ले अब तपाईंले वेबमा फेला पार्नु भएको कुराहरू याद राख्छ, ताकि तपाईंले यहाँ भेट्नुभएका लेख, भिडियो, पुस्तकचिनोहरू सजिलै भेट्नुहोस्।">
