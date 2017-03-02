@@ -30,6 +30,14 @@
 <!ENTITY aboutNetworking.bytesSent             "Byte mandæ">
 <!ENTITY aboutNetworking.bytesReceived         "Byte reçevui">
 <!ENTITY aboutNetworking.logging               "Registro">
+<!ENTITY aboutNetworking.logTutorial           "Amia o <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'> diaio HTTP</a> pe instruçioin in sce comme dueviâ sto strumento.">
+<!ENTITY aboutNetworking.currentLogFile        "File do diaio corente:">
+<!ENTITY aboutNetworking.currentLogModules     "Mòdoli do diaio corente:">
+<!ENTITY aboutNetworking.setLogFile            "Seleçionn-a file do diaio">
+<!ENTITY aboutNetworking.setLogModules         "Inpòsta mòdoli do diaio">
+<!ENTITY aboutNetworking.startLogging          "Iniçia a registrâ">
+<!ENTITY aboutNetworking.stopLogging           "Ferma a registraçion">
+<!ENTITY aboutNetworking.dnsLookup             "Lookup DNS">
 <!ENTITY aboutNetworking.dnsLookupButton       "Risolvi">
 <!ENTITY aboutNetworking.dnsDomain             "Dominio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
