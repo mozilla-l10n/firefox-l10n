@@ -215,9 +215,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Կառավարել բաղադրիչների օգտագործումը">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառավարել խցիկի և/կամ բարձրախոսի համաօգտագործումը այս կայքի հետ">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառավարել ձեր բարձրախոսի համաօգտագործումը այս կայքի հետ">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Կառավարել պատուհանների կամ էկրանի համաօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառավարել ձեր բարձրախոսի համօգտագործումը այս կայքի հետ">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Կառավարել պատուհանների կամ էկրանի համօգտագործումը այս կայքի հետ">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Բացել տեղադրել հաղորդագրության վահանակը">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Թարգմանել այս էջը">
@@ -226,7 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Դուք արգելափակել եք ձեր տեսախցիկը այս կայքի համար:">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Դուք արգելափակել եք բարձրախոսը այս կայքի համար:">
-<!ENTITY urlbar.screenBlocked.tooltip            "Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համաօգտագործելուց:">
+<!ENTITY urlbar.screenBlocked.tooltip            "Դուք արգելափակել եք այս կայքը՝ ձեր էկրանի համօգտագործելուց:">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Դուք արգելափակել եք տեղադրության տեղեկությունը այս կայքի համար:">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Դուք արգելափակել եք տվյալների պահեստը այս կայքի համար:">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Դուք արգելափակել եք ծանուցումները այս կայքի համար:">
@@ -814,7 +814,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "Մ">
 <!ENTITY getUserMedia.selectMicrophone.label "Մուտք խոսափողին.">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "Մ">
-<!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանյութը կհամաօգտագործվի:">
+<!ENTITY getUserMedia.audioCapture.label "Ներդիրի ձայնանյութը կհամօգտագործվի:">
 <!ENTITY getUserMedia.allWindowsShared.message "Էկրանի բոլոր տեսանելի պատուհանները կտարածվեն:">
 
 <!ENTITY trackingProtection.title "Հետագծման պաշտպանություն">
