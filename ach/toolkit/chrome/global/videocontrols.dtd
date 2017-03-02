@@ -24,12 +24,12 @@
 <!ENTITY stats.framesPresented "Purem ma kinyutu">
 <!ENTITY stats.framesPainted "Purem ma kiwero">
 
-<!ENTITY error.aborted "Kijuko cano video woko.">
-<!ENTITY error.network "Kijuko woko tuku video malube ki bal me kube me wiyamo.">
-<!ENTITY error.decode "Video pe romo tuku pien file otyeko bale woko.">
-<!ENTITY error.srcNotSupported "Kit me yubu Video onyo MIME pe kicwako.">
-<!ENTITY error.noSource2 "Pe kinongo video mo keken ki MIME ma tiyo.">
-<!ENTITY error.generic "Kijuko woko tuku cal video pi bal ma pe ngene.">
+<!ENTITY error.aborted "Kijuko woko cano vidio.">
+<!ENTITY error.network "Kijuko woko tuko vidio malube ki bal me netwak.">
+<!ENTITY error.decode "Pe kitwero tuko vidio pien pwail ne obale woko.">
+<!ENTITY error.srcNotSupported "Pe kicwako kit onyo MIME me vidio ne.">
+<!ENTITY error.noSource2 "Pe kinongo vidio mo ki kit ma kicwako onyo MIME.">
+<!ENTITY error.generic "Kijuko woko tuko vidio malube ki bal me pe ngene.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at
 the 5 minute mark in a 6 hour long video, #1 would be "5:00" and #2 would be

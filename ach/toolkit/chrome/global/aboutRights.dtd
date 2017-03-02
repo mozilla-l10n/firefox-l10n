@@ -47,7 +47,7 @@
 <!ENTITY rights2.webservices-header "&brandFullName; Nyec tic me Web-Based">
 <!-- point 5 -->
 
-<!ENTITY rights.intro-point5 "Wek otuk lakit video mogo, &brandShortName; gamo dul jami moni me weko bedo leng ki bot pati me adek.">
+<!ENTITY rights.intro-point5 "Me tuko cut lakit vidio mogo, &brandShortName; gamo dul jami moni me gonyo ne ki bot pati me adek.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
