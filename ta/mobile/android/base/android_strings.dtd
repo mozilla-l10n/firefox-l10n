@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "புத்தகக்குறி உள்ளது">
 <!ENTITY overlay_share_send_other "பிற கருவிகளுக்கு அனுப்பு">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; என்பதில் திறக்கவும்">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -539,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "கச்சிதமான கீற்றுகள்">
+<!ENTITY pref_compact_tabs_summary2 "உருவப்பட முறையில் இரண்டு பத்திகளில் கீற்றுகளை ஏற்பாடு செய்">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -848,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "நிராகரி">
 <!ENTITY activity_stream_delete_history "வரலாற்றிலிருந்து அழி">
 
+<!ENTITY activity_stream_welcome_title "உங்களது சிறப்பம்சங்களுக்கு வரவேற்கிறோம்">
 
