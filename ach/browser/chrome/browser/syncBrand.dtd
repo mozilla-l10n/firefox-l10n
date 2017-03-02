@@ -2,6 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncBrand.shortName.label  "Tim marom">
-<!ENTITY syncBrand.fullName.label   "Tim Firefox marom">
+<!ENTITY syncBrand.shortName.label  "Ribo">
+<!ENTITY syncBrand.fullName.label   "Ribo Firefox">
 <!ENTITY syncBrand.fxAccount.label  "Akaunt me Firefox">

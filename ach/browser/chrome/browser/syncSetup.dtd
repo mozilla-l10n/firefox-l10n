@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY accountSetupTitle.label    "&syncBrand.fullName.label; Tero">
+<!ENTITY accountSetupTitle.label    "Tero &syncBrand.fullName.label;">
 <!-- First page of the wizard -->
 
 
@@ -63,10 +63,10 @@
 <!ENTITY addDevice.dontHaveDevice.label     "Pe atye ki nyonyo ne bota">
 <!ENTITY pairDevice.setup.description.label  "Me cako, yer &quot;ket Nyonyo aryo kacel&quot; ikom nyonyo ni mukene.">
 <!ENTITY addDevice.setup.enterCode.label    "Ci, ket nyig coc man:">
-<!ENTITY pairDevice.dialog.description.label "Me cako nyonyo ni manyen, yer &quot;Ter tim marom&quot; ikom nyonyo ne.">
+<!ENTITY pairDevice.dialog.description.label "Me cako nyonyo ni manyen, yer &quot;Ter Ribo&quot; ikom nyonyo ne.">
 <!ENTITY addDevice.dialog.enterCode.label   "Ket nyig coc ma nyonyo ne miyo:">
 <!ENTITY addDevice.dialog.tryAgain.label    "Tim ber item doki.">
-<!ENTITY addDevice.dialog.successful.label  "Kimedo nyonyo ne maber. Tic marom mukwongo twero tero dakika mogo kadong bitum ingeye.">
+<!ENTITY addDevice.dialog.successful.label  "Kimedo nyonyo ne maber. Rib mukwongo twero tero dakika mogo kadong bitum ingeye.">
 <!ENTITY addDevice.dialog.recoveryKey.label     "Me cako nyonyo mamegi bimite ki yin me keto lagony me dwogo. Tim ber i go onyo gwok lagony man kadong i te kwedi.">
 <!ENTITY addDevice.dialog.connected.label   "Nyonyo okube">
 <!-- Existing Account Page 2: Manual Login -->
@@ -78,11 +78,11 @@
 <!ENTITY resetSyncKey.label           "Arwenyo nyonyo na mukene ni.">
 <!-- Sync Options -->
 
-<!ENTITY setup.optionsPage.title      "Tim gin ayera marom">
+<!ENTITY setup.optionsPage.title      "Ter me Ribo">
 <!ENTITY syncDeviceName.label       "Nying Nyonyo:">
 <!ENTITY syncDeviceName.accesskey   "y">
 
-<!ENTITY syncMy.label               "Tima marom">
+<!ENTITY syncMy.label               "Rib">
 <!ENTITY engine.bookmarks.label     "Alama buk">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Yab dirica matino">

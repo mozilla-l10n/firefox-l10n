@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "w">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "Dony iye &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Dony iyie &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Yab ter me &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Nwo kube bot &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Mok akaunt mamegi">
@@ -349,19 +349,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.viewSidebar.label "Nen gintic me gin mukato">
 <!ENTITY appMenuHelp.tooltip "Yab lakony me nying gin ayera">
 
-<!ENTITY appMenuRemoteTabs.label "Dirica matino ma kitimo marom">
+<!ENTITY appMenuRemoteTabs.label "Dirica matino ma kiribo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Dirica matino pe ayaba">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+<!ENTITY appMenuRemoteTabs.noclients.title "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "imito neno dirica matino ki nyonyo mukene?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Ter me timo marom">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Ter me rib">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
-<!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me timo marom">
+<!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Med bot gintic">
@@ -737,16 +739,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Dirica matino me layeny">
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
-<!ENTITY syncTabsMenu3.label     "Dirica matino ma kitimo marom">
+<!ENTITY syncTabsMenu3.label     "Dirica matino ma kiribo">
 
+<!ENTITY syncedTabs.sidebar.label              "Dirica matino ma kiribo">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Dony iyie Firefox ki i nyonyo ni mukene me neno dirica matino gi kany.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kitimo marom pud petye!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Imito neno dirica matino ni ki i nyonyo mukene kany?">
 
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dirica matino pe ayaba">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Yab ter me &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
@@ -769,15 +773,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Y">
 
 
-<!ENTITY syncBrand.shortName.label    "Tim marom">
+<!ENTITY syncBrand.shortName.label    "Ribo">
 
-<!ENTITY syncSignIn.label             "Dony iye &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Dony iyie &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
-<!ENTITY syncSyncNowItem.label        "Tim marom Kombedi">
-<!ENTITY syncSyncNowItem.accesskey    "T">
+<!ENTITY syncSyncNowItem.label        "Rib Kombedi">
+<!ENTITY syncSyncNowItem.accesskey    "R">
 <!ENTITY syncReAuthItem.label         "Nwo kube bot &syncBrand.shortName.label;…">
 <!ENTITY syncReAuthItem.accesskey     "N">
-<!ENTITY syncToolbarButton.label      "Tim marom">
+<!ENTITY syncToolbarButton.label      "Ribo">
 
 <!ENTITY social.addons.label "Lor tic…">
 

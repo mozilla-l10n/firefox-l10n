@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncCustomize.dialog.title       "Yer me tic marom">
+<!ENTITY syncCustomize.dialog.title       "Yer me Ribo">
 <!ENTITY syncCustomize.acceptButton.label "Cak">
 
-<!ENTITY syncCustomize.title              "Ngo ma imito timo marom?">
+<!ENTITY syncCustomize.title              "Ngo ma imito ribo?">
 <!ENTITY syncCustomize.description        "Itwero loko yer man i gin ayera.">
 <!ENTITY syncCustomizeUnix.description    "Itwero loko yer man i ma imaro.">
 <!--

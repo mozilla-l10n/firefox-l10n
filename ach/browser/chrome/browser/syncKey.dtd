@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY syncKey.page.title               "Lagony &syncBrand.fullName.label;mamegi">
+<!ENTITY syncKey.page.title               "Lagony mamegi me &syncBrand.fullName.label;">
 <!ENTITY syncKey.page.description2        "Lagony man kitiyo kwede me mungo tic mamegi matye i &syncBrand.fullName.label; akaunt. Bi mite ki yin me keto lagony ne kare mo keken ma iyiko &syncBrand.fullName.label; i nyonyo manyen.">
 <!ENTITY syncKey.keepItSecret.heading     "Gwok obed imung">
 <!ENTITY syncKey.keepItSecret.description "Akaunt &syncBrand.fullName.label; mamegi kimungo woko me gwoko mungi. Labongo lagony man, bitero mwaki pi ngat mo me yabo ngec mamegi. Yin keken ma i tye ki lagony man. Te looke ni yin keken ma twero nongo &syncBrand.fullName.label; tic mamegi.">

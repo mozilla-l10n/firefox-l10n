@@ -18,11 +18,11 @@
 <!ENTITY manageAccount.accesskey      "A">
 <!ENTITY changePassword2.label        "Lok mung me donyo…">
 <!ENTITY myRecoveryKey.label          "Lagony mamega me Nong">
-<!ENTITY resetSync2.label             "Nwo tero tim marom…">
+<!ENTITY resetSync2.label             "Nwo tero Ribo…">
 
 <!ENTITY pairDevice.label             "Ket nyo aryo kacel">
 
-<!ENTITY syncMy.label               "Tim marom">
+<!ENTITY syncMy.label               "Rib">
 <!ENTITY engine.bookmarks.label     "Alama me buk">
 <!ENTITY engine.bookmarks.accesskey "l">
 <!ENTITY engine.tabs.label2         "Yab dirica matino">
@@ -88,17 +88,17 @@ both, to better adapt this sentence to their language.
 <!ENTITY welcome.signIn.label "Dony iye">
 <!ENTITY welcome.createAccount.label "Cwe akaunt">
 
-<!ENTITY welcome.useOldSync.label "Itye katic ki kit Tim marom macon?">
+<!ENTITY welcome.useOldSync.label "Itye katic ki kit me Ribo macon?">
 
 <!ENTITY signedOut.caption            "Ter Kakube ni kwedi">
-<!ENTITY signedOut.description        "Tim alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki jami ayera i nyonyo ni weng marom.">
+<!ENTITY signedOut.description        "Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.">
 <!ENTITY signedOut.accountBox.title   "Kube ki &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cwe akaunt">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Dony iye">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Tii marom i nyonyo weng">
+<!ENTITY signedIn.engines.label       "Rib i nyonyo weng">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
@@ -114,4 +114,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " me tic marom ki nyonyo me cing mamegi.">
+<!ENTITY mobilePromo3.end              " me ribo ki nyonyo mamegi me cing.">
