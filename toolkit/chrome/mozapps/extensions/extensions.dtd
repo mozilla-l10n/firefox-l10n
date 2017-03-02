@@ -230,7 +230,7 @@
 <!ENTITY experiment.info.changetelemetry "Telemetri-innstillingar">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
-<!ENTITY setting.learnmore "Les meir …">
+<!ENTITY setting.learnmore "Les meir…">
 
 <!ENTITY disabledUnsigned.heading "Nokre utvidingar er slått av">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):

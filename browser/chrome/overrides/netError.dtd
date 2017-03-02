@@ -95,7 +95,7 @@ was trying to connect. -->
 <!ENTITY securityOverride.exceptionButtonLabel "Legg til eit unntak…">
 
 <!ENTITY errorReporting.automatic2 "Rapporter feil som dette for å hjelpa Mozilla med å identifisera og blokkera skadelege nettstadar">
-<!ENTITY errorReporting.learnMore "Les meir …">
+<!ENTITY errorReporting.learnMore "Les meir…">
 
 <!ENTITY remoteXUL.title "Ekstern-XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Kontakt nettstadseigarane og informer dei om dette problemet.</li></ul></p>">
