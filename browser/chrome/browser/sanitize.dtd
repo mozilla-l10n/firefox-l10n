@@ -46,18 +46,18 @@ that require it.  -->
 <!ENTITY detailsProgressiveDisclosure.accesskey "П">
 
 <!ENTITY historySection.label         "Гісторыю">
-<!ENTITY dataSection.label            "Здаткі">
+<!ENTITY dataSection.label            "Дадзеныя">
 
-<!ENTITY itemHistoryAndDownloads.label     "Гісторыя глядання і сцягванняў">
+<!ENTITY itemHistoryAndDownloads.label     "Гісторыя аглядання і сцягванняў">
 <!ENTITY itemHistoryAndDownloads.accesskey "а">
 <!ENTITY itemFormSearchHistory.label       "Гісторыя пошуку і запаўнення формаў">
 <!ENTITY itemFormSearchHistory.accesskey   "ф">
-<!ENTITY itemCookies.label                 "Біркі">
+<!ENTITY itemCookies.label                 "Кукі">
 <!ENTITY itemCookies.accesskey             "Б">
-<!ENTITY itemCache.label                   "Запаснік">
+<!ENTITY itemCache.label                   "Кэш">
 <!ENTITY itemCache.accesskey               "З">
-<!ENTITY itemOfflineApps.label             "Пазасеткавыя здаткі пляцовак сеціва">
-<!ENTITY itemOfflineApps.accesskey         "д">
+<!ENTITY itemOfflineApps.label             "Пазасеткавыя дадзеныя пляцовак сеціва">
+<!ENTITY itemOfflineApps.accesskey         "П">
 <!ENTITY itemActiveLogins.label            "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey        "ў">
 <!ENTITY itemSitePreferences.label         "Перавагі пляцовак">
