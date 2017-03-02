@@ -11,7 +11,7 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "여러 개의 탭을 동시에 닫으려고 할 때 알려주기">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOnOpenManyTabs.label       "여러개의 탭을 열어서 &brandShortName가 느려질 수 있으면 알려주기">
+<!ENTITY warnOnOpenManyTabs.label       "여러개의 탭을 열어서 &brandShortName;가 느려질 수 있으면 알려주기">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "링크를 새 탭으로 열면 해당 탭으로 전환">
