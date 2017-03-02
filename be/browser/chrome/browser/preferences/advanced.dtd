@@ -53,7 +53,7 @@
 <!ENTITY connectionSettings.label        "Налады…">
 <!ENTITY connectionSettings.accesskey    "л">
 
-<!ENTITY httpCache.label                 "Назапашанае сеціўнае змесціва">
+<!ENTITY httpCache.label                 "Кэшаванае сеціўнае змесціва">
 
 <!ENTITY offlineStorage2.label           "Пазасеткавае сеціўнае змесціва і карыстальніцкія дадзеныя">
 
@@ -71,14 +71,14 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-<!ENTITY limitCacheSizeBefore.label      "Абмежаваць запаснік">
+<!ENTITY limitCacheSizeBefore.label      "Абмежаваць кэш">
 <!ENTITY limitCacheSizeBefore.accesskey  "м">
 <!ENTITY limitCacheSizeAfter.label       "МБ прасторы">
 <!ENTITY clearCacheNow.label             "Ачысціць зараз">
 <!ENTITY clearCacheNow.accesskey         "ч">
 <!ENTITY clearOfflineAppCacheNow.label   "Ачысціць зараз">
 <!ENTITY clearOfflineAppCacheNow.accesskey "з">
-<!ENTITY overrideSmartCacheSize.label    "Перахапіць кіраванне запаснікам">
+<!ENTITY overrideSmartCacheSize.label    "Перахапіць кіраванне кэшам">
 <!ENTITY overrideSmartCacheSize.accesskey "з">
 
 <!ENTITY updateTab.label                 "Абнаўленне">
