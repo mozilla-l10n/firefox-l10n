@@ -53,14 +53,14 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.label       "Гісторыя пошуку і запаўнення формаў">
 <!ENTITY itemFormSearchHistory.accesskey   "ф">
 <!ENTITY itemCookies.label                 "Кукі">
-<!ENTITY itemCookies.accesskey             "Б">
+<!ENTITY itemCookies.accesskey             "К">
 <!ENTITY itemCache.label                   "Кэш">
-<!ENTITY itemCache.accesskey               "З">
-<!ENTITY itemOfflineApps.label             "Пазасеткавыя дадзеныя пляцовак сеціва">
+<!ENTITY itemCache.accesskey               "К">
+<!ENTITY itemOfflineApps.label             "Пазасеткавыя дадзеныя вэб-сайтаў">
 <!ENTITY itemOfflineApps.accesskey         "П">
 <!ENTITY itemActiveLogins.label            "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey        "ў">
-<!ENTITY itemSitePreferences.label         "Перавагі пляцовак">
+<!ENTITY itemSitePreferences.label         "Налады сайтаў">
 <!ENTITY itemSitePreferences.accesskey     "ц">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
