@@ -36,7 +36,7 @@
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Kečč">
-<!ENTITY firstrun_account_message "Ɣur-k &brandShortName; deg yibenk nniḍen?">
+<!ENTITY firstrun_account_message "Γur-k &brandShortName; deg yibenk nniḍen?">
 
 <!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem-agi aḥerfi n &brandShortName;.">
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -154,7 +154,7 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter-agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
-<!ENTITY overlay_share_send_other "Azen ɣer yibenken nniḍen">
+<!ENTITY overlay_share_send_other "Azen ɣer yibenkan nniḍen">
 
 <!ENTITY overlay_share_open_browser_btn_label "Ldi di &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
