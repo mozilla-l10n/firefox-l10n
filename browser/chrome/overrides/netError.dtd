@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "Гэты адрас абмежаваны">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Паслугач не знойдзены">
+<!ENTITY dnsNotFound.title "Сервер не знойдзены">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Праверце адрас. Магчыма, вы зрабілі памылку падчас набору, як <strong>ww</strong>.example.com замест <strong>www</strong>.example.com</li> <li>Праверце злучэнне вашага кампутара з сеткаю, калі вы не здольны загрузіць ніводную старонку.</li> <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Файл не знойдзены">
@@ -67,16 +67,16 @@
 <!ENTITY unknownProtocolFound.title "Немагчыма распазнаць адрас">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Магчыма, вы павінны ўсталяваць іншую праграму, каб адчыніць гэты адрас.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Паслугач-пасярэднік адмовіўся злучацца">
+<!ENTITY proxyConnectFailure.title "Проксі-сервер адмовіўся злучацца">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Упэўніцеся, што наладжванні пасярэдніка правільныя.</li> <li>Звяжыцеся з спраўцам сеткі, каб ўпэўніцца, што паслугач-пасярэднік працуе.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Немагчыма знайсці паслугач-пасярэднік">
+<!ENTITY proxyResolveFailure.title "Немагчыма знайсці проксі-сервер">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Упэўніцеся, што наладжванні пасярэдніка правільныя.</li> <li>Упэўніцеся, што злучэнне вашага кампутара з сеткаю працуе.</li> <li>Упэўніцеся, калі ваш кампутар або сетка абараняюцца сетказаслонаю ці пасярэднікам,  што &brandShortName; дазволена мець доступ у Сеціва.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Гэтая праблема часам вынікае з забароны або адмаўлення ад набывання бірак.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Нечаканы адказ паслугача">
+<!ENTITY unknownSocketType.title "Нечаканы адказ сервера">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Упэўніцеся, што Асабісты Кіраўнік Бяспекі ўсталяваны ў вашай сістэме.</li> <li>Гэта магчыма з нагоды незвычайнай наладкі паслугача.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
