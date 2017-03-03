@@ -17,5 +17,5 @@
 <!ENTITY noPermissionError.label "U het nie die nodige toestemming om hierdie subgids te bekyk nie.">
 
 <!ENTITY folderUp.tooltiptext   "Gaan een vlak hoër">
-<!ENTITY folderHome.tooltiptext "Gaan na tuis">
+<!ENTITY folderHome.tooltiptext "Gaan na tuisgids">
 <!ENTITY folderNew.tooltiptext  "Skep nuwe subgids">
