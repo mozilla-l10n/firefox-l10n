@@ -13,9 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "a">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Søgeforslag vil ikke blive vist i adressefeltet, fordi du har sat &brandShortName; op til aldrig at gemme historik.">
 
-<!ENTITY redirectWindowsSearch.label "Brug denne søgetjeneste til søgninger fra Windows">
-<!ENTITY redirectWindowsSearch.accesskey "W">
-
 <!ENTITY oneClickSearchEngines.label           "Lyn-søgetjenester">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Du kan søge direkte i andre søgetjenester. Vælg hvilke, der skal vises.">

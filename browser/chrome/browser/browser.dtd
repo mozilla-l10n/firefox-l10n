@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Åbn">
 <!ENTITY syncedTabs.context.open.accesskey                   "Å">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Åbn i et nyt faneblad">
@@ -769,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Åbn alle i faneblade">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "a">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 

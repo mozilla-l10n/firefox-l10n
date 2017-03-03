@@ -197,9 +197,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
 <!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Det er ikke muligt at oprette en sikker forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet.</p> <p>Din computer mener, at det er <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet, hvilket forhindrer, at en sikker forbindelse kan oprettes.</p> <p>Din computer er indstillet til <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTimeWithoutReference_URL'/> fordi din computers ur lader til at være forkert indstillet</p> <p>Din computer er indstillet til <span id='wrongSystemTimeWithoutReference_systemDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker forbindelse">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger  HTTP
