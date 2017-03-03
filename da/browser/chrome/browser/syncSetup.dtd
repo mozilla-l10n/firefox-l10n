@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Synkroniser mine">
 <!ENTITY engine.bookmarks.label     "Bogmærker">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label          "Faneblade">
-<!ENTITY engine.tabs.accesskey      "F">
+<!ENTITY engine.tabs.label2         "Åbne faneblade">
+<!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Adgangskoder">

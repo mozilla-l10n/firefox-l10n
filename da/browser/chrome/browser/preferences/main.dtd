@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Når &brandShortName; starter:">
 <!ENTITY startupPage.accesskey     "t">
-<!ENTITY startupHomePage.label     "Vis min startside">
+<!ENTITY startupUserHomePage.label     "Vis min startside">
 <!ENTITY startupBlankPage.label    "Vis en blank side">
-<!ENTITY startupLastSession.label  "Vis mine vinduer og faneblade fra sidste gang">
+<!ENTITY startupPrevSession.label  "Vis mine vinduer og faneblade fra sidste gang">
 
 <!ENTITY homepage.label            "Startside:">
 <!ENTITY homepage.accesskey        "S">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Vælg…">
 <!ENTITY chooseFolderMac.accesskey    "æ">
-<!ENTITY alwaysAsk.label "Spørg mig altid, hvor filer skal gemmes">
-<!ENTITY alwaysAsk.accesskey "a">
+<!ENTITY alwaysAskWhere.label "Spørg mig altid, hvor filer skal gemmes">
+<!ENTITY alwaysAskWhere.accesskey "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Undersøg altid om &brandShortName; er din standardbrowser">
 <!ENTITY alwaysCheckDefault2.accesskey    "U">

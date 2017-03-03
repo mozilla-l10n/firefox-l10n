@@ -6,12 +6,12 @@
 <!ENTITY window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overridePageColors.label        "Erstat sidens farver med mine valg ovenfor:">
-<!ENTITY  overridePageColors.accesskey    "v">
+<!ENTITY  overrideDefaultPageColors.label        "Erstat sidens farver med mine valg ovenfor:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "v">
 
-<!ENTITY  overridePageColors.always.label "Altid">
-<!ENTITY  overridePageColors.auto.label   "Kun når temaer med høj kontrast er valgt">
-<!ENTITY  overridePageColors.never.label  "Aldrig">
+<!ENTITY  overrideDefaultPageColors.always.label "Altid">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Kun når temaer med høj kontrast er valgt">
+<!ENTITY  overrideDefaultPageColors.never.label  "Aldrig">
 
 <!ENTITY color                           "Tekst og baggrund">
 <!ENTITY textColor.label                 "Tekst:">

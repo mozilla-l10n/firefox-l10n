@@ -45,7 +45,6 @@
 <!ENTITY cmd.resume.label                 "Genoptag">
 <!ENTITY cmd.resume.accesskey             "G">
 <!ENTITY cmd.cancel.label                 "Annuller">
-<!ENTITY cmd.cancel.accesskey             "A">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share

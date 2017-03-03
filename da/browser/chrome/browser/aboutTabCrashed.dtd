@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Send mig en mail, når der er mere information om problemet">
 <!ENTITY tabCrashed.reportSent "Fejlrapporten er allerede indsendt. Mange tak fordi du hjælper med at gøre &brandShortName; bedre!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Indrapporter faneblade i baggrunden">
-<!ENTITY tabCrashed.autoSubmit "Opdater dine indstillinger til automatisk at indsende fejlrapporter om tidligere nedbrud (og få færre beskeder som denne fra os i fremtiden)">
+<!ENTITY tabCrashed.autoSubmit2 "Opdater dine indstillinger til automatisk at indsende fejlrapporter, inklusiv rapporter om faneblade i baggrunden, der er gået ned i denne og fremtidige sessioner">
