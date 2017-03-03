@@ -21,7 +21,7 @@
 <!ENTITY  generalMode           "Рэжым адлюстравання:">
 <!ENTITY  generalSize           "Памер:">
 <!ENTITY  generalReferrer       "Спасылальны URL:">
-<!ENTITY  generalSource         "Крыніца ў запасніку:">
+<!ENTITY  generalSource         "Крыніца кэшавання:">
 <!ENTITY  generalModified       "Зменена:">
 <!ENTITY  generalEncoding2      "Кадаванне тэксту:">
 <!ENTITY  generalMetaName       "Назва">

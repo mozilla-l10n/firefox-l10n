@@ -4,8 +4,8 @@
 
 <!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Бібліятэка">
-<!ENTITY places.library.width  "740">
-<!ENTITY places.library.height "520">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Уладкаваць">
 <!ENTITY organize.accesskey    "У">
 <!ENTITY organize.tooltip      "Упарадкаваць вашы закладкі">
@@ -15,7 +15,7 @@
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Выгляд">
 <!ENTITY views.accesskey                "В">
-<!ENTITY views.tooltip                  "Змяніць праяву">
+<!ENTITY views.tooltip                  "Змяніць выгляд">
 <!ENTITY view.columns.label             "Паказаць слупкі">
 <!ENTITY view.columns.accesskey         "с">
 <!ENTITY view.sort.label                "Размеркаваць">
@@ -31,8 +31,8 @@
 <!ENTITY importBookmarksFromHTML.accesskey "І">
 <!ENTITY exportBookmarksToHTML.label       "Экспарт закладак у HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "Э">
-<!ENTITY importOtherBrowser.label          "Імпарт здаткаў з іншага браўзера…">
-<!ENTITY importOtherBrowser.accesskey      "а">
+<!ENTITY importOtherBrowser.label          "Імпарт дадзеных з іншага браўзера…">
+<!ENTITY importOtherBrowser.accesskey      "і">
 
 <!ENTITY cmd.backup.label               "Стварыць рэзервовую копію…">
 <!ENTITY cmd.backup.accesskey           "С">
@@ -58,8 +58,8 @@
 <!ENTITY cmd.properties.label      "Уласцівасці">
 <!ENTITY cmd.properties.accesskey  "У">
 
-<!ENTITY cmd.sortby_name.label              "Размеркаваць па назве">
-<!ENTITY cmd.sortby_name.accesskey          "н">
+<!ENTITY cmd.sortby_name.label              "Сартаваць паводле імя">
+<!ENTITY cmd.sortby_name.accesskey          "С">
 <!ENTITY cmd.context_sortby_name.accesskey  "н">
 
 <!ENTITY cmd.new_bookmark.label            "Новая закладка…">
@@ -68,7 +68,7 @@
 <!ENTITY cmd.new_folder.accesskey          "Н">
 <!ENTITY cmd.context_new_folder.accesskey  "п">
 <!ENTITY cmd.new_separator.label           "Новы межнік">
-<!ENTITY cmd.new_separator.accesskey       "р">
+<!ENTITY cmd.new_separator.accesskey       "м">
 
 <!ENTITY cmd.reloadLivebookmark.label      "Абнавіць жывую закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "А">
