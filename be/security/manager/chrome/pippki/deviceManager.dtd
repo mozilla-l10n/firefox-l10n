@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY devmgr.title                           "Кіраўнік збудоваў">
+<!ENTITY devmgr.title                           "Дыспетчар прылад">
 <!-- LOCALIZATION NOTE (devmgr.style2): This is CSS style for Device Manager
      window size. Don't translate "width" nor "height". Adjust the numbers
      to make window contents fit. -->
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
-<!ENTITY devmgr.devlist.label                   "Модулі і збудовы бяспекі">
+<!ENTITY devmgr.devlist.label                   "Модулі і прылады бяспекі">
 <!ENTITY devmgr.details.title                   "Падрабязнасці">
 <!ENTITY devmgr.details.title2                  "Значэнне">
 
@@ -33,4 +33,4 @@
 <!ENTITY loaddevice.browse                      "Агляд…">
 <!ENTITY loaddevice.browse.accesskey            "А">
 
-<!ENTITY loaddevice.title                       "Загрузка збудовы PKCS#11">
+<!ENTITY loaddevice.title                       "Загрузка прылады PKCS#11">

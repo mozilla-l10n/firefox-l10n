@@ -6,13 +6,13 @@
 
 <!ENTITY certmgr.tab.mine                     "Вашы пасведчанні">
 <!ENTITY certmgr.tab.others2                  "Людзі">
-<!ENTITY certmgr.tab.websites3                "Паслугачы">
+<!ENTITY certmgr.tab.websites3                "Серверы">
 <!ENTITY certmgr.tab.ca                       "Крыніцы пасведчанняў">
 <!ENTITY certmgr.tab.orphan2                  "Іншыя">
 
 <!ENTITY certmgr.mine                         "Вы маеце пасведчанні наступных установаў, якія вызначаюць вас:">
 <!ENTITY certmgr.others                       "Вы маеце пасведчанні, якія вызначаюць наступных асобаў:">
-<!ENTITY certmgr.websites2                    "Вы маеце пасведчанні, якія вызначаюць наступныя паслугачы:">
+<!ENTITY certmgr.websites2                    "Вы маеце пасведчанні, якія вызначаюць наступныя серверы:">
 <!ENTITY certmgr.cas                          "Вы маеце пасведчанні, якія вызначаюць наступныя крыніцы пасведчанняў:">
 <!ENTITY certmgr.orphans                      "Вы маеце пасведчанні, якія не пападаюць ні ў адну з іншых катэгорыяў:">
 
@@ -43,9 +43,9 @@
 <!ENTITY certmgr.deletecert.title             "Выдаленне пасведчання">
 
 <!ENTITY certmgr.certname                     "Назва пасведчання">
-<!ENTITY certmgr.certserver                   "Паслугач">
+<!ENTITY certmgr.certserver                   "Сервер">
 <!ENTITY certmgr.override_lifetime            "Час жыцця">
-<!ENTITY certmgr.tokenname                    "Збудова бяспекі">
+<!ENTITY certmgr.tokenname                    "Прылада бяспекі">
 <!ENTITY certmgr.begins                       "Пачынаецца (калі)">
 <!ENTITY certmgr.expires                      "Высільваецца (калі)">
 <!ENTITY certmgr.email                        "Э-паштовы адрас">
@@ -82,7 +82,7 @@
 <!ENTITY exceptionMgr.exceptionButton.label   "Пацвердзіць выключэнне бяспекі">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ц">
 <!ENTITY exceptionMgr.supplementalWarning     "Правамоцныя банкі, біржы і іншыя прылюдныя пляцоўкі ніколі не будуць прасіць вас рабіць гэта.">
-<!ENTITY exceptionMgr.certlocation.caption2   "Паслугач">
+<!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Месцазнаходжанне:">
 <!ENTITY exceptionMgr.certlocation.download   "Атрымаць пасведчанне">
 <!ENTITY exceptionMgr.certlocation.accesskey  "А">
