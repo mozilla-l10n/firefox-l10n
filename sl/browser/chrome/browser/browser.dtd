@@ -773,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopiraj">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Vse odpri v zavihkih">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "V">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
