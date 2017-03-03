@@ -52,6 +52,7 @@
 <!ENTITY offlineStorage2.label           "Yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataLearnMoreLink.label     "Lue lisää">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single

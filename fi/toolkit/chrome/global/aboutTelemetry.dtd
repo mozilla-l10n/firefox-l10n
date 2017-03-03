@@ -100,6 +100,10 @@ Ping
   Ohjelmasäikeen jäätymiset
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Kaapatut pinot
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skaalariarvot
 ">
@@ -114,6 +118,10 @@ Ping
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogrammit merkinnöistä
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Tapahtumat
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
