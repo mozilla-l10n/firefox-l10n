@@ -42,7 +42,9 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "Агульны час">
+<!ENTITY performanceUI.table.selfDuration             "Уласны час">
 <!ENTITY performanceUI.table.totalPercentage          "Агульныя выдаткі">
+<!ENTITY performanceUI.table.selfPercentage           "Уласныя выдаткі">
 <!ENTITY performanceUI.table.samples                  "Узоры">
 <!ENTITY performanceUI.table.function                 "Функцыя">
 
@@ -86,6 +88,8 @@
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
+<!ENTITY performanceUI.enableFramerate             "Запіс частаты кадраў">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Запіс частаты кадраў падчас прафілявання.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
