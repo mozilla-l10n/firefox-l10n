@@ -6,7 +6,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "е">
 
 <!ENTITY newWindowsAsTabs.label       "Адкрываць новыя вокны ў новых картках">
-<!ENTITY newWindowsAsTabs.accesskey   "у">
+<!ENTITY newWindowsAsTabs.accesskey   "в">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Папярэджваць пры закрыцці некалькіх картак">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "ь">

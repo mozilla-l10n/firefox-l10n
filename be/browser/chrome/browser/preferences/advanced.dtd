@@ -79,7 +79,7 @@
 <!ENTITY clearOfflineAppCacheNow.label   "Ачысціць зараз">
 <!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Перахапіць кіраванне кэшам">
-<!ENTITY overrideSmartCacheSize.accesskey "з">
+<!ENTITY overrideSmartCacheSize.accesskey "П">
 
 <!ENTITY updateTab.label                 "Абнаўленне">
 
