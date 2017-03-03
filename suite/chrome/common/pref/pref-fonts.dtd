@@ -54,6 +54,9 @@
 <!ENTITY  font.langGroup.khmer                    "Cambojano">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matemáticas">
+<!ENTITY  font.langGroup.odia                     "Odia">
+<!ENTITY  font.langGroup.telugu                   "Telugu">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Cingalês">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!ENTITY  font.langGroup.other                    "Outros sistemas de escrita">
