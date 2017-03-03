@@ -63,8 +63,8 @@
 <!ENTITY performanceUI.table.samples                  "Узоры">
 <!ENTITY performanceUI.table.samples.tooltip          "Колькасць знаходжанняў гэтай функцыі ў стэку, калі прафайлер зрабіў узор.">
 <!ENTITY performanceUI.table.function                 "Функцыя">
-<!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы ўзорнай функцыі.">
-<!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць ўзорных размяшчэнняў">
+<!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы выбранай функцыі.">
+<!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць выбраных размяшчэнняў">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Агульная колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы і ў выкліках.">
 <!ENTITY performanceUI.table.selfAlloc                "Уласныя выбраныя размяшчэнні">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы.">
@@ -97,7 +97,7 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "Адлюстраванне аптымізацый JIT">
-<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Адлюстраванне дадзеных аптымізацыі JIT, што былі вымераныя ў кожным фрэйме JavaScript.">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Адлюстраванне дадзеных аптымізацыі JIT, што былі выбраныя ў кожным фрэйме JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
