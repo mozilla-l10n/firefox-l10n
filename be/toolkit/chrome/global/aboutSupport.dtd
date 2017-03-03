@@ -5,32 +5,35 @@
 <!ENTITY aboutSupport.pageTitle "Звесткі для вырашэння праблемаў">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры вырашэнні праблемаў. Калі вы шукаеце адказы на найбольш агульныя пытанні пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Гэта старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі, калі
+  спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
+  пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Cправаздачы пра крахі">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
-<!ENTITY aboutSupport.crashes.id "Вызначальнік справаздачы">
+<!ENTITY aboutSupport.crashes.id "Ідэнтыфікатар справаздачы">
 <!ENTITY aboutSupport.crashes.sendDate "Пададзена">
 <!ENTITY aboutSupport.crashes.allReports "Усе справаздачы пра крахі">
-<!ENTITY aboutSupport.crashes.noConfig "Прыстасаванне не наладжана адлюстроўваць справаздачы пра крахі">
+<!ENTITY aboutSupport.crashes.noConfig "Гэта праграма не наладжана паказваць справаздачы пра крахі.">
 
 <!ENTITY aboutSupport.extensionsTitle "Пашырэнні">
 <!ENTITY aboutSupport.extensionName "Назва">
-<!ENTITY aboutSupport.extensionEnabled "Дазволены">
+<!ENTITY aboutSupport.extensionEnabled "Задзейнічана">
 <!ENTITY aboutSupport.extensionVersion "Версія">
-<!ENTITY aboutSupport.extensionId "Вызначальнік">
+<!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "Спробныя асаблівасці">
+<!ENTITY aboutSupport.experimentsTitle "Эксперыментальныя магчымасці">
 <!ENTITY aboutSupport.experimentName "Назва">
-<!ENTITY aboutSupport.experimentId "Вызначальнік">
+<!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "Апісанне">
 <!ENTITY aboutSupport.experimentActive "Дзейны">
 <!ENTITY aboutSupport.experimentEndDate "Канцавая дата">
 <!ENTITY aboutSupport.experimentHomepage "Хатняя старонка">
 <!ENTITY aboutSupport.experimentBranch "Галіна">
 
-<!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
+<!ENTITY aboutSupport.appBasicsTitle "Асновы праграмы">
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
 <!ENTITY aboutSupport.appBasicsBuildID "ID зборкі">
@@ -48,24 +51,29 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка профілю">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Канфігурацыя зборкі">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
 <!ENTITY aboutSupport.appBasicsOS "АС">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ужыванне памяці">
 <!ENTITY aboutSupport.appBasicsPerformance "Прадукцыйнасць">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Зарэгістраваныя сервіс-воркеры">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Профілі">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Шматпрацэсныя вокны">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Абаронены рэжым">
 
-<!ENTITY aboutSupport.showDir.label "Адчыніць дырэкторыю">
+<!ENTITY aboutSupport.showDir.label "Адкрыць дырэкторыю">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Паказаць у шукальніку">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Адкрыць каталог">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
@@ -75,9 +83,15 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Замкнёныя важныя настаўленні">
+<!ENTITY aboutSupport.lockedPrefsName "Назва">
+<!ENTITY aboutSupport.lockedPrefsValue "Значэнне">
 
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "База звестак месцаў">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Цэльнасць">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Праверыць цэльнасць">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
@@ -92,7 +106,18 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Скапіяваць тэкст у буфер абмену">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя здаткі ў буфер абмену">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя даныя ў буфер абмену">
 
+<!ENTITY aboutSupport.sandboxTitle "Пясочніца">
 
+<!ENTITY aboutSupport.safeModeTitle "Паспрабаваць абаронены рэжым">
+<!ENTITY aboutSupport.restartInSafeMode.label "Перазапусціць з адключанымі дадаткамі…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Магчымасці">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Дыягностыка">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Журнал падзенняў">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Журнал рашэнняў">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Адключаныя магчымасці абаронцы ад падзенняў">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Абыходныя шляхі">
