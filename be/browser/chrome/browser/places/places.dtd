@@ -11,7 +11,7 @@
 <!ENTITY organize.tooltip      "Упарадкаваць вашы закладкі">
 
 <!ENTITY file.close.label               "Закрыць">
-<!ENTITY file.close.accesskey           "ч">
+<!ENTITY file.close.accesskey           "З">
 <!ENTITY cmd.close.key                  "w">
 <!ENTITY views.label                    "Выгляд">
 <!ENTITY views.accesskey                "В">
@@ -49,7 +49,7 @@
 <!ENTITY cmd.open_window.label           "Адкрыць у новым акне">
 <!ENTITY cmd.open_window.accesskey       "н">
 <!ENTITY cmd.open_private_window.label     "Адкрыць у новым прыватным акне">
-<!ENTITY cmd.open_private_window.accesskey "З">
+<!ENTITY cmd.open_private_window.accesskey "п">
 <!ENTITY cmd.open_tab.label              "Адкрыць у новай картцы">
 <!ENTITY cmd.open_tab.accesskey          "в">
 <!ENTITY cmd.open_all_in_tabs.label      "Адкрыць усё ў картках">

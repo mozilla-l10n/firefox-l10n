@@ -87,7 +87,7 @@
 <!ENTITY updateAuto1.label               "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
 <!ENTITY updateAuto1.accesskey           "С">
 <!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўстанаўліваць іх">
-<!ENTITY updateCheckChoose.accesskey     "С">
+<!ENTITY updateCheckChoose.accesskey     "П">
 <!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
 <!ENTITY updateManual.accesskey          "Н">
 
@@ -102,7 +102,7 @@
 <!ENTITY enableSearchUpdate.accesskey    "ш">
 
 <!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага ўжытку">
-<!ENTITY offlineStorageNotify.accesskey           "Е">
+<!ENTITY offlineStorageNotify.accesskey           "П">
 <!ENTITY offlineStorageNotifyExceptions.label     "Выключэнні…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ч">
 

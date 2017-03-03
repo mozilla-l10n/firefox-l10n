@@ -76,8 +76,8 @@
 
 <!ENTITY  securityView.privacy.header                   "Адасабленне і бяспека">
 <!ENTITY  securityView.privacy.history                  "Я наведваў гэтую пляцоўку Сеціва напярэдадні?">
-<!ENTITY  securityView.privacy.cookies                  "Захоўвае гэтая пляцоўка сеціва звесткі (біркі) на маім кампутары?">
-<!ENTITY  securityView.privacy.viewCookies              "Прагледзець біркі">
+<!ENTITY  securityView.privacy.cookies                  "Захоўвае гэтая пляцоўка сеціва звесткі (кукі) на маім кампутары?">
+<!ENTITY  securityView.privacy.viewCookies              "Прагледзець кукі">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "б">
 <!ENTITY  securityView.privacy.passwords                "Захаваў я які-небудзь пароль для гэтай пляцоўкі сеціва?">
 <!ENTITY  securityView.privacy.viewPasswords            "Прагледзець захаваныя паролі">
