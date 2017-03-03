@@ -15,7 +15,7 @@
 <!ENTITY warnOnOpenManyTabs.accesskey   "å">
 
 <!ENTITY switchLinksToNewTabs.label        "Skift fokus til det nye faneblad, når jeg åbner et link i det">
-<!ENTITY switchToNewTabs.accesskey    "S">
+<!ENTITY switchLinksToNewTabs.accesskey    "S">
 
 <!ENTITY showTabsInTaskbar.label          "Vis forhåndsvisning for faneblade på Windows Proceslinje">
 <!ENTITY showTabsInTaskbar.accesskey      "W">

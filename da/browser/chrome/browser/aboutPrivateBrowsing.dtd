@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "sikrer ikke din anonymitet">
 <!ENTITY aboutPrivateBrowsing.note.after                 " på internettet. Din arbejdsgiver eller internetudbyder kan stadig finde ud af, hvilke sider du besøger.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Læs mere om ">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Privat browsing">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "privat browsing">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Beskyttelse mod sporing">
