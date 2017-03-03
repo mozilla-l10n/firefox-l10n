@@ -66,12 +66,12 @@
 <!ENTITY cmd.clearList2.label             "Ачысціць панэль перадпаказу">
 <!ENTITY cmd.clearList2.accesskey         "ч">
 <!ENTITY cmd.clearDownloads.label         "Ачысціць сцягванні">
-<!ENTITY cmd.clearDownloads.accesskey     "ц">
+<!ENTITY cmd.clearDownloads.accesskey     "с">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Дазволіць сцягванне">
-<!ENTITY cmd.unblock2.accesskey           "ш">
+<!ENTITY cmd.unblock2.accesskey           "о">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->

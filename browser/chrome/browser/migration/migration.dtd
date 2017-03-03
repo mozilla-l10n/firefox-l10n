@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY migrationWizard.title          "Чараўнік Імпарту">
+<!ENTITY migrationWizard.title          "Майстар імпарту">
 
 <!ENTITY importFrom.label               "Імпарт наладжванняў, закладак, гісторыі, пароляў і іншых даных з:">
 <!ENTITY importFromUnix.label           "Імпарт Перавагаў, Закладак, Гісторыі, Пароляў ці іншых даных з:">
@@ -14,7 +14,7 @@
 <!ENTITY importFromEdge.label           "Microsoft Edge">
 <!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Не імпартаваць нічога">
-<!ENTITY importFromNothing.accesskey    "н">
+<!ENTITY importFromNothing.accesskey    "Н">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
 <!ENTITY importFromCanary.label         "Chrome Canary">
