@@ -12,7 +12,7 @@
 <!ENTITY newtab.customize.suggested "Паказваць прапанаваныя і часта наведаныя сайты">
 <!ENTITY newtab.customize.topsites "Паказваць часта наведаныя сайты">
 <!ENTITY newtab.customize.blank2 "Паказваць пустую старонку">
-<!ENTITY newtab.undo.removedLabel "Накід выдалены.">
+<!ENTITY newtab.undo.removedLabel "Мініяцюра выдалена.">
 <!ENTITY newtab.undo.undoButton "Адмяніць.">
 <!ENTITY newtab.undo.restoreButton "Вярнуць усё.">
 <!ENTITY newtab.undo.closeTooltip "Схаваць">
