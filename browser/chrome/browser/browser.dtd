@@ -22,14 +22,14 @@
 <!ENTITY  reloadTab.label                    "Абнавіць картку">
 <!ENTITY  reloadTab.accesskey                "А">
 <!ENTITY  reloadAllTabs.label                "Перачытаць усе карткі">
-<!ENTITY  reloadAllTabs.accesskey            "Ф">
+<!ENTITY  reloadAllTabs.accesskey            "у">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Зачыніць карткі справа">
 <!ENTITY  closeTabsToTheEnd.accesskey        "с">
 <!ENTITY  closeOtherTabs.label               "Закрыць іншыя карткі">
-<!ENTITY  closeOtherTabs.accesskey           "З">
+<!ENTITY  closeOtherTabs.accesskey           "і">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -37,21 +37,21 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Прышпіліць картку">
-<!ENTITY  pinTab.accesskey                   "ш">
+<!ENTITY  pinTab.accesskey                   "П">
 <!ENTITY  unpinTab.label                     "Адшпіліць картку">
 <!ENTITY  unpinTab.accesskey                 "А">
 <!ENTITY  sendTabToDevice.label              "Даслаць картку на прыладу">
-<!ENTITY  sendTabToDevice.accesskey          "В">
+<!ENTITY  sendTabToDevice.accesskey          "п">
 <!ENTITY  sendPageToDevice.label             "Даслаць старонку на прыладу">
-<!ENTITY  sendPageToDevice.accesskey         "В">
+<!ENTITY  sendPageToDevice.accesskey         "п">
 <!ENTITY  sendLinkToDevice.label             "Даслаць спасылку на прыладу">
-<!ENTITY  sendLinkToDevice.accesskey         "В">
+<!ENTITY  sendLinkToDevice.accesskey         "п">
 <!ENTITY  moveToNewWindow.label              "Перанесці ў новае акно">
 <!ENTITY  moveToNewWindow.accesskey          "а">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
-<!ENTITY  bookmarkAllTabs.accesskey          "Е">
+<!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Адкаціць закрыццё карткі">
-<!ENTITY  undoCloseTab.accesskey             "Г">
+<!ENTITY  undoCloseTab.accesskey             "А">
 <!ENTITY  closeTab.label                     "Зачыніць картку">
 <!ENTITY  closeTab.accesskey                 "З">
 
@@ -86,11 +86,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Адзінкі паліцы прыладаў закладак">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Перачытаць усе карткі">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "Ф">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закладкі на ўсе карткі…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Е">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "к">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Адкаціць закрыццё карткі">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "Г">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "А">
 
 <!ENTITY pageSourceCmd.label "Зыходны код старонкі">
 <!ENTITY pageSourceCmd.accesskey "ы">
@@ -154,7 +154,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "Гэты дакумент кіруе вашым указальнікам. Націсніце Esc, каб узяць кіраванне.">
 
 <!ENTITY closeWindow.label "Закрыць акно">
-<!ENTITY closeWindow.accesskey "ч">
+<!ENTITY closeWindow.accesskey "н">
 
 <!ENTITY bookmarksMenu.label "Закладкі">
 <!ENTITY bookmarksMenu.accesskey "З">
@@ -166,15 +166,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Шукаць больш сэрвісаў супольнага захоўвання…">
 <!ENTITY sharePageCmd.label "Падзяліцца старонкай">
-<!ENTITY sharePageCmd.commandkey "Ы">
+<!ENTITY sharePageCmd.commandkey "П">
 <!ENTITY sharePageCmd.accesskey "с">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "Падзяліцца гэтай спасылкай">
-<!ENTITY shareLink.accesskey "р">
+<!ENTITY shareLink.accesskey "а">
 <!ENTITY shareImage.label "Падзяліцца гэтай выявай">
-<!ENTITY shareImage.accesskey "к">
+<!ENTITY shareImage.accesskey "ц">
 <!ENTITY shareSelect.label "Падзяліцца вылучэннем">
-<!ENTITY shareSelect.accesskey "к">
+<!ENTITY shareSelect.accesskey "ц">
 <!ENTITY shareVideo.label "Падзяліцца гэтым відэа">
 <!ENTITY shareVideo.accesskey "к">
 <!ENTITY feedsMenu2.label "Падпісацца на гэту старонку">
