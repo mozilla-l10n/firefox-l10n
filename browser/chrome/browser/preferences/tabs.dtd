@@ -8,8 +8,12 @@
 <!ENTITY newWindowsAsTabs.label       "Avaa uudet ikkunat uusiin välilehtiin">
 <!ENTITY newWindowsAsTabs.accesskey   "A">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Varoita, kun olen sulkemassa useita välilehtiä">
 
+<!ENTITY warnOnOpenManyTabs.label       "Varoita, kun useiden välilehtien avaaminen voi hidastaa &brandShortName;ia">
 
+<!ENTITY switchLinksToNewTabs.label        "Vaihda linkistä avattuun välilehteen heti">
+<!ENTITY switchLinksToNewTabs.accesskey    "i">
 
 <!ENTITY showTabsInTaskbar.label          "Näytä esikatselut välilehdistä Windowsin tehtäväpalkissa">
 <!ENTITY showTabsInTaskbar.accesskey      "N">
