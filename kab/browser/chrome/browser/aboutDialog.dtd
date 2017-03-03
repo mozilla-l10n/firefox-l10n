@@ -23,7 +23,7 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName; ">
-<!ENTITY community.exp.middle       " ed ">
+<!ENTITY community.exp.middle       " d ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "tamezdagnut tamaḍalant ">
 <!ENTITY community.exp.end          " ad nmahel akken  bac ad neǧǧ Web yeldi, d-azayez, d-uffar i yal yiwen.">
@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "Ur tezmireḍ  ad tleqmeḍ ugar ɣef unagraw-agi. ">
+<!ENTITY update.unsupported.start    "Ur tezmireḍ ara ad tleqmeḍ ugar ɣef unagraw-agi. ">
 <!ENTITY update.unsupported.linkText "Issin ugar ">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
