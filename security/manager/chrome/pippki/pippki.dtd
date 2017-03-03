@@ -1,21 +1,21 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Values for changepassword.xul -->
 
+<!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "Змяненне галоўнага пароля">
-<!ENTITY setPassword.tokenName.label "Збудова бяспекі">
+<!ENTITY setPassword.tokenName.label "Прылада бяспекі">
 <!ENTITY setPassword.oldPassword.label "Цяперашні пароль:">
 <!ENTITY setPassword.newPassword.label "Новы пароль:">
 <!ENTITY setPassword.reenterPassword.label "Новы пароль (ізноў):">
 <!ENTITY setPassword.meter.label "Вымяральнік якасці пароля">
-<!-- Values for resetpassword.xul -->
 
+<!-- Values for resetpassword.xul -->
 <!ENTITY resetPasswordButtonLabel "Скінуць">
 <!ENTITY resetPassword.title  "Скіданне галоўнага пароля">
 <!ENTITY resetPassword.text  "Калі вы пазбавіцеся вашага галоўнага пароля, усе вашы захаваныя паролі сеціва і э-пошты, даныя формаў, асабістыя пасведчанні і прыватныя ключы згубяцца. Вы сапраўды хочаце скінуць ваш галоўны пароль? ">
-<!-- Downloading a cert -->
 
+<!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Загрузка пасведчання">
 <!ENTITY downloadCert.message1 "Вас запыталі аб даверу новай Крыніцы Пасведчанняў (КП).">
 <!ENTITY downloadCert.trustSSL "Давяраць гэтай КП апазнаваць пляцоўкі сеціва.">
@@ -24,8 +24,8 @@
 <!ENTITY downloadCert.message3 "Перад тым, як даверыцца гэтай КП з нейкаю мэтаю, вы павінны даследаваць яе пасведчанне, яе палітыку і працэдуры (калі даступны).">
 <!ENTITY downloadCert.viewCert.label "Прагляд">
 <!ENTITY downloadCert.viewCert.text "Даследаваць пасведчанне ПА">
-<!-- Strings for the SSL client auth ask dialog -->
 
+<!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Запыт вызначэння карыстальніка">
 <!ENTITY clientAuthAsk.message1 "Гэтае пляцоўка патрабуе, каб вы вызначылі сябе пасведчаннем:">
 <!ENTITY clientAuthAsk.message2 "Вылучыце пасведчанне, каб падаць як вызначэнне:">
@@ -39,13 +39,13 @@
 
 <!ENTITY chooseToken.title  "Дыялог выбару лексемы">
 <!ENTITY chooseToken.message1 "Выберыце, калі ласка, лексему.">
-<!-- Strings for the CreateCertInfo dialog  -->
 
+<!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Вырабленне прыватнага ключа">
 <!ENTITY createCertInfo.msg1 "Вырабленне ключа… Патрэбны пэўны час…">
 <!ENTITY createCertInfo.msg2 "Пачакайце, калі ласка, …">
-<!-- Strings for protectedAuth dialog -->
 
+<!-- Strings for protectedAuth dialog -->
 <!ENTITY protectedAuth.title "Апазнаванне з абароненай лексемай">
 <!ENTITY protectedAuth.msg "Апазнайцеся, калі ласка, да лексемы. Метад апазнавання залежыць ад тыпу вашай сістэмы.">
 <!ENTITY protectedAuth.tokenName.label "Лексема:">
