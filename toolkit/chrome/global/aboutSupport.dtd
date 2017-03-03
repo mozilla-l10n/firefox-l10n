@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Звесткі для вырашэння праблемаў">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Гэтая старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі для вас пры вырашэнні праблемаў. Калі вы шукаеце адказы на найбольш агульныя пытанні пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Cправаздачы пра крахі">
@@ -28,14 +28,16 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Дзейны">
 <!ENTITY aboutSupport.experimentEndDate "Канцавая дата">
 <!ENTITY aboutSupport.experimentHomepage "Хатняя старонка">
-
+<!ENTITY aboutSupport.experimentBranch "Галіна">
 
 <!ENTITY aboutSupport.appBasicsTitle "Аснова прыстасавання">
 <!ENTITY aboutSupport.appBasicsName "Назва">
 <!ENTITY aboutSupport.appBasicsVersion "Версія">
+<!ENTITY aboutSupport.appBasicsBuildID "ID зборкі">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Канал абнаўлення">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Гісторыя абнаўленняў">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Паказаць гісторыю абнаўленняў">
 
@@ -48,8 +50,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Наладкі пабудовы">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
-
+<!ENTITY aboutSupport.appBasicsOS "АС">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Ужыванне памяці">
+<!ENTITY aboutSupport.appBasicsPerformance "Прадукцыйнасць">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
@@ -67,17 +70,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 
 
-
-
 <!ENTITY aboutSupport.graphicsTitle "Графіка">
-
-
 
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
@@ -94,14 +93,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Скапіяваць тэкст у буфер абмену">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя здаткі ў буфер абмену">
-
-
-
-
-
-
-
-
 
 
 
