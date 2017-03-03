@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.width                                   "35em">
+<!ENTITY window.width                                   "30em">
 
 <!ENTITY languages.customize.Header                     "Мовы">
 <!ENTITY languages.customize.description                "Часам старонкі сеціва даступны на некалькіх мовах. Выберыце мовы для адлюстравання старонак сеціва ў парадку пераваг:">

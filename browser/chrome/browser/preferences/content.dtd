@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label                "Вынырцы">
 
-<!ENTITY  blockPopups.label           "Затрымліваць вокны-вынырцы">
+<!ENTITY  blockPopups.label           "Блакаваць усплываючыя вокны">
 <!ENTITY  blockPopups.accesskey       "т">
 
 <!ENTITY  notificationsPolicy.label            "Апавяшчэнні">
