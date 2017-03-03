@@ -18,10 +18,10 @@
 <!ENTITY engine.history.label             "Гісторыя">
 <!ENTITY engine.history.accesskey         "Г">
 <!ENTITY engine.tabs.label2               "Адкрытыя карткі">
-<!ENTITY engine.tabs.accesskey            "У">
+<!ENTITY engine.tabs.accesskey            "А">
 <!ENTITY engine.passwords.label           "Паролі">
 <!ENTITY engine.passwords.accesskey       "П">
 <!ENTITY engine.addons.label              "Дадаткі працоўнага стала">
 <!ENTITY engine.addons.accesskey          "Д">
 <!ENTITY engine.prefs.label               "Перавагі працоўнага стала">
-<!ENTITY engine.prefs.accesskey           "в">
+<!ENTITY engine.prefs.accesskey           "П">
