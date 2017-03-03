@@ -13,21 +13,26 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "Прафайлер захоўвае ўзоры ў кальцавым буферы, і як толькі запаўненне буфера дасягае ліміту для запісу, новыя ўзоры пачынаюць перазапісваць узоры ў пачатку запісу.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a non-multiprocess build. -->
+<!ENTITY performanceUI.disabledRealTime.nonE10SBuild "Запіс дадзеных у рэальным часе адключаны на не-шматпрацэсным Firefox.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.disabledE10S): This string
   -  is displayed as a message for why the real time overview graph is disabled
   -  when running on a build that can run multiprocess Firefox, but just is not enabled. -->
+<!ENTITY performanceUI.disabledRealTime.disabledE10S "Уключыце ў наладах шматпрацэснасць ў Firefox для пачатку запісу дадзеных у рэальным часе.">
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
+<!ENTITY performanceUI.bufferStatusFull "Буфер цалкам запоўнены. Старыя ўзоры цяпер будуць перазапісвацца.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
+<!ENTITY performanceUI.unavailableNoticePB "Запіс профілю ў цяперашні час недаступны. Калі ласка, зачыніце ўсе вокны прыватнага прагляду і паспрабуйце яшчэ раз.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -36,10 +41,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Вадаспад">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Паказвае розныя аперацыі, якія выконваюцца браўзерам падчас запісу, выкладзеныя паслядоўна ў выглядзе вадаспаду.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дрэва выклікаў">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Падсвятляе функцыі JavaScript там, дзе браўзер выдаткаваў больш часу пры запісе.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Размяшчэнні">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Паказвае, дзе была размешчана памяць пры запісе.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Паказвае стэк выкліку JavaScript на працягу запісу.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Flame Chart размяшчэнняў">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
@@ -53,13 +61,13 @@
 <!ENTITY performanceUI.table.selfPercentage           "Уласныя выдаткі">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Адсотак часу, праведзенага толькі ў гэтай функцыі.">
 <!ENTITY performanceUI.table.samples                  "Узоры">
-<!ENTITY performanceUI.table.samples.tooltip          "Лік знаходжанняў гэтай функцыі ў стэку, калі прафайлер зрабіў замер.">
+<!ENTITY performanceUI.table.samples.tooltip          "Колькасць знаходжанняў гэтай функцыі ў стэку, калі прафайлер зрабіў узор.">
 <!ENTITY performanceUI.table.function                 "Функцыя">
-<!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы вымеранай функцыі.">
-<!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць вымераных размяшчэнняў">
-<!ENTITY performanceUI.table.totalAlloc.tooltip       "Агульная колькасць размяшчэнняў Аб'екта, вымераная ў гэтым месцы і ў выкліках.">
-<!ENTITY performanceUI.table.selfAlloc                "Уласныя вымераныя размяшчэнні">
-<!ENTITY performanceUI.table.selfAlloc.tooltip        "Колькасць размяшчэнняў Аб'екта, вымераная ў гэтым месцы.">
+<!ENTITY performanceUI.table.function.tooltip         "Імя і размяшчэнне крыніцы ўзорнай функцыі.">
+<!ENTITY performanceUI.table.totalAlloc               "Агульная колькасць ўзорных размяшчэнняў">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Агульная колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы і ў выкліках.">
+<!ENTITY performanceUI.table.selfAlloc                "Уласныя выбраныя размяшчэнні">
+<!ENTITY performanceUI.table.selfAlloc.tooltip        "Колькасць размяшчэнняў Аб'екта, выбраных ў гэтым месцы.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
@@ -72,15 +80,18 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Інвертаваць дрэва выклікаў">
+<!ENTITY performanceUI.invertTree.tooltiptext "Інверсія дрэва выклікаў адлюстроўвае прафіляваныя шляхі выклікаў, пачынаючы ад самых малодшых і да старэйшых фрэймаў.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             "Інвертаваць Flame Chart">
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "Інверсія flame chart адлюстроўвае прафіляваныя шляхі выклікаў, пачынаючы ад самых малодшых і да старэйшых фрэймаў.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Адлюстроўваць дадзеныя платформы Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Адлюстраванне дадзеных платформы дазваляе ўключаць сімвалы платформы Gecko ў справаздачы прафайлера JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
