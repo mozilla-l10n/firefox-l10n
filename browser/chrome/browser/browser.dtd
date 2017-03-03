@@ -176,7 +176,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.label "Падзяліцца вылучэннем">
 <!ENTITY shareSelect.accesskey "ц">
 <!ENTITY shareVideo.label "Падзяліцца гэтым відэа">
-<!ENTITY shareVideo.accesskey "к">
+<!ENTITY shareVideo.accesskey "ц">
 <!ENTITY feedsMenu2.label "Падпісацца на гэту старонку">
 <!ENTITY subscribeToPageMenupopup.label "Падпісацца на гэтую старонку">
 <!ENTITY subscribeToPageMenuitem.label "Падпісацца на гэтую старонку…">
@@ -186,9 +186,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Іншыя закладкі">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY showRecentlyBookmarked.label     "Паказаць нядаўнія закладкі">
-<!ENTITY showRecentlyBookmarked.accesskey "р">
+<!ENTITY showRecentlyBookmarked.accesskey "а">
 <!ENTITY hideRecentlyBookmarked.label     "Схаваць нядаўнія закладкі">
-<!ENTITY hideRecentlyBookmarked.accesskey "Р">
+<!ENTITY hideRecentlyBookmarked.accesskey "С">
 
 <!ENTITY backCmd.label                "Назад">
 <!ENTITY backButton.tooltip           "Папярэдняя старонка">
@@ -253,7 +253,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksGtkCmd.commandkey "а">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "Гісторыя">
@@ -266,7 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.accesskey       "к">
 
 <!ENTITY downloads.label              "Сцягванні">
-<!ENTITY downloads.accesskey          "З">
+<!ENTITY downloads.accesskey          "С">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Дадаткі">
@@ -302,16 +302,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "р"> 
 <!ENTITY copyCmd.label            "Капіяваць">  
-<!ENTITY copyCmd.key            "С">  
+<!ENTITY copyCmd.key            "К">  
 <!ENTITY copyCmd.accesskey          "С"> 
 <!ENTITY pasteCmd.label           "Уставіць">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "У"> 
 <!ENTITY deleteCmd.label          "Выдаліць">  
-<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.key            "В">  
 <!ENTITY deleteCmd.accesskey        "д"> 
 <!ENTITY selectAllCmd.label         "Вылучыць усё">  
-<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.key         "у">  
 <!ENTITY selectAllCmd.accesskey       "ё"> 
 <!ENTITY preferencesCmd2.label       "Налады">
 <!ENTITY preferencesCmd2.accesskey     "Н">
@@ -339,7 +339,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сесію">
 
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
-<!ENTITY showAllHistoryCmd.commandkey "Г">
+<!ENTITY showAllHistoryCmd.commandkey "г">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
 <!ENTITY appMenuCustomize.tooltip "Уладкаваць меню і прыладапаліцы">
@@ -461,9 +461,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "Змяніць настройкі пошуку">
 
 <!ENTITY searchInNewTab.label         "Шукаць у новай картцы">
-<!ENTITY searchInNewTab.accesskey     "Е">
+<!ENTITY searchInNewTab.accesskey     "к">
 <!ENTITY searchSetAsDefault.label     "Зрабіць прадвызначаным пашукавіком">
-<!ENTITY searchSetAsDefault.accesskey "В">
+<!ENTITY searchSetAsDefault.accesskey "п">
 
 <!ENTITY openLinkCmdInTab.label       "Адкрыць спасылку ў новай картцы">
 <!ENTITY openLinkCmdInTab.accesskey   "й">
@@ -476,14 +476,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.label      "Адкрыць рамку ў новай картцы">
 <!ENTITY openFrameCmdInTab.accesskey  "ў">
 <!ENTITY openFrameCmd.label           "Адкрыць рамку ў новым акне">
-<!ENTITY openFrameCmd.accesskey       "ч">
+<!ENTITY openFrameCmd.accesskey       "а">
 <!ENTITY openLinkCmdInContainerTab.label "Адкрыць спасылку ў новай картцы кантэйнера">
-<!ENTITY openLinkCmdInContainerTab.accesskey "і">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ы">
 <!ENTITY showOnlyThisFrameCmd.label     "Паказваць толькі гэтую рамку">
 <!ENTITY showOnlyThisFrameCmd.accesskey "г">
 <!ENTITY reloadCmd.commandkey         "к">
 <!ENTITY reloadFrameCmd.label         "Абнавіць рамку">
-<!ENTITY reloadFrameCmd.accesskey     "ь">
+<!ENTITY reloadFrameCmd.accesskey     "А">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Праглядзець зыходнік вылучэння">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Праглядзець зыходнік MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -531,16 +531,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveLinkCmd.accesskey        "с">
 <!ENTITY saveImageCmd.label           "Захаваць выяву як…">
 <!ENTITY saveImageCmd.accesskey       "я">
-<!ENTITY saveVideoCmd.label           "Захаваць відэя як…">
+<!ENTITY saveVideoCmd.label           "Захаваць відэа як…">
 <!ENTITY saveVideoCmd.accesskey       "в">
 <!ENTITY saveAudioCmd.label           "Захаваць гук як…">
 <!ENTITY saveAudioCmd.accesskey       "г">
 <!ENTITY emailImageCmd.label          "Даслаць выяву…">
 <!ENTITY emailImageCmd.accesskey      "Д">
-<!ENTITY emailVideoCmd.label          "Даслаць відэя…">
+<!ENTITY emailVideoCmd.label          "Даслаць відэа…">
 <!ENTITY emailVideoCmd.accesskey      "д">
 <!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
-<!ENTITY castVideoCmd.accesskey       "у">
+<!ENTITY castVideoCmd.accesskey       "а">
 <!ENTITY emailAudioCmd.label          "Даслаць гук…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
 <!ENTITY playPluginCmd.label          "Задзейнічаць убудову">
@@ -580,20 +580,20 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.label     "Хуткасць прайгравання">
 <!ENTITY mediaPlaybackRate2.accesskey "в">
 <!ENTITY mediaPlaybackRate050x2.label "Павольна (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "Ы">
+<!ENTITY mediaPlaybackRate050x2.accesskey "П">
 <!ENTITY mediaPlaybackRate100x2.label "Звычайна">
-<!ENTITY mediaPlaybackRate100x2.accesskey "Т">
+<!ENTITY mediaPlaybackRate100x2.accesskey "З">
 <!ENTITY mediaPlaybackRate125x2.label "Хутка (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "А">
+<!ENTITY mediaPlaybackRate125x2.accesskey "Х">
 <!ENTITY mediaPlaybackRate150x2.label "Хутчэй (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "ф">
+<!ENTITY mediaPlaybackRate150x2.accesskey "у">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Бязглузда (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "Д">
+<!ENTITY mediaPlaybackRate200x2.accesskey "Б">
 <!ENTITY mediaLoop.label             "Зацыкліць">
-<!ENTITY mediaLoop.accesskey         "Д">
+<!ENTITY mediaLoop.accesskey         "З">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -643,7 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Закрыць панэль">
 
 <!ENTITY quitApplicationCmdWin2.label       "Выйсці">
-<!ENTITY quitApplicationCmdWin2.accesskey   "ч">
+<!ENTITY quitApplicationCmdWin2.accesskey   "ы">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Выйсці з &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -651,7 +651,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "В">
 <!ENTITY quitApplicationCmdMac2.label   "Выйсці з &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmdUnix.key     "В">
 
 <!ENTITY closeCmd.label                 "Зачыніць">  
 <!ENTITY closeCmd.key                   "W">  
