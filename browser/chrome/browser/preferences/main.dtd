@@ -34,7 +34,7 @@
 <!ENTITY alwaysCheckDefault2.label        "Заўжды правяраць, ці з'яўляецца &brandShortName; прадвызначаным браўзерам">
 <!ENTITY alwaysCheckDefault2.accesskey    "н">
 <!ENTITY setAsMyDefaultBrowser2.label     "Зрабіць прадвызначаным">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "П">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "п">
 <!ENTITY isDefault.label                  "&brandShortName; зараз ваш прадвызначаны браўзер">
 <!ENTITY isNotDefault.label               "&brandShortName; не прадвызначаны браўзер">
 
