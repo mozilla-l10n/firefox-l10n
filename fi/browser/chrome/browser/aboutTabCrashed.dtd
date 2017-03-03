@@ -27,3 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Lähettäkää minulle sähköpostia kun lisätietoja on saatavilla">
 <!ENTITY tabCrashed.reportSent "Kaatumisilmoitus on jo lähetetty. Kiitos avustasi &brandShortName;in kehittämiseksi!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Ilmoita taustalla olevista välilehdistä">
+<!ENTITY tabCrashed.autoSubmit2 "Päivitä asetukset lähettämään automaattisesti kaatumisilmoitukset, mukaan lukien kaatuneet taustalla olleet välilehdet tältä ja tulevilta käyttökerroilta">
