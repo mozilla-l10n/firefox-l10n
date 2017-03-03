@@ -123,5 +123,5 @@
 <!ENTITY enableOCSP.accesskey            "З">
 <!ENTITY viewCerts.label                 "Прагляд пасведчанняў">
 <!ENTITY viewCerts.accesskey             "П">
-<!ENTITY viewSecurityDevices.label       "Збудовы бяспекі">
+<!ENTITY viewSecurityDevices.label       "Прылады бяспекі">
 <!ENTITY viewSecurityDevices.accesskey   "б">

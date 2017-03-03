@@ -6,7 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Наступныя кукі захоўваюцца на вашым камп'ютары:">
 <!ENTITY     cookiename.label               "Назва кукі">
-<!ENTITY     cookiedomain.label             "Пляцоўка"> 
+<!ENTITY     cookiedomain.label             "Сайт"> 
 <!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
