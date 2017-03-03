@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Kun &brandShortName; käynnistetään:">
 <!ENTITY startupPage.accesskey     "F">
+<!ENTITY startupUserHomePage.label "Avaa aloitussivu">
 <!ENTITY startupBlankPage.label    "Avaa tyhjä sivu">
+<!ENTITY startupPrevSession.label  "Avaa viime istunnon ikkunat ja välilehdet">
 
 <!ENTITY homepage.label            "Aloitussivu:">
 <!ENTITY homepage.accesskey        "A">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "S">
 <!ENTITY chooseFolderMac.label        "Valitse…">
 <!ENTITY chooseFolderMac.accesskey    "V">
+<!ENTITY alwaysAskWhere.label         "Kysy aina tiedoston tallennuskansio">
+<!ENTITY alwaysAskWhere.accesskey     "n">
 
 <!ENTITY alwaysCheckDefault2.label        "Tarkista aina, onko &brandShortName; oletusselain">
 <!ENTITY alwaysCheckDefault2.accesskey    "i">
