@@ -66,7 +66,7 @@
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Кадаванне тэксту для спадчыннага змесціва">
 <!ENTITY languages.customize.Fallback2.label      "Запасное кадаванне тэксту:">
-<!ENTITY languages.customize.Fallback2.accesskey  "Г">
+<!ENTITY languages.customize.Fallback2.accesskey  "т">
 <!ENTITY languages.customize.Fallback2.desc       "Гэта кадаванне тэксту будзе выкарыстана для змесціва, у якім не пазначана кадаванне.">
 
 <!ENTITY languages.customize.Fallback.auto        "Змоўчна для гэтай мясцовасці">
