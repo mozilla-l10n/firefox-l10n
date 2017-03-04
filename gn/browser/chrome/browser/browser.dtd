@@ -796,8 +796,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
 <!ENTITY customizeMode.toolbars "Tembipuru renda hechauka / mokañy">
 <!ENTITY customizeMode.titlebar "Teratee renda">
-<!ENTITY customizeMode.lwthemes "Téma">
-<!ENTITY customizeMode.lwthemes.myThemes "Che téma">
+<!ENTITY customizeMode.lwthemes "Mbojeguaha">
+<!ENTITY customizeMode.lwthemes.myThemes "Mbojeguaha Aipurúva">
 <!ENTITY customizeMode.lwthemes.recommended "Jeroviaha">
 <!ENTITY customizeMode.lwthemes.menuManage "Ñangareko">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">

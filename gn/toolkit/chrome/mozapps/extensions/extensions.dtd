@@ -20,7 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Tembipuru opaite moimbahápe g̃uarã">
 
-
+<!ENTITY getThemes.learnMore                  "Eiporavo hetaite mbojeguaha apytépe.">
 
 <!ENTITY cmd.back.tooltip                     "Eguevi jey">
 <!ENTITY cmd.forward.tooltip                  "Ambue toguépe jehasa ">
@@ -90,9 +90,9 @@
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "Monge">
 <!ENTITY cmd.disableAddon.accesskey           "D">
-<!ENTITY cmd.enableTheme.label                "Tema puru">
-<!ENTITY cmd.enableTheme.accesskey            "W">
-<!ENTITY cmd.disableTheme.label               "Anive eipuru pe tema">
+<!ENTITY cmd.enableTheme.label                "Mbojeguaha Puru">
+<!ENTITY cmd.enableTheme.accesskey            "M">
+<!ENTITY cmd.disableTheme.label               "Anive eipuru ko Mbojeguaha">
 <!ENTITY cmd.disableTheme.accesskey           "W">
 <!ENTITY cmd.askToActivate.label              "Eporandu emyandy hag̃ua">
 <!ENTITY cmd.askToActivate.tooltip            "Eporandu eipurúta jave ko moĩmbaha">

@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Opaite marandu'i jejavy rehegua">
 <!ENTITY aboutSupport.crashes.noConfig "Ko tembipuru'i oñembohekopyahu ohechauka hag̃ua marandu jejavy rehegua.">
 
-<!ENTITY aboutSupport.extensionsTitle "Ipikukue">
+<!ENTITY aboutSupport.extensionsTitle "Mba'ejoapyrã">
 <!ENTITY aboutSupport.extensionName "Téra">
 <!ENTITY aboutSupport.extensionEnabled "Myandypyre">
 <!ENTITY aboutSupport.extensionVersion "Peteĩchagua">
