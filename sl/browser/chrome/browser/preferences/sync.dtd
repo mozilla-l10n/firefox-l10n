@@ -25,6 +25,7 @@
 <!ENTITY syncMy.label               "Sinhroniziraj">
 <!ENTITY engine.bookmarks.label     "Zaznamke">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "Odprte zavihke">
 <!ENTITY engine.tabs.accesskey      "Z">
 <!ENTITY engine.history.label       "Zgodovino">
 <!ENTITY engine.history.accesskey   "d">

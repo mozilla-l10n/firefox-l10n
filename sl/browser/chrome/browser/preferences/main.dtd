@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Ko se &brandShortName; zažene:">
 <!ENTITY startupPage.accesskey     "k">
+<!ENTITY startupUserHomePage.label "prikaži domačo stran">
 <!ENTITY startupBlankPage.label    "prikaži prazno stran">
+<!ENTITY startupPrevSession.label  "prikaži nazadnje odprta okna in zavihke">
 
 <!ENTITY homepage.label            "Domača stran:">
 <!ENTITY homepage.accesskey        "D">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "b">
 <!ENTITY chooseFolderMac.label        "Izberi …">
 <!ENTITY chooseFolderMac.accesskey    "b">
+<!ENTITY alwaysAskWhere.label         "Vedno vprašaj, kam shraniti datoteko">
+<!ENTITY alwaysAskWhere.accesskey     "v">
 
 <!ENTITY alwaysCheckDefault2.label        "Vedno preveri, ali je &brandShortName; privzet brskalnik">
 <!ENTITY alwaysCheckDefault2.accesskey    "v">
