@@ -860,7 +860,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY uiTour.infoPanel.close "Закрыць">
 
-<!ENTITY appMenuSidebars.label         "Палічкі">
+<!ENTITY appMenuSidebars.label         "Бакавыя панэлі">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
