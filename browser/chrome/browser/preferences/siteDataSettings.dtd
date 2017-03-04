@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
+<!ENTITY     window.title                  "Nuostatos – svetainių duomenys">
+<!ENTITY     settings.description          "Šios svetainės prašė leidimo saugoti savo duomenis jūsų diske. Jūs galite nurodyti, kurioms svetainėms leidžiate tai daryti. Numatytieji svetainių duomenys yra laikini ir gali būti ištrinti automatiškai.">
+<!ENTITY     hostCol.label                 "Svetainė">
+<!ENTITY     statusCol.label               "Būsena">
+<!ENTITY     usageCol.label                "Vieta">
+<!ENTITY     search.label                  "Ieškoti:">
+<!ENTITY     search.accesskey              "I">

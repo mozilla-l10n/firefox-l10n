@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Sužinoti daugiau…">
 
-
+<!ENTITY defaultButton.label "Gerai!">
+<!ENTITY defaultButton.accesskey "G">
