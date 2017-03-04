@@ -13,7 +13,7 @@
 <!ENTITY chat.noAccount.description       "讓 &brandShortName; 帶著您設定聊天帳號。">
 <!ENTITY chat.accountWizard.button       "開始設定">
 <!ENTITY chat.noConnectedAccount.title             "您尚未連線到聊天帳號。">
-<!ENTITY chat.noConnectedAccount.description       "您可以在「聊天狀號」視窗連線到這些帳號:">
+<!ENTITY chat.noConnectedAccount.description       "您可以在「聊天帳號」視窗連線到這些帳號:">
 <!ENTITY chat.showAccountManager.button       "顯示聊天狀態">
 
 <!ENTITY chat.participants             "參與者:">
@@ -42,4 +42,3 @@
 
 <!ENTITY openLinkCmd.label            "開啟鏈結…">
 <!ENTITY openLinkCmd.accesskey        "O">
-
