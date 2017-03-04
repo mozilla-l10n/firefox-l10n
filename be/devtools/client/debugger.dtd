@@ -201,7 +201,7 @@
   -  for the Open in New Tab menu item displayed in the context menu of the
   -  debugger sources side menu. This should be the same as
   -  netmonitorUI.context.newTab  -->
-<!ENTITY debuggerUI.context.newTab           "Адкрыць у новай укладцы">
+<!ENTITY debuggerUI.context.newTab           "Адкрыць у новай картцы">
 <!ENTITY debuggerUI.context.newTab.accesskey "O">
 
 <!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
