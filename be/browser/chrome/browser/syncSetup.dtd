@@ -46,7 +46,7 @@
 
 <!-- My Recovery Key dialog -->
 <!ENTITY setup.newRecoveryKeyPage.title.label "&brandShortName; дбае пра вашу прыватнасць">
-<!ENTITY setup.newRecoveryKeyPage.description.label "Каб захаваць вашу бяспеку, усе вашы здаткі шыфруюцца перад зацягваннем. Адноўны ключ, неабходны для расшыфравання вашых здаткаў, не зацягваецца.">
+<!ENTITY setup.newRecoveryKeyPage.description.label "Каб захаваць вашу бяспеку, усе вашы дадзеныя шыфруюцца перад зацягваннем. Адноўны ключ, неабходны для расшыфравання вашых дадзеных, не выгружаецца.">
 <!ENTITY recoveryKeyEntry.label        "Ваш адноўны ключ">
 <!ENTITY recoveryKeyEntry.accesskey    "к">
 <!ENTITY syncGenerateNewKey.label  "Вырабіць новы ключ">
@@ -96,17 +96,17 @@
 <!ENTITY engine.addons.label        "Дадаткі">
 <!ENTITY engine.addons.accesskey    "Д">
 
-<!ENTITY choice2a.merge.main.label       "Зліць здаткі з гэтай збудовы з здаткамі ў &syncBrand.shortName.label;">
+<!ENTITY choice2a.merge.main.label       "Аб'яднаць дадзеныя з гэтай прылады з дадзенымі майго &syncBrand.shortName.label;">
 <!ENTITY choice2.merge.recommended.label "Раіцца:">
-<!ENTITY choice2a.client.main.label      "Заменіць усе здаткі на гэтай збудове здаткамі з &syncBrand.shortName.label;">
-<!ENTITY choice2a.server.main.label      "Заменіць здаткі на іншых збудовах здаткамі з гэтай">
+<!ENTITY choice2a.client.main.label      "Заменіць усе дадзеныя на гэтай прыладзе дадзенымі з &syncBrand.shortName.label;">
+<!ENTITY choice2a.server.main.label      "Заменіць дадзеныя на іншых прыладах дадзенымі з гэтай">
 
 <!-- Confirm Merge Options -->
 <!ENTITY setup.optionsConfirmPage.title "Сцвярджэнне">
-<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; зараз салье усе здаткі азірання з гэтай збудовы ў рахунак Sync.">
-<!ENTITY confirm.client3.label         "Увага: наступныя здаткі &brandShortName; будуць выдалены на гэтай збудове:">
-<!ENTITY confirm.client2.moreinfo.label "&brandShortName; тады падвоіць здаткі &syncBrand.fullName.label; на гэтую збудову.">
-<!ENTITY confirm.server2.label         "Увага: здаткі на наступных збудовах будуць перазапісаны мясцовымі здаткамі:">
+<!ENTITY confirm.merge2.label    "&syncBrand.fullName.label; зараз аб'яднае ўсе дадзеныя браўзера з гэтай прылады ў рахунак Sync.">
+<!ENTITY confirm.client3.label         "Увага: наступныя дадзеныя &brandShortName; будуць выдалены на гэтай прыладзе  :">
+<!ENTITY confirm.client2.moreinfo.label "&brandShortName; затым будзе капіяваць дадзеныя &syncBrand.fullName.label; на гэтую прыладу.">
+<!ENTITY confirm.server2.label         "Увага: дадзеныя на наступных прыладах будуць перазапісаны лакальнымі дадзенымі:">
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Уладкаванне скончана">
