@@ -817,9 +817,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Усе бачныя вокны на вашым экране будуць абагулены.">
 
 <!ENTITY trackingProtection.title "Ахова ад сачэння">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць адсочваць вашы паводзіны ў Інтэрнэце.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць адсочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
-<!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента адсочвання.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; блакуе асобныя часткі старонкі, якія могуць асочваць вашы паводзіны ў Інтэрнэце.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Гэты сайт змяшчае элементы, якія могуць асочваць вашы паводзіны ў інтэрнэце. Вы адключылі ахову.">
+<!ENTITY trackingProtection.notDetected3 "На гэтай старонцы не выяўлена ніводнага элемента асочвання.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -833,8 +833,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Уключыць ахову">
 <!ENTITY trackingProtection.block2.accesskey "У">
 
-<!ENTITY trackingContentBlocked.message "Адсочванне">
-<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія адсочвалі вашы дзеянні ў інтэрнэце, былі заблакаваны.">
+<!ENTITY trackingContentBlocked.message "Асочванне">
+<!ENTITY trackingContentBlocked.moreinfo "Часткі старонкі, якія асочвалі вашы дзеянні ў інтэрнэце, былі заблакаваны.">
 <!ENTITY trackingContentBlocked.learnMore "Даведацца больш">
 <!ENTITY trackingContentBlocked.options "Налады">
 <!ENTITY trackingContentBlocked.unblock2.label "Адключыць ахову для гэтага сайта">
