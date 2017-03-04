@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "Orokorra">
 
-
+<!ENTITY  warnOnAddonInstall.label        "Abisatu gune bat gehigarriak instalatzen saiatzen bada">
+<!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -16,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Blokeatu deskarga arriskutsuak">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Abisatu nahi ez den eta ezohikoa den softwareari buruz">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "o">
 
 <!ENTITY  addonExceptions.label         "Salbuespenak…">
 <!ENTITY  addonExceptions.accesskey     "S">

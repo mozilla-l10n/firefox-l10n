@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Tresnak gehigarri guztientzat">
 
-
+<!ENTITY getThemes.description                "Nabigatzailea pertsonalizatu nahi duzu?">
+<!ENTITY getThemes.learnMore                  "Aukeratu milaka itxuren artetik.">
 
 <!ENTITY cmd.back.tooltip                     "Joan orri bat atzera">
 <!ENTITY cmd.forward.tooltip                  "Joan orri bat aurrera">

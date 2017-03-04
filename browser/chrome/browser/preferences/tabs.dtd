@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Ireki leiho berriak fitxa berrietan">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Abisatu hainbat fitxa ixterakoan">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "b">
 
+<!ENTITY warnOnOpenManyTabs.label       "Abisatu hainbat fitxa irekitzean honek &brandShortName; moteldu balezake">
+<!ENTITY warnOnOpenManyTabs.accesskey   "A">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Aldatu fitxa berrira lotura bat fitxa berrian irekitzean">
+<!ENTITY switchLinksToNewTabs.accesskey    "A">
 
 <!ENTITY showTabsInTaskbar.label          "Erakutsi fitxen aurrebistak Windowseko ataza-barran">
 <!ENTITY showTabsInTaskbar.accesskey      "z">

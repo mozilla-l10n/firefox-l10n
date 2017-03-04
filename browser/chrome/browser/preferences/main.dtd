@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; abiatzean:">
 <!ENTITY startupPage.accesskey     "z">
-
+<!ENTITY startupUserHomePage.label "Erakutsi hasiera-orria">
 <!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
-
+<!ENTITY startupPrevSession.label  "Berreskuratu azken saioko fitxak eta leihoak">
 
 <!ENTITY homepage.label            "Hasiera-orria:">
 <!ENTITY homepage.accesskey        "H">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "A">
 <!ENTITY chooseFolderMac.label        "Aukeratu…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "Galdetu beti non gorde fitxategiak">
+<!ENTITY alwaysAskWhere.accesskey     "n">
 
 <!ENTITY alwaysCheckDefault2.label        "Egiaztatu beti ea &brandShortName; nabigatzaile lehenetsia den">
 <!ENTITY alwaysCheckDefault2.accesskey    "E">

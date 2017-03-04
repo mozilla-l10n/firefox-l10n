@@ -30,7 +30,8 @@
 <!ENTITY generic.title "Iepa.">
 <!ENTITY generic.longDesc "<p>&brandShortName;(e)k ezin du orria kargatu.</p>">
 
-
+<!ENTITY captivePortal.title "Hasi saioa sarean">
+<!ENTITY captivePortal.longDesc "<p>Internet erabiltzeko saioa hastea eska diezazuke sare honek.</p>">
 
 <!ENTITY openPortalLoginPage.label "Ireki saio-hasiera orria">
 

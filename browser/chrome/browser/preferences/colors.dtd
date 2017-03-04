@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Gainidatzi orriak zehaztutako koloreak goiko hautapenekin:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "G">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Beti">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Kontraste handiko itxurekin soilik">
