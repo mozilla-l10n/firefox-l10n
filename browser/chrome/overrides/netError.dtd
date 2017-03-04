@@ -194,6 +194,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; se ni povezal na <span id='wrongSystemTime_URL'/>, ker je ura vašega računalnika očitno nastavljena napačno, kar preprečuje vzpostavitev varne povezave.</p> <p>Vaš računalnik kaže čas <span id='wrongSystemTime_systemDate'/>, moral pa bi <span id='wrongSystemTime_actualDate'/>. Za odpravo težave pravilno nastavite datum in čas.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; se ni povezal na <span id='wrongSystemTimeWithoutReference_URL'/>, ker je ura vašega računalnika očitno nastavljena napačno, kar preprečuje vzpostavitev varne povezave. </p> <p>Vaš računalnik je nastavljen na <span id='wrongSystemTimeWithoutReference_systemDate'/>. Za odpravo težave pravilno nastavite datum in čas.</p>">
 
 <!ENTITY certerror.pagetitle1  "Povezava ni varna">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ta stran uporablja HTTP
