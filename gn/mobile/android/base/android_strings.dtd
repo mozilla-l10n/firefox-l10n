@@ -574,7 +574,7 @@ size. -->
 <!ENTITY button_clear "Mopotĩ">
 <!ENTITY button_copy "Mbohasarã">
 
-<!ENTITY home_top_sites_title "Tenda iporãvéva">
+<!ENTITY home_top_sites_title "Py\u0027ỹigua">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Tenda mbojuaju">
@@ -829,7 +829,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Ehecha Bookmark Reader emoñe\u0027ẽ hag̃ua ñanduti\u0027ỹre.">
 <!ENTITY helper_triple_readerview_open_button "Embojuaju Techaukaháre">
 
-<!ENTITY activity_stream_topsites "Tenda iporãvéva">
+<!ENTITY activity_stream_topsites "Py\u0027ỹigua">
 <!ENTITY activity_stream_highlights "Ta\u0027ãngarei">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
