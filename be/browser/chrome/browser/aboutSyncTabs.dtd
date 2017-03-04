@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabs.otherDevices.label               "Устаўкі з іншых збудоваў">
+<!ENTITY tabs.otherDevices.label               "Карткі з іншых прылад">
 
-<!ENTITY tabs.searchText.label                   "Набярыце тэкст для шукання ўставак тут…">
+<!ENTITY tabs.searchText.label                   "Набярыце тэкст для шукання картак тут…">
+
 <!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
      Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
-
-<!ENTITY tabs.context.openTab.label                   "Адчыніць гэтую ўстаўку">
+<!ENTITY tabs.context.openTab.label                   "Адкрыць гэту картку">
 <!ENTITY tabs.context.openTab.accesskey               "А">
-<!ENTITY tabs.context.openMultipleTabs.label          "Адчыніць вылучаныя ўстаўкі">
+<!ENTITY tabs.context.openMultipleTabs.label          "Адкрыць выбраныя карткі">
 <!ENTITY tabs.context.openMultipleTabs.accesskey      "А">
-<!ENTITY tabs.context.bookmarkSingleTab.label         "Закласці гэтую ўстаўку…">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Закладку на гэту картку…">
 <!ENTITY tabs.context.bookmarkSingleTab.accesskey     "З">
-<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Закласці вылучаныя ўстаўкі…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Закладкі на выбраныя карткі…">
 <!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "З">
-<!ENTITY tabs.context.refreshList.label               "Паднавіць спіс">
+<!ENTITY tabs.context.refreshList.label               "Абнавіць спіс">
 <!ENTITY tabs.context.refreshList.accesskey           "н">

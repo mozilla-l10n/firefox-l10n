@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY restorepage.tabtitle       "Аднаўленне сэсіі">
+<!ENTITY restorepage.tabtitle       "Аднаўленне сеанса">
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Нам вельмі сорам.">
-<!ENTITY restorepage.problemDesc    "&brandShortName; мае праблемы з аднаўленнем вокан і ўставак. Гэта выклікана нядаўна адкрытай старонкай.">
+<!ENTITY restorepage.problemDesc    "&brandShortName; мае праблемы з аднаўленнем акон і картак. Гэта выклікана нядаўна адкрытай старонкай.">
 <!ENTITY restorepage.tryThis        "Вы можаце паспрабаваць:">
-<!ENTITY restorepage.restoreSome    "Выдаліць адну ці некалькі ўставак, якія маглі, на ваш погляд, выклікаць праблему">
-<!ENTITY restorepage.startNew       "Пачаць працу з цалкам новай сэсіяй азірання">
+<!ENTITY restorepage.restoreSome    "Выдаліць адну ці некалькі картак, якія маглі, на ваш погляд, выклікаць праблему">
+<!ENTITY restorepage.startNew       "Пачаць працу з цалкам новым сеансам аглядання">
 
 <!ENTITY restorepage.tryagainButton "Аднавіць">
 <!ENTITY restorepage.restore.access "А">
@@ -18,7 +18,7 @@
 <!ENTITY restorepage.close.access   "к">
 
 <!ENTITY restorepage.restoreHeader  "Аднавіць">
-<!ENTITY restorepage.listHeader     "Вокны і ўстаўкі">
+<!ENTITY restorepage.listHeader     "Вокны і карткі">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "Акно &#037;S">
 
@@ -34,7 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Поспех!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; гатовы.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Аднавіць усе вокны і ўстаўкі">
+<!ENTITY welcomeback2.label.restoreAll  "Аднавіць усе вокны і карткі">
 <!ENTITY welcomeback2.label.restoreSome "Аднавіць толькі тыя, якія вы хочаце">
 
 
@@ -44,7 +44,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Вашы ўбудовы і налады былі выдалены, і налады вашага браўзера былі адноўлены. Калі гэта не дапамагло выправіць праблему, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Вашы дадаткі і настаўленні былі выдалены, і налады вашага браўзера былі адноўлены. Калі гэта не дапамагло выправіць праблему, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "даведацца больш аб тым, што вы можаце зрабіць.">
