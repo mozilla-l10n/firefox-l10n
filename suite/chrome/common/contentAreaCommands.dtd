@@ -107,14 +107,18 @@
 <!ENTITY mediaUnmute.accesskey "d">
 <!ENTITY mediaPlaybackRate.label "Velocità di riproduzione">
 <!ENTITY mediaPlaybackRate.accesskey "V">
-<!ENTITY mediaPlaybackRate050.label "Rallentata (0.5×)">
+<!ENTITY mediaPlaybackRate050.label "Rallentata (0,5×)">
 <!ENTITY mediaPlaybackRate050.accesskey "R">
 <!ENTITY mediaPlaybackRate100.label "Normale">
 <!ENTITY mediaPlaybackRate100.accesskey "N">
-<!ENTITY mediaPlaybackRate150.label "Alta (1.5×)">
-<!ENTITY mediaPlaybackRate150.accesskey "A">
+<!ENTITY mediaPlaybackRate125.label "Alta (1,25×)">
+<!ENTITY mediaPlaybackRate125.accesskey "A">
+<!ENTITY mediaPlaybackRate150.label "Molto alta (1,.5×)">
+<!ENTITY mediaPlaybackRate150.accesskey "M">
 <!ENTITY mediaPlaybackRate200.label "Raddoppiata">
 <!ENTITY mediaPlaybackRate200.accesskey "d">
+<!ENTITY mediaLoop.label "Ripeti">
+<!ENTITY mediaLoop.accesskey "i">
 <!ENTITY mediaShowControls.label "Visualizza controlli multimediali">
 <!ENTITY mediaShowControls.accesskey "a">
 <!ENTITY mediaHideControls.label "Nascondi controlli multimediali">
