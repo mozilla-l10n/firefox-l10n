@@ -13,6 +13,13 @@
 <!ENTITY validateText.label "Controllare la validazione e recuperare un indirizzo valido.">
 <!ENTITY feedFolder.label "Memorizza gli articoli in:">
 <!ENTITY feedFolder.accesskey "M">
+<!ENTITY biffStart.label "Cerca aggiornamenti per nuovi articoli ogni">
+<!ENTITY biffStart.accesskey "C">
+<!ENTITY biffMinutes.label "minuti">
+<!ENTITY biffMinutes.accesskey "n">
+<!ENTITY biffDays.label "giorni">
+<!ENTITY biffDays.accesskey "o">
+<!ENTITY recommendedUnits.label "Raccomandati dall'editore:">
 <!ENTITY quickMode.label "Mostra il sommario degli articoli invece di caricare tutta la pagina">
 <!ENTITY quickMode.accesskey "r">
 <!ENTITY autotagEnable.label "Crea automaticamente le etichette coi nomi delle categorie dal feed">
