@@ -328,7 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "л"> 
 <!ENTITY viewSidebarMenu.label "Палічка">
 <!ENTITY viewSidebarMenu.accesskey "П">
-<!ENTITY viewCustomizeToolbar.label       "Наладзіць…"> 
+<!ENTITY viewCustomizeToolbar.label       "Уладкаваць…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "л">
 
 <!ENTITY historyMenu.label "Гісторыя">
