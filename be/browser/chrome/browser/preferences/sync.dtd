@@ -84,7 +84,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
 <!ENTITY forget.accesskey            "З">
 
-<!ENTITY welcome.description "Доступа да вашых уставак, пароляў і іншага, што ўжываецца вамі на &brandShortName;.">
+<!ENTITY welcome.description "Доступ да вашых картак, пароляў і іншага, што выкарыстана ў &brandShortName;.">
 <!ENTITY welcome.signIn.label "Увайсці">
 <!ENTITY welcome.createAccount.label "Стварыць рахунак">
 

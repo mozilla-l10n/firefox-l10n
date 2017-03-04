@@ -81,7 +81,7 @@
 <!ENTITY runtimePanel_wifi "Прылады Wi-Fi">
 <!ENTITY runtimePanel_simulator "Сімулятары">
 <!ENTITY runtimePanel_other "Іншае">
-<!ENTITY runtimePanel_installsimulator "Устанавіць сімулятар">
+<!ENTITY runtimePanel_installsimulator "Усталяваць сімулятар">
 <!ENTITY runtimePanel_noadbhelper "Усталяваць дапаможнік ADB">
 <!ENTITY runtimePanel_nousbdevice "Не бачыце сваю прыладу?">
 <!ENTITY runtimePanel_refreshDevices_label "Абнавіць прылады">
