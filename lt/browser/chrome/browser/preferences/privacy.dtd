@@ -105,9 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Nuostatos…">
 <!ENTITY  clearOnCloseSettings.accesskey "u">
 
-<!ENTITY  browserContainersHeader.label         "Sudėtinės kortelės">
+<!ENTITY  browserContainersHeader.label         "Sudėtinio rodinio kortelės">
 <!ENTITY  browserContainersLearnMore.label      "Sužinoti daugiau">
-<!ENTITY  browserContainersEnabled.label        "Įjungti sudėtines korteles">
+<!ENTITY  browserContainersEnabled.label        "Įjungti sudėtinio rodinio korteles">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Nuostatos…">
 <!ENTITY  browserContainersSettings.accesskey    "u">
