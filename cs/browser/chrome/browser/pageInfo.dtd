@@ -72,7 +72,7 @@
 <!ENTITY  securityView.identity.header   "Identita webového serveru">
 <!ENTITY  securityView.identity.owner    "Vlastník: ">
 <!ENTITY  securityView.identity.domain   "Webový server: ">
-<!ENTITY  securityView.identity.verifier "Ověřovatel: ">
+<!ENTITY  securityView.identity.verifier "Ověřil:">
 
 <!ENTITY  securityView.privacy.header                   "Soukromí a historie">
 <!ENTITY  securityView.privacy.history                  "Navštívil jsem už někdy tento server?">
