@@ -113,7 +113,7 @@
 <!ENTITY mediaPlaybackRate100.accesskey "N">
 <!ENTITY mediaPlaybackRate125.label "Alta (1,25×)">
 <!ENTITY mediaPlaybackRate125.accesskey "A">
-<!ENTITY mediaPlaybackRate150.label "Molto alta (1,.5×)">
+<!ENTITY mediaPlaybackRate150.label "Molto alta (1,5×)">
 <!ENTITY mediaPlaybackRate150.accesskey "M">
 <!ENTITY mediaPlaybackRate200.label "Raddoppiata">
 <!ENTITY mediaPlaybackRate200.accesskey "d">
