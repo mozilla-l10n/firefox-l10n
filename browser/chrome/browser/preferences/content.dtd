@@ -5,12 +5,12 @@
 <!ENTITY  popups.label                "Усплываючыя вокны">
 
 <!ENTITY  blockPopups.label           "Блакаваць усплываючыя вокны">
-<!ENTITY  blockPopups.accesskey       "т">
+<!ENTITY  blockPopups.accesskey       "Б">
 
 <!ENTITY  notificationsPolicy.label            "Апавяшчэнні">
 <!ENTITY  notificationsPolicyLearnMore.label   "Даведацца больш">
 <!ENTITY  notificationsPolicyDesc3.label       "Пазначце, якія сайты могуць дасылаць вам апавяшчэнні">
-<!ENTITY  notificationsPolicyButton.accesskey  "р">
+<!ENTITY  notificationsPolicyButton.accesskey  "а">
 <!ENTITY  notificationsPolicyButton.label      "Выбраць…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не турбаваць мяне">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "т">
