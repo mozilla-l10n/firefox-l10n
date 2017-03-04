@@ -387,7 +387,7 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Erakutsi bilaketen historia">
 <!ENTITY pref_import_options "Inportatzeko aukerak">
 <!ENTITY pref_import_android_summary "Inportatu laster-markak eta historia nabigatzaile natibotik">
-
+<!ENTITY pref_private_data_openTabs "Irekitako fitxak">
 <!ENTITY pref_private_data_history2 "Nabigatze-historia">
 <!ENTITY pref_private_data_searchHistory "Bilaketen historia">
 <!ENTITY pref_private_data_formdata2 "Inprimakien historia">
@@ -540,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Trinkotu fitxak">
+<!ENTITY pref_compact_tabs_summary2 "Antolatu fitxak bi zutabetan modu bertikalean">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
