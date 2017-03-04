@@ -14,13 +14,13 @@
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-<!ENTITY abouthome.defaultSnippet1.v1 "Дзякуй за выбар Firefox! Каб атрымаць максімум ад браўзера, пазнаёмцеся з яго <a>найноўшымі магчымасцямі</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "Дзякуй за выбар Firefox! Каб атрымаць максімум ад браўзера, азнаёмцеся з яго <a>найноўшымі магчымасцямі</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox лёгка ўладкаваць так, каб ён адпавядаў усім вашым патрэбам. <a>Тысячы дадаткаў прапануюцца вам на выбар</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; – свабодная праграма з адкрытым зыходным кодам ад бескарыслівай Mozilla Foundation. <a>Вашы правы…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; – свабодная праграма з адкрытым зыходным кодам ад некамерцыйнай Mozilla Foundation. <a>Вашы правы…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "Закладкі">
 <!ENTITY abouthome.historyButton.label   "Гісторыя">
