@@ -7,7 +7,7 @@
 <!ENTITY startupPage.label         "Пасля запуску &brandShortName;:">
 <!ENTITY startupPage.accesskey     "з">
 <!ENTITY startupUserHomePage.label "Паказваць вашу хатнюю старонку">
-<!ENTITY startupBlankPage.label    "Паказаць пустую старонку">
+<!ENTITY startupBlankPage.label    "Паказваць пустую старонку">
 <!ENTITY startupPrevSession.label  "Паказваць апошнія вокны і карткі">
 
 <!ENTITY homepage.label            "Хатняя старонка:">
@@ -39,7 +39,7 @@
 <!ENTITY isNotDefault.label               "&brandShortName; не прадвызначаны браўзер">
 
 <!ENTITY separateProfileMode.label        "Дазволіць &brandShortName; і Firefox выконвацца адначасова">
-<!ENTITY useFirefoxSync.label             "Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся Sync для абмену данымі паміж імі.">
+<!ENTITY useFirefoxSync.label             "Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся Sync для абмену дадзенымі паміж імі.">
 <!ENTITY getStarted.label                 "Пачаць карыстацца Sync…">
 
 <!ENTITY e10sEnabled.label                "Уключыць шматпрацэсны &brandShortName;">
