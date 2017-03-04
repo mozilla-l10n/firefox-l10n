@@ -9,6 +9,7 @@
 <!ENTITY ListNickName.label "Soprannome lista:">
 <!ENTITY ListDescription.label "Descrizione:">
 <!ENTITY AddressTitle.label "Inserire gli indirizzi e-mail da aggiungere alla lista di distribuzione:">
+<!ENTITY AddressTitle.accesskey "e">
 <!ENTITY addToAddressBook.accesskey "A">
 <!ENTITY ListName.accesskey "N">
 <!ENTITY ListNickName.accesskey "S">
