@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Indstillinger for websteds-data">
-<!ENTITY     settings.description          "Følgende websteder har anmodet om at gemme webstedsdadta på din harddisk. Du kan angive, hvilke websteder, der må gemme websteds-data. Som standard er websteds-data midlertidige og kan blive slettet automatisk.">
+<!ENTITY     settings.description          "Følgende websteder har anmodet om at gemme webstedsdata på din harddisk. Du kan angive, hvilke websteder, der må gemme webstedsdata. Som standard er webstedsdata midlertidige og kan blive slettet automatisk.">
 <!ENTITY     hostCol.label                 "Websted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Anvendt plads">
