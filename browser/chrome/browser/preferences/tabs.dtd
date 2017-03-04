@@ -15,7 +15,7 @@
 <!ENTITY warnOnOpenManyTabs.accesskey   "r">
 
 <!ENTITY switchLinksToNewTabs.label        "Vaihda linkistä avattuun välilehteen heti">
-<!ENTITY switchLinksToNewTabs.accesskey    "i">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Näytä esikatselut välilehdistä Windowsin tehtäväpalkissa">
 <!ENTITY showTabsInTaskbar.accesskey      "N">
