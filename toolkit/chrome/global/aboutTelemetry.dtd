@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Gijų strigtys">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Įrašyti dėklai">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Skaliarai">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Raktinės histogramos">
 
+<!ENTITY aboutTelemetry.eventsSection "  Įvykiai">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Paprasti matavimai">
 
