@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans-serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Baimendu orriak beraien letra-tipoak aukeratzea goiko nire aukeren ordez">
+<!ENTITY  allowPagesToUseOwn.accesskey            "B">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Legatu-edukiarentzat karaktere-kodeketa">
 <!ENTITY languages.customize.Fallback2.label      "Testu-kodeketa lehenetsia:">

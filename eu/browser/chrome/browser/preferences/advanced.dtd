@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Erabili beti kurtsore-teklak orriak nabigatzeko">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Bilatu testua idazten hasi bezain laster">
+<!ENTITY searchOnStartTyping.accesskey   "B">
+<!ENTITY blockAutoReload.label           "Abisatu webguneek orria berritu edo beste norabait birbideratu nahi badute">
+<!ENTITY blockAutoReload.accesskey       "A">
 <!ENTITY useOnScreenKeyboard.label       "Beharrezkoa denean, erakutsi ukipen-teklatua">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "u">
 <!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey          "h">
-
-
+<!ENTITY checkUserSpelling.label         "Egiaztatu ortografia idatzi ahala">
+<!ENTITY checkUserSpelling.accesskey     "z">
 
 <!ENTITY dataChoicesTab.label            "Datu-aukerak">
 
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Lineaz kanpoko web edukia eta erabiltzaileen datuak">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Gunearen datuak">
+<!ENTITY clearSiteData.label             "Garbitu datu guztiak">
+<!ENTITY clearSiteData.accesskey         "G">
+<!ENTITY siteDataSettings.label          "Ezarpenak…">
+<!ENTITY siteDataSettings.accesskey      "E">
+<!ENTITY siteDataLearnMoreLink.label     "Argibide gehiago">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Eguneraketak">
 
+<!ENTITY updateApplication.label         "&brandShortName; eguneraketak">
 <!ENTITY updateAuto1.label               "Instalatu eguneraketak automatikoki (gomendatua: segurtasun hobea)">
 <!ENTITY updateAuto1.accesskey           "s">
-
-
+<!ENTITY updateCheckChoose.label         "Bilatu eguneraketak baina utzi aukeratzen instalatuko diren edo ez">
+<!ENTITY updateCheckChoose.accesskey     "B">
 <!ENTITY updateManual.label              "Ez bilatu eguneraketak inoiz (ez gomendatua: segurtasun arriskua)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
 
+<!ENTITY autoUpdateOthers.label          "Eguneratu automatikoki">
 <!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 
-
+<!ENTITY offlineStorageNotify.label               "Abisatu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
+<!ENTITY offlineStorageNotify.accesskey           "A">
 <!ENTITY offlineStorageNotifyExceptions.label     "Salbuespenak…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "S">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Ziurtagiriak">
 <!ENTITY certPersonal.label              "Eskaerak">
-
+<!ENTITY certPersonal.description        "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
 <!ENTITY selectCerts.auto                "Hautatu bat automatikoki">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "t">
+<!ENTITY selectCerts.ask                 "Galdetu beti">
+<!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Galdetu OCSP erantzule-zerbitzariei ziurtagiriak baliozkoak diren egiaztatzeko">
 <!ENTITY enableOCSP.accesskey            "G">
 <!ENTITY viewCerts.label                 "Ikusi ziurtagiriak">

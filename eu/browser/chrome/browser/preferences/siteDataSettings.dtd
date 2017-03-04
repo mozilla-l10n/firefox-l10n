@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Ezarpenak - Guneen datuak">
 
-
-
-
-
+<!ENTITY     hostCol.label                 "Gunea">
+<!ENTITY     statusCol.label               "Egoera">
+<!ENTITY     usageCol.label                "Biltegiratzea">
+<!ENTITY     search.label                  "Bilatu:">
+<!ENTITY     search.accesskey              "B">

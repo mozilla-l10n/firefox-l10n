@@ -6,7 +6,7 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "n">
 <!ENTITY editBookmarkOverlay.location.label                  "Helbidea:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "l">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Jarioaren kokapena:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Jarioaren helbidea:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "J">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Gunearen kokapena:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "G">

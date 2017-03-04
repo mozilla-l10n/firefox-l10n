@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Simulatzailearen aukerak">
 <!ENTITY simulator_remove "Ezabatu simulatzailea">
 <!ENTITY simulator_reset "Berrezarri lehenetsiak">
-
+<!ENTITY simulator_name "Izena">
 <!ENTITY simulator_software "Softwarea">
 <!ENTITY simulator_version "Bertsioa">
 <!ENTITY simulator_profile "Profila">
