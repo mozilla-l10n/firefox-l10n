@@ -90,7 +90,9 @@
 
 <!ENTITY aboutTelemetry.slowSqlSection "  Паказ чыннікаў SQL">
 
-<!ENTITY aboutTelemetry.chromeHangsSection "  Завісанні азіральніка">
+<!ENTITY aboutTelemetry.chromeHangsSection "
+  Завісанні браўзера
+">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Нізкі завісанняў">
 
