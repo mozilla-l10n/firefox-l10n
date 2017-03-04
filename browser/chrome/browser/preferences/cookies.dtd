@@ -28,6 +28,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Išči">
+<!ENTITY     searchFilter.accesskey         "I">
 
 <!ENTITY     button.close.label             "Zapri">
 <!ENTITY     button.close.accesskey         "Z">
