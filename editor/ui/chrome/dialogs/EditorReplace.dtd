@@ -9,7 +9,7 @@
 <!ENTITY findField.accesskey "N">
 <!ENTITY replaceField.label "Nahradit čím:">
 <!ENTITY replaceField.accesskey "h">
-<!ENTITY caseSensitiveCheckbox.label "Rozlišovat malá/velká písmena">
+<!ENTITY caseSensitiveCheckbox.label "Rozlišovat malá a velká písmena">
 <!ENTITY caseSensitiveCheckbox.accesskey "l">
 <!ENTITY wrapCheckbox.label "Zalamovat">
 <!ENTITY wrapCheckbox.accesskey "Z">
