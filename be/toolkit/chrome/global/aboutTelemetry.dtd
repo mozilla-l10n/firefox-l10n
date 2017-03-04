@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutTelemetry.pageTitle "Здаткі тэлеметрыі">
+<!ENTITY aboutTelemetry.pageTitle "Дадзеныя тэлеметрыі">
 
 <!ENTITY aboutTelemetry.changeDataChoices "
   Змяніць
@@ -130,13 +130,17 @@
 
 <!ENTITY aboutTelemetry.toggle "  Пстрыкніце, каб пераключыць раздзел">
 
-<!ENTITY aboutTelemetry.emptySection "  (Няма сабраных здаткаў)">
+<!ENTITY aboutTelemetry.emptySection "
+  (Няма сабраных дадзеных)
+">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.">
 
 <!ENTITY aboutTelemetry.fetchSymbols "  Даставанне назваў функцыяў для стосаў завісанняў">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Паказ сырых здаткаў з завісанняў">
+<!ENTITY aboutTelemetry.hideSymbols "
+  Паказ сырых дадзеных з завісанняў
+">
 
 <!ENTITY aboutTelemetry.filterText "  Сіта (радкі або /regexp/)">
 

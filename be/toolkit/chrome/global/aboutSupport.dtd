@@ -106,7 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.updateHistoryTitle "Гісторыя абнаўленняў">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Скапіяваць тэкст у буфер абмену">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя даныя ў буфер абмену">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя дадзеныя ў буфер абмену">
 
 <!ENTITY aboutSupport.sandboxTitle "Пясочніца">
 
