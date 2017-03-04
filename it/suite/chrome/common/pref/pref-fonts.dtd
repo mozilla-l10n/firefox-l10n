@@ -19,19 +19,14 @@
 <!ENTITY fantasy.accesskey "F">
 <!ENTITY cursive.label "Corsivo:">
 <!ENTITY cursive.accesskey "o">
-<!ENTITY font.langGroup.latin1 "Occidentale">
-<!ENTITY font.langGroup.latin2 "Europa Centrale">
+<!ENTITY font.langGroup.latin "Occidentale">
 <!ENTITY font.langGroup.japanese "Giapponese">
 <!ENTITY font.langGroup.trad-chinese "Cinese Tradizionale(Taiwan)">
 <!ENTITY font.langGroup.simpl-chinese "Cinese Semplificato">
 <!ENTITY font.langGroup.trad-chinese-hk "Cinese Tradizionale(Hong Kong)">
 <!ENTITY font.langGroup.korean "Coreano">
 <!ENTITY font.langGroup.cyrillic "Cirillico">
-<!ENTITY font.langGroup.baltic "Baltico">
 <!ENTITY font.langGroup.el "Greco">
-<!ENTITY font.langGroup.turkish "Turco">
-<!ENTITY font.langGroup.unicode1 "Unicode">
-<!ENTITY font.langGroup.user-def "Definito dall'utente">
 <!ENTITY font.langGroup.thai "Tailandese">
 <!ENTITY font.langGroup.hebrew "Ebraico">
 <!ENTITY font.langGroup.arabic "Arabo">
@@ -47,6 +42,12 @@
 <!ENTITY font.langGroup.khmer "Khmer">
 <!ENTITY font.langGroup.malayalam "Malayalam">
 <!ENTITY font.langGroup.math "Matematica">
+<!ENTITY  font.langGroup.odia "Oriya">
+<!ENTITY  font.langGroup.telugu "Telugu">
+<!ENTITY  font.langGroup.kannada "Kannada">
+<!ENTITY  font.langGroup.sinhala "Singalese">
+<!ENTITY  font.langGroup.tibetan "Tibetano">
+<!ENTITY  font.langGroup.other "Altri sistemi di scrittura">
 <!ENTITY minSize.label "Dimensione minima caratteri:">
 <!ENTITY minSize.accesskey "D">
 <!ENTITY minSize.none "Nessuna">
