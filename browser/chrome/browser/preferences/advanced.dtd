@@ -86,7 +86,7 @@
 <!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
 <!ENTITY updateAuto1.label               "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
 <!ENTITY updateAuto1.accesskey           "С">
-<!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўстанаўліваць іх">
+<!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўсталёўваць іх">
 <!ENTITY updateCheckChoose.accesskey     "П">
 <!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
 <!ENTITY updateManual.accesskey          "Н">
