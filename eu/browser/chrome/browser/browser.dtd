@@ -477,8 +477,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Ireki markoa leiho berrian">
 <!ENTITY openFrameCmd.accesskey       "m">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Ireki lotura edukiontzi-fitxa berrian">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Erakutsi marko hau bakarrik">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
 <!ENTITY reloadCmd.commandkey         "r">

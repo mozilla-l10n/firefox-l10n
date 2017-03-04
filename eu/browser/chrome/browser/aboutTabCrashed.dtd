@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "Jakinarazi postaz informazio gehiago erabilgarri dagoenean">
 <!ENTITY tabCrashed.reportSent "Hutsegite-txostena bidalita dago; eskerrik asko &brandShortName; hobetzen laguntzeagatik!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Eman atzeko planoko fitxen berri">
-
+<!ENTITY tabCrashed.autoSubmit2 "Eguneratu hobespenak hutsegite-txostenak automatikoki bidaltzeko, saio honetan eta etorkizuneanatzeko planoan huts egindako fitxen txostenak barne.">
