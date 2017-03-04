@@ -30,6 +30,7 @@
 <!ENTITY generic.title "ওহ্ হো!">
 <!ENTITY generic.longDesc "<p>কোনো কারণে &brandShortName; এই পৃষ্ঠাটি লোড করতে পারছে না।</p>">
 
+<!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
 
 
 <!ENTITY openPortalLoginPage.label "লগইন পাতা খুলুন">
