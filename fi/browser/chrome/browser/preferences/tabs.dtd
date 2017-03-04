@@ -18,5 +18,5 @@
 <!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Näytä esikatselut välilehdistä Windowsin tehtäväpalkissa">
-<!ENTITY showTabsInTaskbar.accesskey      "N">
+<!ENTITY showTabsInTaskbar.accesskey      "y">
 <!ENTITY tabsGroup.label          "Välilehdet">
