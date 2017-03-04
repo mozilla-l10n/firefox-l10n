@@ -25,7 +25,7 @@
 
 <!ENTITY  downloadPage.title              "Сцягванне &brandShortName;">
 <!ENTITY  downloading.intro               "Сцягванне абнаўлення…">
-<!ENTITY  connecting.label                "Злучэнне з паслугачом абнаўленняў…">
+<!ENTITY  connecting.label                "Злучэнне з серверам абнаўленняў…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; не здолеў праверыць цэласнасць загружанага ўздымнага абнаўлення, таму ён загружае поўны пакет абнаўлення.">
 
 <!ENTITY  viewDetails.tooltip             "Прагляд падрабязнасцяў гэтага абнаўлення">
