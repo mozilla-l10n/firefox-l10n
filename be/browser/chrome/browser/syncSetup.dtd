@@ -72,13 +72,13 @@
 
 <!-- Existing Account Page 2: Manual Login -->
 <!ENTITY setup.signInPage.title.label "Увайсці">
-<!ENTITY existingRecoveryKey.description "Вы можаце атрымаць падвой вашага адноўнага ключа ў наладжваннях &syncBrand.shortName.label; на іншай вашай прыладзе, выберыце &quot;Мой адноўны ключ&quot; у &quot;Кіраваць рахункам&quot;.">
+<!ENTITY existingRecoveryKey.description "Вы можаце атрымаць падвой вашага адноўнага ключа ў наладах &syncBrand.shortName.label; на іншай вашай прыладзе, выберыце  &#x0022;Мой адноўны ключ&#x0022; у &#x0022;Кіраваць рахункам&#x0022;.">
 <!ENTITY verifying.label              "Праверка…">
 <!ENTITY resetPassword.label          "Скінуць пароль">
 <!ENTITY resetSyncKey.label           "Я згубіў маю іншую прыладу.">
 
 <!-- Sync Options -->
-<!ENTITY setup.optionsPage.title      "Наладжванні Sync">
+<!ENTITY setup.optionsPage.title      "Налады Sync">
 <!ENTITY syncDeviceName.label       "Назва прылады:">
 <!ENTITY syncDeviceName.accesskey   "Н">
 
@@ -110,5 +110,5 @@
 
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Уладкаванне скончана">
-<!ENTITY changeOptions.label "Вы можаце змяніць гэтую перавагу з дапамогаю наладжванняў Sync.">
+<!ENTITY changeOptions.label "Вы можаце змяніць гэтую перавагу з дапамогаю налад Sync.">
 <!ENTITY continueUsing.label "Зараз вы можаце працягнуць працаваць з &brandShortName;.">

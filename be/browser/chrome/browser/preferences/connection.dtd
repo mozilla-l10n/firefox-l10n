@@ -10,9 +10,9 @@
 <!ENTITY  proxyTitle.label              "Наладка пасярэднікаў дзеля доступу ў Інтэрнэт">
 <!ENTITY  noProxyTypeRadio.label        "Без пасярэдніка">
 <!ENTITY  noProxyTypeRadio.accesskey    "з">
-<!ENTITY  systemTypeRadio.label         "Ужываць сістэмныя наладжванні пасярэднікаў">
+<!ENTITY  systemTypeRadio.label         "Ужываць сістэмныя налады проксі">
 <!ENTITY  systemTypeRadio.accesskey     "У">
-<!ENTITY  WPADTypeRadio.label           "Самавызначэнне наладжванняў пасярэднікаў для гэтай сеткі">
+<!ENTITY  WPADTypeRadio.label           "Самавызначэнне налад проксі для гэтай сеткі">
 <!ENTITY  WPADTypeRadio.accesskey       "с">
 <!ENTITY  manualTypeRadio.label         "Ручная наладка пасярэднікаў:">
 <!ENTITY  manualTypeRadio.accesskey     "Р">
@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "ў">
 <!ENTITY  autologinproxy.label          "Не запытваць апазнаванне, калі ёсць захованы пароль">
 <!ENTITY  autologinproxy.accesskey      "Н">
-<!ENTITY  autologinproxy.tooltip        "Гэтае наладжванне ціха выконвае апазнаванне вас на пасярэдніках, калі вы маеце захаваныя даверанасці. Запыт адбудзецца толькі падчас няўдачы апазнавання.">
+<!ENTITY  autologinproxy.tooltip        "Гэтая налада без запытаў выконвае апазнаванне вас на проксі, калі вы маеце захаваныя для іх уліковыя запісы. Запыт адбудзецца толькі падчас няўдачы апазнавання.">
