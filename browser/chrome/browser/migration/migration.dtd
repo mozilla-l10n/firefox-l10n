@@ -31,8 +31,8 @@
 <!ENTITY noMigrationSources.label       "Не знойдзены ніякія праграмы, якія б утрымлівалі закладкі, гісторыю або паролі.">
 
 <!ENTITY importSource.title             "Імпарт налад і дадзеных">
-<!ENTITY importItems.title              "Адзінкі для імпарту">
-<!ENTITY importItems.label              "Выберыце, якія адзінкі трэба імпартаваць:">
+<!ENTITY importItems.title              "Элементы для імпарту">
+<!ENTITY importItems.label              "Выберыце, якія элементы трэба імпартаваць:">
 
 <!ENTITY migrating.title                "Імпарт…">
 <!ENTITY migrating.label                "Наступныя адзінкі зараз імпартуюцца…">
@@ -43,4 +43,4 @@
 <!ENTITY done.title                     "Імпарт Выкананы">
 <!ENTITY done.label                     "Наступныя адзінкі паспяхова імпартаваны:">
 
-<!ENTITY closeSourceBrowser.label       "Калі ласка, упэўніцеся, што выбраны браўзер закрыты, перад працягам.">
+<!ENTITY closeSourceBrowser.label       "Калі ласка, упэўніцеся перад працягам, што выбраны браўзер закрыты.">
