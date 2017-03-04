@@ -13,7 +13,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "Выключэнні…">
 <!ENTITY  trackingProtectionExceptions.accesskey "ч">
 
-<!ENTITY tracking.label                 "Высочванне">
+<!ENTITY tracking.label                 "Асочванне">
 <!ENTITY trackingProtectionPBM5.label         "Выкарыстоўваць ахову ад сачэння ў прыватных вокнах">
 <!ENTITY trackingProtectionPBM5.accesskey     "В">
 <!ENTITY trackingProtectionPBMLearnMore.label "Даведацца больш">
