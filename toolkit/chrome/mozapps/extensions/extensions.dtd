@@ -80,7 +80,7 @@
 <!ENTITY cmd.showDetails.accesskey            "П">
 <!ENTITY cmd.findUpdates.label                "Знайсці абнаўленні">
 <!ENTITY cmd.findUpdates.accesskey            "З">
-<!ENTITY cmd.preferencesWin.label             "Наладжванні">
+<!ENTITY cmd.preferencesWin.label             "Налады">
 <!ENTITY cmd.preferencesWin.accesskey         "Н">
 <!ENTITY cmd.preferencesUnix.label            "Перавагі">
 <!ENTITY cmd.preferencesUnix.accesskey        "П">
@@ -107,7 +107,7 @@
 <!ENTITY cmd.uninstallAddon.label             "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey         "В">
 <!ENTITY cmd.showPreferencesWin.label         "Наладжванні">
-<!ENTITY cmd.showPreferencesWin.tooltip       "Змяненне наладжванняў гэтага дадатка">
+<!ENTITY cmd.showPreferencesWin.tooltip       "Змяненне налад гэтага дадатка">
 <!ENTITY cmd.showPreferencesUnix.label        "Перавагі">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Змяненне перавагаў гэтага дадатка">
 <!ENTITY cmd.contribute.label                 "Ахвяраваць">
@@ -137,7 +137,7 @@
 
 <!ENTITY detail.updateType                    "Самастойныя абнаўленні">
 <!ENTITY detail.updateDefault.label           "Змоўчнае">
-<!ENTITY detail.updateDefault.tooltip         "Самастойна ўсталёўваць абнаўленні, калі гэта змоўчнае наладжванне">
+<!ENTITY detail.updateDefault.tooltip         "Самастойна ўсталёўваць абнаўленні, калі гэта змоўчная налада">
 <!ENTITY detail.updateAutomatic.label         "Укл.">
 <!ENTITY detail.updateAutomatic.tooltip       "Самастойна ўсталёўваць абнаўленні">
 <!ENTITY detail.updateManual.label            "Выкл.">
@@ -149,9 +149,9 @@
 <!ENTITY detail.checkForUpdates.label         "Знайсці абнаўленні">
 <!ENTITY detail.checkForUpdates.accesskey     "н">
 <!ENTITY detail.checkForUpdates.tooltip       "Праверыць, ці існуюць абнаўленні гэтага дадатку">
-<!ENTITY detail.showPreferencesWin.label      "Наладжванні">
+<!ENTITY detail.showPreferencesWin.label      "Налады">
 <!ENTITY detail.showPreferencesWin.accesskey  "Н">
-<!ENTITY detail.showPreferencesWin.tooltip    "Змяненне наладжванняў гэтага дадатка">
+<!ENTITY detail.showPreferencesWin.tooltip    "Змяненне налад гэтага дадатка">
 <!ENTITY detail.showPreferencesUnix.label     "Перавагі">
 <!ENTITY detail.showPreferencesUnix.accesskey "П">
 <!ENTITY detail.showPreferencesUnix.tooltip   "Змяненне перавагаў гэтага дадатка">
@@ -227,7 +227,7 @@
 <!ENTITY experiment.info.label "Што гэта? Тэлеметрыя можа ўсталёўваць і выконваць доследы час ад часу.">
 <!ENTITY experiment.info.learnmore "Падрабязней">
 <!ENTITY experiment.info.learnmore.accesskey "д">
-<!ENTITY experiment.info.changetelemetry "Наладжванні тэлеметрыі">
+<!ENTITY experiment.info.changetelemetry "Параметры тэлеметрыі">
 <!ENTITY experiment.info.changetelemetry.accesskey "т">
 
 <!ENTITY setting.learnmore "Падрабязней…">

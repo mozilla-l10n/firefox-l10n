@@ -5,7 +5,7 @@
 
 <!ENTITY migrationWizard.title          "Майстар імпарту">
 
-<!ENTITY importFrom.label               "Імпарт наладжванняў, закладак, гісторыі, пароляў і іншых даных з:">
+<!ENTITY importFrom.label               "Імпартаваць налады, закладкі, гісторыю, паролі і іншыя дадзеныя з:">
 <!ENTITY importFromUnix.label           "Імпарт Перавагаў, Закладак, Гісторыі, Пароляў ці іншых даных з:">
 <!ENTITY importFromBookmarks.label      "Імпарт Закладак з:">
 
@@ -30,7 +30,7 @@
 
 <!ENTITY noMigrationSources.label       "Не знойдзены ніякія праграмы, якія б утрымлівалі закладкі, гісторыю або паролі.">
 
-<!ENTITY importSource.title             "Імпарт наладжванняў і даных">
+<!ENTITY importSource.title             "Імпарт налад і дадзеных">
 <!ENTITY importItems.title              "Адзінкі для імпарту">
 <!ENTITY importItems.label              "Выберыце, якія адзінкі трэба імпартаваць:">
 

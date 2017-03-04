@@ -1,12 +1,12 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from printjoboptions.xul -->
 
+<!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printSetup.title    "Уладкаванне старонкі">
 
-<!ENTITY basic.tab           "Фармат і наладжванні">
+<!ENTITY basic.tab           "Фармат &amp; налады">
 
 <!ENTITY formatGroup.label   "Фармат">
 
@@ -23,7 +23,7 @@
 <!ENTITY shrinkToFit.label   "Сціснуць да шырыні старонкі">
 <!ENTITY shrinkToFit.accesskey "ш">
 
-<!ENTITY optionsGroup.label  "Наладжванні">
+<!ENTITY optionsGroup.label  "Налады">
 
 <!ENTITY printBG.label       "Друкаваць фон (колеры і выявы)">
 <!ENTITY printBG.accesskey   "ф">
