@@ -15,9 +15,9 @@
 <!ENTITY setup.choicePage.existing2.label "Я ўжо &syncBrand.shortName.label; на іншай прыладзе">
 
 <!-- New Account AND Existing Account -->
-<!ENTITY server.label               "Паслугач">
-<!ENTITY serverType.default.label      "Змоўчны: паслугач Mozilla &syncBrand.fullName.label;">
-<!ENTITY serverType.custom2.label   "Ужываць іншы паслугач…">
+<!ENTITY server.label               "Сервер">
+<!ENTITY serverType.default.label      "Змоўчны: сервер Mozilla &syncBrand.fullName.label;">
+<!ENTITY serverType.custom2.label   "Ужываць іншы сервер…">
 <!ENTITY signIn.account2.label      "Рахунак">
 <!ENTITY signIn.account2.accesskey  "Р">
 <!ENTITY signIn.password.label      "Пароль">
