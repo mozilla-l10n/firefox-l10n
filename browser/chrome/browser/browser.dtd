@@ -382,11 +382,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Перамясціць у меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "р">
-<!ENTITY customizeMenu.removeFromToolbar.label "Прыняць з прыладапаліцы">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "П">
-<!ENTITY customizeMenu.removeFromMenu.label "Прыняць з меню">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "П">
-<!ENTITY customizeMenu.addMoreItems.label "Дадаць іншыя адзінкі…">
+<!ENTITY customizeMenu.removeFromToolbar.label "Выдаліць з стужкі прылад">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "В">
+<!ENTITY customizeMenu.removeFromMenu.label "Выдаліць з меню">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "В">
+<!ENTITY customizeMenu.addMoreItems.label "Дадаць больш элементаў…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Д">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -505,16 +505,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageInfoCmd.accesskey   "в">
 <!ENTITY viewImageDescCmd.label       "Пабачыць апісанне">
 <!ENTITY viewImageDescCmd.accesskey   "а">
-<!ENTITY viewVideoCmd.label           "Прагледзець відэя">
+<!ENTITY viewVideoCmd.label           "Прагледзець відэа">
 <!ENTITY viewVideoCmd.accesskey       "г">
-<!ENTITY viewBGImageCmd.label         "Праглядзець выяву фону">
+<!ENTITY viewBGImageCmd.label         "Паказаць фонавы відарыс">
 <!ENTITY viewBGImageCmd.accesskey     "ф">
 <!ENTITY setDesktopBackgroundCmd.label      "Усталяваць як фон працоўнага стала…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "У">
-<!ENTITY bookmarkPageCmd2.label       "Дадаць закладку да гэтай старонкі">
-<!ENTITY bookmarkThisLinkCmd.label      "Дадаць закладку да гэтай спасылкі">
+<!ENTITY bookmarkPageCmd2.label       "Дадаць закладку на гэту старонкі">
+<!ENTITY bookmarkThisLinkCmd.label      "Дадаць закладку на гэту спасылку">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
-<!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку да гэтай рамкі">
+<!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку на гэту рамку">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
 <!ENTITY emailPageCmd.label           "Даслаць спасылку…">
 <!ENTITY emailPageCmd.accesskey       "с">
@@ -553,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageCmd.accesskey       "х">
 <!ENTITY copyImageContentsCmd.label   "Капіяваць выяву">
 <!ENTITY copyImageContentsCmd.accesskey  "я"> 
-<!ENTITY copyVideoURLCmd.label        "Капіяваць месцазнаходжанне відэя">
+<!ENTITY copyVideoURLCmd.label        "Капіяваць месцазнаходжанне відэа">
 <!ENTITY copyVideoURLCmd.accesskey    "К">
 <!ENTITY copyAudioURLCmd.label        "Капіяваць месцазнаходжанне гуку">
 <!ENTITY copyAudioURLCmd.accesskey    "п">
@@ -597,9 +597,9 @@ fast. -->
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Паказаць кіроўцы">
+<!ENTITY mediaShowControls.label     "Паказаць элементы кіравання">
 <!ENTITY mediaShowControls.accesskey "к">
-<!ENTITY mediaHideControls.label     "Схаваць кіроўцы">
+<!ENTITY mediaHideControls.label     "Схаваць элементы кіравання">
 <!ENTITY mediaHideControls.accesskey "к">
 <!ENTITY videoFullScreen.label       "Увесь экран">
 <!ENTITY videoFullScreen.accesskey   "У">
@@ -653,7 +653,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "В">
 
-<!ENTITY closeCmd.label                 "Зачыніць">  
+<!ENTITY closeCmd.label                 "Закрыць">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ч">
 
@@ -661,8 +661,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageStyleMenu.label "Стыль старонкі">
 <!ENTITY pageStyleMenu.accesskey "С">
-<!ENTITY pageStyleNoStyle.label "Няма стылю">
-<!ENTITY pageStyleNoStyle.accesskey "Н">
+<!ENTITY pageStyleNoStyle.label "Без стылю">
+<!ENTITY pageStyleNoStyle.accesskey "т">
 <!ENTITY pageStylePersistentOnly.label "Базавы стыль старонкі">
 <!ENTITY pageStylePersistentOnly.accesskey "Б">
 
@@ -795,10 +795,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "Націсніце на службу, каб дадаць яе ў &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Паказаць больш">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "Дадатковыя прылады і асаблівасці">
+<!ENTITY customizeMode.menuAndToolbars.header2 "Дадатковыя прылады і магчымасці">
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце сярод тысячаў дадаткаў">
-<!ENTITY customizeMode.restoreDefaults "Аднавіць змоўчныя">
+<!ENTITY customizeMode.restoreDefaults "Узнавіць прадвызначэнні">
 <!ENTITY customizeMode.toolbars "Паказаць / Схаваць прыладапаліцы">
 <!ENTITY customizeMode.titlebar "Паліца загалоўка">
 <!ENTITY customizeMode.lwthemes "Тэмы">
