@@ -61,7 +61,7 @@ that require it.  -->
 <!ENTITY itemActiveLogins.label            "Дзейныя ўваходы">
 <!ENTITY itemActiveLogins.accesskey        "ў">
 <!ENTITY itemSitePreferences.label         "Налады сайтаў">
-<!ENTITY itemSitePreferences.accesskey     "ц">
+<!ENTITY itemSitePreferences.accesskey     "Н">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

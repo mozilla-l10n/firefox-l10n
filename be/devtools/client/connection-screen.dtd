@@ -8,7 +8,7 @@
   - -->
 
 <!ENTITY title      "Злучэнне">
-<!ENTITY header     "Злучэнне з адлеглай збудовай">
+<!ENTITY header     "Злучэнне з адлеглай прыладай">
 <!ENTITY host       "Хост:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Злучыцца">
@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "Даступныя адлеглыя закладкі:">
 <!ENTITY availableProcesses "Даступныя адлеглыя працэсы:">
 <!ENTITY connectionError "Памылка:">
-<!ENTITY errorTimeout "Памылка: часаспын злучэння.">
+<!ENTITY errorTimeout "Памылка: тайм-аўт злучэння.">
 <!ENTITY errorRefused "Памылка: злучэнне адхілена.">
 <!ENTITY errorUnexpected "Нечаканая памылка.">
 
