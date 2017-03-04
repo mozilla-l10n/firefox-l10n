@@ -131,7 +131,7 @@
 <!ENTITY detail.lastupdated.label             "Апошняе абнаўленне">
 <!ENTITY detail.creator.label                 "Распрацаўнік">
 <!ENTITY detail.homepage.label                "Хатняя старонка">
-<!ENTITY detail.numberOfDownloads.label       "Загрузкі">
+<!ENTITY detail.numberOfDownloads.label       "Сцягванні">
 
 <!ENTITY detail.contributions.description     "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
 

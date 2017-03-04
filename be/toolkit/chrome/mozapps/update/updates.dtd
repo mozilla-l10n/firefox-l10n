@@ -24,7 +24,7 @@
 <!ENTITY  evangelism.desc                 "Вам настойліва раіцца ўжыць гэтае абнаўленне &brandShortName; як мага хутчэй.">
 
 <!ENTITY  downloadPage.title              "Сцягванне &brandShortName;">
-<!ENTITY  downloading.intro               "Загрузка абнаўлення…">
+<!ENTITY  downloading.intro               "Сцягванне абнаўлення…">
 <!ENTITY  connecting.label                "Злучэнне з паслугачом абнаўленняў…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; не здолеў праверыць цэласнасць загружанага ўздымнага абнаўлення, таму ён загружае поўны пакет абнаўлення.">
 
@@ -34,7 +34,8 @@
 
 <!ENTITY  error.title                     "Няўдача абнаўлення">
 
-<!ENTITY  error.label                     "Здарыліся праблемы ў час праверкі, загрузкі або ўсталявання гэтага абнаўлення. &brandShortName; не можа абнавіцца з прычыны:">
+<!ENTITY  error.label                     "Здарыліся праблемы ў час праверкі, сцягвання або ўсталявання гэтага 
+                                           абнаўлення. &brandShortName; не можа абнавіцца з прычыны:">
                                            
 <!ENTITY  errorManual.label               "Вы можаце абнавіць &brandShortName; уручную. Дзеля гэтага наведайце гэтую спасылку і загрузіце апошнюю версію:">
                                            

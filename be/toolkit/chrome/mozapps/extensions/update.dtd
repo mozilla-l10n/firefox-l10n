@@ -24,7 +24,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "Д">
 
 <!ENTITY  installing.wizard.title         "Усталяванне сумяшчальных дадаткаў">
-<!ENTITY  installing.top.label            "Загрузка і ўсталяванне абнаўленняў вашых дадаткаў…">
+<!ENTITY  installing.top.label            "Сцягванне і ўсталяванне абнаўленняў вашых дадаткаў…">
 
 <!ENTITY  noupdates.wizard.title          "Не знойдзены сумяшчальныя дадаткі">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; не здольны знайсці абнаўленні вашых несумяшчальных дадаткаў.">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Праблемы ў час усталявання абнаўленняў">
 <!ENTITY  installerrors.intro.label       "&brandShortName; сутыкнуўся з праблемамі, калі абнаўляў вашы дадаткі.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Пстрыкніце Скончыць, каб працягнуць запуск &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Пстрыкніце Гатова, каб працягнуць запуск &brandShortName;.">
 <!ENTITY  enableChecking.label            "Дазволіць &brandShortName; правяраць, ці існуюць абнаўленні.">
