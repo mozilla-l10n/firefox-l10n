@@ -86,8 +86,8 @@
 <!ENTITY updateApplication.label          "&brandShortName;-opdateringer">
 <!ENTITY updateAuto1.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto1.accesskey            "A">
-<!ENTITY updateCheckChoose.label         "Søg efter opdateringer, men lad mig vælge, om de skal installeres">
-<!ENTITY updateCheckChoose.accesskey     "C">
+<!ENTITY updateCheckChoose.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheckChoose.accesskey     "S">
 <!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 
