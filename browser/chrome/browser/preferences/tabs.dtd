@@ -8,8 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Nova okna odpiraj v novih zavihkih">
 <!ENTITY newWindowsAsTabs.accesskey   "n">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Opozori ob zapiranju več zavihkov hkrati">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "z">
 
+<!ENTITY warnOnOpenManyTabs.label       "Opozori, ko lahko odpiranje veliko zavihkov hkrati upočasni &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "v">
 
+<!ENTITY switchLinksToNewTabs.label        "Ko odprete povezavo v novem zavihku, takoj preklopi nanj">
+<!ENTITY switchLinksToNewTabs.accesskey    "t">
 
 <!ENTITY showTabsInTaskbar.label          "Prikaži predoglede zavihkov v opravilni vrstici Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
