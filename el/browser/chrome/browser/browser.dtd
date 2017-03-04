@@ -364,9 +364,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις Συγχρονισμού">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα καρτελών από τις άλλες συσκευές σας.">
-<!ENTITY appMenuRemoteTabs.signin.label "Συνδεθείτε στο Συγχρονισμό">
+<!ENTITY appMenuRemoteTabs.signin.label "Είσοδος στο Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
