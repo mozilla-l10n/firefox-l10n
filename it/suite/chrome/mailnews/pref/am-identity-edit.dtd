@@ -7,3 +7,7 @@
 <!ENTITY settingsTab.label "Impostazioni">
 <!ENTITY copiesFoldersTab.label "Cartelle e copie">
 <!ENTITY addressingTab.label "Composizione ed indirizzi">
+<!ENTITY publicData.label "Dati pubblici">
+<!ENTITY privateData.label "Dati privati">
+<!ENTITY identityAlias.label "Etichetta identità:">
+<!ENTITY identityAlias.accesskey "E">
