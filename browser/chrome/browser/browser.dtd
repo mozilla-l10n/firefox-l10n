@@ -89,7 +89,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Закладкі на ўсе карткі…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "к">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Адкаціць закрыццё карткі">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Адмяніць закрыццё карткі">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "А">
 
 <!ENTITY pageSourceCmd.label "Зыходны код старонкі">
