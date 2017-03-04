@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Vselej uporabi tipke na tipkovnici za navigacijo po straneh">
 <!ENTITY useCursorNavigation.accesskey   "t">
+<!ENTITY searchOnStartTyping.label       "Začni iskati ob začetku tipkanja">
+<!ENTITY searchOnStartTyping.accesskey   "k">
+<!ENTITY blockAutoReload.label           "Opozori, ko se želijo spletne strani preusmeriti ali ponovno naložiti">
+<!ENTITY blockAutoReload.accesskey       "m">
 <!ENTITY useOnScreenKeyboard.label       "Prikaži tipkovnico na dotik, ko je potrebno">
 <!ENTITY useOnScreenKeyboard.accesskey   "o">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "g">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
+<!ENTITY checkUserSpelling.label         "Preverjajte črkovanje med vnašanjem">
+<!ENTITY checkUserSpelling.accesskey     "v">
 
 <!ENTITY dataChoicesTab.label            "Podatkovne možnosti">
 
@@ -52,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Vsebina in uporabniški podatki za delo brez povezave">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Podatki strani">
+<!ENTITY clearSiteData.label             "Počisti vse podatke">
+<!ENTITY clearSiteData.accesskey         "č">
+<!ENTITY siteDataSettings.label          "Nastavitve …">
+<!ENTITY siteDataSettings.accesskey      "v">
+<!ENTITY siteDataLearnMoreLink.label     "Več o tem">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Posodobitve">
 
+<!ENTITY updateApplication.label         "Posodobitve &brandShortName;a">
 <!ENTITY updateAuto1.label               "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.label         "Preverjaj posodobitve, vendar prepusti odločitev o nameščanju">
+<!ENTITY updateCheckChoose.accesskey     "r">
 <!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,9 +97,14 @@
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY autoUpdateOthers.label          "Samodejno posodabljaj">
 <!ENTITY enableSearchUpdate.label        "Iskalnike">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
+<!ENTITY offlineStorageNotify.label               "Sporoči, ko želi stran shraniti podatke za delo brez povezave">
+<!ENTITY offlineStorageNotify.accesskey           "t">
+<!ENTITY offlineStorageNotifyExceptions.label     "Izjeme …">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "I">
 
 <!ENTITY offlineAppsList2.label          "Naslednje strani lahko shranjujejo podatke za delo brez povezave:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Odstrani ">
 
 <!ENTITY certificateTab.label            "Digitalna potrdila">
+<!ENTITY certPersonal.label              "Zahteve">
+<!ENTITY certPersonal.description        "Ko strežnik zahteva vaše osebno digitalno potrdilo:">
+<!ENTITY selectCerts.auto                "ga izberi samodejno">
+<!ENTITY selectCerts.auto.accesskey      "s">
+<!ENTITY selectCerts.ask                 "vsakokrat vprašaj">
+<!ENTITY selectCerts.ask.accesskey       "k">
 <!ENTITY enableOCSP.label                "Uporabi strežnike OCSP za potrditev trenutne veljavnosti digitalnih potrdil">
 <!ENTITY enableOCSP.accesskey            "U">
 <!ENTITY viewCerts.label                 "Preglej digitalna potrdila">
