@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Orodja za vse dodatke">
 
+<!ENTITY getThemes.description                "Želite brskalnik prilagoditi svojemu okusu?">
+<!ENTITY getThemes.learnMore                  "Izbirajte med tisoči tem.">
+
 <!ENTITY cmd.back.tooltip                     "Pojdi eno stran nazaj">
 <!ENTITY cmd.forward.tooltip                  "Pojdi eno stran naprej">
 

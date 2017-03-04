@@ -91,6 +91,9 @@ Ping
   Sesutja niti
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Zajeti skladi">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalarji">
 
@@ -104,6 +107,9 @@ Ping
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogrami s ključi
 ">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Dogodki">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Enostavne meritve
