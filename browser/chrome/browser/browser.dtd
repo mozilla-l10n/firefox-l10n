@@ -276,7 +276,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Распрацаўнік Сеціва">
 <!ENTITY webDeveloperMenu.accesskey   "Р">
 
-<!ENTITY inspectContextMenu.label     "Даследаваць адзінку">
+<!ENTITY inspectContextMenu.label     "Даследаваць элемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
 
 <!ENTITY fileMenu.label         "Файл"> 
@@ -326,8 +326,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "П"> 
 <!ENTITY viewToolbarsMenu.label       "Панэлі прыладаў"> 
 <!ENTITY viewToolbarsMenu.accesskey     "л"> 
-<!ENTITY viewSidebarMenu.label "Палічка">
-<!ENTITY viewSidebarMenu.accesskey "П">
+<!ENTITY viewSidebarMenu.label "Бакавая панэль">
+<!ENTITY viewSidebarMenu.accesskey "п">
 <!ENTITY viewCustomizeToolbar.label       "Уладкаваць…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "л">
 
@@ -335,21 +335,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyMenu.accesskey "Г">
 <!ENTITY historyUndoMenu.label "Нядаўна закрытыя карткі">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "Нядаўна зачыненыя вокны">
-<!ENTITY historyRestoreLastSession.label "Аднавіць папярэднюю сесію">
+<!ENTITY historyUndoWindowMenu.label "Нядаўна закрытыя вокны">
+<!ENTITY historyRestoreLastSession.label "Аднавіць папярэдні сеанс">
 
 <!ENTITY showAllHistoryCmd2.label "Паказаць усю гісторыю">
 <!ENTITY showAllHistoryCmd.commandkey "г">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
-<!ENTITY appMenuCustomize.tooltip "Уладкаваць меню і прыладапаліцы">
+<!ENTITY appMenuCustomize.tooltip "Наставіць меню і стужкі прылад">
 <!ENTITY appMenuCustomizeExit.label "Скончыць уладкаванне">
 <!ENTITY appMenuCustomizeExit.tooltip "Завяршэнне ўладкавання">
 <!ENTITY appMenuHistory.label "Гісторыя">
 <!ENTITY appMenuHistory.showAll.label "Паказаць усю гісторыю">
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
-<!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэднюю сэсію">
-<!ENTITY appMenuHistory.viewSidebar.label "Пабачыць палічку гісторыі">
+<!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
+<!ENTITY appMenuHistory.viewSidebar.label "Паказаць панэль гісторыі">
 <!ENTITY appMenuHelp.tooltip "Адкрыць меню даведкі">
 
 <!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
@@ -369,11 +369,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 
-<!ENTITY customizeMenu.addToToolbar.label "Дадаць на прыладапаліцу">
+<!ENTITY customizeMenu.addToToolbar.label "Дадаць на стужку прылад">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
 <!ENTITY customizeMenu.addToPanel.label "Дадаць у меню">
 <!ENTITY customizeMenu.addToPanel.accesskey "м">
-<!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на прыладапаліцу">
+<!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на стужку прылад">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "е">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
