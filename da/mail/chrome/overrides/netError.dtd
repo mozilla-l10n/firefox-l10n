@@ -19,13 +19,14 @@
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Undersøg adressen for tastefejl, såsom
-    <strong>ww</strong>.eksempel.dk i stedet for
-    <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din
-   computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da
-  for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Kontrollér, om adressen indeholder tastefejl, fx 
+    <strong>ww</strong>.eksempel.dk i stedet for 
+    <strong>www</strong>.eksempel.dk</li> 
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, så
+    kontrollér din computers netværksforbindelse.</li> 
+  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, 
+    så kontrollér, om &brandShortName;  har tilladelse til at tilgå nettet
+    i firewallen eller proxyens indstillinger.</li>
 </ul>
 ">
 
@@ -104,7 +105,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
     fungerer.</li>
 </ul>
@@ -113,10 +114,11 @@
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
-  <li>Undersøg om din computer har en fungerende netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da
-  for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér om din computer har en fungerende netværksforbindelse.</li>
+  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, 
+    så kontrollér, om &brandShortName;  har tilladelse til at tilgå nettet
+    i firewallen eller proxyens indstillinger.</li>
 </ul>
 ">
 

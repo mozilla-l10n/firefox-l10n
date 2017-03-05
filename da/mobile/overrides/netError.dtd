@@ -20,10 +20,10 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
-<ul>
-  <li>Undersøg adressen for tastefejl, såsom
-    <strong>ww</strong>.eksempel.dk i stedet for
-    <strong>www</strong>.eksempel.dk</li>
+    <ul>
+    <li>Kontrollér, om adressen indeholder tastefejl, fx 
+    <strong>ww</strong>.eksempel.dk i stedet for 
+    <strong>www</strong>.eksempel.dk</li> 
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Søg</button>
