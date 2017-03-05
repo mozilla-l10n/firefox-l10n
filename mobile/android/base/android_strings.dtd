@@ -63,7 +63,7 @@
 <!ENTITY  crash_close_label "Жабу">
 <!ENTITY  crash_restart_label "&brandShortName; қайта іске қосу">
 
-<!ENTITY url_bar_default_text2 "Іздеу үшін сұранымды немесе адресті енгізіңіз">
+<!ENTITY url_bar_default_text2 "Іздеу немесе адрес">
 
 <!ENTITY bookmark "Бетбелгі">
 <!ENTITY bookmark_remove "Бетбелгіні өшіру">
@@ -285,7 +285,7 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Белсенділік ағыны">
-<!ENTITY pref_activity_stream_summary "&brandShortName; ішінен не табуға қалауларыңызды көрсете алатын визуалды тариз таспасы және қайта жасалған үй парағы.">
+<!ENTITY pref_activity_stream_summary "&brandShortName; ішінен не табуға қалауларыңызды көрсете алатын визуалды тарих таспасы және қайта жасалған үй парағы.">
 
 <!ENTITY tracking_protection_prompt_title "Енді бақылаудан қорғанысы бар">
 <!ENTITY tracking_protection_prompt_text "Бақылайтын элементтерді белсенді түрде блоктайды.">
@@ -501,7 +501,7 @@ size. -->
 <!ENTITY contextmenu_share "Бөлісу">
 <!ENTITY contextmenu_pasteandgo "Кірістіру және өту">
 <!ENTITY contextmenu_paste "Кірістіру">
-<!ENTITY contextmenu_copyurl "Адресін көшіру">
+<!ENTITY contextmenu_copyurl "Адресін көшіріп алу">
 <!ENTITY contextmenu_edit_bookmark "Түзету">
 <!ENTITY contextmenu_subscribe "Бетке жазылу">
 <!ENTITY contextmenu_site_settings "Сайт баптауларын түзету">
@@ -603,7 +603,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Сіздің соңғы ашылған веб сайттарыңыз осында болады.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Назарыңызға: &formatS1;Жаңа жекелік бет&formatS2; мүмкіндігін қолдану таризыңызды сақтамайды.">
+<!ENTITY home_most_recent_emptyhint2 "Назарыңызға: &formatS1;Жаңа жекелік бет&formatS2; мүмкіндігін қолдану тарихыңызды сақтамайды.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
