@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizePrefs2.title "Nastavení mazání historie">
-<!ENTITY sanitizeDialog2.title "Vymazání nedávné historie">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
      The column width should be set at half of the dialog width. -->
