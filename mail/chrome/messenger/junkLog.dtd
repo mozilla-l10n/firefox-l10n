@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY adaptiveJunkLog.title "Žurnál adaptivní nevyžádané pošty">
-<!ENTITY adaptiveJunkLogInfo.label "Povolit žurnál aktivit v adaptivní nevyžádané poštěy.">
+<!ENTITY adaptiveJunkLogInfo.label "Povolit žurnál aktivit v adaptivní nevyžádané pošty.">
 <!ENTITY clearLog.label "Smazat žurnál">
 <!ENTITY clearLog.accesskey "m">
 <!ENTITY closeLog.label "Zavřít">
