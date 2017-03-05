@@ -11,7 +11,7 @@
 followed by a dropdown of all the built-in search engines. -->
 
 
-<!ENTITY searchreset.selector.label "Бұл сіздің негізгі іздеу қызметін келесіге орнатады:">
+<!ENTITY searchreset.selector.label "Бұл сіздің негізгі іздеу жүйесін келесіге орнатады:">
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
@@ -26,5 +26,5 @@ their language. -->
 <!ENTITY searchreset.noChangeButton        "Өзгертпеу">
 <!ENTITY searchreset.noChangeButton.access "п">
 
-<!ENTITY searchreset.changeEngineButton        "Іздеу қызметін өзгерту">
+<!ENTITY searchreset.changeEngineButton        "Іздеу жүйесін өзгерту">
 <!ENTITY searchreset.changeEngineButton.access "е">

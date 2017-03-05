@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.accesskey "К">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "Іздеу үшін сұранымды немесе адресті енгізіңіз">
+<!ENTITY urlbar.placeholder2          "Іздеу немесе адрес">
 <!ENTITY urlbar.accesskey             "з">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "Кеңейту:">
@@ -462,7 +462,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "Жаңа бетте іздеу">
 <!ENTITY searchInNewTab.accesskey     "т">
-<!ENTITY searchSetAsDefault.label     "Негізгі іздеу қызметі ретінде орнату">
+<!ENTITY searchSetAsDefault.label     "Негізгі іздеу жүйесі ретінде орнату">
 <!ENTITY searchSetAsDefault.accesskey "г">
 
 <!ENTITY openLinkCmdInTab.label       "Сілтемені жаңа бетте ашу">
@@ -557,7 +557,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "В">
 <!ENTITY copyAudioURLCmd.label        "Аудионың сілтемесін көшіру">
 <!ENTITY copyAudioURLCmd.accesskey    "А">
-<!ENTITY copyEmailCmd.label           "Электронды пошта адресін көшіру">
+<!ENTITY copyEmailCmd.label           "Электронды пошта адресін көшіріп алу">
 <!ENTITY copyEmailCmd.accesskey       "п">
 <!ENTITY thisFrameMenu.label              "Осы фреймде">
 <!ENTITY thisFrameMenu.accesskey          "м">
