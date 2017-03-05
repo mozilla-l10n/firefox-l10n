@@ -7,14 +7,14 @@
 <!ENTITY certmgr.tab.mine                     "Вашы пасведчанні">
 <!ENTITY certmgr.tab.others2                  "Людзі">
 <!ENTITY certmgr.tab.websites3                "Серверы">
-<!ENTITY certmgr.tab.ca                       "Крыніцы пасведчанняў">
+<!ENTITY certmgr.tab.ca                       "Установы">
 <!ENTITY certmgr.tab.orphan2                  "Іншыя">
 
 <!ENTITY certmgr.mine                         "Вы маеце пасведчанні наступных установаў, якія вызначаюць вас:">
 <!ENTITY certmgr.others                       "Вы маеце пасведчанні, якія вызначаюць наступных асобаў:">
 <!ENTITY certmgr.websites2                    "Вы маеце пасведчанні, якія вызначаюць наступныя серверы:">
-<!ENTITY certmgr.cas                          "Вы маеце пасведчанні, якія вызначаюць наступныя крыніцы пасведчанняў:">
-<!ENTITY certmgr.orphans                      "Вы маеце пасведчанні, якія не пападаюць ні ў адну з іншых катэгорыяў:">
+<!ENTITY certmgr.cas                          "Вы маеце пасведчанні, якія вызначаюць наступныя сертыфікацыйныя ўстановы:">
+<!ENTITY certmgr.orphans                      "Вы маеце пасведчанні, якія не пападаюць ні ў адну з іншых катэгорый:">
 
 <!ENTITY certmgr.detail.general_tab.title     "Асноўныя">
 <!ENTITY certmgr.detail.general_tab.accesskey "А">
@@ -24,7 +24,7 @@
 <!ENTITY certmgr.pending.label                "Зараз правяраецца пасведчанне…">
 <!ENTITY certmgr.subjectinfo.label            "Выдадзена (каму):">
 <!ENTITY certmgr.issuerinfo.label             "Выдадзена (кім)">
-<!ENTITY certmgr.periodofvalidity.label       "Перыяд спраўнасці" >
+<!ENTITY certmgr.periodofvalidity.label       "Перыяд дзеяння" >
 <!ENTITY certmgr.fingerprints.label           "Адбіткі">
 <!ENTITY certmgr.certdetail.title             "Падрабязнасці пасведчання">
 <!ENTITY certmgr.certdetail.cn                "Агульная назва (CN)">
@@ -34,11 +34,11 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Адбітак SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Адбітак SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Рэдагаванне наладжванняў даверу да пасведчання КП">
-<!ENTITY certmgr.editcert.edittrust           "Рэдагаваць наладжванні даверу:">
+<!ENTITY certmgr.editcacert.title             "Рэдагаванне наладаў даверу да пасведчання СА">
+<!ENTITY certmgr.editcert.edittrust           "Рэдагаваць налады даверу:">
 <!ENTITY certmgr.editcert.trustssl            "Гэтае пасведчанне можа вызначаць пляцоўку сеціва.">
 <!ENTITY certmgr.editcert.trustemail          "Гэтае пасведчанне можа вызначаць карыстальнікаў пошты.">
-<!ENTITY certmgr.editcert.trustobjsign        "Гэтае пасведчанне можа вызначаць вырабнікоў праграмнага забеспячэння.">
+<!ENTITY certmgr.editcert.trustobjsign        "Гэтае пасведчанне можа ідэнтыфікаваць вытворцаў праграмнага забеспячэння.">
 
 <!ENTITY certmgr.deletecert.title             "Выдаленне пасведчання">
 
