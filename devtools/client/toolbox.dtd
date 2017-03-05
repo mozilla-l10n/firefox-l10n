@@ -74,19 +74,19 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableChrome.label5    "Įjungti naršyklės sąsajos bei priedų derinimo įrankines">
-<!ENTITY options.enableChrome.tooltip3  "Įjungę šia parinktį galėsite naudotis įvairiomis saityno kūrėjų priemonėmis naršyklėje (per Priemonės > Saityno kūrėjams > Naršyklės įrankinė) bei derinti priedus per priedų tvarkytuvę.">
+<!ENTITY options.enableChrome.tooltip3  "Įjungę šia parinktį galėsite naudotis įvairiomis saityno kūrėjų priemonėmis naršyklėje (per „Priemonės“ > „Saityno kūrėjams“ > „Naršyklės įrankinė“) bei derinti priedus per priedų tvarkytuvę.">
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Įgalinti nuotolinį derinimą">
-<!ENTITY options.enableRemote.tooltip2  "Pažymėję šią parinktį, galėsite užsiimti nutolusios „Firefox“ versijos (pavyzdžiui, „Firefox OS“) derinimu">
+<!ENTITY options.enableRemote.tooltip2  "Įjungę šią nuostatą, galėsite užsiimti nutolusios „Firefox“ versijos (pavyzdžiui, „Firefox OS“) derinimu">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "Įjungti scenarijų derinimą (programuojant)">
-<!ENTITY options.enableWorkers.tooltip  "Įjungdami šią nuostatą leisite saityno kūrėjų priemonėms derinti scenarijus">
+<!ENTITY options.enableWorkers.tooltip  "Įjungę šią nuostatą, leisite saityno kūrėjų priemonėms derinti scenarijus">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
@@ -178,10 +178,12 @@
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
 <!ENTITY options.screenshot.clipboard.label      "Įrašyti į iškarpinę">
-
+<!ENTITY options.screenshot.clipboard.tooltip    "Įrašo ekrano nuotrauką tiesiai į kompiuterio iškarpinę">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Sugroti fotoaparato užrakto garsą">
+<!ENTITY options.screenshot.audio.tooltip    "Įjungia fotoaparato garsą darant ekrano nuotrauką">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
