@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "г">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
-<!ENTITY appMenuCustomize.tooltip "Наставіць меню і стужкі прылад">
+<!ENTITY appMenuCustomize.tooltip "Наладзіць меню і панэлі прылад">
 <!ENTITY appMenuCustomizeExit.label "Скончыць уладкаванне">
 <!ENTITY appMenuCustomizeExit.tooltip "Завяршэнне ўладкавання">
 <!ENTITY appMenuHistory.label "Гісторыя">
@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Няма сінхранізаваных картак… пакуль!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Хочаце пабачыць свае карткі з іншых прылад?">
-<!ENTITY appMenuRemoteTabs.openprefs.label "Настройкі сінхранізацыі">
+<!ENTITY appMenuRemoteTabs.openprefs.label "Налады сінхранізацыі">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увайдзіце, каб пабачыць спіс картак з сваіх іншых прылад.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
@@ -457,8 +457,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Змяніць настройкі пошуку">
-<!ENTITY changeSearchSettings.tooltip "Змяніць настройкі пошуку">
+<!ENTITY changeSearchSettings.button  "Змяніць налады пошуку">
+<!ENTITY changeSearchSettings.tooltip "Змяніць налады пошуку">
 
 <!ENTITY searchInNewTab.label         "Шукаць у новай картцы">
 <!ENTITY searchInNewTab.accesskey     "к">

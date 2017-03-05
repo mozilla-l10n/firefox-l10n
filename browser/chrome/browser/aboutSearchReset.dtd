@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Аднавіць настаўленні пошуку">
+<!ENTITY searchreset.tabtitle       "Аднавіць налады пошуку">
 
-<!ENTITY searchreset.pageTitle      "Аднавіць вашы настаўленні пошуку?">
+<!ENTITY searchreset.pageTitle      "Аднавіць вашы налады пошуку?">
 
-<!ENTITY searchreset.pageInfo1      "Вашы настаўленні пошуку маглі састарэць. &brandShortName; можа дапамагчы вам аднавіць стандартныя пашуковыя настаўленні.">
+<!ENTITY searchreset.pageInfo1      "Вашы налады пошуку маглі састарэць. &brandShortName; можа дапамагчы вам аднавіць стандартныя пашуковыя налады.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
