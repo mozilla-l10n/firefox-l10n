@@ -86,6 +86,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">
 
-<!ENTITY aboutTelemetry.payloadChoiceHeader "  Apkrova">
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  Turinys">
 
-<!ENTITY aboutTelemetry.rawPayload "  Neapdorota apkrova">
+<!ENTITY aboutTelemetry.rawPayload "  Neapdorotas turinys">
