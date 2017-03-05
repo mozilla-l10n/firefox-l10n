@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "Абнавіць гэтую старонку">
 <!ENTITY stopCmd.label                "Спыніць">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Прыпыніць загрузку гэтай старонкі">
+<!ENTITY stopButton.tooltip           "Спыніць загрузку гэтай старонкі">
 <!ENTITY goEndCap.tooltip             "Пайсці па адрасу, які на паліцы месцазнаходжання">
 <!ENTITY printButton.label            "Друкаваць">
 <!ENTITY printButton.tooltip          "Друкаваць гэтую старонку">
@@ -245,7 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Закладкі">
 <!ENTITY bookmarksMenuButton.other.label "Іншыя закладкі">
-<!ENTITY viewBookmarksSidebar2.label        "Паказаць палічку закладак">
+<!ENTITY viewBookmarksSidebar2.label        "Паказаць панэль закладак">
 <!ENTITY viewBookmarksToolbar.label         "Паказаць прыладапаліцу закладак">
 
 <!ENTITY containersMenu.label "Кантэйнеры">
@@ -273,7 +273,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "Д">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Распрацаўнік Сеціва">
+<!ENTITY webDeveloperMenu.label       "Распрацоўшчык Сеціва">
 <!ENTITY webDeveloperMenu.accesskey   "Р">
 
 <!ENTITY inspectContextMenu.label     "Даследаваць элемент">
@@ -286,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Новае акно">
 <!ENTITY newNavigatorCmd.key        "Н">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
-<!ENTITY newPrivateWindow.label     "Новае акно адасаблення">
+<!ENTITY newPrivateWindow.label     "Новае прыватнае акно">
 <!ENTITY newPrivateWindow.accesskey "а">
 <!ENTITY newNonRemoteWindow.label   "Новае не-e10s акно">
 
@@ -543,9 +543,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "а">
 <!ENTITY emailAudioCmd.label          "Даслаць гук…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
-<!ENTITY playPluginCmd.label          "Задзейнічаць убудову">
+<!ENTITY playPluginCmd.label          "Задзейнічаць плагін">
 <!ENTITY playPluginCmd.accesskey      "З">
-<!ENTITY hidePluginCmd.label          "Схаваць убудову">
+<!ENTITY hidePluginCmd.label          "Схаваць плагін">
 <!ENTITY hidePluginCmd.accesskey      "х">
 <!ENTITY copyLinkCmd.label            "Капіяваць месцазнаходжанне спасылкі">
 <!ENTITY copyLinkCmd.accesskey        "с">
