@@ -44,27 +44,27 @@
 <!ENTITY  mediaSaveAs2.accesskey "х">
 <!ENTITY  mediaPreview          "Перадпрагляд медыя:">
 
-<!ENTITY  feedTab               "Жывільнікі">
-<!ENTITY  feedTab.accesskey     "Ж">
+<!ENTITY  feedTab               "Каналы">
+<!ENTITY  feedTab.accesskey     "К">
 <!ENTITY  feedSubscribe         "Падпісацца">
 <!ENTITY  feedSubscribe.accesskey "П">
 
 <!ENTITY  permTab               "Дазволы">
 <!ENTITY  permTab.accesskey     "Д">
-<!ENTITY  permUseDefault        "Ужываць змоўчныя">
+<!ENTITY  permUseDefault        "Ужываць прадвызначаныя">
 <!ENTITY  permAskAlways         "Заўсёды пытаць">
 <!ENTITY  permAllow             "Дазволіць">
-<!ENTITY  permAllowSession      "Дазволіць на час сэсіі">
+<!ENTITY  permAllowSession      "Дазволіць на час сеансу">
 <!ENTITY  permBlock             "Блакаваць">
 <!ENTITY  permissionsFor        "Дазволы для:">
-<!ENTITY  permPlugins           "Задзейнічаць убудовы">
+<!ENTITY  permPlugins           "Задзейнічаць плагіны">
 
 <!ENTITY  permClearStorage           "Ачысціць сховішча">
 <!ENTITY  permClearStorage.accesskey "ч">
 
 <!ENTITY  securityTab           "Бяспека">
 <!ENTITY  securityTab.accesskey "Б">
-<!ENTITY  securityView.certView "Пабачыць пасведчанне">
+<!ENTITY  securityView.certView "Паказаць сертыфікат">
 <!ENTITY  securityView.accesskey "П">
 <!ENTITY  securityView.unknown   "Невядомы">
 
@@ -74,7 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Пляцоўка сеціва:">
 <!ENTITY  securityView.identity.verifier "Пацверджана:">
 
-<!ENTITY  securityView.privacy.header                   "Адасабленне і бяспека">
+<!ENTITY  securityView.privacy.header                   "Прыватнасць і бяспека">
 <!ENTITY  securityView.privacy.history                  "Я наведваў гэтую пляцоўку Сеціва напярэдадні?">
 <!ENTITY  securityView.privacy.cookies                  "Захоўвае гэты вэб-сайт звесткі (кукі) на маім камп'ютары?">
 <!ENTITY  securityView.privacy.viewCookies              "Прагледзець кукі">
