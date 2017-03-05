@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Зачыніць карткі справа">
+<!ENTITY  closeTabsToTheEnd.label            "Закрыць карткі справа">
 <!ENTITY  closeTabsToTheEnd.accesskey        "с">
 <!ENTITY  closeOtherTabs.label               "Закрыць іншыя карткі">
 <!ENTITY  closeOtherTabs.accesskey           "і">
@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
 <!ENTITY  undoCloseTab.label                 "Адкаціць закрыццё карткі">
 <!ENTITY  undoCloseTab.accesskey             "А">
-<!ENTITY  closeTab.label                     "Зачыніць картку">
+<!ENTITY  closeTab.label                     "Закрыць картку">
 <!ENTITY  closeTab.accesskey                 "З">
 
 <!ENTITY  listAllTabs.label      "Пералічыць усе карткі">
@@ -81,9 +81,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Паліца меню">
 <!ENTITY menubarCmd.accesskey "П">
 <!ENTITY navbarCmd.label "Паліца з прыладамі навігацыі">
-<!ENTITY personalbarCmd.label "Паліца з прыладамі закладак">
+<!ENTITY personalbarCmd.label "Паліца закладак">
 <!ENTITY personalbarCmd.accesskey "з">
-<!ENTITY bookmarksToolbarItem.label "Адзінкі паліцы прыладаў закладак">
+<!ENTITY bookmarksToolbarItem.label "Элементы паліцы закладак">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Перачытаць усе карткі">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
-<!ENTITY fullScreenClose.tooltip "Зачыніць">
+<!ENTITY fullScreenClose.tooltip "Закрыць">
 <!ENTITY fullScreenAutohide.label "Схаваць паліцы начыння">
 <!ENTITY fullScreenAutohide.accesskey "х">
 <!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
@@ -201,7 +201,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.label                "Спыніць">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY stopButton.tooltip           "Спыніць загрузку гэтай старонкі">
-<!ENTITY goEndCap.tooltip             "Пайсці па адрасу, які на паліцы месцазнаходжання">
+<!ENTITY goEndCap.tooltip             "Пайсці па адрасе, які зараз у адрасным радку">
 <!ENTITY printButton.label            "Друкаваць">
 <!ENTITY printButton.tooltip          "Друкаваць гэтую старонку">
 
@@ -245,8 +245,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Закладкі">
 <!ENTITY bookmarksMenuButton.other.label "Іншыя закладкі">
-<!ENTITY viewBookmarksSidebar2.label        "Паказаць панэль закладак">
-<!ENTITY viewBookmarksToolbar.label         "Паказаць прыладапаліцу закладак">
+<!ENTITY viewBookmarksSidebar2.label        "Паказаць бакавую панэль закладак">
+<!ENTITY viewBookmarksToolbar.label         "Паказаць паліцу закладак">
 
 <!ENTITY containersMenu.label "Кантэйнеры">
 
@@ -516,7 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку на гэту рамку">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
-<!ENTITY emailPageCmd.label           "Даслаць спасылку…">
+<!ENTITY emailPageCmd.label           "Даслаць спасылку эл.поштай…">
 <!ENTITY emailPageCmd.accesskey       "с">
 <!ENTITY savePageCmd.label            "Захаваць старонку як…">
 <!ENTITY savePageCmd.accesskey        "я">
@@ -529,19 +529,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "Д">
 <!ENTITY saveLinkCmd.label            "Захаваць спасылку як…">
 <!ENTITY saveLinkCmd.accesskey        "с">
-<!ENTITY saveImageCmd.label           "Захаваць выяву як…">
+<!ENTITY saveImageCmd.label           "Захаваць відарыс як…">
 <!ENTITY saveImageCmd.accesskey       "я">
 <!ENTITY saveVideoCmd.label           "Захаваць відэа як…">
 <!ENTITY saveVideoCmd.accesskey       "в">
 <!ENTITY saveAudioCmd.label           "Захаваць гук як…">
 <!ENTITY saveAudioCmd.accesskey       "г">
-<!ENTITY emailImageCmd.label          "Даслаць выяву…">
+<!ENTITY emailImageCmd.label          "Даслаць відарыс эл.поштай…">
 <!ENTITY emailImageCmd.accesskey      "Д">
 <!ENTITY emailVideoCmd.label          "Даслаць відэа…">
 <!ENTITY emailVideoCmd.accesskey      "д">
 <!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
 <!ENTITY castVideoCmd.accesskey       "а">
-<!ENTITY emailAudioCmd.label          "Даслаць гук…">
+<!ENTITY emailAudioCmd.label          "Даслаць гук эл.поштай…">
 <!ENTITY emailAudioCmd.accesskey      "Д">
 <!ENTITY playPluginCmd.label          "Задзейнічаць плагін">
 <!ENTITY playPluginCmd.accesskey      "З">

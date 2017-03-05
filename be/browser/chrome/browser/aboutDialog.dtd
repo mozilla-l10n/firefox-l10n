@@ -99,7 +99,7 @@
 <!ENTITY update.downloading.start   "Сцягванне абнаўлення — ">
 <!ENTITY update.downloading.end     "">
 
-<!ENTITY update.applying            "Ужыванне абнаўлення…">
+<!ENTITY update.applying            "Прымяняецца абнаўленне…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
