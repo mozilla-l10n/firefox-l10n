@@ -35,14 +35,14 @@
 <!ENTITY  font.langGroup.thai                     "Thajština">
 <!ENTITY  font.langGroup.hebrew                   "Hebrejština">
 <!ENTITY  font.langGroup.arabic                   "Arabština">
-<!ENTITY  font.langGroup.devanagari               "Devanagari">
+<!ENTITY  font.langGroup.devanagari               "Dévanágarí">
 <!ENTITY  font.langGroup.tamil                    "Tamilština">
 <!ENTITY  font.langGroup.armenian                 "Arménština">
-<!ENTITY  font.langGroup.bengali                  "Bengálí">
+<!ENTITY  font.langGroup.bengali                  "Bengálština">
 <!ENTITY  font.langGroup.canadian                 "Kannadština">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopština">
 <!ENTITY  font.langGroup.georgian                 "Gruzínština">
-<!ENTITY  font.langGroup.gujarati                 "Gujarati">
+<!ENTITY  font.langGroup.gujarati                 "Gudžarátština">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khmerština">
 <!ENTITY  font.langGroup.malayalam                "Malajálamština">
