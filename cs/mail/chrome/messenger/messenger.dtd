@@ -32,7 +32,7 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Účet chatu…">
 <!ENTITY newIMAccountCmd.accesskey "c">
-<!ENTITY newFeedAccountCmd.label "Účet kanalů…">
+<!ENTITY newFeedAccountCmd.label "Účet kanálů…">
 <!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Kontakty chatu…">
 <!ENTITY newIMContactCmd.accesskey "n">
