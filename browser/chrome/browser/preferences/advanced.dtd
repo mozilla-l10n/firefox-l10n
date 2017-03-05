@@ -113,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Poista yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!ENTITY certificateTab.label            "Varmenteet">
+<!ENTITY certPersonal.label              "Pyynnöt">
+<!ENTITY certPersonal.description        "Sivuston pyytäessä varmennettani:">
+<!ENTITY selectCerts.auto                "Valitse sellainen automaattisesti">
+<!ENTITY selectCerts.auto.accesskey      "V">
+<!ENTITY selectCerts.ask                 "Kysy joka kerta">
+<!ENTITY selectCerts.ask.accesskey       "K">
 <!ENTITY enableOCSP.label                "Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Näytä varmenteet">
