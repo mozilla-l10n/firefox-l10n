@@ -12,12 +12,12 @@
 
 <!ENTITY homepage.label            "Хатняя старонка:">
 <!ENTITY homepage.accesskey        "Х">
-<!ENTITY useCurrentPage.label      "Ужыць дзейную старонку">
-<!ENTITY useCurrentPage.accesskey  "д">
+<!ENTITY useCurrentPage.label      "Ужыць цяперашнюю старонку">
+<!ENTITY useCurrentPage.accesskey  "с">
 <!ENTITY useMultiple.label         "Ужыць дзейныя старонкі">
 <!ENTITY chooseBookmark.label      "Ужыць закладку…">
 <!ENTITY chooseBookmark.accesskey  "з">
-<!ENTITY restoreDefault.label      "Аднавіць змоўчную">
+<!ENTITY restoreDefault.label      "Аднавіць прадвызначаную">
 <!ENTITY restoreDefault.accesskey  "А">
 
 <!ENTITY downloads.label     "Сцягванні">
