@@ -14,6 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "Consola de errores">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "Navegador">
 <!ENTITY taskComposer.tooltip "Composer">
