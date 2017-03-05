@@ -38,6 +38,6 @@
 <!ENTITY successful.close "Бұл терезені жабу.">
 <!ENTITY input.namePlaceholder "Атыңыз, немесе ник атыңыз">
 <!ENTITY input.search "Іздеу">
-<!ENTITY search_engine.title "Іздеу қызметін баптау">
+<!ENTITY search_engine.title "Іздеу жүйесін баптау">
 <!ENTITY search_engine.message "Эл. пошта ұсынушыңыз сонымен қатар интернетте іздеу мүмкіндігін ұсына алады.">
 <!ENTITY search_engine.button "Дайын">

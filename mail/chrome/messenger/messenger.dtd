@@ -873,7 +873,7 @@
 <!ENTITY copyLinkCmd.accesskey "С">
 
 
-<!ENTITY copyEmailCmd.label "Электронды пошта адресін көшіру">
+<!ENTITY copyEmailCmd.label "Электронды пошта адресін көшіріп алу">
 <!ENTITY copyEmailCmd.accesskey "п">
 <!ENTITY stopCmd.label "Тоқтату">
 <!ENTITY stopCmd.accesskey "Т">
