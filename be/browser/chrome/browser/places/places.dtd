@@ -77,7 +77,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "Р">
 
 <!ENTITY col.name.label          "Назва">
-<!ENTITY col.tags.label          "Меціны">
+<!ENTITY col.tags.label          "Тэгі">
 <!ENTITY col.url.label           "Месцазнаходжанне">
 <!ENTITY col.mostrecentvisit.label "Найбольш наведвальныя">
 <!ENTITY col.visitcount.label    "Колькасць наведванняў">
