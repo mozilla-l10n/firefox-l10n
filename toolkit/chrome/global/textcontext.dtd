@@ -26,10 +26,11 @@
 <!ENTITY spellDictionaries.accesskey "L">
 
 
-
-
-
-
-
-
-
+<!ENTITY fillLoginMenu.label          "புகுபதிகையை நிரப்பு">
+<!ENTITY fillLoginMenu.accesskey      "F">
+<!ENTITY fillPasswordMenu.label       "கடவுச்சொல்லை நிரப்புக">
+<!ENTITY fillPasswordMenu.accesskey   "F">
+<!ENTITY fillUsernameMenu.label       "பயனர்பெயரை நிரப்பு">
+<!ENTITY fillUsernameMenu.accesskey   "F">
+<!ENTITY noLoginSuggestions.label     "(புகுபதிகைப் பரிந்துரைகள் இல்லை)">
+<!ENTITY viewSavedLogins.label        "சேமிக்கப்பட்ட புகுபதிகைகளைப் பார்">

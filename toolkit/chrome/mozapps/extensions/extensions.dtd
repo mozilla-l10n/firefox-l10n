@@ -25,9 +25,10 @@
 <!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின் செல்">
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன் செல்">
 
-
-
-
+<!ENTITY showUnsignedExtensions.button.label  "சில நீட்சிகளைச் சரிபார்க்க இயலாது">
+<!ENTITY showAllExtensions.button.label       "எல்லா நீட்சிகளையும் காட்டு">
+<!ENTITY debugAddons.label                    "கூடுதல் இணைப்புளை வழுநீக்கு">
+<!ENTITY debugAddons.accesskey                "b">
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "பாதுகாப்பு முறைமையால் அனைத்து கூடுதல் இணைப்புகளும் செயல்நீக்கப்பட்டன.">
@@ -227,12 +228,14 @@
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 
+<!ENTITY disabledUnsigned.heading "சில கூடுதல் இணைப்புகள் முடக்கப்பட்டுள்ளன.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-
-
-
+<!ENTITY disabledUnsigned.description.start "&brandShortName; என்பதில் பயன்படுத்துவதற்காகப் பின்வரும் கூடுதல் இணைப்புகள் சரிபார்க்கப்படவில்லை. நீங்கள்">
+<!ENTITY disabledUnsigned.description.findAddonsLink "மாற்றுகளைக் கண்டுபிடிக்க முடியும்">
+<!ENTITY disabledUnsigned.description.end " அல்லது உருவாக்குநர்களை அவற்றைச் சரிபார்க்கக் கேளுங்கள்.">
+<!ENTITY disabledUnsigned.learnMore "உங்களை இணையத்தில் பாதுகாப்பாக வைத்திருக்கான எங்களின் முயற்சிகள் பற்றி மேலும் அறிக.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
