@@ -16,7 +16,7 @@
 
 <!-- LOCALIZATION NOTE (options.context.advancedSettings): This is the label for
   -  the heading of the advanced settings group in the options panel. -->
-<!ENTITY options.context.advancedSettings "Дадатковыя настаўленні">
+<!ENTITY options.context.advancedSettings "Дадатковыя налады">
 
 <!-- LOCALIZATION NOTE (options.context.inspector): This is the label for
   -  the heading of the Inspector group in the options panel. -->
@@ -207,7 +207,7 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
-<!ENTITY options.sourceeditor.label                     "Настаўленні рэдактара">
+<!ENTITY options.sourceeditor.label                     "Налады рэдактара">
 <!ENTITY options.sourceeditor.detectindentation.label   "Вызначаць водступы">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Вызначаць водступы па зыходнаму змесціву">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Аўта-закрыванне дужак">
