@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "A">
 <!ENTITY toolsMenu.tooltip                    "Työkaluja kaikille lisäosille">
 
+<!ENTITY getThemes.description                "Mietitkö, miten muokata selaimesta omanlaisesi?">
 <!ENTITY getThemes.learnMore                  "Valitse tuhansista teemoista.">
 
 <!ENTITY cmd.back.tooltip                     "Edellinen sivu">
