@@ -285,10 +285,10 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "活动流">
-<!ENTITY pref_activity_stream_summary "历史信息与首页的一种变革新体验，愿您用它可以更方便地在 &brandShortName; 中找到想要的信息。">
+<!ENTITY pref_activity_stream_summary "将您的上网足迹可视化并重新构想首页设计，愿您能更方便地在 &brandShortName; 中找到想要的信息。">
 
 <!ENTITY tracking_protection_prompt_title "现在有了跟踪保护功能">
-<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，让您不再需要担忧。">
+<!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，不再需要担心。">
 <!ENTITY tracking_protection_prompt_tip_text "在“隐私”设置中详细了解">
 <!ENTITY tracking_protection_prompt_action_button "明白了！">
 
@@ -626,7 +626,7 @@ size. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "不再隐藏选中的设备">
 
 <!ENTITY remote_tabs_panel_moved_title "我的标签页去哪了？">
-<!ENTITY remote_tabs_panel_moved_desc "我们已经从其他设备转移了您的标签页到您的首页上的一个面板，这让您可以轻松地在每次打开新标签页时访问它们。">
+<!ENTITY remote_tabs_panel_moved_desc "您其他设备上打开的标签页现在会在首页上的一个面板里显示，方便您在打开新标签页时查看。">
 <!ENTITY remote_tabs_panel_moved_link "带我去我的新面板吧。">
 
 <!ENTITY pin_site_dialog_hint "请输入搜索关键词">
