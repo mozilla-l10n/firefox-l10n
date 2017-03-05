@@ -34,8 +34,8 @@
 <!ENTITY customPrompt.title   "தனிப்பயன் அளவு மாற்றம்...">
 
 
-
-
+<!ENTITY simplifyPage.enabled.tooltip  "எளிதான வாசிப்பிற்கு அமைப்பை மாற்றவும்">
+<!ENTITY simplifyPage.disabled.tooltip "இப்பக்கதை தானாக எளிதாக்க முடியாது">
 
 <!ENTITY homearrow.tooltip    "முதல் பக்கம்">
 <!ENTITY endarrow.tooltip     "கடைசி பக்கம்">
