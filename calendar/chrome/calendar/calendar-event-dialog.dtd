@@ -269,7 +269,7 @@
 <!ENTITY event.repeat.daily.label                       "Denně">
 <!ENTITY event.repeat.weekly.label                      "Týdně">
 <!ENTITY event.repeat.every.weekday.label               "Každý pracovní den">
-<!ENTITY event.repeat.bi.weekly.label                   "Dvoutýdně">
+<!ENTITY event.repeat.bi.weekly.label                   "Ob týden">
 <!ENTITY event.repeat.monthly.label                     "Měsíčně">
 <!ENTITY event.repeat.yearly.label                      "Ročně">
 <!ENTITY event.repeat.custom.label                      "Vlastní…">
