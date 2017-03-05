@@ -9,4 +9,4 @@
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutServiceWorkers.warning_not_enabled       "Service Workers не ўключаны.">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Ні воднага Service Worker не зарэгістравана.">
+<!ENTITY aboutServiceWorkers.warning_no_serviceworkers "Ніводнага Service Worker не зарэгістравана.">

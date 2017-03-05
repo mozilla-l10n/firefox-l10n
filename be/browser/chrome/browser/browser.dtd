@@ -787,10 +787,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "П">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY social.addons.label "Кіраванне службамі…">
+<!ENTITY social.addons.label "Кіраваць сэрвісамі…">
 
 <!ENTITY social.directory.label "Каталог Актывацый">
-<!ENTITY social.directory.text "Вы можаце актываваць слюжбы Абмена з каталога.">
+<!ENTITY social.directory.text "Вы можаце актываваць сэрвісы сумеснага доступу з каталога.">
 <!ENTITY social.directory.button "Перанесці мяне туды!">
 <!ENTITY social.directory.introText "Націсніце на службу, каб дадаць яе ў &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Паказаць больш">
