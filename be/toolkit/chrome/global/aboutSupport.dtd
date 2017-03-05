@@ -83,7 +83,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Замкнёныя важныя настаўленні">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Замкнёныя важныя yалады">
 <!ENTITY aboutSupport.lockedPrefsName "Назва">
 <!ENTITY aboutSupport.lockedPrefsValue "Значэнне">
 
