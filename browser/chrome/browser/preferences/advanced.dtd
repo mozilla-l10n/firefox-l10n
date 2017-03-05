@@ -58,6 +58,11 @@
 <!ENTITY offlineStorage2.label           "Yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Sivustojen tallentamat tiedot">
+<!ENTITY clearSiteData.label             "Tyhjennä kaikki tiedot">
+<!ENTITY clearSiteData.accesskey         "k">
+<!ENTITY siteDataSettings.label          "Asetukset…">
+<!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Lue lisää">
 
 <!-- LOCALIZATION NOTE:
