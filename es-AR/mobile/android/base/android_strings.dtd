@@ -855,3 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Borrar del historial">
 
 <!ENTITY activity_stream_welcome_title "Bienvenido a tus destacados">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ahora crea elementos destacados que al visitar se hayan descubierto en la web así se pueden encontrar nuevamente grandes artículos, videos, marcadores y otras páginas.">
