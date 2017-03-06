@@ -21,14 +21,14 @@
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
 <ul>
-  <li>Zkontrolujte adresu na překlepy jako
+  <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
     <strong>ww</strong>.example.com místo
     <strong>www</strong>.example.com</li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Vyhledat</button>
     </div>
-  <li>Pokud nemůžete načíst ani ostatní stránky, zkontrolujte datové či Wi-Fi připojení svého zařízení.
+  <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte datové či Wi-Fi připojení svého zařízení.
     <button id='wifi'>Povolit Wi-Fi</button>
   </li>
 </ul>
