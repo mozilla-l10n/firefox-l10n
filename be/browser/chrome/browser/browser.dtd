@@ -666,14 +666,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Базавы стыль старонкі">
 <!ENTITY pageStylePersistentOnly.accesskey "Б">
 
-<!ENTITY pageReportIcon.tooltip            "Змяніць налады затрымання ўсплываючых вокнаў для гэтага вэб-сайта">
+<!ENTITY pageReportIcon.tooltip            "Змяніць налады затрымання выплыўных вокнаў для гэтага вэб-сайта">
 
 <!ENTITY allowPopups.accesskey "Д">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Праўка перавагаў затрымальніка вынырцаў…">
-<!ENTITY editPopupSettings.label "Змяніць налады блакавання ўсплываючых вокнаў…">
+<!ENTITY editPopupSettings.label "Змяніць налады блакавання выплыўных вокнаў…">
 <!ENTITY editPopupSettings.accesskey "П">
 <!ENTITY dontShowMessage.accesskey "Н">
 
