@@ -85,8 +85,8 @@
 <!ENTITY syncMy.label               "Sinkronizatu nire">
 <!ENTITY engine.bookmarks.label     "Laster-markak">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "Irekitako fitxak">
+<!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Pasahitzak">

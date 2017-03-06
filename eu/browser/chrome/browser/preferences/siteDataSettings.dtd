@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ezarpenak - Guneen datuak">
-
+<!ENTITY     settings.description          "Ondorengo webguneek datuak zure diskoan biltegiratzea eskatu dute. Datuak biltegiratzeko baimenduta dauden webguneak hemen zehatz ditzakezu. Guneen datuak behin-behinekoak dira lehenespenez eta automatikoki ezaba daitezke.">
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     usageCol.label                "Biltegiratzea">
