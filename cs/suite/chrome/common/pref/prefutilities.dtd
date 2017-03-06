@@ -37,4 +37,4 @@
 <!-- LOCALIZATION NOTE (FallbackCharset.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY FallbackCharset.vietnamese   "Vietnamská">
-<!ENTITY FallbackCharset.other        "Jiná (zahrnuje západoevopské)">
+<!ENTITY FallbackCharset.other        "Jiná (zahrnuje západoevropské)">
