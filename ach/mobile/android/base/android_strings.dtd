@@ -7,14 +7,14 @@
 <!ENTITY firstrun_urlbar_message "Wajoli i &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Nong jami oyoto ki yoo macek me tam ma kimiyo me yeny makonyo.">
 <!ENTITY firstrun_bookmarks_title "Gin mukato">
-
+<!ENTITY firstrun_bookmarks_message "Ma imaro tutwal, anyim ki i dyere">
 <!ENTITY firstrun_bookmarks_subtext "Nong adwogi ki i alamabuk ki gin mukato mamegi ka i yenyo.">
 <!ENTITY firstrun_data_title "Data">
 <!ENTITY firstrun_data_message "data manok, dwoko wel madwong">
 <!ENTITY firstrun_data_subtext2 "Nek cal woko me tic ki data manok i kakube weng ma ilimo.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "&brandShortName;, jwijwi i ka ngeti">
-
+<!ENTITY firstrun_sync_subtext "Rib dirica matino ni, mung me donyo, ki mapol kaweng ma itiyo kwede.">
 <!ENTITY firstrun_signin_message "Kube, caki">
 <!ENTITY firstrun_signin_button "Dony iye wek itim marom">
 <!ENTITY  onboard_start_button_browser "Cak yenyo">
