@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label "Pe atye ki nyonyo ne bota…">
 <!-- Configure Engines -->
 
-<!ENTITY sync.configure.engines.title.passwords2 "Dony iyie">
+<!ENTITY sync.configure.engines.title.passwords2 "Donyo iyie">
 <!ENTITY sync.configure.engines.title.history "Gin mukato">
 <!ENTITY sync.configure.engines.title.tabs "Dirica matino">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing "Dok cen i yeny">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Ki joli i &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Dony iyie me timo dirica matino, alamabuk, dony iye ki mapol ni marom.">
+<!ENTITY fxaccount_getting_started_description2 "Dony iyie wek i rib dirica matino, alama buk, donyo iyie ki mukene mamegi.">
 <!ENTITY fxaccount_getting_started_get_started "Caki">
 <!ENTITY fxaccount_getting_started_old_firefox "Itye ka tic ki &syncBrand.shortName.label; ma otii?">
 
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating "Gudi me donyo iyie akaunt ni manyen me Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Alamabuk">
 <!ENTITY fxaccount_status_history "Gin mukato">
-<!ENTITY fxaccount_status_passwords2 "Dony iyie">
+<!ENTITY fxaccount_status_passwords2 "Donyo iyie">
 <!ENTITY fxaccount_status_tabs "Yab dirica matino">
 <!ENTITY fxaccount_status_legal "Cik ye" >
 <!-- Localization note: when tapped, the following two strings link to
