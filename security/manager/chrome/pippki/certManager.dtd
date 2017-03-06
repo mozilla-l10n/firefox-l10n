@@ -36,7 +36,7 @@
 
 <!ENTITY certmgr.editcacert.title             "Рэдагаванне наладаў даверу да пасведчання СА">
 <!ENTITY certmgr.editcert.edittrust           "Рэдагаваць налады даверу:">
-<!ENTITY certmgr.editcert.trustssl            "Гэтае пасведчанне можа вызначаць пляцоўку сеціва.">
+<!ENTITY certmgr.editcert.trustssl            "Гэтае пасведчанне можа ідэнтыфікаваць сайт.">
 <!ENTITY certmgr.editcert.trustemail          "Гэтае пасведчанне можа вызначаць карыстальнікаў пошты.">
 <!ENTITY certmgr.editcert.trustobjsign        "Гэтае пасведчанне можа ідэнтыфікаваць вытворцаў праграмнага забеспячэння.">
 
@@ -81,7 +81,7 @@
 <!ENTITY exceptionMgr.title                   "Даданне выключэння бяспекі">
 <!ENTITY exceptionMgr.exceptionButton.label   "Пацвердзіць выключэнне бяспекі">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ц">
-<!ENTITY exceptionMgr.supplementalWarning     "Правамоцныя банкі, біржы і іншыя прылюдныя пляцоўкі ніколі не будуць прасіць вас рабіць гэта.">
+<!ENTITY exceptionMgr.supplementalWarning     "Правамоцныя банкі, біржы і іншыя прылюдныя сайты ніколі не будуць прасіць вас рабіць гэта.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
 <!ENTITY exceptionMgr.certlocation.url        "Месцазнаходжанне:">
 <!ENTITY exceptionMgr.certlocation.download   "Атрымаць пасведчанне">

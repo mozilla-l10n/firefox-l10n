@@ -18,7 +18,7 @@
 <!-- Downloading a cert -->
 <!ENTITY downloadCert.title "Сцягванне пасведчання">
 <!ENTITY downloadCert.message1 "Вас запыталі аб даверу новай Крыніцы Пасведчанняў (КП).">
-<!ENTITY downloadCert.trustSSL "Давяраць гэтай КП апазнаваць пляцоўкі сеціва.">
+<!ENTITY downloadCert.trustSSL "Давяраць гэтай КП апазнаваць вэб-сайты.">
 <!ENTITY downloadCert.trustEmail "Давяраць гэтай КП апазнаваць э-паштовых карыстальнікаў.">
 <!ENTITY downloadCert.trustObjSign "Давяраць гэтаму КП апазнаваць распрацоўцаў праграмнага забеспячэння.">
 <!ENTITY downloadCert.message3 "Перад тым, як даверыцца гэтай КП з нейкаю мэтаю, вы павінны даследаваць яе пасведчанне, яе палітыку і працэдуры (калі даступны).">
@@ -27,7 +27,7 @@
 
 <!-- Strings for the SSL client auth ask dialog -->
 <!ENTITY clientAuthAsk.title "Запыт вызначэння карыстальніка">
-<!ENTITY clientAuthAsk.message1 "Гэтае пляцоўка патрабуе, каб вы вызначылі сябе пасведчаннем:">
+<!ENTITY clientAuthAsk.message1 "Гэты сайт патрабуе, каб вы вызначылі сябе пасведчаннем:">
 <!ENTITY clientAuthAsk.message2 "Вылучыце пасведчанне, каб падаць як вызначэнне:">
 <!ENTITY clientAuthAsk.message3 "Падрабязнасці вылучанага пасведчання:">
 
