@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Harien esekitzeak">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Kapturatutako pilak">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Eskalarrak">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Legendadun histogramak">
 
+<!ENTITY aboutTelemetry.eventsSection "  Gertaerak">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Neurketa sinpleak">
 
