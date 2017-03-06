@@ -67,7 +67,7 @@
 <!ENTITY deleteListCmd.label                            "Изтриване на списък">
 <!ENTITY deleteListsCmd.label                           "Изтриване на списъци">
 <!ENTITY deleteItemsCmd.label                           "Изтриване на позиции">
-<!ENTITY selectAllCmd.label                             "Избор на всичко">
+<!ENTITY selectAllCmd.label                             "Избиране на всичко">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "И">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label          "Файл">
 <!ENTITY fileMenu.accesskey        "Ф">
@@ -28,7 +28,7 @@
 <!ENTITY pasteCmd.accesskey          "П">
 <!ENTITY deleteCmd.label          "Изтриване">
 <!ENTITY deleteCmd.accesskey        "т">
-<!ENTITY selectAllCmd.label          "Маркиране на всичкоl">
+<!ENTITY selectAllCmd.label          "Избиране на всичко">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "в">
 <!ENTITY preferencesCmd2.label "Настройки">
