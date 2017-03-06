@@ -7,8 +7,8 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     usageCol.label                "Stockage">
-<!ENTITY     search.label                  "Rechercher :">
-<!ENTITY     search.accesskey              "R">
+<!ENTITY     searchPlaceHolder             "Rechercher">
+<!ENTITY     searchPlaceHolder.accesskey   "R">
 <!ENTITY     removeSelected.label          "Supprimer les sites sélectionnés">
 <!ENTITY     removeSelected.accesskey      "S">
 <!ENTITY     save.label                    "Enregistrer les changements">
