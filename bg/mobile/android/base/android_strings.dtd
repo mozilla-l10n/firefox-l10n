@@ -359,7 +359,7 @@
 <!ENTITY pref_font_size_medium "Среден">
 <!ENTITY pref_font_size_large "Голям">
 <!ENTITY pref_font_size_xlarge "Много голям">
-<!ENTITY pref_font_size_set "Избиране">
+<!ENTITY pref_font_size_set "Задаване">
 <!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
 (or combination of characters) is used to decrease the preview font size; a larger version of the
 same character/combination is used to increase the preview font size. It should be a concise
