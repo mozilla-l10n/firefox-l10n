@@ -7,8 +7,8 @@
 <!ENTITY hostCol.label "Сайт">
 <!ENTITY statusCol.label "Статус">
 <!ENTITY usageCol.label "Хранилище">
-<!ENTITY search.label "Поиск:">
-<!ENTITY search.accesskey "и">
+<!ENTITY searchPlaceHolder "Поиск">
+<!ENTITY searchPlaceHolder.accesskey "и">
 <!ENTITY removeSelected.label "Удалить выбранное">
 <!ENTITY removeSelected.accesskey "а">
 <!ENTITY save.label "Сохранить изменения">
