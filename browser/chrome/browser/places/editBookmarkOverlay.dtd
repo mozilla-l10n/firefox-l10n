@@ -8,7 +8,7 @@
 <!ENTITY editBookmarkOverlay.location.accesskey              "М">
 <!ENTITY editBookmarkOverlay.feedLocation.label              "Месцазнаходжанне канала:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ж">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Месцазнаходжанне пляцоўкі:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Месцазнаходжанне сайта:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "п">
 <!ENTITY editBookmarkOverlay.folder.label                    "Папка:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Паказаць усе папкі закладак">

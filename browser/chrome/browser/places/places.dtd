@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Выбраць файл…">
 <!ENTITY cmd.restoreFromFile.accesskey  "В">
 
-<!ENTITY cmd.deleteDomainData.label     "Забыць гэтую пляцоўку">
+<!ENTITY cmd.deleteDomainData.label     "Забыць гэты сайт">
 <!ENTITY cmd.deleteDomainData.accesskey "З">
 
 <!ENTITY cmd.open.label                  "Адкрыць">
@@ -110,11 +110,11 @@
 <!ENTITY view.accesskey           "г">
 <!ENTITY byDate.label             "Па даце">
 <!ENTITY byDate.accesskey         "д">
-<!ENTITY bySite.label             "Па пляцоўцы">
+<!ENTITY bySite.label             "Па сайце">
 <!ENTITY bySite.accesskey         "п">
 <!ENTITY byMostVisited.label      "Па ліку наведванняў">
 <!ENTITY byMostVisited.accesskey  "л">
 <!ENTITY byLastVisited.label      "Па апошнім наведванні">
 <!ENTITY byLastVisited.accesskey  "а">
-<!ENTITY byDayAndSite.label       "Па даце і пляцоўцы">
+<!ENTITY byDayAndSite.label       "Па даце і сайце">
 <!ENTITY byDayAndSite.accesskey   "і">
