@@ -778,9 +778,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "Med ikome">
 
 <!ENTITY restrictable_feature_private_browsing "Yeny pa ma megi">
-
+<!ENTITY restrictable_feature_private_browsing_description "Ye jo ma i gang me yeny labongo gwoko ngec ikom kakube ki potbukke ma gi olimo.">
 <!ENTITY restrictable_feature_clear_history "Jwa gin mukato">
-
+<!ENTITY restrictable_feature_clear_history_description "Ye jo ma i gang me kwanyo ngec ikom kakube ki potbukke ma gi olimo.">
 <!ENTITY restrictable_feature_advanced_settings "Ter ma lamal">
 
 <!ENTITY restrictable_feature_camera_microphone "Lamak cal ki mikropon">
