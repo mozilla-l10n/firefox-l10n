@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Mobile">
+<!ENTITY  bookmarks_title "Marque-pages">
 <!ENTITY  history_title "Historique">
 
 <!ENTITY  switch_to_tab "Aller à l’onglet">
