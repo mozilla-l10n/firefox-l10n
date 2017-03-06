@@ -45,7 +45,7 @@
 <!ENTITY certmgr.certname                     "Име на сертификат">
 <!ENTITY certmgr.certserver                   "Сървър">
 <!ENTITY certmgr.override_lifetime            "Време на живот">
-<!ENTITY certmgr.tokenname                    "Сигурно устройство">
+<!ENTITY certmgr.tokenname                    "Устройство по безопасността">
 <!ENTITY certmgr.begins                       "Започва на">
 <!ENTITY certmgr.expires                      "Изтича на">
 <!ENTITY certmgr.email                        "Е-поща">
