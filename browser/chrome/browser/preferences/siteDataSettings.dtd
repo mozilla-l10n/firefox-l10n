@@ -7,8 +7,8 @@
 <!ENTITY hostCol.label "Sitio">
 <!ENTITY statusCol.label "Estado">
 <!ENTITY usageCol.label "Almacenamiento">
-<!ENTITY search.label "Buscar:">
-<!ENTITY search.accesskey "B">
+<!ENTITY searchPlaceHolder "Buscar">
+<!ENTITY searchPlaceHolder.accesskey "B">
 <!ENTITY removeSelected.label "Eliminar lo seleccionado">
 <!ENTITY removeSelected.accesskey "l">
 <!ENTITY save.label "Guardar cambios">
