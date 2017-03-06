@@ -36,7 +36,7 @@
 <!ENTITY event.attendees.notify.label                "Cuir in iúl don lucht freastail">
 <!ENTITY event.attendees.notify.accesskey            "r">
 <!ENTITY event.attendees.notifyundisclosed.label     "Cuireadh ar leith do gach rannpháirtí">
-<!ENTITY event.attendees.notifyundisclosed.accesskey "x">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "g">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "Leis an rogha seo, seolfar teachtaireacht ar leith chuig gach rannpháirtí. Ní chuirfear ainmneacha ná seoltaí ríomhphoist na rannpháirtithe eile sa teachtaireacht.">
 <!ENTITY event.attendees.disallowcounter.label       "Ná ceadaigh fritograí">
 <!ENTITY event.attendees.disallowcounter.accesskey   "a">
@@ -214,7 +214,7 @@
 <!ENTITY task.from.label                                  "Tús:" >
 <!ENTITY task.from.accesskey                              "T">
 <!ENTITY event.to.label                                   "Deireadh:" >
-<!ENTITY event.to.accesskey                               "u">
+<!ENTITY event.to.accesskey                               "D">
 <!ENTITY task.to.label                                    "Dáta Dlite:" >
 <!ENTITY task.to.accesskey                                "D">
 <!ENTITY task.status.label                                "Stádas:" >
@@ -222,7 +222,7 @@
 <!ENTITY event.repeat.label                               "Athdhéan:" >
 <!ENTITY event.repeat.accesskey                           "A">
 <!ENTITY event.until.label                                "Go dtí:">
-<!ENTITY event.until.accesskey                            "B">
+<!ENTITY event.until.accesskey                            "G">
 <!ENTITY event.reminder.label                             "Meabhrúchán:" >
 <!ENTITY event.reminder.accesskey                         "M">
 <!ENTITY event.description.label                          "Cur Síos:" >
