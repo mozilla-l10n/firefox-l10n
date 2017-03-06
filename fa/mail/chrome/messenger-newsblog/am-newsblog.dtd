@@ -21,4 +21,4 @@
 <!ENTITY feeds.accountName "وبلاگ‌ها و خوراک‌های خبری">
 <!ENTITY feeds.wizardShortName "خوراک‌ها">
 <!ENTITY feeds.wizardLongName "وبلاگ‌ها و خوراک‌های خبری">
-
+<!ENTITY feeds.wizardLongName.accesskey "F">
