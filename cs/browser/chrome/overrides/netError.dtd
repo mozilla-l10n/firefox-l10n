@@ -21,13 +21,13 @@
 <!ENTITY dnsNotFound.title "Server nenalezen">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je adresa napsána správně a neobsahuje chyby jako
+  <li>Zkontrolujte, že je adresa napsána správně a neobsahuje chyby jako
     <strong>ww</strong>.example.com místo
     <strong>www</strong>.example.com</li>
   <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
-    &brandShortName; přístup na internet.</li>
+  <li>Pokud je váš počítač chráněný firewallem nebo proxy serverem, zkontrolujte, že má
+    &brandShortName; povolený přístup k internetu.</li>
 </ul>
 ">
 
