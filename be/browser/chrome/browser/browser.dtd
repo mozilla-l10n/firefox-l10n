@@ -799,7 +799,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце сярод тысячаў дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Узнавіць прадвызначэнні">
-<!ENTITY customizeMode.toolbars "Паказаць / Схаваць прыладапаліцы">
+<!ENTITY customizeMode.toolbars "Паказаць / Схаваць паліцы прылад">
 <!ENTITY customizeMode.titlebar "Паліца загалоўка">
 <!ENTITY customizeMode.lwthemes "Тэмы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мае тэмы">
