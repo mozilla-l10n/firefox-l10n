@@ -53,12 +53,16 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Націсніце &quot;Паспрабаваць зноў&quot;, каб перключыцца ў сеткавы рэжым і абнавіць старонку.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэтую праблему.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Небяспечны тып файла">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Паведамце, калі ласка, уласнікам вэб-сайта пра гэтую праблему.</li>
+  <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэтую праблему.</li>
 </ul>
 ">
 
