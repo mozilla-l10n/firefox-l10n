@@ -20,7 +20,7 @@
 <!ENTITY whitelistHeader.label "Neoznačovat zprávy jako nevyžádané, pokud je odesílatel mezi: ">
 <!ENTITY whitelistHeader.accesskey "N">
 
-<!ENTITY ispHeadersWarning.label "Je-li povoleno, bude &brandShortName; automaticky považovat zprávy označené tímto externím klasifikátorem jako nevyžadané.">
+<!ENTITY ispHeadersWarning.label "Je-li povoleno, bude &brandShortName; automaticky považovat zprávy označené tímto externím klasifikátorem jako nevyžádané.">
 <!ENTITY ispHeaders.label "Důvěřovat příznaku nevyžádané pošty od: ">
 <!ENTITY ispHeaders.accesskey "D">
 
