@@ -64,7 +64,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Отваряне на адрес…">
-<!ENTITY openFileCmd.label "Отваряне на файл…">
+<!ENTITY openFileCmd.label "Отваряне…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Настройки на отпечатване…">
