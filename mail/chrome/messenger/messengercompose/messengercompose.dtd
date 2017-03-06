@@ -85,7 +85,7 @@
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Преименуване…">
 <!ENTITY renameAttachmentCmd.accesskey "П">
-<!ENTITY selectAllCmd.label "Избор на всичко">
+<!ENTITY selectAllCmd.label "Избиране на всичко">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "И">
 <!ENTITY findBarCmd.label "Търсене…">
@@ -284,7 +284,7 @@
 <!ENTITY removeAttachment.accesskey "х">
 <!ENTITY renameAttachment.label "Преименуване…">
 <!ENTITY renameAttachment.accesskey "П">
-<!ENTITY selectAll.label "Избор на всичко">
+<!ENTITY selectAll.label "Избиране на всичко">
 <!ENTITY selectAll.accesskey "И">
 <!ENTITY attachFile.label "Прилагане на файл(ове)…">
 <!ENTITY attachFile.accesskey "ф">
