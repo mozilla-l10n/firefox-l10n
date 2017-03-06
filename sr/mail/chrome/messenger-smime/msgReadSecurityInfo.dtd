@@ -8,7 +8,7 @@
 <!ENTITY signatureCert.label "Погледај сертификат потписа">
 <!ENTITY encryptionCert.label "Погледај сертификат шифровања">
 
-<!ENTITY signer.name "Потписао/ла:">
+<!ENTITY signer.name "У потпису:">
 <!ENTITY recipient.name "Шифровано за:">
 <!ENTITY email.address "Мејл адреса:">
 <!ENTITY issuer.name "Сертификат издат од:">
