@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemCache.accesskey               "k">
 <!ENTITY itemOfflineApps.label             "Tic me kakube ma pe iyamo">
 <!ENTITY itemOfflineApps.accesskey         "T">
-<!ENTITY itemActiveLogins.label            "Dony iye ma tye katic">
+<!ENTITY itemActiveLogins.label            "Donyo iyie ma tye katic">
 <!ENTITY itemActiveLogins.accesskey        "D">
 <!ENTITY itemSitePreferences.label         "Ma imaro pi kakube">
 <!ENTITY itemSitePreferences.accesskey     "k">
