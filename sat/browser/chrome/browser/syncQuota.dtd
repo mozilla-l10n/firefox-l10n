@@ -1,8 +1,0 @@
-<!-- This Source Code Form is subject to the terms of the Mozilla Public
-   - License, v. 2.0. If a copy of the MPL was not distributed with this
-   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-<!ENTITY quota.dialogTitle.label    "सार्बार कोटा">
-<!ENTITY quota.retrievingInfo.label "कोटा ला़य सोदोर ञाम रुवा़ड़ेत् आ …">
-<!ENTITY quota.typeColumn.label     "लेका">
-<!ENTITY quota.sizeColumn.label     "माराङ तेत्">
