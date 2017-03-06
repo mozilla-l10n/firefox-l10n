@@ -9,5 +9,5 @@
 <!ENTITY checkbox.label   "отметка">
 <!ENTITY copyCmd.label    "Копиране">
 <!ENTITY copyCmd.accesskey "К">
-<!ENTITY selectAllCmd.label "Копиране на всичко">
+<!ENTITY selectAllCmd.label "Избиране на всичко">
 <!ENTITY selectAllCmd.accesskey "в">
