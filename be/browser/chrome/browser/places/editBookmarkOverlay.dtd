@@ -6,7 +6,7 @@
 <!ENTITY editBookmarkOverlay.name.accesskey                  "Н">
 <!ENTITY editBookmarkOverlay.location.label                  "Месцазнаходжанне:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "М">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Месцазнаходжанне жывільніка:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Месцазнаходжанне канала:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ж">
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Месцазнаходжанне пляцоўкі:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "п">
