@@ -15,7 +15,7 @@
 
 <!ENTITY noTranslationForSites.label      "Преводи няма да бъдат предлагани за следните страници:">
 <!ENTITY treehead.siteName.label          "Страници">
-<!ENTITY removeSite.label                 "Премахване на страници">
+<!ENTITY removeSite.label                 "Премахване на сайт">
 <!ENTITY removeSite.accesskey             "с">
 <!ENTITY removeAllSites.label             "Премахване на всички сайтове">
 <!ENTITY removeAllSites.accesskey         "р">
