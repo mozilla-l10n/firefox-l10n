@@ -49,6 +49,8 @@
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Zarejestrowane wątki usługowe">
 <!ENTITY aboutSupport.appBasicsProfiles "Profile">
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Okna wieloprocesowe">
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Klucz Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Klucz usługi lokalizacji Mozilli">
 <!ENTITY aboutSupport.appBasicsSafeMode "Tryb awaryjny">
 
 <!ENTITY aboutSupport.showDir.label "Otwórz katalog">
