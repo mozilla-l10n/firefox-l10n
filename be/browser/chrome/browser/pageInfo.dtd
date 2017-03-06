@@ -69,17 +69,17 @@
 <!ENTITY  securityView.unknown   "Невядомы">
 
 
-<!ENTITY  securityView.identity.header   "Адмета пляцоўкі Сеціва">
+<!ENTITY  securityView.identity.header   "Сапраўднасць вэб-сайта">
 <!ENTITY  securityView.identity.owner    "Уладальнік:">
-<!ENTITY  securityView.identity.domain   "Пляцоўка сеціва:">
+<!ENTITY  securityView.identity.domain   "Веб-сайт:">
 <!ENTITY  securityView.identity.verifier "Пацверджана:">
 
 <!ENTITY  securityView.privacy.header                   "Прыватнасць і бяспека">
-<!ENTITY  securityView.privacy.history                  "Я наведваў гэтую пляцоўку Сеціва напярэдадні?">
+<!ENTITY  securityView.privacy.history                  "Я наведваў гэты вэб-сайт напярэдадні?">
 <!ENTITY  securityView.privacy.cookies                  "Захоўвае гэты вэб-сайт звесткі (кукі) на маім камп'ютары?">
 <!ENTITY  securityView.privacy.viewCookies              "Прагледзець кукі">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "б">
-<!ENTITY  securityView.privacy.passwords                "Захаваў я які-небудзь пароль для гэтай пляцоўкі сеціва?">
+<!ENTITY  securityView.privacy.passwords                "Захаваў я які-небудзь пароль для гэтага вэб-сайта?">
 <!ENTITY  securityView.privacy.viewPasswords            "Прагледзець захаваныя паролі">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "п">
 
