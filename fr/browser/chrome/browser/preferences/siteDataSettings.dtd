@@ -7,5 +7,14 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "État">
 <!ENTITY     usageCol.label                "Stockage">
-<!ENTITY     search.label                  "Rechercher :">
-<!ENTITY     search.accesskey              "R">
+<!ENTITY     searchPlaceHolder             "Rechercher">
+<!ENTITY     searchPlaceHolder.accesskey   "R">
+<!ENTITY     removeSelected.label          "Supprimer les sites sélectionnés">
+<!ENTITY     removeSelected.accesskey      "S">
+<!ENTITY     save.label                    "Enregistrer les changements">
+<!ENTITY     save.accesskey                "E">
+<!ENTITY     cancel.label                  "Annuler">
+<!ENTITY     cancel.accesskey              "A">
+<!ENTITY     removingDialog.title          "Supprimer les données du site">
+<!ENTITY     removingDialog.description    "Supprimer les données du site supprimera également les cookies. Cette action pourrait vous déconnecter des sites web et supprimer le contenu web hors connexion. Voulez-vous vraiment effectuer ces changements ?">
+<!ENTITY     siteTree.label                "Les cookies des sites web suivants seront supprimés :">

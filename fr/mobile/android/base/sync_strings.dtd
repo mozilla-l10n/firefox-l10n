@@ -35,7 +35,7 @@
 <!ENTITY bookmarks.folder.toolbar.label 'Barre personnelle'>
 <!ENTITY bookmarks.folder.other.label 'Autres marque-pages'>
 <!ENTITY bookmarks.folder.desktop.label 'Marque-pages ordinateur'>
-<!ENTITY bookmarks.folder.mobile.label 'Marque-pages mobile'>
+<!ENTITY bookmarks.folder.mobile.label 'Marque-pages de l’appareil mobile'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label 'Épinglés'>
 
@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more 'Plus&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Déconnecter…'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Supprimer le compte Firefox ?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ne se synchronisera plus avec votre compte, mais ne supprimera aucune donnée de navigation sur cet appareil.'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Se déconnecter de Sync ?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Vos données de navigation seront conservées sur cet appareil, mais elles ne seront plus synchronisées avec votre compte.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Compte Firefox &formatS; supprimé.'>
+<!ENTITY fxaccount_remove_account_toast2 'Compte Firefox &formatS; déconnecté.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Déconnecter'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Activer le mode débogage'>
 
