@@ -16,7 +16,7 @@
 <!ENTITY landscape.label      "Альбомная">
 <!ENTITY landscape.accesskey  "А">
 <!ENTITY close.label          "Закрыць">
-<!ENTITY close.accesskey      "ч">
+<!ENTITY close.accesskey      "З">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -33,7 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Сціснуць да шырыні">
 <!ENTITY customPrompt.title   "Выбарачнае павялічэнне…">
 <!ENTITY simplifyPage.label   "Спрасціць старонку">
-<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.accesskey "п">
 <!ENTITY simplifyPage.enabled.tooltip  "Змяніць макет для зручнасці чытання">
 <!ENTITY simplifyPage.disabled.tooltip "Гэтую старонку нельга аўтаматычна спрасціць">
 
