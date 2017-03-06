@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Afficher tous les marque-pages">
 <!ENTITY recentBookmarks.label "Marqués récemment">
 <!ENTITY otherBookmarksCmd.label "Autres marque-pages">
+<!ENTITY mobileBookmarksCmd.label "Marque-pages des appareils mobiles">
 <!ENTITY bookmarksToolbarChevron.tooltip "Afficher plus de marque-pages">
 <!ENTITY showRecentlyBookmarked.label     "Afficher les marque-pages récents">
 <!ENTITY showRecentlyBookmarked.accesskey "f">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marque-pages">
 <!ENTITY bookmarksMenuButton.other.label "Autres marque-pages">
+<!ENTITY bookmarksMenuButton.mobile.label "Marque-pages des appareils mobiles">
 <!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Aucun onglet ouvert">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Afficher plus d’onglets">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Afficher plus d’onglets de cet appareil">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Afficher tous les onglets">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Afficher tous les onglets de cet appareil">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activez la synchronisation des onglets pour afficher la liste des onglets de vos autres appareils.">

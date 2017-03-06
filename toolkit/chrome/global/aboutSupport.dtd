@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenêtres multi-processus">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clé Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clé du service de localisation de Mozilla">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode sans échec">
 
 <!ENTITY aboutSupport.showDir.label "Ouvrir le dossier correspondant">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copier les informations brutes dans le presse-papiers">
 
 <!ENTITY aboutSupport.sandboxTitle "Bac à sable">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Appels système rejetés">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Il y a quelques secondes">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Type de processus">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "Essayez en mode sans échec">
 <!ENTITY aboutSupport.restartInSafeMode.label "Redémarrer avec les modules désactivés…">

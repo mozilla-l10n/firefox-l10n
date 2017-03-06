@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Configurer &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; permet d’accéder à votre historique, vos marque-pages, vos mots de passe et onglets ouverts depuis différents ordinateurs et appareils.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Mettre à jour">
-<!ENTITY resetPass.label              "Réinitialiser">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Gestion du compte">
-<!ENTITY manageAccount.accesskey      "c">
-<!ENTITY changePassword2.label        "Modifier le mot de passe…">
-<!ENTITY myRecoveryKey.label          "Ma clé de récupération">
-<!ENTITY resetSync2.label             "Réinitialiser la synchronisation…">
-
-<!ENTITY pairDevice.label             "Associer un appareil">
-
-<!ENTITY syncMy.label               "Synchroniser">
 <!ENTITY engine.bookmarks.label     "Marque-pages">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "Onglets ouverts">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "u">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Nom de l’appareil :">
 <!ENTITY fxaSyncDeviceName.label       "Nom de l’appareil">
 <!ENTITY changeSyncDeviceName.label "Changer le nom de l’appareil…">
 <!ENTITY changeSyncDeviceName.accesskey "c">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Enregistrer">
 <!ENTITY saveChangeSyncDeviceName.accesskey "E">
-<!ENTITY unlinkDevice.label           "Retirer cet appareil">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Conditions d’utilisation">
-<!ENTITY prefs.ppLink.label         "Politique de confidentialité">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Politique de confidentialité">
-<!ENTITY determiningAcctStatus.label     "Vérification de l’état de votre compte…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oublier cette adresse électronique">
 <!ENTITY forget.accesskey            "b">
-
-<!ENTITY welcome.description "Accédez à vos onglets, marque-pages, mots de passe et bien plus, quel que soit l’appareil sur lequel vous utilisez &brandShortName;.">
-<!ENTITY welcome.signIn.label "Se connecter">
-<!ENTITY welcome.createAccount.label "Créer un compte">
-
-<!ENTITY welcome.useOldSync.label "Vous utilisez une ancienne version de Sync ?">
 
 <!ENTITY signedOut.caption            "Emportez votre Web partout avec vous">
 <!ENTITY signedOut.description        "Synchronisez marque-pages, historique, onglets, mots de passe, modules complémentaires et préférences entre tous vos appareils.">
