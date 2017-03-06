@@ -8,7 +8,8 @@
 <!ENTITY aboutSupport.pageSubtitle "
   Гэта старонка змяшчае тэхнічныя звесткі, якія могуць быць карыснымі, калі
   спрабуеце вырашыць праблему. Калі вы шукаеце адказы на агульныя пытанні
-  пра &brandShortName;, наведайце нашу <a id='supportLink'>пляцоўку падтрымкі</a>.">
+  пра &brandShortName;, наведайце наш <a id='supportLink'>сайт падтрымкі</a>.
+">
 
 <!ENTITY aboutSupport.crashes.title "Cправаздачы пра крахі">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
