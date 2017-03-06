@@ -108,7 +108,7 @@
 <!ENTITY  event.menu.edit.copy.accesskey                  "К">
 <!ENTITY  event.menu.edit.paste.label                     "Поставяне">
 <!ENTITY  event.menu.edit.paste.accesskey                 "в">
-<!ENTITY  event.menu.edit.select.all.label                "Маркиране на всичко">
+<!ENTITY  event.menu.edit.select.all.label                "Избиране на всичко">
 <!ENTITY  event.menu.edit.select.all.accesskey            "М">
 
 <!ENTITY  event.menu.view.label                           "Изглед">
