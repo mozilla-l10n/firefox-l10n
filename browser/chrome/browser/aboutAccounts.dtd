@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Pierakstieties, lai sinhronizētu cilnes, grāmatzīmes, paroles un citas lietas.">
 <!ENTITY aboutAccountsConfig.startButton.label "Ar ko sākt">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Izmantojat vecāku sinhronizēšanas versiju?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync iestatījumi">
 <!ENTITY aboutAccounts.noConnection.title "Nav savienojuma">
 <!ENTITY aboutAccounts.noConnection.description "Jums ir jābūt savienotām ar Internetu lai pierakstītos.">
