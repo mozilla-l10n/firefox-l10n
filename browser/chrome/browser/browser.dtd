@@ -122,7 +122,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenMinimize.tooltip "Мінімізаваць">
 <!ENTITY fullScreenRestore.tooltip "Аднавіць">
 <!ENTITY fullScreenClose.tooltip "Закрыць">
-<!ENTITY fullScreenAutohide.label "Схаваць стужкі прылад">
+<!ENTITY fullScreenAutohide.label "Схаваць паліцы прылад">
 <!ENTITY fullScreenAutohide.accesskey "х">
 <!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
 <!ENTITY fullScreenExit.accesskey "В">
@@ -342,7 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "г">
 
 <!ENTITY appMenuCustomize.label "Уладкаваць">
-<!ENTITY appMenuCustomize.tooltip "Наладзіць меню і панэлі прылад">
+<!ENTITY appMenuCustomize.tooltip "Наладзіць меню і паліцы прылад">
 <!ENTITY appMenuCustomizeExit.label "Скончыць уладкаванне">
 <!ENTITY appMenuCustomizeExit.tooltip "Завяршэнне ўладкавання">
 <!ENTITY appMenuHistory.label "Гісторыя">
@@ -356,6 +356,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма адкрытых картак">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Уключыце сінхранізацыю картак, каб пабачыць спіс картак з вашых іншых прылад.">
@@ -369,11 +373,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.signin.label "Увайсці ў Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Паказаць бакавую панэль сінхранізаваных картак">
 
-<!ENTITY customizeMenu.addToToolbar.label "Дадаць на стужку прылад">
+<!ENTITY customizeMenu.addToToolbar.label "Дадаць на паліцу прылад">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
 <!ENTITY customizeMenu.addToPanel.label "Дадаць у меню">
 <!ENTITY customizeMenu.addToPanel.accesskey "м">
-<!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на стужку прылад">
+<!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на паліцу прылад">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "е">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
@@ -382,7 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Перамясціць у меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "р">
-<!ENTITY customizeMenu.removeFromToolbar.label "Выдаліць з стужкі прылад">
+<!ENTITY customizeMenu.removeFromToolbar.label "Выдаліць з паліцы прылад">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "В">
 <!ENTITY customizeMenu.removeFromMenu.label "Выдаліць з меню">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "В">
@@ -640,7 +644,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Павелічэнне">
 <!ENTITY fullZoom.accesskey             "П">
 
-<!ENTITY sidebarCloseButton.tooltip     "Закрыць панэль">
+<!ENTITY sidebarCloseButton.tooltip     "Закрыць бакавую панэль">
 
 <!ENTITY quitApplicationCmdWin2.label       "Выйсці">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ы">
@@ -672,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Праўка перавагаў затрымальніка вынырцаў…">
+<!ENTITY editPopupSettingsUnix.label "Праўка налад затрымальніка выплыўных вокнаў…">
 <!ENTITY editPopupSettings.label "Змяніць налады блакавання выплыўных вокнаў…">
 <!ENTITY editPopupSettings.accesskey "П">
 <!ENTITY dontShowMessage.accesskey "Н">
@@ -800,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце сярод тысячаў дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Узнавіць прадвызначэнні">
 <!ENTITY customizeMode.toolbars "Паказаць / Схаваць паліцы прылад">
-<!ENTITY customizeMode.titlebar "Паліца загалоўка">
+<!ENTITY customizeMode.titlebar "Панэль загалоўка">
 <!ENTITY customizeMode.lwthemes "Тэмы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мае тэмы">
 <!ENTITY customizeMode.lwthemes.recommended "Рэкамендаваныя">

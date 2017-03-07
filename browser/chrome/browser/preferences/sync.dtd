@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Уладкаваць &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "У">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; дазваляе вам мець доступ да вашых гісторыі, закладак, пароляў і адкрытых уставак на ўсіх вашых збудовах.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Абнавіць">
-<!ENTITY resetPass.label              "Скінуць">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Кіраваць рахункам">
-<!ENTITY manageAccount.accesskey      "р">
-<!ENTITY changePassword2.label        "Змяніць пароль…">
-<!ENTITY myRecoveryKey.label          "Мой адноўны ключ">
-<!ENTITY resetSync2.label             "Узнавіць сінхранізацыю…">
-
-<!ENTITY pairDevice.label             "Спараваць прыладу">
-
-<!ENTITY syncMy.label               "Сінхранізаваць мае">
 <!ENTITY engine.bookmarks.label     "Закладкі">
 <!ENTITY engine.bookmarks.accesskey "З">
 <!ENTITY engine.tabs.label2         "Адкрытыя карткі">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "Д">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Назва збудовы:">
 <!ENTITY fxaSyncDeviceName.label       "Назва прылады">
 <!ENTITY changeSyncDeviceName.label "Змяніць назву прылады…">
 <!ENTITY changeSyncDeviceName.accesskey "р">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ь">
 <!ENTITY saveChangeSyncDeviceName.label "Захаваць">
 <!ENTITY saveChangeSyncDeviceName.accesskey "і">
-<!ENTITY unlinkDevice.label           "Разлінкаваць гэту прыладу">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умовы абслугоўвання">
-<!ENTITY prefs.ppLink.label         "Палітыка адасаблення">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Папярэджанне адасаблення">
-<!ENTITY determiningAcctStatus.label     "Вызначэнне статуса вашага рахунку…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
 <!ENTITY forget.accesskey            "З">
-
-<!ENTITY welcome.description "Доступ да вашых картак, пароляў і іншага, што выкарыстана ў &brandShortName;.">
-<!ENTITY welcome.signIn.label "Увайсці">
-<!ENTITY welcome.createAccount.label "Стварыць рахунак">
-
-<!ENTITY welcome.useOldSync.label "Ужываеце старэйшую версію Sync?">
 
 <!ENTITY signedOut.caption            "Вазьміце сваё Сеціва з сабой">
 <!ENTITY signedOut.description        "Сінхранізуйце свае закладкі, гісторыю, карткі, паролі, дадаткі і налады на ўсіх вашых прыладах.">

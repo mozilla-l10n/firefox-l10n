@@ -34,11 +34,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
 
 <!ENTITY captivePortal.title "Злучыцца з сеткай">
-<!ENTITY captivePortal.longDesc "
-<p>Гэтая сетка можа патрабаваць уваход для доступу да інтэрнэту.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Адкрыць старонку ўваходу">
 
 <!ENTITY malformedURI.title "Несапраўдны адрас">
 <!ENTITY malformedURI.longDesc "<ul> <li>Адрас Сеціва звычайна пішацца, як <strong>http://www.example.com/</strong></li> <li>Упэўніцеся, што вы ўжываеце простыя косыя рыскі (г.зн. <strong>/</strong>).</li> </ul>">
@@ -135,14 +131,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Дадатковыя звесткі: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Ваша злучэнне не бяспечнае">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Дадатковыя звесткі: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Дадаткова">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая састарэла і ўразлівая да атак. Зламыснік можа з лёгкасцю выкрыць звесткі, пра якія вы думаеце, што яны ў бяспецы.">
-<!ENTITY weakCryptoAdvanced.override "(Не бяспечна) Паспрабаваць адкрыць <span class='hostname'></span> з састарэлай бяспекай">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
