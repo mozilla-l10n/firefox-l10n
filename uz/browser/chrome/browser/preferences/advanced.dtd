@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Koʻproq oʻrganing">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun brauzeringiz haqidagi ishlashi, foydalanish, qurilma va moslash ma`lumotlarini boʻlishadi">
-<!ENTITY enableTelemetryData.label       "Qo‘shimcha ma’lumotlarni bo‘lishish (masalan, Telemetriya)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Koʻproq oʻrganing">
 
 

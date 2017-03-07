@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Ichki oynalar, xatcho‘plar va parollarni sinxronlash uchun hisobingizga kiring.">
 <!ENTITY aboutAccountsConfig.startButton.label "Boshlash">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Eski sinxronlash usulidan foydalanasizmi?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sinxronlashni sozlash">
 <!ENTITY aboutAccounts.noConnection.title "Ulanmagan">
 <!ENTITY aboutAccounts.noConnection.description "Hisobingizga kirish uchun internetga ulanish kerak.">

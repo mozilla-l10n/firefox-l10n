@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Sahifani yuklashda muammo">
 <!ENTITY retry.label "Yana urinib ko‘rish">
 <!ENTITY returnToPreviousPage.label "Orqaga">
-<!ENTITY advanced.label "Qo‘shimcha">
+
 <!-- Specific error messages -->
 
 
@@ -102,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Ulanish xavfsiz emas">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Qo‘shimcha ma’lumot: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Qo‘shimcha">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> eskirgan, hujumga qarshi zaif xavfsizlik texnologiyasidan foydalanadi. Siz xavfsiz deb o‘ylagan ma’lumotni hujumchi osongina oshkor qilishi mumkin.">
-<!ENTITY weakCryptoAdvanced.override "(Xavfsiz emas) Eskirgan xavfsizlik texnologiyali <span class='hostname'></span> sahifasini yuklab ko‘rish">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

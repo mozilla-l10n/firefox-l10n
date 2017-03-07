@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Barcha xatcho‘plarni ko‘rsatish">
 <!ENTITY recentBookmarks.label "Soʻnggi xatchoʻpga qoʻshilgan saytlar">
 <!ENTITY otherBookmarksCmd.label "Boshqa xatcho‘plar">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Ko‘proq xatcho‘plarni ko‘rsatish">
 <!ENTITY showRecentlyBookmarked.label     "Soʻnggi xatchoʻpga qoʻshilgan saytlarni ko‘rsatish">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Xatcho‘plar">
 <!ENTITY bookmarksMenuButton.other.label "Boshqa xatcho‘plar">
+
 <!ENTITY viewBookmarksSidebar2.label        "Xatcho‘plarni yon panelda ko‘rsatish">
 <!ENTITY viewBookmarksToolbar.label         "Xatcho‘plar panelini ko‘rsatish">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ochiq ichki oynalar yo‘q">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ichki oynalar ro‘yxatini boshqa qurilmada ko‘rish uchun sinxronlashni yoqing.">
