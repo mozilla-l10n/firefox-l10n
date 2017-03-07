@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Tandikawo &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ekusobozesa okufuna ebyafaayo byo, obulambe, ebisumuluzo era neggula amapeesa ku kyuma kyo.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Tuusa">
-<!ENTITY resetPass.label              "Ddamu otegeke">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Dukanya Akawunta">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Kyusa Akasuumuluzo…">
-<!ENTITY myRecoveryKey.label          "Akasumuluzo Kange Akazaobujja">
-<!ENTITY resetSync2.label             "Ddamu Okwanaganye…">
-
-<!ENTITY pairDevice.label             "Yunga Ebyuma Bibiri">
-
-<!ENTITY syncMy.label               "Kwanaganya">
 <!ENTITY engine.bookmarks.label     "Obulambe">
 <!ENTITY engine.bookmarks.accesskey "l">
 
@@ -42,13 +23,9 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "Jja Enkwaso Kukuma Kano">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amateeka g'empeereza">
-<!ENTITY prefs.ppLink.label         "Enkola eyekyama egobelerwa">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -76,11 +53,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-<!ENTITY welcome.useOldSync.label "Kozesa enkola enkade eya Sync?">
 
 
 

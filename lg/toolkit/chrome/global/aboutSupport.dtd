@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modi Enddamu">
 
 <!ENTITY aboutSupport.showDir.label "Gulawo Eterekero">
@@ -87,6 +89,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Enkola eyomu Terekero">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Ebifudeyo mu Kutekamu">
+
+
+
+
+
+
+
+
 
 
 
