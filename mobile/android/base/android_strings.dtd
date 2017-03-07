@@ -386,7 +386,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Hollu aslol njiilaw">
 <!ENTITY pref_import_options "Jiggo cuɓe">
 <!ENTITY pref_import_android_summary "Jiggo maantore e aslol iwde e wanngorde cinndel ngel">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Aslol peeragol">
 <!ENTITY pref_private_data_searchHistory "Aslol njiilaw">
 <!ENTITY pref_private_data_formdata2 "Aslol formeere">
@@ -517,10 +518,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Innde kuutoro">
 <!ENTITY doorhanger_login_edit_password_hint "Finnde">
 <!ENTITY doorhanger_login_edit_toggle "Hollu finnde">
-<!ENTITY doorhanger_login_edit_toast_error "Horiima danndude seŋorde">
 <!ENTITY doorhanger_login_select_message "Natto finnde iwde e&formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Finnde nattaama to ɗakkitorde">
-<!ENTITY doorhanger_login_select_toast_copy_error "Horiima nattaade finnde">
 <!ENTITY doorhanger_login_select_action_text "Labo seŋorde woɗnde">
 <!ENTITY doorhanger_login_select_title "Natto finnde iwde">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

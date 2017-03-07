@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Goɗɗi&ellipsis;">
 <!ENTITY fxaccount_remove_account "Seŋto&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Momtu Konte Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; maa dartin canngoɗinal e konte maa, kono momtoytaa hay huunde e keɓe banngagol maa e ngol kaɓirgol.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Konte Firefox &formatS; momtaama.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Hurmin Mbayka buggitagol">
 <!-- Localization note: this is the name shown by the Android system
