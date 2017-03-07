@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Pro synchronizaci panelů, záložek, hesel a dalších věcí se přihlaste.">
 <!ENTITY aboutAccountsConfig.startButton.label "Začít">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Používáte starší verzi služby Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Předvolby synchronizace">
 <!ENTITY aboutAccounts.noConnection.title "Žádné připojení">
 <!ENTITY aboutAccounts.noConnection.description "Abyste se mohli přihlásit, musíte být připojeni k internetu.">
