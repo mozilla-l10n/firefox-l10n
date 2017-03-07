@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Suíomh">
 <!ENTITY     statusCol.label               "Stádas">
 <!ENTITY     usageCol.label                "Stóras">
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Cuardach">
+<!ENTITY     searchPlaceHolder.accesskey   "C">
+<!ENTITY     removeSelected.label          "Bain na Cinn Roghnaithe">
+<!ENTITY     removeSelected.accesskey      "R">
+<!ENTITY     save.label                    "Sábháil na hAthruithe">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Cealaigh">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "Sonraí Suímh á Scriosadh">
 
 

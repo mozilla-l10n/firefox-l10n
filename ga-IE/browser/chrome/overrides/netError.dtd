@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
 
 <!ENTITY captivePortal.title "Logáil isteach sa líonra">
-
+<!ENTITY captivePortal.longDesc2 "<p>Caithfidh tú logáil isteach sa líonra sular féidir leat teacht ar an Idirlíon.</p>">
 
 
 <!ENTITY malformedURI.title "Níl an seoladh bailí">

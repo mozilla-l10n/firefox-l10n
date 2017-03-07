@@ -13,6 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "s">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ní thaispeánfar moltaí cuardaigh sa mbarra suímh toisc go ndúirt tú le &brandShortName; gan do stair bhrabhsála a mheabhrú.">
 
+<!ENTITY oneClickSearchEngines.label           "Innill Chuardaigh Aonchlic">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Is féidir leat innill chuardaigh a roghnú go díreach sa bharra cuardaigh. Roghnaigh na cinn atá uait.">
 
