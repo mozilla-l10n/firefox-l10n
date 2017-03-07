@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Seadista &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; võimaldab sulle ligipääsu sinu teistes seadmetes olevale ajaloole, järjehoidjatele, paroolidele ja avatud kaartidele.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Uuenda">
-<!ENTITY resetPass.label              "Lähtesta">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Konto haldamine">
-<!ENTITY manageAccount.accesskey      "K">
-<!ENTITY changePassword2.label        "Muuda parooli…">
-<!ENTITY myRecoveryKey.label          "Taastamise võti">
-<!ENTITY resetSync2.label             "Lähtesta Sync…">
-
-<!ENTITY pairDevice.label             "Lisa seade">
-
-<!ENTITY syncMy.label               "Sünkroniseeritakse">
 <!ENTITY engine.bookmarks.label     "järjehoidjad">
 <!ENTITY engine.bookmarks.accesskey "j">
 <!ENTITY engine.tabs.label2         "Avatud kaardid">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "i">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Seadme nimi:">
 <!ENTITY fxaSyncDeviceName.label       "Seadme nimi">
 <!ENTITY changeSyncDeviceName.label "Muuda seadme nime…">
 <!ENTITY changeSyncDeviceName.accesskey "M">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "L">
 <!ENTITY saveChangeSyncDeviceName.label "Salvesta">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Katkesta selle seadme ühendus">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Teenuse tingimused">
-<!ENTITY prefs.ppLink.label         "Privaatsusreeglid">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Privaatsusest">
-<!ENTITY determiningAcctStatus.label     "Konto oleku tuvastamine…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Unusta see e-posti aadress">
 <!ENTITY forget.accesskey            "n">
-
-<!ENTITY welcome.description "Pääse ligi oma kaartidele, järjehoidjatele, paroolidele ja muule kõikjalt, kus kasutad &brandShortName;i.">
-<!ENTITY welcome.signIn.label "Logi sisse">
-<!ENTITY welcome.createAccount.label "Loo konto">
-
-<!ENTITY welcome.useOldSync.label "Kasutad Synci vanemat versiooni?">
 
 <!ENTITY signedOut.caption            "Võta oma veeb endaga kaasa">
 <!ENTITY signedOut.description        "Sync võimaldab sul sünkroniseerida järjehoidjad, ajaloo, kaardid, paroolid, lisad ja sätted kõigis sinu seadmetes.">

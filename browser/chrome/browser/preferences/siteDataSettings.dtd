@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Sait">
 <!ENTITY     statusCol.label               "Olek">
 <!ENTITY     usageCol.label                "Kasutus">
-<!ENTITY     search.label                  "Otsi:">
-<!ENTITY     search.accesskey              "O">

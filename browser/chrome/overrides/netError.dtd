@@ -52,11 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Võrku sisenemine">
-<!ENTITY captivePortal.longDesc "
-<p>See võrk võib interneti kasutamiseks vajada sisselogimist.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Ava sisselogimise leht">
 
 <!ENTITY malformedURI.title "Aadress pole korrektne">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Täpsem teave: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Ühendus pole turvaline">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Täpsem teave: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Edasijõudnuile">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> kasutab turvalisuse tehnoloogiaid, mis on aegunud ja avatud rünnakutele. Ründaja võib suurema vaevata pääseda ligi teabele, mis sinu arvates on kaitstud.">
-<!ENTITY weakCryptoAdvanced.override "(Ebaturvaline!) Proovi laadida saiti <span class='hostname'></span>, kasutades aegunud turvalisuse tehnoloogiaid">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
