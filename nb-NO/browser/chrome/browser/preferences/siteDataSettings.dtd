@@ -7,3 +7,11 @@
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">
+<!ENTITY     searchPlaceHolder             "Søk">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "Fjern valgte">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Lagre endringer">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Avbryt">
+<!ENTITY     cancel.accesskey              "A">
