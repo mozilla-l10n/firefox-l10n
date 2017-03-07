@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "और जानें">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए प्रदर्शन, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करते हैं">
-<!ENTITY enableTelemetryData.label       "अतिरिक्त डाटा साझा करें (यानी, टेलीमिति)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "और जानें">
 
 <!ENTITY crashReporterDesc2.label         "क्रेश विवरण &vendorShortName; समस्याएँ ठीक करने और आपके ब्राउज़र को ज्यादा स्थायी और सुरक्षित रखने में मदद करता है ">
@@ -81,7 +81,6 @@
 
 <!ENTITY updateTab.label                 "अद्यतन">
 
-<!ENTITY updateApplication.label         "&brandShortName; अद्यतन">
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
 
@@ -95,7 +94,6 @@
 <!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "स्वतः अद्यतन">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 

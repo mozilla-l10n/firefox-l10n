@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "बहुप्रक्रिया विंडोज़">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "सेफ मोड">
 
 <!ENTITY aboutSupport.showDir.label "खुली निर्देशिका">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "कच्चे डाटा क्लिपबोर्ड में नक़ल लें">
 
 <!ENTITY aboutSupport.sandboxTitle "सैंडबॉक्स ">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "सुरक्षित मोड में कोशिश करें">
 <!ENTITY aboutSupport.restartInSafeMode.label "निष्क्रिय सहयुक्तियों के साथ फिर आरंभ करें...">
