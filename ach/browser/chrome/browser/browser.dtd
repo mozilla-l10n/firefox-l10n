@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Nyut alama buk weng">
 <!ENTITY recentBookmarks.label "Ma kiketo Alamabuk cokki">
 <!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
-
+<!ENTITY mobileBookmarksCmd.label "Alamabuk me cing">
 <!ENTITY bookmarksToolbarChevron.tooltip "Nyut alama buk mukene">
 <!ENTITY showRecentlyBookmarked.label     "Nyut ma kiketo alamabuk cokki">
 <!ENTITY showRecentlyBookmarked.accesskey "t">

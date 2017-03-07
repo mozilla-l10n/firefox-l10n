@@ -180,7 +180,7 @@
 <!ENTITY wifi_auth_header "Nyuto Kactoma">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "Kama itye ka kube iye ni mito ngec mapol me moko ada pa kube man.  Tim ber i meny kod me QR ma piny ni ki i lapeny ma tye i nyonyo ni mukene ni.">
+<!ENTITY wifi_auth_scan_request "Kama itye ka kube iyie ni mito ngec mapol me moko ada pa kube man.  Tim ber i meny kod me QR ma piny ni ki i lapeny ma tye i nyonyo ni mukene ni.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Pe tye lapeny mo me lameny QR?">
