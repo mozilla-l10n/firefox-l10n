@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Мультипроцесс терезелері">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google кілті">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla орналасулар қызметінің кілті">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Қауіпсіз режимі">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Өнделмеген мәліметтерді алмасу буферіне көшіру">
 
 <!ENTITY aboutSupport.sandboxTitle "Құмсалғыш">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Тайдырылған жүйелік шақырулар">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "секунд бұрын">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Процесс түрі">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Жүйелік шақыру">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Аргументтер">
 
 <!ENTITY aboutSupport.safeModeTitle "Қауіпсіз режимін қолданып көру">
 <!ENTITY aboutSupport.restartInSafeMode.label "Сөндірілген кеңейтулермен қайта қосу…">
