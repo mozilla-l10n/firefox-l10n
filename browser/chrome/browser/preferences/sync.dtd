@@ -1,23 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
-
-
-<!ENTITY updatePass.label             "இற்றைப்படுத்துக">
-
-<!-- Manage Account -->
-
-
-
-
-
-
-
 
 
 
@@ -36,13 +20,9 @@
 
 
 
-
-
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "சேவை விதிமுறைகள்">
-<!ENTITY prefs.ppLink.label         "பிரத்தியேக கொள்கை">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -58,10 +38,6 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
-
-
-
-
 
 
 
