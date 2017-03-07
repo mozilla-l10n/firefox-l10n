@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "आओर जानू">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; क संग &brandShortName; केँ बेहतर बनाबैक लेल प्रदर्शन, प्रयोग, हार्डवेयर आओर पसंदीदाकरण आँकड़े केँ अपन ब्राउज़रक साथ साझा करैत अछि">
-<!ENTITY enableTelemetryData.label       "अतिरिक्त डेटा साझा करू (यानी, टेलीमिति)">
-<!ENTITY enableTelemetryData.accesskey   "ट">
+
+
 <!ENTITY telemetryLearnMore.label        "आओर जानू">
 
 

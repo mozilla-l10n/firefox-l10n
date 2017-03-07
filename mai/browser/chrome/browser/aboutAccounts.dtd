@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "अपन टैब, बुकमार्क, कूटशब्द आओर आन सिंक करबाक लेल साइन इन करू.">
 <!ENTITY aboutAccountsConfig.startButton.label "प्रारंभ करू">
-<!ENTITY aboutAccountsConfig.useOldSync.label "सिंक केर पुरान संस्करण क' उपयोग कए रहल छी?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "वरीयता सिंक करू">
 <!ENTITY aboutAccounts.noConnection.title "कनेक्शन नहि अछि">
 <!ENTITY aboutAccounts.noConnection.description "साइन इन कलेल अहाँक इंटरनेट से जुड़ल होनाए जरूरी अछि ">
