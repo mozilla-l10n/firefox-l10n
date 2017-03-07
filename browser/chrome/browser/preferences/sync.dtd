@@ -1,26 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Rulaganya &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "R">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; e go fa tetlelesego ya motlhala, matshwaotsebe, khunololamoraba tsa gago le dithebe tsotlhe tse di butsweng mo didirisweng tsa gago tsotlhe.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
-
-
-<!ENTITY updatePass.label             "Ntšhwafatsa">
-
-<!-- Manage Account -->
-
-<!ENTITY changePassword2.label        "Fetola Khunololamoraba…">
-
-<!ENTITY resetSync2.label             "Rulaganyasešwa Thulaganyo ka tsamaiso...">
-
-
-<!ENTITY syncMy.label               "Rulaganya ka tsamaiso di">
-
 
 
 
@@ -39,13 +20,9 @@
 
 
 
-
-
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Melawana ya Tirelo">
-<!ENTITY prefs.ppLink.label         "Pholesi ya Bosephiri">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -73,11 +50,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-<!ENTITY welcome.useOldSync.label "A o dirisa mofuta o mogologolo wa Thulaganyo ka tsamaiso?">
 
 
 

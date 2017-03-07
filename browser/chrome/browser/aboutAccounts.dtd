@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Tsena tirong go rulaganya ka tsamaisano dithebe tsa gago, matshwaotsebe , dikhunololamoraba le tse dingwe.">
 <!ENTITY aboutAccountsConfig.startButton.label "Simolola">
-<!ENTITY aboutAccountsConfig.useOldSync.label "A o dirisa mofuta o mogologolo wa Thulaganyo ka tsamaisano?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Rulaganya ka tsamaisano dikgethwa">
 <!ENTITY aboutAccounts.noConnection.title "Ga gona kgolagano">
 <!ENTITY aboutAccounts.noConnection.description "O tshwanetse go golaganya ka inthanete go tsena tirong.">
