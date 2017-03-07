@@ -31,9 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>">
 
 <!ENTITY captivePortal.title "Logg inn på nettverket">
-<!ENTITY captivePortal.longDesc "<p>Dette nettverket krev kanskje at du loggar inn for å få tilgang til Internett.</p>">
 
-<!ENTITY openPortalLoginPage.label "Opna innloggingsside">
 
 <!ENTITY malformedURI.title "Adressa er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.example.com/</strong></li> <li>Kontroller at du brukar framover-skråstrek (til dømes <strong>/</strong>).</li> </ul> ">
@@ -104,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Tilkoplinga di er ikkje trygg">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Avansert info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avansert">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brukar tryggingsteknologi som er utdatert og utsett for åtak. Ein angripar kan lett avsløra informasjon som du trudde var trygg.">
-<!ENTITY weakCryptoAdvanced.override "(Ikkje trygg) Prøv å lasta <span class='hostname'></span> med hjelp av forelda tryggleik">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
