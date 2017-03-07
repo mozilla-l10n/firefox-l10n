@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Ցուցադրել որոնման պատմությունը">
 <!ENTITY pref_import_options "Ներմուծելու ընտրանքներ">
 <!ENTITY pref_import_android_summary "Ներմուծել էջանիշեր և պատմություն հիմնական դիտարկիչից">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Բացել ներդիրները">
 <!ENTITY pref_private_data_history2 "Դիտարկումների պատմություն">
 <!ENTITY pref_private_data_searchHistory "Որոնման պատմություն">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Օգտվողի անուն">
 <!ENTITY doorhanger_login_edit_password_hint "Գաղտնաբառ">
 <!ENTITY doorhanger_login_edit_toggle "Ցուցադրել գաղտնաբառը">
-<!ENTITY doorhanger_login_edit_toast_error "Հնարավոր չեղավ պահել մուտքագրումը">
 <!ENTITY doorhanger_login_select_message "Պատճենե՞լ գաղտնաբառը &formatS;-ից:">
 <!ENTITY doorhanger_login_select_toast_copy "Գաղտնաբառը պատճենված է">
-<!ENTITY doorhanger_login_select_toast_copy_error "Հնարավոր չէ պատճենել գաղտնաբառը">
 <!ENTITY doorhanger_login_select_action_text "Ընտրել այլ մուտքագրում">
 <!ENTITY doorhanger_login_select_title "Պատճենել գաղտնաբառը այստեղից՝">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
