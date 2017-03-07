@@ -233,6 +233,8 @@ size. -->
 
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
 <!ENTITY pref_search_suggestions "Паказваць прапановы пошуку">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Гісторыя азірання">
 <!ENTITY pref_private_data_cookies2 "Біркі і дзейныя ўваходы">
 <!ENTITY pref_private_data_cache "Запаснік">

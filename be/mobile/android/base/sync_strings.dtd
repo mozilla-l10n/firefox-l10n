@@ -2,140 +2,103 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Don't localize these. They're here until they have
+     a better place to live. -->
 <!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
-<!ENTITY sync.app.name.label "&syncBrand.fullName.label;">
-<!ENTITY sync.title.connect.label "Злучыцца з &syncBrand.shortName.label;">
-<!ENTITY sync.title.adddevice.label "Дадаць рахунак &syncBrand.fullName.label;">
-<!ENTITY sync.title.pair.label "Спараванне збудовы">
-<!ENTITY sync.subtitle.connect.label "Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове.">
-<!ENTITY sync.subtitle.header2.label "Увядзіце гэты код на іншай збудове">
-<!ENTITY sync.subtitle.connectlocation2.label "Выберыце “&sync.title.pair.label;” у раздзеле &syncBrand.shortName.label; наладжванняў Firefox на вашай іншай збудове.">
-<!ENTITY sync.subtitle.pair.label "Каб задзейнічаць, выберыце “Спараваць збудову” на вашай іншай збудове.">
-<!ENTITY sync.pin.default.label "...\n...\n...\n">
-<!ENTITY sync.pin.oneline.label "...">
-<!ENTITY sync.link.show.label "Паказаць мне як.">
-<!ENTITY sync.link.advancedsetup.label "Пашыранае наладжванне...">
-<!ENTITY sync.link.nodevice.label "Я не маю збудову з сабою…">
-<!ENTITY sync.jpake.subtitle.waiting.label "Чаканне іншай збудовы…">
-<!ENTITY sync.subtitle.account.label "Увядзіце звесткі вашага рахунку &syncBrand.fullName.label;">
-<!ENTITY sync.input.username.label "Назва рахунку">
-<!ENTITY sync.input.password.label "Пароль">
-<!ENTITY sync.input.key.label "Адноўны ключ">
-<!ENTITY sync.checkbox.server.label "Ужываць іншы паслугач">
-<!ENTITY sync.input.server.label "URL паслугача">
-<!ENTITY sync.title.fail.label "Немагчыма наладзіць &syncBrand.shortName.label;">
-<!ENTITY sync.subtitle.fail.label "&syncBrand.fullName.label; не можа злучыцца з паслугачом. Хочаце паспрабаваць ізноў?">
-<!ENTITY sync.button.tryagain.label "Паспрабаваць зноў">
-<!ENTITY sync.button.manual.label "Ручное ўладкаванне">
-<!ENTITY sync.subtitle.nointernet.label "Няма злучэння з Інтэрнэтам.">
-<!ENTITY sync.subtitle.failaccount.label "Няўдача стварэння рахунку на вашай збудове.">
-<!ENTITY sync.subtitle.failmultiple.label "Вы маеце некалькі ўсталяваных Firefox? Зараз &syncBrand.fullName.label; падтрымлівае толькі адно ўсталяванне Firefox. Высталюйце, калі ласка, іншыя асобнікі, каб скарыстацца &syncBrand.shortName.label;.">
-<!ENTITY sync.title.success.label "Уладкаванне скончана">
-<!ENTITY sync.subtitle.success.label1 "Вашы здаткі зараз фонава сцягваюцца. Вы можаце перайсці ў Наладжванні, каб кіраваць вашым рахункам, або пачаць азіранне ў &brandShortName;.">
-<!ENTITY sync.settings.label "Наладжванні">
-<!ENTITY sync.subtitle.manage.label1 "Ваш рахунак &syncBrand.fullName.label; ужо наладжаны. Вы можаце перайсці ў Наладжванні, каб кіраваць вашым рахункам, або запусціць &brandShortName;.">
-<!ENTITY sync.pair.tryagain.label "Паспрабуйце, калі ласка, зноў.">
-<!ENTITY sync.pair.connectlocation.label "Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове і тады вылучыце “Я маю рахунак.”">
-<!ENTITY sync.settings.options.label "Наладжванні">
-<!ENTITY sync.summary.pair.label "Злучыць іншую збудову з вашым рахункам &syncBrand.shortName.label;">
-<!ENTITY sync.configure.engines.title.label "Адзінкі для сінхранізацыі">
-<!ENTITY sync.configure.engines.sync.my.title.label "Сінхранізаваць вашы…">
-<!ENTITY sync.configure.engines.title.bookmarks "Закладкі">
-<!ENTITY sync.configure.engines.title.passwords "Паролі">
-<!ENTITY sync.configure.engines.title.history "Гісторыю">
-<!ENTITY sync.configure.engines.title.tabs "Устаўкі">
-<!ENTITY sync.button.cancel.label "Скасаваць">
-<!ENTITY sync.button.connect.label "Злучыцца">
-<!ENTITY sync.button.ok.label "Добра">
-<!ENTITY sync.account.label "&syncBrand.fullName.label; (асуджана)">
-<!ENTITY bookmarks.folder.menu.label "Меню закладак">
-<!ENTITY bookmarks.folder.places.label "">
-<!ENTITY bookmarks.folder.tags.label "Меціны">
-<!ENTITY bookmarks.folder.toolbar.label "Прыладапаліца закладак">
-<!ENTITY bookmarks.folder.unfiled.label "Неразмеркаваныя закладкі">
-<!ENTITY bookmarks.folder.desktop.label "Закладкі працоўнага стала.">
-<!ENTITY bookmarks.folder.mobile.label "Мабільныя закладкі">
-<!ENTITY bookmarks.folder.readinglist.label "Спіс чытання">
-<!ENTITY bookmarks.folder.pinned.label "Прышпіленая">
-<!ENTITY sync.notification.oneaccount.label "Толькі рахунак &syncBrand.fullName.label; падтрымліваецца.">
-<!ENTITY sync.notification.configure.saved "Ваш выбар захаваны.">
-<!ENTITY sync.invalidcreds.label "Няправільная назва рахунку аоб пароль.">
-<!ENTITY sync.invalidserver.label "Увядзіце, калі ласка, сапраўдны URL паслугача">
-<!ENTITY sync.verifying.label "Праверка…">
-<!ENTITY sync.new.recoverykey.status.incorrect "Няправільны узноўны ключ. Паспрабуйце, калі ласка, зноў.">
-<!ENTITY sync.title.send.tab.label "Даслаць устаўку на збудовы">
-<!ENTITY sync.button.send.label "Даслаць">
-<!ENTITY sync.button.set.up.sync.label "Наладзіць &syncBrand.shortName.label;">
-<!ENTITY sync.title.redirect.to.set.up.sync.label "Наладка дасылання ўставак праз &syncBrand.shortName.label;">
-<!ENTITY sync.text.redirect.to.set.up.sync.label "Наладжванне &syncBrand.fullName.label; на вашай збудове для дасылання ўставак на іншыя збудовы.">
-<!ENTITY sync.text.tab.sent.label "Ваша ўстаўка даслана!">
-<!ENTITY sync.text.tab.not.sent.label "Здарылася праблема падчас дасылання ўстаўкі.">
-<!ENTITY fxaccount_email_hint "Э-пошта">
-<!ENTITY fxaccount_password_hint "Пароль">
-<!ENTITY fxaccount_password_hide "Схаваць">
-<!ENTITY fxaccount_password_show "Паказаць">
-<!ENTITY fxaccount_back_to_browsing "Вярнуцца да азірання">
-<!ENTITY fxaccount_policy_linktos "Умовы абслугоўвання">
-<!ENTITY fxaccount_policy_linkprivacy "Палітыка адасаблення">
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Калі ласка да &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description "Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, паролі і іншае.">
-<!ENTITY fxaccount_getting_started_get_started "Пачаць">
-<!ENTITY fxaccount_getting_started_old_firefox "Ужываеце старэйшую версію &syncBrand.shortName.label;?">
-<!ENTITY fxaccount_create_account_header2 "Стварыць рахунак Firefox">
-<!ENTITY fxaccount_create_account_password_length_restriction "Павінна быць прынамсі 8 знакаў">
-<!ENTITY fxaccount_create_account_year_of_birth "Год нараджэння">
-<!ENTITY fxaccount_create_account_policy_text2 "Працягваючы, я згодны з &formatS1; і &formatS2; воблачных службаў Firefox.">
-<!ENTITY fxaccount_create_account_button "Далей">
-<!ENTITY fxaccount_create_account_choose_what_to_sync "Выбраць, чым дзяліцца">
-<!ENTITY fxaccount_create_account_sign_in_instead "Ужо маеце рахунак? Увайсці">
-<!ENTITY fxaccount_create_account_1990_or_earlier "1990 або ранейшы">
-<!ENTITY fxaccount_create_account_unknown_error "Немагчыма стварыць рахунак">
-<!ENTITY fxaccount_account_create_not_allowed "Немагчыма стварыць рахунак">
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements "Вы павіны мець пэўны ўзрост, каб стварыць рахунак.">
-<!ENTITY fxaccount_account_create_not_allowed_learn_more "Падрабязней">
-<!ENTITY fxaccount_confirm_account_header "Пацвярджэнне рахунку">
-<!ENTITY fxaccount_confirm_account_verification_link "Спасылка пацверджання даслана да &formatS;">
-<!ENTITY fxaccount_confirm_account_resend_email "Перадаслаць э-ліст">
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 "Ліст пацверджання дасланы">
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 "Немагчыма даслаць э-ліст пацверджання">
-<!ENTITY fxaccount_sign_in_sub_header "Уваход">
-<!ENTITY fxaccount_sign_in_button_label "Увайсці">
-<!ENTITY fxaccount_sign_in_forgot_password "Забылі пароль?">
-<!ENTITY fxaccount_sign_in_create_account_instead "Стварыць рахунак">
-<!ENTITY fxaccount_sign_in_unknown_error "Немагчыма ўвайсці">
-<!ENTITY fxaccount_account_verified_sub_header "Рахунак пацверджаны">
-<!ENTITY fxaccount_account_verified_description2 "Вашы здаткі пачнуць сінхранізавацца неадкладна.">
-<!ENTITY fxaccount_update_credentials_header "Уваход">
-<!ENTITY fxaccount_update_credentials_button_label "Увайсці">
-<!ENTITY fxaccount_update_credentials_unknown_error "Немагчыма ўвайсці">
-<!ENTITY fxaccount_status_header2 "Рахунак Firefox">
-<!ENTITY fxaccount_status_signed_in_as "Увайшоўшы як">
-<!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
-<!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label;: дазволены">
-<!ENTITY fxaccount_status_needs_verification2 "Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.">
-<!ENTITY fxaccount_status_needs_credentials "Немагчыма злучыцца. Ляпніце, каб увайсці.">
-<!ENTITY fxaccount_status_needs_upgrade "Вы павінны ўзняць &brandShortName;, каб увайсці.">
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled "&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Самасінхранізацыя здаткаў” у “Наладжванні Android” &gt; “Ужыванне здаткаў”.">
-<!ENTITY fxaccount_status_needs_account_enabled "&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Ляпніце, каб пачаць сінхранізацыю.">
-<!ENTITY fxaccount_status_bookmarks "Закладкі">
-<!ENTITY fxaccount_status_history "Гісторыя">
-<!ENTITY fxaccount_status_passwords "Паролі">
-<!ENTITY fxaccount_status_tabs "Адчыненыя ўстаўкі">
-<!ENTITY fxaccount_status_legal "Легальны">
-<!ENTITY fxaccount_status_linktos "Умовы абслугоўвання">
-<!ENTITY fxaccount_status_linkprivacy "Папярэджанне адасаблення">
-<!ENTITY fxaccount_account_type_label "Firefox">
-<!ENTITY fxaccount_options_title "Наладжванні &syncBrand.shortName.label;">
-<!ENTITY fxaccount_options_configure_title "Наладжванне &syncBrand.shortName.label;">
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "Вы павінны ўзняць Firefox">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "Рахунак ужо існуе. &formatS1;">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST "Крывы адрас э-пошты або пароль">
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD "Крывы адрас э-пошты або пароль">
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT "Рахунак не паверджаны">
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS "Паслугач заняты, паспрабуйе зноў крыху пазней">
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD "Паслугач заняты, паспрабуйе зноў крыху пазней">
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR "Здарылася праблема">
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT "Немагчыма злучыцца з сеткай">
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 "&syncBrand.shortName.label; не злучаны">
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 "Ляпніце, каб увайсці як &formatS;">
+
+<!-- Main titles. -->
+<!ENTITY sync.title.connect.label 'Злучыцца з &syncBrand.shortName.label;'>
+
+<!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове.'>
+<!ENTITY sync.subtitle.pair.label 'Каб задзейнічаць, выберыце “Спараваць збудову” на вашай іншай збудове.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Я не маю збудову з сабою…'>
+
+<!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.history 'Гісторыю'>
+<!ENTITY sync.configure.engines.title.tabs 'Устаўкі'>
+
+<!-- Localization note (sync.default.client.name): Default string of the "Device
+     name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
+     will be replaced by the name of the Firefox release channel and &formatS2
+     by the model name of the Android device. Examples look like "Aurora on
+     GT-I1950" and "Fennec on MI 2S". -->
+
+<!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Меню закладак'>
+<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.tags.label 'Меціны'>
+<!ENTITY bookmarks.folder.toolbar.label 'Прыладапаліца закладак'>
+<!ENTITY bookmarks.folder.desktop.label 'Закладкі працоўнага стала.'>
+<!ENTITY bookmarks.folder.mobile.label 'Мабільныя закладкі'>
+<!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Прышпіленая'>
+
+<!-- Firefox Account strings. -->
+
+<!-- Localization note: these are shown in screens after the user has
+     created or signed in to an account, and take the user back to
+     Firefox. -->
+<!ENTITY fxaccount_back_to_browsing 'Вярнуцца да азірання'>
+
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Калі ласка да &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_get_started 'Пачаць'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Ужываеце старэйшую версію &syncBrand.shortName.label;?'>
+
+<!ENTITY fxaccount_status_signed_in_as 'Увайшоўшы як'>
+<!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: дазволены'>
+<!ENTITY fxaccount_status_needs_verification2 'Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.'>
+<!ENTITY fxaccount_status_needs_credentials 'Немагчыма злучыцца. Ляпніце, каб увайсці.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Вы павінны ўзняць &brandShortName;, каб увайсці.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Самасінхранізацыя здаткаў” у “Наладжванні Android” &gt; “Ужыванне здаткаў”.'>
+<!ENTITY fxaccount_status_bookmarks 'Закладкі'>
+<!ENTITY fxaccount_status_history 'Гісторыя'>
+<!ENTITY fxaccount_status_tabs 'Адчыненыя ўстаўкі'>
+<!ENTITY fxaccount_status_legal 'Легальны' >
+<!-- Localization note: when tapped, the following two strings link to
+     external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
+     these strings are separated to accommodate languages that decline
+     the two uses differently. -->
+
+<!-- Localization note: format string below will be replaced
+     with the Firefox Account's email address. -->
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+
+
+<!-- Localization note: this is the name shown by the Android system
+     itself for a Firefox Account. Don't localize this. -->
+<!ENTITY fxaccount_account_type_label 'Firefox'>
+
+<!-- Localization note: these are shown by the Android system itself,
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
+     status activity, which lets them manage their Firefox
+     Account. -->
+<!ENTITY fxaccount_options_title 'Наладжванні &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'Наладжванне &syncBrand.shortName.label;'>
+
+<!-- Localization note: these error messages are shown after a request
+     has been made to the remote server, and an error of some type has
+     been returned. -->
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Вы павінны ўзняць Firefox'>
+
+<!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Рахунак ужо існуе. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Крывы адрас э-пошты або пароль'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Крывы адрас э-пошты або пароль'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Рахунак не паверджаны'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Паслугач заняты, паспрабуйе зноў крыху пазней'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Паслугач заняты, паспрабуйе зноў крыху пазней'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Здарылася праблема'>
+
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не злучаны'>
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Ляпніце, каб увайсці як &formatS;'>
+
+<!-- Localization note: the format string below will be replaced
+     with the Firefox Account's email address. -->
