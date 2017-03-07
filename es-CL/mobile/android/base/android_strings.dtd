@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsqueda">
 <!ENTITY pref_import_options "Opciones de importación">
 <!ENTITY pref_import_android_summary "Importa marcadores e historial desde el navegador nativo">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Abrir pestañas">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
-<!ENTITY doorhanger_login_edit_toast_error "No se pudo guardar la conexión">
 <!ENTITY doorhanger_login_select_message "¿Copiar contraseña desde &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al portapapeles">
-<!ENTITY doorhanger_login_select_toast_copy_error "No se pudo copiar la contraseña">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otra conexión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña desde">
 
