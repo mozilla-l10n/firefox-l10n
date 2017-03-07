@@ -2,23 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "ពិនិត្យ​អត្ថបទថ្មីៗ​រៀងរាល់">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "នាទី">
+<!ENTITY loginAtStartup.label          "ពិនិត្យ​អត្ថបទ​ថ្មី​ៗពេល​ចាប់ផ្ដើម">
+<!ENTITY loginAtStartup.accesskey      "C">
 
-<!ENTITY loginAtStartup.label "ពិនិត្យ​អត្ថបទ​ថ្មី​ៗពេល​ចាប់ផ្ដើម"> 
-<!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "តាម​លំនា​ដើម បង្ហាញ​ការ​សង្ខេប​អត្ថបទ​ជំនួស​ឲ្យ​ការ​ផ្ទុក​ទំព័រ​បណ្ដាញ"> 
-<!ENTITY useQuickMode.accesskey "B">
-
-<!ENTITY manageSubscriptions.label "គ្រប់គ្រង​ការ​ជាវ..."> 
+<!ENTITY manageSubscriptions.label     "គ្រប់គ្រង​ការ​ជាវ...">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "អ្នក​ជំនួយការ​គណនី​អត្ថបទ​ព័ត៌មាន">
-<!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "មតិ​ព័ត៌មាន &amp; កំណត់​ហេតុ​បណ្ដាញ">
-<!ENTITY feeds.wizardShortName "អត្ថបទ​ព័ត៌មាន">
-<!ENTITY feeds.wizardLongName "មតិ​ព័ត៌មាន &amp; កំណត់​ហេតុ​បណ្ដាញ">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feedWindowTitle.label         "អ្នក​ជំនួយការ​គណនី​អត្ថបទ​ព័ត៌មាន">
+<!ENTITY feeds.accountName             "មតិ​ព័ត៌មាន &amp; កំណត់​ហេតុ​បណ្ដាញ">
