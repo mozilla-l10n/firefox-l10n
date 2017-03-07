@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Մուտք գործեք՝ ձեր ներդիրները, էջանիշերը, գաղտնաբառերը համաժամեցնելու համար:">
 <!ENTITY aboutAccountsConfig.startButton.label "Սկսել">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Օգտագործու՞մ եք Սինքի հին տարբերակը:">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Կարգավորումների սինք">
 <!ENTITY aboutAccounts.noConnection.title "Չկա կապակցում">
 <!ENTITY aboutAccounts.noConnection.description "Մուտք գործելու համար անհրաժեշտ է համացանցային կապակցում:">

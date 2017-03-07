@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Հետևյալ cookie-ները պահպանված են ձեր համակարգչում.">
 <!ENTITY     cookiename.label               "Cookie-ի անունը">
-<!ENTITY     cookiedomain.label             "Կայքը"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Բոլորը Հեռացնել">
-<!ENTITY     button.removeAllCookies.accesskey "Բ">
+<!ENTITY     cookiedomain.label             "Կայքը">
 
 <!ENTITY     props.name.label               "Անունը.">
 <!ENTITY     props.value.label              "Բովանդակություն.">

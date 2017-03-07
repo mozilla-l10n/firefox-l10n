@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
 
 <!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
-<!ENTITY enableTelemetryData.label       "Տարածեք այլ տվյալներ (օր.՝ Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Իմանալ ավելին">
 
 <!ENTITY crashReporterDesc2.label         "Վթարի զեկույցները օգնում են &vendorShortName;-ին ուղղել խնդիրները և դարձնել դիտարկիչը ավելի կայուն և անվտանգ:">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Թարմացնել">
 
-<!ENTITY updateApplication.label         "&brandShortName;-ի թարմացումներ">
 <!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
 <!ENTITY updateAuto1.accesskey           "Թ">
 
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից">
 <!ENTITY useService.accesskey            "խ">
 
-<!ENTITY autoUpdateOthers.label          "Ինքնաբար թարմացնել">
 <!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
 <!ENTITY enableSearchUpdate.accesskey    "ք">
 
