@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "No es mostraran suggeriments de cerca als resultats de la barra d'ubicació perquè heu configurat el &brandShortName; per tal que no recordi mai l'historial.">
 
-<!ENTITY oneClickSearchEngines.label           "Motors de cerca amb un sol clic">
 
 <!ENTITY chooseWhichOneToDisplay.label         "La barra de cerca us permet cercar directament amb motors alternatius. Trieu quins voleu que es mostrin.">
 

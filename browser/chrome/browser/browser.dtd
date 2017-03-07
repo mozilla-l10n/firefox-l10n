@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY recentBookmarks.label "Afegides més recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 <!ENTITY showRecentlyBookmarked.label     "Mostra les afegides més recentment">
 <!ENTITY showRecentlyBookmarked.accesskey "o">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
 <!ENTITY bookmarksMenuButton.other.label "Altres adreces d'interès">
+
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "No hi ha cap pestanya oberta">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activeu la sincronització de pestanyes per veure una llista de les pestanyes que teniu obertes en altres dispositius.">

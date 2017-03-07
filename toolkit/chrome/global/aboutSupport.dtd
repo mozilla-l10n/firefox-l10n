@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestres multiprocés">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode segur">
 
 <!ENTITY aboutSupport.showDir.label "Obre el directori">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia les dades sense processar al porta-retalls">
 
 <!ENTITY aboutSupport.sandboxTitle "Entorn de proves">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Prova el mode segur">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reinicia amb els complements inhabilitats…">

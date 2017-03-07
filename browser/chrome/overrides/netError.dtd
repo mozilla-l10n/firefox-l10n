@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "S'ha produït un problema en carregar la pàgina">
 <!ENTITY retry.label "Torna-ho a provar">
 <!ENTITY returnToPreviousPage.label "Vés enrere">
-<!ENTITY advanced.label "Avançat">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>El &brandShortName; no ha pogut carregar la pàgina per algun motiu.</p>">
 
 <!ENTITY captivePortal.title "Inicieu la sessió a la xarxa">
-<!ENTITY captivePortal.longDesc "<p>És possible que aquesta xarxa us demani que inicieu la sessió per accedir a Internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Obre la pàgina d'inici de sessió">
+
 
 <!ENTITY malformedURI.title "L'adreça no és vàlida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Les adreces web normalment s'escriuen així: <strong>http://www.example.com/</strong></li> <li>Assegureu-vos que utilitzeu les barres inclinades (<strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informació avançada: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "La connexió no és segura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Informació avançada: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avançat">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilitza una tecnologia de seguretat obsoleta i vulnerable a atacs. Un atacant podria veure fàcilment la informació que altrament pensaríeu que és segura.">
-<!ENTITY weakCryptoAdvanced.override "(Insegur) Intenta carregar <span class='hostname'></span> amb la seguretat obsoleta">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
