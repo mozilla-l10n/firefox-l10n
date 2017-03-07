@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Tá na fianáin seo a leanas sábháilte ar do ríomhaire:">
 <!ENTITY     cookiename.label               "Ainm ar an fhianán">
-<!ENTITY     cookiedomain.label             "Suíomh"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Bain Uile">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Suíomh">
 
 <!ENTITY     props.name.label               "Ainm:">
 <!ENTITY     props.value.label              "Ábhar:">

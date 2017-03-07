@@ -53,7 +53,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Aistrithe ag">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Ábhar DRM">
 
 <!ENTITY  playDRMContent.label         "Seinn ábhar DRM">
 <!ENTITY  playDRMContent.accesskey     "S">

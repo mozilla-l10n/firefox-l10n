@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Fadhb i rith luchtú an leathanaigh">
 <!ENTITY retry.label "Déan Iarracht Arís">
 <!ENTITY returnToPreviousPage.label "Siar">
-<!ENTITY advanced.label "Ardroghanna">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
 
 <!ENTITY captivePortal.title "Logáil isteach sa líonra">
-<!ENTITY captivePortal.longDesc "<p>Seans gur gá duit logáil isteach sular féidir leat an tIdirlíon a úsáid.</p>">
 
-<!ENTITY openPortalLoginPage.label "Oscail an Leathanach Logála Isteach">
+
 
 <!ENTITY malformedURI.title "Níl an seoladh bailí">
 <!ENTITY malformedURI.longDesc "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.example.com/</strong></li> <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ardeolas: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Níl do cheangal slán">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Ardeolas: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Ardroghanna">
-<!ENTITY weakCryptoAdvanced.longDesc "Baineann <span class='hostname'></span> úsáid as teicneolaíocht slándála sheanaimseartha agus tá sé i mbaol a ionsaí. Bheadh bradaí in ann teacht ar d'fhaisnéis phearsanta go héasca. ">
-<!ENTITY weakCryptoAdvanced.override "(Contúirteach) Bain triail as <span class='hostname'></span> a luchtú in ainneoin teicneolaíocht slándála seanaimseartha">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
