@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Tuilleadh&ellipsis;">
 <!ENTITY fxaccount_remove_account "Dícheangail&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Dícheangail ó Sync?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Fágfar do chuid sonraí brabhsála ar an ngléas seo, ach ní dhéanfar sioncronú le do chuntas a thuilleadh.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Dícheanglaíodh Cuntas Firefox &formatS;.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Dícheangail">
 
 <!ENTITY fxaccount_enable_debug_mode "Cumasaigh an Mód Dífhabhtaithe">
 <!-- Localization note: this is the name shown by the Android system
