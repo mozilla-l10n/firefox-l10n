@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "താള്‍ ലോഡ്‌ ചെയ്യുന്നതില്‍ തകരാര്‍ ">
 <!ENTITY retry.label "വീണ്ടും ശ്രമിക്കുക">
 <!ENTITY returnToPreviousPage.label "തിരികെ പോകൂ">
-<!ENTITY advanced.label "സങ്കീര്‍ണ്ണമായവ">
+
 <!-- Specific error messages -->
 
 
@@ -96,13 +96,6 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "സുരക്ഷിതമായി കണക്ട് ചെയ്യുവാന്‍ സാധ്യമല്ല">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-
-<!ENTITY weakCryptoUsed.title "താങ്കളുടെ കണക്ഷന്‍ സുരക്ഷിതമല്ല">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoAdvanced.title "സങ്കീര്‍ണ്ണമായവ">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> പഴയ സുരക്ഷിതമല്ലാത്ത സാങ്കേതികവിദ്യ ആണ് ഉപയോഗിക്കുന്നത്. നിങ്ങളുടെ വിവരങ്ങള്‍ മറ്റൊരാള്‍ക്ക് എളുപ്പത്തില്‍ കാണാന്‍ സാധിച്ചേക്കാം.">
-<!ENTITY weakCryptoAdvanced.override "(സുരക്ഷിതമല്ല) <span class='hostname'></span> കാലഹരണപ്പെട്ട സുരക്ഷ ഉപയോഗിച്ച് ലഭ്യമാക്കാന്‍ ശ്രമിക്കൂ">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; സജ്ജമാക്കുക">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; വഴി നിങ്ങള്‍ക്കു് നാള്‍വഴി, അടയാളക്കുറിപ്പുകള്‍, രഹസ്യവാക്കുകള്‍, ഡിവൈസുകളിലുള്ള തുറന്ന റ്റാബുകള്‍ എന്നിവയെല്ലാം ലഭ്യമാകുന്നു.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "പരിഷ്കരിയ്ക്കുക">
-<!ENTITY resetPass.label              "വീണ്ടും സജ്ജമാക്കുക">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "അക്കൌണ്ട് കൈകാര്യം ചെയ്യുക">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "രഹസ്യവാക്ക് മാറ്റുക…">
-<!ENTITY myRecoveryKey.label          "എന്റെ വീണ്ടെടുക്കല്‍ കീ">
-<!ENTITY resetSync2.label             "സിന്‍ക് വീണ്ടും സജ്ജമാക്കുക…">
-
-<!ENTITY pairDevice.label             "ഒരു ഉപകരണവുമായി ജോടി ചെയ്യുക">
-
-<!ENTITY syncMy.label               "സിന്‍ക് ചെയ്യുക">
 <!ENTITY engine.bookmarks.label     "അടയാളക്കുറിപ്പുകള്‍">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -36,6 +17,7 @@
 <!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
 <!ENTITY fxaSyncDeviceName.label       "ഡിവൈസ് പേര്">
 
 
@@ -43,15 +25,10 @@
 
 
 
-<!ENTITY unlinkDevice.label           "ഈ ഡിവൈസ് അണ്‍ലിങ്ക് ചെയ്യുക">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "സേവന നിബന്ധനകള്‍">
-<!ENTITY prefs.ppLink.label         "സ്വകാര്യ പോളിസി">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "സ്വകാര്യ പോളിസി">
-<!ENTITY determiningAcctStatus.label     "നിങ്ങളുടെ അക്കൌണ്ട് അവസ്ഥ കണ്ടുപിടിയ്ക്കുന്നു...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -82,21 +59,13 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.description "&brandShortName; ഉപയോഗിയ്ക്കുമ്പോള്‍ നിങ്ങളുടെ ടാബുകള്‍, അടയാളങ്ങള്‍, രഹസ്യവാക്കുകള്‍ എന്നിവ ലഭ്യമാക്കാം.">
-<!ENTITY welcome.signIn.label "പ്രവേശിക്കുക">
-<!ENTITY welcome.createAccount.label "അക്കൗണ്ട്‌ ഉണ്ടാക്കുക">
-
-<!ENTITY welcome.useOldSync.label "സിന്‍കിന്റെ പഴയ പതിപ്പാണോ ഉപയോഗിക്കുന്നത്?">
-
-<!ENTITY signedOut.caption            "വെബ്ബിനെ കൂടെ കൊണ്ടുനടക്കൂ">
 <!ENTITY signedOut.description        "നിങ്ങളുടെ അടയാളക്കുറിപ്പുകള്‍, നാള്‍വഴി, ടാബുകള്‍, രഹസ്യവാക്കുകള്‍, ആഡോണുകള്‍, ക്രമീകരണങ്ങള്‍ നിങ്ങളുടെ എല്ലാ ഡിവൈസുകളിലേക്കും പൊരുത്തപ്പെടുത്തുക.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; -ന്‍റെ ഒപ്പം കണക്റ്റ് ചെയ്യുക">
-<!ENTITY signedOut.accountBox.create  "അക്കൗണ്ട്‌ ഉണ്ടാക്കുക">
-
-<!ENTITY signedOut.accountBox.signin  "പ്രവേശിയ്ക്കുക">
 
 
-<!ENTITY signedIn.engines.label       "എല്ലാ ഡിവൈസുകളിലെക്കുമായി പോരുത്തപെടുത്തുക">
+
+
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
