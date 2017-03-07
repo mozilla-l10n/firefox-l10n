@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Показывать историю поиска">
 <!ENTITY pref_import_options "Настройки импорта">
 <!ENTITY pref_import_android_summary "Импорт закладок и истории из системного браузера">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Открытые вкладки">
 <!ENTITY pref_private_data_history2 "Журнал посещений">
 <!ENTITY pref_private_data_searchHistory "Журнал поиска">
