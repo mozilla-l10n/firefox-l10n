@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess Windows">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Safe Mode">
 
 <!ENTITY aboutSupport.showDir.label "Open Directory">
@@ -104,6 +106,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copy raw data to clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Try Safe Mode">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restart with Add-ons Disabled…">
