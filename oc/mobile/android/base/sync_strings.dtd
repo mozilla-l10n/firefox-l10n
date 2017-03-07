@@ -78,6 +78,8 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->

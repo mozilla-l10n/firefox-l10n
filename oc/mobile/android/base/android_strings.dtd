@@ -346,7 +346,8 @@ size. -->
 
 
 
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 
 
 
@@ -470,8 +471,6 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nom d\u0027utilizaire">
 <!ENTITY doorhanger_login_edit_password_hint "Senhal">
 <!ENTITY doorhanger_login_edit_toggle "Afichar lo senhal">
-
-
 
 
 
