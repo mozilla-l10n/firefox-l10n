@@ -55,9 +55,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  குறிப்பு: மெதுவான SQL வழுநீக்கல் செயல்படுத்தப்பட்டுள்ளது. முழு SQL சரங்கள் கீழே காண்பிக்கப்படலாம்ஆனால் அவை டெலிமெட்ரிக்கு சமர்ப்பிக்கப்படாது.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  உறைதல் ஸ்டேக்குகளுக்கு செயல்தொகுதி பெயர்களைப் பெறு">
 
-<!ENTITY aboutTelemetry.hideSymbols "  உறைதல்களிலிருந்து அசல் தரவைக் காண்பி">
 
 <!ENTITY aboutTelemetry.filterText "  வடிகட்டு(சரளங்கள் அல்லது /regexp/)">
 

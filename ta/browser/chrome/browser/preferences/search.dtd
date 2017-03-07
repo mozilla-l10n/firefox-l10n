@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "தேடல் பரிந்துரைகள் இடப்பட்டையில் காட்டப்படாது ஏனெனில் நீங்கள் &brandShortName; என்பதை வரலாற்றில் நினைவு கொள்ளாமல் இருக்கும்படி கட்டமைத்துள்ளீர்கள்.">
 
-<!ENTITY oneClickSearchEngines.label           "ஒரு சொடுக்கில் தேடு பொறிகள்">
 
 <!ENTITY chooseWhichOneToDisplay.label         "தேடல் பட்டையானது மாற்று பொறிகளை தேரடியாக தேட உதவுகிறது. காண்பிக்க வேண்டியதை தேர்ந்தெடுக்கவும்.">
 

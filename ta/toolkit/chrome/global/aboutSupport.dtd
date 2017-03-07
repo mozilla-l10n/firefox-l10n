@@ -57,6 +57,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பலசெயல்முறை சாளரம்">
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "கோப்பகத்தைத் திற">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -98,6 +100,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "அசல் தரவை ஒட்டுப்பலகைக்கு நகலெடு">
 
 <!ENTITY aboutSupport.sandboxTitle "ஸ்சேன்டுபாக்ஸ்">
+
+
+
+
+
+
+
+
 
 
 

@@ -53,7 +53,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "ஆல் மொழிபெயர்ப்பு">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "DRM உள்ளடக்கம்">
 
 <!ENTITY  playDRMContent.label         "DRM உள்ளடக்கத்தை இயக்கு">
 <!ENTITY  playDRMContent.accesskey     "P">
