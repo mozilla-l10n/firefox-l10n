@@ -52,11 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Oanmelde by netwurk">
-<!ENTITY captivePortal.longDesc "
-<p>It is mooglik dat dit netwurk fereasket dat jo jo oanmelde foar tagong ta it ynternet.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Oanmeldside iepenje">
 
 <!ENTITY malformedURI.title "It adres jildt net">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansearre ynfo: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Jo ferbining is net befeilige">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Avansearre ynfo: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avansearre">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> brûkt ferâldere befeiligingstechnology dy't kwetsber is foar oanfallen. In oanfaller kin ienfâldichwei gegevens ûntdekke wêrfan jo tochten dat dizze feilich wiene.">
-<!ENTITY weakCryptoAdvanced.override "(Net befeilige) <span class='hostname'></span> probearje te laden fia ferâldere befeiliging">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
