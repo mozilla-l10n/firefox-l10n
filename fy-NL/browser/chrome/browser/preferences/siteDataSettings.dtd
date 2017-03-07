@@ -7,3 +7,14 @@
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
 <!ENTITY     usageCol.label                "Unthâld">
+<!ENTITY     searchPlaceHolder             "Sykje">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "Selektearre fuortsmite">
+<!ENTITY     removeSelected.accesskey      "f">
+<!ENTITY     save.label                    "Wizigingen bewarje">
+<!ENTITY     save.accesskey                "W">
+<!ENTITY     cancel.label                  "Annulearje">
+<!ENTITY     cancel.accesskey              "A">
+<!ENTITY     removingDialog.title          "Websitegegevens fuortsmite">
+<!ENTITY     removingDialog.description    "Websitegegevens fuortsmite sil ek cookies fuortsmite. Dit kin jo ôfmelde en offline webynhâld fuortmsite. Binne jo wis dat jo dizze wizigingen dwaan wolle?">
+<!ENTITY     siteTree.label                "De folgjende websitecookies sille fuortsmiten wurde:">
