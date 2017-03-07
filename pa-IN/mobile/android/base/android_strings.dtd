@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ਖੋਜ ਦੇ ਅਤੀਤ ਨੂੰ ਦਿਖਾਓ">
 <!ENTITY pref_import_options "ਇੰਪੋਰਟ ਕਰਨ ਦੀ ਚੋਣਾਂ">
 <!ENTITY pref_import_android_summary "ਅਸਲ ਬਰਾਊਜ਼ਰ ਤੋਂ ਬੁੱਕਮਾਰਕ ਅਤੇ ਅਤੀਤ ਨੂੰ ਇੰਪੋਰਟ ਕਰੋ">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "ਟੈਬਾਂ ਨੂੰ ਖੋਲ੍ਹੋ">
 <!ENTITY pref_private_data_history2 "ਬਰਾਊਜ਼ ਕਰਨ ਦਾ ਅਤੀਤ">
 <!ENTITY pref_private_data_searchHistory "ਖੋਜ ਦਾ ਅਤੀਤ">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ਵਰਤੋਂਕਾਰ-ਨਾਂ">
 <!ENTITY doorhanger_login_edit_password_hint "ਪਾਸਵਰਡ">
 <!ENTITY doorhanger_login_edit_toggle "ਪਾਸਵਰਡ ਨੂੰ ਦਿਖਾਓ">
-<!ENTITY doorhanger_login_edit_toast_error "ਲਾਗਇਨ ਨੂੰ ਸੰਭਾਲਣ ਲਈ ਫੇਲ੍ਹ ਹੈ">
 <!ENTITY doorhanger_login_select_message "&formatS; ਤੋਂ ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਕਰਨਾ ਹੈ?">
 <!ENTITY doorhanger_login_select_toast_copy "ਪਾਸਵਰਡ ਨੂੰ ਕਲਿੱਪਬੋਰਡ ਚ ਕਾਪੀ ਕੀਤਾ">
-<!ENTITY doorhanger_login_select_toast_copy_error "ਪਾਸਵਰਡ ਨੂੰ ਕਾਪੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ">
 <!ENTITY doorhanger_login_select_action_text "ਹੋਰ ਲਾਗਇਨ ਨੂੰ ਚੁਣੋ">
 <!ENTITY doorhanger_login_select_title "ਪਾਸਵਰਡ ਨੂੰ ਇਸ ਤੋਂ ਕਾਪੀ ਕੀਤਾ">
 

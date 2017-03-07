@@ -80,11 +80,10 @@
 <!ENTITY fxaccount_status_more 'ਹੋਰ&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ਡਿਸ-ਕਨੈਕਟ ਕਰੋ&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'ਫਾਇਰਫਾਕਸ ਖਾਤੇ ਨੂੰ ਹਟਾਉਣਾ ਹੈ?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ਤੁਹਾਡੇ ਖਾਤੇ ਨੂੰ ਸਿੰਕ ਕਰਨ ਤੋਂ ਰੋਕੇਗਾ, ਪਰ ਇਸ ਡਿਵਾਈਸ ਲਈ ਤੁਹਾਡੇ ਬਰਾਊਜ਼ਰ ਡਾਟੇ ਨੂੰ ਨਹੀਂ ਹਟਾਏਗਾ।'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'ਫਾਇਰਫਾਕਸ ਖਾਤੇ &formatS; ਨੂੰ ਹਟਾਇਆ'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode 'ਡੀਬੱਗ ਮੋਡ ਨੂੰ ਸਮਰੱਥ ਕਰੋ'>
 
