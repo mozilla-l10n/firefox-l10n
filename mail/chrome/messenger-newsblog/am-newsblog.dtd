@@ -2,23 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Проверка за нови статии на всеки">
-<!ENTITY biffStart.accesskey "П">
-<!ENTITY biffEnd.label "минути">
+<!ENTITY loginAtStartup.label          "Проверка за нови статии при стартиране">
+<!ENTITY loginAtStartup.accesskey      "р">
 
-<!ENTITY loginAtStartup.label "Проверка за нови статии при стартиране"> 
-<!ENTITY loginAtStartup.accesskey "р">
 
-<!ENTITY useQuickMode.label "Стандартно да се показва резюме на статията вместо уеб страницата"> 
-<!ENTITY useQuickMode.accesskey "С">
-
-<!ENTITY manageSubscriptions.label "Управление на абонаменти…"> 
+<!ENTITY manageSubscriptions.label     "Управление на абонаменти…">
 <!ENTITY manageSubscriptions.accesskey "У">
 
-<!ENTITY feedWindowTitle.label "Помощник за абониране към емисия">
-<!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "Блогове и новинарски емисии">
-<!ENTITY feeds.wizardShortName "Емисии">
-<!ENTITY feeds.wizardLongName "Блогове и новинарски емисии">
-<!ENTITY feeds.wizardLongName.accesskey "е">
+<!ENTITY feedWindowTitle.label         "Помощник за абониране към емисия">
+<!ENTITY feeds.accountName             "Блогове и новинарски емисии">
