@@ -8,70 +8,17 @@
 <!ENTITY syncBrand.shortName.label "Lonkoo">
 
 <!-- Main titles. -->
-<!ENTITY sync.app.name.label '&syncBrand.fullName.label;'>
 <!ENTITY sync.title.connect.label 'Lonku ci &syncBrand.shortName.label;'>
-<!ENTITY sync.title.adddevice.label 'Yokk am sàq mu &syncBrand.fullName.label;'>
-<!ENTITY sync.title.pair.label 'Booleek ab jumtukaay'>
 
 <!-- J-PAKE Key Screen -->
 <!ENTITY sync.subtitle.connect.label 'Ngir doxal sa jumtukaay bu bees bi, falal “Jekk-jekkal &syncBrand.shortName.label;” ci jumtukaay bi.'>
-<!ENTITY sync.subtitle.header2.label 'Duggalal wii yoon ci sa jumtukaay'>
-<!ENTITY sync.subtitle.connectlocation2.label 'Falal “&sync.title.pair.label;” ci pàcc &syncBrand.shortName.label; bu jekk-jekkali Firefox yu sa yeneen jumtukaay.'>
 <!ENTITY sync.subtitle.pair.label 'Ngir doxal, falal “booleek ab jumtukaay” ci sa beneen jumtukaay bi.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.pin.oneline.label '...'>
-<!ENTITY sync.link.show.label 'Won ma nan la.'>
-<!ENTITY sync.link.advancedsetup.label 'Jekk-jekkal yu xóot…'>
 <!ENTITY sync.link.nodevice.label 'Yoruma jumtukaay bi ak man…'>
 
-<!-- J-PAKE Waiting Screen -->
-<!ENTITY sync.jpake.subtitle.waiting.label 'Xaarandi beneen jumtukaay bi…'>
-
-<!-- Account Login Screen -->
-<!ENTITY sync.subtitle.account.label 'Duggalal xibaari sàq mu &syncBrand.fullName.label;'>
-<!ENTITY sync.input.username.label 'Turu sàq'>
-<!ENTITY sync.input.password.label 'Baatu-jàll'>
-<!ENTITY sync.input.key.label 'Caabib delloo-na-woon'>
-<!ENTITY sync.checkbox.server.label 'Jëfandikoo beneen joxekaay'>
-<!ENTITY sync.input.server.label 'URL bu joxekaay bi'>
-
-<!-- Setup Fail -->
-<!ENTITY sync.title.fail.label 'Maneesul jekk-jekkal &syncBrand.shortName.label;'>
-<!ENTITY sync.subtitle.fail.label '&syncBrand.fullName.label; manul jokkook joxekaay bi. Ndax bëgg nga jéemaat?'>
-<!ENTITY sync.button.tryagain.label 'Jéemaatal'>
-<!ENTITY sync.button.manual.label 'Jekk-jekkal ak loxo'>
-<!ENTITY sync.subtitle.nointernet.label 'Amul lonkoog internet gu jàppandi.'>
-<!ENTITY sync.subtitle.failaccount.label 'Sosug sàq ci sa jumtukaay àntuwul.'>
-<!ENTITY sync.subtitle.failmultiple.label 'Ndax Firefox yu bari nga samp? Léegi, syncBrand.fullName.label ; benn Firefox rekk la man a samp. Sempil yeneen yi ngir man a jëfandikoo syncBrand.shortName.label;.'>
-
-<!-- Setup Success -->
-<!ENTITY sync.title.success.label 'Samp gi àgg na'>
-<!ENTITY sync.subtitle.success.label1 'Ñoo ngi tàmbali yebbi say njoxe ci ginnaaw. Man nga dem ci Jekk-jekkal ngir saytu sa sàq, walla tàmbali joow ak &brandShortName;.'>
-<!ENTITY sync.settings.label 'Jekk-jekkal'>
-<!ENTITY sync.subtitle.manage.label1 'Sa sàqu &syncBrand.fullName.label; jekk-jekkal nañ ko ba noppi. Man ngaa dem ci Jekk-jekkal ngir saytu sa sàq, walla nga tàmbali &brandShortName;.'>
-
-<!-- Pair Device -->
-<!ENTITY sync.pair.tryagain.label 'Dila ñaan nga jéemaatal.'>
-<!ENTITY sync.pair.connectlocation.label 'Soo bëggee doxal sa jumtukaay bu bees, falal “Jekk-jekkal &syncBrand.shortName.label;” ci jumtukaay bi , te nga fal “Am naa sàq.”'>
-
-<!-- Firefox SyncAdapter Settings Screen -->
-<!ENTITY sync.settings.options.label 'Tànnéef'>
-<!ENTITY sync.summary.pair.label 'Lëkkale beneen jumtukaay ak sa sàqu &syncBrand.shortName.label;'>
-
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.label 'Looy lonk'>
-<!ENTITY sync.configure.engines.sync.my.title.label 'Lonk sa…'>
-<!ENTITY sync.configure.engines.title.bookmarks 'Màndarga-xët'>
 <!ENTITY sync.configure.engines.title.history 'Jaar-jaar'>
 <!ENTITY sync.configure.engines.title.tabs 'Làcc'>
-
-<!-- Common text -->
-<!ENTITY sync.button.cancel.label 'Neenal'>
-<!ENTITY sync.button.connect.label 'Lonk'>
-<!ENTITY sync.button.ok.label 'OK'>
-
-<!-- Account strings -->
-<!ENTITY sync.account.label '&syncBrand.fullName.label; (deprecated)'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -85,112 +32,21 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Làcc'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bànqaasu màndarga-xët'>
-<!ENTITY bookmarks.folder.unfiled.label 'Màndarga-xët yuñ nosul'>
 <!ENTITY bookmarks.folder.desktop.label 'Màndarga-xëti bindwaay'>
 <!ENTITY bookmarks.folder.mobile.label 'Màndarga-xëti wootekaay'>
-<!ENTITY bookmarks.folder.readinglist.label 'Limu njàng'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 
-<!-- Notification strings -->
-<!ENTITY sync.notification.oneaccount.label 'Menn sàqu &syncBrand.fullName.label; rekk la man a jël.'>
-<!ENTITY sync.notification.configure.saved 'Denc nañ say faliit.'>
-
-<!-- Incorrect settings and changing credentials. -->
-<!ENTITY sync.invalidcreds.label 'Turu sàq walla baatu-jàll bu baaxul.'>
-<!ENTITY sync.invalidserver.label 'Duggalal URL joxekaay bu baax'>
-<!ENTITY sync.verifying.label 'Saytu…'>
-<!ENTITY sync.new.recoverykey.status.incorrect 'Caabi ngir delloo-na-woon bu baaxul. Jéemaatal.'>
-
-<!-- Send tab to device. -->
-<!ENTITY sync.title.send.tab.label 'Yónnee koñ bi ci aparey yi'>
-<!ENTITY sync.button.send.label 'Yónnee'>
-<!ENTITY sync.button.set.up.sync.label 'Tabb &syncBrand.shortName.label;'>
-<!ENTITY sync.title.redirect.to.set.up.sync.label 'Taxawal ay &syncBrand.shortName.label; ngir yónnee'>
-<!ENTITY sync.text.redirect.to.set.up.sync.label 'Tabbal &syncBrand.fullName.label; ci sa aparey ngir yonnee ay koñ ci yeneen aparey.'>
-<!ENTITY sync.text.tab.sent.label 'Sa koñ bi yonnee nañu ko!'>
-<!ENTITY sync.text.tab.not.sent.label 'Am tolof tolof bu am bi ñuy yonnee sa koñ.'>
-
 <!-- Firefox Account strings. -->
-
-<!ENTITY fxaccount_full_label 'Firefox Accounts'>
-
-<!ENTITY fxaccount_custom_server_account_title 'Using account on server'>
-<!ENTITY fxaccount_custom_server_sync_title 'Storing Sync data on server'>
-
-<!-- Localization note: these are shown in all screens that query the
-     user for an email address and password. Hide and show are button
-     labels. -->
-<!ENTITY fxaccount_email_hint 'Email'>
-<!ENTITY fxaccount_password_hint 'Password'>
-<!ENTITY fxaccount_password_hide 'Hide'>
-<!ENTITY fxaccount_password_show 'Show'>
 
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Back to browsing'>
 
-<!-- Localization note: the following two strings are interpolated
-     into fxaccount_create_account_policy_text2; see note for that
-     string as well.  Compare fxaccount_status_{linktos,linkprivacy}:
-     these strings are separated to accommodate languages that decline
-     the two uses differently. -->
-<!ENTITY fxaccount_policy_linktos 'Terms of Service'>
-<!ENTITY fxaccount_policy_linkprivacy 'Privacy Notice'>
-
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Welcome to &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_get_started 'Get started'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
 
-<!-- Localization note: the Firefox below should not change with the
-     particular version of Firefox installed (Release, Beta, Aurora,
-     etc).  The account remains a "Firefox Account". -->
-<!ENTITY fxaccount_create_account_header2 'Create a Firefox Account'>
-<!ENTITY fxaccount_create_account_password_length_restriction 'Must be at least 8 characters'>
-<!ENTITY fxaccount_create_account_year_of_birth 'Year of birth'>
-<!-- Localization note: &formatS1; is fxaccount_policy_linktos, &formatS2; is fxaccount_policy_linkprivacy, both hyperlinked. -->
-<!ENTITY fxaccount_create_account_policy_text2 'By proceeding, I agree to the &formatS1; and &formatS2; of Firefox cloud services.'>
-<!ENTITY fxaccount_create_account_button 'Next'>
-<!ENTITY fxaccount_create_account_choose_what_to_sync 'Choose what to sync'>
-<!ENTITY fxaccount_create_account_sign_in_instead 'Already have an account? Sign in'>
-<!ENTITY fxaccount_create_account_1990_or_earlier '1990 or earlier'>
-<!ENTITY fxaccount_create_account_unknown_error 'Could not create account'>
-
-<!ENTITY fxaccount_account_create_not_allowed 'Cannot create account'>
-<!ENTITY fxaccount_account_create_not_allowed_you_must_meet_certain_age_requirements 'You must meet certain age requirements to create an account.'>
-<!ENTITY fxaccount_account_create_not_allowed_learn_more 'Learn more'>
-
-<!ENTITY fxaccount_confirm_account_header 'Confirm your account'>
-<!-- Localization note: &formatS; is the Firefox Account's email address. -->
-<!ENTITY fxaccount_confirm_account_verification_link 'A verification link has been sent to &formatS;'>
-<!ENTITY fxaccount_confirm_account_resend_email 'Resend email'>
-<!ENTITY fxaccount_confirm_account_change_email 'Forget this email address?'>
-<!ENTITY fxaccount_confirm_account_verification_link_sent2 'Verification email sent'>
-<!ENTITY fxaccount_confirm_account_verification_link_not_sent2 'Couldn\&apos;t send verification email'>
-<!ENTITY fxaccount_resend_unlock_code_button_label 'Resend unlock email'>
-<!ENTITY fxaccount_unlock_code_sent 'Account unlock email sent'>
-<!ENTITY fxaccount_unlock_code_not_sent 'Couldn\&apos;t send account unlock email'>
-
-<!ENTITY fxaccount_sign_in_sub_header 'Sign in'>
-<!ENTITY fxaccount_sign_in_button_label 'Sign in'>
-<!ENTITY fxaccount_sign_in_forgot_password 'Forgot password?'>
-<!ENTITY fxaccount_sign_in_create_account_instead 'Create an account'>
-<!ENTITY fxaccount_sign_in_unknown_error 'Could not sign in'>
-
-<!ENTITY fxaccount_account_verified_sub_header 'Account verified'>
-<!ENTITY fxaccount_account_verified_description2 'Your data will begin syncing momentarily.'>
-
-<!ENTITY fxaccount_migration_finished_header 'Upgrade finished'>
-
-<!ENTITY fxaccount_update_credentials_header 'Sign in'>
-<!ENTITY fxaccount_update_credentials_button_label 'Sign in'>
-<!ENTITY fxaccount_update_credentials_unknown_error 'Could not sign in'>
-
-<!ENTITY fxaccount_finish_migrating_header 'Sign in to finish upgrading'>
-<!ENTITY fxaccount_finish_migrating_button_label 'Finish upgrading'>
-<!ENTITY fxaccount_finish_migrating_description 'Upgrading can transfer a lot of data. It\&apos;s best to be on a WiFi network.'>
-
-<!ENTITY fxaccount_status_header2 'Firefox Account'>
 <!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
 <!ENTITY fxaccount_status_auth_server 'Account server'>
 <!ENTITY fxaccount_status_sync_now 'Sync now'>
@@ -213,15 +69,12 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos 'Terms of Service'>
-<!ENTITY fxaccount_status_linkprivacy 'Privacy Notice'>
 <!ENTITY fxaccount_status_more 'More&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Remove Firefox Account?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox Account &formatS; removed.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 
 <!-- Localization note: this is the name shown by the Android system
@@ -249,7 +102,6 @@
 <!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server busy, try again soon'>
 <!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server busy, try again soon'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'There was a problem'>
-<!ENTITY fxaccount_remote_error_COULD_NOT_CONNECT 'Cannot connect to network'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is not connected'>
@@ -261,6 +113,3 @@
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>
-
-<!-- Localization note: the following strings are used in a
-     notification and should be kept as short as possible. -->
