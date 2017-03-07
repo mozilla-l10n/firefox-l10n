@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "На вашому комп’ютері збережено наступні куки:">
 <!ENTITY     cookiename.label               "Ім’я куки">
-<!ENTITY     cookiedomain.label             "Сайт"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "л">
-<!ENTITY     button.removeAllCookies.label "Вилучити все">
-<!ENTITY     button.removeAllCookies.accesskey "В">
+<!ENTITY     cookiedomain.label             "Сайт">
 
 <!ENTITY     props.name.label               "Ім’я:">
 <!ENTITY     props.value.label              "Зміст:">

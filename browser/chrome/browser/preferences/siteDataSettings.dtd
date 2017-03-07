@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Стан">
 <!ENTITY     usageCol.label                "Сховище">
-<!ENTITY     search.label                  "Пошук:">
-<!ENTITY     search.accesskey              "П">
