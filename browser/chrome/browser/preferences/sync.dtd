@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; ynstelle">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "Mei &syncBrand.fullName.label; kinne jo jo skiednis, blêdwizers, wachtwurden en iepen ljepblêden tusken al jo apparaten benaderje.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Bywurkje">
-<!ENTITY resetPass.label              "Werinisjalisearje">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Account beheare">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "Wachtwurd wizigje…">
-<!ENTITY myRecoveryKey.label          "Myn werombringkaai">
-<!ENTITY resetSync2.label             "Sync werinisjalisearje…">
-
-<!ENTITY pairDevice.label             "In apparaat keppelje">
-
-<!ENTITY syncMy.label               "Syngronisearje">
 <!ENTITY engine.bookmarks.label     "Blêdwizers">
 <!ENTITY engine.bookmarks.accesskey "w">
 <!ENTITY engine.tabs.label2         "Iepen ljeplêden">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Apparaatnamme:">
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnamme">
 <!ENTITY changeSyncDeviceName.label "Apparaatnamme wizigje…">
 <!ENTITY changeSyncDeviceName.accesskey "w">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "e">
 <!ENTITY saveChangeSyncDeviceName.label "Bewarje">
 <!ENTITY saveChangeSyncDeviceName.accesskey "B">
-<!ENTITY unlinkDevice.label           "Dit apparaat ûntkeppelje">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tsjinstbetingsten (In)">
-<!ENTITY prefs.ppLink.label         "Privacybelied (In)">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Privacy-opmerking">
-<!ENTITY determiningAcctStatus.label     "Jo accountsteat bepale…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Ferjit dizze e-mail">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "Krij tagong ta jo ljepblêden, blêdwizers, wachtwurden en mear oeral dêr't jo &brandShortName; brûke.">
-<!ENTITY welcome.signIn.label "Oanmelde">
-<!ENTITY welcome.createAccount.label "Account oanmeitsje">
-
-<!ENTITY welcome.useOldSync.label "Brûke jo in âldere ferzje fan Sync?">
 
 <!ENTITY signedOut.caption            "Nim jo web mei jo mei">
 <!ENTITY signedOut.description        "Syngronisearje jo blêdwizers, skiednis, ljepblêden, wachtwurden, add-ons en foarkarren op al jo apparaten.">

@@ -156,13 +156,7 @@ Ping
   NOTE: Trage SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Krij funksjenammen foar fêstrin-stacks
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Rûge gegevens fan fêstrinners toane
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filter (rigels of /regexp/)

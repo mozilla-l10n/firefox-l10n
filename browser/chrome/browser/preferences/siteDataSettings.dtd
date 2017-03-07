@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
 <!ENTITY     usageCol.label                "Unthâld">
-<!ENTITY     search.label                  "Sykje:">
-<!ENTITY     search.accesskey              "S">
