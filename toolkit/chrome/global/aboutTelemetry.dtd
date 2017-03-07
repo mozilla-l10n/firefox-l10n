@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Əlaqənin donması">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  Skalyarlar">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "
@@ -61,6 +62,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "  Histoqram">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Açarlanmış Histogramlar">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Sadə Ölçülər">
 
@@ -78,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Fetch function names for hang stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Show raw data from hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Filtr (sətir və ya /regexp/)">
 

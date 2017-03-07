@@ -31,11 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni yükləyə bilmir.</p>">
 
 <!ENTITY captivePortal.title "Şəbəkəyə daxil ol">
-<!ENTITY captivePortal.longDesc "
-<p>Bu şəbəkə internetə çıxış üçün daxil olmağınızı tələb edə bilər.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Daxil olma səhifəsini aç">
 
 <!ENTITY malformedURI.title "Ünvan səhvdir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
@@ -106,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Təkmilləşmiş məlumat: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Bağlantınız qorumalı deyil">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Təkmilləşmiş məlumat: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Təkmilləşmiş">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> vaxtı keçmiş güvənlik texnologiyasını işlədir və hücumlara qarşı qorumasızdır. Hücum edən sizin güvənilir bildiyiniz məlumatı rahatlıqla ala bilər.">
-<!ENTITY weakCryptoAdvanced.override "(Qorumalı deyil) <span class='hostname'></span> üçün köhnə qoruma ilə yenidən yükləməyi yoxla">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

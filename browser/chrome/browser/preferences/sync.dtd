@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; Quraşdır">
-<!ENTITY setupButton.accesskey      "Q">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bütün cihazlarınızda keçmişinizdən, əlfəcinlərinizdən, parollarınızdan və açıq səhifələrinizdən istifadə etmə imkanı verir.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Yenilə">
-<!ENTITY resetPass.label              "Reset">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Hesabı idarə et">
-<!ENTITY manageAccount.accesskey      "ə">
-<!ENTITY changePassword2.label        "Parolu Dəyiş…">
-<!ENTITY myRecoveryKey.label          "Bərpa açarım">
-<!ENTITY resetSync2.label             "Sinxronlaşdırmanı sıfırla…">
-
-<!ENTITY pairDevice.label             "Cihazları sinxronizasiya et">
-
-<!ENTITY syncMy.label               "Sinxronlaşdırılacaqlar:">
 <!ENTITY engine.bookmarks.label     "Əlfəcinlər">
 <!ENTITY engine.bookmarks.accesskey "c">
 <!ENTITY engine.tabs.label2         "Açıq Vərəqlər">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "Ə">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Cihaz Adı:">
 <!ENTITY fxaSyncDeviceName.label       "Cihaz Adı">
 <!ENTITY changeSyncDeviceName.label "Cihaz adını dəyişdir…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Saxla">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Bu cihazın bağlantısını kəs">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "İstifadə Şərtləri">
-<!ENTITY prefs.ppLink.label         "Məxfilik Siyasəti">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Məxfilik Bildirişi">
-<!ENTITY determiningAcctStatus.label     "Sizin hesabınızın statusu müəyyənləşdirilir...">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Bu e-poçtu yaddan çıxart">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "Harda &brandShortName; işlətsəniz vərəqləriniz, əlfəcinləriniz, parollarınız və s. sizinlə olsun.">
-<!ENTITY welcome.signIn.label "Daxil ol">
-<!ENTITY welcome.createAccount.label "Hesab Aç">
-
-<!ENTITY welcome.useOldSync.label "Sync-in köhnə versiyasından istifadə edirsiniz?">
 
 <!ENTITY signedOut.caption            "Web-inizi özünüzlə gəzdirin">
 <!ENTITY signedOut.description        "Əlfəçin, keçmiş, vərəq, parol, əlavə və nizamlamalarınızı bütün cihazlarınız arasında sinxronlaşdırın.">
