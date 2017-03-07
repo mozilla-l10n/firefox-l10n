@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Zobrazovať históriu vyhľadávania">
 <!ENTITY pref_import_options "Možnosti importu">
 <!ENTITY pref_import_android_summary "Import záložiek a histórie z natívneho prehliadača">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Otvorené karty">
 <!ENTITY pref_private_data_history2 "História prehliadania">
 <!ENTITY pref_private_data_searchHistory "História vyhľadávania">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Používateľské meno">
 <!ENTITY doorhanger_login_edit_password_hint "Heslo">
 <!ENTITY doorhanger_login_edit_toggle "Zobraziť heslo">
-<!ENTITY doorhanger_login_edit_toast_error "Prihlasovacie údaje sa nepodarilo uložiť">
 <!ENTITY doorhanger_login_select_message "Kopírovať heslo z &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Heslo bolo skopírované do schránky">
-<!ENTITY doorhanger_login_select_toast_copy_error "Heslo nebolo možné skopírovať">
 <!ENTITY doorhanger_login_select_action_text "Zvoliť iné prihlasovacie údaje">
 <!ENTITY doorhanger_login_select_title "Skopírovať heslo z">
 
