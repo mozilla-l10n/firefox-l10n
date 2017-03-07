@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Pytansku historiju pokazać">
 <!ENTITY pref_import_options "Importowanske nastajenja">
 <!ENTITY pref_import_android_summary "Importujće zapołožki a historiju z prěnjotneho wobhladowaka">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Rajtarki wočinić">
 <!ENTITY pref_private_data_history2 "Přehladowanska historija">
 <!ENTITY pref_private_data_searchHistory "Pytanska historija">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Wužiwarske mjeno">
 <!ENTITY doorhanger_login_edit_password_hint "Hesło">
 <!ENTITY doorhanger_login_edit_toggle "Hesło pokazać">
-<!ENTITY doorhanger_login_edit_toast_error "Přizjewjenje njeda so składować">
 <!ENTITY doorhanger_login_select_message "Hesło z &formatS; kopěrować?">
 <!ENTITY doorhanger_login_select_toast_copy "Hesło je so do mjezyskłada kopěrowało">
-<!ENTITY doorhanger_login_select_toast_copy_error "Hesło njeda so kopěrować">
 <!ENTITY doorhanger_login_select_action_text "Druhe přizjewjenje wubrać">
 <!ENTITY doorhanger_login_select_title "Hesło kopěrować z">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
