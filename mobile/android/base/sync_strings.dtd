@@ -80,11 +80,10 @@
 <!ENTITY fxaccount_status_more 'Lanjutan &ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Putuskan sambungan &ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Alih keluar Akaun Firefox?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; akan berhenti sync akaun anda, tetapi tidak akan menghapus data pelayaran anda pada peranti ini.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Akaun Firefox &formatS; dialih keluar.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode 'Dayakan Mod Nyahpepijat'>
 

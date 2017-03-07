@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Papar sejarah carian">
 <!ENTITY pref_import_options "Import pilihan">
 <!ENTITY pref_import_android_summary "Import tandabuku dan sejarah dari pelayar terbina dalam">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Buka tab">
 <!ENTITY pref_private_data_history2 "Sejarah pelayaran">
 <!ENTITY pref_private_data_searchHistory "Sejarah carian">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nama pengguna">
 <!ENTITY doorhanger_login_edit_password_hint "Kata laluan">
 <!ENTITY doorhanger_login_edit_toggle "Papar kata laluan">
-<!ENTITY doorhanger_login_edit_toast_error "Gagal menyimpan log masuk">
 <!ENTITY doorhanger_login_select_message "Salin kata laluan dari &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Kata laluan disalin ke klipbod">
-<!ENTITY doorhanger_login_select_toast_copy_error "Tidak dapat menyalin kata laluan">
 <!ENTITY doorhanger_login_select_action_text "Pilih log masuk yang lain">
 <!ENTITY doorhanger_login_select_title "Salin kata laluan dari">
 
