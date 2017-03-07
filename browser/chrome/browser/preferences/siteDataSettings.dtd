@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Server">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložiště">
-<!ENTITY     search.label                  "Hledat:">
-<!ENTITY     search.accesskey              "H">
