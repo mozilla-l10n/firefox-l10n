@@ -31,9 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; kan av någon anledning inte visa sidan.</p>">
 
 <!ENTITY captivePortal.title "Logga in till nätverk">
-<!ENTITY captivePortal.longDesc "<p>Detta nätverk kan kräva att du loggar in för att få tillgång till internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Öppna Login Sida">
 
 <!ENTITY malformedURI.title "Adressen är inte giltig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webbadresser skrivs vanligen som <strong>http://www.example.com/</strong></li> <li>Kontrollera att du använder framåtlutande snedstreck (dvs <strong>/</strong>).</li> </ul>">
@@ -104,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avancerad info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Din anslutning är inte säker">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Avancerad info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avancerad">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> använder en säkerhetsteknologi som är föråldrad och sårbar för angrepp. En angripare kan lätt avslöja information som du trodde var säker.">
-<!ENTITY weakCryptoAdvanced.override "(Inte säker) Prova att ladda <span class='hostname'></span> med hjälp av föråldrad säkerhet">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

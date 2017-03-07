@@ -84,9 +84,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  OBS: Långsam SQL-avlusning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Hämta funktionsnamn för hängda stackar">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Visa rådata från hängningar">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (strängar eller /regexp/)">
 
