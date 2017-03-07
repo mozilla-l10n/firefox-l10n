@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Ρύθμιση του &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "θ">
-<!ENTITY weaveDesc.label            "Το &syncBrand.fullName.label; σάς παρέχει πρόσβαση στο ιστορικό, τους σελιδοδείκτες, τους κωδικούς πρόσβασης και τις ανοικτές σας καρτέλες σε όλες τις συσκευές σας.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Ενημέρωση">
-<!ENTITY resetPass.label              "Επαναφορά">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Διαχείριση λογαριασμού">
-<!ENTITY manageAccount.accesskey      "χ">
-<!ENTITY changePassword2.label        "Αλλαγή κωδικού πρόσβασης…">
-<!ENTITY myRecoveryKey.label          "Το κλειδί ανάκτησής μου">
-<!ENTITY resetSync2.label             "Επαναφορά Sync…">
-
-<!ENTITY pairDevice.label             "Σύνδεση συσκευής">
-
-<!ENTITY syncMy.label               "Συγχρονισμός των εξής δεδομένων:">
 <!ENTITY engine.bookmarks.label     "Σελιδοδείκτες">
 <!ENTITY engine.bookmarks.accesskey "δ">
 <!ENTITY engine.tabs.label2         "Άνοιγμα καρτελών">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "θ">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Όνομα συσκευής:">
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
 <!ENTITY changeSyncDeviceName.label "Μετονομασία συσκευής…">
 <!ENTITY changeSyncDeviceName.accesskey "μ">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "κ">
 <!ENTITY saveChangeSyncDeviceName.label "Αποθήκευση">
 <!ENTITY saveChangeSyncDeviceName.accesskey "θ">
-<!ENTITY unlinkDevice.label           "Αποσύνδεση συσκευής">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Όροι Υπηρεσίας">
-<!ENTITY prefs.ppLink.label         "Πολιτική Απορρήτου">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Σημείωση Απορρήτου">
-<!ENTITY determiningAcctStatus.label     "Καθορισμός κατάστασης λογαριασμού…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "Ε">
 <!ENTITY forget.label                "Διαγραφή email">
 <!ENTITY forget.accesskey            "Γ">
-
-<!ENTITY welcome.description "Αποκτήστε πρόσβαση στις καρτέλες, τους σελιδοδείκτες, τους κωδικούς πρόσβασης, καθώς και σε πολλά άλλα, όποτε χρησιμοποιείτε το &brandShortName;.">
-<!ENTITY welcome.signIn.label "Είσοδος">
-<!ENTITY welcome.createAccount.label "Δημιουργία λογαριασμού">
-
-<!ENTITY welcome.useOldSync.label "Χρησιμοποιείτε μια παλαιότερη έκδοση του Sync;">
 
 <!ENTITY signedOut.caption            "Πάρτε μαζί σας το Διαδίκτυο">
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">

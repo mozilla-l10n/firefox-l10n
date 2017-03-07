@@ -128,9 +128,6 @@ Ping
 
 
 
-<!ENTITY aboutTelemetry.hideSymbols '
-  Εμφάνιση ακατέργαστων δεδομένων από τα "κολλήματα"
-'>
 
 <!ENTITY aboutTelemetry.filterText "
   Φίλτρο (συμβολοσειρές ή /regexp/)

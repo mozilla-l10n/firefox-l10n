@@ -52,11 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Σύνδεση στο δίκτυο">
-<!ENTITY captivePortal.longDesc "
-<p>Αυτό το δίκτυο ενδέχεται να σάς ζητήσει να συνδεθείτε για πρόσβαση στο διαδίκτυο.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Άνοιγμα σελίδας σύνδεσης">
 
 <!ENTITY malformedURI.title "Η διεύθυνση δεν είναι έγκυρη">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Πληροφορίες για προχωρημένους: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Η σύνδεσή σας δεν είναι ασφαλής">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Πληροφορίες για προχωρημένους: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Για προχωρημένους">
-<!ENTITY weakCryptoAdvanced.longDesc "Το <span class='hostname'></span> χρησιμοποιεί τεχνολογία ασφάλειας παρωχημένη και ευάλωτη σε επίθεση. Ένας εισβολέας θα μπορούσε εύκολα να αποκαλύψει πληροφορίες που θεωρείτε ασφαλείς.">
-<!ENTITY weakCryptoAdvanced.override "(Μη ασφαλές) Προσπάθεια φόρτωσης του <span class='hostname'></span> που χρησιμοποιεί παρωχημένη ασφάλεια">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

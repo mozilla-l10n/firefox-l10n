@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Τα ακόλουθα cookies είναι αποθηκευμένα στον υπολογιστή σας:">
 <!ENTITY     cookiename.label               "Όνομα cookie">
-<!ENTITY     cookiedomain.label             "Ιστοσελίδα"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "Α">
-<!ENTITY     button.removeAllCookies.label "Απομάκρυνση όλων">
-<!ENTITY     button.removeAllCookies.accesskey "ο">
+<!ENTITY     cookiedomain.label             "Ιστοσελίδα">
 
 <!ENTITY     props.name.label               "Όνομα:">
 <!ENTITY     props.value.label              "Περιεχόμενο:">

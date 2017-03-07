@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Συνδεθείτε για να συγχρονίσετε τις καρτέλες, τους σελιδοδείκτες, τους κωδικούς πρόσβασής σας &amp; πολλά άλλα.">
 <!ENTITY aboutAccountsConfig.startButton.label "Ξεκινήστε">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Χρησιμοποιείτε μια παλαιότερη έκδοση του Sync;">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY aboutAccounts.noConnection.title "Καμία σύνδεση">
 <!ENTITY aboutAccounts.noConnection.description "Πρέπει να έχετε πρόσβαση στο διαδίκτυο για να συνδεθείτε.">
