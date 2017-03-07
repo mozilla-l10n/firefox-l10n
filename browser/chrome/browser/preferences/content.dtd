@@ -52,7 +52,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Dịch bởi">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Nội dung có bảo vệ DRM">
 
 <!ENTITY  playDRMContent.label         "Phát nội dung có bảo vệ DRM">
 <!ENTITY  playDRMContent.accesskey     "P">

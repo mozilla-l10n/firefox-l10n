@@ -56,9 +56,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "   GHI CHÚ: Trình gỡ rối SQL chậm đã bật. Chuỗi SQL Đầy đủ có thể hiện ở dưới nhưng chúng không được gửi cho Telemetry. ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "   Lấy tên hàm cho stack treo ">
 
-<!ENTITY aboutTelemetry.hideSymbols "   Hiện dữ liệu thô từ các lần treo ">
 
 <!ENTITY aboutTelemetry.filterText "  Bộ lọc (chuỗi bình thường hoặc /regexp/)">
 

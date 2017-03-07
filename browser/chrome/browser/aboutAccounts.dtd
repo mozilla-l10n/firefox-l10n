@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Đăng nhập để đồng bộ các thẻ, trang đánh dấu, mật khẩu và các phần khác.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bắt đầu">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Bạn đang dùng bản Sync cũ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Tùy chỉnh đồng bộ">
 
 
