@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "نوافذ متعددة السيرورات">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "الوضع الآمن">
 
 <!ENTITY aboutSupport.showDir.label "افتح المجلد">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "انسخ البيانات الخام إلى الحافظة">
 
 <!ENTITY aboutSupport.sandboxTitle "العزل">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "جرّب الوضع الآمن">
 <!ENTITY aboutSupport.restartInSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">
