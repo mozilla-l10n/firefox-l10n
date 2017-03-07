@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproses-finsters">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-kaai">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-lokaasjetsjinstkaai">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Feilige modus">
 
 <!ENTITY aboutSupport.showDir.label "Map iepenje">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Rûge gegevens nei klamboerd kopiearje">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Wegere systeemoanfragen">
+<!ENTITY aboutSupport.sandboxSyscallIndex "">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekonden lyn">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Prosestype">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguminten">
 
 <!ENTITY aboutSupport.safeModeTitle "Probearje de feilige modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Werstart mei útskeakele add-ons…">
