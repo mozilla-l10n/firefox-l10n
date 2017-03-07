@@ -141,13 +141,7 @@ Ping
   Opomba: Vključeno je razhroščevanje počasnega SQL. Spodaj se lahko pojavijo celotni nizi SQL, vendar ne bodo poslani telemetriji.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Zbiraj imena funkcij za sklade sesutij
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Prikaži neobdelane podatke sesutij
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtriraj (nizi ali /regexp/)

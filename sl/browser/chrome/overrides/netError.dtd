@@ -51,9 +51,7 @@
 ">
 
 <!ENTITY captivePortal.title "Prijavite se v omrežje">
-<!ENTITY captivePortal.longDesc "<p>To omrežje morda zahteva prijavo za uporabo interneta.</p>">
 
-<!ENTITY openPortalLoginPage.label "Odpri stran za prijavo">
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "
@@ -182,14 +180,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredni podatki: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Vaša povezava ni varna">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Napredni podatki: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Napredno">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> uporablja varnostno tehnologijo, ki je zastarela in ranljiva za napade. Napadalec lahko zlahka razkrije podatke, ki naj bi bili zaščiteni.">
-<!ENTITY weakCryptoAdvanced.override "(Ni varno) Naloži <span class='hostname'></span> z uporabo zastarele varnostne tehnologije">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

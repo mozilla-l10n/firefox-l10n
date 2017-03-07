@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     usageCol.label                "Shramba">
-<!ENTITY     search.label                  "Išči:">
-<!ENTITY     search.accesskey              "I">
