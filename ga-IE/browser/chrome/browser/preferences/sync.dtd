@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Socraigh &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "Le &syncBrand.fullName.label; is féidir leat do stair, leabharmharcanna, focail fhaire agus cluaisíní a rochtain ar gach gléas atá agat.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Nuashonrú">
-<!ENTITY resetPass.label              "Bánaigh">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Bainistigh mo Chuntas">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "Athraigh an Focal Faire…">
-<!ENTITY myRecoveryKey.label          "M'Eochair Athshlánaithe">
-<!ENTITY resetSync2.label             "Athshocraigh Sync…">
-
-<!ENTITY pairDevice.label             "Ceangail Gléas">
-
-<!ENTITY syncMy.label               "Sioncronaigh Mo Chuid">
 <!ENTITY engine.bookmarks.label     "Leabharmharcanna">
 <!ENTITY engine.bookmarks.accesskey "L">
 <!ENTITY engine.tabs.label2         "Cluaisíní Oscailte">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "B">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Ainm an Ghléis:">
 <!ENTITY fxaSyncDeviceName.label       "Ainm an Ghléis">
 <!ENTITY changeSyncDeviceName.label "Athraigh Ainm an Ghléis…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "g">
 <!ENTITY saveChangeSyncDeviceName.label "Sábháil">
 <!ENTITY saveChangeSyncDeviceName.accesskey "b">
-<!ENTITY unlinkDevice.label           "Dínasc an Gléas Seo">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Téarmaí Seirbhíse">
-<!ENTITY prefs.ppLink.label         "Polasaí Príobháideachta">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Fógra Príobháideachais">
-<!ENTITY determiningAcctStatus.label     "Stádas do chuntais á dhéanamh amach…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Déan Dearmad ar an Seoladh Ríomhphoist seo">
 <!ENTITY forget.accesskey            "e">
 
-<!ENTITY welcome.description "Is féidir teacht ar do chuid cluaisíní, leabharmharcanna, focal faire, agus araile cibé áit a n-úsáideann tú &brandShortName;.">
-<!ENTITY welcome.signIn.label "Logáil Isteach">
-<!ENTITY welcome.createAccount.label "Cruthaigh Cuntas">
-
-<!ENTITY welcome.useOldSync.label "An bhfuil seanleagan de Sync agat?">
-
-<!ENTITY signedOut.caption            "Beir do Ghréasán féin leat">
 <!ENTITY signedOut.description        "Siocrónaigh do chuid leabharmharcanna, stair, cluaisíní, focail fhaire, breiseáin, agus sainroghanna ar do ghléasanna go léir.">
 <!ENTITY signedOut.accountBox.title   "Ceangail le &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Cruthaigh Cuntas">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Logáil Isteach">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sioncronaigh trasna gach gléas">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
