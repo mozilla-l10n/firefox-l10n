@@ -31,11 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; មិន​អាច​ផ្ទុក​ទំព័រ​នេះ​បាន​ទេ ពីព្រោះ​តែ​ហេតុផល​មួយ​ចំនួន ។</p>">
 
 <!ENTITY captivePortal.title "ចូល​បណ្ដាញ">
-<!ENTITY captivePortal.longDesc "
-<p>បណ្ដាញ​នេះ​អាច​តម្រូវ​ឲ្យ​អ្នក​ចូល​ដើម្បី​ប្រើ​អ៊ីនធឺណិត។</p>
-">
 
-<!ENTITY openPortalLoginPage.label "បើក​ទំព័រ​ចូល">
 
 <!ENTITY malformedURI.title "អាសយដ្ឋាន​មិនត្រឹមត្រូវ">
 <!ENTITY malformedURI.longDesc "<ul> <li>ជាទូទៅ អាសយដ្ឋាន​បណ្ដាញ​ត្រូវ​បាន​សរសេរ​ដូចនេះ <strong>http://www.example.com/</strong></li> <li>សូម​ប្រាកដ​ថា អ្នក​កំពុង​តែ​ប្រើ​សញ្ញា (/) (ឧ. <strong>/</strong>)។</li> </ul>">
@@ -106,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់៖ SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "ការ​ត​ភ្ជាប់​របស់​អ្នក​មិន​មាន​សុវត្ថិភាពឡើយ​">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ព័ត៌មាន​កម្រិត​ខ្ពស់​: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "កម្រិត​ខ្ពស់">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ប្រើប្រាស់​បច្ចេកវិទ្យា​ដែល​ហួស​សម័យ​ និង​ងាយ​រង​គ្រោះ​ពី​ការ​វាយ​ប្រហារ​នានា។ អ្នក​វាយ​ប្រហារ​អាច​ធ្វើ​ឲ្យ​ព័ត៌មាន​ដែល​អ្នក​គិត​ថា​មាន​សុវត្ថិភាពហើយ លេច​ចេញ​មក​បាន​យ៉ាង​ងាយ។">
-<!ENTITY weakCryptoAdvanced.override "(អសុវត្ថិភាព) ព្យាយាម​ផ្ទុក <span class='hostname'></span> ដោយ​ប្រើ​ប្រព័ន្ធ​សុវត្ថិភាព​ដែល​ហួស​សម័យ">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

@@ -49,9 +49,12 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Thread Hangs">
 
 
+
+
 <!ENTITY aboutTelemetry.histogramsSection "   គំនូស​តាង​ជា​របារ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "   រង្វាស់​​សាមញ្ញ">
 
@@ -68,9 +71,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "   ចំណាំ ៖ ការ​បំបាត់​កំហុស SQL ត្រូវ​បាន​បើក ។ ឃ្លា SQL ពេញ​លេញ​អាច​ត្រូវ​បាន​បង្ហាញ​ខាងក្រោម ប៉ុន្តែ​វា​នឹង​មិន​ត្រូវ​បាន​ដាក់​ស្នើ​ចំពោះ Telemetry ឡើយ ។">
 
-<!ENTITY aboutTelemetry.fetchSymbols "   ទៅ​ប្រមូល​យក​ឈ្មោះ​មុខងារ​សម្រាប់​បណ្ដុំ​ឯកសារ​ដែល​បាន​រង់ចាំ">
 
-<!ENTITY aboutTelemetry.hideSymbols "   បង្ហាញ​ទិន្នន័យ​ដើម​​ពី​​បណ្ដុំ​ឯកសារ​ដែល​បាន​រង់ចាំ">
 
 <!ENTITY aboutTelemetry.filterText "  តម្រង (strings or /regexp/)">
 
