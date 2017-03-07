@@ -52,7 +52,9 @@
 ">
 
 <!ENTITY captivePortal.title "Log masuk ke rangkaian">
+<!ENTITY captivePortal.longDesc2 "<p>Anda perlu log masuk ke rangkaian ini sebelum anda boleh mengakses Internet.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Buka Halaman Log Masuk Rangkaian">
 
 <!ENTITY malformedURI.title "Alamat tidak sah">
 <!ENTITY malformedURI.longDesc "

@@ -15,3 +15,6 @@
 <!ENTITY     save.accesskey                "i">
 <!ENTITY     cancel.label                  "Batal">
 <!ENTITY     cancel.accesskey              "B">
+<!ENTITY     removingDialog.title          "Mengalihkeluar Data Laman">
+<!ENTITY     removingDialog.description    "Mengalihkeluar data laman juga akan memadam kuki. Ini boleh menyebabkan anda log keluar daripada laman web dan membuang kandungan web luar talian. Anda pasti mahu membuat perubahan?">
+<!ENTITY     siteTree.label                "Kuki laman web berikut akan dialihkeluar:">
