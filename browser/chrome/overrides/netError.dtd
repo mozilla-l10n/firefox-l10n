@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Villa við að hlaða inn síðu">
 <!ENTITY retry.label "Reyna aftur">
 <!ENTITY returnToPreviousPage.label "Til baka">
-<!ENTITY advanced.label "Ítarlegt">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
 <!ENTITY captivePortal.title "Innskráning á net">
-<!ENTITY captivePortal.longDesc "<p>Á þessu netsvæði gætirðu þurft að skrá þig inn á Internetið.</p>">
 
-<!ENTITY openPortalLoginPage.label "Opna innskráningarsíðu">
+
 
 <!ENTITY malformedURI.title "Veffang ekki löglegt">
 <!ENTITY malformedURI.longDesc "<ul> <li>Veffang er venjulega skrifað sem <strong>http://www.example.com/</strong></li> <li>Vertu viss um að þú sért að slá inn skástrik (þ.e. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Tenging er ekki örugg">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Ítarlegar upplýsingar: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Ítarlegt">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> notar öryggi sem er úrelt og er ekki öruggt. Árásaraðili gæti auðveldlega fengið aðgang að upplýsingum sem þú heldur að séu öruggar.">
-<!ENTITY weakCryptoAdvanced.override "(Ekki öruggt) Prófa að hlaða inn <span class='hostname'></span> á óöruggan hátt">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

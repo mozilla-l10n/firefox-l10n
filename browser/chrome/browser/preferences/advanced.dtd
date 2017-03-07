@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 <!ENTITY telemetryDesc.label             "Deilir afköstum, notkun, vélbúnaðarupplýsingum og sérsniði vafra með &vendorShortName; svo hægt sé að betrumbæta &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Deila öðrum gögnum (t.d., Fjarmælingum)">
-<!ENTITY enableTelemetryData.accesskey   "F">
+
+
 <!ENTITY telemetryLearnMore.label        "Fræðast meira">
 
 <!ENTITY crashReporterDesc2.label         "Hrunskýrslur hjálpa &vendorShortName; að laga vandamál og gera vafrann betri og öruggari">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Uppfærslur">
 
-<!ENTITY updateApplication.label         "&brandShortName; uppfærslur">
 <!ENTITY updateAuto1.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Uppfæra sjálfvirkt">
 <!ENTITY enableSearchUpdate.label        "Leitarvélar">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
