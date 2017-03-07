@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ga'i ventana 'iaj sun">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Hua ran yi'í man">
 
 <!ENTITY aboutSupport.showDir.label "Na'ni' sa ma sa'a">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nachrun' datos riña portapapeles">
 
 <!ENTITY aboutSupport.sandboxTitle "Sa chruu">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Garahue' modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Nayi'í ñun' nga nej sa nitaj si 'iaj sun">

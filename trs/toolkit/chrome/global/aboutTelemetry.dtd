@@ -78,9 +78,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Nana'ui' si yugui sa 'iaj sun nga sa naniko'o">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Digun' sa nu ga'ue gi'iaj sun">
 
 <!ENTITY aboutTelemetry.filterText "  Gatu' (cadenas o /regexp/)">
 
