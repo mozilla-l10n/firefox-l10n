@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "사이트">
 <!ENTITY     statusCol.label               "상태">
 <!ENTITY     usageCol.label                "저장소">
-<!ENTITY     search.label                  "검색:">
-<!ENTITY     search.accesskey              "S">
