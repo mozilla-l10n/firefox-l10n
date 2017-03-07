@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesowe wokna">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Wěsty modus">
 
 <!ENTITY aboutSupport.showDir.label "Zarědnik wócyniś">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Gropne daty do mjazywótkłada kopěrowaś">
 
 <!ENTITY aboutSupport.sandboxTitle "Pěskowy kašćik">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Wěsty modus wopytaś">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ze znjemóžnjonymi dodankami znowego startowaś…">

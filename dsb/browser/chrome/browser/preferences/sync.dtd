@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; konfigurěrowaś">
-<!ENTITY setupButton.accesskey      "k">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dawa wam pśistup na wašu historiju, waše cytańske znamjenja, waše gronidła a waše wócynjone rejtarki na wšych wašych rědach.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Aktualizěrowaś">
-<!ENTITY resetPass.label              "Slědk stajiś">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Konto zastojaś">
-<!ENTITY manageAccount.accesskey      "K">
-<!ENTITY changePassword2.label        "Gronidło změniś…">
-<!ENTITY myRecoveryKey.label          "Mój wótnowjeński kluc">
-<!ENTITY resetSync2.label             "Synchronizaciju slědk stajiś…">
-
-<!ENTITY pairDevice.label             "Rěd zwězaś">
-
-<!ENTITY syncMy.label               "Synchronizěrowaś">
 <!ENTITY engine.bookmarks.label     "Cytańske znamjenja">
 <!ENTITY engine.bookmarks.accesskey "C">
 <!ENTITY engine.tabs.label2         "Wócynjone rejtarki">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "D">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Mě rěda:">
 <!ENTITY fxaSyncDeviceName.label       "Mě rěda">
 <!ENTITY changeSyncDeviceName.label "Mě rěda změniś…">
 <!ENTITY changeSyncDeviceName.accesskey "z">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Składowaś">
 <!ENTITY saveChangeSyncDeviceName.accesskey "d">
-<!ENTITY unlinkDevice.label           "Zwisk z toś tym rědom źěliś">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Słužbne wuměnjenja">
-<!ENTITY prefs.ppLink.label         "Pšawidła priwatnosći">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Powěźeńka priwatnosći">
-<!ENTITY determiningAcctStatus.label     "Waš kontowy status se zwěsćijo…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Toś tu e-mail zabyś">
 <!ENTITY forget.accesskey            "b">
 
-<!ENTITY welcome.description "Mějśo pśistup na swóje rejtarki, cytańske znamjenja, gronidła a wěcej, źožkuli &brandShortName; wužywaśo.">
-<!ENTITY welcome.signIn.label "Pśizjawiś">
-<!ENTITY welcome.createAccount.label "Konto załožyś">
-
-<!ENTITY welcome.useOldSync.label "Wužywaśo staršu wersiju programa Sync?">
-
-<!ENTITY signedOut.caption            "Wzejśo swój web sobu">
 <!ENTITY signedOut.description        "Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.">
 <!ENTITY signedOut.accountBox.title   "Z &syncBrand.fxAccount.label; zwězaś">
-<!ENTITY signedOut.accountBox.create  "Konto załožyś">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "z">
-<!ENTITY signedOut.accountBox.signin  "Pśizjawiś">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
-<!ENTITY signedIn.engines.label       "Mjazy wšymi rědami synchronizěrowaś">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
