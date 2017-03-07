@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "കൂടുതല്‍&ellipsis;">
 <!ENTITY fxaccount_remove_account "വിച്ഛേദിക്കൂ&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "ഫയര്‍ഫോക്സ് അക്കൌണ്ട് നീക്കം ചെയ്യണമോ?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; താങ്കളുടെ അക്കൗണ്ടുമായി സിന്‍ക് ചെയ്യുന്നത് നിലയ്ക്കും, പക്ഷെ ഈ ഡിവൈസിലുള്ള താങ്കളുടെ ബ്രൗസിങ്ങ് വിവരങ്ങള്‍ വെട്ടി നീക്കില്ല.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "&formatS; ഫയര്‍ഫോക്സ് അക്കൗണ്ട് കളഞ്ഞു.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "ഡീബഗ് മോഡ് സജ്ജമാക്കൂ">
 <!-- Localization note: this is the name shown by the Android system
