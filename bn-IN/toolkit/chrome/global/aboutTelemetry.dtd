@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "থ্রেড হ্যাং">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "  স্কেলারস">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "
@@ -60,6 +61,7 @@
 <!ENTITY aboutTelemetry.histogramsSection "স্তম্ভচিত্র">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  উদ্দীপিত হিস্টোগ্রামসমূহ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "সরল মাপ">
 
@@ -77,9 +79,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "উল্লেখ্য: স্লো এসকিউএল ডিবাগিং সক্রিয় করা হয়. সম্পূর্ণ এসকিউএল স্ট্রিং নিচে দেখানো হতে পারে কিন্তু তাদের দ্বারা টেলিমেট্রিতে দাখিল করা হইনি.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "Hang stacks জন্য ফাংশন নাম গ্রহণ করা হবে">
 
-<!ENTITY aboutTelemetry.hideSymbols "hangs থেকে কাঁচা ডেটা দেখান">
 
 <!ENTITY aboutTelemetry.filterText "ফিল্টার (স্ট্রিং অথবা /regexp/)">
 

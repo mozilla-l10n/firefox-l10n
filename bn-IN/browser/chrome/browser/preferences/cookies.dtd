@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "নিম্নলিখিত কুকিগুলি আপনার কম্পিউটারের মধ্যে সংরক্ষিত রয়েছে:">
 <!ENTITY     cookiename.label               "কুকির নাম">
-<!ENTITY     cookiedomain.label             "সাইট"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "সমস্ত অপসারণ">
-<!ENTITY     button.removeAllCookies.accesskey "A">
+<!ENTITY     cookiedomain.label             "সাইট">
 
 <!ENTITY     props.name.label               "নাম:">
 <!ENTITY     props.value.label              "বিষয়বস্তু:">
