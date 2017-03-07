@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების &amp; მეტის სინქრონიზაციისთვის.">
 <!ENTITY aboutAccountsConfig.startButton.label "დაიწყეთ">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Sync-ის ძველ ვერსიას იყენებთ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY aboutAccounts.noConnection.title "კავშირი არაა">
 <!ENTITY aboutAccounts.noConnection.description "შესასვლელად საჭიროა ინტერნეთთან კავშირი.">

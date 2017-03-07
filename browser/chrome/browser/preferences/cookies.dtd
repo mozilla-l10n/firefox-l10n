@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "თქვენს კომპიუტერში ინახება შემდეგი ფუნთუშები:">
 <!ENTITY     cookiename.label               "ფუნთუშის სახელი">
-<!ENTITY     cookiedomain.label             "საიტი"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "ა">
-<!ENTITY     button.removeAllCookies.label "ყველას ამოღება">
-<!ENTITY     button.removeAllCookies.accesskey "ყ">
+<!ENTITY     cookiedomain.label             "საიტი">
 
 <!ENTITY     props.name.label               "სახელი:">
 <!ENTITY     props.value.label              "შიგთავსი:">

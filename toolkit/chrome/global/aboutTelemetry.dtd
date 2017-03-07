@@ -94,9 +94,11 @@
   ნაკადის გაშეშებები
 ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   სკალარები
 ">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "
   ჰისტოგრამები
@@ -105,6 +107,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   გასაღებებიანი ჰისტოგრამები
 ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   მარტივი განსაზღვრებები
@@ -136,13 +139,7 @@
 <!ENTITY aboutTelemetry.fullSqlWarning "
   შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნებიან ტელემეტრიას.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  გაშეშებული სტეკებისთვის ფუნქციის სახელების გადმოტანა
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  გაშეშებების ნედლი მონაცემების ჩვენება
-">
 
 <!ENTITY aboutTelemetry.filterText "
   ფილტრი (სტრიქონები ან /regexp/)
