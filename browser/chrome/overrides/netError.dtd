@@ -31,7 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
 
 <!ENTITY captivePortal.title "Ağa giriş yap">
+<!ENTITY captivePortal.longDesc2 "<p>İnternete erişebilmek için önce bu ağa giriş yapmalısınız.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Ağa giriş sayfasını aç">
 
 <!ENTITY malformedURI.title "Adres geçerli değil">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li> <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li> </ul>">
