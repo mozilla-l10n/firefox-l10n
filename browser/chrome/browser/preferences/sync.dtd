@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; అమర్పు">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "మీ పరికరాలన్నింటి లోని చరిత్రను, ఇష్టాంశాలను, సంకేతపదాలను, తెరిచివున్న ట్యాబులను మీరు చూడడానికి &syncBrand.fullName.label; వీలుకల్పిస్తుంది.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "తాజాకరించు">
-<!ENTITY resetPass.label              "పునరుద్ధరించు">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "ఖాతా నిర్వహణ">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "సంకేతపదం మార్చు…">
-<!ENTITY myRecoveryKey.label          "నా రికవరీ కీ">
-<!ENTITY resetSync2.label             "Syncని పునరుద్ధరించు…">
-
-<!ENTITY pairDevice.label             "ఒక పరికరాన్ని జోడీచేయి">
-
-<!ENTITY syncMy.label               "వీటిని సింక్‌చేయి">
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశాలు">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "ట్యాబులను తెరువుము">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "పరికరం పేరు:">
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
 <!ENTITY changeSyncDeviceName.label "పరికరం పేరు మార్చు…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "భద్రపరచు">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "ఈ పరికరం లింకుతీయి">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "సేవా నిబంధనలు">
-<!ENTITY prefs.ppLink.label         "గోప్యతా విధానం">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "గోప్యతా నోటీసు">
-<!ENTITY determiningAcctStatus.label     "మీ ఖాతా స్థితిని నిర్ధారిస్తున్నాం…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "మీరు &brandShortName;‌ను ఎక్కడ వాడుతున్నా మీ ట్యాబులను, ఇష్టాంశాలను, సంకేతపదాలను, ఇంకా మరెన్నిటినో ఏక్సెస్ చెయ్యండి.">
-<!ENTITY welcome.signIn.label "ప్రవేశించండి">
-<!ENTITY welcome.createAccount.label "ఖాతాను సృష్టించుకోండి">
-
-<!ENTITY welcome.useOldSync.label "Sync పాత వెర్షనును వాడుతున్నారా?">
 
 <!ENTITY signedOut.caption            "మీ జాలాన్ని మీతో తీసుకువెళ్ళండి">
 <!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">

@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "సైటు">
 <!ENTITY     statusCol.label               "స్థితి">
 <!ENTITY     usageCol.label                "నిల్వ">
-<!ENTITY     search.label                  "శోధించు:">
-<!ENTITY     search.accesskey              "S">
