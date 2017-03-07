@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Rādīt meklēšanas vēsturi">
 <!ENTITY pref_import_options "Importēšanas iestatījumi">
 <!ENTITY pref_import_android_summary "Importējiet grāmatzīmes un vēsturi no iebūvētā pārlūka">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Atvērtās cilnes">
 <!ENTITY pref_private_data_history2 "Pārlūkošanas vēsturi">
 <!ENTITY pref_private_data_searchHistory "Meklēšanas vēsture">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Lietotājvārds">
 <!ENTITY doorhanger_login_edit_password_hint "Parole">
 <!ENTITY doorhanger_login_edit_toggle "Rādīt paroli">
-<!ENTITY doorhanger_login_edit_toast_error "Neizdevās saglabāt lietotājvārdu">
 <!ENTITY doorhanger_login_select_message "Kopēt paroli no &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Parole saglabāta atmiņā">
-<!ENTITY doorhanger_login_select_toast_copy_error "Nevarēja nokopēt paroli">
 <!ENTITY doorhanger_login_select_action_text "Izvēlieties citu lietotājvārdu">
 <!ENTITY doorhanger_login_select_title "Kopēt paroli no">
 
