@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
-
+<!ENTITY advanced.label "اعلٰی">
 <!-- Specific error messages -->
 
 

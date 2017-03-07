@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "تمام نشانیاں دکھائیں">
 <!ENTITY recentBookmarks.label "حالیہ نشانی کردہ">
 <!ENTITY otherBookmarksCmd.label "دیگر نشانیاں">
-
+<!ENTITY mobileBookmarksCmd.label "موبائل نشانیاں">
 <!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
 <!ENTITY showRecentlyBookmarked.label     "حالیہ نشانی کردہ دکھائیں">
 <!ENTITY showRecentlyBookmarked.accesskey "ھ">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "نشانیاں">
 <!ENTITY bookmarksMenuButton.other.label "دیگر نشانیاں">
-
+<!ENTITY bookmarksMenuButton.mobile.label "موبائل نشانیاں">
 <!ENTITY viewBookmarksSidebar2.label        "بغلی بار میں نشانیاں دیکھیں">
 <!ENTITY viewBookmarksToolbar.label         "نشانیاں ٹول بار دیکھیں">
 

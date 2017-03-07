@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "تازہ کاری">
 
+<!ENTITY updateApplication.label         "&brandShortName; تازہ کاریاں:">
 <!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
 <!ENTITY updateAuto1.accesskey           "خ">
 <!ENTITY updateCheckChoose.label         "تازہ کاریوں کے لیے پڑتال کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں">
 <!ENTITY useService.accesskey            "پ">
 
+<!ENTITY autoUpdateOthers.label          "خودکار تازہ کاری">
 <!ENTITY enableSearchUpdate.label        "تلاش انجن">
 <!ENTITY enableSearchUpdate.accesskey    "ا">
 
