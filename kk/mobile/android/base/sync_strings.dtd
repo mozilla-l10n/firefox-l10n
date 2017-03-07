@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Көбірек&ellipsis;">
 <!ENTITY fxaccount_remove_account "Байланысты үзу&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Синхрондаумен байланысты үзу керек пе?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Сіздің шолу деректеріңіз осы құрылғыда қала береді, бірақ, енді тіркелгіңізбен синхрондалмайтын болады.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefox тіркелгісі ажыратылды.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Байланысты үзу">
 
 <!ENTITY fxaccount_enable_debug_mode "Жөндеу режимін іске қосу">
 <!-- Localization note: this is the name shown by the Android system
