@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          ";syncBrand.fullName.label كریو سیٹ اَپ ">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "سینک برانڈ۔فُل ناو۔لیبْل؛ چُھ توہیہ اجازت دِوان ایسیس کرنس منز پنْنئ ہسٹری، بوک مارْک، پاس وأرڈ تْہ اوپْن ٹیب تُہندین تمام ڈیوایسن منز۔&amp;">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "اپ ڈیٹ ">
-<!ENTITY resetPass.label              "ری سیٹ کریو">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "ایکاوُنٹ کْریو منیج &amp;">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "خُفیئ لفظ بدلٲویو...">
-<!ENTITY myRecoveryKey.label          "مین واپس اَنَنچ كی">
-<!ENTITY resetSync2.label             "سینك كریو ری سیٹ...">
-
-<!ENTITY pairDevice.label             "آلئ جوڈيو">
-
-<!ENTITY syncMy.label               "میون كریو سینك">
 <!ENTITY engine.bookmarks.label     "نشان زَد">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -42,16 +23,10 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "یئ آلئ كریو اَن لینك">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "خدمَتِق شرط">
-<!ENTITY prefs.ppLink.label         "زٲتی پالسی">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "پرایوسی نوٹِس ">
-<!ENTITY determiningAcctStatus.label     "طے کران تُہند ایکاوُنٹ سیٹیٹس ۔ ۔ ۔">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -81,12 +56,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!ENTITY welcome.description "ایسیس کْریو پنْنے ٹیب، بوک مارْک، پاس وأرڈ تْہ مزید ییتنس تِہ توہیہ استعمال کْریو &amp;برانڈ شاٹ ناو؛۔">
-
-
-
-<!ENTITY welcome.useOldSync.label "استعمال چھاہ کران اکھ پرون وْرجن سینکُک؟">
 
 
 

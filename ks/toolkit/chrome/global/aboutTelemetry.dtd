@@ -55,9 +55,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "نوٹ: وار وار ایس کیو ایل ڈی بگینگ چھ اینیبلْڈ۔ فُل ایس کیو ایل سِٹرینگ ہیکو ڈیسپْلے کْرتھ بونْہ کْنئ مگر تِم یِین نْہ سبمِٹ کرنْہ ٹیلی میٹری کُن۔">
 
-<!ENTITY aboutTelemetry.fetchSymbols "فیچ کْریو فنکشن ناو ہینگ سیٹیکن باپت">
 
-<!ENTITY aboutTelemetry.hideSymbols "را ڈاٹا ہأیو ہینگو پیٹھ">
 
 <!ENTITY aboutTelemetry.filterText "فلٹر(سیٹرینگ یا /regexp/) ">
 

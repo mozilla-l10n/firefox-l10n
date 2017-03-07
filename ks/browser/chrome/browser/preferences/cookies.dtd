@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "یم كوكیز چھَ تُہندِس كمپیوٹرس پ۪یٹھ جمع">
 <!ENTITY     cookiename.label               "كوكی ناو">
-<!ENTITY     cookiedomain.label             "سائٹ "> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "سئوری تئ ہٹئویو">
-<!ENTITY     button.removeAllCookies.accesskey "A">
+<!ENTITY     cookiedomain.label             "سائٹ ">
 
 <!ENTITY     props.name.label               "ناو:">
 <!ENTITY     props.value.label              "مشمولہ:">
