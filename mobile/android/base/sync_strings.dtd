@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'เพิ่มเติม&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ตัดการเชื่อมต่อ&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'ตัดการเชื่อมต่อจาก Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ข้อมูลการท่องเว็บของคุณจะยังคงอยู่บนอุปกรณ์นี้ แต่จะไม่ซิงค์กับบัญชีของคุณอีกต่อไป'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'ตัดการเชื่อมต่อบัญชี Firefox &formatS; แล้ว'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ตัดการเชื่อมต่อ'>
 
 <!ENTITY fxaccount_enable_debug_mode 'เปิดใช้งานโหมดดีบั๊ก'>
 
