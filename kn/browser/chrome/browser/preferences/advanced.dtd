@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; ಅನ್ನು ಉತ್ತಮಗೊಳಿಸಲು ನಿಮ್ಮ ಜಾಲವೀಕ್ಷಕದ ಕಾರ್ಯನಿರ್ವಹಣೆ, ಬಳಕೆ, ಯಂತ್ರಾಂಶ ಮತ್ತು ದತ್ತಾಂಶ ಅಗತ್ಯಾನುಗುಣಗೊಳಿಕೆಯ ಕುರಿತಾದ ಮಾಹಿತಿಯನ್ನು &vendorShortName; ನೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುತ್ತದೆ">
-<!ENTITY enableTelemetryData.label       "ಮತ್ತಷ್ಟು ಹೆಚ್ಚಿನ ಡೇಟಾ ಹಂಚಿಕೊಳ್ಳಿ (ಉ.ದಾ., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ">
 
 
@@ -80,7 +80,6 @@
 
 <!ENTITY updateTab.label                 "ಅಪ್ಡೇಟ್‍">
 
-<!ENTITY updateApplication.label         "&brandShortName; ಅಪ್‌ಡೇಟ್‌ಗಳು:">
 <!ENTITY updateAuto1.label               "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅನುಸ್ಥಾಪಿಸು (ಸಲಹೆ ಮಾಡಲಾಗಿದೆ: ಉತ್ತಮಗೊಳಿಸಲಾದ ಸುರಕ್ಷತೆ)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಹುಡುಕುತ್ತದೆ, ಆದರೆ ಅವುಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವದನ್ನು ನಿರ್ಧರಿಸಲು ನಿಮಗೆ ಬಿಡುತ್ತದೆ">
@@ -94,7 +93,6 @@
 <!ENTITY useService.label                "ಅಪ್‌ಡೇಟ್‌ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಹಿನ್ನಲೆ ಸೇವೆಯನ್ನು ಬಳಸು">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "ಸ್ವಯಂಚಾಲಿತವಾಗಿ ಅಪ್‌ಡೇಟ್ ಮಾಡು">
 <!ENTITY enableSearchUpdate.label        "ಹುಡುಕು ಎಂಜಿನ್‌ಗಳು">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 

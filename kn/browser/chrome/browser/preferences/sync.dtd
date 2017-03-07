@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; ಅನ್ನು ಸಿದ್ಧಗೊಳಿಸು">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ಎನ್ನುವುದು ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ  ಇತಿಹಾಸವನ್ನು, ಬುಕ್‌ಮಾರ್ಕುಗಳನ್ನು, ಗುಪ್ತಪದಗಳನ್ನು ಹಾಗು ತೆರೆಯಲಾದ ಹಾಳೆಗಳನ್ನು ನೀವು ನಿಲುಕಿಸಿಕೊಳ್ಳಲು ಅನುವು ಮಾಡಿಕೊಡುತ್ತದೆ.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "ಅಪ್‌ಡೇಟ್">
-<!ENTITY resetPass.label              "ಮರುಹೊಂದಿಸು">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "ಗುಪ್ತಪದವನ್ನು ಬದಲಾಯಿಸಿ…">
-<!ENTITY myRecoveryKey.label          "ನನ್ನ ರಿಕವರಿ ಕೀಲಿ">
-<!ENTITY resetSync2.label             "ಸಿಂಕ್ ಅನ್ನು ಮರುಹೊಂದಿಸಿ…">
-
-<!ENTITY pairDevice.label             "ಒಂದು ಸಾಧನವನ್ನು ಜೋಡಿಸಿ">
-
-<!ENTITY syncMy.label               "ಸಿಂಕ್ ಮಾಡು">
 <!ENTITY engine.bookmarks.label     "ಪುಟಗುರುತುಗಳು">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "ತೆರೆದ ಟ್ಯಾಬ್‌ಗಳು">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ಸಾಧನದ ಹೆಸರು:‍">
 <!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
 <!ENTITY changeSyncDeviceName.label "ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ...‍">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "ಉಳಿಸು‍">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "ಈ ಸಾಧನದಿಂದ ಸಂಪರ್ಕ ತಪ್ಪಿಸಿ">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "ಸೇವೆಯ ನಿಯಮಗಳು">
-<!ENTITY prefs.ppLink.label         "ಗೌಪ್ಯತಾ ನಿಯಮ">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "ಗೌಪ್ಯತಾ ಸೂಚನೆ">
-<!ENTITY determiningAcctStatus.label     "ನಿಮ್ಮ ಖಾತೆಯ ಸ್ಥಿತಿಯನ್ನು ಕಂಡುಕೊಳ್ಳಲಾಗುತ್ತಿದೆ...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
 <!ENTITY forget.accesskey            "F">
 
-<!ENTITY welcome.description "ನೀವು &brandShortName; ಅನ್ನು ಎಲ್ಲೆಲ್ಲಿ ಬಳಸುತ್ತೀರೊ ಅಲ್ಲೆಲ್ಲಾ ಟ್ಯಾಬ್‌ಗಳು, ಬುಕ್‌ಮಾರ್ಕ್‌ಗಳು, ಗುಪ್ತಪದಗಳು ಹಾಗೂ ಇನ್ನೂ ಹೆಚ್ಚಿನವುಗಳನ್ನು ಬಳಸಿ.">
-<!ENTITY welcome.signIn.label "ಸೈನ್ ಇನ್">
-<!ENTITY welcome.createAccount.label "ಖಾತೆಯನ್ನು ರಚಿಸಿ">
-
-<!ENTITY welcome.useOldSync.label "ಹಳೆಯ ಆವೃತ್ತಿಯ ಸಿಂಕ್ ಬಳಸುತ್ತಿದ್ದೀರಾ?">
-
-<!ENTITY signedOut.caption            "ನಿಮ್ಮ ಜಾಲವನ್ನು ನಿಮ್ಮೊಂದಿಗೆ ಕೊಂಡೊಯ್ಯಿರಿ">
 <!ENTITY signedOut.description        "ನಿಮ್ಮ ಎಲ್ಲಾ ಸಾಧನಗಳ ಜೊತೆ ನಿಮ್ಮ ಪುಟಗುರುತುಗಳು, ಇತಿಹಾಸ, ಹಾಳೆ, ಪ್ರವೇಶ ಪದ, ಆಡ್-ಆನ್‌ಗಳು, ಮತ್ತು ಆದ್ಯತೆಗಳನ್ನು ಸಿಂಕ್ ಮಾಡಿ">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ನೊಂದಿಗೆ ಸಂಪರ್ಕಿಸು">
-<!ENTITY signedOut.accountBox.create  "ಖಾತೆಯನ್ನು ರಚಿಸಿ">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C‍">
-<!ENTITY signedOut.accountBox.signin  "ಸೈನ್ ಇನ್">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I‍">
 
-<!ENTITY signedIn.engines.label       "ಎಲ್ಲಾ ಸಾಧನಗಳೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡಿ">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

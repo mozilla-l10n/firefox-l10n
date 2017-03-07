@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ಬಹುಪ್ರಕ್ರಿಯೆ ಕಿಟಕಿಗಳು">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ">
 
 <!ENTITY aboutSupport.showDir.label "ಕೋಶವನ್ನು ತೆರೆ">
@@ -105,6 +107,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ಕಚ್ಛಾ ದತ್ತಾಂಶವನ್ನು ನಕಲುಫಲಕಕ್ಕೆ ಪ್ರತಿ ಮಾಡು">
 
 <!ENTITY aboutSupport.sandboxTitle "ಪ್ರಯೋಗಶಾಲೆ">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "ಸುರಕ್ಷಾ ಸ್ಥಿತಿ ಪ್ರಯತ್ನಿಸಿ">
 <!ENTITY aboutSupport.restartInSafeMode.label "ಆಡ್‌-ಆನ್‌ಗಳನ್ನು ಅಶಕ್ತಗೊಳಿಸಿ ಆರಂಭಿಸು…">
