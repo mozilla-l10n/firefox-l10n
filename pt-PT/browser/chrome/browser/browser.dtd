@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mostrar todos os marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recentes">
 <!ENTITY otherBookmarksCmd.label "Outros marcadores">
+<!ENTITY mobileBookmarksCmd.label "Marcadores de dispositivo móvel">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 <!ENTITY showRecentlyBookmarked.label     "Mostrar marcadores recentemente adicionados">
 <!ENTITY showRecentlyBookmarked.accesskey "t">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.other.label "Outros marcadores">
+<!ENTITY bookmarksMenuButton.mobile.label "Marcadores de dispositivo móvel">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nenhum separador aberto">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Mostrar mais">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Mostrar mais separadores deste dispositivo">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Mostrar todos">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Mostrar todos os separadores deste dispositivo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ative a sincronização de separadores para ver uma lista de separadores dos seus outros dispositivos.">

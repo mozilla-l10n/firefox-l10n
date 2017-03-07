@@ -31,9 +31,9 @@
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por alguma razão.</p>">
 
 <!ENTITY captivePortal.title "Iniciar sessão à rede">
-<!ENTITY captivePortal.longDesc "<p>Esta rede pode necessitar que inicie sessão para aceder à internet.</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Tem de iniciar sessão nesta rede antes de poder aceder à Internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Abrir página de início de sessão">
+<!ENTITY openPortalLoginPage.label2 "Abrir página de início de sessão da rede">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
 <!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
@@ -104,14 +104,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Informação avançada: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "A sua ligação não é segura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Informação avançada: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avançado">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um atacante pode facilmente revelar informação que pensasse ser segura.">
-<!ENTITY weakCryptoAdvanced.override "(Não seguro) Tente carregar <span class='hostname'></span> utilizando segurança desatualizada">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

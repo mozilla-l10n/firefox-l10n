@@ -61,7 +61,7 @@
 <!ENTITY performanceUI.table.selfPercentage           "Custo próprio">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "A percentagem de tempo despendido apenas nesta função.">
 <!ENTITY performanceUI.table.samples                  "Amostras">
-<!ENTITY performanceUI.table.samples.tooltip          "O número de vezes que esta função estava na pilha quando o gerador de perfis retirou uma amostra.">
+<!ENTITY performanceUI.table.samples.tooltip          "O número de vezes que esta função estava na stack quando o gerador de perfis retirou uma amostra.">
 <!ENTITY performanceUI.table.function                 "Função">
 <!ENTITY performanceUI.table.function.tooltip         "O nome e localização da fonte da função amostrada.">
 <!ENTITY performanceUI.table.totalAlloc               "Amostragem de alocações totais">
