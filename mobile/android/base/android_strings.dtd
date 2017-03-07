@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Axtarış tarixçəsini göstər">
 <!ENTITY pref_import_options "İdxal seçimləri">
 <!ENTITY pref_import_android_summary "Əlfəcinləri və tarixçəni əsas səyyahdan daxil et">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Vərəqləri aç">
 <!ENTITY pref_private_data_history2 "Səyahət tarixçəsi">
 <!ENTITY pref_private_data_searchHistory "Axtarış tarixçəsi">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı ismi">
 <!ENTITY doorhanger_login_edit_password_hint "Şifrə">
 <!ENTITY doorhanger_login_edit_toggle "Şifrəni göstər">
-<!ENTITY doorhanger_login_edit_toast_error "Daxil olmanı yadda saxlamada xəta oldu">
 <!ENTITY doorhanger_login_select_message "&formatS; üzərindən şifrə köçürülsün?">
 <!ENTITY doorhanger_login_select_toast_copy "Şifrə mübadilə buferinə köçürüldü">
-<!ENTITY doorhanger_login_select_toast_copy_error "Şifrə köçürülə bilmədi">
 <!ENTITY doorhanger_login_select_action_text "Başqa daxil olma seçin">
 <!ENTITY doorhanger_login_select_title "Şifrə köçür:">
 
