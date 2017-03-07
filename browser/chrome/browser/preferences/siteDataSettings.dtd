@@ -15,3 +15,6 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "取消">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "移除站点数据">
+<!ENTITY     removingDialog.description    "移除站点数据也将移除 Cookie。这将清除您在各网站的登录状态，以及移除离线网页内容。确定执行此更改吗？">
+<!ENTITY     siteTree.label                "下列网站 Cookie 将被移除：">
