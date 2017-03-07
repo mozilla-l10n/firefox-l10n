@@ -2,23 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Yeni məqalələr üçün yoxlama sıxlığı ">
-<!ENTITY biffStart.accesskey "x">
-<!ENTITY biffEnd.label "dəqiqə">
+<!ENTITY loginAtStartup.label          "Başlanğıcda yeni məqalələr üçün yoxla">
+<!ENTITY loginAtStartup.accesskey      "y">
 
-<!ENTITY loginAtStartup.label "Başlanğıcda yeni məqalələr üçün yoxla"> 
-<!ENTITY loginAtStartup.accesskey "y">
 
-<!ENTITY useQuickMode.label "Əsasən sayt səhifəsini yükləmək yerine məqalə məzmununu göstər"> 
-<!ENTITY useQuickMode.accesskey "B">
-
-<!ENTITY manageSubscriptions.label "Abunəlikləri idarə et…"> 
+<!ENTITY manageSubscriptions.label     "Abunəlikləri idarə et…">
 <!ENTITY manageSubscriptions.accesskey "A">
 
-<!ENTITY feedWindowTitle.label "Axın Hesabı Sehirbazı">
-<!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "Bloq və Xəbər axınları">
-<!ENTITY feeds.wizardShortName "Axınlar">
-<!ENTITY feeds.wizardLongName "Bloq və Xəbər axınları">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feedWindowTitle.label         "Axın Hesabı Sehirbazı">
+<!ENTITY feeds.accountName             "Bloq və Xəbər axınları">
