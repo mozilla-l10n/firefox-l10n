@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Hírforrások">
 <!ENTITY learnMore.label             "További tudnivalók">
 
@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Letöltött cikkek tárolása: ">
 <!ENTITY feedFolder.accesskey        "L">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Új cikkek ellenőrzése minden ">
+<!ENTITY biffStart.accesskey         "j">
+<!ENTITY biffMinutes.label           "percenként">
+<!ENTITY biffMinutes.accesskey       "p">
+<!ENTITY biffDays.label              "naponta">
+<!ENTITY biffDays.accesskey          "n">
+<!ENTITY recommendedUnits.label      "A közzétevő javaslata:">
+
 <!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
 <!ENTITY quickMode.accesskey         "c">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "e">
 <!ENTITY autoTagPrefix.placeholder   "Írjon be egy címkeelőtagot">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Hozzáadás">
 <!ENTITY button.addFeed.accesskey    "H">
 <!ENTITY button.updateFeed.label     "Szerkesztés">

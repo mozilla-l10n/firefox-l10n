@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label "Új cikkek keresése indításkor">
 <!ENTITY loginAtStartup.accesskey "e">
+<!ENTITY biffAll.label "Frissítések engedélyezése minden csatornánál">
+<!ENTITY biffAll.accesskey "E">
 
+<!ENTITY newFeedSettings.label "Alapbeállítás az új csatornákhoz">
 
 <!ENTITY manageSubscriptions.label "Feliratkozások kezelése…">
 <!ENTITY manageSubscriptions.accesskey "F">
