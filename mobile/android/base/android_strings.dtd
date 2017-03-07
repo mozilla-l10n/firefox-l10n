@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Näytä hakuhistoria">
 <!ENTITY pref_import_options "Tuontivaihtoehdot">
 <!ENTITY pref_import_android_summary "Tuo kirjanmerkit ja sivuhistoria järjestelmäselaimesta">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Avoimet välilehdet">
 <!ENTITY pref_private_data_history2 "Selaushistoria">
 <!ENTITY pref_private_data_searchHistory "Hakuhistoria">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Käyttäjätunnus">
 <!ENTITY doorhanger_login_edit_password_hint "Salasana">
 <!ENTITY doorhanger_login_edit_toggle "Näytä salasana">
-<!ENTITY doorhanger_login_edit_toast_error "Kirjautumistietojen tallennus epäonnistui">
 <!ENTITY doorhanger_login_select_message "Kopioi salasana lähteestä &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Salasana kopioitiin leikepöydälle">
-<!ENTITY doorhanger_login_select_toast_copy_error "Salasanaa ei voitu kopioida">
 <!ENTITY doorhanger_login_select_action_text "Valitse toinen kirjautuminen">
 <!ENTITY doorhanger_login_select_title "Kopioi salasana lähteestä">
 
