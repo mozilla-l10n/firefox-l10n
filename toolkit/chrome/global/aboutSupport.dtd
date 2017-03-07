@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fenèstras multiprocessus">
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "Dobrir lo dorsièr correspondent">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -102,6 +104,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las informacions brutas dins lo quichapapièrs">
 
 <!ENTITY aboutSupport.sandboxTitle "Nauc de sabla">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Ensajar en mòde securizat">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaviar amb los moduls desactivats…">
