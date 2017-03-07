@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Scito">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     usageCol.label                "Memöia">
-<!ENTITY     search.label                  "Çerca:">
-<!ENTITY     search.accesskey              "c">
