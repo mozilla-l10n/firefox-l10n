@@ -365,7 +365,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "തെരച്ചില്‍ നടത്തിയ നാള്‍വഴി കാണിക്കുക">
 <!ENTITY pref_import_options "ഐച്ഛികങ്ങള്‍ ഇറക്കുമതി ചെയ്യുക">
 <!ENTITY pref_import_android_summary "നിങ്ങളുടെ നാള്‍വഴികളും അടയാളക്കുറിപ്പുകളും സഹജ ബ്രൗസറില്‍ നിന്നു ഇറക്കുമതി ചെയ്യൂ">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "ബ്രൌസ് ചെയ്ത വെബ്സൈറ്റുകള്‍">
 <!ENTITY pref_private_data_searchHistory "ചരിത്രം തിരയുക">
 <!ENTITY pref_private_data_formdata2 "നാള്‍വഴിയില്‍ നിന്ന്">
@@ -496,10 +497,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ഉപയോക്തൃനാമം ">
 <!ENTITY doorhanger_login_edit_password_hint "രഹസ്യവാക്ക്">
 <!ENTITY doorhanger_login_edit_toggle "രഹസ്യവാക്ക് കാണിയ്ക്കുക">
-<!ENTITY doorhanger_login_edit_toast_error "പ്രവേശനം സൂക്ഷിക്കുവാന്‍ പരാജയപ്പെട്ടു">
 <!ENTITY doorhanger_login_select_message "&formatS; ല്‍ നിന്ന്‍ രഹസ്യവാക്ക് പകര്‍ത്തണോ?">
 <!ENTITY doorhanger_login_select_toast_copy "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് രഹസ്യവാക്ക് പകര്‍ത്തി">
-<!ENTITY doorhanger_login_select_toast_copy_error "രഹസ്യവാക്ക് പകര്‍ത്തുവാന്‍ കഴിഞ്ഞില്ല">
 <!ENTITY doorhanger_login_select_action_text "മറ്റൊരു പ്രവേശനം തിരഞ്ഞെടുക്കുക">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
