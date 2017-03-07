@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Više procesni prozori">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Sigurni način rada">
 
 <!ENTITY aboutSupport.showDir.label "Otvori direktorij">
@@ -105,6 +107,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobrađene podatke u međuspremnik">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Pokušaj siguran način rada">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ponovno pokreni s isključenim dodacima…">

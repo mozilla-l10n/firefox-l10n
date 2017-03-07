@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Prijavite se da biste mogli sinkronizirati vaše kartice, zabilješke, lozinke i više.">
 <!ENTITY aboutAccountsConfig.startButton.label "Započnite">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Koristite stariju inačicu Synca?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync postavke">
 <!ENTITY aboutAccounts.noConnection.title "Veza nije dostupna">
 <!ENTITY aboutAccounts.noConnection.description "Da biste se prijavili, trebate biti povezani na Internet.">
