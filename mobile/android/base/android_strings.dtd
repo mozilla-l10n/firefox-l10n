@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றை காண்பி">
 <!ENTITY pref_import_options "இறக்குமதி விருப்பங்கள்">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "கீற்றைத் திற">
 <!ENTITY pref_private_data_history2 "உலாவலின் வரலாறு">
 <!ENTITY pref_private_data_searchHistory "தேடல் வரலாறு">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "பயனர் பெயர்">
 <!ENTITY doorhanger_login_edit_password_hint "கடவுச்சொல்">
 <!ENTITY doorhanger_login_edit_toggle "கடவுச்சொல்லை காட்டு">
-<!ENTITY doorhanger_login_edit_toast_error "உள்நுழைவை சேமித்தல் தோல்வி">
 <!ENTITY doorhanger_login_select_message "&formatS; என்பதிலிருந்து கடவுச்சொல்லை நகலெடுக்கவா?">
 <!ENTITY doorhanger_login_select_toast_copy "கடவுச்சொல் ஒட்டுப்பலகைக்கு நகலெடுக்கப்பட்டது">
-<!ENTITY doorhanger_login_select_toast_copy_error "கடவுச்சொல்லை நகலெடுக்க முடியவில்லை">
 <!ENTITY doorhanger_login_select_action_text "வேறு உள்நுழைவை தேர்ந்தெடுக்க">
 <!ENTITY doorhanger_login_select_title "இலிருந்து கடவுச்சொல்லை நகலெடு">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

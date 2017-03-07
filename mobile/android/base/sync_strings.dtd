@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "மேலும்&ellipsis;">
 <!ENTITY fxaccount_remove_account "தொடர்பறு&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "பயர்பாக்ஸ் கணக்கை நீக்கவா?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; உங்கள் கணக்குடன் ஒத்திசைவு செய்யாது, அதேச்சமயம் உங்கள் சாதனத்திலுள்ள உலாவல் தரவையும் அழிக்காது.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "பயர்பாக்ஸ் கணக்கு &formatS; நீக்கப்பட்டது.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "வழுநீக்கு முறைமையை செயல்படுத்து">
 <!-- Localization note: this is the name shown by the Android system
