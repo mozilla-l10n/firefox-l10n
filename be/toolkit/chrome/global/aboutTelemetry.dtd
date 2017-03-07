@@ -9,11 +9,11 @@
 ">
 
 <!ENTITY aboutTelemetry.uploadEnabled "
-  Выгрузка дадзеных FHR <span>уключана</span>.
+  Зацягванне дадзеных FHR <span>уключана</span>.
 ">
 
 <!ENTITY aboutTelemetry.uploadDisabled "
-  Выгрузка дадзеных FHR <span>адключана</span>.
+  Зацягванне дадзеных FHR <span>адключана</span>.
 ">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "
@@ -138,11 +138,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Даставанне назваў функцыяў для стосаў завісанняў">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Паказ сырых дадзеных з завісанняў
-">
 
 <!ENTITY aboutTelemetry.filterText "  Сіта (радкі або /regexp/)">
 

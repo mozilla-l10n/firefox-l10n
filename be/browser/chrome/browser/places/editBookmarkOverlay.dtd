@@ -21,7 +21,7 @@
 <!ENTITY editBookmarkOverlay.keyword.label                   "Ключавое слова:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "К">
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Паказаць усе тэгі">
-<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Загрузіць гэтую закладку на палічку">
+<!ENTITY editBookmarkOverlay.loadInSidebar.label             "Загрузіць гэтую закладку на бакавую панэль">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "З">
 <!ENTITY editBookmarkOverlay.choose.label                    "Выбар…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Новая папка">
