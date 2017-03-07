@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "खोज इतिहास कहिले पनि लोकेसन बारमा देखिदैन किनभने &brandShortName; लाई कहिले पनि इतिहास नसम्झनेमा सेट गर्नुभएको छ ।">
 
-<!ENTITY oneClickSearchEngines.label           "एक-क्लिक खोज इन्जिनहरू">
 
 <!ENTITY chooseWhichOneToDisplay.label         "खोज बारले फरक खोज इन्जिइहरूमा सिधै खोज्न दिन्छ । कुन देखाउने हो छान्नुहोस् ।">
 
