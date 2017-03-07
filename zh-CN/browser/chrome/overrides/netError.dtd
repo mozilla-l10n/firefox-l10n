@@ -38,6 +38,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
 <!ENTITY captivePortal.title "需登录网络">
+<!ENTITY captivePortal.longDesc2 "
+<p>您必须先登录此网络才能访问互联网。</p>">
 
 <!ENTITY openPortalLoginPage.label2 "打开网络登录页面">
 

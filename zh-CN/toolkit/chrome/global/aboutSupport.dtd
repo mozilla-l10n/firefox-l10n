@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "多进程窗口">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google 密钥">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla 位置服务 密钥">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "安全模式">
 
 <!ENTITY aboutSupport.showDir.label "打开目录">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "复制原始数据到剪贴板">
 
 <!ENTITY aboutSupport.sandboxTitle "沙盒">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "拒绝的系统调用">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "秒前">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "进程类型">
+<!ENTITY aboutSupport.sandboxSyscallNumber "系统调用">
+<!ENTITY aboutSupport.sandboxSyscallArgs "参数">
 
 <!ENTITY aboutSupport.safeModeTitle "尝试安全模式">
 <!ENTITY aboutSupport.restartInSafeMode.label "以安全模式重新启动…">
