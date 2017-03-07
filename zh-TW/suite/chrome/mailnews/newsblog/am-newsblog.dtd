@@ -2,17 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "每">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "分鐘檢查新文章">
-
-<!ENTITY loginAtStartup.label "啟動時檢查是否有新文章"> 
+<!ENTITY loginAtStartup.label "啟動時檢查是否有新文章">
 <!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "預設顯示文章摘要而非載入網頁"> 
-<!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "管理訂閱清單…"> 
+<!ENTITY manageSubscriptions.label "管理訂閱清單…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
 <!-- entities from rss.rdf -->
@@ -20,4 +14,3 @@
 <!ENTITY feeds.wizardShortName "消息來源">
 <!ENTITY feeds.wizardLongName "部落格與新聞來源">
 <!ENTITY feeds.wizardLongName.accesskey "F">
-
