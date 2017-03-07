@@ -79,11 +79,11 @@
 <!ENTITY fxaccount_status_more "आओर&ellipsis;">
 <!ENTITY fxaccount_remove_account "&ellipsis;डिसकनेक्ट करू">
 
-<!ENTITY fxaccount_remove_account_dialog_title "फायरफॉक्स खाता हटाउ?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; अहाँक खाताक संगत तुल्यकालन कएनाइ रोकि दैत, मुदा इ युक्ति पर अपन ब्राउजिंग आँकड़ाकेँ नहि मेटायत.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "फायरफॉक्स खाताकेँ &formatS; हटाएल गेल.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "डिबग मोड सक्रिय करू">
 <!-- Localization note: this is the name shown by the Android system
