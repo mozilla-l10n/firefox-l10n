@@ -7,3 +7,14 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Сховішча">
+<!ENTITY     searchPlaceHolder             "Пошук">
+<!ENTITY     searchPlaceHolder.accesskey   "П">
+<!ENTITY     removeSelected.label          "Выдаліць абранае">
+<!ENTITY     removeSelected.accesskey      "в">
+<!ENTITY     save.label                    "Захаваць змены">
+<!ENTITY     save.accesskey                "а">
+<!ENTITY     cancel.label                  "Скасаваць">
+<!ENTITY     cancel.accesskey              "С">
+<!ENTITY     removingDialog.title          "Выдаліць дадзеныя сайта">
+<!ENTITY     removingDialog.description    "Пры выдаленні дадзеных сайтаў таксама будуць выдаленыя кукі. Гэта можа прывесці да разрэгістрацыі на вэб-сайтах і выдалення пазасеткавага вэб-змесціва. Вы ўпэўненыя, што хочаце зрабіць змены?">
+<!ENTITY     siteTree.label                "Будуць выдалены наступныя кукі вэб-сайтаў:">
