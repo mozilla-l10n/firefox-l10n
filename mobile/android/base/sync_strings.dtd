@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'మరిన్ని&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'డిస్కనెక్ట్&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Sync నుండి అనుసంధానం తెంచివేయాలా?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'మీ విహారణ దత్తాంశం ఈ పరికరంలో ఉంటుంది, కానీ దాన్ని మీరు మీ ఖాతాకు సింక్రనించుకోలేరు.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox ఖాతా &formatS; అనుసంధానం తెంచివేయబడింది.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'అనుసంధానం తెంచివేయి'>
 
 <!ENTITY fxaccount_enable_debug_mode 'డీబగ్ రీతి ప్రారంభించు'>
 
