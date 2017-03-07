@@ -1,26 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Бүтэн нэрээр тохируулах">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&amp;Бүтэн нэрээр тохируулах ; Бүх төрлийн төхөөрөмжүүд дээр түүх , тэмдэглэл , нууц дугаарыг үзэх эрхийг олгох">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
-<!ENTITY resetPass.label              "Сэргээ">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Бүртгэлийг удирдах">
-<!ENTITY manageAccount.accesskey      "n">
-
-<!ENTITY myRecoveryKey.label          "Миний буцааж сэргээх түлхүүр">
-<!ENTITY resetSync2.label             "Цагжуулалтыг шинэчлэх">
-
-<!ENTITY pairDevice.label             "төхөөрөмжийг хослуулах">
-
-<!ENTITY syncMy.label               "Миний цагжуулалт">
-
 
 
 
@@ -39,13 +20,9 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "энэ төхөөрөмжийн холболтыг салгах">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "үйлчилгээний нөхцөл">
-<!ENTITY prefs.ppLink.label         "Хуулийн нөхцөл">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -61,10 +38,6 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
-
-
-
-
 
 
 

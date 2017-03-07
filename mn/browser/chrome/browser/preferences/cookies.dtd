@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Дараах күүкинүүд таны компьютерт хадгалагдсан байна:">
 <!ENTITY     cookiename.label               "Күүкигийн нэр">
-<!ENTITY     cookiedomain.label             "Хуудас"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeAllCookies.label "Бүгдийг устга">
-<!ENTITY     button.removeAllCookies.accesskey "Б">
+<!ENTITY     cookiedomain.label             "Хуудас">
 
 <!ENTITY     props.name.label               "Нэр:">
 <!ENTITY     props.value.label              "Бүтэц:">
