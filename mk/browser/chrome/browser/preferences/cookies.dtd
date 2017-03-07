@@ -6,11 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Следниве колачиња се наоѓаат на Вашиот компјутер:">
 <!ENTITY     cookiename.label               "Име на колаче">
-<!ENTITY     cookiedomain.label             "Место"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
+<!ENTITY     cookiedomain.label             "Место">
 
 <!ENTITY     props.name.label               "Име:">
 <!ENTITY     props.value.label              "Содржина:">
