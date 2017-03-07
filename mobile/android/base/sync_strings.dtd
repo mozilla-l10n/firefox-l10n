@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Yongeza&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Susa i-Akhawunti ye-Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "I-&brandShortName; izakuyeka ukusynka ne-akhawunti yakho, kodwa ayizokucima ukubhrawuza kwakho">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "I-Akhawunti yeFirefox &formatS; isusiwe.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Vula IMowudi Yokususa Ibhagi">
 <!-- Localization note: this is the name shown by the Android system
