@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Tetamäx ch'aqa' chik">
 
 <!ENTITY telemetryDesc.label             "Takomonij ri na'oj pa ruwi' rub'eyal nisamäj, ri rokisaxik, ch'akulakem chuqa' richinaxik awokik'amaya'l rik'in &vendorShortName; richin chi ri &brandShortName; nel ütz">
-<!ENTITY enableTelemetryData.label       "Tikomonïx rutz'aqat taq tzij (achi'el, Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Tetamäx ch'aqa' chik">
 
 <!ENTITY crashReporterDesc2.label         "Ri rutzijol taq sachoj &vendorShortName; yeruchojmirisaj taq k'ayewal chuqa' nub'än chi k'o ruchuq'a' chuqa' jikil ri awokik'amaya'l">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Tik'ex">
 
-<!ENTITY updateApplication.label         "&brandShortName; taq k'exoj ruwäch">
 <!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
 <!ENTITY updateAuto1.accesskey           "r">
 <!ENTITY updateCheckChoose.label         "Kenik'öx ri taq k'exoj ruwäch, xa xe chi tiya' q'ij chi re we ninwajo' chi yenyäk">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch">
 <!ENTITY useService.accesskey            "r">
 
-<!ENTITY autoUpdateOthers.label          "Tik'ex pa ruyonil">
 <!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
 <!ENTITY enableSearchUpdate.accesskey    "k">
 

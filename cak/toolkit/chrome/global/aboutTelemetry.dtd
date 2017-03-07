@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Ri eqal chojmirisanem SQL chupül. Tikirel yek'ut pe tz'aqät taq SQL rucholajil xa xe chi man xketaq ta pa Telemetry">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Ke'ilitäj taq ajsamaj b'i'aj pa ri taq pila richin tzeqeb'anïk">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Kek'ut pe rukuta'm tzij pa tzeqeb'anïk">
 
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholajil o /regexp/)">
 

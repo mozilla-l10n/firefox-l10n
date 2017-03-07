@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Rutzuwach k'ïy tajin">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Ütz rub'anikil">
 
 <!ENTITY aboutSupport.showDir.label "Tijaq ri cholb'äl">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kewachib'ëx kikuta'm taq tzij pa molwuj">
 
 <!ENTITY aboutSupport.sandboxTitle "Tzayanib'äl">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Titojtob'ëx ütz rub'anikil">
 <!ENTITY aboutSupport.restartInSafeMode.label "Titikirisäx chik kik'in ri chupül taq tz'aqat…">

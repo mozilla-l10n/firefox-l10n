@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "K'o k'ayewal toq nitikirisäx ri ruxaq k'amaya'l">
 <!ENTITY retry.label "Titojtob'ëx chik">
 <!ENTITY returnToPreviousPage.label "Titzolin">
-<!ENTITY advanced.label "Q'axinäq">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; k'o jun achoq uma toq man nutikirisaj ta el re jun ruxaq k'amaya'l re'.</p>">
 
 <!ENTITY captivePortal.title "Tok pa k'amab'ey">
-<!ENTITY captivePortal.longDesc "<p>Re k'amab'ey re' rik'in jub'a' nrajo' chi tatikirisaj molojri'ïl richin nawokisaj ri k'amaya'l.</p>">
 
-<!ENTITY openPortalLoginPage.label "Tijaq ruxaq tikirib'äl moloj">
+
 
 <!ENTITY malformedURI.title "Man nuxïm ta ri' ri ochochib'äl">
 <!ENTITY malformedURI.longDesc "<ul><li>Ri rochochib'al taq ruxaq k'amaya'l junelïk yetz'ib'äx achi'el <strong>http://www.example.com/</strong></li> <li>Tanik'oj chi tajin ye'awokisaj ri e ütz raq'arïk taq juch' (i.e. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Q'axinäq chi etamab'äl: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Itzel ri awokem">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Nimaläj chi etamab'äl: SSL_ERRO_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Q'axinäq">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> nrokisaj jun ojer k'ak'a' samaj richin chajinïk chuqa' man nitikïr ta niq'eleb'en. Jun eleq'om chanin nitikïr nuya' rutzijol ri etamab'äl nina'ojïx chi ütz rub'anon.">
-<!ENTITY weakCryptoAdvanced.override "(Man ütz ta) Tajin notojtob'ej nok <span class='hostname'></span> tajin norikisaj ojer chanijem">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
