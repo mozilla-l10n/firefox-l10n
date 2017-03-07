@@ -323,7 +323,8 @@ size. -->
 
 
 
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 
 
 
@@ -429,8 +430,6 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_edit_username_hint "یوزر نیم">
-
-
 
 
 
