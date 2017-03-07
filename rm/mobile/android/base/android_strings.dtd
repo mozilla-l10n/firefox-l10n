@@ -385,6 +385,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mussar la cronologia da tschertgar">
 <!ENTITY pref_import_options "Opziuns d\&apos;import">
 <!ENTITY pref_import_android_summary "Importar segnapaginas e la cronologia dal navigatur da standard">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Cronologia da la navigaziun">
 <!ENTITY pref_private_data_searchHistory "Cronologia da tschertgas">
 <!ENTITY pref_private_data_formdata2 "Cronologia da formulars">
@@ -515,10 +517,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Num d\&apos;utilisader">
 <!ENTITY doorhanger_login_edit_password_hint "Pled-clav">
 <!ENTITY doorhanger_login_edit_toggle "Mussar il pled-clav">
-<!ENTITY doorhanger_login_edit_toast_error "Betg reussì da memorisar las datas d\&apos;annunzia">
 <!ENTITY doorhanger_login_select_message "Copiar il pled-clav da &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Copià il pled-clav en l\&apos;archiv provisoric">
-<!ENTITY doorhanger_login_select_toast_copy_error "Impussibel da copiar il pled-clav">
 <!ENTITY doorhanger_login_select_action_text "Tscherner autras infurmaziuns d\&apos;annunzia">
 <!ENTITY doorhanger_login_select_title "Copiar il pled-clav da">
 
