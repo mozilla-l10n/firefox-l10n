@@ -36,6 +36,9 @@ Datos actuais de ping
 Datos arquivados de ping
 ">
 
+
+
+
 <!ENTITY aboutTelemetry.showSubsessionData "
 Amosar datos de subsesión
 ">
@@ -51,6 +54,7 @@ Escolla ping:
 <!ENTITY aboutTelemetry.showOlderPing "
 Ping máis antigo &gt;&gt;
 ">
+
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semana
@@ -84,6 +88,9 @@ Ping
   Bloqueos dos fillos
 ">
 
+
+
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Histogramas
 ">
@@ -91,6 +98,7 @@ Ping
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Histogramas con lendas
 ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Medidas simples
@@ -104,9 +112,6 @@ Ping
   Escritura atrasada
 ">
 
-<!ENTITY aboutTelemetry.systemInfoSection "
-  Información do sistema
-">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "
   Histogramas recollidos polos complementos
@@ -124,14 +129,10 @@ Ping
   NOTA: A depuración SQL lenta está activada. Poden amosarse cadeas completas de SQL pero non se enviarán a telemetría.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Obter os nomes de función da pila de bloqueos
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Amosar datos en bruto dos bloqueos
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtrar (cadeas ou expresións regulares)
 ">
+
+
