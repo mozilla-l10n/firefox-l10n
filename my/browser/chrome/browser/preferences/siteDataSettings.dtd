@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "ဆိုက်">
 <!ENTITY     statusCol.label               "အခြေအနေ">
 <!ENTITY     usageCol.label                "သိမ်းဆည်းပါ">
-<!ENTITY     search.label                  "ရှာဖွေပါ -">
-<!ENTITY     search.accesskey              "S">

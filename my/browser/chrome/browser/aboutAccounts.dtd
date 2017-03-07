@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "သင့် တပ်ဗ်များ၊ မှတ်တမ်းများ၊ စကားဝှက်များ နှင့် အခြားမှတ်ထားသည်တို့ကို တစ်ပြေးညီဖြစ်စေရန် လက်မှတ်ထိုးဝင်ရောက်ပါ။">
 <!ENTITY aboutAccountsConfig.startButton.label "စတင်ကြမည်">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Sync ဝန်ဆောင်မှုအဟောင်းကို အသုံးပြုနေပါသလား။">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "နှစ်သက်ရာအပြင်အဆင်များကို တစ်ပြေးညီလုပ်ရန်">
 <!ENTITY aboutAccounts.noConnection.title "ချိတ်ဆက်မှု မရှိပါ">
 <!ENTITY aboutAccounts.noConnection.description "လက်မှတ်ထိုးဝင်ရောက်ရန် အင်တာနက်နှင့် ချိတ်ဆက်ထားရပါမည်။">

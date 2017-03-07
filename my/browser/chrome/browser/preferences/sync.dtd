@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; S အားတပ်ဆင်မည်">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; သည်သင့်အား လျှို့ ၀က်သောစကားလုံးများ၊မှတ်ဉာဏ်များ ၀တ်ဆိုဒ်များအား သင်၏စက်ကိရိယားအားလုံးတွင်သုံးစွဲရယူနိုင်စေသည်။">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "မွမ်းမံချက်">
-<!ENTITY resetPass.label              "ပြန်ချိန်တယ်">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "n အကောင့်အားပြင်ဆင်မည်">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "ပတ်စ်၀တ်ပြောင်းမည်...">
-<!ENTITY myRecoveryKey.label          "ကျွန်ုပ်၏ရီကာဗာကီး">
-<!ENTITY resetSync2.label             "ထပ်တူပြုအားအစပြန်လုပ်မည်">
-
-<!ENTITY pairDevice.label             "ပစ္စည်းတစ်ခုဖြင့်တွဲမည်။">
-
-<!ENTITY syncMy.label               "ထပ်တူပြုမည့်ကျွန်ုပ်">
 <!ENTITY engine.bookmarks.label     "m မှတ်သားချက်များ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "တပ်ဗ်များအား ဖွင့်ပါ">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "ပ">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "c စက်ပစ္စည်းအမည်:">
 <!ENTITY fxaSyncDeviceName.label       "ကိရိယာအမည်">
 <!ENTITY changeSyncDeviceName.label "ကိရိယာအမည်ကို ပြောင်းလဲရန်…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "သိမ်းဆည်းပါ">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "ဤကိရိယားအားဖြုတ်မည်">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "အသုံးပြုချိန်တွင်လိုက်နာရမည့်အချက်များ">
-<!ENTITY prefs.ppLink.label         "ကိုယ်ရေးကိုယ်တာ လုံခြုံမှူအရလိုက်နာရမည့် စည်းမျဉ်း">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "ပရိုက်ဗစ်ဆီ သတိပေးချက်">
-<!ENTITY determiningAcctStatus.label     "သင့်အကောင့်အခြေအနေ အားရယူနေသှ် ...">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "အခု အီးမေလ်းအား ဖျက်">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "သင်၏ တပ်ဗ်များ ၊ စာအမှတ်များ နှင့် လျှို့ဝှက်စကားလုံးများကို &brandShortName; ဖြင့် မည်သည့်နေရာမှ မဆို ရယူသုံးဆွဲပါ ">
-<!ENTITY welcome.signIn.label "၀င်ပါ">
-<!ENTITY welcome.createAccount.label "အကောင့် အသစ်လုပ်ပါ">
-
-<!ENTITY welcome.useOldSync.label "ချိတ်ဆက်ဝန်ဆောင်မှူ​အဟောင်းသုံးနေသလား?">
 
 <!ENTITY signedOut.caption            "သင့်ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ">
 <!ENTITY signedOut.description        "သင့်ကိရိယာအားလုံးရှိ သင့်စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တပြေးညီဖြစ်စေပါ။">
