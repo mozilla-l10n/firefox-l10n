@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Inpòsta &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; o te faiâ acede a teu stöia, segnalibbri, paròlle segrete e feuggi averti in tutti i teu aparati che ti deuvi pe conetite.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Agiorna">
-<!ENTITY resetPass.label              "Repiggia">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Gestion de l'Account">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Cangia paròlla segreta…">
-<!ENTITY myRecoveryKey.label          "A mæ ciave de repiggio">
-<!ENTITY resetSync2.label             "Reinpòsta Sync…">
-
-<!ENTITY pairDevice.label             "Acobia 'n aparato">
-
-<!ENTITY syncMy.label               "Sync o Mæ">
 <!ENTITY engine.bookmarks.label     "Segnalibbri">
 <!ENTITY engine.bookmarks.accesskey "S">
 <!ENTITY engine.tabs.label2         "Arvi Feuggi">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "a">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Nomme de l'aparato:">
 <!ENTITY fxaSyncDeviceName.label       "Nomme dispoxitivo">
 <!ENTITY changeSyncDeviceName.label "Cangia nomme dispoxitivo…">
 <!ENTITY changeSyncDeviceName.accesskey "n">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "l">
 <!ENTITY saveChangeSyncDeviceName.label "Sarva">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Scolega sto aparato">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Termini do serviçio">
-<!ENTITY prefs.ppLink.label         "Politica da Privacy">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Informativa in sciâ privacy">
-<!ENTITY determiningAcctStatus.label     "Verifica stato de l’account…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Ascòrda sta email">
 <!ENTITY forget.accesskey            "A">
-
-<!ENTITY welcome.description "Ti peu acede a feuggi, segnalibbri, paròlle segrete e atre informaçioin in qualonque scitoaçion con &brandShortName;.">
-<!ENTITY welcome.signIn.label "Intra">
-<!ENTITY welcome.createAccount.label "Crea 'n account">
-
-<!ENTITY welcome.useOldSync.label "Informaçioin pe-i utenti che adeuvian 'na vegia verscion de Sync">
 
 <!ENTITY signedOut.caption            "A teu Ræ, de longo con ti">
 <!ENTITY signedOut.description        "Scincronizza segnalibbri, stöia, feuggi, paròlle segrete, conponenti azonti e inpostaçioin con tutti i teu dispoxitivi.">
