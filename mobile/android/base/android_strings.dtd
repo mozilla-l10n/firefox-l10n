@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "खोज इतिहास दिखाएँ">
 <!ENTITY pref_import_options "आयात विकल्प">
 <!ENTITY pref_import_android_summary "देशी ब्राउज़र से बुकमार्क और इतिहास आयात करें">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "टैब खोलें">
 <!ENTITY pref_private_data_history2 "ब्राउज़िंग इतिहास">
 <!ENTITY pref_private_data_searchHistory "खोज इतिहास">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "उपयोक्तानाम">
 <!ENTITY doorhanger_login_edit_password_hint "कूटशब्द">
 <!ENTITY doorhanger_login_edit_toggle "कूटशब्द दिखाएँ">
-<!ENTITY doorhanger_login_edit_toast_error "लॉगिन सहेजने में विफल">
 <!ENTITY doorhanger_login_select_message "&formatS; से पासवर्ड कॉपी करें?">
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्ड में पासवर्ड कॉपी किया गया">
-<!ENTITY doorhanger_login_select_toast_copy_error "पासवर्ड कॉपी नहीं किया जा सका">
 <!ENTITY doorhanger_login_select_action_text "दूसरा लॉगिन चयन करें">
 <!ENTITY doorhanger_login_select_title "से पासवर्ड कॉपी करें">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
