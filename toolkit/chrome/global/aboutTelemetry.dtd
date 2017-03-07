@@ -80,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning " Nod: Tá dífhabhtú mall SQL ar siúl. D'fhéadfadh go mbeadh teaghráin iomlána SQL á dtaispeáint thíos, ach ní sheolfar chuig Telemetry iad.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Faigh ainmneacha na bhfeidhmeanna leis an gcruach a thaispeáint">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Taispeáin amhshonraí na cruaiche">
 
 <!ENTITY aboutTelemetry.filterText "  Scagadh (teaghrán nó /slonn/)">
 

@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Tuilleadh Eolais">
 
 <!ENTITY telemetryDesc.label             "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh an bhrabhsálaí chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
-
-
+<!ENTITY enableTelemetryData.label       "Comhroinn Sonraí Breise (.i., Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tuilleadh Eolais">
 
 <!ENTITY crashReporterDesc2.label         "Cabhraíonn tuairiscí tuairteála le &vendorShortName; fadhbanna a réiteach agus brabhsálaí níos cobhsaí níos sláine a chur ar fáil">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Nuashonrú">
 
+<!ENTITY updateApplication.label         "Nuashonruithe &brandShortName;">
 <!ENTITY updateAuto1.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Nuashonraigh go huathoibríoch">
 <!ENTITY enableSearchUpdate.label        "Innill Chuardaigh">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 
