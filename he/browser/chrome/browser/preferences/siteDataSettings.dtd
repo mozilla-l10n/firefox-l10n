@@ -6,5 +6,3 @@
 <!ENTITY     hostCol.label                 "אתר">
 <!ENTITY     statusCol.label               "מצב">
 <!ENTITY     usageCol.label                "אחסון">
-<!ENTITY     search.label                  "חיפוש:">
-<!ENTITY     search.accesskey              "ח">

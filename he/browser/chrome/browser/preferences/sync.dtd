@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "התקנת &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "ה">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; מאפשר לך לגשת להיסטוריה, לסימניות, לססמאות וללשוניות הפתוחות שלך מכל המכשירים שברשותך.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "עדכון">
-<!ENTITY resetPass.label              "איפוס">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "ניהול חשבון">
-<!ENTITY manageAccount.accesskey      "נ">
-<!ENTITY changePassword2.label        "שינוי ססמה…">
-<!ENTITY myRecoveryKey.label          "מפתח השחזור שלי">
-<!ENTITY resetSync2.label             "איפוס Sync…">
-
-<!ENTITY pairDevice.label             "שיוך התקן">
-
-<!ENTITY syncMy.label               "סנכרן">
 <!ENTITY engine.bookmarks.label     "סימניות">
 <!ENTITY engine.bookmarks.accesskey "ס">
 <!ENTITY engine.tabs.label2         "פתיחת לשוניות">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "ת">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "שם ההתקן:">
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">
 <!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
 <!ENTITY changeSyncDeviceName.accesskey "ש">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ב">
 <!ENTITY saveChangeSyncDeviceName.label "שמירה">
 <!ENTITY saveChangeSyncDeviceName.accesskey "ש">
-<!ENTITY unlinkDevice.label           "נתק התקן זה">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "תנאי שימוש">
-<!ENTITY prefs.ppLink.label         "מדיניות פרטיות">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "הצהרת פרטיות">
-<!ENTITY determiningAcctStatus.label     "קביעת מצב החשבון שלך…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "א">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
 <!ENTITY forget.accesskey            "ש">
-
-<!ENTITY welcome.description "גישה ללשוניות שלך, סימניות, ססמאות ועוד בכל מקום עם &brandShortName; שלך.">
-<!ENTITY welcome.signIn.label "כניסה">
-<!ENTITY welcome.createAccount.label "יצירת חשבון">
-
-<!ENTITY welcome.useOldSync.label "משתמשים בגרסה ישנה יותר של Sync?">
 
 <!ENTITY signedOut.caption            "קחו את הרשת עמכם">
 <!ENTITY signedOut.description        "סנכרון הסימניות, ההיסטוריה, הלשוניות, הססמאות, ההרחבות, וההעדפות בין כל מכשיריך.">

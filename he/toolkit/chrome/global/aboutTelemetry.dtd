@@ -72,9 +72,12 @@ JSON גולמי
 <!ENTITY aboutTelemetry.threadHangStatsSection "  תקיעות תהליכונים">
 
 
+
+
 <!ENTITY aboutTelemetry.histogramsSection "  היסטוגרמות">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  היסטוגרמות ממופתחות">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  מדדים פשוטים">
 
@@ -94,9 +97,7 @@ JSON גולמי
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  הערה: ניפוי שגיאות עבור משפטי SQL איטיים פעילה. מחרוזות SQL מלאות אמנם יוצגו, אבל הן לא תישלחנה אל Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  לשמור שמות פונקציות עבור מחסנית תקיעות">
 
-<!ENTITY aboutTelemetry.hideSymbols "  הצגת מידע גולמי מתקיעות">
 
 <!ENTITY aboutTelemetry.filterText "  סינון (מחרוזות או /ביטויים.רגולריים/)">
 

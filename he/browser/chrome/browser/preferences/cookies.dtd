@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "העוגיות הבאות מאוחסנות על המחשב שלך:">
 <!ENTITY     cookiename.label               "שם עוגייה">
-<!ENTITY     cookiedomain.label             "אתר"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "ס">
-<!ENTITY     button.removeAllCookies.label "הסרת הכל">
-<!ENTITY     button.removeAllCookies.accesskey "כ">
+<!ENTITY     cookiedomain.label             "אתר">
 
 <!ENTITY     props.name.label               "שם:">
 <!ENTITY     props.value.label              "מידע:">
