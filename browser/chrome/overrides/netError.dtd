@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Kan nie die bladsy laai nie">
 <!ENTITY retry.label "Probeer weer">
 <!ENTITY returnToPreviousPage.label "Gaan terug">
-
+<!ENTITY advanced.label "Gevorderd">
 <!-- Specific error messages -->
 
 
