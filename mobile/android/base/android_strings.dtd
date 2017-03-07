@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Εμφάνιση ιστορικού αναζήτησης">
 <!ENTITY pref_import_options "Επιλογές εισαγωγής">
 <!ENTITY pref_import_android_summary "Εισαγωγή σελιδοδεικτών και ιστορικού από τον εγγενή περιηγητή">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Ανοικτές καρτέλες">
 <!ENTITY pref_private_data_history2 "Ιστορικό περιήγησης">
 <!ENTITY pref_private_data_searchHistory "Ιστορικό αναζήτησης">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Όνομα χρήστη">
 <!ENTITY doorhanger_login_edit_password_hint "Κωδικός">
 <!ENTITY doorhanger_login_edit_toggle "Προβολή κωδικού">
-<!ENTITY doorhanger_login_edit_toast_error "Απέτυχε η αποθήκευση των στοιχείων σύνδεσης">
 <!ENTITY doorhanger_login_select_message "Αντιγραφή κωδικού πρόσβασης του &formatS;;">
 <!ENTITY doorhanger_login_select_toast_copy "Ο κωδικός έχει αντιγραφεί στο πρόχειρο">
-<!ENTITY doorhanger_login_select_toast_copy_error "Δεν ήταν δυνατή ήταν αντιγραφή του κωδικού">
 <!ENTITY doorhanger_login_select_action_text "Επιλέξτε άλλο στοιχείο σύνδεσης">
 <!ENTITY doorhanger_login_select_title "Αντιγραφή κωδικού από">
 
