@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "थारायात &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; तुमच्या इतिहासान, बूकमार्क्सान, पासवर्ड्सान प्रवेश करपाक दिता आनी तुमच्या सगळ्या उपकरणांचेर टॅबां उगडपाक दिता.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "सुदार">
-<!ENTITY resetPass.label              "परतून स्थापित करात">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "खात्याचे व्यवस्थापन करात">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "पासवर्ड बदलात...">
-<!ENTITY myRecoveryKey.label          "मजी रिकव्हरी की">
-<!ENTITY resetSync2.label             "सिंक परत थारायात">
-
-<!ENTITY pairDevice.label             "उपकरणाची जोडी करात">
-
-<!ENTITY syncMy.label               "म्हजे सिंक करात">
 <!ENTITY engine.bookmarks.label     "बुकमार्क्स">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -42,16 +23,10 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "ह्या उपकरणाची जोडणी काडात">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "सेवेच्यो अटीं">
-<!ENTITY prefs.ppLink.label         "खासगी धोरण">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "गुप्तता नेटिस">
-<!ENTITY determiningAcctStatus.label     "तुमच्या खात्याची स्थिती ठरयात...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -81,12 +56,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!ENTITY welcome.description "तुमी जंय &brandShortName; वापरता थंय तुमची टॅबां, बूकमार्क्स, पासवर्ड्स आनी अदिक हातून प्रवेश घेयात.">
-
-
-
-<!ENTITY welcome.useOldSync.label "सिंकाची पोन्नी आवृत्ती वापरता?">
 
 
 

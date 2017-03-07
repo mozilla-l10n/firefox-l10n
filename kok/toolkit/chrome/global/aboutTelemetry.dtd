@@ -55,9 +55,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ल्हव SQL डिबगींग सक्षम केला. पुराय SQL स्ट्रींग्ज सकयल दाखयल्यो वचत पूण त्यो टेलिमेट्रीक सादर केल्यो वचच्यो ना.">
 
-<!ENTITY aboutTelemetry.fetchSymbols " हँग स्टॅकांखातीर कामांची नावां मेळयता">
 
-<!ENTITY aboutTelemetry.hideSymbols " हँग्जातल्यान रॉ डेटा दाखयाच">
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रींग्ज वो /regexp/)">
 
