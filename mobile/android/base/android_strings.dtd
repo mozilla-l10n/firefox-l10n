@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Arată istoricul căutărilor">
 <!ENTITY pref_import_options "Opțiuni de importare">
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Filele deschise">
 <!ENTITY pref_private_data_history2 "Istoricul navigării">
 <!ENTITY pref_private_data_searchHistory "Istoricul căutărilor">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Utilizator">
 <!ENTITY doorhanger_login_edit_password_hint "Parolă">
 <!ENTITY doorhanger_login_edit_toggle "Arată parola">
-<!ENTITY doorhanger_login_edit_toast_error "Eșec la salvarea autentificării">
 <!ENTITY doorhanger_login_select_message "Copiezi parola din &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Parolă copiată în clipboard">
-<!ENTITY doorhanger_login_select_toast_copy_error "Nu s-a putut copia parola">
 <!ENTITY doorhanger_login_select_action_text "Selectează o altă autentificare">
 <!ENTITY doorhanger_login_select_title "Copiază parola din">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
