@@ -94,6 +94,7 @@ Ping
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Escalares
 ">
@@ -106,6 +107,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Midides simples
@@ -132,13 +134,7 @@ Ping
   NOTA: la depuración SQL lenta ta activada. Puen amosase cadenes completes de SQL pero nun van unviase a Telemetry.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Recuperar nomes de función de les piles de cuelgue
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Amosar datos non procesaos de cuelgues
-">
 
 <!ENTITY aboutTelemetry.filterText "">
 

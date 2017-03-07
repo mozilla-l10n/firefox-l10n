@@ -6,5 +6,3 @@
 <!ENTITY     hostCol.label                 "Sitiu">
 <!ENTITY     statusCol.label               "Estáu">
 <!ENTITY     usageCol.label                "Almacenamientu">
-<!ENTITY     search.label                  "Guetar:">
-<!ENTITY     search.accesskey              "G">

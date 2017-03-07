@@ -51,11 +51,7 @@
 ">
 
 <!ENTITY captivePortal.title "Aniciu de sesión na rede">
-<!ENTITY captivePortal.longDesc "
-<p>Esta rede quiciabes rica'l to aniciu de sesión p'acceder a internet.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Abrir páxina d'aniciu de sesión">
 
 <!ENTITY malformedURI.title "La direición nun ye válida">
 <!ENTITY malformedURI.longDesc "
@@ -187,14 +183,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "La to conexón nun ye segura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avanzao">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa teunoloxía de seguranza obsoleta y vulnerable p'atacar. Un atacante pue revelar, de mou mui cenciellu, información que se pensaba que taba segura.">
-<!ENTITY weakCryptoAdvanced.override "(Non seguro) Tentando de cargar <span class='hostname'></span> usando seguranza obsoleta">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

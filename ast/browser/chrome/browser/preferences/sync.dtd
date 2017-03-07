@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Configurar &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; déxate acceder al to historial, marcadores, contraseñes y llingüetes abiertes pente tolos tos preseos.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Anovar">
-<!ENTITY resetPass.label              "Reafitar">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Xestionar cuenta">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "Camudar contraseña…">
-<!ENTITY myRecoveryKey.label          "La mio clave de recuperación">
-<!ENTITY resetSync2.label             "Reafitar Sync…">
-
-<!ENTITY pairDevice.label             "Empareyar un preséu">
-
-<!ENTITY syncMy.label               "Sincronizar">
 <!ENTITY engine.bookmarks.label     "Marcadores">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.accesskey      "t">
@@ -36,7 +17,6 @@
 <!ENTITY engine.addons.accesskey    "C">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Nome del preséu:">
 <!ENTITY fxaSyncDeviceName.label       "Nome del preséu">
 <!ENTITY changeSyncDeviceName.label "Camudar nome del preséu…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -44,15 +24,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Desvincular esti preséu.">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Términos del serviciu">
-<!ENTITY prefs.ppLink.label         "Política de privacidá">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Avisu de privacidá">
-<!ENTITY determiningAcctStatus.label     "Determinando l'estáu de la to cuenta…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -82,12 +57,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Escaecer esti corréu">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "Accedi a les tos llingüetes, marcadores, contraseñes y más siempres qu'uses &brandShortName;.">
-<!ENTITY welcome.signIn.label "Aniciar sesión">
-<!ENTITY welcome.createAccount.label "Crear cuenta">
-
-<!ENTITY welcome.useOldSync.label "¿Uses una versión vieya de Sync?">
 
 <!ENTITY signedOut.caption            "Lleva la web contigo">
 <!ENTITY signedOut.description        "Sincroniza los tos marcadores, historial, llingüetes, contraseñes, add-ons y preferencies pente tolos tos preseos.">
