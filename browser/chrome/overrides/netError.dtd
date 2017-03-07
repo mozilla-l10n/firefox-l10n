@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "पृष्ठ दाखल करतेवेळी समस्या">
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!ENTITY returnToPreviousPage.label "मागे जा">
-<!ENTITY advanced.label "प्रगत">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणास्तव हे पृष्ठ दाखल करू शकत नाही.</p>">
 
 <!ENTITY captivePortal.title "नेटवर्कमध्ये लॉग इन करा">
-<!ENTITY captivePortal.longDesc "<p>ह्या नेटवर्कवर इंटरनेट वापरण्यासाठी आपणास लॉग-इन करावे लागू शकते.</p>">
 
-<!ENTITY openPortalLoginPage.label "लॉगईन पृष्ठ उघडा">
+
 
 <!ENTITY malformedURI.title "हा पत्ता वैध नाही">
 <!ENTITY malformedURI.longDesc "<ul><li>वेब पत्ता शक्यतो खालील प्रमाणे लिहीला जातो <strong>http://www.example.com/</strong></li> <li>फॉरवर्ड स्लॅश वापरत आहात याची खात्री करा (जसे <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "सखोल माहिती: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "आपली जोडणी सुरक्षीत नाही">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "सखोल माहिती: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "प्रगत">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> कालबाह्य आणि हल्ला संवेदनशील असलेले सुरक्षा तंत्रज्ञान वापरते. आपण समजत असलेली सुरक्षित माहिती आक्रमणकर्ता सहजरीत्या पाहू शकतो.">
-<!ENTITY weakCryptoAdvanced.override "(असुरक्षित) कालबाह्य सुरक्षा यंत्रणा वापरून <span class='hostname'></span> लोड करण्याचा प्रयत्न करा">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
