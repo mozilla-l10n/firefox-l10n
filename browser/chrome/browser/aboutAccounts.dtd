@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Sekmelerinizi, yer imlerinizi, parolalarınızı ve daha fazlasını eşitlemek için giriş yapın.">
 <!ENTITY aboutAccountsConfig.startButton.label "Başlayın">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Sync’in eski bir sürümünü mü kullanıyorsunuz?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Eşitleme tercihleri">
 <!ENTITY aboutAccounts.noConnection.title "Bağlantı yok">
 <!ENTITY aboutAccounts.noConnection.description "Giriş yapmak için internete bağlı olmalısınız.">

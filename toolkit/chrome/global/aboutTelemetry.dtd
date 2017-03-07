@@ -82,9 +82,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "   NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "   Takılma yığınları için fonksiyon isimlerini getir ">
 
-<!ENTITY aboutTelemetry.hideSymbols "   Takılmaların ham verilerini göster ">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrele (dizgiler veya /regexp/)">
 

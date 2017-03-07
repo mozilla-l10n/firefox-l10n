@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Aşağıdaki çerezler bilgisayarınızda depolanmıştır:">
 <!ENTITY     cookiename.label               "Çerez adı">
-<!ENTITY     cookiedomain.label             "Site"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "S">
-<!ENTITY     button.removeAllCookies.label "Tümünü kaldır">
-<!ENTITY     button.removeAllCookies.accesskey "k">
+<!ENTITY     cookiedomain.label             "Site">
 
 <!ENTITY     props.name.label               "Ad:">
 <!ENTITY     props.value.label              "İçerik:">
