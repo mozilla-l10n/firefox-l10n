@@ -2,24 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label  "Hae uusia artikkeleita">
-<!ENTITY biffStart.accesskey  "H">
-<!ENTITY biffEnd.label  "minuutin välein">
+<!ENTITY loginAtStartup.label          "Hae uusia artikkeleita ohjelman käynnistyessä">
+<!ENTITY loginAtStartup.accesskey      "a">
 
-<!ENTITY loginAtStartup.label  "Hae uusia artikkeleita ohjelman käynnistyessä">
-<!ENTITY loginAtStartup.accesskey  "a">
 
-<!ENTITY useQuickMode.label  "Älä lataa artikkelin www-sivua, vaan näytä vain yhteenveto">
-<!ENTITY useQuickMode.accesskey  "Ä">
+<!ENTITY manageSubscriptions.label     "Muokkaa tilauksia…">
+<!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY manageSubscriptions.label  "Muokkaa tilauksia…">
-<!ENTITY manageSubscriptions.accesskey  "M">
-
-<!ENTITY feedWindowTitle.label "Ohjattu syötetilin luonti">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Uutiset ja blogit">
-<!ENTITY feeds.wizardShortName "Syötteet">
-<!ENTITY feeds.wizardLongName "Uutis- ja blogisyötteet">
-<!ENTITY feeds.wizardLongName.accesskey "U">
-
+<!ENTITY feedWindowTitle.label         "Ohjattu syötetilin luonti">
+<!ENTITY feeds.accountName             "Uutiset ja blogit">
