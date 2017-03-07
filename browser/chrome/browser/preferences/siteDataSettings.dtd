@@ -7,3 +7,9 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Armazenamento">
+<!ENTITY     removeSelected.label          "Remover selecionados">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Salvar alterações">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Cancelar">
+<!ENTITY     cancel.accesskey              "C">
