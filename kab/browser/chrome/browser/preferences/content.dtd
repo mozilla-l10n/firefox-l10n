@@ -53,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tasuqilt sɣuṛ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Agbur DRM">
 
 <!ENTITY  playDRMContent.label         "Ɣeṛ agbur DRM">
 <!ENTITY  playDRMContent.accesskey     "g">

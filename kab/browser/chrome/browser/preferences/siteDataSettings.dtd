@@ -7,8 +7,8 @@
 <!ENTITY     hostCol.label                 "Asmel">
 <!ENTITY     statusCol.label               "addad">
 <!ENTITY     usageCol.label                "Aklas">
-
-
+<!ENTITY     searchPlaceHolder             "Nadi:">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
 
 
 
