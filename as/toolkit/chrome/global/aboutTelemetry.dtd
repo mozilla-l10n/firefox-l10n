@@ -55,9 +55,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  টোকা: লেহেম SQL ডিবাগিং সামৰ্থবান কৰা আছে। সম্পূৰ্ণ SQL স্ট্ৰিংসমূহ তলত দেখুৱা হব পাৰে কিন্তু সিহতক টেলিমেট্ৰিত জমা দিয়া নহব।">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  হেঙ স্টেকসমূহৰ বাবে ফলন নামসমূহ প্ৰাপ্ত কৰক">
 
-<!ENTITY aboutTelemetry.hideSymbols "  হেঙসমূহৰ পৰা ৰ' তথ্য দেখুৱাওক">
 
 <!ENTITY aboutTelemetry.filterText " ফিল্টাৰ (স্ট্ৰিং অথবা /regexp/)">
 
