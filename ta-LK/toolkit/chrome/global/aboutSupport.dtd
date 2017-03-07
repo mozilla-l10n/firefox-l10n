@@ -44,6 +44,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
@@ -65,6 +67,14 @@ variant of aboutSupport.showDir.label. -->
 
 
 <!ENTITY aboutSupport.a11yTitle "அணுகுதிறன்">
+
+
+
+
+
+
+
+
 
 
 
