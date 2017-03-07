@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Pytańsku historiju pokazaś">
 <!ENTITY pref_import_options "Importěrowańske nastajenja">
 <!ENTITY pref_import_android_summary "Importěrujśo cytańske znamjenjai a historiju ze spócetnego wobglědowaka">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Rejtarki wócyniś">
 <!ENTITY pref_private_data_history2 "Pśeglědowańska historija">
 <!ENTITY pref_private_data_searchHistory "Pytańska historija">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Wužywarske mě">
 <!ENTITY doorhanger_login_edit_password_hint "Gronidło">
 <!ENTITY doorhanger_login_edit_toggle "Gronidło pokazaś">
-<!ENTITY doorhanger_login_edit_toast_error "Pśizjawjenje njedajo so składowaś">
 <!ENTITY doorhanger_login_select_message "Gronidło z &formatS; kopěrowaś?">
 <!ENTITY doorhanger_login_select_toast_copy "Gronidło jo se do mjazywótkłada kopěrowało">
-<!ENTITY doorhanger_login_select_toast_copy_error "Gronidło njedajo se kopěrowaś">
 <!ENTITY doorhanger_login_select_action_text "Druge pśizjawjenje wubraś">
 <!ENTITY doorhanger_login_select_title "Gronidło kopěrowaś z">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
