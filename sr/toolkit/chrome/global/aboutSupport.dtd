@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Вишепроцесорски прозори">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google кључ">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Кључ Mozilla сервиса за локацију">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Безбедни режим">
 
 <!ENTITY aboutSupport.showDir.label "Отвори фасциклу">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копирај податке у бележницу">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Одбијени системски позиви">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Пре неколико секунди">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Тип процеса">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Системски позив">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Аргументи">
 
 <!ENTITY aboutSupport.safeModeTitle "Покушај безбедни режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартуј са онемогућеним додацима…">

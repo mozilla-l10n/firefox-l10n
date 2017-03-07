@@ -154,7 +154,11 @@ Ping
   Напона: Споро SQL решавање је укључено. SQL стрингови ће можда бити приказани испод али не могу бити послати телеметрији.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Имена Fetch функција за стекове">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Прикажи стек податке">
 
 <!ENTITY aboutTelemetry.filterText "
   Филтрирај (стрингови или /regexp/)
