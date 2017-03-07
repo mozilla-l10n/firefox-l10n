@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "পৃষ্ঠা লোড করতে সমস্যা">
 <!ENTITY retry.label "পুনরায় চেষ্টা করুন">
 <!ENTITY returnToPreviousPage.label "পিছনে ফিরে যাও">
-<!ENTITY advanced.label "উন্নততর ">
+
 <!-- Specific error messages -->
 
 
@@ -33,7 +33,6 @@
 <!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
 
 
-<!ENTITY openPortalLoginPage.label "লগইন পাতা খুলুন">
 
 <!ENTITY malformedURI.title "ঠিকানাটি কার্যকর নয়">
 <!ENTITY malformedURI.longDesc "<ul> <li>ওয়েব ঠিকানা সাধারণত এভাবে লেখা হয় - <strong>http://www.example.com/</strong></li> <li>আপনি ফরওয়ার্ড স্ল্যাশ (<strong>/</strong>) ব্যবহার করেছেন কিনা তা পরীক্ষা করুন।</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "বিস্তারিত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "আপনার সংযোগ নিরাপদ নয়">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "উচ্চপর্যায়ের তথ্য: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "উন্নততর">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> একটি নিরাপত্তা ব্যবস্থা ব্যবহার করে যা সেকেলে এবং অরক্ষিত। একজন আক্রমণকারী সহজেই সেই তথ্যগুলো ফাঁস করে দিতে পারে যা আপনি নিরাপদ মনে করতেন।">
-<!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) পুরনো নিরাপত্তা ব্যবস্থা ব্যবহার করেই <span class='hostname'></span> লোড করার চেষ্টা করুন">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
