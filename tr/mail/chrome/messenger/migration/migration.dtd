@@ -13,8 +13,6 @@
 <!ENTITY importFromNothing.accesskey    "ç">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 veya üstü">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "Outlook Express">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "Outlook">
 <!ENTITY importFromOutlook.accesskey    "O">
 
