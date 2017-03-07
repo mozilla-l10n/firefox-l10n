@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Παράθυρα πολυδιεργασιών">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Κλειδί Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Κλειδί υπηρεσίας τοποθεσίας Mozilla">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Ασφαλής λειτουργία">
 
 <!ENTITY aboutSupport.showDir.label "Άνοιγμα καταλόγου">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Αντιγραφή δεδομένων raw στο πρόχειρο">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Απορριφθήσες κλήσεις συστήματος">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "δευτερόλεπτα πριν">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Τύπος διεργασίας">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Επιχειρήματα">
 
 <!ENTITY aboutSupport.safeModeTitle "Δοκιμή ασφαλούς λειτουργίας">
 <!ENTITY aboutSupport.restartInSafeMode.label "Επανεκκίνηση με τα πρόσθετα απενεργοποιημένα…">
