@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "مشكلة في تحميل الصفحة">
 <!ENTITY retry.label "حاول مرة أخرى">
 <!ENTITY returnToPreviousPage.label "عُد للخلف">
-
+<!ENTITY advanced.label "متقدم">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
 <!ENTITY captivePortal.title "لِج إلى الشبكة">
+<!ENTITY captivePortal.longDesc2 "<p>تحتاج الولوج إلى هذه الشبكة أولا لتستطيع الوصول إلى الإنترنت.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "افتح صفحة الولوج إلى الشبكة">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
 <!ENTITY malformedURI.longDesc "<ul> <li>تكتب عادة عناوين وِب بالشكل <strong>http://www.example.com/</strong></li> <li>تأكد أنك لا تستخدم سلاش أمامية (<strong>/</strong>).</li> </ul>">
