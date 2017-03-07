@@ -18,6 +18,14 @@
 <!ENTITY feedFolder.label            "Lagra artiklar i:">
 <!ENTITY feedFolder.accesskey        "L">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Sök efter nya artiklar var ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "minuter">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dagar">
+<!ENTITY biffDays.accesskey          "d">
+
 <!ENTITY quickMode.label             "Visa sammanfattning för artikeln istället för att läsa in webbsidan">
 <!ENTITY quickMode.accesskey         "V">
 
@@ -27,6 +35,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "M">
 <!ENTITY autoTagPrefix.placeholder   "Ange ett etikettprefix">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lägg till">
 <!ENTITY button.addFeed.accesskey    "L">
 <!ENTITY button.updateFeed.label     "Uppdatera">
