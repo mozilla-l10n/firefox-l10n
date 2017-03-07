@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprozesu leihoak">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google gakoa">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service gakoa">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modu segurua">
 
@@ -109,13 +110,13 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Isolamendua">
 
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Prozesu mota">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistema-deia">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentuak">
 
 <!ENTITY aboutSupport.safeModeTitle "Probatu modu segurua">
 <!ENTITY aboutSupport.restartInSafeMode.label "Berrabiarazi gehigarriak desgaituta…">

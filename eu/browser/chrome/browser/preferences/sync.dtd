@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
 <!ENTITY forget.accesskey            "A">
 
+<!ENTITY signedOut.caption            "Eraman ezazu weba zurekin">
 <!ENTITY signedOut.description        "Sinkronizatu laster-markak, historia, fitxak, pasahitzak, gehigarriak eta hobespenak zure gailu guztien artean.">
 <!ENTITY signedOut.accountBox.title   "Konektatu &syncBrand.fxAccount.label; erabiliz">
-
+<!ENTITY signedOut.accountBox.create  "Sortu kontua">
 <!ENTITY signedOut.accountBox.create.accesskey  "S">
-
+<!ENTITY signedOut.accountBox.signin  "Hasi saioa">
 <!ENTITY signedOut.accountBox.signin.accesskey  "H">
 
+<!ENTITY signedIn.engines.label       "Sinkronizatu gailu guztien artean">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

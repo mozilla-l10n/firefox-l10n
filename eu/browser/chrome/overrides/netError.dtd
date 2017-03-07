@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Arazoa orria kargatzerakoan">
 <!ENTITY retry.label "Saiatu berriro">
 <!ENTITY returnToPreviousPage.label "Joan atzera">
-
+<!ENTITY advanced.label "Aurreratua">
 <!-- Specific error messages -->
 
 

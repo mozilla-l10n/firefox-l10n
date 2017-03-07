@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Erakutsi laster-marka guztiak">
 <!ENTITY recentBookmarks.label "Azken laster-markak">
 <!ENTITY otherBookmarksCmd.label "Beste laster-markak">
-
+<!ENTITY mobileBookmarksCmd.label "Mugikorreko laster-markak">
 <!ENTITY bookmarksToolbarChevron.tooltip "Erakutsi laster-marka gehiago">
 <!ENTITY showRecentlyBookmarked.label     "Erakutsi azken laster-markak">
 <!ENTITY showRecentlyBookmarked.accesskey "E">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Laster-markak">
 <!ENTITY bookmarksMenuButton.other.label "Beste laster-markak">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Mugikorreko laster-markak">
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Irekitako fitxarik ez">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Erakutsi gehiago">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Erakutsi gailu honetako fitxa gehiago">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Erakutsi denak">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Erakutsi gailu honetako fitxa guztiak">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktibatu fitxak sinkronizatzea zure beste gailuetako fitxen zerrenda ikusteko.">
