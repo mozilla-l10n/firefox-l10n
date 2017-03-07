@@ -80,11 +80,10 @@
 <!ENTITY fxaccount_status_more 'Више&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Прекини&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Уклонити Firefox налог?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; ће зауставити синхронизацију са вашим налогом, али неће избрисати податке прегледања на овом уређају.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox налог &formatS; је уклоњен.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode 'Омогући отклањање грешака'>
 
@@ -93,8 +92,8 @@
 <!ENTITY fxaccount_account_type_label 'Firefox'>
 
 <!-- Localization note: these are shown by the Android system itself,
-     when the user navigates to the Android > Accounts > [Firefox
-     Account] Screen. The link takes the user to the Firefox Account
+     when the user navigates to the Android > Accounts > {Firefox
+     Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Опције'>
