@@ -5,14 +5,7 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiename.label               "Cookie Mamékɨ">
-<!ENTITY     cookiedomain.label             "íyano"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Nana fúita">
-<!ENTITY     button.removeAllCookies.accesskey "f">
+<!ENTITY     cookiedomain.label             "íyano">
 
 <!ENTITY     props.name.label               "Mamékɨ:">
 <!ENTITY     props.value.label              "Ráa ofítaɨra:">

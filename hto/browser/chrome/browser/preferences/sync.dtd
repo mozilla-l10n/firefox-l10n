@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Abɨdo fɨnoka &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "A">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; bíe íyano ó jofo jaiadɨ, jagaɨmo, fakara, ó gaɨga úitɨraɨ">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Méidote">
-<!ENTITY resetPass.label              "Ábɨdo fɨno">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Kúe dáma fákara">
-<!ENTITY manageAccount.accesskey      "d">
-<!ENTITY changePassword2.label        "Jɨaɨe fakara jone…">
-<!ENTITY myRecoveryKey.label          "Kúe ónoiga abɨdo fɨnóyena">
-<!ENTITY resetSync2.label             "Ábɨdo fɨno Sync…">
-
-<!ENTITY pairDevice.label             "Dáamakɨ dá jóriaɨ">
-
-<!ENTITY syncMy.label               "Dáamakɨ">
 <!ENTITY engine.bookmarks.label     "Rɨgɨnua">
 <!ENTITY engine.bookmarks.accesskey "R">
 
@@ -36,6 +17,7 @@
 <!ENTITY engine.addons.label        "Jɨaɨe">
 <!ENTITY engine.addons.accesskey    "J">
 <!-- Device Settings -->
+
 <!ENTITY fxaSyncDeviceName.label       "Jóriaɨ mámekɨ">
 
 
@@ -43,15 +25,10 @@
 
 
 
-<!ENTITY unlinkDevice.label           "Óni jóneri jóriaɨ">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Taɨniamo, ñúe ite">
-<!ENTITY prefs.ppLink.label         "Okuira daama íyena.">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Káɨe bíe fáka Dáma kue úai">
-<!ENTITY determiningAcctStatus.label     "Fákara íyano...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -82,21 +59,13 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.description "Ó taɨjɨamo íyano fakara, rɨgɨnua úitɨraɨ dɨga jofo bi biemo &brandShortName;.">
-<!ENTITY welcome.signIn.label "Mámekɨ yóne">
-<!ENTITY welcome.createAccount.label "Fákara fɨno">
-
-<!ENTITY welcome.useOldSync.label "¿Jáiaie ránɨaɨ jóneyena Sync?">
-
-<!ENTITY signedOut.caption            "Web ó dɨga jáide">
 <!ENTITY signedOut.description        "Dáamakɨ jone rigɨnua, jagaɨ, úitɨraɨ, fakara íemei ó gaɨga ráa ó jóriaɨmo.">
 <!ENTITY signedOut.accountBox.title   "Zɨtade &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Fákara fɨno">
-
-<!ENTITY signedOut.accountBox.signin  "Mámekɨ yóne">
 
 
-<!ENTITY signedIn.engines.label       "Jóriaɨ damakɨ jóne">
+
+
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Dáamakɨ táɨnia ó úitɨraɨ, fakara ráa íe áiyo ráanɨaɨ.">
 <!ENTITY aboutAccountsConfig.startButton.label "Taɨnede">
-<!ENTITY aboutAccountsConfig.useOldSync.label "¿Jáiaie ránɨaɨ jóneyena Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Rairuide ie Sync">
 <!ENTITY aboutAccounts.noConnection.title "íñede nitaoiyena">
 

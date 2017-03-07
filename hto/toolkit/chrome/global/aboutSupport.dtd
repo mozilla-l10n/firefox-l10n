@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Náama mamekɨ">
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Ñúera Ízoi">
 
 <!ENTITY aboutSupport.showDir.label "Úriya kómɨnɨ túño">
@@ -93,6 +95,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Rabéniko fákari bíe rabe jonéra jóne">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Rabéniko fákari íte rabemo jonéra jóne">
+
+
+
+
+
+
+
+
 
 
 <!ENTITY aboutSupport.safeModeTitle "Fáka dɨne ñúera">
