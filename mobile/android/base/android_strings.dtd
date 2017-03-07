@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Afficher l’historique de recherche">
 <!ENTITY pref_import_options "Options d’importation">
 <!ENTITY pref_import_android_summary "Importer les marque-pages et l’historique du navigateur d’origine">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Onglets ouverts">
 <!ENTITY pref_private_data_history2 "Historique de navigation">
 <!ENTITY pref_private_data_searchHistory "Historique des recherches">
