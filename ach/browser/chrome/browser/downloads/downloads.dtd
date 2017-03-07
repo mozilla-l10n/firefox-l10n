@@ -63,8 +63,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Kwany woko ki i Gin mukato">
 <!ENTITY cmd.removeFromHistory.accesskey  "w">
-
-
+<!ENTITY cmd.clearList2.label             "Jwa dirica me neno">
+<!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Jwa Gam">
 <!ENTITY cmd.clearDownloads.accesskey     "G">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -104,6 +104,8 @@
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
+
+<!ENTITY cancelDownload.label             "Juk gam">
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
@@ -129,7 +131,7 @@
 <!ENTITY openDownloadsFolder.label       "Yab boc me gam">
 
 <!ENTITY clearDownloadsButton.label       "Jwa Gam">
-<!ENTITY clearDownloadsButton.tooltip     "Jwa gam ma otum, ma ki ngolo kacel ki ma opoto">
+<!ENTITY clearDownloadsButton.tooltip     "Jwa gam ma otum, ma ki juko kacel ki ma opoto">
 <!-- LOCALIZATION NOTE (downloadsListEmpty.label):
      This string is shown when there are no items in the Downloads view, when it
      is displayed inside a browser tab.

@@ -208,10 +208,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Nen ngec ikom kakube">
 
-
-
-
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Yab dirica me kwena">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Yab dirica me penyo pi kabedo">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Yab dirica me kwena pi keto med-ikome">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Yab dirica me kwena pi kan mape iwiyamo">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Yab dirica me kwena pi gwoko mung me donyo">
 
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Lok kono nyo itwero nongo jami angeya ki i kakube ne">
 
@@ -219,6 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lo nywako mikropon mamegi ki kakube">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lo nywako dirica onyo kio mamegi ki kakube">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Yab dirica me kwena pi ket">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Kob pot buk man">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Lo kobo potbuk">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Lo tic ki purugram me DRM">
@@ -227,11 +229,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Igengo woko mikropon mamegi pi kakube man.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Igengo woko kakube man me nywako wang kio mamegi">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Igengo woko ngec me kabedo pi kakube man.">
-
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Igengo woko kano data pi kakube man.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Igengo woko jami angeya pi kakube man.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
+<!ENTITY urlbar.zoomReset.tooltip     "Nwo tero rwom me kwot">
 
 <!ENTITY searchItem.title             "Yeny">
 <!-- Toolbar items --> 
@@ -243,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Alama buk">
 <!ENTITY bookmarksMenuButton.other.label "Alamabuk Mukene">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Alamabuk me cing">
 <!ENTITY viewBookmarksSidebar2.label        "Nen gintic alama buk ma inget">
 <!ENTITY viewBookmarksToolbar.label         "Nen gintic alama buk">
 
@@ -357,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Dirica matino pe ayaba">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Nyut mukene">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Nyut dirica matino mukene ki i nyonyo man">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Nyut weng">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Nyut dirica matino weng ki i nyonyo man">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cak ribo dirica matidi me neno nying dirica matino ki i nyonyo ni mukene.">
@@ -372,7 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ter me rib">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY appMenuRemoteTabs.signin.label "Dony iyie me ribo">
-
+<!ENTITY appMenuRemoteTabs.sidebar.label "Nen gitic ma inget me dirica matino ma kiribo">
 
 <!ENTITY customizeMenu.addToToolbar.label "Med bot gintic">
 <!ENTITY customizeMenu.addToToolbar.accesskey "M">
@@ -398,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Lamed:">
 <!ENTITY urlbar.switchToTab.label     "Lokke bot dirica matidi:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Imito yilo rwom me yeny mamegi ki tam ikom yeny?">
@@ -481,8 +487,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "d">
 <!ENTITY openFrameCmd.label           "Yab pem i dirica manyen">
 <!ENTITY openFrameCmd.accesskey       "d">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Yab kakube i dirica matidi manyen me mako jami">
+<!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Nyut pem man keken">
 <!ENTITY showOnlyThisFrameCmd.accesskey "N">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -596,8 +602,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Dwiro ne dong gwa (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "D">
-
-
+<!ENTITY mediaLoop.label             "Lworre">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -753,7 +759,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Dony iyie Firefox ki i nyonyo ni mukene me neno dirica matino gi kany.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Dirica matino ma kiribo pud pe tye!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Imito neno dirica matino ni ki i nyonyo mukene kany?">
-
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Dony iyie me neno nying dirica matino ki i nyonyo ni mukene.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Dirica matino pe ayaba">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Yab ter me &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown

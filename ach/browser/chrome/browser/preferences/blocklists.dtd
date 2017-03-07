@@ -8,7 +8,7 @@
 <!ENTITY treehead.list.label          "Jami">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "Ngol">
-<!ENTITY button.cancel.accesskey      "N">
+<!ENTITY button.cancel.label          "Juki">
+<!ENTITY button.cancel.accesskey      "J">
 <!ENTITY button.ok.label              "Gwok alokaloka">
 <!ENTITY button.ok.accesskey          "G">
