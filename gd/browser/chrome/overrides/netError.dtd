@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Duilgheadas le luchdadh na duilleige">
 <!ENTITY retry.label "Feuch ris a-rithist">
 <!ENTITY returnToPreviousPage.label "Air ais">
-<!ENTITY advanced.label "Adhartach">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
 <!ENTITY captivePortal.title "Clàraich a-steach dhan lìonra">
-<!ENTITY captivePortal.longDesc "<p>Dh’fhaoidte gu bheil an lìonra seo a’ sparradh ort clàradh a-steach mus fhaigh thu cothrom air an eadar-lìon.</p>">
 
-<!ENTITY openPortalLoginPage.label "Fosgail an duilleag far an clàraich mi a-steach">
+
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
 <!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.example.com/</strong></li> <li>Dèan cinnteach gu bheil thu a’ cleachdadh slaisichean (.i. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Fiosrachadh adhartach: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Chan eil an ceangal agad tèarainte">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Fiosrachadh adhartach: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Adhartach">
-<!ENTITY weakCryptoAdvanced.longDesc "Tha <span class='hostname'></span> a’ cleachdadh teicneolas tèarainteachd a tha ro aosta agus so-leònta. Bhitheadh e furasta do chuideigin briseadh a-steach air fiosrachadh a bhiodh sàbhailte ’nad bheachd.">
-<!ENTITY weakCryptoAdvanced.override "(Chan eil seo tèarainte) Feuch is luchdaich <span class='hostname'></span> a’ cleachdadh gleusan tèarainteachd a tha ro aosta.">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
