@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Көбірек білу">
 
 <!ENTITY telemetryDesc.label             "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
-<!ENTITY enableTelemetryData.label       "Қосымша ақпаратпен бөлісу (мыс. телеметрия)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
 <!ENTITY crashReporterDesc2.label         "Құлау жөнінде хабарламалар &vendorShortName; үшін мәселелерді шешу және браузеріңізді тұрақтылау және қауіпсіз қылуға көмектеседі">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Жаңартулар">
 
-<!ENTITY updateApplication.label         "&brandShortName; жаңартулары:">
 <!ENTITY updateAuto1.label               "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
 <!ENTITY updateAuto1.accesskey           "а">
 <!ENTITY updateCheckChoose.label         "Жаңартуларды тексеру, бірақ орнату уақытын өзін тандайсын">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY autoUpdateOthers.label          "Автожаңарту:">
 <!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
 <!ENTITY enableSearchUpdate.accesskey    "п">
 
