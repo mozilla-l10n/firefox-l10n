@@ -92,10 +92,7 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: a depuração de SQL lento está ativada. As strings SQL podem ser integralmente exibidas mas elas não serão enviadas pela telemetria.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Carregar nomes das funções para pilha dos congelamentos">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Mostrar dados brutos do congelamento">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (strings ou /regexp/)">
 
