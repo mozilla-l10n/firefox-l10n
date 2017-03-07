@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Podesite &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; vam omogućava pristup historiji, zabilješkama, lozinkama i otvorenim tabovima na svim ostalim vašim uređajima.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Ažuriraj">
-<!ENTITY resetPass.label              "Resetuj">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Upravljanje računom">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "Promijeni lozinku…">
-<!ENTITY myRecoveryKey.label          "Moj Recovery ključ">
-<!ENTITY resetSync2.label             "Resetuj Sync…">
-
-<!ENTITY pairDevice.label             "Upari uređaj">
-
-<!ENTITY syncMy.label               "Sinhronizuj moje">
 <!ENTITY engine.bookmarks.label     "Zabilješke">
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label2         "Otvoreni tabovi">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Naziv uređaja:">
 <!ENTITY fxaSyncDeviceName.label       "Naziv uređaja">
 <!ENTITY changeSyncDeviceName.label "Promijeni naziv uređaja…">
 <!ENTITY changeSyncDeviceName.accesskey "j">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Spasi">
 <!ENTITY saveChangeSyncDeviceName.accesskey "s">
-<!ENTITY unlinkDevice.label           "Raskini vezu sa ovim uređajem">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Uslovi korištenja">
-<!ENTITY prefs.ppLink.label         "Polica privatnosti">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Polica privatnosti">
-<!ENTITY determiningAcctStatus.label     "Provjera statusa vašeg računa...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Zaboravi ovu email adresu">
 <!ENTITY forget.accesskey            "o">
 
-<!ENTITY welcome.description "Pristupite svojim tabovima, lozinkama i ostalim stvarima gdje god koristili &brandShortName;.">
-<!ENTITY welcome.signIn.label "Prijava">
-<!ENTITY welcome.createAccount.label "Kreiraj račun">
-
-<!ENTITY welcome.useOldSync.label "Koristite stariju verziju Synca?">
-
-<!ENTITY signedOut.caption            "Ponesite vaš Web sa vama">
 <!ENTITY signedOut.description        "Sinhronizujte vaše zabilješke, historiju, tabove, lozinke, add-one, i druge postavke na svim vašim uređajima.">
 <!ENTITY signedOut.accountBox.title   "Poveži se sa &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Kreiraj račun">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Prijava">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sinhronizuj sve uređaje">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

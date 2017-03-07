@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NAPOMENA: Debuggiranje sporog SQL-a je omogućeno. Puni SQL stringovi mogu biti prikazani ispod ali neće biti poslani Telemetry-u.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Dobavi nazive funkcija za hang stack-ove">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Prikaži sirove podatke od padova">
 
 <!ENTITY aboutTelemetry.filterText "  Filtriraj (stringove ili /regexp/)">
 

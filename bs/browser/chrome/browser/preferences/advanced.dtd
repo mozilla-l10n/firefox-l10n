@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Naučite više">
 
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, upotrebi, hardveru i prilagođenjima vašeg browsera sa &vendorShortName;-om kako bi nam pomogli da unaprijedimo &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Dijeli dodatne podatke (npr. Telemetriju)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Naučite više">
 
 <!ENTITY crashReporterDesc2.label         "Izvještaji o rušenju pomažu &vendorShortName;-i da popravi probleme i učini vaš browser stabilnijim i sigurnijim">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Update">
 
-<!ENTITY updateApplication.label         "&brandShortName; nadogradnje:">
 <!ENTITY updateAuto1.label               "Automatski instaliraj nadogradnje (preporučeno: unaprijeđena sigurnost)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "Provjeri za nadogradnju, ali me prvo pitaj da li želim instalirati">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju update-a">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Automatski nadogradi:">
 <!ENTITY enableSearchUpdate.label        "Pretraživače">
 <!ENTITY enableSearchUpdate.accesskey    "č">
 

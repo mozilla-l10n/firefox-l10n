@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Problem sa učitavanjem stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
 <!ENTITY returnToPreviousPage.label "Idi nazad">
-<!ENTITY advanced.label "Napredno">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
 
 <!ENTITY captivePortal.title "Prijavi se na mrežu">
-<!ENTITY captivePortal.longDesc "<p>Ova mreža može od vas zatražiti da se prijavite da biste pristupili internetu.</p>">
 
-<!ENTITY openPortalLoginPage.label "Otvori stranicu za prijavu">
+
 
 <!ENTITY malformedURI.title "Adresa je nevažeća">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web adrese su obično napisane kao <strong>http://www.primjer.ba/</strong></li> <li>Pobrinite se da koristite kose crte (tj. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Napredna info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Vaša veza nije sigurna">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Napredna info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Napredno">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>koristi zastarjelu sigurnosnu tehnologiju koja je ranjiva na napade. Napadač bi lahko mogao otkriti podatke koje ste smatrali sigurnim.">
-<!ENTITY weakCryptoAdvanced.override "(Nije sigurno) Probaj učitati <span class='hostname'></span> koristeći zastarjelu zaštitu">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
