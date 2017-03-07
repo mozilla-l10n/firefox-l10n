@@ -80,11 +80,10 @@
 <!ENTITY fxaccount_status_more 'অারো&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'বিযুক্ত&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'ফায়ারফক্স অ্যাকাউন্ট মুছে ফেলবেন?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; আপনার অ্যাকাউন্টের সাথে সিঙ্ক করা বন্ধ করবে, কিন্তু এই ডিভাইসে আপনার ব্রাউজিং ডেটা মুছে ফেলবে না।'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'ফায়ারফক্স অ্যাকাউন্ট &formatS; মুছে ফেলা হয়েছে।'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode 'ডিবাগ মোড সক্রিয়করন'>
 
