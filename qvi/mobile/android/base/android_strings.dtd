@@ -366,7 +366,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Rikuchina shuk nishkanakuna chay maskana">
 <!ENTITY pref_import_options "Tawka rikurina yaykuna">
 <!ENTITY pref_import_android_summary "Kanchamanta apamuy akllashka pankakuna chay mawka pankakuna wanpuna kallarishka">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Mawka pankakuna wanpunatak">
 <!ENTITY pref_private_data_searchHistory "Mawka pankakuna maskana">
 <!ENTITY pref_private_data_formdata2 "Mawka pankakuna formularyupi">
@@ -495,10 +496,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Shinahukpa shuti">
 <!ENTITY doorhanger_login_edit_password_hint "Rimaypakana">
 <!ENTITY doorhanger_login_edit_toggle "Rikuchina rimay pakana">
-<!ENTITY doorhanger_login_edit_toast_error "Mana allichi usharirka tachurita">
 <!ENTITY doorhanger_login_select_message "Kutin killkana rimaypakana &formatS;pak?">
 <!ENTITY doorhanger_login_select_toast_copy "Rimaypakana kutin killkashkata panka apanakunaman">
-<!ENTITY doorhanger_login_select_toast_copy_error "Na usharin kutin killkana rimaypakanata">
 <!ENTITY doorhanger_login_select_action_text "Akllana shuk arik">
 <!ENTITY doorhanger_login_select_title "Kutin killkaana rimaypakana chay manta">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

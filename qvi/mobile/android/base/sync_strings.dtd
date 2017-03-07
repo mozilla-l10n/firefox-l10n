@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Ashtawan&ellipsis;">
 <!ENTITY fxaccount_remove_account "Mana llamiraypashka&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Kichuna cuenta kay Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; shayachinka paktaninata kanpak cuenta, shina na anchuchinka nimapash chani kay maskana chay irunrin.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Cuenta chay Firefox &formatS; anchuchishka.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Murikuyana pichanakancha">
 <!-- Localization note: this is the name shown by the Android system
