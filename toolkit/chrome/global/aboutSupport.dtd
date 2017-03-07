@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multi-processamento de janelas">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Chave Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Chave de serviço da localização da Mozilla">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo de segurança">
 
 <!ENTITY aboutSupport.showDir.label "Abrir diretório">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar dados para a área de transferência">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Chamadas de sistema rejeitadas">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "segundos atrás">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de processo">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Tente o modo de segurança">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar com os extras desativados…">

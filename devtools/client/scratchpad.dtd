@@ -91,9 +91,9 @@
 <!ENTITY display.accesskey            "t">
 <!ENTITY display.key                  "l">
 
-<!ENTITY pprint.label                 "Impressão engraçada">
+<!ENTITY pprint.label                 "Formatação bonita">
 <!ENTITY pprint.key                   "p">
-<!ENTITY pprint.accesskey             "p">
+<!ENTITY pprint.accesskey             "F">
 <!-- LOCALIZATION NOTE (environmentMenu.label, accesskey): This menu item was
   -  renamed from "Context" to avoid confusion with the right-click context
   -  menu in the text area. It refers to the JavaScript Environment (or context)

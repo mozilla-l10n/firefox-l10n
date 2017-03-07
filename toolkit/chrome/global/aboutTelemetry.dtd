@@ -52,7 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Bloqueios de threads">
 
-<!ENTITY aboutTelemetry.capturedStacksSection "  Pilhas capturadas">
+<!ENTITY aboutTelemetry.capturedStacksSection "  Stacks capturadas">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Escalares">
 
@@ -80,9 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativa. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Obter nome das funções para conjuntos de bloqueios">
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Obter nomes de funções para stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Mostrar dados em bruto dos bloqueios">
+<!ENTITY aboutTelemetry.hideStackSymbols "  Mostrar dados em bruto de stack">
 
 <!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">
 

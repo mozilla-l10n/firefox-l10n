@@ -47,7 +47,7 @@
 <!ENTITY btnPageLogging.tooltip "Registar mensagens enviadas para objeto window.console">
 <!ENTITY btnPageLogging.accesskey3 "g">
 <!ENTITY btnConsoleErrors       "Erros">
-<!ENTITY btnConsoleInfo         "Info">
+<!ENTITY btnConsoleInfo         "Informação">
 <!ENTITY btnConsoleWarnings     "Avisos">
 <!ENTITY btnConsoleLog          "Registo">
 <!ENTITY btnConsoleXhr          "XHR">
@@ -60,7 +60,7 @@
 <!ENTITY btnServerLogging.tooltip     "Registar mensagens recebidas de um servidor web">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "Erros">
-<!ENTITY btnServerInfo                "Info">
+<!ENTITY btnServerInfo                "Informação">
 <!ENTITY btnServerWarnings            "Avisos">
 <!ENTITY btnServerLog                 "Registo">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
