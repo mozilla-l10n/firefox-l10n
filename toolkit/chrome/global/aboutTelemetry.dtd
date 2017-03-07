@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  SYLW: Mae dadfygio SQL araf wedi ei alluogi. Gall llinynnau SQL llawn gael eu dangos isod ond ni fyddant yn cael eu trosglwyddo i'r Telemetreg.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Estyn enwau swyddogaethau o'r pentyrrau oedi">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Dangos data bras o'r oedi">
 
 <!ENTITY aboutTelemetry.filterText "  Hidl (llinyn neu /regexp/)">
 

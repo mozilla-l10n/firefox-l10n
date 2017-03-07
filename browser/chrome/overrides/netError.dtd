@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisiwch eto">
 <!ENTITY returnToPreviousPage.label "Ewch Nôl">
-<!ENTITY advanced.label "Uwch">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
 <!ENTITY captivePortal.title "Mewngofnodi i'r rhwydwaith">
-<!ENTITY captivePortal.longDesc "<p>Efallai y bydd y rhwydwaith angen i chi fewngofnodi i ddefnyddio'r rhyngrwyd.</p>">
 
-<!ENTITY openPortalLoginPage.label "Agor Tudalen Mewngofnodi">
+
 
 <!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
 <!ENTITY malformedURI.longDesc "<ul> <li>Fel rheol mae cyfeiriadau Gwe'n cael eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gwybodaeth uwch: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Nid yw eich cysylltiad yn ddiogel">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Gwybodaeth uwch: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Uwch">
-<!ENTITY weakCryptoAdvanced.longDesc "Mae <span class='hostname'></span> yn defnyddio hen dechnoleg diogelwch sy'n fregus iawn. Gall ymosodwr ddatgelu'n hawdd fanylion roeddech yn meddwl eu bod yn ddiogel.">
-<!ENTITY weakCryptoAdvanced.override "(Ddim yn ddiogel) Ceisiwch llwytho <span class='hostname'></span> gan ddefnyddio hen offer diogelwch">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
