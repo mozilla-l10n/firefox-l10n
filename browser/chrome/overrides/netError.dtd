@@ -31,11 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
 <!ENTITY captivePortal.title "เข้าสู่ระบบเครือข่าย">
-<!ENTITY captivePortal.longDesc "
-<p>เครือข่ายนี้อาจต้องการให้คุณเข้าสู่ระบบเพื่อเข้าถึงอินเทอร์เน็ต</p>
-">
 
-<!ENTITY openPortalLoginPage.label "เปิดหน้าเข้าสู่ระบบ">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!ENTITY malformedURI.longDesc "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
@@ -106,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "การเชื่อมต่อของคุณไม่ปลอดภัย">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ข้อมูลขั้นสูง: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "ขั้นสูง">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ใช้เทคโนโลยีความปลอดภัยที่ล้าสมัยและเสี่ยงต่อการถูกโจมตี ผู้โจมตีสามารถเปิดเผยข้อมูลที่คุณคิดว่าปลอดภัยได้อย่างง่ายดาย">
-<!ENTITY weakCryptoAdvanced.override "(ไม่ปลอดภัย) ลองโหลด <span class='hostname'></span> โดยใช้ความปลอดภัยที่ล้าสมัย">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
