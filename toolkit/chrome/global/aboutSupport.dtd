@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesowe wokna">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kluč Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kluč słužby postajenja stejnišća Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Wěsty modus">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Hrube daty do mjezyskłada kopěrować">
 
 <!ENTITY aboutSupport.sandboxTitle "Pěskowy kašćik">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Wotpokazane systemowe wołanja">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "sekundami">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Procesowy typ">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenty">
 
 <!ENTITY aboutSupport.safeModeTitle "Wěsty modus spytać">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ze znjemóžnjenymi přidatkami znowa startować…">
