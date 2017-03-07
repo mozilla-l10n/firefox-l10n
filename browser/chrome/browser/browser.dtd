@@ -286,7 +286,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.label             "Новая картка кантэйнера">
 <!ENTITY newUserContext.accesskey         "К">
 <!ENTITY newNavigatorCmd.label        "Новае акно">
-<!ENTITY newNavigatorCmd.key        "Н">
+<!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Н">
 <!ENTITY newPrivateWindow.label     "Новае прыватнае акно">
 <!ENTITY newPrivateWindow.accesskey "а">
@@ -304,16 +304,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "р"> 
 <!ENTITY copyCmd.label            "Капіяваць">  
-<!ENTITY copyCmd.key            "К">  
-<!ENTITY copyCmd.accesskey          "С"> 
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "К"> 
 <!ENTITY pasteCmd.label           "Уставіць">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "У"> 
 <!ENTITY deleteCmd.label          "Выдаліць">  
-<!ENTITY deleteCmd.key            "В">  
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "д"> 
 <!ENTITY selectAllCmd.label         "Вылучыць усё">  
-<!ENTITY selectAllCmd.key         "у">  
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ё"> 
 <!ENTITY preferencesCmd2.label       "Налады">
 <!ENTITY preferencesCmd2.accesskey     "Н">
