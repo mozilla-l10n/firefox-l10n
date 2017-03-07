@@ -388,6 +388,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Shfaq historik kërkimesh">
 <!ENTITY pref_import_options "Mundësi importimi">
 <!ENTITY pref_import_android_summary "Importoni faqerojtës dhe historik prej shfletuesit të Android-it">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Skeda të hapura">
 <!ENTITY pref_private_data_history2 "Historik shfletimesh">
 <!ENTITY pref_private_data_searchHistory "Historik kërkimesh">
@@ -519,10 +521,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Emër përdoruesi">
 <!ENTITY doorhanger_login_edit_password_hint "Fjalëkalim">
 <!ENTITY doorhanger_login_edit_toggle "Shfaqe fjalëkalimin">
-<!ENTITY doorhanger_login_edit_toast_error "Dështoi ruajtja e kredencialeve të hyrjes">
 <!ENTITY doorhanger_login_select_message "Kopjoje fjalëkalimin prej &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Fjalëkalimi u kopjua në të papastërt">
-<!ENTITY doorhanger_login_select_toast_copy_error "S’u kopjua dot fjalëkalimi">
 <!ENTITY doorhanger_login_select_action_text "Përzgjidh të tjera kredenciale hyrjeje">
 <!ENTITY doorhanger_login_select_title "Kopjoje fjalëkalimin prej">
 
