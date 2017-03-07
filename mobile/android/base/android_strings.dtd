@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "הצגת היסטורית חיפוש">
 <!ENTITY pref_import_options "אפשרויות יבוא">
 <!ENTITY pref_import_android_summary "יבוא סימניות והיסטוריה מהדפדפן המובנה">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "לשוניות פתוחות">
 <!ENTITY pref_private_data_history2 "היסטוריית גלישה">
 <!ENTITY pref_private_data_searchHistory "היסטוריית חיפוש">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "שם משתמש">
 <!ENTITY doorhanger_login_edit_password_hint "ססמה">
 <!ENTITY doorhanger_login_edit_toggle "הצגת ססמה">
-<!ENTITY doorhanger_login_edit_toast_error "שמירת הכניסה נכשלה">
 <!ENTITY doorhanger_login_select_message "האם להעתיק ססמה מ־&formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "הססמה הועתקה לזכרון">
-<!ENTITY doorhanger_login_select_toast_copy_error "לא ניתן להעתיק ססמה">
 <!ENTITY doorhanger_login_select_action_text "בחירת כניסה אחרת">
 <!ENTITY doorhanger_login_select_title "העתקת ססמה מ־">
 
