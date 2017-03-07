@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
 <!ENTITY returnToPreviousPage.label "Ugrás vissza">
-<!ENTITY advanced.label "Speciális">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
 <!ENTITY captivePortal.title "Bejelentkezés a hálózatba">
-<!ENTITY captivePortal.longDesc "<p>Ez a hálózat megkövetelheti a bejelentkezést az internet eléréséhez.</p>">
 
-<!ENTITY openPortalLoginPage.label "Bejelentkezőképernyő megnyitása">
+
 
 <!ENTITY malformedURI.title "A cím érvénytelen">
 <!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Speciális információ: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "A kapcsolat nem biztonságos">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Speciális információ: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Speciális">
-<!ENTITY weakCryptoAdvanced.longDesc "A(z) <span class='hostname'></span> elavult és sebezhető biztonsági technológiát használ. Egy támadó egyszerűen megszerezhet olyan adatokat, amiket Ön biztonságban lévőnek hitt.">
-<!ENTITY weakCryptoAdvanced.override "(Nem biztonságos) Próbálja meg elavult biztonsági technológia használatával betölteni ezt: <span class='hostname'></span>">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
