@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprozesu leihoak">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modu segurua">
 
 <!ENTITY aboutSupport.showDir.label "Ireki direktorioa">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiatu datu gordinak arbelean">
 
 <!ENTITY aboutSupport.sandboxTitle "Isolamendua">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Probatu modu segurua">
 <!ENTITY aboutSupport.restartInSafeMode.label "Berrabiarazi gehigarriak desgaituta…">
