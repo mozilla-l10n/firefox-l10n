@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     usageCol.label                "存储">
-<!ENTITY     search.label                  "搜索：">
-<!ENTITY     search.accesskey              "S">
