@@ -35,6 +35,7 @@
 
 <!ENTITY captivePortal.title "Злучыцца з сеткай">
 
+<!ENTITY openPortalLoginPage.label2 "Адкрыць старонку ўваходу ў сетку">
 
 <!ENTITY malformedURI.title "Несапраўдны адрас">
 <!ENTITY malformedURI.longDesc "<ul> <li>Адрас Сеціва звычайна пішацца, як <strong>http://www.example.com/</strong></li> <li>Упэўніцеся, што вы ўжываеце простыя косыя рыскі (г.зн. <strong>/</strong>).</li> </ul>">
