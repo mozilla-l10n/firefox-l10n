@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Các cửa sổ đa tiến trình">
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "Mở Thư mục">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -102,6 +104,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Thử dùng Chế độ an toàn">
 <!ENTITY aboutSupport.restartInSafeMode.label "Khởi động lại, tắt hết các tiện ích…">
