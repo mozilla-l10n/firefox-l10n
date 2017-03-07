@@ -34,9 +34,13 @@
 ">
 
 
+
+
+
 <!ENTITY aboutTelemetry.histogramsSection "
   Хистограми
 ">
+
 
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
@@ -62,13 +66,7 @@
 ЗАБЕЛЕШКА: Овозможено е бавно дебагирање на SQL. Подолу ќе се прикажуваат целосни стрингови од SQL, но нема да бидат испраќани до Telemetry.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
- Извлечи ги имињата на функциите од закочувањата
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Прикажи сирови податоци од закочувања
-">
 
 
 
