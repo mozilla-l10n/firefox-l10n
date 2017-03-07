@@ -34,9 +34,7 @@
 <!ENTITY generic.longDesc "<p>Untuk alasan tertentu &brandShortName; tidak dapat memuat laman ini.</p>">
 
 <!ENTITY captivePortal.title "Masuk ke jaringan">
-<!ENTITY captivePortal.longDesc "<p>Jaringan ini mungkin mengharuskan Anda untuk masuk sebelum menggunakan internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Tampilkan Laman Masuk">
 
 <!ENTITY malformedURI.title "Alamat tidak valid">
 <!ENTITY malformedURI.longDesc "<ul> <li>Umumnya alamat web ditulis seperti ini <strong>http://www.example.com/</strong></li> <li>Pastikan Anda menggunakan garis miring depan, yakni <strong>/</strong>).</li> </ul>">
@@ -107,14 +105,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Info lebih lanjut: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Sambungan Anda tidak aman">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Info lebih lanjut: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Canggih">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> menggunakan teknologi keamanan yang ketinggalan zaman dan rentan penyerangan. Penyerang bisa mengungkapkan informasi yang Anda sangka aman.">
-<!ENTITY weakCryptoAdvanced.override "(Tidak aman) Coba muat <span class='hostname'></span> menggunakan keamanan yang ketinggalan zaman">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
