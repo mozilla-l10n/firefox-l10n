@@ -4,7 +4,7 @@
 
 <!ENTITY defaultSearchEngine.label             "Standard søkjemotor">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Vel standard søkjemotor. &brandShortName; brukar han i adresselinja, søkjelinja og startsider.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Vel standard søkjemotor. &brandShortName; brukar han i adresselinja, i søkjelinja og på startsida.">
 
 <!ENTITY provideSearchSuggestions.label        "Tilby søkjeforslag">
 <!ENTITY provideSearchSuggestions.accesskey    "T">
