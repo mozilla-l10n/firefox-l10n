@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Ribotoji veiksena">
 
 <!ENTITY aboutSupport.showDir.label "Atverti aplanką">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopijuoti neapdorotus duomenis į iškarpinę">
 
 <!ENTITY aboutSupport.sandboxTitle "Izoliavimas">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Išbandykite ribotąją veikseną">
 <!ENTITY aboutSupport.restartInSafeMode.label "Perleisti išjungus priedus…">

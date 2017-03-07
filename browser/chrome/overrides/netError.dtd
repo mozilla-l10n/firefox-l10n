@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Nepavyko įkelti tinklalapio">
 <!ENTITY retry.label "Bandyti dar kartą">
 <!ENTITY returnToPreviousPage.label "Eiti atgal">
-<!ENTITY advanced.label "Išsamiau">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
 <!ENTITY captivePortal.title "Prisijungti prie tinklo">
-<!ENTITY captivePortal.longDesc "<p>Šis tinklas gali reikalauti prisijungimo, kad leistų naudotis internetu.</p>">
 
-<!ENTITY openPortalLoginPage.label "Atverti prisijungimo tinklalapį">
+
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
 <!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <li>Įsitikinkite, kad naudojate tinkamą adreso komponentų skirtuką (t. y., dešininį brūkšnį <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildoma informacija: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Jūsų ryšys nėra saugus">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Papildoma informacija: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Išsamiau">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> naudoja saugumo technologiją, kuri yra pasenusi ir pažeidžiama. Piktavalis galėtų lengvai perimti informaciją, kuri jūsų manymu buvo saugi.">
-<!ENTITY weakCryptoAdvanced.override "(Nesaugu) Bandyti įkelti <span class='hostname'></span> su pasenusia apsauga">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
