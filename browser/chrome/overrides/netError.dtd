@@ -43,11 +43,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>">
 
 <!ENTITY captivePortal.title "כניסה לרשת">
-<!ENTITY captivePortal.longDesc "
-<p>יתכן שיהיה עליך לבצע כניסה כדי להתחבר לאינטרנט.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "פתיחת עמוד הכניסה">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
 <!ENTITY malformedURI.longDesc "
@@ -162,14 +158,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "מידע מתקדם: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "החיבור שלך אינו בטוח">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "מידע מתקדם: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "מתקדם">
-<!ENTITY weakCryptoAdvanced.longDesc "האתר בכתובת <span class='hostname'></span> משתמש בטכנולוגית אבטחה שאינה עדכנית וחשופה להתקפות. תוקף יכול בקלות לחשוף מידע שלכאורה אמור היה להיות מוגן.">
-<!ENTITY weakCryptoAdvanced.override "(לא בטוח) לנסות לטעון את <span class='hostname'></span> עם אבטחה לא עדכנית">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
