@@ -2,23 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Sök efter nya artiklar var ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minut">
+<!ENTITY loginAtStartup.label          "Sök efter nya artiklar vid start">
+<!ENTITY loginAtStartup.accesskey      "S">
 
-<!ENTITY loginAtStartup.label "Sök efter nya artiklar vid start"> 
-<!ENTITY loginAtStartup.accesskey "S">
 
-<!ENTITY useQuickMode.label "Visa normalt artikelsammanfattningen i stället för att hämta webbsidan"> 
-<!ENTITY useQuickMode.accesskey "V">
-
-<!ENTITY manageSubscriptions.label "Hantera prenumerationer…"> 
+<!ENTITY manageSubscriptions.label     "Hantera prenumerationer…">
 <!ENTITY manageSubscriptions.accesskey "a">
 
-<!ENTITY feedWindowTitle.label "RSS-kanalguide">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Bloggar &amp; nyhetskanaler">
-<!ENTITY feeds.wizardShortName "RSS-kanaler">  
-<!ENTITY feeds.wizardLongName "Bloggar &amp; nyhetskanaler">
-<!ENTITY feeds.wizardLongName.accesskey "R">
+<!ENTITY feedWindowTitle.label         "RSS-kanalguide">
+<!ENTITY feeds.accountName             "Bloggar &amp; nyhetskanaler">
