@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Ավելին&ellipsis;">
 <!ENTITY fxaccount_remove_account "Անջատել&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Ջնջե՞լ Firefox-ի հաշիվը:">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;-ը այլևս համաժամեցում չի կատարի, որևէ տվյալ չի ջնջի:">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "&formatS; Firefox-ի հաշիվը ջնջվել է:">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Միացնել Վրիպազերծումը">
 <!-- Localization note: this is the name shown by the Android system
