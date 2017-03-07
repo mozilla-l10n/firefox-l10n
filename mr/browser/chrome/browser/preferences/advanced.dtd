@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "आणखी शिका">
 
 <!ENTITY telemetryDesc.label             "ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
-<!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजे Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "आणखी शिका">
 
 <!ENTITY crashReporterDesc2.label         "क्रॅश अहवाल &vendorShortName; ला आपल्या अडचणी सोडविण्यासाठी आणि ब्राउझर अधिक स्थिर व सुरक्षित ठेवण्यासाठी मदत करतो">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "सुधारित आवृत्ती">
 
-<!ENTITY updateApplication.label         "&brandShortName; सुधारणा">
 <!ENTITY updateAuto1.label               "स्वयंरित्या सुधारणा इंस्टॉल करा (शिफारसीय: सुधारित सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापीत करायचे कि नाही ते मला ठरवू द्या">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "स्वयंरित्या सुधारणा करा">
 <!ENTITY enableSearchUpdate.label        "सर्च इंजिन्स">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
