@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Tik\u0027ut pe ri natab\u0027äl richin kanoxïk">
 <!ENTITY pref_import_options "Kek\u0027am pe ri taq cha\u0027oj">
 <!ENTITY pref_import_android_summary "Kejik\u0027 pe ri taq yaketal chuqa\u0027 natab\u0027äl e k\u0027o pa ajnab\u0027ey okik\u0027amaya\u0027l">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Kejaq ri taq ruwi\u0027">
 <!ENTITY pref_private_data_history2 "Runatab\u0027al okem pa k\u0027amaya\u0027l">
 <!ENTITY pref_private_data_searchHistory "Runatab\u0027al kanob\u0027äl">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Rub\u0027i\u0027 winäq">
 <!ENTITY doorhanger_login_edit_password_hint "Ewan tzij">
 <!ENTITY doorhanger_login_edit_toggle "Tik\u0027ut pe ri ewan tzij">
-<!ENTITY doorhanger_login_edit_toast_error "Xsach toq tajin nuyäk ri okitz\u0027ib\u0027">
 <!ENTITY doorhanger_login_select_message "¿Tiwachib\u0027ëx ri ewan tzij pa &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Ewan tzij wachib\u0027en pa molwuj">
-<!ENTITY doorhanger_login_select_toast_copy_error "Man xwachib\u0027ëx ta ri ewan tzij">
 <!ENTITY doorhanger_login_select_action_text "Tacha\u0027 jun chik rutikirisaxik molojri\u0027ïl">
 <!ENTITY doorhanger_login_select_title "Tiwachib\u0027ëx ri ewan tzij k\u0027o chupam ri">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

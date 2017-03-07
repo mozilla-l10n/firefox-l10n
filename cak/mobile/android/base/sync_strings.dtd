@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Ch\u0027aqa\u0027 chik&ellipsis;">
 <!ENTITY fxaccount_remove_account "Tichup&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "¿Tiyuj el ri rub\u0027i\u0027 taqoya\u0027l richin Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; xtuya\u0027 kan ruximik ataqoya\u0027l, majun kanonel tzij xtuyüj el chupam ri okisaxel.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Yujun rub\u0027i\u0027 taqoya\u0027l richin Firefox &formatS;.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Titzïj ri chojmirisaxik rub\u0027eyal">
 <!-- Localization note: this is the name shown by the Android system
