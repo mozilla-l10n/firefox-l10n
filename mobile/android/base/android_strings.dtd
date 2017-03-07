@@ -369,7 +369,7 @@ size. -->
 <!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "A raposa ultrapassa as suas expetativas com mais velocidade, maior flexibilidade e mais segurança. Como não temos fins lucrativos, nós estamos livres para inovar em seu nome sem qualquer pressão ou compromisso. Isto significa uma melhor experiência para si e um futuro brilhante para a Web.">
+<!ENTITY pref_font_size_preview_text "A rápida raposa laranja salta por cima das suas expetativas com mais velocidade, maior flexibilidade e mais segurança. Como não temos fins lucrativos, somos livres para inovar em seu nome sem qualquer pressão ou compromisso. Isto significa uma melhor experiência para si e um futuro brilhante para a Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Define se os websites podem reproduzir automaticamente vídeos e outros tipos de conteúdos multimédia">
@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostrar histórico de pesquisa">
 <!ENTITY pref_import_options "Opções de importação">
 <!ENTITY pref_import_android_summary "Importar marcadores e histórico do navegador nativo">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Separadores abertos">
 <!ENTITY pref_private_data_history2 "Histórico de navegação">
 <!ENTITY pref_private_data_searchHistory "Histórico de pesquisas">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nome de utilizador">
 <!ENTITY doorhanger_login_edit_password_hint "Palavra-passe">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar palavra-passe">
-<!ENTITY doorhanger_login_edit_toast_error "Não foi possível guardar a credencial">
 <!ENTITY doorhanger_login_select_message "Copiar palavra-passe de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Palavra-passe copiada para a área de transferência">
-<!ENTITY doorhanger_login_select_toast_copy_error "Não foi possível copiar a palavra-passe">
 <!ENTITY doorhanger_login_select_action_text "Selecione outra credencial">
 <!ENTITY doorhanger_login_select_title "Copiar palavra-passe de">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
