@@ -71,9 +71,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीमा sql दोषसुधार सक्षम अछि. पूर्ण रूप सँ sql  वाक्यांश नीच्चाँ देखाइ दिए सकैत अछि मुदा ओ दूरमापी केँ जमा कएल जाए सकैत अछि ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "पाउ फंक्शन नाम लटकाव ढेरी खातिर">
 
-<!ENTITY aboutTelemetry.hideSymbols "देखाबू कच्चा आंकड़ा झूलए सँ">
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग अथवा /regexp/)">
 

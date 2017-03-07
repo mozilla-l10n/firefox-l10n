@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; सेटअप करू ">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; अहाँकेँ अपन सभ युक्तिसभमे अहाँक इतिहास, पुस्तचिह्न, गुड़किल्ली आओर खुलल टैबक पहुँच लेब दैत अछि.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "अद्यतन करू ">
-<!ENTITY resetPass.label              "फेर सेट करू ">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "खाता प्रबंधित करू (n)">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "गुड़किल्ली बदलू…">
-<!ENTITY myRecoveryKey.label          "हमर पुनर्प्राप्ति कुँजी">
-<!ENTITY resetSync2.label             "सिंक फेर सेट करू…">
-
-<!ENTITY pairDevice.label             "युक्ति युग्मित करू">
-
-<!ENTITY syncMy.label               "तुल्यकालित करू ">
 <!ENTITY engine.bookmarks.label     "पुस्तचिह्न">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -36,6 +17,7 @@
 <!ENTITY engine.addons.label        "सहयुक्ति">
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
+
 <!ENTITY fxaSyncDeviceName.label       "युक्ति नाम">
 
 
@@ -43,15 +25,10 @@
 
 
 
-<!ENTITY unlinkDevice.label           "ई युक्ति केँ कड़ीविहीन करू">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "सेवा शर्त">
-<!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "गोपनीयता नीति">
-<!ENTITY determiningAcctStatus.label     "अपन खाता केर स्थितिक निर्धारण करू...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -82,21 +59,13 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.description "अपन टैब, पुस्तचिह्न, कूटशब्द आओर किछ आओर केर पहुँच लिअ जतए भी अहाँ&brandShortName; क उपयोग करए चाहैत छी.">
-<!ENTITY welcome.signIn.label "साइन इन">
-<!ENTITY welcome.createAccount.label "खाता बनाउ">
-
-<!ENTITY welcome.useOldSync.label "सिंक केर पुरान संस्करण क' उपयोग कए रहल छी?">
-
-<!ENTITY signedOut.caption            "अपन वेब अपना सँग लिअ">
 <!ENTITY signedOut.description        "अपन सभ उपकरण पर अपन बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, आओर वरीयताकेँ तुल्यकालित करू.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सँग कनेक्ट करू.">
-<!ENTITY signedOut.accountBox.create  "खाता बनाउ">
-
-<!ENTITY signedOut.accountBox.signin  "साइन इन">
 
 
-<!ENTITY signedIn.engines.label       "सभ डिवाइस केँ सिंक करू">
+
+
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

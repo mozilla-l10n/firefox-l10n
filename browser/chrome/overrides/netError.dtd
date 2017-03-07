@@ -95,12 +95,6 @@ was trying to connect. -->
 <!ENTITY sslv3Used.title "सुरक्षित रूप सँ कनेक्ट करए मे असमर्थ">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
-
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> आब पुरान भ गेल अछि आओर हमला खातिर भेद्य भ चुकल अछि. एक हमला द्वारा अहाँक सूचना जकरा अहाँ सुरक्षित बुझैत छी ओ आसानी सँ प्रकट भ सकैत अछि.">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
