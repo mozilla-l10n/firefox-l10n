@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Паказаць усе закладкі">
 <!ENTITY recentBookmarks.label "Нядаўнія закладкі">
 <!ENTITY otherBookmarksCmd.label "Іншыя закладкі">
+<!ENTITY mobileBookmarksCmd.label "Мабільныя закладкі">
 <!ENTITY bookmarksToolbarChevron.tooltip "Паказаць больш закладак">
 <!ENTITY showRecentlyBookmarked.label     "Паказаць нядаўнія закладкі">
 <!ENTITY showRecentlyBookmarked.accesskey "а">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Закладкі">
 <!ENTITY bookmarksMenuButton.other.label "Іншыя закладкі">
+<!ENTITY bookmarksMenuButton.mobile.label "Мабільныя закладкі">
 <!ENTITY viewBookmarksSidebar2.label        "Паказаць бакавую панэль закладак">
 <!ENTITY viewBookmarksToolbar.label         "Паказаць паліцу закладак">
 
@@ -358,8 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма адкрытых картак">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Паказаць больш">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Паказаць больш картак з гэтай прылады">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Паказаць усе">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Паказаць усе карткі з гэтай прылады">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Уключыце сінхранізацыю картак, каб пабачыць спіс картак з вашых іншых прылад.">
