@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Kenorɗe Cili Keewɗi">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mbayka Hoolno">
 
 <!ENTITY aboutSupport.showDir.label "Uddit Runngere">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Natto keɓe kecce to ɗakkitorde">
 
 <!ENTITY aboutSupport.sandboxTitle "Seenorde">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Eto Mbayka Hoolno">
 <!ENTITY aboutSupport.restartInSafeMode.label "Hurmitin tawa Ɓeyditte ena Ndaaƴaa…">

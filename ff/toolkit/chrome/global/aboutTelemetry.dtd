@@ -78,9 +78,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Buggitagol SQL Leelɗo koko hurminaa. Ɓoggi SQL timmuɗi ena mbaawi jaytineede les ɗoo kono ɗo naatnoytaake to Telemeetiri.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Afftoyo inɗe golluuje take">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Hollu keɓe kecce iwɗe e kooke">
 
 <!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
 

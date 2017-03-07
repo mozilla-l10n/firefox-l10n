@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Teelto &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ena wallu-maa heɓde aslol, maantore, finndeeji maa tee uddita tabbe hakkunde kaɓirɗi maa kala.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Hesɗitin">
-<!ENTITY resetPass.label              "Artir">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Toppito Konte">
-<!ENTITY manageAccount.accesskey      "o">
-<!ENTITY changePassword2.label        "Waylu Finnde…">
-<!ENTITY myRecoveryKey.label          "Kelal jiytirgal Am">
-<!ENTITY resetSync2.label             "Artir Sync…">
-
-<!ENTITY pairDevice.label             "Jokkondir Kaɓirɗi">
-
-<!ENTITY syncMy.label               "Sanngoɗin">
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
 
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "Ɓ">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Innde Kaɓirgol:">
 <!ENTITY fxaSyncDeviceName.label       "Innde Kaɓirgol">
 <!ENTITY changeSyncDeviceName.label "Waylu Innde Kaɓirgol…">
 <!ENTITY changeSyncDeviceName.accesskey "a">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Danndu">
 <!ENTITY saveChangeSyncDeviceName.accesskey "D">
-<!ENTITY unlinkDevice.label           "Seŋtu ngol kaɓirgol">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Laabi Carwol">
-<!ENTITY prefs.ppLink.label         "Dawirgol Suturo">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Tintinol Suturo">
-<!ENTITY determiningAcctStatus.label     "Nana sifoo ngonka konte maa…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Yejjit oo Iimeel">
 <!ENTITY forget.accesskey            "Y">
 
-<!ENTITY welcome.description "Heɓ tabbe, maantore, finndeeji maa e geɗe goɗɗe tuma kala nde kuutori-ɗaa &brandShortName;.">
-<!ENTITY welcome.signIn.label "Seŋo">
-<!ENTITY welcome.createAccount.label "Sos Konte">
-
-<!ENTITY welcome.useOldSync.label "huutoraade baar Sync ɓooyɗo">
-
-<!ENTITY signedOut.caption            "Nawor Geesa Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Sos Konte">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
-<!ENTITY signedOut.accountBox.signin  "Seŋo">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "S">
 
-<!ENTITY signedIn.engines.label       "Sync e kaɓirɗi fof">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
