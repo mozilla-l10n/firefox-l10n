@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Visa sökhistorik">
 <!ENTITY pref_import_options "Importeringsalternativ">
 <!ENTITY pref_import_android_summary "Importera bokmärken och historik från den inbyggda webbläsaren">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Öppna flikar">
 <!ENTITY pref_private_data_history2 "Webbläsarhistorik">
 <!ENTITY pref_private_data_searchHistory "Sökhistorik">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Användarnamn">
 <!ENTITY doorhanger_login_edit_password_hint "Lösenord">
 <!ENTITY doorhanger_login_edit_toggle "Visa lösenord">
-<!ENTITY doorhanger_login_edit_toast_error "Misslyckades med att spara login">
 <!ENTITY doorhanger_login_select_message "Kopiera lösenord från &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Lösenord kopierat till urklipp">
-<!ENTITY doorhanger_login_select_toast_copy_error "Kunde inte kopiera lösenord">
 <!ENTITY doorhanger_login_select_action_text "Välj en annan inloggning">
 <!ENTITY doorhanger_login_select_title "Kopiera lösenord från">
 
