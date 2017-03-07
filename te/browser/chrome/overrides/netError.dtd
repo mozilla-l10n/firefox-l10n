@@ -45,9 +45,7 @@
 <p>&brandShortName; ఏదో ఒక కారణం వలన ఈ పేజీని లోడు చేయలేకపోతోంది.</p>">
 
 <!ENTITY captivePortal.title "నెట్వర్కులోనికి ప్రవేశించండి">
-<!ENTITY captivePortal.longDesc "<p>ఈ నెట్వర్క్ మీరు ఇంటర్నెట్ ఉపయోగించడానికి మీ లాగిన్ ను కోరవచ్చును.</p>">
 
-<!ENTITY openPortalLoginPage.label "లాగిన్ పేజీని తెరువు">
 
 <!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!ENTITY malformedURI.longDesc "
@@ -164,14 +162,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "మీ అనుసంధానం సురక్షితం కాదు">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ఉన్నత సమాచారం: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "ఉన్నతం">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> పాతబడిన, దాడులకు అనువైన భద్రతా సాంకేతికను వాడుతోంది. మీరు భద్రం అనుకున్న సమాచారాన్ని అటాకర్లు తేలిగ్గా బయల్పరచగలరు.">
-<!ENTITY weakCryptoAdvanced.override "(సురక్షితం కాదు) <span class='hostname'></span>ను పాతబడిన భద్రతను వాడి తెరిచి చూడండి">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
