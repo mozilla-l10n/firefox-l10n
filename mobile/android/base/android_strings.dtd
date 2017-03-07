@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Keresési előzmények megjelenítése">
 <!ENTITY pref_import_options "Importálás beállításai">
 <!ENTITY pref_import_android_summary "Könyvjelzők és előzmények importálása a natív böngészőből">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Nyitott lapok">
 <!ENTITY pref_private_data_history2 "Böngészés előzményei">
 <!ENTITY pref_private_data_searchHistory "Keresés előzményei">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Felhasználónév">
 <!ENTITY doorhanger_login_edit_password_hint "Jelszó">
 <!ENTITY doorhanger_login_edit_toggle "Jelszó megjelenítése">
-<!ENTITY doorhanger_login_edit_toast_error "A bejelentkezés mentése sikertelen">
 <!ENTITY doorhanger_login_select_message "Átmásolja a jelszót innen: &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "A jelszó vágólapra másolva">
-<!ENTITY doorhanger_login_select_toast_copy_error "A jelszó nem másolható">
 <!ENTITY doorhanger_login_select_action_text "Válasszon másik bejelentkezést">
 <!ENTITY doorhanger_login_select_title "Jelszó másolása innen:">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
