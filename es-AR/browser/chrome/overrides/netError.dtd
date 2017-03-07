@@ -52,9 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Ingresar a una red">
-<!ENTITY captivePortal.longDesc "<p>Esta red puede requerir que ingrese para acceder a internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Abrir página de ingreso">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "
@@ -185,14 +183,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información avanzada: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "La conexión no es segura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Información avanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avanzado">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> usa tecnología de seguridad que es obsoleta y vulnerable para los ataques. Un atacante podría revelar fácilmente información que se pensaría que es segura.">
-<!ENTITY weakCryptoAdvanced.override "(No es seguro) Intente cargar <span class='hostname'></span> usando seguridad obsoleta">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
