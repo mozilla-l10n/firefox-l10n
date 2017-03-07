@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Isfuyla agetakala">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Askar aɣelsan">
 
 <!ENTITY aboutSupport.showDir.label "Ldi akaram">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nɣel talɣut tarewwayt ɣeṛ &quot;ɣef affus&quot;">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Ɛreḍ deg uskar aɣelsan">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ales asenker s izegrar irurmiden…">

@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Swel &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ad k-yeǧǧ ad tkecmeḍ ɣer umazray-inek, ticraḍ n isebtar-inek, awalen-ik uffiren, iccaren yeldin seg yal aselkim d yal ibenk.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Leqqem">
-<!ENTITY resetPass.label              "Wennez i tikelt nniḍen">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Asefrek n imiḍanen">
-<!ENTITY manageAccount.accesskey      "m">
-<!ENTITY changePassword2.label        "Snifel awal uffir…">
-<!ENTITY myRecoveryKey.label          "Tasarut-iw n tririt">
-<!ENTITY resetSync2.label             "Wennez i tikelt nniḍen Sync…">
-
-<!ENTITY pairDevice.label             "Syug ɣer wallal/ibenk">
-
-<!ENTITY syncMy.label               "Mtawi">
 <!ENTITY engine.bookmarks.label     "Ticraḍ n isebtar">
 <!ENTITY engine.bookmarks.accesskey "T">
 <!ENTITY engine.tabs.label2         "Lddi icarren">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "z">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Isem n yibenk:">
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
 <!ENTITY changeSyncDeviceName.label "Snifel isem n yibenk…">
 <!ENTITY changeSyncDeviceName.accesskey "n">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "x">
 <!ENTITY saveChangeSyncDeviceName.label "Sekles">
 <!ENTITY saveChangeSyncDeviceName.accesskey "l">
-<!ENTITY unlinkDevice.label           "Kkes allal-agi">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Tiwtilin n useqdec">
-<!ENTITY prefs.ppLink.label         "Tasertit n tbaḍnit">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Tasertit n tbaḍnit">
-<!ENTITY determiningAcctStatus.label     "Asenqed n waddad n umiḍan-ik…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Ttu tansa-agi imayl">
 <!ENTITY forget.accesskey            "y">
 
-<!ENTITY welcome.description "Kcem ɣer iccaren-ik, ticraḍ n isebtar, awalen uffiren d wayen yugaren aya seg yal ibenk i tseqdaceḍ &brandShortName;.">
-<!ENTITY welcome.signIn.label "Kcem">
-<!ENTITY welcome.createAccount.label "Rnu amiḍan">
-
-<!ENTITY welcome.useOldSync.label "Tugh tseqdaceḍ lqem aqbuṛ n Sync?">
-
-<!ENTITY signedOut.caption            "Awi web-inek yid-k">
 <!ENTITY signedOut.description        "Mtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
 <!ENTITY signedOut.accountBox.title   "Qqen ɣer &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Rnu amiḍan">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Kcem">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Mtawi d ibenkan akk">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

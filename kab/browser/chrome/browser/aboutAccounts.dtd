@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Kcem akken ad temtawiḍ iccaren, ticraḍ n isebtar, awalen uffiren d wayen nniḍen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Bdu">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Tuɣ tesseqdaceḍ lqem aqbuṛ n Sync? ">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ismenyifen n Sync ">
 <!ENTITY aboutAccounts.noConnection.title "Ur telli tuqqna">
 <!ENTITY aboutAccounts.noConnection.description "Yessefk ad teqqneḍ ɣeṛ Internet akken ad tkecmeḍ. ">

@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Inagan-agi n tuqqna kelsen deg uselkim-inek:">
 <!ENTITY     cookiename.label               "Isem n unagi n tuqqna">
-<!ENTITY     cookiedomain.label             "Asmel"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "A">
-<!ENTITY     button.removeAllCookies.label "Kkes akk">
-<!ENTITY     button.removeAllCookies.accesskey "k">
+<!ENTITY     cookiedomain.label             "Asmel">
 
 <!ENTITY     props.name.label               "Isem:">
 <!ENTITY     props.value.label              "Agbur:">
