@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label     "As tags podem ser usadas para organizar suas mensagens.">
-<!ENTITY addTagButton.label        "Nova…">
-<!ENTITY addTagButton.accesskey    "N">
-<!ENTITY editTagButton.label       "Editar…">
-<!ENTITY editTagButton.accesskey   "E">
+<!ENTITY newTagButton.label        "Novo…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label      "Editar…">
+<!ENTITY editTagButton1.accesskey  "E">
 <!ENTITY removeTagButton.label     "Excluir">
 <!ENTITY removeTagButton.accesskey "x">
 
