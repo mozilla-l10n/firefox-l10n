@@ -8,9 +8,7 @@
 <!ENTITY loadError.label "પાનું લાવવામાં સમસ્યા">
 <!ENTITY retry.label "પુનઃપ્રયાસ કરો">
 
-
 <!-- Specific error messages -->
-
 
 <!ENTITY connectionFailure.title "જોડાવામાં અસમર્થ">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -25,10 +23,8 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>કેપીટલાઈઝેશન અથવા અન્ય લખતી વખતની ભૂલો માટે ફાઈલ નામ ચકાસો.</li> <li>શું ફાઈલ ખસેડી દેવાયેલ છે, નામ બદલાઈ ગયેલ છે અથવા કાઢી નંખાયેલ છે તે જોવા માટે ચકાસો.</li> </ul>">
 
 
-
 <!ENTITY generic.title "અરરર.">
 <!ENTITY generic.longDesc "<p>&brandShortName; અમુક કારણોસર આ પાનું લાવી શકતા નથી.</p>">
-
 
 
 
@@ -80,13 +76,11 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "<ul> <li>સાઈટ થોડી વાર માટે ઉપલબ્ધ નહિં હોય અથવા ખૂબ વ્યવસ્ત પણ હોઈ શકે. થોડી ક્ષણો માટે ફરીથી પ્રયત્ન કરો.</li> <li>જો તમે કોઈપણ પાનાંઓ લાવવા માટે અસમર્થ હોય, તો તમારા કમ્પ્યૂટરનું નેટવર્ક જોડાણ ચકાસો.</li> <li>જો તમારું કમ્પ્યૂટર અથવા નેટવર્ક એ ફાયરવોલ અથવા પ્રોક્સીથી સુરક્ષિત કરાયેલ હોય, તો ખાતરી કરો કે  &brandShortName; ને વેબ વપરાશની પરવાનગી છે.</li> </ul>">
 
 
-
 <!ENTITY corruptedContentErrorv2.title "બગડેલું વસ્તુ સંપાદક">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>તમે જે પાનું જોવાનો પ્રયાસ કરી રહ્યા છો તે બતાવી શકાશે નહિં કારણ કે માહિતીના પરિવહનમાં ક્ષતિ મળી આવી છે.</p><ul><li>મહેરબાની કરીને આ સમસ્યાની જાણ કરવા માટે વેબસાઇટના માલિકનો સંપર્ક કરો.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "અપવાદ એડ-ઓન">
-
 
 
 <!ENTITY remoteXUL.title "દૂરસ્થ XUL">
@@ -95,20 +89,11 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-
-
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
 
-
-
-
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-
 

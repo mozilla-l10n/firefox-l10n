@@ -53,9 +53,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  નોંધ: ધીમુ SQL ડિબગીંગ સક્રિય થયેલ છે. સંપૂર્ણ SQL શબ્દમાળાઓ એ નીચે દર્શાવી શકાય છે પરંતુ તેઓ ટેલીમેટ્રીમાં સમાવશે નહિં.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  અટકેલ સ્ટેકમાંથી વિધેયને લાવો">
 
-<!ENTITY aboutTelemetry.hideSymbols "  અટકેલથી કાચી માહિતીને બતાવો">
 
 <!ENTITY aboutTelemetry.filterText "  ગાળક (શબ્દમાળા અથવા /regexp/)">
 
