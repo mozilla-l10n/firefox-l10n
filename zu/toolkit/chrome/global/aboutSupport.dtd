@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Isimo esiphephile">
 
 <!ENTITY aboutSupport.showDir.label "Vula umkhombandlela">
@@ -92,6 +94,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopishela umbhalo ku-clipboard">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopisha ulwazi olungakasetshenziswa kwi-clipboard">
+
+
+
+
+
+
+
+
 
 
 
