@@ -117,11 +117,7 @@ Ping ">
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Dapatkan fungsi nama untuk hang stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Papar data mentah dari hangs
-">
 
 <!ENTITY aboutTelemetry.filterText "  Penapis (rentetan atau /regexp/)">
 
