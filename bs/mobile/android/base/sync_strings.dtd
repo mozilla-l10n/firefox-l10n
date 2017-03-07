@@ -79,11 +79,11 @@
 <!ENTITY fxaccount_status_more "Više&ellipsis;">
 
 
-<!ENTITY fxaccount_remove_account_dialog_title "Ukloni Firefox račun?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; će se prestati sinhronizovati sa vašim računom, ali neće obrisati ništa od vaših podataka na ovom uređaju.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox račun &formatS; je uklonjen.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Omogući režim za debagiranje">
 <!-- Localization note: this is the name shown by the Android system
