@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Zregistrěrujśo se, aby swóje rejtarki, cytańske znamjenja, gronidła a dalšne synchronizěrował.">
 <!ENTITY aboutAccountsConfig.startButton.label "Prědne kšace">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Wužywaśo staršu wersiju programa Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Synchronizěrowańske nastajenja">
 <!ENTITY aboutAccounts.noConnection.title "Žeden zwisk">
 <!ENTITY aboutAccounts.noConnection.description "Musyśo z internetom zwězany byś, aby se pśizjawił.">

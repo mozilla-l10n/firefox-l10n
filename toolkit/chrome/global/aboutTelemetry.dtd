@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  GLĚDAJŚO: Pytanje za zmólkami za pómałe SQL-pśikaze jo zmóžnjone. Dopołne znamuškowe rjeśazki SQL daju se dołojce zwobrazniś, ale njebudu se do telemetrije pśenosowaś.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Funkciske mjenja za štapjele wisanjow wótwołaś">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Gropne daty z wisanjow pokazaś">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (znamuškowe rjeśazki abo /regexp/)">
 
