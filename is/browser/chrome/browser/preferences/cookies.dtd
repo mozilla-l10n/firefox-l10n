@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Eftirfarandi smákökur eru geymdar á tölvunni þinni:">
 <!ENTITY     cookiename.label               "Heiti smáköku">
-<!ENTITY     cookiedomain.label             "Vefsvæði"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Fjarlægja öll">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Vefsvæði">
 
 <!ENTITY     props.name.label               "Nafn:">
 <!ENTITY     props.value.label              "Innihald:">

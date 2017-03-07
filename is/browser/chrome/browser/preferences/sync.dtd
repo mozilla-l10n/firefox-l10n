@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Setja upp &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; gerir þér kleift að fá aðgang að ferli, bókamerkjum, lykilorðum og opnum flipum á öllum þínum tölvum og tækjum.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Uppfæra">
-<!ENTITY resetPass.label              "Frumstilla">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Sýsla með aðgang">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "Breyta lykilorði…">
-<!ENTITY myRecoveryKey.label          "Endurheimtunarlykill">
-<!ENTITY resetSync2.label             "Endurstilla Sync…">
-
-<!ENTITY pairDevice.label             "Para saman tæki">
-
-<!ENTITY syncMy.label               "Samstilla">
 <!ENTITY engine.bookmarks.label     "Bókamerki">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Opna flipa">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "æ">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Tækjanafn:">
 <!ENTITY fxaSyncDeviceName.label       "Tækjanafn">
 <!ENTITY changeSyncDeviceName.label "Breyta nafni tækis…">
 <!ENTITY changeSyncDeviceName.accesskey "B">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "H">
 <!ENTITY saveChangeSyncDeviceName.label "Vista">
 <!ENTITY saveChangeSyncDeviceName.accesskey "V">
-<!ENTITY unlinkDevice.label           "Aftengja þetta tæki">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Skilmálar þjónustu">
-<!ENTITY prefs.ppLink.label         "Meðferð persónuupplýsinga">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Upplýsingar um meðferð persónuupplýsinga">
-<!ENTITY determiningAcctStatus.label     "Athuga stöðu reiknings…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Gleyma þessu tölvupóstfangi">
 <!ENTITY forget.accesskey            "f">
 
-<!ENTITY welcome.description "Fáðu aðgang að flipum, bókamerkjum, lykilorðum og fleira hvar sem þú ert að nota &brandShortName;.">
-<!ENTITY welcome.signIn.label "Innskráning">
-<!ENTITY welcome.createAccount.label "Búa til reikning">
-
-<!ENTITY welcome.useOldSync.label "Ertu að nota gamla útgáfu af Sync?">
-
-<!ENTITY signedOut.caption            "Taktu vefinn með þér">
 <!ENTITY signedOut.description        "Samstilltu bókamerki, feril, flipa, lykilorð, viðbætur, og stillingará milli allra þinna tækja.">
 <!ENTITY signedOut.accountBox.title   "Tengjast með &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Búa til reikning">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Innskráning">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Samstilla með öllum tækjum">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
