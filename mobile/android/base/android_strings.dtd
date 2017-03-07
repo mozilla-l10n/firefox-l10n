@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "অনুসন্ধান এর ইতিহাস দেখান">
 <!ENTITY pref_import_options "ইনপুট বিকল্পগুলি">
 <!ENTITY pref_import_android_summary "নেটিভ ব্রাউজার থেকে বুকমার্ক সংকলন এবং ব্রাউজিং ইতিহাস ইম্পোর্ট করুন">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "ট্যাব খুলুন">
 <!ENTITY pref_private_data_history2 "পূর্ববর্তী ব্রাউজ সংক্রান্ত তথ্য">
 <!ENTITY pref_private_data_searchHistory "অনুসন্ধানের ইতিহাস">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ব্যবহারকারীর নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাসওয়ার্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাসওয়ার্ড প্রদর্শন করা হবে">
-<!ENTITY doorhanger_login_edit_toast_error "লগিন সেভ করতে ব্যর্থ">
 <!ENTITY doorhanger_login_select_message "&formatS; থেকে পাসওয়ার্ড কপি করবেন কি ?">
 <!ENTITY doorhanger_login_select_toast_copy "ক্লিপবোর্ডে পাসওয়ার্ড কপি করা হয়েছে">
-<!ENTITY doorhanger_login_select_toast_copy_error "পাসওয়ার্ড কপি করা যাচ্ছে না">
 <!ENTITY doorhanger_login_select_action_text "অন্য আরেকটি লগিন নির্বাচন করুন">
 <!ENTITY doorhanger_login_select_title "থেকে পাসওয়ার্ড কপি করুন">
 
