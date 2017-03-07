@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  MERK: Treg SQL-feilsøking er påslått. Fullstendige SQL-uttrykk kan vises nedenfor, men de sendes ikke inn til Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Hent funksjonsnavn for heng-stakker">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Vis rådata fra heng">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrer (strenger eller /regexp/)">
 
