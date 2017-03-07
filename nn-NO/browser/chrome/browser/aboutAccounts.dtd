@@ -11,4 +11,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Du må vere kopla til Internett for å logge inn.">
 <!ENTITY aboutAccounts.noConnection.retry "Prøv igjen">
 <!ENTITY aboutAccounts.badConfig.title "Ugyldig oppsett">
-<!ENTITY aboutAccounts.badConfig.description "Klarte ikkje å stadfesta tenaroppsettet for Firefox-kontoen din. Prøv igjen seinare.">
+<!ENTITY aboutAccounts.badConfig.description "Klarte ikkje å stadfeste tenaroppsettet for Firefox-kontoen din. Prøv igjen seinare.">
