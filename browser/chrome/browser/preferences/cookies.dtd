@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "ಈ ಕೆಳಗಿನ ಕುಕಿಗಳು ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಶೇಖರಿತಗೊಂಡಿವೆ:">
 <!ENTITY     cookiename.label               "ಕುಕಿಯ ಹೆಸರು">
-<!ENTITY     cookiedomain.label             "ತಾಣ"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "ಎಲ್ಲವನ್ನೂ ತೆಗೆದು ಹಾಕು">
-<!ENTITY     button.removeAllCookies.accesskey "A">
+<!ENTITY     cookiedomain.label             "ತಾಣ">
 
 <!ENTITY     props.name.label               "ಹೆಸರು:">
 <!ENTITY     props.value.label              "ವಿಷಯ:">

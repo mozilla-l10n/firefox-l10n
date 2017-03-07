@@ -77,9 +77,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE ನಿಧಾನಗತಿ SQL ದೋಷನಿದಾನವನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ. ಸಂಪೂರ್ಣ SQL ವಾಕ್ಯಾಂಶಗಳನ್ನು ಈ ಕೆಳಗೆ ತೋರಿಸಲಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ ಆದರೆ ಅವುಗಳನ್ನು ಟೆಲಿಮೆಟ್ರಿಗೆ ಸಲ್ಲಿಸಲಾಗುವುದಿಲ್ಲ.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  ಹ್ಯಾಂಗ್‌ ಸ್ಟ್ಯಾಕ್‌ಗಳಿಗಾಗಿ ಕ್ರಿಯೆಯ ಹೆಸರುಗಳನ್ನು ಪಡೆದುಕೊ">
 
-<!ENTITY aboutTelemetry.hideSymbols "  ಹ್ಯಾಂಗ್‌ಗಳಿಗಾಗಿ ಕಚ್ಛಾದ ದತ್ತಾಂಶವನ್ನು ತೋರಿಸು">
 
 <!ENTITY aboutTelemetry.filterText "  ಸೋಸಕ (ಪದಸಮುಚ್ಚಯಗಳು ಅಥವ /regexp/)">
 
