@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Următoarele cookie-uri sunt stocate pe calculator:">
 <!ENTITY     cookiename.label               "Nume al cookie-ului">
-<!ENTITY     cookiedomain.label             "Site"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "Elimină-le toate">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Site">
 
 <!ENTITY     props.name.label               "Nume:">
 <!ENTITY     props.value.label              "Conținut:">
