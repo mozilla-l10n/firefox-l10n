@@ -154,13 +154,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "සංකීර්ණ තොරතුරු: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "ඔබේ සබඳතාවය අනාරක්ෂිතයි">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "සංකීර්ණ තොරතුරු: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "සංකීර්ණ">
-<!ENTITY weakCryptoAdvanced.override "(අනාරක්ශිතයි) යල්පැනගිය ආරක්ශණයක් මගින් <span class='hostname'></span> පූර්ණයට උත්සහ කරන්න">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

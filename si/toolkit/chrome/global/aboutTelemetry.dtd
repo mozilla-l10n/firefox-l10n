@@ -92,9 +92,13 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "    පෙළ විසන්ධි විය">
 
+
+
+
 <!ENTITY aboutTelemetry.histogramsSection "    හිස්ටොග්‍රෑම්">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "    යතුරුකළ ජාලරේඛය">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  සරල මිනුම්">
 
@@ -114,9 +118,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "    NOTE: මන්දගාමි SQL නිරාකරණය සක්‍රීයයි. සම්පූර්ණ SQL යෙදීම් පහතින් දැක්වෙනු ඇති නමුත් ඒවා දූරමිතියට පළ නොකෙරේ.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "    විසන්ධි ගොඩවල් සඳහා ක්‍රියාකාරී නාම ලබන්න">
 
-<!ENTITY aboutTelemetry.hideSymbols "    විසන්ධි වෙතින් අමු දත්ත පෙන්වන්න">
 
 <!ENTITY aboutTelemetry.filterText "    පෙරහන (යෙදුම් හෝ /regexp/)">
 
