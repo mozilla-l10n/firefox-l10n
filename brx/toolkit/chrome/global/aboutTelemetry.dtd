@@ -55,9 +55,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "नायनो गोनां: लासै SQL डेबागिंखौ हाहोनाय खालामनाय जायो। आबुं SQL स्ट्रिंखौ गाहायाव दिन्थिफुंनाय जानो हागौ नाथाय बिफोरखौ Telemetry आव गथायनाय जानाय नङा।">
 
-<!ENTITY aboutTelemetry.fetchSymbols "हें स्टेकनि थाखाय लाबोनाय खामानि मुं">
 
-<!ENTITY aboutTelemetry.hideSymbols "हेंस निफ्राय निफ्राय गोथां डाटाखौ दिन्थि">
 
 <!ENTITY aboutTelemetry.filterText "फिल्टार (स्ट्रिं एबा /regexp/)">
 

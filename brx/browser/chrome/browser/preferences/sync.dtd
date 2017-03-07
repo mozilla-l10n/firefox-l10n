@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; खौ गाइसन (S)">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; आ नोंथांखौ नोंथांनि जारिमिन, बुकमार्क, पासवार्ड हाबहोनो गनायथि होयो आरो टेबखौ नोंथांनि गासै डिभाइसआव खेवनो गनायथि होयो।">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "आपडेट खालाम">
-<!ENTITY resetPass.label              "फिन फज'">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "एकाउन्टखौ मेनेज खालाम">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "पासवार्डखौ सोलाय...">
-<!ENTITY myRecoveryKey.label          "आंनि मोनफिननाय साबि">
-<!ENTITY resetSync2.label             "सिन्कखौ फिन फज...">
-
-<!ENTITY pairDevice.label             "मोनसे डिभाइस जरा खालाम">
-
-<!ENTITY syncMy.label               "आंनि Sync">
 <!ENTITY engine.bookmarks.label     "बुकमाकॅफोर">
 <!ENTITY engine.bookmarks.accesskey "म">
 
@@ -42,16 +23,10 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "बे डिभाइसखौ आनलिंक खालाम">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "सिबिथायनि रादाय">
-<!ENTITY prefs.ppLink.label         "गुमुरगोनां पलिसि">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "गुमुरथि मिथिसारहोनाय">
-<!ENTITY determiningAcctStatus.label     "नोंथांनि एकाउन्ट थाथाइखौ थि खालामगासिनो दं...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -81,12 +56,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!ENTITY welcome.description "जेब्लानो नोंथाङा &brandShortName; खौ बाहायो अब्लानो नोंथांनि टेब, बुकमार्क, पासवार्डखौ हाबहो।">
-
-
-
-<!ENTITY welcome.useOldSync.label "सिन्कनि गोजामसिन बिसानखौ बाहायगासिनो दं?">
 
 
 
