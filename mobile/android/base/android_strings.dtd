@@ -331,7 +331,8 @@ size. -->
 
 
 <!ENTITY pref_import_android_summary "স্থানীয় ব্ৰাউছাৰৰ পৰা পত্ৰচিহ্ন আৰু ইতিহাস ইমপৰ্ট কৰক">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "ব্ৰাউছিংৰ ইতিহাস">
 
 
@@ -457,8 +458,6 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ব্যৱহাৰকাৰী নাম">
 <!ENTITY doorhanger_login_edit_password_hint "পাছৱৰ্ড">
 <!ENTITY doorhanger_login_edit_toggle "পাছৱৰ্ড দেখুৱাওক">
-
-
 
 
 
