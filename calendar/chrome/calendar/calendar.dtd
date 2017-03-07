@@ -10,7 +10,7 @@
 <!ENTITY calendar.newtask.button.tooltip          "Criar uma nova tarefa" >
 
 <!ENTITY calendar.unifinder.todoitems.label       "Tarefas" >
-<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tarefas terminadas">
+<!ENTITY calendar.unifinder.showcompletedtodos.label "Mostrar tarefas concluídas">
 
 <!ENTITY calendar.today.button.label          "Hoje">
 <!ENTITY calendar.tomorrow.button.label       "Amanhã">
@@ -43,7 +43,7 @@
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Ordenar por data de fim">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Limite">
 <!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Ordenar por data limite">
-<!ENTITY calendar.unifinder.tree.completeddate.label       "Terminado">
+<!ENTITY calendar.unifinder.tree.completeddate.label       "Concluído">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Ordenar por data de conclusão">
 <!ENTITY calendar.unifinder.tree.categories.label          "Categoria">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Ordenar por categoria">
@@ -98,8 +98,8 @@
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "s" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Tarefas na vista" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "T" >
-<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar tarefas terminadas" >
-<!ENTITY calendar.completedtasks.checkbox.accesskey "f" >
+<!ENTITY calendar.completedtasks.checkbox.label     "Mostrar tarefas concluídas" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "c" >
 
 <!ENTITY calendar.orientation.label "Rodar vista" >
 <!ENTITY calendar.orientation.accesskey "o" >
@@ -119,8 +119,8 @@
 <!ENTITY calendar.task.filter.notstarted.accesskey  "a">
 <!ENTITY calendar.task.filter.overdue.label         "Tarefas atrasadas">
 <!ENTITY calendar.task.filter.overdue.accesskey     "r">
-<!ENTITY calendar.task.filter.completed.label       "Tarefas terminadas">
-<!ENTITY calendar.task.filter.completed.accesskey   "f">
+<!ENTITY calendar.task.filter.completed.label       "Tarefas concluídas">
+<!ENTITY calendar.task.filter.completed.accesskey   "c">
 <!ENTITY calendar.task.filter.open.label            "Tarefas incompletas">
 <!ENTITY calendar.task.filter.open.accesskey        "m">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
@@ -146,7 +146,7 @@
 <!ENTITY calendar.task-details.due.label             "data final">
 
 <!ENTITY calendar.task.category.button.tooltip  "Categorizar tarefas">
-<!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como terminadas">
+<!ENTITY calendar.task.complete.button.tooltip  "Marcar tarefas selecionadas como concluídas">
 <!ENTITY calendar.task.priority.button.tooltip  "Mudar prioridade">
 
 <!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Filtrar tarefas #1">
@@ -360,7 +360,7 @@
 <!ENTITY calendar.print.settingsGroup.label "Definições de impressão">
 <!ENTITY calendar.print.optionsGroup.label "Opções">
 <!ENTITY calendar.print.taskswithnoduedate.label "Tarefas sem data de vencimento">
-<!ENTITY calendar.print.completedtasks.label "Tarefas terminadas">
+<!ENTITY calendar.print.completedtasks.label "Tarefas concluídas">
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Detalhes…">

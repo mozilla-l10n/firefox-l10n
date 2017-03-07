@@ -24,7 +24,7 @@
 <!ENTITY newevent.status.confirmed.accesskey      "C" >
 <!ENTITY newevent.status.needsaction.label        "Requer ação" >
 <!ENTITY newevent.status.inprogress.label         "Em curso" >
-<!ENTITY newevent.status.completed.label          "Terminado a" >
+<!ENTITY newevent.status.completed.label          "Concluído a" >
 <!-- The following entity is for New Task dialog only -->
 
 <!ENTITY newtodo.percentcomplete.label      "&#037; concluído">
