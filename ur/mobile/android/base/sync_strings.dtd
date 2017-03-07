@@ -80,11 +80,13 @@
 <!ENTITY fxaccount_status_more "مزید&ellipsis;">
 <!ENTITY fxaccount_remove_account "منقطع کریں&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "ھمہ وقت سازی سے رابطہ منقطع کریں؟">
+<!ENTITY fxaccount_remove_account_dialog_message2 "آپ کے براؤزنگ کے کوائف اس آلہ پر رہیں گے، لیکن یہ آپ کے اکاؤنٹ کے ساتھ ہمہ وقت ساز نہیں رہیں گے۔">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "منقطع کریں">
 
 <!ENTITY fxaccount_enable_debug_mode "ڈیبگ موڈ کو اہل بنائیں">
 <!-- Localization note: this is the name shown by the Android system
