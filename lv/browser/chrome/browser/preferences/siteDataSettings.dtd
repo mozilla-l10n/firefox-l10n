@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     usageCol.label                "Krātuve">
-<!ENTITY     search.label                  "Meklēt:">
-<!ENTITY     search.accesskey              "M">

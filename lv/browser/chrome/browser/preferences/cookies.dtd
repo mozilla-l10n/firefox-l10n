@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Šādas sīkdatnes ir saglabātas jūsu datorā:">
 <!ENTITY     cookiename.label               "Sīkdatnes nosaukums">
-<!ENTITY     cookiedomain.label             "Vietne"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "A">
-<!ENTITY     button.removeAllCookies.label "Izmest visas">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Vietne">
 
 <!ENTITY     props.name.label               "Nosaukums:">
 <!ENTITY     props.value.label              "Saturs:">

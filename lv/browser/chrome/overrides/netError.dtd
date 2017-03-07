@@ -31,9 +31,7 @@
 <!ENTITY generic.longDesc "<p>Kāda nezināma iemesla dēļ &brandShortName; nevar atvērt šo lapu.</p>">
 
 <!ENTITY captivePortal.title "Pieteikšanās tīklā">
-<!ENTITY captivePortal.longDesc "<p>Tīkls var lūgt jums pierakstīties, lai izmantotu internetu.</p>">
 
-<!ENTITY openPortalLoginPage.label "Parādīt autorizācijas lapu">
 
 <!ENTITY malformedURI.title "Adrese nav pareiza">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tīmekļa lapu adreses parasti raksta kā <strong>http://www.example.com/</strong></li> <li>Pārliecinieties, ka izmantojat pareizās slīpsvītras (proti, <strong>/</strong>).</li> </ul>">
@@ -104,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Papildus informācija:  ssl_error_unsupported_version">
-
-<!ENTITY weakCryptoUsed.title "Savienojums nav drošs">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Papildus informācija:  ssl_error_no_cypher_overlap">
-<!ENTITY weakCryptoAdvanced.title "Papildu">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> izmanto drošības tehnoloģiju, kas ir novecojusi un pakļauj jūs uzbrukuma riskam. Uzbrucēji var viegli iegūt informāciju, kuru uzskatījāt par drošu.">
-<!ENTITY weakCryptoAdvanced.override "(Nav drošs) Mēģiniet ielādēt <span class='hostname'></span> izmantojot novecojušu drosību">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
