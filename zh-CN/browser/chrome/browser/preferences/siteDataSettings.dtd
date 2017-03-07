@@ -7,7 +7,11 @@
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     usageCol.label                "存储">
+<!ENTITY     searchPlaceHolder             "搜索">
 <!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "移除选中">
 <!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "保存更改">
 <!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "取消">
 <!ENTITY     cancel.accesskey              "C">
