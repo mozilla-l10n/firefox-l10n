@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Taispeáin Gach Leabharmharc">
 <!ENTITY recentBookmarks.label "Leabharmharc leo le déanaí">
 <!ENTITY otherBookmarksCmd.label "Leabharmharcanna Eile">
-
+<!ENTITY mobileBookmarksCmd.label "Leabharmharcanna Soghluaiste">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tuilleadh leabharmharcanna">
 <!ENTITY showRecentlyBookmarked.label     "Taispeáin na Leabharmharcanna is déanaí">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Leabharmharcanna">
 <!ENTITY bookmarksMenuButton.other.label "Leabharmharcanna Eile">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Leabharmharcanna Soghluaiste">
 <!ENTITY viewBookmarksSidebar2.label        "Féach ar Bharra na Leabharmharcanna">
 <!ENTITY viewBookmarksToolbar.label         "Féach ar Bharra Leabharmharc">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Níl aon chluaisín ar oscailt">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Tuilleadh">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Taispeáin tuilleadh cluaisíní ón ghléas seo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Taispeáin Uile">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Taispeáin gach cluaisín ón ghléas seo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Las sioncronú cluaisíní chun liosta cluaisíní ó do ghléasanna eile a fheiceáil.">

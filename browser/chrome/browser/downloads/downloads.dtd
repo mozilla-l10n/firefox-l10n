@@ -92,10 +92,14 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+
+<!ENTITY showMoreInformation.label        "Tuilleadh eolais">
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
+
+<!ENTITY openFile.label                   "Oscail Comhad">
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
