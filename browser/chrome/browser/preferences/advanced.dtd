@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "കൂടുതല്‍ അറിയുക">
 
 <!ENTITY telemetryDesc.label             "പ്രകടനം, ഉപയോഗം, ഹാർഡ്‌വെയർ തുടങ്ങിയ വിവരങ്ങൾ &vendorShortName; -മായി പങ്കു വെയ്ക്കുക.  &brandShortName;  മെച്ചപ്പെടുത്തുവാൻ സഹായിക്കുക.">
-<!ENTITY enableTelemetryData.label       "അധികമായ ഡേറ്റാ പങ്കിടുക (അതായതു്, ടെലിമട്രി)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "കൂടുതല്‍ അറിയുക">
 
 

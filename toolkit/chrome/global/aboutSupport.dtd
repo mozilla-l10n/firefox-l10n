@@ -60,6 +60,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "അനവധി പ്രക്രിയയ്ക്കുള്ള ജാലകങ്ങള്‍">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "സുരക്ഷ മോഡ്">
 
 <!ENTITY aboutSupport.showDir.label "ഡയറക്ടറി തുറക്കുക">
@@ -103,6 +105,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ക്ലിപ്പ്ബോര്‍ഡിലേക്കു് ഡേറ്റാ പകര്‍ത്തുക">
 
 <!ENTITY aboutSupport.sandboxTitle "സാന്റ്ബോക്സ്">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "സേഫ് മോഡ് ശ്രമിച്ചുനോക്കുക">
 <!ENTITY aboutSupport.restartInSafeMode.label "ആഡ്-ഓണുകള്‍ പ്രവര്‍ത്തന രഹിതമാക്കി വീണ്ടും ആരംഭിയ്ക്കുക…">
