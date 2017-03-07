@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Sanidi &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; hukuruhusu kufikia historia yako, alamisho na kufungua vichupa kote kwenye vifaa vyako vyote.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Sasaisha">
-<!ENTITY resetPass.label              "Seti upya">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Dhibiti Akaunti">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Badilisha Neno la Siri…">
-<!ENTITY myRecoveryKey.label          "Ufunguo Wangu wa Afueni">
-<!ENTITY resetSync2.label             "Weka Upya Ulandanishi…">
-
-<!ENTITY pairDevice.label             "Jozi Kifaa">
-
-<!ENTITY syncMy.label               "Landanisha">
 <!ENTITY engine.bookmarks.label     "Alamisho">
 <!ENTITY engine.bookmarks.accesskey "s">
 
@@ -42,13 +23,9 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "Tenganisha Kifaa Hiki">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Masharti ya Huduma">
-<!ENTITY prefs.ppLink.label         "Sera ya Faragha">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -64,10 +41,6 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
-
-
-
-
 
 
 

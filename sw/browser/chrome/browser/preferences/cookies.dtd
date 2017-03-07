@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Vidakuzi vifuatavyo vimehifadhiwa kwenye kompyuta yako:">
 <!ENTITY     cookiename.label               "Jina la Kidakuzi">
-<!ENTITY     cookiedomain.label             "Tovuti"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeAllCookies.label "Ondoa Zote">
-<!ENTITY     button.removeAllCookies.accesskey "Z">
+<!ENTITY     cookiedomain.label             "Tovuti">
 
 <!ENTITY     props.name.label               "Jina:">
 <!ENTITY     props.value.label              "Yaliyomo:">

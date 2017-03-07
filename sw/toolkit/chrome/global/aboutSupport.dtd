@@ -54,6 +54,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "Fungua Saraka">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -92,6 +94,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Nakili matini katika ubao">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nakili data ghafi kwa ubao">
+
+
+
+
+
+
+
+
 
 
 
