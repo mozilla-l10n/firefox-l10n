@@ -79,9 +79,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTĂ: Depanarea lentă SQL este activată. Șirurile SQL pot fi afișate mai jos, dar ele nu vor fi transmise de Telemetrie.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Adu numele funcțiilor pentru stivele blocate">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Arată datele brute de la blocări">
 
 <!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">
 

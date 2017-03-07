@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
 <!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-<!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex., Telemetrie)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
 <!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Actualizare">
 
-<!ENTITY updateApplication.label         "Actualizări &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalează automat actualizările (recomandat: securitate îmbunătățită)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Caută actualizări, dar lasă-mă să decid dacă să le instalez">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "d">
 
-<!ENTITY autoUpdateOthers.label          "Actualizează automat">
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
