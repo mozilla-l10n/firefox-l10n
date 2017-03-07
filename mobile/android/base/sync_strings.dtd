@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'More&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Αποσύνδεση&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Αποσύνδεση από το Sync;'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Τα δεδομένα περιήγησής σας θα παραμείνουν στη συσκευή αυτή, αλλά δεν θα συγχρονίζονται πλέον με το λογαριασμό σας.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Ο Λογαριασμός Firefox &formatS; αποσυνδέθηκε.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Αποσύνδεση'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Ενεργοποίηση λειτουργίας αποσφαλμάτωσης'>
 
