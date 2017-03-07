@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "اشکال در هنگام بارگیری">
 <!ENTITY retry.label "تلاش دوباره">
 <!ENTITY returnToPreviousPage.label "برو عقب">
-<!ENTITY advanced.label "پیشرفته">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
 <!ENTITY captivePortal.title "ورود به شبکه">
-<!ENTITY captivePortal.longDesc "<p>ممکن است این شبکه برای اتصال به اینترنت نیاز به ورود داشته باشد.</p>">
 
-<!ENTITY openPortalLoginPage.label "باز کردن صفحه ورود">
+
 
 <!ENTITY malformedURI.title "نشانی معتبر نیست">
 <!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "اتصال شما امن نیست">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "اطلاعات پیشرفته: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "پیشرفته">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> از تکنولوژی امنیتی منسوخ شده استفاده می‌کند که در برابر حمله‌ها آسیب‌پذیر است. یک مهاجم به راحتی می‌تواند اطلاعاتی که شما فکر می‌کنید امن هستند را افشا کند.">
-<!ENTITY weakCryptoAdvanced.override "(امن نیست) تلاش برای بارگذاری <span class='hostname'></span>با استفاده از امنیت منسوخ شده">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
