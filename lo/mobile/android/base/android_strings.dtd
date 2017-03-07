@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ສະແດງປະຫວັດການຊອກຫາ">
 <!ENTITY pref_import_options "ທາງເລືອກໃນການປ້ອນຂໍ້ມູນ">
 <!ENTITY pref_import_android_summary "ນຳເຂົ້າບຸກມາກ ແລະ ປະຫວັດຈາກຕົວທ່ອງເວັບ">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "ເປີດແທັບ">
 <!ENTITY pref_private_data_history2 "ປະຫວັດການຄົ້ນຫາ">
 <!ENTITY pref_private_data_searchHistory "ປະຫວັດການຊອກຫາ">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ຊື່ຜູ້ໃຊ້">
 <!ENTITY doorhanger_login_edit_password_hint "ລະຫັດຜ່ານ">
 <!ENTITY doorhanger_login_edit_toggle "ສະແດງລະຫັດຜ່ານ">
-<!ENTITY doorhanger_login_edit_toast_error "ບໍ່ສາມາດບັກທຶກການເຂົ້າສູ່ລະບົບ">
 <!ENTITY doorhanger_login_select_message "ສຳເນົາລະຫັດຜ່ານຈາກ &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "ລະຫັດຜ່ານໄດ້ຖືກສຳເນົາໄປທີ່ clipboard">
-<!ENTITY doorhanger_login_select_toast_copy_error "ບໍ່ສາມາດສຳເນົາລະຫັດຜ່ານ">
 <!ENTITY doorhanger_login_select_action_text "ເລືອກການເຂົ້າສູ່ລະບົບອື່ນ">
 <!ENTITY doorhanger_login_select_title "ສຳເນົາລະຫັດຜ່ານຈາກ">
 
