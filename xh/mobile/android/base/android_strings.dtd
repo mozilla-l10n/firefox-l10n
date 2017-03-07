@@ -386,7 +386,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Bonisa imbali yokhangelo">
 <!ENTITY pref_import_options "Thumela ukhetho">
 <!ENTITY pref_import_android_summary "Ngenisa iibhukmakhi nembali evela kwibhrawza yendalo">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
 <!ENTITY pref_private_data_searchHistory "Khangela imbali">
 <!ENTITY pref_private_data_formdata2 "Yenza imbali">
@@ -517,10 +518,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Igama lomsebenzisi">
 <!ENTITY doorhanger_login_edit_password_hint "I-Password">
 <!ENTITY doorhanger_login_edit_toggle "Bonisa i-password">
-<!ENTITY doorhanger_login_edit_toast_error "Ayiphumelelanga ukugcina ukungena ekhompyutheni">
 <!ENTITY doorhanger_login_select_message "Kopa ipasiwodi kwi-&formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Ipasiwedi ikhutshelwe kwiklipbhodi">
-<!ENTITY doorhanger_login_select_toast_copy_error "Ayikwazi ukukhuphela ipasiwedi">
 <!ENTITY doorhanger_login_select_action_text "Khetha enye into yokungena ekhomyutheni">
 <!ENTITY doorhanger_login_select_title "Kopa ipasiwedi ku">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
