@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Emboguete Firefox mba\u0027etégui?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; nombojuehevéima ne mba\u0027ete, hákatu nomboguetemo\u0027ãi mba\u0027evéichagua kundahára mba\u0027ekuaarã ko mba\u0027e\u0027oka pegua.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox mba\u0027ete &formatS; okayguáva.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Embojuruja mopotĩha rekópe">
 <!-- Localization note: this is the name shown by the Android system
