@@ -366,7 +366,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Jénua jagaɨ">
 <!ENTITY pref_import_options "Ñuitayena nɨzeyerí">
 <!ENTITY pref_import_android_summary "Bénomo atɨrɨ rɨgɨnoa ie jágaɨ uama makara ">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Jagaɨ makara">
 <!ENTITY pref_private_data_searchHistory "Jénua jagaɨ">
 <!ENTITY pref_private_data_formdata2 "Jágaɨ ráanɨaɨ">
@@ -495,10 +496,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Kue mamékɨ ">
 <!ENTITY doorhanger_login_edit_password_hint "Fakára ráa ">
 <!ENTITY doorhanger_login_edit_toggle "Fákara ráa akátairi">
-<!ENTITY doorhanger_login_edit_toast_error "Taɨniamo jónenmide ">
 <!ENTITY doorhanger_login_select_message "¿Fákara ráa fakade &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Fákara ráa fakade rábemo jónera">
-<!ENTITY doorhanger_login_select_toast_copy_error "Fákara ráa fakádonide">
 <!ENTITY doorhanger_login_select_action_text "Jɨaɨe jéno taɨneyena">
 <!ENTITY doorhanger_login_select_title "Fákara ráa fakade biedo">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
