@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Kuaave">
 
 <!ENTITY telemetryDesc.label             "Embohasa mba'ekuaarã rembiapokue, jepuru, hardware ha ñemomba'egua ikundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
-<!ENTITY enableTelemetryData.label       "Emoherakuã mba'ekuarã ykepeguáva (ja'étarõ, Ha'ãha mombyryguáva)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Kuaave">
 
 

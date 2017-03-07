@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Eñepyrũ tembiapo embojuehe hag̃ua tendayke, techaukaha, ñe'ẽñemi ha hetave. ">
 <!ENTITY aboutAccountsConfig.startButton.label "Eñepyrũ">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Reipurúpa Mbojuehegua ymaguaréva.">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Jerohoryvéva mbojuehe">
 <!ENTITY aboutAccounts.noConnection.title "Jeikekatu'ỹ">
 <!ENTITY aboutAccounts.noConnection.description "Eikeva'erã ñandutípe eñepyrũ hag̃ua ko tembiapo.">

@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
 <!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
 <!ENTITY otherBookmarksCmd.label "Ambuekuéra Techaukaha">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Techaukaha jehechaukave">
 <!ENTITY showRecentlyBookmarked.label     "Oñemongurusu Ramóva">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Techaukaha">
 <!ENTITY bookmarksMenuButton.other.label "Ambue Techaukahakuéra">
+
 <!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 
@@ -352,6 +354,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Emyendy tendayke mbojueheha ehecha hag̃ua peteĩ tendayke rysýi ambue ne mba'e'oka peguáva.">

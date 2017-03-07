@@ -77,9 +77,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning " HAIPYRE'I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo'ãi Telemetry-pe.">
 
-<!ENTITY aboutTelemetry.fetchSymbols " Eguerujey tembiapoite réra jepytaite ojo'áva rehegua">
 
-<!ENTITY aboutTelemetry.hideSymbols " Ehechauka mba'ekuaarã oñemboheko'ỹva jepytaite rehegua">
 
 <!ENTITY aboutTelemetry.filterText " Mbogua (joajuha térã /regexp/)">
 

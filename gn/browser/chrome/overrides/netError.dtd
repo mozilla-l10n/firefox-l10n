@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
 <!ENTITY retry.label "Eha'ãjey">
 <!ENTITY returnToPreviousPage.label "Eguevi">
-<!ENTITY advanced.label "Opanungáva">
+
 <!-- Specific error messages -->
 
 
@@ -102,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Marandu opapotaitéva: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Nde jeike ndahekokatúi">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Marandu opapotaitéva: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Opanungáva">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> oipuru tembipuru pyahu tekorosãrã ituja ha ikangýmava mba'evai renondépe. Pe mba'evai ikatu ohechauka marandu nde eréva hekorosãha.">
-<!ENTITY weakCryptoAdvanced.override "(Jeroviaha'ỹva) Eñeha'ã emyenyhẽ <span class='hostname'></span> eipurukuévo tekorosãrã ndoikovéimava">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
