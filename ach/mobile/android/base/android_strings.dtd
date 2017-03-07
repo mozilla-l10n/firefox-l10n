@@ -377,6 +377,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Nyut jami mukato me yeny">
 <!ENTITY pref_import_options "Ter me kel ki woko">
 <!ENTITY pref_import_android_summary "Kel alamabuk ki gin mukato ki i layeny ma gang">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Yab dirica matino">
 <!ENTITY pref_private_data_history2 "Gin mukato me yeny">
 <!ENTITY pref_private_data_searchHistory "Gin mukato me yeny">
@@ -508,10 +510,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nying pa latic kwede">
 <!ENTITY doorhanger_login_edit_password_hint "Mung me donyo">
 <!ENTITY doorhanger_login_edit_toggle "Nyut mung me donyo">
-<!ENTITY doorhanger_login_edit_toast_error "Gwoko dony iyie pe olare">
 <!ENTITY doorhanger_login_select_message "Lok mung me donyo ki i &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Kiloko mung me donyo i bao me coc">
-<!ENTITY doorhanger_login_select_toast_copy_error "Pe onongo twero loko mung me donyo">
 <!ENTITY doorhanger_login_select_action_text "Yer dony iyie mukene">
 <!ENTITY doorhanger_login_select_title "Lok mung me donyo ki i">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
