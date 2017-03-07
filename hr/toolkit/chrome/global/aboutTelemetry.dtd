@@ -76,9 +76,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NAPOMENA: Detaljno praćenje sporih SQL upita je uključeno. Potpuni SQL upiti mogu biti prikazani ispod, međutim oni neće biti poslali Telemetriji.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Prikupi imena funkcija za informacije o smrzavanju">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Prikaži neobrađene podatke od smrzavanja raw data from hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Filtriraj (tekst ili /regexp/)">
 
