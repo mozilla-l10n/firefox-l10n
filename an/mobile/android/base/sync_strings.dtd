@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Mas&ellipsis;">
 <!ENTITY fxaccount_remove_account "Desconnectar&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Borrar a Cuenta de Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; deixará de sincronizar con a tuya cuenta, pero no borrará os suyos datos de navegación en iste dispositivo.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "S\u0027ha borrau a Cuenta de Firefox &formatS;.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Activar o Modo de Depuración">
 <!-- Localization note: this is the name shown by the Android system
