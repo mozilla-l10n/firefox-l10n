@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label;’i kur">
-<!ENTITY setupButton.accesskey      "k">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; tüm aygıtlarınızdan tarama geçmişinize, yer imlerinize, parolalarınıza ve açık sekmelerinize erişmenize olanak sağlar.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Güncelle">
-<!ENTITY resetPass.label              "Sıfırla">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Hesabı yönet">
-<!ENTITY manageAccount.accesskey      "y">
-<!ENTITY changePassword2.label        "Parolayı değiştir…">
-<!ENTITY myRecoveryKey.label          "Kurtarma anahtarım">
-<!ENTITY resetSync2.label             "Sync’i sıfırla…">
-
-<!ENTITY pairDevice.label             "Aygıt eşleştir">
-
-<!ENTITY syncMy.label               "Eşitlenecekler:">
 <!ENTITY engine.bookmarks.label     "Yer imleri">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Açık sekmeler">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "E">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Cihaz adı:">
 <!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
 <!ENTITY changeSyncDeviceName.label "Cihaz adını değiştir…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Kaydet">
 <!ENTITY saveChangeSyncDeviceName.accesskey "K">
-<!ENTITY unlinkDevice.label           "Bu cihazın bağlantısını kes">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kullanım Koşulları">
-<!ENTITY prefs.ppLink.label         "Gizlilik Anlaşması">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Gizlilik Bildirimi">
-<!ENTITY determiningAcctStatus.label     "Hesap durumunuz öğreniliyor…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "d">
 <!ENTITY forget.label                "Bu e-postayı unut">
 <!ENTITY forget.accesskey            "u">
-
-<!ENTITY welcome.description "&brandShortName; kullandığınız her yerde sekmelerinize, yer imlerinize, parolalarınıza ve daha fazlasına erişin.">
-<!ENTITY welcome.signIn.label "Giriş yap">
-<!ENTITY welcome.createAccount.label "Hesap oluştur">
-
-<!ENTITY welcome.useOldSync.label "Sync’in eski bir sürümünü mü kullanıyorsunuz?">
 
 <!ENTITY signedOut.caption            "Web’inizi yanınızda taşıyın">
 <!ENTITY signedOut.description        "Yer imlerinizi, geçmişinizi, sekmelerinizi, eklentilerinizi ve tercihlerinizi tüm cihazlarınız arasında senkronize edin.">
