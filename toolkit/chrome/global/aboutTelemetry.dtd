@@ -50,9 +50,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: Ukususwa kwamaphutha kwe-Slow SQL kunikwe amandla. Uchungechunge olugcwele le-SQL lingakhutshazwa ngezansi kepha ngeke luthunyelwe ku-Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Landa amagama emisebenzi wezitaki ezihengiwe">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Bonisa idatha engavuthiwe kusuka kumahengi">
 
 
 
