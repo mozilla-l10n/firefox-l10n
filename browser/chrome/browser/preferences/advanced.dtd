@@ -19,7 +19,7 @@
 
 <!ENTITY browsing.label                  "Азіранне">
 
-<!ENTITY useAutoScroll.label             "Ужываць самапракручванне">
+<!ENTITY useAutoScroll.label             "Выкарыстоўваць аўтаматычную пракрутку">
 <!ENTITY useAutoScroll.accesskey         "с">
 <!ENTITY useSmoothScrolling.label        "Ужываць плаўнае пракручванне">
 <!ENTITY useSmoothScrolling.accesskey    "л">
@@ -35,7 +35,7 @@
 <!ENTITY enableHealthReport.accesskey    "с">
 <!ENTITY healthReportLearnMore.label     "Падрабязней">
 
-<!ENTITY telemetryDesc.label             "Дзеліцца дадзенымі пра хуткадзейнасць, выкарыстанне. апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра хуткадзейнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
 <!ENTITY enableTelemetryData.accesskey   "т">
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
