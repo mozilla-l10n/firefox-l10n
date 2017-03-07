@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Zregistrujće so, zo byšće swoje rajtarki, zapołožki, hesła a dalše synchronizował.">
 <!ENTITY aboutAccountsConfig.startButton.label "Prěnje kroki">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Wužiwaće staršu wersiju programa Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Synchronizowanske nastajenja">
 <!ENTITY aboutAccounts.noConnection.title "Žadyn zwisk">
 <!ENTITY aboutAccounts.noConnection.description "Dyrbiće z internetom zwjazany być, zo byšće so přizjewił.">

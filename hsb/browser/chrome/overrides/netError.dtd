@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Zmylk při čitanju strony">
 <!ENTITY retry.label "Hišće raz spytać">
 <!ENTITY returnToPreviousPage.label "Wróćo hić">
-<!ENTITY advanced.label "Rozšěrjene">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; njemóže tutu stronu z někajkeje přičiny začitać.</p>">
 
 <!ENTITY captivePortal.title "So pola syće přizjewić">
-<!ENTITY captivePortal.longDesc "<p>Tuta syć sej snano žada, zo dyrbiće so za přistup na internet přizjewić.</p>">
 
-<!ENTITY openPortalLoginPage.label "Stronu za přizjewjenje wočinić">
+
 
 <!ENTITY malformedURI.title "Adresa płaćiwa njeje">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webadresy so z wašnjom kaž <strong>http://www.example.com/</strong> pisaja.</li> <li>Zawěsćće, zo wužiwaće doprědka nachilene nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšěrjena info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Waš zwisk wěsty njeje">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Rozšěrjena info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Rozšěrjene">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> wužiwa wěstotnu technologiju, kotraž je zestarjena a za napadliwa na nadpady. Nadpadnik móhł lochko daty wotkryć, kotrež su za wěste měli.">
-<!ENTITY weakCryptoAdvanced.override "(Njewěsty) Spytajće <span class='hostname'></span> začitówać wužiwajo zestarjenu wěstotu">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
