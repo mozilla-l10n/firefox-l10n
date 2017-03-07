@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "Bokmerke">
 <!ENTITY engine.bookmarks.accesskey "B">
-<!ENTITY engine.tabs.label2         "Opna faner">
+<!ENTITY engine.tabs.label2         "Opne faner">
 <!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Historikk">
 <!ENTITY engine.history.accesskey   "H">
@@ -19,11 +19,11 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Einingsnamn">
-<!ENTITY changeSyncDeviceName.label "Endra einingsnamn…">
+<!ENTITY changeSyncDeviceName.label "Endre einingsnamn…">
 <!ENTITY changeSyncDeviceName.accesskey "E">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
-<!ENTITY saveChangeSyncDeviceName.label "Lagra">
+<!ENTITY saveChangeSyncDeviceName.label "Lagre">
 <!ENTITY saveChangeSyncDeviceName.accesskey "L">
 
 <!-- Footer stuff -->
@@ -43,16 +43,16 @@ signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
-<!ENTITY signedInLoginFailure.beforename.label "Logg inn for å kopla til att">
+<!ENTITY signedInLoginFailure.beforename.label "Logg inn for å kople til på nytt">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Du er ikkje innlogga.">
 <!ENTITY signIn.label                "Logg inn">
 <!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "Endra profilbilde">
+<!ENTITY profilePicture.tooltip      "Endre profilbilde">
 <!ENTITY verifiedManage.label        "Handsam kontoen">
 <!ENTITY verifiedManage.accesskey    "k">
-<!ENTITY disconnect.label            "Kopla frå…">
+<!ENTITY disconnect.label            "Kople frå…">
 <!ENTITY disconnect.accesskey        "K">
 <!ENTITY verify.label                "Stadfest e-post">
 <!ENTITY verify.accesskey            "S">
@@ -61,7 +61,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Ta med deg nettet">
 <!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
-<!ENTITY signedOut.accountBox.title   "Kopla til ein &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.title   "Kople til ein &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Lag konto">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "Logg inn">
@@ -83,4 +83,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " for å synkronisera med mobileininga di.">
+<!ENTITY mobilePromo3.end              " for å synkronisere med mobileininga di.">

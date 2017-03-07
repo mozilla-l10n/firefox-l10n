@@ -15,18 +15,18 @@
 <!ENTITY useCurrentPage.label      "Bruk open nettside">
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Bruk opne nettsider">
-<!ENTITY chooseBookmark.label      "Bruk bokmerke …">
+<!ENTITY chooseBookmark.label      "Bruk bokmerke…">
 <!ENTITY chooseBookmark.accesskey  "u">
 <!ENTITY restoreDefault.label      "Bruk standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
 <!ENTITY downloads.label     "Nedlastingar">
 
-<!ENTITY saveTo.label "Lagra filer i">
+<!ENTITY saveTo.label "Lagre filer i">
 <!ENTITY saveTo.accesskey "L">
-<!ENTITY chooseFolderWin.label        "Bla gjennom …">
+<!ENTITY chooseFolderWin.label        "Bla gjennom…">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Bla gjennom …">
+<!ENTITY chooseFolderMac.label        "Bla gjennom…">
 <!ENTITY chooseFolderMac.accesskey    "o">
 <!ENTITY alwaysAskWhere.label         "Alltid spør meg kvar filer skal lagrast">
 <!ENTITY alwaysAskWhere.accesskey     "ø">
@@ -38,7 +38,7 @@
 <!ENTITY isDefault.label                  "&brandShortName; er standard nettlesar">
 <!ENTITY isNotDefault.label               "&brandShortName; er ikkje standard nettlesar">
 
-<!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å køyra samstundes">
+<!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å køyre samstundes">
 <!ENTITY useFirefoxSync.label             "Tips: Dei brukar eigne profilar. Bruk Sync for å dela data mellom dei.">
 <!ENTITY getStarted.label                 "Start å bruka Sync …">
 
