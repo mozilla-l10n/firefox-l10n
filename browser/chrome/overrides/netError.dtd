@@ -52,11 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Kirjaudu verkkoon">
-<!ENTITY captivePortal.longDesc "
-<p>Tämä verkko voi vaatia kirjautumista internetin käyttämiseksi.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Avaa kirjautumissivu">
 
 <!ENTITY malformedURI.title "Virheellinen osoite">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Lisätiedot: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Yhteys ei ole suojattu">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Lisätiedot: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Yksityiskohdat">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> käyttää suojaustekniikkaa, joka on vanhentunut ja haavoittuvainen hyökkäyksille. Hyökkääjä voisi helposti lukea tietoja, joiden luulit olevan suojattuja.">
-<!ENTITY weakCryptoAdvanced.override "(Ei suojattu) Yritä ladata <span class='hostname'></span> käyttäen vanhentunut tietosuojaa">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

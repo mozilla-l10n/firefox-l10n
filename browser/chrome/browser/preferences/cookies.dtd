@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Seuraavat evästeet on asetettu tietokoneellesi:">
 <!ENTITY     cookiename.label               "Evästeen nimi">
-<!ENTITY     cookiedomain.label             "Sivusto"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "o">
-<!ENTITY     button.removeAllCookies.label "Poista kaikki">
-<!ENTITY     button.removeAllCookies.accesskey "k">
+<!ENTITY     cookiedomain.label             "Sivusto">
 
 <!ENTITY     props.name.label               "Nimi:">
 <!ENTITY     props.value.label              "Sisältö:">
