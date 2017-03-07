@@ -8,3 +8,7 @@
 <!ENTITY     statusCol.label               "狀態">
 <!ENTITY     usageCol.label                "儲存空間">
 <!ENTITY     searchPlaceHolder             "搜尋">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.accesskey              "C">
