@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Kudenn o kargañ ar bajennad">
 <!ENTITY retry.label "Klask en-dro">
 <!ENTITY returnToPreviousPage.label "Distreiñ">
-<!ENTITY advanced.label "Kempleshoc'h">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>N’hall ket &brandShortName; kargañ ar bajennad-mañ.</p>">
 
 <!ENTITY captivePortal.title "Kennaskañ d'ar rouedad">
-<!ENTITY captivePortal.longDesc "<p>Gallout a ra ar rouedad-mañ goulenn ganeoc'h kennaskañ da haeziñ an internet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Digeriñ ar bajenn gennaskañ">
+
 
 <!ENTITY malformedURI.title "N'eo ket talvoudek ar chomlec’h">
 <!ENTITY malformedURI.longDesc "<ul> <li>Peurvuiañ e vez skrivet ar chomlec’hioù web evel-mañ  <strong>http://www.example.com/</strong></li> <li>Gwiriekait e vez implijet barennoù stouet ganeoc'h (d.l.e <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "N'eo ket diarvar ho kennask">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Titouroù kempleshoc'h : SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Kempleshoc'h">
-<!ENTITY weakCryptoAdvanced.longDesc "Galvezouriezh diogelroez diamzeret a vez arveret gant <span class='hostname'></span>, ha bresk eo d'an tagadennoù. Gallout a ra un tager dizoloiñ titouroù a soñje deoc'h oa diogel. ">
-<!ENTITY weakCryptoAdvanced.override "(Arvarus) Klaskit kargañ <span class='hostname'></span> gant diogelroez diamzeret">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

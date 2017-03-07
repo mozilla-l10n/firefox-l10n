@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTENN : Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Delemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Atoriñ an anvioù arc'hwel evit tornioù ar sac'hadennoù">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Diskouez roadennoù diaoz ar sac'hadennoù">
 
 <!ENTITY aboutTelemetry.filterText "  Sil (hedadoù pe /riñvenn reoliek/)">
 

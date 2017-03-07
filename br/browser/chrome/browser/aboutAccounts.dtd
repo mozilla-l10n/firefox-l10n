@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "En em gennaskit evit goubredañ hoc'h ivinelloù, ho sinedoù, ho kerioù-tremen hag ouzhpenn c'hoazh.">
 <!ENTITY aboutAccountsConfig.startButton.label "Deraouiñ">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Oc'h arverañ un handelv gozh eus Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Gwellvezioù Sync">
 <!ENTITY aboutAccounts.noConnection.title "Kennask ebet">
 <!ENTITY aboutAccounts.noConnection.description "Ret eo deoc'h bezañ kennasket d'ar genrouedad evit kennaskañ.">
