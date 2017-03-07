@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Парақты жүктегенде қате кетті">
 <!ENTITY retry.label "Қайтадан көру">
 <!ENTITY returnToPreviousPage.label "Артқа">
-<!ENTITY advanced.label "Кеңейтілген">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; осы парақты белгісіз себептермен жүктей алмайды.</p>">
 
 <!ENTITY captivePortal.title "Желіге кіру">
-<!ENTITY captivePortal.longDesc "<p>Бұл желі Интернетке қатынау үшін сізден кіруіңізді сұрауы мүмкін.</p>">
 
-<!ENTITY openPortalLoginPage.label "Кіру парағын ашу">
+
 
 <!ENTITY malformedURI.title "Адрес пішімі қате">
 <!ENTITY malformedURI.longDesc "<ul> <li>Веб адрестері әдетте келесідей жазылады - <strong>http://www.example.com/</strong></li> <li>Қалыпты слэштер қолданатыңызға көз жеткізіңіз (мыс. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Кеңейтілген ақпарат: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Сіздің байланысыңыз қауіпсіз емес">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Кеңейтілген ақпарат: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Кеңейтілген">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ескірген және шабуылдарға тұрақсыз қауіпсіздік технологиясын қолдануда. Шабуылшы сіз қауіпсіз деп ойлап тұрған ақпаратты оңай ала алады.">
-<!ENTITY weakCryptoAdvanced.override "(Қауіпсіз емес) <span class='hostname'></span> ескірген қауіпсіздікті қолданып, жүктеу талабы">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

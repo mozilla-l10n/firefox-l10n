@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Ескерту: Баяу SQL-ді жөндеу режимі іске қосулы тұр. Толық SQL жолдары төмен көрсетілуі мүмкін, бірақ олар телеметрияға жіберілмейді.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Тоқталу стектерден функциялардың аттарын алу ">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Тоқталудың өнделмеген мәліметтерін көрсету ">
 
 <!ENTITY aboutTelemetry.filterText "  Сүзгі (жолдар не /regexp/)">
 
