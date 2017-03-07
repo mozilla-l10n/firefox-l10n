@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "IWindows yeenkqubo ezininzi">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "IMowudi Ekhuselekileyo">
 
 <!ENTITY aboutSupport.showDir.label "Isalathiso esivulekileyo">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Khuphela iingcombolo ezingahlelwanga kwiklipbhodi">
 
 <!ENTITY aboutSupport.sandboxTitle "Ibhokisi yesanti">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Zama iMo yokuSebenza eKhuselekileyo">
 <!ENTITY aboutSupport.restartInSafeMode.label "Qalisa kwakhona izongezelelo zenziwe azasebenza…">

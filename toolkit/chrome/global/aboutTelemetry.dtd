@@ -78,9 +78,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: I-SQL ecothayo ephelisa ubuzaza yenziwe yasebenza. Uluhlu lweekharakhtha ze-SQL oluzeleyo lunokuboniswa ngezantsi kodwa aluyi kuthunyelwa kwiThelemetri.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Zisa amagama omsebenzi ocazululo olujingayo">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Bonisa iingcombolo ezingahlelwanga kwezijingayo">
 
 <!ENTITY aboutTelemetry.filterText "  Hluza (izitringi okanye /regexp/)">
 
