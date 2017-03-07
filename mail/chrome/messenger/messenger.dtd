@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "获取消息">
 <!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextPauseAllUpdates.label "暂停所有更新">
+<!ENTITY folderContextPauseUpdates.label "暂停更新">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "在新窗口中打开">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "在新标签页中打开">

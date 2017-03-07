@@ -2,23 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "检查是否有新文章,每隔">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "分钟">
+<!ENTITY loginAtStartup.label          "启动时检查是否有新文章。">
+<!ENTITY loginAtStartup.accesskey      "C">
+<!ENTITY biffAll.label                 "启用所有收取点的更新">
+<!ENTITY biffAll.accesskey             "E">
 
-<!ENTITY loginAtStartup.label "启动时检查是否有新文章。"> 
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY newFeedSettings.label         "新收取点的默认设置">
 
-<!ENTITY useQuickMode.label "默认情况下显示文章概述而不载入全部网页。"> 
-<!ENTITY useQuickMode.accesskey "B">
-
-<!ENTITY manageSubscriptions.label "管理订阅…"> 
+<!ENTITY manageSubscriptions.label     "管理订阅…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "收取点账号向导">
-<!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "博客和新闻收取点">
-<!ENTITY feeds.wizardShortName "收取点">
-<!ENTITY feeds.wizardLongName "博客和新闻收取点">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feedWindowTitle.label         "收取点账号向导">
+<!ENTITY feeds.accountName             "博客和新闻收取点">
