@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Dony iyie wek i rib dirica matino, alama buk, mung me donyo ki mukene mamegi.">
 <!ENTITY aboutAccountsConfig.startButton.label "Caki">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Itye katic ki kit me Ribo macon?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Ter me rib">
 <!ENTITY aboutAccounts.noConnection.title "Kube pe">
 <!ENTITY aboutAccounts.noConnection.description "Myero i bed ma i kube i intanet me donyo iye.">

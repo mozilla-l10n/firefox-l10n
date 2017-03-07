@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Ter &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; weko inongo gin mukato, alama me buk, mung me donyo mamegi ki yabo dirica matino i nyonyo ni weng.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Ngec manyen">
-<!ENTITY resetPass.label              "Nwo ter">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Lo Akaunti">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Lok mung me donyo…">
-<!ENTITY myRecoveryKey.label          "Lagony mamega me Nong">
-<!ENTITY resetSync2.label             "Nwo tero Ribo…">
-
-<!ENTITY pairDevice.label             "Ket nyo aryo kacel">
-
-<!ENTITY syncMy.label               "Rib">
 <!ENTITY engine.bookmarks.label     "Alama me buk">
 <!ENTITY engine.bookmarks.accesskey "l">
 <!ENTITY engine.tabs.label2         "Yab dirica matino">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "M">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Nying Nyonyo:">
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
 <!ENTITY changeSyncDeviceName.label "Lok nying nyonyo…">
 <!ENTITY changeSyncDeviceName.accesskey "o">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "o">
 <!ENTITY saveChangeSyncDeviceName.label "Gwoki">
 <!ENTITY saveChangeSyncDeviceName.accesskey "o">
-<!ENTITY unlinkDevice.label           "Ngol kube ki nyonyo man">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Cik me Tic">
-<!ENTITY prefs.ppLink.label         "Cik me Mung">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Ngec me mung">
-<!ENTITY determiningAcctStatus.label     "Nongo kit ma akaunti ni tye kwede…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 <!ENTITY forget.accesskey            "e">
 
-<!ENTITY welcome.description "Nong dirica matino, alama me buk, mung me donyo ki mukene mamegi ka itiyo ki &brandShortName;.">
-<!ENTITY welcome.signIn.label "Dony iye">
-<!ENTITY welcome.createAccount.label "Cwe akaunt">
-
-<!ENTITY welcome.useOldSync.label "Itye katic ki kit me Ribo macon?">
-
-<!ENTITY signedOut.caption            "Ter Kakube ni kwedi">
 <!ENTITY signedOut.description        "Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.">
 <!ENTITY signedOut.accountBox.title   "Kube ki &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Cwe akaunt">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Dony iye">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Rib i nyonyo weng">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

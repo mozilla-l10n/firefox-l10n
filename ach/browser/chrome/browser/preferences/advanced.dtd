@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY telemetryDesc.label             "Poko kit ma tic tye kawot kwede, tc kwede, nyonyo kadong yub me tic ikom layeny mamegi ki &vendorShortName; wek okony wa me yubu &brandShortName; maber">
-<!ENTITY enableTelemetryData.label       "Nywak data mukenen (calo, Pimo data)">
-<!ENTITY enableTelemetryData.accesskey   "P">
+
+
 <!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
 <!ENTITY crashReporterDesc2.label         "Ripot me poto konyo &vendorShortName; me yubo bal ki weko layeny mamegi cung matek dok ki ber bedo">
@@ -81,7 +81,6 @@
 
 <!ENTITY updateTab.label                 "Ngec manyen">
 
-<!ENTITY updateApplication.label         "ngec manyen me &brandShortName;">
 <!ENTITY updateAuto1.label               "Ket ngec manyen pire kene (kicwako: ber bedo i rwom mamalo)">
 <!ENTITY updateAuto1.accesskey           "n">
 <!ENTITY updateCheckChoose.label         "Rot pi ngec manyen, ento weko iyero kace imito keto gi">
@@ -95,7 +94,6 @@
 <!ENTITY useService.label                "Tii ki tic ma angec me keto ngec manyennen pi keto ngec">
 <!ENTITY useService.accesskey            "t">
 
-<!ENTITY autoUpdateOthers.label          "Ket ngec manyen pire kene">
 <!ENTITY enableSearchUpdate.label        "Gin me Yeny">
 <!ENTITY enableSearchUpdate.accesskey    "i">
 

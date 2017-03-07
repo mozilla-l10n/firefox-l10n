@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Peko i cano pot buk">
 <!ENTITY retry.label "Tem Doki">
 <!ENTITY returnToPreviousPage.label "Dok cen">
-<!ENTITY advanced.label "Ma lamal">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
 <!ENTITY captivePortal.title "Dony iyie netwak">
-<!ENTITY captivePortal.longDesc "<p>Twero mite ni myero i dony iyie netwak man me nongo intanet.</p>">
 
-<!ENTITY openPortalLoginPage.label "Yab pot buk me donyo iyie">
+
 
 <!ENTITY malformedURI.title "Kanonge pe tye atir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Kanonge me kakube pol kare kicoyo gi calo <strong>http://www.example.com/</strong></li> <li>Myero inen ni itye katic ki lapok me anyim (i.e. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Ngec ma lamal: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Kube ni pe tye ki ber bedo">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Ngec ma lamal: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Ma lamal">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> tiyo ki diro me gwoko ber bedo ma dong kare okato woko ki goro. Ngat mo romo nyuto ngec ma i tamo ni kigwoko maber ni i yo ma yot.">
-<!ENTITY weakCryptoAdvanced.override "(Pe ki ber bedo) Tem cano <span class='hostname'></span> tiyo ki gwoko ber bedo ma kare ne okato woko">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

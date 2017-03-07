@@ -60,6 +60,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dirica me tic mapol">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Kit maber">
 
 <!ENTITY aboutSupport.showDir.label "Yab Boc">
@@ -104,6 +106,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Lok data manumu i bao coc">
 
 <!ENTITY aboutSupport.sandboxTitle "Lapok kin purugram">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Tem kit maber">
 <!ENTITY aboutSupport.restartInSafeMode.label "Cak odoco ma nongo kijuko med-ikome…">

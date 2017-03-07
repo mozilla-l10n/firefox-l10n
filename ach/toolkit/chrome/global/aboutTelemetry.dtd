@@ -72,9 +72,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Ngec: Nongo bal i SQL mawoto mot kiye. Tol SQL ma opong mogo ki romo yaro piny ento pe ki bicwalo bot pimo tic.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Om tic me nying pi can me matengula ma omoko">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Nyut tic manumu kibot moko">
 
 <!ENTITY aboutTelemetry.filterText "  Li (tol onyo /regexp/)">
 
