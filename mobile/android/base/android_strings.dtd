@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Показувати історію пошуку">
 <!ENTITY pref_import_options "Параметри імпорту">
 <!ENTITY pref_import_android_summary "Імпорт закладок та історії з вбудованого браузера">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Відкриті вкладки">
 <!ENTITY pref_private_data_history2 "Історія перегляду">
 <!ENTITY pref_private_data_searchHistory "Історія пошуку">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Ім’я користувача">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показати пароль">
-<!ENTITY doorhanger_login_edit_toast_error "Не вдалося зберегти логін">
 <!ENTITY doorhanger_login_select_message "Копіювати пароль з &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Пароль скопійовано в буфер обміну">
-<!ENTITY doorhanger_login_select_toast_copy_error "Не вдалося скопіювати пароль">
 <!ENTITY doorhanger_login_select_action_text "Вибрати інший логін">
 <!ENTITY doorhanger_login_select_title "Копіювати пароль з">
 
