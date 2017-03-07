@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hämta meddelanden">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextPauseAllUpdates.label "Pausa alla uppdateringar">
+<!ENTITY folderContextPauseUpdates.label "Pausa uppdateringar">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Öppna i nytt fönster">
 <!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Öppna i ny flik">
