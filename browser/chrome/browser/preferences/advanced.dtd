@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Barrachd fiosrachaidh">
 
 <!ENTITY telemetryDesc.label             "Cuiridh seo dàta air dèanadas, cleachdadh, bathar-cruaidh agus gnàthachadh a' bhrabhsair agad dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a dhèanamh nas fhearr">
-<!ENTITY enableTelemetryData.label       "Co-roinn dàta a bharrachd (m.e. telemeatraidh)">
-<!ENTITY enableTelemetryData.accesskey   "t">
+
+
 <!ENTITY telemetryLearnMore.label        "Barrachd fiosrachaidh">
 
 <!ENTITY crashReporterDesc2.label         "Cuidichidh aithisgean tuislidh &vendorShortName; a’ càradh duilgheadasan is nì iad am brabhsair agad nas seasmhaiche agus nas tèarainte">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Ùraich">
 
-<!ENTITY updateApplication.label         "Ùrachaidhean &brandShortName;">
 <!ENTITY updateAuto1.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
 <!ENTITY updateAuto1.accesskey           "S">
 <!ENTITY updateCheckChoose.label         "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">
 
-<!ENTITY autoUpdateOthers.label          "Ùraich gu fèin-obrachail:">
 <!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 

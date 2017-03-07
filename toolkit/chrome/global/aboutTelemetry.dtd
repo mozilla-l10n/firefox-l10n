@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  AN AIRE: Tha Slow SQL Debugging an comas. Ma dh'fhaoidte gum faic thu sreangan SQL slàna gu h-ìosal ach cha dèid a chur gu gleus an telemeatraidh.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Faigh ainmean nam foincseanan aig Hang Stacks">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Seall dàta amh nan Hangs">
 
 <!ENTITY aboutTelemetry.filterText "  Criathraich (sreangan no /regexp/)">
 

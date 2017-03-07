@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Uinneagan ioma-phròiseasaidh">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Am modh tèarainte">
 
 <!ENTITY aboutSupport.showDir.label "Fosgail am pasgan">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd">
 
 <!ENTITY aboutSupport.sandboxTitle "Bogsa-gainmhich">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Feuch am modh tèarainte">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">
