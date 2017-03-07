@@ -2,19 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "ຕັ້ງຄ່າ &syncBrand.fullName.label;">
-
 <!-- The page shown when logged in... -->
-
-<!-- Login error feedback -->
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "ຕັ້ງຄ່າບັນຊີ">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "ປ່ຽນລະຫັດ">
-<!ENTITY myRecoveryKey.label          "ການຟື້ນຟູຂໍ້ມູນເຂົ້າສູ່ສະພາບປົກກະຕິ">
-
 
 <!ENTITY engine.addons.label        "ໂປຼແກຣມເສີມ">
 <!ENTITY engine.addons.accesskey    "A">
@@ -23,9 +11,6 @@
 <!ENTITY cancelChangeSyncDeviceName.label "ຍົກເລີກ">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.ppLink.label         "ນະໂຍບາຍຄວາມເປັນສ່ວນຕົວ">
-
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -40,8 +25,6 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
-
-
 
 
 

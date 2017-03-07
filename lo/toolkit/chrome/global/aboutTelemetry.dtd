@@ -53,6 +53,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "Thread ຄ້າງ
   ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "Scalars
   ">
 
@@ -63,6 +64,7 @@
   Histograms">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ການວັດແທກທີ່ງ່າຍດາຍ">
 
@@ -83,11 +85,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ຫມາຍເຫດ: ການດີບັກ SQL ທີ່ເຮັດວຽກຊ້າໄດ້ຖືກເປີດໃຊ້ງານຢູ່. ຄຳສັ່ງ SQL ແບບເຕັມອາດຈະຖືກສະແດງໄວ້ດ້ານລຸ່ມ ແຕ່ຈະບໍ່ຖືກສົ່ງອອກໄປຫາ Telemetry.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  ດຶງຊື່ຂອງຟັງຊັນສຳລັບ stack ທີ່ຄ້າງ">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  ສະແດງຂໍ້ມູນດິບທີ່ເກີດຈາກການຄ້າງ">
 
 <!ENTITY aboutTelemetry.filterText "
   ຕົວກັ່ນຕອງ (ສະຕລິງ ຫລື /regexp/)">
