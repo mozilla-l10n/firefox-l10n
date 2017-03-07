@@ -50,11 +50,7 @@
 ">
 
 <!ENTITY captivePortal.title "Prihlásiť sa do siete">
-<!ENTITY captivePortal.longDesc "
-<p>Pre prístup do siete sa možno budete musieť prihlásiť.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Otvoriť stránku pre prihlásenie">
 
 <!ENTITY malformedURI.title "Adresa nie je platná">
 <!ENTITY malformedURI.longDesc "
@@ -178,14 +174,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Rozšírené informácie: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Vaše pripojenie nie je zabezpečené">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Podrobné informácie: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Rozšírené">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> používa bezpečnostnú technológiu, ktorá je zastaraná a je náchylná na útoky. Útočník sa môže jednoducho dostať k informáciám, o ktorých si myslíte, že sú v bezpečí.">
-<!ENTITY weakCryptoAdvanced.override "(Nezabezpečené) Vyskúšať načítať <span class='hostname'></span> použitím zastaraného zabezpečenia">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

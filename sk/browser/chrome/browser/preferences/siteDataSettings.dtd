@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Stránka">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložisko">
-<!ENTITY     search.label                  "Hľadať:">
-<!ENTITY     search.accesskey              "H">

@@ -91,9 +91,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "Poznámka: Je zapnuté ladenie pomalých výrazov SQL. Nižšie môžu byť zobrazené celé výrazy SQL, avšak tieto nebudú odosielané pomocou telemetrie.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "Získať názvy funkcií pre zásobníky zlyhaní">
 
-<!ENTITY aboutTelemetry.hideSymbols "Zobraziť údaje zo zlyhaní v nespracovanom tvare">
 
 <!ENTITY aboutTelemetry.filterText "Filter (reťazec alebo /regexp/)">
 
