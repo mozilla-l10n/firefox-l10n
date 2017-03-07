@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Në kompjuterin tuaj janë depozituar cookie-t vijuese:">
 <!ENTITY     cookiename.label               "Emër Cookie">
-<!ENTITY     cookiedomain.label             "Sajt"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "H">
-<!ENTITY     button.removeAllCookies.label "Hiqi Krejt">
-<!ENTITY     button.removeAllCookies.accesskey "t">
+<!ENTITY     cookiedomain.label             "Sajt">
 
 <!ENTITY     props.name.label               "Emër:">
 <!ENTITY     props.value.label              "Lëndë:">

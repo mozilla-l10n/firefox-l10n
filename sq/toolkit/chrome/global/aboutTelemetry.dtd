@@ -153,13 +153,7 @@ Ping
   SHËNIM: Diagnostikimi i Ngadalësisë në SQL është i aktivizuar. Vargjet e plota SQL mund të shfaqen më poshtë, por ato nuk do t&apos;i parashtrohen Telemetry-së.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Sill emra funksionesh nga stack-e ngecjesh
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Shfaq të dhëna ngecjesh të papërpunuara
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtroni (vargje ose /regexp/)
