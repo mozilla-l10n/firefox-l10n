@@ -8,7 +8,7 @@
 <!ENTITY loadError.label " पृष्ठ की लोडिंग में समस्या">
 <!ENTITY retry.label " फिर कोशिश करें">
 <!ENTITY returnToPreviousPage.label "पीछे जाएँ">
-<!ENTITY advanced.label "विस्तृत">
+
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,6 @@
 
 
 
-<!ENTITY openPortalLoginPage.label "लॉग इन पृष्ठ खोले">
 
 <!ENTITY malformedURI.title " पता वैध नहीं है">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब पता प्रायः इस तरह लिखा जाता है <strong>http://www.example.com/</strong></li> <li>सुनिश्चित करें कि आप फॉरवर्ड स्लैश का प्रयोग कर रहे हैं (यानी <strong>/</strong>).</li> </ul>">
@@ -103,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "उन्नत जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "आपका संपर्क सुरक्षित नही है">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "विस्तृत जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "विस्तृत">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> फ़ायरफ़ॉक्स अब आपके ऑपरेटिंग सिस्टम के संस्करण के लिए समर्थन नहीं करता है और अब ऑनलाइन हमले के लिए भेद्य हो जाएगा.">
-<!ENTITY weakCryptoAdvanced.override "(Not secure) लोड करने की कोशिश करें <span class='hostname'></span> पुरानी सुरक्षा का उपयोग कर ">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

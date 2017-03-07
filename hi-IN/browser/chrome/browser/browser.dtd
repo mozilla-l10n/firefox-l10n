@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label " सभी पुस्तचिह्नों को दिखाएँ">
 <!ENTITY recentBookmarks.label "हाल में पुस्तचिह्नित">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तचिह्न">
+
 <!ENTITY bookmarksToolbarChevron.tooltip " अधिक पुस्तचिह्न दिखाएँ">
 <!ENTITY showRecentlyBookmarked.label     "हाल के पुस्तचिह्नित दिखाएँ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तचिह्न.">
 <!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तचिह्न">
+
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तचिह्न बाज़ू पट्टी देखें">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तचिह्न औज़ारपट्टी देखें">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "कोई टैब खुला नहीं">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "टैब्स की सूची देखने के लिए अपने दुसरे उपकरणों से टैब संकलन खोले. ">
