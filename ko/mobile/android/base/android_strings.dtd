@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "검색 이력 표시">
 <!ENTITY pref_import_options "가져오기 옵션">
 <!ENTITY pref_import_android_summary "기본 브라우저에서 북마크 및 방문 이력 가져오기">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "탭 열기">
 <!ENTITY pref_private_data_history2 "방문 기록">
 <!ENTITY pref_private_data_searchHistory "검색 기록">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "사용자명">
 <!ENTITY doorhanger_login_edit_password_hint "암호">
 <!ENTITY doorhanger_login_edit_toggle "암호 보이기">
-<!ENTITY doorhanger_login_edit_toast_error "로그인 저장하기 실패">
 <!ENTITY doorhanger_login_select_message "&formatS;에서 암호를 복사할까요?">
 <!ENTITY doorhanger_login_select_toast_copy "암호가 클립보드에 복사됨">
-<!ENTITY doorhanger_login_select_toast_copy_error "암호를 복사할 수 없음">
 <!ENTITY doorhanger_login_select_action_text "다른 로그인 선택">
 <!ENTITY doorhanger_login_select_title "암호 복사하기">
 
