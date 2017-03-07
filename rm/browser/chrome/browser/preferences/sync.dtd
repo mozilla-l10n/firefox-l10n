@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Endrizzar &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "Cun &syncBrand.fullName.label; has ti access a tia cronologia, tes segnapaginas, tes pleds-clav ed ils tabs che ti has avert sin tut tes apparats.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Actualisar">
-<!ENTITY resetPass.label              "Redefinir">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Administrar il conto">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Midar il pled-clav…">
-<!ENTITY myRecoveryKey.label          "Mia clav da restauraziun">
-<!ENTITY resetSync2.label             "Redefinir Sync…">
-
-<!ENTITY pairDevice.label             "Associar in apparat">
-
-<!ENTITY syncMy.label               "Sincronisar">
 <!ENTITY engine.bookmarks.label     "ils segnapaginas">
 <!ENTITY engine.bookmarks.accesskey "g">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -36,20 +17,14 @@
 <!ENTITY engine.addons.accesskey    "S">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Num da l'apparat:">
 <!ENTITY fxaSyncDeviceName.label       "Num da l'apparat">
 <!ENTITY changeSyncDeviceName.label "Midar il num da l'apparat…">
 <!ENTITY cancelChangeSyncDeviceName.label "Interrumper">
 <!ENTITY saveChangeSyncDeviceName.label "Memorisar">
-<!ENTITY unlinkDevice.label           "Distatgar quest apparat">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Contract da licenza">
-<!ENTITY prefs.ppLink.label         "Directivas per la protecziun da datas">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Infurmaziuns davart la protecziun da datas">
-<!ENTITY determiningAcctStatus.label     "Eruir il status da tes conto…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -74,12 +49,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect.label            "Deconnectar">
 <!ENTITY verify.label                "Verifitgar l'adressa dad e-mail">
 <!ENTITY forget.label                "Emblidar questa adressa dad e-mail">
-
-<!ENTITY welcome.description "Acceda tes tabs, segnapaginas, pleds-clav e dapli dapertut là nua che ti utiliseschas &brandShortName;.">
-<!ENTITY welcome.signIn.label "S'annunziar">
-<!ENTITY welcome.createAccount.label "Crear in conto">
-
-<!ENTITY welcome.useOldSync.label "Utiliseschas ina versiun pli veglia da Sync?">
 
 <!ENTITY signedOut.caption            "Prenda tes web cun tai">
 <!ENTITY signedOut.description        "Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.">
