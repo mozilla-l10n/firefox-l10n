@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "ahotew tebea">
 
 <!ENTITY aboutSupport.showDir.label "Daerɛktri a Ebue">
@@ -87,6 +89,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Nwomasiebea Vɛɛhyennom">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instɔlehyɛn Abakɔsɛm">
+
+
+
+
+
+
+
+
 
 
 
