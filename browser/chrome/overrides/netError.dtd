@@ -31,10 +31,7 @@
 <!ENTITY generic.longDesc "<p>কোনো কারণবসত &brandShortName;-র দ্বারা এই পৃষ্ঠা লোড করা সম্ভব নয়।</p>">
 
 <!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
-<!ENTITY captivePortal.longDesc "
-<p>এই নেটওয়ার্কে আপনাকে ইন্টারনেট পেতে হলে লগইন করতে হতে পারে।</p>">
 
-<!ENTITY openPortalLoginPage.label "লগইন পেজ খুলুন">
 
 <!ENTITY malformedURI.title "ঠিকানা বৈধ নয়">
 <!ENTITY malformedURI.longDesc "<ul> <li>ওয়েব ঠিকানা সাধারণত উল্লিখিত রূপে লেখা হয় <strong>http://www.example.com/</strong></li> <li>আপনি ফরওয়ার্ড স্ল্যাশ চিহ্ন ব্যবহার করেছেন কিনা তা পরীক্ষা করুন (i.e. <strong>/</strong>)।</li> </ul>">
@@ -110,14 +107,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "উন্নত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "তোমার কানেকশনটি নিরাপদ নয়">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ঊন্নত তথ্য: SSL_ERROR_UNSUPPORTED_VERSION">
-<!ENTITY weakCryptoAdvanced.title "উন্নত">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> নিরাপত্তা টেকনোলজি ব্যবহার করে যা পুরোনো এবং আক্রমণ প্রবণ। একজন আক্রমণকারী সহজে তথ্য ছিনিয়ে নিতে পারে যা আপনি সুরক্ষিত ভাবছেন।">
-<!ENTITY weakCryptoAdvanced.override "(নিরাপদ নয়) লোড করার চেষ্টা করুন <span class='hostname'></span>পুরোনো নিরাপত্তা ব্যবহার করে">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

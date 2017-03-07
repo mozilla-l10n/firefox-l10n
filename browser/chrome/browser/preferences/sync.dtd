@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; প্রস্তুত করুন">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-র সাহায্যে সর্বধরনের ডিভাইসের মধ্যে আপনার পূর্ববর্তী তথ্য, বুকমার্ক, পাসওয়ার্ড ও প্রদর্শিত ট্যাবগুলি ব্যবহার করা যাবে।">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "আপডেট করুন">
-<!ENTITY resetPass.label              "পুনরায় নির্ধারণ করুন">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "অ্যাকাউন্ট পরিচালনা">
-<!ENTITY manageAccount.accesskey      "অ">
-<!ENTITY changePassword2.label        "পাসওয়ার্ড পরিবর্তন করুন…">
-<!ENTITY myRecoveryKey.label          "পুনরুদ্ধারের জন্য আমার কি (key)">
-<!ENTITY resetSync2.label             "সিংক পুনরায় নির্ধারণ করুন…">
-
-<!ENTITY pairDevice.label             "একটি ডিভাইসের সাথে যুক্ত করুন">
-
-<!ENTITY syncMy.label               "সুসংগত করা হবে">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক">
 <!ENTITY engine.bookmarks.accesskey "ব">
 <!ENTITY engine.tabs.accesskey      "T">
@@ -36,7 +17,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "ডিভাইস নাম:">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">
 <!ENTITY changeSyncDeviceName.label "ডিভাইস নাম পরিবর্তন করুন…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -44,15 +24,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ করুন">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "ডিভাইসের বিচ্ছিন্ন করুন">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "পরিসেবার নিয়মাবলী">
-<!ENTITY prefs.ppLink.label         "গোপনীয়তা সংক্রান্ত নীতি">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "গোপনীয়তা সংক্রান্ত নীতি">
-<!ENTITY determiningAcctStatus.label     "আপনার অ্যাকাউন্টের অবস্থা নির্ধারণ করা হচ্ছে…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -82,12 +57,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "যেখান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যন্যগুলি ব্যবহার করতে পারবেন।">
-<!ENTITY welcome.signIn.label "সাইন-ইন করুন">
-<!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
-
-<!ENTITY welcome.useOldSync.label "সিঙ্ক এর কোন পুরানো সংস্করণ ব্যবহার করছেন?">
 
 <!ENTITY signedOut.caption            "আপনার সাথে আপনার ওয়েব নিন">
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দসমূহ সুসংগত করুন।">
