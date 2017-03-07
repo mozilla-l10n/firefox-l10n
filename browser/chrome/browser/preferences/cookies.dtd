@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Çerezên di komputera te de tomar bûne li jêr in:">
 <!ENTITY     cookiename.label               "Navê Çerezê">
-<!ENTITY     cookiedomain.label             "Cî"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeAllCookies.label "Gişî Rake">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Cî">
 
 <!ENTITY     props.name.label               "Nav::">
 <!ENTITY     props.value.label              "Agahî:">
