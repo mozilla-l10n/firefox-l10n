@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ရှာဖွေမှု မှတ်တမ်းကို ပြပါ">
 <!ENTITY pref_import_options "တင်သွင်းမှု ရွေးစရာများ">
 <!ENTITY pref_import_android_summary "စာအမှတ်များနှင့် မှတ်တမ်းကို စံဘယောက်ဆာမှ ဆွဲယူပါ">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "တပ်ဗ်များကို ဖွင့်ပါ">
 <!ENTITY pref_private_data_history2 "ရှာဖွေကြည့်ရှုမှု မှတ်တမ်း">
 <!ENTITY pref_private_data_searchHistory "ရှာဖွေမှု မှတ်တမ်း">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "သုံးစွဲသူ အမည်">
 <!ENTITY doorhanger_login_edit_password_hint "စကားဝှက်">
 <!ENTITY doorhanger_login_edit_toggle "စကားဝှက်များကို ဖေါ်ပြပါ">
-<!ENTITY doorhanger_login_edit_toast_error "ဝင်ရောက်မှုကို သိမ်းရာတွင် မအောင်မြင်ပါ">
 <!ENTITY doorhanger_login_select_message "&formatS;ထံမှ စကားဝှက်ကို ကူးယူမည်လား။">
 <!ENTITY doorhanger_login_select_toast_copy "စကားဝှက်ကို ကလစ်ဘုတ်သို့ ကူးယူပြီး">
-<!ENTITY doorhanger_login_select_toast_copy_error "စကားဝှက်ကို မကူးယူနိုင်ပါ">
 <!ENTITY doorhanger_login_select_action_text "အခြားဝင်ရောက်မှုကို ရွေးပါ">
 <!ENTITY doorhanger_login_select_title "စကားဝှက်ကို ကူးယူရန်">
 
