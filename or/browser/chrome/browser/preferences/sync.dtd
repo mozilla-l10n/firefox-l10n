@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; କୁ ବିନ୍ୟାସ କରନ୍ତୁ">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ଆପଣଙ୍କ ପୁରୁଣା ତଥ୍ୟ, ଚିହ୍ନିତ ସ୍ଥାନ, ପ୍ରବେଶ ସଂକେତକୁ ଅଭିଗମ୍ୟ କରିବା ପାଇଁ ଅନୁମତି ଦେଇଥାଏଏବଂ ଆପଣଙ୍କର ସମସ୍ତ ଉପକରଣରେ ଟ୍ୟାବଗୁଡ଼ିକୁ ଖୋଲିଥାଏ।">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "ଅପଡେଟ">
-<!ENTITY resetPass.label              "ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "ଖାତା ପରିଚାଳନା କରନ୍ତୁ">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "ପ୍ରବେଶ ସଂକେତକୁ ପରିବର୍ତ୍ତନ କରନ୍ତୁ…">
-<!ENTITY myRecoveryKey.label          "ମୋର ପୁନରୁଦ୍ଧାର କି">
-<!ENTITY resetSync2.label             "ସନ୍ତୁଳନକୁ ପୁନସ୍ଥାପନ କରନ୍ତୁ…">
-
-<!ENTITY pairDevice.label             "ଏକ ଉପକରଣକୁ ଯୁଗଳ କରନ୍ତୁ">
-
-<!ENTITY syncMy.label               "ନିମ୍ନଲିଖିତଗୁଡ଼ିକୁ Sync କରନ୍ତୁ">
 <!ENTITY engine.bookmarks.label     "ଚିହ୍ନିତ ସ୍ଥାନ">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -42,16 +23,10 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "ଏହି ଉପକରଣକୁ  ସଂଯୋଗ ବିଚ୍ଛିନ୍ନ କରନ୍ତୁ">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "ସର୍ଭିସ ନିୟମାବଳୀ">
-<!ENTITY prefs.ppLink.label         "ଗୋପନୀୟତା ନିତୀ">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "ଗୋପନୀୟତା ବିଜ୍ଞପ୍ତି">
-<!ENTITY determiningAcctStatus.label     "ଆପଣଙ୍କର ଖାତା ସ୍ଥିତିି ନିର୍ଦ୍ଧାରଣ କରୁଅଛି…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -81,12 +56,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!ENTITY welcome.description "ଆପଣଙ୍କର ଟ୍ୟାବ, ପୃଷ୍ଠା ସଂକେତ, ପ୍ରବେଶ ସଂକେତଗୁଡ଼ିକୁ ଅଭିଗମ୍ୟ କରନ୍ତୁ ଏବଂ&brandShortName; କୁ ଯେଉଁଠି ବ୍ୟବହାର କରିବେ ସେଠାରେ।">
-
-
-
-<!ENTITY welcome.useOldSync.label "ସନ୍ତୁଳନର ପୁରୁଣା ସଂସ୍କରଣ ବ୍ୟବହାର କରୁଛନ୍ତି କି?">
 
 
 

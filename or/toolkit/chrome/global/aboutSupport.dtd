@@ -57,6 +57,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ବହୁକାର୍ଯ୍ୟ ବିଶିଷ୍ଟ ୱିଣ୍ଡୋ">
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "ଡିରେକ୍ଟୋରୀ ଖୋଲନ୍ତୁ">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -96,6 +98,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "ପାଠ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ମୂଳ ତଥ୍ୟକୁ କ୍ଲିପବୋର୍ଡରେ ନକଲ କରନ୍ତୁ">
+
+
+
+
+
+
+
+
 
 
 

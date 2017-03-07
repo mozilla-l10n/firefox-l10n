@@ -53,9 +53,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ଟିପ୍ପଣୀ: ମନ୍ଥର SQL ତ୍ରୁଟି ନିବାରଣକୁ ସକ୍ରିୟ କରାଯାଇଛି। ସମ୍ପୂର୍ଣ୍ଣ SQL ବାକ୍ୟଖଣ୍ଡଗୁଡ଼ିକୁ ହୁଏତଃ ନିମ୍ନରେ ଦର୍ଶାଯାଇଛି କିନ୍ତୁ ସେମାନଙ୍କୁ ଦୂରମାପିରେ ଦାଖଲ କରାଯିବ ନାହିଁ।">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  ହ୍ୟାଙ୍ଗ ଷ୍ଟାକଗୁଡ଼ିକ ପାଇଁ  ଫଳନ ନାମଗୁଡ଼ିକୁ ଆଣନ୍ତୁ">
 
-<!ENTITY aboutTelemetry.hideSymbols "  ହ୍ୟାଙ୍ଗଗୁଡ଼ିକରୁ ମୂଳ ତଥ୍ୟକୁ ଦର୍ଶାନ୍ତୁ">
 
 <!ENTITY aboutTelemetry.filterText "  ଛାଣନ୍ତୁ (ବାକ୍ୟଖଣ୍ଡ କିମ୍ବା /regexp/)">
 
