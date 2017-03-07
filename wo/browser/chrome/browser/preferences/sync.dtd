@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Tabb &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "T">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; dafa lay may nga agg ci sa jaar jaar, say mandarga xët, say baatu jàll ak say koñ yu ubbeeku ci ay ordinatëër yu wuute.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Mottalil">
-<!ENTITY resetPass.label              "Sàjj">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Saytu koont">
-<!ENTITY manageAccount.accesskey      "k">
-<!ENTITY changePassword2.label        "Soppi baatu jàll…">
-<!ENTITY myRecoveryKey.label          "Sama caabi Jëli">
-<!ENTITY resetSync2.label             "Sàjj jàppante…">
-
-<!ENTITY pairDevice.label             "Boole ak benn aparey">
-
-<!ENTITY syncMy.label               "Jàppante">
 <!ENTITY engine.bookmarks.label     "Mandarga xët yi">
 <!ENTITY engine.bookmarks.accesskey "g">
 <!ENTITY engine.tabs.accesskey      "K">
@@ -36,16 +17,11 @@
 <!ENTITY engine.addons.accesskey    "M">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Turu aparey bi:">
 <!ENTITY cancelChangeSyncDeviceName.label "Neenal">
 <!ENTITY saveChangeSyncDeviceName.label "Aar">
-<!ENTITY unlinkDevice.label           "Bul jokkoo apaarey bii">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Sart yi ñu koy jëfandikoo">
-<!ENTITY prefs.ppLink.label         "Politigu déeyandoo">
-
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -60,8 +36,6 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInLoginFailure.aftername.label "">
-
-
 
 
 
