@@ -7,3 +7,12 @@
 <!ENTITY     hostCol.label                 "Веб сајт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Складиште">
+<!ENTITY     searchPlaceHolder             "Претрага">
+<!ENTITY     searchPlaceHolder.accesskey   "П">
+<!ENTITY     removeSelected.label          "Уклони изабрани">
+<!ENTITY     removeSelected.accesskey      "У">
+<!ENTITY     save.label                    "Сачувај промене">
+<!ENTITY     save.accesskey                "С">
+<!ENTITY     cancel.label                  "Откажи">
+<!ENTITY     cancel.accesskey              "к">
+<!ENTITY     removingDialog.title          "Избриши податке сајта">
