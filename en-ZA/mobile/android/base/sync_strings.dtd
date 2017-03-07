@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Remove Firefox Account?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; will stop syncing with your account, but won’t delete any of your browsing data on this device.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox Account &formatS; removed.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Enable Debug Mode">
 <!-- Localization note: this is the name shown by the Android system
