@@ -387,7 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Mostra l\u0027historial de cerca">
 <!ENTITY pref_import_options "Opcions d\u0027importació">
 <!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_searchHistory "Historial de cerca">
 <!ENTITY pref_private_data_formdata2 "Historial de formularis">
@@ -518,10 +519,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Nom d\u0027usuari">
 <!ENTITY doorhanger_login_edit_password_hint "Contrasenya">
 <!ENTITY doorhanger_login_edit_toggle "Mostra la contrasenya">
-<!ENTITY doorhanger_login_edit_toast_error "No s\u0027ha pogut desar l\u0027inici de sessió">
 <!ENTITY doorhanger_login_select_message "Voleu copiar la contrasenya de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "La contrasenya s\u0027ha copiat al porta-retalls">
-<!ENTITY doorhanger_login_select_toast_copy_error "No s\u0027ha pogut copiar la contrasenya">
 <!ENTITY doorhanger_login_select_action_text "Tria un altre inici de sessió">
 <!ENTITY doorhanger_login_select_title "Copia la contrasenya de">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
