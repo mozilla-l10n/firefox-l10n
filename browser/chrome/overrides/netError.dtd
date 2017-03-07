@@ -37,10 +37,7 @@
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
 
 <!ENTITY captivePortal.title "Влизане в мрежа">
-<!ENTITY captivePortal.longDesc "<p>Мрежата може да изисква вход, за да получи достъп до интернет.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "Отваряне на страницата за вход">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
 <!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
@@ -118,14 +115,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Допълнителна информация: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Връзката е незащитена">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Допълнителна информация: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Подробности">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> използва остаряла технология за сигурност, уязвима към атаки. Такива атаки могат лесно да разкрият информация, която мислите, че е защитена.">
-<!ENTITY weakCryptoAdvanced.override "(Не е защитено) Опит за зареждане на <span class='hostname'></span>, използвайки остарели нива на защита">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

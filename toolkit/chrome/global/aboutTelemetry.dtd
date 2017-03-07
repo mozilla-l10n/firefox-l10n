@@ -81,9 +81,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "ВАЖНО: Записването на бавните SQL заявки е разрешено. Пълните заявки може и да се показват, но те НЕ СЕ изпращат по телеметрията.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "Вземане имената на функциите на зависнали стекове">
 
-<!ENTITY aboutTelemetry.hideSymbols "Показване на необработените данни от сривовете">
 
 <!ENTITY aboutTelemetry.filterText "Филтър (низ или /регулярен израз/)">
 

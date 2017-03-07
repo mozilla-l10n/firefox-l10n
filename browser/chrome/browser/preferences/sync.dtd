@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Настройка на &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "Н">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ви дава възможност да имате достъп до своята история, отметки, пароли и отворени раздели от всичките ви устройства.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Обновяване">
-<!ENTITY resetPass.label              "Нулиране">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Управление на сметката">
-<!ENTITY manageAccount.accesskey      "с">
-<!ENTITY changePassword2.label        "Промяна на парола…">
-<!ENTITY myRecoveryKey.label          "Моят ключ за възстановяване">
-<!ENTITY resetSync2.label             "Анулиране на Sync…">
-
-<!ENTITY pairDevice.label             "Сдвояване на устройство">
-
-<!ENTITY syncMy.label               "Sync на моите">
 <!ENTITY engine.bookmarks.label     "Отметки">
 <!ENTITY engine.bookmarks.accesskey "О">
 <!ENTITY engine.tabs.label2         "Отворени раздели">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "б">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Име на текущото устройство:">
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
 <!ENTITY changeSyncDeviceName.label "Преименуване…">
 <!ENTITY changeSyncDeviceName.accesskey "и">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "о">
 <!ENTITY saveChangeSyncDeviceName.label "Запазване">
 <!ENTITY saveChangeSyncDeviceName.accesskey "З">
-<!ENTITY unlinkDevice.label           "Разкачване на устройството">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Условия за ползване на услугата">
-<!ENTITY prefs.ppLink.label         "Политика за личните данни">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
-<!ENTITY determiningAcctStatus.label     "Определяне на състоянието на вашата сметка…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забравяне на този мейл">
 <!ENTITY forget.accesskey            "З">
-
-<!ENTITY welcome.description "С &brandShortName; навсякъде може да имате достъп до вашите раздели, отметки, пароли и други.">
-<!ENTITY welcome.signIn.label "Вписване">
-<!ENTITY welcome.createAccount.label "Създаване на сметка">
-
-<!ENTITY welcome.useOldSync.label "Използвате по-стара версия на Sync ли?">
 
 <!ENTITY signedOut.caption            "Вземете Мрежата със себе си">
 <!ENTITY signedOut.description        "Синхронизирайте вашите отметки, история, раздели, добавки и настройки с всички ваши устройства.">

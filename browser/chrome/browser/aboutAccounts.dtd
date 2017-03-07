@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Впишете се, за да бъдат синхронизирани вашите раздели, отметки, пароли и др.">
 <!ENTITY aboutAccountsConfig.startButton.label "Въведение">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Използвате по-стара версия на Sync ли?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Настройки на Sync">
 <!ENTITY aboutAccounts.noConnection.title "Няма връзка с Интернет">
 <!ENTITY aboutAccounts.noConnection.description "Трябва да сте свързан към Интернет, за да може да се впишете.">
