@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Setel &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; memudahkan Anda untuk mengakses data riwayat, markah, sandi, dan tab di semua perangkat Anda.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Perbarui">
-<!ENTITY resetPass.label              "Setel Ulang">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Kelola Akun">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "Ganti Sandi…">
-<!ENTITY myRecoveryKey.label          "Kunci Pemulihan Saya">
-<!ENTITY resetSync2.label             "Setel Ulang Sinkronisasi…">
-
-<!ENTITY pairDevice.label             "Pasangkan Perangkat">
-
-<!ENTITY syncMy.label               "Sinkronkan">
 <!ENTITY engine.bookmarks.label     "Markah">
 <!ENTITY engine.bookmarks.accesskey "M">
 <!ENTITY engine.tabs.label2         "Buka tab">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "y">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Nama Perangkat:">
 <!ENTITY fxaSyncDeviceName.label       "Nama Perangkat">
 <!ENTITY changeSyncDeviceName.label "Ubah Nama Perangkat…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "B">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Putus Kait Perangkat Ini">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Ketentuan Layanan">
-<!ENTITY prefs.ppLink.label         "Kebijakan Privasi">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Pernyataan Privasi">
-<!ENTITY determiningAcctStatus.label     "Menentukan status akun Anda…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Lupakan Email Ini">
 <!ENTITY forget.accesskey            "L">
-
-<!ENTITY welcome.description "Akses tab, markah, sandi, dan yang lain saat menggunakan &brandShortName;.">
-<!ENTITY welcome.signIn.label "Masuk">
-<!ENTITY welcome.createAccount.label "Buat Akun">
-
-<!ENTITY welcome.useOldSync.label "Menggunakan versi lawas Sync?">
 
 <!ENTITY signedOut.caption            "Bawalah Web bersama Anda">
 <!ENTITY signedOut.description        "Sinkronkan markah, riwayat, tab, sandi, pengaya, dan preferensi di berbagai perangkat Anda.">
