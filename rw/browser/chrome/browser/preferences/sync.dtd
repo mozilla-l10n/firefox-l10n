@@ -1,23 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
-
-
-<!ENTITY updatePass.label             "Kuvugurura">
-<!ENTITY resetPass.label              "Kugarura">
-<!-- Manage Account -->
-
-
-
-
-
-
-
 
 
 
@@ -36,13 +20,9 @@
 
 
 
-
-
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amabwiriza ya serivisi">
-
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -70,11 +50,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-<!ENTITY welcome.useOldSync.label "Uri gukoresha uburyo bwo guhuza bwa kare">
 
 
 
