@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; সংস্থাপন কৰক">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; আপোনাৰ ইতিহাস, পত্ৰচিহ্নসমূহ, পাছৱাৰ্ডসমূহ ব্যৱহাৰ কৰিবলে অনুমতি দিযে আৰু আপোনাৰ সকলো ডিভাইচত টেব খোলে।">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "আপডেইট কৰক">
-<!ENTITY resetPass.label              "পুনৰ সংহতি কৰক">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "একাওন্ট ব্যৱস্থাপনা কৰক">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "পাছৱাৰ্ড সলনি কৰক…">
-<!ENTITY myRecoveryKey.label          "মোৰ উদ্ধাৰ কি'">
-<!ENTITY resetSync2.label             "সংমিহলি পুনৰ সংহতি কৰক…">
-
-<!ENTITY pairDevice.label             "এটা ডিভাইচ সংযুক্ত কৰক">
-
-<!ENTITY syncMy.label               "সংমিহলি কৰক মোৰ">
 <!ENTITY engine.bookmarks.label     "পত্ৰচিহ্নসমূহ">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -42,16 +23,10 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "এই ডিভাইচৰ সংযোগ বিচ্ছিন্ন কৰক">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "সেৱাৰ চুক্তিসমূহ">
-<!ENTITY prefs.ppLink.label         "ব্যক্তিগত নীতি">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "গোপনীয়তা ঘোষণা">
-<!ENTITY determiningAcctStatus.label     "আপোনাৰ একাওন্টৰ অৱস্থা নিৰ্ধাৰণ কৰা হৈছে…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -81,12 +56,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-<!ENTITY welcome.description "আপুনি য'তে &brandShortName; ব্যৱহাৰ কৰে তাতে আপোনাৰ টেবসমূহ, পত্ৰচিহ্নসমূহ, পাছৱাৰ্ডসমূহ আৰু অধিক অভিগম কৰক।">
-
-
-
-<!ENTITY welcome.useOldSync.label "সংমিহলিৰ এটা পুৰনি সংস্কৰণ ব্যৱহাৰ কৰিছে?">
 
 
 
