@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Rregulloni &syncBrand.fullName.label;-un">
-<!ENTITY setupButton.accesskey      "R">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-u ju lejon të përdorni historikun, faqerojtësit, fjalëkalimet tuaja dhe të hapni skedat tuaja nëpër krejt pajisjet tuaja.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Përditësoje">
-<!ENTITY resetPass.label              "Riktheji">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Administroni Llogarinë">
-<!ENTITY manageAccount.accesskey      "A">
-<!ENTITY changePassword2.label        "Ndryshoni Fjalëkalimin…">
-<!ENTITY myRecoveryKey.label          "Kyçi Im për Riparimin">
-<!ENTITY resetSync2.label             "Rirregulloni Sync-un…">
-
-<!ENTITY pairDevice.label             "Çiftoni një Pajisje">
-
-<!ENTITY syncMy.label               "Njëkohëso">
 <!ENTITY engine.bookmarks.label     "Faqerojtësit e Mi">
 <!ENTITY engine.bookmarks.accesskey "F">
 <!ENTITY engine.tabs.label2         "Hapi Skedat">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "t">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Emër Pajisjeje:">
 <!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">
 <!ENTITY changeSyncDeviceName.label "Ndryshoni Emër Pajisjeje…">
 <!ENTITY changeSyncDeviceName.accesskey "N">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Ruaje">
 <!ENTITY saveChangeSyncDeviceName.accesskey "u">
-<!ENTITY unlinkDevice.label           "Shkëpute Këtë Pajisje">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Kushte Shërbimi">
-<!ENTITY prefs.ppLink.label         "Rregulla Privatësie">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Shënim Mbi Privatësinë">
-<!ENTITY determiningAcctStatus.label     "Po përcaktohet gjendja e llogarisë suaj…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Harroje këtë Email">
 <!ENTITY forget.accesskey            "H">
-
-<!ENTITY welcome.description "Përdorni skedat, faqerojtësit, fjalëkalimet tuaja dhe të tjera kudo që përdorni &brandShortName;.">
-<!ENTITY welcome.signIn.label "Hyni">
-<!ENTITY welcome.createAccount.label "Krijoni Llogari">
-
-<!ENTITY welcome.useOldSync.label "Po përdorni version të vjetër Sync-u?">
 
 <!ENTITY signedOut.caption            "Merreni Web-in me vete">
 <!ENTITY signedOut.description        "Njëkohësoni nëpër krejt pajisjet tuaja faqerojtësit, historikun e shfletimeve, skedat, fjalëkalimet, shtesat dhe parapëlqimet tuaja.">

@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Sajt">
 <!ENTITY     statusCol.label               "Gjendje">
 <!ENTITY     usageCol.label                "Depozitë">
-<!ENTITY     search.label                  "Kërkim:">
-<!ENTITY     search.accesskey              "K">

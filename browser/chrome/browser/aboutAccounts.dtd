@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Bëni hyrjen, që të njëkohësoni skedat, faqerojtësit, fjalëkalimet tuaja &amp; etj.">
 <!ENTITY aboutAccountsConfig.startButton.label "Fillojani">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Po përdorni një version të vjetër të Sync-ut?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Parapëlqime mbi Sync-un">
 <!ENTITY aboutAccounts.noConnection.title "Pa lidhje">
 <!ENTITY aboutAccounts.noConnection.description "Duhet të jeni i lidhur në Internet, që të bëni hyrjen.">
