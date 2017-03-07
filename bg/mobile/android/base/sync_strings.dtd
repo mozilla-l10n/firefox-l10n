@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Още&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Изключване&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Изключване от Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Данните за сърфирането ще останат на това устройство, но няма да бъдат синхронизирани с вашата сметка.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox Account &formatS; е изключен.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Изключване'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Включване на режима за дебъгване'>
 
