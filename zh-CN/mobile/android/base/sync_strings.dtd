@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more '更多&ellipsis;'>
 <!ENTITY fxaccount_remove_account '断开&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 '断开同步？'>
+<!ENTITY fxaccount_remove_account_dialog_message2 '您的浏览数据将继续保留在此设备上，但它将不再与您的账号同步。'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox 账号 &formatS; 已断开。'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm '断开'>
 
 <!ENTITY fxaccount_enable_debug_mode '启用调试模式'>
 
