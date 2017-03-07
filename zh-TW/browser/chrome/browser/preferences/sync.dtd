@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "設定 &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; 可以讓您存取多個裝置的歷史資訊、書籤、密碼、開啟分頁。">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "更新">
-<!ENTITY resetPass.label              "重設">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "管理帳號">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "變更密碼…">
-<!ENTITY myRecoveryKey.label          "我的救援金鑰">
-<!ENTITY resetSync2.label             "重設 Sync…">
-
-<!ENTITY pairDevice.label             "與裝置配對">
-
-<!ENTITY syncMy.label               "同步我的">
 <!ENTITY engine.bookmarks.label     "書籤">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "開啟分頁">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "裝置名稱:">
 <!ENTITY fxaSyncDeviceName.label       "裝置名稱">
 <!ENTITY changeSyncDeviceName.label "修改裝置名稱…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "儲存">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "解除此裝置的連結">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "服務條款">
-<!ENTITY prefs.ppLink.label         "隱私權保護政策">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "隱私權公告">
-<!ENTITY determiningAcctStatus.label     "正在偵測您的帳號狀態…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘記此電子郵件地址">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "在隨處使用 &brandShortName; 時都能存取您已開啟的分頁、書籤、密碼。">
-<!ENTITY welcome.signIn.label "登入">
-<!ENTITY welcome.createAccount.label "建立帳號">
-
-<!ENTITY welcome.useOldSync.label "還在使用舊版的 Sync？">
 
 <!ENTITY signedOut.caption            "把 Web 隨身帶著走">
 <!ENTITY signedOut.description        "在您所有裝置間同步書籤、歷史紀錄、分頁、密碼、附加元件與偏好設定。">

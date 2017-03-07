@@ -45,9 +45,7 @@
 ">
 
 <!ENTITY captivePortal.title "登入到網路">
-<!ENTITY captivePortal.longDesc "<p>這個網路可能會需要您先登入才能存取網際網路。</p>">
 
-<!ENTITY openPortalLoginPage.label "開啟登入頁面">
 
 <!ENTITY malformedURI.title "不正確的網址">
 <!ENTITY malformedURI.longDesc "<ul>
@@ -167,14 +165,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "進階資訊: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "您的連線並不安全">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "進階資訊: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "進階">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> 使用過時的安全性技術，容易遭受攻擊。攻擊者可以簡單地得知您認為安全地資訊。">
-<!ENTITY weakCryptoAdvanced.override "嘗試使用過時的安全性設定載入此頁面 <span class='hostname'></span>（不安全）">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
