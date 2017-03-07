@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Gehiago&ellipsis;">
 <!ENTITY fxaccount_remove_account "Deskonektatu&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Firefoxeko kontua kendu?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName;(e)k zure kontuarekin sinkronizatzeari utziko dio baina ez du gailu honetako zure nabigatze-daturik ezabatuko.">
+<!ENTITY fxaccount_remove_account_dialog_title2 "Sync-etik deskonektatu?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Zure nabigazio-datuak gailu honetan mantenduko dira baina hemendik aurrera ez dira zure kontuarekin sinkronizatuko.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "&formatS; Firefoxeko kontua kendu egin da.">
+<!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefoxeko kontua deskonektatu egin da.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Deskonektatu">
 
 <!ENTITY fxaccount_enable_debug_mode "Gaitu arazketa modua">
 <!-- Localization note: this is the name shown by the Android system
