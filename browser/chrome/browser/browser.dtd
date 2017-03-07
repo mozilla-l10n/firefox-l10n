@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Wšě zapołožki pokazać">
 <!ENTITY recentBookmarks.label "Njedawno jako zapołožka wotpołoženy">
 <!ENTITY otherBookmarksCmd.label "Druhe zapołožki">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalše zapołožki pokazać">
 <!ENTITY showRecentlyBookmarked.label     "Njedawno jako zapołožka wotpołožene pokazać">
 <!ENTITY showRecentlyBookmarked.accesskey "d">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Zapołožki">
 <!ENTITY bookmarksMenuButton.other.label "Druhe zapołožki">
+
 <!ENTITY viewBookmarksSidebar2.label        "Lajstu zapołožkow pokazać">
 <!ENTITY viewBookmarksToolbar.label         "Lajstu zapołožkow pokazać">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žane wočinjene rajtarki">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizowanje rajtarkow zapinać, zo by so lisćina rajtarkow z druhich gratow pokazała.">
