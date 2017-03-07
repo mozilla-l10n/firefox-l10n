@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Cookies enka juranakasi patsakata jarastisi anchitatarakuaru:">
 <!ENTITY     cookiename.label               "Arhikua cookies">
-<!ENTITY     cookiedomain.label             "Pakarakua"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-
-
+<!ENTITY     cookiedomain.label             "Pakarakua">
 
 <!ENTITY     props.name.label               "Arhikua:">
 <!ENTITY     props.value.label              "Jatakata:">

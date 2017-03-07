@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Ísï patsapaniarhiparhatakua, Jakankurhikua, mititarantskua;">
-<!ENTITY setupButton.accesskey      "a">
-<!ENTITY weaveDesc.label            "inte &amp;arhiparhatakua, Jakankurhikua, mititarantskua; Jarhoatatikini atsakata ampe jirinhantani iápuri ísï, ka miiukuantskua ampe, ka ampe nkari sánteru exeni jápka.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Jimpanherantani">
-<!ENTITY resetPass.label              "Méntaru uéntani">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Patsarakua ma kámani">
-<!ENTITY manageAccount.accesskey      "P">
-<!ENTITY changePassword2.label        "Miiukuantskua mójtakuni…">
-<!ENTITY myRecoveryKey.label          "Mititarantskua juchiti">
-<!ENTITY resetSync2.label             "Ménteru uénta terukutantani…">
-
-<!ENTITY pairDevice.label             "Patsarakua ma terukutantani">
-
-<!ENTITY syncMy.label               "Terukutantani">
 <!ENTITY engine.bookmarks.label     "Kuirunharitarakuecha">
 <!ENTITY engine.bookmarks.accesskey "K">
 
@@ -42,13 +23,9 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "Ini patsarakuani kuerakuntani">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Arisïksï anchikurhioka">
-<!ENTITY prefs.ppLink.label         "Juchari pakatperakua">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -76,11 +53,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-<!ENTITY welcome.useOldSync.label "¿Úraxakiri jiniani sáni anapu Sync?">
 
 
 
