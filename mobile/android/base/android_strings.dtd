@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "ಹುಡುಕು ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 <!ENTITY pref_import_options "ಆಮದು ಆಯ್ಕೆಗಳು">
 <!ENTITY pref_import_android_summary "ಸ್ಥಳೀಯ ಬ್ರೌಸರ್‌ನಿಂದ ಪುಟಗುರುತುಗಳು ಮತ್ತು ಇತಿಹಾಸವನ್ನು ಆಮದುಮಾಡು">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "ತೆರೆದ ಹಾಳೆಗಳು‍">
 <!ENTITY pref_private_data_history2 "ವೀಕ್ಷಣೆಯ ಇತಿಹಾಸ">
 <!ENTITY pref_private_data_searchHistory "ಇತಿಹಾಸವನ್ನು ಹುಡುಕು">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ಬಳಕೆದಾರನ ಹೆಸರು">
 <!ENTITY doorhanger_login_edit_password_hint "ಪ್ರವೇಶ ಪದ">
 <!ENTITY doorhanger_login_edit_toggle "ಪ್ರವೇಶ ಪದಗಳನ್ನು ತೋರಿಸು">
-<!ENTITY doorhanger_login_edit_toast_error "ಒಳಗೆ ಪ್ರವೇಶಿಸಲು ವಿಫಲವಾಗಿದೆ">
 <!ENTITY doorhanger_login_select_message "&formatS; ನಿಂದ ಪ್ರವೇಶ ಪದವನ್ನು ನಕಲಿಸಲೆ?">
 <!ENTITY doorhanger_login_select_toast_copy "‍ಗುಪ್ತಪದವನ್ನು ಕ್ಲಿಪ್ ಬೋರ್ಡ್‌ಗೆ ಪ್ರತಿ ಮಾಡಲಾಗಿದೆ">
-<!ENTITY doorhanger_login_select_toast_copy_error "‍ಗುಪ್ತಪದವನ್ನು ಪ್ರತಿ ಮಾಡಲು ಆಗಲಿಲ್ಲ">
 <!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
 <!ENTITY doorhanger_login_select_title "ಇದರಿಂದ ಗುಪ್ತಪದವನ್ನು ನಕಲಿಸಿ">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

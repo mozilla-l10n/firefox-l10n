@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "ಇನ್ನಷ್ಟು&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "ಫೈರ್ಫಾಕ್ಸ್ ಖಾತೆಯನ್ನು ತೆಗೆದು ಹಾಕುವುದೇ?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ನಿಮ್ಮ ಖಾತೆಯೊಂದಿಗೆ ಸಿಂಕ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸುವುದು, ಆದರೆ ಈ ಸಾಧನದಿಂದ ನಿಮ್ಮ ಯಾವುದೇ ಅಂತರ್ಜಾಲ ಪರಿವೀಕ್ಷಣಾ ಡೇಟಾವನ್ನು ಅಳಿಸುವುದಿಲ್ಲ.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "ಫಯರ್ಫಾಕ್ಸ್ ನ ಖಾತೆ &formatS; ಅನ್ನು ತೆಗೆದುಹಾಕಲಾಗಿದೆ.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "ದೋಷನಿದಾನ ಸ್ಥಿತಿ ಸಕ್ರಿಯಗೊಳಿಸು">
 <!-- Localization note: this is the name shown by the Android system
