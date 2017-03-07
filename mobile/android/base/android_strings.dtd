@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Taispeáin stair an chuardaigh">
 <!ENTITY pref_import_options "Roghanna iompórtála">
 <!ENTITY pref_import_android_summary "Iompórtáil leabharmharcanna agus stair ón mbrabhsálaí dúchasach">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Cluaisíní oscailte">
 <!ENTITY pref_private_data_history2 "Stair bhrabhsála">
 <!ENTITY pref_private_data_searchHistory "Stair chuardaigh">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Ainm an Úsáideora">
 <!ENTITY doorhanger_login_edit_password_hint "Focal Faire">
 <!ENTITY doorhanger_login_edit_toggle "Taispeáin an focal faire">
-<!ENTITY doorhanger_login_edit_toast_error "Níor sábháladh an focal faire">
 <!ENTITY doorhanger_login_select_message "Cóipeáil an focal faire ó &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Cóipeáladh an focal faire go dtí an ghearrthaisce">
-<!ENTITY doorhanger_login_select_toast_copy_error "Níorbh fhéidir an focal faire a chóipeáil">
 <!ENTITY doorhanger_login_select_action_text "Roghnaigh focal faire eile">
 <!ENTITY doorhanger_login_select_title "Cóipeáil an focal faire ó">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
