@@ -6,7 +6,7 @@
 <!ENTITY crashesUnsubmitted.label   "Oningediende omvalverslae">
 <!ENTITY crashesSubmitted.label     "Ingediende omvalverslae">
 <!ENTITY id.heading                 "Verslag-ID">
-<!ENTITY dateCrashed.heading        "Datum ongeval">
+<!ENTITY dateCrashed.heading        "Datum omgeval">
 <!ENTITY dateSubmitted.heading      "Datum ingedien">
 <!ENTITY noReports.label            "Geen omvalverslae is ingedien nie.">
 <!ENTITY noConfig.label             "Hierdie toepassing is nie opgestel om omvalverslae te wys nie. Die voorkeur <code>breakpad.reportURL</code> moet gestel word.">
