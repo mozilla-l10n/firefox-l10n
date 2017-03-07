@@ -105,11 +105,13 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+<!ENTITY retryDownload.label              "Forsøk å laste ned på nytt">
 
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
      -->
+<!ENTITY cancelDownload.label             "Avbryt nedlasting">
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
