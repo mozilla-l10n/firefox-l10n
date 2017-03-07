@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "បង្ហាញ​ប្រវត្ត​ស្វែងរក">
 <!ENTITY pref_import_options "ជម្រើស​ការ​នាំចូល">
 <!ENTITY pref_import_android_summary "នាំចូល​ចំណាំ និង​ប្រវត្តិ​ពី​កម្មវិធី​អ៊ីនធឺណិត​ដើម">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "បើក​ផ្ទាំង">
 <!ENTITY pref_private_data_history2 "​ប្រវត្តិ​រក​មើល">
 <!ENTITY pref_private_data_searchHistory "ប្រវត្តិ​ស្វែងរក">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "ឈ្មោះ​អ្នក​ប្រើ">
 <!ENTITY doorhanger_login_edit_password_hint "ពាក្យសម្ងាត់">
 <!ENTITY doorhanger_login_edit_toggle "បង្ហាញ​ពាក្យសម្ងាត់">
-<!ENTITY doorhanger_login_edit_toast_error "បាន​បរាជ័យ​ក្នុង​ការ​រក្សាទុក​ការ​ចូល">
 <!ENTITY doorhanger_login_select_message "ចម្លង​ពាក្យ​សម្ងាត់​ពី &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "ពាក្យ​សម្ងាត់​បាន​ចម្លង​ទៅ​ក្ដារ​តម្បៀតខ្ទាស់">
-<!ENTITY doorhanger_login_select_toast_copy_error "មិន​អាច​ចម្លង​ពាក្យ​សម្ងាត់">
 <!ENTITY doorhanger_login_select_action_text "ជ្រើស​ការ​ចូល​ផ្សេង">
 <!ENTITY doorhanger_login_select_title "ចម្លង​ពាក្យ​សម្ងាត់​ពី">
 
