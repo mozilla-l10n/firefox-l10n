@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
 <!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
 <!ENTITY pref_import_android_summary "నేటివ్ విహారిణి నుండి ఇష్టాంశాలనూ చరిత్రనూ దిగుమతి చేసుకోండి">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "తెరిచివున్న ట్యాబులు">
 <!ENTITY pref_private_data_history2 "విహరణ చరిత్ర">
 <!ENTITY pref_private_data_searchHistory "వెతుకుడు చరిత్ర">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "వాడుకరినామము">
 <!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
-<!ENTITY doorhanger_login_edit_toast_error "లాగిన్ సేవ్ చేయుట విఫలమైంది">
 <!ENTITY doorhanger_login_select_message "&formatS; నుండి పాస్వర్డ్ను కాపీ చేయాలా?">
 <!ENTITY doorhanger_login_select_toast_copy "పాస్వర్డ్ క్లిప్బోర్డ్కు కాపీ చేయబడింది">
-<!ENTITY doorhanger_login_select_toast_copy_error "పాస్వర్డ్ కాపీ చేయలేకపోయింది">
 <!ENTITY doorhanger_login_select_action_text "మరో లాగిన్ ఎంచుకోండి">
 <!ENTITY doorhanger_login_select_title "నుండి పాస్వర్డ్ ను కాపీ చేయండి">
 
