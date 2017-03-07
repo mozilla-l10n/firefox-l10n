@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Ɓeydu humpito">
 
 <!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Lollin keɓe goɗɗe (i.e., Telemeetri)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Ɓeydu Humpito">
 
 <!ENTITY crashReporterDesc2.label         "Jaŋte Kooke ena mballa &vendorShortName; ñawndude caɗe kadi ɓeyda peeragol maa deeƴde e hisde.">

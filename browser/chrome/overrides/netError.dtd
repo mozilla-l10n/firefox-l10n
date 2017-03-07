@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Loowgol hello waɗii caɗeele">
 <!ENTITY retry.label "Fuɗɗito">
 <!ENTITY returnToPreviousPage.label "Rutto">
-<!ENTITY advanced.label "Ceeɓtore">
+
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,6 @@
 
 
 
-<!ENTITY openPortalLoginPage.label "Uddit Hello Seŋorde">
 
 <!ENTITY malformedURI.title "Ñiiɓirde ndee moƴƴaani">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ñiiɓirɗe geese keewi winndireede ko <strong>http://www.yeru.com/</strong></li> <li>Ƴeewto no feewi so a huutoriima laase yeeso (k.n. <strong>/</strong>).</li> </ul>">
@@ -103,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Ceŋagol maa hisaani">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Humpito ceeɓtoto: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Ceeɓore">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ena huutoroo teknolojii kiiɗtuɗo kadi beeɓɗo yanngol. Ena weeɓana janyano saaktude humpito ngo cikkataa ena hisi.">
-<!ENTITY weakCryptoAdvanced.override "(hisaani) Eto loowde <span class='hostname'></span> huutoraade kisal kiiɗtungal">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
