@@ -7,3 +7,7 @@
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     usageCol.label                "存储">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.accesskey              "C">
