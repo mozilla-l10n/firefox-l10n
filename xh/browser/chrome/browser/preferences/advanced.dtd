@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Funda ngaphezulu">
 
 <!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ye-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
-<!ENTITY enableTelemetryData.label       "Yabelana ngengcombolo eyongezelelweyo (i.e., Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
 
 <!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &vendorShortName; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Hlaziya">
 
-<!ENTITY updateApplication.label         "I-&brandShortName; izihlaziyi">
 <!ENTITY updateAuto1.label               "fakela uhlaziyo ngokuzenzekela (kucetyiswa njalo: ukhuseleko olungaphezulu)">
 <!ENTITY updateAuto1.accesskey           "f">
 <!ENTITY updateCheckChoose.label         "i-Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo">
 <!ENTITY useService.accesskey            "y">
 
-<!ENTITY autoUpdateOthers.label          "Uhlaziyo oluzenzekelayo">
 <!ENTITY enableSearchUpdate.label        "IiNjini zokukhangela">
 <!ENTITY enableSearchUpdate.accesskey    "I">
 

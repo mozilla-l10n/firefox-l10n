@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Kukho ingxaki ngokulayisha ikhasi">
 <!ENTITY retry.label "Zama Kwakhona">
 <!ENTITY returnToPreviousPage.label "Yiya Emva">
-<!ENTITY advanced.label "Kwinqanaba Eliphambili">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY captivePortal.title "Loga ungene kwinethwekhi">
-<!ENTITY captivePortal.longDesc "<p>Le nethwekhi inokufuna ukuba uloge ungene ukuze ufikelele kwi-intanethi.</p>">
 
-<!ENTITY openPortalLoginPage.label "Vula iPhepha lokuLoga uNgene">
+
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> <li>Iidilesi zewebhu zidla ngokubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Uqhagamshelo lwakho alukhuselekanga">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Inkcazelo ehambele phambili: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Ihambele phambili">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> isebenzisa ubugcisa bokhuseleko obuphelelwe lixesha nobusesichengeni sokuhlaselwa. Umhlaseli unokuthi ngokulula aveze inkcazelo obucinga ukuba ikhuselekile.">
-<!ENTITY weakCryptoAdvanced.override "(Ayikhuselekanga) Zama ukulowuda <span class='hostname'></span> usebenzisa ukhuseleko oluphelelwe lixesha">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

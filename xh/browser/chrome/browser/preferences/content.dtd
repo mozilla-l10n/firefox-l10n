@@ -53,7 +53,6 @@
 <!ENTITY translation.options.attribution.beforeLogo "Inguqulelo ngu">
 <!ENTITY translation.options.attribution.afterLogo "​‌‌">
 
-<!ENTITY  drmContent.label             "Umxholo we-DRM">
 
 <!ENTITY  playDRMContent.label         "Dlala umxholo we-DRM">
 <!ENTITY  playDRMContent.accesskey     "D">
