@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "ไซต์">
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
-<!ENTITY     search.label                  "ค้นหา:">
-<!ENTITY     search.accesskey              "S">

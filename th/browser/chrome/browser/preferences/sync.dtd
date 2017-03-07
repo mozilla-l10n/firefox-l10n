@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "ตั้งค่า &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ให้คุณเข้าถึงประวัติ, ที่คั่นหน้า, รหัสผ่าน และแท็บที่เปิดไว้ของคุณระหว่างอุปกรณ์ทั้งหมดของคุณ">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "อัปเดต">
-<!ENTITY resetPass.label              "กลับค่าเดิม">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "จัดการบัญชี">
-<!ENTITY manageAccount.accesskey      "ก">
-<!ENTITY changePassword2.label        "เปลี่ยนรหัสผ่าน…">
-<!ENTITY myRecoveryKey.label          "กุญแจกู้คืนของฉัน">
-<!ENTITY resetSync2.label             "กลับค่าเดิมของ Sync…">
-
-<!ENTITY pairDevice.label             "จับคู่อุปกรณ์">
-
-<!ENTITY syncMy.label               "ซิงค์">
 <!ENTITY engine.bookmarks.label     "ที่คั่นหน้า">
 <!ENTITY engine.bookmarks.accesskey "ค">
 <!ENTITY engine.tabs.label2         "แท็บที่เปิด">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "ส">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "ชื่ออุปกรณ์:">
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
 <!ENTITY changeSyncDeviceName.label "เปลี่ยนชื่ออุปกรณ์…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "บันทึก">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "เลิกเชื่อมโยงอุปกรณ์นี้">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "เงื่อนไขการให้บริการ">
-<!ENTITY prefs.ppLink.label         "นโยบายความเป็นส่วนตัว">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "ประกาศความเป็นส่วนตัว">
-<!ENTITY determiningAcctStatus.label     "กำลังตรวจสอบสถานะบัญชีของคุณ…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "เข้าถึงแท็บ ที่คั่นหน้า รหัสผ่าน และอื่น ๆ ของคุณในทุกที่ที่คุณใช้ &brandShortName;">
-<!ENTITY welcome.signIn.label "ลงชื่อเข้า">
-<!ENTITY welcome.createAccount.label "สร้างบัญชี">
-
-<!ENTITY welcome.useOldSync.label "กำลังใช้งาน Sync รุ่นเก่ากว่า?">
 
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">

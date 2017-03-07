@@ -40,9 +40,12 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  เธรดที่ค้าง">
 
 
+
+
 <!ENTITY aboutTelemetry.histogramsSection "  ฮิสโทแกรม">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  ค่าที่วัดได้อย่างง่าย">
 
@@ -62,9 +65,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  หมายเหตุ: การดีบั๊ก SQL ที่ทำงานช้าถูกเปิดใช้งาน คำสั่ง SQL แบบเต็มอาจถูกแสดงไว้ด้านล่างแต่จะไม่ถูกส่งออกไป">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  ดึงข้อมูลชื่อของฟังก์ชันสำหรับสแต็กที่เกิดอาการค้าง">
 
-<!ENTITY aboutTelemetry.hideSymbols "  แสดงข้อมูลดิบจากการค้าง">
 
 <!ENTITY aboutTelemetry.filterText "  ตัวกรอง (สตริงหรือ /regexp/)">
 
