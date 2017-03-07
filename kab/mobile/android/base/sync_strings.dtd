@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Ugar&ellipsis;">
 <!ENTITY fxaccount_remove_account "Ffeɣ seg&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Kkes amidan Firefox?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; ad iseḥbes asemtawi d umiḍan-inek, acu kan ur ittekkes ara isefka yinek n tunigin seg uselkim-agi.">
+<!ENTITY fxaccount_remove_account_dialog_title2 "Ffeɣ seg Synch?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Isefka-ik n tunigin ad qqimen ɣef yibenk-agi, acu kan ur ttemtawin ara akked umiḍan-ik.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Amiḍan Firefox &formatS; yettwakkes">
+<!ENTITY fxaccount_remove_account_toast2 "Amiḍan Firefox &formatS; yettwakkes.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Ffeɣ">
 
 <!ENTITY fxaccount_enable_debug_mode "Rmed Askar n tseɣtit">
 <!-- Localization note: this is the name shown by the Android system
