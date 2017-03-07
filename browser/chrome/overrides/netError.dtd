@@ -39,6 +39,7 @@
 
 <!ENTITY captivePortal.title "需登录网络">
 
+<!ENTITY openPortalLoginPage.label2 "打开网络登录页面">
 
 <!ENTITY malformedURI.title "无效的地址">
 <!ENTITY malformedURI.longDesc "<ul> 
