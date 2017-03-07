@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "Прыклад: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "Ужываць адзін проксі для ўсіх пратаколаў">
 <!ENTITY  shareproxy.accesskey          "ў">
-<!ENTITY  autologinproxy.label          "Не запытваць апазнаванне, калі ёсць захованы пароль">
+<!ENTITY  autologinproxy.label          "Не запытваць апазнаванне, калі ёсць захаваны пароль">
 <!ENTITY  autologinproxy.accesskey      "Н">
 <!ENTITY  autologinproxy.tooltip        "Гэтая налада без запытаў выконвае апазнаванне вас на проксі, калі вы маеце захаваныя для іх уліковыя запісы. Запыт адбудзецца толькі падчас няўдачы апазнавання.">
