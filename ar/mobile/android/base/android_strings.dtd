@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "أظهر تأريخ البحث">
 <!ENTITY pref_import_options "خيارات الاستيراد">
 <!ENTITY pref_import_android_summary "استورد العلامات و تأريخ التصفح من المتصفح المحلي">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "الألسنة المفتوحة">
 <!ENTITY pref_private_data_history2 "تأريخ التصفح">
 <!ENTITY pref_private_data_searchHistory "تأريخ البحث">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "اسم المستخدم">
 <!ENTITY doorhanger_login_edit_password_hint "كلمة السر">
 <!ENTITY doorhanger_login_edit_toggle "أظهِر كلمة السر">
-<!ENTITY doorhanger_login_edit_toast_error "فشل حفظ الولوج">
 <!ENTITY doorhanger_login_select_message "أأنسخ كلمة السر من &formatS;؟">
 <!ENTITY doorhanger_login_select_toast_copy "نُسخت كلمة السر إلى الحافظة">
-<!ENTITY doorhanger_login_select_toast_copy_error "تعذر نسخ كلمة السر">
 <!ENTITY doorhanger_login_select_action_text "اختر ولوجا آخر">
 <!ENTITY doorhanger_login_select_title "انسخ كلمة السر من">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
