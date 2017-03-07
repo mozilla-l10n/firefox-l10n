@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
 <!ENTITY recentBookmarks.label "ที่เพิ่งคั่น">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
+<!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
 <!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ที่คั่นหน้า">
 <!ENTITY bookmarksMenuButton.other.label "ที่คั่นหน้าอื่น ๆ">
+<!ENTITY bookmarksMenuButton.mobile.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 
@@ -359,9 +361,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "แสดงเพิ่มเติม">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "แสดงแท็บเพิ่มเติมจากอุปกรณ์นี้">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "แสดงทั้งหมด">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "แสดงแท็บทั้งหมดจากอุปกรณ์นี้">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "เปิดการซิงค์แท็บเพื่อดูรายการแท็บจากอุปกรณ์อื่น ๆ ของคุณ">

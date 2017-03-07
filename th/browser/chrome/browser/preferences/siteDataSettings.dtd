@@ -7,3 +7,7 @@
 <!ENTITY     hostCol.label                 "ไซต์">
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
+<!ENTITY     searchPlaceHolder             "ค้นหา">
+<!ENTITY     removeSelected.label          "เอาที่เลือกออก">
+<!ENTITY     save.label                    "บันทึกการเปลี่ยนแปลง">
+<!ENTITY     cancel.label                  "ยกเลิก">
