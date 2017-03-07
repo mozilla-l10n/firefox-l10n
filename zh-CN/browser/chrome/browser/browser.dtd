@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "管理所有书签">
 <!ENTITY recentBookmarks.label "最近的书签">
 <!ENTITY otherBookmarksCmd.label "其他书签">
+<!ENTITY mobileBookmarksCmd.label "移动版书签">
 <!ENTITY bookmarksToolbarChevron.tooltip "显示更多书签">
 <!ENTITY showRecentlyBookmarked.label     "显示最近的书签">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "书签">
 <!ENTITY bookmarksMenuButton.other.label "其他书签">
+<!ENTITY bookmarksMenuButton.mobile.label "移动版书签">
 <!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "没有打开的标签页">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "显示更多">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "显示此设备的更多标签页">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "显示全部">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "显示此设备的所有标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "打开标签页同步功能，查看来自您其他设备的标签页列表。">
