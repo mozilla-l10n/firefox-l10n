@@ -52,11 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "네트워크에 로그인">
-<!ENTITY captivePortal.longDesc "
-<p>이 네트워크는 인터넷에 접속하기 위해 로그인 정보를 요청할 수 있습니다.</p>
-">
 
-<!ENTITY openPortalLoginPage.label "로그인 페이지 열기">
 
 <!ENTITY malformedURI.title "주소가 유효하지 않음">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "고급 정보: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "연결이 안전하지 않음">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "고급 정보: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "고급">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span>에서 사용하는 보안 기술이 오래되었고 공격에 취약합니다. 안전하다고 생각하는 정보가 공격에 의해 쉽게 노출될 수 있습니다.">
-<!ENTITY weakCryptoAdvanced.override "(안전하지 않음) 오래된 보안을 이용해서 <span class='hostname'></span> 로딩 시도">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
