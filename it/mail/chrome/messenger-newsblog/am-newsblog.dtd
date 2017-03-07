@@ -2,17 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Controlla la presenza di nuovi articoli ogni ">
-<!ENTITY biffStart.accesskey "o">
-<!ENTITY biffEnd.label "minuti">
-<!ENTITY loginAtStartup.label "Controlla presenza di nuovi articoli all'avvio">
-<!ENTITY loginAtStartup.accesskey "C">
-<!ENTITY useQuickMode.label "Come azione predefinita mostra il sommario degli articoli invece di caricare tutta la pagina">
-<!ENTITY useQuickMode.accesskey "m">
-<!ENTITY manageSubscriptions.label "Gestione sottoscrizioni…">
+<!ENTITY loginAtStartup.label          "Controlla presenza di nuovi articoli all'avvio">
+<!ENTITY loginAtStartup.accesskey      "C">
+
+
+<!ENTITY manageSubscriptions.label     "Gestione sottoscrizioni…">
 <!ENTITY manageSubscriptions.accesskey "G">
-<!ENTITY feedWindowTitle.label "Creazione nuovo account di feed">
-<!ENTITY feeds.accountName "Blog e feed delle news">
-<!ENTITY feeds.wizardShortName "Feed">
-<!ENTITY feeds.wizardLongName "Blog e feed delle news">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+
+<!ENTITY feedWindowTitle.label         "Creazione nuovo account di feed">
+<!ENTITY feeds.accountName             "Blog e feed delle news">
