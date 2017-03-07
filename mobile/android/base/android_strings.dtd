@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Показване на историята">
 <!ENTITY pref_import_options "Настройки за внасяне">
 <!ENTITY pref_import_android_summary "Внасяне на отметки и история от фабричния браузър">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Отворени раздели">
 <!ENTITY pref_private_data_history2 "История на сърфиране">
 <!ENTITY pref_private_data_searchHistory "История на търсения">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Потребителско име">
 <!ENTITY doorhanger_login_edit_password_hint "Парола">
 <!ENTITY doorhanger_login_edit_toggle "Показване на паролата">
-<!ENTITY doorhanger_login_edit_toast_error "Неуспешно запазване на регистрацията">
 <!ENTITY doorhanger_login_select_message "Копиране на паролата от &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Паролата е копирана в системния буфер">
-<!ENTITY doorhanger_login_select_toast_copy_error "Паролата не може да бъде копирана">
 <!ENTITY doorhanger_login_select_action_text "Изберете друга регистрация">
 <!ENTITY doorhanger_login_select_title "Копиране на паролата от">
 
