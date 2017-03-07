@@ -100,9 +100,11 @@ Ping
   Thread Hangs
 ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Scalars
 ">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Histograms
@@ -111,6 +113,7 @@ Ping
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Keyed Histograms
 ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Simple Measurements
@@ -144,13 +147,7 @@ Ping
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Fetch function names for hang stacks
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Show raw data from hangs
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filter (strings or /regexp/)
