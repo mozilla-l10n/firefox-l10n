@@ -52,6 +52,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mokgwa o bolokegilego">
 
 <!ENTITY aboutSupport.showDir.label "Bula tšhupetšo">
@@ -92,6 +94,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Kopiša sengwalwa go lenaneo-polokelo">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiša tsebišo e sa tswakwago go lenaneo-polokelo">
+
+
+
+
+
+
+
+
 
 
 
