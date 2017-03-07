@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
 <!ENTITY returnToPreviousPage.label "पछाडि जानुहोस्">
-<!ENTITY advanced.label "अग्रसर">
+
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,6 @@
 
 
 
-<!ENTITY openPortalLoginPage.label "लगइन पृष्ठ खोल्नुहोस्">
 
 <!ENTITY malformedURI.title "यो ठेगाना मान्य छैन">
 <!ENTITY malformedURI.longDesc "<ul> <li>वेब ठेगाना सामान्यतया यसरी लेखिन्छ <strong>http://www.example.com/</strong></li> <li>तपाईँले अगाडिको स्ल्यास (जस्तै <strong>/</strong>) प्रयोग गर्नु भएको छ भन्ने निश्चित गर्नुहोस्।</li> </ul>">
@@ -103,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "अग्रसर जानकारी: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "तपाईँको जडान सुरक्षित छैन">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "अग्रसर जानकारी: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "अग्रसर">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ले पुरानो र आक्रमण हुनसक्ने सुरक्षा प्रविधि प्रयोग गर्दछ। कुनै आक्रमणकर्ताले तपाईँलाई सुरक्षित लागेको जानकारी बाहिर फुत्काउन सक्छ। ">
-<!ENTITY weakCryptoAdvanced.override "(सुरक्षित छैन) <span class='hostname'></span> पुरानो सुरक्षा प्रविधि अपनाई लोडगर्न प्रयास गर्नुहोस्">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

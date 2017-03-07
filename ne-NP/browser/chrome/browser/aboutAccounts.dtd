@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "आफ्नो ट्याबहरू, पुस्तकचिनो, गोप्यशब्द र थप समक्रमण गर्न साइन-इन गर्नुहोस्।">
 <!ENTITY aboutAccountsConfig.startButton.label "सुरु गर्नुहोस्">
-<!ENTITY aboutAccountsConfig.useOldSync.label "के तपाईँ Sync को पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "प्राथमिकताहरू Sync गर्नुहोस्">
 <!ENTITY aboutAccounts.noConnection.title "जडान छैन">
 <!ENTITY aboutAccounts.noConnection.description "साइन इन गर्नको निम्ति तपाईँ इन्टरनेटसँग जडित हुनुपर्दछ ।">

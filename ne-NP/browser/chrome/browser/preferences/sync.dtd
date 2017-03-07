@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "सेटअप &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ले तपाईँको इतिहास, पुस्तकचिनो, गोप्यशब्द र तपाईँको सम्पूर्ण खुल्ला ट्याबहरूमा पहुँच दिन्छ।">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "अद्यावधिक">
-<!ENTITY resetPass.label              "रिसेट गर्नुहोस्">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "खाता व्यवस्थित गर्नुहोस्">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "गोप्यशब्द परिवर्तन गर्नुहोस्...">
-<!ENTITY myRecoveryKey.label          "मेरो पुनर्स्थापना साँचो">
-<!ENTITY resetSync2.label             "Reset Sync...">
-
-<!ENTITY pairDevice.label             "यन्त्र जडान गर्नुहोस्">
-
-<!ENTITY syncMy.label               "मेरो Sync">
 <!ENTITY engine.bookmarks.label     "पुस्तकचिनोहरू">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "यन्त्रको नामः">
 <!ENTITY fxaSyncDeviceName.label       "यन्त्रको नामः">
 <!ENTITY changeSyncDeviceName.label "यन्त्रको नाम परिवर्तन गर्नुहोस्…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "बचत गर्नुहोस्">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "यो यन्त्रलाई अनलिङ्क गर्नुहोस्">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "सेवाको सर्तहरू">
-<!ENTITY prefs.ppLink.label         "गोपनीयता नीति">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "गोपनीयता नीति">
-<!ENTITY determiningAcctStatus.label     "तपाईँको खाता स्थिति निर्धारण गरिँदै…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "यो इमेलको बारेमा बिर्सनुहोस्">
 <!ENTITY forget.accesskey            "F">
 
-<!ENTITY welcome.description "जहाँ जहाँ &brandShortName; प्रयोग गर्नुहुन्छ, त्यहाँ त्यहाँ आफ्नो ट्याबहरू, पुस्तकचिनोहरू, गोप्यशब्दहरू र अरू कुरा प्रयोग गर्नुहोस्">
-<!ENTITY welcome.signIn.label "साइन इन गर्नुहोस्">
-<!ENTITY welcome.createAccount.label "खाता सिर्जना गर्नुहोस्">
-
-<!ENTITY welcome.useOldSync.label "Syncको पुरानो संस्करण प्रयोग गर्दै हुनुहुन्छ?">
-
-<!ENTITY signedOut.caption            "तपाईँको वेब अाफु साथै लैजानुहोस">
 <!ENTITY signedOut.description        "सबै यन्त्रहरूमा आफ्नो पुस्तकचिनो, इतिहास, ट्याबहरू, गोप्यशब्दहरू, एडअनहरू, र प्राथमिकताहरू समक्रमण गर्नुहोस्।">
 <!ENTITY signedOut.accountBox.title   "एक &syncBrand.fxAccount.label; संग जडान गर्नुहोस्">
-<!ENTITY signedOut.accountBox.create  "खाता सिर्जना गर्नुहोस्">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "साइन इन गर्नुहोस्">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "सबै यन्त्रहरूमा समक्रमण गर्नुहोस्">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

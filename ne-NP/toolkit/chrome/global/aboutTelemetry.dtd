@@ -78,9 +78,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ढिलो SQL त्रुटि सच्याउन सक्षम पारिएको छ। पूर्ण SQL स्ट्रिङहरू तल प्रदर्शित हुन सक्छ तर तिनीहरू टेलीमेटरीमा पेश गरिने छैन।">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  अड्किएको ढेरबाट कार्य नाम निकाल्नुहोस्।">
 
-<!ENTITY aboutTelemetry.hideSymbols "  अड्किए सम्मको कच्चा डाटा देखाउनुहोस्">
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">
 
