@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Wěcej&ellipsis;">
 <!ENTITY fxaccount_remove_account "Zwisk źěliś&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Konto Firefox wópóraś?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; jo pśestał wašo konto synchronizěrowaś, ale njewulašujo waše pśeglědowańske daty na toś tom rěźe.">
+<!ENTITY fxaccount_remove_account_dialog_title2 "Zwisk ze Sync źěliś?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Waše pśeglědowańske daty na toś tom rěźe wóstanu, ale njebuźo wěcej z wašym kontom synchronizěrowaś.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "&formatS; konta Firefox wótpórany.">
+<!ENTITY fxaccount_remove_account_toast2 "&formatS; konta Firefox źělony.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Zwisk źěliś">
 
 <!ENTITY fxaccount_enable_debug_mode "Modus pytanja zmólkow zmóžniś">
 <!-- Localization note: this is the name shown by the Android system
