@@ -6,7 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Les cookies suivants sont stockés sur votre ordinateur :">
 <!ENTITY     cookiename.label               "Nom du cookie">
-<!ENTITY     cookiedomain.label             "Site"> 
+<!ENTITY     cookiedomain.label             "Site">
 
 <!ENTITY     props.name.label               "Nom :">
 <!ENTITY     props.value.label              "Contenu :">
