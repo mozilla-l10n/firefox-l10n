@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; সেটআপ s">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; আপনার ইতিহাস, বুকমার্ক, পাসওয়ার্ড ব্যবহার করে ডিভাইসে ট্যাব খুলুন।">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "হালনাগাদ করুন">
-<!ENTITY resetPass.label              "পুনঃনির্ধারণ">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "অ্যাকাউন্ট ব্যবস্থাপনা n">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "পাসওয়ার্ড পরিবর্তন করুন…">
-<!ENTITY myRecoveryKey.label          "আমার পুনরুদ্ধার চাবি">
-<!ENTITY resetSync2.label             "সিঙ্ক রিসেট করুন...">
-
-<!ENTITY pairDevice.label             "একটি ডিভাইস পেয়ার করুন">
-
-<!ENTITY syncMy.label               "আমার সিঙ্ক">
 <!ENTITY engine.bookmarks.label     "বুকমার্ক m">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "ওপেন ট্যাব">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "ডিভাইসের নাম:">
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইসের নাম">
 <!ENTITY changeSyncDeviceName.label "ডিভাইসের নাম পরিবর্তন করুন">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "এই যন্ত্রটি বিচ্ছিন্ন করুন">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "সেবার শর্ত">
-<!ENTITY prefs.ppLink.label         "গোপনীয়তা নীতি">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "গোপনীয়তার নীতি">
-<!ENTITY determiningAcctStatus.label     "আপনার অ্যাকাউন্ট অবস্থা নির্ধারণ করা হচ্ছে ...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
 <!ENTITY forget.accesskey            "F">
 
-<!ENTITY welcome.description "যেকোন স্থান থেকেই &brandShortName; ব্যবহার করুন না কেন আপনার ট্যাব, বুকমার্ক, পাসওয়ার্ড এবং অন্যান্য সব কিছুই পাবেন।">
-<!ENTITY welcome.signIn.label "সাইন ইন">
-<!ENTITY welcome.createAccount.label "অ্যাকাউন্ট তৈরি করুন">
-
-<!ENTITY welcome.useOldSync.label "পুরনো সিঙ্ক ব্যবহার করছেন?">
-
-<!ENTITY signedOut.caption            "আপনার সঙ্গে আপনার ওয়েব নিন">
 <!ENTITY signedOut.description        "আপনার সকল ডিভাইস জুড়ে আপনার বুকমার্ক, ইতিহাস, ট্যাব, পাসওয়ার্ড, অ্যাড টার্ন, এবং পছন্দ সিংক্রোনাইজ করুন.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; এর সাথে কানেক্ট করো">
-<!ENTITY signedOut.accountBox.create  "অ্যাকাউন্ট তৈরি করুন">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "সাইন ইন">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "সব ডিভাইসগুলি জুড়ে সিঙ্ক করুন">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
