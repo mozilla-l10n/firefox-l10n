@@ -13,8 +13,6 @@
 <!ENTITY importFromNothing.accesskey    "D">
 <!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 이상">
 <!ENTITY importFromSeamonkey3.accesskey "S">
-<!ENTITY importFromOExpress.label       "아웃룩 익스프레스">
-<!ENTITY importFromOExpress.accesskey   "u">
 <!ENTITY importFromOutlook.label        "아웃룩">
 <!ENTITY importFromOutlook.accesskey    "O">
 
