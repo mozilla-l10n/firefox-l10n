@@ -96,7 +96,7 @@
 <!ENTITY cmd.disableTheme.label               "Спыніць ужыванне тэмы">
 <!ENTITY cmd.disableTheme.accesskey           "у">
 <!ENTITY cmd.askToActivate.label              "Спытаць для задзейнічання">
-<!ENTITY cmd.askToActivate.tooltip            "Запытваць дазвол на ўжыванне гэтай убудовы кожны раз">
+<!ENTITY cmd.askToActivate.tooltip            "Запытваць дазвол на выкарыстанне гэтага дадатка кожны раз">
 <!ENTITY cmd.alwaysActivate.label             "Заўсёды задейнічаць">
 <!ENTITY cmd.alwaysActivate.tooltip           "Заўсёды ўжываць гэты дадатак">
 <!ENTITY cmd.neverActivate.label              "Ніколі не задзейнічаць">

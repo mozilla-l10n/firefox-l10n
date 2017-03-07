@@ -216,8 +216,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць апавяшчэнні з гэтага сайта">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць дазволам на ўжыванне сайтам камеры ды/ці мікрафона">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць дазволам на ўжыванне сайтам мікрафона">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць доступам сайта да вашага мікрафона">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Кіраваць дазволам на прагляд сайтам экрану ці вакон">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Адкрыць панэль паведамленняў усталявання">
