@@ -63,7 +63,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "Synkroniser bokmerke, historikk, faner, passord, utvidingar og innstillingar på tvers av alle einingane dine.">
 <!ENTITY signedOut.accountBox.title   "Kople til ein &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Lag konto">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.create.accesskey  "L">
 <!ENTITY signedOut.accountBox.signin  "Logg inn">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
