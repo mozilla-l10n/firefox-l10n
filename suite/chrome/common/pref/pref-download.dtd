@@ -25,7 +25,7 @@
 <!ENTITY downloadHistory.label          "Histórico de descargas">
 <!ENTITY removeEntries.label            "Remover entradas de descargas">
 <!ENTITY removeEntries.accesskey        "R">
-<!ENTITY whenCompleted.label            "Ao terminar">
+<!ENTITY whenCompleted.label            "Quando concluídas">
 <!ENTITY whenQuittingApp.label          "Ao sair do &brandShortName;">
 <!ENTITY neverRemove.label              "Nunca">
 
