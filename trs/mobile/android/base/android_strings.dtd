@@ -386,7 +386,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Ni\u0027iaj nej sa gà\u0027 ni\u0027iajt">
 <!ENTITY pref_import_options "A\u0027ngô sa ruhuât gini\u0027iajt">
 <!ENTITY pref_import_android_summary "Guxun\u0027 nej sa ña\u0027aan ni nej sa gà\u0027 gahuin riña gaché nu\u0027">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Nej sa gà\u0027 ni\u0027io\u0027 nga gachénu\u0027">
 <!ENTITY pref_private_data_searchHistory "Nej sa ni\u0027io\u0027 gà\u0027 nana\u0027uî\u0027">
 <!ENTITY pref_private_data_formdata2 "Nej sa gà\u0027 ni\u0027io\u0027 rayi\u0027î nej formulario">
@@ -517,10 +518,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Si yugui re\u0027">
 <!ENTITY doorhanger_login_edit_password_hint "Da\u0027nga\u0027 huìi">
 <!ENTITY doorhanger_login_edit_toggle "Diguin\u0027 da´nga">
-<!ENTITY doorhanger_login_edit_toast_error "No ga\u0027hue naninj sa\u0027aj riñan gayi\u0027í">
 <!ENTITY doorhanger_login_select_message "¿Guxun\u0027 si da\u0027nga\u0027 hùi &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Ngà nanû da\u0027nga\u0027 hùii riña portapapel">
-<!ENTITY doorhanger_login_select_toast_copy_error "Nu ga\u0027ue ga\u0027ne\u0027 da\u0027nga\u0027 huìi">
 <!ENTITY doorhanger_login_select_action_text "Nagui a\u0027ngô dàj gi\u0027iát gayi\u0027ì sesion">
 <!ENTITY doorhanger_login_select_title "Ga\u0027ne\u0027 da\u0027nga\u0027 hùii asij riña">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls

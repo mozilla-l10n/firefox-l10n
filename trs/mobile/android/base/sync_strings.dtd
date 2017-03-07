@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Doj&ellipsis;">
 <!ENTITY fxaccount_remove_account "Gahui riña internet&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "¿Dure\u0027 cuenta Firefox aj?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; dunaj si nagi\u0027iaj hue\u0027ej si kuendât, sani si dure\u0027ej gà\u0027 si \u0027ngo datô nana\u0027ui\u0027t riña aga\u0027 na.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Si Kuendâ Firefox &formatS; gà\u0027 nare\u0027.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Nachrun\u0027 sa nagi\u0027iaj sà\u0027">
 <!-- Localization note: this is the name shown by the Android system
