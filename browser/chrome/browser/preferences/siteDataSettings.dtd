@@ -7,3 +7,4 @@
 <!ENTITY     hostCol.label                 "網站">
 <!ENTITY     statusCol.label               "狀態">
 <!ENTITY     usageCol.label                "儲存空間">
+<!ENTITY     searchPlaceHolder             "搜尋">
