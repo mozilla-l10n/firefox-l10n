@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Moo zumandiyan šenday">
 <!ENTITY retry.label "Ceeci koyne">
 <!ENTITY returnToPreviousPage.label "Yee &amp;banda">
-<!ENTITY advanced.label "Jinekoyante">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY captivePortal.title "Huru sankaa ra">
-<!ENTITY captivePortal.longDesc "<p>Sankaa woo ga waažibandi kaŋ war ma huru ka goy nda interneti.</p>">
 
-<!ENTITY openPortalLoginPage.label "Huruyan moo feeri">
+
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tataaru aderesey ši doona ka hantumandi sanda <strong>http://www.example.com/</strong></li> <li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Alhabar koyjinante: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "War ciyaroo manti saajante">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Alhabar koyjinante: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Jinekoyante">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ga goy nda dabaribayray saajaw kaŋ žen nd'a feera zanbayyan se. Zanbakaw ga hin ka tanba ka dii alhabar kaŋ war ga tammahã mma sutura.">
-<!ENTITY weakCryptoAdvanced.override "(Ši saajaw) Ceeci ka <span class='hostname'></span> nda saajaw žeena">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

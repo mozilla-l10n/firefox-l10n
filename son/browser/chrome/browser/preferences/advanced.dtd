@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Bay ka tonton">
 
 <!ENTITY telemetryDesc.label             "Goysahã, goyfondo, jinay šenda nda boŋse hanseyan bayhayey žemni war ceecikaa ga nda &vendorShortName; k'ir gaa ka &brandShortName; boryandi">
-<!ENTITY enableTelemetryData.label       "Bayhaya tontonantey žemna (sanda mooray neešiyan)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Bay ka tonton">
 
 <!ENTITY crashReporterDesc2.label         "Kaŋyan bayrandey ga &vendorShortName; faaba ka harasawey hanse nda ka war ceecijinaa tabatandi nda saajaw">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Taagandiri">
 
-<!ENTITY updateApplication.label         "&brandShortName; taagandirey">
 <!ENTITY updateAuto1.label               "Taagandirey sinji ngey boŋse (yaamarante: saajaw tontonandi)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Taagandirey guna, amma naŋ ya ngey sinjiyan dogoo suuba">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Goy bandafaari zaa ka taagarandirey sinji">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Taagandi nga boŋ se">
 <!ENTITY enableSearchUpdate.label        "Ceeci maršiney">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 

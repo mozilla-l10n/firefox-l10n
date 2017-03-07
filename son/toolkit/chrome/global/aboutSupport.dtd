@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Goyboobo zanfuney">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Saajaw alhaali">
 
 <!ENTITY aboutSupport.showDir.label "Fooloɲaa feeri">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Bayhaya ganey berandi deeji-walhaa ga">
 
 <!ENTITY aboutSupport.sandboxTitle "Lalaba">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Saajaw alhaali šii">
 <!ENTITY aboutSupport.restartInSafeMode.label "Tunandi taaga nda tontoni kayantey…">
