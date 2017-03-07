@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Arvutisse on salvestatud järgnevad küpsised:">
 <!ENTITY     cookiename.label               "Küpsise nimi">
-<!ENTITY     cookiedomain.label             "Veebileht"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "v">
-<!ENTITY     button.removeAllCookies.label "Kustuta kõik küpsised">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Veebileht">
 
 <!ENTITY     props.name.label               "Nimi:">
 <!ENTITY     props.value.label              "Sisu:">

@@ -156,13 +156,7 @@ Ping
   MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQL-päringuid, aga neid ei saadeta telemeetria kaudu edasi.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Näita hangumisi funktsiooninimede järgi
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Kuva hangumiste töötlemata andmeid
-">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtreeri (stringide või /regulaaravaldistega/)
