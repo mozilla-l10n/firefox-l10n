@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Бэйэҕэ табыгастаах гына туруор &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "р">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; көмөтүнэн ханнык баҕарар көмпүүтэргиттэн сурунаалы, бэлиэтээһиннэри, киирии тыллары уонна аһыллыбыт кыбытыктары көрүөххүн сөп.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Саҥардан биэр...">
-<!ENTITY resetPass.label              "Хаттаан холбоо">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Бэлиэтэммит ааккын салайыы">
-<!ENTITY manageAccount.accesskey      "Б">
-<!ENTITY changePassword2.label        "Киирии тылы уларыт...">
-<!ENTITY myRecoveryKey.label          "Сөргүтэр тылым">
-<!ENTITY resetSync2.label             "Синхронизациялаа…">
-
-<!ENTITY pairDevice.label             "Тэрили кытта холбос">
-
-<!ENTITY syncMy.label               "Миэннэрин синхроннаа">
 <!ENTITY engine.bookmarks.label     "Бэлиэтээһиннэр">
 <!ENTITY engine.bookmarks.accesskey "т">
 
@@ -42,13 +23,9 @@
 
 
 
-
-<!ENTITY unlinkDevice.label           "Бу тэрили араар">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Туһаныы усулуобуйата">
-<!ENTITY prefs.ppLink.label         "Тус эйгэ көмүскэлин сиэрэ">
-<!-- Firefox Accounts stuff -->
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -76,11 +53,6 @@ both, to better adapt this sentence to their language.
 
 
 
-
-
-
-
-<!ENTITY welcome.useOldSync.label "Sync эргэ барылын туһанаҕын дуо?">
 
 
 

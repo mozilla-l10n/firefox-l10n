@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Эн көмпүүтэриҥ маннык куукалары өйүгэр хатаабыт:">
 <!ENTITY     cookiename.label               "Куука аата">
-<!ENTITY     cookiedomain.label             "Ситим-сир"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeAllCookies.label "Барытын сот">
-<!ENTITY     button.removeAllCookies.accesskey "с">
+<!ENTITY     cookiedomain.label             "Ситим-сир">
 
 <!ENTITY     props.name.label               "Аат:">
 <!ENTITY     props.value.label              "Иһинээҕитэ:">

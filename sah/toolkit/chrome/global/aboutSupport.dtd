@@ -53,6 +53,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 
 
+
+
 <!ENTITY aboutSupport.showDir.label "Паапканы арый">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
@@ -91,6 +93,14 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Тиэкси долоҕойго (буфер обмена) төгүллээ">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Таҥастамматах дааннайдары долоҕойго хатаа">
+
+
+
+
+
+
+
+
 
 
 
