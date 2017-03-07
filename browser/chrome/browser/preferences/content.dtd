@@ -53,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Itzulpenak:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM edukia">
 
 <!ENTITY  playDRMContent.label         "Erreproduzitu DRM edukia">
 <!ENTITY  playDRMContent.accesskey     "E">

@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     usageCol.label                "Biltegiratzea">
+<!ENTITY     searchPlaceHolder             "Bilatu">
+<!ENTITY     searchPlaceHolder.accesskey   "t">
+<!ENTITY     removeSelected.label          "Kendu hautatutakoak">
+<!ENTITY     removeSelected.accesskey      "K">
+<!ENTITY     save.label                    "Gorde aldaketak">
+<!ENTITY     save.accesskey                "G">
+<!ENTITY     cancel.label                  "Utzi">
+<!ENTITY     cancel.accesskey              "U">
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY     siteTree.label                "Webgunearen ondorengo cookieak kendu egingo dira:">
