@@ -53,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "کی طرف سے ترجمے">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM مواد">
 
 <!ENTITY  playDRMContent.label         "DRM مواد چلائیں ">
 <!ENTITY  playDRMContent.accesskey     "چ">

@@ -7,8 +7,8 @@
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     usageCol.label                "ذخیرہ">
-
-
+<!ENTITY     searchPlaceHolder             "&amp;تلاش کریں:">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
 
 
 
