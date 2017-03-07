@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "រៀបចំ &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; អនុញ្ញាត​ឲ្យ​អ្នក​ចូល​ប្រើ​ប្រវត្តិ ចំណាំ ពាក្យសម្ងាត់ និង​បើក​ផ្ទាំង​នៅ​លើ​ឧបករណ៍​ទាំងអស់​របស់​អ្នក ។">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "ធ្វើ​បច្ចុប្បន្នភាព">
-<!ENTITY resetPass.label              "កំណត់​ឡើង​វិញ">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "គ្រប់គ្រង​គណនី">
-<!ENTITY manageAccount.accesskey      "n">
-<!ENTITY changePassword2.label        "ផ្លាស់ប្ដូរ​ពាក្យសម្ងាត់…">
-<!ENTITY myRecoveryKey.label          "ពាក្យគន្លឹះ​របស់​ខ្ញុំ">
-<!ENTITY resetSync2.label             "កំណត់​ការ​ធ្វើ​សមកាលកម្ម​ឡើងវិញ…">
-
-<!ENTITY pairDevice.label             "ផ្គូ​ឧបករណ៍">
-
-<!ENTITY syncMy.label               "ធ្វើ​សមកាលកម្ម">
 <!ENTITY engine.bookmarks.label     "ចំណាំ">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "បើក​ផ្ទាំង">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "ឈ្មោះ​ឧបករណ៍៖">
 <!ENTITY fxaSyncDeviceName.label       "ឈ្មោះ​ឧបករណ៍ ">
 <!ENTITY changeSyncDeviceName.label "ផ្លាស់ប្តូរ​ឈ្មោះ​ឧបករណ៍ ...">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "រក្សា​ទុក">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "មិន​តភ្ជាប់​ឧបករណ៍​នេះ">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "លក្ខខ័ណ្ឌ​សេវាកម្ម">
-<!ENTITY prefs.ppLink.label         "គោលនយោបាយ​ឯកជន">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "គោលនយោបាយ​ឯកជន">
-<!ENTITY determiningAcctStatus.label     "កំពុង​កំណត់​ស្ថានភាព​គណនី​របស់​អ្នក…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ភ្លេច​អ៊ីមែល​នេះ">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "ចូល​ដំណើរការ​ផ្ទាំង, ចំណាំ, ពាក្យសម្ងាត់​របស់​អ្នក​ និង​ច្រើន​ទៀត នៅ​ទីកន្លែង​ណា​ដែល​អ្នក​ប្រើ &brandShortName; ។">
-<!ENTITY welcome.signIn.label "ចូល​">
-<!ENTITY welcome.createAccount.label "បង្កើត​គណនី">
-
-<!ENTITY welcome.useOldSync.label "ប្រើ​កំណែ​ចាស់​នៃ​សមកាលកម្ម​ឬ?">
 
 <!ENTITY signedOut.caption            "យក​បណ្ដាញ​របស់​អ្នក​ជាមួយ​អ្នក">
 <!ENTITY signedOut.description        "ធ្វើ​សម​កាល​កម្ម​ចំណាំ​ ប្រវត្តិ ផ្ទាំង ពាក្យ​សម្ងាត់​ កម្មវិធី​ផ្នែក​បន្ថែម​ និង​ចំណូល​ចិត្ត​របស់​អ្នក​ ចំពោះ​គ្រប់​ឧបករណ៍​របស់​អ្នក។​">

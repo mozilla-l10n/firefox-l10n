@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "វេបសាយ">
 <!ENTITY     statusCol.label               "ស្ថានភាព">
 <!ENTITY     usageCol.label                "កន្លែង​ផ្ទុក">
-<!ENTITY     search.label                  "ស្វែងរក៖">
-<!ENTITY     search.accesskey              "S">
