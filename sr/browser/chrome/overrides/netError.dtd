@@ -52,9 +52,7 @@
 ">
 
 <!ENTITY captivePortal.title "Пријави се на мрежу">
-<!ENTITY captivePortal.longDesc "<p>Ова мрежа можда захтева пријаву за приступ интернету.</p>">
 
-<!ENTITY openPortalLoginPage.label "Отвори страницу за пријаву">
 
 <!ENTITY malformedURI.title "Адреса је неважећа">
 <!ENTITY malformedURI.longDesc "
@@ -186,14 +184,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Додатне информације: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Ваша конекција није безбедна">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Додатне информације: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Напредно">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> користи технологију за безбедност која је застарела и рањива је на нападе. Нападач лако може доћи до ваших информација.">
-<!ENTITY weakCryptoAdvanced.override "(Није безбедно) Покушавате да учитате <span class='hostname'></span> користећи застарелу безбедност">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

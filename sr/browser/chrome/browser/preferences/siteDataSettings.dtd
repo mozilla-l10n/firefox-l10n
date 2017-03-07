@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Веб сајт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Складиште">
-<!ENTITY     search.label                  "Претражи:">
-<!ENTITY     search.accesskey              "П">
