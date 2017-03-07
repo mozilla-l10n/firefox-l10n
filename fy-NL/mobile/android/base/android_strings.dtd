@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Sykskiednis toane">
 <!ENTITY pref_import_options "Ymportearopsjes">
 <!ENTITY pref_import_android_summary "Blêdwizers en skiednis fan de systeemeigen browser út ymportearje">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Iepen ljeplêden">
 <!ENTITY pref_private_data_history2 "Navigaasjeskiednis">
 <!ENTITY pref_private_data_searchHistory "Sykskiednis">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Brûkersnamme">
 <!ENTITY doorhanger_login_edit_password_hint "Wachtwurd">
 <!ENTITY doorhanger_login_edit_toggle "Wachtwurd toane">
-<!ENTITY doorhanger_login_edit_toast_error "Bewarjen fan oanmelding mislearre">
 <!ENTITY doorhanger_login_select_message "Wachtwurd fan &formatS; kopiearje?">
 <!ENTITY doorhanger_login_select_toast_copy "Wachtwurd nei klamboerd kopiearre">
-<!ENTITY doorhanger_login_select_toast_copy_error "Koe wachtwurd net kopiearje">
 <!ENTITY doorhanger_login_select_action_text "Oare oanmelding selektearje">
 <!ENTITY doorhanger_login_select_title "Wachtwurd kopiearje fan">
 
