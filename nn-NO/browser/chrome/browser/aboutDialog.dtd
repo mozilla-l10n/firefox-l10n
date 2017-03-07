@@ -10,14 +10,14 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Sjå etter oppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label2               "Start &brandShortName; på nytt for å oppdatera">
+<!ENTITY update.updateButton.label2               "Start &brandShortName; på nytt for å oppdatere">
 <!ENTITY update.updateButton.accesskey            "S">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; er eksperimentell, og kan vera ustabil.">
+<!ENTITY warningDesc.version        "&brandShortName; er eksperimentell, og kan vere ustabil.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  "Han sender automatisk info om yting, maskinvare, bruksmønster og utvidingar tilbake til &vendorShortName; for å bidra til å gjera &brandShortName; betre.">
+<!ENTITY warningDesc.telemetryDesc  "Han sender automatisk info om yting, maskinvare, bruksmønster og utvidingar tilbake til &vendorShortName; for å bidra til å gjere &brandShortName; betre.">
 
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 <!ENTITY community.exp.start        "">
@@ -26,7 +26,7 @@
 <!ENTITY community.exp.middle       " er eit ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalt samfunn">
-<!ENTITY community.exp.end          " som jobbar saman for å halda nettet ope, allment og tilgjengeleg for alle.">
+<!ENTITY community.exp.end          " som jobbar saman for å halde nettet ope, allment og tilgjengeleg for alle.">
 
 <!ENTITY community.start2           "&brandShortName; er utvikla av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -34,9 +34,9 @@
 <!ENTITY community.middle2          ", eit ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end3             " som arbeider saman for å halda nettet ope, allment, og tilgjengeleg for alle.">
+<!ENTITY community.end3             " som arbeider saman for å halde nettet ope, allment, og tilgjengeleg for alle.">
 
-<!ENTITY helpus.start               "Vil du hjelpa til? ">
+<!ENTITY helpus.start               "Vil du hjelpe til? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Gje ei pengegåve">
 <!ENTITY helpus.middle              " eller ">
@@ -70,7 +70,7 @@
      one line with linkText being wrapped in an anchor that links to a site to download
      the latest version of Firefox (e.g. http://www.firefox.com). As this is all in
      one line, try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.failed.start        "Oppdateringa mislykka.">
+<!ENTITY update.failed.start        "Mislykka oppdatering. ">
 <!ENTITY update.failed.linkText     "Last ned den nyaste versjonen">
 <!ENTITY update.failed.end          "">
 
@@ -87,7 +87,7 @@
      an anchor that links to a site to provide additional information regarding
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
-<!ENTITY update.unsupported.start    "Du kan ikkje utføra fleire oppdateringar på dette systemet.">
+<!ENTITY update.unsupported.start    "Du kan ikkje utføre fleire oppdateringar på dette systemet. ">
 <!ENTITY update.unsupported.linkText "Les meir">
 <!ENTITY update.unsupported.end      "">
 
@@ -104,5 +104,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Du nyttar no oppdateringskanalen ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.start  "Du brukar no oppdateringskanalen ">
+<!ENTITY channel.description.end    " oppdateringskanal. ">

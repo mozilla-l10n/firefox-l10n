@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "Du er ikkje i eit privat vindauge no.">
-<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Opna eit privat vindauge">
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "Opne eit privat vindauge">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "O">
 
 <!ENTITY privateBrowsing.title                           "Privat nettlesing">
@@ -16,7 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "Infokapslar">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Mellombelse filer">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagra">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "vil lagre">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "Nedlastingar">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "Bokmerke">
@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Sporingsvern">
-<!ENTITY trackingProtection.description2                 "Nokre nettstadar brukar sporfølgjarar som kan overvaka aktiviteten din over heile netet. Med sporingsvern vil Firefox blokkera mange sporfølgjarar som kan samla inn informasjon om surfevanane dine.">
+<!ENTITY trackingProtection.description2                 "Nokre nettstadar brukar sporfølgjarar som kan overvake aktiviteten din over heile nettet. Med sporingsvern vil Firefox blokkere mange sporfølgjarar som kan samle inn informasjon om surfevanane dine.">
 <!ENTITY trackingProtection.startTour1                   "Sjå korleis dette fungerer">
