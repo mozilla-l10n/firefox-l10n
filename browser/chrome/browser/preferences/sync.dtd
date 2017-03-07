@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Կարգավորել &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "Կ">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label;-ը թույլ է տալիս տեսնել ձեր դիտարկման պատմությունը, էջանիշերը, գաղտնաբառերը և բացված ներդիրները ձեր բոլոր սարքերում:">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Թարմացնել">
-<!ENTITY resetPass.label              "Վերակայել">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Կարգավորեք հաշիվը">
-<!ENTITY manageAccount.accesskey      "ր">
-<!ENTITY changePassword2.label        "Փոխել Գաղտնաբառը…">
-<!ENTITY myRecoveryKey.label          "Վերականգնող իմ բանալին">
-<!ENTITY resetSync2.label             "Վերակայել Սինքը...">
-
-<!ENTITY pairDevice.label             "Կապակցում սարքին">
-
-<!ENTITY syncMy.label               "Սինք իմ՝">
 <!ENTITY engine.bookmarks.label     "Էջանիշերը">
 <!ENTITY engine.bookmarks.accesskey "ն">
 <!ENTITY engine.tabs.label2         "Բացել ներդիրներ">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "Հ">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Սարքի անունը.">
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
 <!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
 <!ENTITY changeSyncDeviceName.accesskey "ո">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ա">
 <!ENTITY saveChangeSyncDeviceName.label "Պահպանել ">
 <!ENTITY saveChangeSyncDeviceName.accesskey "պ">
-<!ENTITY unlinkDevice.label           "Հետկցել այս սարքը">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Ծառայության պայմանները">
-<!ENTITY prefs.ppLink.label         "Գաղտնիության դրույթներ">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Գաղտնիության Դրույթները">
-<!ENTITY determiningAcctStatus.label     "Որոշվում է ձեր հաշվի կարգավիճակը...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
 <!ENTITY forget.accesskey            "Մ">
 
-<!ENTITY welcome.description "Մուտք գործեք ձեր ներդիրներին, էջանիշերին, գաղտնաբառերին՝ ցանկացած վայրից &brandShortName;-ը օգտագործելիս: ">
-<!ENTITY welcome.signIn.label "Մուտք գործել">
-<!ENTITY welcome.createAccount.label "Ստեղծել Հաշիվ">
-
-<!ENTITY welcome.useOldSync.label "Օգտագործու՞մ եք Սինքի հին տարբերակը:">
-
-<!ENTITY signedOut.caption            "Ձեր վեբը Ձեզ հետ">
 <!ENTITY signedOut.description        "Համաժամեցրեք ձեր բոլոր էջանիշերը, պատմությունը, ներդիրները, գաղտնաբաեռրը, հավելումները և կարգավորումները ձեր բոլոր սարքերի միջև:">
 <!ENTITY signedOut.accountBox.title   "Կապակցել &syncBrand.fxAccount.label;-ի հետ">
-<!ENTITY signedOut.accountBox.create  "Ստեղծել Հաշիվ">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Մուտք գործել">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Սինք՝ բոլոր սարքերի միջև">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

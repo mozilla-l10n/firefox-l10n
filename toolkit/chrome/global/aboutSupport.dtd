@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Բազմաընթացքային պատուհաններ">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Ապահով կերպ">
 
 <!ENTITY aboutSupport.showDir.label "Բացել թղթապանակը">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Պատճենել չմշակված տվյալները մեկուսաշրջույթ">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Օգտ. Ապահով կերպը">
 <!ENTITY aboutSupport.restartInSafeMode.label "Վերամեկնարկել՝ անջատելով հավելումները...">

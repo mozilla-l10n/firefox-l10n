@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Էջը բեռնելու խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
 <!ENTITY returnToPreviousPage.label "Հետ գնալ">
-<!ENTITY advanced.label "Լրացուցիչ">
+
 <!-- Specific error messages -->
 
 
@@ -30,9 +30,8 @@
 <!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը:</p>">
 
-<!ENTITY captivePortal.longDesc "<p>Այս ցանցը կարող է պահանջել մուտք գործել՝ համացանցից օգտվելու համար։</p>">
 
-<!ENTITY openPortalLoginPage.label "Բացել մուտքի էջը">
+
 
 <!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
 <!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> </ul>">
@@ -103,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Լրացուցիչ՝ SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Կապակցումն անվտանգ չէ">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Լրացուցիչ՝ SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Լրացուցիչ">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ուղարկում է անվտագության տեխնոլոգիա, որը հնացած է և խոցելի: Հարձակվող հեշտությամբ կկարողանա տեսնել այն տեղեկությունը, որը դուք համարում եք անվտանգ:">
-<!ENTITY weakCryptoAdvanced.override "(Անվտանգ չէ) Փորձում է բեռնել <span class='hostname'></span> հնացած անվտանգությամբ">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
