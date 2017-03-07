@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "মাল্টিপ্রসেস উইন্ডো">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "সেফ মোড">
 
 <!ENTITY aboutSupport.showDir.label "ডিরেক্টরি খুলুন">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ক্লিপবোর্ডে অবিন্যস্ত ডাটা অনুলিপি করুন">
 
 <!ENTITY aboutSupport.sandboxTitle "স্যান্ডবক্স">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "সুরক্ষিত মোডে চেষ্টা করুন">
 <!ENTITY aboutSupport.restartInSafeMode.label "অ্যাড-অন নিস্ক্রিয় করে রিস্টার্ট করুন…">
