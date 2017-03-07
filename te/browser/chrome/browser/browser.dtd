@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "ఇష్టాంశాలన్నింటినీ చూపించు">
 <!ENTITY recentBookmarks.label "ఇటీవల ఇష్టాంశాలుగా చేసినవి">
 <!ENTITY otherBookmarksCmd.label "ఇతర ఇష్టాంశాలు">
+<!ENTITY mobileBookmarksCmd.label "మొబైలు ఇష్టాంశాలు">
 <!ENTITY bookmarksToolbarChevron.tooltip "మరిన్ని ఇష్టాంశాలను చూపించు">
 <!ENTITY showRecentlyBookmarked.label     "ఇటీవలి ఇష్టాంశాలను చూపించు">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ఇష్టాంశాలు">
 <!ENTITY bookmarksMenuButton.other.label "ఇతర ఇష్టాంశాలు">
+<!ENTITY bookmarksMenuButton.mobile.label "మొబైలు ఇష్టాంశాలు">
 <!ENTITY viewBookmarksSidebar2.label        "ఇష్టాంశాల ప్రక్కపట్టీని చూడండి">
 <!ENTITY viewBookmarksToolbar.label         "ఇష్టాంశాల పట్టీని చూడండి">
 
