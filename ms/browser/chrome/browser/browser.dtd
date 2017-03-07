@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Papar Semua Tandabuku">
 <!ENTITY recentBookmarks.label "Tandabuku Terkini">
 <!ENTITY otherBookmarksCmd.label "Tandabuku Lain">
+<!ENTITY mobileBookmarksCmd.label "Tandabuku Telefon">
 <!ENTITY bookmarksToolbarChevron.tooltip "Papar tandabuku selanjutnya">
 <!ENTITY showRecentlyBookmarked.label     "Papar Tandabuku Terkini">
 <!ENTITY showRecentlyBookmarked.accesskey "T">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Tandabuku">
 <!ENTITY bookmarksMenuButton.other.label "Tandabuku Lain">
+<!ENTITY bookmarksMenuButton.mobile.label "Tandabuku Telefon">
 <!ENTITY viewBookmarksSidebar2.label        "Papar Tandabuku Bar Sisi">
 <!ENTITY viewBookmarksToolbar.label         "Papar Bar alat Tandabuku">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Tiada tab terbuka">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Papar Selanjutnya">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Papar selanjutnya tab dari peranti ini">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Papar Semua">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Papar semua tab dari peranti ini">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Mengaktifkan sync tab untuk papar senarai tab dari peranti anda yang lain.">
