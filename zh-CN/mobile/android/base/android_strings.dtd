@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "显示搜索记录">
 <!ENTITY pref_import_options "导入来自其他浏览器的信息">
 <!ENTITY pref_import_android_summary "从自带浏览器导入书签和历史记录">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "打开的标签页">
 <!ENTITY pref_private_data_history2 "浏览历史">
 <!ENTITY pref_private_data_searchHistory "搜索历史记录">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "用户名">
 <!ENTITY doorhanger_login_edit_password_hint "密码">
 <!ENTITY doorhanger_login_edit_toggle "显示密码">
-<!ENTITY doorhanger_login_edit_toast_error "保存登录信息失败">
 <!ENTITY doorhanger_login_select_message "复制 &formatS; 的密码？">
 <!ENTITY doorhanger_login_select_toast_copy "密码已复制到剪贴板">
-<!ENTITY doorhanger_login_select_toast_copy_error "未能复制密码">
 <!ENTITY doorhanger_login_select_action_text "选择其他登录信息">
 <!ENTITY doorhanger_login_select_title "复制密码从">
 
