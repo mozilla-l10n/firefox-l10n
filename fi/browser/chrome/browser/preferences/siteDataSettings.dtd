@@ -7,5 +7,3 @@
 <!ENTITY     hostCol.label                 "Sivusto">
 <!ENTITY     statusCol.label               "Tila">
 <!ENTITY     usageCol.label                "Tallennustila">
-<!ENTITY     search.label                  "Etsi:">
-<!ENTITY     search.accesskey              "E">
