@@ -75,7 +75,13 @@ Ping
 ">
 
 
+<!ENTITY aboutTelemetry.chromeHangsSection '
+  "Κολλήματα" προγράμματος περιήγησης
+'>
 
+<!ENTITY aboutTelemetry.threadHangStatsSection '
+  "Κολλήματα" νήματος
+'>
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
   Κατειλημμένες Στοίβες
@@ -121,13 +127,22 @@ Ping
   Ιστογράμματα συλλεγμένα από πρόσθετα
 ">
 
+<!ENTITY aboutTelemetry.toggle "
+  Κάντε κλικ για εναλλαγή ενότητας
+">
 
 <!ENTITY aboutTelemetry.emptySection "
   (Δεν συλλέχθηκαν δεδομένα)
 ">
 
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Λήψη ονομάτων συναρτήσεων για στοίβες
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Εμφάνιση ακατέργαστων δεδομένων στοίβας
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Φίλτρο (συμβολοσειρές ή /regexp/)
