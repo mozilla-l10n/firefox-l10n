@@ -100,9 +100,11 @@
   ਥਰਿੱਡ ਹੈਂਗ
 ">
 
+
 <!ENTITY aboutTelemetry.scalarsSection "
   ਸਕੇਲਰ
 ">
+
 
 <!ENTITY aboutTelemetry.histogramsSection "
   ਹਿਸਟੋਗਰਾਮ
@@ -111,6 +113,7 @@
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   ਕੀਡ ਹਿਸਟੋਗਰਾਮ
 ">
+
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   ਸਧਾਰਨ ਮਾਪ
@@ -144,13 +147,7 @@
   ਸੂਚਨਾ: ਹੌਲੀ SQL ਡੀਬੱਗ ਕਰਨਾ ਸਮਰੱਥ ਹੈ। ਪੂਰੀਆਂ SQL ਸਤਰਾਂ ਨੂੰ ਹੇਠਾਂ ਦੇਖਾਇਆ ਜਾ ਸਕਦਾ ਹੈ, ਪਰ ਉਹਨਾਂ ਨੂੰ ਟੈਲੀਮੈਂਟਰੀ ਨੂੰ ਭੇਜਿਆ ਨਹੀਂ ਜਾਵੇਗਾ।
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  ਹੈਂਗ ਸਟੈਕ ਲਈ ਫੰਕਸ਼ਨ ਨਾਂ ਲਵੋ
-">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  ਹੈਂਗ ਤੋਂ ਅਣਘੜ ਡਾਟਾ ਵੇਖਾਓ
-">
 
 <!ENTITY aboutTelemetry.filterText "
   ਫਿਲਟਰ ਕਰੋ (ਸਤਰਾਂ ਜਾਂ /regexp/)
