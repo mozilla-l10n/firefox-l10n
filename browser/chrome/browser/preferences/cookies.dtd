@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Ils suandants cookies èn arcunads sin tes computer:">
 <!ENTITY     cookiename.label               "Num dal cookie">
-<!ENTITY     cookiedomain.label             "Website"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "r">
-<!ENTITY     button.removeAllCookies.label "Stizzar tuts">
-<!ENTITY     button.removeAllCookies.accesskey "t">
+<!ENTITY     cookiedomain.label             "Website">
 
 <!ENTITY     props.name.label               "Num:">
 <!ENTITY     props.value.label              "Cuntegn:">

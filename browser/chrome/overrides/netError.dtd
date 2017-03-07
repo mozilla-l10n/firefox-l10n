@@ -140,14 +140,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Tia connexiun n'è betg segira">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Infurmaziuns avanzadas: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Extendì">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> utilisescha ina tecnologia da segirezza antiquada e vulnerabla per attatgas. In attatgader pudess leger senza gronds sforzs las infurmaziuns che paran dad esser segiradas.">
-<!ENTITY weakCryptoAdvanced.override "(Betg segir) Emprova da chargiar <span class='hostname'></span> cun utilisar ina tecnologia da segirezza antiquada">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
