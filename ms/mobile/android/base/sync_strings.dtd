@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Lanjutan &ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Putuskan sambungan &ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Nyahsambung Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Data pelayaran anda akan masih ada dalam peranti ini, tetapi tidak lagi sync dengan akaun anda.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Akaun Firefox &formatS; dinyahsambung.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Nyahsambung'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Dayakan Mod Nyahpepijat'>
 
