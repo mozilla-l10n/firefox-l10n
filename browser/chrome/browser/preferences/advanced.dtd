@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Argibide gehiago">
 
 <!ENTITY telemetryDesc.label             "Nabigatzailearen errendimenduaren, erabilpenaren, hardwarearen eta pertsonalizazioen inguruko datuak partekatzen ditu &vendorShortName;(r)ekin &brandShortName; hobetzen laguntzeko">
-<!ENTITY enableTelemetryData.label       "Partekatu datu gehigarriak (adib. Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
 <!ENTITY crashReporterDesc2.label         "Hutsegite-txostenek arazoak konpondu eta zure nabigatzailea egonkor eta seguruagoa egiten laguntzen diote &vendorShortName;(r)i">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Eguneraketak">
 
-<!ENTITY updateApplication.label         "&brandShortName; eguneraketak">
 <!ENTITY updateAuto1.label               "Instalatu eguneraketak automatikoki (gomendatua: segurtasun hobea)">
 <!ENTITY updateAuto1.accesskey           "s">
 <!ENTITY updateCheckChoose.label         "Bilatu eguneraketak baina utzi aukeratzen instalatuko diren edo ez">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY autoUpdateOthers.label          "Eguneratu automatikoki">
 <!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
 <!ENTITY enableSearchUpdate.accesskey    "m">
 

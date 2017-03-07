@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  OHARRA: SQL motelaren arazketa gaituta dago. SQL kate osoak bistara litezke azpian baina ez dira Telemetry-ra bidaliko.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Eskuratu esekitze-pilen funtzio-deiak">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Erakutsi esekitzeen datu gordinak">
 
 <!ENTITY aboutTelemetry.filterText "  Iragazi (kateak edo /adierazpen-erregularra/)">
 

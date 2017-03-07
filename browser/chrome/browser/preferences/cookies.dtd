@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Honako cookie hauek daude gorderik zure ordenagailuan:">
 <!ENTITY     cookiename.label               "Cookiearen izena">
-<!ENTITY     cookiedomain.label             "Gunea"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "K">
-<!ENTITY     button.removeAllCookies.label "Kendu denak">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Gunea">
 
 <!ENTITY     props.name.label               "Izena:">
 <!ENTITY     props.value.label              "Edukia:">
