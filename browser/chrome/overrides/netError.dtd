@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
 <!ENTITY retry.label "Torna-lo a probar">
 <!ENTITY returnToPreviousPage.label "Ir enta zaga">
-<!ENTITY advanced.label "Abanzau">
+
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,6 @@
 
 
 
-<!ENTITY openPortalLoginPage.label "Ubrir pachina de dentrada">
 
 <!ENTITY malformedURI.title "L'adreza no ye valida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Las adrezas web s'escriben por un regular como <strong>http://www.eixemplo.com/</strong></li> <li>Asegure-se que ye emplegando barras inclinadas enta debant (ye decir <strong>/</strong>).</li> </ul>">
@@ -103,14 +102,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Información abanzada: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "La connexion no ye pas segura">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Información abanzada: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Abanzau">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> fa servir una tecnolochía de seguridat obsoleta y vulnerable a a ataques. Un atacant podría veyer facilment la información que atrament pensarías que ye segura.">
-<!ENTITY weakCryptoAdvanced.override "(Inseguro) Mira de cargar <span class='hostname'></span> con a seguridat obsoleta">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

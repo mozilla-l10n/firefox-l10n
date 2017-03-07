@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Amostrar totz os marcapachinas">
 <!ENTITY recentBookmarks.label "Pachinas marcadas recientment">
 <!ENTITY otherBookmarksCmd.label "Atros marcapachinas">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Amostrar mas marcapachinas">
 <!ENTITY showRecentlyBookmarked.label     "Amostrar pachinas marcadas recientment">
 <!ENTITY showRecentlyBookmarked.accesskey "m">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcapachinas">
 <!ENTITY bookmarksMenuButton.other.label "Atros marcapachinas ">
+
 <!ENTITY viewBookmarksSidebar2.label        "Amostrar a barra lateral de marcapachinas">
 <!ENTITY viewBookmarksToolbar.label         "Veyer a barra de marcapachinas">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "No i hai garra pestanya ubierta">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activar la sincronización de pestanyas pa veyer una lista de pestanyas dende os atros dispositivos.">
