@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Daha fazla&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Bağlantıyı kes&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Sync bağlantısı kesilsin mi?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Gezinti verileriniz bu cihazda korunacak ama artık hesabınızla eşitlenmeyecek.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 '&formatS; Firefox Hesabının bağlantısı kesildi.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Bağlantıyı kes'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Hata ayıklama modunu etkinleştir'>
 
