@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  نوٹ: سست SQL ڈیبگنگ اہل ہے۔ نیچے پوری SQL سٹرنگز دکھائی جا سکتی ہیں لیکن یہ ٹیلیمٹری کو جمع نہیں کرائ جائیں گی۔">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  رکے سٹیک کے لیے فنکشن نام لائیں">
 
-<!ENTITY aboutTelemetry.hideSymbols "  رکاوٹوں کے خام کوائف دکھائیں">
 
 <!ENTITY aboutTelemetry.filterText "  فلٹر (سٹرنگز یا /regexp/)">
 

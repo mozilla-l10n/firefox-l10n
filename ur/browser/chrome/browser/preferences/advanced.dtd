@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "اور سیکھیں">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
-<!ENTITY enableTelemetryData.label       "اضافی کوائف شیئر کریں (یعنی Telemetry)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "اور سیکھیں">
 
 <!ENTITY crashReporterDesc2.label         "تباہ کاری کی رپورٹ &vendorShortName; میں مدد کرتی ھے۔ اور آپ کے براؤزر کو زیادہ مستحکم اور محفوظ بناتی ھے">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "تازہ کاری">
 
-<!ENTITY updateApplication.label         "&brandShortName; تازہ کاریاں:">
 <!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
 <!ENTITY updateAuto1.accesskey           "خ">
 <!ENTITY updateCheckChoose.label         "تازہ کاریوں کے لیے پڑتال کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں">
 <!ENTITY useService.accesskey            "پ">
 
-<!ENTITY autoUpdateOthers.label          "خود بخود تازہ کاری">
 <!ENTITY enableSearchUpdate.label        "تلاش انجن">
 <!ENTITY enableSearchUpdate.accesskey    "ا">
 

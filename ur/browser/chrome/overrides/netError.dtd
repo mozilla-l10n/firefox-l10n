@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "صفحہ لوڈ کرنے میں مسلہ">
 <!ENTITY retry.label "دوبارہ کوشش کریں">
 <!ENTITY returnToPreviousPage.label "واپس جائیں">
-<!ENTITY advanced.label "اعلٰی ترین">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
 <!ENTITY captivePortal.title "نیٹ ورک میں لاگ ان کریں">
-<!ENTITY captivePortal.longDesc "<p>اس نیٹ ورک پر آپ کو انٹرنیٹ تک رسائی کے لئے لاگ ان کرنے کی ضرورت ہوسکتی ہے۔</p>">
 
-<!ENTITY openPortalLoginPage.label "لاگ ان صفحہ کھولیں">
+
 
 <!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!ENTITY malformedURI.longDesc "<ul> <li>ویب پتے زیادہ تر اس طرح لکھے جاتے ہیں <strong>http://www.example.com/</strong></li> <li>چیک کریں کہ آپ سیدہی سلیشیں استعمال کر رہے ہیں، یعنی کہ <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "اعلی معلومات: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "آپکا کنکشن ناقابل بھروسا ہے">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "اعلی معلومات: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "اعلٰی ترین">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> سلامتی ٹیکنالوجی استعمال کرتا ہے جو بٰٰغد از تاریخ ہے اور حملہ کے لیے زد پزیر ہے۔ ایک حملاور آسانی سے معلومات افشا کرسکتا ہے جسے آپ محفوظ سمجھتے ہیں۔">
-<!ENTITY weakCryptoAdvanced.override "(ناقابل بھروسا) لوڈ کرنے کی کوشش کریں<span class='hostname'></span> پرانی سلامتی استعمال کرنے ہوئے">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

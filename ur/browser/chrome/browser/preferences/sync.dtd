@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "&syncBrand.fullName.label; سیٹ اپ کریں">
-<!ENTITY setupButton.accesskey      "س">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; آپ کو آپ کے تمام آلات پر آپ کے سابقات، نشانیاں، پاس ورڈ اور کھلی ٹیبیوں تک رسائی کرنے دیتا ہے۔">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "تازہ کاری کریں">
-<!ENTITY resetPass.label              "پھر سیٹ کریں">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "اکاؤنٹ منظم کیجیئے">
-<!ENTITY manageAccount.accesskey      "م">
-<!ENTITY changePassword2.label        "پاس ورڈ تبدیل کریں…">
-<!ENTITY myRecoveryKey.label          "میری بازیافت کلید">
-<!ENTITY resetSync2.label             "ہمہ وقت سازی پھر سیٹ کریں…">
-
-<!ENTITY pairDevice.label             "آلے کا جوڑا بنائیں">
-
-<!ENTITY syncMy.label               "انہیں سنک کریں">
 <!ENTITY engine.bookmarks.label     "نشانیاں">
 <!ENTITY engine.bookmarks.accesskey "ن">
 <!ENTITY engine.tabs.label2         "ٹیب کھولیں">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "ا">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "آ&amp;لہ نام:">
 <!ENTITY fxaSyncDeviceName.label       "آلہ کا نام">
 <!ENTITY changeSyncDeviceName.label "ڈیوائس کا نام تبدیل کریں…">
 <!ENTITY changeSyncDeviceName.accesskey "ب">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "محفوظ کریں">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "اس آلے کا ربط توڑیں">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "سروس کی ٹرمز">
-<!ENTITY prefs.ppLink.label         "رازداری پالیسی">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "اطلاع نامہ نجی نوعیت">
-<!ENTITY determiningAcctStatus.label     "آپ کے اکاؤنٹ کی حالت کا اندازہ لگا رہا ہے…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "اس ای میل کو بھول جائیں">
 <!ENTITY forget.accesskey            "ب">
 
-<!ENTITY welcome.description "اپنے ٹیب، نشانیاں، پاس ورڈ اور مزید کی رسائی کریں جہاں پر بھی آپ &brandShortName; استعمال کری۔">
-<!ENTITY welcome.signIn.label " سائن ان کریں">
-<!ENTITY welcome.createAccount.label "اکاؤنٹ بنائیں">
-
-<!ENTITY welcome.useOldSync.label "ہمہ وقت سازی کا کوئی پرانا ورژن استعمال کر رہے ہیں؟">
-
-<!ENTITY signedOut.caption            "اپنا ویب اپنے ساتھ لے چلیں">
 <!ENTITY signedOut.description        "اپنے تمام ڈیوائس اپنے بک مارکس، تاریخ، ٹیب، پاس ورڈ، ایڈ اون، اور ترجیحات کو ہم وقت ساز کریں۔">
 <!ENTITY signedOut.accountBox.title   "کسی &syncBrand.fxAccount.label; کے ساتھ جڑیں">
-<!ENTITY signedOut.accountBox.create  "اکاؤنٹ بنائیں">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "س">
-<!ENTITY signedOut.accountBox.signin  "سائن ان کریں">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "ی">
 
-<!ENTITY signedIn.engines.label       "تمام آلات کی تمام ہم وقت سازی کریں">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
