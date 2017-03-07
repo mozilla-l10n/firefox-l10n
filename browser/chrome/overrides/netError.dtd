@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "பக்கத்தை ஏற்றுவதில் சிக்கல்">
 <!ENTITY retry.label "மீண்டும் முயற்சிக்கவும்">
 <!ENTITY returnToPreviousPage.label "பின்செல்">
-<!ENTITY advanced.label "மேம்பட்ட">
+
 <!-- Specific error messages -->
 
 
@@ -32,7 +32,6 @@
 
 
 
-<!ENTITY openPortalLoginPage.label "உள்நுழைவுப் பக்கத்தைத் திற">
 
 <!ENTITY malformedURI.title "இந்த முகவரி தவறானது">
 <!ENTITY malformedURI.longDesc "<ul> <li>இணைய முகவரி கீழ்காணுமாறு இருக்கும் <strong>http://www.example.com/</strong></li><li>நீங்க / பயன்படுத்தினீர்களா என பார்க்கவும் (i.e. <strong>/</strong>).</li> </ul>">
@@ -102,14 +101,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "அதிக தகவல்: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "உங்கள் இணைப்பு பாதுகாப்பற்றது">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "மேம்பட்ட தகவல்: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "மேம்பட்டது">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> காலாவதியான தாக்குதலுக்கு உள்ளாகக்கூடிய பாதுகாப்பு நுட்பத்தைப் பயன்படுத்துகிறது. நீங்கள் பாதுகாப்பாக இருப்பதாக நினைக்கும் தகவல்களைத் தாக்கர்கள் வெளிப்படுத்தலாம்.">
-<!ENTITY weakCryptoAdvanced.override "(பாதுகாப்பற்றதா) ஏற்ற முயற்சிக்கவும் <span class='hostname'></span> காலாவதியான பாதுகாப்பை பயன்படுத்துகிறது">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "அமை &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "அ">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; உங்கள் வரலாறுர புத்தகக்குறிகள், கடவுச்சொற்கள் மற்றும் உங்கள் அனைத்து சாதனத்திலும் திறந்த கீற்றுகளை அணுக வைக்கிறது.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "புதுப்பி">
-<!ENTITY resetPass.label              "மறுஅமை">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "கணக்கை நிர்வகி">
-<!ENTITY manageAccount.accesskey      "க">
-<!ENTITY changePassword2.label        "கடவுச்சொல்லை மாற்றவும்...">
-<!ENTITY myRecoveryKey.label          "என் மீட்பு விசை">
-<!ENTITY resetSync2.label             "ஒத்திசைவை மீட்டமைக்க...">
-
-<!ENTITY pairDevice.label             "ஒரு சாதனத்தை இணைக்க">
-
-<!ENTITY syncMy.label               "என்னுடையதை ஒத்திசை">
 <!ENTITY engine.bookmarks.label     "புத்தகக்குறிகள்">
 <!ENTITY engine.bookmarks.accesskey "m">
 
@@ -37,23 +18,15 @@
 <!ENTITY engine.addons.accesskey    "க">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "சாதனத்தின் பெயர்:">
 
 
 
 
 
-
-
-<!ENTITY unlinkDevice.label           "இந்த சாதனத்தின் இணைப்பை அகற்ற">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">
-<!ENTITY prefs.ppLink.label         "தனிப்பட்ட கொள்கை">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "தனியுரிம கொள்கை">
-<!ENTITY determiningAcctStatus.label     "உங்களுடைய கணக்கின் நிலவரத்தை தீர்மானிக்கிறது...">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,13 +57,6 @@ both, to better adapt this sentence to their language.
 
 
 
-<!ENTITY welcome.description "உங்களுடைய கீற்றுகள், புத்தகக்குறிகள், கடவுச்சொற்களை நீங்கள் எங்கு &brandShortName; பயன்படுத்தினாலும் அனுக முடியும்.">
-
-
-
-<!ENTITY welcome.useOldSync.label "ஒத்திசைவின் பழைய பதிப்பை பயன்னடுத்துகிறதா?">
-
-<!ENTITY signedOut.caption            "உங்கள் வலையை உங்களுடன் எடுத்துக் கொள்ளுங்கள்">
 <!ENTITY signedOut.description        "புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், கூடுதல் இணைப்புகள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; உடன் இணையுங்கள்">
 
@@ -98,7 +64,6 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "எல்லா கருவிகளையும் ஒத்திசையுங்கள்">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

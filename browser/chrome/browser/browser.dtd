@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
 <!ENTITY recentBookmarks.label "சமீபத்தில் புத்தகக்குறியிடப்பட்டது">
 <!ENTITY otherBookmarksCmd.label "இதர புத்தகக்குறிகள்">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 <!ENTITY showRecentlyBookmarked.label     "சமீபத்திய புத்தகக்குறிகளை காண்பி">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksMenuButton.other.label "பிற புத்தகக்குறிகள்">
+
 <!ENTITY viewBookmarksSidebar2.label        "புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு">
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைக் காண கீற்று ஒத்திசைவை இயக்கு.">

@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "மேலும் அறிய">
 
 <!ENTITY telemetryDesc.label             "நாங்கள் &brandShortName; ஐ மேலும் சிறப்பானதாக மாற்ற உதவும் வகையில் உங்கள் உலாவியைப் பற்றிய செயல்திறன், பயன்பாடு, வன்பொருள் மற்றும் தனிப்பயனாக்க தரவை &vendorShortName; உடன் பகிர்ந்துகொள்ளும்">
-<!ENTITY enableTelemetryData.label       "கூடுதல் தரவைப் பகிரவும்( எ.கா தொலைவுக் கணிப்பியல்)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
 

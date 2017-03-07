@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "பின்வரும் குக்கீகள் உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
 <!ENTITY     cookiename.label               "குக்கீ பெயர்">
-<!ENTITY     cookiedomain.label             "தளம்"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "R">
-<!ENTITY     button.removeAllCookies.label "அனைத்தையும் நீக்கு">
-<!ENTITY     button.removeAllCookies.accesskey "A">
+<!ENTITY     cookiedomain.label             "தளம்">
 
 <!ENTITY     props.name.label               "பெயர்:">
 <!ENTITY     props.value.label              "உள்ளடக்கம்:">
