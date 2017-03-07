@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Izlash tarixini ko‘rsatish">
 <!ENTITY pref_import_options "Parametrlarni import qilish">
 <!ENTITY pref_import_android_summary "Asosiy brauzerdan xatcho‘plar va tarixni import qilish">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Ichki oynalarni ochish">
 <!ENTITY pref_private_data_history2 "Ko‘rish tarixi">
 <!ENTITY pref_private_data_searchHistory "Izlash tarixi">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Foydalanuvchi nomi">
 <!ENTITY doorhanger_login_edit_password_hint "Parol">
 <!ENTITY doorhanger_login_edit_toggle "Parolni ko‘rsatish">
-<!ENTITY doorhanger_login_edit_toast_error "Kirishga saqlab bo‘lmadi">
 <!ENTITY doorhanger_login_select_message "&formatS;dagi paroldan nusxa olinsinmi?">
 <!ENTITY doorhanger_login_select_toast_copy "Paroldan vaqtinchalik xotiraga nusxa ko‘chirildi">
-<!ENTITY doorhanger_login_select_toast_copy_error "Paroldan nusxa olib bo‘lmadi">
 <!ENTITY doorhanger_login_select_action_text "Boshqa loginni tanlang">
 <!ENTITY doorhanger_login_select_title "Paroldan nusxa olish:">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
