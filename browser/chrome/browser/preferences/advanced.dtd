@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "اطّلع على المزيد">
 
 <!ENTITY telemetryDesc.label             "شارك بيانات المتصفح فيما يتعلق بالأداء و الاستخدام و العتاد و التخصيصات مع &vendorShortName; لمساعدتنا في جعل &brandShortName; أفضل">
-<!ENTITY enableTelemetryData.label       "شارك بيانات إضافية (تليميتري)">
-<!ENTITY enableTelemetryData.accesskey   "ت">
+
+
 <!ENTITY telemetryLearnMore.label        "اطّلع على المزيد">
 
 <!ENTITY crashReporterDesc2.label         "بلاغات الانهيار تساعد &vendorShortName; على إصلاح المشاكل و جعل متصفحك أكثر أمانًا و ثباتًا">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "تحديث">
 
-<!ENTITY updateApplication.label         "تحديثات &brandShortName;">
 <!ENTITY updateAuto1.label               "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
 <!ENTITY updateAuto1.accesskey           "ل">
 <!ENTITY updateCheckChoose.label         "التمس التحديثات، و لكن اترك لي خيار تثبيتها من عدمه">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتثبيت التحديثات">
 <!ENTITY useService.accesskey            "خ">
 
-<!ENTITY autoUpdateOthers.label          "حدِّث تلقائيا">
 <!ENTITY enableSearchUpdate.label        "محركات البحث">
 <!ENTITY enableSearchUpdate.accesskey    "ح">
 

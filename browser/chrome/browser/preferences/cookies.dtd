@@ -6,14 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "الكعكات التّالية مخزّنة على حاسوبك:">
 <!ENTITY     cookiename.label               "اسم الكعكة">
-<!ENTITY     cookiedomain.label             "الموقع"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeSelectedCookies.accesskey "ل">
-<!ENTITY     button.removeAllCookies.label "أزِل الكل">
-<!ENTITY     button.removeAllCookies.accesskey "ك">
+<!ENTITY     cookiedomain.label             "الموقع">
 
 <!ENTITY     props.name.label               "الاسم:">
 <!ENTITY     props.value.label              "المحتوى:">
