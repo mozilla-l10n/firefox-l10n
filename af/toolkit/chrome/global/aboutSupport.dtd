@@ -56,6 +56,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Profiele">
 
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Veilige modus">
 
 <!ENTITY aboutSupport.showDir.label "Open gids">
@@ -101,6 +103,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopieer rou data na die knipbord">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandput">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Probeer veilige modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Herbegin met byvoegings gedeaktiveer…">

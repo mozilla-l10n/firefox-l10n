@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Kan nie die bladsy laai nie">
 <!ENTITY retry.label "Probeer weer">
 <!ENTITY returnToPreviousPage.label "Gaan terug">
-<!ENTITY advanced.label "Gevorderd">
+
 <!-- Specific error messages -->
 
 
@@ -31,9 +31,8 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; kan vanweë 'n onbekende rede nie hierdie bladsy laai nie.</p>">
 
 <!ENTITY captivePortal.title "Meld aan by netwerk">
-<!ENTITY captivePortal.longDesc "<p>Dié netwerk benodig dalk dat u aanmeld vir internettoegang.</p>">
 
-<!ENTITY openPortalLoginPage.label "Open aanmeldbladsy">
+
 
 <!ENTITY malformedURI.title "Die adres is ongeldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webadresse word gewoonlik só geskryf <strong>http://www.example.com/</strong></li> <li>Maak seker u gebruik vorentoe-skuinsstrepe (d.i. <strong>/</strong>).</li> </ul>">
@@ -104,14 +103,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Gevorderde inligting: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Die verbinding is nie beveilig nie">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Gevorderde inligting: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Gevorderd">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruik verouderde sekuriteittegnologie en is vatbaar vir aanvalle. 'n Aanvaller kan maklik inligting onthul wat mens sou dink veilig moes wees.">
-<!ENTITY weakCryptoAdvanced.override "(Nie beveilig) Probeer om <span class='hostname'></span> met verouderde sekuriteit te laai">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->

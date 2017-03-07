@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Meld aan om oortjies, boekmerke, wagwoorde en nog wat te sinchroniseer.">
 <!ENTITY aboutAccountsConfig.startButton.label "Begin">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Gebruiker u 'n ouer weergawe van Sync?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Sync-voorkeure">
 <!ENTITY aboutAccounts.noConnection.title "Geen verbinding nie">
 <!ENTITY aboutAccounts.noConnection.description "'n Internetverbinding is nodig om aan te meld.">

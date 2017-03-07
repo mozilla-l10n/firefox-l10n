@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Stel &syncBrand.fullName.label; op">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "Met &syncBrand.fullName.label; het mens toegang tot geskiedenis, boekmerke, wagwoorde en oop oortjies op alle toestelle.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Bywerk">
-<!ENTITY resetPass.label              "Herstel">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Bestuur rekening">
-<!ENTITY manageAccount.accesskey      "r">
-<!ENTITY changePassword2.label        "Verander wagwoord…">
-<!ENTITY myRecoveryKey.label          "My herwinningsleutel">
-<!ENTITY resetSync2.label             "Laai Sync terug…">
-
-<!ENTITY pairDevice.label             "Assosieer 'n toestel">
-
-<!ENTITY syncMy.label               "Sinkroniseer my">
 <!ENTITY engine.bookmarks.label     "Boekmerke">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "Oop oortjies">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "B">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Toestelnaam:">
 <!ENTITY fxaSyncDeviceName.label       "Toestelnaam">
 <!ENTITY changeSyncDeviceName.label "Verander toestelnaam…">
 <!ENTITY changeSyncDeviceName.accesskey "V">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Stoor">
 <!ENTITY saveChangeSyncDeviceName.accesskey "t">
-<!ENTITY unlinkDevice.label           "Dissosieer dié toestel">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Diensbepalings">
-<!ENTITY prefs.ppLink.label         "Privaatheidbeleid">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Privaatheidkennisgewing">
-<!ENTITY determiningAcctStatus.label     "Bepaal tans u rekeningstatus…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Vergeet dié e-posadres">
 <!ENTITY forget.accesskey            "V">
 
-<!ENTITY welcome.description "Kry toegang tot oortjies, boekmerke, wagwoorde en nog wat waar u ook al &brandShortName; gebruik.">
-<!ENTITY welcome.signIn.label "Meld aan">
-<!ENTITY welcome.createAccount.label "Skep 'n rekening">
-
-<!ENTITY welcome.useOldSync.label "Gebruiker u 'n ouer weergawe van Sync?">
-
-<!ENTITY signedOut.caption            "Neem die Web saam">
 <!ENTITY signedOut.description        "Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.">
 <!ENTITY signedOut.accountBox.title   "Koppel met 'n &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Skep 'n rekening">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "r">
-<!ENTITY signedOut.accountBox.signin  "Meld aan">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "M">
 
-<!ENTITY signedIn.engines.label       "Sinkroniseer oor alle toestelle">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

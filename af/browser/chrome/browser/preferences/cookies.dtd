@@ -6,13 +6,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Die volgende koekies is op u rekenaar gestoor:">
 <!ENTITY     cookiename.label               "Koekienaam">
-<!ENTITY     cookiedomain.label             "Werf"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-<!ENTITY     button.removeAllCookies.label "Verwyder alle">
-<!ENTITY     button.removeAllCookies.accesskey "a">
+<!ENTITY     cookiedomain.label             "Werf">
 
 <!ENTITY     props.name.label               "Naam:">
 <!ENTITY     props.value.label              "Inhoud:">
