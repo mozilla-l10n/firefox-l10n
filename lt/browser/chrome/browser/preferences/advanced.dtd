@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Išsamiau…">
 
 <!ENTITY telemetryDesc.label             "Naršyklės „&brandShortName;“ tobulinimo tikslais siunčia „&vendorShortName;i“ duomenis apie naršyklės našumą, naudojamas funkcijas, tinkinimą ir kompiuterio aparatinę įrangą">
-<!ENTITY enableTelemetryData.label       "Dalytis papildomais duomenimis (pvz., telemetrija)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Išsamiau…">
 
 <!ENTITY crashReporterDesc2.label         "Strigčių pranešimai padeda „&vendorShortName;i“ spręsti problemas bei gerinti naršyklės stabilumą ir saugumą.">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Atnaujinimas">
 
-<!ENTITY updateApplication.label         "„&brandShortName;“ naujinimai">
 <!ENTITY updateAuto1.label               "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY autoUpdateOthers.label          "Atnaujinti automatiškai">
 <!ENTITY enableSearchUpdate.label        "ieškykles">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 

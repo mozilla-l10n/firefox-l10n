@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Konfigūruoti „&syncBrand.fullName.label;“">
-<!ENTITY setupButton.accesskey      "K">
-<!ENTITY weaveDesc.label            "„&syncBrand.fullName.label;“ padeda sinchronizuoti naršymo žurnalą, adresyną, įrašytus slaptažodžius ir atvertas korteles skirtinguose įrenginiuose.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Atnaujinti">
-<!ENTITY resetPass.label              "Perkurti">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Tvarkyti paskyrą">
-<!ENTITY manageAccount.accesskey      "T">
-<!ENTITY changePassword2.label        "Keisti slaptažodį…">
-<!ENTITY myRecoveryKey.label          "Mano atkūrimo raktas">
-<!ENTITY resetSync2.label             "Iš naujo sinchronizuoti duomenis…">
-
-<!ENTITY pairDevice.label             "Suporuoti įrenginį">
-
-<!ENTITY syncMy.label               "Sinchronizuoti:">
 <!ENTITY engine.bookmarks.label     "adresyną">
 <!ENTITY engine.bookmarks.accesskey "a">
 <!ENTITY engine.tabs.label2         "Atvertos kortelės">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "p">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Įrenginio pavadinimas:">
 <!ENTITY fxaSyncDeviceName.label       "Įrenginio pavadinimas">
 <!ENTITY changeSyncDeviceName.label "Keisti įrenginio pavadinimą…">
 <!ENTITY changeSyncDeviceName.accesskey "e">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "k">
 <!ENTITY saveChangeSyncDeviceName.label "Įrašyti">
 <!ENTITY saveChangeSyncDeviceName.accesskey "r">
-<!ENTITY unlinkDevice.label           "Atsieti šį įrenginį">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Paslaugos teikimo nuostatai">
-<!ENTITY prefs.ppLink.label         "Privatumo nuostatai">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Pastaba dėl privatumo">
-<!ENTITY determiningAcctStatus.label     "Gaunama jūsų paskyros būsena…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Užmiršti šį el. paštą">
 <!ENTITY forget.accesskey            "U">
 
-<!ENTITY welcome.description "Pasiekite savo korteles, adresyną, slaptažodžius ir kitką – kur besinaudotumėte „&brandShortName;“.">
-<!ENTITY welcome.signIn.label "Prisijungti">
-<!ENTITY welcome.createAccount.label "Kurti paskyrą">
-
-<!ENTITY welcome.useOldSync.label "Naudojatės senesne „Sync“ versija?">
-
-<!ENTITY signedOut.caption            "Pasiimkite savo saityną kartu">
 <!ENTITY signedOut.description        "Sinchronizuokite savo adresyną, žurnalą, korteles, slaptažodžius, priedus bei nuostatas visuose savo įrenginiuose.">
 <!ENTITY signedOut.accountBox.title   "Jungtis su &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Kurti paskyrą">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
-<!ENTITY signedOut.accountBox.signin  "Prisijungti">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sinchronizuokite visuose įrenginiuose">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
