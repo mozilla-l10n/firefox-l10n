@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Dysgu Rhagor">
 
 <!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich porwr gyda &vendorShortName; er mwyn gwella &brandShortName;">
-<!ENTITY enableTelemetryData.label       "Rhannu data ychwanegol (h.y., Telemetreg)">
-<!ENTITY enableTelemetryData.accesskey   "T">
+
+
 <!ENTITY telemetryLearnMore.label        "Dysgu Rhagor">
 
 <!ENTITY crashReporterDesc2.label         "Mae adroddiadau chwalu yn cynorthwyo &vendorShortName; i ddatrys problemau ac i wneud eich porwr yn fwy sefydlog a diogel">
@@ -83,7 +83,6 @@
 
 <!ENTITY updateTab.label                 "Diweddaru">
 
-<!ENTITY updateApplication.label         "Diweddariadau &brandShortName;">
 <!ENTITY updateAuto1.label               "Gosod diweddariadau (argymell: gwella diogelwch)">
 <!ENTITY updateAuto1.accesskey           "d">
 <!ENTITY updateCheckChoose.label         "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
@@ -97,7 +96,6 @@
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "c">
 
-<!ENTITY autoUpdateOthers.label          "Diweddaru'n awtomatig">
 <!ENTITY enableSearchUpdate.label        "Peiriannau Chwilio">
 <!ENTITY enableSearchUpdate.accesskey    "P">
 

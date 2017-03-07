@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Gosod &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "s">
-<!ENTITY weaveDesc.label            "Mae &syncBrand.fullName.label; yn caniatáu i chi gael mynediad at eich hanes, cyfrineiriau a thabiau agored ar draws eich dyfeisiau i gyd.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Diweddaru">
-<!ENTITY resetPass.label              "Ailosod">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Rheoli Cyfrif">
-<!ENTITY manageAccount.accesskey      "R">
-<!ENTITY changePassword2.label        "Newid Cyfrinair…">
-<!ENTITY myRecoveryKey.label          "Fy Allwedd Adfer">
-<!ENTITY resetSync2.label             "Ailosod Sync…">
-
-<!ENTITY pairDevice.label             "Paru Dyfais">
-
-<!ENTITY syncMy.label               "Cydweddu Fy">
 <!ENTITY engine.bookmarks.label     "Nodau Tudalen">
 <!ENTITY engine.bookmarks.accesskey "T">
 <!ENTITY engine.tabs.label2         "Agor Tabiau">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "Y">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Enw Dyfais:">
 <!ENTITY fxaSyncDeviceName.label       "Enw Dyfais">
 <!ENTITY changeSyncDeviceName.label "Newid Enw'r Ddyfais…">
 <!ENTITY changeSyncDeviceName.accesskey "N">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "D">
 <!ENTITY saveChangeSyncDeviceName.label "Cadw">
 <!ENTITY saveChangeSyncDeviceName.accesskey "C">
-<!ENTITY unlinkDevice.label           "Datgysylltu'r Ddyfais">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Amodau Gwasanaeth">
-<!ENTITY prefs.ppLink.label         "Polisi Preifatrwydd">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Rhybudd Preifatrwydd">
-<!ENTITY determiningAcctStatus.label     "Gwybod statws eich cyfrif…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
 <!ENTITY forget.accesskey            "A">
 
-<!ENTITY welcome.description "Cewch fynediad at eich tabiau, nodau tudalen, cyfrineiriau a mwy lle bynnag fyddwch yn defnyddio &brandShortName;.">
-<!ENTITY welcome.signIn.label "Mewngofnodi">
-<!ENTITY welcome.createAccount.label "Creu Cyfrif">
-
-<!ENTITY welcome.useOldSync.label "Defnyddio hen fersiwn o Sync?">
-
-<!ENTITY signedOut.caption            "Cymrwch eich Gwe gyda chi">
 <!ENTITY signedOut.description        "Cydweddwch eich nodau tudalen, hanes, tabiau, cyfrineiriau, ychwanegion a dewisiadau ymysg eich dyfeisiau i gyd.">
 <!ENTITY signedOut.accountBox.title   "Cysylltwch gyda &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Creu Cyfrif">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Mewngofnodi">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Cydweddu pob dyfais">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

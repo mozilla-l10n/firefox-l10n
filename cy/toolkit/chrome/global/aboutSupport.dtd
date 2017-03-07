@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ffenestri Amlbroses">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modd Diogel">
 
 <!ENTITY aboutSupport.showDir.label "Agor Cyfeiriadur">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copïo data bras i'r clipfwrdd">
 
 <!ENTITY aboutSupport.sandboxTitle "Blwch tywod">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Defnyddiwch y Modd Diogel">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">
