@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "顯示搜尋紀錄">
 <!ENTITY pref_import_options "匯入選項">
 <!ENTITY pref_import_android_summary "自內建瀏覽器匯入書籤與瀏覽紀錄">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "開啟分頁">
 <!ENTITY pref_private_data_history2 "瀏覽歷史紀錄">
 <!ENTITY pref_private_data_searchHistory "搜尋紀錄">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "使用者名稱">
 <!ENTITY doorhanger_login_edit_password_hint "密碼">
 <!ENTITY doorhanger_login_edit_toggle "顯示密碼">
-<!ENTITY doorhanger_login_edit_toast_error "登入資訊儲存失敗">
 <!ENTITY doorhanger_login_select_message "複製 &formatS; 的密碼？">
 <!ENTITY doorhanger_login_select_toast_copy "已將密碼複製至剪貼簿">
-<!ENTITY doorhanger_login_select_toast_copy_error "無法複製密碼">
 <!ENTITY doorhanger_login_select_action_text "選擇另一組帳號">
 <!ENTITY doorhanger_login_select_title "複製密碼">
 
