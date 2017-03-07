@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "Configura el &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "C">
-<!ENTITY weaveDesc.label            "El &syncBrand.fullName.label; us permet accedir al vostre historial, adreces d'interès, contrasenyes i pestanyes obertes des de qualsevol dels vostres dispositius.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Actualitza">
-<!ENTITY resetPass.label              "Reinicia">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Gestiona el compte">
-<!ENTITY manageAccount.accesskey      "a">
-<!ENTITY changePassword2.label        "Canvia la contrasenya…">
-<!ENTITY myRecoveryKey.label          "La meva clau de recuperació">
-<!ENTITY resetSync2.label             "Reinicia el Sync…">
-
-<!ENTITY pairDevice.label             "Vincula un dispositiu">
-
-<!ENTITY syncMy.label               "Sincronitza:">
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
 
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "C">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Nom del dispositiu:">
 <!ENTITY fxaSyncDeviceName.label       "Nom del dispositiu">
 <!ENTITY changeSyncDeviceName.label "Canvia el nom del dispositiu…">
 <!ENTITY changeSyncDeviceName.accesskey "v">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Desa">
 <!ENTITY saveChangeSyncDeviceName.accesskey "D">
-<!ENTITY unlinkDevice.label           "Desvincula aquest dispositiu">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Condicions del servei">
-<!ENTITY prefs.ppLink.label         "Política de privadesa">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Avís de privadesa">
-<!ENTITY determiningAcctStatus.label     "S'està determinant l'estat del compte…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Oblida aquesta adreça electrònica">
 <!ENTITY forget.accesskey            "b">
 
-<!ENTITY welcome.description "Accediu a les vostres pestanyes, adreces d'interès, contrasenyes i més arreu amb el &brandShortName;.">
-<!ENTITY welcome.signIn.label "Inicia la sessió">
-<!ENTITY welcome.createAccount.label "Crea un compte">
-
-<!ENTITY welcome.useOldSync.label "Utilitzeu una versió antiga del Sync?">
-
-<!ENTITY signedOut.caption            "El vostre web a tot arreu">
 <!ENTITY signedOut.description        "Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.">
 <!ENTITY signedOut.accountBox.title   "Connecteu-vos amb un &syncBrand.fxAccount.label;">
-<!ENTITY signedOut.accountBox.create  "Crea un compte">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sincronitza en tots els dispositius">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
