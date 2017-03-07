@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "نوافذ متعددة السيرورات">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "مفتاح جوجل">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "مفتاح خدمة التموضع من موزيلا">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "الوضع الآمن">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "انسخ البيانات الخام إلى الحافظة">
 
 <!ENTITY aboutSupport.sandboxTitle "العزل">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "نداءات النظام المرفوضة">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "ثوان مضت">
+<!ENTITY aboutSupport.sandboxSyscallPID "معرف السيرورة">
+<!ENTITY aboutSupport.sandboxSyscallTID "معرف الخيط">
+<!ENTITY aboutSupport.sandboxSyscallProcType "نوع السيرورة">
+<!ENTITY aboutSupport.sandboxSyscallNumber "نداء النظام">
+<!ENTITY aboutSupport.sandboxSyscallArgs "المعطيات">
 
 <!ENTITY aboutSupport.safeModeTitle "جرّب الوضع الآمن">
 <!ENTITY aboutSupport.restartInSafeMode.label "أعِد التشغيل مع تعطيل الإضافات…">
