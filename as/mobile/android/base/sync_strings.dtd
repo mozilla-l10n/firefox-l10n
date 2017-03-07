@@ -77,11 +77,11 @@
 <!ENTITY fxaccount_status_more "অধিক&ellipsis;">
 
 
-<!ENTITY fxaccount_remove_account_dialog_title "Firefox একাওন্ট আতৰাব নে?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; এ আপোনাৰ একাওন্টৰ সৈতে চিঙ্ক বন্ধ কৰিব, কিন্তু এই ডিভাইচত আপোনাৰ কোনো ব্ৰাউছিং তথ্য নমচিব।">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Firefox একাওন্ট &formatS; আতৰোৱা হল।">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
