@@ -366,7 +366,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Dîroka lêgerînê nîşan bide">
 <!ENTITY pref_import_options "Vebijarkên anîna navê">
 <!ENTITY pref_import_android_summary "Bijare û raboriyê ji geroka herêmî bîne hundir">
-
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_history2 "Raboriya gerê">
 <!ENTITY pref_private_data_searchHistory "Dîroka lêgerînê">
 <!ENTITY pref_private_data_formdata2 "Raboriya forman">
@@ -495,10 +496,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Navê bikarhêner">
 <!ENTITY doorhanger_login_edit_password_hint "Şîfre">
 <!ENTITY doorhanger_login_edit_toggle "Şîfreyê nîşan bide">
-<!ENTITY doorhanger_login_edit_toast_error "Qeydkirina têketinê bi ser neket">
 <!ENTITY doorhanger_login_select_message "Şîfreyê ji &formatS;ê kopî bike?">
 <!ENTITY doorhanger_login_select_toast_copy "Şîfre li panoyê hat kopîkirin">
-<!ENTITY doorhanger_login_select_toast_copy_error "Nikare şîfreyê kopî bike">
 <!ENTITY doorhanger_login_select_action_text "Têketineke din hilbijêre">
 <!ENTITY doorhanger_login_select_title "Şîfreyê ji vê kopî bike">
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
