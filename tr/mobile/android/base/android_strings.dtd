@@ -387,6 +387,8 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Arama geçmişini göster">
 <!ENTITY pref_import_options "İçe aktarma seçenekleri">
 <!ENTITY pref_import_android_summary "Yer imlerini ve geçmişi yerel tarayıcıdan içe aktar">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Açık sekmeler">
 <!ENTITY pref_private_data_history2 "Tarama geçmişi">
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
@@ -518,10 +520,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Kullanıcı adı">
 <!ENTITY doorhanger_login_edit_password_hint "Parola">
 <!ENTITY doorhanger_login_edit_toggle "Parolayı göster">
-<!ENTITY doorhanger_login_edit_toast_error "Hesap kaydedilemedi">
 <!ENTITY doorhanger_login_select_message "Parolalar &formatS; kaynağından kopyalansın mı?">
 <!ENTITY doorhanger_login_select_toast_copy "Parola panoya kopyalandı">
-<!ENTITY doorhanger_login_select_toast_copy_error "Parola kopyalanamadı">
 <!ENTITY doorhanger_login_select_action_text "Başka bir hesap seçin">
 <!ENTITY doorhanger_login_select_title "Parolayı buradan kopyala">
 
