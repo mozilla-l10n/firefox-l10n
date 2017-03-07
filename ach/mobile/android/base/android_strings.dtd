@@ -546,7 +546,7 @@ size. -->
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
 <!ENTITY site_settings_title3       "Ter me kakube">
-<!ENTITY site_settings_cancel       "Ngol">
+<!ENTITY site_settings_cancel       "Juki">
 <!ENTITY site_settings_clear        "Jwa">
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
@@ -559,7 +559,7 @@ size. -->
 <!ENTITY masterpassword_confirm "Mok i cwil me donyo">
 
 <!ENTITY button_ok "Kakare">
-<!ENTITY button_cancel "Ngol">
+<!ENTITY button_cancel "Juki">
 <!ENTITY button_yes "Eyo">
 <!ENTITY button_no "Pe/Ku">
 <!ENTITY button_clear_data "Ywe tic">
@@ -707,7 +707,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session "Kare pa welo manyen">
 <!ENTITY exit_guest_session "Kat woko ki i Kare pa welo">
 <!ENTITY guest_session_dialog_continue "Mede anyim">
-<!ENTITY guest_session_dialog_cancel "Ngol">
+<!ENTITY guest_session_dialog_cancel "Juki">
 <!ENTITY new_guest_session_title "&brandShortName; dong bi nwoyo cakke">
 <!ENTITY new_guest_session_text2 "Ngat matye katic kwede pe bi neno data ni mo keken me yeny (calo donyo iyie ma kigwoko, gin mukato onyo alamabuk).\n\nKace welo ni otyeko, ki bikwanyo woko data gi me yeny kadong ki bidwoko kare mamegi.">
 <!ENTITY guest_browsing_notification_title "Kicako yeny pa welo">

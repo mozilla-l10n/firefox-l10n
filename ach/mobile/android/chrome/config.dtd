@@ -15,7 +15,7 @@
 <!ENTITY newPref.numberPlaceholder     "Ket namba">
 
 <!ENTITY newPref.toggleButton          "Lok">
-<!ENTITY newPref.cancelButton          "Juk">
+<!ENTITY newPref.cancelButton          "Juki">
 
 <!ENTITY contextMenu.copyPrefName      "Lok nying">
 <!ENTITY contextMenu.copyPrefValue     "Lok wel">
