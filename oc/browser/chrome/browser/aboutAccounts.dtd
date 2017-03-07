@@ -6,7 +6,6 @@
 
 <!ENTITY aboutAccountsConfig.description "Connectatz-vos per sincronizar vòstres onglets, marcapaginas, senhals &amp; plan mai encara.">
 <!ENTITY aboutAccountsConfig.startButton.label "Aviar">
-<!ENTITY aboutAccountsConfig.useOldSync.label "Utilizatz una anciana version de Sync ?">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferéncias de Sync">
 <!ENTITY aboutAccounts.noConnection.title "Sens connexion">
 <!ENTITY aboutAccounts.noConnection.description "Vos cal èsser connectat per aviar la session.">

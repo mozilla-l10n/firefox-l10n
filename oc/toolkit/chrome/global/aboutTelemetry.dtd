@@ -62,9 +62,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NÒTA : Lo desbugatge de las requèstas SQL lentas es activat. De requèstas SQL completas pòdon èsser afichadas çaijós, mas seràn pas mandadas per telemetria.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Recuperar los noms de foncions per las pilas dels blocatges">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Afichar las donadas brutas dels blocatges">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadena de caractèrs o expression regulara)">
 

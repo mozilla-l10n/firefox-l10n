@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 <!ENTITY recentBookmarks.label "Marcats recentament">
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Afichar los Marcats recentament">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -241,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
 <!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
+
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
 
@@ -350,6 +352,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
