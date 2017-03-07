@@ -356,6 +356,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Gjin iepen ljepblêden">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Set ljepblêdsyngronisaasje oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
@@ -884,7 +888,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.forgetButton            "Ferjit!">
 
 <!ENTITY panicButton.thankyou.msg1                "Jo resinte skiednis is wiskje.">
-<!ENTITY panicButton.thankyou.msg2                "Feilich browse!">
+<!ENTITY panicButton.thankyou.msg2                "Feilich sneupje!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Tankewol!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mear ynfo oer DRM…">
