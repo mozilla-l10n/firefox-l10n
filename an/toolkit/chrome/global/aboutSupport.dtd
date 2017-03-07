@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Finestras multiproceso">
 
+
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
 
 <!ENTITY aboutSupport.showDir.label "Ubrir o directorio">
@@ -106,6 +108,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar os datos crudos en o portafuellas">
 
 <!ENTITY aboutSupport.sandboxTitle "Borrador">
+
+
+
+
+
+
+
+
 
 <!ENTITY aboutSupport.safeModeTitle "Intentar en Modo Seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con os complementos desactivaus…">

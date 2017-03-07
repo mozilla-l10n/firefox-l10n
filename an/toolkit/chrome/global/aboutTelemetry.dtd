@@ -78,9 +78,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  AVISO: A depuración de consultas SQL lentas ye activada. Talment as cadenas SQL completas se amuestren abaixo, pero no se ninviarán ta Telemetría.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Recullir os nombres d'as funcions d'as pilas que se penchen">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Amostrar os datos zanceros d'as penchadas">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">
 
