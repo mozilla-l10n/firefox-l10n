@@ -80,11 +80,11 @@
 <!ENTITY fxaccount_status_more "Muioc\u0027h&ellipsis;">
 <!ENTITY fxaccount_remove_account "Digennaskañ&ellipsis;">
 
-<!ENTITY fxaccount_remove_account_dialog_title "Dilemel kont Firefox ?">
-<!ENTITY fxaccount_remove_account_dialog_message "&brandShortName; a arsavo ar goubredañ gant ho kont, ne zilamo ket avat ho roadennoù merdeiñ war an trevnad-mañ.">
+
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast "Dilamet eo bet &formatS; kont Firefox.">
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
 
 <!ENTITY fxaccount_enable_debug_mode "Diweredekaat ar mod diveugañ">
 <!-- Localization note: this is the name shown by the Android system
