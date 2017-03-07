@@ -176,14 +176,6 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "ਤੁਹਾਡਾ ਕਨੈਕਸ਼ਨ ਸੁਰੱਖਿਅਤ ਨਹੀਂ ਹੈ">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "ਤਕਨੀਕੀ ਜਾਣਕਾਰੀ: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "ਤਕਨੀਕੀ">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> ਸੁਰੱਖਿਆ ਤਕਨੀਕ ਨੂੰ ਵਰਤਦੀ ਹੈ, ਜੋ ਕਿ ਪੁਰਾਣੀ ਹੈ ਅਤੇ ਹਮਲੇ ਦਾ ਨਿਸ਼ਾਨ ਬਣ ਸਕਦੀ ਹੈ। ਹਮਲਾਵਰ ਉਸ ਜਾਣਕਾਰੀ ਨੂੰ ਸੌਖੀ ਤਰ੍ਹਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ, ਜਿਸ ਨੂੰ ਤੁਸੀਂ ਸੁਰੱਖਿਆ ਸਮਝਦੇ ਹੋ।">
-<!ENTITY weakCryptoAdvanced.override "(ਸੁਰੱਖਿਅਤ ਨਹੀਂ) ਪੁਰਾਣੀ ਹੋਈ ਸੁਰੱਖਿਆ ਨਾਲ ਹੀ <span class='hostname'></span> ਮੁੜ-ਲੋਡ ਕਰਨ ਦੀ ਕੋਸ਼ਿਸ਼ ਕਰੋ।">
-
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
