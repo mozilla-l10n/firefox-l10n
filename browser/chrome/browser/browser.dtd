@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Wys alle boekmerke">
 <!ENTITY recentBookmarks.label "Onlangs geboekmerk">
 <!ENTITY otherBookmarksCmd.label "Ander boekmerke">
+
 <!ENTITY bookmarksToolbarChevron.tooltip "Wys meer boekmerke">
 <!ENTITY showRecentlyBookmarked.label     "Wys onlangs geboekmerk">
 <!ENTITY showRecentlyBookmarked.accesskey "b">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Boekmerke">
 <!ENTITY bookmarksMenuButton.other.label "Ander boekmerke">
+
 <!ENTITY viewBookmarksSidebar2.label        "Wys boekmerkkantbalk">
 <!ENTITY viewBookmarksToolbar.label         "Vertoon boekmerknutsbalk">
 
@@ -356,6 +358,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.">
