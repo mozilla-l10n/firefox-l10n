@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Prøv igjen">
 <!ENTITY returnToPreviousPage.label "Gå tilbake">
 <!ENTITY advanced.label "Avansert">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -31,9 +31,7 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikke å laste denne siden av ukjent årsak.</p>">
 
 <!ENTITY captivePortal.title "Logg inn på nettverket">
-<!ENTITY captivePortal.longDesc "<p>Dette nettverket kan kreve at du logger inn for å få tilgang til internett.</p>">
 
-<!ENTITY openPortalLoginPage.label "Åpne innloggingsside">
 
 <!ENTITY malformedURI.title "Adressen er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skrives vanligvis på formen <strong>http://www.eksempel.no/</strong></li> <li>Kontroller at du bruker fremover-skråstrek (f.eks. <strong>/</strong>).</li> </ul>">
@@ -105,17 +103,9 @@ was trying to connect. -->
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avansert info: SSL_ERROR_UNSUPPORTED_VERSION">
 
-<!ENTITY weakCryptoUsed.title "Tilkoblingen din er ikke sikker">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Avansert info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avansert">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruker sikkerhetsteknologi som er utdatert og sårbar for angrep. En angriper kan enkelt hente ut informasjon som du tror er trygg.">
-<!ENTITY weakCryptoAdvanced.override "(Ikke sikker) Prøv å laste <span class='hostname'></span> med utdatert sikkerhet.">
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; koblet ikke til <span id='wrongSystemTime_URL'/> fordi klokken ser ut til å vise feil tid og dette hindrer en sikker tilkobling.</p> <p>Datamaskinens klokke er satt til <span id='wrongSystemTime_systemDate'/>, når den burde være <span id='wrongSystemTime_actualDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; koblet ikke til <span id='wrongSystemTimeWithoutReference_URL'/> fordi klokken ser ut til å vise feil tid og dette hindrer en sikker tilkobling.</p> <p>Datamaskinens klokke er satt til <span id='wrongSystemTimeWithoutReference_systemDate'/>. For å løse dette problemet, endre dato- og tidsinnstillinger for å få rett tid.</p>">
 
