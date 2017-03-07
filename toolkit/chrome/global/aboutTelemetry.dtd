@@ -80,9 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  MEGJEGYZÉS: A lassú SQL hibakeresés be van kapcsolva. Alább megjelenhetnek teljes SQL karakterláncok, de ezek nem kerülnek elküldésre a telemetriának.">
 
-<!ENTITY aboutTelemetry.fetchSymbols "  Függvénynevek lekérése a lefagyási vermekhez">
 
-<!ENTITY aboutTelemetry.hideSymbols "  Nyers adatok megjelenítése a lefagyásokból">
 
 <!ENTITY aboutTelemetry.filterText "Szűrő (karakterláncok vagy /regexp/)">
 

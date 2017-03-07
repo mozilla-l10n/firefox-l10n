@@ -1,28 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- The page shown when not logged in... -->
-
-<!ENTITY setupButton.label          "A &syncBrand.fullName.label; beállítása">
-<!ENTITY setupButton.accesskey      "A">
-<!ENTITY weaveDesc.label            "A &syncBrand.fullName.label; lehetővé teszi az előzmények, könyvjelzők, jelszavak és megnyitott lapok elérését minden eszközön.">
 <!-- The page shown when logged in... -->
-<!-- Login error feedback -->
 
 
-<!ENTITY updatePass.label             "Frissítés">
-<!ENTITY resetPass.label              "Törlés">
-<!-- Manage Account -->
-
-<!ENTITY manageAccount.label          "Fiók kezelése">
-<!ENTITY manageAccount.accesskey      "F">
-<!ENTITY changePassword2.label        "Jelszó módosítása…">
-<!ENTITY myRecoveryKey.label          "Saját helyreállítókulcs">
-<!ENTITY resetSync2.label             "Sync alaphelyzet…">
-
-<!ENTITY pairDevice.label             "Eszköz párosítása">
-
-<!ENTITY syncMy.label               "Szinkronizálandó">
 <!ENTITY engine.bookmarks.label     "Könyvjelzők">
 <!ENTITY engine.bookmarks.accesskey "K">
 <!ENTITY engine.tabs.label2         "Nyitott lapok">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "K">
 <!-- Device Settings -->
 
-<!ENTITY syncDeviceName.label       "Eszköznév:">
 <!ENTITY fxaSyncDeviceName.label       "Eszköznév">
 <!ENTITY changeSyncDeviceName.label "Eszköznév módosítása…">
 <!ENTITY changeSyncDeviceName.accesskey "m">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "g">
 <!ENTITY saveChangeSyncDeviceName.label "Mentés">
 <!ENTITY saveChangeSyncDeviceName.accesskey "M">
-<!ENTITY unlinkDevice.label           "Eszköz deaktiválása">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "A szolgáltatás feltételei">
-<!ENTITY prefs.ppLink.label         "Adatvédelmi irányelvek">
-<!-- Firefox Accounts stuff -->
-
 <!ENTITY fxaPrivacyNotice.link.label "Adatvédelmi megjegyzés">
-<!ENTITY determiningAcctStatus.label     "Fiókállapot meghatározása…">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
@@ -84,21 +59,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "E-mail elfelejtése">
 <!ENTITY forget.accesskey            "l">
 
-<!ENTITY welcome.description "Érje el lapjait, könyvjelzőit, jelszavait és sok mást bárhol is használja a &brandShortName;ot.">
-<!ENTITY welcome.signIn.label "Bejelentkezés">
-<!ENTITY welcome.createAccount.label "Fiók létrehozása">
-
-<!ENTITY welcome.useOldSync.label "A Sync régebbi verzióját használja?">
-
-<!ENTITY signedOut.caption            "Vigye magával a webet">
 <!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">
 <!ENTITY signedOut.accountBox.title   "Kapcsolódjon egy &syncBrand.fxAccount.label;kal">
-<!ENTITY signedOut.accountBox.create  "Fiók létrehozása">
+
 <!ENTITY signedOut.accountBox.create.accesskey  "F">
-<!ENTITY signedOut.accountBox.signin  "Bejelentkezés">
+
 <!ENTITY signedOut.accountBox.signin.accesskey  "B">
 
-<!ENTITY signedIn.engines.label       "Szinkronizáljon minden eszközén">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
