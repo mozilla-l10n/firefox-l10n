@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Ställ in &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "S">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; ger dig tillgång till din historik, dina bokmärken, lösenord och öppna flikar på alla dina enheter.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Uppdatera">
-<!ENTITY resetPass.label              "Återställ">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Hantera konto">
-<!ENTITY manageAccount.accesskey      "k">
-<!ENTITY changePassword2.label        "Byt lösenord…">
-<!ENTITY myRecoveryKey.label          "Min återställningsnyckel">
-<!ENTITY resetSync2.label             "Återställ Sync…">
-
-<!ENTITY pairDevice.label             "Para ihop enheter">
-
-<!ENTITY syncMy.label               "Synka">
 <!ENTITY engine.bookmarks.label     "Bokmärken">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Öppna flikar">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "T">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Enhetens namn:">
 <!ENTITY fxaSyncDeviceName.label       "Enhetens namn">
 <!ENTITY changeSyncDeviceName.label "Byt enhetens namn…">
 <!ENTITY changeSyncDeviceName.accesskey "h">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Spara">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-<!ENTITY unlinkDevice.label           "Avregistrera enheten">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjänstevillkor">
-<!ENTITY prefs.ppLink.label         "Sekretesspolicy">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Integritetsinfo">
-<!ENTITY determiningAcctStatus.label     "Undersöker status för ditt konto…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
 <!ENTITY forget.accesskey            "F">
-
-<!ENTITY welcome.description "Kom åt dina flikar, bokmärken, lösenord och annat var du än använder &brandShortName;.">
-<!ENTITY welcome.signIn.label "Logga In">
-<!ENTITY welcome.createAccount.label "Skapa konto">
-
-<!ENTITY welcome.useOldSync.label "Använder du en äldre version av Sync?">
 
 <!ENTITY signedOut.caption            "Ta din webb med dig">
 <!ENTITY signedOut.description        "Synkronisera dina bokmärken, historik, flikar, lösenord, tillägg och inställningar på alla dina enheter.">
