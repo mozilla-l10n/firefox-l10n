@@ -712,7 +712,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Această pagină este stocată pe calculator.">
 <!ENTITY identity.connectionVerified2 "Ești conectat în mod securizat la acest site, deținut de:">
 <!ENTITY identity.connectionInternal "Aceasta este o pagină securizată &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Autentificările introduse pe această pagină ar putea fi compromise.">
+<!ENTITY identity.insecureLoginForms2 "Datele de autentificare introduse pe această pagină ar putea fi compromise.">
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "&brandShortName; a blocat părți ale acestei pagini care nu sunt sigure.">
