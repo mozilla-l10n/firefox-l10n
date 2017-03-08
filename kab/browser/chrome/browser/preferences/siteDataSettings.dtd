@@ -9,12 +9,12 @@
 <!ENTITY     usageCol.label                "Aklas">
 <!ENTITY     searchPlaceHolder             "Nadi:">
 <!ENTITY     searchPlaceHolder.accesskey   "S">
-
-
-
-
-
-
-
+<!ENTITY     removeSelected.label          "Kkes tafrant">
+<!ENTITY     removeSelected.accesskey      "K">
+<!ENTITY     save.label                    "Sekles asnifel">
+<!ENTITY     save.accesskey                "S">
+<!ENTITY     cancel.label                  "Sefsex">
+<!ENTITY     cancel.accesskey              "S">
+<!ENTITY     removingDialog.title          "Tuksa n isefka n usmel">
 
 
