@@ -9,8 +9,11 @@
 <!ENTITY     usageCol.label                "Memöia">
 <!ENTITY     searchPlaceHolder             "Çerca">
 <!ENTITY     searchPlaceHolder.accesskey   "e">
+<!ENTITY     removeSelected.label          "Scancella seleçionæ">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Sarva cangiamenti">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Anulla">
 <!ENTITY     cancel.accesskey              "A">
+<!ENTITY     removingDialog.title          "Scancella dæti do scito">
+<!ENTITY     siteTree.label                "I segoenti cookie saian scancelæ:">
