@@ -681,8 +681,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Innstillingar for blokkering av sprettoppvindauge …">
-<!ENTITY editPopupSettings.label "Innstillingar for blokkering av sprettoppvindauge …">
+<!ENTITY editPopupSettingsUnix.label "Innstillingar for blokkering av sprettoppvindauge…">
+<!ENTITY editPopupSettings.label "Innstillingar for blokkering av sprettoppvindauge…">
 <!ENTITY editPopupSettings.accesskey "n">
 <!ENTITY dontShowMessage.accesskey "I">
 
@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "B">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Søk på denne sida …">
+<!ENTITY findOnCmd.label     "Søk på denne sida…">
 <!ENTITY findOnCmd.accesskey "S">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Søk igjen">
@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
-<!ENTITY spellAddDictionaries.label "Legg til ordbøker …">
+<!ENTITY spellAddDictionaries.label "Legg til ordbøker…">
 <!ENTITY spellAddDictionaries.accesskey "L">
 
 <!ENTITY editBookmark.done.label                     "Ferdig">
@@ -722,9 +722,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Sambandet til denne sida er ikkje privat. Informasjon du sender kan sjåast av andre (slik som passord, meldingar, kredittkort osb.).">
-<!ENTITY identity.description.insecureLoginForms "Innloggingsinformasjonen du skreiv inn på denne sida er ikkje trygg og kan vera kompromittert.">
+<!ENTITY identity.description.insecureLoginForms "Innloggingsinformasjonen du skreiv inn på denne sida er ikkje trygg og kan difor verte kompromittert.">
 <!ENTITY identity.description.weakCipher "Sambandet til denne nettsida brukar ei svak kryptering og er ikkje privat.">
-<!ENTITY identity.description.weakCipher2 "Andre personar kan sjå informasjonen din eller endra innhald/måten sida oppfører seg på.">
+<!ENTITY identity.description.weakCipher2 "Andre personar kan sjå informasjon eller endre måten nettsida oppfører seg på.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; har blokkert delar av denne sida som ikkje er trygg.">
 <!ENTITY identity.description.passiveLoaded "Sambandet til denne nettstaden er ikkje privat og informasjon du deler med denne sida kan sjåast av andre.">
 <!ENTITY identity.description.passiveLoaded2 "Denne nettsida har innhald som ikkje er trygt (t.d. bilde).">
