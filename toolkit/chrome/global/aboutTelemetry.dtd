@@ -156,7 +156,13 @@ Ping
   Huom.: Hidas SQL-virheenetsintä on päällä. Täydelliset SQL-lausekkeet saattavat näkyä alla, mutta niitä ei lähetetä mittaustietona.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Nouda funktioiden nimet pinoihin
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Näytä muotoilematon pinodata
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Suodata (merkkijono tai /säännöllinen lause/)
