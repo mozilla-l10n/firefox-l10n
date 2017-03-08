@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Rannañ roadennoù ouzhpenn (d.l.e. Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
 
 <!ENTITY crashReporterDesc2.label         "A drugarez d'an danevelloù sac'hadenn eo gouest &vendorShortName; da gempenn kudennoù ha da lakaat da vezañ stabiloc'h ha suroc'h ho merdeer.">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Hizivaat">
 
+<!ENTITY updateApplication.label         "Hizivadurioù evit &brandShortName; :">
 <!ENTITY updateAuto1.label               "Staliañ an hizivadennoù ent emgefreek (erbedet : diogelroez gwellaet)">
 <!ENTITY updateAuto1.accesskey           "h">
 <!ENTITY updateCheckChoose.label         "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
 
+<!ENTITY autoUpdateOthers.label          "Hizivaat ent emgefreek">
 <!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
 <!ENTITY enableSearchUpdate.accesskey    "K">
 
@@ -114,7 +116,7 @@
 <!ENTITY certPersonal.label              "Azgoulennoù">
 <!ENTITY certPersonal.description        "Pa vez goulennet ma zesteni personel gant un dafariad:">
 <!ENTITY selectCerts.auto                "Diuz unan ent emgefreek">
-
+<!ENTITY selectCerts.auto.accesskey      "D">
 <!ENTITY selectCerts.ask                 "Goulenn diganin bewech">
 <!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Goulenn kadarnaat talvoudegezh an testenioù gant an dafariadoù OCSP">
