@@ -19,6 +19,8 @@
 <!ENTITY feedFolder.accesskey        "r">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffMinutes.label           "minutos">
+<!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "dias">
 <!ENTITY biffDays.accesskey          "d">
 
