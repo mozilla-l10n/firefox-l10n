@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Зберігати статті в:">
 <!ENTITY feedFolder.accesskey        "з">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Перевіряти наявність нових статей кожні ">
+<!ENTITY biffStart.accesskey         "т">
+<!ENTITY biffMinutes.label           "хвилин">
+<!ENTITY biffMinutes.accesskey       "х">
+<!ENTITY biffDays.label              "днів">
+<!ENTITY biffDays.accesskey          "н">
+<!ENTITY recommendedUnits.label      "Видавець рекомендує:">
+
 <!ENTITY quickMode.label             "Показувати короткий опис статті замість завантаження веб-сторінки">
 <!ENTITY quickMode.accesskey         "к">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Введіть префікс мітки">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Додати">
 <!ENTITY button.addFeed.accesskey    "Д">
 <!ENTITY button.updateFeed.label     "Оновити">

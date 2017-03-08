@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Отримати листи">
 <!ENTITY folderContextGetMessages.accesskey "О">
+<!ENTITY folderContextPauseAllUpdates.label "Призупинити всі оновлення">
+<!ENTITY folderContextPauseUpdates.label "Призупинити оновлення">
+<!ENTITY folderContextPauseUpdates.accesskey "П">
 <!ENTITY folderContextOpenInNewWindow.label "Відкрити в новому вікні">
 <!ENTITY folderContextOpenInNewWindow.accesskey "н">
 <!ENTITY folderContextOpenNewTab.label "Відкрити в новій вкладці">
