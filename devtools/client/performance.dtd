@@ -41,13 +41,13 @@
 <!-- LOCALIZATION NOTE (performanceUI.toolbar.*): These strings are displayed
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Водопад">
-<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Shows the different operations the browser is performing during the recording, laid out sequentially as a waterfall.">
+<!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Показывает различные операции, которые выполняются браузером во время записи, расположенные последовательно в виде водопада.">
 <!ENTITY performanceUI.toolbar.js-calltree "Дерево вызовов">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Highlights JavaScript functions where the browser spent most time during the recording.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Выводит JavaScript функции, на которые браузер потратил больше всего времени при записи.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Размещения">
-<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Shows where memory was allocated during the recording.">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "Показывает, как была распределена память во время записи.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
-<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Shows the JavaScript call stack over the course of the recording.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Показывает стек вызовов JavaScript во время записи.">
 <!ENTITY performanceUI.toolbar.memory-flamegraph "Allocations Flame Chart">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
