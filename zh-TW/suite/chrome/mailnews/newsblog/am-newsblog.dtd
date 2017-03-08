@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label "啟動時檢查是否有新文章">
 <!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY biffAll.label "開啟更新所有資訊來源">
+<!ENTITY biffAll.accesskey "E">
 
+<!ENTITY newFeedSettings.label "新資訊來源的預設設定">
 
 <!ENTITY manageSubscriptions.label "管理訂閱清單…">
 <!ENTITY manageSubscriptions.accesskey "M">

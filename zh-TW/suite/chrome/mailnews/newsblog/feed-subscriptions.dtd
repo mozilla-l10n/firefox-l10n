@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "保存文章於:">
 <!ENTITY feedFolder.accesskey        "S">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "新文章檢查頻率: ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "分鐘">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "天">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "發布者推薦:">
+
 <!ENTITY quickMode.label             "顯示文章摘要而非載入網頁">
 <!ENTITY quickMode.accesskey         "h">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "輸入標籤前綴">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "新增">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.updateFeed.label     "更新">
