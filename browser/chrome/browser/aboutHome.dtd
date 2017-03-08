@@ -23,7 +23,7 @@
 <!ENTITY abouthome.rightsSnippet "&brandFullName; गैर लाभकारी Mozilla प्रतिष्ठान का मुफ्त और मुक्त स्रोत सॉफ्टवेयर है. <a>अपने अधिकार जानें…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "पुस्तचिह्न">
-<!ENTITY abouthome.historyButton.label   " इतिहास">
+<!ENTITY abouthome.historyButton.label   "इतिहास">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "विकल्पों">

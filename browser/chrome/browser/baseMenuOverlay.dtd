@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "एम">
-<!ENTITY minimizeWindow.label     " न्यूनतम">
-<!ENTITY bringAllToFront.label    " सभी को सामने लाएँ">
+<!ENTITY minimizeWindow.label     "न्यूनतम करें">
+<!ENTITY bringAllToFront.label    "सभी को सामने लाएँ">
 <!ENTITY zoomWindow.label         " बड़ा-छोटा करें">
 <!ENTITY windowMenu.label         " विंडो">
 

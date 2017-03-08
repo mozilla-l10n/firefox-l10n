@@ -50,10 +50,10 @@
 <!ENTITY bottomLinks.license        "लाइसेंसिंग सूचना">
 <!-- LOCALIZATION NOTE (bottomLinks.rights): This is a link title that links to about:rights. -->
 
-<!ENTITY bottomLinks.rights         " अंत्य उपयोक्ता अधिकार">
+<!ENTITY bottomLinks.rights         "अंत्य उपयोक्ता अधिकार">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        " गोपनीयता नीति">
+<!ENTITY bottomLinks.privacy        "गोपनीयता नीति">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "अद्यतन के लिए जाँच रहा है…">
