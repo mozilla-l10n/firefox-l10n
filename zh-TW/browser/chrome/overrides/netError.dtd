@@ -46,6 +46,7 @@
 
 <!ENTITY captivePortal.title "登入到網路">
 
+<!ENTITY openPortalLoginPage.label2 "開啟網路登入頁面">
 
 <!ENTITY malformedURI.title "不正確的網址">
 <!ENTITY malformedURI.longDesc "<ul>
