@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Tilgjenge">
 
-<!ENTITY useCursorNavigation.label       "Alltid bruk piltastane for å navigera innanfor nettsider">
+<!ENTITY useCursorNavigation.label       "Bruk alltid piltastane for å navigere innanfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
 <!ENTITY searchOnStartTyping.label       "Søk etter tekst når eg byrjar å skriva">
 <!ENTITY searchOnStartTyping.accesskey   "k">

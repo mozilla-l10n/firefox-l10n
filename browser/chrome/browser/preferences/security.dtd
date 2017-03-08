@@ -4,13 +4,13 @@
 
 <!ENTITY  general.label                 "Generelt">
 
-<!ENTITY  warnOnAddonInstall.label        "Åtvar meg når nettstadar freistar å installera programtillegg">
+<!ENTITY  warnOnAddonInstall.label        "Åtvar meg når nettstadar prøver å installere programtillegg">
 <!ENTITY  warnOnAddonInstall.accesskey    "Å">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Blokker farleg og villeiande innhald">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
@@ -33,8 +33,8 @@
 
 <!ENTITY  useMasterPassword.label        "Bruk eit hovudpassord">
 <!ENTITY  useMasterPassword.accesskey    "r">
-<!ENTITY  changeMasterPassword.label     "Endra hovudpassord …">
+<!ENTITY  changeMasterPassword.label     "Endre hovudpassord…">
 <!ENTITY  changeMasterPassword.accesskey "d">
 
-<!ENTITY  savedLogins.label              "Lagra innloggingar …">
+<!ENTITY  savedLogins.label              "Lagre innloggingar…">
 <!ENTITY  savedLogins.accesskey          "L">
