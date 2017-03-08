@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "निजी ब्राउजिङ्ग">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "तपाईँलाई अग्यात बनाउने छैन">
 <!ENTITY aboutPrivateBrowsing.note.after                 "इन्टरनेटमा। तपाईँको कम्पनी वा इन्टरनेट सेवा प्रदानकर्ताले तपाईँले प्रयोग गर्नु भएको पेजको विवरण पाउन सक्छन्। ">
-
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "बारेमा थप जान्नुहोस">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "निजी ब्राउजिङ">
 
 
 <!ENTITY trackingProtection.title                        "ट्रयाक विरुद्धको सुरक्षा">
