@@ -2,15 +2,35 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY firstrun_panel_title_welcome "આપનું સ્વાગત છે">
 
-<!ENTITY firstrun_sync_title "સીંક">
+<!ENTITY firstrun_urlbar_message "&brandShortName; મા આપનું સ્વાગત છે">
+<!ENTITY firstrun_bookmarks_title "ઇતિહાસ">
+<!ENTITY firstrun_bookmarks_message "તમારી faves, આગળ અને કેન્દ્ર">
+<!ENTITY firstrun_data_title "માહિતી">
+<!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
+<!ENTITY firstrun_sync_title "સમન્વય">
+<!ENTITY firstrun_sync_message "&brandShortName;, હંમેશા તમારી બાજુ ">
+<!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
+<!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
+<!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
+<!ENTITY firstrun_button_notnow "હમણા નહિ">
+<!ENTITY firstrun_button_next "આગામી">
 
+<!ENTITY firstrun_tabqueue_title "કડીઓ">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "ટૅબ કતાર ચાલુ કરો">
+<!ENTITY firstrun_tabqueue_subtext_off "પાછળથી માટે કડીઓ સાચવો &brandShortName; જ્યારે તેમને અન્ય એપ્લિકેશન્સ ટેપ કરો.">
 
+<!ENTITY firstrun_tabqueue_message_on "સફળતા!">
 
+<!ENTITY firstrun_readerview_title "લેખ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "ક્લટર ગુમાવો">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "તમે">
+<!ENTITY firstrun_account_message "&brandShortName; બીજા ઉપકરણ પર છે?">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -21,6 +41,7 @@
 <!ENTITY  switch_to_tab "ટૅબ બદલો">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "ઑફલાઇન આવૃત્તિ દર્શાવે છે">
 
 <!ENTITY  crash_reporter_title "&brandShortName; ભંગાણનો અહેવાલ આપનાર">
 <!ENTITY  crash_message2 "&brandShortName; માં સમસ્યા હતી અને ભાંગી ગયુ. જ્યારે તમે પુનઃશરૂ કરો ત્યારે તમારી ટૅબ &brandShortName; પર યાદી થવી જોઇએ.">
@@ -35,28 +56,40 @@
 <!ENTITY  crash_close_label "બંધ કરો">
 <!ENTITY  crash_restart_label "&brandShortName; પુનઃશરૂ કરો">
 
+<!ENTITY url_bar_default_text2 "શોધ અથવા સરનામું દાખલ કરો">
 
 <!ENTITY bookmark "બુકમાર્ક">
-<!ENTITY bookmark_added "બુકમાર્ક ઉમેરાઇ">
+<!ENTITY bookmark_remove "બુકમાર્ક કાઢો">
+<!ENTITY bookmark_added "બુકમાર્ક ઉમેરો">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "પહેલેથી જ બુકમાર્ક">
 <!ENTITY bookmark_removed "બુકમાર્ક દૂર થઇ">
 <!ENTITY bookmark_updated "બુકમાર્ક સુધારાઇ">
 <!ENTITY bookmark_options "વિકલ્પો">
+<!ENTITY screenshot_added_to_bookmarks "સ્ક્રીનશૉટ બુકમાર્ક્સમાં ઉમેરી ગયો">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "સ્ક્રીનશૉટ્સ">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "વાંચન યાદી">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; વસ્તુઓ">
+<!ENTITY bookmark_folder_one_item "1 વસ્તુ">
 
+<!ENTITY reader_saved_offline "સાચવવામાં આવી ઑફલાઇન હોવા પર">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "ફેરફાર">
 
 <!ENTITY history_today_section "આજે">
 <!ENTITY history_yesterday_section "ગઇ કાલે">
+<!ENTITY history_week_section3 "છેલ્લા 7 દિવસ">
+<!ENTITY history_older_section3 "6 મહિનાઓ કરતાં જૂનું">
 
 <!ENTITY search "શોધો">
 <!ENTITY reload "પુનઃલાવો">
@@ -68,12 +101,16 @@
 <!ENTITY edit_mode_cancel "રદ કરો">
 
 <!ENTITY close_tab "ટૅબ બંધ કરો">
+<!ENTITY one_tab "1 ટેબ">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
+<!ENTITY num_tabs2 "&formatD; ટેબ">
 <!ENTITY new_tab_opened "નવી ટૅબ ખૂલી">
+<!ENTITY new_private_tab_opened "નવી ખાનગી ટૅબ ખૂલી">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "સ્વિચ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -81,37 +118,54 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "વગાડવા આ ઓડિયો – &formatS;">
 
 <!ENTITY settings "સેટીંગ">
 <!ENTITY settings_title "સેટીંગ">
+<!ENTITY pref_category_general "સામાન્ય">
+<!ENTITY pref_category_general_summary3 "હોમ, ભાષા, ટેબ કતાર">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "ભાષા">
+<!ENTITY pref_category_language_summary "તમારા બ્રાઉઝરની ભાષા બદલો">
+<!ENTITY pref_browser_locale "બ્રાઉઝર ભાષા">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "સિસ્ટમ ડિફૉલ્ટ">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "&brandShortName; માં ઉમેરો">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "બુકમાર્ક">
+<!ENTITY overlay_share_bookmark_btn_label_already "પહેલેથી જ બુકમાર્ક">
+<!ENTITY overlay_share_send_other "બીજા ઉપકરણ પર મોકલો">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; માં ખોલો">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "બીજા ઉપકરણ પર મોકલો">
+<!ENTITY overlay_share_no_url "કોઈ લિંક આ શેર મળી નથી">
+<!ENTITY overlay_share_select_device "ઉપકરણને પસંદ કરો">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
 
 <!ENTITY pref_category_search3 "શોધો">
+<!ENTITY pref_category_accessibility "ઉપલ્બધતા">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
+<!ENTITY pref_category_logins "પ્રવેશો">
 <!ENTITY pref_learn_more "વધુ શીખો">
 <!ENTITY pref_category_installed_search_engines "સ્થાપિત શોધ યંત્રો">
 <!ENTITY pref_category_add_search_providers "વધુ શોધ પ્રોવાઇડરો ઉમેરો">
