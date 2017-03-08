@@ -820,14 +820,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som vert delt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
-<!ENTITY getUserMedia.selectMicrophone.label "Mikrofon som blir delt:">
+<!ENTITY getUserMedia.selectMicrophone.label "Mikrofon som vert delt:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Lyd frå fana vert delt.">
-<!ENTITY getUserMedia.allWindowsShared.message "Alle synlege vindauge på skjermen vil delast.">
+<!ENTITY getUserMedia.allWindowsShared.message "Alle synlege vindauge på skjermen vil bli delte.">
 
 <!ENTITY trackingProtection.title "Sporingsvern">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spora nettlesinga di.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spora nettlesinga di. Du har slått av vern.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokkerer delar av sida som kan spore nettlesinga di.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Denne sida inneheld element som kan spore nettlesinga di. Du har slått av vern.">
 <!ENTITY trackingProtection.notDetected3 "Ingens sporingselement funne på denne sida.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
