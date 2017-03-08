@@ -9,6 +9,7 @@
 <!ENTITY     usageCol.label                "Memöia">
 <!ENTITY     searchPlaceHolder             "Çerca">
 <!ENTITY     searchPlaceHolder.accesskey   "e">
+<!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Sarva cangiamenti">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Anulla">
