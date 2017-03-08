@@ -25,6 +25,7 @@
 <!ENTITY biffMinutes.accesskey       "m">
 <!ENTITY biffDays.label              "dagen">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Tip fan de útjouwer:">
 
 <!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside">
 <!ENTITY quickMode.accesskey         "A">
