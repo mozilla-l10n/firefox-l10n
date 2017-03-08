@@ -16,3 +16,4 @@
 <!ENTITY     cancel.label                  "取消">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "移除網站資料">
+<!ENTITY     siteTree.label                "下列網站的 Cookie 將被移除:">
