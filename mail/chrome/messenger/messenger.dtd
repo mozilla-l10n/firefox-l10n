@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Receber mensagens">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextPauseAllUpdates.label "Pausar todas as atualizações">
+<!ENTITY folderContextPauseUpdates.label "Pausar atualizações">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Abrir em nova janela">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Abrir em nova aba">
