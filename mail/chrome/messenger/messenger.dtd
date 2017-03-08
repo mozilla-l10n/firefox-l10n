@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Berjochten ophelje">
 <!ENTITY folderContextGetMessages.accesskey "B">
+<!ENTITY folderContextPauseAllUpdates.label "Alle fernijingen pausearje">
+<!ENTITY folderContextPauseUpdates.label "Fernijingen pausearje">
+<!ENTITY folderContextPauseUpdates.accesskey "p">
 <!ENTITY folderContextOpenInNewWindow.label "Iepenje yn nij skerm">
 <!ENTITY folderContextOpenInNewWindow.accesskey "s">
 <!ENTITY folderContextOpenNewTab.label "Iepenje yn nij ljepblêd">

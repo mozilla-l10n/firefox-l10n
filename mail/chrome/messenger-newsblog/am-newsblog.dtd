@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Op nije artikelen kontrolearje by opstarten">
 <!ENTITY loginAtStartup.accesskey      "o">
+<!ENTITY biffAll.label                 "Fernijingen foar alle feeds ynskeakelje">
+<!ENTITY biffAll.accesskey             "F">
 
+<!ENTITY newFeedSettings.label         "Standertynstellingen foar nijsfeeds">
 
 <!ENTITY manageSubscriptions.label     "Abonneminten beheare…">
 <!ENTITY manageSubscriptions.accesskey "b">
