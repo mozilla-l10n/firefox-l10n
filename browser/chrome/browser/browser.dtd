@@ -782,26 +782,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Opna alle i faner">
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Opne alle i faner">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Logg inn for å &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Logg inn på &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "L">
 <!ENTITY syncSyncNowItem.label        "Synkroniser no">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "Kopla til &syncBrand.shortName.label; på nytt…">
+<!ENTITY syncReAuthItem.label         "Kople til &syncBrand.shortName.label; på nytt…">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "Synkroniser">
 
-<!ENTITY social.addons.label "Handsam tenester …">
+<!ENTITY social.addons.label "Handter tenester…">
 
 <!ENTITY social.directory.label "Aktiveringskatalog">
 <!ENTITY social.directory.text "Du kan slå på tenester for deling frå katalogen.">
 <!ENTITY social.directory.button "Ta meg dit!">
-<!ENTITY social.directory.introText "Trykk på ei teneste for å leggja ho til i &brandShortName;.">
+<!ENTITY social.directory.introText "Trykk på ei teneste for å legge ho til i &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Vis fleire">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Fleire verktøy og funksjonar">
