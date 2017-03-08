@@ -6,3 +6,11 @@
 <!ENTITY     hostCol.label                 "אתר">
 <!ENTITY     statusCol.label               "מצב">
 <!ENTITY     usageCol.label                "אחסון">
+<!ENTITY     searchPlaceHolder             "חיפוש">
+<!ENTITY     searchPlaceHolder.accesskey   "ח">
+<!ENTITY     save.label                    "שמירת שינויים">
+<!ENTITY     save.accesskey                "ש">
+<!ENTITY     cancel.label                  "ביטול">
+<!ENTITY     cancel.accesskey              "ב">
+<!ENTITY     removingDialog.title          "הסרת נתוני אתר">
+<!ENTITY     siteTree.label                "עוגיות של האתרים הבאים ימחקו:">

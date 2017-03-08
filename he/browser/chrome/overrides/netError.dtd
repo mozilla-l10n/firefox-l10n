@@ -44,6 +44,7 @@
 
 <!ENTITY captivePortal.title "כניסה לרשת">
 
+<!ENTITY openPortalLoginPage.label2 "פתיחת דף התחברות לרשת">
 
 <!ENTITY malformedURI.title "כתובת לא חוקית">
 <!ENTITY malformedURI.longDesc "
