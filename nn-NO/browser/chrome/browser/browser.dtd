@@ -884,10 +884,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Om du held fram vil:">
-<!ENTITY panicButton.view.deleteCookies           "Nylege oppretta <html:strong>infokapslar</html:strong> slettast">
-<!ENTITY panicButton.view.deleteHistory           "Nyleg <html:strong>historikk</html:strong> slettast">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Lata att alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Opna eit nytt, reint vindauge">
+<!ENTITY panicButton.view.deleteCookies           "Slett siste <html:strong>infokapslar</html:strong> slettast">
+<!ENTITY panicButton.view.deleteHistory           "Slett nyleg <html:strong>historikk</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukk alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "Opne eit nytt, reint vindauge">
 
 <!ENTITY panicButton.view.undoWarning             "Denne handlinga kan ikkje angrast.">
 <!ENTITY panicButton.view.forgetButton            "Gløym!">
