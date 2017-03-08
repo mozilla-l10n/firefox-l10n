@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Artikujt Depozitoji në:">
 <!ENTITY feedFolder.accesskey        "A">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Kërko për artikuj të rinj çdo ">
+<!ENTITY biffStart.accesskey         "K">
+<!ENTITY biffMinutes.label           "minuta">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "ditë">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Botuesi këshillon:">
+
 <!ENTITY quickMode.label             "Në vend se të ngarkosh faqen web, shfaq përmbledhje artikulli">
 <!ENTITY quickMode.accesskey         "N">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Jepni një parashtesë etikete">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Shtoni">
 <!ENTITY button.addFeed.accesskey    "S">
 <!ENTITY button.updateFeed.label     "Përditësoje">

@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Merr Mesazhet">
 <!ENTITY folderContextGetMessages.accesskey "M">
+<!ENTITY folderContextPauseAllUpdates.label "Ndali Krejt Përditësimet">
+<!ENTITY folderContextPauseUpdates.label "Ndali Përditësimet">
+<!ENTITY folderContextPauseUpdates.accesskey "N">
 <!ENTITY folderContextOpenInNewWindow.label "Hape në Dritare të Re">
 <!ENTITY folderContextOpenInNewWindow.accesskey "D">
 <!ENTITY folderContextOpenNewTab.label "Hape në Skedë të Re">
