@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Diskouez an holl sinedoù">
 <!ENTITY recentBookmarks.label "Lakaet war ur sined nevez zo">
 <!ENTITY otherBookmarksCmd.label "Sinedoù all">
-
+<!ENTITY mobileBookmarksCmd.label "Sinedoù hezoug">
 <!ENTITY bookmarksToolbarChevron.tooltip "Diskouez meur a sined">
 <!ENTITY showRecentlyBookmarked.label     "Diskouez ar sinedoù nevez">
 <!ENTITY showRecentlyBookmarked.accesskey "D">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Sinedoù">
 <!ENTITY bookmarksMenuButton.other.label "Sinedoù all">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Sinedoù hezoug">
 <!ENTITY viewBookmarksSidebar2.label        "Gwelout barrenn gostez ar sinedoù">
 <!ENTITY viewBookmarksToolbar.label         "Gwelout barrenn ostilhoù ar sinedoù">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ivinell digor ebet">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Diskouez muioc'h...">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Diskouez muioc'h a ivinelloù eus an trevnad-mañ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Di&amp;skouez pep tra">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Diskouez holl ivinelloù an trevnad-mañ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Gweredekait goubredañ an ivinelloù evit gwelout ur roll ivinelloù eus ho trevnadoù all.">
