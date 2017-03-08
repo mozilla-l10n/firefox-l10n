@@ -7,3 +7,14 @@
 <!ENTITY     hostCol.label                 "Sajt">
 <!ENTITY     statusCol.label               "Gjendje">
 <!ENTITY     usageCol.label                "Depozitë">
+<!ENTITY     searchPlaceHolder             "Kërko">
+<!ENTITY     searchPlaceHolder.accesskey   "K">
+<!ENTITY     removeSelected.label          "Hiq të Përzgjedhurën">
+<!ENTITY     removeSelected.accesskey      "H">
+<!ENTITY     save.label                    "Ruaji Ndryshimet">
+<!ENTITY     save.accesskey                "R">
+<!ENTITY     cancel.label                  "Anuloje">
+<!ENTITY     cancel.accesskey              "A">
+<!ENTITY     removingDialog.title          "Po Hiqen të Dhëna Sajti">
+<!ENTITY     removingDialog.description    "Heqja e të dhënave të sajtit do të heqë edhe cookie-t. Kjo mund të shkaktojë daljen tuaj nga llogari në sajte dhe heqje lënde web për përdorim të palidhur në Internet. Jeni i sigurt se doni të bëhen ndryshimet?">
+<!ENTITY     siteTree.label                "Cookie-t vijuese do të hiqen:">
