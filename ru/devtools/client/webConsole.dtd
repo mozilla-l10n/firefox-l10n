@@ -74,7 +74,7 @@
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Дополнение или Chrome Workers">
 
-<!ENTITY filterOutput.placeholder "Вывод фильтра">
+<!ENTITY filterOutput.placeholder "Фильтр вывода">
 <!ENTITY btnClear.label        "Очистить">
 <!ENTITY btnClear.tooltip      "Очистить вывод веб-консоли">
 <!ENTITY btnClear.accesskey    "и">
