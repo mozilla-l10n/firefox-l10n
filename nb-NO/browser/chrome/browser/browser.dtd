@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerker">
 <!ENTITY recentBookmarks.label "Nylig bokmerket">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerker">
+<!ENTITY mobileBookmarksCmd.label "Mobile bokmerker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bokmerker">
 <!ENTITY showRecentlyBookmarked.label     "Vis nylig bokmerket">
 <!ENTITY showRecentlyBookmarked.accesskey "V">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerker">
 <!ENTITY bookmarksMenuButton.other.label "Andre bokmerker">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobile bokmerker">
 <!ENTITY viewBookmarksSidebar2.label        "Vis bokmerkesidestolpen">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
@@ -359,9 +361,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Vis mer">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Vis flere faner fra denne enheten">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Vis alle">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Vis alle faner fra denne enheten">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skru på fane-synkronisering for å se en liste over faner fra de andre enhetene dine.">
