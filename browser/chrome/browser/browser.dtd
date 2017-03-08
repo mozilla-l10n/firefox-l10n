@@ -247,9 +247,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Andre bokmerke">
 <!ENTITY bookmarksMenuButton.mobile.label "Mobile bokmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
-<!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
+<!ENTITY viewBookmarksToolbar.label         "Vis verktøylinje for bokmerke">
 
-<!ENTITY containersMenu.label "Behaldarar">
+<!ENTITY containersMenu.label "Konteinarar">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Verktøy">
 <!ENTITY toolsMenu.accesskey          "e"> 
 
-<!ENTITY keywordfield.label           "Lag nykelord for dette søket …">
+<!ENTITY keywordfield.label           "Lag nykelord for dette søket…">
 <!ENTITY keywordfield.accesskey       "L">
 
 <!ENTITY downloads.label              "Nedlastingar">
@@ -348,10 +348,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.tooltip "Fullfør tilpassing">
 <!ENTITY appMenuHistory.label "Historikk">
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
-<!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk …">
+<!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
-<!ENTITY appMenuHelp.tooltip "Opna hjelpemeny">
+<!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -359,8 +359,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen opne faner">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Vis meir">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Vis fleire faner frå denne eininga">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Vis alle">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Vis alle faner frå denne eininga">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skru på fane-synkronisering for å sjå ei liste over faner frå dei andre einingane dine.">
@@ -370,7 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Ingen synkroniserte faner … enno!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-innstillingar">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å visa ei liste over faner frå andre einingar.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 
@@ -391,7 +395,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "n">
 <!ENTITY customizeMenu.removeFromMenu.label "Fjern frå meny">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "å">
-<!ENTITY customizeMenu.addMoreItems.label "Legg til fleire …">
+<!ENTITY customizeMenu.addMoreItems.label "Legg til fleire…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -401,7 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.extension.label       "Utviding:">
 <!ENTITY urlbar.switchToTab.label     "Byt til fane:">
 
-<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetra søkjeopplevinga di med søkjeforslag?">
+<!ENTITY urlbar.searchSuggestionsNotification.question "Vil du forbetre søkeopplevinga di med søkeforslag?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Les meir…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Nei">
@@ -436,13 +440,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-<!ENTITY contentSearchInput.label     "Søkjespørsmål">
+<!ENTITY contentSearchInput.label     "Søkeførespurnad">
 <!ENTITY contentSearchSubmit.tooltip  "Send søk">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-<!ENTITY searchFor.label              "Søk etter ">
+<!ENTITY searchFor.label              "Søk etter: ">
 <!ENTITY searchWith.label             " med:">
 
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
@@ -462,27 +466,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Endra søkjeinnstillingar">
-<!ENTITY changeSearchSettings.tooltip "Endra søkjeinnstillingar">
+<!ENTITY changeSearchSettings.button  "Endre søkeinnstillingar">
+<!ENTITY changeSearchSettings.tooltip "Endre søkeinnstillingar">
 
 <!ENTITY searchInNewTab.label         "Søk i ny fane">
 <!ENTITY searchInNewTab.accesskey     "ø">
-<!ENTITY searchSetAsDefault.label     "Bruk som standard søkjemotor">
+<!ENTITY searchSetAsDefault.label     "Bruk som standard søkemotor">
 <!ENTITY searchSetAsDefault.accesskey "B">
 
-<!ENTITY openLinkCmdInTab.label       "Opna lenke i ny fane">
+<!ENTITY openLinkCmdInTab.label       "Opne lenke i ny fane">
 <!ENTITY openLinkCmdInTab.accesskey   "n">
-<!ENTITY openLinkCmd.label            "Opna lenke i nytt vindauge">
+<!ENTITY openLinkCmd.label            "Opne lenke i nytt vindauge">
 <!ENTITY openLinkCmd.accesskey        "O">
-<!ENTITY openLinkInPrivateWindowCmd.label "Opna lenke i nytt privat vindauge">
+<!ENTITY openLinkInPrivateWindowCmd.label "Opne lenke i nytt privat vindauge">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "p">
-<!ENTITY openLinkCmdInCurrent.label     "Opna lenke">
+<!ENTITY openLinkCmdInCurrent.label     "Opne lenke">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
-<!ENTITY openFrameCmdInTab.label      "Opna ramme i ny fane">
+<!ENTITY openFrameCmdInTab.label      "Opne ramme i ny fane">
 <!ENTITY openFrameCmdInTab.accesskey  "r">
-<!ENTITY openFrameCmd.label           "Opna ramme i nytt vindauge">
+<!ENTITY openFrameCmd.label           "Opne ramme i nytt vindauge">
 <!ENTITY openFrameCmd.accesskey       "v">
-<!ENTITY openLinkCmdInContainerTab.label "Opna lenke i ny innhaldsfane">
+<!ENTITY openLinkCmdInContainerTab.label "Opne lenke i ny innhaldsfane">
 <!ENTITY openLinkCmdInContainerTab.accesskey "a">
 <!ENTITY showOnlyThisFrameCmd.label     "Vis berre denne ramma">
 <!ENTITY showOnlyThisFrameCmd.accesskey "b">
@@ -514,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "s">
 <!ENTITY viewBGImageCmd.label         "Vis bakgrunnsbilde">
 <!ENTITY viewBGImageCmd.accesskey     "b">
-<!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordbakgrunn …">
+<!ENTITY setDesktopBackgroundCmd.label      "Bruk som skrivebordbakgrunn…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "m">
 <!ENTITY bookmarkPageCmd2.label       "Bokmerk denne sida">
 <!ENTITY bookmarkThisLinkCmd.label      "Bokmerk denne lenka">
@@ -523,20 +527,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
 <!ENTITY emailPageCmd.label           "Send lenkeadresse på e-post…">
 <!ENTITY emailPageCmd.accesskey       "e">
-<!ENTITY savePageCmd.label            "Lagra side som…">
+<!ENTITY savePageCmd.label            "Lagre sida som…">
 <!ENTITY savePageCmd.accesskey        "a">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "r">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "Lagra ramme som …">
+<!ENTITY saveFrameCmd.label           "Lagre ramma som…">
 <!ENTITY saveFrameCmd.accesskey       "a">
-<!ENTITY printFrameCmd.label          "Skriv ut ramme …">
+<!ENTITY printFrameCmd.label          "Skriv ut ramma…">
 <!ENTITY printFrameCmd.accesskey      "k">
-<!ENTITY saveLinkCmd.label            "Lagra lenke som …">
+<!ENTITY saveLinkCmd.label            "Lagra lenka som…">
 <!ENTITY saveLinkCmd.accesskey        "L">
-<!ENTITY saveImageCmd.label           "Lagra bilde som …">
+<!ENTITY saveImageCmd.label           "Lagra bildet som…">
 <!ENTITY saveImageCmd.accesskey       "b">
-<!ENTITY saveVideoCmd.label           "Lagra video som …">
+<!ENTITY saveVideoCmd.label           "Lagre videoen som…">
 <!ENTITY saveVideoCmd.accesskey       "a">
 <!ENTITY saveAudioCmd.label           "Lagra lyd som …">
 <!ENTITY saveAudioCmd.accesskey       "a">
