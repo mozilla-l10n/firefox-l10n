@@ -18,6 +18,14 @@
 <!ENTITY feedFolder.label            "Artikelen bewarje yn:">
 <!ENTITY feedFolder.accesskey        "b">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Op nije artikels kontrolearje nei elke ">
+<!ENTITY biffStart.accesskey         "a">
+<!ENTITY biffMinutes.label           "minuten">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "dagen">
+<!ENTITY biffDays.accesskey          "d">
+
 <!ENTITY quickMode.label             "Artikelgearfetting werjaan y.s.f de webside">
 <!ENTITY quickMode.accesskey         "A">
 
@@ -27,6 +35,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Typ in label-prefiks">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Tafoegje">
 <!ENTITY button.addFeed.accesskey    "T">
 <!ENTITY button.updateFeed.label     "Fernije">
