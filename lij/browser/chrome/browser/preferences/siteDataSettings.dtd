@@ -7,4 +7,9 @@
 <!ENTITY     hostCol.label                 "Scito">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     usageCol.label                "Memöia">
-<!ENTITY     searchPlaceHolder             "Riçercâ">
+<!ENTITY     searchPlaceHolder             "Çerca">
+<!ENTITY     searchPlaceHolder.accesskey   "e">
+<!ENTITY     save.label                    "Sarva cangiamenti">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Anulla">
+<!ENTITY     cancel.accesskey              "A">
