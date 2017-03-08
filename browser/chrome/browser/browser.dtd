@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "הצגת כל הסימניות">
 <!ENTITY recentBookmarks.label "סימניות שנוספו לאחרונה">
 <!ENTITY otherBookmarksCmd.label "סימניות אחרות">
+<!ENTITY mobileBookmarksCmd.label "סימניות מהנייד">
 <!ENTITY bookmarksToolbarChevron.tooltip "הצגת סימניות נוספות">
 <!ENTITY showRecentlyBookmarked.label     "הצגת סימניות שנוספו לאחרונה">
 <!ENTITY showRecentlyBookmarked.accesskey "צ">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "סימניות">
 <!ENTITY bookmarksMenuButton.other.label "סימניות אחרות">
+<!ENTITY bookmarksMenuButton.mobile.label "סימניות מהנייד">
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
 
@@ -356,6 +358,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "אין לשוניות פתוחות">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "הצגת לשוניות נוספות מהתקן זה">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "הצגת הכל">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "הצגת כל הלשוניות מהתקן זה">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ניתן להפעיל את סנכרון הלשוניות כדי לצפות ברשימת הלשוניות משאר ההתקנים שלך.">
