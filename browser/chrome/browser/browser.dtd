@@ -745,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
-<!ENTITY identity.permissionsReloadHint "Du må kanskje lasta sida på nytt for at endringane skal gjelda.">
+<!ENTITY identity.permissionsReloadHint "Du må kanskje lasta sida på nytt for at endringane skal gjelde.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -758,26 +758,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.label    "Logg inn på Firefox frå dei andre einingane dine for å vise fanene deira her.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ingen synkroniserte faner … enno!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du sjå faner frå dei andre einingane dine her?">
-<!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å få opp ei faneliste frå dei andre einingane dine.">
+<!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise ei liste over faner frå dei andre einingane dine.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen opne faner">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Opna innstillingar for &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Opne innstillingar for &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fane-sync for å få opp ei faneliste frå dei andre einingane dine.">
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Slå på fane-sync for å vise ei liste over faner frå dei andre einingane dine.">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-<!ENTITY syncedTabs.context.open.label                       "Opna">
+<!ENTITY syncedTabs.context.open.label                       "Opne">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
-<!ENTITY syncedTabs.context.openInNewTab.label               "Opna i ny fane">
+<!ENTITY syncedTabs.context.openInNewTab.label               "Opne i ny fane">
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "a">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Opna lenke i nytt vindauge">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "O">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Opna lenke i nytt privat vindauge">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Opne lenka i eit nytt privat vindauge">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "p">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmerk denne fana …">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Bokmerk denne fana…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
