@@ -39,7 +39,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsVersion "Version">
 <!ENTITY aboutSupport.appBasicsBuildID "ID Montimi">
 
-<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal Përditësimi">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Historik Përditësimesh">
@@ -64,6 +64,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Profile">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dritare Multiproces">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kyç Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kyç Mozilla Location Service">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mënyrë e Sigurt">
 
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopjo të dhëna të papërpunuara te e papastra">
 
 <!ENTITY aboutSupport.sandboxTitle "Bankëprovë">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Thirrje Sistemi të Hedhura Poshtë">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekonda Më Parë">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Lloj Procesi">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumente">
 
 <!ENTITY aboutSupport.safeModeTitle "Provoni Mënyrën e Parrezik">
 <!ENTITY aboutSupport.restartInSafeMode.label "Riniseni me Shtesa të Çaktivizuara…">
