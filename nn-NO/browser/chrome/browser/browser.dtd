@@ -601,8 +601,8 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Latterleg høg (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "L">
-<!ENTITY mediaLoop.label             "Lykkje">
-<!ENTITY mediaLoop.accesskey         "L">
+<!ENTITY mediaLoop.label             "Repeter">
+<!ENTITY mediaLoop.accesskey         "R">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -612,7 +612,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "ø">
 <!ENTITY videoFullScreen.label       "Fullskjerm">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.label        "Lagre (augneblinks)bilde som …">
+<!ENTITY videoSaveImage.label        "Lagre snapshot som…">
 <!ENTITY videoSaveImage.accesskey    "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -649,7 +649,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Skalering">
 <!ENTITY fullZoom.accesskey             "r">
 
-<!ENTITY sidebarCloseButton.tooltip     "Lat att sidestolpen">
+<!ENTITY sidebarCloseButton.tooltip     "Lukk sidestolpen">
 
 <!ENTITY quitApplicationCmdWin2.label       "Avslutt">
 <!ENTITY quitApplicationCmdWin2.accesskey   "t">
@@ -662,7 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "Lat att">  
+<!ENTITY closeCmd.label                 "Lukk">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "L">
 
@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Vanleg">
 <!ENTITY pageStylePersistentOnly.accesskey "V">
 
-<!ENTITY pageReportIcon.tooltip            "Endra innstillingar for blokkering av sprettoppvindauge for denne nettstaden">
+<!ENTITY pageReportIcon.tooltip            "Endre innstillingar for blokkering av sprettoppvindauge for denne nettstaden">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
