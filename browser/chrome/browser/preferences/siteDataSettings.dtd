@@ -9,6 +9,10 @@
 <!ENTITY     usageCol.label                "儲存空間">
 <!ENTITY     searchPlaceHolder             "搜尋">
 <!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "移除選擇項目">
 <!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "儲存變更">
 <!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "取消">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "移除網站資料">

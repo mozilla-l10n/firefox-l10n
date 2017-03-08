@@ -81,7 +81,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "注意: 已啟用慢速 SQL 除錯。完整的 SQL 字串將會在下面顯示，但將不會被送出給 Telemetry。">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "取得堆疊的函數名稱">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "顯示原始堆疊資料">
 
 <!ENTITY aboutTelemetry.filterText "篩選（字串或 /regexp/）">
 
