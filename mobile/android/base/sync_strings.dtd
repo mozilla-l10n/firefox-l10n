@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Më tepër&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Shkëputeni&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Të shkëputet prej Sync-u?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Të dhënat mbi shfletimin tuaj do të mbeten në këtë pajisje, por s’do të njëkohësohen më me llogarinë tuaj.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Llogaria Firefox &formatS; u shkëput.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Shkëputu'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Aktivizoni Mënyrën Diagnostikim'>
 
