@@ -119,7 +119,7 @@
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Perguntar-me sempre">
 <!ENTITY selectCerts.ask.accesskey       "A">
-<!ENTITY enableOCSP.label                "Utilizar os servidores de resposta OCSP para confirmar a validade de certificados">
+<!ENTITY enableOCSP.label                "Consultar os servidores de resposta OCSP para confirmar a validade de certificados">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Ver certificados">
 <!ENTITY viewCerts.accesskey             "c">
