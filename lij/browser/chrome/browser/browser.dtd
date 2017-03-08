@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Fanni vedde tutti i segnalibbri">
 <!ENTITY recentBookmarks.label "Segnalibbri reçenti">
 <!ENTITY otherBookmarksCmd.label "Atri Segnalibbri">
+<!ENTITY mobileBookmarksCmd.label "Segnalibbri mòbili">
 <!ENTITY bookmarksToolbarChevron.tooltip "Fanni vedde ciù segnalibbri">
 <!ENTITY showRecentlyBookmarked.label     "Fanni vedde segnalibbri reçenti">
 <!ENTITY showRecentlyBookmarked.accesskey "v">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Segnalibbri">
 <!ENTITY bookmarksMenuButton.other.label "Atri Segnalibbri">
+<!ENTITY bookmarksMenuButton.mobile.label "Segnalibbri mòbili">
 <!ENTITY viewBookmarksSidebar2.label        "Veddi a bara de scianco segnalibbri">
 <!ENTITY viewBookmarksToolbar.label         "Fanni vedde a bara di Segnalibbri">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nisciun feuggio averto">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Fanni vedde de ciù">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Fanni vedde ciù feuggi da sto dispoxitivo">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Fanni vedde tutto">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Fanni vedde tùtti i feuggi da sto dispoxitivo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ativâ a scincronizaçion di feuggi pe vedde i feuggi averti inti atri dispoxitivi.">
