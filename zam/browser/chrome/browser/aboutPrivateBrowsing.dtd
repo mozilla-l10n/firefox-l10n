@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY privatebrowsingpage.openPrivateWindow.label     "mb-šàlɁ lô kùb">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "k">
+
+
+
+
+<!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
+
+<!ENTITY aboutPrivateBrowsing.info.searches              "kwàɁn">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookies">
+
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " lú:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "b-là yêtz">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "Ndó~làz=ná">
+
+
+
+
+
+
+
+
+

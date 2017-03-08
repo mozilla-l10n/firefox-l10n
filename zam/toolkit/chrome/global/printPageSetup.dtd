@@ -1,0 +1,55 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- extracted from printjoboptions.xul -->
+
+
+<!ENTITY printSetup.title    "Thus kue koo güil lo internet">
+
+
+
+
+
+
+
+
+
+<!ENTITY scalePercent        "&#037;">
+
+
+
+<!ENTITY optionsGroup.label  "Kuan tak kel xhin">
+
+
+
+
+<!ENTITY marginUnits.inches  "pulgadas">
+<!ENTITY marginUnits.metric  "milimetros">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY hfURL               "URL">
+
+
+
+
+<!ENTITY hfCustom            "Tùs kùe...">
+
+<!ENTITY customPrompt.title  "Tùs kùe...">
+

@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabs.otherDevices.label               "Loo naa más program">
+
+<!ENTITY tabs.searchText.label                   "Tree toob koo lash luu...">
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+
+<!ENTITY tabs.context.openTab.label                   "Mb-šàlɁ lá loo ré">
+<!ENTITY tabs.context.openTab.accesskey               "o">
+<!ENTITY tabs.context.openMultipleTabs.label          "mb-šàlɁ lá re ko b-šèn=lú">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "o">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Toob kue lent koo más doo lash naa...">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "o">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Pestañas del marcador seleccionado…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "m">
+<!ENTITY tabs.context.refreshList.label               "Li kub kue">
+<!ENTITY tabs.context.refreshList.accesskey           "u">

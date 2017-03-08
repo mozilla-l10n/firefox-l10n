@@ -1,0 +1,73 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutTelemetry.pageTitle "Dízh na Telemetry">
+
+<!ENTITY aboutTelemetry.changeDataChoices "  zèy">
+
+<!ENTITY aboutTelemetry.uploadEnabled "  El envío de datos de FHR está <span>activado</span>.">
+
+<!ENTITY aboutTelemetry.uploadDisabled "  El envío de datos de FHR está <span>desactivado</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  El registro extendido de Telemetry está <span>desactivado</span>.">
+
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  El registro extendido de Telemetry está <span>desactivado</span>.">
+
+
+<!ENTITY aboutTelemetry.showCurrentPingData "Dízh na ping">
+
+
+
+<!ENTITY aboutTelemetry.structured "Xá níey">
+
+<!ENTITY aboutTelemetry.raw "Raw JSON">
+
+
+<!ENTITY aboutTelemetry.choosePing "B-šèn ping:">
+
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Newer ping">
+
+<!ENTITY aboutTelemetry.showOlderPing "Ping gósh &gt;&gt;">
+
+<!ENTITY aboutTelemetry.rawPingData "Raw ping data…">
+
+<!ENTITY aboutTelemetry.archiveWeekHeader "Sman">
+
+<!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+
+
+<!ENTITY aboutTelemetry.telemetryLogSection "  Toob lé Telemetry">
+
+<!ENTITY aboutTelemetry.slowSqlSection "  Sentencias SQL lentas">
+
+
+
+
+<!ENTITY aboutTelemetry.scalarsSection "  Scalars">
+
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Keyed Scalars">
+
+<!ENTITY aboutTelemetry.histogramsSection "  Histogramas">
+
+<!ENTITY aboutTelemetry.keyedHistogramsSection "  Keyed Histograms">
+
+<!ENTITY aboutTelemetry.eventsSection "  Ní">
+
+
+
+
+<!ENTITY aboutTelemetry.sessionInfoSection "  Cho thus kuey">
+
+
+
+<!ENTITY aboutTelemetry.emptySection "  (ná mxial=na cho nák kúe)">
+
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.">
+
+
+
+
+<!ENTITY aboutTelemetry.payloadChoiceHeader " Kó xó lent">
+

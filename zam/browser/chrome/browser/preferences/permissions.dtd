@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY window.title                 "Koo tak toob luu">
+
+
+<!ENTITY treehead.sitename.label      "Paa lahs loo yaal">
+<!ENTITY treehead.status.label        "Xha duy">
+<!ENTITY removepermission.label       "Kib kue">
+<!ENTITY removepermission.accesskey   "K">
+<!ENTITY removeallpermissions.label   "Kib ree taa kue">
+<!ENTITY removeallpermissions.accesskey "i">
+<!ENTITY address.label                "Taa paa doob kue:">
+<!ENTITY address.accesskey            "T">
+<!ENTITY block.label                  "Naa xhalt luy">
+<!ENTITY block.accesskey              "N">
+<!ENTITY session.label                "Lay ">
+<!ENTITY session.accesskey            "y">
+<!ENTITY allow.label                  "Lay">
+<!ENTITY allow.accesskey              "L">
+<!ENTITY windowClose.key              "w">
+
+<!ENTITY button.cancel.label          "B-láɁ=y">
+<!ENTITY button.cancel.accesskey      "l">
+
+
+

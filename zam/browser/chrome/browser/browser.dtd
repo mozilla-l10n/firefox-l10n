@@ -1,0 +1,848 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
+<!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+<!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
+
+
+<!ENTITY mainWindow.title "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifier "&brandFullName;">
+<!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
+<!ENTITY mainWindow.titlemodifiermenuseparator " - ">
+<!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
+                                                                inside the private browsing mode -->
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Luu ta tak güi Internet )">
+
+<!ENTITY appmenu.tooltip                     "mb-šàlɁ lá kùe">
+<!ENTITY navbarOverflow.label                "Loo ree yibb...">
+<!-- Tab context menu -->
+
+<!ENTITY  reloadTab.label                    "TeɁ zàp loo">
+<!ENTITY  reloadTab.accesskey                "T">
+<!ENTITY  reloadAllTabs.label                "TeɁ zàp ré tá loo">
+<!ENTITY  reloadAllTabs.accesskey            "á">
+<!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
+direction in which tabs are closed, i.e. locales that use RTL mode should say
+left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "TòɁw ree ngetlu kue">
+<!ENTITY  closeTabsToTheEnd.accesskey        "u">
+<!ENTITY  closeOtherTabs.label               "Tog ree loo">
+<!ENTITY  closeOtherTabs.accesskey           "o">
+<!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
+used as a metaphor for expressing the fact that these tabs are "pinned" to the
+left edge of the tabstrip. Really we just want the string to express the idea
+that this is a lightweight and reversible action that keeps your tab where you
+can reach it easily. -->
+
+<!ENTITY  pinTab.label                       "Toob loo">
+<!ENTITY  pinTab.accesskey                   "T">
+<!ENTITY  unpinTab.label                     "Tee doot loo">
+<!ENTITY  unpinTab.accesskey                 "o">
+<!ENTITY  sendTabToDevice.label              "m-tàl=là lô loo Yib">
+<!ENTITY  sendTabToDevice.accesskey          "Y">
+<!ENTITY  sendPageToDevice.label             "m-tàl=là loo Yib">
+<!ENTITY  sendPageToDevice.accesskey         "Y">
+<!ENTITY  sendLinkToDevice.label             "m-tàl=là loo Yib">
+<!ENTITY  sendLinkToDevice.accesskey         "Y">
+<!ENTITY  moveToNewWindow.label              "Taal laa taa diif loo">
+<!ENTITY  moveToNewWindow.accesskey          "a">
+<!ENTITY  bookmarkAllTabs.label              "Ré tá ko ndó~làz=ná ...">
+<!ENTITY  bookmarkAllTabs.accesskey          "t">
+<!ENTITY  undoCloseTab.label                 "Naa lash naa tòɁw loo koo güin penta">
+<!ENTITY  undoCloseTab.accesskey             "N">
+<!ENTITY  closeTab.label                     "TòɁw">
+<!ENTITY  closeTab.accesskey                 "T">
+
+<!ENTITY  listAllTabs.label      "Loo ree taa loo">
+
+<!ENTITY tabCmd.label "Xhal loo kub">
+<!ENTITY tabCmd.accesskey "k">
+<!ENTITY tabCmd.commandkey "t">
+<!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
+displayed on OS X, and only on windows that aren't main browser windows, or
+when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "mb-šàlɁ lá pá dùl...">
+<!ENTITY openFileCmd.label "mb-šàlɁ loo yêtz...">
+<!ENTITY openFileCmd.accesskey "o">
+<!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.label "Thus kue koo güil lo internet...">
+<!ENTITY printSetupCmd.accesskey "k">
+<!ENTITY printPreviewCmd.label "Mbwíʔ zá niey">
+<!ENTITY printPreviewCmd.accesskey "n">
+<!ENTITY printCmd.label "Key loo yets...">
+<!ENTITY printCmd.accesskey "K">
+<!ENTITY printCmd.commandkey "p">
+
+<!ENTITY goOfflineCmd.label "Kee xhin sin Internet">
+<!ENTITY goOfflineCmd.accesskey "x">
+
+<!ENTITY menubarCmd.label "Kue xhoo lent Firefox">
+<!ENTITY menubarCmd.accesskey "F">
+<!ENTITY navbarCmd.label "Kon kue taak güin luu">
+<!ENTITY personalbarCmd.label "Té tak güin ko ndó~làz=ná">
+<!ENTITY personalbarCmd.accesskey "d">
+<!ENTITY bookmarksToolbarItem.label "Té tak güin ko ndó~làz=ná">
+
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "TeɁ zàp ré tá loo">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "á">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Ré tá ko ndó~làz=ná ...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "t">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Naa lash naa tòɁw loo koo güin penta">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "N">
+
+<!ENTITY pageSourceCmd.label "Güi xha mud na thus kue kue">
+<!ENTITY pageSourceCmd.accesskey "i">
+<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageInfoCmd.label "Choo thus kue kue">
+<!ENTITY pageInfoCmd.accesskey "C">
+<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "Güi loo">
+<!ENTITY mirrorTabCmd.accesskey "G">
+<!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
+These should match what Safari and other Apple applications use on OS X Lion. -->
+<!ENTITY enterFullScreenCmd.label "Güi loo maach">
+<!ENTITY enterFullScreenCmd.accesskey "l">
+<!ENTITY exitFullScreenCmd.label "mb-ròɁ lô">
+<!ENTITY exitFullScreenCmd.accesskey "l">
+<!ENTITY fullScreenCmd.label "Loo maach">
+<!ENTITY fullScreenCmd.accesskey "L">
+<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY showAllTabsCmd.label "Mb-lòɁ ré tá">
+<!ENTITY showAllTabsCmd.accesskey "á">
+<!ENTITY toggleReaderMode.key "R">
+
+<!ENTITY fxaSignIn.label "-taɁ lélù &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "mb-šàlɁ &syncBrand.shortName.label; kó lí chél">
+<!ENTITY fxaSignInError.label "Tòb kì &syncBrand.shortName.label;">
+
+
+
+<!ENTITY fullScreenMinimize.tooltip "Bli luuta">
+<!ENTITY fullScreenRestore.tooltip "Bí~rè là kíy">
+<!ENTITY fullScreenClose.tooltip "TòɁw">
+<!ENTITY fullScreenAutohide.label "Kás~lô gib">
+<!ENTITY fullScreenAutohide.accesskey "K">
+<!ENTITY fullScreenExit.label "mb-ròɁ lô">
+<!ENTITY fullScreenExit.accesskey "l">
+<!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
+     fullscreenWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring fullscreen.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY fullscreenWarning.beforeDomain.label "">
+
+<!ENTITY fullscreenWarning.generic.label "Yêtz ré de loo lo narú">
+<!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
+     exitDOMFullscreenMac.button): the "escape" button on PC keyboards
+     is uppercase, while on Mac keyboards it is lowercase -->
+
+<!ENTITY exitDOMFullscreen.button "Mb-ròɁ lô (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Mb-ròɁ lô (Esc)">
+<!ENTITY leaveDOMFullScreen.label "Bru tree">
+<!ENTITY leaveDOMFullScreen.accesskey "t">
+<!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
+     pointerlockWarning.afterDomain.label): these two strings are used
+     respectively before and after the domain requiring pointerlock.
+     Localizers can use one of them, or both, to better adapt this
+     sentence to their language. -->
+
+<!ENTITY pointerlockWarning.beforeDomain.label "">
+
+
+
+<!ENTITY closeWindow.label "TòɁw loo ré">
+<!ENTITY closeWindow.accesskey "l">
+
+<!ENTITY bookmarksMenu.label "Ndó~làz=ná">
+<!ENTITY bookmarksMenu.accesskey "N">
+<!ENTITY bookmarkThisPageCmd.label "Tób kùe loo ndó~làz=ná ">
+<!ENTITY editThisBookmarkCmd.label "Tùs kùe Ndó~làz=ná">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!-- LOCALIZATION NOTE (findShareServices.label):
+  -  Use the unicode ellipsis char, \u2026,
+  -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY sharePageCmd.label "tă~làz lô ré">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "r">
+<!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
+<!ENTITY shareLink.label "Tă~làz lô dó re">
+<!ENTITY shareLink.accesskey "r">
+<!ENTITY shareImage.label "Tă~làz món ré">
+<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareSelect.label "Tă~làz ko B-šèn=lú">
+<!ENTITY shareSelect.accesskey "z">
+<!ENTITY shareVideo.label "Tă~làz video re">
+<!ENTITY shareVideo.accesskey "r">
+
+
+<!ENTITY subscribeToPageMenuitem.label "Naa lash güi kue taa diif vez...">
+<!ENTITY addCurPagesCmd.label "Ndó~làz=ná ré tá...">
+<!ENTITY showAllBookmarks2.label "Mb-lòɁ ré tá kó ndó~làz=ná">
+<!ENTITY recentBookmarks.label "Ko pénta tón ná loo ndó~làz=ná ">
+<!ENTITY otherBookmarksCmd.label "Tá thîb ko ndó~làz=ná">
+
+<!ENTITY bookmarksToolbarChevron.tooltip "Mb-lòɁ kó ndó~làz=ná">
+<!ENTITY showRecentlyBookmarked.label     "Loo ré ko ndó~làz=ná ">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
+
+
+
+<!ENTITY backCmd.label                "M-bì~rè">
+<!ENTITY backButton.tooltip           "Vere ngetlu">
+<!ENTITY forwardCmd.label             "M-bì~rè">
+<!ENTITY forwardButton.tooltip        "Gua taa diff loo ngetlu">
+<!ENTITY backForwardButtonMenu.tooltip "Toob kuan güin">
+<!ENTITY backForwardButtonMenuMac.tooltip "Loo kuan güin">
+<!ENTITY reloadCmd.label              "TeɁ zàp">
+<!ENTITY reloadButton.tooltip         "TeɁ zàp loo ré">
+<!ENTITY stopCmd.label                "Ngót~tòɁ">
+<!ENTITY stopCmd.macCommandKey        ".">
+<!ENTITY stopButton.tooltip           "Naa lash naa güin loo ree">
+<!ENTITY goEndCap.tooltip             "Cuan taa diff loo">
+<!ENTITY printButton.label            "Keey loo yets">
+<!ENTITY printButton.tooltip          "Kee loo yets loo ree">
+
+<!ENTITY urlbar.viewSiteInfo.label                      "Mbwíʔ yêts ré">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Zè díʔz">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY searchItem.title             "KwàɁn">
+<!-- Toolbar items --> 
+
+<!ENTITY homeButton.label             "Tetey">
+
+<!ENTITY bookmarksButton.label          "Ndó~làz=ná">
+<!ENTITY bookmarksCmd.commandkey "b">
+
+<!ENTITY bookmarksMenuButton.label          "Ndó~làz=ná">
+<!ENTITY bookmarksMenuButton.other.label "Tá thíb ko ndó~làz=ná">
+
+<!ENTITY viewBookmarksSidebar2.label        "Ndó~làz=ná">
+<!ENTITY viewBookmarksToolbar.label         "Ndó~làz=ná">
+
+<!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
+  -  key should not contain the letters A-F, since these are reserved
+  -  shortcut keys on Linux. -->
+
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
+
+<!ENTITY historySidebarCmd.commandKey   "h">
+
+<!ENTITY toolsMenu.label              "Koo lii chemen">
+<!ENTITY toolsMenu.accesskey          "m"> 
+
+<!ENTITY keywordfield.label           "Taa diif dizh xha kuan luu...">
+<!ENTITY keywordfield.accesskey       "x">
+
+<!ENTITY downloads.label              "Koo blaal">
+<!ENTITY downloads.accesskey          "K">
+<!ENTITY downloads.commandkey         "j">
+
+<!ENTITY addons.label                 "Koo kub taak toob luu loo firefox">
+<!ENTITY addons.accesskey             "K">
+<!ENTITY addons.commandkey            "A">
+
+<!ENTITY webDeveloperMenu.label       "Xha koo dee thus kue kue Web">
+<!ENTITY webDeveloperMenu.accesskey   "W">
+
+<!ENTITY inspectContextMenu.label     "Güi kue">
+<!ENTITY inspectContextMenu.accesskey "Q">
+
+<!ENTITY fileMenu.label         "Koo de güil"> 
+<!ENTITY fileMenu.accesskey       "K">
+
+
+<!ENTITY newNavigatorCmd.label        "Loo gib kuub">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "L">
+<!ENTITY newPrivateWindow.label     "Loo gib kuub chan taa luu">
+<!ENTITY newPrivateWindow.accesskey "c">
+
+
+<!ENTITY editMenu.label         "Tùs kùe"> 
+<!ENTITY editMenu.accesskey       "e"> 
+<!ENTITY undoCmd.label            "Vereé">  
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "V"> 
+<!ENTITY redoCmd.label            "Veree koo blil">  
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "V"> 
+<!ENTITY cutCmd.label           "Chuy">  
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "u"> 
+<!ENTITY copyCmd.label            "Lí Chopa">  
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY pasteCmd.label           "Key">  
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "K"> 
+<!ENTITY deleteCmd.label          "Tòmbî">  
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "b"> 
+<!ENTITY selectAllCmd.label         "Mxhen reey">  
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "r"> 
+<!ENTITY preferencesCmd2.label       "Koo tak lii chel">
+<!ENTITY preferencesCmd2.accesskey     "K">
+<!ENTITY preferencesCmdUnix.label       "Koo lash luu">
+<!ENTITY preferencesCmdUnix.accesskey     "l"> 
+
+
+<!ENTITY privateBrowsingCmd.commandkey          "P">
+
+<!ENTITY viewMenu.label         "Mbwíʔ"> 
+<!ENTITY viewMenu.accesskey       "w"> 
+<!ENTITY viewToolbarsMenu.label       "Koo tak lii chel"> 
+<!ENTITY viewToolbarsMenu.accesskey     "K"> 
+<!ENTITY viewSidebarMenu.label "Yaa ">
+<!ENTITY viewSidebarMenu.accesskey "Y">
+<!ENTITY viewCustomizeToolbar.label       "Tùs kùe..."> 
+<!ENTITY viewCustomizeToolbar.accesskey     "e">
+
+<!ENTITY historyMenu.label "Ree koo güil">
+<!ENTITY historyMenu.accesskey "o">
+<!ENTITY historyUndoMenu.label "Güi ree ngetlu koo tooglu penta">
+<!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+<!ENTITY historyUndoWindowMenu.label "Loo ngetlu koo toog luu penta">
+
+
+<!ENTITY showAllHistoryCmd.commandkey "H">
+
+<!ENTITY appMenuCustomize.label "Tùs kùe">
+
+<!ENTITY appMenuCustomizeExit.label "Mb-ròɁ tùs kùe">
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
+     the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
+     when Sync is configured but this appears to be the only device attached to
+     the account. We also show links to download Firefox for android/ios. -->
+
+<!ENTITY appMenuRemoteTabs.openprefs.label "Sync ndó~làz=lú">
+
+<!ENTITY appMenuRemoteTabs.signin.label "-taɁ lélù lèɁn Sync">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Mbwíʔ Sync">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
+     same context menu as menubarCmd and personalbarCmd, so they should have
+     different access keys. customizeMenu.moveToToolbar and 
+     customizeMenu.moveToPanel are mutually exclusive, so can share access
+     keys.  -->
+
+
+
+
+
+
+
+
+<!ENTITY openCmd.commandkey           "l">
+<!ENTITY urlbar.placeholder2          "Kuan dee kuan luu">
+<!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.switchToTab.label     "Xhe loo gibb:">
+
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore "Lab kue...">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.disable "Yenta">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.enable "ăɁ">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+<!-- 
+  Comment duplicated from browser-sets.inc:
+
+  Search Command Key Logic works like this:
+
+  Unix: Ctrl+J (0.8, 0.9 support)
+        Ctrl+K (cross platform binding)
+  Mac:  Cmd+K (cross platform binding)
+        Cmd+Opt+F (platform convention)
+  Win:  Ctrl+K (cross platform binding)
+        Ctrl+E (IE compat)
+
+  We support Ctrl+K on all platforms now and advertise it in the menu since it is
+  our standard - it is a "safe" choice since it is near no harmful keys like "W" as
+  "E" is. People mourning the loss of Ctrl+K for emacs compat can switch their GTK
+  system setting to use emacs emulation, and we should respect it. Focus-Search-Box
+  is a fundamental keybinding and we are maintaining a XP binding so that it is easy
+  for people to switch to Linux.
+
+ -->
+
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
+     These two strings are used to build the header above the list of one-click
+     search providers:  "Search for <used typed keywords> with:" -->
+
+<!ENTITY searchFor.label              "KwàɁn loo ">
+
+<!-- LOCALIZATION NOTE (search.label, searchAfter.label):
+     This string is used to build the header above the list of one-click search
+     providers when a one off engine has been selected.  The searchAfter text is
+     intentionally left empty for en-US and can be used by other localizations to
+     display a string after the search engine name.  This string will be displayed
+     as:  "Search <selected engine name><searchAfter.label text>" -->
+
+<!ENTITY search.label                 "KwàɁn ">
+<!ENTITY searchAfter.label            "">
+<!-- LOCALIZATION NOTE (searchWithHeader.label):
+     The wording of this string should be as close as possible to
+     searchFor.label and searchWith.label. This string will be used instead of
+     them when the user has not typed any keyword. -->
+<!-- LOCALIZATION NOTE (changeSearchSettings.button):
+     This string won't wrap, so if the translated string is longer,
+     consider translating it as if it said only "Search Settings". -->
+
+
+
+
+
+
+<!ENTITY openLinkCmdInTab.label       "Xhal kue loo taa diff loo kub">
+<!ENTITY openLinkCmdInTab.accesskey   "l">
+<!ENTITY openLinkCmd.label            "Xhal kue loo taa diff loo kub">
+<!ENTITY openLinkCmd.accesskey        "l">
+<!ENTITY openLinkInPrivateWindowCmd.label "Xhal kue loo taa diff loo kub chan taa naa">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "l">
+<!ENTITY openLinkCmdInCurrent.label     "Mb-šàlɁ loo dó">
+<!ENTITY openLinkCmdInCurrent.accesskey "o">
+<!ENTITY openFrameCmdInTab.label      "Xhal kue lo loo kub">
+<!ENTITY openFrameCmdInTab.accesskey  "k">
+<!ENTITY openFrameCmd.label           "Xhal kue loo taa diff loo ">
+<!ENTITY openFrameCmd.accesskey       "k">
+
+
+<!ENTITY showOnlyThisFrameCmd.label     "Loo kuenta">
+<!ENTITY showOnlyThisFrameCmd.accesskey "k">
+<!ENTITY reloadCmd.commandkey         "r">
+<!ENTITY reloadFrameCmd.label         "TeɁ zàp loo ré">
+<!ENTITY reloadFrameCmd.accesskey     "r">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Mbwíʔ zá mud b-šèn lú kue">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Mbwíʔ MathML">
+<!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
+         viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
+<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPageSourceCmd.label      "Mbwíʔ lô ré">
+<!ENTITY viewPageSourceCmd.accesskey  "w">
+<!ENTITY viewFrameSourceCmd.label     "Loo xha mud thus kue kue">
+<!ENTITY viewFrameSourceCmd.accesskey "L">
+<!ENTITY viewPageInfoCmd.label        "Loo kuan xho lent kue">
+<!ENTITY viewPageInfoCmd.accesskey    "k">
+<!ENTITY viewFrameInfoCmd.label       "Loo kuan xho lent kue">
+<!ENTITY viewFrameInfoCmd.accesskey   "k">
+<!ENTITY reloadImageCmd.label         "TeɁ zàp mún">
+<!ENTITY reloadImageCmd.accesskey     "m">
+<!ENTITY viewImageCmd.label           "Mbwíʔ món ré">
+<!ENTITY viewImageCmd.accesskey       "m">
+<!ENTITY viewImageInfoCmd.label       "Mbwíʔ zá níe món ré">
+<!ENTITY viewImageInfoCmd.accesskey   "r">
+<!ENTITY viewImageDescCmd.label       "Mbwíʔ zá níel">
+<!ENTITY viewImageDescCmd.accesskey   "z">
+<!ENTITY viewVideoCmd.label           "Güi kue">
+<!ENTITY viewVideoCmd.accesskey       "k">
+<!ENTITY viewBGImageCmd.label         "Güi koo xho lent kue">
+<!ENTITY viewBGImageCmd.accesskey     "k">
+<!ENTITY setDesktopBackgroundCmd.label      "Toob baa loo ngluu giib...">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "T">
+<!ENTITY bookmarkPageCmd2.label       "Tób kùe loo ndó~làz=ná">
+<!ENTITY bookmarkThisLinkCmd.label      "Tób kùe loo ndó~làz=ná ">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "l">
+<!ENTITY bookmarkThisFrameCmd.label      "Toob kue lent koo más doo lash naa">
+<!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+<!ENTITY emailPageCmd.label           "Taal kue loo diif taal...">
+<!ENTITY emailPageCmd.accesskey       "T">
+<!ENTITY savePageCmd.label            "Loo xhog kue">
+<!ENTITY savePageCmd.accesskey        "L">
+<!-- alternate for content area context menu -->
+<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.commandkey       "s">
+<!ENTITY saveFrameCmd.label           "Loo xhog kue...">
+<!ENTITY saveFrameCmd.accesskey       "L">
+<!ENTITY printFrameCmd.label          "Ke kue lo xets...">
+<!ENTITY printFrameCmd.accesskey      "e">
+<!ENTITY saveLinkCmd.label            "Loo xhog kue...">
+<!ENTITY saveLinkCmd.accesskey        "L">
+<!ENTITY saveImageCmd.label           "Loo xhog xha nie kue...">
+<!ENTITY saveImageCmd.accesskey       "o">
+
+
+<!ENTITY saveAudioCmd.label           "Loo xhog dizh na men...">
+<!ENTITY saveAudioCmd.accesskey       "L">
+<!ENTITY emailImageCmd.label          "Tal xha nie kue loo diif taal...">
+<!ENTITY emailImageCmd.accesskey      "x">
+<!ENTITY emailVideoCmd.label          "Taal gib koo loo xha dedizh men ner niemen loo diif taal...">
+<!ENTITY emailVideoCmd.accesskey      "g">
+
+
+
+
+<!ENTITY playPluginCmd.label          "La kii kue">
+<!ENTITY playPluginCmd.accesskey      "a">
+<!ENTITY hidePluginCmd.label          "Kás~lô yib">
+<!ENTITY hidePluginCmd.accesskey      "K">
+<!ENTITY copyLinkCmd.label            "Lí Chop pá dúl">
+<!ENTITY copyLinkCmd.accesskey        "á">
+<!ENTITY copyImageCmd.label           "Loo xhog xha nie kue">
+<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageContentsCmd.label   "Loo xhog kue">
+<!ENTITY copyImageContentsCmd.accesskey  "L"> 
+<!ENTITY copyVideoURLCmd.label        "Loo xhog kue">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.label        "Loo xhog tee xhob dezh ree">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.label           "Loo xhog kue">
+<!ENTITY copyEmailCmd.accesskey       "o">
+<!ENTITY thisFrameMenu.label              "Kue">
+<!ENTITY thisFrameMenu.accesskey          "e">
+<!-- Media (video/audio) controls -->
+<!-- LOCALIZATION NOTE: The access keys for "Play" and
+"Pause" are the same because the two context-menu
+items are mutually exclusive. -->
+
+<!ENTITY mediaPlay.label             "Laa kiy">
+<!ENTITY mediaPlay.accesskey         "L">
+<!ENTITY mediaPause.label            "Bleeta">
+<!ENTITY mediaPause.accesskey        "B">
+<!-- LOCALIZATION NOTE: The access keys for "Mute" and
+"Unmute" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaMute.label             "Toog gaa ">
+<!ENTITY mediaMute.accesskey         "T">
+<!ENTITY mediaUnmute.label           "Goon naá">
+<!ENTITY mediaUnmute.accesskey       "G">
+
+
+
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
+movie "Space Balls" and is meant to say that this speed is very
+fast. -->
+<!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+
+
+<!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
+"Hide Controls" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY mediaShowControls.label     "Loo xha mub kuin luuy">
+<!ENTITY mediaShowControls.accesskey "x">
+<!ENTITY mediaHideControls.label     "Kás~lô Yib">
+<!ENTITY mediaHideControls.accesskey "Y">
+<!ENTITY videoFullScreen.label       "Loo narú">
+<!ENTITY videoFullScreen.accesskey   "L">
+<!ENTITY videoSaveImage.label        "Loo xhog kue...">
+<!ENTITY videoSaveImage.accesskey    "L">
+<!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
+"Hide Statistics" are the same because the two context-menu
+items are mutually exclusive. -->
+<!ENTITY videoShowStats.label        "Loo plaa men güiy">
+<!ENTITY videoShowStats.accesskey    "p">
+<!ENTITY videoHideStats.label        "Kás~lôg pló men güiy">
+<!ENTITY videoHideStats.accesskey    "g">
+<!-- LOCALIZATION NOTE :
+fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
+fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
+If shift key is needed with your locale popular keyboard for them,
+you can use these alternative items. Otherwise, their values should be empty.  -->
+
+
+<!ENTITY fullZoomEnlargeCmd.label       "Lii mach ah">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "L">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!-- + is above this key on many keyboards -->
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey3 "">
+
+<!ENTITY fullZoomReduceCmd.label        "Lii lut ah">
+<!ENTITY fullZoomReduceCmd.accesskey    "L">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
+
+<!ENTITY fullZoomResetCmd.label         "Tetey">
+<!ENTITY fullZoomResetCmd.accesskey     "T">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
+
+<!ENTITY fullZoomToggleCmd.label        "Mxhe xha niey">
+<!ENTITY fullZoomToggleCmd.accesskey    "M">
+<!ENTITY fullZoom.label                 "Loo Narú">
+<!ENTITY fullZoom.accesskey             "r">
+
+<!ENTITY sidebarCloseButton.tooltip     "Toog kue">
+
+<!ENTITY quitApplicationCmdWin2.label       "Bru">
+<!ENTITY quitApplicationCmdWin2.accesskey   "B">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Mb-ròɁ &brandShorterName;">
+<!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goForwardCmd.commandKey "]">
+<!ENTITY quitApplicationCmd.label       "Bru"> 
+<!ENTITY quitApplicationCmd.accesskey   "B">
+<!ENTITY quitApplicationCmdMac2.label   "Mb-ròɁ &brandShorterName;">
+<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
+<!ENTITY quitApplicationCmdUnix.key     "S">
+
+<!ENTITY closeCmd.label                 "TòɁw">  
+<!ENTITY closeCmd.key                   "W">  
+<!ENTITY closeCmd.accesskey             "T">
+
+<!ENTITY toggleMuteCmd.key              "M">
+
+<!ENTITY pageStyleMenu.label "Xha nie loo ree">
+<!ENTITY pageStyleMenu.accesskey "X">
+<!ENTITY pageStyleNoStyle.label "Toog gaa">
+<!ENTITY pageStyleNoStyle.accesskey "T">
+<!ENTITY pageStylePersistentOnly.label "Tee xha niey">
+<!ENTITY pageStylePersistentOnly.accesskey "T">
+
+<!ENTITY pageReportIcon.tooltip            "Xhe xha mud nak kue tihs lash luu toog luu loo ree">
+
+<!ENTITY allowPopups.accesskey "p">
+<!-- On Windows we use the term "Options" to describe settings, but
+     on Linux and Mac OS X we use "Preferences" - carry that distinction
+     over into this string, which is used in the "popup blocked" info bar . -->
+<!ENTITY editPopupSettingsUnix.label "Thus kue xha mud lash luu güil loo ree...">
+<!ENTITY editPopupSettings.label "Xha mud lash luu güil loo ree...">
+<!ENTITY editPopupSettings.accesskey "X">
+<!ENTITY dontShowMessage.accesskey "N">
+
+<!ENTITY bidiSwitchPageDirectionItem.label        "Xhe xha mud doob loo ree">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "l">
+<!ENTITY bidiSwitchTextDirectionItem.label        "Xhe xha mud gee dizh ree">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "m">
+<!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
+
+<!ENTITY findOnCmd.label     "GòzăɁl lô ré...">
+<!ENTITY findOnCmd.accesskey "G">
+<!ENTITY findOnCmd.commandkey "f">
+<!ENTITY findAgainCmd.label  "GòzăɁl nâl">
+<!ENTITY findAgainCmd.accesskey "G">
+<!ENTITY findAgainCmd.commandkey "g">
+<!ENTITY findAgainCmd.commandkey2 "VK_F3">
+<!ENTITY findSelectionCmd.commandkey "e">
+
+<!ENTITY spellAddDictionaries.label "Toob ba loo Diccionario...">
+<!ENTITY spellAddDictionaries.accesskey "T">
+
+<!ENTITY editBookmark.done.label                     "Tee looy">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
+
+
+
+
+
+<!-- Strings for connection state warnings. -->
+
+
+
+<!-- Strings for connection state warnings in the subview. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY identity.learnMore "Lab Kue">
+
+
+
+
+<!ENTITY identity.permissions "Cho taak güil kee">
+
+
+<!-- Name for the tabs toolbar as spoken by screen readers.
+     The word "toolbar" is appended automatically and should not be contained below! -->
+
+<!ENTITY tabsToolbar.label "Gua let lo loo">
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+
+
+
+
+
+
+<!ENTITY syncedTabs.sidebar.openprefs.label    "mb-šàlɁ &syncBrand.shortName.label; kó lí chél">
+<!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
+     when Sync is configured but syncing tabs is disabled. -->
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
+
+
+
+
+
+
+
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Tób kùe loo ndó~làz=ná...">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "d">
+<!ENTITY syncedTabs.context.copy.label                       "Lí Chopa">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
+
+
+
+<!ENTITY syncBrand.shortName.label    "Sync">
+
+<!ENTITY syncSignIn.label             "-taɁ lélù &syncBrand.shortName.label;...">
+<!ENTITY syncSignIn.accesskey         "Y">
+<!ENTITY syncSyncNowItem.label        "Sincronizar ahora">
+<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncReAuthItem.label         "Tòb kì &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.accesskey     "k">
+<!ENTITY syncToolbarButton.label      "Sync">
+
+<!ENTITY social.addons.label "Xha thus kue kue...">
+
+
+
+
+<!ENTITY social.directory.viewmore.text "Mbwíʔ">
+
+
+
+
+
+
+
+
+
+
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+<!ENTITY getUserMedia.selectCamera.label "tă~làz lô cámara:">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectMicrophone.label "tă~làz micrófono:">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "m">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in NON-private browsing mode. -->
+
+<!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
+     The associated button with this label and accesskey is only shown when opening the control
+     center while looking at a site with trackers in PRIVATE browsing mode. -->
+
+
+
+
+<!ENTITY trackingContentBlocked.message "Güi">
+
+<!ENTITY trackingContentBlocked.learnMore "Lab Kue">
+
+
+
+
+
+
+
+<!ENTITY pluginNotification.showAll.label "Mb-lòɁ ré tá">
+<!ENTITY pluginNotification.showAll.accesskey "l">
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
+
+<!ENTITY pluginActivateNow.label "Bliy nal">
+
+
+<!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
+     width of the plugin popup notification that can appear if a plugin has been
+     blocked on a page. Should be wide enough to fit the pluginActivateNow.label
+     and pluginActivateAlways.label strings above on a single line. This must be
+     a CSS length value. -->
+
+<!ENTITY pluginNotification.width "28em">
+
+<!ENTITY uiTour.infoPanel.close "TòɁw">
+
+<!ENTITY appMenuSidebars.label         "Yaá ">
+<!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
+     The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
+     Please ensure that this remains the case in the translation. -->
+
+
+
+<!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
+     The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
+     Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
+     The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
