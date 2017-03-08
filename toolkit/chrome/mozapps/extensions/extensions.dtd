@@ -247,5 +247,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "دليلنا">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
-<!ENTITY pluginDeprecation.description "أهناك ما تفتقده؟ لم يعد يدعم &brandShortName; بعض الملحقات.">
+<!ENTITY pluginDeprecation.description "أهناك ما تفتقده؟ لم يعد &brandShortName; يدعم بعض الملحقات.">
 <!ENTITY pluginDeprecation.learnMore "اطّلع على المزيد.">
