@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Shfaqni Krejt Faqerojtësit">
 <!ENTITY recentBookmarks.label "Faqeruajtur Së Fundi">
 <!ENTITY otherBookmarksCmd.label "Faqerojtës të Tjerë">
+<!ENTITY mobileBookmarksCmd.label "Faqerojtës Celulari">
 <!ENTITY bookmarksToolbarChevron.tooltip "Shfaqni më tepër faqerojtës">
 <!ENTITY showRecentlyBookmarked.label     "Shfaqni të Faqeruajtur Së Fundi">
 <!ENTITY showRecentlyBookmarked.accesskey "f">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Faqerojtës">
 <!ENTITY bookmarksMenuButton.other.label "Faqerojtës të Tjerë">
+<!ENTITY bookmarksMenuButton.mobile.label "Faqerojtës Celulari">
 <!ENTITY viewBookmarksSidebar2.label        "Shihni Anështyllë Faqerojtësish">
 <!ENTITY viewBookmarksToolbar.label         "Shihni Panel Faqerojtësish">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "S&apos;ka skeda të hapura">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Shfaq Më Tepër">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Shfaq më tepër skeda nga kjo pajisje">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Shfaqi Krejt">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Shfaq krejt skedat nga kjo pajisje">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivizoni njëkohësim skedash që të shihni një listë skedash prej pajisjesh tuajat të tjera.">
@@ -773,6 +783,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopjoje">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Hapi Krejt në Skeda">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "H">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">

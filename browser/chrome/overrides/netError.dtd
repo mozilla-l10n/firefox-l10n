@@ -51,7 +51,11 @@
 ">
 
 <!ENTITY captivePortal.title "Hyni në rrjet">
+<!ENTITY captivePortal.longDesc2 "
+<p>YouDuhet të bëni hyrjen në këtë rrjet, përpara se të hyni në Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Hap Faqe Hyrjeje në Rrjet">
 
 <!ENTITY malformedURI.title "Adresa nuk është e vlefshme">
 <!ENTITY malformedURI.longDesc "
