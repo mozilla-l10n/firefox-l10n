@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Sydło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Składowak">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Pytać">
+<!ENTITY     searchPlaceHolder.accesskey   "P">
+<!ENTITY     removeSelected.label          "Wubrane wotstronić">
+<!ENTITY     removeSelected.accesskey      "u">
+<!ENTITY     save.label                    "Změny składować">
+<!ENTITY     save.accesskey                "s">
+<!ENTITY     cancel.label                  "Přetorhnyć">
+<!ENTITY     cancel.accesskey              "P">
+<!ENTITY     removingDialog.title          "Daty sydła so wotstronić">
+<!ENTITY     removingDialog.description    "Hdyž so daty sydła wotstronjeja, so tež placki wotstronja. Přez to móžeće so websydła wotzjewić a webwobsah offline wotstronić. Chceće woprawdźe změny přewjesć?">
+<!ENTITY     siteTree.label                "Slědowace placki websydła so wotstronja:">
