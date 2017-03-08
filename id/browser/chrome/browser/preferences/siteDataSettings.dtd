@@ -7,3 +7,7 @@
 <!ENTITY     hostCol.label                 "Situs">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Penyimpanan">
+<!ENTITY     searchPlaceHolder             "Cari">
+<!ENTITY     searchPlaceHolder.accesskey   "C">
+<!ENTITY     cancel.label                  "Batal">
+<!ENTITY     cancel.accesskey              "B">
