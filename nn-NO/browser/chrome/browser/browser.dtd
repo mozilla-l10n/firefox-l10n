@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Privat nettlesing)">
 
-<!ENTITY appmenu.tooltip                     "Opna meny">
+<!ENTITY appmenu.tooltip                     "Opne meny">
 <!ENTITY navbarOverflow.label                "Fleire verktøy…">
 
 <!-- Tab context menu -->
@@ -48,11 +48,11 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "e">
 <!ENTITY  moveToNewWindow.label              "Flytt til eit nytt vindauge">
 <!ENTITY  moveToNewWindow.accesskey          "t">
-<!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner …">
+<!ENTITY  bookmarkAllTabs.label              "Bokmerk alle faner…">
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
-<!ENTITY  undoCloseTab.label                 "Angre attlating av fane">
+<!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
 <!ENTITY  undoCloseTab.accesskey             "A">
-<!ENTITY  closeTab.label                     "Lat att fane">
+<!ENTITY  closeTab.label                     "Lukk fane">
 <!ENTITY  closeTab.accesskey                 "L">
 
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
@@ -63,7 +63,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Opna adresse …">
+<!ENTITY openLocationCmd.label "Opne adresse…">
 <!ENTITY openFileCmd.label "Opna fil…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -356,6 +356,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen opne faner">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skru på fane-synkronisering for å sjå ei liste over faner frå dei andre einingane dine.">

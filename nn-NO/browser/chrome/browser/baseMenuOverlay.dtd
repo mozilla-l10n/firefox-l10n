@@ -5,7 +5,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimer">
 <!ENTITY bringAllToFront.label    "Send alle til framgrunnen">
-<!ENTITY zoomWindow.label         "Forstørr">
+<!ENTITY zoomWindow.label         "Zoome">
 <!ENTITY windowMenu.label         "Vindauge">
 
 <!ENTITY helpMenu.label           "Hjelp"> 
@@ -25,7 +25,7 @@
 
 <!ENTITY helpSafeMode.label       "Start på nytt utan utvidingar…">
 <!ENTITY helpSafeMode.accesskey   "S">
-<!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidingar påslått">
+<!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidingar slått på">
 <!ENTITY helpSafeMode.stop.accesskey   "S">
 
 <!ENTITY healthReport2.label      "&brandShorterName; helserapport">
