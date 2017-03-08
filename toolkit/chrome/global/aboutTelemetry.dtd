@@ -76,7 +76,7 @@
    Зависания браузера ">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-   Зависания нитей ">
+   Зависания потоков ">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
 
