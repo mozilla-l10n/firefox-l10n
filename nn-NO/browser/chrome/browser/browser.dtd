@@ -542,15 +542,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "b">
 <!ENTITY saveVideoCmd.label           "Lagre videoen som…">
 <!ENTITY saveVideoCmd.accesskey       "a">
-<!ENTITY saveAudioCmd.label           "Lagra lyd som …">
+<!ENTITY saveAudioCmd.label           "Lagre lyden som…">
 <!ENTITY saveAudioCmd.accesskey       "a">
-<!ENTITY emailImageCmd.label          "Send bilde …">
+<!ENTITY emailImageCmd.label          "Send bildet med e-post…">
 <!ENTITY emailImageCmd.accesskey      "i">
-<!ENTITY emailVideoCmd.label          "Send video …">
+<!ENTITY emailVideoCmd.label          "Send videoen…">
 <!ENTITY emailVideoCmd.accesskey      "n">
-<!ENTITY castVideoCmd.label           "Send video til eining">
+<!ENTITY castVideoCmd.label           "Send videoen til ei eining">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Send lyd …">
+<!ENTITY emailAudioCmd.label          "Send lydfila med e-post…">
 <!ENTITY emailAudioCmd.accesskey      "n">
 <!ENTITY playPluginCmd.label          "Slå på dette programtillegget">
 <!ENTITY playPluginCmd.accesskey      "a">
@@ -558,15 +558,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hidePluginCmd.accesskey      "G">
 <!ENTITY copyLinkCmd.label            "Kopier lenkeadresse">
 <!ENTITY copyLinkCmd.accesskey        "K">
-<!ENTITY copyImageCmd.label           "Kopier bildeadresse">
+<!ENTITY copyImageCmd.label           "Kopier bildeadressa">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "Kopier bilde">
+<!ENTITY copyImageContentsCmd.label   "Kopier bildet">
 <!ENTITY copyImageContentsCmd.accesskey  "b"> 
-<!ENTITY copyVideoURLCmd.label        "Kopier videoadresse">
+<!ENTITY copyVideoURLCmd.label        "Kopier videoadressa">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Kopier lydadresse">
+<!ENTITY copyAudioURLCmd.label        "Kopier lydadressa">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
-<!ENTITY copyEmailCmd.label           "Kopier e-postadresse">
+<!ENTITY copyEmailCmd.label           "Kopier e-postadressa">
 <!ENTITY copyEmailCmd.accesskey       "o">
 <!ENTITY thisFrameMenu.label              "Denne ramma">
 <!ENTITY thisFrameMenu.accesskey          "D">
