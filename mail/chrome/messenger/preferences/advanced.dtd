@@ -98,8 +98,8 @@
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Perguntar sempre">
 <!ENTITY certs.ask.accesskey             "P">
-<!ENTITY enableOCSP.label                "Pedir aos servidores OCSP para confirmar a validade dos certificados">
-<!ENTITY enableOCSP.accesskey            "v">
+<!ENTITY enableOCSP.label                "Consultar os servidores de resposta OCSP para confirmar a validade de certificados">
+<!ENTITY enableOCSP.accesskey            "O">
 
 <!ENTITY manageCertificates.label "Gerir certificados">
 <!ENTITY manageCertificates.accesskey "G">
