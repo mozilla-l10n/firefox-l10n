@@ -43,7 +43,11 @@
 <!ENTITY generic.longDesc "<p>No gh'é atre informaçioin in sciô problema.</p>">
 
 <!ENTITY captivePortal.title "Intra inta ræ">
+<!ENTITY captivePortal.longDesc2 "
+<p>Ti devi fâ o login in sta ræ prima che ti pòsse acede a l'internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Arvi a Pagina de Login da ræ">
 
 <!ENTITY malformedURI.title "L'indirisso o no l'é valido">
 <!ENTITY malformedURI.longDesc "<p>L'indirisso che ti me dæto o no va ben. Pe piaxei contròlla che no gh'é di eroî inta bara di indirissi e preuva torna.</p>">
