@@ -55,7 +55,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "文档已过期">
-<!ENTITY notCached.longDesc "<p>请求的文档已无法在 &brandShortName; 的缓存中找到。</p><ul><li>出于安全考虑，&brandShortName; 不会自动重新获取敏感文档。</li><li>请点击重试来重新请求从网站获取该文档。</li></ul>">
+<!ENTITY notCached.longDesc "<p>您请求的文档已无法从 &brandShortName; 的缓存中读取。</p><ul><li>出于安全考虑，&brandShortName; 不会自动重新获取敏感文档。</li><li>请点击重试来重新请求从网站获取该文档。</li></ul>">
 
 <!ENTITY netOffline.title "脱机模式">
 <!ENTITY netOffline.longDesc2 "<ul>
@@ -77,27 +77,27 @@
 
 <!ENTITY unknownProtocolFound.title "无法理解该地址">
 <!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>您可能需要安装其他软件以打开此地址。</li> 
+<li>您可能需要安装其他软件才能打开此地址。</li> 
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "代理服务器拒绝连接">
 <!ENTITY proxyConnectFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请联系您的网络管理员以确认代理服务器工作正常。</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "无法找到代理服务器">
-<!ENTITY proxyResolveFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请检查确认您的计算机有可用的网络连接。</li><li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul><li>请检查浏览器的代理服务器设置是否正确。</li><li>请检查确认您的计算机能正常连上网。</li><li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li></ul>">
 
 <!ENTITY redirectLoop.title "此页面不能正确地重定向">
-<!ENTITY redirectLoop.longDesc "<ul><li>此问题可能是因为禁用或拒绝 Cookie 导致。</li></ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>有时候禁用或拒绝接受 Cookie 会导致此问题。</li></ul>">
 
 <!ENTITY unknownSocketType.title "意外的服务器响应">
 <!ENTITY unknownSocketType.longDesc "<ul> 
 <li>请检查您的系统是否安装了个人安全管理器（PSM）。</li> 
-<li>这可能是由于服务器端的非标准配置所导致。</li> 
+<li>这可能是由服务器端的非标准配置所致。</li> 
 </ul>">
 
 <!ENTITY nssFailure2.title "安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>您尝试查看的页面无法显示，因为已收到数据的可靠性无法证实。</li> 
+<li>由于无法证实所接收资料的可靠性，无法显示您正要查看的页面。</li> 
 <li>请联系此网站的管理员并告知此问题。</li> 
 </ul>">
 
@@ -108,16 +108,16 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的管理员未正确配置网站。为避免您的信息被窃，&brandShortName; 没有建立与该网站的连接。">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>此站点暂时不可用或者太忙。请稍后再试。</li> 
-<li>如果您无法载入任何页面，请检查您计算机的网络连接。</li> 
+<li>此站点暂时不可用或者太过忙碌。请稍后再试。</li> 
+<li>如果您无法载入任何网页，请检查您计算机的网络连接状态。</li> 
 <li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li> 
 </ul>">
 
 <!ENTITY cspBlocked.title "已按内容安全策略拦截">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已按该页面包含的内容安全策略阻止该页面以该种方式加载。</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已按该页面包含的内容安全策略阻止其以此种方式加载。</p>">
 
-<!ENTITY corruptedContentErrorv2.title "损坏内容错误">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "内容损坏错误">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到传输的数据含有错误，无法显示您正要查看的页面。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
@@ -128,7 +128,7 @@ was trying to connect. -->
 <!ENTITY remoteXUL.title "远程 XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>请联系此网站的管理员并告知此问题。</li></ul></p>">
 
-<!ENTITY sslv3Used.title "无法安全地连接">
+<!ENTITY sslv3Used.title "无法安全地进行连接">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "高级信息: SSL_ERROR_UNSUPPORTED_VERSION">
