@@ -64,7 +64,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Opne adresse…">
-<!ENTITY openFileCmd.label "Opna fil…">
+<!ENTITY openFileCmd.label "Opne fil…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Utskriftsformat…">
@@ -87,9 +87,9 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Last inn alle faner på nytt">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "L">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner …">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Bokmerk alle faner…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "B">
-<!ENTITY toolbarContextMenu.undoCloseTab.label "Angre attlating av fane">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "Angre lukking av fane">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "n">
 
 <!ENTITY pageSourceCmd.label "Kjeldekode">
@@ -102,7 +102,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Opna fullskjerm">
+<!ENTITY enterFullScreenCmd.label "Opne fullskjerm">
 <!ENTITY enterFullScreenCmd.accesskey "n">
 <!ENTITY exitFullScreenCmd.label "Avslutt fullskjerm">
 <!ENTITY exitFullScreenCmd.accesskey "v">
@@ -114,14 +114,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Logg inn på &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Opna &syncBrand.shortName.label; innstillingar">
-<!ENTITY fxaSignInError.label "Kopla til &syncBrand.shortName.label; på nytt">
+<!ENTITY fxaSignedIn.tooltip "Opne &syncBrand.shortName.label;-innstillingar">
+<!ENTITY fxaSignInError.label "Kople til &syncBrand.shortName.label; på nytt">
 <!ENTITY fxaUnverified.label "Stadfest kontoen din">
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
 <!ENTITY fullScreenRestore.tooltip "Gjenopprett">
-<!ENTITY fullScreenClose.tooltip "Lat att">
+<!ENTITY fullScreenClose.tooltip "Lukk">
 <!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "G">
 <!ENTITY fullScreenExit.label "Avslutt fullskjermmodus">
@@ -153,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "har kontroll over peikaren din. Trykk Esc for å ta tilbake kontrollen.">
 <!ENTITY pointerlockWarning.generic.label "Dette dokumentet har kontroll over musepeikaren. Trykk på Esc for å ta tilbake kontrollen.">
 
-<!ENTITY closeWindow.label "Lat att vindauge">
+<!ENTITY closeWindow.label "Lukk vindauge">
 <!ENTITY closeWindow.accesskey "L">
 
 <!ENTITY bookmarksMenu.label "Bokmerke">
@@ -179,23 +179,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareVideo.accesskey "v">
 <!ENTITY feedsMenu2.label "Abonner denne sida">
 <!ENTITY subscribeToPageMenupopup.label "Abonner på denne sida">
-<!ENTITY subscribeToPageMenuitem.label "Abonner på denne sida …">
-<!ENTITY addCurPagesCmd.label "Bokmerk alle faner …">
+<!ENTITY subscribeToPageMenuitem.label "Abonner på denne sida…">
+<!ENTITY addCurPagesCmd.label "Bokmerk alle faner…">
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerke">
 <!ENTITY recentBookmarks.label "Nyleg bokmerkt">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
-<!ENTITY showRecentlyBookmarked.label     "Vis nyleg bokmerka">
+<!ENTITY showRecentlyBookmarked.label     "Vis nyleg bokmerkte">
 <!ENTITY showRecentlyBookmarked.accesskey "V">
-<!ENTITY hideRecentlyBookmarked.label     "Gøym nyleg bokmerka">
+<!ENTITY hideRecentlyBookmarked.label     "Gøym nyleg bokmerkte">
 <!ENTITY hideRecentlyBookmarked.accesskey "G">
 
 <!ENTITY backCmd.label                "Tilbake">
 <!ENTITY backButton.tooltip           "Gå tilbake ei side">
 <!ENTITY forwardCmd.label             "Fram">
 <!ENTITY forwardButton.tooltip        "Gå fram ei side">
-<!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å visa historikk">
-<!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å visa historikk">
+<!ENTITY backForwardButtonMenu.tooltip "Høgreklikk eller trekk ned for å vise historikk">
+<!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å vise historikk">
 <!ENTITY reloadCmd.label              "Oppdater">
 <!ENTITY reloadButton.tooltip         "Oppdater sida">
 <!ENTITY stopCmd.label                "Stopp">
@@ -207,27 +207,27 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vis sideinfo">
 
-<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opna meldingspanel">
-<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opna panel for plasseringsførespurnad">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opna meldingspanel for utvidingsinstallasjon">
-<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opna meldingspanel for fråkopla data">
-<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opna meldingspanel for lagring av passord">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Opne meldingspanel">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Opne panel for plasseringsførespurnad">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Opne meldingspanel for utvidingsinstallasjon">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Opne meldingspanel for fråkopla data">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opne meldingspanel for lagring av passord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handsam deling av kamera og/eller mikrofon ppå denne nettstaden">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handsam deling av mikrofon med denne nettstaden">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Handsam deling av vindauge eller skjerm med nettstaden">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handter deling av mikrofon med denne nettstaden">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Handter deling av vindauge eller skjerm med nettstaden">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Opna meldingspanel for installasjon">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Opne meldingspanel for installasjon">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Omset denne sida">
-<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Handsam sideomsetting">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handsam bruken av DRM-programvare">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Handter sideomsetting">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Handter bruken av DRM-programvare">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokkert kameraet for denne nettstaden.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokkert mikrofonen for denne nettstaden.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Du har blokkert denne nettstaden frå å dele skjermen din.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plassinformasjon for denne nettstaden.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plasseringsinformasjon for denne nettstaden.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for denne nettstaden.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
 
@@ -245,6 +245,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bokmerke">
 <!ENTITY bookmarksMenuButton.other.label "Andre bokmerke">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobile bokmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
 <!ENTITY viewBookmarksToolbar.label         "Vis bokmerkeverktøylinje">
 
