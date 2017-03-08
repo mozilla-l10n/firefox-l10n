@@ -843,7 +843,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "å">
 
 <!ENTITY trackingContentBlocked.message "Sporing">
-<!ENTITY trackingContentBlocked.moreinfo "Delar av sida som sporar online-aktiviteten din har vorte blokkert.">
+<!ENTITY trackingContentBlocked.moreinfo "Delar av sida som sporar online-aktiviteten din på nettet er blokkert.">
 <!ENTITY trackingContentBlocked.learnMore "Lær meir">
 <!ENTITY trackingContentBlocked.options "Innstillingar">
 <!ENTITY trackingContentBlocked.unblock2.label "Slå av vern for denne nettstaden">
