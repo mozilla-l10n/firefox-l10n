@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Перевіряти наявність нових статей при запуску">
 <!ENTITY loginAtStartup.accesskey      "П">
+<!ENTITY biffAll.label                 "Увімкнути оновлення для всіх стрічок новин">
+<!ENTITY biffAll.accesskey             "У">
 
+<!ENTITY newFeedSettings.label         "Типові налаштування для нових стрічок новин">
 
 <!ENTITY manageSubscriptions.label     "Упорядкувати підписки…">
 <!ENTITY manageSubscriptions.accesskey "У">
