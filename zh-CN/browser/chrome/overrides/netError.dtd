@@ -12,25 +12,25 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "无法连接">
+<!ENTITY connectionFailure.title "连接失败">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "此地址访问受限">
+<!ENTITY deniedPortAccess.title "此网址已被限制">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "找不到服务器">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>请检查该地址是否输入错误，比如将<q><strong>www</strong>.example.com</q>错写成<q><strong>ww</strong>.example.com</q></li><li>如果您无法载入任何页面，请检查您计算机的网络连接。</li><li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li></ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>请检查网址是否输错了？比如将<q><strong>www</strong>.example.com</q>输成<q><strong>ww</strong>.example.com</q></li><li>如果您无法载入任何网页，请检查您计算机的网络连接状态。</li><li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li></ul>">
 
 <!ENTITY fileNotFound.title "找不到文件">
 <!ENTITY fileNotFound.longDesc "<ul> 
-<li>请检查文件名的大小写或者其他输入错误。</li> 
+<li>请检查文件名是否大小写输错，或者有其他输入错误。</li> 
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
 <!ENTITY fileAccessDenied.title "访问该文件被拒绝">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>它可能已被删除、移动，或者因文件权限拒绝访问。</li>
+  <li>文件可能已被删除、移动，或者因文件权限问题被拒绝访问。</li>
 </ul>
 ">
 
