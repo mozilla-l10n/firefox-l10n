@@ -43,7 +43,7 @@
 <!ENTITY performanceUI.toolbar.waterfall "Acucur">
 <!ENTITY performanceUI.toolbar.waterfall.tooltiptext "Nyuto tic ma patpat ma layeny timo ikare me mako, ma kicano kore ki kore calo acucur.">
 <!ENTITY performanceUI.toolbar.js-calltree "Yat me lwongo">
-<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Wero tic pa JavaScript kama layeny otero kare ma lac iye i kare me mak.">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Nyuto tic pa JavaScript kama layeny otero kare ma lac iye i kare me mak.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Pok">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Nyuto kama ki poko kakan ikare me mak.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS Flame Chart">
