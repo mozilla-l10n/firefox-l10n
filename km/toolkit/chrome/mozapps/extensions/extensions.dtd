@@ -26,6 +26,7 @@
 
 <!ENTITY showUnsignedExtensions.button.label  "ផ្នែក​បន្ថែម​ខ្លះ​មិន​អាច​បញ្ជាក់​បាន​ទេ">
 <!ENTITY showAllExtensions.button.label       "បង្ហាញ​ផ្នែក​បន្ថែម​ទាំងអស់">
+<!ENTITY debugAddons.label                    "បំបាត់​កំហុស​ផ្នែក​បន្ថែម">
 <!ENTITY debugAddons.accesskey                "B">
 
 <!-- global warnings -->
@@ -244,4 +245,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ដោយដៃ">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "មាន​បាត់​អ្វី​មែន​ទេ? ផ្នែក​បន្ថែម​មួយ​ចំនួន​មិន​គាំទ្រ​ដោយ &brandShortName; ទៀត​ទេ។">
 <!ENTITY pluginDeprecation.learnMore "ស្វែងយល់បន្ថែម">
