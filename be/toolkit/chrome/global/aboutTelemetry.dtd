@@ -138,7 +138,12 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Атрымаць імёны функцый для стэкаў
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Паказаць сырыя дадзеныя стэка">
 
 <!ENTITY aboutTelemetry.filterText "  Сіта (радкі або /regexp/)">
 
