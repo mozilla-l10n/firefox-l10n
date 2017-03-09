@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Memorizza gli articoli su:">
 <!ENTITY feedFolder.accesskey        "o">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Controlla la presenza di nuovi articoli ogni ">
+<!ENTITY biffStart.accesskey         "o">
+<!ENTITY biffMinutes.label           "minuti">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "giorni">
+<!ENTITY biffDays.accesskey          "g">
+<!ENTITY recommendedUnits.label      "L'editore consiglia:">
+
 <!ENTITY quickMode.label             "Mostra il sommario dell'articolo invece di caricare la pagina web">
 <!ENTITY quickMode.accesskey         "r">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "U">
 <!ENTITY autoTagPrefix.placeholder   "Fornire il prefisso dell'etichetta">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Aggiungi">
 <!ENTITY button.addFeed.accesskey    "A">
 <!ENTITY button.updateFeed.label     "Aggiorna">
