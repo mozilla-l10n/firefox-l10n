@@ -16,6 +16,15 @@
 <!ENTITY feedFolder.label "Opbevar artikler i:">
 <!ENTITY feedFolder.accesskey "O">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Kontroller for nye artikler hvert ">
+<!ENTITY biffStart.accesskey         "K">
+<!ENTITY biffMinutes.label           "minut">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "dage">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Udgiveren anbefaler:">
+
 <!ENTITY quickMode.label "Vis artikeltekst i stedet for at hente websiden">
 <!ENTITY quickMode.accesskey "V">
 
@@ -31,7 +40,7 @@
 <!ENTITY button.addFeed.label "Tilføj">
 <!ENTITY button.addFeed.accesskey "ø">
 <!ENTITY button.updateFeed.label     "Opdater">
-<!ENTITY button.updateFeed.accesskey "d">
+<!ENTITY button.updateFeed.accesskey "a">
 <!ENTITY button.removeFeed.label "Fjern">
 <!ENTITY button.removeFeed.accesskey "F">
 <!ENTITY button.importOPML.label "Importer">
