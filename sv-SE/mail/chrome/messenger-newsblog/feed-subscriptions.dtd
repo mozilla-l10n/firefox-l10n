@@ -25,6 +25,7 @@
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "dagar">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Utgivaren rekommenderar:">
 
 <!ENTITY quickMode.label             "Visa sammanfattning för artikeln istället för att läsa in webbsidan">
 <!ENTITY quickMode.accesskey         "V">
