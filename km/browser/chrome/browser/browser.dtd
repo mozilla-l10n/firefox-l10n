@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "បង្ហាញ​ចំណាំ​ទាំងអស់">
 <!ENTITY recentBookmarks.label "ដែល​បាន​ចំណាំ​ថ្មីៗ">
 <!ENTITY otherBookmarksCmd.label "ចំណាំ​ផ្សេង​ៗ​ទៀត">
+<!ENTITY mobileBookmarksCmd.label "ចំណាំ​ចល័ត">
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ថែមទៀត">
 <!ENTITY showRecentlyBookmarked.label     "បង្ហាញ​ចំណាំ​ថ្មីៗ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ចំណាំ">
 <!ENTITY bookmarksMenuButton.other.label "ចំណាំ​ផ្សេងៗ">
+<!ENTITY bookmarksMenuButton.mobile.label "ចំណាំ​ចល័ត">
 <!ENTITY viewBookmarksSidebar2.label        "មើល​របារ​ឧបករណ៍​ចំណាំ">
 <!ENTITY viewBookmarksToolbar.label         "មើល​របារ​ឧបករណ៍​ចំណាំ">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "គ្មានផ្ទាំងបើកទេ">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "បង្ហាញបន្ថែមទៀត">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "បង្ហាញ​ផ្ទាំង​បន្ថែម​ទៀត​ពី​ឧបករណ៍​នេះ">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "បង្ហាញ​ទាំងអស់">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "បង្ហាញ​ផ្ទាំង​ទាំងអស់​ពី​ឧបករណ៍​នេះ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "បើកសមកាលកម្មផ្ទាំងដើម្បីបង្ហាញបញ្ជីនៃផ្ទាំងពីឧបករណ៍ផ្សេងទៀតរបស់អ្នក ។">
