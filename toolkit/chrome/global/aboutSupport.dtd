@@ -65,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Шматпрацэсныя вокны">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Службы вызначэння месцазнаходжання ад Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Абаронены рэжым">
 
@@ -111,6 +113,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя дадзеныя ў буфер абмену">
 
 <!ENTITY aboutSupport.sandboxTitle "Пясочніца">
+<!ENTITY aboutSupport.sandboxSyscallAge "Секунд таму">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Тып працэсу">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Сістэмны выклік">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Аргументы">
 
 <!ENTITY aboutSupport.safeModeTitle "Паспрабаваць абаронены рэжым">
 <!ENTITY aboutSupport.restartInSafeMode.label "Перазапусціць з адключанымі дадаткамі…">
