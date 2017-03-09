@@ -80,10 +80,13 @@
 <!ENTITY fxaccount_status_more 'ເພີ່ມເຕີມ &ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ຕັດການເຊື່ອມຕໍ່&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'ຕັດການເຊື່ອມຕໍ່ຈາກ Sync?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'ໄດ້ຕັດການເຊື່ອມຕໍ່ກັບບັນຊີຂອງ Firefox &formatS; ແລ້ວ'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ຕັດການເຊື່ອມຕໍ່'>
 
 <!ENTITY fxaccount_enable_debug_mode 'ເປີດໃຊ້ງານໂຫມດ Debug'>
 
