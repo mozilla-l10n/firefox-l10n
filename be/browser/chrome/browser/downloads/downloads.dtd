@@ -134,7 +134,7 @@
 <!ENTITY downloadsHistory.label           "Паказаць усе сцягванні">
 <!ENTITY downloadsHistory.accesskey       "у">
 
-<!ENTITY openDownloadsFolder.label       "Адкрыць каталог перасыланняў">
+<!ENTITY openDownloadsFolder.label       "Адкрыць папку сцягванняў">
 
 <!ENTITY clearDownloadsButton.label       "Ачысціць сцягванні">
 <!ENTITY clearDownloadsButton.tooltip     "Ачысціць скончаныя, скасованыя і няўдачныя сцягванні">
