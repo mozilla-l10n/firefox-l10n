@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Diskouez muioc'h a ivinelloù eus an trevnad-mañ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Di&amp;skouez pep tra">
+<!ENTITY appMenuRemoteTabs.showAll.label "Diskouez pep tra">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Diskouez holl ivinelloù an trevnad-mañ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
