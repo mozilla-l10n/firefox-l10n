@@ -7,3 +7,5 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Depolama">
+<!ENTITY     searchPlaceHolder             "Arama">
+<!ENTITY     searchPlaceHolder.accesskey   "A">

@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çok işlemli pencereler">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google anahtarı">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Konum Hizmeti anahtarı">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Güvenli Kip">
 
 <!ENTITY aboutSupport.showDir.label "Dizini aç">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Ham metni panoya kopyala">
 
 <!ENTITY aboutSupport.sandboxTitle "Kum havuzu">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Reddedilen sistem çağrıları">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "saniye önce">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "İşlem türü">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistem çağrısı">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Parametreler">
 
 <!ENTITY aboutSupport.safeModeTitle "Güvenli kipi deneyin">
 <!ENTITY aboutSupport.restartInSafeMode.label "Eklentileri devre dışı bırakıp yeniden başlat…">
