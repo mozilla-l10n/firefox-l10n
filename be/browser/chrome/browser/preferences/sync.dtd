@@ -24,7 +24,7 @@
 <!ENTITY cancelChangeSyncDeviceName.label "Скасаваць">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ь">
 <!ENTITY saveChangeSyncDeviceName.label "Захаваць">
-<!ENTITY saveChangeSyncDeviceName.accesskey "і">
+<!ENTITY saveChangeSyncDeviceName.accesskey "х">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умовы абслугоўвання">

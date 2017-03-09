@@ -20,9 +20,9 @@
 <!ENTITY            renameButton.accesskey "й">
 <!ENTITY            deleteButton.label     "Выдаліць профіль…">
 <!ENTITY            deleteButton.accesskey "д">
-<!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; захоўвае звесткі пра вашы наладжванні, перавагі і іншыя адзінкі ў вашым профілі карыстальніка.">
+<!-- manager entities -->
+<!ENTITY            pmDescription.label    "&brandShortName; захоўвае звесткі пра вашы налады, перавагі і іншыя адзінкі ў вашым профілі карыстальніка.">
 
 <!ENTITY            offlineState.label    "Працаваць па-за сеткай">
 <!ENTITY            offlineState.accesskey "п">

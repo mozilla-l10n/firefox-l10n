@@ -106,7 +106,7 @@
 <!ENTITY cmd.installAddon.accesskey           "У">
 <!ENTITY cmd.uninstallAddon.label             "Выдаліць">
 <!ENTITY cmd.uninstallAddon.accesskey         "В">
-<!ENTITY cmd.showPreferencesWin.label         "Наладжванні">
+<!ENTITY cmd.showPreferencesWin.label         "Налады">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Змяненне налад гэтага дадатка">
 <!ENTITY cmd.showPreferencesUnix.label        "Перавагі">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Змяненне перавагаў гэтага дадатка">
