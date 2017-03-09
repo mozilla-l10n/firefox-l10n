@@ -31,7 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; មិន​អាច​ផ្ទុក​ទំព័រ​នេះ​បាន​ទេ ពីព្រោះ​តែ​ហេតុផល​មួយ​ចំនួន ។</p>">
 
 <!ENTITY captivePortal.title "ចូល​បណ្ដាញ">
+<!ENTITY captivePortal.longDesc2 "<p> អ្នក​ត្រូវ​តែ​ចូល​ទៅ​កាន់​បណ្ដាញ​នេះ​មុន​ពេល​អ្នក​អាច​ចូល​ប្រើ​អ៊ីន​ធឺណិត។ </p>">
 
+<!ENTITY openPortalLoginPage.label2 "បើក​ទំព័រ​ចូល​ទៅកាន់​បណ្ដាញ">
 
 <!ENTITY malformedURI.title "អាសយដ្ឋាន​មិនត្រឹមត្រូវ">
 <!ENTITY malformedURI.longDesc "<ul> <li>ជាទូទៅ អាសយដ្ឋាន​បណ្ដាញ​ត្រូវ​បាន​សរសេរ​ដូចនេះ <strong>http://www.example.com/</strong></li> <li>សូម​ប្រាកដ​ថា អ្នក​កំពុង​តែ​ប្រើ​សញ្ញា (/) (ឧ. <strong>/</strong>)។</li> </ul>">
