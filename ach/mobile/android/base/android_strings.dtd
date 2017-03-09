@@ -823,7 +823,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Med ikom alamabuk">
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
-
+<!ENTITY activity_stream_highlights "Wiye madito">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 
@@ -835,4 +835,5 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 
 
-
+<!ENTITY activity_stream_welcome_title "Wajoli i wiye madito mamegi">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; dong cweyo wiye madito pi jami ma inongo i kakube wek i nong yoo ni cen i coc akwana madito, vidio, alamabukke, ki potbukke mukene.">
