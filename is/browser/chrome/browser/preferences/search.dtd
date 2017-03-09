@@ -13,6 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Leitarábendingar verða ekki sýndar í staðsetningarslá þar sem þú hefur stillt &brandShortName; þannig að hann muni ekki neina leitarsögu.">
 
+<!ENTITY oneClickSearchEngines.label           "Leitarvélar með einum smelli">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Leitarsláin leyfir þér að leita beint í öðrum leitarvélum. Veldu hverjar þú vilt birta.">
 

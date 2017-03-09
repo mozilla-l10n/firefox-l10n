@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Villa við að hlaða inn síðu">
 <!ENTITY retry.label "Reyna aftur">
 <!ENTITY returnToPreviousPage.label "Til baka">
-
+<!ENTITY advanced.label "Ítarlegt">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>Af einhverri ástæðu getur &brandShortName; ekki hlaðið inn þessari síðu.</p>">
 
 <!ENTITY captivePortal.title "Innskráning á net">
+<!ENTITY captivePortal.longDesc2 "<p>Þú verður að skrá þig inn á þetta netkerfi áður en þú færð aðgang að Internetinu.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Opna net innskráningar síðu">
 
 <!ENTITY malformedURI.title "Veffang ekki löglegt">
 <!ENTITY malformedURI.longDesc "<ul> <li>Veffang er venjulega skrifað sem <strong>http://www.example.com/</strong></li> <li>Vertu viss um að þú sért að slá inn skástrik (þ.e. <strong>/</strong>).</li> </ul>">
