@@ -47,6 +47,6 @@
 <!ENTITY  installerrors.intro.label       "واجه &brandShortName; مشاكل أثناء تحديث بعض إضافاتك.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "اضغط 'أنهِ' لمتابعة تشغيل &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "انقر 'تمّ' لمتابعة &brandShortName;.">
+<!ENTITY  clickFinish.label               "اضغط ”أنهِ“ لمتابعة تشغيل &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "انقر ”تمّ“ لمتابعة &brandShortName;.">
 <!ENTITY  enableChecking.label            "اسمح ل&brandShortName; بالبحث عن تحديثات.">

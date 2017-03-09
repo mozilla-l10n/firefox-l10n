@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "الإعدادات - بيانات المواقع">
-<!ENTITY     settings.description          "المواقع التالية طلبت حفظ بيانات على قرصك. يمكنك تحديد أي المواقع يسمح لها بحفظ بيانات. بيانات المواقع المبدئية مؤقتة و تُحذف تلقائيًا.">
+<!ENTITY     settings.description          "المواقع التالية طلبت حفظ بيانات على قرصك. يمكنك تحديد أي المواقع يسمح لها بحفظ بيانات. البيانات المبدئية للمواقع مؤقتة و تُحذف تلقائيًا.">
 <!ENTITY     hostCol.label                 "الموقع">
 <!ENTITY     statusCol.label               "الحالة">
 <!ENTITY     usageCol.label                "التخزين">

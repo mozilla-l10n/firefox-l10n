@@ -133,8 +133,8 @@
 <!ENTITY resetContext2.label          "صفّر المتغيرات">
 <!ENTITY resetContext2.accesskey      "ص">
 
-<!ENTITY reloadAndRun.label           "أعد التحميل ونفذ ">
-<!ENTITY reloadAndRun.accesskey       "e">
+<!ENTITY reloadAndRun.label           "أعد التحميل و نفذ">
+<!ENTITY reloadAndRun.accesskey       "ح">
 
 
 <!ENTITY executeMenu.label            "تنفيذ">
