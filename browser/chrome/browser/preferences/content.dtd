@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Выбраць…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не турбаваць мяне">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "т">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Не паказваць апавяшчэння пакуль вы не перазапусціце &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Не паказваць апавяшчэнні пакуль вы не перазапусціце &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Выключэнні…">
 <!ENTITY  popupExceptions.accesskey   "В">
