@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Meira&ellipsis;">
 <!ENTITY fxaccount_remove_account "Aftengja&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Aftengjast Sync?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Vafragögn verða áfram á þessu tæki en mun ekki lengur verða samstillt við þinn reikning.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox reikningur &formatS; fjarlægður.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Aftengja">
 
 <!ENTITY fxaccount_enable_debug_mode "Virkja kembu ham">
 <!-- Localization note: this is the name shown by the Android system
