@@ -93,7 +93,7 @@
      show more information for user to take the next action.
      -->
 
-<!ENTITY showMoreInformation.label        "ا&amp;عرض المزيد من المعلومات">
+<!ENTITY showMoreInformation.label        "اعرض المزيد من المعلومات">
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
