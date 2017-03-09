@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Докладніше&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Від’єднати&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Від\&apos;єднатись від синхронізації?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Дані перегляду залишаться на цьому пристрої, але більше не будуть синхронізуватися з вашим обліковим записом.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Обліковий запис Firefox &formatS; від\&apos;єднано.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Від\&apos;єднатися'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Увімкнути режим зневадження'>
 
