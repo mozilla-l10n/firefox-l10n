@@ -136,8 +136,8 @@
 <!ENTITY detail.contributions.description     "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
 
 <!ENTITY detail.updateType                    "Самастойныя абнаўленні">
-<!ENTITY detail.updateDefault.label           "Змоўчнае">
-<!ENTITY detail.updateDefault.tooltip         "Самастойна ўсталёўваць абнаўленні, калі гэта змоўчная налада">
+<!ENTITY detail.updateDefault.label           "Прадвызначана">
+<!ENTITY detail.updateDefault.tooltip         "Самастойна ўсталёўваць абнаўленні, калі гэта прадвызначана">
 <!ENTITY detail.updateAutomatic.label         "Укл.">
 <!ENTITY detail.updateAutomatic.tooltip       "Самастойна ўсталёўваць абнаўленні">
 <!ENTITY detail.updateManual.label            "Выкл.">

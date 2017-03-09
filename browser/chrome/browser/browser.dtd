@@ -808,7 +808,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Дадатковыя прылады і магчымасці">
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце сярод тысячаў дадаткаў">
-<!ENTITY customizeMode.restoreDefaults "Узнавіць прадвызначэнні">
+<!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
 <!ENTITY customizeMode.toolbars "Паказаць / Схаваць паліцы прылад">
 <!ENTITY customizeMode.titlebar "Панэль загалоўка">
 <!ENTITY customizeMode.lwthemes "Тэмы">
