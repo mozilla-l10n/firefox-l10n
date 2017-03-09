@@ -182,6 +182,7 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_notifications "સૂચનાઓ">
+<!ENTITY pref_content_notifications "વેબસાઇટ સુધારાઓ">
 
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
