@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more 'Læs mere&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Afbryd&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Fjern Firefox-konto?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; vil ikke længere synkronisere med din konto, men vil ikke slette dine data på denne enhed.'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Afbryd synkronisering?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Dine data forbliver på denne enhed, men vil ikke længere blive synkroniseret med din Firefox-konto.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox-kontoen &formatS; er fjernet.'>
+<!ENTITY fxaccount_remove_account_toast2 'Firefox-kontoen &formatS; synkroniseres ikke længere med denne enhed.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Afbryd synkronisering'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Aktiver debug Mode'>
 

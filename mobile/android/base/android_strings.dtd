@@ -510,10 +510,8 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Brugernavn">
 <!ENTITY doorhanger_login_edit_password_hint "Adgangskode">
 <!ENTITY doorhanger_login_edit_toggle "Vis adgangskode">
-<!ENTITY doorhanger_login_edit_toast_error "Kunne ikke gemme login">
 <!ENTITY doorhanger_login_select_message "Kopier adgangskode fra &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Adgangskode er kopieret til udklipsholder">
-<!ENTITY doorhanger_login_select_toast_copy_error "Kunne ikke kopiere adgangskode">
 <!ENTITY doorhanger_login_select_action_text "Vælg et andet login">
 <!ENTITY doorhanger_login_select_title "Kopier adgangskode fra">
 
