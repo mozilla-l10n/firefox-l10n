@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'More&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Disconnect&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Kople frå Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Dine nettleserdata vil framleis vere på denne eininga, men vil ikkje lenger synkronisere med kontoen din.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox-konto &formatS; kopla frå.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Kople frå'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Enable Debug Mode'>
 
