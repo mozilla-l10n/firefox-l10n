@@ -34,6 +34,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
 
 <!ENTITY captivePortal.title "Злучыцца з сеткай">
+<!ENTITY captivePortal.longDesc2 "
+<p>Вы павінны ўвайсці ў гэту сетку перад тым, як зможаце атрымаць доступ у Інтэрнэт.</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "Адкрыць старонку ўваходу ў сетку">
 
