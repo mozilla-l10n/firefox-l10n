@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "မှတ်သားချက်များအားလုံးကို ပြသပါ">
 <!ENTITY recentBookmarks.label "မကြာသေးမီက မှတ်သားထားသောဝဘ်စာမျက်နှာများ">
 <!ENTITY otherBookmarksCmd.label "အခြား မှတ်သားချက်များ">
+<!ENTITY mobileBookmarksCmd.label "မိုဘိုင်းလ် စာအမှတ်များ">
 <!ENTITY bookmarksToolbarChevron.tooltip "မှတ်သားချက်များကို ပိုမို ဖေါ်ပြသပါ">
 <!ENTITY showRecentlyBookmarked.label     "လတ်တလော မှတ်ထားသည်များကို ပြရန်">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "စာမှတ်များ">
 <!ENTITY bookmarksMenuButton.other.label "အခြား စာမှတ်များ">
+<!ENTITY bookmarksMenuButton.mobile.label "မိုဘိုင်းလ် စာအမှတ်များ">
 <!ENTITY viewBookmarksSidebar2.label        "စာမှတ်များ ဘေးတန်းကို ပြပါ">
 <!ENTITY viewBookmarksToolbar.label         "စာမှတ်များ ကိရိယာအတန်းကို ပြပါ">
 
@@ -356,6 +358,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ဖွင့်ထားသည့်တပ်ဗ်များ မရှိပါ">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "ထပ်ပြပါ">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "သင့်အခြား ကိရိယာများမှ တပ်ဗ်စာရင်းကို ကြည့်ရန် တပ်ဗ်ထပ်တူပြုအသုံးပြုခြင်းကို ဖွင့်ပါ။">
