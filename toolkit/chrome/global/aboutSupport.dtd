@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Feilsøking">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Denne sida inneheld teknisk informasjon som kan vera nyttig når du prøvar å løysa eit problem. Besøk også <a id='supportLink'>brukarstøttenettstaden</a> for å få svar på ofte stilte spørsmål om &brandShortName;.">
 
 <!ENTITY aboutSupport.crashes.title "Krasjrapportar">
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Namn">
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
 <!ENTITY aboutSupport.appBasicsBuildID "Bygg-ID">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Oppdateringskanal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Oppdateringshistorikk">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Vis oppdateringshistorikk">
@@ -53,13 +53,15 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Minnebruk">
 <!ENTITY aboutSupport.appBasicsPerformance "Yting">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Registrerte tenestearbeidarar">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profilar">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprosess-vindauge">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nykel">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Trygg modus">
 
@@ -75,8 +77,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Viktige endra innstillingar">
 <!ENTITY aboutSupport.modifiedPrefsName "Namn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Verdi">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js innstillingar">
 <!ENTITY aboutSupport.userJSDescription "Profilmappa di inneheld ei <a id='prefs-user-js-link'>user.js-fil</a> som inneheld innstillingar som ikkje vart oppretta av &brandShortName;.">
 
@@ -106,6 +108,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier råtekst til utklippstavla">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandkasse">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekund sidan">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Prosesstype">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv trygg modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan utvidingar…">
