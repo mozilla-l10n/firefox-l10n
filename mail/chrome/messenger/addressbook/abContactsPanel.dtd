@@ -5,17 +5,17 @@
 <!ENTITY propertiesMenu.label               "Özellikler">
 <!ENTITY propertiesMenu.accesskey           "Ö">
 <!ENTITY propertiesCmd.key                  "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label             "Adres defteri özellikleri">
+<!ENTITY abPropertiesMenu.accesskey         "i">
+<!ENTITY contactPropertiesMenu.label        "Kişi özellikleri">
+<!ENTITY contactPropertiesMenu.accesskey    "i">
+<!ENTITY mailingListPropertiesMenu.label    "E-posta listesi özellikleri">
+<!ENTITY mailingListPropertiesMenu.accesskey "i">
 
 <!ENTITY addressbookPicker.label            "Adres Defteri:">
 <!ENTITY addressbookPicker.accesskey        "t">
-
-
+<!ENTITY searchContacts.label               "Kişilerde ara:">
+<!ENTITY searchContacts.accesskey           "a">
 <!ENTITY SearchNameOrEmail.label            "Ad veya e-posta">
 
 <!ENTITY addtoToFieldMenu.label             "Kime alanına ekle">
@@ -30,10 +30,10 @@
 <!ENTITY propertiesContext.accesskey        "Ö">
 <!ENTITY abPropertiesContext.label          "Özellikler">
 <!ENTITY abPropertiesContext.accesskey      "Ö">
-
-
-
-
+<!ENTITY editContactContext.label           "Kişiyi düzenle">
+<!ENTITY editContactContext.accesskey       "d">
+<!ENTITY editMailingListContext.label       "Listeyi düzenle">
+<!ENTITY editMailingListContext.accesskey   "e">
 
 <!ENTITY toButton.label                     "Kime alanına ekle:">
 <!ENTITY toButton.accesskey                 "e">
