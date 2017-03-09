@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Vis alle bokmerke">
 <!ENTITY recentBookmarks.label "Nyleg bokmerkt">
 <!ENTITY otherBookmarksCmd.label "Andre bokmerke">
+<!ENTITY mobileBookmarksCmd.label "Mobile bokmerke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis fleire bokmerke">
 <!ENTITY showRecentlyBookmarked.label     "Vis nyleg bokmerkte">
 <!ENTITY showRecentlyBookmarked.accesskey "V">
