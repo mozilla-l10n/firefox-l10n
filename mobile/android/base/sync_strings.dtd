@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "بیشتر&ellipsis;">
 <!ENTITY fxaccount_remove_account "قطع اتصال&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "قطع ارتباط از همگام‌سازی؟">
+<!ENTITY fxaccount_remove_account_dialog_message2 "اطلاعات مرور شما بر روی این رایانه باقی خواهد ماند، اما دیگر با حساب شما همگام نخواهد شد.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "ارتباط با حساب فایرفاکس &formatS; قطع شد.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "قطع اتصال">
 
 <!ENTITY fxaccount_enable_debug_mode "فعال‌سازی حالت اشکال‌زدایی">
 <!-- Localization note: this is the name shown by the Android system
