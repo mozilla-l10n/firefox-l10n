@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "Значкі">
 <!ENTITY text.label               "Тэкст">
 <!ENTITY useSmallIcons.label      "Дробныя значкі">
-<!ENTITY restoreDefaultSet.label  "Аднавіць змоўчныя">
+<!ENTITY restoreDefaultSet.label  "Аднавіць прадвызначаныя">
 <!ENTITY addNewToolbar.label      "Дадаць новую паліцу прылад">
 <!ENTITY saveChanges.label        "Гатова">
 <!ENTITY undoChanges.label        "Адмяніць змяненні">
