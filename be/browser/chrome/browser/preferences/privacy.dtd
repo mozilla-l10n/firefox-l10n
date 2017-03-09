@@ -48,15 +48,15 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Прымаць кукі з пабочных сайтаў:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "п">
-<!ENTITY  acceptThirdParty.always.label   "Заўсёды">
-<!ENTITY  acceptThirdParty.never.label    "Ніколі">
-<!ENTITY  acceptThirdParty.visited.label  "З наведаных">
+<!ENTITY  acceptThirdParty.always.label   "заўсёды">
+<!ENTITY  acceptThirdParty.never.label    "ніколі">
+<!ENTITY  acceptThirdParty.visited.label  "з наведаных">
 
 <!ENTITY  keepUntil.label               "Трымаць пакуль:">
 <!ENTITY  keepUntil.accesskey           "Т">
 
 <!ENTITY  expire.label                  "яны не састарэюць">
-<!ENTITY  close.label                   "Я не закрыю &brandShortName;">
+<!ENTITY  close.label                   "я не закрыю &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Выключэнні…">
 <!ENTITY  cookieExceptions.accesskey    "В">
@@ -66,9 +66,9 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; павінен:">
 <!ENTITY  historyHeader.pre.accesskey      "п">
-<!ENTITY  historyHeader.remember.label     "Памятаць гісторыю">
-<!ENTITY  historyHeader.dontremember.label "Ніколі не памятаць гісторыю">
-<!ENTITY  historyHeader.custom.label       "Ужываць налады для гісторыі">
+<!ENTITY  historyHeader.remember.label     "памятаць гісторыю">
+<!ENTITY  historyHeader.dontremember.label "ніколі не памятаць гісторыю">
+<!ENTITY  historyHeader.custom.label       "ужываць налады для гісторыі">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; будзе памятаць гісторыю вашага аглядання, сцягванняў, запаўнення формаў і пошуку і будзе трымаць кукі з наведаных сайтаў.">
