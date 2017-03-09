@@ -113,6 +113,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Скапіяваць сырыя дадзеныя ў буфер абмену">
 
 <!ENTITY aboutSupport.sandboxTitle "Пясочніца">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Адхіленыя сістэмныя выклікі">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Секунд таму">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
