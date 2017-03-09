@@ -113,6 +113,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Prosesstype">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argument">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv trygg modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt utan utvidingar…">
