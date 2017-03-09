@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from EdReplace.xul -->
 
+<!-- extracted from EdReplace.xul -->
 
 <!ENTITY replaceDialog.title "Bul ve Değiştir">
 <!ENTITY findField.label "Aranacak metin:">
@@ -24,3 +24,4 @@
 <!ENTITY replaceAllButton.label "Tümünü Değiştir">
 <!ENTITY replaceAllButton.accesskey "T">
 <!ENTITY closeButton.label "Kapat">
+<!ENTITY closeButton.accesskey "K">

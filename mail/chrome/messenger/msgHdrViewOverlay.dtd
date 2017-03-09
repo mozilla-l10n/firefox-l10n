@@ -5,7 +5,7 @@
 <!ENTITY toField4.label "Kime">
 <!ENTITY fromField4.label "Gönderen">
 <!ENTITY senderField4.label "Gönderen">
-
+<!ENTITY author.label "Yazan">
 <!ENTITY organizationField4.label "Kurum">
 <!ENTITY replyToField4.label "Yanıtla">
 
@@ -24,8 +24,8 @@
 
 <!ENTITY hdrArchiveButton1.label "Arşivle">
 <!ENTITY hdrArchiveButton1.tooltip "Bu iletiyi arşivle">
-
-
+<!ENTITY hdrOpenConversationButton1.label "Yazışma">
+<!ENTITY hdrOpenConversationButton1.tooltip "Bu iletinin yazışmalarını göster">
 <!ENTITY hdrSmartReplyButton1.label "Akıllı yanıt">
 <!ENTITY hdrReplyButton1.label "Yanıtla">
 <!ENTITY hdrReplyButton2.tooltip "Bu iletiyi gönderene yanıt yaz">
@@ -70,12 +70,12 @@
 <!ENTITY viewSourceMenuItem1.accesskey "K">
 <!ENTITY otherActionsPrint1.label "Yazdır…">
 <!ENTITY otherActionsPrint1.accesskey "z">
-<!-- Attachment bar context menu items -->
 
+<!-- Attachment bar context menu items -->
 <!ENTITY startExpandedCmd.label    "Ek bölmesini daima göster">
 <!ENTITY startExpandedCmd.accesskey    "g">
-<!-- Attachment context menu items -->
 
+<!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label    "Aç">
 <!ENTITY openAttachmentCmd.accesskey    "A">
 <!ENTITY saveAsAttachmentCmd.label    "Farklı kaydet…">
@@ -94,8 +94,8 @@
 <!ENTITY deleteAllAttachmentsCmd.accesskey    "m">
 
 <!ENTITY openAttachment.tooltip "Ekli dosyayı aç">
-<!-- Attachment toolbar items -->
 
+<!-- Attachment toolbar items -->
 <!ENTITY saveAttachmentButton1.label       "Kaydet">
 <!ENTITY saveAttachmentButton1.tooltip     "Ekteki dosyayı kaydet">
 <!ENTITY saveAllAttachmentsButton1.label   "Tümün kaydet">
