@@ -30,6 +30,8 @@
 <!ENTITY manageCerts2.accesskey "r">
 <!ENTITY manageDevices.label "Güvenlik aygıtları">
 <!ENTITY manageDevices.accesskey "n">
+
 <!-- Strings for the cert picker dialog -->
-
-
+<!ENTITY certPicker.title "Sertifika seçin">
+<!ENTITY certPicker.info  "Sertifika:">
+<!ENTITY certPicker.detailsLabel "Seçilen sertifikanın ayrıntıları:">

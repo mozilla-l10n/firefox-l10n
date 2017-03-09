@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Uyarı göster">
 <!ENTITY showAnimatedAlert.accesskey      "U">
-
+<!ENTITY notificationAlertSettings2.label "Uyarılar ve varsayılan ses Sistem Tercihleri'ndeki Bildirim bölümünden kapatılabilir.">
 <!ENTITY customizeMailAlert.label         "Özelleştir…">
 <!ENTITY customizeMailAlert.accesskey     "z">
 
