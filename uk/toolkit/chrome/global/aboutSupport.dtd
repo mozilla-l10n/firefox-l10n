@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Багатопроцесні вікна">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ключ Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ключ Служби визначення місцезнаходження від Mozilla">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Безпечний режим">
 
 <!ENTITY aboutSupport.showDir.label "Відкрити каталог">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копіювати необроблені дані в буфер">
 
 <!ENTITY aboutSupport.sandboxTitle "Пісочниця">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Відхилені системні виклики">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Секунд тому">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Тип процесу">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Системний виклик">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Аргументи">
 
 <!ENTITY aboutSupport.safeModeTitle "Спробувати безпечний режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Перезапустити з вимкненими додатками…">
