@@ -86,7 +86,7 @@
 <!ENTITY newAppProjectName "Nome progetto:">
 <!ENTITY deck_close "Chiudi">
 <!ENTITY addons_title "Componenti aggiuntivi">
-<!ENTITY addons_aboutaddons "Apri gestore componenti aggiuntivi">
+<!ENTITY addons_aboutaddons "Apri gestione componenti aggiuntivi">
 <!ENTITY prefs_title "Preferenze">
 <!ENTITY prefs_editor_title "Editor">
 <!ENTITY prefs_general_title "Generale">
