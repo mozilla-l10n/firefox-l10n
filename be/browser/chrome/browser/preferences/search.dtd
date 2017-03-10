@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY defaultSearchEngine.label             "Стандартны пашукавік">
+<!ENTITY defaultSearchEngine.label             "Прадвызначаны пашукавік">
 
-<!ENTITY chooseYourDefaultSearchEngine.label   "Выберыце стандартны пашукавік. &brandShortName; выкарыстоўвае яго ў панэлі адрасу, панэлі пошуку і на хатняй старонцы.">
+<!ENTITY chooseYourDefaultSearchEngine.label   "Выберыце прадвызначаны пашукавік. &brandShortName; выкарыстоўвае яго ў панэлі адрасу, панэлі пошуку і на хатняй старонцы.">
 
 <!ENTITY provideSearchSuggestions.label        "Паказваць пошукавыя прапановы">
 <!ENTITY provideSearchSuggestions.accesskey    "ы">
@@ -17,10 +17,10 @@
 
 <!ENTITY chooseWhichOneToDisplay.label         "З дапамогай панэлі пошуку вы можаце шукаць праз розныя пашукавікі. Выберыце, якія з іх паказваць.">
 
-<!ENTITY engineNameColumn.label                "Пошукавая сістэма">
+<!ENTITY engineNameColumn.label                "Пашукавік">
 <!ENTITY engineKeywordColumn.label             "Ключавое слова">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Аднавіць стандартны набор пашукавікоў">
+<!ENTITY restoreDefaultSearchEngines.label     "Аднавіць прадвызначаны набор пашукавікоў">
 <!ENTITY restoreDefaultSearchEngines.accesskey "в">
 
 <!ENTITY removeEngine.label                    "Выдаліць">
