@@ -47,9 +47,9 @@
 <!ENTITY viewMenu_accesskey "G">
 <!ENTITY viewMenu_toggleEditor_label "Editörü aç/kapat">
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
-<!ENTITY viewMenu_zoomin_label "Yaklaş">
+<!ENTITY viewMenu_zoomin_label "Yaklaştır">
 <!ENTITY viewMenu_zoomin_accesskey "Y">
-<!ENTITY viewMenu_zoomout_label "Uzaklaș">
+<!ENTITY viewMenu_zoomout_label "Uzaklaștır">
 <!ENTITY viewMenu_zoomout_accesskey "U">
 <!ENTITY viewMenu_resetzoom_label "Yaklaşmayı sıfırla">
 <!ENTITY viewMenu_resetzoom_accesskey "s">
