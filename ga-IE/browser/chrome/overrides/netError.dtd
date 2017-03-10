@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Fadhb i rith luchtú an leathanaigh">
 <!ENTITY retry.label "Déan Iarracht Arís">
 <!ENTITY returnToPreviousPage.label "Siar">
-
+<!ENTITY advanced.label "Ardroghanna">
 <!-- Specific error messages -->
 
 
@@ -33,6 +33,7 @@
 <!ENTITY captivePortal.title "Logáil isteach sa líonra">
 <!ENTITY captivePortal.longDesc2 "<p>Caithfidh tú logáil isteach sa líonra sular féidir leat teacht ar an Idirlíon.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Logáil Isteach i Líonra">
 
 <!ENTITY malformedURI.title "Níl an seoladh bailí">
 <!ENTITY malformedURI.longDesc "<ul> <li>De ghnáth scríobhtar seoltaí Gréasáin mar seo <strong>http://www.example.com/</strong></li> <li>Bí cinnte gur tulslaiseanna atá agat (.i. <strong>/</strong>).</li> </ul>">
