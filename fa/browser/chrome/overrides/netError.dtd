@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "اشکال در هنگام بارگیری">
 <!ENTITY retry.label "تلاش دوباره">
 <!ENTITY returnToPreviousPage.label "برو عقب">
-
+<!ENTITY advanced.label "پیشرفته">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; به دلایلی نمی‌توان این صفحه را بارگیری کرد.</p>">
 
 <!ENTITY captivePortal.title "ورود به شبکه">
+<!ENTITY captivePortal.longDesc2 "<p>شما باستی در ابتدا وارد این شبکه شوید تا بتوانید به اینترنت دسترسی داشته باشید.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "بازکردن صفحه ورود به شبکه">
 
 <!ENTITY malformedURI.title "نشانی معتبر نیست">
 <!ENTITY malformedURI.longDesc "<ul><li>نشانی‌های وب معمولاً به این صورت نوشته می‌شوند <strong>http://www.example.com/</strong></li> <li>مطمئن شوید که از ممیز درست استفاده می‌کنید (یعنی <strong>/</strong>).</li> </ul>">
