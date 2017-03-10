@@ -7,3 +7,11 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Стан">
 <!ENTITY     usageCol.label                "Сховище">
+<!ENTITY     searchPlaceHolder             "Пошук">
+<!ENTITY     searchPlaceHolder.accesskey   "П">
+<!ENTITY     removeSelected.label          "Видалити вибрані">
+<!ENTITY     removeSelected.accesskey      "В">
+<!ENTITY     save.label                    "Зберегти зміни">
+<!ENTITY     save.accesskey                "З">
+<!ENTITY     cancel.label                  "Скасувати">
+<!ENTITY     cancel.accesskey              "С">
