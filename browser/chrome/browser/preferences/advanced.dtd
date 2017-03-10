@@ -108,8 +108,8 @@
 
 <!ENTITY offlineAppsList2.label          "Aşağıdaki web sitelerinin çevrimdışı kullanım için veri depolamasına izin verilmiştir:">
 <!ENTITY offlineAppsList.height          "7em">
-<!ENTITY offlineAppsListRemove.label     "Kaldır…">
-<!ENTITY offlineAppsListRemove.accesskey "r">
+<!ENTITY offlineAppsListRemove.label     "Sil…">
+<!ENTITY offlineAppsListRemove.accesskey "S">
 <!ENTITY offlineAppRemove.confirm        "Çevrimdışı verileri sil">
 
 <!ENTITY certificateTab.label            "Sertifikalar">
