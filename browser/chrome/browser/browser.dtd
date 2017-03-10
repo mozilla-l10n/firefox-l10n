@@ -65,7 +65,7 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Отваряне на адрес…">
 <!ENTITY openFileCmd.label "Отваряне…">
-<!ENTITY openFileCmd.accesskey "ф">
+<!ENTITY openFileCmd.accesskey "о">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Настройки на отпечатване…">
 <!ENTITY printSetupCmd.accesskey "Н">
@@ -356,6 +356,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени раздели">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
@@ -576,7 +580,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Без звук">
 <!ENTITY mediaMute.accesskey         "з">
 <!ENTITY mediaUnmute.label           "Със звук">
-<!ENTITY mediaUnmute.accesskey       "З">
+<!ENTITY mediaUnmute.accesskey       "з">
 <!ENTITY mediaPlaybackRate2.label     "Скорост на възпроизвеждане">
 <!ENTITY mediaPlaybackRate2.accesskey "о">
 <!ENTITY mediaPlaybackRate050x2.label "Бавна (0.5×)">
