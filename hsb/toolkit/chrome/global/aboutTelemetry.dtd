@@ -80,7 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  KEDŹBU: Pytanje za zmylkami za pomałe SQL-přikazy je zmóžnjene. Dospołne znamješkowe rjećazki SQL hodźa so deleka zwobraznić, ale njebudu so do telemetrije přenošować.">
 
-<!ENTITY aboutTelemetry.fetchStackSymbols "  Funkciske mjena za staple wisanjow wotwołać">
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Funkciske mjena za staple wotwołać">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "  Hrube staplowe daty pokazać">
 
