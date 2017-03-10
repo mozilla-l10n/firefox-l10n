@@ -4,7 +4,7 @@
 
 <!ENTITY loginAtStartup.label          "Controlla presenza di nuovi articoli all'avvio">
 <!ENTITY loginAtStartup.accesskey      "C">
-<!ENTITY biffAll.label                 "Abilita aggiornamenti per tutti i feed">
+<!ENTITY biffAll.label                 "Attiva aggiornamenti per tutti i feed">
 <!ENTITY biffAll.accesskey             "A">
 
 <!ENTITY newFeedSettings.label         "Impostazioni predefinite per i nuovi feed">

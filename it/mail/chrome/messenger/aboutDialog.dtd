@@ -58,7 +58,7 @@
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; è aggiornato">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.adminDisabled       "Aggiornamenti disabilitati dall'amministratore di sistema">
+<!ENTITY update.adminDisabled       "Aggiornamenti disattivati dall'amministratore di sistema">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "È in corso l'aggiornamento di &brandShortName; in un'altra istanza">
 
