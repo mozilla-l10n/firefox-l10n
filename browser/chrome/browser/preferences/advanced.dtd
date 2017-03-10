@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY telemetryDesc.label             "به اشتراک‌گذاری کارایی، کاربرد، سخت‌افزار و اطلاعات سفارشی‌سازی در مورد مرورگر شما با &vendorShortName; به ما کمک می کند تا &brandShortName; بهتری داشته باشیم">
-
-
+<!ENTITY enableTelemetryData.label       "به‌ اشتراک‌گذاری اطلاعات اضافی (به عنوان مثال: دورسنجی)">
+<!ENTITY enableTelemetryData.accesskey   "د">
 <!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
 <!ENTITY crashReporterDesc2.label         "گزارش‌های فروپاشی به &vendorShortName; کمک می‌کند تا مشکلات را برطرف و مرورگر شما را پایدارتر و امن‌تر کند">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "بروزرسانی">
 
+<!ENTITY updateApplication.label         "بروزرسانی‌های &brandShortName;:">
 <!ENTITY updateAuto1.label               "نصب خودکار بروزرسانی‌ها (توصیه می‌شود: بهبود امنیت)">
 <!ENTITY updateAuto1.accesskey           "ن">
 <!ENTITY updateCheckChoose.label         "بررسی برای بروزرسانی، اما به من اجازه بده اینکه نصب شوند یا خیر را انتخاب کنم">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود">
 <!ENTITY useService.accesskey            "پ">
 
+<!ENTITY autoUpdateOthers.label          "بروزرسانی خودکار">
 <!ENTITY enableSearchUpdate.label        "موتورهای جست‌وجو">
 <!ENTITY enableSearchUpdate.accesskey    "م">
 
