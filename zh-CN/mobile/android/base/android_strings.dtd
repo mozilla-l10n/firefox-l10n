@@ -14,7 +14,7 @@
 <!ENTITY firstrun_data_subtext2 "不显示网站上的图像，可节省您访问时消耗的数据流量。">
 <!ENTITY firstrun_sync_title "同步">
 <!ENTITY firstrun_sync_message "&brandShortName;，始终伴您左右">
-<!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，个性体验如影随形。">
+<!ENTITY firstrun_sync_subtext "随处同步您的标签页、密码等信息，个性体验随身带着走。">
 <!ENTITY firstrun_signin_message "互联设备，即刻畅游">
 <!ENTITY firstrun_signin_button "登录并同步">
 <!ENTITY  onboard_start_button_browser "开始浏览">
