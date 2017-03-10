@@ -98,7 +98,7 @@
 <!ENTITY useService.accesskey            "ф">
 
 <!ENTITY autoUpdateOthers.label          "Абнаўляць аўтаматычна">
-<!ENTITY enableSearchUpdate.label        "Машыны пошуку">
+<!ENTITY enableSearchUpdate.label        "Пашукавікі">
 <!ENTITY enableSearchUpdate.accesskey    "ш">
 
 <!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага выкарыстання">
