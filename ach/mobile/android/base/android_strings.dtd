@@ -558,7 +558,7 @@ size. -->
 <!ENTITY masterpassword_password "Mung me donyo">
 <!ENTITY masterpassword_confirm "Mok i cwil me donyo">
 
-<!ENTITY button_ok "Kakare">
+<!ENTITY button_ok "AYA">
 <!ENTITY button_cancel "Juki">
 <!ENTITY button_yes "Eyo">
 <!ENTITY button_no "Pe/Ku">
