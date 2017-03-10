@@ -1,9 +1,9 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
-<!ENTITY places.library.title  "Kütüphane">
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+<!ENTITY places.library.title  "Arşiv">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Düzenle">
@@ -91,7 +91,7 @@
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "İçe aktarma ve yedekleme">
-<!ENTITY maintenance.accesskey  "a">
+<!ENTITY maintenance.accesskey  "m">
 <!ENTITY maintenance.tooltip    "Yer imlerinizi içe aktarın ve yedekleyin">
 
 <!ENTITY backButton.tooltip  "Geriye gider">
@@ -101,7 +101,7 @@
 <!ENTITY detailsPane.more.label "Daha fazla ayrıntı">
 <!ENTITY detailsPane.more.accesskey "a">
 <!ENTITY detailsPane.less.label "Daha az ayrıntı">
-<!ENTITY detailsPane.less.accesskey "a">
+<!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
 
 <!ENTITY find.label               "Arama:">
