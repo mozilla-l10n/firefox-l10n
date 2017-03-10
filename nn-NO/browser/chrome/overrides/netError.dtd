@@ -32,6 +32,7 @@
 
 <!ENTITY captivePortal.title "Logg inn på nettverket">
 
+<!ENTITY openPortalLoginPage.label2 "Opne innloggingsside for nettverk">
 
 <!ENTITY malformedURI.title "Adressa er ugyldig">
 <!ENTITY malformedURI.longDesc "<ul> <li>Nettsideadresser skal vanlegvis skrivast som <strong>http://www.example.com/</strong></li> <li>Kontroller at du brukar framover-skråstrek (til dømes <strong>/</strong>).</li> </ul> ">
