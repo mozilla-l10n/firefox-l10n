@@ -14,8 +14,8 @@
 <!ENTITY searchOnStartTyping.accesskey   "c">
 <!ENTITY blockAutoReload.label           "Miya ngec kace kakube tye katemo me cwalo onyo cano pot buk">
 <!ENTITY blockAutoReload.accesskey       "k">
-
-
+<!ENTITY useOnScreenKeyboard.label       "Nyut kadiyo coc ma ki gudo aguda ka mite">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Yenyo">
 

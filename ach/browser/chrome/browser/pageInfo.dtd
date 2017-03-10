@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Lumuku">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "Wiye madit:">
 <!ENTITY  generalURL            "Kanonge:">
 <!ENTITY  generalType           "Kit:">
 <!ENTITY  generalMode           "Kit me nyuto:">
