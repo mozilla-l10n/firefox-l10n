@@ -7,3 +7,14 @@
 <!ENTITY     hostCol.label                 "Stránka">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložisko">
+<!ENTITY     searchPlaceHolder             "Hľadať">
+<!ENTITY     searchPlaceHolder.accesskey   "H">
+<!ENTITY     removeSelected.label          "Odstrániť vybraté">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Uložiť zmeny">
+<!ENTITY     save.accesskey                "e">
+<!ENTITY     cancel.label                  "Zrušiť">
+<!ENTITY     cancel.accesskey              "Z">
+<!ENTITY     removingDialog.title          "Odstrániť údaje stránok">
+<!ENTITY     removingDialog.description    "Odstránením údajov stránky odstránite taktiež cookies. To môže spôsobiť vaše odhlásenie z webových stránok a odstránenie webového obsahu. Ste si istí, že chcete urobiť takéto zmeny?">
+<!ENTITY     siteTree.label                "Cookies nasledujúcich stránok budú odstránené:">
