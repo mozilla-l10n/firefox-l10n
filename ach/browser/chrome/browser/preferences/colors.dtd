@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Lok rangi ma pot buk ocimo ni ki ma in iyero malo ni:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "L">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Jwijwi">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Keken ki cal ma rangi ne tye malo">
