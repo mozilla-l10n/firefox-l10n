@@ -52,7 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "Вхід в мережу">
+<!ENTITY captivePortal.longDesc2 "
+<p>Ви повинні увійти у цю мережу перед тим, як зможете отримати доступ до Інтернету.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Відкрити сторінку входу в мережу">
 
 <!ENTITY malformedURI.title "Формат адреси неправильний">
 <!ENTITY malformedURI.longDesc "
