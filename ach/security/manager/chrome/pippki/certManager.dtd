@@ -25,14 +25,14 @@
 <!ENTITY certmgr.subjectinfo.label            "Kimino Bot">
 <!ENTITY certmgr.issuerinfo.label             "Ngat ma omino en Aye">
 <!ENTITY certmgr.periodofvalidity.label       "Kare me ticce" >
-<!ENTITY certmgr.fingerprints.label           "Keto lwet cing">
+<!ENTITY certmgr.fingerprints.label           "Keto cing">
 <!ENTITY certmgr.certdetail.title             "Lok me waraga kore kikore">
 <!ENTITY certmgr.certdetail.cn                "Nying manonge bot lwak (CN)">
 <!ENTITY certmgr.certdetail.o                 "Dul (O)">
 <!ENTITY certmgr.certdetail.ou                "Yunit me dul (OU)">
 <!ENTITY certmgr.certdetail.serialnumber      "Nying Namba">
-<!ENTITY certmgr.certdetail.sha256fingerprint "Goc me nyig cing pa SHA-256">
-<!ENTITY certmgr.certdetail.sha1fingerprint   "Keto lwet cing pi SHA1">
+<!ENTITY certmgr.certdetail.sha256fingerprint "Keto cing me SHA-256">
+<!ENTITY certmgr.certdetail.sha1fingerprint   "Keto cing me SHA1">
 
 <!ENTITY certmgr.editcacert.title             "Yub CA tero gen me waraga">
 <!ENTITY certmgr.editcert.edittrust           "Yub ter me gen:">

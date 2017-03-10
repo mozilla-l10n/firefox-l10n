@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Nong ngec mapol…">
 
-
+<!ENTITY defaultButton.label "AYA!">
+<!ENTITY defaultButton.accesskey "A">

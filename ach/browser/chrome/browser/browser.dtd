@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Cone i pot buk man">
 <!ENTITY subscribeToPageMenuitem.label "Cone i pot buk man…">
 <!ENTITY addCurPagesCmd.label "Ket alama buk i dirica matino weng…">
-<!ENTITY showAllBookmarks2.label "Nyut alama buk weng">
+<!ENTITY showAllBookmarks2.label "Nyut alamabuk weng">
 <!ENTITY recentBookmarks.label "Ma kiketo Alamabuk cokki">
 <!ENTITY otherBookmarksCmd.label "Alamabuk Mukene">
 <!ENTITY mobileBookmarksCmd.label "Alamabuk me cing">

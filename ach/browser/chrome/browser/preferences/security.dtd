@@ -10,6 +10,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Geng jami maraco ki me bwola">
+<!ENTITY  enableSafeBrowsing.accesskey    "G">
 
 <!ENTITY  blockDownloads.label            "Geng gam maraco">
 <!ENTITY  blockDownloads.accesskey        "a">

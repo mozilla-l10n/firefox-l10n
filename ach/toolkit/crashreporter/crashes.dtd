@@ -6,7 +6,7 @@
 <!ENTITY crashesUnsubmitted.label   "Ngec me poto ma pe kicwalo">
 <!ENTITY crashesSubmitted.label     "Omiyo ngec me poto">
 <!ENTITY id.heading                 "Cwal ngec me ID">
-
+<!ENTITY dateCrashed.heading        "Nino dwe opoto woko">
 <!ENTITY dateSubmitted.heading      "Kicwalo Nino dwe">
 <!ENTITY noReports.label            "Pe kicwalo ngec me opoto.">
 <!ENTITY noConfig.label             "Purugram man pe kicano me yaro ka maleng ngec me poto. En ma imito <code>breakpad.reportURL</code> myero kiter.">

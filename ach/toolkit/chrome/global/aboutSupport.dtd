@@ -109,8 +109,8 @@ variant of aboutSupport.showDir.label. -->
 
 
 
-
-
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 
 

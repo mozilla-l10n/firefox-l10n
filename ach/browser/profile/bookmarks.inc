@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc Discuss Nightly on IRC
+#define irc Nyam lok ikom Nightly i IRC
 
 
 # LOCALIZATION NOTE (planet):

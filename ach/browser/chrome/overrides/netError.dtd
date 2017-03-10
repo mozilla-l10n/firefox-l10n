@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; pe twero cano pot buk man pi tyen lok mo.</p>">
 
 <!ENTITY captivePortal.title "Dony iyie netwak">
+<!ENTITY captivePortal.longDesc2 "<p>Myero kong i dony iyie netwak man me nongo intanet</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Yab potbuk me donyo iyie netwak">
 
 <!ENTITY malformedURI.title "Kanonge pe tye atir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Kanonge me kakube pol kare kicoyo gi calo <strong>http://www.example.com/</strong></li> <li>Myero inen ni itye katic ki lapok me anyim (i.e. <strong>/</strong>).</li> </ul>">
