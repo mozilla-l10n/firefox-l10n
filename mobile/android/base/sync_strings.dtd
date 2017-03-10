@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Ďalšie&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Odpojiť&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Odpojiť sa zo služby Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Údaje vášho prehliadania zostanú aj naďalej na tomto zariadení, ale nebudú sa synchronizovať s vašim účtom.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Účet Firefox Account pre &formatS; bol odpojený.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Odpojiť'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Zapnúť režim ladenia'>
 
