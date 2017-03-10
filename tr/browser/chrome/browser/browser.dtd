@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Diğer yer imleri">
 <!ENTITY bookmarksMenuButton.mobile.label "Mobil yer imleri">
 <!ENTITY viewBookmarksSidebar2.label        "Yer imleri kenar çubuğunu göster">
-<!ENTITY viewBookmarksToolbar.label         "Yer İmleri araç çubuğunu göster">
+<!ENTITY viewBookmarksToolbar.label         "Yer imleri araç çubuğunu göster">
 
 <!ENTITY containersMenu.label "Kapsayıcılar">
 
