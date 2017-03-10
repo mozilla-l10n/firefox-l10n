@@ -150,7 +150,13 @@
  Примітка: Увімкнено повільний режим зневадження SQL. Внизу можуть бути показані повні рядки SQL, але в телеметрію вони відправлені не будуть.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Отримати імена функцій для стеків
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Показати сирі дані стеку
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Фільтр (рядок чи /regexp/)
