@@ -11,8 +11,8 @@
 <!ENTITY sync.title.connect.label "وصل شدن به &syncBrand.shortName.label;">
 <!-- J-PAKE Key Screen -->
 
-<!ENTITY sync.subtitle.connect.label "برای فعال کردن دستگاه جدید خود “Set up &syncBrand.shortName.label;” را در دستگاه خود انتخاب کنید.">
-<!ENTITY sync.subtitle.pair.label "برای فعال‌سازی، «همگام‌سازی یک دستگاه» در دستگاه دیگر را انتخاب کنید.">
+<!ENTITY sync.subtitle.connect.label "برای فعال کردن دستگاه جدید خود “برپاسازی &syncBrand.shortName.label;” را در دستگاه خود انتخاب کنید.">
+<!ENTITY sync.subtitle.pair.label "برای فعال‌سازی، گزینه «همگام‌سازی یک دستگاه» را در دستگاه دیگر را انتخاب کنید.">
 <!ENTITY sync.pin.default.label "...\n...\n...\n">
 <!ENTITY sync.link.nodevice.label "هم‌اکنون دستگاه همراهم نیست...">
 <!-- Configure Engines -->
