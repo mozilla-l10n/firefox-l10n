@@ -77,9 +77,9 @@
 <!ENTITY clearCacheNow.label             "Очистити">
 <!ENTITY clearCacheNow.accesskey         "ч">
 <!ENTITY clearOfflineAppCacheNow.label   "Очистити">
-<!ENTITY clearOfflineAppCacheNow.accesskey "з">
+<!ENTITY clearOfflineAppCacheNow.accesskey "и">
 <!ENTITY overrideSmartCacheSize.label    "Ігнорувати автоматичне керування кешем">
-<!ENTITY overrideSmartCacheSize.accesskey "О">
+<!ENTITY overrideSmartCacheSize.accesskey "о">
 
 <!ENTITY updateTab.label                 "Оновлення">
 
