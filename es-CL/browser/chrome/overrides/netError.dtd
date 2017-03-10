@@ -42,7 +42,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; no puede cargar esta página por alguna razón.</p>">
 
 <!ENTITY captivePortal.title "Conectarse a la red">
+<!ENTITY captivePortal.longDesc2 "<p>Debes conectarte a esta red antes de que puedas acceder a Internet.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Abrir página de conexión de la red">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "<ul>

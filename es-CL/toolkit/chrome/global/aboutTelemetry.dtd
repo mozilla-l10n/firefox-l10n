@@ -80,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "NOTA: La depuración SQL lenta está activada. Pueden mostrarse cadenas completas de SQL pero no se enviarán a Telemetría.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "Obtener nombres de función para pilas">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "Mostrar datos en bruto de la pila">
 
 <!ENTITY aboutTelemetry.filterText "Filtro (cadenas o /regexp/)">
 
