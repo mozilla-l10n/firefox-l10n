@@ -26,7 +26,7 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '运行于 &formatS2; 的 &formatS1;'>
+<!ENTITY sync.default.client.name '在 &formatS2; 上使用的 &formatS1;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label '书签菜单'>
