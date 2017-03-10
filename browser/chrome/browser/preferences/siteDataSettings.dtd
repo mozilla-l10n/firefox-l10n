@@ -16,5 +16,5 @@
 <!ENTITY     cancel.label                  "Cealaigh">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Sonraí Suímh á Scriosadh">
-
+<!ENTITY     removingDialog.description    "Má scriosann tú sonraí suímh, scriosfar fianáin freisin. Mar thoradh air sin, beidh tú logáilte amach as suímh agus caillfidh tú ábhar gréasáin as líne. An bhfuil tú cinnte gur mhaith leat na hathruithe seo a chur i bhfeidhm?">
 <!ENTITY     siteTree.label                "Scriosfar na fianáin seo a leanas:">
