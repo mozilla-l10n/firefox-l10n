@@ -16,4 +16,5 @@
 <!ENTITY     cancel.label                  "Anulla">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Scancella dæti do scito">
+<!ENTITY     removingDialog.description    "Scancelando i dæti do scito ti leviæ pure i cookie. Questo o te porieva fâ sciortî da i sciti e scancelâ o contegnuo feua linia. T'ê seguo de fâ sti cangiamenti?">
 <!ENTITY     siteTree.label                "I segoenti cookie saian scancelæ:">
