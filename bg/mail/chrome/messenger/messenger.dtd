@@ -359,7 +359,7 @@
 <!ENTITY forwardAsInline.label "Вложено">
 <!ENTITY forwardAsInline.accesskey "В">
 <!ENTITY forwardAsAttachmentCmd.label "Прикачен файл">
-<!ENTITY forwardAsAttachmentCmd.accesskey "у">
+<!ENTITY forwardAsAttachmentCmd.accesskey "ф">
 <!ENTITY editAsNewMsgCmd.label "Редактиране като ново">
 <!ENTITY editAsNewMsgCmd.accesskey "н">
 <!ENTITY editAsNewMsgCmd.key "e">
@@ -433,7 +433,7 @@
 <!ENTITY openConversationCmd.accesskey "д">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Прикачени файлове">
-<!ENTITY openAttachmentListCmd.accesskey "т">
+<!ENTITY openAttachmentListCmd.accesskey "ф">
 <!ENTITY openFeedMessage1.label "При отваряне на съобщения от емисия">
 <!ENTITY openFeedMessage1.accesskey "о">
 <!ENTITY openFeedWebPage.label "Отваряне като уеб страница">
@@ -762,7 +762,7 @@
 <!ENTITY contextForwardAsInline.label "Вложено">
 <!ENTITY contextForwardAsInline.accesskey "В">
 <!ENTITY contextForwardAsAttachmentItem.label "Прикачен файл">
-<!ENTITY contextForwardAsAttachmentItem.accesskey "у">
+<!ENTITY contextForwardAsAttachmentItem.accesskey "ф">
 <!ENTITY contextMultiForwardAsAttachment.label "Препращане като прикачени файлове">
 <!ENTITY contextMultiForwardAsAttachment.accesskey "т">
 <!ENTITY contextMoveMsgMenu.label "Преместване в">
@@ -843,7 +843,7 @@
 <!ENTITY contextMute.label "Заглушаване">
 <!ENTITY contextMute.accesskey "З">
 <!ENTITY contextUnmute.label "Със звук">
-<!ENTITY contextUnmute.accesskey "О">
+<!ENTITY contextUnmute.accesskey "з">
 
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):

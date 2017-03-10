@@ -41,7 +41,7 @@
 <!ENTITY defaultFont.accesskey   "Ш">
 <!ENTITY defaultSize.label       "Големина:">
 <!ENTITY defaultSize.accesskey   "е">
-<!ENTITY fontOptions.accesskey   "Д">
+<!ENTITY fontOptions.accesskey   "Р">
 <!ENTITY fontOptions.label       "Разширени…">
 <!ENTITY colorButton.label       "Цветове…">
 <!ENTITY colorButton.accesskey   "Ц">
