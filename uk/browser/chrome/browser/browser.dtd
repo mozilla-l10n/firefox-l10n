@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Показати всі закладки">
 <!ENTITY recentBookmarks.label "Недавно закладені">
 <!ENTITY otherBookmarksCmd.label "Інші закладки">
+<!ENTITY mobileBookmarksCmd.label "Мобільні закладки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показати інші закладки">
 <!ENTITY showRecentlyBookmarked.label     "Показати недавно закладені">
 <!ENTITY showRecentlyBookmarked.accesskey "о">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Закладки">
 <!ENTITY bookmarksMenuButton.other.label "Інші закладки">
+<!ENTITY bookmarksMenuButton.mobile.label "Мобільні закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Немає відкритих вкладок">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Показати більше">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Показати більше вкладок з цього пристрою">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Показати все">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Показати всі вкладки з цього пристрою">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Увімкнути синхронізацію вкладок для можливості перегляду вашого списку вкладок з інших пристроїв.">
