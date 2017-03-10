@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Lec'hienn">
 <!ENTITY     statusCol.label               "Stad">
 <!ENTITY     usageCol.label                "Kadaviñ">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "&amp;Klask:">
+<!ENTITY     searchPlaceHolder.accesskey   "K">
+<!ENTITY     removeSelected.label          "Dilemel ar re ziuzet">
+<!ENTITY     removeSelected.accesskey      "D">
+<!ENTITY     save.label                    "Enrollañ ar c'hemmoù">
+<!ENTITY     save.accesskey                "E">
+<!ENTITY     cancel.label                  "Nullañ">
+<!ENTITY     cancel.accesskey              "N">
+<!ENTITY     removingDialog.title          "O tilemel roadennoù al lec'hienn">
+<!ENTITY     removingDialog.description    "Dilemel roadennoù al lec'hienn a zilamo an toupinoù ivez. Digennasket e viot eus al lec'hiennoù ha dilemel a raio endalc'hadoù ezlinenn al lec'hiennoù. Sur oc'h e fell deoc'h ober-se?">
+<!ENTITY     siteTree.label                "Dilamet e vo an toupinoù lec'hienn da-heul:">

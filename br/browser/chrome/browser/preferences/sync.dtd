@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Ankouaat ar chomlec'h postel-mañ">
 <!ENTITY forget.accesskey            "p">
 
+<!ENTITY signedOut.caption            "Kemerit ho web ganeoc'h">
 <!ENTITY signedOut.description        "Goubredit ho sinedoù, roll istor, ivinelloù, gerioù-tremen, askouezhioù ha gwellvezioù dre veur a urzhiataer pe trevnad.">
 <!ENTITY signedOut.accountBox.title   "Kennaskit gant un &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Krouiñ ur gont">
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
-
+<!ENTITY signedOut.accountBox.signin  "Kennaskañ">
 <!ENTITY signedOut.accountBox.signin.accesskey  "K">
 
+<!ENTITY signedIn.engines.label       "Goubredañ dre an holl trevnadoù">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
