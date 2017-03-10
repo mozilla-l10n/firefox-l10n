@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Провери да ли има нових чланака при покретању програма">
 <!ENTITY loginAtStartup.accesskey      "П">
+<!ENTITY biffAll.label                 "Омогући ажурирања за све доводе">
+<!ENTITY biffAll.accesskey             "г">
 
+<!ENTITY newFeedSettings.label         "Подразумевана подешавања за нове доводе">
 
 <!ENTITY manageSubscriptions.label     "Управљајте претплатама…">
 <!ENTITY manageSubscriptions.accesskey "У">
