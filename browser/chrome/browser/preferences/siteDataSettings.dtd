@@ -11,7 +11,9 @@
 <!ENTITY     searchPlaceHolder.accesskey   "A">
 <!ENTITY     removeSelected.label          "Seçilenleri sil">
 <!ENTITY     removeSelected.accesskey      "S">
+<!ENTITY     save.label                    "Değişiklikleri kaydet">
 <!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Vazgeç">
 <!ENTITY     cancel.accesskey              "t">
 <!ENTITY     removingDialog.title          "Site verileri siliniyor">
 <!ENTITY     removingDialog.description    "Site verilerini silerseniz çerezler de silinir. Bazı sitelerdeki oturumlarınız kapanabilir ve çevrimdışı web içerikleriniz silinebilir. Bu değişikliği yapmak istediğinizden emin misiniz?">

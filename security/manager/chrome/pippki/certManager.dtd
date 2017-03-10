@@ -7,7 +7,7 @@
 <!ENTITY certmgr.tab.mine                     "Sertifikalarınız">
 <!ENTITY certmgr.tab.others2                  "Kişiler">
 <!ENTITY certmgr.tab.websites3                "Sunucular">
-<!ENTITY certmgr.tab.ca                       "Yetkili">
+<!ENTITY certmgr.tab.ca                       "Makamlar">
 <!ENTITY certmgr.tab.orphan2                  "Diğerleri">
 
 <!ENTITY certmgr.mine                         "Sizi tanımlayan bu kuruluşlardan sertifikalarınız var:">
