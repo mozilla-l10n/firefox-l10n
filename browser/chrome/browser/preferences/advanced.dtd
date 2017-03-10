@@ -74,9 +74,9 @@
 <!ENTITY limitCacheSizeBefore.label      "Обмежити до">
 <!ENTITY limitCacheSizeBefore.accesskey  "О">
 <!ENTITY limitCacheSizeAfter.label       "МБ на диску">
-<!ENTITY clearCacheNow.label             "Очистити зараз">
+<!ENTITY clearCacheNow.label             "Очистити">
 <!ENTITY clearCacheNow.accesskey         "ч">
-<!ENTITY clearOfflineAppCacheNow.label   "Очистити зараз">
+<!ENTITY clearOfflineAppCacheNow.label   "Очистити">
 <!ENTITY clearOfflineAppCacheNow.accesskey "з">
 <!ENTITY overrideSmartCacheSize.label    "Ігнорувати автоматичне керування кешем">
 <!ENTITY overrideSmartCacheSize.accesskey "О">
