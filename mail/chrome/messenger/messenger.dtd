@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Добави поруке">
 <!ENTITY folderContextGetMessages.accesskey "Д">
+<!ENTITY folderContextPauseAllUpdates.label "Паузирај сва ажурирања">
+<!ENTITY folderContextPauseUpdates.label "Паузирај ажурирања">
+<!ENTITY folderContextPauseUpdates.accesskey "П">
 <!ENTITY folderContextOpenInNewWindow.label "Отвори у новом прозору">
 <!ENTITY folderContextOpenInNewWindow.accesskey "О">
 <!ENTITY folderContextOpenNewTab.label "Отвори у новом језичку">
