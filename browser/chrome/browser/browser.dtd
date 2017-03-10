@@ -364,7 +364,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showMore.tooltip "Показати більше вкладок з цього пристрою">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-<!ENTITY appMenuRemoteTabs.showAll.label "Показати все">
+<!ENTITY appMenuRemoteTabs.showAll.label "Показати всі">
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "Показати всі вкладки з цього пристрою">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
