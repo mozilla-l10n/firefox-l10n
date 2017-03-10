@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
 <!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY otherBookmarksCmd.label "Alte semne de carte">
-
+<!ENTITY mobileBookmarksCmd.label "Semne de carte mobile">
 <!ENTITY bookmarksToolbarChevron.tooltip "Arată mai multe semne de carte">
 <!ENTITY showRecentlyBookmarked.label     "Afișează cele recent însemnate">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.other.label "Alte semne de carte">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Semne de carte mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Arată bara laterală cu semne de carte">
 <!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
 
@@ -360,7 +360,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nicio filă deschisă">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Arată mai multe">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Arată mai multe file de pe acest dispozitiv">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 
