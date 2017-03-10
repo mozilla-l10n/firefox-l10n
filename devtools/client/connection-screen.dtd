@@ -8,7 +8,7 @@
   - -->
 
 <!ENTITY title      "Злучэнне">
-<!ENTITY header     "Злучэнне з адлеглай прыладай">
+<!ENTITY header     "Злучэнне з аддаленай прыладай">
 <!ENTITY host       "Хост:">
 <!ENTITY port       "Порт:">
 <!ENTITY connect    "Злучыцца">
@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
-<!ENTITY remoteHelp "Прылады распрацаўніка Firefox могуць наладжваць адлеглыя збудовы (напрыклад: Firefox для Android і Firefox OS). Упэўніцеся, што вы ўключылі наладжванне 'Адлеглая наладка' у адлеглай збудове. Падрабязней у ">
+<!ENTITY remoteHelp "З дапамогай Прылад распрацоўшчыка Firefox можна адладжваць аддаленыя прылады (напрыклад, Firefox для Android і Firefox для OS). Упэўніцеся, што вы ўключылі наладу ‘Адлеглая адладка’ у аддаленай прыладзе. Падрабязней у ">
 <!ENTITY remoteDocumentation "дакументацыі">
 <!ENTITY remoteHelpSuffix ".">
 

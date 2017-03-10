@@ -23,7 +23,7 @@
 <!ENTITY projectMenu_remove_label "Сцерці праект">
 <!ENTITY projectMenu_remove_accesskey "к">
 <!ENTITY projectMenu_showPrefs_label "Налады">
-<!ENTITY projectMenu_showPrefs_accesskey "е">
+<!ENTITY projectMenu_showPrefs_accesskey "а">
 <!ENTITY projectMenu_manageComponents_label "Кіраваць дадатковымі кампанентамі">
 <!ENTITY projectMenu_manageComponents_accesskey "ь">
 <!ENTITY projectMenu_refreshTabs_label "Абнавіць карткі">
