@@ -62,7 +62,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multi-processamento de janelas">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Chave Google">
-<!ENTITY aboutSupport.appBasicsKeyMozilla "Chave de serviço da localização da Mozilla">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Chave do serviço de localização da Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo de segurança">
 
