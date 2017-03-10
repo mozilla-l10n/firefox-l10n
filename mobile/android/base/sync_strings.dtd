@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'Más&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Desconectar&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 '¿Desconectarse de Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Tus datos de navegación se mantendrán en este dispositivo, pero ya no se sincronizarán con tu cuenta.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Cuenta de Firefox &formatS; desconectada.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Desconectarse'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Habilitar modo de depuración'>
 
