@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocess fönster">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nyckel">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nyckel">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Felsäkert läge">
 
@@ -107,11 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiera rådata till urklipp">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Avvisade systemanrop">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Sekunder sedan">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Processtyp">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argument">
 
 <!ENTITY aboutSupport.safeModeTitle "Prova felsäkert läge">
 <!ENTITY aboutSupport.restartInSafeMode.label "Starta om utan tillägg…">
