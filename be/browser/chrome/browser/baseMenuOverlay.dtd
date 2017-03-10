@@ -29,7 +29,7 @@
 <!ENTITY helpSafeMode.stop.accesskey   "П">
 
 <!ENTITY healthReport2.label      "Справаздача пра стан &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "c">
+<!ENTITY healthReport2.accesskey  "т">
 
 <!ENTITY helpTroubleshootingInfo.label      "Звесткі для вырашэння праблемаў">
 <!ENTITY helpTroubleshootingInfo.accesskey  "З">
