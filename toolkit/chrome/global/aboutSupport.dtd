@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiproces-vinduer">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google-nøgle">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service-nøgle">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Fejlsikret tilstand">
 
 <!ENTITY aboutSupport.showDir.label "Åbn mappe">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier rå data til udklipsholderen">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Afviste systemkald">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekunder siden">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Procestype">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenter">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv fejlsikret tilstand">
 <!ENTITY aboutSupport.restartInSafeMode.label "Genstart med tilføjelser deaktiveret…">
