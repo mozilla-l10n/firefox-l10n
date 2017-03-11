@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
 
 <!ENTITY captivePortal.title "Kcem ɣer uẓeṭṭa">
+<!ENTITY captivePortal.longDesc2 "<p>Yessefk ad tkecmeḍ ar uẓeṭṭa-agi send ad tizmireḍ ad tkecmeḍ ar Internet</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Ldi asebter n unekcum γer uẓeṭṭa">
 
 <!ENTITY malformedURI.title "Tansa-yagi d tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
