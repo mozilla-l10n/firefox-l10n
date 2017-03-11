@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Последно затворени раздели">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Последно затворени прозорци">
-<!ENTITY historyRestoreLastSession.label "Възстановяване на предишната сесия">
+<!ENTITY historyRestoreLastSession.label "Възстановяване на предишна сесия">
 
 <!ENTITY showAllHistoryCmd2.label "Цялата история">
 <!ENTITY showAllHistoryCmd.commandkey "H">
