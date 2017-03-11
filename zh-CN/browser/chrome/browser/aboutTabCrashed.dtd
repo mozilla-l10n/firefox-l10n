@@ -13,15 +13,15 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "糟糕了。您的标签页崩溃了。">
+<!ENTITY tabCrashed.header2 "哎呀，您的标签页崩溃了。">
 <!ENTITY tabCrashed.offerHelp "我们可以帮忙！">
-<!ENTITY tabCrashed.single.offerHelpMessage "选择 &tabCrashed.restoreTab; 重新载入页面内容。">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "选择 &tabCrashed.restoreTab; 或 &tabCrashed.restoreAll; 重新载入页面内容。">
-<!ENTITY tabCrashed.requestHelp "您也能帮助我们">
+<!ENTITY tabCrashed.single.offerHelpMessage "点击 &tabCrashed.restoreTab; 重新载入页面内容。">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "点击 &tabCrashed.restoreTab; 或 &tabCrashed.restoreAll; 重新载入页面内容。">
+<!ENTITY tabCrashed.requestHelp "愿意帮我们个忙吗？">
 <!ENTITY tabCrashed.requestHelpMessage "崩溃报告有助于我们诊断问题和改进 &brandShortName;。">
 <!ENTITY tabCrashed.requestReport "报告此标签页">
-<!ENTITY tabCrashed.sendReport2 "发送此标签页的崩溃报告">
-<!ENTITY tabCrashed.commentPlaceholder2 "可选评论（公开可见）">
+<!ENTITY tabCrashed.sendReport2 "发送有关此标签页的错误报告">
+<!ENTITY tabCrashed.commentPlaceholder2 "加上附注（选填且公开可见）">
 <!ENTITY tabCrashed.includeURL2 "在崩溃报告中附上此页网址">
 <!ENTITY tabCrashed.emailPlaceholder "请在这里输入您的电子邮件地址">
 <!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
