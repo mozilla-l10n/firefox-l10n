@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Показване на всички отметки">
 <!ENTITY recentBookmarks.label "Последни отметки">
 <!ENTITY otherBookmarksCmd.label "Други отметки">
+<!ENTITY mobileBookmarksCmd.label "Мобилни отметки">
 <!ENTITY bookmarksToolbarChevron.tooltip "Показване на повече отметки">
 <!ENTITY showRecentlyBookmarked.label     "Показване на последните отметки">
 <!ENTITY showRecentlyBookmarked.accesskey "П">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Отметки">
 <!ENTITY bookmarksMenuButton.other.label "Други отметки">
+<!ENTITY bookmarksMenuButton.mobile.label "Мобилни отметки">
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 
@@ -358,8 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Няма отворени раздели">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Повече">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Повече раздели от други устройства">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Показване на всички">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Всички раздели от други устройства">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Включете синхронизирането на раздели, за да видите списък с раздели от други ваши устройства.">
