@@ -155,7 +155,7 @@
 ">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "
-  Показати сирі дані стеку
+  Показати необроблені дані стеку
 ">
 
 <!ENTITY aboutTelemetry.filterText "
