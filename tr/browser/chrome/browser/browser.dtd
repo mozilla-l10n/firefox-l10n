@@ -549,7 +549,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailImageCmd.accesskey      "ö">
 <!ENTITY emailVideoCmd.label          "Videoyu e-posta ile gönder…">
 <!ENTITY emailVideoCmd.accesskey      "u">
-<!ENTITY castVideoCmd.label           "Videoyu aygıta gönder">
+<!ENTITY castVideoCmd.label           "Videoyu cihaza gönder">
 <!ENTITY castVideoCmd.accesskey       "n">
 <!ENTITY emailAudioCmd.label          "Sesi e-posta ile gönder…">
 <!ENTITY emailAudioCmd.accesskey      "ö">
