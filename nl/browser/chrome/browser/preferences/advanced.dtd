@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Toegankelijkheid">
 
-<!ENTITY useCursorNavigation.label       "Altijd de pijltoetsen gebruiken om te navigeren binnen pagina’s">
+<!ENTITY useCursorNavigation.label       "Altijd de pijltoetsen gebruiken om binnen pagina’s te navigeren">
 <!ENTITY useCursorNavigation.accesskey   "o">
 <!ENTITY searchOnStartTyping.label       "Naar tekst zoeken wanneer u begint met typen">
 <!ENTITY searchOnStartTyping.accesskey   "t">
