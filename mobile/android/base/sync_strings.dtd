@@ -83,8 +83,10 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefox खाते जोडणी मोडली.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "जोडणी मोडा">
 
 <!ENTITY fxaccount_enable_debug_mode "डीबग पद्धत सक्रीय">
 <!-- Localization note: this is the name shown by the Android system
