@@ -13,7 +13,7 @@
 
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-<!ENTITY openURL.label     "Отваряне в нов раздел">
+<!ENTITY openURL.label     "Отваряне в раздел">
 <!ENTITY openURL.accesskey "р">
 
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu

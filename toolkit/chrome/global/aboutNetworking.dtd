@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Съобщения получени">
 <!ENTITY aboutNetworking.bytesSent             "Байта изпратени">
 <!ENTITY aboutNetworking.bytesReceived         "Байта получени">
-<!ENTITY aboutNetworking.logging               "Журнали">
+<!ENTITY aboutNetworking.logging               "Журнал">
 <!ENTITY aboutNetworking.logTutorial           "Вижте <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Журнали на HTTP</a> за инструкции как да използвате този инструмент.">
 <!ENTITY aboutNetworking.currentLogFile        "Текущ журнал:">
 <!ENTITY aboutNetworking.currentLogModules     "Текущи модули:">
