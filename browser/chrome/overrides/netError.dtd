@@ -52,11 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "Aanmelden bij netwerk">
-<!ENTITY captivePortal.longDesc "
-<p>Dit netwerk kan u vragen u aan te melden voor toegang tot het internet.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>U moet zich aanmelden bij dit netwerk voordat u toegang hebt tot het internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Aanmeldingspagina openen">
+<!ENTITY openPortalLoginPage.label2 "Aanmeldingspagina voor netwerk openen">
 
 <!ENTITY malformedURI.title "Het adres is niet geldig">
 <!ENTITY malformedURI.longDesc "
@@ -188,14 +188,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Geavanceerde info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Uw verbinding is niet beveiligd">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Geavanceerde info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Geavanceerd">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> gebruikt verouderde beveiligingstechnologie die kwetsbaar is voor aanvallen. Een aanvaller kan eenvoudig gegevens onthullen waarvan u dacht dat deze veilig waren.">
-<!ENTITY weakCryptoAdvanced.override "(Niet beveiligd) <span class='hostname'></span> proberen te laden via verouderde beveiliging">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
