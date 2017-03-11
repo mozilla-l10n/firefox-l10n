@@ -9,3 +9,6 @@
 <!ENTITY     usageCol.label                "Хранилище">
 <!ENTITY     searchPlaceHolder             "Търсене">
 <!ENTITY     searchPlaceHolder.accesskey   "т">
+<!ENTITY     cancel.label                  "Отказ">
+<!ENTITY     cancel.accesskey              "з">
+<!ENTITY     siteTree.label                "Следните бисквитки от сайта ще бъдат премахнати:">
