@@ -52,7 +52,9 @@
 ">
 
 <!ENTITY captivePortal.title "Пријави се на мрежу">
+<!ENTITY captivePortal.longDesc2 "<p>Морате се пријавити на ову мрежу пре него што можете приступити интернету.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Отвори страницу пријаве за мрежу">
 
 <!ENTITY malformedURI.title "Адреса је неважећа">
 <!ENTITY malformedURI.longDesc "
