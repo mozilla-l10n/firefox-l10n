@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more 'Meer&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Verbreken&ellipsis;'>
 
-<!ENTITY fxaccount_remove_account_dialog_title 'Firefox-account verwijderen?'>
-<!ENTITY fxaccount_remove_account_dialog_message '&brandShortName; zal het synchroniseren met uw account stoppen, maar geen navigatiegegevens op dit apparaat verwijderen.'>
+<!ENTITY fxaccount_remove_account_dialog_title2 'Verbinding met Sync verbreken?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Uw navigatiegegevens blijven op dit apparaat bestaan, maar er wordt niet meer met uw account gesynchroniseerd.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_remove_account_toast 'Firefox-account &formatS; verwijderd.'>
+<!ENTITY fxaccount_remove_account_toast2 'Firefox-account &formatS; verbroken.'>
+<!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
+ confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Verbreken'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Debugmodus inschakelen'>
 
