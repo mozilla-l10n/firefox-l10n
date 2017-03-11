@@ -7,7 +7,7 @@
 <!ENTITY     hostCol.label                 "Lec'hienn">
 <!ENTITY     statusCol.label               "Stad">
 <!ENTITY     usageCol.label                "Kadaviñ">
-<!ENTITY     searchPlaceHolder             "&amp;Klask:">
+<!ENTITY     searchPlaceHolder             "Klask:">
 <!ENTITY     searchPlaceHolder.accesskey   "K">
 <!ENTITY     removeSelected.label          "Dilemel ar re ziuzet">
 <!ENTITY     removeSelected.accesskey      "D">
