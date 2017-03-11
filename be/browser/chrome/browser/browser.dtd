@@ -326,7 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewMenu.label         "Прагляд"> 
 <!ENTITY viewMenu.accesskey       "П"> 
-<!ENTITY viewToolbarsMenu.label       "Панэлі прыладаў"> 
+<!ENTITY viewToolbarsMenu.label       "Паліцы прылад"> 
 <!ENTITY viewToolbarsMenu.accesskey     "л"> 
 <!ENTITY viewSidebarMenu.label "Бакавая панэль">
 <!ENTITY viewSidebarMenu.accesskey "п">
