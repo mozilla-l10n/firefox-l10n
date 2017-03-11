@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "সিঙ্ক থেকে বিচ্ছিন্ন হবে?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "আপনার ব্রাউজিং ডাটা এইই ডিভাইসেই থাকবে, কিন্তু তা আপনার অ্যাকাউন্টের সাথে সিঙ্ক হবে না।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox Account &formatS; বিচ্ছিন্ন হয়েছে।">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "বিচ্ছিন্ন">
 
 <!ENTITY fxaccount_enable_debug_mode "ডিবাগ মোড সক্রিয় করুন">
 <!-- Localization note: this is the name shown by the Android system
