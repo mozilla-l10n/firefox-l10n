@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Daugiau&ellipsis;">
 <!ENTITY fxaccount_remove_account "Atjungti…">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Atsijungti nuo „Sync“?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Jūsų naršymo duomenys liks šiame įrenginyje, tačiau nebebus sinchronizuojami su jūsų paskyra.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "„Firefox“ paskyra &formatS; atjungta.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Atsijungti">
 
 <!ENTITY fxaccount_enable_debug_mode "Įjungti derinimo režimą">
 <!-- Localization note: this is the name shown by the Android system
