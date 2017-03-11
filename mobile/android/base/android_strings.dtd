@@ -790,7 +790,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation "附加组件">
 <!ENTITY restrictable_feature_addons_installation_description "为 Firefox 添加功能或特性。注意：加载项可以使某些限制失效。">
 <!ENTITY restrictable_feature_private_browsing "隐私浏览模式">
-<!ENTITY restrictable_feature_private_browsing_description "允许家庭成员浏览网页，而不保留他们访问的网站和页面的信息。">
+<!ENTITY restrictable_feature_private_browsing_description "让家人可在上网时不留下访问过的网站信息。">
 <!ENTITY restrictable_feature_clear_history "清除历史记录">
 <!ENTITY restrictable_feature_clear_history_description "允许家庭成员删除有关他们访问的网站和页面的信息，">
 <!ENTITY restrictable_feature_advanced_settings "高级设置">
