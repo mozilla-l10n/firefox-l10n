@@ -7,3 +7,5 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Състояние">
 <!ENTITY     usageCol.label                "Хранилище">
+<!ENTITY     searchPlaceHolder             "Търсене">
+<!ENTITY     searchPlaceHolder.accesskey   "т">
