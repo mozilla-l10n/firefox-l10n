@@ -37,7 +37,7 @@
 <!ENTITY generic.title "哎呀。">
 <!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
 
-<!ENTITY captivePortal.title "需登录网络">
+<!ENTITY captivePortal.title "请登录网络">
 <!ENTITY captivePortal.longDesc2 "
 <p>您必须先登录此网络才能访问互联网。</p>">
 
