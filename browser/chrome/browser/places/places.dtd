@@ -31,7 +31,7 @@
 <!ENTITY importBookmarksFromHTML.accesskey "I">
 <!ENTITY exportBookmarksToHTML.label       "导出书签到 HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "从另一个浏览器导入数据…">
+<!ENTITY importOtherBrowser.label          "从其他浏览器导入数据…">
 <!ENTITY importOtherBrowser.accesskey      "A">
 
 <!ENTITY cmd.backup.label               "备份…">
