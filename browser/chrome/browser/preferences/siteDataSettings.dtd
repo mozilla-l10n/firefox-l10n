@@ -16,3 +16,5 @@
 <!ENTITY     cancel.label                  "Avbryt">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Fjernar sidedata">
+<!ENTITY     removingDialog.description    "Fjerning af nettstaddata vil også fjerne infokapsøar. Dette kan logge deg ut frå nettstadar og fjerne fråkopla (offline) nettinnhald. Vil du utføre desse endringane?">
+<!ENTITY     siteTree.label                "Følgjande nettstadinfokapslar vert fjerna:">

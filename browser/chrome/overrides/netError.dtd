@@ -31,6 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>">
 
 <!ENTITY captivePortal.title "Logg inn på nettverket">
+<!ENTITY captivePortal.longDesc2 "
+<p>Du må logge inn på nettverket før du kan kople til Internett.</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "Opne innloggingsside for nettverk">
 
