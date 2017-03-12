@@ -2,8 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "အပြင်အဆင် - ဆိုက်ဒေတာ">
+<!ENTITY     window.title                  "အပြင်အဆင်များ - ဆိုက်ဒေတာ">
 <!ENTITY     settings.description          "အောက်ပါဝက်ဆိုက်များမှ သင့်ကွန်ပျူတာတွင် အချက်အလက်သိမ်းထားသည်။မည်သည့် ဝက်ဆိုက်ကို ခွင့်ပြုမည်ကို သင်ရွေးချယ်နိုင်သည်။  စံပုံစံဆိုက် သည် ခတ္တ မျှသာ ဖြစ်ပြီး ပျက်သွားနိုင်သည်">
 <!ENTITY     hostCol.label                 "ဆိုက်">
 <!ENTITY     statusCol.label               "အခြေအနေ">
 <!ENTITY     usageCol.label                "သိမ်းဆည်းပါ">
+<!ENTITY     searchPlaceHolder             "ရှာဖွေပါ">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "ရွေးထားသည့်အရာများကို ဖယ်ရှားပါ">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "ပြောင်းလဲမှုများကို သိမ်းပါ">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "မလုပ်ဆောင်တော့ပါ">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "ဝဘ်ဆိုက်ဒေတာကို ဖယ်ရှားနေပါသည်">
+<!ENTITY     removingDialog.description    "ဝဘ်ဆိုက်ဒေတာကို ဖျက်ခြင်းသည် ကွတ်ကီးများကိုပါ ဖယ်ရှားပါသည်။ ၎င်းသည် လက်မှတ်ထိုးဝင်ရောက်ထားသည့် ဝဘ်ဆိုက်များထံမှ ထွက်ခြင်းနှင့် ချိတ်ဆက်မဲ့ ဝဘ်အချက်အလက်များကို ဖယ်ရှားခြင်းတို့ ဖြစ်စေသည်။ ယခုပြောင်းလဲမှုများကို ပြုလုပ်ရန် သေချာပါသလား။">
+<!ENTITY     siteTree.label                "အောက်ပါဝဘ်ဆိုက်၏ ကွတ်ကီးကို ဖယ်ရှားပါမည်။">
