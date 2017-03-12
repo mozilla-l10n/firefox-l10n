@@ -54,6 +54,10 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayo">
 <!ENTITY  font.langGroup.math                     "Matemáticas">
+<!ENTITY  font.langGroup.odia                     "Oriya">
+<!ENTITY  font.langGroup.telugu                   "Telugú">
+<!ENTITY  font.langGroup.kannada                  "Kannada">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
 <!ENTITY  font.langGroup.tibetan                  "Tibetano">
 <!ENTITY  font.langGroup.other                    "Otros sistemas de escritura">
 <!-- Minimum font size -->
