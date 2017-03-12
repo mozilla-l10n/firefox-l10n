@@ -229,6 +229,10 @@
 <!ENTITY pref_category_media "પ્રચાર માધ્યમ">
 <!ENTITY pref_category_developer_tools "વિકાસકર્તા સાધનો">
 
+<!ENTITY pref_tap_to_load_images_title2 "છબીઓ બતાવો">
+<!ENTITY pref_tap_to_load_images_enabled "હંમેશા">
+<!ENTITY pref_tap_to_load_images_data "માત્ર Wi-Fi પર">
+<!ENTITY pref_tap_to_load_images_disabled2 "બ્લોક થયેલ છે">
 
 
 
