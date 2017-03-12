@@ -84,6 +84,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  MERK: Treg SQL-feilsøking er påslått. Fullstendige SQL-uttrykk kan visast nedanfor, men dei vert ikkje sendt inn til Telemetry.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Hent funksjonsnamn for stablar
+">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Vis rå stackdata
