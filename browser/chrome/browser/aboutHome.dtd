@@ -6,14 +6,14 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "&brandFullName; શરૂઆત પાનું">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "Firefox પસંદ કરવા માટે તમારો આભાર! મોટાભાગે તમારે બ્રાઉઝરને મેળવવા માટે <a>તાજેતરનાં લક્ષણો</a> વિશે વધારે શીખો.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -33,6 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "ઍડ-ઑન">
 <!ENTITY abouthome.downloadsButton.label "ડાઉનલોડDownloads">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
+<!ENTITY abouthome.aboutMozilla.label    "મોઝિલા વિશે">
