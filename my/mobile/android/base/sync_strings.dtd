@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'နောက်&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ချိတ်ဆက်မှုကို ဖြုတ်ရန်&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Sync နှင့် ချိတ်ဆက်ထားခြင်းမှ ဖြုတ်မည်လား။'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ကြည့်ရှုထားသည့် ဒေတာများသည် ယခုကိရိယာတွင် ကျန်ရှိမည် ဖြစ်သော်လည်း သင့်အကောင့်နှင့် ထပ်တူပြုပြိုင်တူ မဖြစ်စေတော့ပါ။'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox Account &formatS; ကို ချိတ်ဆက်ဖြုတ်ပြီးပြီ။'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'ချိတ်ဆက်ဖြုတ်ရန်'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Debug Mode ကို ဖွင့်ပါ'>
 
