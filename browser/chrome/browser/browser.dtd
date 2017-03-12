@@ -888,7 +888,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "Siste <html:strong>infokapslar</html:strong> slettast">
 <!ENTITY panicButton.view.deleteHistory           "Nyleg <html:strong>historikk</html:strong> slettast">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Lukke alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "Opne eit nytt, reint vindauge">
+<!ENTITY panicButton.view.openNewWindow           "Opne eit nytt, friskt vindauge">
 
 <!ENTITY panicButton.view.undoWarning             "Denne handlinga kan ikkje angrast.">
 <!ENTITY panicButton.view.forgetButton            "Gløym!">
