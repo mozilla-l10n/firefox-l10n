@@ -189,24 +189,35 @@
 <!ENTITY pref_category_home_panels "પેનલો">
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
+<!ENTITY pref_category_home_homepage "મુખ પૃષ્ઠ">
+<!ENTITY home_homepage_title "મુખ પૃષ્ઠ સુયોજીત કરો">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "&brandShortName; મુખ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "વૈવિધ્યપૂર્ણ">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "શોધ પદ અથવા સરનામું દાખલ કરો">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "સામાન્ય">
+<!ENTITY pref_header_search "શોધ">
 <!ENTITY pref_header_privacy_short "ખાનગીપણુ">
+<!ENTITY pref_header_accessibility "ઉપલ્બધતા">
+<!ENTITY pref_header_notifications "સૂચનાઓ">
+<!ENTITY pref_header_advanced "અદ્યતન">
 <!ENTITY pref_header_help "મદદ">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "કુકીઓ">
+<!ENTITY pref_cookies_menu "નકલો">
 <!ENTITY pref_cookies_accept_all "સક્રિય કરેલ">
 <!ENTITY pref_cookies_not_accept_foreign "સક્રિય કરેલ, ત્રીજી વ્યક્તિને નહિ સમાવીને">
 <!ENTITY pref_cookies_disabled "નિષ્ક્રિય કરેલ">
@@ -214,6 +225,9 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "માહિતી સર્વર">
+<!ENTITY pref_category_media "પ્રચાર માધ્યમ">
+<!ENTITY pref_category_developer_tools "વિકાસકર્તા સાધનો">
 
 
 
