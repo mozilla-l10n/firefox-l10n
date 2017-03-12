@@ -22,13 +22,13 @@
 <!ENTITY  reloadTab.label                    "Oppdater fane">
 <!ENTITY  reloadTab.accesskey                "O">
 <!ENTITY  reloadAllTabs.label                "Oppdater alle faner">
-<!ENTITY  reloadAllTabs.accesskey            "d">
+<!ENTITY  reloadAllTabs.accesskey            "a">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "Lat att faner til høgre">
-<!ENTITY  closeTabsToTheEnd.accesskey        "e">
-<!ENTITY  closeOtherTabs.label               "Lat att andre faner">
+<!ENTITY  closeTabsToTheEnd.label            "Lukk faner til høgre">
+<!ENTITY  closeTabsToTheEnd.accesskey        "u">
+<!ENTITY  closeOtherTabs.label               "Lukk andre faner">
 <!ENTITY  closeOtherTabs.accesskey           "a">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
@@ -37,9 +37,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Fest fana">
-<!ENTITY  pinTab.accesskey                   "L">
+<!ENTITY  pinTab.accesskey                   "F">
 <!ENTITY  unpinTab.label                     "Løys fana">
-<!ENTITY  unpinTab.accesskey                 "å">
+<!ENTITY  unpinTab.accesskey                 "s">
 <!ENTITY  sendTabToDevice.label              "Send fane til eining">
 <!ENTITY  sendTabToDevice.accesskey          "e">
 <!ENTITY  sendPageToDevice.label             "Send sida til eining">
@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Løyve">
 <!ENTITY identity.permissionsEmpty "Du har ikkje gjeve denne nettstaden spesielle løyve.">
-<!ENTITY identity.permissionsReloadHint "Du må kanskje lasta sida på nytt for at endringane skal gjelde.">
+<!ENTITY identity.permissionsReloadHint "Du må kanskje laste sida på nytt for at endringane skal gjelde.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -885,9 +885,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Om du held fram vil:">
-<!ENTITY panicButton.view.deleteCookies           "Slett siste <html:strong>infokapslar</html:strong> slettast">
-<!ENTITY panicButton.view.deleteHistory           "Slett nyleg <html:strong>historikk</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukk alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
+<!ENTITY panicButton.view.deleteCookies           "Siste <html:strong>infokapslar</html:strong> slettast">
+<!ENTITY panicButton.view.deleteHistory           "Nyleg <html:strong>historikk</html:strong> slettast">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Lukke alle <html:strong>faner</html:strong> og <html:strong>vindauge</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Opne eit nytt, reint vindauge">
 
 <!ENTITY panicButton.view.undoWarning             "Denne handlinga kan ikkje angrast.">
