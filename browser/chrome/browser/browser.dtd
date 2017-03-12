@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mostrar todos los marcadores">
 <!ENTITY recentBookmarks.label "Marcadores recientes">
 <!ENTITY otherBookmarksCmd.label "Otros marcadores">
+<!ENTITY mobileBookmarksCmd.label "Marcadores de celular">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar más marcadores">
 <!ENTITY showRecentlyBookmarked.label     "Mostrar recientemente marcados">
 <!ENTITY showRecentlyBookmarked.accesskey "M">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcadores">
 <!ENTITY bookmarksMenuButton.other.label "Otros marcadores">
+<!ENTITY bookmarksMenuButton.mobile.label "Marcadores de celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Sin pestañas abiertas">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Mostrar más">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Mostrar más pestañas de este dispositivo">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Mostrar todas">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Mostrar todas las pestañas de este dispositivo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Habilitar sincronización de pestañas para ver una lista de pestañás de los otros dispositivos.">
