@@ -84,6 +84,7 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 "آپ کے براؤزنگ کے کوائف اس آلہ پر رہیں گے، لیکن یہ آپ کے اکاؤنٹ کے ساتھ ہمہ وقت ساز نہیں رہیں گے۔">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox اکاؤنٹ &formatS; ،نقظع کر دیا گیا۔">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm "منقطع کریں">
