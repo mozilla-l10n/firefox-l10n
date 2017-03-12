@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Sýna öll bókamerki">
 <!ENTITY recentBookmarks.label "Nýlega sett í bókamerki">
 <!ENTITY otherBookmarksCmd.label "Önnur bókamerki">
-
+<!ENTITY mobileBookmarksCmd.label "Bókamerki farsíma">
 <!ENTITY bookmarksToolbarChevron.tooltip "Sýna fleiri bókamerki">
 <!ENTITY showRecentlyBookmarked.label     "Sýna nýlega sett í bókamerki">
 <!ENTITY showRecentlyBookmarked.accesskey "n">
