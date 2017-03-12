@@ -80,10 +80,14 @@
 <!ENTITY fxaccount_status_more 'עוד&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'ניתוק&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'האם ברצונך להתנתק מ־Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'היסטורית הגלישה שלך תישאר על התקן זה, אבל לא תסתנכרן עוד עם החשבון שלך.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'חשבון ה־Firefox בכתובת &formatS; נותק.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'התנתקות'>
 
 <!ENTITY fxaccount_enable_debug_mode 'הפעלת מצב ניפוי שגיאות'>
 
