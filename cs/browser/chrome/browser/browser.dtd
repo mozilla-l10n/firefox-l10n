@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Zobrazit všechny záložky">
 <!ENTITY recentBookmarks.label "Naposledy přidané">
 <!ENTITY otherBookmarksCmd.label "Ostatní záložky">
+<!ENTITY mobileBookmarksCmd.label "Záložky z mobilu">
 <!ENTITY bookmarksToolbarChevron.tooltip "Zobrazí více záložek">
 <!ENTITY showRecentlyBookmarked.label     "Zobrazit nedávno přidané záložky">
 <!ENTITY showRecentlyBookmarked.accesskey "e">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Záložky">
 <!ENTITY bookmarksMenuButton.other.label "Ostatní záložky">
+<!ENTITY bookmarksMenuButton.mobile.label "Záložky z mobilu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label         "Zobrazit lištu záložek">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Žádné otevřené panely">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Zobrazit více">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Zobrazí panely z tohoto zařízení">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Zobrazit vše">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Zobrazí všechny panely z tohoto zařízení">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.">

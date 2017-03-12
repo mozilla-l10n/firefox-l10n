@@ -138,7 +138,9 @@ Ping
 
 <!ENTITY aboutTelemetry.fullSqlWarning "Poznámka: Ladění pomalých dotazů SQL je zapnuto. Ve výpisu se mohou objevit úplné dotazy SQL, které ale nejsou odesílány.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "Získat názvy funkcí ze zásobníků">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "Zobrazit surová data zásobníku">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtr (řetězce nebo /regexp/)
