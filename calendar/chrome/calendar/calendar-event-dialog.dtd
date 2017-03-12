@@ -190,6 +190,7 @@
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 <!ENTITY counter.button.proposal.label                    "Aplicar propuesta">
 <!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Los campos de eventos se llenarán usando los valores de la contrapropuesta, guardando con o sin cambios adicionales notificará a todos los participantes en consecuencia">
 <!ENTITY counter.button.original.label                    "Aplicar datos originales">
 <!ENTITY counter.button.original.accesskey                "r">
 <!ENTITY counter.button.original.tooltip2                 "Los campos se establecerán en los valores del evento original, antes de la contrapropuesta">
