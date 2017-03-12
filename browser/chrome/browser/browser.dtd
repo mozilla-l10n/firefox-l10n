@@ -513,7 +513,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.accesskey       "г">
 <!ENTITY viewImageInfoCmd.label       "Звесткі пра выяву">
 <!ENTITY viewImageInfoCmd.accesskey   "в">
-<!ENTITY viewImageDescCmd.label       "Пабачыць апісанне">
+<!ENTITY viewImageDescCmd.label       "Паглядзець апісанне">
 <!ENTITY viewImageDescCmd.accesskey   "а">
 <!ENTITY viewVideoCmd.label           "Прагледзець відэа">
 <!ENTITY viewVideoCmd.accesskey       "г">
