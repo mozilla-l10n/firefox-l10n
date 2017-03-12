@@ -437,9 +437,9 @@
 <!ENTITY openAttachmentListCmd.accesskey "V">
 <!ENTITY openFeedMessage1.label "Når du opnar RSS-meldingar">
 <!ENTITY openFeedMessage1.accesskey "o">
-<!ENTITY openFeedWebPage.label "Opna som nettside">
+<!ENTITY openFeedWebPage.label "Opne som nettside">
 <!ENTITY openFeedWebPage.accesskey "O">
-<!ENTITY openFeedSummary.label "Opna som oppsummering">
+<!ENTITY openFeedSummary.label "Opne som oppsummering">
 <!ENTITY openFeedSummary.accesskey "s">
 <!ENTITY openFeedWebPageInMP.label "Byt mellom vising av nettside og oppsummering i meldingsvindauget">
 <!ENTITY openFeedWebPageInMP.accesskey "B">
