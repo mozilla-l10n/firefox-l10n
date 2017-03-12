@@ -13,4 +13,5 @@
 <!ENTITY     cancel.label                  "ביטול">
 <!ENTITY     cancel.accesskey              "ב">
 <!ENTITY     removingDialog.title          "הסרת נתוני אתר">
+<!ENTITY     removingDialog.description    "הסרת נתוני אתר תמחק גם עוגיות. זה עשוי לנתק אותך מהתחברויות לאתרים ולהסיר תוכן רשת לא מקוון. האם ברצונך לבצע את השינויים?">
 <!ENTITY     siteTree.label                "עוגיות של האתרים הבאים ימחקו:">
