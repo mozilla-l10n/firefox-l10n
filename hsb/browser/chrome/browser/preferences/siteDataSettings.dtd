@@ -15,6 +15,6 @@
 <!ENTITY     save.accesskey                "s">
 <!ENTITY     cancel.label                  "Přetorhnyć">
 <!ENTITY     cancel.accesskey              "P">
-<!ENTITY     removingDialog.title          "Daty sydła so wotstronić">
+<!ENTITY     removingDialog.title          "Daty sydła wotstronić">
 <!ENTITY     removingDialog.description    "Hdyž so daty sydła wotstronjeja, so tež placki wotstronja. Přez to móžeće so websydła wotzjewić a webwobsah offline wotstronić. Chceće woprawdźe změny přewjesć?">
 <!ENTITY     siteTree.label                "Slědowace placki websydła so wotstronja:">
