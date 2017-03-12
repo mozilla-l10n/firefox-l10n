@@ -10,7 +10,7 @@
 <!ENTITY     searchPlaceHolder             "Zoeken">
 <!ENTITY     searchPlaceHolder.accesskey   "Z">
 <!ENTITY     removeSelected.label          "Geselecteerde verwijderen">
-<!ENTITY     removeSelected.accesskey      "G">
+<!ENTITY     removeSelected.accesskey      "v">
 <!ENTITY     save.label                    "Wijzigingen opslaan">
 <!ENTITY     save.accesskey                "s">
 <!ENTITY     cancel.label                  "Annuleren">
