@@ -62,7 +62,7 @@
 <!ENTITY clearSiteData.label             "Alle gegevens wissen">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Instellingen…">
-<!ENTITY siteDataSettings.accesskey      "I">
+<!ENTITY siteDataSettings.accesskey      "s">
 <!ENTITY siteDataLearnMoreLink.label     "Meer info">
 
 <!-- LOCALIZATION NOTE:
