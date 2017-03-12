@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Sedło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Składowak">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Pytaś">
+<!ENTITY     searchPlaceHolder.accesskey   "P">
+<!ENTITY     removeSelected.label          "Wubrane wótwónoźeś">
+<!ENTITY     removeSelected.accesskey      "u">
+<!ENTITY     save.label                    "Změny składowaś">
+<!ENTITY     save.accesskey                "s">
+<!ENTITY     cancel.label                  "Pśetergnuś">
+<!ENTITY     cancel.accesskey              "P">
+<!ENTITY     removingDialog.title          "Daty sedła wótwónoźeś">
+<!ENTITY     removingDialog.description    "Gaž se daty sedła wótwónoźuju, se teke cookieje wótwónoźiju. Pśez to móžośo se websedła wótzjawiś a webwopśimjeśe offline wótwónoźeś. Cośo napšawdu změny pśewjasć?">
+<!ENTITY     siteTree.label                "Slědujuce cookieje websedła se wótwónoźiju:">

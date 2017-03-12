@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Wše cytańske znamjenja pokazaś">
 <!ENTITY recentBookmarks.label "Tuchylu ako cytańske znamje składowane">
 <!ENTITY otherBookmarksCmd.label "Druge cytańske znamjenja">
-
+<!ENTITY mobileBookmarksCmd.label "Mobilne cytańske znamjenja">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dalšne cytańske znamjenja pokazaś">
 <!ENTITY showRecentlyBookmarked.label     "Tuchylu ako cytańske znamje skłaźone pokazaś">
 <!ENTITY showRecentlyBookmarked.accesskey "c">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Cytańske znamjenja">
 <!ENTITY bookmarksMenuButton.other.label "Druge cytańske znamjenja">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Mobilne cytańske znamjenja">
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
 
@@ -360,17 +360,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Žedne wócynjone rejtarki">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Wěcej pokazaś">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Dalšne rejtarki z toś togo rěda pokazaś">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Wšykno pokazaś">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Wše rejtarki z toś togo rěda pokazaś">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Synchronizěrowanje rejtarkow zašaltowaś, aby se lisćina rejtarkow z drugich rědow pokazała.">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "Hyšći žedne synchronizěrowane rejtarki…!">
+<!ENTITY appMenuRemoteTabs.noclients.title "Hyšći žedne synchronizěrowane rejtarki …!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastajenja synchronizěrowaś">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
@@ -756,7 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Synchronizěrowane rejtarki">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Pśizjawśo se pla Firefox z drugich rědow, aby se jich rejtarki how woglědał.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Hyšći žedne synchronizěrowane rejtarki…!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Hyšći žedne synchronizěrowane rejtarki …!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Cośo how swóje rejtarki z drugich rědow wiźeś?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pśizjawśo se, aby se lisćinu rejtarkow ze swójich drugich rědow woglědał.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žedne wócynjone rejtarki">
