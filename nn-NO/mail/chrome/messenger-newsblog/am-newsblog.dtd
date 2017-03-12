@@ -9,8 +9,8 @@
 
 <!ENTITY newFeedSettings.label         "Standardinnstillingar for nye RSS-kanalar">
 
-<!ENTITY manageSubscriptions.label     "Behandle abonnement …">
+<!ENTITY manageSubscriptions.label     "Behandle abonnement…">
 <!ENTITY manageSubscriptions.accesskey "B">
 
-<!ENTITY feedWindowTitle.label         "Kontovegvisar for hyheitskjelder">
-<!ENTITY feeds.accountName             "Bloggar og nyheitskjelder">
+<!ENTITY feedWindowTitle.label         "RSS-kanalguide">
+<!ENTITY feeds.accountName             "Bloggar og nyheitskanalar">

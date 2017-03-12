@@ -15,7 +15,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importAll.accesskey      "a">
 <!ENTITY importMail.label         "E-post">
 <!ENTITY importMail.accesskey     "E">
-<!ENTITY importFeeds.label        "Nyheitskjelde-abonnentar">
+<!ENTITY importFeeds.label        "RSS-abonnement">
 <!ENTITY importFeeds.accesskey    "N">
 <!ENTITY importAddressbook.label  "Adressebøker">
 <!ENTITY importAddressbook.accesskey "A">
