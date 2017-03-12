@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Toś tu e-mail zabyś">
 <!ENTITY forget.accesskey            "b">
 
+<!ENTITY signedOut.caption            "Wzejśo swój web sobu">
 <!ENTITY signedOut.description        "Synchronizěrujśo swóje cytańske znamjenja, historiju, rejtarki, gronidła, dodanki a nastajenja mjazy wšymi wašymi rědami.">
 <!ENTITY signedOut.accountBox.title   "Z &syncBrand.fxAccount.label; zwězaś">
-
+<!ENTITY signedOut.accountBox.create  "Konto załožyś">
 <!ENTITY signedOut.accountBox.create.accesskey  "z">
-
+<!ENTITY signedOut.accountBox.signin  "Pśizjawiś">
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
+<!ENTITY signedIn.engines.label       "Mjazy wšymi rědami synchronizěrowaś">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

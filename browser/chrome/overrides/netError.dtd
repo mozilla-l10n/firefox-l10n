@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Zmólka pśi cytanju boka">
 <!ENTITY retry.label "Hyšći raz wopytaś">
 <!ENTITY returnToPreviousPage.label "Slědk hyś">
-
+<!ENTITY advanced.label "Rozšyrjone">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; njamóžo toś ten bok někakeje pśicyny dla cytaś.</p>">
 
 <!ENTITY captivePortal.title "Se pla seśi pśizjawiś">
+<!ENTITY captivePortal.longDesc2 "<p>Musyśo se pla toś teje seśi pśizjawiś, nježli až móžośo pśistup na internet měś.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Pśizjawjeński bok seśi wócyniś">
 
 <!ENTITY malformedURI.title "Adresa njejo płaśiwa">
 <!ENTITY malformedURI.longDesc "<ul> <li>Webadrese pišu se zwětšego <strong>http://www.example.com/</strong>.</li> <li>Zawěsććo, až wužywaśo doprědka schylone nakósne smužki (t.j. <strong>/</strong>).</li> </ul>">

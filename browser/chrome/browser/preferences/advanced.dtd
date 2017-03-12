@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Dalšne informacije">
 
 <!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardware a pśiměrjenja wašogo wobglědowaka z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
-
-
+<!ENTITY enableTelemetryData.label       "Pśidatne daty źěliś (na pś. telemetriju)">
+<!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Dalšne informacije">
 
 <!ENTITY crashReporterDesc2.label         "Wowaleńske rozpšawy pomagaju &vendorShortName;, problemy rozwězaś a waš woglědowak stabilnješy a wěsćejišy cyniś">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Aktualizěrowaś">
 
+<!ENTITY updateApplication.label         "Aktualizacije &brandShortName;">
 <!ENTITY updateAuto1.label               "Aktualizacije awtomatiski instalěrowaś (pśiraźijo se: pólěpšona wěstota)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "Za aktualizacijami pytaś, ale do togo se pšašaś, lěc maju se instalěrowaś">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "Slězynowu słužbu za instalěrowanje aktualizacijow wužywaś">
 <!ENTITY useService.accesskey            "S">
 
+<!ENTITY autoUpdateOthers.label          "Awtomatiski aktualizěrowaś">
 <!ENTITY enableSearchUpdate.label        "Pytnice">
 <!ENTITY enableSearchUpdate.accesskey    "P">
 
