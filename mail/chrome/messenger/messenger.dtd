@@ -32,8 +32,8 @@
 <!ENTITY newExistingEmailAccountCmd.accesskey "E">
 <!ENTITY newIMAccountCmd.label "Nettpratkonto …">
 <!ENTITY newIMAccountCmd.accesskey "N">
-<!ENTITY newFeedAccountCmd.label "Nyhendekjelde-konto…">
-<!ENTITY newFeedAccountCmd.accesskey "d">
+<!ENTITY newFeedAccountCmd.label "RSS-kanalkonto…">
+<!ENTITY newFeedAccountCmd.accesskey "a">
 <!ENTITY newIMContactCmd.label "Nettpratkontakt …">
 <!ENTITY newIMContactCmd.accesskey "t">
 <!ENTITY openMessageFileCmd.label "Opna lagra melding…">
@@ -249,8 +249,8 @@
 <!ENTITY bodyAllParts.label "Alle body-delar">
 <!ENTITY bodyAllParts.accesskey "A">
 
-<!ENTITY bodyMenuFeed.label "Vis nyhendekjelde-meldingskroppen som">
-<!ENTITY bodyMenuFeed.accesskey "s">
+<!ENTITY bodyMenuFeed.label "Kanalmeldingskropp som">
+<!ENTITY bodyMenuFeed.accesskey "K">
 <!ENTITY viewFeedWebPage.label "Nettside">
 <!ENTITY viewFeedWebPage.accesskey "N">
 <!ENTITY viewFeedSummary.label "Oppsummering">
@@ -435,8 +435,8 @@
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Vedlegg">
 <!ENTITY openAttachmentListCmd.accesskey "V">
-<!ENTITY openFeedMessage1.label "Ved opning av nyhendekjelde-melding">
-<!ENTITY openFeedMessage1.accesskey "e">
+<!ENTITY openFeedMessage1.label "Når du opnar RSS-meldingar">
+<!ENTITY openFeedMessage1.accesskey "o">
 <!ENTITY openFeedWebPage.label "Opna som nettside">
 <!ENTITY openFeedWebPage.accesskey "O">
 <!ENTITY openFeedSummary.label "Opna som oppsummering">
