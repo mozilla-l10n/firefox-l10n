@@ -52,7 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "Ingresar a una red">
+<!ENTITY captivePortal.longDesc2 "
+<p>Hay que iniciar sesión en esta red antes de poder acceder a Internet.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Abrir página de ingreso a la red">
 
 <!ENTITY malformedURI.title "La dirección no es válida">
 <!ENTITY malformedURI.longDesc "
