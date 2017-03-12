@@ -7,3 +7,5 @@
 <!ENTITY     hostCol.label                 "Server">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložiště">
+<!ENTITY     save.label                    "Uložit změny">
+<!ENTITY     cancel.label                  "Zrušit">

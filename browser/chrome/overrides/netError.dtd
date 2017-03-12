@@ -50,7 +50,9 @@
 ">
 
 <!ENTITY captivePortal.title "Přihlásit se do sítě">
+<!ENTITY captivePortal.longDesc2 "<p>Pro přístup k internetu se musíte nejdříve přihlásit k této síti.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Otevřít přihlašovací stránku k síti">
 
 <!ENTITY malformedURI.title "Neplatná adresa">
 <!ENTITY malformedURI.longDesc "
