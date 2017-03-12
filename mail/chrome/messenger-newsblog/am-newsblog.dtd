@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Sjå etter nye artiklar ved oppstart">
 <!ENTITY loginAtStartup.accesskey      "n">
+<!ENTITY biffAll.label                 "Slå på oppdateringar for alle RSS-kanalar">
+<!ENTITY biffAll.accesskey             "S">
 
+<!ENTITY newFeedSettings.label         "Standardinnstillingar for nye RSS-kanalar">
 
 <!ENTITY manageSubscriptions.label     "Behandle abonnement …">
 <!ENTITY manageSubscriptions.accesskey "B">
