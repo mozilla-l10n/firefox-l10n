@@ -65,6 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanas multiproceso">
 
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modo seguro">
 
 <!ENTITY aboutSupport.showDir.label "Abrir directorio">
@@ -110,6 +111,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar datos en bruto al portapapeles">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hace segundos">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de proceso">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Intentar modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con complementos deshabilitados…">
