@@ -13,6 +13,6 @@
 <!ENTITY newtab.customize.topsites "Vis eigne toppsider">
 <!ENTITY newtab.customize.blank2 "Vis tom side">
 <!ENTITY newtab.undo.removedLabel "Miniatyrbilde fjerna.">
-<!ENTITY newtab.undo.undoButton "Angra.">
+<!ENTITY newtab.undo.undoButton "Angre.">
 <!ENTITY newtab.undo.restoreButton "Gjenopprett alle.">
 <!ENTITY newtab.undo.closeTooltip "Gøym">
