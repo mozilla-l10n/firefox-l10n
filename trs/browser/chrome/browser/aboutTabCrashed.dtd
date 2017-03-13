@@ -15,13 +15,13 @@
 
 <!ENTITY tabCrashed.header2 "Uju. Na'ue nayi'nïn rakïj ñanj.">
 <!ENTITY tabCrashed.offerHelp "¡Ga'ue ruguñu'unj ñûnj sò'!">
-
-
-
-
-
-
-
+<!ENTITY tabCrashed.single.offerHelpMessage "Guru'man ra'a riña &tabCrashed.restoreTab; da' nadusij ñû aga' na sa nana'uî't riñaj.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Guru'man ra'a riña taj &tabCrashed.restoreTab; staj ni riña &tabCrashed.restoreAll; da' nadusij ñû aga' na sa  nana'uî't riñaj.">
+<!ENTITY tabCrashed.requestHelp "Ruguñu'ùnjt ñûnj anj">
+<!ENTITY tabCrashed.requestHelpMessage "Nga nata't nej sa 'iaj chì'i ni ruguñu'unjt sa nahuin hue'ê sa hua a'nan'an &brandShortName; da' gi'iaj sun hue'ej.">
+<!ENTITY tabCrashed.requestReport "Ga'min akïn' rayi'î rakïj ñanj na">
+<!ENTITY tabCrashed.sendReport2 "Gachrun ni natà't 'ngo sa 'iaj a'nan' riña rakïj ñanj ni'iajt na">
+<!ENTITY tabCrashed.commentPlaceholder2 "Nuguan' taj a (Rangà' ni'iaj a'ngô nej duguî' nuguan' na)">
 
 
 
