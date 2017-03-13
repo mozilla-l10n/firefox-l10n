@@ -159,7 +159,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "Ө">
 <!-- Address Book Toolbar Tooltips -->
 
-
+<!ENTITY newContactButton.tooltip                       "Жаңа адрестік кітапша контактын жасау">
+<!ENTITY newlistButton.tooltip                          "Жаңа тізімді жасау">
+<!ENTITY editPropertiesButton.tooltip                   "Таңдалған нәрсені түзету">
 
 
 
