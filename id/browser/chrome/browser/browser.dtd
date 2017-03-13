@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Tampilkan Semua Markah…">
 <!ENTITY recentBookmarks.label "Baru Saja Dibuat Markah">
 <!ENTITY otherBookmarksCmd.label "Markah Lain">
+<!ENTITY mobileBookmarksCmd.label "Markah Seluler">
 <!ENTITY bookmarksToolbarChevron.tooltip "Tampilkan markah lainnya">
 <!ENTITY showRecentlyBookmarked.label     "Tampilkan yang Baru Saja Dimarkahi">
 <!ENTITY showRecentlyBookmarked.accesskey "t">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Markah">
 <!ENTITY bookmarksMenuButton.other.label "Markah Lain">
+<!ENTITY bookmarksMenuButton.mobile.label "Markah Seluler">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
 
