@@ -62,7 +62,7 @@
 <!ENTITY cmd.sortby_name.accesskey          "S">
 <!ENTITY cmd.context_sortby_name.accesskey  "r">
 
-<!ENTITY cmd.new_bookmark.label            "Nytt bokmerke …">
+<!ENTITY cmd.new_bookmark.label            "Nytt bokmerke…">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
 <!ENTITY cmd.new_folder.label              "Ny mappe…">
 <!ENTITY cmd.new_folder.accesskey          "m">
@@ -73,14 +73,14 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Oppdater aktivt bokmerke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "O">
 
-<!ENTITY cmd.moveBookmarks.label                  "Flytt …">
+<!ENTITY cmd.moveBookmarks.label                  "Flytt…">
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
 
 <!ENTITY col.name.label          "Namn">
 <!ENTITY col.tags.label          "Merkelapp">
 <!ENTITY col.url.label           "Adresse">
-<!ENTITY col.mostrecentvisit.label "Sist vitja">
-<!ENTITY col.visitcount.label    "Tal på vitjingar">
+<!ENTITY col.mostrecentvisit.label "Sist besøkt">
+<!ENTITY col.visitcount.label    "Tal på besøk">
 <!ENTITY col.description.label   "Skildring">
 <!ENTITY col.dateadded.label     "Lagt til">
 <!ENTITY col.lastmodified.label  "Sist endra">
@@ -90,9 +90,9 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "Importer og tryggingskopier">
+<!ENTITY maintenance.label      "Importer og sikkerheitskopier">
 <!ENTITY maintenance.accesskey  "I">
-<!ENTITY maintenance.tooltip    "Importer og tryggingskopier bokmerka">
+<!ENTITY maintenance.tooltip    "Importer og sikkerheitskopier bokmerka">
 
 <!ENTITY backButton.tooltip  "Gå tilbake">
 
@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "e">
 <!ENTITY detailsPane.less.label "Mindre">
 <!ENTITY detailsPane.less.accesskey "e">
-<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil visa og redigera">
+<!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og redigere">
 
 <!ENTITY find.label               "Søk:">
 <!ENTITY find.accesskey           "S">
@@ -112,9 +112,9 @@
 <!ENTITY byDate.accesskey         "a">
 <!ENTITY bySite.label             "Etter nettstad">
 <!ENTITY bySite.accesskey         "n">
-<!ENTITY byMostVisited.label      "Etter mest vitja">
+<!ENTITY byMostVisited.label      "Etter mest besøkte">
 <!ENTITY byMostVisited.accesskey  "m">
-<!ENTITY byLastVisited.label      "Etter sist vitja">
+<!ENTITY byLastVisited.label      "Etter sist besøkt">
 <!ENTITY byLastVisited.accesskey  "s">
 <!ENTITY byDayAndSite.label       "Etter dato og nettstad">
 <!ENTITY byDayAndSite.accesskey   "d">
