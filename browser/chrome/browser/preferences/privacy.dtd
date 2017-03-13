@@ -46,8 +46,8 @@
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
 
-<!ENTITY  acceptThirdParty.pre.label      "Ү&amp;шінші жақты cookies қабылдау:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "б">
+<!ENTITY  acceptThirdParty.pre.label      "Үшінші жақты cookies қабылдау:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "ш">
 <!ENTITY  acceptThirdParty.always.label   "Әрқашан">
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
