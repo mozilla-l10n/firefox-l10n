@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Vergeet dié e-posadres">
 <!ENTITY forget.accesskey            "V">
 
+<!ENTITY signedOut.caption            "Neem die Web saam">
 <!ENTITY signedOut.description        "Sinkroniseer boekmerke, geskiedenis, oortjies, wagwoorde, byvoegings en voorkeure oor alle toestelle.">
 <!ENTITY signedOut.accountBox.title   "Koppel met 'n &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Skep 'n rekening">
 <!ENTITY signedOut.accountBox.create.accesskey  "r">
-
+<!ENTITY signedOut.accountBox.signin  "Meld aan">
 <!ENTITY signedOut.accountBox.signin.accesskey  "M">
 
+<!ENTITY signedIn.engines.label       "Sinkroniseer oor alle toestelle">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
