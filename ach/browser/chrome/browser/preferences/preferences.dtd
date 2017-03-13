@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Gin manonge iye">
 <!ENTITY  paneApplications.title  "Purugram">
 <!ENTITY  panePrivacy.title       "Mung">
-
+<!ENTITY  paneContainers.title    "Dirica matidi me mako jami">
 <!ENTITY  paneSecurity.title      "Ber bedo">
 <!ENTITY  paneAdvanced.title      "Ma lamal">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->

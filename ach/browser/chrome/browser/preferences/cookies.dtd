@@ -14,7 +14,7 @@
 <!ENTITY     props.path.label               "Yo:">
 <!ENTITY     props.secure.label             "Cwal Pi:">
 <!ENTITY     props.expires.label            "Kare ne okato woko:">
-
+<!ENTITY     props.container.label          "Lamak Jami:">
 
 <!ENTITY     window.title                   "Angija">
 <!ENTITY     windowClose.key                "w">

@@ -101,7 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "Gin me Yeny">
 <!ENTITY enableSearchUpdate.accesskey    "i">
 
-
+<!ENTITY offlineStorageNotify.label               "Miyi ngec kace kakube penyo me kano tic pi tic kwede ma nongo pe okube iwi yamo">
+<!ENTITY offlineStorageNotify.accesskey           "M">
 <!ENTITY offlineStorageNotifyExceptions.label     "Ma kiweko woko…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "i">
 

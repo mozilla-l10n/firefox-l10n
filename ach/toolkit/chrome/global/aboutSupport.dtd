@@ -118,6 +118,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.safeModeTitle "Tem kit maber">
 <!ENTITY aboutSupport.restartInSafeMode.label "Cak odoco ma nongo kijuko med-ikome…">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Jami">
 
 
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
