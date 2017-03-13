@@ -10,7 +10,7 @@
 
 
 
-<!ENTITY userName.label "Па&amp;йдаланушы аты:">
+<!ENTITY userName.label "Пайдаланушы аты:">
 <!ENTITY userName.accesskey "а">
 <!ENTITY port.label "Порт:">
 <!ENTITY port.accesskey "П">
