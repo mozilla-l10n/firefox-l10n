@@ -2,3 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Mga Setting - Site data">
+<!ENTITY     settings.description          "Ang mga sumusunod na mga website hilingin sa iyo na tindahan ang data ng site sa iyong disk. Maaari mong tukuyin kung aling mga website ang pinahihintulutan para mag store ng data site. Default site data ay pansamantala at maaaring awtomatikong tatanggalin.">
+<!ENTITY     hostCol.label                 "Site">
+<!ENTITY     statusCol.label               "Status">
+<!ENTITY     usageCol.label                "Imbakan">
+<!ENTITY     searchPlaceHolder             "Paghahanap">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "Inalis ang mga Napili">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "I-save ang mga Pagbabago">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Ikansela">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "Inaalis na Site Data">
+<!ENTITY     removingDialog.description    "Ang inaalis na site data ay pwedeng alisin ang mga cookie. Ito ay maaaring mag-log out ka ng mga website at mag-alis ng offline web content. Sigurado ka bang gusto mong gumawa ng mga pagbabago?">
