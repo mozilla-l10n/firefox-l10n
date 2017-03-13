@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Geen oop oortjies nie">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Wys meer">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Wys meer oortjies van dié toestel">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Wys almal">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Wys alle oortjies van dié toestel">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Skakel oortjiesinkronisering aan om 'n lys oortjies op ander toestelle te sien.">
