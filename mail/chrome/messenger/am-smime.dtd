@@ -26,10 +26,12 @@
 
 
 <!ENTITY certificates.label "Сертификаттар">
-
-
+<!ENTITY manageCerts2.label "Сертификаттарды басқару">
+<!ENTITY manageCerts2.accesskey "б">
 <!ENTITY manageDevices.label "Қорғаныс жабдықтары">
 <!ENTITY manageDevices.accesskey "ж">
 <!-- Strings for the cert picker dialog -->
-<!ENTITY certPicker.info  "Сертификат:">
 
+<!ENTITY certPicker.title "Сертификатты таңдау">
+<!ENTITY certPicker.info  "Сертификат:">
+<!ENTITY certPicker.detailsLabel "Таңдалған сертификат ақпараты:">

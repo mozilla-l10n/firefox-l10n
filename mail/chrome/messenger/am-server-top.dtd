@@ -5,11 +5,11 @@
 
 
 <!ENTITY messageStorage.label "Хабарламалар қоймасы">
-
-
-
-
-
+<!ENTITY securitySettings.label "Қауіпсіздік баптаулары">
+<!ENTITY serverSettings.label "Сервер баптаулары">
+<!ENTITY serverType.label "Сервер түрі:">
+<!ENTITY serverName.label "Сервердің атауы:">
+<!ENTITY serverName.accesskey "С">
 <!ENTITY userName.label "Пайдаланушы аты:">
 <!ENTITY userName.accesskey "а">
 <!ENTITY port.label "Порт:">
@@ -20,20 +20,21 @@
                 biffStart.label "every"
                 biffEnd.label   "minutes for new messages Check"
 -->
-
+<!ENTITY biffStart.label "Жаңа хабарламаларға тексеру уақыт аралығы ">
+<!ENTITY biffStart.accesskey "а">
 <!ENTITY biffEnd.label "минут">
 
 
 
 
 <!ENTITY connectionSecurityType-0.label "Ешнәрсе">
-
+<!ENTITY connectionSecurityType-1.label "STARTTLS, қолжетерлік болса">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
 <!ENTITY connectionSecurityType-3.label "SSL/TLS">
-
-
-
-
+<!ENTITY authMethod.label "Аутентификация тәсілі:">
+<!ENTITY authMethod.accesskey "и">
+<!ENTITY leaveOnServer.label "Хабарламаларды серверде қалдыру">
+<!ENTITY leaveOnServer.accesskey "л">
 
 
 

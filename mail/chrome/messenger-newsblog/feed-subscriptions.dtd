@@ -37,7 +37,7 @@
 <!ENTITY button.importOPML.accesskey "И">
 <!ENTITY button.exportOPML.label     "Экспорттау">
 <!ENTITY button.exportOPML.accesskey "к">
-
+<!ENTITY button.exportOPML.tooltip   "Таспаларды бума құрылысымен экспорттау; Таспаларды тізім ретінде экспорттау үшін ctrl+шерту немесе ctrl+enter">
 
 <!ENTITY cmd.close.commandKey        "w">
 <!ENTITY button.close.label          "Жабу">

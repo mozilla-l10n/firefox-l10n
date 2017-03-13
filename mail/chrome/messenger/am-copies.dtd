@@ -4,6 +4,9 @@
 <!-- extracted from am-copies.xul -->
 
 
+<!ENTITY copyAndFolderTitle.label "Көшірмелер және бумалар">
+<!ENTITY sendingPrefix.label "Хабарламаны жіберу кезінде, автоматты түрде:">
+
 
 
 

@@ -18,25 +18,27 @@
 <!ENTITY moveButton.label            "Қайда жылжыту">
 <!ENTITY moveButton.accesskey        "й">
 
-
-
-
-
+<!ENTITY openInFolder.label          "Бумада ашу">
+<!ENTITY openInFolder.accesskey      "м">
+<!ENTITY saveAsVFButton.label        "Іздеу бумасы ретінде сақтау">
+<!ENTITY saveAsVFButton.accesskey    "с">
 <!-- for ABSearchDialog.xul -->
 
+<!ENTITY abSearchHeading.label       "Қайда іздеу:">
+<!ENTITY abSearchHeading.accesskey   "з">
 <!ENTITY propertiesButton.label      "Қасиеттері">
 <!ENTITY propertiesButton.accesskey  "с">
 <!ENTITY composeButton.label         "Жазу">
 <!ENTITY composeButton.accesskey     "з">
 <!ENTITY deleteCardButton.label      "Өшіру">
 <!ENTITY deleteCardButton.accesskey  "ш">
-
+<!ENTITY abSearchDialogTitle.label   "Кеңейтілген адрестік кітапшадан іздеу">
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Ағын">
 <!ENTITY fromColumn.label "Кімнен">
 <!ENTITY recipientColumn.label "Алушы">
-
+<!ENTITY correspondentColumn.label "Алушылар">
 <!ENTITY subjectColumn.label "Тақырыбы">
 <!ENTITY dateColumn.label "Күні">
 <!ENTITY priorityColumn.label "Приоритеті">
