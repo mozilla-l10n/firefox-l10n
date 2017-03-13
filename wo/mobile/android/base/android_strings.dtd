@@ -14,6 +14,7 @@
 <!ENTITY firstrun_data_subtext2 "Nëbbal nataal yi ngir jëfandikoo njoxe yu gën a néew ci dal boy nemmeeku.">
 <!ENTITY firstrun_sync_title "Lonk">
 <!ENTITY firstrun_sync_message "&brandShortName;, ci sa wet saa su ne">
+<!ENTITY firstrun_sync_subtext "Lonkale say làcc, baatujàll, ak yeneen fépp foo leen di jëfandikoo.">
 <!ENTITY firstrun_signin_message "Lonkul, tambalil">
 <!ENTITY firstrun_signin_button "Duggal ngir lonk">
 <!ENTITY  onboard_start_button_browser "Tàmbalil joow">
@@ -22,6 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Lëkkalekaay">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Doxalal toftaloog làcc yi">
 
 <!ENTITY firstrun_tabqueue_message_on "Waaw góor!">
 
