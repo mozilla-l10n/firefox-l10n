@@ -8,7 +8,7 @@
 <!ENTITY places.library.height "500">
 <!ENTITY organize.label        "Organiser">
 <!ENTITY organize.accesskey    "O">
-<!ENTITY organize.tooltip      "Organiser bokmerka">
+<!ENTITY organize.tooltip      "Organiser bokmerka dine">
 
 <!ENTITY file.close.label               "Lukk">
 <!ENTITY file.close.accesskey           "L">
@@ -22,20 +22,20 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "Usortert">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A -> Å sorteringsrekkjefølgje">
+<!ENTITY view.sortAscending.label       "A -> Å sorteringsrekkefølge">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Å -> A sorteringsrekkjefølgje">
+<!ENTITY view.sortDescending.label      "Å -> A sorteringsrekkefølge">
 <!ENTITY view.sortDescending.accesskey  "Å">
 
-<!ENTITY importBookmarksFromHTML.label     "Importer bokmerke frå …">
+<!ENTITY importBookmarksFromHTML.label     "Importer bokmerke frå HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "I">
-<!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerke til HTML …">
+<!ENTITY exportBookmarksToHTML.label       "Eksporter bokmerke til HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "E">
-<!ENTITY importOtherBrowser.label          "Importer data frå ein annan nettlesar …">
+<!ENTITY importOtherBrowser.label          "Importer data frå ein annan nettlesar…">
 <!ENTITY importOtherBrowser.accesskey      "a">
 
-<!ENTITY cmd.backup.label               "Tryggingskopier …">
-<!ENTITY cmd.backup.accesskey           "T">
+<!ENTITY cmd.backup.label               "Sikkerheitskopier…">
+<!ENTITY cmd.backup.accesskey           "S">
 <!ENTITY cmd.restore2.label             "Gjenopprett">
 <!ENTITY cmd.restore2.accesskey         "G">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil…">
@@ -46,13 +46,13 @@
 
 <!ENTITY cmd.open.label                  "Opna">
 <!ENTITY cmd.open.accesskey              "O">
-<!ENTITY cmd.open_window.label           "Opna i nytt vindauge">
-<!ENTITY cmd.open_window.accesskey       "n">
-<!ENTITY cmd.open_private_window.label     "Opna eit nytt privat vindauge">
+<!ENTITY cmd.open_window.label           "Opne i nytt vindauge">
+<!ENTITY cmd.open_window.accesskey       "p">
+<!ENTITY cmd.open_private_window.label     "Opne i nytt privat vindauge">
 <!ENTITY cmd.open_private_window.accesskey "n">
-<!ENTITY cmd.open_tab.label              "Opna i ny fane">
+<!ENTITY cmd.open_tab.label              "Opne i ny fane">
 <!ENTITY cmd.open_tab.accesskey          "a">
-<!ENTITY cmd.open_all_in_tabs.label      "Opna alle i faner">
+<!ENTITY cmd.open_all_in_tabs.label      "Opne alle i faner">
 <!ENTITY cmd.open_all_in_tabs.accesskey  "O">
 
 <!ENTITY cmd.properties.label      "Eigenskapar">
@@ -64,13 +64,13 @@
 
 <!ENTITY cmd.new_bookmark.label            "Nytt bokmerke …">
 <!ENTITY cmd.new_bookmark.accesskey        "b">
-<!ENTITY cmd.new_folder.label              "Ny mappe …">
+<!ENTITY cmd.new_folder.label              "Ny mappe…">
 <!ENTITY cmd.new_folder.accesskey          "m">
 <!ENTITY cmd.context_new_folder.accesskey  "m">
 <!ENTITY cmd.new_separator.label           "Ny skiljelinje">
 <!ENTITY cmd.new_separator.accesskey       "s">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Oppdater levande bokmerke">
+<!ENTITY cmd.reloadLivebookmark.label      "Oppdater aktivt bokmerke">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "O">
 
 <!ENTITY cmd.moveBookmarks.label                  "Flytt …">
