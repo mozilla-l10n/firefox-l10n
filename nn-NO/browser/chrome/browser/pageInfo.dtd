@@ -39,13 +39,13 @@
 <!ENTITY  mediaDimension        "Dimensjonar:">
 <!ENTITY  mediaLongdesc         "Lang skildring:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "Lagra som …">
+<!ENTITY  mediaSaveAs           "Lagre som…">
 <!ENTITY  mediaSaveAs.accesskey "s">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "Førehandsvising:">
 
-<!ENTITY  feedTab               "Nyheitskjelder">
-<!ENTITY  feedTab.accesskey     "N">
+<!ENTITY  feedTab               "RSS">
+<!ENTITY  feedTab.accesskey     "R">
 <!ENTITY  feedSubscribe         "Abonner">
 <!ENTITY  feedSubscribe.accesskey "A">
 
@@ -75,7 +75,7 @@
 <!ENTITY  securityView.identity.verifier "Stadfesta av: ">
 
 <!ENTITY  securityView.privacy.header                   "Personvern og historikk">
-<!ENTITY  securityView.privacy.history                  "Har eg vitja denne nettsida tidlegare i dag?">
+<!ENTITY  securityView.privacy.history                  "Har eg besøkt denne nettsida tidlegare i dag?">
 <!ENTITY  securityView.privacy.cookies                  "Lagrar denne nettstaden informasjon på datamaskina mi?">
 <!ENTITY  securityView.privacy.viewCookies              "Vis infokapslar">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "V">
