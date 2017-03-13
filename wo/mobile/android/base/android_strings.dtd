@@ -26,8 +26,11 @@
 <!ENTITY firstrun_tabqueue_message_off "Doxalal toftaloog làcc yi">
 
 <!ENTITY firstrun_tabqueue_message_on "Waaw góor!">
+<!ENTITY firstrun_tabqueue_subtext_on "Man ngaa doxadil gile solo ci &settings; ci ronu &pref_category_general;.">
 
+<!ENTITY firstrun_readerview_title "Jukki">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Dindil li ñakk-solo">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
