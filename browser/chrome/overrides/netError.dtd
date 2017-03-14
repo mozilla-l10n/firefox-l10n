@@ -43,6 +43,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; אינו יכול לטעון דף זה מסיבה לא ידועה.</p>">
 
 <!ENTITY captivePortal.title "כניסה לרשת">
+<!ENTITY captivePortal.longDesc2 "
+<p>עליך להתחבר לרשת זו כדי לגלוש באינטרנט.</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "פתיחת דף התחברות לרשת">
 
