@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title2 "Ciyaroo dunbu Sync ga?">
-
+<!ENTITY fxaccount_remove_account_dialog_message2 "War ceeciyan bayhayey ga cindi jinaa woo ga, amm\u0027a ši hangandi war kontoo bande koyne.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 "Firefox kontu &formatS; šii ciyari ra koyne.">
