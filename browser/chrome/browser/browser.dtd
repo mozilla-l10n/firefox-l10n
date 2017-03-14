@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Dangos Pob Nod Tudalen">
 <!ENTITY recentBookmarks.label "Wedi gosod Nod Tudalen yn Ddiweddar">
 <!ENTITY otherBookmarksCmd.label "Nodau Tudalen Eraill">
-
+<!ENTITY mobileBookmarksCmd.label "Nodau Tudalen Symudol">
 <!ENTITY bookmarksToolbarChevron.tooltip "Dangos pob ffolder nod tudalen">
 <!ENTITY showRecentlyBookmarked.label     "Dangos Nodau Tudalen Ddiweddar">
 <!ENTITY showRecentlyBookmarked.accesskey "D">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Nodau Tudalen">
 <!ENTITY bookmarksMenuButton.other.label "Nodau Tudalen Eraill">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Nodau Tudalen Symudol">
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Dim tabiau agored">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Dangos Rhagor">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Dangos rhagor o dabiau o'r ddyfais hon">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Dangos Popeth">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Dangos pob tab o'r ddyfais hon">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Cychwynnwch gydweddu tabiau er mwyn gweld rhestr o dabiau o'ch dyfeisiau eraill.">
