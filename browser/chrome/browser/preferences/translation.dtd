@@ -13,7 +13,7 @@
 <!ENTITY removeAllLanguages.label         "Fjern alle språk">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Omsetting vert ikkje tilbydd for følgjande nettstadar:">
+<!ENTITY noTranslationForSites.label      "Omsetting vert ikkje tilbydd for følgjande nettsider:">
 <!ENTITY treehead.siteName.label          "Nettstadar">
 <!ENTITY removeSite.label                 "Fjern nettstad">
 <!ENTITY removeSite.accesskey             "F">
