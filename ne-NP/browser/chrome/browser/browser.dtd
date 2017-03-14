@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "सबै पुस्तकचिनोहरू देखाउनुहोस्">
 <!ENTITY recentBookmarks.label "हालसालै थपिएको पुस्तकचिनो">
 <!ENTITY otherBookmarksCmd.label "अन्य पुस्तकचिनोहरू">
-
+<!ENTITY mobileBookmarksCmd.label "मोबाइल पुस्तकचिनोहरू">
 <!ENTITY bookmarksToolbarChevron.tooltip "अरू पुस्तकचिनोहरू देखाउनुहोस्">
 <!ENTITY showRecentlyBookmarked.label     "हालसालै थपिएको पुस्तकचिनो देखाउनुहोस्">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "पुस्तकचिनोहरू">
 <!ENTITY bookmarksMenuButton.other.label "अन्य पुस्तकचिनोहरू">
-
+<!ENTITY bookmarksMenuButton.mobile.label "मोबाइल पुस्तकचिनोहरू">
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "खुला ट्याबहरू छैनन्">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "अरू देखाउनुहोस">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "यस यन्त्रमा भएका अन्य टयाबहरू देखाउनुहोस्">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "सबै देखाउनुहोस्">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "यस यन्त्रमा भएका सबै टयाबहरू देखाउनुहोस्">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न ट्याब Sync सुरु गर्नुहोस्।">
