@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Rhagor&ellipsis;">
 <!ENTITY fxaccount_remove_account "Datgysylltu&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Datgysylltu o Sync?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Bydd eich data pori yn aros ar y ddyfais hon, ond ni fydd yn cydweddu â\u0027ch cyfrif bellach.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Cyfrif Firefox &formatS; wedi ei ddatgysylltu.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Datgysylltu">
 
 <!ENTITY fxaccount_enable_debug_mode "Galluogi Modd Dadfygio">
 <!-- Localization note: this is the name shown by the Android system
