@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prijať správy">
 <!ENTITY folderContextGetMessages.accesskey "a">
+<!ENTITY folderContextPauseAllUpdates.label "Pozastaviť všetky aktualizácie">
+<!ENTITY folderContextPauseUpdates.label "Pozastaviť aktualizácie">
+<!ENTITY folderContextPauseUpdates.accesskey "a">
 <!ENTITY folderContextOpenInNewWindow.label "Otvoriť v novom okne">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otvoriť na novej karte">
