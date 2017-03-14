@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Meer inligting">
 
 <!ENTITY telemetryDesc.label             "Deel data oor werkverrigting, gebruik, hardeware en aanpassings van die blaaier met &vendorShortName; om te help om &brandShortName; te verbeter">
-
-
+<!ENTITY enableTelemetryData.label       "Deel verdere data (m.a.w. Telemetrie)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Meer inligting">
 
 <!ENTITY crashReporterDesc2.label         "Omvalverslae help &vendorShortName; om probleme op te los en die blaaier meer stabiel en veilig te maak">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Bywerk">
 
+<!ENTITY updateApplication.label         "&brandShortName;-bywerkings">
 <!ENTITY updateAuto1.label               "Installeer bywerkings outomaties (beter vir sekuriteit)">
 <!ENTITY updateAuto1.accesskey           "I">
 <!ENTITY updateCheckChoose.label         "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
 <!ENTITY useService.accesskey            "a">
 
+<!ENTITY autoUpdateOthers.label          "Outomatiese bywerking">
 <!ENTITY enableSearchUpdate.label        "Soekenjins">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
@@ -113,8 +115,8 @@
 <!ENTITY certificateTab.label            "Sertifikate">
 <!ENTITY certPersonal.label              "Versoeke">
 <!ENTITY certPersonal.description        "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
-<!ENTITY selectCerts.auto                "Kies een outomaties">
-
+<!ENTITY selectCerts.auto                "Kies outomaties een">
+<!ENTITY selectCerts.auto.accesskey      "K">
 <!ENTITY selectCerts.ask                 "Vra elke keer">
 <!ENTITY selectCerts.ask.accesskey       "V">
 <!ENTITY enableOCSP.label                "Bevestig huidige geldigheid van sertifikate deur OCSP-bedieners te vra">
