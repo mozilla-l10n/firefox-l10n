@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Prenestroù liesargerzh">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Alc'hwez Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Alc'hwez Gwazerezh Lec'hiadur Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mod diarvar">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Eilañ ar roadenn diaoz er golver">
 
 <!ENTITY aboutSupport.sandboxTitle "Bailh traezh">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Galvoù reizhiad nac'het">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "a eilennoù 'zo">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Doare argerzh">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguzennoù">
 
 <!ENTITY aboutSupport.safeModeTitle "Klask ar mod diarvar">
 <!ENTITY aboutSupport.restartInSafeMode.label "Adloc'hañ gant an askouezhioù diweredekaet…">
