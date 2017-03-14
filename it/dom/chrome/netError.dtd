@@ -5,7 +5,7 @@
 <!ENTITY loadError.label "Errore caricamento pagina">
 <!ENTITY retry.label "Riprova">
 <!ENTITY connectionFailure.title "Connessione non riuscita">
-<!ENTITY connectionFailure.longDesc "<p>Anche se l’indirizzo del sito sembra valido, il browser non riesce a stabilire una connessione.</p><ul><li>Il sito potrebbe non essere disponibile al momento? Riprovare in un altro momento.</li><li>Non è possibile navigare da questa postazione? Controllare la connessione alla rete di questo computer.</li><li>Il computer o la rete sono protetti da un firewall o un proxy? Eventuali impostazioni errate potrebbero bloccare la navigazione.</li></ul>">
+<!ENTITY connectionFailure.longDesc "<p>Anche se l’indirizzo del sito sembra valido, il browser non riesce a stabilire una connessione.</p><ul><li>Il sito potrebbe essere non disponibile al momento? Riprovare in un altro momento.</li><li>Non è possibile navigare da questa postazione? Controllare la connessione alla rete di questo computer.</li><li>Il computer o la rete sono protetti da un firewall o un proxy? Eventuali impostazioni errate potrebbero bloccare la navigazione.</li></ul>">
 <!ENTITY deniedPortAccess.title "Porta bloccata per motivi di sicurezza">
 <!ENTITY deniedPortAccess.longDesc "<p>L’indirizzo richiesto specifica una porta (ad esempio <q>example.com:80</q> per la porta 80 su example.com) normalmente utilizzata per scopi <em>differenti</em> dalla navigazione. Il browser ha annullato la richiesta per motivi di sicurezza.</p>">
 <!ENTITY dnsNotFound.title "Indirizzo non trovato">
