@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY position.label             "Plassering:">
+<!ENTITY position.label             "Posisjon:">
 <!ENTITY tile.label                 "Side ved side">
 <!ENTITY center.label               "Midtstill">
 <!ENTITY stretch.label              "Strekt">
@@ -11,5 +11,5 @@
 <!ENTITY preview.label              "Førehandsvising">
 <!ENTITY color.label                "Farge:">
 <!ENTITY setDesktopBackground.title "Vel som skrivebordsbakgrunn">
-<!ENTITY openDesktopPrefs.label     "Opna skrivebordsinnstillingar">
+<!ENTITY openDesktopPrefs.label     "Opne skrivebordsinnstillingar">
 <!ENTITY closeWindow.key            "w">
