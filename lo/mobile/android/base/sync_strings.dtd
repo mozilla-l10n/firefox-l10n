@@ -81,6 +81,7 @@
 <!ENTITY fxaccount_remove_account 'ຕັດການເຊື່ອມຕໍ່&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'ຕັດການເຊື່ອມຕໍ່ຈາກ Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'ຂໍ້ມູນການທ່ອງເວັບຂອງທ່ານຈະຍັງຄົງຢູ່ໃນອຸປະກອນເຄື່ອງນີ້ ແຕວ່າມັນຈະບໍ່ sync ຂໍ້ມູນກັບບັນຊີຂອງທ່ານອີກຕໍ່ໄປ.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'ໄດ້ຕັດການເຊື່ອມຕໍ່ກັບບັນຊີຂອງ Firefox &formatS; ແລ້ວ'>
