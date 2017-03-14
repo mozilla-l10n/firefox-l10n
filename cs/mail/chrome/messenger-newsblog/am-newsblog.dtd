@@ -2,23 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Kontrolovat nové články každých">
-<!ENTITY biffStart.accesskey "K">
-<!ENTITY biffEnd.label "minut">
+<!ENTITY loginAtStartup.label          "Po spuštění zkontrolovat nové články">
+<!ENTITY loginAtStartup.accesskey      "z">
+<!ENTITY biffAll.label                 "Povolit aktualizace pro všechny kanály">
+<!ENTITY biffAll.accesskey             "P">
 
-<!ENTITY loginAtStartup.label "Po spuštění zkontrolovat nové články">
-<!ENTITY loginAtStartup.accesskey "z">
+<!ENTITY newFeedSettings.label         "Výchozí nastavení pro nové kanály">
 
-<!ENTITY useQuickMode.label "Zobrazit stručný obsah článku namísto načtení webové stránky">
-<!ENTITY useQuickMode.accesskey "o">
-
-<!ENTITY manageSubscriptions.label "Správce RSS kanálů…">
+<!ENTITY manageSubscriptions.label     "Správce RSS kanálů…">
 <!ENTITY manageSubscriptions.accesskey "S">
 
-<!ENTITY feedWindowTitle.label "Průvodce vytvořením účtu pro kanály">
-
-<!-- entities from defaults/isp/rss.rdf -->
-<!ENTITY feeds.accountName "Kanály blogů a novinek">
-<!ENTITY feeds.wizardShortName "Kanály">
-<!ENTITY feeds.wizardLongName "Kanály blogů a novinek">
-<!ENTITY feeds.wizardLongName.accesskey "K">
+<!ENTITY feedWindowTitle.label         "Průvodce vytvořením účtu pro kanály">
+<!ENTITY feeds.accountName             "Kanály blogů a novinek">
