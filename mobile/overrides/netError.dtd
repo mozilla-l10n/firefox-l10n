@@ -47,7 +47,7 @@
     <input id='searchtext' type='search'></input>
     <button id='searchbutton'>Cerca</button>
   </div>
-  <li>Verificare se si stanno utilizzando le barre corrette (ad esempio     <strong>/</strong>).</li>
+  <li>Verificare di aver utilizzato le barre corrette <strong>/</strong>.</li>
 </ul>
 ">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
@@ -122,7 +122,7 @@
 </ul>">
 <!ENTITY sharedLongDesc3 "
 <ul>
-  <li>Il sito potrebbe non essere disponibile o sovraccarico. Riprovare fra qualche momento.</li>
+  <li>Il sito potrebbe essere non disponibile o sovraccarico. Riprovare fra qualche istante.</li>
   <li>Se non è possibile caricare alcuna pagina, controllare la connessione dati o wireless del dispositivo.
     <button id='wifi'>Attiva Wi-Fi</button>
   </li>

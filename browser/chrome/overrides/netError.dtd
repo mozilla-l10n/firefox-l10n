@@ -48,7 +48,7 @@
 <!ENTITY malformedURI.longDesc "
 <ul>
   <li>Gli indirizzi internet normalmente si scrivono nella forma <strong>http://www.example.com/</strong></li>
-  <li>Verificare se si stanno utilizzando le barre corrette (ad esempio <strong>/</strong>).</li>
+  <li>Verificare di aver utilizzato le barre corrette <strong>/</strong>.</li>
 </ul>
 ">
 <!ENTITY netInterrupt.title "La connessione è stata interrotta">
@@ -115,7 +115,7 @@
 <!ENTITY certerror.introPara "Il gestore di <span class='hostname'/> ha configurato il sito in modo non corretto. Per evitare potenziali furti di informazioni &brandShortName; ha interrotto la connessione.">
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Il sito potrebbe non essere disponibile o sovraccarico. Riprovare fra qualche momento.</li>
+  <li>Il sito potrebbe essere non disponibile o sovraccarico. Riprovare fra qualche istante.</li>
   <li>Se non è possibile caricare alcuna pagina, controllare la connessione di rete del computer.</li>
   <li>Se il computer o la rete sono protetti da un firewall o un proxy, assicurarsi che &brandShortName; abbia i permessi per accedere al web.</li>
 </ul>
