@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesová okna">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Klíč Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Klíč Mozilla Location Service">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Nouzový režim">
 
 <!ENTITY aboutSupport.showDir.label "Otevřít adresář">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Zkopírovat data do schránky">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Odmítnutá systémová volání">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Před pár vteřinami">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Typ procesu">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Systémové volání">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenty">
 
 <!ENTITY aboutSupport.safeModeTitle "Vyzkoušet nouzový režim">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restartovat se zakázanými doplňky…">
