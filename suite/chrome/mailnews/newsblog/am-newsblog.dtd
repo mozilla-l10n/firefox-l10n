@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label "Po spustení skontrolovať nové príspevky">
 <!ENTITY loginAtStartup.accesskey "u">
+<!ENTITY biffAll.label "Povoliť aktualizácie pre všetky kanály">
+<!ENTITY biffAll.accesskey "e">
 
+<!ENTITY newFeedSettings.label "Predvolené nastavenia pre nové kanály">
 
 <!ENTITY manageSubscriptions.label "Správa odoberania…">
 <!ENTITY manageSubscriptions.accesskey "S">
