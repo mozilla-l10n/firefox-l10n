@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ngà\u0027 nu sà\u0027aj riña nej sa garajsun\u0027 doj">
 <!ENTITY overlay_share_send_other "Ga\u0027nin\u0027 gan\u0027an riña a\u0027ngô nej aga\u0027 sikà\u0027 ràa">
 
+<!ENTITY overlay_share_open_browser_btn_label "Gayi\u0027ì riña &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -388,6 +389,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Guxun\u0027 nej sa ña\u0027aan ni nej sa gà\u0027 gahuin riña gaché nu\u0027">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Na\u0027nin rakïj ñanj">
 <!ENTITY pref_private_data_history2 "Nej sa gà\u0027 ni\u0027io\u0027 nga gachénu\u0027">
 <!ENTITY pref_private_data_searchHistory "Nej sa ni\u0027io\u0027 gà\u0027 nana\u0027uî\u0027">
 <!ENTITY pref_private_data_formdata2 "Nej sa gà\u0027 ni\u0027io\u0027 rayi\u0027î nej formulario">
@@ -538,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Rakïj ñanj nahuin nuguan\u0027àan">
+<!ENTITY pref_compact_tabs_summary2 "Nagi\u0027aj chre\u0027 huìj dukuáan nej rakïj ñanj">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -691,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Nana\u0027uì\u0027 &formatS1; guendâ &formatS2;">
 
 <!ENTITY searchable_description "Sa ña\u0027aan ngà sa gà\u0027 gahuin">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Sa nakà doj hua guendâ &brandShortName; ">
 <!ENTITY updater_start_select2 "Ga\u0027ui da\u0027 nadunij">
 
 <!ENTITY updater_downloading_title2 "Naduninj &brandShortName;">
@@ -699,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Guru\u0027ma ra\u0027a da\u0027 ga\u0027ue gi\u0027iaj sunt ngà \u0027ngo sa nakà naduninjt">
 <!ENTITY updater_downloading_retry2 "Guru\u0027ma ra\u0027a da\u0027 nayi\u0027ì ñuj">
 
-
+<!ENTITY updater_apply_title3 "Sa nakà doj ngà nanïnj guendâ &brandShortName;">
+<!ENTITY updater_apply_select3 "Guru\u0027man ra\u0027a da\u0027 nañù man">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -844,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Si gui\u0027iaj guendo\u0027">
 <!ENTITY activity_stream_delete_history "Dure\u0027 sa nga ma">
 
-
+<!ENTITY activity_stream_welcome_title "Guruhuât gunumât riña màn sa ña\u0027an doj \u0027iát">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; Hiàj ni ga\u0027ue nagi\u0027iát nej sa ña\u0027an doj narît riña web da\u0027 ga\u0027ue hìo narì´t nej sa gahiat, sa ni\u0027iajt, ñanj gahiat, ni a\u0027ngô nej sa huaa.">
