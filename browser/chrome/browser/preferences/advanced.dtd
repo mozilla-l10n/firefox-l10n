@@ -10,11 +10,11 @@
 
 <!ENTITY useCursorNavigation.label       "Bruk alltid piltastane for å navigere innanfor nettsider">
 <!ENTITY useCursorNavigation.accesskey   "A">
-<!ENTITY searchOnStartTyping.label       "Søk etter tekst når eg byrjar å skriva">
+<!ENTITY searchOnStartTyping.label       "Søk etter tekst når eg byrjar å skrive">
 <!ENTITY searchOnStartTyping.accesskey   "k">
-<!ENTITY blockAutoReload.label           "Åtvar meg når nettsider freistar å omdirigera eller lasta sida på nytt">
+<!ENTITY blockAutoReload.label           "Åtvar meg når nettsider prøver å omdirigere eller laste sida på nytt">
 <!ENTITY blockAutoReload.accesskey       "Å">
-<!ENTITY useOnScreenKeyboard.label       "Vis eit touch-tastatur når naudsynt">
+<!ENTITY useOnScreenKeyboard.label       "Vis eit touch-tastatur når nødvendig">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
 <!ENTITY browsing.label                  "Nettlesing">
@@ -31,17 +31,17 @@
 <!ENTITY dataChoicesTab.label            "Datainnstillingar">
 
 <!ENTITY healthReportDesc.label          "Hjelper deg å forstå nettlesarytinga, og deler data med &vendorShortName; om helsa til nettlesaren din">
-<!ENTITY enableHealthReport.label        "Slå på &brandShortName; Helserapport">
+<!ENTITY enableHealthReport.label        "Slå på &brandShortName; helserapport">
 <!ENTITY enableHealthReport.accesskey    "S">
 <!ENTITY healthReportLearnMore.label     "Les meir">
 
-<!ENTITY telemetryDesc.label             "Deler data om yting, bruksmønster, maskinvare og utvidingar med &vendorShortName;, for å hjelpa oss å gjera &brandShortName; betre">
+<!ENTITY telemetryDesc.label             "Deler data om yting, bruksmønster, maskinvare og utvidingar med &vendorShortName;, for å hjelpe oss med å gjere &brandShortName; betre">
 <!ENTITY enableTelemetryData.label       "Del ekstra data (t.d. telemetri)">
 <!ENTITY enableTelemetryData.accesskey   "l">
 <!ENTITY telemetryLearnMore.label        "Les meir">
 
-<!ENTITY crashReporterDesc2.label         "Krasjrapportar hjelper &vendorShortName; med å løysa problem og gjera nettlesaren meir stabil og sikker">
-<!ENTITY alwaysSubmitCrashReports.label   "Tillat &brandShortName; å senda etterslepne krasjrapportar på dine vegne">
+<!ENTITY crashReporterDesc2.label         "Krasjrapportar hjelper &vendorShortName; med å løyse problem og gjere nettlesaren meir stabil og sikker">
+<!ENTITY alwaysSubmitCrashReports.label   "Tillat &brandShortName; å sende etterslepne krasjrapportar på dine vegne">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Les meir">
 
