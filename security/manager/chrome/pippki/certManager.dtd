@@ -88,5 +88,5 @@
 <!ENTITY exceptionMgr.certstatus.caption      "מצב אישור">
 <!ENTITY exceptionMgr.certstatus.viewCert     "הצג…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "ה">
-<!ENTITY exceptionMgr.permanent.label         "שמור חריגה זו לתמיד">
+<!ENTITY exceptionMgr.permanent.label         "שמירת חריגה זו לתמיד">
 <!ENTITY exceptionMgr.permanent.accesskey     "ש">
