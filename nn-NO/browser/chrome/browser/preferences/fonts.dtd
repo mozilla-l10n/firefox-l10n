@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "u">
 <!ENTITY  monospace.label                         "Fast breidde:">
 <!ENTITY  monospace.accesskey                     "F">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Vestleg">
 <!ENTITY  font.langGroup.japanese                 "Japansk">
 <!ENTITY  font.langGroup.trad-chinese             "Tradisjonell Kinesisk (Taiwan)">
@@ -56,18 +56,18 @@
 <!ENTITY minSize.label                            "Minste skriftstorleik:">
 <!ENTITY minSize.accesskey                        "M">
 <!ENTITY minSize.none                             "Ingen">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-<!ENTITY  allowPagesToUseOwn.label                "Tillat nettsider å velja eigne skrifttypar i staden for dei som er valde ovanfor">
+<!ENTITY  allowPagesToUseOwn.label                "Tillat nettsider å velje eigne skrifttypar i staden for dei som er valde ovanfor">
 <!ENTITY  allowPagesToUseOwn.accesskey            "T">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Tekstkoding for gammalt innhald">
 <!ENTITY languages.customize.Fallback2.label      "Reservetekstkoding:">
 <!ENTITY languages.customize.Fallback2.accesskey  "R">
-<!ENTITY languages.customize.Fallback2.desc       "Denne tekstkodinga vert brukt for gammalt innhald som ikkje har spesifisert noko koding.">
+<!ENTITY languages.customize.Fallback2.desc       "Denne teiknkodinga vert brukt for gammalt innhald som ikkje har spesifisert noko anna koding.">
 
 <!ENTITY languages.customize.Fallback.auto        "Standard for gjeldande språk">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
@@ -104,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Vietnamesisk">
-<!ENTITY languages.customize.Fallback.other       "Anna(inkl. vesteuropeisk)">
+<!ENTITY languages.customize.Fallback.other       "Anna (inkl. vesteuropeisk)">
