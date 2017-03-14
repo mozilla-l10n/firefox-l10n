@@ -264,7 +264,7 @@
 <!ENTITY pref_tracking_protection_title2 "محافظت در برابر ردگیری">
 <!ENTITY pref_tracking_protection_summary3 "فعال شده در حالت مرور خصوصی">
 <!ENTITY pref_donottrack_title "ردیابی نکن">
-<!ENTITY pref_donottrack_summary "&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
+<!ENTITY pref_donottrack_summary "‫&brandShortName; به سایت‌ها خواهد گفت که شما نمی‌خواهید ردیابی شوید.">
 
 <!ENTITY pref_tracking_protection_enabled "فعال شد">
 <!ENTITY pref_tracking_protection_enabled_pb "فعال شده در حالت مرور خصوصی">
