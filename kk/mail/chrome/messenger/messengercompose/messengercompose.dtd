@@ -195,12 +195,14 @@
 <!ENTITY sendButton.label "Жіберу">
 <!ENTITY quoteButton.label "Дәйексөз">
 <!ENTITY addressButton.label "Контакттар">
-
+<!ENTITY attachButton.label "Жалғау">
 <!ENTITY spellingButton.label "Емлені тексеру">
 <!ENTITY saveButton.label "Сақтау">
 <!ENTITY printButton.label "Баспаға шығару">
 <!-- Mail Toolbar Tooltips -->
 
+<!ENTITY sendButton.tooltip "Бұл хабарламаны қазір жіберу">
+<!ENTITY sendlaterButton.tooltip "Бұл хабарламаны кейін жіберу">
 
 
 
