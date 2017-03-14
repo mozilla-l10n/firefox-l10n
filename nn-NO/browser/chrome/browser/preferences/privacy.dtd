@@ -22,7 +22,7 @@
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Du kan og ">
+<!ENTITY  doNotTrack.pre.label          "Du kan også ">
 <!ENTITY  doNotTrack.settings.label     "handtere Ikkje spor-innstillingane dine">
 <!ENTITY  doNotTrack.post.label         ".">
 
@@ -37,10 +37,10 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "Opne faner">
 <!ENTITY  locbar.openpage.accesskey     "O">
-<!ENTITY  locbar.searches.label         "Liknande søk frå standardsøkjemotoren">
+<!ENTITY  locbar.searches.label         "Liknande søk frå standardsøkemotoren">
 <!ENTITY  locbar.searches.accesskey     "L">
 
-<!ENTITY  suggestionSettings.label      "Endre innstillingar for forslag frå søkjemotoren…">
+<!ENTITY  suggestionSettings.label      "Endre innstillingar for forslag frå søkemotoren…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
