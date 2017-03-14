@@ -17,7 +17,7 @@
 <!ENTITY useMultiple.label         "Bruk opne nettsider">
 <!ENTITY chooseBookmark.label      "Bruk bokmerke…">
 <!ENTITY chooseBookmark.accesskey  "u">
-<!ENTITY restoreDefault.label      "Bruk standard">
+<!ENTITY restoreDefault.label      "Still tilbake til standard">
 <!ENTITY restoreDefault.accesskey  "s">
 
 <!ENTITY downloads.label     "Nedlastingar">
@@ -26,20 +26,20 @@
 <!ENTITY saveTo.accesskey "L">
 <!ENTITY chooseFolderWin.label        "Bla gjennom…">
 <!ENTITY chooseFolderWin.accesskey    "o">
-<!ENTITY chooseFolderMac.label        "Bla gjennom…">
-<!ENTITY chooseFolderMac.accesskey    "o">
-<!ENTITY alwaysAskWhere.label         "Alltid spør meg kvar filer skal lagrast">
-<!ENTITY alwaysAskWhere.accesskey     "ø">
+<!ENTITY chooseFolderMac.label        "Vel…">
+<!ENTITY chooseFolderMac.accesskey    "V">
+<!ENTITY alwaysAskWhere.label         "Spør alltid kvar eg vil lagre filer">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontroller alltid om &brandShortName; er standardnettlesar">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">
-<!ENTITY setAsMyDefaultBrowser2.label     "Bruk som standard">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "B">
+<!ENTITY setAsMyDefaultBrowser2.label     "Gjer til standard">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "G">
 <!ENTITY isDefault.label                  "&brandShortName; er standard nettlesar">
 <!ENTITY isNotDefault.label               "&brandShortName; er ikkje standard nettlesar">
 
 <!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å køyre samstundes">
-<!ENTITY useFirefoxSync.label             "Tips: Dei brukar eigne profilar. Bruk Sync for å dela data mellom dei.">
-<!ENTITY getStarted.label                 "Byrje å bruke Sync…">
+<!ENTITY useFirefoxSync.label             "Tips: Dei brukar eigne profilar. Bruk Sync for å dele data mellom dei.">
+<!ENTITY getStarted.label                 "Start å bruke Sync…">
 
 <!ENTITY e10sEnabled.label                "Slå på multi-prosess &brandShortName;">
