@@ -577,7 +577,7 @@ size. -->
 <!ENTITY button_clear "Изчистване">
 <!ENTITY button_copy "Копиране">
 
-<!ENTITY home_top_sites_title "Най-посещавани">
+<!ENTITY home_top_sites_title "Популярни">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Добавяне на сайт">
@@ -838,7 +838,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Отметнете статии в прегледа за четене, за да ги имате извън мрежа.">
 <!ENTITY helper_triple_readerview_open_button "Добавяне към отметките">
 
-<!ENTITY activity_stream_topsites "Най-посещавани">
+<!ENTITY activity_stream_topsites "Популярни">
 <!ENTITY activity_stream_highlights "Акценти">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
