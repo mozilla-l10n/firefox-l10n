@@ -100,27 +100,30 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-<!ENTITY fxaccount_options_title 'Наладжванні &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_options_configure_title 'Наладжванне &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_title 'Налады &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_configure_title 'Наладзіць &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Вы павінны ўзняць Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Вы павінны абнавіць Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Рахунак ужо існуе. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Крывы адрас э-пошты або пароль'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Крывы адрас э-пошты або пароль'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Рахунак не паверджаны'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Паслугач заняты, паспрабуйе зноў крыху пазней'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Паслугач заняты, паспрабуйе зноў крыху пазней'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Здарылася праблема'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Уліковы запіс ужо існуе. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Хібны адрас э-пошты або пароль'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Хібны адрас э-пошты або пароль'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Уліковы запіс не пацверджаны'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Сервер заняты, паспрабуйце зноў крыху пазней'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Сервер заняты, паспрабуйце зноў крыху пазней'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Узнікла праблема'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Уліковы запіс заблакаваны. &formatS1;'>
 
 <!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; не злучаны'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Ляпніце, каб увайсці як &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Клікніце, каб увайсці як &formatS;'>
 
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Скончыць абнаўленне &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Клікніце, каб увайсці як &formatS;'>

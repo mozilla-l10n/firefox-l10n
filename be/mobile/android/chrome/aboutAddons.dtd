@@ -2,11 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2 "Дадаткі">
-<!ENTITY aboutAddons.header2 "Вашы дадаткі">
-<!ENTITY aboutAddons.options "Наладжванні">
-<!ENTITY aboutAddons.browseAll "Азірнуць усе дадаткі Firefox">
-<!ENTITY addonAction.enable "Дазволіць">
-<!ENTITY addonAction.disable "Забараніць">
-<!ENTITY addonAction.uninstall "Высталяваць">
-<!ENTITY addonAction.undo "Адмяніць">
+<!ENTITY aboutAddons.title2                     "Дадаткі">
+<!ENTITY aboutAddons.header2                    "Вашы дадаткі">
+<!ENTITY aboutAddons.options                    "Налады">
+
+<!ENTITY addonAction.enable                     "Дазволіць">
+<!ENTITY addonAction.disable                    "Забараніць">
+<!ENTITY addonAction.uninstall                  "Высталяваць">
+<!ENTITY addonAction.undo                       "Адмяніць">
+
+<!ENTITY addonUnsigned.message                  "&brandShortName; не змог праверыць гэты дадатак.">
+<!ENTITY addonUnsigned.learnMore                "Падрабязней">
