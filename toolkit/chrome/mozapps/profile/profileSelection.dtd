@@ -27,5 +27,5 @@
 <!ENTITY            offlineState.label    "Працаваць па-за сеткай">
 <!ENTITY            offlineState.accesskey "п">
 
-<!ENTITY            useSelected.label       "Ужываць вылучаны проыіль без запыту падчас запуску">
+<!ENTITY            useSelected.label       "Ужываць вылучаны профіль без запыту падчас запуску">
 <!ENTITY            useSelected.accesskey   "ж">
