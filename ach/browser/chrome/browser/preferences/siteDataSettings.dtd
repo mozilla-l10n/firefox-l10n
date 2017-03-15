@@ -5,7 +5,7 @@
 <!ENTITY     hostCol.label                 "Kakube">
 
 
-
+<!ENTITY     searchPlaceHolder             "Yeny">
 <!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kwany ma kiyero">
 <!ENTITY     removeSelected.accesskey      "K">
