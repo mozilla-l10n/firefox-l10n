@@ -109,13 +109,13 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Fyrir nokkrum sekúndum">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tegund ferlis">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Breytur">
 
 <!ENTITY aboutSupport.safeModeTitle "Prófaðu öryggisham">
 <!ENTITY aboutSupport.restartInSafeMode.label "Endurræsa með viðbætur óvirkar…">
