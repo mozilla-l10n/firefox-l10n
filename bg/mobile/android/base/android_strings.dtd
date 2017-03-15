@@ -503,7 +503,7 @@ size. -->
 <!ENTITY contextmenu_share "Споделяне">
 <!ENTITY contextmenu_pasteandgo "Поставяне и посещаване">
 <!ENTITY contextmenu_paste "Поставяне">
-<!ENTITY contextmenu_copyurl "Копиране на адрес">
+<!ENTITY contextmenu_copyurl "Копиране на адреса">
 <!ENTITY contextmenu_edit_bookmark "Редактиране">
 <!ENTITY contextmenu_subscribe "Абониране за страницата">
 <!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
