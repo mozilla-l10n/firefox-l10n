@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Mapol&ellipsis;">
 <!ENTITY fxaccount_remove_account "Kwany kube ki i&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Juk kube ki Ribo?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Tic mamegi me yeny bi dong i nyonyo man, ento pe dong bi ribe ki akaunt mamegi.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Akaunt me Firefox &formatS; kijuko kube ne woko.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Juk kube">
 
 <!ENTITY fxaccount_enable_debug_mode "Cak kit me nongo bal">
 <!-- Localization note: this is the name shown by the Android system

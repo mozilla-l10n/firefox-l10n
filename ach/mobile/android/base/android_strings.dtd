@@ -788,7 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_advanced_settings_description "Man kwako kelo alamabuk ki woko, dwoko dirica matino ki ngec manyen ma kete pigi kengi. Kwany woko pi ter ma yot ma pore pi ngat mo keken ma i gang.">
 <!ENTITY restrictable_feature_camera_microphone "Lamak cal ki mikropon">
 <!ENTITY restrictable_feature_camera_microphone_description "Weko jo ma i gang bedo ki kero me miyo ngec i cawa kikome i kakube.">
-
+<!ENTITY restrictable_feature_block_list "Geng jami">
 <!ENTITY restrictable_feature_block_list_description "Geng kakube ma keto jami ma pigi lit.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -814,7 +814,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; tye kakare">
-
+<!ENTITY whatsnew_notification_summary "Niang ngo manyen i kit man">
 
 <!ENTITY promotion_add_to_homescreen "Med i kio me gang">
 
@@ -833,10 +833,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "Kiketo alamabuk">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Ma kilimo">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "Kwer">
+<!ENTITY activity_stream_delete_history "Kwany woko ki i gin mukato">
 
 <!ENTITY activity_stream_welcome_title "Wajoli i wiye madito mamegi">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; dong cweyo wiye madito pi jami ma inongo i kakube wek i nong yoo ni cen i coc akwana madito, vidio, alamabukke, ki potbukke mukene.">
