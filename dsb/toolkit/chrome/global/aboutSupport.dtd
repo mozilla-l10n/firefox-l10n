@@ -110,8 +110,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Pěskowy kašćik">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "Wótpokazane systemowe wołanja">
-<!ENTITY aboutSupport.sandboxSyscallIndex "Pśed #">
-<!ENTITY aboutSupport.sandboxSyscallAge "sekundami">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Pśed sekundami">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Procesowy typ">
