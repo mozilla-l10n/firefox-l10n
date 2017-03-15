@@ -229,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Þú hefur lokað fyrir hljóðnema á þessu vefsvæði.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Þú hefur lokað fyrir að deila skjáum á þessu vefsvæði.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Þú hefur lokað fyrir staðsetningarupplýsingar á þessu vefsvæði.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Þú hefur lokað fyri gagna geymslu á þessu vefsvæði.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Þú hefur lokað fyrir gagna geymslu á þessu vefsvæði.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Þú hefur lokað fyrir tilkynningar á þessu vefsvæði.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sýna sögu">
