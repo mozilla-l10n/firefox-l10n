@@ -37,7 +37,9 @@
 <!ENTITY generic.longDesc "<p>По някаква причина &brandShortName; не може да отвори страницата.</p>">
 
 <!ENTITY captivePortal.title "Влизане в мрежа">
+<!ENTITY captivePortal.longDesc2 "<p>Трябва да се впишете в тази мрежа, за да получите достъп до интернет.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Страница за вписване в мрежа">
 
 <!ENTITY malformedURI.title "Адресът е невалиден">
 <!ENTITY malformedURI.longDesc "<ul><li>Адресите обикновено изглеждат така <strong>http://www.example.com/</strong></li><li>Уверете се, че използвате наклонени черти(т.е. <strong>/</strong>).</li></ul>">
