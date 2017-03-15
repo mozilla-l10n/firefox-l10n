@@ -17,23 +17,23 @@
 <!ENTITY useOnScreenKeyboard.label       "Паказваць экранную клавіятуру, калі неабходна">
 <!ENTITY useOnScreenKeyboard.accesskey   "л">
 
-<!ENTITY browsing.label                  "Азіранне">
+<!ENTITY browsing.label                  "Агляданне">
 
 <!ENTITY useAutoScroll.label             "Выкарыстоўваць аўтаматычную пракрутку">
 <!ENTITY useAutoScroll.accesskey         "с">
-<!ENTITY useSmoothScrolling.label        "Ужываць плаўнае пракручванне">
+<!ENTITY useSmoothScrolling.label        "Выкарыстоўваць плаўнае пракручванне">
 <!ENTITY useSmoothScrolling.accesskey    "л">
-<!ENTITY allowHWAccel.label              "Ужываць, калі можна, паскарэнне начыння">
+<!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">
 <!ENTITY checkUserSpelling.label         "Правяраць арфаграфію пад час набору">
 <!ENTITY checkUserSpelling.accesskey     "н">
 
 <!ENTITY dataChoicesTab.label            "Выбар дадзеных">
 
-<!ENTITY healthReportDesc.label          "Дапамагае зразумець як працуе ваш браўзер і адпраўляе дадзеныя аб яго працаздольнасці ў &vendorShortName;">
+<!ENTITY healthReportDesc.label          "Дапамагае зразумець, як працуе ваш браўзер, і адпраўляе дадзеныя аб яго працаздольнасці ў &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Дазволіць справаздачу пра стан &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "с">
-<!ENTITY healthReportLearnMore.label     "Падрабязней">
+<!ENTITY healthReportLearnMore.label     "Даведацца больш">
 
 <!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра хуткадзейнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
@@ -43,7 +43,7 @@
 <!ENTITY crashReporterDesc2.label         "Справаздачы аб памылках дапамагаюць &vendorShortName; выпраўляць праблемы і рабіць ваш браўзер больш стабільным і бяспечным">
 <!ENTITY alwaysSubmitCrashReports.label   "Дазволіць &brandShortName; адпраўляць назапашаныя справаздачы аб памылках ад вашага імя">
 <!ENTITY alwaysSubmitCrashReports.accesskey "с">
-<!ENTITY crashReporterLearnMore.label     "Падрабязней">
+<!ENTITY crashReporterLearnMore.label     "Даведацца больш">
 
 <!ENTITY networkTab.label                "Сетка">
 
@@ -84,17 +84,17 @@
 <!ENTITY updateTab.label                 "Абнаўленне">
 
 <!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
-<!ENTITY updateAuto1.label               "Самастойнае ўсталяванне абнаўленняў (раіцца: палепшаная бяспека)">
-<!ENTITY updateAuto1.accesskey           "С">
+<!ENTITY updateAuto1.label               "Аўтаматычнае ўсталяванне абнаўленняў (рэкамендуецца: палепшаная бяспека)">
+<!ENTITY updateAuto1.accesskey           "с">
 <!ENTITY updateCheckChoose.label         "Правяраць абнаўленні, але пытацца, ці ўсталёўваць іх">
 <!ENTITY updateCheckChoose.accesskey     "П">
-<!ENTITY updateManual.label              "Ніколі не правяраць, ці існуюць абнаўленні (не раіцца: рызыка для бяспекі)">
+<!ENTITY updateManual.label              "Ніколі не правяраць наяўнасць абнаўленняў (не рэкамендуецца: рызыка для бяспекі)">
 <!ENTITY updateManual.accesskey          "Н">
 
 <!ENTITY updateHistory.label             "Паказаць гісторыю абнаўленняў">
 <!ENTITY updateHistory.accesskey         "а">
 
-<!ENTITY useService.label                "Ужываць фонаваю службу для ўсталявання абнаўленняў">
+<!ENTITY useService.label                "Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў">
 <!ENTITY useService.accesskey            "ф">
 
 <!ENTITY autoUpdateOthers.label          "Абнаўляць аўтаматычна">
@@ -112,7 +112,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "В">
 <!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя дадзеныя">
 
-<!ENTITY certificateTab.label            "Пасведчанні">
+<!ENTITY certificateTab.label            "Сертыфікаты">
 <!ENTITY certPersonal.label              "Запыты">
 <!ENTITY certPersonal.description        "Калі сервер запытвае ваш асабісты сертыфікат:">
 <!ENTITY selectCerts.auto                "Выбіраць аўтаматычна">
@@ -121,7 +121,7 @@
 <!ENTITY selectCerts.ask.accesskey       "П">
 <!ENTITY enableOCSP.label                "Звяртацца да сервера OCSP за пацверджаннем дзейснасці сертыфікатаў">
 <!ENTITY enableOCSP.accesskey            "З">
-<!ENTITY viewCerts.label                 "Прагляд пасведчанняў">
+<!ENTITY viewCerts.label                 "Паказаць сертыфікаты">
 <!ENTITY viewCerts.accesskey             "П">
 <!ENTITY viewSecurityDevices.label       "Прылады бяспекі">
 <!ENTITY viewSecurityDevices.accesskey   "б">
