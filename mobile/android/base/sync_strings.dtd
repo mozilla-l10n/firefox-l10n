@@ -11,30 +11,33 @@
 <!ENTITY sync.title.connect.label 'Злучыцца з &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Каб задзейнічаць новую збудову, выберыце “Наладзіць &syncBrand.shortName.label;” на збудове.'>
-<!ENTITY sync.subtitle.pair.label 'Каб задзейнічаць, выберыце “Спараваць збудову” на вашай іншай збудове.'>
+<!ENTITY sync.subtitle.connect.label 'Каб задзейнічаць новую прыладу, выберыце “Наладзіць &syncBrand.shortName.label;” на прыладзе.'>
+<!ENTITY sync.subtitle.pair.label 'Каб задзейнічаць, выберыце “Падключыць прыладу” на вашай іншай прыладзе.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'Я не маю збудову з сабою…'>
+<!ENTITY sync.link.nodevice.label 'У мяне няма з сабою прылады…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Лагіны'>
 <!ENTITY sync.configure.engines.title.history 'Гісторыю'>
-<!ENTITY sync.configure.engines.title.tabs 'Устаўкі'>
+<!ENTITY sync.configure.engines.title.tabs 'Карткі'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; на &formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Меню закладак'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Меціны'>
-<!ENTITY bookmarks.folder.toolbar.label 'Прыладапаліца закладак'>
+<!ENTITY bookmarks.folder.tags.label 'Тэгі'>
+<!ENTITY bookmarks.folder.toolbar.label 'Паліца закладак'>
+<!ENTITY bookmarks.folder.other.label 'Іншыя закладкі'>
 <!ENTITY bookmarks.folder.desktop.label 'Закладкі працоўнага стала.'>
 <!ENTITY bookmarks.folder.mobile.label 'Мабільныя закладкі'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label 'Прышпіленая'>
+<!ENTITY bookmarks.folder.pinned.label 'Замацаваныя'>
 
 <!-- Firefox Account strings. -->
 
@@ -43,31 +46,50 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Вярнуцца да азірання'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Калі ласка да &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Вітаем у &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, лагіны і іншае.'>
 <!ENTITY fxaccount_getting_started_get_started 'Пачаць'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ужываеце старэйшую версію &syncBrand.shortName.label;?'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Увайшоўшы як'>
+<!ENTITY fxaccount_status_manage_account 'Кіраванне ўліковым запісам'>
+<!ENTITY fxaccount_status_auth_server 'Сервер уліковага запісу'>
+<!ENTITY fxaccount_status_sync_now 'Сінхранізаваць зараз'>
+<!ENTITY fxaccount_status_syncing2 'Сінхранізацыя…'>
+<!ENTITY fxaccount_status_device_name 'Імя прылады'>
+<!ENTITY fxaccount_status_sync_server 'Сервер Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: дазволены'>
-<!ENTITY fxaccount_status_needs_verification2 'Ваш рахунак павінны быць пацверджаны. Ляпніце, каб перадаслаць э-ліст пацверджання.'>
-<!ENTITY fxaccount_status_needs_credentials 'Немагчыма злучыцца. Ляпніце, каб увайсці.'>
-<!ENTITY fxaccount_status_needs_upgrade 'Вы павінны ўзняць &brandShortName;, каб увайсці.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Самасінхранізацыя здаткаў” у “Наладжванні Android” &gt; “Ужыванне здаткаў”.'>
+<!ENTITY fxaccount_status_needs_verification2 'Ваш уліковы запіс павінен быць пацверджаны. Клікніце, каб перадаслаць ліст пацверджання.'>
+<!ENTITY fxaccount_status_needs_credentials 'Немагчыма злучыцца. Клікніце, каб увайсці.'>
+<!ENTITY fxaccount_status_needs_upgrade 'Вы павінны абнавіць &brandShortName;, каб увайсці.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Аўтасінхранізацыя дадзеных” у наладах Android &gt; Выкарыстанне дадзеных.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; наладжаны, але не сінхранізуецца самастойна. Уключыце “Аўтасінхранізацыя дадзеных” у меню налад Android &gt; Уліковыя запісы.'>
+<!ENTITY fxaccount_status_needs_finish_migrating 'Націсніце, каб увайсці ў новы ўліковы запіс Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладкі'>
 <!ENTITY fxaccount_status_history 'Гісторыя'>
-<!ENTITY fxaccount_status_tabs 'Адчыненыя ўстаўкі'>
-<!ENTITY fxaccount_status_legal 'Легальны' >
+<!ENTITY fxaccount_status_passwords2 'Лагіны'>
+<!ENTITY fxaccount_status_tabs 'Адчыненыя карткі'>
+<!ENTITY fxaccount_status_legal 'Юрыдычная інфармацыя' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
+<!ENTITY fxaccount_status_linktos2 'Умовы абслугоўвання'>
+<!ENTITY fxaccount_status_linkprivacy2 'Паведамленне аб прыватнасці'>
+<!ENTITY fxaccount_status_more 'Больш&ellipsis;'>
+<!ENTITY fxaccount_remove_account 'Адлучыць&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Адлучыцца ад Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Дадзеныя прагляду застануцца на гэтай прыладзе, але не будуць сінхранізавацца з вашым уліковым запісам.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Уліковы запіс Firefox &formatS; адлучаны.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Адлучыцца'>
 
+<!ENTITY fxaccount_enable_debug_mode 'Уключыць рэжым адладкі'>
 
 <!-- Localization note: this is the name shown by the Android system
      itself for a Firefox Account. Don't localize this. -->
