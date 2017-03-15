@@ -249,13 +249,14 @@
 
 <!ENTITY pref_category_data_saver "Lagwok data">
 
-
+<!ENTITY pref_category_developer_tools "Gitic pa ludiro">
 
 <!ENTITY pref_tap_to_load_images_title2 "Nyut cal">
 <!ENTITY pref_tap_to_load_images_enabled "Jwijwi">
 <!ENTITY pref_tap_to_load_images_data "Ki i Wi-Fi keken">
 <!ENTITY pref_tap_to_load_images_disabled2 "Kigengo woko">
 
+<!ENTITY pref_show_web_fonts "Nyut dit me coc me kakube">
 <!ENTITY pref_show_web_fonts_summary2 "Gam dit me coc ma tye kama bor ikare me cano potbuk">
 
 <!ENTITY pref_tracking_protection_title2 "Gwokke ikom lubo kor">
@@ -523,7 +524,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Yeny me wang kio ma opong">
-
+<!ENTITY pref_scroll_title_bar_summary2 "Kan lanyut me &brandShortName; ka itye ka dok piny i potbuk">
 
 <!ENTITY pref_tab_queue_title3 "Keto dirica matidi i lain">
 <!ENTITY pref_tab_queue_summary4 "Gwok kakube naka wa tyen ma lacen ma iyabo &brandShortName;">
@@ -700,6 +701,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+
+<!ENTITY updater_permission_text "Me gamo pwail li ngec manyen, ye &brandShortName; twero me nongo kakan.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Ye">
 <!-- Guest mode -->    
@@ -776,15 +779,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "Med ikome">
-
+<!ENTITY restrictable_feature_addons_installation_description "Med jami onyo tic i Firefox. Ngec: Med-ikome twero juko kigeng mogo.">
 <!ENTITY restrictable_feature_private_browsing "Yeny pa ma megi">
 <!ENTITY restrictable_feature_private_browsing_description "Ye jo ma i gang me yeny labongo gwoko ngec ikom kakube ki potbukke ma gi olimo.">
 <!ENTITY restrictable_feature_clear_history "Jwa gin mukato">
 <!ENTITY restrictable_feature_clear_history_description "Ye jo ma i gang me kwanyo ngec ikom kakube ki potbukke ma gi olimo.">
 <!ENTITY restrictable_feature_advanced_settings "Ter ma lamal">
-
+<!ENTITY restrictable_feature_advanced_settings_description "Man kwako kelo alamabuk ki woko, dwoko dirica matino ki ngec manyen ma kete pigi kengi. Kwany woko pi ter ma yot ma pore pi ngat mo keken ma i gang.">
 <!ENTITY restrictable_feature_camera_microphone "Lamak cal ki mikropon">
-
+<!ENTITY restrictable_feature_camera_microphone_description "Weko jo ma i gang bedo ki kero me miyo ngec i cawa kikome i kakube.">
 
 <!ENTITY restrictable_feature_block_list_description "Geng kakube ma keto jami ma pigi lit.">
 <!-- Default Bookmarks titles-->
