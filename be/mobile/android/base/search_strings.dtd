@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY search_app_name 'Пошук &brandShortName;'>
+
+<!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
+      the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Пошук праз &formatS;'>
+
+<!ENTITY search_empty_title2 'Пачаць пошук'>
+<!ENTITY search_empty_message 'Хутка знайдзіце ўсё, што вам трэба'>
+
+<!--  Localization note (search_plus_content_description): This is the content description
+      for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Дадаць у панэль пошуку'>
+
+<!ENTITY search_pref_title 'Налады'>
+<!ENTITY search_pref_button_content_description 'Налады'>
+
+<!ENTITY pref_clearHistory_confirmation 'Гісторыя выдалена'>
+<!ENTITY pref_clearHistory_dialogMessage 'Выдаліць усю гісторыю пошуку з гэтай прылады?'>
+<!ENTITY pref_clearHistory_title 'Ачысціць гісторыю пошуку'>
+
+<!ENTITY search_widget_button_label 'Пошук'>
+
+<!ENTITY network_error_title 'Няма інтэрнэт-злучэння'>
+<!ENTITY network_error_message 'Націсніце тут, каб праверыць налады сеткі'>
