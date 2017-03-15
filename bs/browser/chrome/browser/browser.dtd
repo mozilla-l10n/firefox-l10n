@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Prikaži sve zabilješke">
 <!ENTITY recentBookmarks.label "Nedavno zabilježeno">
 <!ENTITY otherBookmarksCmd.label "Druge zabilješke">
-
+<!ENTITY mobileBookmarksCmd.label "Mobilne zabilješke">
 <!ENTITY bookmarksToolbarChevron.tooltip "Prikaži više zabilješki">
 <!ENTITY showRecentlyBookmarked.label     "Prikaži nedavno zabilježeno">
 <!ENTITY showRecentlyBookmarked.accesskey "d">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Zabilješke">
 <!ENTITY bookmarksMenuButton.other.label "Druge zabilješke">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Mobilne zabilješke">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži traku sa zabilješkama">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži traku sa zabilješkama">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nema otvorenih tabova">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Prikaži više">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Prikaži više tabova s ovog uređaja">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Prikaži sve">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Prikaži sve tabove s ovog uređaja">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Uključite sinhronizaciju tabova da biste vidjeli listu tabova s vaših ostalih uređaja.">

@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Problem sa učitavanjem stranice">
 <!ENTITY retry.label "Pokušaj ponovo">
 <!ENTITY returnToPreviousPage.label "Idi nazad">
-
+<!ENTITY advanced.label "Napredno">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; iz nekog razloga ne može da učita stranicu.</p>">
 
 <!ENTITY captivePortal.title "Prijavi se na mrežu">
+<!ENTITY captivePortal.longDesc2 "<p>Morate se prijaviti na ovu mrežu da biste mogli pristupiti internetu.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Otvori stranicu za prijavu na mrežu">
 
 <!ENTITY malformedURI.title "Adresa je nevažeća">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web adrese su obično napisane kao <strong>http://www.primjer.ba/</strong></li> <li>Pobrinite se da koristite kose crte (tj. <strong>/</strong>).</li> </ul>">
