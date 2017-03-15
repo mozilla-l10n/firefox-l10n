@@ -9,6 +9,11 @@
 <!ENTITY     usageCol.label                "Хранилище">
 <!ENTITY     searchPlaceHolder             "Търсене">
 <!ENTITY     searchPlaceHolder.accesskey   "т">
+<!ENTITY     removeSelected.label          "Премахване на избраните">
+<!ENTITY     removeSelected.accesskey      "и">
+<!ENTITY     save.label                    "Запазване">
+<!ENTITY     save.accesskey                "з">
 <!ENTITY     cancel.label                  "Отказ">
 <!ENTITY     cancel.accesskey              "з">
+<!ENTITY     removingDialog.title          "Премахване на данните за сайта">
 <!ENTITY     siteTree.label                "Следните бисквитки от сайта ще бъдат премахнати:">
