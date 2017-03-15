@@ -20,9 +20,9 @@
 <!ENTITY encryption.certificate.accesskey "i">
 <!ENTITY encryption.certificate_clear.button "Skarzhañ">
 <!ENTITY encryption.certificate_clear.accesskey "k">
-<!ENTITY signingGroupTitle.label "Dinañ niverel">
-<!ENTITY signMessage.label "Dinañ ar c'hemennadennoù gant un doare niverel (dre ziouer)">
-<!ENTITY signMessage.accesskey "D">
+<!ENTITY signingGroupTitle.label "Sinañ niverel">
+<!ENTITY signMessage.label "Sinañ ar c'hemennadennoù gant un doare niverel (dre ziouer)">
+<!ENTITY signMessage.accesskey "S">
 <!ENTITY signingCert.message "Arverañ an testeni-mañ evit sinañ gant un doare niverel ar c'hemennadennoù kaset ganeoc'h :">
 
 <!ENTITY certificates.label "Testenioù">
