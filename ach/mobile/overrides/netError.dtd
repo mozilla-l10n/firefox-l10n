@@ -69,6 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Rot ter me proxy me neno ni gi tye kakare.</li> <li>Rot me neno ni nyonyo mamgei tye ki data matiyo onyo kube me Wi-Fi. <button id='wifi'>Cak Wi-Fi</button> </li> </ul>">
 
+<!ENTITY redirectLoop.title "Potbuk ne pe tye wire maber">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Peko man kare mukene twero bino pi juko onyo kwero ye cookies.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Lagam mape okuro ki lapok tic">
