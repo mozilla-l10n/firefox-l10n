@@ -13,7 +13,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Sekmeniz çöktü. :(">
+<!ENTITY tabCrashed.header2 "Sekmeniz çöktü.">
 <!ENTITY tabCrashed.offerHelp "Size yardım edebiliriz!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Sayfa içeriğini yeniden yüklemek için “&tabCrashed.restoreTab;” seçeneğini seçin.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Sayfa içeriğini yeniden yüklemek için “&tabCrashed.restoreTab;” veya “&tabCrashed.restoreAll;” seçeneğini seçin.">
