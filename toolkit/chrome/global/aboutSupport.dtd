@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Многопроцесни прозорци">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Надежден режим">
 
 <!ENTITY aboutSupport.showDir.label "Отваряне на папката">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Копиране необработени данни в системния буфер">
 
 <!ENTITY aboutSupport.sandboxTitle "Виртуална среда">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Отхвърлени системни извиквания">
+<!ENTITY aboutSupport.sandboxSyscallIndex "№">
+<!ENTITY aboutSupport.sandboxSyscallAge "Време">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Вид процес">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Аргументи">
 
 <!ENTITY aboutSupport.safeModeTitle "Пробвайте надеждния режим">
 <!ENTITY aboutSupport.restartInSafeMode.label "Рестартиране с изключени добавки…">
