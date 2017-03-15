@@ -68,7 +68,7 @@
 <!ENTITY proxyResolveFailure.title "Pe romo nongo lapok tic pi lawote">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Ngi ter pa latic pi lawote wek i nen ni meno gi tye kakare.</li> <li>Ngi wek i nen ni meno komputa ni tye ki kakube ma tiyo.</li> <li>Ka ce komputa onyo kakube me koputa ni kigwoko ki lagwok komputa onyo latic pi lawote, nen ni meno &brandShortName; tye ki rukuca me donyo i Kakube.</li> </ul>">
 
-<!ENTITY redirectLoop.title "Pot buk pe tye ka cwalo kwac ka mukene kakare">
+<!ENTITY redirectLoop.title "Potbuk ne pe tye wire maber">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Peko man kare mukene bino pi juko onyo kwero ye angija.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Lagam ma pe kibedo ka kuro ki bot lapok tic">
