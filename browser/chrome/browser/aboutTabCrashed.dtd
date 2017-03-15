@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY tabCrashed.closeTab "આ ટેબ બંદ કરો">
+<!ENTITY tabCrashed.restoreTab "આ ટેબ પુનઃસ્થાપિત કરો">
+<!ENTITY tabCrashed.restoreAll "બધા ક્રેશ થયેલા ટેબ્સ પુનઃસ્થાપિત કરો">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -10,17 +13,3 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
