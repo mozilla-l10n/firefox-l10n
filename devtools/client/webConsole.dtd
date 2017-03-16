@@ -58,7 +58,7 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 <!ENTITY btnServerLogging.label       "Сервер">
 <!ENTITY btnServerLogging.tooltip     "Запісваць паведамленні, атрыманыя ад вэб-сервера">
-<!ENTITY btnServerLogging.accesskey   "ы">
+<!ENTITY btnServerLogging.accesskey   "С">
 <!ENTITY btnServerErrors              "Памылкі">
 <!ENTITY btnServerInfo                "Звесткі">
 <!ENTITY btnServerWarnings            "Папярэджанні">
