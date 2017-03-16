@@ -97,7 +97,7 @@
 
 <!ENTITY nssFailure2.title "安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>由于无法证实所接收资料的可靠性，无法显示您正要查看的页面。</li> 
+<li>由于无法证实所接收资料的可靠性，不能显示您正要查看的页面。</li> 
 <li>请联系此网站的管理员并告知此问题。</li> 
 </ul>">
 
