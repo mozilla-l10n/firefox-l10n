@@ -10,10 +10,15 @@
 <!ENTITY firstrun_bookmarks_message "Ваша любімае, навідавоку ў цэнтры">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_signin_button "Увайсці ў Sync">
+<!ENTITY  onboard_start_button_browser "Пачаць агляданне">
+<!ENTITY firstrun_button_next "Далей">
 
+<!ENTITY firstrun_tabqueue_title "Спасылкі">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
+<!ENTITY firstrun_tabqueue_message_on "Поспех!">
 
+<!ENTITY firstrun_readerview_title "Артыкулы">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
