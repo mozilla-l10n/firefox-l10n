@@ -517,7 +517,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "а">
 <!ENTITY viewVideoCmd.label           "Прагледзець відэа">
 <!ENTITY viewVideoCmd.accesskey       "г">
-<!ENTITY viewBGImageCmd.label         "Паказаць фонавы відарыс">
+<!ENTITY viewBGImageCmd.label         "Паказаць фонавую выяву">
 <!ENTITY viewBGImageCmd.accesskey     "ф">
 <!ENTITY setDesktopBackgroundCmd.label      "Усталяваць як фон працоўнага стала…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "У">
@@ -539,13 +539,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "Д">
 <!ENTITY saveLinkCmd.label            "Захаваць спасылку як…">
 <!ENTITY saveLinkCmd.accesskey        "с">
-<!ENTITY saveImageCmd.label           "Захаваць відарыс як…">
+<!ENTITY saveImageCmd.label           "Захаваць выяву як…">
 <!ENTITY saveImageCmd.accesskey       "я">
 <!ENTITY saveVideoCmd.label           "Захаваць відэа як…">
 <!ENTITY saveVideoCmd.accesskey       "в">
 <!ENTITY saveAudioCmd.label           "Захаваць гук як…">
 <!ENTITY saveAudioCmd.accesskey       "г">
-<!ENTITY emailImageCmd.label          "Даслаць відарыс эл.поштай…">
+<!ENTITY emailImageCmd.label          "Даслаць выяву эл.поштай…">
 <!ENTITY emailImageCmd.accesskey      "Д">
 <!ENTITY emailVideoCmd.label          "Даслаць відэа…">
 <!ENTITY emailVideoCmd.accesskey      "д">
