@@ -188,32 +188,45 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_notifications "Апавяшчэнні">
+<!ENTITY pref_remember_signons2 "Запомніць лагіны">
+<!ENTITY pref_manage_logins "Кіраваць лагінамі">
 
 <!ENTITY pref_category_home "Хатняя старонка">
 <!ENTITY pref_category_home_summary "Уладкаванне вашай хатняй старонкі">
 <!ENTITY pref_category_home_panels "Панэлі">
+<!ENTITY pref_category_home_add_ons "Дадаткі">
+<!ENTITY pref_home_updates2 "Абнаўленне змесціва">
 <!ENTITY pref_home_updates_enabled "Дазволена">
 <!ENTITY pref_home_updates_wifi "Толькі праз Wi-Fi">
+<!ENTITY pref_category_home_homepage "Хатняя старонка">
+<!ENTITY home_homepage_title "Зрабіць хатняй старонкай">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Хатняя старонка &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Уласная">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Увядзіце адрас або пошукавы запыт">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Асноўныя">
-<!ENTITY pref_header_privacy_short "Адасабленне">
+<!ENTITY pref_header_search "Пошук">
+<!ENTITY pref_header_privacy_short "Прыватнасць">
+<!ENTITY pref_header_accessibility "Спецыяльныя магчымасці">
+<!ENTITY pref_header_notifications "Апавяшчэнні">
+<!ENTITY pref_header_advanced "Пашыраныя">
 <!ENTITY pref_header_help "Даведка">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "Біркі">
+<!ENTITY pref_cookies_menu "Кукі">
 <!ENTITY pref_cookies_accept_all "Дазволены">
 <!ENTITY pref_cookies_not_accept_foreign "Дазволены, акрамя пабочных">
 <!ENTITY pref_cookies_disabled "Забаронены">
@@ -221,11 +234,23 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_data_saver "Эканомія трафіку">
+<!ENTITY pref_category_media "Медыя">
+<!ENTITY pref_category_developer_tools "Прылады распрацоўшчыка">
+
+<!ENTITY pref_tap_to_load_images_title2 "Паказваць выявы">
+<!ENTITY pref_tap_to_load_images_enabled "Заўсёды">
+<!ENTITY pref_tap_to_load_images_data "Толькі праз Wi-Fi">
+<!ENTITY pref_tap_to_load_images_disabled2 "Заблакавана">
 
 
+<!ENTITY pref_donottrack_title "Не сачыць">
 
+<!ENTITY pref_tracking_protection_enabled "Дазволена">
+<!ENTITY pref_tracking_protection_enabled_pb "Дазволіць ў Прыватным агляданні">
+<!ENTITY pref_tracking_protection_disabled "Забаронена">
 
-
+<!ENTITY pref_whats_new_notification "Што новага ў &brandShortName;">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
@@ -237,6 +262,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY tracking_protection_prompt_action_button "Зразумела!">
 
 <!ENTITY tab_queue_toast_message3 "Картка захавана ў &brandShortName;">
 <!ENTITY tab_queue_toast_action "Адкрыць зараз">
@@ -266,6 +292,7 @@
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "Налады">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
@@ -280,6 +307,7 @@
 <!ENTITY pref_clear_private_data_now_tablet "Ачысціць зараз">
 <!ENTITY pref_plugins "Убудовы">
 <!ENTITY pref_plugins_enabled "Дазволены">
+<!ENTITY pref_plugins_tap_to_play2 "Па дотыку">
 <!ENTITY pref_plugins_disabled "Забаронены">
 <!ENTITY pref_text_size "Памер тэксту">
 <!ENTITY pref_restore_tabs "Аднаўленне картак">
@@ -310,13 +338,17 @@ size. -->
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Адкрытыя карткі">
 <!ENTITY pref_private_data_history2 "Гісторыя азірання">
-<!ENTITY pref_private_data_cookies2 "Біркі і дзейныя ўваходы">
+<!ENTITY pref_private_data_searchHistory "Гісторыя пошуку">
+<!ENTITY pref_private_data_formdata2 "Гісторыя формаў">
+<!ENTITY pref_private_data_cookies2 "Кукі і актыўныя сеансы">
+<!ENTITY pref_private_data_passwords2 "Захаваныя лагіны">
 <!ENTITY pref_private_data_cache "Запаснік">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя дадзеныя вэб-сайтаў">
 <!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles2 "Сцягванні">
 <!ENTITY pref_private_data_syncedTabs "Сінхранізаваныя карткі">
 
+<!ENTITY pref_default_browser "Зрабіць прадвызначаным браўзерам">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Наведаць Падтрымку Mozilla">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
@@ -362,22 +394,26 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Аўтаматычныя абнаўленні">
 <!ENTITY pref_update_autodownload_wifi "Толькі праз Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Ніколі">
 <!ENTITY pref_update_autodownload_always "Заўсёды">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "Даведка">
 
 <!ENTITY quit "Выйсці">
 
 <!ENTITY addons "Дадаткі">
-<!ENTITY downloads "Загрузкі">
+<!ENTITY logins "Лагіны">
+<!ENTITY downloads "Сцягванні">
 <!ENTITY char_encoding "Кадоўка знакаў">
 
 <!ENTITY share "Дзяліцца">
 <!ENTITY share_title "Падзеляецца праз">
 <!ENTITY share_image_failed "Немагчма падзяліцца гэтай выявай">
 <!ENTITY save_as_pdf "Захаваць як PDF">
+<!ENTITY print "Друкаваць">
 <!ENTITY find_in_page "Знайсці на старонцы">
 <!ENTITY desktop_mode "Настольная пляцоўка">
 <!ENTITY page "Старонка">
@@ -389,6 +425,7 @@ size. -->
 <!ENTITY tabs_normal "Карткі">
 <!ENTITY tabs_private "Прыватныя">
 <!ENTITY set_image_fail "Немагчыма прызначыць выяву">
+<!ENTITY set_image_path_fail "Немагчыма захаваць выяву">
 <!ENTITY set_image_chooser_title "Прызначыць выяву">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -400,6 +437,7 @@ size. -->
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "Даслаць на прыладу">
 <!ENTITY media_play "Граць">
 <!ENTITY media_pause "Прыпыніць">
 <!ENTITY media_stop "Спыніць">
@@ -423,6 +461,9 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_edit_username_hint "Імя карыстальніка">
+<!ENTITY doorhanger_login_edit_password_hint "Пароль">
+<!ENTITY doorhanger_login_edit_toggle "Паказаць пароль">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -467,6 +508,7 @@ size. -->
 <!ENTITY button_clear_data "Выдаліць дадзеныя">
 <!ENTITY button_set "Прызначыць">
 <!ENTITY button_clear "Ачысціць">
+<!ENTITY button_copy "Капіяваць">
 
 <!ENTITY home_top_sites_title "Найнаведвальныя пляцоўкі">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -475,11 +517,17 @@ size. -->
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "Хатняя старонка &brandShortName;">
 <!ENTITY home_history_title "Гісторыя">
+<!ENTITY home_synced_devices_smartfolder "Сінхранізаваныя прылады">
+<!ENTITY home_synced_devices_number "&formatD; прылад(а)">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 прылада">
+<!ENTITY home_clear_history_button "Ачысціць гісторыю аглядання">
 <!ENTITY home_bookmarks_empty "Захаваныя вамі закладкі паказваюцца тут.">
 <!ENTITY home_closed_tabs_title2 "Нядаўна закрытыя">
 <!ENTITY home_last_tabs_empty "Вашы апошнія ўстаўкі знаходзяцца тут.">
+<!ENTITY home_restore_all "Аднавіць усе">
 <!ENTITY home_closed_tabs_number "&formatD; картак">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 картка">
@@ -498,6 +546,7 @@ size. -->
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "Схавана &formatD; прылад(а, ы)">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "Схаваныя прылады">
@@ -526,10 +575,15 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Бяспечнае злучэнне">
+<!ENTITY identity_connection_insecure "Небяспечнае злучэнне">
 
 <!-- Mixed content notifications in site identity popup -->
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Ахова ад сачэння">
+<!ENTITY doorhanger_tracking_state_enabled "Дазволена">
+<!ENTITY doorhanger_tracking_state_disabled "Забаронена">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Падрабязней">
@@ -555,6 +609,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Шукаць праз &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -577,6 +632,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Дазволіць">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Новая гасцявая сэсія">
@@ -584,6 +640,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Працягнуць">
 <!ENTITY guest_session_dialog_cancel "Скасаваць">
 <!ENTITY new_guest_session_title "&brandShortName; зараз перазапусціцца">
+<!ENTITY guest_browsing_notification_text "Націсніце для выхаду">
 
 <!ENTITY exit_guest_session_title "&brandShortName; зараз перазапусціцца">
 <!ENTITY exit_guest_session_text "Дадзеныя аглядання гэтай сесіі будуць выдалены.">
@@ -594,6 +651,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      traditions in your locale. -->
 <!ENTITY ellipsis "…">
 
+<!ENTITY colon ":">
 
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
@@ -601,6 +659,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
+<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
@@ -652,6 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
+<!ENTITY bookmarks_support "Firefox: Падтрымка">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 
