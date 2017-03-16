@@ -41,23 +41,25 @@
 <!ENTITY  bookmarks_title "Закладкі">
 <!ENTITY  history_title "Гісторыя">
 
-<!ENTITY  switch_to_tab "Пераключыцца ў устаўку">
+<!ENTITY  switch_to_tab "Перайсці ў картку">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Паказ аўтаномнай версіі">
 
-<!ENTITY  crash_reporter_title "Паведамляльнік пра крахі &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; зазнаў хібу і пацярпеў крах. Вашы ўстаўкі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
-<!ENTITY  crash_send_report_message3 "Расказаць &vendorShortName; пра гэты крах, каб ён быў выпраўлены">
+<!ENTITY  crash_reporter_title "Справаздача аб падзенні &brandShortName;">
+<!ENTITY  crash_message2 "&brandShortName; сутыкнуўся з праблемай і пацярпеў крах. Вашы карткі будуць пералічаны на пачатковай старонцы &brandShortName; пасля перазапуску.">
+<!ENTITY  crash_send_report_message3 "Паведаміць &vendorShortName; пра падзенне, каб выправіць праблему">
 <!ENTITY  crash_include_url2 "Уключыць адрас старонкі, на якой я быў">
 <!ENTITY  crash_sorry "Прабачце">
 <!ENTITY  crash_comment "Каментаваць (каментары прылюдна бачныя)">
-<!ENTITY  crash_allow_contact2 "Дазволіць &vendorShortName; звяртацца да мяне з пытаннямі пра гэтую справаздачу">
+<!ENTITY  crash_allow_contact2 "Дазволіць &vendorShortName; звяртацца да мяне з пытаннямі пра гэту справаздачу">
 <!ENTITY  crash_email "Ваша э-пошта">
-<!ENTITY  crash_closing_alert "Выйсці без дасылання справаздачы пра крах?">
-<!ENTITY  sending_crash_report "Дасыланне справаздачы пра крах\u2026">
+<!ENTITY  crash_closing_alert "Выйсці без дасылання справаздачы аб падзенні?">
+<!ENTITY  sending_crash_report "Дасыланне справаздачы аб падзенні\u2026">
 <!ENTITY  crash_close_label "Зачыніць">
 <!ENTITY  crash_restart_label "Перазапусціць &brandShortName;">
 
+<!ENTITY url_bar_default_text2 "Шукаць ці ўвесці адрас">
 
 <!ENTITY bookmark "Закладка">
 <!ENTITY bookmark_remove "Выдаліць закладку">
@@ -94,12 +96,13 @@
 <!ENTITY site_security "Бяспека пляцоўкі">
 <!ENTITY edit_mode_cancel "Скасаваць">
 
-<!ENTITY close_tab "Зачыніць устаўку">
-<!ENTITY one_tab "1 устаўка">
+<!ENTITY close_tab "Закрыць картку">
+<!ENTITY one_tab "1 картка">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; уставак">
-<!ENTITY new_tab_opened "Адчынена новая ўстаўка">
+<!ENTITY num_tabs2 "&formatD; картак">
+<!ENTITY new_tab_opened "Адкрыта новая картка">
+<!ENTITY new_private_tab_opened "Адкрыта новая прыватная картка">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -181,6 +184,7 @@
      text field. -->
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Асноўныя">
 <!ENTITY pref_header_privacy_short "Адасабленне">
 <!ENTITY pref_header_help "Даведка">
 <!ENTITY pref_header_vendor "&vendorShortName;">
@@ -205,20 +209,29 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Наладжвальныя карткі">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
+<!ENTITY tab_queue_toast_message3 "Картка захавана ў &brandShortName;">
+<!ENTITY tab_queue_toast_action "Адкрыць зараз">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "Уключыць">
+<!ENTITY tab_queue_prompt_negative_action_button "Не зараз">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Перайсці ў налады">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "У чарзе &formatD; карткі(а,ак)">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "У чарзе 1 картка">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
@@ -240,10 +253,12 @@
 <!ENTITY pref_char_encoding_off "Не паказваць меню">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "Ачысціць зараз">
 <!ENTITY pref_plugins "Убудовы">
 <!ENTITY pref_plugins_enabled "Дазволены">
 <!ENTITY pref_plugins_disabled "Забаронены">
 <!ENTITY pref_text_size "Памер тэксту">
+<!ENTITY pref_restore_tabs "Аднаўленне картак">
 <!ENTITY pref_restore_always "Заўсёды аднаўляць">
 <!ENTITY pref_restore_quit "Не аднаўляць пасля выхаду з &brandShortName;">
 <!ENTITY pref_font_size_tiny "Звыш-малы">
@@ -265,16 +280,20 @@ size. -->
 
 
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
+<!ENTITY pref_sync_summary2 "Сінхранізацыя картак, закладак, лагінаў, гісторыі">
 <!ENTITY pref_search_suggestions "Паказваць прапановы пошуку">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Адкрытыя карткі">
 <!ENTITY pref_private_data_history2 "Гісторыя азірання">
 <!ENTITY pref_private_data_cookies2 "Біркі і дзейныя ўваходы">
 <!ENTITY pref_private_data_cache "Запаснік">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
 <!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles2 "Сцягванні">
+<!ENTITY pref_private_data_syncedTabs "Сінхранізаваныя карткі">
 
+<!ENTITY pref_default_browser_mozilla_support_tablet "Наведаць Падтрымку Mozilla">
 <!ENTITY pref_about_firefox "Пра &brandShortName;">
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
 <!ENTITY pref_vendor_feedback "Даць водгук">
@@ -339,11 +358,12 @@ size. -->
 <!ENTITY desktop_mode "Настольная пляцоўка">
 <!ENTITY page "Старонка">
 <!ENTITY tools "Прылады">
-<!ENTITY new_tab "Новая ўстаўка">
-<!ENTITY new_private_tab "Адасобленая ўстаўка">
-<!ENTITY close_all_tabs "Закрыць усе ўстаўкі">
-<!ENTITY tabs_normal "Устаўкі">
-<!ENTITY tabs_private "Асабістыя">
+<!ENTITY new_tab "Новая картка">
+<!ENTITY new_private_tab "Прыватная картка">
+<!ENTITY close_all_tabs "Закрыць усе карткі">
+<!ENTITY close_private_tabs "Закрыць прыватныя карткі">
+<!ENTITY tabs_normal "Карткі">
+<!ENTITY tabs_private "Прыватныя">
 <!ENTITY set_image_fail "Немагчыма прызначыць выяву">
 <!ENTITY set_image_chooser_title "Прызначыць выяву">
 
@@ -360,8 +380,8 @@ size. -->
 <!ENTITY media_pause "Прыпыніць">
 <!ENTITY media_stop "Спыніць">
 
-<!ENTITY contextmenu_open_new_tab "Адчыніць у новай устаўцы">
-<!ENTITY contextmenu_open_private_tab "Адчыніць у адасобленай устаўцы">
+<!ENTITY contextmenu_open_new_tab "Адкрыць у новай картцы">
+<!ENTITY contextmenu_open_private_tab "Адкрыць у прыватнай картцы">
 <!ENTITY contextmenu_remove "Выдаліць">
 <!ENTITY contextmenu_add_to_launcher "Дадаць на хатні экран">
 <!ENTITY contextmenu_share "Дзяліцца">
@@ -386,9 +406,11 @@ size. -->
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
+<!ENTITY pref_tab_queue_title3 "Чарга картак">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Кампактныя карткі">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -432,8 +454,11 @@ size. -->
 <!ENTITY home_history_title "Гісторыя">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_bookmarks_empty "Захаваныя вамі закладкі паказваюцца тут.">
+<!ENTITY home_closed_tabs_title2 "Нядаўна закрытыя">
 <!ENTITY home_last_tabs_empty "Вашы апошнія ўстаўкі знаходзяцца тут.">
+<!ENTITY home_closed_tabs_number "&formatD; картак">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 картка">
 <!ENTITY home_most_recent_empty "Сеціўныя пляцоўкі, якія вы наведвалі нядаўна, знаходзяцца тут.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -451,8 +476,10 @@ size. -->
      Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "Схаваныя прылады">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "Паказаць выбраныя схаваныя прылады">
 
 
 <!ENTITY pin_site_dialog_hint "Увядзіце тэрмін для пошуку">
@@ -564,7 +591,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
+<!ENTITY remote_tabs_last_synced "Апошняя сінхранізацыя: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
+<!ENTITY remote_tabs_never_synced "Апошняя сінхранізацыя: ніколі">
 
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
@@ -588,6 +617,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "Дадаткі">
+<!ENTITY restrictable_feature_private_browsing "Прыватнае агляданне">
+<!ENTITY restrictable_feature_clear_history "Ачысціць гісторыю">
+<!ENTITY restrictable_feature_advanced_settings "Дадатковыя налады">
+<!ENTITY restrictable_feature_camera_microphone "Камера і мікрафон">
+<!ENTITY restrictable_feature_block_list "Спісы блакавання">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
