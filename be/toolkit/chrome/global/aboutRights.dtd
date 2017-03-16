@@ -60,7 +60,7 @@
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Бяспечнае агляданне: ">
-<!ENTITY rights.safebrowsing-b "Забараняць функцыю бяспечнага аглядання не рэкамендуецца, бо ў выніку вы можаце патрапіць на небяспечныя сайты.  Калі вы хочаце забараніць гэту функцыю цалкам, выканайце наступнае:">
+<!ENTITY rights.safebrowsing-b "Адключаць функцыю бяспечнага аглядання не рэкамендуецца, бо ў выніку вы можаце патрапіць на небяспечныя сайты.  Калі вы хочаце адключыць гэту функцыю цалкам, зрабіце наступнае:">
 <!ENTITY rights.safebrowsing-term1 "Адкрыйце перавагі прыстасавання">
 <!ENTITY rights.safebrowsing-term2 "Выберыце раздзел &quot;Бяспека&quot;">
 <!ENTITY rights2.safebrowsing-term3 "Зніміце сцяжок &quot;&enableSafeBrowsing.label;&quot;">
@@ -68,7 +68,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Месцазалежнае агляданне: ">
-<!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае. Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце забараніць гэтую асаблівасць цалкам, выканайце наступнае:">
+<!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае.  Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце адключыць гэту магчымасць цалкам, зрабіце наступнае:">
 <!ENTITY rights.locationawarebrowsing-term1a "Набярыце на паліцы URL">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Набярыце geo.enabled">
@@ -76,7 +76,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Месцазалежнае агляданне зараз забаронена">
 
 <!-- intro paragraph for unbranded builds -->
-<!ENTITY rights.webservices-unbranded "Агляд службаў пляцовак Сеціва, якія ўключаны ў прадукт, разам з прадпісаннямі, якія дазваляюць забараніць гэтыя службы, калі гэта магчыма, павінны быць пералічаны тут.">
+<!ENTITY rights.webservices-unbranded "Агляд сеціўных сервісаў, якія ўключаны ў прадукт, разам з інструкцыямі, як адключыць гэтыя сервісы, калі гэта магчыма, павінны быць пералічаны тут.">
 
 <!-- point 1 text for unbranded builds -->
 <!ENTITY rights.webservices-term1-unbranded "Усе прыдатныя ўмовы пагаднення службаў гэтага прадукту павінны быць пералічаны тут.">
