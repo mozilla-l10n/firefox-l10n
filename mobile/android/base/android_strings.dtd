@@ -8,20 +8,32 @@
 <!ENTITY firstrun_urlbar_subtext "Паскорце пошук з дапамогай карысных цэтлікаў пошукавых прапаноў.">
 <!ENTITY firstrun_bookmarks_title "Гісторыя">
 <!ENTITY firstrun_bookmarks_message "Ваша любімае, навідавоку ў цэнтры">
+<!ENTITY firstrun_bookmarks_subtext "Пры пошуку атрымлівайце вынікі са сваіх закладак і гісторыі.">
+<!ENTITY firstrun_data_title "Трафік">
+<!ENTITY firstrun_data_message "Менш трафіку, больш эканоміі">
+<!ENTITY firstrun_data_subtext2 "Адключайце выявы, каб паменшыць расход трафіку на кожным наведаным сайце.">
 <!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, заўсёды побач з вамі">
+<!ENTITY firstrun_sync_subtext "Сінхранізуйце свае карткі, паролі і многае іншае, усюды, дзе вы яго выкарыстоўваеце.">
+<!ENTITY firstrun_signin_message "Падключайцеся і пачынайце">
 <!ENTITY firstrun_signin_button "Увайсці ў Sync">
 <!ENTITY  onboard_start_button_browser "Пачаць агляданне">
+<!ENTITY firstrun_button_notnow "Не зараз">
 <!ENTITY firstrun_button_next "Далей">
 
 <!ENTITY firstrun_tabqueue_title "Спасылкі">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
+<!ENTITY firstrun_tabqueue_message_off "Уключыць чаргу картак">
 
 <!ENTITY firstrun_tabqueue_message_on "Поспех!">
 
 <!ENTITY firstrun_readerview_title "Артыкулы">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
+<!ENTITY firstrun_readerview_message "Прыбраць смецце">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Вы">
+<!ENTITY firstrun_account_message "Маеце &brandShortName; на іншай прыладзе?">
 
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
@@ -48,6 +60,7 @@
 
 
 <!ENTITY bookmark "Закладка">
+<!ENTITY bookmark_remove "Выдаліць закладку">
 <!ENTITY bookmark_added "Дададзена закладка">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
@@ -58,6 +71,8 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
+<!ENTITY screenshot_folder_label_in_bookmarks "Скрыншоты">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "Спіс на прагляд">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
@@ -65,6 +80,7 @@
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
+<!ENTITY reader_switch_to_bookmarks "Пераключыць">
 
 <!ENTITY history_today_section "Сёння">
 <!ENTITY history_yesterday_section "Учора">
@@ -101,6 +117,8 @@
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
+<!ENTITY pref_category_language "Мова">
+<!ENTITY pref_browser_locale "Мова браўзера">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -113,7 +131,10 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
+<!ENTITY overlay_share_bookmark_btn_label "Закладка">
+<!ENTITY overlay_share_bookmark_btn_label_already "Ужо ў закладках">
 
+<!ENTITY overlay_share_open_browser_btn_label "Адкрыць у &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
