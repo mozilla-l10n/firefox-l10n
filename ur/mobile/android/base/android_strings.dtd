@@ -180,7 +180,7 @@
 <!ENTITY pref_category_datareporting "کوائف پسندیں">
 <!ENTITY pref_category_logins "لاگ ان">
 <!ENTITY pref_learn_more "مزید سیکھیں">
-<!ENTITY pref_category_installed_search_engines "تلاش انجن تنصیب شدہ">
+<!ENTITY pref_category_installed_search_engines "تنصیب شدہ تلاش انجن">
 <!ENTITY pref_category_add_search_providers "تلاش مہیا کنندگان کا مزید اضافہ کریں">
 <!ENTITY pref_category_search_restore_defaults "تلاش انجن بحال کریں">
 <!ENTITY pref_search_restore_defaults "طے شدہ بحال کریں">
