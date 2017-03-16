@@ -8,6 +8,8 @@
 <!ENTITY firstrun_urlbar_subtext "Паскорце пошук з дапамогай карысных цэтлікаў пошукавых прапаноў.">
 <!ENTITY firstrun_bookmarks_title "Гісторыя">
 <!ENTITY firstrun_bookmarks_message "Ваша любімае, навідавоку ў цэнтры">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_signin_button "Увайсці ў Sync">
 
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 
