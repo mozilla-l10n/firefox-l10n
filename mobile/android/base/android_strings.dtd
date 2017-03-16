@@ -67,9 +67,11 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
+<!ENTITY bookmark_already_added "Ужо ў закладках">
 <!ENTITY bookmark_removed "Закладка выдалена">
 <!ENTITY bookmark_updated "Закладка абноўленая">
 <!ENTITY bookmark_options "Наладжванні">
+<!ENTITY screenshot_added_to_bookmarks "Скрыншот дададзены ў закладкі">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
@@ -78,7 +80,10 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; элементаў">
+<!ENTITY bookmark_folder_one_item "1 элемент">
 
+<!ENTITY reader_saved_offline "Захавана па-за сеткай">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -86,6 +91,8 @@
 
 <!ENTITY history_today_section "Сёння">
 <!ENTITY history_yesterday_section "Учора">
+<!ENTITY history_week_section3 "Апошнія 7 дзён">
+<!ENTITY history_older_section3 "Старэйшыя за 6 месяцаў">
 
 <!ENTITY search "Пошук">
 <!ENTITY reload "Абнавіць">
@@ -93,7 +100,7 @@
 <!ENTITY menu "Меню">
 <!ENTITY back "Назад">
 <!ENTITY stop "Спыніць">
-<!ENTITY site_security "Бяспека пляцоўкі">
+<!ENTITY site_security "Бяспека сайта">
 <!ENTITY edit_mode_cancel "Скасаваць">
 
 <!ENTITY close_tab "Закрыць картку">
@@ -106,6 +113,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
+<!ENTITY switch_button_message "ПАРАКЛЮЧЫЦЬ">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -113,48 +121,63 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Прайграванне аўдыё – &formatS;">
 
-<!ENTITY settings "Наладжванні">
-<!ENTITY settings_title "Наладжванні">
+<!ENTITY settings "Налады">
+<!ENTITY settings_title "Налады">
+<!ENTITY pref_category_general "Асноўныя">
+<!ENTITY pref_category_general_summary3 "Хатняя, мова, чарга картак">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Мова">
+<!ENTITY pref_category_language_summary "Змена мовы вашага браўзера">
 <!ENTITY pref_browser_locale "Мова браўзера">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
+<!ENTITY locale_system_default "Прадвызначаная сістэмы">
 
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
+<!ENTITY overlay_share_label "Дадаць у &brandShortName;">
 
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "Закладка">
 <!ENTITY overlay_share_bookmark_btn_label_already "Ужо ў закладках">
+<!ENTITY overlay_share_send_other "Адправіць на іншыя прылады">
 
 <!ENTITY overlay_share_open_browser_btn_label "Адкрыць у &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
+<!ENTITY overlay_share_send_tab_btn_label "Адправіць на іншую прыдладу">
+<!ENTITY overlay_share_no_url "Не знойдзена спасылка ў абагуленым">
+<!ENTITY overlay_share_select_device "Выбраць прыладу">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "Не знойдзены прылады, падлучаныя да ўліковага запісу Firefox">
 
 <!ENTITY pref_category_search3 "Пошук">
+<!ENTITY pref_category_accessibility "Спецыяльныя магчымасці">
 <!ENTITY pref_category_privacy_short "Адасабленне">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "Пра &brandShortName;, FAQs, водгукі">
 <!ENTITY pref_category_datareporting "Выбар дадзеных">
+<!ENTITY pref_category_logins "Лагіны">
 <!ENTITY pref_learn_more "Падрабязней">
-<!ENTITY pref_category_installed_search_engines "Усталяваныя машыны пошуку">
-<!ENTITY pref_category_add_search_providers "Дадаць іншых дастаўшыкоў пошуку">
-<!ENTITY pref_category_search_restore_defaults "Аднавіць машыны пошуку">
-<!ENTITY pref_search_restore_defaults "Аднавіць змоўчныя">
-<!ENTITY pref_search_restore_defaults_summary "Аднавіць змоўчныя">
+<!ENTITY pref_category_installed_search_engines "Усталяваць пашукавік">
+<!ENTITY pref_category_add_search_providers "Дадаць іншыя пашукавікі">
+<!ENTITY pref_category_search_restore_defaults "Аднавіць пашукавік">
+<!ENTITY pref_search_restore_defaults "Аднавіць прадвызначаныя">
+<!ENTITY pref_search_restore_defaults_summary "Аднавіць прадвызначаныя">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -164,6 +187,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_notifications "Апавяшчэнні">
 
 <!ENTITY pref_category_home "Хатняя старонка">
 <!ENTITY pref_category_home_summary "Уладкаванне вашай хатняй старонкі">
