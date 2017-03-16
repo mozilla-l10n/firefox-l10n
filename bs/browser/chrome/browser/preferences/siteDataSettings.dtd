@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Stranica">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Spremište">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Traži">
+<!ENTITY     searchPlaceHolder.accesskey   "T">
+<!ENTITY     removeSelected.label          "Ukloni izabrano">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Spasi promjene">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Otkaži">
+<!ENTITY     cancel.accesskey              "O">
+<!ENTITY     removingDialog.title          "Uklanjam podatke stranice">
+<!ENTITY     removingDialog.description    "Uklanjanje podataka stranice će također ukloniti kolačiće. Ovo vas može odjaviti sa web stranice i ukloniti offline web sadržaj. Da li ste sigurni da želite načiniti ove promjene?">
+<!ENTITY     siteTree.label                "Sljedeći web kolačići će biti uklonjeni:">
