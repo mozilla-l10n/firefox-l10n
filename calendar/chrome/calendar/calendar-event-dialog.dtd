@@ -402,7 +402,7 @@
 <!ENTITY read.only.task.start.label      "تاريخ البدء:">
 <!ENTITY read.only.event.end.label       "تاريخ الانتهاء:">
 <!ENTITY read.only.task.due.label        "تاريخ الاستحقاق:">
-<!ENTITY read.only.repeat.label          "الت&amp;كرارية:">
+<!ENTITY read.only.repeat.label          "التكرارية:">
 <!ENTITY read.only.location.label        "المكان:">
 <!ENTITY read.only.category.label        "الفئة:">
 <!ENTITY read.only.organizer.label       "المنظّم:">
