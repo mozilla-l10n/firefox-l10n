@@ -2,15 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Op nieuwe artikelen controleren na elke">
-<!ENTITY biffStart.accesskey "c">
-<!ENTITY biffEnd.label "minuten">
-
 <!ENTITY loginAtStartup.label "Op nieuwe artikelen controleren bij opstarten">
-<!ENTITY loginAtStartup.accesskey "o">
-
-<!ENTITY useQuickMode.label "Standaard de artikelsamenvatting weergeven i.p.v. de webpagina laden">
-<!ENTITY useQuickMode.accesskey "S">
+<!ENTITY loginAtStartup.accesskey "t">
+<!ENTITY biffAll.label "Updates inschakelen voor alle feeds">
+<!ENTITY biffAll.accesskey "e">
 
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…">
 <!ENTITY manageSubscriptions.accesskey "n">
