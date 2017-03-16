@@ -44,7 +44,7 @@
 <!-- LOCALIZATION NOTE: the same as appmenuButton.label and appmenuButton1.tooltip
      from messenger.dtd -->
 <!ENTITY lightning.toolbar.appmenuButton.label       "Meni programa">
-<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Prikaži &brandShortName; meni">
+<!ENTITY lightning.toolbar.appmenuButton1.tooltip    "Prikaži &brandShortName;ov meni">
 <!ENTITY lightning.toolbar.calendarmenu.label        "Podokno koledarja">
 <!ENTITY lightning.toolbar.calendarmenu.accesskey    "P">
 <!ENTITY lightning.toolbar.calendarpane.label        "Prikaži podokno koledarja">
