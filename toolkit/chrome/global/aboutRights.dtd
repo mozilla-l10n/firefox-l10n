@@ -27,21 +27,21 @@
 <!ENTITY rights.intro-point2.5 "Асобныя магчымасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук у &vendorShortName;. Дасылаючы водгук, вы даяце &vendorShortName; дазвол выкарыстоўваць гэты водгук для паляпшэння сваіх прадуктаў, публікаваць водгук на сваіх вэб-сайтах, і распаўсюджваць гэты водгук.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Як мы ўжываем вашы асабістыя звесткі і водгукі, пададзеныя &vendorShortName; з &brandShortName;, апісана ў">
-<!ENTITY rights2.intro-point3b "палітыцы захавання адасаблення &brandShortName;">
+<!ENTITY rights2.intro-point3a "Як мы выкарыстоўваем вашы асабістыя звесткі і водгукі, пададзеныя ў &vendorShortName; з &brandShortName;, апісана ў ">
+<!ENTITY rights2.intro-point3b "палітыцы прыватнасці &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
 <!ENTITY rights.intro-point3-unbranded "Усе прыдатныя палітыкі прыватнасці для гэтага прадукту павінны быць пералічаны тут.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "Асобныя асаблівасці &brandShortName; ужываюць сеціўныя звесткавыя службы, аднак мы не гарантуем, што яны працуюць на 100&#037; правільна і адсутнасць памылак. Падрабязнасці, разам з звесткамі пра забарону гэтых асаблівасцяў, можна знайсці ў ">
-<!ENTITY rights.intro-point4b "умовах пагаднення службаў">
+<!ENTITY rights2.intro-point4a "Асобныя магчымасці &brandShortName; ужываюць сеціўныя інфармацыйныя сэрвісы, аднак мы не гарантуем, што яны працуюць на 100&#037; правільна і без памылак. Падрабязнасці, разам з звесткамі, як адключыць магчымасці, што выкарыстоўваюць гэтыя сэрвісы, можна знайсці ў ">
+<!ENTITY rights.intro-point4b "умовах абслугоўвання">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
-<!ENTITY rights.intro-point4a-unbranded "Калі гэты прадукт уключае службы Сеціва, усе прыдатныя ўмовы пагаднення службаў павінны мець спасылкі ў раздзеле ">
-<!ENTITY rights.intro-point4b-unbranded "Службы пляцовак Сеціва">
+<!ENTITY rights.intro-point4a-unbranded "Калі гэты прадукт уключае ў сябе вэб-сэрвісы, усе прыдатныя ўмовы абслугоўвання павінны мець спасылкі ў раздзеле ">
+<!ENTITY rights.intro-point4b-unbranded "Сеціўныя сэрвісы">
 <!ENTITY rights.intro-point4c-unbranded " .">
 
 <!ENTITY rights2.webservices-header "Сеткавыя звесткавыя службы &brandFullName;">
@@ -61,7 +61,7 @@
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Бяспечнае агляданне: ">
 <!ENTITY rights.safebrowsing-b "Адключаць функцыю бяспечнага аглядання не рэкамендуецца, бо ў выніку вы можаце патрапіць на небяспечныя сайты.  Калі вы хочаце адключыць гэту функцыю цалкам, зрабіце наступнае:">
-<!ENTITY rights.safebrowsing-term1 "Адкрыйце перавагі прыстасавання">
+<!ENTITY rights.safebrowsing-term1 "Адкрыйце перавагі праграмы">
 <!ENTITY rights.safebrowsing-term2 "Выберыце раздзел &quot;Бяспека&quot;">
 <!ENTITY rights2.safebrowsing-term3 "Зніміце сцяжок &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Бяспечнае агляданне зараз забаронена">
@@ -69,7 +69,7 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Месцазалежнае агляданне: ">
 <!ENTITY rights.locationawarebrowsing-b "заўсёды неабавязковае.  Ніякія звесткі пра месцазнаходжанне не дасылаюцца без вашага дазволу.  Калі вы хочаце адключыць гэту магчымасць цалкам, зрабіце наступнае:">
-<!ENTITY rights.locationawarebrowsing-term1a "Набярыце на паліцы URL">
+<!ENTITY rights.locationawarebrowsing-term1a "Набярыце ў адрасным радку ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "Набярыце geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "Двойчы пстрыкніце перавагу geo.enabled">
