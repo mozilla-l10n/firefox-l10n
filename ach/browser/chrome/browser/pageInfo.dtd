@@ -74,7 +74,7 @@
 <!ENTITY  securityView.identity.domain   "Kakube:">
 <!ENTITY  securityView.identity.verifier "Lamoko ne aye:">
 
-<!ENTITY  securityView.privacy.header                   "Mung me gin mukato">
+<!ENTITY  securityView.privacy.header                   "Mung ki gin mukato">
 <!ENTITY  securityView.privacy.history                  "Mono alimo kakube man con mapat ki tin?">
 <!ENTITY  securityView.privacy.cookies                  "Kakube man tye kakano ngec (angija) i komputa mamega?">
 <!ENTITY  securityView.privacy.viewCookies              "Nen angija">
