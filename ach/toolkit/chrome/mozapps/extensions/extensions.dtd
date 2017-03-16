@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "K">
 <!ENTITY toolsMenu.tooltip                    "Gintic pi med-ikome weng">
 
-
+<!ENTITY getThemes.description                "Imito ni layenyi obed megi keni?">
+<!ENTITY getThemes.learnMore                  "Yer ki ikin theme alip ki alip.">
 
 <!ENTITY cmd.back.tooltip                     "Dok cen pot buk acel">
 <!ENTITY cmd.forward.tooltip                  "Wot anyim ki pot buk acel">

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Ter - Data me Kakube">
+<!ENTITY     settings.description          "Kakube magi openyo me gwoko data me kakube i disk mamegi. Itwero cimo kakube mene ma ki yee me gwoko data me kakube. Data me kakube makwongo tye pi tutuno ki kitwero kwanyo ne woko pire kene.">
 <!ENTITY     hostCol.label                 "Kakube">
 
 
@@ -13,6 +15,6 @@
 <!ENTITY     save.accesskey                "o">
 <!ENTITY     cancel.label                  "Juki">
 <!ENTITY     cancel.accesskey              "J">
-
-
+<!ENTITY     removingDialog.title          "Kwanyo Data me Kakube">
+<!ENTITY     removingDialog.description    "Kwanyo data me kakube bene bi kwanyo angija woko. Man kwanyi woko ki ii kakube ki kwanyo woko jami me kakube ma pe iwiyamo. Imoko ada ni imito timo alokaloka magi?">
 <!ENTITY     siteTree.label                "Angija pi kakube magi ki bi kwanyo gi woko:">

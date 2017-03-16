@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "Geng gam maraco">
 <!ENTITY  blockDownloads.accesskey        "a">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Niangi ikom purugram ma pe mite ki ma pe nonge ata">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "a">
 
 <!ENTITY  addonExceptions.label         "Ma kiweko woko…">
 <!ENTITY  addonExceptions.accesskey     "M">
