@@ -24,7 +24,7 @@
 <!ENTITY pref.calendar.view.dayend.accesskey "i">
 <!ENTITY pref.calendar.view.visiblehours.label "Tonen:">
 <!ENTITY pref.calendar.view.visiblehours.accesskey "T">
-<!ENTITY pref.calendar.view.visiblehoursend.label "uren per overzicht">
+<!ENTITY pref.calendar.view.visiblehoursend.label "uur per overzicht">
 
 <!ENTITY pref.numberofweeks.label "Aantal weken (voorgaande weken inbegrepen):">
 <!ENTITY pref.numberofweeks.accesskey "n">
