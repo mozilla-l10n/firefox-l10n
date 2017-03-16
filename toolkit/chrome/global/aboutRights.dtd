@@ -5,7 +5,7 @@
 <!ENTITY rights.locale-direction "ltr">
 <!ENTITY rights.pagetitle       "Пра правы">
 <!ENTITY rights.intro-header    "Пра вашы правы">
-<!ENTITY rights.intro "&brandFullName; свабоднае праграмнае забеспячэнне з адкрытымі зыходнікамі, створанае шматлюднай сусветнай грамадой. Вам будзе цікава ведаць:">
+<!ENTITY rights.intro "&brandFullName; – свабоднае праграмнае забеспячэнне з адкрытым зыходным кодам, створанае шматлюднай сусветнай супольнасцю. Вам будзе цікава ведаць:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -15,16 +15,16 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; даступны вам згодна умовам">
-<!ENTITY rights.intro-point1b "Прылюднай Ліцэнзіі Mozilla">
-<!ENTITY rights.intro-point1c ". Яна дазваляе вам ужываць, капіяваць і распаўсюджваць &brandShortName;.  Вы таксама можаце змяняць зыходны код &brandShortName; дзеля задавальнення вашых патрэбаў. Прылюдная Ліцэнзія Mozilla дазваляе вам распаўсюджваць вашы змененыя версіі.">
+<!ENTITY rights.intro-point1a "&brandShortName; даступны вам згодна з умовамі ">
+<!ENTITY rights.intro-point1b "Публічнай Ліцэнзіі Mozilla">
+<!ENTITY rights.intro-point1c ". Яна дазваляе вам выкарыстоўваць, капіяваць і распаўсюджваць &brandShortName;.  Вы таксама можаце змяняць зыходны код &brandShortName; для задавальнення вашых патрэбаў. Публічная Ліцэнзія Mozilla дазваляе вам распаўсюджваць вашы змененыя версіі.">
 
-<!ENTITY rights.intro-point2-a "Ва не даюцца ніякія правы або дазволы на гандлёвыя маркі Mozilla Foundation ці іншых бакоў, уключаючы без абмежавання назву і эмблему Firefox. Дадатковыя звесткі пра гандлёвыя маркі можна знайсці">
+<!ENTITY rights.intro-point2-a "Вам не прадстаўляюцца ніякія правы ці дазволы на гандлёвыя маркі Mozilla Foundation або іншых бакоў, уключаючы, без абмежавання, назву і эмблему Firefox. Дадатковыя звесткі пра гандлёвыя маркі можна знайсці ">
 <!ENTITY rights.intro-point2-b "тут">
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Асобныя асаблівасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук да &vendorShortName;. Дасылаючы водгук, вы даяце &vendorShortName; дазвол ужываць гэты водгук для паляпшэння яго прадуктаў, публікаваць водгук на яго вэб-сайтах і распаўсюджваць водгук.">
+<!ENTITY rights.intro-point2.5 "Асобныя магчымасці &brandShortName;, такія як паведамляльнік пра крахі, даюць вам магчымасць даслаць водгук у &vendorShortName;. Дасылаючы водгук, вы даяце &vendorShortName; дазвол выкарыстоўваць гэты водгук для паляпшэння сваіх прадуктаў, публікаваць водгук на сваіх вэб-сайтах, і распаўсюджваць гэты водгук.">
 
 <!-- point 3 text for official branded builds -->
 <!ENTITY rights2.intro-point3a "Як мы ўжываем вашы асабістыя звесткі і водгукі, пададзеныя &vendorShortName; з &brandShortName;, апісана ў">
