@@ -113,8 +113,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "登录以&syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "打开 &syncBrand.shortName.label; 首选项">
+<!ENTITY fxaSignIn.label "登录&syncBrand.shortName.label;服务">
+<!ENTITY fxaSignedIn.tooltip "打开&syncBrand.shortName.label;服务首选项">
 <!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
 <!ENTITY fxaUnverified.label "验证您的账号">
 
@@ -368,7 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.showAll.tooltip "显示此设备的所有标签页">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
-<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "打开标签页同步功能，查看来自您其他设备的标签页列表。">
+<!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "打开标签页同步功能，就能看到其他设备上打开的标签页。">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
@@ -756,12 +756,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "受同步的标签页">
 
 <!ENTITY syncedTabs.sidebar.label              "受同步的标签页">
-<!ENTITY syncedTabs.sidebar.noclients.label    "在这里查看您在其他设备上登录的 Firefox 的标签页。">
+<!ENTITY syncedTabs.sidebar.noclients.label    "在您的其他设备上登录 Firefox，就能在这里看到这些设备上的标签页了。">
 <!ENTITY syncedTabs.sidebar.noclients.title    "还没有同步过来的标签页！">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "想查看您在其他设备上的标签页吗？">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "登录即可查看您的其他设备上的标签页列表。">
 <!ENTITY syncedTabs.sidebar.notabs.label       "没有已打开的标签页">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "打开 &syncBrand.shortName.label; 首选项">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "打开&syncBrand.shortName.label;服务首选项">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "开启标签页同步服务，即可查看您的其他设备上的标签页列表。">
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "同步">
 
-<!ENTITY syncSignIn.label             "登录至 &syncBrand.shortName.label;">
+<!ENTITY syncSignIn.label             "登录至&syncBrand.shortName.label;服务…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "立即同步">
 <!ENTITY syncSyncNowItem.accesskey    "S">
