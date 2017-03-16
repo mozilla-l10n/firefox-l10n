@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "Å">
 
 <!ENTITY privateBrowsing.title                           "Privat nettlesing">
-<!ENTITY privateBrowsing.title.tracking                  "Privat nettlesing med sporingsvern">
+<!ENTITY privateBrowsing.title.tracking                  "Privat nettlesing med sporingsbeskyttelse">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Når du surfer i et privat vindu, vil Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ikke lagre">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
