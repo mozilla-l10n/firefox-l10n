@@ -34,7 +34,7 @@
 <!ENTITY  mediaAltHeader        "Алтернативен текст">
 <!ENTITY  mediaAddress          "Адрес">
 <!ENTITY  mediaType             "Вид">
-<!ENTITY  mediaSize             "Големина">
+<!ENTITY  mediaSize             "Размер">
 <!ENTITY  mediaCount            "Брой">
 <!ENTITY  mediaDimension        "Размер:">
 <!ENTITY  mediaLongdesc         "Дълго описание:">

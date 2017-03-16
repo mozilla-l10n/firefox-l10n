@@ -23,6 +23,6 @@
 
 <!ENTITY button.cancel.label          "Отказ">
 <!ENTITY button.cancel.accesskey      "О">
-<!ENTITY button.ok.label              "Запазване на промените">
+<!ENTITY button.ok.label              "Запазване">
 <!ENTITY button.ok.accesskey          "З">
 

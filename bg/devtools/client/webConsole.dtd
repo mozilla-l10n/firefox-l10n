@@ -76,7 +76,7 @@
 
 <!ENTITY filterOutput.placeholder "Филтриране на изхода">
 <!ENTITY btnClear.label        "Изчистване">
-<!ENTITY btnClear.tooltip      "Изчистване на изхода на уеб конзолата">
+<!ENTITY btnClear.tooltip      "Изчистване на съдържанието на уеб конзолата">
 <!ENTITY btnClear.accesskey    "ч">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
