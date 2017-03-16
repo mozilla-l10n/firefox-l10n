@@ -11,7 +11,7 @@
 
 <!ENTITY loading.label                        "Nalaganje …">
 <!ENTITY listEmpty.installed.label            "Nimate nameščenega nobenega dodatka te vrste.">
-<!ENTITY listEmpty.availableUpdates.label     "Posodobitve niso na voljo">
+<!ENTITY listEmpty.availableUpdates.label     "Ni novih posodobitev">
 <!ENTITY listEmpty.recentUpdates.label        "Nedavno niste posodobili nobenih dodatkov">
 <!ENTITY listEmpty.findUpdates.label          "Poišči posodobitve">
 <!ENTITY listEmpty.search.label               "Ustreznih dodatkov ni bilo mogoče najti">

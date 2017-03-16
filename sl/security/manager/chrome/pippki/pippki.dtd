@@ -20,7 +20,7 @@
 <!ENTITY downloadCert.message1 "Ali zaupate novemu overitelju?">
 <!ENTITY downloadCert.trustSSL "Overitelju zaupaj identifikacijo spletnih strani.">
 <!ENTITY downloadCert.trustEmail "Overitelju zaupaj identifikacijo e-poštnih uporabnikov.">
-<!ENTITY downloadCert.trustObjSign "Overitelju zaupaj identifikacjo razvijalcev programske opreme.">
+<!ENTITY downloadCert.trustObjSign "Overitelju zaupaj identifikacijo razvijalcev programske opreme.">
 <!ENTITY downloadCert.message3 "Preden overitelju zaupate katerokoli opravilo, si oglejte njegovo digitalno potrdilo in politiko (če sta na voljo).">
 <!ENTITY downloadCert.viewCert.label "Ogled">
 <!ENTITY downloadCert.viewCert.text "Preveri digitalno potrdilo overitelja">

@@ -6,7 +6,7 @@
 <!ENTITY  checking.title                  "Iskanje posodobitev">
 <!ENTITY  updateCheck.label               "Iskanje novih različic programa &brandShortName; ...">
 
-<!ENTITY  noupdatesfound.title            "Trenutno ni posodobitev">
+<!ENTITY  noupdatesfound.title            "Ni novih posodobitev">
 <!ENTITY  noupdatesautoenabled.intro      "Posodobitve niso na voljo, vendar jih bo &brandShortName; redno
                                            iskal.">
 <!ENTITY  noupdatesautodisabled.intro     "Posodobitve niso na voljo. Ponovno poskusite pozneje ali
