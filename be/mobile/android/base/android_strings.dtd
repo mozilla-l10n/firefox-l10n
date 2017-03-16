@@ -148,7 +148,7 @@
 
 <!ENTITY pref_category_search3 "Пошук">
 <!ENTITY pref_category_privacy_short "Адасабленне">
-<!ENTITY pref_category_datareporting "Выбар здаткаў">
+<!ENTITY pref_category_datareporting "Выбар дадзеных">
 <!ENTITY pref_learn_more "Падрабязней">
 <!ENTITY pref_category_installed_search_engines "Усталяваныя машыны пошуку">
 <!ENTITY pref_category_add_search_providers "Дадаць іншых дастаўшыкоў пошуку">
@@ -288,7 +288,7 @@ size. -->
 <!ENTITY pref_private_data_history2 "Гісторыя азірання">
 <!ENTITY pref_private_data_cookies2 "Біркі і дзейныя ўваходы">
 <!ENTITY pref_private_data_cache "Запаснік">
-<!ENTITY pref_private_data_offlineApps "Пазасеткавыя здаткі пляцовак сеціва">
+<!ENTITY pref_private_data_offlineApps "Пазасеткавыя дадзеныя вэб-сайтаў">
 <!ENTITY pref_private_data_siteSettings2 "Наладжванні пляцоўкі">
 <!ENTITY pref_private_data_downloadFiles2 "Сцягванні">
 <!ENTITY pref_private_data_syncedTabs "Сінхранізаваныя карткі">
@@ -310,7 +310,7 @@ size. -->
 <!ENTITY pref_panels_move_up "Рухаць угору">
 <!ENTITY pref_panels_move_down "Рухаць уніз">
 
-<!ENTITY datareporting_notification_title "Статыстыка і здаткі &brandShortName;">
+<!ENTITY datareporting_notification_title "Статыстыка і дадзеныя &brandShortName;">
 <!ENTITY datareporting_notification_action "Выбраць, чым дзяліцца">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Выбар звестак для падзелу">
@@ -326,10 +326,10 @@ size. -->
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "Справаздача пра стан &brandShortName;">
-<!ENTITY datareporting_fhr_summary2 "Дзеліцца здаткамі з &vendorShortName; пра стан вашага азіральніка і дапамагае вам разумець яго працавыніковасць">
+<!ENTITY datareporting_fhr_summary2 "Дзеліцца дадзенымі з &vendorShortName; пра стан вашага браўзера і дапамагае вам даведацца пра яго прадукцыйнасць">
 <!ENTITY datareporting_abouthr_title "Пабачыць справаздачу пра стан">
 <!ENTITY datareporting_telemetry_title "Тэлеметрыя">
-<!ENTITY datareporting_telemetry_summary "Дзеліцца здаткамі пра працавыніковасць, выкарыстанне. начынне і ўладкаванні вашага азіральніка з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY datareporting_telemetry_summary "Дзяліцца дадзенымі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; падае справаздачы пра крахі, каб дапамагчы &vendorShortName; зрабіць ваш азіральнік больш устойлівым і бяспечным">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
@@ -440,7 +440,7 @@ size. -->
 <!ENTITY button_cancel "Скасаваць">
 <!ENTITY button_yes "Так">
 <!ENTITY button_no "Не">
-<!ENTITY button_clear_data "Ачысціць здаткі">
+<!ENTITY button_clear_data "Выдаліць дадзеныя">
 <!ENTITY button_set "Прызначыць">
 <!ENTITY button_clear "Ачысціць">
 
@@ -512,8 +512,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY enable_protection "Дазволіць ахову">
 <!ENTITY disable_protection "Забараніць ахову">
 
-<!ENTITY private_data_success "Асабістыя здаткі ачышчаныя">
-<!ENTITY private_data_fail "Асобныя асабістыя здаткі немагчыма ачысціць">
+<!ENTITY private_data_success "Асабістыя дадзеныя выдалены">
+<!ENTITY private_data_fail "Некаторыя асабістыя дадзеныя немагчыма выдаліць">
 
 <!ENTITY bookmarkhistory_button_import "Імпартаваць">
 <!ENTITY bookmarkhistory_import_both "Імпартаванне закладак і гісторыі
@@ -562,7 +562,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY new_guest_session_title "&brandShortName; зараз перазапусціцца">
 
 <!ENTITY exit_guest_session_title "&brandShortName; зараз перазапусціцца">
-<!ENTITY exit_guest_session_text "Здаткі азірання гэтай сэсіі будуць выдалены.">
+<!ENTITY exit_guest_session_text "Дадзеныя аглядання гэтай сесіі будуць выдалены.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
