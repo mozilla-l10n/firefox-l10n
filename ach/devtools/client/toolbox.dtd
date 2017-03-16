@@ -78,7 +78,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Ye nongo bal ki kama bor">
-
+<!ENTITY options.enableRemote.tooltip2  "Cako gin ayera man bi weko gitic pa ludiro nongo bal i gin ma tye katime ki kama bor calo Firefox OS">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->

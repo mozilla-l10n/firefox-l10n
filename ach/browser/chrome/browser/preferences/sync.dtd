@@ -59,6 +59,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
 <!ENTITY forget.accesskey            "e">
 
+<!ENTITY signedOut.caption            "Ter Kakube ni kwedi">
 <!ENTITY signedOut.description        "Rib alamabuk, gin mukato, dirica matino, mung me donyo, med-ikome ki ter i nyonyo ni weng.">
 <!ENTITY signedOut.accountBox.title   "Kube ki &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Cwe akaunt">
