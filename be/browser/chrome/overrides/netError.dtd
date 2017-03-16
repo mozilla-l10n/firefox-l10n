@@ -98,7 +98,13 @@
 <!ENTITY redirectLoop.longDesc "<ul> <li>Гэтая праблема часам вынікае з забароны або адмаўлення ад набывання бірак.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Нечаканы адказ сервера">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>Упэўніцеся, што Асабісты Кіраўнік Бяспекі ўсталяваны ў вашай сістэме.</li> <li>Гэта магчыма з нагоды незвычайнай наладкі паслугача.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Упэўніцеся, што Менеджар асабістай бяспекі
+    ўсталяваны ў вашай сістэме.</li>
+  <li>Гэта звязана, магчыма, з незвычайнымі наладамі сервера.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
 <!ENTITY nssFailure2.longDesc2 "

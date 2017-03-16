@@ -32,11 +32,11 @@
 <!ENTITY debugAddons.accesskey                "А">
 
 <!-- global warnings -->
-<!ENTITY warning.safemode.label                    "Усе дадаткі забаронены бяспечным рэжымам.">
-<!ENTITY warning.checkcompatibility.label          "Праверка сумяшчальнасці дадаткаў забаронена. Вы можаце мець несумяшчальныя дадаткі.">
+<!ENTITY warning.safemode.label                    "Усе дадаткі адключаны бяспечным рэжымам.">
+<!ENTITY warning.checkcompatibility.label          "Праверка сумяшчальнасці дадаткаў адключана. Вы можаце мець несумяшчальныя дадаткі.">
 <!ENTITY warning.checkcompatibility.enable.label   "Уключыць">
 <!ENTITY warning.checkcompatibility.enable.tooltip "Уключыць праверку сумяшчальнасці дадаткаў">
-<!ENTITY warning.updatesecurity.label              "Праверка бяспечнасці дадаткаў забаронена. Вы можаце быць падведзены пад рызыку абнаўленнямі.">
+<!ENTITY warning.updatesecurity.label              "Праверка бяспечнасці дадаткаў адключана. Вы можаце быць падведзены пад рызыку абнаўленнямі.">
 <!ENTITY warning.updatesecurity.enable.label       "Уключыць">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Уключыць праверку бяспечнасці абнаўленняў дадаткаў">
 
@@ -188,7 +188,7 @@
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
-<!ENTITY addon.disabled.postfix               "(забаронена)">
+<!ENTITY addon.disabled.postfix               "(адключана)">
 <!-- LOCALIZATION NOTE (addon.update.postfix): This is used in the available
      updates list to signify that an item is an update, in the form
      "<Addon name> <1.1> Update". It is fine to use constructs like brackets if
