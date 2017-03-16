@@ -60,7 +60,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "让您个性化的网络体验随身相伴">
-<!ENTITY signedOut.description        "跨越您的所有设备，同步您的书签、历史记录、标签页、密码、附加组件、首选项。">
+<!ENTITY signedOut.description        "在您的各种设备间同步您的书签、历史记录、标签页、密码、附加组件与首选项。">
 <!ENTITY signedOut.accountBox.title   "使用 &syncBrand.fxAccount.label; 登录，开启同步功能">
 <!ENTITY signedOut.accountBox.create  "创建账户">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
