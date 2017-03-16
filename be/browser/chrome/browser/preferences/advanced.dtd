@@ -35,7 +35,7 @@
 <!ENTITY enableHealthReport.accesskey    "с">
 <!ENTITY healthReportLearnMore.label     "Даведацца больш">
 
-<!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра хуткадзейнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
+<!ENTITY telemetryDesc.label             "Дзяліцца дадзенымі пра прадукцыйнасць, выкарыстанне, апаратнае забеспячэнне і налады вашага браўзера з &vendorShortName;, каб дапамагчы ўдасканаліць &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Абагуліць дадатковыя звесткі (г.зн., тэлеметрыю)">
 <!ENTITY enableTelemetryData.accesskey   "т">
 <!ENTITY telemetryLearnMore.label        "Падрабязней">
