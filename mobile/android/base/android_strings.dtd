@@ -461,9 +461,14 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Адсутнічае імя карыстальніка]">
+<!ENTITY doorhanger_login_edit_title "Змяніць лагін">
 <!ENTITY doorhanger_login_edit_username_hint "Імя карыстальніка">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Паказаць пароль">
+<!ENTITY doorhanger_login_select_message "Капіяваць пароль з &formatS;?">
+<!ENTITY doorhanger_login_select_action_text "Выбраць іншы лагін">
+<!ENTITY doorhanger_login_select_title "Капіяваць пароль з">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
@@ -480,6 +485,7 @@ size. -->
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
+<!ENTITY page_removed "Старонка выдалена">
 
 <!ENTITY bookmark_edit_title "Праўка закладкі">
 <!ENTITY bookmark_edit_name "Назва">
@@ -523,7 +529,9 @@ size. -->
 <!ENTITY home_synced_devices_number "&formatD; прылад(а)">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 прылада">
+<!ENTITY home_history_back_to2 "Вярнуцца да ўсей гісторыі">
 <!ENTITY home_clear_history_button "Ачысціць гісторыю аглядання">
+<!ENTITY home_clear_history_confirm "Вы ўпэўненыя, што хочаце выдаліць сваю гісторыю?">
 <!ENTITY home_bookmarks_empty "Захаваныя вамі закладкі паказваюцца тут.">
 <!ENTITY home_closed_tabs_title2 "Нядаўна закрытыя">
 <!ENTITY home_last_tabs_empty "Вашы апошнія ўстаўкі знаходзяцца тут.">
