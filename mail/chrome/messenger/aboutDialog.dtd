@@ -8,12 +8,12 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Preveri posodobitve">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label2               "Za posodobitev ponovno zaženi &brandShortName;">
+<!ENTITY update.updateButton.label2               "Ponovno zaženi &brandShortName; za posodobitev">
 <!ENTITY update.updateButton.accesskey            "P">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
-<!ENTITY warningDesc.version        "&brandShortName; je poskusen in je lahko nestabilen.">
+<!ENTITY warningDesc.version        "Izdaja &brandShortName; je poskusna in lahko deluje nezanesljivo.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Samodejno pošilja podatke o zmogljivosti, strojni opremi, uporabi in prilagoditvah nazaj na &vendorShortName;, da ga pomaga narediti boljšega.">
 
