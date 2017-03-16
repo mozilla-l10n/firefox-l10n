@@ -170,8 +170,11 @@
 <!ENTITY overlay_no_synced_devices "Не знойдзены прылады, падлучаныя да ўліковага запісу Firefox">
 
 <!ENTITY pref_category_search3 "Пошук">
+<!ENTITY pref_category_search_summary2 "Дадаваць, выбіраць прадвызначаныя, паказваць прапановы">
 <!ENTITY pref_category_accessibility "Спецыяльныя магчымасці">
+<!ENTITY pref_category_accessibility_summary2 "Памер шрыфту, маштаб, галасавы ўвод">
 <!ENTITY pref_category_privacy_short "Адасабленне">
+<!ENTITY pref_category_privacy_summary4 "Асочванне, лагіны, выбар дадзеных">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Пра &brandShortName;, FAQs, водгукі">
 <!ENTITY pref_category_datareporting "Выбар дадзеных">
@@ -187,11 +190,19 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
+<!ENTITY pref_search_hint2 "ПАРАДА: Дадайце любы вэб-сайт у ваш спіс пашукавікоў праз доўгі націск на яго полі пошуку і затым крануўшы значок &formatI;.">
 <!ENTITY pref_category_advanced "Пашыраны">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
+<!ENTITY pref_category_advanced_summary3 "Аднаўленне картак, эканомія трафіку, інструменты распрацоўшчака">
 <!ENTITY pref_category_notifications "Апавяшчэнні">
+<!ENTITY pref_category_notifications_summary "Новыя магчымасці, абнаўленні сайтаў">
+<!ENTITY pref_content_notifications "Абнаўленні сайтаў">
+<!ENTITY pref_content_notifications_summary2 "Адкрыйце для сябе новы кантэнт з сайтаў, што падтрымліваюцца">
+<!ENTITY pref_developer_remotedebugging_usb "Аддаленая адладка праз USB">
+<!ENTITY pref_developer_remotedebugging_wifi "Аддаленая адладка праз Wi-Fi">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для аддаленай адладкі праз Wi-Fi неабходна, каб на вашай прыладзе была ўсталявана праграма для чытання QR-кодаў.">
 <!ENTITY pref_remember_signons2 "Запомніць лагіны">
 <!ENTITY pref_manage_logins "Кіраваць лагінамі">
 
@@ -247,25 +258,37 @@
 <!ENTITY pref_tap_to_load_images_data "Толькі праз Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Заблакавана">
 
+<!ENTITY pref_show_web_fonts "Паказаць вэб-шрыфты">
+<!ENTITY pref_show_web_fonts_summary2 "Сцягваць аддаленыя шрыфты пры загрузцы старонкі">
 
+<!ENTITY pref_tracking_protection_title2 "Ахова ад сачэння">
+<!ENTITY pref_tracking_protection_summary3 "Уключыць ў Прыватным агляданні">
 <!ENTITY pref_donottrack_title "Не сачыць">
+<!ENTITY pref_donottrack_summary "&brandShortName; будзе паведамляць сайтам, што вы не хочаце, каб вас асочвалі">
 
-<!ENTITY pref_tracking_protection_enabled "Дазволена">
-<!ENTITY pref_tracking_protection_enabled_pb "Дазволіць ў Прыватным агляданні">
-<!ENTITY pref_tracking_protection_disabled "Забаронена">
+<!ENTITY pref_tracking_protection_enabled "Уключана">
+<!ENTITY pref_tracking_protection_enabled_pb "Уключыць ў Прыватным агляданні">
+<!ENTITY pref_tracking_protection_disabled "Выключана">
 
 <!ENTITY pref_whats_new_notification "Што новага ў &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Даведацца аб новых магчымасцях пасля абнаўлення">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Эксперыментальныя функцыі">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Наладжвальныя карткі">
+<!ENTITY pref_custom_tabs_summary3 "Дазваляць праграмам адкрываць вэб-сайты мадыфікаванай версіяй &brandShortName;">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Стужка актыўнасці">
 
+<!ENTITY tracking_protection_prompt_title "Цяпер з аховай ад сачэння">
+<!ENTITY tracking_protection_prompt_text "Актыўна блакіруйце элементы асочвання, каб не турбавацца аб сачэнні.">
+<!ENTITY tracking_protection_prompt_tip_text "Каб даведацца больш, наведайце налады прыватнасці">
 <!ENTITY tracking_protection_prompt_action_button "Зразумела!">
 
 <!ENTITY tab_queue_toast_message3 "Картка захавана ў &brandShortName;">
