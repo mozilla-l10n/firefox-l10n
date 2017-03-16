@@ -51,7 +51,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Папка профілю">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Дазволеныя ўбудовы">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Уключаныя плагіны">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Канфігурацыя зборкі">
 <!ENTITY aboutSupport.appBasicsUserAgent "Дзеяч карыстальніка">
 <!ENTITY aboutSupport.appBasicsOS "АС">
