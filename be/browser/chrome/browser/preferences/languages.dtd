@@ -10,7 +10,7 @@
 <!ENTITY languages.customize.moveUp.accesskey           "г">
 <!ENTITY languages.customize.moveDown.label             "Рухаць уніз">
 <!ENTITY languages.customize.moveDown.accesskey         "н">
-<!ENTITY languages.customize.deleteButton.label         "Прыняць">
+<!ENTITY languages.customize.deleteButton.label         "Выдаліць">
 <!ENTITY languages.customize.deleteButton.accesskey     "ц">
 <!ENTITY languages.customize.selectLanguage.label       "Выбраць мову для дадання…">
 <!ENTITY languages.customize.addButton.label            "Дадаць">

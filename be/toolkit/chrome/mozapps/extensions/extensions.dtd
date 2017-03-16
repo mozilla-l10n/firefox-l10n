@@ -34,11 +34,11 @@
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "Усе дадаткі забаронены бяспечным рэжымам.">
 <!ENTITY warning.checkcompatibility.label          "Праверка сумяшчальнасці дадаткаў забаронена. Вы можаце мець несумяшчальныя дадаткі.">
-<!ENTITY warning.checkcompatibility.enable.label   "Дазволіць">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Дазволіць праверку сумяшчальнасці дадаткаў">
+<!ENTITY warning.checkcompatibility.enable.label   "Уключыць">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Уключыць праверку сумяшчальнасці дадаткаў">
 <!ENTITY warning.updatesecurity.label              "Праверка бяспечнасці дадаткаў забаронена. Вы можаце быць падведзены пад рызыку абнаўленнямі.">
-<!ENTITY warning.updatesecurity.enable.label       "Дазволіць">
-<!ENTITY warning.updatesecurity.enable.tooltip     "Дазволіць праверку бяспечнасці абнаўленняў дадаткаў">
+<!ENTITY warning.updatesecurity.enable.label       "Уключыць">
+<!ENTITY warning.updatesecurity.enable.tooltip     "Уключыць праверку бяспечнасці абнаўленняў дадаткаў">
 
 <!-- categories / views -->
 <!ENTITY view.search.label                    "Пошук">
@@ -87,10 +87,10 @@
 <!ENTITY cmd.about.label                      "Пра">
 <!ENTITY cmd.about.accesskey                  "П">
 
-<!ENTITY cmd.enableAddon.label                "Дазволіць">
-<!ENTITY cmd.enableAddon.accesskey            "Д">
-<!ENTITY cmd.disableAddon.label               "Забараніць">
-<!ENTITY cmd.disableAddon.accesskey           "З">
+<!ENTITY cmd.enableAddon.label                "Уключыць">
+<!ENTITY cmd.enableAddon.accesskey            "У">
+<!ENTITY cmd.disableAddon.label               "Выключыць">
+<!ENTITY cmd.disableAddon.accesskey           "В">
 <!ENTITY cmd.enableTheme.label                "Ужыць тэму">
 <!ENTITY cmd.enableTheme.accesskey            "У">
 <!ENTITY cmd.disableTheme.label               "Спыніць ужыванне тэмы">
