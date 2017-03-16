@@ -16,15 +16,15 @@
 <!ENTITY views.label                    "Выгляд">
 <!ENTITY views.accesskey                "В">
 <!ENTITY views.tooltip                  "Змяніць выгляд">
-<!ENTITY view.columns.label             "Паказаць слупкі">
+<!ENTITY view.columns.label             "Паказваць слупкі">
 <!ENTITY view.columns.accesskey         "с">
-<!ENTITY view.sort.label                "Размеркаваць">
-<!ENTITY view.sort.accesskey            "м">
-<!ENTITY view.unsorted.label            "Неразмеркаваныя">
-<!ENTITY view.unsorted.accesskey        "Н">
-<!ENTITY view.sortAscending.label       "Размеркаваць ад А да Я">
+<!ENTITY view.sort.label                "Упарадкаваць">
+<!ENTITY view.sort.accesskey            "п">
+<!ENTITY view.unsorted.label            "Без упарадкавання">
+<!ENTITY view.unsorted.accesskey        "Б">
+<!ENTITY view.sortAscending.label       "Парадкаваць ад А да Я">
 <!ENTITY view.sortAscending.accesskey   "А">
-<!ENTITY view.sortDescending.label      "Размеркаваць ад Я да А">
+<!ENTITY view.sortDescending.label      "Парадкаваць ад Я да А">
 <!ENTITY view.sortDescending.accesskey  "Я">
 
 <!ENTITY importBookmarksFromHTML.label     "Імпарт закладак з HTML…">
@@ -58,7 +58,7 @@
 <!ENTITY cmd.properties.label      "Уласцівасці">
 <!ENTITY cmd.properties.accesskey  "У">
 
-<!ENTITY cmd.sortby_name.label              "Сартаваць паводле імя">
+<!ENTITY cmd.sortby_name.label              "Сартаваць па назве">
 <!ENTITY cmd.sortby_name.accesskey          "С">
 <!ENTITY cmd.context_sortby_name.accesskey  "н">
 
@@ -73,8 +73,8 @@
 <!ENTITY cmd.reloadLivebookmark.label      "Абнавіць жывую закладку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "А">
 
-<!ENTITY cmd.moveBookmarks.label                  "Рухаць…">
-<!ENTITY cmd.moveBookmarks.accesskey              "Р">
+<!ENTITY cmd.moveBookmarks.label                  "Перанесці…">
+<!ENTITY cmd.moveBookmarks.accesskey              "р">
 
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Тэгі">
@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "Б">
 <!ENTITY detailsPane.less.label "Менш">
 <!ENTITY detailsPane.less.accesskey "М">
-<!ENTITY detailsPane.selectAnItemText.description "Выбар адзінкі для прагляду і праўкі яе ўласцівасцяў">
+<!ENTITY detailsPane.selectAnItemText.description "Выбар элемента для прагляду і праўкі яго ўласцівасцяў">
 
 <!ENTITY find.label               "Пошук:">
 <!ENTITY find.accesskey           "ш">
@@ -112,7 +112,7 @@
 <!ENTITY byDate.accesskey         "д">
 <!ENTITY bySite.label             "Па сайце">
 <!ENTITY bySite.accesskey         "п">
-<!ENTITY byMostVisited.label      "Па ліку наведванняў">
+<!ENTITY byMostVisited.label      "Па колькасці наведванняў">
 <!ENTITY byMostVisited.accesskey  "л">
 <!ENTITY byLastVisited.label      "Па апошнім наведванні">
 <!ENTITY byLastVisited.accesskey  "а">
