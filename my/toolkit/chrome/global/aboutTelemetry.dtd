@@ -89,7 +89,11 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+ အကန့်များထဲမှ လုပ်ဆောင်ချက်အမည်များအာ:ဆွဲထုတ်ပါ">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+ မူရင်းမှတ်သားချက်များအားပြပါ">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (strings or /regexp/)">
 
