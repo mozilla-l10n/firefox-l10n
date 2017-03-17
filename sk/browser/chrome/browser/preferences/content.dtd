@@ -10,7 +10,7 @@
 <!ENTITY  notificationsPolicy.label            "Upozornenia">
 <!ENTITY  notificationsPolicyLearnMore.label   "Ďalšie informácie">
 <!ENTITY  notificationsPolicyDesc3.label       "Vyberte, ktoré stránky majú povolené vám posielať upozornenia">
-<!ENTITY  notificationsPolicyButton.accesskey  "Z">
+<!ENTITY  notificationsPolicyButton.accesskey  "y">
 <!ENTITY  notificationsPolicyButton.label      "Vybrať…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nevyrušujte ma">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
