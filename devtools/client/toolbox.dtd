@@ -31,8 +31,8 @@
 <!ENTITY options.disableJavaScript.tooltip "Attivando questa opzione JavaScript verrà disattivato per la scheda corrente. Se la scheda o gli strumenti di sviluppo vengono chiusi l’impostazione verrà rimossa.">
 <!ENTITY options.disableHTTPCache.label "Disattiva cache HTTP (quando gli strumenti sono aperti)">
 <!ENTITY options.disableHTTPCache.tooltip "Attivando questa opzione la cache HTTP verrà disattivata per tutte le schede in cui sono aperti gli strumenti di sviluppo. Questa impostazione non ha effetto sui service worker.">
-<!ENTITY options.enableServiceWorkersHTTP.label "Attiva Service worker via HTTP (quando la cassetta degli attrezzi è aperta)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip "Attivando questa opzione verranno attivati i Service worker via HTTP in tutte le schede dove la cassetta degli attrezzi è aperta.">
+<!ENTITY options.enableServiceWorkersHTTP.label "Attiva service worker via HTTP (quando la cassetta degli attrezzi è aperta)">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip "Attivando questa opzione verranno attivati i service worker via HTTP in tutte le schede dove la cassetta degli attrezzi è aperta.">
 <!ENTITY options.selectDefaultTools.label2 "Strumenti di sviluppo predefiniti">
 <!ENTITY options.selectAdditionalTools.label "Strumenti di sviluppo installati da componenti aggiuntivi">
 <!ENTITY options.selectEnabledToolboxButtons.label "Pulsanti disponibili">
