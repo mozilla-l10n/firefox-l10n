@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- WARNING! This file contains UTF-8 encoded characters!
    - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
    - your editor isn't using UTF-8 encoding and may munge up the document!
   -->
-
 
 <!ENTITY pref.mainbox.label "Generelle innstillinger" >
 <!ENTITY pref.dateformat.label "Datoformat:" >
@@ -41,5 +41,6 @@
 <!ENTITY pref.systemcolors.label "Optimaliser farger for tilgjengelighet" >
 <!ENTITY pref.systemcolors.accesskey "O">
 
-
-
+<!ENTITY pref.eventsandtasks.label "Hendelser og oppgaver" >
+<!ENTITY pref.editInTab.label "Rediger hendelser og oppgaver i en fane i stedet for i et dialogvindu." >
+<!ENTITY pref.editInTab.accesskey "t">
