@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Съхраняване на статиите в: ">
 <!ENTITY feedFolder.accesskey        "С">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Проверяване за нови статии на всеки">
+<!ENTITY biffStart.accesskey         "н">
+<!ENTITY biffMinutes.label           "минути">
+<!ENTITY biffMinutes.accesskey       "м">
+<!ENTITY biffDays.label              "дена">
+<!ENTITY biffDays.accesskey          "д">
+<!ENTITY recommendedUnits.label      "Издателят препоръчва:">
+
 <!ENTITY quickMode.label             "Показване на резюме от статията вместо зареждане на уеб страницата">
 <!ENTITY quickMode.accesskey         "П">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "П">
 <!ENTITY autoTagPrefix.placeholder   "Въведете представка за етикет">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Добавяне">
 <!ENTITY button.addFeed.accesskey    "Д">
 <!ENTITY button.updateFeed.label     "Актуализиране">
