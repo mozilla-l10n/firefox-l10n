@@ -13,7 +13,11 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Падроблены сайт!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Пра гэту старонку на <span id='phishing_sitename'/> вядома, што яна падманлівая. Заблакавана паводле вашых наладаў бяспекі.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Падробленыя сайты распрацаваны, каб падманным шляхам прымусіць вас зрабіць што-небудзь небяспечнае, напрыклад, ўсталяваць праграму або раскрыць сваю асабістую інфармацыю, такую як паролі, тэлефонныя нумары або дадзеныя крэдытных карт.</p><p>Увод на гэтай вэб-старонцы любой інфармацыі можа прывесці да крадзяжу або махлярству.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Есць інфармацыя, што гэты сайт змяшчае непажаданыя праграмы!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Сайт <span id='unwanted_sitename'/> вядомы як пляцоўка для непажаданых праграм і заблакаваны ў адпаведнасці з вашымі наладамі бяспекі.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Старонкі з непажаданымі праграмамі спрабуюць ўсталяваць праграмы, якія могуць быць падманлівымі, і ўздзейнічаць на камп'ютар нечаканым чынам.">
 

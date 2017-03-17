@@ -29,6 +29,11 @@
  </ul>">
 
 <!ENTITY fileAccessDenied.title "Доступ да файла забаронены">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Магчыма, што ён быў выдалены або перамешчаны, або дазволы на файл не даюць атрымаць да яго доступ.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Ух?!">
 <!ENTITY generic.longDesc "
