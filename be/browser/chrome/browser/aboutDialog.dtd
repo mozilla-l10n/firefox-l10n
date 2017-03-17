@@ -26,7 +26,7 @@
 <!ENTITY community.exp.middle       " — ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "сусветнае згуртаванне">
-<!ENTITY community.exp.end          ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
+<!ENTITY community.exp.end          ", якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.">
 
 <!ENTITY community.start2           "&brandShortName; распрацаваны ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -34,7 +34,7 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "сусветным згуртаваннем">
-<!ENTITY community.end3             ", якое працуе разам, каб захаваць Сеціва адкрытым, прылюдным і даступным кожнаму.">
+<!ENTITY community.end3             ", якое працуе разам, каб захаваць Сеціва адкрытым, публічным і даступным кожнаму.">
 
 <!ENTITY helpus.start               "Хочаце дапамагчы? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
