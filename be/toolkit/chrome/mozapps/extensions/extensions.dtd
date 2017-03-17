@@ -54,7 +54,7 @@
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
-<!ENTITY updates.updateAddonsAutomatically.label     "Самастойна абнаўляць дадаткі">
+<!ENTITY updates.updateAddonsAutomatically.label     "Аўтаматычна абнаўляць дадаткі">
 <!ENTITY updates.updateAddonsAutomatically.accesskey "С">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
@@ -135,13 +135,13 @@
 
 <!ENTITY detail.contributions.description     "Распрацоўца гэтага дадатка просіць падтрымаць яго распрацоўку невялікім ахвяраваннем.">
 
-<!ENTITY detail.updateType                    "Самастойныя абнаўленні">
+<!ENTITY detail.updateType                    "Аўтаматычныя абнаўленні">
 <!ENTITY detail.updateDefault.label           "Прадвызначана">
 <!ENTITY detail.updateDefault.tooltip         "Самастойна ўсталёўваць абнаўленні, калі гэта прадвызначана">
 <!ENTITY detail.updateAutomatic.label         "Укл.">
-<!ENTITY detail.updateAutomatic.tooltip       "Самастойна ўсталёўваць абнаўленні">
+<!ENTITY detail.updateAutomatic.tooltip       "Аўтаматычна ўсталёўваць абнаўленні">
 <!ENTITY detail.updateManual.label            "Выкл.">
-<!ENTITY detail.updateManual.tooltip          "Не ўсталёўваць абнаўленні самастойна">
+<!ENTITY detail.updateManual.tooltip          "Не ўсталёўваць абнаўленні аўтаматычна">
 <!ENTITY detail.home                          "Хатняя старонка">
 <!ENTITY detail.repository                    "Профіль дадатка">
 <!ENTITY detail.size                          "Памер">
