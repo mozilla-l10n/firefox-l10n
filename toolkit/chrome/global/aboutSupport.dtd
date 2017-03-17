@@ -79,7 +79,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Адкрыць папку">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Істотныя змененыя перавагі">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Змененыя важныя налады">
 <!ENTITY aboutSupport.modifiedPrefsName "Назва">
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
 
@@ -87,7 +87,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
 <!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Замкнёныя важныя yалады">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Заблакаваныя важныя налады">
 <!ENTITY aboutSupport.lockedPrefsName "Назва">
 <!ENTITY aboutSupport.lockedPrefsValue "Значэнне">
 
