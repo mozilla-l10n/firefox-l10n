@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "Гэта можа зрабіць несапраўднай вашу заруку!">
-<!ENTITY aboutWarningText.label "Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай прылады. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.">
+<!ENTITY aboutWarningText.label "Змяненне прадвызначаных значэнняў гэтых пашыраных налад можа быць шкодным для ўстойлівасці, бяспекі і прадукцыйнасці гэтай праграмы. Вы павінны рабіць гэта толькі тады, калі ўпэўнены ў тым, што робіце.">
 <!ENTITY aboutWarningButton2.label "Я прымаю рызыку!">
 <!ENTITY aboutWarningCheckbox.label "Паказваць гэтае папярэджанне наступным разам">
 

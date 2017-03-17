@@ -84,8 +84,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedPrefsValue "Значэнне">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "Перавагі user.js">
-<!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца перавагі, не створаныя &brandShortName;.">
+<!ENTITY aboutSupport.userJSTitle "Налады user.js">
+<!ENTITY aboutSupport.userJSDescription "Папка вашага профілю змяшчае <a id='prefs-user-js-link'>файл user.js</a>, у якім знаходзяцца налады, не створаныя &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Заблакаваныя важныя налады">
 <!ENTITY aboutSupport.lockedPrefsName "Назва">
