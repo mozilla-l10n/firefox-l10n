@@ -125,6 +125,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY cspBlocked.title "Заблакавана палітыкай абароны змесціва">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў загрузцы такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Памылка скажэння змесціва">
 

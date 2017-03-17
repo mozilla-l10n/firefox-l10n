@@ -512,6 +512,7 @@ size. -->
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Паказаць пароль">
 <!ENTITY doorhanger_login_select_message "Капіяваць пароль з &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Пароль скапіяваны ў буфер абмену">
 <!ENTITY doorhanger_login_select_action_text "Выбраць іншы лагін">
 <!ENTITY doorhanger_login_select_title "Капіяваць пароль з">
 
@@ -522,6 +523,7 @@ size. -->
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_tab_queue_title3 "Чарга картак">
+<!ENTITY pref_tab_queue_summary4 "Захавайце спасылкі да наступнага адкрыцця &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
@@ -631,8 +633,11 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Бяспечнае злучэнне">
 <!ENTITY identity_connection_insecure "Небяспечнае злучэнне">
+<!ENTITY identity_connection_chromeui "Гэта бяспечная старонка &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_display_loaded1 "Некаторыя часткі гэтай старонкі (такія як выявы) не бяспечныя.">
+<!ENTITY mixed_content_protection_disabled1 "Вы адключылі ахову ад небяспечнага змесціва.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Ахова ад сачэння">
@@ -681,6 +686,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Дакраніцеся, каб ужыць сцягнутае абнаўленне">
 <!ENTITY updater_downloading_retry2 "Дакраніцеся, каб паўтарыць">
 
+<!ENTITY updater_apply_title3 "Сцягнута абнаўленне для &brandShortName;">
 <!ENTITY updater_apply_select3 "Націсніце для ўсталявання">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
