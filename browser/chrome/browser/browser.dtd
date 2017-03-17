@@ -317,8 +317,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.accesskey       "ё"> 
 <!ENTITY preferencesCmd2.label       "Налады">
 <!ENTITY preferencesCmd2.accesskey     "Н">
-<!ENTITY preferencesCmdUnix.label       "Перавагі">
-<!ENTITY preferencesCmdUnix.accesskey     "П"> 
+<!ENTITY preferencesCmdUnix.label       "Налады">
+<!ENTITY preferencesCmdUnix.accesskey     "л"> 
 
 <!ENTITY clearRecentHistory.label               "Ачысціць нядаўнюю гісторыю…">
 

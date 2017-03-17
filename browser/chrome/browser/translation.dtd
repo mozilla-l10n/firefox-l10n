@@ -54,7 +54,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Ніколі не перакладаць гэты сайт">
 <!ENTITY translation.options.neverForSite.accesskey "э">
-<!ENTITY translation.options.preferences.label  "Перавагі перакладу">
+<!ENTITY translation.options.preferences.label  "Налады перакладу">
 <!ENTITY translation.options.preferences.accesskey "е">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,

@@ -29,7 +29,7 @@
 <!ENTITY abouthome.preferencesButtonWin.label  "Налады">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonUnix.label): The label for the
      preferences/options item on about:home on Linux and OS X -->
-<!ENTITY abouthome.preferencesButtonUnix.label  "Перавагі">
+<!ENTITY abouthome.preferencesButtonUnix.label  "Налады">
 <!ENTITY abouthome.addonsButton.label    "Дадаткі">
 <!ENTITY abouthome.downloadsButton.label "Сцягванні">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">

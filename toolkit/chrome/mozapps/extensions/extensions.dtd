@@ -82,8 +82,8 @@
 <!ENTITY cmd.findUpdates.accesskey            "З">
 <!ENTITY cmd.preferencesWin.label             "Налады">
 <!ENTITY cmd.preferencesWin.accesskey         "Н">
-<!ENTITY cmd.preferencesUnix.label            "Перавагі">
-<!ENTITY cmd.preferencesUnix.accesskey        "П">
+<!ENTITY cmd.preferencesUnix.label            "Налады">
+<!ENTITY cmd.preferencesUnix.accesskey        "Н">
 <!ENTITY cmd.about.label                      "Пра">
 <!ENTITY cmd.about.accesskey                  "П">
 
@@ -108,8 +108,8 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "В">
 <!ENTITY cmd.showPreferencesWin.label         "Налады">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Змяненне налад гэтага дадатка">
-<!ENTITY cmd.showPreferencesUnix.label        "Перавагі">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Змяненне перавагаў гэтага дадатка">
+<!ENTITY cmd.showPreferencesUnix.label        "Налады">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Змяненне налад гэтага дадатка">
 <!ENTITY cmd.contribute.label                 "Ахвяраваць">
 <!ENTITY cmd.contribute.accesskey             "А">
 <!ENTITY cmd.contribute.tooltip               "Ахвяраваць сродкі на распрацоўку гэтага дадатку">
@@ -152,9 +152,9 @@
 <!ENTITY detail.showPreferencesWin.label      "Налады">
 <!ENTITY detail.showPreferencesWin.accesskey  "Н">
 <!ENTITY detail.showPreferencesWin.tooltip    "Змяненне налад гэтага дадатка">
-<!ENTITY detail.showPreferencesUnix.label     "Перавагі">
-<!ENTITY detail.showPreferencesUnix.accesskey "П">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Змяненне перавагаў гэтага дадатка">
+<!ENTITY detail.showPreferencesUnix.label     "Налады">
+<!ENTITY detail.showPreferencesUnix.accesskey "Н">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Змяненне налад гэтага дадатка">
 
 
 <!-- ratings -->
