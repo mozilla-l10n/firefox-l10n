@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Без">
 <!ENTITY editDirectories.label                 "Промяна директории…">
 <!ENTITY editDirectories.accesskey             "д">
+<!ENTITY showAsDefault.label                   "Начална папка по подразбиране за адресника:">
+<!ENTITY showAsDefault.accesskey               "п">
+<!ENTITY showAsDefaultLast.label               "Последно използван адресник">
 
 <!ENTITY sendOptionsDescription.label          "Настройка на правила за работа с текстовия формат">
 <!ENTITY sendOptions.label                     "Настройки за изпращане…">
