@@ -542,7 +542,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "Salvează videoclipul ca…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "Salvează fișierul audio ca…">
+<!ENTITY saveAudioCmd.label           "Salvează audioul ca…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "Trimite e-mail cu imaginea…">
 <!ENTITY emailImageCmd.accesskey      "g">
@@ -550,7 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "Trimite videoclipul către dispozitiv">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Trimite e-mail cu fișierul audio…">
+<!ENTITY emailAudioCmd.label          "Trimite e-mail cu audioul…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "Activează acest plugin">
 <!ENTITY playPluginCmd.accesskey      "c">
@@ -564,7 +564,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "Copiază locația videoclipului">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
-<!ENTITY copyAudioURLCmd.label        "Copiază locația fișierului audio">
+<!ENTITY copyAudioURLCmd.label        "Copiază locația audioului">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "Copiază adresa de e-mail">
 <!ENTITY copyEmailCmd.accesskey       "e">
@@ -601,12 +601,12 @@ movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ridicol (2×)">
 <!ENTITY mediaPlaybackRate200x2.accesskey "l">
-<!ENTITY mediaLoop.label             "Buclă">
+<!ENTITY mediaLoop.label             "Redă în buclă">
 <!ENTITY mediaLoop.accesskey         "l">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "Arată controalele">
+<!ENTITY mediaShowControls.label     "Afișează controalele">
 <!ENTITY mediaShowControls.accesskey "c">
 <!ENTITY mediaHideControls.label     "Ascunde controalele">
 <!ENTITY mediaHideControls.accesskey "c">
