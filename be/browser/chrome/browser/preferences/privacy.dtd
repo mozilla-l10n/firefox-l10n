@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "Звязаныя запыты з прадвызначанага пашукавіка">
 <!ENTITY  locbar.searches.accesskey     "в">
 
-<!ENTITY  suggestionSettings.label      "Змяніць перавагі для падказак пашукавіка…">
+<!ENTITY  suggestionSettings.label      "Змяніць налады для падказак пашукавіка…">
 <!ENTITY  suggestionSettings.accesskey  "п">
 
 <!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">

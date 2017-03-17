@@ -17,7 +17,7 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Вядомая нападная старонка!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Гэтая старонка <span id='malware_sitename'/> вядомая як нападная і была заблакавана паводле вашых перавагаў бяспекі.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Гэтая старонка <span id='malware_sitename'/> вядомая як нападная і была заблакавана паводле вашых налад бяспекі.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Нападныя старонкі спрабуюць усталёўваць праграмы, якія крадуць асабістыя звесткі, скарыстоўваюць ваш камп'ютар, каб нападаць на іншыя, або псуюць вашу сістэму.</p><p>Асобныя нападныя старонкі наўмысна распаўсюджваюць шкодныя праграмы, але шмат з іх былі скампраметаваны без ведаму і дазволу іх уладальнікаў.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Вядомая непажаданымі праграмамі старонка!">

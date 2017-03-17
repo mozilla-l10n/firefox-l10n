@@ -12,7 +12,7 @@
 <!ENTITY engine.history.accesskey   "Г">
 <!ENTITY engine.passwords.label     "Паролі">
 <!ENTITY engine.passwords.accesskey "П">
-<!ENTITY engine.prefs.label         "Перавагі">
+<!ENTITY engine.prefs.label         "Налады">
 <!ENTITY engine.prefs.accesskey     "в">
 <!ENTITY engine.addons.label        "Дадаткі">
 <!ENTITY engine.addons.accesskey    "Д">
