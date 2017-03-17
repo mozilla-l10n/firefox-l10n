@@ -4,21 +4,22 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY loadError.label "Памылка загрузкі старонкі">
 <!ENTITY retry.label "Паспрабуйце зноў">
+
+<!-- Specific error messages -->
+
 <!ENTITY connectionFailure.title "Нельга злучыцца">
-<!ENTITY connectionFailure.longDesc "&sharedLongDesc2;">
+<!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
+
 <!ENTITY deniedPortAccess.title "Гэты адрас абмежаваны">
 <!ENTITY deniedPortAccess.longDesc "">
+
 <!ENTITY dnsNotFound.title "Паслугач не знойдзены">
-<!ENTITY dnsNotFound.longDesc2 "
-<ul>
-  <li>Праверце адрас на існаванне памылак, такіх як
-    <strong>ww</strong>.example.com замест
-    <strong>www</strong>.example.com</li>
-  <li>Калі вы не можаце загрузіць ніякую старонку, праверце здаткі вашай здудовы ці злучэнне Wi-Fi.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+
 <!ENTITY fileNotFound.title "Файл не знойдзены">
 <!ENTITY fileNotFound.longDesc "
 <ul>
@@ -26,50 +27,54 @@
   прапушчаная/лішняя літара або вялікая літара замест малой, або інакшай.</li> 
   <li>Упэўніцеся, што файл не быў перайменаваны, выдалены або перамешчаны.</li>
  </ul>">
+
+<!ENTITY fileAccessDenied.title "Доступ да файла забаронены">
+
 <!ENTITY generic.title "Ух?!">
 <!ENTITY generic.longDesc "
 <p>&brandShortName; не можа загрузіць гэтую старонку з невядомай прычыны.</p>">
+
 <!ENTITY malformedURI.title "Несапраўдны адрас">
-<!ENTITY malformedURI.longDesc "
-<ul>
-  <li>Адрас Сеціва звычайна пішацца, як
-    <strong>http://www.example.com/</strong></li>
-  <li>Упэўніцеся, што вы ўжываеце простыя косыя рыскі (г.зн.
-    <strong>/</strong>).</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
+     or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
-<!ENTITY netInterrupt.longDesc "&sharedLongDesc2;">
+<!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
+
 <!ENTITY notCached.title "Дакумент састарэў">
 <!ENTITY notCached.longDesc '<p>Запатрабаваны дакумент не даступны ў запасніку &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Пстрыкніце "Паспрабаваць зноў", каб запытаць дакумент з пляцоўкі сеціва ізноў.</li></ul>'>
+
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
-<!ENTITY netOffline.longDesc2 "
-<ul>
-  <li>Паспрабуйце зноў. &brandShortName; паспрабуе злучыцца і абнавіць старонку.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
   <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li>
 </ul>
 ">
+
 <!ENTITY unsafeContentType.title "Небяспечны тып файла">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li>
 </ul>
 ">
+
 <!ENTITY netReset.title "Злучэнне скінута">
-<!ENTITY netReset.longDesc "&sharedLongDesc2;">
+<!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
+
 <!ENTITY netTimeout.title "Злучэнне па-за часам">
-<!ENTITY netTimeout.longDesc "&sharedLongDesc2;">
+<!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
+
 <!ENTITY unknownProtocolFound.title "Немагчыма распазнаць адрас">
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Магчыма, вы павінны ўсталяваць іншую праграму, каб адчыніць гэты адрас.</li>
 </ul>
 ">
+
 <!ENTITY proxyConnectFailure.title "Паслугач-пасярэднік адмовіўся злучацца">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
@@ -77,13 +82,11 @@
   <li>Звяжыцеся з спраўцам сеткі, каб ўпэўніцца, што
     паслугач-пасярэднік працуе.</li>
 </ul>">
+
 <!ENTITY proxyResolveFailure.title "Немагчыма знайсці паслугач-пасярэднік">
-<!ENTITY proxyResolveFailure.longDesc2 "
-<ul>
-  <li>Праверце наладжванні пасярэдніка, каб упэўніцца, што яны правільныя.</li>
-  <li>Праверце, што працуюць здаткі вашай збудовы і злучэнне Wi-Fi.</li>
-</ul>
-">
+<!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
 <!ENTITY redirectLoop.longDesc "
 <ul>
@@ -91,6 +94,7 @@
     набывання бірак.</li>
 </ul>
 ">
+
 <!ENTITY unknownSocketType.title "Нечаканы адказ паслугача">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
@@ -99,13 +103,9 @@
   <li>Гэта магчыма з нагоды незвычайнай наладкі паслугача.</li>
 </ul>
 ">
+
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
-<!ENTITY nssFailure2.longDesc "
-<ul>
-  <li>Старонку, якую вы спрабуеце пабачыць, немагчыма паказаць, бо немагчыма праверыць сапраўднасць атрыманых здаткаў.</li>
-  <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему. Інакш скарыстайце загад у меню Даведка, каб апавясціць пра няспраўную пляцоўку.</li>
-</ul>
-">
+
 <!ENTITY nssBadCert.title "Няўдача бяспечнага злучэння">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
@@ -115,24 +115,43 @@
 быць часовай, таму вы можаце паспрабаваць ізноў пасля.</li>
 </ul>
 ">
-<!ENTITY sharedLongDesc2 "
-<ul>
-  <li>Пляцоўка можа быць часова недаступнай ці занадта занятой. Паспрабуйце зноў праз некалькі хвілінаў.</li>
-  <li>Калі вы не можаце загрузіць ніякую старонку, праверце здаткі вашай здудовы ці злучэнне Wi-Fi.</li>
-</ul>
-">
-<!ENTITY cspFrameAncestorBlocked.title "Затрымана палітыкай бяспекі змесціва">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>&brandShortName; прадухіліў загрузку гэтай старонкі такім спосабам, бо палітыка бяспекі старонкі забараняе яго выкарыстанне.</p>">
-<!ENTITY corruptedContentError.title "Пашкоджанае змесціва">
-<!ENTITY corruptedContentError.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не будзе паказана, бо падчас перадачы здарылася памылка.</p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі пра гэтую праблему.</li></ul>">
+
+<!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
+     The text inside the tags should be localized. Do not touch the ids. -->
+
+<!ENTITY cspBlocked.title "Заблакавана палітыкай абароны змесціва">
+
+<!ENTITY corruptedContentErrorv2.title "Памылка скажэння змесціва">
+
 <!ENTITY securityOverride.linkText "Ці вы можаце дадаць выключэнне…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Пакінуць гэта месца!">
 <!ENTITY securityOverride.exceptionButtonLabel "Дадаць выключэнне…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <xul:button> tags.  The only language content is the label= field,
+which uses strings already defined above. The button is included here (instead of
+netError.xhtml) because it exposes functionality specific to firefox. -->
+
 <!ENTITY securityOverride.warningContent "
 <p>Вы не павінны дадаваць выключэнне, калі вы ўжываеце злучэнне з інтэрнэтам, якому вы цалкам не давяраеце, ці калі вам не даводзілася бачыць папярэджанне для гэтага паслугача.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
 ">
+
 <!ENTITY remoteXUL.title "Адлеглы XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li></ul></p>">
+
+<!ENTITY sslv3Used.title "Немагчыма злучыцца бяспечна">
+<!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
+     "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Дадатковыя звесткі: SSL_ERROR_UNSUPPORTED_VERSION">
+
+<!ENTITY weakCryptoUsed.title "Ваша злучэнне не бяспечнае">
+<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
+     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Дадатковыя звесткі: SSL_ERROR_NO_CYPHER_OVERLAP">
+
+<!ENTITY inadequateSecurityError.title "Ваша злучэнне не бяспечнае">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
