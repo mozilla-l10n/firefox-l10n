@@ -34,7 +34,7 @@
 
 
 <!ENTITY languages.label              "Мовы">
-<!ENTITY chooseLanguage.label         "Выберыце мовы, якім вы аддаяце перавагу, для адлюстравання старонак">
+<!ENTITY chooseLanguage.label         "Выберыце мовы, якім вы аддаяце перавагу, для прагляду старонак">
 <!ENTITY chooseButton.label           "Выбраць…">
 <!ENTITY chooseButton.accesskey       "В">
 

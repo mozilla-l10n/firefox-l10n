@@ -167,8 +167,8 @@
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
-<!ENTITY options.stylesheetAutocompletion.label      "Самазавяршэнне CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Самазавяршае ўласцівасці, значэнні, вылучальнікі CSS у праўніку стыляў падчас набору">
+<!ENTITY options.stylesheetAutocompletion.label      "Аўтадапаўненне CSS">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Аўтаматычна дапаўняць уласцівасці, значэнні, вылучальнікі CSS у рэдактары стыляў падчас набору">
 
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options

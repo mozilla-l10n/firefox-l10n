@@ -24,7 +24,7 @@
 
 <!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Пстрыкніце, каб размеркаваць"> 
-<!ENTITY columnChooser.tooltip "Пстрыкніце, каб вылучыць слупкі для адлюстравання"> 
+<!ENTITY columnChooser.tooltip "Націсніце, каб вылучыць слупкі, якія паказваць"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
