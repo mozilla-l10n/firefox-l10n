@@ -123,7 +123,9 @@
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 <!ENTITY discover.title                       "Што такое дадаткі?">
-<!ENTITY discover.description2                "Дадаткі – гэта прыстасаванні, якія дазваляюць вам дадаць &brandShortName; іншую функцыянальнасць або стыль. Паспрабуйце бакавую палічку, якая зберажэ ваш час, паказальнік надвор'я або новую тэму выгляду, каб пабудаваць ваш асабісты &brandShortName;.">
+<!ENTITY discover.description2                "Дадаткі – гэта праграмы, якія дазваляюць вам дадаць &brandShortName; іншую 
+  функцыянальнасць або стыль. Паспрабуйце бакавую палічку, якая зберажэ ваш час, паказальнік надвор'я або новую тэму выгляду, каб пабудаваць ваш асабісты &brandShortName;
+  .">
 <!ENTITY discover.footer                      "Калі вы злучаны з сецівам, гэтая шыба будзе паказваць вам лепшыя і найбольш ужывальныя дадаткі, якімі можаце карыстацца.">
 
 <!-- detail view -->
