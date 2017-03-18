@@ -317,6 +317,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Для \&quot;Адкрыцця мноства спасылак\&quot;, калі ласка, дайце &brandShortName; дазвол на \&apos;Паказ вокнаў па-над іншымі праграмамі\&apos;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -343,6 +344,7 @@
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Ачысціць зараз">
 <!ENTITY pref_clear_on_exit_title3 "Выдаліць асабістыя дадзеныя пры выхадзе">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; будзе аўтаматычна выдаляць вашы дадзеныя пры націску вамі \u0022Выхад\u0022 ў галоўным меню">
 <!ENTITY pref_clear_on_exit_dialog_title "Выберыце дадзеныя для выдалення">
 <!ENTITY pref_plugins "Убудовы">
 <!ENTITY pref_plugins_enabled "Дазволены">
@@ -370,7 +372,13 @@ size. -->
 <!ENTITY pref_font_size_preview_text "Шпаркі памаранчавы ліс пераскочыць вашы чаканні, больш хуткі, больш гнуткі і больш бяспечны. Як ненпрыбытковыя, мы свабодныя, каб рабіць новаўвядзенні, не зазнаючы ціску, не прызнаючы кампрамісаў. Таму вас чакае лепшы досвед, як і Сеціва больш яркая будучыня.">
 
 <!ENTITY pref_media_autoplay_enabled "Дазволіць аўтазапуск">
+<!ENTITY pref_media_autoplay_enabled_summary "Кантралюе, ці могуць вэб-сайты аўтаматычна запускаць відэа і іншы медыякантэнт">
+<!ENTITY pref_zoom_force_enabled "Заўсёды дазваляць змяняць маштаб">
+<!ENTITY pref_zoom_force_enabled_summary "Ігнараваць налады сайтаў, каб вы маглі мяняць маштаб любой старонкі">
+<!ENTITY pref_voice_input "Галасавы ўвод">
+<!ENTITY pref_voice_input_summary2 "Дазволіць галасавы ўвод у панэлі адрасу">
 <!ENTITY pref_qrcode_enabled "Счытванне QR-кода">
+<!ENTITY pref_qrcode_enabled_summary2 "Дазволіць сканер QR-кода ў панэлі адрасу">
 
 <!ENTITY pref_use_master_password "Ужываць галоўны пароль">
 <!ENTITY pref_sync2 "Увайсці">
@@ -436,6 +444,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Паведамляльнік пра крахі">
 <!ENTITY datareporting_wifi_title2 "Служба месцазнаходжанняў &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Дапамажыце &vendorShortName; стварыць карту свету! Падзяліцеся прыблізным размяшчэннем Wi-Fi і мабільнай сеткі прылады, каб палепшыць нашу службу вызначэння месцазнаходжання.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -518,9 +527,13 @@ size. -->
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Павялічваць малыя ўчасткі">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Павялічваць спасылкі і палі формаў пры дакрананні каля іх">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "Поўнаэкраннае агляданне">
+<!ENTITY pref_scroll_title_bar_summary2 "Хаваць паліцу інструментаў &brandShortName; пры прагортванні старонкі">
 
 <!ENTITY pref_tab_queue_title3 "Чарга картак">
 <!ENTITY pref_tab_queue_summary4 "Захавайце спасылкі да наступнага адкрыцця &brandShortName;">
@@ -528,6 +541,7 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Кампактныя карткі">
+<!ENTITY pref_compact_tabs_summary2 "Карткі ў два слупкі ў партрэтным рэжыме">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -589,6 +603,7 @@ size. -->
 <!ENTITY home_most_recent_empty "Сеціўныя пляцоўкі, якія вы наведвалі нядаўна, знаходзяцца тут.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
+<!ENTITY home_most_recent_emptyhint2 "Звярніце ўвагу: гісторыя з &formatS1;Новай прыватнай карткі&formatS2; не будзе захоўвацца.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -610,6 +625,9 @@ size. -->
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Паказаць выбраныя схаваныя прылады">
 
+<!ENTITY remote_tabs_panel_moved_title "Куды дзеліся мае карткі?">
+<!ENTITY remote_tabs_panel_moved_desc "Мы перамясцілі вашы карткі з іншых прылад на панэль хатняй старонкі, да якой вы можаце лёгка атрымаць доступ пры кожным адкрыцці новай карткі.">
+<!ENTITY remote_tabs_panel_moved_link "Пакажыце мне новую панэль.">
 
 <!ENTITY pin_site_dialog_hint "Увядзіце тэрмін для пошуку">
 
@@ -636,6 +654,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "Гэта бяспечная старонка &brandShortName;">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; заблакаваў небяспечнае змесціва на гэтай старонцы.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; заблакаваў некаторае небяспечнае змесціва на гэтай старонцы.">
 <!ENTITY mixed_content_display_loaded1 "Некаторыя часткі гэтай старонкі (такія як выявы) не бяспечныя.">
 <!ENTITY mixed_content_protection_disabled1 "Вы адключылі ахову ад небяспечнага змесціва.">
 
@@ -643,6 +663,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Ахова ад сачэння">
 <!ENTITY doorhanger_tracking_state_enabled "Дазволена">
 <!ENTITY doorhanger_tracking_state_disabled "Забаронена">
+<!ENTITY doorhanger_tracking_message_enabled1 "Спробы асочваць вашы паводзіны ў Інтэрнэце былі заблакаваны.">
+<!ENTITY doorhanger_tracking_message_disabled2 "Гэтая старонка ўтрымлівае элементы, якія могуць за вамі сачыць.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Падрабязней">
@@ -692,6 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Для загрузкі файлаў і абнаўленняў, дайце дазвол &brandShortName; на доступ да вашага сховішча.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Дазволіць">
 
@@ -701,6 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Працягнуць">
 <!ENTITY guest_session_dialog_cancel "Скасаваць">
 <!ENTITY new_guest_session_title "&brandShortName; зараз перазапусціцца">
+<!ENTITY new_guest_session_text2 "Чалавек, які яго выкарыстоўвае, не зможа ўбачыць ніякіх вашых асабістых дадзеных прагляду (такіх як захаваны лагіны, гісторыю або закладкі).\n\nКалі госць завершыць працу, яго дадзеныя прагляду будуць сцёртыя, а ваш сеанс будзе адноўлены.">
 <!ENTITY guest_browsing_notification_title "Уключана гасцявое агляданне">
 <!ENTITY guest_browsing_notification_text "Націсніце для выхаду">
 
@@ -745,6 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
+<!ENTITY intent_uri_private_browsing_prompt "Гэта спасылка адкрыецца ў &formatS;. Вы ўпэўнены, што хочаце выйсці з прыватнага агляду?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -760,15 +785,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
+<!ENTITY devtools_auth_scan_header "Сканаванне QR-кода, які адлюстраваны на іншай вашай прыладзе">
 
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Дадаткі">
+<!ENTITY restrictable_feature_addons_installation_description "Дадаюць магчымасці або функцыянальнасць у Firefox. Заўвага: Дадаткі могуць здымаць пэўныя абмежаванні.">
 <!ENTITY restrictable_feature_private_browsing "Прыватнае агляданне">
+<!ENTITY restrictable_feature_private_browsing_description "Дазваляе членам сям\&apos;і аглядаць, ня захоўваючы інфармацыю аб сайтах і старонках, якія яны наведалі.">
 <!ENTITY restrictable_feature_clear_history "Ачысціць гісторыю">
+<!ENTITY restrictable_feature_clear_history_description "Дазваляе членам сям\&apos;і выдаляць інфармацыю пра сайты і старонках, якія яны наведалі.">
 <!ENTITY restrictable_feature_advanced_settings "Дадатковыя налады">
+<!ENTITY restrictable_feature_advanced_settings_description "Гэта ўключае ў сябе імпарт закладак, аднаўленне картак і аўтаматычнае абнаўленне. Выключыце для спрошчаных налад, якія падыходзяць для любога з членаў сям\&apos;і.">
 <!ENTITY restrictable_feature_camera_microphone "Камера і мікрафон">
+<!ENTITY restrictable_feature_camera_microphone_description "Дазваляе членам сям\&apos;і ўдзельнічаць у размовах на вэб-сайтах у рэальным часе.">
 <!ENTITY restrictable_feature_block_list "Спісы блакавання">
 
 <!-- Default Bookmarks titles-->
