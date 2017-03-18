@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Гэты адрас абмежаваны">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Паслугач не знойдзены">
+<!ENTITY dnsNotFound.title "Сервер не знойдзены">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
@@ -113,22 +113,23 @@
 </ul>
 ">
 
-<!ENTITY proxyConnectFailure.title "Паслугач-пасярэднік адмовіўся злучацца">
+<!ENTITY proxyConnectFailure.title "Проксі-сервер адмовіўся злучацца">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Упэўніцеся, што наладжванні пасярэдніка правільныя.</li>
-  <li>Звяжыцеся з спраўцам сеткі, каб ўпэўніцца, што
-    паслугач-пасярэднік працуе.</li>
-</ul>">
+  <li>Упэўніцеся, што налады проксі правільныя.</li>
+   <li>Звяжыцеся з адміністратарам сеткі, каб ўпэўніцца, што
+    проксі-сервер працуе.</li>
+</ul>
+">
 
-<!ENTITY proxyResolveFailure.title "Немагчыма знайсці паслугач-пасярэднік">
+<!ENTITY proxyResolveFailure.title "Немагчыма знайсці проксі-сервер">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Праверце правільнасць устаноўленых налад проксі-сервера.</li>
   <li>Пераканайцеся, што ваша прылада злучана з мабільнай або Wi-Fi сеткай.
-    <button id='wifi'>Enable Wi-Fi</button>
+    <button id='wifi'>Уключыць Wi-Fi</button>
   </li>
 </ul>
 ">
@@ -136,17 +137,17 @@
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Гэтая праблема часам вынікае з забароны або адмаўлення ад
-    набывання бірак.</li>
+  <li>Гэта праблема часам вынікае з забароны або адмаўлення ад
+    набывання кук.</li>
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Нечаканы адказ паслугача">
+<!ENTITY unknownSocketType.title "Нечаканы адказ сервера">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Упэўніцеся, што Асабісты Кіраўнік Бяспекі ўсталяваны ў
+  <li>Упэўніцеся, што Менеджар асабістай бяспекі ўсталяваны ў
     вашай сістэме.</li>
-  <li>Гэта магчыма з нагоды незвычайнай наладкі паслугача.</li>
+  <li>Гэта, магчыма, з нагоды незвычайных налад сервера.</li>
 </ul>
 ">
 
@@ -161,10 +162,10 @@
 <!ENTITY nssBadCert.title "Няўдача бяспечнага злучэння">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Гэта можа быць праблемай наладкі паслугача ці, магчыма,
-хтосьці спрабуе прыкінуцца гэтым паслугачом.</li>
-  <li>Калі вы паспяхова злучаліся з гэтым паслугачом раней, дык памылка можа
-быць часовай, таму вы можаце паспрабаваць ізноў пасля.</li>
+  <li>Гэта можа быць праблемай налад сервера ці, магчыма,
+хтосьці спрабуе прыкінуцца гэтым серверам.</li>
+  <li>Калі вы паспяхова злучаліся з гэтым серверам раней, памылка можа
+быць часовай, таму вы можаце паспрабаваць зноў пазней.</li>
 </ul>
 ">
 
@@ -183,6 +184,7 @@
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў загрузцы такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Памылка скажэння змесціва">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Старонка, якую вы спрабуеце прагледзець, не можа быць паказана, бо была выяўленая памылка пры перадачы дадзеных.</p><ul><li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і паінфармуйце іх аб гэтай праблеме.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Ці вы можаце дадаць выключэнне…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Пакінуць гэта месца!">
@@ -194,7 +196,7 @@ which uses strings already defined above. The button is included here (instead o
 netError.xhtml) because it exposes functionality specific to firefox. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Вы не павінны дадаваць выключэнне, калі вы ўжываеце злучэнне з інтэрнэтам, якому вы цалкам не давяраеце, ці калі вам не даводзілася бачыць папярэджанне для гэтага паслугача.</p>
+<p>Вы не павінны дадаваць выключэнне, калі вы ўжываеце злучэнне з інтэрнэтам, якому вы цалкам не давяраеце, ці калі вам не даводзілася бачыць папярэджанне для гэтага сервера.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
@@ -216,3 +218,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Ваша злучэнне не бяспечнае">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> выкарыстоўвае тэхналогію бяспекі, якая з'яўляецца састарэлай і ўразлівай да нападаў. Нападаючы можа з лёгкасцю раскрыць інфармацыю, якая, на вашу думку, з'яўляецца абароненай. Для наведвання сайта, адміністратар сайта павінен выправіць гэта на сэрверы.</p><p>Код памылкі: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
