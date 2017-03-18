@@ -89,7 +89,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyURLCmd.label     "Капіяваць адрас спасылкі">
 <!ENTITY copyURLCmd.accesskey "К">
 
 <!ENTITY closeCmd.key         "W">

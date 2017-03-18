@@ -29,7 +29,7 @@
 
 <!ENTITY  mediaTab              "Медыя">
 <!ENTITY  mediaTab.accesskey    "М">
-<!ENTITY  mediaLocation         "Месцазнаходжанне:">
+<!ENTITY  mediaLocation         "Адрас:">
 <!ENTITY  mediaText             "Спалучаны тэкст:">
 <!ENTITY  mediaAltHeader        "Дадатковы тэкст">
 <!ENTITY  mediaAddress          "Адрас">

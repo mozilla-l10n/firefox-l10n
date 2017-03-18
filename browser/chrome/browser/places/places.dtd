@@ -78,7 +78,7 @@
 
 <!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Тэгі">
-<!ENTITY col.url.label           "Месцазнаходжанне">
+<!ENTITY col.url.label           "Адрас">
 <!ENTITY col.mostrecentvisit.label "Найбольш наведвальныя">
 <!ENTITY col.visitcount.label    "Колькасць наведванняў">
 <!ENTITY col.description.label   "Апісанне">

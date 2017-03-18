@@ -63,7 +63,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Адкрыць месцазнаходжанне…">
+<!ENTITY openLocationCmd.label "Адкрыць адрас…">
 <!ENTITY openFileCmd.label "Адкрыць файл…">
 <!ENTITY openFileCmd.accesskey "ф">
 <!ENTITY openFileCmd.commandkey "o">
@@ -557,15 +557,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "З">
 <!ENTITY hidePluginCmd.label          "Схаваць плагін">
 <!ENTITY hidePluginCmd.accesskey      "х">
-<!ENTITY copyLinkCmd.label            "Капіяваць месцазнаходжанне спасылкі">
+<!ENTITY copyLinkCmd.label            "Капіяваць спасылку">
 <!ENTITY copyLinkCmd.accesskey        "с">
-<!ENTITY copyImageCmd.label           "Капіяваць месцазнаходжанне выявы">
+<!ENTITY copyImageCmd.label           "Капіяваць спасылку на выяву">
 <!ENTITY copyImageCmd.accesskey       "х">
 <!ENTITY copyImageContentsCmd.label   "Капіяваць выяву">
 <!ENTITY copyImageContentsCmd.accesskey  "я"> 
-<!ENTITY copyVideoURLCmd.label        "Капіяваць месцазнаходжанне відэа">
+<!ENTITY copyVideoURLCmd.label        "Капіяваць спасылку на відэа">
 <!ENTITY copyVideoURLCmd.accesskey    "К">
-<!ENTITY copyAudioURLCmd.label        "Капіяваць месцазнаходжанне гуку">
+<!ENTITY copyAudioURLCmd.label        "Капіяваць спасылку на аўдыё">
 <!ENTITY copyAudioURLCmd.accesskey    "п">
 <!ENTITY copyEmailCmd.label           "Капіяваць адрас э-пошты">
 <!ENTITY copyEmailCmd.accesskey       "э">

@@ -4,11 +4,11 @@
 
 <!ENTITY editBookmarkOverlay.name.label                      "Назва:">
 <!ENTITY editBookmarkOverlay.name.accesskey                  "Н">
-<!ENTITY editBookmarkOverlay.location.label                  "Месцазнаходжанне:">
+<!ENTITY editBookmarkOverlay.location.label                  "Адрас:">
 <!ENTITY editBookmarkOverlay.location.accesskey              "М">
-<!ENTITY editBookmarkOverlay.feedLocation.label              "Месцазнаходжанне канала:">
+<!ENTITY editBookmarkOverlay.feedLocation.label              "Адрас канала:">
 <!ENTITY editBookmarkOverlay.feedLocation.accesskey          "ж">
-<!ENTITY editBookmarkOverlay.siteLocation.label              "Месцазнаходжанне сайта:">
+<!ENTITY editBookmarkOverlay.siteLocation.label              "Адрас сайта:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "п">
 <!ENTITY editBookmarkOverlay.folder.label                    "Папка:">
 <!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Паказаць усе папкі закладак">
