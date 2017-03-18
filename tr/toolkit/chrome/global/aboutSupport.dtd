@@ -49,7 +49,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Devredeki yan uygulamalar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
-<!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı aracı">
+<!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı istemcisi">
 <!ENTITY aboutSupport.appBasicsOS "İşletim sistemi">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Bellek kullanımı">
 <!ENTITY aboutSupport.appBasicsPerformance "Performans">
@@ -64,7 +64,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google anahtarı">
 <!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Konum Hizmeti anahtarı">
 
-<!ENTITY aboutSupport.appBasicsSafeMode "Güvenli Kip">
+<!ENTITY aboutSupport.appBasicsSafeMode "Güvenli kip">
 
 <!ENTITY aboutSupport.showDir.label "Dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
