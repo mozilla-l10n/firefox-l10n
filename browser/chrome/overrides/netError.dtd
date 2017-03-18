@@ -51,7 +51,7 @@
 
 <!ENTITY malformedURI.title "不正確的網址">
 <!ENTITY malformedURI.longDesc "<ul>
-   <li>網址通常長的像
+   <li>網址通常長得像
       <strong>http://www.example.com/</strong>。</li>
    <li>請確定您用的是斜線 (例:
       <strong>/</strong>)。</li>
