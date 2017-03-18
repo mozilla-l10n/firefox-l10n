@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAccounts.welcome "Velkommen til &syncBrand.shortName.label;">
-<!ENTITY aboutAccounts.connected "Konto er forbundet">
 
 <!ENTITY aboutAccountsConfig.description "Log ind for at synkronisere dine faneblade, bogmærker, adgangskoder med mere.">
 <!ENTITY aboutAccountsConfig.startButton.label "Kom i gang">
@@ -12,3 +11,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Ingen forbindelse">
 <!ENTITY aboutAccounts.noConnection.description "Du skal være forbundet til internettet for at kunne logge ind.">
 <!ENTITY aboutAccounts.noConnection.retry "Prøv igen">
+<!ENTITY aboutAccounts.badConfig.title "Forkert opsætning">
+<!ENTITY aboutAccounts.badConfig.description "Kunne ikke bestemme din Firefox-kontos serveropsætning. Prøv igen senere.">

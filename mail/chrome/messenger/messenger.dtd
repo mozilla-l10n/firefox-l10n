@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Kompakt visning">
 <!ENTITY compactVersion.accesskey "K">
 <!ENTITY folderPaneBar.label "Værktøjslinje for mapper">
+<!ENTITY folderPaneBar.accesskey "æ">
 <!ENTITY folderModeSelector.label "Mappevisninger">
 
 <!-- Sort Menu -->
@@ -259,12 +260,6 @@
 
 <!ENTITY viewAttachmentsInlineCmd.label "Vis vedhæftede filer som en del af meddelelsen">
 <!ENTITY viewAttachmentsInlineCmd.accesskey "f">
-
-<!-- LOCALIZATION NOTE :
-fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
-fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
-If shift key is needed with your locale popular keyboard for them,
-you can use these alternative items. Otherwise, their values should be empty.  -->
 
 <!ENTITY pageSourceCmd.label "Kildekode">
 <!ENTITY pageSourceCmd.accesskey "e">
@@ -489,18 +484,40 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY deleteJunk.accesskey "l">
 <!ENTITY importCmd.label "Importer…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Fejlkonsol">
-<!ENTITY errorConsoleCmd.accesskey "j">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Ryd seneste historik…">
 <!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd2.label "Kontoindstillinger">
 <!ENTITY accountManagerCmd2.accesskey "o">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "K">
-<!ENTITY allowRemoteDebugging.label "Tillad remote debugging">
-<!ENTITY allowRemoteDebugging.accesskey "r">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Udviklerværktøjer">
+<!ENTITY devtoolsMenu.accesskey "U">
+<!ENTITY devToolboxCmd.label "Værktøjsboks">
+<!ENTITY devToolboxCmd.accesskey "V">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Tilføjelse-debugger">
+<!ENTITY addonDebugCmd.accesskey "T">
+<!ENTITY tabsDebugCmd.label "Indholdsramme-debugger">
+<!ENTITY tabsDebugCmd.accesskey "n">
+<!ENTITY errorConsoleCmd.label "Fejlkonsol">
+<!ENTITY errorConsoleCmd.accesskey "j">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Kladdeblok">
+<!ENTITY scratchpadCmd.accesskey "K">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Hent meddelelser">
@@ -572,7 +589,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY chatButton.tooltip "Vis fanebladet Chat">
 <!ENTITY tagButton.tooltip "Marker meddelelser">
 <!ENTITY compactButton.tooltip "Fjern slettede meddelelser fra valgte mappe">
-
 <!ENTITY appmenuButton1.tooltip "Vis &brandShortName;-menuen">
 
 <!-- Toolbar Button Popup -->
@@ -618,6 +634,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Hent meddelelser">
 <!ENTITY folderContextGetMessages.accesskey "H">
+<!ENTITY folderContextPauseAllUpdates.label "Sæt alle opdateringer på pause">
+<!ENTITY folderContextPauseUpdates.label "Sæt opdateringer på pause">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Åbn i et nyt vindue">
 <!ENTITY folderContextOpenInNewWindow.accesskey "v">
 <!ENTITY folderContextOpenNewTab.label "Åbn i et nyt faneblad">
@@ -629,7 +648,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextRemove.label "Slet mappe">
 <!ENTITY folderContextRemove.accesskey "S">
 <!ENTITY folderContextCompact.label "Optimer denne mappe">
-<!ENTITY folderContextCompact.accesskey "p">
+<!ENTITY folderContextCompact.accesskey "m">
 <!ENTITY folderContextEmptyTrash.label "Tøm papirkurv">
 <!ENTITY folderContextEmptyTrash.accesskey "ø">
 <!ENTITY folderContextEmptyJunk.label "Tøm spam-mappen">

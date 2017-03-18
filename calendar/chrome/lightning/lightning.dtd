@@ -50,6 +50,8 @@
 <!ENTITY lightning.imipbar.btnDecline2.tooltiptext                          "Afvis invitation til begivenhed">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences.label                      "Afvis alle">
 <!ENTITY lightning.imipbar.btnDeclineRecurrences2.tooltiptext               "Afvis invitation til begivenhed for alle forekomster af begivenheden">
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Afvis">
+<!ENTITY lightning.imipbar.btnDeclineCounter.tooltiptext                    "Afvis ændringsforslaget">
 <!ENTITY lightning.imipbar.btnDelete.label                                  "Slet">
 <!ENTITY lightning.imipbar.btnDelete.tooltiptext                            "Slet fra kalenderen">
 <!ENTITY lightning.imipbar.btnDetails.label                                 "Detaljer…">
@@ -58,6 +60,8 @@
 <!ENTITY lightning.imipbar.btnMore.tooltiptext                              "Klik for at få vist flere muligheder">
 <!ENTITY lightning.imipbar.btnReconfirm2.label                              "Bekræft igen">
 <!ENTITY lightning.imipbar.btnReconfirm.tooltiptext                         "Sender endnu en bekræftelse til arrangøren">
+<!ENTITY lightning.imipbar.btnReschedule.label                              "Omlæg">
+<!ENTITY lightning.imipbar.btnReschedule.tooltiptext                        "Omlæg begivenheden">
 <!ENTITY lightning.imipbar.btnSaveCopy.label                                "Gem en kopi">
 <!ENTITY lightning.imipbar.btnSaveCopy.tooltiptext                          "Gem en kopi af begivenheden til kalenderen uafhængigt af svaret til arrangøren. Listen over deltagere vil blive ryddet.">
 <!ENTITY lightning.imipbar.btnTentative.label                               "Foreløbig">

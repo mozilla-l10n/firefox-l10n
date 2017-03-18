@@ -45,7 +45,6 @@
 <!ENTITY cmd.resume.label                 "Genoptag">
 <!ENTITY cmd.resume.accesskey             "G">
 <!ENTITY cmd.cancel.label                 "Annuller">
-<!ENTITY cmd.cancel.accesskey             "A">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
      The show and showMac commands are never shown together, thus they can share
@@ -62,8 +61,8 @@
 <!ENTITY cmd.removeFromHistory.label      "Fjern fra historik">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
-<!ENTITY cmd.clearList.label              "Ryd liste">
-<!ENTITY cmd.clearList.accesskey          "R">
+<!ENTITY cmd.clearList2.label              "Ryd liste">
+<!ENTITY cmd.clearList2.accesskey          "R">
 <!ENTITY cmd.clearDownloads.label         "Ryd filhentninger">
 <!ENTITY cmd.clearDownloads.accesskey     "f">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -108,6 +107,8 @@
      -->
 <!ENTITY downloadsHistory.label           "Vis alle filhentninger">
 <!ENTITY downloadsHistory.accesskey       "V">
+
+<!ENTITY openDownloadsFolder.label       "Åbn mappen med filhentninger">
 
 <!ENTITY clearDownloadsButton.label       "Ryd filhentninger">
 <!ENTITY clearDownloadsButton.tooltip     "Fjerner afsluttede, afbrudte og mislykkedes filhentninger">

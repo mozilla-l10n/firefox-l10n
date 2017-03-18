@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Spor mig ikke">
-<!ENTITY window.width                 "40em">
+<!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Brug altid Spor mig ikke">
