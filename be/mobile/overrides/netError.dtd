@@ -19,6 +19,20 @@
 <!ENTITY dnsNotFound.title "Паслугач не знойдзены">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
+<!ENTITY dnsNotFound.longDesc4 "
+<ul>
+  <li>Праверце адрас на памылкі ўводу, такія як
+    <strong>ww</strong>.example.com замест
+    <strong>www</strong>.example.com</li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Пошук</button>
+    </div>
+  <li>Калі вы не можаце загрузіць ніводнай старонкі, праверце злучэнне прылады з мабільнай або Wi-Fi сеткай.
+    <button id='wifi'>Уключыць Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY fileNotFound.title "Файл не знойдзены">
 <!ENTITY fileNotFound.longDesc "
@@ -42,6 +56,18 @@
 <!ENTITY malformedURI.title "Несапраўдны адрас">
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY malformedURI.longDesc2 "
+<ul>
+  <li>Адрасы сайтаў звычайна запісваюцца ў фармаце
+    <strong>http://www.example.com/</strong></li>
+    <div id='searchbox'>
+      <input id='searchtext' type='search'></input>
+      <button id='searchbutton'>Пошук</button>
+    </div>
+  <li>Пераканайцеся, што вы выкарыстоўваеце ў якасці падзельніка прамую касую рысу (г.зн.
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "Злучэнне перарвана">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
@@ -52,6 +78,13 @@
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY netOffline.longDesc3 "
+<ul>
+  <li>Паспрабуйце зноў. &brandShortName; паспрабуе адкрыць злучэнне і перазагрузіць старонку.
+    <button id='wifi'>Уключыць Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
 <!ENTITY contentEncodingError.longDesc "
@@ -91,6 +124,14 @@
 <!ENTITY proxyResolveFailure.title "Немагчыма знайсці паслугач-пасярэднік">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY proxyResolveFailure.longDesc3 "
+<ul>
+  <li>Праверце правільнасць устаноўленых налад проксі-сервера.</li>
+  <li>Пераканайцеся, што ваша прылада злучана з мабільнай або Wi-Fi сеткай.
+    <button id='wifi'>Enable Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Старонка няправільна перанакіроўваецца">
 <!ENTITY redirectLoop.longDesc "
@@ -110,6 +151,12 @@
 ">
 
 <!ENTITY nssFailure2.title "Няўдача бяспечнага злучэння">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>Старонка, якую вы спрабуеце прагледзець, не можа быць адлюстравана, бо дакладнасць атрыманых дадзеных не можа быць праверана.</li>
+  <li>Калі ласка, звяжыцеся з уладальнікамі вэб-сайта і паінфармуйце іх аб гэтай праблеме.</li>
+</ul>
+">
 
 <!ENTITY nssBadCert.title "Няўдача бяспечнага злучэння">
 <!ENTITY nssBadCert.longDesc2 "
@@ -123,6 +170,14 @@
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
+<!ENTITY sharedLongDesc3 "
+<ul>
+  <li>Магчыма, сайт часова недаступны ці перагружаны запытамі. Пачакайце некаторы час і паспрабуйце зноў.</li>
+  <li>Калі вы не можаце загрузіць ніводную старонку, праверце злучэнне вашай прылады з мабільнай або Wi-Fi сеткай.
+    <button id='wifi'>Уключыць Wi-Fi</button>
+  </li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "Заблакавана палітыкай абароны змесціва">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; адмовіў старонцы ў загрузцы такім спосабам, бо палітыка бяспекі змесціва гэтай старонкі забараняе гэта.</p>">
