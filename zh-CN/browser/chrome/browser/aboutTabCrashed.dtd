@@ -13,11 +13,11 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "哎呀，您的标签页崩溃了。">
-<!ENTITY tabCrashed.offerHelp "我们可以帮忙！">
-<!ENTITY tabCrashed.single.offerHelpMessage "点击 &tabCrashed.restoreTab; 重新载入页面内容。">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "点击 &tabCrashed.restoreTab; 或 &tabCrashed.restoreAll; 重新载入页面内容。">
-<!ENTITY tabCrashed.requestHelp "愿意帮我们个忙吗？">
+<!ENTITY tabCrashed.header2 "糟糕，您的标签页崩溃了。">
+<!ENTITY tabCrashed.offerHelp "我们可以帮你！">
+<!ENTITY tabCrashed.single.offerHelpMessage "点击 &tabCrashed.restoreTab; 可重新载入页面内容。">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "点击 &tabCrashed.restoreTab; 或 &tabCrashed.restoreAll; 可重新载入页面内容。">
+<!ENTITY tabCrashed.requestHelp "你愿意帮我们个忙吗？">
 <!ENTITY tabCrashed.requestHelpMessage "反馈崩溃报告能帮助我们找出问题所在，不断改进 &brandShortName;。">
 <!ENTITY tabCrashed.requestReport "反馈此标签页">
 <!ENTITY tabCrashed.sendReport2 "发送有关此标签页的错误报告">
@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "当有更多信息时给我发送电子邮件">
 <!ENTITY tabCrashed.reportSent "崩溃报告已提交。感谢您帮助 &brandShortName; 变得更好！">
 <!ENTITY tabCrashed.requestAutoSubmit2 "反馈后台标签页">
-<!ENTITY tabCrashed.autoSubmit2 "更新首选项为自动发送崩溃报告，包括此会话及未来会话的在后台崩溃的标签页的报告">
+<!ENTITY tabCrashed.autoSubmit2 "更新首选项为自动发送崩溃报告，包括此次浏览和未来浏览时在后台崩溃的标签页的报告">
