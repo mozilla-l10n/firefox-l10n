@@ -92,7 +92,13 @@ Raw JSON
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: a depuração de SQL lento está ativada. As strings SQL podem ser integralmente exibidas mas elas não serão enviadas pela telemetria.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Carregar nomes de funções para stacks
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Exibir dados brutos da stack
+">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (strings ou /regexp/)">
 
