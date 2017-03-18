@@ -19,10 +19,13 @@
 <!ENTITY feedFolder.accesskey        "r">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Verificar por novos artigos a cada ">
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "minutos">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "dias">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Editor recomenda:">
 
 <!ENTITY quickMode.label             "Exibir o conteúdo do item em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "E">
