@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "अझै&ellipsis;">
 <!ENTITY fxaccount_remove_account "जडान अन्त&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "सिंकसँग जडान विच्छेद गर्न चाहनुहुन्छ?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "तपाईँको ब्राउजिङ्ग डाटा यो उपकरणमा रहनेछ, तर यो अब तपाईँको खातासँग समक्रमण भने हुनु हुनेछैन।">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox Account &formatS; हटाइयो।">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "विच्छेद गर्नुहोस्">
 
 <!ENTITY fxaccount_enable_debug_mode "त्रुटि मोड सक्षम पार्नुहोस्">
 <!-- Localization note: this is the name shown by the Android system
