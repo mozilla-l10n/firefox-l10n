@@ -407,8 +407,8 @@ size. -->
 <!ENTITY pref_vendor_faqs "Пытанні і адказы">
 <!ENTITY pref_vendor_feedback "Даць водгук">
 
-<!ENTITY pref_dialog_set_default "Прызначыць змоўчным">
-<!ENTITY pref_dialog_default "Змоўчны">
+<!ENTITY pref_dialog_set_default "Прызначыць прадвызначаным">
+<!ENTITY pref_dialog_default "Прадвызначана">
 <!ENTITY pref_dialog_remove "Выдаліць">
 
 <!ENTITY pref_search_last_toast "Вы не можаце выдаліць або забараніць вашу астатнюю машыну пошуку.">
@@ -595,7 +595,7 @@ size. -->
 <!ENTITY home_clear_history_confirm "Вы ўпэўненыя, што хочаце выдаліць сваю гісторыю?">
 <!ENTITY home_bookmarks_empty "Захаваныя вамі закладкі паказваюцца тут.">
 <!ENTITY home_closed_tabs_title2 "Нядаўна закрытыя">
-<!ENTITY home_last_tabs_empty "Вашы апошнія ўстаўкі знаходзяцца тут.">
+<!ENTITY home_last_tabs_empty "Вашы апошнія карткі знаходзяцца тут.">
 <!ENTITY home_restore_all "Аднавіць усе">
 <!ENTITY home_closed_tabs_number "&formatD; картак">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->

@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Вярнуцца да азірання'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Вітаем у &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Увайсці, каб сінхранізаваць вашы ўстаўкі, закладкі, лагіны і іншае.'>
+<!ENTITY fxaccount_getting_started_description2 'Увайсці, каб сінхранізаваць вашы карткі, закладкі, лагіны і іншае.'>
 <!ENTITY fxaccount_getting_started_get_started 'Пачаць'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Ужываеце старэйшую версію &syncBrand.shortName.label;?'>
 
