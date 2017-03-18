@@ -6,7 +6,7 @@
 <!ENTITY safeb.palm.decline.label "Ігнараваць гэтае папярэджанне">
 <!ENTITY safeb.palm.reportPage.label "Чаму гэтая старонка затрымана?">
 
-<!ENTITY safeb.blocked.malwarePage.title "Занатаваная нападная пляцоўка!">
+<!ENTITY safeb.blocked.malwarePage.title "Папярэджанне: нападны сайт!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Гэтая старонка <span id='malware_sitename'/> занатована як нападная і затрымана згодна вашым перавагам бяспекі.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Нападныя старонкі спрабуюць усталёўваць праграмы, якія крадуць асабістыя звесткі, скарыстоўваюць ваш кампутар, каб нападаць на іншыя, або псуюць вашу сістэму.</p><p>Асобныя нападныя старонкі наўмысна распаўсюджваюць шкодныя праграмы, шмат з якіх перакручаны без ведаму і дазволу іх уладальнікаў.</p>">

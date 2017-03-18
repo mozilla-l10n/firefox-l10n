@@ -73,7 +73,7 @@
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Дакумент састарэў">
-<!ENTITY notCached.longDesc '<p>Запатрабаваны дакумент не даступны ў запасніку &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Пстрыкніце "Паспрабаваць зноў", каб запытаць дакумент з пляцоўкі сеціва ізноў.</li></ul>'>
+<!ENTITY notCached.longDesc '<p>Запатрабаваны дакумент не даступны ў кэшы &brandShortName;.</p><ul><li>Дзеля бяспекі &brandShortName; не перазапытвае значныя дакументы самастойна.</li><li>Кліккніце "Паспрабаваць зноў", каб запытаць дакумент з сайта зноў.</li></ul>'>
 
 <!ENTITY netOffline.title "Пазасеткавы рэжым">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -89,14 +89,14 @@
 <!ENTITY contentEncodingError.title "Памылка кадавання змесціва">
 <!ENTITY contentEncodingError.longDesc "
 <ul>
-  <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li>
+  <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэту праблему.</li>
 </ul>
 ">
 
 <!ENTITY unsafeContentType.title "Небяспечны тып файла">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
-  <li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li>
+  <li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэту праблему.</li>
 </ul>
 ">
 
@@ -203,7 +203,7 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 ">
 
 <!ENTITY remoteXUL.title "Адлеглы XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам пляцоўкі сеціва пра гэтую праблему.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Паведамце, калі ласка, уладальнікам вэб-сайта пра гэту праблему.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Немагчыма злучыцца бяспечна">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
