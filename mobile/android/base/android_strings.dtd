@@ -801,6 +801,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "Камера і мікрафон">
 <!ENTITY restrictable_feature_camera_microphone_description "Дазваляе членам сям\&apos;і ўдзельнічаць у размовах на вэб-сайтах у рэальным часе.">
 <!ENTITY restrictable_feature_block_list "Спісы блакавання">
+<!ENTITY restrictable_feature_block_list_description "Блакаванне вэб-сайтаў, якія ўтрымліваюць уразлівае змесціва.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -810,11 +811,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Падтрымка">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
+<!ENTITY bookmarks_restricted_support2 "Даведка і падтрымка Firefox для абмежаваных профіляў на планшэтах Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
+<!ENTITY bookmarks_restricted_webmaker "Вывучайце Інтэрнэт: Mozilla Webmaker">
 
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
+<!ENTITY unsupported_sdk_version "Выбачайце! Гэта зборка &brandShortName; не можа працаваць на гэтай прыладзе (&formatS1;, &formatS2;). Калі ласка, загрузіце карэктную версію.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; больш не будзе абнаўляцца">
 <!ENTITY eol_notification_summary "Клікніце, каб даведацца больш">
@@ -822,13 +826,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
 <!ENTITY whatsnew_notification_title "&brandShortName; абноўлены">
+<!ENTITY whatsnew_notification_summary "Даведацца, што новага ў гэтай версіі">
 
 <!ENTITY promotion_add_to_homescreen "Дадаць на хатні экран">
 
 <!ENTITY helper_first_offline_bookmark_title "Чытаць па-за сеткай">
+<!ENTITY helper_first_offline_bookmark_message "Знайдзіце элементы Рэжыму чытання ў закладках, нават па-за сеткай.">
 <!ENTITY helper_first_offline_bookmark_button "Перайсці ў закладкі">
 
 <!ENTITY helper_triple_readerview_open_title "Даступна па-за сеткай">
+<!ENTITY helper_triple_readerview_open_message "Закласці элементы Рэжыму чытання для аўтаномнага доступу.">
 <!ENTITY helper_triple_readerview_open_button "Дадаць у закладкі">
 
 <!ENTITY activity_stream_topsites "Папулярныя сайты">
@@ -848,3 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Выдаліць з гісторыі">
 
 <!ENTITY activity_stream_welcome_title "Вітаем у Асноўным">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; цяпер адлюстроўвае асноўнае, што вы праглядалі ў Інтэрнэце, каб вы маглі зноў вярнуцца да выдатных артыкулаў, відэа, закладак, а таксама іншых старонак.">
