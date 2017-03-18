@@ -83,7 +83,7 @@
 <!ENTITY exceptionMgr.exceptionButton.accesskey "ц">
 <!ENTITY exceptionMgr.supplementalWarning     "Правамоцныя банкі, біржы і іншыя публічныя сайты ніколі не будуць прасіць вас рабіць гэта.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
-<!ENTITY exceptionMgr.certlocation.url        "Месцазнаходжанне:">
+<!ENTITY exceptionMgr.certlocation.url        "Адрас:">
 <!ENTITY exceptionMgr.certlocation.download   "Атрымаць сертыфікат">
 <!ENTITY exceptionMgr.certlocation.accesskey  "А">
 <!ENTITY exceptionMgr.certstatus.caption      "Статус сертыфіката">
