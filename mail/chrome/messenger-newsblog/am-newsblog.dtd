@@ -2,23 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Verificar novos itens a cada  ">
-<!ENTITY biffStart.accesskey "V">
-<!ENTITY biffEnd.label "minutos">
+<!ENTITY loginAtStartup.label          "Verificar novos itens ao iniciar">
+<!ENTITY loginAtStartup.accesskey      "e">
+<!ENTITY biffAll.label                 "Ativar atualizações para todos os feeds">
+<!ENTITY biffAll.accesskey             "A">
 
-<!ENTITY loginAtStartup.label "Verificar novos itens ao iniciar"> 
-<!ENTITY loginAtStartup.accesskey "e">
+<!ENTITY newFeedSettings.label         "Configurações padrão para novos feeds">
 
-<!ENTITY useQuickMode.label "Por padrão, exibir o conteúdo do item em vez de carregar a página web"> 
-<!ENTITY useQuickMode.accesskey "P">
-
-<!ENTITY manageSubscriptions.label "Inscrições RSS…"> 
+<!ENTITY manageSubscriptions.label     "Inscrições RSS…">
 <!ENTITY manageSubscriptions.accesskey "I">
 
-<!ENTITY feedWindowTitle.label "Assistente de contas de Feed">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "RSS de blogs e notícias">
-<!ENTITY feeds.wizardShortName "RSS">
-<!ENTITY feeds.wizardLongName "RSS de blogs e notícias">
-<!ENTITY feeds.wizardLongName.accesskey "R">
+<!ENTITY feedWindowTitle.label         "Assistente de contas de Feed">
+<!ENTITY feeds.accountName             "RSS de blogs e notícias">
