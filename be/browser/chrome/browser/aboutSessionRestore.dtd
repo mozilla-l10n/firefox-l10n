@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Нам вельмі сорам.">
+<!ENTITY restorepage.errorTitle     "Нам вельмі шкада.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; мае праблемы з аднаўленнем акон і картак. Гэта выклікана нядаўна адкрытай старонкай.">
 <!ENTITY restorepage.tryThis        "Вы можаце паспрабаваць:">
 <!ENTITY restorepage.restoreSome    "Выдаліць адну ці некалькі картак, якія маглі, на ваш погляд, выклікаць праблему">
