@@ -53,7 +53,7 @@
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul>
-   <li>網址通常長的像
+   <li>網址通常長得像
       <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
