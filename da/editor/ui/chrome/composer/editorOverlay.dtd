@@ -82,17 +82,17 @@
 <!ENTITY incrementFontSize.key2 ""> <!-- > is above this key on many keyboards -->
 <!ENTITY fontSizeMenu.label "Størrelse">
 <!ENTITY fontSizeMenu.accesskey "ø">
-<!ENTITY size-tinyCmd.label "meget lille">
+<!ENTITY size-tinyCmd.label "Meget lille">
 <!ENTITY size-tinyCmd.accesskey "g">
-<!ENTITY size-smallCmd.label "lille">
+<!ENTITY size-smallCmd.label "Lille">
 <!ENTITY size-smallCmd.accesskey "l">
-<!ENTITY size-mediumCmd.label "mellem">
+<!ENTITY size-mediumCmd.label "Mellem">
 <!ENTITY size-mediumCmd.accesskey "e">
-<!ENTITY size-largeCmd.label "stor">
+<!ENTITY size-largeCmd.label "Stor">
 <!ENTITY size-largeCmd.accesskey "o">
-<!ENTITY size-extraLargeCmd.label "meget stor">
+<!ENTITY size-extraLargeCmd.label "Meget stor">
 <!ENTITY size-extraLargeCmd.accesskey "t">
-<!ENTITY size-hugeCmd.label "enorm">
+<!ENTITY size-hugeCmd.label "Enorm">
 <!ENTITY size-hugeCmd.accesskey "r">
 
 <!-- Font Style SubMenu -->

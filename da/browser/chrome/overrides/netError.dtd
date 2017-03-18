@@ -21,13 +21,14 @@
 <!ENTITY dnsNotFound.title "Serveren blev ikke fundet">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
-  <li>Undersøg adressen for tastefejl, såsom
-    <strong>ww</strong>.eksempel.dk i stedet for
-    <strong>www</strong>.eksempel.dk</li>
-  <li>Hvis du ikke kan indlæse nogen sider overhovedet, undersøg da din
-   computers netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da 
-  for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Kontrollér, om adressen indeholder tastefejl, fx 
+    <strong>ww</strong>.eksempel.dk i stedet for 
+    <strong>www</strong>.eksempel.dk</li> 
+  <li>Hvis du ikke kan indlæse nogen sider overhovedet, så
+    kontrollér din computers netværksforbindelse.</li> 
+  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, 
+    så kontrollér, om &brandShortName;  har tilladelse til at tilgå nettet
+    i firewallen eller proxyens indstillinger.</li>
 </ul>
 ">
 
@@ -42,7 +43,7 @@
 <!ENTITY fileAccessDenied.title "Filen kunne ikke tilgås">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
-  <li>Den kan være blevet slettet, flyttet, eller fil-tilladelserne kan forhindre adgang.</li>
+  <li>Den kan være blevet slettet, flyttet, eller tilladelserne for filen kan forhindre adgang.</li>
 </ul>
 ">
 
@@ -50,6 +51,13 @@
 <!ENTITY generic.longDesc "
 <p>&brandShortName; kan ikke indlæse denne side af en eller anden grund.</p>
 ">
+
+<!ENTITY captivePortal.title "Login til netværk">
+<!ENTITY captivePortal.longDesc "
+<p>Dette netværk kræver muligvis, at du skal logge ind for at bruge internettet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label "Åbn login-siden">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
 <!ENTITY malformedURI.longDesc "
@@ -104,7 +112,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
     fungerer.</li>
 </ul>
@@ -113,10 +121,11 @@
 <!ENTITY proxyResolveFailure.title "Kunne ikke finde proxyserveren">
 <!ENTITY proxyResolveFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
-  <li>Undersøg om din computer har en fungerende netværksforbindelse.</li>
-  <li>Hvis din computer eller netværk er beskyttet af en firewall eller proxy, sørg da
-  for at &brandShortName; har tilladelse til at tilgå nettet.</li>
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér om din computer har en fungerende netværksforbindelse.</li>
+  <li>Hvis din computer eller dit netværk er beskyttet af en firewall eller proxy, 
+    så kontrollér, om &brandShortName;  har tilladelse til at tilgå nettet
+    i firewallen eller proxyens indstillinger.</li>
 </ul>
 ">
 
@@ -190,9 +199,11 @@ was trying to connect. -->
 <!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
 <!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
 
-<!-- LOCALIZATION NOTE (certerror.wrongSystemTime) - The <span id='..' /> tags will be injected with actual values,
-     please leave them unchanged. -->
-<!ENTITY certerror.wrongSystemTime "<p>Det er ikke muligt at oprette en sikker forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet.</p> <p>Din computer mener, at det er <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
+<!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
+                        certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
+     tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTime_URL'/>, fordi din computers ur lader til at være forkert indstillet, hvilket forhindrer, at en sikker forbindelse kan oprettes.</p> <p>Din computer er indstillet til <span id='wrongSystemTime_systemDate'/>, men det burde være <span id='wrongSystemTime_actualDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; oprettede ikke forbindelse til <span id='wrongSystemTimeWithoutReference_URL'/> fordi din computers ur lader til at være forkert indstillet</p> <p>Din computer er indstillet til <span id='wrongSystemTimeWithoutReference_systemDate'/>. Indstil dato og klokkeslæt korrekt for at løse dette problem.</p>">
 
 <!ENTITY certerror.pagetitle1  "Usikker forbindelse">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Webstedet bruger  HTTP

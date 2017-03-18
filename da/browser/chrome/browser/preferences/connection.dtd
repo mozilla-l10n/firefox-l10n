@@ -4,8 +4,8 @@
 
 
 <!ENTITY connectionsDialog.title       "Forbindelsesindstillinger">
-<!ENTITY window.width                  "37em">
-<!ENTITY window.macWidth               "39em">
+<!ENTITY  window.width2                 "44em">
+<!ENTITY  window.macWidth2              "44em">
 
 <!ENTITY proxyTitle.label              "Konfigurer proxier til at tilgå internettet">
 <!ENTITY noProxyTypeRadio.label        "Ingen proxy">

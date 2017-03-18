@@ -161,7 +161,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisPageCmd.label "Bogmærk denne side">
 <!ENTITY editThisBookmarkCmd.label "Rediger bogmærke">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
-<!ENTITY markPageCmd.commandkey "l">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -187,16 +186,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY otherBookmarksCmd.label "Andre bogmærker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 <!ENTITY showRecentlyBookmarked.label     "Vis de seneste bogmærker">
-<!ENTITY showRecentlyBookmarked.accesskey "s">
-<!ENTITY hideRecentlyBookmarked.label     "Skjul seneste bogmærker">
-<!ENTITY hideRecentlyBookmarked.accesskey "S">
+<!ENTITY showRecentlyBookmarked.accesskey "d">
+<!ENTITY hideRecentlyBookmarked.label     "Skjul de seneste bogmærker">
+<!ENTITY hideRecentlyBookmarked.accesskey "d">
 
 <!ENTITY backCmd.label                "Tilbage">
 <!ENTITY backButton.tooltip           "Gå en side tilbage">
 <!ENTITY forwardCmd.label             "Fremad">
 <!ENTITY forwardButton.tooltip        "Gå en side fremad">
-<!ENTITY backForwardButtonMenu.tooltip "Højreklik eller træk ned for at vise historik">
-<!ENTITY backForwardButtonMenuMac.tooltip "Træk ned for at vise historik">
+<!ENTITY backForwardButtonMenu.tooltip "Højreklik eller klik og hold nede for at vise historik">
+<!ENTITY backForwardButtonMenuMac.tooltip "Klik og hold nede for at vise historik">
 <!ENTITY reloadCmd.label              "Genindlæs">
 <!ENTITY reloadButton.tooltip         "Genindlæs nuværende side">
 <!ENTITY stopCmd.label                "Stop">
@@ -207,32 +206,34 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.tooltip          "Udskriv denne side">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Vis information om websted">
-<!-- LOCALIZATION NOTE: all of the following urlbar NotificationAnchor.label strings are
-     used to provide accessible labels to users of assistive technology like screenreaders.
-     It is not possible to see them visually in the UI. -->
-<!ENTITY urlbar.defaultNotificationAnchor.label         "Vis en besked">
-<!ENTITY urlbar.geolocationNotificationAnchor.label     "Vis positions-forespørgslen">
-<!ENTITY urlbar.addonsNotificationAnchor.label          "Vis beskeden om installering af tilføjelse">
-<!ENTITY urlbar.indexedDBNotificationAnchor.label       "Vis beskeden om app-offline-lager">
-<!ENTITY urlbar.loginFillNotificationAnchor.label       "Administrer din login-information">
-<!ENTITY urlbar.passwordNotificationAnchor.label        "Markér, hvis du vil gemme din adgangskode">
-<!ENTITY urlbar.pluginsNotificationAnchor.label         "Administrer brug af plugins på denne side">
-<!ENTITY urlbar.webNotsNotificationAnchor3.label        "Vælg om du vil modtage beskeder fra webstedet">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.label      "Administrer deling af dit kamera og/eller mikrofon med webstedet">
-<!ENTITY urlbar.webRTCSharingDevicesNotificationAnchor.label    "Du deler dit kamera og/eller din mikrofon med webstedet">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.label   "Administrer deling af din mikrofon med webstedet">
-<!ENTITY urlbar.webRTCSharingMicrophoneNotificationAnchor.label "Du deler din mikrofon med webstedet">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.label       "Administrer deling af dine vinduer eller skærm med webstedet">
-<!ENTITY urlbar.webRTCSharingScreenNotificationAnchor.label     "Du deler et vindue eller din skærm med webstedet">
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip       "Åbn panelet for beskeder">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip   "Åbn panelet for positions-forespørgsler">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip        "Åbn panelet for beskeder om installering af tilføjelser">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip     "Åbn panelet for beskeder om app-offline-lager">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip      "Åbn panelet for beskeder om at gemme adgangskoder">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
+<!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du vil modtage beskeder fra webstedet">
 
-<!ENTITY urlbar.pointerLockNotificationAnchor.label     "Vælg om webstedet kan skjule markøren">
-<!ENTITY urlbar.servicesNotificationAnchor.label        "Vis beskeden om installering af service">
-<!ENTITY urlbar.translateNotificationAnchor.label       "Oversæt siden">
-<!ENTITY urlbar.translatedNotificationAnchor.label      "Administrer side-oversættelser">
-<!ENTITY urlbar.emeNotificationAnchor.label             "Administrer brug af DRM-software">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip      "Administrer deling af dine vinduer eller skærm med webstedet">
+
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Åbn panelet for beskeder om installering">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Oversæt siden">
+<!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrer side-oversættelser">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrer brug af DRM-software">
+
+<!ENTITY urlbar.cameraBlocked.tooltip            "Du har blokeret dit kamera for dette websted.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Du har blokeret din mikrofon for dette websted.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Du har blokeret skærmdeling for dette websted.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokeret dette websteds mulighed for at kende din position.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokeret datalagring for dette websted.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokeret beskeder fra dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
+
+<!ENTITY urlbar.zoomReset.tooltip     "Nulstil zoom-niveau">
 
 <!ENTITY searchItem.title             "Søgefelt">
 
@@ -392,6 +393,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Søg eller indtast en adresse">
 <!ENTITY urlbar.accesskey             "d">
 <!ENTITY urlbar.switchToTab.label     "Skift til faneblad:">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Udvidelse:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vil du have din søgning forbedret med søgeforslag?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Læs mere…">
@@ -425,11 +428,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
-<!-- LOCALIZATION NOTE (contentSearchInput.label, contentSearchSubmit.label):
-     These are set as the aria-label attribute for the search input box and
-     submit button in the in-content search UI, to be used by screen readers. -->
+<!-- LOCALIZATION NOTE (contentSearchInput.label):
+     This is set as the aria-label attribute for the search input box in the
+     in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Søgeforespørgsel">
-<!ENTITY contentSearchSubmit.label    "Søg">
+<!ENTITY contentSearchSubmit.tooltip    "Søg">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -455,6 +458,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Skift søgeindstillinger">
+<!ENTITY changeSearchSettings.tooltip "Skift søgeindstillinger">
 
 <!ENTITY searchInNewTab.label         "Søg i nyt faneblad">
 <!ENTITY searchInNewTab.accesskey     "f">
@@ -664,14 +668,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "Rediger indstillinger for blokering af pop op-vinduer for dette websted">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "T">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "Rediger indstillinger for blokering af pop op-vinduer…">
 <!ENTITY editPopupSettings.label "Rediger indstillinger for blokering af pop op-vinduer…">
-<!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY editPopupSettings.accesskey "R">
+<!ENTITY dontShowMessage.accesskey "V">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "Skift sideretning">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "g">
@@ -732,6 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Tilladelser">
 <!ENTITY identity.permissionsEmpty "Du har ikke tildelt dette websted nogle særlige tilladelser.">
+<!ENTITY identity.permissionsReloadHint "Du skal muligvis genindlæse siden, før at ændringerne slår igennem.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -751,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Aktivér synkronisering af faneblade for at se en liste med faneblade, der er åbne på dine andre enheder.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Åbn">
 <!ENTITY syncedTabs.context.open.accesskey                   "Å">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Åbn i et nyt faneblad">
@@ -764,6 +773,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopier">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Åbn alle i faneblade">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "a">
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
@@ -775,21 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncReAuthItem.accesskey     "G">
 <!ENTITY syncToolbarButton.label      "Sync">
 
-<!ENTITY socialToolbar.title        "Social værktøjsknap">
-
-<!ENTITY social.ok.label       "OK">
-<!ENTITY social.ok.accesskey   "O">
-
-<!ENTITY social.toggleSidebar.label "Vis sidepanel">
-<!ENTITY social.toggleSidebar.accesskey "V">
-
 <!ENTITY social.addons.label "Administrer tjenester…">
-
-<!ENTITY social.toggleNotifications.label "Vis systembeskeder">
-<!ENTITY social.toggleNotifications.accesskey "s">
-
-<!ENTITY social.learnMore.label "Læs mere…">
-<!ENTITY social.learnMore.accesskey "L">
 
 <!ENTITY social.directory.label "Delings-tjenester">
 <!ENTITY social.directory.text "Du har ingen aktive delings-tjenester">
@@ -810,15 +807,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent flere temaer">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
-
-<!ENTITY social.chatBar.commandkey "c">
-<!ENTITY social.chatBar.label "Flyt fokus til chats">
-<!ENTITY social.chatBar.accesskey "c">
-
-<!ENTITY social.markpageMenu.accesskey "s">
-<!ENTITY social.markpageMenu.label "Gem side til…">
-<!ENTITY social.marklinkMenu.accesskey "l">
-<!ENTITY social.marklinkMenu.label "Gem link til…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera til deling:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -853,8 +841,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Aktiver beskyttelse">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 <!ENTITY trackingContentBlocked.disabled.message "Beskyttelse mod sporing er deaktiveret">
-
-<!ENTITY pointerLock.notification.message "Tryk på ESC for at få den vist igen.">
 
 <!ENTITY pluginNotification.showAll.label "Vis alle">
 <!ENTITY pluginNotification.showAll.accesskey "V">

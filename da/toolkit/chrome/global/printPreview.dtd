@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Tilpas side">
 <!ENTITY customPrompt.title   "Tilpasset skalering…">
 <!ENTITY simplifyPage.label   "Forenklet side">
+<!ENTITY simplifyPage.accesskey "F">
 <!ENTITY simplifyPage.enabled.tooltip  "Skift layout for nemmere læsning">
 <!ENTITY simplifyPage.disabled.tooltip "Denne side kan forenkles automatisk">
 

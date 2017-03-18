@@ -306,4 +306,4 @@
 
 <!-- Identity popup customize menuitem -->
 <!ENTITY customizeFromAddress.label "Tilpas afsenderadresse…">
-<!ENTITY customizeFromAddress.accesskey "T">
+<!ENTITY customizeFromAddress.accesskey "a">

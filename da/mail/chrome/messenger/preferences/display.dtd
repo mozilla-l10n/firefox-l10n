@@ -28,10 +28,10 @@
 
 <!-- labels -->
 <!ENTITY displayTagsText.label "Mærkater kan bruges til at kategorisere og prioritere dine meddelelser">
-<!ENTITY addTagButton.label "Tilføj">
-<!ENTITY addTagButton.accesskey "T">
-<!ENTITY editTagButton.label "Rediger">
-<!ENTITY editTagButton.accesskey "R">
+<!ENTITY newTagButton.label        "Nyt…">
+<!ENTITY newTagButton.accesskey    "N">
+<!ENTITY editTagButton1.label "Rediger…">
+<!ENTITY editTagButton1.accesskey "R">
 <!ENTITY removeTagButton.label "Slet">
 <!ENTITY removeTagButton.accesskey "S">
 

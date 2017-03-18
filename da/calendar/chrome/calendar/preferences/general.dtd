@@ -40,3 +40,7 @@
 <!ENTITY pref.accessibility.label "Tilgængelighed" >
 <!ENTITY pref.systemcolors.label "Optimer farver for tilgængelighed" >
 <!ENTITY pref.systemcolors.accesskey "O">
+
+<!ENTITY pref.eventsandtasks.label "Begivenheder og opgaver" >
+<!ENTITY pref.editInTab.label "Rediger begivenheder og opgaver i et faneblad i stedet for i et vindue." >
+<!ENTITY pref.editInTab.accesskey "R">

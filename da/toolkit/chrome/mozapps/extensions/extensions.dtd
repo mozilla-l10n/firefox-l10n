@@ -20,6 +20,9 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Indstillinger for alle tilføjelser">
 
+<!ENTITY getThemes.description                "Vil du gøre din browser mere personlig?">
+<!ENTITY getThemes.learnMore                  "Vælg mellem tusindvis af temaer.">
+
 <!ENTITY cmd.back.tooltip                     "Gå en side tilbage">
 <!ENTITY cmd.forward.tooltip                  "Gå en side frem">
 
@@ -246,3 +249,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "Udviklere, som vil have deres tilføjelser bekræftet, kan starte med at læse vores ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.description "Mangler du noget? Nogle plugins er ikke længere understøttet af &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Læs mere.">

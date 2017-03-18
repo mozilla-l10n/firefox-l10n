@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Brug altid markør og tastatur til at navigere på sider">
 <!ENTITY useCursorNavigation.accesskey   "m">
-<!ENTITY searchStartTyping.label         "Begynd søgning mens du taster">
-<!ENTITY searchStartTyping.accesskey     "s">
-<!ENTITY blockAutoRefresh.label          "Advar mig når sider forsøger at viderestille eller genindlæse siden">
-<!ENTITY blockAutoRefresh.accesskey      "r">
+<!ENTITY searchOnStartTyping.label         "Begynd søgning mens du taster">
+<!ENTITY searchOnStartTyping.accesskey     "s">
+<!ENTITY blockAutoReload.label          "Advar mig når sider forsøger at viderestille eller genindlæse siden">
+<!ENTITY blockAutoReload.accesskey      "r">
 <!ENTITY useOnScreenKeyboard.label       "Vis et berørings-tastatur, når det er nødvendigt">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -23,10 +23,10 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Anvend blød scrolling">
 <!ENTITY useSmoothScrolling.accesskey    "b">
-<!ENTITY allowHWAccel.label              "Brug hardwareacceleration hvor muligt">
+<!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey          "g">
-<!ENTITY checkSpelling.label             "Kontroller min stavning mens jeg taster">
-<!ENTITY checkSpelling.accesskey         "K">
+<!ENTITY checkUserSpelling.label         "Kontroller min stavning mens jeg taster">
+<!ENTITY checkUserSpelling.accesskey     "K">
 
 <!ENTITY dataChoicesTab.label            "Datadeling">
 
@@ -40,9 +40,9 @@
 <!ENTITY enableTelemetryData.accesskey       "T">
 <!ENTITY telemetryLearnMore.label        "Læs mere">
 
-<!ENTITY crashReporterDesc.label         "&brandShortName; sender fejlrapporter for at hjælpe &vendorShortName; med at gøre din browser mere stabil og sikker">
-<!ENTITY enableCrashReporter.label       "Aktiver fejlrapportering">
-<!ENTITY enableCrashReporter.accesskey   "F">
+<!ENTITY crashReporterDesc2.label         "Fejlrapporter hjælper &vendorShortName; med at gøre din browser mere stabil og sikker">
+<!ENTITY alwaysSubmitCrashReports.label   "Tillad at &brandShortName; sender ophobede fejlrapporter på dine vegne">
+<!ENTITY alwaysSubmitCrashReports.accesskey "f">
 <!ENTITY crashReporterLearnMore.label    "Læs mere">
 
 <!ENTITY networkTab.label                "Netværk">
@@ -56,6 +56,14 @@
 <!ENTITY httpCache.label                 "Cache af webindhold">
 
 <!ENTITY offlineStorage2.label           "Offline webindhold og brugerdata">
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Websteds-data">
+<!ENTITY clearSiteData.label             "Ryd al data">
+<!ENTITY clearSiteData.accesskey         "y">
+<!ENTITY siteDataSettings.label          "Indstillinger…">
+<!ENTITY siteDataSettings.accesskey      "n">
+<!ENTITY siteDataLearnMoreLink.label     "Læs mere">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -75,11 +83,11 @@
 
 <!ENTITY updateTab.label                 "Opdateringer">
 
-<!ENTITY updateApp.label                 "&brandShortName;-opdateringer:">
+<!ENTITY updateApplication.label          "&brandShortName;-opdateringer">
 <!ENTITY updateAuto1.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto1.accesskey            "A">
-<!ENTITY updateCheck.label               "Søg efter opdateringer, men lad mig vælge om de skal installeres">
-<!ENTITY updateCheck.accesskey           "S">
+<!ENTITY updateCheckChoose.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheckChoose.accesskey     "S">
 <!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -89,14 +97,14 @@
 <!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY updateOthers.label              "Opdater automatisk:">
+<!ENTITY autoUpdateOthers.label          "Opdater automatisk">
 <!ENTITY enableSearchUpdate.label        "Søgetjenester">
 <!ENTITY enableSearchUpdate.accesskey    "g">
 
-<!ENTITY offlineNotify.label             "Fortæl mig når et websted ønsker at lagre data til brug offline">
-<!ENTITY offlineNotify.accesskey         "o">
-<!ENTITY offlineNotifyExceptions.label   "Undtagelser…">
-<!ENTITY offlineNotifyExceptions.accesskey "U">
+<!ENTITY offlineStorageNotify.label               "Fortæl mig når et websted ønsker at lagre data til brug offline">
+<!ENTITY offlineStorageNotify.accesskey           "o">
+<!ENTITY offlineStorageNotifyExceptions.label     "Undtagelser…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "U">
 
 <!ENTITY offlineAppsList2.label           "Følgende websteder har tilladelse til at gemme data til brug offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -105,12 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Fjern offline data">
 
 <!ENTITY certificateTab.label            "Certifikater">
-<!ENTITY certSelection.label             "Forespørgsler">
-<!ENTITY certSelection.description       "Når en server forespørger mit personlige certifikat:">
-<!ENTITY certs.auto                      "Vælg et automatisk">
-<!ENTITY certs.auto.accesskey            "l">
-<!ENTITY certs.ask                       "Spørg mig hver gang">
-<!ENTITY certs.ask.accesskey             "p">
+<!ENTITY certPersonal.label              "Forespørgsler">
+<!ENTITY certPersonal.description        "Når en server anmoder om mit personlige certifikat:">
+<!ENTITY selectCerts.auto                "Vælg et automatisk">
+<!ENTITY selectCerts.auto.accesskey      "V">
+<!ENTITY selectCerts.ask                 "Spørg mig hver gang">
+<!ENTITY selectCerts.ask.accesskey       "h">
 <!ENTITY enableOCSP.label                "Send forespørgsel til OCSP responder-servere for at bekræfte certifikaters aktuelle gyldighed">
 <!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "Vis certifikater">

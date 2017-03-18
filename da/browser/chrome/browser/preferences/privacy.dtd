@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "Læs mere">
 <!ENTITY  browserContainersEnabled.label        "Aktivér kontekst-faneblade">
 <!ENTITY  browserContainersEnabled.accesskey    "A">
+<!ENTITY  browserContainersSettings.label        "Indstillinger…">
+<!ENTITY  browserContainersSettings.accesskey    "n">

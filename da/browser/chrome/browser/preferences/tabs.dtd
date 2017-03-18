@@ -8,14 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Åbn links i faneblade, hvor de ellers ville blive åbnet i vinduer">
 <!ENTITY newWindowsAsTabs.accesskey   "f">
 
-<!ENTITY warnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
-<!ENTITY warnCloseMultipleTabs.accesskey  "l">
+<!ENTITY warnOnCloseMultipleTabs.label  "Advar mig, når jeg lukker flere faneblade">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "l">
 
-<!ENTITY warnOpenManyTabs.label       "Advar mig, hvis jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
-<!ENTITY warnOpenManyTabs.accesskey   "å">
+<!ENTITY warnOnOpenManyTabs.label       "Advar mig, hvis jeg åbner flere faneblade, som kan gøre &brandShortName; langsommere">
+<!ENTITY warnOnOpenManyTabs.accesskey   "å">
 
-<!ENTITY switchToNewTabs.label        "Skift fokus til det nye faneblad, når jeg åbner et link deri">
-<!ENTITY switchToNewTabs.accesskey    "S">
+<!ENTITY switchLinksToNewTabs.label        "Skift fokus til det nye faneblad, når jeg åbner et link i det">
+<!ENTITY switchLinksToNewTabs.accesskey    "S">
 
 <!ENTITY showTabsInTaskbar.label          "Vis forhåndsvisning for faneblade på Windows Proceslinje">
 <!ENTITY showTabsInTaskbar.accesskey      "W">

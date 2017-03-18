@@ -75,9 +75,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
-<!ENTITY propertiesCmd2.label                           "Egenskaber">
-<!ENTITY propertiesCmd2.accesskey                       "E">
+<!ENTITY propertiesMenu.label                           "Egenskaber">
+<!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key "i">
+<!ENTITY abPropertiesMenu.label                         "Egenskaber for adressebog">
+<!ENTITY abPropertiesMenu.accesskey                     "E">
+<!ENTITY contactPropertiesMenu.label                    "Egenskaber for kontakt">
+<!ENTITY contactPropertiesMenu.accesskey                "E">
+<!ENTITY mailingListPropertiesMenu.label                "Egenskaber for mailingliste">
+<!ENTITY mailingListPropertiesMenu.accesskey            "E">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis">
@@ -133,8 +139,17 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "K">
 <!ENTITY newlistButton.label "Ny mailingliste">
 <!ENTITY newlistButton.accesskey "L">
-<!ENTITY editButton2.label "Egenskaber">
-<!ENTITY editButton2.accesskey "E">
+<!ENTITY showAsDefault.label                            "Standardmappe ved start">
+<!ENTITY showAsDefault.accesskey                        "S">
+<!ENTITY editPropertiesButton.label                     "Rediger">
+<!ENTITY propertiesContext.label                        "Egenskaber">
+<!ENTITY propertiesContext.accesskey                    "E">
+<!ENTITY abPropertiesContext.label                      "Egenskaber">
+<!ENTITY abPropertiesContext.accesskey                  "E">
+<!ENTITY editContactContext.label                       "Rediger kontakt">
+<!ENTITY editContactContext.accesskey                   "E">
+<!ENTITY editMailingListContext.label                   "Rediger liste">
+<!ENTITY editMailingListContext.accesskey               "E">
 <!ENTITY newmsgButton.label "Skriv">
 <!ENTITY newmsgButton.accesskey "S">
 <!ENTITY newIM.label "IM">
@@ -147,7 +162,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip  "Opret en ny kontakt">
 <!ENTITY newlistButton.tooltip "Opret en ny mailingliste">
-<!ENTITY editButton2.tooltip "Rediger det valgte element">
+<!ENTITY editPropertiesButton.tooltip                   "Rediger det valgte element">
+<!ENTITY editAbPropertiesButton.tooltip                 "Rediger egenskaber for den valgte adressebog">
+<!ENTITY editContactPropertiesButton.tooltip            "Rediger den valgte kontakt">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Rediger den valgte mailingliste">
 <!ENTITY newmsgButton.tooltip "Skriv en ny meddelelse">
 <!ENTITY newIM.tooltip "Send en &quot;instant message&quot; eller chat">
 <!ENTITY deleteButton2.tooltip "Slet valgte element">
