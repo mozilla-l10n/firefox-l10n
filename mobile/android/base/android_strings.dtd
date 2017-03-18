@@ -290,7 +290,7 @@
 <!ENTITY tracking_protection_prompt_title "Ahora con protección de rastreo">
 <!ENTITY tracking_protection_prompt_text "Activamente bloqueando elementos de rastreo, así que no tienes de que preocuparte.">
 <!ENTITY tracking_protection_prompt_tip_text "Visita la configuración de privacidad para saber más">
-<!ENTITY tracking_protection_prompt_action_button "¡Lo tengo!">
+<!ENTITY tracking_protection_prompt_action_button "¡Entendido!">
 
 <!ENTITY tab_queue_toast_message3 "Pestaña guardada en &brandShortName;">
 <!ENTITY tab_queue_toast_action "Abrir ahora">
