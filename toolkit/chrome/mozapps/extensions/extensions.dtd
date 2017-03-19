@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "সব অ্যাড-অন এর জন্য টুল">
 
-
+<!ENTITY getThemes.description                "আপনার ব্রাউজার নিজের মত করতে চান?">
+<!ENTITY getThemes.learnMore                  "হাজার হাজার থিম থেকে পছন্দ করুন">
 
 <!ENTITY cmd.back.tooltip                     "এক পৃষ্ঠা আগে যান">
 <!ENTITY cmd.forward.tooltip                  "এক পৃষ্ঠা পরে যান">
