@@ -10,7 +10,7 @@
 <!ENTITY addToAddressBook.accesskey     "θ">
 <!ENTITY ListName.label                 "Όνομα λίστας: ">
 <!ENTITY ListName.accesskey             "Λ">
-<!ENTITY ListNickName.label             "Προσωνύμιο λίστας:">
+<!ENTITY ListNickName.label             "Ψευδώνυμο λίστας: ">
 <!ENTITY ListNickName.accesskey         "ν">
 <!ENTITY ListDescription.label          "Περιγραφή:">
 <!ENTITY ListDescription.accesskey      "ε">

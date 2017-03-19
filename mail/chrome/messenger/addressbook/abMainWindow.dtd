@@ -182,7 +182,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY searchItem.title "Γρήγορη αναζήτηση">
 
 <!-- Results Pane -->
-<!ENTITY Addrbook.label                                 "Βιβλίο Διευθύνσεων">
+<!ENTITY Addrbook.label                                 "Βιβλίο διευθύνσεων">
 <!ENTITY Addrbook.accesskey                             "β">
 <!ENTITY GeneratedName.label                            "Όνομα">
 <!ENTITY GeneratedName.accesskey                        "ν">
