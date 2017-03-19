@@ -12,14 +12,14 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikkje å kopla til">
+<!ENTITY connectionFailure.title "Klarte ikkje å kople til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Tilgjenge til denne adressa er avgrensa">
+<!ENTITY deniedPortAccess.title "Tilgang til denne adressa er avgrensa">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Fann ikkje tenaren">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Sjå om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li> <li>Dersom du ikkje greier å lasta inn nettsider, kontroller at nettverkssambandet til datamaskina er i orden.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruka Internett.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Sjå om det er skrivefeil i adressa, til dømes <strong>ww</strong>.example.com i staden for <strong>www</strong>.example.com</li> <li>Dersom du ikkje greier å laste inn nettsider, kontroller at nettverkssambandet til datamaskina er i orden.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å bruke Internett.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Fann ikkje fila">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kontroller filnamnet etter skilnader i store/små bokstavar eller andre skrivefeil.</li> <li>Kontroller om fila er flytta, har endra namn eller er sletta.</li> </ul>">
@@ -27,7 +27,7 @@
 <!ENTITY fileAccessDenied.title "Tilgang til fila vart nekta">
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Den kan ha vorte fjerna, flytta, eller så kan filrettar hindra tilgang.</li></ul>">
 
-<!ENTITY generic.title "Oops.">
+<!ENTITY generic.title "Ops.">
 <!ENTITY generic.longDesc "<p>&brandShortName; klarte ikkje å laste denne sida av ukjent årsak.</p>">
 
 <!ENTITY captivePortal.title "Logg inn på nettverket">
@@ -44,16 +44,16 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Dokumentet er utgått på dato">
-<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk henta sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å henta dokumentet på nytt frå nettstaden.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Det førespurde dokumentet er ikkje tilgjengeleg i &brandShortName; sitt snøgglager.</p><ul><li>Av tryggingsomsyn tillét ikkje &brandShortName; å automatisk hente sensitive dokument på nytt.</li><li>Trykk Prøv igjen for å hente dokumentet på nytt frå nettstaden.</li></ul>">
 
 <!ENTITY netOffline.title "Fråkopla modus">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Trykk «Prøv igjen» for å byta til tilkopla modus og lasta sida på nytt.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Trykk «Prøv igjen» for å byte til tilkopla modus og laste sida på nytt.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Feil med teiknkoding">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eigarane av nettstaden og informer om problemet.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Kontakt eigarane av nettstaden og informer dei om problemet.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Utrygg filtype">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakt eigaren av nettsida og informer om dette problemet.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>Kontakt eigaren av nettsida og informer dei om dette problemet.</li> </ul>">
 
 <!ENTITY netReset.title "Tilkoplinga vart broten">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -62,13 +62,13 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Klarte ikkje å forstå adressa">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Det kan vera at du må installera anna programvare for å opna denne adressa.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Det kan vere at du må installere anna programvare for å opne denne adressa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å vera viss på at mellomtenaren verkar.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at mellomtenaren fungerar.</li> </ul>">
 
-<!ENTITY proxyResolveFailure.title "Fann ikkje mellomtenar">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å få tilgang til Internett.</li> </ul>">
+<!ENTITY proxyResolveFailure.title "Klarte ikkje å finne mellomtenaren">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsida vidaresender ikkje skikkeleg">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til kome av at infokapslar har vorte slått av eller ved å ikkje godta infokapslar.</li> </ul>">
