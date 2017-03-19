@@ -4,6 +4,7 @@
 <!ENTITY % brandDTD
      SYSTEM "chrome://branding/locale/brand.dtd">
    %brandDTD;
-<!ENTITY aboutLogins.title                       "Lonku">
+<!ENTITY aboutLogins.title                       "Duggkaay">
 <!ENTITY aboutLogins.update                      "Yeesal">
-<!ENTITY aboutLogins.emptyLoginText              "Wóoral say lonku">
+<!ENTITY aboutLogins.emptyLoginText              "Wóoral say duggkaay">
+<!ENTITY aboutLogins.emptyLoginHint              "Duggkaay yi ngay denc ak &brandShortName; lañuy wone ci kaw.">
