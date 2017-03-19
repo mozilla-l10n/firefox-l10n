@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>কোনো কারণে &brandShortName; এই পৃষ্ঠাটি লোড করতে পারছে না।</p>">
 
 <!ENTITY captivePortal.title "নেটওয়ার্কে লগইন করুন">
+<!ENTITY captivePortal.longDesc2 "<p>ইন্টারনেট প্রবেশ করতে হলে, আপনাকে এই নেটওয়ার্কে অবশ্যই লগইন করতে হবে।</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "নেটওয়ার্ক লগইন পৃষ্ঠা খুলুন">
 
 <!ENTITY malformedURI.title "ঠিকানাটি কার্যকর নয়">
 <!ENTITY malformedURI.longDesc "<ul> <li>ওয়েব ঠিকানা সাধারণত এভাবে লেখা হয় - <strong>http://www.example.com/</strong></li> <li>আপনি ফরওয়ার্ড স্ল্যাশ (<strong>/</strong>) ব্যবহার করেছেন কিনা তা পরীক্ষা করুন।</li> </ul>">
