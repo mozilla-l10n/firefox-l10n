@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Ochrana pred sledovaním">
-<!ENTITY trackingProtection.description2                 "Niektoré webové stránky používajú sledovacie prvky, ktoré moniturujú vašu aktivitu na internete. S Ochranou pred sledovaním Firefox zablokuje veľké množstvo týchto sledovacích prvkov.">
+<!ENTITY trackingProtection.description2                 "Niektoré webové stránky používajú sledovacie prvky, ktoré monitorujú vašu aktivitu na internete. S Ochranou pred sledovaním Firefox zablokuje veľké množstvo týchto sledovacích prvkov.">
 <!ENTITY trackingProtection.startTour1                   "Pozrite sa ako to funguje">
