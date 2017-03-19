@@ -123,6 +123,7 @@
      &formatS; will be replaced with the title of the tab, as received from the
      web page. When audio is not playing in a tab, &formatS; will be used as
      the content description. -->
+<!ENTITY tab_title_prefix_is_playing_audio "Dégglug ndéggat –&formatS;">
 
 <!ENTITY settings "Jekk-jekkal">
 <!ENTITY settings_title "Jekk-jekkal">
@@ -153,6 +154,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Mi ngi ci màndarga-xët yi">
 <!ENTITY overlay_share_send_other "Yóonnee ko yeneen jumtukaay">
 
+<!ENTITY overlay_share_open_browser_btn_label "Ubbi ko ci &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -192,32 +194,39 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Delloo ay làcc, aarkaayu njoxe, jumtukaayi suqali">
-<!ENTITY pref_category_notifications "Yëgalukaay">
-<!ENTITY pref_category_notifications_summary "Solo yu bees, yeesali dalub web">
-<!ENTITY pref_content_notifications "Yeesali dalub web">
+<!ENTITY pref_category_notifications "Yëgle">
+<!ENTITY pref_category_notifications_summary "Solo yu yees, xibaari dali web">
+<!ENTITY pref_content_notifications "Xibaari dali web">
 <!ENTITY pref_content_notifications_summary2 "Gis ay ëmbiit yi bees ci dal yiñ nangu">
 <!ENTITY pref_developer_remotedebugging_usb "Caytu ci soree ak USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Caytu ci soree ak WI-FI">
+<!ENTITY pref_remember_signons2 "Fattaliku lonku yi">
+<!ENTITY pref_manage_logins "Yorug lonku yi">
 
-<!ENTITY pref_category_home "Home">
-<!ENTITY pref_category_home_summary "Customize your homepage">
+<!ENTITY pref_category_home "Xët wu njëkk">
+<!ENTITY pref_category_home_summary "Soppi sa xët wu njëkk">
 <!ENTITY pref_category_home_panels "Panels">
-<!ENTITY pref_home_updates_enabled "Enabled">
-<!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
-<!ENTITY pref_category_home_homepage "Page bou djeuk">
-<!ENTITY home_homepage_title "Tanal sa page bou djeuk">
+<!ENTITY pref_category_home_add_ons "Lawal yi">
+<!ENTITY pref_home_updates2 "Yeesalug ëmbeef gi">
+<!ENTITY pref_home_updates_enabled "Doxalees">
+<!ENTITY pref_home_updates_wifi "Ak Wi-Fi rek">
+<!ENTITY pref_category_home_homepage "Xët wu njëkk">
+<!ENTITY home_homepage_title "Tanal sa xët wu njëkk">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
+<!ENTITY home_homepage_radio_default "Xët wu njëkk wu &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
      user to insert an address of their choice. -->
+<!ENTITY home_homepage_radio_user_address "Jëmmalees">
 <!-- Localization note (home_homepage_hint_user_address): The user will see a series of
      radio buttons to choose the homepage they'd like to start on. When they click a
      particular radio button, a text field will appear below the radio button and allow the
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
+<!ENTITY home_homepage_hint_user_address "Duggalal ag màkkaan walla baat booy seet">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_search "Seet">
