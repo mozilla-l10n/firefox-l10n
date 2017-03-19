@@ -229,24 +229,36 @@
 <!ENTITY home_homepage_hint_user_address "Duggalal ag màkkaan walla baat booy seet">
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
+<!ENTITY pref_header_general "Lépp">
 <!ENTITY pref_header_search "Seet">
-<!ENTITY pref_header_privacy_short "Privacy">
-<!ENTITY pref_header_help "Help">
+<!ENTITY pref_header_privacy_short "Sutura">
+<!ENTITY pref_header_accessibility "Jotiin">
+<!ENTITY pref_header_notifications "Yëgle">
+<!ENTITY pref_header_advanced "Xóot">
+<!ENTITY pref_header_help "Ndimbal">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
-<!ENTITY pref_cookies_menu "Kuki yi">
-<!ENTITY pref_cookies_accept_all "Suqaliku">
-<!ENTITY pref_cookies_disabled "Suuxal">
+<!ENTITY pref_cookies_menu "Cookies">
+<!ENTITY pref_cookies_accept_all "Doxalees">
+<!ENTITY pref_cookies_disabled "Doxadilees">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_developer_tools "Djoumtoukayou developpeur">
+<!ENTITY pref_category_data_saver "Sakkanalukaayu njoxeef">
+<!ENTITY pref_category_media "Xibaarukaay">
+<!ENTITY pref_category_developer_tools "Jumtukaayi suqalikat">
 
-<!ENTITY pref_tap_to_load_images_enabled "Sa sounee">
+<!ENTITY pref_tap_to_load_images_title2 "Wone nataal yi">
+<!ENTITY pref_tap_to_load_images_enabled "Ba faww">
+<!ENTITY pref_tap_to_load_images_data "Ak Wi-Fi rekk">
+<!ENTITY pref_tap_to_load_images_disabled2 "Téye">
 
+<!ENTITY pref_show_web_fonts "Wone arafi web yi">
 
-<!ENTITY pref_donottrack_title "Do not track">
+<!ENTITY pref_tracking_protection_title2 "Kaaraange bañ ku lay topp">
+<!ENTITY pref_tracking_protection_summary3 "Doxalees ko sooy joow ci sutura">
+<!ENTITY pref_donottrack_title "Buñ ma topp">
 <!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
 
 
