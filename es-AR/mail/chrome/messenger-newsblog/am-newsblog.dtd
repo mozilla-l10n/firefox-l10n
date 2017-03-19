@@ -2,23 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Buscar nuevos mensajes cada ">
-<!ENTITY biffStart.accesskey "B">
-<!ENTITY biffEnd.label "minutos">
+<!ENTITY loginAtStartup.label          "Comprobar si hay mensajes nuevos al iniciar">
+<!ENTITY loginAtStartup.accesskey      "C">
+<!ENTITY biffAll.label                 "Habilitar actualizaciones para todos los canales">
+<!ENTITY biffAll.accesskey             "e">
 
-<!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar">
-<!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY newFeedSettings.label         "Configuración predeterminada para nuevos canales">
 
-<!ENTITY useQuickMode.label "Mostrar de forma predeterminada el resumen de artículos en vez de cargar la página web">
-<!ENTITY useQuickMode.accesskey "B">
-
-<!ENTITY manageSubscriptions.label "Administrar suscripciones…">
+<!ENTITY manageSubscriptions.label     "Administrar suscripciones…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "Asistente de cuentas de canal">
-
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.accountName "Blogs y canales de noticias">
-<!ENTITY feeds.wizardShortName "Canales">  
-<!ENTITY feeds.wizardLongName "Blogs y canales de noticias">
-<!ENTITY feeds.wizardLongName.accesskey "B">
+<!ENTITY feedWindowTitle.label         "Asistente de cuentas de canal">
+<!ENTITY feeds.accountName             "Blogs y canales de noticias">
