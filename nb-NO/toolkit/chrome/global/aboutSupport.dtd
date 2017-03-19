@@ -109,6 +109,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier råtekst til utklippstavlen">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandkasse">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekund siden">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Prosesstype">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argument">
 
 <!ENTITY aboutSupport.safeModeTitle "Prøv sikker modus">
 <!ENTITY aboutSupport.restartInSafeMode.label "Start på nytt uten utvidelser …">
