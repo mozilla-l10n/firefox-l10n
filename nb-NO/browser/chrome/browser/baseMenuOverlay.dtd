@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Tastatursnarveier">
 <!ENTITY helpKeyboardShortcuts.accesskey "T">
 
-<!ENTITY helpSafeMode.label       "Start på nytt uten utvidelser …">
+<!ENTITY helpSafeMode.label       "Start på nytt med utvidelser avslått …">
 <!ENTITY helpSafeMode.accesskey   "r">
 <!ENTITY helpSafeMode.stop.label       "Start på nytt med utvidelser påslått">
 <!ENTITY helpSafeMode.stop.accesskey   "S">
