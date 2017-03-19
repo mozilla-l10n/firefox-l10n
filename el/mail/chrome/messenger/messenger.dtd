@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Λήψη μηνυμάτων">
 <!ENTITY folderContextGetMessages.accesskey "Λ">
+<!ENTITY folderContextPauseAllUpdates.label "Παύση όλων των ενημερώσεων">
+<!ENTITY folderContextPauseUpdates.label "Παύση ενημερώσεων">
+<!ENTITY folderContextPauseUpdates.accesskey "Ε">
 <!ENTITY folderContextOpenInNewWindow.label "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ο">
 <!ENTITY folderContextOpenNewTab.label "Άνοιγμα σε νέα καρτέλα">
