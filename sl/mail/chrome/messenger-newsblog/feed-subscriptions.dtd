@@ -18,6 +18,13 @@
 <!ENTITY feedFolder.label            "Shrani članke v:">
 <!ENTITY feedFolder.accesskey        "S">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Preveri za nove članke vsakih ">
+<!ENTITY biffMinutes.label           "minut">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "dni">
+<!ENTITY biffDays.accesskey          "d">
+
 <!ENTITY quickMode.label             "Pokaži povzetek članka namesto nalaganja spletne strani">
 <!ENTITY quickMode.accesskey         "P">
 
@@ -27,6 +34,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "O">
 <!ENTITY autoTagPrefix.placeholder   "Vnes. predpono oznak">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Dodaj">
 <!ENTITY button.addFeed.accesskey    "a">
 <!ENTITY button.updateFeed.label     "Posodobi">
