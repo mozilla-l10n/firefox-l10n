@@ -14,7 +14,7 @@
 <!ENTITY paneComposition.title    "Σύνταξη">
 <!ENTITY paneChat.title           "Συνομιλία">
 <!ENTITY paneAttachments.title    "Συνημμένα">
-<!ENTITY panePrivacy.title        "Ιδιωτικότητα">
+<!ENTITY panePrivacy.title        "Απόρρητο">
 <!ENTITY paneSecurity.title       "Ασφάλεια">
 <!ENTITY paneAdvanced.title       "Για προχωρημένους">
 <!ENTITY paneAccount.title        "Λογαριασμοί">
