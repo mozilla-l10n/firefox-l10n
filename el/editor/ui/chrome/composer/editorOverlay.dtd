@@ -48,9 +48,9 @@
 <!ENTITY insertBreakAllCmd.accesskey "κ">
 
 <!-- Used just in context popup. -->
-<!ENTITY createLinkCmd.label "Δημιουργία δεσμού…">
+<!ENTITY createLinkCmd.label "Δημιουργία συνδέσμου…">
 <!ENTITY createLinkCmd.accesskey "Δ">
-<!ENTITY editLinkCmd.label "Επεξεργασία δεσμού στον Composer">
+<!ENTITY editLinkCmd.label "Επεξεργασία συνδέσμου σε νέα σύνταξη">
 <!ENTITY editLinkCmd.accesskey "μ">
 
 <!-- Font Face SubMenu -->
@@ -300,7 +300,7 @@
 <!ENTITY hruleToolbarCmd.tooltip "Εισαγωγή νέας οριζόντιας γραμμής ή επεξεργασία ιδιοτήτων επιλεγμένης γραμμής">
 <!ENTITY tableToolbarCmd.label "Πίνακας">
 <!ENTITY tableToolbarCmd.tooltip "Εισαγωγή νέου πίνακα ή επεξεργασία ιδιοτήτων επιλεγμένου πίνακα">
-<!ENTITY linkToolbarCmd.label "Δεσμός">
+<!ENTITY linkToolbarCmd.label "Σύνδεσμος">
 <!ENTITY linkToolbarCmd.tooltip "Εισαγωγή νέου ή επεξεργασία ιδιοτήτων επιλεγμένου δεσμού">
 <!ENTITY anchorToolbarCmd.label "Άγκυρα">
 <!ENTITY anchorToolbarCmd.tooltip "Εισαγωγή νέας άγκυρας ή επεξεργασία ιδιοτήτων επιλεγμένης άγκυρας">
@@ -313,7 +313,7 @@
 <!ENTITY absoluteFontSizeToolbarCmd.tooltip "Ορισμός μεγέθους γραμματοσειράς">
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Μικρότερο μέγεθος γραμματοσειράς">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Μεγαλύτερο μέγεθος γραμματοσειράς">
-<!ENTITY boldToolbarCmd.tooltip "'Εντονα">
+<!ENTITY boldToolbarCmd.tooltip "Έντονα">
 <!ENTITY italicToolbarCmd.tooltip "Πλάγια">
 <!ENTITY underlineToolbarCmd.tooltip "Υπογράμμιση">
 <!ENTITY bulletListToolbarCmd.tooltip "Εφαρμογή ή αφαίρεση λίστας με κουκίδες">
@@ -321,7 +321,7 @@
 <!ENTITY outdentToolbarCmd.tooltip "Εξοχή κειμένου (μετακίνηση αριστερά)">
 <!ENTITY indentToolbarCmd.tooltip "Εσοχή κειμένου (μετακίνηση δεξιά)">
 <!ENTITY AlignPopupButton.tooltip "Επιλογή στοίχισης κειμένου">
-<!ENTITY InsertPopupButton.tooltip "Εισαγωγή ενός δεσμού, άγκυρας, εικόνας, οριζόντιας γραμμής, ή πίνακα">
+<!ENTITY InsertPopupButton.tooltip "Εισαγωγή συνδέσμου, άγκυρας, εικόνας, οριζόντιας γραμμής ή πίνακα">
 <!ENTITY alignLeftButton.tooltip "Στοίχιση κειμένου μαζί με αριστερό περιθώριο">
 <!ENTITY alignCenterButton.tooltip "Στοίχιση κειμένου στο κέντρο">
 <!ENTITY alignRightButton.tooltip "Στοίχιση κειμένου μαζί με δεξιό περιθώριο">

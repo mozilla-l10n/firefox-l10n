@@ -67,7 +67,7 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Προβολή πλαισίου γύρω από εικόνα με δεσμό">
 <!ENTITY showImageLinkBorder.accessKey "β">
-<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
+<!ENTITY LinkAdvancedEditButton.label "Προηγμένη επεξεργασία συνδέσμου…">
 <!ENTITY LinkAdvancedEditButton.accessKey "δ">
 <!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">
 
@@ -76,4 +76,4 @@
 <!ENTITY imageLocationTab.label "Τοποθεσία">
 <!ENTITY imageDimensionsTab.label "Διαστάσεις">
 <!ENTITY imageAppearanceTab.label "Εμφάνιση">
-<!ENTITY imageLinkTab.label "Δεσμός">
+<!ENTITY imageLinkTab.label "Σύνδεσμος">
