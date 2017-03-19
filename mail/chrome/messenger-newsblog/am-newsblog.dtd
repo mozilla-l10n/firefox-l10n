@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Ob zagonu preveri, ali obstajajo novi članki">
 <!ENTITY loginAtStartup.accesskey      "n">
+<!ENTITY biffAll.label                 "Omogoči posodobitve za vse vire">
+<!ENTITY biffAll.accesskey             "O">
 
+<!ENTITY newFeedSettings.label         "Privzete nastavitve za nove vire">
 
 <!ENTITY manageSubscriptions.label     "Upravljaj z naročninami …">
 <!ENTITY manageSubscriptions.accesskey "U">
