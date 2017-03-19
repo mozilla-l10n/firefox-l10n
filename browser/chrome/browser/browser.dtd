@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "সব বুকমার্ক প্রদর্শন">
 <!ENTITY recentBookmarks.label "সম্প্রতি বুকমার্ক করা">
 <!ENTITY otherBookmarksCmd.label "অন্য বুকমার্কগুলো">
-
+<!ENTITY mobileBookmarksCmd.label "মোবাইলের বুকমার্ক">
 <!ENTITY bookmarksToolbarChevron.tooltip "আরও বুকমার্ক প্রদর্শন">
 <!ENTITY showRecentlyBookmarked.label     "সাম্প্রতিক বুকমার্ক সমূহ প্রদর্শন">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "বুকমার্ক">
 <!ENTITY bookmarksMenuButton.other.label "অন্যান্য বুকমার্ক">
-
+<!ENTITY bookmarksMenuButton.mobile.label "মোবাইলের বুকমার্ক">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "কোন ট্যাব খোলা নেই">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "আরও দেখাও">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "এই ডিভাইস থেকে আরও ট্যাব দেখাও">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "সব প্রদর্শন">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "এই ডিভাইস থেকে সব ট্যাব দেখাও">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "আপনার অন্যান্য ডিভাইসের ট্যাবসমূহের তালিকা দেখতে, ট্যাব সিঙ্ক চালু করুন।">
