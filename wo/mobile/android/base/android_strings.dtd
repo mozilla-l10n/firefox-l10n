@@ -259,9 +259,14 @@
 <!ENTITY pref_tracking_protection_title2 "Kaaraange bañ ku lay topp">
 <!ENTITY pref_tracking_protection_summary3 "Doxalees ko sooy joow ci sutura">
 <!ENTITY pref_donottrack_title "Buñ ma topp">
-<!ENTITY pref_donottrack_summary "&brandShortName; will tell sites that you do not want to be tracked">
+<!ENTITY pref_donottrack_summary "&brandShortName; di na wax dal yi ne bëggoo ku la topp">
 
+<!ENTITY pref_tracking_protection_enabled "Doxalees">
+<!ENTITY pref_tracking_protection_enabled_pb "Doxalees ko sooy joow ci sutura">
+<!ENTITY pref_tracking_protection_disabled "Doxadilees">
 
+<!ENTITY pref_whats_new_notification "Lu bees ci &brandShortName;">
+<!ENTITY pref_whats_new_notification_summary "Xoolal li fi bees ginnaaw ag yeesal">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
