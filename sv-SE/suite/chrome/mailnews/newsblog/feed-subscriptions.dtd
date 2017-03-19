@@ -16,6 +16,15 @@
 <!ENTITY feedFolder.label            "Lagra artiklar i:">
 <!ENTITY feedFolder.accesskey        "L">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label "Sök efter nya artiklar var ">
+<!ENTITY biffStart.accesskey "ö">
+<!ENTITY biffMinutes.label           "minut">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dag">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Utgivaren rekommenderar:">
+
 <!ENTITY quickMode.label          "Visa artikelsammanfattningen i stället för att hämta webbsidan">
 <!ENTITY quickMode.accesskey      "V">
 
