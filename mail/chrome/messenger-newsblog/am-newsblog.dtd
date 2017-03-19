@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Έλεγχος για νέα άρθρα κατά την εκκίνηση">
 <!ENTITY loginAtStartup.accesskey      "λ">
+<!ENTITY biffAll.label                 "Ενεργοποίηση ενημερώσεων για όλες τις ροές">
+<!ENTITY biffAll.accesskey             "Ε">
 
+<!ENTITY newFeedSettings.label         "Προεπιλεγμένες ρυθμίσεις για ροές ειδήσεων">
 
 <!ENTITY manageSubscriptions.label     "Διαχείριση συνδρομών...">
 <!ENTITY manageSubscriptions.accesskey "Δ">
