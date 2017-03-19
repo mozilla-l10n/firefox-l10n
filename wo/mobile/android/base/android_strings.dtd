@@ -339,7 +339,7 @@ size. -->
 <!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
 
 <!ENTITY pref_use_master_password "Jëfandikoo baatu jàll bi gëna am solo">
-<!ENTITY pref_search_suggestions "Wane tektali wut">
+<!ENTITY pref_search_suggestions "Wone tektali ceet">
 <!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
