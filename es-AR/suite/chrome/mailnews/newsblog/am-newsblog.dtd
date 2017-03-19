@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label "Comprobar si hay mensajes nuevos al iniciar">
 <!ENTITY loginAtStartup.accesskey "C">
+<!ENTITY biffAll.label "Habilitar actualizaciones para todos los canales">
+<!ENTITY biffAll.accesskey "E">
 
+<!ENTITY newFeedSettings.label "Configuración predeterminada para nuevos canales">
 
 <!ENTITY manageSubscriptions.label "Administrar suscripciones…">
 <!ENTITY manageSubscriptions.accesskey "m">
