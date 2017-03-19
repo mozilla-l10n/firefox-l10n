@@ -25,8 +25,8 @@
 <!ENTITY attachments.incoming.label   "Entrante">
 <!ENTITY attachments.outgoing.label   "Saliente">
 
-<!ENTITY addCloudFileAccount.label        "Agregar">
-<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount1.label       "Agregar…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
 <!ENTITY addCloudFileAccount.description  "Agregar un nuevo servicio de almacenamiento Filelink">
 <!ENTITY removeCloudFileAccount.label     "Eliminar">
 <!ENTITY removeCloudFileAccount.accesskey "r">
@@ -36,4 +36,3 @@
 
 <!ENTITY enableCloudFileAccountOffer.label "Ofrecer para compartir archivos de más de">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
-
