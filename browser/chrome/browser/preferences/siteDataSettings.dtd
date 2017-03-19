@@ -15,3 +15,5 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Avbryt">
 <!ENTITY     cancel.accesskey              "A">
+<!ENTITY     removingDialog.title          "Fjerner nettsidedata">
+<!ENTITY     siteTree.label                "Følgende nettstedsinfokapsler fjernes:">
