@@ -47,8 +47,8 @@
 <!ENTITY  errorManual.label               "Ви можете оновити &brandShortName; вручну, перейшовши за наступним посиланням
                                            і завантаживши його останню версію:">
                                            
-<!ENTITY  errorpatching.intro             "Часткове оновлення не може бути встановлене. &brandShortName;
-                                           спробує встановити оновлення, завантаживши повне оновлення.">
+<!ENTITY  errorpatching.intro             "Не вдалося застосувати часткове оновлення. 
+                                           &brandShortName; повторить спробу, завантаживши повне оновлення.">
 
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не може визначити наявність оновлень.
                                            Переконайтеся, що у вас остання версія &brandShortName; від:">
