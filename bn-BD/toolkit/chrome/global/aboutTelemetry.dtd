@@ -6,9 +6,9 @@
 
 <!ENTITY aboutTelemetry.changeDataChoices "  পরিবর্তন">
 
-<!ENTITY aboutTelemetry.uploadEnabled "   FHR  তথ্য আপলোডে <span>সক্রিয়</span>।">
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR  তথ্য আপলোডে <span>সক্রিয়</span>।">
 
-<!ENTITY aboutTelemetry.uploadDisabled "   FHR  তথ্য আপলোডে <span>নিষ্ক্রিয়</span>।">
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR তথ্য আপলোডে <span>নিষ্ক্রিয়</span>।">
 
 <!ENTITY aboutTelemetry.extendedRecordingEnabled "   সম্প্রসারিত টেলিমেট্রি রেকর্ডিং <span>সক্রিয়</span>।">
 
