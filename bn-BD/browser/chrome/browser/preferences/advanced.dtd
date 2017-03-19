@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "আরও জানুন…">
 
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
-
-
+<!ENTITY enableTelemetryData.label       "বাড়তি ডাটা শেয়ার করুন (যেমন টেলিমেট্রি)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "আরও জানুন…">
 
 <!ENTITY crashReporterDesc2.label         "ক্র্যাশ প্রতিবেদনগুলি &vendorShortName; কে সাহায্য করে; সমস্যাগুলি ঠিক করুন এবং আপনার ব্রাউজার আরো স্থিতিশীল এবং নিরাপদ করুন">
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "হালনাগাদ">
 
+<!ENTITY updateApplication.label         "&brandShortName; হালনাগাদ">
 <!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "হালনাগাদকরণ যাচাই করুন, কিন্তু ইনস্টলের পূর্বে আপনাকে জানাবে">
@@ -96,6 +97,7 @@
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "স্বয়ংক্রিয়ভাবে হালনাগাদ">
 <!ENTITY enableSearchUpdate.label        "অনুসন্ধান ইঞ্জিন E">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
