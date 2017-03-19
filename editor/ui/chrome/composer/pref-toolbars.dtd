@@ -19,7 +19,7 @@
 <!ENTITY image.label            "Εικόνα">
 <!ENTITY hline.label            "Οριζ. γραμμή">
 <!ENTITY table.label            "Πίνακας">
-<!ENTITY link.label             "Δεσμός">
+<!ENTITY link.label             "Σύνδεσμος">
 <!ENTITY anchor.label           "Άγκυρα">
 
 <!ENTITY formatting.caption     "Εμφάνιση αυτών των κουμπιών στην εργαλειοθήκη μορφοποίησης:">

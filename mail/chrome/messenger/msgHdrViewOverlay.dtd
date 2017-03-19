@@ -101,7 +101,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Αποθήκευση όλων">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Αποθήκευση όλων των συνημμένων αρχείων">
 
-<!ENTITY copyLinkCmd.label        "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY copyLinkCmd.label        "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey    "τ">
 
 <!ENTITY CopyMessageId.label "Αντιγραφή Message-ID">

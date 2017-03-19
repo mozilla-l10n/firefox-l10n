@@ -913,7 +913,7 @@
 <!ENTITY saveLinkAsCmd.accesskey "δ">
 <!ENTITY saveImageAsCmd.label "Αποθήκευση εικόνας ως">
 <!ENTITY saveImageAsCmd.accesskey "ω">
-<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας δεσμού">
+<!ENTITY copyLinkCmd.label "Αντιγραφή τοποθεσίας συνδέσμου">
 <!ENTITY copyLinkCmd.accesskey "δ">
 <!ENTITY copyImageAllCmd.label "Αντιγραφή εικόνας">
 <!ENTITY copyImageAllCmd.accesskey "ι">
