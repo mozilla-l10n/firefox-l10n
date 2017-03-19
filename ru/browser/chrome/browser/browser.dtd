@@ -276,6 +276,7 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки синхронизации">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Войдите, чтобы увидеть список вкладок с других устройств.">
 <!ENTITY appMenuRemoteTabs.signin.label "Войти в Синхронизацию">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Управление устройствами…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Показать боковую панель облачных вкладок">
 <!ENTITY customizeMenu.addToToolbar.label "Добавить на панель инструментов">
 <!ENTITY customizeMenu.addToToolbar.accesskey "о">
@@ -561,6 +562,8 @@
 <!ENTITY syncedTabs.context.copy.accesskey "и">
 <!ENTITY syncedTabs.context.openAllInTabs.label "Открыть все во вкладках">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey "ы">
+<!ENTITY syncedTabs.context.managedevices.label "Управление устройствами…">
+<!ENTITY syncedTabs.context.managedevices.accesskey "п">
 <!ENTITY syncBrand.shortName.label "Синхронизация">
 <!ENTITY syncSignIn.label "Войти в Синхронизацию…">
 <!ENTITY syncSignIn.accesskey "о">
