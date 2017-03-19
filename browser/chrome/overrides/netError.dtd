@@ -52,7 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "Σύνδεση στο δίκτυο">
+<!ENTITY captivePortal.longDesc2 "
+<p>Πρέπει να συνδεθείτε σε αυτό το δίκτυο πριν μπορέσετε να αποκτήσετε πρόσβαση στο διαδίκτυο.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Άνοιγμα σελίδας σύνδεσης δικτύου">
 
 <!ENTITY malformedURI.title "Η διεύθυνση δεν είναι έγκυρη">
 <!ENTITY malformedURI.longDesc "

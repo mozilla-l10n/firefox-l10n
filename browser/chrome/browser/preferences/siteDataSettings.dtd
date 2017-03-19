@@ -16,4 +16,5 @@
 <!ENTITY     cancel.label                  "Ακύρωση">
 <!ENTITY     cancel.accesskey              "Α">
 <!ENTITY     removingDialog.title          "Αφαίρεση δεδομένων ιστοσελίδας">
+<!ENTITY     removingDialog.description    "Η διαγραφή των δεδομένων ιστοσελίδων θα διαγράψει και τα cookies. Αυτό ενδέχεται να σάς αποσυνδέσει από ιστοσελίδες και να αφαιρέσει το διαδικτυακό περιεχόμενο εκτός σύνδεσης. Θέλετε σίγουρα να εφαρμόσετε τις αλλαγές;">
 <!ENTITY     siteTree.label                "Θα αφαιρεθούν τα ακόλουθα cookies ιστοσελίδων:">

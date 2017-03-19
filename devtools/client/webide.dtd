@@ -183,6 +183,7 @@
 <!ENTITY wifi_auth_no_scanner "Καμία ένδειξη σαρωτή QR;">
 <!-- LOCALIZATION NOTE (wifi_auth_yes_scanner): Link text to assist users with
      devices that can scan a QR code. -->
+<!ENTITY wifi_auth_yes_scanner "Υπάρχει ένδειξη σαρωτή QR;">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 
