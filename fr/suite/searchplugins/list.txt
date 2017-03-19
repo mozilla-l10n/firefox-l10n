@@ -1,5 +1,6 @@
-creativecommons
+cnrtl-tlfi-fr
+duckduckgo
 google
 wikipedia-fr
 yahoo-france
-cnrtl-tlfi-fr
+
