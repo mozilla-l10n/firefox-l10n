@@ -848,7 +848,7 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "了解">
+<!ENTITY activity_stream_dismiss "隱藏">
 <!ENTITY activity_stream_delete_history "從瀏覽紀錄刪除">
 
 <!ENTITY activity_stream_welcome_title "歡迎來到您的重點事項清單">
