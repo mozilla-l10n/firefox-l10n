@@ -80,6 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Tazmilt: Aseɣti n tuttriwin SQL ẓẓayen yermed. Tuttriwin SQL yemden zemrent ad d-waseknent daw-a, acukan ur zmirent ara ad ttwaznent s tilisɣelt.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Awi-d ismawen n twuriwin i tnebdanin">
 
 
 <!ENTITY aboutTelemetry.filterText "  Zizdeg (izriren n isekkilen neɣ tinfaliyin tiluganin)">
