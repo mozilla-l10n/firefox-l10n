@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "সিমুলেটর অপশনস">
 <!ENTITY simulator_remove "সিমুলেটর মুছে ফেলুন">
 <!ENTITY simulator_reset "ডিফল্ট মান পুনরায় স্থাপন">
-
+<!ENTITY simulator_name "নাম">
 <!ENTITY simulator_software "সফ্টওয়্যার">
 <!ENTITY simulator_version "সংস্করণ">
 <!ENTITY simulator_profile "প্রোফাইল">

@@ -7,7 +7,7 @@
 <!ENTITY     hostCol.label                 "সাইট">
 <!ENTITY     statusCol.label               "অবস্থা">
 <!ENTITY     usageCol.label                "স্টোরেজ">
-
+<!ENTITY     searchPlaceHolder             "অনুসন্ধান">
 
 
 
