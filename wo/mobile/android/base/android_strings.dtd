@@ -33,8 +33,10 @@
 <!ENTITY firstrun_readerview_message "Dindil li ñakk-solo">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
+<!ENTITY firstrun_account_title "Yaw">
+<!ENTITY firstrun_account_message "Dangay jëfandikoo &brandShortName; feneen?">
 
-<!ENTITY  onboard_start_restricted1 "Nekkal ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
+<!ENTITY  onboard_start_restricted1 "Wéyal nekk ci kaaraange ak bii sumb buñ yombal bu &brandShortName;.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -44,14 +46,15 @@
 <!ENTITY  switch_to_tab "Dem ci làcc wi">
 
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
+<!ENTITY  tab_offline_version "Woneg sumbub biti-lonkoo">
 
-<!ENTITY  crash_reporter_title "Rapooru lajj &brandShortName;">
+<!ENTITY  crash_reporter_title "Xibaar ñeel taxawug &brandShortName;">
 <!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
 <!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
-<!ENTITY  crash_include_url2 "Include the address of the page I was on">
+<!ENTITY  crash_include_url2 "Boole ci màkkaanu xët wa ma nekkoon">
 <!ENTITY  crash_sorry "Di ko naqarlu">
 <!ENTITY  crash_comment "Yokk ab saraa (ñépp a koy man a gis)">
-<!ENTITY  crash_allow_contact2 "Sañal &vendorShortName; man maa jot ñeel bii xibaar">
+<!ENTITY  crash_allow_contact2 "Sañal &vendorShortName; mu man maa jot ñeel bii xibaar">
 <!ENTITY  crash_email "Sa email">
 <!ENTITY  crash_closing_alert "Génn te bañ a yónnee ay xibaar ci daanu gi?">
 <!ENTITY  sending_crash_report "Yónneey xibaar ci daanu gi \u2026">
@@ -79,6 +82,8 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+<!ENTITY bookmark_folder_items "&formatD; këf">
+<!ENTITY bookmark_folder_one_item "1 këf">
 
 <!ENTITY reader_saved_offline "Denc nañ ko ci biti-lonkoo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
