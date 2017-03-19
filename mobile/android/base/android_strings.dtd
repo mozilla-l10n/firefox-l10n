@@ -173,7 +173,7 @@
 <!ENTITY pref_category_search_summary2 "Дадаваць, выбіраць прадвызначаныя, паказваць прапановы">
 <!ENTITY pref_category_accessibility "Спецыяльныя магчымасці">
 <!ENTITY pref_category_accessibility_summary2 "Памер шрыфту, маштаб, галасавы ўвод">
-<!ENTITY pref_category_privacy_short "Адасабленне">
+<!ENTITY pref_category_privacy_short "Прыватнасць">
 <!ENTITY pref_category_privacy_summary4 "Асочванне, лагіны, выбар дадзеных">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Пра &brandShortName;, FAQs, водгукі">
