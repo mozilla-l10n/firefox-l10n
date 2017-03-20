@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Қалып-күйі">
 <!ENTITY     usageCol.label                "Сақтауыш">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Іздеу">
+<!ENTITY     searchPlaceHolder.accesskey   "з">
+<!ENTITY     removeSelected.label          "Таңдалғанды өшіру">
+<!ENTITY     removeSelected.accesskey      "р">
+<!ENTITY     save.label                    "Өзгерістерді сақтау">
+<!ENTITY     save.accesskey                "с">
+<!ENTITY     cancel.label                  "Бас тарту">
+<!ENTITY     cancel.accesskey              "а">
+<!ENTITY     removingDialog.title          "Сайт деректерін өшіру">
+<!ENTITY     removingDialog.description    "Сайт деректерін өшіру нәтижесінде cookies қоса өшіріледі. Бұл сіздің веб сайттардан шығуыңызды және олардың желіден тыс құрамасын өшірілуге әкеп соғуы мүмкін. Өзгерісті іске асыруды шынымен қалайсыз ба?">
+<!ENTITY     siteTree.label                "Келесі веб сайттар cookies өшірілетін болады:">
