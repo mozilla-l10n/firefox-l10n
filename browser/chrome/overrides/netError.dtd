@@ -44,7 +44,9 @@ do seu computador.</li> 
 <!ENTITY generic.longDesc "<p>Algo impediu o &brandShortName; de carregar esta página.</p>">
 
 <!ENTITY captivePortal.title "Autenticar na rede">
+<!ENTITY captivePortal.longDesc2 "<p>Você deve se identificar nessa rede antes de poder acessar a Internet.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Abrir página de acesso a rede">
 
 <!ENTITY malformedURI.title "Endereço inválido">
 <!ENTITY malformedURI.longDesc "<ul> 
