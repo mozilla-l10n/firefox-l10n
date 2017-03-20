@@ -28,7 +28,7 @@
 <!ENTITY projectMenu_manageComponents_accesskey "ь">
 <!ENTITY projectMenu_refreshTabs_label "Абнавіць карткі">
 
-<!ENTITY runtimeMenu_label "Асяроддзе">
+<!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "к">
 <!ENTITY runtimeMenu_disconnect_label "Адлучыць">
 <!ENTITY runtimeMenu_disconnect_accesskey "д">
@@ -40,7 +40,7 @@
 <!ENTITY runtimeMenu_showMonitor_accesskey "М">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Налады прылады">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "п">
-<!ENTITY runtimeMenu_showSettings_label "Налады прылады">
+<!ENTITY runtimeMenu_showSettings_label "Параметры прылады">
 <!ENTITY runtimeMenu_showSettings_accesskey "ы">
 
 <!ENTITY viewMenu_label "Прагляд">
@@ -163,8 +163,8 @@
 <!ENTITY devicepreference_addnew "Дадаць новую перавагу">
 
 <!-- Device Settings -->
-<!ENTITY devicesetting_title "Налады прылады">
-<!ENTITY devicesetting_search "Налады пошуку">
+<!ENTITY devicesetting_title "Параметры прылады">
+<!ENTITY devicesetting_search "Параметры пошуку">
 <!ENTITY devicesetting_newname "Назва новага параметра">
 <!ENTITY devicesetting_newtext "Значэнне параметра">
 <!ENTITY devicesetting_addnew "Дадаць новы параметр">
