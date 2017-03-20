@@ -210,7 +210,7 @@
 <!ENTITY addon.loadingReleaseNotes.label      "লোড করা হচ্ছে…">
 <!ENTITY addon.errorLoadingReleaseNotes.label "দুঃখিত রিলিজ নোট লোড করার সময় ত্রুটি">
 
-<!ENTITY addon.createdBy.label                "দ্বারা">
+<!ENTITY addon.createdBy.label                "দ্বারা ">
 
 <!ENTITY eula.title                           "শেষ-ব্যবহারকারীর লাইসেন্স চুক্তি">
 <!ENTITY eula.width                           "560px">
@@ -243,7 +243,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "পড়ার অবিরত করতে পারেন যাচাই তাদের অ্যাড টার্ন পেতে আগ্রহী ডেভেলপারদের আমাদের">
+<!ENTITY disabledUnsigned.devInfo.start "পড়ার অবিরত করতে পারেন যাচাই তাদের অ্যাড টার্ন পেতে আগ্রহী ডেভেলপারদের আমাদের ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ম্যানুয়াল">
 <!ENTITY disabledUnsigned.devInfo.end "।">
 
