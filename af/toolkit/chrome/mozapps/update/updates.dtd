@@ -34,7 +34,7 @@
 
 <!ENTITY  error.title                     "Bywerking het misluk">
 
-<!ENTITY  error.label                     "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. &brandShortName; kon nie opgedateer word nie, omdat:">
+<!ENTITY  error.label                     "Kon nie vir hierdie bywerking kontroleer, dit aflaai of installeer nie. &brandShortName; kon nie opgedateer word nie. Rede:">
                                            
 <!ENTITY  errorManual.label               "U kan &brandShortName; handmatig bywerk deur hierdie skakel te besoek en die jongste weergawe af te laai:">
                                            
