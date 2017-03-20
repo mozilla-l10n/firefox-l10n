@@ -31,7 +31,7 @@
 <!ENTITY  locationBar.label             "অবস্থান সূচক বার">
 
 <!ENTITY  locbar.suggest.label          "অবস্থান বার ব্যবহার করার সময় পরামর্শ দিন:">
-<!ENTITY  locbar.history.label          "ইতিহাস (H)">
+<!ENTITY  locbar.history.label          "ইতিহাস">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
@@ -96,13 +96,13 @@
 <!ENTITY  rememberHistory2.label      "আমার ব্রাউজিং এবং ডাউনলোড ইতিহাস মনে রাখুন b">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "অনুসন্ধান ও ফরমের ইতিহাস মনে রাখা হবে (f)">
+<!ENTITY  rememberSearchForm.label       "অনুসন্ধান ও ফরমের ইতিহাস মনে রাখা হবে">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে (r)">
+<!ENTITY  clearOnClose.label             "&brandShortName; বন্ধ করার সময় ইতিহাস মুছে ফেলা হবে">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "সেটিং… (t)">
+<!ENTITY  clearOnCloseSettings.label     "সেটিং…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "কন্টেইনার ট্যাব">

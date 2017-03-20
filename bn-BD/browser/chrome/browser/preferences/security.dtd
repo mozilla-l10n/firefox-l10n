@@ -20,7 +20,7 @@
 <!ENTITY  blockUncommonAndUnwanted.label     "আপনাকে অপ্রয়োজনীয় ও ব্যতিক্রমী সফটওয়্যার সম্পর্কে সতর্ক করা হবে">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
-<!ENTITY  addonExceptions.label         "ব্যতিক্রম... (E)">
+<!ENTITY  addonExceptions.label         "ব্যতিক্রম...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -28,12 +28,12 @@
 
 <!ENTITY  rememberLogins.label          "সাইটের জন্য লগইন মনে রাখুন R">
 <!ENTITY  rememberLogins.accesskey      "R">
-<!ENTITY  passwordExceptions.label      "ব্যতিক্রম... (x)">
+<!ENTITY  passwordExceptions.label      "ব্যতিক্রম...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "মাস্টার পাসওয়ার্ড ব্যবহার করা হবে (U)">
+<!ENTITY  useMasterPassword.label        "মাস্টার পাসওয়ার্ড ব্যবহার করা হবে">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "মাস্টার পাসওয়ার্ড পরিবর্তন... (M)">
+<!ENTITY  changeMasterPassword.label     "মাস্টার পাসওয়ার্ড পরিবর্তন...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "সংরক্ষিত লগইন L…">

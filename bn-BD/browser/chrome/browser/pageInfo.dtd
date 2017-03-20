@@ -27,7 +27,7 @@
 <!ENTITY  generalMetaName       "নাম">
 <!ENTITY  generalMetaContent    "বিষয়বস্তু">
 
-<!ENTITY  mediaTab              "মিডিয়া (M)">
+<!ENTITY  mediaTab              "মিডিয়া">
 <!ENTITY  mediaTab.accesskey    "M">
 <!ENTITY  mediaLocation         "অবস্থান:">
 <!ENTITY  mediaText             "সংশ্লিষ্ট টেক্সট:">
@@ -39,17 +39,17 @@
 <!ENTITY  mediaDimension        "মাত্রা:">
 <!ENTITY  mediaLongdesc         "বিস্তারিত বিবরণ:">
 <!ENTITY  mediaBlockImage.accesskey "B">
-<!ENTITY  mediaSaveAs           "অন্যভাবে সংরক্ষণ... (A)">
+<!ENTITY  mediaSaveAs           "অন্যভাবে সংরক্ষণ...">
 <!ENTITY  mediaSaveAs.accesskey "A">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "মিডিয়ার প্রাকদর্শন:">
 
-<!ENTITY  feedTab               "ফিড (F)">
+<!ENTITY  feedTab               "ফিড">
 <!ENTITY  feedTab.accesskey     "F">
-<!ENTITY  feedSubscribe         "সাবস্ক্রাইব (U)">
+<!ENTITY  feedSubscribe         "সাবস্ক্রাইব">
 <!ENTITY  feedSubscribe.accesskey "u">
 
-<!ENTITY  permTab               "অনুমোদন (P)">
+<!ENTITY  permTab               "অনুমোদন">
 <!ENTITY  permTab.accesskey     "P">
 <!ENTITY  permUseDefault        "ডিফল্ট ব্যবহার করা হবে">
 <!ENTITY  permAskAlways         "সবসময় জিজ্ঞেস করা হবে">
@@ -62,7 +62,7 @@
 <!ENTITY  permClearStorage           "স্টোরেজ পরিষ্কার">
 <!ENTITY  permClearStorage.accesskey "C">
 
-<!ENTITY  securityTab           "নিরাপত্তা (S)">
+<!ENTITY  securityTab           "নিরাপত্তা">
 <!ENTITY  securityTab.accesskey "S">
 <!ENTITY  securityView.certView "সার্টিফিকেট প্রদর্শন ">
 <!ENTITY  securityView.accesskey "V">
@@ -77,10 +77,10 @@
 <!ENTITY  securityView.privacy.header                   "গোপণীয়তা এবং ইতিহাস">
 <!ENTITY  securityView.privacy.history                  "আগে কোন সময় এই ওয়েবসাইট আমি পরিদর্শন করেছি কি?">
 <!ENTITY  securityView.privacy.cookies                  "এই ওয়েবসাইট কি আমার কম্পিউটারে তথ্য (কুকি) সংরক্ষণ করছে?">
-<!ENTITY  securityView.privacy.viewCookies              "কুকি পরিদর্শন (K)">
+<!ENTITY  securityView.privacy.viewCookies              "কুকি পরিদর্শন">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "এই ওয়েবসাইটের জন্য কি আমি কোনো পাসওয়ার্ড সংরক্ষণ করেছি?">
-<!ENTITY  securityView.privacy.viewPasswords            "সংরক্ষিত পাসওয়ার্ড পরিদর্শন (W)">
+<!ENTITY  securityView.privacy.viewPasswords            "সংরক্ষিত পাসওয়ার্ড পরিদর্শন">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
 
 <!ENTITY  securityView.technical.header                 "প্রযুক্তিগত বিবরণ">

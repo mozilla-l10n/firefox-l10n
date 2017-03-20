@@ -53,8 +53,8 @@
 <!ENTITY  font.langGroup.sinhala                  "সিংহলী">
 <!ENTITY  font.langGroup.tibetan                  "তিব্বতীয়">
 <!-- Minimum font size -->
-<!ENTITY minSize.label                            "ফন্টের সর্বনিম্ন মাপ (O):">
-<!ENTITY minSize.accesskey                        "O">
+<!ENTITY minSize.label                            "ফন্টের সর্বনিম্ন মাপ:">
+<!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "কোনটি নয়">
 <!-- default font type -->
 

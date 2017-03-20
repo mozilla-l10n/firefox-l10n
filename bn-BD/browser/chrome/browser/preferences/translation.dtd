@@ -20,5 +20,5 @@
 <!ENTITY removeAllSites.label             "সব সাইট অপসারণ কর i">
 <!ENTITY removeAllSites.accesskey         "i">
 
-<!ENTITY button.close.label               "বন্ধ (C)">
+<!ENTITY button.close.label               "বন্ধ">
 <!ENTITY button.close.accesskey           "C">
