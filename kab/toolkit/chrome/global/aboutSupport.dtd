@@ -62,7 +62,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Isfuyla agetakala">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Tasarut Google">
-
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Tasarutt n umeẓlu n wadi Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Askar aɣelsan">
 
@@ -109,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nɣel talɣut tarewwayt ɣeṛ &quot;ɣef affus&quot;">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Isawalen n unagraw ttwagin">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Tisdatin aya">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Anaw n ukala">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Asiwel n unagraw">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Tiɣiriyin">
 
 <!ENTITY aboutSupport.safeModeTitle "Ɛreḍ deg uskar aɣelsan">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ales asenker s izegrar irurmiden…">

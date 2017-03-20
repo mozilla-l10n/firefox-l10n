@@ -16,5 +16,5 @@
 <!ENTITY     cancel.label                  "Sefsex">
 <!ENTITY     cancel.accesskey              "S">
 <!ENTITY     removingDialog.title          "Tuksa n isefka n usmel">
-
-
+<!ENTITY     removingDialog.description    "Tukksa n isefka n usmel ad yekkes inagan n tuqqna. Ayagi yezmer ak-isuffeɣ seg ismal web udiq ad yekkes agbur n usmel web deg uskar n war tuqqna. Tebɣiḍ ad tekkseḍ asnifel-agi?">
+<!ENTITY     siteTree.label                "Inagan n usmel web-agi ad ttwakksen:">
