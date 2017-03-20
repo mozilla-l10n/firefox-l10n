@@ -7,6 +7,8 @@
 <!ENTITY biffAll.label "Updates inschakelen voor alle feeds">
 <!ENTITY biffAll.accesskey "e">
 
+<!ENTITY newFeedSettings.label "Standaardinstellingen voor nieuwe feeds">
+
 <!ENTITY manageSubscriptions.label "Abonnementen beheren…">
 <!ENTITY manageSubscriptions.accesskey "n">
 
