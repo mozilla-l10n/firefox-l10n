@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY privatebrowsingpage.title "Njoowum sutura">
+<!ENTITY privatebrowsingpage.title "Njoowug sutura">
 
 <!-- Localisation note: the plus sign here is a shorthand way of expressing the word "and". Contextually the privatebrowsingpage.title.private string
                         is used as a title, with the privatebrowsingpage.title string preceding it but on a separate line.
@@ -11,9 +11,12 @@
 <!-- Localization note (privatebrowsingpage.title.normal1): "Private Browsing"
      is capitalized in English to be consistent with our existing uses of the
      term. -->
+<!ENTITY privatebrowsingpage.title.normal1 "Nekkoo ci njoowug sutura">
 
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; dafay téye wàll yi ci xët yi yiy man a topp sag njoow ci internet.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
+<!ENTITY privatebrowsingpage.link.private "Bëgg a leerlu?">
