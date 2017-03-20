@@ -560,7 +560,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "Капіяваць спасылку">
 <!ENTITY copyLinkCmd.accesskey        "с">
 <!ENTITY copyImageCmd.label           "Капіяваць спасылку на выяву">
-<!ENTITY copyImageCmd.accesskey       "х">
+<!ENTITY copyImageCmd.accesskey       "а">
 <!ENTITY copyImageContentsCmd.label   "Капіяваць выяву">
 <!ENTITY copyImageContentsCmd.accesskey  "я"> 
 <!ENTITY copyVideoURLCmd.label        "Капіяваць спасылку на відэа">
