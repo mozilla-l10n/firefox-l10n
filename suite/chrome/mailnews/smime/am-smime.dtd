@@ -28,7 +28,7 @@
 <!ENTITY certificates.label "Certificaten">
 <!ENTITY manageCerts2.label "Certificaten beheren…">
 <!ENTITY manageCerts2.accesskey "C">
-<!ENTITY manageDevices.label "Beveiligingsapparaten beheren">
+<!ENTITY manageDevices.label "Beveiligingsapparaten beheren…">
 <!ENTITY manageDevices.accesskey "B">
 
 <!-- Strings for the cert picker dialog -->
