@@ -10,7 +10,7 @@
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "সর্বদা">
-<!ENTITY  overrideDefaultPageColors.auto.label   "শুধু হাই কনট্রাস্ট থিমের সাথে ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "শুধু হাই কনট্রাস্ট থিমের সাথে">
 <!ENTITY  overrideDefaultPageColors.never.label  "কখনো নয়">
 
 <!ENTITY  color                           "লেখা ও পটভূমি">

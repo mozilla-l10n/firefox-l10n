@@ -26,7 +26,7 @@
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
 
-<!ENTITY clearTimeDuration.label          "ইতিহাস অপসারণের সময়ের পরিসর: (T)">
+<!ENTITY clearTimeDuration.label          "ইতিহাস অপসারণের সময়ের পরিসর: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "গত ১ ঘন্টা">
 <!ENTITY clearTimeDuration.last2Hours     "গত ২ ঘন্টা">

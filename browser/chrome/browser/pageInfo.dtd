@@ -64,15 +64,15 @@
 
 <!ENTITY  securityTab           "নিরাপত্তা">
 <!ENTITY  securityTab.accesskey "S">
-<!ENTITY  securityView.certView "সার্টিফিকেট প্রদর্শন ">
+<!ENTITY  securityView.certView "সার্টিফিকেট প্রদর্শন">
 <!ENTITY  securityView.accesskey "V">
 <!ENTITY  securityView.unknown   "অজানা">
 
 
 <!ENTITY  securityView.identity.header   "ওয়েবসাইটের পরিচয়">
-<!ENTITY  securityView.identity.owner    "মালিকানা: ">
-<!ENTITY  securityView.identity.domain   "ওয়েবসাইট: ">
-<!ENTITY  securityView.identity.verifier "যাচাইকারী: ">
+<!ENTITY  securityView.identity.owner    "মালিকানা:">
+<!ENTITY  securityView.identity.domain   "ওয়েবসাইট:">
+<!ENTITY  securityView.identity.verifier "যাচাইকারী:">
 
 <!ENTITY  securityView.privacy.header                   "গোপণীয়তা এবং ইতিহাস">
 <!ENTITY  securityView.privacy.history                  "আগে কোন সময় এই ওয়েবসাইট আমি পরিদর্শন করেছি কি?">
