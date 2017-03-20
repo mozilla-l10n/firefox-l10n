@@ -13,6 +13,6 @@
 <!ENTITY languages.customize.deleteButton.label         "অপসারণ">
 <!ENTITY languages.customize.deleteButton.accesskey     "R">
 <!ENTITY languages.customize.selectLanguage.label       "ভাষা যোগ...">
-<!ENTITY languages.customize.addButton.label            "যোগ (A)">
+<!ENTITY languages.customize.addButton.label            "যোগ">
 <!ENTITY languages.customize.addButton.accesskey        "A">
 
