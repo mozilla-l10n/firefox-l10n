@@ -2,10 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this file,
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
+<!ENTITY refreshProfile.dialog.title         "Refresh &brandShortName;">
+<!ENTITY refreshProfile.dialog.description1  "Simulan ang sariwang pag-ayos ng mga problema at ibalik ang pagganap.">
+<!ENTITY refreshProfile.dialog.description2  "Kalooban ito:">
+<!ENTITY refreshProfile.dialog.items.label1  "Alisin ang iyong mga add-on at mga pagpapasadya">
+<!ENTITY refreshProfile.dialog.items.label2  "Ibalik ang iyong mga setting ng browser sa kanilang mga default">
+<!ENTITY refreshProfile.dialog.button.label  "Refresh &brandShortName;">
 
+<!ENTITY refreshProfile.button.label         "Refresh &brandShortName;…">
 
-
-
-
-
-
+<!ENTITY refreshProfile.cleaning.description "Halos tapos na...">
