@@ -23,6 +23,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versio">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Trajtoj de &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nomo">
+<!ENTITY aboutSupport.featureVersion "Versio">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Eksperimentaj trajtoj">
 <!ENTITY aboutSupport.experimentName "Nomo">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -62,6 +67,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Profiloj">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Plurprocezaj fenestroj">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ŝlosilo de Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ŝlosilo de la servo de pozicio de Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Sekura reĝimo">
 
@@ -108,6 +116,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopii krudajn datumojn al tondujo">
 
 <!ENTITY aboutSupport.sandboxTitle "Izolejo">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rifuzitaj sistemaj vokoj">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "sekundoj antaŭe">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de procezo">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistema voko">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Parametroj">
 
 <!ENTITY aboutSupport.safeModeTitle "Provi la sekuran reĝimon">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restartigi kun ĉiuj aldonaĵoj malaktivaj…">

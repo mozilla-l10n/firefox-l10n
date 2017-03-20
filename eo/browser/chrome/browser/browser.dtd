@@ -358,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Neniu spegulita langeto">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Montri pli">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Montri pli da langetoj el tiu ĉi aparato">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Montri ĉiujn">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Montri ĉiujn langetojn el tiu ĉi aparato">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ŝaltu la dividon de langetoj por vidi liston de langetoj en viaj aliaj aparatoj.">
@@ -369,6 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferoj de Speguli">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Komencu seancon por vidi liston de langetoj el viaj aliaj aparatoj.">
 <!ENTITY appMenuRemoteTabs.signin.label "Komencu seancon en Speguli">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administri aparatojn…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vidi flankan strion de spegulitaj langetoj">
 
 <!ENTITY customizeMenu.addToToolbar.label "Aldoni al ilarstrio">
@@ -775,8 +784,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Kopii">
 <!ENTITY syncedTabs.context.copy.accesskey                   "K">
 
-<!ENTITY syncedTabs.context.openAllInTabs.label              "Open All in Tabs">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Malfermi ĉiujn en langetoj">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "M">
+<!ENTITY syncedTabs.context.managedevices.label              "Administri aparatojn…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Speguli">
