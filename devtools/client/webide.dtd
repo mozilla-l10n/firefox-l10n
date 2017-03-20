@@ -28,7 +28,7 @@
 <!ENTITY projectMenu_manageComponents_accesskey "ь">
 <!ENTITY projectMenu_refreshTabs_label "Абнавіць карткі">
 
-<!ENTITY runtimeMenu_label "У часе выканання">
+<!ENTITY runtimeMenu_label "Асяроддзе">
 <!ENTITY runtimeMenu_accesskey "к">
 <!ENTITY runtimeMenu_disconnect_label "Адлучыць">
 <!ENTITY runtimeMenu_disconnect_accesskey "д">
