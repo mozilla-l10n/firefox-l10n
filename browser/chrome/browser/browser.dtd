@@ -357,10 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "ಯಾವುದೆ ತೆರೆದ ಹಾಳೆಗಳಿಲ್ಲ">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "ಇನ್ನಷ್ಟು ತೋರಿಸು">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "ಈ ಸಾಧನದ ಇನ್ನಷ್ಟು ಹಾಳೆಗಳನ್ನು ತೋರಿಸು">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "ಎಲ್ಲವನ್ನೂ ತೋರಿಸು‍">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "ಈ ಸಾಧನದ ಎಲ್ಲಾ ಹಾಳೆಗಳನ್ನು ತೋರಿಸು‍">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಿಂದ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಟ್ಯಾಬ್‌ ಸಿಂಕ್ ಮಾಡುವಿಕೆಯನ್ನು ಸಕ್ರಿಯಗೊಳಿಸಿ.">
@@ -398,6 +400,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "ವಿಳಾಸವನ್ನು ಹುಡುಕು ಅಥವಾ ನಮೂದಿಸು">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "ವಿಸ್ತರಣೆ:‍">
 <!ENTITY urlbar.switchToTab.label     "ಟ್ಯಾಬ್‌ಗೆ ಬದಲಾಯಿಸು:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "ನಿಮ್ಮ ಹುಡುಕುವ ಅನುಭವವನ್ನು ಸಲಹೆಗಳಿಂದ ಉತ್ತಮಗೊಳಿಸಲು ಬಯಸುವಿರಾ?">
