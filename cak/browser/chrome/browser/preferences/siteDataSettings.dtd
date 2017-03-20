@@ -16,5 +16,5 @@
 <!ENTITY     cancel.label                  "Tiq'at">
 <!ENTITY     cancel.accesskey              "T">
 <!ENTITY     removingDialog.title          "Tajin niyuj rutzij ruxaq k'amaya'l">
-
-
+<!ENTITY     removingDialog.description    "We niyuj el ri taq rutzij ruxaq k'amaya'l chuqa' xkeyujtäj el ri taq kaxlanwey. Re re' nitikïr nel el chi kikojol ri taq ruxaq k'amaya'l toq majun okem pa k'amaya'l. ¿La kan nawajo' nab'än ri jaloj?">
+<!ENTITY     siteTree.label                "Xkeyujtäj el re taq kaxlanwey re' chupam re ruxaq k'amaya'l:">
