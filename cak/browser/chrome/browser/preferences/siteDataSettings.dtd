@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Ruxaq k'amaya'l">
 <!ENTITY     statusCol.label               "Rub'eyal">
 <!ENTITY     usageCol.label                "Yakoj">
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Tikanöx">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "Tiyuj ri cha'on">
+<!ENTITY     removeSelected.accesskey      "T">
+<!ENTITY     save.label                    "Keyak taq jaloj">
+<!ENTITY     save.accesskey                "y">
+<!ENTITY     cancel.label                  "Tiq'at">
+<!ENTITY     cancel.accesskey              "T">
+<!ENTITY     removingDialog.title          "Tajin niyuj rutzij ruxaq k'amaya'l">
 
 
