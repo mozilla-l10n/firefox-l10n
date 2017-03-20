@@ -22,9 +22,9 @@
 <!ENTITY view.sort.accesskey            "S">
 <!ENTITY view.unsorted.label            "অবিন্যস্ত">
 <!ENTITY view.unsorted.accesskey        "U">
-<!ENTITY view.sortAscending.label       "A > Z ক্রমে (A)">
+<!ENTITY view.sortAscending.label       "A > Z ক্রমে">
 <!ENTITY view.sortAscending.accesskey   "A">
-<!ENTITY view.sortDescending.label      "Z > A ক্রমে (Z)">
+<!ENTITY view.sortDescending.label      "Z > A ক্রমে">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
 <!ENTITY importBookmarksFromHTML.label     "এইচটিএমএল থেকে বুকমার্ক ইম্পোর্ট করুন…">
