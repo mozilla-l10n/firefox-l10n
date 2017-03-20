@@ -14,9 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Nekkoo ci njoowug sutura">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; dafay téye wàll yi ci xët yi yiy man a topp sag njoow ci internet.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Du nu fattaliku genn jaar-jaar, waaye ŋara yi nga yebbi ak màndarga-xët yu bees yi nga yokk dañuy wéy di des ci sa jumtukaay.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
+<!ENTITY privatebrowsingpage.description.normal2 "Ci njoow gu sutura, du ñu denc benn xibaar ñeel say jaar-jaar walla cookie. Màndarga-xët goo yokk ak ŋara yoo yebbi da ñuy wéy di des ci sa jumtukaay.">
 
 <!ENTITY privatebrowsingpage.link.private "Bëgg a leerlu?">
+<!ENTITY privatebrowsingpage.link.normal "Ubbi làcc wu bees ci sutura">
