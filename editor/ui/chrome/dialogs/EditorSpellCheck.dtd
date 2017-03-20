@@ -28,8 +28,8 @@
 <!ENTITY addToUserDictionaryButton.accessKey "d">
 <!ENTITY editUserDictionaryButton.label "ویرایش…">
 <!ENTITY editUserDictionaryButton.accessKey "E">
-
-
+<!ENTITY recheckButton2.label "چک کردن دوبارهٔ متن">
+<!ENTITY recheckButton2.accessKey "ت">
 <!ENTITY closeButton.label "بستن">
 <!ENTITY closeButton.accessKey "C">
 <!ENTITY sendButton.label "Send">

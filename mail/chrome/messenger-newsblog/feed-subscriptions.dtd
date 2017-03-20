@@ -21,7 +21,8 @@
 <!ENTITY quickMode.label             "نمایش خلاصه‌ی مقاله بجای بارگذاری صفحه‌ی وب">
 <!ENTITY quickMode.accesskey         "ن">
 
-
+<!ENTITY autotagEnable.label         "بطور خودکار برچسب‌ها را از اسامی &lt;دسته‌بندی&gt; خوراک ایجاد کنید ">
+<!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "برچسب‌های پیشوند با:">
 <!ENTITY autotagUsePrefix.accesskey  "پ">
 <!ENTITY autoTagPrefix.placeholder   "یک پیشوند برچسب وارد کنید">
