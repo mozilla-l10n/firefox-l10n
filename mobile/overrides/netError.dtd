@@ -67,7 +67,7 @@
 <!ENTITY proxyResolveFailure.title "প্রক্সি সার্ভার পাওয়া যায়নি">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul><li>প্রক্সি সেটিং সঠিক কিনা, তা পরীক্ষা করে দেখুন।</li><li>আপনার ডিভাইসে একটি কর্মক্ষম ডাটা অথবা ওয়াইফাই সংযোগ রয়েছে কিনা তা পরীক্ষা করে দেখুন<button id='wifi'>ওয়াই-ফাই আরম্ভ করুন</button>  </li>  </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>প্রক্সি সেটিং সঠিক কিনা, তা পরীক্ষা করে দেখুন।</li> <li>আপনার ডিভাইসে একটি কর্মক্ষম ডাটা অথবা ওয়াইফাই সংযোগ রয়েছে কিনা তা পরীক্ষা করে দেখুন <button id='wifi'>ওয়াই-ফাই আরম্ভ করুন</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "পাতাটি সঠিকভাবে রিডিরেক্ট হচ্ছে না">
 <!ENTITY redirectLoop.longDesc "<ul> <li>কুকি নিষ্ক্রিয় অথবা প্রত্যাখ্যান করা হলে, প্রায়ই এই সমস্যা হওয়ার সম্ভাবনা আছে।</li> </ul>">
