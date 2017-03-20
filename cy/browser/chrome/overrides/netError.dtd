@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Anhawster llwytho tudalen">
 <!ENTITY retry.label "Ceisiwch eto">
 <!ENTITY returnToPreviousPage.label "Ewch Nôl">
-
+<!ENTITY advanced.label "Uwch">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>Nid yw &brandShortName; yn gallu llwytho'r dudalen am ryw reswm.</p>">
 
 <!ENTITY captivePortal.title "Mewngofnodi i'r rhwydwaith">
+<!ENTITY captivePortal.longDesc2 "<p>Rhaid i chi fewngofnodi i'r rhwydwaith hwn cyn i chi gael mynediad i'r Rhyngrwyd.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Agor Tudalen Mewngofnodi i'r Rhwydwaith">
 
 <!ENTITY malformedURI.title "Nid yw'r cyfeiriad yn ddilys">
 <!ENTITY malformedURI.longDesc "<ul> <li>Fel rheol mae cyfeiriadau Gwe'n cael eu hysgrifennu fel <strong>http://www.example.com/</strong></li> <li>Gwnewch yn siŵr eich bod yn defnyddio blaen slaes (h.y. <strong>/</strong>).</li> </ul>">
