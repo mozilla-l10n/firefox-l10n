@@ -15,3 +15,5 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Cancelar">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "Removendo dados do site">
+<!ENTITY     siteTree.label                "Os seguintes cookies serão removidos:">
