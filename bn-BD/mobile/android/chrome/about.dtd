@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "হালনাগাদ অনুসন্ধান করা হচ্ছে...">
 <!ENTITY aboutPage.checkForUpdates.none         "কোন হালনাগাদ বিদ্যমান নেই">
 <!ENTITY aboutPage.checkForUpdates.available2   "হালনাগাদ ডাউনলোড করুন">
-<!ENTITY aboutPage.checkForUpdates.downloading  "হালনাগাদ ডাউনলোড করা হচ্ছে... ">
+<!ENTITY aboutPage.checkForUpdates.downloading  "হালনাগাদ ডাউনলোড করা হচ্ছে...">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "হালনাগাদ ইনস্টল করুন">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "সাপোর্ট">
