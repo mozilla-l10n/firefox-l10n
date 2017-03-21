@@ -10,8 +10,8 @@ file names and tall enough to hint that there are more activities in the list --
 
 <!ENTITY activity.title                  "Upravitelj dejavnosti">
 
-<!ENTITY cmd.pause.label                  "Premor">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.label                  "Ustavi">
+<!ENTITY cmd.pause.accesskey              "U">
 <!ENTITY cmd.resume.label                 "Nadaljuj">
 <!ENTITY cmd.resume.accesskey             "d">
 <!ENTITY cmd.cancel.label                 "Prekliči">
