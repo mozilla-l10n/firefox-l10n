@@ -127,7 +127,7 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "ஒலியை இயக்குகிறது – &formatS;">
 
-<!ENTITY settings "அமைப்புகள்">
+<!ENTITY settings "அமைவுகள்">
 <!ENTITY settings_title "அமைப்புகள்">
 <!ENTITY pref_category_general "பொதுவான">
 <!ENTITY pref_category_general_summary3 "முகப்பு, மொழி, கீற்று வரிசை">
@@ -397,7 +397,7 @@ size. -->
 <!ENTITY pref_private_data_passwords2 "சேமிக்கப்பட்ட புகுபதிகைகள்">
 <!ENTITY pref_private_data_cache "இடையகம்">
 <!ENTITY pref_private_data_offlineApps "இணைப்பில்லாத இணையதள தரவு">
-<!ENTITY pref_private_data_siteSettings2 "தள அமைப்புகள்">
+<!ENTITY pref_private_data_siteSettings2 "இணையத்தள அமைவுகள்">
 <!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
@@ -469,7 +469,7 @@ size. -->
 <!ENTITY save_as_pdf "பிடிஎப் ஆக சேமி">
 <!ENTITY print "அச்சிடு">
 <!ENTITY find_in_page "பக்கத்தில் கண்டுபிடி">
-<!ENTITY desktop_mode "பணிமேடை பக்கத்தை கேள்">
+<!ENTITY desktop_mode "கணினி பக்கத்தைக் கேள்">
 <!ENTITY page "பக்கம்">
 <!ENTITY tools "கருவிகள்">
 <!ENTITY new_tab "புதிய கீற்று">
@@ -603,7 +603,7 @@ size. -->
 <!ENTITY home_most_recent_empty "நீங்கள் அண்மையில் பார்த்த இணையத்தளங்கள் இங்கே காண்பிக்கப்படும்.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "பராக்: &formatS1; பயன்னடுத்தி தனிப்பட்ட கீற்று&formatS2; உங்கள் வரலாற்றை சேமிக்காது.">
+<!ENTITY home_most_recent_emptyhint2 "அறிக: &formatS1; தனிப்பட்ட கீற்று&formatS2; உங்கள் வரலாற்றை சேமிக்காது.">
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
 
