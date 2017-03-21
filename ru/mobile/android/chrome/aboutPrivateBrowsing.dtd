@@ -14,7 +14,7 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Вы не в режиме Приватного просмотра">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; блокирует части страницы, которые могут отслеживать ваше поведение в Интернете.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Мы не будет запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Мы не будем запоминать ничего из истории, но загруженные файлы и новые закладки будут сохранены на вашем устройстве.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
