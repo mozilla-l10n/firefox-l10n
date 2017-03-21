@@ -7,7 +7,7 @@
 <!ENTITY dialog.title            "Усталяванне праграмнага забеспячэння">
 <!ENTITY dialog.style            "width: 48em">
 <!ENTITY warningPrimary.label    "Усталёўвайце дадаткі толькі тых аўтараў, якім вы давяраеце.">
-<!ENTITY warningSecondary.label  "Зламыснае праграмнае забеспячэнне можа пашкодзіць ваш камп'ютар або парушыць ваша адасабленне.">
+<!ENTITY warningSecondary.label  "Зламыснае праграмнае забеспячэнне можа пашкодзіць ваш камп'ютар або парушыць вашу прыватнасць.">
 
 <!ENTITY from.label "з:">
 

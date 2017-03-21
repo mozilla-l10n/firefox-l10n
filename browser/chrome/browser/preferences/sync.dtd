@@ -28,7 +28,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Умовы абслугоўвання">
-<!ENTITY fxaPrivacyNotice.link.label "Папярэджанне адасаблення">
+<!ENTITY fxaPrivacyNotice.link.label "Паведамленнем аб прыватнасці">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
