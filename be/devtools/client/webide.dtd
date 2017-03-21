@@ -38,9 +38,9 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "і">
 <!ENTITY runtimeMenu_showMonitor_label "Манітор">
 <!ENTITY runtimeMenu_showMonitor_accesskey "М">
-<!ENTITY runtimeMenu_showDevicePrefs_label "Налады прылады">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Перавагі прылады">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "п">
-<!ENTITY runtimeMenu_showSettings_label "Параметры прылады">
+<!ENTITY runtimeMenu_showSettings_label "Налады прылады">
 <!ENTITY runtimeMenu_showSettings_accesskey "ы">
 
 <!ENTITY viewMenu_label "Прагляд">
