@@ -11,7 +11,7 @@
 <!ENTITY initialpage.network.label  "На мрежи">
 
 <!ENTITY locationpage.description         "Пружите податке потребне за приступ вашем удаљеном календару" >
-<!ENTITY locationpage.login.description   "Изборно: унесите корисничко име и лозинку" >
+<!ENTITY locationpage.login.description   "Необавезно: унесите корисничко име и лозинку" >
 <!ENTITY locationpage.username.label      "Корисничко име:" >
 <!ENTITY locationpage.password.label      "Лозинка:" >
 
