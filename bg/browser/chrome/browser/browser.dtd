@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Показване на страничната лента с отметки">
 <!ENTITY viewBookmarksToolbar.label         "Показване на лентата с отметки">
 
-<!ENTITY containersMenu.label "Контейнери">
+<!ENTITY containersMenu.label "Изолатори">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
 <!ENTITY customizeMode.restoreDefaults "Връщане на стандартни настройки">
-<!ENTITY customizeMode.toolbars "Показване / скриване на ленти с инструменти">
+<!ENTITY customizeMode.toolbars "Избиране на ленти с инструменти">
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Моите теми">
