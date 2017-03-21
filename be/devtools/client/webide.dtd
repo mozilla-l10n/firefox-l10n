@@ -29,13 +29,13 @@
 <!ENTITY projectMenu_refreshTabs_label "Абнавіць карткі">
 
 <!ENTITY runtimeMenu_label "Runtime">
-<!ENTITY runtimeMenu_accesskey "к">
+<!ENTITY runtimeMenu_accesskey "R">
 <!ENTITY runtimeMenu_disconnect_label "Адлучыць">
 <!ENTITY runtimeMenu_disconnect_accesskey "д">
 <!ENTITY runtimeMenu_takeScreenshot_label "Здымак экрана">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ы">
-<!ENTITY runtimeMenu_showDetails_label "Звесткі часу выканання">
-<!ENTITY runtimeMenu_showDetails_accesskey "у">
+<!ENTITY runtimeMenu_showDetails_label "Звесткі пра Runtime">
+<!ENTITY runtimeMenu_showDetails_accesskey "і">
 <!ENTITY runtimeMenu_showMonitor_label "Манітор">
 <!ENTITY runtimeMenu_showMonitor_accesskey "М">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Налады прылады">
@@ -46,24 +46,24 @@
 <!ENTITY viewMenu_label "Прагляд">
 <!ENTITY viewMenu_accesskey "П">
 <!ENTITY viewMenu_toggleEditor_label "Пераключыць рэдактар">
-<!ENTITY viewMenu_toggleEditor_accesskey "р">
+<!ENTITY viewMenu_toggleEditor_accesskey "т">
 <!ENTITY viewMenu_zoomin_label "Павялічыць">
 <!ENTITY viewMenu_zoomin_accesskey "в">
 <!ENTITY viewMenu_zoomout_label "Паменшыць">
 <!ENTITY viewMenu_zoomout_accesskey "м">
 <!ENTITY viewMenu_resetzoom_label "Скінуць павелічэнне">
-<!ENTITY viewMenu_resetzoom_accesskey "к">
+<!ENTITY viewMenu_resetzoom_accesskey "С">
 
 <!ENTITY projectButton_label "Адкрыць прыкладанне">
 <!ENTITY runtimeButton_label "Выбраць асяроддзе">
 
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-<!ENTITY key_quit "ц">
+<!ENTITY key_quit "W">
 <!-- open menu -->
-<!ENTITY key_showProjectPanel "ў">
+<!ENTITY key_showProjectPanel "O">
 <!-- reload app -->
-<!ENTITY key_play "к">
+<!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
 <!-- toggle sidebar -->
