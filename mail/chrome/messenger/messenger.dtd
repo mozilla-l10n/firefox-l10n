@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Prejmi sporočila">
 <!ENTITY folderContextGetMessages.accesskey "P">
+<!ENTITY folderContextPauseAllUpdates.label "Ustavi vse posodobitve">
+<!ENTITY folderContextPauseUpdates.label "Ustavi posodobitve">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Odpri v novem oknu">
 <!ENTITY folderContextOpenInNewWindow.accesskey "k">
 <!ENTITY folderContextOpenNewTab.label "Odpri v novem zavihku">
