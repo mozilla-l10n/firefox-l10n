@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ffenestri Amlbroses">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Allwedd Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modd Diogel">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copïo data bras i'r clipfwrdd">
 
 <!ENTITY aboutSupport.sandboxTitle "Blwch tywod">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Galwadau System wedi eu Gwrthod">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Eiliad yn Ôl">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Math o Brosesu">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Ymresymiadau">
 
 <!ENTITY aboutSupport.safeModeTitle "Defnyddiwch y Modd Diogel">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ailgychwyn gydag Ychwanegion wedi eu Hanalluogi…">
