@@ -103,8 +103,9 @@
 <!ENTITY  clearOnCloseSettings.label     "அமைவுகள்…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "கலன் கீற்றுகள்">
 <!ENTITY  browserContainersLearnMore.label      "மேலும் அறிய">
-
-
+<!ENTITY  browserContainersEnabled.label        "கலன் கீற்றுகளை செயற்படுத்து">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 
 
