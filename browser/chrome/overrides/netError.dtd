@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Памылка загрузкі старонкі">
+<!ENTITY loadError.label "Праблема загрузкі старонкі">
 <!ENTITY retry.label "Паспрабуйце зноў">
 <!ENTITY returnToPreviousPage.label "Вярнуцца">
 <!ENTITY advanced.label "Дадаткова">
