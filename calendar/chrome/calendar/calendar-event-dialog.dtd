@@ -263,7 +263,7 @@
 <!ENTITY event.statusbarpanel.privacy.label               "Приватност:">
 
 <!-- Recurrence dialog -->
-<!ENTITY recurrence.title.label                         "Уреди понављање">
+<!ENTITY recurrence.title.label                         "Уреди враћање">
 
 <!ENTITY event.repeat.does.not.repeat.label             "Не понавља се">
 <!ENTITY event.repeat.daily.label                       "Дневно">
@@ -274,7 +274,7 @@
 <!ENTITY event.repeat.yearly.label                      "Годишње">
 <!ENTITY event.repeat.custom.label                      "Прилагођено…">
 
-<!ENTITY event.recurrence.pattern.label                 "Шаблон понављања">
+<!ENTITY event.recurrence.pattern.label                 "Шаблон враћања">
 <!ENTITY event.recurrence.occurs.label                  "Понављај" >
 <!ENTITY event.recurrence.day.label                     "дневно" >
 <!ENTITY event.recurrence.week.label                    "недељно" >
@@ -362,9 +362,57 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Новембар" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Децембар" >
 
+<!ENTITY event.recurrence.range.label                   "Опсег враћања">
+<!ENTITY event.recurrence.forever.label                 "Нема крајњег датума" >
+<!ENTITY event.recurrence.repeat.for.label              "Направи" >
+<!ENTITY event.recurrence.appointments.label            "Састанци" >
+<!ENTITY event.repeat.until.label                       "Понављај до" >
+<!ENTITY event.recurrence.preview.label                 "Претпреглед">
 
 <!-- Attendees dialog -->
+<!ENTITY invite.title.label                     "Позови полазнике">
+<!ENTITY event.organizer.label                  "Организатор">
+<!ENTITY event.freebusy.suggest.slot            "Предложи временски период:">
+<!ENTITY event.freebusy.button.next.slot        "Следећи период">
+<!ENTITY event.freebusy.button.previous.slot    "Претходни период">
+<!ENTITY event.freebusy.zoom                    "Увеличавање:">
+<!ENTITY event.freebusy.legend.free             "Слободан" >
+<!ENTITY event.freebusy.legend.busy             "Заузет" >
+<!ENTITY event.freebusy.legend.busy_tentative   "Привремен" >
+<!ENTITY event.freebusy.legend.busy_unavailable "Ван канцеларије" >
+<!ENTITY event.freebusy.legend.unknown          "Нема података" >
+<!ENTITY event.attendee.role.required           "Обавезан полазник">
+<!ENTITY event.attendee.role.optional           "Необавезни полазник">
+<!ENTITY event.attendee.role.chair              "Столица">
+<!ENTITY event.attendee.role.nonparticipant     "Неучесник">
+<!ENTITY event.attendee.usertype.individual     "Појединац">
+<!ENTITY event.attendee.usertype.group          "Група">
+<!ENTITY event.attendee.usertype.resource       "Ресурс">
+<!ENTITY event.attendee.usertype.room           "Соба">
+<!ENTITY event.attendee.usertype.unknown        "Непознато">
 
 <!-- Timezone dialog -->
+<!ENTITY timezone.title.label            "Наведите временску зону">
+<!ENTITY event.timezone.custom.label     "Више временских зона…">
 
 <!-- Read-Only dialog -->
+<!ENTITY read.only.general.label         "Опште">
+<!ENTITY read.only.title.label           "Наслов:">
+<!ENTITY read.only.event.start.label     "Почетни датум:">
+<!ENTITY read.only.task.start.label      "Почетни датум:">
+<!ENTITY read.only.event.end.label       "Завршни датум:">
+<!ENTITY read.only.task.due.label        "Крајњи датум:">
+<!ENTITY read.only.repeat.label          "Понављање:">
+<!ENTITY read.only.location.label        "Место:">
+<!ENTITY read.only.category.label        "Категорија:">
+<!ENTITY read.only.organizer.label       "Организатор:">
+<!ENTITY read.only.reply.label           "Одговор:">
+<!ENTITY read.only.accept.label          "Присуствоваћу">
+<!ENTITY read.only.decline.label         "Нећу присуствовати">
+<!ENTITY read.only.tentative.label       "Можда ћу присуствовати">
+<!ENTITY read.only.needs.action.label    "Потврдићу касније">
+<!ENTITY read.only.reminder.label        "Подсетник:">
+<!ENTITY read.only.attachments.label     "Прилози:">
+<!ENTITY read.only.attendees.label       "Полазници">
+<!ENTITY read.only.description.label     "Опис">
+<!ENTITY read.only.link.label            "Сродна веза">
