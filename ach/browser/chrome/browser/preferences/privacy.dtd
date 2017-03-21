@@ -10,8 +10,8 @@
 <!ENTITY  trackingProtectionNever.label        "Pe matwal">
 <!ENTITY  trackingProtectionNever.accesskey    "a">
 <!ENTITY  trackingProtectionLearnMore.label    "Nong ngec mapol">
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Ma kiweko woko…">
+<!ENTITY  trackingProtectionExceptions.accesskey "M">
 
 <!ENTITY tracking.label                 "Lubo">
 <!ENTITY trackingProtectionPBM5.label         "Tii ki Gwokke ikom lubo kor i Dirica me Mung">
@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
 <!ENTITY  doNotTrack.pre.label          "Itwero bene ">
-
+<!ENTITY  doNotTrack.settings.label     "lo ter mamegi me Pe i lub kor">
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Gin mukato">
