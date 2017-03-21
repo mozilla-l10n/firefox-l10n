@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "பக்கத்தை ஏற்றுவதில் சிக்கல்">
 <!ENTITY retry.label "மீண்டும் முயற்சிக்கவும்">
 <!ENTITY returnToPreviousPage.label "பின்செல்">
-
+<!ENTITY advanced.label "மேம்பட்ட">
 <!-- Specific error messages -->
 
 

@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
 <!ENTITY recentBookmarks.label "சமீபத்தில் புத்தகக்குறியிடப்பட்டது">
 <!ENTITY otherBookmarksCmd.label "இதர புத்தகக்குறிகள்">
-
+<!ENTITY mobileBookmarksCmd.label "கைபேசி புத்தகக்குறிகள்">
 <!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
 <!ENTITY showRecentlyBookmarked.label     "சமீபத்திய புத்தகக்குறிகளை காண்பி">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "புத்தகக்குறிகள்">
 <!ENTITY bookmarksMenuButton.other.label "பிற புத்தகக்குறிகள்">
-
+<!ENTITY bookmarksMenuButton.mobile.label "கைகப்பேசி புத்தகக்குறிகள்">
 <!ENTITY viewBookmarksSidebar2.label        "புத்தகக்குறிகள் பக்கப்பட்டையைக் காட்டு">
 <!ENTITY viewBookmarksToolbar.label         "புத்தகக்குறிகள் கருவிப்பட்டையைக் காட்டு">
 
@@ -360,6 +360,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "திறந்த கீற்றுகள் இல்லை">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "மேலும் காட்டு">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
@@ -485,8 +486,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "புதிய உள்ளடக்க கீற்றில் தொடுப்பைத் திற ">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
