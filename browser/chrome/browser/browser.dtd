@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Rādīt visas grāmatzīmes">
 <!ENTITY recentBookmarks.label "Nesen saglabātās">
 <!ENTITY otherBookmarksCmd.label "Citas grāmatzīmes">
+<!ENTITY mobileBookmarksCmd.label "Mobilās grāmatzīmes">
 <!ENTITY bookmarksToolbarChevron.tooltip "Rādīt vairāk grāmatzīmju">
 <!ENTITY showRecentlyBookmarked.label     "Rādīt nesen saglabātās">
 <!ENTITY showRecentlyBookmarked.accesskey "n">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Grāmatzīmes">
 <!ENTITY bookmarksMenuButton.other.label "Citas grāmatzīmes">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobilās grāmatzīmes">
 <!ENTITY viewBookmarksSidebar2.label        "Atvērt grāmatzīmes sānjoslā">
 <!ENTITY viewBookmarksToolbar.label         "Attēlo grāmatzīmes sānu joslā">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nav atvērto cilņu">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Rādīt vairāk">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Rādīt vairāk cilnes no šīs ierīces">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Rādīt visu">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Rādīt visas cilnes no šīs ierīces">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ieslēdziet cilņu sinhronizāciju, lai redzētu cilnes no citām ierīcēm.">
