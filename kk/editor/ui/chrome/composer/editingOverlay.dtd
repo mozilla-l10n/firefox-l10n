@@ -26,6 +26,8 @@
 <!ENTITY fileRevert.accesskey "т">
 <!-- Edit menu items -->
 
+<!ENTITY publishSettings.label "Сайт баптауларын жариялау…">
+<!ENTITY publishSettings.accesskey "р">
 <!-- Toolbar buttons/items -->
 
 <!ENTITY newToolbarCmd.label "Жаңа">
