@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Definições - Dados de sites">
-<!ENTITY     settings.description          "Os seguintes websites perguntaram para guardar dados de sites no seu disco. Pode especificar quais websites são permitidos para guardar dados de sites. A predefinição de dados de sites é temporária e pode ser apagada automaticamente.">
+<!ENTITY     settings.description          "Os seguintes websites perguntaram para guardar dados de sites no seu disco. Pode especificar quais os websites que estão permitidos de guardar dados de sites. Dados de sites predefinidos são temporários e podem ser apagados automaticamente.">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Estado">
 <!ENTITY     usageCol.label                "Armazenamento">
