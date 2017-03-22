@@ -5,6 +5,7 @@
 <!-- These strings are used in the about:newtab page -->
 <!ENTITY newtab.pageTitle "නව ටැබය">
 <!ENTITY newtab.customize.classic "ඔබේ ඉහළම අඩවි පෙන්වන්න">
+<!ENTITY newtab.customize.cog.title2 "NEW TAB CONTROLS">
 <!ENTITY newtab.customize.cog.learn "නව ටැබය ගැන දැනගන්න">
 <!ENTITY newtab.customize.title "ඔබේ නව ටැබ පිටුව රුචිකරණය කරමින්">
 <!ENTITY newtab.customize.blank2 "හිස් පිටුව පෙන්වන්න">

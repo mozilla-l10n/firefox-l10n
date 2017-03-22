@@ -6,7 +6,10 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "සැමවිටම">
+<!ENTITY  overrideDefaultPageColors.never.label  "කිසිදාක නැත">
 
 <!ENTITY  color                           "පෙළ සහ පසුබිම">
 <!ENTITY  textColor.label                 "පෙළ:">
