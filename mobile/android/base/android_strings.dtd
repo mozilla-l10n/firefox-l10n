@@ -212,7 +212,7 @@
 <!ENTITY pref_category_home_add_ons "Doplnky">
 <!ENTITY pref_home_updates2 "Aktualizácie obsahu">
 <!ENTITY pref_home_updates_enabled "Povolené">
-<!ENTITY pref_home_updates_wifi "Len cez Wi-Fi">
+<!ENTITY pref_home_updates_wifi "Len cez sieť Wi-Fi">
 <!ENTITY pref_category_home_homepage "Domovská stránka">
 <!ENTITY home_homepage_title "Nastaviť domovskú stránku">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
