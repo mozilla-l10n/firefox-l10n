@@ -152,7 +152,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "הוספת חריגה…">
 
-<!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה מסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
+<!ENTITY errorReporting.automatic2 "דיווח על תקלות מסוג זה כדי לסייע ל־Mozilla לזהות ולחסום אתרים מסוכנים">
 <!ENTITY errorReporting.learnMore "מידע נוסף…">
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
