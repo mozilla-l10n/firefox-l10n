@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Funkce Do Not Track">
-<!ENTITY window.width                 "40em">
-<!ENTITY window.height                "8em">
+<!ENTITY window.width                 "50em">
+<!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Vždy použít funkci Do Not Track">
 <!ENTITY doNotTrackCheckbox2.accesskey "V">
