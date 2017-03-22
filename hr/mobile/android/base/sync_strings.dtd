@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Više&ellipsis;">
 <!ENTITY fxaccount_remove_account "Prekini vezu&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Prekini vezu sa Sync?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Vaši podaci o pretraživanju će ostati na ovom uređaju, ali više neće biti sinkronizirani s vašim računom.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox račun &formatS; je isključen.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Prekini vezu">
 
 <!ENTITY fxaccount_enable_debug_mode "Omogući Debug način rada">
 <!-- Localization note: this is the name shown by the Android system
