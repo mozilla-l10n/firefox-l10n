@@ -5,12 +5,17 @@
 <!ENTITY safeModeDialog.title             "&brandShortName; қауіпсіз режимі">
 
 
+<!ENTITY safeModeDescription.label        "&brandShortName; қауіпсіз режимде орындалуда, сондықтан сіздің баптауларыңыз, темалар және кеңейтулеріңіз уақытша сөндірілген.">
+<!ENTITY safeModeDescription2.label       "Бұл өзгерістердің кейбіреулерін немесе барлығын тұрақты қыла аласыз:">
 
+<!ENTITY disableAddons.label              "Барлық кеңейтулерді сөндіру">
+<!ENTITY disableAddons.accesskey          "д">
 
+<!ENTITY resetToolbars.label              "Саймандар панельдерін және басқару элементтерін тастау">
+<!ENTITY resetToolbars.accesskey          "т">
 
+<!ENTITY changeAndRestartButton.label     "Өзгерістерді жасау және қайта қосу">
+<!ENTITY changeAndRestartButton.accesskey "ж">
 
-
-
-
-
-
+<!ENTITY continueButton.label             "Қауіпсіз режимде жалғастыру">
+<!ENTITY continueButton.accesskey         "с">
