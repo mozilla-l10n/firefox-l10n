@@ -381,7 +381,7 @@ size. -->
 <!ENTITY pref_qrcode_enabled_summary2 "உரல் பட்டையில் QR வருடியை அனுமதி">
 
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
-<!ENTITY pref_sync2 "உள்நுழை">
+<!ENTITY pref_sync2 "புகுபதிகை">
 <!ENTITY pref_sync_summary2 "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசை">
 <!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
 <!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றை காண்பி">
@@ -516,7 +516,7 @@ size. -->
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 
 <!ENTITY doorhanger_login_no_username "[பயனர் பெயர் இல்லை]">
-<!ENTITY doorhanger_login_edit_title "உள்நுழைவை திருத்து">
+<!ENTITY doorhanger_login_edit_title "புகுபதிகையைத் திருத்து">
 <!ENTITY doorhanger_login_edit_username_hint "பயனர் பெயர்">
 <!ENTITY doorhanger_login_edit_password_hint "கடவுச்சொல்">
 <!ENTITY doorhanger_login_edit_toggle "கடவுச்சொல்லை காட்டு">
@@ -806,7 +806,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "பயர்பாக்ஸ்: கூடுதல் இணைப்புகளுடன் தனிபயனாக்கம்">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "பயர்பாக்ஸ்: ஆதரவு">
+<!ENTITY bookmarks_support "பயர்பாக்ஸின்: ஆதரவு">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "ஆண்ட்ராய்டு பலகைக்கணிகளில் தடைசெய்யப்பட்ட பயனருக்கான Firefox உதவி மற்றும் ஆதரவு">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->

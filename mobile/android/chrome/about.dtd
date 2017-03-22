@@ -12,13 +12,13 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "புதுப்பித்தல்களை பதிவிறக்கு">
 <!ENTITY aboutPage.checkForUpdates.downloading  "மேம்படுத்தலை பதிவிறக்குகிறது…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "புதுப்பித்தல்களை நிறுவு">
-<!ENTITY aboutPage.faq.label                    "அடிக்கடி வினவப்படும் கேள்விபதில்கள்">
+<!ENTITY aboutPage.faq.label                    "அகேகே">
 <!ENTITY aboutPage.support.label                "ஆதரவு">
 <!ENTITY aboutPage.privacyPolicy.label          "தனிப்பட்ட கொள்கை">
-<!ENTITY aboutPage.rights.label                 "உங்கள் உரிமையை தெரிந்துகொள்ளுங்கள்">
+<!ENTITY aboutPage.rights.label                 "உங்கள் உரிமையை அறியவும்">
 <!ENTITY aboutPage.relNotes.label               "வெளியீட்டு குறிப்புகள்">
 <!ENTITY aboutPage.credits.label                "புகழ்கள்">
-<!ENTITY aboutPage.license.label                "உரிம தகவல்">
+<!ENTITY aboutPage.license.label                "உரிமம் பற்றிய தகவல்">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
 <!ENTITY aboutPage.logoTrademark                "Firefox மற்றும் அதன் சின்னங்கள் Mozilla அறக்கட்டளையின் வர்த்தக முத்திரைகளாகும்.">
