@@ -39,7 +39,7 @@
 <!ENTITY  mediaDimension        "Өлшемдер:">
 <!ENTITY  mediaLongdesc         "Толық сипаттамасы:">
 <!ENTITY  mediaBlockImage.accesskey "б">
-<!ENTITY  mediaSaveAs           "Қалайша сақтау керек…">
+<!ENTITY  mediaSaveAs           "Қалайша сақтау…">
 <!ENTITY  mediaSaveAs.accesskey "с">
 <!ENTITY  mediaSaveAs2.accesskey "а">
 <!ENTITY  mediaPreview          "Мультимедианы алдын-ала қарау:">
