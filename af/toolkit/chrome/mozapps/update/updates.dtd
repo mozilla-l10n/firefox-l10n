@@ -25,7 +25,7 @@
 
 <!ENTITY  downloadPage.title              "Laai tans &brandShortName; af">
 <!ENTITY  downloading.intro               "Laai tans die bywerking af…">
-<!ENTITY  connecting.label                "Koppel tans aan die bywerkingbediener…">
+<!ENTITY  connecting.label                "Koppel tans aan die bywerkbediener…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; kon nie die integriteit van die trapsgewyse bywerking wat afgelaai is, verifieer nie, en daarom laai dit nou die volledige pakket af.">
 
 <!ENTITY  viewDetails.tooltip             "Bekyk details vir hierdie bywerking">
