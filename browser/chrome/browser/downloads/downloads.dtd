@@ -100,6 +100,8 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+
+<!ENTITY retryDownload.label              "Reîncearcă descărcarea">
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
@@ -126,7 +128,7 @@
      -->
 
 <!ENTITY downloadsHistory.label           "Arată toate descărcările">
-<!ENTITY downloadsHistory.accesskey       "d">
+<!ENTITY downloadsHistory.accesskey       "s">
 
 <!ENTITY openDownloadsFolder.label       "Deschide dosarul cu descărcări">
 
