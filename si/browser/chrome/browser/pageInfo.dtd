@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "සාමාන්‍ය">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "මාතෘකාව:">
 <!ENTITY  generalURL            "ලිපිනය:">
 <!ENTITY  generalType           "වර්‍ගය:">
 <!ENTITY  generalMode           "ජනන ප්‍රකාරය:">
