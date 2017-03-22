@@ -11,8 +11,8 @@
 <!ENTITY  noupdatesautodisabled.intro     "Não há atualizações disponíveis. Por favor verifique mais tarde ou ative a procura automática de atualizações do &brandShortName;.">
 
 <!ENTITY  manualUpdate.title              "Não é possível atualizar">
-<!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade, mas você não tem as permissões necessárias para a instalar. Contacte o administrador de sistemas ou tente novamente a partir de uma conta que tenha permissões de instalação neste computador.">
-<!ENTITY  manualUpdate.space.desc         "Está disponível um atualização de segurança e estabilidade, mas você não tem espaço disponível para a instalar.">
+<!ENTITY  manualUpdate.desc               "Está disponível uma atualização de segurança e estabilidade recomendada, mas você não tem as permissões necessárias para a instalar. Por favor contacte o seu administrador de sistema, ou tente novamente a partir de uma conta que tenha permissões para instalar software neste computador.">
+<!ENTITY  manualUpdate.space.desc         "Está disponível um atualização de segurança e estabilidade, mas você não tem espaço suficiente para a instalar.">
 <!ENTITY  manualUpdateGetMsg.label        "Pode sempre obter a última versão do &brandShortName; em:">
 
 <!ENTITY  unsupported.title               "Sistema não suportado">
