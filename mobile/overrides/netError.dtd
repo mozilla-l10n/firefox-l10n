@@ -28,7 +28,7 @@
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Hľadať</button>
     </div>
-  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti alebo bezdrôtové pripojenie.
+  <li>Ak sa nedá načítať žiadna stránka, skontrolujte dátové pripojenie alebo Wi-Fi pripojenie svojho zariadenia.
     <button id='wifi'>Povoliť Wi-Fi</button>
   </li>
 </ul>
@@ -128,7 +128,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
   <li>Skontrolujte, či je nastavenie servera proxy správne.</li>
-  <li>Skontrolujte, či funguje pripojenie počítača k sieti alebo bezdrôtové pripojenie.
+  <li>Skontrolujte dátové pripojenie alebo Wi-Fi pripojenie svojho zariadenia.
     <button id='wifi'>Povoliť Wi-Fi</button>
   </li>
 </ul>
@@ -170,7 +170,7 @@
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Server môže byť dočasne nedostupný alebo zaneprázdnený. Svoj pokus opakujte neskôr.</li>
-  <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti alebo bezdrôtové pripojenie.
+  <li>Ak sa nedá načítať žiadna stránka, skontrolujte dátové pripojenie alebo Wi-Fi pripojenie svojho zariadenia.
     <button id='wifi'>Povoliť Wi-Fi</button>
   </li>
 </ul>
