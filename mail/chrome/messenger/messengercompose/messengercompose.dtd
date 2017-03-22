@@ -16,20 +16,20 @@
 <!ENTITY newMessage.accesskey "Х">
 <!ENTITY newContact.label "Адрестік кітапша контакты...">
 <!ENTITY newContact.accesskey "к">
-
-
+<!ENTITY attachMenu.label "Салынымды қосу">
+<!ENTITY attachMenu.accesskey "С">
 <!ENTITY attachFileCmd.label "Файл(дар)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
 
-
-
-
-
+<!ENTITY attachCloudCmd.label "Файл сілтемесі">
+<!ENTITY attachCloudCmd.accesskey "Ф">
+<!ENTITY attachPageCmd.label "Веб парағы…">
+<!ENTITY attachPageCmd.accesskey "В">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Жеке карта (vCard)">
 <!ENTITY attachVCardCmd.accesskey "Ж">
-
-
+<!ENTITY remindLater.label "Кейінірек еске салу">
+<!ENTITY remindLater.accesskey "е">
 <!ENTITY closeCmd.label "Жабу">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "Ж">
@@ -40,8 +40,8 @@
 <!ENTITY saveAsCmd.accesskey "й">
 <!ENTITY saveAsFileCmd.label "Файл…">
 <!ENTITY saveAsFileCmd.accesskey "Ф">
-
-
+<!ENTITY saveAsDraftCmd.label "Шимай қағаз">
+<!ENTITY saveAsDraftCmd.accesskey "Ш">
 <!ENTITY saveAsTemplateCmd.label "Үлгі">
 <!ENTITY saveAsTemplateCmd.accesskey "Ү">
 <!ENTITY sendNowCmd.label "Қазір жіберу">
@@ -78,10 +78,10 @@
 <!ENTITY pasteCmd.accesskey "р">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-
+<!ENTITY editRewrapCmd.accesskey "а">
 <!ENTITY deleteCmd.label "Өшіру">
 <!ENTITY deleteCmd.accesskey "ш">
-
+<!ENTITY editRewrapCmd.label "Қайта тасымалдау">
 
 <!ENTITY renameAttachmentCmd.label "Салынымды қайта атау...">
 <!ENTITY renameAttachmentCmd.accesskey "а">
