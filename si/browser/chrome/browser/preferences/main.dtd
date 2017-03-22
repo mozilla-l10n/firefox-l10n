@@ -26,6 +26,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "තෝරන්න...">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "සැමවිටම &brandShortName; ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
