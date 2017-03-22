@@ -109,7 +109,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopier råtekst til utklippstavlen">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandkasse">
-<!ENTITY aboutSupport.sandboxSyscallLogTitle "Avvis systemkall">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Avvist systemkall">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Sekund siden">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
