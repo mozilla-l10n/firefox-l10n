@@ -23,20 +23,25 @@
 <!ENTITY rights.intro-point2b "осында">
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
+
+<!ENTITY rights.intro-point3a "&vendorShortName; өнімдері үшін жекелік саясатын табуға болады">
 <!ENTITY rights.intro-point3b "осында">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
 
 <!ENTITY rights.intro-point3-unbranded "Осы өнімге қолдана алатын кез келген құпиялық саясаты осы жерде тізіліп көрсетілуі тиіс.">
 <!-- point 4 text for official branded builds -->
+
+<!ENTITY rights.intro-point4a "&brandShortName; сонымен қатар қосымша қызметтерді ұсынады, соның ішінде қосымшаларды жаңарту қызметі; алайда, оның 100&#037; дәлдігін немесе қателердің жоқ болуына кепілдік бере алмаймыз. Көбірек ақпаратты, соның ішінде қызметтерді қалай сөндіруге болатынын, табуға болады">
 <!ENTITY rights.intro-point4b "қызметтерді пайдалану шарттарынан ">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "Егер бұл өнім құрамында сайттар туралы хабарлау қызметі бар болса, сол қызметтерді пайдалану шарттары ">
-
+<!ENTITY rights.intro-point4b-unbranded "Веб сайт қызметтері">
 <!ENTITY rights.intro-point4c-unbranded "бөлімінде көрсетілуі тиіс.">
 
+<!ENTITY rights.webservices-header "&brandFullName; веб сайт қызметтері">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
