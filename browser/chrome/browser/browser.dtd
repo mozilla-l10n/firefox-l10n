@@ -494,7 +494,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Фреймді жаңарту">
 <!ENTITY reloadFrameCmd.accesskey     "ж">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Ерекшеленген фрагменттің бастапқы коды">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Ерекшеленгеннің бастапқы коды">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML бастапқы коды">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
