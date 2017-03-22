@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "पृष्ठ लोड गर्न समस्या">
 <!ENTITY retry.label "पुनःप्रयास गर्नुहोस्">
 <!ENTITY returnToPreviousPage.label "पछाडि जानुहोस्">
-
+<!ENTITY advanced.label "उन्नत">
 <!-- Specific error messages -->
 
 
@@ -30,6 +30,7 @@
 <!ENTITY generic.title "ओहो।">
 <!ENTITY generic.longDesc "<p>&brandShortName; कुनै कारणले यो पृष्ठ लोड गर्न सकिंदैन ।</p>">
 
+<!ENTITY captivePortal.title "सञ्जालमा लगइन गर्नुहोस्">
 
 
 
