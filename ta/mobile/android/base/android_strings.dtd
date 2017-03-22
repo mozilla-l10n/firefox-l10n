@@ -383,8 +383,8 @@ size. -->
 <!ENTITY pref_use_master_password "முதன்மை கடவுச்சொல்லை பயன்படுத்து">
 <!ENTITY pref_sync2 "புகுபதிகை">
 <!ENTITY pref_sync_summary2 "உங்கள் கீற்றுகளை, புத்தகக்குறிகளை, கடவுச்சொற்களை, வரலாற்றை ஒத்திசை">
-<!ENTITY pref_search_suggestions "தேடுல் பரிந்துரைகளை காட்டு">
-<!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றை காண்பி">
+<!ENTITY pref_search_suggestions "தேடல் பரிந்துரைகளைக் காட்டு">
+<!ENTITY pref_history_search_suggestions "தேடல் வரலாற்றைக் காண்பி">
 <!ENTITY pref_import_options "இறக்குமதி விருப்பங்கள்">
 <!ENTITY pref_import_android_summary "சொந்த உலாவியிலிருந்து புத்தகக்குறிகளையும் வரலாறையும் இறக்கு">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
