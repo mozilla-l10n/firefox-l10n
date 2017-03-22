@@ -541,7 +541,7 @@ size. -->
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!ENTITY pref_compact_tabs "संकुचित ट्याबहरू">
-<!ENTITY pref_compact_tabs_summary2 "चित्र मोडमा ट्याबहरूलाई दुई स्तम्भहरुमा मिलाउनुहोस">
+<!ENTITY pref_compact_tabs_summary2 "चित्र मोडमा ट्याबहरूलाई दुई स्तम्भहरूमा मिलाउनुहोस्">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -788,7 +788,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 
 <!ENTITY restrictable_feature_addons_installation "एड-अनहरू">
-<!ENTITY restrictable_feature_addons_installation_description "Firefox विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एड-अनहरूले केही प्रतिबन्धहरु अक्षम गर्न सक्छन्।">
+<!ENTITY restrictable_feature_addons_installation_description "Firefox विशेषताहरू वा कार्यात्मकता थप्नुहोस्। नोट: एड-अनहरूले केही प्रतिबन्धहरू अक्षम गर्न सक्छन्।">
 <!ENTITY restrictable_feature_private_browsing "निजी ब्राउजिङ्ग">
 <!ENTITY restrictable_feature_private_browsing_description "परिवारका सदस्यहरूले भ्रमण गर्नुभएका साइटहरू र पृष्ठहरू बारेमा जानकारी बचत नगरी भ्रमण गर्न अनुमति दिन्छ।">
 <!ENTITY restrictable_feature_clear_history "इतिहास हटाउनुहोस्">
