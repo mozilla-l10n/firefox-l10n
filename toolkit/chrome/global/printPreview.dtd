@@ -32,6 +32,7 @@
 <!ENTITY Custom.label         "රිසිකරණය...">
 <!ENTITY ShrinkToFit.label    "සරිලන ලෙසට අඩු කරන්න">
 <!ENTITY customPrompt.title   "රිසිකරණ පරිමාණය...">
+<!ENTITY simplifyPage.accesskey "i">
 
 <!ENTITY homearrow.tooltip    "පළමු පිටුව">
 <!ENTITY endarrow.tooltip     "අවසාන පිටුව">
