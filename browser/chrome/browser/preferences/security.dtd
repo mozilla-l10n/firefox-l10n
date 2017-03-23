@@ -13,6 +13,7 @@
 
 <!ENTITY  blockDownloads.accesskey        "D">
 
+<!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "හැරදැමීම්...">
 <!ENTITY  addonExceptions.accesskey     "E">
