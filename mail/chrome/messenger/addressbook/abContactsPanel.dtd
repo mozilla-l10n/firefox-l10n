@@ -29,10 +29,10 @@
 <!ENTITY propertiesContext.accesskey        "и">
 <!ENTITY abPropertiesContext.label          "Қасиеттері">
 <!ENTITY abPropertiesContext.accesskey      "и">
-
-
-
-
+<!ENTITY editContactContext.label           "Контактты түзету">
+<!ENTITY editContactContext.accesskey       "е">
+<!ENTITY editMailingListContext.label       "Тізімді түзету">
+<!ENTITY editMailingListContext.accesskey   "е">
 
 
 
