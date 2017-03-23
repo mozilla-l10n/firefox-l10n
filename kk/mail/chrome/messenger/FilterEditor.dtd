@@ -8,7 +8,7 @@
 <!ENTITY filterName.accesskey "С">
 
 <!ENTITY junk.label "Ескі-құсқы">
-
+<!ENTITY notJunk.label "Спам емес">
 
 <!ENTITY lowestPriorityCmd.label "Ең төмен">
 <!ENTITY lowPriorityCmd.label "Төмен">
@@ -21,8 +21,8 @@
 <!ENTITY contextIncomingMail.accesskey "л">
 <!ENTITY contextManual.label "Қолмен орындау">
 <!ENTITY contextManual.accesskey "р">
-
-
+<!ENTITY contextBeforeCls.label "Спамды анықтау алдында сүзгілеу">
+<!ENTITY contextAfterCls.label "Спамды анықтаудан кейін сүзгілеу">
 <!ENTITY contextOutgoing.label "Жібергеннен кейін">
 <!ENTITY contextOutgoing.accesskey "б">
 <!ENTITY contextArchive.label "Архивтеу">
@@ -44,7 +44,7 @@
 <!ENTITY markMessageStarred.label "Жұлдызшаны қосу">
 <!ENTITY setPriority.label "Приоритетті келесідей орнату">
 <!ENTITY addTag.label "Хабарламаға тег қою">
-
+<!ENTITY setJunkScore.label "Спам күйін келесідей орнату:">
 <!ENTITY deleteMessage.label "Хабарламаны өшіру">
 <!ENTITY deleteFromPOP.label "POP серверінен өшіру">
 <!ENTITY fetchFromPOP.label "POP серверінен алу">
@@ -62,3 +62,5 @@
   -->
 <!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

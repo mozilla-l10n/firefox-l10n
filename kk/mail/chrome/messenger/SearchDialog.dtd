@@ -3,10 +3,12 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- for SearchDialog.xul -->
 
-
-
-
-
+<!ENTITY searchHeading.label         "Хабарламаларды қайда іздеу:">
+<!ENTITY searchHeading.accesskey     "з">
+<!ENTITY searchSubfolders.label      "Ішкі бумалардан іздеу">
+<!ENTITY searchSubfolders.accesskey  "е">
+<!ENTITY searchOnServer.label        "Іздеуді серверде орындау">
+<!ENTITY searchOnServer.accesskey    "ы">
 <!ENTITY resetButton.label           "Тазарту">
 <!ENTITY resetButton.accesskey       "Т">
 <!ENTITY openButton.label            "Ашу">
@@ -17,7 +19,7 @@
 <!ENTITY results.label               "Нәтижелер">
 <!ENTITY moveButton.label            "Қайда жылжыту">
 <!ENTITY moveButton.accesskey        "й">
-
+<!ENTITY closeCmd.key                "W"> 
 <!ENTITY openInFolder.label          "Бумада ашу">
 <!ENTITY openInFolder.accesskey      "м">
 <!ENTITY saveAsVFButton.label        "Іздеу бумасы ретінде сақтау">
@@ -46,21 +48,21 @@
 <!ENTITY accountColumn.label "Тіркелгі">
 <!ENTITY statusColumn.label "Күйі">
 <!ENTITY sizeColumn.label "Өлшемі">
-
+<!ENTITY junkStatusColumn.label "Спам күйі">
 <!ENTITY unreadColumn.label "Оқылмаған">
 <!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
-
+<!ENTITY starredColumn.label "Жұлдызы бар">
 <!ENTITY locationColumn.label "Орналасу">
-
+<!ENTITY idColumn.label "Алынған реті">
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Көрсетілетін бағандарды таңдаңыз">
 
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
-
+<!ENTITY correspondentColumn2.tooltip "Жіберушілер бойынша сұрыптау">
 <!ENTITY subjectColumn2.tooltip "Тақырыбы бойынша сұрыптау">
 <!ENTITY dateColumn2.tooltip "Күні бойынша сұрыптау">
 <!ENTITY priorityColumn2.tooltip "Приоритеті бойынша сұрыптау">
@@ -68,7 +70,7 @@
 <!ENTITY accountColumn2.tooltip "Тіркелгі бойынша сұрыптау">
 <!ENTITY statusColumn2.tooltip "Қалып-күйі бойынша сұрыптау">
 <!ENTITY sizeColumn2.tooltip "Өлшемі бойынша сұрыптау">
-
+<!ENTITY junkStatusColumn2.tooltip "Спам күйі бойынша сұрыптау">
 
 
 <!ENTITY readColumn2.tooltip "Оқылғаны бойынша сұрыптау">
