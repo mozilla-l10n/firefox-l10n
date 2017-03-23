@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName; ආරම්භ කිරීමේදී:">
 <!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupUserHomePage.label "ඔබගේ නිවාස පිටුව පෙන්වන්න">
 <!ENTITY startupBlankPage.label    "හිස් පිටුවක් පෙන්වන්න">
+<!ENTITY startupPrevSession.label  "අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න">
 
 <!ENTITY homepage.label            "මුල් පිටුව:">
 <!ENTITY homepage.accesskey        "P">
@@ -26,6 +28,7 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "තෝරන්න...">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "ගොනු සුරකින්නේ කොතනටද යන්න සැමවිටම ඔබෙන් විමසන්න">
 <!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "සැමවිටම &brandShortName; ඔබේ පෙරනිමි ගවේශකයද බව පිරික්සන්න">
