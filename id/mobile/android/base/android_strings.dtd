@@ -499,7 +499,7 @@ size. -->
 <!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka di Tab Pribadi">
 <!ENTITY contextmenu_remove "Hapus">
-<!ENTITY contextmenu_add_to_launcher "Tambahkan ke Layar Beranda">
+<!ENTITY contextmenu_add_to_launcher "Tambah ke Layar Beranda">
 <!ENTITY contextmenu_share "Bagikan">
 <!ENTITY contextmenu_pasteandgo "Tempel &amp; Kunjungi">
 <!ENTITY contextmenu_paste "Tempel">
