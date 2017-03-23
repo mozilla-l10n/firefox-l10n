@@ -53,6 +53,7 @@
 <!ENTITY offlineStorage2.label           "නොබැඳි ගබඩාව සහ පරිශීලක තොරතුරු">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY clearSiteData.label             "සියළු දත්ත හිස් කරන්න">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "සිටුවම්…">
 <!ENTITY siteDataSettings.accesskey      "i">
