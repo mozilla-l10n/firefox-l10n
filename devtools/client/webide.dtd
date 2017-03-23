@@ -31,11 +31,19 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "දර්ශකය">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
+<!ENTITY runtimeMenu_showDevicePrefs_label "මෙවලම් අභිප්‍රේත">
+<!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
+<!ENTITY runtimeMenu_showSettings_label "මෙවලම් සිටුවම්">
+<!ENTITY runtimeMenu_showSettings_accesskey "s">
 
 <!ENTITY viewMenu_label "දක්වන්න">
 <!ENTITY viewMenu_accesskey "V">
+<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "විශාල කරන්න">
+<!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "කුඩා කරන්න">
+<!ENTITY viewMenu_zoomout_accesskey "O">
+<!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY runtimeButton_label "දහාවන කාලය තෝරන්න">
 
@@ -51,6 +59,10 @@
 <!-- toggle sidebar -->
 <!ENTITY key_toggleEditor "B">
 <!-- zoom -->
+<!ENTITY key_zoomin "+">
+<!ENTITY key_zoomin2 "=">
+<!ENTITY key_zoomout "-">
+<!ENTITY key_resetzoom "0">
 
 <!ENTITY projectPanel_myProjects "මගේ ව්‍යාපෘති">
 <!ENTITY projectPanel_tabs "ටැබ්">
@@ -106,4 +118,10 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_name "නම">
+<!ENTITY simulator_software "මෘදුකාංග">
 <!ENTITY simulator_version "නිකුතුව">
+<!ENTITY simulator_profile "පැතිකඩ">
+<!ENTITY simulator_hardware "දෘඩාංග">
+<!ENTITY simulator_device "මෙවලම">
+<!ENTITY simulator_screenSize "තිරය">
