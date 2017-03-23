@@ -22,9 +22,9 @@
 <!ENTITY tabCrashed.requestReport "Ga'min akïn' rayi'î rakïj ñanj na">
 <!ENTITY tabCrashed.sendReport2 "Gachrun ni natà't 'ngo sa 'iaj a'nan' riña rakïj ñanj ni'iajt na">
 <!ENTITY tabCrashed.commentPlaceholder2 "Nuguan' taj a (Rangà' ni'iaj a'ngô nej duguî' nuguan' na)">
-
-
-
-
-
+<!ENTITY tabCrashed.includeURL2 "Gachrun si URL pâjina na ngà sa rayi'ì a'min gakïn't">
+<!ENTITY tabCrashed.emailPlaceholder "Gachrun si Korreôt hiuj na">
+<!ENTITY tabCrashed.emailMe "Ga'nïnj 'ngo korrêo riñanj si hua doj nuguan'an rayi'î na">
+<!ENTITY tabCrashed.reportSent "Nga na' sa rayi'ì a'min gakïn't. ¡Guruhuât ruguñu'unjt da' nahuin hue'ê doj &brandShortName; nej!">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Rakïj ñanj nata' rayi'î fôndo">
 
