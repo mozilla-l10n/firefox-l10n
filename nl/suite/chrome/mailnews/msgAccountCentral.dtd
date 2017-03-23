@@ -4,7 +4,7 @@
 
 <!ENTITY emailSectionHdr.label        "E-mail">
 <!ENTITY readMsgsLink.label           "Berichten lezen">
-<!ENTITY composeMsgLink.label         "Nieuw bericht aanmaken">
+<!ENTITY composeMsgLink.label         "Nieuw bericht opstellen">
 
 <!ENTITY newsSectionHdr.label         "Nieuwsgroepen">
 <!ENTITY subscribeNewsLink.label      "Nieuwsgroepabonnementen beheren">
