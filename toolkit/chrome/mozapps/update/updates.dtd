@@ -67,6 +67,7 @@ install software on this computer.">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "යාවත් කිරීම් ස්ථාපනය &brandShortName; මීළඟට ආරම්භ වූ විට සිදු වේ. ඔබට දැන් 
  &brandShortName; යළි ආරම්භ කළ හැක, හෝ දැනට වැඩ කරමින් පසුව යළි අරඹන්න.">
+<!ENTITY  finishedBackground.moreElevated "මෙම යාවත්කාලයට පාලක වරප්‍රසාද අවශ්‍යය වෙයි. යාවත්කාලය &brandShortName; ආරම්භවන ඊළඟ අවස්ථාවේ ස්ථාපනය වනු ඇත. ඔබට දැන් &brandShortName; ප්‍රතිපණගැන්වීමට, වැඩ දිගටම කරගෙනගොස් පසුව ප්‍රතිපණගැන්වීමට හෝ මෙම යාවත්කාලය ප්‍රතික්ෂේප කිරීමට හැක.">
 
 <!ENTITY  update.details.label            "තොරතුරු">
 <!ENTITY  update.installedOn.label        "ස්ථාපිත දිනය:">
