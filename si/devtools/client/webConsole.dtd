@@ -59,6 +59,9 @@
 <!ENTITY btnServerLogging.label       "සේවාදායකය">
 <!ENTITY btnServerLogging.accesskey   "S">
 <!ENTITY btnServerErrors              "දෝෂ">
+<!ENTITY btnServerInfo                "තොරතුරු">
+<!ENTITY btnServerWarnings            "අනතුරු ඇඟවීම්">
+<!ENTITY btnServerLog                 "ලොග් සටහන්">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
