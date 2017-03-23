@@ -32,7 +32,7 @@
 <!ENTITY runFilters.accesskey "ж">
 <!ENTITY stopFilters.label "Тоқтату">
 <!ENTITY stopFilters.accesskey "Т">
-<!ENTITY folderPickerPrefix.label "Таңдалған сүзгілерді мынаған қолдану:">
+<!ENTITY folderPickerPrefix.label "Таңдалған сүзгі(лер)ді мынаған қолдану:">
 <!ENTITY folderPickerPrefix.accesskey "д">
 <!ENTITY helpButton.label "Көмек">
 <!ENTITY helpButton.accesskey "К">
