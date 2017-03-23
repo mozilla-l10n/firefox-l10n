@@ -23,8 +23,8 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Navigare privată ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "nu te face anonim">
 <!ENTITY aboutPrivateBrowsing.note.after                 " pe internet. Angajatorul sau furnizorul de servicii internet pot să știe în continuare paginile pe care le vizitezi.">
-<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Află mai multe despre">
-<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Navigare privată">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Află mai multe despre ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "navigarea privată">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Protecție față de urmărire">
