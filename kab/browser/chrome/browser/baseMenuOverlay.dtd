@@ -14,8 +14,8 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "Tallalt"> 
 <!ENTITY helpMenuWin.accesskey    "T">
-<!ENTITY aboutProduct2.label      "Ɣef &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "Ɣ">
+<!ENTITY aboutProduct2.label      "Γef &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "Γ">
 <!ENTITY productHelp2.label       "Tallalt &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "a">
 <!ENTITY helpMac.commandkey       "?">
