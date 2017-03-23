@@ -16,4 +16,5 @@
 <!ENTITY     cancel.label                  "Cancelar">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Removendo dados do site">
+<!ENTITY     removingDialog.description    "A remoção de dados do site também removerá os cookies. Isso pode desconectá-lo de sites e remover o conteúdo Web off-line. Tem certeza de que deseja fazer as alterações?">
 <!ENTITY     siteTree.label                "Os seguintes cookies serão removidos:">
