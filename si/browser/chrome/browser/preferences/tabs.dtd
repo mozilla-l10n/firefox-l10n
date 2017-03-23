@@ -11,6 +11,7 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "ටැබ් කිහිපයක් වසා දැමීමේදී ඔබට අනතුරු අගවයි">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "බහු ටැබ විවෘත කිරීමේදී &brandShortName; මන්දගාමීවීමේ හැකියාවක් ඇති බවට ඔබට අනතුරු අඟවයි;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "ඔබ සබැඳියක් නව් ටැබයක විවෘත කිරීමේදී ක්‍ෂණිකව එයට යොමුවන්න">

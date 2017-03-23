@@ -63,6 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "ඉතිහාසයෙන් ඉවත් කරන්න">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.clearList2.label             "පූර්ව දර්ශන පැනලය හිස් කරන්න">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "බාගතකිරීම් පිරිසිදු කරන්න">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
@@ -92,6 +93,7 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
+<!ENTITY showMoreInformation.label        "තවත් තොරතුරු පෙන්වන්න">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
@@ -132,6 +134,7 @@
 <!ENTITY downloadsHistory.label           "සියළු බාගත කිරීම් පෙන්වන්න">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "බාගත කිරීමේ බහාලුම විවෘත කරන්න">
 
 <!ENTITY clearDownloadsButton.label       "බාගතකිරීම් පිරිසිදු කරන්න">
 <!ENTITY clearDownloadsButton.tooltip     "සම්පූර්ණ, අවලංගු කළ හා අසාර්ථක බාගැනීම් පිරිසිදු කරයි">

@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "සියළු ඇඩෝන සඳහා මෙවලම්">
 
+<!ENTITY getThemes.learnMore                  "තේමා දහස් ගණනකින් තෝරාගන්න.">
+
 <!ENTITY cmd.back.tooltip                     "පිටුවක් පසුපසට යන්න">
 <!ENTITY cmd.forward.tooltip                  "පිටුවක් ඉදිරියට යන්න">
 
@@ -246,3 +248,5 @@ your own.">
 <!ENTITY disabledUnsigned.devInfo.start "මෙය කියවීම මගින් තම ඇඩෝන තහවුරු කරගැනීමට කැමති සංවර්ධකයන් ඉදිරියට යන්න ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ශ්‍රමික">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+<!ENTITY pluginDeprecation.learnMore "තවත් දැනගන්න.">
