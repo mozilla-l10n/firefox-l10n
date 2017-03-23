@@ -9,5 +9,12 @@
 <!ENTITY     usageCol.label                "Penyimpanan">
 <!ENTITY     searchPlaceHolder             "Cari">
 <!ENTITY     searchPlaceHolder.accesskey   "C">
+<!ENTITY     removeSelected.label          "Hapus yang Dipilih">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "Simpan Perubahan">
+<!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Batal">
 <!ENTITY     cancel.accesskey              "B">
+<!ENTITY     removingDialog.title          "Menghapus Data Situs">
+<!ENTITY     removingDialog.description    "Menghapus data situs juga akan menghapus kuki. Ini akan membuat Anda keluar dari situs web dan menghapus konten luring web. Apakah Anda yakin untuk membuat pengubahan ini?">
+<!ENTITY     siteTree.label                "Kuki situs web berikut akan dihapus:">
