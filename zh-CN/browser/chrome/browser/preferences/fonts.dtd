@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "拉丁字母">
-<!ENTITY  font.langGroup.japanese                 "日语">
+<!ENTITY  font.langGroup.japanese                 "日文">
 <!ENTITY  font.langGroup.trad-chinese             "繁体中文（台湾）">
 <!ENTITY  font.langGroup.simpl-chinese            "简体中文">
 <!ENTITY  font.langGroup.trad-chinese-hk          "繁体中文（香港）">
@@ -43,15 +43,15 @@
 <!ENTITY  font.langGroup.ethiopic                 "埃塞俄比亚文">
 <!ENTITY  font.langGroup.georgian                 "乔治亚文">
 <!ENTITY  font.langGroup.gujarati                 "古吉拉特文">
-<!ENTITY  font.langGroup.gurmukhi                 "果鲁穆奇语">
-<!ENTITY  font.langGroup.khmer                    "高棉语">
-<!ENTITY  font.langGroup.malayalam                "马拉雅拉姆语">
+<!ENTITY  font.langGroup.gurmukhi                 "果鲁穆奇文">
+<!ENTITY  font.langGroup.khmer                    "高棉文">
+<!ENTITY  font.langGroup.malayalam                "马拉雅拉姆文">
 <!ENTITY  font.langGroup.math                     "数学">
-<!ENTITY  font.langGroup.odia                     "奥里亚语">
-<!ENTITY  font.langGroup.telugu                   "泰卢固语">
-<!ENTITY  font.langGroup.kannada                  "卡纳达语">
-<!ENTITY  font.langGroup.sinhala                  "僧伽罗语">
-<!ENTITY  font.langGroup.tibetan                  "藏语">
+<!ENTITY  font.langGroup.odia                     "奥里亚文">
+<!ENTITY  font.langGroup.telugu                   "泰卢固文">
+<!ENTITY  font.langGroup.kannada                  "卡纳达文">
+<!ENTITY  font.langGroup.sinhala                  "僧伽罗文">
+<!ENTITY  font.langGroup.tibetan                  "藏文">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "最小字体大小：">
 <!ENTITY minSize.accesskey                        "o">
@@ -91,17 +91,17 @@
 <!ENTITY languages.customize.Fallback.hebrew      "希伯莱语">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "日语">
+<!ENTITY languages.customize.Fallback.japanese    "日文">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.korean      "朝鲜语">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "泰语">
+<!ENTITY languages.customize.Fallback.thai        "泰文">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "土耳其语">
+<!ENTITY languages.customize.Fallback.turkish     "土耳其文">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "越南语">
+<!ENTITY languages.customize.Fallback.vietnamese  "越南文">
 <!ENTITY languages.customize.Fallback.other       "其他（含西欧）">
