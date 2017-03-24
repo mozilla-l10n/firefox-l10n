@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Multiprocesové okná">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kľúč Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kľúč Mozilla Location Service">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Núdzový režim">
 
 <!ENTITY aboutSupport.showDir.label "Otvoriť priečinok">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopírovať nespracované údaje do schránky">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Odmietnuté systémové volania">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Pred pár sekundami">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Typ procesu">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Systémové volanie">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenty">
 
 <!ENTITY aboutSupport.safeModeTitle "Vyskúšajte núdzový režim">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reštartovať a zakázať doplnky…">
