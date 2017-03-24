@@ -8,8 +8,8 @@
 <!ENTITY next.tooltip "Ejuhu ñe'ẽrysýi ñesẽ tenondeveguáva">
 <!ENTITY previous.tooltip "Eho ñe'ẽ juhupyre mboyveguávape">
 <!ENTITY findCloseButton.tooltip "Jeheka renda mboty">
-
-
+<!ENTITY highlightAll.label "Embojekuaave">
+<!ENTITY highlightAll.accesskey "l">
 <!ENTITY highlightAll.tooltiptext "Ehechaukave oĩva guive jehaipyre">
 <!ENTITY caseSensitive.label "Ejesareko tai tuicháva/michĩva rehe">
 <!ENTITY caseSensitive.accesskey "c">
