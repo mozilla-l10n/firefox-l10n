@@ -69,7 +69,12 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at proxyinnstillingene er riktige.</li> <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li> <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, kontroller at &brandShortName; har tillatelse til å få tilgang til Internett.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsiden videresender ikke ordentlig">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til skyldes at infokapsler er avslått.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Dette problemet kan av og til skyldes at infokapsler er avslått eller ved å ikke godta
+    infokapsler.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kontroller at systemet ditt har Personal Security Manager installert.</li> <li>Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.</li> </ul>">
