@@ -80,6 +80,7 @@
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 <!ENTITY fxaccount_remove_account "काढा&ellipsis;">
 
+<!ENTITY fxaccount_remove_account_dialog_title2 "ताळमेळ जोडणी मोडायची?">
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
