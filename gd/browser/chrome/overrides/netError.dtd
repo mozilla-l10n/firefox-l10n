@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Duilgheadas le luchdadh na duilleige">
 <!ENTITY retry.label "Feuch ris a-rithist">
 <!ENTITY returnToPreviousPage.label "Air ais">
-
+<!ENTITY advanced.label "Adhartach">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>Chan urrainn dha &brandShortName; an duilleag seo a luchdadh air sgàth adhbhar air choireigin.</p>">
 
 <!ENTITY captivePortal.title "Clàraich a-steach dhan lìonra">
+<!ENTITY captivePortal.longDesc2 "<p>Feumaidh tu clàradh a-steach dhan lìonra seo mus fhaigh thu cothrom air an eadar-lìon.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Fosgail an duilleag airson clàradh a-steach do lìonra">
 
 <!ENTITY malformedURI.title "Chan e seòladh dligheach a tha ann">
 <!ENTITY malformedURI.longDesc "<ul> <li>Bidh seòlaidhean-lìn coltach ris an fhear seo a ghnàth: <strong>http://www.example.com/</strong></li> <li>Dèan cinnteach gu bheil thu a’ cleachdadh slaisichean (.i. <strong>/</strong>).</li> </ul>">

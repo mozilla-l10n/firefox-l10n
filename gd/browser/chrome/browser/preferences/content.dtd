@@ -53,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "An t-eadar-theangachadh le">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Susbaint DRM">
 
 <!ENTITY  playDRMContent.label         "Cluich an t-susbaint DRM">
 <!ENTITY  playDRMContent.accesskey     "t">
