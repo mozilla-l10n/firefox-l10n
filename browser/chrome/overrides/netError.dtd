@@ -12,7 +12,7 @@
 
 <!-- Specific error messages -->
 
-<!ENTITY connectionFailure.title "Klarte ikke koble til">
+<!ENTITY connectionFailure.title "Kan ikke koble til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Tilgang til denne adressen er begrenset">
