@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Problem ved lasting av side">
 <!ENTITY retry.label "Prøv igjen">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Klarte ikke koble til">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -62,7 +62,12 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at proxyinnstillingene er korrekte.</li> <li>Kontroller at datamaskinen har en virkende nettverksforbindelse.</li> <li>Dersom datamaskinen din eller nettverket er beskyttet av en brannmur eller proxy, kontroller at &brandShortName; har tillatelse til å få tilgang til Internett.</li> </ul>">
 
 <!ENTITY redirectLoop.title "Nettsiden videresender ikke ordentlig">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Dette problemet kan av og til skyldes at infokapsler er avslått.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>Dette problemet kan av og til skyldes at infokapsler er avslått eller ved å ikke godta
+    infokapsler.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "Uventet svar fra server">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Kontroller at systemet ditt har Personal Security Manager installert.</li> <li>Dette problemet kan skyldes en uvanlig konfigurasjon på serveren.</li> </ul>">
@@ -84,11 +89,11 @@
 <!ENTITY securityOverride.linkText "Eller du kan lage en unntaksregel …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Få meg bort herfra">
 <!ENTITY securityOverride.exceptionButtonLabel "Lag et unntak …">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Du bør ikke legge til en unntaksregel dersom du bruker en Internett-forbindelse som du ikke stoler på, eller dersom du ikke er vant med å se slike advarsler på denne serveren.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
