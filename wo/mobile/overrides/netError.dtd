@@ -55,18 +55,18 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>Web addresses are usually written like
+  <li>Màkkaani web yi naka-jekk nii lañ leen di bindee
     <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
-      <button id='searchbutton'>Search</button>
+      <button id='searchbutton'>Seet</button>
     </div>
-  <li>Make sure that you're using forward slashes (i.e.
+  <li>Wóorluwul ci ne galan bi wengee kanam nga jëfandikoo(i.e.
     <strong>/</strong>).</li>
 </ul>
 ">
 
-<!ENTITY netInterrupt.title "Jokkoo bi taxaw na">
+<!ENTITY netInterrupt.title "Lonkoo gi dafa dog">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Jukki bi jeexal na">
@@ -185,11 +185,16 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY remoteXUL.title "XUL bu sori">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Jokkool ak boroomi dalub web ngir yëgal leen jafe jafe bi.</li></ul></p>">
 
+<!ENTITY sslv3Used.title "Lonku cig karaange antuwul">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
+<!ENTITY sslv3Used.longDesc "Yeneeni xibaar: SSL_ERROR_UNSUPPORTED_VERSION">
 
+<!ENTITY weakCryptoUsed.title "Sa lonkoo amul kaaraange">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
+<!ENTITY weakCryptoUsed.longDesc "Yeneeni xibaar: SSL_ERROR_NO_CYPHER_OVERLAP">
 
+<!ENTITY inadequateSecurityError.title "Sa lonkoo amul kaaraange">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
