@@ -34,7 +34,7 @@
 <!ENTITY community.creditsLink      "global gemenskap">
 <!ENTITY community.end3             " som arbetar tillsammans för att hålla webben öppen, offentlig och tillgänglig för alla.">
 
-<!ENTITY helpus.start               "Vill du hjälpa till?">
+<!ENTITY helpus.start               "Vill du hjälpa till? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Gör en donation">
 <!ENTITY helpus.middle              " eller ">
