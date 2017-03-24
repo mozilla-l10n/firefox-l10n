@@ -61,6 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Windows rembiapoita">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google ñe'ẽñemi">
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Teko jerovia">
@@ -108,13 +109,13 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallArgs "Je'ekuaaite">
 
 <!ENTITY aboutSupport.safeModeTitle "Eipuru teko jerovia">
 <!ENTITY aboutSupport.restartInSafeMode.label "Moĩmbaha oguepyréva moñepyrũjey…">
