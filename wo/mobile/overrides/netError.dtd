@@ -169,7 +169,7 @@ mën nga jéemaat ci kanam.</li>
 
 
 <!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
-<!ENTITY securityOverride.getMeOutOfHereButton "Génnal xët wi !">
+<!ENTITY securityOverride.getMeOutOfHereButton "Génn xët wi!">
 <!ENTITY securityOverride.exceptionButtonLabel "Yokk lu kenn tëggaalewul…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
@@ -198,3 +198,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sa lonkoo amul kaaraange">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> dafay jëfandikoo ay xarala yu yagg walla yu yomb a song. Ab songkat di na man a siiwal ci lu yomb ay xibaar yoo foogoon ne aar nañ leen. Yorkatu dalu web bi faww mu jubbanti joxekaay bi laataa nga koy man a yër.</p><p> Njuumte: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
