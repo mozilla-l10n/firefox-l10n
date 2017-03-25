@@ -174,7 +174,7 @@
 <!ENTITY pref_category_accessibility     "Hõlbustus">
 <!ENTITY pref_category_accessibility_summary2 "teksti suurus, suurendamine, häälkäsklused">
 <!ENTITY pref_category_privacy_short     "Privaatsus">
-<!ENTITY pref_category_privacy_summary4  "jälitamine, kasutajakonod, andmete valikud">
+<!ENTITY pref_category_privacy_summary4  "jälitamine, kasutajakontod, andmete valikud">
 <!ENTITY pref_category_vendor2           "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2   "&brandShortName;i teave, KKK, tagasiside">
 <!ENTITY pref_category_datareporting     "Saadetavad andmed">
