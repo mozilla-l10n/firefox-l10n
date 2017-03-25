@@ -20,6 +20,9 @@
 <!ENTITY tabCrashed.requestHelp "Ans gidas?">
 <!ENTITY tabCrashed.requestHelpMessage "Annunzias da collaps ans gidan da chattar problems e da meglierar &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "Rapportar quest tab">
+<!ENTITY tabCrashed.sendReport2 "Trametter ina annunzia da collaps per il tab che ti vesas gist">
+<!ENTITY tabCrashed.commentPlaceholder2 "Commentari facultativ (attenziun: ils commentaris vegnan publitgads)">
+<!ENTITY tabCrashed.includeURL2 "Integrar l'URL da la pagina en questa annunzia da collaps">
 <!ENTITY tabCrashed.emailPlaceholder "Endatescha qua tia adressa dad e-mail">
 <!ENTITY tabCrashed.emailMe "M'infurmar per e-mail sch'i dat novas infurmaziuns">
 <!ENTITY tabCrashed.reportSent "Il rapport da collaps è gia vegnì tramess; grazia per gidar a meglierar &brandShortName;!">
