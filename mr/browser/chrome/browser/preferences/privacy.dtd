@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader.remember.label     "इतिहास लक्षात ठेवा">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कधीच लक्षात ठेवु नका">
 <!ENTITY  historyHeader.custom.label       "इतिहासा करीता मनपसंत संयोजना वापरा">
-<!ENTITY  historyHeader.post.label         "">
+<!ENTITY  historyHeader.post.label         "‌">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; आपली तपासणी, डाऊनलोड, फॉर्म व शोध इतिहास, व आपण भेट दिलेल्या संकेत स्थळांचे कुकीज संग्रहीत करतो.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
