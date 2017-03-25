@@ -83,8 +83,10 @@
 <!ENTITY fxaccount_remove_account_dialog_message2 'Podatki brskanja bodo ostali v napravi, vendar se ne bodo več sinhronizirali z vašim računom.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Firefox Račun &formatS; odklopljen.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Prekini povezavo'>
 
 <!ENTITY fxaccount_enable_debug_mode 'Omogoči način za razhroščevanje'>
 
