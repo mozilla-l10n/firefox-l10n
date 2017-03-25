@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Rodyti visą adresyną">
 <!ENTITY recentBookmarks.label "Paskiausiai įtraukti į adresyną">
 <!ENTITY otherBookmarksCmd.label "Kiti adresai">
-
+<!ENTITY mobileBookmarksCmd.label "Mobilusis adresynas">
 <!ENTITY bookmarksToolbarChevron.tooltip "Kiti adresai">
 <!ENTITY showRecentlyBookmarked.label     "Rodyti paskiausiai įtrauktus į adresyną">
 <!ENTITY showRecentlyBookmarked.accesskey "o">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Adresynas">
 <!ENTITY bookmarksMenuButton.other.label "Kiti adresai">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Mobilusis adresynas">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nėra atvertų kortelių">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Rodyti daugiau">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Rodyti daugiau kortelių iš šio įrenginio">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Rodyti visas">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Rodyti visas korteles iš šio įrenginio">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Įjunkite kortelių sinchronizavimą, norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
