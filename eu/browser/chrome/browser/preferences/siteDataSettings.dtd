@@ -15,6 +15,6 @@
 <!ENTITY     save.accesskey                "G">
 <!ENTITY     cancel.label                  "Utzi">
 <!ENTITY     cancel.accesskey              "U">
-
-
+<!ENTITY     removingDialog.title          "Gunearen datuak kentzea">
+<!ENTITY     removingDialog.description    "Gunearen datuak kentzean cookieak ere kendu egingo dira. Honen eraginez agian webguneetako saioa amaituko da eta lineaz kanpoko web edukia kenduko da. Ziur zaude aldaketak burutu nahi dituzula?">
 <!ENTITY     siteTree.label                "Webgunearen ondorengo cookieak kendu egingo dira:">
