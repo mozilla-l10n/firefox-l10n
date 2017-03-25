@@ -656,7 +656,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.weakCipher "Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.">
 <!ENTITY identity.description.weakCipher2 "Други луѓе можат да ги гледаат Вашите информации или да го менуваат однесувањето на мрежното место.">
-<!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржина што не е безбедна (како на пример: слики).">
+<!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржини што не се безбедни (како на пример: слики).">
+<!ENTITY identity.description.activeLoaded "Ова мрежно место има содржини што не се безбедни (како на пример: скрипти) и Вашата врска не е приватна.">
 
 
 

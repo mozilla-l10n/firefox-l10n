@@ -1,8 +1,6 @@
-<!--
-# This Source Code Form is subject to the terms of the Mozilla Public
-# License, v. 2.0. If a copy of the MPL was not distributed with this
-# file, You can obtain one at http://mozilla.org/MPL/2.0/.
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
 <!ENTITY  pageInfoWindow.height "500">
@@ -24,11 +22,8 @@
 <!ENTITY  generalReferrer       "Референтно URL:">
 <!ENTITY  generalSource         "Извор за кеш:">
 <!ENTITY  generalModified       "Изменета:">
-<!ENTITY  generalEncoding       "Енкодинг:">
 <!ENTITY  generalMetaName       "Име">
 <!ENTITY  generalMetaContent    "Содржина">
-<!ENTITY  generalSecurityDetails   "Детали">
-<!ENTITY  generalSecurityDetails.accesskey "Д">
 
 <!ENTITY  mediaTab              "Медиум">
 <!ENTITY  mediaTab.accesskey    "М">
@@ -60,21 +55,13 @@
 <!ENTITY  permAllowSession      "Дозволи само сега">
 <!ENTITY  permBlock             "Блокирај">
 <!ENTITY  permissionsFor        "Дозвола за:">
-<!ENTITY  permImage             "Да вчитува слики">
-<!ENTITY  permPopup             "Да отвара скокачки прозорци">
-<!ENTITY  permCookie            "Да поставува колачиња">
-<!ENTITY  permInstall           "Да инсталира екстензии или теми">
-<!ENTITY  permGeo               "Пристап до вашата местоположба">
 <!ENTITY  permPlugins           "Активирај приклучоци">
-<!ENTITY  permFullscreen        "На цел екран">
 
-<!ENTITY  permIndexedDB              "Одржувај го локалниот склад">
 <!ENTITY  permClearStorage           "Исчисти го складот">
 <!ENTITY  permClearStorage.accesskey "с">
 
 <!ENTITY  securityTab           "Безбедност">
 <!ENTITY  securityTab.accesskey "с">
-<!ENTITY  securityHeader        "Безбедносни информации за оваа страница">
 <!ENTITY  securityView.certView "Прикажи сертификат">
 <!ENTITY  securityView.accesskey "ф">
 <!ENTITY  securityView.unknown   "Непознато">
@@ -86,7 +73,7 @@
 <!ENTITY  securityView.identity.verifier "Проверено од:">
 
 <!ENTITY  securityView.privacy.header                   "Приватност и историја">
-<!ENTITY  securityView.privacy.history                  "Дали сум ја посетил оваа страница пред денес?">
+<!ENTITY  securityView.privacy.history                  "Сум го посетил ли ова мрежно место пред денес?">
 <!ENTITY  securityView.privacy.cookies                  "Дали оваа страница складира информации (колачиња) на мојот компјутер?">
 <!ENTITY  securityView.privacy.viewCookies              "Прикажи колачиња">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "к">
@@ -96,5 +83,3 @@
 
 <!ENTITY  securityView.technical.header                 "Технички детали">
 
-<!ENTITY  permNotifications     "Прикажи известувања">
-<!ENTITY  permPointerLock       "Скриј го покажувачот на глушецот">
