@@ -10,3 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Nagina connexiun">
 <!ENTITY aboutAccounts.noConnection.description "Ti stos esser connectà cun l'internet per t'annunziar.">
 <!ENTITY aboutAccounts.noConnection.retry "Empruvar danovamain">
+<!ENTITY aboutAccounts.badConfig.title "Configuraziun nuncorrecta">
+<!ENTITY aboutAccounts.badConfig.description "Impussibel da determinar la configuraziun dal server da tes conto da Firefox. Emprova pli tard anc ina giada.">
