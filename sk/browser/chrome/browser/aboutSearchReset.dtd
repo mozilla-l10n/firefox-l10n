@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Chcete obnoviť vaše nastavenia vyhľadávania?">
 
-<!ENTITY searchreset.pageInfo1      "Vaše nastavenie vyhľadávania môže byť zastaralé. &brandShortName; vám môže pomôcť obnoviť východzie nastavenia vyhľadávania.">
+<!ENTITY searchreset.pageInfo1      "Vaše nastavenie vyhľadávania môže byť zastarané. &brandShortName; vám môže pomôcť obnoviť predvolené nastavenia vyhľadávania.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
