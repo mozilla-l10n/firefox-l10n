@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
 
+<!ENTITY getThemes.description                "Voleu personalitzar el vostre navegador?">
 
 
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
