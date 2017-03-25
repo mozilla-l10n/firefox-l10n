@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mostra totes les adreces d'interès">
 <!ENTITY recentBookmarks.label "Afegides més recentment">
 <!ENTITY otherBookmarksCmd.label "Altres adreces d'interès">
-<!ENTITY mobileBookmarksCmd.label "Adreces d'interès del mòbil">
+<!ENTITY mobileBookmarksCmd.label "Adreces del mòbil">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostra més adreces d'interès">
 <!ENTITY showRecentlyBookmarked.label     "Mostra les afegides més recentment">
 <!ENTITY showRecentlyBookmarked.accesskey "o">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Adreces d'interès">
 <!ENTITY bookmarksMenuButton.other.label "Altres adreces d'interès">
-<!ENTITY bookmarksMenuButton.mobile.label "Adreces d'interès del mòbil">
+<!ENTITY bookmarksMenuButton.mobile.label "Adreces del mòbil">
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 
