@@ -175,6 +175,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Прикажи ги сите обележувачи">
 <!ENTITY recentBookmarks.label "Неодамна обележани">
 <!ENTITY otherBookmarksCmd.label "Останати обележувачи">
+<!ENTITY mobileBookmarksCmd.label "Мобилни обележувачи">
 <!ENTITY bookmarksToolbarChevron.tooltip "Покажува уште обележувачи">
 <!ENTITY showRecentlyBookmarked.label     "Прикажи скоро обележани">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -198,6 +199,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Видете ги информациите за веб-сајтот">
 
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управување со користењето на приклучоци">
 
 
 
@@ -322,6 +324,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Нема отворени јазичиња">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Вклучете синхронизација на јазичиња за да видите листа на јазичињата од Вашите други уреди.">
@@ -655,6 +661,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 
 
 
