@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  brandShorterName      "ફાયરફોક્સ">
-<!ENTITY  brandShortName        "ફાયરફોક્સ">
+<!ENTITY  brandShorterName      "Firefox">
+<!ENTITY  brandShortName        "Firefox">
 <!ENTITY  brandFullName         "મોઝીલા ફાયરફોક્સ">
 <!ENTITY  vendorShortName       "મોઝીલા">
 <!ENTITY  trademarkInfo.part1   "ફાયરફોક્સ અને ફાયરફોક્સ લોગો મોઝીલા ફાઉન્ડેશન ના ટ્રેડમાર્ક છે.">

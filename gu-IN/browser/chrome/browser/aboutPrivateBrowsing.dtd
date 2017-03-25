@@ -15,7 +15,7 @@
 <!ENTITY aboutPrivateBrowsing.info.searches              "શોધ">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "કૂકીઝ">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "કામચલાઉ ફાઈલો">
-<!ENTITY aboutPrivateBrowsing.info.saved.before          "ફાયરફોક્સ">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "સેવ કરશે">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "તમારા:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ડાઉનલોડ">
