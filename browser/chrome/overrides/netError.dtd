@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Nepavyko įkelti tinklalapio">
 <!ENTITY retry.label "Bandyti dar kartą">
 <!ENTITY returnToPreviousPage.label "Eiti atgal">
-
+<!ENTITY advanced.label "Išsamiau">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>„&brandShortName;“ nepavyko įkelti šio tinklalapio dėl nežinomos priežasties.</p>">
 
 <!ENTITY captivePortal.title "Prisijungti prie tinklo">
+<!ENTITY captivePortal.longDesc2 "<p>Turite prisijungti prie šio tinklo, kad galėtumėte naudotis internetu.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Atverti prisijungimo tinklalapį">
 
 <!ENTITY malformedURI.title "Neteisingas adresas">
 <!ENTITY malformedURI.longDesc "<ul> <li>Saityno adresai paprastai turi tokį pavidalą: <strong>http://www.example.com/</strong></li> <li>Įsitikinkite, kad naudojate tinkamą adreso komponentų skirtuką (t. y., dešininį brūkšnį <strong>/</strong>).</li> </ul>">
