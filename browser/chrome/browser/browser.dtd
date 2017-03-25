@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "सर्व वाचणखूणा दाखवा">
 <!ENTITY recentBookmarks.label "अलिकडील वाचनखूणा">
 <!ENTITY otherBookmarksCmd.label "इतर वाचनखूणा">
-
+<!ENTITY mobileBookmarksCmd.label "मोबाईल वाचनखूणा">
 <!ENTITY bookmarksToolbarChevron.tooltip "आणखी वाचनखूणा दर्शवा">
 <!ENTITY showRecentlyBookmarked.label     "अलिकडील वाचनखूणा दाखवा">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "वाचनखूणा">
 <!ENTITY bookmarksMenuButton.other.label "इतर वाचनखूणा">
-
+<!ENTITY bookmarksMenuButton.mobile.label "मोबाईल वाचनखूणा">
 <!ENTITY viewBookmarksSidebar2.label        "वाचनखूणा साधनपट्टी दृष्य">
 <!ENTITY viewBookmarksToolbar.label         "वाचनखूणा साधनपट्टी दृष्य">
 
@@ -360,10 +360,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "कोणतेही टॅब्स उघडे नाहीत">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "आणखी पहा">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "ह्या उपकरणावरील आणखी टॅब पहा">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "ह्या उपकरणावरील सर्व टॅब पहा">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "आपल्या इतर उपकरणांवरील टॅब्स पाहण्यासाठी टॅब सींकींग सक्रिय करा.">
@@ -642,7 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.label         "मूळस्थितीत आणा">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "">
+<!ENTITY fullZoomResetCmd.commandkey2   "‌">
 
 <!ENTITY fullZoomToggleCmd.label        "फक्त मजकूर मोठे करा">
 <!ENTITY fullZoomToggleCmd.accesskey    "T">

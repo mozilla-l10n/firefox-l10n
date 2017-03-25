@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "हा ईमेल विसरा">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY signedOut.caption            "आपला वेब आपल्याबरोबर घेऊन चला">
 <!ENTITY signedOut.description        "आपल्या सर्व साधणांकरीता आपल्या वाचनखूणा, इतिहास, टॅब, पासवर्ड, ॲड-ऑन्स्, आणि प्राधान्ये समक्रमित करा.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; सह जोडा">
-
+<!ENTITY signedOut.accountBox.create  "खाते बनवा">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-
+<!ENTITY signedOut.accountBox.signin  "साइन इन">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.engines.label       "सर्व साधनांबरोबर समक्रमण करा">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
