@@ -18,6 +18,8 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "Tscherna &tabCrashed.restoreTab; per rechargiar il cuntegn da la pagina.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Tscherna «&tabCrashed.restoreTab;» u «&tabCrashed.restoreAll;» per rechargiar il cuntegn da la pagina.">
 <!ENTITY tabCrashed.requestHelp "Ans gidas?">
+<!ENTITY tabCrashed.requestHelpMessage "Annunzias da collaps ans gidan da chattar problems e da meglierar &brandShortName;.">
+<!ENTITY tabCrashed.requestReport "Rapportar quest tab">
 <!ENTITY tabCrashed.emailPlaceholder "Endatescha qua tia adressa dad e-mail">
 <!ENTITY tabCrashed.emailMe "M'infurmar per e-mail sch'i dat novas infurmaziuns">
 <!ENTITY tabCrashed.reportSent "Il rapport da collaps è gia vegnì tramess; grazia per gidar a meglierar &brandShortName;!">
