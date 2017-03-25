@@ -26,3 +26,4 @@
 <!ENTITY tabCrashed.emailPlaceholder "Endatescha qua tia adressa dad e-mail">
 <!ENTITY tabCrashed.emailMe "M'infurmar per e-mail sch'i dat novas infurmaziuns">
 <!ENTITY tabCrashed.reportSent "Il rapport da collaps è gia vegnì tramess; grazia per gidar a meglierar &brandShortName;!">
+<!ENTITY tabCrashed.autoSubmit2 "Midar las preferenzas e trametter automaticamain rapports da collaps, inclus ils rapports per ils tabs inactivs da questa sesida e da sesidas futuras">
