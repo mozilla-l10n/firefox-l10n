@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "काढा&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title2 "ताळमेळ जोडणी मोडायची?">
-
+<!ENTITY fxaccount_remove_account_dialog_message2 "आपला ब्राउझिंग माहिती या साधनावर राहील, पण यापुढे ती आपल्या खात्याशी संक्रमित केला जाणार नाही.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefox खाते जोडणी मोडली.">
