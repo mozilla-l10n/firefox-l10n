@@ -15,6 +15,11 @@
 <!ENTITY  manualUpdate.space.desc         "Достапна е препорачлива безбедносна и стабилносна надградба, но немате доволно место на дискот за да ја инсталирате.">
 <!ENTITY  manualUpdateGetMsg.label        "Секогаш можете да ја добиете последната верзија од &brandShortName; на:">
 
+<!ENTITY  unsupported.title               "Системот не е поддржан">
+<!ENTITY  unsupported.label               "Вашиот &brandShortName; не е ажуриран, но најновата верзија
+                                           не е поддржана од Вашиот систем. Ве молам надградете го Вашиот систем
+                                           и обидете се повторно. Нема да го видите ова предупредување повторно, но можете">
+<!ENTITY  unsupportedLink.label           "дознајте повеќе.">
 
 <!ENTITY  clickHere.label                 "Видете повеќе информации за оваа надградба">
 
@@ -47,6 +52,10 @@
 <!ENTITY  finishedBackground.name         "Надградба:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Надградбата ќе се инсталира при следното стартување на &brandShortName;. Можете да го рестартирате &brandShortName; сега, или да продолжите со работа и да го рестартирате подоцна.">
+<!ENTITY  finishedBackground.moreElevated "За оваа надградба се потребни администраторски овластувања. Оваа надградба ќе се
+                                           инсталира следниот пат кога &brandShortName; ќе се стартува. Можете да го рестартирате
+                                           &brandShortName; сега, да продолжите да работите и да го рестартирате подоцна или
+                                           да ја одбиете оваа надградба.">
 
 <!ENTITY  update.details.label            "Детали">
 <!ENTITY  update.installedOn.label        "Инсталирана на:">
