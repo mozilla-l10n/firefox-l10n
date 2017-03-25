@@ -13,6 +13,8 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Oh Dieu! Tes tab è gist collabà.">
+<!ENTITY tabCrashed.offerHelp "Nus pudain gidar!">
 <!ENTITY tabCrashed.emailPlaceholder "Endatescha qua tia adressa dad e-mail">
 <!ENTITY tabCrashed.emailMe "M'infurmar per e-mail sch'i dat novas infurmaziuns">
 <!ENTITY tabCrashed.reportSent "Il rapport da collaps è gia vegnì tramess; grazia per gidar a meglierar &brandShortName;!">
