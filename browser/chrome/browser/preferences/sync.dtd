@@ -6,8 +6,8 @@
 
 <!ENTITY engine.bookmarks.label     "Adreces d'interès">
 <!ENTITY engine.bookmarks.accesskey "d">
-
-
+<!ENTITY engine.tabs.label2         "Pestanyes obertes">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
 <!ENTITY engine.passwords.label     "Contrasenyes">
@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Oblida aquesta adreça electrònica">
 <!ENTITY forget.accesskey            "b">
 
+<!ENTITY signedOut.caption            "El vostre web a tot arreu">
 <!ENTITY signedOut.description        "Sincronitzeu les vostres adreces d'interès, historial, pestanyes, contrasenyes, complements i preferències en tots els vostres dispositius.">
 <!ENTITY signedOut.accountBox.title   "Connecteu-vos amb un &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Crea un compte">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-
+<!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.engines.label       "Sincronitza en tots els dispositius">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
