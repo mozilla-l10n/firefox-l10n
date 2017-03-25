@@ -10,6 +10,7 @@
 
 <!ENTITY useCursorNavigation.label       "Овозможи сурфање со тастатура">
 <!ENTITY useCursorNavigation.accesskey   "в">
+<!ENTITY blockAutoReload.label           "Предупреди ме кога мрежните места се обидуваат да ја пренасочат или превчитаат страницата">
 <!ENTITY useOnScreenKeyboard.label       "Прикажи тастатура за допир кога тоа е потребно">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -82,6 +83,7 @@
 <!ENTITY enableSearchUpdate.label        "Сервиси за пребарување">
 <!ENTITY enableSearchUpdate.accesskey    "е">
 
+<!ENTITY offlineStorageNotify.label               "Кажи ми кога мрежното место сака да складира податоци за локална употреба">
 
 <!ENTITY offlineAppsList2.label          "На следните мрежни места им е дозволено да складираат податоци за локална употреба:">
 <!ENTITY offlineAppsList.height          "7em">
