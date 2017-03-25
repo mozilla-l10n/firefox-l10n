@@ -23,6 +23,9 @@
 <!ENTITY aboutPrivateBrowsing.note.before                "Приватното прелистување ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "не ве прави анонимни">
 <!ENTITY aboutPrivateBrowsing.note.after                 " на Интернет. Вашиот работодавач или провајдерот на Интернет сеуште може да знаат кои страници ги посетувате.">
+<!ENTITY aboutPrivateBrowsing.learnMore3.before          "Дознајте повеќе за ">
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Приватно прелистување">
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Заштита од следење">
 <!ENTITY trackingProtection.description2                 "Некои страници користат следачи кои може ја мониторираат вашата активност на Интернет. Со Заштита од следење Firefox ќе блокира многу следачи кои собираат информации за Вашата навика при користење на Интернет.">
