@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Բազմաընթացքային պատուհաններ">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla-ի տեղադրության ծառայության բանալի">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Ապահով կերպ">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Պատճենել չմշակված տվյալները մեկուսաշրջույթ">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Մերժված համակարգային զանգեր">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Վայրկյան առաջ">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Ընթացքի տեսակը">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Համզանգ">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Փաստարկներ">
 
 <!ENTITY aboutSupport.safeModeTitle "Օգտ. Ապահով կերպը">
 <!ENTITY aboutSupport.restartInSafeMode.label "Վերամեկնարկել՝ անջատելով հավելումները...">

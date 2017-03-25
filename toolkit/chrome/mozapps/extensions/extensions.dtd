@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "Տ">
 <!ENTITY toolsMenu.tooltip                    "Գործիքներ բոլոր հավելումների համար">
 
-
+<!ENTITY getThemes.description                "Ցանկանո՞ւմ եք անհատականացնել ձեր դիտարկիչը:">
+<!ENTITY getThemes.learnMore                  "Ընտրեք հազարավոր ձևավորումներից">
 
 <!ENTITY cmd.back.tooltip                     "Նախորդ էջ">
 <!ENTITY cmd.forward.tooltip                  "Հաջորդ էջ">
