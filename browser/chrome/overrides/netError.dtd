@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Էջը բեռնելու խնդիր">
 <!ENTITY retry.label "Կրկին փորձել">
 <!ENTITY returnToPreviousPage.label "Հետ գնալ">
-
+<!ENTITY advanced.label "Լրացուցիչ">
 <!-- Specific error messages -->
 
 
@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Վայ։">
 <!ENTITY generic.longDesc "<p>&brandShortName;-ը ինչ-որ պատճառով չի կարող բեռնել այս էջը:</p>">
 
+<!ENTITY captivePortal.title "Մուտք գործել ցանց">
+<!ENTITY captivePortal.longDesc2 "<p>Դուք պետք է մուտք գործեք այս ցանց, որ կարողանաք մուտք գործել համացանց:</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Բացել ցանց մուտք գործելու էջը">
 
 <!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
 <!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> </ul>">
@@ -106,6 +108,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTime_URL'/>-ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTime_systemDate'/>, այնինչ պետք է լինի՝ <span id='wrongSystemTime_actualDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName;-ը չի կապակցվել <span id='wrongSystemTimeWithoutReference_URL'/> -ին, քանի որ կարծես թե ձեր համակարգչի ժամացույցը սխալ ժամանակ է ցույց տալիս և դա խանգարում է անվտանգ կապակցմանը:</p> <p>Ձեր համակարգչի ժամանակն է՝ <span id='wrongSystemTimeWithoutReference_systemDate'/>: Խնդիրը ուղղելու համար փոխեք ամսաթիվը և ժամանակը համակարգչում:</p>">
 
 <!ENTITY certerror.pagetitle1  "Ոչ անվտանգ կապակցում">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Այս կայքը օգտագործում է HTTP Strict Transport Security (HSTS)՝ հատկորոշելու այն, որ &brandShortName;-ը կապակցվում է միայն անվտանգ: Որպես արդյունք՝ հնարավոր չէ ավելացնել բացառություն այս վկայագրի համար:">
