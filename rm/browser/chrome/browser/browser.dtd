@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Mussar tut ils segnapaginas">
 <!ENTITY recentBookmarks.label "Tschernì dacurt sco segnapagina">
 <!ENTITY otherBookmarksCmd.label "Auters segnapaginas">
+<!ENTITY mobileBookmarksCmd.label "Segnapaginas mobils">
 <!ENTITY bookmarksToolbarChevron.tooltip "Mussar dapli segnapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Mussar ils segnapaginas agiuntads dacurt">
 <!ENTITY showRecentlyBookmarked.accesskey "M">
@@ -208,6 +209,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Mussar infurmaziuns davart la pagina">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Avrir la panela da messadis">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Avrir la panela che dumonda la posiziun">
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "Avrir la panela d'installaziun da supplements">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Avrir la panela per la memoria offline">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avrir la panela per memorisar pleds-clav">
@@ -244,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Segnapaginas">
 <!ENTITY bookmarksMenuButton.other.label "Auters segnapaginas">
+<!ENTITY bookmarksMenuButton.mobile.label "Segnapaginas mobils">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
 
@@ -355,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nagins tabs averts">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Mussar dapli">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Mussar ulteriurs tabs da quest apparat">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Mussar tuts">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Mussar tut ils tabs da quest apparat">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activescha la sincronisaziun da tabs per vesair ina glista dals tabs da tes auters apparats.">
@@ -392,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Tschertgar u endatar in'adressa">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extensiun:">
 <!ENTITY urlbar.switchToTab.label     "Midar al tab:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Vuls ti meglierar ils resultats da tschertga cun propostas?">
@@ -771,6 +783,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Avrir tuts en tabs">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
