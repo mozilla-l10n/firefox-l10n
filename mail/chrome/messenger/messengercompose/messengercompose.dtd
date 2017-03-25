@@ -203,8 +203,8 @@
 
 <!ENTITY sendButton.tooltip "Бұл хабарламаны қазір жіберу">
 <!ENTITY sendlaterButton.tooltip "Бұл хабарламаны кейін жіберу">
-
-
+<!ENTITY quoteButton.tooltip "Алдыңғы хабарламаны дәйексөз ретінде алу">
+<!ENTITY addressButton.tooltip "Адрестік кітапшадан алушыны таңдау">
 
 
 
