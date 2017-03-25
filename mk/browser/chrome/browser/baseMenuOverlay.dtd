@@ -23,7 +23,7 @@
 <!ENTITY helpKeyboardShortcuts.label     "Кратенки за тастатура">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
-<!ENTITY helpSafeMode.label       "Рестартирај со исклучени сите додатоци…">
+<!ENTITY helpSafeMode.label       "Рестартирај со исклучени додатоци…">
 <!ENTITY helpSafeMode.accesskey   "Р">
 <!ENTITY helpSafeMode.stop.label       "Рестрартирај со овозможени додатоци">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
