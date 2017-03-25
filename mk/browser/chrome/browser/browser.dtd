@@ -203,6 +203,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "Го блокиравте пристапот до камерата за овој веб-сајт.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за овој веб-сајт.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Го блокиравте споделувањето на екранот од страна на овој веб-сајт.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Го блокиравте пристапот до локациските информации за овој веб-сајт.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Го блокиравте податочното складиште за овој веб сајт.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ги блокиравте известувањата за овој веб-сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историја">
 
