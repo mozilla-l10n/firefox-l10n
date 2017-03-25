@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Uinneagan ioma-phròiseasaidh">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Iuchair seirbheis nan ionad aig Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Am modh tèarainte">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Cuir lethbhreac dhen dàta lom dhan stòr-bhòrd">
 
 <!ENTITY aboutSupport.sandboxTitle "Bogsa-gainmhich">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Gairmean siostaim a chaidh a dhiùltadh">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Diogan air ais">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Seòrsa a’ phròiseis">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argamaidean">
 
 <!ENTITY aboutSupport.safeModeTitle "Feuch am modh tèarainte">
 <!ENTITY aboutSupport.restartInSafeMode.label "Ath-thòisich leis na tuilleadan air an cur à comas…">
