@@ -141,10 +141,8 @@
 <!ENTITY backForwardButtonMenu.tooltip "Щёлкните правой кнопкой или потяните вниз для показа истории">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потяните вниз для показа истории">
 <!ENTITY reloadCmd.label "Обновить">
-<!ENTITY reloadButton.tooltip "Обновить текущую страницу">
 <!ENTITY stopCmd.label "Остановить">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Остановить загрузку страницы">
 <!ENTITY goEndCap.tooltip "Перейти по введённому адресу">
 <!ENTITY printButton.label "Печать">
 <!ENTITY printButton.tooltip "Распечатать эту страницу">
@@ -170,7 +168,6 @@
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к хранилищу данных.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Вы заблокировали уведомления с этого веб-сайта.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Показать историю">
-<!ENTITY urlbar.zoomReset.tooltip "Сбросить масштаб">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
 <!ENTITY bookmarksButton.label "Закладки">

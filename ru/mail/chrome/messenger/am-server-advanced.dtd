@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Дополнительные параметры учётной записи">
-<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Каталог IMAP-сервера:">
 <!ENTITY serverDirectory.accesskey "а">
 <!ENTITY usingSubscription.label "Показывать только папки на которые вы подписаны">
@@ -12,7 +11,9 @@
 <!ENTITY dualUseFolders.accesskey "е">
 <!ENTITY maximumConnectionsNumber.label "Максимальное число кэшируемых соединений">
 <!ENTITY maximumConnectionsNumber.accesskey "к">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
+<!ENTITY forceSelect.label "Отправлять IMAP select на сервер при проверке наличия новой почты">
+<!ENTITY forceSelect.tooltip "Некоторым серверам необходим дополнительный IMAP select для надёжного получения с них новой почты, или для отображения почты как прочтённой после того, как она была прочитана на другом устройстве. Выбор этой настройки приведёт к некоторому увеличению сетевого трафика.">
+<!ENTITY forceSelect.accesskey "п">
 <!ENTITY namespaceDesc.label "Эти настройки определяют пространства имён на вашем IMAP-сервере">
 <!ENTITY personalNamespace.label "Личное пространство имён:">
 <!ENTITY personalNamespace.accesskey "ч">
@@ -22,7 +23,7 @@
 <!ENTITY otherUsersNamespace.accesskey "у">
 <!ENTITY overrideNamespaces.label "Разрешить серверу перекрывать эти пространства имён">
 <!ENTITY overrideNamespaces.accesskey "з">
-<!ENTITY pop3DeferringDesc.label "При загрузке почты c сервера этой учётной записи, помещать новые сообщения в следующую папку:" >
+<!ENTITY pop3DeferringDesc.label "При загрузке почты c сервера этой учётной записи, помещать новые сообщения в следующую папку:">
 <!ENTITY accountInbox.label "«Входящие» для этой учётной записи">
 <!ENTITY accountInbox.accesskey "д">
 <!ENTITY deferToServer.label "«Входящие» для другой учётной записи">
