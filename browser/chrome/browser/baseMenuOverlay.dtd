@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY minimizeWindow.key       "m">
-<!ENTITY minimizeWindow.label     "ન્યૂનત્તમ">
-<!ENTITY bringAllToFront.label    "બધું અગ્ર ભાગમાં લાવો">
-<!ENTITY zoomWindow.label         "નાનું મોટું">
+<!ENTITY minimizeWindow.label     "ઘટાડવા">
+<!ENTITY bringAllToFront.label    "બધાને આગળ લાવો">
+<!ENTITY zoomWindow.label         "મોટું">
 <!ENTITY windowMenu.label         "વિન્ડો">
 
 <!ENTITY helpMenu.label           "મદદ"> 
@@ -14,20 +14,13 @@
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "મદદ"> 
 <!ENTITY helpMenuWin.accesskey    "H">
-
-
-
-
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "કિબોર્ડ ટૂંકાણો">
+<!ENTITY helpKeyboardShortcuts.label     "કીબોર્ડ શૉર્ટકટ્સ">
 <!ENTITY helpKeyboardShortcuts.accesskey "K">
 
 <!ENTITY helpSafeMode.label       "નિષ્ક્રિય થયેલ ઍડ-ઑન સાથે પુન:શરૂ કરો…">
 <!ENTITY helpSafeMode.accesskey   "R">
-
-
-
 
 
 <!ENTITY helpTroubleshootingInfo.label      "મુશ્કેલીનિવારણ જાણકારી">
@@ -37,15 +30,13 @@
 <!ENTITY helpFeedbackPage.accesskey  "S">
 
 
-
 <!ENTITY preferencesCmdMac.label        "પસંદગીઓ...">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "સેવાઓ">
 
 
-
-<!ENTITY hideOtherAppsCmdMac.label      "અન્ય છુપાવો">
+<!ENTITY hideOtherAppsCmdMac.label      "અન્યને છુપાવો">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
 <!ENTITY showAllAppsCmdMac.label        "બધું બતાવો">
