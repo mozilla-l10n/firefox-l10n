@@ -24,7 +24,7 @@
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "չի դարձնում ձեզ անանուն">
 <!ENTITY aboutPrivateBrowsing.note.after                 " համացանցում: Ձեր գործատուն կամ ինտերնետի մատակարարը դեռ կարող է հետագծել ձեր այցելած էջերը:">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Իմացեք ավելին՝">
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.title           "Գաղտնի Դիտարկում">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Պաշտպանություն հետագծումից">
