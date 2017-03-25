@@ -203,12 +203,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Го блокиравте пристапот до камерата за овој веб-сајт.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за овој веб-сајт.">
-<!ENTITY urlbar.screenBlocked.tooltip            "Го блокиравте споделувањето на екранот од страна на овој веб-сајт.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Го блокиравте пристапот до локациските информации за овој веб-сајт.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Го блокиравте податочното складиште за овој веб сајт.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ги блокиравте известувањата за овој веб-сајт.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Го блокиравте пристапот до камерата за ова мрежно место.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Го блокиравте пристапот до микрофонот за ова мрежно место.">
+<!ENTITY urlbar.screenBlocked.tooltip            "Го блокиравте споделувањето на екранот од страна на ова мрежно место.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Го блокиравте пристапот до локациските информации за ова мрежно место.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Го блокиравте податочното складиште за ова мрежно место.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ги блокиравте известувањата за ова мрежно место.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историја">
 
@@ -611,7 +611,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Основен стил на страницата">
 <!ENTITY pageStylePersistentOnly.accesskey "О">
 
-<!ENTITY pageReportIcon.tooltip            "Смени ги поставките за блокирање на скокачки прозорци за ова место">
+<!ENTITY pageReportIcon.tooltip            "Смени ги поставките за блокирање на скокачки прозорци за ова мрежно место">
 
 <!ENTITY allowPopups.accesskey "с">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -654,6 +654,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Оваа страница користи слаба енкрипција.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.weakCipher "Вашата врска со ова мрежно место користи слаба енкрипција и не е приватна.">
+<!ENTITY identity.description.weakCipher2 "Други луѓе можат да ги гледаат Вашите информации или да го менуваат однесувањето на мрежното место.">
+<!ENTITY identity.description.passiveLoaded2 "Ова мрежно место има содржина што не е безбедна (како на пример: слики).">
 
 
 
