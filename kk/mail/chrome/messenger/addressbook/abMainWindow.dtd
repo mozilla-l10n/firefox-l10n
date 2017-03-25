@@ -4,15 +4,15 @@
 
 <!ENTITY addressbookWindow.title                        "Адрестік кітапша">
 <!ENTITY blankResultsPaneMessage.label                  "Бұл адрестік кітапша контакттарды тек іздеуден кейін көрсетеді">
-
+<!ENTITY localResultsOnlyMessage.label                  "Қашықтағы адрестік кітапшалардан контакттар іздеу басталмаса, көрсетілмейді">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label                                 "Файл">
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Жаңа">
 <!ENTITY newMenu.accesskey                              "Ж">
-
-
+<!ENTITY newContact.label                               "Адрестік кітапша контакты…">
+<!ENTITY newContact.accesskey                           "к">
 <!ENTITY newContact.key                                 "N">
 
 
@@ -81,8 +81,8 @@
 <!ENTITY propertiesCmd.key                              "i">
 
 
-
-
+<!ENTITY contactPropertiesMenu.label                    "Контакт қасиеттері">
+<!ENTITY contactPropertiesMenu.accesskey                "и">
 
 
 <!-- View Menu -->
@@ -162,8 +162,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Жаңа адрестік кітапша контактын жасау">
 <!ENTITY newlistButton.tooltip                          "Жаңа тізімді жасау">
 <!ENTITY editPropertiesButton.tooltip                   "Таңдалған нәрсені түзету">
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Таңдалған адрестік кітапшаның қасиеттерін түзету">
+<!ENTITY editContactPropertiesButton.tooltip            "Таңдалған контактты түзету">
 
 
 
