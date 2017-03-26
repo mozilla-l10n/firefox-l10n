@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
-<!ENTITY  font.langGroup.latin                    "Latinoa">
+<!ENTITY  font.langGroup.latin                    "Latina">
 <!ENTITY  font.langGroup.japanese                 "Japoniarra">
 <!ENTITY  font.langGroup.trad-chinese             "Txinatar arrunta (Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Txinatar soildua">
