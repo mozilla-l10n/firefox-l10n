@@ -39,8 +39,8 @@
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<ul> <li>Sakatu &quot;Saiatu berriro&quot; linean jarri eta orria berritzeko.</li> </ul>">
 
-<!ENTITY contentEncodingError.title "Edukiaren kodeketa-errorea">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Arazoaren berri emateko, jarri harremanetan webgunearen jabeekin.</li> </ul>">
+<!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Fitxategi mota EZ-segurua">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>Jarri harremanetan webgunearen jabeekin arazo honen berri emateko.</li> </ul>">

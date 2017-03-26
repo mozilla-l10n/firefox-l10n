@@ -22,7 +22,7 @@
 
 <!ENTITY incoming.label                  "Hartzeko:">
 <!ENTITY outgoing.label                  "Irteerakoa:">
-<!ENTITY username.label                  "Erabiltzaile izena:">
+<!ENTITY username.label                  "Erabiltzaile-izena:">
 <!ENTITY hostname.label                  "Zerbitzariaren ostalari-izena">
 <!ENTITY port.label                      "Ataka">
 <!ENTITY ssl.label                       "SSL">

@@ -34,7 +34,7 @@
 
 <!ENTITY TextHeader.label "Testua">
 <!ENTITY ValueHeader.label "Balioa">
-<!ENTITY SelectedHeader.label "Aukeratuta">
+<!ENTITY SelectedHeader.label "Hautatuta">
 
 <!ENTITY AddOption.label "Aukera gehitu">
 <!ENTITY AddOption.accesskey "A">
