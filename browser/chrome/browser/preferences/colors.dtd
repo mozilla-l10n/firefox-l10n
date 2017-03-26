@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "55em">
 <!ENTITY  window.macWidth                 "55em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Az oldal által megadott színek felülbírálása a fenti választásaimmal:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Mindig">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Csak nagy kontrasztú témáknál">

@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "E-mail elfelejtése">
 <!ENTITY forget.accesskey            "l">
 
+<!ENTITY signedOut.caption            "Vigye magával a webet">
 <!ENTITY signedOut.description        "Szinkronizálja könyvjelzőit, előzményeit, lapjait, jelszavait, kiegészítőit és beállításait minden eszközén.">
 <!ENTITY signedOut.accountBox.title   "Kapcsolódjon egy &syncBrand.fxAccount.label;kal">
-
+<!ENTITY signedOut.accountBox.create  "Fiók létrehozása">
 <!ENTITY signedOut.accountBox.create.accesskey  "F">
-
+<!ENTITY signedOut.accountBox.signin  "Bejelentkezés">
 <!ENTITY signedOut.accountBox.signin.accesskey  "B">
 
+<!ENTITY signedIn.engines.label       "Szinkronizáljon minden eszközén">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

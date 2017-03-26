@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Kurzorbillentyűk használata az oldalon belüli navigációhoz">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Szöveg keresése a keresett szó beírásának elkezdésétől">
+<!ENTITY searchOnStartTyping.accesskey   "d">
+<!ENTITY blockAutoReload.label           "Figyelmeztetés, ha a webhely átirányítja vagy frissíti az oldalt">
+<!ENTITY blockAutoReload.accesskey       "w">
 <!ENTITY useOnScreenKeyboard.label       "Érintőbillentyűzet megjelenítése, ha szükséges">
 <!ENTITY useOnScreenKeyboard.accesskey   "r">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "F">
 <!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
 <!ENTITY allowHWAccel.accesskey          "r">
-
-
+<!ENTITY checkUserSpelling.label         "Helyesírás-ellenőrzés beírás közben">
+<!ENTITY checkUserSpelling.accesskey     "H">
 
 <!ENTITY dataChoicesTab.label            "Adatküldések">
 
