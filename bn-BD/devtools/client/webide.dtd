@@ -180,7 +180,7 @@
 <!ENTITY wifi_auth_header "ক্লায়েন্ট পরিচয় প্রমাণ প্রক্রিয়া">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "আপনি যে প্রান্তে সংজুক্ত হচ্ছেন তা নির্ভরযোগ্য প্রমানে আরো তথ্য প্রয়োজন। অনুগ্রহ করে আপনার ডিভাইসের prompt এর মাধ্যমে নিচের QR কোড স্ক্যান করুন।">
+<!ENTITY wifi_auth_scan_request "আপনি যে প্রান্তে সংজুক্ত হচ্ছেন তা নির্ভরযোগ্য প্রমানে আরো তথ্য প্রয়োজন।  অনুগ্রহ করে আপনার ডিভাইসের prompt এর মাধ্যমে নিচের QR কোড স্ক্যান করুন।">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "কোন উত্তেজিত QR scanner নেই?">
