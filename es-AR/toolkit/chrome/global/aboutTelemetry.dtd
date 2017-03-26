@@ -156,6 +156,9 @@ Ping
 ">
 
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Mostrar datos de pila en bruto
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtro (cadenas o /regexp/)
