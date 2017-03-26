@@ -63,6 +63,8 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "L">
 <!ENTITY cmd.removeFromHistory.label      "Allontanar da la cronologia">
 <!ENTITY cmd.removeFromHistory.accesskey  "g">
+<!ENTITY cmd.clearList2.label             "Svidar la panela da prevista">
+<!ENTITY cmd.clearList2.accesskey         "v">
 <!ENTITY cmd.clearDownloads.label         "Svidar la glista da telechargiadas">
 <!ENTITY cmd.clearDownloads.accesskey     "D">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
@@ -87,6 +89,30 @@
      -->
 <!ENTITY cmd.chooseOpen.label             "Avrir u allontanar la datoteca">
 
+<!-- LOCALIZATION NOTE (showMoreInformation.label):
+     Displayed when hovering a blocked download, indicates that it's possible to
+     show more information for user to take the next action.
+     -->
+<!ENTITY showMoreInformation.label        "Mussar ulteriuras infurmaziuns">
+
+<!-- LOCALIZATION NOTE (openFile.label):
+     Displayed when hovering a complete download, indicates that it's possible to
+     open the file using an app available in the system.
+     -->
+<!ENTITY openFile.label                   "Avrir la datoteca">
+
+<!-- LOCALIZATION NOTE (retryDownload.label):
+     Displayed when hovering a download which is able to be retried by users,
+     indicates that it's possible to download this file again.
+     -->
+<!ENTITY retryDownload.label              "Reempruvar da telechargiar">
+
+<!-- LOCALIZATION NOTE (cancelDownload.label):
+     Displayed when hovering a download which is able to be cancelled by users,
+     indicates that it's possible to cancel and stop the download.
+     -->
+<!ENTITY cancelDownload.label             "Interrumper la telechargiada">
+
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
      Note: This string doesn't exist in the UI yet.  See bug 1053890.
@@ -108,6 +134,7 @@
 <!ENTITY downloadsHistory.label           "Mussar tut las telechargiadas">
 <!ENTITY downloadsHistory.accesskey       "S">
 
+<!ENTITY openDownloadsFolder.label       "Avrir l'ordinatur da telechargiadas">
 
 <!ENTITY clearDownloadsButton.label       "Svidar la glista da telechargiadas">
 <!ENTITY clearDownloadsButton.tooltip     "Stizza tut las telechargiadas cumplettadas, interruttas u sbagliadas da la glista da telechargiadas">
