@@ -59,7 +59,7 @@
 <!ENTITY hfDateAndTime       "Data/ordua">
 <!ENTITY hfPage              "Orria #">
 <!ENTITY hfPageAndTotal      "# orria #-tik">
-<!ENTITY hfBlank             "--txuria--">
+<!ENTITY hfBlank             "--zuria--">
 <!ENTITY hfCustom            "Pertsonalizatua...">
 
 <!ENTITY customPrompt.title  "Pertsonalizatua...">
