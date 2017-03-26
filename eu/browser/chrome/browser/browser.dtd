@@ -340,7 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Itxitako azken leihoak">
 <!ENTITY historyRestoreLastSession.label "Berreskuratu aurreko saioa">
 
-<!ENTITY showAllHistoryCmd2.label "Erakutsi historia…">
+<!ENTITY showAllHistoryCmd2.label "Erakutsi historia guztia">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Pertsonalizatu">

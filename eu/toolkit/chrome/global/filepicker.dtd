@@ -4,7 +4,7 @@
 
 <!ENTITY lookInMenuList.label   "Bilatu hemen:">
 <!ENTITY lookInMenuList.accesskey   "l">
-<!ENTITY textInput.label        "Fitxategi izena:">
+<!ENTITY textInput.label        "Fitxategi-izena:">
 <!ENTITY textInput.accesskey        "n">
 <!ENTITY filterMenuList.label   "Mota honetako fitxategiak:">
 <!ENTITY filterMenuList.accesskey   "t">

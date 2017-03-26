@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Eguneraketak desgaitu ditu sistemaren administratzaileak">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "Beste instantzia bat ari da &brandShortName; eguneratzen saiatzen">
+<!ENTITY update.otherInstanceHandlingUpdates "Beste instantzia bat ari da &brandShortName; eguneratzen">
 <!ENTITY update.restarting          "Berrabiarazten…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
