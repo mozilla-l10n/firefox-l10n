@@ -15,10 +15,10 @@
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 
 
-
-
-
-
+<!ENTITY publicNamespace.label "Javni (podijeljeni):">
+<!ENTITY publicNamespace.accesskey "J">
+<!ENTITY otherUsersNamespace.label "Ostali korisnici:">
+<!ENTITY otherUsersNamespace.accesskey "O">
 
 
 
