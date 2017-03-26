@@ -62,6 +62,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Barcoin moltiprocesso">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ciave Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ciave do Serviçio de Localizaçion de Mozilla">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mòddo seguo">
 
 <!ENTITY aboutSupport.showDir.label "Arvi cartella">
@@ -107,6 +110,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Còpia dæti sgreuzzi in scî aponti">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Scistema de ciamæ refuæ">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Segondi fa">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de processo">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argomenti">
 
 <!ENTITY aboutSupport.safeModeTitle "Preuva o mòddo seguo">
 <!ENTITY aboutSupport.restartInSafeMode.label "Arvi torna co-i conponenti azonti dizativæ…">
