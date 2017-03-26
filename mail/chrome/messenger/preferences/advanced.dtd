@@ -39,7 +39,7 @@
 <!ENTITY showReturnReceipts.accesskey  "r">
 <!-- Data Choices -->
 
-<!ENTITY telemetrySection.label          "Telemetria">
+<!ENTITY telemetrySection.label          "Telemetry">
 <!ENTITY telemetryDesc.label             "Errendimendu, erabilera, hardware eta pertsonalizazio informazioa bidaltzen dio &vendorShortName;(r)i &brandShortName; hobetzen laguntzeko">
 <!ENTITY enableTelemetry.label           "Gaitu telemetria">
 <!ENTITY enableTelemetry.accesskey       "t">
