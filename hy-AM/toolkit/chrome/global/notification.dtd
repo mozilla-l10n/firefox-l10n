@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "Իմանալ ավելին…">
 
-
+<!ENTITY defaultButton.label "Լավ">
+<!ENTITY defaultButton.accesskey "Լ">
