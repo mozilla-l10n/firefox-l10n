@@ -57,11 +57,11 @@
 <!ENTITY  crash_sorry "Λυπούμαστε">
 <!ENTITY  crash_comment "Προσθήκη σχολίου (τα σχόλια είναι δημόσια)">
 <!ENTITY  crash_allow_contact2 "Να επιτραπεί στο &vendorShortName; να έρθει σε επαφή μαζί μου σχετικά με αυτή την αναφορά">
-<!ENTITY  crash_email "Η ηλ. διεύθυνσή σας">
+<!ENTITY  crash_email "Το email σας">
 <!ENTITY  crash_closing_alert "Έξοδος χωρίς αποστολή αναφοράς κατάρρευσης;">
 <!ENTITY  sending_crash_report "Γίνεται αποστολή αναφοράς σφάλματος\u2026">
 <!ENTITY  crash_close_label "Κλείσιμο">
-<!ENTITY  crash_restart_label "Επανεκκίνηση &brandShortName;">
+<!ENTITY  crash_restart_label "Επανεκκίνηση του &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "Αναζητήστε ή εισάγετε μια διεύθυνση">
 
@@ -130,14 +130,14 @@
 <!ENTITY settings "Ρυθμίσεις">
 <!ENTITY settings_title "Ρυθμίσεις">
 <!ENTITY pref_category_general "Γενικά">
-<!ENTITY pref_category_general_summary3 "Αρχική σελίδα, γλώσσα, λίστα αναμονής καρτελών">
+<!ENTITY pref_category_general_summary3 "Αρχική σελίδα, γλώσσα, λίστα καρτελών">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Γλώσσα">
-<!ENTITY pref_category_language_summary "Αλλαγή της γλώσσας του περιηγητή σας">
-<!ENTITY pref_browser_locale "Γλώσσα περιηγητή">
+<!ENTITY pref_category_language_summary "Αλλαγή της γλώσσας του προγράμματος περιήγησής σας">
+<!ENTITY pref_browser_locale "Γλώσσα προγράμματος περιήγησης">
 
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
@@ -156,7 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ήδη στους σελιδοδείκτες">
 <!ENTITY overlay_share_send_other "Αποστολή σε άλλες συσκευές">
 
-<!ENTITY overlay_share_open_browser_btn_label "Άνοιγμα σε &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "Άνοιγμα στο &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -176,7 +176,7 @@
 <!ENTITY pref_category_privacy_short "Απόρρητο">
 <!ENTITY pref_category_privacy_summary4 "Καταγραφή, στοιχεία σύνδεσης, επιλογές δεδομένων">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Σχετικά με τον &brandShortName;, συχνές ερωτήσεις, η γνώμη σας">
+<!ENTITY pref_category_vendor_summary2 "Σχετικά με το &brandShortName;, συχνές ερωτήσεις, σχόλια">
 <!ENTITY pref_category_datareporting "Επιλογές δεδομένων">
 <!ENTITY pref_category_logins "Στοιχεία σύνδεσης">
 <!ENTITY pref_learn_more "Μάθετε περισσότερα">
