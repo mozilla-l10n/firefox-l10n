@@ -30,7 +30,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "Könyvjelzők menü">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "‌">
 <!ENTITY bookmarks.folder.tags.label "Címkék">
 <!ENTITY bookmarks.folder.toolbar.label "Könyvjelző eszköztár">
 <!ENTITY bookmarks.folder.other.label "Más könyvjelzők">
@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Több&ellipsis;">
 <!ENTITY fxaccount_remove_account "Leválás&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Leválik a Syncről?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Böngészési adatai megmaradnak ezen az eszközön, de nem szinkronizálódnak a fiókjával.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "&formatS; Firefox fiók leválasztva.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Kapcsolat bontása">
 
 <!ENTITY fxaccount_enable_debug_mode "Hibakeresési mód bekapcsolása">
 <!-- Localization note: this is the name shown by the Android system
