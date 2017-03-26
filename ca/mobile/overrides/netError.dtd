@@ -69,8 +69,8 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Comproveu que els paràmetres del servidor intermediari siguin correctes.</li> <li>Comproveu que funcioni la connexió de dades o Wi-Fi del vostre dispositiu. <button id='wifi'>Activa la connexió Wi-Fi</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "La pàgina no està redirigint adequadament">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Això podria passar en haver inhabilitat o rebutjat l'acceptació de galetes.</li> </ul>">
+<!ENTITY redirectLoop.title "La pàgina no està redirigint correctament">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Això podria passar per haver inhabilitat o rebutjat l'acceptació de galetes.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Assegureu-vos que el vostre sistema té un gestor de seguretat personal instal·lat.</li> <li>Això podria ser a causa d'una configuració no estàndard del servidor.</li> </ul>">
