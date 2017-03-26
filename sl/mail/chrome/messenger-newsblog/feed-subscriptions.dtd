@@ -20,10 +20,12 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Preveri za nove članke vsakih ">
+<!ENTITY biffStart.accesskey         "e">
 <!ENTITY biffMinutes.label           "minut">
 <!ENTITY biffMinutes.accesskey       "m">
 <!ENTITY biffDays.label              "dni">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Založnik priporoča:">
 
 <!ENTITY quickMode.label             "Pokaži povzetek članka namesto nalaganja spletne strani">
 <!ENTITY quickMode.accesskey         "P">
