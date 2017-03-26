@@ -892,7 +892,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "การกระทำนี้ไม่สามารถเลิกทำได้">
 <!ENTITY panicButton.view.forgetButton            "ลืมซะ!">
 
-<!ENTITY panicButton.thankyou.msg1                "ประวัติการใช้ล่าสุดได้ถูกลบล้างแล้ว">
+<!ENTITY panicButton.thankyou.msg1                "ล้างประวัติเมื่อเร็ว ๆ นี้ของคุณแล้ว">
 <!ENTITY panicButton.thankyou.msg2                "การท่องเว็บปลอดภัย!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ขอบคุณ!">
 
