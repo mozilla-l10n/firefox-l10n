@@ -65,6 +65,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fanestras da plirs process">
 
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Modus privat">
 
 <!ENTITY aboutSupport.showDir.label "Avrir l'ordinatur">
