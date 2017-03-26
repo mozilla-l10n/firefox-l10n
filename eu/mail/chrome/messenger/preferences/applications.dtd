@@ -19,8 +19,8 @@
 <!ENTITY alwaysAsk.accesskey          "B">
 <!ENTITY chooseFolderWin.label        "Arakatu…">
 <!ENTITY chooseFolderWin.accesskey    "A">
-<!ENTITY chooseFolderMac.label        "Hautatu…">
-<!ENTITY chooseFolderMac.accesskey    "H">
+<!ENTITY chooseFolderMac.label        "Aukeratu…">
+<!ENTITY chooseFolderMac.accesskey    "A">
 
 <!ENTITY attachments.incoming.label   "Sarrerakoa">
 <!ENTITY attachments.outgoing.label   "Irteerakoa">
