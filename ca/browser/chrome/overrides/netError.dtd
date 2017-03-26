@@ -67,8 +67,8 @@
 <!ENTITY proxyResolveFailure.title "No s'ha pogut trobar el servidor intermediari">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Comproveu els paràmetres del servidor intermediari per assegurar-vos que siguin correctes.</li> <li>Comproveu que el vostre ordinador té una connexió a la xarxa funcional.</li> <li>Si el vostre ordinador o la vostra xarxa estan protegits per un tallafoc o per un servidor intermediari, assegureu-vos que el &brandShortName; tingui permís per accedir al web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "La pàgina no està redirigint adequadament">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Això podria passar en haver inhabilitat o rebutjat l'acceptació de galetes.</li> </ul>">
+<!ENTITY redirectLoop.title "La pàgina no està redirigint correctament">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Això podria passar per haver inhabilitat o rebutjat l'acceptació de galetes.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Resposta inesperada del servidor">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Assegureu-vos que el vostre sistema té un gestor de seguretat personal instal·lat.</li> <li>Això podria ser a causa d'una configuració no estàndard del servidor.</li> </ul>">
