@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "&brandShorterName; ট্যুর">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "পছন্দসমূহ...">
+<!ENTITY preferencesCmdMac.label        "পছন্দসমূহ…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "সেবা">

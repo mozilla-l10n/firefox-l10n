@@ -64,7 +64,7 @@ can reach it easily. -->
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "অবস্থান খুলুন…">
-<!ENTITY openFileCmd.label "ফাইল খুলুন… O">
+<!ENTITY openFileCmd.label "ফাইল খুলুন…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস… u">
