@@ -15,7 +15,7 @@
 <!ENTITY helpMenuWin.label        "עזרה"> 
 <!ENTITY helpMenuWin.accesskey    "ז">
 <!ENTITY aboutProduct2.label      "על אודות &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY aboutProduct2.accesskey  "א">
 <!ENTITY productHelp2.label       "עזרה עבור &brandShorterName;">
 <!ENTITY productHelp2.accesskey   "ע">
 <!ENTITY helpMac.commandkey       "?">
@@ -29,7 +29,7 @@
 <!ENTITY helpSafeMode.stop.accesskey   "ח">
 
 <!ENTITY healthReport2.label      "דיווח בריאות עבור &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
+<!ENTITY healthReport2.accesskey  "ב">
 
 <!ENTITY helpTroubleshootingInfo.label      "מידע לפתרון בעיות">
 <!ENTITY helpTroubleshootingInfo.accesskey  "מ">

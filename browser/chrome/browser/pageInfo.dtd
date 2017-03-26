@@ -77,7 +77,7 @@
 <!ENTITY  securityView.privacy.header                   "פרטיות והיסטוריה">
 <!ENTITY  securityView.privacy.history                  "האם ביקרתי באתר זה בעבר?">
 <!ENTITY  securityView.privacy.cookies                  "האם אתר זה שומר מידע (עוגיות) על המחשב שלי?">
-<!ENTITY  securityView.privacy.viewCookies              "הצג עוגיות">
+<!ENTITY  securityView.privacy.viewCookies              "הצגת עוגיות">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ע">
 <!ENTITY  securityView.privacy.passwords                "האם שמרתי ססמאות עבור אתר זה?">
 <!ENTITY  securityView.privacy.viewPasswords            "הצגת ססמאות שמורות">
