@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Minden könyvjelző megjelenítése">
 <!ENTITY recentBookmarks.label "Nemrég könyvjelzőzött">
 <!ENTITY otherBookmarksCmd.label "Más könyvjelzők">
-
+<!ENTITY mobileBookmarksCmd.label "Mobil könyvjelzők">
 <!ENTITY bookmarksToolbarChevron.tooltip "További könyvjelzők megjelenítése">
 <!ENTITY showRecentlyBookmarked.label     "Nemrég könyvjelzőzött megjelenítése">
 <!ENTITY showRecentlyBookmarked.accesskey "N">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Könyvjelzők">
 <!ENTITY bookmarksMenuButton.other.label "Más könyvjelzők">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Mobil könyvjelzők">
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Nincsenek nyitott lapok">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Több megjelenítése">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Több lap megjelenítése erről az eszközről">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Összes megjelenítése">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Összes lap megjelenítése erről a készülékről">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Kapcsolja be a lapszinkronizálást a más készülékeiről származó lapok listájának megjelenítéséhez.">
