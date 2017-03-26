@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Talpas">
 <!ENTITY  useDefaultFontSansSerif.label           "Talpatlan">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Az oldalak a saját maguk által kiválasztott betűket használhatják a fent megadottak helyett">
+<!ENTITY  allowPagesToUseOwn.accesskey            "d">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Karakterkódolás örökölt tartalomhoz">
 <!ENTITY languages.customize.Fallback2.label      "Tartalék kódolás:">

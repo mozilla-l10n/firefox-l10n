@@ -4,8 +4,8 @@
 
 <!ENTITY addButton.label      "Új konténer hozzáadása">
 <!ENTITY addButton.accesskey  "a">
-
-
+<!ENTITY preferencesButton.label "Beállítások">
+<!ENTITY removeButton.label   "Eltávolítás">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Vissza a privát módba">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Név:">
 <!ENTITY name.accesskey       "N">
-
+<!ENTITY name.placeholder     "Adjon meg egy konténernevet">
 <!ENTITY icon.label           "Ikon:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Szín:">

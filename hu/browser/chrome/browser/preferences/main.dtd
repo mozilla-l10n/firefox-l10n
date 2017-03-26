@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "A &brandShortName; indításakor:">
 <!ENTITY startupPage.accesskey     "d">
-
+<!ENTITY startupUserHomePage.label "Kezdőlap megjelenítése">
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
-
+<!ENTITY startupPrevSession.label  "A legutóbbi ablakok és lapok megjelenítése">
 
 <!ENTITY homepage.label            "Kezdőlap:">
 <!ENTITY homepage.accesskey        "K">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "T">
 <!ENTITY chooseFolderMac.label        "Tallózás…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-
-
+<!ENTITY alwaysAskWhere.label         "Mindig kérdezzen rá a fájlok letöltési helyére">
+<!ENTITY alwaysAskWhere.accesskey     "r">
 
 <!ENTITY alwaysCheckDefault2.label        "Mindig ellenőrizze, hogy a &brandShortName;-e az alapértelmezett böngésző">
 <!ENTITY alwaysCheckDefault2.accesskey    "M">
