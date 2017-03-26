@@ -30,14 +30,18 @@
   -  <style> tag -->
 
 <!ENTITY csscoverage.optimize.body1 "Տեղափոխելով երբեմն կարող եք ավելի արագ բեռնել">
-
+<!ENTITY csscoverage.optimize.body2 "կցապիտակները էջի ներքևում և նոր ներտողի ստեղծում">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
+
+<!ENTITY csscoverage.optimize.bodyX "Բոլոր կանոնները ներտողում են:">
 <!-- LOCALIZATION NOTE (csscoverage.footer1, csscoverage.footer2a,
   -  csscoverage.footer3, csscoverage.footer4): The text displayed at the
   -  bottom of the page, with 2a being the URL opened when the link text in 3
   -  is clicked -->
-<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 
+<!ENTITY csscoverage.footer1 "Տեսեք">
+<!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
+<!ENTITY csscoverage.footer3 "MDN հոդվածը CSS ծածկույթի գործիքում">
 
