@@ -61,7 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Daugiaprocesiai langai">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "„Google“ raktas">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "„Mozillos“ buvimo vietos nustatymo paslaugos raktas">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Ribotoji veiksena">
 
@@ -108,14 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopijuoti neapdorotus duomenis į iškarpinę">
 
 <!ENTITY aboutSupport.sandboxTitle "Izoliavimas">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Atmesti kreipimaisi į sistemą">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Sekundės prieš">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Proceso tipas">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Kreipimasis į sistemą">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentai">
 
 <!ENTITY aboutSupport.safeModeTitle "Išbandykite ribotąją veikseną">
 <!ENTITY aboutSupport.restartInSafeMode.label "Perleisti išjungus priedus…">

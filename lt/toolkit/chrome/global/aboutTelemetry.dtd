@@ -80,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  PASTABA: Įjungtas lėtų SQL sakinių derinimas. Žemiau gali būti rodomi pilni SQL sakiniai, tačiau jie nebus pateikiami telemetrijai.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Rinkti funkcijų vardus dėklams">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Rodyti neapdorotus dėklų duomenis">
 
 <!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">
 
