@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY doNotDownloadPop3Movemail.label "Диск орнын үнемдеу үшін, келесіні жүктемеу:">
+<!ENTITY doNotDownloadNntp.label "Диск орнын үнемдеу үшін, желіден тыс режимі үшін келесіні жүктемеу:">
 
 
 
@@ -45,8 +47,8 @@
 
 
 <!ENTITY ageAutosyncMiddle.label         "">
-
-
+<!ENTITY dayAgeInterval.label            "Күн">
+<!ENTITY weekAgeInterval.label           "Апта">
 <!ENTITY monthAgeInterval.label          "Айлар">
 <!ENTITY yearAgeInterval.label           "Жылдар">
 <!ENTITY ageAutosyncAfter.label          "">

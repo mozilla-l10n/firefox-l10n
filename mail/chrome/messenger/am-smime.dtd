@@ -4,26 +4,26 @@
 
 <!ENTITY securityTitle.label "Қауіпсіздік">
 <!ENTITY securityTab.label "Қауіпсіздік">
-
+<!ENTITY securityHeading.label "Цифрлық қолтаңбасы бар немесе шифрленген хабарламаларды жіберу және қабылдау үшін, сізге цифрлық қолтаңбаны қою сертификатын және шифрлеу сертификатын көрсету керек.">
 <!ENTITY encryptionGroupTitle.label "Шифрлеу">
-
-
-
-
-
-
+<!ENTITY encryptionChoiceLabel.label "Хабарламаларды жіберу кезінде негізгі шифреу баптауы:">
+<!ENTITY neverEncrypt.label "Ешқашан (шифрлеуді қолданбау)">
+<!ENTITY neverEncrypt.accesskey "н">
+<!ENTITY alwaysEncryptMessage.label "Міндетті (барлық алушыларда сертификаттар болған кезде ғана жіберуге болады)">
+<!ENTITY alwaysEncryptMessage.accesskey "д">
+<!ENTITY encryptionCert.message "Бір сертификатты шифрлеу және сізге жіберілген хабарламаларды дешифрлеу үшін қолдану?">
 <!ENTITY digitalSign.certificate.button "Таңдау…">
-
+<!ENTITY digitalSign.certificate.accesskey "с">
 <!ENTITY digitalSign.certificate_clear.button "Тазарту">
-
+<!ENTITY digitalSign.certificate_clear.accesskey "з">
 <!ENTITY encryption.certificate.button "Таңдау…">
-
+<!ENTITY encryption.certificate.accesskey "т">
 <!ENTITY encryption.certificate_clear.button "Тазарту">
-
-
-
-
-
+<!ENTITY encryption.certificate_clear.accesskey "е">
+<!ENTITY signingGroupTitle.label "Цифрлық қолтаңбаларды қою">
+<!ENTITY signMessage.label "Хабарламаларға цифрлық қолтаңбаларды қою (үнсіз келісім бойынша)">
+<!ENTITY signMessage.accesskey "ц">
+<!ENTITY signingCert.message "Бұл сертификатты сіх жіберетін хабарламаларға цифрлық қолтаңба қою үшін қолдану:">
 
 <!ENTITY certificates.label "Сертификаттар">
 <!ENTITY manageCerts2.label "Сертификаттарды басқару">

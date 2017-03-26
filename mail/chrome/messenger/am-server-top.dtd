@@ -45,13 +45,13 @@
 
 
 
-
-
-
-
-
-
-
+<!ENTITY deleteMessagePrefix.label "Мен хабарламаны өшірген кезде:">
+<!ENTITY modelMoveToTrash.label "Оны бұл бумаға жылжыту:">
+<!ENTITY modelMoveToTrash.accesskey "ы">
+<!ENTITY modelMarkDeleted.label "Тек өшірілген ретінде белгілеу">
+<!ENTITY modelMarkDeleted.accesskey "г">
+<!ENTITY modelDeleteImmediately.label "Оны лезде өшіру">
+<!ENTITY modelDeleteImmediately.accesskey "д">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
 
 

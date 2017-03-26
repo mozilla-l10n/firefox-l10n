@@ -5,8 +5,8 @@
 <!ENTITY pane.title                   "Алу есептемелері">
 <!ENTITY useGlobalPrefs.label         "Бұл тіркелгі үшін менің глобалды алу есептемелері баптауларымды қолдану">
 <!ENTITY useGlobalPrefs.accesskey     "о">
-
-
+<!ENTITY globalReceipts.label         "Глобалды баптаулар…">
+<!ENTITY globalReceipts.accesskey     "Г">
 
 
 
