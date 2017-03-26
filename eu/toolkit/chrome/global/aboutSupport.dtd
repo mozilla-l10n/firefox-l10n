@@ -109,9 +109,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiatu datu gordinak arbelean">
 
 <!ENTITY aboutSupport.sandboxTitle "Isolamendua">
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Baztertutako sistema-deiak">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
-
+<!ENTITY aboutSupport.sandboxSyscallAge "Duela zenbat segundo">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Prozesu mota">
