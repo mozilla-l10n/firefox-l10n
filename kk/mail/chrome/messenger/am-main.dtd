@@ -18,10 +18,10 @@
 
 <!ENTITY organization.label "Мекеме:">
 <!ENTITY organization.accesskey "М">
-
-
-
-
+<!ENTITY signatureText.label "Қолтаңба мәтіні:">
+<!ENTITY signatureText.accesskey "т">
+<!ENTITY signatureHtml.label "HTML қолдану (мыс., &lt;b&gt;bold&lt;/b&gt;)">
+<!ENTITY signatureHtml.accesskey "л">
 
 
 <!ENTITY edit.label "Түзету…">
