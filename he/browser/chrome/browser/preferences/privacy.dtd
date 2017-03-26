@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "חריגות…">
 <!ENTITY  cookieExceptions.accesskey    "ח">
 
-<!ENTITY  showCookies.label             "הצג עוגיות…">
+<!ENTITY  showCookies.label             "הצגת עוגיות…">
 <!ENTITY  showCookies.accesskey         "צ">
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ">

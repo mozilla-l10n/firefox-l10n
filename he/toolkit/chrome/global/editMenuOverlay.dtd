@@ -24,7 +24,7 @@
 <!ENTITY selectAllCmd.label        "בחירת הכל">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "ב">
-<!ENTITY findCmd.label             "חפש">
+<!ENTITY findCmd.label             "חיפוש">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "פ">
 <!ENTITY findAgainCmd.label        "מצא שוב">
