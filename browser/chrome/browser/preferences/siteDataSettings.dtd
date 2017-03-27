@@ -7,3 +7,14 @@
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     usageCol.label                "Krātuve">
+<!ENTITY     searchPlaceHolder             "Meklēt">
+<!ENTITY     searchPlaceHolder.accesskey   "M">
+<!ENTITY     removeSelected.label          "Izņemt izvēlēto">
+<!ENTITY     removeSelected.accesskey      "I">
+<!ENTITY     save.label                    "Saglabāt izmaiņas">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Atcelt">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "Noņem vietņu datus">
+<!ENTITY     removingDialog.description    "Vietņu datu noņemšana noņems arī sīkdatnes. Tas var pārtraukt jūsu autorizētās sesijas dažās lapās, kā arī nesaistes dati nebūs pieejami. Vai tiešām vēlaties veikt izmaiņas?">
+<!ENTITY     siteTree.label                "Tiks noņemtas sekojošu lapu sīkdatnes:">
