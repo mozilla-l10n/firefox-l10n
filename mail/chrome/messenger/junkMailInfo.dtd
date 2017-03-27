@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY window.title  "Спам хабарламалары туралы">
+<!ENTITY window.width  "450">
+<!ENTITY info1a.label  "&brandShortName; спам поштасына ұқсайтын кіріс хабарламаларды автоматты түрде анықтайды. &brandShortName; спам деп санайтын хабарламалар үстінде спам таңбашасы көрсетіледі">
 <!ENTITY info1b.label  ".">
 
 

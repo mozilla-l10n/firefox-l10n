@@ -22,10 +22,10 @@
      -->
 <!ENTITY moveToNewWindow.label "Жаңа терезеге жылжыту">
 <!ENTITY moveToNewWindow.accesskey "е">
-
-
-
-
+<!ENTITY newVirtualFolderCmd.label "Сақталған іздеу…">
+<!ENTITY newVirtualFolderCmd.accesskey "С">
+<!ENTITY newOtherAccountsCmd.label "Басқа тіркелгілер…">
+<!ENTITY newOtherAccountsCmd.accesskey "а">
 
 
 
