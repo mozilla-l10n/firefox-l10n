@@ -85,7 +85,11 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Ambil nama fungsi untuk stack">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Tampilkan tumpukan data mentah">
 
 <!ENTITY aboutTelemetry.filterText "  Filter (string atau /ekspresi reguler/)">
 
