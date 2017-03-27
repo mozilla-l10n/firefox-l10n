@@ -115,6 +115,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Tipo de proceso">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
