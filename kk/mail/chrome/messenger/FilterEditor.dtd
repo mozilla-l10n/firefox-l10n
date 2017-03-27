@@ -7,7 +7,7 @@
 <!ENTITY filterName.label "Сүзгі атауы:">
 <!ENTITY filterName.accesskey "С">
 
-<!ENTITY junk.label "Ескі-құсқы">
+<!ENTITY junk.label "Спам">
 <!ENTITY notJunk.label "Спам емес">
 
 <!ENTITY lowestPriorityCmd.label "Ең төмен">
@@ -48,7 +48,7 @@
 <!ENTITY deleteMessage.label "Хабарламаны өшіру">
 <!ENTITY deleteFromPOP.label "POP серверінен өшіру">
 <!ENTITY fetchFromPOP.label "POP серверінен алу">
-
+<!ENTITY ignoreThread.label "Ілеспелерді елемеу">
 
 
 <!ENTITY stopExecution.label "Сүзгі орындалуын тоқтату">

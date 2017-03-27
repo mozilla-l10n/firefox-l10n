@@ -2,8 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
-<!-- Labels -->
 
+<!ENTITY mailListWindowAdd.title        "Жаңа хабарлау тізімі">
+<!-- Labels -->
+<!ENTITY addToAddressBook.label         "Мынаған қосу:">
+
+<!ENTITY ListName.label                 "Тізімнің атауы:">
 
 <!ENTITY ListDescription.label          "Анықтамасы: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
@@ -12,6 +16,8 @@
 <!ENTITY DownButton.label               "Төмен жылжыту">
 <!-- Access Keys -->
 
+<!ENTITY addToAddressBook.accesskey     "A">
+<!ENTITY ListName.accesskey             "L">
 
 <!ENTITY ListDescription.accesskey      "ы">
 
