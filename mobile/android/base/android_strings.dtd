@@ -209,22 +209,13 @@
 <!ENTITY pref_plugins_enabled "Attivati">
 <!ENTITY pref_plugins_tap_to_play2 "Tocca per avviare">
 <!ENTITY pref_plugins_disabled "Disattivati">
-<!ENTITY pref_text_size "Dimensioni testo">
 <!ENTITY pref_restore_tabs "Ripristina schede">
 <!ENTITY pref_restore_always "Sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
-<!ENTITY pref_font_size_tiny "Molto piccolo">
-<!ENTITY pref_font_size_small "Piccolo">
-<!ENTITY pref_font_size_medium "Medio">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Molto grande">
-<!ENTITY pref_font_size_set "Imposta">
-<!ENTITY pref_font_size_adjust_char "A">
 <!ENTITY pref_media_autoplay_enabled "Consenti riproduz. automatica">
 <!ENTITY pref_media_autoplay_enabled_summary "Determina se i siti web possono riprodurre automaticamente video e altri contenuti multimediali">
 <!ENTITY pref_zoom_force_enabled "Consenti sempre zoom">
 <!ENTITY pref_zoom_force_enabled_summary "Ignora le impostazioni della pagina e consenti sempre lo zoom">
-<!ENTITY pref_font_size_preview_text "La volpe arancio oltrepassa ogni ostacolo con sempre maggiore velocità, flessibilità e sicurezza. In quanto organizzazione non profit siamo in grado di creare innovazione per il bene degli utenti senza cedere a pressioni o compromessi. Questo significa una migliore esperienza per tutti e un futuro migliore per il Web.">
 <!ENTITY pref_voice_input "Input vocale">
 <!ENTITY pref_voice_input_summary2 "Attiva input vocale nella barra degli indirizzi">
 <!ENTITY pref_qrcode_enabled "Scansione codici QR">
