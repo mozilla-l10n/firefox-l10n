@@ -57,6 +57,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers ma kicoyo">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Propwail">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Dirica me tic mapol">
 
@@ -107,8 +108,8 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Lapok kin purugram">
 
-
-
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Ceken angec">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 

@@ -63,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "Juko woko kit me yengo pe kimoko calo twero kelo woti i kakube mape tye maber.  Ka ce imito juko kit jami odoco, lub yoo magi:">
 <!ENTITY rights.safebrowsing-term1 "Yab tic ma imito">
 <!ENTITY rights.safebrowsing-term2 "Yer lagwok kuc">
-
+<!ENTITY rights2.safebrowsing-term3 "Kwany lagwet woko me &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Pe kijuko Yengo Maber">
 <!-- location aware browsing points for branded builds -->
 
