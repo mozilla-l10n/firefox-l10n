@@ -61,6 +61,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Jendela Multiproses">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Kunci Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Kunci Layanan Lokasi Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Mode Aman">
 
@@ -107,7 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Salin data mentah ke papan klip">
 
 <!ENTITY aboutSupport.sandboxTitle "Kotak pasir">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Panggilan Sistem yang Tertolak">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Detik Lalu">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Jenis Proses">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumen">
 
 <!ENTITY aboutSupport.safeModeTitle "Coba Mode Aman">
 <!ENTITY aboutSupport.restartInSafeMode.label "Mulai Ulang dengan Pengaya Dinonaktifkan…">
