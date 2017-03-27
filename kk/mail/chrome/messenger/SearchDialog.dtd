@@ -62,7 +62,7 @@
 
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
-<!ENTITY correspondentColumn2.tooltip "Жіберушілер бойынша сұрыптау">
+<!ENTITY correspondentColumn2.tooltip "Алушылар бойынша сұрыптау">
 <!ENTITY subjectColumn2.tooltip "Тақырыбы бойынша сұрыптау">
 <!ENTITY dateColumn2.tooltip "Күні бойынша сұрыптау">
 <!ENTITY priorityColumn2.tooltip "Приоритеті бойынша сұрыптау">

@@ -7,21 +7,22 @@
 <!ENTITY composeMsgLink.label         "Жаңа хабарламаны жазу">
 
 <!ENTITY newsSectionHdr.label         "Жаңалықтар топтары">
-
+<!ENTITY subscribeNewsLink.label      "Жаңалықтар топтарына жазылуларды басқару">
 
 <!ENTITY feedsSectionHdr.label        "Жаңалықтар таспалары">
-
+<!ENTITY subscribeFeeds.label         "Жазылуларды басқару">
 
 <!ENTITY chat.label                   "Чат">
-
+<!ENTITY movemail.label               "Movemail">
 
 <!ENTITY accountsSectionHdr.label     "Тіркелгілер">
-
-
+<!ENTITY subscribeImapFolders.label   "Бумаларға жазылуларды басқару">
+<!ENTITY settingsLink.label           "Бұл тіркелгі үшін баптауларды қарау">
 <!ENTITY newAcctLink.label            "Жаңа тіркелгіні жасау">
 <!ENTITY newAcct.label                "Жаңа тіркелгіні жасау:">
 
-
-
-
-
+<!ENTITY advFeaturesSectionHdr.label  "Кеңейтілген мүмкіндіктері">
+<!ENTITY searchMsgsLink.label         "Хабарламалардан іздеу">
+<!ENTITY filtersLink.label            "Хабарламалар сүзгілерін басқару">
+<!ENTITY junkSettings.label           "Спам поштасының баптаулары">
+<!ENTITY offlineLink.label            "Желідер тыс режимінің баптаулары">
