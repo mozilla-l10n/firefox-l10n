@@ -24,7 +24,7 @@
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
 
-<!ENTITY remoteHelp "Gintic pa layub me Firefox romo nongo bal ki i nyonyo ma tye kama bor (Firefox me Android kacel ki Firefox OS macalo labol). Myero inen ni i keto yo mukene me 'Nongo bal ki kama bor' i nyonyo ma tye kama bor. Pi matut nen ">
+<!ENTITY remoteHelp "Gitic pa Ludiro me Firefox romo nongo bal ki i nyonyo ma tye kama bor (Firefox pi Android kacel ki Firefox OS, macalo labolle). Myero inen ni i cako ter me ‘Nongo bal ki kama bor’ i nyonyo ma tye kama bor ni. Pi mapol nen ">
 <!ENTITY remoteDocumentation "kit me tic kwede">
 <!ENTITY remoteHelpSuffix ".">
 

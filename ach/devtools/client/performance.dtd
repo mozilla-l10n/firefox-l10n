@@ -97,7 +97,7 @@
   -  should be displayed. -->
 
 <!ENTITY performanceUI.showJITOptimizations             "Nyut timo JIT maber">
-
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Nyut data me yubo JIT ma pore ma kitemo i pem me Javascript weng.">
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
