@@ -26,18 +26,18 @@
 <!ENTITY newVirtualFolderCmd.accesskey "С">
 <!ENTITY newOtherAccountsCmd.label "Басқа тіркелгілер…">
 <!ENTITY newOtherAccountsCmd.accesskey "а">
-
-
-
-
+<!ENTITY newCreateEmailAccountCmd.label "Жаңа пошта тіркелгісін алу…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "л">
+<!ENTITY newExistingEmailAccountCmd.label "Бар болып тұрған пошта тіркелгісі…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "р">
 <!ENTITY newIMAccountCmd.label "Чат тіркелгі…">
 <!ENTITY newIMAccountCmd.accesskey "Ч">
-
-
-
-
-
-
+<!ENTITY newFeedAccountCmd.label "Жаңалықтар таспасы тіркелгісі…">
+<!ENTITY newFeedAccountCmd.accesskey "л">
+<!ENTITY newIMContactCmd.label "Чат контакты…">
+<!ENTITY newIMContactCmd.accesskey "Ч">
+<!ENTITY openMessageFileCmd.label "Сақталған хабарламаны ашу…">
+<!ENTITY openMessageFileCmd.accesskey "а">
 <!ENTITY saveAsMenu.label "Қалайша сақтау">
 <!ENTITY saveAsMenu.accesskey "с">
 <!ENTITY saveAsFileCmd.label "Файл">
@@ -45,18 +45,18 @@
 <!ENTITY saveAsFileCmd.key "с">
 <!ENTITY saveAsTemplateCmd.label "Үлгі">
 <!ENTITY saveAsTemplateCmd.accesskey "л">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY getNewMsgForCmd.label "Келесі үшін жаңа хабарламаларды алу:">
+<!ENTITY getNewMsgForCmd.accesskey "ж">
+<!ENTITY getAllNewMsgCmdPopupMenu.label "Барлық тіркелгілер">
+<!ENTITY getAllNewMsgCmdPopupMenu.accesskey "а">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ағымдағы тіркелгі">
+<!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "ы">
+<!ENTITY getNextNMsgCmd.label "Келесі 500 жаңалықтар хабарламаларын алу">
+<!ENTITY getNextNMsgCmd.accesskey "у">
+<!ENTITY sendUnsentCmd.label "Жіберілмеген хабарламаларды жіберу">
+<!ENTITY sendUnsentCmd.accesskey "б">
+<!ENTITY subscribeCmd.label "Жазылу…">
+<!ENTITY subscribeCmd.accesskey "з">
 
 
 
@@ -463,8 +463,8 @@
 <!ENTITY savedFiles.label "Сақталған файлдар">
 <!ENTITY savedFiles.accesskey "л">
 
-
-
+<!ENTITY filtersCmd2.label "Хабарламалар сүзгілері">
+<!ENTITY filtersCmd2.accesskey "з">
 
 
 
@@ -507,6 +507,7 @@
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Хабарламаларды алу">
@@ -517,7 +518,7 @@
 <!ENTITY forwardButton.label "Алға">
 <!ENTITY fileButton.label "Файл">
 <!ENTITY archiveButton.label "Архивтеу">
-
+<!ENTITY openConversationButton.label "Сөйлесу">
 <!ENTITY nextButton.label "Келесі">
 <!ENTITY nextButtonToolbarItem.label "Келесі оқылмаған">
 <!ENTITY nextMsgButton.label "Келесі">
@@ -535,48 +536,50 @@
 <!ENTITY throbberItem.title "Активтілік айқындағышы">
 <!ENTITY junkItem.title "Ескі-құсқы">
 <!ENTITY junkButton.label "Ескі-құсқы">
-
+<!ENTITY notJunkButton.label "Спам емес">
 <!ENTITY addressBookButton.label "Адрестік кітапша">
 <!ENTITY chatButton.label "Чат">
 <!ENTITY glodaSearch.title "Глобалды іздеу">
 <!ENTITY searchItem.title "Жылдам іздеу">
-
-
+<!ENTITY mailViewsToolbarItem.title "Пошта көріністері">
+<!ENTITY folderLocationToolbarItem.title "Буманың орналасуы">
 <!ENTITY tagButton.label "Тег">
-
+<!ENTITY compactButton.label "Ықшам">
 
 <!-- Mail Toolbar Tooltips-->
 
+<!ENTITY advancedButton.tooltip "Хабарламаларды кеңейтілген іздеу">
+<!ENTITY getMsgButton.tooltip "Жаңа хабарламаларды алу">
+<!ENTITY getAllNewMsgCmd.label "Барлық жаңа хабарламаларды алу">
+<!ENTITY getAllNewMsgCmd.accesskey "л">
+<!ENTITY newMsgButton.tooltip "Жаңа хабарламаны жасау">
+<!ENTITY replyButton.tooltip "Хабарламаға жауап беру">
+<!ENTITY replyAllButton.tooltip "Жіберуші және барлық алушыларға жауап беру">
+<!ENTITY replyListButton.tooltip "Эл. поштаны тарату тізіміне жауап беру">
+<!ENTITY forwardButton.tooltip "Таңдалған хабарламаны қайта бағдарлау">
 
+<!ENTITY forwardAsAttachment.tooltip "Таңдалған хабарламаны салыным ретінде қайта бағдарлау">
 
+<!ENTITY archiveButton.tooltip "Таңдалған хабарламаны архивтеу">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY nextButton.tooltip "Келесі оқылмаған хабарламаға өту">
+<!ENTITY nextMsgButton.tooltip "Келесі хабарламаға өту">
+<!ENTITY previousButton.tooltip "Алдыңғы оқылмаған хабарламаға өту">
+<!ENTITY previousMsgButton.tooltip "Алдыңғы хабарламаға өту">
+<!ENTITY goForwardButton.tooltip "Бір хабарламаға алға өту">
+<!ENTITY goBackButton.tooltip "Бір хабарламаға артқа өту">
+<!ENTITY deleteButton.tooltip "Таңдалған хабарламаны немесе буманы өшіру">
+<!ENTITY undeleteButton.tooltip "Таңдалған хабарламаның өшіруін болдырмау">
 <!ENTITY markButton.tooltip "Хабарламаларды белгілеу">
 <!ENTITY printButton.tooltip "Ағымдағы хабарламаны баспаға шығару">
-
-
-
-
-
+<!ENTITY stopButton.tooltip "Ағымдағы тасымалдауды тоқтату">
+<!ENTITY junkButton.tooltip "Таңдалған хабарламаларды спам ретінде белгілеу">
+<!ENTITY notJunkButton.tooltip "Таңдалған хабарламаларды спам емес ретінде белгілеу">
+<!ENTITY addressBookButton.tooltip "Адрестік кітапшаға өту">
+<!ENTITY chatButton.tooltip "Чат бетін көрсету">
 <!ENTITY tagButton.tooltip "Хабарламаларға тег қою">
-
-
+<!ENTITY compactButton.tooltip "Таңдалған бумадан өшірілген хабарламаларды жою">
+<!ENTITY appmenuButton1.tooltip "&brandShortName; мәзірін көрсету">
 <!-- Toolbar Button Popup -->
 
 <!-- Remote Content Button Popup -->
@@ -594,7 +597,7 @@
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Жаңа хат">
-
+<!ENTITY appmenuNewContactCmd.label "Адрестік кітапша контакты…">
 <!ENTITY appmenuEditMenu.label "Түзету">
 <!ENTITY appmenuToolbarLayout.label "Панельдер орналасуы…">
 
@@ -606,7 +609,7 @@
 <!-- Folder Pane -->
 
 <!ENTITY folderNameColumn.label "Аты">
-
+<!ENTITY folderUnreadColumn.label "Оқылмаған">
 <!ENTITY folderTotalColumn.label "Жалпы">
 <!ENTITY folderSizeColumn.label "Өлшемі">
 <!-- Folder Pane Context Menu -->
@@ -617,16 +620,16 @@
 <!ENTITY folderContextOpenInNewWindow.accesskey "т">
 <!ENTITY folderContextOpenNewTab.label "Жаңа бетте ашу">
 <!ENTITY folderContextOpenNewTab.accesskey "т">
-
-
+<!ENTITY folderContextNew.label "Жаңа ішкі бума…">
+<!ENTITY folderContextNew.accesskey "Ж">
 <!ENTITY folderContextRename.label "Атын ауыстыру">
 <!ENTITY folderContextRename.accesskey "А">
 <!ENTITY folderContextRemove.label "Өшіру">
 <!ENTITY folderContextRemove.accesskey "ш">
-
-
-
-
+<!ENTITY folderContextCompact.label "Ықшам">
+<!ENTITY folderContextCompact.accesskey "Ы">
+<!ENTITY folderContextEmptyTrash.label "Қоқыс шелегін тазарту">
+<!ENTITY folderContextEmptyTrash.accesskey "а">
 
 
 
@@ -683,32 +686,35 @@
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
 
+<!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
+<!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
+<!ENTITY correspondentColumn2.tooltip "Алушылар бойынша сұрыптау">
+<!ENTITY subjectColumn2.tooltip "Тақырыбы бойынша сұрыптау">
+<!ENTITY dateColumn2.tooltip "Күні бойынша сұрыптау">
+<!ENTITY priorityColumn2.tooltip "Приоритеті бойынша сұрыптау">
+<!ENTITY tagsColumn2.tooltip "Тегтер бойынша сұрыптау">
+<!ENTITY accountColumn2.tooltip "Тіркелгі бойынша сұрыптау">
+<!ENTITY statusColumn2.tooltip "Қалып-күйі бойынша сұрыптау">
+<!ENTITY sizeColumn2.tooltip "Өлшемі бойынша сұрыптау">
+<!ENTITY junkStatusColumn2.tooltip "Спам күйі бойынша сұрыптау">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY readColumn2.tooltip "Оқылғаны бойынша сұрыптау">
+<!ENTITY receivedColumn2.tooltip "Алынған күні бойынша сұрыптау">
+<!ENTITY starredColumn2.tooltip "Жұлдызша бойынша сұрыптау">
+<!ENTITY locationColumn2.tooltip "Орналасуы бойынша сұрыптау">
+<!ENTITY idColumn2.tooltip "Алынған реті бойынша сұрыптау">
+<!ENTITY attachmentColumn2.tooltip "Салынымдары бойынша сұрыптау">
 <!-- Thread Pane Context Menu -->
 
+<!ENTITY contextOpenNewWindow.label "Хабарламаны жаңа терезеде ашу">
+<!ENTITY contextOpenNewWindow.accesskey "е">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
      textcontext.dtd from toolkit. Right now, both menu items can't be visible
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
-
+<!ENTITY contextOpenNewTab.label "Хабарламаны жаңа бетте ашу">
+<!ENTITY contextOpenNewTab.accesskey "т">
 
 
 
