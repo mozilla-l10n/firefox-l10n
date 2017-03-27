@@ -27,11 +27,11 @@
 
 <!ENTITY searchTextBox.clear.label "Очистити">
 
-<!ENTITY fillLoginMenu.label          "Заповнити Логін">
+<!ENTITY fillLoginMenu.label          "Ввести пароль">
 <!ENTITY fillLoginMenu.accesskey      "З">
 <!ENTITY fillPasswordMenu.label       "Заповнити пароль">
 <!ENTITY fillPasswordMenu.accesskey   "З">
 <!ENTITY fillUsernameMenu.label       "Заповнити ім'я користувача">
 <!ENTITY fillUsernameMenu.accesskey   "З">
-<!ENTITY noLoginSuggestions.label     "(Немає пропозицій логіна)">
-<!ENTITY viewSavedLogins.label        "Переглянути збережені логіни">
+<!ENTITY noLoginSuggestions.label     "(Немає пропозицій паролів)">
+<!ENTITY viewSavedLogins.label        "Переглянути збережені паролі">

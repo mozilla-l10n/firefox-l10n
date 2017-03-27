@@ -713,7 +713,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ця сторінка збережена на вашому комп'ютері.">
 <!ENTITY identity.connectionVerified2 "Ви безпечно підключились до цього сайту, власником якого є:">
 <!ENTITY identity.connectionInternal "Це захищена сторінка &brandShortName;.">
-<!ENTITY identity.insecureLoginForms2 "Логіни введені на цій сторінці можуть бути скомпрометовані.">
+<!ENTITY identity.insecureLoginForms2 "Паролі, введені на цій сторінці, можуть бути скомпрометовані.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
