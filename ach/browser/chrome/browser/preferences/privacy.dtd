@@ -107,7 +107,7 @@
 
 <!ENTITY  browserContainersHeader.label         "Dirica matidi me mako jami">
 <!ENTITY  browserContainersLearnMore.label      "Nong ngec mapol">
-
-
+<!ENTITY  browserContainersEnabled.label        "Cak Dirica matino me mako jami">
+<!ENTITY  browserContainersEnabled.accesskey    "a">
 <!ENTITY  browserContainersSettings.label        "Ter…">
 <!ENTITY  browserContainersSettings.accesskey    "r">
