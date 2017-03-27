@@ -4,13 +4,13 @@
 
 <!ENTITY doNotDownloadPop3Movemail.label "Диск орнын үнемдеу үшін, келесіні жүктемеу:">
 <!ENTITY doNotDownloadNntp.label "Диск орнын үнемдеу үшін, желіден тыс режимі үшін келесіні жүктемеу:">
-
-
-
-
-
-
-
+<!ENTITY doNotDownloadImap.label "Диск орнын үнемдеу мақсатында, серверден хабарламаларды жүктеп алу және желіден тыс режимі үшін жергілікті көшірмелерді ұстау мерзімі немесе өлшемі бойынша шектеуге болады.">
+<!ENTITY allFoldersOffline.label "Бұл компьютерде бұл тіркелгі үшін хабарламаларды сақтау">
+<!ENTITY allFoldersOffline.accesskey "л">
+<!ENTITY offlineNotDownload.label "Келесіден үлкенірек хабарламалар">
+<!ENTITY offlineNotDownload.accesskey "м">
+<!ENTITY autosyncNotDownload.label "Келесіден үлкен хабарламаларды жүктемеу:">
+<!ENTITY autosyncNotDownload.accesskey "м">
 <!ENTITY kb.label "КБ">
 
 <!ENTITY message.label "хабарлама">

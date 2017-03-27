@@ -57,21 +57,21 @@
 <!ENTITY sendUnsentCmd.accesskey "б">
 <!ENTITY subscribeCmd.label "Жазылу…">
 <!ENTITY subscribeCmd.accesskey "з">
-
-
-
-
+<!ENTITY deleteFolder.label "Буманы өшіру">
+<!ENTITY deleteFolder.accesskey "ш">
+<!ENTITY renameFolder.label "Бума атауын өзгерту…">
+<!ENTITY renameFolder.accesskey "з">
 <!ENTITY renameFolder.key "VK_F2">
-
-
-
-
+<!ENTITY compactFolders.label "Бумаларды ықшамды">
+<!ENTITY compactFolders.accesskey "Б">
+<!ENTITY emptyTrashCmd.label "Қоқыс шелегін тазарту">
+<!ENTITY emptyTrashCmd.accesskey "а">
 <!ENTITY offlineMenu.label "Желіден тыс">
 <!ENTITY offlineMenu.accesskey "т">
-
-
-
-
+<!ENTITY offlineGoOfflineCmd.label "Желіден тыс істеу">
+<!ENTITY offlineGoOfflineCmd.accesskey "Ж">
+<!ENTITY synchronizeOfflineCmd.label "Жүктеп алу/Қазір синхрондау…">
+<!ENTITY synchronizeOfflineCmd.accesskey "с">
 
 
 
@@ -112,14 +112,14 @@
 <!ENTITY folderPropsFolderCmd2.label "Бума қасиеттері">
 
 
-
-
-
-
-
-
-
-
+<!ENTITY undoDeleteMsgCmd.label "Хабарламаны өшіруді болдырмау">
+<!ENTITY redoDeleteMsgCmd.label "Хабарламаны өшіруді қайталау">
+<!ENTITY undoMoveMsgCmd.label "Хабарламаны жылжытуды болдырмау">
+<!ENTITY redoMoveMsgCmd.label "Хабарламаны жылжытуды қайталау">
+<!ENTITY undoCopyMsgCmd.label "Хабарламаны көшіруді болдырмау">
+<!ENTITY redoCopyMsgCmd.label "Хабарламаны көшіруді қайталау">
+<!ENTITY undoMarkAllCmd.label "Барлығын оқылған етіп белгілеуді болдырмау">
+<!ENTITY redoMarkAllCmd.label "Барлығын оқылған етіп белгілеуді қайталау">
 <!ENTITY undoDefaultCmd.label "Болдырмау">
 <!ENTITY undoDefaultCmd.accesskey "Б">
 <!ENTITY redoDefaultCmd.label "Қайталау">
@@ -128,75 +128,77 @@
 
 <!ENTITY menubarCmd.label "Мәзір жолағы">
 <!ENTITY menubarCmd.accesskey "М">
-
-
+<!ENTITY showMessengerToolbarCmd.label "Басты самандар панелі">
+<!ENTITY showMessengerToolbarCmd.accesskey "м">
 <!ENTITY customizeToolbar.label "Баптау…">
 <!ENTITY customizeToolbar.accesskey "а">
 
 <!ENTITY messagePaneLayoutStyle.label "Жайма">
 <!ENTITY messagePaneLayoutStyle.accesskey "й">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY messagePaneClassic.label "Классикалық көрініс">
+<!ENTITY messagePaneClassic.accesskey "К">
+<!ENTITY messagePaneWide.label "Кең көрініс">
+<!ENTITY messagePaneWide.accesskey "е">
+<!ENTITY messagePaneVertical.label "Вертикалды көрініс">
+<!ENTITY messagePaneVertical.accesskey "В">
+<!ENTITY showFolderPaneCmd.label "Бума панелі">
+<!ENTITY showFolderPaneCmd.accesskey "Б">
+<!ENTITY showFolderPaneColsCmd.label "Бума панелінің бағандары">
+<!ENTITY showFolderPaneColsCmd.accesskey "п">
+<!ENTITY showMessageCmd.label "Хабарлама панелі">
+<!ENTITY showMessageCmd.accesskey "Х">
 
 <!ENTITY folderView.label "Бумалар">
 <!ENTITY folderView.accesskey "Б">
-
-
+<!ENTITY unifiedFolders.label "Біріктірілген">
+<!ENTITY unifiedFolders.accesskey "Б">
 <!ENTITY allFolders.label "Барлығы">
 <!ENTITY allFolders.accesskey "Б">
-
-
-
-
+<!ENTITY unreadFolders.label "Оқылмаған">
+<!ENTITY unreadFolders.accesskey "м">
+<!ENTITY favoriteFolders.label "Таңдамалы">
+<!ENTITY favoriteFolders.accesskey "Т">
 <!ENTITY recentFolders.label "Соңғы">
 <!ENTITY recentFolders.accesskey "о">
-
-
-
-
-
+<!ENTITY compactVersion.label "Ықшам көрініс">
+<!ENTITY compactVersion.accesskey "Ы">
+<!ENTITY folderPaneBar.label "Бума панелінің саймандар панелі">
+<!ENTITY folderPaneBar.accesskey "Б">
+<!ENTITY folderModeSelector.label "Бумалар көріністері">
 <!-- Sort Menu -->
 
-
-
+<!ENTITY sortMenu.label "Бойынша сұрыптау:">
+<!ENTITY sortMenu.accesskey "Б">
+<!ENTITY sortByDateCmd.label "Күні">
+<!ENTITY sortByDateCmd.accesskey "н">
 <!ENTITY sortByReceivedCmd.label "Алынған">
 <!ENTITY sortByReceivedCmd.accesskey "н">
-
-
+<!ENTITY sortByStarCmd.label "Жұлдызша">
+<!ENTITY sortByStarCmd.accesskey "Ж">
 <!ENTITY sortByAttachmentsCmd.label "Тіркемелер">
 <!ENTITY sortByAttachmentsCmd.accesskey "м">
-
-
+<!ENTITY sortByPriorityCmd.label "Приоритеті">
+<!ENTITY sortByPriorityCmd.accesskey "П">
 <!ENTITY sortBySizeCmd.label "Өлшемі">
 <!ENTITY sortBySizeCmd.accesskey "ш">
 <!ENTITY sortByStatusCmd.label "Күй-жайы">
 <!ENTITY sortByStatusCmd.accesskey "ж">
 <!ENTITY sortByTagsCmd.label "Тегтер">
 <!ENTITY sortByTagsCmd.accesskey "г">
-
-
+<!ENTITY sortByJunkStatusCmd.label "Спам күйі">
+<!ENTITY sortByJunkStatusCmd.accesskey "С">
 <!ENTITY sortBySubjectCmd.label "Тегтер">
 <!ENTITY sortBySubjectCmd.accesskey "т">
 <!ENTITY sortByFromCmd.label "Кімнен">
 <!ENTITY sortByFromCmd.accesskey "м">
 <!ENTITY sortByRecipientCmd.label "Алушы">
 <!ENTITY sortByRecipientCmd.accesskey "л">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Алушылар">
+<!ENTITY sortByCorrespondentCmd.accesskey "ы">
 <!ENTITY sortByUnreadCmd.label "Оқу">
 <!ENTITY sortByUnreadCmd.accesskey "О">
-
-
+<!ENTITY sortByOrderReceivedCmd.label "Алынған реті">
+<!ENTITY sortByOrderReceivedCmd.accesskey "е">
 <!ENTITY sortAscending.label "Өсу ретімен">
 <!ENTITY sortAscending.accesskey "с">
 <!ENTITY sortDescending.label "Кему ретімен">
