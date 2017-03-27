@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY emailSectionHdr.label        "Эл. пошта">
-
-
+<!ENTITY readMsgsLink.label           "Хабарламаларды оқу">
+<!ENTITY composeMsgLink.label         "Жаңа хабарламаны жазу">
 
 <!ENTITY newsSectionHdr.label         "Жаңалықтар топтары">
 
