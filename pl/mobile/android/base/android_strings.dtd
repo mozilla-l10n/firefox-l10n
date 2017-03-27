@@ -259,8 +259,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Automatyczne odtwarzanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
-<!ENTITY pref_zoom_force_enabled "Wymuszanie możliwości powiększania">
-<!ENTITY pref_zoom_force_enabled_summary "Kontroluje możliwość wymuszenia możliwości powiększania dowolnej strony">
+<!ENTITY pref_zoom_force_enabled "Można powiększać każdą stronę">
+<!ENTITY pref_zoom_force_enabled_summary "Umożliwia powiększanie dowolnej strony">
 <!ENTITY pref_voice_input "Sterowanie głosowe">
 <!ENTITY pref_voice_input_summary2 "Umożliwia sterowanie głosowe w pasku adresu">
 <!ENTITY pref_qrcode_enabled "Czytnik kodów QR">
