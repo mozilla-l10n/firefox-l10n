@@ -723,7 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Ваше з'єднання з цим сайтом не є приватним. Інформація, яку ви відправляєте може бути переглянута іншими (наприклад, паролі, повідомлення, дані кредитних карт та ін.).">
-<!ENTITY identity.description.insecureLoginForms "Інформація входу, яку ви вводите на цій сторінці не захищена і може бути скомпрометована.">
+<!ENTITY identity.description.insecureLoginForms "Введені на цій сторінці дані входу не захищені і можуть бути перехоплені.">
 <!ENTITY identity.description.weakCipher "Ваше з'єднання з цим веб-сайтом використовує слабке шифрування і не є приватним.">
 <!ENTITY identity.description.weakCipher2 "Інші люди можуть переглядати вашу інформацію чи змінювати поведінку веб-сайту.">
 <!ENTITY identity.description.activeBlocked "&brandShortName; заблокував небезпечні частини цієї сторінки.">
