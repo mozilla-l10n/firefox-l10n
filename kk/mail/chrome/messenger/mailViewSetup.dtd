@@ -4,5 +4,8 @@
 <!--LOCALIZATION NOTE msgViewPickerOverlay.dtd UI for showing various views on a folder -->
 
 
-
+<!ENTITY mailViewSetupTitle.label "Хабарламалар көрінісін баптау">
+<!ENTITY mailViewHeading.label "Хабарламалар көрінісінің атауы:">
+<!ENTITY mailViewHeading.accesskey "а">
+<!ENTITY searchTermCaption.label "Бұл көрініс таңдалған кезде, тек келесі хабарламаларды көрсету:">
 
