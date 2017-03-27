@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Я не маю пристрою з собою…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Логіни'>
+<!ENTITY sync.configure.engines.title.passwords2 'Паролі'>
 <!ENTITY sync.configure.engines.title.history 'Історію'>
 <!ENTITY sync.configure.engines.title.tabs 'Вкладки'>
 
@@ -47,7 +47,7 @@
 <!ENTITY fxaccount_back_to_browsing 'Назад до перегляду'>
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Вітаємо в Синхронізації'>
-<!ENTITY fxaccount_getting_started_description2 'Увійдіть, щоб синхронізувати свої вкладки, закладки, логіни та інше.'>
+<!ENTITY fxaccount_getting_started_description2 'Увійдіть, щоб синхронізувати свої вкладки, закладки, паролі та інші дані.'>
 <!ENTITY fxaccount_getting_started_get_started 'Почати'>
 <!ENTITY fxaccount_getting_started_old_firefox 'Використовуєте стару версію Синхронізації?'>
 
@@ -68,7 +68,7 @@
 <!ENTITY fxaccount_status_needs_finish_migrating 'Торкніться, щоб увійти в свій обліковий запис Firefox.'>
 <!ENTITY fxaccount_status_bookmarks 'Закладки'>
 <!ENTITY fxaccount_status_history 'Історія'>
-<!ENTITY fxaccount_status_passwords2 'Логіни'>
+<!ENTITY fxaccount_status_passwords2 'Паролі'>
 <!ENTITY fxaccount_status_tabs 'Відкриті вкладки'>
 <!ENTITY fxaccount_status_legal 'Юридична інформація' >
 <!-- Localization note: when tapped, the following two strings link to
