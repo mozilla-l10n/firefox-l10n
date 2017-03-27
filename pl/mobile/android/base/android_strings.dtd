@@ -250,19 +250,9 @@
 <!ENTITY pref_plugins_enabled "Włączone">
 <!ENTITY pref_plugins_tap_to_play2 "Dotknięcie, aby odtworzyć">
 <!ENTITY pref_plugins_disabled "Wyłączone">
-<!ENTITY pref_text_size "Rozmiar tekstu">
 <!ENTITY pref_restore_tabs "Przywracanie kart">
 <!ENTITY pref_restore_always "Zawsze">
 <!ENTITY pref_restore_quit "Nigdy">
-<!ENTITY pref_font_size_tiny "Bardzo mały">
-<!ENTITY pref_font_size_small "Mały">
-<!ENTITY pref_font_size_medium "Średni">
-<!ENTITY pref_font_size_large "Duży">
-<!ENTITY pref_font_size_xlarge "Bardzo duży">
-<!ENTITY pref_font_size_set "Ustaw">
-<!ENTITY pref_font_size_adjust_char "Aa">
-
-<!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie aplikacji i lepszą przyszłość dla sieci.">
 
 <!ENTITY pref_use_system_font_size "Rozmiar czcionki systemu">
 <!ENTITY pref_use_system_font_size_summary "Skalowanie stron zgodnie z rozmiarem czcionki systemu">
