@@ -9,8 +9,9 @@
 <!ENTITY safeb.blocked.malwarePage.title "Xët wu bon wuy songe!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Dalub web bi ci <span id='malware_sitename'/> siiwal nañ ni dal bu bon la te téye nañ ko, ñu ngi sukkandiku ci say taamu kaarange.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéema samp ay porogaraam yuy sacc say xibaar, di jëfandikoo sa ordinatëër ngir song yeneen walla ñu yaq sa doxalin.</p><p>Xët yu bari da ñuy tay di yónnee ay xeltéef yu bon, wante xët yu bari dañuy taq te seen boroom yëgul.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéem a samp ay tëraliin yuy sacc say xibaar, di jëfandikoo sa nosukaay ngir song yeneen walla ñu yaq sa noste.</p><p>Xët yu bari da ñuy tay di yónnee ay tëraliin yu bon, wante it xët yu bari man nañoo taq te seen boroom du ko xam.</p>">
 
+<!ENTITY safeb.blocked.phishingPage.title3 "Dal buy naxe!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
