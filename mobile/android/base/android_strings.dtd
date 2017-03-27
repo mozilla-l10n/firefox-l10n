@@ -174,11 +174,11 @@
 <!ENTITY pref_category_accessibility "Доступність">
 <!ENTITY pref_category_accessibility_summary2 "Розмір тексту, масштабування, голосове введення">
 <!ENTITY pref_category_privacy_short "Приватність">
-<!ENTITY pref_category_privacy_summary4 "Стеження, логіни, вибір даних">
+<!ENTITY pref_category_privacy_summary4 "Стеження, паролі, вибір даних">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Про &brandShortName;, ЧаП, зворотній зв’язок">
 <!ENTITY pref_category_datareporting "Вибір даних">
-<!ENTITY pref_category_logins "Логіни">
+<!ENTITY pref_category_logins "Паролі">
 <!ENTITY pref_learn_more "Докладніше">
 <!ENTITY pref_category_installed_search_engines "Встановлені засоби пошуку">
 <!ENTITY pref_category_add_search_providers "Додавання інших джерел">
@@ -203,7 +203,7 @@
 <!ENTITY pref_developer_remotedebugging_usb "Віддалене зневадження через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Віддалене зневадження через Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Для зневадження через Wi-Fi, на вашому пристрої повинна бути встановлена програма для зчитування QR-кодів.">
-<!ENTITY pref_remember_signons2 "Пам’ятати логіни">
+<!ENTITY pref_remember_signons2 "Пам’ятати паролі">
 <!ENTITY pref_manage_logins "Керувати паролями">
 
 <!ENTITY pref_category_home "Початкова сторінка">
@@ -382,7 +382,7 @@ size. -->
 
 <!ENTITY pref_use_master_password "Головний пароль">
 <!ENTITY pref_sync2 "Вхід">
-<!ENTITY pref_sync_summary2 "Синхронізація вкладок, закладок, логінів та історії">
+<!ENTITY pref_sync_summary2 "Синхронізація вкладок, закладок, паролів та історії">
 <!ENTITY pref_search_suggestions "Показувати пошукові пропозиції">
 <!ENTITY pref_history_search_suggestions "Показувати історію пошуку">
 <!ENTITY pref_import_options "Параметри імпорту">
@@ -394,7 +394,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "Історія пошуку">
 <!ENTITY pref_private_data_formdata2 "Історія форм">
 <!ENTITY pref_private_data_cookies2 "Куки й активні сеанси">
-<!ENTITY pref_private_data_passwords2 "Збережені логіни">
+<!ENTITY pref_private_data_passwords2 "Збережені паролі">
 <!ENTITY pref_private_data_cache "Кеш">
 <!ENTITY pref_private_data_offlineApps "Дані автономних веб-сайтів">
 <!ENTITY pref_private_data_siteSettings2 "Налаштування сайтів">
@@ -516,13 +516,13 @@ size. -->
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Немає імені користувача]">
-<!ENTITY doorhanger_login_edit_title "Змінити логін">
+<!ENTITY doorhanger_login_edit_title "Змінити">
 <!ENTITY doorhanger_login_edit_username_hint "Ім’я користувача">
 <!ENTITY doorhanger_login_edit_password_hint "Пароль">
 <!ENTITY doorhanger_login_edit_toggle "Показати пароль">
 <!ENTITY doorhanger_login_select_message "Копіювати пароль з &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Пароль скопійовано в буфер обміну">
-<!ENTITY doorhanger_login_select_action_text "Вибрати інший логін">
+<!ENTITY doorhanger_login_select_action_text "Вибрати інший пароль">
 <!ENTITY doorhanger_login_select_title "Копіювати пароль з">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
@@ -724,7 +724,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Продовжити">
 <!ENTITY guest_session_dialog_cancel "Скасувати">
 <!ENTITY new_guest_session_title "&brandShortName; буде перезапущено">
-<!ENTITY new_guest_session_text2 "Людина, яка його використовує, не зможе побачити жодних ваших особистих даних перегляду (таких як збережені логіни, історію чи закладки). .\n\nКоли гість завершить роботу, його дані перегляду будуть стерті, а ваш сеанс буде відновлено.">
+<!ENTITY new_guest_session_text2 "Людина, яка його використовує, не зможе побачити жодних ваших особистих даних перегляду (таких як збережені паролі, історію чи закладки). .\n\nКоли гість завершить роботу, його дані перегляду будуть стерті, а ваш сеанс буде відновлено.">
 <!ENTITY guest_browsing_notification_title "Активовано гостьовий перегляд">
 <!ENTITY guest_browsing_notification_text "Торкніться для виходу">
 
