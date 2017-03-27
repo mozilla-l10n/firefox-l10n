@@ -6,11 +6,11 @@
 <!ENTITY newFolderDialog.title      "Жаңа бума">
 <!ENTITY name.label                 "Аты:">
 <!ENTITY name.accesskey             "А">
-
-
-
-
-
-
-
-
+<!ENTITY description.label          "Келесінің ішкі бумасы ретінде жасау:">
+<!ENTITY description.accesskey      "с">
+<!ENTITY folderRestriction1.label   "Сервер бумаларды екі арнайы түрмен шектейді.">
+<!ENTITY folderRestriction2.label   "Жаңа бумаңыздың ішінде келесінің болуын рұқсат ету:">
+<!ENTITY foldersOnly.label          "Тек бумалар">
+<!ENTITY messagesOnly.label         "Тек хабарламалар">
+<!ENTITY accept.label               "Буманы жасау">
+<!ENTITY accept.accesskey           "с">
