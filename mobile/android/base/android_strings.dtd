@@ -212,6 +212,8 @@
 <!ENTITY pref_restore_tabs "Ripristina schede">
 <!ENTITY pref_restore_always "Sempre">
 <!ENTITY pref_restore_quit "Non ripristinare dopo aver chiuso &brandShortName;">
+<!ENTITY pref_use_system_font_size "Utilizza dim. caratteri di sistema">
+<!ENTITY pref_use_system_font_size_summary "Ridimensiona i contenuti web in base alle dimensioni dei caratteri di sistema">
 <!ENTITY pref_media_autoplay_enabled "Consenti riproduz. automatica">
 <!ENTITY pref_media_autoplay_enabled_summary "Determina se i siti web possono riprodurre automaticamente video e altri contenuti multimediali">
 <!ENTITY pref_zoom_force_enabled "Consenti sempre zoom">
