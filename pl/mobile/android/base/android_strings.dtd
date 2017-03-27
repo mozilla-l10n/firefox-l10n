@@ -264,6 +264,9 @@
 
 <!ENTITY pref_font_size_preview_text "Chyży ryży lisek skacze przez wysoko postawioną poprzeczkę dzięki szybkości, łatwości w dostosowywaniu go do potrzeb użytkownika i zwiększonym bezpieczeństwie. Jesteśmy organizacją non-profit, dzięki czemu możemy pracować nad innowacjami służącymi Twojemu dobru bez potrzeby pójścia na żaden kompromis. To oznacza przyjemniejsze użytkowanie aplikacji i lepszą przyszłość dla sieci.">
 
+<!ENTITY pref_use_system_font_size "Rozmiar czcionki systemu">
+<!ENTITY pref_use_system_font_size_summary "Skalowanie stron zgodnie z rozmiarem czcionki systemu">
+
 <!ENTITY pref_media_autoplay_enabled "Automatyczne odtwarzanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontroluje, czy strony mogą automatycznie odtwarzać filmy i inne treści">
 <!ENTITY pref_zoom_force_enabled "Wymuszanie możliwości powiększania">
