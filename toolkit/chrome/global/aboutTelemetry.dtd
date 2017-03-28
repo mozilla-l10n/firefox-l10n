@@ -88,7 +88,11 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  Piezīme: Ir aktivizēta lēno SQL vaicājumu uzskaite. Pilnu SQL vaicājumu sarakstu var attēlot zemāk, taču tie netiks nosūtīti Telemetrijas sistēmai.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Iegūt funkciju nosaukumus kopām">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Rādīt neapstrādātus steka datus">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrs (virkne vai /regexp/)">
 
