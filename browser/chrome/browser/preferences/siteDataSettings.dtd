@@ -8,6 +8,8 @@
 <!ENTITY     usageCol.label                "אחסון">
 <!ENTITY     searchPlaceHolder             "חיפוש">
 <!ENTITY     searchPlaceHolder.accesskey   "ח">
+<!ENTITY     removeSelected.label          "הסרת פריטים נבחרים">
+<!ENTITY     removeSelected.accesskey      "פ">
 <!ENTITY     save.label                    "שמירת שינויים">
 <!ENTITY     save.accesskey                "ש">
 <!ENTITY     cancel.label                  "ביטול">
