@@ -27,9 +27,9 @@
 <!ENTITY findCmd.label             "Знайти">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "З">
-<!ENTITY findAgainCmd.label        "Шукати далі">
+<!ENTITY findAgainCmd.label        "Знайти знову">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "д">
-<!ENTITY findPreviousCmd.label     "Шукати попереднє">
+<!ENTITY findPreviousCmd.label     "Знайти попереднє">
 <!ENTITY findPreviousCmd.accesskey "п">
