@@ -103,7 +103,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
-<!ENTITY debuggerUI.searchFile           "Сітаваць сцэнары">
+<!ENTITY debuggerUI.searchFile           "Фільтраваць сцэнары">
 <!ENTITY debuggerUI.searchFile.key       "P">
 <!ENTITY debuggerUI.searchFile.altkey    "O">
 <!ENTITY debuggerUI.searchFile.accesskey "С">
@@ -134,7 +134,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
-<!ENTITY debuggerUI.searchVariable           "Сітаваць зменныя">
+<!ENTITY debuggerUI.searchVariable           "Фільтраваць зменныя">
 <!ENTITY debuggerUI.searchVariable.key       "V">
 <!ENTITY debuggerUI.searchVariable.accesskey "з">
 
