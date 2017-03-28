@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Vairāku procesu logs">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google atslēga">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla atrašanās vietas pakalpojuma atslēga">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Drošais režīms">
 
 <!ENTITY aboutSupport.showDir.label "Atvērt mapi">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopēt datus atmiņā">
 
 <!ENTITY aboutSupport.sandboxTitle "Ierobežošana">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Noraidītie sistēmas izsaukumi">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Pirms pirkļa">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Procesa tipa">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumenti">
 
 <!ENTITY aboutSupport.safeModeTitle "Izmēģini drošo režīmu">
 <!ENTITY aboutSupport.restartInSafeMode.label "Pārstartēt ar deaktivētiem papildinājumiem…">
