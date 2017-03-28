@@ -284,7 +284,6 @@
 <!ENTITY pref_custom_tabs_summary3 "לאפשר ליישומונים לפתוח אתרים בגרסה מותאמת של &brandShortName;">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "רישום פעילות">
 <!ENTITY pref_activity_stream_summary "יומן פעילות נעים למראה ודף בית בעיצוב משופר מקלים עליך בחיפוש אחר מבוקשך ב־&brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "מעכשיו גם עם הגנת מעקב">
