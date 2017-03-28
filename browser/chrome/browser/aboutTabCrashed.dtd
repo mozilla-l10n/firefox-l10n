@@ -27,4 +27,4 @@
 <!ENTITY tabCrashed.emailMe "E-pos my wanneer meer inligting beskikbaar is">
 <!ENTITY tabCrashed.reportSent "Omvalverslag reeds ingedien. Dankie dat u help om &brandShortName; te verbeter!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Rapporteer agtergrondoortjies">
-
+<!ENTITY tabCrashed.autoSubmit2 "Verander voorkeure om outomaties omvalverslae te stuur, insluitend verslae van agtergrondoortjies wat omval in hierdie en toekomstige sessies">

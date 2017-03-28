@@ -29,7 +29,7 @@
 <!ENTITY clientAuthAsk.title "Gebruikersidentifikasie-versoek">
 <!ENTITY clientAuthAsk.message1 "Die werf versoek dat u uself deur middel van 'n sertifikaat identifiseer:">
 <!ENTITY clientAuthAsk.message2 "Kies 'n sertifikaat om as identifikasie aan te bied:">
-
+<!ENTITY clientAuthAsk.message3 "Besonderhede van gekose sertifikaat:">
 
 <!ENTITY pkcs12.setpassword.title  "Kies 'n rugsteunsertifikaat-wagwoord">
 <!ENTITY pkcs12.setpassword.message  "Die sertifikaat-rugsteunwagwoord wat u hier opstel, beskerm die rugsteunlêer wat u op die punt is om te skep.  U moet hierdie wagwoord opstel voor u met die rugsteuning kan voortgaan.">
