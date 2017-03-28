@@ -34,8 +34,8 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "Impronta dal det SHA-256">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "Impronta dal det SHA1">
 
-<!ENTITY certmgr.editcacert.title             "Modifitgar las preferenzas da fidanza en certificats CA">
-<!ENTITY certmgr.editcert.edittrust           "Modifitgar las preferenzas da fidanza">
+<!ENTITY certmgr.editcacert.title             "Modifitgar ils parameters da fidanza en certificats CA">
+<!ENTITY certmgr.editcert.edittrust           "Modifitgar ils parameters da fidanza:">
 <!ENTITY certmgr.editcert.trustssl            "Quest certificat po identifitgar websites.">
 <!ENTITY certmgr.editcert.trustemail          "Quest certificat po identifitgar utilisaders dad e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Quest certificat po identifitgar producents da software.">

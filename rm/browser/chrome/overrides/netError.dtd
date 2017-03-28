@@ -94,10 +94,8 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Il proxy server refusescha la connexiun">
-<!ENTITY proxyConnectFailure.longDesc "<p>Il navigatur è vegnì configurà per l'utilisaziun d'in proxy server, ma il proxy refusescha la connexiun.</p><ul><li>Èn las configuraziuns dal proxy correctas? Controllescha per plaschair las configuraziuns ed emprova anc ina giada.</li><li>Permetta il servetsch da proxy connexiuns or da questa rait?</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
-<!ENTITY proxyResolveFailure.longDesc "<p>Il navigatur è vegnì configurà per l'utilisaziun d'in proxy server, ma i n'è betg stà pussibel da chattar il proxy.</p><ul><li>Èn las configuraziuns da proxy correctas? Controllescha las configuraziuns ed emprova lura anc ina giada.</li><li>Permetta il servetsch da proxy connexiuns or da questa rait?</li><li>Na funcziuneschi anc adina betg? Contactescha l'administratur da la rait u il provider e dumonda agid.</li></ul>">
 
 <!ENTITY redirectLoop.title "Cirquit da sviament">
 <!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
@@ -154,5 +152,5 @@ Strict Transport Security (HSTS) per inditgar che &brandShortName; dastgia mo co
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> utilisescha tecnologia da segirezza ch'è obsoleta e qua tras vulnerabla. In attatgader pudess revelar a moda simpla infurmaziuns che ti has considerà sco segiradas. L'administratur da la website vegn a stuair metter en urden ses server avant che ti possias visitar la website.</p><p>Code d'errur: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-<!ENTITY prefReset.longDesc "I para che la configuraziun da la segirezza da tia rait chaschunia quest problem. Vuls ti restaurar la configuraziun da standard?">
+<!ENTITY prefReset.longDesc "I para ch'ils parameters da segirezza da tia rait chaschunian quest problem. Vuls ti restaurar ils parameters da standard?">
 <!ENTITY prefReset.label "Restaurar il standard">

@@ -6,7 +6,7 @@
 <!ENTITY refreshProfile.dialog.description1  "Cumenza da nov per schliar problems e meglierar la prestaziun.">
 <!ENTITY refreshProfile.dialog.description2  "Quai vegn a:">
 <!ENTITY refreshProfile.dialog.items.label1  "Allontanar tes supplements e tia persunalisaziun">
-<!ENTITY refreshProfile.dialog.items.label2  "Redefinir la configuraziun da standard dal navigatur">
+<!ENTITY refreshProfile.dialog.items.label2  "Redefinir ils parameters da standard dal navigatur">
 <!ENTITY refreshProfile.dialog.button.label  "Redefinir &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Dà nov schlantsch a &brandShortName;">

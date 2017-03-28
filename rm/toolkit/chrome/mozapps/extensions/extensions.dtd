@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Utensils per tut ils supplements">
 
+
 <!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
 <!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
 
@@ -227,7 +228,7 @@
 <!ENTITY experiment.info.label "Tge è quai? La funcziun da telemetria po installar ed exequir experiments da temp en temp.">
 <!ENTITY experiment.info.learnmore "Ulteriuras infurmaziuns">
 <!ENTITY experiment.info.learnmore.accesskey "L">
-<!ENTITY experiment.info.changetelemetry "Configuraziun da la funcziun da telemetria">
+<!ENTITY experiment.info.changetelemetry "Parameters da la funcziun da telemetria">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
 <!ENTITY setting.learnmore "Ulteriuras infurmaziuns…">
@@ -246,3 +247,4 @@
 <!ENTITY disabledUnsigned.devInfo.start "Sviluppaders che vulan laschar verifitgar lur supplements pon cuntinuar cun leger noss ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
