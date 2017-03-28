@@ -150,9 +150,9 @@
 
 
 
-
-
-
+<!ENTITY priorityMenu.label "Приоритеті">
+<!ENTITY priorityMenu.accesskey "П">
+<!ENTITY priorityButton.title "Приоритеті">
 
 
 
@@ -248,8 +248,8 @@
 <!-- Message Pane Context Menu -->
 
 
-
-
+<!ENTITY spellCheckAddToDictionary.label "Сөздікке қосу">
+<!ENTITY spellCheckAddToDictionary.accesskey "к">
 <!ENTITY undo.label "Болдырмау">
 <!ENTITY undo.accesskey "Б">
 <!ENTITY cut.label "Қиып алу">
@@ -258,25 +258,25 @@
 <!ENTITY copy.accesskey "К">
 <!ENTITY paste.label "Кірістіру">
 <!ENTITY paste.accesskey "р">
-
-
+<!ENTITY pasteQuote.label "Дәйексөз ретінде кірістіру">
+<!ENTITY pasteQuote.accesskey "Д">
 
 <!ENTITY openAttachment.label "Ашу">
 <!ENTITY openAttachment.accesskey "А">
 <!ENTITY delete.label "Өшіру">
 <!ENTITY delete.accesskey "ш">
-
-
+<!ENTITY removeAttachment.label "Салынымды өшіру">
+<!ENTITY removeAttachment.accesskey "ш">
 <!ENTITY renameAttachment.label "Атын ауыстыру…">
 <!ENTITY renameAttachment.accesskey "р">
 <!ENTITY selectAll.label "Барлығын таңдау">
 <!ENTITY selectAll.accesskey "а">
-
-
-
-
-
-
+<!ENTITY attachFile.label "Файл(дар)ды тіркеу…">
+<!ENTITY attachFile.accesskey "Ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Келесіге түрлендіру…">
+<!ENTITY convertCloud.accesskey "т">
 
 
 

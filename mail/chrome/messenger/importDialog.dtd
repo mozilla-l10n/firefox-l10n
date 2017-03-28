@@ -11,8 +11,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 
 
 <!ENTITY importDialog.windowTitle "Импорттау">
-
-
+<!ENTITY importAll.label          "Барлығын импорттау">
+<!ENTITY importAll.accesskey      "ы">
 <!ENTITY importMail.label         "Эл. пошта">
 <!ENTITY importMail.accesskey     "п">
 
