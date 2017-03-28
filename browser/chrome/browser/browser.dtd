@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Hollu Maantore Fof">
 <!ENTITY recentBookmarks.label "Maantoraaɗe ko Ɓooyaani">
 <!ENTITY otherBookmarksCmd.label "Firlit Maantore">
-
+<!ENTITY mobileBookmarksCmd.label "Maantore Cinndel">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hollu maantore goɗɗe">
 <!ENTITY showRecentlyBookmarked.label     "Hollu Maantoraaɗe ko Ɓooyaani">
 <!ENTITY showRecentlyBookmarked.accesskey "o">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Maantore">
 <!ENTITY bookmarksMenuButton.other.label "Maantore Goɗɗe">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Maantore Cinndel">
 <!ENTITY viewBookmarksSidebar2.label        "Hollu Palal Maantore">
 <!ENTITY viewBookmarksToolbar.label         "Hollu Palal Maantore">
 
@@ -360,10 +360,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Alaa tabbe udditiiɗe">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Hollu Goɗɗe">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Hollu tabbe goɗɗe e ngol kaɓirgol">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showAll.label "Hollu Fof">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Hollu tabbe fof iwɗe e ngol kaɓirgol">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Hurmin cynkugol tabbe ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
@@ -782,7 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Natto">
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">
 
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Uddit Fof e Tabbe">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "U">
 
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
