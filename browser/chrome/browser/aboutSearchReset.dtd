@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Restaurar las preferenzas per tschertgas">
+<!ENTITY searchreset.tabtitle       "Restaurar ils parameters per tschertgar">
 
-<!ENTITY searchreset.pageTitle      "Restaurar tias preferenzas da tschertga?">
+<!ENTITY searchreset.pageTitle      "Restaurar tes parameters da tschertgar?">
 
-<!ENTITY searchreset.pageInfo1      "Tias preferenzas da tschertga èn eventualmain antiquadas. &brandShortName; ta po gidar a restaurar las preferenzas da tschertga predefinidas.">
+<!ENTITY searchreset.pageInfo1      "Tes parameters da tschertgar èn eventualmain antiquadas. &brandShortName; ta po gidar a restaurar las preferenzas da tschertga predefinidas.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
@@ -18,10 +18,10 @@ searchreset.afterlink.pageInfo): these two string are used respectively
 before and after the "Settings page" link (searchreset.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language. -->
-<!ENTITY searchreset.beforelink.pageInfo2 "Ti pos da tut temp midar questas preferenzas sin la ">
+<!ENTITY searchreset.beforelink.pageInfo2 "Ti pos da tut temp midar quests parameters sin la ">
 <!ENTITY searchreset.afterlink.pageInfo2  ".">
 
-<!ENTITY searchreset.link.pageInfo2       "Pagina da configuraziun">
+<!ENTITY searchreset.link.pageInfo2       "Pagina da parameters">
 
 <!ENTITY searchreset.noChangeButton        "Betg midar">
 <!ENTITY searchreset.noChangeButton.access "B">

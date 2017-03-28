@@ -41,7 +41,7 @@
 <!ENTITY connection.label                "Connexiun">
 
 <!ENTITY connectionDesc.label            "Definir la moda da connexiun da &brandShortName; cun l'internet">
-<!ENTITY connectionSettings.label        "Preferenzas…">
+<!ENTITY connectionSettings.label        "Parameters…">
 <!ENTITY connectionSettings.accesskey    "P">
 
 <!ENTITY httpCache.label                 "Cuntegn da web en il cache">
@@ -49,6 +49,8 @@
 <!ENTITY offlineStorage2.label           "Cuntegn da web per l'utilisaziun offline e datas d'utilisader">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteDataSettings.label          "Parameters…">
+<!ENTITY siteDataSettings.accesskey      "r">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single

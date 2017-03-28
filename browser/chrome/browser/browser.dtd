@@ -467,8 +467,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Preferenzas da tschertgar">
-<!ENTITY changeSearchSettings.tooltip "Midar las preferenzas per tschertgar">
+<!ENTITY changeSearchSettings.button  "Parameters da tschertgar">
+<!ENTITY changeSearchSettings.tooltip "Midar ils parameters per tschertgar">
 
 <!ENTITY searchInNewTab.label         "Tschertgar en in nov tab">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -676,14 +676,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Stil da standard">
 <!ENTITY pageStylePersistentOnly.accesskey "S">
 
-<!ENTITY pageReportIcon.tooltip            "Midar las preferenzas per las fanestras popup da questa website">
+<!ENTITY pageReportIcon.tooltip            "Midar ils parameters per las fanestras popup da questa website">
 
 <!ENTITY allowPopups.accesskey "P">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Modifitgar las preferenzas per las fanestras popup…">
-<!ENTITY editPopupSettings.label "Modifitgar las preferenzas per las fanestras popup…">
+<!ENTITY editPopupSettingsUnix.label "Modifitgar ils parameters per las fanestras popup…">
+<!ENTITY editPopupSettings.label "Modifitgar ils parameters per las fanestras popup…">
 <!ENTITY editPopupSettings.accesskey "M">
 <!ENTITY dontShowMessage.accesskey "I">
 
