@@ -32,7 +32,7 @@
 <!ENTITY firstrun_readerview_title "Coc akwana">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Kwany takataka woko">
-<!ENTITY firstrun_readerview_subtext "Ti ki lakwan we coc onen ma ber me akwana \u2014 kede bene i pe iyamo">
+<!ENTITY firstrun_readerview_subtext "Tii ki Neno me Kwan me weko coc akwana nen ma mwonya \u2014 kadi bene pe iwiyamo.">
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
 <!ENTITY firstrun_account_title "Yin">
@@ -87,6 +87,7 @@
 <!ENTITY bookmark_folder_items "jami &formatD;">
 <!ENTITY bookmark_folder_one_item "Jami 1">
 
+<!ENTITY reader_saved_offline "Kigwoko pi mape iwiyamo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -330,11 +331,11 @@
 <!ENTITY pref_char_encoding "Kit ma Kicoyo Kwede">
 <!ENTITY pref_char_encoding_on "Nyut acaki">
 <!ENTITY pref_char_encoding_off "Pe i nyut menu">
-
+<!ENTITY pref_clear_private_data2 "Jwa data me mung">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Jwa kombedi">
-
+<!ENTITY pref_clear_on_exit_title3 "Jwa data me mung inge kato woko">
 <!ENTITY pref_clear_on_exit_summary2 "&brandShortName; pire kene bi jwayo data ni tekke i yero \u0022Quit\u0022 ki i jami ayera mapire tek">
 <!ENTITY pref_clear_on_exit_dialog_title "Yer data mene me ajwaya">
 <!ENTITY pref_plugins "Rwaki iyie">
@@ -819,10 +820,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "Med i kio me gang">
 
 <!ENTITY helper_first_offline_bookmark_title "Kwan mape ikube iwi yamo">
-
+<!ENTITY helper_first_offline_bookmark_message "Nong jami mamegi me Neno me Kwan i Alamabuk, bene mape iwiyamo.">
 <!ENTITY helper_first_offline_bookmark_button "Cit i alamabuk">
 
-
+<!ENTITY helper_triple_readerview_open_title "Nonge mape iwiyamo">
+<!ENTITY helper_triple_readerview_open_message "Ket alamabuk i jami me Neno me Kwan me kwano gi mape iwiyamo.">
 <!ENTITY helper_triple_readerview_open_button "Med ikom alamabuk">
 
 <!ENTITY activity_stream_topsites "Kakube maloyo">
