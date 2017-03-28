@@ -19,7 +19,7 @@
 <!ENTITY smaller.label                    "Кішірек">
 <!ENTITY quotedTextColor.label            "Түс:">
 <!ENTITY quotedTextColor.accesskey        "с">
-
+<!ENTITY displayWidth.label               "Ашық мәтін хабарламалары">
 
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 

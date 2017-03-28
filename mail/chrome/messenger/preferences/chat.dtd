@@ -4,8 +4,8 @@
 
 <!ENTITY  startupAction.label         "&brandShortName; қосылу кезінде:">
 <!ENTITY  startupAction.accesskey     "ы">
-
-
+<!ENTITY  startupOffline.label        "Менің чат тіркелгілерімді желіден тыс ұстау">
+<!ENTITY  startupConnectAuto.label    "Менің чат тіркелгілерімді автобайланыстыру">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
