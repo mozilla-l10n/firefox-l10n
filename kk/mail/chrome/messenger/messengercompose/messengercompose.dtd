@@ -110,46 +110,52 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "С">
 <!ENTITY menubarCmd.label "Мәзір жолағы">
 <!ENTITY menubarCmd.accesskey "М">
-
-
-
-
+<!ENTITY showCompositionToolbarCmd.label "Құрастыру саймандары">
+<!ENTITY showCompositionToolbarCmd.accesskey "р">
+<!ENTITY showFormattingBarCmd.label "Пішімдеу саймандары">
+<!ENTITY showFormattingBarCmd.accesskey "П">
 <!ENTITY showTaskbarCmd.label "Қалып-күй жолағы">
 <!ENTITY showTaskbarCmd.accesskey "а">
 <!ENTITY customizeToolbar.label "Баптау…">
 <!ENTITY customizeToolbar.accesskey "а">
 
-
+<!ENTITY addressSidebar.label "Контакттар бүйір панелі">
+<!ENTITY addressSidebar.accesskey "о">
 <!-- Format Menu -->
 
+<!ENTITY formatMenu.label "Пішім">
+<!ENTITY formatMenu.accesskey "ш">
 <!-- Options Menu -->
 
 <!ENTITY optionsMenu.label "Баптаулар">
 <!ENTITY optionsMenu.accesskey "а">
-
-
+<!ENTITY checkSpellingCmd2.label "Емлені тексеру…">
+<!ENTITY checkSpellingCmd2.key "м">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-
-
-
-
-
+<!ENTITY checkSpellingCmd2.accesskey "Е">
+<!ENTITY enableInlineSpellChecker.label "Теру кезінде емлені тексеру">
+<!ENTITY enableInlineSpellChecker.accesskey "Т">
+<!ENTITY quoteCmd.label "Хабарламаны дәйексөз ретінде алу">
+<!ENTITY quoteCmd.accesskey "д">
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
 
+<!ENTITY attachVCard.label "Жеке картаны тіркеу (vCard)">
+<!ENTITY attachVCard.accesskey "к">
 
-
-
-
-
-
+<!ENTITY returnReceiptMenu.label "Алу есептемесі">
+<!ENTITY returnReceiptMenu.accesskey "т">
+<!ENTITY dsnMenu.label "Жеткізу күйінің хабарлауы">
+<!ENTITY dsnMenu.accesskey "х">
+<!ENTITY deliveryFormatMenu.label "Жеткізу пішімі">
+<!ENTITY deliveryFormatMenu.accesskey "п">
 <!ENTITY autoFormatCmd.label "Автоанықтау">
 <!ENTITY autoFormatCmd.accesskey "А">
-
-
-
-
-
-
+<!ENTITY plainTextFormatCmd.label "Ашық мәтін">
+<!ENTITY plainTextFormatCmd.accesskey "А">
+<!ENTITY htmlFormatCmd.label "Тек пішімделген мәтін (HTML)">
+<!ENTITY htmlFormatCmd.accesskey "ш">
+<!ENTITY bothFormatCmd.label "Ашық және пішімделген (HTML) мәтін">
+<!ENTITY bothFormatCmd.accesskey "ш">
 <!ENTITY priorityMenu.label "Приоритеті">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Приоритеті">
