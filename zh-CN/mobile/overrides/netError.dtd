@@ -124,23 +124,23 @@
 
 <!ENTITY nssBadCert.title "安全连接失败">
 <!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>这可能是服务器配置的问题，或者有人尝试冒充该服务器所致。</li> 
-<li>如果您之前曾成功连接该服务器，那么此错误可能是暂时的，您可以稍后再试。</li> 
+<li>这可能是服务器配置的问题，或是有人尝试冒充该服务器所致。</li> 
+<li>如果您之前曾成功连接该服务器，那么此这个错误可能是暂时的，您可以稍后再试试看。</li> 
 </ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY sharedLongDesc3 "<ul> 
-<li>该网站可能暂时不可用或者太忙。请在几分钟后再试。</li> 
+<li>该网站可能暂时不可用或者太忙碌。请稍后再试一次。</li> 
 <li>如果您无法载入任何页面，请检查您的移动设备的数据或 Wi-Fi 连接。 
 <button id='wifi'>启用 Wi-Fi</button> 
 </li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "由于内容安全策略而被阻止">
+<!ENTITY cspBlocked.title "已依照内容安全政策而拦截">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 阻止了这个页面的载入，因为这个页面的内容安全政策不允许其以这种方式被载入。</p>">
 
-<!ENTITY corruptedContentErrorv2.title "损坏内容错误">
+<!ENTITY corruptedContentErrorv2.title "内容损坏错误">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>您尝试查看的页面无法显示，因为检测到传输的数据含有错误。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
