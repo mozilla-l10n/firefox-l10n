@@ -4,8 +4,9 @@
 
 <!ENTITY folderProps.windowtitle.label           "Қасиеттері">
 
-
-
+<!ENTITY generalInfo.label                       "Жалпы мәлімет">
+<!ENTITY folderCharsetFallback2.label            "Қосалқы мәтін кодталуы:">
+<!ENTITY folderCharsetFallback2.accesskey        "т">
 
 
 
@@ -19,9 +20,9 @@
 
 
 <!ENTITY message.label "хабарлама">
-
-
-
+<!ENTITY retentionCleanup.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады.">
+<!ENTITY retentionCleanupImap.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде жергілікті көшірмелер және қашықтағы сервердегі түпнұсқалар.">
+<!ENTITY retentionCleanupPop.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде қашықтағы сервердегі түпнұсқалар.">
 
 
 
@@ -51,14 +52,16 @@
 
 
 
+<!ENTITY folderType.label                        "Бума түрі:">
 
-
-
+<!ENTITY folderQuotaTab.label                    "Квота">
+<!ENTITY folderQuotaRoot.label                   "Квота түбірі:">
 <!ENTITY folderQuotaUsage.label                  "Қолданылуы:">
 <!ENTITY folderQuotaStatus.label                 "Күйі:">
 
+<!ENTITY numberOfMessages.label                  "Хабарламалар саны:">
 <!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
 <!ENTITY numberUnknown.label                     "белгісіз">
-
+<!ENTITY sizeOnDisk.label                        "Дискідегі өлшемі:">
 <!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
 <!ENTITY sizeUnknown.label                       "белгісіз">
