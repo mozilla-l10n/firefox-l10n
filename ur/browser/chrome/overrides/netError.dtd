@@ -33,6 +33,7 @@
 <!ENTITY captivePortal.title "نیٹ ورک میں لاگ ان کریں">
 
 
+<!ENTITY openPortalLoginPage.label2 "نیٹ ورک کا لاگ ان صفحہ کھولیں">
 
 <!ENTITY malformedURI.title "پتہ جائز نہیں ہے">
 <!ENTITY malformedURI.longDesc "<ul> <li>ویب پتے زیادہ تر اس طرح لکھے جاتے ہیں <strong>http://www.example.com/</strong></li> <li>چیک کریں کہ آپ سیدہی سلیشیں استعمال کر رہے ہیں، یعنی کہ <strong>/</strong>).</li> </ul>">

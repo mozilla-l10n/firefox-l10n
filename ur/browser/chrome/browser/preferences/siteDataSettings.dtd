@@ -13,8 +13,8 @@
 
 
 
-
-
-
+<!ENTITY     cancel.label                  "منسوخ کریں">
+<!ENTITY     cancel.accesskey              "م">
+<!ENTITY     removingDialog.title          "سائٹ کے کوائف ہٹائیں">
 
 
