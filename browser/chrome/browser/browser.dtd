@@ -677,14 +677,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Basiese bladsystyl">
 <!ENTITY pageStylePersistentOnly.accesskey "B">
 
-<!ENTITY pageReportIcon.tooltip            "Wysig opspringerblokkering-opstelling vir hierdie webwerf">
+<!ENTITY pageReportIcon.tooltip            "Wysig instellings vir opspringerblokkering op hierdie webwerf">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "Redigeer opspringerblokkering-voorkeure…">
-<!ENTITY editPopupSettings.label "Redigeer opspringerblokkering-opsies…">
+<!ENTITY editPopupSettingsUnix.label "Redigeer voorkeure vir opspringerblokkering…">
+<!ENTITY editPopupSettings.label "Redigeer opsies vir opspringerblokkering…">
 <!ENTITY editPopupSettings.accesskey "e">
 <!ENTITY dontShowMessage.accesskey "D">
 
