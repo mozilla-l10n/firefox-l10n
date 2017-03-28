@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "S">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; memorisescha tias preferenzas e datas persunalas en tes profil persunal.">
+<!ENTITY            pmDescription.label    "&brandShortName; memorisescha parameters e datas persunalas en tes profil persunal.">
 
 <!ENTITY            offlineState.label    "Lavurar offline">
 <!ENTITY            offlineState.accesskey "o">

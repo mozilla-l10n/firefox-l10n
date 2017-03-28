@@ -19,7 +19,7 @@
 
 <!ENTITY  found.wizard.title               "Actualisaziuns cumpatiblas per supplements èn disponiblas">
 <!ENTITY  found.top.label                 "Tscherna las actualisaziuns che duain vegnir installadas:">
-<!ENTITY  found.disabledXPinstall.label   "Questas actualisaziuns na pon betg vegnir installadas, perquai che l'installaziun da software è deactivada per il mument. Ti pos midar quai sutvart.">
+<!ENTITY  found.disabledXPinstall.label   "Questas actualisaziuns na pon betg vegnir installadas, perquai che l'installaziun da software è deactivada per il mument. Ti pos midar quai parameter sutvart.">
 <!ENTITY  found.enableXPInstall.label     "Permetter a questas websites d'installar supplements">
 <!ENTITY  found.enableXPInstall.accesskey "w">
 
