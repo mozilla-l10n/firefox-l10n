@@ -44,7 +44,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Tes supplements e tias configuraziuns èn vegnidas allontanadas e las opziuns dal navigatur èn vegnidas redefinidas cun las valurs da standard. Sche quai n'ha betg schlià tes problem, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Tes supplements e tias configuraziuns èn vegnidas allontanadas ed ils parameters dal navigatur èn vegnids redefinids cun las valurs da standard. Sche quai n'ha betg schlià tes problem, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "pos ti leger qua tge che ti pos anc far.">
