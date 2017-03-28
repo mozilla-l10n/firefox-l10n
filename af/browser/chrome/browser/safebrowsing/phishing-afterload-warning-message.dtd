@@ -28,5 +28,5 @@
 <!ENTITY safeb.blocked.phishingPage.title2 "Misleidende werf!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "Die webblad by <span id='phishing_sitename'/> is as 'n misleidende werf aangegee en is op grond van u sekuriteitvoorkeure geblokkeer.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misleidende werwe word ontwerp om mens te flous om iets gevaarliks te doen, soos om sagteware te installeer, of persoonlike inligting te ontbloot soos wagwoorde, foon- of kredietkaartnommers.</p><p>Deur enige inligting vir dié bladsy te gee kan lei tot identiteitsdiefstal of ander bedrog.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Misleidende werwe word ontwerp om mens te flous om iets gevaarliks te doen, soos om sagteware te installeer, of persoonlike inligting te ontbloot soos wagwoorde, foon- of kredietkaartnommers.</p><p>Deur enige inligting vir dié bladsy te gee, kan lei tot identiteitsdiefstal of ander bedrog.</p>">
 
