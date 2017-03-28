@@ -173,6 +173,7 @@
 <!ENTITY pref_custom_tabs_summary3 "Consenti alle app di aprire siti web in una versione personalizzata di &brandShortName;.">
 <!ENTITY custom_tabs_menu_item_open_in "Apri in &formatS;">
 <!ENTITY custom_tabs_menu_footer "Con tecnologia &brandShortName;">
+<!ENTITY custom_tabs_hint_url_copy "URL copiato">
 <!ENTITY pref_activity_stream "Flusso attività">
 <!ENTITY pref_activity_stream_summary "Una visualizzazione della cronologia ricca di informazioni e una pagina iniziale completamente ripensata rendono ancora più semplice trovare tutto ciò che serve in &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ora con protezione antitracciamento">
