@@ -30,6 +30,6 @@
 <!ENTITY findAgainCmd.label        "Знайти знову">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
-<!ENTITY findAgainCmd.accesskey    "д">
+<!ENTITY findAgainCmd.accesskey    "т">
 <!ENTITY findPreviousCmd.label     "Знайти попереднє">
 <!ENTITY findPreviousCmd.accesskey "п">
