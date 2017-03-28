@@ -19,6 +19,6 @@
 
 
 
-
-
-
+<!ENTITY askMe.label                   "Менен сұрау">
+<!ENTITY alwaysSend.label              "Әрқашан жіберу">
+<!ENTITY neverSend.label               "Ешқашан жібермеу">
