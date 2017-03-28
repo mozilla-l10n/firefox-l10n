@@ -12,29 +12,29 @@
 
 
 <!ENTITY findBarCmd.label "Табу…">
-
-
-
-
-
-
+<!ENTITY findReplaceCmd.label "Табу және алмастыру…">
+<!ENTITY enableInlineSpellChecker.label "Теру кезінде емлені тексеру">
+<!ENTITY enableInlineSpellChecker.accesskey "Т">
+<!ENTITY checkSpellingCmd2.label "Емлені тексеру…">
+<!ENTITY checkSpellingCmd2.accesskey "Е">
+<!ENTITY checkSpellingCmd2.key "м">
 <!-- Insert menu items -->
 
 <!ENTITY insertMenu.label "Енгізу">
 <!ENTITY insertMenu.accesskey "Е">
+<!ENTITY insertLinkCmd2.label "Сілтеме…">
+<!ENTITY insertLinkCmd2.accesskey "л">
+<!ENTITY insertLinkCmd2.key "л">
 
 
-
-
-
-
-
+<!ENTITY insertImageCmd.label "Сурет…">
+<!ENTITY insertImageCmd.accesskey "С">
 <!ENTITY insertHLineCmd.label "Горизонталды сызық">
 <!ENTITY insertHLineCmd.accesskey "о">
 <!ENTITY insertTableCmd.label "Кесте…">
 <!ENTITY insertTableCmd.accesskey "К">
-
-
+<!ENTITY insertHTMLCmd.label "HTML…">
+<!ENTITY insertHTMLCmd.accesskey "H">
 
 
 
@@ -47,7 +47,9 @@
 
 <!-- Font Face SubMenu -->
 
-
+<!ENTITY FontFaceSelect.tooltip "Қаріпті таңдау">
+<!ENTITY fontfaceMenu.label "Қаріп">
+<!ENTITY fontfaceMenu.accesskey "а">
 
 
 
@@ -60,6 +62,8 @@
 
 
 <!-- Font Size SubMenu -->
+
+<!ENTITY FontSizeSelect.tooltip "Қаріп өлшемін таңдау">
 <!ENTITY decreaseFontSize.label "Кішірек">
 <!ENTITY decreaseFontSize.accesskey "к">
 
@@ -129,23 +133,24 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY paragraphMenu.label "Абзац">
+<!ENTITY paragraphMenu.accesskey "А">
+<!ENTITY paragraphParagraphCmd.label "Абзац">
+<!ENTITY paragraphParagraphCmd.accesskey "А">
+<!ENTITY heading1Cmd.label "Тақырыптама 1">
+<!ENTITY heading1Cmd.accesskey "1">
+<!ENTITY heading2Cmd.label "Тақырыптама 2">
+<!ENTITY heading2Cmd.accesskey "2">
+<!ENTITY heading3Cmd.label "Тақырыптама 3">
+<!ENTITY heading3Cmd.accesskey "3">
+<!ENTITY heading4Cmd.label "Тақырыптама 4">
+<!ENTITY heading4Cmd.accesskey "4">
+<!ENTITY heading5Cmd.label "Тақырыптама 5">
+<!ENTITY heading5Cmd.accesskey "5">
+<!ENTITY heading6Cmd.label "Тақырыптама 6">
+<!ENTITY heading6Cmd.accesskey "6">
+<!ENTITY paragraphAddressCmd.label "Адресі">
+<!ENTITY paragraphAddressCmd.accesskey "А">
 
 
 <!-- List menu items -->
@@ -257,24 +262,24 @@
 <!-- Toolbar-only items -->
 
 <!ENTITY menuBar.tooltip "Мәзір панелі">
-
+<!ENTITY formatToolbar.tooltip "Пішімдеу саймандары">
 <!ENTITY cutToolbarCmd.tooltip "Қиып алу">
 <!ENTITY copyToolbarCmd.tooltip "Көшіру">
 <!ENTITY pasteToolbarCmd.tooltip "Кірістіру">
 <!ENTITY printToolbarCmd.label "Баспаға шығару">
 <!ENTITY printToolbarCmd.tooltip "Ағымдағы бетті баспаға шығару">
 <!ENTITY findToolbarCmd.label "Табу">
-
-
-
+<!ENTITY findToolbarCmd.tooltip "Беттен мәтінді табу">
+<!ENTITY spellToolbarCmd.label "Емле">
+<!ENTITY spellToolbarCmd.tooltip "Таңдалғанның немесе толық парақтың емлесін тексеру">
 <!ENTITY imageToolbarCmd.label "Сурет">
+<!ENTITY imageToolbarCmd.tooltip "Жаңа суретті енгізу немесе таңдалған суреттің қасиеттерін түзету">
 
-
-
+<!ENTITY hruleToolbarCmd.tooltip "Горизонталды сызықты енгізу немесе таңдалған сызықтың қасиеттерін түзету">
 <!ENTITY tableToolbarCmd.label "Кесте">
-
+<!ENTITY tableToolbarCmd.tooltip "Жаңа кестені енгізу немесе таңдалған кестенің қасиеттерін түзету">
 <!ENTITY linkToolbarCmd.label "Сілтеме">
-
+<!ENTITY linkToolbarCmd.tooltip "Жаңа сілтемені енгізу немесе таңдалған сілтеменің қасиеттерін түзету">
 <!ENTITY anchorToolbarCmd.label "Байланыс">
 
 
