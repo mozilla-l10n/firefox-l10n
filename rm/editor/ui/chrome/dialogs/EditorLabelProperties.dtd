@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label "Caracteristicas da l'etichetta">
 
-<!ENTITY Settings.label "Preferenzas">
+<!ENTITY Settings.label "Parameters">
 <!ENTITY Settings.accesskey "S">
 
 <!ENTITY EditLabelText.label "Editar il text:">

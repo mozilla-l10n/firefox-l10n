@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY serverAdvanced.label "Configuraziuns avanzadas da contos">
+<!ENTITY serverAdvanced.label "Parameters avanzads per contos">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Directory dal server IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
@@ -13,7 +13,7 @@
 <!ENTITY maximumConnectionsNumber.label "Dumber maximal da connexiuns a servers mantegnidas">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-<!ENTITY namespaceDesc.label "Questas configuraziuns inditgeschan ils spazis da nums dal server IMAP">
+<!ENTITY namespaceDesc.label "Questas preferenzas inditgeschan ils spazis da nums dal server IMAP">
 <!ENTITY personalNamespace.label "Spazi da nums persunal:">
 <!ENTITY personalNamespace.accesskey "P">
 <!ENTITY publicNamespace.label "Public (cundividì):">

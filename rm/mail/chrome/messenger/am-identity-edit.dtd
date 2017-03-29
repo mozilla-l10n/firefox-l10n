@@ -6,9 +6,9 @@
      equal to the value of accountManager.size entity minus the value
      of accountTree.width entity. -->
 <!ENTITY identityDialog.style "width: 67ch;">
-<!ENTITY identityListDesc.label "Definir la configuraziun da questa identitad:">
+<!ENTITY identityListDesc.label "Definir ils parameters da questa identitad:">
 
-<!ENTITY settingsTab.label       "Preferenzas">
+<!ENTITY settingsTab.label       "Parameters">
 <!ENTITY copiesFoldersTab.label "Copias &amp; ordinaturs">
 <!ENTITY addressingTab.label    "Scriver &amp; adressar">
 

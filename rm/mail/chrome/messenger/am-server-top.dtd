@@ -84,7 +84,7 @@
 <!ENTITY browseNewsrc.label "Tschertgar en…">
 <!ENTITY browseNewsrc.accesskey "T">
 
-<!ENTITY accountTitle.label "Configuraziun dal conto">
+<!ENTITY accountTitle.label "Parameters dal conto">
 <!ENTITY accountSettingsDesc.label "Il suandant conto è in conto spezial. Naginas identitads èn associadas cun el.">
 <!ENTITY storeType.label "Metoda per memorisar messadis:">
 <!ENTITY storeType.accesskey "T">

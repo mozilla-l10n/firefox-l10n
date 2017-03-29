@@ -30,7 +30,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importTitle.label        "Assistent d'importaziun da &brandShortName;">
 <!ENTITY importShortDesc.label    "Importar messadis, cudeschets d'adressas, configuraziuns e filters dad auters programs">
 
-<!ENTITY importDescription1.label "Quest assistent importescha messadis, endataziuns da cudeschets d'adressas, abunaments da feeds, configuraziuns e/u filters dad autras applicaziuns dad e-mail e formats frequents da cudeschets d'adressas en &brandShortName;.">
+<!ENTITY importDescription1.label "Quest assistent importescha messadis, endataziuns da cudeschets d'adressas, abunaments da feeds, preferenzas e/u filters dad autras applicaziuns dad e-mail e formats frequents da cudeschets d'adressas en &brandShortName;.">
 <!ENTITY importDescription2.label "Silsuenter pos ti lavurar cun las datas importadas en &brandShortName;.">
 
 <!ENTITY selectDescription.label  "Tscherna per plaschair il tip da datoteca dal qual i duai vegnir importà:">

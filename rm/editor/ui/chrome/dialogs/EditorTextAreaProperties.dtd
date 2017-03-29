@@ -4,7 +4,7 @@
 
 <!ENTITY windowTitle.label "Caracteristicas dal champ da text">
 
-<!ENTITY Settings.label "Preferenzas">
+<!ENTITY Settings.label "Parameters">
 
 <!ENTITY TextAreaName.label "Num dal champ:">
 <!ENTITY TextAreaName.accessKey "D">

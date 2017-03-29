@@ -75,7 +75,7 @@
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
      the settings and try again. -->
-<!ENTITY changeSettings.label            "Midar las preferenzas">
+<!ENTITY changeSettings.label            "Midar ils parameters">
 <!ENTITY changeSettings.accesskey        "S">
 
 <!ENTITY contactYourProvider.description "&brandShortName; po ta permetter dad acceder a tes e-mails cun la configuraziun messa a disposiziun. Tuttina vegn recumandà da contactar tes administratur u il purschider da servetschs dad e-mail areguard questas connexiuns nunadattadas. Vesair il FAQ (dumondas frequentas) da Thunderbird per ulteriuras infurmaziuns.">
