@@ -17,9 +17,11 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+<!ENTITY webAudioEditorUI.reloadNotice2   "σελίδας για προβολή και επεξεργασία περιβάλλοντος ήχου.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a audio context. -->
+<!ENTITY webAudioEditorUI.emptyNotice     "Αναμονή για δημιουργία ενός περιβάλλοντος ήχου…">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.tab.properties2): This is the label shown
   -  for the properties tab view. -->
