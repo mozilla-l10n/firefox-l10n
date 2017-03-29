@@ -180,6 +180,7 @@
 <!ENTITY wifi_auth_header "Αναγνώριση πελάτη">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
+<!ENTITY wifi_auth_scan_request "Το τελικό σημείο στο οποίο συνδέεστε χρειάζεται περισσότερες πληροφορίες για την πιστοποίηση αυτής της σύνδεσης.  Παρακαλώ σαρώστε τον παρακάτω κωδικό QR μέσω της ειδοποίησης στην άλλη σας συσκευή.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "Καμία ένδειξη σαρωτή QR;">
@@ -188,8 +189,11 @@
 <!ENTITY wifi_auth_yes_scanner "Υπάρχει ένδειξη σαρωτή QR;">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+<!ENTITY wifi_auth_token_request "Αν η άλλη σας συσκευή ζητά ένα σύμβολο (token) αντί για τη σάρωση ενός κωδικού QR, παρακαλώ αντιγράψτε την παρακάτω τιμή στην άλλη συσκευή:">
+<!ENTITY wifi_auth_qr_size_note "Αν ο κωδικός QR εμφανίζεται τόσο μικρός, ώστε να μην μπορεί να πραγματοποιηθεί επιτυχώς η σύνδεση, δοκιμάστε να κάνετε ζουμ ή να μεγεθύνετε το παράθυρο.">
 
 <!-- Logs panel -->
+<!ENTITY logs_title "Καταγραφές εντολών προ-πακεταρίσματος">
 
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Επιλογές προσομοιωτή">
