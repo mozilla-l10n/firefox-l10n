@@ -6,7 +6,7 @@
 <!ENTITY windowTitle.label            "Publitgar la pagina">
 <!ENTITY windowTitleSettings.label    "Parameters da publicaziun">
 <!ENTITY publishTab.label             "Publitgar">
-<!ENTITY settingsTab.label            "Preferenzas">
+<!ENTITY settingsTab.label            "Parameters">
 <!ENTITY publishButton.label          "Publitgar">
 
 <!-- Publish Tab Panel -->

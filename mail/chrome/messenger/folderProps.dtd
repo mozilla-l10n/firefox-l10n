@@ -17,7 +17,7 @@
 <!ENTITY folderIncludeInGlobalSearch.accesskey   "I">
 
 <!ENTITY retention.label "Reglas da retenziun">
-<!ENTITY retentionUseAccount.label  "Utilisar mias configuraziuns da conto">
+<!ENTITY retentionUseAccount.label  "Utilisar ils parameters da conto">
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "dis vegls">
 <!ENTITY message.label "messadis">
@@ -30,8 +30,6 @@
 <!ENTITY retentionKeepAll.accesskey "a">
 <!ENTITY retentionKeepRecent.label "Stizzar tuts, exclus ils pli actuals">
 <!ENTITY retentionKeepRecent.accesskey "l">
-<!-- LOCALIZATION NOTE: Unhide with .keepUnreadOnly { display: -moz-box; } -->
-<!ENTITY retentionKeepUnreadHidden.label "Adina stizzar messadis legids (malgrà las configuraziuns da temp!)">
 <!ENTITY retentionApplyToFlagged.label "Adina preservar messadis segnads">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

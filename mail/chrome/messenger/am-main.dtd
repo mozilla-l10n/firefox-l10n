@@ -4,7 +4,7 @@
 
 <!-- extracted from am-main.xul -->
 
-<!ENTITY accountTitle.label "Opziuns dal conto">
+<!ENTITY accountTitle.label "Parameters dal conto">
 <!ENTITY accountName.label "Num dal conto:">
 <!ENTITY accountName.accesskey "N">
 <!ENTITY identityTitle.label "Identitad predefinida">

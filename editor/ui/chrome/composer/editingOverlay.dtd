@@ -26,8 +26,8 @@
 <!ENTITY fileRevert.accesskey "v">
 
 <!-- Edit menu items -->
-<!ENTITY publishSettings.label "Configuraziun da la pagina da publicaziun…">
-<!ENTITY publishSettings.accesskey "f">
+<!ENTITY publishSettings.label "Parameters da la pagina da publicaziun…">
+<!ENTITY publishSettings.accesskey "z">
 
 <!-- Toolbar buttons/items -->
 <!ENTITY newToolbarCmd.label "Nov">

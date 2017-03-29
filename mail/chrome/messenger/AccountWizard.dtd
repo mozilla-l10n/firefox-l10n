@@ -79,7 +79,7 @@
 <!-- LOCALIZATION NOTE (modifyOutgoing.suffix) : This string will be appended after each of
      haveSmtp1.suffix3, haveSmtp2.suffix3, haveSmtp3.suffix3 .
 -->
-<!ENTITY modifyOutgoing.suffix "Ti pos midar il server per messadis che sortan en la configuraziun dals contos.">
+<!ENTITY modifyOutgoing.suffix "Ti pos midar il server per messadis che sortan en ils parameters dal conto.">
 <!-- LOCALIZATION NOTE (haveSmtp1.prefix and haveSmtp1.suffix3) : Do not translate "SMTP" and "&quot;" in
      these variables. Also, translate haveSmtp1.prefix and haveSmtp1.suffix3 as a single sentence, inserting
      text after the "&quot;" entity in haveSmtp1.suffix3, if required grammatically.
@@ -120,5 +120,5 @@
 <!ENTITY deferStorageDesc.label "Deactivescha questa chaschetta da controlla per memorisar ils e-mails da quest conto en in agen ordinatur da posta entrada. Autramain vegnan ils e-mails da quest conto memorisads en la posta entrada globala dals ordinaturs locals.">
 <!ENTITY deferStorage.label "Utilisar la posta entrada globala (memorisar ils e-mails en ils ordinaturs locals)">
 <!ENTITY deferStorage.accesskey "G">
-<!ENTITY clickFinish.label "Clicca sin &quot;Terminar&quot; per memorisar questas configuraziuns e serrar l'assistent da contos.">
-<!ENTITY clickFinish.labelMac "Clicca sin &quot;Terminar&quot; per memorisar questas configuraziuns e serrar l'assistent da contos.">
+<!ENTITY clickFinish.label "Clicca sin &quot;Terminar&quot; per memorisar quests parameters e serrar l'assistent da contos.">
+<!ENTITY clickFinish.labelMac "Clicca sin &quot;Terminar&quot; per memorisar quests parameters e serrar l'assistent da contos.">
