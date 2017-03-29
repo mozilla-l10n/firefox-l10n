@@ -79,7 +79,7 @@
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
-<!ENTITY screenshot_folder_label_in_bookmarks "Снимак екрана">
+<!ENTITY screenshot_folder_label_in_bookmarks "Снимци екрана">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Листа за читање">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
