@@ -7,9 +7,21 @@
 <!ENTITY aboutTelemetry.changeDataChoices "
   Αλλαγή">
 
+<!ENTITY aboutTelemetry.uploadEnabled "
+  Η μεταφόρτωση δεδομένων FHR είναι <span>ενεργή</span>.
+">
 
+<!ENTITY aboutTelemetry.uploadDisabled "
+  Η μεταφόρτωση δεδομένων FHR είναι <span>ανενεργή</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "
+  Η εκτεταμένη καταγραφή τηλεμετρίας είναι <span>ενεργή</span>.
+">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "
+  Η εκτεταμένη καταγραφή τηλεμετρίας είναι <span>ανενεργή</span>.
+">
 
 <!ENTITY aboutTelemetry.pingDataSource "
 Πηγή δεδομένων ping:
@@ -74,6 +86,9 @@ Ping
   Αρχείο καταγραφής τηλεμετρίας
 ">
 
+<!ENTITY aboutTelemetry.slowSqlSection "
+  Αργές εντολές SQL
+">
 
 <!ENTITY aboutTelemetry.chromeHangsSection '
   "Κολλήματα" προγράμματος περιήγησης
@@ -135,6 +150,9 @@ Ping
   (Δεν συλλέχθηκαν δεδομένα)
 ">
 
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  ΣΗΜΕΙΩΣΗ: Η αργή αποσφαλμάτωση SQL είναι ενεργή. Τα πλήρη νήματα SQL ενδέχεται να εμφανίζονται παρακάτω, αλλά δεν θα υποβάλλονται στην Τηλεμετρία.
+">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
   Λήψη ονομάτων συναρτήσεων για στοίβες
