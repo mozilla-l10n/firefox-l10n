@@ -94,6 +94,7 @@
 <!ENTITY details_location "Τοποθεσία">
 <!ENTITY details_manifestURL "ID εφαρμογής">
 <!ENTITY details_removeProject_button "Αφαίρεση έργου">
+<!ENTITY details_showPrepackageLog_button "Εμφάνιση καταγραφής προ-πακεταρίσματος">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "Νέα εφαρμογή">
@@ -125,6 +126,7 @@
 <!ENTITY prefs_options_showeditor "Εμφάνιση επεξεργαστή">
 <!ENTITY prefs_options_showeditor_tooltip "Εμφάνιση εσωτερικού επεξεργαστή">
 <!ENTITY prefs_options_tabsize "Μέγεθος καρτέλας">
+<!ENTITY prefs_options_expandtab "Soft καρτέλες">
 <!ENTITY prefs_options_expandtab_tooltip "Χρήση διαστημάτων αντί του χαρακτήρα στηλοθέτη">
 <!ENTITY prefs_options_detectindentation "Αυτόματες εσοχές">
 <!ENTITY prefs_options_detectindentation_tooltip "Να μαντεύεται η εσοχή βάσει του περιεχομένου του κώδικα">
