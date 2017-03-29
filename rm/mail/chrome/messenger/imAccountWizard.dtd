@@ -23,7 +23,7 @@
 <!ENTITY accountAliasGroupbox.caption "Alias local">
 <!ENTITY accountAliasField.label      "Alias:">
 <!ENTITY accountAliasInfo.label       "Quai cumpara mo en tia conversaziun, tes contacts na vegnan betg a vesair quai.">
-<!ENTITY accountProxySettings.caption "Configuraziun da Proxy">
+<!ENTITY accountProxySettings.caption "Parameters da Proxy">
 <!ENTITY accountProxySettings.change.label     "Midar…">
 <!ENTITY accountProxySettings.change.accessKey "M">
 
