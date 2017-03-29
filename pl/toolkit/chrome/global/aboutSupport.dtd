@@ -22,6 +22,11 @@
 <!ENTITY aboutSupport.extensionVersion "Wersja">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Wbudowane rozszerzenia programu &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nazwa">
+<!ENTITY aboutSupport.featureVersion "Wersja">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Eksperymenty">
 <!ENTITY aboutSupport.experimentName "Nazwa">
 <!ENTITY aboutSupport.experimentId "ID">
