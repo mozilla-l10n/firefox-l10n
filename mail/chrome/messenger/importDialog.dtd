@@ -19,7 +19,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY importFeeds.accesskey    "d">
 <!ENTITY importAddressbook.label  "Cudeschets d'adressas">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Preferenzas">
+<!ENTITY importSettings.label     "Parameters">
 <!ENTITY importSettings.accesskey "S">
 <!ENTITY importFilters.label      "Filters">
 <!ENTITY importFilters.accesskey  "F">
