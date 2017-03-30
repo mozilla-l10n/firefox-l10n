@@ -225,6 +225,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY description.heading                            "Анықтамасы">
 <!ENTITY addresses.heading                              "Адрестер">
 <!-- For Map It! -->
+<!ENTITY mapItButton.label                              "Картаны алу">
 
 <!-- Status Bar -->
 

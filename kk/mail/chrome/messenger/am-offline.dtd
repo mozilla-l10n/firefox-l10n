@@ -12,15 +12,15 @@
 <!ENTITY autosyncNotDownload.label "Келесіден үлкен хабарламаларды жүктемеу:">
 <!ENTITY autosyncNotDownload.accesskey "м">
 <!ENTITY kb.label "КБ">
-
+<!ENTITY daysOld.label "күннен ескі">
 <!ENTITY message.label "хабарлама">
 
 
 
 
-
-
-
+<!ENTITY retentionCleanup.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады.">
+<!ENTITY retentionCleanupImap.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде жергілікті көшірмелер және қашықтағы сервердегі түпнұсқалар.">
+<!ENTITY retentionCleanupPop.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде қашықтағы сервердегі түпнұсқалар.">
 
 
 
