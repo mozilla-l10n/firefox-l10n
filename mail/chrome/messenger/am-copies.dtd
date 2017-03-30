@@ -29,7 +29,7 @@
 <!ENTITY archivesTitle.label "Arhivi za sporočila">
 <!ENTITY keepArchives.label "Arhive za sporočila shranjuj v:">
 <!ENTITY keepArchives.accesskey "A">
-<!ENTITY archiveHierarchyButton.label "Možnosti za arhive …">
+<!ENTITY archiveHierarchyButton.label "Možnosti arhiviranja …">
 <!ENTITY archiveHierarchyButton.accesskey "M">
 <!ENTITY archivesFolderOn.label "mapo &quot;Arhivi&quot; na:">
 <!ENTITY archivesFolderOn.accesskey "h">

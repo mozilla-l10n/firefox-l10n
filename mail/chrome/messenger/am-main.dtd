@@ -20,9 +20,9 @@
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "Besedilo za podpis:">
 <!ENTITY signatureText.accesskey "B">
-<!ENTITY signatureHtml.label "Uporabi HTML (npr. &lt;b&gt;krepko&lt;/ b&gt;)">
+<!ENTITY signatureHtml.label "Uporabi HTML (npr. &lt;b&gt;krepko&lt;/b&gt;)">
 <!ENTITY signatureHtml.accesskey "H">
-<!ENTITY signatureFile.label "Namesto tega pripni podpis iz datoteke (besedilo, HTML ali slika):">
+<!ENTITY signatureFile.label "Namesto tega pripni podpis iz datoteke (besedilo, HTML ali sliko):">
 <!ENTITY signatureFile.accesskey "N">
 <!ENTITY edit.label "Uredi …">
 <!ENTITY choose.label "Izberi …">

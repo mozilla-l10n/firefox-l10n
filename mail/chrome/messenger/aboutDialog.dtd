@@ -6,7 +6,7 @@
 # The button when displayed is located directly under the Thunderbird version in
 # the about dialog.
 -->
-<!ENTITY update.checkForUpdatesButton.label       "Preveri posodobitve">
+<!ENTITY update.checkForUpdatesButton.label       "Poišči posodobitve">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
 <!ENTITY update.updateButton.label2               "Ponovno zaženi &brandShortName; za posodobitev">
 <!ENTITY update.updateButton.accesskey            "P">
