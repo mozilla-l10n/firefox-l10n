@@ -57,6 +57,8 @@
 <!ENTITY offlineStorage2.label           "ஆஃப்லைன் வலை உள்ளடக்கம் மற்றும் பயனர் தரவு">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "தளத்தின் தரவு">
+
 
 
 
@@ -112,8 +114,8 @@
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
 
 
-
-<!ENTITY enableOCSP.label                "Qசான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
+<!ENTITY selectCerts.ask.accesskey       "அ">
+<!ENTITY enableOCSP.label                "சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "சான்றிதழ்களை பார்">
 <!ENTITY viewCerts.accesskey             "C">

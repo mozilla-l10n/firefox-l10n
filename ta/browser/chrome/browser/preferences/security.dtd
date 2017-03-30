@@ -11,7 +11,8 @@
 -->
 
 
-
+<!ENTITY  blockDownloads.label            "ஆபத்தான பதிவிறக்கங்களை முடக்கு">
+<!ENTITY  blockDownloads.accesskey        "d">
 
 
 
