@@ -327,6 +327,7 @@ size. -->
 <!ENTITY pref_private_data_syncedTabs "સમન્વિત કરેલા ટૅબ્સ">
 
 <!ENTITY pref_default_browser "ડિફૉલ્ટ બ્રાઉઝર બનાવો">
+<!ENTITY pref_default_browser_mozilla_support_tablet "મોઝીલા આધારની મુલાકાત લો">
 <!ENTITY pref_about_firefox "&brandShortName; વિશે">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "અભિપ્રાય આપો">
@@ -387,29 +388,36 @@ size. -->
 <!ENTITY save_as_pdf "PDF તરીકે સંગ્રહો">
 <!ENTITY page "પાનું">
 <!ENTITY tools "સાધનો">
-<!ENTITY close_all_tabs "બધી ટૅબ બંધ કરો">
+<!ENTITY new_tab "નવું ટૅબ">
+<!ENTITY new_private_tab "નવી ખાનગી ટેબ">
+<!ENTITY close_all_tabs "બધા ટૅબ્સ બંધ કરો">
+<!ENTITY close_private_tabs "ખાનગી ટૅબ્સ બંધ કરો">
+<!ENTITY tabs_normal "ટૅબ્સ">
 <!ENTITY tabs_private "ખાનગી">
-<!ENTITY set_image_fail "ચિત્ર ગોઠવવામાં અસમર્થ">
+<!ENTITY set_image_fail "છબી સેટ કરવામાં અસમર્થ">
+<!ENTITY set_image_path_fail "છબી સાચવવામાં અસમર્થ">
 <!ENTITY set_image_chooser_title "ચિત્ર આ પ્રમાણે ગોઠવો">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY find_text "પૃષ્ઠમાં શોધો">
 <!ENTITY find_prev "પાછળ">
 <!ENTITY find_next "આગળ">
 <!ENTITY find_close "બંધ કરો">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
+<!ENTITY media_sending_to "ઉપકરણ પર મોકલી રહ્યું છે">
 <!ENTITY media_play "વગાડો">
 <!ENTITY media_pause "અટકાવો">
 <!ENTITY media_stop "બંધ">
 
-<!ENTITY contextmenu_open_new_tab "નવી ટૅબમાં ખોલો">
+<!ENTITY contextmenu_open_new_tab "નવા ટૅબમાં ખોલો">
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
-<!ENTITY contextmenu_add_to_launcher "ઘર સ્ક્રીનમાં ઉમેરો">
+<!ENTITY contextmenu_add_to_launcher "હોમ સ્ક્રીન પર ઉમેરો">
 <!ENTITY contextmenu_share "વહેંચો">
-<!ENTITY contextmenu_pasteandgo "ચોંટાડો અને જાવ">
+<!ENTITY contextmenu_pasteandgo "પેસ્ટ કરો અને જાઓ">
 <!ENTITY contextmenu_paste "ચોંટાડો">
 <!ENTITY contextmenu_copyurl "સરનામાની નકલ કરો">
 <!ENTITY contextmenu_edit_bookmark "ફેરફાર">
@@ -517,10 +525,14 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "સુરક્ષિત કનેક્શન">
+<!ENTITY identity_connection_insecure "અસુરક્ષિત કનેક્શન">
 
 <!-- Mixed content notifications in site identity popup -->
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY doorhanger_tracking_state_enabled "સક્ષમ">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "વધુ શીખો">
@@ -530,6 +542,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_success "ખાનગી માહિતી સાફ">
 <!ENTITY private_data_fail "અમુક ખાનગી માહિતી સાફ કરી શકાય નહિ">
 
+<!ENTITY bookmarkhistory_button_import "આયાત">
 <!ENTITY bookmarkhistory_import_both "બુકમાર્કો અને ઇતિહાસ આયાત કરી રહ્યા છીએ Android માંથી">
 <!ENTITY bookmarkhistory_import_bookmarks "બુકમાર્કો આયાત કરી રહ્યા છીએ Android માંથી">
 <!ENTITY bookmarkhistory_import_history "ઇતિહાસ આયાત કરી રહ્યા છીએ Android માંથી">
@@ -558,11 +571,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "એકવાર ડાઉનલોડ થયા પછી અપડેટ લાગુ કરવા માટે સ્પર્શ કરો">
 <!ENTITY updater_downloading_retry2 "પુનઃપ્રયાસ કરવા માટે સ્પર્શ કરો">
 
+<!ENTITY updater_apply_select3 "ટચ કરો ઇન્સ્ટોલ કરવા માટે">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "મંજૂરી આપો">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "નવો મહેમાન સત્ર">
@@ -570,6 +585,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "ચાલુ રાખો">
 <!ENTITY guest_session_dialog_cancel "રદ કરો">
 <!ENTITY new_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
+<!ENTITY guest_browsing_notification_text "બહાર નીકળવા માટે ટેપ કરો">
 
 <!ENTITY exit_guest_session_title "&brandShortName; હવે પુનઃશરૂ થશે">
 <!ENTITY exit_guest_session_text "આ સત્રમાંથી બ્રાઉઝીંગ માહિતી કાઢી નાંખવામાં આવશે.">
@@ -594,6 +610,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY actionbar_done "પૂર્ણ">
 
 <!-- Voice search in the awesome bar -->
+<!ENTITY voicesearch_prompt "હવે બોલો">
 
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
@@ -625,6 +642,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "એડ-ઓન્સ">
+<!ENTITY restrictable_feature_private_browsing "ખાનગી બ્રાઉઝિંગ">
+<!ENTITY restrictable_feature_clear_history "ઇતિહાસ સાફ કરો">
+<!ENTITY restrictable_feature_block_list "અવરોધિત સૂચિ">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
@@ -643,7 +664,10 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 
 
+<!ENTITY helper_triple_readerview_open_button "બુકમાર્ક્સ ઉમેરો">
 
+<!ENTITY activity_stream_topsites "ટોચના સાઇટ્સ">
+<!ENTITY activity_stream_highlights "હાઇલાઇટ્સ">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
