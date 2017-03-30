@@ -68,7 +68,7 @@
 <!ENTITY bookmark_removed "બુકમાર્ક દૂર થઇ">
 <!ENTITY bookmark_updated "બુકમાર્ક સુધારાઇ">
 <!ENTITY bookmark_options "વિકલ્પો">
-<!ENTITY screenshot_added_to_bookmarks "સ્ક્રીનશૉટ બુકમાર્ક્સમાં ઉમેરી ગયો">
+<!ENTITY screenshot_added_to_bookmarks "સ્ક્રીનશૉટ બુકમાર્ક્સ પર ઉમેરાયેલ છે">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
