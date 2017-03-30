@@ -17,7 +17,7 @@
 <!ENTITY props.domain.label                "Gazdă:">
 <!ENTITY props.path.label                  "Cale:">
 <!ENTITY props.secure.label                "Trimite pentru:">
-<!ENTITY props.expires.label               "Expiră la:">
+<!ENTITY props.expires.label               "Expiră în:">
 <!ENTITY props.container.label             "Container:">
 
 <!ENTITY window.title                      "Cookie-uri">
