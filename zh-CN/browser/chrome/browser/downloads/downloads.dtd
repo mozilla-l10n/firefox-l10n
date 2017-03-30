@@ -93,7 +93,7 @@
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
      -->
-<!ENTITY showMoreInformation.label        "显示更多信息">
+<!ENTITY showMoreInformation.label        "显示详细信息">
 
 <!-- LOCALIZATION NOTE (openFile.label):
      Displayed when hovering a complete download, indicates that it's possible to
