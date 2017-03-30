@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Препратки">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Включване на опашката от раздели">
-<!ENTITY firstrun_tabqueue_subtext_off "Запазване на препратки, които отваряте от други приложения във &brandShortName;.">
+<!ENTITY firstrun_tabqueue_subtext_off "Препратките, които отваряте от други приложения се запазват за по-късно във &brandShortName;.">
 
 <!ENTITY firstrun_tabqueue_message_on "Успяхме!">
 <!ENTITY firstrun_tabqueue_subtext_on "Винаги може да го изключите в &settings; под &pref_category_general;.">
@@ -714,7 +714,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "За да изтегля файлове и актуализации разрешете на &brandShortName; правото за достъп до хранилището.">
+<!ENTITY updater_permission_text "За изтегляне на файлове обновяване разрешете на &brandShortName; правото за достъп до хранилището.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Разрешаване">
 
