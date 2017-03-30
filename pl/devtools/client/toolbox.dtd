@@ -46,7 +46,7 @@
 <!ENTITY options.debugger.label "Debuger">
 
 <!ENTITY options.sourceMaps.label "Mapy źródeł">
-<!ENTITY options.sourceMaps.tooltip "Po włączeniu tej funkcji, źródła będą mapowane w debugerze i konsoli">
+<!ENTITY options.sourceMaps.tooltip "Po włączeniu tej funkcji, źródła będą mapowane w debugerze i konsoli">
 
 <!ENTITY options.styleeditor.label "Edytor stylów">
 <!ENTITY options.stylesheetSourceMaps.label "Oryginalne źródła">

@@ -109,8 +109,8 @@
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ukryj informacje o wydaniu tej aktualizacji">
 
 <!ENTITY discover.title                       "Czym są dodatki?">
-<!ENTITY discover.description2                "Dodatki to programy, które pozwalają dostosować program &brandShortName; do upodobań użytkownika dzięki nowej funkcjonalności lub innemu wyglądowi. Wypróbuj panel boczny oszczędzający czas, powiadomienia o pogodzie albo nowy motyw graficzny.">
-<!ENTITY discover.footer                      "Kiedy dostępne jest połączenie z Internetem, ten panel będzie wyświetlał najnowsze i najpopularniejsze dodatki, które warto wypróbować.">
+<!ENTITY discover.description2                "Dodatki to programy, które pozwalają dostosować program &brandShortName; do upodobań użytkownika dzięki nowej funkcjonalności lub innemu wyglądowi. Wypróbuj panel boczny oszczędzający czas, powiadomienia o pogodzie albo nowy motyw graficzny.">
+<!ENTITY discover.footer                      "Kiedy dostępne jest połączenie z Internetem, ten panel będzie wyświetlał najnowsze i najpopularniejsze dodatki, które warto wypróbować.">
 
 <!ENTITY detail.version.label                 "Wersja">
 <!ENTITY detail.lastupdated.label             "Ostatnia aktualizacja">
