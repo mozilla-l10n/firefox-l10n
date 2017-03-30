@@ -11,7 +11,7 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "拦截危险与欺诈性内容">
+<!ENTITY  enableSafeBrowsing.label        "拦截危险与诈骗内容">
 <!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "拦截危险的下载项">
