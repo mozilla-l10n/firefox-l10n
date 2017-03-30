@@ -35,8 +35,8 @@
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "Mear ynfo">
 
-<!ENTITY telemetryDesc.label             "Dielt prestaasjes-, hardware-, gebrûk- en oanpassingsgegevens oer jo browser mei &vendorShortName; om &brandShortName; te helpen ferbetterjen">
-<!ENTITY enableTelemetryData.label       "Ekstra gegevens diele (byg., Telemetry)">
+<!ENTITY telemetryDesc.label             "Dielt prestaasje-, hardware-, gebrûk- en oanpassingsgegevens oer jo browser mei &vendorShortName; om &brandShortName; te helpen te ferbetterjen">
+<!ENTITY enableTelemetryData.label       "Ekstra gegevens diele (byg. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Mear ynfo">
 
