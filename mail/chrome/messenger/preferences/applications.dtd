@@ -34,5 +34,5 @@
 <!ENTITY authRequired.button.label        "Dovoli">
 <!ENTITY authRequired.button.accesskey    "D">
 
-<!ENTITY enableCloudFileAccountOffer.label "Ponudi posredovanje datotek večjih od">
+<!ENTITY enableCloudFileAccountOffer.label "Ponudi shranjevanje v spletno storitev datotek, večjih od">
 <!ENTITY enableCloudFileAccountOffer.mb "MB">
