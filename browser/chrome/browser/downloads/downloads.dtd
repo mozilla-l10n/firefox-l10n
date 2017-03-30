@@ -100,6 +100,8 @@
      Displayed when hovering a download which is able to be retried by users,
      indicates that it's possible to download this file again.
      -->
+
+<!ENTITY retryDownload.label              "பதிவிறக்கத்தை மீட்டெடு">
 <!-- LOCALIZATION NOTE (cancelDownload.label):
      Displayed when hovering a download which is able to be cancelled by users,
      indicates that it's possible to cancel and stop the download.
