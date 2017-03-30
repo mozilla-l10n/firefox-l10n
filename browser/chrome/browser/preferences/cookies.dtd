@@ -5,15 +5,15 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "Următoarele cookie-uri sunt stocate pe calculator:">
-<!ENTITY     cookiename.label               "Nume al cookie-ului">
+<!ENTITY     cookiename.label               "Numele cookie-ului">
 <!ENTITY     cookiedomain.label             "Site">
 
 <!ENTITY     props.name.label               "Nume:">
 <!ENTITY     props.value.label              "Conținut:">
 <!ENTITY     props.domain.label             "Gazdă:">
-<!ENTITY     props.path.label               "Cale:">
+<!ENTITY     props.path.label               "Calea:">
 <!ENTITY     props.secure.label             "Trimite pentru:">
-<!ENTITY     props.expires.label            "Expiră la:">
+<!ENTITY     props.expires.label            "Expiră în:">
 <!ENTITY     props.container.label          "Container:">
 
 <!ENTITY     window.title                   "Cookie-uri">
@@ -22,7 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Caută">
-<!ENTITY     searchFilter.accesskey         "C">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "Închide">
-<!ENTITY     button.close.accesskey         "d">
+<!ENTITY     button.close.accesskey         "c">
