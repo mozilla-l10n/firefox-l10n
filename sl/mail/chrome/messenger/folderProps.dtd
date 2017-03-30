@@ -24,7 +24,7 @@
 <!ENTITY retentionCleanup.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila.">
 <!ENTITY retentionCleanupImap.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, tako krajevna kot izvirna na oddaljenem strežniku.">
 <!ENTITY retentionCleanupPop.label "Prostor na disku lahko prihranite, če trajno izbrišete stara sporočila, vključno z izvirniki na oddaljenem strežniku.">
-<!ENTITY retentionDeleteMsg.label "Izbriši sporočila starejša od">
+<!ENTITY retentionDeleteMsg.label "Izbriši sporočila, starejša od">
 <!ENTITY retentionDeleteMsg.accesskey "s">
 <!ENTITY retentionKeepAll.label "Ne izbriši nobenih sporočil">
 <!ENTITY retentionKeepAll.accesskey "N">

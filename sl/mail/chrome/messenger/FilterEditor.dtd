@@ -19,7 +19,7 @@
 <!ENTITY contextDesc.label "Uporabi filter:">
 <!ENTITY contextIncomingMail.label "ob prejemu nove pošte:">
 <!ENTITY contextIncomingMail.accesskey "o">
-<!ENTITY contextManual.label "ročni zagon">
+<!ENTITY contextManual.label "ob ročnem zagonu">
 <!ENTITY contextManual.accesskey "č">
 <!ENTITY contextBeforeCls.label "Filtriraj pred razvrščanjem neželene pošte">
 <!ENTITY contextAfterCls.label "Filtriraj po razvrščanju neželene pošte">
@@ -57,9 +57,10 @@
 <!ENTITY removeAction.tooltip "Odstrani to dejanje">
 
 <!-- LOCALIZATION NOTE
-  The values below are used to control the widths of the filter action widgets.
-  Change the values only when the localized strings in the popup menus
-  are truncated in the widgets.
- -->
+     The values below are used to control the widths of the filter action widgets.
+     Change the values only when the localized strings in the popup menus
+     are truncated in the widgets.
+  -->
+<!-- Flex Attribute: https://developer.mozilla.org/docs/XUL/Attribute/flex -->
 <!ENTITY filterActionTypeFlexValue "1">
 <!ENTITY filterActionTargetFlexValue "4">
