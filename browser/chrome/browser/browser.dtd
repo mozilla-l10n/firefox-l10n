@@ -344,7 +344,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Προσαρμογή">
-<!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των εργαλειοθηκών">
+<!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των γραμμών εργαλείων">
 <!ENTITY appMenuCustomizeExit.label "Έξοδος">
 <!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
 <!ENTITY appMenuHistory.label "Ιστορικό">
@@ -654,12 +654,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "Έξοδος">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ξ">
-<!ENTITY quitApplicationCmdWin2.tooltip     "Έξοδος από τον &brandShorterName;">
+<!ENTITY quitApplicationCmdWin2.tooltip     "Έξοδος από το &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "Έξοδος"> 
 <!ENTITY quitApplicationCmd.accesskey   "ξ">
-<!ENTITY quitApplicationCmdMac2.label   "Έξοδος από τον &brandShorterName;">
+<!ENTITY quitApplicationCmdMac2.label   "Έξοδος από το &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
@@ -809,7 +809,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
-<!ENTITY customizeMode.toolbars "Εμφάνιση / Απόκρυψη εργαλειοθηκών">
+<!ENTITY customizeMode.toolbars "Εμφάνιση/Απόκρυψη γραμμών εργαλείων">
 <!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
 <!ENTITY customizeMode.lwthemes "Θέματα">
 <!ENTITY customizeMode.lwthemes.myThemes "Τα θέματά μου">
