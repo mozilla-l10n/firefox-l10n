@@ -73,27 +73,27 @@
      the user takes. The folder we store these links in is located in the bookmarks list
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "સ્ક્રીનશૉટ્સ">
-<!ENTITY readinglist_smartfolder_label_in_bookmarks "વાંચન યાદી">
+<!ENTITY readinglist_smartfolder_label_in_bookmarks "વાંચન સૂચિ">
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; વસ્તુઓ">
 <!ENTITY bookmark_folder_one_item "1 વસ્તુ">
 
-<!ENTITY reader_saved_offline "સાચવવામાં આવી ઑફલાઇન હોવા પર">
+<!ENTITY reader_saved_offline "ઓફલાઇન સાચવ્યાં">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "ફેરફાર">
+<!ENTITY reader_switch_to_bookmarks "ફેરફાર કરો">
 
 <!ENTITY history_today_section "આજે">
 <!ENTITY history_yesterday_section "ગઇ કાલે">
 <!ENTITY history_week_section3 "છેલ્લા 7 દિવસ">
-<!ENTITY history_older_section3 "6 મહિનાઓ કરતાં જૂનું">
+<!ENTITY history_older_section3 "6 મહિના કરતાં જૂનું">
 
 <!ENTITY search "શોધો">
 <!ENTITY reload "પુનઃલાવો">
-<!ENTITY forward "આગળ ધપાવો">
+<!ENTITY forward "આગળ વઘારો">
 <!ENTITY menu "મેનુ">
 <!ENTITY back "પાછળ">
 <!ENTITY stop "બંધ">
@@ -164,6 +164,7 @@
 <!ENTITY pref_category_search3 "શોધો">
 <!ENTITY pref_category_accessibility "ઉપલ્બધતા">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
+<!ENTITY pref_category_privacy_summary4 "ટ્રેકિંગ, લૉગિન્સ, ડેટા પસંદગીઓ">
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
 <!ENTITY pref_category_logins "પ્રવેશો">
 <!ENTITY pref_learn_more "વધુ શીખો">
@@ -302,18 +303,30 @@ size. -->
     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 <!ENTITY pref_font_size_preview_text "ઝડપી કેસરી શિયાળ તમારી આશાઓ ઉપર વધુ ઝડપથી, વધુ નમ્રતાથી અને વધુ સુરક્ષા સાથે કૂદે છે. બિન-ફાયદાકીય સંસ્થા તરીકે, અમે તમારા વતી કોઇપણ દબાણ હેઠળ કામ કર્યા વિના સંશોધન કરવા માટે મુક્ત છીએ. એનો અર્થ એ થાય કે તમારા માટે શ્રેષ્ઠ અનુભવ અને વેબ માટે તેજસ્વી ભવિષ્ય.">
 
+<!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
+<!ENTITY pref_voice_input "વૉઇસ ઇનપુટ">
+<!ENTITY pref_qrcode_enabled "QR ર્કોડ રીડર">
 
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
+<!ENTITY pref_sync2 "સાઇન ઇન">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
+<!ENTITY pref_history_search_suggestions "બતાવો શોધ ઇતિહાસ">
+<!ENTITY pref_import_options "આયાત વિકલ્પો">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "ટેબ્સ ખોલો">
 <!ENTITY pref_private_data_history2 "બ્રાઉઝીંગ ઇતિહાસ">
+<!ENTITY pref_private_data_searchHistory "શોઘો ઇતિહાસ">
+<!ENTITY pref_private_data_formdata2 "ફોર્મ ઇતિહાસ">
 <!ENTITY pref_private_data_cookies2 "કુકીઓ અને સક્રિય પ્રવેશો">
+<!ENTITY pref_private_data_passwords2 "સાચવેલા લૉગિન્સ">
 <!ENTITY pref_private_data_cache "કેશ">
 <!ENTITY pref_private_data_offlineApps "ઑફલાઇન વેબસાઇટ માહિતી">
 <!ENTITY pref_private_data_siteSettings2 "સાઇટ સેટીંગ">
 <!ENTITY pref_private_data_downloadFiles2 "ડાઉનલોડ">
+<!ENTITY pref_private_data_syncedTabs "સમન્વિત કરેલા ટૅબ્સ">
 
+<!ENTITY pref_default_browser "ડિફૉલ્ટ બ્રાઉઝર બનાવો">
 <!ENTITY pref_about_firefox "&brandShortName; વિશે">
 <!ENTITY pref_vendor_faqs "FAQs">
 <!ENTITY pref_vendor_feedback "અભિપ્રાય આપો">
