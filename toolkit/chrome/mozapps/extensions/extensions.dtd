@@ -76,7 +76,7 @@
 <!ENTITY updates.updateSelected.tooltip       "安装在此列表选中的可用更新">
 
 <!-- addon actions -->
-<!ENTITY cmd.showDetails.label                "显示更多信息">
+<!ENTITY cmd.showDetails.label                "显示详细信息">
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "查找更新">
 <!ENTITY cmd.findUpdates.accesskey            "F">
