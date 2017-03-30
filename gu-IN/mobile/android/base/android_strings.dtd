@@ -431,12 +431,21 @@ size. -->
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_edit_title "લોગિન મા ફેરફાર કરો">
+<!ENTITY doorhanger_login_edit_username_hint "વપરાશકર્તા નામ">
+<!ENTITY doorhanger_login_edit_password_hint "પાસવર્ડ">
+<!ENTITY doorhanger_login_edit_toggle "પાસવર્ડ બતાવો">
+<!ENTITY doorhanger_login_select_toast_copy "પાસવર્ડ ક્લિપબોર્ડ પર કૉપિ કરો">
+<!ENTITY doorhanger_login_select_action_text "અન્ય લૉગિન પસંદ કરો">
+<!ENTITY doorhanger_login_select_title "પાસવર્ડ નકલ કરો">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "નાના વિસ્તારોમાં મૅગ્નિફાઇ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
+<!ENTITY pref_scroll_title_bar2 "પૂર્ણ સ્ક્રીન બ્રાઉઝિંગ">
 
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
@@ -464,7 +473,7 @@ size. -->
 <!ENTITY masterpassword_create_title "મુખ્ય પાસવર્ડ બનાવો">
 <!ENTITY masterpassword_remove_title "મુખ્ય પાસવર્ડ દૂર કરો">
 <!ENTITY masterpassword_password "પાસવર્ડ">
-<!ENTITY masterpassword_confirm "ખાતરી પાસવર્ડ">
+<!ENTITY masterpassword_confirm "પાસવર્ડની પુષ્ટિ કરો">
 
 <!ENTITY button_ok "બરાબર">
 <!ENTITY button_cancel "રદ કરો">
@@ -483,7 +492,8 @@ size. -->
 <!ENTITY home_history_title "ઇતિહાસ">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
-<!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં ખોલો.">
+<!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં બતાવવામાં આવે છે.">
+<!ENTITY home_restore_all "બધુ પુનર્પ્રાપ્ત કરો">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
