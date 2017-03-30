@@ -39,7 +39,7 @@
 
 
 
-
+<!ENTITY daysEnd.label "күн">
 
 
 
@@ -74,9 +74,9 @@
 
 <!ENTITY advancedButton.label "Қосымша…">
 <!ENTITY advancedButton.accesskey "о">
-
-
-
+<!ENTITY serverDefaultCharset2.label "Мәтіннің бастапқы кодталуы:">
+<!ENTITY localPath.label "Жергілікті бума:">
+<!ENTITY localFolderPicker.label "Жергілікті буманы таңдау">
 <!ENTITY browseFolder.label "Қарап шығу…">
 <!ENTITY browseFolder.accesskey "ш">
 <!ENTITY browseNewsrc.label "Қарап шығу…">

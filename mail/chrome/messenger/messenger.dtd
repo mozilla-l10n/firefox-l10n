@@ -72,8 +72,8 @@
 <!ENTITY offlineGoOfflineCmd.accesskey "Ж">
 <!ENTITY synchronizeOfflineCmd.label "Жүктеп алу/Қазір синхрондау…">
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
-
-
+<!ENTITY settingsOfflineCmd2.label "Желіден тыс режимінің баптаулары">
+<!ENTITY settingsOfflineCmd2.accesskey "е">
 
 
 

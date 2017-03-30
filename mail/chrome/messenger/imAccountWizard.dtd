@@ -7,13 +7,13 @@
 <!ENTITY accountProtocolTitle.label   "Чат желісі">
 
 <!ENTITY accountProtocolField.label   "Желі:">
-
+<!ENTITY accountProtocolGetMore.label "Көбірек алу…">
 
 <!ENTITY accountUsernameTitle.label   "Пайдаланушы аты">
-
+<!ENTITY accountUsernameDuplicate.label "Бұл тіркелгі бапталған болып тұр!">
 
 <!ENTITY accountPasswordTitle.label   "Пароль">
-
+<!ENTITY accountPasswordInfo.label    "Төменде пароліңізді енгізіңіз.">
 <!ENTITY accountPasswordField.label   "Пароль:">
 
 
