@@ -31,7 +31,7 @@
 
 <!ENTITY csscoverage.optimize.body1 "Տեղափոխելով երբեմն կարող եք ավելի արագ բեռնել">
 <!ENTITY csscoverage.optimize.body2 "կցապիտակները էջի ներքևում և նոր ներտողի ստեղծում">
-
+<!ENTITY csscoverage.optimize.body3 "ոճերով տարրերը կարիք ունեն մինչև «բեռնել» իրադարձությունը առջևում: Ահա արգելափակված ոճեր, որոնք Ձեզ պետք են.">
 <!-- LOCALIZATION NOTE (csscoverage.optimize.bodyX):
   -  This is what we say when we have no optimization suggestions -->
 
@@ -44,4 +44,4 @@
 <!ENTITY csscoverage.footer1 "Տեսեք">
 <!ENTITY csscoverage.footer2a "https://developer.mozilla.org/docs/Tools/CSS_Coverage">
 <!ENTITY csscoverage.footer3 "MDN հոդվածը CSS ծածկույթի գործիքում">
-
+<!ENTITY csscoverage.footer4 "զեկույցը ստեղծելու նախազգուշացումներ:">
