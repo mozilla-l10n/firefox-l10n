@@ -169,7 +169,7 @@
 <!ENTITY formatlistMenu.accesskey "z">
 <!ENTITY noneCmd.label "Brez">
 <!ENTITY noneCmd.accesskey "B">
-<!ENTITY listBulletCmd.label "S seznamskimi točkami">
+<!ENTITY listBulletCmd.label "Neoštevilčen">
 <!ENTITY listBulletCmd.accesskey "S">
 <!ENTITY listNumberedCmd.label "Oštevilčeno">
 <!ENTITY listNumberedCmd.accesskey "O">
