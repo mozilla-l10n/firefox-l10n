@@ -20,11 +20,14 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul>
-  <li>Проверете адреса за правописни грешки, като например <strong>ww</strong>. example.com вместо <strong>www</strong>. example.com</li>
+  <li>Проверете адреса за правописни грешки, като например
+    <strong>ww</strong>. example.com вместо
+    <strong>www</strong>. example.com
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>Търсене</button>
     </div>
+  </li>
   <li>Ако не може да отворите друга страница, проверете връзката за мобилни данни или Wi-Fi.
     <button id='wifi'>Включване на Wi-Fi</button>
   </li>
@@ -104,7 +107,7 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
-<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитките.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
@@ -113,7 +116,10 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Страницата не може да бъде показана, защото достоверността на получените данни не може да бъде проверена.</li> <li>Моля, свържете се със собствениците на сайта, за да ги информирате за проблема.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Неуспешно установяване на шифрована връзка">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Това е или проблем с настройките на сървъра, или някой се опитва се представи за него.</li> <li>Ако и преди сте се свързвали успешно с него, има вероятност грешката да е временна и може да опитате по-късно.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul>
+  <li>Това е или проблем с настройките на сървъра, или някой се опитва се представи за него.</li>
+  <li>Ако преди успешно сте се свързвали с него, има вероятност грешката да е временна и може да опитате по-късно.</li>
+</ul>">
 
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
