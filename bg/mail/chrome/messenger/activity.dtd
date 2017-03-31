@@ -20,7 +20,7 @@ file names and tall enough to hint that there are more activities in the list --
 <!ENTITY cmd.undo.accesskey               "т">
 <!ENTITY cmd.recover.label                "Възстановяване">
 <!ENTITY cmd.recover.accesskey            "з">
-<!ENTITY cmd.retry.label                  "Отново">
+<!ENTITY cmd.retry.label                  "Повторен опит">
 <!ENTITY cmd.retry.accesskey              "н">
 <!ENTITY cmd.removeFromList.label         "Премахване от списък">
 <!ENTITY cmd.removeFromList.accesskey     "х">
