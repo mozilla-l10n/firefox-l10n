@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "සිටුවම් - අඩවි දත්ත">
+<!ENTITY     hostCol.label                 "අඩවිය">
 <!ENTITY     statusCol.label               "තත්වය">
 <!ENTITY     usageCol.label                "ගබඩා කිරීම">
 <!ENTITY     searchPlaceHolder             "සොයන්න">
@@ -12,3 +14,4 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "වලක්වන්න">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "අඩවි දත්ත ඉවත් කරමින්">

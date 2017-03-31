@@ -45,7 +45,9 @@
 <!ENTITY generic.title "ඔහ්!">
 <!ENTITY generic.longDesc "<p> කුමන හෝ හේතුවක් නිසා මේ පිටුව &brandShortName; හට පූරණය කළ නොහැක.</p>">
 
+<!ENTITY captivePortal.title "ජාලයට පිවිසෙන්න">
 
+<!ENTITY openPortalLoginPage.label2 "ජාල පිවිසුම් පිටුව විවෘත කරන්න">
 
 <!ENTITY malformedURI.title "ලිපිනය නිරවද්‍ය නොවේ">
 <!ENTITY malformedURI.longDesc "<ul> 
@@ -165,3 +167,4 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 
+<!ENTITY prefReset.label "පෙරනිමි සිටුවම් පිළිනගන්න">

@@ -4,6 +4,7 @@
 
 <!ENTITY  general.label                 "සාමාන්‍ය">
 
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -19,7 +20,9 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  logins.label                  "පිවිසුම්">
 
+<!ENTITY  rememberLogins.label          "අඩවි සඳහා පිවිසුම් මතකතබා ගන්න">
 <!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "හැරදැමීම්...">
 <!ENTITY  passwordExceptions.accesskey  "x">
@@ -29,4 +32,5 @@
 <!ENTITY  changeMasterPassword.label     "ප්‍රධාන රහස්පදය වෙනස්කරන්න...">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
+<!ENTITY  savedLogins.label              "සුරැකි පිවිසුම්…">
 <!ENTITY  savedLogins.accesskey          "L">

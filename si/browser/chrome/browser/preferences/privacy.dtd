@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader.label       "ලුහුබැඳීම් ආරක්ෂාව භාවිතා කරන්න">
 <!ENTITY  trackingProtectionAlways.label       "සැමවිටම">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "පුද්ගලික කවුළුවකදී පමණක්">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "කිසිදාක නැත">
 <!ENTITY  trackingProtectionNever.accesskey    "n">
@@ -11,6 +13,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "Tracking">
+<!ENTITY trackingProtectionPBM5.label         "පුද්ගලික කවුළුවලදී ලුහුබැඳීම් ආරක්ෂාව භාවිතා කරන්න">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "වැඩිදුරටත් දැනුවත්වන්න">
 <!ENTITY changeBlockList.accesskey      "C">
