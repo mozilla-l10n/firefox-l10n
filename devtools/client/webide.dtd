@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Նմանակման ընտրանքներ">
 <!ENTITY simulator_remove "Ջնջել նմանակիչը">
 <!ENTITY simulator_reset "Վերականգնել ծրագրայինը">
-
+<!ENTITY simulator_name "Անուն">
 <!ENTITY simulator_software "Ծրագրակազմ">
 <!ENTITY simulator_version "Տարբերակ">
 <!ENTITY simulator_profile "Պրոֆիլ">
