@@ -79,6 +79,12 @@
 <!ENTITY propertiesMenu.label                           "Свойства">
 <!ENTITY propertiesMenu.accesskey                       "в">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Свойства на адресника">
+<!ENTITY abPropertiesMenu.accesskey                     "в">
+<!ENTITY contactPropertiesMenu.label                    "Свойства на контакта">
+<!ENTITY contactPropertiesMenu.accesskey                "в">
+<!ENTITY mailingListPropertiesMenu.label                "Свойства на пощенския списък">
+<!ENTITY mailingListPropertiesMenu.accesskey            "в">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Изглед">
@@ -134,6 +140,11 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "в">
 <!ENTITY newlistButton.label                            "Нов списък">
 <!ENTITY newlistButton.accesskey                        "Н">
+<!ENTITY editPropertiesButton.label                     "Редактиране">
+<!ENTITY propertiesContext.label                        "Свойства">
+<!ENTITY propertiesContext.accesskey                    "в">
+<!ENTITY abPropertiesContext.label                      "Свойства">
+<!ENTITY abPropertiesContext.accesskey                  "в">
 <!ENTITY newmsgButton.label                             "Писане на писмо">
 <!ENTITY newmsgButton.accesskey                         "П">
 <!ENTITY newIM.label                                    "Бързо съобщение">
