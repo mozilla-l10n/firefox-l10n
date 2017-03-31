@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգեք հասցեն՝ մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com՝ <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ, ապա ստուգեք համակարգչի ցանցային  կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված է firewall-ով կամ պրոքսիով, համոզվեք որ &brandShortName;-ին թույլատրված է կապակցել ցանցին:</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգեք հասցեն մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com՝ <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ, ապա ստուգեք համակարգչի ցանցային  կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը պաշտպանված է firewall-ով կամ պրոքսիով, համոզվեք որ &brandShortName;-ին թույլատրված է կապակցել ցանցին:</li> </ul>">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգել ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգել՝ տեսնելու համար, թե արդյոք ֆայլը չի տեղափոխվել, վերանվանվել կամ ջնջվել:</li> </ul>">
