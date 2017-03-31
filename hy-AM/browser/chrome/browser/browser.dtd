@@ -595,7 +595,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate100x2.accesskey "Ն">
 <!ENTITY mediaPlaybackRate125x2.label "Արագ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "Ա">
-<!ENTITY mediaPlaybackRate150x2.label "Ավելի արագ (1,5x)">
+<!ENTITY mediaPlaybackRate150x2.label "Ավելի արագ (1,5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "ա">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very

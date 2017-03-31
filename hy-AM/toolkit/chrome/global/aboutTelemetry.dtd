@@ -76,6 +76,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ՀԻՇԵՔ. Միացված է SQL-ի վրիպազերծման դանդաղ եղանակը։ Ստորև կարող են ցուցադրվել SQL ամբողջական տողեր, բայց դրանք չեն հաստատվի Telemetry-ում։">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Ընտրել գործառույթի անունները՝ շեղջերի համար">
 
 
 <!ENTITY aboutTelemetry.filterText "  Զտիչ (տողը կամ /regexp/)">

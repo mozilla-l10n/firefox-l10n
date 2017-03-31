@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "Այս հասցեն արգելափակված է">
 
 <!ENTITY dnsNotFound.title "Սպասարկիչը չի գտնվել">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգել հասցեն մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ, ստուգեք համակարգչի ցանցային կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով կամ պրոքսիով,  համոզվեք որ &brandShortName;-ին թույլատրված է միանալ ցանցին:</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Ստուգեք հասցեն մուտքագրման սխալի համար, օրինակ՝ <strong>ww</strong>.example.com <strong>www</strong>.example.com-ի փոխարեն</li> <li>Եթե չի ստացվում բեռնել որևէ էջ՝ ստուգեք համակարգչի ցանցային կապակցումը:</li> <li>Եթե ձեր համակարգիչը կամ ցանցը ապահովագրված է firewall-ով կամ պրոքսիով՝ համոզվեք, որ &brandShortName;-ին թույլատրված է միանալ ցանցին:</li> </ul>">
 
 <!ENTITY fileNotFound.title "Ֆայլը չի գտնվել">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Ստուգեք ֆայլի անունը մեծատառերի կամ այլ տպագրական սխալների համար:</li> <li>Ստուգեք, թե արդյոք ֆայլը չի տեղափոխվել, անվանափոխվել կամ ջնջվել:</li> </ul>">
@@ -36,7 +36,7 @@
 <!ENTITY openPortalLoginPage.label2 "Բացել ցանց մուտք գործելու էջը">
 
 <!ENTITY malformedURI.title "Հասցեի սխալ ձևաչափ">
-<!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում էք հակադարձ սլեշ (այսինքն` <strong>/</strong>):</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Վեբ հասցեները սովորաբար գրվում են հետևյալ կերպ` <strong>http://www.example.com/</strong></li> <li>Համոզվեք, որ օգտագործում եք հակադարձ սլեշներ (այսինքն` <strong>/</strong>):</li> </ul>">
 
 <!ENTITY netInterrupt.title "Կապը խզվեց">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
