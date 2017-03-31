@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY toolbar.searchPlaceholder     "Search">
+<!ENTITY toolbar.searchPlaceholder     "Seet">
 
-<!ENTITY newPref.namePlaceholder       "Name">
+<!ENTITY newPref.namePlaceholder       "Tur">
 
 <!ENTITY newPref.valueBoolean          "Boolean">
 <!ENTITY newPref.valueString           "String">
@@ -15,7 +15,7 @@
 <!ENTITY newPref.numberPlaceholder     "Enter a number">
 
 <!ENTITY newPref.toggleButton          "Toggle">
-<!ENTITY newPref.cancelButton          "Cancel">
+<!ENTITY newPref.cancelButton          "Neenal">
 
-<!ENTITY contextMenu.copyPrefName      "Copy Name">
+<!ENTITY contextMenu.copyPrefName      "Duppi Tur">
 <!ENTITY contextMenu.copyPrefValue     "Copy Value">
