@@ -12,6 +12,8 @@
 <!ENTITY removeData.accesskey         "с">
 <!ENTITY removeDataChat.label         "Премахване на разговорите">
 <!ENTITY removeDataChat.accesskey     "р">
+<!ENTITY removeDataLocalAccount.desc  "Премахва всички съобщения, папки и филтри свързани с тази сметка от местния диск. Съобщенията, останали на сървъра няма да бъдат засегнати. Не избирайте тази възможност ако планирате да правите архив на местните данни или по-късно да ги преизползвате в &brandShortName;.">
+<!ENTITY removeDataServerAccount.desc "Премахва всички съобщения, папки и филтри свързани с тази сметка от местния диск. Папките и съобщенията остават на сървъра.">
 <!ENTITY removeDataChatAccount.desc   "Премахва всички журнали от разговорите съхранени за тази сметка от местния диск.">
 <!ENTITY showData.label               "Папка с данните">
 <!ENTITY showData.accesskey           "п">

@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Компактен изглед">
 <!ENTITY compactVersion.accesskey "К">
 <!ENTITY folderPaneBar.label "Лента с инструменти за папки">
+<!ENTITY folderPaneBar.accesskey "л">
 <!ENTITY folderModeSelector.label "Изгледи на папки">
 
 <!-- Sort Menu -->
@@ -633,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Изтегляне на писма">
 <!ENTITY folderContextGetMessages.accesskey "И">
+<!ENTITY folderContextPauseAllUpdates.label "Спиране на всякакво обновяване">
+<!ENTITY folderContextPauseUpdates.label "Спиране на обновяване">
+<!ENTITY folderContextPauseUpdates.accesskey "о">
 <!ENTITY folderContextOpenInNewWindow.label "Отваряне в нов прозорец">
 <!ENTITY folderContextOpenInNewWindow.accesskey "О">
 <!ENTITY folderContextOpenNewTab.label "Отваряне в раздел">
