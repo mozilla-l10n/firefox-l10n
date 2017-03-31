@@ -188,7 +188,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "И">
 <!ENTITY PrimaryEmail.label                             "Е-поща">
 <!ENTITY PrimaryEmail.accesskey                         "Е">
-<!ENTITY ChatName.label                                 "Псевдоним онлайн">
+<!ENTITY ChatName.label                                 "Име за разговор">
 <!ENTITY ChatName.accesskey                             "И">
 <!ENTITY Company.label                                  "Организация">
 <!ENTITY Company.accesskey                              "г">

@@ -30,7 +30,7 @@
 <!ENTITY HomePhone.accesskey                   "ш">
 <!ENTITY WorkPhone.label                       "Служебен телефон">
 <!ENTITY WorkPhone.accesskey                   "ж">
-<!ENTITY ChatName.label                        "Псевдоним онлайн">
+<!ENTITY ChatName.label                        "Име за разговор">
 <!ENTITY ChatName.accesskey                    "И">
 <!ENTITY sortAscending.label                   "Възходящ">
 <!ENTITY sortAscending.accesskey               "ъ">
