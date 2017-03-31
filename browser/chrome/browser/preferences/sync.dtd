@@ -15,8 +15,8 @@
 <!ENTITY engine.addons.label "Componenti aggiuntivi">
 <!ENTITY engine.addons.accesskey "o">
 <!ENTITY fxaSyncDeviceName.label "Nome dispositivo">
-<!ENTITY changeSyncDeviceName.label "Cambia nome dispositivo…">
-<!ENTITY changeSyncDeviceName.accesskey "d">
+<!ENTITY changeSyncDeviceName1.label "Cambia nome dispositivo">
+<!ENTITY changeSyncDeviceName1.accesskey "d">
 <!ENTITY cancelChangeSyncDeviceName.label "Annulla">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salva">
