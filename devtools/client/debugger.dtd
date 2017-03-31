@@ -42,6 +42,8 @@
 <!ENTITY debuggerUI.sources.prettyPrint "Կարճեցված աղբյուրը">
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+
+<!ENTITY debuggerUI.autoPrettyPrint     "Ինքնազարդարել փոքրացվող աղբյուրները">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "P">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
   -  button that toggles all breakpoints for all sources. -->
@@ -53,6 +55,8 @@
 <!ENTITY debuggerUI.clearButton "Մաքրել">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
+
+<!ENTITY debuggerUI.clearButton.tooltip "Մաքրել հավաքված հետագծումները">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
@@ -89,6 +93,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+
+<!ENTITY debuggerUI.autoBlackBox           "Ինքնաբար սև տուփի փոքրացված աղբյուրներ">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "B">
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -156,7 +162,7 @@
   -  appears in the source editor context menu for editing a breakpoint. -->
 
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Խմբագրել պայմանական ընդհատակետ">
-
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 

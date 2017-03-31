@@ -29,7 +29,7 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 
 <!ENTITY performanceUI.toolbar.js-calltree "Կանչել ծառը">
-
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Գունանշել JavaScript գործառույթները, որտեղ դիտարկիչը գրառելիս ծախսում է շատ ժամանակ:">
 <!ENTITY performanceUI.toolbar.memory-calltree "Բաշխումներ">
 
 
