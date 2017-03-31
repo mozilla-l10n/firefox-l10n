@@ -79,8 +79,8 @@
 <!ENTITY propertiesMenu.label                           "Қасиеттері">
 <!ENTITY propertiesMenu.accesskey                       "и">
 <!ENTITY propertiesCmd.key                              "i">
-
-
+<!ENTITY abPropertiesMenu.label                         "Адрестік кітапша қасиеттері">
+<!ENTITY abPropertiesMenu.accesskey                     "и">
 <!ENTITY contactPropertiesMenu.label                    "Контакт қасиеттері">
 <!ENTITY contactPropertiesMenu.accesskey                "и">
 

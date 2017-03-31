@@ -88,12 +88,13 @@
 
 
 
+<!ENTITY openAttachment.tooltip "Тіркелген файлды ашу">
 <!-- Attachment toolbar items -->
 
 <!ENTITY saveAttachmentButton1.label       "Сақтау">
-
+<!ENTITY saveAttachmentButton1.tooltip     "Тіркелген файлды сақтау">
 <!ENTITY saveAllAttachmentsButton1.label   "Барлығын сақтау">
-
+<!ENTITY saveAllAttachmentsButton1.tooltip "Барлық тіркелген файлдарды сақтау">
 
 <!ENTITY copyLinkCmd.label        "Сілтемені көшіру">
 <!ENTITY copyLinkCmd.accesskey    "С">
