@@ -60,20 +60,20 @@
 
 <!ENTITY Home.tab                       "Жеке">
 
-
-
+<!ENTITY HomeAddress.label              "Адресі:">
+<!ENTITY HomeAddress.accesskey          "д">
 <!ENTITY HomeAddress2.label             "">
 <!ENTITY HomeAddress2.accesskey         "">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY HomeCity.label                 "Қала:">
+<!ENTITY HomeCity.accesskey             "л">
+<!ENTITY HomeState.label                "Аймақ:">
+<!ENTITY HomeState.accesskey            "й">
+<!ENTITY HomeZipCode.label              "Пошта индексі:">
+<!ENTITY HomeZipCode.accesskey          "ш">
+<!ENTITY HomeCountry.label              "Ел:">
+<!ENTITY HomeCountry.accesskey          "л">
+<!ENTITY HomeWebPage.label              "Веб парағы:">
+<!ENTITY HomeWebPage.accesskey          "е">
 <!ENTITY Birthday.label                 "Туған күні:">
 <!ENTITY Birthday.accesskey             "Т">
 <!ENTITY In.label                       "">
@@ -145,12 +145,12 @@
 
 
 <!ENTITY DefaultPhoto.label             "Бастапқы">
-
-
+<!ENTITY PhotoFile.label                "Бұл компьютерде">
+<!ENTITY PhotoFile.accesskey            "Б">
 <!ENTITY BrowsePhoto.label              "Қарап шығу">
 <!ENTITY BrowsePhoto.accesskey          "ш">
-
-
-
+<!ENTITY PhotoURL.label                 "Интернетте">
+<!ENTITY PhotoURL.accesskey             "И">
+<!ENTITY PhotoURL.placeholder           "Фотосуреттің адресін енгізіңіз немесе теріңіз">
 <!ENTITY UpdatePhoto.label              "Жаңарту">
 <!ENTITY UpdatePhoto.accesskey          "Ж">
