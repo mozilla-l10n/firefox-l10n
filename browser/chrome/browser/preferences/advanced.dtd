@@ -101,6 +101,8 @@
 <!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
 <!ENTITY enableSearchUpdate.accesskey    "r">
 
+<!ENTITY reports.label                   "Rapports">
+
 <!ENTITY offlineStorageNotify.label               "Avertir lorsqu’un site souhaite conserver des données pour une utilisation hors connexion">
 <!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
@@ -113,7 +115,6 @@
 <!ENTITY offlineAppRemove.confirm        "Supprimer les données hors connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
-<!ENTITY certPersonal.label              "Requêtes">
 <!ENTITY certPersonal.description        "Lorsqu’un serveur demande votre certificat personnel :">
 <!ENTITY selectCerts.auto                "en sélectionner un automatiquement">
 <!ENTITY selectCerts.auto.accesskey      "e">
