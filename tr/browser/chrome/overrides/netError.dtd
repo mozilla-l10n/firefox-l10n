@@ -19,7 +19,11 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Sunucu bulunamadı">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Adres <strong>www</strong>.example.com yerine <strong>ww</strong>.example.com gibi yanlış yazılmış olabilir.</li> <li>Hiçbir sayfa açılmıyorsa bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul>
+  <li>Adres <strong>www</strong>.example.com yerine <strong>ww</strong>.example.com gibi yanlış yazılmış olabilir.</li>
+  <li>Hiçbir sayfa açılmıyorsa bilgisayarınızın ağ bağlantısını kontrol edin.</li>
+  <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li>
+</ul>">
 
 <!ENTITY fileNotFound.title "Dosya bulunamadı">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
@@ -36,7 +40,10 @@
 <!ENTITY openPortalLoginPage.label2 "Ağa giriş sayfasını aç">
 
 <!ENTITY malformedURI.title "Adres geçerli değil">
-<!ENTITY malformedURI.longDesc "<ul> <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li> <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul>
+  <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li>
+  <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li>
+</ul>">
 
 <!ENTITY netInterrupt.title "Bağlantı kesildi">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
