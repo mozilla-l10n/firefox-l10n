@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "نشانیاں">
 <!ENTITY bookmarksMenu.accesskey "ن">
 <!ENTITY bookmarkThisPageCmd.label "یہ صفحہ نشان زد کریں">
-<!ENTITY editThisBookmarkCmd.label "یہ نشانی تدوین کریں">
+<!ENTITY editThisBookmarkCmd.label "اس نشانی کی تدوین کریں">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
