@@ -286,6 +286,8 @@
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ouvrir dans &formatS;">
 <!ENTITY custom_tabs_menu_footer "Proposé par &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Adresse web copiée">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Flux d’activité">
@@ -354,26 +356,14 @@
 <!ENTITY pref_plugins_enabled "Activés">
 <!ENTITY pref_plugins_tap_to_play2 "Appuyer pour lancer la lecture">
 <!ENTITY pref_plugins_disabled "Désactivés">
-<!ENTITY pref_text_size "Taille du texte">
 <!ENTITY pref_restore_tabs "Restaurer les onglets">
 <!ENTITY pref_restore_always "Toujours restaurer">
 <!ENTITY pref_restore_quit "Ne pas restaurer après avoir quitté &brandShortName;">
-<!ENTITY pref_font_size_tiny "Très petite">
-<!ENTITY pref_font_size_small "Petite">
-<!ENTITY pref_font_size_medium "Moyenne">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Très grande">
-<!ENTITY pref_font_size_set "Définir">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Le panda roux, rapide comme l’éclair, bondit au-delà de vos attentes avec plus de vitesse, plus de souplesse et plus de sécurité. En tant que fondation à but non lucratif, nous sommes libres d’innover pour vous sans aucune pression ni aucun compromis. Cela signifie une meilleure expérience pour vous et un meilleur avenir pour le Web.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Utiliser la taille de police système">
+<!ENTITY pref_use_system_font_size_summary "Redimensionner le contenu web selon la taille de la police système">
 
 <!ENTITY pref_media_autoplay_enabled "Lecture automatique">
 <!ENTITY pref_media_autoplay_enabled_summary "Décider si les sites peuvent lancer automatiquement la lecture des vidéos et d’autres contenus multimédia">

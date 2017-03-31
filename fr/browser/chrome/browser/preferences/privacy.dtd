@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Utiliser la protection contre le pistage">
+<!ENTITY  trackingProtectionHeader2.label      "Protection contre le pistage">
 <!ENTITY  trackingProtectionAlways.label       "Toujours">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Uniquement dans les fenêtres privées">
