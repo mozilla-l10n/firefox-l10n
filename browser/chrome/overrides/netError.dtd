@@ -78,7 +78,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul><li>Уверете се, че настройките на прокси сървъра са правилни.</li><li>Проверете дали връзката на компютъра с мрежата е наред.</li><li>Ако компютърът или мрежата ви са зад защитна стена или прокси проверете дали &brandShortName; има право на достъп до Интернет.</li></ul>">
 
 <!ENTITY redirectLoop.title "Страницата не пренасочва правилно">
-<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитки.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<ul><li>Такъв проблем може да е причинен от изключване или забраняване на бисквитките.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Неочакван отговор от сървъра">
 <!ENTITY unknownSocketType.longDesc "<ul><li>Проверете дали системата има инсталиран Personal Security Manager.</li><li>Настройките на сървъра може да са нестандартни.</li></ul>">
