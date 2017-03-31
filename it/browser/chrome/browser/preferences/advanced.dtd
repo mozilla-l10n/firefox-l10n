@@ -71,6 +71,7 @@
 <!ENTITY autoUpdateOthers.label "Aggiorna automaticamente">
 <!ENTITY enableSearchUpdate.label "Motori di ricerca">
 <!ENTITY enableSearchUpdate.accesskey "M">
+<!ENTITY reports.label "Rapporti">
 <!ENTITY offlineStorageNotify.label "Avvisa quando un sito web richiede di salvare dati per l’utilizzo non in linea">
 <!ENTITY offlineStorageNotify.accesskey "A">
 <!ENTITY offlineStorageNotifyExceptions.label "Eccezioni…">
@@ -81,7 +82,6 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm "Rimozione dati non in linea">
 <!ENTITY certificateTab.label "Certificati">
-<!ENTITY certPersonal.label "Richieste">
 <!ENTITY certPersonal.description "Quando un sito web richiede il certificato personale:">
 <!ENTITY selectCerts.auto "Selezionane uno automaticamente">
 <!ENTITY selectCerts.auto.accesskey "S">
