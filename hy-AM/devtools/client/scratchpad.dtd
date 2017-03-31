@@ -59,8 +59,8 @@
 <!ENTITY wordWrap.label                "Տողադարձել">
 <!ENTITY wordWrap.accesskey            "Տ">
 
-<!ENTITY highlightTrailingSpace.label     "Լուսանշել հետին տարածքը">
-<!ENTITY highlightTrailingSpace.accesskey "Լ">
+<!ENTITY highlightTrailingSpace.label     "Գունանշել հետին տարածքը">
+<!ENTITY highlightTrailingSpace.accesskey "Գ">
 
 <!ENTITY largerFont.label             "Մեծ տառատեսակ">
 <!ENTITY largerFont.accesskey         "ե">
