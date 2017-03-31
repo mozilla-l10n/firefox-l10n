@@ -18,7 +18,7 @@
 <!ENTITY newListCmd.accesskey                           "щ">
 <!ENTITY newAddressBookCmd.label                        "Адресник…">
 <!ENTITY newAddressBookCmd.accesskey                    "А">
-<!ENTITY newLDAPDirectoryCmd.label                      "LDAP Директория…">
+<!ENTITY newLDAPDirectoryCmd.label                      "Директория в LDAP…">
 <!ENTITY newLDAPDirectoryCmd.accesskey                  "Д">
 <!ENTITY newMessageCmd.label                            "Писмо">
 <!ENTITY newMessageCmd.key                              "M">
@@ -137,9 +137,11 @@ because displayed names don't have the comma in between. -->
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Нова визитка">
-<!ENTITY newContactButton.accesskey                     "в">
+<!ENTITY newContactButton.accesskey                     "т">
 <!ENTITY newlistButton.label                            "Нов списък">
 <!ENTITY newlistButton.accesskey                        "Н">
+<!ENTITY showAsDefault.label                            "Отваряне по подразбиране">
+<!ENTITY showAsDefault.accesskey                        "о">
 <!ENTITY editPropertiesButton.label                     "Редактиране">
 <!ENTITY propertiesContext.label                        "Свойства">
 <!ENTITY propertiesContext.accesskey                    "в">
