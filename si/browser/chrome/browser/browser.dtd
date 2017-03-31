@@ -182,6 +182,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "සියළු පිටුසලකුණු පෙන්වන්න…">
 <!ENTITY recentBookmarks.label "මෑතදී පිටුසලකුණු කළ">
 <!ENTITY otherBookmarksCmd.label "වෙනත් පිටුසලකුණු">
+<!ENTITY mobileBookmarksCmd.label "ජංගම පිටු සළකුණු">
 <!ENTITY bookmarksToolbarChevron.tooltip "තවත් පිටුසලකුණු පෙන්වන්න">
 <!ENTITY showRecentlyBookmarked.label     "මෑතක කළ පිටුසලකුණු පෙන්වන්න">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -205,14 +206,31 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "අඩවි තොරතුරු පෙන්වන්න">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "ස්ථානය ඉල්ලීමේ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ඇඩෝන ස්ථාපනය කිරීමේ පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "සුරැකි මුරපද පණිවිඩ පුවරුව විවෘත කරන්න">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "ඔබට අඩවියෙන් දැන්වීම් ලැබිය හැකිද යන්න වෙනස් කරන්න">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ඔබේ කැමරාව හා/හෝ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ඔබේ මයික්‍රෆෝනය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ඔබේ කවුළුව හෝ තිරය අඩවිය සමඟ බෙදාගැනීම කළමණාකරනය කරන්න">
 
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ස්ථාපන පණිවිඩ පුවරුව විවෘත කරන්න">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "මෙම පිටුව පරිවර්තනය කරන්න">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "පිටු පරිවර්තනය කළමණාකරනය කරන්න">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM මෘදුකාංග භාවිතය කළමණාකරනය කරන්න">
 
+<!ENTITY urlbar.cameraBlocked.tooltip            "ඔබ මෙම අඩවියට ඔබගේ කැමරාව අවහිර කර ඇත.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ඔබ මෙම අඩවියට ඔබගේ මයික්‍රෆෝනය අවහිර කර ඇත.">
+<!ENTITY urlbar.screenBlocked.tooltip            "ඔබ මෙම අඩවිය ඔබගේ තිරය හවුල්කිරීම අවහිර කර ඇත.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ඔබ මෙම අඩවිය සඳහා ස්ථානීය තොරතුරු අවහිර කර ඇත.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "ඔබ මෙම අඩවිය සඳහා දත්ත ගබඩාකිරීම අවහිර කර ඇත.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ඔබ මෙම අඩවිය සඳහා දැනුම්දීම් අවහිර කර ඇත.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
+<!ENTITY urlbar.zoomReset.tooltip     "විශාලන මට්ටම යළි සිටුවන්න">
 
 <!ENTITY searchItem.title             "සොයන්න">
 
@@ -224,6 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "පිටුලකුණු">
 <!ENTITY bookmarksMenuButton.other.label "වෙනත් පිටුසලකුණු">
+<!ENTITY bookmarksMenuButton.mobile.label "ජංගම පිටු සළකුණු">
 <!ENTITY viewBookmarksSidebar2.label        "පිටුලකුණු පැති තීරුව පෙන්වන්න">
 <!ENTITY viewBookmarksToolbar.label         "පිටුලකුණු මෙවලම්තීරුව පෙන්වන්න">
 
@@ -757,6 +776,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "පිටපත් කරන්න">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "සියල්ල ටැබ තුළ විවෘත කරන්න">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
