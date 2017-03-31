@@ -84,7 +84,7 @@
 
 <!ENTITY Work.tab                       "Служебни">
 <!ENTITY Work.accesskey                 "С">
-<!ENTITY JobTitle.label                 "Звание:">
+<!ENTITY JobTitle.label                 "Длъжност:">
 <!ENTITY JobTitle.accesskey             "а">
 <!ENTITY Department.label               "Отдел:">
 <!ENTITY Department.accesskey           "т">
