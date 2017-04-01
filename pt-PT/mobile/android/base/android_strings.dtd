@@ -169,7 +169,7 @@
      are found. -->
 <!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos associados à Conta Firefox">
 
-<!ENTITY pref_category_search3 "Pesquisar">
+<!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary2 "Adicionar, definir predefinição, mostrar sugestões">
 <!ENTITY pref_category_accessibility "Acessibilidade">
 <!ENTITY pref_category_accessibility_summary2 "Tamanho do texto, zoom, introdução por voz">
@@ -233,7 +233,7 @@
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 
 <!ENTITY pref_header_general "Geral">
-<!ENTITY pref_header_search "Pesquisar">
+<!ENTITY pref_header_search "Pesquisa">
 <!ENTITY pref_header_privacy_short "Privacidade">
 <!ENTITY pref_header_accessibility "Acessibilidade">
 <!ENTITY pref_header_notifications "Notificações">
