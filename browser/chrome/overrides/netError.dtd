@@ -168,7 +168,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker je bila zaznana napaka pri prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo...">
+<!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
 <!ENTITY errorReporting.automatic2 "S prijavo podobnih napak pomagate Mozilli prepoznati in zavračati zlonamerne strani">
 <!ENTITY errorReporting.learnMore "Več o tem …">

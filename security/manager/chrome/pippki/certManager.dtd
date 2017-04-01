@@ -48,7 +48,7 @@
 <!ENTITY certmgr.tokenname                    "Varnostna naprava">
 <!ENTITY certmgr.begins                       "Začne veljati">
 <!ENTITY certmgr.expires                      "Poteče">
-<!ENTITY certmgr.email                        "E-mail naslov">
+<!ENTITY certmgr.email                        "E-poštni naslov">
 <!ENTITY certmgr.serial                       "Serijska številka">
 
 <!ENTITY certmgr.close.label                  "Zapri">
