@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "Napaka pri nalaganju strani">
-<!ENTITY retry.label "Poskusite ponovno">
+<!ENTITY retry.label "Poskusi znova">
 
 <!-- Specific error messages -->
 
