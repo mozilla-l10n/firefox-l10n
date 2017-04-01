@@ -58,9 +58,11 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 <!ENTITY notCached.longDesc "<p>Zahtevani dokument v medpomnilniku brskalnika ni več na razpolago.</p><ul><li>Iz varnostnih razlogov &brandShortName; občutljivih dokumentov ne zahteva ponovno.</li><li>Kliknite na poskusi znova, da se dokument ponovno zahteva s spletne strani.</li></ul>">
 
 <!ENTITY netOffline.title "Brez povezave">
-<!ENTITY netOffline.longDesc2 "<ul> 
-<li>Kliknite na &quot;Poskusi znova&quot;, da preklopite v povezani način in ponovno naložite stran.</li> 
-</ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Kliknite &quot;Poskusi znova&quot; za preklop v povezan način in ponovno naložite stran.</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "Napaka pri kodiranju vsebine">
 <!ENTITY contentEncodingError.longDesc "
@@ -88,11 +90,12 @@ da ima &brandShortName; pravico dostopati do spleta.</li>
 </ul>">
 
 <!ENTITY proxyConnectFailure.title "Posrednik zavrača povezave">
-<!ENTITY proxyConnectFailure.longDesc "<ul> 
-<li>Preverite nastavitve posrednika, da so brez napak.</li> 
-<li>Obrnite se na omrežnega skrbnika, da se prepričate ali posrednik 
-deluje.</li> 
-</ul>">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Preverite nastavitve posrednika in se prepričajte, da so pravilne.</li>
+  <li>Pri skrbniku svojega omrežja preverite, da posrednik deluje.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Posrednika ni mogoče najti">
 <!ENTITY proxyResolveFailure.longDesc "
