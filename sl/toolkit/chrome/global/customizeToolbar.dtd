@@ -4,7 +4,7 @@
 
 <!ENTITY dialog.title             "Urejanje orodne vrstice">
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
-<!ENTITY instructions.description "Elemente lahko dodajate ali odstranjujete, tako da jih povlečete na orodno vrstico ali iz nje.">
+<!ENTITY instructions.description "Elemente lahko dodajate ali odstranjujete, tako da jih povlečete v orodno vrstico ali iz nje.">
 <!ENTITY show.label               "Prikaži:">
 <!ENTITY iconsAndText.label       "Oboje">
 <!ENTITY icons.label              "Ikone">

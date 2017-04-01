@@ -62,7 +62,7 @@
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "Vaš sistemski skrbnik je onemogočil posodabljanje">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
-<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; trenutno nadgrajuje drug primerek">
+<!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; se posodablja v drugem primerku">
 <!ENTITY update.restarting          "Ponovni zagon …">
 
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
