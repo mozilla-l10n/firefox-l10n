@@ -14,7 +14,7 @@
      whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label
-         "Vrstica za hitre filtre">
+         "Vrstica hitrega filtra">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
@@ -28,14 +28,14 @@
      controls whether the quick filter bar is visible.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label
-         "Vrstica za hitre filtre">
+         "Vrstica hitrega filtra">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip
-         "Vklopi/izklopi vrstico za hitre filtre">
+         "Vklopi/izklopi vrstico hitrega filtra">
 
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button

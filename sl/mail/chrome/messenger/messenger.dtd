@@ -236,7 +236,7 @@
 <!ENTITY headersMenu.accesskey "G">
 <!ENTITY headersAllCmd.label "Vse">
 <!ENTITY headersAllCmd.accesskey "V">
-<!ENTITY headersNormalCmd.label "Običajna velikost">
+<!ENTITY headersNormalCmd.label "Običajne">
 <!ENTITY headersNormalCmd.accesskey "O">
 <!ENTITY bodyMenu.label "Telo sporočila kot">
 <!ENTITY bodyMenu.accesskey "T">
