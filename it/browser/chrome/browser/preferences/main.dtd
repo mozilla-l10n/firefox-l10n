@@ -34,6 +34,6 @@
 <!ENTITY isNotDefault.label "&brandShortName; non è il browser predefinito">
 <!ENTITY separateProfileMode.label "Consenti l’esecuzione in contemporanea di &brandShortName; e Firefox">
 <!ENTITY useFirefoxSync.label "Consiglio: questo comporta l’utilizzo di profili diversi. È possibile appoggiarsi a Sync per la sincronizzazione dei dati.">
-<!ENTITY getStarted.notlogged.label "Accedi a &syncBrand.shortName.label;…">
+<!ENTITY getStarted.notloggedin.label "Accedi a &syncBrand.shortName.label;…">
 <!ENTITY getStarted.configured.label "Apri preferenze di &syncBrand.shortName.label;">
 <!ENTITY e10sEnabled.label "Utilizza &brandShortName; in modalità multiprocesso">
