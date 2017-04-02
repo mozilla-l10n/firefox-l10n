@@ -53,7 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "翻译由">
 <!ENTITY translation.options.attribution.afterLogo "提供">
 
-<!ENTITY  drmContent.label             "DRM 内容">
+<!ENTITY  drmContent.label             "采用数字版权管理（DRM）的内容">
 
 <!ENTITY  playDRMContent.label         "播放 DRM 内容">
 <!ENTITY  playDRMContent.accesskey     "P">
