@@ -172,6 +172,7 @@
 <!ENTITY pref_custom_tabs_summary3 "Разрешить приложениям открывать веб-сайты, используя преднастроенную версию &brandShortName;">
 <!ENTITY custom_tabs_menu_item_open_in "Открыть в &formatS;">
 <!ENTITY custom_tabs_menu_footer "На движке &brandShortName;">
+<!ENTITY custom_tabs_hint_url_copy "URL скопирован">
 <!ENTITY pref_activity_stream "Лента активности">
 <!ENTITY pref_activity_stream_summary "Наглядная история действий и переосмысленная домашняя страница делают поиск в &brandShortName; именно того, что вы ищете, проще, чем когда-либо прежде.">
 <!ENTITY tracking_protection_prompt_title "Теперь с Защитой от отслеживания">
@@ -208,18 +209,11 @@
 <!ENTITY pref_plugins_enabled "Включены">
 <!ENTITY pref_plugins_tap_to_play2 "По касанию">
 <!ENTITY pref_plugins_disabled "Отключены">
-<!ENTITY pref_text_size "Размер текста">
 <!ENTITY pref_restore_tabs "Восстановление вкладок">
 <!ENTITY pref_restore_always "Всегда восстанавливать">
 <!ENTITY pref_restore_quit "Не восстанавливать после выхода из &brandShortName;">
-<!ENTITY pref_font_size_tiny "Мелкий">
-<!ENTITY pref_font_size_small "Маленький">
-<!ENTITY pref_font_size_medium "Средний">
-<!ENTITY pref_font_size_large "Большой">
-<!ENTITY pref_font_size_xlarge "Огромный">
-<!ENTITY pref_font_size_set "Установить">
-<!ENTITY pref_font_size_adjust_char "A">
-<!ENTITY pref_font_size_preview_text "Быстрый оранжевый лис перепрыгивает через ваши ожидания с высокой скоростью, большей гибкостью и повышенной безопасностью. Будучи некоммерческой организацией, мы свободны в своём развитии и нам не нужно идти на компромиссы. Мы улучшим для вас работу в Интернете и сделаем его будущее более светлым.">
+<!ENTITY pref_use_system_font_size "Использовать системный размер шрифта">
+<!ENTITY pref_use_system_font_size_summary "Масштабировать веб-содержимое в соответствии с размером шрифта системы">
 <!ENTITY pref_media_autoplay_enabled "Разрешить автозапуск">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролирует, могут ли веб-сайты автоматически запускать видео и другой медиаконтент">
 <!ENTITY pref_zoom_force_enabled "Всегда разрешать менять масштаб">
