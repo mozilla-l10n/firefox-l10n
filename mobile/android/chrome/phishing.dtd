@@ -16,8 +16,8 @@
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "位于 <span id='phishing_sitename'/> 的此网页被报告为欺诈网站，已根据您的首选项拦截。">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>欺诈网站的目的是诱骗您执行一些危险的举动，例如安装软件或泄露您的个人信息，例如密码、电话号码、信用卡信息等。</p><p>在此网页上输入任何信息均可能导致身份盗用或其他欺骗行为。</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "此网站被举报提供垃圾软件！">
+<!ENTITY safeb.blocked.unwantedPage.title "此网站被举报提供流氓软件！">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页提供垃圾软件。现已依照您的安全选项予以拦截。">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "提供垃圾软件的网页可能会诱导您安装诈骗软件，或以其他流氓方式损害您的系统。">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页提供流氓软件。现已依照您的安全选项予以拦截。">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "提供流氓软件的网页可能会诱导您安装具有欺骗性的软件，并以流氓的方式损害您的系统。">
 
