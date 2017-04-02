@@ -7,14 +7,14 @@
 <!ENTITY     hostCol.label                 "Svetainė">
 <!ENTITY     statusCol.label               "Būsena">
 <!ENTITY     usageCol.label                "Vieta">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     searchPlaceHolder             "Ieškoti">
+<!ENTITY     searchPlaceHolder.accesskey   "e">
+<!ENTITY     removeSelected.label          "Pašalinti pažymėtus">
+<!ENTITY     removeSelected.accesskey      "P">
+<!ENTITY     save.label                    "Įrašyti pakeitimus">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Atsisakyti">
+<!ENTITY     cancel.accesskey              "k">
+<!ENTITY     removingDialog.title          "Svetainių duomenų šalinimas">
+<!ENTITY     removingDialog.description    "Pašalinus svetainių duomenis išsitrins ir slapukai. Tai gali atjungti jus iš svetainių bei ištrinti turinį darbui neprisijungus. Ar tikrai norite atlikti pakeitimus?">
+<!ENTITY     siteTree.label                "Bus pašalinti šie svetainių slapukai:">
