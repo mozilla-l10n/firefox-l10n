@@ -21,11 +21,11 @@
 ">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>有攻击行为的网页会尝试安装能窃取个人隐私、利用您的电脑攻击他人，或者损害您的系统的程序。</p><p>某些攻击页面是在故意散布有害软件，但更多则是在网站所有者不知情的情况下被别人恶意加入的。</p>">
 
-<!ENTITY safeb.blocked.unwantedPage.title "此页面被举报提供垃圾软件！">
+<!ENTITY safeb.blocked.unwantedPage.title "此页面被举报提供流氓软件！">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页会提供垃圾软件。现已根据您的安全选项予以拦截。
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "根据举报，位于 <span id='unwanted_sitename'/> 的此网页会提供流氓软件。现已根据您的安全选项予以拦截。
 ">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>提供垃圾软件的网页可能会诱导您安装欺诈软件，或以其他流氓的方式损害您的系统。</p>">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>提供流氓软件的网页可能会诱导您安装具有欺骗性的软件，并以流氓的方式损害您的系统。</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "欺诈网站！">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

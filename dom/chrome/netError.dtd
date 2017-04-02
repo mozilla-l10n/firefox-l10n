@@ -77,11 +77,11 @@
 
 <!ENTITY securityOverride.linkText "或者，您可以添加一个例外…">
 <!ENTITY securityOverride.warningContent "
-<p>您不应该在使用的是您不完全信任的互联网连接，或者没有常常遇到警告的情况下，为此服务器添加例外。</p>
+<p>您不应该在使用无法完全信任的网络连接，或者总是遇到这种警告的情况下，为此服务器添加例外。</p>
 <p>如果你仍然想为此站点添加例外，可以在高级加密设置中这样做。</p>
 ">
 
-<!ENTITY cspBlocked.title "已按内容安全策略拦截">
+<!ENTITY cspBlocked.title "已依照内容安全策略拦截">
 <!ENTITY cspBlocked.longDesc "<p>浏览器已按该页面包含的内容安全策略阻止该页面以该种方式加载。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
