@@ -897,5 +897,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg2                "享受安全的浏览体验吧！">
 <!ENTITY panicButton.thankyou.buttonlabel         "谢谢！">
 
-<!ENTITY emeLearnMoreContextMenu.label            "详细了解有关 DRM…">
+<!ENTITY emeLearnMoreContextMenu.label            "详细了解数字版权管理（DRM）…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
