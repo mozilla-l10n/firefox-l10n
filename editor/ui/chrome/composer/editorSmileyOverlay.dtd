@@ -12,8 +12,8 @@
 <!ENTITY smiley2Cmd.label "Մռայլ">
 <!ENTITY smiley2Cmd.accesskey "F">
 <!ENTITY smiley2Cmd.tooltip "Ներմուծել մռայլ դեմք">
-<!ENTITY smiley3Cmd.label "Հուշում">
-<!ENTITY smiley3Cmd.accesskey "W">
+<!ENTITY smiley3Cmd.label "Աչքով տալ">
+<!ENTITY smiley3Cmd.accesskey "Ա">
 <!ENTITY smiley3Cmd.tooltip "Ներմուծել թարթող դեմք">
 <!ENTITY smiley4Cmd.label "Լեզվանի">
 <!ENTITY smiley4Cmd.accesskey "T">
