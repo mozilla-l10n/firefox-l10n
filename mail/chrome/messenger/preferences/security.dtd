@@ -27,6 +27,8 @@
 
 
 <!-- Passwords -->
+
+<!ENTITY savedPasswords.intro           "&brandShortName; барлық тіркелгілер үшін парольдерді сақтай алады.">
 <!ENTITY useMasterPassword.label        "Мастер-парольді қолдану">
 <!ENTITY useMasterPassword.accesskey    "М">
 

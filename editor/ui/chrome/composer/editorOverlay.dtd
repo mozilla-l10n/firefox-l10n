@@ -66,11 +66,12 @@
 <!ENTITY FontSizeSelect.tooltip "Қаріп өлшемін таңдау">
 <!ENTITY decreaseFontSize.label "Кішірек">
 <!ENTITY decreaseFontSize.accesskey "к">
-
+<!ENTITY decrementFontSize.key "&lt;">
 <!-- < is above this key on many keyboards -->
+<!ENTITY decrementFontSize.key2 ","> 
 <!ENTITY increaseFontSize.label "Үлкенірек">
 <!ENTITY increaseFontSize.accesskey "Ү">
-
+<!ENTITY incrementFontSize.key "&gt;">
 <!-- > is above this key on many keyboards -->
 <!ENTITY incrementFontSize.key2 "."> 
 
