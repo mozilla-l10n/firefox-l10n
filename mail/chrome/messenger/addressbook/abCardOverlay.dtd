@@ -84,10 +84,10 @@
 
 <!ENTITY Work.tab                       "Жұмыс">
 <!ENTITY Work.accesskey                 "Ж">
-
-
-
-
+<!ENTITY JobTitle.label                 "Лауазымы:">
+<!ENTITY JobTitle.accesskey             "у">
+<!ENTITY Department.label               "Бөлім:">
+<!ENTITY Department.accesskey           "м">
 <!ENTITY Company.label                  "Мекеме:">
 <!ENTITY Company.accesskey              "М">
 <!ENTITY WorkAddress.label              "Адресі:">
@@ -142,8 +142,8 @@
 <!ENTITY Photo.tab                      "Фото">
 <!ENTITY Photo.accesskey                "о">
 <!ENTITY PhotoDesc.label                "Келесіден біреуін таңдаңыз:">
-
-
+<!ENTITY GenericPhoto.label             "Жалпы фото">
+<!ENTITY GenericPhoto.accesskey         "Ж">
 <!ENTITY DefaultPhoto.label             "Бастапқы">
 <!ENTITY PhotoFile.label                "Бұл компьютерде">
 <!ENTITY PhotoFile.accesskey            "Б">

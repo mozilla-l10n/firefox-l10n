@@ -9,8 +9,8 @@
 <!ENTITY abPropertiesMenu.accesskey         "и">
 <!ENTITY contactPropertiesMenu.label        "Контакт қасиеттері">
 <!ENTITY contactPropertiesMenu.accesskey    "и">
-
-
+<!ENTITY mailingListPropertiesMenu.label    "Хаттарды тарату тізімінің қасиеттері">
+<!ENTITY mailingListPropertiesMenu.accesskey "т">
 
 <!ENTITY addressbookPicker.label            "Адрестік кітапша:">
 <!ENTITY addressbookPicker.accesskey        "к">

@@ -14,10 +14,10 @@
 
 <!ENTITY NickName.label                        "Бүркеншік аты:">
 <!ENTITY NickName.accesskey                    "р">
-
-
-
-
+<!ENTITY SecondEmail.label                     "Қосымша эл.пошта">
+<!ENTITY SecondEmail.accesskey                 "ы">
+<!ENTITY Department.label                      "Бөлім">
+<!ENTITY Department.accesskey                  "л">
 <!ENTITY JobTitle.label                        "Атағы">
 <!ENTITY JobTitle.accesskey                    "А">
 <!ENTITY CellularNumber.label                  "Мобильді">
@@ -30,8 +30,8 @@
 <!ENTITY HomePhone.accesskey                   "Ү">
 <!ENTITY WorkPhone.label                       "Жұмыс телефоны">
 <!ENTITY WorkPhone.accesskey                   "Ж">
-
-
+<!ENTITY ChatName.label                        "Чат аты">
+<!ENTITY ChatName.accesskey                    "Ч">
 <!ENTITY sortAscending.label                   "Өсу ретімен">
 <!ENTITY sortAscending.accesskey               "с">
 <!ENTITY sortDescending.label                  "Кему ретімен">

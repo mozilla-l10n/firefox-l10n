@@ -14,12 +14,12 @@
 <!ENTITY newContact.label                               "Адрестік кітапша контакты…">
 <!ENTITY newContact.accesskey                           "к">
 <!ENTITY newContact.key                                 "N">
-
-
+<!ENTITY newListCmd.label                               "Хаттарды тарату тізімі…">
+<!ENTITY newListCmd.accesskey                           "м">
 <!ENTITY newAddressBookCmd.label                        "Адрестік кітапша…">
 <!ENTITY newAddressBookCmd.accesskey                    "к">
-
-
+<!ENTITY newLDAPDirectoryCmd.label                      "LDAP бумасы…">
+<!ENTITY newLDAPDirectoryCmd.accesskey                  "м">
 <!ENTITY newMessageCmd.label                            "Хабарлама">
 <!ENTITY newMessageCmd.key                              "M">
 <!ENTITY newMessageCmd.accesskey                        "Х">
@@ -31,15 +31,15 @@
 <!ENTITY closeCmd.accesskey                             "Ж">
 <!ENTITY printSetupCmd.label                            "Парақ баптаулары…">
 <!ENTITY printSetupCmd.accesskey                        "П">
-
-
-
-
-
-
+<!ENTITY printPreviewContactCmd.label                   "Контактты баспа алдында алдын-ала қарау">
+<!ENTITY printPreviewContactCmd.accesskey               "а">
+<!ENTITY printPreviewAddressBook.label                  "Адрестік кітапшаны баспа алдында алдын-ала қарау">
+<!ENTITY printPreviewAddressBook.accesskey              "к">
+<!ENTITY printContactCmd.label                          "Контактты баспаға шығару…">
+<!ENTITY printContactCmd.accesskey                      "п">
 <!ENTITY printContactCmd.key                            "P">
-
-
+<!ENTITY printAddressBook.label                         "Адрестік кітапшаны баспаға шығару…">
+<!ENTITY printAddressBook.accesskey                     "А">
 <!-- Edit Menu -->
 
 <!ENTITY editMenu.label                                 "Түзету">
@@ -71,8 +71,8 @@
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "е">
-
-
+<!ENTITY swapFirstNameLastNameCmd.label                 "Аты/фамилиясын орынмен ауыстыру">
+<!ENTITY swapFirstNameLastNameCmd.accesskey             "ы">
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
@@ -83,8 +83,8 @@
 <!ENTITY abPropertiesMenu.accesskey                     "и">
 <!ENTITY contactPropertiesMenu.label                    "Контакт қасиеттері">
 <!ENTITY contactPropertiesMenu.accesskey                "и">
-
-
+<!ENTITY mailingListPropertiesMenu.label                "Хаттарды тарату тізімінің қасиеттері">
+<!ENTITY mailingListPropertiesMenu.accesskey            "т">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Түрі">
@@ -93,39 +93,39 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "С">
 <!ENTITY menubarCmd.label                               "Мәзір жолағы">
 <!ENTITY menubarCmd.accesskey                           "М">
-
-
+<!ENTITY showAbToolbarCmd.label                         "Адрестік кітапшаның панелі">
+<!ENTITY showAbToolbarCmd.accesskey                     "а">
 <!ENTITY showTaskbarCmd.label                           "Қалып-күй жолағы">
 <!ENTITY showTaskbarCmd.accesskey                       "а">
 <!ENTITY customizeToolbar.label                         "Баптау…">
 <!ENTITY customizeToolbar.accesskey                     "а">
 <!ENTITY layoutMenu.label                               "Жайма">
 <!ENTITY layoutMenu.accesskey                           "й">
-
-
-
-
-
-
+<!ENTITY showDirectoryPane.label                        "Бумалар панелі">
+<!ENTITY showDirectoryPane.accesskey                    "Б">
+<!ENTITY showContactPane2.label                         "Контакт панелі">
+<!ENTITY showContactPane2.accesskey                     "К">
+<!ENTITY menu_ShowNameAs.label                          "Атын қалайшы көрсету:">
+<!ENTITY menu_ShowNameAs.accesskey                      "н">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.label                            "Аты Жөні">
 <!ENTITY firstLastCmd2.accesskey                        "А">
+<!ENTITY lastFirstCmd.label                             "Аты, Фамилиясы">
+<!ENTITY lastFirstCmd.accesskey                         "А">
 
 
-
-
-
-
+<!ENTITY sortMenu.label                                 "Бойынша сұрыптау:">
+<!ENTITY sortMenu.accesskey                             "Б">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label                                "Саймандар">
 <!ENTITY tasksMenu.accesskey                            "С">
-
-
+<!ENTITY messengerCmd.label                             "Пошта және жаңалықтар топтары">
+<!ENTITY messengerCmd.accesskey                         "П">
 <!ENTITY messengerCmd.commandkey                        "1">
-
-
+<!ENTITY searchAddressesCmd.label                       "Адрестерді іздеу…">
+<!ENTITY searchAddressesCmd.accesskey                   "з">
 <!ENTITY importCmd.label                                "Импорттау…">
 <!ENTITY importCmd.accesskey                            "И">
 <!ENTITY exportCmd.label                                "Экспорттау…">
@@ -138,23 +138,23 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY newContactButton.label                         "Жаңа контакт">
 <!ENTITY newContactButton.accesskey                     "к">
-
-
+<!ENTITY newlistButton.label                            "Жаңа тізім">
+<!ENTITY newlistButton.accesskey                        "т">
 <!ENTITY editPropertiesButton.label                     "Түзету">
 <!ENTITY propertiesContext.label                        "Қасиеттері">
 <!ENTITY propertiesContext.accesskey                    "и">
 <!ENTITY abPropertiesContext.label                      "Қасиеттері">
 <!ENTITY abPropertiesContext.accesskey                  "и">
-
-
-
-
+<!ENTITY editContactContext.label                       "Контактты түзету">
+<!ENTITY editContactContext.accesskey                   "е">
+<!ENTITY editMailingListContext.label                   "Тізімді түзету">
+<!ENTITY editMailingListContext.accesskey               "е">
 <!ENTITY newmsgButton.label                             "Жазу">
 <!ENTITY newmsgButton.accesskey                         "Ж">
-
-
-
-
+<!ENTITY newIM.label                                    "Лезде хабарлама">
+<!ENTITY newIM.accesskey                                "Л">
+<!ENTITY printButton.label                              "Баспаға шығару…">
+<!ENTITY printButton.accesskey                          "с">
 <!ENTITY deleteButton2.label                            "Өшіру">
 <!ENTITY deleteButton2.accesskey                        "Ө">
 <!-- Address Book Toolbar Tooltips -->
@@ -164,17 +164,19 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editPropertiesButton.tooltip                   "Таңдалған нәрсені түзету">
 <!ENTITY editAbPropertiesButton.tooltip                 "Таңдалған адрестік кітапшаның қасиеттерін түзету">
 <!ENTITY editContactPropertiesButton.tooltip            "Таңдалған контактты түзету">
-
-
-
-
+<!ENTITY editMailingListPropertiesButton.tooltip        "Таңдалған хаттарды тарату тізімін түзету">
+<!ENTITY newmsgButton.tooltip                           "Пошта хабарламасын жіберу">
+<!ENTITY newIM.tooltip                                  "Лезде хабарламаны немесе чатты жіберу">
+<!ENTITY deleteButton2.tooltip                          "Таңдалған нәрсені өшіру">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Адрестік кітапшалар">
 <!-- Search Bar -->
 
-
-
+<!ENTITY SearchNameOrEmail.label                        "Аты немесе эл. поштасы">
+<!ENTITY SearchNameOrEmail.accesskey                    "т">
+<!ENTITY advancedButton.tooltip                         "Кеңейтілген адресті іздеу">
+<!ENTITY quickSearchCmd.key                             "з">
 <!ENTITY searchItem.title "Жылдам іздеу">
 <!-- Results Pane -->
 
@@ -184,16 +186,16 @@ because displayed names don't have the comma in between. -->
 <!ENTITY GeneratedName.accesskey                        "А">
 <!ENTITY PrimaryEmail.label                             "Эл.пошта:">
 <!ENTITY PrimaryEmail.accesskey                         "Э">
-
-
+<!ENTITY ChatName.label                                 "Чат аты">
+<!ENTITY ChatName.accesskey                             "Ч">
 <!ENTITY Company.label                                  "Мекеме">
 <!ENTITY Company.accesskey                              "М">
 <!ENTITY NickName.label                                 "Бүркеншік аты">
 <!ENTITY NickName.accesskey                             "р">
-
-
-
-
+<!ENTITY SecondEmail.label                              "Қосымша эл.пошта">
+<!ENTITY SecondEmail.accesskey                          "ы">
+<!ENTITY Department.label                               "Бөлім">
+<!ENTITY Department.accesskey                           "л">
 <!ENTITY JobTitle.label                                 "Атағы">
 <!ENTITY JobTitle.accesskey                             "А">
 <!ENTITY CellularNumber.label                           "Мобильді">
@@ -216,7 +218,7 @@ because displayed names don't have the comma in between. -->
 <!-- Box Headings -->
 
 <!ENTITY contact.heading                                "Контакт">
-
+<!ENTITY home.heading                                   "Үй">
 <!ENTITY other.heading                                  "Басқа">
 <!ENTITY chat.heading                                   "Әңгіме">
 <!ENTITY phone.heading                                  "Телефоны">
@@ -226,7 +228,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY addresses.heading                              "Адрестер">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Картаны алу">
-
+<!ENTITY mapIt.tooltip                                  "Бұл адрес үшін интернеттен картаны көрсету">
 <!-- Status Bar -->
 
 <!ENTITY statusText.label                               "">
