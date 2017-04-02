@@ -8,7 +8,7 @@
 <!ENTITY addToAddressBook.label         "Мынаған қосу:">
 
 <!ENTITY ListName.label                 "Тізімнің атауы:">
-
+<!ENTITY ListNickName.label             "Тізімнің ник аты:">
 <!ENTITY ListDescription.label          "Анықтамасы: ">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Хаттады тарату тізіміне қосу үшін эл. пошта адрестерін теріңіз:">
@@ -18,6 +18,6 @@
 
 <!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.accesskey             "з">
-
+<!ENTITY ListNickName.accesskey         "н">
 <!ENTITY ListDescription.accesskey      "ы">
 
