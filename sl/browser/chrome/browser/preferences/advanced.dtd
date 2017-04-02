@@ -40,7 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
-<!ENTITY crashReporterDesc2.label         "Poročila o sesutju brskalniku &vendorShortName; pomagajo popraviti težave in ga narediti bolj stabilnega in varnega">
+<!ENTITY crashReporterDesc2.label         "Poročila o sesutjih pomagajo organizaciji &vendorShortName; odpraviti težave z brskalnikom ter ga narediti stabilnejšega in varnejšega">
 <!ENTITY alwaysSubmitCrashReports.label   "Dovoli &brandShortName;u, da v vašem imenu pošilja poročila o sesutju iz zaloge">
 <!ENTITY alwaysSubmitCrashReports.accesskey "r">
 <!ENTITY crashReporterLearnMore.label     "Več o tem">
