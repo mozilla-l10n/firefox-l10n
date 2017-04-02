@@ -8,6 +8,9 @@
 <!ENTITY editorWindow.titlemodifiermenuseparator " - ">
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
 <!-- Toolbar-only items -->
+
+
+<!ENTITY compositionToolbar.tooltip "Құрастыру саймандары">
 <!ENTITY previewToolbarCmd.label "Шолу">
 <!ENTITY previewToolbarCmd.tooltip "Бұл парақты браузерде жүктеу">
 <!-- File menu items -->
@@ -20,6 +23,8 @@
 <!ENTITY sendPageCmd.accesskey "б">
 <!-- View menu items -->
 
+<!ENTITY compositionToolbarCmd.label "Құрастыру саймандары">
+<!ENTITY compositionToolbarCmd.accesskey "р">
 <!ENTITY formattingToolbarCmd.label "Пішімдеу саймандар панелі">
 <!ENTITY formattingToolbarCmd.accesskey "П">
 
