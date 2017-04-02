@@ -2,6 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY window.title                 "Listahan ng Block">
+<!ENTITY window.width                 "55 em">
 
+<!ENTITY treehead.list.label          "Listahan">
 <!ENTITY windowClose.key              "w">
 
+<!ENTITY button.cancel.label          "Kanselahin">
+<!ENTITY button.cancel.accesskey      "C">
+<!ENTITY button.ok.label              "I-save ang mga Pagbabago">
+<!ENTITY button.ok.accesskey          "S">
