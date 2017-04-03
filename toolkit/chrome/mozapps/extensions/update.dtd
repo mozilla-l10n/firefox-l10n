@@ -5,7 +5,7 @@
 <!ENTITY  updateWizard.title              "Обновяване на &brandShortName;">
 
 <!ENTITY  offline.title                   "&brandShortName; работи извън мрежата">
-<!ENTITY  offline.description             "На &brandShortName; е необходим достъп до Интертет, за да провери заналични обновявания за съвместимост на вашите добавки стази версия.">
+<!ENTITY  offline.description             "&brandShortName; се нуждае от достъп до интернет, за да направи проверка за обновявания за съвместимост на добавките с тази версия.">
 <!ENTITY  offline.toggleOffline.label     "Работа в мрежа.">
 <!ENTITY  offline.toggleOffline.accesskey "м">
 
