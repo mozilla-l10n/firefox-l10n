@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Adattar a la grondezza da la pagina">
 <!ENTITY customPrompt.title   "Scalaziun definida da l'utilisader...">
 <!ENTITY simplifyPage.label   "Simplifitgar la pagina">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "Modifitgar la visualisaziun per leger pli tgunsch">
 <!ENTITY simplifyPage.disabled.tooltip "Impussibel da simplifitgar automaticamain questa pagina">
 

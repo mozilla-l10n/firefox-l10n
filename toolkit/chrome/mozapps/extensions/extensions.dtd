@@ -20,6 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Utensils per tut ils supplements">
 
+<!ENTITY getThemes.description                "Vuls ti persunalisar tes navigatur?">
+<!ENTITY getThemes.learnMore                  "Tscherna da millis designs.">
 
 <!ENTITY cmd.back.tooltip                     "Ir enavos ina pagina">
 <!ENTITY cmd.forward.tooltip                  "Ir anavant ina pagina">
@@ -248,3 +250,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "manual">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
+<!ENTITY pluginDeprecation.description "Manca insatge? Tscherts plug-ins na vegnan betg pli sustegnids da &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Ulteriuras infurmaziuns.">
