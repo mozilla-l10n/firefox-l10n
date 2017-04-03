@@ -15,6 +15,7 @@
 
 <!ENTITY  generalTab            "General">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Titel:">
 <!ENTITY  generalURL            "Adressa:">
 <!ENTITY  generalType           "Tip:">
 <!ENTITY  generalMode           "Modus da vista:">
