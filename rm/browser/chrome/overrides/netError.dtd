@@ -104,11 +104,26 @@
 ">
 
 <!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
+<!ENTITY proxyResolveFailure.longDesc "
+<ul>
+  <li>Controllescha ch'ils parameters dal proxy server sajan corrects .</li>
+  <li>Controllescha che la connexiun dal computer cun la rait funcziuneschia.</li>
+  <li>Sch'il computer u la rait èn protegids dad ina firewall u dad in proxy, controllescha
+    che &brandShortName; haja ils dretgs necessaris per acceder al web.</li>
+</ul>
+">
 
 <!ENTITY redirectLoop.title "Cirquit da sviament">
 <!ENTITY redirectLoop.longDesc "<p>L'emprova da connectar cun l'adressa dumandada è vegnida interrutta. La website dumandada sviescha la dumonda uschia ch'ella na po mai vegnir terminada.</p><ul><li>Has ti bloccà u deactivà cookies indispensabels per questa website?</li><li><em>AVIS</em>: Per cas ch'i na gida betg d'acceptar ils cookies ed ils problems cun l'adressa dumandada persistan, sa tracti probablamain d'ina configuraziun fallada dal server e betg d'in problem da tes computer.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Resposta nuncorrecta">
+<!ENTITY unknownSocketType.longDesc "
+<ul>
+  <li>Controllescha ch'il Personal Security Manager saja installà sin 
+    il sistem</li>
+  <li>Il motiv è eventualmain ina configuraziun nunusitada sin il server.</li>
+</ul>
+">
 
 <!ENTITY nssFailure2.title "La connexiun segira n'è betg reussida">
 <!ENTITY nssFailure2.longDesc2 "<p>La pagina dumandada na po betg vegnir mussada, perquai che l'autenticitad da las datas na po betg vegnir verifitgada.</p><ul><li>Contactescha per plaschair ils administraturs da la website per infurmar els davart quest problem.</li></ul>">
