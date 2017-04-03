@@ -169,7 +169,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "С">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Споделяне на връзка">
+<!ENTITY shareLink.label "Споделяне на препратката">
 <!ENTITY shareLink.accesskey "С">
 <!ENTITY shareImage.label "Споделяне на изображение">
 <!ENTITY shareImage.accesskey "С">
@@ -481,7 +481,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.accesskey        "п">
 <!ENTITY openLinkInPrivateWindowCmd.label "Отваряне в поверителен прозорец">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "в">
-<!ENTITY openLinkCmdInCurrent.label     "Отваряне на връзката">
+<!ENTITY openLinkCmdInCurrent.label     "Отваряне на препратката">
 <!ENTITY openLinkCmdInCurrent.accesskey "ъ">
 <!ENTITY openFrameCmdInTab.label      "Отваряне в раздел">
 <!ENTITY openFrameCmdInTab.accesskey  "д">
@@ -537,8 +537,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveFrameCmd.accesskey       "р">
 <!ENTITY printFrameCmd.label          "Отпечатване на рамката…">
 <!ENTITY printFrameCmd.accesskey      "п">
-<!ENTITY saveLinkCmd.label            "Запазване на връзката като…">
-<!ENTITY saveLinkCmd.accesskey        "в">
+<!ENTITY saveLinkCmd.label            "Запазване на препратката като…">
+<!ENTITY saveLinkCmd.accesskey        "к">
 <!ENTITY saveImageCmd.label           "Запазване на изображението като…">
 <!ENTITY saveImageCmd.accesskey       "ж">
 <!ENTITY saveVideoCmd.label           "Запазване на видеото като…">
