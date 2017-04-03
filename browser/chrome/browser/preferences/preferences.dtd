@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "Cuntegn">
 <!ENTITY  paneApplications.title  "Applicaziuns">
 <!ENTITY  panePrivacy.title       "Protecziun da datas">
+<!ENTITY  paneContainers.title    "Tabs da container">
 <!ENTITY  paneSecurity.title      "Segirezza">
 <!ENTITY  paneAdvanced.title      "Extendì">
 

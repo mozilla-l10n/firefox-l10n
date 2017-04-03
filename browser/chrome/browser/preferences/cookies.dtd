@@ -21,6 +21,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "Tschertgar">
+<!ENTITY     searchFilter.accesskey         "T">
 
 <!ENTITY     button.close.label             "Serrar">
 <!ENTITY     button.close.accesskey         "S">

@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "Sche &brandShortName; vegn avià:">
 <!ENTITY startupPage.accesskey     "S">
+<!ENTITY startupUserHomePage.label "Mussar la pagina da partenza">
 <!ENTITY startupBlankPage.label    "Mussar ina pagina vida">
+<!ENTITY startupPrevSession.label  "Mussar las fanestras ed ils tabs da l'ultima sesida">
 
 <!ENTITY homepage.label            "Pagina da partenza:">
 <!ENTITY homepage.accesskey        "P">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "T">
 <!ENTITY chooseFolderMac.label        "Tscherner…">
 <!ENTITY chooseFolderMac.accesskey    "T">
+<!ENTITY alwaysAskWhere.label         "Adina dumandar nua ch'ina datoteca duai vegnir memorisada">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "Adina controllar sche &brandShortName; è il navigatur da standard">
 <!ENTITY alwaysCheckDefault2.accesskey    "d">
