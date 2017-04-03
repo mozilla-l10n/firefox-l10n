@@ -37,4 +37,34 @@
 # link title for https://www.mozilla.org/en-US/about/
 #define firefox_about Davart nus
 
+# LOCALIZATION NOTE (nightly_heading):
+# Firefox Nightly links folder name
+#define nightly_heading Resursas da Firefox nightly
+
+# LOCALIZATION NOTE (nightly_blog):
+# Nightly builds only, link title for https://blog.nightly.mozilla.org/
+#define nightly_blog Blog da Firefox nightly
+
+# LOCALIZATION NOTE (bugzilla):
+# Nightly builds only, link title for https://bugzilla.mozilla.org/
+#define bugzilla Collecziun da bugs da Mozilla
+
+# LOCALIZATION NOTE (mdn):
+# Nightly builds only, link title for https://developer.mozilla.org/
+#define mdn Mozilla Developer Network
+
+# LOCALIZATION NOTE (nightly_tester_tools):
+# Nightly builds only, link title for https://addons.mozilla.org/en-US/firefox/addon/nightly-tester-tools/
+#define nightly_tester_tools Utensils da test per nightly
+
+# LOCALIZATION NOTE (crashes):
+# Nightly builds only, link title for about:crashes
+#define crashes Tut ils collaps
+
+# LOCALIZATION NOTE (irc):
+# Nightly builds only, link title for ircs://irc.mozilla.org/nightly
+
+# LOCALIZATION NOTE (planet):
+# Nightly builds only, link title for https://planet.mozilla.org/
+
 #unfilter emptyLines
