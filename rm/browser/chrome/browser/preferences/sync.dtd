@@ -6,6 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "ils segnapaginas">
 <!ENTITY engine.bookmarks.accesskey "g">
+<!ENTITY engine.tabs.label2         "Tabs averts">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "la cronologia">
 <!ENTITY engine.history.accesskey   "r">
@@ -19,8 +20,11 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Num da l'apparat">
 <!ENTITY changeSyncDeviceName.label "Midar il num da l'apparat…">
+<!ENTITY changeSyncDeviceName.accesskey "i">
 <!ENTITY cancelChangeSyncDeviceName.label "Interrumper">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "m">
 <!ENTITY saveChangeSyncDeviceName.label "Memorisar">
+<!ENTITY saveChangeSyncDeviceName.accesskey "m">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Contract da licenza">
@@ -44,17 +48,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "Ti n'es betg annunzià.">
 <!ENTITY signIn.label                "S'annunziar">
+<!ENTITY signIn.accesskey            "a">
 <!ENTITY profilePicture.tooltip      "Midar il maletg da profil">
 <!ENTITY verifiedManage.label        "Administrar il conto">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "Deconnectar">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verifitgar l'adressa dad e-mail">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Emblidar questa adressa dad e-mail">
+<!ENTITY forget.accesskey            "q">
 
 <!ENTITY signedOut.caption            "Prenda tes web cun tai">
 <!ENTITY signedOut.description        "Sincronisescha tes segnapaginas, tia cronologia, tes tabs, tes pleds-clav, tes supplements e tias preferenzas cun tut tes apparats.">
 <!ENTITY signedOut.accountBox.title   "Connectar cun in &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Crear in conto">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "S'annunziar">
+<!ENTITY signedOut.accountBox.signin.accesskey  "a">
 
 <!ENTITY signedIn.engines.label       "Sincronisar cun tut tes apparats">
 
