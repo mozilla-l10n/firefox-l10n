@@ -47,6 +47,7 @@
 <!ENTITY generic.title "Oh Dieu!">
 <!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
 
+<!ENTITY captivePortal.title "S'annunziar tar la rait">
 
 
 <!ENTITY malformedURI.title "L'adressa è nunvalida">
@@ -94,6 +95,13 @@
 ">
 
 <!ENTITY proxyConnectFailure.title "Il proxy server refusescha la connexiun">
+<!ENTITY proxyConnectFailure.longDesc "
+<ul>
+  <li>Controllescha ch'ils parameters dal proxy server sajan corrects .</li>
+  <li>Contactescha l'administratur da tia rait per far la segira ch'il proxy server 
+    è en funcziun.</li>
+</ul>
+">
 
 <!ENTITY proxyResolveFailure.title "Impussibel da chattar il proxy server">
 
