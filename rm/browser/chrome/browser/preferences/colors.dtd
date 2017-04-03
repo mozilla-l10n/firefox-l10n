@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "44em">
 <!ENTITY  window.macWidth                 "44em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Remplazzar las colurs specifitgadas da la pagina cun la selecziun survart:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "R">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Adina">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Mo en designs cun grond cuntrast">
+<!ENTITY  overrideDefaultPageColors.never.label  "Mai">
 
 <!ENTITY  color                           "Text e fund davos">
 <!ENTITY  textColor.label                 "Text:">

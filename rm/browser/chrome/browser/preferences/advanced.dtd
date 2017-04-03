@@ -41,6 +41,8 @@
 <!ENTITY telemetryLearnMore.label        "Ulteriuras infurmaziuns ">
 
 <!ENTITY crashReporterDesc2.label         "Annunzias da collaps gidan a &vendorShortName; da schliar problems e render tes navigatur pli stabel e segir">
+<!ENTITY alwaysSubmitCrashReports.label   "Permetter a &brandShortName; da trametter rapports da collaps anc betg tramess">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Ulteriuras infurmaziuns ">
 
 <!ENTITY networkTab.label                "Rait">
@@ -56,8 +58,12 @@
 <!ENTITY offlineStorage2.label           "Cuntegn da web per l'utilisaziun offline e datas d'utilisader">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Datas da la pagina">
+<!ENTITY clearSiteData.label             "Stizzar tut las datas">
+<!ENTITY clearSiteData.accesskey         "t">
 <!ENTITY siteDataSettings.label          "Parameters…">
 <!ENTITY siteDataSettings.accesskey      "r">
+<!ENTITY siteDataLearnMoreLink.label     "Ulteriuras infurmaziuns">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -77,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Actualisaziun">
 
+<!ENTITY updateApplication.label         "Actualisaziuns da &brandShortName;">
 <!ENTITY updateAuto1.label               "Installar automaticamain actualisaziuns (recumandà, pli segir)">
 <!ENTITY updateAuto1.accesskey           "I">
+<!ENTITY updateCheckChoose.label         "Tschertgar actualisaziuns, ma dumandar avant che installar">
+<!ENTITY updateCheckChoose.accesskey     "T">
 <!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -88,9 +97,14 @@
 <!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "r">
 
+<!ENTITY autoUpdateOthers.label          "Actualisar automaticamain">
 <!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
 <!ENTITY enableSearchUpdate.accesskey    "s">
 
+<!ENTITY offlineStorageNotify.label               "Dumandar en cas che websites vulan memorisar datas per l'utilisaziun offline">
+<!ENTITY offlineStorageNotify.accesskey           "D">
+<!ENTITY offlineStorageNotifyExceptions.label     "Excepziuns…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "Suandantas paginas d'internet dastgan memorisar datas per l'utilisaziun offline:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -99,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Allontanar las datas offline">
 
 <!ENTITY certificateTab.label            "Certificats">
+<!ENTITY certPersonal.label              "Dumondas">
+<!ENTITY certPersonal.description        "Sch'ina website dumonda il certificat da segirezza persunal:">
+<!ENTITY selectCerts.auto                "Tscherner automaticamain in">
+<!ENTITY selectCerts.auto.accesskey      "T">
+<!ENTITY selectCerts.ask                 "Dumandar mintga giada">
+<!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Laschar confermar la validitad da certificats entras dumandar servers da OCSP">
 <!ENTITY enableOCSP.accesskey            "c">
 <!ENTITY viewCerts.label                 "Mussar ils certificats">
