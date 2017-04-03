@@ -30,7 +30,7 @@
 
 <!ENTITY firstrun_readerview_title "Artykuły">
 <!ENTITY firstrun_readerview_message "Popraw czytelność">
-<!ENTITY firstrun_readerview_subtext "Funkcja poprawiania czytelności ułatwia czytanie artykułów – i działa także w trybie offline.">
+<!ENTITY firstrun_readerview_subtext "Funkcja poprawiania czytelności ułatwia czytanie artykułów – i działa także w trybie offline.">
 
 <!ENTITY firstrun_account_title "Ty">
 <!ENTITY firstrun_account_message "Masz przeglądarkę &brandShortName; na innych urządzeniach?">
