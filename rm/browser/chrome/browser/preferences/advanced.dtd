@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Permetter da marcar text cun la tastatura">
 <!ENTITY useCursorNavigation.accesskey   "m">
+<!ENTITY searchOnStartTyping.label       "Retschertgar il text cura che ti cumenzas a tippar">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Avertir sche websites emprovan da renviar u rechargiar la pagina">
+<!ENTITY blockAutoReload.accesskey       "v">
 <!ENTITY useOnScreenKeyboard.label       "Mussar ina tastatura tactila sche necessari">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "n">
 <!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
 <!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY checkUserSpelling.label         "Controllar l'ortografia durant l'endataziun">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Decisiuns da datas">
 
@@ -34,6 +40,7 @@
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Ulteriuras infurmaziuns ">
 
+<!ENTITY crashReporterDesc2.label         "Annunzias da collaps gidan a &vendorShortName; da schliar problems e render tes navigatur pli stabel e segir">
 <!ENTITY crashReporterLearnMore.label     "Ulteriuras infurmaziuns ">
 
 <!ENTITY networkTab.label                "Rait">
