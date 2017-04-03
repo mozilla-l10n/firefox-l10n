@@ -65,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Fanestras da plirs process">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Clav da Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Clav dal servetsch da posiziun da Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Modus privat">
 
@@ -75,6 +77,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Mussar en il finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Avrir l'ordinatur">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Impurtantas preferenzas modifitgadas">
 <!ENTITY aboutSupport.modifiedPrefsName "Num">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copiar las datas bruttas en l'archiv provisoric">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Cloms dal sistem refusads">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Avant secundas">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Tip da process">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "Empruvar il modus segirà">
 <!ENTITY aboutSupport.restartInSafeMode.label "Reaviar cun supplements deactivads…">
