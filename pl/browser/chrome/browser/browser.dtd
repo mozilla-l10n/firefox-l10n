@@ -159,10 +159,8 @@
 <!ENTITY backForwardButtonMenu.tooltip "Kliknij prawym przyciskiem lub rozwiń, by wyświetlić historię">
 <!ENTITY backForwardButtonMenuMac.tooltip "Rozwiń, by wyświetlić historię">
 <!ENTITY reloadCmd.label "Odśwież" >
-<!ENTITY reloadButton.tooltip "Odśwież bieżącą stronę" >
 <!ENTITY stopCmd.label "Zatrzymaj" >
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Zatrzymaj wczytywanie bieżącej strony" >
 <!ENTITY goEndCap.tooltip "Przejdź do strony o podanym adresie" >
 <!ENTITY printButton.label "Drukuj" >
 <!ENTITY printButton.tooltip "Drukuj bieżącą stronę">
@@ -189,7 +187,6 @@
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tą stronę zostało zablokowane">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej strony zostały zablokowane">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
-<!ENTITY urlbar.zoomReset.tooltip "Przywróć oryginalny rozmiar">
 
 <!ENTITY searchItem.title "Znajdź" >
 
