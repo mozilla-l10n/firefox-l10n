@@ -10,7 +10,7 @@
 <!-- Specific error messages -->
 
 
-<!ENTITY connectionFailure.title "جڑنے میں ناکامیاب">
+<!ENTITY connectionFailure.title "جڑنے میں ناکام">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "یہ پتہ رسٹرکٹڈ ہے">
