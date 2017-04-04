@@ -285,7 +285,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "活动流">
-<!ENTITY pref_activity_stream_summary "将您的上网足迹可视化并重新构想首页设计，愿您能更方便地在 &brandShortName; 中找到想要的信息。">
+<!ENTITY pref_activity_stream_summary "将您的上网足迹可视化并重新构想首页设计，让您能更方便地在 &brandShortName; 中找到想要的信息。">
 
 <!ENTITY tracking_protection_prompt_title "现在有了跟踪保护功能">
 <!ENTITY tracking_protection_prompt_text "主动拦截跟踪您的元素，不再需要担心。">
@@ -843,13 +843,13 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_bookmarked "书签">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_visited "曾访问">
+<!ENTITY activity_stream_highlight_label_visited "访问过">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "消除">
-<!ENTITY activity_stream_delete_history "删除历史记录">
+<!ENTITY activity_stream_dismiss "隐藏">
+<!ENTITY activity_stream_delete_history "从历史记录删除">
 
-<!ENTITY activity_stream_welcome_title "欢迎访问您的集锦">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; 现在将您曾阅览的网上内容展现出来，以便您重新查阅有用的文章、视频、书签或其他页面。">
+<!ENTITY activity_stream_welcome_title "欢迎！这里是您的集锦">
+<!ENTITY activity_stream_welcome_content1 "现在，&brandShortName; 会把您在网上的新发现整理成集锦，方便您快速回到这些有用的文章、视频、加了书签的网页等。">
