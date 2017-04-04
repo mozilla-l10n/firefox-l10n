@@ -370,7 +370,7 @@ size. -->
 <!ENTITY pref_voice_input "Ket me dwon">
 
 <!ENTITY pref_qrcode_enabled "Lakwan kod me QR">
-
+<!ENTITY pref_qrcode_enabled_summary2 "Yee lameny QR i lanyut me URL">
 
 <!ENTITY pref_use_master_password "Tii ki i cwil me donyo ma dit">
 <!ENTITY pref_sync2 "Dony iye">
