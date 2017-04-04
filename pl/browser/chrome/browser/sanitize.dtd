@@ -12,8 +12,6 @@
 
 <!ENTITY clearDataSettings2.label     "Podczas zamykania programu &brandShortName; powinny zostać usunięte następujące elementy:">
 
-<!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
-     See UI mockup at bug 480169 -->
 <!ENTITY clearTimeDuration.label          "Okres do wyczyszczenia: ">
 <!ENTITY clearTimeDuration.accesskey      "O">
 <!ENTITY clearTimeDuration.lastHour       "ostatnia godzina">
@@ -21,23 +19,13 @@
 <!ENTITY clearTimeDuration.last4Hours     "ostatnie cztery godziny">
 <!ENTITY clearTimeDuration.today          "dzisiaj">
 <!ENTITY clearTimeDuration.everything     "wszystko">
-<!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
-that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Data odwiedzin">
-<!ENTITY clearTimeDuration.nameColumn     "Nazwa">
-<!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
-     of the "Details" progressive disclosure button.  See UI mockup at bug
-     480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "Szczegóły">
 <!ENTITY detailsProgressiveDisclosure.accesskey "S">
 
 <!ENTITY historySection.label         "Historia">
 <!ENTITY dataSection.label            "Dane">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Historia przeglądanych stron i pobranych plików">
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemFormSearchHistory.label       "Dane formularzy i historia wyszukiwania">
@@ -53,7 +41,4 @@ that require it.  -->
 <!ENTITY itemSitePreferences.label         "Ustawienia witryn">
 <!ENTITY itemSitePreferences.accesskey     "U">
 
-<!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
-     that appears when "Time range to clear" is set to "Everything".  See UI
-     mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning "Tej czynności nie można cofnąć.">
