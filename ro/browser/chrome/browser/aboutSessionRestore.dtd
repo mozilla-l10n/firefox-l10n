@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "Ne pare rău.">
+<!ENTITY restorepage.errorTitle     "Ei, asta e jenant.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; are probleme la restaurarea ferestrelor și filelor tale. Acest lucru este de obicei cauzat de o pagină web deschisă recent.">
 <!ENTITY restorepage.tryThis        "Poți încerca:">
 <!ENTITY restorepage.restoreSome    "Eliminarea uneia sau mai multor file care crezi că pot fi cauza problemei">
