@@ -34,6 +34,6 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 
-<!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser anulada.">
+<!ENTITY sanitizeEverythingUndoWarning     "Esta ação não pode ser desfeita.">
 
 <!ENTITY dialog.width                 "32em">
