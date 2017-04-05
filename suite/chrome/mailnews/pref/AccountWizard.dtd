@@ -121,4 +121,4 @@
 <!ENTITY deferStorage.label "Utilizar caixa de correio global (guardar correio em pastas locais)">
 <!ENTITY deferStorage.accesskey "g">
 <!ENTITY clickFinish.label "Clique em Concluir para guardar estas definições e sair do assistente.">
-<!ENTITY clickFinish.labelMac "Clique em Terminar para guardar estas definições e sair do assistente.">
+<!ENTITY clickFinish.labelMac "Clique em Feito para guardar estas definições e sair do assistente.">
