@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>کسی وجہ سے یہ صفح لوڈ نہیں کر سکتا &brandShortName;</p>">
 
 <!ENTITY captivePortal.title "نیٹ ورک میں لاگ ان کریں">
-
+<!ENTITY captivePortal.longDesc2 "<p>انٹرنیٹ رسائی حاصل کرنے کے لئے اپکو پہلے اس نیٹورک پر لاگ ان کرنا ہوگا۔</p>">
 
 <!ENTITY openPortalLoginPage.label2 "نیٹ ورک کا لاگ ان صفحہ کھولیں">
 
