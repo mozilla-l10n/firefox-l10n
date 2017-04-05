@@ -926,7 +926,7 @@
 <!ENTITY openLinkInBrowser.accesskey "o">
 <!-- Statusbar -->
 
-<!ENTITY statusText.label "Terminado">
+<!ENTITY statusText.label "Feito">
 <!-- Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.label "Minimizar">
