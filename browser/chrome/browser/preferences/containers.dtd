@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "নতুন কন্টেইনার যোগ">
 <!ENTITY addButton.accesskey  "A">
 <!ENTITY preferencesButton.label "পছন্দসমূহ">
-
+<!ENTITY removeButton.label   "অপসারণ">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; গোপনীয়তা নীতিতে ফেরত যাও">
 
