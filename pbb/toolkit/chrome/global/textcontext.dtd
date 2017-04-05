@@ -1,0 +1,37 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY cutCmd.label "Spẽhna">
+<!ENTITY cutCmd.accesskey "S">
+<!ENTITY copyCmd.label "Kaapsxidun">
+<!ENTITY copyCmd.accesskey "K">
+<!ENTITY pasteCmd.label "Çxkitxanxi">
+<!ENTITY pasteCmd.accesskey "Ç">
+<!ENTITY undoCmd.label "Khũkhnxi">
+<!ENTITY undoCmd.accesskey "K">
+<!ENTITY selectAllCmd.label "Txhitxnaar jxuka">
+<!ENTITY selectAllCmd.accesskey "a">
+<!ENTITY deleteCmd.label "Khũkhna">
+<!ENTITY deleteCmd.accesskey "K">
+
+<!ENTITY spellAddToDictionary.label "Yuwe tasxa's kãjãna ">
+<!ENTITY spellAddToDictionary.accesskey "k">
+<!ENTITY spellUndoAddToDictionary.label "Nuyvxitun Kãjã'na yuwe &amp; tasxa's">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
+<!ENTITY spellCheckToggle.label "Kaayaki'n&amp; ew fxi'hwa'h">
+<!ENTITY spellCheckToggle.accesskey "g">
+<!ENTITY spellNoSuggestions.label "(Yu'kxpeenxime' ew fxi'hwa'ja's)">
+<!ENTITY spellDictionaries.label "Yuwe">
+<!ENTITY spellDictionaries.accesskey "Y">
+
+<!ENTITY searchTextBox.clear.label "Khũkhna">
+
+<!ENTITY fillLoginMenu.label          "Nuyuutan takhna pakhena">
+<!ENTITY fillLoginMenu.accesskey      "N">
+<!ENTITY fillPasswordMenu.label       "Nuyuutan çxhukte ji'phunxi's">
+<!ENTITY fillPasswordMenu.accesskey   "N">
+<!ENTITY fillUsernameMenu.label       "Txãajx yase's nuyuutan ">
+<!ENTITY fillUsernameMenu.accesskey   "T">
+<!ENTITY noLoginSuggestions.label     "(Pta'sxmee ũsthu u'kan takhnxiju)">
+<!ENTITY viewSavedLogins.label        "Thẽgya' takhna pkhakhen jxawa'ja's ">

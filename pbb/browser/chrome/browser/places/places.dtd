@@ -1,0 +1,120 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
+
+<!ENTITY places.library.title  "Paynxisa">
+<!ENTITY places.library.width  "700">
+<!ENTITY places.library.height "500">
+<!ENTITY organize.label        "Phewuhna">
+<!ENTITY organize.accesskey    "P">
+<!ENTITY organize.tooltip      "Phewuhna mep idx txi'pupnxitxi">
+
+<!ENTITY file.close.label               "Aphna">
+<!ENTITY file.close.accesskey           "A">
+<!ENTITY cmd.close.key                  "w">
+<!ENTITY views.label                    "Thegnxii">
+<!ENTITY views.accesskey                "T">
+<!ENTITY views.tooltip                  "Thegnxi's nxu'ptheth">
+<!ENTITY view.columns.label             "Puçtewesxtx ta'sxth">
+<!ENTITY view.columns.accesskey         "P">
+<!ENTITY view.sort.label                "Ikahna">
+<!ENTITY view.sort.accesskey            "I">
+<!ENTITY view.unsorted.label            "Ikahnximee">
+<!ENTITY view.unsorted.accesskey        "I">
+<!ENTITY view.sortAscending.label       "Phewuhna A > Z">
+<!ENTITY view.sortAscending.accesskey   "A">
+<!ENTITY view.sortDescending.label      "Phewuhn Z > A">
+<!ENTITY view.sortDescending.accesskey  "Z">
+
+<!ENTITY importBookmarksFromHTML.label     "Na txipupnxisa jxunpahnxisata…">
+<!ENTITY importBookmarksFromHTML.accesskey "N">
+<!ENTITY exportBookmarksToHTML.label       "Na txi'pupnxisa kahwahtha'…">
+<!ENTITY exportBookmarksToHTML.accesskey   "N">
+<!ENTITY importOtherBrowser.label          "Yasetx jxunpahn txtee…">
+<!ENTITY importOtherBrowser.accesskey      "Y">
+
+<!ENTITY cmd.backup.label               "Psxindna…">
+<!ENTITY cmd.backup.accesskey           "P">
+<!ENTITY cmd.restore2.label             "Phewuhn">
+<!ENTITY cmd.restore2.accesskey         "P">
+<!ENTITY cmd.restoreFromFile.label      "Txitxn eç jxawnxisa's… ">
+<!ENTITY cmd.restoreFromFile.accesskey  "T">
+
+<!ENTITY cmd.deleteDomainData.label     "Peçxkanun ayte weba's">
+<!ENTITY cmd.deleteDomainData.accesskey "P">
+
+<!ENTITY cmd.open.label                  "Phaden">
+<!ENTITY cmd.open.accesskey              "P">
+<!ENTITY cmd.open_window.label           "Phaden vxite vxitx le'çxkwes">
+<!ENTITY cmd.open_window.accesskey       "P">
+<!ENTITY cmd.open_private_window.label     "Paçte vxitx le'çxkwes phaden">
+<!ENTITY cmd.open_private_window.accesskey "P">
+<!ENTITY cmd.open_tab.label              "Phaden vxite u'sesa's">
+<!ENTITY cmd.open_tab.accesskey          "u">
+<!ENTITY cmd.open_all_in_tabs.label      "Jxuka kaskhewujnxite çehk phaden">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "J">
+
+<!ENTITY cmd.properties.label      "Petxjĩçekh">
+<!ENTITY cmd.properties.accesskey  "P">
+
+<!ENTITY cmd.sortby_name.label              "Yase isa phewuhn">
+<!ENTITY cmd.sortby_name.accesskey          "Y">
+<!ENTITY cmd.context_sortby_name.accesskey  "r">
+
+<!ENTITY cmd.new_bookmark.label            "U'se txi'pnxisa…">
+<!ENTITY cmd.new_bookmark.accesskey        "U">
+<!ENTITY cmd.new_folder.label              "U'se eç jxawnxisa…">
+<!ENTITY cmd.new_folder.accesskey          "U">
+<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_separator.label           "U'se txudesa">
+<!ENTITY cmd.new_separator.accesskey       "U">
+
+<!ENTITY cmd.reloadLivebookmark.label      "Ktusehn wejxiçxa txi'pupnxisa selpisa">
+<!ENTITY cmd.reloadLivebookmark.accesskey  "K">
+
+<!ENTITY cmd.moveBookmarks.label                  "Kẽsehn…">
+<!ENTITY cmd.moveBookmarks.accesskey              "K">
+
+<!ENTITY col.name.label          "Yase">
+<!ENTITY col.tags.label          "Kã'sxisxnxita">
+<!ENTITY col.url.label           "Dxijanxi">
+<!ENTITY col.mostrecentvisit.label "Pahnxii wejx u'se">
+<!ENTITY col.visitcount.label    "Isaçx txte pahnxii">
+<!ENTITY col.description.label   "Pta'sxisxnxi">
+<!ENTITY col.dateadded.label     "Kãjanxisa">
+<!ENTITY col.lastmodified.label  "Nmehte yu'thewa'hsaa">
+
+<!ENTITY search.label                              "Pakwen:">
+<!ENTITY search.accesskey                          "P">
+
+<!ENTITY cmd.find.key  "f">
+
+<!ENTITY maintenance.label      "Pu'çxna nuypahjxa'">
+<!ENTITY maintenance.accesskey  "P">
+<!ENTITY maintenance.tooltip    "Txãa txi'pupnxisatx jxun uhna txi' jxunpahna">
+
+<!ENTITY backButton.tooltip  "Sxawed uhjnah">
+
+<!ENTITY forwardButton.tooltip  "Yaçuhj uhjnah">
+
+<!ENTITY detailsPane.more.label "Wejx içxa">
+<!ENTITY detailsPane.more.accesskey "W">
+<!ENTITY detailsPane.less.label "Le'çx le'çx">
+<!ENTITY detailsPane.less.accesskey "L">
+<!ENTITY detailsPane.selectAnItemText.description "Mtxitx vxite kãjanxisa txã'nxuçxa fxi'hjya ewuna petxjĩtxih">
+
+<!ENTITY find.label               "Pakwen">
+<!ENTITY find.accesskey           "P">
+<!ENTITY view.label               "Thegna">
+<!ENTITY view.accesskey           "T">
+<!ENTITY byDate.label             "Eentx isan">
+<!ENTITY byDate.accesskey         "E">
+<!ENTITY bySite.label             "Txawẽ ayte">
+<!ENTITY bySite.accesskey         "T">
+<!ENTITY byMostVisited.label      "Na' thakwe isaçx pahnxisa">
+<!ENTITY byMostVisited.accesskey  "p">
+<!ENTITY byLastVisited.label      "Nmehj pahnxisa">
+<!ENTITY byLastVisited.accesskey  "L">
+<!ENTITY byDayAndSite.label       "Txawẽn aytewe'sx txi'pte">
+<!ENTITY byDayAndSite.accesskey   "t">

@@ -1,0 +1,20 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tabs.otherDevices.label               "Txunden vxite vxi'snxiisu">
+
+<!ENTITY tabs.searchText.label                   "Ayte mfxi' Txundenxi's pakwen…">
+<!-- LOCALIZATION NOTE (tabs.context.openTab.accesskey, tabs.context.openMultipleTabs.accesskey):
+     Only one of these will show at a time (based on selection), so reusing accesskey is ok. -->
+
+<!ENTITY tabs.context.openTab.label                   "Na' txundenxisa's pha'nden">
+<!ENTITY tabs.context.openTab.accesskey               "t">
+<!ENTITY tabs.context.openMultipleTabs.label          "Txundenxisa'tx phanden txjitxçxa">
+<!ENTITY tabs.context.openMultipleTabs.accesskey      "ç">
+<!ENTITY tabs.context.bookmarkSingleTab.label         "Na's txipna txi'puhnxisa's aphnxite txundenxisa's…">
+<!ENTITY tabs.context.bookmarkSingleTab.accesskey     "a">
+<!ENTITY tabs.context.bookmarkMultipleTabs.label      "Kajãçxa txi'pupnxisa'tx txji'txçxa txuden…">
+<!ENTITY tabs.context.bookmarkMultipleTabs.accesskey  "a">
+<!ENTITY tabs.context.refreshList.label               "Ktusejnxaçx ũ'sa">
+<!ENTITY tabs.context.refreshList.accesskey           "K">
