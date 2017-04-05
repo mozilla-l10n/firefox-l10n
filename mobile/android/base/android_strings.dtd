@@ -747,7 +747,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Menu">
-<!ENTITY actionbar_done "OK">
+<!ENTITY actionbar_done "Feito">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Fale agora">
