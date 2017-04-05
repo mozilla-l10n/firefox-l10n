@@ -70,7 +70,7 @@
 <!ENTITY bookmarksToolbarChevron.tooltip "Mostrar mais marcadores">
 <!-- Statusbar -->
 
-<!ENTITY  statusText.label            "OK">
+<!ENTITY  statusText.label            "Feito">
 
 <!ENTITY popupIcon.tooltiptext      "Desbloquear janelas pop-up deste site">
 
