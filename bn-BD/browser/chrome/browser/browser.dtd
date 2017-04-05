@@ -67,11 +67,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "ফাইল খুলুন…">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
-<!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস… u">
+<!ENTITY printSetupCmd.label "পৃষ্ঠার বিন্যাস…">
 <!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "মুদ্রণের প্রাকদর্শন v">
 <!ENTITY printPreviewCmd.accesskey "v">
-<!ENTITY printCmd.label "মুদ্রণ… P">
+<!ENTITY printCmd.label "মুদ্রণ…">
 <!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "পুনরায় লোড">
 <!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা পুনরায় লোড">
 <!ENTITY stopCmd.label                "থামুন">
-<!ENTITY stopCmd.macCommandKey        ".">
+
 <!ENTITY stopButton.tooltip           "পৃষ্ঠা লোড করা স্থগিত করা হবে">
 <!ENTITY goEndCap.tooltip             "ঠিকানার বারে উল্লেখিত পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY printButton.label            "মুদ্রণ">
@@ -225,11 +225,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "পাতার অনুবাদ নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM সফটওয়্যারের ব্যবহার নিয়ন্ত্রণ করুন">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "আপনি এই ওয়েব সাইটের জন্য আপনার ক্যামেরা ব্লক করেছেন">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "আপনি এই ওয়েব সাইটের জন্য আপনার মাইক্রোফোন ব্লক করেছেন।">
-<!ENTITY urlbar.screenBlocked.tooltip            "আপনি ওয়েবসাইটটিকে ব্লক করেছেন যেন আপনার স্ক্রিন শেয়ার না হয়।">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন।">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "আপনি এই ওয়েব সাইটের জন্য ডাটা স্টোরেজ ব্লক করেছেন।">
+<!ENTITY urlbar.cameraBlocked.tooltip            "আপনি এই ওয়েব সাইটের জন্য আপনার ক্যামেরা ব্লক করেছেন।">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "আপনি এই ওয়েব সাইটের জন্য আপনার মাইক্রোফোন ব্লক করেছেন">
+<!ENTITY urlbar.screenBlocked.tooltip            "আপনি ওয়েবসাইটটিকে ব্লক করেছেন যেন আপনার স্ক্রিন শেয়ার না হয়">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "আপনি এই ওয়েব সাইটের জন্য ডাটা স্টোরেজ ব্লক করেছেন">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
