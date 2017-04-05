@@ -42,4 +42,4 @@
 <!ENTITY useFirefoxSync.label             "Савет: Ово користи одвојене профиле. Користите Sync да делите податке између њих.">
 <!ENTITY getStarted.label                 "Почните да користите Sync…">
 
-<!ENTITY e10sEnabled.label                "Омогући мулти-процес &brandShortName;">
+<!ENTITY e10sEnabled.label                "Омогући вишепроцесни &brandShortName;">
