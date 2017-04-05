@@ -87,6 +87,8 @@
 <!ENTITY enableSearchUpdate.label "Wyszukiwarki">
 <!ENTITY enableSearchUpdate.accesskey "z">
 
+<!ENTITY reports.label "Raporty">
+
 <!ENTITY offlineStorageNotify.label "Pytaj, kiedy witryna prosi o możliwość przechowywania danych dla trybu offline">
 <!ENTITY offlineStorageNotify.accesskey "o">
 <!ENTITY offlineStorageNotifyExceptions.label "Wyjątki…">
@@ -99,7 +101,6 @@
 <!ENTITY offlineAppRemove.confirm        "Usuń dane trybu offline">
 
 <!ENTITY certificateTab.label            "Certyfikaty">
-<!ENTITY certPersonal.label "Żądania certyfikatów">
 <!ENTITY certPersonal.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
 <!ENTITY selectCerts.auto "wybierz certyfikat automatycznie">
 <!ENTITY selectCerts.auto.accesskey "a">

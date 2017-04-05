@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY general.label "Ogólne">
+<!ENTITY security.label "Bezpieczeństwo">
 
 <!ENTITY warnOnAddonInstall.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
 <!ENTITY warnOnAddonInstall.accesskey "O">
@@ -17,10 +17,10 @@
 <!ENTITY addonExceptions.label "Wyjątki…">
 <!ENTITY addonExceptions.accesskey "W">
 
-<!ENTITY logins.label "Dane logowania">
+<!ENTITY formsAndPasswords.label "Formularze i hasła">
 
-<!ENTITY rememberLogins.label "Zachowywanie danych logowania do witryn">
-<!ENTITY rememberLogins.accesskey "l">
+<!ENTITY rememberLogins1.label "Zachowywanie danych logowania do witryn">
+<!ENTITY rememberLogins1.accesskey "l">
 
 <!ENTITY useMasterPassword.label "Hasło główne">
 <!ENTITY useMasterPassword.accesskey "H">

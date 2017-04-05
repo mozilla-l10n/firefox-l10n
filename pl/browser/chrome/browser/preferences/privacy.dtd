@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tracking.label "Śledzenie">
-<!ENTITY trackingProtectionHeader.label "Ochrona przed śledzeniem">
+<!ENTITY trackingProtectionHeader2.label "Ochrona przed śledzeniem">
 <!ENTITY trackingProtectionAlways.label "Zawsze włączona">
 <!ENTITY trackingProtectionAlways.accesskey "Z">
 <!ENTITY trackingProtectionPrivate.label "W oknach prywatnych">
