@@ -21,6 +21,6 @@
 <!ENTITY color.accesskey      "o">
 <!ENTITY windowClose.key      "s">
 
-<!ENTITY button.ok.label      "OK">
-<!ENTITY button.ok.accesskey  "O">
+<!ENTITY button.ok.label      "Feito">
+<!ENTITY button.ok.accesskey  "F">
 
