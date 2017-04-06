@@ -19,7 +19,7 @@
 <!ENTITY clear.label        "Limpar">
 <!ENTITY clear.accesskey    "L">
 <!ENTITY codeEval.label     "Código:">
-<!ENTITY codeEval.accesskey "C">
+<!ENTITY codeEval.accesskey "o">
 <!ENTITY evaluate.label     "Avaliar">
 <!ENTITY evaluate.accesskey "v">
 <!ENTITY filter2.label      "Filtro:">

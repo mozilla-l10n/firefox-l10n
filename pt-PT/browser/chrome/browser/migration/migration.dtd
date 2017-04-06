@@ -31,16 +31,16 @@
 <!ENTITY noMigrationSources.label       "Não foram encontrados programas que contenham marcadores, histórico ou palavras-passe.">
 
 <!ENTITY importSource.title             "Importar definições e dados">
-<!ENTITY importItems.title              "Elementos a importar">
-<!ENTITY importItems.label              "Selecione os elementos a importar:">
+<!ENTITY importItems.title              "Itens a importar">
+<!ENTITY importItems.label              "Selecione os itens a importar:">
 
 <!ENTITY migrating.title                "A importar…">
-<!ENTITY migrating.label                "Estes elementos estão a ser importados…">
+<!ENTITY migrating.label                "Os seguintes itens estão atualmente a ser importados…">
 
 <!ENTITY selectProfile.title            "Selecionar Perfil">
 <!ENTITY selectProfile.label            "Os seguintes perfis estão disponíveis para importação de:">
 
 <!ENTITY done.title                     "Importação concluída">
-<!ENTITY done.label                     "Os seguintes elementos foram importados com sucesso:">
+<!ENTITY done.label                     "Os seguintes itens foram importados com sucesso:">
 
 <!ENTITY closeSourceBrowser.label       "Por favor certifique-se que o navegador selecionado está fechado.">

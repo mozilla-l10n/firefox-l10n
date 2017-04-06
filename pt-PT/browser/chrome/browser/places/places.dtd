@@ -102,7 +102,7 @@
 <!ENTITY detailsPane.more.accesskey "s">
 <!ENTITY detailsPane.less.label "Menos">
 <!ENTITY detailsPane.less.accesskey "o">
-<!ENTITY detailsPane.selectAnItemText.description "Selecione um elemento para ver e editar as suas propriedades">
+<!ENTITY detailsPane.selectAnItemText.description "Selecione um item para ver e editar as suas propriedades">
 
 <!ENTITY find.label               "Pesquisar:">
 <!ENTITY find.accesskey           "s">
