@@ -80,7 +80,7 @@
 
 <!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações indicadas. No entanto, deve contactar o administrador ou fornecedor de correio eletrónico sobre estas ligações incorretas. Para mais informações, consulte as FAQ do Thunderbird.">
 
-<!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor não é seguro.">
+<!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor é inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">
 
 <!ENTITY insecureUnencrypted.description "O seu endereço de email e autenticação são enviados sem encriptação. A sua palavra-passe (e a mensagem) podem ser facilmente intercetadas por terceiros. O &brandShortName; permite-lhe obter o correio, mas deve contactar o seu fornecedor de correio para configurar o servidor com uma ligação segura.">
