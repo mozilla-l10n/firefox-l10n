@@ -92,9 +92,9 @@
 <!ENTITY showAllTabsCmd.accesskey "W">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "Zaloguj się do &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Otwórz ustawienia &syncBrand.shortName.label;">
-<!ENTITY fxaSignInError.label "Zaloguj się ponownie do &syncBrand.shortName.label;">
+<!ENTITY fxaSignIn.label "Zaloguj się do synchronizacji">
+<!ENTITY fxaSignedIn.tooltip "Otwórz ustawienia synchronizacji">
+<!ENTITY fxaSignInError.label "Zaloguj się ponownie, aby synchronizować">
 <!ENTITY fxaUnverified.label "Zweryfikuj konto">
 
 <!ENTITY fullScreenMinimize.tooltip "Minimalizuj">
@@ -636,12 +636,12 @@
 <!ENTITY syncedTabs.context.managedevices.label "Zarządzaj urządzeniami…">
 <!ENTITY syncedTabs.context.managedevices.accesskey "Z">
 
-<!ENTITY syncBrand.shortName.label "Firefox Sync">
-<!ENTITY syncSignIn.label "Zaloguj się do &syncBrand.shortName.label;…">
+<!ENTITY syncBrand.shortName.label "Synchronizacja">
+<!ENTITY syncSignIn.label "Zaloguj się, aby rozpocząć synchronizację…">
 <!ENTITY syncSignIn.accesskey "s">
 <!ENTITY syncSyncNowItem.label        "Synchronizuj teraz">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label "Zaloguj się ponownie do &syncBrand.shortName.label;…">
+<!ENTITY syncReAuthItem.label "Zaloguj się ponownie, aby synchronizować…">
 <!ENTITY syncReAuthItem.accesskey "Z">
 <!ENTITY syncToolbarButton.label      "Synchronizuj">
 

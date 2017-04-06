@@ -20,8 +20,6 @@
 <!ENTITY paneContainers.title "Karty z kontekstem">
 <!ENTITY  paneSecurity.title      "Bezpieczeństwo">
 <!ENTITY  paneAdvanced.title      "Zaawansowane">
-
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Synchronizacja">
+<!ENTITY paneSync.title "Synchronizacja">
 
 <!ENTITY helpButton.label "Pomoc">
