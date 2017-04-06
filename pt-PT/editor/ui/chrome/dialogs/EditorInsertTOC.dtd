@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "Índice de conteúdo">
-<!ENTITY buildToc.label      "Construir índice a partir de:">
+<!ENTITY buildToc.label      "Construir tabela de conteúdos a partir de:">
 <!ENTITY tag.label           "Etiqueta:">
 <!ENTITY class.label         "Classe:">
 <!ENTITY header1.label       "Nível 1">
