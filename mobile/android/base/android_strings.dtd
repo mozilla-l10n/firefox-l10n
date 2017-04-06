@@ -397,7 +397,7 @@ size. -->
 <!ENTITY pref_private_data_passwords2 "Clàraidhean a-steach sàbhailte">
 <!ENTITY pref_private_data_cache "An tasgadan">
 <!ENTITY pref_private_data_offlineApps "Dàta làraichean-lin far loidhne">
-<!ENTITY pref_private_data_siteSettings2 "Roghainnean na làraich">
+<!ENTITY pref_private_data_siteSettings2 "Roghainnean nan làrach">
 <!ENTITY pref_private_data_downloadFiles2 "Luchdaidhean a-nuas">
 <!ENTITY pref_private_data_syncedTabs "Tabaichean sioncronaichte">
 
