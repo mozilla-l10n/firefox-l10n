@@ -582,7 +582,7 @@ size. -->
 <!ENTITY home_synced_devices_number "&formatD; nyonyo">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "nyonyo 1">
-
+<!ENTITY home_history_back_to2 "Cen i Gin mukato ducu">
 <!ENTITY home_clear_history_button "Jwa yeny mukato">
 <!ENTITY home_clear_history_confirm "Imoko ada ni imito jwayo gin mukato ni?">
 <!ENTITY home_bookmarks_empty "Alamabuk ma i gwoko nyute kany.">
