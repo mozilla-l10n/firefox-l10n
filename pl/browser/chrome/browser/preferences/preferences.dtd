@@ -10,6 +10,7 @@
 <!ENTITY prefWinMinSize.styleMac "width: 50em; min-height: 40em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 51.5em; min-height: 40.5em;">
 
+<!ENTITY paneSearchResults.title "Wyniki wyszukiwania">
 <!ENTITY paneGeneral.title "Ogólne">
 <!ENTITY paneDownloadLinks.title "Pobieranie i odnośniki">
 <!ENTITY panePrivacySecurity.title "Prywatność i bezpieczeństwo">
@@ -18,3 +19,5 @@
 <!ENTITY paneSync1.title "Konto Firefoksa">
 
 <!ENTITY helpButton.label "Pomoc">
+
+<!ENTITY searchInput.label "Szukaj">
