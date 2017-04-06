@@ -650,11 +650,11 @@ substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Ligação segura">
-<!ENTITY identity_connection_insecure "Ligação não-segura">
+<!ENTITY identity_connection_insecure "Ligação insegura">
 <!ENTITY identity_connection_chromeui "Esta é uma página segura do &brandShortName;">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo não-seguro nesta página.">
+<!ENTITY mixed_content_blocked_all1 "O &brandShortName; bloqueou conteúdo inseguro nesta página.">
 <!ENTITY mixed_content_blocked_some1 "O &brandShortName; bloqueou algum do conteúdo inseguro nesta página.">
 <!ENTITY mixed_content_display_loaded1 "Partes desta página não são seguras (por exemplo, imagens).">
 <!ENTITY mixed_content_protection_disabled1 "Desativou a proteção para conteúdo inseguro.">
