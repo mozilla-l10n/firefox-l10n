@@ -69,7 +69,7 @@
 <!ENTITY updates.updating.label               "A atualizar extras">
 <!ENTITY updates.installed.label              "Os seus extras foram atualizados.">
 <!ENTITY updates.downloaded.label             "As atualizações dos seus extras foram descarregadas.">
-<!ENTITY updates.restart.label                "Reinicie para completar a instalação">
+<!ENTITY updates.restart.label                "Reiniciar agora para completar a instalação">
 <!ENTITY updates.noneFound.label              "Nenhuma atualização encontrada">
 <!ENTITY updates.manualUpdatesFound.label     "Ver atualizações disponíveis">
 <!ENTITY updates.updateSelected.label         "Instalar atualizações">
