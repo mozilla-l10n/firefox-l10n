@@ -60,26 +60,32 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "Π">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
+<!ENTITY debuggerUI.showPanesOnInit.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
+<!ENTITY debuggerUI.showVarsFilter.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+<!ENTITY debuggerUI.showOnlyEnum.accesskey "Ι">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
   -  the checkbox that toggles the display of original or sourcemap-derived
   -  sources. -->
 <!ENTITY debuggerUI.showOriginalSource           "Εμφάνιση αρχικών πηγών">
+<!ENTITY debuggerUI.showOriginalSource.accesskey "Α">
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+<!ENTITY debuggerUI.autoBlackBox.accesskey "Κ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
@@ -88,33 +94,44 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 <!ENTITY debuggerUI.searchFile           "Φιλτράρισμα σεναρίων">
-<!ENTITY debuggerUI.searchFile.key       "P">
+<!ENTITY debuggerUI.searchFile.key       "Ρ">
+<!ENTITY debuggerUI.searchFile.altkey    "Λ">
+<!ENTITY debuggerUI.searchFile.accesskey "Ρ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 <!ENTITY debuggerUI.searchGlobal           "Αναζήτηση σε όλα τα αρχεία">
-<!ENTITY debuggerUI.searchGlobal.key       "F">
+<!ENTITY debuggerUI.searchGlobal.key       "Α">
+<!ENTITY debuggerUI.searchGlobal.accesskey "Α">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 <!ENTITY debuggerUI.searchFunction           "Αναζήτηση ορισμού συνάρτησης">
-<!ENTITY debuggerUI.searchFunction.key       "D">
+<!ENTITY debuggerUI.searchFunction.key       "Ο">
+<!ENTITY debuggerUI.searchFunction.accesskey "Ο">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 <!ENTITY debuggerUI.searchToken           "Εύρεση">
-<!ENTITY debuggerUI.searchToken.key       "F">
+<!ENTITY debuggerUI.searchToken.key       "Ε">
+<!ENTITY debuggerUI.searchToken.accesskey "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 <!ENTITY debuggerUI.searchGoToLine           "Μετάβαση στη σειρά…">
+<!ENTITY debuggerUI.searchGoToLine.key       "Σ">
+<!ENTITY debuggerUI.searchGoToLine.accesskey "Σ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 <!ENTITY debuggerUI.searchVariable           "Φιλτράρισμα μεταβλητών">
+<!ENTITY debuggerUI.searchVariable.key       "Μ">
+<!ENTITY debuggerUI.searchVariable.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables.key       "Μ">
+<!ENTITY debuggerUI.focusVariables.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
@@ -122,15 +139,18 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 <!ENTITY debuggerUI.seMenuBreak     "Προσθήκη σημείου διακοπής">
+<!ENTITY debuggerUI.seMenuBreak.key "Δ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 <!ENTITY debuggerUI.seMenuCondBreak     "Προσθήκη σημείου διακοπής υπό όρους">
+<!ENTITY debuggerUI.seMenuCondBreak.key "Δ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
 <!ENTITY debuggerUI.seEditMenuCondBreak     "Επεξεργασία σημείου διακοπής υπό όρους">
+<!ENTITY debuggerUI.seEditMenuCondBreak.key "Δ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
