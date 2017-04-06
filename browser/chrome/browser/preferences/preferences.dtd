@@ -8,6 +8,7 @@
 <!ENTITY prefWinMinSize.styleWin2 "width: 45em; min-height: 47em;">
 <!ENTITY prefWinMinSize.styleMac "width: 53em; min-height: 40em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 50em; min-height: 43.5em;">
+<!ENTITY paneSearchResults.title "Risultati della ricerca">
 <!ENTITY paneGeneral.title "Generale">
 <!ENTITY paneDownloadLinks.title "Download e link">
 <!ENTITY panePrivacySecurity.title "Privacy e sicurezza">
@@ -15,3 +16,4 @@
 <!ENTITY paneUpdates.title "Aggiornamenti">
 <!ENTITY paneSync1.title "Account Firefox">
 <!ENTITY helpButton.label "Guida">
+<!ENTITY searchInput.label "Cerca">
