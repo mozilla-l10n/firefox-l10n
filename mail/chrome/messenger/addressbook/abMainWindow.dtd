@@ -66,7 +66,7 @@
 <!ENTITY deleteContactsCmd.label                        "Apagar contactos">
 <!ENTITY deleteListCmd.label                            "Apagar lista">
 <!ENTITY deleteListsCmd.label                           "Apagar listas">
-<!ENTITY deleteItemsCmd.label                           "Apagar elementos">
+<!ENTITY deleteItemsCmd.label                           "Apagar itens">
 <!ENTITY selectAllCmd.label                             "Selecionar tudo">
 <!ENTITY selectAllCmd.key                               "a">
 <!ENTITY searchAddressesCmd.key                         "f">
@@ -167,7 +167,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY editMailingListPropertiesButton.tooltip        "Editar lista de correio selecionada">
 <!ENTITY newmsgButton.tooltip                           "Enviar uma mensagem">
 <!ENTITY newIM.tooltip                                  "Enviar mensagem instantânea ou de chat">
-<!ENTITY deleteButton2.tooltip                          "Apagar elemento selecionado">
+<!ENTITY deleteButton2.tooltip                          "Apagar item selecionado">
 <!-- Dir Tree header -->
 
 <!ENTITY dirTreeHeader.label                            "Livros de endereços">
