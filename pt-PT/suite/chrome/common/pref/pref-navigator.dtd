@@ -31,7 +31,7 @@
 <!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando precisar deles">
 <!ENTITY restoreDeferred.accesskey      "o">
 
-<!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-o para este grupo de páginas:">
+<!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-lhe para este grupo de páginas:">
 <!ENTITY useCurrent.label               "Utilizar página atual">
 <!ENTITY useCurrent.accesskey           "U">
 <!ENTITY useCurrentGroup.label          "Utilizar grupo atual">
