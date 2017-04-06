@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Escolhas de dados">
 
-<!ENTITY healthReportDesc.label          "Ajuda-o a compreender o desempenho do seu navegador e partilha dados com a &vendorShortName; acerca do estado do seu navegador">
+<!ENTITY healthReportDesc.label          "Ajuda-lhe a compreender o desempenho do seu navegador e partilha dados com a &vendorShortName; acerca do estado do seu navegador">
 <!ENTITY enableHealthReport.label        "Ativar o relatório de estado do &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Saber mais">
