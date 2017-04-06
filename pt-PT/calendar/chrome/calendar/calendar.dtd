@@ -364,7 +364,7 @@
 <!-- Error reporting -->
 
 <!ENTITY calendar.error.detail "Detalhes…">
-<!ENTITY calendar.error.code "Código do erro:">
+<!ENTITY calendar.error.code "Código de erro:">
 <!ENTITY calendar.error.description "Descrição:">
 <!ENTITY calendar.error.title "Ocorreu um erro">
 <!-- Extract buttons in message header -->
