@@ -8,4 +8,5 @@
 
 <!ENTITY learnMore "আরও জানুন…">
 
-
+<!ENTITY defaultButton.label "ঠিক আছে!">
+<!ENTITY defaultButton.accesskey "O">
