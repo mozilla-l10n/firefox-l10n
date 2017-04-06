@@ -59,19 +59,19 @@
 <!ENTITY wordWrap.label                "文本换行">
 <!ENTITY wordWrap.accesskey            "W">
 
-<!ENTITY highlightTrailingSpace.label     "高亮尾随空格">
+<!ENTITY highlightTrailingSpace.label     "高亮行尾空格">
 <!ENTITY highlightTrailingSpace.accesskey "H">
 
-<!ENTITY largerFont.label             "大字体">
+<!ENTITY largerFont.label             "大字号">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
-<!ENTITY smallerFont.label            "小字体">
+<!ENTITY smallerFont.label            "小字号">
 <!ENTITY smallerFont.accesskey        "m">
 <!ENTITY smallerFont.commandkey       "-">
 
-<!ENTITY normalSize.label             "正常字体">
+<!ENTITY normalSize.label             "正常字号">
 <!ENTITY normalSize.accesskey         "N">
 <!ENTITY normalSize.commandkey        "0">
 
