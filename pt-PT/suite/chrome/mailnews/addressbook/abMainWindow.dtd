@@ -36,7 +36,7 @@
 <!ENTITY deleteContactsCmd.label                        "Apagar contactos selecionados">
 <!ENTITY deleteListCmd.label                            "Apagar lista">
 <!ENTITY deleteListsCmd.label                           "Apagar listas selecionadas">
-<!ENTITY deleteItemsCmd.label                           "Apagar elementos selecionados">
+<!ENTITY deleteItemsCmd.label                           "Apagar itens selecionados">
 <!ENTITY swapFirstNameLastNameCmd.label                 "Trocar nome e apelido">
 <!ENTITY swapFirstNameLastNameCmd.accesskey             "T">  
 <!ENTITY propertiesCmd.label                            "Propriedades…">
@@ -88,10 +88,10 @@
 <!ENTITY addressbookToolbar.tooltip                     "Barra de endereços">
 <!ENTITY newContactButton.tooltip                       "Criar um novo contacto no livro de endereços">
 <!ENTITY newlistButton.tooltip                          "Criar uma nova lista"> 
-<!ENTITY editItemButton.tooltip                         "Editar o elemento selecionado">
+<!ENTITY editItemButton.tooltip                         "Editar o item selecionado">
 <!ENTITY newmsgButton.tooltip                           "Enviar um e-mail"> 
 <!ENTITY newIM.tooltip                                  "Enviar uma mensagem instantânea ou de chat"> 
-<!ENTITY deleteItemButton.tooltip                       "Apagar o elemento selecionado">
+<!ENTITY deleteItemButton.tooltip                       "Apagar o item selecionado">
 <!ENTITY throbber.tooltip                               "Ir para a página inicial do &vendorShortName;">
 <!ENTITY advancedButton.tooltip                         "Pesquisa avançada de endereços">
 <!-- Dir Tree header -->
