@@ -309,6 +309,7 @@
 <!ENTITY contextmenu_open_private_tab "Apri in scheda anonima">
 <!ENTITY contextmenu_remove "Rimuovi">
 <!ENTITY contextmenu_add_to_launcher "Agg. a schermata principale">
+<!ENTITY contextmenu_set_as_homepage "Imposta come pagina iniziale">
 <!ENTITY contextmenu_share "Condividi">
 <!ENTITY contextmenu_pasteandgo "Incolla e vai">
 <!ENTITY contextmenu_paste "Incolla">
