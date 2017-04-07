@@ -27,7 +27,7 @@
 <li>请检查文件是否已被移动，重命名或删除。</li> 
 </ul>">
 
-<!ENTITY fileAccessDenied.title "访问该文件被拒绝">
+<!ENTITY fileAccessDenied.title "对该文件的访问请求被拒绝">
 <!ENTITY fileAccessDenied.longDesc "
 <ul>
   <li>文件可能已被删除、移动，或者因文件权限问题被拒绝访问。</li>
@@ -35,7 +35,7 @@
 ">
 
 <!ENTITY generic.title "哎呀。">
-<!ENTITY generic.longDesc "<p>&brandShortName; 因未知原因无法载入此页面。</p>">
+<!ENTITY generic.longDesc "<p>&brandShortName; 因某些不明原因无法载入此页面。</p>">
 
 <!ENTITY captivePortal.title "请登录网络">
 <!ENTITY captivePortal.longDesc2 "
@@ -45,7 +45,7 @@
 
 <!ENTITY malformedURI.title "无效的地址">
 <!ENTITY malformedURI.longDesc "<ul> 
-<li>网页地址通常格式为 
+<li>网址通常长得像 
 <strong>http://www.example.com/</strong></li> 
 <li>请确认您使用的是正斜杠（即 
 <strong>/</strong>）。</li> 
@@ -95,17 +95,17 @@
 <li>这可能是由服务器端的非标准配置所致。</li> 
 </ul>">
 
-<!ENTITY nssFailure2.title "安全连接失败">
+<!ENTITY nssFailure2.title "建立安全连接失败">
 <!ENTITY nssFailure2.longDesc2 "<ul> 
-<li>由于无法证实所接收资料的可靠性，不能显示您正要查看的页面。</li> 
-<li>请联系此网站的管理员并告知此问题。</li> 
+<li>由于不能验证所接收资料的真实性，无法显示您想要查看的页面。</li> 
+<li>请联系此网站的所有者并告知此问题。</li> 
 </ul>">
 
-<!ENTITY certerror.longpagetitle1 "您的连接不安全">
+<!ENTITY certerror.longpagetitle1 "您的连接并不安全">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> 的管理员未正确配置网站。为避免您的信息被窃，&brandShortName; 没有建立与该网站的连接。">
+<!ENTITY certerror.introPara "<span class='hostname'/> 的网站管理员未正确配置网站。为避免您的信息被窃，&brandShortName; 没有与该网站建立连接。">
 
 <!ENTITY sharedLongDesc "<ul> 
 <li>此站点暂时不可用或者太过忙碌。请稍后再试。</li> 
@@ -113,16 +113,16 @@ was trying to connect. -->
 <li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li> 
 </ul>">
 
-<!ENTITY cspBlocked.title "已按内容安全策略拦截">
+<!ENTITY cspBlocked.title "已依内容安全策略拦截">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; 已按该页面包含的内容安全策略阻止其以此种方式加载。</p>">
 
 <!ENTITY corruptedContentErrorv2.title "内容损坏错误">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到传输的数据含有错误，无法显示您正要查看的页面。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>由于检测到在数据传输过程中存在错误，无法显示您正要查看的页面。</p><ul><li>请联系此网站的管理员并告知此问题。</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "添加例外…">
 
-<!ENTITY errorReporting.automatic2 "报告此类错误以帮助 Mozilla 识别和拦截恶意站点">
+<!ENTITY errorReporting.automatic2 "报告此类错误，帮助 Mozilla 识别并拦截恶意网站">
 <!ENTITY errorReporting.learnMore "详细了解…">
 
 <!ENTITY remoteXUL.title "远程 XUL">
