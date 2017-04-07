@@ -23,7 +23,7 @@
 <!ENTITY abouthome.rightsSnippet "&brandFullName; بلا منافع Mozilla Foundation کی طرف سے مفت اور کھلا ماخذ سافٹ ویئر ہے۔ <a>…اپنے حقوق جانیئے</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "نشانیاں">
-<!ENTITY abouthome.historyButton.label   "تاریخچہ">
+<!ENTITY abouthome.historyButton.label   "سابقات">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
 <!ENTITY abouthome.preferencesButtonWin.label  "اختیارات">
