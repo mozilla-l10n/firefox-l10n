@@ -17,7 +17,7 @@
 <!ENTITY availableTabs "Даступныя адлеглыя закладкі:">
 <!ENTITY availableProcesses "Даступныя адлеглыя працэсы:">
 <!ENTITY connectionError "Памылка:">
-<!ENTITY errorTimeout "Памылка: тайм-аўт злучэння.">
+<!ENTITY errorTimeout "Памылка: час злучэння вычарпаны.">
 <!ENTITY errorRefused "Памылка: злучэнне адхілена.">
 <!ENTITY errorUnexpected "Нечаканая памылка.">
 
