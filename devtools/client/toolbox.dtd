@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "স্ক্রিনশটের আচরণ">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "স্ক্রিনশট ক্লিপবোর্ডে পাঠাও">
+<!ENTITY options.screenshot.clipboard.tooltip    "স্ক্রিনশটটি সরাসরি ক্লিপবোর্ডে সংরক্ষণ কর">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "ক্যামেরা সাটার শব্দ চালাও">
+<!ENTITY options.screenshot.audio.tooltip    "স্ক্রিনশট নেওয়ার সময় ক্যামেরা অডিও শব্দ সক্রিয় কর">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
