@@ -76,7 +76,7 @@
    - when editing events/tasks in a dialog window.
    - event.menu.item.save.tab.accesskey is used for the "Save" menu item
    - when editing events/tasks in a tab. -->
-<!ENTITY  event.menu.item.save.label                      "Запис">
+<!ENTITY  event.menu.item.save.label                      "Запазване">
 <!ENTITY  event.menu.item.save.accesskey                  "З">
 <!ENTITY  event.menu.item.save.tab.accesskey              "З">
 
@@ -85,7 +85,7 @@
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
-<!ENTITY  event.menu.item.saveandclose.label              "Запис и затваряне">
+<!ENTITY  event.menu.item.saveandclose.label              "Запазване и затваряне">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "п">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "т">
 
@@ -124,9 +124,9 @@
 
 <!ENTITY  event.menu.options.label                            "Настройки">
 <!ENTITY  event.menu.options.accesskey                        "Н">
-<!ENTITY  event.menu.options.attendees.label                  "Поканване на участници…">
+<!ENTITY  event.menu.options.attendees.label                  "Изпращане на покани…">
 <!ENTITY  event.menu.options.attendees.accesskey              "ч">
-<!ENTITY  event.menu.options.timezone2.label                  "Показване на времевите зони">
+<!ENTITY  event.menu.options.timezone2.label                  "Показване на часовите пояси">
 <!ENTITY  event.menu.options.timezone2.accesskey              "з">
 <!ENTITY  event.menu.options.priority2.label                  "Приоритет">
 <!ENTITY  event.menu.options.priority2.accesskey              "и">
@@ -142,7 +142,7 @@
 <!ENTITY  event.menu.options.privacy.accesskey                "т">
 <!ENTITY  event.menu.options.privacy.public.label             "Публично събитие">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "л">
-<!ENTITY  event.menu.options.privacy.confidential.label       "Покажи само час и дата">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Само часа и датата видими">
 <!ENTITY  event.menu.options.privacy.confidential.accesskey   "П">
 <!ENTITY  event.menu.options.privacy.private.label            "Лично събитие">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "ч">
@@ -153,7 +153,7 @@
 <!ENTITY  event.menu.options.show.time.free.label             "Свободен">
 <!ENTITY  event.menu.options.show.time.free.accesskey         "б">
 
-<!ENTITY event.invite.attendees.label                     "Поканване на участници...">
+<!ENTITY event.invite.attendees.label                     "Изпращане на покани…">
 <!ENTITY event.invite.attendees.accesskey                 "ч">
 <!ENTITY event.email.attendees.label                      "Създаване на писмо до всички участници…">
 <!ENTITY event.email.attendees.accesskey                  "в">
@@ -168,14 +168,14 @@
 <!ENTITY  event.toolbar.save.label2                       "Запазване">
 <!ENTITY  event.toolbar.saveandclose.label                "Запазване и затваряне">
 <!ENTITY  event.toolbar.delete.label                      "Изтриване">
-<!ENTITY  event.toolbar.attendees.label                   "Поканване на участници">
+<!ENTITY  event.toolbar.attendees.label                   "Изпращане на покани">
 <!ENTITY  event.toolbar.privacy.label                     "Поверителност">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Запазване">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Запис и затваряне">
 <!ENTITY  event.toolbar.delete.tooltip                    "Изтриване">
-<!ENTITY  event.toolbar.attendees.tooltip                 "Поканване на участници">
-<!ENTITY  event.toolbar.attachments.tooltip               "Добавяне на притурка">
+<!ENTITY  event.toolbar.attendees.tooltip                 "Изпращане на покани">
+<!ENTITY  event.toolbar.attachments.tooltip               "Добавяне на прикачен файл">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Промяна на поверителността">
 <!ENTITY  event.toolbar.priority.tooltip                  "Промяна на приоритета">
 <!ENTITY  event.toolbar.status.tooltip                    "Промяна на статуса">
@@ -227,7 +227,7 @@
 <!ENTITY event.reminder.accesskey                         "м">
 <!ENTITY event.description.label                          "Описание:" >
 <!ENTITY event.description.accesskey                      "п">
-<!ENTITY event.attachments.label                          "Притурки:" >
+<!ENTITY event.attachments.label                          "Прикачени файлове:" >
 <!ENTITY event.attachments.accesskey                      "т" >
 <!ENTITY event.attachments.menubutton.label               "Прилагане">
 <!ENTITY event.attachments.menubutton.accesskey           "П">
@@ -370,18 +370,18 @@
 <!ENTITY event.recurrence.preview.label                 "Преглед">
 
 <!-- Attendees dialog -->
-<!ENTITY invite.title.label                     "Поканване на участници">
+<!ENTITY invite.title.label                     "Изпращане на покани">
 <!ENTITY event.organizer.label                  "Организатор">
-<!ENTITY event.freebusy.suggest.slot            "Предлагане на времеви пояс:">
-<!ENTITY event.freebusy.button.next.slot        "Следващ пояс">
-<!ENTITY event.freebusy.button.previous.slot    "Предишен пояс">
+<!ENTITY event.freebusy.suggest.slot            "Предлагане на часови интервал:">
+<!ENTITY event.freebusy.button.next.slot        "Следващ интервал">
+<!ENTITY event.freebusy.button.previous.slot    "Предишен интервал">
 <!ENTITY event.freebusy.zoom                    "Мащабиране:">
 <!ENTITY event.freebusy.legend.free             "Свободен" >
 <!ENTITY event.freebusy.legend.busy             "Зает" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Несигурен" >
 <!ENTITY event.freebusy.legend.busy_unavailable "Извън офиса" >
 <!ENTITY event.freebusy.legend.unknown          "Няма информация" >
-<!ENTITY event.attendee.role.required           "Задълчителни участници">
+<!ENTITY event.attendee.role.required           "Задължителен участник">
 <!ENTITY event.attendee.role.optional           "Допълнителен участник">
 <!ENTITY event.attendee.role.chair              "Председател">
 <!ENTITY event.attendee.role.nonparticipant     "Не е участник">
@@ -392,8 +392,8 @@
 <!ENTITY event.attendee.usertype.unknown        "Неизвестен">
 
 <!-- Timezone dialog -->
-<!ENTITY timezone.title.label            "Моля, посочете времевата зона">
-<!ENTITY event.timezone.custom.label     "Още времеви зони…">
+<!ENTITY timezone.title.label            "Моля, изберете часови пояс">
+<!ENTITY event.timezone.custom.label     "Повече часови пояси…">
 
 <!-- Read-Only dialog -->
 <!ENTITY read.only.general.label         "Основни">
