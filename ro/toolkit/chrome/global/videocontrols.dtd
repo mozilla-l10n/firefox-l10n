@@ -7,7 +7,7 @@
 <!ENTITY muteButton.muteLabel "Dezactivează sunetul">
 <!ENTITY muteButton.unmuteLabel "Activează sunetul">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Ecran complet">
-<!ENTITY fullscreenButton.exitfullscreenlabel "Ieși din ecran complet">
+<!ENTITY fullscreenButton.exitfullscreenlabel "Ieși din modul ecran complet">
 <!ENTITY castingButton.castingLabel "Proiectează pe ecran">
 <!ENTITY closedCaption.off "Dezactivează">
 

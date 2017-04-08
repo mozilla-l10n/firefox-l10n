@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "F">
 <!ENTITY searchOnStartTyping.label       "Caută textul când încep să tastez">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Te avertizează când site-urile web încearcă să redirecteze sau să reîncarce pagina">
+<!ENTITY blockAutoReload.label           "Avertizează când site-urile web încearcă să redirecteze sau să reîncarce pagina">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Arată o tastatură tactilă când este necesar">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Află mai multe">
 
 <!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
-
-
+<!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex., Telemetrie)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Află mai multe">
 
 <!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
@@ -53,7 +53,7 @@
 <!ENTITY connectionSettings.label        "Setări…">
 <!ENTITY connectionSettings.accesskey    "e">
 
-<!ENTITY httpCache.label                 "Conținut web păstrat temporar">
+<!ENTITY httpCache.label                 "Conținut web în cache">
 
 <!ENTITY offlineStorage2.label           "Conținut web offline și datele utilizatorului">
 <!--  Site Data section manages sites using Storage API and is under Network -->
@@ -83,6 +83,7 @@
 
 <!ENTITY updateTab.label                 "Actualizare">
 
+<!ENTITY updateApplication.label         "Actualizări &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalează automat actualizările (recomandat: securitate îmbunătățită)">
 <!ENTITY updateAuto1.accesskey           "a">
 <!ENTITY updateCheckChoose.label         "Caută actualizări, dar lasă-mă să decid dacă să le instalez">

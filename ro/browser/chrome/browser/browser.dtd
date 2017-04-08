@@ -102,9 +102,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "Intră în ecran complet">
+<!ENTITY enterFullScreenCmd.label "Intră în modul ecran complet">
 <!ENTITY enterFullScreenCmd.accesskey "F">
-<!ENTITY exitFullScreenCmd.label "Ieși din ecran complet">
+<!ENTITY exitFullScreenCmd.label "Ieși din modul ecran complet">
 <!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "Ecran complet">
 <!ENTITY fullScreenCmd.accesskey "F">
@@ -133,15 +133,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "este acum în ecran complet">
-<!ENTITY fullscreenWarning.generic.label "Acest document este acum în ecran complet">
+<!ENTITY fullscreenWarning.afterDomain.label "este acum în modul ecran complet">
+<!ENTITY fullscreenWarning.generic.label "Acest document este acum în modul ecran complet">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "Ieși din ecran complet (Esc)">
-<!ENTITY exitDOMFullscreenMac.button "Ieși din ecran complet (esc)">
-<!ENTITY leaveDOMFullScreen.label "Ieși din ecranul complet">
+<!ENTITY exitDOMFullscreen.button "Ieși din modul ecran complet (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "Ieși din modul ecran complet (esc)">
+<!ENTITY leaveDOMFullScreen.label "Ieși din modul ecran complet">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used

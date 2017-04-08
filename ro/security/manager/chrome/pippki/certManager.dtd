@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                       "Ai stocate certificate care identifică aceste persoane:">
 <!ENTITY certmgr.websites2                    "Ai stocate certificate care identifică aceste servere:">
 <!ENTITY certmgr.cas                          "Ai stocate certificate care identifică aceste autorități de certificare:">
-<!ENTITY certmgr.orphans                      "Ai stocate certificate care nu se încadrează în niciuna din celelalte categorii:">
+<!ENTITY certmgr.orphans                      "Ai stocate certificate care nu se încadrează în niciuna dintre celelalte categorii:">
 
 <!ENTITY certmgr.detail.general_tab.title     "General">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
@@ -42,12 +42,12 @@
 
 <!ENTITY certmgr.deletecert.title             "Ștergere certificat">
 
-<!ENTITY certmgr.certname                     "Nume al certificatului">
+<!ENTITY certmgr.certname                     "Numele certificatului">
 <!ENTITY certmgr.certserver                   "Server">
 <!ENTITY certmgr.override_lifetime            "Durată de viață">
 <!ENTITY certmgr.tokenname                    "Dispozitiv de securitate">
 <!ENTITY certmgr.begins                       "Începe la">
-<!ENTITY certmgr.expires                      "Expiră la">
+<!ENTITY certmgr.expires                      "Expiră în">
 <!ENTITY certmgr.email                        "Adresă de e-mail">
 <!ENTITY certmgr.serial                       "Număr de serie">
 
@@ -55,7 +55,7 @@
 <!ENTITY certmgr.close.accesskey              "c">
 <!ENTITY certmgr.view2.label                  "Vizualizează">
 <!ENTITY certmgr.view2.accesskey              "V">
-<!ENTITY certmgr.edit3.label                  "Editare încredere…">
+<!ENTITY certmgr.edit3.label                  "Editează încrederea…">
 <!ENTITY certmgr.edit3.accesskey              "E">
 <!ENTITY certmgr.export.label                 "Exportă…">
 <!ENTITY certmgr.export.accesskey             "x">
@@ -69,10 +69,10 @@
 <!ENTITY certmgr.backupall2.accesskey         "l">
 <!ENTITY certmgr.restore2.label               "Importă…">
 <!ENTITY certmgr.restore2.accesskey           "m">
-<!ENTITY certmgr.details.label                "Câmpuri certificat">
-<!ENTITY certmgr.details.accesskey            "i">
-<!ENTITY certmgr.fields.label                 "Valoare câmp">
-<!ENTITY certmgr.fields.accesskey             "o">
+<!ENTITY certmgr.details.label                "Câmpurile certificatului">
+<!ENTITY certmgr.details.accesskey            "f">
+<!ENTITY certmgr.fields.label                 "Valoarea câmpului">
+<!ENTITY certmgr.fields.accesskey             "V">
 <!ENTITY certmgr.hierarchy.label              "Ierarhia certificatelor">
 <!ENTITY certmgr.hierarchy.accesskey2         "H">
 <!ENTITY certmgr.addException.label           "Adaugă excepție…">

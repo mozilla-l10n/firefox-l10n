@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Alege…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nu mă deranja">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Nicio notificare nu va fi afișată până când repornești &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Nicio notificare nu va fi afișată până la repornirea lui &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Excepții…">
 <!ENTITY  popupExceptions.accesskey   "E">

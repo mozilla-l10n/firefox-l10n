@@ -24,9 +24,9 @@
 <!ENTITY selectAllCmd.label        "Selectează tot">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "a">
-<!ENTITY findCmd.label             "Găsește">
+<!ENTITY findCmd.label             "Caută">
 <!ENTITY findCmd.key               "F">
-<!ENTITY findCmd.accesskey         "G">
+<!ENTITY findCmd.accesskey         "F">
 <!ENTITY findAgainCmd.label        "Găsește din nou">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
