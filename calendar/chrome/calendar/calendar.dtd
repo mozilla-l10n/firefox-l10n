@@ -19,11 +19,11 @@
 <!ENTITY calendar.events.filter.all.label "Всички събития">
 <!ENTITY calendar.events.filter.today.label "Днешните събития">
 <!ENTITY calendar.events.filter.future.label "Всички бъдещи събития">
-<!ENTITY calendar.events.filter.current.label "Текущият избран ден">
+<!ENTITY calendar.events.filter.current.label "Избрания ден">
 <!ENTITY calendar.events.filter.currentview.label "Събития в текущия изглед">
-<!ENTITY calendar.events.filter.next7Days.label "Събития за следващите 7 дена">
-<!ENTITY calendar.events.filter.next14Days.label "Събития за следващите 14 дена">
-<!ENTITY calendar.events.filter.next31Days.label "Събития за следващите 31 дена">
+<!ENTITY calendar.events.filter.next7Days.label "Събития в следващите 7 дена">
+<!ENTITY calendar.events.filter.next14Days.label "Събития в следващите 14 дена">
+<!ENTITY calendar.events.filter.next31Days.label "Събития в следващите 31 дена">
 <!ENTITY calendar.events.filter.thisCalendarMonth.label "Събития в този календарен месец">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
@@ -58,7 +58,7 @@
 <!ENTITY calendar.unifinder.close.tooltip                  "Затваряне на търсенето и списъка на събития">
 
 <!ENTITY calendar.today.button.tooltip          "Отиване на днес" >
-<!ENTITY calendar.todaypane.button.tooltip      "Показване на дневния плот" >
+<!ENTITY calendar.todaypane.button.tooltip      "Показване на дневния график" >
 
 <!ENTITY calendar.day.button.tooltip            "Превключване към дневен изглед" >
 <!ENTITY calendar.week.button.tooltip           "Превключване към седмичен излгед" >
@@ -85,16 +85,16 @@
 <!ENTITY calendar.navigation.nextmonth.tooltip  "Един месец напред" >
 <!ENTITY calendar.navigation.prevmonth.tooltip  "Един месец назад" >
 
-<!ENTITY calendar.newevent.button.label         "Ново събитие" >
-<!ENTITY calendar.newtask.button.label          "Нова задача" >
+<!ENTITY calendar.newevent.button.label         "Събитие" >
+<!ENTITY calendar.newtask.button.label          "Задача" >
 <!ENTITY calendar.print.button.label            "Отпечатване" >
 <!ENTITY calendar.print.button.accesskey        "п">
 
 <!ENTITY calendar.day.button.label              "Ден" >
 <!ENTITY calendar.week.button.label             "Седмица" >
 <!ENTITY calendar.month.button.label            "Месец" >
-<!ENTITY calendar.multiweek.button.label        "Многоседмичен изглед" >
-<!ENTITY calendar.onlyworkday.checkbox.label    "Само работните дни от седмицата" >
+<!ENTITY calendar.multiweek.button.label        "Списък със седмици" >
+<!ENTITY calendar.onlyworkday.checkbox.label    "Само работни дни" >
 <!ENTITY calendar.onlyworkday.checkbox.accesskey  "р" >
 <!ENTITY calendar.displaytodos.checkbox.label   "Задачи в изгледа" >
 <!ENTITY calendar.displaytodos.checkbox.accesskey "З" >
@@ -172,7 +172,7 @@
 <!ENTITY calendar.context.copyevent.accesskey         "К">
 <!ENTITY calendar.context.pasteevent.label            "Поставяне">
 <!ENTITY calendar.context.pasteevent.accesskey        "в">
-<!ENTITY calendar.context.button.label                "Дневен плот" >
+<!ENTITY calendar.context.button.label                "Дневен график" >
 <!ENTITY calendar.context.button.accesskey            "в" >
 <!ENTITY calendar.context.attendance.menu.label       "Присъствие" >
 <!ENTITY calendar.context.attendance.menu.accesskey   "с" >
