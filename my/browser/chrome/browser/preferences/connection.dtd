@@ -7,43 +7,43 @@
 <!ENTITY  window.width2                 "49em">
 <!ENTITY  window.macWidth2              "44em">
 
-<!ENTITY  proxyTitle.label              "အင်တာနက်ထဲ ၀င်ရောက်ဖို့ ကြားခံများကို ပြင်ဆင် ဖန်တီးပါ">
-<!ENTITY  noProxyTypeRadio.label        "ကြားခံ မပါy">
+<!ENTITY  proxyTitle.label              "အင်တာနက်အသုံးပြုရန် ကြားခံဆာဗာကို ပြင်ဆင်သတ်မှတ်ရန်">
+<!ENTITY  noProxyTypeRadio.label        "ကြားခံဆာဗာ မသုံးပါ">
 <!ENTITY  noProxyTypeRadio.accesskey    "y">
-<!ENTITY  systemTypeRadio.label         "Uနည်းစနစ် ပရောဆီ အပြင်အဆင်များ">
-<!ENTITY  systemTypeRadio.accesskey     "U">
-<!ENTITY  WPADTypeRadio.label           "ပရောက်ဆီ အားအလိုအလျောက်ရှာပြီး ကွန်ယက်ချိတ်ဆက် ပါ w">
+<!ENTITY  systemTypeRadio.label         "စနစ်တွင် သတ်မှတ်ထားသော ကြားခံဆာဗာ အပြင်အဆင်များကို အသုံးပြုပါ">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "ယခုကွန်ယက်အတွက် ကြားခံဆာဗာ အပြင်အဆင်များကို အလိုအလျောက် ရှာပြီး ချိတ်ဆက်ပါ">
 <!ENTITY  WPADTypeRadio.accesskey       "w">
-<!ENTITY  manualTypeRadio.label         "Manual Proxy Configuration:">
-<!ENTITY  manualTypeRadio.accesskey     "M">
-<!ENTITY  autoTypeRadio.label           "Automatic proxy configuration URL:">
+<!ENTITY  manualTypeRadio.label         "ကြားခံဆာဗာ အပြင်အဆင်ကို ကိုယ်တိုင်ပြင်ဆင်သတ်မှတ်ရန်">
+<!ENTITY  manualTypeRadio.accesskey     "m">
+<!ENTITY  autoTypeRadio.label           "အလိုအလျောက် ကြားခံဆာဗာ အပြင်အဆင် သတ်မှတ်သည့် URL">
 <!ENTITY  autoTypeRadio.accesskey       "A">
 <!ENTITY  reload.label                  "ပြန်ဖွင့်ပါ">
 <!ENTITY  reload.accesskey              "e">
-<!ENTITY  ftp.label                     "FTP Proxy:">
+<!ENTITY  ftp.label                     "FTP ကြားခံဆာဗာ">
 <!ENTITY  ftp.accesskey                 "F">
-<!ENTITY  http.label                    "HTTP Proxy:">
+<!ENTITY  http.label                    "HTTP ကြားခံဆာဗာ">
 <!ENTITY  http.accesskey                "x">
-<!ENTITY  ssl.label                     "SSL Proxy:">
+<!ENTITY  ssl.label                     "SSL ကြားခံဆာဗာ">
 <!ENTITY  ssl.accesskey                 "L">
-<!ENTITY  socks.label                   "SOCKS Host:">
+<!ENTITY  socks.label                   "SOCKS ဆာဗာ">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 ကို အသုံးပြုလျှင် DNS ကို ပရောင်ဇီလုပ်ပေးပါ">
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 ကို အသုံးပြုသည့်အခါ DNS ကို ကြားခံအနေဖြင့် အသုံးပြုပါ">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
-<!ENTITY  port.label                    "Port:">
+<!ENTITY  port.label                    "ပို့နံပါတ်">
 <!ENTITY  HTTPport.accesskey            "P">
 <!ENTITY  SSLport.accesskey             "o">
 <!ENTITY  FTPport.accesskey             "r">
 <!ENTITY  SOCKSport.accesskey           "t">
-<!ENTITY  noproxy.label                 "No Proxy for:">
-<!ENTITY  noproxy.accesskey             "N">
-<!ENTITY  noproxyExplain.label          "ဥပမာ-.mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ပရိုတိုကောလ်အားလုံးတွင် ဒီပရောက်ဇီကို အသုံးပြုပါ">
+<!ENTITY  noproxy.label                 "ယခုအတွက် ကြားခံဆာဗာ မသုံးပါနှင့်">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "ဥပမာ။ .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "ပရိုတိုကောလ်အားလုံးတွင် ယခုကြားခံဆာဗာကို အသုံးပြုပါ">
 <!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "လျှို့ဝှက်စကားလုံး သိမ်းထားပြီးသားရှိပါက (i)ဝင်ရောက်သုံးဆွဲခြင်း အတွက် ထပ်မတောင်းပါနှင့်">
+<!ENTITY  autologinproxy.label          "စကားဝှက် သိမ်းပြီးသားရှိပါက အတည်ပြုခြင်းအတွက် ထပ်မမေးပါနှင့်">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "ယခု အပြင်အဆင်သည် သင့်အား ပရောဆီများကို တိတ်ဆိတ်စွာ သုံးဆွဲနိုင် ရန်ကူညီပေးသည်။ လျှို့ဝှက်စကားလုံး များအားသိမ်းထားပေးပြီး ဝင်မရမှ သာထပ်မေးပါလိမ့်မည်">

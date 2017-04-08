@@ -6,25 +6,25 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "စာမျက်နှာမှ သတ်မှတ်ထားသော ကာလာများအား သင့်ရွေးချယ်မှု ဖြင့်သုံးမည်:">
+<!ENTITY  overrideDefaultPageColors.label        "စာမျက်နှာက သတ်မှတ်ထားသော အရောင်များနေရာ၌ အထက်တွင် မိမိရွေးချယ်ထားသော အရောင်များကို အသုံးပြုမည်">
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "အမြဲတမ်း">
-<!ENTITY  overrideDefaultPageColors.auto.label   "ကာလာမြင့် ပုံစံများဖြင့်သာ">
+<!ENTITY  overrideDefaultPageColors.auto.label   "အလင်းမြင့် အခင်းအကျင်းများနှင့်သာလျှင်">
 <!ENTITY  overrideDefaultPageColors.never.label  "ဘယ်တော့မှ">
 
-<!ENTITY  color                           "စာသားနဲ့ နောက်ခံ">
-<!ENTITY  textColor.label                 "Tစာသား|">
+<!ENTITY  color                           "စာသားနှင့် နောက်ခံ">
+<!ENTITY  textColor.label                 "စာသား">
 <!ENTITY  textColor.accesskey             "T">
-<!ENTITY  backgroundColor.label           "Bနောက်ခံ၊">
+<!ENTITY  backgroundColor.label           "နောက်ခံ">
 <!ENTITY  backgroundColor.accesskey       "B">
-<!ENTITY  useSystemColors.label           "sနည်းစနစ် အရောင်များကို ‌သုံးစွဲပါ">
+<!ENTITY  useSystemColors.label           "စနစ်တွင် သတ်မှတ်ထားသည့် အရောင်ကို အသုံးပြုပါ">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "Underline links">
+<!ENTITY  underlineLinks.label            "လင့်ခ်များကို အောက်မျဉ်းသားပါ">
 <!ENTITY  underlineLinks.accesskey        "U">
-<!ENTITY  links                           "အချိတ်အဆက် အရောင်များ">
-<!ENTITY  linkColor.label                 "Lလည်ပတ်ခြင်းမပြုတဲ့ အချိတ်အဆက်များ၊">
+<!ENTITY  links                           "လင့်ခ် အရောင်များ">
+<!ENTITY  linkColor.label                 "မလည်ပတ်ထားသော လင့်ခ်များ">
 <!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "Visited Links:">
+<!ENTITY  visitedLinkColor.label          "လည်ပတ်ထားသော လင့်ခ်များ">
 <!ENTITY  visitedLinkColor.accesskey      "V">
