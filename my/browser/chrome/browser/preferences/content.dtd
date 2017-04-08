@@ -55,6 +55,6 @@
 
 <!ENTITY  drmContent.label             "DRM အကြောင်းအရာ">
 
-<!ENTITY  playDRMContent.label         "DRM အကြောင်းအရာများကို ဖွင့်ပါ P">
+<!ENTITY  playDRMContent.label         "DRM အကြောင်းအရာများကို ဖွင့်ပါ">
 <!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "ပိုမိုလေ့လာရန်">
