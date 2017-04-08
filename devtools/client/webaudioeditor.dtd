@@ -33,9 +33,11 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
+<!ENTITY webAudioEditorUI.inspectorTitle  "Επιθεώρηση AudioNode">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
+<!ENTITY webAudioEditorUI.inspectorEmpty  "Κανένα επιλεγμένο AudioNode.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
@@ -46,3 +48,4 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
   -  events. -->
+<!ENTITY webAudioEditorUI.automationNoEvents "Το AudioParam δεν έχει κανένα γεγονός αυτοματισμού.">
