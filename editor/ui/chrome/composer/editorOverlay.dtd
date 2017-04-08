@@ -170,8 +170,8 @@
 <!ENTITY noneCmd.label "Brez">
 <!ENTITY noneCmd.accesskey "B">
 <!ENTITY listBulletCmd.label "Neoštevilčen">
-<!ENTITY listBulletCmd.accesskey "S">
-<!ENTITY listNumberedCmd.label "Oštevilčeno">
+<!ENTITY listBulletCmd.accesskey "N">
+<!ENTITY listNumberedCmd.label "Oštevilčen">
 <!ENTITY listNumberedCmd.accesskey "O">
 <!ENTITY listTermCmd.label "Izraz">
 <!ENTITY listTermCmd.accesskey "z">
