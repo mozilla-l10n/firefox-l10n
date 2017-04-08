@@ -34,5 +34,5 @@
 <!ENTITY showCookies.accesskey "P">
 
 <!ENTITY dntTrackingNotOkay.label2 "Sporočaj spletnim mestom, naj mi ne sledijo">
-<!ENTITY dntTrackingNotOkay.accesskey "b">
-<!ENTITY doNotTrackInfo.label "Več o značilnosti Brez sledenja">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Več o možnosti Brez sledenja">
