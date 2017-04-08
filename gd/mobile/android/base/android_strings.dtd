@@ -501,7 +501,7 @@ size. -->
 <!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
-<!ENTITY contextmenu_pasteandgo "Cuir ann ┐ falbh">
+<!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
 <!ENTITY contextmenu_paste "Cuir ann">
 <!ENTITY contextmenu_copyurl "Dèan lethbhreac dhen t-seòladh">
 <!ENTITY contextmenu_edit_bookmark "Deasaich">
