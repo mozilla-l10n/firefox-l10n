@@ -4,6 +4,5 @@
 
 <!ENTITY  brandShorterName      "Firefox">
 <!ENTITY  brandShortName        "Firefox">
-<!ENTITY  brandFullName         "મોઝીલા ફાયરફોક્સ">
-<!ENTITY  vendorShortName       "મોઝીલા">
-<!ENTITY  trademarkInfo.part1   "ફાયરફોક્સ અને ફાયરફોક્સ લોગો મોઝીલા ફાઉન્ડેશન ના ટ્રેડમાર્ક છે.">
+<!ENTITY  brandFullName         "Mozilla Firefox">
+<!ENTITY  vendorShortName       "Mozilla">
