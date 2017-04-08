@@ -8,7 +8,7 @@
 <!ENTITY  trackingProtectionPrivate.label      "သီးသန့်ဝင်းဒိုးများတွင်သာလျှင်">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "ဘယ်တော့မှ">
-<!ENTITY  trackingProtectionNever.accesskey    "N">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "ပိုမိုလေ့လာရန်">
 <!ENTITY  trackingProtectionExceptions.label   "ခြွင်းချက်များ…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
@@ -67,11 +67,11 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; သည်">
 <!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "မှတ်တမ်းကို မှတ်ထားမည်">
-<!ENTITY  historyHeader.dontremember.label "မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားနဲ့">
-<!ENTITY  historyHeader.custom.label       "မှတ်တမ်းအတွက် စိတ်ကြိုက် ဖန်တီးချက် အပြင်အဆင်များကို သုံးစွဲပါ">
+<!ENTITY  historyHeader.dontremember.label "မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားပါ">
+<!ENTITY  historyHeader.custom.label       "မှတ်တမ်းအတွက် စိတ်ကြိုက်အပြင်အဆင်ကို အသုံးပြုမည်">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; သည်သင်၏ရှာဖွေမှူများကိုမှတ်သားထားပေးမည်ဖြစ်သည်။">
+<!ENTITY  rememberDescription.label      "&brandShortName; သည် ကြည့်ရှုမှတ်တမ်း၊ ဆွဲချချက်များ၊ ဖောင်များ၊ ရှာဖွေမှတ်တမ်းကို မှတ်ထားမည်ဖြစ်ပြီး ကြည့်ရှုထားသော ဝဘ်ဆိုက်များ၏ ကွတ်ကီးများကိုလည်း သိမ်းထားမည် ဖြစ်သည်။">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -90,19 +90,19 @@
 <!ENTITY  dontrememberActions.clearHistory.label "ရှာဖွေရေး မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "အမြဲ p သီးသန့်ရှာဖွေခြင်းဖြင့်သုံးမည်">
+<!ENTITY  privateBrowsingPermanent2.label "သီးသန့်ကြည့်ရှုခြင်းကို အမြဲ အသုံးပြုမည်">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
-<!ENTITY  rememberHistory2.label      "b ကြည့်ရှုသမျှနှင့် ရယူသမျှ ရာဇဝင်ကို မှတ်ထားပါ">
+<!ENTITY  rememberHistory2.label      "ကြည့်ရှုမှတ်တမ်းနှင့် ဆွဲချချက်မှတ်တမ်းကို မှတ်ထားပါ">
 <!ENTITY  rememberHistory2.accesskey  "b">
 
-<!ENTITY  rememberSearchForm.label       "ဒီကွန်ရက်များအတွက် စကားဝှက်များကို မှတ်ထားပါ f">
+<!ENTITY  rememberSearchForm.label       "ရှာဖွေမှတ်တမ်းနှင့် ဖောင်ဖြည့်မှတ်တမ်းကို မှတ်ထားပါ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Clear history when &brandShortName; closes">
+<!ENTITY  clearOnClose.label             "&brandShortName; ကို ပိတ်သောအခါတွင် မှတ်တမ်းကို ရှင်းလင်းပါ">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "t အပြင်အဆင်များ...">
+<!ENTITY  clearOnCloseSettings.label     "အပြင်အဆင်များ...">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
 <!ENTITY  browserContainersHeader.label         "ကွန်တိန်နာတပ်ဗ်များ">

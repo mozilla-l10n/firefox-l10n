@@ -6,24 +6,24 @@
 
 <!ENTITY generalTab.label                "အထွေထွေ">
 
-<!ENTITY accessibility.label             "ဆက်စပ်ပစ္စည်း">
+<!ENTITY accessibility.label             "အသုံးပြုခွင့်ရစေခြင်း">
 
-<!ENTITY useCursorNavigation.label       "စာမျက်နှာများထဲမှာ ကူးသန်းဖို့ cursor သော့ချက်များကို အမြဲသုံးစွဲပါ">
+<!ENTITY useCursorNavigation.label       "စာမျက်နှာအတွင်း ကူးသန်းရွှေ့ပြောင်းရန် ကာဆာခလုတ်ကို အမြဲ အသုံးပြုပါ">
 <!ENTITY useCursorNavigation.accesskey   "c">
-<!ENTITY searchOnStartTyping.label       "သင် စာစရိုက်သည်နှင့် စရှာပါ">
+<!ENTITY searchOnStartTyping.label       "စာစရိုက်သည်နှင့် စရှာပါ">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "သင့်အား ဝတ်ဆိုဒ်များမှ ထပ်ဆင့်ပေးပို့မည်ဆိုပါက သတိပေးမည်">
+<!ENTITY blockAutoReload.label           "ဝဘ်ဆိုက်များသည် အခြားသို့ ပြန်လည်ညွှန်းရန် သို့မဟုတ် ပြန်ဖွင့်ရန် ကြိုးစားမည်ဆိုပါက သတိပေးပါ">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "လိုအပ်လျှင် တို့ထိကီးဘုတ်ကို ပြပါ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
-<!ENTITY browsing.label                  "လှော်လှန်ခြင်း">
+<!ENTITY browsing.label                  "ကြည့်ရှုခြင်း">
 
-<!ENTITY useAutoScroll.label             "a အလိုအလျောက်စနစ်ကိုသုံးပါ">
+<!ENTITY useAutoScroll.label             "အလိုအလျောက် အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "ချောမွေ့တဲ့mလိမ့်ဆင်းမှုကို သုံးစွဲပါ">
+<!ENTITY useSmoothScrolling.label        "ချောမောလွယ်ကူသော အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "r ရရှိနိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို သုံးပါ။">
+<!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
 <!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "သင့် စာလုံးပေါင်းများအား စာရိုက်နေစဉ်စစ်ပေးမည်">
 <!ENTITY checkUserSpelling.accesskey     "t">
