@@ -4,41 +4,41 @@
 
 <!ENTITY  fontsDialog.title                       "ဖောင့်များ">
 
-<!ENTITY  language.label                          "Fonts for:">
+<!ENTITY  language.label                          "ဘာသာစကားအတွက် ဖောင့်များ">
 <!ENTITY  language.accesskey                      "F">
 
-<!ENTITY  size.label                              "အရွယ်အစား၊">
+<!ENTITY  size.label                              "အရွယ်အစား">
 <!ENTITY  sizeProportional.accesskey              "z">
 <!ENTITY  sizeMonospace.accesskey                 "e">
 
-<!ENTITY  proportional.label                      "Proportional:">
+<!ENTITY  proportional.label                      "မူရင်းဖောင့်">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
+<!ENTITY  serif.label                             "အစွန်းပါဖောင့်">
 <!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  sans-serif.label                        "အစွန်းမဲ့ဖောင့်">
 <!ENTITY  sans-serif.accesskey                    "n">
-<!ENTITY  monospace.label                         "Monospace:">
+<!ENTITY  monospace.label                         "အနံအလျားဖောင့်">
 <!ENTITY  monospace.accesskey                     "M">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "လက်တင်">
-<!ENTITY  font.langGroup.japanese                 "ဂျပန်">
-<!ENTITY  font.langGroup.trad-chinese             "ရိုးရာတရုတ်ဘာသာစကား (ထိုင်ဝမ်)">
-<!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတရုတ်ဘာသာစကား">
-<!ENTITY  font.langGroup.trad-chinese-hk          "ရိုးရာတရုတ်ဘာသာစကား (ဟောင်ကောင်)">
-<!ENTITY  font.langGroup.korean                   "ကိုရီးယား">
-<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရိလ်လစ်">
-<!ENTITY  font.langGroup.el                       "ဂရိ">
+<!ENTITY  font.langGroup.latin                    "လက်တင်ဘာသာ">
+<!ENTITY  font.langGroup.japanese                 "ဂျပန်ဘာသာ">
+<!ENTITY  font.langGroup.trad-chinese             "ရိုးရာတရုတ်ဘာသာ (ထိုင်ဝမ်)">
+<!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတရုတ်ဘာသာ">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ရိုးရာတရုတ်ဘာသာ (ဟောင်ကောင်)">
+<!ENTITY  font.langGroup.korean                   "ကိုရီးယားဘာသာ">
+<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရီလစ်ဘာသာ">
+<!ENTITY  font.langGroup.el                       "ဂရိဘာသာ">
 <!ENTITY  font.langGroup.other                    "အခြား စာရေးစနစ်များ">
-<!ENTITY  font.langGroup.thai                     "ထိုင်း">
-<!ENTITY  font.langGroup.hebrew                   "ဟေးဗြဲ">
-<!ENTITY  font.langGroup.arabic                   "အာရေဗစ်">
-<!ENTITY  font.langGroup.devanagari               "ဒေဝနာဂရီ">
-<!ENTITY  font.langGroup.tamil                    "တမီးလ်">
-<!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်း">
-<!ENTITY  font.langGroup.bengali                  "ဘင်္ဂါလီ">
+<!ENTITY  font.langGroup.thai                     "ထိုင်းဘာသာ">
+<!ENTITY  font.langGroup.hebrew                   "ဟီးဘရူးဘာသာ">
+<!ENTITY  font.langGroup.arabic                   "အာရဗီဘာသာ">
+<!ENTITY  font.langGroup.devanagari               "ဒေဝနာဂရီဘာသာ">
+<!ENTITY  font.langGroup.tamil                    "တမီးလ်ဘာသာ">
+<!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်းဘာသာ">
+<!ENTITY  font.langGroup.bengali                  "ဘင်္ဂါလီဘာသာ">
 <!ENTITY  font.langGroup.canadian                 "ကနေဒါ သင်ရိုး ပေါင်းစည်း စာလုံး">
 <!ENTITY  font.langGroup.ethiopic                 "အီသီယိုပီးယား">
 <!ENTITY  font.langGroup.georgian                 "ဂျော်ဂျီယန်">
