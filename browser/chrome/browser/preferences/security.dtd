@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Blochează descărcările periculoase">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "Te avertizează despre programe nedorite sau suspecte">
+<!ENTITY  blockUncommonAndUnwanted.label     "Avertizează despre programe nedorite sau suspecte">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Excepții…">

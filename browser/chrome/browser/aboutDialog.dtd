@@ -42,7 +42,7 @@
 <!ENTITY helpus.middle              " sau ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "implică-te!">
-<!ENTITY helpus.end                 ".">
+<!ENTITY helpus.end                 "">
 
 <!ENTITY releaseNotes.link          "Ce este nou">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
@@ -53,7 +53,7 @@
 <!ENTITY bottomLinks.rights         "Drepturile utilizatorului final">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "Politică de confidențialitate">
+<!ENTITY bottomLinks.privacy        "Politica de confidențialitate">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.checkingForUpdates  "Se caută actualizări…">

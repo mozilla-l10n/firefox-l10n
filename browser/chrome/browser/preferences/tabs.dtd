@@ -8,7 +8,7 @@
 <!ENTITY newWindowsAsTabs.label       "Deschide ferestrele noi mai degrabă într-o filă nouă">
 <!ENTITY newWindowsAsTabs.accesskey   "w">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "Te avertizează la închiderea filelor multiple">
+<!ENTITY warnOnCloseMultipleTabs.label      "Avertizează la închiderea filelor multiple">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Te avertizează atunci când deschiderea mai multor file ar putea încetini &brandShortName;">
