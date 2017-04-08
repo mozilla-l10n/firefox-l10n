@@ -41,9 +41,11 @@
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.propertiesEmpty): This is the title for the
   -  AudioNode inspector view properties tab empty message. -->
+<!ENTITY webAudioEditorUI.propertiesEmpty "Ο κόμβος δεν έχει καμία ιδιότητα.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationEmpty): This is the title for the
   -  AudioNode inspector view automation tab empty message. -->
+<!ENTITY webAudioEditorUI.automationEmpty "Ο κόμβος δεν έχει κανένα AudioParam.">
 
 <!-- LOCALIZATION NOTE (webAudioEditorUI.automationNoEvents): This is the title for the
   -  AudioNode inspector view automation tab message when there are no automation
