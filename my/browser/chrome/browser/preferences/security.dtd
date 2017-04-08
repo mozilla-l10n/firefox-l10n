@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "အထွေထွေ">
 
-<!ENTITY  warnOnAddonInstall.label        "ဆိုက်များမှ အက်အွန်များသွင်းလိုပါက သတိပေးပါ">
+<!ENTITY  warnOnAddonInstall.label        "ဝဘ်ဆိုက်များက အတ်အွန်များ တပ်ဆင်လိုသည့်အခါ သတိပေးပါ">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -17,10 +17,10 @@
 <!ENTITY  blockDownloads.label            "အန္တရာယ်ရှိသည့် ဆွဲယူထားသည့်ဖိုင်များကို တားဆီးပါ">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "မလိုချင်သော ဆော့ဝဲများအား အကြောင်းသတိပေးပါ">
+<!ENTITY  blockUncommonAndUnwanted.label     "မလိုအပ်သော၊ ပုံမှန်မဟုတ်သော ဆော့ဖ်ဝဲလ်များ တွေ့ရှိပါက သတိပေးပါ">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
-<!ENTITY  addonExceptions.label         "Eခြွင်းချက်များ...">
+<!ENTITY  addonExceptions.label         "ခြွင်းချက်များ...">
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
@@ -28,13 +28,13 @@
 
 <!ENTITY  rememberLogins.label          "ဆိုက်များအတွက် ဝင်ရောက်မှုအချက်အလက်ကို မှတ်ထားပါ R">
 <!ENTITY  rememberLogins.accesskey      "R">
-<!ENTITY  passwordExceptions.label      "x ခြွင်းချက်များ...">
+<!ENTITY  passwordExceptions.label      "ခြွင်းချက်များ...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
-<!ENTITY  useMasterPassword.label        "U ပင်မ စကားဝှက်တခု သုံးစွဲပါ။">
+<!ENTITY  useMasterPassword.label        "အဓိကစကားဝှက်တစ်ခု အသုံးပြုပါ">
 <!ENTITY  useMasterPassword.accesskey    "U">
-<!ENTITY  changeMasterPassword.label     "M ပင်မ စကားဝှက် ‌ပြောင်းပါ...">
+<!ENTITY  changeMasterPassword.label     "အဓိကစကားဝှက်ကို ပြောင်းလဲရန်…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "သိမ်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ L …">
+<!ENTITY  savedLogins.label              "သိမ်းထားသည့် ဝင်ရောက်မှု အချက်အလက်များ…">
 <!ENTITY  savedLogins.accesskey          "L">
