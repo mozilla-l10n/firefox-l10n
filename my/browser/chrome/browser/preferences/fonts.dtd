@@ -4,7 +4,7 @@
 
 <!ENTITY  fontsDialog.title                       "ဖောင့်များ">
 
-<!ENTITY  language.label                          "ဘာသာစကားအတွက် ဖောင့်များ">
+<!ENTITY  language.label                          "အက္ခရာအတွက် ဖောင့်များ">
 <!ENTITY  language.accesskey                      "F">
 
 <!ENTITY  size.label                              "အရွယ်အစား">
@@ -23,39 +23,39 @@
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-<!ENTITY  font.langGroup.latin                    "လက်တင်ဘာသာ">
-<!ENTITY  font.langGroup.japanese                 "ဂျပန်ဘာသာ">
-<!ENTITY  font.langGroup.trad-chinese             "ရိုးရာတရုတ်ဘာသာ (ထိုင်ဝမ်)">
-<!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတရုတ်ဘာသာ">
-<!ENTITY  font.langGroup.trad-chinese-hk          "ရိုးရာတရုတ်ဘာသာ (ဟောင်ကောင်)">
-<!ENTITY  font.langGroup.korean                   "ကိုရီးယားဘာသာ">
-<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရီလစ်ဘာသာ">
-<!ENTITY  font.langGroup.el                       "ဂရိဘာသာ">
+<!ENTITY  font.langGroup.latin                    "လက်တင်အက္ခရာ">
+<!ENTITY  font.langGroup.japanese                 "ဂျပန်အက္ခရာ">
+<!ENTITY  font.langGroup.trad-chinese             "ရိုးရာတရုတ်အက္ခရာ (ထိုင်ဝမ်)">
+<!ENTITY  font.langGroup.simpl-chinese            "ရိုးရှင်းတရုတ်အက္ခရာ">
+<!ENTITY  font.langGroup.trad-chinese-hk          "ရိုးရာတရုတ်အက္ခရာ (ဟောင်ကောင်)">
+<!ENTITY  font.langGroup.korean                   "ကိုရီးယားအက္ခရာ">
+<!ENTITY  font.langGroup.cyrillic                 "ဆိုင်ရီလစ်အက္ခရာ">
+<!ENTITY  font.langGroup.el                       "ဂရိအက္ခရာ">
 <!ENTITY  font.langGroup.other                    "အခြား စာရေးစနစ်များ">
-<!ENTITY  font.langGroup.thai                     "ထိုင်းဘာသာ">
-<!ENTITY  font.langGroup.hebrew                   "ဟီးဘရူးဘာသာ">
-<!ENTITY  font.langGroup.arabic                   "အာရဗီဘာသာ">
-<!ENTITY  font.langGroup.devanagari               "ဒေဝနာဂရီဘာသာ">
-<!ENTITY  font.langGroup.tamil                    "တမီးလ်ဘာသာ">
-<!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်းဘာသာ">
-<!ENTITY  font.langGroup.bengali                  "ဘင်္ဂါလီဘာသာ">
-<!ENTITY  font.langGroup.canadian                 "ကနေဒါ သင်ရိုး ပေါင်းစည်း စာလုံး">
-<!ENTITY  font.langGroup.ethiopic                 "အီသီယိုပီးယား">
-<!ENTITY  font.langGroup.georgian                 "ဂျော်ဂျီယန်">
-<!ENTITY  font.langGroup.gujarati                 "ဂူဂျာရာတီ">
-<!ENTITY  font.langGroup.gurmukhi                 "ကူရ်မူကီ စာလုံး">
-<!ENTITY  font.langGroup.khmer                    "ခမာ">
-<!ENTITY  font.langGroup.malayalam                "မလေးရာလမ်">
+<!ENTITY  font.langGroup.thai                     "ထိုင်းအက္ခရာ">
+<!ENTITY  font.langGroup.hebrew                   "ဟီးဘရူးအက္ခရာ">
+<!ENTITY  font.langGroup.arabic                   "အာရဗီအက္ခရာ">
+<!ENTITY  font.langGroup.devanagari               "ဒေဝနာဂရီအက္ခရာ">
+<!ENTITY  font.langGroup.tamil                    "တမီးလ်အက္ခရာ">
+<!ENTITY  font.langGroup.armenian                 "အာမေးနီးယန်းအက္ခရာ">
+<!ENTITY  font.langGroup.bengali                  "ဘင်္ဂါလီအက္ခရာ">
+<!ENTITY  font.langGroup.canadian                 "ပေါင်းစည်းထားသော ကနေဒါ သင်ရိုးအက္ခရာများ">
+<!ENTITY  font.langGroup.ethiopic                 "အီသီယိုပီးယားအက္ခရာ">
+<!ENTITY  font.langGroup.georgian                 "ဂျော်ဂျီယန်အက္ခရာ">
+<!ENTITY  font.langGroup.gujarati                 "ဂူဂျာရာတီအက္ခရာ">
+<!ENTITY  font.langGroup.gurmukhi                 "ဂါမူခီအက္ခရာ">
+<!ENTITY  font.langGroup.khmer                    "ခမာအက္ခရာ">
+<!ENTITY  font.langGroup.malayalam                "မာလာယာလမ်အက္ခရာ">
 <!ENTITY  font.langGroup.math                     "သင်္ချာ">
-<!ENTITY  font.langGroup.odia                     "အိုဒီးယား">
-<!ENTITY  font.langGroup.telugu                   "တယ်လကူ">
-<!ENTITY  font.langGroup.kannada                  "ကန်နာဒါ">
-<!ENTITY  font.langGroup.sinhala                  "သီဟိုဠ်ဘာသာစကား">
-<!ENTITY  font.langGroup.tibetan                  "တိဘက်ဘာသာစကား">
+<!ENTITY  font.langGroup.odia                     "အိုဒီးယားအက္ခရာ">
+<!ENTITY  font.langGroup.telugu                   "တယ်လုဂူအက္ခရာ">
+<!ENTITY  font.langGroup.kannada                  "ကန်နာဒါအက္ခရာ">
+<!ENTITY  font.langGroup.sinhala                  "သီဟိုဠ်အက္ခရာ">
+<!ENTITY  font.langGroup.tibetan                  "တိဘက်အက္ခရာ">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "အသေးဆုံးစာလုံးအရွယ်">
 <!ENTITY minSize.accesskey                        "o">
-<!ENTITY minSize.none                             "ဘာမျှမရှိ">
+<!ENTITY minSize.none                             "မရွေးပါ">
 
 <!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "အစွန်းပါ စာလုံး">
@@ -72,36 +72,36 @@
 <!ENTITY languages.customize.Fallback.auto        "ပုံသေအသုံးပြုသော ဘာသာစကား">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.arabic      "အာရပ်ဘာသာ">
-<!ENTITY languages.customize.Fallback.baltic      "ဘော်လ်တစ်ဘာသာ">
+<!ENTITY languages.customize.Fallback.arabic      "အာရဗီအက္ခရာဆိုင်ရာ">
+<!ENTITY languages.customize.Fallback.baltic      "ဘော်လ်တစ်အက္ခရာများဆိုင်ရာ">
 <!ENTITY languages.customize.Fallback.ceiso       "ဥရောပ အလယ်‌ပိုင်း ISO">
-<!ENTITY languages.customize.Fallback.cewindows   "ဥရောပအလယ်ပိုင်း, မိုက်ကရိုဆော့ဖ်">
+<!ENTITY languages.customize.Fallback.cewindows   "ဥရောပအလယ်ပိုင်း, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "တရုတ်စာ, ရိုးရှင်း">
+<!ENTITY languages.customize.Fallback.simplified  "တရုတ်အက္ခရာဆိုင်ရာ၊ ရိုးရှင်း">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "ရိုးရာ တရုတ်စာ">
-<!ENTITY languages.customize.Fallback.cyrillic    "ဆိုင်ရိလ်လစ်">
+<!ENTITY languages.customize.Fallback.traditional "တရုတ်အက္ခရာဆိုင်ရာ၊ ရိုးရာ">
+<!ENTITY languages.customize.Fallback.cyrillic    "ဆိုင်ရီလစ်ဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.greek       "ဂရိ">
+<!ENTITY languages.customize.Fallback.greek       "ဂရိအက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.hebrew      "ဟီးဗရူး">
+<!ENTITY languages.customize.Fallback.hebrew      "ဟီးဘရူးအက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.japanese    "ဂျပန်">
+<!ENTITY languages.customize.Fallback.japanese    "ဂျပန်အက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.korean      "ကိုရီးယား">
+<!ENTITY languages.customize.Fallback.korean      "ကိုရီးယားအက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.thai        "ထိုင်း">
+<!ENTITY languages.customize.Fallback.thai        "ထိုင်းအက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.turkish     "တူရကီဘာသာ">
+<!ENTITY languages.customize.Fallback.turkish     "တူရကီအက္ခရာဆိုင်ရာ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.vietnamese  "ဗီယက်နမ်ဘာသာ">
-<!ENTITY languages.customize.Fallback.other       "အခြား(အနောက်ဥရောပ အပါအဝင်)">
+<!ENTITY languages.customize.Fallback.vietnamese  "ဗီယက်နမ်အက္ခရာဆိုင်ရာ">
+<!ENTITY languages.customize.Fallback.other       "အခြား (အနောက်ဥရောပ အပါအဝင်)">
