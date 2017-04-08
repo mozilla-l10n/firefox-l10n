@@ -33,7 +33,7 @@
 <!ENTITY pref.default_task_offset_start.label "Относително началото">
 <!ENTITY pref.default_task_offset_next_hour.label "Относително следващия час">
 
-<!ENTITY pref.calendar.todaypane.agenda.caption "Дневен плот">
+<!ENTITY pref.calendar.todaypane.agenda.caption "Дневен график">
 <!ENTITY pref.soondays.label "Следващият раздел показва:">
 <!ENTITY pref.soondays.accesskey "л">
 
