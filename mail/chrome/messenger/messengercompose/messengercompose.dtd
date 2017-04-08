@@ -276,7 +276,7 @@
 <!ENTITY pasteQuote.label "Prilepi kot navedek">
 <!ENTITY pasteQuote.accesskey "n">
 
-<!ENTITY openAttachment.label "Pripni">
+<!ENTITY openAttachment.label "Odpri">
 <!ENTITY openAttachment.accesskey "O">
 <!ENTITY delete.label "Izbriši">
 <!ENTITY delete.accesskey "b">
