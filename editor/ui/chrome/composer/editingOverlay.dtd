@@ -15,7 +15,7 @@
 <!ENTITY saveCmd.accesskey "З">
 <!ENTITY saveAsCmd.label "Запазване като…">
 <!ENTITY saveAsCmd.accesskey "к">
-<!ENTITY saveAsChangeEncodingCmd2.label "Запис и промяна на кодирането">
+<!ENTITY saveAsChangeEncodingCmd2.label "Запазване и промяна на кодирането">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "к">
 <!ENTITY publishCmd.label "Публикуване">
 <!ENTITY publishCmd.accesskey "б">
@@ -34,5 +34,5 @@
 <!ENTITY newToolbarCmd.tooltip "Създаване на нова страница в композитора">
 <!ENTITY openToolbarCmd.label "Отваряне">
 <!ENTITY openToolbarCmd.tooltip "Отваряне на файл от твърдия диск">
-<!ENTITY saveToolbarCmd.tooltip "Запис на файла на твърдия диск">
+<!ENTITY saveToolbarCmd.tooltip "Запазване на файла на твърдия диск">
 <!ENTITY publishToolbarCmd.tooltip "Качаване на файл на отдалечен адрес">
