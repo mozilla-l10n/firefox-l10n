@@ -11,9 +11,9 @@
 <!ENTITY openRemoteCmd.key "L">
 <!ENTITY fileRecentMenu.label "Скорошни страници">
 <!ENTITY fileRecentMenu.accesskey "С">
-<!ENTITY saveCmd.label "Запис">
+<!ENTITY saveCmd.label "Запазване">
 <!ENTITY saveCmd.accesskey "З">
-<!ENTITY saveAsCmd.label "Запис като…">
+<!ENTITY saveAsCmd.label "Запазване като…">
 <!ENTITY saveAsCmd.accesskey "к">
 <!ENTITY saveAsChangeEncodingCmd2.label "Запис и промяна на кодирането">
 <!ENTITY saveAsChangeEncodingCmd2.accesskey "к">
