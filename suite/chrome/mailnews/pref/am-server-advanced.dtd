@@ -11,6 +11,9 @@
 <!ENTITY dualUseFolders.accesskey "v">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de conexiones del servidor a la caché">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
+<!ENTITY forceSelect.label "Enviar select IMAP al servidor al comprobar correo nuevo">
+<!ENTITY forceSelect.tooltip "Algunos servidores necesitan un select adicional IMAP para que el correo nuevo se reciba de forma fiable, o se muestre como leído despues que haya sido leído en otro dispositivo. Seleccionar esta opción causará algún incremento del tráfico de red.">
+<!ENTITY forceSelect.accesskey "s">
 <!ENTITY namespaceDesc.label "Estas preferencias especifican los espacios de nombres en su servidor IMAP">
 <!ENTITY personalNamespace.label "Espacio de nombres personal:">
 <!ENTITY personalNamespace.accesskey "E">
