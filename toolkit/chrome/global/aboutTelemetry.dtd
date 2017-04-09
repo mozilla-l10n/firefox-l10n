@@ -155,6 +155,9 @@ Ping
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Obtener nombres de función para pilas
+">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Mostrar datos de pila en bruto
