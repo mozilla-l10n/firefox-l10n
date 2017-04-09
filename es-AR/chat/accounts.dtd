@@ -12,7 +12,7 @@
 <!ENTITY accountManager.newAccount.label     "Nueva cuenta">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Cerrar">
-<!ENTITY accountManager.close.accesskey      "l">
+<!ENTITY accountManager.close.accesskey      "C">
 <!-- This should match account.commandkey in instantbird.dtd -->
 <!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
@@ -23,9 +23,9 @@
 <!ENTITY account.connect.label        "Conectar">
 <!ENTITY account.connect.accesskey    "o">
 <!ENTITY account.disconnect.label     "Desconectar">
-<!ENTITY account.disconnect.accesskey "i">
+<!ENTITY account.disconnect.accesskey "e">
 <!ENTITY account.delete.label         "Borrar">
-<!ENTITY account.delete.accesskey     "D">
+<!ENTITY account.delete.accesskey     "B">
 <!ENTITY account.edit.label           "Propiedades">
 <!ENTITY account.edit.accesskey       "P">
 <!ENTITY account.moveup.label         "Mover arriba">
@@ -35,7 +35,7 @@
 <!ENTITY account.copyDebugLog.label     "Copiar información para depuración">
 <!ENTITY account.copyDebugLog.accesskey "C">
 <!ENTITY account.showDebugLog.label     "Ver la información de depuración">
-<!ENTITY account.showDebugLog.accesskey "H">
+<!ENTITY account.showDebugLog.accesskey "V">
 <!ENTITY account.connecting           "Conectando…">
 <!ENTITY account.disconnecting        "Desconectando…">
 <!ENTITY account.disconnected         "No conectado">
