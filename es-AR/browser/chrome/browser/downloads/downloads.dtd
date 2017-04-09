@@ -71,7 +71,7 @@
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "Permitir descarga">
-<!ENTITY cmd.unblock2.accesskey           "o">
+<!ENTITY cmd.unblock2.accesskey           "m">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->

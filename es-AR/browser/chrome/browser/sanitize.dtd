@@ -49,7 +49,7 @@ that require it.  -->
 <!ENTITY dataSection.label            "Datos">
 
 <!ENTITY itemHistoryAndDownloads.label     "Historial de descargas y navegación">
-<!ENTITY itemHistoryAndDownloads.accesskey "B">
+<!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemFormSearchHistory.label       "Historial de búsquedas y formularios">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "Cookies">
@@ -59,7 +59,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.label             "Datos de sitios web sin conexión">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Sesiones activas">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "o">
 <!ENTITY itemSitePreferences.label         "Configuración específica del sitio">
 <!ENTITY itemSitePreferences.accesskey     "S">
 
@@ -67,4 +67,3 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "Esta acción no puede deshacerse.">
-
