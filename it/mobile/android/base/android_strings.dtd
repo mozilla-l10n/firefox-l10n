@@ -135,6 +135,7 @@
 <!ENTITY pref_home_updates_enabled "Attivo">
 <!ENTITY pref_home_updates_wifi "Solo con Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pagina iniziale">
+<!ENTITY home_homepage_every_new_tab "Utilizza anche per le nuove schede">
 <!ENTITY home_homepage_title "Imposta una pagina iniziale">
 <!ENTITY home_homepage_radio_default "&brandShortName; Home">
 <!ENTITY home_homepage_radio_user_address "Personalizzata">
