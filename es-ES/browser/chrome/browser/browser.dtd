@@ -141,10 +141,8 @@
 <!ENTITY backForwardButtonMenu.tooltip "Pinche con el botón derecho o arrastre hacia abajo para ver el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastre hacia abajo para ver el historial">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadButton.tooltip "Recargar esta página">
 <!ENTITY stopCmd.label "Detener">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Parar la carga de esta página">
 <!ENTITY goEndCap.tooltip "Ir a la URL de la barra de direcciones">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
@@ -170,7 +168,6 @@
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
-<!ENTITY urlbar.zoomReset.tooltip "Restablecer nivel de aumento">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY bookmarksButton.label "Marcadores">
@@ -276,6 +273,7 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
@@ -561,6 +559,8 @@
 <!ENTITY syncedTabs.context.copy.accesskey "C">
 <!ENTITY syncedTabs.context.openAllInTabs.label "Abrir todo en pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
+<!ENTITY syncedTabs.context.managedevices.label "Administrar dispositivos…">
+<!ENTITY syncedTabs.context.managedevices.accesskey "D">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "Y">
@@ -637,3 +637,28 @@
 <!ENTITY panicButton.thankyou.buttonlabel "¡Gracias!">
 <!ENTITY emeLearnMoreContextMenu.label "Más información sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY updateAvailable.message "Actualice su &brandShorterName; a lo último en velocidad y privacidad.">
+<!ENTITY updateAvailable.whatsnew.label "Ver las novedades.">
+<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateAvailable.header.message "Hay disponible una nueva actualización de &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Descargar actualización">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ahora no">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Descargar actualización de &brandShorterName;">
+<!ENTITY updateManual.message "Descargue una copia reciente de &brandShorterName; y le ayudaremos a instalarla.">
+<!ENTITY updateManual.whatsnew.label "Ver las novedades.">
+<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateManual.header.message "&brandShorterName; no puede actualizar a la última versión.">
+<!ENTITY updateManual.acceptButton.label "Descargar &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ahora no">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Descargue una copia reciente de &brandShorterName;">
+<!ENTITY updateRestart.message "Tras un reinicio rápido, &brandShorterName; restaurará todas sus pestañas y ventanas abiertas.">
+<!ENTITY updateRestart.header.message "Reinicie &brandShorterName; para aplicar la actualización.">
+<!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ahora no">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Reinicie &brandShorterName; para aplicar la actualización">

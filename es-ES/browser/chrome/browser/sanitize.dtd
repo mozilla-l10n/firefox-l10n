@@ -18,8 +18,6 @@
 <!ENTITY clearTimeDuration.today "Hoy">
 <!ENTITY clearTimeDuration.everything "Todo">
 <!ENTITY clearTimeDuration.suffix "">
-<!ENTITY clearTimeDuration.dateColumn "Fecha de visita">
-<!ENTITY clearTimeDuration.nameColumn "Nombre">
 <!ENTITY detailsProgressiveDisclosure.label "Detalles">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 <!ENTITY historySection.label "Historial">

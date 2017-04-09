@@ -71,7 +71,6 @@
 <!ENTITY autoUpdateOthers.label "Actualizar automáticamente">
 <!ENTITY enableSearchUpdate.label "Buscadores">
 <!ENTITY enableSearchUpdate.accesskey "b">
-<!ENTITY reports.label "Informes">
 <!ENTITY offlineStorageNotify.label "Avisarle cuando un sitio web solicite guardar datos para su uso sin conexión">
 <!ENTITY offlineStorageNotify.accesskey "v">
 <!ENTITY offlineStorageNotifyExceptions.label "Excepciones…">
@@ -82,6 +81,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "l">
 <!ENTITY offlineAppRemove.confirm "Eliminar contenido en modo sin conexión">
 <!ENTITY certificateTab.label "Certificados">
+<!ENTITY certPersonal.label "Solicitudes">
 <!ENTITY certPersonal.description "Cuando un servidor solicite su certificado personal:">
 <!ENTITY selectCerts.auto "Seleccionar uno automáticamente">
 <!ENTITY selectCerts.auto.accesskey "S">
