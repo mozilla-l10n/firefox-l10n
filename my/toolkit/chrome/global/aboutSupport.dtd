@@ -61,6 +61,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "တစ်ပြိုင်နက်လုပ်ဆောင်ချက် ဝင်းဒိုးများ">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "အန္တရာယ်ကင်း စနစ်">
 
 <!ENTITY aboutSupport.showDir.label "ဖွင့်ထားသော လမ်းညွှန်">
@@ -106,6 +109,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ကူးထားသောဒေတာအကြမ်းကို ကလစ်ဘုတ်သို့">
 
 <!ENTITY aboutSupport.sandboxTitle "စမ်းသပ်">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "လွန်ခဲ့သော စက္ကန့်က">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "လုပ်ငန်းစဉ် အမျိုးအစား">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "လုံခြုံရေးသုံးပုံစံ အားသုံးကြည့်မည်">
 <!ENTITY aboutSupport.restartInSafeMode.label "ထပ်ပေါင်းဆော့ဝဲများ ပိတ်ပြီး ပြန်စမည်...">
