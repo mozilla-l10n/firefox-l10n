@@ -133,6 +133,7 @@
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página de inicio">
+<!ENTITY home_homepage_every_new_tab "Usar también para pestañas nuevas">
 <!ENTITY home_homepage_title "Establecer una página de inicio">
 <!ENTITY home_homepage_radio_default "Página de inicio de &brandShortName;">
 <!ENTITY home_homepage_radio_user_address "Personalizado">
@@ -170,6 +171,9 @@
 <!ENTITY pref_category_experimental "Características experimentales">
 <!ENTITY pref_custom_tabs "Pestañas personalizadas">
 <!ENTITY pref_custom_tabs_summary3 "Permitir a apps abrir webs usando una versión personalizada de &brandShortName;">
+<!ENTITY custom_tabs_menu_item_open_in "Abrir en &formatS;">
+<!ENTITY custom_tabs_menu_footer "Basado en &brandShortName;">
+<!ENTITY custom_tabs_hint_url_copy "URL copiada">
 <!ENTITY pref_activity_stream "Flujo de actividad">
 <!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que estás buscando en &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
@@ -206,18 +210,11 @@
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play2 "Tocar para reproducir">
 <!ENTITY pref_plugins_disabled "Desactivados">
-<!ENTITY pref_text_size "Tamaño del texto">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar tras salir de &brandShortName;">
-<!ENTITY pref_font_size_tiny "Diminuto">
-<!ENTITY pref_font_size_small "Pequeño">
-<!ENTITY pref_font_size_medium "Mediano">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Extra grande">
-<!ENTITY pref_font_size_set "Usar">
-<!ENTITY pref_font_size_adjust_char "r">
-<!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
+<!ENTITY pref_use_system_font_size "Usar tamaño de letra del sistema">
+<!ENTITY pref_use_system_font_size_summary "Escalar contenido web de acuerdo al tamaño de letra del sistema">
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden autorreproducir vídeos y otro contenido de medios">
 <!ENTITY pref_zoom_force_enabled "Activar siempre tamaño personalizado">
@@ -312,6 +309,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a pantalla inicio">
+<!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
