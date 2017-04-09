@@ -159,6 +159,7 @@
 <!ENTITY pref_home_updates_wifi "Tylko przez Wi-Fi">
 
 <!ENTITY pref_category_home_homepage "Strona domowa">
+<!ENTITY home_homepage_every_new_tab "Także w nowych kartach">
 <!ENTITY home_homepage_title "Ustaw stronę domową">
 <!ENTITY home_homepage_radio_default "&brandShortName;: Strona domowa">
 <!ENTITY home_homepage_radio_user_address "Inny adres">
