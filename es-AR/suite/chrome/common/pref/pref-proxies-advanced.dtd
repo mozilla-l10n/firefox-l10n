@@ -6,15 +6,15 @@
 <!ENTITY  pref.proxies.advanced.title "Preferencias avanzadas de proxy">
 <!ENTITY  protocols.caption           "Proxies de protocolos específicos">
 <!ENTITY  protocols.description       "Normalmente el mismo proxy puede manejar todos los protocolos listados aquí.">
-<!ENTITY  http.label                  "HTTP Proxy:">
+<!ENTITY  http.label                  "Proxy HTTP:">
 <!ENTITY  http.accesskey              "x">
-<!ENTITY  ssl.label                   "SSL Proxy:">
+<!ENTITY  ssl.label                   "Proxy SSL:">
 <!ENTITY  ssl.accesskey               "L">
-<!ENTITY  ftp.label                   "FTP Proxy:">
+<!ENTITY  ftp.label                   "Proxy FTP:">
 <!ENTITY  ftp.accesskey               "F">
 <!ENTITY  reuseProxy.label            "Usar las opciones del proxy HTTP para todos los protocolos">
 <!ENTITY  reuseProxy.accesskey        "U">
-<!ENTITY  port.label                  "Port:">
+<!ENTITY  port.label                  "Puerto:">
 <!ENTITY  HTTPPort.accesskey          "P">
 <!ENTITY  SSLPort.accesskey           "o">
 <!ENTITY  FTPPort.accesskey           "r">

@@ -2,39 +2,39 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY FallbackCharset.auto         "Default for Current Locale">
+<!ENTITY FallbackCharset.auto         "Predeterminado de la localización actual">
 <!-- LOCALIZATION NOTE (FallbackCharset.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.arabic       "Arabic">
-<!ENTITY FallbackCharset.baltic       "Baltic">
-<!ENTITY FallbackCharset.ceiso        "Central European, ISO">
-<!ENTITY FallbackCharset.cewindows    "Central European, Microsoft">
+<!ENTITY FallbackCharset.arabic       "Árabe">
+<!ENTITY FallbackCharset.baltic       "Báltico">
+<!ENTITY FallbackCharset.ceiso        "Europeo central, ISO">
+<!ENTITY FallbackCharset.cewindows    "Europeo central, Microsoft">
 <!-- LOCALIZATION NOTE (FallbackCharset.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.simplified   "Chinese, Simplified">
+<!ENTITY FallbackCharset.simplified   "Chino, simplificado">
 <!-- LOCALIZATION NOTE (FallbackCharset.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.traditional  "Chinese, Traditional">
-<!ENTITY FallbackCharset.cyrillic     "Cyrillic">
+<!ENTITY FallbackCharset.traditional  "Chino, tradicional">
+<!ENTITY FallbackCharset.cyrillic     "Cirílico">
 <!-- LOCALIZATION NOTE (FallbackCharset.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.greek        "Greek">
+<!ENTITY FallbackCharset.greek        "Griego">
 <!-- LOCALIZATION NOTE (FallbackCharset.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.hebrew       "Hebrew">
+<!ENTITY FallbackCharset.hebrew       "Hebreo">
 <!-- LOCALIZATION NOTE (FallbackCharset.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.japanese     "Japanese">
+<!ENTITY FallbackCharset.japanese     "Japonés">
 <!-- LOCALIZATION NOTE (FallbackCharset.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.korean       "Korean">
+<!ENTITY FallbackCharset.korean       "Coreano">
 <!-- LOCALIZATION NOTE (FallbackCharset.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.thai         "Thai">
+<!ENTITY FallbackCharset.thai         "Tailandés">
 <!-- LOCALIZATION NOTE (FallbackCharset.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.turkish      "Turkish">
+<!ENTITY FallbackCharset.turkish      "Turco">
 <!-- LOCALIZATION NOTE (FallbackCharset.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY FallbackCharset.vietnamese   "Vietnamese">
-<!ENTITY FallbackCharset.other        "Other (including Western European)">
+<!ENTITY FallbackCharset.vietnamese   "Vietnamita">
+<!ENTITY FallbackCharset.other        "Otro (incluyendo europeo occidental)">

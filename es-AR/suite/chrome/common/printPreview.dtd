@@ -30,8 +30,8 @@
 <!ENTITY p175.label           "175&#037;">
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Personalizar…">
-<!ENTITY ShrinkToFit.label    "Shrink To Fit">
-<!ENTITY customPrompt.title   "Custom Scale…">
+<!ENTITY ShrinkToFit.label    "Ajustar a la página">
+<!ENTITY customPrompt.title   "Escala personalizada…">
 
 <!ENTITY homearrow.tooltip    "Primera página">
 <!ENTITY endarrow.tooltip     "Última página">
