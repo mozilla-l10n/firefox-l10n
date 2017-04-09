@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "allalaadimised">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "järjehoidjad">
-<!ENTITY aboutPrivateBrowsing.note.before                "Privaatne veebilehitsemine ei muuda sind internetis">
+<!ENTITY aboutPrivateBrowsing.note.before                "Privaatne veebilehitsemine ei muuda sind internetis ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "anonüümseks">
 <!ENTITY aboutPrivateBrowsing.note.after                 ". Sinu interneti teenusepakkuja või tööandja võib siiski sinu poolt külastatavaid lehti jälgida.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Rohkem teavet ">
