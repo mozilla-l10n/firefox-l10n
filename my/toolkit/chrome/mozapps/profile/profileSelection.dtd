@@ -9,23 +9,23 @@
 
 <!ENTITY            profilename.label      "ကိုယ်ရေးမှတ်တမ်း အမည်">
 
-<!ENTITY            start.label            "&brandShortName; စတင်ပါ">
-<!ENTITY            exit.label             "ထွက်ခွါပါ">
+<!ENTITY            start.label            "&brandShortName; ကို စတင်ပါ">
+<!ENTITY            exit.label             "ထွက်ရန်">
 
-<!ENTITY            availprofiles.label    "ရနိုင်တဲ့ ကိုယ်ရေးမှတ်တမ်း">
+<!ENTITY            availprofiles.label    "ရှိနေသော ကိုယ်ရေးမှတ်တမ်းများ">
 
-<!ENTITY            newButton.label        "Cယူဇာအကောင့်ဖန်တီးပါ...">
+<!ENTITY            newButton.label        "ပရိုဖိုင်းလ်အသစ် ဖန်တီးရန်…">
 <!ENTITY            newButton.accesskey    "C">
-<!ENTITY            renameButton.label     "Rယူဇာအကောင့်အားနာမည်ပြောင်း">
+<!ENTITY            renameButton.label     "ပရိုဖိုင်းလ်ကို အမည်ပြောင်းရန်…">
 <!ENTITY            renameButton.accesskey "R">
-<!ENTITY            deleteButton.label     "Dယူဇာအကောင့်ပယ်ဖျက်ပါ...">
+<!ENTITY            deleteButton.label     "ပရိုဖိုင်းလ်ကို ဖျက်ရန်…">
 <!ENTITY            deleteButton.accesskey "D">
-<!-- manager entities -->
 
+<!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; က သင့်ရဲ့ အပြင်အဆင်များ၊ ဦးစားပေးချက်များနဲ့ အခြား သုံးစွဲသူ အချက်များကို သင့်ရဲ့ သုံးစွဲသူ ကိုယ်ရေးမှတ်တမ်းထဲမှာ သိုထားတယ်။">
 
-<!ENTITY            offlineState.label    "oအင်တာနက်မဲ့">
+<!ENTITY            offlineState.label    "ကွန်ယက်မဲ့ အသုံးပြုရန်">
 <!ENTITY            offlineState.accesskey "o">
 
-<!ENTITY            useSelected.label       "(s) ရွေးထားသော ပရိုဖိုင်အား စံအဖြစ်သုံးမည်">
+<!ENTITY            useSelected.label       "စတင်ချိန်တွင် မမေးပဲ ရွေးထားသော ပရိုဖိုင်းလ်ကို အသုံးပြုပါ">
 <!ENTITY            useSelected.accesskey   "s">
