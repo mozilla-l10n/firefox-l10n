@@ -497,7 +497,7 @@ size. -->
 <!ENTITY media_stop "Стоп">
 
 <!ENTITY contextmenu_open_new_tab "Відкрити у новій вкладці">
-<!ENTITY contextmenu_open_private_tab "Відкрити в приватній вкладці">
+<!ENTITY contextmenu_open_private_tab "Відкрити у приватній вкладці">
 <!ENTITY contextmenu_remove "Вилучити">
 <!ENTITY contextmenu_add_to_launcher "Додати на головний екран">
 <!ENTITY contextmenu_share "Поділитись">
