@@ -8,7 +8,7 @@
 <!ENTITY autoDowngrade.accesskey      "t">
 <!ENTITY sendMaildesc.label           "Cuando se envía un mensaje en formato HTML y uno o más de los destinatarios no están listados como capaces de recibir correo HTML:">
 <!ENTITY askMe.label                  "Preguntarme qué hacer">
-<!ENTITY askMe.accesskey              "k">
+<!ENTITY askMe.accesskey              "P">
 <!ENTITY convertPlain.label           "Convertir el mensaje a texto plano">
 <!ENTITY convertPlain.accesskey       "c">
 <!ENTITY sendHTML.label               "Enviar el mensaje en HTML igualmente">
@@ -25,14 +25,13 @@
 <!ENTITY AddHtmlDomain.label          "Agregar…">
 <!ENTITY AddHtmlDomain.accesskey      "a">
 <!ENTITY AddPlainText.label           "Agregar…">
-<!ENTITY AddPlainText.accesskey       "d">
+<!ENTITY AddPlainText.accesskey       "g">
 <!ENTITY DeleteHtmlDomain.label       "Borrar">
-<!ENTITY DeleteHtmlDomain.accesskey   "l">
+<!ENTITY DeleteHtmlDomain.accesskey   "B">
 <!ENTITY DeletePlainText.label        "Borrar">
-<!ENTITY DeletePlainText.accesskey    "t">
+<!ENTITY DeletePlainText.accesskey    "o">
 
 <!ENTITY add.htmltitle                "Agregar el nombre del dominio HTML">
 <!ENTITY add.htmldomain               "Nombre de dominio HTML:">
 <!ENTITY add.plaintexttitle           "Agregar el nombre de dominio de texto plano">
 <!ENTITY add.plaintextdomain          "Nombre de dominio de texto plano:">
-

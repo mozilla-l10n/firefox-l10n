@@ -55,7 +55,7 @@
 <!ENTITY autoMarkAsRead.label             "Marcar mensajes como leídos automáticamente">
 <!ENTITY autoMarkAsRead.accesskey         "A">
 <!ENTITY markAsReadNoDelay.label          "Inmediatamente en pantalla">
-<!ENTITY markAsReadNoDelay.accesskey      "o">
+<!ENTITY markAsReadNoDelay.accesskey      "I">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
