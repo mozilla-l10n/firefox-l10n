@@ -638,3 +638,28 @@
 <!ENTITY panicButton.thankyou.buttonlabel "Grazie">
 <!ENTITY emeLearnMoreContextMenu.label "Ulteriori informazioni sul DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY updateAvailable.message "Aggiorna &brandShorterName; per ottenere il massimo della velocità e della privacy.">
+<!ENTITY updateAvailable.whatsnew.label "Scopri le novità.">
+<!ENTITY updateAvailable.whatsnew.href "https://www.mozilla.org/">
+<!ENTITY updateAvailable.header.message "È disponibile un nuovo aggiornamento di &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Scarica l’aggiornamento">
+<!ENTITY updateAvailable.acceptButton.accesskey "S">
+<!ENTITY updateAvailable.cancelButton.label "Non adesso">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Scarica l’aggiornamento di &brandShorterName;">
+<!ENTITY updateManual.message "Scarica un’altra copia di &brandShorterName; e cercheremo di aiutarti con l’installazione.">
+<!ENTITY updateManual.whatsnew.label "Scopri le novità.">
+<!ENTITY updateManual.whatsnew.href "https://www.mozilla.org/">
+<!ENTITY updateManual.header.message "Non è stato possibile aggiornare &brandShorterName; all’ultima versione disponibile.">
+<!ENTITY updateManual.acceptButton.label "Scarica &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "S">
+<!ENTITY updateManual.cancelButton.label "Non adesso">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Scarica un’altra copia di &brandShorterName;">
+<!ENTITY updateRestart.message "Dopo il riavvio verranno ripristinate tutte le schede e le finestre attualmente aperte.">
+<!ENTITY updateRestart.header.message "Riavvia &brandShorterName; per installare l’aggiornamento.">
+<!ENTITY updateRestart.acceptButton.label "Riavvia e ripristina">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Non adesso">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Riavvia &brandShorterName; per installare l’aggiornamento">
