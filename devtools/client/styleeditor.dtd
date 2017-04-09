@@ -15,8 +15,10 @@
 <!ENTITY newButton.accesskey        "Ν">
 
 <!ENTITY importButton.label         "Εισαγωγή…">
+<!ENTITY importButton.tooltip       "Εισαγωγή και επισύναψη ενός υπάρχοντος φύλλου στυλ στο έγγραφο">
 <!ENTITY importButton.accesskey     "Ε">
 
+<!ENTITY visibilityToggle.tooltip   "Εναλλαγή ορατότητας φύλλου στυλ">
 
 <!ENTITY saveButton.label           "Αποθήκευση">
 <!ENTITY saveButton.tooltip         "Αποθήκευση φύλλου στυλ σε αρχείο">
@@ -30,6 +32,7 @@
 
 <!-- LOCALIZATION NOTE  (showOriginalSources.accesskey): This is the access key for
      the menu item to toggle showing original sources in the editor. -->
+<!ENTITY showOriginalSources.accesskey  "α">
 
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
