@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Näytä kaikki kirjanmerkit">
 <!ENTITY recentBookmarks.label "Viimeksi lisätyt">
 <!ENTITY otherBookmarksCmd.label "Muut kirjanmerkit">
+<!ENTITY mobileBookmarksCmd.label "Kannettavan laitteen kirjanmerkit">
 <!ENTITY bookmarksToolbarChevron.tooltip "Näytä lisää kirjanmerkkejä">
 <!ENTITY showRecentlyBookmarked.label     "Näytä viimeksi lisätyt">
 <!ENTITY showRecentlyBookmarked.accesskey "v">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Kirjanmerkit">
 <!ENTITY bookmarksMenuButton.other.label "Muut kirjanmerkit">
+<!ENTITY bookmarksMenuButton.mobile.label "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ei avoimia välilehtiä">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Näytä lisää">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Näytä lisää välilehtiä tältä laitteelta">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Näytä kaikki">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Näytä kaikki välilehdet tältä laitteelta">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Ota välilehtien synkronointi käyttöön, jotta voit katsella listaa muiden laitteidesi välilehdistä.">
