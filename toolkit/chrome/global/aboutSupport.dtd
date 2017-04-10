@@ -61,6 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ventanes multiprocesu">
 
+
 <!ENTITY aboutSupport.appBasicsSafeMode "Mou seguru">
 
 <!ENTITY aboutSupport.showDir.label "Abrir direutoriu">
@@ -102,8 +103,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Historial d'instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial d'anovamientos">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "">
 
 <!ENTITY aboutSupport.sandboxTitle "Entornu de pruebes">
 
