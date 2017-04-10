@@ -133,6 +133,7 @@
 <!ENTITY pref_home_updates_enabled "Включено">
 <!ENTITY pref_home_updates_wifi "Только через Wi-Fi">
 <!ENTITY pref_category_home_homepage "Домашняя страница">
+<!ENTITY home_homepage_every_new_tab "Также использовать для новых вкладок">
 <!ENTITY home_homepage_title "Установка домашней страницы">
 <!ENTITY home_homepage_radio_default "Домашняя страница &brandShortName;">
 <!ENTITY home_homepage_radio_user_address "Другая">
@@ -308,6 +309,7 @@
 <!ENTITY contextmenu_open_private_tab "Открыть в приватной вкладке">
 <!ENTITY contextmenu_remove "Удалить">
 <!ENTITY contextmenu_add_to_launcher "Добавить на домашний экран">
+<!ENTITY contextmenu_set_as_homepage "Установить как домашнюю страницу">
 <!ENTITY contextmenu_share "Поделиться">
 <!ENTITY contextmenu_pasteandgo "Вставить и перейти">
 <!ENTITY contextmenu_paste "Вставить">

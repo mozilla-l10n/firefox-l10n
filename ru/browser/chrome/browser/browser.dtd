@@ -637,3 +637,28 @@
 <!ENTITY panicButton.thankyou.buttonlabel "Спасибо!">
 <!ENTITY emeLearnMoreContextMenu.label "Узнать больше о DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "а">
+<!ENTITY updateAvailable.message "Обновитесь на последнюю версию &brandShorterName; для повышения скорости и приватности.">
+<!ENTITY updateAvailable.whatsnew.label "Посмотреть, что нового.">
+<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateAvailable.header.message "Доступна новая версия &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Загрузить обновление">
+<!ENTITY updateAvailable.acceptButton.accesskey "а">
+<!ENTITY updateAvailable.cancelButton.label "Не сейчас">
+<!ENTITY updateAvailable.cancelButton.accesskey "е">
+<!ENTITY updateAvailable.panelUI.label "Загрузите обновление &brandShorterName;">
+<!ENTITY updateManual.message "Загрузите новую версию &brandShorterName; и мы поможем вам её установить.">
+<!ENTITY updateManual.whatsnew.label "Посмотреть, что нового.">
+<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateManual.header.message "&brandShorterName; не может обновиться до последней версии.">
+<!ENTITY updateManual.acceptButton.label "Загрузить &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "а">
+<!ENTITY updateManual.cancelButton.label "Не сейчас">
+<!ENTITY updateManual.cancelButton.accesskey "е">
+<!ENTITY updateManual.panelUI.label "Загрузите новую версию &brandShorterName;">
+<!ENTITY updateRestart.message "После быстрого перезапуска, &brandShorterName; восстановит все открытые вами вкладки и окна.">
+<!ENTITY updateRestart.header.message "Перезапустите &brandShorterName; для применения обновления.">
+<!ENTITY updateRestart.acceptButton.label "Перезапустить и восстановить">
+<!ENTITY updateRestart.acceptButton.accesskey "з">
+<!ENTITY updateRestart.cancelButton.label "Не сейчас">
+<!ENTITY updateRestart.cancelButton.accesskey "е">
+<!ENTITY updateRestart.panelUI.label "Перезапустите &brandShorterName; для применения обновления">
