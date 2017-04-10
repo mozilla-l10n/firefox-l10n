@@ -143,7 +143,7 @@
 <!ENTITY  event.menu.options.privacy.public.label             "Публично събитие">
 <!ENTITY  event.menu.options.privacy.public.accesskey         "л">
 <!ENTITY  event.menu.options.privacy.confidential.label       "Само часа и датата видими">
-<!ENTITY  event.menu.options.privacy.confidential.accesskey   "П">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "д">
 <!ENTITY  event.menu.options.privacy.private.label            "Лично събитие">
 <!ENTITY  event.menu.options.privacy.private.accesskey        "ч">
 <!ENTITY  event.menu.options.show.time.label                  "Показване като">
@@ -154,7 +154,7 @@
 <!ENTITY  event.menu.options.show.time.free.accesskey         "б">
 
 <!ENTITY event.invite.attendees.label                     "Изпращане на покани…">
-<!ENTITY event.invite.attendees.accesskey                 "ч">
+<!ENTITY event.invite.attendees.accesskey                 "п">
 <!ENTITY event.email.attendees.label                      "Създаване на писмо до всички участници…">
 <!ENTITY event.email.attendees.accesskey                  "в">
 <!ENTITY event.email.tentative.attendees.label            "Създаване на писмо до нерешилите участници">
@@ -228,7 +228,7 @@
 <!ENTITY event.description.label                          "Описание:" >
 <!ENTITY event.description.accesskey                      "п">
 <!ENTITY event.attachments.label                          "Прикачени файлове:" >
-<!ENTITY event.attachments.accesskey                      "т" >
+<!ENTITY event.attachments.accesskey                      "ф" >
 <!ENTITY event.attachments.menubutton.label               "Прилагане">
 <!ENTITY event.attachments.menubutton.accesskey           "П">
 <!ENTITY event.attachments.url.label                      "Уебстраница…">
