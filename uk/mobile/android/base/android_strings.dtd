@@ -595,12 +595,12 @@ size. -->
 <!ENTITY home_clear_history_confirm "Ви впевнені, що хочете стерти свою історію?">
 <!ENTITY home_bookmarks_empty "Тут з’являтимуться збережені вами закладки.">
 <!ENTITY home_closed_tabs_title2 "Недавно закриті">
-<!ENTITY home_last_tabs_empty "Тут з’являтимуться ваші недавні вкладки.">
+<!ENTITY home_last_tabs_empty "Тут з’являтимуться ваші останні вкладки.">
 <!ENTITY home_restore_all "Відновити всі">
 <!ENTITY home_closed_tabs_number "&formatD; вкладок">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 вкладка">
-<!ENTITY home_most_recent_empty "Ваші недавно відвідані сайти будуть тут.">
+<!ENTITY home_most_recent_empty "Тут з’являтимуться ваші найбільш відвідувані сайти.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
