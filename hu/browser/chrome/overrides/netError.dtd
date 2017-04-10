@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Probléma az oldal betöltése közben">
 <!ENTITY retry.label "Próbálja újra">
 <!ENTITY returnToPreviousPage.label "Ugrás vissza">
-
+<!ENTITY advanced.label "Speciális">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p> A &brandShortName; nem tudja betölteni az oldalt valamilyen okból.</p>">
 
 <!ENTITY captivePortal.title "Bejelentkezés a hálózatba">
+<!ENTITY captivePortal.longDesc2 "<p>Az internet elérése előtt be kell jelentkezni a hálózatra.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Hálózati bejelentkezés oldal megnyitása">
 
 <!ENTITY malformedURI.title "A cím érvénytelen">
 <!ENTITY malformedURI.longDesc "<ul> <li>A webcímeket általában <strong>http://www.example.com/</strong> formában írják.</li> <li>Ellenőrizze, hogy előre dőlő perjeleket használ-e (azaz: <strong>/</strong>).</li> </ul>">
@@ -107,6 +108,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTime_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTime_systemDate'/> van, valójában <span id='wrongSystemTime_actualDate'/>. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>A &brandShortName; nem kapcsolódott ehhez: <span id='wrongSystemTimeWithoutReference_URL'/>, mert a számítógépe órája úgy tűnik, rosszul jár, emiatt nem lehet biztonságosan kapcsolódni.</p> <p>A számítógépe azt hiszi <span id='wrongSystemTimeWithoutReference_systemDate'/> van. Ennek javításához módosítsa a dátum- és időbeállításait, hogy azok megfeleljenek a valós időnek.</p>">
 
 <!ENTITY certerror.pagetitle1  "Nem biztonságos kapcsolat">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ez az oldal HTTP Strict Transport Security (HSTS) használatával adja meg, hogy a &brandShortName; csak biztonságosan kapcsolódjon. Emiatt nem lehet kivételt felvenni ehhez a tanúsítványhoz.">
