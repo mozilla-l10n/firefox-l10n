@@ -49,7 +49,7 @@
 
 <!ENTITY connection.label                "Conexión">
 
-<!ENTITY connectionDesc.label            "Configurar cómo se conecta &brandShortName; a internet">
+<!ENTITY connectionDesc.label            "Configurar cómo se conecta &brandShortName; a Internet">
 <!ENTITY connectionSettings.label        "Configurar…">
 <!ENTITY connectionSettings.accesskey    "C">
 
