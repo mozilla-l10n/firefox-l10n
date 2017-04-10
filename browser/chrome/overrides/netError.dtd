@@ -52,7 +52,9 @@
 ">
 
 <!ENTITY captivePortal.title "Kirjaudu verkkoon">
+<!ENTITY captivePortal.longDesc2 "<p>Tähän verkkoon täytyy kirjautua ennen internetin käyttämistä.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Avaa verkon kirjautumissivu">
 
 <!ENTITY malformedURI.title "Virheellinen osoite">
 <!ENTITY malformedURI.longDesc "
