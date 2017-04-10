@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "Huliðsstilling">
 <!ENTITY privateBrowsing.title.tracking                  "Huliðsgluggi er með vörn gegn því að fylgst sé með þér">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Þegar þú vafrar huliðsglugga, mun Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Þegar þú vafrar með huliðsglugga, mun Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ekki vista">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "heimsóttar síður">
@@ -16,7 +16,7 @@
 <!ENTITY aboutPrivateBrowsing.info.cookies               "smákökur">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "tímabundnar skrár">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
-<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "mun vista">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "mun hins vegar vista">
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "niðurhal">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "bókamerki">
@@ -28,5 +28,5 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
 <!ENTITY trackingProtection.title                        "Vörn gegn því að fylgst sé með þér">
-<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn því að fylgst sé með þér getur Firefox lokað á marga rekjara sem safna upplýsingum um þína vafranotkun.">
+<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn því að fylgst sé með þér getur Firefox lokað á flesta rekjara sem safna upplýsingum um þína vafranotkun.">
 <!ENTITY trackingProtection.startTour1                   "Sjá hvernig þetta virkar">
