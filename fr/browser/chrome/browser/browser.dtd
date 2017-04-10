@@ -898,3 +898,31 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "En savoir plus sur les DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.message "Mettez à jour votre version de &brandShorterName; pour bénéficier des dernières améliorations en matière de sécurité et de vie privée.">
+<!ENTITY updateAvailable.whatsnew.label "Découvrez les nouveautés.">
+<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateAvailable.header.message "Une nouvelle mise à jour de &brandShorterName; est disponible.">
+<!ENTITY updateAvailable.acceptButton.label "Télécharger la mise à jour">
+<!ENTITY updateAvailable.acceptButton.accesskey "T">
+<!ENTITY updateAvailable.cancelButton.label "Plus tard">
+<!ENTITY updateAvailable.cancelButton.accesskey "P">
+<!ENTITY updateAvailable.panelUI.label "Télécharger la mise à jour de &brandShorterName;">
+
+<!ENTITY updateManual.message "Téléchargez à nouveau &brandShorterName; et nous pourrons vous guider pour l’installer.">
+<!ENTITY updateManual.whatsnew.label "Découvrez les nouveautés.">
+<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
+<!ENTITY updateManual.header.message "&brandShorterName; ne peut pas être mis à jour vers la version la plus récente.">
+<!ENTITY updateManual.acceptButton.label "Télécharger &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "T">
+<!ENTITY updateManual.cancelButton.label "Plus tard">
+<!ENTITY updateManual.cancelButton.accesskey "P">
+<!ENTITY updateManual.panelUI.label "Télécharger &brandShorterName; à nouveau">
+
+<!ENTITY updateRestart.message "Après un rapide redémarrage, &brandShorterName; restaurera l’ensemble de vos fenêtres et onglets ouverts.">
+<!ENTITY updateRestart.header.message "Redémarrez &brandShorterName; pour appliquer la mise à jour.">
+<!ENTITY updateRestart.acceptButton.label "Redémarrer et restaurer">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Plus tard">
+<!ENTITY updateRestart.cancelButton.accesskey "P">
+<!ENTITY updateRestart.panelUI.label "Redémarrer &brandShorterName; pour appliquer la mise à jour">
