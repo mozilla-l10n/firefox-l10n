@@ -16,7 +16,7 @@
 <!ENTITY  rememberChoice.label        "Bu cür bütün fayllar üçün bunu avtomatik et.">
 <!ENTITY  rememberChoice.accesskey    "a">
 
-<!ENTITY  whichIs.label              "hansı ki budur:">
+<!ENTITY  whichIs.label              "növü:">
 
 <!ENTITY  chooseHandlerMac.label      "Seç…">
 <!ENTITY  chooseHandlerMac.accesskey  "S">
