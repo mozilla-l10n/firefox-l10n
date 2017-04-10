@@ -18,8 +18,8 @@
 <!ENTITY views.tooltip                  "Змінити вигляд">
 <!ENTITY view.columns.label             "Показати колонки">
 <!ENTITY view.columns.accesskey         "к">
-<!ENTITY view.sort.label                "Сортувати">
-<!ENTITY view.sort.accesskey            "С">
+<!ENTITY view.sort.label                "Впорядкувати">
+<!ENTITY view.sort.accesskey            "п">
 <!ENTITY view.unsorted.label            "Несортоване">
 <!ENTITY view.unsorted.accesskey        "Н">
 <!ENTITY view.sortAscending.label       "Висхідний порядок">
@@ -58,8 +58,8 @@
 <!ENTITY cmd.properties.label      "Властивості">
 <!ENTITY cmd.properties.accesskey  "і">
 
-<!ENTITY cmd.sortby_name.label              "Сортувати за ім’ям">
-<!ENTITY cmd.sortby_name.accesskey          "С">
+<!ENTITY cmd.sortby_name.label              "Впорядкувати за назвою">
+<!ENTITY cmd.sortby_name.accesskey          "о">
 <!ENTITY cmd.context_sortby_name.accesskey  "С">
 
 <!ENTITY cmd.new_bookmark.label            "Нова закладка…">
