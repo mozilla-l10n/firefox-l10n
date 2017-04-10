@@ -23,7 +23,7 @@
 <!ENTITY valueColumn.label "Значення">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Натисніть для сортування"> 
+<!ENTITY prefColumnHeader.tooltip "Натисніть для впорядкування"> 
 <!ENTITY columnChooser.tooltip "Натисніть, щоб вибрати колонки для відображення"> 
 
 <!-- Context Menu -->

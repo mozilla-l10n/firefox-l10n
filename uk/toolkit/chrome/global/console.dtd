@@ -30,8 +30,8 @@
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Висхідний порядок">
 <!ENTITY sortFirst.accesskey "х">
-<!ENTITY sortLast.label      "Низхідний порядок">
-<!ENTITY sortLast.accesskey  "Н">
+<!ENTITY sortLast.label      "За спаданням">
+<!ENTITY sortLast.accesskey  "с">
 <!ENTITY closeCmd.commandkey "w">  
 <!ENTITY focus1.commandkey   "l">  
 <!ENTITY focus2.commandkey   "d">  
