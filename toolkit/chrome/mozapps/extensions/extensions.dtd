@@ -170,13 +170,13 @@
 
 <!-- list sorting -->
 <!ENTITY sort.name.label                      "Назва">
-<!ENTITY sort.name.tooltip                    "Сортувати за назвою">
+<!ENTITY sort.name.tooltip                    "Впорядкувати за назвою">
 <!ENTITY sort.dateUpdated.label               "Востаннє оновлено">
-<!ENTITY sort.dateUpdated.tooltip             "Сортувати за датою оновлення">
+<!ENTITY sort.dateUpdated.tooltip             "Впорядкувати за датою оновлення">
 <!ENTITY sort.relevance.label                 "Найкращий збіг">
-<!ENTITY sort.relevance.tooltip               "Сортувати за релевантністю">
+<!ENTITY sort.relevance.tooltip               "Впорядкувати за релевантністю">
 <!ENTITY sort.price.label                     "Ціна">
-<!ENTITY sort.price.tooltip                   "Сортувати за ціною">
+<!ENTITY sort.price.tooltip                   "Впорядкувати за ціною">
 
 <!ENTITY search.filter2.label                 "Пошук:">
 <!ENTITY search.filter2.installed.label       "Мої додатки">
