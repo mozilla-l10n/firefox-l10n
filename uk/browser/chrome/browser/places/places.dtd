@@ -27,11 +27,11 @@
 <!ENTITY view.sortDescending.label      "За спаданням">
 <!ENTITY view.sortDescending.accesskey  "с">
 
-<!ENTITY importBookmarksFromHTML.label     "Імпортувати закладки з HTML…">
+<!ENTITY importBookmarksFromHTML.label     "Імпорт закладок з HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "І">
-<!ENTITY exportBookmarksToHTML.label       "Експортувати закладки в HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Експорт закладок в HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "Е">
-<!ENTITY importOtherBrowser.label          "Імпортувати дані з іншого браузера…">
+<!ENTITY importOtherBrowser.label          "Імпорт даних з іншого браузера…">
 <!ENTITY importOtherBrowser.accesskey      "б">
 
 <!ENTITY cmd.backup.label               "Створити резервну копію…">
@@ -76,7 +76,7 @@
 <!ENTITY cmd.moveBookmarks.label                  "Перенести…">
 <!ENTITY cmd.moveBookmarks.accesskey              "П">
 
-<!ENTITY col.name.label          "Ім’я">
+<!ENTITY col.name.label          "Назва">
 <!ENTITY col.tags.label          "Мітки">
 <!ENTITY col.url.label           "Адреса">
 <!ENTITY col.mostrecentvisit.label "Останнє відвідування">
@@ -92,7 +92,7 @@
 
 <!ENTITY maintenance.label      "Імпорт і резервні копії">
 <!ENTITY maintenance.accesskey  "І">
-<!ENTITY maintenance.tooltip    "Імпортування та створення резервних копій ваших закладок">
+<!ENTITY maintenance.tooltip    "Імпорт і резервне копіювання закладок">
 
 <!ENTITY backButton.tooltip  "Повернутись назад">
 
