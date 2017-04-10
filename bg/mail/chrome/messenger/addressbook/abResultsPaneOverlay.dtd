@@ -19,7 +19,7 @@
 <!ENTITY Department.label                      "Отдел">
 <!ENTITY Department.accesskey                  "т">
 <!ENTITY JobTitle.label                        "Длъжност">
-<!ENTITY JobTitle.accesskey                    "З">
+<!ENTITY JobTitle.accesskey                    "д">
 <!ENTITY CellularNumber.label                  "Мобилен телефон">
 <!ENTITY CellularNumber.accesskey              "М">
 <!ENTITY PagerNumber.label                     "Пейджър">
