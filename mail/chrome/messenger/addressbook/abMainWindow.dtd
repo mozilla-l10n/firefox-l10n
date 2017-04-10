@@ -199,7 +199,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY Department.label                               "Отдел">
 <!ENTITY Department.accesskey                           "О">
 <!ENTITY JobTitle.label                                 "Длъжност">
-<!ENTITY JobTitle.accesskey                             "З">
+<!ENTITY JobTitle.accesskey                             "д">
 <!ENTITY CellularNumber.label                           "Мобилен телефон">
 <!ENTITY CellularNumber.accesskey                       "М">
 <!ENTITY PagerNumber.label                              "Пейджър">
