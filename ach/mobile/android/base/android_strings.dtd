@@ -368,7 +368,7 @@ size. -->
 <!ENTITY pref_zoom_force_enabled "Pol kare cak kwoto">
 <!ENTITY pref_zoom_force_enabled_summary "Dii tic pire kene wek i kwot potbuk mo keken">
 <!ENTITY pref_voice_input "Ket me dwon">
-
+<!ENTITY pref_voice_input_summary2 "Yee lok me dwon i lanyut me URL">
 <!ENTITY pref_qrcode_enabled "Lakwan kod me QR">
 <!ENTITY pref_qrcode_enabled_summary2 "Yee lameny QR i lanyut me URL">
 
@@ -461,7 +461,7 @@ size. -->
 <!ENTITY save_as_pdf "Gwok Calo PDF">
 <!ENTITY print "Go">
 <!ENTITY find_in_page "Nong i potbuk">
-
+<!ENTITY desktop_mode "Kwa kakube me wang kompiuta">
 <!ENTITY page "Potbuk">
 <!ENTITY tools "Gitic">
 <!ENTITY new_tab "dirica matidi manyen">
