@@ -51,7 +51,11 @@
 ">
 
 <!ENTITY captivePortal.title "Prijavite se v omrežje">
+<!ENTITY captivePortal.longDesc2 "
+<p>Za dostop do interneta se morate prijaviti v to omrežje.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Odpri stran za prijavo v omrežje">
 
 <!ENTITY malformedURI.title "Neveljaven naslov">
 <!ENTITY malformedURI.longDesc "
