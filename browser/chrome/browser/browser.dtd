@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "모든 북마크 보기">
 <!ENTITY recentBookmarks.label "최근 북마크됨">
 <!ENTITY otherBookmarksCmd.label "다른 북마크">
+<!ENTITY mobileBookmarksCmd.label "모바일 북마크">
 <!ENTITY bookmarksToolbarChevron.tooltip "북마크 계속 보기">
 <!ENTITY showRecentlyBookmarked.label     "최근 한 북마크 보이기">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "북마크">
 <!ENTITY bookmarksMenuButton.other.label "다른 북마크">
+<!ENTITY bookmarksMenuButton.mobile.label "모바일 북마크">
 <!ENTITY viewBookmarksSidebar2.label        "북마크 탐색창 보기">
 <!ENTITY viewBookmarksToolbar.label         "도구 모음에 표시">
 
