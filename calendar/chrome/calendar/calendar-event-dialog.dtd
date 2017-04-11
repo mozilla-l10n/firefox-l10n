@@ -125,7 +125,7 @@
 <!ENTITY  event.menu.options.label                            "Настройки">
 <!ENTITY  event.menu.options.accesskey                        "Н">
 <!ENTITY  event.menu.options.attendees.label                  "Изпращане на покани…">
-<!ENTITY  event.menu.options.attendees.accesskey              "ч">
+<!ENTITY  event.menu.options.attendees.accesskey              "п">
 <!ENTITY  event.menu.options.timezone2.label                  "Показване на часовите пояси">
 <!ENTITY  event.menu.options.timezone2.accesskey              "з">
 <!ENTITY  event.menu.options.priority2.label                  "Приоритет">
