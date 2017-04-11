@@ -58,8 +58,8 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "தளத்தின் தரவு">
-
-
+<!ENTITY clearSiteData.label             "அனைத்து தரவுகளையும் துடை">
+<!ENTITY clearSiteData.accesskey         "l">
 
 
 
