@@ -10,7 +10,9 @@
 
 <!ENTITY useCursorNavigation.label       "Səhifələrdə hərəkət edərkən yazi kursorundan istifadə et">
 <!ENTITY useCursorNavigation.accesskey   "S">
+<!ENTITY searchOnStartTyping.label       "Yazmağa başladığınız zaman söz axtarılsın">
 <!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Saytlar sizi yönləndirməyə və ya səhifəni yeniləməyə çalışdıqda xəbərdar olun">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Lazım olduqda toxunmalı klaviaturanı göstər">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
@@ -23,6 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "c">
 <!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
 <!ENTITY allowHWAccel.accesskey          "d">
+<!ENTITY checkUserSpelling.label         "Hərf səhvləriniz siz yazdıqca yoxlanılsın">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Məlumat seçimi">
@@ -55,6 +58,8 @@
 <!ENTITY offlineStorage2.label           "Oflayn Web Məzmunu və İstifadəçi Məlumatları">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Sayt Məlumatları">
+<!ENTITY clearSiteData.label             "Bütün Məlumatları təmizlə">
 <!ENTITY siteDataSettings.label          "Tənzimləmələr…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Ətraflı öyrən">

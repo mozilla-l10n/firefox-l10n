@@ -4,6 +4,8 @@
 
 <!ENTITY addButton.label      "Yeni konteyner əlavə et">
 <!ENTITY addButton.accesskey  "A">
+<!ENTITY preferencesButton.label "Nizamlamalar">
+<!ENTITY removeButton.label   "Sil">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Məxfiliyə geri get">
 
@@ -12,6 +14,7 @@
 
 <!ENTITY name.label           "Ad:">
 <!ENTITY name.accesskey       "N">
+<!ENTITY name.placeholder     "Konteyner adını daxil edin">
 <!ENTITY icon.label           "İkon:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "Rəng:">
