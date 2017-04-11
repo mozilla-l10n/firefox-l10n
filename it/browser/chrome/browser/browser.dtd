@@ -640,7 +640,6 @@
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY updateAvailable.message "Aggiorna &brandShorterName; per ottenere il massimo della velocità e della privacy.">
 <!ENTITY updateAvailable.whatsnew.label "Scopri le novità.">
-<!ENTITY updateAvailable.whatsnew.href "https://www.mozilla.org/">
 <!ENTITY updateAvailable.header.message "È disponibile un nuovo aggiornamento di &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Scarica l’aggiornamento">
 <!ENTITY updateAvailable.acceptButton.accesskey "S">
@@ -649,7 +648,6 @@
 <!ENTITY updateAvailable.panelUI.label "Scarica l’aggiornamento di &brandShorterName;">
 <!ENTITY updateManual.message "Scarica un’altra copia di &brandShorterName; e cercheremo di aiutarti con l’installazione.">
 <!ENTITY updateManual.whatsnew.label "Scopri le novità.">
-<!ENTITY updateManual.whatsnew.href "https://www.mozilla.org/">
 <!ENTITY updateManual.header.message "Non è stato possibile aggiornare &brandShorterName; all’ultima versione disponibile.">
 <!ENTITY updateManual.acceptButton.label "Scarica &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "S">
