@@ -97,7 +97,6 @@
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
 
-
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -108,6 +107,7 @@
 <!ENTITY offlineAppRemove.confirm        "Remove offline data">
 
 <!ENTITY certificateTab.label            "Certificates">
+<!ENTITY certPersonal.label              "Requests">
 
 <!ENTITY selectCerts.auto                "Select one automatically">
 
