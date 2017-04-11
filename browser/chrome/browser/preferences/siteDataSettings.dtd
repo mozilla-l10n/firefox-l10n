@@ -7,3 +7,6 @@
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     usageCol.label                "Shramba">
+<!ENTITY     removingDialog.title          "Odstranjevanje podatkov strani">
+<!ENTITY     removingDialog.description    "Odstranjevanje podatkov strani bo odstranilo tudi piškotke. To vas bo morda odjavilo iz spletnih mest in odstranilo vsebino za delo brez povezave. Ali ste prepričani, da želite narediti spremembo?">
+<!ENTITY     siteTree.label                "Odstranjeni bodo piškotki naslednjih spletnih strani:">
