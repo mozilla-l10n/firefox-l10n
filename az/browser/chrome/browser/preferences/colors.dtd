@@ -6,9 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Sayt tərəfindən seçilmiş rənglər sizin aşağıdakı seçimlərinizlə dəyişdirilsin:">
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Həmişə">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Ancaq yüksək kontrastlı mövzular ilə">
 <!ENTITY  overrideDefaultPageColors.never.label  "Heç vaxt">
 
 <!ENTITY  color                           "Mətn və arxa fon">
