@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Problem həll etmə məlumatları">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Bu səhifə, bir problemi həll etməyə çalışarkən işinizə yaraya biləcək texniki məlumatlara malikdir. &brandShortName; haqqında ümumi suallarla bağlı cavab axtarırsınızsa <a id='supportLink'>dəstək saytımıza</a> baxın.">
 
 <!ENTITY aboutSupport.crashes.title "Çökmə Məlumatları">
@@ -34,9 +34,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Ad">
 <!ENTITY aboutSupport.appBasicsVersion "Buraxılış">
 <!ENTITY aboutSupport.appBasicsBuildID "Quruluş İdentifikatoru">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Yeniləmə Kanalı">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Yenilənmə Tarixçəsi">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Yenilənmə tarixçəsini göstər">
@@ -53,13 +53,15 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "ƏS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Yaddaş istifadəsi">
 <!ENTITY aboutSupport.appBasicsPerformance "Məhsuldarlıq">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Qeyd Olunmuş Service Worker-lar">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profillər">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çox əməliyyatlı Pəncərələr">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google açarı">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Təhlükəsiz Rejim">
 
@@ -75,8 +77,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Dəyişdirilən seçimlər">
 <!ENTITY aboutSupport.modifiedPrefsName "Ad">
 <!ENTITY aboutSupport.modifiedPrefsValue "Dəyər">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "user.js Preferences">
 <!ENTITY aboutSupport.userJSDescription "Your profile folder contains a <a id='prefs-user-js-link'>user.js file</a>, which includes preferences that were not created by &brandShortName;.">
 
@@ -106,6 +108,11 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Xam məlumatı buferə köçür">
 
 <!ENTITY aboutSupport.sandboxTitle "Qum qutusu">
+<!ENTITY aboutSupport.sandboxSyscallAge "Saniyə əvvəl">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Prosses növü">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Parametrlər">
 
 <!ENTITY aboutSupport.safeModeTitle "Təhlükəsiz Modu Yoxlayın">
 <!ENTITY aboutSupport.restartInSafeMode.label "Əlavələr sönülü olaraq yenidən başlat…">
