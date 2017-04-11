@@ -740,7 +740,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.disableMixedContentBlocking.accesskey "J">
 <!ENTITY identity.learnMore "Nong ngec mapol">
 
-
+<!ENTITY identity.removeCertException.label "Kwany ma kiweko woko">
+<!ENTITY identity.removeCertException.accesskey "K">
 
 <!ENTITY identity.moreInfoLinkText2 "Ngec mapol">
 
