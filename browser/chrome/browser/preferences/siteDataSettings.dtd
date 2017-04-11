@@ -2,3 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "Nizamlamalar - Sayt məlumatları">
+<!ENTITY     hostCol.label                 "Sayt">
+<!ENTITY     statusCol.label               "Vəziyyət">
+<!ENTITY     usageCol.label                "Saxlama yeri">
+<!ENTITY     searchPlaceHolder             "Axtar">
+<!ENTITY     removeSelected.label          "Seçiləni Sil">
+<!ENTITY     save.label                    "Dəyişiklikləri Yadda Saxla">
+<!ENTITY     cancel.label                  "Ləğv et">
+<!ENTITY     removingDialog.title          "Sayt məlumatları silinir">
+<!ENTITY     removingDialog.description    "Sayt məlumatlarını silmək çərəzləri də siləcək. Bu səbəbdən daxil olduğunuz saytlardan çıxarıla və oflayn veb məzmununuzu itirə bilərsiniz. Bu dəyişiklikləri təsdiq edirsinizmi?">
