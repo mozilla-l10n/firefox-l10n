@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "다중프로세스 윈도우">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google 키">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla 위치 서비스 키">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "안전 모드">
 
 <!ENTITY aboutSupport.showDir.label "디렉토리 열기">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "클립보드로 원본 복사하기">
 
 <!ENTITY aboutSupport.sandboxTitle "샌드박스">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "거절된 시스템 콜">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "초 전">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "프로세스 타입">
+<!ENTITY aboutSupport.sandboxSyscallNumber "시스템 콜">
+<!ENTITY aboutSupport.sandboxSyscallArgs "인자">
 
 <!ENTITY aboutSupport.safeModeTitle "안전 모드">
 <!ENTITY aboutSupport.restartInSafeMode.label "부가 기능 없이 재시작…">
