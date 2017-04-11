@@ -281,6 +281,8 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
+<!ENTITY pref_activity_stream "Activity Stream">
+<!ENTITY pref_activity_stream_summary "Lok mapol me gin mukato ma nen ki potbuk me acaki ma ki nwoyo yubo weko bedo yot loyo me nongo ngo ma iyenyo kikome i &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Kombedi ki gwokke ikom lubo kor">
 <!ENTITY tracking_protection_prompt_text "Geng matek jami ma lubo kor wek pe i par.">
