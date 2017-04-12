@@ -27,7 +27,7 @@
 <!ENTITY  installing.top.label            "Изтегляне и инсталиране обновяванията на добавките…">
 
 <!ENTITY  noupdates.wizard.title          "Няма съвместими добавки">
-<!ENTITY  noupdates.intro.desc            "&brandShortName; не намери обновявания занесъвместимите добавки.">
+<!ENTITY  noupdates.intro.desc            "&brandShortName; не намери обновявания на несъвместимите добавки.">
 <!ENTITY  noupdates.error.desc            "Възникнаха се проблеми при опит за намиране на обновявания.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; периодично ще проверява за обновявания и ще ви информира, когато се появят съвместими версии.">
 
