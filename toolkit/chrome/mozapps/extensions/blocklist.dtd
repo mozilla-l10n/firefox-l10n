@@ -10,7 +10,7 @@
 <!ENTITY blocklist.softandhard       "התוספות שמהוות סיכון גבוה ליצירת בעיות יציבות ואבטחה נחסמוץ התוספות האחרות מהוות סיכון נמוך יותר, אבל מומלץ שתפעיל מחדש את התוכנה כשהן מנוטרלות.">
 <!ENTITY blocklist.moreinfo          "מידע נוסף">
 
-<!ENTITY blocklist.accept.label      "הפעל מחדש את &brandShortName;">
+<!ENTITY blocklist.accept.label      "הפעלת &brandShortName; מחדש">
 <!ENTITY blocklist.accept.accesskey  "מ">
 
 <!ENTITY blocklist.blocked.label     "נחסם">
