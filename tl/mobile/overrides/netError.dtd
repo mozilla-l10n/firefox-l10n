@@ -9,6 +9,7 @@
 
 <!-- Specific error messages -->
 
+<!ENTITY connectionFailure.title "Hindi maka konekta">
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.longDesc "">
@@ -16,13 +17,16 @@
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 
+<!ENTITY fileNotFound.title "Hindi nahanap ang file">
 
+<!ENTITY fileAccessDenied.title "Access sa mga file ay tinanggihan">
 
 <!ENTITY generic.title "Oops.">
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
+<!ENTITY netInterrupt.title "Ang koneksyon ay naantala">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 
@@ -55,6 +59,7 @@
 
 
 <!ENTITY securityOverride.linkText "O makakadagdag ka ang exception…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Alisin mo ako dito!">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
@@ -67,8 +72,10 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 
+<!ENTITY weakCryptoUsed.title "Ang iyong koneksyon ay hindi secure">
 <!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc) - Do not translate
      "SSL_ERROR_NO_CYPHER_OVERLAP". -->
 
+<!ENTITY inadequateSecurityError.title "Ang iyong koneksyon ay hindi secure">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
