@@ -4,12 +4,17 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
 <!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
+<!ENTITY sync.title.connect.label 'Ikabit sa &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
+<!ENTITY sync.subtitle.connect.label 'Upang isaaktibo ang iyong bagong device, piliin ang \&quot; I-set up &syncBrand.shortName.label; \&quot; sa device.'>
 <!ENTITY sync.subtitle.pair.label 'Para i-activate, piliin ang \&quot;Pair a Device\&quot; sa iyong device.'>
+<!ENTITY sync.pin.default.label '...\n...\n...\n'>
+<!ENTITY sync.link.nodevice.label 'Wala akong aparato na nasa akin...'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Logins'>
@@ -21,8 +26,10 @@
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
+<!ENTITY sync.default.client.name '&formatS1; sa &formatS2;'>
 
 <!-- Bookmark folder strings -->
+<!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Mga Tag'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
