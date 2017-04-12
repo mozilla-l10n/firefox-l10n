@@ -94,13 +94,13 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
-
+<!ENTITY options.disableHTTPCache.tooltip   "Cako ter man bijuko kano HTTP pi dirica matino weng ma tye ki bok me gitic ayaba. Ter man pe gudo kom Service Workers.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "Cak Service Workers i HTTP (kacce bok me gitic tye ayaba)">
-<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Keto gin ayera man bicako service workers i HTTP pi dirica matino weng matye ki bok me giticce ayaba.">
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "Cako ter man bicako service workers i HTTP pi dirica matino weng matye ki bok me gitic ayaba.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
@@ -171,6 +171,8 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+
+<!ENTITY options.screenshot.audio.label      "Tuk dwon me koko pa lamak cal">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
