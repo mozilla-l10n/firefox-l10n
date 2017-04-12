@@ -9,10 +9,13 @@
 <!ENTITY newWindowsAsTabs.accesskey   "i">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "Birdən çox vərəq bağlarkən xəbərdar olun">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 <!ENTITY warnOnOpenManyTabs.label       "Çoxlu vərəq açmağın &brandShortName; səyyahını yavaşlada biləcəyindən xəbərdar olun">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "Keçidi yeni vərəqdə açdığımda, dərhal o vərəqə keç">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Vərəqlərə ön baxışı Windows tapşırıq panelində göstər">
 <!ENTITY showTabsInTaskbar.accesskey      "e">

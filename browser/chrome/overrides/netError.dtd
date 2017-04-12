@@ -31,7 +31,11 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; bəzi səbəblərə görə bu səhifəni yükləyə bilmir.</p>">
 
 <!ENTITY captivePortal.title "Şəbəkəyə daxil ol">
+<!ENTITY captivePortal.longDesc2 "
+<p>İnternetə çıxmaq üçün bu şəbəkəyə daxil olmalısınız.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "Şəbəkə Giriş Səhifəsini Aç">
 
 <!ENTITY malformedURI.title "Ünvan səhvdir">
 <!ENTITY malformedURI.longDesc "<ul> <li>Web ünvanlar əsasən <strong>http://www.example.com/</strong> kimi yazılır</li> <li>Droblardan istifadə etdiyinizə əmin olun (məs. <strong>/</strong>).</li> </ul>">
