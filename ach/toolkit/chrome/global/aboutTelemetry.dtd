@@ -20,6 +20,7 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data me nong ma okato">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "Nyuto data me ping:">
 
 
 
@@ -31,6 +32,7 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Nong macon &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "Data ma numu me ping…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Cabit">
 
@@ -55,6 +57,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Wel ma kimungo">
 
+<!ENTITY aboutTelemetry.eventsSection "  Gin matime">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Pim mayot">
 
