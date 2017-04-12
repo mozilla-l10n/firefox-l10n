@@ -15,7 +15,7 @@
 <!ENTITY helpSafeMode.accesskey "P">
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
 <!ENTITY releaseCmd2.accesskey "m">
-<!ENTITY whatsNewCmd.label "Kaj je novega">
+<!ENTITY whatsNewCmd.label "Novosti">
 <!ENTITY whatsNewCmd.accesskey "K">
 <!ENTITY openHelp.label "Vsebina pomoči">
 <!ENTITY openHelp.accesskey "V">
