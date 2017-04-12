@@ -165,6 +165,7 @@
 <!ENTITY compactVersion.label "Compact View">
 <!ENTITY compactVersion.accesskey "C">
 <!ENTITY folderPaneBar.label "Folder Pane Toolbar">
+<!ENTITY folderPaneBar.accesskey "F">
 <!ENTITY folderModeSelector.label "Folder Views">
 
 <!-- Sort Menu -->
@@ -483,18 +484,40 @@
 <!ENTITY deleteJunk.accesskey "D">
 <!ENTITY importCmd.label "Import…">
 <!ENTITY importCmd.accesskey "m">
-<!ENTITY errorConsoleCmd.label "Error Console">
-<!ENTITY errorConsoleCmd.accesskey "E">
-<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY clearRecentHistory.label "Clear Recent History…">
 <!ENTITY clearRecentHistory.accesskey "H">
 <!ENTITY accountManagerCmd2.label "Account Settings">
 <!ENTITY accountManagerCmd2.accesskey "S">
-<!-- LOCALIZATION NOTE (accountManagerCmdUnix2.accesskey): belongs to accountManagerCmd2.label,
-        which is placed under the Edit menu on Unix systems -->
+<!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey):
+     Belongs to accountManagerCmd.label, which is placed under the Edit menu
+     on Unix systems
+  -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!ENTITY allowRemoteDebugging.label "Allow Remote Debugging">
-<!ENTITY allowRemoteDebugging.accesskey "g">
+
+<!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Developer Tools">
+<!ENTITY devtoolsMenu.accesskey "e">
+<!ENTITY devToolboxCmd.label "Developer Toolbox">
+<!ENTITY devToolboxCmd.accesskey "T">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Add-on Debugger">
+<!ENTITY addonDebugCmd.accesskey "A">
+<!ENTITY tabsDebugCmd.label "Content Frame Debugger">
+<!ENTITY tabsDebugCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Scratchpad">
+<!ENTITY scratchpadCmd.accesskey "S">
+
+<!--LOCALIZATION NOTE (scratchpadCmd.keycode):
+    This should be a key code constant as per
+    https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
+    (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
+<!--LOCALIZATION NOTE (scratchpadCmd.keytext):
+    This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Get Messages">
@@ -791,24 +814,24 @@
   -->
 <!ENTITY columnPicker.applyToFolder.label "Folder…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolderAndChildren.label):
-   This option in the thread pane column picker is found on a sub-menu beneath
-   the "columnPicker.applyTo.label" alongside
-   "columnPicker.applyToFolder.label".  It indicates a desire to
-   apply the currently display thread pane column settings to a folder and all
-   of its descendents.  The user selects the folder using the same widget as the
-   move to/copy to mechanism (via a series of popups).
+    This option in the thread pane column picker is found on a sub-menu beneath
+    the "columnPicker.applyTo.label" alongside
+    "columnPicker.applyToFolder.label".  It indicates a desire to
+    apply the currently display thread pane column settings to a folder and all
+    of its descendents.  The user selects the folder using the same widget as the
+    move to/copy to mechanism (via a series of popups).
   -->
 <!ENTITY columnPicker.applyToFolderAndChildren.label "Folder and its children…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
-   This is used in the folder selection widget for the
-   "columnPicker.applyToFolder.label" and
-   "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
-   a folder has children, it results in a menu popup; the first menu item
-   in that popup is given this label to indicate that that folder should be
-   selected.  For example, if folder "A" has two children, "B" and "C", then
-   when the user hovers over "A", a new popup menu will be displayed whose
-   items are "This folder", "B", and "C".  This is the equivalent of the
-   "File here" option for the move to/copy to widge.t
+    This is used in the folder selection widget for the
+    "columnPicker.applyToFolder.label" and
+    "columnPicker.applyToFolderAndChildren.label" menu options.  Whenever
+    a folder has children, it results in a menu popup; the first menu item
+    in that popup is given this label to indicate that that folder should be
+    selected.  For example, if folder "A" has two children, "B" and "C", then
+    when the user hovers over "A", a new popup menu will be displayed whose
+    items are "This folder", "B", and "C".  This is the equivalent of the
+    "File here" option for the move to/copy to widge.t
   -->
 <!ENTITY columnPicker.thisFolder.label "This folder">
 
