@@ -12,7 +12,9 @@
 <!ENTITY sync.subtitle.pair.label 'Para i-activate, piliin ang \&quot;Pair a Device\&quot; sa iyong device.'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
 <!ENTITY sync.configure.engines.title.history 'Kasaysayan'>
+<!ENTITY sync.configure.engines.title.tabs 'Mga tab'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -32,6 +34,8 @@
      Firefox. -->
 
 
+<!ENTITY fxaccount_status_device_name 'Pangalan ng device'>
+<!ENTITY fxaccount_status_legal 'Legal' >
 <!-- Localization note: when tapped, the following two strings link to
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
@@ -57,6 +61,7 @@
      been returned. -->
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Merong problema'>
 
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->

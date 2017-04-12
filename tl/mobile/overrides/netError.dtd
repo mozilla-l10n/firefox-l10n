@@ -4,8 +4,11 @@
 
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
+
 <!ENTITY retry.label "Ulitin">
+
 <!-- Specific error messages -->
+
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.longDesc "">
@@ -15,15 +18,12 @@
 
 
 
-
-
-
+<!ENTITY generic.title "Oops.">
 
 <!-- LOCALIZATION NOTE (malformedURI.longDesc2) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
-
 
 
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -40,17 +40,12 @@
 
 
 
-
-
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
 
 
-
-
 <!ENTITY nssFailure2.title "Nagbigo ang Panatag na Koneksiyon">
-
 
 <!ENTITY nssBadCert.title "Nagbigo ang Panatag na Koneksiyon">
 
@@ -59,15 +54,13 @@
 
 
 
-
-
 <!ENTITY securityOverride.linkText "O makakadagdag ka ang exception…">
-
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <xul:button> tags.  The only language content is the label= field,
 which uses strings already defined above. The button is included here (instead of
 netError.xhtml) because it exposes functionality specific to firefox. -->
+
 
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Paki-contact ang may-ari ng website para malaman nila ang problemang ito.</li></ul></p>">
 
