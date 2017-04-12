@@ -7,9 +7,13 @@
 <!ENTITY     statusCol.label               "Vəziyyət">
 <!ENTITY     usageCol.label                "Saxlama yeri">
 <!ENTITY     searchPlaceHolder             "Axtar">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Seçiləni Sil">
+<!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Dəyişiklikləri Yadda Saxla">
+<!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Ləğv et">
+<!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Sayt məlumatları silinir">
 <!ENTITY     removingDialog.description    "Sayt məlumatlarını silmək çərəzləri də siləcək. Bu səbəbdən daxil olduğunuz saytlardan çıxarıla və oflayn veb məzmununuzu itirə bilərsiniz. Bu dəyişiklikləri təsdiq edirsinizmi?">
 <!ENTITY     siteTree.label                "Aşağıdakı saytların çərəzləri silinəcək:">
