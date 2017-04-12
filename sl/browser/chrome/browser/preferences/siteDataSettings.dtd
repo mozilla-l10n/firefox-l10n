@@ -7,6 +7,14 @@
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     usageCol.label                "Shramba">
+<!ENTITY     searchPlaceHolder             "Išči">
+<!ENTITY     searchPlaceHolder.accesskey   "š">
+<!ENTITY     removeSelected.label          "Odstrani izbrane">
+<!ENTITY     removeSelected.accesskey      "O">
+<!ENTITY     save.label                    "Shrani spremembe">
+<!ENTITY     save.accesskey                "S">
+<!ENTITY     cancel.label                  "Prekliči">
+<!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Odstranjevanje podatkov strani">
 <!ENTITY     removingDialog.description    "Odstranjevanje podatkov strani bo odstranilo tudi piškotke. To vas bo morda odjavilo iz spletnih mest in odstranilo vsebino za delo brez povezave. Ali ste prepričani, da želite narediti spremembo?">
 <!ENTITY     siteTree.label                "Odstranjeni bodo piškotki naslednjih spletnih strani:">
