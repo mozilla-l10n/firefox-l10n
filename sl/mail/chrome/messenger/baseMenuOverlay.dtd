@@ -16,11 +16,11 @@
 <!ENTITY releaseCmd2.label "Opombe ob izdaji">
 <!ENTITY releaseCmd2.accesskey "m">
 <!ENTITY whatsNewCmd.label "Novosti">
-<!ENTITY whatsNewCmd.accesskey "K">
+<!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY openHelp.label "Vsebina pomoči">
 <!ENTITY openHelp.accesskey "V">
 <!ENTITY openHelp.commandkey "VK_F1">
-<!ENTITY openHelpMac.label "Pomoč &brandShortName;">
+<!ENTITY openHelpMac.label "Pomoč za &brandShortName;">
 <!ENTITY openHelpMac2.commandkey   "?">
 <!ENTITY openHelpMac2.modifiers    "accel">
 
