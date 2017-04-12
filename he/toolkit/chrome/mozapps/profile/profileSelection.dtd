@@ -9,7 +9,7 @@
 
 <!ENTITY            profilename.label      "שם פרופיל:">
 
-<!ENTITY            start.label            "הפעל את &brandShortName;">
+<!ENTITY            start.label            "הפעלת &brandShortName;">
 <!ENTITY            exit.label             "יציאה">
 
 <!ENTITY            availprofiles.label    "פרופילים זמינים">
