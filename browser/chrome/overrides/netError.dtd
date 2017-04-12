@@ -52,7 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "네트워크에 로그인">
+<!ENTITY captivePortal.longDesc2 "
+<p>인터넷을 사용하기 위해서 반드시 이 네트워크에 로그인해야 합니다.</p>
+">
 
+<!ENTITY openPortalLoginPage.label2 "네트워크 로그인 페이지 열기">
 
 <!ENTITY malformedURI.title "주소가 유효하지 않음">
 <!ENTITY malformedURI.longDesc "
