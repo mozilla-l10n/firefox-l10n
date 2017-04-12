@@ -29,6 +29,7 @@
 <!ENTITY chooseFolderMac.label        "Seçin…">
 <!ENTITY chooseFolderMac.accesskey    "S">
 <!ENTITY alwaysAskWhere.label         "Faylların saxlanacağı yeri həmişə soruş">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "&brandShortName; səyyahının əsas səyyahınız olub olmadığını hər dəfə yoxla">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
