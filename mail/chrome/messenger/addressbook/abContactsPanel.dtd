@@ -9,7 +9,7 @@
 <!ENTITY abPropertiesMenu.accesskey         "в">
 <!ENTITY contactPropertiesMenu.label        "Свойства на контакта">
 <!ENTITY contactPropertiesMenu.accesskey    "в">
-<!ENTITY mailingListPropertiesMenu.label    "Свойства на пощенският списък">
+<!ENTITY mailingListPropertiesMenu.label    "Свойства на пощенския списък">
 <!ENTITY mailingListPropertiesMenu.accesskey "в">
 
 <!ENTITY addressbookPicker.label            "Адресник:">

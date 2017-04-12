@@ -344,7 +344,7 @@
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Отговор само до подателя">
 <!ENTITY replySenderCmd.accesskey "с">
-<!ENTITY replyNewsgroupCmd2.label "Отговор в новинарската група">
+<!ENTITY replyNewsgroupCmd2.label "Отговор до дискусионна група">
 <!ENTITY replyNewsgroupCmd2.accesskey "О">
 <!ENTITY replyToAllMsgCmd.label "Отговор до всички">
 <!ENTITY replyToAllMsgCmd.accesskey "в">
@@ -753,7 +753,7 @@
 <!ENTITY contextArchive.accesskey "х">
 <!ENTITY contextReplySender.label "Отговор само до подателя">
 <!ENTITY contextReplySender.accesskey "с">
-<!ENTITY contextReplyNewsgroup2.label "Отговор до новинарска група">
+<!ENTITY contextReplyNewsgroup2.label "Отговор до дискусионна група">
 <!ENTITY contextReplyNewsgroup2.accesskey "О">
 <!ENTITY contextReplyAll.label "Отговор до всички">
 <!ENTITY contextReplyAll.accesskey "в">
@@ -935,7 +935,7 @@
 <!ENTITY minimizeWindow.label "Минимизиране">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Извеждане всичко на преден план">
-<!ENTITY zoomWindow.label "Лупа">
+<!ENTITY zoomWindow.label "Мащабиране">
 
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Настройки">

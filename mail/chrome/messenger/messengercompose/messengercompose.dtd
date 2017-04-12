@@ -178,7 +178,7 @@
 <!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Инструменти">
 <!ENTITY tasksMenu.accesskey "И">
-<!ENTITY messengerCmd.label "Поща и новинарски групи">
+<!ENTITY messengerCmd.label "Поща и дискусионни групи">
 <!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адресник">
@@ -196,7 +196,7 @@
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Минимизиране">
 <!ENTITY bringAllToFront.label "Извежда всичко на преден план">
-<!ENTITY zoomWindow.label "Лупа">
+<!ENTITY zoomWindow.label "Мащабиране">
 <!ENTITY windowMenu.label "Прозорец">
 
 <!-- Mail Toolbar -->
@@ -232,7 +232,7 @@
 <!ENTITY ccAddr.label "Копие:">
 <!ENTITY bccAddr.label "Скрито:">
 <!ENTITY replyAddr.label "Отговор до:">
-<!ENTITY newsgroupsAddr.label "Новинарска група:">
+<!ENTITY newsgroupsAddr.label "Дискусионна група:">
 <!ENTITY followupAddr.label "Продължение в:">
 <!ENTITY subject.label "Тема:">
 <!ENTITY subject.accesskey "Т">

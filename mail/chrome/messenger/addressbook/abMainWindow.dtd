@@ -240,4 +240,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Минимизиране">
 <!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Извежда всичко на преден план">
-<!ENTITY zoomWindow.label                               "Лупа">
+<!ENTITY zoomWindow.label                               "Мащабиране">
