@@ -34,7 +34,7 @@
 <!ENTITY hdrReplyListButton1.label "Отговор до списък">
 <!ENTITY hdrReplyListButton1.tooltip "Отговаря до пощенския списък">
 <!ENTITY hdrFollowupButton1.label "Отговор">
-<!ENTITY hdrFollowupButton1.tooltip "Изпращане на отговор до тази новинарска група">
+<!ENTITY hdrFollowupButton1.tooltip "Изпращане на отговор до дискусионната група">
 <!ENTITY hdrMenuForwardButton.label "Препращане като">
 <!ENTITY hdrForwardButton1.label "Препращане">
 <!ENTITY hdrForwardButton1.tooltip "Препраща съобщението">
