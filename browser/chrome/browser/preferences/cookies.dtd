@@ -22,6 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "Axtar">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "Qapat">
 <!ENTITY     button.close.accesskey         "Q">

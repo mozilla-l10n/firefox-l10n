@@ -60,6 +60,7 @@
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sayt Məlumatları">
 <!ENTITY clearSiteData.label             "Bütün Məlumatları təmizlə">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Tənzimləmələr…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Ətraflı öyrən">
