@@ -17,7 +17,7 @@
 <!ENTITY pref.calendar.alarms.sound.play.label "Възпроизвеждане">
 <!ENTITY pref.calendar.alarms.sound.play.accessKey "В">
 <!ENTITY pref.showalarmbox "Показване на диалогов прозорец">
-<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "с">
+<!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "д">
 <!ENTITY pref.missedalarms "Показване на пропуснатите припомняния">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "п">
 <!ENTITY pref.calendar.alarms.defaults.label "Настройки по подразбиране за припомняне">
