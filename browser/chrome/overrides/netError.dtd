@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Kukho ingxaki ngokulayisha ikhasi">
 <!ENTITY retry.label "Zama Kwakhona">
 <!ENTITY returnToPreviousPage.label "Yiya Emva">
-
+<!ENTITY advanced.label "Kwinqanaba Eliphambili">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>I-&brandShortName;ayinakho ukulayisha eli khasi ngesizathu esithile.</p>">
 
 <!ENTITY captivePortal.title "Loga ungene kwinethwekhi">
+<!ENTITY captivePortal.longDesc2 "<p>Umele ungene kule nethwekhi ngaphambi kokuba ufikelele kwi-Intanethi.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Vula iPhepha lokuLoga uNgene kwiNethwekhi">
 
 <!ENTITY malformedURI.title "Idilesi ayisebenzi">
 <!ENTITY malformedURI.longDesc "<ul> <li>Iidilesi zewebhu zidla ngokubhalwa kanje <strong>http://www.example.com/</strong></li> <li>Qiniseka ukuba usebenzisa izileshi zaphambili (okt. <strong>/</strong>).</li> </ul>">
