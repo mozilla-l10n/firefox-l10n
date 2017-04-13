@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Bonisa zonke iibhukhmakhi">
 <!ENTITY recentBookmarks.label "Okufakwe Ibhukmakhi Kutshanje">
 <!ENTITY otherBookmarksCmd.label "Ezinye iiBhukmakhi">
-
+<!ENTITY mobileBookmarksCmd.label "IZalathisi eZiphawulayo zeMobhayili">
 <!ENTITY bookmarksToolbarChevron.tooltip "Bonisa iibhukhmakhi ezininzi">
 <!ENTITY showRecentlyBookmarked.label     "Bonisa Okufakwe Ibhukmakhi Kutshanje">
 <!ENTITY showRecentlyBookmarked.accesskey "o">
@@ -246,7 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Iibhukhmakhi">
 <!ENTITY bookmarksMenuButton.other.label "Ezinye iiBhukmakhi">
-
+<!ENTITY bookmarksMenuButton.mobile.label "IZalathisi eZiphawulayo zeMobhayili">
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
 
@@ -360,9 +360,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Azikho iithebhu ezivuliweyo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
+<!ENTITY appMenuRemoteTabs.showMore.label "Bonisa Ngakumbi">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Bonisa iithebhu ezingakumbi kwesi sixhobo">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Bonisa Konke">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
