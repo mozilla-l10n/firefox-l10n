@@ -22,10 +22,12 @@
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+<!ENTITY debuggerUI.blackBoxMessage.label "Αυτή η πηγή είναι σε μαύρο κουτί: τα σημεία διακοπής της είναι ανενεργή και γίνεται παράκαμψή της.">
 
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Διακοπή τοποθέτησης πηγής σε μαύρο κουτί">
 
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
@@ -33,6 +35,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Εναλλαγή τοποθέτησης σε μαύρο κουτί">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
@@ -76,6 +79,7 @@
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
   -  defined in JavaScript. When in doubt, leave untranslated. -->
+<!ENTITY debuggerUI.showOnlyEnum           "Εμφάνιση μόνο αριθμήσιμων ιδιοτήτων">
 <!ENTITY debuggerUI.showOnlyEnum.accesskey "Ι">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOriginalSource): This is the label for
@@ -165,14 +169,17 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
+<!ENTITY debuggerUI.seMenuAddWatch      "Επιλογή για έκφραση παρακολούθησης">
 <!ENTITY debuggerUI.seMenuAddWatch.key  "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
+<!ENTITY debuggerUI.addWatch            "Προσθήκη έκφρασης παρακολούθησης">
 <!ENTITY debuggerUI.addWatch.accesskey  "Ε">
 
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
+<!ENTITY debuggerUI.removeAllWatch           "Αφαίρεση όλων των εκφράσεων παρακολούθησης">
 <!ENTITY debuggerUI.removeAllWatch.key       "Ε">
 <!ENTITY debuggerUI.removeAllWatch.accesskey "Ε">
 
