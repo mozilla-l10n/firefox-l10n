@@ -508,7 +508,7 @@ size. -->
 <!ENTITY contextmenu_subscribe "Абониране за страницата">
 <!ENTITY contextmenu_site_settings "Редактиране настройките на сайт">
 <!ENTITY contextmenu_top_sites_edit "Редактиране">
-<!ENTITY contextmenu_top_sites_pin "Закачане на сайта">
+<!ENTITY contextmenu_top_sites_pin "Закачане">
 <!ENTITY contextmenu_top_sites_unpin "Премахване от леснодостъпните сайтове">
 <!ENTITY contextmenu_add_search_engine "Добавяне на търсачка">
 
@@ -855,4 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "Премахване от историята">
 
 <!ENTITY activity_stream_welcome_title "Добре дошли в Акценти">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; сега създава акценти от местата, които сте открили в мрежата, за да се намирате по-лесно страхотни статии, видео, отметки и други страници.">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; сега създава акценти от местата, които сте открили в мрежата, за да намирате по-лесно страхотни статии, видео, отметки и други страници.">
