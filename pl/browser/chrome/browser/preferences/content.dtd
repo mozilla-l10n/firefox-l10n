@@ -4,45 +4,45 @@
 
 <!ENTITY popups.label "Wyskakujące okna">
 <!ENTITY blockPopups.label "Blokowanie wyskakujących okien">
-<!ENTITY blockPopups.accesskey "B">
+<!ENTITY blockPopups.accesskey "">
 
 <!ENTITY notificationsPolicy.label "Powiadomienia">
 <!ENTITY notificationsPolicyLearnMore.label "Więcej informacji">
 <!ENTITY notificationsPolicyDesc3.label "Wybierz strony mogące wyświetlać powiadomienia">
 <!ENTITY notificationsPolicyButton.label "Wybierz…">
-<!ENTITY notificationsPolicyButton.accesskey "z">
+<!ENTITY notificationsPolicyButton.accesskey "">
 <!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
-<!ENTITY notificationsDoNotDisturb.accesskey "N">
+<!ENTITY notificationsDoNotDisturb.accesskey "">
 <!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Wyjątki…">
-<!ENTITY  popupExceptions.accesskey   "W">
+<!ENTITY popupExceptions.accesskey "">
 
 <!ENTITY  fontsAndColors.label        "Czcionki i kolory">
 <!ENTITY  defaultFont.label           "Domyślna czcionka:">
-<!ENTITY  defaultFont.accesskey       "d">
+<!ENTITY defaultFont.accesskey "">
 <!ENTITY  defaultSize.label           "Rozmiar:">
-<!ENTITY  defaultSize.accesskey       "R">
+<!ENTITY defaultSize.accesskey "">
 
 <!ENTITY  advancedFonts.label         "Zaawansowane…">
-<!ENTITY advancedFonts.accesskey "s">
+<!ENTITY advancedFonts.accesskey "">
 
 <!ENTITY  colors.label                "Kolory…">
-<!ENTITY  colors.accesskey            "K">
+<!ENTITY colors.accesskey "">
 
 <!ENTITY languages.label              "Języki">
 <!ENTITY chooseLanguage.label         "Wybierz preferowany język, w jakim mają być wyświetlane strony">
 <!ENTITY chooseButton.label           "Wybierz…">
-<!ENTITY chooseButton.accesskey       "e">
+<!ENTITY chooseButton.accesskey "">
 
 <!ENTITY translateWebPages.label "Tłumaczenie stron WWW">
-<!ENTITY translateWebPages.accesskey "T">
+<!ENTITY translateWebPages.accesskey "">
 <!ENTITY translateExceptions.label "Wyjątki…">
-<!ENTITY translateExceptions.accesskey "i">
+<!ENTITY translateExceptions.accesskey "">
 <!ENTITY translation.options.attribution.beforeLogo "Tłumaczeń dostarcza">
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY drmContent.label "DRM">
 <!ENTITY playDRMContent.label "Odtwarzanie treści chronionych przez DRM">
-<!ENTITY playDRMContent.accesskey "O">
+<!ENTITY playDRMContent.accesskey "">
 <!ENTITY playDRMContent.learnMore.label "Więcej informacji">

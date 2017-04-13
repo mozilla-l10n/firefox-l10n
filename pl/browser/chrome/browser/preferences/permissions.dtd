@@ -8,20 +8,20 @@
 <!ENTITY treehead.sitename.label      "Witryna">
 <!ENTITY treehead.status.label        "Status">
 <!ENTITY removepermission.label       "Usuń witrynę">
-<!ENTITY removepermission.accesskey   "U">
+<!ENTITY removepermission.accesskey "">
 <!ENTITY removeallpermissions.label   "Usuń wszystkie witryny">
-<!ENTITY removeallpermissions.accesskey "w">
+<!ENTITY removeallpermissions.accesskey "">
 <!ENTITY address.label                "Adres witryny:">
-<!ENTITY address.accesskey "w">
+<!ENTITY address.accesskey "">
 <!ENTITY block.label                  "Blokuj">
-<!ENTITY block.accesskey              "B">
+<!ENTITY block.accesskey "">
 <!ENTITY session.label                "Zezwalaj na czas sesji">
-<!ENTITY session.accesskey "c">
+<!ENTITY session.accesskey "">
 <!ENTITY allow.label                  "Zezwalaj">
-<!ENTITY allow.accesskey              "Z">  
+<!ENTITY allow.accesskey "">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label "Anuluj">
-<!ENTITY button.cancel.accesskey "A">
+<!ENTITY button.cancel.accesskey "">
 <!ENTITY button.ok.label "Zachowaj">
-<!ENTITY button.ok.accesskey "h">
+<!ENTITY button.ok.accesskey "">

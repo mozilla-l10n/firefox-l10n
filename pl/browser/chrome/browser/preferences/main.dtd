@@ -5,36 +5,36 @@
 <!ENTITY startup.label             "Uruchamianie">
 
 <!ENTITY startupPage.label         "Po uruchomieniu programu &brandShortName;:">
-<!ENTITY startupPage.accesskey "P">
+<!ENTITY startupPage.accesskey "">
 <!ENTITY startupUserHomePage.label "wyświetl stronę startową">
 <!ENTITY startupBlankPage.label    "wyświetl pustą stronę">
 <!ENTITY startupPrevSession.label "wyświetl okna i karty z poprzedniej sesji">
 
 <!ENTITY homepage.label            "Strona startowa:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage.accesskey "">
 <!ENTITY useCurrentPage.label      "Użyj bieżącej strony">
-<!ENTITY useCurrentPage.accesskey  "b">
+<!ENTITY useCurrentPage.accesskey "">
 <!ENTITY useMultiple.label         "Użyj bieżących stron">
 <!ENTITY chooseBookmark.label      "Użyj zakładki…">
-<!ENTITY chooseBookmark.accesskey  "z">
+<!ENTITY chooseBookmark.accesskey "">
 <!ENTITY restoreDefault.label      "Przywróć domyślną">
-<!ENTITY restoreDefault.accesskey  "d">
+<!ENTITY restoreDefault.accesskey "">
 
 <!ENTITY downloads.label     		"Pobieranie">
 
 <!ENTITY saveTo.label 			"Pobierane pliki zapisuj do:">
-<!ENTITY saveTo.accesskey 		"o">
+<!ENTITY saveTo.accesskey "">
 <!ENTITY chooseFolderWin.label        	"Przeglądaj…">
-<!ENTITY chooseFolderWin.accesskey    	"g">
+<!ENTITY chooseFolderWin.accesskey "">
 <!ENTITY chooseFolderMac.label        	"Wybierz…">
-<!ENTITY chooseFolderMac.accesskey    	"y">
+<!ENTITY chooseFolderMac.accesskey "">
 <!ENTITY alwaysAskWhere.label "Pytaj, gdzie zapisać każdy plik">
-<!ENTITY alwaysAskWhere.accesskey "t">
+<!ENTITY alwaysAskWhere.accesskey "">
 
 <!ENTITY alwaysCheckDefault2.label "Sprawdzanie, czy &brandShortName; jest domyślną przeglądarką">
-<!ENTITY alwaysCheckDefault2.accesskey "e">
+<!ENTITY alwaysCheckDefault2.accesskey "">
 <!ENTITY setAsMyDefaultBrowser2.label "Ustaw jako domyślną">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "U">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "">
 <!ENTITY isDefault.label "&brandShortName; jest obecnie domyślną przeglądarką">
 <!ENTITY isNotDefault.label "&brandShortName; nie jest obecnie domyślną przeglądarką">
 

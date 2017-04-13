@@ -8,13 +8,13 @@
 <!ENTITY statusCol.label "Status">
 <!ENTITY usageCol.label "Rozmiar">
 <!ENTITY searchPlaceHolder "Szukaj">
-<!ENTITY searchPlaceHolder.accesskey "S">
+<!ENTITY searchPlaceHolder.accesskey "">
 <!ENTITY removeSelected.label "Usuń zaznaczone">
-<!ENTITY removeSelected.accesskey "U">
+<!ENTITY removeSelected.accesskey "">
 <!ENTITY save.label "Zapisz zmiany">
-<!ENTITY save.accesskey "Z">
+<!ENTITY save.accesskey "">
 <!ENTITY cancel.label "Anuluj">
-<!ENTITY cancel.accesskey "A">
+<!ENTITY cancel.accesskey "">
 <!ENTITY removingDialog.title "Usuwanie danych stron">
 <!ENTITY removingDialog.description "Podczas usuwania danych stron zostaną również usunięte ciasteczka. Może to spowodować wylogowanie z niektórych witryn i usunięcie treści przechowywanych offline. Czy wprowadzić poniższe zmiany?">
 <!ENTITY siteTree.label "Ciasteczka następujących witryn zostaną usunięte:">

@@ -22,7 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY searchFilter.label "Szukaj">
-<!ENTITY searchFilter.accesskey "S">
+<!ENTITY searchFilter.accesskey "">
 
 <!ENTITY     button.close.label             "Zamknij">
-<!ENTITY     button.close.accesskey         "Z">
+<!ENTITY button.close.accesskey "">

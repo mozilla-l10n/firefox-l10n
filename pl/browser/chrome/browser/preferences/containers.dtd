@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label "Dodaj kontekst">
-<!ENTITY addButton.accesskey "D">
+<!ENTITY addButton.accesskey "">
 <!ENTITY preferencesButton.label "Preferencje">
 <!ENTITY removeButton.label "Usuń">
 <!ENTITY backLink.label "« Powrót do „Prywatność”">
@@ -12,13 +12,13 @@
 <!ENTITY window.width "45em">
 
 <!ENTITY name.label "Nazwa:">
-<!ENTITY name.accesskey "N">
+<!ENTITY name.accesskey "">
 <!ENTITY name.placeholder "Nazwa kontekstu">
 <!ENTITY icon.label "Ikona:">
-<!ENTITY icon.accesskey "I">
+<!ENTITY icon.accesskey "">
 <!ENTITY color.label "Kolor:">
-<!ENTITY color.accesskey "K">
+<!ENTITY color.accesskey "">
 <!ENTITY windowClose.key "w">
 
 <!ENTITY button.ok.label "Gotowe">
-<!ENTITY button.ok.accesskey "G">
+<!ENTITY button.ok.accesskey "">

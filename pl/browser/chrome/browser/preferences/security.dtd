@@ -5,29 +5,29 @@
 <!ENTITY security.label "Bezpieczeństwo">
 
 <!ENTITY warnOnAddonInstall.label "Ostrzeganie, gdy witryny próbują instalować dodatki">
-<!ENTITY warnOnAddonInstall.accesskey "O">
+<!ENTITY warnOnAddonInstall.accesskey "">
 
 <!ENTITY enableSafeBrowsing.label "Blokowanie niebezpiecznych i podejrzanych treści">
-<!ENTITY enableSafeBrowsing.accesskey "B">
+<!ENTITY enableSafeBrowsing.accesskey "">
 <!ENTITY blockDownloads.label "Blokowanie możliwości pobierania niebezpiecznych plików">
-<!ENTITY blockDownloads.accesskey "e">
+<!ENTITY blockDownloads.accesskey "">
 <!ENTITY blockUncommonAndUnwanted.label "Ostrzeganie przed niepożądanym i nietypowym oprogramowaniem">
-<!ENTITY blockUncommonAndUnwanted.accesskey "n">
+<!ENTITY blockUncommonAndUnwanted.accesskey "">
 
 <!ENTITY addonExceptions.label "Wyjątki…">
-<!ENTITY addonExceptions.accesskey "W">
+<!ENTITY addonExceptions.accesskey "">
 
 <!ENTITY formsAndPasswords.label "Formularze i hasła">
 
 <!ENTITY rememberLogins1.label "Zachowywanie danych logowania do witryn">
-<!ENTITY rememberLogins1.accesskey "l">
+<!ENTITY rememberLogins1.accesskey "">
 
 <!ENTITY useMasterPassword.label "Hasło główne">
-<!ENTITY useMasterPassword.accesskey "H">
+<!ENTITY useMasterPassword.accesskey "">
 
 <!ENTITY passwordExceptions.label "Wyjątki…">
-<!ENTITY passwordExceptions.accesskey "i">
+<!ENTITY passwordExceptions.accesskey "">
 <!ENTITY changeMasterPassword.label "Zmień hasło główne">
-<!ENTITY changeMasterPassword.accesskey "Z">
+<!ENTITY changeMasterPassword.accesskey "">
 <!ENTITY savedLogins.label "Zachowane dane logowania…">
-<!ENTITY savedLogins.accesskey "d">
+<!ENTITY savedLogins.accesskey "">

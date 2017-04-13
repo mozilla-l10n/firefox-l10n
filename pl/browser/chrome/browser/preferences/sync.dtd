@@ -3,25 +3,25 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY engine.bookmarks.label "Zakładki">
-<!ENTITY engine.bookmarks.accesskey "Z">
+<!ENTITY engine.bookmarks.accesskey "">
 <!ENTITY engine.tabs.label2 "Karty">
-<!ENTITY engine.tabs.accesskey "K">
+<!ENTITY engine.tabs.accesskey "">
 <!ENTITY engine.history.label "Historia">
-<!ENTITY engine.history.accesskey "H">
+<!ENTITY engine.history.accesskey "">
 <!ENTITY engine.passwords.label "Hasła">
-<!ENTITY engine.passwords.accesskey "a">
+<!ENTITY engine.passwords.accesskey "">
 <!ENTITY engine.prefs.label "Ustawienia">
-<!ENTITY engine.prefs.accesskey "U">
+<!ENTITY engine.prefs.accesskey "">
 <!ENTITY engine.addons.label "Dodatki">
-<!ENTITY engine.addons.accesskey "D">
+<!ENTITY engine.addons.accesskey "">
 
 <!ENTITY fxaSyncDeviceName.label "Nazwa urządzenia">
 <!ENTITY changeSyncDeviceName1.label "Zmień nazwę urządzenia">
-<!ENTITY changeSyncDeviceName1.accesskey "n">
+<!ENTITY changeSyncDeviceName1.accesskey "">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuluj">
-<!ENTITY cancelChangeSyncDeviceName.accesskey "A">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "">
 <!ENTITY saveChangeSyncDeviceName.label "Zachowaj">
-<!ENTITY saveChangeSyncDeviceName.accesskey "Z">
+<!ENTITY saveChangeSyncDeviceName.accesskey "">
 
 <!ENTITY prefs.tosLink.label        "Warunki korzystania z usługi">
 
@@ -34,24 +34,24 @@
 
 <!ENTITY notSignedIn.label "Nie zalogowano">
 <!ENTITY signIn.label "Zaloguj">
-<!ENTITY signIn.accesskey "Z">
+<!ENTITY signIn.accesskey "">
 <!ENTITY profilePicture.tooltip "Zmień obraz przypisany do konta">
 <!ENTITY verifiedManage.label "Zarządzaj kontem">
-<!ENTITY verifiedManage.accesskey "Z">
+<!ENTITY verifiedManage.accesskey "">
 <!ENTITY disconnect.label "Rozłącz…">
-<!ENTITY disconnect.accesskey "R">
+<!ENTITY disconnect.accesskey "">
 <!ENTITY verify.label "Zweryfikuj adres e-mail">
-<!ENTITY verify.accesskey "s">
+<!ENTITY verify.accesskey "">
 <!ENTITY forget.label "Usuń adres e-mail">
-<!ENTITY forget.accesskey "U">
+<!ENTITY forget.accesskey "">
 
 <!ENTITY signedOut.caption "Zabierz swoją sieć ze sobą">
 <!ENTITY signedOut.description "Synchronizuj zakładki, historię, karty, hasła, dodatki i ustawienia między wszystkimi swoimi urządzeniami.">
 <!ENTITY signedOut.accountBox.title "&syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create "Utwórz">
-<!ENTITY signedOut.accountBox.create.accesskey "U">
+<!ENTITY signedOut.accountBox.create.accesskey "">
 <!ENTITY signedOut.accountBox.signin "Zaloguj się">
-<!ENTITY signedOut.accountBox.signin.accesskey "Z">
+<!ENTITY signedOut.accountBox.signin.accesskey "">
 
 <!ENTITY signedIn.engines.label "Synchronizuj z innymi urządzeniami:">
 
