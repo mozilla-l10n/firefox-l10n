@@ -18,6 +18,15 @@
 <!ENTITY feedFolder.label            "Artiklid salvestatakse:">
 <!ENTITY feedFolder.accesskey        "A">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Uusi uudiseid kontrollitakse ">
+<!ENTITY biffStart.accesskey         "u">
+<!ENTITY biffMinutes.label           "minuti">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "päeva">
+<!ENTITY biffDays.accesskey          "p">
+<!ENTITY recommendedUnits.label      "Avaldaja soovitab:">
+
 <!ENTITY quickMode.label             "Veebilehe laadimise asemel kuvatakse artikli kokkuvõtet">
 <!ENTITY quickMode.accesskey         "h">
 
@@ -27,6 +36,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "S">
 <!ENTITY autoTagPrefix.placeholder   "Sisesta prefiks">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Lisa">
 <!ENTITY button.addFeed.accesskey    "L">
 <!ENTITY button.updateFeed.label     "Uuenda">
