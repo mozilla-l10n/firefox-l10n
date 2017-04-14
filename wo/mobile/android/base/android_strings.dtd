@@ -432,6 +432,8 @@ size. -->
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "Yeesali boppam">
+<!ENTITY pref_update_autodownload_wifi "Ci Wi-Fi rekk">
 <!ENTITY pref_update_autodownload_never "Mukk">
 <!ENTITY pref_update_autodownload_always "Faww">
 
@@ -440,22 +442,28 @@ size. -->
 
 <!ENTITY quit "Génn">
 
-<!ENTITY addons "Modilu mottali">
-<!ENTITY downloads "Yeb yi">
-<!ENTITY char_encoding "Suulale araf yi">
+<!ENTITY addons "Lawal">
+<!ENTITY logins "Duggkaay">
+<!ENTITY downloads "Yebbi">
+<!ENTITY char_encoding "">
 
 <!ENTITY share "Seddoo">
 <!ENTITY share_title "Seddoo ci">
-<!ENTITY share_image_failed "Kenn mëneesula seddoo nataal bi">
-<!ENTITY save_as_pdf "Aar ko ci PDF">
-<!ENTITY find_in_page "Wut ci biir xët wi">
-<!ENTITY desktop_mode "Xool sumbu ordinatëër bi">
-<!ENTITY page "Page">
-<!ENTITY tools "Jumtukaay yi">
-<!ENTITY new_tab "Koñ bu bees">
-<!ENTITY close_private_tabs "Close Private Tabs">
-<!ENTITY set_image_fail "Unable to set image">
-<!ENTITY set_image_path_fail "Unable to save image">
+<!ENTITY share_image_failed "Kenn maneesul a séddoo nataal bii">
+<!ENTITY save_as_pdf "Denc ko ci PDF">
+<!ENTITY print "Móol">
+<!ENTITY find_in_page "Seet ci biir xët wi">
+<!ENTITY desktop_mode "Xool sumb bu nosukaay">
+<!ENTITY page "Xët">
+<!ENTITY tools "Jumtukaay">
+<!ENTITY new_tab "Làcc wu bees">
+<!ENTITY new_private_tab "Làcc wi bees te suturloo">
+<!ENTITY close_all_tabs "Tëj làcc yépp">
+<!ENTITY close_private_tabs "Tëj làcci sutura yépp">
+<!ENTITY tabs_normal "Làcc">
+<!ENTITY tabs_private "Sutura">
+<!ENTITY set_image_fail "Maneesul a tànn bile nataal">
+<!ENTITY set_image_path_fail " Maneesul a denc bile nataal">
 <!ENTITY set_image_chooser_title "Set Image As">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -473,22 +481,32 @@ size. -->
 <!ENTITY media_stop "Stop">
 
 <!ENTITY contextmenu_open_new_tab "Ubbi ci biir koñ bu bees">
-<!ENTITY contextmenu_remove "Remove">
-<!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru dalal jamm bi">
-<!ENTITY contextmenu_share "Seddoo">
+<!ENTITY contextmenu_open_private_tab "Ubbi ci làccu sutura">
+<!ENTITY contextmenu_remove "Far">
+<!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru njëlbeen bi">
+<!ENTITY contextmenu_share "Séddoo">
 <!ENTITY contextmenu_pasteandgo "Taf te ubbi">
 <!ENTITY contextmenu_paste "Taf">
 <!ENTITY contextmenu_copyurl "Duppi màkkaan bi">
-<!ENTITY contextmenu_subscribe "Subscribe to Page">
-<!ENTITY contextmenu_site_settings "Edit Site Settings">
-<!ENTITY contextmenu_top_sites_edit "Edit">
-<!ENTITY contextmenu_top_sites_pin "Pin Site">
-<!ENTITY contextmenu_top_sites_unpin "Unpin Site">
-<!ENTITY contextmenu_add_search_engine "Add a Search Engine">
+<!ENTITY contextmenu_edit_bookmark "Soppi">
+<!ENTITY contextmenu_subscribe "">
+<!ENTITY contextmenu_site_settings "Soppi jekk-jekkali dal">
+<!ENTITY contextmenu_top_sites_edit "Soppi">
+<!ENTITY contextmenu_top_sites_pin "Kepp bii dal">
+<!ENTITY contextmenu_top_sites_unpin "Keppi bii dal">
+<!ENTITY contextmenu_add_search_engine "Yokk Seetukaay">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[Amul turu jëfandikukat]">
+<!ENTITY doorhanger_login_edit_title "Soppi duggkaay">
+<!ENTITY doorhanger_login_edit_username_hint "Turu jëfandikukat">
+<!ENTITY doorhanger_login_edit_password_hint "Baatu-jàll">
+<!ENTITY doorhanger_login_edit_toggle "Wone baatu-jàll">
+<!ENTITY doorhanger_login_select_message "Duppee baatu-jàll bi ci &formatS;?">
+<!ENTITY doorhanger_login_select_toast_copy "Duppees na baatu-jàll bi">
+<!ENTITY doorhanger_login_select_action_text "Tànnal beneen duggkaay">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
