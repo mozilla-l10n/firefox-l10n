@@ -374,34 +374,41 @@ size. -->
 <!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_history2 "Browsing history">
-<!ENTITY pref_private_data_cookies2 "Cookies &amp; jokkoo yi sàjj">
-<!ENTITY pref_private_data_cache "Damb bu gaaw">
-<!ENTITY pref_private_data_offlineApps "Rotaani dalub web yu jokkoowul">
-<!ENTITY pref_private_data_siteSettings2 "Site settings">
-<!ENTITY pref_private_data_downloadFiles2 "Downloads">
+<!ENTITY pref_private_data_openTabs "Làcc yi ubbeeku">
+<!ENTITY pref_private_data_history2 "Jaar-jaaru joow gi">
+<!ENTITY pref_private_data_searchHistory "Jaar-jaaru ceet gi">
+<!ENTITY pref_private_data_formdata2 "">
+<!ENTITY pref_private_data_cookies2 "Cookies &amp; ñi dugg">
+<!ENTITY pref_private_data_passwords2 "Duggkaay yees fi denc">
+<!ENTITY pref_private_data_cache "Cache">
+<!ENTITY pref_private_data_offlineApps "Njoxeefi dali web yu lonkuwul">
+<!ENTITY pref_private_data_siteSettings2 "Jekk-jekkali dal">
+<!ENTITY pref_private_data_downloadFiles2 "Yebbi">
+<!ENTITY pref_private_data_syncedTabs "Làcc yi lonkoo">
 
-<!ENTITY pref_about_firefox "Tàmbaliwaat &brandShortName;">
-<!ENTITY pref_vendor_faqs "FAQs">
-<!ENTITY pref_vendor_feedback "Give feedback">
+<!ENTITY pref_default_browser "Def muy sa joowukaay bu njëkk">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Xool Wallug Mozilla">
+<!ENTITY pref_about_firefox "Ñeel &brandShortName;">
+<!ENTITY pref_vendor_faqs "Laaj aki tont">
+<!ENTITY pref_vendor_feedback "Wax sa xalaat">
 
-<!ENTITY pref_dialog_set_default "Set as default">
-<!ENTITY pref_dialog_default "Default">
-<!ENTITY pref_dialog_remove "Remove">
+<!ENTITY pref_dialog_set_default "">
+<!ENTITY pref_dialog_default "">
+<!ENTITY pref_dialog_remove "Far">
 
-<!ENTITY pref_search_last_toast "You can\&apos;t remove or disable your last search engine.">
+<!ENTITY pref_search_last_toast "Manoo far walla doxadil sa seetukaay bu mujj.">
 
-<!ENTITY pref_panels_show "Show">
-<!ENTITY pref_panels_hide "Hide">
-<!ENTITY pref_panels_reorder "Change order">
-<!ENTITY pref_panels_move_up "Move up">
-<!ENTITY pref_panels_move_down "Move down">
+<!ENTITY pref_panels_show "Wone">
+<!ENTITY pref_panels_hide "Nëbb">
+<!ENTITY pref_panels_reorder "Soppi toftaloo gi">
+<!ENTITY pref_panels_move_up "Yéegal">
+<!ENTITY pref_panels_move_down "Wàcce">
 
-<!ENTITY datareporting_notification_title "&brandShortName; stats &amp; data">
-<!ENTITY datareporting_notification_action "Choose what to share">
+<!ENTITY datareporting_notification_title "Njoxeefi &brandShortName;">
+<!ENTITY datareporting_notification_action "Tànn li ngay séddoo">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
-<!ENTITY datareporting_notification_action_long "Choose what information to share">
-<!ENTITY datareporting_notification_summary "To improve your experience, &brandShortName; automatically sends some information to &vendorShortName;.">
+<!ENTITY datareporting_notification_action_long "Tànn xibaar yi nga séddoo">
+<!ENTITY datareporting_notification_summary "Ngir gënal jëfandiku gi, &brandShortName; da fay yonneel boppam ay xibaar &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
@@ -412,7 +419,7 @@ size. -->
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Health Report">
+<!ENTITY datareporting_fhr_title "&brandShortName; Xibaari wér-gi-yaram">
 <!ENTITY datareporting_fhr_summary2 "Shares data with &vendorShortName; about your browser health and helps you understand your browser performance">
 <!ENTITY datareporting_abouthr_title "View my Health Report">
 <!ENTITY datareporting_telemetry_title "Telemetry">
