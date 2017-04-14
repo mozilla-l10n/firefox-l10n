@@ -20,10 +20,10 @@
 <!ENTITY  useSystemColors.label           "கணினி நிறங்களை பயன்படுத்து">
 <!ENTITY  useSystemColors.accesskey       "s">
 
-<!ENTITY  underlineLinks.label            "அடிக்கோடு இணைப்புகள்">
+<!ENTITY  underlineLinks.label            "அடிக்கோடு தொடுப்புகள்">
 <!ENTITY  underlineLinks.accesskey        "U">
 <!ENTITY  links                           "இணைப்பு நிறங்கள்">
-<!ENTITY  linkColor.label                 "பார்வையிடாத இணைப்புகள்:">
+<!ENTITY  linkColor.label                 "பார்வையிடாத தொடுப்புகள்:">
 <!ENTITY  linkColor.accesskey             "L">
-<!ENTITY  visitedLinkColor.label          "பார்வையிட்ட இணைப்புகள்:">
+<!ENTITY  visitedLinkColor.label          "பார்வையிட்ட தொடுப்புகள்:">
 <!ENTITY  visitedLinkColor.accesskey      "V">
