@@ -6,5 +6,5 @@
 <!ENTITY aboutProfiles.subtitle "Esta página ajuda a gerenciar seus perfis. Cada perfil é um mundo separado que contém histórico, favoritos, configurações e extensões separados.">
 <!ENTITY aboutProfiles.create "Criar um novo perfil">
 <!ENTITY aboutProfiles.restart.title "Reiniciar">
-<!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar com extensões desativadas…">
+<!ENTITY aboutProfiles.restart.inSafeMode "Reiniciar com as extensões desabilitadas…">
 <!ENTITY aboutProfiles.restart.normal "Reiniciar normalmente…">
