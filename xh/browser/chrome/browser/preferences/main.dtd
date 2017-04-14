@@ -5,25 +5,25 @@
 <!ENTITY startup.label             "Qalisa">
 
 <!ENTITY startupPage.label         "Xa i-&brandShortName; iqalisa:">
-<!ENTITY startupPage.accesskey     "a">
+<!ENTITY startupPage.accesskey     "i">
 <!ENTITY startupUserHomePage.label "Bonisa iphepha lakho lokuqala">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
 <!ENTITY startupPrevSession.label  "Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam">
 
-<!ENTITY homepage.label            "Phepha laseKhaya:">
+<!ENTITY homepage.label            "Phepha lokuQala:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "Sebenzisa iphepha langoku">
+<!ENTITY useCurrentPage.label      "Sebenzisa iPhepha laNgoku">
 <!ENTITY useCurrentPage.accesskey  "S">
-<!ENTITY useMultiple.label         "Sebenzisa amakhasi angoku">
-<!ENTITY chooseBookmark.label      "Sebenzisa ibhukhmakhi…">
-<!ENTITY chooseBookmark.accesskey  "b">
+<!ENTITY useMultiple.label         "Sebenzisa amaPhepha aNgoku">
+<!ENTITY chooseBookmark.label      "Sebenzisa iBhukhmakhi…">
+<!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "Buyisela kwiZiseko">
-<!ENTITY restoreDefault.accesskey  "u">
+<!ENTITY restoreDefault.accesskey  "B">
 
 <!ENTITY downloads.label     "Okukhutshelwayo">
 
 <!ENTITY saveTo.label "Gcina iifayile kwi">
-<!ENTITY saveTo.accesskey "k">
+<!ENTITY saveTo.accesskey "c">
 <!ENTITY chooseFolderWin.label        "Bhrwuza…">
 <!ENTITY chooseFolderWin.accesskey    "w">
 <!ENTITY chooseFolderMac.label        "Khetha…">
@@ -33,7 +33,7 @@
 
 <!ENTITY alwaysCheckDefault2.label        "Khangela qho ukuba i-&brandShortName; iyibhrawuza yakho esisiseko">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
-<!ENTITY setAsMyDefaultBrowser2.label     "Yenza Ibeyemiselweyo">
+<!ENTITY setAsMyDefaultBrowser2.label     "Yenza Ibe yemiselweyo">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "I">
 <!ENTITY isDefault.label                  "I-&brandShortName; kungokunje iyibhrawuza yakho esisiseko">
 <!ENTITY isNotDefault.label               "I-&brandShortName; ayiyobhrawuza yakho esisiseko">

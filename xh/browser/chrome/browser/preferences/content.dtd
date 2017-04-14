@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Ifestile ezivelelayo">
+<!ENTITY  popups.label                "Iifestile ezizivelelayo">
 
 <!ENTITY  blockPopups.label           "Thintela iifestile ezizivelelayo">
 <!ENTITY  blockPopups.accesskey       "T">
 
 <!ENTITY  notificationsPolicy.label            "Izaziso">
-<!ENTITY  notificationsPolicyLearnMore.label   "Funda ngakumbi">
+<!ENTITY  notificationsPolicyLearnMore.label   "Funda okungakumbi">
 <!ENTITY  notificationsPolicyDesc3.label       "Khetha ukuba ziziphi iisayithi ezivumelekileyo ukuba zikuthumelele izaziso">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "Khetha…">
@@ -17,16 +17,16 @@
 <!ENTITY  notificationsDoNotDisturbDetails.value "Akukho saziso siya kuboniswa de uphinde uqale i-&brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Izinxaxhi…">
-<!ENTITY  popupExceptions.accesskey   "z">
+<!ENTITY  popupExceptions.accesskey   "I">
 
-<!ENTITY  fontsAndColors.label        "Iifonti nemibala">
+<!ENTITY  fontsAndColors.label        "Iifonti neMibala">
 
 <!ENTITY  defaultFont.label           "Ifonti esisiseko:">
-<!ENTITY  defaultFont.accesskey       "f">
-<!ENTITY  defaultSize.label           "Ubungakanani:">
-<!ENTITY  defaultSize.accesskey       "U">
+<!ENTITY  defaultFont.accesskey       "I">
+<!ENTITY  defaultSize.label           "Isayizi:">
+<!ENTITY  defaultSize.accesskey       "I">
 
-<!ENTITY  advancedFonts.label         "Kwinqanaba Eseliphambili…">
+<!ENTITY  advancedFonts.label         "Kwangaphambili…">
 <!ENTITY  advancedFonts.accesskey     "K">
 
 <!ENTITY  colors.label                "Imibala…">
@@ -34,7 +34,7 @@
 
 
 <!ENTITY languages.label              "Iilwimi">
-<!ENTITY chooseLanguage.label         "Khetha ulwimi oluthandayo lokubonisa amakhasi">
+<!ENTITY chooseLanguage.label         "Khetha ulwimi oluthandayo lokubonisa amaphepha">
 <!ENTITY chooseButton.label           "Khetha…">
 <!ENTITY chooseButton.accesskey       "e">
 
@@ -50,10 +50,11 @@
   -  browser/translation.dtd
   -->
 
-<!ENTITY translation.options.attribution.beforeLogo "Inguqulelo ngu">
+<!ENTITY translation.options.attribution.beforeLogo "Iinguqulelo ngu">
 <!ENTITY translation.options.attribution.afterLogo "​‌‌">
 
+<!ENTITY  drmContent.label             "Isiqulatho se-DRM">
 
-<!ENTITY  playDRMContent.label         "Dlala umxholo we-DRM">
+<!ENTITY  playDRMContent.label         "Dlala isiqulatho se-DRM">
 <!ENTITY  playDRMContent.accesskey     "D">
-<!ENTITY  playDRMContent.learnMore.label "Funda ngakumbi">
+<!ENTITY  playDRMContent.learnMore.label "Funda okungakumbi">
