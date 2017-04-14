@@ -201,10 +201,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadButton.tooltip         "حالیہ صفحہ پھر لوڈ کریں">
 <!ENTITY stopCmd.label                "رکیں">
 <!ENTITY stopCmd.macCommandKey        "۔">
-<!ENTITY stopButton.tooltip           "یہ صفحہ لوڈ کرنا روکیں">
+<!ENTITY stopButton.tooltip           "اس صفحہ کو لوڈ کرنا روکیں">
 <!ENTITY goEndCap.tooltip             "محل وقوع بار میں دیے گئے پتے پر جائیں">
 <!ENTITY printButton.label            "چھاپیں">
-<!ENTITY printButton.tooltip          "یہ صفحہ چھاپیں">
+<!ENTITY printButton.tooltip          "اس صفحہ کو چھاپیں">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "سائٹ کی معلومات کا نظارہ کریں">
 
