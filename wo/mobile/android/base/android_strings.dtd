@@ -71,8 +71,8 @@
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Nekk na ci màndarga-xët yi ba noppi">
 <!ENTITY bookmark_removed "Màndarga-xët bi far nañ ko">
-<!ENTITY bookmark_updated "Màndarga-xët buñ yeesal">
-<!ENTITY bookmark_options "Tànneef">
+<!ENTITY bookmark_updated "Màndarga-xët bees yeesal">
+<!ENTITY bookmark_options "Tànnéef">
 <!ENTITY screenshot_added_to_bookmarks "Jàppug xoolu gi yokk nañ ko ci màndarga-xët yi">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -200,8 +200,8 @@
 <!ENTITY pref_content_notifications_summary2 "Gis ay ëmbiit yi bees ci dal yiñ nangu">
 <!ENTITY pref_developer_remotedebugging_usb "Caytu ci soree ak USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Caytu ci soree ak WI-FI">
-<!ENTITY pref_remember_signons2 "Fattaliku lonku yi">
-<!ENTITY pref_manage_logins "Yorug lonku yi">
+<!ENTITY pref_remember_signons2 "Fattaliku duggkaay yi">
+<!ENTITY pref_manage_logins "Yorug duggkaay yi">
 
 <!ENTITY pref_category_home "Xët wu njëkk">
 <!ENTITY pref_category_home_summary "Soppi sa xët wu njëkk">
@@ -577,9 +577,13 @@ size. -->
 <!ENTITY home_clear_history_button "Far jaar-jaaru joow gi">
 <!ENTITY home_clear_history_confirm "Wóor na ne da nga bëgg a far jaar-jaar gi?">
 <!ENTITY home_bookmarks_empty "Màndarga-xët yi nga denc ñooy feeñ fi.">
+<!ENTITY home_closed_tabs_title2 "Yees mujjee tëj">
 <!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
+<!ENTITY home_restore_all "Ubbiwaat yépp">
+<!ENTITY home_closed_tabs_number "&formatD; làcc">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
-<!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
+<!ENTITY home_closed_tabs_one "1 làcc">
+<!ENTITY home_most_recent_empty "Dali web yi nga mujjee ubbi ñooy feeñ fii.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\&apos;t save your history.">
