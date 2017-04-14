@@ -59,13 +59,15 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Yilibale le iMeyili">
 <!ENTITY forget.accesskey            "Y">
 
+<!ENTITY signedOut.caption            "Phatha iWebhu Yakho Apho Ukhoyo">
 <!ENTITY signedOut.description        "Ngqamanisa iibhukmakhi zakho, iimbali, iithebhu, iiphaswedi, ezongezelelwayo, kunye neepreferensi kuzo zonke izixhobo zakho.">
 <!ENTITY signedOut.accountBox.title   "Qhagamshela nge&syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Yila i-Akhawunti">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-
+<!ENTITY signedOut.accountBox.signin  "Sayina uNgene">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.engines.label       "Ngqamanisa Zonke iZixhobo">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
