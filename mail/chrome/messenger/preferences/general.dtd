@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY messengerStartPage.label         "Startsida">
+<!ENTITY messengerStartPage.label         "&brandShortName; Startsida">
 <!ENTITY enableStartPage.label            "Visa startsidan i förhandsgranskningen när &brandShortName; startar">
 <!ENTITY enableStartPage.accesskey        "ö">
 <!ENTITY location.label                   "Adress:">
