@@ -58,9 +58,11 @@
 <!ENTITY offlineStorage2.label           "Offline webtartalom és felhasználói adatok">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
+<!ENTITY siteData.label                  "Oldal adatai">
+<!ENTITY clearSiteData.label             "Minden adat törlése">
+<!ENTITY clearSiteData.accesskey         "d">
+<!ENTITY siteDataSettings.label          "Beállítások…">
+<!ENTITY siteDataSettings.accesskey      "B">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
