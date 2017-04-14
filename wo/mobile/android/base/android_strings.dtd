@@ -363,9 +363,14 @@ size. -->
 <!ENTITY pref_voice_input "Duggug ay kàddu">
 <!ENTITY pref_voice_input_summary2 "Sañal duggalug ay kàddu ci banqaasu màkkaan bi">
 <!ENTITY pref_qrcode_enabled "Jàngkaayu QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Sañal jàngkaayu QR ci bànqaasu màkkaan bi">
 
-<!ENTITY pref_use_master_password "Jëfandikoo baatu jàll bi gëna am solo">
+<!ENTITY pref_use_master_password "Jëfandikoo baatu-jàll bi njëkk">
+<!ENTITY pref_sync2 "Dugg">
+<!ENTITY pref_sync_summary2 "Lonk say làcc, màndarga-xët, duggkaay, jaar-jaar">
 <!ENTITY pref_search_suggestions "Wone tektali ceet">
+<!ENTITY pref_history_search_suggestions "Wone jaar-jaaru ceet gi">
+<!ENTITY pref_import_options "">
 <!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
