@@ -57,6 +57,7 @@ both, to better adapt this sentence to their language.
 
 
 
+<!ENTITY signedOut.caption            "இணைத்தை உங்களுடன் வைத்திருங்கள்">
 <!ENTITY signedOut.description        "புத்தகக்குறிகள், வரலாறு, கீற்றுகள், கடவுச்சொற்கள், கூடுதல் இணைப்புகள், மற்றும் முன்னுரிமைகளை எல்லா கருவிகளிலும் ஒத்திசை.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; உடன் இணையுங்கள்">
 

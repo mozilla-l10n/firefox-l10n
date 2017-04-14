@@ -113,7 +113,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; வில் உள்நுழை">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label;வில் புகுபதிக">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; உடன் மறுமுறை இணைக்கவும்">
 <!ENTITY fxaUnverified.label "உங்கள் கணக்கைச் சரிபார்க்கவும்">
@@ -789,7 +789,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
-<!ENTITY syncSignIn.label             "&syncBrand.shortName.label; இல் உள்நுழை…">
+<!ENTITY syncSignIn.label             "&syncBrand.shortName.label;க்க புகுபதிக…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "இப்போது ஒத்திசை">
 <!ENTITY syncSyncNowItem.accesskey    "S">

@@ -82,7 +82,7 @@
 # Firefox Nightly links folder name
 
 
-#define nightly_heading Firefox Nightly வளங்கள்
+#define nightly_heading இராக் கால பயர்பாக்ஸ் வளங்கள்
 
 
 # LOCALIZATION NOTE (nightly_blog):
@@ -91,7 +91,7 @@
 # Nightly builds only, link title for https://blog.nightly.mozilla.org/
 
 
-#define nightly_blog Firefox Nightly வலைப்பூ
+#define nightly_blog இராக் கால பயர்பாக்ஸ் வலைப்பூ
 
 
 # LOCALIZATION NOTE (bugzilla):
