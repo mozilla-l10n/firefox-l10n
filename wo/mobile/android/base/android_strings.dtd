@@ -278,35 +278,50 @@
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
+<!ENTITY tab_queue_toast_action "Ubbi léegi">
+<!ENTITY tab_queue_prompt_title "Ubbiy lëkkalekaay yu bari?">
+<!ENTITY tab_queue_prompt_text4 "Denc leen ba keroog ngay ubbi &brandShortName;.">
+<!ENTITY tab_queue_prompt_tip_text2 "Dinga ko man a soppiwaat ca jekk-jekkaluwaay ga">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Doxal « Sañal mu tegu ci kaw yeneen jëfekaay »">
+<!ENTITY tab_queue_prompt_positive_action_button "Doxal">
+<!ENTITY tab_queue_prompt_negative_action_button "Ci kanam">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Dem ci Jekk-jekkal yi">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY tab_queue_notification_text_plural2 "&formatD; làcc a ngi xaar">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
+<!ENTITY tab_queue_notification_text_singular2 "1 làccay xaar">
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
+<!ENTITY tab_queue_notification_settings "Ngir \&quot;Ubbi lëkkalekaay yu bari\&quot; faww nga doxal sañal gu \&apos;Tegu ci kaw yeneen jëfekaay\&apos; ngir &brandShortName;">
 
+<!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
      have been updated (new content is available). The number of websites is always more than one (>= 2). For a single
      update the website title is used instead of this string.
      We can't use Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY content_notification_title_plural "&formatD; dal lees yeesal">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Neub njel li">
+<!ENTITY content_notification_action_settings2 "Jekk-jekkal">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
-<!ENTITY content_notification_action_read_now "Lireul">
+<!ENTITY content_notification_action_read_now "Jàng">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
+<!ENTITY content_notification_updated_on "&formatS; lees ko yeesal">
 
-<!ENTITY pref_char_encoding "Suulale araf yi">
+<!ENTITY pref_char_encoding "">
 <!ENTITY pref_char_encoding_on "Wone njël li">
 <!ENTITY pref_char_encoding_off "Neub njël li">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
