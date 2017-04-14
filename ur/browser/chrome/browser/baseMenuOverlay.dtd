@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY minimizeWindow.key       "م">
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "چھوٹا کریں">
 <!ENTITY bringAllToFront.label    "تمام سامنے لائیں">
 <!ENTITY zoomWindow.label         "زوم کریں">
 <!ENTITY windowMenu.label         "دریچہ">
 
-<!ENTITY helpMenu.label           "ہدایات"> 
-<!ENTITY helpMenu.accesskey       "ہ"> 
+<!ENTITY helpMenu.label           "مدد"> 
+<!ENTITY helpMenu.accesskey       "م"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ہدایات"> 

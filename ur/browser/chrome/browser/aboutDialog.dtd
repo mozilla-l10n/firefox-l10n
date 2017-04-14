@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
-<!ENTITY aboutDialog.title          "&brandFullName; کے بارے میں">
+<!ENTITY aboutDialog.title          "&brandFullName; کے متعلق">
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "تازہ کاریوں کے لیے پڑتال کریں">
 <!ENTITY update.checkForUpdatesButton.accesskey   "پ">
-<!ENTITY update.updateButton.label2               "تازہ کرنے کے لیے &brandShortName; کو دوباره شروع کریں">
+<!ENTITY update.updateButton.label2               "تازہ کاری کرنے کے لیے &brandShortName; کو دوباره شروع کریں">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -33,7 +33,7 @@
 <!ENTITY community.mozillaLink      "&vendorShortName;">
 <!ENTITY community.middle2          "، آ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
-<!ENTITY community.creditsLink      "ہمہ گیر حلقہ">
+<!ENTITY community.creditsLink      "عالمہ گروہ">
 <!ENTITY community.end3             "   آپس میں مل کر مواصلاتی جال کو وصیح، عوامی اور قابل رسائی بناۓ ہوۓ-">
 
 <!ENTITY helpus.start               "مدد کرنا چاہیں گے؟ ">
@@ -53,10 +53,10 @@
 <!ENTITY bottomLinks.rights         "صارف کے حقوق ">
 <!-- LOCALIZATION NOTE (bottomLinks.privacy): This is a link title that links to https://www.mozilla.org/legal/privacy/. -->
 
-<!ENTITY bottomLinks.privacy        "پالیسی نجی نوعیت ">
+<!ENTITY bottomLinks.privacy        "رازداری پالیسی">
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے ... ">
+<!ENTITY update.checkingForUpdates  "تازہ کاریوں کے لیے پڑتال کر رہا ہے…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; تازہ ترین ہے">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
@@ -87,7 +87,7 @@
      why the system is no longer supported. As this is all in one line, try to
      make the localized text short (see bug 843497 for screenshots). -->
 
-<!ENTITY update.unsupported.start    "آپ اس سسٹم پر مذید تازہ کاریاں نہیں کر سکتے۔">
+<!ENTITY update.unsupported.start    "آپ اس نظام پر مزید تازہ کاریاں نہیں کر سکتے۔">
 <!ENTITY update.unsupported.linkText "مزید سیکھیں">
 <!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -96,8 +96,8 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے-  ">
-<!ENTITY update.downloading.end     "کے بارے میں مزیدسیکھیں">
+<!ENTITY update.downloading.start   "تازہ کاری ڈاؤن لوڈ کر رہا ہے—">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "تازہ کاری لگائیں ...">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
@@ -105,4 +105,4 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "آپ اس وقت ادھر ہیں">
-<!ENTITY channel.description.end    "  چینل اپڈیٹ۔">
+<!ENTITY channel.description.end    "چینل کی تازہ کاری کریں">

@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn موزیلا تخلیق کار نیٹ ورک
+#define mdn Mozilla تخلیق کار نیٹ ورک
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):
@@ -136,7 +136,7 @@
 # Nightly builds only, link title for ircs://irc.mozilla.org/nightly
 
 
-#define irc IRC پر شبانہ بحث کریں
+#define irc IRC پر Nightly کا مباحثہ کریں
 
 
 # LOCALIZATION NOTE (planet):
@@ -145,7 +145,7 @@
 # Nightly builds only, link title for https://planet.mozilla.org/
 
 
-#define planet موزیلا سیارے
+#define planet Planet Mozilla
 
 
 #unfilter emptyLines

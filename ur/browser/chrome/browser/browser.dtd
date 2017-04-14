@@ -68,7 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "م">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "صفحہ سیٹ اپ…">
-<!ENTITY printSetupCmd.accesskey "س">
+<!ENTITY printSetupCmd.accesskey "ا">
 <!ENTITY printPreviewCmd.label "چھپائی پیش نظارہ">
 <!ENTITY printPreviewCmd.accesskey "پ">
 <!ENTITY printCmd.label "چھاپیں…">
@@ -102,11 +102,11 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY mirrorTabCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
-<!ENTITY enterFullScreenCmd.label "پوری سکرین موڈ میں جائیں">
+<!ENTITY enterFullScreenCmd.label "پوری اسکرین موڈ میں داخل کریں">
 <!ENTITY enterFullScreenCmd.accesskey "پ">
-<!ENTITY exitFullScreenCmd.label " پوری سکرین موڈ خروج کریں">
+<!ENTITY exitFullScreenCmd.label " پوری اسکرین موڈ خروج کریں">
 <!ENTITY exitFullScreenCmd.accesskey "پ">
-<!ENTITY fullScreenCmd.label "پوری سکرین">
+<!ENTITY fullScreenCmd.label "پوری اسکرین">
 <!ENTITY fullScreenCmd.accesskey "پ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "تمام ٹیب دکھائیں">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "بند کریں">
 <!ENTITY fullScreenAutohide.label "ٹول بار چھپائیں">
 <!ENTITY fullScreenAutohide.accesskey "چ">
-<!ENTITY fullScreenExit.label "پوری سکرین موڈ خروج کریں">
+<!ENTITY fullScreenExit.label "پوری اسکرین موڈ خروج کریں">
 <!ENTITY fullScreenExit.accesskey "پ">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -133,15 +133,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "اب پوری سکرین پر ہے">
-<!ENTITY fullscreenWarning.generic.label "یہ دستاویز اب پوری سکرین پر ہے">
+<!ENTITY fullscreenWarning.afterDomain.label "اب پوری اسکرین پر ہے">
+<!ENTITY fullscreenWarning.generic.label "یہ دستاویز اب پوری اسکرین پر ہے">
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
 
-<!ENTITY exitDOMFullscreen.button "پوری سکرین خروج کریں (Esc)">
+<!ENTITY exitDOMFullscreen.button "پوری اسکرین سے خروج کریں (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "پوری سکرین خروج کریں (Esc)">
-<!ENTITY leaveDOMFullScreen.label "ؑپوری سکرین خروج کریں">
+<!ENTITY leaveDOMFullScreen.label "ؑپوری اسکرین سے خروج کریں">
 <!ENTITY leaveDOMFullScreen.accesskey "پ">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -166,7 +166,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "مزید حصہ داری خدمات ڈھونڈیں…">
 <!ENTITY sharePageCmd.label "اس صفحہ کو شیئر کریں">
-<!ENTITY sharePageCmd.commandkey "س">
+<!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "ا">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "اس ربط کو شیئر کریں">
@@ -185,7 +185,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY recentBookmarks.label "حالیہ نشانی کردہ">
 <!ENTITY otherBookmarksCmd.label "دیگر نشانیاں">
 <!ENTITY mobileBookmarksCmd.label "موبائل نشانیاں">
-<!ENTITY bookmarksToolbarChevron.tooltip "اور نشانیاں دکھائیں">
+<!ENTITY bookmarksToolbarChevron.tooltip "مزید نشانیاں دکھائیں">
 <!ENTITY showRecentlyBookmarked.label     "حالیہ نشانی کردہ دکھائیں">
 <!ENTITY showRecentlyBookmarked.accesskey "ھ">
 <!ENTITY hideRecentlyBookmarked.label     "حالیہ نشانی کردہ چھپائیں">
