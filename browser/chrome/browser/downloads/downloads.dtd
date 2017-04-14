@@ -52,8 +52,8 @@
      The show and showMac commands are never shown together, thus they can share
      the same access key (though the two access keys can also be different).
      -->
-<!ENTITY cmd.show.label                   "உள்ள அடைவைனை திற">
-<!ENTITY cmd.show.accesskey               "அ">
+<!ENTITY cmd.show.label                   "கோப்பகத்திலிருந்து திற">
+<!ENTITY cmd.show.accesskey               "F">
 <!ENTITY cmd.showMac.label                "கண்டுபிடிப்பானில் காண்பி">
 <!ENTITY cmd.showMac.accesskey            "க">
 <!ENTITY cmd.retry.label                  "மறுமுயற்சி">
