@@ -504,67 +504,79 @@ size. -->
 <!ENTITY doorhanger_login_edit_username_hint "Turu jëfandikukat">
 <!ENTITY doorhanger_login_edit_password_hint "Baatu-jàll">
 <!ENTITY doorhanger_login_edit_toggle "Wone baatu-jàll">
-<!ENTITY doorhanger_login_select_message "Duppee baatu-jàll bi ci &formatS;?">
+<!ENTITY doorhanger_login_select_message "Duppee baatu-jàll bi ca &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Duppees na baatu-jàll bi">
 <!ENTITY doorhanger_login_select_action_text "Tànnal beneen duggkaay">
+<!ENTITY doorhanger_login_select_title "Duppee baatu-jàll bi ca">
 
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
+<!ENTITY pref_magnifying_glass_enabled "Rëyal barab yu ndaw yi">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Rëyal lëkkalekaay yeek duggalwaayu mbind yi suñ bësee ci seen wet">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Full-screen browsing">
+<!ENTITY pref_scroll_title_bar2 "Joow ak palanteer bu fees">
+<!ENTITY pref_scroll_title_bar_summary2 "Nëbb bànqaasu jumtukaay bu &brandShortName; su xët wi di wàcc">
 
+<!ENTITY pref_tab_queue_title3 "Toftaloog làcc yi">
+<!ENTITY pref_tab_queue_summary4 "Denc lëkkalekaay yi ba keroog may ubbiwaat &brandShortName;">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Danqale làcc yi">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-<!ENTITY page_removed "Page removed">
+<!ENTITY page_removed "Farees na xët wi">
 
-<!ENTITY bookmark_edit_title "Soppali mandarga xët bi">
+<!ENTITY bookmark_edit_title "Soppi mandarga-xët bi">
 <!ENTITY bookmark_edit_name "Tur">
 <!ENTITY bookmark_edit_location "Màkkaan">
-<!ENTITY bookmark_edit_keyword "Caabi baat">
+<!ENTITY bookmark_edit_keyword "Baat-caabi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-<!ENTITY site_settings_title3       "Site Settings">
+<!ENTITY site_settings_title3       "Jekk-jekkali dal">
 <!ENTITY site_settings_cancel       "Neenal">
-<!ENTITY site_settings_clear        "Far">
+<!ENTITY site_settings_clear        "Fomp">
 
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-<!ENTITY page_action_dropmarker_description "Additional Actions">
+<!ENTITY page_action_dropmarker_description "Yeneeni jëf">
 
-<!ENTITY masterpassword_create_title "Soppi baatu jàll bi gëna am solo">
-<!ENTITY masterpassword_remove_title "Soppi baatu jàll bi gëna am solo">
-<!ENTITY masterpassword_password "Baatu jàll">
-<!ENTITY masterpassword_confirm "Dëggal baatu jàll bi">
+<!ENTITY masterpassword_create_title "Soppi baatu-jàll bu njëkk">
+<!ENTITY masterpassword_remove_title "Far baatu-jàll bu njëkk">
+<!ENTITY masterpassword_password "Baatu-jàll">
+<!ENTITY masterpassword_confirm "Dëggal baatu-jàll bi">
 
 <!ENTITY button_ok "OK">
 <!ENTITY button_cancel "Neenal">
 <!ENTITY button_yes "Waaw">
 <!ENTITY button_no "Déedéet">
-<!ENTITY button_clear_data "Far rootaan">
+<!ENTITY button_clear_data "Far njoxeef">
 <!ENTITY button_set "Dëggal">
 <!ENTITY button_clear "Far">
+<!ENTITY button_copy "Duppi">
 
-<!ENTITY home_top_sites_title "Top Sites">
+<!ENTITY home_top_sites_title "Yees gën a ubbi">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
-<!ENTITY home_top_sites_add "Add a site">
+<!ENTITY home_top_sites_add "Yokk ab dal">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Home">
-<!ENTITY home_history_title "History">
+<!ENTITY home_title "&brandShortName; Njëlbéen">
+<!ENTITY home_history_title "Jaar-jaar">
+<!ENTITY home_synced_devices_smartfolder "Jumtukaay yi lonkoo">
+<!ENTITY home_synced_devices_number "&formatD; jumtukaay">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_clear_history_button "Clear browsing history">
-<!ENTITY home_clear_history_confirm "Are you sure you want to clear your history?">
-<!ENTITY home_bookmarks_empty "Bookmarks you save show up here.">
+<!ENTITY home_synced_devices_one "1 jumtukaay">
+<!ENTITY home_history_back_to2 "Dellu ci jaar-jaar gépp">
+<!ENTITY home_clear_history_button "Far jaar-jaaru joow gi">
+<!ENTITY home_clear_history_confirm "Wóor na ne da nga bëgg a far jaar-jaar gi?">
+<!ENTITY home_bookmarks_empty "Màndarga-xët yi nga denc ñooy feeñ fi.">
 <!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_most_recent_empty "Websites you visited most recently show up here.">
