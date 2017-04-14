@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Sele ibhukmakhiwe">
 <!ENTITY overlay_share_send_other "Thumela kwezinye iidivayisi">
 
+<!ENTITY overlay_share_open_browser_btn_label "Sayina ungene kwi-&brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -388,6 +389,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Ngenisa iibhukmakhi nembali evela kwibhrawza yendalo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Vula iithebhu">
 <!ENTITY pref_private_data_history2 "Imbali yokubhrawuza">
 <!ENTITY pref_private_data_searchHistory "Khangela imbali">
 <!ENTITY pref_private_data_formdata2 "Yenza imbali">
@@ -538,6 +540,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Iithebhu Ezikhompakti">
+<!ENTITY pref_compact_tabs_summary2 "Lungelelanisa iithebhu kwiikholamu ezimbini kwimowudi yepotreyithi">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -691,7 +695,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Khangela ii&formatS1; eye nee&formatS2;">
 
 <!ENTITY searchable_description "Iibhukhmakhi nembali">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Uhlaziyo luyafumaneka ukulungiselela i-&brandShortName;">
 <!ENTITY updater_start_select2 "Chukumisa ukuze ukhuphele">
 
 <!ENTITY updater_downloading_title2 "Ikhuphela i-&brandShortName;">
@@ -699,7 +705,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Chukumisa ukwenza uhlaziyo lusakube lukhutshelwe">
 <!ENTITY updater_downloading_retry2 "Chukumisa ukuzama kwakhona">
 
-
+<!ENTITY updater_apply_title3 "Uhlaziyo luyafumaneka ukulungiselela i-&brandShortName;">
+<!ENTITY updater_apply_select3 "Cofa ukuze ufakele">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -844,4 +851,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Yekisa">
 <!ENTITY activity_stream_delete_history "Cima kwiMbali">
 
-
+<!ENTITY activity_stream_welcome_title "Wamkelekile Kwezibalaseleyo">
+<!ENTITY activity_stream_welcome_content1 "I-&brandShortName; ngoku iyila izinto ezibalaseleyo kwezo uye wazifumnisa kwiwebhu ukuze ukwazi ukubuyela kumanqaku abalaseleyo, kwiividiyo, iibhukmakhi namanye amaphepha.">
