@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Käivitumisel kontrollitakse uusi uudiseid">
 <!ENTITY loginAtStartup.accesskey      "K">
+<!ENTITY biffAll.label                 "Uuendused lubatakse kõigil uudistevoogudel">
+<!ENTITY biffAll.accesskey             "e">
 
+<!ENTITY newFeedSettings.label         "Uute uudistevoogude vaikimisi sätted">
 
 <!ENTITY manageSubscriptions.label     "Halda tellimusi...">
 <!ENTITY manageSubscriptions.accesskey "H">
