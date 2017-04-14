@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Tõmba kirjad">
 <!ENTITY folderContextGetMessages.accesskey "T">
+<!ENTITY folderContextPauseAllUpdates.label "Peata kõik uuendused">
+<!ENTITY folderContextPauseUpdates.label "Peata uuendused">
+<!ENTITY folderContextPauseUpdates.accesskey "P">
 <!ENTITY folderContextOpenInNewWindow.label "Ava uues aknas">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Ava uuel kaardil">
