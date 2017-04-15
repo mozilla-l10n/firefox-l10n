@@ -6,9 +6,9 @@
 
 <!ENTITY firstrun_urlbar_message "¡Brit lèɁn &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Mxial ko li chel.">
-<!ENTITY firstrun_bookmarks_title "Ko güil">
+<!ENTITY firstrun_bookmarks_title "Lô góš">
 <!ENTITY firstrun_bookmarks_message "Ko do lash lu">
-<!ENTITY firstrun_bookmarks_subtext "Güi kuan güil.">
+<!ENTITY firstrun_bookmarks_subtext "Güi lô góš.">
 <!ENTITY firstrun_data_title "Ko xhoy">
 <!ENTITY firstrun_data_message "Lút, nog gá">
 <!ENTITY firstrun_data_subtext2 "Tog mbol xha lí chel sní.">
@@ -43,7 +43,7 @@
      They are automatically converted to all caps by the Android platform. -->
 
 <!ENTITY  bookmarks_title "Ndó~làz=ná">
-<!ENTITY  history_title "Ree koo güil">
+<!ENTITY  history_title "Lô góš">
 
 <!ENTITY  switch_to_tab "Mxhé kue">
 <!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
@@ -382,15 +382,15 @@ size. -->
 
 <!ENTITY pref_use_master_password "Lí che dizh gósh">
 <!ENTITY pref_sync2 "-taɁ lélù lèɁn">
-<!ENTITY pref_sync_summary2 "Lí Sync lent loo, ndó~làz=ná, pa dúl ner ko güil">
+<!ENTITY pref_sync_summary2 "Lí Sync lent loo, ndó~làz=ná, pa dúl ner lô góš">
 <!ENTITY pref_search_suggestions "Ló kun de kun ná">
-<!ENTITY pref_history_search_suggestions "Blo ko güil">
+<!ENTITY pref_history_search_suggestions "KwàɁn lô góš">
 <!ENTITY pref_import_options "Ko li che xha tak yul">
-<!ENTITY pref_import_android_summary "De nú ko güil ner ko do lash lu">
+<!ENTITY pref_import_android_summary "De nú lô góš ner ko do lash lu">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Mb-šàlɁ lô">
-<!ENTITY pref_private_data_history2 "Kuan koo güil">
+<!ENTITY pref_private_data_history2 "KwàɁn lô góš">
 <!ENTITY pref_private_data_searchHistory "KwàɁn ko güil">
 <!ENTITY pref_private_data_formdata2 "Ko died ko güil">
 <!ENTITY pref_private_data_cookies2 "Cookies ner mtete">
@@ -496,8 +496,8 @@ size. -->
 <!ENTITY media_pause "Bleet ah">
 <!ENTITY media_stop "Ngót~tòɁ=b">
 
-<!ENTITY contextmenu_open_new_tab "Mb-šàlɁ loo kub">
-<!ENTITY contextmenu_open_private_tab "Xal loo kub lu ta güi">
+<!ENTITY contextmenu_open_new_tab "Mb-šàlɁ lô kúb">
+<!ENTITY contextmenu_open_private_tab "Mb-šàlɁ lô kúb">
 <!ENTITY contextmenu_remove "Kib">
 <!ENTITY contextmenu_add_to_launcher "Tob kue loo mtete">
 <!ENTITY contextmenu_share "Tă~làz">
@@ -535,7 +535,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Loy loo narú">
 <!ENTITY pref_scroll_title_bar_summary2 "Loo xhog yib ná &brandShortName; this dál láa">
 
-<!ENTITY pref_tab_queue_title3 "Loo debet">
+<!ENTITY pref_tab_queue_title3 "Lô de-bet">
 <!ENTITY pref_tab_queue_summary4 "Loo xhog dó lent &brandShortName;">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
