@@ -391,7 +391,7 @@ size. -->
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Mb-šàlɁ lô">
 <!ENTITY pref_private_data_history2 "KwàɁn lô góš">
-<!ENTITY pref_private_data_searchHistory "KwàɁn ko güil">
+<!ENTITY pref_private_data_searchHistory "KwàɁn lô góš">
 <!ENTITY pref_private_data_formdata2 "Ko died ko güil">
 <!ENTITY pref_private_data_cookies2 "Cookies ner mtete">
 <!ENTITY pref_private_data_passwords2 "Ló xhog cho lel">
@@ -585,13 +585,13 @@ size. -->
      with the page title defined in aboutHome.dtd -->
 
 <!ENTITY home_title "Lis &brandShortName;">
-<!ENTITY home_history_title "Ko güil">
+<!ENTITY home_history_title "Lô góš">
 <!ENTITY home_synced_devices_smartfolder "Yib Sync">
 <!ENTITY home_synced_devices_number "&formatD; yib">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 yib">
-<!ENTITY home_history_back_to2 "Bìrè ko reta Güil">
-<!ENTITY home_clear_history_button "Tób bí ko güil">
+<!ENTITY home_history_back_to2 "Bìrè lô góš">
+<!ENTITY home_clear_history_button "Tób bí lô góš">
 <!ENTITY home_clear_history_confirm "¿Lash lu te dont lú ko güil?">
 <!ENTITY home_bookmarks_empty "Ko dó lash lu rú tree.">
 <!ENTITY home_closed_tabs_title2 "Wì ko tòɁw lú penta">
@@ -694,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY suggestion_for_engine "KwàɁn &formatS1; sa &formatS2;">
 
-<!ENTITY searchable_description "Ndó~làz=ná ner koo güil">
+<!ENTITY searchable_description "Ndó~làz=ná ner lô góš">
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Kó kúb ná &brandShortName;">
@@ -791,7 +791,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_addons_installation_description "Tob ko kub lent Firefox. Tak na ké xín kue.">
 <!ENTITY restrictable_feature_private_browsing "Lú ta nie">
 <!ENTITY restrictable_feature_private_browsing_description "Do lá güil ko xo lent Internet no na goxog tá kuan güil.">
-<!ENTITY restrictable_feature_clear_history "Tob bí ko güil">
+<!ENTITY restrictable_feature_clear_history "Tob bí lô góš">
 <!ENTITY restrictable_feature_clear_history_description "Do lá güil ko xo lent Internet no tak tedont lún pa güal ner güil.">
 <!ENTITY restrictable_feature_advanced_settings "Thus kue plo">
 <!ENTITY restrictable_feature_advanced_settings_description "Let kue xó ko güil, loo ner ko kub. Güi yent cho tak xíey.">
@@ -849,7 +849,7 @@ and allows hiding a URL/page from highlights or topsites. The page remains in hi
 is simply hidden from the Activity Stream panel. -->
 
 <!ENTITY activity_stream_dismiss "Bla=ay">
-<!ENTITY activity_stream_delete_history "Tòmbî ko güin">
+<!ENTITY activity_stream_delete_history "Tòmbî lô góš">
 
 <!ENTITY activity_stream_welcome_title "Bésta died lú lent xní">
 <!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\u0027ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">

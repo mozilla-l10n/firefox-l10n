@@ -18,7 +18,7 @@
 <!-- Configure Engines -->
 
 <!ENTITY sync.configure.engines.title.passwords2 "Xha lel">
-<!ENTITY sync.configure.engines.title.history "Koo güil">
+<!ENTITY sync.configure.engines.title.history "Lô góš">
 <!ENTITY sync.configure.engines.title.tabs "Loo yib">
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
@@ -67,7 +67,7 @@
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 "&syncBrand.shortName.label; na de lín syncing . Gásh “Auto-sync data” lent Thus Kue Android &gt; Plo dizh lí chel.">
 <!ENTITY fxaccount_status_needs_finish_migrating "Gua tree xá gua lél lent Firefox.">
 <!ENTITY fxaccount_status_bookmarks "Ndó~làz=ná">
-<!ENTITY fxaccount_status_history "Koo güil">
+<!ENTITY fxaccount_status_history "Lô góš">
 <!ENTITY fxaccount_status_passwords2 "Xha lel">
 <!ENTITY fxaccount_status_tabs "Mb-šàlɁ loo">
 <!ENTITY fxaccount_status_legal "Lab kue" >

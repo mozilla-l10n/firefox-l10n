@@ -14,12 +14,12 @@
 <!ENTITY privatebrowsingpage.title.normal1 "Güis pa dul">
 
 <!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; tog loo k tak de ké xís lú.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Bés lash na kuan güil re ko blal na té dont ná.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Bés lash na lô góš re ko blal na té dont ná.">
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
      of the term. -->
 
-<!ENTITY privatebrowsingpage.description.normal2 "Lent loo ko lut ta nie na lo xog ta no kuan guil. Re ko do lash lu na te dont ta nó.">
+<!ENTITY privatebrowsingpage.description.normal2 "Lent loo ko lut ta nie na lo xog ta no lô góš. Re ko do lash lu na te dont ta nó.">
 
 <!ENTITY privatebrowsingpage.link.private "¿Lo bé plo?">
 <!ENTITY privatebrowsingpage.link.normal "Mb-šàlɁ thíb loo kub">
