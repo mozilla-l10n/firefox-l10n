@@ -65,6 +65,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Večprocesna okna">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Ključ Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Ključ lokacijskih storitev Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Varni način">
 
@@ -111,8 +113,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopiraj neobdelane podatke v odložišče">
 
 <!ENTITY aboutSupport.sandboxTitle "Peskovnik">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Zavrnjeni sistemski klici">
+<!ENTITY aboutSupport.sandboxSyscallIndex "Št. ">
+<!ENTITY aboutSupport.sandboxSyscallAge "Pred nekaj sekundami">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Vrsta procesa">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistemski klic">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumenti">
 
 <!ENTITY aboutSupport.safeModeTitle "Poskusite varni način">
