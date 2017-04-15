@@ -28,8 +28,8 @@
 <!ENTITY retentionDeleteMsg.accesskey "m">
 <!ENTITY retentionKeepAll.label "Não eliminar mensagens">
 <!ENTITY retentionKeepAll.accesskey "a">
-<!ENTITY retentionKeepRecent.label "Eliminar todas menos as mais recentes">
-<!ENTITY retentionKeepRecent.accesskey "l">
+<!ENTITY retentionKeepRecent.label "Apagar todas menos as mais recentes">
+<!ENTITY retentionKeepRecent.accesskey "n">
 <!ENTITY retentionApplyToFlagged.label "Manter sempre mensagens com estrela">
 <!ENTITY retentionApplyToFlagged.accesskey "e">
 

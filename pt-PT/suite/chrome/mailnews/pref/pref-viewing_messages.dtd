@@ -43,5 +43,5 @@
 <!ENTITY disableContent.accesskey         "B">
 <!ENTITY showCondensedAddresses.label     "Mostrar apenas os nomes para pessoas do meu livro de endereços">
 <!ENTITY showCondensedAddresses.accesskey "o">
-<!ENTITY closeMsgWindowOnDelete.label     "Fechar janela de mensagem ao eliminar a mensagem">
+<!ENTITY closeMsgWindowOnDelete.label     "Fechar janela de mensagem ao apagar a mensagem">
 <!ENTITY closeMsgWindowOnDelete.accesskey "l">
