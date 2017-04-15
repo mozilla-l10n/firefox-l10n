@@ -18,6 +18,7 @@
 
 <!ENTITY  generalTab            "ਆਮ">
 <!ENTITY  generalTab.accesskey  "G">
+<!ENTITY  generalTitle          "Title:">
 <!ENTITY  generalURL            "ਐਡਰੈੱਸ:">
 <!ENTITY  generalType           "ਕਿਸਮ:">
 <!ENTITY  generalMode           "ਰੈਂਡਰ ਮੋਡ:">

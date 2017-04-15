@@ -6,6 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "ਬੁੱਕਮਾਰਕ">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "Open Tabs">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ਅਤੀਤ">
 <!ENTITY engine.history.accesskey   "r">
@@ -19,8 +20,12 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ">
 <!ENTITY changeSyncDeviceName.label "…ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਬਦਲੋ">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ਰੱਦ ਕਰੋ">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "ਸੰਭਾਲੋ">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
+
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ">
@@ -44,17 +49,25 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "ਤੁਸੀਂ ਸਾਇਨ ਇਨ ਨਹੀਂ ਹੋ।">
 <!ENTITY signIn.label                "ਸਾਇਨ ਇਨ">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ">
 <!ENTITY verifiedManage.label        "ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
+<!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect.label            "…ਡਿਸ-ਕੁਨੈਕਟ">
+<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ਈਮੇਲ ਜਾਂਚ">
+<!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ਇਹ ਈਮੇਲ ਭੁੱਲ ਜਾਓ">
+<!ENTITY forget.accesskey            "F">
+
 
 <!ENTITY signedOut.caption            "ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
 <!ENTITY signedOut.description        "ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ਨਾਲ ਕਨੈਕਟ ਕਰੋ">
 <!ENTITY signedOut.accountBox.create  "ਖਾਤਾ ਬਣਾਓ">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "ਸਾਈਨ ਇਨ">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.engines.label       "ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨਾਲ ਸਿੰਕ ਕਰੋ">
 

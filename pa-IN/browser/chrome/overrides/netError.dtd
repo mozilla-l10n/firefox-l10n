@@ -49,6 +49,12 @@
 <p>&brandShortName; ਕੁਝ ਕਾਰਨਾਂ ਕਰਕੇ ਇਹ ਪੇਜ਼ ਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦਾ ਹੈ।</p>
 ">
 
+<!ENTITY captivePortal.title "Log in to network">
+<!ENTITY captivePortal.longDesc2 "
+<p>You must log in to this network before you can access the Internet.</p>
+">
+
+<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
 
 
 <!ENTITY malformedURI.title "ਇਹ ਐਡਰੈੱਸ ਠੀਕ ਨਹੀਂ ਹੈ ਜੀ।">
@@ -179,6 +185,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; did not connect to <span id='wrongSystemTime_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTime_systemDate'/>, when it should be <span id='wrongSystemTime_actualDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; did not connect to <span id='wrongSystemTimeWithoutReference_URL'/> because your computer’s clock appears to show the wrong time and this is preventing a secure connection.</p> <p>Your computer is set to <span id='wrongSystemTimeWithoutReference_systemDate'/>. To fix this problem, change your date and time settings to match the correct time.</p>">
 
 <!ENTITY certerror.pagetitle1  "ਅਸੁਰੱਖਿਅਤ ਕਨੈਕਸ਼ਨ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "ਇਹ ਸਾਈਟ HTTP

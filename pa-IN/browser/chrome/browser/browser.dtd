@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "ਸਭ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY recentBookmarks.label "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤੇ">
 <!ENTITY otherBookmarksCmd.label "ਹੋਰ ਬੁੱਕਮਾਰਕ">
+<!ENTITY mobileBookmarksCmd.label "Mobile Bookmarks">
 <!ENTITY bookmarksToolbarChevron.tooltip "ਹੋਰ ਬੁੱਕਮਾਰਕਾਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY showRecentlyBookmarked.label     "ਤਾਜ਼ਾ ਬੁੱਕਮਾਰਕ ਕੀਤਿਆਂ ਨੂੰ ਵੇਖੋ">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "ਬੁੱਕਮਾਰਕ">
 <!ENTITY bookmarksMenuButton.other.label "ਹੋਰ ਬੁੱਕਮਾਰਕ">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobile Bookmarks">
 <!ENTITY viewBookmarksSidebar2.label        "ਬੁੱਕਮਾਰਕ ਬਾਹੀ ਵੇਖੋ">
 <!ENTITY viewBookmarksToolbar.label         "ਬੁੱਕਮਾਰਕ ਟੂਲਬਾਰ ਵੇਖੋ">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "ਕੋਈ ਖੁੱਲ੍ਹੀਆਂ ਟੈਬਾਂ ਨਹੀਂ">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Show More">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Show more tabs from this device">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Show All">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Show all tabs from this device">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਵੇਖਣ ਲਈ ਟੈਬਾਂ ਨੂੰ ਸਿੰਕ ਕਰਨ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
@@ -392,6 +402,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਦਿਉ">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Extension:">
 <!ENTITY urlbar.switchToTab.label     "ਟੈਬ ਤੇ ਜਾਓ:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "ਕੀ ਤੁਸੀਂ ਸੁਝਾਆਵਾਂ ਨਾਲ ਆਪਣੇ ਖੋਜ ਤਜਰਬੇ ਨੂੰ ਸੁਧਾਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?">
@@ -769,6 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "ਕਾਪੀ ਕਰੋ">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Open All in Tabs">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 <!ENTITY syncBrand.shortName.label    "ਸਿੰਕ">
 
