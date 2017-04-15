@@ -78,10 +78,10 @@
 <!ENTITY  securityView.privacy.history                  "Este site foi visitado anteriormente?">
 <!ENTITY  securityView.privacy.cookies                  "Este site armazena dados (cookies) no meu computador?">
 <!ENTITY  securityView.privacy.viewCookies              "Ver cookies">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "x">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "Há senhas memorizadas deste site?">
 <!ENTITY  securityView.privacy.viewPasswords            "Ver senhas salvas">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "b">
+<!ENTITY  securityView.privacy.viewPasswords.accessKey  "s">
 
 <!ENTITY  securityView.technical.header                 "Detalhes técnicos">
 
