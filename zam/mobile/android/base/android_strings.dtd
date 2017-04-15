@@ -472,11 +472,11 @@ size. -->
 <!ENTITY desktop_mode "Níab loo mtete">
 <!ENTITY page "Loo">
 <!ENTITY tools "Koo lii chel">
-<!ENTITY new_tab "Loo kub">
-<!ENTITY new_private_tab "Loo lut ta níe">
+<!ENTITY new_tab "Mb-šàlɁ lô">
+<!ENTITY new_private_tab "Mb-šàlɁ lô kúb">
 <!ENTITY close_all_tabs "TòɁw ré tá">
-<!ENTITY close_private_tabs "TòɁw loo lut ta nie">
-<!ENTITY tabs_normal "Loo">
+<!ENTITY close_private_tabs "TòɁw lô">
+<!ENTITY tabs_normal "Lô">
 <!ENTITY tabs_private "Yent cho güi">
 <!ENTITY set_image_fail "Gadt toob moon">
 <!ENTITY set_image_path_fail "Gadt ko xhog moon">
