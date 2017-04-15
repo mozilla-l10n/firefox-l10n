@@ -2,15 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab ਤਾਜ਼ਾ ਵਰਤਣ ਦੀ ਲੜੀ ਮੁਤਾਬਕ ਟੈਬਾਂ ਵਿੱਚ ਲਗਾਤਾਰ ਦਿਖਾਉਂਦਾ ਹੈ">
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab cycles through tabs in recently used order">
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
-<!ENTITY newWindowsAsTabs.label       "ਨਵੀਆਂ ਵਿੰਡੋ ਨੂੰ ਨਵੀ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
-<!ENTITY newWindowsAsTabs.accesskey   "t">
+<!ENTITY newWindowsAsTabs.label       "Open new windows in a new tab instead">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Warn you when closing multiple tabs">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "Warn you when opening multiple tabs might slow down &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
+<!ENTITY switchLinksToNewTabs.label        "When you open a link in a new tab, switch to it immediately">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
-<!ENTITY showTabsInTaskbar.label          "ਵਿੰਡੋਜ਼ ਟਾਸਕਬਾਰ 'ਚ ਟੈਬ ਝਲਕ ਵੇਖੋ">
+<!ENTITY showTabsInTaskbar.label          "Show tab previews in the Windows taskbar">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
-<!ENTITY tabsGroup.label          "ਟੈਬਾਂ">
+<!ENTITY tabsGroup.label          "Tabs">

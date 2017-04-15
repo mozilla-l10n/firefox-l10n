@@ -18,6 +18,7 @@
 <!ENTITY  paneContent.title       "ਸਮੱਗਰੀ">
 <!ENTITY  paneApplications.title  "ਐਪਲੀਕੇਸ਼ਨ">
 <!ENTITY  panePrivacy.title       "ਪਰਦੇਦਾਰੀ">
+<!ENTITY  paneContainers.title    "Container Tabs">
 <!ENTITY  paneSecurity.title      "ਸੁਰੱਖਿਆ">
 <!ENTITY  paneAdvanced.title      "ਤਕਨੀਕੀ">
 

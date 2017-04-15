@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "ਹੋਰ ਜਾਣੋ">
 <!ENTITY  browserContainersEnabled.label        "ਕਨਟੇਨਰ ਟੈਬਾਂ ਨੂੰ ਸਮਰੱਥ ਕਰੋ">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "ਸੈਟਿੰਗਾਂ…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
