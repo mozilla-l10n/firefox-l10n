@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY appManager.title     "Iinkcukacha ze-aplikheshini">
-<!ENTITY appManager.style     "ububanzi: 30em; ukuphakama ubuncinane: 20em;">
+<!ENTITY appManager.style     "width: 30em; min-height: 20em;">
 <!ENTITY remove.label         "Susa">
 <!ENTITY remove.accesskey     "S">
