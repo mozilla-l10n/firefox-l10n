@@ -52,8 +52,8 @@
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "Dos visitados">
 
-<!ENTITY  keepUntil.label               "Guardar até:">
-<!ENTITY  keepUntil.accesskey           "G">
+<!ENTITY  keepUntil.label               "Manter até:">
+<!ENTITY  keepUntil.accesskey           "M">
 
 <!ENTITY  expire.label                  "expirarem">
 <!ENTITY  close.label                   "eu fechar o &brandShortName;">
