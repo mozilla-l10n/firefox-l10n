@@ -65,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ਬਹੁ-ਕਾਰਜ ਵਿੰਡੋਜ਼">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
+
 <!ENTITY aboutSupport.appBasicsSafeMode "ਸੁਰੱਖਿਅਤ ਮੋਡ">
 
 <!ENTITY aboutSupport.showDir.label "ਡਾਇਰੈਕਟਰੀ ਖੋਲ੍ਹੋ">
@@ -110,6 +113,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ਰਾਅ ਡਾਟਾ ਕਲਿੱਪਬੋਰਡ ਵਿੱਚ ਕਾਪੀ ਕਰੋ">
 
 <!ENTITY aboutSupport.sandboxTitle "ਸੈਂਡਬਾਕਸ">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Seconds Ago">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Process Type">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "ਸੁਰੱਖਿਅਤ ਮੋਡ ਵਰਤ ਕੇ ਦੇਖੋ">
 <!ENTITY aboutSupport.restartInSafeMode.label "…ਐਡ-ਆਨ ਬੰਦ ਕਰਕੇ ਮੁੜ-ਚਾਲੂ ਕਰੋ">
