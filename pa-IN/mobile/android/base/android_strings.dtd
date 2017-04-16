@@ -855,3 +855,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ਅਤੀਤੀ ਚੋਂ ਹਟਾਓ">
 
 <!ENTITY activity_stream_welcome_title "ਤੁਹਾਡੇ ਸੁਰਖੀਆਂ ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\'ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
