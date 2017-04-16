@@ -24,3 +24,4 @@
 <!ENTITY backgroundImage.label "Obraz tła:">
 <!ENTITY backgroundImage.accessKey "b">
 <!ENTITY backgroundImage.tooltip "Użyj pliku obrazu jako tło dla Twojej strony">
+<!ENTITY backgroundImage.shortenedDataURI "Skrócony adres Data URI (skopiowanie umieści pełny adres w schowku)">
