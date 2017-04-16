@@ -64,6 +64,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
+<!ENTITY debuggerUI.ignoreCaughtExceptions           'Παράβλεψη "πιασμένων" εκφράσεων'>
 <!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "Π">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
@@ -73,6 +74,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
+<!ENTITY debuggerUI.showVarsFilter           "Εμφάνιση κουτιού φιλτραρίσματος μεταβλητών">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
@@ -136,11 +138,13 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
+<!ENTITY debuggerUI.focusVariables           "Εστίαση στο δέντρο μεταβλητών">
 <!ENTITY debuggerUI.focusVariables.key       "Μ">
 <!ENTITY debuggerUI.focusVariables.accesskey "Μ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
+<!ENTITY debuggerUI.condBreakPanelTitle "Αυτό το σημείο διακοπής θα σταματήσει την εκτέλεση μόνο αν η ακόλουθη έκφραση είναι αληθής">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
