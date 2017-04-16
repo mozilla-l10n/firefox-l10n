@@ -34,6 +34,7 @@
 <!ENTITY ShrinkToFit.label    "ਫਿੱਟ ਕਰਨ ਲਈ ਸੁੰਘੜੋ ">
 <!ENTITY customPrompt.title   "ਕਸਟਮ ਸਕੇਲ...">
 <!ENTITY simplifyPage.label   "ਸਫ਼ੇ ਨੂੰ ਆਮ ਬਣਾਓ">
+<!ENTITY simplifyPage.accesskey "i">
 <!ENTITY simplifyPage.enabled.tooltip  "ਸੌਖੀ ਤਰ੍ਹਾਂ ਪੜ੍ਹਨ ਲਈ ਢਾਂਚੇ ਨੂੰ ਬਦਲੋ">
 <!ENTITY simplifyPage.disabled.tooltip "ਇਸ ਸਫ਼ੇ ਨੂੰ ਆਪਣੇ-ਆਪ ਸੌਖਾ ਨਹੀਂ ਬਣਾਇਆ ਜਾ ਸਕਦਾ ਹੈ">
 

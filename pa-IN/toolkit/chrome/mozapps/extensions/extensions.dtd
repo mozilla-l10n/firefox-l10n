@@ -20,6 +20,10 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "ਸਭ ਐਡ-ਆਨ ਲਈ ਟੂਲ">
 
+<!ENTITY getThemes.description                "Looking to personalize your browser?">
+<!ENTITY getThemes.learnMore                  "Choose from thousands of themes.">
+
+
 <!ENTITY cmd.back.tooltip                     "ਇੱਕ ਸਫ਼ਾ ਪਿੱਛੇ ਜਾਓ">
 <!ENTITY cmd.forward.tooltip                  "ਇੱਕ ਸਫ਼ਾ ਅੱਗੇ ਜਾਓ">
 
@@ -243,3 +247,6 @@
 <!ENTITY disabledUnsigned.devInfo.start "ਡਿਵੈਲਪਰ, ਜੋ ਆਪਣੀਆਂ ਐਡ-ਆਨ ਨੂੰ ਤਸਦੀਕ ਕਰਵਾਉਣਾ ਚਾਹੁੰਦੇ ਹਨ, ਸਾਡੇ ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ਦਸਤੀ">
 <!ENTITY disabledUnsigned.devInfo.end " ਨੂੰ ਪੜ੍ਹਨਾ ਜਾਰੀ ਰੱਖ ਸਕਦੇ ਹਨ।">
+
+<!ENTITY pluginDeprecation.description "Missing something? Some plugins are no longer supported by &brandShortName;.">
+<!ENTITY pluginDeprecation.learnMore "Learn More.">
