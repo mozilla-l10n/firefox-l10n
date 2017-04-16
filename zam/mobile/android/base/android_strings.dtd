@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Besta died lu">
+<!ENTITY firstrun_panel_title_welcome "Padiux">
 
-<!ENTITY firstrun_urlbar_message "¡Brit lèɁn &brandShortName;">
+<!ENTITY firstrun_urlbar_message "¡Brít lèɁn &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Mxial ko li chel.">
 <!ENTITY firstrun_bookmarks_title "Lô góš">
 <!ENTITY firstrun_bookmarks_message "Ko do lash lu">
@@ -392,7 +392,7 @@ size. -->
 <!ENTITY pref_private_data_openTabs "Mb-šàlɁ lô">
 <!ENTITY pref_private_data_history2 "KwàɁn lô góš">
 <!ENTITY pref_private_data_searchHistory "KwàɁn lô góš">
-<!ENTITY pref_private_data_formdata2 "Ko died ko güil">
+<!ENTITY pref_private_data_formdata2 "Kó diéd lô góš">
 <!ENTITY pref_private_data_cookies2 "Cookies ner mtete">
 <!ENTITY pref_private_data_passwords2 "Ló xhog cho lel">
 <!ENTITY pref_private_data_cache "Caché">
@@ -675,9 +675,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY private_data_fail "Rol dizh gadt yiíb">
 
 <!ENTITY bookmarkhistory_button_import "De nuy">
-<!ENTITY bookmarkhistory_import_both "De nú ko do lsh lu ner ko güil lent Android">
+<!ENTITY bookmarkhistory_import_both "De nú kó ndó~làz=lú ner lô góš lent Android">
 <!ENTITY bookmarkhistory_import_bookmarks "De nú ko do lash lú lent Android">
-<!ENTITY bookmarkhistory_import_history "Debnú ko güil lent Android">
+<!ENTITY bookmarkhistory_import_history "Dé nú lô góš lent Android">
 <!ENTITY bookmarkhistory_import_wait "Bleet...">
 
 <!ENTITY suggestions_prompt3 "¿Lash lú tob kí ko de kwàɁn?">
