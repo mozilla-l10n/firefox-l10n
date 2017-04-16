@@ -46,7 +46,7 @@
 <!ENTITY signedOut.accountBox.create.accesskey "u">
 <!ENTITY signedOut.accountBox.signin "Accedi">
 <!ENTITY signedOut.accountBox.signin.accesskey "i">
-<!ENTITY signedIn.settings.label "Impostazioni per la sincronizzazione">
+<!ENTITY signedIn.settings.label "Impostazioni di sincronizzazione">
 <!ENTITY signedIn.settings.description "Scegli gli elementi da sincronizzare sui dispositivi con &brandShortName;.">
 <!ENTITY mobilePromo3.start "Scarica Firefox per ">
 <!ENTITY mobilePromo3.androidLink "Android">
