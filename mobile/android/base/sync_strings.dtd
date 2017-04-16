@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "Mai multe&ellipsis;">
 <!ENTITY fxaccount_remove_account "Deconectează-te&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "Te deconectezi de la Sincronizare?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "Datele de navigare vor rămâne pe acest dispozitv, însă nu se vor mai sincroniza cu contul tău.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Contul Firefox &formatS; deconectat.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Deconectează-te">
 
 <!ENTITY fxaccount_enable_debug_mode "Activează modul de depanare">
 <!-- Localization note: this is the name shown by the Android system
