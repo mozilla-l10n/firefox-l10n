@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Protezione antitracciamento">
-<!ENTITY trackingProtection.description "Il tracciamento si verifica quando le aziende raccolgono informazioni sui visitatori, definendo il loro profilo online allo scopo di visualizzare contenuti basati sulle abitudini di navigazione e i dati personali.">
-<!ENTITY trackingProtection.radioGroupLabel "Blocca la visualizzazione di contenuti da parte di aziende che tracciano i visitatori">
+<!ENTITY trackingProtection.description "Il tracciamento si verifica quando le aziende raccolgono informazioni sui visitatori, costruendo un vero e proprio profilo, allo scopo di visualizzare contenuti basati sulle loro abitudini di navigazione e sui loro dati personali.">
+<!ENTITY trackingProtection.radioGroupLabel "Blocca la visualizzazione di contenuti per le aziende note per tracciare i visitatori">
 <!ENTITY trackingProtectionAlways.label "Sempre">
 <!ENTITY trackingProtectionAlways.accesskey "p">
 <!ENTITY trackingProtectionPrivate.label "Solo in finestre anonime">

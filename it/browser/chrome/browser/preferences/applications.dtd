@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY applications.label "Applicazioni">
-<!ENTITY applications.description "Scegli come gestire in &brandShortName; i file scaricati da Internet o le applicazioni utilizzate durante la navigazione.">
+<!ENTITY applications.description "Scegli come gestire in &brandShortName; i file scaricati da Internet e le applicazioni da utilizzare durante la navigazione.">
 <!ENTITY typeColumn.label "Tipo di contenuto">
 <!ENTITY typeColumn.accesskey "T">
 <!ENTITY actionColumn2.label "Azione">
 <!ENTITY actionColumn2.accesskey "A">
 <!ENTITY focusSearch1.key "f">
 <!ENTITY focusSearch2.key "k">
-<!ENTITY filter2.emptytext "Cerca tipi di file o applicazioni">
+<!ENTITY filter2.emptytext "Cerca tipo di contenuto o applicazione">
