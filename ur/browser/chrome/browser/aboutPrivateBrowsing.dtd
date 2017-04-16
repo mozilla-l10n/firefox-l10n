@@ -8,7 +8,7 @@
 
 <!ENTITY privateBrowsing.title                           "نجی براوزنگ">
 <!ENTITY privateBrowsing.title.tracking                  "ٹریکنگ پروٹیکشن کے ساتھ نجی براؤزنگ">
-<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "جب آپ نجی ونڈوں میں براؤز کریں، Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "جب آپ نجی دریچوں میں براؤز کریں، Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "محفوظ نہیں کرسکتا">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "دورہ کردہ صفحہات">
