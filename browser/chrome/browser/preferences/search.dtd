@@ -21,7 +21,7 @@
 <!ENTITY engineKeywordColumn.label             "Ključna beseda">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Ponastavi privzete iskalnike">
-<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+<!ENTITY restoreDefaultSearchEngines.accesskey "P">
 
 <!ENTITY removeEngine.label                    "Odstrani">
 <!ENTITY removeEngine.accesskey                "r">

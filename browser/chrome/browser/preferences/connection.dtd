@@ -45,5 +45,5 @@
 <!ENTITY  shareproxy.label              "Uporabi istega posrednika za vse protokole">
 <!ENTITY  shareproxy.accesskey          "o">
 <!ENTITY  autologinproxy.label          "Brez overjanja, če je geslo shranjeno">
-<!ENTITY  autologinproxy.accesskey      "i">
+<!ENTITY  autologinproxy.accesskey      "e">
 <!ENTITY  autologinproxy.tooltip        "Ta možnost izvede tiho overjanje s posredniki, če imate shranjena gesla zanje. Če overjanje ne uspe, boste morali vnesti geslo.">
