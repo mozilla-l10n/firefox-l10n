@@ -32,8 +32,8 @@
 <!ENTITY Custom.label         "Boshqa">
 <!ENTITY ShrinkToFit.label    "Joylashguncha choʻzish">
 <!ENTITY customPrompt.title   "Boshqacha kattalashtirish">
-
-
+<!ENTITY simplifyPage.label   "Sahifani soddalashtirish">
+<!ENTITY simplifyPage.accesskey "S">
 <!ENTITY simplifyPage.enabled.tooltip  "Oson o‘qish uchun o‘zgartirilgan tartib">
 <!ENTITY simplifyPage.disabled.tooltip "Bu sahifani avtomatik ravishda soddalashtirib bo‘lmaydi">
 
