@@ -58,19 +58,19 @@
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY updateApplication.label "Aggiornamenti di &brandShortName;">
-<!ENTITY updateAuto1.label "Installa automaticamente aggiornamenti (consigliato: maggiore sicurezza)">
-<!ENTITY updateAuto1.accesskey "s">
-<!ENTITY updateCheckChoose.label "Controlla aggiornamenti ma permetti all’utente di scegliere se installarli">
-<!ENTITY updateCheckChoose.accesskey "C">
-<!ENTITY updateManual.label "Non cercare aggiornamenti (non consigliato: rischi per la sicurezza)">
-<!ENTITY updateManual.accesskey "N">
-<!ENTITY updateHistory.label "Mostra cronologia aggiornamenti">
-<!ENTITY updateHistory.accesskey "o">
+<!ENTITY updateApplication.description "Consenti a &brandShortName; di">
+<!ENTITY updateAuto2.label "Installare automaticamente gli aggiornamenti (consigliato per una maggiore sicurezza)">
+<!ENTITY updateAuto2.accesskey "s">
+<!ENTITY updateCheckChoose2.label "Controllare la presenza di aggiornamenti ma permettere all’utente di scegliere se installarli">
+<!ENTITY updateCheckChoose2.accesskey "C">
+<!ENTITY updateManual2.label "Non controllare la presenza di aggiornamenti (non consigliato)">
+<!ENTITY updateManual2.accesskey "N">
+<!ENTITY updateHistory2.label "Mostra cronologia aggiornamenti…">
+<!ENTITY updateHistory2.accesskey "o">
 <!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
 <!ENTITY useService.accesskey "U">
-<!ENTITY autoUpdateOthers.label "Aggiorna automaticamente">
-<!ENTITY enableSearchUpdate.label "Motori di ricerca">
-<!ENTITY enableSearchUpdate.accesskey "M">
+<!ENTITY enableSearchUpdate2.label "Aggiorna automaticamente i motori di ricerca">
+<!ENTITY enableSearchUpdate2.accesskey "M">
 <!ENTITY reports.label "Rapporti">
 <!ENTITY offlineStorageNotify.label "Avvisa quando un sito web richiede di salvare dati per l’utilizzo non in linea">
 <!ENTITY offlineStorageNotify.accesskey "A">
