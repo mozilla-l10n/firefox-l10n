@@ -8,11 +8,14 @@
 <!ENTITY newWindowsAsTabs.label       "Új ablakok megnyitása új lapokon">
 <!ENTITY newWindowsAsTabs.accesskey   "a">
 
+<!ENTITY warnOnCloseMultipleTabs.label      "Figyelmeztetés több lap bezárása előtt">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "t">
 
+<!ENTITY warnOnOpenManyTabs.label       "Figyelmeztetés, hogy több lap megnyitása lelassíthatja a &brandShortName; programot">
+<!ENTITY warnOnOpenManyTabs.accesskey   "F">
 
-
-
-
+<!ENTITY switchLinksToNewTabs.label        "Hivatkozás új lapon való megnyitásakor átváltás rá azonnal">
+<!ENTITY switchLinksToNewTabs.accesskey    "H">
 
 <!ENTITY showTabsInTaskbar.label          "Lapok előnézetének megjelenítése a Windows tálcán">
 <!ENTITY showTabsInTaskbar.accesskey      "L">
