@@ -6,17 +6,18 @@
 <!ENTITY navigatorCmd.label "Browser">
 <!ENTITY navigatorCmd.accesskey "B">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label					"Composer">
-<!ENTITY editorCmd.accesskey				"c">
-<!ENTITY editorCmd.commandkey				"4">
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY errorConsoleCmd.label                                  "Error Console">
-<!ENTITY errorConsoleCmd.accesskey				"C">
-<!ENTITY errorConsoleCmd.commandkey				"j">
+<!ENTITY errorConsoleCmd.label "Error Console">
+<!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
-<!ENTITY taskNavigator.tooltip  "Browser">
-<!ENTITY taskComposer.tooltip  "Composer">
+<!ENTITY taskNavigator.tooltip "Browser">
+<!ENTITY taskComposer.tooltip "Composer">
 
 <!ENTITY webDevelopment.label "Web Development">
 <!ENTITY webDevelopment.accesskey "W">
