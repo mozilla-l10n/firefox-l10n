@@ -10,7 +10,7 @@
 <!ENTITY prefWinMinSize.styleGNOME "width: 54em; min-height: 42em;">
 <!ENTITY paneSearchResults.title "Результаты поиска">
 <!ENTITY paneGeneral.title "Основные">
-<!ENTITY paneDownloadLinks.title "Загрузки и Ссылки">
+<!ENTITY paneFilesApplications.title "Файлы и Приложения">
 <!ENTITY panePrivacySecurity.title "Приватность и Защита">
 <!ENTITY paneContainers.title "Вкладки в контейнере">
 <!ENTITY paneUpdates.title "Обновления">

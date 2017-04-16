@@ -33,8 +33,8 @@
 <!ENTITY profilePicture.tooltip "Изменить фотографию в профиле">
 <!ENTITY verifiedManage.label "Управление аккаунтом">
 <!ENTITY verifiedManage.accesskey "в">
-<!ENTITY disconnect.label "Отсоединить…">
-<!ENTITY disconnect.accesskey "н">
+<!ENTITY disconnect2.label "Отсоединить">
+<!ENTITY disconnect2.accesskey "н">
 <!ENTITY verify.label "Подтвердить эл. почту">
 <!ENTITY verify.accesskey "э">
 <!ENTITY forget.label "Забыть об этой эл. почте">
@@ -46,7 +46,8 @@
 <!ENTITY signedOut.accountBox.create.accesskey "з">
 <!ENTITY signedOut.accountBox.signin "Войти">
 <!ENTITY signedOut.accountBox.signin.accesskey "и">
-<!ENTITY signedIn.engines.label "Синхронизировать со всеми устройствами">
+<!ENTITY signedIn.settings.label "Параметры синхронизации">
+<!ENTITY signedIn.settings.description "Выберите, что нужно синхронизировать на ваших устройствах при помощи &brandShortName;.">
 <!ENTITY mobilePromo3.start "Загрузите Firefox для ">
 <!ENTITY mobilePromo3.androidLink "Android">
 <!ENTITY mobilePromo3.iOSBefore " или ">

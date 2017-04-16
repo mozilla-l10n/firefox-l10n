@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- Window title -->
 <!ENTITY windowTitle.label "Цвета и фон страницы">
 <!ENTITY pageColors.label "Цвета страницы">
 <!ENTITY defaultColorsRadio.label "Цвета пользователя по умолчанию (не указывать цвета)">
@@ -11,7 +10,6 @@
 <!ENTITY customColorsRadio.label "Использовать цвета:">
 <!ENTITY customColorsRadio.accessKey "И">
 <!ENTITY customColorsRadio.tooltip "Эти настройки цвета перекрывают настройки в браузере пользователя">
-
 <!ENTITY normalText.label "Обычный текст">
 <!ENTITY normalText.accessKey "О">
 <!ENTITY linkText.label "Ссылка">
@@ -26,3 +24,4 @@
 <!ENTITY backgroundImage.label "Фоновое изображение:">
 <!ENTITY backgroundImage.accessKey "н">
 <!ENTITY backgroundImage.tooltip "Использование изображения в качестве фона страницы">
+<!ENTITY backgroundImage.shortenedDataURI "Укороченный URI данных (копия поместит полный URI в буфер обмена)">
