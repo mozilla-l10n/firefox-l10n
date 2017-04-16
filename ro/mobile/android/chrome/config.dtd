@@ -7,7 +7,7 @@
 
 <!ENTITY newPref.namePlaceholder       "Nume">
 
-<!ENTITY newPref.valueBoolean          "Adevărat/fals">
+<!ENTITY newPref.valueBoolean          "Boolean">
 <!ENTITY newPref.valueString           "Text">
 <!ENTITY newPref.valueInteger          "Număr">
 
