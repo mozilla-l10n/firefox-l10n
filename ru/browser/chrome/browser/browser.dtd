@@ -154,6 +154,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Открыть панель запроса на сохранение пароля">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Управление запуском плагина">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Изменение того, можете ли вы получать уведомления с сайта">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Хранить данные в постоянном хранилище">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Управление доступом сайта к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Управление доступом сайта к вашему микрофону">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Управление доступом сайта к вашим окнам или экрану">
@@ -167,6 +168,7 @@
 <!ENTITY urlbar.geolocationBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к информации о местоположении.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к хранилищу данных.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Вы заблокировали уведомления с этого веб-сайта.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Вы заблокировали доступ этого веб-сайта к постоянному хранилищу.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Показать историю">
 <!ENTITY searchItem.title "Поиск">
 <!ENTITY homeButton.label "Домой">
@@ -639,7 +641,6 @@
 <!ENTITY emeLearnMoreContextMenu.accesskey "а">
 <!ENTITY updateAvailable.message "Обновитесь на последнюю версию &brandShorterName; для повышения скорости и приватности.">
 <!ENTITY updateAvailable.whatsnew.label "Посмотреть, что нового.">
-<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateAvailable.header.message "Доступна новая версия &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Загрузить обновление">
 <!ENTITY updateAvailable.acceptButton.accesskey "а">
@@ -648,7 +649,6 @@
 <!ENTITY updateAvailable.panelUI.label "Загрузите обновление &brandShorterName;">
 <!ENTITY updateManual.message "Загрузите новую версию &brandShorterName; и мы поможем вам её установить.">
 <!ENTITY updateManual.whatsnew.label "Посмотреть, что нового.">
-<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateManual.header.message "&brandShorterName; не может обновиться до последней версии.">
 <!ENTITY updateManual.acceptButton.label "Загрузить &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "а">

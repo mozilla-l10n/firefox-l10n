@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY startup.label "Запуск">
-<!ENTITY startupPage.label "При запуске &brandShortName;:">
-<!ENTITY startupPage.accesskey "и">
+<!ENTITY startupPage2.label "При запуске &brandShortName;">
+<!ENTITY startupPage2.accesskey "и">
 <!ENTITY startupUserHomePage.label "Показать домашнюю страницу">
 <!ENTITY startupBlankPage.label "Показать пустую страницу">
 <!ENTITY startupPrevSession.label "Показать окна и вкладки, открытые в прошлый раз">
-<!ENTITY homepage.label "Домашняя страница:">
-<!ENTITY homepage.accesskey "м">
+<!ENTITY homepage2.label "Домашняя страница">
+<!ENTITY homepage2.accesskey "м">
 <!ENTITY useCurrentPage.label "Использовать текущую страницу">
 <!ENTITY useCurrentPage.accesskey "п">
 <!ENTITY useMultiple.label "Использовать текущие страницы">

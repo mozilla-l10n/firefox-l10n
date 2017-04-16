@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Защита от отслеживания">
+<!ENTITY trackingProtection.description "Отслеживание — это когда компании собирают о вас информацию, чтобы создать ваш профиль и отображать содержимое на основе посещаемых вами сайтов и личных данных.">
+<!ENTITY trackingProtection.radioGroupLabel "Блокировать показ содержимого от известных отслеживающих компаний">
 <!ENTITY trackingProtectionAlways.label "Всегда">
 <!ENTITY trackingProtectionAlways.accesskey "е">
 <!ENTITY trackingProtectionPrivate.label "Только в приватных окнах">
@@ -23,7 +25,7 @@
 <!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "История">
 <!ENTITY locationBar.label "Панель адреса">
-<!ENTITY locbar.suggest.label "При использовании панели адреса предлагать ссылки:">
+<!ENTITY locbar.suggest2.label "При использовании панели адреса предлагать ссылки">
 <!ENTITY locbar.history.label "из журнала">
 <!ENTITY locbar.history.accesskey "ж">
 <!ENTITY locbar.bookmarks.label "из закладок">
@@ -32,8 +34,7 @@
 <!ENTITY locbar.openpage.accesskey "к">
 <!ENTITY locbar.searches.label "из подходящих поисков в поисковой системе по умолчанию">
 <!ENTITY locbar.searches.accesskey "х">
-<!ENTITY suggestionSettings.label "Изменить настройки для предложений поисковых систем…">
-<!ENTITY suggestionSettings.accesskey "м">
+<!ENTITY suggestionSettings2.label "Изменить настройки для предложений поисковых систем">
 <!ENTITY acceptCookies.label "Принимать куки с сайтов">
 <!ENTITY acceptCookies.accesskey "у">
 <!ENTITY acceptThirdParty.pre.label "Принимать куки со сторонних сайтов:">
@@ -49,8 +50,8 @@
 <!ENTITY cookieExceptions.accesskey "ю">
 <!ENTITY showCookies.label "Показать куки…">
 <!ENTITY showCookies.accesskey "з">
-<!ENTITY historyHeader.pre.label "&brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "e">
+<!ENTITY historyHeader2.pre.label "&brandShortName;">
+<!ENTITY historyHeader2.pre.accesskey "e">
 <!ENTITY historyHeader.remember.label "будет запоминать историю">
 <!ENTITY historyHeader.dontremember.label "не будет запоминать историю">
 <!ENTITY historyHeader.custom.label "будет использовать ваши настройки хранения истории">
