@@ -11,9 +11,9 @@
 <!ENTITY firstrun_bookmarks_subtext "Arama yaparken yer imleriniz ve geçmişiniz de aransın.">
 <!ENTITY firstrun_data_title "Veri">
 <!ENTITY firstrun_data_message "Daha az veri, daha çok tasarruf">
-<!ENTITY firstrun_data_subtext2 "Ziyaret ettiğiniz her sitede daha az veri harcamak için resimleri kapatın.">
+<!ENTITY firstrun_data_subtext2 "Girdiğiniz her sitede daha az veri harcamak için resimleri kapatabilirsiniz.">
 <!ENTITY firstrun_sync_title "Sync">
-<!ENTITY firstrun_sync_message "&brandShortName; he zaman yanınızda">
+<!ENTITY firstrun_sync_message "&brandShortName; her zaman yanınızda">
 <!ENTITY firstrun_sync_subtext "Sekmelerinizi, parolalarınızı ve daha fazlasını eşitleyerek her yere taşıyın.">
 <!ENTITY firstrun_signin_message "Bağlanın, kullanmaya başlayın">
 <!ENTITY firstrun_signin_button "Sync’e giriş yapın">
