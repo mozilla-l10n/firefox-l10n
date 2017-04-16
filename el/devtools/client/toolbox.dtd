@@ -26,10 +26,13 @@
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
 <!ENTITY options.showUserAgentStyles.label "Εμφάνιση στυλ προγράμματος περιήγησης">
+<!ENTITY options.showUserAgentStyles.tooltip "Η ενεργοποίηση αυτού θα εμφανίσει τα προεπιλεγμένα στυλ που φορτώνονται από το πρόγραμμα περιήγησης.">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
+<!ENTITY options.collapseAttrs.label "Κόψιμο ιδιοτήτων DOM">
+<!ENTITY options.collapseAttrs.tooltip "Κόψιμο μεγάλων ιδιοτήτων στην επιθεώρηση">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
@@ -108,6 +111,7 @@
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tool buttons. -->
+<!ENTITY options.selectEnabledToolboxButtons.label     "Διαθέσιμα κουμπιά εργαλειοθήκης">
 
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
@@ -128,6 +132,7 @@
 
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
+<!ENTITY options.timestampMessages.label      "Ενεργοποίηση χρονοσημάνσεων">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -163,6 +168,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "Αναπαραγωγή ήχου κλείστρου κάμερας">
+<!ENTITY options.screenshot.audio.tooltip    "Ενεργοποιεί τον ήχο κάμερας κατά τη λήψη στιγμιότυπου">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
