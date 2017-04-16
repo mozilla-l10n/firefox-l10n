@@ -6,7 +6,12 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
+<!ENTITY  overrideDefaultPageColors.label        "Override the colours specified by the page with your selections above:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
+<!ENTITY  overrideDefaultPageColors.always.label "Always">
+<!ENTITY  overrideDefaultPageColors.auto.label   "Only with High Contrast themes">
+<!ENTITY  overrideDefaultPageColors.never.label  "Never">
 
 <!ENTITY  color                           "Text and Background">
 <!ENTITY  textColor.label                 "Text:">
