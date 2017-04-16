@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Protezione antitracciamento">
+<!ENTITY trackingProtection.description "Il tracciamento si verifica quando le aziende raccolgono informazioni sui visitatori, definendo il loro profilo online allo scopo di visualizzare contenuti basati sulle abitudini di navigazione e i dati personali.">
+<!ENTITY trackingProtection.radioGroupLabel "Blocca la visualizzazione di contenuti da parte di aziende che tracciano i visitatori">
 <!ENTITY trackingProtectionAlways.label "Sempre">
 <!ENTITY trackingProtectionAlways.accesskey "p">
 <!ENTITY trackingProtectionPrivate.label "Solo in finestre anonime">
@@ -23,7 +25,7 @@
 <!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "Cronologia">
 <!ENTITY locationBar.label "Barra degli indirizzi">
-<!ENTITY locbar.suggest.label "Nella barra degli indirizzi visualizza suggerimenti da:">
+<!ENTITY locbar.suggest2.label "Nella barra degli indirizzi visualizza suggerimenti da">
 <!ENTITY locbar.history.label "cronologia">
 <!ENTITY locbar.history.accesskey "n">
 <!ENTITY locbar.bookmarks.label "segnalibri">
@@ -32,8 +34,7 @@
 <!ENTITY locbar.openpage.accesskey "d">
 <!ENTITY locbar.searches.label "ricerche correlate dal motore di ricerca predefinito">
 <!ENTITY locbar.searches.accesskey "h">
-<!ENTITY suggestionSettings.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca…">
-<!ENTITY suggestionSettings.accesskey "g">
+<!ENTITY suggestionSettings2.label "Modifica le impostazioni relative ai suggerimenti dei motori di ricerca">
 <!ENTITY acceptCookies.label "Accetta i cookie dai siti">
 <!ENTITY acceptCookies.accesskey "k">
 <!ENTITY acceptThirdParty.pre.label "Accetta i cookie di terze parti:">
@@ -49,8 +50,8 @@
 <!ENTITY cookieExceptions.accesskey "z">
 <!ENTITY showCookies.label "Mostra i cookie…">
 <!ENTITY showCookies.accesskey "r">
-<!ENTITY historyHeader.pre.label "Impostazioni cronologia:">
-<!ENTITY historyHeader.pre.accesskey "m">
+<!ENTITY historyHeader2.pre.label "Impostazioni cronologia">
+<!ENTITY historyHeader2.pre.accesskey "m">
 <!ENTITY historyHeader.remember.label "salva la cronologia">
 <!ENTITY historyHeader.dontremember.label "non salvare la cronologia">
 <!ENTITY historyHeader.custom.label "utilizza impostazioni personalizzate">
