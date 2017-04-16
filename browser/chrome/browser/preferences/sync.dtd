@@ -33,8 +33,8 @@
 <!ENTITY profilePicture.tooltip "Cambia l’immagine del profilo">
 <!ENTITY verifiedManage.label "Gestisci account">
 <!ENTITY verifiedManage.accesskey "G">
-<!ENTITY disconnect.label "Disconnetti…">
-<!ENTITY disconnect.accesskey "t">
+<!ENTITY disconnect2.label "Disconnetti">
+<!ENTITY disconnect2.accesskey "t">
 <!ENTITY verify.label "Verifica email">
 <!ENTITY verify.accesskey "V">
 <!ENTITY forget.label "Dimentica questa email">
@@ -46,7 +46,8 @@
 <!ENTITY signedOut.accountBox.create.accesskey "u">
 <!ENTITY signedOut.accountBox.signin "Accedi">
 <!ENTITY signedOut.accountBox.signin.accesskey "i">
-<!ENTITY signedIn.engines.label "Sincronizza attraverso i dispositivi">
+<!ENTITY signedIn.settings.label "Impostazioni per la sincronizzazione">
+<!ENTITY signedIn.settings.description "Scegli gli elementi da sincronizzare sui dispositivi con &brandShortName;.">
 <!ENTITY mobilePromo3.start "Scarica Firefox per ">
 <!ENTITY mobilePromo3.androidLink "Android">
 <!ENTITY mobilePromo3.iOSBefore " o ">
