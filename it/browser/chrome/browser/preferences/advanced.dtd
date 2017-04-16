@@ -82,7 +82,7 @@
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm "Rimozione dati non in linea">
 <!ENTITY certificateTab.label "Certificati">
-<!ENTITY certPersonal.description "Quando un sito web richiede il certificato personale:">
+<!ENTITY certPersonal2.description "Quando un sito web richiede il certificato personale">
 <!ENTITY selectCerts.auto "Selezionane uno automaticamente">
 <!ENTITY selectCerts.auto.accesskey "S">
 <!ENTITY selectCerts.ask "Chiedi ogni volta">
