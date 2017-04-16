@@ -52,7 +52,9 @@
 ">
 
 <!ENTITY captivePortal.title "Võrku sisenemine">
+<!ENTITY captivePortal.longDesc2 "<p>Internetti pääsemiseks pead sellesse võrku sisse logima.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Ava sisselogimisleht">
 
 <!ENTITY malformedURI.title "Aadress pole korrektne">
 <!ENTITY malformedURI.longDesc "
