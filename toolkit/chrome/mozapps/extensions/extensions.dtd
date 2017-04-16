@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Зареждане…">
-<!ENTITY listEmpty.installed.label            "Нямате инсталирани добавки от този вид">
+<!ENTITY listEmpty.installed.label            "Няма инсталирани добавки от този вид">
 <!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
 <!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
 <!ENTITY listEmpty.findUpdates.label          "Проверка за обновявания">
