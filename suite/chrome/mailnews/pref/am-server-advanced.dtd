@@ -11,6 +11,9 @@
 <!ENTITY dualUseFolders.accesskey "c">
 <!ENTITY maximumConnectionsNumber.label "Numero massimo di connessioni col server da mantenere in cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+<!ENTITY forceSelect.label "Invia il comando IMAP select al server quando si scaricano nuovi messaggi">
+<!ENTITY forceSelect.tooltip "Alcuni server richiedono un comando IMAP select aggiuntivo per far sì che la posta sia ricevuta correttamente o che venga marcata come letta dopo che è stata letta su un altro dispositivo. Selezionare questa opzione comporterà un piccolo incremento del traffico di rete.">
+<!ENTITY forceSelect.accesskey "P">
 <!ENTITY namespaceDesc.label "Queste preferenze specificano i namespace nel server IMAP">
 <!ENTITY personalNamespace.label "Namespace personale:">
 <!ENTITY personalNamespace.accesskey "r">

@@ -24,3 +24,4 @@
 <!ENTITY backgroundImage.label "Immagine di sfondo:">
 <!ENTITY backgroundImage.accessKey "I">
 <!ENTITY backgroundImage.tooltip "Immagine di sfondo della pagina">
+<!ENTITY backgroundImage.shortenedDataURI "URI dati abbreviata (il comando copia scriverà l'URI intera negli appunti)">

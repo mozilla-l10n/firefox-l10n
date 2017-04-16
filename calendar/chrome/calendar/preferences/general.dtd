@@ -29,6 +29,6 @@
 <!ENTITY pref.accessibility.label "Accessibilità">
 <!ENTITY pref.systemcolors.label "Ottimizza i colori per l'accessibilità">
 <!ENTITY pref.systemcolors.accesskey "O">
-<!ENTITY pref.eventsandtasks.label "Eventi e attività" >
-<!ENTITY pref.editInTab.label "Modifica eventi e attività in una scheda invece che in una finestra." >
+<!ENTITY pref.eventsandtasks.label "Eventi e attività">
+<!ENTITY pref.editInTab.label "Modifica eventi e attività in una scheda invece che in una finestra.">
 <!ENTITY pref.editInTab.accesskey "M">
