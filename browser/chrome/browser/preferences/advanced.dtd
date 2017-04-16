@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Always use the cursor keys to navigate within pages">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Search for text when you start typing">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Warn you when web sites try to redirect or reload the page">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -21,6 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey          "v">
+<!ENTITY checkUserSpelling.label         "Check your spelling as you type">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Data Choices">
 
@@ -52,6 +58,12 @@
 <!ENTITY offlineStorage2.label           "Offline Web Content and User Data">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Site Data">
+<!ENTITY clearSiteData.label             "Clear All Data">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Settings…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Learn more">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -71,8 +83,11 @@
 
 <!ENTITY updateTab.label                 "Update">
 
+<!ENTITY updateApplication.label         "&brandShortName; updates">
 <!ENTITY updateAuto1.label               "Automatically install updates (recommended: improved security)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.label         "Check for updates, but let you choose whether to install them">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -82,9 +97,14 @@
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Automatically update">
 <!ENTITY enableSearchUpdate.label        "Search Engines">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
+<!ENTITY offlineStorageNotify.label               "Tell you when a web site asks to store data for offline use">
+<!ENTITY offlineStorageNotify.accesskey           "T">
+<!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "The following web sites are allowed to store data for offline use:">
 <!ENTITY offlineAppsList.height          "7em">
@@ -93,6 +113,12 @@
 <!ENTITY offlineAppRemove.confirm        "Remove offline data">
 
 <!ENTITY certificateTab.label            "Certificates">
+<!ENTITY certPersonal.label              "Requests">
+<!ENTITY certPersonal.description        "When a server requests your personal certificate:">
+<!ENTITY selectCerts.auto                "Select one automatically">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Ask you every time">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "View Certificates">
