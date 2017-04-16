@@ -43,6 +43,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.autoPrettyPrint): This is the label for the
   -  checkbox that toggles auto pretty print. -->
+<!ENTITY debuggerUI.autoPrettyPrint     "Αυτόματη ωραιοποίηση ελαχιστοποιημένων πηγών">
 <!ENTITY debuggerUI.autoPrettyPrint.accesskey "Ω">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.toggleBreakpoints): This is the tooltip for the
@@ -93,6 +94,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
+<!ENTITY debuggerUI.autoBlackBox           "Αυτόματη προσθήκη ελαχιστοποιημένων πηγών σε μαύρο κουτί">
 <!ENTITY debuggerUI.autoBlackBox.accesskey "Κ">
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
