@@ -46,5 +46,5 @@
 <!ENTITY string.accesskey "S">
 <!ENTITY integer.label "Număr">
 <!ENTITY integer.accesskey "I">
-<!ENTITY boolean.label "Adevărat/fals">
+<!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">
