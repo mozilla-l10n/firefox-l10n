@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "d">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
-
+<!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -83,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Frissítés">
 
+<!ENTITY updateApplication.label         "&brandShortName; frissítések">
 <!ENTITY updateAuto1.label               "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateCheckChoose.label         "Frissítések keresése, de a telepítés kézzel történik">
+<!ENTITY updateCheckChoose.accesskey     "k">
 <!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -96,10 +97,12 @@
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
 
+<!ENTITY autoUpdateOthers.label          "Automatikus frissítés">
 <!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
 <!ENTITY enableSearchUpdate.accesskey    "e">
 
-
+<!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
+<!ENTITY offlineStorageNotify.accesskey           "w">
 <!ENTITY offlineStorageNotifyExceptions.label     "Kivételek…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "K">
 
@@ -111,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Tanúsítványok">
 <!ENTITY certPersonal.label              "Kérések">
-
+<!ENTITY certPersonal.description        "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
 <!ENTITY selectCerts.auto                "Automatikus választás">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "A">
+<!ENTITY selectCerts.ask                 "Megerősítés minden alkalommal">
+<!ENTITY selectCerts.ask.accesskey       "M">
 <!ENTITY enableOCSP.label                "Az OCSP válaszoló kiszolgálók lekérdezése a tanúsítványok érvényességének megerősítéséhez">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Tanúsítványkezelő">
