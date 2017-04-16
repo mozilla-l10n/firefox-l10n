@@ -16,5 +16,5 @@
 <!ENTITY     cancel.label                  "Fortryd">
 <!ENTITY     cancel.accesskey              "F">
 <!ENTITY     removingDialog.title          "Fjerner websteds-data">
-<!ENTITY     removingDialog.description    "Ved at fjerne websteds-data, fjerner   du også cookies. Dette kan logge dig ud fra websteder og fjerne offline-websteds-indhold. Er du sikker på, at du vil foretage ændringerne?">
+<!ENTITY     removingDialog.description    "Ved at fjerne websteds-data, fjerner du også cookies. Dette kan logge dig ud fra websteder og fjerne offline-websteds-indhold. Er du sikker på, at du vil foretage ændringerne?">
 <!ENTITY     siteTree.label                "Følgende cookies vil blive fjernet:">
