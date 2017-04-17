@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          "您的：">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "下载项">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "书签">
-<!ENTITY aboutPrivateBrowsing.note.before                "隐私浏览模式 ">
+<!ENTITY aboutPrivateBrowsing.note.before                "隐私浏览模式">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "无法让您">
 <!ENTITY aboutPrivateBrowsing.note.after                 "在互联网上匿名。您的雇主或者网络服务提供商仍然可以知道您访问了什么页面。">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "详细了解">
