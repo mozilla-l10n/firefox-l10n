@@ -901,7 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "Mettez à jour votre version de &brandShorterName; pour bénéficier des dernières améliorations en matière de sécurité et de vie privée.">
 <!ENTITY updateAvailable.whatsnew.label "Découvrez les nouveautés.">
-<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateAvailable.header.message "Une nouvelle mise à jour de &brandShorterName; est disponible.">
 <!ENTITY updateAvailable.acceptButton.label "Télécharger la mise à jour">
 <!ENTITY updateAvailable.acceptButton.accesskey "T">
@@ -911,7 +910,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "Téléchargez à nouveau &brandShorterName; et nous pourrons vous guider pour l’installer.">
 <!ENTITY updateManual.whatsnew.label "Découvrez les nouveautés.">
-<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateManual.header.message "&brandShorterName; ne peut pas être mis à jour vers la version la plus récente.">
 <!ENTITY updateManual.acceptButton.label "Télécharger &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "T">

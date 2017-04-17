@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Démarrage">
 
-<!ENTITY startupPage.label         "Au démarrage de &brandShortName; :">
-<!ENTITY startupPage.accesskey     "d">
+<!ENTITY startupPage2.label        "Au démarrage de &brandShortName;">
+<!ENTITY startupPage2.accesskey    "d">
 <!ENTITY startupUserHomePage.label "Afficher votre page d’accueil">
 <!ENTITY startupBlankPage.label    "Afficher une page vide">
 <!ENTITY startupPrevSession.label  "Afficher les derniers onglets et fenêtres utilisés">
 
-<!ENTITY homepage.label            "Page d’accueil :">
-<!ENTITY homepage.accesskey        "a">
+<!ENTITY homepage2.label           "Page d’accueil">
+<!ENTITY homepage2.accesskey       "a">
 <!ENTITY useCurrentPage.label      "Page courante">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Pages courantes">

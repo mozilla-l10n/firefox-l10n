@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Polices et couleurs">
 
-<!ENTITY  defaultFont.label           "Police par défaut :">
-<!ENTITY  defaultFont.accesskey       "P">
-<!ENTITY  defaultSize.label           "Taille :">
-<!ENTITY  defaultSize.accesskey       "T">
+<!ENTITY  defaultFont2.label          "Police par défaut">
+<!ENTITY  defaultFont2.accesskey      "P">
+<!ENTITY  defaultSize2.label          "Taille">
+<!ENTITY  defaultSize2.accesskey      "T">
 
 <!ENTITY  advancedFonts.label         "Avancé…">
 <!ENTITY  advancedFonts.accesskey     "v">

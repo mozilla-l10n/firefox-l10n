@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protection contre le pistage">
+<!ENTITY  trackingProtection.radioGroupLabel   "Empêcher les entreprises connues pour pratiquer le pistage d’afficher du contenu">
 <!ENTITY  trackingProtectionAlways.label       "Toujours">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Uniquement dans les fenêtres privées">
@@ -30,7 +31,7 @@
 
 <!ENTITY  locationBar.label             "Barre d’adresse">
 
-<!ENTITY  locbar.suggest.label          "Lors de l’utilisation de la barre d’adresse, suggérer :">
+<!ENTITY  locbar.suggest2.label         "Lors de l’utilisation de la barre d’adresse, suggérer">
 <!ENTITY  locbar.history.label          "Historique">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marque-pages">
@@ -40,8 +41,7 @@
 <!ENTITY  locbar.searches.label         "Recherches similaires du moteur de recherche par défaut">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Modifier les préférences pour les suggestions de recherche…">
-<!ENTITY  suggestionSettings.accesskey  "f">
+<!ENTITY  suggestionSettings2.label     "Modifier les préférences pour les suggestions de recherche">
 
 <!ENTITY  acceptCookies.label           "Accepter les cookies">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,11 +64,11 @@
 <!ENTITY  showCookies.label             "Afficher les cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Règles de conservation :">
-<!ENTITY  historyHeader.pre.accesskey      "R">
-<!ENTITY  historyHeader.remember.label     "conserver l’historique">
-<!ENTITY  historyHeader.dontremember.label "ne jamais conserver l’historique">
-<!ENTITY  historyHeader.custom.label       "utiliser les paramètres personnalisés pour l’historique">
+<!ENTITY  historyHeader2.pre.label         "Règles de conservation">
+<!ENTITY  historyHeader2.pre.accesskey     "R">
+<!ENTITY  historyHeader.remember.label     "Conserver l’historique">
+<!ENTITY  historyHeader.dontremember.label "Ne jamais conserver l’historique">
+<!ENTITY  historyHeader.custom.label       "Utiliser les paramètres personnalisés pour l’historique">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; conservera les données de navigation, les téléchargements, les formulaires et l’historique de recherche, et les cookies des sites visités.">
