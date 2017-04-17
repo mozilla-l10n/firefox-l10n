@@ -86,8 +86,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "வரைகலை">
 
-
-
+<!ENTITY aboutSupport.placeDatabaseTitle "இடத் தரவுத்தளம்">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "ஒருமைப்பாடு">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "ஒருமைப்பாட்டை சரிபார்">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
 <!ENTITY aboutSupport.jsIncrementalGC "பெருகும் GC">

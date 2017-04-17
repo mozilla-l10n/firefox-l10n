@@ -96,6 +96,7 @@
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "தானாக புதுப்பி">
 <!ENTITY enableSearchUpdate.label        "தேடு பொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
