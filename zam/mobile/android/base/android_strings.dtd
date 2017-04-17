@@ -5,7 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "Padiux">
 
 <!ENTITY firstrun_urlbar_message "¡Brít lèɁn &brandShortName;">
-<!ENTITY firstrun_urlbar_subtext "Mxial ko li chel.">
+<!ENTITY firstrun_urlbar_subtext "KwàɁn kó lì ché.">
 <!ENTITY firstrun_bookmarks_title "Lô góš">
 <!ENTITY firstrun_bookmarks_message "Ko do lash lu">
 <!ENTITY firstrun_bookmarks_subtext "Güi lô góš.">
@@ -24,7 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Yes dó">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Bla kí Loo queue">
-<!ENTITY firstrun_tabqueue_subtext_off "Loo xog dó lent &brandShortName; xé xhal ló apps.">
+<!ENTITY firstrun_tabqueue_subtext_off "mb-lòɁ sóg dó lent &brandShortName; xé xhal ló apps.">
 
 <!ENTITY firstrun_tabqueue_message_on "Kuan mxhác!">
 <!ENTITY firstrun_tabqueue_subtext_on "Tak tuy lú kue this yaál &settings; lá ner &pref_category_general;.">
@@ -87,7 +87,7 @@
 <!ENTITY bookmark_folder_items "&formatD; re loo">
 <!ENTITY bookmark_folder_one_item "1 kue">
 
-<!ENTITY reader_saved_offline "Loo xhog this yent sní">
+<!ENTITY reader_saved_offline "mb-lòɁ sóg this yent sní">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -238,7 +238,7 @@
 <!ENTITY pref_header_accessibility "Xha mud yul">
 <!ENTITY pref_header_notifications "Koo kub">
 <!ENTITY pref_header_advanced "Thus kuey">
-<!ENTITY pref_header_help "Li chen dif yaal">
+<!ENTITY pref_header_help "Lì ché">
 <!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookies">
@@ -295,7 +295,7 @@
 <!ENTITY tab_queue_toast_message3 "Mblo xhog na &brandShortName;">
 <!ENTITY tab_queue_toast_action "Mb-šàlɁ nál">
 <!ENTITY tab_queue_prompt_title "¿Mb-šàlɁ plo loo kub?">
-<!ENTITY tab_queue_prompt_text4 "Loo xog gá nerta &brandShortName;.">
+<!ENTITY tab_queue_prompt_text4 "mb-lòɁ sóg gá nerta &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Tak xél kue lent thus kue">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
@@ -394,7 +394,7 @@ size. -->
 <!ENTITY pref_private_data_searchHistory "KwàɁn lô góš">
 <!ENTITY pref_private_data_formdata2 "Kó diéd lô góš">
 <!ENTITY pref_private_data_cookies2 "Cookies ner mtete">
-<!ENTITY pref_private_data_passwords2 "Ló xhog cho lel">
+<!ENTITY pref_private_data_passwords2 "mb-lòɁ sóg cho lel">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Yent Internet">
 <!ENTITY pref_private_data_siteSettings2 "Thus kue">
@@ -444,7 +444,7 @@ size. -->
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Kó na lí ché">
 <!ENTITY datareporting_wifi_title2 "Pa dú &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "¡Tá dif yal xá &vendorShortName; güi lo isluo! tá pa dul loo Wi.Fi ner yib dedizh xá tak thus kue nö pa dul.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "¡Lì ché loo &vendorShortName; güi lo isluo! tá pa dul loo Wi.Fi ner yib dedizh xá tak thus kue nö pa dul.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -454,7 +454,7 @@ size. -->
 <!ENTITY pref_update_autodownload_always "Bliy">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 
-<!ENTITY help_menu "Thá thib yaal">
+<!ENTITY help_menu "Lì ché">
 
 <!ENTITY quit "Brú">
 
@@ -466,7 +466,7 @@ size. -->
 <!ENTITY share "tă~làz">
 <!ENTITY share_title "Tă~làz leɁn">
 <!ENTITY share_image_failed "Gadt lin kue">
-<!ENTITY save_as_pdf "Lo xhog loo PDF">
+<!ENTITY save_as_pdf "mb-lòɁ sóg lenɁ PDF">
 <!ENTITY print "Keéy lo yehes">
 <!ENTITY find_in_page "Kuan yets loo">
 <!ENTITY desktop_mode "Níab loo mtete">
@@ -479,7 +479,7 @@ size. -->
 <!ENTITY tabs_normal "Lô">
 <!ENTITY tabs_private "Yent cho güi">
 <!ENTITY set_image_fail "Gadt toob moon">
-<!ENTITY set_image_path_fail "Gadt ko xhog moon">
+<!ENTITY set_image_path_fail "Gadt ko sóg mún">
 <!ENTITY set_image_chooser_title "Toob mon re">
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -536,7 +536,7 @@ size. -->
 <!ENTITY pref_scroll_title_bar_summary2 "Loo xhog yib ná &brandShortName; this dál láa">
 
 <!ENTITY pref_tab_queue_title3 "Lô de-bet">
-<!ENTITY pref_tab_queue_summary4 "Loo xhog dó lent &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "mb-lòɁ sóg dó lenɁ &brandShortName;">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 

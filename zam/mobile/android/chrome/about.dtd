@@ -5,7 +5,7 @@
 <!ENTITY aboutPage.warningVersion               "&brandShortName; nara the thus kue noy.">
 <!ENTITY aboutPage.telemetryStart               " Loo niet xa mud de ke xhín yib kub  ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " this lash besta &brandShortName; mké xhin.">
+<!ENTITY aboutPage.telemetryEnd                 " this lash lo besta níe &brandShortName; mké xhin.">
 <!ENTITY aboutPage.checkForUpdates.link         "Dee kuan koo kub »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Güi ko kub...">
 <!ENTITY aboutPage.checkForUpdates.none         "Yent ko kub">
