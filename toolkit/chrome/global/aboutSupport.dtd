@@ -48,16 +48,20 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "செயல்படுத்தப்பட்ட கூடுதல் இணைப்புகள்">
 <!ENTITY aboutSupport.appBasicsBuildConfig "உருவாக்க கட்டமைப்பு">
 <!ENTITY aboutSupport.appBasicsUserAgent "பயனர் முகவர்">
-
-<!ENTITY aboutSupport.appBasicsMemoryUse "நினைவகப் பயன்பாடு">
-
+<!ENTITY aboutSupport.appBasicsOS "இயங்கு தளம்">
+<!ENTITY aboutSupport.appBasicsMemoryUse "நினைவகப் பயனளவு">
+<!ENTITY aboutSupport.appBasicsPerformance "செயல்திறன்">
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!ENTITY aboutSupport.appBasicsServiceWorkers "பதிவு செய்யப்பட்ட சேவை பணியாளர்கள்">
+
+<!ENTITY aboutSupport.appBasicsProfiles "விவரத்தொகுப்பு">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பலசெயல்முறை சாளரம்">
 
 
 
+<!ENTITY aboutSupport.appBasicsSafeMode "பாதுகாப்பான முறைமை">
 
 <!ENTITY aboutSupport.showDir.label "கோப்பகத்தைத் திற">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
@@ -66,6 +70,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "தேடியில் காட்டு">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "அடைவினைத் திற">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "மாற்றியமைக்கப்பட்ட முக்கியமான முன்னுரிமைகள்">
 <!ENTITY aboutSupport.modifiedPrefsName "பெயர்">
