@@ -39,6 +39,8 @@
 <!ENTITY warning.updatesecurity.enable.label       "செயல்படுத்து">
 <!ENTITY warning.updatesecurity.enable.tooltip     "கூடுதல் இணைப்பு மேம்படுத்தல் பாதுகாப்பு சரிபார்த்தலை செயல்படுத்து">
 <!-- categories / views -->
+
+<!ENTITY view.search.label                    "தேடுக">
 <!ENTITY view.discover.label                  "கூடுதல் இணைப்புகளை பெறு">
 <!ENTITY view.recentUpdates.label             "சமீபத்திய புதுப்பித்தல்கள்">
 <!ENTITY view.availableUpdates.label          "இருக்கும் புதுப்பித்தல்கள்">
