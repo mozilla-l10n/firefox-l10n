@@ -152,18 +152,18 @@
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-<!ENTITY overlay_share_bookmark_btn_label "Отметка">
+<!ENTITY overlay_share_bookmark_btn_label "Отмятане">
 <!ENTITY overlay_share_bookmark_btn_label_already "Съществуваща отметка">
-<!ENTITY overlay_share_send_other "Изпратете до друго устройство">
+<!ENTITY overlay_share_send_other "Изпращане към устройства">
 
 <!ENTITY overlay_share_open_browser_btn_label "Отваряне с &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "Изпратете до друго устройство">
+<!ENTITY overlay_share_send_tab_btn_label "Изпращане към устройство">
 <!ENTITY overlay_share_no_url "Няма препратка в този сайт">
-<!ENTITY overlay_share_select_device "Избор на устройство">
+<!ENTITY overlay_share_select_device "Избиране на устройство">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
