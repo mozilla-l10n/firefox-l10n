@@ -53,11 +53,11 @@
 ">
 
 <!ENTITY captivePortal.title "Login til netværk">
-<!ENTITY captivePortal.longDesc "
-<p>Dette netværk kræver muligvis, at du skal logge ind for at bruge internettet.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>Dette netværk kræver, at du skal logge ind for at bruge internettet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Åbn login-siden">
+<!ENTITY openPortalLoginPage.label2 "Åbn netværkets login-side">
 
 <!ENTITY malformedURI.title "Adressen er ikke gyldig">
 <!ENTITY malformedURI.longDesc "
@@ -190,14 +190,6 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Avanceret info: SSL_ERROR_UNSUPPORTED_VERSION">
-
-<!ENTITY weakCryptoUsed.title "Usikker forbindelse">
-<!-- LOCALIZATION NOTE (weakCryptoUsed.longDesc2) - Do not translate
-     "SSL_ERROR_NO_CYPHER_OVERLAP". -->
-<!ENTITY weakCryptoUsed.longDesc2 "Avanceret info: SSL_ERROR_NO_CYPHER_OVERLAP">
-<!ENTITY weakCryptoAdvanced.title "Avanceret">
-<!ENTITY weakCryptoAdvanced.longDesc "<span class='hostname'></span> bruger forældet sikkerheds-teknologi, der er sårbar overfor angreb. En angriber ville nemt kunne afsløre information, som du troede var sikker.">
-<!ENTITY weakCryptoAdvanced.override "USIKKERT: Forsøg at indlæse <span class='hostname'></span>, selvom den bruger forældet sikkerheds-teknologi">
 
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />

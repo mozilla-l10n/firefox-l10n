@@ -7,5 +7,14 @@
 <!ENTITY     hostCol.label                 "Websted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Anvendt plads">
-<!ENTITY     search.label                  "Søg:">
-<!ENTITY     search.accesskey              "S">
+<!ENTITY     searchPlaceHolder             "Søg">
+<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "Fjern det valgte">
+<!ENTITY     removeSelected.accesskey      "f">
+<!ENTITY     save.label                    "Gem ændringer">
+<!ENTITY     save.accesskey                "e">
+<!ENTITY     cancel.label                  "Fortryd">
+<!ENTITY     cancel.accesskey              "F">
+<!ENTITY     removingDialog.title          "Fjerner websteds-data">
+<!ENTITY     removingDialog.description    "Ved at fjerne websteds-data, fjerner du også cookies. Dette kan logge dig ud fra websteder og fjerne offline-websteds-indhold. Er du sikker på, at du vil foretage ændringerne?">
+<!ENTITY     siteTree.label                "Følgende cookies vil blive fjernet:">

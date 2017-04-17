@@ -11,9 +11,6 @@
   The label associated with this accesskey can be found in 
   preferences.properties as removeSelectedCookies.
 -->
-<!ENTITY     button.removeSelectedCookies.accesskey "F">
-<!ENTITY     button.removeAllCookies.label "Fjern alle">
-<!ENTITY     button.removeAllCookies.accesskey "a">
 
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Indhold:">

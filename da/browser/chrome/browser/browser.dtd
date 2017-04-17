@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Vis alle bogmærker">
 <!ENTITY recentBookmarks.label "Seneste bogmærker">
 <!ENTITY otherBookmarksCmd.label "Andre bogmærker">
+<!ENTITY mobileBookmarksCmd.label "Mobil-bogmærker">
 <!ENTITY bookmarksToolbarChevron.tooltip "Vis flere bogmærker">
 <!ENTITY showRecentlyBookmarked.label     "Vis de seneste bogmærker">
 <!ENTITY showRecentlyBookmarked.accesskey "d">
@@ -245,6 +246,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Bogmærker">
 <!ENTITY bookmarksMenuButton.other.label "Andre bogmærker">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobil-bogmærker">
 <!ENTITY viewBookmarksSidebar2.label         "Vis bogmærker i sidepanel">
 <!ENTITY viewBookmarksToolbar.label         "Vis bogmærkelinjen">
 
@@ -356,6 +358,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Ingen åbne faneblade">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Vis flere">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Vis flere faneblade fra denne enhed">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Vis alle">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Vis alle faneblade fra denne enhed">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Aktivér synkronisering af faneblade for at få vist faneblade, som er åbne på dine andre enheder.">

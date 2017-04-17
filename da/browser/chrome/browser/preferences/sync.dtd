@@ -2,27 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!-- The page shown when not logged in... -->
-<!ENTITY setupButton.label          "Indstil &syncBrand.fullName.label;">
-<!ENTITY setupButton.accesskey      "I">
-<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; lader dig få adgang til dine bogmærker, adgangskoder, åbne faneblade og din historik fra alle dine enheder.">
-
 <!-- The page shown when logged in... -->
 
-<!-- Login error feedback -->
-<!ENTITY updatePass.label             "Opdater">
-<!ENTITY resetPass.label              "Ryd">
-
-<!-- Manage Account -->
-<!ENTITY manageAccount.label          "Håndter konto">
-<!ENTITY manageAccount.accesskey      "H">
-<!ENTITY changePassword2.label        "Ændr adgangskode…">
-<!ENTITY myRecoveryKey.label          "Min gendannelsesnøgle">
-<!ENTITY resetSync2.label             "Nulstil Sync…">
-
-<!ENTITY pairDevice.label              "Tilføj enhed">
-
-<!ENTITY syncMy.label               "Synkroniser mine">
 <!ENTITY engine.bookmarks.label     "Bogmærker">
 <!ENTITY engine.bookmarks.accesskey "B">
 <!ENTITY engine.tabs.label2         "Åbne faneblade">
@@ -37,7 +18,6 @@
 <!ENTITY engine.addons.accesskey    "T">
 
 <!-- Device Settings -->
-<!ENTITY syncDeviceName.label       "Enhedsnavn:">
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
 <!ENTITY changeSyncDeviceName.label "Skift navn for enheden…">
 <!ENTITY changeSyncDeviceName.accesskey "k">
@@ -45,15 +25,10 @@
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Gem">
 <!ENTITY saveChangeSyncDeviceName.accesskey "G">
-<!ENTITY unlinkDevice.label           "Afkobl denne enhed">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">
-<!ENTITY prefs.ppLink.label         "Privatlivspolitik">
-
-<!-- Firefox Accounts stuff -->
 <!ENTITY fxaPrivacyNotice.link.label "Privatlivspolitik">
-<!ENTITY determiningAcctStatus.label     "Vurderer status for din konto…">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -83,12 +58,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY verify.accesskey            "B">
 <!ENTITY forget.label                "Glem denne mailadresse">
 <!ENTITY forget.accesskey            "G">
-
-<!ENTITY welcome.description "Få adgang til dine faneblade, bogmærker, adgangskoder m.m., uanset hvor du bruger &brandShortName;.">
-<!ENTITY welcome.signIn.label "Log ind">
-<!ENTITY welcome.createAccount.label "Opret konto">
-
-<!ENTITY welcome.useOldSync.label "Bruger du en ældre version af Sync?">
 
 <!ENTITY signedOut.caption            "Tag dit net med dig">
 <!ENTITY signedOut.description        "Synkroniser dine bogmærker, historik, faneblade, adgangskoder, tilføjelser og indstillinger mellem alle dine enheder.">
