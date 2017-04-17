@@ -84,22 +84,22 @@
 <!ENTITY updateTab.label                 "Mises à jour">
 
 <!ENTITY updateApplication.label         "Mises à jour de &brandShortName;">
-<!ENTITY updateAuto1.label               "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Vérifier l’existence de mises à jour, mais vous laisser décider de leur installation">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "Ne jamais vérifier les mises à jour (déconseillé, cela représente un risque de sécurité)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApplication.description   "Autoriser &brandShortName; à">
+<!ENTITY updateAuto2.label               "Installer automatiquement les mises à jour (recommandé pour votre sécurité)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Vérifier l’existence de mises à jour, mais vous laisser décider de leur installation">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Ne jamais vérifier les mises à jour (déconseillé)">
+<!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory.label             "Afficher l’historique des mises à jour">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory2.label            "Afficher l’historique des mises à jour…">
+<!ENTITY updateHistory2.accesskey        "h">
 
 <!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY autoUpdateOthers.label          "Mettre à jour automatiquement">
-<!ENTITY enableSearchUpdate.label        "les moteurs de recherche">
-<!ENTITY enableSearchUpdate.accesskey    "r">
+<!ENTITY enableSearchUpdate2.label       "Mettre à jour automatiquement les moteurs de recherche">
+<!ENTITY enableSearchUpdate2.accesskey   "r">
 
 <!ENTITY reports.label                   "Rapports">
 
@@ -115,11 +115,11 @@
 <!ENTITY offlineAppRemove.confirm        "Supprimer les données hors connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
-<!ENTITY certPersonal.description        "Lorsqu’un serveur demande votre certificat personnel :">
-<!ENTITY selectCerts.auto                "en sélectionner un automatiquement">
-<!ENTITY selectCerts.auto.accesskey      "e">
-<!ENTITY selectCerts.ask                 "vous demander à chaque fois">
-<!ENTITY selectCerts.ask.accesskey       "v">
+<!ENTITY certPersonal2.description       "Lorsqu’un serveur demande votre certificat personnel">
+<!ENTITY selectCerts.auto                "En sélectionner un automatiquement">
+<!ENTITY selectCerts.auto.accesskey      "E">
+<!ENTITY selectCerts.ask                 "Vous demander à chaque fois">
+<!ENTITY selectCerts.ask.accesskey       "V">
 <!ENTITY enableOCSP.label                "Interroger le répondeur OCSP pour confirmer la validité de vos certificats">
 <!ENTITY enableOCSP.accesskey            "I">
 <!ENTITY viewCerts.label                 "Afficher les certificats">

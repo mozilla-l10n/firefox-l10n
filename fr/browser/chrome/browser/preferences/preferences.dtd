@@ -15,7 +15,7 @@
 
 <!ENTITY  paneSearchResults.title       "Résultats de la recherche">
 <!ENTITY  paneGeneral.title             "Général">
-<!ENTITY  paneDownloadLinks.title       "Téléchargements et liens">
+<!ENTITY  paneFilesApplications.title   "Fichiers et applications">
 <!ENTITY  panePrivacySecurity.title     "Vie privée et sécurité">
 <!ENTITY  paneContainers.title          "Onglets contextuels">
 <!ENTITY  paneUpdates.title             "Mises à jour">
