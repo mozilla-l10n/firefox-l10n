@@ -115,8 +115,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Folyamattípus">
-
-
+<!ENTITY aboutSupport.sandboxSyscallNumber "Rendszerhívás">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumentumok">
 
 <!ENTITY aboutSupport.safeModeTitle "Biztonságos mód kipróbálása">
 <!ENTITY aboutSupport.restartInSafeMode.label "Újraindítás letiltott kiegészítőkkel…">
