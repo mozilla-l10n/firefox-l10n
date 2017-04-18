@@ -85,6 +85,8 @@
 
 <!ENTITY updateApplication.label         "Обновявания на &brandShortName;">
 
+<!ENTITY updateHistory2.label            "Хронология на обновяванията…">
+<!ENTITY updateHistory2.accesskey        "х">
 
 <!ENTITY useService.label                "Използване на услуга на заден план за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "у">
