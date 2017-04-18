@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Update">
 
-<!ENTITY updateAuto1.label               "Automatically install updates (recommended: improved security)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "Never check for updates (not recommended: security risk)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Show Update History">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Use a background service to install updates">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "Search Engines">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Remove offline data">
 
 <!ENTITY certificateTab.label            "Certificates">
-<!ENTITY certPersonal.label              "Requests">
 
 <!ENTITY selectCerts.auto                "Select one automatically">
 
