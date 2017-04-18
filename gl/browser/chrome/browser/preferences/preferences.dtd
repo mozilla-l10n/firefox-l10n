@@ -13,16 +13,9 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Xeral">
-<!ENTITY  paneTabs.title          "Lapelas">
-<!ENTITY  paneSearch.title        "Buscar">
-<!ENTITY  paneContent.title       "Contido">
-<!ENTITY  paneApplications.title  "Aplicativos">
-<!ENTITY  panePrivacy.title       "Privacidade">
-<!ENTITY  paneSecurity.title      "Seguranza">
-<!ENTITY  paneAdvanced.title      "Opcións avanzadas">
+<!ENTITY  paneGeneral.title             "Xeral">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Axuda">
+

@@ -180,10 +180,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Prema o botón dereito ou prema o rato mentres se move cara abaixo para amosar o historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Prema o rato mentres se move cara abaixo para amosar o historial">
 <!ENTITY reloadCmd.label              "Recargar">
-<!ENTITY reloadButton.tooltip         "Recargar a páxina actual">
 <!ENTITY stopCmd.label                "Deter">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Deter a carga desta páxina">
 <!ENTITY goEndCap.tooltip             "Ir ao enderezo da barra de localización">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta páxina">
@@ -194,10 +192,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-
 <!ENTITY searchItem.title             "Buscar">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Inicio">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
@@ -310,6 +307,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
@@ -339,6 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Buscar ou escribir o enderezo">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "Cambiar á lapela:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Desexa mellorar a súa experiencia de buscar con suxestións?">
@@ -669,6 +671,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -783,3 +790,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Obteña máis información sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
