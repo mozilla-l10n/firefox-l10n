@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Выкарыстоўваць ахову ад сачэння">
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
 <!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Толькі ў прыватных вокнах">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Адрасны радок">
 
-<!ENTITY  locbar.suggest.label          "Пры выкарыстанні адраснага радка, прапаноўваць:">
 <!ENTITY  locbar.history.label          "Гісторыю">
 <!ENTITY  locbar.history.accesskey      "Г">
 <!ENTITY  locbar.bookmarks.label        "Закладкі">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Звязаныя запыты з прадвызначанага пашукавіка">
 <!ENTITY  locbar.searches.accesskey     "в">
 
-<!ENTITY  suggestionSettings.label      "Змяніць налады для падказак пашукавіка…">
-<!ENTITY  suggestionSettings.accesskey  "п">
 
 <!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">
 <!ENTITY  acceptCookies.accesskey       "П">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Паказаць кукі…">
 <!ENTITY  showCookies.accesskey         "П">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; павінен:">
-<!ENTITY  historyHeader.pre.accesskey      "п">
 <!ENTITY  historyHeader.remember.label     "памятаць гісторыю">
 <!ENTITY  historyHeader.dontremember.label "ніколі не памятаць гісторыю">
 <!ENTITY  historyHeader.custom.label       "ужываць налады для гісторыі">

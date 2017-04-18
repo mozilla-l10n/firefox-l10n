@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Шрыфты &amp; колеры">
 
-<!ENTITY  defaultFont.label           "Прадвызначаны шрыфт:">
-<!ENTITY  defaultFont.accesskey       "ш">
-<!ENTITY  defaultSize.label           "Памер:">
-<!ENTITY  defaultSize.accesskey       "П">
 
 <!ENTITY  advancedFonts.label         "Дадаткова…">
 <!ENTITY  advancedFonts.accesskey     "Д">
