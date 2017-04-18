@@ -1,0 +1,49 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- The page shown when logged in... -->
+
+<!ENTITY engine.bookmarks.label     "Обележувачи">
+<!ENTITY engine.bookmarks.accesskey "б">
+<!ENTITY engine.tabs.accesskey      "Ј">
+<!ENTITY engine.history.label       "Историја">
+<!ENTITY engine.history.accesskey   "р">
+<!ENTITY engine.passwords.label     "Лозинки">
+<!ENTITY engine.passwords.accesskey "Л">
+<!ENTITY engine.prefs.label         "Преференции">
+<!ENTITY engine.prefs.accesskey     "ф">
+<!ENTITY engine.addons.label        "Додатоци">
+<!ENTITY engine.addons.accesskey    "а">
+
+<!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Име на уред">
+
+<!-- Footer stuff -->
+<!ENTITY prefs.tosLink.label        "Услови за употреба">
+
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+
+
+
+<!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
+     create a single sentence with active links.
+     The resulting sentence in English is: "Download Firefox for
+     Android or iOS to sync with your mobile device." -->
+
+<!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
+
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
+
