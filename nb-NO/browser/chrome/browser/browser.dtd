@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Høyreklikk eller trekk ned for å vise historikk">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trekk ned for å vise historikk">
 <!ENTITY reloadCmd.label              "Oppdater">
-<!ENTITY reloadButton.tooltip         "Vis nyeste innhold i aktiv side">
 <!ENTITY stopCmd.label                "Stopp">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Stopp lasting av denne siden">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
 <!ENTITY printButton.label            "Skriv ut">
 <!ENTITY printButton.tooltip          "Skriv ut denne siden">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Tilbakestill zoom">
-
 <!ENTITY searchItem.title             "Søk">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startside">
 
 <!ENTITY bookmarksButton.label          "Bokmerker">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Les mer om DRM …">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
