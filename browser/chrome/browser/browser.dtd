@@ -901,10 +901,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "Perbarui &brandShorterName; Anda untuk mendapat yang terkini dalam kecepatan dan privasi.">
 <!ENTITY updateAvailable.whatsnew.label "Lihat apa yang baru.">
-<!ENTITY updateAvailable.header.message "Pembaruan &brandShorterName; terkini telah tersedia.">
-<!ENTITY updateAvailable.acceptButton.label "Unduh Pembaruan">
+<!ENTITY updateAvailable.header.message "Pemutakhiran &brandShorterName; terkini telah tersedia.">
+<!ENTITY updateAvailable.acceptButton.label "Unduh Pemutakhiran">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Nanti">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Unduh pemutakhiran &brandShorterName;">
 
+<!ENTITY updateManual.message "Unduh salinan segar dari &brandShorterName; dan kami akan membantu Anda untuk memasangnya.">
+<!ENTITY updateManual.whatsnew.label "Lihat apa yang baru.">
+<!ENTITY updateManual.header.message "&brandShorterName; tidak dapat diperbarui ke versi terkini.">
+<!ENTITY updateManual.acceptButton.label "Unduh &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Nanti">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
+<!ENTITY updateRestart.acceptButton.label "Mulai Ulang dan Kembalikan">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
