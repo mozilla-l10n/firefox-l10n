@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Tetapan - Data Laman">
-<!ENTITY     settings.description          "Laman web berikut meminta untuk menyimpan  data laman dalam cakera anda. Anda boleh tentukan laman web yang anda izinkan untuk menyimpan data laman. Data laman piawai hanya sementara dan boleh dihapuskan secara automatik.">
 <!ENTITY     hostCol.label                 "Laman">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Simpanan">
-<!ENTITY     searchPlaceHolder             "Cari">
-<!ENTITY     searchPlaceHolder.accesskey   "C">
 <!ENTITY     removeSelected.label          "Alihkeluar Pilihan">
 <!ENTITY     removeSelected.accesskey      "a">
 <!ENTITY     save.label                    "Simpan Perubahan">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Batal">
 <!ENTITY     cancel.accesskey              "B">
 <!ENTITY     removingDialog.title          "Mengalihkeluar Data Laman">
-<!ENTITY     removingDialog.description    "Mengalihkeluar data laman juga akan memadam kuki. Ini boleh menyebabkan anda log keluar daripada laman web dan membuang kandungan web luar talian. Anda pasti mahu membuat perubahan?">
 <!ENTITY     siteTree.label                "Kuki laman web berikut akan dialihkeluar:">

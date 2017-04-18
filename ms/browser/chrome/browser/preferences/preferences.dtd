@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 58em; min-height: 40.5em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 55em; min-height: 46em;">
 
-<!ENTITY  paneGeneral.title       "Umum">
-<!ENTITY  paneTabs.title          "Tab">
-<!ENTITY  paneSearch.title        "Cari">
-<!ENTITY  paneContent.title       "Kandungan">
-<!ENTITY  paneApplications.title  "Aplikasi">
-<!ENTITY  panePrivacy.title       "Privasi">
-<!ENTITY  paneContainers.title    "Tab Penyimpan">
-<!ENTITY  paneSecurity.title      "Keselamatan">
-<!ENTITY  paneAdvanced.title      "Lanjutan">
+<!ENTITY  paneGeneral.title             "Umum">
+<!ENTITY  paneContainers.title          "Tab Penyimpan">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Bantuan">
+

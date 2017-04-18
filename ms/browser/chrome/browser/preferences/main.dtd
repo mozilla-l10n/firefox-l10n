@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Permulaan">
 
-<!ENTITY startupPage.label         "Apabila &brandShortName; mula:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "Papar halaman utama anda">
 <!ENTITY startupBlankPage.label    "Papar halaman kosong">
 <!ENTITY startupPrevSession.label  "Papar tetingkap dan tab anda yang terdahulu">
 
-<!ENTITY homepage.label            "Halaman Utama:">
-<!ENTITY homepage.accesskey        "U">
 <!ENTITY useCurrentPage.label      "Gunakan Halaman Semasa">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Gunakan Halaman Semasa">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk dilancarkan pada masa yang sama">
 <!ENTITY useFirefoxSync.label             "Tip: Ciri ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data.">
-<!ENTITY getStarted.label                 "Mulakan Sync…">
 
 <!ENTITY e10sEnabled.label                "Dayakan multi-proses &brandShortName;">

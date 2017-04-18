@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Gunakan Pelindungan Penjejakan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
-<!ENTITY  locbar.suggest.label          "Semasa menggunakan bar lokasi, cadang:">
 <!ENTITY  locbar.history.label          "Sejarah">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Tukar keutamaan bagi cadangan enjin carian…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Papar Kuki…">
 <!ENTITY  showCookies.accesskey         "P">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; akan:">
-<!ENTITY  historyHeader.pre.accesskey      "a">
 <!ENTITY  historyHeader.remember.label     "Ingat sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
