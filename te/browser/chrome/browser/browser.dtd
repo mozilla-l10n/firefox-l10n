@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "చరిత్రను చూడడానికి కుడి-క్లిక్ నొక్కండి లేదా కిందికి లాగండి">
 <!ENTITY backForwardButtonMenuMac.tooltip "చరిత్రను చూడడానికి కిందకు లాగండి">
 <!ENTITY reloadCmd.label              "మళ్ళీ లోడుచేయి">
-<!ENTITY reloadButton.tooltip         "ఈ పేజీని మళ్ళీ లోడు చేయి">
 <!ENTITY stopCmd.label                "ఆపివేయి">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ఈ పేజీ లోడింగును ఆపివేయండి">
 <!ENTITY goEndCap.tooltip             "ప్రాంతపు పట్టీలో ఉన్న చిరునామాకి వెళ్ళండి">
 <!ENTITY printButton.label            "ముద్రించు">
 <!ENTITY printButton.tooltip          "ఈ పేజీని ముద్రించు">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "చరిత్రను చూపించు">
 
-<!ENTITY urlbar.zoomReset.tooltip     "జూమ్ స్థాయిని పునరుద్ధరించు">
-
 <!ENTITY searchItem.title             "వెతుకు">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "ముంగిలి">
 
 <!ENTITY bookmarksButton.label          "ఇష్టాంశాలు">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి ఇంకా తెలుసుకోండి…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "నవీకరణ">
 
 <!ENTITY updateApplication.label         "&brandShortName; తాజాకరణలు">
-<!ENTITY updateAuto1.label               "నవీకరణలను స్వయంచాలగా సంస్థాపించు (సిఫార్సు: మెరుగైన రక్షణ)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "నవీకరణల కొరకు పరిశీలించు, అయితే వాటిని సంస్థాపించాలా వద్దా అనేది మీరే ఎంపికచేయాలి">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "నవీకరణల కొరకు ఎప్పుడూ పరిశీలించవద్దు (సిఫార్సు చేయనిది: రక్షణ సమస్య)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "నవీకరణ చరిత్రను చూపించు">
-<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "నవీకరణలను సంస్థాపించుటకు బ్యాక్‌గ్రౌండ్ సేవను ఉపయోగించు">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "స్వయంచాలకంగా నవీకరించు">
-<!ENTITY enableSearchUpdate.label        "శోధన ఇంజన్లు">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 <!ENTITY offlineStorageNotify.label               "వెబ్‌ సైటు ఆఫ్‌లైన్ ఉపయోగం కొరకు డాటాను నిల్వచేయుటకు అడిగినప్పుడు మీకు తెలియజేయును">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "ఆఫ్‌లైన్ డాటాను తీసివేయి">
 
 <!ENTITY certificateTab.label            "ధృవీకరణ పత్రాలు">
-<!ENTITY certPersonal.label              "అభ్యర్థనలు">
-<!ENTITY certPersonal.description        "సేవిక మీ వ్యక్తగిత ధృవీకరణపత్రం అభ్యర్ధించినప్పుడు:">
 <!ENTITY selectCerts.auto                "స్వయంచాలకంగా ఒక దానిని ఎంపికచేయి">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "ప్రతిసారీ మిమ్మల్ని అడుగును">
