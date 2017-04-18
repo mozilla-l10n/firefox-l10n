@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "מופעל">
 <!ENTITY pref_home_updates_wifi "על רשתות Wi-Fi בלבד">
 <!ENTITY pref_category_home_homepage "דף בית">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "הגדרת דף בית">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "לשוניות מותאמות אישית">
 <!ENTITY pref_custom_tabs_summary3 "לאפשר ליישומונים לפתוח אתרים בגרסה מותאמת של &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream_summary "יומן פעילות נעים למראה ודף בית בעיצוב משופר מקלים עליך בחיפוש אחר מבוקשך ב־&brandShortName;.">
@@ -349,26 +354,12 @@
 <!ENTITY pref_plugins_enabled "פעיל">
 <!ENTITY pref_plugins_tap_to_play2 "יש להקיש כדי להפעיל">
 <!ENTITY pref_plugins_disabled "מנוטרל">
-<!ENTITY pref_text_size "גודל טקסט">
 <!ENTITY pref_restore_tabs "שחזור לשוניות">
 <!ENTITY pref_restore_always "לשחזר תמיד">
 <!ENTITY pref_restore_quit "לא לשחזר לאחר יציאה מ־&brandShortName;">
-<!ENTITY pref_font_size_tiny "קטן מאד">
-<!ENTITY pref_font_size_small "קטן">
-<!ENTITY pref_font_size_medium "בינוני">
-<!ENTITY pref_font_size_large "גדול">
-<!ENTITY pref_font_size_xlarge "גדול מאד">
-<!ENTITY pref_font_size_set "הגדרה">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "א">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "השועל הכתום הזריז קופץ מעל לציפיות עם מהירות משופרת, גמישות נוספת ויותר אבטחה. כארגון ללא מטרות רווח, לנו החופש לחדש עבורך ללא לחץ להתפשר. משמעות הדבר היא חוויית גלישה מיטבית עבורך ועתיד זוהר יותר לרשת האינטרנט.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "אפשר הפעלה אוטומטית">
 <!ENTITY pref_media_autoplay_enabled_summary "לשלוט האם אתרים יכולים לנגן וידאו ותוכן מדיה אחר אוטומטית">
