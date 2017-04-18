@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Käytä seurannan suojausta">
 <!ENTITY  trackingProtectionAlways.label       "Aina">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Vain yksityisen selaamisen ikkunoissa">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Osoitepalkki">
 
-<!ENTITY  locbar.suggest.label          "Ehdota osoitepalkissa sivuja:">
 <!ENTITY  locbar.history.label          "Sivuhistoriasta">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Vastaavia hakuja oletushakupalvelusta">
 <!ENTITY  locbar.searches.accesskey     "o">
 
-<!ENTITY  suggestionSettings.label      "Muokkaa hakukoneiden ehdotusten asetuksia…">
-<!ENTITY  suggestionSettings.accesskey  "d">
 
 <!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Näytä evästeet…">
 <!ENTITY  showCookies.accesskey         "N">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; säilyttää:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Täydelliset historiatiedot">
 <!ENTITY  historyHeader.dontremember.label "Ei mitään historiatietoja">
 <!ENTITY  historyHeader.custom.label       "Valitut historiatiedot">

@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Päivitys">
 
 <!ENTITY updateApplication.label         "&brandShortName;in päivitykset">
-<!ENTITY updateAuto1.label               "Asenna päivitykset automaattisesti (suositeltu: turvallisin)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Hae päivityksiä, mutta minä päätän asennetaanko ne">
-<!ENTITY updateCheckChoose.accesskey     "H">
-<!ENTITY updateManual.label              "Älä hae päivityksiä (ei suositeltu: turvallisuusriski)">
-<!ENTITY updateManual.accesskey          "Ä">
 
-<!ENTITY updateHistory.label             "Näytä päivityshistoria">
-<!ENTITY updateHistory.accesskey         "N">
 
 <!ENTITY useService.label                "Asenna päivitykset taustalla toimivalla palvelulla">
 <!ENTITY useService.accesskey            "u">
 
-<!ENTITY autoUpdateOthers.label          "Automaattinen päivitys">
-<!ENTITY enableSearchUpdate.label        "Hakukoneet">
-<!ENTITY enableSearchUpdate.accesskey    "k">
+
 
 <!ENTITY offlineStorageNotify.label               "Näytä ilmoitus, kun sivusto pyytää lupaa tallentaa tietoa yhteydetöntä tilaa varten">
 <!ENTITY offlineStorageNotify.accesskey           "N">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Poista yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!ENTITY certificateTab.label            "Varmenteet">
-<!ENTITY certPersonal.label              "Pyynnöt">
-<!ENTITY certPersonal.description        "Sivuston pyytäessä varmennettani:">
 <!ENTITY selectCerts.auto                "Valitse sellainen automaattisesti">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Kysy joka kerta">
