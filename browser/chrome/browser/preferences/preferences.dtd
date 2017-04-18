@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 63em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 66em; min-height: 42em;">
 
-<!ENTITY  paneGeneral.title       "Γενικά">
-<!ENTITY  paneTabs.title          "Καρτέλες">
-<!ENTITY  paneSearch.title        "Αναζήτηση">
-<!ENTITY  paneContent.title       "Περιεχόμενο">
-<!ENTITY  paneApplications.title  "Εφαρμογές">
-<!ENTITY  panePrivacy.title       "Απόρρητο">
-<!ENTITY  paneContainers.title    "Θεματικές καρτέλες">
-<!ENTITY  paneSecurity.title      "Ασφάλεια">
-<!ENTITY  paneAdvanced.title      "Για προχωρημένους">
+<!ENTITY  paneGeneral.title             "Γενικά">
+<!ENTITY  paneContainers.title          "Θεματικές καρτέλες">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Βοήθεια">
+
