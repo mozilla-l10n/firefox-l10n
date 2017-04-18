@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Yazı tipleri ve renkler">
 
-<!ENTITY  defaultFont.label           "Varsayılan yazı tipi:">
-<!ENTITY  defaultFont.accesskey       "z">
-<!ENTITY  defaultSize.label           "Boyut:">
-<!ENTITY  defaultSize.accesskey       "B">
 
 <!ENTITY  advancedFonts.label         "Gelişmiş…">
 <!ENTITY  advancedFonts.accesskey     "G">

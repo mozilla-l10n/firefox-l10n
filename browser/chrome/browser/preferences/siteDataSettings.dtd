@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ayarlar - Site Verileri">
-<!ENTITY     settings.description          "Aşağıdaki web siteleri diskinizde veri depolamayı istedi. Hangi sitelerin site verilerini depolamasına izin vereceğinizi seçebilirsiniz. Varsayılan olarak site verileri geçici olarak depolanır ve kendiliğinden silinebilir.">
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Depolama">
-<!ENTITY     searchPlaceHolder             "Arama">
-<!ENTITY     searchPlaceHolder.accesskey   "A">
 <!ENTITY     removeSelected.label          "Seçilenleri sil">
 <!ENTITY     removeSelected.accesskey      "S">
 <!ENTITY     save.label                    "Değişiklikleri kaydet">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Vazgeç">
 <!ENTITY     cancel.accesskey              "t">
 <!ENTITY     removingDialog.title          "Site verileri siliniyor">
-<!ENTITY     removingDialog.description    "Site verilerini silerseniz çerezler de silinir. Bazı sitelerdeki oturumlarınız kapanabilir ve çevrimdışı web içerikleriniz silinebilir. Bu değişikliği yapmak istediğinizden emin misiniz?">
 <!ENTITY     siteTree.label                "Aşağıdaki web sitelerinin çerezleri silinecektir:">

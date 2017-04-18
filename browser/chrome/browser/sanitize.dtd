@@ -22,10 +22,10 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; tarayıcısından çıktığımda bunlar kendiliğinden silinsin:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Temizlenecek zaman aralığı: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "Son bir saat">
@@ -36,12 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Ziyaret tarihi">
-<!ENTITY clearTimeDuration.nameColumn     "Adı">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Ayrıntılar">
 <!ENTITY detailsProgressiveDisclosure.accesskey "A">
 
@@ -62,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "h">
 <!ENTITY itemSitePreferences.label         "Site tercihleri">
 <!ENTITY itemSitePreferences.accesskey     "e">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Bu işlem geri alınamaz.">
