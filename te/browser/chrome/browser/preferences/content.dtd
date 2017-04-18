@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "ఫాంట్స్ &amp; రంగులు">
 
+<!ENTITY  defaultFont2.label          "అప్రమేయ ఫాంటు">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "పరిమాణం">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "ఉన్నతం…">
 <!ENTITY  advancedFonts.accesskey     "A">
