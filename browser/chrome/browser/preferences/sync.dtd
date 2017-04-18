@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Име на текущото устройство">
-<!ENTITY changeSyncDeviceName.label "Преименуване…">
-<!ENTITY changeSyncDeviceName.accesskey "и">
 <!ENTITY cancelChangeSyncDeviceName.label "Отказ">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "о">
 <!ENTITY saveChangeSyncDeviceName.label "Запазване">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Промяна снимката на профила">
 <!ENTITY verifiedManage.label        "Управление на сметката">
 <!ENTITY verifiedManage.accesskey    "У">
-<!ENTITY disconnect.label            "Изключване…">
-<!ENTITY disconnect.accesskey        "И">
 <!ENTITY verify.label                "Проверка на мейла">
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забравяне на този мейл">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Вписване">
 <!ENTITY signedOut.accountBox.signin.accesskey  "В">
 
-<!ENTITY signedIn.engines.label       "Синхронизиране между всичките ви устройства на вашите:">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

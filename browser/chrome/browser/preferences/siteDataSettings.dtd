@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Настройки - Данни на сайтове">
-<!ENTITY     settings.description          "Следните сайтове са поискали да съхраняват данни на диска. Може да определите на кои е разрешавате да го направят. Стандартно тези данни се пазят временно и се изтриват автоматично.">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Състояние">
 <!ENTITY     usageCol.label                "Хранилище">
-<!ENTITY     searchPlaceHolder             "Търсене">
-<!ENTITY     searchPlaceHolder.accesskey   "т">
 <!ENTITY     removeSelected.label          "Премахване на избраните">
 <!ENTITY     removeSelected.accesskey      "и">
 <!ENTITY     save.label                    "Запазване">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Отказ">
 <!ENTITY     cancel.accesskey              "з">
 <!ENTITY     removingDialog.title          "Премахване на данните за сайта">
-<!ENTITY     removingDialog.description    "С премахване на данните на сайта ще бъдат премахнати и бисквитките. По такъв начин ще бъдат премахнати данните за работа извън мрежа, както и може да се наложи да се впишете отново в този сайт. Наистина ли желаете да направите тези промени?">
 <!ENTITY     siteTree.label                "Следните бисквитки от сайта ще бъдат премахнати:">
