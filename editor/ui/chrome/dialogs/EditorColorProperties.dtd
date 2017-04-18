@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Eftergrûnôfbylding:">
 <!ENTITY backgroundImage.accessKey "f">
 <!ENTITY backgroundImage.tooltip "In ôfbyldingsbestân as eftergrûn foar jo side brûke">
+<!ENTITY backgroundImage.shortenedDataURI "Ynkoarte URI-gegevens (kopiearjen sil de folsleine URI op it klamboerd sette)">
