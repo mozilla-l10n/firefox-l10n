@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "Page d’accueil">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Utiliser également pour les nouveaux onglets">
 <!ENTITY home_homepage_title "Définir une page d’accueil">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -496,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Ouvrir en navigation privée">
 <!ENTITY contextmenu_remove "Supprimer">
 <!ENTITY contextmenu_add_to_launcher "Ajouter à l’écran d’accueil">
+<!ENTITY contextmenu_set_as_homepage "Définir comme page d’accueil">
 <!ENTITY contextmenu_share "Partager">
 <!ENTITY contextmenu_pasteandgo "Coller et ouvrir">
 <!ENTITY contextmenu_paste "Coller">
