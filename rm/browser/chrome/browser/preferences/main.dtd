@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Aviar">
 
-<!ENTITY startupPage.label         "Sche &brandShortName; vegn avià:">
-<!ENTITY startupPage.accesskey     "S">
 <!ENTITY startupUserHomePage.label "Mussar la pagina da partenza">
 <!ENTITY startupBlankPage.label    "Mussar ina pagina vida">
 <!ENTITY startupPrevSession.label  "Mussar las fanestras ed ils tabs da l'ultima sesida">
 
-<!ENTITY homepage.label            "Pagina da partenza:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Utilisar la pagina actuala">
 <!ENTITY useCurrentPage.accesskey  "g">
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Permetter che &brandShortName; e Firefox èn activs a medem temp">
 <!ENTITY useFirefoxSync.label             "Tip: Quai funcziunescha cun profils separads. Utilisescha Sync per sincronisar las datas tranter quels.">
-<!ENTITY getStarted.label                 "Cumenzar ad utilisar Sync…">
 
 <!ENTITY e10sEnabled.label                "Exequir la versiun multiprocessuala da &brandShortName;">

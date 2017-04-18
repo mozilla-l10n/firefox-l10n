@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Actualisaziun">
 
 <!ENTITY updateApplication.label         "Actualisaziuns da &brandShortName;">
-<!ENTITY updateAuto1.label               "Installar automaticamain actualisaziuns (recumandà, pli segir)">
-<!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheckChoose.label         "Tschertgar actualisaziuns, ma dumandar avant che installar">
-<!ENTITY updateCheckChoose.accesskey     "T">
-<!ENTITY updateManual.label              "Mai tschertgar actualisaziuns (betg recumandà, privel da segirezza)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Mussar la cronologia da las actualisaziuns">
-<!ENTITY updateHistory.accesskey         "c">
 
 <!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "r">
 
-<!ENTITY autoUpdateOthers.label          "Actualisar automaticamain">
-<!ENTITY enableSearchUpdate.label        "Maschinas da tschertgar">
-<!ENTITY enableSearchUpdate.accesskey    "s">
+
 
 <!ENTITY offlineStorageNotify.label               "Dumandar en cas che websites vulan memorisar datas per l'utilisaziun offline">
 <!ENTITY offlineStorageNotify.accesskey           "D">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Allontanar las datas offline">
 
 <!ENTITY certificateTab.label            "Certificats">
-<!ENTITY certPersonal.label              "Dumondas">
-<!ENTITY certPersonal.description        "Sch'ina website dumonda il certificat da segirezza persunal:">
 <!ENTITY selectCerts.auto                "Tscherner automaticamain in">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Dumandar mintga giada">

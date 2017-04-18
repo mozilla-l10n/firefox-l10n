@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Scrittiras &amp; colurs">
 
-<!ENTITY  defaultFont.label           "Scrittira da standard:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Grondezza:">
-<!ENTITY  defaultSize.accesskey       "r">
 
 <!ENTITY  advancedFonts.label         "Extendì…">
 <!ENTITY  advancedFonts.accesskey     "d">

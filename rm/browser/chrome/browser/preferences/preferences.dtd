@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 56em; min-height: 46em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 56em; min-height: 38.5em;">
 
-<!ENTITY  paneGeneral.title       "General">
-<!ENTITY  paneTabs.title          "Tabs">
-<!ENTITY  paneSearch.title        "Tschertgar">
-<!ENTITY  paneContent.title       "Cuntegn">
-<!ENTITY  paneApplications.title  "Applicaziuns">
-<!ENTITY  panePrivacy.title       "Protecziun da datas">
-<!ENTITY  paneContainers.title    "Tabs da container">
-<!ENTITY  paneSecurity.title      "Segirezza">
-<!ENTITY  paneAdvanced.title      "Extendì">
+<!ENTITY  paneGeneral.title             "General">
+<!ENTITY  paneContainers.title          "Tabs da container">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Agid">
+
