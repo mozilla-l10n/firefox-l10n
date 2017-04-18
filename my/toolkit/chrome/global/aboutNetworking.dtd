@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "အလိုအလျောက် 3 စက္ကန့်တစ်ခါ ပြန်စပါ">
 <!ENTITY aboutNetworking.hostname              "လက်ခံအမည်">
 <!ENTITY aboutNetworking.port                  "ပေါ့">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ဖွင့်ထားသှ်">
 <!ENTITY aboutNetworking.idle                  "ငြိမ်နေသှ်">

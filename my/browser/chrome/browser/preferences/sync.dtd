@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ကိရိယာအမည်">
-<!ENTITY changeSyncDeviceName.label "ကိရိယာအမည်ကို ပြောင်းလဲရန်…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ပယ်​ဖျက်ပါ">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "သိမ်းဆည်းပါ">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ပရိုဖိုင်းရုပ်ပုံကို ပြောင်းလဲရန်">
 <!ENTITY verifiedManage.label        "အကောင့်ကို စီမံရန်">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "ချိတ်ဆက်ဖြုတ်...">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "အီးမေလ်း အတည်ပြု">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "အခု အီးမေလ်းအား ဖျက်">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "၀င်ပါ">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "ကိရိယာအားလုံးကို တပြေးညီ ဖြစ်စေပါ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "မှတ်တမ်းကို ပြသရန် ညာဘက်ကလစ် သို့မဟုတ် ကလစ်ဖိဆွဲချပါ။">
 <!ENTITY backForwardButtonMenuMac.tooltip "မှတ်တမ်းကို ပြသရန် ကလစ်ဖိဆွဲချပါ။">
 <!ENTITY reloadCmd.label              "ပြန်ဖွင့်ပါ">
-<!ENTITY reloadButton.tooltip         "လက်ရှိစာမျက်နှာကို ပြန်ဖွင့်‌ပါ">
 <!ENTITY stopCmd.label                "ရပ်">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ဒီစာမျက်နှာကို ဖွင့်ခြင်းမှ ရပ်တန့်ပါ">
 <!ENTITY goEndCap.tooltip             "လမ်းကြောင်းအတန်းထဲရှိ လိပ်စာသို့ သွားပါ">
 <!ENTITY printButton.label            "ပုံနှိပ်ရန်">
 <!ENTITY printButton.tooltip          "ဒီစာမျက်နှာကို ပုံနှိပ်ရန်">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
-<!ENTITY urlbar.zoomReset.tooltip     "ပကတိအမြင်အတိုင်း ထားရန်">
-
 <!ENTITY searchItem.title             "ရှာဖွေပါ">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "အဖွင့်စာမျက်နှာ">
 
 <!ENTITY bookmarksButton.label          "မှတ်သားချက်များ">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM အကြောင်း ပိုမိုလေ့လာပါ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

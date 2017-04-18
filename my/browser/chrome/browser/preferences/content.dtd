@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "ဖောင့်များ &amp; အရောင်များ">
 
-<!ENTITY  defaultFont.label           "မူသေ အသုံးပြုသော ဖောင့်">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "အရွယ်အစား">
-<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "အဆင့်မြင့်…">
 <!ENTITY  advancedFonts.accesskey     "A">
