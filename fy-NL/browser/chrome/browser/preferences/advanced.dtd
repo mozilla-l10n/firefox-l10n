@@ -85,11 +85,14 @@
 
 <!ENTITY updateApplication.label         "&brandShortName;-fernijingen">
 
+<!ENTITY updateHistory2.label            "Fernijingsskiednis toane…">
+<!ENTITY updateHistory2.accesskey        "s">
 
 <!ENTITY useService.label                "Brûk in eftergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
 
+<!ENTITY reports.label                   "Rapporten">
 
 <!ENTITY offlineStorageNotify.label               "Jo fertelle as in website freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineStorageNotify.accesskey           "J">

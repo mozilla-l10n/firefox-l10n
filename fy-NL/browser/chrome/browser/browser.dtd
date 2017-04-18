@@ -373,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Syngronisaasjefoarkarren">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld jo oan om in list fan ljepblêden fan jo oare apparaten wer te jaan.">
 <!ENTITY appMenuRemoteTabs.signin.label "Oanmelde by Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheare…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Syngroane-ljepblêdensidebalke werjaan">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tafoegje oan arkbalke">
@@ -781,6 +782,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Alles yn ljepblêden iepenje">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
+<!ENTITY syncedTabs.context.managedevices.label              "Apparaten beheare…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "d">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +899,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Mear ynfo oer DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Wat is nij.">
+<!ENTITY updateAvailable.header.message "Der is in nije &brandShorterName;-fernijing beskikber.">
+<!ENTITY updateAvailable.acceptButton.label "Fernijing downloade">
+<!ENTITY updateAvailable.acceptButton.accesskey "F">
+<!ENTITY updateAvailable.cancelButton.label "No net">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShortName;-fernijing downloade">
 
+<!ENTITY updateManual.message "Download in farske kopy fan &brandShorterName; en wy helpe jo it te ynstallearjen.">
+<!ENTITY updateManual.whatsnew.label "Wat is nij.">
+<!ENTITY updateManual.header.message "&brandShorterName; kin net fernije nei de lêste ferzje.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; downloade">
+<!ENTITY updateManual.acceptButton.accesskey "d">
+<!ENTITY updateManual.cancelButton.label "No net">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Download in farske kopy fan &brandShorterName;">
 
+<!ENTITY updateRestart.cancelButton.label "No net">
+<!ENTITY updateRestart.cancelButton.accesskey "N">

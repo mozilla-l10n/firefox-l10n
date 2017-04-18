@@ -40,6 +40,6 @@
 
 <!ENTITY separateProfileMode.label        "Tagelyk útfieren fan &brandShortName; en Firefox tastean">
 <!ENTITY useFirefoxSync.label             "Tip: Dit brûkt ferskillende profilen. Brûk Sync om gegevens dêrtusken te dielen.">
-<!ENTITY getStarted.label                 "Sync brûke…">
+<!ENTITY getStarted.notloggedin.label     "Oanmelde by &syncBrand.shortName.label;…">
 
 <!ENTITY e10sEnabled.label                "Multiprocess yn &brandShortName; ynskeakelje">
