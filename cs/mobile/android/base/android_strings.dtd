@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Povoleno">
 <!ENTITY pref_home_updates_wifi "Pouze přes Wi-Fi">
 <!ENTITY pref_category_home_homepage "Domovská stránka">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Nastavit domovskou stránku">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Vlastní panely">
 <!ENTITY pref_custom_tabs_summary3 "Povolit aplikacím otevírat webové stránky s použitím upravené verze aplikace &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Tok událostí">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Povoleny">
 <!ENTITY pref_plugins_tap_to_play2 "Spustit po klepnutí">
 <!ENTITY pref_plugins_disabled "Zakázány">
-<!ENTITY pref_text_size "Velikost textu">
 <!ENTITY pref_restore_tabs "Obnovit panely">
 <!ENTITY pref_restore_always "Vždy obnovit">
 <!ENTITY pref_restore_quit "Neobnovovat po ukončení aplikace &brandShortName;">
-<!ENTITY pref_font_size_tiny "Drobné">
-<!ENTITY pref_font_size_small "Malé">
-<!ENTITY pref_font_size_medium "Střední">
-<!ENTITY pref_font_size_large "Velké">
-<!ENTITY pref_font_size_xlarge "Extra velké">
-<!ENTITY pref_font_size_set "Nastavit">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Rychlá oranžová liška překoná vaše očekávání ohledně rychlosti, flexibility a bezpečnosti. Jako neziskovka, máme prostor k inovacím bez jakéhokoli tlaku ke kompromisu. To znamená lepší prožitek pro vás a světlejší budoucnost pro web.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Povolit automatické přehrávání">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, zda webová stránka může automaticky přehrávat videa či jiný multimediální obsah">
