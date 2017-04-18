@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "常规">
-<!ENTITY  paneTabs.title          "标签页">
-<!ENTITY  paneSearch.title        "搜索">
-<!ENTITY  paneContent.title       "内容">
-<!ENTITY  paneApplications.title  "应用程序">
-<!ENTITY  panePrivacy.title       "隐私">
-<!ENTITY  paneContainers.title    "身份标签页">
-<!ENTITY  paneSecurity.title      "安全">
-<!ENTITY  paneAdvanced.title      "高级">
+<!ENTITY  paneGeneral.title             "常规">
+<!ENTITY  paneContainers.title          "身份标签页">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "同步">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "帮助">
+

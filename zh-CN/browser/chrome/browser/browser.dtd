@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "右击或下拉显示历史">
 <!ENTITY backForwardButtonMenuMac.tooltip "下拉显示历史">
 <!ENTITY reloadCmd.label              "重新载入">
-<!ENTITY reloadButton.tooltip         "重新载入当前页面">
 <!ENTITY stopCmd.label                "停止">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "停止载入此页面">
 <!ENTITY goEndCap.tooltip             "转到地址栏中指向的地址">
 <!ENTITY printButton.label            "打印">
 <!ENTITY printButton.tooltip          "打印当前页">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "显示历史">
 
-<!ENTITY urlbar.zoomReset.tooltip     "重置缩放级别">
-
 <!ENTITY searchItem.title             "搜索">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "主页">
 
 <!ENTITY bookmarksButton.label          "书签">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "详细了解数字版权管理（DRM）…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
