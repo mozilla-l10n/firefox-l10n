@@ -904,11 +904,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.message "Kemaskini &brandShorterName; anda untuk kepantasan dan privasi terkini.">
 <!ENTITY updateAvailable.whatsnew.label "Lihat perkembangan terbaru.">
 <!ENTITY updateAvailable.header.message "Kemaskini &brandShorterName; baru sudah tersedia.">
-<!ENTITY updateAvailable.acceptButton.label "Muat Turun Kemaskini">
+<!ENTITY updateAvailable.acceptButton.label "Muat turun Kemaskini">
 <!ENTITY updateAvailable.acceptButton.accesskey "M">
 <!ENTITY updateAvailable.cancelButton.label "Bukan Sekarang">
 <!ENTITY updateAvailable.cancelButton.accesskey "B">
-<!ENTITY updateAvailable.panelUI.label "Muat turun &brandShortName; kemaskini">
+<!ENTITY updateAvailable.panelUI.label "Muat turun kemaskini &brandShorterName;">
 
 <!ENTITY updateManual.message "Muat turun versi baru &brandShorterName; dan kami akan bantu anda untuk memasangnya.">
 <!ENTITY updateManual.whatsnew.label "Lihat perkembangan terbaru.">
