@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "Tổng quát">
+
+
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+
+
+
+
+
+
+<!ENTITY  addonExceptions.label         "Ngoại trừ…">
+<!ENTITY  addonExceptions.accesskey     "N">
+
+
+
+<!ENTITY  passwordExceptions.label      "Ngoại trừ…">
+<!ENTITY  passwordExceptions.accesskey  "r">
+
+<!ENTITY  useMasterPassword.label        "Dùng một mật khẩu chính">
+<!ENTITY  useMasterPassword.accesskey    "D">
+<!ENTITY  changeMasterPassword.label     "Thay đổi Mật khẩu Chính…">
+<!ENTITY  changeMasterPassword.accesskey "M">
+
+
