@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Натиснете с десния бутон или дръпнете надолу, за да се покаже историята">
 <!ENTITY backForwardButtonMenuMac.tooltip "Дръпнете надолу, за да се покаже историята">
 <!ENTITY reloadCmd.label              "Презареждане">
-<!ENTITY reloadButton.tooltip         "Презареждане на текущата страница">
 <!ENTITY stopCmd.label                "Спиране">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Спиране зареждането на страницата">
 <!ENTITY goEndCap.tooltip             "Зареждане на адреса в полето">
 <!ENTITY printButton.label            "Отпечатване">
 <!ENTITY printButton.tooltip          "Отпечатване на страницата">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Нулиране на мащабирането">
-
 <!ENTITY searchItem.title             "Търсене">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Начало">
 
 <!ENTITY bookmarksButton.label          "Отметки">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Научете повече за DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

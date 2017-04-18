@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 40em;">
 
-<!ENTITY  paneGeneral.title       "Основни">
-<!ENTITY  paneTabs.title          "Раздели">
-<!ENTITY  paneSearch.title        "Търсене">
-<!ENTITY  paneContent.title       "Съдържание">
-<!ENTITY  paneApplications.title  "Приложения">
-<!ENTITY  panePrivacy.title       "Поверителност">
-<!ENTITY  paneContainers.title    "Изолирани раздели">
-<!ENTITY  paneSecurity.title      "Защита">
-<!ENTITY  paneAdvanced.title      "Разширени">
+<!ENTITY  paneGeneral.title             "Основни">
+<!ENTITY  paneContainers.title          "Изолирани раздели">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Помощ">
+
