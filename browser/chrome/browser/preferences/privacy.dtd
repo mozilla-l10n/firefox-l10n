@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Använd skydd mot spårning">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "i">
 <!ENTITY  trackingProtectionPrivate.label      "Bara i privata fönster">
@@ -19,9 +18,9 @@
 <!ENTITY trackingProtectionPBMLearnMore.label "Lär dig mer">
 <!ENTITY changeBlockList.label          "Ändra blockeringslista">
 <!ENTITY changeBlockList.accesskey      "n">
+
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
 <!ENTITY  doNotTrack.pre.label          "Du kan också ">
 <!ENTITY  doNotTrack.settings.label     "hantera dina inställningar för Spåra inte">
 <!ENTITY  doNotTrack.post.label         ".">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Adressfältet">
 
-<!ENTITY  locbar.suggest.label          "Ge förslag i adressfältet från:">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Relaterade sökningar från standardsökmotor">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Ändra inställningar för förslag från sökmotorn…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -64,18 +60,16 @@
 <!ENTITY  showCookies.label             "Visa kakor…">
 <!ENTITY  showCookies.accesskey         "V">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; kommer att:">
-<!ENTITY  historyHeader.pre.accesskey      "k">
 <!ENTITY  historyHeader.remember.label     "Spara historik">
 <!ENTITY  historyHeader.dontremember.label "Inte spara någon historik">
 <!ENTITY  historyHeader.custom.label       "Använda anpassade inställningar för historik">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; kommer att spara information om besökta webbsidor, filhämtningar, formulär- och sökhistorik, samt spara kakor från webbplatser du besöker.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "Du kanske vill ">
 <!ENTITY  rememberActions.clearHistory.label  "rensa ut tidigare historik">
 <!ENTITY  rememberActions.middle.label        ", eller ">
@@ -83,9 +77,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; kommer att använda samma inställningar som för privat surfning och kommer inte att spara någon historik när du surfar.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "Du kanske också vill ">
 <!ENTITY  dontrememberActions.clearHistory.label "rensa ut tidigare historik">
 <!ENTITY  dontrememberActions.post.label         ".">
