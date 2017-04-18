@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "ဖွင့်ထားတယ်">
 <!ENTITY pref_home_updates_wifi "Wi-Fi ဖြင့်သာ">
 <!ENTITY pref_category_home_homepage "အဖွင့်စာမျက်နှာ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "အဖွင့်စာမျက်နှာ သတ်မှတ်ရန်">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "စိတ်ကြိုက်တပ်ဗ်များ">
 <!ENTITY pref_custom_tabs_summary3 "ဝဘ်ဆိုက်များကို ဖွင့်ရာတွင် &brandShortName; ၏ စိတ်ကြိုက်ပြင်ဆင်ထားသော ဗားရှင်းကို အသုံးပြုရန် အက်ပ်များကို ခွင့်ပြုပါ">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ကိစ္စအဖုံဖုံ">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "ဖွင့်ထားသည်">
 <!ENTITY pref_plugins_tap_to_play2 "ဖွင့်ရန် ထိပါ">
 <!ENTITY pref_plugins_disabled "ပိတ်ထားသည်">
-<!ENTITY pref_text_size "စာလုံး ဆိုဒ်">
 <!ENTITY pref_restore_tabs "တပ်ဗ်များကို ပြန်လည်အသုံးပြုရန်">
 <!ENTITY pref_restore_always "အမြဲ ပြန်ဖွင့်ပါ">
 <!ENTITY pref_restore_quit "&brandShortName; ပိတ်လိုက်ပါက အရင်ဖွင့်ထားသော အရာများ ပြန်မခေါ်ပါ">
-<!ENTITY pref_font_size_tiny "ခပ်သေးသေး">
-<!ENTITY pref_font_size_small "အသေး">
-<!ENTITY pref_font_size_medium "အလယ်အလတ်">
-<!ENTITY pref_font_size_large "ကြီးကြီး">
-<!ENTITY pref_font_size_xlarge "ခပ်ကြီးကြီး">
-<!ENTITY pref_font_size_set "အစု">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
 <!ENTITY pref_media_autoplay_enabled_summary "ဝဘ်ဆိုဒ်များက မီဒီယာ သို့မဟုတ် ရုပ်ရှင်များကို အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
