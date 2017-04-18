@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
+
+
+
+<!ENTITY  acceptCookies.label           "Tumanggap ng cookies mula sa mga site">
+<!ENTITY  acceptCookies.accesskey       "a">
+
+
+
+
+<!ENTITY  cookieExceptions.label        "Mga exceptions...">
+<!ENTITY  cookieExceptions.accesskey    "e">
+
+<!ENTITY  showCookies.label             "Ipakita ang Cookies…">
+<!ENTITY  showCookies.accesskey         "k">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.custom.label       "Gamitin ang custom settings para sa history">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "Tatandaan ng &brandShortName; ang iyong browsing, download, form at search history, at hindi papayagan ang cookies mula sa websites na pupuntahan mo.">
+
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+<!ENTITY  rememberActions.pre.label           "Baka gusto mong ">
+<!ENTITY  rememberActions.clearHistory.label  "Burahin ang inyong recent history">
+<!ENTITY  rememberActions.middle.label        ", o ">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "Gagamit ng parehong settings ng private browsing ang &brandShortName;, at hindi nito tatandaan ang kasaysayan ng pag-browse ninyo ng Web.">
+
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+<!ENTITY  dontrememberActions.pre.label          "Maaari na gusto mo rin na ">
+<!ENTITY  dontrememberActions.clearHistory.label "Burahin ang lahat ng kasalukuyang kasaysayan">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+
+<!ENTITY  rememberHistory2.label      "Tandaan ang aking history sa browsing at download">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "Tandaan ang kasaysayan ng mga paghahanap at mga form">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "Limasin ang kasaysayan kapag nagsara ang &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "Settings…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+

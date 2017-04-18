@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "Pangkalahatan">
+
+
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+
+
+
+<!ENTITY  addonExceptions.label         "Mga exceptions...">
+<!ENTITY  addonExceptions.accesskey     "e">
+
+
+
+<!ENTITY  passwordExceptions.label      "Mga exceptions...">
+<!ENTITY  passwordExceptions.accesskey  "x">
+
+<!ENTITY  useMasterPassword.label        "Gamitin ng master password">
+<!ENTITY  useMasterPassword.accesskey    "G">
+<!ENTITY  changeMasterPassword.label     "Palitan ang Master Password...">
+<!ENTITY  changeMasterPassword.accesskey "M">
+

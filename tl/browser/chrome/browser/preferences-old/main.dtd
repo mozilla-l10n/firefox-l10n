@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Nagsisimula">
+
+<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupBlankPage.label    "Magpakita ng blankong pahina">
+
+<!ENTITY useCurrentPage.label      "Gamitin ang Kasalukuyang Pahina">
+<!ENTITY useCurrentPage.accesskey  "G">
+<!ENTITY useMultiple.label         "Gamitin ang kasalukuyang mga pahina">
+<!ENTITY chooseBookmark.label      "Gamitan ng Bookmark">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "Ibalik sa Default">
+<!ENTITY restoreDefault.accesskey  "I">
+
+<!ENTITY downloads.label     "Mga Download">
+
+<!ENTITY chooseFolderWin.label        "Browse…">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "Choose…">
+<!ENTITY chooseFolderMac.accesskey    "e">
+
+<!ENTITY isDefault.label                  "&brandShortName; ay ang iyong kasalukuyang ginagamit na browser.">
+
+

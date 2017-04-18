@@ -1,0 +1,63 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+<!ENTITY generalTab.label                "Pangkalahatan">
+
+<!ENTITY accessibility.label             "Accessibility">
+
+<!ENTITY useCursorNavigation.label       "Palagiang gamitin ang mga cursor key upang libutin ang mga pahina">
+<!ENTITY useCursorNavigation.accesskey   "c">
+
+
+<!ENTITY useAutoScroll.label             "Gamitin ang autoscrolling">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Gamitin ang maayos na pag-scroll">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+
+
+
+
+
+<!ENTITY networkTab.label                "Network">
+
+
+<!ENTITY connectionSettings.label        "Settings…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+<!ENTITY limitCacheSizeBefore.label      "Limit cache to">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ng espasyo">
+
+<!ENTITY updateTab.label                 "Pagsasangayon">
+
+<!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
+<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
+<!ENTITY updateManual.accesskey          "n">
+
+
+<!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY enableSearchUpdate.label        "Mga Search Engine">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Tanggalin…">
+<!ENTITY offlineAppsListRemove.accesskey "T">
+<!ENTITY offlineAppRemove.confirm        "Tanggalin ang naka-offline na datos">
+
