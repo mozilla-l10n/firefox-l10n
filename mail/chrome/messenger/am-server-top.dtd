@@ -67,7 +67,7 @@
 <!ENTITY maxMessagesStart.accesskey "ρ">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "μηνύματα">
-<!ENTITY alwaysAuthenticate.label "Να απαιτείται πάντα πιστοποίηση κατά τη σύνδεση με αυτόν τον εξυπηρετητή">
+<!ENTITY alwaysAuthenticate.label "Να απαιτείται πάντα πιστοποίηση κατά τη σύνδεση με αυτόν τον διακομιστή">
 <!ENTITY alwaysAuthenticate.accesskey "π">
 <!ENTITY newsrcFilePath.label "αρχείο newsrc:">
 <!ENTITY newsrcPicker.label "Επιλογή αρχείου newsrc">
