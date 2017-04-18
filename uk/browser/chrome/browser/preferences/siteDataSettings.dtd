@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Налаштування - Дані сайтів">
-<!ENTITY     settings.description          "Наступні веб-сайти запитують про збереження даних на вашому диску. Ви можете вказати, яким веб-сайтам дозволено зберігати дані. Типово, дані сайтів є тимчасовими і можуть бути видалені автоматично.">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Стан">
 <!ENTITY     usageCol.label                "Сховище">
-<!ENTITY     searchPlaceHolder             "Пошук">
-<!ENTITY     searchPlaceHolder.accesskey   "П">
 <!ENTITY     removeSelected.label          "Видалити вибрані">
 <!ENTITY     removeSelected.accesskey      "В">
 <!ENTITY     save.label                    "Зберегти зміни">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Скасувати">
 <!ENTITY     cancel.accesskey              "С">
 <!ENTITY     removingDialog.title          "Видалення даних сайтів">
-<!ENTITY     removingDialog.description    "При видаленні даних сайтів також будуть видалені куки. Це може призвести до виходу з веб-сайтів і видалення автономного веб-вмісту. Ви справді хочете зробити ці зміни?">
 <!ENTITY     siteTree.label                "Будуть видалені наступні куки веб-сайтів:">

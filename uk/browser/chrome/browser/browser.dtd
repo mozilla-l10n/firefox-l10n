@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Натисніть праву клавішу чи потягніть вниз, щоб показати історію вкладки">
 <!ENTITY backForwardButtonMenuMac.tooltip "Потягніть вниз, щоб показати історію вкладки">
 <!ENTITY reloadCmd.label              "Оновити">
-<!ENTITY reloadButton.tooltip         "Оновити поточну сторінку">
 <!ENTITY stopCmd.label                "Зупинити">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Зупинити завантаження поточної сторінки">
 <!ENTITY goEndCap.tooltip             "Перейти за адресою з панелі адреси">
 <!ENTITY printButton.label            "Друкувати">
 <!ENTITY printButton.tooltip          "Надрукувати поточну сторінку">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Скинути рівень масштабу">
-
 <!ENTITY searchItem.title             "Пошук">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Домівка">
 
 <!ENTITY bookmarksButton.label          "Закладки">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Докладніше про DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "Д">
+
+
+
