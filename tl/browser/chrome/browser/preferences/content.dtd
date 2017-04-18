@@ -2,25 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  blockPopups.label           "Harangin ang mga pop-up windows">
 <!ENTITY  blockPopups.accesskey       "H">
-
-
-
-
-
-
-
 
 
 <!ENTITY  popupExceptions.label       "Mga Exceptions...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 
-<!ENTITY  defaultFont.label           "Default font:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Sukat:">
-<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Advanced…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -34,9 +24,9 @@
 <!ENTITY chooseButton.label           "Choose…">
 <!ENTITY chooseButton.accesskey       "o">
 
-
 <!ENTITY translateExceptions.label    "Mga exceptions...">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -45,7 +35,5 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
-
-
 
 

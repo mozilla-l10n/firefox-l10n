@@ -43,17 +43,12 @@
 
 <!ENTITY updateTab.label                 "Pagsasangayon">
 
-<!ENTITY updateAuto1.label               "Kusang i-install ang mga update (inirerekomenda: pinabuting seguridad)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateManual.label              "Huwag kailanmang i-check para sa mga update (hindi inirerekomenda: mapanganib na seguridad)">
-<!ENTITY updateManual.accesskey          "n">
 
 
 <!ENTITY useService.label                "Gumamit ng background service upang i-install ang mga update">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "Mga Search Engine">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 
 <!ENTITY offlineAppsList.height          "7em">

@@ -149,11 +149,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Bumalik nang isang pahina">
 <!ENTITY forwardButton.tooltip        "Pumunta sa susunod na web page">
 <!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
-<!ENTITY reloadButton.tooltip         "I-reload ang kasalukuyang web page">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ihinto ang pagkakarga ng pahina">
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
-
 
 
 
@@ -163,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchItem.title             "Hanapin">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Home">
 
 <!ENTITY bookmarksCmd.commandkey "b">
@@ -547,6 +544,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
+
 
 
 
