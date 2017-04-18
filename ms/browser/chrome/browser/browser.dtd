@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel mesej kata laluan disimpan">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Urus kegunaan plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tukar pilihan samada anda boleh menerima notifikasi dari laman">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data Persistent Storage">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Urus perkongsian kamera dan/atau mikrofon anda dengan laman">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Urus perkongsian mikrofon anda dengan laman">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah menyekat maklumat lokasi untuk laman web ini.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah menyekat storan data untuk laman web ini.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah menyekat notifikasi untuk laman web ini.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah menghalang storan gigih untuk laman web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Papar sejarah">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync keutamaan">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Daftar masuk untuk papar senarai tab dari peranti anda yang lain.">
 <!ENTITY appMenuRemoteTabs.signin.label "Daftar masuk untuk Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Urus Peranti…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Papar Bar sisi Sync Tab">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tambah ke Bar Alat">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Buka Semua dalam Tab">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "S">
+<!ENTITY syncedTabs.context.managedevices.label              "Urus Peranti…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "P">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +901,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Kemaskini &brandShorterName anda; untuk kepantasan dan privasi terkini.">
+<!ENTITY updateAvailable.whatsnew.label "Lihat perkembangan terbaru.">
+<!ENTITY updateAvailable.header.message "Ada versi baru &brandShorterName; kemaskini tersedia.">
+<!ENTITY updateAvailable.acceptButton.label "Muat Turun Kemaskini">
+<!ENTITY updateAvailable.acceptButton.accesskey "M">
+<!ENTITY updateAvailable.cancelButton.label "Bukan Sekarang">
+<!ENTITY updateAvailable.cancelButton.accesskey "B">
+<!ENTITY updateAvailable.panelUI.label "Muat turun &brandShortName; kemaskini">
 
+<!ENTITY updateManual.message "Muat turun versi baru &brandShorterName; dan kami akan bantu anda untuk memasangnya.">
+<!ENTITY updateManual.whatsnew.label "Lihat perkembangan terbaru.">
+<!ENTITY updateManual.header.message "&brandShorterName; tidak dapat dikemaskini ke versi terbaru.">
+<!ENTITY updateManual.acceptButton.label "Muat turun &brandShortName;">
+<!ENTITY updateManual.acceptButton.accesskey "M">
+<!ENTITY updateManual.cancelButton.label "Bukan Sekarang">
+<!ENTITY updateManual.cancelButton.accesskey "B">
+<!ENTITY updateManual.panelUI.label "Muat turun veris baru &brandShorterName;">
 
+<!ENTITY updateRestart.message "Selepas mula semula, &brandShorterName; akan mengembalikan semua tab dan tetingkap yang anda buka.">
