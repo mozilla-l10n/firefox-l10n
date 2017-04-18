@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Samodejno osveži vsake 3 sekunde">
 <!ENTITY aboutNetworking.hostname              "Ime gostitelja">
 <!ENTITY aboutNetworking.port                  "Vrata">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktivno">
 <!ENTITY aboutNetworking.idle                  "Mirovanje">

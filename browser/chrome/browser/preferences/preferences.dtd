@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 53em; min-height: 42em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 41.5em;">
 
-<!ENTITY  paneGeneral.title       "Splošno">
-<!ENTITY  paneTabs.title          "Zavihki">
-<!ENTITY  paneSearch.title        "Iskanje">
-<!ENTITY  paneContent.title       "Vsebina">
-<!ENTITY  paneApplications.title  "Programi">
-<!ENTITY  panePrivacy.title       "Zasebnost">
-<!ENTITY  paneContainers.title    "Zavihki vsebnika">
-<!ENTITY  paneSecurity.title      "Varnost">
-<!ENTITY  paneAdvanced.title      "Napredno">
+<!ENTITY  paneGeneral.title             "Splošno">
+<!ENTITY  paneContainers.title          "Zavihki vsebnika">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Pomoč">
+
