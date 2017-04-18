@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Uzklikšķiniet ar labo taustiņu un pavelciet uz leju, lai redzētu vēsturi">
 <!ENTITY backForwardButtonMenuMac.tooltip "Pavelciet uz leju, lai redzētu vēsturi">
 <!ENTITY reloadCmd.label              "Pārlādēt">
-<!ENTITY reloadButton.tooltip         "Pārlādēt pašreizējo lapu">
 <!ENTITY stopCmd.label                "Apturēt">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Apturēt šīs lapas ielādi">
 <!ENTITY goEndCap.tooltip             "Pāriet uz adresi, kas redzama vietas joslā">
 <!ENTITY printButton.label            "Drukāt">
 <!ENTITY printButton.tooltip          "Drukāt šo lapu">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Atiestatīt palielinājumu">
-
 <!ENTITY searchItem.title             "Meklēt">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Sākumlapa">
 
 <!ENTITY bookmarksButton.label          "Grāmatzīmes">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Uzziniet vairāk par DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Automātiski atjaunināt katras 3 sekundes">
 <!ENTITY aboutNetworking.hostname              "Adrese">
 <!ENTITY aboutNetworking.port                  "Ports">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktīvs">
 <!ENTITY aboutNetworking.idle                  "Dīkstāvē">

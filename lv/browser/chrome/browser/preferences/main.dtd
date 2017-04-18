@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Palaišana">
 
-<!ENTITY startupPage.label         "Kad &brandShortName; tiek palaista:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "Rādīt mājas lapu">
 <!ENTITY startupBlankPage.label    "Parādīt tukšu lapu">
 <!ENTITY startupPrevSession.label  "Parādīt manus logus un cilnes no iepriekšējās reizes">
 
-<!ENTITY homepage.label            "Mājas lapa:">
-<!ENTITY homepage.accesskey        "M">
 <!ENTITY useCurrentPage.label      "Lietot pašreizējo lapu">
 <!ENTITY useCurrentPage.accesskey  "L">
 <!ENTITY useMultiple.label         "Lietot pašreizējās lapas">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Ļaut &brandShortName; un Firefox darboties vienlaicīgi">
 <!ENTITY useFirefoxSync.label             "Padoms: Šis izmanto atsevišķu profilu. Izmantojiet sinhronizāciju, lai apmainītos ar datiem, starp šiem profiliem.">
-<!ENTITY getStarted.label                 "Sākt sinhronizāciju…">
 
 <!ENTITY e10sEnabled.label                "Aktivizēt vairāku procesu &brandShortName;">
