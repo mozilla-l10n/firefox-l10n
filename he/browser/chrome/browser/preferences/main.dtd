@@ -36,5 +36,6 @@
 
 <!ENTITY separateProfileMode.label        "לאפשר ל־&brandShortName; ול־Firefox לרוץ במקביל">
 <!ENTITY useFirefoxSync.label             "טיפ: פעולה זו מתאפשרת תודות ליצירה של שני פרופילים נפרדים. ניתן להשתמש ב־Sync כדי לסנכרן נתונים בניהם.">
+<!ENTITY getStarted.notloggedin.label     "התחברות אל &syncBrand.shortName.label;…">
 
 <!ENTITY e10sEnabled.label                "הפעלת &brandShortName; במצב ריבוי תהליכים">
