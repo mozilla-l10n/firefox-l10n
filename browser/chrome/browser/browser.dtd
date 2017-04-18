@@ -895,5 +895,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "เรียนรู้เพิ่มเติมเกี่ยวกับ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.cancelButton.label "ไม่ใช่ตอนนี้">
 
+<!ENTITY updateManual.acceptButton.label "ดาวน์โหลด &brandShorterName;">
+<!ENTITY updateManual.cancelButton.label "ไม่ใช่ตอนนี้">
 
+<!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">

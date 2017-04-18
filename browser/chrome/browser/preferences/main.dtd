@@ -4,10 +4,12 @@
 
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
+<!ENTITY startupPage2.label        "เมื่อ &brandShortName; เริ่ม">
 <!ENTITY startupUserHomePage.label "แสดงหน้าแรกของคุณ">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
 <!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด">
 
+<!ENTITY homepage2.label           "หน้าแรก">
 <!ENTITY useCurrentPage.label      "ใช้หน้าปัจจุบัน">
 <!ENTITY useCurrentPage.accesskey  "ป">
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">

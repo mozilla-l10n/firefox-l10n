@@ -85,11 +85,14 @@
 
 <!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
 
+<!ENTITY updateHistory2.label            "แสดงประวัติการอัปเดต…">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
 
+<!ENTITY reports.label                   "รายงาน">
 
 <!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
 <!ENTITY offlineStorageNotify.accesskey           "T">
