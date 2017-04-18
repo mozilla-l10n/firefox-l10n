@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Öppna meddelandepanel för sparade lösenord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hantera plugins som används">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blockerat platsinformation för denna webbplats.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blockerat datalagring för denna webbplats.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blockerat notifieringar för denna webbsida.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blockerat beständig lagring för denna webbplats.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Visa historik">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synkroniseringsinställningar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logga in för att se en lista med flikar från dina andra enheter.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logga in till Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Hantera enheter…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Visa sidofält Synkade flikar">
 
 <!ENTITY customizeMenu.addToToolbar.label "Lägg till i verktygsfält">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Öppna allt i flikar">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "p">
+<!ENTITY syncedTabs.context.managedevices.label              "Hantera enheter…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "e">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Lär dig mer om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Uppdatera &brandShorterName; för det senaste inom hastighet och integritet.">
+<!ENTITY updateAvailable.whatsnew.label "Se vad som är nytt.">
+<!ENTITY updateAvailable.header.message "En ny &brandShorterName; uppdatering är tillgänglig.">
+<!ENTITY updateAvailable.acceptButton.label "Ladda ned uppdatering">
+<!ENTITY updateAvailable.acceptButton.accesskey "L">
+<!ENTITY updateAvailable.cancelButton.label "Inte nu">
+<!ENTITY updateAvailable.cancelButton.accesskey "n">
+<!ENTITY updateAvailable.panelUI.label "Ladda ner &brandShorterName; uppdatering">
 
+<!ENTITY updateManual.message "Ladda ner en ny kopia av &brandShorterName; och vi kommer att hjälpa dig att installera den.">
+<!ENTITY updateManual.whatsnew.label "Se vad som är nytt.">
+<!ENTITY updateManual.header.message "&brandShorterName; kan inte uppdateras till den senaste versionen.">
+<!ENTITY updateManual.acceptButton.label "Ladda ner &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "L">
+<!ENTITY updateManual.cancelButton.label "Inte nu">
+<!ENTITY updateManual.cancelButton.accesskey "n">
+<!ENTITY updateManual.panelUI.label "Ladda ner en ny kopia av &brandShorterName;">
 
+<!ENTITY updateRestart.message "Efter en snabb omstart, kommer &brandShorterName; att återställa alla dina öppna flikar och fönster.">
+<!ENTITY updateRestart.header.message "Starta om &brandShortName; för att installera uppdateringen.">
+<!ENTITY updateRestart.acceptButton.label "Starta om och återställ">
+<!ENTITY updateRestart.acceptButton.accesskey "S">
+<!ENTITY updateRestart.cancelButton.label "Inte nu">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label "Starta om &brandShortName; för att installera uppdateringen">
