@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "อนุญาตให้ &brandShortName; และ Firefox ทำงานพร้อมกัน">
 <!ENTITY useFirefoxSync.label             "เคล็ดลับ: สิ่งนี้ใช้โพรไฟล์แยก ใช้ Sync เพื่อแบ่งปันข้อมูลระหว่างกัน">
-<!ENTITY getStarted.label                 "เริ่มใช้งาน Sync…">
+<!ENTITY getStarted.notloggedin.label     "ลงชื่อเข้า &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "เปิดการตั้งค่า &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "เปิดใช้งาน &brandShortName; แบบหลายโพรเซส">
