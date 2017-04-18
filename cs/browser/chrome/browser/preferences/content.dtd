@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Písma a barvy">
 
-<!ENTITY  defaultFont.label           "Výchozí písmo:">
-<!ENTITY  defaultFont.accesskey       "p">
-<!ENTITY  defaultSize.label           "Velikost:">
-<!ENTITY  defaultSize.accesskey       "e">
 
 <!ENTITY  advancedFonts.label         "Rozšířené…">
 <!ENTITY  advancedFonts.accesskey     "o">
