@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Autouppdatera var 3 sekund">
 <!ENTITY aboutNetworking.hostname              "Värdnamn">
 <!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiv">
 <!ENTITY aboutNetworking.idle                  "Vilande">
