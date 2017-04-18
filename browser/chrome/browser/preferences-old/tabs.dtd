@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+
+
+
+
+
+
+
+
+<!ENTITY showTabsInTaskbar.label          "ୱିଣ୍ଡୋ କାର୍ଯ୍ୟପଟିରେ ଟ୍ୟାବ ପ୍ରାକଦର୍ଶନକୁ ଦର୍ଶାନ୍ତୁ">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "ଟ୍ଯାବଗୁଡ଼ିକ">
