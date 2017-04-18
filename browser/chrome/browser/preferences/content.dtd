@@ -15,10 +15,6 @@
 
 <!ENTITY  fontsAndColors.label        "Фонтови и бои">
 
-<!ENTITY  defaultFont.label           "Основен фонт:">
-<!ENTITY  defaultFont.accesskey       "ф">
-<!ENTITY  defaultSize.label           "Големина:">
-<!ENTITY  defaultSize.accesskey       "Г">
 
 <!ENTITY  advancedFonts.label         "Напредно…">
 <!ENTITY  advancedFonts.accesskey     "Н">

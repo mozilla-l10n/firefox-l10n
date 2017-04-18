@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Користи заштита од следење">
 
 <!ENTITY tracking.label                 "Следење">
 
@@ -39,8 +38,6 @@
 <!ENTITY  showCookies.label             "Прикажи ги колачињата…">
 <!ENTITY  showCookies.accesskey         "л">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "ќе ја памти историјата">
 <!ENTITY  historyHeader.dontremember.label "никогаш нема да ја памти историјата">
 <!ENTITY  historyHeader.custom.label       "ќе ги користи Вашите лични поставки за историјата">

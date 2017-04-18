@@ -4,12 +4,8 @@
 
 <!ENTITY startup.label             "Стартување">
 
-<!ENTITY startupPage.label         "Кога се стартува &brandShortName;:">
-<!ENTITY startupPage.accesskey     "с">
 <!ENTITY startupBlankPage.label    "Прикажи празна страница">
 
-<!ENTITY homepage.label            "Домашна страница:">
-<!ENTITY homepage.accesskey        "Д">
 <!ENTITY useCurrentPage.label      "Вчитана страница">
 <!ENTITY useCurrentPage.accesskey  "и">
 <!ENTITY useMultiple.label         "Сите вчитани">

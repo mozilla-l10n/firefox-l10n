@@ -191,10 +191,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Десен клик или повлечете надолу за да се прикаже историјата">
 <!ENTITY backForwardButtonMenuMac.tooltip "Повлечете надолу за да се прикаже историјата">
 <!ENTITY reloadCmd.label              "Превчитај">
-<!ENTITY reloadButton.tooltip         "Ја освежува вчитаната страница">
 <!ENTITY stopCmd.label                "Стоп">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Го запира вчитувањето на страницата">
 <!ENTITY goEndCap.tooltip             "Ја отвора адресата во локациската лента">
 <!ENTITY printButton.label            "Печати">
 <!ENTITY printButton.tooltip          "Ја печати оваа страница">
@@ -214,11 +212,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историја">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Ресетирај ниво на зум">
-
 <!ENTITY searchItem.title             "Пребарување">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Дома">
 
 <!ENTITY bookmarksButton.label          "Обележувачи">
@@ -733,6 +729,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "Ако продолжите:">
+
+
+
 
 
 

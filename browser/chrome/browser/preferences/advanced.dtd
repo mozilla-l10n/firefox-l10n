@@ -69,19 +69,12 @@
 
 <!ENTITY updateTab.label                 "Надградби">
 
-<!ENTITY updateAuto1.label               "Инсталирај надградби автоматски (препорачано: подобрена безбедност)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateManual.label              "Никогаш не проверувај (не се препорачува заради безбедност)">
-<!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateHistory.label             "Покажи историја на надградби">
-<!ENTITY updateHistory.accesskey         "о">
 
 <!ENTITY useService.label                "Користи позадински сервис за да се инсталираат надградби">
 <!ENTITY useService.accesskey            "б">
 
-<!ENTITY enableSearchUpdate.label        "Сервиси за пребарување">
-<!ENTITY enableSearchUpdate.accesskey    "е">
+
 
 <!ENTITY offlineStorageNotify.label               "Кажи ми кога мрежното место сака да складира податоци за локална употреба">
 
