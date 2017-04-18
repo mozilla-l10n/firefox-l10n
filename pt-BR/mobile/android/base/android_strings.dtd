@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Habilitadas">
 <!ENTITY pref_home_updates_wifi "Somente via Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página inicial">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Definir uma página inicial">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Abas personalizadas">
 <!ENTITY pref_custom_tabs_summary3 "Permitir que aplicativos abram sites usando uma versão personalizada do &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Habilitado">
 <!ENTITY pref_plugins_tap_to_play2 "Tocar para reproduzir">
 <!ENTITY pref_plugins_disabled "Desabilitado">
-<!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_restore_tabs "Restaurar abas">
 <!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar após sair do &brandShortName;">
-<!ENTITY pref_font_size_tiny "Mini">
-<!ENTITY pref_font_size_small "Pequeno">
-<!ENTITY pref_font_size_medium "Médio">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Gigante">
-<!ENTITY pref_font_size_set "Definir">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "A raposa laranja ultrapassa as expectativas com mais velocidade, flexibilidade e segurança. Como uma organização sem fins lucrativos, somos livres para inovar sem pressões ou compromissos. Isso significa uma melhor experiência para você e um futuro brilhante para a web.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
