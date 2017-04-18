@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Innstillinger - sidedata">
-<!ENTITY     settings.description          "De følgende nettsteder har bedt om å lagre nettstedsdata på disken. Du kan spesifisere hvilke nettsteder som har lov til å lagre nettstedsdata . Standard nettstedsdata er midlertidig og kan bli slettet automatisk.">
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">
-<!ENTITY     searchPlaceHolder             "Søk">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Fjern valgte">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Lagre endringer">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Avbryt">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Fjerner nettsidedata">
-<!ENTITY     removingDialog.description    "Fjerning av nettsteddata vil også fjerne infokapsler. Dette kan logge deg ut fra nettsider og fjerner frakoblet (offline) nett-innehold. Vil du utføre disse endringene?">
 <!ENTITY     siteTree.label                "Følgende nettstedsinfokapsler fjernes:">
