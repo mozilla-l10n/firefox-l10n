@@ -12,10 +12,6 @@
 <!ENTITY  popupExceptions.accesskey   "ຍ">
 
 
-<!ENTITY  defaultFont.label           "ຕົວອັກສອນພື້ນຖານ:">
-<!ENTITY  defaultFont.accesskey       "ຕ">
-<!ENTITY  defaultSize.label           "ຂະຫນາດ">
-<!ENTITY  defaultSize.accesskey       "ຂ">
 
 <!ENTITY  advancedFonts.label         "ຂັ້ນສູງ...">
 <!ENTITY  advancedFonts.accesskey     "ຂ">

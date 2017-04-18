@@ -4,12 +4,8 @@
 
 <!ENTITY startup.label             "ເລີ່ມເຮັດວຽກ">
 
-<!ENTITY startupPage.label         "ເມື່ອ &brandShortName; ເລີ່ມ:">
-<!ENTITY startupPage.accesskey     "ເ">
 <!ENTITY startupBlankPage.label    "ສະແດງຫນ້າເປົ່າ">
 
-<!ENTITY homepage.label            "ຫນ້າຫລັກ">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "ໃຊ້ ຫນ້າປະຈຸບັນ">
 <!ENTITY useCurrentPage.accesskey  "ຫ">
 <!ENTITY useMultiple.label         "ໃຊ້ຫນ້າປະຈຸບັນ">

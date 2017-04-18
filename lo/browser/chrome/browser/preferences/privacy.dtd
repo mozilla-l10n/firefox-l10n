@@ -3,47 +3,21 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-
-
 <!ENTITY tracking.label                 "ຕິດຕາມ">
-
-
-
-
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
-
 
 
 <!ENTITY  locationBar.label             "ແຖບທີ່ຢູ່">
 
 
 
-
-
-
-
-
-
-
-
-
 <!ENTITY  acceptCookies.label           "ຍອມຮັບຄຸກກີຈາກເວັບ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
 <!ENTITY  acceptThirdParty.always.label   "ຕະຫລອດເວລາ">
-
 <!ENTITY  acceptThirdParty.visited.label  "ຈາກການຢ້ຽມຊົມ">
-
 
 
 <!ENTITY  expire.label                  "ພວກມັນໝົດອາຍຸ">
@@ -55,18 +29,16 @@
 <!ENTITY  showCookies.label             "ສະແດງຄຸກກີ໊">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ຈະ:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ບັນທຶກປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.dontremember.label "ບໍ່ເຄີຍບັນທຶກປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.custom.label       "ໃຊ້ການຕັ້ງຄ່າຕາມໃຈສຳລັບປະຫວັດການໃຊ້ງານ">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ຈະຈື່ຜົນການຄົ້ນຫາ, ການດາວໂຫລດ, ແບບຟອມ ແລະ ປະຫວັດການຄົ້ນຫາ, ແລະ ຈະຮັກສາຄຸກກີ້ຈາກເວັບໄຊຕ໌ ທີ່ທ່ານຢ້ຽມຊົມ.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "ທ່ານອາດຕ້ອງການ">
 <!ENTITY  rememberActions.clearHistory.label  "ລົບປະຫວັດການໃຊ້ງານທີ່ຜ່ານມາ">
 <!ENTITY  rememberActions.middle.label        ", ຫຼື">
@@ -74,9 +46,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ຈະໃຊ້ການຕັ້ງຄ່າດຽວກັບການທ່ອງເວັບແບບສ່ວນຕົວ ແລະ ຈະບໍ່ເກັບບັນດາເວັບໄຊຕ໌ທີ່ເຄີຍເຂົ້າມາກ່ອນ.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "ທ່ານອາດຈະຕ້ອງການ">
 <!ENTITY  dontrememberActions.clearHistory.label "ລືບທຸກປະຫວັດການໃຊ້ງານທີ່ມີຢຸໃນປະຈູບັນນີ້">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -89,11 +61,6 @@
 
 <!ENTITY  rememberSearchForm.label       "ຈົດຈຳການຄົ້ນຫາ ແລະ ຮູບແບບປະຫວັດການໃຊ້ງານ">
 <!ENTITY  rememberSearchForm.accesskey   "f">
-
-
-
-
-
 
 
 
