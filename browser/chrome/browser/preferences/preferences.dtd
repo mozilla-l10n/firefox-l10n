@@ -13,10 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 58em; min-height: 40.5em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 55em; min-height: 46em;">
 
+<!ENTITY  paneSearchResults.title       "Hasil Carian">
 <!ENTITY  paneGeneral.title             "Umum">
+<!ENTITY  paneFilesApplications.title   "Fail &amp; Aplikasi">
+<!ENTITY  panePrivacySecurity.title     "Privasi &amp; Keselamatan">
 <!ENTITY  paneContainers.title          "Tab Penyimpan">
+<!ENTITY  paneUpdates.title             "Kemaskini">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Akaun Firefox">
 
 <!ENTITY  helpButton.label        "Bantuan">
 
+<!ENTITY searchInput.label        "Cari">

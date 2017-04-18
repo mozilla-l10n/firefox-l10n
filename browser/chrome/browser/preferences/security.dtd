@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Keselamatan">
 
 <!ENTITY  warnOnAddonInstall.label        "Beri amaran apabila laman cuba memasang add-ons">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
@@ -23,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "Borang &amp; Kata laluan">
 
+<!ENTITY  rememberLogins1.label          "Ingati log masuk dan kata laluan bagi laman">
+<!ENTITY  rememberLogins1.accesskey      "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "g">
 

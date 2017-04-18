@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Perlindungan Penjejakan">
+<!ENTITY  trackingProtection.description       "Penjejakan ialah apabila syarikat mengumpulkan maklumat anda untuk membina profil dan kandungan paparan berdasarkan data pelayaran dan data peribadi anda.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Sekat syarikat penjejak yang diketahui daripada memaparkan kandungan">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
+<!ENTITY  locbar.suggest2.label         "Semasa menggunakan bar lokasi, cadang">
 <!ENTITY  locbar.history.label          "Sejarah">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Tandabuku">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Carian berkaitan dari enjin carian piawai">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Tukar keutamaan bagi cadangan enjin carian">
 
 <!ENTITY  acceptCookies.label           "Terima kuki dari laman">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Papar Kuki…">
 <!ENTITY  showCookies.accesskey         "P">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; akan">
+<!ENTITY  historyHeader2.pre.accesskey     "a">
 <!ENTITY  historyHeader.remember.label     "Ingat sejarah">
 <!ENTITY  historyHeader.dontremember.label "Jangan ingat sejarah">
 <!ENTITY  historyHeader.custom.label       "Guna tetapan penyesuaian untuk sejarah">
