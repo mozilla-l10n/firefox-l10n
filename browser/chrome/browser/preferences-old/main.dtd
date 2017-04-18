@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "શરૂઆત">
+
+<!ENTITY startupPage.label         "જ્યારે &brandShortName; શરૂ થાય:">
+<!ENTITY startupPage.accesskey     "s">
+
+<!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
+
+
+<!ENTITY homepage.label            "ઘર પાનું:">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
+<!ENTITY useCurrentPage.accesskey  "C">
+<!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
+<!ENTITY chooseBookmark.label      "બુકમાર્ક વાપરો…">
+<!ENTITY chooseBookmark.accesskey  "B">
+<!ENTITY restoreDefault.label      "મૂળભૂતમાં પુનઃસંગ્રહો">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "ડાઉનલોડ">
+
+<!ENTITY saveTo.label "ફાઈલોને આમાં સંગ્રહો">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "બ્રાઉઝ કરો...">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "પસંદ કરો...">
+<!ENTITY chooseFolderMac.accesskey    "e">
+
+
+
+
+
+
+
+
+
+
+
+
