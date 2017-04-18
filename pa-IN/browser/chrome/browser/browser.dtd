@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਸੱਜਾ ਕਲਿੱਕ ਕਰੋ ਜਾਂ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ਅਤੀਤ ਵੇਖਣ ਲਈ ਹੇਠਾਂ ਖਿੱਚੋ">
 <!ENTITY reloadCmd.label              "ਮੁੜ ਲੋਡ ਕਰੋ">
-<!ENTITY reloadButton.tooltip         "ਮੌਜੂਦਾ ਸਫ਼ਾ ਨੂੰ ਮੁੜ ਲੋਡ ਕਰੋ">
 <!ENTITY stopCmd.label                "ਰੋਕੋ">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ਇਸ ਸਫ਼ੇ ਨੂੰ ਲੋਡ ਹੋਣ ਤੋਂ ਰੋਕੋ">
 <!ENTITY goEndCap.tooltip             "ਟਿਕਾਣਾ ਬਾਰ ਵਿੱਚ ਦਿੱਤੇ ਐਡਰੈੱਸ 'ਤੇ ਜਾਓ">
 <!ENTITY printButton.label            "ਪਰਿੰਟ ਕਰੋ">
 <!ENTITY printButton.tooltip          "ਇਹ ਸਫ਼ੇ ਨੂੰ ਪਰਿੰਟ ਕਰੋ">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ਅਤੀਤ ਨੂੰ ਵੇਖੋ">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Reset zoom level">
-
 <!ENTITY searchItem.title             "ਖੋਜ">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "ਘਰ">
 
 <!ENTITY bookmarksButton.label          "ਬੁੱਕਮਾਰਕ">
@@ -746,7 +742,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "ਇਜਾਜ਼ਤਾਂ">
 <!ENTITY identity.permissionsEmpty "ਤੁਸੀਂ ਇਸ ਸਾਈਟ ਲਈ ਕੋਈ ਖਾਸ ਇਜਾਜ਼ਤਾਂ ਨਹੀਂ ਦਿੱਤੀਆਂ ਹਨ।">
-
 <!ENTITY identity.permissionsReloadHint "You may need to reload the page for changes to apply.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -768,6 +763,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਨੂੰ ਵੇਖਣ ਲਈ ਟੈਬ ਸਿੰਕ ਨੂੰ ਚਾਲੂ ਕਰੋ।">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "ਖੋਲ੍ਹੋ">
 <!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "ਨਵੀਂ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
@@ -783,6 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Open All in Tabs">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+
 
 <!ENTITY syncBrand.shortName.label    "ਸਿੰਕ">
 
@@ -896,3 +896,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "…DRM ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

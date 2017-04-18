@@ -19,13 +19,10 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ਡਿਵਾਈਸ ਨਾਂ">
-<!ENTITY changeSyncDeviceName.label "…ਡਿਵਾਈਸ ਦਾ ਨਾਂ ਬਦਲੋ">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ਰੱਦ ਕਰੋ">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "ਸੰਭਾਲੋ">
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
-
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "ਸੇਵਾ ਦੀਆਂ ਸ਼ਰਤਾਂ">
@@ -53,13 +50,10 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ਪਰੋਫਾਈਲ ਤਸਵੀਰ ਨੂੰ ਬਦਲੋ">
 <!ENTITY verifiedManage.label        "ਖਾਤੇ ਦਾ ਪਰਬੰਧ ਕਰੋ">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "…ਡਿਸ-ਕੁਨੈਕਟ">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ਈਮੇਲ ਜਾਂਚ">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ਇਹ ਈਮੇਲ ਭੁੱਲ ਜਾਓ">
 <!ENTITY forget.accesskey            "F">
-
 
 <!ENTITY signedOut.caption            "ਆਪਣੇ ਵੈੱਬ ਨੂੰ ਆਪਣੇ ਨਾਲ ਲੈ ਜਾਓ">
 <!ENTITY signedOut.description        "ਆਪਣੇ ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਉੱਤੇ ਆਪਣੇ ਬੁੱਕਮਾਰਕਾਂ, ਅਤੀਤ, ਟੈਬਾਂ, ਪਾਸਵਰਡਾਂ, ਐਡ-ਆਨ ਅਤੇ ਪਸੰਦਾਂ ਨੂੰ ਸੈਕਰੋਨਾਈਜ਼ ਕਰੋ।">
@@ -69,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "ਸਾਈਨ ਇਨ">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "ਸਾਰੇ ਡਿਵਾਈਸਾਂ ਨਾਲ ਸਿੰਕ ਕਰੋ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
