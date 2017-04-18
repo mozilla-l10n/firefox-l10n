@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Spårningsskydd">
+<!ENTITY  trackingProtection.description       "Spårning är när företag samlar in information om dig för att bygga en profil och visa innehåll baserat på din surfning och personuppgifter.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blockera kända spårningsföretag från att visa innehåll">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "i">
 <!ENTITY  trackingProtectionPrivate.label      "Bara i privata fönster">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Adressfältet">
 
+<!ENTITY  locbar.suggest2.label         "När du använder adressfältet, föreslå">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmärken">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Relaterade sökningar från standardsökmotor">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Ändra inställningar för förslag från sökmotorn">
 
 <!ENTITY  acceptCookies.label           "Tillåt att webbplatser lagrar kakor">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Visa kakor…">
 <!ENTITY  showCookies.accesskey         "V">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; kommer att">
+<!ENTITY  historyHeader2.pre.accesskey     "m">
 <!ENTITY  historyHeader.remember.label     "Spara historik">
 <!ENTITY  historyHeader.dontremember.label "Inte spara någon historik">
 <!ENTITY  historyHeader.custom.label       "Använda anpassade inställningar för historik">
