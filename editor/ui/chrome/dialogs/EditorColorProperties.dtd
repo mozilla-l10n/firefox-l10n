@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Εικόνα φόντου:">
 <!ENTITY backgroundImage.accessKey "κ">
 <!ENTITY backgroundImage.tooltip "Χρήση αρχείου εικόνας ως φόντο για τη σελίδα">
+<!ENTITY backgroundImage.shortenedDataURI "Σύντομα δεδομένα URI (η αντιγραφή θα τοποθετήσει το πλήρες URI στο πρόχειρο)">

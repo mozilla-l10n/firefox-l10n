@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "σ">
 <!ENTITY maximumConnectionsNumber.label "Μέγιστος αριθμός συνδέσεων διακομιστή στην cache">
 <!ENTITY maximumConnectionsNumber.accesskey "Μ">
+<!ENTITY forceSelect.label "Αποστολή IMAP select στον διακομιστή κατά τον έλεγχο νέας αλληλογραφίας">
+<!ENTITY forceSelect.tooltip "Ορισμένοι διακομιστές απαιτούν ένα πρόσθετο IMAP select ώστε να λαμβάνεται η νέα αλληλογραφία με αξιοπιστία ή να εμφανίζεται ως αναγνωσμένη αφού τα μηνύματα έχουν αναγνωστεί σε άλλη συσκευή. Η ενεργοποίηση της επιλογής αυτής θα προκαλέσει κάποια αυξημένη κίνηση στο δίκτυο.">
+<!ENTITY forceSelect.accesskey "Φ">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Αυτές οι προτιμήσεις καθορίζουν τα namespaces στον διακομιστή IMAP">
 <!ENTITY personalNamespace.label "Προσωπικό namespace:">
