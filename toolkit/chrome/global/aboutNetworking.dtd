@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "ਹਰ 3 ਸਕਿੰਟ ਬਾਅਦ ਆਪਣੇ-ਆਪ ਤਾਜ਼ਾ">
 <!ENTITY aboutNetworking.hostname              "ਹੋਸਟ-ਨਾਂ">
 <!ENTITY aboutNetworking.port                  "ਪੋਰਟ">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ਸਰਗਰਮ">
 <!ENTITY aboutNetworking.idle                  "ਵੇਹਲਾ">

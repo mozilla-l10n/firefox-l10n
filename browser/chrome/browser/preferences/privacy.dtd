@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ਟਰੈਕ ਹੋਣ ਤੋਂ ਸੁਰੱਖਿਆ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY  trackingProtectionAlways.label       "ਹਮੇਸ਼ਾ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "ਟਿਕਾਣਾ ਪੱਟੀ">
 
-<!ENTITY  locbar.suggest.label          "ਜਦੋਂ ਟਿਕਾਣਾ ਪੱਟੀ ਵਰਤੀ ਜਾਂਦੀ ਹੈ ਤਾਂ ਸੁਝਾਅ ਦਿਉ:">
 <!ENTITY  locbar.history.label          "ਅਤੀਤ">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ਬੁੱਕਮਾਰਕ">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "ਡਿਫਾਲਟ ਖੋਜ ਇੰਜਣ ਤੋਂ ਸੰਬੰਧਿਤ ਖੋਜਾਂ">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "ਖੋਜ ਇੰਜਣ ਸੁਝਾਆਵਾਂ ਲਈ ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ਸਾਈਟਾਂ ਤੋਂ ਕੂਕੀਜ਼ ਮਨਜ਼ੂਰ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ਯਾਦ ਰੱਖੇਗਾ:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "ਅਤੀਤ">
 <!ENTITY  historyHeader.dontremember.label "ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖੋ">
 <!ENTITY  historyHeader.custom.label       "ਅਤੀਤ ਲਈ ਕਸਟਮ ਸੈਟਿੰਗ ਵਰਤੋਂ">

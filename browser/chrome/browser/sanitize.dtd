@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY sanitizePrefs2.title          "ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰਨ ਲਈ ਸੈਟਿੰਗ">
 <!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
      Should be large enough to contain the item* strings on a single line.
@@ -35,8 +36,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "ਖੋਲ੍ਹਣ ਦਾ ਮਿਤੀ">
-<!ENTITY clearTimeDuration.nameColumn     "ਨਾਂ">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -47,9 +46,6 @@ that require it.  -->
 <!ENTITY historySection.label         "ਅਤੀਤ">
 <!ENTITY dataSection.label            "ਮਿਤੀ">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "ਬਰਾਊਜ਼ਿੰਗ ਅਤੇ ਡਾਊਨਲੋਡ ਅਤੀਤ">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "ਫਾਰਮ ਅਤੇ ਖੋਜ ਅਤੀਤ">
