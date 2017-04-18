@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Auto-oppdater kvart 3. sekund">
 <!ENTITY aboutNetworking.hostname              "Vertsnamn">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiv">
 <!ENTITY aboutNetworking.idle                  "Uverksam">
