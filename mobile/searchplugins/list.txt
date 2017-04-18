@@ -1,7 +1,0 @@
-bing
-bolcom-nl
-duckduckgo
-google
-twitter
-wikipedia-nl
-yahoo
