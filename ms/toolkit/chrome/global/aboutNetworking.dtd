@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Segarkan secara automatik setiap 3 saat">
 <!ENTITY aboutNetworking.hostname              "Nama hos">
 <!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktif">
 <!ENTITY aboutNetworking.idle                  "Melahu">
