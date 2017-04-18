@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Iestatījumi - Lapas dati">
-<!ENTITY     settings.description          "Zemāk norādītās mājas lapas ir lūgušas iespēju saglabāt datus jūsu datorā. Jūs varat izvēlēties, kurām lapām ļaut saglabāt datus jūsu datorā. Noklusētie lapas dati ir pagaidu un var tikt automātiski izdzēsti.">
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     usageCol.label                "Krātuve">
-<!ENTITY     searchPlaceHolder             "Meklēt">
-<!ENTITY     searchPlaceHolder.accesskey   "M">
 <!ENTITY     removeSelected.label          "Izņemt izvēlēto">
 <!ENTITY     removeSelected.accesskey      "I">
 <!ENTITY     save.label                    "Saglabāt izmaiņas">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Atcelt">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Noņem vietņu datus">
-<!ENTITY     removingDialog.description    "Vietņu datu noņemšana noņems arī sīkdatnes. Tas var pārtraukt jūsu autorizētās sesijas dažās lapās, kā arī nesaistes dati nebūs pieejami. Vai tiešām vēlaties veikt izmaiņas?">
 <!ENTITY     siteTree.label                "Tiks noņemtas sekojošu lapu sīkdatnes:">

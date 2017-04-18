@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Atjaunināt">
 
 <!ENTITY updateApplication.label         "&brandShortName; atjauninājumi">
-<!ENTITY updateAuto1.label               "Instalēt atjauninājumus automātiski (ieteicams: uzlabo drošību)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheckChoose.label         "Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos">
-<!ENTITY updateCheckChoose.accesskey     "P">
-<!ENTITY updateManual.label              "Nepārbaudīt atjauninājumu pieejamību (nav ieteicams: drošības risks)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Parādīt atjauninājumu vēsturi">
-<!ENTITY updateHistory.accesskey         "P">
 
 <!ENTITY useService.label                "Instalēt atjauninājumus fonā">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY autoUpdateOthers.label          "Atjaunināt automātiski">
-<!ENTITY enableSearchUpdate.label        "Meklētājus">
-<!ENTITY enableSearchUpdate.accesskey    "l">
+
 
 <!ENTITY offlineStorageNotify.label               "Ziņot man, kad mājas lapa grib saglabāt datus izmantošanai nesaistē">
 <!ENTITY offlineStorageNotify.accesskey           "Z">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Aizvākt nesaistes datus">
 
 <!ENTITY certificateTab.label            "Sertifikāti">
-<!ENTITY certPersonal.label              "Pieprasījumi">
-<!ENTITY certPersonal.description        "Kad serveris pieprasa manu personīgo sertifikātu:">
 <!ENTITY selectCerts.auto                "Izvēlēties automātiski">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Katru reizi jautāt man">

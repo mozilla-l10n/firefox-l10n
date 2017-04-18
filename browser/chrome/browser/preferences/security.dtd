@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Vispārīgie">
 
 <!ENTITY  warnOnAddonInstall.label        "Brīdināt mani, ja lapas mēģina instalēt papildinājumus">
 <!ENTITY  warnOnAddonInstall.accesskey    "B">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
-<!ENTITY  logins.label                  "Lietotājvārds">
 
-<!ENTITY  rememberLogins.label          "Atcerēties lapu paroles">
-<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Izņēmumi...">
 <!ENTITY  passwordExceptions.accesskey  "z">
 

@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 55em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
-<!ENTITY  paneGeneral.title       "Galvenie">
-<!ENTITY  paneTabs.title          "Cilnes">
-<!ENTITY  paneSearch.title        "Meklēšana">
-<!ENTITY  paneContent.title       "Saturs">
-<!ENTITY  paneApplications.title  "Programmas">
-<!ENTITY  panePrivacy.title       "Privātums">
-<!ENTITY  paneContainers.title    "Saturošās cilnes">
-<!ENTITY  paneSecurity.title      "Drošība">
-<!ENTITY  paneAdvanced.title      "Papildu">
+<!ENTITY  paneGeneral.title             "Galvenie">
+<!ENTITY  paneContainers.title          "Saturošās cilnes">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Palīdzība">
+
