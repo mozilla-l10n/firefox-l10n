@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
-<!ENTITY changeSyncDeviceName.label "Cihaz adını değiştir…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "İptal">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Kaydet">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
 <!ENTITY verifiedManage.label        "Hesabı yönet">
 <!ENTITY verifiedManage.accesskey    "H">
-<!ENTITY disconnect.label            "Bağlantıyı kes…">
-<!ENTITY disconnect.accesskey        "B">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY verify.accesskey            "d">
 <!ENTITY forget.label                "Bu e-postayı unut">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Giriş yap">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Bunları tüm cihazlarımda eşitle">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
