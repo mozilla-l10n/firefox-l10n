@@ -23,7 +23,7 @@
 
 <!ENTITY firstrun_tabqueue_title "Посилання">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
-<!ENTITY firstrun_tabqueue_message_off "Увімкнути чергу вкладок">
+<!ENTITY firstrun_tabqueue_message_off "Увімкніть чергу вкладок">
 <!ENTITY firstrun_tabqueue_subtext_off "Зберігайте посилання на потім в &brandShortName; при відкритті їх з інших програм.">
 
 <!ENTITY firstrun_tabqueue_message_on "Успішно!">
@@ -31,11 +31,11 @@
 
 <!ENTITY firstrun_readerview_title "Статті">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
-<!ENTITY firstrun_readerview_message "Прибрати сміття">
+<!ENTITY firstrun_readerview_message "Позбавтеся зайвого">
 <!ENTITY firstrun_readerview_subtext "Використовуйте режим читання, щоб зробити статті приємнішими для читання \u2014 навіть в автономному режимі.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
-<!ENTITY firstrun_account_title "Ваш">
+<!ENTITY firstrun_account_title "Ви">
 <!ENTITY firstrun_account_message "Маєте &brandShortName; на іншому пристрої?">
 
 <!ENTITY  onboard_start_restricted1 "Залишайтеся в безпеці та на контролі з цією спрощеною версією &brandShortName;.">
@@ -308,7 +308,7 @@
 <!ENTITY tab_queue_prompt_tip_text2 "Ви можете пізніше змінити це в налаштуваннях">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Увімкнути дозвіл перетягування над іншими програмами">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Увімкніть дозвіл показувати вікна поверх інших програм">
 <!ENTITY tab_queue_prompt_positive_action_button "Увімкнути">
 <!ENTITY tab_queue_prompt_negative_action_button "Не зараз">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
