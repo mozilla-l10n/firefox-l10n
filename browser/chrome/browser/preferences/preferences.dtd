@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 49em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Üldine">
-<!ENTITY  paneTabs.title          "Kaardid">
-<!ENTITY  paneSearch.title        "Otsing">
-<!ENTITY  paneContent.title       "Sisu">
-<!ENTITY  paneApplications.title  "Rakendused">
-<!ENTITY  panePrivacy.title       "Privaatsus">
-<!ENTITY  paneContainers.title    "Konteinerkaardid">
-<!ENTITY  paneSecurity.title      "Turvalisus">
-<!ENTITY  paneAdvanced.title      "Muud">
+<!ENTITY  paneGeneral.title             "Üldine">
+<!ENTITY  paneContainers.title          "Konteinerkaardid">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Abi">
+

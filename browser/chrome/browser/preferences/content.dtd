@@ -2,45 +2,41 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label              "Hüpikaknad">
+<!ENTITY  popups.label                "Hüpikaknad">
 
-<!ENTITY blockPopups.label          "Hüpikaknad blokitakse">
-<!ENTITY blockPopups.accesskey      "H">
+<!ENTITY  blockPopups.label           "Hüpikaknad blokitakse">
+<!ENTITY  blockPopups.accesskey       "H">
 
-<!ENTITY  notificationsPolicy.label "Teavitused">
-<!ENTITY  notificationsPolicyLearnMore.label "Rohkem teavet">
-<!ENTITY  notificationsPolicyDesc3.label "Vali, millised saidid võivad teavitusi saata">
-<!ENTITY  notificationsPolicyButton.accesskey "a">
-<!ENTITY  notificationsPolicyButton.label "Vali…">
-<!ENTITY  notificationsDoNotDisturb.label "Keela teavitused ajutiselt">
+<!ENTITY  notificationsPolicy.label            "Teavitused">
+<!ENTITY  notificationsPolicyLearnMore.label   "Rohkem teavet">
+<!ENTITY  notificationsPolicyDesc3.label       "Vali, millised saidid võivad teavitusi saata">
+<!ENTITY  notificationsPolicyButton.accesskey  "a">
+<!ENTITY  notificationsPolicyButton.label      "Vali…">
+<!ENTITY  notificationsDoNotDisturb.label      "Keela teavitused ajutiselt">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "K">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; taaskäivitamiseni teavitusi ei kuvata">
 
-<!ENTITY popupExceptions.label      "Erandid…">
-<!ENTITY popupExceptions.accesskey  "E">
+<!ENTITY  popupExceptions.label       "Erandid…">
+<!ENTITY  popupExceptions.accesskey   "E">
 
-<!ENTITY fontsAndColors.label       "Fondid ja värvid">
-
-<!ENTITY defaultFont.label          "Vaikimisi font:">
-<!ENTITY defaultFont.accesskey      "V">
-<!ENTITY defaultSize.label          "Suurus:">
-<!ENTITY defaultSize.accesskey      "r">
-
-<!ENTITY advancedFonts.label        "Täpsemalt…">
-<!ENTITY advancedFonts.accesskey    "l">
-
-<!ENTITY colors.label               "Värvid…">
-<!ENTITY colors.accesskey           "d">
+<!ENTITY  fontsAndColors.label        "Fondid ja värvid">
 
 
-<!ENTITY languages.label            "Keeled">
-<!ENTITY chooseLanguage.label       "Vali oma eelistatud keel veebilehtede kuvamiseks">
-<!ENTITY chooseButton.label         "Vali…">
-<!ENTITY chooseButton.accesskey     "i">
+<!ENTITY  advancedFonts.label         "Täpsemalt…">
+<!ENTITY  advancedFonts.accesskey     "l">
 
-<!ENTITY translateWebPages.label    "Lubatakse veebisisu tõlkimine">
-<!ENTITY translateWebPages.accesskey "t">
-<!ENTITY translateExceptions.label  "Erandid…">
+<!ENTITY  colors.label                "Värvid…">
+<!ENTITY  colors.accesskey            "d">
+
+
+<!ENTITY languages.label              "Keeled">
+<!ENTITY chooseLanguage.label         "Vali oma eelistatud keel veebilehtede kuvamiseks">
+<!ENTITY chooseButton.label           "Vali…">
+<!ENTITY chooseButton.accesskey       "i">
+
+<!ENTITY translateWebPages.label      "Lubatakse veebisisu tõlkimine">
+<!ENTITY translateWebPages.accesskey  "t">
+<!ENTITY translateExceptions.label    "Erandid…">
 <!ENTITY translateExceptions.accesskey "n">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
@@ -53,8 +49,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tõlkijaks on">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label               "DRM-sisu">
+<!ENTITY  drmContent.label             "DRM-sisu">
 
-<!ENTITY  playDRMContent.label           "DRM-sisu esitamine lubatakse">
-<!ENTITY  playDRMContent.accesskey       "M">
+<!ENTITY  playDRMContent.label         "DRM-sisu esitamine lubatakse">
+<!ENTITY  playDRMContent.accesskey     "M">
 <!ENTITY  playDRMContent.learnMore.label "Rohkem teavet">

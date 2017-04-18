@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Sätted - saidi andmed">
-<!ENTITY     settings.description          "Järgnevad saidid küsisid luba oma andmete salvestamiseks sinu kõvakettal. Sul on võimalik määrata, millistel saitidel on selliste andmete salvestamine lubatud. Vaikimisi salvestatakse sellised andmed ajutiselt ja need võidakse automaatselt kustutada.">
 <!ENTITY     hostCol.label                 "Sait">
 <!ENTITY     statusCol.label               "Olek">
 <!ENTITY     usageCol.label                "Kasutus">

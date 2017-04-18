@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Uuendamine">
 
 <!ENTITY updateApplication.label         "&brandShortName;i uuendused">
-<!ENTITY updateAuto1.label               "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
-<!ENTITY updateAuto1.accesskey           "e">
-<!ENTITY updateCheckChoose.label         "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
-<!ENTITY updateCheckChoose.accesskey     "o">
-<!ENTITY updateManual.label              "Uuenduste olemasolu ei kontrollita (pole soovitatav: turvarisk)">
-<!ENTITY updateManual.accesskey          "U">
 
-<!ENTITY updateHistory.label             "Näita uuenduste ajalugu">
-<!ENTITY updateHistory.accesskey         "j">
 
 <!ENTITY useService.label                "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey            "d">
 
-<!ENTITY autoUpdateOthers.label          "Automaatne uuendamine">
-<!ENTITY enableSearchUpdate.label        "Otsingumootorid">
-<!ENTITY enableSearchUpdate.accesskey    "O">
+
 
 <!ENTITY offlineStorageNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
 <!ENTITY offlineStorageNotify.accesskey           "o">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Eemalda võrguta kasutatavad andmed">
 
 <!ENTITY certificateTab.label            "Sertifikaadid">
-<!ENTITY certPersonal.label              "Nõuded">
-<!ENTITY certPersonal.description        "Kui server nõuab kasutaja isiklikku sertifikaati:">
 <!ENTITY selectCerts.auto                "valitakse üks automaatselt">
 <!ENTITY selectCerts.auto.accesskey      "v">
 <!ENTITY selectCerts.ask                 "küsitakse iga kord">
