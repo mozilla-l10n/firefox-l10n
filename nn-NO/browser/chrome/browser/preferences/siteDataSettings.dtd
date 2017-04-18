@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Innstillningar - nettsidedata">
-<!ENTITY     settings.description          "Følgjande nettsider har spurt om å lagre nettsidedata på disken din. Du kan spesifisere kva for nettsider som får lagre nettsidedata. Standard for nettsidedata er mellombels og kan slettast automatisk.">
 <!ENTITY     hostCol.label                 "Nettside">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">
-<!ENTITY     searchPlaceHolder             "Søk">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Fjern valde">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Lagre endringar">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Avbryt">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Fjernar sidedata">
-<!ENTITY     removingDialog.description    "Fjerning af nettstaddata vil også fjerne infokapsøar. Dette kan logge deg ut frå nettstadar og fjerne fråkopla (offline) nettinnhald. Vil du utføre desse endringane?">
 <!ENTITY     siteTree.label                "Følgjande nettstadinfokapslar vert fjerna:">

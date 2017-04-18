@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Oppdatering">
 
 <!ENTITY updateApplication.label         "&brandShortName;-oppdateringar">
-<!ENTITY updateAuto1.label               "Automatisk installer oppdateringar (tilrådd: betre tryggleik)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Sjå etter oppdateringar, men la meg velje når eg vil installere dei">
-<!ENTITY updateCheckChoose.accesskey     "S">
-<!ENTITY updateManual.label              "Aldri sjå etter oppdateringar (ikkje tilrådd: tryggingsrisiko)">
-<!ENTITY updateManual.accesskey          "d">
 
-<!ENTITY updateHistory.label             "Vis oppdateringshistorikk">
-<!ENTITY updateHistory.accesskey         "V">
 
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
-<!ENTITY autoUpdateOthers.label          "Automatisk oppdatering">
-<!ENTITY enableSearchUpdate.label        "Søkemotorar">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+
 
 <!ENTITY offlineStorageNotify.label               "Fortel meg når ein nettstad ber om å lagre data for fråkopla bruk">
 <!ENTITY offlineStorageNotify.accesskey           "F">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Slett fråkopla-data">
 
 <!ENTITY certificateTab.label            "Sertifikat">
-<!ENTITY certPersonal.label              "Førespurnadar">
-<!ENTITY certPersonal.description        "Når ein nettstad ber om det personlege sertifikatet ditt:">
 <!ENTITY selectCerts.auto                "Vel eit automastisk">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Spør kvar gong">

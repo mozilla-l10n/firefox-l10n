@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Bruk sporingsvern">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Berre i private vindauge">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.suggest.label          "Når du brukar adresselinja, føreslå:">
 <!ENTITY  locbar.history.label          "Historikk">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmerke">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Liknande søk frå standardsøkemotoren">
 <!ENTITY  locbar.searches.accesskey     "L">
 
-<!ENTITY  suggestionSettings.label      "Endre innstillingar for forslag frå søkemotoren…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Tillat infokapslar">
 <!ENTITY  acceptCookies.accesskey       "T">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Vis infokapslar…">
 <!ENTITY  showCookies.accesskey         "V">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; skal:">
-<!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Hugse historikk">
 <!ENTITY  historyHeader.dontremember.label "Aldri hugse historikk">
 <!ENTITY  historyHeader.custom.label       "Bruke eigne innstillingar for historikk">
