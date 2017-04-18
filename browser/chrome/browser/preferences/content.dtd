@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Fuentes y colores">
 
-<!ENTITY  defaultFont.label           "Fuente por defecto:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Tamaño:">
-<!ENTITY  defaultSize.accesskey       "T">
 
 <!ENTITY  advancedFonts.label         "Avanzado…">
 <!ENTITY  advancedFonts.accesskey     "z">

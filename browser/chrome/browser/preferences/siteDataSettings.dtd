@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Configuración - Datos del sitio">
-<!ENTITY     settings.description          "Los siguientes sitios web pidieron guardar datos en el disco. Se puede especificar que sitios tienen permitido guardar datos. Los datos de sitio por defecto son temporales y pueden borrarse automáticamente.">
 <!ENTITY     hostCol.label                 "Sitio">
 <!ENTITY     statusCol.label               "Estado">
 <!ENTITY     usageCol.label                "Almacenamiento">
-<!ENTITY     searchPlaceHolder             "Buscar">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Eliminar seleccionados">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Guardar cambios">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Cancelar">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Eliminar datos del sitio">
-<!ENTITY     removingDialog.description    "Eliminar datos del sitio también eliminará cookies. Esto puede cerrar la sesión de sitios web y eliminar el contenido web sin conexión. ¿Está seguro que querer realizar los cambios?">
 <!ENTITY     siteTree.label                "Se eliminarán cookies de los siguientes sitios web:">

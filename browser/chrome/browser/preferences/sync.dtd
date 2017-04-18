@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nombre de dispositivo">
-<!ENTITY changeSyncDeviceName.label "Cambiar nombre de dispositivo…">
-<!ENTITY changeSyncDeviceName.accesskey "b">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cambiar imagen de perfil">
 <!ENTITY verifiedManage.label        "Administrar cuenta">
 <!ENTITY verifiedManage.accesskey    "u">
-<!ENTITY disconnect.label            "Desconectar…">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verificar correo">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Olvidar este correo">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Ingresar">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sincronizar todos los dispositivos">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
