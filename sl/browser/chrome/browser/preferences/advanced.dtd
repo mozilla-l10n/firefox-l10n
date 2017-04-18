@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Posodobitve">
 
 <!ENTITY updateApplication.label         "Posodobitve &brandShortName;a">
-<!ENTITY updateAuto1.label               "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Preverjaj posodobitve, vendar prepusti odločitev o nameščanju">
-<!ENTITY updateCheckChoose.accesskey     "r">
-<!ENTITY updateManual.label              "Nikoli ne preverjaj posodobitev (ni priporočeno zaradi varnosti)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Zgodovina posodobitev">
-<!ENTITY updateHistory.accesskey         "Z">
 
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY autoUpdateOthers.label          "Samodejno posodabljaj">
-<!ENTITY enableSearchUpdate.label        "Iskalnike">
-<!ENTITY enableSearchUpdate.accesskey    "I">
+
 
 <!ENTITY offlineStorageNotify.label               "Sporoči, ko želi stran shraniti podatke za delo brez povezave">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Odstrani ">
 
 <!ENTITY certificateTab.label            "Digitalna potrdila">
-<!ENTITY certPersonal.label              "Zahteve">
-<!ENTITY certPersonal.description        "Ko strežnik zahteva vaše osebno digitalno potrdilo:">
 <!ENTITY selectCerts.auto                "ga izberi samodejno">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "vsakokrat vprašaj">

@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastavitve - Podatki strani">
-<!ENTITY     settings.description          "Naslednje strani želijo shraniti svoje podatke na vaš disk. Določite lahko, katerim stranem je shranjevanje dovoljeno. Privzeti podatki strani so začasni in so lahko samodejno izbrisani.">
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     usageCol.label                "Shramba">
-<!ENTITY     searchPlaceHolder             "Išči">
-<!ENTITY     searchPlaceHolder.accesskey   "š">
 <!ENTITY     removeSelected.label          "Odstrani izbrane">
 <!ENTITY     removeSelected.accesskey      "O">
 <!ENTITY     save.label                    "Shrani spremembe">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Prekliči">
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Odstranjevanje podatkov strani">
-<!ENTITY     removingDialog.description    "Odstranjevanje podatkov strani bo odstranilo tudi piškotke. To vas bo morda odjavilo iz spletnih mest in odstranilo vsebino za delo brez povezave. Ali ste prepričani, da želite narediti spremembo?">
 <!ENTITY     siteTree.label                "Odstranjeni bodo piškotki naslednjih spletnih strani:">

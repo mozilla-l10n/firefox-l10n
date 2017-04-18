@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Pisave in barve">
 
-<!ENTITY  defaultFont.label           "Privzeta pisava:">
-<!ENTITY  defaultFont.accesskey       "a">
-<!ENTITY  defaultSize.label           "Velikost:">
-<!ENTITY  defaultSize.accesskey       "V">
 
 <!ENTITY  advancedFonts.label         "Napredno …">
 <!ENTITY  advancedFonts.accesskey     "D">
