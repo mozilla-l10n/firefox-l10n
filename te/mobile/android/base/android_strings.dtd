@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "చేతనం">
 <!ENTITY pref_home_updates_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_category_home_homepage "హొమ్ పేజీ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "హోంపేజీ సెట్ చేయండి">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "అనుకూలిత టాబ్‌లు">
 <!ENTITY pref_custom_tabs_summary3 "అనువర్తనాలు &brandShortName; యొక్క ఒక అనుకూలీకృత వెర్షన్ ఉపయోగించి వెబ్సైట్లను తెరవడానికి అనుమతించు">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "కార్యాచరణ స్ట్రీమ్">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "చేతనం">
 <!ENTITY pref_plugins_tap_to_play2 "ఆడటానికి తాకండి">
 <!ENTITY pref_plugins_disabled "అచేతనం">
-<!ENTITY pref_text_size "పాఠ్య పరిమాణం">
 <!ENTITY pref_restore_tabs "ట్యాబుల పునరుద్ధరణ">
 <!ENTITY pref_restore_always "ఎప్పుడూ పునరుద్ధరించు">
 <!ENTITY pref_restore_quit "&brandShortName; నుండి నిష్క్రమించిన తర్వాత పునరుద్ధరించవద్దు">
-<!ENTITY pref_font_size_tiny "అతి చిన్న">
-<!ENTITY pref_font_size_small "చిన్న">
-<!ENTITY pref_font_size_medium "మధ్యస్తం">
-<!ENTITY pref_font_size_large "పెద్దది">
-<!ENTITY pref_font_size_xlarge "అతి పెద్ద">
-<!ENTITY pref_font_size_set "అమర్చు">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "అ">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "మరింత వేగం, సౌలభ్యం, భద్రతల గురించి మీ ఆకాంక్షలను ఈ చలాకీ ఆరెంజి నక్క అవలీలగా దూకేస్తుంది. ఒక లాభాపేక్ష లేని సంస్థగా, రాజీ పడాల్సిన అవసరం లేకుండా మీ తరపున విన్నూత్నీకరించడానికి మాకు స్వేచ్ఛ ఉంది. అంటే, మీకు మెరుగైన అనుభవం మరియు జాలానికి ఉజ్వల భవిష్యత్తు.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "ఆటో ప్లే అనుమతించండి">
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
