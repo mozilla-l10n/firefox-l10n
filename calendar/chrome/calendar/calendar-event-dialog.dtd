@@ -194,6 +194,7 @@
 <!ENTITY event.categories.textbox.label                   "Yeni kategori ekle" >
 <!ENTITY event.calendar.label                             "Takvim:" >
 <!ENTITY event.calendar.accesskey                         "m">
+<!ENTITY event.attendees.label                            "Katılımcılar:" >
 <!ENTITY event.alldayevent.label                          "Tam günlük etkinlik" >
 <!ENTITY event.alldayevent.accesskey                      "ü">
 <!ENTITY event.from.label                                 "Başlangıç:" >
@@ -399,6 +400,7 @@
 <!ENTITY read.only.tentative.label       "Katılabilirim">
 <!ENTITY read.only.needs.action.label    "Daha sonra onaylayacağım">
 <!ENTITY read.only.reminder.label        "Anımsatıcı:">
+<!ENTITY read.only.attachments.label     "Ekler:">
 <!ENTITY read.only.attendees.label       "Katılımcılar">
 <!ENTITY read.only.description.label     "Açıklama">
 <!ENTITY read.only.link.label            "İlgili bağlantı">
