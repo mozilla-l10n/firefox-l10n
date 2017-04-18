@@ -1,4 +1,0 @@
-bing
-google
-wikipedia-fa
-yahoo
