@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Izinkan &brandShortName; dan Firefox untuk dilancarkan pada masa yang sama">
 <!ENTITY useFirefoxSync.label             "Tip: Ciri ini menggunakan profil yang berasingan. Gunakan Sync untuk berkongsi data.">
-<!ENTITY getStarted.label                 "Mulakan Sync…">
+<!ENTITY getStarted.notloggedin.label     "Daftar masuk ke &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Buka keutamaan &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Dayakan multi-proses &brandShortName;">
