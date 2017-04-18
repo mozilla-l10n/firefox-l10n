@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- The page shown when not logged in... -->
+
+<!ENTITY setupButton.label          "सेट ऑप &syncBrand.fullName.label;  (S)">
+<!ENTITY setupButton.accesskey      "S">
+<!ENTITY weaveDesc.label            "&syncBrand.fullName.label; आम आमाक् हिता़ल, पुथी चिनहा़ को, दानाङ साबाद को आ़तुर होचो आमा आर आमाक्  .">
+<!-- The page shown when logged in... -->
+<!-- Login error feedback -->
+
+
+<!ENTITY updatePass.label             "हा़ली होचो">
+<!ENTITY resetPass.label              "दोहड़ा साजाव ">
+<!-- Manage Account -->
+
+<!ENTITY manageAccount.label          " खाता बेबोसताय मे (n) ">
+<!ENTITY manageAccount.accesskey      "n">
+<!ENTITY viewQuota.label              "कोटा ञेल मे">
+<!ENTITY changePassword2.label        "दानाङ साबाद बोदोल मे…">
+<!ENTITY myRecoveryKey.label          "इञां ञाम रुवा़ड़ का़ठी">
+<!ENTITY resetSync2.label             "मित् ओकतो लेता  तेयार दोहड़ा साजाव …">
+
+<!ENTITY pairDevice.label             "मित् डिबाइस जोड़ मे">
+
+<!ENTITY syncMy.label               "मित् ओकतो लेका तेयार इञांक्">
+<!ENTITY engine.bookmarks.label     "पुथी चिनहा़ को (m)">
+<!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label          "टैब को (T) ">
+<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "हिता़ल (r)">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.passwords.label     "दानाङ साबाद को  (P) ">
+<!ENTITY engine.passwords.accesskey "P">
+<!ENTITY engine.prefs.label         "कुसियाक् को (s)">
+<!ENTITY engine.prefs.accesskey     "s">
+<!ENTITY engine.addons.label        "एड-ऑन (A) ">
+<!ENTITY engine.addons.accesskey    "A">
+<!-- Device Settings -->
+
+<!ENTITY syncDeviceName.label       "डिबाइस ञुतुम  :(c)">
+<!ENTITY syncDeviceName.accesskey   "c">
+<!ENTITY unlinkDevice.label           "नोवा डिबाइस खोंजा ओचोक्.">
+<!-- Footer stuff -->
+
+<!ENTITY prefs.tosLink.label        "का़मी नियोम को">
+<!ENTITY prefs.ppLink.label         "उकुवाक नीति ">
+<!-- Firefox Accounts stuff -->
+
+<!ENTITY fxaPrivacyNotice.link.label "निजेराक् इतला़य">
+<!ENTITY determiningAcctStatus.label     "आमाक् खाता दोसा गोटाय मे …">
+<!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
+signedInUnverified.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "दो बाय ञेल मिलाव काना">
+<!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
+signedInLoginFailure.aftername.label): these two string are used respectively
+before and after the account email address. Localizers can use one of them, or
+both, to better adapt this sentence to their language.
+-->
+
+<!ENTITY signedInLoginFailure.beforename.label "दोहड़ा जोड़ाव रे साइनइन मे">
+<!ENTITY signedInLoginFailure.aftername.label "">
+
+<!ENTITY notSignedIn.label           "आम दो बाम साइनइन आकाना.">
+<!ENTITY signIn.label                "साइनइन">
+<!ENTITY manage.label                "बेबोसताय मे">
+<!ENTITY disconnect.label            "जोड़ाव ओचोक्…">
+<!ENTITY verify.label                "इमेलञेल मिलाव">
+<!ENTITY forget.label                "नोवा इमेल हिड़िञ मे">
+
+<!ENTITY welcome.description "आमाक् टैब को , पुथी चिनहा़ को , दानाङ साबाद आर ढेर ओका कोरे आमाम बेभाराक् आ़तुर मे . &brandShortName;.">
+<!ENTITY welcome.signIn.label "साइनइन">
+<!ENTITY welcome.createAccount.label "खाता तेयार मे">
+
+<!ENTITY welcome.useOldSync.label "मित् ओकतो तेयार रेयाक् मारे बार्सान बेभार मे ?">

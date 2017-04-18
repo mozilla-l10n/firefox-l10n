@@ -1,0 +1,91 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY tracking.label                 "पांजा ओड़ोक ">
+
+<!ENTITY dntTrackingNopref.label2       "Do not tell sites anything about my tracking preferences">
+<!ENTITY dntTrackingNopref.accesskey    "o">
+<!ENTITY dntTrackingNotOkay.label2      "साइट लायआय मे जे  इञ बाय पांजा सानाम काना .">
+<!ENTITY dntTrackingNotOkay.accesskey   "n">
+<!ENTITY dntTrackingOkay.label2         "Tell sites that I want to be tracked">
+<!ENTITY dntTrackingOkay.accesskey      "h">
+<!ENTITY trackingProtection.label       "इंञाक् पांजा खोन साइट को आकोटा आ (m )">
+<!ENTITY trackingProtection.accesskey   "m">
+<!ENTITY trackingProtectionLearnMore.label "बाड़ती चेद में">
+<!ENTITY doNotTrackInfo.label           "बाड़ती चेद मे">
+
+<!ENTITY  history.label                 "हिता़ल">
+
+<!ENTITY  locationBar.label             "ठांव बार">
+
+<!ENTITY  locbar.pre.label              "When using the location bar, suggest:">
+<!ENTITY  locbar.pre.accessKey          "u">
+<!ENTITY  locbar.post.label             "">
+<!ENTITY  locbar.both.label             "History and Bookmarks">
+<!ENTITY  locbar.history.label          "हिता़ल">
+<!ENTITY  locbar.bookmarks.label        "पुथी चिनहा़">
+<!ENTITY  locbar.nothing.label          "Nothing">
+
+<!ENTITY  acceptCookies.label           "साइट खोन कुकी को हाताव मे. (A)">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.pre.label      "तेसार दोल कुकी को  हाताव: (c)">
+<!ENTITY  acceptThirdParty.pre.accesskey  "c">
+<!ENTITY  acceptThirdParty.always.label   "जावगे">
+<!ENTITY  acceptThirdParty.never.label    "तिसहों बाङ">
+<!ENTITY  acceptThirdParty.visited.label  "ञेलाक् खोन">
+
+<!ENTITY  keepUntil.label               "Keep until:">
+<!ENTITY  keepUntil.accesskey           "K">
+
+<!ENTITY  expire.label                  "उनकुवाक् ओकतो पारोम एना.">
+<!ENTITY  close.label                   "इंञ &brandShortName;बोंदो येत् आ.">
+<!ENTITY  askEachTime.label             "जोतो ओकतो कुलिइंञ मे">
+
+<!ENTITY  cookieExceptions.label        "बाद आक् को…(E)">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "कुकी को उदुग मे…(S)">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; हुयुक् आ: (w)">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "हिताल उयहा़र दोहोय मे">
+<!ENTITY  historyHeader.dontremember.label "हिता़ल तिस हों आलोम उयहा़र आ.">
+<!ENTITY  historyHeader.custom.label       "हिता़ल ला़गित् कुसियाक् साजाव को बेभार मे.">
+<!ENTITY  historyHeader.post.label         "">
+
+<!ENTITY  rememberDescription.label      "&brandShortName;  आमाक् ब्राउसिंग उयहा़र दोहोय मे , आ़तुर आंड़गो,  तेयार  आर पानते हिता़ल, आमाक् ञेल वेबसाइट खोन कुकी को दोहोय मे.">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "आम रे सानामाक् ">
+<!ENTITY  rememberActions.clearHistory.label  "आमाक् नितोगाक् हिता़ल फारचाय मे.">
+<!ENTITY  rememberActions.middle.label        ",आर बाङ ">
+<!ENTITY  rememberActions.removeCookies.label "निजेराक् कुकी को ओचोक् मे">
+<!ENTITY  rememberActions.post.label          ".">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; निजेराक् ब्राउसिंग लेका सोमान साजाव को बेभार मे , आर आम वेब ब्राउज लेका जाहांन हिता़ल लेका बाय उयहा़र .">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "रे आम सानाम दाड़ेयाक्.">
+<!ENTITY  dontrememberActions.clearHistory.label "नितोगाक् हिता़ल जोतो फारचाय मे.">
+<!ENTITY  dontrememberActions.post.label         ".">
+
+<!ENTITY  privateBrowsingPermanent2.label "  निजेराक् ब्राउजिंग ओबोसता जावगे बेभार मे.(p)">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "इंञाक् ब्राउजिंग आर आ़तुर आंड़गो हिता़ल उयहा़र दोहोय मे.(b)">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "पानते आर तेयार हिता़ल उयहा़र दोहोय मे. (f)">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "हिता़ल फारचाय मेतिन रे  &brandShortName; बोंदो आ (r )">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     " साजाव को(t)…">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
