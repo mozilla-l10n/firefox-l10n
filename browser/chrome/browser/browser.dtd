@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Tarixçəni göstərmək üçün sağ klikləyin və ya aşağı çəkin">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarixçəni göstərmək üçün aşağı çəkin">
 <!ENTITY reloadCmd.label              "Yenilə">
-<!ENTITY reloadButton.tooltip         "Hazırki səhifəni yenilə">
 <!ENTITY stopCmd.label                "Dayan">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Səhifəni yeniləməyi dayandır">
 <!ENTITY goEndCap.tooltip             "Ünvan Sətrindəki ünvanı aç">
 <!ENTITY printButton.label            "Çap Et">
 <!ENTITY printButton.tooltip          "Bu səhifəni çap et">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixçəni göstər">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Yaxınlaşdırma ölçüsünü sıfırlayın">
-
 <!ENTITY searchItem.title             "Axtar">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Ev">
 
 <!ENTITY bookmarksButton.label          "Əlfəcinlər">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqqında ətraflı öyrən…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

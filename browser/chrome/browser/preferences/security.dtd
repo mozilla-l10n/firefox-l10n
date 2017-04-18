@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Ümumi">
 
 <!ENTITY  warnOnAddonInstall.label        "Saytlar əlavə quraşdırmaq istədikdə xəbərdar olun">
 
@@ -22,10 +21,7 @@
 <!ENTITY  addonExceptions.accesskey     "s">
 
 
-<!ENTITY  logins.label                  "Daxil olmalar">
 
-<!ENTITY  rememberLogins.label          "Saytlar üçün daxil olmaları yadda saxla">
-<!ENTITY  rememberLogins.accesskey      "s">
 <!ENTITY  passwordExceptions.label      "İstisnalar…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

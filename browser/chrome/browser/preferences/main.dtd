@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Başlanğıç">
 
-<!ENTITY startupPage.label         "&brandShortName; açılanda:">
-<!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupUserHomePage.label "Ana səhifəni göstər">
 <!ENTITY startupBlankPage.label    "Boş səhifəni göstər">
 <!ENTITY startupPrevSession.label  "Son seansdan olan pəncərə və vərəqləri göstər">
 
-<!ENTITY homepage.label            "Ana Səhifə:">
-<!ENTITY homepage.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
 <!ENTITY useCurrentPage.accesskey  "H">
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; və Firefox-un eyni anda işləməsinə icazə ver">
 <!ENTITY useFirefoxSync.label             "Məsləhət: Bu fərqli profillər işlədir. Aralarında məlumatları paylaşmaq üçün Sync işlət.">
-<!ENTITY getStarted.label                 "Sync işlətməyə başla…">
 
 <!ENTITY e10sEnabled.label                "Çox əməliyyatlı &brandShortName; səyyahını aktiv et">

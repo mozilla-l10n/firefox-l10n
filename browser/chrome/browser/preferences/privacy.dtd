@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "İzlənmə Qoruması istifadə et">
 <!ENTITY  trackingProtectionAlways.label       "Həmişə">
 <!ENTITY  trackingProtectionAlways.accesskey   "H">
 <!ENTITY  trackingProtectionPrivate.label      "Ancaq Məxfi Pəncərələrdə">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Ünvan sətiri">
 
-<!ENTITY  locbar.suggest.label          "Ünvan sətirindən istifadə edərkən təklif et:">
 <!ENTITY  locbar.history.label          "Tarixçə">
 <!ENTITY  locbar.history.accesskey      "T">
 <!ENTITY  locbar.bookmarks.label        "Əlfəcinlər">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Əsas axtarış mühərrikindən uyğun axtarışlar">
 <!ENTITY  locbar.searches.accesskey     "y">
 
-<!ENTITY  suggestionSettings.label      "Axtarış mühərriyi təklifləri üçün nizamlamaları dəyiş…">
-<!ENTITY  suggestionSettings.accesskey  "m">
 
 <!ENTITY  acceptCookies.label           "Saytlardan çərəzləri qəbul et">
 <!ENTITY  acceptCookies.accesskey       "e">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Çərəzləri Göstər…">
 <!ENTITY  showCookies.accesskey         "G">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; səyyahı:">
-<!ENTITY  historyHeader.pre.accesskey      "h">
 <!ENTITY  historyHeader.remember.label     "Tarixçəni xatırla">
 <!ENTITY  historyHeader.dontremember.label "Tarixçəni heç vaxt xatırlama">
 <!ENTITY  historyHeader.custom.label       "Tarixçə üçün sizin seçimləriniz istifadə edilsin">
