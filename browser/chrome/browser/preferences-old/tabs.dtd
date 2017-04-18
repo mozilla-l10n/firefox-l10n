@@ -1,0 +1,19 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab yaaɓat hakkunde tabbe e gorol kuutoragol ɓennungol">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+
+<!ENTITY newWindowsAsTabs.label       "Uddit kenorɗe kese e tabbere hesere">
+<!ENTITY newWindowsAsTabs.accesskey   "e">
+
+
+
+
+
+
+
+<!ENTITY showTabsInTaskbar.label          "Hollir jiytinde ɗee e palal golle Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "g">
+<!ENTITY tabsGroup.label          "Tabbe">
