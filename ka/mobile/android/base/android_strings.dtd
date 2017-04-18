@@ -213,6 +213,8 @@
 <!ENTITY pref_home_updates_enabled "ჩართული">
 <!ENTITY pref_home_updates_wifi "მხოლოდ Wi-Fi-ით">
 <!ENTITY pref_category_home_homepage "საწყისი გვერდი">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "საწყისი გვერდის დაყენება">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -281,6 +283,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "მორგებული ჩანართები">
 <!ENTITY pref_custom_tabs_summary3 "ნება დართვა აპებისთვის გახსნან ვებსაიტები &brandShortName;-ის მორგებული ვერსიის გამოყენებით">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "აქტიურობის ნაკადი">
@@ -349,26 +354,12 @@
 <!ENTITY pref_plugins_enabled "ჩართულია">
 <!ENTITY pref_plugins_tap_to_play2 "შეეხეთ დასაკრავად">
 <!ENTITY pref_plugins_disabled "ამორთულია">
-<!ENTITY pref_text_size "ტექსტის ზომა">
 <!ENTITY pref_restore_tabs "ჩანართების აღდგენა">
 <!ENTITY pref_restore_always "აღდგენა ყოველთვის">
 <!ENTITY pref_restore_quit "არ აღდგეს &brandShortName;-იდან გამოსვლის შემდეგ">
-<!ENTITY pref_font_size_tiny "პატარა">
-<!ENTITY pref_font_size_small "პატარა">
-<!ENTITY pref_font_size_medium "საშუალო">
-<!ENTITY pref_font_size_large "დიდი">
-<!ENTITY pref_font_size_xlarge "ვეება">
-<!ENTITY pref_font_size_set "მითითება">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "ჭ">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "სხარტი ნარინჯისფერი ცეცხლაკუდა ჩვენს ყველაზე გადაჭარბებულ მოლოდინსაც კი ზემოდან გადაევლო მეტი სიჩქარით, მოქნილობითა და უსაფრთხოების შენარჩუნებით. როგორც არაკომერციულ ორგანიზაციას, ჩვენ თავისუფლად ვვითარდები და კომპრომისებზე წასვლა არ გვჭირდება. ა ბ გ დ ე ვ ზ ჱ თ ი კ ლ მ ნ ჲ ო პ ჟ რ ს ტ ჳ უ ფ ქ ღ ყ შ ჩ ც ძ წ ჭ ხ ჴ ჯ ჰ ჵ.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "ავტო-დაკვრის დაშვება">
 <!ENTITY pref_media_autoplay_enabled_summary "ვებ-საიტის ვიდეოების და სხვა მედია შიგთავსის ავტო-დაკვრის კონტროლი">
