@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Fəal">
 <!ENTITY pref_home_updates_wifi "Yalnız Wi-Fi ilə">
 <!ENTITY pref_category_home_homepage "Ana Səhifə">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Ana Səhifə seç">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Fərdi Vərəqlər">
 <!ENTITY pref_custom_tabs_summary3 "Tətbiqlərə saytları &brandShortName; səyyahının fərdiləşdirilmiş versiyası ilə açmağa icazə ver">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktivlik Axını">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Aktiv">
 <!ENTITY pref_plugins_tap_to_play2 "Oxutmaq üçün toxun">
 <!ENTITY pref_plugins_disabled "Söndürülüb">
-<!ENTITY pref_text_size "Mətn ölçüsü">
 <!ENTITY pref_restore_tabs "Vərəqləri bərpa et">
 <!ENTITY pref_restore_always "Həmişə bərpa et">
 <!ENTITY pref_restore_quit "&brandShortName; səyyahından çıxdıqdan sonra bərpa etmə">
-<!ENTITY pref_font_size_tiny "Bambalaca">
-<!ENTITY pref_font_size_small "Kiçik">
-<!ENTITY pref_font_size_medium "Orta">
-<!ENTITY pref_font_size_large "Böyük">
-<!ENTITY pref_font_size_xlarge "Çox böyük">
-<!ENTITY pref_font_size_set "Təyin et">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Sürətli narıncı tülkü daha çox sürət, elastiklik və təhlükəsizliklə gözləntilərinizin üstündən atlayar. Qeyri-kommersial bir qurum olaraq, bizə təzyiq göstərəcək heç bir qüvvə olmadan, sizin üçün yeniliklər etməkdə azadıq. Bu sizin üçün daha yaxşı təcrübə, Veb üçün daha parlaq bir gələcək deməkdir.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
