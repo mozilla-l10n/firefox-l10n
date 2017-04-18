@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Atvērt paroles saglabāšanas ziņojumu paneli">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Pārvaldīt papildinājumu izmantošanu">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Izmainiet vai varat saņemt paziņojumus no šīs lapas">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Glabāt datus pastāvīgajā krātuvē">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Pārvaldiet kameras un/vai mikrofona koplietošanu ar šo lapu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Pārvaldiet mikrofona koplietošanu ar šo lapu">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Atrašanās vietas informācijas koplietošana ar šo lapu ir bloķēta.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Šīs lapas datu glabāšana ir bloķēta.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Paziņojumu saņemšana no šīs lapas ir bloķēta.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Datu glabāšana ir bloķēta šajā lapā.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Parādīt vēsturi">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinhronizācijas iestatījumi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Pierakstieties, lai redzētu šeit cilnes no šīm ierīcēm.">
 <!ENTITY appMenuRemoteTabs.signin.label "Pieslēgties Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Pārvaldīt ierīces…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rādīt sinhronizēto cilņu sānu joslu">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pievienot rīkjoslai">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Atvērt visu cilnēs">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
+<!ENTITY syncedTabs.context.managedevices.label              "Pārvaldīt ierīces…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sinhronizēt">
@@ -896,5 +901,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Uzziniet vairāk par DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Skatiet jaunumus.">
 
 
