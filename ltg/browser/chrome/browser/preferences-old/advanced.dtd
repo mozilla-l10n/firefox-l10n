@@ -1,0 +1,119 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "Vyspuoriejs">
+
+<!ENTITY accessibility.label             "Pīejameiba">
+
+<!ENTITY useCursorNavigation.label       "Vīnmār izmantuot kursora tausteņus, kab puorvītuotūs pa lopom">
+<!ENTITY useCursorNavigation.accesskey   "k">
+<!ENTITY searchStartTyping.label         "Mekleit raksteitū tekstu, koleidz es suoku raksteit">
+<!ENTITY searchStartTyping.accesskey     "t">
+<!ENTITY blockAutoRefresh.label          "Breidynuot mani, nui sātys lopa rauga puorluodeitīs voi puorsyuteit mani iz cytu lopu">
+<!ENTITY blockAutoRefresh.accesskey      "B">
+<!ENTITY useOnScreenKeyboard.label       "Show a touch keyboard when necessary">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
+
+<!ENTITY browsing.label                  "Puorlūkuošona">
+
+<!ENTITY useAutoScroll.label             "Lītuot autorytynuošonu">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "Lītuot plyudenū rytynuošonu">
+<!ENTITY useSmoothScrolling.accesskey    "L">
+<!ENTITY allowHWAccel.label              "Nui pīejams, izmantuot aparaturys pauotrynuojumu">
+<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY checkSpelling.label             "Rokstūt puorbaudeit pareizraksteibu">
+<!ENTITY checkSpelling.accesskey         "R">
+
+<!ENTITY dataChoicesTab.label            "Datu izviele">
+
+<!ENTITY healthReportDesc.label          "Paleidz izprast jiusu puorlūka veiktspieju i syuta itūs datus par puorlūka stuovūkli &vendorShortName;">
+<!ENTITY enableHealthReport.label        "Aktivēt &brandShortName; stuovūkļa ziņuojumu">
+<!ENTITY enableHealthReport.accesskey    "v">
+<!ENTITY healthReportLearnMore.label     "Uzzynojit vairuok">
+
+<!ENTITY telemetryDesc.label             "Nūsyuta aparaturys parametru, to veiktspiejis, lītuošonys i puorlūka pīlāguojumu informaceju &vendorShortName;, kab paleidzeitu uzlobuot &brandShortName;">
+<!ENTITY enableTelemetryData.label       "Daleitīs ar papyldus datym (pīm. Telemetreju)">
+<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryLearnMore.label        "Uzzynojit vairuok">
+
+<!ENTITY crashReporterDesc2.label         "Avareju ziņuojumi paleidz &vendorShortName; salobuot problemys i padareit jiusu puorlyuku drūsuoku i stabiluoku">
+<!ENTITY alwaysSubmitCrashReports.label   "Allow &brandShortName; to send backlogged crash reports on your behalf">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY crashReporterLearnMore.label     "Uzzynojit vairuok">
+
+<!ENTITY networkTab.label                "Teikls">
+
+<!ENTITY connection.label                "Savīnuojums">
+
+<!ENTITY connectionDesc.label            "Konfigureit, kai &brandShortName; savīnojās ar Šķārsteiklu">
+<!ENTITY connectionSettings.label        "Īstatiejumi...">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "Saglobuotais šķārsteikla saturs">
+
+<!ENTITY offlineStorage2.label           "Nasaistis šķārsteikla saturs i lītuotuoja dati">
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "Īrūbežuot kešatmiņu leidz ">
+<!ENTITY limitCacheSizeBefore.accesskey  "k">
+<!ENTITY limitCacheSizeAfter.label       "MB">
+<!ENTITY clearCacheNow.label             "Izteireit">
+<!ENTITY clearCacheNow.accesskey         "I">
+<!ENTITY clearOfflineAppCacheNow.label   "Izteireit">
+<!ENTITY clearOfflineAppCacheNow.accesskey "z">
+<!ENTITY overrideSmartCacheSize.label    "Override automatic cache management">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateTab.label                 "Atjaunynuot">
+
+<!ENTITY updateApp.label                 "&brandShortName; atjaunynuojumi:">
+<!ENTITY updateAuto1.label               "Instaleit atjaunynuojumus automatiski (īteicams: uzloboj drūseibu)">
+<!ENTITY updateAuto1.accesskey           "a">
+<!ENTITY updateCheck.label               "Puorbaudeit atjaunynuojumu pīejameibu, bet ļaut maņ izavieleit voi instaleit tūs">
+<!ENTITY updateCheck.accesskey           "u">
+<!ENTITY updateManual.label              "Napuorbaudeit atjaunynuojumu pīejameibu (nav īteicams: drūseibys risks)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateHistory.label             "Paruodeit atjaunynuojumu viesturi">
+<!ENTITY updateHistory.accesskey         "P">
+
+<!ENTITY useService.label                "Instaleit atjaunynuojumus fonā">
+<!ENTITY useService.accesskey            "f">
+
+<!ENTITY updateOthers.label              "Automatiski atjaunynuot:">
+<!ENTITY enableSearchUpdate.label        "Meklietuojus">
+<!ENTITY enableSearchUpdate.accesskey    "l">
+
+<!ENTITY offlineNotify.label             "Ziņuot maņ, kod sātys lopa gryb saglobuot datus izmontuošonai nasaistī">
+<!ENTITY offlineNotify.accesskey         "t">
+<!ENTITY offlineNotifyExceptions.label   "Izjāmumi...">
+<!ENTITY offlineNotifyExceptions.accesskey "m">
+
+<!ENTITY offlineAppsList2.label          "Itom sātys lopom ir atļauts globoj datus izmontuošonai nasaistī:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "Aizvuokt...">
+<!ENTITY offlineAppsListRemove.accesskey "A">
+<!ENTITY offlineAppRemove.confirm        "Aizvuokt nasaistis datus">
+
+<!ENTITY certificateTab.label            "Sertifikati">
+<!ENTITY certSelection.label             "Pīprasiejumi">
+<!ENTITY certSelection.description       "Kod serveris pīprosa munu personeigū sertifikatu:">
+<!ENTITY certs.auto                      "Izavieleit automatiski">
+<!ENTITY certs.auto.accesskey            "S">
+<!ENTITY certs.ask                       "Kotru reizi vaicuot maņ">
+<!ENTITY certs.ask.accesskey             "i">
+<!ENTITY enableOCSP.label                "Query OCSP responder servers to confirm the current validity of certificates">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "Apsavērt sertifikatus">
+<!ENTITY viewCerts.accesskey             "s">
+<!ENTITY viewSecurityDevices.label       "Drūseibys īrīces">
+<!ENTITY viewSecurityDevices.accesskey   "D">

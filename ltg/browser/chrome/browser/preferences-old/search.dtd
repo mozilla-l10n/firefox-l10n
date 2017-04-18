@@ -1,0 +1,32 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Nūkluseitais mekleituojs">
+
+<!ENTITY chooseYourDefaultSearchEngine.label   "Choose your default search engine. &brandShortName; uses it in the location bar, search bar, and start page.">
+
+<!ENTITY provideSearchSuggestions.label        "Provide search suggestions">
+<!ENTITY provideSearchSuggestions.accesskey    "s">
+
+<!ENTITY showURLBarSuggestions.label           "Show search suggestions in location bar results">
+<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "Search suggestions will not be shown in location bar results because you have configured &brandShortName; to never remember history.">
+
+<!ENTITY redirectWindowsSearch.label "Izmantuot itū mekleituoju, kab mekleitu nu Windows">
+<!ENTITY redirectWindowsSearch.accesskey "W">
+
+<!ENTITY oneClickSearchEngines.label           "One-click search engines">
+
+<!ENTITY chooseWhichOneToDisplay.label         "Mekliešonys juslā var byut vairuoki mekleituoji. Izavielit, kurus attāluot itymā juslā.">
+
+<!ENTITY engineNameColumn.label                "Mekleituoji">
+<!ENTITY engineKeywordColumn.label             "Atslāgi vuords">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Restore Default Search Engines">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+
+<!ENTITY removeEngine.label                    "Aizvuokt">
+<!ENTITY removeEngine.accesskey                "z">
+
+<!ENTITY addMoreSearchEngines.label            "Pīvīnuot meklietuojus…">

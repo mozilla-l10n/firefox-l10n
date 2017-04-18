@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  general.label                 "Vyspuoreigī">
+
+<!ENTITY  warnAddonInstall.label        "Breidynuot mani, nui lopys rauga instaleit papyldynuojums">
+<!ENTITY  warnAddonInstall.accesskey    "B">
+<!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
+  It is important that wording follows the guidelines outlined on this page:
+  https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
+-->
+
+<!ENTITY  enableSafeBrowsing.label        "Block dangerous and deceptive content">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
+
+<!ENTITY  blockDownloads.label            "Blokeit beistamys lejupīluodes">
+<!ENTITY  blockDownloads.accesskey        "d">
+
+<!ENTITY  blockUncommonUnwanted.label     "Warn me about unwanted and uncommon software">
+<!ENTITY  blockUncommonUnwanted.accesskey "C">
+
+<!ENTITY  addonExceptions.label         "Izjāmumi...">
+<!ENTITY  addonExceptions.accesskey     "I">
+
+
+<!ENTITY  logins.label                  "Lītuotuojvuords">
+
+<!ENTITY  rememberLogins.label          "Atguoduot lopu paroles">
+<!ENTITY  rememberLogins.accesskey      "r">
+<!ENTITY  passwordExceptions.label      "Izjāmumi...">
+<!ENTITY  passwordExceptions.accesskey  "z">
+
+<!ENTITY  useMasterPassword.label        "Izmantuot golvonū paroli">
+<!ENTITY  useMasterPassword.accesskey    "m">
+<!ENTITY  changeMasterPassword.label     "Nūmaineit golvonū paroli...">
+<!ENTITY  changeMasterPassword.accesskey "m">
+
+<!ENTITY  savedLogins.label              "Saglobuotuos paroles…">
+<!ENTITY  savedLogins.accesskey          "l">
