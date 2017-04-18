@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "글꼴과 색상">
 
-<!ENTITY  defaultFont.label           "기본 글꼴:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "크기:">
-<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "고급…">
 <!ENTITY  advancedFonts.accesskey     "A">

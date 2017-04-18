@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "오른쪽 클릭 혹은 풀다운으로 방문 기록 보기">
 <!ENTITY backForwardButtonMenuMac.tooltip "방문 기록 내려 보기">
 <!ENTITY reloadCmd.label              "새로 고침">
-<!ENTITY reloadButton.tooltip         "현재 페이지 새로 고침">
 <!ENTITY stopCmd.label                "중지">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "이 페이지 읽기 중지">
 <!ENTITY goEndCap.tooltip             "주소 표시줄에 있는 주소로 접속하기">
 <!ENTITY printButton.label            "인쇄">
 <!ENTITY printButton.tooltip          "현재 페이지 인쇄">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
 
-<!ENTITY urlbar.zoomReset.tooltip     "처음 크기로">
-
 <!ENTITY searchItem.title             "검색">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "홈">
 
 <!ENTITY bookmarksButton.label          "북마크">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

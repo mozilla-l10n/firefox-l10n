@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "3초마다 자동 업데이트 ">
 <!ENTITY aboutNetworking.hostname              "호스트명">
 <!ENTITY aboutNetworking.port                  "포토 번호">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "액티브">
 <!ENTITY aboutNetworking.idle                  "대기">
