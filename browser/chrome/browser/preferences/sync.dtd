@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnamme">
-<!ENTITY changeSyncDeviceName.label "Apparaatnamme wizigje…">
-<!ENTITY changeSyncDeviceName.accesskey "w">
 <!ENTITY cancelChangeSyncDeviceName.label "Annulearje">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "e">
 <!ENTITY saveChangeSyncDeviceName.label "Bewarje">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profylôfbylding wizigje">
 <!ENTITY verifiedManage.label        "Account beheare">
 <!ENTITY verifiedManage.accesskey    "h">
-<!ENTITY disconnect.label            "Ofmelde…">
-<!ENTITY disconnect.accesskey        "O">
 <!ENTITY verify.label                "E-mail ferifiearje">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Ferjit dizze e-mail">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Oanmelde">
 <!ENTITY signedOut.accountBox.signin.accesskey  "d">
 
-<!ENTITY signedIn.engines.label       "Syngronisearje op alle apparaten">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

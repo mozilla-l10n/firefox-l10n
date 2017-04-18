@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Klik mei rjochts of hâld yndrukt om skiednis te toanen">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hâld yndrukt om skiednis te toanen">
 <!ENTITY reloadCmd.label              "Opnij lade">
-<!ENTITY reloadButton.tooltip         "Dizze side opnij lade">
 <!ENTITY stopCmd.label                "Beëinigje">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ophâlde mei it laden fan dizze side">
 <!ENTITY goEndCap.tooltip             "It adres yn de lokaasjebalke iepenje">
 <!ENTITY printButton.label            "Ofdrukke">
 <!ENTITY printButton.tooltip          "Dizze side ôfdrukke">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Skiednis toane">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Zoomnivo weromsette">
-
 <!ENTITY searchItem.title             "Sykje">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Begjinside">
 
 <!ENTITY bookmarksButton.label          "Blêdwizers">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mear ynfo oer DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Opstarte">
 
-<!ENTITY startupPage.label         "As &brandShortName; start:">
-<!ENTITY startupPage.accesskey     "A">
 <!ENTITY startupUserHomePage.label "Jo startside toane">
 <!ENTITY startupBlankPage.label    "In lege side toane">
 <!ENTITY startupPrevSession.label  "Myn finsters en ljepblêden fan de foarige kear toane">
 
-<!ENTITY homepage.label            "Begjinside:">
-<!ENTITY homepage.accesskey        "s">
 <!ENTITY useCurrentPage.label      "Aktuele side brûke">
 <!ENTITY useCurrentPage.accesskey  "k">
 <!ENTITY useMultiple.label         "Aktuele siden brûke">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Tagelyk útfieren fan &brandShortName; en Firefox tastean">
 <!ENTITY useFirefoxSync.label             "Tip: Dit brûkt ferskillende profilen. Brûk Sync om gegevens dêrtusken te dielen.">
-<!ENTITY getStarted.label                 "Sync brûke…">
 
 <!ENTITY e10sEnabled.label                "Multiprocess yn &brandShortName; ynskeakelje">

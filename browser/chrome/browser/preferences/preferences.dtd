@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 53em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 56em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Algemien">
-<!ENTITY  paneTabs.title          "Ljepblêden">
-<!ENTITY  paneSearch.title        "Sykjen">
-<!ENTITY  paneContent.title       "Ynhâld">
-<!ENTITY  paneApplications.title  "Applikaasjes">
-<!ENTITY  panePrivacy.title       "Privacy">
-<!ENTITY  paneContainers.title    "Kontenerljepblêden">
-<!ENTITY  paneSecurity.title      "Befeiliging">
-<!ENTITY  paneAdvanced.title      "Avansearre">
+<!ENTITY  paneGeneral.title             "Algemien">
+<!ENTITY  paneContainers.title          "Kontenerljepblêden">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Help">
+

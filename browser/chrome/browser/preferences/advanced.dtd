@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Fernijing">
 
 <!ENTITY updateApplication.label         "&brandShortName;-fernijingen">
-<!ENTITY updateAuto1.label               "Fernijingen automatysk ynstallearje (oanrekommandearre: ferbettere feilichheid)">
-<!ENTITY updateAuto1.accesskey           "F">
-<!ENTITY updateCheckChoose.label         "Kontrolearje op fernijingen, mar lit my kieze oft ik se ynstallearje wol">
-<!ENTITY updateCheckChoose.accesskey     "K">
-<!ENTITY updateManual.label              "Nea kontrolearje op fernijingen (net oanrekommandearre: feilichheidsrisiko)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Fernijingsskiednis toane">
-<!ENTITY updateHistory.accesskey         "t">
 
 <!ENTITY useService.label                "Brûk in eftergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY autoUpdateOthers.label          "Automatysk fernije">
-<!ENTITY enableSearchUpdate.label        "Sykmasinen">
-<!ENTITY enableSearchUpdate.accesskey    "S">
+
 
 <!ENTITY offlineStorageNotify.label               "Jo fertelle as in website freget om gegevens te bewarjen foar offline gebrûk">
 <!ENTITY offlineStorageNotify.accesskey           "J">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
 <!ENTITY certificateTab.label            "Sertifikaten">
-<!ENTITY certPersonal.label              "Oanfragen">
-<!ENTITY certPersonal.description        "As in server jo persoanlike sertifikaat freget:">
 <!ENTITY selectCerts.auto                "Automatysk ien selektearje">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "My elke kear freegje">
