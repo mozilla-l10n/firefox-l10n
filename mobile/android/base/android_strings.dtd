@@ -8,13 +8,13 @@
 <!ENTITY firstrun_urlbar_subtext "ניתן לאתר פריטים מהר יותר עם קיצורים להצעות חיפוש מועילות.">
 <!ENTITY firstrun_bookmarks_title "היסטוריה">
 <!ENTITY firstrun_bookmarks_message "המועדפים שלך, בראש ובראשונה">
-<!ENTITY firstrun_bookmarks_subtext "קבלת תוצאות מהסימניות וההיסטוריה שלך תוך כדי חיפוש.">
+<!ENTITY firstrun_bookmarks_subtext "קבלו תוצאות מהסימניות וההיסטוריה שלכם תוך כדי חיפוש.">
 <!ENTITY firstrun_data_title "נתונים">
 <!ENTITY firstrun_data_message "פחות נתונים יותר חסכון">
-<!ENTITY firstrun_data_subtext2 "כיבוי התמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
+<!ENTITY firstrun_data_subtext2 "בטלו הצגת תמונות לחסכון בתעבורת נתונים עם כל אתר שנפתח.">
 <!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "‏&brandShortName;, תמיד לצדך">
-<!ENTITY firstrun_sync_subtext "ניתן לסנכרן את הלשוניות, הססמאות ועוד בכל מקום בו יתחשק לך.">
+<!ENTITY firstrun_sync_subtext "סנכרנו את הלשוניות, הססמאות ועוד בכל מקום בו יתחשק לכם.">
 <!ENTITY firstrun_signin_message "להישאר בעניינים, קדימה">
 <!ENTITY firstrun_signin_button "כניסה אל Sync">
 <!ENTITY  onboard_start_button_browser "התחלת גלישה">
