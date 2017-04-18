@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "לחיצה ימנית או משיכה מטה כדי להציג היסטוריה">
 <!ENTITY backForwardButtonMenuMac.tooltip "משיכה מטה כדי להציג היסטוריה">
 <!ENTITY reloadCmd.label              "טעינה מחדש">
-<!ENTITY reloadButton.tooltip         "טעינה מחדש של דף נוכחי">
 <!ENTITY stopCmd.label                "עצירה">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "הפסקת טעינת דף זה">
 <!ENTITY goEndCap.tooltip             "מעבר לכתובת שבסרגל המיקום">
 <!ENTITY printButton.label            "הדפסה">
 <!ENTITY printButton.tooltip          "הדפסת דף זה">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "הצגת היסטוריה">
 
-<!ENTITY urlbar.zoomReset.tooltip     "איפוס רמת התקריב">
-
 <!ENTITY searchItem.title             "חיפוש">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "דף הבית">
 
 <!ENTITY bookmarksButton.label          "סימניות">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "מידע נוסף על ניהול זכויות דיגיטלי…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ז">
+
+
+

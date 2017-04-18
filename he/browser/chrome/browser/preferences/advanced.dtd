@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "עדכון">
 
 <!ENTITY updateApplication.label         "עדכוני &brandShortName;">
-<!ENTITY updateAuto1.label               "התקנת עדכונים אוטומטית (מומלץ: אבטחה משופרת)">
-<!ENTITY updateAuto1.accesskey           "א">
-<!ENTITY updateCheckChoose.label         "בדיקת עדכונים, אבל לאפשר בחירה אם להתקין אותם">
-<!ENTITY updateCheckChoose.accesskey     "ע">
-<!ENTITY updateManual.label              "לעולם לא לבצע בדיקת עדכונים (לא מומלץ: סיכוני אבטחה)">
-<!ENTITY updateManual.accesskey          "ל">
 
-<!ENTITY updateHistory.label             "הצגת היסטורית עדכונים">
-<!ENTITY updateHistory.accesskey         "צ">
 
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
 <!ENTITY useService.accesskey            "ר">
 
-<!ENTITY autoUpdateOthers.label          "עדכון באופן אוטומטי">
-<!ENTITY enableSearchUpdate.label        "מנועי חיפוש">
-<!ENTITY enableSearchUpdate.accesskey    "מ">
+
 
 <!ENTITY offlineStorageNotify.label               "דיווח כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineStorageNotify.accesskey           "ד">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "הסרת נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
-<!ENTITY certPersonal.label              "בקשות">
-<!ENTITY certPersonal.description        "כאשר שרת מבקש את האישור האישי שלך, יש:">
 <!ENTITY selectCerts.auto                "לבחור אחד באופן אוטומטי">
 <!ENTITY selectCerts.auto.accesskey      "ב">
 <!ENTITY selectCerts.ask                 "לשאול אותך כל פעם">

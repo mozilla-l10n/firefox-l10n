@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "הפעלה">
 
-<!ENTITY startupPage.label         "כאשר &brandShortName; מופעל:">
-<!ENTITY startupPage.accesskey     "מ">
 <!ENTITY startupUserHomePage.label "יוצג דף הבית">
 <!ENTITY startupBlankPage.label    "יוצג דף ריק">
 <!ENTITY startupPrevSession.label  "יוצגו החלונות והלשוניות מהפעם האחרונה">
 
-<!ENTITY homepage.label            "דף בית:">
-<!ENTITY homepage.accesskey        "ד">
 <!ENTITY useCurrentPage.label      "שימוש בדף הנוכחי">
 <!ENTITY useCurrentPage.accesskey  "נ">
 <!ENTITY useMultiple.label         "שימוש בדפים הנוכחיים">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "לאפשר ל־&brandShortName; ול־Firefox לרוץ במקביל">
 <!ENTITY useFirefoxSync.label             "טיפ: פעולה זו מתאפשרת תודות ליצירה של שני פרופילים נפרדים. ניתן להשתמש ב־Sync כדי לסנכרן נתונים בניהם.">
-<!ENTITY getStarted.label                 "התחלת שימוש ב־Sync…">
 
 <!ENTITY e10sEnabled.label                "הפעלת &brandShortName; במצב ריבוי תהליכים">
