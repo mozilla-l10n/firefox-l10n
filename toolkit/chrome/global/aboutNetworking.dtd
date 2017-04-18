@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Автооновлювати кожні 3 секунди">
 <!ENTITY aboutNetworking.hostname              "Ім’я хоста">
 <!ENTITY aboutNetworking.port                  "Порт">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Активний">
 <!ENTITY aboutNetworking.idle                  "Очікування">

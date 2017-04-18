@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Шрифти і кольори">
 
-<!ENTITY  defaultFont.label           "Типовий шрифт:">
-<!ENTITY  defaultFont.accesskey       "ш">
-<!ENTITY  defaultSize.label           "Розмір:">
-<!ENTITY  defaultSize.accesskey       "Р">
 
 <!ENTITY  advancedFonts.label         "Додатково…">
 <!ENTITY  advancedFonts.accesskey     "о">
