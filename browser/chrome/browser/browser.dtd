@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Відкрити панель повідомлень збереження паролів">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Керувати використанням плагінів">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Налаштувати отримання сповіщень від сайту">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Зберігати дані в постійному сховищі">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Керувати доступом сайту до ваших камери та/або мікрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Керувати доступом сайту до вашого мікрофону">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ви заблокували інформацію розташування для цього веб-сайту.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ви заблокували сховище даних для цього веб-сайту.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ви заблокували сповіщення для цього веб-сайту.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ви заблокували постійне сховище для цього веб-сайту.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показати історію">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Налаштування синхронізації">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Увійдіть, щоб переглядати список вкладок з інших ваших пристроїв.">
 <!ENTITY appMenuRemoteTabs.signin.label "Увійти в Синхронізацію">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Керувати пристроями…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Переглянути бічну панель синхронізованих вкладок">
 
 <!ENTITY customizeMenu.addToToolbar.label "Додати на панель">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Відкрити всі у вкладках">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "л">
+<!ENTITY syncedTabs.context.managedevices.label              "Керувати пристроями…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "К">
 
 
 <!ENTITY syncBrand.shortName.label    "Синхронізація">
@@ -896,5 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Докладніше про DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "Д">
 
+<!ENTITY updateAvailable.message "Оновіть &brandShorterName; для підвищення рівня швидкодії та приватності.">
+<!ENTITY updateAvailable.whatsnew.label "Перегляньте, що нового.">
+<!ENTITY updateAvailable.header.message "Доступна нова версія &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Завантажити оновлення">
+<!ENTITY updateAvailable.acceptButton.accesskey "З">
+<!ENTITY updateAvailable.cancelButton.label "Не зараз">
+<!ENTITY updateAvailable.cancelButton.accesskey "Н">
+<!ENTITY updateAvailable.panelUI.label "Завантажте оновлення &brandShorterName;">
 
+<!ENTITY updateManual.message "Завантажте нову версію &brandShorterName; і ми допоможемо вам її встановити.">
+<!ENTITY updateManual.whatsnew.label "Перегляньте, що нового.">
+<!ENTITY updateManual.header.message "&brandShorterName; не може оновитися до останньої версії.">
+<!ENTITY updateManual.acceptButton.label "Завантажити &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "З">
+<!ENTITY updateManual.cancelButton.label "Не зараз">
+<!ENTITY updateManual.cancelButton.accesskey "Н">
+<!ENTITY updateManual.panelUI.label "Завантажте нову версію &brandShorterName;">
 
+<!ENTITY updateRestart.message "Після швидкого перезапуску &brandShorterName; відновить всі відкриті вкладки й вікна.">
+<!ENTITY updateRestart.header.message "Перезапустіть &brandShorterName;, щоб застосувати оновлення.">
+<!ENTITY updateRestart.acceptButton.label "Перезапустити й відновити">
+<!ENTITY updateRestart.acceptButton.accesskey "П">
+<!ENTITY updateRestart.cancelButton.label "Не зараз">
+<!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateRestart.panelUI.label "Перезапустіть &brandShorterName;, щоб застосувати оновлення">
