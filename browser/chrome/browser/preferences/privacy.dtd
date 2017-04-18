@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ట్రాకింగ్ సంరక్షణను వాడు">
 <!ENTITY  trackingProtectionAlways.label       "ఎల్లప్పుడూ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "కేవలం ఆంతరంగిక విండోలో మాత్రమే">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "స్థానపు పట్టీ">
 
-<!ENTITY  locbar.suggest.label          "స్థానపు పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు:">
 <!ENTITY  locbar.history.label          "చరిత్ర">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "అప్రమేయ శోధన యంత్రం నుండి సంభందిత శోధనలు">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "శోధన యత్ర సూచనల అభిరుచులను మార్చండి…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "సైట్ల నుండి కుకీలను ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "కుకీలను చూపించు...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;">
-<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకో">
 <!ENTITY  historyHeader.dontremember.label "ఎప్పుడూ చరిత్రని గుర్తు పెట్టుకోవద్దు">
 <!ENTITY  historyHeader.custom.label       "చరిత్ర కోసం అనుకూలీకరించిన అమరికలు వాడు">

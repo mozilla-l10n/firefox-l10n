@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "ప్రారంభ ప్రక్రియ">
 
-<!ENTITY startupPage.label         "&brandShortName; మొదలుకాగానే:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "మీ హోంపేజీని చూపించు">
 <!ENTITY startupBlankPage.label    "ఖాళీ పేజీని చూపించు">
 <!ENTITY startupPrevSession.label  "చివరిగా మీరు చూసిన విండోలను ట్యాబులను చూపించు">
 
-<!ENTITY homepage.label            "హోం పేజీ:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "ప్రస్తుత పేజీని ఉపయోగించు">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "ప్రస్తుత పేజీలను ఉపయోగించు">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName;ని మరియు Firefox ని ఒకేసారి నడుపుటకు అనుమతించు">
 <!ENTITY useFirefoxSync.label             "చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి Syncను వాడండి.">
-<!ENTITY getStarted.label                 "సింక్‌ను వాడటం మొదలుపెట్టండి…">
 
 <!ENTITY e10sEnabled.label                "మల్టీ-ప్రోసెస్ &brandShortName; చేతనించు">
