@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Num da l'apparat">
-<!ENTITY changeSyncDeviceName.label "Midar il num da l'apparat…">
-<!ENTITY changeSyncDeviceName.accesskey "i">
 <!ENTITY cancelChangeSyncDeviceName.label "Interrumper">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "m">
 <!ENTITY saveChangeSyncDeviceName.label "Memorisar">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Midar il maletg da profil">
 <!ENTITY verifiedManage.label        "Administrar il conto">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Deconnectar">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verifitgar l'adressa dad e-mail">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Emblidar questa adressa dad e-mail">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "S'annunziar">
 <!ENTITY signedOut.accountBox.signin.accesskey  "a">
 
-<!ENTITY signedIn.engines.label       "Sincronisar cun tut tes apparats">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

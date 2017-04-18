@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Parameters - Datas da websites">
-<!ENTITY     settings.description          "Las suandantas websites vulan memorisar datas en la memoria. Ti pos inditgar las websites che pon memorisar datas. Normalmain èn las datas da websites temporaras e pon vegnir stizzadas automaticamain.">
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Memoria">
-<!ENTITY     searchPlaceHolder             "Tschertgar">
-<!ENTITY     searchPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Stizzar las tschernidas">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Memorisar las midadas">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Interrumper">
 <!ENTITY     cancel.accesskey              "m">
 <!ENTITY     removingDialog.title          "Stizzar las datas da la website">
-<!ENTITY     removingDialog.description    "Cun stizzar las datas da la website vegnan era ils cookies stizzads. Quai ta deconnectescha eventualmain da websites ed allontanescha cuntegn da web offline. Es ti segir che ti vuls far questas midadas?">
 <!ENTITY     siteTree.label                "Ils suandants cookies vegnan stizzads:">

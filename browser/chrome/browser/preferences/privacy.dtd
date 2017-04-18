@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Utilisar la protecziun cunter il fastizar">
 <!ENTITY  trackingProtectionAlways.label       "Adina">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Mo en fanestras privatas">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "La trav d'adressas">
 
-<!ENTITY  locbar.suggest.label          "Durant l'endataziun en la trav d'adressas proponer il suandant:">
 <!ENTITY  locbar.history.label          "Cronologia">
 <!ENTITY  locbar.history.accesskey      "i">
 <!ENTITY  locbar.bookmarks.label        "Segnapaginas">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Sumegliantas tschertgas da la maschina da tschertgar da standard">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Midar ils parameters per propostas da maschinas da tschertgar…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Mussar ils cookies…">
 <!ENTITY  showCookies.accesskey         "o">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; vegn a far il suandant:">
-<!ENTITY  historyHeader.pre.accesskey      "v">
 <!ENTITY  historyHeader.remember.label     "Memorisar la cronologia">
 <!ENTITY  historyHeader.dontremember.label "Mai memorisar la cronologia">
 <!ENTITY  historyHeader.custom.label       "Utilisar per la cronologia ils parameters definids da l'utilisader">

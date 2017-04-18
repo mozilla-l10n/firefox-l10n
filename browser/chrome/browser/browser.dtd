@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Cliccar cun la tasta dretga da la mieur u tegnair smatgà per vesair la cronologia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tegnair smatgà per vesair la cronologia">
 <!ENTITY reloadCmd.label              "Chargiar danovamain">
-<!ENTITY reloadButton.tooltip         "Chargiar danovamain la pagina actuala">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Interrumper da chargiar questa pagina">
 <!ENTITY goEndCap.tooltip             "Chargiar l'adressa endatada en la trav d'adressas">
 <!ENTITY printButton.label            "Stampar">
 <!ENTITY printButton.tooltip          "Stampar questa pagina">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Grondezza normala">
-
 <!ENTITY searchItem.title             "Tschertgar">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pagina da partenza">
 
 <!ENTITY bookmarksButton.label          "Segnapaginas">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Dapli infurmaziuns davart DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
