@@ -286,7 +286,9 @@
 <!ENTITY pref_custom_tabs_summary3 "อนุญาตให้แอปเปิดเว็บไซต์โดยใช้รุ่นที่ปรับแต่งของ &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "เปิดใน &formatS;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "คัดลอก URL แล้ว">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "สตรีมกิจกรรม">
@@ -361,6 +363,7 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "ใช้ขนาดแบบอักษรของระบบ">
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
@@ -491,6 +494,7 @@
 <!ENTITY contextmenu_open_private_tab "เปิดในแท็บส่วนตัว">
 <!ENTITY contextmenu_remove "เอาออก">
 <!ENTITY contextmenu_add_to_launcher "เพิ่มไปยังหน้าจอแรก">
+<!ENTITY contextmenu_set_as_homepage "ตั้งเป็นหน้าแรก">
 <!ENTITY contextmenu_share "แบ่งปัน">
 <!ENTITY contextmenu_pasteandgo "วางแล้วไป">
 <!ENTITY contextmenu_paste "วาง">
