@@ -6,8 +6,6 @@
 <!ENTITY     hostCol.label                 "אתר">
 <!ENTITY     statusCol.label               "מצב">
 <!ENTITY     usageCol.label                "אחסון">
-<!ENTITY     searchPlaceHolder             "חיפוש">
-<!ENTITY     searchPlaceHolder.accesskey   "ח">
 <!ENTITY     removeSelected.label          "הסרת פריטים נבחרים">
 <!ENTITY     removeSelected.accesskey      "פ">
 <!ENTITY     save.label                    "שמירת שינויים">
@@ -15,5 +13,4 @@
 <!ENTITY     cancel.label                  "ביטול">
 <!ENTITY     cancel.accesskey              "ב">
 <!ENTITY     removingDialog.title          "הסרת נתוני אתר">
-<!ENTITY     removingDialog.description    "הסרת נתוני אתר תמחק גם עוגיות. זה עשוי לנתק אותך מהתחברויות לאתרים ולהסיר תוכן רשת לא מקוון. האם ברצונך לבצע את השינויים?">
 <!ENTITY     siteTree.label                "עוגיות של האתרים הבאים ימחקו:">

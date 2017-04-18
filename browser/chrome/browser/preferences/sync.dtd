@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">
-<!ENTITY changeSyncDeviceName.label "שינוי שם התקן…">
-<!ENTITY changeSyncDeviceName.accesskey "ש">
 <!ENTITY cancelChangeSyncDeviceName.label "ביטול">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ב">
 <!ENTITY saveChangeSyncDeviceName.label "שמירה">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
 <!ENTITY verifiedManage.label        "ניהול חשבון">
 <!ENTITY verifiedManage.accesskey    "נ">
-<!ENTITY disconnect.label            "התנתקות…">
-<!ENTITY disconnect.accesskey        "ת">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
 <!ENTITY verify.accesskey            "א">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "כניסה">
 <!ENTITY signedOut.accountBox.signin.accesskey  "כ">
 
-<!ENTITY signedIn.engines.label       "סנכרון בין התקנים">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

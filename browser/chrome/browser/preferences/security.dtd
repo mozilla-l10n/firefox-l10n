@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "כללי">
 
 <!ENTITY  warnOnAddonInstall.label        "הזהרה כאשר אתרים מנסים להתקין תוספות">
 <!ENTITY  warnOnAddonInstall.accesskey    "ת">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "ח">
 
 
-<!ENTITY  logins.label                  "כניסות">
 
-<!ENTITY  rememberLogins.label          "שמירת כניסות לאתרים">
-<!ENTITY  rememberLogins.accesskey      "ש">
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
 

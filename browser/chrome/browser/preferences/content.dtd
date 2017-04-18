@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "גופנים וצבעים">
 
-<!ENTITY  defaultFont.label           "גופן ברירת מחדל:">
-<!ENTITY  defaultFont.accesskey       "ד">
-<!ENTITY  defaultSize.label           "גודל:">
-<!ENTITY  defaultSize.accesskey       "ג">
 
 <!ENTITY  advancedFonts.label         "מתקדם...">
 <!ENTITY  advancedFonts.accesskey     "מ">
