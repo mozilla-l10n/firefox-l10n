@@ -896,5 +896,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "מידע נוסף על ניהול זכויות דיגיטלי…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "ז">
 
+<!ENTITY updateAvailable.cancelButton.label "לא כעת">
+<!ENTITY updateAvailable.cancelButton.accesskey "ל">
 
+<!ENTITY updateManual.cancelButton.label "לא כעת">
+<!ENTITY updateManual.cancelButton.accesskey "ל">
 
+<!ENTITY updateRestart.cancelButton.label "לא כעת">
+<!ENTITY updateRestart.cancelButton.accesskey "ל">
