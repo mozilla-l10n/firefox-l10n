@@ -211,6 +211,8 @@
 <!ENTITY pref_home_updates_enabled "Doxalees">
 <!ENTITY pref_home_updates_wifi "Ak Wi-Fi rek">
 <!ENTITY pref_category_home_homepage "Xët wu njëkk">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Tanal sa xët wu njëkk">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -274,6 +276,9 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
@@ -340,26 +345,12 @@
 <!ENTITY pref_plugins_enabled "Doxalees">
 <!ENTITY pref_plugins_tap_to_play2 "Bësal ngir taal ko">
 <!ENTITY pref_plugins_disabled "Doxadilees">
-<!ENTITY pref_text_size "Dayoo mbind mi">
 <!ENTITY pref_restore_tabs "Ubbiwaat làcc yi">
 <!ENTITY pref_restore_always "Ubbiwaat leen saa-su-ne">
 <!ENTITY pref_restore_quit "Bu leen ubbiwaat ginnaaw bu ma génnee &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tuuti lool">
-<!ENTITY pref_font_size_small "Tuuti">
-<!ENTITY pref_font_size_medium "Yem">
-<!ENTITY pref_font_size_large "Rëy">
-<!ENTITY pref_font_size_xlarge "Rëy lool">
-<!ENTITY pref_font_size_set "Biral">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Taal boppam">
 <!ENTITY pref_media_autoplay_enabled_summary "Xool ba xam dali web yi di nañ man a taalal seen bopp wideo walla yeneen ëmbeefi xibaarukaay">
