@@ -84,12 +84,24 @@
 <!ENTITY updateTab.label                 "Uppdateringar">
 
 <!ENTITY updateApplication.label         "&brandShortName; uppdaterar">
+<!ENTITY updateApplication.description   "Tillåt &brandShortName; att">
+<!ENTITY updateAuto2.label               "Installera uppdateringar automatiskt (rekommenderas för förbättrad säkerhet)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Sök efter uppdateringar, men låt mig välja om jag vill installera dem">
+<!ENTITY updateCheckChoose2.accesskey    "S">
+<!ENTITY updateManual2.label             "Sök aldrig efter uppdateringar (rekommenderas inte)">
+<!ENTITY updateManual2.accesskey         "a">
 
+<!ENTITY updateHistory2.label            "Visa uppdateringshistorik…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Använd en bakgrundstjänst för att installera uppdateringar">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "Uppdatera automatiskt sökmotorer">
+<!ENTITY enableSearchUpdate2.accesskey   "m">
 
+<!ENTITY reports.label                   "Rapporter">
 
 <!ENTITY offlineStorageNotify.label               "Meddela mig när en webbplats vill lagra data vid nedkopplad användning">
 <!ENTITY offlineStorageNotify.accesskey           "M">
@@ -103,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Ta bort lagrad data">
 
 <!ENTITY certificateTab.label            "Certifikat">
+<!ENTITY certPersonal2.description       "När en server begär ditt personliga certifikat">
 <!ENTITY selectCerts.auto                "Välj ett automatiskt">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Fråga mig varje gång">
