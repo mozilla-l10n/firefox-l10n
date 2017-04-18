@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Агульныя">
 
 <!ENTITY  warnOnAddonInstall.label        "Папярэджваць пры спробе вэб-сайтаў усталяваць дадаткі">
 <!ENTITY  warnOnAddonInstall.accesskey    "П">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "В">
 
 
-<!ENTITY  logins.label                  "Лагіны">
 
-<!ENTITY  rememberLogins.label          "Запамінаць лагіны для сайтаў">
-<!ENTITY  rememberLogins.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Выключэнні…">
 <!ENTITY  passwordExceptions.accesskey  "ы">
 

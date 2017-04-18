@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Назва прылады">
-<!ENTITY changeSyncDeviceName.label "Змяніць назву прылады…">
-<!ENTITY changeSyncDeviceName.accesskey "м">
 <!ENTITY cancelChangeSyncDeviceName.label "Скасаваць">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ь">
 <!ENTITY saveChangeSyncDeviceName.label "Захаваць">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Змяніць профільную выяву">
 <!ENTITY verifiedManage.label        "Кіраванне ўліковым запісам">
 <!ENTITY verifiedManage.accesskey    "а">
-<!ENTITY disconnect.label            "Адлучыцца…">
-<!ENTITY disconnect.accesskey        "А">
 <!ENTITY verify.label                "Пацвердзіць эл.пошту">
 <!ENTITY verify.accesskey            "П">
 <!ENTITY forget.label                "Забыць гэты адрас эл.пошты">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Увайсці">
 <!ENTITY signedOut.accountBox.signin.accesskey  "і">
 
-<!ENTITY signedIn.engines.label       "Сінхранізаваць усе прылады">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
