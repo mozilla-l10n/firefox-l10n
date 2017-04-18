@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Botão direito do mouse ou arraste-o para baixo para mostrar o histórico">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastar para baixo para mostrar o histórico">
 <!ENTITY reloadCmd.label              "Recarregar">
-<!ENTITY reloadButton.tooltip         "Recarregar página atual">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Parar de carregar esta página">
 <!ENTITY goEndCap.tooltip             "Abrir a página">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir a página">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar histórico">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Resetar nível de zoom">
-
 <!ENTITY searchItem.title             "Pesquisar">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Página inicial">
 
 <!ENTITY bookmarksButton.label          "Favoritos">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
