@@ -100,6 +100,10 @@ Datensatz
   Thread-Hänger
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Aufgezeichnete Aufruflisten
+">
+
 <!ENTITY aboutTelemetry.scalarsSection "
   Skalare
 ">
@@ -114,6 +118,10 @@ Datensatz
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
   Schlüsselgebundene Histogramme
+">
+
+<!ENTITY aboutTelemetry.eventsSection "
+  Ereignisse
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
@@ -148,12 +156,12 @@ Datensatz
   HINWEIS: Das Debuggen langsamer SQL-Befehle ist aktiv. Es können vollständige SQL-Befehle weiter unten angezeigt werden, diese werden aber nicht durch die Telemetrie übertragen.
 ">
 
-<!ENTITY aboutTelemetry.fetchSymbols "
-  Funktionsnamen für Aufruflisten von Hängern abfragen
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Funktionsname für Aufruflisten aufrufen
 ">
 
-<!ENTITY aboutTelemetry.hideSymbols "
-  Rohdaten von Hängern anzeigen
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Unformatierte Aufruflisten anzeigen
 ">
 
 <!ENTITY aboutTelemetry.filterText "
