@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "Domovská stránka">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Použiť taktiež na stránke novej karty">
 <!ENTITY home_homepage_title "Nastaviť domovskú stránku">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Povoliť aplikáciám otvárať webové stránky s použitím upravenej verzie aplikácie &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Otvoriť v aplikácii &formatS;">
+<!ENTITY custom_tabs_menu_footer "Poháňané &brandShortName;om">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Adresa bola skopírovaná">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Použiť systémovú veľkosť písma">
+<!ENTITY pref_use_system_font_size_summary "Upraviť webový obsah v súlade so systémovým nastavením veľkosti písma">
 
 <!ENTITY pref_media_autoplay_enabled "Povoliť automatické prehrávanie">
 <!ENTITY pref_media_autoplay_enabled_summary "Určuje, či webové stránky môžu automaticky prehrávať videá a iné médiá">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Otvoriť na súkromnej karte">
 <!ENTITY contextmenu_remove "Odstrániť">
 <!ENTITY contextmenu_add_to_launcher "Pridať na úvodnú obrazovku">
+<!ENTITY contextmenu_set_as_homepage "Nastaviť ako domovskú stránku">
 <!ENTITY contextmenu_share "Zdieľať">
 <!ENTITY contextmenu_pasteandgo "Prilepiť a prejsť">
 <!ENTITY contextmenu_paste "Prilepiť">
