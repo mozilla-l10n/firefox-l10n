@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Ffontiau a Lliwiau">
 
-<!ENTITY  defaultFont.label           "Ffont rhagosodedig:">
-<!ENTITY  defaultFont.accesskey       "F">
-<!ENTITY  defaultSize.label           "Maint:">
-<!ENTITY  defaultSize.accesskey       "M">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Uwch…">
 <!ENTITY  advancedFonts.accesskey     "w">
