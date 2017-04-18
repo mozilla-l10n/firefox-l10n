@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Automaticky obnoviť každé 3 sekundy">
 <!ENTITY aboutNetworking.hostname              "Názov servera">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktívny">
 <!ENTITY aboutNetworking.idle                  "Nečinný">

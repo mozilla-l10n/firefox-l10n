@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 48em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Všeobecné">
-<!ENTITY  paneTabs.title          "Karty">
-<!ENTITY  paneSearch.title        "Vyhľadávanie">
-<!ENTITY  paneContent.title       "Obsah">
-<!ENTITY  paneApplications.title  "Aplikácie">
-<!ENTITY  panePrivacy.title       "Súkromie">
-<!ENTITY  paneContainers.title    "Kontajnerové karty">
-<!ENTITY  paneSecurity.title      "Bezpečnosť">
-<!ENTITY  paneAdvanced.title      "Spresnenie">
+<!ENTITY  paneGeneral.title             "Všeobecné">
+<!ENTITY  paneContainers.title          "Kontajnerové karty">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Synchronizácia">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Pomocník">
+

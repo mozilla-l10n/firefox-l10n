@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Všeobecné">
 
 <!ENTITY  warnOnAddonInstall.label        "Upozorniť ma, ak sa stránky pokúšajú inštalovať doplnky">
 <!ENTITY  warnOnAddonInstall.accesskey    "U">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "V">
 
 
-<!ENTITY  logins.label                  "Prihlasovacie údaje">
 
-<!ENTITY  rememberLogins.label          "Pamätať si prihlasovacie údaje k stránkam">
-<!ENTITY  rememberLogins.accesskey      "a">
 <!ENTITY  passwordExceptions.label      "Výnimky…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 
