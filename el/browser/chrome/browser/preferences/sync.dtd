@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
-<!ENTITY changeSyncDeviceName.label "Μετονομασία συσκευής…">
-<!ENTITY changeSyncDeviceName.accesskey "μ">
 <!ENTITY cancelChangeSyncDeviceName.label "Ακύρωση">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "κ">
 <!ENTITY saveChangeSyncDeviceName.label "Αποθήκευση">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
 <!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
 <!ENTITY verifiedManage.accesskey    "η">
-<!ENTITY disconnect.label            "Αποσύνδεση…">
-<!ENTITY disconnect.accesskey        "Δ">
 <!ENTITY verify.label                "Επαλήθευση email">
 <!ENTITY verify.accesskey            "Ε">
 <!ENTITY forget.label                "Διαγραφή email">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Είσοδος">
 <!ENTITY signedOut.accountBox.signin.accesskey  "Σ">
 
-<!ENTITY signedIn.engines.label       "Συγχρονισμός ανάμεσα σε όλες σας τις συσκευές">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

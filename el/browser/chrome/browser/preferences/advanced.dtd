@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Ενημέρωση">
 
 <!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
-<!ENTITY updateAuto1.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται: βελτιωμένη ασφάλεια)">
-<!ENTITY updateAuto1.accesskey           "Α">
-<!ENTITY updateCheckChoose.label         "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση">
-<!ENTITY updateCheckChoose.accesskey     "Ε">
-<!ENTITY updateManual.label              "Κανένας έλεγχος για ενημερώσεις (δεν προτείνεται: επισφαλής επιλογή)">
-<!ENTITY updateManual.accesskey          "μ">
 
-<!ENTITY updateHistory.label             "Εμφάνιση ιστορικού ενημερώσεων">
-<!ENTITY updateHistory.accesskey         "ρ">
 
 <!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
 <!ENTITY useService.accesskey            "υ">
 
-<!ENTITY autoUpdateOthers.label          "Αυτόματη ενημέρωση">
-<!ENTITY enableSearchUpdate.label        "Μηχανές αναζήτησης">
-<!ENTITY enableSearchUpdate.accesskey    "η">
+
 
 <!ENTITY offlineStorageNotify.label               "Ειδοποίηση όταν μια ιστοσελίδα ζητά να αποθηκεύσει δεδομένα για χρήση εκτός σύνδεσης">
 <!ENTITY offlineStorageNotify.accesskey           "Ε">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Διαγραφή δεδομένων χωρίς σύνδεση">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
-<!ENTITY certPersonal.label              "Αιτήματα">
-<!ENTITY certPersonal.description        "Όταν ένας διακομιστής ζητά το προσωπικό σας πιστοποιητικό:">
 <!ENTITY selectCerts.auto                "Αυτόματη επιλογή">
 <!ENTITY selectCerts.auto.accesskey      "Δ">
 <!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">

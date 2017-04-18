@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Δεξί κλικ ή τράβηγμα προς τα κάτω για προβολή ιστορικού">
 <!ENTITY backForwardButtonMenuMac.tooltip "Τράβηγμα προς στα κάτω για προβολή ιστορικού">
 <!ENTITY reloadCmd.label              "Ανανέωση">
-<!ENTITY reloadButton.tooltip         "Ανανέωση τρέχουσας σελίδας">
 <!ENTITY stopCmd.label                "Διακοπή">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Διακοπή φόρτωσης σελίδας">
 <!ENTITY goEndCap.tooltip             "Μετάβαση στη διεύθυνση της γραμμής διευθύνσεων">
 <!ENTITY printButton.label            "Εκτύπωση">
 <!ENTITY printButton.tooltip          "Εκτύπωση σελίδας">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Επαναφορά επιπέδου ζουμ">
-
 <!ENTITY searchItem.title             "Αναζήτηση">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Αρχική σελίδα">
 
 <!ENTITY bookmarksButton.label          "Σελιδοδείκτες">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "μ">
+
+
+
