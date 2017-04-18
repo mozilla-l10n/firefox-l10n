@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Vous avez empêché ce site d’accéder à vos données de géolocalisation.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Vous avez empêché ce site de stocker des données.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vous avez empêché ce site d’envoyer des notifications.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Vous avez bloqué le stockage persistant pour ce site.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Vous avez empêché ce site d’utiliser le stockage persistant.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afficher l’historique">
 
