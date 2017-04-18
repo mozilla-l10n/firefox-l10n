@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Käivitamine">
 
-<!ENTITY startupPage.label         "&brandShortName;i käivitamisel:">
-<!ENTITY startupPage.accesskey     "t">
 <!ENTITY startupUserHomePage.label "Kuvatakse avalehte">
 <!ENTITY startupBlankPage.label    "Kuvatakse tühja lehte">
 <!ENTITY startupPrevSession.label  "Kuvatakse viimati avatud aknaid ja kaarte">
 
-<!ENTITY homepage.label            "Avaleht:">
-<!ENTITY homepage.accesskey        "h">
 <!ENTITY useCurrentPage.label      "Kasuta aktiivset veebilehte">
 <!ENTITY useCurrentPage.accesskey  "K">
 <!ENTITY useMultiple.label         "Kasuta aktiivseid veebilehti">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Lubatakse &brandShortName;i ja Firefoxi samaaegne töötamine">
 <!ENTITY useFirefoxSync.label             "Vihje: kasutatakse erinevaid profiile. Andmete jagamiseks nende profiilide vahel kasuta Synci.">
-<!ENTITY getStarted.label                 "Tee algust Synci kasutamisega…">
 
 <!ENTITY e10sEnabled.label                "Lubatakse mitme protsessiga &brandShortName;">

@@ -197,10 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Ajaloo kuvamiseks tee paremklõps või hoia all">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ajaloo kuvamiseks hoia all">
 <!ENTITY reloadCmd.label              "Laadi uuesti">
-<!ENTITY reloadButton.tooltip         "Laadi uuesti">
 <!ENTITY stopCmd.label                "Peata">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Peata selle lehe laadimine">
 <!ENTITY goEndCap.tooltip             "Mine aadressiribal olevale aadressile">
 <!ENTITY printButton.label            "Prindi">
 <!ENTITY printButton.tooltip          "Prindi see leht">
@@ -233,11 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Taasta algsuurus">
-
 <!ENTITY searchItem.title             "Otsi">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Kodu">
 
 <!ENTITY bookmarksButton.label          "Järjehoidjad">
@@ -356,6 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Avatud kaarte pole">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Teistes seadmetes avatud kaartide nägemiseks lülita sisse kaartide sünkroniseerimine.">
@@ -889,3 +889,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Rohkem teavet DRMi kohta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
