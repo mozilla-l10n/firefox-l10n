@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "启用">
 <!ENTITY pref_home_updates_wifi "仅通过 Wi-Fi">
 <!ENTITY pref_category_home_homepage "主页">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "设置主页">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "自定义标签页">
 <!ENTITY pref_custom_tabs_summary3 "允许应用使用定制版本的 &brandShortName; 打开网站">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "活动流">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "启用">
 <!ENTITY pref_plugins_tap_to_play2 "点击播放">
 <!ENTITY pref_plugins_disabled "禁用">
-<!ENTITY pref_text_size "文字大小">
 <!ENTITY pref_restore_tabs "恢复标签页">
 <!ENTITY pref_restore_always "总是恢复">
 <!ENTITY pref_restore_quit "曾明确退出 &brandShortName; 则不要恢复">
-<!ENTITY pref_font_size_tiny "极小">
-<!ENTITY pref_font_size_small "小">
-<!ENTITY pref_font_size_medium "中">
-<!ENTITY pref_font_size_large "大">
-<!ENTITY pref_font_size_xlarge "超大">
-<!ENTITY pref_font_size_set "设置">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "字">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "敏捷的橙色小狐狸以超越预期的速度，灵活度以及安全性跳跃着。作为非营利机构，我们没有任何妥协的压力，能真正以您的名义进行自由的创新。这意味着更好的体验，为您和您的网络创造更加美好的未来。">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "允许自动播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制网站是否能够自动播放影片或其他媒体内容">
