@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "General">
 
 <!ENTITY  warnOnAddonInstall.label        "Advertir cuando los sitios intenten instalar complementos">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "Conexiones">
 
-<!ENTITY  rememberLogins.label          "Recordar conexiones a los sitios">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Excepciones…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

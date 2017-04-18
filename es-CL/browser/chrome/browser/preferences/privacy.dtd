@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Usar protección de seguimiento">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Barra de direcciones">
 
-<!ENTITY  locbar.suggest.label          "Al usar la barra de direcciones, sugerir:">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Búsquedas relacionadas del motor de búsqueda predeterminado">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Cambiar preferencias para las sugerencias del motor de búsqueda…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies de los sitios">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "Recordará el historial">
 <!ENTITY  historyHeader.dontremember.label "Nunca recordará el historial">
 <!ENTITY  historyHeader.custom.label       "Usará configuraciones personalizadas para el historial">

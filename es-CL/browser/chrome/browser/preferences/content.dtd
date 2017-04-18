@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Tipografías y colores">
 
-<!ENTITY  defaultFont.label           "Tipografía predeterminada:">
-<!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Tamaño:">
-<!ENTITY  defaultSize.accesskey       "T">
 
 <!ENTITY  advancedFonts.label         "Avanzado…">
 <!ENTITY  advancedFonts.accesskey     "A">
