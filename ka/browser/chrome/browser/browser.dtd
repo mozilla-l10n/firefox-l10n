@@ -197,10 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ისტორიის საჩვენებლად ჩამოქაჩეთ">
 <!ENTITY reloadCmd.label              "გადატვირთვა">
-<!ENTITY reloadButton.tooltip         "მიმდინარე გვერდის გადატვირთვა">
 <!ENTITY stopCmd.label                "გაჩერება">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "გვერდის ჩატვირთვის გაჩერება">
 <!ENTITY goEndCap.tooltip             "მდებარეობის ზოლში ნაჩვენებ მისამართზე გადასვლა">
 <!ENTITY printButton.label            "ამობეჭდვა">
 <!ENTITY printButton.tooltip          "ამ გვერდის ამობეჭდვა">
@@ -233,11 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
-<!ENTITY urlbar.zoomReset.tooltip     "გადიდების დონის ჩამოყრა">
-
 <!ENTITY searchItem.title             "ძიება">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "სახლი">
 
 <!ENTITY bookmarksButton.label          "სანიშნეები">
@@ -356,6 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "გახსნილი ჩანართები არაა">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
@@ -392,6 +392,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "მოძებნეთ ან შეიყვანეთ მისამართი">
 <!ENTITY urlbar.accesskey             "d">
+<!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.switchToTab.label     "გადასვლა დაფაზე:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "გსურთ ძიების პროცესის შემოთავაზებებით გაუმჯობესება?">
@@ -754,6 +755,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "ჩართეთ ჩანართების სინქრონიზაცია თქვენი სხვა მოწყობილობებიდან ჩანართების სიის სანახავად.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "გახსნა">
 <!ENTITY syncedTabs.context.open.accesskey                   "გ">
 <!ENTITY syncedTabs.context.openInNewTab.label               "გახსნა ახალ ჩანართში">
@@ -766,6 +771,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
 <!ENTITY syncedTabs.context.copy.label                       "კოპირება">
 <!ENTITY syncedTabs.context.copy.accesskey                   "კ">
+
 
 
 <!ENTITY syncBrand.shortName.label    "სინქრონიზაცია">
@@ -880,3 +886,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

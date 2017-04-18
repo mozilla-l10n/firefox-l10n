@@ -4,12 +4,8 @@
 
 <!ENTITY startup.label             "გაშვება">
 
-<!ENTITY startupPage.label         "&brandShortName;-ის ჩართვისას:">
-<!ENTITY startupPage.accesskey     "ჩ">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
 
-<!ENTITY homepage.label            "საწყისი გვერდი:">
-<!ENTITY homepage.accesskey        "გ">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "მ">
 <!ENTITY useMultiple.label         "მიმდინარე გვერდების გამოყენება">
@@ -36,6 +32,5 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName;-ის და Firefox-ის ერთად გაშვების ნების დართვა">
 <!ENTITY useFirefoxSync.label             "რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
-<!ENTITY getStarted.label                 "Sync-ის გამოყენების დაწყება…">
 
 <!ENTITY e10sEnabled.label                "მრავალპროცესიანი &brandShortName;">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "თვალთვალისგან დაცვის გამოყენება">
 <!ENTITY  trackingProtectionAlways.label       "ყოველთვის">
 <!ENTITY  trackingProtectionAlways.accesskey   "ყ">
 <!ENTITY  trackingProtectionPrivate.label      "მხოლოდ პირად ფანჯრებში">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "მისამართების ზოლი">
 
-<!ENTITY  locbar.suggest.label          "მისამართების ზოლის გამოყენებისას, შემოთავაზებული იქნეს:">
 <!ENTITY  locbar.history.label          "ისტორია">
 <!ENTITY  locbar.history.accesskey      "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "მსგავსი ძიებები ნაგულისხმევი საძიებო სისტემიდან">
 <!ENTITY  locbar.searches.accesskey     "ს">
 
-<!ENTITY  suggestionSettings.label      "საძიებო სისტემის შემოთავაზებების პარამეტრები…">
-<!ENTITY  suggestionSettings.accesskey  "თ">
 
 <!ENTITY  acceptCookies.label           "ფუნთუშების მიღება საიტებიდან">
 <!ENTITY  acceptCookies.accesskey       "მ">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "ფუნთუშების ნახვა…">
 <!ENTITY  showCookies.accesskey         "ჩ">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ბრაუზერი:">
-<!ENTITY  historyHeader.pre.accesskey      "ზ">
 <!ENTITY  historyHeader.remember.label     "დაიმახსოვრებს ისტორიას">
 <!ENTITY  historyHeader.dontremember.label "არასოდეს დაიმახსოვრებს ისტორიას">
 <!ENTITY  historyHeader.custom.label       "ისარგებლებს თქვენი მითითებებით">

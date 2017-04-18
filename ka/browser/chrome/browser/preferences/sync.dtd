@@ -18,7 +18,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "მოწყობილობის სახელი">
-<!ENTITY changeSyncDeviceName.label "მოწყობილობის სახელის შეცვლა…">
 <!ENTITY cancelChangeSyncDeviceName.label "გაუქმება">
 <!ENTITY saveChangeSyncDeviceName.label "შენახვა">
 
@@ -46,7 +45,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.label                "შესვლა">
 <!ENTITY profilePicture.tooltip      "პროფილის სურათის შეცვლა">
 <!ENTITY verifiedManage.label        "ანგარიშის მართვა">
-<!ENTITY disconnect.label            "კავშირის გაწყვეტა…">
 <!ENTITY verify.label                "ელ-ფოსტის დამოწმება">
 <!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
 
@@ -56,7 +54,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
 <!ENTITY signedOut.accountBox.signin  "შესვლა">
 
-<!ENTITY signedIn.engines.label       "დაასინქრონირეთ ყველა მოწყობილობაზე">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
