@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "ავტო-განახლება ყოველ 3 წამში">
 <!ENTITY aboutNetworking.hostname              "ჰოტის სახელი">
 <!ENTITY aboutNetworking.port                  "პორტი">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "მოქმედი">
 <!ENTITY aboutNetworking.idle                  "უქმი">

@@ -71,19 +71,12 @@
 
 <!ENTITY updateTab.label                 "განახლება">
 
-<!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებულია უსფართხოება)">
-<!ENTITY updateAuto1.accesskey           "ა">
-<!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: სახიფათოა)">
-<!ENTITY updateManual.accesskey          "დ">
 
-<!ENTITY updateHistory.label             "განახლების ისტორიის ჩვენება">
-<!ENTITY updateHistory.accesskey         "ი">
 
 <!ENTITY useService.label                "განახლებების დასაყენებლად ფონური მომსახურების გამოყენება">
 <!ENTITY useService.accesskey            "ფ">
 
-<!ENTITY enableSearchUpdate.label        "საძიებო სისტემები">
-<!ENTITY enableSearchUpdate.accesskey    "ს">
+
 
 
 <!ENTITY offlineAppsList2.label          "მოცემულ ვებ-საიტებს მონაცემების კავშირგარეშე გამოყენებისთვის შენახვის უფლება აქვთ:">

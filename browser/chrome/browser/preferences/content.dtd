@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "შრიფტები &amp; ფერები">
 
-<!ENTITY  defaultFont.label           "ნაგულისხმები შრიფტი:">
-<!ENTITY  defaultFont.accesskey       "ნ">
-<!ENTITY  defaultSize.label           "ზომა:">
-<!ENTITY  defaultSize.accesskey       "ზ">
 
 <!ENTITY  advancedFonts.label         "დამატებითი…">
 <!ENTITY  advancedFonts.accesskey     "დ">
