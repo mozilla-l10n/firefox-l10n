@@ -13,16 +13,9 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 52.5em; min-height: 50em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 52.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Ëmb lépp">
-<!ENTITY  paneTabs.title          "Koñ yi">
-<!ENTITY  paneSearch.title        "Wut">
-<!ENTITY  paneContent.title       "Këmb">
-<!ENTITY  paneApplications.title  "Jëfekaay">
-<!ENTITY  panePrivacy.title       "Dundu biir">
-<!ENTITY  paneSecurity.title      "Kaarange">
-<!ENTITY  paneAdvanced.title      "Xóot">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Ëmb lépp">
 
-<!ENTITY  paneSync.title          "Jàppante">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Ndimbal">
+

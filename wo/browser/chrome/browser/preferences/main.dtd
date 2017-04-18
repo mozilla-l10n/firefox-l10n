@@ -4,12 +4,8 @@
 
 <!ENTITY startup.label             "Tàmbali">
 
-<!ENTITY startupPage.label         "Bu &brandShortName; tambalee :">
-<!ENTITY startupPage.accesskey     "t">
 <!ENTITY startupBlankPage.label    "Wane xët bu wëyëŋ">
 
-<!ENTITY homepage.label            "Xëtu dalal jamm :">
-<!ENTITY homepage.accesskey        "a">
 <!ENTITY useCurrentPage.label      "Xët biy daw">
 <!ENTITY useCurrentPage.accesskey  "X">
 <!ENTITY useMultiple.label         "Xët yiy daw">

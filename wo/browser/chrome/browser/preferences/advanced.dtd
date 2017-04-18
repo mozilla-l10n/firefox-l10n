@@ -56,19 +56,12 @@
 
 <!ENTITY updateTab.label                 "Mottali yi">
 
-<!ENTITY updateAuto1.label               "Samp ñakk ndigal yeesal yi (ndigal la ngir sa kaarange)">
-<!ENTITY updateAuto1.accesskey           "S">
-<!ENTITY updateManual.label              "Bul seet mukk yeesal yi (tere nañu ko, ab risk la ci wallu kaarange)">
-<!ENTITY updateManual.accesskey          "B">
 
-<!ENTITY updateHistory.label             "Wone jaar jaaru mottali yi">
-<!ENTITY updateHistory.accesskey         "a">
 
 <!ENTITY useService.label                "Jëfandikool ab sarwiisu laltu ngir samp yeesal yi">
 <!ENTITY useService.accesskey            "k">
 
-<!ENTITY enableSearchUpdate.label        "Motëëri wut">
-<!ENTITY enableSearchUpdate.accesskey    "o">
+
 
 
 <!ENTITY offlineAppsList2.label          "Dal yii am nañu ay rootaan yu ñu aar ngir jëfandikoo leen ci jokkoodiku:">

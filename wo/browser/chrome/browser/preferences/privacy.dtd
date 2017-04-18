@@ -29,8 +29,6 @@
 <!ENTITY  showCookies.label             "Wane kuki yi…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "Yooni denc :">
-<!ENTITY  historyHeader.pre.accesskey      "d">
 <!ENTITY  historyHeader.remember.label     "Denc jaar jaar bi">
 <!ENTITY  historyHeader.dontremember.label "Bul denc mukk jaar jaar bi">
 <!ENTITY  historyHeader.custom.label       "Jëfandikoo parameetar yi ñu solal ngir jaar jaar bi">
@@ -69,3 +67,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "Parameetar…">
 <!ENTITY  clearOnCloseSettings.accesskey "P">
+

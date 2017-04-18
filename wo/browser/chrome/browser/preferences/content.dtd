@@ -2,25 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+
 <!ENTITY  blockPopups.label           "Tëye panlanteeru popup">
 <!ENTITY  blockPopups.accesskey       "T">
-
-
-
-
-
-
-
 
 
 <!ENTITY  popupExceptions.label       "Yi kenn tëggaalewul…">
 <!ENTITY  popupExceptions.accesskey   "Y">
 
 
-<!ENTITY  defaultFont.label           "Njabootu araf yi ñakk ndigal :">
-<!ENTITY  defaultFont.accesskey       "N">
-<!ENTITY  defaultSize.label           "Dayo :">
-<!ENTITY  defaultSize.accesskey       "D">
 
 <!ENTITY  advancedFonts.label         "Xóot…">
 <!ENTITY  advancedFonts.accesskey     "X">
@@ -34,9 +24,9 @@
 <!ENTITY chooseButton.label           "Tànn…">
 <!ENTITY chooseButton.accesskey       "T">
 
-
 <!ENTITY translateExceptions.label    "Yi kenn tëggaalewul…">
 <!ENTITY translateExceptions.accesskey "k">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -45,7 +35,5 @@
   -  browser/translation.dtd
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
-
-
 
 
