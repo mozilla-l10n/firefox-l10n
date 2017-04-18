@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "D">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Ni fydd awgrymiadau chwilio'n cael eu dangos yn y bar lleoliad gan eich bod wedi ffurfweddu &brandShortName; i byth cofio hanes.">
 
-<!ENTITY oneClickSearchEngines.label           "Peiriannau Chwilio Un Clic">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Mae'r bar chwilio'n caniatáu i chi ddefnyddio peiriannau eraill. Dewiswch pa rai i'w dangos.">
 
@@ -26,4 +25,3 @@
 <!ENTITY removeEngine.label                    "Tynnu">
 <!ENTITY removeEngine.accesskey                "T">
 
-<!ENTITY addMoreSearchEngines.label            "Ychwanegu peiriannau chwilio eraill…">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Defnyddio Diogelu Rhag Tracio">
+
 <!ENTITY  trackingProtectionAlways.label       "Bob tro">
 <!ENTITY  trackingProtectionAlways.accesskey   "B">
 <!ENTITY  trackingProtectionPrivate.label      "Dim ond mewn ffenestri preifat">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Bar Lleoliad">
 
-<!ENTITY  locbar.suggest.label          "Pan yn defnyddio'r bar lleoliad, cynnig o'ch:">
 <!ENTITY  locbar.history.label          "Hanes">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Nodau Tudalen">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Chwiliadau perthnasol o'r peiriant chwilio rhagosodedig">
 <!ENTITY  locbar.searches.accesskey     "h">
 
-<!ENTITY  suggestionSettings.label      "Newid dewisiadau am awgrymiadau peiriannau chwilio…">
-<!ENTITY  suggestionSettings.accesskey  "N">
 
 <!ENTITY  acceptCookies.label           "Derbyn cwcis o wefannau">
 <!ENTITY  acceptCookies.accesskey       "w">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Dangos Cwcis…">
 <!ENTITY  showCookies.accesskey         "C">
 
-<!ENTITY  historyHeader.pre.label          "Bydd &brandShortName; yn:">
-<!ENTITY  historyHeader.pre.accesskey      "B">
+
 <!ENTITY  historyHeader.remember.label     "Cofio hanes">
 <!ENTITY  historyHeader.dontremember.label "Peidio cofio hanes">
 <!ENTITY  historyHeader.custom.label       "Defnyddio gosodiadau cyfaddasu ar gyfer hanes">

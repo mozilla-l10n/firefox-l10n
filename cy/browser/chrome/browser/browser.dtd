@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Clic de neu dynnu lawr i ddangos hanes">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tynnu lawr i ddangos hanes">
 <!ENTITY reloadCmd.label              "Ail-lwytho">
-<!ENTITY reloadButton.tooltip         "Ail-lwytho'r dudalen gyfredol">
 <!ENTITY stopCmd.label                "Atal">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Atal llwytho'r dudalen">
 <!ENTITY goEndCap.tooltip             "Mynd i'r cyfeiriad yn y Bar Lleoliad">
 <!ENTITY printButton.label            "Argraffu">
 <!ENTITY printButton.tooltip          "Argraffu'r dudalen">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Agor panel neges y cyfrinair cadw">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Rydych wedi rhwystro storio data ar gyfer y wefan hon.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Rydych wedi rhwystro hysbysiadau ar gyfer y wefan hon.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Dangos hanes">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Ailosod lefel chwyddo">
-
 <!ENTITY searchItem.title             "Chwilio">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Cartref">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Dewisiadau Cydweddu">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Mewngofnodwch i weld rhestr o dabiau o'ch dyfeisiau eraill.">
 <!ENTITY appMenuRemoteTabs.signin.label "Mewngofnodwch i Sync">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Gweld Bar Ochr Tabiau wedi eu Cydweddu">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ychwanegu i'r Bar Offer">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Mewngofnodi i &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Dysgu rhagor am DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

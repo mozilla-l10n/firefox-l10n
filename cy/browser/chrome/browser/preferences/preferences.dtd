@@ -13,17 +13,13 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Cyffredinol">
-<!ENTITY  paneTabs.title          "Tabiau">
-<!ENTITY  paneSearch.title        "Chwilio">
-<!ENTITY  paneContent.title       "Cynnwys">
-<!ENTITY  paneApplications.title  "Rhaglenni">
-<!ENTITY  panePrivacy.title       "Preifatrwydd">
-<!ENTITY  paneContainers.title    "Tabiau Cynwysyddion">
-<!ENTITY  paneSecurity.title      "Diogelwch">
-<!ENTITY  paneAdvanced.title      "Uwch">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Cyffredinol">
 
-<!ENTITY  paneSync.title          "Sync">
+
+<!ENTITY  paneContainers.title          "Tabiau Cynwysyddion">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Cymorth">
+
+<!ENTITY searchInput.label        "Chwilio">
