@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "Αυτή η διεύθυνση είναι περιορισμένη">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "Δεν βρέθηκε ο εξυπηρετητής">
+<!ENTITY dnsNotFound.title "Δεν βρέθηκε ο διακομιστής">
 <!ENTITY dnsNotFound.longDesc "
 <ul>
   <li>Ελέγξτε τη διεύθυνση για ορθογραφικά λάθη όπως
@@ -126,12 +126,11 @@
 </ul>
 ">
 
-<!ENTITY unknownSocketType.title "Απρόσμενη απάντηση από τον εξυπηρετητή">
+<!ENTITY unknownSocketType.title "Απρόσμενη απάντηση από τον διακομιστή">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Βεβαιωθείτε ότι έχετε εγκατεστημένο τον Personal Security
-    Manager.</li>
-  <li>Αυτό μπορεί να προέρχεται από μια μη-τυπική ρύθμιση του εξυπηρετητή.</li>
+  <li>Βεβαιωθείτε ότι έχετε εγκατεστημένο το Personal Security Manager.</li>
+  <li>Αυτό μπορεί να προέρχεται από μια μη-τυπική ρύθμιση του διακομιστή.</li>
 </ul>
 ">
 
@@ -146,9 +145,9 @@
 <!ENTITY nssBadCert.title "Αποτυχία ασφαλούς σύνδεσης">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Μπορεί να υπάρχει πρόβλημα με τις ρυθμίσεις του εξυπηρετητή, ή κάποιος προσπαθεί να μιμηθεί κακόβουλα 
-τον εξυπηρετητή.</li>
-  <li>Αν έχετε συνδεθεί ξανά στο παρελθόν με αυτόν τον εξυπηρετητή, το σφάλμα μπορεί να είναι προσωρινό,\
+  <li>Μπορεί να υπάρχει πρόβλημα με τις ρυθμίσεις του διακομιστής ή κάποιος προσπαθεί να μιμηθεί κακόβουλα 
+τον διακομιστή.</li>
+  <li>Αν έχετε συνδεθεί ξανά στο παρελθόν με αυτόν τον διακομιστή, το σφάλμα μπορεί να είναι προσωρινό,\
 και μπορείτε να προσπαθήσετε ξανά.</li>
 </ul>
 ">
@@ -180,7 +179,7 @@ button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
 
 <!ENTITY securityOverride.warningContent "
-<p>Δεν πρέπει να προσθέσετε μια εξαίρεση αν χρησιμοποιείτε μια σύνδεση στο διαδίκτυο που δεν εμπιστεύεστε πλήρως, ή αν δεν έχετε ξαναδεί προειδοποίηση για αυτόν τον εξυπηρετητή.</p>
+<p>Δεν πρέπει να προσθέσετε μια εξαίρεση αν χρησιμοποιείτε μια σύνδεση στο διαδίκτυο που δεν εμπιστεύεστε πλήρως ή αν δεν έχετε ξαναδεί προειδοποίηση για αυτόν τον διακομιστή.</p>
 
 <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
 <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
