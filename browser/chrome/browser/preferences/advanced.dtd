@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "อัปเดต">
 
 <!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
-<!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "ตรวจสอบการอัปเดต แต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
-<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "อัปเดตโดยอัตโนมัติ">
-<!ENTITY enableSearchUpdate.label        "เครื่องมือค้นหา">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 <!ENTITY offlineStorageNotify.label               "แจ้งคุณเมื่อเว็บไซต์ขอจัดเก็บข้อมูลสำหรับใช้งานออฟไลน์">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "เอาข้อมูลออฟไลน์ออก">
 
 <!ENTITY certificateTab.label            "ใบรับรอง">
-<!ENTITY certPersonal.label              "คำร้องขอ">
-<!ENTITY certPersonal.description        "เมื่อเซิร์ฟเวอร์ร้องขอใบรับรองส่วนบุคคลของคุณ:">
 <!ENTITY selectCerts.auto                "เลือกมาหนึ่งโดยอัตโนมัติ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "ถามคุณทุกครั้ง">

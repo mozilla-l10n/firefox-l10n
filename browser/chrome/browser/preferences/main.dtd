@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
-<!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "แสดงหน้าแรกของคุณ">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
 <!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด">
 
-<!ENTITY homepage.label            "หน้าแรก:">
-<!ENTITY homepage.accesskey        "น">
 <!ENTITY useCurrentPage.label      "ใช้หน้าปัจจุบัน">
 <!ENTITY useCurrentPage.accesskey  "ป">
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "อนุญาตให้ &brandShortName; และ Firefox ทำงานพร้อมกัน">
 <!ENTITY useFirefoxSync.label             "เคล็ดลับ: สิ่งนี้ใช้โพรไฟล์แยก ใช้ Sync เพื่อแบ่งปันข้อมูลระหว่างกัน">
-<!ENTITY getStarted.label                 "เริ่มใช้งาน Sync…">
 
 <!ENTITY e10sEnabled.label                "เปิดใช้งาน &brandShortName; แบบหลายโพรเซส">
