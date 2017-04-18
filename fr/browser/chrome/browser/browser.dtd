@@ -234,7 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchItem.title             "Rechercher">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Accueil">
 
 <!ENTITY bookmarksButton.label          "Marque-pages">
