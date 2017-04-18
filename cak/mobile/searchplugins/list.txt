@@ -1,5 +1,0 @@
-amazondotcom
-duckduckgo
-google
-wikipedia-es
-yahoo-espanol
