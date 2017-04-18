@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_home_updates_wifi "เฉพาะผ่าน Wi-Fi">
 <!ENTITY pref_category_home_homepage "หน้าแรก">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "ตั้งหน้าแรก">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "แท็บที่กำหนดเอง">
 <!ENTITY pref_custom_tabs_summary3 "อนุญาตให้แอปเปิดเว็บไซต์โดยใช้รุ่นที่ปรับแต่งของ &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "สตรีมกิจกรรม">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "ถูกเปิดใช้งาน">
 <!ENTITY pref_plugins_tap_to_play2 "สัมผัสเพื่อเล่น">
 <!ENTITY pref_plugins_disabled "ถูกปิดใช้งาน">
-<!ENTITY pref_text_size "ขนาดตัวอักษร">
 <!ENTITY pref_restore_tabs "เรียกคืนแท็บ">
 <!ENTITY pref_restore_always "เรียกคืนเสมอ">
 <!ENTITY pref_restore_quit "อย่าเรียกคืนหลังออกจาก &brandShortName;">
-<!ENTITY pref_font_size_tiny "เล็กมาก">
-<!ENTITY pref_font_size_small "เล็ก">
-<!ENTITY pref_font_size_medium "ปานกลาง">
-<!ENTITY pref_font_size_large "ใหญ่">
-<!ENTITY pref_font_size_xlarge "ใหญ่มาก">
-<!ENTITY pref_font_size_set "ตั้ง">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "ก">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "จิ้งจอกว่องไวสีส้มกระโดดข้ามความคาดหมายของคุณ ด้วยความเร็วที่มากกว่า ยืดหยุ่นกว่า และปลอดภัยกว่า เพราะเราเป็นองค์กรไม่แสวงหาผลกำไร เราจึงมีอิสระในการสร้างนวัตกรรมในนามของคุณโดยปราศจากแรงกดดันใด ๆ ซึ่งนั่นหมายความว่าคุณจะได้รับประสบการณ์ที่ดีกว่า และสร้างอนาคตที่สดใสกว่าให้กับเว็บ">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "อนุญาตการเล่นอัตโนมัติ">
 <!ENTITY pref_media_autoplay_enabled_summary "ควบคุมการเล่นวิดีโอและเนื้อหาสื่ออื่นของเว็บไซต์โดยอัตโนมัติ">
