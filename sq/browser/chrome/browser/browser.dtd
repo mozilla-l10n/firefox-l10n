@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Djathtasklikojeni ose tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tërhiqeni poshtë që të shfaqet historiku">
 <!ENTITY reloadCmd.label              "Ringarkoje">
-<!ENTITY reloadButton.tooltip         "Ringarkoni faqen e tanishme">
 <!ENTITY stopCmd.label                "Ndale">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ndalni ngarkimin e kësaj faqeje">
 <!ENTITY goEndCap.tooltip             "Shkoni te adresa e dhënë te Shtylla e Vendeve">
 <!ENTITY printButton.label            "Shtype">
 <!ENTITY printButton.tooltip          "Shtypeni këtë faqe">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Shfaq historikun">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Ricaktoni shkallë zmadhimi/zvogëlimi">
-
 <!ENTITY searchItem.title             "Kërkoni">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Kreu">
 
 <!ENTITY bookmarksButton.label          "Faqerojtës">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Mësoni më tepër rreth DRM-s…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

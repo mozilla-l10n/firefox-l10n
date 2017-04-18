@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">
-<!ENTITY changeSyncDeviceName.label "Ndryshoni Emër Pajisjeje…">
-<!ENTITY changeSyncDeviceName.accesskey "N">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuloje">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Ruaje">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ndryshoni foto profili">
 <!ENTITY verifiedManage.label        "Administroni Llogari">
 <!ENTITY verifiedManage.accesskey    "A">
-<!ENTITY disconnect.label            "Shkëputuni…">
-<!ENTITY disconnect.accesskey        "k">
 <!ENTITY verify.label                "Verifikoni Email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Harroje këtë Email">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Hyni">
 <!ENTITY signedOut.accountBox.signin.accesskey  "H">
 
-<!ENTITY signedIn.engines.label       "Njëkohësoje nëpër krejt pajisjet">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
