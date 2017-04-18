@@ -6,15 +6,13 @@
 
 <!ENTITY  blockPopups.label           "Bloquear xanelas emerxentes">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
 <!ENTITY  popupExceptions.label       "Excepcións…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "Tipos de letra e cores">
 
-<!ENTITY  defaultFont.label           "Tipo de letra predeterminado:">
-<!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Tamaño:">
-<!ENTITY  defaultSize.accesskey       "T">
 
 <!ENTITY  advancedFonts.label         "Avanzadas…">
 <!ENTITY  advancedFonts.accesskey     "A">

@@ -66,19 +66,12 @@
 
 <!ENTITY updateTab.label                 "Actualizar">
 
-<!ENTITY updateAuto1.label               "Instalar actualizacións automaticamente (recomendado: mellora a seguranza)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateManual.label              "Non buscar actualizacións (non recomendado: risco de seguranza)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Amosar historial de actualización">
-<!ENTITY updateHistory.accesskey         "z">
 
 <!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
 <!ENTITY useService.accesskey            "g">
 
-<!ENTITY enableSearchUpdate.label        "Buscadores">
-<!ENTITY enableSearchUpdate.accesskey    "B">
+
 
 
 <!ENTITY offlineAppsList2.label          "Os seguintes sitios web poden almacenar datos para a utilización sen conexión:">

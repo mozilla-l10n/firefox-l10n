@@ -6,7 +6,6 @@
 <!ENTITY aboutNetworking.warning               "Esta funcionalidade é moi experimental. Non usar sen a supervisión dun adulto.">
 <!ENTITY aboutNetworking.showNextTime          "Amosar este aviso a próxima vez">
 <!ENTITY aboutNetworking.ok                    "Aceptar">
-<!ENTITY aboutNetworking.http                  "Http">
 <!ENTITY aboutNetworking.sockets               "Sóckets">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
@@ -14,7 +13,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Actualizar automaticamente cada 3 segundos">
 <!ENTITY aboutNetworking.hostname              "Nome do servidor">
 <!ENTITY aboutNetworking.port                  "Porto">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Activo">
 <!ENTITY aboutNetworking.idle                  "Inactivo">
