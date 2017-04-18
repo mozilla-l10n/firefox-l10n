@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "使用追蹤保護">
 <!ENTITY  trackingProtectionAlways.label       "總是">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "僅在隱私瀏覽視窗">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "網址列">
 
-<!ENTITY  locbar.suggest.label          "使用網址列時提供下列建議:">
 <!ENTITY  locbar.history.label          "瀏覽紀錄">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "書籤">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "預設搜尋引擎的相關搜尋結果">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "改變搜尋建議偏好⋯">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "允許網站設定 Cookie">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "顯示 Cookie…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; 應該:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "保留所有歷史記錄">
 <!ENTITY  historyHeader.dontremember.label "不保留歷史記錄">
 <!ENTITY  historyHeader.custom.label       "使用自訂的設定">

@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "啟動">
 
-<!ENTITY startupPage.label         "當 &brandShortName; 啟動時:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "顯示您的首頁">
 <!ENTITY startupBlankPage.label    "顯示空白頁">
 <!ENTITY startupPrevSession.label  "顯示您上次瀏覽的視窗與分頁">
 
-<!ENTITY homepage.label            "首頁:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "使用目前頁面">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "使用目前所有頁面">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "允許 &brandShortName; 與 Firefox 同時執行">
 <!ENTITY useFirefoxSync.label             "小秘訣: 這樣會使用不同設定檔，可使用 Sync 在兩套瀏覽器間同步資料。">
-<!ENTITY getStarted.label                 "開始使用 Sync…">
 
 <!ENTITY e10sEnabled.label                "啟用多程序的 &brandShortName;">

@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "字型與色彩">
 
-<!ENTITY  defaultFont.label           "預設字型:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "大小:">
-<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "進階…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -58,4 +54,3 @@
 <!ENTITY  playDRMContent.label         "播放 DRM 內容">
 <!ENTITY  playDRMContent.accesskey     "P">
 <!ENTITY  playDRMContent.learnMore.label "詳細資訊">
-
