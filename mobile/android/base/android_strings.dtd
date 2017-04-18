@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "ਸਮਰੱਥ ਹੈ">
 <!ENTITY pref_home_updates_wifi "ਕੇਵਲ Wi-Fi ਰਾਹੀਂ ਹੀ">
 <!ENTITY pref_category_home_homepage "ਮੁੱਖ-ਸਫ਼ਾ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "ਕਸਟਮ ਟੈਬਾਂ">
 <!ENTITY pref_custom_tabs_summary3 "ਐਪਾਂ ਨੂੰ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ &brandShortName; ਦੇ ਲੋੜ ਮੁਤਾਬਕ ਬਣਾਏ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ਸਰਗਰਮੀ ਸਟਰੀਮ">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "ਸਮਰੱਥ ਹੈ">
 <!ENTITY pref_plugins_tap_to_play2 "ਚਲਾਉਣ ਲਈ ਛੂਹੋ">
 <!ENTITY pref_plugins_disabled "ਅਸਮਰੱਥ ਹੈ">
-<!ENTITY pref_text_size "ਲਿਖਤ ਦਾ ਆਕਾਰ">
 <!ENTITY pref_restore_tabs "ਟੈਬਾਂ ਨੂੰ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_restore_always "ਹਮੇਸ਼ਾ ਬਹਾਲ ਕਰੋ">
 <!ENTITY pref_restore_quit "&brandShortName; ਬੰਦ ਕਰਨ ਦੇ ਬਾਅਦ ਬਹਾਲ ਨਾ ਕਰੋ">
-<!ENTITY pref_font_size_tiny "ਨਿੰਮ੍ਹੀ">
-<!ENTITY pref_font_size_small "ਛੋਟੀ">
-<!ENTITY pref_font_size_medium "ਮੱਧਮ">
-<!ENTITY pref_font_size_large "ਵੱਡੀ">
-<!ENTITY pref_font_size_xlarge "ਬਹੁਤ ਵੱਡੀ">
-<!ENTITY pref_font_size_set "ਸੈੱਟ ਕਰੋ">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "ਸੰਤਰੀ ਲੂੰਬੜ ਆਪਣੀ ਗਤੀ, ਆਖੇ ਲੱਗਣ ਅਤੇ ਵੱਧ ਸੁਰੱਖਿਆ ਨਾਲ ਤੁਹਾਡੀਆਂ ਉਮੀਦ ਤੋਂ ਅੱਗੇ ਲੰਘ ਗਿਆ ਹੈ। ਗ਼ੈਰ-ਫਾਇਦੇਮੰਦ ਸੰਗਠਨ ਹੋਣ ਦੇ ਨਾਲ ਅਸੀਂ ਨਵੀਆਂ ਕਾਢਾਂ ਕੱਢਣ ਦੌਰਾਨ ਸਮਝੌਤਾ ਕਰਨ ਦੇ ਕਿਸੇ ਵੀ ਦਬਾਅ ਤੋਂ ਮੁਕਤ ਹਾਂ। ਇਸ ਨਾਲ ਤੁਹਾਨੂੰ ਵਧੀਆ ਤਜਰਬਾ ਦਿੰਦੇ ਹਾਂ ਅਤੇ ਵੈੱਬ ਲਈ ਵਧੀਆ ਭਵਿੱਖ ਬਣਦਾ ਹੈ।">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
@@ -855,4 +846,4 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_delete_history "ਅਤੀਤੀ ਚੋਂ ਹਟਾਓ">
 
 <!ENTITY activity_stream_welcome_title "ਤੁਹਾਡੇ ਸੁਰਖੀਆਂ ਲਈ ਜੀ ਆਇਆਂ ਨੂੰ">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\'ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; now creates highlights of things you\&apos;ve discovered on the web so you can find your way back to great articles, videos, bookmarks, and other pages.">
