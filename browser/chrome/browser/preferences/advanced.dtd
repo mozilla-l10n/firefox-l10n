@@ -84,12 +84,24 @@
 <!ENTITY updateTab.label                 "Aktualizace">
 
 <!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
+<!ENTITY updateApplication.description   "Povolit aplikaci &brandShortName;">
+<!ENTITY updateAuto2.label               "Instalovat aktualizace automaticky (doporučeno z důvodu vyšší bezpečnosti)">
+<!ENTITY updateAuto2.accesskey           "I">
+<!ENTITY updateCheckChoose2.label        "Vyhledávat aktualizace, ale zeptat se na jejich instalaci">
+<!ENTITY updateCheckChoose2.accesskey    "e">
+<!ENTITY updateManual2.label             "Nikdy nevyhledávat aktualizace (nedoporučeno)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Zobrazit historii aktualizací…">
+<!ENTITY updateHistory2.accesskey        "b">
 
 <!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovat vyhledávací moduly">
+<!ENTITY enableSearchUpdate2.accesskey   "h">
 
+<!ENTITY reports.label                   "Hlášení">
 
 <!ENTITY offlineStorageNotify.label               "Upozornit, pokud server chce uložit offline obsah">
 <!ENTITY offlineStorageNotify.accesskey           "U">
@@ -103,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Smazat offline obsah">
 
 <!ENTITY certificateTab.label            "Certifikáty">
+<!ENTITY certPersonal2.description       "Pokud server vyžaduje váš osobní certifikát">
 <!ENTITY selectCerts.auto                "Vybrat jeden automaticky">
 <!ENTITY selectCerts.auto.accesskey      "a">
 <!ENTITY selectCerts.ask                 "Vždy se zeptat">

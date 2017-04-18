@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Spuštění">
 
+<!ENTITY startupPage2.label        "Při startu aplikace &brandShortName;">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Zobrazit vaši domovskou stránku">
 <!ENTITY startupBlankPage.label    "Zobrazit prázdnou stránku">
 <!ENTITY startupPrevSession.label  "Zobrazit okna a panely z minula">
 
+<!ENTITY homepage2.label           "Domovská stránka">
+<!ENTITY homepage2.accesskey       "m">
 <!ENTITY useCurrentPage.label      "Použít aktuální stránku">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Použít aktuální stránky">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Povolit současné spuštění aplikací &brandShortName; a Firefox">
 <!ENTITY useFirefoxSync.label             "Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít službu Sync.">
+<!ENTITY getStarted.notloggedin.label     "Přihlášení k &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Otevřít předvolby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Povolit multiprocesový &brandShortName;">
