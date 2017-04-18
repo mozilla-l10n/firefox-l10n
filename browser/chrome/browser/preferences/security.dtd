@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "安全性">
 
 <!ENTITY  warnOnAddonInstall.label        "在網站試圖安裝附加元件時通知您">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
@@ -23,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "表單與密碼">
 
+<!ENTITY  rememberLogins1.label          "記住網站的登入帳號與密碼">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "例外網站…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

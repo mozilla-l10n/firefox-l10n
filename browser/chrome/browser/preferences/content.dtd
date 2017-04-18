@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "字型與色彩">
 
+<!ENTITY  defaultFont2.label          "預設字型">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "大小">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "進階…">
 <!ENTITY  advancedFonts.accesskey     "A">

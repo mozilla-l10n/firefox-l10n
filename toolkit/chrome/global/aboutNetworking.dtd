@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "每三秒自動重新整理">
 <!ENTITY aboutNetworking.hostname              "主機名稱">
 <!ENTITY aboutNetworking.port                  "埠">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "啟用">
 <!ENTITY aboutNetworking.idle                  "閒置">
