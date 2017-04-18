@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "Starto">
 
-<!ENTITY startupPage.label         "Kiam &brandShortName; ekfunkcias:">
-<!ENTITY startupPage.accesskey     "e">
 <!ENTITY startupUserHomePage.label "Montri vian ekan paĝon">
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
 <!ENTITY startupPrevSession.label  "Montri viajn lastajn fenestrojn kaj langetojn">
 
-<!ENTITY homepage.label            "Eka paĝo:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Uzi la nunan paĝon">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Uzi nunajn paĝojn">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "Permesi ke &brandShortName; kaj Firefox funkciu samtempe">
 <!ENTITY useFirefoxSync.label             "Konsileto: tio ĉi uzas apartajn profilojn. Uzu Speguli por dividi datumojn inter ili.">
-<!ENTITY getStarted.label                 "Komenci uzi Speguli…">
 
 <!ENTITY e10sEnabled.label                "Aktivigi plurprocezan &brandShortName;">

@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 
 <!ENTITY updateApplication.label         "Ĝisdatigoj de &brandShortName;">
-<!ENTITY updateAuto1.label               "Aŭtomate instali ĝisdatigojn (rekomendita por via sekureco)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Kontroli ĉu estas ĝisdatigoj, sed permesi al vi elekti kiam instali ilin">
-<!ENTITY updateCheckChoose.accesskey     "K">
-<!ENTITY updateManual.label              "Neniam kontroli ĉu estas ĝisdatigoj (ne rekomendita: sekureca risko)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Montri la historion de ĝisdatigoj">
-<!ENTITY updateHistory.accesskey         "M">
 
 <!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY autoUpdateOthers.label          "Aŭtomate ĝisdatigi">
-<!ENTITY enableSearchUpdate.label        "Serĉilojn">
-<!ENTITY enableSearchUpdate.accesskey    "S">
+
 
 <!ENTITY offlineStorageNotify.label               "Diri al mi kiam retejoj petas konservi datumojn por uzi malkonektite">
 <!ENTITY offlineStorageNotify.accesskey           "r">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Forigi malkonektitaĵojn">
 
 <!ENTITY certificateTab.label            "Atestiloj">
-<!ENTITY certPersonal.label              "Petoj">
-<!ENTITY certPersonal.description        "Kiam servilo petas vian personan atestilon:">
 <!ENTITY selectCerts.auto                "Aŭtomate elekti unu">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "Demandi ĉiufoje">
