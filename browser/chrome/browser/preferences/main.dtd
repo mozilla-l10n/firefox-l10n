@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Spustenie">
 
+<!ENTITY startupPage2.label        "Po spustení prehliadača &brandShortName; zobraziť:">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "domovskú stránku">
 <!ENTITY startupBlankPage.label    "prázdnu stránku">
 <!ENTITY startupPrevSession.label  "naposledy otvorené okná a karty">
 
+<!ENTITY homepage2.label           "Domovská stránka">
+<!ENTITY homepage2.accesskey       "m">
 <!ENTITY useCurrentPage.label      "Použiť aktuálnu stránku">
 <!ENTITY useCurrentPage.accesskey  "s">
 <!ENTITY useMultiple.label         "Použiť aktuálne stránky">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Umožniť, aby &brandShortName; a Firefox mohli byť spustené v rovnakom čase">
 <!ENTITY useFirefoxSync.label             "Tip: použijú sa oddelené používateľské profily. Ak chcete medzi nimi zdieľať údaje, môžete využiť službu Sync.">
+<!ENTITY getStarted.notloggedin.label     "Prihlásiť sa do služby &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Zapnúť režim viacerých procesov prehliadača &brandShortName;">
