@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "ផ្ទុក​ឡើងវិញ​ដោយ​ស្វ័យប្រវត្តិ​នៅ​រាល់ ៣ វិនាទី​ម្ដង">
 <!ENTITY aboutNetworking.hostname              "ឈ្មោះ​ម៉ាស៊ីន">
 <!ENTITY aboutNetworking.port                  "ច្រក">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "សកម្ម">
 <!ENTITY aboutNetworking.idle                  "ទំនេរ">
@@ -29,7 +28,5 @@
 <!ENTITY aboutNetworking.messagesReceived      "បាន​ទទួល​សារ">
 <!ENTITY aboutNetworking.bytesSent             "បាន​ផ្ញើ​បៃ">
 <!ENTITY aboutNetworking.bytesReceived         "ចំនួន​បៃ​ដែល​បាន​ទទួល">
-
 <!ENTITY aboutNetworking.dnsLookupButton       "ដោះស្រាយ">
-
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">

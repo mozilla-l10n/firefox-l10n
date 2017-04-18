@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "ទូទៅ">
 
 <!ENTITY  warnOnAddonInstall.label        "ព្រមាន​អ្នក​ពេល​វេបសាយ​ព្យាយាម​ដំឡើង​កម្មវិធី​បន្ថែម">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "ង">
 
 
-<!ENTITY  logins.label                  "ចូល">
 
-<!ENTITY  rememberLogins.label          "ចាំ​ការ​ចូល​សម្រាប់​តំបន់បណ្ដាញ​នេះ">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ករណី​លើកលែង…">
 <!ENTITY  passwordExceptions.accesskey  "ង">
 

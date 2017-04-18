@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "ចាប់ផ្ដើម​ឡើង">
 
-<!ENTITY startupPage.label         "ពេល &brandShortName; ចាប់ផ្ដើម ៖">
-<!ENTITY startupPage.accesskey     "ច">
 <!ENTITY startupUserHomePage.label "បង្ហាញ​ទំព័រ​ដើម​របស់​អ្នក">
 <!ENTITY startupBlankPage.label    "បង្ហាញ​ទំព័រ​ទទេ">
 <!ENTITY startupPrevSession.label  "បង្ហាញ​បង្អួច និង​ផ្ទាំង​របស់​ខ្ញុំ​កាល​ពី​មុន">
 
-<!ENTITY homepage.label            "គេហ​ទំព័រ ៖">
-<!ENTITY homepage.accesskey        "ទ">
 <!ENTITY useCurrentPage.label      "ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
 <!ENTITY useCurrentPage.accesskey  "ប">
 <!ENTITY useMultiple.label         "ប្រើ​ទំព័រ​បច្ចុប្បន្ន">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "អនុញ្ញាត​ឲ្យ &brandShortName; និង Firefox ដំណើរការ​ក្នុង​ពេល​ដូចគ្នា">
 <!ENTITY useFirefoxSync.label             "ព័ត៌មាន​ជំនួយ៖ វា​ប្រើ​បវត្តិរូប​ដាច់ដោយឡែក។ ប្រើ​ការ​ធ្វើ​សមកាលកម្ម​ដើម្បី​ចែករំលែក​ទិន្នន័យ​រវាង​ពួកគេ។">
-<!ENTITY getStarted.label                 "ចាប់ផ្ដើម​ប្រើ​សមកាលកម្ម...">
 
 <!ENTITY e10sEnabled.label                "អនុញ្ញាត​ &brandShortName; ដំណើរការ​ច្រើន​ប្រភេទ​​">
