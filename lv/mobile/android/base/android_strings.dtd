@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Aktivizēts">
 <!ENTITY pref_home_updates_wifi "Tikai pa Wi-Fi">
 <!ENTITY pref_category_home_homepage "Mājas lapa">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Iestatīt mājas lapu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Pielāgotās cilnes">
 <!ENTITY pref_custom_tabs_summary3 "Atļaut aplikācijām atvērt mājas lapas ar pielāgotu &brandShortName; versiju ">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Darbību plūsma">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Aktivizēts">
 <!ENTITY pref_plugins_tap_to_play2 "Pieskarieties, lai atjauninātu">
 <!ENTITY pref_plugins_disabled "Deaktivētas">
-<!ENTITY pref_text_size "Teksta izmērs">
 <!ENTITY pref_restore_tabs "Cilņu atjaunošana">
 <!ENTITY pref_restore_always "Vienmēr atjaunot">
 <!ENTITY pref_restore_quit "Neatjaunot pēc &brandShortName; aizvēršanas">
-<!ENTITY pref_font_size_tiny "Sīks">
-<!ENTITY pref_font_size_small "Mazs">
-<!ENTITY pref_font_size_medium "Vidējs">
-<!ENTITY pref_font_size_large "Liels">
-<!ENTITY pref_font_size_xlarge "Ļoti liels">
-<!ENTITY pref_font_size_set "Iestatīt">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Mazā oranžā lapsa pārlēca pāri glāžšķūņa rūķeļiem ātrāk, veiklāk un drošāk. Kā bezpeļņas organizācija, mēs atļaujamies inovēt bez kompromisiem. Tas nozīmē patīkamāku pārlūkošanu jums un gaišāku nākotni tīmeklim.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Atļaut video palaišanu">
 <!ENTITY pref_media_autoplay_enabled_summary "Vai ļaut mājas lapām automātiski palaist video un citu mēdiju saturu">
