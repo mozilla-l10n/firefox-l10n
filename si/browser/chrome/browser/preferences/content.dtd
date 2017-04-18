@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "අක්‍ෂර සහ වර්ණ">
 
-<!ENTITY  defaultFont.label           "පෙරනිමි අක්‍ෂරය:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "විශාලත්වය:">
-<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "වැඩිමනත්...">
 <!ENTITY  advancedFonts.accesskey     "A">

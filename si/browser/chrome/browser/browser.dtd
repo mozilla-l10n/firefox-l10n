@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න හෝ දකුණත් ක්ලික් කරන්න">
 <!ENTITY backForwardButtonMenuMac.tooltip "පෙරදෑ පෙන්වීමට පහළට අදින්න">
 <!ENTITY reloadCmd.label              "යළි පූර්ණය">
-<!ENTITY reloadButton.tooltip         "භාවිත පිටුව ප්‍රතිපූරණය කරන්න">
 <!ENTITY stopCmd.label                "නවතන්න">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "පිටුව ලබාගැනීම නවතන්න">
 <!ENTITY goEndCap.tooltip             "පිහිටුම් තීරුවේ තුළ ඇති ලිපිනට යන්න">
 <!ENTITY printButton.label            "මුද්‍රණය">
 <!ENTITY printButton.tooltip          "පිටුව මුද්‍රණය">
@@ -230,11 +228,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "අතීතය පෙන්වන්න">
 
-<!ENTITY urlbar.zoomReset.tooltip     "විශාලන මට්ටම යළි සිටුවන්න">
-
 <!ENTITY searchItem.title             "සොයන්න">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "මුල් පිටුව">
 
 <!ENTITY bookmarksButton.label          "පිටු සලකුණු">
@@ -892,3 +888,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM පිළිබඳ වැඩිදුර දැනගන්න...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

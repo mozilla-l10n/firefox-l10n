@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ලුහුබැඳීම් ආරක්ෂාව භාවිතා කරන්න">
 <!ENTITY  trackingProtectionAlways.label       "සැමවිටම">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "පුද්ගලික කවුළුවකදී පමණක්">
@@ -27,7 +26,6 @@
 
 <!ENTITY  locationBar.label             "ස්ථාන තීරුව">
 
-<!ENTITY  locbar.suggest.label          "ස්ථානීය තීරුව භාවිත කරන විට, යෝජනා කරන්න:">
 <!ENTITY  locbar.history.label          "ඉතිහාසය">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "පිටු සලකුණු">
@@ -36,7 +34,6 @@
 <!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "අඩවි වෙතින් කුකී පිළිගන්න">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -59,8 +56,6 @@
 <!ENTITY  showCookies.label             "කුකි දර්ශනය කරන්න...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "අතීතය මතක තබාගන්න">
 <!ENTITY  historyHeader.dontremember.label "කිසිවිටෙක අතීතය මතක තබා නොගන්න">
 <!ENTITY  historyHeader.custom.label       "අතීතය සඳහා රිසිකරණ සැකසුම් භාවිතා කරන්න">
