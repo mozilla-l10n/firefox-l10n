@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "උපාංග නාමය">
-<!ENTITY changeSyncDeviceName.label "මෙවලම් නාමය වෙනස් කරන්න...">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "එපා">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "සුරකින්න">
@@ -51,8 +49,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY verifiedManage.label        "ගිණුම කළමනාකරණය කරන්න">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "විසන්ධි...">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ඊ-තැපෑල තහවුරු කරන්න">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "මෙම ඊ-තැපෑල අමතක කරන්න">
@@ -64,7 +60,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "ඇතුළු වන්න">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "සියළු උපාංග හරහා සමමුහුර්ත කරන්න">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

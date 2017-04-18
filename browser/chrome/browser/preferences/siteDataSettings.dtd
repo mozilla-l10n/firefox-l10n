@@ -6,8 +6,6 @@
 <!ENTITY     hostCol.label                 "අඩවිය">
 <!ENTITY     statusCol.label               "තත්වය">
 <!ENTITY     usageCol.label                "ගබඩා කිරීම">
-<!ENTITY     searchPlaceHolder             "සොයන්න">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "තෝරාගත් එක ඉවත් කරන්න">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "වෙනස්කම් සුරකින්න">

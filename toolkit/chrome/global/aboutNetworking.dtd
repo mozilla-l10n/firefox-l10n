@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "තත්පර 3 කට වරක් ස්වයං ප්‍රතිපූර්ණය">
 <!ENTITY aboutNetworking.hostname              "ධාරක නම">
 <!ENTITY aboutNetworking.port                  "පේනුව">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "සක්‍රීය">
 <!ENTITY aboutNetworking.idle                  "නිශ්චල">

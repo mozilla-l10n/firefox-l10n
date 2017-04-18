@@ -4,14 +4,10 @@
 
 <!ENTITY startup.label             "ආරම්භය">
 
-<!ENTITY startupPage.label         "&brandShortName; ආරම්භ කිරීමේදී:">
-<!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "ඔබගේ නිවාස පිටුව පෙන්වන්න">
 <!ENTITY startupBlankPage.label    "හිස් පිටුවක් පෙන්වන්න">
 <!ENTITY startupPrevSession.label  "අවසන් වරට තිබූ ඔබගේ කවුළු සහ ටැබ් පෙන්වන්න">
 
-<!ENTITY homepage.label            "මුල් පිටුව:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "දැන් පවතින පිටුව">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "දැන් පවතින පිටුව">
@@ -40,6 +36,5 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; හා Firefox එකම මොහොතේ ධාවනය වීමට ඉඩ දෙන්න">
 <!ENTITY useFirefoxSync.label             "ඉඟිය: මෙය වෙනස් පැතිකඩ භාවිත කරයි. ඒවා අතර දත්ත බෙදාගැනීමට සම්මුහුර්ත භාවිත කරන්න.">
-<!ENTITY getStarted.label                 "සම්මුහුර්ත භාවිතය අරඹන්න...">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; බහු-කාර්යාවලිය සක්‍රීය කරන්න">
