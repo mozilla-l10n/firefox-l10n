@@ -1,0 +1,16 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab преминува низ јазичињата според редоследот по кој биле користени">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "Н">
+
+<!ENTITY newWindowsAsTabs.label       "Новите прозорци отворај ги како јазичиња">
+<!ENTITY newWindowsAsTabs.accesskey   "п">
+
+
+
+
+<!ENTITY showTabsInTaskbar.label          "Покажувај преглед на јазичињата во лентата со задачи на Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "к">
+<!ENTITY tabsGroup.label          "Јазичиња">
