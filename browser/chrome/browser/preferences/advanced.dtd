@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Kemaskini">
 
 <!ENTITY updateApplication.label         "&brandShortName; kemaskini">
-<!ENTITY updateAuto1.label               "Pasang kemaskini secara automatik (digalakkan: meningkatkan keselamatan)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Semak kemaskini, tetapi anda pilih samada mahu memasangnya">
-<!ENTITY updateCheckChoose.accesskey     "S">
-<!ENTITY updateManual.label              "Jangan sesekali semak kemaskini (tidak digalakkan: risiko keselamatan)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Papar Sejarah Kemaskini">
-<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Gunakan servis latar belakang bagi pemasangan versi terkini">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Kemaskini automatik">
-<!ENTITY enableSearchUpdate.label        "Enjin Carian">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 <!ENTITY offlineStorageNotify.label               "Maklumkan anda apabila laman web mahu menyimpan data bagi kegunaan luar talian">
 <!ENTITY offlineStorageNotify.accesskey           "B">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Alih keluar data luar talian">
 
 <!ENTITY certificateTab.label            "Sijil">
-<!ENTITY certPersonal.label              "Permintaan">
-<!ENTITY certPersonal.description        "Apabila pelayan meminta sijil peribadi anda:">
 <!ENTITY selectCerts.auto                "Pilih satu secara automatik">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Tanya setiap kali">
