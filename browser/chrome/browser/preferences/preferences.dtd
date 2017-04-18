@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Obecné">
-<!ENTITY  paneTabs.title          "Panely">
-<!ENTITY  paneSearch.title        "Vyhledávání">
-<!ENTITY  paneContent.title       "Obsah">
-<!ENTITY  paneApplications.title  "Aplikace">
-<!ENTITY  panePrivacy.title       "Soukromí">
-<!ENTITY  paneContainers.title    "Kontejnerové panely">
-<!ENTITY  paneSecurity.title      "Zabezpečení">
-<!ENTITY  paneAdvanced.title      "Rozšířené">
+<!ENTITY  paneGeneral.title             "Obecné">
+<!ENTITY  paneContainers.title          "Kontejnerové panely">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Nápověda">
+

@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastavení - Data stránek">
-<!ENTITY     settings.description          "Následující servery si vyžádaly ukládání dat na váš disk. Můžete nastavit, které servery mohou data ukládat. Běžná data stránek jsou ukládána dočasně a mohou být automaticky smazána.">
 <!ENTITY     hostCol.label                 "Server">
 <!ENTITY     statusCol.label               "Stav">
 <!ENTITY     usageCol.label                "Úložiště">
-<!ENTITY     searchPlaceHolder             "Hledat">
-<!ENTITY     searchPlaceHolder.accesskey   "H">
 <!ENTITY     removeSelected.label          "Odebrat vybrané">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Uložit změny">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Zrušit">
 <!ENTITY     cancel.accesskey              "Z">
 <!ENTITY     removingDialog.title          "Odstraňování dat stránky">
-<!ENTITY     removingDialog.description    "Odstranění dat stránky odstraní také soubory cookie. To může způsobit vaše odhlášení z webové stránky a odstranění offline obsahu. Opravdu chcete změny provést?">
 <!ENTITY     siteTree.label                "Budou odstraněny následující soubory cookie:">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Používat Ochranu proti sledování">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Adresní řádek">
 
-<!ENTITY  locbar.suggest.label          "Při použití adresního řádku našeptávat:">
 <!ENTITY  locbar.history.label          "Historii">
 <!ENTITY  locbar.history.accesskey      "i">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Související vyhledávání od výchozího vyhledávacího modulu">
 <!ENTITY  locbar.searches.accesskey     "v">
 
-<!ENTITY  suggestionSettings.label      "Změnit předvolby našeptávání vyhledávače…">
-<!ENTITY  suggestionSettings.accesskey  "y">
 
 <!ENTITY  acceptCookies.label           "Povolit serverům nastavovat cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Správce cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "Nastavení historie:">
-<!ENTITY  historyHeader.pre.accesskey      "N">
 <!ENTITY  historyHeader.remember.label     "Pamatovat si historii">
 <!ENTITY  historyHeader.dontremember.label "Nikdy si nepamatovat historii">
 <!ENTITY  historyHeader.custom.label       "Použít pro historii vlastní nastavení">
