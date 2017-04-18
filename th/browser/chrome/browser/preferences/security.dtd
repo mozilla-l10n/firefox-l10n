@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "ทั่วไป">
 
 <!ENTITY  warnOnAddonInstall.label        "เตือนคุณเมื่อไซต์พยายามจะติดตั้งส่วนเสริม">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "อ">
 
 
-<!ENTITY  logins.label                  "การเข้าสู่ระบบ">
 
-<!ENTITY  rememberLogins.label          "จดจำการเข้าสู่ระบบสำหรับไซต์">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ข้อยกเว้น…">
 <!ENTITY  passwordExceptions.accesskey  "อ">
 
