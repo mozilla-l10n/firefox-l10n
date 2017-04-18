@@ -15,8 +15,11 @@
 
 <!ENTITY  paneGeneral.title             "Algemien">
 <!ENTITY  paneContainers.title          "Kontenerljepblêden">
+<!ENTITY  paneUpdates.title             "Fernijingen">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox-account">
 
 <!ENTITY  helpButton.label        "Help">
 
+<!ENTITY searchInput.label        "Sykje">
