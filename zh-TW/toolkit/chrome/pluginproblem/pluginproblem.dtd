@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "檔案">
 <!ENTITY plugin.mimeTypes                                    "MIME 類型">
 <!ENTITY plugin.flashProtectedMode.label                     "開啟 Adobe Flash 的保護模式">
+<!ENTITY plugin.enableBlocklists.label                       "封鎖危險或惱人的 Flash 內容">

@@ -13,10 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "搜尋結果">
 <!ENTITY  paneGeneral.title             "一般">
+<!ENTITY  paneFilesApplications.title   "檔案與應用程式">
+<!ENTITY  panePrivacySecurity.title     "隱私權與安全性">
 <!ENTITY  paneContainers.title          "容器分頁">
+<!ENTITY  paneUpdates.title             "更新">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox 帳號">
 
 <!ENTITY  helpButton.label        "說明">
 
+<!ENTITY searchInput.label        "搜尋">
