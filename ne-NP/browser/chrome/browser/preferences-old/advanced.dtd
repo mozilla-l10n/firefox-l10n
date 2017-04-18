@@ -1,0 +1,122 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Note: each tab panel must contain unique accesskeys -->
+
+
+<!ENTITY generalTab.label                "सामान्य">
+
+<!ENTITY accessibility.label             "पहुँचता">
+
+<!ENTITY useCursorNavigation.label       "पृष्ठहरू सफर गर्दा जहिले पनि कर्सर किहरू प्रयोग गर्नुहोस्">
+<!ENTITY useCursorNavigation.accesskey   "c">
+
+
+
+
+<!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार टच किबोर्ड देखाउनु होस्। ">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
+
+<!ENTITY browsing.label                  "ब्राउजिङ्ग">
+
+<!ENTITY useAutoScroll.label             "अटोस्क्रोलिङ्ग प्रयोग गर्नुहोस्">
+<!ENTITY useAutoScroll.accesskey         "a">
+<!ENTITY useSmoothScrolling.label        "सरर र स्क्रोल प्रयोग गर्नुहोस्">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
+<!ENTITY allowHWAccel.accesskey          "r">
+
+
+
+<!ENTITY dataChoicesTab.label            "डाटा चयनहरू">
+
+<!ENTITY healthReportDesc.label          "तपाईँलाई तपाईँको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईँको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईँको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; सँग बाँड्दछ ।">
+<!ENTITY enableHealthReport.label        " &brandShortName; को स्वास्थ्य रिपोर्ट सक्षम पार्नुहोस्">
+<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
+
+<!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; तपाईँको ब्राउजरसँग सम्बन्धित प्रदर्शन, उपयोग, हार्डवेयर र अनुकुलन डाटा लाई &vendorShortName; सँग बाँड्दछ">
+
+
+<!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
+
+<!ENTITY crashReporterDesc2.label         "क्रयास् रिपोटले &vendorShortName; लाई समस्या समाधान गर्न मद्दत गर्छ र तपाईँको ब्राउजरलाई स्थिर र सुरक्षित बनाउँछ">
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; लाई तपाईँको तर्फबाट ब्याकलग क्रयास् रिपोट पठाउन अनुमति दिनुहोस्">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY crashReporterLearnMore.label     "अझ जान्नुहोस्">
+
+<!ENTITY networkTab.label                "नेटवर्क">
+
+<!ENTITY connection.label                "जडान">
+
+<!ENTITY connectionDesc.label            "&brandShortName; कसरी इन्टरनेटसँग जोडिएको छ कन्फिगर गर्नुहोस्">
+<!ENTITY connectionSettings.label        "सेटिङ्हरू…">
+<!ENTITY connectionSettings.accesskey    "e">
+
+<!ENTITY httpCache.label                 "वेबबाट लिएका सामग्रीहरू">
+
+<!ENTITY offlineStorage2.label           "अफलाईन वेब सामग्री र प्रयोगकर्ता डाटा">
+<!--  Site Data section manages sites using Storage API and is under Network -->
+
+
+
+
+
+<!-- LOCALIZATION NOTE:
+  The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
+  line in preferences as follows:
+
+  &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
+-->
+
+<!ENTITY limitCacheSizeBefore.label      "क्याचलाई सिमित गर्नुहोस">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
+<!ENTITY limitCacheSizeAfter.label       "MB ठाउँ">
+<!ENTITY clearCacheNow.label             "खाली गर्नुहोस्">
+<!ENTITY clearCacheNow.accesskey         "C">
+<!ENTITY clearOfflineAppCacheNow.label   "अहिले खाली गर्नुहोस्">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
+<!ENTITY overrideSmartCacheSize.label    "स्वचालित क्याच संचालनलाई अोवरराईड गर्नुहोस्">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
+
+<!ENTITY updateTab.label                 "अद्यावधिक">
+
+<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस् (सिफारिस गरिन्छ: उन्नत सुरक्षाको लागि)">
+<!ENTITY updateAuto1.accesskey           "A">
+
+
+<!ENTITY updateManual.label              "अद्यावधिहरूको लागि कहिल्यै जाँच नगर्ने (सिफारिस गरिँदैन: सुरक्षा जोखिम)">
+<!ENTITY updateManual.accesskey          "N">
+
+<!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
+<!ENTITY updateHistory.accesskey         "p">
+
+<!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY enableSearchUpdate.label        "खोज इन्जिनहरू">
+<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
+<!ENTITY offlineStorageNotifyExceptions.label     "अपवादहरू....">
+<!ENTITY offlineStorageNotifyExceptions.accesskey "x">
+
+<!ENTITY offlineAppsList2.label          "निम्न वेबसाइटहरू अफलाइन प्रयोगको लागि डाटा भण्डारण गर्न अनुमति प्राप्त छन्:">
+<!ENTITY offlineAppsList.height          "7em">
+<!ENTITY offlineAppsListRemove.label     "हटाउनुहोस्…">
+<!ENTITY offlineAppsListRemove.accesskey "R">
+<!ENTITY offlineAppRemove.confirm        "अफलाइन तथ्याङ्क हटाउनुहोस्">
+
+<!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
+<!ENTITY certPersonal.label              "अनुरोधहरू">
+
+<!ENTITY selectCerts.auto                "स्वचालित रूपमा एउटा छान्नुहोस्">
+
+
+
+<!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरू">
+<!ENTITY viewSecurityDevices.accesskey   "D">
