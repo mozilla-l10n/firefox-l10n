@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "Halaman utama">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Gunakan untuk tab baru">
 <!ENTITY home_homepage_title "Tetapkan Halaman Utama">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Izinkan apps untuk membuka laman web menggunakan versi penyesuaian &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Buka guna &formatS;">
+<!ENTITY custom_tabs_menu_footer "Dikuasakan oleh &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL disalin">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Strim Aktiviti">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Guna saiz font sistem">
+<!ENTITY pref_use_system_font_size_summary "Skala kandungan web mengikut saiz fon sistem">
 
 <!ENTITY pref_media_autoplay_enabled "Izinkan automain">
 <!ENTITY pref_media_autoplay_enabled_summary "Kawal jika laman web boleh automain video dan kandungan media lain">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
 <!ENTITY contextmenu_remove "Alih keluar">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Halaman utama">
+<!ENTITY contextmenu_set_as_homepage "Tetapkan sebagai Halaman Utama">
 <!ENTITY contextmenu_share "Kongsi">
 <!ENTITY contextmenu_pasteandgo "Tampal &amp; Laksanakan">
 <!ENTITY contextmenu_paste "Tampal">
