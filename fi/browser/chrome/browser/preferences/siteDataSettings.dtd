@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Asetukset - Sivustojen tallentamat tiedot">
-<!ENTITY     settings.description          "Seuraavat sivustot ovat pyytäneet lupaa tallentaa tietoja levylle. Voit valita, minkä sivustojen annetaan lupa tallentaa tietoja. Oletusarvoisesti tiedot ovat väliaikaisia, ja ne poistetaan automaattisesti.">
 <!ENTITY     hostCol.label                 "Sivusto">
 <!ENTITY     statusCol.label               "Tila">
 <!ENTITY     usageCol.label                "Tallennustila">
-<!ENTITY     searchPlaceHolder             "Etsi">
-<!ENTITY     searchPlaceHolder.accesskey   "E">
 <!ENTITY     removeSelected.label          "Poista valitut">
 <!ENTITY     removeSelected.accesskey      "v">
 <!ENTITY     save.label                    "Tallenna muutokset">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Peruuta">
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Sivuston tietojen poisto">
-<!ENTITY     removingDialog.description    "Sivuston tallentamien tietojen poistaminen poistaa myös evästeet. Tämä voi kirjata sinut ulos sivustoilta ja poistaa yhteydetöntä tilaa varten tallennettuja tietoja. Haluatko varmasti tehdä muutokset?">
 <!ENTITY     siteTree.label                "Seuraavat sivustojen evästeet poistetaan:">

@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Kirjasinlajit ja värit">
 
-<!ENTITY  defaultFont.label           "Oletuskirjasinlaji:">
-<!ENTITY  defaultFont.accesskey       "t">
-<!ENTITY  defaultSize.label           "Koko:">
-<!ENTITY  defaultSize.accesskey       "K">
 
 <!ENTITY  advancedFonts.label         "Lisäasetukset…">
 <!ENTITY  advancedFonts.accesskey     "a">
