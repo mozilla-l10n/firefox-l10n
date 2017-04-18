@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Надоградње">
 
 <!ENTITY updateApplication.label         "&brandShortName; ажурирања">
-<!ENTITY updateAuto1.label               "Аутоматски инсталирај надоградње (препоручено: повећана сигурност)">
-<!ENTITY updateAuto1.accesskey           "А">
-<!ENTITY updateCheckChoose.label         "Проверавај надоградње, али ме питај да ли да их инсталирам">
-<!ENTITY updateCheckChoose.accesskey     "и">
-<!ENTITY updateManual.label              "Никад не проверавај надоградње (не препоручује се)">
-<!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateHistory.label             "Прикажи историјат надоградњи">
-<!ENTITY updateHistory.accesskey         "и">
 
 <!ENTITY useService.label                "Употреби позадинске сервисе за инсталацију надоградњи">
 <!ENTITY useService.accesskey            "з">
 
-<!ENTITY autoUpdateOthers.label          "Аутоматски ажурирај">
-<!ENTITY enableSearchUpdate.label        "Претраживаче">
-<!ENTITY enableSearchUpdate.accesskey    "е">
+
 
 <!ENTITY offlineStorageNotify.label               "Обавести ме када веб сајт затражи да смести податке за коришћење ван мреже">
 <!ENTITY offlineStorageNotify.accesskey           "ж">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Уклони податке о сајту">
 
 <!ENTITY certificateTab.label            "Сертификати">
-<!ENTITY certPersonal.label              "Захтеви">
-<!ENTITY certPersonal.description        "Када сервер затражи мој лични сертификат:">
 <!ENTITY selectCerts.auto                "Изабери један аутоматски">
 <!ENTITY selectCerts.auto.accesskey      "ј">
 <!ENTITY selectCerts.ask                 "Питај ме сваки пут">
