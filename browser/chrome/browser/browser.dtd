@@ -73,10 +73,10 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
 <!ENTITY printCmd.accesskey "k">
-<!ENTITY printCmd.commandkey "p">
+<!ENTITY printCmd.commandkey "c">
 
 <!ENTITY goOfflineCmd.label "Kerja Luar Talian">
-<!ENTITY goOfflineCmd.accesskey "k">
+<!ENTITY goOfflineCmd.accesskey "K">
 
 <!ENTITY menubarCmd.label "Bar Menu">
 <!ENTITY menubarCmd.accesskey "M">
@@ -86,7 +86,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY bookmarksToolbarItem.label "Item Bar alat Tandabuku">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Muat semula Semua Tab">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "S">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Tandabuku Semua Tab…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Kembalikan Tab Ditutup">
@@ -901,9 +901,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ketahui selanjutnya mengenai DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Kemaskini &brandShorterName anda; untuk kepantasan dan privasi terkini.">
+<!ENTITY updateAvailable.message "Kemaskini &brandShorterName; anda untuk kepantasan dan privasi terkini.">
 <!ENTITY updateAvailable.whatsnew.label "Lihat perkembangan terbaru.">
-<!ENTITY updateAvailable.header.message "Ada versi baru &brandShorterName; kemaskini tersedia.">
+<!ENTITY updateAvailable.header.message "Kemaskini &brandShorterName; baru sudah tersedia.">
 <!ENTITY updateAvailable.acceptButton.label "Muat Turun Kemaskini">
 <!ENTITY updateAvailable.acceptButton.accesskey "M">
 <!ENTITY updateAvailable.cancelButton.label "Bukan Sekarang">
