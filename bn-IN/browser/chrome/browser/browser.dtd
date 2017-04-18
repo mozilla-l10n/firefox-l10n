@@ -197,10 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মাউসের ডানদিকের বাটক ক্লিক করুন অথবা মেনু টেনে নামান">
 <!ENTITY backForwardButtonMenuMac.tooltip "পূর্ববর্তী তথ্য প্রদর্শনের জন্য মেনু টেনে নামান">
 <!ENTITY reloadCmd.label              "নতুন করে প্রদর্শন করুন">
-<!ENTITY reloadButton.tooltip         "বর্তমান পৃষ্ঠা নতুন করে প্রদর্শন করা হবে">
 <!ENTITY stopCmd.label                "থামান">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "বর্তমান পৃষ্ঠার লোড স্থগিত করুন">
 <!ENTITY goEndCap.tooltip             "ঠিকানার ক্ষেত্রর মধ্যে লেখা অবস্থান প্রদর্শন করা হবে">
 <!ENTITY printButton.label            "প্রিন্ট করুন">
 <!ENTITY printButton.tooltip          "বর্তমানে প্রদর্শিত পৃষ্ঠা প্রিন্ট করুন">
@@ -233,11 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখান">
 
-<!ENTITY urlbar.zoomReset.tooltip     "জুম লেভেল রিসেট করুন">
-
 <!ENTITY searchItem.title             "অনুসন্ধান">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "হোম">
 
 <!ENTITY bookmarksButton.label          "বুকমার্ক">
@@ -356,6 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "কোনো খোলা ট্যাব নেই">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "ট্যাব সিঙ্কিং খুলুন আপনার অন্যান্য ডিভাইস থেকে ট্যাবের তালিকা দেখুন।">
@@ -889,3 +889,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

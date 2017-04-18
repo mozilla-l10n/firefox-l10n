@@ -18,8 +18,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইস নাম">
-<!ENTITY changeSyncDeviceName.label "ডিভাইস নাম পরিবর্তন করুন…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ করুন">
@@ -51,8 +49,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "প্রোফাইল ছবি পরিবর্তন করুন">
 <!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "বিচ্ছিন্ন করুন…">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ইমেল যাঁচাই করুন">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "এই ইমেল ভুলে যাওয়া হোক">
@@ -66,7 +62,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "সাইন ইন করুন">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "সব ডিভাইস জুড়ে সুসংগত করুন">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
