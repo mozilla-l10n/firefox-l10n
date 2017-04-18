@@ -19,6 +19,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
+<!ENTITY changeSyncDeviceName1.label "เปลี่ยนชื่ออุปกรณ์">
 <!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "บันทึก">
@@ -50,6 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.label           "ตัดการเชื่อมต่อ">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
