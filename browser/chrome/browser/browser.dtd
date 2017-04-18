@@ -197,10 +197,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Clic drechu o arrastra haza abaxo p'amosar l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastra hacia abaxo p'amosar l'historial">
 <!ENTITY reloadCmd.label              "Recargar">
-<!ENTITY reloadButton.tooltip         "Recarga la páxina actual">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Para la carga d'esta páxina">
 <!ENTITY goEndCap.tooltip             "Va a la direición na barra d'allugamientos">
 <!ENTITY printButton.label            "Imprentar">
 <!ENTITY printButton.tooltip          "Imprenta esta páxina">
@@ -233,11 +231,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Amosar historial">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Restablecer nivel de zoom">
-
 <!ENTITY searchItem.title             "Guetar">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Aniciu">
 
 <!ENTITY bookmarksButton.label          "Marcadores">
@@ -356,6 +352,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
 <!ENTITY appMenuRemoteTabs.notabs.label "Nun hai llingüetes abiertes">
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
+     This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
+     This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Activa la sincronización de llingüetes pa ver un llistáu d'elles dende los tos otros preseos.">
@@ -756,6 +756,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activar sincronización de llingüetes pa ver un llistáu d'elles d'otros preseos de to.">
 
+<!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
+                        syncedTabs.context.openAllInTabs.accesskey):
+     These access keys are identical because their associated menu items are
+     mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "Abrir">
 <!ENTITY syncedTabs.context.open.accesskey                   "A">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Abrir nuna llingüeta nueva">
@@ -768,6 +772,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "M">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
+
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -882,3 +887,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Deprendi más tocante al DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

@@ -18,8 +18,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nome del preséu">
-<!ENTITY changeSyncDeviceName.label "Camudar nome del preséu…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Encaboxar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
@@ -51,8 +49,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Camudar semeya de perfil">
 <!ENTITY verifiedManage.label        "Xestionar cuenta">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Desconeutar…">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "Verificar mensaxe">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Escaecer esti corréu">
@@ -66,7 +62,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Aniciar sesión">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sincronizar pente tolos preseos">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
