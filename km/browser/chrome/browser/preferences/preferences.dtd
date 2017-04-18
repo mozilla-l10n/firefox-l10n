@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 55.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "ទូទៅ">
-<!ENTITY  paneTabs.title          "ផ្ទាំង">
-<!ENTITY  paneSearch.title        "ស្វែងរក">
-<!ENTITY  paneContent.title       "មាតិកា">
-<!ENTITY  paneApplications.title  "កម្មវិធី">
-<!ENTITY  panePrivacy.title       "ភាព​ឯកជន">
-<!ENTITY  paneContainers.title    "ផ្ទាំង​ប្រអប់​ផ្ទុក">
-<!ENTITY  paneSecurity.title      "សុវត្ថិភាព">
-<!ENTITY  paneAdvanced.title      "កម្រិត​ខ្ពស់">
+<!ENTITY  paneGeneral.title             "ទូទៅ">
+<!ENTITY  paneContainers.title          "ផ្ទាំង​ប្រអប់​ផ្ទុក">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "ធ្វើ​សមកាលកម្ម">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "ជំនួយ">
+

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ប្រើប្រាស់​ការ​ការពារ​ការ​តាម​ដាន">
 <!ENTITY  trackingProtectionAlways.label       "ជានិច្ច">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "របារ​ទីតាំង">
 
-<!ENTITY  locbar.suggest.label          "ពេល​ប្រើ​របារ​ទីតាំង ផ្ដល់​យោបល់៖">
 <!ENTITY  locbar.history.label          "ប្រវត្តិ">
 <!ENTITY  locbar.history.accesskey      "ប">
 <!ENTITY  locbar.bookmarks.label        "ចំណាំ">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "ការ​ស្វែង​រក​ដែល​ពាក់​ព័ន្ធ​ពី​ម៉ាសុីន​ស្វែង​រក​លំនាំ​ដើម​">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "ផ្លាស់​ប្តូរ​ចំ​ណូល​ចិត្ត​​សម្រាប់​ការ​ស្នើ​ម៉ាសុីន​ស្វែង​រក​">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
 <!ENTITY  acceptCookies.accesskey       "ញ">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "បង្ហាញ​ខូគី... ">
 <!ENTITY  showCookies.accesskey         "ប">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; នឹង ៖">
-<!ENTITY  historyHeader.pre.accesskey      "ន">
 <!ENTITY  historyHeader.remember.label     "ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.dontremember.label "កុំ​ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.custom.label       "ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ">

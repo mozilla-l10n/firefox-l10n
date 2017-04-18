@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ឈ្មោះ​ឧបករណ៍ ">
-<!ENTITY changeSyncDeviceName.label "ផ្លាស់ប្តូរ​ឈ្មោះ​ឧបករណ៍ ...">
-<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "បោះបង់">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "រក្សា​ទុក">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ប្តូរ​​រូប​ប្រូ​ហ្វាល់">
 <!ENTITY verifiedManage.label        "គ្រប់គ្រង​គណនី">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "កំពុង​ផ្ដាច់...">
-<!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ផ្ទៀងផ្ទាត់​អ៊ីមែល">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ភ្លេច​អ៊ីមែល​នេះ">
@@ -67,7 +63,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "ចូល">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "ធ្វើ​សមកាលកម្ម​គ្រប់​ឧបករណ៍​ទាំង​អស់">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

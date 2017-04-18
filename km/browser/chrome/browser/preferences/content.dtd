@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "ពុម្ព​អក្សរ &amp; ពណ៌">
 
-<!ENTITY  defaultFont.label           "ពុម្ពអក្សរ​លំនាំដើម ៖">
-<!ENTITY  defaultFont.accesskey       "អ">
-<!ENTITY  defaultSize.label           "ទំហំ ៖">
-<!ENTITY  defaultSize.accesskey       "ហ">
 
 <!ENTITY  advancedFonts.label         "កម្រិតខ្ពស់…">
 <!ENTITY  advancedFonts.accesskey     "ត">
@@ -42,6 +38,7 @@
 <!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "ករណី​លើកលែង…">
 <!ENTITY translateExceptions.accesskey "x">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -49,7 +46,6 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "ការ​បកប្រែ​ដោយ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
