@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40.5em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 42em; min-height: 40em;">
 
-<!ENTITY  paneGeneral.title       "Allmänt">
-<!ENTITY  paneTabs.title          "Flikar">
-<!ENTITY  paneSearch.title        "Sök">
-<!ENTITY  paneContent.title       "Innehåll">
-<!ENTITY  paneApplications.title  "Program">
-<!ENTITY  panePrivacy.title       "Sekretess">
-<!ENTITY  paneContainers.title    "Innehållsflikar">
-<!ENTITY  paneSecurity.title      "Säkerhet">
-<!ENTITY  paneAdvanced.title      "Avancerat">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Allmänt">
+<!ENTITY  paneContainers.title          "Innehållsflikar">
 
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Hjälp">
+
