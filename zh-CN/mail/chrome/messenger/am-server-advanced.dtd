@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "最大服务器连接缓冲数">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY forceSelect.label "检查新邮件时发送 IMAP select 至服务器">
+<!ENTITY forceSelect.tooltip "某些服务器需要额外的 IMAP select 才能可靠的接收新邮件，或者在其他设备上阅读后显示为已读。选择此选项将增加少许网络流量的消耗。">
+<!ENTITY forceSelect.accesskey "F">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "此首选项指定您的 IMAP 服务器的名字空间">
 <!ENTITY personalNamespace.label "个人名字空间：">

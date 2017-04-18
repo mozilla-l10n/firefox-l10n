@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "页面颜色和背景">
 <!ENTITY pageColors.label "页面颜色">
 <!ENTITY defaultColorsRadio.label "阅读器的默认颜色 （不使用页面中的颜色）">
@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "背景图像：">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "使用图像文件作为页面背景">
+<!ENTITY backgroundImage.shortenedDataURI "缩短 data URI（复制将复制完整 URI 到剪贴板）">
