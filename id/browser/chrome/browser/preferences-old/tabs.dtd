@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY ctrlTabRecentlyUsedOrder.label       "Ctrl+Tab berputar melalui tab dalam urutan yang baru saja digunakan">
+<!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
+
+<!ENTITY newWindowsAsTabs.label       "Buka jendela baru pada tab baru">
+<!ENTITY newWindowsAsTabs.accesskey   "u">
+
+<!ENTITY warnOnCloseMultipleTabs.label      "Ingatkan ketika menutup banyak tab sekaligus">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
+
+<!ENTITY warnOnOpenManyTabs.label       "Ingatkan bahwa ketika membuka banyak tab mungkin akan memperlambat &brandShortName;">
+<!ENTITY warnOnOpenManyTabs.accesskey   "l">
+
+<!ENTITY switchLinksToNewTabs.label        "Saat membuka tautan di sebuah tab baru, langsung pindah ke tab tersebut">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
+
+<!ENTITY showTabsInTaskbar.label          "Tampilkan pratinjau tab pada bilah tugas Windows">
+<!ENTITY showTabsInTaskbar.accesskey      "k">
+<!ENTITY tabsGroup.label          "Tab">
