@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Aktualizácie">
 
 <!ENTITY updateApplication.label         "Aktualizácie prehliadača &brandShortName;">
-<!ENTITY updateAuto1.label               "Automaticky inštalovať aktualizácie (odporúčané z dôvodu zvýšenej bezpečnosti)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
-<!ENTITY updateCheckChoose.accesskey     "k">
-<!ENTITY updateManual.label              "Nevyhľadávať aktualizácie (neodporúča sa z dôvodu zníženej bezpečnosti)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Zobraziť históriu aktualizácií">
-<!ENTITY updateHistory.accesskey         "h">
 
 <!ENTITY useService.label                "Na inštaláciu aktualizácií používať službu na pozadí">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY autoUpdateOthers.label          "Automaticky aktualizovať">
-<!ENTITY enableSearchUpdate.label        "Vyhľadávacie moduly">
-<!ENTITY enableSearchUpdate.accesskey    "V">
+
 
 <!ENTITY offlineStorageNotify.label               "Upozorniť, ak chce stránka uložiť údaje na použitie v režime offline">
 <!ENTITY offlineStorageNotify.accesskey           "U">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Odstránenie údajov pre režim offline">
 
 <!ENTITY certificateTab.label            "Certifikáty">
-<!ENTITY certPersonal.label              "Žiadosti">
-<!ENTITY certPersonal.description        "Pokiaľ stránka požaduje môj osobný certifikát:">
 <!ENTITY selectCerts.auto                "Vybrať automaticky">
 <!ENTITY selectCerts.auto.accesskey      "m">
 <!ENTITY selectCerts.ask                 "Vždy sa opýtať">

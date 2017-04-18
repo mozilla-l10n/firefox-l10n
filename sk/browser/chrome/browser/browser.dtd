@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Kliknutím pravým tlačidlom alebo dlhším stlačením zobrazíte históriu">
 <!ENTITY backForwardButtonMenuMac.tooltip "Dlhším stlačením zobrazíte históriu">
 <!ENTITY reloadCmd.label              "Obnoviť">
-<!ENTITY reloadButton.tooltip         "Načítať najnovšiu verziu stránky">
 <!ENTITY stopCmd.label                "Zastaviť">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Zastaviť načítavanie tejto stránky">
 <!ENTITY goEndCap.tooltip             "Prejsť na adresu zadanú v paneli s adresou">
 <!ENTITY printButton.label            "Tlačiť">
 <!ENTITY printButton.tooltip          "Umožní vytlačiť túto stránku">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Obnoviť úroveň priblíženia">
-
 <!ENTITY searchItem.title             "Vyhľadávanie">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Domov">
 
 <!ENTITY bookmarksButton.label          "Záložky">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
