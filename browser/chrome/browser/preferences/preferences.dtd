@@ -14,6 +14,8 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "כללי">
+<!ENTITY  paneFilesApplications.title   "קבצים ויישומים">
+<!ENTITY  panePrivacySecurity.title     "פרטיות ואבטחה">
 <!ENTITY  paneContainers.title          "מגירת לשוניות">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

@@ -23,6 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "ח">
 
 
+<!ENTITY  formsAndPasswords.label       "טפסים וססמאות">
 
 <!ENTITY  passwordExceptions.label      "חריגות…">
 <!ENTITY  passwordExceptions.accesskey  "ר">
