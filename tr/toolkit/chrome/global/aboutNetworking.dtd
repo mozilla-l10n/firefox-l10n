@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "3 saniyede bir otomatik yenile">
 <!ENTITY aboutNetworking.hostname              "Makine adı">
 <!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Etkin">
 <!ENTITY aboutNetworking.idle                  "Beklemede">
