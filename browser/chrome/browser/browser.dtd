@@ -896,5 +896,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Даведацца больш пра DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.acceptButton.label "Сцягнуць абнаўленне">
+<!ENTITY updateAvailable.acceptButton.accesskey "С">
+<!ENTITY updateAvailable.cancelButton.label "Не цяпер">
+<!ENTITY updateAvailable.cancelButton.accesskey "Н">
+<!ENTITY updateAvailable.panelUI.label "Сцягнуць абнаўленне &brandShorterName;">
 
+<!ENTITY updateManual.acceptButton.label "Сцягнуць &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "С">
+<!ENTITY updateManual.cancelButton.label "Не цяпер">
+<!ENTITY updateManual.cancelButton.accesskey "Н">
+<!ENTITY updateManual.panelUI.label "Атрымаць свежую копію &brandShorterName;">
 
