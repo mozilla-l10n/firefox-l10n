@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Aŭtomata refreŝigado ĉiun trian sekundon">
 <!ENTITY aboutNetworking.hostname              "Nomo de servilo">
 <!ENTITY aboutNetworking.port                  "Pordo">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiva">
 <!ENTITY aboutNetworking.idle                  "Senokupa">

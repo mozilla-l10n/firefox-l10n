@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Uzi protekton kontraŭ spurado">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Nur en privataj fenestroj">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Retadresa strio">
 
-<!ENTITY  locbar.suggest.label          "Dum uzado de la retadresa strio, sugesti el:">
 <!ENTITY  locbar.history.label          "Historio">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Rilatitaj serĉoj el la norma serĉilo">
 <!ENTITY  locbar.searches.accesskey     "R">
 
-<!ENTITY  suggestionSettings.label      "Ŝanĝi preferojn por serĉilaj sugestoj…">
-<!ENTITY  suggestionSettings.accesskey  "s">
 
 <!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Montri kuketojn…">
 <!ENTITY  showCookies.accesskey         "M">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; :">
-<!ENTITY  historyHeader.pre.accesskey      "F">
 <!ENTITY  historyHeader.remember.label     "memoros historion">
 <!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
 <!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">

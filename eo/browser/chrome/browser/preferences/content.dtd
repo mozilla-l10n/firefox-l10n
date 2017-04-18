@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Tiparoj kaj koloroj">
 
-<!ENTITY  defaultFont.label           "Norma tiparo:">
-<!ENTITY  defaultFont.accesskey       "N">
-<!ENTITY  defaultSize.label           "Grando:">
-<!ENTITY  defaultSize.accesskey       "R">
 
 <!ENTITY  advancedFonts.label         "Spertula…">
 <!ENTITY  advancedFonts.accesskey     "t">

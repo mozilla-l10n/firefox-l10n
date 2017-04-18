@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Agordoj - Retejaj datumoj">
-<!ENTITY     settings.description          "La jenaj retejoj petis permeson por konservi retejajn datumojn en via disko. Vi povas decidi, kiuj retejoj rajtas konservi retejajn datumojn. Norme, retejaj datumoj estas tempaj kaj povus esti aŭtomate forigitaj.">
 <!ENTITY     hostCol.label                 "Retejo">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     usageCol.label                "Konservejo">
-<!ENTITY     searchPlaceHolder             "Serĉi">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Forigi elektitajn">
 <!ENTITY     removeSelected.accesskey      "e">
 <!ENTITY     save.label                    "Konservi ŝanĝojn">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Nuligi">
 <!ENTITY     cancel.accesskey              "N">
 <!ENTITY     removingDialog.title          "Datumoj de retejoj forigataj">
-<!ENTITY     removingDialog.description    "La forigo de datumoj de retejoj ankaŭ forigos kuketojn. Tio povus fini seancojn en retejoj kaj forigi malkonektitan teksaĵan enhavon. Ĉu vi certe volas fari la ŝanĝojn?">
 <!ENTITY     siteTree.label                "La jenaj retejaj kuketoj estos forigitaj:">
