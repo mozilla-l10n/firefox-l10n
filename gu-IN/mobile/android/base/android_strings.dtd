@@ -191,6 +191,8 @@
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
 <!ENTITY pref_category_home_homepage "મુખ પૃષ્ઠ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "મુખ પૃષ્ઠ સુયોજીત કરો">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -245,6 +247,9 @@
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
@@ -283,25 +288,11 @@
 <!ENTITY pref_plugins "પ્લગઇન્સ">
 <!ENTITY pref_plugins_enabled "સક્રિય કરેલ">
 <!ENTITY pref_plugins_disabled "નિષ્ક્રિય કરેલ">
-<!ENTITY pref_text_size "લખાણ માપ">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
-<!ENTITY pref_font_size_tiny "નાનું">
-<!ENTITY pref_font_size_small "નાના">
-<!ENTITY pref_font_size_medium "મધ્યમ">
-<!ENTITY pref_font_size_large "મોટા">
-<!ENTITY pref_font_size_xlarge "ખૂબ મોટા">
-<!ENTITY pref_font_size_set "ગોઠવો">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "અ">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "ઝડપી કેસરી શિયાળ તમારી આશાઓ ઉપર વધુ ઝડપથી, વધુ નમ્રતાથી અને વધુ સુરક્ષા સાથે કૂદે છે. બિન-ફાયદાકીય સંસ્થા તરીકે, અમે તમારા વતી કોઇપણ દબાણ હેઠળ કામ કર્યા વિના સંશોધન કરવા માટે મુક્ત છીએ. એનો અર્થ એ થાય કે તમારા માટે શ્રેષ્ઠ અનુભવ અને વેબ માટે તેજસ્વી ભવિષ્ય.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_voice_input "વૉઇસ ઇનપુટ">
