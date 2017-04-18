@@ -910,4 +910,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Descargar actualización &brandShorterName;">
 
+<!ENTITY updateManual.message "Descarga una nueva copia de la actualización &brandShorterName;.">
+<!ENTITY updateManual.whatsnew.label "Mira lo que hay de nuevo.">
+<!ENTITY updateManual.header.message "&brandShorterName; no se puede actualizar a la última versión.">
+<!ENTITY updateManual.acceptButton.label "Descargar &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ahora no">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Descargar una nueva copia de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Después de un reinicio rápido, &brandShorterName; volverá a abrir todas tus pestañas y ventanas.">
+<!ENTITY updateRestart.header.message "Reinicia &brandShorterName; para aplicar la actualización.">
+<!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ahora no">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Reinicia &brandShorterName; para aplicar la actualización">
