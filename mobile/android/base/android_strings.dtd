@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "主页">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "也用于新标签页">
 <!ENTITY home_homepage_title "设置主页">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "允许应用使用定制版本的 &brandShortName; 打开网站">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "在 &formatS; 中打开">
+<!ENTITY custom_tabs_menu_footer "由 &brandShortName; 提供">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "网址已复制">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "活动流">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "使用系统字体大小">
+<!ENTITY pref_use_system_font_size_summary "根据系统的字体大小缩放 Web 内容">
 
 <!ENTITY pref_media_autoplay_enabled "允许自动播放">
 <!ENTITY pref_media_autoplay_enabled_summary "控制网站是否能够自动播放影片或其他媒体内容">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "在隐私浏览标签页中打开">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "添加到主屏幕">
+<!ENTITY contextmenu_set_as_homepage "设为主页">
 <!ENTITY contextmenu_share "分享">
 <!ENTITY contextmenu_pasteandgo "粘贴并访问">
 <!ENTITY contextmenu_paste "粘贴">
