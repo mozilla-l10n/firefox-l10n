@@ -14,7 +14,6 @@
 <!ENTITY aboutNetworking.autoRefresh           "Vetërifreskohu çdo 3 sekonda">
 <!ENTITY aboutNetworking.hostname              "Strehëemër">
 <!ENTITY aboutNetworking.port                  "Portë">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiv">
 <!ENTITY aboutNetworking.idle                  "I plogësht">
@@ -29,16 +28,15 @@
 <!ENTITY aboutNetworking.messagesReceived      "Mesazhe të Marrë">
 <!ENTITY aboutNetworking.bytesSent             "Bajte të Dërguar">
 <!ENTITY aboutNetworking.bytesReceived         "Bajte të Marrë">
-<!ENTITY aboutNetworking.dnsLookup             "Kërkim DNS">
-<!ENTITY aboutNetworking.dnsLookupButton       "Kryeje">
-<!ENTITY aboutNetworking.dnsDomain             "Përkatësi">
-<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-ra">
+<!ENTITY aboutNetworking.logging               "Regjistrim">
+<!ENTITY aboutNetworking.logTutorial           "Për udhëzime se si të përdoret ky mjet, shihni <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
 <!ENTITY aboutNetworking.currentLogFile        "Kartela Regjistër e Tanishme:">
 <!ENTITY aboutNetworking.currentLogModules     "Module të Tanishëm Regjistrimi:">
-<!ENTITY aboutNetworking.logTutorial           "Për udhëzime se si të përdoret ky mjet, shihni <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a>.">
-<!ENTITY aboutNetworking.logging               "Regjistrim">
 <!ENTITY aboutNetworking.setLogFile            "Caktoni Kartelë Regjistër">
 <!ENTITY aboutNetworking.setLogModules         "Caktoni Module Regjistrimi">
 <!ENTITY aboutNetworking.startLogging          "Filloje Regjistrimin">
 <!ENTITY aboutNetworking.stopLogging           "Ndal Regjistrimin">
-
+<!ENTITY aboutNetworking.dnsLookup             "Kërkim DNS">
+<!ENTITY aboutNetworking.dnsLookupButton       "Kryeje">
+<!ENTITY aboutNetworking.dnsDomain             "Përkatësi">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-ra">
