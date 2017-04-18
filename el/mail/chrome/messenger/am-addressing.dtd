@@ -8,12 +8,12 @@
 <!ENTITY addressingGroupTitle.label "Διευθυνσιοδότηση">
 <!ENTITY addressingText.label      "Οταν γίνεται έλεγχος για διευθύνσεις:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
-<!ENTITY useGlobal.label           "Να γίνει χρήση των  γενικών ρυθμίσεων εξυπηρετητή LDAP για αυτόν το λογαριασμό.">
+<!ENTITY useGlobal.label           "Να γίνει χρήση των γενικών ρυθμίσεων διακομιστή LDAP για αυτόν το λογαριασμό">
 <!ENTITY useGlobal.accesskey       "χ">
 <!ENTITY editDirectories.label     "Επεξεργασία καταλόγων...">
 <!ENTITY editDirectories.accesskey "ξ">
 <!-- LOCALIZATION NOTE (directories.label) : do not translate "LDAP" in below line -->
-<!ENTITY directories.label         "Χρήση ενός διαφορετικού εξυπηρετητή LDAP">
+<!ENTITY directories.label         "Χρήση ενός διαφορετικού διακομιστή LDAP:">
 <!ENTITY directories.accesskey     "ρ">
 <!ENTITY directoriesNone.label     "Κανένα">
 
