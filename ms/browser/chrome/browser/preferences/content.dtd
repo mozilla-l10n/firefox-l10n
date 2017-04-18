@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Font &amp; Warna">
 
+<!ENTITY  defaultFont2.label          "Fon piawai">
+<!ENTITY  defaultFont2.accesskey      "F">
+<!ENTITY  defaultSize2.label          "Saiz">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Lanjutan…">
 <!ENTITY  advancedFonts.accesskey     "A">
