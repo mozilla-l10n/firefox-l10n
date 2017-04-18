@@ -1,0 +1,31 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "ເລີ່ມເຮັດວຽກ">
+
+<!ENTITY startupPage.label         "ເມື່ອ &brandShortName; ເລີ່ມ:">
+<!ENTITY startupPage.accesskey     "ເ">
+<!ENTITY startupBlankPage.label    "ສະແດງຫນ້າເປົ່າ">
+
+<!ENTITY homepage.label            "ຫນ້າຫລັກ">
+<!ENTITY homepage.accesskey        "P">
+<!ENTITY useCurrentPage.label      "ໃຊ້ ຫນ້າປະຈຸບັນ">
+<!ENTITY useCurrentPage.accesskey  "ຫ">
+<!ENTITY useMultiple.label         "ໃຊ້ຫນ້າປະຈຸບັນ">
+<!ENTITY chooseBookmark.label      "ໃຊ້ ບຸກມາກ">
+<!ENTITY chooseBookmark.accesskey  "ບ">
+<!ENTITY restoreDefault.label      "ກັບຄືນສູ່ຄ່າພື້ນຖານ">
+<!ENTITY restoreDefault.accesskey  "ກ">
+
+<!ENTITY downloads.label     "ດາວໂຫລດ">
+
+<!ENTITY saveTo.label "ບັນທຶກເອກະສານໃສ່">
+<!ENTITY saveTo.accesskey "v">
+<!ENTITY chooseFolderWin.label        "ຊອກຫາ...">
+<!ENTITY chooseFolderWin.accesskey    "o">
+<!ENTITY chooseFolderMac.label        "ເລືອກ...">
+<!ENTITY chooseFolderMac.accesskey    "e">
+
+
+
