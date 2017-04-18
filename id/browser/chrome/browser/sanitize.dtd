@@ -22,10 +22,10 @@
 <!ENTITY sanitizeDialog2.width         "36em">
 
 <!ENTITY clearDataSettings2.label     "Saat keluar dari &brandShortName;, otomatis hapus semua:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "Jangka waktu riwayat untuk dibersihkan: ">
 <!ENTITY clearTimeDuration.accesskey      "J">
 <!ENTITY clearTimeDuration.lastHour       "1 Jam Terakhir">
@@ -36,12 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Tanggal Kunjungan">
-<!ENTITY clearTimeDuration.nameColumn     "Nama">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "Detail">
 <!ENTITY detailsProgressiveDisclosure.accesskey "e">
 
@@ -62,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "Pengaturan Situs Tertentu">
 <!ENTITY itemSitePreferences.accesskey     "S">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "Melakukan aksi ini menyebabkan data riwayat yang telah dihapus tidak dapat dikembalikan.">

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Klik kanan atau tekan agak lama untuk menampilkan riwayat">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tekan agak lama untuk menampilkan riwayat">
 <!ENTITY reloadCmd.label              "Muat ulang">
-<!ENTITY reloadButton.tooltip         "Muat ulang laman ini">
 <!ENTITY stopCmd.label                "Berhenti">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Berhenti memuat laman ini">
 <!ENTITY goEndCap.tooltip             "Pindah ke alamat di Bilah Lokasi">
 <!ENTITY printButton.label            "Cetak">
 <!ENTITY printButton.tooltip          "Cetak laman ini">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Setel ulang tingkat perbesaran">
-
 <!ENTITY searchItem.title             "Cari">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Beranda">
 
 <!ENTITY bookmarksButton.label          "Markah">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Pelajari lebih lanjut tentang DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

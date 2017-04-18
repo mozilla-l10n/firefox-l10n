@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Setelan - Data situs">
-<!ENTITY     settings.description          "Situs web berikut ini minta untuk menyimpan data situs di cakram Anda. Anda dapat menentukan situs-situs web yang diperbolehkan menyimpan data situs. Data situs baku bersifat sementara dan bisa dihapus secara otomatis.">
 <!ENTITY     hostCol.label                 "Situs">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Penyimpanan">
-<!ENTITY     searchPlaceHolder             "Cari">
-<!ENTITY     searchPlaceHolder.accesskey   "C">
 <!ENTITY     removeSelected.label          "Hapus yang Dipilih">
 <!ENTITY     removeSelected.accesskey      "H">
 <!ENTITY     save.label                    "Simpan Perubahan">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Batal">
 <!ENTITY     cancel.accesskey              "B">
 <!ENTITY     removingDialog.title          "Menghapus Data Situs">
-<!ENTITY     removingDialog.description    "Menghapus data situs juga akan menghapus kuki. Ini mungkin akan membuat Anda keluar dari situs web dan menghapus konten luring web. Yakin untuk membuat perubahan ini?">
 <!ENTITY     siteTree.label                "Kuki situs web berikut akan dihapus:">

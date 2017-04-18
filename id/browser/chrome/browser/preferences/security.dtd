@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Umum">
 
 <!ENTITY  warnOnAddonInstall.label        "Ingatkan ketika situs mencoba memasang pengaya">
 <!ENTITY  warnOnAddonInstall.accesskey    "I">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
-<!ENTITY  logins.label                  "Info masuk">
 
-<!ENTITY  rememberLogins.label          "Ingat info masuk situs">
-<!ENTITY  rememberLogins.accesskey      "I">
 <!ENTITY  passwordExceptions.label      "Pengecualian…">
 <!ENTITY  passwordExceptions.accesskey  "c">
 
