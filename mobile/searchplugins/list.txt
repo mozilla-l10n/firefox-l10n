@@ -1,6 +1,0 @@
-amazon-in
-bing
-google
-wikipedia-or
-wiktionary-or
-yahoo-in
