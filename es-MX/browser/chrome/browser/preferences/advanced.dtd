@@ -84,12 +84,24 @@
 <!ENTITY updateTab.label                 "Actualizar">
 
 <!ENTITY updateApplication.label         "&brandShortName; actualizaciones">
+<!ENTITY updateApplication.description   "Permitir que &brandShortName;">
+<!ENTITY updateAuto2.label               "Instalar automáticamente actualizaciones (recomendado para seguridad mejorada)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Busca actualizaciones pero te permite elegir si instalarlas o no">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "No buscar nunca actualizaciones (no se recomienda)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Mostrar historial de actualizaciones…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Utilizar un servicio en segundo plano para instalar las actualizaciones">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY enableSearchUpdate2.label       "Actualizar automáticamente los motores de búsqueda">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Reporta">
 
 <!ENTITY offlineStorageNotify.label               "Te avisa cuando los sitios web te piden almacenar datos para utilizarlos fuera de línea">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -103,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar datos del modo sin conexión">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certPersonal2.description       "Cuando un servidor te pide tu certificado personal">
 <!ENTITY selectCerts.auto                "Seleccionar uno automáticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Solicitar cada vez">
