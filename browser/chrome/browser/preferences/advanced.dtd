@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "સામાન્ય">
 
@@ -10,12 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "પાનાંઓમાં શોધખોળ કરવા માટે હંમેશા કર્સર કીઓ વાપરો">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
-
-
 
 <!ENTITY browsing.label                  "બ્રાઉઝીંગ">
 
@@ -26,8 +20,6 @@
 <!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
 <!ENTITY allowHWAccel.accesskey          "r">
 
-
-
 <!ENTITY dataChoicesTab.label            "માહિતી પસંદગી">
 
 <!ENTITY healthReportDesc.label          "તમારાં બ્રાઉઝર પ્રભાવને સમજવા તમને મદદ કરે છે અને તમારાં બ્રાઉઝર આરોગ્ય વિશે &vendorShortName; સાથે માહિતીને વહેંચે છે">
@@ -36,11 +28,7 @@
 <!ENTITY healthReportLearnMore.label     "વધારે શીખો">
 
 <!ENTITY telemetryDesc.label             "&brandShortName; ને સારુ બનાવવા અમને મદદ કરવા માટે &vendorShortName; સાથે તમારાં બ્રાઉઝર વિશે પ્રભાવ, વપરાશ, હાર્ડવેર અને વૈવિધ્યપૂર્ણ માહિતીને વહેંચે છે">
-
-
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
-
-
 
 <!ENTITY crashReporterLearnMore.label     "વધારે શીખો">
 
@@ -55,11 +43,8 @@
 <!ENTITY httpCache.label                 "કેશ થયેલ વેબ સમાવિષ્ટો">
 
 <!ENTITY offlineStorage2.label           "ઑફલાઇન વેબ સમાવિષ્ટો અને વપરાશકર્તા માહિતી">
+
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
-
-
-
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -67,7 +52,6 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "તેની માટે મર્યાદિત કેશ">
 <!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB જેટલી જગ્યા">
@@ -80,21 +64,11 @@
 
 <!ENTITY updateTab.label                 "સુધારો">
 
-<!ENTITY updateAuto1.label               "આપમેળે સુધારાને સ્થાપિત કરો (અગ્રહણીય: સુધારેલ સુરક્ષા)">
-<!ENTITY updateAuto1.accesskey           "A">
 
-
-<!ENTITY updateManual.label              "સુધારાઓ માટે ક્યારેય ચકાસો નહિં (આગ્રહણીય નથી: સુરક્ષા જોખમ)">
-<!ENTITY updateManual.accesskey          "N">
-
-<!ENTITY updateHistory.label             "સુધારા ઇતિહાસ બતાવો">
-<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "શોધ યંત્રો">
-<!ENTITY enableSearchUpdate.accesskey    "E">
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "અપવાદો…">
@@ -107,12 +81,7 @@
 <!ENTITY offlineAppRemove.confirm        "ઓફલાઈન માહિતી દૂર કરો">
 
 <!ENTITY certificateTab.label            "પ્રમાણપત્રો">
-
-
 <!ENTITY selectCerts.auto                "એક આપોઆપ પસંદ કરો">
-
-
-
 <!ENTITY enableOCSP.label                "પ્રમાણપત્રની હાલની યોગ્યતાની ખાતરી કરવા માટે ક્વેરી OCSP જવાબ સર્વરો">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "પ્રમાણપત્રો જુઓ">

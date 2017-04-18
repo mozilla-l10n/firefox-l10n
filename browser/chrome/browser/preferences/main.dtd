@@ -4,14 +4,8 @@
 
 <!ENTITY startup.label             "શરૂઆત">
 
-<!ENTITY startupPage.label         "જ્યારે &brandShortName; શરૂ થાય:">
-<!ENTITY startupPage.accesskey     "s">
-
 <!ENTITY startupBlankPage.label    "કોરુ પાનું બતાવો">
 
-
-<!ENTITY homepage.label            "ઘર પાનું:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "વર્તમાન પાનું વાપરો">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "વર્તમાન પાનાંઓ વાપરો">
@@ -28,15 +22,6 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "પસંદ કરો...">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
-
-
-
-
-
-
-
 
 
 

@@ -13,17 +13,9 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "સામાન્ય">
-<!ENTITY  paneTabs.title          "ટૅબ">
+<!ENTITY  paneGeneral.title             "સામાન્ય">
 
-<!ENTITY  paneContent.title       "સમાવિષ્ટ">
-<!ENTITY  paneApplications.title  "કાર્યક્રમો">
-<!ENTITY  panePrivacy.title       "ખાનગીપણું">
-
-<!ENTITY  paneSecurity.title      "સુરક્ષા">
-<!ENTITY  paneAdvanced.title      "અદ્યતન">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-
-<!ENTITY  paneSync.title          "સીંક">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "મદદ">
+
