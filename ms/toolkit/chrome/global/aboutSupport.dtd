@@ -25,6 +25,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versi">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Ciri">
+<!ENTITY aboutSupport.featureName "Nama">
+<!ENTITY aboutSupport.featureVersion "Versi">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Ciri-ciri Eksperimen">
 <!ENTITY aboutSupport.experimentName "Nama">
 <!ENTITY aboutSupport.experimentId "ID">
