@@ -1,0 +1,42 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY startup.label             "Aviada">
+
+<!ENTITY startupPage.label         "A l'aviada de &brandShortName; :">
+<!ENTITY startupPage.accesskey     "v">
+
+<!ENTITY startupBlankPage.label    "Afichar una pagina voida">
+
+
+<!ENTITY homepage.label            "Pagina d'acuèlh :">
+<!ENTITY homepage.accesskey        "a">
+<!ENTITY useCurrentPage.label      "Utilizar la pagina activa">
+<!ENTITY useCurrentPage.accesskey  "U">
+<!ENTITY useMultiple.label         "Utilizar las paginas activas">
+<!ENTITY chooseBookmark.label      "Favorits…">
+<!ENTITY chooseBookmark.accesskey  "s">
+<!ENTITY restoreDefault.label      "Restablir la configuracion per defaut">
+<!ENTITY restoreDefault.accesskey  "R">
+
+<!ENTITY downloads.label     "Telecargaments">
+
+<!ENTITY saveTo.label "Enregistrar los fichièrs dins lo dorsièr">
+<!ENTITY saveTo.accesskey "n">
+<!ENTITY chooseFolderWin.label        "Percórrer…">
+<!ENTITY chooseFolderWin.accesskey    "P">
+<!ENTITY chooseFolderMac.label        "Causir…">
+<!ENTITY chooseFolderMac.accesskey    "C">
+
+
+
+
+
+
+<!ENTITY isDefault.label                  "&brandShortName; es actualament vòstre navigador per defaut">
+<!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navigador per defaut">
+
+
+<!ENTITY getStarted.label                 "Utilizar Sync…">
+

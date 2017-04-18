@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY defaultSearchEngine.label             "Motor de cerca per defaut">
+
+
+<!ENTITY provideSearchSuggestions.label        "Afichar de suggestions de recèrca">
+<!ENTITY provideSearchSuggestions.accesskey    "A">
+
+
+
+
+
+
+<!ENTITY engineNameColumn.label                "Motor de recèrca">
+<!ENTITY engineKeywordColumn.label             "Mot clau">
+
+<!ENTITY restoreDefaultSearchEngines.label     "Restablir los motors de recèrca per defaut">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
+
+<!ENTITY removeEngine.label                    "Suprimir">
+<!ENTITY removeEngine.accesskey                "S">
+
+<!ENTITY addMoreSearchEngines.label            "Apondre d'autres motors de recèrca...">
