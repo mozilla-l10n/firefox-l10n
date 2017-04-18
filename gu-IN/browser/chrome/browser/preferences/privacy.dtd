@@ -3,42 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
-
-
-
-
 <!ENTITY tracking.label                 "ટ્રૅક કરી રહ્યા છે">
-
-
-
-
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-
-
 
 
 <!ENTITY  locationBar.label             "સ્થાન પટ્ટી">
 
 
 
-
-
-
-
-
-
-
-
-
 <!ENTITY  acceptCookies.label           "સાઈટોમાંથી કુકીઓ સ્વીકારો">
 <!ENTITY  acceptCookies.accesskey       "A">
-
 
 <!ENTITY  acceptThirdParty.always.label   "હંમેશા">
 <!ENTITY  acceptThirdParty.never.label    "ક્યારેય નહિં">
@@ -56,18 +32,16 @@
 <!ENTITY  showCookies.label             "કુકીઓ બતાવો...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; કરશે:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
 <!ENTITY  historyHeader.remember.label     "ઇતિહાસ યાદ રાખો">
 <!ENTITY  historyHeader.dontremember.label "ક્યારેય ઇતિહાસ યાદ રાખશો નહિં">
 <!ENTITY  historyHeader.custom.label       "ઇતિહાસ માટે વૈવિધ્યપૂર્ણ સેટીંગ વાપરો">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; તમે બ્રાઉઝ કરતાં જે વેબ સાઉટોની મુલાકાત લો તેમાંથી, ડાઉનલોડ, ફોર્મ અને શોધ ઇતિહાસ, અને કુકીઓને યાદ રાખશે.">
+
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  rememberActions.pre.label           "તમે ">
 <!ENTITY  rememberActions.clearHistory.label  "તમારો છેલ્લે ઇતિહાસ સાફ કરવા">
 <!ENTITY  rememberActions.middle.label        ", અથવા ">
@@ -75,9 +49,9 @@
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; ખાનગી બ્રાઉઝીંગની જેમ જ સેટીંગ વાપરશે, અને તમે જેમ વેબ બ્રાઉઝ કરો તેમ ઇતિહાસ યાદ રાખશે નહિં.">
+
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-
 <!ENTITY  dontrememberActions.pre.label          "તમે ">
 <!ENTITY  dontrememberActions.clearHistory.label "બધો વર્તમાન ઇતિહાસ પણ સાફ કરવા માંગતા હશો">
 <!ENTITY  dontrememberActions.post.label         ".">
@@ -96,9 +70,4 @@
 
 <!ENTITY  clearOnCloseSettings.label     "સેટીંગ…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
-
-
-
-
-
 
