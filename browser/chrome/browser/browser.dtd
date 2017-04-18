@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensajes de contraseñas guardadas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en el almacenamiento persistente">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir tu cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir tu micrófono con el sitio">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Está bloqueada tu información de ubicación para este sitio web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Está bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Están bloqueadas las notificaciones para este sitio web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sincronizar preferencias">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicia sesión para ver una lista de pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia sesión en Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Gestionar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver pestañas sincronizadas en la barra lateral">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agregar a la barra de herramientas">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Abrir Todo en Pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
+<!ENTITY syncedTabs.context.managedevices.label              "Gestionar dispositivos…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +901,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Aprende más acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Actualiza tu &brandShorterName; para obtener la velocidad y privacidad más recientes.">
+<!ENTITY updateAvailable.whatsnew.label "Mira lo que hay de nuevo.">
+<!ENTITY updateAvailable.header.message "Está disponible una nueva actualización &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Descargar actualización">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ahora no">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Descargar actualización &brandShorterName;">
 
 
