@@ -84,22 +84,12 @@
 <!ENTITY updateTab.label                 "Yenilə">
 
 <!ENTITY updateApplication.label         "&brandShortName; yeniləmələri">
-<!ENTITY updateAuto1.label               "Yeniləmələri avtomatik quraşdır (tövsiyyə edilir: gücləndirilmiş təhlükəsizlik)">
-<!ENTITY updateAuto1.accesskey           "o">
-<!ENTITY updateCheckChoose.label         "Yeniləmələri yoxlasın, amma quraşdırmaq üçün sizdən soruşsun">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "Yeniləmələri heç vaxt yoxlama (tövsiyyə edilmir: təhlükəsizlik riski)">
-<!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateHistory.label             "Yeniləmə Tarixçəsini Göstər">
-<!ENTITY updateHistory.accesskey         "n">
 
 <!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY autoUpdateOthers.label          "Avtomatik yenilə">
-<!ENTITY enableSearchUpdate.label        "Axtarış Mühərrikləri">
-<!ENTITY enableSearchUpdate.accesskey    "M">
+
 
 <!ENTITY offlineStorageNotify.label               "Sayt oflayn istifadə üçün məlumat saxlamaq istədiyində mənə bildir">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,8 +103,6 @@
 <!ENTITY offlineAppRemove.confirm        "Oflayn məlumatlarını sil">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
-<!ENTITY certPersonal.label              "İstəklər">
-<!ENTITY certPersonal.description        "Server şəxsi sertifikatınızı istədikdə:">
 <!ENTITY selectCerts.auto                "Birini avtomatik seç">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Hər dəfə soruş">

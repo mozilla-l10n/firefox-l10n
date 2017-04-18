@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 55em; min-height: 52em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 50em;">
 
-<!ENTITY  paneGeneral.title       "Ümumi">
-<!ENTITY  paneTabs.title          "Vərəqlər">
-<!ENTITY  paneSearch.title        "Axtarış">
-<!ENTITY  paneContent.title       "Məzmun">
-<!ENTITY  paneApplications.title  "Proqramlar">
-<!ENTITY  panePrivacy.title       "Məxfilik">
-<!ENTITY  paneContainers.title    "Konteyner Vərəqlər">
-<!ENTITY  paneSecurity.title      "Təhlükəsizlik">
-<!ENTITY  paneAdvanced.title      "Təkmilləşmiş">
+<!ENTITY  paneGeneral.title             "Ümumi">
+<!ENTITY  paneContainers.title          "Konteyner Vərəqlər">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Kömək">
+
