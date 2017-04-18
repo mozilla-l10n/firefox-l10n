@@ -1,0 +1,113 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  trackingProtectionHeader.label       "ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
+<!ENTITY  trackingProtectionAlways.label       "सधैँ">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionPrivate.label      "निजी सञ्झ्यालमा मात्र खोल्नुहोस्">
+<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionNever.label        "कहिले पनि होइन">
+<!ENTITY  trackingProtectionNever.accesskey    "N">
+<!ENTITY  trackingProtectionLearnMore.label    "अझ जान्नुहोस् ">
+<!ENTITY  trackingProtectionExceptions.label   "अपवादहरू...">
+<!ENTITY  trackingProtectionExceptions.accesskey "x">
+
+<!ENTITY tracking.label                 "ट्रयाक गरिँदै">
+<!ENTITY trackingProtectionPBM5.label         "निजी सञ्झ्यालहरूमा ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBMLearnMore.label "अझ जान्नुहोस् ">
+<!ENTITY changeBlockList.label          "ब्लक सूची परिवर्तन गर्नुहोस्">
+<!ENTITY changeBlockList.accesskey      "C">
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+<!ENTITY  doNotTrack.pre.label          "तपाईँ यो गर्न सक्नुहुन्छ">
+<!ENTITY  doNotTrack.settings.label     "आफ्नो Do Not Track सेटिङहरू मिलाउनुहोस्">
+<!ENTITY  doNotTrack.post.label         ".">
+
+<!ENTITY  history.label                 "इतिहास">
+
+<!ENTITY  locationBar.label             "स्थानपट्टी ">
+
+<!ENTITY  locbar.suggest.label          "स्थानपट्टी प्रयोग गर्दा सुझाव देखाउनुहोस्">
+<!ENTITY  locbar.history.label          "इतिहास">
+<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "ट्याबहरू खोल्नुहोस्">
+<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "पूर्व निर्धारित खोज इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरू">
+<!ENTITY  locbar.searches.accesskey     "d">
+
+<!ENTITY  suggestionSettings.label      "खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्…">
+<!ENTITY  suggestionSettings.accesskey  "g">
+
+<!ENTITY  acceptCookies.label           "साइटहरूबाट कुकी स्वीकार गर्नुहुोस्">
+<!ENTITY  acceptCookies.accesskey       "A">
+
+<!ENTITY  acceptThirdParty.pre.label      "तेस्रो-पक्षबाट आउने कुकीहरू स्वीकार गर्नुहुोस्:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty.always.label   "सधैँ">
+<!ENTITY  acceptThirdParty.never.label    "कहिले पनि होइन">
+<!ENTITY  acceptThirdParty.visited.label  "पहिले हेरिएकोबाट">
+
+<!ENTITY  keepUntil.label               "यसबेलासम्म राख्नु:">
+<!ENTITY  keepUntil.accesskey           "u">
+
+<!ENTITY  expire.label                  "तिनीहरूको समय अवधि सकियो">
+<!ENTITY  close.label                   "मैले &brandShortName; बन्द गर्छु">
+
+<!ENTITY  cookieExceptions.label        "अपवादहरू...">
+<!ENTITY  cookieExceptions.accesskey    "E">
+
+<!ENTITY  showCookies.label             "कुकीहरू देखाउनुहोस्...">
+<!ENTITY  showCookies.accesskey         "S">
+
+<!ENTITY  historyHeader.pre.label          "&brandShortName; ले:">
+<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader.remember.label     "इतिहास सम्झिनुहोस्">
+<!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिनुहोस्">
+<!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">
+<!ENTITY  historyHeader.post.label         "‌">
+
+<!ENTITY  rememberDescription.label      "&brandShortName; ले तपाईँको ब्राउजिङ्ग ,डाउनलोडिङ ,फर्म ,खोजी इतिहासहरू सम्झिन्छ, र तपाईँले हेर्नुभएका वेबसाइटका कुकीहरू राख्दछ।">
+<!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
+<!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  rememberActions.pre.label           "तपाईँ यो चाहन सक्नुहुन्छ: ">
+<!ENTITY  rememberActions.clearHistory.label  "तपाईँको हालसालको इतिहास मेटाउनुहोस्">
+<!ENTITY  rememberActions.middle.label        ", अथवा ">
+<!ENTITY  rememberActions.removeCookies.label "एक-एक कुकीहरू हटाउनुहोस्">
+<!ENTITY  rememberActions.post.label          "।">
+
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ले तपाईँको निजी ब्राउजिङ्गको सेटिङ्हरू प्रयोग गर्छ र तपाईँ को कुनै पनि ब्राउजिङ्गको कुनै पनि इतिहास सुरक्षित गर्दैन">
+<!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+<!ENTITY  dontrememberActions.pre.label          "तपाईँ यो पनि चाहन सक्नुहुन्छ">
+<!ENTITY  dontrememberActions.clearHistory.label "अहिलेको सबै इतिहास मेटाउनुहोस्">
+<!ENTITY  dontrememberActions.post.label         "।">
+
+<!ENTITY  privateBrowsingPermanent2.label "सधैं निजी ब्राउजिङ्ग ढाँचा प्रयोग गर्नुहोस्">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+
+<!ENTITY  rememberHistory2.label      "मेरो ब्राउजिङ्ग र डाउनलोड इतिहास सम्झनुहोस्">
+<!ENTITY  rememberHistory2.accesskey  "b">
+
+<!ENTITY  rememberSearchForm.label       "खोज र फारम इतिहास सम्झनुहोस्">
+<!ENTITY  rememberSearchForm.accesskey   "f">
+
+<!ENTITY  clearOnClose.label             "&brandShortName; बन्द हुँदा इतिहास मेटाउनुहोस्">
+<!ENTITY  clearOnClose.accesskey         "r">
+
+<!ENTITY  clearOnCloseSettings.label     "ढाँचाहरू...">
+<!ENTITY  clearOnCloseSettings.accesskey "t">
+
+<!ENTITY  browserContainersHeader.label         "कन्टेनर ट्याबहरू">
+<!ENTITY  browserContainersLearnMore.label      "अझ जान्नुहोस्">
+<!ENTITY  browserContainersEnabled.label        "कन्टेनर ट्याबहरू सक्षम गर्नुहोस्">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
+<!ENTITY  browserContainersSettings.label        "सेटिङहरू…">
+<!ENTITY  browserContainersSettings.accesskey    "i">
