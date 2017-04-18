@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Algemien">
 
 <!ENTITY  warnOnAddonInstall.label        "My warskôgje as websites probearje add-ons te ynstallearjen">
 <!ENTITY  warnOnAddonInstall.accesskey    "M">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  logins.label                  "Oanmeldingen">
 
-<!ENTITY  rememberLogins.label          "Oanmeldingen foar websites ûnthâlde">
-<!ENTITY  rememberLogins.accesskey      "o">
 <!ENTITY  passwordExceptions.label      "Utsûnderingen…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

@@ -21,10 +21,6 @@
 
 <!ENTITY  fontsAndColors.label        "Lettertypen &amp; kleuren">
 
-<!ENTITY  defaultFont.label           "Standertlettertype:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Grutte:">
-<!ENTITY  defaultSize.accesskey       "G">
 
 <!ENTITY  advancedFonts.label         "Avansearre…">
 <!ENTITY  advancedFonts.accesskey     "v">

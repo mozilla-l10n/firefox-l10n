@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Beskerming tsjin folgjen brûke">
 <!ENTITY  trackingProtectionAlways.label       "Altyd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Allinnich yn priveefinsters">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Lokaasjebalke">
 
-<!ENTITY  locbar.suggest.label          "By gebrûk fan de lokaasjebalke, foarstelle:">
 <!ENTITY  locbar.history.label          "Skiednis">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Blêdwizers">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "Relatearre sykopdrachten fan de standertsykmasine">
 <!ENTITY  locbar.searches.accesskey     "k">
 
-<!ENTITY  suggestionSettings.label      "Foarkarren foar sykmasinesuggestjes wizigje…">
-<!ENTITY  suggestionSettings.accesskey  "m">
 
 <!ENTITY  acceptCookies.label           "Cookies fan websites akseptearje">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Cookies toane…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; sil:">
-<!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Skiednis ûnthâlde">
 <!ENTITY  historyHeader.dontremember.label "Nea skiednis ûnthâlde">
 <!ENTITY  historyHeader.custom.label       "Oanpaste ynstellingen brûke foar skiednis">

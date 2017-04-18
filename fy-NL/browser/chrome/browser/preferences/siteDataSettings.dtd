@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ynstellingen – Websitegegevens">
-<!ENTITY     settings.description          "De folgjende websites hawwe frege gegevens te bewarjen op jo skiif. Jo kinne spesifisearje hokker websites tastimming hawwe om gegevens te bewarjen. Standert binne websitegegevens tydlik en kinne automatysk fuortsmiten wurde.">
 <!ENTITY     hostCol.label                 "Website">
 <!ENTITY     statusCol.label               "Steat">
 <!ENTITY     usageCol.label                "Unthâld">
-<!ENTITY     searchPlaceHolder             "Sykje">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Selektearre fuortsmite">
 <!ENTITY     removeSelected.accesskey      "f">
 <!ENTITY     save.label                    "Wizigingen bewarje">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Annulearje">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Websitegegevens fuortsmite">
-<!ENTITY     removingDialog.description    "Websitegegevens fuortsmite sil ek cookies fuortsmite. Dit kin jo ôfmelde en offline webynhâld fuortmsite. Binne jo wis dat jo dizze wizigingen dwaan wolle?">
 <!ENTITY     siteTree.label                "De folgjende websitecookies sille fuortsmiten wurde:">
