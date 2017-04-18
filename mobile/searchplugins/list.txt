@@ -1,5 +1,0 @@
-amazon-in
-bing
-google
-wikipedia-gu
-yahoo-in
