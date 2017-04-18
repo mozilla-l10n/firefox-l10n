@@ -4,13 +4,9 @@
 
 <!ENTITY startup.label             "Aniciu">
 
-<!ENTITY startupPage.label         "Al aniciase &brandShortName;:">
-<!ENTITY startupPage.accesskey     "i">
 <!ENTITY startupUserHomePage.label "Amosar la to páxina d'aniciu">
 <!ENTITY startupBlankPage.label    "Amosar una páxina balera">
 
-<!ENTITY homepage.label            "Páxina d'aniciu:">
-<!ENTITY homepage.accesskey        "P">
 <!ENTITY useCurrentPage.label      "Usar páxina actual">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Usar páxines actuales">
@@ -37,6 +33,5 @@
 
 <!ENTITY separateProfileMode.label        "Permitir a &brandShortName; y Firefox executase al empar">
 <!ENTITY useFirefoxSync.label             "Conseyu: esto usa perfiles separtaos. Usa Sync pa compartir datos ente ellos.">
-<!ENTITY getStarted.label                 "Entama a usar Sync…">
 
 <!ENTITY e10sEnabled.label                "Habilitar el multiprocesu de &brandShortName;">

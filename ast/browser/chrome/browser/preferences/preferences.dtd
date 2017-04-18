@@ -13,17 +13,10 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 49em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 49em; min-height: 40em;">
 
-<!ENTITY  paneGeneral.title       "Xeneral">
-<!ENTITY  paneTabs.title          "Llingüetes">
-<!ENTITY  paneSearch.title        "Gueta">
-<!ENTITY  paneContent.title       "Conteníu">
-<!ENTITY  paneApplications.title  "Aplicaciones">
-<!ENTITY  panePrivacy.title       "Privacidá">
-<!ENTITY  paneContainers.title    "Llingüetes contenedor">
-<!ENTITY  paneSecurity.title      "Seguranza">
-<!ENTITY  paneAdvanced.title      "Avanzao">
+<!ENTITY  paneGeneral.title             "Xeneral">
+<!ENTITY  paneContainers.title          "Llingüetes contenedor">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "Ayuda">
+

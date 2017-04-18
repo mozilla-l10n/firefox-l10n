@@ -71,19 +71,12 @@
 
 <!ENTITY updateTab.label                 "Anovar">
 
-<!ENTITY updateAuto1.label               "Instalar anovamientos automáticamente (recomendáu: meyora la seguridá)">
-<!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateManual.label              "Nun comprobar anovamientos (nun se recomienda: riesgu na seguridá)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Amosar historial d'anovamientos">
-<!ENTITY updateHistory.accesskey         "m">
 
 <!ENTITY useService.label                "Usar serviciu en segundu planu pa instalar los anovamientos">
 <!ENTITY useService.accesskey            "v">
 
-<!ENTITY enableSearchUpdate.label        "Guetadores">
-<!ENTITY enableSearchUpdate.accesskey    "G">
+
 
 
 <!ENTITY offlineAppsList2.label          "Los siguientes sitios tienen permisu pa guardar datos pal mou ensin conexón:">
