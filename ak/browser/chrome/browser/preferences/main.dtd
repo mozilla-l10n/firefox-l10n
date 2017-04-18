@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Nhyɛase">
 
-<!ENTITY startupPage.label         "Sɛ &brandShortName; hyɛ ase:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "Kyerɛ krataafa pan">
 
 
-<!ENTITY homepage.label            "Fie Krataafa:">
-<!ENTITY homepage.accesskey        "K">
+
 <!ENTITY useCurrentPage.label      "Fa Krataafa Seiseiara di dwuma">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Fa Nkrataafa Nseiseiara di dwuma">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "&brandShortName; yɛ wo brawsa a ɛyɛ difɔlt seisei">
+
 
 
 

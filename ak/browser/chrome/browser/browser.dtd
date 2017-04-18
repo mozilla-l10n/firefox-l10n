@@ -191,10 +191,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Kleke nifa anaa twe bra fam de kyerɛ abakɔsɛm">
 <!ENTITY backForwardButtonMenuMac.tooltip "Twe bra fam de kyerɛ abakɔsɛm">
 
-<!ENTITY reloadButton.tooltip         "Bue krataafa a wo wɔ so yi bio">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Gyae sɛ wo reloode krataafa yi">
 <!ENTITY goEndCap.tooltip             "Kɔ adrɛs a ɛwɔ Lokehyɛn Baa no mu">
 <!ENTITY printButton.label            "Prente">
 <!ENTITY printButton.tooltip          "Prente krataafa yi">
@@ -222,8 +220,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Hwehwɛ">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Fie">
 
@@ -352,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -738,6 +738,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Synk">
 
 
@@ -833,6 +835,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Wɔrenntumi nnsane wo ekyiri sɛ wo kɔ so di dwumadi yi a.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

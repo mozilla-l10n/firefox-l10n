@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "e">
 
 
-<!ENTITY  defaultFont.label           "Fɔnt Difɔlt:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Kɛseyɛ:">
-<!ENTITY  defaultSize.accesskey       "K">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Akɔenim…">
 <!ENTITY  advancedFonts.accesskey     "A">

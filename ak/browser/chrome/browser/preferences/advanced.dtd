@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Ntoso">
 
-<!ENTITY updateAuto1.label               "Instɔɔle ntoso otomatikmu (yɛkanfo: bambɔ a ɛkɔ nkan)">
-<!ENTITY updateAuto1.accesskey           "I">
 
 
-<!ENTITY updateManual.label              "Nhwehwɛ ntoso biara da (yɛn nkamfo: banbɔ amaneɛ) ">
-<!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateHistory.label             "Kyerɛ ntoso abakɔsɛm">
-<!ENTITY updateHistory.accesskey         "s">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Fa ndaekyiri asom no instɔɔle ntoso bi">
 <!ENTITY useService.accesskey            "n">
 
-<!ENTITY enableSearchUpdate.label        "Ahwehwɛmfidie">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Nea ɛnnka ho…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Yi deta a ɛwɔ ɔflaen">
 
 <!ENTITY certificateTab.label            "Abasobɔde nkrataa">
-
 
 <!ENTITY selectCerts.auto                "Paw baako otomatikmu">
 
