@@ -1,6 +1,0 @@
-amazon-fr
-bing
-google
-twitter
-wikipedia-fr
-yahoo-france
