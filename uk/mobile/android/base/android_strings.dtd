@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Увімкнено">
 <!ENTITY pref_home_updates_wifi "Лише через Wi-Fi">
 <!ENTITY pref_category_home_homepage "Початкова сторінка">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Встановити початкову сторінку">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Власні вкладки">
 <!ENTITY pref_custom_tabs_summary3 "Дозволяти додаткам відкривати веб-сайти модифікованою версією &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Потік активності">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Увімкнено">
 <!ENTITY pref_plugins_tap_to_play2 "Торкнутися для відтворення">
 <!ENTITY pref_plugins_disabled "Вимкнено">
-<!ENTITY pref_text_size "Розмір тексту">
 <!ENTITY pref_restore_tabs "Відновлення вкладок">
 <!ENTITY pref_restore_always "Завжди відновлювати">
 <!ENTITY pref_restore_quit "Не відновлювати після виходу з &brandShortName;">
-<!ENTITY pref_font_size_tiny "Дрібний">
-<!ENTITY pref_font_size_small "Малий">
-<!ENTITY pref_font_size_medium "Середній">
-<!ENTITY pref_font_size_large "Великий">
-<!ENTITY pref_font_size_xlarge "Дуже великий">
-<!ENTITY pref_font_size_set "Встановити">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "А">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Швидкий рудий лис перестрибне через ваші очікування з більшою швидкістю, гнучкістю та безпечністю. Як некомерційна організація, ми вільні творити заради вас без потреби йти на компроміси. Ми покращимо вашу роботу в інтернеті та зробимо його майбутнє світлим.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Дозволити автовідтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
