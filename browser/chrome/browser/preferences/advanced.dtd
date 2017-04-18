@@ -71,19 +71,12 @@
 
 <!ENTITY updateTab.label                 "আপডেট">
 
-<!ENTITY updateAuto1.label               "স্বয়ংক্রিয়ভাবে আপডেট ইনস্টল করা হবে (প্রস্তাবিত: উন্নত নিরাপত্তার খাতিরে)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateManual.label              "কখনো আপডেট পরীক্ষা করা হবে না (প্রস্তাবিত নয়: বিপজ্জনক)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "আপডেট কর্ম সংক্রান্ত পূর্ববর্তী তথ্য প্রদর্শন">
-<!ENTITY updateHistory.accesskey         "আ">
 
 <!ENTITY useService.label                "আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে">
 <!ENTITY useService.accesskey            ")">
 
-<!ENTITY enableSearchUpdate.label        "অনুসন্ধান ব্যবস্থা">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 
 <!ENTITY offlineAppsList2.label          "অফ-লাইন অবস্থায় ব্যবহারের উদ্দেশ্যে নিম্নলিখিত ওয়েব-সাইটগুলি তথ্য সংরক্ষণ করতে অনুমোদিত রয়েছে:">

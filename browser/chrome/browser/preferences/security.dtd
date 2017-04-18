@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "সাধারণ">
 
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -20,10 +19,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "লগ-ইন">
 
-<!ENTITY  rememberLogins.label          "সাইটের জন্য লগ-ইন মনে রাখা হোক">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম...">
 <!ENTITY  passwordExceptions.accesskey  "ব">
 

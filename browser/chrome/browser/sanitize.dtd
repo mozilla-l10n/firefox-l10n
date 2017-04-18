@@ -22,10 +22,10 @@
 <!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "&brandShortName; থেকে প্রস্থান করা হলে, স্বয়ংক্রিয়রূপে নিম্নলিখিত সামগ্রী মুছে ফেলা হবে:">
+
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-
 <!ENTITY clearTimeDuration.label          "মুছে ফেলা হবে: ">
 <!ENTITY clearTimeDuration.accesskey      "T">
 <!ENTITY clearTimeDuration.lastHour       "গত ১ ঘন্টার তথ্য">
@@ -36,12 +36,10 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "পরিদর্শনের তারিখ">
-<!ENTITY clearTimeDuration.nameColumn     "নাম">
+
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-
 <!ENTITY detailsProgressiveDisclosure.label     "নাম">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ন">
 
@@ -62,8 +60,8 @@ that require it.  -->
 <!ENTITY itemActiveLogins.accesskey        "L">
 <!ENTITY itemSitePreferences.label         "সাইট সংক্রান্ত পছন্দসই মান">
 <!ENTITY itemSitePreferences.accesskey     "S">
+
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
-
 <!ENTITY sanitizeEverythingUndoWarning     "এই কাজ নাকচ করা সম্ভব নয়।">
