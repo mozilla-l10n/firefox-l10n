@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Bakgrundsbild:">
 <!ENTITY backgroundImage.accessKey "g">
 <!ENTITY backgroundImage.tooltip "Använd en bildfil som bakgrund för sidan">
+<!ENTITY backgroundImage.shortenedDataURI "Avkortad data-URI (kopia kommer att placera hela URI:n i Urklipp)">
