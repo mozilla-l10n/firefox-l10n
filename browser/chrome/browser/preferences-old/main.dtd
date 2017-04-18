@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; ve Firefox’un aynı anda çalışmasına izin ver">
 <!ENTITY useFirefoxSync.label             "İpucu: Bu ayarda farklı profiller kullanılır. Tarayıcılar arasında veri paylaşmak için Sync’i kullanın.">
-<!ENTITY getStarted.label                 "Sync’i kullanmaya başlayın…">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;’e giriş yap…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; tercihlerini aç">
 
 <!ENTITY e10sEnabled.label                "Çok işlemli &brandShortName; tarayıcısını etkinleştir">
