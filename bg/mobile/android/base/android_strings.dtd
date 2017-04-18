@@ -286,6 +286,8 @@
 <!ENTITY pref_custom_tabs_summary3 "Разрешаване на приложения да отварят страници използвайки специална версия на &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Отваряне с &formatS;">
+<!ENTITY custom_tabs_menu_footer "С подкрепата на &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
@@ -491,6 +493,7 @@
 <!ENTITY contextmenu_open_private_tab "Отваряне в поверителен раздел">
 <!ENTITY contextmenu_remove "Премахване">
 <!ENTITY contextmenu_add_to_launcher "Връзка на началния екран">
+<!ENTITY contextmenu_set_as_homepage "Избиране за начална страница">
 <!ENTITY contextmenu_share "Споделяне">
 <!ENTITY contextmenu_pasteandgo "Поставяне и посещаване">
 <!ENTITY contextmenu_paste "Поставяне">
