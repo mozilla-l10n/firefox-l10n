@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Sciacca co-o pomello drito do ratto ò tegni sciacou pe vedde a stöia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vanni in zu pe vedde a stöia">
 <!ENTITY reloadCmd.label              "Recarega">
-<!ENTITY reloadButton.tooltip         "Recarega a pagina corente">
 <!ENTITY stopCmd.label                "Ferma">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Fermite de caregâ sta pagina">
 <!ENTITY goEndCap.tooltip             "Vanni a l'indirisso in sciâ bara di indirissi">
 <!ENTITY printButton.label            "Stanpa">
 <!ENTITY printButton.tooltip          "Stanpa questa pagina">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Repiggia o zoom">
-
 <!ENTITY searchItem.title             "Riçerca">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Pagina prinçipâ">
 
 <!ENTITY bookmarksButton.label          "Segnalibbri">
@@ -899,3 +895,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Atre informaçioin un sce DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+

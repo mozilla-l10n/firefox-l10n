@@ -3,7 +3,23 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY sanitizePrefs2.title          "Preferense pe scancelâ a Stöia">
+<!-- LOCALIZATION NOTE (sanitizePrefs2.modal.width): width of the Clear History on Shutdown dialog.
+     Should be large enough to contain the item* strings on a single line.
+     The column width should be set at half of the dialog width. -->
+<!ENTITY sanitizePrefs2.modal.width    "34em">
+<!ENTITY sanitizePrefs2.column.width   "17em">
+<!-- LOCALIZATION NOTE (sanitizePrefs2.inContent.dialog.width): width of the
+     Clear History on Shutdown subdialog in the in-content preferences.
+     Should be large enough to contain the item* strings on a single line.
+     The column width adjusts the width of the first column in the dialog.
+     You can set the column width to a value that makes the dialog look visually balanced,
+     or at half of the dialog width if unsure. -->
+<!ENTITY sanitizePrefs2.inContent.dialog.width "42em">
+<!ENTITY sanitizePrefs2.inContent.column.width "26em">
+
 <!ENTITY sanitizeDialog2.title         "Scancella a stöia ciù neuva">
+<!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
+<!ENTITY sanitizeDialog2.width         "34em">
 
 <!ENTITY clearDataSettings2.label     "Quande sciòrto da &brandShortName; o deve polî tutto in aotomatico:">
 
@@ -20,8 +36,6 @@
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">
-<!ENTITY clearTimeDuration.dateColumn     "Dæta de vixita">
-<!ENTITY clearTimeDuration.nameColumn     "Nomme">
 
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
@@ -32,9 +46,6 @@ that require it.  -->
 <!ENTITY historySection.label         "Stöia">
 <!ENTITY dataSection.label            "Dæta">
 
-<!-- LOCALIZATION NOTE (item*): itemHistoryAndDownloads.* and
-     itemBrowsingHistory.* will never be used at the same time, so they can
-     have the same accesskey. -->
 <!ENTITY itemHistoryAndDownloads.label     "Stöia di descaregamenti &amp; Navegaçion">
 <!ENTITY itemHistoryAndDownloads.accesskey "S">
 <!ENTITY itemFormSearchHistory.label       "Stöia di Mòdoli &amp; Riçerche">
@@ -54,10 +65,3 @@ that require it.  -->
      that appears when "Time range to clear" is set to "Everything".  See UI
      mockup at bug 480169 -->
 <!ENTITY sanitizeEverythingUndoWarning     "St'açion a no peu ese anula.">
-
-<!ENTITY sanitizeDialog2.width "34em">
-<!ENTITY sanitizePrefs2.modal.width "34em">
-<!ENTITY sanitizePrefs2.column.width "17em">
-<!ENTITY sanitizePrefs2.inContent.dialog.width "42em">
-<!ENTITY sanitizePrefs2.inContent.column.width "26em">
-

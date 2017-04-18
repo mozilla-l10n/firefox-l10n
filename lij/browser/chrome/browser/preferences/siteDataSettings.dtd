@@ -3,12 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Inpostaçioin - Dæti di sciti">
-<!ENTITY     settings.description          "Sti sciti chi an domandou de sarvâ dæti in sciô teu disco. Ti peu specificâ quæ sciti peuan falo. I dæti di sciti en tenporanei e peuan ese scancelæ outomaticamente.">
 <!ENTITY     hostCol.label                 "Scito">
 <!ENTITY     statusCol.label               "Stato">
 <!ENTITY     usageCol.label                "Memöia">
-<!ENTITY     searchPlaceHolder             "Çerca">
-<!ENTITY     searchPlaceHolder.accesskey   "e">
 <!ENTITY     removeSelected.label          "Scancella seleçionæ">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Sarva cangiamenti">
@@ -16,5 +13,4 @@
 <!ENTITY     cancel.label                  "Anulla">
 <!ENTITY     cancel.accesskey              "A">
 <!ENTITY     removingDialog.title          "Scancella dæti do scito">
-<!ENTITY     removingDialog.description    "Scancelando i dæti do scito ti leviæ pure i cookie. Questo o te porieva fâ sciortî da i sciti e scancelâ o contegnuo feua linia. T'ê seguo de fâ sti cangiamenti?">
 <!ENTITY     siteTree.label                "I segoenti cookie saian scancelæ:">

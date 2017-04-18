@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Generale">
 
 <!ENTITY  warnOnAddonInstall.label        "Avertime quando 'n scito o preuva a instalâ di conponenti azonti">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
@@ -24,10 +23,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "Acessi">
 
-<!ENTITY  rememberLogins.label          "Aregòrda i dæti d'acesso a-i sciti">
-<!ENTITY  rememberLogins.accesskey      "A">
 <!ENTITY  passwordExceptions.label      "Eceçioin…">
 <!ENTITY  passwordExceptions.accesskey  "ç">
 

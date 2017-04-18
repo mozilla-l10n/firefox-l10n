@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Deuvia proteçion anti-traciamento">
 <!ENTITY  trackingProtectionAlways.label       "De longo">
 <!ENTITY  trackingProtectionAlways.accesskey   "g">
 <!ENTITY  trackingProtectionPrivate.label      "Solo inti barcoin privæ">
@@ -30,7 +29,6 @@
 
 <!ENTITY  locationBar.label             "Bara di indirissi">
 
-<!ENTITY  locbar.suggest.label          "Inta bara di indirissi fanni vedde conseggi da:">
 <!ENTITY  locbar.history.label          "Stöia">
 <!ENTITY  locbar.history.accesskey      "n">
 <!ENTITY  locbar.bookmarks.label        "Segnalibbri">
@@ -40,8 +38,6 @@
 <!ENTITY  locbar.searches.label         "riçerche corelæ do-u motô de riçerca predefinio">
 <!ENTITY  locbar.searches.accesskey     "h">
 
-<!ENTITY  suggestionSettings.label      "Cangia e inpostaçioin di conseggi di motoî de riçerca…">
-<!ENTITY  suggestionSettings.accesskey  "s">
 
 <!ENTITY  acceptCookies.label           "Acetta i cookie da sti sciti">
 <!ENTITY  acceptCookies.accesskey       "k">
@@ -64,8 +60,6 @@
 <!ENTITY  showCookies.label             "Fanni vedde i cookie…">
 <!ENTITY  showCookies.accesskey         "F">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; saia:">
-<!ENTITY  historyHeader.pre.accesskey      "s">
 <!ENTITY  historyHeader.remember.label     "Aregòrda a stöia">
 <!ENTITY  historyHeader.dontremember.label "No aregordâ a stöia">
 <!ENTITY  historyHeader.custom.label       "Adeuvia e preferense personalizæ pe a stöia">
