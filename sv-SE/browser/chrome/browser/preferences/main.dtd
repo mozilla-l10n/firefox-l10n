@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Vid start">
 
+<!ENTITY startupPage2.label        "När &brandShortName; startar">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Visa din startsida">
 <!ENTITY startupBlankPage.label    "Visa en tom sida">
 <!ENTITY startupPrevSession.label  "Visa dina fönster och flikar från förra gången">
 
+<!ENTITY homepage2.label           "Startsida">
+<!ENTITY homepage2.accesskey       "S">
 <!ENTITY useCurrentPage.label      "Använd aktuell sida">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Använd aktuella sidor">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Tillåt &brandShortName; och Firefox att köra samtidigt">
 <!ENTITY useFirefoxSync.label             "Tips: Detta använder separata profiler. Använd Sync för att dela data mellan dem.">
+<!ENTITY getStarted.notloggedin.label     "Logga in till &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Öppna inställningar för &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Aktivera multi-process &brandShortName;">

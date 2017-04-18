@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhetens namn">
+<!ENTITY changeSyncDeviceName1.label "Ändra enhetsnamn">
+<!ENTITY changeSyncDeviceName1.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Spara">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ändra profilbild">
 <!ENTITY verifiedManage.label        "Hantera Konto">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.label           "Koppla från">
+<!ENTITY disconnect2.accesskey       "f">
 <!ENTITY verify.label                "Verifiera e-postadress">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
@@ -63,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Logga in">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "Sync-inställningar">
+<!ENTITY signedIn.settings.description "Välj vad du vill synkronisera på dina enheter med &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
