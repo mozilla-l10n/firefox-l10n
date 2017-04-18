@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Ενεργοποιημένες">
 <!ENTITY pref_home_updates_wifi "Μόνο μέσω Wi-Fi">
 <!ENTITY pref_category_home_homepage "Αρχική σελίδα">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Ορισμός αρχικής σελίδας">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,9 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Προσαρμοσμένες καρτέλες">
 <!ENTITY pref_custom_tabs_summary3 "Να επιτρέπεται σε εφαρμογές να ανοίγουν ιστοσελίδες με μια προσαρμοσμένη έκδοση του &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Ροή δραστηριότητας">
@@ -350,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Ενεργοποιημένες">
 <!ENTITY pref_plugins_tap_to_play2 "Ενεργοποίηση με πάτημα">
 <!ENTITY pref_plugins_disabled "Απενεργοποιημένες">
-<!ENTITY pref_text_size "Μέγεθος κειμένου">
 <!ENTITY pref_restore_tabs "Επαναφορά καρτελών">
 <!ENTITY pref_restore_always "Να επαναφέρονται πάντα">
 <!ENTITY pref_restore_quit "Να μην επαναφέρονται μετά την έξοδο από τον &brandShortName;">
-<!ENTITY pref_font_size_tiny "Μικροσκοπικό">
-<!ENTITY pref_font_size_small "Μικρό">
-<!ENTITY pref_font_size_medium "Μεσαίο">
-<!ENTITY pref_font_size_large "Μεγάλο">
-<!ENTITY pref_font_size_xlarge "Πολύ μεγάλο">
-<!ENTITY pref_font_size_set "Ορισμός">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Ο καλύμνιος σφουγγαράς ψιθύρισε πως θα βουτήξει χωρίς να διστάζει. Ως μη κερδοσκοπική οργάνωση, μπορούμε να καινοτομούμε ελεύθερα προς όφελος σας, χωρίς να δεχόμαστε πιέσεις ώστε να συμβιβαστούμε. Αυτό έχει ως αποτέλεσμα μια καλύτερη εμπειρία για εσάς και ένα πιο λαμπερό μέλλον για τον Παγκόσμιο Ιστό.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Αποδοχή αυτόματης αναπαραγωγής">
 <!ENTITY pref_media_autoplay_enabled_summary "Καθορίστε αν οι ιστοσελίδες θα αναπαράγουν αυτόματα βίντεο και άλλο περιεχόμενο πολυμέσων">
