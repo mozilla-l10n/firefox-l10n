@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "ຫນ້າຫລັກ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "ໃຊ້ສຳລັບແທັບໃຫມ່ນຳ">
 <!ENTITY home_homepage_title "ຕັ້ງເປັນຫນ້າຫລັກ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "ອະນຸຍາດໃຫ້ແອັບເປີດເວັບໄຊທ໌ໂດຍນຳໃຊ້ລຸ້ນທີ່ປັບແຕ່ງຂອງ &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "ເປີດຢູ່ໃນ &formatS;">
+<!ENTITY custom_tabs_menu_footer "ສະຫນັບສະຫນູນໂດຍ &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "ສຳເນົາ URL ແລ້ວ">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ກິດຈະກຳສະຕຣີມ">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "ນຳໃຊ້ຂະຫນາດຟັອນຂອງລະບົບ">
+<!ENTITY pref_use_system_font_size_summary "ຂະຫນາດເນື້ອຫາຂອງເວັບໃຫ້ອີງໃສ່ຂະຫນາດຟັອນຂອງລະບົບ">
 
 <!ENTITY pref_media_autoplay_enabled "ອະນຸຍາດໃຫ້ເປີດແບບອັດຕະໂນມັດ">
 <!ENTITY pref_media_autoplay_enabled_summary "ຄວບຄຸມດູແລເວັບທີ່ສາມາດເປີດວິດີໂອ ແລະ ສື່ເນື້ອຫາອື່ນໆແບບອັດຕະໂນມັດ">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "ເປີດໃນແທັບສ່ວນຕົວ">
 <!ENTITY contextmenu_remove "ລຶບ">
 <!ENTITY contextmenu_add_to_launcher "ເພີ່ມໃສ່ໜ້າທໍາອິດ">
+<!ENTITY contextmenu_set_as_homepage "ຕັ້ງໃຫ້ເປັນຫນ້າທຳອິດ">
 <!ENTITY contextmenu_share "ແບ່ງປັນ">
 <!ENTITY contextmenu_pasteandgo "ວາງ &amp; ໄປ">
 <!ENTITY contextmenu_paste "ວາງ">
