@@ -34,7 +34,10 @@
 </ul>">
 
 <!ENTITY fileNotFound.title "Файлът не е намерен">
-<!ENTITY fileNotFound.longDesc "<ul> <li>Проверете името на файла за големи/малки букви или други грешки при въвеждане.</li> <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li> </ul>">
+<!ENTITY fileNotFound.longDesc "<ul>
+  <li>Проверете името на файла за регистъра на буквите или други технически грешки.</li>
+  <li>Проверете дали файлът не е преместен, преименуван или изтрит.</li>
+</ul>">
 
 <!ENTITY fileAccessDenied.title "Достъпът до файла е отказан">
 <!ENTITY fileAccessDenied.longDesc "<ul>
