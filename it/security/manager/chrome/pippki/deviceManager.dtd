@@ -26,4 +26,4 @@
 <!ENTITY loaddevice.filename.accesskey "f">
 <!ENTITY loaddevice.browse "Sfoglia…">
 <!ENTITY loaddevice.browse.accesskey "o">
-<!ENTITY loaddevice.title "Carica dispositivo PKCS#11">
+<!ENTITY loaddevice.title2 "Carica driver dispositivo PKCS#11">
