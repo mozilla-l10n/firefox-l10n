@@ -11,6 +11,7 @@
 <!ENTITY customColorsRadio.label "Použít vlastní barvy:">
 <!ENTITY customColorsRadio.accessKey "u">
 <!ENTITY customColorsRadio.tooltip "Použít vždy toto nastavení barev bez ohledu na nastavení aktuálního prohlížeče">
+
 <!ENTITY normalText.label "Běžný text">
 <!ENTITY normalText.accessKey "B">
 <!ENTITY linkText.label "Odkaz">
@@ -25,3 +26,4 @@
 <!ENTITY backgroundImage.label "Obrázek na pozadí">
 <!ENTITY backgroundImage.accessKey "O">
 <!ENTITY backgroundImage.tooltip "Výběr souboru s obrázkem pro pozadí stránky">
+<!ENTITY backgroundImage.shortenedDataURI "Zkrácená datová URI (kopírování uloží celou URI do schránky)">
