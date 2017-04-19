@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; Χρώματα">
 
+<!ENTITY  defaultFont2.label          "Προεπιλεγμένη γραμματοσειρά">
+<!ENTITY  defaultFont2.accesskey      "Π">
+<!ENTITY  defaultSize2.label          "Μέγεθος">
+<!ENTITY  defaultSize2.accesskey      "Μ">
 
 <!ENTITY  advancedFonts.label         "Για προχωρημένους...">
 <!ENTITY  advancedFonts.accesskey     "π">

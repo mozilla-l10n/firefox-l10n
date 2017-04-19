@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Άνοιγμα πλαισίου μηνυμάτων αποθήκευσης συνθηματικού">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην Επίμονη Αποθήκευση">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Έχετε αποκλείσει τις πληροφορίες τοποθεσίας για τον ιστοτόπο.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Έχετε αποκλείσει την αποθήκευση δεδομένων για τον ιστοτόπο.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Έχετε αποκλείσει τις ειδοποιήσεις για τον ιστοτόπο.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Έχετε αποκλείσει την επίμονη αποθήκευση για αυτή την ιστοσελίδα.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Προβολή ιστορικού">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα καρτελών από τις άλλες συσκευές σας.">
 <!ENTITY appMenuRemoteTabs.signin.label "Είσοδος στο Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 
 <!ENTITY customizeMenu.addToToolbar.label "Προσθήκη στην εργαλειοθήκη">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Άνοιγμα όλων σε καρτέλες">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Α">
+<!ENTITY syncedTabs.context.managedevices.label              "Διαχείριση συσκευών…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "Σ">
 
 
 <!ENTITY syncBrand.shortName.label    "Συγχρονισμός">
@@ -896,5 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Μάθετε περισσότερα για το DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "μ">
 
+<!ENTITY updateAvailable.message "Ενημερώστε το &brandShorterName; για ακόμα περισσότερη ταχύτητα και απόρρητο.">
+<!ENTITY updateAvailable.whatsnew.label "Δείτε τι νέο υπάρχει.">
+<!ENTITY updateAvailable.header.message "Μια νέα ενημέρωση για το &brandShorterName; είναι διαθέσιμη.">
+<!ENTITY updateAvailable.acceptButton.label "Λήψη ενημέρωσης">
+<!ENTITY updateAvailable.acceptButton.accesskey "Λ">
+<!ENTITY updateAvailable.cancelButton.label "Όχι τώρα">
+<!ENTITY updateAvailable.cancelButton.accesskey "Ο">
+<!ENTITY updateAvailable.panelUI.label "Λήψη ενημέρωσης για το &brandShorterName;">
 
+<!ENTITY updateManual.message "Κάντε λήψη μιας φρέσκιας έκδοσης του &brandShorterName; και θα σάς βοηθήσουμε να την εγκαταστήσετε.">
+<!ENTITY updateManual.whatsnew.label "Δείτε τι νέο υπάρχει.">
+<!ENTITY updateManual.header.message "Το &brandShorterName; δεν μπορεί να ενημερωθεί στην πιο πρόσφατη έκδοση.">
+<!ENTITY updateManual.acceptButton.label "Λήψη του &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "Λ">
+<!ENTITY updateManual.cancelButton.label "Όχι τώρα">
+<!ENTITY updateManual.cancelButton.accesskey "Ο">
+<!ENTITY updateManual.panelUI.label "Λήψη μιας φρέσκιας έκδοσης του &brandShorterName;">
 
+<!ENTITY updateRestart.message "Μετά από μια σύντομη επανεκκίνηση, το &brandShorterName; θα επαναφέρει όλες τις ανοικτές καρτέλες και τα παράθυρά σας.">
+<!ENTITY updateRestart.header.message "Επανεκκίνηση του &brandShorterName; για εφαρμογή ενημέρωσης.">
+<!ENTITY updateRestart.acceptButton.label "Επανεκκίνηση και επαναφορά">
+<!ENTITY updateRestart.acceptButton.accesskey "Ε">
+<!ENTITY updateRestart.cancelButton.label "Όχι τώρα">
+<!ENTITY updateRestart.cancelButton.accesskey "Ο">
+<!ENTITY updateRestart.panelUI.label "Επανεκκίνηση του &brandShorterName; για εφαρμογή ενημέρωσης">

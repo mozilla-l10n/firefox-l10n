@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Αυτόματη ανανέωση κάθε 3 δευτερόλεπτα">
 <!ENTITY aboutNetworking.hostname              "Όνομα κεντρικού υπολογιστή">
 <!ENTITY aboutNetworking.port                  "Θύρα">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ενεργό">
 <!ENTITY aboutNetworking.idle                  "Αδρανές">

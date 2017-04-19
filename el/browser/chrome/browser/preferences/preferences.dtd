@@ -13,10 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 63em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 66em; min-height: 42em;">
 
+<!ENTITY  paneSearchResults.title       "Αποτελέσματα αναζήτησης">
 <!ENTITY  paneGeneral.title             "Γενικά">
+<!ENTITY  paneFilesApplications.title   "Αρχεία &amp; εφαρμογές">
+<!ENTITY  panePrivacySecurity.title     "Απόρρητο &amp; ασφάλεια">
 <!ENTITY  paneContainers.title          "Θεματικές καρτέλες">
+<!ENTITY  paneUpdates.title             "Ενημερώσεις">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Λογαριασμός Firefox">
 
 <!ENTITY  helpButton.label        "Βοήθεια">
 
+<!ENTITY searchInput.label        "Αναζήτηση">
