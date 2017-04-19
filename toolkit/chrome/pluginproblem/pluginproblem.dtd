@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Αρχείο">
 <!ENTITY plugin.mimeTypes                                    "Τύποι MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Ενεργοποίηση ασφαλής λειτουργίας του Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Φραγή επικίνδυνου και παρεμβατικού περιεχομένου Flash">

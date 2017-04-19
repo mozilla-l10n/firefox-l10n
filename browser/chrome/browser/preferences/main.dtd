@@ -4,12 +4,16 @@
 
 <!ENTITY startup.label             "Εκκίνηση">
 
+<!ENTITY startupPage2.label        "Κατά την εκκίνηση του &brandShortName;">
+<!ENTITY startupPage2.accesskey    "ε">
 <!ENTITY startupUserHomePage.label "Εμφάνιση αρχικής σελίδας">
 <!ENTITY startupBlankPage.label    "Εμφάνιση κενής σελίδας">
 <!ENTITY startupPrevSession.label  "Εμφάνιση παραθύρων και καρτελών από την τελευταία φορά">
 
+<!ENTITY homepage2.label           "Αρχική σελίδα">
+<!ENTITY homepage2.accesskey       "Σ">
 <!ENTITY useCurrentPage.label      "Χρήση τρέχουσας σελίδας">
-<!ENTITY useCurrentPage.accesskey  "τ">
+<!ENTITY useCurrentPage.accesskey  "Τ">
 <!ENTITY useMultiple.label         "Χρήση τρεχουσών σελίδων">
 <!ENTITY chooseBookmark.label      "Χρήση σελιδοδείκτη…">
 <!ENTITY chooseBookmark.accesskey  "σ">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Να επιτρέπεται στο &brandShortName; και στο Firefox η ταυτόχρονη εκτέλεση">
 <!ENTITY useFirefoxSync.label             "Συμβουλή: Θα γίνεται χρήση ξεχωριστών προφίλ. Χρησιμοποιήστε το Sync για κοινή χρήση δεδομένων.">
+<!ENTITY getStarted.notloggedin.label     "Σύνδεση στο &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Άνοιγμα προτιμήσεων του &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Ενεργοποίηση πολυδιεργασίας του &brandShortName;">

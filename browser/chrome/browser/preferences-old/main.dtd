@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Να επιτρέπεται στο &brandShortName; και στο Firefox η ταυτόχρονη εκτέλεση">
 <!ENTITY useFirefoxSync.label             "Συμβουλή: Θα γίνεται χρήση ξεχωριστών προφίλ. Χρησιμοποιήστε το Sync για κοινή χρήση δεδομένων.">
-<!ENTITY getStarted.label                 "Έναρξη χρήσης του Sync…">
+<!ENTITY getStarted.notloggedin.label     "Σύνδεση στο &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Άνοιγμα προτιμήσεων του &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Ενεργοποίηση πολυδιεργασίας του &brandShortName;">
