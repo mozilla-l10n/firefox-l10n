@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "t">
 <!ENTITY maximumConnectionsNumber.label "A gyorsítótárazandó kiszolgáló-kapcsolatok maximális száma">
 <!ENTITY maximumConnectionsNumber.accesskey "o">
+<!ENTITY forceSelect.label "IMAP lekérdezés küldése a kiszolgálónak az új e-mailek ellenőrzésekor">
+<!ENTITY forceSelect.tooltip "Egyes kiszolgálóknak egy további IMAP lekérdezés szükséges, hogy az új e-mailek megbízhatóan megérkezzenek, vagy olvasottként jelenjenek meg, ha egy másik eszközön már elolvasta azokat. Ez a beállítás némileg megnövekedett hálózati forgalmat eredményez.">
+<!ENTITY forceSelect.accesskey "K">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Személyes névtartomány:">
