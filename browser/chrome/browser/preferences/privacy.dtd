@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "跟踪保护">
 <!ENTITY  trackingProtectionAlways.label       "始终">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "只在隐私浏览窗口中">
@@ -29,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "地址栏">
 
+<!ENTITY  locbar.suggest2.label         "当使用地址栏时，为我提供">
 <!ENTITY  locbar.history.label          "历史记录">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "书签">
@@ -38,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "默认搜索引擎提供的相关搜索">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "更改搜索引擎建议的首选项">
 
 <!ENTITY  acceptCookies.label           "接受来自站点的 Cookie">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -60,6 +63,8 @@
 <!ENTITY  showCookies.label             "显示 Cookie…">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; 将">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "记录历史">
 <!ENTITY  historyHeader.dontremember.label "不记录历史">
 <!ENTITY  historyHeader.custom.label       "使用自定义设置">

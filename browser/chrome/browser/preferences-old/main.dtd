@@ -6,7 +6,7 @@
 
 <!ENTITY startupPage.label         "启动 &brandShortName; 时:">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupUserHomePage.label "显示您的首页">
+<!ENTITY startupUserHomePage.label "显示您的主页">
 <!ENTITY startupBlankPage.label    "显示空白页">
 <!ENTITY startupPrevSession.label  "显示您上次的窗口和标签页">
 
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "允许 &brandShortName; 和 Firefox 同时运行">
 <!ENTITY useFirefoxSync.label             "提示：这将使用单独的配置文件。使用“同步”在它们之间同步数据。">
-<!ENTITY getStarted.label                 "开始使用同步服务…">
+<!ENTITY getStarted.notloggedin.label     "登录到 &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "打开&syncBrand.shortName.label;服务首选项">
 
 <!ENTITY e10sEnabled.label                "启用多进程的 &brandShortName;">
