@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "跟踪保护">
+<!ENTITY  trackingProtection.description       "跟踪是指某些企业会收集和建立有关您的个人信息，并根据您的浏览偏好和个人信息决定展示内容。">
+<!ENTITY  trackingProtection.radioGroupLabel   "屏蔽已知的企业提供的跟踪内容">
 <!ENTITY  trackingProtectionAlways.label       "始终">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "只在隐私浏览窗口中">
