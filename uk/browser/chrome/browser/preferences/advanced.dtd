@@ -90,12 +90,18 @@
 <!ENTITY updateCheckChoose2.label        "Перевіряти наявність оновлень, але дозволяти вам вирішувати чи встановлювати їх">
 <!ENTITY updateCheckChoose2.accesskey    "П">
 <!ENTITY updateManual2.label             "Ніколи не перевіряти наявність оновлень (не рекомендовано)">
+<!ENTITY updateManual2.accesskey         "Н">
 
+<!ENTITY updateHistory2.label            "Показати історію оновлень…">
+<!ENTITY updateHistory2.accesskey        "с">
 
 <!ENTITY useService.label                "Використовувати фонову службу для встановлення оновлень">
 <!ENTITY useService.accesskey            "с">
 
+<!ENTITY enableSearchUpdate2.label       "Автоматично оновлювати засоби пошуку">
+<!ENTITY enableSearchUpdate2.accesskey   "з">
 
+<!ENTITY reports.label                   "Звіти">
 
 <!ENTITY offlineStorageNotify.label               "Повідомляти, коли веб-сайт просить зберегти дані для автономного використання">
 <!ENTITY offlineStorageNotify.accesskey           "П">
@@ -109,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Вилучити автономні дані">
 
 <!ENTITY certificateTab.label            "Сертифікати">
+<!ENTITY certPersonal2.description       "Коли сервер запитує ваш особистий сертифікат">
 <!ENTITY selectCerts.auto                "Обирати один автоматично">
 <!ENTITY selectCerts.auto.accesskey      "б">
 <!ENTITY selectCerts.ask                 "Питати щоразу">
