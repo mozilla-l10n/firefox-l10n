@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Só em janelas privativas">
@@ -38,6 +39,7 @@
 <!ENTITY  locbar.searches.label         "Pesquisas relacionadas do mecanismo de pesquisa padrão">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Alterar preferências das sugestões do mecanismo de pesquisa">
 
 <!ENTITY  acceptCookies.label           "Aceitar cookies dos sites">
 <!ENTITY  acceptCookies.accesskey       "S">

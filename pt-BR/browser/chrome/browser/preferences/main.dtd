@@ -4,10 +4,13 @@
 
 <!ENTITY startup.label             "Iniciar">
 
+<!ENTITY startupPage2.label        "Ao iniciar o &brandShortName;">
 <!ENTITY startupUserHomePage.label "Mostrar sua página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupPrevSession.label  "Mostrar suas janelas e abas anteriores">
 
+<!ENTITY homepage2.label           "Página inicial">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Usar a página aberta">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Usar as páginas abertas">
