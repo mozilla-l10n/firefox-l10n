@@ -84,6 +84,12 @@
 <!ENTITY updateTab.label                 "Оновлення">
 
 <!ENTITY updateApplication.label         "Оновлення &brandShortName;">
+<!ENTITY updateApplication.description   "Дозволити &brandShortName;">
+<!ENTITY updateAuto2.label               "Автоматично встановлювати оновлення (рекомендовано для покращення безпеки)">
+<!ENTITY updateAuto2.accesskey           "А">
+<!ENTITY updateCheckChoose2.label        "Перевіряти наявність оновлень, але дозволяти вам вирішувати чи встановлювати їх">
+<!ENTITY updateCheckChoose2.accesskey    "П">
+<!ENTITY updateManual2.label             "Ніколи не перевіряти наявність оновлень (не рекомендовано)">
 
 
 <!ENTITY useService.label                "Використовувати фонову службу для встановлення оновлень">
