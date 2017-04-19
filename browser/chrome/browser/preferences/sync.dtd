@@ -68,6 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "同步设置">
+<!ENTITY signedIn.settings.description "选择在您的设备上使用 &brandShortName; 时同步哪些内容。">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
