@@ -917,7 +917,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "M">
 <!ENTITY updateManual.cancelButton.label "Bukan Sekarang">
 <!ENTITY updateManual.cancelButton.accesskey "B">
-<!ENTITY updateManual.panelUI.label "Muat turun veris baru &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Muat turun versi baru &brandShorterName;">
 
 <!ENTITY updateRestart.message "Selepas mula semula, &brandShorterName; akan mengembalikan semua tab dan tetingkap yang anda buka.">
 <!ENTITY updateRestart.header.message "Mula semula &brandShorterName; untuk melaksanakan kemaskini.">
