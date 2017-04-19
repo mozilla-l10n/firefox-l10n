@@ -366,6 +366,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Utilizar tamaño de fuente del sistema">
+<!ENTITY pref_use_system_font_size_summary "Escalar el contenido web de acuerdo con el tamaño de fuente del sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reproducción automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web puede reproducir videos automáticamente u otro contenido multimedia.">
@@ -496,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Agregar a la pantalla de inicio">
+<!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
