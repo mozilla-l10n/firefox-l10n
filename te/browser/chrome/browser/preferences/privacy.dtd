@@ -60,6 +60,8 @@
 <!ENTITY  showCookies.label             "కుకీలను చూపించు...">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకో">
 <!ENTITY  historyHeader.dontremember.label "ఎప్పుడూ చరిత్రని గుర్తు పెట్టుకోవద్దు">
 <!ENTITY  historyHeader.custom.label       "చరిత్ర కోసం అనుకూలీకరించిన అమరికలు వాడు">

@@ -84,12 +84,19 @@
 <!ENTITY updateTab.label                 "నవీకరణ">
 
 <!ENTITY updateApplication.label         "&brandShortName; తాజాకరణలు">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "తాజాకరణ చరిత్రను చూపించు…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "నవీకరణలను సంస్థాపించుటకు బ్యాక్‌గ్రౌండ్ సేవను ఉపయోగించు">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "నివేదికలు">
 
 <!ENTITY offlineStorageNotify.label               "వెబ్‌ సైటు ఆఫ్‌లైన్ ఉపయోగం కొరకు డాటాను నిల్వచేయుటకు అడిగినప్పుడు మీకు తెలియజేయును">
 <!ENTITY offlineStorageNotify.accesskey           "T">
