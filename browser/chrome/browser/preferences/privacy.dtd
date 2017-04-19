@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Προστασία από παρακολούθηση">
+<!ENTITY  trackingProtection.radioGroupLabel   "Φραγή εμφάνισης περιεχομένου γνωστών εταιρειών παρακολούθησης">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
 <!ENTITY  trackingProtectionAlways.accesskey   "α">
 <!ENTITY  trackingProtectionPrivate.label      "Μόνο σε ιδιωτικά παράθυρα">
@@ -30,6 +31,7 @@
 
 <!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
 
+<!ENTITY  locbar.suggest2.label         "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση">
 <!ENTITY  locbar.history.label          "Ιστορικού">
 <!ENTITY  locbar.history.accesskey      "Ι">
 <!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
@@ -63,6 +65,7 @@
 <!ENTITY  showCookies.accesskey         "Π">
 
 <!ENTITY  historyHeader2.pre.label         "Το &brandShortName; θα">
+<!ENTITY  historyHeader2.pre.accesskey     "θ">
 <!ENTITY  historyHeader.remember.label     "Διατηρεί το ιστορικό">
 <!ENTITY  historyHeader.dontremember.label "Δεν θα διατηρεί ποτέ το ιστορικό">
 <!ENTITY  historyHeader.custom.label       "Κάνει χρήση προσαρμοσμένων ρυθμίσεων ιστορικού">

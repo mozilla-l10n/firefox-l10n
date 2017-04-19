@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Ιστοτόπος">
 <!ENTITY     statusCol.label               "Κατάσταση">
 <!ENTITY     usageCol.label                "Αποθήκευση">
+<!ENTITY     searchTextboxPlaceHolder             "Αναζήτηση ιστοσελίδων">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "Α">
 <!ENTITY     removeSelected.label          "Αφαίρεση επιλεγμένων">
 <!ENTITY     removeSelected.accesskey      "α">
 <!ENTITY     save.label                    "Αποθήκευση αλλαγών">

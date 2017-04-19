@@ -84,12 +84,18 @@
 <!ENTITY updateTab.label                 "Ενημέρωση">
 
 <!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
+<!ENTITY updateApplication.description   "Να επιτρέπεται στο &brandShortName;">
 
+<!ENTITY updateHistory2.label            "Εμφάνιση ιστορικού ενημερώσεων…">
+<!ENTITY updateHistory2.accesskey        "ν">
 
 <!ENTITY useService.label                "Χρήση μιας υπηρεσίας παρασκηνίου για την εγκατάσταση ενημερώσεων">
 <!ENTITY useService.accesskey            "υ">
 
+<!ENTITY enableSearchUpdate2.label       "Αυτόματη ενημέρωση μηχανών αναζήτησης">
+<!ENTITY enableSearchUpdate2.accesskey   "μ">
 
+<!ENTITY reports.label                   "Αναφορές">
 
 <!ENTITY offlineStorageNotify.label               "Ειδοποίηση όταν μια ιστοσελίδα ζητά να αποθηκεύσει δεδομένα για χρήση εκτός σύνδεσης">
 <!ENTITY offlineStorageNotify.accesskey           "Ε">
