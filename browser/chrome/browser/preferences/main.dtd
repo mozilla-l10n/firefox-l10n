@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Запуск">
 
+<!ENTITY startupPage2.label        "При запуску &brandShortName;">
+<!ENTITY startupPage2.accesskey    "з">
 <!ENTITY startupUserHomePage.label "Показувати початкову сторінку">
 <!ENTITY startupBlankPage.label    "Показувати чисту сторінку">
 <!ENTITY startupPrevSession.label  "Показувати вікна і вкладки з минулого разу">
 
+<!ENTITY homepage2.label           "Початкова сторінка">
+<!ENTITY homepage2.accesskey       "П">
 <!ENTITY useCurrentPage.label      "Встановити поточну сторінку">
 <!ENTITY useCurrentPage.accesskey  "п">
 <!ENTITY useMultiple.label         "Встановити поточні сторінки">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Дозволити &brandShortName; та Firefox виконуватись одночасно">
 <!ENTITY useFirefoxSync.label             "Підказка: При цьому використовуються окремі профілі. Скористайтеся синхронізацією для обміну даними між ними.">
+<!ENTITY getStarted.notloggedin.label     "Увійти в Синхронізацію…">
+<!ENTITY getStarted.configured.label      "Відкрити налаштування Синхронізації">
 
 <!ENTITY e10sEnabled.label                "Увімкнути багатопроцесність &brandShortName;">

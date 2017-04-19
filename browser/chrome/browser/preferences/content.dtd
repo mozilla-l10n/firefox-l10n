@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "Сповіщення">
 <!ENTITY  notificationsPolicyLearnMore.label   "Докладніше">
-<!ENTITY  notificationsPolicyDesc3.label       "Виберіть, яким сайтам дозволяється надсилати вам сповіщення">
+<!ENTITY  notificationsPolicyDesc3.label       "Оберіть сайти, яким дозволено надсилати вам сповіщення">
 <!ENTITY  notificationsPolicyButton.accesskey  "и">
 <!ENTITY  notificationsPolicyButton.label      "Вибрати…">
 <!ENTITY  notificationsDoNotDisturb.label      "Не турбувати мене">
@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Шрифти і кольори">
 
+<!ENTITY  defaultFont2.label          "Типовий шрифт">
+<!ENTITY  defaultFont2.accesskey      "Т">
+<!ENTITY  defaultSize2.label          "Розмір">
+<!ENTITY  defaultSize2.accesskey      "Р">
 
 <!ENTITY  advancedFonts.label         "Додатково…">
 <!ENTITY  advancedFonts.accesskey     "о">
@@ -30,7 +34,7 @@
 
 
 <!ENTITY languages.label              "Мови">
-<!ENTITY chooseLanguage.label         "Оберіть мову, якій ви надаєте перевагу для відображення веб-сторінок">
+<!ENTITY chooseLanguage.label         "Оберіть бажану мову для показу веб-сторінок">
 <!ENTITY chooseButton.label           "Вибрати…">
 <!ENTITY chooseButton.accesskey       "а">
 
