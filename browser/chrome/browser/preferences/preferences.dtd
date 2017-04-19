@@ -21,6 +21,7 @@
 <!ENTITY  paneUpdates.title             "更新">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox 账号">
 
 <!ENTITY  helpButton.label        "帮助">
 
