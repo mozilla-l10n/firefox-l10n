@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "站点">
 <!ENTITY     statusCol.label               "状态">
 <!ENTITY     usageCol.label                "存储">
+<!ENTITY     searchTextboxPlaceHolder             "搜索网站">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "移除选中">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "保存更改">

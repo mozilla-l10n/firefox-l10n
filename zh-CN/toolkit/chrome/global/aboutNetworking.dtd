@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "每3秒自动刷新一次">
 <!ENTITY aboutNetworking.hostname              "主机名">
 <!ENTITY aboutNetworking.port                  "端口">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "活动">
 <!ENTITY aboutNetworking.idle                  "空闲">
