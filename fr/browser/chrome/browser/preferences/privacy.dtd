@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protection contre le pistage">
+<!ENTITY  trackingProtection.description       "Il est question de pistage lorsque des entreprises collectent des informations vous concernant afin d’établir un profil et affichent du contenu selon vos données personnelles et vos données de navigation.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Empêcher les entreprises connues pour pratiquer le pistage d’afficher du contenu">
 <!ENTITY  trackingProtectionAlways.label       "Toujours">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
