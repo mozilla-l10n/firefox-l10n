@@ -6,6 +6,7 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Armazenamento">
+<!ENTITY     searchTextboxPlaceHolder             "Pesquisar sites">
 <!ENTITY     removeSelected.label          "Remover selecionados">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Salvar alterações">

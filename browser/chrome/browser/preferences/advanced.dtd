@@ -84,12 +84,17 @@
 <!ENTITY updateTab.label                 "Atualizações">
 
 <!ENTITY updateApplication.label         "Atualizações do &brandShortName;">
+<!ENTITY updateManual2.label             "Nunca verificar se há atualizações (não recomendado)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Mostrar histórico de atualizações…">
 
 <!ENTITY useService.label                "Usar um serviço para instalar atualizações em segundo plano">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY enableSearchUpdate2.label       "Atualizar automaticamente os mecanismos de pesquisa">
 
+<!ENTITY reports.label                   "Relatórios">
 
 <!ENTITY offlineStorageNotify.label               "Informar quando um site solicitar armazenamento para uso offline">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -103,6 +108,7 @@
 <!ENTITY offlineAppRemove.confirm        "Remover dados off-line">
 
 <!ENTITY certificateTab.label            "Certificados">
+<!ENTITY certPersonal2.description       "Quando um servidor solicita seu certificado pessoal">
 <!ENTITY selectCerts.auto                "Selecionar um automaticamente">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Perguntar todas as vezes">
