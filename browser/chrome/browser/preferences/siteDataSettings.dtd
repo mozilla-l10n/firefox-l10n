@@ -6,6 +6,7 @@
 <!ENTITY     hostCol.label                 "సైటు">
 <!ENTITY     statusCol.label               "స్థితి">
 <!ENTITY     usageCol.label                "నిల్వ">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "ఎంచుకున్నవి తొలగించు">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "మార్పులను భద్రపరచు">

@@ -19,6 +19,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
+<!ENTITY changeSyncDeviceName1.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "భద్రపరచు">
@@ -50,6 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ప్రొఫైల్ చిత్రం మార్చు">
 <!ENTITY verifiedManage.label        "ఖాతాను నిర్వహించు">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "ఈమెయిలు నిర్థారించు">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">
@@ -63,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "ప్రవేశించండి">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "సింక్ అమరికలు">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
