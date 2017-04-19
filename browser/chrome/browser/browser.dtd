@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "開啟儲存密碼訊息面板">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理附加元件使用情況">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "變更您是否要收到來自此網站的通知">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "將資料儲存於持續性儲存空間">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "管理您是否要與網站分享攝影機及/或麥克風">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "管理您是否要與網站分享麥克風">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "您已封鎖此網站取得您所在位置資訊的權限。">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "您已封鎖此網站存取資料儲存空間的權限。">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "您已封鎖此網站推送通知的權限。">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "您已封鎖此網站儲存資料至持續性儲存空間。">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "顯示瀏覽紀錄">
 
@@ -899,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "了解 DRM 的更多資訊…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "更新您的 &brandShorterName;，以獲得最新的效能與隱私權保障。">
 <!ENTITY updateAvailable.whatsnew.label "看看有什麼新鮮事。">
 <!ENTITY updateAvailable.header.message "已推出新版的 &brandShorterName;。">
 <!ENTITY updateAvailable.acceptButton.label "下載更新">
