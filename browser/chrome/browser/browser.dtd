@@ -902,6 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.whatsnew.label "Veja o que há de novo.">
+<!ENTITY updateAvailable.header.message "Uma nova atualização do &brandShorterName; está disponível.">
 <!ENTITY updateAvailable.acceptButton.label "Baixar atualização">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
@@ -910,4 +911,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "Não é possível atualizar o &brandShorterName; para a versão mais recente.">
 <!ENTITY updateManual.cancelButton.label "Agora não">
 
+<!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Agora não">
+<!ENTITY updateRestart.panelUI.label "Reiniciar o &brandShorterName; para aplicar a atualização">
