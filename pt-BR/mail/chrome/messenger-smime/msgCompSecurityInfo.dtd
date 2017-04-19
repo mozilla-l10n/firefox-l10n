@@ -10,7 +10,7 @@
 <!ENTITY status.signed "Assinada digitalmente:">
 <!ENTITY status.encrypted "Criptografada:">
 <!ENTITY status.certificates "Certificados:">
-<!ENTITY view.label "Ver">
+<!ENTITY view.label "Exibir">
 <!ENTITY view.accesskey "x">
 <!ENTITY tree.recipient "Destinatário">
 <!ENTITY tree.status "Status">
