@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "หน้าแรก">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "ใช้สำหรับแท็บใหม่ด้วย">
 <!ENTITY home_homepage_title "ตั้งหน้าแรก">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -287,6 +288,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "เปิดใน &formatS;">
+<!ENTITY custom_tabs_menu_footer "ขับเคลื่อนโดย &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "คัดลอก URL แล้ว">
 
