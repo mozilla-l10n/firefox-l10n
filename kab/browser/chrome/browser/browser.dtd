@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Ldi umuɣ">
 <!ENTITY navbarOverflow.label                "Ugar n ifecka…">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Smiren iccer">
 <!ENTITY  reloadTab.accesskey                "S">
 <!ENTITY  reloadAllTabs.label                "Smiren akk iccarren">
@@ -30,12 +30,12 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "M">
 <!ENTITY  closeOtherTabs.label               "Mdel iccaren nniḍen">
 <!ENTITY  closeOtherTabs.accesskey           "M">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Qmec accer-agi">
 <!ENTITY  pinTab.accesskey                   "Q">
 <!ENTITY  unpinTab.label                     "Serreḥ i yiccer-agi">
@@ -126,29 +126,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "F">
 <!ENTITY fullScreenExit.label "Ffeɣ seg uskar n ugdil ačuran">
 <!ENTITY fullScreenExit.accesskey "F">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "Hatan tura deg ugdil ačuṛan">
 <!ENTITY fullscreenWarning.generic.label "Isemli-agi, atan tura deg ugdil ačuṛan">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY exitDOMFullscreen.button "Ffeɣ seg ugdil ačuṛan (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Ffeɣ seg ugdil ačuṛan (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Ffeɣ seg uskar n ugdil ačuran ">
 <!ENTITY leaveDOMFullScreen.accesskey "F">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 <!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
 <!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY backForwardButtonMenuMac.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
 <!ENTITY reloadCmd.label              "Smiren">
-<!ENTITY reloadButton.tooltip         "Sali-d asebter amiran">
 <!ENTITY stopCmd.label                "Seḥbes">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Rken asali n usebter-agi">
 <!ENTITY goEndCap.tooltip             "Ddu ɣer usebter n ufeggag n tansa">
 <!ENTITY printButton.label            "Siggez">
 <!ENTITY printButton.tooltip          "Siggez asebtar-a">
@@ -234,11 +232,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Wennez aswir n usemɣeṛ/asemẓi">
-
 <!ENTITY searchItem.title             "Nadi">
-<!-- Toolbar items --> 
 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Asebter agejdan">
 
 <!ENTITY bookmarksButton.label          "Ticraḍ n isebtar">
@@ -251,10 +247,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "Skena afeggag  udmawan">
 
 <!ENTITY containersMenu.label "Imagbaren">
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -377,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad-sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Sefrek ibenkan…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sken agalis adisan n yiccaren yemtawin">
 
 <!ENTITY customizeMenu.addToToolbar.label "Rnu ɣer ufeggag n ifecka">
@@ -413,6 +410,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ih">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
+
 <!-- 
   Comment duplicated from browser-sets.inc:
 
@@ -433,36 +431,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
-
 <!ENTITY contentSearchInput.label     "Nadi tuttra">
 <!ENTITY contentSearchSubmit.tooltip  "Azen anadi">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "Nadi ">
 <!ENTITY searchWith.label             " s:">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 "Nadi ">
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "Nadi s:">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
@@ -571,11 +568,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "t">
 <!ENTITY thisFrameMenu.label              "Akatar-agi">
 <!ENTITY thisFrameMenu.accesskey          "k">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Urar">
 <!ENTITY mediaPlay.accesskey         "U">
 <!ENTITY mediaPause.label            "Asteɛfu">
@@ -622,18 +619,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "d">
 <!ENTITY videoHideStats.label        "Ffer tidaddanin">
 <!ENTITY videoHideStats.accesskey    "d">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Semɣeṛ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "m">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Semẓi">
@@ -715,14 +711,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel-agi, iselkem sɣuṛ:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-agi, ad ttwakren.">
-<!-- Strings for connection state warnings. -->
 
+<!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d inelnanen deg usebter-agi.">
 <!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebter-agi d iraɣelsanen (am tugniwin).">
 <!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebter-agi.">
 <!ENTITY identity.weakEncryption "Asebter-agi iseqdac awgelhen meẓẓiyen">
-<!-- Strings for connection state warnings in the subview. -->
 
+<!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Tuqqna yinek ɣer usmel-agi mačči tusligt.Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, art.). ">
 <!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqda id-muddeḍ ɣef usebter-agi mačči d aɣelsan u yezmer ad ittwakwer.">
 <!ENTITY identity.description.weakCipher "Tuqqna yinek ɣeṛ usmel-agi teseqdac awgelhen meẓẓiyen u mačči d tusligt.">
@@ -748,12 +744,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.permissions "Tisirag">
 <!ENTITY identity.permissionsEmpty "Ur ɣuṛ-k ara tasiregt akken ad tkecmeḍ ɣeṛ usmel-a web.">
 <!ENTITY identity.permissionsReloadHint "Ahat tesriḍ ad d-tessaliḍ tikelt nniḍen asebter akken isnifal ad ttwasensen.">
+
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Iccaren n uminig">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Iccaren yemtawin">
 
 <!ENTITY syncedTabs.sidebar.label              "Iccaren yemtawin">
@@ -766,11 +762,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen.">
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
 <!ENTITY syncedTabs.context.open.label                       "Ldi">
 <!ENTITY syncedTabs.context.open.accesskey                   "L">
 <!ENTITY syncedTabs.context.openInNewTab.label               "Ldi ɣef iccer amaynut">
@@ -786,6 +782,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Ldi merra ɣef yiccaren">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "m">
+<!ENTITY syncedTabs.context.managedevices.label              "Sefrek ibenkan…">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -856,35 +853,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginNotification.showAll.label "Sken imaṛṛa">
 <!ENTITY pluginNotification.showAll.accesskey "S">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Rmed tura">
 <!ENTITY pluginActivateAlways.label "Sireg u cfu">
 <!ENTITY pluginBlockNow.label "Sewḥel azegrir">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Mdel">
 
 <!ENTITY appMenuSidebars.label         "Igalisen idisanen">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "Sfeḍ:">
 <!ENTITY panicButton.view.5min                    "Sem n tesdatin">
 <!ENTITY panicButton.view.2hr                     "Sin isragen">
 <!ENTITY panicButton.view.day                     "24 n yesragen">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "Ma tɣeleḍ :">
 <!ENTITY panicButton.view.deleteCookies           "Sfeḍ <html:strong>inagan n tuqqna</html:strong> n melmi kan">
 <!ENTITY panicButton.view.deleteHistory           "Sfeḍ <html:strong> amazray </html:strong> n melmi kan">
@@ -900,3 +897,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Issin ugar ɣef DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.whatsnew.label "Wali amaynut.">
+
+
