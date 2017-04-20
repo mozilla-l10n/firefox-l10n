@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Protección de seguimiento">
+<!ENTITY  trackingProtection.description       "El seguimiento es cuando una compañía recolecta información sobre ti para construir un perfil y mostrar contenido basándose en tu forma de navegación y datos personales.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloquear el mostrar contenido a compañías conocidas por seguimiento">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Barra de direcciones">
 
+<!ENTITY  locbar.suggest2.label         "Al usar la barra de ubicación, sugerir">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcadores">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Búsquedas relacionadas del motor de búsqueda predeterminado">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Cambia las preferencias para las sugerencias de los motores de búsqueda">
 
 <!ENTITY  acceptCookies.label           "Aceptar cookies de los sitios">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Recordará el historial">
 <!ENTITY  historyHeader.dontremember.label "Nunca recordará el historial">
 <!ENTITY  historyHeader.custom.label       "Usará configuraciones personalizadas para el historial">
