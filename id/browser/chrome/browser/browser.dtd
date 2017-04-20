@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Anda telah memblokir informasi lokasi untuk situs web ini.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Anda telah memblokir penyimpanan data untuk situs web ini.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Anda telah memblokir notifikasi untuk situs web ini.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Anda telah memblokir penyimpanan tetap untuk situs web ini.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tampilkan riwayat">
 
@@ -523,7 +524,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
-<!ENTITY emailPageCmd.label           "Emailkan Tautan…">
+<!ENTITY emailPageCmd.label           "Kirim Tautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
 <!ENTITY savePageCmd.accesskey        "S">

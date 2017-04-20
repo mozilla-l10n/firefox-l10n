@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versi">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Fitur &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nama">
+<!ENTITY aboutSupport.featureVersion "Versi">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Fitur Eksperimental">
 <!ENTITY aboutSupport.experimentName "Nama">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -37,7 +42,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-<!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal Pembaruan">
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Kanal Pemutakhiran">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Riwayat Pemutakhiran">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Tampilkan Riwayat Pemutakhiran">
 
