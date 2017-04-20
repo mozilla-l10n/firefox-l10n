@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "קובץ">
 <!ENTITY plugin.mimeTypes                                    "סוגי MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "הפעלת Adobe Flash במצב מוגן">
+<!ENTITY plugin.enableBlocklists.label                       "חסימת תוכן Flash מסוכן ומטעה">
