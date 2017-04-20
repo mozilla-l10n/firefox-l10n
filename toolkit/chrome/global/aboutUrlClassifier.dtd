@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle "Informazioni su url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle "Fornitore">
+<!ENTITY aboutUrlClassifier.provider "Fornitore">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime "Ultimo aggiornamento">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime "Prossimo aggiornamento">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Stato aggiornamento">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn "Aggiorna">
+<!ENTITY aboutUrlClassifier.lookupTitle "Lookup">
+<!ENTITY aboutUrlClassifier.lookupUrl "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch "Match">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn "Verifica risultati match">
+<!ENTITY aboutUrlClassifier.lookupLookup "Lookup">
+<!ENTITY aboutUrlClassifier.lookupBtn "Verifica risultati lookup">
+<!ENTITY aboutUrlClassifier.cacheTitle "Cache">
+<!ENTITY aboutUrlClassifier.memoryTitle "Memoria">
+<!ENTITY aboutUrlClassifier.databaseTitle "Database">
+<!ENTITY aboutUrlClassifier.debugTitle "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn "Imposta moduli di log">
+<!ENTITY aboutUrlClassifier.debugFileBtn "Imposta file di log">
+<!ENTITY aboutUrlClassifier.debugJSLogChk "Imposta JS Log">
+<!ENTITY aboutUrlClassifier.debugSBModules "Imposta moduli di log per Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules "Moduli di log correnti">
+<!ENTITY aboutUrlClassifier.debugSBJSModules "Safe Browsing JS log">
+<!ENTITY aboutUrlClassifier.debugFile "File di log corrente">
