@@ -84,6 +84,13 @@
 <!ENTITY updateTab.label                 "Обновяване">
 
 <!ENTITY updateApplication.label         "Обновявания на &brandShortName;">
+<!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
+<!ENTITY updateAuto2.label               "Автоматично да инсталира на обновяванията (препоръчано: подобрява защитата)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
+<!ENTITY updateCheckChoose2.accesskey    "п">
+<!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
+<!ENTITY updateManual2.accesskey         "Н">
 
 <!ENTITY updateHistory2.label            "Хронология на обновяванията…">
 <!ENTITY updateHistory2.accesskey        "х">
@@ -91,7 +98,10 @@
 <!ENTITY useService.label                "Използване на услуга на заден план за инсталиране на обновявания">
 <!ENTITY useService.accesskey            "у">
 
+<!ENTITY enableSearchUpdate2.label       "Автоматично обновяване на търсещите машини">
+<!ENTITY enableSearchUpdate2.accesskey   "т">
 
+<!ENTITY reports.label                   "Доклади">
 
 <!ENTITY offlineStorageNotify.label               "Предупреждение, при опит на сайт да запазва информация за работа извън мрежата">
 <!ENTITY offlineStorageNotify.accesskey           "П">
@@ -105,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Изчистване на данните за работа извън мрежата">
 
 <!ENTITY certificateTab.label            "Сертификати">
+<!ENTITY certPersonal2.description       "Когато сървър поиска личния ви сертификат">
 <!ENTITY selectCerts.auto                "Автоматично избиране на някой">
 <!ENTITY selectCerts.auto.accesskey      "а">
 <!ENTITY selectCerts.ask                 "Питане всеки път">
