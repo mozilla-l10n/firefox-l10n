@@ -5,6 +5,7 @@
 <!ENTITY startup.label             "Iniciar">
 
 <!ENTITY startupPage2.label        "Ao iniciar o &brandShortName;">
+<!ENTITY startupPage2.accesskey    "i">
 <!ENTITY startupUserHomePage.label "Mostrar sua página inicial">
 <!ENTITY startupBlankPage.label    "Mostrar uma página em branco">
 <!ENTITY startupPrevSession.label  "Mostrar suas janelas e abas anteriores">
@@ -39,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permitir que o &brandShortName; e o Firefox funcionem ao mesmo tempo">
 <!ENTITY useFirefoxSync.label             "Dica: São usados perfis separados. Use o Sync para compartilhar dados entre eles.">
+<!ENTITY getStarted.notloggedin.label     "Entrar no &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Abrir preferências &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Habilitar o multiprocesso do &brandShortName;">
