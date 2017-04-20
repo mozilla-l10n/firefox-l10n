@@ -914,3 +914,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
 <!ENTITY updateRestart.header.message "Рестартујте &brandShorterName; да примени надоградњу.">
+<!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
+<!ENTITY updateRestart.cancelButton.label "Не сада">
+<!ENTITY updateRestart.panelUI.label "Рестартујте &brandShorterName; да примени надоградњу">
