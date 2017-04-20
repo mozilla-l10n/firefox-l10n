@@ -12,3 +12,6 @@
 
 <!-- Placeholders for input type=date -->
 
+<!ENTITY date.year.placeholder "שנה">
+<!ENTITY date.month.placeholder "חודש">
+<!ENTITY date.day.placeholder "יום">
