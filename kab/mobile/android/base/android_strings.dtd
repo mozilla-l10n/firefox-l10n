@@ -33,21 +33,21 @@
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Bellez ayen ur tesriḍ ara">
 <!ENTITY firstrun_readerview_subtext "Seqdec Timeẓri n tɣuṛi akken ad terreḍ imagraden cebḥen i tɣuri \u2014 xas ur telli tuqqna">
-<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 
+<!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Kečč">
 <!ENTITY firstrun_account_message "Γur-k &brandShortName; deg yibenk nniḍen?">
 
 <!ENTITY  onboard_start_restricted1 "Qqim d aɣelsan udiɣ mahel s useqdec n lqem-agi aḥerfi n &brandShortName;.">
+
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-
 <!ENTITY  bookmarks_title "Ticraḍ n isebtar">
 <!ENTITY  history_title "Amazray">
 
 <!ENTITY  switch_to_tab "Uɣal ɣer yiccer">
-<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 
+<!-- Localization note: Shown in a snackbar when tab is loaded from cache while device was offline. -->
 <!ENTITY  tab_offline_version "Sken lqem n war tuqqna">
 
 <!ENTITY  crash_reporter_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
@@ -81,9 +81,9 @@
      and is labeled by this String. -->
 <!ENTITY screenshot_folder_label_in_bookmarks "Tuṭṭfa n wegdil">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Tabdart n tɣuṛi">
+
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
-
 <!ENTITY bookmark_folder_items "&formatD; iferdisen">
 <!ENTITY bookmark_folder_one_item "1 aferdis">
 
@@ -131,27 +131,27 @@
 <!ENTITY settings_title "Iɣewwaṛen">
 <!ENTITY pref_category_general "Amatu">
 <!ENTITY pref_category_general_summary3 "Agejdan, tutlayt, adras n yiccer">
+
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
-
 <!ENTITY pref_category_language "Tutlayt">
 <!ENTITY pref_category_language_summary "Snifel tutlayt n iminig inek">
 <!ENTITY pref_browser_locale "Tutlayt n iminig">
+
 <!-- Localization note (locale_system_default) : This string indicates that
      Firefox will use the locale currently selected in Android's settings
      to display browser chrome. -->
-
 <!ENTITY locale_system_default "Amezwer n unagraw">
+
 <!-- Localization note (overlay_share_label) : This is the label that appears
      in Android's intent chooser when sending a link to Firefox to bookmark,
      send to another device, or add to Reading List. -->
-
 <!ENTITY overlay_share_label "Rnu ɣer &brandShortName;">
+
 <!-- Localization note (overlay_share_bookmark_btn_label) : This string is
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
-
 <!ENTITY overlay_share_bookmark_btn_label "Creḍ asebter-agi">
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenkan nniḍen">
@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Irmed">
 <!ENTITY pref_home_updates_wifi "S Wi-Fi kan">
 <!ENTITY pref_category_home_homepage "Asebter agejdan">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Ittwaseqdec daγen i yiccaren imaynuten">
 <!ENTITY home_homepage_title "Sbadu asebter agejdan">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -230,8 +233,8 @@
      user to insert an address of their choice. This string is the hint text to that
      text field. -->
 <!ENTITY home_homepage_hint_user_address "Sekcem tansa neɣ awal n unadi">
-<!-- Localization note: These are shown in the left sidebar on tablets -->
 
+<!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_general "Amatu">
 <!ENTITY pref_header_search "Nadi">
 <!ENTITY pref_header_privacy_short "Tabaḍnit">
@@ -245,10 +248,10 @@
 <!ENTITY pref_cookies_accept_all "Irmed">
 <!ENTITY pref_cookies_not_accept_foreign "Yttwasireg, ala inagan n tuqqna n wis kraḍ">
 <!ENTITY pref_cookies_disabled "Arurmid">
+
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-
 <!ENTITY pref_category_data_saver "Amsekles n isefka">
 <!ENTITY pref_category_media "Allal n teywalt">
 <!ENTITY pref_category_developer_tools "Ifecka n tneflit">
@@ -272,18 +275,24 @@
 
 <!ENTITY pref_whats_new_notification "D acu i d amaynut deg &brandShortName;">
 <!ENTITY pref_whats_new_notification_summary "Issin ɣef tmahilin timaynutin send aleqqem">
+
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-
 <!ENTITY pref_category_experimental "Timahihilin tirmitanin">
+
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!ENTITY pref_custom_tabs "Iccaren udmawanen">
 <!ENTITY pref_custom_tabs_summary3 "Sireg isnasen akken ad d-ldin ismal web s useqdec n lqem udmawan n &brandShortName;">
-<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Ldi di &formatS;">
+<!ENTITY custom_tabs_menu_footer "Isumer-it-d &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Tansa URL tettwanγel">
 
+<!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Asuddem n warmud">
 <!ENTITY pref_activity_stream_summary "Asuddem n umazray anesbaɣur akked usebter agejdan atrar sifsusen abrid akken ad d-tafeḍ ayen tebɣiḍ deg &brandShortName;">
 
@@ -314,9 +323,9 @@
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
 <!ENTITY tab_queue_notification_text_singular2 "1 n yiccer yettraǧu">
+
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-
 <!ENTITY tab_queue_notification_settings "Akken ad \&quot;d-teldiḍ deqs n iseɣwan\&quot;, rmed ma ulac aɣilif, tasiregt \&quot;Suneɣ deg isnasen nniḍen\&quot; deg &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
@@ -350,26 +359,12 @@
 <!ENTITY pref_plugins_enabled "Irmed">
 <!ENTITY pref_plugins_tap_to_play2 "Nnal akken ad yeddu">
 <!ENTITY pref_plugins_disabled "Arurmid">
-<!ENTITY pref_text_size "Teɣzi n uḍris">
 <!ENTITY pref_restore_tabs "Err-d iccaren">
 <!ENTITY pref_restore_always "Ttarra-d yal tikelt">
 <!ENTITY pref_restore_quit "Ur d-ttarra ara seld ma teffɣeḍ seg &brandShortName;">
-<!ENTITY pref_font_size_tiny "Meẓẓi aṭas">
-<!ENTITY pref_font_size_small "Meẓẓi">
-<!ENTITY pref_font_size_medium "Alemmas">
-<!ENTITY pref_font_size_large "Muqqeṛ">
-<!ENTITY pref_font_size_xlarge "Muqqeṛ aṭas">
-<!ENTITY pref_font_size_set "Sbadu">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
 
-<!ENTITY pref_font_size_preview_text "Uccen ačinawi arurad ad ifaṛes tagnitt seg ayen i tettraǧuḍ s zreb, s ugar n tfullaẓt akked tɣellist. Nekkni d tarbaɛt ur nmahal ara ɣer idrimen, d illiliyen akken ad d-dnesnulfu s yisem nwen s war cedda. Ay-agi yemmal-d tarmirt ifazen i kečč akked uzekka ifazen i Web.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
@@ -427,13 +422,13 @@ size. -->
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
+
 <!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-
 <!ENTITY datareporting_fhr_title "Amazan n ineqqisen n uɣelluy &brandShortName; ">
 <!ENTITY datareporting_fhr_summary2 "Ad yebḍu isefka akked &vendorShortName; ɣef tezmert n iminig-inek, udiɣ ad d-yefk tallalt akken ad tegzuḍ timellit n iminig-inek">
 <!ENTITY datareporting_abouthr_title "Wali aneqqis-iw n tezmert">
@@ -452,8 +447,8 @@ size. -->
 <!ENTITY pref_update_autodownload_wifi "S Wi-Fi kan">
 <!ENTITY pref_update_autodownload_never "Werǧin">
 <!ENTITY pref_update_autodownload_always "Yal tikelt">
-<!-- Localization note (help_menu) : This string is used in the main menu-->
 
+<!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Tallalt">
 
 <!ENTITY quit "Ffeɣ">
@@ -481,16 +476,16 @@ size. -->
 <!ENTITY set_image_fail "Ur yezmir ara ad yesbadu tugna">
 <!ENTITY set_image_path_fail "Ur yezmir ara ad yessekles tugna">
 <!ENTITY set_image_chooser_title "Sbadu tugna am">
+
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY find_text "Nadi deg usebter">
 <!ENTITY find_prev "Ɣeṛ deffir">
 <!ENTITY find_next "Ɣer zdat">
 <!ENTITY find_close "Mdel">
+
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-
 <!ENTITY media_sending_to "Tuzna ɣer yibenk">
 <!ENTITY media_play "Urar">
 <!ENTITY media_pause "Ṛǧu">
@@ -511,10 +506,10 @@ size. -->
 <!ENTITY contextmenu_top_sites_pin "Sentu asmel">
 <!ENTITY contextmenu_top_sites_unpin "Kkes asmel">
 <!ENTITY contextmenu_add_search_engine "Rnu amsedday n unadi">
+
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
-
 <!ENTITY doorhanger_login_no_username "[Ulac isem n useqdac]">
 <!ENTITY doorhanger_login_edit_title "Ẓreg inekcam">
 <!ENTITY doorhanger_login_edit_username_hint "Isem n useqdac">
@@ -524,43 +519,43 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy "Awal uffir yettwanɣel ɣef affus">
 <!ENTITY doorhanger_login_select_action_text "Fren anekcam nniḍen">
 <!ENTITY doorhanger_login_select_title "Nɣel awal uffir seg">
+
 <!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
      whether or not the magnifying glass is disabled. -->
-
 <!ENTITY pref_magnifying_glass_enabled "Semɣeṛ timnaḍin meẓẓiyen">
 <!ENTITY pref_magnifying_glass_enabled_summary2 "Semɣeṛ iseɣwan seg urtan n tferkit ticki tennuleḍ rrif nsen">
+
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-
 <!ENTITY pref_scroll_title_bar2 "Tunigin deg ugdil aččuran">
 <!ENTITY pref_scroll_title_bar_summary2 "Ffer afeggag n ifecka n &brandShortName; deg udrerem n usebter d akessar">
 
 <!ENTITY pref_tab_queue_title3 "Adras n ticcer">
 <!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
+
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
-
 <!ENTITY pref_compact_tabs "Iccaren ussiden">
 <!ENTITY pref_compact_tabs_summary2 "Seggem iccaren di snat n tgejda du uskar ahrawan">
+
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
-
 <!ENTITY page_removed "Asbter yettwakkes">
 
 <!ENTITY bookmark_edit_title "Ẓreg tacreṭ n usebter">
 <!ENTITY bookmark_edit_name "Isem">
 <!ENTITY bookmark_edit_location "Tansa:">
 <!ENTITY bookmark_edit_keyword "Awal n tsaruţ">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
-
 <!ENTITY site_settings_title3       "Iɣewwaṛen n usmel">
 <!ENTITY site_settings_cancel       "Sefsex">
 <!ENTITY site_settings_clear        "Sfeḍ">
+
 <!-- Localization note : These strings are used as alternate text for accessibility.
      They are not visible in the UI. -->
-
 <!ENTITY page_action_dropmarker_description "Tiggawin nniḍen">
 
 <!ENTITY masterpassword_create_title "Rnu awal uffir agejdan">
@@ -581,9 +576,9 @@ size. -->
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Rnu asmel">
+
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-
 <!ENTITY home_title "Asebter agejdan &brandShortName;">
 <!ENTITY home_history_title "Amazray">
 <!ENTITY home_synced_devices_smartfolder "Ibenkan yemtawin">
@@ -604,19 +599,19 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Mekti-d: aseqdec n  &formatS1;Iccer uslig amaynut &formatS2; ur yesseklas ara amazray-inek.">
+
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-
 <!ENTITY home_default_empty "Ulac agbur deg ugalis-agi.">
+
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
-
 <!ENTITY home_move_back_to_filter "Uɣal ɣer &formatS;">
+
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; n ibenkan yeffren">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
@@ -635,8 +630,8 @@ size. -->
 <!ENTITY filepicker_audio_title "Fren neɣ sekles imesli">
 <!ENTITY filepicker_image_title "Fren neɣ ṭṭef tawlaft">
 <!ENTITY filepicker_video_title "Fren neɣ sekles tavidyutt">
-<!-- Site identity popup -->
 
+<!-- Site identity popup -->
 <!ENTITY identity_connected_to "Aqlik teqneḍ ɣer">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
@@ -652,21 +647,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "Tuqqna taɣelsant">
 <!ENTITY identity_connection_insecure "Tuqqna taraɣelsant">
 <!ENTITY identity_connection_chromeui "Wa d asebter aɣelsan n &brandShortName; ">
-<!-- Mixed content notifications in site identity popup -->
 
+<!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; isewḥel agbur araɣelsan ɣef usebter-agi.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; isewḥel kra n ugbur araɣelsan ɣef usebter-agi.">
 <!ENTITY mixed_content_display_loaded1 "Kra n yeḥricen n usebter-agi mačči d iɣelsanen (am tugniwin).">
 <!ENTITY mixed_content_protection_disabled1 "Tekkseḍ armad n ummesten mgal agbur araɣelsan.">
-<!-- Tracking content notifications in site identity popup -->
 
+<!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "Ammesten mgal asfuɣel">
 <!ENTITY doorhanger_tracking_state_enabled "Irmed">
 <!ENTITY doorhanger_tracking_state_disabled "Arurmid">
 <!ENTITY doorhanger_tracking_message_enabled1 "Aɛraḍ n usfuɣel deg tunigin-inek yettwasewḥel.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Asebter-agi yegber iferdisen i izemren ad sfuɣlen tunigin-inek.">
-<!-- Common mixed and tracking content strings in site identity popup -->
 
+<!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Issin ugar">
 <!ENTITY enable_protection "Rmed ammesten">
 <!ENTITY disable_protection "Kkes armad n ummesten">
@@ -688,15 +683,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
 <!ENTITY search_bar_item_desc "Nadi s &formatS;">
+
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-
 <!ENTITY suggestion_for_engine "Nadi &formatS1; ɣef &formatS2;">
 
 <!ENTITY searchable_description "Ticraḍ d umazray">
-<!-- Updater notifications --> 
 
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Lqem n &brandShortName; yellan">
 <!ENTITY updater_start_select2 "Nnal akken ad d-tessidreḍ">
 
@@ -707,15 +702,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_apply_title3 "Lqem n &brandShortName; yellan">
 <!ENTITY updater_apply_select3 "Nal akken ad tesbedded">
+
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-
 <!ENTITY updater_permission_text "Akken ad d-tessidreḍ ifuyla akked ileqman, mudd i &brandShortName; tasiregt n unekcum ɣer usekles.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Sireg">
-<!-- Guest mode -->    
 
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Tiɣimit tanebgit tamaynut">
 <!ENTITY exit_guest_session "Ffeɣ seg tɣimit tanebgit">
 <!ENTITY guest_session_dialog_continue "Ddu ɣer zdat">
@@ -727,45 +722,45 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY exit_guest_session_title "&brandShortName; ad yekker tura">
 <!ENTITY exit_guest_session_text "Isefka n tunigin n tɣimit-agi ad ttwakksen.">
+
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
      designated space. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit
      traditions in your locale. -->
-
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
+
 <!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
      display a percentage value. formatS is the number, #37 is the code to display a percent sign.
      This format string is typically used by getString method, in such method the percent sign
      is a reserved caracter. In order to display one percent sign in the result of getString,
      double percent signs must be inserted in the format string.
      This entity is used in the zoomed view to display the zoom factor-->
-
 <!ENTITY percent "&formatS;&#037;&#037;">
+
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
-
 <!ENTITY actionbar_menu "Umuɣ">
 <!ENTITY actionbar_done "Immed">
-<!-- Voice search in the awesome bar -->
 
+<!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "Mmeslay tura">
+
 <!-- Localization note (remote_tabs_last_synced): the variable is replaced by a
      "relative time span string" produced by Android.  This string describes the
      time the tabs were last synced relative to the current time; examples
      include "42 minutes ago", "4 days ago", "last week", etc. The subject of
      "Last synced" is one of the user's other Sync clients, typically Firefox on
      their desktop or laptop.-->
-
 <!ENTITY remote_tabs_last_synced "Asemtawi aneggaru: &formatS;">
 <!-- Localization note: Used when the sync has not happend yet, showed in place of a date -->
 <!ENTITY remote_tabs_never_synced "Asemtawi aneggaru: weṛǧin">
+
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_prompt): This string will
      appear in an alert when a user, who is currently in private browsing,
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
-
 <!ENTITY intent_uri_private_browsing_prompt "Aseɣwen-agi ad d-yeldi deg &formatS;. Tebɣiḍ ad teffɣeḍ seg tunigin tusligt?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
@@ -775,18 +770,18 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      unpolished when this string is longer than one line so ideally keep it
      short! -->
 <!ENTITY intent_uri_private_browsing_multiple_match_title "Ffeɣ seg tunigin tusligt?">
+
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
      code has already been displayed by the client trying to connect (such as
      desktop Firefox via WebIDE), so you just need to aim this device at the QR
      code. -->
-
 <!ENTITY devtools_auth_scan_header "Asnirem n tengalt QR yettwasken-d ɣef yibenk-inek nniḍen.">
+
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
-
 <!ENTITY restrictable_feature_addons_installation "Izegrar imernan">
 <!ENTITY restrictable_feature_addons_installation_description "Rnu timeẓliyin neq timahilin ɣer Firefox: Rnu izegrar i yezemren ad kksen armad n kra tsuraf.">
 <!ENTITY restrictable_feature_private_browsing "Tunigin tusligt">
@@ -799,9 +794,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone_description "Ad isireg i twacult ad mmeslayen lwaḥid ɣef yesmal web.">
 <!ENTITY restrictable_feature_block_list "Tabdart n usewḥel">
 <!ENTITY restrictable_feature_block_list_description "Sewḥel ismal igebren agbur ḥessisen.">
+
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-
 <!ENTITY bookmarks_about_browser "Firefox: Talɣut ɣef iminig ineg">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: Sagen s izegrar">
@@ -811,17 +806,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY bookmarks_restricted_support2 "Tallalt d usellek n Firefox i yimaɣna yettucidden ɣef tifelwiyin tiselkamin n Anroid">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "Issin Web: Mozilla Webmaker">
+
 <!-- LOCALIZATION NOTE (unsupported_sdk_version): The user installed a build of this app that does not support
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
-
 <!ENTITY unsupported_sdk_version "Suref-aɣ! &brandShortName; ur itteddu ara ɣef yibenk-agi (&formatS1;, &formatS2;). Ma ulac aɣilif sider-d lqem ameɣtu.">
 
 <!ENTITY eol_notification_title2 "&brandShortName; ur yettwalqam ara seg sya d asawen">
 <!ENTITY eol_notification_summary "Senned akken ad tissined ugar">
+
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
-
 <!ENTITY whatsnew_notification_title "&brandShortName; ittwaleqqem">
 <!ENTITY whatsnew_notification_summary "Wali amaynut ɣef lqem-agi">
 
@@ -837,17 +832,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY activity_stream_topsites "Ismal yettwarzan aṭas">
 <!ENTITY activity_stream_highlights "Asebrureq">
+
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-
 <!ENTITY activity_stream_highlight_label_bookmarked "Yettwacreḍ">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Yettwarza">
+
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-
 <!ENTITY activity_stream_dismiss "Aggwi">
 <!ENTITY activity_stream_delete_history "Kkes seg umazray">
 
