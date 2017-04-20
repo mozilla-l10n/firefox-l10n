@@ -85,8 +85,8 @@
 
 <!ENTITY updateApplication.label         "Обновявания на &brandShortName;">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
-<!ENTITY updateAuto2.label               "Автоматично да инсталира на обновяванията (препоръчано: подобрява защитата)">
-<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateAuto2.label               "Автоматично да инсталира обновяванията (препоръчано: подобрява защитата)">
+<!ENTITY updateAuto2.accesskey           "а">
 <!ENTITY updateCheckChoose2.label        "Да прави проверка за обновяванията, на да дава избор дали да бъдат инсталирани">
 <!ENTITY updateCheckChoose2.accesskey    "п">
 <!ENTITY updateManual2.label             "Никога да не прави проверка за обновявания (непрепоръчително)">
