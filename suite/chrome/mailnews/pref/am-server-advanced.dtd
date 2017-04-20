@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "u">
 <!ENTITY maximumConnectionsNumber.label "Maximala antalet serveranslutningar till cachen">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY forceSelect.label "Skicka IMAP select till servern vid sökning efter ny e-post">
+<!ENTITY forceSelect.tooltip "Vissa servrar behöver en extra IMAP select för att ny e-post ska tas emot på ett tillförlitligt sätt, eller visas som läst när det har lästs på en annan enhet. Det här alternativet kommer att orsaka viss ökad nätverkstrafik.">
+<!ENTITY forceSelect.accesskey "S">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Dessa inställningar anger namnrymderna på IMAP-servern">
 <!ENTITY personalNamespace.label "Privat:">
