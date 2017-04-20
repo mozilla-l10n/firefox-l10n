@@ -27,7 +27,7 @@
 <!ENTITY convertEmoticons.accesskey    "З">
 
 <!-- labels -->
-<!ENTITY displayTagsText.label     "Етикетите могат да се използват за подреждане и оценяване на вашите писма.">
+<!ENTITY displayTagsText.label     "Етикетите могат да бъдат използвани за подреждане и оценяване на вашите писма.">
 <!ENTITY newTagButton.label        "Добавяне…">
 <!ENTITY newTagButton.accesskey    "Д">
 <!ENTITY editTagButton1.label      "Редактиране…">
