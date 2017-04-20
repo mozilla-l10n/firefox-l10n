@@ -901,9 +901,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "详细了解数字版权管理（DRM）…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "更新您的 &brandShorterName; 以享受最快的速度和安全保障。">
-<!ENTITY updateAvailable.whatsnew.label "了解有什么新功能。">
-<!ENTITY updateAvailable.header.message "有新版 &brandShorterName; 更新可用。">
+<!ENTITY updateAvailable.message "更新您的 &brandShorterName;，享受最新的速度性能与隐私权保障。">
+<!ENTITY updateAvailable.whatsnew.label "看看有什么新功能。">
+<!ENTITY updateAvailable.header.message "已发布新版 &brandShorterName;。">
 <!ENTITY updateAvailable.acceptButton.label "下载更新">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "暂时不要">

@@ -204,7 +204,7 @@
 <!ENTITY addon.updateNow.label                "立即更新">
 <!ENTITY addon.updateNow.tooltip              "安装该附加组件的更新">
 <!ENTITY addon.includeUpdate.label            "包括在此次更新中">
-<!ENTITY addon.updateAvailable.label          "已有可用更新">
+<!ENTITY addon.updateAvailable.label          "有可用更新">
 <!ENTITY addon.checkingForUpdates.label       "正在检查更新…">
 <!ENTITY addon.releaseNotes.label             "发行说明：">
 <!ENTITY addon.loadingReleaseNotes.label      "载入中…">
