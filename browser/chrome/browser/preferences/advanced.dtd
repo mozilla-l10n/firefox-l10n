@@ -90,6 +90,7 @@
 <!ENTITY useService.accesskey            "U">
 
 
+<!ENTITY reports.label                   "Reportes">
 
 <!ENTITY offlineStorageNotify.label               "Avisarte cuando un sitio solicite almacenar datos para uso sin conexión">
 <!ENTITY offlineStorageNotify.accesskey           "T">
