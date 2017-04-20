@@ -898,5 +898,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Сазнајте више о DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "С">
 
+<!ENTITY updateAvailable.message "Ажурирајте ваш &brandShorterName; за нове могућности.">
+<!ENTITY updateAvailable.whatsnew.label "Погледајте шта је ново.">
+<!ENTITY updateAvailable.header.message "Ажурирање &brandShorterName;-а је доступно.">
+<!ENTITY updateAvailable.acceptButton.label "Преузми надоградње">
+<!ENTITY updateAvailable.cancelButton.label "Не сада">
+<!ENTITY updateAvailable.panelUI.label "Ажурирајте &brandShorterName;">
 
+<!ENTITY updateManual.message "Преузмите &brandShorterName; и ми ћемо вам помоћи да га инсталирате.">
+<!ENTITY updateManual.whatsnew.label "Погледајте шта је ново.">
+<!ENTITY updateManual.header.message "&brandShorterName; се не може ажурирати на последњу верзију.">
+<!ENTITY updateManual.acceptButton.label "Преузми &brandShorterName;">
+<!ENTITY updateManual.cancelButton.label "Не сада">
+<!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
+<!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
+<!ENTITY updateRestart.header.message "Рестартујте &brandShorterName; да примени надоградњу.">

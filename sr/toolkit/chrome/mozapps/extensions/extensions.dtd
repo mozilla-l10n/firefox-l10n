@@ -207,7 +207,7 @@
 <!ENTITY addon.updateNow.label                "Ажурирај">
 <!ENTITY addon.updateNow.tooltip              "Инсталирај ажурирање за овај додатак">
 <!ENTITY addon.includeUpdate.label            "Укључи у ажурирање">
-<!ENTITY addon.updateAvailable.label          "Доступна је исправка">
+<!ENTITY addon.updateAvailable.label          "Ажурирање је доступно">
 <!ENTITY addon.checkingForUpdates.label       "Провера надоградњи…">
 <!ENTITY addon.releaseNotes.label             "Напомене о издању:">
 <!ENTITY addon.loadingReleaseNotes.label      "Учитавање…">
