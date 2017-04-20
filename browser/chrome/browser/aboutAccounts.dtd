@@ -9,6 +9,6 @@
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Preferencias de Sync">
 <!ENTITY aboutAccounts.noConnection.title "No hay conexión">
 <!ENTITY aboutAccounts.noConnection.description "Necesitas estar conectado a Internet para iniciar sesión.">
-<!ENTITY aboutAccounts.noConnection.retry "Intenta de nuevo">
+<!ENTITY aboutAccounts.noConnection.retry "Intentar de nuevo">
 <!ENTITY aboutAccounts.badConfig.title "Configuración incorrecta">
 <!ENTITY aboutAccounts.badConfig.description "No se puede determinar la configuración del servidor de tu cuenta de Firefox. Por favor, intenta de nuevo después.">
