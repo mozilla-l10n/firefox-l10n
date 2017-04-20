@@ -587,7 +587,7 @@
 <!ENTITY notJunkButton.tooltip "Отбелязване на избраните писма като желани">
 <!ENTITY addressBookButton.tooltip "Отваряне на адресника">
 <!ENTITY chatButton.tooltip "Показване на раздела за разговори">
-<!ENTITY tagButton.tooltip "Писма с етикет">
+<!ENTITY tagButton.tooltip "Поставяне на етикети">
 <!ENTITY compactButton.tooltip "Премахване на изтритите писма от избраната папка">
 <!ENTITY appmenuButton1.tooltip "Показване менюто на &brandShortName;">
 
