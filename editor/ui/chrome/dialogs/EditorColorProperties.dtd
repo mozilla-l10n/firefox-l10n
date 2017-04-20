@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Image de fond :">
 <!ENTITY backgroundImage.accessKey "I">
 <!ENTITY backgroundImage.tooltip "Utiliser une image comme fond de votre page">
+<!ENTITY backgroundImage.shortenedDataURI "Données URI raccourcies (copier placera l’URI complet dans le presse-papiers)">
