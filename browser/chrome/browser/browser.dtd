@@ -373,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Nastavenia synchronizácie">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prihlásením sa zobrazíte zoznam kariet z vašich ostatných zariadení.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prihlásiť sa k službe Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Spravovať zariadenia…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Zobraziť synchronizované karty na bočnom paneli">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridať na panel nástrojov">
@@ -898,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Aktualizujte si svoj &brandShorterName; a získajte najnovšie vylepšenia rýchlosti a súkromia.">
 <!ENTITY updateAvailable.whatsnew.label "Pozrite sa, čo je nové.">
 <!ENTITY updateAvailable.header.message "K dispozícii je nová aktualizácia prehliadača &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Prevziať aktualizáciu">
