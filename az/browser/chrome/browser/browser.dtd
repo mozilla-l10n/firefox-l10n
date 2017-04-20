@@ -896,5 +896,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqqında ətraflı öyrən…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.acceptButton.label "Yeniləməni Endir">
+<!ENTITY updateAvailable.cancelButton.label "Başqa Vaxt">
 
+<!ENTITY updateManual.cancelButton.label "Başqa Vaxt">
 
