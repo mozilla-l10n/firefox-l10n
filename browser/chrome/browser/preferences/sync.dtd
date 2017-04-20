@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Názov zariadenia">
+<!ENTITY changeSyncDeviceName1.label "Zmeniť názov zariadenia">
+<!ENTITY changeSyncDeviceName1.accesskey "r">
 <!ENTITY cancelChangeSyncDeviceName.label "Zrušiť">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "r">
 <!ENTITY saveChangeSyncDeviceName.label "Uložiť">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Zmeniť obrázok profilu">
 <!ENTITY verifiedManage.label        "Spravovať účet">
 <!ENTITY verifiedManage.accesskey    "p">
+<!ENTITY disconnect2.label           "Odpojiť">
+<!ENTITY disconnect2.accesskey       "d">
 <!ENTITY verify.label                "Overiť e-mailovú adresu">
 <!ENTITY verify.accesskey            "a">
 <!ENTITY forget.label                "Zabudnúť na túto e-mailovú adresu">
@@ -63,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Prihlásiť sa">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
+<!ENTITY signedIn.settings.label       "Nastavenia synchronizácie">
+<!ENTITY signedIn.settings.description "Vyberte, čo má aplikácia &brandShortName; na vašich zariadeniach synchronizovať.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
