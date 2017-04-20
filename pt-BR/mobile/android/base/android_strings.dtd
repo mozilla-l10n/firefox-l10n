@@ -366,6 +366,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Usar o tamanho da fonte do sistema">
+<!ENTITY pref_use_system_font_size_summary "Escala conteúdo web de acordo com o tamanho da fonte do sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlar a reprodução de vídeos e outras mídias automaticamente">
