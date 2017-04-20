@@ -4,7 +4,7 @@
 
 <!ENTITY startup.label             "啟動">
 
-<!ENTITY startupPage2.label        "brandShortName; 啟動時">
+<!ENTITY startupPage2.label        "當 &brandShortName; 啟動時">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "顯示您的首頁">
 <!ENTITY startupBlankPage.label    "顯示空白頁">
