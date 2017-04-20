@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Başlangıç">
 
+<!ENTITY startupPage2.label        "&brandShortName; açıldığında">
+<!ENTITY startupPage2.accesskey    "a">
 <!ENTITY startupUserHomePage.label "Giriş sayfamı göster">
 <!ENTITY startupBlankPage.label    "Boş bir sayfa göster">
 <!ENTITY startupPrevSession.label  "Son oturumdaki pencereleri ve sekmeleri göster">
 
+<!ENTITY homepage2.label           "Giriş sayfası">
+<!ENTITY homepage2.accesskey       "G">
 <!ENTITY useCurrentPage.label      "Geçerli sayfayı kullan">
 <!ENTITY useCurrentPage.accesskey  "s">
 <!ENTITY useMultiple.label         "Geçerli sayfaları kullan">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; ve Firefox’un aynı anda çalışmasına izin ver">
 <!ENTITY useFirefoxSync.label             "İpucu: Bu ayarda farklı profiller kullanılır. Tarayıcılar arasında veri paylaşmak için Sync’i kullanın.">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;’e giriş yap…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; tercihlerini aç">
 
 <!ENTITY e10sEnabled.label                "Çok işlemli &brandShortName; tarayıcısını etkinleştir">

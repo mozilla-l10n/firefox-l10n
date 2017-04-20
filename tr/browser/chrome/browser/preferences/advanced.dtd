@@ -84,12 +84,23 @@
 <!ENTITY updateTab.label                 "Güncelleme">
 
 <!ENTITY updateApplication.label         "&brandShortName; güncellemeleri">
+<!ENTITY updateAuto2.label               "Güncellemeleri otomatik olarak yükle (Güvenliğiniz için önerilir)">
+<!ENTITY updateAuto2.accesskey           "G">
+<!ENTITY updateCheckChoose2.label        "Güncellemeleri denetle ama yükleme kararını bana bırak">
+<!ENTITY updateCheckChoose2.accesskey    "d">
+<!ENTITY updateManual2.label             "Güncelleştirmeleri hiçbir zaman denetleme (önerilmez)">
+<!ENTITY updateManual2.accesskey         "n">
 
+<!ENTITY updateHistory2.label            "Güncelleme geçmişini göster…">
+<!ENTITY updateHistory2.accesskey        "c">
 
 <!ENTITY useService.label                "Güncellemeleri yüklemek için arka plan hizmetini kullan">
 <!ENTITY useService.accesskey            "h">
 
+<!ENTITY enableSearchUpdate2.label       "Arama motorlarını otomatik olarak güncelle">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Raporlar">
 
 <!ENTITY offlineStorageNotify.label               "Bir site çevrimdışı kullanım için veri depolamak istediğinde bana bildir">
 <!ENTITY offlineStorageNotify.accesskey           "v">
@@ -103,6 +114,7 @@
 <!ENTITY offlineAppRemove.confirm        "Çevrimdışı verileri sil">
 
 <!ENTITY certificateTab.label            "Sertifikalar">
+<!ENTITY certPersonal2.description       "Bir sunucu kişisel sertifikamı istediğinde">
 <!ENTITY selectCerts.auto                "Birini kendiliğinden seç">
 <!ENTITY selectCerts.auto.accesskey      "B">
 <!ENTITY selectCerts.ask                 "Her seferinde bana sor">
