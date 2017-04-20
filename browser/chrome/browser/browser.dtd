@@ -781,6 +781,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Otvoriť všetko na kartách">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Spravovať zariadenia…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "i">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +898,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ďalšie informácie o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Pozrite sa, čo je nové.">
+<!ENTITY updateAvailable.header.message "K dispozícii je nová aktualizácia prehliadača &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Prevziať aktualizáciu">
+<!ENTITY updateAvailable.acceptButton.accesskey "P">
+<!ENTITY updateAvailable.cancelButton.label "Teraz nie">
+<!ENTITY updateAvailable.cancelButton.accesskey "n">
+<!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu &brandShorterName;u">
 
+<!ENTITY updateManual.whatsnew.label "Pozrite sa, čo je nové.">
+<!ENTITY updateManual.acceptButton.label "Prevziať &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "P">
+<!ENTITY updateManual.cancelButton.label "Teraz nie">
+<!ENTITY updateManual.cancelButton.accesskey "n">
 
+<!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Teraz nie">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
