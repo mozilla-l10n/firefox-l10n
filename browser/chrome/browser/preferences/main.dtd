@@ -8,6 +8,7 @@
 <!ENTITY startupBlankPage.label    "Boş səhifəni göstər">
 <!ENTITY startupPrevSession.label  "Son seansdan olan pəncərə və vərəqləri göstər">
 
+<!ENTITY homepage2.label           "Ana Səhifə">
 <!ENTITY useCurrentPage.label      "Hazırki səhifədən istifadə et">
 <!ENTITY useCurrentPage.accesskey  "H">
 <!ENTITY useMultiple.label         "Hazırki səhifələri istifadə et">
