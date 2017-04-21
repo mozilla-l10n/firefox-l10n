@@ -21,7 +21,7 @@
 <!ENTITY firstrun_button_notnow "Yenta, na lit luy nal">
 <!ENTITY firstrun_button_next "Te ner ra">
 
-<!ENTITY firstrun_tabqueue_title "Yes dó">
+<!ENTITY firstrun_tabqueue_title "Nét (n̆eza)">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Bla kí Loo queue">
 <!ENTITY firstrun_tabqueue_subtext_off "mb-lòɁ sóg dó lent &brandShortName; xé xhal ló apps.">
@@ -74,7 +74,7 @@
 <!ENTITY bookmark_already_added "Dob lá ndó~làz=ná">
 <!ENTITY bookmark_removed "Kíb ndó~làz=ná ">
 <!ENTITY bookmark_updated "Gok kúb ndó~làz=ná">
-<!ENTITY bookmark_options "Kuan xho">
+<!ENTITY bookmark_options "B-šèn">
 <!ENTITY screenshot_added_to_bookmarks "M-tòb kue lent ko ndó~làz=ná">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -108,12 +108,12 @@
 <!ENTITY edit_mode_cancel "B-láɁ=y">
 
 <!ENTITY close_tab "TòɁw kue">
-<!ENTITY one_tab "1 lô">
+<!ENTITY one_tab "1 lô (lawo)">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
-<!ENTITY num_tabs2 "&formatD; ré lô">
-<!ENTITY new_tab_opened "mb-šàlɁ loo kub">
-<!ENTITY new_private_tab_opened "Mb-šàlɁ loo kub ko nat na nie">
+<!ENTITY num_tabs2 "&formatD; lô (lawo)">
+<!ENTITY new_tab_opened "mb-šàlɁ=ná lô (lawo) kúb">
+<!ENTITY new_private_tab_opened "Mb-šàlɁ lô (lawo) kúb">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -130,7 +130,7 @@
 <!ENTITY settings "Thus kuey">
 <!ENTITY settings_title "Thus kuey">
 <!ENTITY pref_category_general "Ree ta koo taak niel">
-<!ENTITY pref_category_general_summary3 "Gú, dizh, güi ke">
+<!ENTITY pref_category_general_summary3 "Gú, dizh, lô (lawo)">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -156,7 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Dob lá ndó~làz=ná">
 <!ENTITY overlay_share_send_other "M-tàl=là loo tà thîb yíb">
 
-<!ENTITY overlay_share_open_browser_btn_label "B-šàlɁ lént &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "B-šàlɁ lénɁ &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Toob kiy">
 <!ENTITY pref_home_updates_wifi "mä Wi-Fi">
 <!ENTITY pref_category_home_homepage "Loo mtete">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Tob loo">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,11 @@
 
 <!ENTITY pref_custom_tabs "Tùs kùe lô">
 <!ENTITY pref_custom_tabs_summary3 "Lá apps sá mb-šàlɁ lá tùs kùe version ná &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Mb-šàlɁ=lá lenɁ &formatS;">
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -293,7 +300,7 @@
 <!ENTITY tracking_protection_prompt_action_button "¡Ge nul ni!">
 
 <!ENTITY tab_queue_toast_message3 "Mblo xhog na &brandShortName;">
-<!ENTITY tab_queue_toast_action "Mb-šàlɁ nál">
+<!ENTITY tab_queue_toast_action "Mb-šàlɁ=lá nál">
 <!ENTITY tab_queue_prompt_title "¿Mb-šàlɁ plo loo kub?">
 <!ENTITY tab_queue_prompt_text4 "mb-lòɁ sóg gá nerta &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Tak xél kue lent thus kue">
@@ -350,26 +357,12 @@
 <!ENTITY pref_plugins_enabled "Toob kiy">
 <!ENTITY pref_plugins_tap_to_play2 "Gás xá gon ná">
 <!ENTITY pref_plugins_disabled "Tog gá">
-<!ENTITY pref_text_size "Xha niey">
-<!ENTITY pref_restore_tabs "Loo reeta loo gib">
+<!ENTITY pref_restore_tabs "Bí~rè tób lô (lawo)">
 <!ENTITY pref_restore_always "Na tog luy">
 <!ENTITY pref_restore_quit "Na lit lu kub lu &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tir lut">
-<!ENTITY pref_font_size_small "Lut">
-<!ENTITY pref_font_size_medium "Rol">
-<!ENTITY pref_font_size_large "Narú">
-<!ENTITY pref_font_size_xlarge "Plo narú">
-<!ENTITY pref_font_size_set "Thus kuey">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Bet nané tir nagüe die. Ná last no mí, reta kue nk loo gó. De thus kue no ko kub ner reta men. Besta died gó let Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Tob kí lénta">
 <!ENTITY pref_media_autoplay_enabled_summary "Tak tob lú kí re onn güin ner ko xhon lú">
@@ -382,14 +375,14 @@ size. -->
 
 <!ENTITY pref_use_master_password "Lí che dizh gósh">
 <!ENTITY pref_sync2 "-taɁ lélù lèɁn">
-<!ENTITY pref_sync_summary2 "Lí Sync lent loo, ndó~làz=ná, pa dúl ner lô góš">
+<!ENTITY pref_sync_summary2 "Lí Sync lent lô (lawo), ndó~làz=ná, pa dúl ner lô góš">
 <!ENTITY pref_search_suggestions "Ló kun de kun ná">
 <!ENTITY pref_history_search_suggestions "KwàɁn lô góš">
 <!ENTITY pref_import_options "Ko li che xha tak yul">
 <!ENTITY pref_import_android_summary "De nú lô góš ner ko do lash lu">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Mb-šàlɁ lô">
+<!ENTITY pref_private_data_openTabs "Mb-šàlɁ lô (lawo)">
 <!ENTITY pref_private_data_history2 "KwàɁn lô góš">
 <!ENTITY pref_private_data_searchHistory "KwàɁn lô góš">
 <!ENTITY pref_private_data_formdata2 "Kó diéd lô góš">
@@ -399,7 +392,7 @@ size. -->
 <!ENTITY pref_private_data_offlineApps "Yent Internet">
 <!ENTITY pref_private_data_siteSettings2 "Thus kue">
 <!ENTITY pref_private_data_downloadFiles2 "Ko blaál">
-<!ENTITY pref_private_data_syncedTabs "Sync loo">
+<!ENTITY pref_private_data_syncedTabs "Sync lô (lawo)">
 
 <!ENTITY pref_default_browser "Lá kue">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Wí Mozilla">
@@ -468,15 +461,15 @@ size. -->
 <!ENTITY share_image_failed "Gadt lin kue">
 <!ENTITY save_as_pdf "mb-lòɁ sóg lenɁ PDF">
 <!ENTITY print "Keéy lo yehes">
-<!ENTITY find_in_page "Kuan yets loo">
-<!ENTITY desktop_mode "Níab loo mtete">
+<!ENTITY find_in_page "KwàɁn thíb yêts">
+<!ENTITY desktop_mode "Náb mtób xán">
 <!ENTITY page "Loo">
-<!ENTITY tools "Koo lii chel">
-<!ENTITY new_tab "Mb-šàlɁ lô">
-<!ENTITY new_private_tab "Mb-šàlɁ lô kúb">
-<!ENTITY close_all_tabs "TòɁw ré tá">
-<!ENTITY close_private_tabs "TòɁw lô">
-<!ENTITY tabs_normal "Lô">
+<!ENTITY tools "Yíb">
+<!ENTITY new_tab "Mb-šàlɁ lô (lawo)">
+<!ENTITY new_private_tab "Mb-šàlɁ lô (lawo) kúb">
+<!ENTITY close_all_tabs "TòɁw ré tá lô (lawo)">
+<!ENTITY close_private_tabs "TòɁw lô (lawo)">
+<!ENTITY tabs_normal "Lô (lawo)">
 <!ENTITY tabs_private "Yent cho güi">
 <!ENTITY set_image_fail "Gadt toob moon">
 <!ENTITY set_image_path_fail "Gadt ko sóg mún">
@@ -484,7 +477,7 @@ size. -->
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY find_text "Kuan yets loo">
+<!ENTITY find_text "KwàɁn thíb yêts">
 <!ENTITY find_prev "Veré">
 <!ENTITY find_next "Te ner ra">
 <!ENTITY find_close "TòɁw">
@@ -496,10 +489,11 @@ size. -->
 <!ENTITY media_pause "Bleet ah">
 <!ENTITY media_stop "Ngót~tòɁ=b">
 
-<!ENTITY contextmenu_open_new_tab "Mb-šàlɁ lô kúb">
-<!ENTITY contextmenu_open_private_tab "Mb-šàlɁ lô kúb">
+<!ENTITY contextmenu_open_new_tab "Mb-šàlɁ lô (lawo) kúb">
+<!ENTITY contextmenu_open_private_tab "Mb-šàlɁ lô (lawo) kúb">
 <!ENTITY contextmenu_remove "Kib">
 <!ENTITY contextmenu_add_to_launcher "Tob kue loo mtete">
+
 <!ENTITY contextmenu_share "Tă~làz">
 <!ENTITY contextmenu_pasteandgo "Mkey ner mtal l">
 <!ENTITY contextmenu_paste "Mkey">
@@ -535,12 +529,12 @@ size. -->
 <!ENTITY pref_scroll_title_bar2 "Loy loo narú">
 <!ENTITY pref_scroll_title_bar_summary2 "Loo xhog yib ná &brandShortName; this dál láa">
 
-<!ENTITY pref_tab_queue_title3 "Lô de-bet">
+<!ENTITY pref_tab_queue_title3 "Lô (lawo) de-bet">
 <!ENTITY pref_tab_queue_summary4 "mb-lòɁ sóg dó lenɁ &brandShortName;">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
-<!ENTITY pref_compact_tabs "Lí lút lô">
+<!ENTITY pref_compact_tabs "Lí lút lô (lawo)">
 <!ENTITY pref_compact_tabs_summary2 "m-b-èɁ róp mból">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -573,7 +567,7 @@ size. -->
 <!ENTITY button_yes "ăɁ">
 <!ENTITY button_no "Yenta">
 <!ENTITY button_clear_data "Te dont reey">
-<!ENTITY button_set "Thus kue">
+
 <!ENTITY button_clear "Tó bíy">
 <!ENTITY button_copy "Li chopa">
 
@@ -597,9 +591,9 @@ size. -->
 <!ENTITY home_closed_tabs_title2 "Wì ko tòɁw lú penta">
 <!ENTITY home_last_tabs_empty "Ko penta güil loo tree.">
 <!ENTITY home_restore_all "Bí~rè re tá">
-<!ENTITY home_closed_tabs_number "&formatD; ré lô">
+<!ENTITY home_closed_tabs_number "&formatD; ré lô (lawo)">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
-<!ENTITY home_closed_tabs_one "1 lô">
+<!ENTITY home_closed_tabs_one "1 lô (lawo)">
 <!ENTITY home_most_recent_empty "Ko güil plo loo tree.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -823,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; deyak kub">
-<!ENTITY whatsnew_notification_summary "Kuan ko kub">
+<!ENTITY whatsnew_notification_summary "KwàɁn kó kúb">
 
 <!ENTITY promotion_add_to_homescreen "M-tòb lo ko mtete">
 
