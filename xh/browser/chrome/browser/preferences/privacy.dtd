@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Sebenzisa Ukhuseleko Lokutreka">
+
 <!ENTITY  trackingProtectionAlways.label       "Qho">
 <!ENTITY  trackingProtectionAlways.accesskey   "o">
 <!ENTITY  trackingProtectionPrivate.label      "Kuphela kwiiwindow zabucala">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
 
-<!ENTITY  locbar.suggest.label          "Cebisa xa usebenzisa ibha yendawo:">
 <!ENTITY  locbar.history.label          "Imbali">
 <!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Ukukhangela okufana noku ukusuka kwinjini yokukhangela esisiseko">
 <!ENTITY  locbar.searches.accesskey     "a">
 
-<!ENTITY  suggestionSettings.label      "Tshintsha iipreferensi zamacebiso enjini yokukhangela…">
-<!ENTITY  suggestionSettings.accesskey  "n">
 
 <!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwiisayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Bonisa iiKhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
-<!ENTITY  historyHeader.pre.label          "I-&brandShortName; iya:">
-<!ENTITY  historyHeader.pre.accesskey      "i">
+
 <!ENTITY  historyHeader.remember.label     "Khumbula imbali">
 <!ENTITY  historyHeader.dontremember.label "Ungaze ukhumbule imbali">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa iisethingi zesiqhelo kwimbali">

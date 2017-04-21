@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Qalisa">
 
-<!ENTITY startupPage.label         "Xa i-&brandShortName; iqalisa:">
-<!ENTITY startupPage.accesskey     "i">
+
 <!ENTITY startupUserHomePage.label "Bonisa iphepha lakho lokuqala">
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elingenanto">
 <!ENTITY startupPrevSession.label  "Bonisa iifestile neethebhu zakho ukususela ukugqibela kwam">
 
-<!ENTITY homepage.label            "Phepha lokuQala:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "Sebenzisa iPhepha laNgoku">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sebenzisa amaPhepha aNgoku">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Vumela i-&brandShortName; kunye ne-Firefox ukuba zisebenze ngaxeshanye">
 <!ENTITY useFirefoxSync.label             "Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.">
-<!ENTITY getStarted.label                 "Qalisa ukusebenzisa uNgqamaniso…">
+
+
 
 <!ENTITY e10sEnabled.label                "Vumela inkqubo eninzi i-&brandShortName;">
