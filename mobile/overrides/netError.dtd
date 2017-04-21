@@ -62,7 +62,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج أن تثبّت برنامجًا آخر لفتح هذا الموقع.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "الخادوم الوسيط يرفض الاتصالات">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>تحقق من إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تواصل مع مدير شبكتك لتتأكد أن الخادوم الوسيط يعمل. </li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>تحقق من إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تواصل مع مدير شبكتك لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
@@ -70,16 +70,16 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>تحقق من أن إعدادات الوسيط صحيحة.</li> <li>تأكد بأن جهازك متصل بشكل سليم بشبكة بيانات أو شبكة لاسلكية. <button id='wifi'>فعّل الواي فاي</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
-<!ENTITY redirectLoop.longDesc "<ul> <li>سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها. </li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "إجابة غير متوقعة من الخادوم">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>تأكّد أنّ مدير الأمن الشخصي مثبّت في نظامك. </li> <li>قد يكون سبب هذا هو إعداد مخالف للمعايير في الخادوم.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>تأكّد أنّ مدير الأمن الشخصي مثبّت في نظامك.</li> <li>قد يكون سبب هذا هو إعداد مخالف للمعايير في الخادوم.</li> </ul>">
 
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY nssBadCert.title "فشل الاتصال الآمن">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>قد يكون هذا بسبب مشكلة في إعدادات الخادوم، أو أنّ أحدًا يحاول انتحال هوية الخادوم</li> <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي،  قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>قد يكون هذا بسبب مشكلة في إعدادات الخادوم، أو أنّ أحدًا يحاول انتحال هوية الخادوم</li> <li>إن كنت قد اتصلتَ بهذا الموقع بنجاح في الماضي، قد يكون هذا الخطأ مؤقتًا، لذا أعِد المحاولة في وقت لاحق.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
