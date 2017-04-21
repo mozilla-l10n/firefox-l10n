@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Fuents y Colors">
 
-<!ENTITY  defaultFont.label           "Tipografía por defecto:">
-<!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Mida:">
-<!ENTITY  defaultSize.accesskey       "M">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Abanzadas…">
 <!ENTITY  advancedFonts.accesskey     "A">

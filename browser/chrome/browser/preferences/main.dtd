@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Inicio">
 
-<!ENTITY startupPage.label         "Quan s'enchegue o &brandShortName;:">
-<!ENTITY startupPage.accesskey     "e">
+
 
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
 
 
-<!ENTITY homepage.label            "Pachina d'inicio:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "Usar pachina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar pachinas actuals">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Firefox corran de vez">
 <!ENTITY useFirefoxSync.label             "Consello: Isto fa servir perfils deseparaus. Faiga servir Sync pa compartir datos entre ells.">
-<!ENTITY getStarted.label                 "Empecipiar a usar Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "Activar &brandShortName;  multiproceso">

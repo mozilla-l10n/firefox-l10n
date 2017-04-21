@@ -81,21 +81,21 @@
 
 <!ENTITY updateTab.label                 "Esviellar">
 
-<!ENTITY updateAuto1.label               "Instalar as actualizacions automaticament (ye a opción recomendada, por seguranza)">
-<!ENTITY updateAuto1.accesskey           "a">
 
 
-<!ENTITY updateManual.label              "No comprebar nunca si i hai actualizacions (no se recomienda por os risgos de seguranza que comporta)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Amostrar l'historial d'actualizacions">
-<!ENTITY updateHistory.accesskey         "h">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Instalar as actualizacions en un segundo plan">
 <!ENTITY useService.accesskey            "p">
 
-<!ENTITY enableSearchUpdate.label        "Motors de busca">
-<!ENTITY enableSearchUpdate.accesskey    "M">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
@@ -108,7 +108,6 @@
 <!ENTITY offlineAppRemove.confirm        "Eliminar os datos d'uso en modo sin connexión">
 
 <!ENTITY certificateTab.label            "Certificaus">
-<!ENTITY certPersonal.label              "Demandas">
 
 <!ENTITY selectCerts.auto                "Trigar-ne un automaticament">
 
