@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "浏览…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "载入PKCS#11设备">
