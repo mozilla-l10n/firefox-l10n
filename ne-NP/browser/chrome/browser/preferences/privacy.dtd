@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ट्रयाकिङ् सुरक्षाको प्रयोग गर्नुहोस्">
+
 <!ENTITY  trackingProtectionAlways.label       "सधैँ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "निजी सञ्झ्यालमा मात्र खोल्नुहोस्">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "स्थानपट्टी ">
 
-<!ENTITY  locbar.suggest.label          "स्थानपट्टी प्रयोग गर्दा सुझाव देखाउनुहोस्">
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "पुस्तकचिनोहरू">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "पूर्व निर्धारित खोज इन्जिनद्वारा भेटिएका सम्बन्धित खोजहरू">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "खोज इन्जिन सुझावहरूका लागि प्राथमिकताहरू परिवर्तन गर्नुहोस्…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "साइटहरूबाट कुकी स्वीकार गर्नुहुोस्">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "कुकीहरू देखाउनुहोस्...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ले:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "इतिहास सम्झिनुहोस्">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कहिल्यै नसम्झिनुहोस्">
 <!ENTITY  historyHeader.custom.label       "इतिहासको लागि परिस्कृत ढाँचाहरू प्रयोग गर्नुहोस्">

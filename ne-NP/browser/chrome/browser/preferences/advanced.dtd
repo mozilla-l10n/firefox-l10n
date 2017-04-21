@@ -81,21 +81,21 @@
 
 <!ENTITY updateTab.label                 "अद्यावधिक">
 
-<!ENTITY updateAuto1.label               "अद्यावधिहरू स्वतः इन्स्टल गर्नुहोस् (सिफारिस गरिन्छ: उन्नत सुरक्षाको लागि)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "अद्यावधिहरूको लागि कहिल्यै जाँच नगर्ने (सिफारिस गरिँदैन: सुरक्षा जोखिम)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "अद्यावधिक इतिहास देखाउनुहोस्">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "अपडेटहरू स्थापना गर्नका लागि पृष्ठभूमि सेवाको प्रयोग गर्नुहोस्">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "खोज इन्जिनहरू">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवादहरू....">
@@ -108,7 +108,6 @@
 <!ENTITY offlineAppRemove.confirm        "अफलाइन तथ्याङ्क हटाउनुहोस्">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रहरू">
-<!ENTITY certPersonal.label              "अनुरोधहरू">
 
 <!ENTITY selectCerts.auto                "स्वचालित रूपमा एउटा छान्नुहोस्">
 

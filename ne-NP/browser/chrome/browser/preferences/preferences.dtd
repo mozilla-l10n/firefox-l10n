@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "सामान्य">
-<!ENTITY  paneTabs.title          "ट्याबहरू">
-<!ENTITY  paneSearch.title        "खोज">
-<!ENTITY  paneContent.title       "सामग्री">
-<!ENTITY  paneApplications.title  "अनुप्रयोगहरू">
-<!ENTITY  panePrivacy.title       "गोपनीयता">
-<!ENTITY  paneContainers.title    "कन्टेनर ट्याबहरू">
-<!ENTITY  paneSecurity.title      "सुरक्षा">
-<!ENTITY  paneAdvanced.title      "अग्रसर">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "सामान्य">
 
-<!ENTITY  paneSync.title          "सिङ्क">
 
-<!ENTITY  helpButton.label        "मद्दत">
+<!ENTITY  paneContainers.title          "कन्टेनर ट्याबहरू">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "खोज">

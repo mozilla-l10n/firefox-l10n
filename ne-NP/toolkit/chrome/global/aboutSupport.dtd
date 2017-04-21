@@ -21,6 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "संस्करण">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
+
+
+
 <!ENTITY aboutSupport.experimentsTitle "प्रयोगात्मक विशेषताहरू">
 <!ENTITY aboutSupport.experimentName "नाम">
 <!ENTITY aboutSupport.experimentId "ID">
