@@ -106,7 +106,7 @@
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceções…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
-<!ENTITY offlineAppsList2.label          "Os seguintes websites têm permissão para guardar dados para uso no modo offline:">
+<!ENTITY offlineAppsList2.label          "Os seguintes websites têm permissão para armazenar dados para uso no modo offline:">
 <!ENTITY offlineAppsList.height          "8em">
 <!ENTITY offlineAppsListRemove.label     "Remover…">
 <!ENTITY offlineAppsListRemove.accesskey "R">
