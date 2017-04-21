@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "Kreu">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Përdorim edhe për skeda të reja">
 <!ENTITY home_homepage_title "Vëre si Kreun">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Lejojuni aplikacioneve të hapin sajte duke përdorur një version të përshtatur të &brandShortName;-ut">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Hape në &formatS;">
+<!ENTITY custom_tabs_menu_footer "Bazuar në &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL-ja u kopjua">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Rrjedhë Veprimtarie">
@@ -362,6 +366,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Përdor madhësi shkronjash të sistemit">
+<!ENTITY pref_use_system_font_size_summary "Ripërmasoje lëndën web sipas madhësisë së shkronjave të sistemit">
 
 <!ENTITY pref_media_autoplay_enabled "Lejo vetëluajtje">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrollo nëse sajtet mund të vetëluajnë video dhe tjetër lëndë media">
@@ -492,6 +498,7 @@
 <!ENTITY contextmenu_open_private_tab "Hape në Skedë Private">
 <!ENTITY contextmenu_remove "Hiqe">
 <!ENTITY contextmenu_add_to_launcher "Shtoje te Skena Hyrëse">
+<!ENTITY contextmenu_set_as_homepage "Vëre si Kreun">
 <!ENTITY contextmenu_share "Ndajeni me të tjerët">
 <!ENTITY contextmenu_pasteandgo "Ngjite &amp; Shko Atje">
 <!ENTITY contextmenu_paste "Ngjite">
