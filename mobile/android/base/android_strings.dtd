@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Іске қосулы">
 <!ENTITY pref_home_updates_wifi "Тек Wi-Fi арқылы">
 <!ENTITY pref_category_home_homepage "Үй парағы">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Сонымен қатар, жаңа беттер үшін қолдану">
 <!ENTITY home_homepage_title "Үй парағын орнату">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "Таңдауыңызша беттер">
 <!ENTITY pref_custom_tabs_summary3 "Қолданбаларға &brandShortName; бапталған нұсқасымен вебсайттарды ашуға рұқсат ету">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; көмегімен ашу">
+<!ENTITY custom_tabs_menu_footer "Ұсынған &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Сілтеме көшірілді">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Белсенділік ағыны">
@@ -350,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "Іске қосулы">
 <!ENTITY pref_plugins_tap_to_play2 "Ойнату үшін шертіңіз">
 <!ENTITY pref_plugins_disabled "Сөндірілген">
-<!ENTITY pref_text_size "Мәтін өлшемі">
 <!ENTITY pref_restore_tabs "Беттерді қалпына келтіру">
 <!ENTITY pref_restore_always "Әрқашан қалпына келтіру">
 <!ENTITY pref_restore_quit "&brandShortName; жұмысын аяқтағаннан кейін қалпына келтірмеу">
-<!ENTITY pref_font_size_tiny "Шағын">
-<!ENTITY pref_font_size_small "Кішкентай">
-<!ENTITY pref_font_size_medium "Орташа">
-<!ENTITY pref_font_size_large "Үлкен">
-<!ENTITY pref_font_size_xlarge "Өте үлкен">
-<!ENTITY pref_font_size_set "Орнату">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Жылдам қызғылт түлкі өзіңіз күткен жылдамдық, икемділік және қауіпсіздік деңгейінен асып кетеді. Коммерциялы емес болған соң, біз инновациялар үшін ешбір кедергісіз ашықпыз. Бұл дегеніміз сіздің пайдасына және Интернеттің жарқын болашағы үшін арналған.">
+<!ENTITY pref_use_system_font_size "Жүйелік қаріптер өлшемін қолдану">
+<!ENTITY pref_use_system_font_size_summary "Веб құрамасын жүйелік қаріп өлшеміне сәйкес масштабтау">
 
 <!ENTITY pref_media_autoplay_enabled "Автоойнатуды рұқсат ету">
 <!ENTITY pref_media_autoplay_enabled_summary "Веб сайттар видеолар және басқа медиа құрамасын автоойнату мүмкіндігін басқару">
@@ -500,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Жекелік бетте ашу">
 <!ENTITY contextmenu_remove "Өшіру">
 <!ENTITY contextmenu_add_to_launcher "Үй экранына қосу">
+<!ENTITY contextmenu_set_as_homepage "Үй парағы ретінде орнату">
 <!ENTITY contextmenu_share "Бөлісу">
 <!ENTITY contextmenu_pasteandgo "Кірістіру және өту">
 <!ENTITY contextmenu_paste "Кірістіру">
