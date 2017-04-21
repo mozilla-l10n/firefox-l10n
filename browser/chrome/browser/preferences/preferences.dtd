@@ -20,6 +20,5 @@
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  helpButton.label        "Cymorth">
 
-<!ENTITY searchInput.label        "Chwilio">
+<!ENTITY  searchInput.label        "Chwilio">
