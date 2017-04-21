@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Ginearálta">
-
 <!ENTITY  warnOnAddonInstall.label        "Tabhair rabhadh dom nuair a dhéanann suímh Ghréasáin iarracht breiseáin a shuiteáil">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "Focail fhaire">
+<!ENTITY  formsAndPasswords.label       "Foirmeacha agus Focail Fhaire">
 
-<!ENTITY  rememberLogins.label          "Meabhraigh focail fhaire">
-<!ENTITY  rememberLogins.accesskey      "r">
+<!ENTITY  rememberLogins1.label          "Meabhraigh ainmneacha úsáideora agus focail fhaire do shuímh">
+<!ENTITY  rememberLogins1.accesskey      "M">
 <!ENTITY  passwordExceptions.label      "Eisceachtaí…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

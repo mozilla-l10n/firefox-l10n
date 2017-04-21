@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Athnuaigh gach 3 shoicind">
 <!ENTITY aboutNetworking.hostname              "Óstainm">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Gníomhach">
 <!ENTITY aboutNetworking.idle                  "Díomhaoin">

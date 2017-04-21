@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Deaschliceáil nó tarraing anuas chun an stair a thaispeáint">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarraing anuas chun an stair a thaispeáint">
 <!ENTITY reloadCmd.label              "Athluchtaigh">
-<!ENTITY reloadButton.tooltip         "Athluchtaigh an leathanach reatha">
 <!ENTITY stopCmd.label                "Stad">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Éirigh as an leathanach seo a luchtú">
 <!ENTITY goEndCap.tooltip             "Téigh go dtí an seoladh atá sa Bharra Suímh">
 <!ENTITY printButton.label            "Priontáil">
 <!ENTITY printButton.tooltip          "Priontáil an leathanach seo">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Oscail painéal teachtaireachtaí sábháil focal faire">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bainistigh úsáid na bhforlíontán">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Sábháil sonraí sa Stóras Seasmhach">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bainistigh comhroinnt do cheamara agus/nó do mhicreafón leis an suíomh">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bainistigh comhroinnt do mhicreafóin leis an suíomh">
@@ -231,13 +230,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Chuir tú cosc ar an suíomh seo an áit ina bhfuil tú a fheiceáil.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Chuir tú cosc ar stóras sonraí ar an suíomh seo.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Chuir tú cosc ar fhógraí ón suíomh seo.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Chuir tú cosc ar stóras seasmhach ar an suíomh seo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taispeáin an stair">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Athshocraigh an leibhéal súmála">
-
 <!ENTITY searchItem.title             "Cuardaigh">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Baile">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sioncronaigh Sainroghanna">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logáil isteach le hamharc ar liosta chluaisíní do ghléasanna eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logáil isteach le sioncronú">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Bainistigh Gléasanna…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Féach ar Chluaisíní Sioncronaithe i mBarra Taoibh">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir leis an mBarra Uirlisí">
@@ -786,6 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Oscail Gach Rud i gCluaisíní">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Bainistigh Gléasanna…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "G">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -900,3 +901,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Tuilleadh eolais faoi DRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.message "Nuashonraigh &brandShorterName; chun an leagan is sciobtha is sábháilte a fháil.">
+<!ENTITY updateAvailable.whatsnew.label "Gach rud nua.">
+<!ENTITY updateAvailable.header.message "Tá nuashonrú &brandShorterName; ar fáil.">
+<!ENTITY updateAvailable.acceptButton.label "Íosluchtaigh an Nuashonrú">
+<!ENTITY updateAvailable.acceptButton.accesskey "o">
+<!ENTITY updateAvailable.cancelButton.label "Níl Anois">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Íosluchtaigh an nuashonrú &brandShorterName;">
+
+<!ENTITY updateManual.message "Íosluchtaigh cóip nua de &brandShorterName; agus cabhróimid leat é a shuiteáil.">
+<!ENTITY updateManual.whatsnew.label "Gach rud nua.">
+<!ENTITY updateManual.header.message "Ní féidir le &brandShorterName; nuashonrú go dtí an leagan is déanaí.">
+<!ENTITY updateManual.acceptButton.label "Íosluchtaigh &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "o">
+<!ENTITY updateManual.cancelButton.label "Níl Anois">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Íosluchtaigh cóip nua de &brandShorterName;">
+
+<!ENTITY updateRestart.message "Tar éis duit &brandShorterName; a atosú, athosclófar na cluaisíní agus fuinneoga atá oscailte agat.">
+<!ENTITY updateRestart.header.message "Atosaigh &brandShorterName; chun an nuashonrú a chur i bhfeidhm.">
+<!ENTITY updateRestart.acceptButton.label "Atosaigh agus Athoscail">
+<!ENTITY updateRestart.acceptButton.accesskey "A">
+<!ENTITY updateRestart.cancelButton.label "Níl Anois">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Atosaigh &brandShorterName; chun an nuashonrú a chur i bhfeidhm">

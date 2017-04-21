@@ -13,17 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 56em; min-height: 48em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 52em; min-height: 45em;">
 
-<!ENTITY  paneGeneral.title       "Ginearálta">
-<!ENTITY  paneTabs.title          "Cluaisíní">
-<!ENTITY  paneSearch.title        "Cuardaigh">
-<!ENTITY  paneContent.title       "Ábhar">
-<!ENTITY  paneApplications.title  "Feidhmchláir">
-<!ENTITY  panePrivacy.title       "Príobháideachas">
-<!ENTITY  paneContainers.title    "Cluaisíní Coimeádáin">
-<!ENTITY  paneSecurity.title      "Slándáil">
-<!ENTITY  paneAdvanced.title      "Ardroghanna">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Torthaí an Chuardaigh">
+<!ENTITY  paneGeneral.title             "Ginearálta">
+<!ENTITY  paneFilesApplications.title   "Comhaid agus Feidhmchláir">
+<!ENTITY  panePrivacySecurity.title     "Príobháideachas agus Slándáil">
+<!ENTITY  paneContainers.title          "Cluaisíní Coimeádáin">
+<!ENTITY  paneUpdates.title             "Nuashonruithe">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
+<!ENTITY  paneSync1.title          "Cuntas Firefox">
 
-<!ENTITY  helpButton.label        "Cabhair">
+
+<!ENTITY  searchInput.label        "Cuardaigh">

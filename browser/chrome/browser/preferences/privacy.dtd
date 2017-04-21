@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Úsáid Cosaint ar Lorgaireacht">
+<!ENTITY  trackingProtectionHeader2.label      "Cosaint ar Lorgaireacht">
+
+
 <!ENTITY  trackingProtectionAlways.label       "I gCónaí">
 <!ENTITY  trackingProtectionAlways.accesskey   "I">
 <!ENTITY  trackingProtectionPrivate.label      "I bhfuinneog phríobháideach amháin">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Barra Suímh">
 
-<!ENTITY  locbar.suggest.label          "Agus an barra suímh in úsáid, mol:">
+<!ENTITY  locbar.suggest2.label         "Agus an barra suímh in úsáid, mol">
 <!ENTITY  locbar.history.label          "Stair">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Leabharmharcanna">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Cuardaigh ghaolmhara ón inneall cuardaigh réamhshocraithe">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Roghanna a bhaineann le moltaí cuardaigh…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings2.label     "Roghanna a bhaineann le moltaí cuardaigh">
 
 <!ENTITY  acceptCookies.label           "Glac le fianáin ó shuímh">
 <!ENTITY  acceptCookies.accesskey       "a">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Taispeáin Fianáin…">
 <!ENTITY  showCookies.accesskey         "s">
 
-<!ENTITY  historyHeader.pre.label          "Cad is mian leat &brandShortName; a dhéanamh?">
-<!ENTITY  historyHeader.pre.accesskey      "C">
+<!ENTITY  historyHeader2.pre.label         "Cad is mian leat &brandShortName; a dhéanamh?">
+<!ENTITY  historyHeader2.pre.accesskey     "C">
 <!ENTITY  historyHeader.remember.label     "Meabhraigh an stair">
 <!ENTITY  historyHeader.dontremember.label "Ná meabhraigh an stair riamh">
 <!ENTITY  historyHeader.custom.label       "Úsáid socruithe saincheaptha don stair">
