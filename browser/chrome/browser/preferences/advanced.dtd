@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "تحديث">
 
 <!ENTITY updateApplication.label         "تحديثات &brandShortName;">
-<!ENTITY updateAuto1.label               "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
-<!ENTITY updateAuto1.accesskey           "ل">
-<!ENTITY updateCheckChoose.label         "التمس التحديثات، و لكن اترك لي خيار تثبيتها من عدمه">
-<!ENTITY updateCheckChoose.accesskey     "ت">
-<!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
-<!ENTITY updateManual.accesskey          "د">
+<!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
+<!ENTITY updateAuto2.label               "يثبّت التحديثات تلقائيًا (ينصح به لزيادة الأمان)">
+<!ENTITY updateAuto2.accesskey           "ح">
+<!ENTITY updateCheckChoose2.label        "يلتمس التحديثات، و لكن يترك لك خيار تثبيتها من عدمه">
+<!ENTITY updateCheckChoose2.accesskey    "ت">
+<!ENTITY updateManual2.label             "لا يلتمس التحديثات أبدًا (غير منصوح به)">
+<!ENTITY updateManual2.accesskey         "د">
 
-<!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
-<!ENTITY updateHistory.accesskey         "ظ">
+<!ENTITY updateHistory2.label            "أظهر تأريخ التحديث…">
+<!ENTITY updateHistory2.accesskey        "ظ">
 
 <!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتثبيت التحديثات">
 <!ENTITY useService.accesskey            "خ">
 
-<!ENTITY autoUpdateOthers.label          "حدِّث تلقائيا">
-<!ENTITY enableSearchUpdate.label        "محركات البحث">
-<!ENTITY enableSearchUpdate.accesskey    "ح">
+<!ENTITY enableSearchUpdate2.label       "حدّث محركات البحث تلقائيًا">
+<!ENTITY enableSearchUpdate2.accesskey   "ك">
+
+<!ENTITY reports.label                   "التقارير">
 
 <!ENTITY offlineStorageNotify.label               "نبّهني عندما يطلب موقع تخزين بيانات للاستخدام دون اتصال">
 <!ENTITY offlineStorageNotify.accesskey           "ه">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "احذف بيانات الاستخدام دون اتصال">
 
 <!ENTITY certificateTab.label            "الشّهادات">
-<!ENTITY certPersonal.label              "الطلبات">
-<!ENTITY certPersonal.description        "عندما يطلب خادوم شهادتي الشخصيّة:">
+<!ENTITY certPersonal2.description       "عندما يطلب خادوم شهادتي الشخصيّة">
 <!ENTITY selectCerts.auto                "حدد واحدة آليّا">
 <!ENTITY selectCerts.auto.accesskey      "ح">
 <!ENTITY selectCerts.ask                 "اسألني كلّ مرّة">

@@ -12,7 +12,7 @@
 <!ENTITY projectMenu_importPackagedApp_accesskey "م">
 <!ENTITY projectMenu_importHostedApp_label "افتح تطبيقًا مستضافًا…">
 <!ENTITY projectMenu_importHostedApp_accesskey "س">
-<!ENTITY projectMenu_selectApp_label "افتح تطبيقا...">
+<!ENTITY projectMenu_selectApp_label "افتح تطبيقا…">
 <!ENTITY projectMenu_selectApp_accesskey "ف">
 <!ENTITY projectMenu_play_label "ثبّت و شغّل">
 <!ENTITY projectMenu_play_accesskey "ث">
@@ -121,7 +121,7 @@
 <!ENTITY prefs_options_showeditor_tooltip "أظهر المحرر الداخلي">
 <!ENTITY prefs_options_tabsize "طول علامة الجدولة">
 
-<!ENTITY prefs_options_expandtab_tooltip "استخدم المسافات بدل محرف الجدولة (Tab)">
+<!ENTITY prefs_options_expandtab_tooltip "استخدم المسافات بدل محرف الجدولة">
 
 
 <!ENTITY prefs_options_autocomplete "الإكمال التلقائي">

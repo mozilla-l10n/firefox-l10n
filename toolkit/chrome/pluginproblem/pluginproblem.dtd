@@ -18,7 +18,7 @@
 <!ENTITY reloadPlugin.post                                   " للمحاولة من جديد.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "أرسِل بلاغ انهيار">
-<!ENTITY report.submitting                                   "يرسل البلاغ...">
+<!ENTITY report.submitting                                   "يرسل البلاغ…">
 <!ENTITY report.submitted                                    "أُرسل البلاغ.">
 <!ENTITY report.disabled                                     "التبليغ بالانهيار معطل.">
 <!ENTITY report.failed                                       "فشل الإرسال.">
@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "ملف">
 <!ENTITY plugin.mimeTypes                                    "أنواع MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "فعّل وضع الحماية لفلاش أدوبي">
+

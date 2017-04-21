@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "اسم الجهاز">
-<!ENTITY changeSyncDeviceName.label "غيّر اسم الجهاز…">
-<!ENTITY changeSyncDeviceName.accesskey "ه">
+<!ENTITY changeSyncDeviceName1.label "غيّر اسم الجهاز">
+<!ENTITY changeSyncDeviceName1.accesskey "ه">
 <!ENTITY cancelChangeSyncDeviceName.label "ألغِ">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ل">
 <!ENTITY saveChangeSyncDeviceName.label "احفظ">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
 <!ENTITY verifiedManage.label        "أدِر الحساب">
 <!ENTITY verifiedManage.accesskey    "س">
-<!ENTITY disconnect.label            "اقطع الاتصال…">
-<!ENTITY disconnect.accesskey        "ط">
+<!ENTITY disconnect2.label           "اقطع الاتصال">
+<!ENTITY disconnect2.accesskey       "ط">
 <!ENTITY verify.label                "أكّد البريد">
 <!ENTITY verify.accesskey            "ك">
 <!ENTITY forget.label                "انس هذا البريد">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "لِج">
 <!ENTITY signedOut.accountBox.signin.accesskey  "ل">
 
-<!ENTITY signedIn.engines.label       "زامِن عبر كل الأجهزة">
+<!ENTITY signedIn.settings.label       "إعدادات المزامنة">
+<!ENTITY signedIn.settings.description "اختر مالذي تريد مزامنته على أجهزتك باستخدام &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

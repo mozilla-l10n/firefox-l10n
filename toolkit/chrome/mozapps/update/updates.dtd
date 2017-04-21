@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "يمكنك دائمًا الحصول على أحدث نسخة من &brandShortName; في:">
 
 <!ENTITY  unsupported.title               "النظام غير مدعوم">
-<!ENTITY  unsupported.label               "نسختك من &brandShortName; غير مُحدّثة، لكن أحدث نسخةليست مدعومة على نظامك. من فضل رقِّ نظامك ثم أعد المحاولة.لن ترى هذا التنبيه مرة أخرى، لكن تستطيع">
+<!ENTITY  unsupported.label               "نسختك من &brandShortName; غير مُحدّثة، لكن أحدث نسخة ليست مدعومة على نظامك. من فضل رقِّ نظامك ثم أعد المحاولة.لن ترى هذا التنبيه مرة أخرى، لكن تستطيع">
 <!ENTITY  unsupportedLink.label           "الاطلاع على المزيد.">
 
 <!ENTITY  clickHere.label                 "اعرض المزيد من التّفاصيل عن هذا التّحديث">

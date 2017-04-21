@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "البدء">
 
-<!ENTITY startupPage.label         "عند بدء &brandShortName;:">
-<!ENTITY startupPage.accesskey     "ب">
+<!ENTITY startupPage2.label        "عند بدء &brandShortName;">
+<!ENTITY startupPage2.accesskey    "ع">
 <!ENTITY startupUserHomePage.label "اعرض صفحتي الرئيسية">
 <!ENTITY startupBlankPage.label    "اعرض صفحة فارغة">
 <!ENTITY startupPrevSession.label  "اعرض نوافذي و ألسنتي من المرّة السابقة">
 
-<!ENTITY homepage.label            "الصفحة الرئيسية:">
-<!ENTITY homepage.accesskey        "س">
+<!ENTITY homepage2.label           "صفحة البداية">
+<!ENTITY homepage2.accesskey       "د">
 <!ENTITY useCurrentPage.label      "استخدم الصفحة الحالية">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "استخدم الصفحات الحالية">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "اسمح بتشغيل &brandShortName; و فَيَرفُكس في نفس الوقت">
 <!ENTITY useFirefoxSync.label             "فائدة: يستخدم هذا ملفات إعدادات مستقلة. استخدم «تزامن» لمشاركة البيانات بينهما.">
-<!ENTITY getStarted.label                 "ابدأ استخدام «تزامن»…">
+<!ENTITY getStarted.notloggedin.label     "لِج إلى &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "افتح تفضيلات &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "فعل &brandShortName; متعدد السيرورات">
