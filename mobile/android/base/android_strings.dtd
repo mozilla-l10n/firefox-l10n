@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_home_updates_wifi "ವೈ-ಫೈ ಜೊತೆಗೆ ಮಾತ್ರ">
 <!ENTITY pref_category_home_homepage "ಮುಖಪುಟ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "ಮುಖಪುಟ ಹೊಂದಿಸು">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "ಇಚ್ಛೆಯ ಟ್ಯಾಬ್‍‍‍ಗಳು">
 <!ENTITY pref_custom_tabs_summary3 "ಅನ್ವಯಗಳನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿದ &brandShortName; ನ ಆವೃತ್ತಿಯಲ್ಲಿ ಜಾಲತಾಣಗಳನ್ನು‍ ತೆರೆಯಲು ಅನುಮತಿಸು‍">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "ಚಟುವಟಿಕೆ ಹರಿವು">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "ಸಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
 <!ENTITY pref_plugins_tap_to_play2 "ಆಡಲು ತಟ್ಟಿ">
 <!ENTITY pref_plugins_disabled "ನಿಷ್ಕ್ರಿಯಗೊಳಿಸಲಾಗಿದೆ">
-<!ENTITY pref_text_size "ಪಠ್ಯದ ಗಾತ್ರ">
 <!ENTITY pref_restore_tabs "ಟ್ಯಾಬ್‌ಗಳನ್ನು ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_always "ಯಾವಾಗಲೂ ಮರುಸ್ಥಾಪಿಸು">
 <!ENTITY pref_restore_quit "&brandShortName; ನಿಂದ ಆಚೆ ಬಂದಾಗ, ರಿಸ್ಟೋರ್ ಮಾಡಬೇಡಿ">
-<!ENTITY pref_font_size_tiny "ಅತಿ ಚಿಕ್ಕದು">
-<!ENTITY pref_font_size_small "ಚಿಕ್ಕದು">
-<!ENTITY pref_font_size_medium "ಮಧ್ಯಮ">
-<!ENTITY pref_font_size_large "ದೊಡ್ಡದು">
-<!ENTITY pref_font_size_xlarge "ಅತಿ ದೊಡ್ಡದು">
-<!ENTITY pref_font_size_set "ನಿಶ್ಚಯಿಸು">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "ಕಿತ್ತಳೆ ಬಣ್ಣದ ನರಿಯೊಂದು, ನಿಮ್ಮ ಊಹೆಗೆ ಮೀರಿದ ವೇಗ, ಫ್ಲೆಕ್ಸಿಬಿಲಿಟಿ ಮತ್ತು ಸುರಕ್ಷೆಯಿಂದ ನೆಗೆಯುವುದು. ನಾವು ಲಾಭದ ಹಿಂದೆ ಇಲ್ಲದ ಕಾರಣ, ಬಾಹ್ಯ ಒತ್ತಡಗಳಿಗೆ ಮಣಿಯದೆ, ನಿಮ್ಮ ಪರವಾಗಿ ಕೇವಲ ಹೊಸ ಕಲ್ಪನೆಗಳಿಗೆ ಇಂಬು ನೀಡಲು ಸಾಧ್ಯವಾಗಿದೆ. ಇದರರ್ಥ, ನೀವು ವೆಬ್-ಭವಿಷ್ಯದಲ್ಲಿ, ಮತ್ತಷ್ಟು ಮೇರೆ ಮೀರಿದ ಅನುಭವವನ್ನು ಪಡೆಯುವಿರಿ.">
 
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆದು ಹಾಕು">
 <!ENTITY contextmenu_add_to_launcher "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
+
 <!ENTITY contextmenu_share "ಹಂಚು">
 <!ENTITY contextmenu_pasteandgo "ಅಂಟಿಸು ಹಾಗು ಮುಂದುವರೆ">
 <!ENTITY contextmenu_paste "ಅಂಟಿಸು">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "ಹೌದು">
 <!ENTITY button_no "ಇಲ್ಲ">
 <!ENTITY button_clear_data "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
-<!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
+
 <!ENTITY button_clear "ಅಳಿಸು">
 <!ENTITY button_copy "ಪ್ರತಿ ಮಾಡು">
 
