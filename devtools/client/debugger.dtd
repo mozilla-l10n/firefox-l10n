@@ -27,7 +27,7 @@
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
 
-<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Retirar fonte da caixa negra">
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "Parar caixa negra nesta fonte">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
 
@@ -35,7 +35,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
 
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Comutar caixa negra">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Alternar caixa negra">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 

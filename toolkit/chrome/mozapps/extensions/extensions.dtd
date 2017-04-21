@@ -14,7 +14,7 @@
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada">
 <!ENTITY listEmpty.recentUpdates.label        "Não possui extras atualizados recentemente">
 <!ENTITY listEmpty.findUpdates.label          "Procurar atualizações">
-<!ENTITY listEmpty.search.label               "Não foram encontrados extras coincidentes">
+<!ENTITY listEmpty.search.label               "Não foram encontrados extras correspondentes">
 <!ENTITY listEmpty.button.label               "Saber mais acerca dos extras">
 <!ENTITY installAddonFromFile.label           "Instalar extra a partir de ficheiro…">
 <!ENTITY installAddonFromFile.accesskey       "I">

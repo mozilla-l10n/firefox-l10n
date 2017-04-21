@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Segurança">
+
 <!ENTITY  warnOnAddonInstall.label        "Avisá-lo quando os sites tentarem instalar extras">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  formsAndPasswords.label       "Formulários e Palavras-passe">
+<!ENTITY  formsAndPasswords.label       "Formulários e palavras-passe">
 
 <!ENTITY  rememberLogins1.label          "Memorizar credenciais e palavras-passe para sites">
 <!ENTITY  rememberLogins1.accesskey      "r">
