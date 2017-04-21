@@ -84,6 +84,9 @@
 <!ENTITY updateTab.label                 "မွမ်းမံချက်">
 
 <!ENTITY updateApplication.label         "&brandShortName; မွမ်းမံမှုများ">
+<!ENTITY updateApplication.description   "&brandShortName; ကို ဆောင်ရွက်ခွင့်ပြုရန်">
+<!ENTITY updateAuto2.label               "အဆင့်မြှင့်တင်မှုများကို အလိုအလျောက် တပ်ဆင်ပါ (လုံခြုံမှုကို ပိုမိုကောင်းမွန်စေသည့်အတွက် အကြံပြုပါသည်)">
+<!ENTITY updateAuto2.accesskey           "A">
 
 
 <!ENTITY useService.label                "နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ">
