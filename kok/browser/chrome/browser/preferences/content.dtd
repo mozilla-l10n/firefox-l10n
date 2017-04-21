@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "अक्षरसंच &amp; रंग">
 
-<!ENTITY  defaultFont.label           "मूळवो अक्षरसंच:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "आकार:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "अद्ययावत...">
 <!ENTITY  advancedFonts.accesskey     "A">

@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास दाखोवपाक उजवी कळ दामात वो सकयल ओडात">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास दाखोवपाक सकयल ओडात">
 <!ENTITY reloadCmd.label              "परत लोड करात">
-<!ENTITY reloadButton.tooltip         "सद्याचे पान परतून लागू करात">
 <!ENTITY stopCmd.label                "रावात">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "हे पान लागू करपापासून थांबयात">
 <!ENTITY goEndCap.tooltip             "थळ पट्टेन नाम्यान वचात">
 <!ENTITY printButton.label            "छापात">
 <!ENTITY printButton.tooltip          "हे पान छापात">
@@ -227,8 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "सोदात">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "घर">
 
@@ -357,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -750,6 +750,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "सिंक">
 
 
@@ -858,3 +860,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM विशीं अदिक शिकात…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

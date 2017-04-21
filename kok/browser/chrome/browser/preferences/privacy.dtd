@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "ट्रॅकिंग">
 
 
@@ -26,14 +28,12 @@
 
 <!ENTITY  locationBar.label             "थळ पट्टी">
 
-<!ENTITY  locbar.suggest.label          "थळ पट्टी वापरतना, सुचयात:">
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "बुकमार्कस्">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "टॅबां उगडात">
 <!ENTITY  locbar.openpage.accesskey     "उ">
-
 
 
 
@@ -58,8 +58,7 @@
 <!ENTITY  showCookies.label             "कुकीज दाखयात...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; इत्सा:">
-<!ENTITY  historyHeader.pre.accesskey      "इ">
+
 <!ENTITY  historyHeader.remember.label     "इतिहास उगडास धरचो">
 <!ENTITY  historyHeader.dontremember.label "इतिहास केन्नाच उगडास धरचो न्हय">
 <!ENTITY  historyHeader.custom.label       "इतिहासा खातीर कस्टम मांडावळी वापरच्यो">

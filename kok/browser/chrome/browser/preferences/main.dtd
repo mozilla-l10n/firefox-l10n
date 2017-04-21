@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "सुरवेक">
 
-<!ENTITY startupPage.label         "जेन्ना  &brandShortName; सुरू जाता:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "रिकामे पान दाखयात">
 
 
-<!ENTITY homepage.label            "मुखेल पानः">
-<!ENTITY homepage.accesskey        "प">
+
 <!ENTITY useCurrentPage.label      "सद्याचे पान वापरात">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सद्याची पानां वापरात">
@@ -39,5 +37,6 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; आणि फायरफॉक्साक एकाच वेळार चलपाक दियात">
 <!ENTITY useFirefoxSync.label             "टीप: ही वेगळी प्रोफायला वापरता. तांचेभीतर डेटा वाटपाक सिंक वापरात.">
-<!ENTITY getStarted.label                 "सिंक वापरूंक सुरवात करात…">
+
+
 

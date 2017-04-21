@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "सुदार">
 
-<!ENTITY updateAuto1.label               "आपसूंक सुदार प्रतिष्ठापित करात (शिफारस केल्या:सुदारित सुरक्षा)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "सुदार तपासूं नाकात(शिफारस करूक ना: सुरक्षा धोको)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "सुदार इतिहास दाखयात">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "सुदार प्रतिष्ठापित करपाक फाटभूंय सेवा वापरात">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "इंजिन सोदात">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद...">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "ऑफलायन डेटा काडचो">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्रां">
-
 
 <!ENTITY selectCerts.auto                "एक आपसूक निवडात">
 
