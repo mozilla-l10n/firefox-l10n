@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Įrenginio pavadinimas">
-<!ENTITY changeSyncDeviceName.label "Keisti įrenginio pavadinimą…">
-<!ENTITY changeSyncDeviceName.accesskey "e">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Atsisakyti">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "k">
 <!ENTITY saveChangeSyncDeviceName.label "Įrašyti">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Keisti profilio nuotrauką">
 <!ENTITY verifiedManage.label        "Tvarkyti paskyrą">
 <!ENTITY verifiedManage.accesskey    "y">
-<!ENTITY disconnect.label            "Atsijungti…">
-<!ENTITY disconnect.accesskey        "t">
+
+
 <!ENTITY verify.label                "Patvirtinti el. paštą">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Užmiršti šį el. paštą">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Prisijungti">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sinchronizuokite visuose įrenginiuose">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

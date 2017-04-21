@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nuostatos – svetainių duomenys">
-<!ENTITY     settings.description          "Šios svetainės prašė leidimo saugoti savo duomenis jūsų diske. Jūs galite nurodyti, kurioms svetainėms leidžiate tai daryti. Numatytieji svetainių duomenys yra laikini ir gali būti ištrinti automatiškai.">
 <!ENTITY     hostCol.label                 "Svetainė">
 <!ENTITY     statusCol.label               "Būsena">
 <!ENTITY     usageCol.label                "Vieta">
-<!ENTITY     searchPlaceHolder             "Ieškoti">
-<!ENTITY     searchPlaceHolder.accesskey   "e">
+
+
 <!ENTITY     removeSelected.label          "Pašalinti pažymėtus">
 <!ENTITY     removeSelected.accesskey      "P">
 <!ENTITY     save.label                    "Įrašyti pakeitimus">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Atsisakyti">
 <!ENTITY     cancel.accesskey              "k">
 <!ENTITY     removingDialog.title          "Svetainių duomenų šalinimas">
-<!ENTITY     removingDialog.description    "Pašalinus svetainių duomenis išsitrins ir slapukai. Tai gali atjungti jus iš svetainių bei ištrinti turinį darbui neprisijungus. Ar tikrai norite atlikti pakeitimus?">
+
 <!ENTITY     siteTree.label                "Bus pašalinti šie svetainių slapukai:">

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Spustelėję dešiniu pelės mygtuku arba palaikę nuspaustą kairįjį, pamatysite kortelės žurnalą">
 <!ENTITY backForwardButtonMenuMac.tooltip "Palaikę nuspaustą pelės mygtuką, pamatysite kortelės žurnalą">
 <!ENTITY reloadCmd.label              "Atsiųsti iš naujo">
-<!ENTITY reloadButton.tooltip         "Šį tinklalapį atsiųsti iš naujo">
 <!ENTITY stopCmd.label                "Stabdyti">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Stabdyti šio tinklalapio atsiuntimą">
 <!ENTITY goEndCap.tooltip             "Eiti į adreso lauke surinktą adresą">
 <!ENTITY printButton.label            "Spausdinti">
 <!ENTITY printButton.tooltip          "Spausdinti šį tinklalapį">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Atverti slaptažodžio įrašymo pranešimo skydelį">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Valdyti papildinių naudojimą">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tvarkyti mikrofono naudojimą svetainėje">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Šioje svetainėje esate užblokavę duomenų saugojimą.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Šioje svetainėje esate užblokavę pranešimus.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Rodyti žurnalą">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Grąžinti pirminį mastelį">
-
 <!ENTITY searchItem.title             "Paieška">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Pradžios tinklalapis">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinchronizavimo nuostatos">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Prisijunkite norėdami peržiūrėti kituose įrenginiuose esančias korteles.">
 <!ENTITY appMenuRemoteTabs.signin.label "Prisijungti prie „Sync“">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Rodyti sinchronizuotų kortelių parankinę">
 
 <!ENTITY customizeMenu.addToToolbar.label "Pridėti į priemonių juostą">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "A">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Jungtis prie „&syncBrand.shortName.label;“…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Sužinokite daugiau apie DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Atnaujinimas">
 
 <!ENTITY updateApplication.label         "„&brandShortName;“ naujinimai">
-<!ENTITY updateAuto1.label               "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
-<!ENTITY updateCheckChoose.accesskey     "T">
-<!ENTITY updateManual.label              "Netikrinti, ar yra naujinimų (nerekomenduojama – galimos saugumo problemos)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Rodyti atnaujinimo žurnalą">
-<!ENTITY updateHistory.accesskey         "R">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Naujinimams įdiegti naudoti fone veikiančią tarnybą">
 <!ENTITY useService.accesskey            "f">
 
-<!ENTITY autoUpdateOthers.label          "Atnaujinti automatiškai">
-<!ENTITY enableSearchUpdate.label        "ieškykles">
-<!ENTITY enableSearchUpdate.accesskey    "e">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Pranešti, kai svetainė prašo leidimo kompiuteryje įrašyti duomenis, reikalingus darbui neprisijungus prie tinklo">
 <!ENTITY offlineStorageNotify.accesskey           "P">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Pašalinti darbui neprisijungus skirtus duomenis">
 
 <!ENTITY certificateTab.label            "Liudijimai">
-<!ENTITY certPersonal.label              "Užklausos">
-<!ENTITY certPersonal.description        "Svetainei paprašius jūsų asmeninio liudijimo:">
+
 <!ENTITY selectCerts.auto                "parinkti jį automatiškai">
 <!ENTITY selectCerts.auto.accesskey      "e">
 <!ENTITY selectCerts.ask                 "visada klausti">
