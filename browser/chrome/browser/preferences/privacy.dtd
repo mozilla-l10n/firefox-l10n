@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Theo dõi">
 
 
@@ -26,14 +28,12 @@
 
 <!ENTITY  locationBar.label             "Thanh Địa Chỉ">
 
-<!ENTITY  locbar.suggest.label          "Khi sử dụng thanh địa chỉ, tự đưa ra các đề nghị về:">
 <!ENTITY  locbar.history.label          "Nhật ký duyệt web">
 <!ENTITY  locbar.history.accesskey      "N">
 <!ENTITY  locbar.bookmarks.label        "Đánh dấu trang">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
 <!ENTITY  locbar.openpage.label         "Các tab đang mở">
 <!ENTITY  locbar.openpage.accesskey     "t">
-
 
 
 
@@ -58,8 +58,7 @@
 <!ENTITY  showCookies.label             "Hiện Cookie…">
 <!ENTITY  showCookies.accesskey         "e">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; sẽ:">
-<!ENTITY  historyHeader.pre.accesskey      "s">
+
 <!ENTITY  historyHeader.remember.label     "Ghi nhớ lược sử">
 <!ENTITY  historyHeader.dontremember.label "Không bao giờ ghi nhớ lược sử">
 <!ENTITY  historyHeader.custom.label       "Sử dụng thiết lập tùy biến cho lược sử">

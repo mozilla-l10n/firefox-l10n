@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Cập nhật">
 
-<!ENTITY updateAuto1.label               "Tự động cài đặt các cập nhật (nên làm vì tăng tính bảo mật)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
-<!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateHistory.label             "Hiển thị Lược sử Cập nhật">
-<!ENTITY updateHistory.accesskey         "L">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
-<!ENTITY enableSearchUpdate.accesskey    "y">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
-
 
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
 

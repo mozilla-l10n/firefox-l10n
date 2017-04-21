@@ -32,4 +32,3 @@
 <!ENTITY loaddevice.browse                      "Duyệt…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Nạp thiết bị PKCS#11">
