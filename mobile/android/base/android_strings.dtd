@@ -719,7 +719,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "O &brandShortName; vai reiniciar">
-<!ENTITY new_guest_session_text2 "A pessoa que o estiver a usar não poderá ver os seus dados de navegação (como palavras-passe guardadas, histórico ou marcadores).\n\nQuando o seu convidado tiver terminado, os dados de navegação serão apagados e a sua sessão será restaurada.">
+<!ENTITY new_guest_session_text2 "A pessoa que o estiver a usar não poderá ver os seus dados de navegação (como credenciais guardadas, histórico ou marcadores).\n\nQuando o seu convidado tiver terminado, os dados de navegação serão apagados e a sua sessão será restaurada.">
 <!ENTITY guest_browsing_notification_title "A navegação para convidados está ativa">
 <!ENTITY guest_browsing_notification_text "Toque para sair">
 
