@@ -13,17 +13,14 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 56em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "General">
-<!ENTITY  paneTabs.title          "File">
-<!ENTITY  paneSearch.title        "Căutare">
-<!ENTITY  paneContent.title       "Conținut">
-<!ENTITY  paneApplications.title  "Aplicații">
-<!ENTITY  panePrivacy.title       "Confidențialitate">
-<!ENTITY  paneContainers.title    "File container">
-<!ENTITY  paneSecurity.title      "Securitate">
-<!ENTITY  paneAdvanced.title      "Avansat">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "General">
+<!ENTITY  paneFilesApplications.title   "Fișiere și aplicații">
+<!ENTITY  panePrivacySecurity.title     "Confidențialitate și securitate">
+<!ENTITY  paneContainers.title          "File container">
+<!ENTITY  paneUpdates.title             "Actualizări">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sincronizare">
+<!ENTITY  paneSync1.title          "Cont Firefox">
 
-<!ENTITY  helpButton.label        "Ajutor">
+
+<!ENTITY  searchInput.label        "Căutare">

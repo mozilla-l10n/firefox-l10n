@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Pornire">
 
-<!ENTITY startupPage.label         "Când &brandShortName; pornește:">
-<!ENTITY startupPage.accesskey     "n">
+<!ENTITY startupPage2.label        "Când &brandShortName; pornește:">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Arată pagina de start">
 <!ENTITY startupBlankPage.label    "Arată o pagină goală">
 <!ENTITY startupPrevSession.label  "Arată ferestrele și filele de data trecută">
 
-<!ENTITY homepage.label            "Pagina de start:">
-<!ENTITY homepage.accesskey        "P">
+<!ENTITY homepage2.label           "Pagina de start:">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Folosește pagina actuală">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Folosește paginile actuale">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permite ca &brandShortName; și Firefox să ruleze în același timp">
 <!ENTITY useFirefoxSync.label             "Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.">
-<!ENTITY getStarted.label                 "Începe să folosești Sincronizare…">
+
+
 
 <!ENTITY e10sEnabled.label                "Activează funcționalitatea de multiprocese a &brandShortName;">

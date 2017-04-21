@@ -53,7 +53,7 @@
 
 <!ENTITY certmgr.close.label                  "Închide">
 <!ENTITY certmgr.close.accesskey              "c">
-<!ENTITY certmgr.view2.label                  "Vizualizează">
+<!ENTITY certmgr.view2.label                  "Vezi">
 <!ENTITY certmgr.view2.accesskey              "V">
 <!ENTITY certmgr.edit3.label                  "Editează încrederea…">
 <!ENTITY certmgr.edit3.accesskey              "E">

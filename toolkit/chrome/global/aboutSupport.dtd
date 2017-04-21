@@ -21,6 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versiune">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featureName "Nume">
+<!ENTITY aboutSupport.featureVersion "Versiune">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Funcții experimentale">
 <!ENTITY aboutSupport.experimentName "Nume">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -111,11 +115,11 @@ variant of aboutSupport.showDir.label. -->
 
 
 
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumente">
 
 <!ENTITY aboutSupport.safeModeTitle "Încearcă modul în siguranță">
 <!ENTITY aboutSupport.restartInSafeMode.label "Repornește cu suplimente dezactivate…">
