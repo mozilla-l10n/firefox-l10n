@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Goy nda ganayan jejebu">
+
 <!ENTITY  trackingProtectionAlways.label       "Waati kul">
 <!ENTITY  trackingProtectionAlways.accesskey   "i">
 <!ENTITY  trackingProtectionPrivate.label      "Sutura zanfuney hinne ra">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Gorodoo žeeri">
 
-<!ENTITY  locbar.suggest.label          "Nda war ga gorodoo zuwoo ka goy, honnandi:">
 <!ENTITY  locbar.history.label          "Taariki">
 <!ENTITY  locbar.history.accesskey      "T">
 <!ENTITY  locbar.bookmarks.label        "Doo-šilbay">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Ceeciyan kondantey ka hun tilasu ceecijinaa ga">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Ibaayey barmay ceecijinay honnandiyaney se…">
-<!ENTITY  suggestionSettings.accesskey  "y">
 
 <!ENTITY  acceptCookies.label           "Dogey aleewawey taa">
 <!ENTITY  acceptCookies.accesskey       "t">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Aleewawey cebe…">
 <!ENTITY  showCookies.accesskey         "c">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ga:">
-<!ENTITY  historyHeader.pre.accesskey      "g">
+
 <!ENTITY  historyHeader.remember.label     "Hongu taarikoo">
 <!ENTITY  historyHeader.dontremember.label "Ma ši honga taarikoo abada">
 <!ENTITY  historyHeader.custom.label       "Hanse bonse taariku se goyandi">

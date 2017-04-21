@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Tunandi">
 
-<!ENTITY startupPage.label         "Waati kaŋ &brandShortName; ga tun:">
-<!ENTITY startupPage.accesskey     "t">
+
 <!ENTITY startupUserHomePage.label "War šintin moɲoo cebe">
 <!ENTITY startupBlankPage.label    "Moo koonu cebe">
 <!ENTITY startupPrevSession.label  "War zanfuney nda cee koraa kanjey cebe">
 
-<!ENTITY homepage.label            "Šintin moo:">
-<!ENTITY homepage.accesskey        "m">
+
 <!ENTITY useCurrentPage.label      "Sohõ moɲoo goyandi">
 <!ENTITY useCurrentPage.accesskey  "S">
 <!ENTITY useMultiple.label         "Sohõ moɲey goyandi">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Naŋ &brandShortName; nda Firefox ma dira cere bande">
 <!ENTITY useFirefoxSync.label             "Dabari: Woo ga goy nda alhaali fayanteyaŋ. Goy nda Sync ka bayhayey žemni gamey ra.">
-<!ENTITY getStarted.label                 "Šintin ka goy nda Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "Goy-boobo alhaali tunandi &brandShortName; se">

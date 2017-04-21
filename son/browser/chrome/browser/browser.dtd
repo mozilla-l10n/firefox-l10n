@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Kanbe guma naagu wala cendi ganda ka taariki cebe">
 <!ENTITY backForwardButtonMenuMac.tooltip "Cendi ganda ka taariki cebe">
 <!ENTITY reloadCmd.label              "Dam taaga">
-<!ENTITY reloadButton.tooltip         "Sohõ moɲoo dam taaga">
 <!ENTITY stopCmd.label                "Kay">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Moɲoo woo zumandiroo kayandi">
 <!ENTITY goEndCap.tooltip             "Koy aderesoo do gorodoo žeeroo ga">
 <!ENTITY printButton.label            "Kar">
 <!ENTITY printButton.tooltip          "Moɲoo woo kar">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Šennikufal gaabu alhabar fasaldoo feeri">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sukari goyyan juwal">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "War jindezaahayaa žemnayanoo nda nungoo juwal">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "War na bayhaya jišiyan gagay interneti nungoo woo se.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "War na bangandiyaney gagay interneti nungoo woo se.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taariki cebe">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Azzaati dimma yeeti">
-
 <!ENTITY searchItem.title             "Ceeci">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Šintin">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ibaayey hangandi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Huru ka dii kanji maašeede foo war jinay taney ga.">
 <!ENTITY appMenuRemoteTabs.signin.label "Huru Sync ra">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Kanji hangantey ceraw-zuwoo guna">
 
 <!ENTITY customizeMenu.addToToolbar.label "Goyjinay zuu tonton">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "f">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Huru &syncBrand.shortName.label; ra…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Bay ka tonton DRM ga…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
