@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Frissítés">
 
 <!ENTITY updateApplication.label         "&brandShortName; frissítések">
-<!ENTITY updateAuto1.label               "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheckChoose.label         "Frissítések keresése, de a telepítés kézzel történik">
-<!ENTITY updateCheckChoose.accesskey     "k">
-<!ENTITY updateManual.label              "Ne legyen frissítve (nem ajánlott a biztonsági kockázat miatt">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Frissítési előzmények megjelenítése">
-<!ENTITY updateHistory.accesskey         "z">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
 
-<!ENTITY autoUpdateOthers.label          "Automatikus frissítés">
-<!ENTITY enableSearchUpdate.label        "Keresőszolgáltatások">
-<!ENTITY enableSearchUpdate.accesskey    "e">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
 <!ENTITY offlineStorageNotify.accesskey           "w">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
 
 <!ENTITY certificateTab.label            "Tanúsítványok">
-<!ENTITY certPersonal.label              "Kérések">
-<!ENTITY certPersonal.description        "Ha a kiszolgáló elkéri a személyes tanúsítványt:">
+
 <!ENTITY selectCerts.auto                "Automatikus választás">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "Megerősítés minden alkalommal">

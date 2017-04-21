@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Autofrissítés 3 másodpercenként">
 <!ENTITY aboutNetworking.hostname              "Gépnév">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktív">
 <!ENTITY aboutNetworking.idle                  "Tétlen">
