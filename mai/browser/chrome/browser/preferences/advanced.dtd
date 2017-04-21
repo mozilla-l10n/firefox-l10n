@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "अद्यतन  करू ">
 
-<!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करू (अनुशंसित: आओर नीक सुरक्षा)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "अद्यतन क लेल कखनो नहि जाँचू (अनुशंसित नहि: सुरक्षा जोखिम)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "अद्यतन इतिहास देखाउ">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "अद्यतन संस्थापित करबाक लेल पृष्ठभूमि सेवाक उपयोग करू">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "खोज इंजन">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "आफलाइन आँकड़ा हटाउ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-<!ENTITY certPersonal.label              "निवेदन">
 
 <!ENTITY selectCerts.auto                "कोनो एकरा स्वतः चुनू">
 
