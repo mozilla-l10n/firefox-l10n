@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "सक्षम पारियो">
 <!ENTITY pref_home_updates_wifi "केवल Wi-Fi को माध्यमबाट">
 <!ENTITY pref_category_home_homepage "गृहपृष्ठ">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "अनुकुल ट्याबहरू">
 <!ENTITY pref_custom_tabs_summary3 "अनुप्रयोगहरूलाई &brandShortName; को एक अनुकूलित संस्करण प्रयोग गरेर वेबसाइटमा खोल्न अनुमति दिनुहोस्">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "सक्षम पारिएको">
 <!ENTITY pref_plugins_tap_to_play2 "प्ले गर्न छुनुहोस्">
 <!ENTITY pref_plugins_disabled "अक्षम पारिएको">
-<!ENTITY pref_text_size "अक्षर साइज">
 <!ENTITY pref_restore_tabs "ट्याबहरू पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_restore_always "सधैँ पुनःस्थापना गर्नुहोस्">
 <!ENTITY pref_restore_quit "&brandShortName; बन्द गरेपछि पुनः स्थापना नगर्नुहोस्">
-<!ENTITY pref_font_size_tiny "अति सानो">
-<!ENTITY pref_font_size_small "सानो">
-<!ENTITY pref_font_size_medium "मध्यम">
-<!ENTITY pref_font_size_large "ठूलो">
-<!ENTITY pref_font_size_xlarge "अति ठूलो">
-<!ENTITY pref_font_size_set "सेट गर्नुहोस्">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "रातो फ्याउरोले तपाईँलाई तीब्र गति, धेरै लचकता र धेरै सुरक्षा प्रदान गर्छ। एउटा गैर-नाफामूलक संस्था भएको नाताले हामी तपाईँको तर्फबाट नयाँ नयाँ कुरा निर्माण गर्न सक्छौ। यसले तपाईँलाई राम्रो अनुभव र वेबलाई उज्यालो भविष्य प्रदान गर्छ।">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "निजि ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_remove "हटाउनुहोस्">
 <!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस">
+
 <!ENTITY contextmenu_share "साझा गर्ने">
 <!ENTITY contextmenu_pasteandgo "टाँस्नुहोस् र जानुहोस्">
 <!ENTITY contextmenu_paste "टाँस्नुहोस्">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "हो">
 <!ENTITY button_no "होेइन">
 <!ENTITY button_clear_data "आकडा हताउने">
-<!ENTITY button_set "सेट गर्नुहोस्">
+
 <!ENTITY button_clear "खाली गर्नुहोस्">
 <!ENTITY button_copy "प्रतिलिपि बनाउनुहोस्">
 
