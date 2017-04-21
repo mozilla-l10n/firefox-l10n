@@ -14,6 +14,8 @@
 
 
 
+
+
 <!ENTITY browsing.label                  "Tfunguluta">
 
 
@@ -38,6 +40,12 @@
 
 
 
+
+
+
+
+
+<!--  Site Data section manages sites using Storage API and is under Network -->
 
 
 
@@ -84,13 +92,11 @@
 
 
 
-
 <!ENTITY certificateTab.label            "Titifiketi">
 
+<!ENTITY selectCerts.auto                "Khetsa kunye othomathikhali">
 
-<!ENTITY certs.auto                      "Khetsa kunye othomathikhali">
 
-<!ENTITY certs.ask                       "Ngibute njalo nje">
 
 
 

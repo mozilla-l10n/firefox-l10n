@@ -11,6 +11,18 @@
 
 
 
+
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
+<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
+
+
+
 <!ENTITY  history.label                 "Umlandvo">
 
 
@@ -35,8 +47,6 @@
 
 
 
-<!ENTITY  askEachTime.label             "ngibute ngaso sonkhe sikhatsi">
-
 
 
 
@@ -57,6 +67,12 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
+
+
+
+
+
+
 
 
 

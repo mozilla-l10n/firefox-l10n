@@ -19,14 +19,16 @@
 
 
 
+
+
+
+
 <!-- global warnings -->
 
 
 
 
 
-
-<!-- global informations -->
 
 <!-- categories / views -->
 
@@ -72,8 +74,6 @@
 <!ENTITY cmd.enableAddon.accesskey            "V">
 <!ENTITY cmd.disableAddon.label               "Khinyabetekile">
 <!ENTITY cmd.disableAddon.accesskey           "K">
-
-
 
 
 
@@ -198,5 +198,7 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
 
 

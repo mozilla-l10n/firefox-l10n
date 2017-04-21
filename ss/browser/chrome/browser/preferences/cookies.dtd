@@ -4,13 +4,7 @@
 
 <!ENTITY     cookiesonsystem.label          "Lamakukisi lalandzelako agcinwe kukhompyutha yakho:">
 <!ENTITY     cookiename.label               "Libito Lelikuku">
-<!ENTITY     cookiedomain.label             "Isayithi"> 
-<!-- LOCALIZATION NOTE (button.removeSelectedCookies.accesskey):
-  The label associated with this accesskey can be found in 
-  preferences.properties as removeSelectedCookies.
--->
-
-
+<!ENTITY     cookiedomain.label             "Isayithi">
 
 <!ENTITY     props.name.label               "Libito:">
 <!ENTITY     props.value.label              "Lokucuketfwe:">
@@ -19,13 +13,13 @@
 <!ENTITY     props.secure.label             "Tfumelela:">
 <!ENTITY     props.expires.label            "Lisipayile:">
 
+
 <!ENTITY     window.title                   "Emakuku">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-<!ENTITY     filter.label                   "Phenya:">
-<!ENTITY     filter.accesskey               "P">
+
 
 <!ENTITY     button.close.label             "Vala">
 <!ENTITY     button.close.accesskey         "V">
