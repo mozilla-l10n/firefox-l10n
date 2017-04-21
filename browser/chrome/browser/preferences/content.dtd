@@ -34,7 +34,7 @@
 
 
 <!ENTITY languages.label              "Jazyky">
-<!ENTITY chooseLanguage.label         "Nastavení jazyků pro zobrazování webových stránek">
+<!ENTITY chooseLanguage.label         "Vyberte jazyky pro zobrazování webových stránek">
 <!ENTITY chooseButton.label           "Vybrat jazyky…">
 <!ENTITY chooseButton.accesskey       "j">
 

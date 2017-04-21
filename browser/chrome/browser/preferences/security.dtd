@@ -24,9 +24,9 @@
 <!ENTITY  addonExceptions.accesskey     "m">
 
 
-<!ENTITY  formsAndPasswords.label       "Formuláře a Hesla">
+<!ENTITY  formsAndPasswords.label       "Formuláře a hesla">
 
-<!ENTITY  rememberLogins1.label          "Pamatovat si na serverech přihlašovací údaje">
+<!ENTITY  rememberLogins1.label          "Pamatovat si přihlašovací údaje">
 <!ENTITY  rememberLogins1.accesskey      "a">
 <!ENTITY  passwordExceptions.label      "Výjimky…">
 <!ENTITY  passwordExceptions.accesskey  "k">
