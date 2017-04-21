@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDevices.title              "Yib">
-<!ENTITY aboutDevices.header             "Yib na lú">
+<!ENTITY aboutDevices.title              "Yíʔb (kiʔkwa)">
+<!ENTITY aboutDevices.header             "Yíʔb (kiʔkwa) ná lú">
 <!ENTITY aboutDevices.refresh            "Bliy">
-<!ENTITY aboutDevices.addDeviceHeader    "M-tòb thîb yib">
+<!ENTITY aboutDevices.addDeviceHeader    "M-tòb thîb yíʔb">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the

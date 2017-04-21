@@ -56,7 +56,7 @@
 <!ENTITY fxaccount_status_auth_server "Cho lél">
 <!ENTITY fxaccount_status_sync_now "Bli sync">
 <!ENTITY fxaccount_status_syncing2 "Dó na líy...">
-<!ENTITY fxaccount_status_device_name "Xá le yib">
+<!ENTITY fxaccount_status_device_name "Xá le yíʔb">
 <!ENTITY fxaccount_status_sync_server "Pá du Sync">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; dob ki">
@@ -97,7 +97,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; Mxhen kue">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; B-šèn">
 <!ENTITY fxaccount_options_configure_title "Thus kue &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has

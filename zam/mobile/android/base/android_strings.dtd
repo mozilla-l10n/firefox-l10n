@@ -21,10 +21,10 @@
 <!ENTITY firstrun_button_notnow "Yenta, na lit luy nal">
 <!ENTITY firstrun_button_next "Te ner ra">
 
-<!ENTITY firstrun_tabqueue_title "Nét (n̆eza)">
+<!ENTITY firstrun_tabqueue_title "Nêt (n̆eza)">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Bla kí Loo queue">
-<!ENTITY firstrun_tabqueue_subtext_off "mb-lòɁ sóg dó lent &brandShortName; xé xhal ló apps.">
+<!ENTITY firstrun_tabqueue_subtext_off "mb-lòɁ sóg dó leɁn &brandShortName; xé xhal ló apps.">
 
 <!ENTITY firstrun_tabqueue_message_on "Kuan mxhác!">
 <!ENTITY firstrun_tabqueue_subtext_on "Tak tuy lú kue this yaál &settings; lá ner &pref_category_general;.">
@@ -60,7 +60,7 @@
 <!ENTITY  crash_email "Tá correo na lú">
 <!ENTITY  crash_closing_alert "¿Na last táa lúu niel kuan mxhac gáa?">
 <!ENTITY  sending_crash_report "M-tàl ko nà de xhín ta\u2026">
-<!ENTITY  crash_close_label "TòɁw">
+<!ENTITY  crash_close_label "TòɁw (tth-aɁw)">
 <!ENTITY  crash_restart_label "Mtete &brandShortName;">
 
 <!ENTITY url_bar_default_text2 "KwàɁn kó wiɁ">
@@ -107,7 +107,7 @@
 <!ENTITY site_security "Nog kue">
 <!ENTITY edit_mode_cancel "B-láɁ=y">
 
-<!ENTITY close_tab "TòɁw kue">
+<!ENTITY close_tab "TòɁw lô (lawo)">
 <!ENTITY one_tab "1 lô (lawo)">
 <!-- Localization note (num_tabs2) : Number of tabs is always more than one.
      We can't use android plural forms, sadly. See bug #753859. -->
@@ -130,7 +130,7 @@
 <!ENTITY settings "Thus kuey">
 <!ENTITY settings_title "Thus kuey">
 <!ENTITY pref_category_general "Ree ta koo taak niel">
-<!ENTITY pref_category_general_summary3 "Gú, dizh, lô (lawo)">
+<!ENTITY pref_category_general_summary3 "Lìz, dizh, lô (lawo)">
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
@@ -154,20 +154,20 @@
 
 <!ENTITY overlay_share_bookmark_btn_label "Ndó~làz=ná">
 <!ENTITY overlay_share_bookmark_btn_label_already "Dob lá ndó~làz=ná">
-<!ENTITY overlay_share_send_other "M-tàl=là loo tà thîb yíb">
+<!ENTITY overlay_share_send_other "M-tàl=là lô tà thîb yíʔb">
 
 <!ENTITY overlay_share_open_browser_btn_label "B-šàlɁ lénɁ &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
      to. -->
-<!ENTITY overlay_share_send_tab_btn_label "M-tàl=là loo tà thîb yíb">
+<!ENTITY overlay_share_send_tab_btn_label "M-tàl=là lô tà thîb yíʔb">
 <!ENTITY overlay_share_no_url "Ná mxhial na kue">
-<!ENTITY overlay_share_select_device "B-šèn yib kub">
+<!ENTITY overlay_share_select_device "B-šèn yíʔb kûb">
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Na dob Firefox loo ta dib yib">
+<!ENTITY overlay_no_synced_devices "Na dob Firefox lô yíʔb ré">
 
 <!ENTITY pref_category_search3 "KwàɁn">
 <!ENTITY pref_category_search_summary2 "M-tòb, loo kuan xo-oy">
@@ -181,7 +181,7 @@
 <!ENTITY pref_category_logins "Xha lel">
 <!ENTITY pref_learn_more "Lab kue">
 <!ENTITY pref_category_installed_search_engines "Dob la kue">
-<!ENTITY pref_category_add_search_providers "M-tòb yib ko kwàɁn~lú">
+<!ENTITY pref_category_add_search_providers "M-tòb yíʔb ko kwàɁn~lú">
 <!ENTITY pref_category_search_restore_defaults "bí~rè kwàɁn">
 <!ENTITY pref_search_restore_defaults "Verey xha gol la">
 <!ENTITY pref_search_restore_defaults_summary "Tob be tes xha gol la">
@@ -195,32 +195,33 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Veré ngetlu, lo xhog, thus kuey">
+<!ENTITY pref_category_advanced_summary3 "Bí~rè ré-tá lô (lawo), bló sóg gá, tús kúe Yíʔb (kiʔkwa)">
 <!ENTITY pref_category_notifications "Güi">
 <!ENTITY pref_category_notifications_summary "Ko kub, lí kub">
 <!ENTITY pref_content_notifications "Ko kub">
 <!ENTITY pref_content_notifications_summary2 "Güi ko kub xó lent tree">
 <!ENTITY pref_developer_remotedebugging_usb "Tob bíy loo USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Tob bíy loo Wi-Fi">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "This lash lu toob ki Wifinakin li ché thib yib lab QR.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "This lash lu toob ki Wifinakin li ché thib yíʔb lab QR.">
 <!ENTITY pref_remember_signons2 "Veré mtetey">
 <!ENTITY pref_manage_logins "Thus kue metey">
 
-<!ENTITY pref_category_home "Tetey">
-<!ENTITY pref_category_home_summary "Thus kue liz lu">
+<!ENTITY pref_category_home "Lìz (leNtyeN)">
+<!ENTITY pref_category_home_summary "Thus kue lìz (leNtyeN) lú">
 <!ENTITY pref_category_home_panels "Loo">
 <!ENTITY pref_category_home_add_ons "M-tòb ko-kùb">
 <!ENTITY pref_home_updates2 "Li kub">
 <!ENTITY pref_home_updates_enabled "Toob kiy">
 <!ENTITY pref_home_updates_wifi "mä Wi-Fi">
-<!ENTITY pref_category_home_homepage "Loo mtete">
+<!ENTITY pref_category_home_homepage "Lìz (leNtyeN)">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_title "Tob loo">
+<!ENTITY home_homepage_every_new_tab "Lí ché lenɁ ré-tá lô (lawo)">
+<!ENTITY home_homepage_title "M-tòb lìz (leNtyeN) lú">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Mtete &brandShortName;">
+<!ENTITY home_homepage_radio_default "Lìz (leNtyeN) ná &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -253,7 +254,7 @@
 
 <!ENTITY pref_category_data_saver "Lo xhog">
 <!ENTITY pref_category_media "Moón">
-<!ENTITY pref_category_developer_tools "Thus kuey">
+<!ENTITY pref_category_developer_tools "Tùš kùe Yíʔb (kiʔkwa)">
 
 <!ENTITY pref_tap_to_load_images_title2 "Loo mbol">
 <!ENTITY pref_tap_to_load_images_enabled "Reeta">
@@ -301,12 +302,12 @@
 
 <!ENTITY tab_queue_toast_message3 "Mblo xhog na &brandShortName;">
 <!ENTITY tab_queue_toast_action "Mb-šàlɁ=lá nál">
-<!ENTITY tab_queue_prompt_title "¿Mb-šàlɁ plo loo kub?">
+<!ENTITY tab_queue_prompt_title "¿Mb-šàlɁ plo nêt (n̆eza)?">
 <!ENTITY tab_queue_prompt_text4 "mb-lòɁ sóg gá nerta &brandShortName;.">
 <!ENTITY tab_queue_prompt_tip_text2 "Tak xél kue lent thus kue">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Bla tak mkey ray lo re yib">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Bla tak mkey ray lo re yíʔb">
 <!ENTITY tab_queue_prompt_positive_action_button "Toob kiy">
 <!ENTITY tab_queue_prompt_negative_action_button "Nal yenta">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -320,11 +321,11 @@
 <!ENTITY tab_queue_notification_text_plural2 "Debet loo &formatD;">
 <!-- Localization note (tab_queue_notification_text_singular2) : This is the
      text of a notification; we expect only one tab queued. -->
-<!ENTITY tab_queue_notification_text_singular2 "1 loo yib debet">
+<!ENTITY tab_queue_notification_text_singular2 "1 lô (lawo) yíʔb debet">
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
 
-<!ENTITY tab_queue_notification_settings "This lash lú xal plo \&quot;loo kub\&quot;, nakin tob kí \&quot;mke mbol lo yib\&quot; loo &brandShortName;">
+<!ENTITY tab_queue_notification_settings "This lash lú xal plo \&quot;nêt (n̆eza)\&quot;, nakin tob kí \&quot;mke mbol lô yíʔb\&quot; loo &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -369,9 +370,9 @@
 <!ENTITY pref_zoom_force_enabled "Blá kí ko naru">
 <!ENTITY pref_zoom_force_enabled_summary "Na lit lu mach loo re">
 <!ENTITY pref_voice_input "Gú dizh">
-<!ENTITY pref_voice_input_summary2 "Lá tak te dizh loo yib">
+<!ENTITY pref_voice_input_summary2 "Lá tak te dizh lô yíʔb">
 <!ENTITY pref_qrcode_enabled "Ko lab QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Lá yib lb QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Lá yíʔb lb QR">
 
 <!ENTITY pref_use_master_password "Lí che dizh gósh">
 <!ENTITY pref_sync2 "-taɁ lélù lèɁn">
@@ -404,7 +405,7 @@
 <!ENTITY pref_dialog_default "Xá bruy">
 <!ENTITY pref_dialog_remove "Kib">
 
-<!ENTITY pref_search_last_toast "Gadt te dont lú yib ko kwàɁn">
+<!ENTITY pref_search_last_toast "Gadt te dont lú yíʔb ko kwàɁn">
 
 <!ENTITY pref_panels_show "Loy">
 <!ENTITY pref_panels_hide "Tog ga">
@@ -464,10 +465,10 @@
 <!ENTITY find_in_page "KwàɁn thíb yêts">
 <!ENTITY desktop_mode "Náb mtób xán">
 <!ENTITY page "Loo">
-<!ENTITY tools "Yíb">
+<!ENTITY tools "Yíʔb (kiʔkwa)">
 <!ENTITY new_tab "Mb-šàlɁ lô (lawo)">
 <!ENTITY new_private_tab "Mb-šàlɁ lô (lawo) kúb">
-<!ENTITY close_all_tabs "TòɁw ré tá lô (lawo)">
+<!ENTITY close_all_tabs "TòɁw ré-tá lô (lawo)">
 <!ENTITY close_private_tabs "TòɁw lô (lawo)">
 <!ENTITY tabs_normal "Lô (lawo)">
 <!ENTITY tabs_private "Yent cho güi">
@@ -480,11 +481,11 @@
 <!ENTITY find_text "KwàɁn thíb yêts">
 <!ENTITY find_prev "Veré">
 <!ENTITY find_next "Te ner ra">
-<!ENTITY find_close "TòɁw">
+<!ENTITY find_close "TòɁw (tth-aɁw)">
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 
-<!ENTITY media_sending_to "M-tàl=là loo thîb yíb">
+<!ENTITY media_sending_to "M-tàl=là lô thîb yíʔb">
 <!ENTITY media_play "Toob kíy">
 <!ENTITY media_pause "Bleet ah">
 <!ENTITY media_stop "Ngót~tòɁ=b">
@@ -492,8 +493,8 @@
 <!ENTITY contextmenu_open_new_tab "Mb-šàlɁ lô (lawo) kúb">
 <!ENTITY contextmenu_open_private_tab "Mb-šàlɁ lô (lawo) kúb">
 <!ENTITY contextmenu_remove "Kib">
-<!ENTITY contextmenu_add_to_launcher "Tob kue loo mtete">
-
+<!ENTITY contextmenu_add_to_launcher "M-tòb lô yíʔb ná lú">
+<!ENTITY contextmenu_set_as_homepage "M-tòb lìz (leNtyeN) lú">
 <!ENTITY contextmenu_share "Tă~làz">
 <!ENTITY contextmenu_pasteandgo "Mkey ner mtal l">
 <!ENTITY contextmenu_paste "Mkey">
@@ -522,15 +523,15 @@
      whether or not the magnifying glass is disabled. -->
 
 <!ENTITY pref_magnifying_glass_enabled "Besta nie loo lut">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Lí mach dó ner ró this gash lú tree">
+<!ENTITY pref_magnifying_glass_enabled_summary2 "Lí mach nêt (n̆eza) ner ró this gash lú tree">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Loy loo narú">
-<!ENTITY pref_scroll_title_bar_summary2 "Loo xhog yib ná &brandShortName; this dál láa">
+<!ENTITY pref_scroll_title_bar_summary2 "Lô xhog yíʔb ná &brandShortName; this dál láa">
 
 <!ENTITY pref_tab_queue_title3 "Lô (lawo) de-bet">
-<!ENTITY pref_tab_queue_summary4 "mb-lòɁ sóg dó lenɁ &brandShortName;">
+<!ENTITY pref_tab_queue_summary4 "mb-lòɁ sóg nêt (n̆eza) leɁn &brandShortName;">
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
@@ -578,12 +579,12 @@
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
 
-<!ENTITY home_title "Lis &brandShortName;">
+<!ENTITY home_title "Lìz (leNtyeN) ná &brandShortName;">
 <!ENTITY home_history_title "Lô góš">
-<!ENTITY home_synced_devices_smartfolder "Yib Sync">
-<!ENTITY home_synced_devices_number "&formatD; yib">
+<!ENTITY home_synced_devices_smartfolder "Yíʔb na Sync">
+<!ENTITY home_synced_devices_number "&formatD; yíʔb">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "1 yib">
+<!ENTITY home_synced_devices_one "1 yíʔb">
 <!ENTITY home_history_back_to2 "Bìrè lô góš">
 <!ENTITY home_clear_history_button "Tób bí lô góš">
 <!ENTITY home_clear_history_confirm "¿Lash lu te dont lú ko güil?">
@@ -611,13 +612,13 @@
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
 
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ná loot yib ">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; ná lôt yíʔb ">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Yib ná loot">
+<!ENTITY home_remote_tabs_hidden_devices_title "Ná lôt yíʔb">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Na lót yib génul">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Na lôt yíʔb génul">
 
 <!ENTITY remote_tabs_panel_moved_title "¿Pa dá ko güín?">
 <!ENTITY remote_tabs_panel_moved_desc "Mtal nó re yets na gó loo yib kub xá tak güi goóy tilta.">
@@ -710,7 +711,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "La áy">
 <!-- Guest mode -->    
 
-<!ENTITY new_guest_session "Men kub mxhín">
+<!ENTITY new_guest_session "Men kûb mxhín">
 <!ENTITY exit_guest_session "Mb-ròɁ">
 <!ENTITY guest_session_dialog_continue "Gua">
 <!ENTITY guest_session_dialog_cancel "B-láɁ=y">
@@ -817,9 +818,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      are used for a system notification that's shown to users after the app updates. -->
 
 <!ENTITY whatsnew_notification_title "&brandShortName; deyak kub">
-<!ENTITY whatsnew_notification_summary "KwàɁn kó kúb">
+<!ENTITY whatsnew_notification_summary "KwàɁn kó kûb (kkoykwi)">
 
-<!ENTITY promotion_add_to_homescreen "M-tòb lo ko mtete">
+<!ENTITY promotion_add_to_homescreen "M-tòb lô yíʔb">
 
 <!ENTITY helper_first_offline_bookmark_title "Lab na yu ya">
 <!ENTITY helper_first_offline_bookmark_message "Güi lo Reader View lent ko do lash lú, tak lí lí this yent sní.">
