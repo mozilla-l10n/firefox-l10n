@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Tobeletsa ka fa mojeng kgotsa gogela fa tlase go supa tiragalo tsedi fetileng">
 <!ENTITY backForwardButtonMenuMac.tooltip "Gogela fa tlase go supa tiragalo tsedi fetileng">
 <!ENTITY reloadCmd.label              "Tsenya sešwa">
-<!ENTITY reloadButton.tooltip         "Tsenya sešwa tsebe ya ga jaana">
 <!ENTITY stopCmd.label                "Emisa">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Emisa go tsenya tsebe e">
 <!ENTITY goEndCap.tooltip             "Ya ko atereseng e mo Bara ya lefelo">
 <!ENTITY printButton.label            "Gatisa">
 <!ENTITY printButton.tooltip          "Gatisa tsebe eno">
@@ -214,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Fetola gore a o kgona go amogela dikitsiso gotsweng mo saeteng">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Laola kabelano ya sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Laola kabelano ya sekapa-mantswe sa gago le saete">
@@ -229,11 +228,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bontsha motlhala wa tsedifitileng">
 
-
 <!ENTITY searchItem.title             "Batla">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Gae">
 
@@ -367,6 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the account. We also show links to download Firefox for android/ios. -->
 
 <!ENTITY appMenuRemoteTabs.openprefs.label "Thulaganya ka tsamaisano ya Dikgethwa">
+
 
 
 
@@ -769,6 +769,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Rulaganya ka tsamaisano">
 
 
@@ -880,3 +882,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ithute thata ka DRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

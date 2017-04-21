@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Mefutatlhaka le Mebala">
 
-<!ENTITY  defaultFont.label           "Mofutatlhaka o Rulaganyeditsweng ruri:">
-<!ENTITY  defaultFont.accesskey       "M">
-<!ENTITY  defaultSize.label           "Bogolo:">
-<!ENTITY  defaultSize.accesskey       "B">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Maemogadi...">
 <!ENTITY  advancedFonts.accesskey     "M">
