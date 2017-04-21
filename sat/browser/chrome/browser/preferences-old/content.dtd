@@ -6,6 +6,15 @@
 
 <!ENTITY  blockPopups.label           "पॉप-ऑप विंडो आकोट मे  (B)">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "बादाक् को…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
@@ -42,3 +51,7 @@
 
 <!ENTITY translation.options.attribution.beforeLogo "दाराय ते तोरजोमा">
 <!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+

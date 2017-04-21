@@ -8,12 +8,13 @@
 
 <!ENTITY aboutWarningTitle.label "नोवा ते आमाक् जोबोद एकेनाक् दाड़ेयाक् आ!">
 <!ENTITY aboutWarningText.label "नोवा को लाहावाक् साजाव को बोदोल तिंगू थिर, जा़पती, आर नोवा आरजी साकाम हुय होचो ला़गित् बोतोरानाक् हुय दाड़ेयाक् आ. आम एकेन लेताड़ ला़कती जुदी आम गोटा ठिक आकात् आ चेत् आमेम चेकायेत् आ.">
-<!ENTITY aboutWarningButton.label "इञ होंसिया़र इञ ताहेंना, इञ काथाञ गोगेया!">
+
 <!ENTITY aboutWarningCheckbox.label "नोवा होंसिया़र दाराय ओकतो उदुग मे">
 
 <!ENTITY searchPrefs.label "पानते: (r)">
 <!ENTITY searchPrefs.accesskey "r">
-<!ENTITY focusSearch.key "r">
+
+
 <!-- Columns -->
 
 <!ENTITY prefColumn.label "कुसियाक् ञुतुम">

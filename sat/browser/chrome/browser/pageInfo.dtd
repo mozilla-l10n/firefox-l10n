@@ -3,18 +3,18 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  pageInfoWindow.width  "600">
-<!ENTITY  pageInfoWindow.height "500">
 
-<!ENTITY  copy.key              "C">
+
 <!ENTITY  copy.label            "नोकोल (C)">
 <!ENTITY  copy.accesskey        "C">
-<!ENTITY  selectall.key         "A">
+
 <!ENTITY  selectall.label       "जोतो बाछाव  (A)">
 <!ENTITY  selectall.accesskey   "A">
-<!ENTITY  closeWindow.key       "w">
+
 
 <!ENTITY  generalTab            "साधारोन">
 <!ENTITY  generalTab.accesskey  "G">
+
 <!ENTITY  generalURL            "ठिका़ना:">
 <!ENTITY  generalType           "लेकाना:">
 <!ENTITY  generalMode           "एम ओबोसता:">
@@ -22,7 +22,7 @@
 <!ENTITY  generalReferrer       "ठेनकुल URL:">
 <!ENTITY  generalSource         "साब सोत:">
 <!ENTITY  generalModified       "बोदोल होचोवाक्:">
-<!ENTITY  generalEncoding       "एनकोडिन:">
+
 <!ENTITY  generalMetaName       "ञुतुम">
 <!ENTITY  generalMetaContent    "बिसोय">
 
@@ -39,7 +39,7 @@
 <!ENTITY  mediaLongdesc         "जिलिञ विबरोन:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "लेका सांचाव…">
-<!ENTITY  mediaSaveAs.accesskey "A">
+
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "माड़ाङ तेयाक् ञेल:">
 
@@ -59,7 +59,7 @@
 <!ENTITY  permPlugins           "चोगोड़ खोंजा आदेर">
 
 <!ENTITY  permClearStorage           "जोगाव फारचाय मे.">
-<!ENTITY  permClearStorage.accesskey "C">
+
 
 <!ENTITY  securityTab           " जा़पती">
 <!ENTITY  securityTab.accesskey "S">
@@ -73,13 +73,15 @@
 <!ENTITY  securityView.identity.domain   "वेब साइट:">
 <!ENTITY  securityView.identity.verifier "दाराय ते ञेल मिला़व:">
 
-<!ENTITY  securityView.privacy.header                   "निजेर हिता़ल ( H) ">
+<!ENTITY  securityView.privacy.header                   "निजेर हिता़ल (&amp; H) ">
 <!ENTITY  securityView.privacy.history                  "चेत् इञ नोवा वेब साइट तेहेञ खोन माड़ाङ ञेल आकात् आ ?">
 <!ENTITY  securityView.privacy.cookies                  "चेत् नोवा वेबसाइट इञाक् काम्प्युटार रे ला़य सोदोर  (कुकी को ) जोगावेत् आ ?">
 <!ENTITY  securityView.privacy.viewCookies              "कुकी को ञेल मे.">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "चेत् इञ नोवा वेब साइट ला़गित् जाहान दानाङ साबाद सांचाव आकाना ?">
 <!ENTITY  securityView.privacy.viewPasswords            "सांचाव दानाङ साबाद को ञेल मे.">
-<!ENTITY  securityView.privacy.viewPasswords.accessKey  "w">
+
 
 <!ENTITY  securityView.technical.header                 "टेकनिकाल पुरा़ बिबरोन को.">
+
+<!ENTITY  helpButton.label                              "गोड़ो">

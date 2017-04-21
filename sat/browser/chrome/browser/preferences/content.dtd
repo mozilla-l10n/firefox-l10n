@@ -6,15 +6,23 @@
 
 <!ENTITY  blockPopups.label           "पॉप-ऑप विंडो आकोट मे  (B)">
 <!ENTITY  blockPopups.accesskey       "B">
+
+
+
+
+
+
+
+
+
 <!ENTITY  popupExceptions.label       "बादाक् को…">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "फॉन्ट आर रोङ को">
 
-<!ENTITY  defaultFont.label           "हुड़ाक् फॉन्ट:  (D)">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "माराङ तेत्:  (S)">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "लाहावाक् … (A)">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -42,3 +50,7 @@
 
 <!ENTITY translation.options.attribution.beforeLogo "दाराय ते तोरजोमा">
 <!ENTITY translation.options.attribution.afterLogo "">
+
+
+
+

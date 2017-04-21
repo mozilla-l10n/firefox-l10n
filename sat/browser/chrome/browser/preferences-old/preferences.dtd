@@ -15,15 +15,15 @@
 
 <!ENTITY  paneGeneral.title       "साधारोन">
 <!ENTITY  paneTabs.title          "टेब को">
+
 <!ENTITY  paneContent.title       "बिसोय">
 <!ENTITY  paneApplications.title  "एपलिकेसोन को">
 <!ENTITY  panePrivacy.title       "निजेराक् दानाङ">
+
 <!ENTITY  paneSecurity.title      " जा़पती">
 <!ENTITY  paneAdvanced.title      "लाहावाक्">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync.title          "बोरनोन">
-<!ENTITY  buttonForward.tooltip   "मित् साहटा लाहा चालाक् मे">
-<!ENTITY  buttonBack.tooltip      "मित् साहटा तायोम चालाक् मे">
 
 <!ENTITY  helpButton.label        "गोड़ो">

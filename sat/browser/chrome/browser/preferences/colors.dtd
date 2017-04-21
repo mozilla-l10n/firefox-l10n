@@ -6,8 +6,11 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  allowPagesToUse.label           "साहटा को आजाक् निजेर रोङ  ला़गित् बाताव एम, इञाक् नोवा बाछावाक् बादाल ते (A)  .">
-<!ENTITY  allowPagesToUse.accesskey       "A">
+
+
+<!ENTITY  overrideDefaultPageColors.always.label "जावगे">
+
+<!ENTITY  overrideDefaultPageColors.never.label  "तिसहों बाङ">
 
 <!ENTITY  color                           "ओनोल आर ओनोड़ को">
 <!ENTITY  textColor.label                 "ओनोल (T) :">

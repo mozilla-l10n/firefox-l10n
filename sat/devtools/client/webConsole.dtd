@@ -10,34 +10,11 @@
 
 <!ENTITY window.title "वेब हुदिस ">
 <!ENTITY browserConsole.title "ब्राउजार हुदिस ">
-
-<!ENTITY networkPanel.requestURLColon             " URL नेहोर">
-<!ENTITY networkPanel.requestMethodColon          " नेहोर नियोम">
-<!ENTITY networkPanel.statusCodeColon             " दोसा कोड">
-
-<!ENTITY networkPanel.requestHeaders              "चेतान ञुतुम को  नेहोर">
-<!ENTITY networkPanel.requestCookie               "कुकी कुलेना">
-<!ENTITY networkPanel.requestBody                 "होड़मो नेहोर">
-<!ENTITY networkPanel.requestFormData             "डाटा खोन कुलेना">
-
-<!ENTITY networkPanel.responseHeaders             "चेतान ञुतुम को रोड़ रुवा़ड़">
-<!ENTITY networkPanel.responseCookie              "ञामाक् कुकी ">
-<!ENTITY networkPanel.responseBody                "होड़मो रोड़ रुवा़ड़">
-<!ENTITY networkPanel.responseBodyCached          "साबाक् डाटा">
-<!ENTITY networkPanel.responseBodyUnknownType     "बाङ बाडाय बिसोय लेकान">
-<!ENTITY networkPanel.responseNoBody              "जाहान होड़मो रोड़ रुवा़ड़ बाङ">
-<!ENTITY networkPanel.responseImage               "ञामाक् चिता़र">
-<!ENTITY networkPanel.responseImageCached         "साबाक् चिता़र">
-<!-- LOCALIZATION NOTE (saveBodies.label): You can see this string in the Web
-   - Console context menu. -->
-
-<!ENTITY saveBodies.label     "लॉग ञेहोर आर रोड़रुवा़ड़ होड़मो को .">
-<!ENTITY saveBodies.accesskey "ल">
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
 
-<!ENTITY openURL.label     "नावा  टेब रे  URL झिज मे ">
-<!ENTITY openURL.accesskey " ">
+<!ENTITY openURL.label     "नावा &amp; टेब रे  URL झिज मे ">
+<!ENTITY openURL.accesskey "T">
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
@@ -68,17 +45,33 @@
 
 <!ENTITY btnPageLogging.label   "लॉगिंन">
 <!ENTITY btnPageLogging.tooltip "निंडो रे लॉग खोबोर को कुल एना . हुदिस जिनिस .">
-<!ENTITY btnPageLogging.accesskey3 "L">
-<!ENTITY btnConsoleErrors       "भुल">
-<!ENTITY btnConsoleInfo         "ला़य सोदोर ">
-<!ENTITY btnConsoleWarnings     "हुंसियार को ">
-<!ENTITY btnConsoleLog          "लॉग">
+
+
+
+
+
+<!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "दोहड़ा लिंगी ">
+<!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
+  -  the toolbar. It shows or hides messages that the web developer inserted on
+  -  the page for debugging purposes, using calls on the HTTP server. -->
+
+
+
+
+
+
+<!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
+  -  should not be translated. -->
+<!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
+  -  should not be translated. -->
 
 <!ENTITY filterOutput.placeholder "छा़नी ओडोक तेत् .">
-<!ENTITY btnClear.label        " फारचा">
+<!ENTITY btnClear.label        "&amp; फारचा">
 <!ENTITY btnClear.tooltip      "वेब हुदिस बाहरे ओडोक फारचाय मे   .">
-<!ENTITY btnClear.accesskey    " ">
+<!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
@@ -91,9 +84,13 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "खोंजा ठांव नोकोल मे ( )">
-<!ENTITY copyURLCmd.accesskey " ">
+<!ENTITY copyURLCmd.label     "खोंजा ठांव नोकोल मे (&amp; )">
+<!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
-<!ENTITY clearOutputCtrl.key  "L">
+
+
+
+
+

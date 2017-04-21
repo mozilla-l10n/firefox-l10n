@@ -5,13 +5,10 @@
   - The Remote Connection window can reached from the "connect…" menuitem
   - in the Web Developer menu.
   - -->
-
-
-<!ENTITY title      "जोनोड़ाव …(e)">
 <!ENTITY header     "सांगिञ डिवाइस रे  जोड़ाव .">
 <!ENTITY host       "हुय होचोयिच्:">
 <!ENTITY port       "पोर्ट :">
-<!ENTITY connect    "जोनोड़ाव …(e)">
+
 <!ENTITY connecting "जोड़ावेत् आ…">
 <!ENTITY availableAddons "सांगिञ एड-ऑन ञामोक् आ :">
 <!ENTITY availableTabs "सांगिञ टेब ञामोक् आ :">

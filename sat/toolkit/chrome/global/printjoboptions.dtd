@@ -9,15 +9,6 @@
 <!ENTITY paperInput.label "कागोज माराङ तेत्:(P)">
 <!ENTITY paperInput.accesskey "P">
 
-<!ENTITY plexInput.label "पालोग ओबसता:(m)">
-<!ENTITY plexInput.accesskey "m">
-
-<!ENTITY resolutionInput.label "निसटा़/गुनतेत्: (e)">
-<!ENTITY resolutionInput.accesskey "e">
-
-<!ENTITY cmdInput.label " छापा  कोमांड(o)">
-<!ENTITY cmdInput.accesskey "o">
-
 <!ENTITY jobTitleInput.label " का़मी ञुतुम :(J)">
 <!ENTITY jobTitleInput.accesskey "J">
 
@@ -26,13 +17,6 @@
 <!ENTITY grayRadio.accesskey "G">
 <!ENTITY colorRadio.label "रोङ (C)">
 <!ENTITY colorRadio.accesskey "C">
-
-<!ENTITY colorspaceInput.label "रोंङ फांक: (s)">
-<!ENTITY colorspaceInput.accesskey "s">
-
-<!ENTITY fontsGroup.label "फॉन्ट को :">
-<!ENTITY downloadFonts.label "आतुर आंड़गो चिकी खोन छापावाक्? (D)">
-<!ENTITY downloadFonts.accesskey "D">
 
 <!ENTITY edgeMarginInput.label " कागोज रेयाक्  धारे खोन साहटा  धारे  फांक ">
 <!ENTITY topInput.label "चेतान (T)">

@@ -19,6 +19,8 @@
 <!ENTITY fileNotFound.title "रेत् बाय ञाम लेना.">
 <!ENTITY fileNotFound.longDesc "<ul><li>चेत् जिनिस ञुतुम दोहड़ा दाड़ेयाक् आ , ओचो, आर बाङ दोहड़ा जायगा ठिक होचो?</li><li  >चेत् नोड़े जाहान आखोर बानान, माराङ आखोर आर बाङ एटगाक् चिता़र ओल भुल ठिका़ना रे मेनाक् आ ?</li><li> चेत् आमाक् नेहोर जिनिस रे ढेर आ़तुर आदेर छा़ड मेनाक् आ?</li></ul>">
 
+
+
 <!ENTITY generic.title "नेहोर बाङ पुरा़व दाड़ेयाक् ">
 <!ENTITY generic.longDesc "<p>नोवा दिगधा़ आर बाङ एड़े बाबोत् ते बाड़तियाक् ला़य सोदोर नितोक् बाय ञामोक् आ.</p>">
 
@@ -38,9 +40,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>आम ञेल ला़गित् एम कुरुमुटुयेत् साहटा बाङ उदुक् दाड़ेयाक् आ चेदाक् जे ओना ओता रेयाक् बाङ बातावाक् आर बाङ गोड़ोवाक् तेयार ए बेभारेक् आ .</p><ul><li> वेब साइट मा़लिक सोमपोक एम नोवा दिगधा  उनी ला़य ला़गित् ते .</li></ul>">
 
 <!ENTITY unsafeContentType.title "बाङ सोनेसोद रेत् लेकान ">
-<!ENTITY unsafeContentType.longDesc "<ul> 
-<li>नोवा दिगधा़ उनकु ला़य सोदोर ला़गित्  वेब साइट मा़लिक को सोमपोक कोम. .</li> 
-</ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>नोवा दिगधा़ उनकु ला़य सोदोर ला़गित्  वेब साइट मा़लिक को सोमपोक कोम. .</li> </ul>">
 
 <!ENTITY netReset.title "जोनोड़ाव आकोट आकाना.">
 <!ENTITY netReset.longDesc "<p>जोनोड़ाव ढेर कोम जोहोक् नेटवार्क खोंजा आकोट आकाना.  दाया काते दोहडा कुरुमुटुय मे.</p>">
@@ -67,31 +67,18 @@
 <!ENTITY nssFailure2.longDesc2 "<p>साहटा आम ञेल रेयाक् एम कुरुमुटुयेत् आ बाङ उदुक् दाड़ेयाक् आ चेदाक् जे ञाम डाटा रेयाक् पोरमानतेत् बाङ ञेल मिला़व दाड़ेयाक् आ.</p><ul><li> वेब साइट रिन मा़लिक सांव सोमपोक काते उनकू नोवा दिगधा़ उनकू ला़य सोदोराको मे.</li></ul>">
 
 <!ENTITY nssBadCert.title "जा़पती जोनोड़ाव डिगा़वाकाना">
-<!ENTITY nssBadCert.longDesc2 "<ul> 
-<li>नोवा सार्बार रेयाक् भितिर तेयार सांव मित् दिगधा़ होड़ दाड़ेयाक् आ, आर बाङ नोवा मित् होड़ जाहांय एटाक् होड़ाक् सार्बार नोकोल ला़गित् कुरुमुटुया .</li> 
-<li>जुदी आम पारोमाक्  रा़स लेकाते जोड़ावा, भुल दो सुयदोमाक् लेका हुयुक आ आर आम तायोम ते दोहड़ा कुरुमुटु दाड़ेयाक् आ  </li> 
-</ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>नोवा सार्बार रेयाक् भितिर तेयार सांव मित् दिगधा़ होड़ दाड़ेयाक् आ, आर बाङ नोवा मित् होड़ जाहांय एटाक् होड़ाक् सार्बार नोकोल ला़गित् कुरुमुटुया .</li> <li>जुदी आम पारोमाक्  रा़स लेकाते जोड़ावा, भुल दो सुयदोमाक् लेका हुयुक आ आर आम तायोम ते दोहड़ा कुरुमुटु दाड़ेयाक् आ  </li> </ul>">
 
-<!ENTITY malwareBlocked.title "दिगिज मुहा़ं साइट !">
-<!ENTITY malwareBlocked.longDesc "<p> मुहां साइट प्रोग्राम बोहाल ला़गित् कुरुमुटु ओका निजेर ला़य सोदोर कुरुमुटु, एटाक् को मुंहा़ ला़गित् आमाक् काम्प्युटार बेभारा आर बाङ आमाक् सेस्टेम रा़पुदा </p> 
-<p> वेब साइट मा़लिक को ओकोय आजाक् साइट पा़तया़वाक् आ भुल रे मित् मुहां साइट लेका रिपोर्ट होचो आकाना  <a href='http://www.stopbadware.org/home/reviewinfo' >ञेल दोहड़ा </a>.</p>">
 
-<!ENTITY phishingBlocked.title "दिगिज वेब कुम्बड़ु !">
-<!ENTITY phishingBlocked.longDesc "<p>नोवा साहटा रे जाहां गे निजेराक् ला़य सोदोर आदेर ते चिनहा़ कुम्बड़ु आक बाङ एटाक् एड़े हुय दाड़ेयाक् आर बाङ एटाक् एड़ हुय दाड़ेयाक् आ .</p> 
-<p>नोवा लेकान वेब कुम्बड़ु को दो एड़े रे बेभारा ओका दो फिसिंग मुहां लेका ते बाडायोक् आ, ओका रे ओड़ेयाक् वेब साइटा को आर इमेल को आमेम पा़तया़वाक् सोत नोकोल ला़गित् बेभार दाड़ेयाक् आ .</p>">
 
-<!ENTITY cspFrameAncestorBlocked.title "Blocked by Content Security Policy">
-<!ENTITY cspFrameAncestorBlocked.longDesc "<p>The browser prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
+<!ENTITY cspBlocked.title "जा़पती नीति दाराय ते आकोट आकाना">
+<!ENTITY cspBlocked.longDesc "<p>पानतेयाक् नोवा लेकाते लादे खोन नोवा साहटा आकोट आकात् आ चेदाक् जे साहटा रे विसोय जा़पती नीति मेनाक् आ ओका नोवा बाताव बाय एमागाक् आ .</p>">
 
-<!ENTITY corruptedContentError.title "रा़पुदाक् विसोय भुल ">
-<!ENTITY corruptedContentError.longDesc "<p>साहटा आम ञेल रेयाक् एम कुरुमुटु येत् आ बाय ञेल दाड़ेयाक् आ चेदाक् जे डाटा बोदोल रे मित् भुल पानते ञाम लेन ताहेना, .</p><ul><li> आम वेब साइट मालिक को सोमपोक काते उनकु नोवा दिगदा ला़य उदुक् आको मे .</li></ul>">
+<!ENTITY corruptedContentErrorv2.title "रा़पुदाक् विसोय भुल ">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>साहटा आम ञेल रेयाक् एम कुरुमुटु येत् आ बाय ञेल दाड़ेयाक् आ चेदाक् जे डाटा बोदोल रे मित् भुल पानते ञाम लेन ताहेना, .</p><ul><li> आम वेब साइट मालिक को सोमपोक काते उनकु नोवा दिगदा ला़य उदुक् आको मे .</li></ul>">
 
 <!ENTITY remoteXUL.title "सांगिञ रेयाक्  XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>नोवा दिगधा़ को बाबोत उनकु ला़य सोदोर ला़गित् वेबसाइट मा़लिक को सोमपोक कोम  .</li></ul></p>">
-<!-- Include app-specific error messages - do not change this in localization!
-     Some applications might override netErrorApp.dtd with their specific version,
-     this inclusion needs to be intact for that approach to work correctly.
-     Please, try to keep this at the end of the file. -->
 
-<!ENTITY % netErrorAppDTD SYSTEM "chrome://global/locale/netErrorApp.dtd">
-%netErrorAppDTD;
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->

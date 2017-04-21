@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "तिन रे &brandShortName; एहोबोक् आ:  (s)">
 <!ENTITY startupPage.accesskey     "s">
-<!ENTITY startupHomePage.label     "इञाक्  ओड़ाक् साहटा उदुग मे">
+
 <!ENTITY startupBlankPage.label    "मित् एकेनाक् साहटा उदुग मे">
-<!ENTITY startupLastSession.label  "मुचा़त् ओकतो खोन इञाक् विंडो आर टेब को उदुग मे">
+
 
 <!ENTITY homepage.label            "ओड़ाक् साहटा:  (P)">
 <!ENTITY homepage.accesskey        "P">
@@ -28,13 +28,16 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "बाछाव मे…   (e)">
 <!ENTITY chooseFolderMac.accesskey    "e">
-<!ENTITY alwaysAsk.label "ओकारे रेत् को सांचावा जावगे कुली इञ मे   (A)">
-<!ENTITY alwaysAsk.accesskey "A">
 
-<!ENTITY alwaysCheckDefault.label         "Always check to see if &brandShortName; is the default browser on startup">
-<!ENTITY alwaysCheckDefault2.accesskey    "w">
-<!ENTITY setAsMyDefaultBrowser.label      "Make &brandShortName; My Default Browser">
-<!ENTITY setAsMyDefaultBrowser.accesskey  "D">
+
+
+
+
+
 <!ENTITY isDefault.label                  "&brandShortName; दो नितोक् आमाक हुड़ाक् पानते काना ">
 <!ENTITY isNotDefault.label               "&brandShortName;दो  आमाक् हुड़ा़क् ब्राउजार  बाङ काना">
+
+
+
+
 

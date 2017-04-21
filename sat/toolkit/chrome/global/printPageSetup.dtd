@@ -6,7 +6,7 @@
 
 <!ENTITY printSetup.title    "साहटा साजाव">
 
-<!ENTITY basic.tab           "तेयार आपनार मोने तेयाक् ( O) .">
+<!ENTITY basic.tab           "तेयार आपनार मोने तेयाक् ( &amp;O) .">
 
 <!ENTITY formatGroup.label   "तेयार">
 
@@ -28,7 +28,7 @@
 <!ENTITY printBG.label       "छापा ओनोड़  (रोङ चिता़र को  )  B">
 <!ENTITY printBG.accesskey   "B">
 
-<!ENTITY advanced.tab        "साहटा सिमा़ साहटा चेतान/ साहटा लातार ( H )">
+<!ENTITY advanced.tab        "साहटा सिमा़ साहटा चेतान/ साहटा लातार (&amp; H )">
 
 <!ENTITY marginGroup.label   "साहटा सिमा़  को (#1)">
 <!ENTITY marginUnits.inches  "इंच को">
@@ -42,7 +42,7 @@
 <!ENTITY marginRight.label   "जोजोम: (R)">
 <!ENTITY marginRight.accesskey "R">
 
-<!ENTITY headerFooter.label  "साहटा चेतान साहटालातार को (  F) ">
+<!ENTITY headerFooter.label  "साहटा चेतान साहटालातार को ( &amp; F) ">
 
 <!ENTITY hfLeft.label        "लेंगा:">
 <!ENTITY hfCenter.label      "ताला:">

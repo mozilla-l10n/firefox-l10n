@@ -29,7 +29,7 @@
 <!ENTITY  font.langGroup.simpl-chinese            "आलगावाक् चीनी">
 <!ENTITY  font.langGroup.trad-chinese-hk          "आ़री चा़ली लेकान चिन रेयाक् (हांग कांग)">
 <!ENTITY  font.langGroup.korean                   "कोरिया रेयाक्">
-<!ENTITY  font.langGroup.cyrillic                 "Cyrillic">
+
 <!ENTITY  font.langGroup.el                       "ग्रीक">
 <!ENTITY  font.langGroup.other                    "एटाक् ओल सेसटेम को">
 <!ENTITY  font.langGroup.thai                     "थाई">
@@ -46,7 +46,8 @@
 <!ENTITY  font.langGroup.gurmukhi                 "गुरुमुखी ">
 <!ENTITY  font.langGroup.khmer                    "ख्मेर">
 <!ENTITY  font.langGroup.malayalam                "मालयालोम">
-<!ENTITY  font.langGroup.oriya                    "ओड़िया">
+
+
 <!ENTITY  font.langGroup.telugu                   "तेलुगु">
 <!ENTITY  font.langGroup.kannada                  "कन्नड़">
 <!ENTITY  font.langGroup.sinhala                  "सिनहाला">
@@ -60,13 +61,11 @@
 <!ENTITY  useDefaultFontSerif.label               "सेरिफ">
 <!ENTITY  useDefaultFontSansSerif.label           "सान्स सेरिफ">
 
-<!ENTITY  allowPagesToUse.label                   "आजाक् निजे फॉन्ट को बाछाव ला़गित् साहटा को बाताव एम, इञाक् नोवा बाछाव बादाल ते  (A)">
-<!ENTITY  allowPagesToUse.accesskey               "A">
 
-<!ENTITY languages.customize.Fallback.grouplabel  "कुड़ा़य ञाम बिसोय बाबोत् ला़गित् आखोर इनकोडिंग">
-<!ENTITY languages.customize.Fallback.label       "ञुर रुवा़ड़ आखोर इनकोडिंग:">
-<!ENTITY languages.customize.Fallback.accesskey   "C">
-<!ENTITY languages.customize.Fallback.desc        "नोवा आखोर इनकोडिंग दो कुड़ा़य ञाम बिसोय ला़गित् बेभारा ओका आजाक् इनकोडिंग उदुक् सोदोर ला़गित् डिगाक् आ.">
+
+
+
+
 
 <!ENTITY languages.customize.Fallback.auto        "नितोक् नोडेनाक् ला़गित् हुड़ा़क्">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
@@ -81,7 +80,7 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "चीन रेयाक्, आ़री चाली लेकान">
-<!ENTITY languages.customize.Fallback.cyrillic    "Cyrillic">
+
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.greek       "ग्रीक">

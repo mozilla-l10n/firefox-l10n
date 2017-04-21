@@ -21,7 +21,7 @@
 
 <!ENTITY rights.intro-point2-a "आम फायारफॉक्स ञुतुम आर बाङ लोगो सिमा़ बेगोर सा़मिल ते जाहां गे छापा चिनहा़ं होक आर बाङ मोजिला फाउन्डेसोन आर बाङ जाहांय दोल रेयाक् छाप चिनहा़ं ला़गित् लाइसेंस बाय बातावा.छाप चिनहा़ं रे सेलेदोगाक् ला़य सोदोर ञाम दाड़ेयाक् आ">
 <!ENTITY rights.intro-point2-b "नोडे">
-<!ENTITY rights.intro-point2-c ".">
+
 <!-- point 2.5 text for official branded builds -->
 
 <!ENTITY rights.intro-point2.5 "&brandFullName; रे तिना़क् गान बा़डगाक् को;, जे लेका रा़पुत् रिपोर्ट एमोगिच्, आम &vendorShortName; ला़गित् आपनार मोने तेयाक् फिडबेक ए एमामा;. आम आमाक् बिचा़र जोमा ला़गित् बाछाव काते एम मे आर &vendorShortName; रेयाक् बेभार ला़गित् आमाक् तेयार ओडोक को बेस तेयार ला़गित् छा़ड हाताव  , आमाक् वेबसाइट रे बिचा़र एम छापाय आर हा़टिञ ला़गित् आमाक् बिचा़र.">
@@ -29,7 +29,7 @@
 
 <!ENTITY rights2.intro-point3a "चेत् लेका आले आमाक् निजेर &vendorShortName; बाडाय आर बिचा़र एम आकरिञिच् आर उदुक् रेयाक् ले बेभारा, &brandShortName; लेकाते ओना रे बोरनोन आकाना">
 <!ENTITY rights2.intro-point3b "&brandShortName; निजेराक् नीति">
-<!ENTITY rights.intro-point3c ".">
+
 <!-- point 3 text for unbranded builds -->
 
 <!ENTITY rights.intro-point3-unbranded "नोवा तेयार ओडोक् ला़गित् जाहां गे फकुवाक् नीति नोडे लिसटी होचो ला़कती">
@@ -37,7 +37,7 @@
 
 <!ENTITY rights2.intro-point4a "तिना़क् गान  &brandShortName; गुन को वेब-बा़यसा़व ला़य सोदोर का़मी को रेयाक् बेभार तेयारा, एन रेहों, आले वाले मेयादी दाड़ेयाक् आ उनकू  100&#037;  सुही आर बाङ भुल-बाङ ताहेंना. बाड़ती बिवरोन चेत् लेका रे गुन को बाङ हुय होचो रे ला़य सोदोर ए सा़मिला. ओका नोवा का़मी को बेभारा, रे ञाम दाड़ेयाक् आ . ">
 <!ENTITY rights.intro-point4b "का़मी मेयाद को">
-<!ENTITY rights.intro-point4c ".">
+
 <!-- point 4 text for unbranded builds -->
 
 <!ENTITY rights.intro-point4a-unbranded "जुदी नोवा तेयार ओडोक् वेब का़मी ला़गित् सा़मिल होचो वाकाना, का़मी (को) ला़गित् जाहां गे बाहाल का़मी काथा सांव जुड़ा़व ला़कती">
@@ -45,6 +45,7 @@
 <!ENTITY rights.intro-point4c-unbranded "हा़टिञ.">
 
 <!ENTITY rights2.webservices-header "&brandFullName; वेब-बा़यसा़व ला़य सोदोर का़मी को ">
+<!-- point 5 -->
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -60,7 +61,7 @@
 <!ENTITY rights.safebrowsing-b "जा़पती पानते बाडगाक्  बाङ हुय होचो दो आम बाङ जा़पती साइट  रे चालाव हुयुक् लेका बाङ बाताव एम हुय दाड़ेयाक् आ.  जुदी आम बा़डगाक् पुरा़ लेका बाङ हुय होचो सानाम काना, नोवा को झांप पांजाय मे:">
 <!ENTITY rights.safebrowsing-term1 "एपलिकेसोन कुसियाक् को झिज मे">
 <!ENTITY rights.safebrowsing-term2 "जा़पती बाछाव बाछाव मे">
-<!ENTITY rights.safebrowsing-term3 "&quot;&blockAttackSites.label;&quot; आपनार मोने तेयाक् को सुही ओचोक् आर  &quot;&blockWebForgeries.label;&quot;">
+
 <!ENTITY rights.safebrowsing-term4 "जा़पती पानतेयाक् नितोक् बाङ हुय होचोवाकाना">
 <!-- location aware browsing points for branded builds -->
 

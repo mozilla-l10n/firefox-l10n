@@ -8,9 +8,12 @@
 <!ENTITY next.tooltip "आयात् हिंस रेयाक् इना़ तायोम ओडोक् ञाम मे">
 <!ENTITY previous.tooltip "आयात् हिंस रेयाक् पा़हिल सेदाक् ओडोक् ञाम मे">
 <!ENTITY findCloseButton.tooltip "ञाम बार बोंदोय मे">
-<!ENTITY highlightAll.label "जोतो उदुक् राकाब मे (A)">
-<!ENTITY highlightAll.accesskey "A">
+
+
 <!ENTITY highlightAll.tooltiptext "काथा रेयाक् जोतो हुयाक् उदुक् राकाब (Ctrl+आदेर)">
 <!ENTITY caseSensitive.label "जोड़ काथा (c) ">
 <!ENTITY caseSensitive.accesskey "c">
 <!ENTITY caseSensitive.tooltiptext "काथा भेदावाक् सांव पानते.">
+
+
+

@@ -49,10 +49,6 @@
   -  button that toggles all breakpoints for all sources. -->
 
 <!ENTITY debuggerUI.sources.toggleBreakpoints "जोतो रा़पुत् टुडा़क् को  हुय होचो/बाङ हुय होचो तेयार">
-<!-- LOCALIZATION NOTE (debuggerUI.startTracing): This is the text displayed in
-  - the button to start execution tracing. -->
-
-<!ENTITY debuggerUI.startTracing "चिनहा़ एम एहोब">
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton): This is the label for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
@@ -65,12 +61,12 @@
   -  checkbox that toggles pausing on exceptions. -->
 
 <!ENTITY debuggerUI.pauseExceptions           " बादाक् को तिंगुय मे">
-<!ENTITY debuggerUI.pauseExceptions.accesskey "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!ENTITY debuggerUI.ignoreCaughtExceptions           "साप आकात् बादाक् को आड़ाक् काक् मे">
-<!ENTITY debuggerUI.ignoreCaughtExceptions.accesskey "C">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
 
@@ -80,7 +76,7 @@
   -  checkbox that toggles visibility of a designated variables filter box. -->
 
 <!ENTITY debuggerUI.showVarsFilter           "बोदोलोगाक् छा़नी बाकसा उदुग मे">
-<!ENTITY debuggerUI.showVarsFilter.accesskey "V">
+
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
   -  properties in stack views. The "enumerable" flag is a state of a property
@@ -93,13 +89,13 @@
   -  sources. -->
 
 <!ENTITY debuggerUI.showOriginalSource           "मुल सोत को उदुग मे">
-<!ENTITY debuggerUI.showOriginalSource.accesskey "O">
+
 <!-- LOCALIZATION NOTE (debuggerUI.autoBlackBox): This is the label for
   -  the checkbox that toggles whether sources that we suspect are minified are
   -  automatically black boxed or not. -->
 
 <!ENTITY debuggerUI.autoBlackBox           "आच् आच् ते हेंदे बाकसा  हुडिञ तेयाराक् सोत को .">
-<!ENTITY debuggerUI.autoBlackBox.accesskey "B">
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchPanelOperators): This is the text that
   -  appears in the filter panel popup as a header for the operators part. -->
 
@@ -109,44 +105,44 @@
 
 <!ENTITY debuggerUI.searchFile           " छा़नियाक् चिकी को">
 <!ENTITY debuggerUI.searchFile.key       " P">
-<!ENTITY debuggerUI.searchFile.altkey    "O">
+
 <!ENTITY debuggerUI.searchFile.accesskey " P">
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
   -  in the source editor's context menu for the global search operation. -->
 
 <!ENTITY debuggerUI.searchGlobal           "जोतो रेत् कोरे पानते">
-<!ENTITY debuggerUI.searchGlobal.key       "F">
-<!ENTITY debuggerUI.searchGlobal.accesskey "F">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
 
 <!ENTITY debuggerUI.searchFunction           "का़मी उपरुम ला़गित् पानते">
-<!ENTITY debuggerUI.searchFunction.key       "D">
-<!ENTITY debuggerUI.searchFunction.accesskey "D">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
   -  in the source editor's context menu for the token search operation. -->
 
 <!ENTITY debuggerUI.searchToken           "ञाम">
-<!ENTITY debuggerUI.searchToken.key       "F">
-<!ENTITY debuggerUI.searchToken.accesskey "F">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchLine): This is the text that appears
   -  in the source editor's context menu for the line search operation. -->
 
 <!ENTITY debuggerUI.searchGoToLine           "गार रे चालाव…">
-<!ENTITY debuggerUI.searchGoToLine.key       "L">
-<!ENTITY debuggerUI.searchGoToLine.accesskey "L">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.searchVariable): This is the text that appears
   -  in the source editor's context menu for the variables search operation. -->
 
 <!ENTITY debuggerUI.searchVariable           "बोदोलोगाक् छा़नी">
-<!ENTITY debuggerUI.searchVariable.key       "V">
-<!ENTITY debuggerUI.searchVariable.accesskey "V">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.focusVariables): This is the text that appears
   -  in the source editor's context menu for the variables focus operation. -->
 
 <!ENTITY debuggerUI.focusVariables           "बोदोलोगाक् दारे उदुक् राकाब">
-<!ENTITY debuggerUI.focusVariables.key       "V">
-<!ENTITY debuggerUI.focusVariables.accesskey "V">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
 
@@ -155,16 +151,18 @@
   -  appears in the source editor context menu for adding a breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuBreak     "रा़पुत् टुडा़क् सेलेद मे">
-<!ENTITY debuggerUI.seMenuBreak.key "B">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
 <!ENTITY debuggerUI.seMenuCondBreak     "बोनोत् रा़पुत् टुडा़क् सेलेद मे">
-<!ENTITY debuggerUI.seMenuCondBreak.key "B">
+
+<!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
+  -  appears in the source editor context menu for editing a breakpoint. -->
+
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
-
 <!ENTITY debuggerUI.tabs.sources        "सोत् को">
 <!ENTITY debuggerUI.tabs.traces         "चिनहा़ एमाक् को">
 <!ENTITY debuggerUI.tabs.callstack      " धुंद होहो">
@@ -174,27 +172,37 @@
   -  appears in the source editor context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.seMenuAddWatch      "ला़य उदुक् ञेल ला़गित् बाछाव मे">
-<!ENTITY debuggerUI.seMenuAddWatch.key  "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
 <!ENTITY debuggerUI.addWatch            "ला़य उदुक् ञेल सेलेद मे">
-<!ENTITY debuggerUI.addWatch.accesskey  "E">
+
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
 <!ENTITY debuggerUI.removeAllWatch           "जोतो ला़य उदुक् ञेल को ओचोक्">
-<!ENTITY debuggerUI.removeAllWatch.key       "E">
-<!ENTITY debuggerUI.removeAllWatch.accesskey "E">
+
+
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
   -  step in and step out). -->
 
 <!ENTITY debuggerUI.stepping.resume1    "VK_F8">
-<!ENTITY debuggerUI.stepping.resume2    "VK_SLASH">
 <!ENTITY debuggerUI.stepping.stepOver1  "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOver2  "VK_QUOTE">
-<!ENTITY debuggerUI.stepping.stepIn1    "VK_F10">
-<!ENTITY debuggerUI.stepping.stepIn2    "VK_SEMICOLON">
-<!ENTITY debuggerUI.stepping.stepOut1   "VK_F10">
-<!ENTITY debuggerUI.stepping.stepOut2   "VK_SEMICOLON">
+
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.newTab):  This is the label
+  -  for the Open in New Tab menu item displayed in the context menu of the
+  -  debugger sources side menu. This should be the same as
+  -  netmonitorUI.context.newTab  -->
+
+<!ENTITY debuggerUI.context.newTab           "नावा टेब रेझिज ">
+
+<!-- LOCALIZATION NOTE (debuggerUI.context.copyUrl): This is the label displayed
+  -  on the context menu that copies the selected request's url. This should be
+  -  the same as netmonitorUI.context.copyUrl -->
+
+<!ENTITY debuggerUI.context.copyUrl           " URL नोकोल">
+
+

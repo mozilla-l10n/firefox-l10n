@@ -4,6 +4,7 @@
 <!ENTITY addons.windowTitle                   "एड-ऑनस बेबोसतायिच्">
 
 <!ENTITY search.placeholder                   "जोतो एड-ऑन्स को पानते">
+
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -19,8 +20,14 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "जोतो एड-ऑनस ला़गित् टुल्स को">
 
+
+
 <!ENTITY cmd.back.tooltip                     "मित् साहटा तायोम चालाक् मे">
 <!ENTITY cmd.forward.tooltip                  "मित् साहटा लाहा चालाक् मे">
+
+
+
+
 <!-- global warnings -->
 
 <!ENTITY warning.safemode.label                    "जोतो एड-ऑनस जा़पती ओबोसता दाराय ते बाङ हुय होचो आकाना.">
@@ -30,13 +37,7 @@
 <!ENTITY warning.updatesecurity.label              "एड-ऑन आ़पती ञेल दो बाङ हुय होचो बाकाना . आम हा़ली को दाराय ते सुला़नामा दाड़ेयाक् आ .">
 <!ENTITY warning.updatesecurity.enable.label       "हुय होचो">
 <!ENTITY warning.updatesecurity.enable.tooltip     "एड-ऑन हा़ली ञेंल हुय होचो तेयार में ">
-<!-- global informations -->
-
-<!ENTITY info.plugincheck.label                 "तेंघान ञेल मे जुदी आमाक् खोंजा आदेर को हा़ली आकाना .">
-<!ENTITY info.plugincheck.tooltip               "तेंघान ञेल मे जुदी आमाक् खोंजा आदेर को हा़ली आकाना .">
 <!-- categories / views -->
-
-<!ENTITY view.search.label                    "पानते">
 <!ENTITY view.discover.label                  "एड-ऑनस ञाम में ">
 <!ENTITY view.recentUpdates.label             "नितोक् हा़लियाक् को">
 <!ENTITY view.availableUpdates.label          "हा़लियाक् को ञामोक् आ">
@@ -101,7 +102,6 @@
 <!ENTITY cmd.installAddon.accesskey           "I">
 <!ENTITY cmd.uninstallAddon.label             "ओचोक्(R)">
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
-<!ENTITY cmd.debugAddon.label                 "डिबॉग">
 <!ENTITY cmd.showPreferencesWin.label         "आपनार मोने तेयाक् को">
 <!ENTITY cmd.showPreferencesWin.tooltip       "नोवा एड-ऑन आपनार मोने तेयाक् को बोदोल में ">
 <!ENTITY cmd.showPreferencesUnix.label        "कुसियाक् को">
@@ -119,11 +119,8 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "एड-ऑन दो चेत् काना ?">
-<!ENTITY discover.description2                "एड -ऑन दो एपलिकेसोन काना ओका आम  निजेराक् ए तेयार होचो आमा  &brandShortName; सांव  
-बाड़तीयाक् का़मी तेत् आर हुना़र. मित् ओकतो-सांचाव धारे बार कुरुमुटु मे, मित् होय हिसित् उदुगाक्, आर बाङ मित् उनुयहा़र तेयार लेका ञेलोक्  &brandShortName; 
-आमाक् निजेर.">
-<!ENTITY discover.footer                      "तिन रे आम इन्टारनेट रेम जोड़ाव कोक् आ, नोवा फांक दो गुन  
-तिना़क् गान बेस आर आम कुरुमुटु होचो ला़गित् आ़डी ञुतुमाक् एड-ऑन ताहेंना .">
+<!ENTITY discover.description2                "एड -ऑन दो एपलिकेसोन काना ओका आम  निजेराक् ए तेयार होचो आमा  &brandShortName; सांव  बाड़तीयाक् का़मी तेत् आर हुना़र. मित् ओकतो-सांचाव धारे बार कुरुमुटु मे, मित् होय हिसित् उदुगाक्, आर बाङ मित् उनुयहा़र तेयार लेका ञेलोक्  &brandShortName; आमाक् निजेर.">
+<!ENTITY discover.footer                      "तिन रे आम इन्टारनेट रेम जोड़ाव कोक् आ, नोवा फांक दो गुन  तिना़क् गान बेस आर आम कुरुमुटु होचो ला़गित् आ़डी ञुतुमाक् एड-ऑन ताहेंना .">
 <!-- detail view -->
 
 <!ENTITY detail.version.label                 "बार्सान">
@@ -228,3 +225,18 @@
 <!ENTITY experiment.info.learnmore.accesskey "L">
 <!ENTITY experiment.info.changetelemetry "टेली मेटरी साजाव">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
+     These entities form a sentence, with
+     disabledUnsigned.description.findAddonsLink being a link to an external site. -->
+
+
+
+<!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
+     These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
+     being a link to an external site. -->
+
+
+
+

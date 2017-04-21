@@ -4,8 +4,8 @@
 
 
 <!ENTITY  connectionsDialog.title       "जोनोड़ाव साजाव को .">
-<!ENTITY  window.width                  "37em">
-<!ENTITY  window.macWidth               "39em">
+
+
 
 <!ENTITY  proxyTitle.label              "इन्टारनेट आ़तुर ला़गित्  एड़ेयाक् भितिर तेयार को ">
 <!ENTITY  noProxyTypeRadio.label        "जाहान एड़े को बाङ (y)">
@@ -32,8 +32,8 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label          "सांगिञ DNS">
-<!ENTITY  socksRemoteDNS.accesskey      "D">
+
+
 <!ENTITY  port.label                    "पोर्ट :">
 <!ENTITY  HTTPport.accesskey            " P">
 <!ENTITY  SSLport.accesskey             "o">

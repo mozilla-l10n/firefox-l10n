@@ -65,6 +65,7 @@
 <!ENTITY largerFont.label             " खोन माराङ फॉन्ट (a)">
 <!ENTITY largerFont.accesskey         "a">
 <!ENTITY largerFont.commandkey        "+">
+<!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            " खोन हुडिञ फॉन्ट (m) ">
 <!ENTITY smallerFont.accesskey        "m">
@@ -79,7 +80,7 @@
 
 <!ENTITY run.label                    "चालाव(R)">
 <!ENTITY run.accesskey                "R">
-<!ENTITY run.key                      "r">
+
 
 <!ENTITY inspect.label                "तोजबिज मे(I)">
 <!ENTITY inspect.accesskey            "I">
@@ -118,10 +119,8 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-<!ENTITY helpMenu.label               "गोड़ो(H)">
-<!ENTITY helpMenu.accesskey           "H">
-<!ENTITY helpMenuWin.label            "गोड़ो(H)">
-<!ENTITY helpMenuWin.accesskey        "H">
+
+
 
 <!ENTITY documentationLink.label      "MDN रे खारोक् पाटा गोड़ो">
 <!ENTITY documentationLink.accesskey  "D">
@@ -135,7 +134,7 @@
 
 <!ENTITY reloadAndRun.label           "दोहड़ा लादे आर चालाव (e)">
 <!ENTITY reloadAndRun.accesskey       "e">
-<!ENTITY reloadAndRun.key             "r">
+
 
 <!ENTITY executeMenu.label            "का़मी लेताड़(x)">
 <!ENTITY executeMenu.accesskey        "x">
@@ -151,4 +150,4 @@
 
 <!ENTITY evalFunction.label " नितोगाक् का़मी तुला पायला (E)">
 <!ENTITY evalFunction.accesskey ")">
-<!ENTITY evalFunction.key "e">
+
