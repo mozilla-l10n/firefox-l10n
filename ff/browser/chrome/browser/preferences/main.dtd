@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Kurmital">
 
-<!ENTITY startupPage.label         "So &brandShortName; hurmii:">
-<!ENTITY startupPage.accesskey     "u">
+
 
 <!ENTITY startupBlankPage.label    "Hollu hello meho">
 
 
-<!ENTITY homepage.label            "Hello Jaɓɓorgo:">
-<!ENTITY homepage.accesskey        "J">
+
 <!ENTITY useCurrentPage.label      "Huutoro Hello Wonaango">
 <!ENTITY useCurrentPage.accesskey  "W">
 <!ENTITY useMultiple.label         "Huutoro Kelle Gonaaɗe Ɗee">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Yamir &brandShortName; e Firefox yoo kurmu kañje ɗiɗi kala">
 <!ENTITY useFirefoxSync.label             "Ƴoƴel: Ɗuum huutorto ko keftinirɗe ceertuɗe. Huutoro Sync ngam lollinde keɓe hakkunde majje.">
-<!ENTITY getStarted.label                 "Fuɗɗo huutoraade Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "Yamir keewal cili &brandShortName;">

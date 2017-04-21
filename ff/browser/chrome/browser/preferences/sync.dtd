@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Innde Kaɓirgol">
-<!ENTITY changeSyncDeviceName.label "Waylu Innde Kaɓirgol…">
-<!ENTITY changeSyncDeviceName.accesskey "a">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Haaytu">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Danndu">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Waylu natal heftinirde">
 <!ENTITY verifiedManage.label        "Toppito Konte">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Seŋtondir…">
-<!ENTITY disconnect.accesskey        "d">
+
+
 <!ENTITY verify.label                "Ƴeewto Iimeel">
 <!ENTITY verify.accesskey            "w">
 <!ENTITY forget.label                "Yejjit oo Iimeel">
@@ -65,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
 
 <!ENTITY signedOut.accountBox.signin.accesskey  "S">
+
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

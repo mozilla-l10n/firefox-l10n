@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Huutoro Ndeenka Dewindol">
+
 <!ENTITY  trackingProtectionAlways.label       "Sahaa kala">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "E henorde suuriinde tan">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Palal Nokkuure">
 
-<!ENTITY  locbar.suggest.label          "So aɗa huutoroo palal nokkuure, wasiyo:">
 <!ENTITY  locbar.history.label          "Aslol">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Maantore">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Njiilawuuji nannduɗi iwɗi e yiylorde woowaande">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Waylu cuɓoraaɗe basiye yiylorde…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Hollu kukiije…">
 <!ENTITY  showCookies.accesskey         "u">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; maa:">
-<!ENTITY  historyHeader.pre.accesskey      "m">
+
 <!ENTITY  historyHeader.remember.label     "Siftor aslol">
 <!ENTITY  historyHeader.dontremember.label "Hoto siftor aslol hay sahaa">
 <!ENTITY  historyHeader.custom.label       "Huutoro teelte peŋtore e aslol">
