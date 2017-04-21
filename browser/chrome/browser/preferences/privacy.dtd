@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "ଅନୁସରଣ କରୁଅଛି">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "ଅବସ୍ଥାନ ପଟି">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "କୁକିଗୁଡ଼ିକୁ ଦର୍ଶାନ୍ତୁ…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; କରିଥାଏ:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "ପୁରୁଣା ତଥ୍ୟକୁ ମନେ ରଖନ୍ତୁ">
 <!ENTITY  historyHeader.dontremember.label "ପୁରୁଣା ତଥ୍ୟକୁ କଦାପି ମନେ ରଖନ୍ତୁ ନାହିଁ">
 <!ENTITY  historyHeader.custom.label       "ପୁରୁଣା ତଥ୍ୟ ପାଇଁ ଇଚ୍ଛାମୁତାବକ ସଂରଚନାକୁ ବ୍ୟବହାର କରନ୍ତୁ">

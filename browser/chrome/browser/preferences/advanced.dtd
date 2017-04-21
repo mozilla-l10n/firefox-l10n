@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "ଅପଡେଟ">
 
-<!ENTITY updateAuto1.label               "ଅପଡେଟସବୁ ଆପେଆପେ ଇନଷ୍ଟଲ ହେବ (ଉପଯୁକ୍ତ ହେବ: ଅଧିକ ନିରାପତ୍ତା)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "ଅପଡେଟସବୁ କଦାପି ଦେଖନ୍ତୁ ନାହିଁ (ଏଭଳି ନ କରିବା ପାଇଁ ପରାମର୍ଶ: ନିରାପତ୍ତା ଜନିତ ବିପଦ)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "ଅପଡେଟ ଇତିହାସ ଦେଖାନ୍ତୁ">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "ଅପଡେଟସବୁ ଇନଷ୍ଟଲ କରିବା ପାଇଁ ଏକ ବ୍ୟାକଗ୍ରାଉଣ୍ଡ ସର୍ଭିସ ବ୍ୟବହାର କରନ୍ତୁ">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "ଖୋଜା ଯନ୍ତ୍ର">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "ବ୍ୟତିକ୍ରମ…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "ଅଫ ଲାଇନ ତଥ୍ୟ କାଢ଼ନ୍ତୁ">
 
 <!ENTITY certificateTab.label            "ପ୍ରମାଣପତ୍ରଗୁଡ଼ିକ">
-
 
 <!ENTITY selectCerts.auto                "ସ୍ୱୟଂଚାଳିତ ଭାବେ ଗୋଟିକୁ ବାଛନ୍ତୁ">
 
