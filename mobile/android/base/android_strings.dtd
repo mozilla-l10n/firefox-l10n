@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Activate">
 <!ENTITY pref_home_updates_wifi "Doar prin Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pagină de start">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Setează o pagină de start">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "File personalizate">
 <!ENTITY pref_custom_tabs_summary3 "Permite aplicațiilor să deschidă site-uri cu o versiune particularizată de &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux de activități">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Activate">
 <!ENTITY pref_plugins_tap_to_play2 "Atinge pentru redare">
 <!ENTITY pref_plugins_disabled "Dezactivate">
-<!ENTITY pref_text_size "Mărimea textului">
 <!ENTITY pref_restore_tabs "Restaurează filele">
 <!ENTITY pref_restore_always "Restaurează întotdeauna">
 <!ENTITY pref_restore_quit "Nu le restaura după ce ies din &brandShortName;">
-<!ENTITY pref_font_size_tiny "Foarte mică">
-<!ENTITY pref_font_size_small "Mică">
-<!ENTITY pref_font_size_medium "Medie">
-<!ENTITY pref_font_size_large "Mare">
-<!ENTITY pref_font_size_xlarge "Foarte mare">
-<!ENTITY pref_font_size_set "Setează">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Vulpea ageră portocalie transcede așteptările tale cu mai multă viteză, mai multă flexibilitate și mai multă securitate. Fiind organizație nonprofit, suntem liberi să inovăm în folosul tău fără nicio presiune ca să facem compromisuri. Asta înseamnă o experiență mai bună pentru tine și un viitor mai luminos pentru web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Deschide într-o filă privată">
 <!ENTITY contextmenu_remove "Elimină">
 <!ENTITY contextmenu_add_to_launcher "Adaugă la ecranul principal">
+<!ENTITY contextmenu_set_as_homepage "Setează ca pagină de start">
 <!ENTITY contextmenu_share "Împărtășește">
 <!ENTITY contextmenu_pasteandgo "Lipește și accesează">
 <!ENTITY contextmenu_paste "Lipește">
