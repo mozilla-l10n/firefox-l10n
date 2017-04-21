@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Баптаулар - Сайт деректері">
-<!ENTITY     settings.description          "Келесі вебсайттар сізден сайт деректерін дискіңізде сақтауды сұраған. Сіз қай вебсайттарға сайт деректерін сақтауға рұқсат етілгенін көрсете аласыз. Үнсіз келісім бойынша сайт деректері уақытша және автоматты түрде өшірілуі мүмкін.">
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Қалып-күйі">
 <!ENTITY     usageCol.label                "Сақтауыш">
-<!ENTITY     searchPlaceHolder             "Іздеу">
-<!ENTITY     searchPlaceHolder.accesskey   "з">
+<!ENTITY     searchTextboxPlaceHolder             "Сайттардан іздеу">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "с">
 <!ENTITY     removeSelected.label          "Таңдалғанды өшіру">
 <!ENTITY     removeSelected.accesskey      "р">
 <!ENTITY     save.label                    "Өзгерістерді сақтау">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Бас тарту">
 <!ENTITY     cancel.accesskey              "а">
 <!ENTITY     removingDialog.title          "Сайт деректерін өшіру">
-<!ENTITY     removingDialog.description    "Сайт деректерін өшіру нәтижесінде cookies қоса өшіріледі. Бұл сіздің веб сайттардан шығуыңызды және олардың желіден тыс құрамасын өшірілуге әкеп соғуы мүмкін. Өзгерісті іске асыруды шынымен қалайсыз ба?">
+<!ENTITY     removingSelected.description  "Сайт деректерін өшіру нәтижесінде сәйкес cookies және желіден тыс веб құрамасы өшірілетін болады. Нәтижесінде сіз сайттардан шығуыңыз мүмкін. Өзгерістерді іске асыруды шынымен қалайсыз ба?">
 <!ENTITY     siteTree.label                "Келесі веб сайттар cookies өшірілетін болады:">

@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Қаріптер мен түстер">
 
-<!ENTITY  defaultFont.label           "Негізгі қаріп:">
-<!ENTITY  defaultFont.accesskey       "Н">
-<!ENTITY  defaultSize.label           "Өлшемі:">
-<!ENTITY  defaultSize.accesskey       "л">
+<!ENTITY  defaultFont2.label          "Негізгі қаріп">
+<!ENTITY  defaultFont2.accesskey      "Н">
+<!ENTITY  defaultSize2.label          "Өлшемі">
+<!ENTITY  defaultSize2.accesskey      "л">
 
 <!ENTITY  advancedFonts.label         "Қосымша…">
 <!ENTITY  advancedFonts.accesskey     "ш">

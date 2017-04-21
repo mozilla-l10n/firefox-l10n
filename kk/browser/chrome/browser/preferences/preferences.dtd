@@ -13,17 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Жалпы">
-<!ENTITY  paneTabs.title          "Беттер">
-<!ENTITY  paneSearch.title        "Іздеу">
-<!ENTITY  paneContent.title       "Құрамасы">
-<!ENTITY  paneApplications.title  "Бағдарламалар">
-<!ENTITY  panePrivacy.title       "Жекелік">
-<!ENTITY  paneContainers.title    "Контейнер беттері">
-<!ENTITY  paneSecurity.title      "Қорғаныс">
-<!ENTITY  paneAdvanced.title      "Қосымша">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Іздеу нәтижелері">
+<!ENTITY  paneGeneral.title             "Жалпы">
+<!ENTITY  paneFilesApplications.title   "Файлдар және қолданбалар">
+<!ENTITY  panePrivacySecurity.title     "Жекелік және қауіпсіздік">
+<!ENTITY  paneContainers.title          "Контейнер беттері">
+<!ENTITY  paneUpdates.title             "Жаңартулар">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Синхрондау">
+<!ENTITY  paneSync1.title          "Firefox тіркелгісі">
 
-<!ENTITY  helpButton.label        "Көмек">
+
+<!ENTITY  searchInput.label        "Іздеу">

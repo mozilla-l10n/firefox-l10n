@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Бақылаудан қорғанысты қолдану">
+<!ENTITY  trackingProtectionHeader2.label      "Бақылаудан қорғанысты қолдану">
+<!ENTITY  trackingProtection.description       "Бақылау - бұл дегеніміз, компаниялар сіздің шолу және жеке деректеріңіздге негізделіп, профильді жасау және арнайы құраманы көрсету мақсатында, сіз туралы ақпаратты жинайды.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Белгілі бақылау компанияларына құраманы көрсетуді блоктау">
 <!ENTITY  trackingProtectionAlways.label       "Әрқашан">
 <!ENTITY  trackingProtectionAlways.accesskey   "ш">
 <!ENTITY  trackingProtectionPrivate.label      "Тек жекелік терезелерінде">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Адрес жолы">
 
-<!ENTITY  locbar.suggest.label          "Адрес жолағын қолдану кезінде, ұсыну:">
+<!ENTITY  locbar.suggest2.label         "Адрес жолағын қолдану кезінде, ұсыну">
 <!ENTITY  locbar.history.label          "Тарихы">
 <!ENTITY  locbar.history.accesskey      "Т">
 <!ENTITY  locbar.bookmarks.label        "Бетбелгілер">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Негізгі іздеу жүйіесінен байланысқан іздеулер">
 <!ENTITY  locbar.searches.accesskey     "й">
 
-<!ENTITY  suggestionSettings.label      "Іздеу жүйесінің ұсыныстары үшін қалауларды өзгерту…">
-<!ENTITY  suggestionSettings.accesskey  "г">
+<!ENTITY  suggestionSettings2.label     "Іздеу жүйесінің ұсыныстары үшін қалауларды өз&amp;герту">
 
 <!ENTITY  acceptCookies.label           "Cookies қабылдау">
 <!ENTITY  acceptCookies.accesskey       "д">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Cookies көрсету…">
 <!ENTITY  showCookies.accesskey         "р">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "тарихты сақтайды">
 <!ENTITY  historyHeader.dontremember.label "тарихты ешқашан сақтамайды">
 <!ENTITY  historyHeader.custom.label       "қолдан көрсетілген тарих баптауын қолданады">

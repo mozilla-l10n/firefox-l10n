@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Жалпы">
+<!ENTITY  security.label                 "Қауіпсіздік">
 
 <!ENTITY  warnOnAddonInstall.label        "Вебсайттар кеңейтулерді орнатқысы келсе, ескерту">
 <!ENTITY  warnOnAddonInstall.accesskey    "В">
@@ -24,10 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "Е">
 
 
-<!ENTITY  logins.label                  "Логиндер">
+<!ENTITY  formsAndPasswords.label       "Формалар және парольдер">
 
-<!ENTITY  rememberLogins.label          "Сайттар үшін логиндерді сақтау">
-<!ENTITY  rememberLogins.accesskey      "т">
+<!ENTITY  rememberLogins1.label          "Сайттар үшін логиндер және парольдерді сақтау">
+<!ENTITY  rememberLogins1.accesskey      "т">
 <!ENTITY  passwordExceptions.label      "Ережелерден бөлек…">
 <!ENTITY  passwordExceptions.accesskey  "р">
 

@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Қарап шығу...">
 <!ENTITY loaddevice.browse.accesskey            "ш">
 
-<!ENTITY loaddevice.title                       "PKCS#11 құрылғысын жүктеу">

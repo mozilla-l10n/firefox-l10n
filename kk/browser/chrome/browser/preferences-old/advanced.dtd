@@ -86,8 +86,8 @@
 <!ENTITY updateApplication.label         "&brandShortName; жаңартулары">
 <!ENTITY updateAuto1.label               "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
 <!ENTITY updateAuto1.accesskey           "а">
-<!ENTITY updateCheckChoose.label         "Жаңартуларды тексеру, бірақ орнату уақытын өзін тандайсын">
-<!ENTITY updateCheckChoose.accesskey     "н">
+<!ENTITY updateCheckChoose.label         "Жаңартуларды тексеру, бірақ орнату керектігін өзіңіз тандайсыз">
+<!ENTITY updateCheckChoose.accesskey     "з">
 <!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
 <!ENTITY updateManual.accesskey          "р">
 
