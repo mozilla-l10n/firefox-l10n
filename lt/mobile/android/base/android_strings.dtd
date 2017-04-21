@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Įjungtas">
 <!ENTITY pref_home_updates_wifi "Tik per belaidį tinklą">
 <!ENTITY pref_category_home_homepage "Pradžios tinklalapis">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Nustatykite pradžios tinklalapį">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Tinkintos kortelės">
 <!ENTITY pref_custom_tabs_summary3 "Leisti programoms atverti svetaines naudojant tinkintą „&brandShortName;“ versiją">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Veiklos srautas">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Įjungta">
 <!ENTITY pref_plugins_tap_to_play2 "Bakstelėkite grojimui">
 <!ENTITY pref_plugins_disabled "Išjungta">
-<!ENTITY pref_text_size "Šriftų dydžiai">
 <!ENTITY pref_restore_tabs "Atkurti korteles">
 <!ENTITY pref_restore_always "Visada atkurti">
 <!ENTITY pref_restore_quit "Neatkurti po „&brandShortName;“ darbo pabaigos">
-<!ENTITY pref_font_size_tiny "Ypač maži">
-<!ENTITY pref_font_size_small "Maži">
-<!ENTITY pref_font_size_medium "Vidutiniai">
-<!ENTITY pref_font_size_large "Dideli">
-<!ENTITY pref_font_size_xlarge "Ypač dideli">
-<!ENTITY pref_font_size_set "Parinkti">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Įlinkdama fechtuotojo špaga sublykčiojusi pragręžė apvalų arbūzą.">
 
 <!ENTITY pref_media_autoplay_enabled "Leisti automatinį grojimą">
 <!ENTITY pref_media_autoplay_enabled_summary "Nustatykite, ar svetainės gali automatiškai paleisti vaizdo įrašus bei kitą medijos turinį">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
 <!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
+
 <!ENTITY contextmenu_share "Dalintis">
 <!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
 <!ENTITY contextmenu_paste "Įdėti">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Taip">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Valyti duomenis">
-<!ENTITY button_set "Nustatyti">
+
 <!ENTITY button_clear "Išvalyti">
 <!ENTITY button_copy "Kopijuoti">
 
