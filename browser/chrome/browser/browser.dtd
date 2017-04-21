@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Աջ սեղմում կամ պտտում ներքև՝ պատմությունը դիտելու համար">
 <!ENTITY backForwardButtonMenuMac.tooltip "Պտտեք ներքև՝ պատմությունը դիտելու համար">
 <!ENTITY reloadCmd.label              "Կրկին բեռնել">
-<!ENTITY reloadButton.tooltip         "Կրկին բեռնել տվյալ Էջը">
 <!ENTITY stopCmd.label                "Ընդհատել">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ընդհատել Էջի բեռնավորումը">
 <!ENTITY goEndCap.tooltip             "Գնալ Հասցեի Տողում նշված հասցեով">
 <!ENTITY printButton.label            "Տպել">
 <!ENTITY printButton.tooltip          "Տպել տվյալ էջը">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Բացել պահպանված գաղտնաբառի հաղորդագրության վահանակը">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Կառավարել բաղադրիչների օգտագործումը">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառավարել ձեր բարձրախոսի համօգտագործումը այս կայքի հետ">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Դուք արգելափակել եք տվյալների պահեստը այս կայքի համար:">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Դուք արգելափակել եք ծանուցումները այս կայքի համար:">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
-<!ENTITY urlbar.zoomReset.tooltip     "ՎԵրակայել դիտափոխման մակարդակը">
-
 <!ENTITY searchItem.title             "Որոնում">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Տուն">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Սինքի նախընտրանքներ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Մուտք գործե՛ք՝ տեսնելու Ձեր այլ սարքերի ներդիրների ցանկը։">
 <!ENTITY appMenuRemoteTabs.signin.label "Մուտք գործել Սինք">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Դիտել համաժամեցված ներդիրների Կողագոտին">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ավելացնել  գործիքավահանակում">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "Բ">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Սինք">
 
 <!ENTITY syncSignIn.label             "Մուտք գործել &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Իմանալ ավելին DRM-ի մասին...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
