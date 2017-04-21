@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "باز کردن تابلو پیام‌های ذخیره گذواژه">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "مدیریت استفاده از افزونه">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ذخیره اطلاعات به صورت ذخیره دائمی">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
@@ -920,9 +920,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ا">
 <!ENTITY updateManual.panelUI.label "دریافت یک برداشت تازه از &brandShorterName;">
 
-
-
-
-
-
-
+<!ENTITY updateRestart.message "بعد از یک راه‌اندازی مجدد کوچک، &brandShorterName; تمام زبانه‌ها پنجره‌ها را بازآوری خواهد کرد.">
+<!ENTITY updateRestart.header.message "راه‌اندازی مجدد &brandShorterName; برای اعمال بروزرسانی ها.">
+<!ENTITY updateRestart.acceptButton.label "راه‌اندازی مجدد و بازآوری">
+<!ENTITY updateRestart.acceptButton.accesskey "ر">
+<!ENTITY updateRestart.cancelButton.label "اکنون نه">
+<!ENTITY updateRestart.cancelButton.accesskey "ا">
+<!ENTITY updateRestart.panelUI.label "راه‌اندازی مجدد &brandShorterName; برای اعمال بروزرسانی ها.">
