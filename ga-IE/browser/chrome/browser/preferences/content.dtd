@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Clófhoirne agus Dathanna">
 
-<!ENTITY  defaultFont.label           "Cló réamhshocraithe:">
-<!ENTITY  defaultFont.accesskey       "r">
-<!ENTITY  defaultSize.label           "Méid:">
-<!ENTITY  defaultSize.accesskey       "M">
+<!ENTITY  defaultFont2.label          "Cló réamhshocraithe">
+<!ENTITY  defaultFont2.accesskey      "r">
+<!ENTITY  defaultSize2.label          "Méid">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Casta…">
 <!ENTITY  advancedFonts.accesskey     "t">

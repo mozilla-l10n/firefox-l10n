@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Nuashonrú">
 
 <!ENTITY updateApplication.label         "Nuashonruithe &brandShortName;">
-<!ENTITY updateAuto1.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheckChoose.label         "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
-<!ENTITY updateCheckChoose.accesskey     "L">
-<!ENTITY updateManual.label              "Ná lorg nuashonruithe riamh (rabhadh: contúirt slándála)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApplication.description   "Lig do &brandShortName;">
+<!ENTITY updateAuto2.label               "Suiteáil nuashonruithe go huathoibríoch (molta: slándáil níos fearr)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Lorg nuashonruithe, ach lig dom iad a shuiteáil nuair is mian liom">
+<!ENTITY updateCheckChoose2.accesskey    "L">
+<!ENTITY updateManual2.label             "Ná lorg nuashonruithe (ní mholtar é seo)">
+<!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory.label             "Taispeáin Stair na Nuashonruithe">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory2.label            "Taispeáin Stair na Nuashonruithe…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Úsáid seirbhís sa chúlra chun nuashonruithe a shuiteáil">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Nuashonraigh go huathoibríoch">
-<!ENTITY enableSearchUpdate.label        "Innill Chuardaigh">
-<!ENTITY enableSearchUpdate.accesskey    "I">
+<!ENTITY enableSearchUpdate2.label       "Nuashonraigh innill chuardaigh go huathoibríoch">
+<!ENTITY enableSearchUpdate2.accesskey   "c">
+
+<!ENTITY reports.label                   "Tuairiscí">
 
 <!ENTITY offlineStorageNotify.label               "Inis dom nuair a iarrann suíomh Gréasáin sonraí a stóráil le haghaidh úsáide as líne">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Bain sonraí as líne">
 
 <!ENTITY certificateTab.label            "Teastais">
-<!ENTITY certPersonal.label              "Iarratais">
-<!ENTITY certPersonal.description        "Nuair atá freastalaí ag iarraidh mo theastas pearsanta:">
+<!ENTITY certPersonal2.description       "Nuair atá freastalaí ag iarraidh mo theastas pearsanta">
 <!ENTITY selectCerts.auto                "Roghnaigh go huathoibríoch">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Fiafraigh díom i gcónaí">

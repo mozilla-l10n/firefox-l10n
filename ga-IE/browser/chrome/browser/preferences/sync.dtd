@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Ainm an Ghléis">
-<!ENTITY changeSyncDeviceName.label "Athraigh Ainm an Ghléis…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY changeSyncDeviceName1.label "Athraigh Ainm an Ghléis">
+<!ENTITY changeSyncDeviceName1.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Cealaigh">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "g">
 <!ENTITY saveChangeSyncDeviceName.label "Sábháil">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Athraigh an pictiúr próifíle">
 <!ENTITY verifiedManage.label        "Bainistigh mo Chuntas">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Dícheangail…">
-<!ENTITY disconnect.accesskey        "D">
+<!ENTITY disconnect2.label           "Dícheangail">
+<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "Dearbhaigh an Seoladh Ríomhphoist">
 <!ENTITY verify.accesskey            "D">
 <!ENTITY forget.label                "Déan Dearmad ar an Seoladh Ríomhphoist seo">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Logáil Isteach">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sioncronaigh trasna gach gléas">
+<!ENTITY signedIn.settings.label       "Socruithe Sioncronaithe">
+<!ENTITY signedIn.settings.description "Roghnaigh na rudaí le sioncronú ar do chuid gléasanna ag úsáid &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Comhad">
 <!ENTITY plugin.mimeTypes                                    "Cineálacha MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Cumasaigh mód cosanta Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Cuir cosc ar ábhar Flash atá contúirteach nó treallúsach">

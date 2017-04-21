@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Tosú">
 
-<!ENTITY startupPage.label         "Agus &brandShortName; á thosú:">
-<!ENTITY startupPage.accesskey     "u">
+<!ENTITY startupPage2.label        "Agus &brandShortName; á thosú">
+<!ENTITY startupPage2.accesskey    "u">
 <!ENTITY startupUserHomePage.label "Taispeáin mo leathanach baile">
 <!ENTITY startupBlankPage.label    "Taispeáin leathanach folamh">
 <!ENTITY startupPrevSession.label  "Taispeáin mo chuid fuinneog agus cluaisíní ón seisiún roimhe seo">
 
-<!ENTITY homepage.label            "Leathanach Baile:">
-<!ENTITY homepage.accesskey        "B">
+<!ENTITY homepage2.label           "Leathanach Baile">
+<!ENTITY homepage2.accesskey       "B">
 <!ENTITY useCurrentPage.label      "Úsáid an Leathanach Reatha">
 <!ENTITY useCurrentPage.accesskey  "R">
 <!ENTITY useMultiple.label         "Úsáid na Leathanaigh Reatha">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Lig do &brandShortName; agus Firefox a bheith ar siúl san am céanna">
 <!ENTITY useFirefoxSync.label             "Leid: Úsáideann sé seo dhá phróifíl ar leith. Úsáid Sync le sonraí a chomhroinnt eatarthu.">
-<!ENTITY getStarted.label                 "Tosaigh le Sync…">
+<!ENTITY getStarted.notloggedin.label     "Logáil isteach i &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Oscail sainroghanna &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cumasaigh &brandShortName; ilphróisis">
