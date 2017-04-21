@@ -6,8 +6,8 @@
 <!ENTITY     hostCol.label                 "Vefsvæði">
 <!ENTITY     statusCol.label               "Staða">
 <!ENTITY     usageCol.label                "Geymsla">
-
-
+<!ENTITY     searchTextboxPlaceHolder             "Leita á vefsvæðum">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Fjarlægja valið">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Vista breytingar">

@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Velja…">
 <!ENTITY loaddevice.browse.accesskey            "V">
 
+<!ENTITY loaddevice.title2                      "Hlaða inn PKCS#11 rekil">

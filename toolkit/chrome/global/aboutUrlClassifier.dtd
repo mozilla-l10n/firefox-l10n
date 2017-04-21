@@ -17,10 +17,10 @@
 
 
 
-
-
-
-
+<!ENTITY aboutUrlClassifier.debugTitle                  "Kemba">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Setja einingar fyrir skráningu">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Setja skráningarskrá">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Setja JS skráningu">
 
 
 
