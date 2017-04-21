@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Thoma">
 
-<!ENTITY startupPage.label         "Ge &brandShortName; e thoma:">
-<!ENTITY startupPage.accesskey     "t">
+
 
 <!ENTITY startupBlankPage.label    "Laetša letlakala le se nago selo">
 
 
-<!ENTITY homepage.label            "Letlakala la gae:">
-<!ENTITY homepage.accesskey        "L">
+
 <!ENTITY useCurrentPage.label      "Diriša letlakala la bjale">
 <!ENTITY useCurrentPage.accesskey  "l">
 <!ENTITY useMultiple.label         "Diriša matlakala a bjale">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "&brandShortName; gona bjale ke praosara ya gago ya tirelwa">
+
 
 
 
