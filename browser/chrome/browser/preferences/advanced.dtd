@@ -9,11 +9,11 @@
 <!ENTITY accessibility.label             "Přístupnost">
 
 <!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb po stránce">
-<!ENTITY useCursorNavigation.accesskey   "P">
+<!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Psaním vyhledávat text na stránce">
-<!ENTITY searchOnStartTyping.accesskey   "s">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY blockAutoReload.label           "Varovat, pokud se stránka pokouší o přesměrování nebo obnovení">
-<!ENTITY blockAutoReload.accesskey       "r">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "V případě potřeby zobrazit dotykovou klávesnici">
 <!ENTITY useOnScreenKeyboard.accesskey   "d">
 
@@ -22,11 +22,11 @@
 <!ENTITY useAutoScroll.label             "Použít automatické posunování">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
-<!ENTITY useSmoothScrolling.accesskey    "e">
+<!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Při psaní kontrolovat pravopis">
-<!ENTITY checkUserSpelling.accesskey     "k">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Možnosti hlášení">
 
