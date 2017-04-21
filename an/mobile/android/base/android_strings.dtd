@@ -156,6 +156,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Ya marcada">
 <!ENTITY overlay_share_send_other "Ninviar ta atros dispositivos">
 
+<!ENTITY overlay_share_open_browser_btn_label "Ubrire en o &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -213,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Nomás con Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pachina d\u0027inicio">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Usar tamién en as nuevas pestanyas">
 <!ENTITY home_homepage_title "Fixar una pachina d\u0027inicio">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -281,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "Pestanyas personalizadas">
 <!ENTITY pref_custom_tabs_summary3 "Permitir que las apps ubran sitios web fendo servir una versión personalizada de &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Ubrir en &formatS;">
+<!ENTITY custom_tabs_menu_footer "Basau en &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL copiada">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Fluxo d\u0027actividat">
@@ -349,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "Activadas">
 <!ENTITY pref_plugins_tap_to_play2 "Tocar pa reproducir">
 <!ENTITY pref_plugins_disabled "No autorizadas">
-<!ENTITY pref_text_size "Mida d\u0027a letra">
 <!ENTITY pref_restore_tabs "Restaurar las pestanyas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar dimpués de salir de &brandShortName;">
-<!ENTITY pref_font_size_tiny "Muit chicota">
-<!ENTITY pref_font_size_small "Chicota">
-<!ENTITY pref_font_size_medium "Meyana">
-<!ENTITY pref_font_size_large "Gran">
-<!ENTITY pref_font_size_xlarge "Muit gran">
-<!ENTITY pref_font_size_set "Fixar">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "r">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "A rapida rabosa narancha blinca por dencima d\u0027as expectativas, con mas velocidat, mas flexibilidat y mas seguranza. Como que somos una organización sin animo de lucro, somos libres d\u0027innovar en o vuestro nombre sin garra mena de presión a la hora de comprometer-nos. Ixo quiere dicir que tos podemos ofrir una millor experiencia y un futuro mas brilant t\u0027o web.">
+<!ENTITY pref_use_system_font_size "Usar lo tamanyo de fuent d\u0027o sistema">
+<!ENTITY pref_use_system_font_size_summary "Escalar contenius web sentuges lo tamanyo de fuent d\u0027o sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si os puestos web pueden autoreproducir videos u atros contenius multimedia">
@@ -388,6 +386,7 @@ size. -->
 <!ENTITY pref_import_android_summary "Importar marcapachinas y historial dende o navegador nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Ubrir pestanyas">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "1 historial de busca">
 <!ENTITY pref_private_data_formdata2 "Historial de formulario">
@@ -498,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Ubrir en una pestanya privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Adhibir-lo a la pantalla inicial">
+<!ENTITY contextmenu_set_as_homepage "Fixar como pachina d\u0027inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Apegar-lo e ir-ie">
 <!ENTITY contextmenu_paste "Apegar">
@@ -538,6 +538,8 @@ size. -->
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Pestanyas compactas">
+<!ENTITY pref_compact_tabs_summary2 "Organizar las pestanyas en dos columnas verticals">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -691,7 +693,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Buscar &formatS2; en &formatS1;">
 
 <!ENTITY searchable_description "Marcapachinas y historia">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Actualización disponible ta &brandShortName;">
 <!ENTITY updater_start_select2 "Toque-ie ta baixar-la">
 
 <!ENTITY updater_downloading_title2 "Se ye baixando &brandShortName;">
@@ -699,7 +703,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toque-ie ta aplicar l\u0027esvielle malas que se baixe">
 <!ENTITY updater_downloading_retry2 "Toque-ie ta tornar a prebar-lo">
 
-
+<!ENTITY updater_apply_title3 "Actualización disponible ta &brandShortName;">
+<!ENTITY updater_apply_select3 "Tocar pa instalar">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -844,4 +849,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Descartar">
 <!ENTITY activity_stream_delete_history "Borrar de l\u0027historial">
 
-
+<!ENTITY activity_stream_welcome_title "Bienveniu a los tuyos Highlights">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; crea agora highlights de cosas que has descubierto en o web, pa que siga de buen tornar a trobar grans articlos, videos, marcapachinas y atras pachinas.">
