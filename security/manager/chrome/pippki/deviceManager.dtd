@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Parcourir…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title                       "Charger un périphérique PKCS#11">
