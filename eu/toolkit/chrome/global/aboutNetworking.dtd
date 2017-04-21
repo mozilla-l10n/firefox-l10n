@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Berritu automatikoki 3 segundoro">
 <!ENTITY aboutNetworking.hostname              "Ostalari-izena">
 <!ENTITY aboutNetworking.port                  "Ataka">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktibo">
 <!ENTITY aboutNetworking.idle                  "Inaktibo">

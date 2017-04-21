@@ -37,7 +37,7 @@
 <!ENTITY netOffline.title "Lineaz kanpo">
 <!ENTITY netOffline.longDesc2 "<p>Nabigatzailea lineaz kanpo dago eta ezin du eskatutako elementuarekin konektatu.</p><ul><li>Ordenagailua sare aktibo batera konektatuta dago?</li><li>Jarri nabigatzailea linean eta berritu orria.</li></ul>">
 
-<!ENTITY contentEncodingError.title "Edukien kodeketaren errorea">
+<!ENTITY contentEncodingError.title "Edukien kodeketa-errorea">
 <!ENTITY contentEncodingError.longDesc "<p>Ikusten saiatzen ari zaren orria ezin da ikusi baliogabeko edo onartzen ez den konpresio mota bat erabiltzen baitu.</p><ul><li>Jarri harremanetan gunearen arduradunarekin arazo honen berri emateko.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Fitxategi mota ez-segurua">
