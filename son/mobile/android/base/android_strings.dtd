@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Ga dira">
 <!ENTITY pref_home_updates_wifi "Wi-Fi hinne bande">
 <!ENTITY pref_category_home_homepage "Šintinmoo">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Šintinmoo kayandi">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Boŋ-se kanjey ">
 <!ENTITY pref_custom_tabs_summary3 "A ga naŋ porogaramey ma interneti nungey feeri nda &brandShortName; dumi hansante foo">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Goyyan ceebandu">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Tunante">
 <!ENTITY pref_plugins_tap_to_play2 "Mooru ka dirandi">
 <!ENTITY pref_plugins_disabled "Kayante">
-<!ENTITY pref_text_size "Kalimaɲaa kuru kayyan">
 <!ENTITY pref_restore_tabs "Kanjey yeeti">
 <!ENTITY pref_restore_always "Yeeti waati kul">
 <!ENTITY pref_restore_quit "Ma ši yeeti nda war fatta &brandShortName; ra">
-<!ENTITY pref_font_size_tiny "Kaccu">
-<!ENTITY pref_font_size_small "Kayna">
-<!ENTITY pref_font_size_medium "Sasawante">
-<!ENTITY pref_font_size_large "Beeri">
-<!ENTITY pref_font_size_xlarge "Bebbeeri">
-<!ENTITY pref_font_size_set "Kayandi">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Afozo cirya cahãntaa ga sar war anniyawey jine nda kargayan, nda doonay nda boŋ-naannay sifante. Kaŋ ir ši goy arriba se, kul ir goo d\u0027ir boŋ ka haya tejey šii war se bila nda alman wala hinni m\u0027a waažibandi. Maanaa ti goyyan bešere war se nda zama annuurante Interneti se.">
 
 <!ENTITY pref_media_autoplay_enabled "Yadda boŋhẽenandiyan ga">
 <!ENTITY pref_media_autoplay_enabled_summary "Dabari wala nungey ga hin ka widewo nda hoorayjinay tana hẽenandi ngi boŋ se">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Feeri sutura kanji ra">
 <!ENTITY contextmenu_remove "Kaa">
 <!ENTITY contextmenu_add_to_launcher "Tonto šintin moo dijoo ga">
+
 <!ENTITY contextmenu_share "Žemna">
 <!ENTITY contextmenu_pasteandgo "Dobu &amp; Koy">
 <!ENTITY contextmenu_paste "Dobu">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Ayyo">
 <!ENTITY button_no "Kalaa">
 <!ENTITY button_clear_data "Bayhayey kaa">
-<!ENTITY button_set "Kayandi">
+
 <!ENTITY button_clear "Tuusu">
 <!ENTITY button_copy "Berandi">
 
