@@ -66,12 +66,14 @@
 <!ENTITY bookmark_removed "Usunięto zakładkę">
 <!ENTITY bookmark_updated "Zaktualizowano zakładkę">
 <!ENTITY bookmark_options "Opcje">
+<!ENTITY bookmark_save "Zachowaj">
 <!ENTITY screenshot_added_to_bookmarks "Dodano zakładkę do zrzutu ekranu">
 <!ENTITY screenshot_folder_label_in_bookmarks "Zrzuty ekranu">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Do przeczytania">
 
 <!ENTITY bookmark_folder_items "Zakładki: &formatD;">
 <!ENTITY bookmark_folder_one_item "Zakładki: 1">
+<!ENTITY bookmark_parent_folder "Folder nadrzędny">
 
 <!ENTITY reader_saved_offline "Zachowano do korzystania offline">
 <!ENTITY reader_switch_to_bookmarks "Przejdź">
