@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "دچھن دبٲویو یا بوٛن گژھیو تٲریخ منز">
 <!ENTITY backForwardButtonMenuMac.tooltip "بوٛن كُن نیو تٲریخ ہاونئ خٲطرئ">
 <!ENTITY reloadCmd.label              "ریلوڈ کْریو ">
-<!ENTITY reloadButton.tooltip         "حالُك صفحئ كریو دوبارئ لوڈ">
 <!ENTITY stopCmd.label                "رُکأیو">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "یئ صفحئ لوڈ كروٛن كریو بند">
 <!ENTITY goEndCap.tooltip             "جاے بارس منز گژھیو نیبس منز">
 <!ENTITY printButton.label            "پرینٹ">
 <!ENTITY printButton.tooltip          "یئ صفحئ چھپٲویو">
@@ -227,8 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "ژھآنڈیو">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "ہوم">
 
@@ -357,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -748,6 +748,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "سینك">
 
 
@@ -856,3 +858,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "مزید ہیچھیوDRM…مُتلق ">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

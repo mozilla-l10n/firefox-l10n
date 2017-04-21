@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "آٹو ریفریش کْریو پریتھ ۳ منٹ گْژھیتھ">
 <!ENTITY aboutNetworking.hostname              "ہوسٹْہ ناو">
 <!ENTITY aboutNetworking.port                  "پورٹ ">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ایکٹیو ">
 <!ENTITY aboutNetworking.idle                  "بیکار">

@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "فانٹ تْہ رنگ">
 
-<!ENTITY  defaultFont.label           "ڈیفالٹ فانٹ:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "سایز:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "ایڈوانسڈ...">
 <!ENTITY  advancedFonts.accesskey     "A">

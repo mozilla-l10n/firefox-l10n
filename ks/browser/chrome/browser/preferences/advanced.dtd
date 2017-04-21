@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "اپ ڈیٹ ">
 
-<!ENTITY updateAuto1.label               "پانٲی كریواپڈیٹس اِنسٹال(مشورئ بہتر حفاظت كر۪یتھ)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "زہِن مئ وچھیو اپڈیٹس (چھُ نئ مشوَرئ یوان دِنئ، حفٲظتی خطراتاو كِن)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "اپڈیٹ تٲریخ ہٲویو">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "پس۪ی منظر خدمت كریو استیمال اپڈیٹس اِنسٹال كرنئ خٲطرئ">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "ژھانڈ اِ نجن">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "غٲر مومول">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "آفلاین ڈاٹا ہٹٲویو">
 
 <!ENTITY certificateTab.label            "سرٹیفیکٹس ">
-
 
 <!ENTITY selectCerts.auto                "اكھ ژٲریو پٲنیی">
 

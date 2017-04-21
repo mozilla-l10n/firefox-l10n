@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "نظر تھَوان">
 
 
@@ -26,14 +28,12 @@
 
 <!ENTITY  locationBar.label             "جاے بار">
 
-<!ENTITY  locbar.suggest.label          "ییلہ استعمال کران أسیو لوکیشن بار، صلاح دِیِو:">
 <!ENTITY  locbar.history.label          "تٲریخ">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "نشان زَد">
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "ٹیب  كھولیو">
 <!ENTITY  locbar.openpage.accesskey     "ٹ">
-
 
 
 
@@ -58,8 +58,7 @@
 <!ENTITY  showCookies.label             "كوكیز ہٲویو...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "برینڈ لكُٹ ناو; تئ آس۪ی:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "تٲریخ تھٲویو یاد">
 <!ENTITY  historyHeader.dontremember.label "تٲریخ مئ  تھٲویو زَہ۪ین  یاد">
 <!ENTITY  historyHeader.custom.label       "كسٹم سیٹینگس كریو استیمال تٲریخ خٲطرئ">
