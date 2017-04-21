@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Arverañ ar gwarez heuliañ">
+
 <!ENTITY  trackingProtectionAlways.label       "Atav">
 <!ENTITY  trackingProtectionAlways.accesskey   "t">
 <!ENTITY  trackingProtectionPrivate.label      "Er prenestroù prevez hepken">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Barrenn chomlec'hioù">
 
-<!ENTITY  locbar.suggest.label          "Pa 'z implijan ar varrenn chomlec'hioù, aliañ:">
 <!ENTITY  locbar.history.label          "Roll istor">
 <!ENTITY  locbar.history.accesskey      "R">
 <!ENTITY  locbar.bookmarks.label        "Sinedoù">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Enklaskoù kar adalek al lusker enklask dre ziouer ">
 <!ENTITY  locbar.searches.accesskey     "o">
 
-<!ENTITY  suggestionSettings.label      "Kemmañ ar gwellvezioù evit ar c'hinnigoù luskerioù enklask...">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Degemer toupinoù adalek lec'hiennoù">
 <!ENTITY  acceptCookies.accesskey       "D">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Diskouez an toupinoù…">
 <!ENTITY  showCookies.accesskey         "i">
 
-<!ENTITY  historyHeader.pre.label          "Gant &brandShortName; e vo:">
-<!ENTITY  historyHeader.pre.accesskey      "v">
+
 <!ENTITY  historyHeader.remember.label     "Derc'hel soñj ar roll istor">
 <!ENTITY  historyHeader.dontremember.label "Ne zerc'hel ket soñj ar roll istor">
 <!ENTITY  historyHeader.custom.label       "Implijout arventennoù personelaet evit ar roll istor">

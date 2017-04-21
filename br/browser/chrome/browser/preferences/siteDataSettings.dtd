@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Arventennoù - Roadennoù lec'hienn">
-<!ENTITY     settings.description          "Al lec'hiennoù da heul o deus goulennet kadaviñ roadennoù war ho kantenn. Gallout a rit erspizañ peseurt lec'hiennoù a zo aotreet da gadaviñ roadennoù lec'hienn. Ar roadennoù lec'hienn dre ziouer a zo padennek ha gallout a reont bezan dilammet ent emgefreek.">
 <!ENTITY     hostCol.label                 "Lec'hienn">
 <!ENTITY     statusCol.label               "Stad">
 <!ENTITY     usageCol.label                "Kadaviñ">
-<!ENTITY     searchPlaceHolder             "Klask:">
-<!ENTITY     searchPlaceHolder.accesskey   "K">
+
+
 <!ENTITY     removeSelected.label          "Dilemel ar re ziuzet">
 <!ENTITY     removeSelected.accesskey      "D">
 <!ENTITY     save.label                    "Enrollañ ar c'hemmoù">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Nullañ">
 <!ENTITY     cancel.accesskey              "N">
 <!ENTITY     removingDialog.title          "O tilemel roadennoù al lec'hienn">
-<!ENTITY     removingDialog.description    "Dilemel roadennoù al lec'hienn a zilamo an toupinoù ivez. Digennasket e viot eus al lec'hiennoù ha dilemel a raio endalc'hadoù ezlinenn al lec'hiennoù. Sur oc'h e fell deoc'h ober-se?">
+
 <!ENTITY     siteTree.label                "Dilamet e vo an toupinoù lec'hienn da-heul:">

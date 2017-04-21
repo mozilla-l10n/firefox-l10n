@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Hizivaat">
 
 <!ENTITY updateApplication.label         "Hizivadurioù evit &brandShortName; :">
-<!ENTITY updateAuto1.label               "Staliañ an hizivadennoù ent emgefreek (erbedet : diogelroez gwellaet)">
-<!ENTITY updateAuto1.accesskey           "h">
-<!ENTITY updateCheckChoose.label         "Gwiriañ mard ez eus hizivadurioù met leuskel ac'hanon dibab mar bezint staliet">
-<!ENTITY updateCheckChoose.accesskey     "G">
-<!ENTITY updateManual.label              "Na wiriañ biken mard ez eus hizivadurioù (ket erbedet : arvarus evit ho tiogelroez)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Diskouez roll istor an hizivaat">
-<!ENTITY updateHistory.accesskey         "r">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
 <!ENTITY useService.accesskey            "v">
 
-<!ENTITY autoUpdateOthers.label          "Hizivaat ent emgefreek">
-<!ENTITY enableSearchUpdate.label        "Kefluskerioù klask">
-<!ENTITY enableSearchUpdate.accesskey    "K">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Lavarout din pa vez goulennet gant ul lec'hienn mirout roadennoù evit un arver ezlinenn">
 <!ENTITY offlineStorageNotify.accesskey           "a">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Dilemel ar roadennoù ezlinenn">
 
 <!ENTITY certificateTab.label            "Testenioù">
-<!ENTITY certPersonal.label              "Azgoulennoù">
-<!ENTITY certPersonal.description        "Pa vez goulennet ma zesteni personel gant un dafariad:">
+
 <!ENTITY selectCerts.auto                "Diuz unan ent emgefreek">
 <!ENTITY selectCerts.auto.accesskey      "D">
 <!ENTITY selectCerts.ask                 "Goulenn diganin bewech">

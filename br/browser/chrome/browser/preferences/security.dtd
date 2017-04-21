@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Hollek">
-
 <!ENTITY  warnOnAddonInstall.label        "Kas keloù din pa glask al lec'hiennoù staliañ askouezhioù">
 <!ENTITY  warnOnAddonInstall.accesskey    "K">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "N">
 
 
-<!ENTITY  logins.label                  "Titouroù kennaskañ">
 
-<!ENTITY  rememberLogins.label          "Derc'hel soñj eus va titouroù kennaskañ evit al lec'hiennoù">
-<!ENTITY  rememberLogins.accesskey      "D">
 <!ENTITY  passwordExceptions.label      "Nemedennoù…">
 <!ENTITY  passwordExceptions.accesskey  "m">
 

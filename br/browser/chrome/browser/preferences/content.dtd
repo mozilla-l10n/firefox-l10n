@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Nodrezhoù ha Livioù">
 
-<!ENTITY  defaultFont.label           "Nodrezh dre ziouer :">
-<!ENTITY  defaultFont.accesskey       "o">
-<!ENTITY  defaultSize.label           "Ment :">
-<!ENTITY  defaultSize.accesskey       "t">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Kempleshoc'h…">
 <!ENTITY  advancedFonts.accesskey     "p">

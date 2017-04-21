@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 62em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 57em; min-height: 39.5em;">
 
-<!ENTITY  paneGeneral.title       "Hollek">
-<!ENTITY  paneTabs.title          "Ivinelloù">
-<!ENTITY  paneSearch.title        "Klask">
-<!ENTITY  paneContent.title       "Endalc'had">
-<!ENTITY  paneApplications.title  "Arloadoù">
-<!ENTITY  panePrivacy.title       "Buhez prevez">
-<!ENTITY  paneContainers.title    "Ivinelloù endalc'her">
-<!ENTITY  paneSecurity.title      "Diogelroez">
-<!ENTITY  paneAdvanced.title      "Kempleshoc'h…">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Hollek">
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Skoazell">
+<!ENTITY  paneContainers.title          "Ivinelloù endalc'her">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Klask">
