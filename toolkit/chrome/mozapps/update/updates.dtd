@@ -6,21 +6,7 @@
 <!ENTITY  checking.title                  "Kuhlola lokuvuselelwe">
 
 
-
-
-
 <!ENTITY  noupdatesfound.title            "Akukho lokuvuselelwe lokutfolakele">
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -46,17 +32,12 @@
 
 
 
-
-
 <!ENTITY  finishedPage.title              "Lokuvuselelwe sekulindze kufakwa">
 
 
 <!ENTITY  finishedBackground.name         "Vuselela:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 
-<!ENTITY  installed.title                 "Lokuvuselelwe kufakiwe">
-<!ENTITY  installed.intro                 "Lokuvuselelwe kwafakwa kahle.">
-<!ENTITY  whatsnew.label                  "Fundza kakhulu ngalokusha…">
 
 <!ENTITY  update.details.label            "Imininingwane">
 <!ENTITY  update.installedOn.label        "Kufakwe ku:">

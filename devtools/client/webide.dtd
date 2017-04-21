@@ -50,7 +50,6 @@
 
 
 
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
@@ -58,6 +57,7 @@
 <!-- show toolbox -->
 <!-- toggle sidebar -->
 <!-- zoom -->
+
 
 
 
@@ -110,7 +110,7 @@
 
 
 
-<!-- Permissions Table -->
+
 
 <!-- Runtime Details -->
 
@@ -148,8 +148,12 @@
      devices that can scan a QR code. -->
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
+
 <!-- Logs panel -->
 <!-- Simulator Options -->
+
+
+
 
 
 
