@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "فعال شد">
 <!ENTITY pref_home_updates_wifi "فقط با Wi-Fi">
 <!ENTITY pref_category_home_homepage "صفحه خانگی">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "تنظیم یک صفحه خانگی">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "زبانه‌های سفارشی">
 <!ENTITY pref_custom_tabs_summary3 "اجازه دادن به برنامه‌ها برای باز کردن وب‌سایت‌ها از طریق یک نسخه سفارشی از &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "جریان فعالیت‌ها">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "فعال شد">
 <!ENTITY pref_plugins_tap_to_play2 "اجرا از طریق لمس کردن">
 <!ENTITY pref_plugins_disabled "غیرفعال شد">
-<!ENTITY pref_text_size "اندازهٔ متن">
 <!ENTITY pref_restore_tabs "بازآوری زبانه‌ها">
 <!ENTITY pref_restore_always "همیشه برگردان">
 <!ENTITY pref_restore_quit "پس از خروج از &brandShortName; بازآوری نکن">
-<!ENTITY pref_font_size_tiny "ریز">
-<!ENTITY pref_font_size_small "کوچک">
-<!ENTITY pref_font_size_medium "متوسط">
-<!ENTITY pref_font_size_large "بزرگ">
-<!ENTITY pref_font_size_xlarge "خیلی بزرگ">
-<!ENTITY pref_font_size_set "تنظیم کردن">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "الف">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "روباه سریع نارنجی بالاتر از انتظارات شما با سرعت بیشتر می‌پرد، انعطاف‌پذیری بیشتر و امنیت بالاتر. ما به عنوان یک سازمان غیر انتفاعی، ما برای نوآوری از جانب شما بدون هر گونه فشار به سازش آزاد هستیم. این یعنی تجربه‌ای بهتر برای شما و آینده‌ای بهتر برای وب.">
 
 <!ENTITY pref_media_autoplay_enabled "اجازه پخش خودکار">
 <!ENTITY pref_media_autoplay_enabled_summary "بررسی قابلیت پخش خودکار ویدئو و دیگر محتوای رسانه بر روی پایگاه‌های وب">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "باز کردن در زبانهٔ خصوصی">
 <!ENTITY contextmenu_remove "حذف">
 <!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
+
 <!ENTITY contextmenu_share "اشتراک‌گذاری">
 <!ENTITY contextmenu_pasteandgo "چسباندن و رفتن">
 <!ENTITY contextmenu_paste "چسباندن">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "بله">
 <!ENTITY button_no "خیر">
 <!ENTITY button_clear_data "پاک‌کردن اطلاعات">
-<!ENTITY button_set "تنظیم کردن">
+
 <!ENTITY button_clear "پاک کردن">
 <!ENTITY button_copy "رونوشت">
 
