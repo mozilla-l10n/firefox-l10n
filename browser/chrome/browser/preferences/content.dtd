@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Tipo de letra e cores">
 
-<!ENTITY  defaultFont.label           "Tipo de letra predefinido:">
-<!ENTITY  defaultFont.accesskey       "d">
-<!ENTITY  defaultSize.label           "Tamanho:">
-<!ENTITY  defaultSize.accesskey       "n">
+<!ENTITY  defaultFont2.label          "Tipo de letra predefinido">
+<!ENTITY  defaultFont2.accesskey      "d">
+<!ENTITY  defaultSize2.label          "Tamanho">
+<!ENTITY  defaultSize2.accesskey      "n">
 
 <!ENTITY  advancedFonts.label         "Avançadas…">
 <!ENTITY  advancedFonts.accesskey     "A">

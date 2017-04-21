@@ -58,7 +58,7 @@
 <!ENTITY offlineStorage2.label           "Conteúdo web offline e dados do utilizador">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-<!ENTITY siteData.label                  "Dados dos sites">
+<!ENTITY siteData.label                  "Dados de sites">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
 <!ENTITY clearSiteData.accesskey         "L">
 <!ENTITY siteDataSettings.label          "Definições…">
