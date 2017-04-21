@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Omogućeno">
 <!ENTITY pref_home_updates_wifi "Samo preko Wi-Fi">
 <!ENTITY pref_category_home_homepage "Početna stranica">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Postavi početnu stranicu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Prilagođene kartice">
 <!ENTITY pref_custom_tabs_summary3 "Dozvoli aplikacijama otvaranje web stranica koristeći prilagođenu &brandShortName; inačicu.">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Pregled aktivnosti">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Omogućeno">
 <!ENTITY pref_plugins_tap_to_play2 "Pritisnite za pokretanje">
 <!ENTITY pref_plugins_disabled "Onemogućeno">
-<!ENTITY pref_text_size "Veličina teksta">
 <!ENTITY pref_restore_tabs "Vrati kartice">
 <!ENTITY pref_restore_always "Uvijek vrati">
 <!ENTITY pref_restore_quit "Ne vraćaj nakon izlaza iz &brandShortName;">
-<!ENTITY pref_font_size_tiny "Sićušan">
-<!ENTITY pref_font_size_small "Mali">
-<!ENTITY pref_font_size_medium "Srednji">
-<!ENTITY pref_font_size_large "Veliki">
-<!ENTITY pref_font_size_xlarge "Vrlo veliki">
-<!ENTITY pref_font_size_set "Postavi">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Brza narančasta lisica preskače vaša očekivanja sa još više brzine, više fleksibilnosti i više sigurnosti. Kao neprofitna organizacija, slobodni smo inovirati u vaše ime bez pritiska za kompromisima. To znači bolje iskustvo za vas i svijetlija budućnost za Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Dozvoli automatsku reprodukciju">
 <!ENTITY pref_media_autoplay_enabled_summary "Upravljajte da li web stranice mogu automatski reproducirati video i drugi medijski sadržaj">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Otvori u privatnoj kartici">
 <!ENTITY contextmenu_remove "Ukloni">
 <!ENTITY contextmenu_add_to_launcher "Dodaj na početni ekran">
+
 <!ENTITY contextmenu_share "Dijeli">
 <!ENTITY contextmenu_pasteandgo "Zalijepi i kreni">
 <!ENTITY contextmenu_paste "Zalijepi">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Da">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Obriši podatke">
-<!ENTITY button_set "Postavi">
+
 <!ENTITY button_clear "Obriši">
 <!ENTITY button_copy "Kopiraj">
 
