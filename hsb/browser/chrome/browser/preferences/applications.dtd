@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "Nałoženja">
+<!ENTITY  applications.description "Wubjerće, kak &brandShortName; ma z datajemi, kotrež z interneta sćahujeće abo z nałoženjemi, kotrež při přehladowanju wužiwaće, wobchadźeć.">
+
 <!ENTITY  typeColumn.label        "Wobsahowy typ">
 <!ENTITY  typeColumn.accesskey    "W">
 
@@ -11,4 +14,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
-<!ENTITY  filter.emptytext        "Pytać">
+<!ENTITY  filter2.emptytext        "Datajowe typy abo nałoženja přepytać">

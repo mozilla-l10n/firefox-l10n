@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mjeno grata">
-<!ENTITY changeSyncDeviceName.label "Mjeno grata změnić…">
-<!ENTITY changeSyncDeviceName.accesskey "z">
+<!ENTITY changeSyncDeviceName1.label "Mjeno grata změnić">
+<!ENTITY changeSyncDeviceName1.accesskey "z">
 <!ENTITY cancelChangeSyncDeviceName.label "Přetorhnyć">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Składować">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změnić">
 <!ENTITY verifiedManage.label        "Konto rjadować">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Zwisk dźělić…">
-<!ENTITY disconnect.accesskey        "Z">
+<!ENTITY disconnect2.label           "Zwisk dźělić">
+<!ENTITY disconnect2.accesskey       "Z">
 <!ENTITY verify.label                "E-mejl přepruwować">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Tutu e-mejl zabyć">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Přizjewić">
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
-<!ENTITY signedIn.engines.label       "Mjez wšěmi gratami synchronizować">
+<!ENTITY signedIn.settings.label       "Nastajenja synchronizacije">
+<!ENTITY signedIn.settings.description "Wubjerće, štož ma so z &brandShortName; na wašich gratach synchronizować.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

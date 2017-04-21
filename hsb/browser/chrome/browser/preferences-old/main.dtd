@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; a Firefox dowolić, w samsnym času běžeć">
 <!ENTITY useFirefoxSync.label             "Pokiw: To separatne profile wužiwa. Wužiwajće Sync, zo byšće daty mjez nimi dźělił.">
-<!ENTITY getStarted.label                 "Sync startować…">
+<!ENTITY getStarted.notloggedin.label     "So pola &syncBrand.shortName.label; přizjewić…">
+<!ENTITY getStarted.configured.label      "Nastajenja &syncBrand.shortName.label; wočinić">
 
 <!ENTITY e10sEnabled.label                "Wjaceprocesowy &brandShortName; zmóžnić">

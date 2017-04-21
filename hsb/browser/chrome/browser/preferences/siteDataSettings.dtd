@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastajenja - sydłowe daty">
-<!ENTITY     settings.description          "Slědowace websydła su so woprašeli, hač smědźa sydłowe daty na wašej tačeli składować. Móžeće podać, kotre websydła smědźa sydłowe daty składować. Standardne sydłowe daty su nachwilne a dadźa so awtomatisce zhašeć.">
 <!ENTITY     hostCol.label                 "Sydło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Składowak">
-<!ENTITY     searchPlaceHolder             "Pytać">
-<!ENTITY     searchPlaceHolder.accesskey   "P">
+<!ENTITY     searchTextboxPlaceHolder             "Websydła pytać">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Wubrane wotstronić">
 <!ENTITY     removeSelected.accesskey      "u">
 <!ENTITY     save.label                    "Změny składować">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Přetorhnyć">
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Daty sydła wotstronić">
-<!ENTITY     removingDialog.description    "Hdyž so daty sydła wotstronjeja, so tež placki wotstronja. Přez to móžeće so websydła wotzjewić a webwobsah offline wotstronić. Chceće woprawdźe změny přewjesć?">
+<!ENTITY     removingSelected.description  "Hdyž daty sydła wotstronjeće, budu so tež přisłušne placki a webwobsah offline wotstronjeć. Přez to so snano z websydłow wotzjewiće. Chceće změny woprawdźe přewjesć?">
 <!ENTITY     siteTree.label                "Slědowace placki websydła so wotstronja:">
