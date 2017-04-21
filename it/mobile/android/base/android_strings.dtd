@@ -332,8 +332,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "Password copiata negli appunti">
 <!ENTITY doorhanger_login_select_action_text "Seleziona un altro accesso">
 <!ENTITY doorhanger_login_select_title "Copia password da">
-<!ENTITY pref_magnifying_glass_enabled "Ingrandisci aree piccole">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Ingrandisci link e campi dei moduli quando si tocca l’area circostante.">
 <!ENTITY pref_scroll_title_bar2 "Navigazione a schermo intero">
 <!ENTITY pref_scroll_title_bar_summary2 "Nascondi la barra degli strumenti di &brandShortName; quando si scorre una pagina verso il basso">
 <!ENTITY pref_tab_queue_title3 "Accoda schede">
@@ -440,7 +438,6 @@
 <!ENTITY exit_guest_session_text "I dati relativi a questa sessione di navigazione verranno eliminati.">
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
-<!ENTITY percent "&formatS;&#37;&#37;">
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Fatto">
 <!ENTITY voicesearch_prompt "Parla ora">
