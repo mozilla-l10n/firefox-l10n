@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Jaqäl">
 <!ENTITY pref_home_updates_wifi "Xa xe pa Mek\u0027am">
 <!ENTITY pref_category_home_homepage "Ruxaq tikirisab\u0027äl">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Chuqa\u0027 nokisäx pa k\u0027ak\u0027a\u0027 taq ruwi\u0027">
 <!ENTITY home_homepage_title "Tiwachib\u0027ëx pe richin ruxaq tikirib\u0027äl">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "Ichinan taq ruwi\u0027">
 <!ENTITY pref_custom_tabs_summary3 "Tiya\u0027 q\u0027ij chi ri taq chokoy kekijaqa\u0027 taq ruxaq k\u0027amaya\u0027l rik\u0027in jun ichinan ruwäch &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Tijaq pa &formatS;">
+<!ENTITY custom_tabs_menu_footer "Samajib\u0027en ruma &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Wachib\u0027en URL ">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Ruk\u0027isib\u0027al taq samaj">
@@ -350,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "Jaqon">
 <!ENTITY pref_plugins_tap_to_play2 "Tachapa\u0027 qa richin natzïj">
 <!ENTITY pref_plugins_disabled "Man jaqäl ta">
-<!ENTITY pref_text_size "Rupalem ri rucholajem tzij">
 <!ENTITY pref_restore_tabs "Ketzolïx kiwäch ri taq ruwi\u0027">
 <!ENTITY pref_restore_always "Junelïk titzolïx ruwäch">
 <!ENTITY pref_restore_quit "Man titzolïx chik ruwäch toq nel el pa &brandShortName;">
-<!ENTITY pref_font_size_tiny "Ruxil">
-<!ENTITY pref_font_size_small "Ko\u0027ol">
-<!ENTITY pref_font_size_medium "Loman">
-<!ENTITY pref_font_size_large "Nïm">
-<!ENTITY pref_font_size_xlarge "Yalan nïm">
-<!ENTITY pref_font_size_set "Tib\u0027an runuk\u0027ulem">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Ri q\u0027anq\u0027öj par aninäq niropin chi rij ri nrajo\u0027 nuq\u0027i\u0027, nuya\u0027 q\u0027ij chi nasamajij chuqa\u0027 richin nichajin. Achi\u0027el jun moloj majun ruch\u0027akoj, uxlanib\u0027äl qak\u0027u\u0027x richin niqutzilaj ri rub\u0027i\u0027 majun niq\u0027ax ta qatzij richin naya\u0027 atzij qik\u0027in. Re tzij re\u0027 nuq\u0027ajuj chi janila ütz nub\u0027än ak\u0027aslemal chuqa\u0027 jeb\u0027ël ruk\u0027aslem ri k\u0027amaya\u0027l ri chwa\u0027q kab\u0027ij.">
+<!ENTITY pref_use_system_font_size "Tokisäx ri rupalem ruwäch rutz\u0027ib\u0027 q\u0027inoj">
+<!ENTITY pref_use_system_font_size_summary "Ruxakb\u0027al rupam ajk\u0027amaya\u0027l achi\u0027el ri rupalem ruwäch rutz\u0027ib\u0027 q\u0027inoj">
 
 <!ENTITY pref_media_autoplay_enabled "Tiya\u0027 q\u0027ij chi titzijtäj ruyonil">
 <!ENTITY pref_media_autoplay_enabled_summary "Tatz\u0027eta\u0027 we ri taq ruxaq k\u0027amaya\u0027l yetikïr yekitzij taq silowäch pa ruyonil, ke ri\u0027 chuqa\u0027 ch\u0027aqa\u0027 chik taq k\u0027ïy k\u0027oxom">
@@ -500,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Tijaq pa jun ichinan ruwi\u0027">
 <!ENTITY contextmenu_remove "Tiyuj el">
 <!ENTITY contextmenu_add_to_launcher "Titz\u0027aqatisäx apo pa ruwäch tikirib\u0027äl">
+<!ENTITY contextmenu_set_as_homepage "Tichap achi\u0027el Tikirisanel ruxaq">
 <!ENTITY contextmenu_share "Tikomonïx">
 <!ENTITY contextmenu_pasteandgo "Titz\u0027ajb\u0027äx chuqa\u0027 tib\u0027e">
 <!ENTITY contextmenu_paste "Titz\u0027ajb\u0027äx">
@@ -573,7 +571,7 @@ size. -->
 <!ENTITY button_yes "Ja\u0027">
 <!ENTITY button_no "Mani">
 <!ENTITY button_clear_data "Kejosq\u0027ïx ri taq tzij">
-<!ENTITY button_set "Tichap achi\u0027el">
+<!ENTITY button_set "Tichap">
 <!ENTITY button_clear "Tijosq\u0027ïx">
 <!ENTITY button_copy "Tiwachib\u0027ëx">
 
