@@ -20,11 +20,11 @@
 <!ENTITY calendar.events.filter.today.label "Днешните събития">
 <!ENTITY calendar.events.filter.future.label "Всички бъдещи събития">
 <!ENTITY calendar.events.filter.current.label "Избрания ден">
-<!ENTITY calendar.events.filter.currentview.label "Събития в текущия изглед">
-<!ENTITY calendar.events.filter.next7Days.label "Събития в следващите 7 дена">
-<!ENTITY calendar.events.filter.next14Days.label "Събития в следващите 14 дена">
-<!ENTITY calendar.events.filter.next31Days.label "Събития в следващите 31 дена">
-<!ENTITY calendar.events.filter.thisCalendarMonth.label "Събития в този календарен месец">
+<!ENTITY calendar.events.filter.currentview.label "Събитията от текущия изглед">
+<!ENTITY calendar.events.filter.next7Days.label "Събитията от следващите 7 дена">
+<!ENTITY calendar.events.filter.next14Days.label "Събитията от следващите 14 дена">
+<!ENTITY calendar.events.filter.next31Days.label "Събитията от следващите 31 дена">
+<!ENTITY calendar.events.filter.thisCalendarMonth.label "Събитията от календарния месец">
 
 <!-- LOCALIZATION NOTE(calendar.unifinder.tree.done.tooltip)
    - This label and tooltip is used for the column with the checkbox in the
@@ -104,7 +104,7 @@
 <!ENTITY calendar.orientation.label "Завъртане на изгледа" >
 <!ENTITY calendar.orientation.accesskey "в" >
 
-<!ENTITY calendar.search.options.searchfor " съдържа">
+<!ENTITY calendar.search.options.searchfor " съдържащи">
 
 <!ENTITY calendar.list.header.label                 "Календар">
 
