@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "ডিভাইসের নাম">
-<!ENTITY changeSyncDeviceName.label "ডিভাইসের নাম পরিবর্তন করুন">
-<!ENTITY changeSyncDeviceName.accesskey "h">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "বাতিল">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "সংরক্ষণ">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "প্রোফাইলের ছবি পরিবর্তন করুন">
 <!ENTITY verifiedManage.label        "অ্যাকাউন্ট পরিচালনা">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "বিচ্ছিন্ন">
-<!ENTITY disconnect.accesskey        "D">
+
+
 <!ENTITY verify.label                "ইমেল যাচাই">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "এই ইমেইল ভুলে যাও">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "সাইন ইন">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "সব ডিভাইসে সিঙ্ক করুন">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
