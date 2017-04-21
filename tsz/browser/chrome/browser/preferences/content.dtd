@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "I">
 
 
-<!ENTITY  defaultFont.label           "Kararakueecha enkaksï janoni jaka:">
-<!ENTITY  defaultFont.accesskey       "K">
-<!ENTITY  defaultSize.label           "Naxani kea:">
-<!ENTITY  defaultSize.accesskey       "N">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Orhepaniksï...">
 <!ENTITY  advancedFonts.accesskey     "O">

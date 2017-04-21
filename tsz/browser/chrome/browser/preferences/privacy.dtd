@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Chuxatapani">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Marhuatatarakuecha">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Xerpeaani…">
 <!ENTITY  showCookies.accesskey         "X">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; uáati:">
-<!ENTITY  historyHeader.pre.accesskey      "u">
+
 <!ENTITY  historyHeader.remember.label     "Karakata patsakatani miántani">
 <!ENTITY  historyHeader.dontremember.label "Karakata patsakatani nóteru miántani">
 <!ENTITY  historyHeader.custom.label       "Karakata patsakatantini májku pérache">

@@ -13,17 +13,11 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Iamu ampe">
-<!ENTITY  paneTabs.title          "Arhukutarakua">
-
-<!ENTITY  paneContent.title       "Jatakata">
-<!ENTITY  paneApplications.title  "Ampekampeksï maruasïni">
-<!ENTITY  panePrivacy.title       "Jantiaku jurakuni">
+<!ENTITY  paneGeneral.title             "Iamu ampe">
 
 
-<!ENTITY  paneAdvanced.title      "Orhepaniksï">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Jarhuajpikua">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+

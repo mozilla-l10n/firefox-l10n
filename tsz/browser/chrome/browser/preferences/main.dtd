@@ -9,8 +9,7 @@
 <!ENTITY startupBlankPage.label    "Xarhanharhita jimpanhi eranharhitakuani">
 
 
-<!ENTITY homepage.label            "Xarhata eranharhitakuani:">
-<!ENTITY homepage.accesskey        "X">
+
 <!ENTITY useCurrentPage.label      "Úra Eranharhitakuani enka xaranharhikuarhini jaka">
 <!ENTITY useCurrentPage.accesskey  "k">
 <!ENTITY useMultiple.label         "Úra eranharhitakuechani enka xaranharhi kuarhini jakaksï">
@@ -26,6 +25,7 @@
 
 <!ENTITY chooseFolderMac.label        "K´umanharhitani…">
 <!ENTITY chooseFolderMac.accesskey    "K">
+
 
 
 
