@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "စကားဝှက်သိမ်းခြင်းဆိုင်ရာ စာတိုပန်နယ်ကို ဖွင့်ပါ">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "အသုံးပြုနေသော ပလက်ဂ်အင်ကို စီမံရန်">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ယခုဝဘ်ဆိုက်ထံမှ အသိပေးချက်များ ရယူနိုင်ရန်ဖြစ်စေ မရယူနိုင်ရန်ဖြစ်စေ ပြောင်းလဲသတ်မှတ်နိုင်သည်။">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "အမြဲသိမ်း သိုလှောင် နေရာတွင် သိမ်းမည်">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ကင်မရာ နှင့်/သို့မဟုတ် မိုက္ကရိုဖုန်းကို ယခုဝဘ်ဆိုက်နှင့်အတူ မျှဝေအသုံးပြုခြင်းကို စီမံနိုင်သည်။">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ယခုဝဘ်ဆိုက်နှင့်အတူ မိုက္ကရိုဖုန်း မျှဝေအသုံးပြုခြင်းကို စီမံရန်">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် တည်နေရာဆိုင်ရာ အချက်အလက်ကောက်ယူခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ယခုဝဘ်ဆိုက်အတွက် အသိပေးချက်များပြသခြင်းကို တားဆီးထားသည်။">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "အမြဲသိုလှောင်နေရာအား ယခုဝတ်ဆိုဒ်အတွက် ပိတ်ထားပါတယ်">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync ဆိုင်ရာ အပြင်အဆင်များ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "သင့်အခြားကိရိယာများရှိ တပ်ဗ်စာရင်းကို ကြည့်ရန် ဝင်ရောက်ပါ။">
 <!ENTITY appMenuRemoteTabs.signin.label "Sync ကို အသုံးပြုရန် လက်မှတ်ထိုး ဝင်ရောက်ပါ">
+<!ENTITY appMenuRemoteTabs.managedevices.label "စက်ကရိယာများကို ထိန်းသိမ်းမည်…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ထပ်တူပြုပြီးသောတပ်ဗ်များ ဘေးတန်းကို ကြည့်ရန်">
 
 <!ENTITY customizeMenu.addToToolbar.label "ကိရိယာအတန်းသို့ ထည့်ပါ">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "အားလုံးကို တပ်ဗ်များဖြင့် ဖွင့်ပါ">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "ကိရိယာများကို စီမံရန်…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +901,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM အကြောင်း ပိုမိုလေ့လာပါ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "လျင်မြန်မှုနှင့် ကိုယ်ရေးကာကွယ်မှု အကောင်းဆုံး ဖြစ်စေရန် သင့် &brandShorterName; ကို အဆင့်မြှင့်ပါ။">
+<!ENTITY updateAvailable.whatsnew.label "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။">
+<!ENTITY updateAvailable.header.message "နောက်ဆုံးပေါ် &brandShorterName; အသစ် ရရှိပါပြီ။">
+<!ENTITY updateAvailable.acceptButton.label "နောက်ဆုံးပေါ်ကို ဆွဲယူပါ">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
 
 
