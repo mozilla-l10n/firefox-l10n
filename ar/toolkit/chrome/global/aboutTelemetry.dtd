@@ -80,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  ملاحظة: تنقيح SQL البطيء مُفعّل. قد تظهر نصوص SQL كاملة أدناه، لكن لن تُرسل إلى تليمتري.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  اجلب أسماء الدوال للمكدّسات">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  اعرض بيانات المكدس الخام">
 
 <!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">
 
