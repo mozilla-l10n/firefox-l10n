@@ -385,9 +385,6 @@
 <!ENTITY doorhanger_login_select_action_text "Wybierz inne">
 <!ENTITY doorhanger_login_select_title "Kopiuj hasło dla">
 
-<!ENTITY pref_magnifying_glass_enabled "Powiększanie małych obszarów">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Zwiększanie odnośników i pól formularzy po dotknięciu obok nich">
-
 <!ENTITY pref_scroll_title_bar2 "Przeglądanie pełnoekranowe">
 <!ENTITY pref_scroll_title_bar_summary2 "Ukrywanie paska przeglądarki &brandShortName; przy przewijaniu stron">
 
@@ -538,7 +535,6 @@
 
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
-<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Gotowe">
