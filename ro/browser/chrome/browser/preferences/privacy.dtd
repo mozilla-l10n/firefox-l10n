@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecția față de urmărire">
-
-
+<!ENTITY  trackingProtection.description       "Urmărirea este atunci când companiile colectează informații despre tine pentru a construi un profil și pentru a afișa conținut pe baza datelor tale de navigare și personale.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blochează afișarea de conținut din partea companiile cunoscute pentru urmărirea utilizatorilor">
 <!ENTITY  trackingProtectionAlways.label       "Întotdeauna">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Doar în ferestrele private">
@@ -32,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Bară de adresă">
 
-<!ENTITY  locbar.suggest2.label         "Când se folosește bara adresei, sugerează:">
+<!ENTITY  locbar.suggest2.label         "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
@@ -42,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Căutări similare de la motorul de căutare implicit">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Schimbă preferințele pentru su&amp;gestiile motoarelor de căutare…">
 
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">

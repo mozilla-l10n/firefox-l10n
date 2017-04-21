@@ -24,7 +24,7 @@
 <!ENTITY  defaultFont.label           "Font implicit:">
 <!ENTITY  defaultFont.accesskey       "F">
 <!ENTITY  defaultSize.label           "Mărime:">
-<!ENTITY  defaultSize.accesskey       "i">
+<!ENTITY  defaultSize.accesskey       "S">
 
 <!ENTITY  advancedFonts.label         "Avansat…">
 <!ENTITY  advancedFonts.accesskey     "A">

@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fonturi și culori">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Font implicit:">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Mărime:">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Avansat…">
 <!ENTITY  advancedFonts.accesskey     "A">

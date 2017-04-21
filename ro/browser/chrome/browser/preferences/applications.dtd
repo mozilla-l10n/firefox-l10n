@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "Aplicații">
+<!ENTITY  applications.description "Alege felul în care &brandShortName; gestionează fișierele pe care le descarci de pe web sau aplicațiile pe care le folosești atunci când navighezi.">
 
 <!ENTITY  typeColumn.label        "Tip de conținut">
 <!ENTITY  typeColumn.accesskey    "T">
@@ -12,3 +14,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
+<!ENTITY  filter2.emptytext        "Caută tipuri de fișiere sau aplicații">

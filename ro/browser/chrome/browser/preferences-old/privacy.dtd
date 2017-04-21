@@ -30,7 +30,7 @@
 
 <!ENTITY  locationBar.label             "Bară de adresă">
 
-<!ENTITY  locbar.suggest.label          "Când se folosește bara adresei, sugerează:">
+<!ENTITY  locbar.suggest.label          "Când se folosește bara de adresă, sugerează:">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Semne de carte">
