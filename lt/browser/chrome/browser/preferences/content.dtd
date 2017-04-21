@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Šriftai ir spalvos">
 
-<!ENTITY  defaultFont.label           "Numatytasis šriftas:">
-<!ENTITY  defaultFont.accesskey       "u">
-<!ENTITY  defaultSize.label           "Numatytasis dydis:">
-<!ENTITY  defaultSize.accesskey       "d">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Kitkas…">
 <!ENTITY  advancedFonts.accesskey     "t">

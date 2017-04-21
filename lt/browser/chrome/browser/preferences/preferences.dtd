@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 52em; min-height: 41.5em;">
 
-<!ENTITY  paneGeneral.title       "Bendrosios">
-<!ENTITY  paneTabs.title          "Kortelės">
-<!ENTITY  paneSearch.title        "Paieška">
-<!ENTITY  paneContent.title       "Saitynas">
-<!ENTITY  paneApplications.title  "Programos">
-<!ENTITY  panePrivacy.title       "Privatumas">
-<!ENTITY  paneContainers.title    "Sudėtinio rodinio kortelės">
-<!ENTITY  paneSecurity.title      "Saugumas">
-<!ENTITY  paneAdvanced.title      "Kitkas">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Bendrosios">
 
-<!ENTITY  paneSync.title          "Sinchronizavimas">
 
-<!ENTITY  helpButton.label        "Žinynas">
+<!ENTITY  paneContainers.title          "Sudėtinio rodinio kortelės">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Paieška">
