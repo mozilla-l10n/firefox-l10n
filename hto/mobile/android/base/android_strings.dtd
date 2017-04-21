@@ -201,6 +201,8 @@
 <!ENTITY pref_home_updates_enabled "Ite ráa taɨneka abɨdo">
 <!ENTITY pref_home_updates_wifi "Dáma íedo Wi-Fi">
 <!ENTITY pref_category_home_homepage "Rábe taɨnede">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Rábe taɨnede jone">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -265,6 +267,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -329,26 +335,12 @@
 <!ENTITY pref_plugins_enabled "Ite ráa taɨneka abɨdo">
 <!ENTITY pref_plugins_tap_to_play2 "Jéta fɨnodeyena">
 <!ENTITY pref_plugins_disabled "Já oni oga ">
-<!ENTITY pref_text_size "Dɨeze rabéniko">
 <!ENTITY pref_restore_tabs "Úitɨraɨ abɨdo fɨ́no">
 <!ENTITY pref_restore_always "Ñúe fɨ́no">
 <!ENTITY pref_restore_quit "Jóneñenona jáiri de &brandShortName;">
-<!ENTITY pref_font_size_tiny "Ɨuere dúera">
-<!ENTITY pref_font_size_small "Dúe">
-<!ENTITY pref_font_size_medium "Ɨdai">
-<!ENTITY pref_font_size_large "Áiyue">
-<!ENTITY pref_font_size_xlarge "Ɨuere áiyue">
-<!ENTITY pref_font_size_set "Abɨno fɨ́no ">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "́Egáɨ ɨere raɨréde, ñue fɨnode ie éenote. Afemɨe jéraɨñide ie nuera ráanɨaɨ fɨnodekaɨ ñuereyena. Beno daɨde ñuerara omo ite ie baɨfene ñuera web.">
 
 <!ENTITY pref_media_autoplay_enabled "Abɨdo bóno bíemo dáma ">
 <!ENTITY pref_media_autoplay_enabled_summary "Dɨno okuide web joreño fɨnoka dáma jóneyena">
@@ -476,6 +468,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Ó dáma uitɨraɨ túño">
 <!ENTITY contextmenu_remove "Fuitade">
 <!ENTITY contextmenu_add_to_launcher "Taɨniamo zota éroiya ráa">
+
 <!ENTITY contextmenu_share "Dánomo ">
 <!ENTITY contextmenu_pasteandgo "Nítade jáide">
 <!ENTITY contextmenu_paste "Nítade ">
@@ -547,7 +540,7 @@ size. -->
 <!ENTITY button_yes "́Jɨɨ">
 <!ENTITY button_no "Jetáñede ">
 <!ENTITY button_clear_data "Ráanɨaɨ dóiri.">
-<!ENTITY button_set "Jóne ">
+
 <!ENTITY button_clear "Dote ">
 <!ENTITY button_copy "Fakádote">
 
