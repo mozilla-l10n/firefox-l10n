@@ -18,8 +18,11 @@
 
 
 <!ENTITY  paneContainers.title          "Innihalds flipar">
-
+<!ENTITY  paneUpdates.title             "Uppfærslur">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!ENTITY  paneSync1.title          "Firefox reikningur">
+
+<!ENTITY  helpButton2.label        "&brandShortName; Stuðningur">
 
 <!ENTITY  searchInput.label        "Leita">

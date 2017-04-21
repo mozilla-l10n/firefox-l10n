@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Leyfa &brandShortName; og Firefox að keyra á sama tíma">
 <!ENTITY useFirefoxSync.label             "Ábending: Þetta notar aðskilda reikninga. Notaðu Sync til að deila gögnum á milli þeirra.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Skráðu þig inn í &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Opna &syncBrand.shortName.label; stillingar">
 
 <!ENTITY e10sEnabled.label                "Virkja fjölþráða &brandShortName;">
