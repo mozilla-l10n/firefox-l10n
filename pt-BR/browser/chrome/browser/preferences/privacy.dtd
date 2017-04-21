@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
+<!ENTITY  trackingProtection.description       "Rastreamento é quando empresas coletam informações sobre você para criar um perfil e exibir conteúdo baseado em sua navegação e dados pessoais.">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Só em janelas privativas">
@@ -30,6 +31,7 @@
 
 <!ENTITY  locationBar.label             "Barra de endereço">
 
+<!ENTITY  locbar.suggest2.label         "Ao digitar um endereço, sugerir">
 <!ENTITY  locbar.history.label          "Histórico">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Favoritos">
@@ -62,6 +64,7 @@
 <!ENTITY  showCookies.label             "Mostrar cookies…">
 <!ENTITY  showCookies.accesskey         "x">
 
+<!ENTITY  historyHeader2.pre.label         "O &brandShortName; irá">
 <!ENTITY  historyHeader.remember.label     "Memorizar tudo">
 <!ENTITY  historyHeader.dontremember.label "Nunca memorizar">
 <!ENTITY  historyHeader.custom.label       "Usar minhas configurações">
