@@ -84,12 +84,24 @@
 <!ENTITY updateTab.label                 "Agiorna">
 
 <!ENTITY updateApplication.label         "Agiornamenti de &brandShortName;">
+<!ENTITY updateApplication.description   "Permetti a &brandShortName; de">
+<!ENTITY updateAuto2.label               "Instalâ in outomatico i agiornamenti (racomandou pe avei 'na megio seguessa)">
+<!ENTITY updateAuto2.accesskey           "I">
+<!ENTITY updateCheckChoose2.label        "Contròlla se gh'é agiornamenti, ma famme decidde se instalali">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "No controlâ mai se gh'é agiornamenti (no racomandou)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Fanni vedde a stöia di agiornamenti…">
+<!ENTITY updateHistory2.accesskey        "g">
 
 <!ENTITY useService.label                "Uzâ 'n serviçio ascozo pe instalâ i agiornamenti">
 <!ENTITY useService.accesskey            "z">
 
+<!ENTITY enableSearchUpdate2.label       "Agiorna in outomatico i motoî de riçerca">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Dimme">
 
 <!ENTITY offlineStorageNotify.label               "Dimme quando un scito o veu sarvâ di dæti da êse adeuviæ feua linia">
 <!ENTITY offlineStorageNotify.accesskey           "D">
@@ -103,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Leva da mezo i dæti feua linia">
 
 <!ENTITY certificateTab.label            "Certificati">
+<!ENTITY certPersonal2.description       "Quande 'n server o domanda o teu certificato personale">
 <!ENTITY selectCerts.auto                "Seleçionn-a un in outomatico">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Domandimòu tutte e vòtte">
