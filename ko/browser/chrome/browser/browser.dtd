@@ -902,5 +902,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "&brandShorterName; 에 새 업데이트가 있습니다.">
 <!ENTITY updateAvailable.acceptButton.label "업데이트 내려받기">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "바로 안함">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 내려받기">
 
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; 내려받기">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "바로 안함">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "바로 안함">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "&brandShorterName;를 닫고 다시 열어서 업데이트 적용">
