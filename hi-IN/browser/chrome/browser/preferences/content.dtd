@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "फ़ॉन्ट व रंग">
 
-<!ENTITY  defaultFont.label           "तयशुदा फ़ॉन्ट:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "आकार:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "विस्तृत...">
 <!ENTITY  advancedFonts.accesskey     "A">
