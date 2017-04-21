@@ -81,21 +81,21 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
-<!ENTITY updateAuto1.label               "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
-<!ENTITY updateAuto1.accesskey           "a">
 
 
-<!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Mostra l'historial d'actualitzacions">
-<!ENTITY updateHistory.accesskey         "h">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY enableSearchUpdate.label        "Motors de cerca">
-<!ENTITY enableSearchUpdate.accesskey    "M">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
@@ -108,7 +108,6 @@
 <!ENTITY offlineAppRemove.confirm        "Suprimeix les dades fora de línia">
 
 <!ENTITY certificateTab.label            "Certificats">
-<!ENTITY certPersonal.label              "Sol·licituds">
 
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
 

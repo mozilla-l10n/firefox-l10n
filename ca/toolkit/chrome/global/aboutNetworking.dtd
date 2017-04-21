@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Actualitza automàticament cada 3 segons">
 <!ENTITY aboutNetworking.hostname              "Nom de l'ordinador central">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Actiu">
 <!ENTITY aboutNetworking.idle                  "Inactiu">
