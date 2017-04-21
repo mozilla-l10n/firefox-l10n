@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Telusuri…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
-<!ENTITY loaddevice.title                       "Muat perangkat PKCS#11">
