@@ -133,7 +133,7 @@
 <!ENTITY detail.homepage.label                "Үй парағы">
 <!ENTITY detail.numberOfDownloads.label       "Жүктемелер">
 
-<!ENTITY detail.contributions.description     "Бұл кеңейтудің өңдеушісі сізден шағын ғана ақшалай көмек беріп, оның жұмысын қолдау көрсетуді сұраған.">
+<!ENTITY detail.contributions.description     "Бұл кеңейтудің өңдеушісі сізден шағын ғана демеушілік етіп, оның жұмысын қолдау көрсетуді сұраған.">
 
 <!ENTITY detail.updateType                    "Автожаңартулар">
 <!ENTITY detail.updateDefault.label           "Негізгі">

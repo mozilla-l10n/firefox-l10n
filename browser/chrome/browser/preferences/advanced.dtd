@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Жаңартулар">
 
 <!ENTITY updateApplication.label         "&brandShortName; жаңартулары">
-<!ENTITY updateAuto1.label               "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
-<!ENTITY updateAuto1.accesskey           "а">
-<!ENTITY updateCheckChoose.label         "Жаңартуларды тексеру, бірақ орнату уақытын өзін тандайсын">
-<!ENTITY updateCheckChoose.accesskey     "н">
-<!ENTITY updateManual.label              "Жаңартуларды тексермеу (ұсынылмайды: қауіпсіздік төмендейді)">
-<!ENTITY updateManual.accesskey          "р">
+<!ENTITY updateApplication.description   "&brandShortName; үшін рұқсат ету">
+<!ENTITY updateAuto2.label               "Жаңартуларды автоматты түрде орнату (қауіпсіздікті арттыру мақсатында ұсынылады)">
+<!ENTITY updateAuto2.accesskey           "а">
+<!ENTITY updateCheckChoose2.label        "Жаңартуларды тексеру, бірақ орнату керектігін өзіңіз тандайсыз">
+<!ENTITY updateCheckChoose2.accesskey    "з">
+<!ENTITY updateManual2.label             "Жаңартуларды тексермеу (ұсынылмайды)">
+<!ENTITY updateManual2.accesskey         "р">
 
-<!ENTITY updateHistory.label             "Жаңартулар тарихын көрсету">
-<!ENTITY updateHistory.accesskey         "р">
+<!ENTITY updateHistory2.label            "Жаңартулар тарихын көрсету…">
+<!ENTITY updateHistory2.accesskey        "р">
 
 <!ENTITY useService.label                "Жаңартуларды орнату үшін фон қызметін қолдану">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY autoUpdateOthers.label          "Автожаңарту">
-<!ENTITY enableSearchUpdate.label        "Іздеу плагиндері үшін">
-<!ENTITY enableSearchUpdate.accesskey    "п">
+<!ENTITY enableSearchUpdate2.label       "Іздеу жүйелерін автожаңарту">
+<!ENTITY enableSearchUpdate2.accesskey   "а">
+
+<!ENTITY reports.label                   "Есептемелер">
 
 <!ENTITY offlineStorageNotify.label               "Веб-сайт дербес режимде қолданылатын мәліметтерді сақтауды сұраса, сені ескерту">
 <!ENTITY offlineStorageNotify.accesskey           "р">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Дербес режимдегі веб-сайттардың ақпаратын өшіру">
 
 <!ENTITY certificateTab.label            "Сертификаттар">
-<!ENTITY certPersonal.label              "Сұранымдар">
-<!ENTITY certPersonal.description        "Егерде сервер сіздің жеке сертификатыңызды сұраса:">
+<!ENTITY certPersonal2.description       "Егерде сервер сіздің жеке сертификатыңызды сұраса">
 <!ENTITY selectCerts.auto                "Мені сұрамай-ақ жіберу">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Әрбір ретте cізден сұрау">

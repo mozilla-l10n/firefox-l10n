@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Нұсқасы">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; мүмкіндіктері">
+<!ENTITY aboutSupport.featureName "Аты">
+<!ENTITY aboutSupport.featureVersion "Нұсқасы">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Эксперименталды мүмкіндіктер">
 <!ENTITY aboutSupport.experimentName "Аты">
 <!ENTITY aboutSupport.experimentId "ID">
