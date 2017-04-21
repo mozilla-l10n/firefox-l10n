@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Nhấn chuột phải hoặc kéo xuống để hiển thị lịch sử">
 <!ENTITY backForwardButtonMenuMac.tooltip "Kéo xuống để xem lịch sử">
 <!ENTITY reloadCmd.label              "Tải lại">
-<!ENTITY reloadButton.tooltip         "Tải lại trang này">
 <!ENTITY stopCmd.label                "Dừng">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Dừng tải trang này">
 <!ENTITY goEndCap.tooltip             "Mở trang trong thanh địa chỉ">
 <!ENTITY printButton.label            "In">
 <!ENTITY printButton.tooltip          "In trang này">
@@ -227,8 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Tìm kiếm">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Trang nhà">
 
@@ -357,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -761,6 +761,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 
@@ -872,3 +874,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Tìm hiểu thêm về DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

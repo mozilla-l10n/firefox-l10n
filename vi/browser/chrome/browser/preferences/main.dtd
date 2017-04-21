@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Khởi động">
 
-<!ENTITY startupPage.label         "Khi &brandShortName; khởi động:">
-<!ENTITY startupPage.accesskey     "K">
+
 
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
 
 
-<!ENTITY homepage.label            "Trang chủ:">
-<!ENTITY homepage.accesskey        "c">
+
 <!ENTITY useCurrentPage.label      "Sử dụng Trang hiện tại">
 <!ENTITY useCurrentPage.accesskey  "a">
 <!ENTITY useMultiple.label         "Dùng các Trang hiện tại">
@@ -39,6 +37,7 @@
 
 <!ENTITY separateProfileMode.label        "Cho phép &brandShortName; và Firefox cùng chạy song song">
 <!ENTITY useFirefoxSync.label             "Mẹo nhỏ: Việc này sử dụng các profile độc lập nhau.  Bạn có thể dùng Sync để đồng bộ giữa chúng.">
-<!ENTITY getStarted.label                 "Bắt đầu sử dụng Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "Cho phép &brandShortName; dùng đa tiến trình">

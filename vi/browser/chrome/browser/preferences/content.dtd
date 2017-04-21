@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "Phông &amp; Màu sắc">
 
-<!ENTITY  defaultFont.label           "Phông mặc định:">
-<!ENTITY  defaultFont.accesskey       "P">
-<!ENTITY  defaultSize.label           "Kích cỡ:">
-<!ENTITY  defaultSize.accesskey       "K">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Nâng cao…">
 <!ENTITY  advancedFonts.accesskey     "o">
