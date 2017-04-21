@@ -39,6 +39,7 @@
 
 <!ENTITY separateProfileMode.label        "Letlelela &brandShortName; le Firefox go dira ka nako e le nngwe">
 <!ENTITY useFirefoxSync.label             "Tlhababotlhale: Se se dirisa diporofaele tse di kgaoganeng. Dirisa thulaganyo ka tsamaiso go aba tshedimosetso fa gare ga tsone.">
-<!ENTITY getStarted.label                 "Simolola go dirisa Thulaganyo ka tsamaiso..">
+
+
 
 <!ENTITY e10sEnabled.label                "Kgontsha Thulaganyo-bontsi &brandShortName;">
