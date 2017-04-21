@@ -4,8 +4,7 @@
 
 <!ENTITY startup.label             "Ntangiriro">
 
-<!ENTITY startupPage.label         "&brandShortName; nitangira:">
-<!ENTITY startupPage.accesskey     "n">
+
 
 <!ENTITY startupBlankPage.label    "Kwerekana paji itanditsweho">
 
@@ -27,6 +26,7 @@
 <!ENTITY chooseFolderWin.accesskey    "h">
 <!ENTITY chooseFolderMac.label        "Guhitamo...">
 <!ENTITY chooseFolderMac.accesskey    "h">
+
 
 
 

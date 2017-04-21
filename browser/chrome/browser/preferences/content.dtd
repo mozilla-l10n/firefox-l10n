@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "r">
 
 
-<!ENTITY  defaultFont.label           "Imyandikire mburabuzi:">
-<!ENTITY  defaultFont.accesskey       "m">
-<!ENTITY  defaultSize.label           "Ingano mburabuzi:">
-<!ENTITY  defaultSize.accesskey       "m">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Bihanitse...">
 <!ENTITY  advancedFonts.accesskey     "h">
