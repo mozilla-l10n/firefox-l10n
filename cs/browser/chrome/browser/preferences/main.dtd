@@ -23,13 +23,13 @@
 <!ENTITY downloads.label     "Stahování">
 
 <!ENTITY saveTo.label "Ukládat všechny soubory do">
-<!ENTITY saveTo.accesskey "U">
+<!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Procházet…">
-<!ENTITY chooseFolderWin.accesskey    "r">
+<!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Vybrat…">
 <!ENTITY chooseFolderMac.accesskey    "y">
 <!ENTITY alwaysAskWhere.label         "U každého souboru se zeptat, kam ho uložit">
-<!ENTITY alwaysAskWhere.accesskey     "k">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Kontrolovat, zda je &brandShortName; výchozím webovým prohlížečem">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
