@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Lí kúb lent xhon segundos">
 <!ENTITY aboutNetworking.hostname              "Pa xhoy">
 <!ENTITY aboutNetworking.port                  "Puerto">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "dob kíy">
 <!ENTITY aboutNetworking.idle                  "Na yuy yá">

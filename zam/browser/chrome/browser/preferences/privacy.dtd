@@ -7,6 +7,8 @@
 
 
 
+
+
 <!ENTITY  trackingProtectionLearnMore.label    "Lab Kue">
 
 
@@ -35,7 +37,6 @@
 
 
 
-
 <!ENTITY  acceptCookies.label           "Lash na cookie re">
 <!ENTITY  acceptCookies.accesskey       "L">
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "mb-lòɁ ré Cookies...">
 <!ENTITY  showCookies.accesskey         "m">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; tak liy:">
-<!ENTITY  historyHeader.pre.accesskey      "t">
+
 <!ENTITY  historyHeader.remember.label     "Ne loon kuan güin">
 <!ENTITY  historyHeader.dontremember.label "Na loot lu re kuan güin">
 <!ENTITY  historyHeader.custom.label       "Tak thus kuey ree koo de güil">

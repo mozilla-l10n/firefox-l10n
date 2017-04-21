@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             " Tòlô">
 
-<!ENTITY startupPage.label         "Xhe te te &brandShortName;:">
-<!ENTITY startupPage.accesskey     "e">
+
 
 <!ENTITY startupBlankPage.label    "Mb-lòɁ lô nakìs">
 
 
-<!ENTITY homepage.label            "Loo lish na:">
-<!ENTITY homepage.accesskey        "L">
+
 <!ENTITY useCurrentPage.label      "Mxhen loo ree">
 <!ENTITY useCurrentPage.accesskey  "e">
 <!ENTITY useMultiple.label         "Mxhen le loo ree">
@@ -38,5 +36,6 @@
 
 
 
-<!ENTITY getStarted.label                 "Tòlô Sync...">
+
+
 

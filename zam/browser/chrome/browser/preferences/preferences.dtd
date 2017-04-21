@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Ree ta koo taak niel">
-<!ENTITY  paneTabs.title          "Loo yib">
-<!ENTITY  paneSearch.title        "KwàɁn">
-<!ENTITY  paneContent.title       "Koo xho lent kue">
-<!ENTITY  paneApplications.title  "Ree koo tak li chel">
-<!ENTITY  panePrivacy.title       "Ko yent cho nie">
+<!ENTITY  paneGeneral.title             "Ree ta koo taak niel">
 
-<!ENTITY  paneSecurity.title      "Tish naa lasht luu yent cho niey">
-<!ENTITY  paneAdvanced.title      "Ko mach">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Taa diif yaal">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "KwàɁn">

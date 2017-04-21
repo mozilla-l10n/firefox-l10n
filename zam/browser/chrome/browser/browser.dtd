@@ -197,15 +197,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Toob kuan güin">
 <!ENTITY backForwardButtonMenuMac.tooltip "Loo kuan güin">
 <!ENTITY reloadCmd.label              "TeɁ zàp">
-<!ENTITY reloadButton.tooltip         "TeɁ zàp loo ré">
 <!ENTITY stopCmd.label                "Ngót~tòɁ">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Naa lash naa güin loo ree">
 <!ENTITY goEndCap.tooltip             "Cuan taa diff loo">
 <!ENTITY printButton.label            "Keey loo yets">
 <!ENTITY printButton.tooltip          "Kee loo yets loo ree">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Mbwíʔ yêts ré">
+
 
 
 
@@ -230,7 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY searchItem.title             "KwàɁn">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Tetey">
 
@@ -360,6 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync ndó~làz=lú">
 
 <!ENTITY appMenuRemoteTabs.signin.label "-taɁ lélù lèɁn Sync">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mbwíʔ Sync">
 
 
@@ -746,6 +746,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "-taɁ lélù &syncBrand.shortName.label;...">
@@ -835,6 +837,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
