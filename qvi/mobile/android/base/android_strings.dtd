@@ -201,6 +201,8 @@
 <!ENTITY pref_home_updates_enabled "Murikuyashka">
 <!ENTITY pref_home_updates_wifi "Wi-Fi mantallak">
 <!ENTITY pref_category_home_homepage "Tsirpayupa kallarina">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Wallpachana tsuirpayupa kallarina">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -265,6 +267,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -329,26 +335,12 @@
 <!ENTITY pref_plugins_enabled "Murikuyashka">
 <!ENTITY pref_plugins_tap_to_play2 "Takari riwichinkapak">
 <!ENTITY pref_plugins_disabled "Mana murikuyashka">
-<!ENTITY pref_text_size "Llatun chay kamu">
 <!ENTITY pref_restore_tabs "Kutin allichina chipiñakuna">
 <!ENTITY pref_restore_always "Tukuypacha kutin wallpachana">
 <!ENTITY pref_restore_quit "Mana kutin wallpachana hipa llukshishkapi chay &brandShortName;">
-<!ENTITY pref_font_size_tiny "Yapa uchillapacha ">
-<!ENTITY pref_font_size_small "Uchilla">
-<!ENTITY pref_font_size_medium "Mallta">
-<!ENTITY pref_font_size_large "Hatun">
-<!ENTITY pref_font_size_xlarge "Hatun pachak">
-<!ENTITY pref_font_size_set "Tikuna">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Chay utka añas kishpu kushpana ashtawan kikin na yakta ashtaka pankallakta ashtawas usharikta ashtawan allikichinata. Shina hatun tantanahuy na chariyanata munashpa ushanaya kanchi shuk shinanata kampak shutipi mana charishpa nimapash kanakay. Kayra ashtawan allipacha ushana kampak shina hatun allipacha shamuk kaypa Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Sakina kutin shinana paylla">
 <!ENTITY pref_media_autoplay_enabled_summary "Tutiwy hayka web kuskakuna riwichina payllara videukunata, shukta multimedia charishkapash.">
@@ -476,6 +468,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Paskana shuk chipiñapi shukllayak">
 <!ENTITY contextmenu_remove "Anchuchina">
 <!ENTITY contextmenu_add_to_launcher "Yapana Kallarina Llikllarikumpi">
+
 <!ENTITY contextmenu_share "Wakina">
 <!ENTITY contextmenu_pasteandgo "Tinkishpa Rina">
 <!ENTITY contextmenu_paste "Tinkichina">
@@ -547,7 +540,7 @@ size. -->
 <!ENTITY button_yes "Ari">
 <!ENTITY button_no "Mana">
 <!ENTITY button_clear_data "Pichana chanikuna">
-<!ENTITY button_set "Wallpachana">
+
 <!ENTITY button_clear "Pichana">
 <!ENTITY button_copy "Kutin killkana">
 
