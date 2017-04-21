@@ -55,6 +55,7 @@
 <!ENTITY bookmark_removed "Segnalibro eliminato">
 <!ENTITY bookmark_updated "Segnalibro aggiornato">
 <!ENTITY bookmark_options "Opzioni">
+<!ENTITY bookmark_save "Salva">
 <!ENTITY screenshot_added_to_bookmarks "Schermata aggiunta ai segnalibri">
 <!ENTITY screenshot_folder_label_in_bookmarks "Schermate">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Elenco lettura">
