@@ -84,6 +84,7 @@
 <!ENTITY updateTab.label                 "Надоградње">
 
 <!ENTITY updateApplication.label         "&brandShortName; ажурирања">
+<!ENTITY updateApplication.description   "Дозволи &brandShortName;-у да">
 
 
 <!ENTITY useService.label                "Употреби позадинске сервисе за инсталацију надоградњи">
