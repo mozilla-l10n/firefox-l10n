@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Kaonafatšo">
 
-<!ENTITY updateAuto1.label               "Lokela dimpshafatšo ka maitirišo (e a hlohleletšwa; tšhireletšego yeo e kaonafaditšwego)">
-<!ENTITY updateAuto1.accesskey           "a">
 
 
-<!ENTITY updateManual.label              "O se ke wa lekola dimpshafatšo (ga e hlohleletšwe, kotsi ya tšhireletšego)">
-<!ENTITY updateManual.accesskey          "O">
 
-<!ENTITY updateHistory.label             "Laetša histori ya kaonafatšo">
-<!ENTITY updateHistory.accesskey         "o">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Diriša tirelo ya bokamorago gore o lokele dimpshafatšo">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "Dientšene tša nyako">
-<!ENTITY enableSearchUpdate.accesskey    "e">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Maarogi…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Tloša tsebišo yeo e sego inthaneteng">
 
 <!ENTITY certificateTab.label            "Ditifikeiti">
-
 
 <!ENTITY selectCerts.auto                "Kgetha e tee ka maitirišo">
 

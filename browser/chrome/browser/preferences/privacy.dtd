@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Go latelela">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Para ya lefelo">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Laetša dikhukhi…">
 <!ENTITY  showCookies.accesskey         "L">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; e tla:">
-<!ENTITY  historyHeader.pre.accesskey      "t">
+
 <!ENTITY  historyHeader.remember.label     "Gopola histori">
 <!ENTITY  historyHeader.dontremember.label "O se ke wa gopola histori">
 <!ENTITY  historyHeader.custom.label       "Diriša dipeakanyo tša tlwaelo bakeng sa histori">

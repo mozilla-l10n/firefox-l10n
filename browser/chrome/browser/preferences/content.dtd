@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "T">
 
 
-<!ENTITY  defaultFont.label           "Fonte ya tirelwa:">
-<!ENTITY  defaultFont.accesskey       "F">
-<!ENTITY  defaultSize.label           "Bogolo:">
-<!ENTITY  defaultSize.accesskey       "B">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Gatetšego pele…">
 <!ENTITY  advancedFonts.accesskey     "G">
