@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "প্ৰতি ৩ ছেকেণ্ডত স্বচালিতভাৱে সতেজ কৰক">
 <!ENTITY aboutNetworking.hostname              "হস্টনাম">
 <!ENTITY aboutNetworking.port                  "পৰ্ট">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "সক্ৰিয়">
 <!ENTITY aboutNetworking.idle                  "অলস">

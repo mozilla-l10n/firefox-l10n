@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "আৰম্ভণি">
 
-<!ENTITY startupPage.label         "যেতিয়া &brandShortName; আৰম্ভ হয়:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "ৰিক্ত পৃষ্ঠা দেখুৱাওক">
 
 
-<!ENTITY homepage.label            "ঘৰ পৃষ্ঠা:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "বৰ্ত্তমানৰ পৃষ্ঠা ব্যৱহাৰ কৰক">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বৰ্ত্তমানৰ পৃষ্ঠাসমূহ ব্যৱহাৰ কৰক">
@@ -36,6 +34,7 @@
 
 <!ENTITY isDefault.label                  "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ">
 <!ENTITY isNotDefault.label               "&brandShortName; বৰ্তমানে আপোনাৰ অবিকল্পিত ব্ৰাউছাৰ নহয়">
+
 
 
 

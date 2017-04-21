@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "আখৰ আৰু ৰং">
 
-<!ENTITY  defaultFont.label           "অবিকল্পিত ফন্ট:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "আকাৰ:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "উন্নত…">
 <!ENTITY  advancedFonts.accesskey     "A">

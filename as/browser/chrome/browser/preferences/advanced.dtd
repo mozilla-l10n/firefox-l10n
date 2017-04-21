@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "আপডেইট কৰক">
 
-<!ENTITY updateAuto1.label               "আপডেইটসমূহ স্বচালিতভাৱে ইনস্টল কৰক (উপদেশিত: উন্নত সুৰক্ষা)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "আপডেইটসমূহৰ বাবে কেতিয়াও নীৰিক্ষণ নকৰিব (উপদেশিত নহয়: সুৰক্ষা ভয়)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "আপডেইটৰ ইতিহাস দেখুৱাওক">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "আপডেইটসমূহ ইনস্টল কৰিবলে এটা পটভূমি সেৱা ব্যৱহাৰ কৰক">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "সন্ধান ইঞ্জিনসমূহ">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "ব্যতিক্ৰমসমূহ…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "অফ-লাইন তথ্য আঁতৰাওঁক">
 
 <!ENTITY certificateTab.label            "প্ৰমাণপত্ৰসমূহ">
-
 
 <!ENTITY selectCerts.auto                "এটা নিজেই নিৰ্বাচন কৰিব">
 
