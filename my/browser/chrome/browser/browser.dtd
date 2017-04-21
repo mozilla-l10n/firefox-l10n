@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "ယခုဝဘ်ဆိုက်အတွက် တည်နေရာဆိုင်ရာ အချက်အလက်ကောက်ယူခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "ယခုဝဘ်ဆိုက်အတွက် အသိပေးချက်များပြသခြင်းကို တားဆီးထားသည်။">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "အမြဲသိုလှောင်နေရာအား ယခုဝတ်ဆိုဒ်အတွက် ပိတ်ထားပါတယ်">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "ယခုဝဘ်ဆိုက်အတွက် အချက်အလက်သိမ်းဆည်းခြင်းကို တားဆီးထားသည်။">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "မှတ်တမ်းကို ပြပါ">
 
@@ -906,5 +906,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "နောက်ဆုံးပေါ် &brandShorterName; အသစ် ရရှိပါပြီ။">
 <!ENTITY updateAvailable.acceptButton.label "နောက်ဆုံးပေါ်ကို ဆွဲယူပါ">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "နောက်ဆုံးပေါ် &brandShorterName; ကို ဆွဲယူပါ">
 
+<!ENTITY updateManual.message "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပြီး တပ်ဆင်ရာတွင် ကူညီလမ်းညွှန်ပါမည်။">
+<!ENTITY updateManual.whatsnew.label "ဘာအသစ်တွေ ပါဝင်ပါသလဲ။">
+<!ENTITY updateManual.header.message "&brandShorterName; သည် နောက်ဆုံးပေါ် ဗားရှင်းကို အဆင့်မမြှင့်နိုင်ပါ။">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ကို ဆွဲယူပါ">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပါ">
 
+<!ENTITY updateRestart.message "အမြန် ပြန်လည်စတင်ပြီးသည့်နောက်တွင် &brandShorterName; သည် ဖွင့်ထားခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။">
+<!ENTITY updateRestart.header.message "အဆင့်မြှင့်တင်ရန် &brandShorterName; ကို ပြန်ဖွင့်ပါ။">
+<!ENTITY updateRestart.acceptButton.label "ပြန်စတင်ပြီး ကြည့်ရှုထားခဲ့သည်များကို ပြန်ဖွင့်ပါ။">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "အဆင့်မြှင့်တင်ရန် &brandShorterName; ကို ပြန်ဖွင့်ပါ">
