@@ -10,5 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Ulanmagan">
 <!ENTITY aboutAccounts.noConnection.description "Hisobingizga kirish uchun internetga ulanish kerak.">
 <!ENTITY aboutAccounts.noConnection.retry "Yana urinib ko‘rish">
-<!ENTITY aboutAccounts.badConfig.title "Noto‘g‘ri sozlanagan">
+<!ENTITY aboutAccounts.badConfig.title "Moslama noto‘g‘ri">
 <!ENTITY aboutAccounts.badConfig.description "Firefox hisobingiz serveri sozlamasini aniqlab bo‘lmadi. Keyinroq qayta urinib ko‘ring.">
