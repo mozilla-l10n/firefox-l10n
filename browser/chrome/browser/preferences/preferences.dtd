@@ -15,5 +15,5 @@
 <!ENTITY paneContainers.title "Schede contenitore">
 <!ENTITY paneUpdates.title "Aggiornamenti">
 <!ENTITY paneSync1.title "Account Firefox">
-<!ENTITY helpButton.label2 "Supporto a &brandShortName;">
+<!ENTITY helpButton2.label "Supporto a &brandShortName;">
 <!ENTITY searchInput.label "Cerca">
