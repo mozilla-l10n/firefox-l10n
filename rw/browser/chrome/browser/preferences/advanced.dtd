@@ -80,13 +80,13 @@
 
 
 
-<!ENTITY updateHistory.label             "Kwerekana Amateka yo Kuvugurura">
-<!ENTITY updateHistory.accesskey         "e">
 
 
 
-<!ENTITY enableSearchUpdate.label        "Gushakisha Amamoteri">
-<!ENTITY enableSearchUpdate.accesskey    "s">
+
+
+
+
 
 
 
@@ -98,7 +98,6 @@
 
 
 <!ENTITY certificateTab.label            "Ibyemezo">
-
 
 <!ENTITY selectCerts.auto                "Guhitamo kimwe mu buryo bwikora">
 

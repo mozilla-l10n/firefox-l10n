@@ -12,17 +12,12 @@
 
 
 
-<!ENTITY  paneGeneral.title       "Rusange">
-<!ENTITY  paneTabs.title          "Udufishi">
-<!ENTITY  paneSearch.title        "Gushakisha">
-<!ENTITY  paneContent.title       "Ibikubiyemo">
-<!ENTITY  paneApplications.title  "Porogaramu">
-<!ENTITY  panePrivacy.title       "Ubuzima Bwite">
+<!ENTITY  paneGeneral.title             "Rusange">
 
-<!ENTITY  paneSecurity.title      "Umutekano">
-<!ENTITY  paneAdvanced.title      "Bihanitse">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Huza">
 
-<!ENTITY  helpButton.label        "Ifashayobora">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Gushakisha">

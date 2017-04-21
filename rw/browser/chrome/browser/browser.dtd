@@ -179,13 +179,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY reloadButton.tooltip         "Kongera Gutangiza Paji Igezweho">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Guhagarika Gutangiza Iyi Paji">
 <!ENTITY goEndCap.tooltip             "Kujya kuri aderesi mu Mwanya w'Indangahantu">
 <!ENTITY printButton.label            "Gucapa">
 <!ENTITY printButton.tooltip          "Gucapa Iyi Paji">
+
 
 
 
@@ -327,6 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -714,6 +714,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY customizeMode.lwthemes.menuManage "Tunganya">
 
 
@@ -769,6 +771,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
