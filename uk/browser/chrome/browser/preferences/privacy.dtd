@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Захист від стеження">
+<!ENTITY  trackingProtection.description       "Стеження - це коли компанії збирають інформацію про вас з метою створення профілю та показу вмісту на основі вашого перегляду й особистих даних.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Блокувати показ вмісту від відомих компаній стеження">
 <!ENTITY  trackingProtectionAlways.label       "Завжди">
 <!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Лише у приватних вікнах">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Панель адреси">
 
+<!ENTITY  locbar.suggest2.label         "При використанні панелі адреси, пропонувати">
 <!ENTITY  locbar.history.label          "Історію">
 <!ENTITY  locbar.history.accesskey      "т">
 <!ENTITY  locbar.bookmarks.label        "Закладки">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Пов'язані пошуки з типового засобу пошуку">
 <!ENTITY  locbar.searches.accesskey     "П">
 
+<!ENTITY  suggestionSettings2.label     "Змінити налаштування пропозицій засобів пошуку">
 
 <!ENTITY  acceptCookies.label           "Приймати куки від сайтів">
 <!ENTITY  acceptCookies.accesskey       "к">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Показати куки…">
 <!ENTITY  showCookies.accesskey         "о">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; буде">
+<!ENTITY  historyHeader2.pre.accesskey     "б">
 <!ENTITY  historyHeader.remember.label     "Пам’ятати історію">
 <!ENTITY  historyHeader.dontremember.label "Ніколи не пам’ятати історії">
 <!ENTITY  historyHeader.custom.label       "Використовувати власні налаштування історії">
