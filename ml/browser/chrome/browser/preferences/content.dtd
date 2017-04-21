@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "അക്ഷരസഞ്ചയങ്ങളും നിറങ്ങളും">
 
-<!ENTITY  defaultFont.label           "സഹജമായ അക്ഷരസഞ്ചയം">
-<!ENTITY  defaultFont.accesskey       "സ">
-<!ENTITY  defaultSize.label           "വലിപ്പം :">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "സങ്കീര്‍ണ്ണമായവ...">
 <!ENTITY  advancedFonts.accesskey     "A">

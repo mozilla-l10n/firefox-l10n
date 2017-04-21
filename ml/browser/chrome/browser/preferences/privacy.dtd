@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "പിന്തുടരല്‍ സുരക്ഷ ഉപയോഗിക്കുക">
+
 <!ENTITY  trackingProtectionAlways.label       "എപ്പോഴും">
 <!ENTITY  trackingProtectionAlways.accesskey   "ഴ">
 <!ENTITY  trackingProtectionPrivate.label      "സ്വകാര്യ ജാലകങ്ങളില്‍ മാത്രം">
@@ -28,7 +28,6 @@
 
 <!ENTITY  locationBar.label             "സ്ഥാന തട്ട്">
 
-<!ENTITY  locbar.suggest.label          "ഒരു ലൊക്കേഷന്‍ ബാര്‍ ഉപയോഗിക്കുമ്പോള്‍ ഇവ നിർദ്ദേശിക്കുക:">
 <!ENTITY  locbar.history.label          "നാള്‍വഴി">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "അടയാളക്കുറിപ്പുകള്‍">
@@ -38,8 +37,6 @@
 <!ENTITY  locbar.searches.label         "സ്വതേയുള്ള തിരച്ചില്‍ യന്ത്രത്തില്‍ നിന്നുമുള്ള അനുബന്ധ തെരയലുകള്‍">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "തിരച്ചിൽ യന്ത്രത്തിന്‍റെ നിര്‍ദ്ദേശങ്ങള്‍ ക്രമീകരിക്കുക…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "സൈറ്റുകളില്‍ നിന്നും കുക്കികള്‍ അംഗീകരിക്കുക ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -61,8 +58,7 @@
 <!ENTITY  showCookies.label             "കുക്കികള്‍ കാണിക്കുക ">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "ഹിസ്റ്ററി ഓര്‍ക്കുക">
 <!ENTITY  historyHeader.dontremember.label "ഹിസ്റ്ററി ഇനിയും മുതല്‍ ഓര്‍ക്കരുത്">
 <!ENTITY  historyHeader.custom.label       "ഹിസ്റ്ററിക്കായ് ഇച്ഛാനുസൃതം  സജ്ജീകരണങ്ങള്‍ ഉപയോഗിക്കുക">
