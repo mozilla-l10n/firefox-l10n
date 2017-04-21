@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "تنظیمات - اطلاعات پایگاه اینترنتی">
-<!ENTITY     settings.description          "پایگاه اینترنتی مقابل از شما برای ذخیره سازی اطلاعات بر روی دیسک سوال می‌کند. شما می توانید تعیین کنید چه پایگاه اینترنتی دقیقا اجازه ذخیره سازی اطلاعات دارد. اطلاعات پایگاه‌های اینترنتی پیش فرض موقتی می باشد و به صورت خودکار حذف می شود. ">
 <!ENTITY     hostCol.label                 "پایگاه اینترنتی">
 <!ENTITY     statusCol.label               "وضعیت">
 <!ENTITY     usageCol.label                "فضای ذخیره سازی">
-<!ENTITY     searchPlaceHolder             "جست‌وجو">
-<!ENTITY     searchPlaceHolder.accesskey   "ج">
+
+
 <!ENTITY     removeSelected.label          "حذف موارد انتخاب شده">
 <!ENTITY     removeSelected.accesskey      "ح">
 <!ENTITY     save.label                    "ذخیره تغییرات">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "لغو‌">
 <!ENTITY     cancel.accesskey              "ل">
 <!ENTITY     removingDialog.title          "در حال حذف اطلاعات سایت">
-<!ENTITY     removingDialog.description    "حذف کردن تمامی اطلاعات سایت همچنین باعث حذف کوکی‌ها می‌شود. این کار ممکن است باعث خروج شما از وب سایت‌ها شود و همچنین حذف محتوا آفلاین وب. آیا مایلید این تغییر رخ دهد؟">
+
 <!ENTITY     siteTree.label                "کوکی‌های وب سایت های مقابل حذف شده‌اند: ">

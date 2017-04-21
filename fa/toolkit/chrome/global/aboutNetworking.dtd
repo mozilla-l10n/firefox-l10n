@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "نوسازی خودکار در هر ۳ ثانیه">
 <!ENTITY aboutNetworking.hostname              "نام میزبان">
 <!ENTITY aboutNetworking.port                  "درگاه">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "فعال">
 <!ENTITY aboutNetworking.idle                  "بی‌کار">

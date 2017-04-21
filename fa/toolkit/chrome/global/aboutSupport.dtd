@@ -21,6 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "نسخه">
 <!ENTITY aboutSupport.extensionId "شناسه">
 
+
+
+
+
 <!ENTITY aboutSupport.experimentsTitle "ویژگیهای آزمایشی">
 <!ENTITY aboutSupport.experimentName "نام">
 <!ENTITY aboutSupport.experimentId "شناسه">
