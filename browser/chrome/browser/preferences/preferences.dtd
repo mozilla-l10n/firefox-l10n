@@ -23,5 +23,6 @@
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox 账户">
 
+<!ENTITY  helpButton2.label        "&brandShortName; 支持">
 
 <!ENTITY  searchInput.label        "搜索">
