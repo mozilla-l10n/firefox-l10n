@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास दाखवण्यासाठी उजवी-क्लिक द्या किंवा खाली ओढा">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास दाखवण्याकरिता खाली ओढा">
 <!ENTITY reloadCmd.label              "पुन्हा लोड करा">
-<!ENTITY reloadButton.tooltip         "चालू पृष्ठ परत दाखल करा">
 <!ENTITY stopCmd.label                "थांबा">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "हे पृष्ठ दाखल करणे थांबवा">
 <!ENTITY goEndCap.tooltip             "स्थान पट्टीतील पत्त्यावर जा">
 <!ENTITY printButton.label            "छापा">
 <!ENTITY printButton.tooltip          "हे पृष्ठ छापा">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "साठवलेल्या पासवर्डसचा संदेश फलक उघडा">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इनचा वापर व्यवस्थापित करा">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "साइटवर आपला कॅमेरा आणि /किंवा मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "साइटवर आपला मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "आपण माहितीसाठा ह्या वेबसाईटसाठी अवरोधित केला आहे.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "आपण ह्या वेबसाइटसाठी सूचना अवरोधित केल्या आहे.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास दाखवा">
 
-<!ENTITY urlbar.zoomReset.tooltip     "झूम पातळी मूळस्थितीत आणा">
-
 <!ENTITY searchItem.title             "शोधा">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "घर, आरंभस्थळ">
 
@@ -376,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "ताळमेळ प्राधान्यक्रम">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "आपल्या इतर उपकरणांवरील टॅब्सची यादी पाहण्यासाठी साइन इन करा.">
 <!ENTITY appMenuRemoteTabs.signin.label "सींक करण्यासाठी साइन इन करा">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "ताळमेळ झालेले बाजुपट्टी बघा">
 
 <!ENTITY customizeMenu.addToToolbar.label "साधनपट्टीमध्ये समाविष्ट करा">
@@ -787,6 +786,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "ताळमेळ">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मध्ये साईन इन करा...">
@@ -899,3 +900,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

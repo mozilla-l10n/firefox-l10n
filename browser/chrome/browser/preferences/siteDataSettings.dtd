@@ -3,7 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "सेटिंग्स - साइट माहिती">
-<!ENTITY     settings.description          "खालील संकेतस्थळांनी डिस्क वर माहिती साठवायची परवानगी मागितली आहे. कोणत्या संकेतस्थळांना माहिती साठविण्याची परवानगी आहे हे आपण ठरवू शकता. संकेतस्थळांची पूर्वनिर्धारीत माहिती ही तात्पुरती असते आणि स्वयंरित्या नष्ट होऊ शकते.">
 <!ENTITY     hostCol.label                 "साइट">
 <!ENTITY     statusCol.label               "स्थिती">
 <!ENTITY     usageCol.label                "स्टोरेज">
