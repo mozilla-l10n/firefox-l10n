@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Virktar">
 <!ENTITY pref_home_updates_wifi "Eingöngu á Wi-Fi">
 <!ENTITY pref_category_home_homepage "Ræsisíða">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Velja ræsisíðu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Sérsniðnir flipar">
 <!ENTITY pref_custom_tabs_summary3 "Leyfa smáforritum að opna vefsvæði með því að nota sérsniðna útgáfu af &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Virkt">
 <!ENTITY pref_plugins_tap_to_play2 "Snerta til að spila">
 <!ENTITY pref_plugins_disabled "Óvirkt">
-<!ENTITY pref_text_size "Stærð texta">
 <!ENTITY pref_restore_tabs "Endurheimta flipa">
 <!ENTITY pref_restore_always "Alltaf endurheimta">
 <!ENTITY pref_restore_quit "Ekki endurheimta þegar &brandShortName; er lokað">
-<!ENTITY pref_font_size_tiny "Örsmátt">
-<!ENTITY pref_font_size_small "Lítið">
-<!ENTITY pref_font_size_medium "Miðstærð">
-<!ENTITY pref_font_size_large "Stórt">
-<!ENTITY pref_font_size_xlarge "Mjög stórt">
-<!ENTITY pref_font_size_set "Stilla">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Hinn hraði appelsínuguli refur hoppar yfir væntingar þínar með auknum hraða, meiri sveigjanleika og auknu öryggi. Okkur er frjálst að skapa nýjungar fyrir þína hönd án málamiðlunar því fyrirtækið okkar er ekki rekið í hagnaðarskyni. Þetta þýðir betri upplifun fyrir þig og bjartari framtíð fyrir vefinn.">
 
 <!ENTITY pref_media_autoplay_enabled "Leyfa sjálfvirka afspilun">
 <!ENTITY pref_media_autoplay_enabled_summary "Stjórna hvort vefsvæði geta sjálfvirkt spilað myndbönd og aðra miðla">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Opna í einkaflipa">
 <!ENTITY contextmenu_remove "Fjarlægja">
 <!ENTITY contextmenu_add_to_launcher "Bæta við á ræsisíðu">
+
 <!ENTITY contextmenu_share "Deila">
 <!ENTITY contextmenu_pasteandgo "Líma og hlaða">
 <!ENTITY contextmenu_paste "Líma">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Já">
 <!ENTITY button_no "Nei">
 <!ENTITY button_clear_data "Hreinsa gögn">
-<!ENTITY button_set "Stilla">
+
 <!ENTITY button_clear "Hreinsa">
 <!ENTITY button_copy "Afrita">
 
