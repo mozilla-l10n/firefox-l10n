@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "ব্রাউজ করুন...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "PKCS#11 ডিভাইস লোড করুন">
