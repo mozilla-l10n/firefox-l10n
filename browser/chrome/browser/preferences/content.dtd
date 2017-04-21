@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "O">
 
 
-<!ENTITY  defaultFont.label           "Ifonti yakhona:">
-<!ENTITY  defaultFont.accesskey       "k">
-<!ENTITY  defaultSize.label           "Usayizi:">
-<!ENTITY  defaultSize.accesskey       "U">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Okuthuthukile…">
 <!ENTITY  advancedFonts.accesskey     "O">

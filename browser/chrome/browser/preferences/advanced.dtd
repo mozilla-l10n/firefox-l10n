@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Vuselela">
 
-<!ENTITY updateAuto1.label               "Faka ngokuzenzakalela ukwaziswa kwamuva (okunconyiwe: ukuphepha okuthuthukisiwe)">
-<!ENTITY updateAuto1.accesskey           "F">
 
 
-<!ENTITY updateManual.label              "Ungalokothi uhlole ukufaka ukwaziswa kwamuva (akunconyiwe: ubungozi bokuphepha)">
-<!ENTITY updateManual.accesskey          "U">
 
-<!ENTITY updateHistory.label             "Bonisa umlando wokuvuselela">
-<!ENTITY updateHistory.accesskey         "w">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Sebenzisa isevisi yasemuva ukufaka ukwaziswa kwamuva">
 <!ENTITY useService.accesskey            "y">
 
-<!ENTITY enableSearchUpdate.label        "Izinjini zokusesha">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Okukhishiwe…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Susa idatha yokungaxhunyiwe">
 
 <!ENTITY certificateTab.label            "Izitifiketi">
-
 
 <!ENTITY selectCerts.auto                "Khetha esisodwa ngokuzenzakalelayo">
 

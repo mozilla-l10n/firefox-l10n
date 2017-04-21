@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Ukulandela umhkondo">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Bonisa amakhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
-<!ENTITY  historyHeader.pre.label          "i-&brandShortName; izo:">
-<!ENTITY  historyHeader.pre.accesskey      "i">
+
 <!ENTITY  historyHeader.remember.label     "Khumbula umlando">
 <!ENTITY  historyHeader.dontremember.label "Kungalokothwa kukhunjulwe umlando">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa izimiso zokuzenzela uzisebenzisele umlando">
