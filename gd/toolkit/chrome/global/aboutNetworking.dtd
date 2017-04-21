@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Ath-nuadhaich a h-uile 3 diogan">
 <!ENTITY aboutNetworking.hostname              "Ainm an òstair">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Gnìomhach">
 <!ENTITY aboutNetworking.idle                  "Idle">

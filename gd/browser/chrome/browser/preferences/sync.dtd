@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Ainm an uidheim">
-<!ENTITY changeSyncDeviceName.label "Atharraich ainm an uidheim…">
-<!ENTITY changeSyncDeviceName.accesskey "h">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Sguir dheth">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "u">
 <!ENTITY saveChangeSyncDeviceName.label "Sàbhail">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Atharraich dealbh na pròifil">
 <!ENTITY verifiedManage.label        "Stiùirich an cunntas">
 <!ENTITY verifiedManage.accesskey    "n">
-<!ENTITY disconnect.label            "Dì-cheangail…">
-<!ENTITY disconnect.accesskey        "D">
+
+
 <!ENTITY verify.label                "Dearbh am post-d">
 <!ENTITY verify.accesskey            "m">
 <!ENTITY forget.label                "Dìochuimhnich am post-d seo">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Clàraich a-steach">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sioncronaich air feadh nan uidheaman uile">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

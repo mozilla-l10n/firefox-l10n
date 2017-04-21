@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 65em; min-height: 50em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 65em; min-height: 50em;">
 
-<!ENTITY  paneGeneral.title       "Coitcheann">
-<!ENTITY  paneTabs.title          "Tabaichean">
-<!ENTITY  paneSearch.title        "Lorg">
-<!ENTITY  paneContent.title       "Susbaint">
-<!ENTITY  paneApplications.title  "Aplacaidean">
-<!ENTITY  panePrivacy.title       "Prìobhaideachd">
-<!ENTITY  paneContainers.title    "Tabaichean soithich">
-<!ENTITY  paneSecurity.title      "Tèarainteachd">
-<!ENTITY  paneAdvanced.title      "Roghainnean adhartach">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Coitcheann">
 
-<!ENTITY  paneSync.title          "Sioncronachadh">
 
-<!ENTITY  helpButton.label        "Cobhair">
+<!ENTITY  paneContainers.title          "Tabaichean soithich">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Lorg">
