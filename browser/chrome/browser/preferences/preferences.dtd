@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 50em; min-height: 50em">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Giştî">
-<!ENTITY  paneTabs.title          "Hilpekîn">
-<!ENTITY  paneSearch.title        "Lêgerîn">
-<!ENTITY  paneContent.title       "Naverok">
-<!ENTITY  paneApplications.title  "Sepan">
-<!ENTITY  panePrivacy.title       "Nepenî">
+<!ENTITY  paneGeneral.title             "Giştî">
 
-<!ENTITY  paneSecurity.title      "Ewlekarî">
-<!ENTITY  paneAdvanced.title      "Pesend">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Alîkarî">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Lêgerîn">

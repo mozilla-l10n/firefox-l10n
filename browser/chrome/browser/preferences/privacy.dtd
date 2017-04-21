@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Şopandin">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Qutîka Cî">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Çerezan Nîşan Bide">
 <!ENTITY  showCookies.accesskey         "N">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; dê:">
-<!ENTITY  historyHeader.pre.accesskey      "d">
+
 <!ENTITY  historyHeader.remember.label     "Mêjûyê bi bîr bîne">
 <!ENTITY  historyHeader.dontremember.label "Mêjûyê qet bi bîr neyne">
 <!ENTITY  historyHeader.custom.label       "Ji bo mêjûyê mîhengên takekesî bi kar bîne">

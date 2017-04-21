@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Destpêk">
 
-<!ENTITY startupPage.label         "Di destpêka &brandShortName; de:">
-<!ENTITY startupPage.accesskey     "D">
+
 
 <!ENTITY startupBlankPage.label    "Rûpeleke vala nîşan bide">
 
 
-<!ENTITY homepage.label            "Serûpel:">
-<!ENTITY homepage.accesskey        "p">
+
 <!ENTITY useCurrentPage.label      "Rûpela derbasdar bi kar bîne">
 <!ENTITY useCurrentPage.accesskey  "d">
 <!ENTITY useMultiple.label         "Rûpelên Derbasdar Bi Kar Bîne">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "&brandShortName; jixwe geroka te ya standard e">
+
 
 
 

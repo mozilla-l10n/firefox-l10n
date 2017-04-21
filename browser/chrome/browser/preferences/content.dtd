@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "Curenivîs &amp; Reng">
 
-<!ENTITY  defaultFont.label           "Cureyê nivîsê yê heyî:">
-<!ENTITY  defaultFont.accesskey       "s">
-<!ENTITY  defaultSize.label           "Mezinahî">
-<!ENTITY  defaultSize.accesskey       "i">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Pêşketî...">
 <!ENTITY  advancedFonts.accesskey     "P">
