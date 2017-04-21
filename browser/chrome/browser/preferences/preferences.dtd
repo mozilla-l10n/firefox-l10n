@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Jikelele">
-<!ENTITY  paneTabs.title          "Iithebhu">
-<!ENTITY  paneSearch.title        "Khangela">
-<!ENTITY  paneContent.title       "Isiqulatho">
-<!ENTITY  paneApplications.title  "Ii-aplikheyishini">
-<!ENTITY  panePrivacy.title       "Okwabucala">
-<!ENTITY  paneContainers.title    "Iithebhu Zekhonteyina">
-<!ENTITY  paneSecurity.title      "Ukhuseleko">
-<!ENTITY  paneAdvanced.title      "Kwinqanaba eseliPhambili">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Jikelele">
 
-<!ENTITY  paneSync.title          "Ungqamaniso">
 
-<!ENTITY  helpButton.label        "Uncedo">
+<!ENTITY  paneContainers.title          "Iithebhu Zekhonteyina">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Khangela">

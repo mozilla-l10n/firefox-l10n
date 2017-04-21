@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Hlaziya">
 
 <!ENTITY updateApplication.label         "I-&brandShortName; iZihlaziyi">
-<!ENTITY updateAuto1.label               "fakela uhlaziyo ngokuzenzekela (kucetyiswa njalo: ukhuseleko olungaphezulu)">
-<!ENTITY updateAuto1.accesskey           "f">
-<!ENTITY updateCheckChoose.label         "i-Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na">
-<!ENTITY updateCheckChoose.accesskey     "K">
-<!ENTITY updateManual.label              "Ungaze ukhangele uhlaziyo (akucetyiswa oko: yingozi kukhuseleko)">
-<!ENTITY updateManual.accesskey          "U">
 
-<!ENTITY updateHistory.label             "Bonisa iMbali yoHlaziyo">
-<!ENTITY updateHistory.accesskey         "B">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo">
 <!ENTITY useService.accesskey            "y">
 
-<!ENTITY autoUpdateOthers.label          "UHlaziyo oluZenzekelayo">
-<!ENTITY enableSearchUpdate.label        "IiNjini zokukhangela">
-<!ENTITY enableSearchUpdate.accesskey    "I">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Iyakuxelela xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
 <!ENTITY offlineStorageNotify.accesskey           "I">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Shenxisa ingcombolo yangaphandle kweintanethi">
 
 <!ENTITY certificateTab.label            "Izatifikethi">
-<!ENTITY certPersonal.label              "Izicelo">
-<!ENTITY certPersonal.description        "Xa iseva icela isatifikethi sakho:">
+
 <!ENTITY selectCerts.auto                "Khetha esinye ngokuzenzekela">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Iyakubuza ngawo onke amaxesha">

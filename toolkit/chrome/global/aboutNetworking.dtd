@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Yenza ntsha ngokuzenzekelayo qho kwimizuzwana emi-3">
 <!ENTITY aboutNetworking.hostname              "Igama lomamkeli">
 <!ENTITY aboutNetworking.port                  "Isiqhagamshelisi">
-<!ENTITY aboutNetworking.spdy                  "I-SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "I-SSL">
 <!ENTITY aboutNetworking.active                "Iyasebenza">
 <!ENTITY aboutNetworking.idle                  "Ihleli nje">

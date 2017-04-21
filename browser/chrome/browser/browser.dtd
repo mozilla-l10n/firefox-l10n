@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Cofa ekunene okanye hlisa ukubonisa imbali">
 <!ENTITY backForwardButtonMenuMac.tooltip "Hlisa ukubonisa imbali">
 <!ENTITY reloadCmd.label              "Layisha kwakhona">
-<!ENTITY reloadButton.tooltip         "Layisha kwakhona iphepha langoku">
 <!ENTITY stopCmd.label                "Nqumama">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Nqumamisa ukulayisha eli phepha">
 <!ENTITY goEndCap.tooltip             "Yiya kwidilesi kwibha yendawo">
 <!ENTITY printButton.label            "Printa">
 <!ENTITY printButton.tooltip          "Printa eli phepha">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Vula iphanele yokulondoloza umyalezo wephasiwedi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lawula ukusetyenziswa kwezinto eziplagwayo">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tshintsha enoba ungafumana isaziso kule sayithi">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ukubhlokile ukugcinwa kwedatha kule webhusayithi.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Uzibhlokile izaziso kule webhusayithi.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Seta ngokutsha umlinganiselo wokubona kude nakufutshane">
-
 <!ENTITY searchItem.title             "Khangela">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Ekhaya">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Jonga Iithebhu Ezingqamanisiweyo Zebha Esecaleni">
 
 <!ENTITY customizeMenu.addToToolbar.label "Yongeza kwiThulbha">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "V">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
 
 <!ENTITY syncSignIn.label             "Ngena &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Funda ngakumbi malunga neDRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
