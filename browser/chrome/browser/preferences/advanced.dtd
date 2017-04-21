@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "പരിഷ്കരിക്കുക">
 
-<!ENTITY updateAuto1.label               "സ്വയമായി പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുക (ഉചിതമായതു്: മെച്ചപ്പെട്ട സുരക്ഷ)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "പരിഷ്കരണങ്ങള്‍ക്കായി പരിശോധിയ്ക്കേണ്ട (ഉചിതമല്ല: സുരക്ഷ പ്രശ്നം)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "പരിഷ്കരണ വിശദാംശങ്ങള്‍ (ഹിസ്റ്ററി) കാണിക്കുക ">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "പരിഷ്കരണങ്ങള്‍ ഇന്‍സ്റ്റോള്‍ ചെയ്യുന്നതിനായി ഒരു പശ്ചാത്തല സര്‍വീസ് ഉപയോഗിയ്ക്കുക">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "തെരച്ചിലിനുള്ള പ്രയോഗങ്ങള്‍">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "ഒഴിവാക്കേണ്ടവ…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "ഓഫ്‌ലൈന്‍ ഡേറ്റ മാറ്റുക">
 
 <!ENTITY certificateTab.label            "സര്‍ട്ടിഫിക്കറ്റുകള്‍">
-<!ENTITY certPersonal.label              "ആവശ്യങ്ങള്‍">
 
 <!ENTITY selectCerts.auto                "ഒന്നു് സ്വയം തെരഞ്ഞെടുക്കുക ">
 

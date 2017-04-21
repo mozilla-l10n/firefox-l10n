@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "എല്ലാ 3 സെക്കന്‍ഡുകളില്‍ സ്വയമായി പുതുക്കുക">
 <!ENTITY aboutNetworking.hostname              "ഹോസ്റ്റ്നാമം">
 <!ENTITY aboutNetworking.port                  "പോര്‍ട്ട്">
-<!ENTITY aboutNetworking.spdy                  "പോര്‍ട്ട്‌">
+
 <!ENTITY aboutNetworking.ssl                   "എസ്എസ്എല്‍">
 <!ENTITY aboutNetworking.active                "സജീവമാക്കുക">
 <!ENTITY aboutNetworking.idle                  "നിര്‍ജ്ജീവം">
