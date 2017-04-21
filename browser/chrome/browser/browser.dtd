@@ -187,13 +187,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "வரலாற்றை பார்க்க வலஞ் சொடுக்குக அல்லது கீழே இழுக்க                ">
 <!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றை பார்க்க கீழே இழுக்கும்">
 
-<!ENTITY reloadButton.tooltip         "நடப்புப் பக்கத்தை மீளேற்றுக">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "இந்த பக்கத்தினை ஏற்றுவதை நிறுத்தவும்">
 <!ENTITY goEndCap.tooltip             "இடப் பட்டையிலுள்ள முகவரிக்குச் செல்லவும்">
 <!ENTITY printButton.label            "அச்சிடுக">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடுக">
+
 
 
 
@@ -342,6 +341,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -722,6 +722,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
 
@@ -804,6 +806,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

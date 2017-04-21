@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 
-<!ENTITY  defaultFont.label           "பொது இருப்பான எழுத்துரு">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "அளவு:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "மேலதிக...">
 <!ENTITY  advancedFonts.accesskey     "A">

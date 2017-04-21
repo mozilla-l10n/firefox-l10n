@@ -79,21 +79,21 @@
 
 <!ENTITY updateTab.label                 "இற்றைப்படுத்துக">
 
-<!ENTITY updateAuto1.label               "தானாக இற்றைப்படுத்துக (பாதுகாப்புக் காரணங்களுக்காகப் பரிந்துரைக்கப்பட்டுள்ளது) ">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "இற்றைப்படுத்தல்களுக்காக பரிசோதிக்கவேண்டும். (பரிந்துரைக்கப்படவில்லை: ஆபத்தானது)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "இற்றைப்படுத்தல் வரலாற்றைக் காட்டுக">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "இற்றைகளை நிறுவ ஒரு பின்னணி சேவையைப் பயன்படுத்துக">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "தேடும் பொறிகள்">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
@@ -106,7 +106,6 @@
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லா தரவை நீக்குக">
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
-
 
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தெரிவுசெய்க">
 
