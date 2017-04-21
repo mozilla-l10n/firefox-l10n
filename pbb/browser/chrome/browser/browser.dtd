@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Mitxtheth pazuhwesxnxa'kh meçxa tasxuh muezx txãa fxi'hjnxis thegya">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tasxujh muezx fxi'jhnxi's thegya">
 <!ENTITY reloadCmd.label              "Ki'h ktu'seya'">
-<!ENTITY reloadButton.tooltip         "Ki'h miktu'se naa ajte">
 <!ENTITY stopCmd.label                "Mitxtheth txãa pazuhwesxnxa'kh meçxah tasxuh txãa fxi'hnxi's thegya">
 
-<!ENTITY stopButton.tooltip           "Naa ktuhsehnxi's mikyuju thegnxisate">
 <!ENTITY goEndCap.tooltip             "Txtee uhya URL nate kuhjwednxa´kh dxijasanxakh">
 <!ENTITY printButton.label            "Kxthethte pisani'k se'h">
 <!ENTITY printButton.tooltip          "Naa paynxi's kapsxihdujna">
@@ -214,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Nxu'ptheçxah ipakaya ewunega pkhakhnxitxih ayte">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Thegna katxudenxi's kapnasahnxite y/o çxãçxa kapthusenxinxa'kh ayte">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Thegna katxudenxi's kapnasahnxite çxãçxa kapthusenxinxa'kh ayte">
@@ -229,11 +228,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kthẽgun yaçka kĩhne yuu">
 
-
 <!ENTITY searchItem.title             "Pakwena">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "takhna">
 
@@ -369,6 +368,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Pkhakheçxa takhna kajandanxi, ki'pnxisa.">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Phewujnxisa ki'tanxi ũsa' na' thegya ewuna yasetxih vxite vxisnxijuy.">
 <!ENTITY appMenuRemoteTabs.signin.label "Me'ka Sync">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Phadenxisa phewujna ũ'sta txãa pesath kũjhjwedtxih">
 
 <!ENTITY customizeMenu.addToToolbar.label "Mover vxisnxi's takhya'.">
@@ -775,6 +775,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "U'kan takhna &syncBrand.shortName.label;">
@@ -887,3 +889,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Na's wejxiçxa mbiyawe txtee DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
