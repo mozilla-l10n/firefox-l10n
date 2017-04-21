@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informace o url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Poskytovatel">
+<!ENTITY aboutUrlClassifier.provider                    "Poskytovatel">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Poslední aktualizace">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Příští aktualizace">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stav poslední aktualizace">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovat">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Vyhledání">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Adresa URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Hledat shodu">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Zkontrolovat shodující se výsledky">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Vyhledání">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Zkontrolovat shodující se výsledky">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Mezipaměť">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Paměť">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Databáze">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Ladění">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavit moduly žurnálu">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavit soubor žurnálu">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Nastavit žurnál JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Moduly žurnálu pro službu Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules                "Současné moduly žurnálu">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Žurnál JS pro službu Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugFile                   "Současný soubor žurnálu">
