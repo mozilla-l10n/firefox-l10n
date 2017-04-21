@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Bläddra…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Aktivera PKCS#11-enhet">
