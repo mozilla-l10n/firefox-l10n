@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Թույլատրել, որ &brandShortName;-ը և Firefox-ը մեկնարկեն միաժամանակ">
 <!ENTITY useFirefoxSync.label             "Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համօգտագործել տվյալները:">
-<!ENTITY getStarted.label                 "Սինքի մեկնարկ...">
+
+
 
 <!ENTITY e10sEnabled.label                "Միացնել բազմընթաց &brandShortName;">

@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 48em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Ընդհանուր">
-<!ENTITY  paneTabs.title          "Ներդիրներ">
-<!ENTITY  paneSearch.title        "Որոնում">
-<!ENTITY  paneContent.title       "Բովանդակություն">
-<!ENTITY  paneApplications.title  "Ծրագրեր">
-<!ENTITY  panePrivacy.title       "Գաղտնիություն">
-<!ENTITY  paneContainers.title    "Պարունակ ներդիրներ">
-<!ENTITY  paneSecurity.title      "Անվտանգություն">
-<!ENTITY  paneAdvanced.title      "Լրացուցիչ">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Ընդհանուր">
 
-<!ENTITY  paneSync.title          "Սինք">
 
-<!ENTITY  helpButton.label        "Օգնություն">
+<!ENTITY  paneContainers.title          "Պարունակ ներդիրներ">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Որոնում">

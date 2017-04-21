@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Կարգավորումներ՝ կայքի տվյալ">
-<!ENTITY     settings.description          "Հետևյալ կայքերը հարցում են կատարել՝ հիշասարքում տվյալներ պահելու համար: Դուք կարող եք հատկորոշել, թե որ կայքերը կարող են պահել տվյալներ: Ըստ լռելյայնի՝ կայքի տվյալները ժամանակավոր են և չեն կարող ինքնաբար ջնջվել:">
 <!ENTITY     hostCol.label                 "Կայքը">
 <!ENTITY     statusCol.label               "Կարգավիճակը">
 <!ENTITY     usageCol.label                "Պահեստը">
-<!ENTITY     searchPlaceHolder             "Որոնում">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+
+
 <!ENTITY     removeSelected.label          "Հեռացնել ընտրվածը">
 <!ENTITY     removeSelected.accesskey      "Հ">
 <!ENTITY     save.label                    "Պահպանել փոփոխությունները">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Չեղարկել">
 <!ENTITY     cancel.accesskey              "Չ">
 <!ENTITY     removingDialog.title          "Կայքի տվյալները հեռացվում են">
-<!ENTITY     removingDialog.description    "Կայքի տվյաների հեռացումը կհեռացնի նաև cookie-ները: Դա կարող է հանգեցնել կայքերից դուրս գրվելուն և անցանց բովանդակության ջնջման: Այդուհանդերձ, կատարե՞լ փոփոխությունները:">
+
 <!ENTITY     siteTree.label                "Հետևյալ կայքի cookie-ները կհեռացվեն.">

@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Թարմացնել">
 
 <!ENTITY updateApplication.label         "&brandShortName;-ի թարմացումներ">
-<!ENTITY updateAuto1.label               "Թարմացումների ինքնավար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
-<!ENTITY updateAuto1.accesskey           "Թ">
-<!ENTITY updateCheckChoose.label         "Ստուգել թարմացումները, բայց ընտրել, թե որը տեղադրել">
-<!ENTITY updateCheckChoose.accesskey     "Ս">
-<!ENTITY updateManual.label              "Երբեք չստուգել թարմացումները (խուրհուրդ չի տրվում. անվտանգության վտանգ)">
-<!ENTITY updateManual.accesskey          "Ե">
 
-<!ENTITY updateHistory.label             "Ցուցադրել Թարմացումների Պատմությունը">
-<!ENTITY updateHistory.accesskey         "Ց">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից">
 <!ENTITY useService.accesskey            "խ">
 
-<!ENTITY autoUpdateOthers.label          "Ինքնաբար թարմացնել">
-<!ENTITY enableSearchUpdate.label        "Փնտրամեքենաներ">
-<!ENTITY enableSearchUpdate.accesskey    "ք">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահել ֆայլեր՝ անցանց աշխատելու համար">
 <!ENTITY offlineStorageNotify.accesskey           "Տ">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Ջնջել անցանց ֆայլերը">
 
 <!ENTITY certificateTab.label            "Վկայագրեր">
-<!ENTITY certPersonal.label              "Հայցումներ">
-<!ENTITY certPersonal.description        "Երբ սպասարկիչը հարցնում է ձեր անձնական վկայագիրը`">
+
 <!ENTITY selectCerts.auto                "Ընտրել ինքնաշխատ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Ամեն անգամ հարցնել">

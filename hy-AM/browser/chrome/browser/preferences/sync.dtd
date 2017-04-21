@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Սարքի անունը">
-<!ENTITY changeSyncDeviceName.label "Փոխել սարքի անունը…">
-<!ENTITY changeSyncDeviceName.accesskey "ո">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Չեղարկել">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ա">
 <!ENTITY saveChangeSyncDeviceName.label "Պահպանել ">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Փոխել պրոֆիլի նկարը">
 <!ENTITY verifiedManage.label        "Կառավարել հաշիվը">
 <!ENTITY verifiedManage.accesskey    "ի">
-<!ENTITY disconnect.label            "Անջատել...">
-<!ENTITY disconnect.accesskey        "Ա">
+
+
 <!ENTITY verify.label                "Հաստատել էլ. փոստը">
 <!ENTITY verify.accesskey            "Հ">
 <!ENTITY forget.label                "Մոռանալ այս էլ. փոստը">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Մուտք գործել">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Սինք՝ բոլոր սարքերի միջև">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

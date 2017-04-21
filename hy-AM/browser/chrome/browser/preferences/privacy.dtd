@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Օգտ. հետագծման պաշտպանություն">
+
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
 <!ENTITY  trackingProtectionAlways.accesskey   "շ">
 <!ENTITY  trackingProtectionPrivate.label      "Միայն գաղտնի պատուհաններում">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Հասցեի վահանակ">
 
-<!ENTITY  locbar.suggest.label          "Հասցեի վահանակը օգտագործելիս առաջարկել՝">
 <!ENTITY  locbar.history.label          "Պատմություն">
 <!ENTITY  locbar.history.accesskey      "Պ">
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Առնչվող որոնումներ՝ հիմնական որոնիչի կողմից">
 <!ENTITY  locbar.searches.accesskey     "ո">
 
-<!ENTITY  suggestionSettings.label      "Փոխել որոնիչների առաջարկությունների նախապատվությունները...">
-<!ENTITY  suggestionSettings.accesskey  "լ">
 
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Ցուցադրել Cookie-ները…">
 <!ENTITY  showCookies.accesskey         "Ց">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;-ը կսկսի`">
-<!ENTITY  historyHeader.pre.accesskey      "կ">
+
 <!ENTITY  historyHeader.remember.label     "Հիշել պատմությունը">
 <!ENTITY  historyHeader.dontremember.label "Երբեք չհիշել այցելությունները">
 <!ENTITY  historyHeader.custom.label       "Պատմության համար օգտագործել սեփական կարգավորումները">

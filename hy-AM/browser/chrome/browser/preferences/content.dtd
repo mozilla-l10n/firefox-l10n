@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Տառատեսակները և Գույները">
 
-<!ENTITY  defaultFont.label           "Հիմնական տառատեսակը.">
-<!ENTITY  defaultFont.accesskey       "Հ">
-<!ENTITY  defaultSize.label           "Չափը.">
-<!ENTITY  defaultSize.accesskey       "Չ">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Լրացուցիչ…">
 <!ENTITY  advancedFonts.accesskey     "Լ">
