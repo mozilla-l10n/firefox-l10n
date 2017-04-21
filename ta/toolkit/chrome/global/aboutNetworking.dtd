@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "3 வினாடிகளுக்கு ஒரு முறை தானாக புதுப்பி">
 <!ENTITY aboutNetworking.hostname              "வழங்கி பெயர்">
 <!ENTITY aboutNetworking.port                  "முனையம்">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "செயலில் உள்ளது">
 <!ENTITY aboutNetworking.idle                  "செயலின்றி">
