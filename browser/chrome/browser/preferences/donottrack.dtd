@@ -7,7 +7,7 @@
 <!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "Vždy použít funkci Do Not Track">
-<!ENTITY doNotTrackCheckbox2.accesskey "V">
+<!ENTITY doNotTrackCheckbox2.accesskey "a">
 
 <!ENTITY doNotTrackTPInfo.description "Bude-li funkce ochrany proti sledování zapnutá, &brandShortName; bude zasílat informaci, že si nepřejete být sledováni.">
 <!ENTITY doNotTrackLearnMore.label    "Zjistit více">
