@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Premeu amb el botó dret o arrossegueu cap avall per veure l'historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrossegueu cap avall per veure l'historial">
 <!ENTITY reloadCmd.label              "Actualitza">
-<!ENTITY reloadButton.tooltip         "Actualitza la pàgina actual">
 <!ENTITY stopCmd.label                "Atura">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Atura la càrrega d'aquesta pàgina">
 <!ENTITY goEndCap.tooltip             "Vés a l'adreça de la barra d'ubicació">
 <!ENTITY printButton.label            "Imprimeix">
 <!ENTITY printButton.tooltip          "Imprimeix aquesta pàgina">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Obre la subfinestra del missatge de desar la contrasenya">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Heu blocat l'emmagatzematge de dades per a aquest lloc web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Heu blocat les notificacions per a aquest lloc web.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Reinicia el nivell de zoom">
-
 <!ENTITY searchItem.title             "Cerca">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Inici">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferències del Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicieu la sessió per veure una llista de les pestanyes que teniu obertes en altres dispositius.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicia la sessió al Sync">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Mostra la barra lateral «Pestanyes sincronitzades»">
 
 <!ENTITY customizeMenu.addToToolbar.label "Afegeix a la barra d'eines">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Inicia la sessió al &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Més informació sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

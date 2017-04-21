@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nom del dispositiu">
-<!ENTITY changeSyncDeviceName.label "Canvia el nom del dispositiu…">
-<!ENTITY changeSyncDeviceName.accesskey "v">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Cancel·la">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Desa">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Canvia la imatge de perfil">
 <!ENTITY verifiedManage.label        "Gestiona el compte">
 <!ENTITY verifiedManage.accesskey    "a">
-<!ENTITY disconnect.label            "Desconnecta…">
-<!ENTITY disconnect.accesskey        "D">
+
+
 <!ENTITY verify.label                "Verifiqueu l'adreça electrònica">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oblida aquesta adreça electrònica">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Sincronitza en tots els dispositius">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
