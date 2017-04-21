@@ -900,6 +900,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.whatsnew.label "కొత్తవేమిటో చూడండి.">
+<!ENTITY updateAvailable.header.message "ఒక కొత్త &brandShorterName; తాజాకరణ అందుబాటులో ఉంది.">
 <!ENTITY updateAvailable.acceptButton.label "తాజాకరణను దించుకోండి">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "ఇప్పుడు వద్దు">
