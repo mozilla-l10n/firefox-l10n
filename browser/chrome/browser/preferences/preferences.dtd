@@ -20,6 +20,5 @@
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  helpButton.label        "সাহায্য">
 
-<!ENTITY searchInput.label        "অনুসন্ধান">
+<!ENTITY  searchInput.label        "অনুসন্ধান">
