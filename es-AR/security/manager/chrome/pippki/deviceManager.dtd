@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Examinar...">
 <!ENTITY loaddevice.browse.accesskey            "x">
 
-<!ENTITY loaddevice.title                       "Cargar dispositivo PKCS#11">
