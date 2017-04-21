@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "ಸಾಮಾನ್ಯ">
-
 <!ENTITY  warnOnAddonInstall.label        "ತಾಣಗಳು ಆಡ್‍-ಆನ್‍ಗಳನ್ನು ಅನುಸ್ಥಾಪಿಸಲು ಪ್ರಯತ್ನಿಸಿದಾಗ ನನ್ನನ್ನು ಎಚ್ಚರಿಸು‍">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "ಲಾಗಿನ್‌ಗಳು">
 
-<!ENTITY  rememberLogins.label          "ತಾಣಗಳಿಗಾಗಿ ಲಾಗಿನ್‌ಗಳನ್ನು ನೆನಪಿನಲ್ಲಿಟ್ಟುಕೊ">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ವಿನಾಯಿತಿಗಳು...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

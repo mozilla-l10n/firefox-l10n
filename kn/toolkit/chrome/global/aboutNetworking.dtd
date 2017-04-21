@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "ಪ್ರತಿ 3 ಸೆಕೆಂಡುಗಳಿಗೆ ಸ್ವತ:ಪುನಶ್ಚೇತನಗೊಳ್ಳು">
 <!ENTITY aboutNetworking.hostname              "ಅತಿಥೇಯ ಗಣಕದ ಹೆಸರು">
 <!ENTITY aboutNetworking.port                  "ಪೋರ್ಟ್">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ಸಕ್ರಿಯ">
 <!ENTITY aboutNetworking.idle                  "ನಿಷ್ಕ್ರಿಯ">

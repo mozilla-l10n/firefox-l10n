@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "ಸಾಧನದ ಹೆಸರು">
-<!ENTITY changeSyncDeviceName.label "ಸಾಧನದ ಹೆಸರನ್ನು ಬದಲಿಸಿ...‍">
-<!ENTITY changeSyncDeviceName.accesskey "h">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "ರದ್ದು ಮಾಡು‍">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "ಉಳಿಸು‍">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಬದಲಾಯಿಸು">
 <!ENTITY verifiedManage.label        "ಖಾತೆಯನ್ನು ನಿರ್ವಹಿಸು‍">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "ಸಂಪರ್ಕ ತಪ್ಪಿಸು…‍">
-<!ENTITY disconnect.accesskey        "D">
+
+
 <!ENTITY verify.label                "ಇಮೇಲ್ ದೃಢಪಡಿಸಿ‍">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ಈ ಇಮೇಲ್ ಅನ್ನು ಮರೆತುಬಿಡು‍">
@@ -65,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.create.accesskey  "C‍">
 
 <!ENTITY signedOut.accountBox.signin.accesskey  "I‍">
+
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

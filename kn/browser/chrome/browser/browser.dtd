@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಮೌಸ್‌ನ ಬಲಗುಂಡಿಯನ್ನು ಒತ್ತಿ ಅಥವ ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ಇತಿಹಾಸವನ್ನು ತೋರಿಸಲು ಕೆಳಕ್ಕೆ ಎಳೆಯಿರಿ">
 <!ENTITY reloadCmd.label              "ಪುನಃ ಲೋಡ್ ಮಾಡು">
-<!ENTITY reloadButton.tooltip         "ಪ್ರಸಕ್ತ ಪುಟವನ್ನು ಮತ್ತೊಮ್ಮೆ ಲೋಡ್‍ ಮಾಡು">
 <!ENTITY stopCmd.label                "ನಿಲ್ಲು">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ಈ ಪುಟವನ್ನು ಲೋಡ್ ಮಾಡುವುದನ್ನು ನಿಲ್ಲಿಸು">
 <!ENTITY goEndCap.tooltip             "ಸ್ಥಿತಿ ಪಟ್ಟಿಯಲ್ಲಿನ ವಿಳಾಸಕ್ಕೆ ತೆರಳು">
 <!ENTITY printButton.label            "ಮುದ್ರಿಸು">
 <!ENTITY printButton.tooltip          "ಈ ಪುಟವನ್ನು ಮುದ್ರಿಸು">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ಈ ತಾಣದೊಂದಿಗೆ ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್‌ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
@@ -230,11 +229,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ಇತಿಹಾಸವನ್ನು ತೋರಿಸು">
 
-
 <!ENTITY searchItem.title             "ಹುಡುಕು">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "ನೆಲೆ">
 
@@ -374,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "ಸಿಂಕ್‌ನ ಆದ್ಯತೆಗಳು">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ನಿಮ್ಮ ಇತರೆ ಸಾಧನಗಳಲ್ಲಿನ ಟ್ಯಾಬ್‌ಗಳ ಪಟ್ಟಿಯನ್ನು ನೋಡಲು ಸೈನ್‌ ಇನ್ ಮಾಡಿ.">
 <!ENTITY appMenuRemoteTabs.signin.label "ಸಿಂಕ್ ಮಾಡಲು ಸೈನ್ ಇನ್ ಆಗಿ">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳ ಬದಿಪಟ್ಟಿಯನ್ನು ನೋಡಿ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Add ಉಪಕರಣಪಟ್ಟಿಗೆ">
@@ -785,6 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "ಸಿಂಕ್‌">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; ಗೆ ಸೈನ್-ಇನ್ ಆಗು...">
@@ -897,3 +899,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ಹೆಚ್ಚು ಕಲಿಯಿರಿ DRM ಬಗ್ಗೆ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

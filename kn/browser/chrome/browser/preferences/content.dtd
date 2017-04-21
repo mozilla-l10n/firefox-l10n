@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "ಅಕ್ಷರಶೈಲಿಗಳು ಮತ್ತು ಬಣ್ಣಗಳು">
 
-<!ENTITY  defaultFont.label           "ಪೂರ್ವನಿಯೋಜಿತ ಅಕ್ಷರಶೈಲಿ:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "ಗಾತ್ರ:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "ಮುಂದುವರೆದ...">
 <!ENTITY  advancedFonts.accesskey     "A">
