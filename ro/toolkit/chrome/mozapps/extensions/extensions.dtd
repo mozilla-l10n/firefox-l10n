@@ -147,8 +147,8 @@
 <!ENTITY detail.size                          "Mărime">
 
 <!ENTITY detail.checkForUpdates.label         "Caută actualizări">
-<!ENTITY detail.checkForUpdates.accesskey     "C">
-<!ENTITY detail.checkForUpdates.tooltip       "Verifică dacă există actualizări pentru acest supliment">
+<!ENTITY detail.checkForUpdates.accesskey     "f">
+<!ENTITY detail.checkForUpdates.tooltip       "Caută actualizări pentru acest supliment">
 <!ENTITY detail.showPreferencesWin.label      "Opțiuni">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "Schimbă opțiunile acestui supliment">

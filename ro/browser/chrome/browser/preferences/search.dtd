@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Sugestiile de căutare nu vor fi afișate în rezultatele din bara de adrese deoarece ai configurat &brandShortName; ca să nu țină minte niciodată istoricul.">
 
-<!ENTITY oneClickSearchEngines.label           "Motoare de căutare la un singur clic distanță">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Bara de căutare îți permite să cauți direct cu diferite motoare de căutare. Alege motoarele de căutare cu care să cauți.">
 
@@ -26,4 +25,4 @@
 <!ENTITY removeEngine.label                    "Elimină">
 <!ENTITY removeEngine.accesskey                "R">
 
-<!ENTITY addMoreSearchEngines.label            "Adaugă mai multe motoare de căutare…">
+<!ENTITY addMoreSearchEngines2.label           "Adaugă mai multe motoare de căutare…">
