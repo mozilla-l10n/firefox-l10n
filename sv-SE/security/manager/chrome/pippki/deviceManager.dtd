@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Bläddra…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Aktivera PKCS#11-drivrutin">
