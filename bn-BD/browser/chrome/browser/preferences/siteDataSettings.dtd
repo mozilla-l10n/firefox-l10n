@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "সেটিংস - সাইট ডেটা">
-<!ENTITY     settings.description          "নিম্নলিখিত ওয়েবসাইট সমূহ আপনার ডিস্কের মধ্যে সাইট ডেটা সংরক্ষনের জন্য জিজ্ঞাসা করেছে। আপনি কিছু সাইট নির্ধারণ করতে পারেন যার সাইট ডেটা সংরক্ষন হবে। ডিফল্ট সাইট ডেটা অস্থায়ী এবং স্বয়ংক্রিয়ভাবে মুছে যেতে পারে।">
 <!ENTITY     hostCol.label                 "সাইট">
 <!ENTITY     statusCol.label               "অবস্থা">
 <!ENTITY     usageCol.label                "স্টোরেজ">
-<!ENTITY     searchPlaceHolder             "অনুসন্ধান">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+
+
 <!ENTITY     removeSelected.label          "নির্বাচিতদের অপসারণ">
 <!ENTITY     removeSelected.accesskey      "R">
 <!ENTITY     save.label                    "পরিবর্তনগুলো সংরক্ষণ">
