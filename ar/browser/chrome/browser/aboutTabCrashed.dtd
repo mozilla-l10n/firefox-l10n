@@ -20,7 +20,7 @@
 <!ENTITY tabCrashed.requestHelp "هل ستساعدنا؟">
 <!ENTITY tabCrashed.requestHelpMessage "تساعدنا بلاغات الانهيار في تشخيص المشاكل و تحسين &brandShortName;.">
 <!ENTITY tabCrashed.requestReport "أبلغ عن هذا اللسان">
-<!ENTITY tabCrashed.sendReport2 "أرسل بلاغًا بانهيار اللسان الذي كنت تطالعه.">
+<!ENTITY tabCrashed.sendReport2 "أرسل بلاغًا بانهيار اللسان الذي كنت تطالعه">
 <!ENTITY tabCrashed.commentPlaceholder2 "تعليقات اختيارية (التعليقات علنية)">
 <!ENTITY tabCrashed.includeURL2 "أضف عنوان الصفحة إلى بلاغ الانهيار">
 <!ENTITY tabCrashed.emailPlaceholder "أدخل عنوان بريدك الإلكتروني هنا">

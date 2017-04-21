@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "الإعدادات - بيانات المواقع">
-<!ENTITY     settings.description          "المواقع التالية طلبت حفظ بيانات على قرصك. يمكنك تحديد أي المواقع يسمح لها بحفظ بيانات. البيانات المبدئية للمواقع مؤقتة و تُحذف تلقائيًا.">
 <!ENTITY     hostCol.label                 "الموقع">
 <!ENTITY     statusCol.label               "الحالة">
 <!ENTITY     usageCol.label                "التخزين">
-<!ENTITY     searchPlaceHolder             "ابحث">
-<!ENTITY     searchPlaceHolder.accesskey   "ح">
+<!ENTITY     searchTextboxPlaceHolder             "ابحث في المواقع">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "ح">
 <!ENTITY     removeSelected.label          "أزل المحدد">
 <!ENTITY     removeSelected.accesskey      "م">
 <!ENTITY     save.label                    "احفظ التغييرات">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "ألغ">
 <!ENTITY     cancel.accesskey              "ل">
 <!ENTITY     removingDialog.title          "إزالة بيانات المواقع">
-<!ENTITY     removingDialog.description    "إزالة بيانات المواقع ستزيل أيضًا الكعكات. قد يسبب هذا ولوجك خارج المواقع و إزالة بيانات العمل دون اتصال. أمتأكد أنك تريد إجراء التغييرات؟">
+<!ENTITY     removingSelected.description  "إزالة بيانات الموقع سيزيل أيضا الكعكات و محتوى الوب للعمل دون اتصال. قد يتسبب هذا في ولوجك خارج المواقع. أمتأكد أنك تريد إجراء التغييرات؟">
 <!ENTITY     siteTree.label                "ستُزال كعكات المواقع التالية:">

@@ -44,7 +44,7 @@ their language.
 -->
 
 
-<!ENTITY welcomeback2.beforelink.pageInfo2  "أزيلت تخصيصاتك و إضافاتك و استرجعت إعدادات متصفحك المبدئية، ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "أزيلت تخصيصاتك و إضافاتك و استرجعت إعدادات متصفحك المبدئية. إذا لم يُصلح هذا المشكلة، ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "​">
 
 <!ENTITY welcomeback2.link.pageInfo2        "تعلم أكثر عما يمكنك فعله.">

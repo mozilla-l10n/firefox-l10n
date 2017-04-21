@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "أعِد التحميل تلقائيا كل ٣ ثوان">
 <!ENTITY aboutNetworking.hostname              "اسم المستضيف">
 <!ENTITY aboutNetworking.port                  "المنفذ">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "نشط">
 <!ENTITY aboutNetworking.idle                  "خامل">

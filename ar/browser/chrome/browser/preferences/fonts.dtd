@@ -104,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "الفيتناميّة">
-<!ENTITY languages.customize.Fallback.other       "آخر (يشمل وسط أوروبي)">
+<!ENTITY languages.customize.Fallback.other       "آخر (يشمل غرب أوروبي)">
