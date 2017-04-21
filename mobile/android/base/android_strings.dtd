@@ -201,6 +201,8 @@
 <!ENTITY pref_home_updates_enabled "Enabled">
 <!ENTITY pref_home_updates_wifi "Only over Wi-Fi">
 <!ENTITY pref_category_home_homepage "Homepage">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Set a Homepage">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -265,6 +267,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -329,26 +335,12 @@
 <!ENTITY pref_plugins_enabled "Enabled">
 <!ENTITY pref_plugins_tap_to_play2 "Touch to play">
 <!ENTITY pref_plugins_disabled "Disabled">
-<!ENTITY pref_text_size "Text size">
 <!ENTITY pref_restore_tabs "Restore tabs">
 <!ENTITY pref_restore_always "Always restore">
 <!ENTITY pref_restore_quit "Don\u0027t restore after quitting &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tiny">
-<!ENTITY pref_font_size_small "Small">
-<!ENTITY pref_font_size_medium "Medium">
-<!ENTITY pref_font_size_large "Large">
-<!ENTITY pref_font_size_xlarge "Extra Large">
-<!ENTITY pref_font_size_set "Set">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "The quick orange fox jumps over your expectations with more speed, more flexibility and more security. As a non-profit, we\u0027re free to innovate on your behalf without any pressure to compromise. That means a better experience for you and a brighter future for the Web.">
 
 <!ENTITY pref_media_autoplay_enabled "Allow autoplay">
 <!ENTITY pref_media_autoplay_enabled_summary "Control if websites can autoplay videos and other media content">
@@ -476,6 +468,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Open in Private Tab">
 <!ENTITY contextmenu_remove "Remove">
 <!ENTITY contextmenu_add_to_launcher "Add to Home Screen">
+
 <!ENTITY contextmenu_share "Share">
 <!ENTITY contextmenu_pasteandgo "Paste &amp; Go">
 <!ENTITY contextmenu_paste "Paste">
@@ -547,7 +540,7 @@ size. -->
 <!ENTITY button_yes "Yes">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Clear data">
-<!ENTITY button_set "Set">
+
 <!ENTITY button_clear "Clear">
 <!ENTITY button_copy "Copy">
 
