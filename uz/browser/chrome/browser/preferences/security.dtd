@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Umumiy">
-
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -22,10 +20,7 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
-<!ENTITY  logins.label                  "Kirishlar">
 
-<!ENTITY  rememberLogins.label          "Saytlardagi login ma’lumotlari eslab qolinsin">
-<!ENTITY  rememberLogins.accesskey      "S">
 <!ENTITY  passwordExceptions.label      "Istisnolar">
 <!ENTITY  passwordExceptions.accesskey  "I">
 

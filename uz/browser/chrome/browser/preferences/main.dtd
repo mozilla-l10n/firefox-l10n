@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Ishga tushirish">
 
-<!ENTITY startupPage.label         "&brandShortName; ishga tushirilganda:">
-<!ENTITY startupPage.accesskey     "i">
+
 
 <!ENTITY startupBlankPage.label    "Bo‘sh sahifa ko‘rsatilsin">
 
 
-<!ENTITY homepage.label            "Uy sahifasi:">
-<!ENTITY homepage.accesskey        "s">
+
 <!ENTITY useCurrentPage.label      "Joriy sahifadan foydalanish">
 <!ENTITY useCurrentPage.accesskey  "J">
 <!ENTITY useMultiple.label         "Joriy sahifalardan foydalanish">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; Firefox’ni bir vaqtda ishga tushirishga ruxsat berish">
 <!ENTITY useFirefoxSync.label             "Maslahat: U alohida profillardan foydalandi. Ular o‘rtasida ma’lumotlarni almashish uchum sinxronlashdan foydalaning.">
-<!ENTITY getStarted.label                 "Sinxronlashdan foydalanishni boshlash…">
+
+
 
 <!ENTITY e10sEnabled.label                "&brandShortName; brauzerida multi-jarayonni yoqib qo‘yish">

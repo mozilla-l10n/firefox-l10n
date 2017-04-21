@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Shriftlar va ranglar">
 
-<!ENTITY  defaultFont.label           "Standart shrift:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Hajmi:">
-<!ENTITY  defaultSize.accesskey       "H">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Qo‘shimcha…">
 <!ENTITY  advancedFonts.accesskey     "Q">

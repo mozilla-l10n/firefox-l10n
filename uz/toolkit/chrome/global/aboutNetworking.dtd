@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Har 3 soniyada avtoyangilash">
 <!ENTITY aboutNetworking.hostname              "Host nomi">
 <!ENTITY aboutNetworking.port                  "Port:">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Faol">
 <!ENTITY aboutNetworking.idle                  "Foydalanilmayapti">

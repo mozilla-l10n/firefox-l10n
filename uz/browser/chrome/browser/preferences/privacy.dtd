@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Kuzatuvdan himoyalanish">
+
 <!ENTITY  trackingProtectionAlways.label       "Doimo">
 <!ENTITY  trackingProtectionAlways.accesskey   "D">
 <!ENTITY  trackingProtectionPrivate.label      "Faqat maxfiy oynalar uchun">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Manzil paneli">
 
-<!ENTITY  locbar.suggest.label          "Manzil panelidan foydalanilganda, tavsiya qilinsin:">
 <!ENTITY  locbar.history.label          "Tarix">
 <!ENTITY  locbar.history.accesskey      "T">
 <!ENTITY  locbar.bookmarks.label        "Xatcho‘plar">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Asosiy qidiruv tizimidan aloqador natijalar">
 <!ENTITY  locbar.searches.accesskey     "A">
 
-<!ENTITY  suggestionSettings.label      "Qidiruv tizimi tavsiyalari parametrlarini o‘zgartirish…">
-<!ENTITY  suggestionSettings.accesskey  "Q">
 
 <!ENTITY  acceptCookies.label           "Saytlardan kukilarga rozi bo‘lish">
 <!ENTITY  acceptCookies.accesskey       "r">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Kukilarni ko‘rsatish">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; bajaradi:">
-<!ENTITY  historyHeader.pre.accesskey      "b">
+
 <!ENTITY  historyHeader.remember.label     "Tarix eslab qolinsin">
 <!ENTITY  historyHeader.dontremember.label "Tarix hech qachon eslab qolinmasin">
 <!ENTITY  historyHeader.custom.label       "Tarix uchun boshqa sozlamalardan foydalanish">

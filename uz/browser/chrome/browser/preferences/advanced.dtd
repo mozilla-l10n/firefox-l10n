@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Yangilash">
 
-<!ENTITY updateAuto1.label               "Yangilanishlarni avtomatik oʻrnatish (tavsiya qilinadi:  yaxshilangan xavfsizlik)">
-<!ENTITY updateAuto1.accesskey           "a">
 
 
-<!ENTITY updateManual.label              "Yangilanishlar uchun hech qachon tekshirilmasin (tavsiya qilinmaydi: xavfsizlik xavf ostida qolishi mumkin)">
-<!ENTITY updateManual.accesskey          "h">
 
-<!ENTITY updateHistory.label             "Yangilash tarixini koʻrsatish">
-<!ENTITY updateHistory.accesskey         "n">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish">
 <!ENTITY useService.accesskey            "o">
 
-<!ENTITY enableSearchUpdate.label        "Qidiruv tizimlari">
-<!ENTITY enableSearchUpdate.accesskey    "t">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Istisnolar...">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Oflayn ma`lumotlarni oʻchirish">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
-<!ENTITY certPersonal.label              "So‘rovlar">
 
 <!ENTITY selectCerts.auto                "Avtomatik bittasini tanlash">
 

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Tarixni ko‘rish uchun o‘ng tugmani bosing yoking pastga suring">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarixni ko‘rish uchun pastga suring">
 <!ENTITY reloadCmd.label              "Qayta yuklash">
-<!ENTITY reloadButton.tooltip         "Joriy sahifani qayta yuklash">
 <!ENTITY stopCmd.label                "To‘xtatish">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ushbu sahifani yuklashni bekor qilish">
 <!ENTITY goEndCap.tooltip             "Manzil panelidagi manzilga o‘tish">
 <!ENTITY printButton.label            "Chop qilish">
 <!ENTITY printButton.tooltip          "Ushbu sahifani chop qilish">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolni saqlash xabari panelini ochish">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plaginlarni boshqarishdan foydalanilmoqda">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Saytdan eslatma olish imkoniyatini o‘zgartirish">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kamera yoki mikrofonni sayt bilan bo‘lishishni boshqarish">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mikrofonni sayt bilan bo‘lishishni boshqarish">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sayt uchun ma’lumotlarni saqlashni bloklab qo‘ygansiz.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu saytdan bildirishnomalarni olishni bloklab qo‘ygansiz.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tarixni ko‘rsatish">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Masshtabni asl holiga tiklash">
-
 <!ENTITY searchItem.title             "Izlash">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Uy">
 
@@ -375,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sinxronlash parametrlari">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ichki oynalar ro‘yxatini boshqa qurilmalarda ko‘rish uchun Firefox hisobiga kiring.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sinxronlash uchun tizimga kiring">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sinxronlangan ichki oynalar yon panelini ko‘rish">
 
 <!ENTITY customizeMenu.addToToolbar.label "Asboblar paneliga qo‘shish">
@@ -784,6 +783,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sinxronlash">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; tizimiga kirish…">
@@ -896,3 +897,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM haqida ko‘proq o‘rganish…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

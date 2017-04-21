@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Umumiy">
-<!ENTITY  paneTabs.title          "Ichki oynalar">
-<!ENTITY  paneSearch.title        "Izlash">
-<!ENTITY  paneContent.title       "Tarkibi">
-<!ENTITY  paneApplications.title  "Ilova dasturlar">
-<!ENTITY  panePrivacy.title       "Maxfiylik">
+<!ENTITY  paneGeneral.title             "Umumiy">
 
-<!ENTITY  paneSecurity.title      "Xavfsizlik">
-<!ENTITY  paneAdvanced.title      "Qoʻshimcha">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sinxronlash">
 
-<!ENTITY  helpButton.label        "Yordam">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Izlash">
