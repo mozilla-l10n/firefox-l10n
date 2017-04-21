@@ -92,11 +92,16 @@
 <!ENTITY updateManual2.label             "အဆင့်မြှင့်တင်မှုများကို ဘယ်သောအခါမှ မစစ်ဆေးပါနှင့် (အကြံမပြုလိုပါ)">
 <!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "မြှင့်တင်မှုမှတ်တမ်းကို ပြပါ…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "ရှာဖွေရေး ယန္တရားများကို အလိုအလျောက် မွမ်းမံပါ">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "အစီရင်ခံစာများ">
 
 <!ENTITY offlineStorageNotify.label               "ဝတ်ဆိုဒ်တစ်ခုမှ အင်တာနက်မဲ့သုံးအချက်အလက် သိမ်းလိုပါက သင့်အား အသိပေးမည်">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -110,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "ချိတ်ဆက်မဲ့ အချက်အလက်ကြမ်းကို ဖယ်ရှားပါ">
 
 <!ENTITY certificateTab.label            "အသိအမှတ်ပြုလက်မှတ်များ">
+<!ENTITY certPersonal2.description       "ဆာဗာမှ သင့်ကိုယ်ရေးထောက်ခံချက် တောင်းဆိုလာပါက">
 <!ENTITY selectCerts.auto                "တစ်ခုကို အလိုအလျောက် ရွေးပါ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "အကြိမ်တိုင်း မေးပါ">
