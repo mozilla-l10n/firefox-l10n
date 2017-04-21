@@ -189,6 +189,8 @@
 <!ENTITY pref_home_updates_enabled "সামৰ্থবান">
 <!ENTITY pref_home_updates_wifi "কেৱল Wi-Fi ৰে">
 
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -241,6 +243,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -294,26 +300,12 @@
 <!ENTITY pref_plugins_enabled "সামৰ্থবান">
 
 <!ENTITY pref_plugins_disabled "অসামৰ্থবান">
-<!ENTITY pref_text_size "লিখনীৰ আকাৰ">
 
 <!ENTITY pref_restore_always "সদায় পুনৰুদ্ধাৰ কৰিব">
 <!ENTITY pref_restore_quit "&brandShortName; প্ৰস্থান কৰাৰ পিছত পুনৰুদ্ধাৰ নকৰিব">
-<!ENTITY pref_font_size_tiny "ক্ষুদ্ৰ">
-<!ENTITY pref_font_size_small "সৰু">
-<!ENTITY pref_font_size_medium "মধ্যম">
-<!ENTITY pref_font_size_large "ডাঙৰ">
-<!ENTITY pref_font_size_xlarge "অতি বৃহৎ">
-<!ENTITY pref_font_size_set "ছেট">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "দ্ৰুত সুমথিৰা শিয়ালে আপোনাৰ প্ৰত্যাশাক অধিক গতি, অধিক স্থিতিস্থাপকতা আৰু অধিক সুৰক্ষাৰ সৈতে অতিক্ৰম কৰিছে। এটা লাভ-বিহিন হিচাপে, আমি কোনো আপোচৰ চাপ নথকাকৈ আপোনাৰ বাবে উদ্ভাৱন কৰিবলে মুক্ত। যাৰ অৰ্থ আপোনাৰ বাবে এটা উন্নত অনুভৱ আৰু ৱেবৰ বাবে এটা দীপ্ত ভৱিষ্যত।">
 
 <!ENTITY pref_media_autoplay_enabled "স্বচলনৰ অনুমতি দিয়ক">
 <!ENTITY pref_media_autoplay_enabled_summary "ৱেবছাইটসমূহে ভিডিঅ\u0027সমূহ আৰু অন্য মাধ্যম সমল স্বচলন কৰিব পাৰিব নে নিয়ন্ত্ৰণ কৰক">
@@ -438,6 +430,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "ব্যক্তিগত টেবত খোলক">
 <!ENTITY contextmenu_remove "আতৰাওক">
 <!ENTITY contextmenu_add_to_launcher "আৰম্ভণি পৰ্দালৈ যোগ কৰক">
+
 <!ENTITY contextmenu_share "অংশীদাৰী কৰক">
 <!ENTITY contextmenu_pasteandgo "পেইস্ট কৰক আৰু যাওক">
 <!ENTITY contextmenu_paste "পেইস্ট">
@@ -506,7 +499,7 @@ size. -->
 <!ENTITY button_yes "হয়">
 <!ENTITY button_no "নহয়">
 <!ENTITY button_clear_data "তথ্য আতৰাওক">
-<!ENTITY button_set "ছেট">
+
 <!ENTITY button_clear "পৰিষ্কাৰ কৰক">
 <!ENTITY button_copy "কপি">
 
