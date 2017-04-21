@@ -8,7 +8,7 @@
 <!ENTITY engine.bookmarks.accesskey "Z">
 <!ENTITY engine.tabs.label2         "Otevřené panely">
 <!ENTITY engine.tabs.accesskey      "P">
-<!ENTITY engine.history.label       "Historie">
+<!ENTITY engine.history.label       "Historii">
 <!ENTITY engine.history.accesskey   "H">
 <!ENTITY engine.passwords.label     "Hesla">
 <!ENTITY engine.passwords.accesskey "e">
