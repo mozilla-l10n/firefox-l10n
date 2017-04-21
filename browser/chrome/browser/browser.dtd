@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "வரலாற்றை பார்க்க வலது கிளிக் அல்லது கீழே இழுக்கும்">
 <!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றை பார்க்க கீழே இழுக்கும்">
 <!ENTITY reloadCmd.label              "மீளேற்று">
-<!ENTITY reloadButton.tooltip         "நடப்பு பக்கத்தை மீளேற்று">
 <!ENTITY stopCmd.label                "நிறுத்து">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "இந்த பக்கத்தை ஏற்றுவதை நிறுத்தவும்">
 <!ENTITY goEndCap.tooltip             "இடப் பட்டையில் முகவரிக்கு செல்லவும்">
 <!ENTITY printButton.label            "அச்சிடு">
 <!ENTITY printButton.tooltip          "இந்தப் பக்கத்தை அச்சிடு">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "கடவுச்சொல் சேமிப்பு செய்தி பலகத்தைத் திற">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "செருகி பயன்பாட்டை நிர்வகி">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "உங்கள் தரவு சேமிப்பை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "அறிவிப்புகளை இந்த தளத்தில் முடக்கியுள்ளீர்கள்.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
 
-<!ENTITY urlbar.zoomReset.tooltip     "பெரிதாக்கு நிலையை மீட்டமை">
-
 <!ENTITY searchItem.title             "தேடுதல்">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "இல்லம்">
 
@@ -376,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "ஒத்திசைவு முன்னுரிமைகள்">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "உங்கள் மற்ற கருவிகளிலிருந்து கீற்றுகளின் பட்டியலைப் பார்க்க உள்நுழை.">
 <!ENTITY appMenuRemoteTabs.signin.label "ஒத்திசைக்க உள்நுழை">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "ஒத்திசைத்த கீற்றுகள் பக்கப்பட்டையைப் பார்">
 
 <!ENTITY customizeMenu.addToToolbar.label "கருவிப்பட்டியில் சேர்க்க">
@@ -471,7 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY searchInNewTab.label         "புதிய கீற்றில் தேடு">
 <!ENTITY searchInNewTab.accesskey     "T">
-<!ENTITY searchSetAsDefault.label     "இயல்புநிலை தேடும் பொறியாக வை">
+<!ENTITY searchSetAsDefault.label     "இயல்புநிலை தேடும் பொறியாக அமை">
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "இணைப்பை புதிய கீற்றில் திற">
@@ -787,6 +786,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "ஒத்திசை">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;க்க புகுபதிக…">
@@ -899,3 +900,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM பற்றி மேலும் அறிய…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

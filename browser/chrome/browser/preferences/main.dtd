@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "துவக்கம்">
 
-<!ENTITY startupPage.label         "&brandShortName; துவக்கப்படும் போது:">
-<!ENTITY startupPage.accesskey     "த">
+
 
 <!ENTITY startupBlankPage.label    "ஒரு வெற்று பக்கத்தைக் காட்டு">
 
 
-<!ENTITY homepage.label            "முகப்பு பக்கம்:">
-<!ENTITY homepage.accesskey        "ப">
+
 <!ENTITY useCurrentPage.label      "நடப்பு பக்கத்தை பயன்படுத்து">
 <!ENTITY useCurrentPage.accesskey  "ப">
 <!ENTITY useMultiple.label         "நடப்பு பக்கங்களை பயன்படுத்து">
@@ -39,6 +37,7 @@
 
 <!ENTITY separateProfileMode.label        "பயர்பாக்ஸ்சும் &brandShortName; ம் ஒரே நேரத்தில் இயங்க அனுமதி">
 <!ENTITY useFirefoxSync.label             "குறிப்பு: தனித்தனி சுயவிவரங்களைப் பயன்படுத்துகிறது. ஒத்திசைவு மூலம் அவைகளுக்கிடையே தரவை பகிரவும்.">
-<!ENTITY getStarted.label                 "ஒத்திசைவைப் பயன்படுத்த துவங்கவும்...">
+
+
 
 <!ENTITY e10sEnabled.label                "பற்செயல்பாடுகளை &brandShortName; செயல்படுத்து">

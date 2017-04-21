@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "பொதுவான">
-
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -14,13 +12,12 @@
 <!ENTITY  blockDownloads.label            "ஆபத்தான பதிவிறக்கங்களை முடக்கு">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "தேவையற்ற பொதுவல்லாத மென்பொருள் பற்றி உங்களுக்கு எச்சரிக்கிறோம்">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "விதிவிலக்குகள்…">
 <!ENTITY  addonExceptions.accesskey     "E">
 
-
-<!ENTITY  logins.label                  "புகுபதிகைகள்">
 
 
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">

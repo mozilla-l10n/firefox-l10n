@@ -21,6 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "பதிப்பு">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
+
+
+
 <!ENTITY aboutSupport.experimentsTitle "பரிசோதனையிலுள்ள வசதிகள்">
 <!ENTITY aboutSupport.experimentName "பெயர்">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -59,6 +63,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "பலசெயல்முறை சாளரம்">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "கூகுள் திறவகோல்ஹ">
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "பாதுகாப்பான முறைமை">

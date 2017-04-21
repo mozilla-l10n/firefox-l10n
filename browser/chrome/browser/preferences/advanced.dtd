@@ -83,22 +83,21 @@
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
 <!ENTITY updateApplication.label         "&brandShortName; மேம்படுத்தல்கள்:">
-<!ENTITY updateAuto1.label               "புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரைக்கப்படுவது: பாதுகாப்பை மேம்படுத்தும்) ">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "புதுப்பிப்புகள் உள்ளதா எனப் சோதிக்கவும், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "புதுப்பித்தல்கள் உள்ளதா என்று ஒரு போதும் பார்க்க வேண்டாம் (பரிந்துரைக்கப்படவில்லை: பாதுகாப்பு அபாயம்)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "மேம்படுத்தல் வரலாற்றைக் காட்டு">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "தானாக புதுப்பி">
-<!ENTITY enableSearchUpdate.label        "தேடு பொறிகள்">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
@@ -111,7 +110,6 @@
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லாத தரவை நீக்கு">
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
-<!ENTITY certPersonal.label              "கோரிக்கைகள்">
 
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
 
