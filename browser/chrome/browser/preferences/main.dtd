@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Aig an toiseach">
 
-<!ENTITY startupPage.label         "Nuair a thòisicheas &brandShortName;:">
-<!ENTITY startupPage.accesskey     "t">
+
 <!ENTITY startupUserHomePage.label "Seall an duilleag-dhachaigh agad">
 <!ENTITY startupBlankPage.label    "Seall duilleag bhàn">
 <!ENTITY startupPrevSession.label  "Seall na h-uinneagan is tabaichean a bha agad san t-seisean mu dheireadh">
 
-<!ENTITY homepage.label            "An duilleag-dhachaigh:">
-<!ENTITY homepage.accesskey        "A">
+
 <!ENTITY useCurrentPage.label      "Cleachd an duilleag làithreach">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Cleachd na duilleagan làithreach">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Leig le &brandShortName; agus Firefox ruith aig an aon àm">
 <!ENTITY useFirefoxSync.label             "Gliocas: Cleachdaidh seo pròifilean eadar-dhealaichte. Cleachd an sioncronachadh gus dàta a ghluasad eadar an dà dhiubh.">
-<!ENTITY getStarted.label                 "Tòisich air an t-sioncronachadh…">
+
+
 
 <!ENTITY e10sEnabled.label                "Cuir an comas multi-process &brandShortName;">

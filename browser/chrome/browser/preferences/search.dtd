@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Cha dèid molaidhean luirg a shealltainn ann an toraidhean bàr an t-seòlaidh a chionn ’s gun do dh’iarr thu air &brandShortName; gun a bhith a’ cumail na h-eachdraidh sa chuimhne.">
 
-<!ENTITY oneClickSearchEngines.label           "Einnseanan-luirg aon-bhriogaidh">
 
 <!ENTITY chooseWhichOneToDisplay.label         "'S urrainn dhut einnseanan-luirg eile a thaghadh ann am bàr nan lorg fhèin. Tagh an fheadhainn a bu mhath leat fhaicinn.">
 
@@ -26,4 +25,3 @@
 <!ENTITY removeEngine.label                    "Thoir air falbh">
 <!ENTITY removeEngine.accesskey                "r">
 
-<!ENTITY addMoreSearchEngines.label            "Faigh barrachd einnseanan-luirg…">

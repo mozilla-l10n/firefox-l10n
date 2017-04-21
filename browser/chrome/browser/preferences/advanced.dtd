@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Ùraich">
 
 <!ENTITY updateApplication.label         "Ùrachaidhean &brandShortName;">
-<!ENTITY updateAuto1.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd na b' fhearr)">
-<!ENTITY updateAuto1.accesskey           "S">
-<!ENTITY updateCheckChoose.label         "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
-<!ENTITY updateCheckChoose.accesskey     "c">
-<!ENTITY updateManual.label              "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo oir adhbharaichidh seo cunnartan tèarainteachd)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Seall eachdraidh nan ùrachaidhean">
-<!ENTITY updateHistory.accesskey         "h">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">
 
-<!ENTITY autoUpdateOthers.label          "Ùraich gu fèin-obrachail">
-<!ENTITY enableSearchUpdate.label        "Einnseanan-luirg">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Innis ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
 <!ENTITY certificateTab.label            "Teisteanasan">
-<!ENTITY certPersonal.label              "Iarrtasan">
-<!ENTITY certPersonal.description        "Nuair a dh’iarras frithealaiche an teisteanas pearsanta agad:">
+
 <!ENTITY selectCerts.auto                "Taghar fear leis fhèin">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Faighnich dhìot gach turas">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Dìon o thracadh mi">
+
 <!ENTITY  trackingProtectionAlways.label       "An-còmhnaidh">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Ann an uinneagan prìobhaideach a-mhàin">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
-<!ENTITY  locbar.suggest.label          "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh:">
 <!ENTITY  locbar.history.label          "Eachdraidh">
 <!ENTITY  locbar.history.accesskey      "h">
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Luirg cho-cheangailte on einnsean-luirg bhunaiteach">
 <!ENTITY  locbar.searches.accesskey     "L">
 
-<!ENTITY  suggestionSettings.label      "Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
 <!ENTITY  acceptCookies.accesskey       "a">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Seall na briosgaidean…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "Dè nì &brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "D">
+
 <!ENTITY  historyHeader.remember.label     "Cuimhnich an eachdraidh">
 <!ENTITY  historyHeader.dontremember.label "Na cuimhnich an eachdraidh idir">
 <!ENTITY  historyHeader.custom.label       "Cleachd roghainnean gnàthaichte airson na h-eachdraidh">

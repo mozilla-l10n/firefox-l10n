@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Roghainnean - Dàta làraichean">
-<!ENTITY     settings.description          "Dh’iarr na làraichean-lìn a leanas cead dàta a stòradh air an diosg agad. Tha e an urra riut fhèin dè na làraichean dhan doir thu cead an dàta aca a stòradh ann. ’S e rud sealach a tha ann an dàta làraich bunaiteach agus gabhaidh a sguabadh às gu fèin-obrachail.">
 <!ENTITY     hostCol.label                 "Làrach">
 <!ENTITY     statusCol.label               "Staid">
 <!ENTITY     usageCol.label                "Stòras">
-<!ENTITY     searchPlaceHolder             "Lorg">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+
+
 <!ENTITY     removeSelected.label          "Thoir air falbh na thagh mi">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Sàbhail na h-atharraichean">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Sguir dheth">
 <!ENTITY     cancel.accesskey              "S">
 <!ENTITY     removingDialog.title          "Thoir air falbh dàta nan làraichean">
-<!ENTITY     removingDialog.description    "Ma bheir thu air falbh dàta nan làraichean, bheir seo air falbh briosgaidean cuideachd. Ri linn sin, dh’fhaoidte gun dèid do chlàradh a-mach à làraichean is gun caill thu cothrom air susbaint-lìn far loidhne. A bheil thu cinnteach gu bheil thu airson seo atharrachadh?">
+
 <!ENTITY     siteTree.label                "Thèid briosgaidean nan làraichean a leanas a thoirt air falbh:">

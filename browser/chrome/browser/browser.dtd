@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Dèan briogadh deas no tarraing a-nuas gus an eachdraidh a shealltainn">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarraing a-nuas gus an eachdraidh a shealltainn">
 <!ENTITY reloadCmd.label              "Ath-luchdaich">
-<!ENTITY reloadButton.tooltip         "Ath-luchdaich an duilleag làithreach">
 <!ENTITY stopCmd.label                "Sguir dheth">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Sguir de luchdadh na duilleige seo">
 <!ENTITY goEndCap.tooltip             "Rach dhan t-seòladh a tha ann am bàr an t-seòlaidh">
 <!ENTITY printButton.label            "Clò-bhuail">
 <!ENTITY printButton.tooltip          "Clò-bhuail an duilleag seo">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Fosgail panail teachdaireachdan sàbhaladh fhaclan-faire">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Stiùirich cleachdadh a’ phlugain">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Stiùirich co-roinneadh a’ mhicreofoin agad leis an làrach">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bhac thu stòras dàta air an làrach-lìn seo.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bhac thu brathan air an làrach-lìn seo.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Seall an eachdraidh">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Ath-shuidhich ìre an t-sùim">
-
 <!ENTITY searchItem.title             "Lorg">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Dhachaigh">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Roghainnean sioncronachaidh">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Clàraich a-steach airson liosta de thabaichean a tha agad air uidheaman eile.">
 <!ENTITY appMenuRemoteTabs.signin.label "Clàraich a-steach gun t-sioncronachadh">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Seall bàr-taoibh nan tabaichean sioncronaichte">
 
 <!ENTITY customizeMenu.addToToolbar.label "Cuir ris a' bhàr-inneal">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sioncronachadh">
 
 <!ENTITY syncSignIn.label             "Clàraich a-steach gu &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Faigh barrachd fiosrachaidh mu DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
