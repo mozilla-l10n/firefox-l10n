@@ -4,10 +4,13 @@
 
 <!ENTITY startup.label             "시작 페이지">
 
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "홈 페이지 보기">
 <!ENTITY startupBlankPage.label    "빈 페이지 보기">
 <!ENTITY startupPrevSession.label  "지난번 창과 탭 보기">
 
+<!ENTITY homepage2.label           "홈 페이지">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "현재 페이지">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "현재 탭">
