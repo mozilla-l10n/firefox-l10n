@@ -13,16 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Awamu">
-<!ENTITY  paneTabs.title          "Awaddirira">
-<!ENTITY  paneSearch.title        "Noonya">
-<!ENTITY  paneContent.title       "Ebirimu">
-<!ENTITY  paneApplications.title  "Enkozesa">
-<!ENTITY  panePrivacy.title       "Ebyekyama">
+<!ENTITY  paneGeneral.title             "Awamu">
 
-<!ENTITY  paneSecurity.title      "Ebyokwerinda">
-<!ENTITY  paneAdvanced.title      "Bussukkulumu">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Tusaganya">
 
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Noonya">

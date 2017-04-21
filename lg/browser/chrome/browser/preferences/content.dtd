@@ -18,10 +18,9 @@
 
 <!ENTITY  fontsAndColors.label        "Enukuta ne Langi">
 
-<!ENTITY  defaultFont.label           "Enukuta eyenkalakkalira:">
-<!ENTITY  defaultFont.accesskey       "k">
-<!ENTITY  defaultSize.label           "Obunene:">
-<!ENTITY  defaultSize.accesskey       "O">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Ekisukkulumu…">
 <!ENTITY  advancedFonts.accesskey     "l">

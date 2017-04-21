@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Okugoberera">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Akabawo Akalagilira">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Laga Kkuki…">
 <!ENTITY  showCookies.accesskey         "L">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ejja:">
-<!ENTITY  historyHeader.pre.accesskey      "e">
+
 <!ENTITY  historyHeader.remember.label     "Kujjukira ebyafaayo">
 <!ENTITY  historyHeader.dontremember.label "Tojjukiranga ebyafaayo">
 <!ENTITY  historyHeader.custom.label       "Kozesa entegeka eyiyo ku byafaayo">

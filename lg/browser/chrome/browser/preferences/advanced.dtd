@@ -77,21 +77,21 @@
 
 <!ENTITY updateTab.label                 "Tuusa">
 
-<!ENTITY updateAuto1.label               "Okweteramu Ebituusa (kiwagiddwa: okwerinda okusingako)">
-<!ENTITY updateAuto1.accesskey           "O">
 
 
-<!ENTITY updateManual.label              "Tokeberanga bituusa (tekiwagiddwa: obunkenke mu byokwerinda)">
-<!ENTITY updateManual.accesskey          "T">
 
-<!ENTITY updateHistory.label             "Laga Ebyafaayo Ebilongosirwamu">
-<!ENTITY updateHistory.accesskey         "b">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Kozesa empereza ekolera emabega okutekamu ebituusa">
 <!ENTITY useService.accesskey            "e">
 
-<!ENTITY enableSearchUpdate.label        "Yingini Ezinoonya">
-<!ENTITY enableSearchUpdate.accesskey    "n">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Okujako…">
@@ -104,7 +104,6 @@
 <!ENTITY offlineAppRemove.confirm        "Jjako wiino nga tterikulutimbe">
 
 <!ENTITY certificateTab.label            "Zasatifiketi">
-
 
 <!ENTITY selectCerts.auto                "Londako kimu ekyetekako">
 
