@@ -203,7 +203,7 @@
 <!ENTITY pref_developer_remotedebugging_usb "Nongo bal ki iyi USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Nongo bal ki iyi Wi-Fi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Nongo bal ki iyi Wi-Fi mito ni nyonyo ni obed ki purugram me kwano kod me QR.">
-<!ENTITY pref_remember_signons2 "Po ikom donyo iyie">
+<!ENTITY pref_remember_signons2 "Poo ikom donyo iyie">
 <!ENTITY pref_manage_logins "Lo donyo iyie">
 
 <!ENTITY pref_category_home "Gang">
@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Kicako">
 <!ENTITY pref_home_updates_wifi "Ki i Wi-Fi keken">
 <!ENTITY pref_category_home_homepage "Potbuk me gang">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Ter potbuk me gang">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -279,6 +281,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -344,26 +350,12 @@
 <!ENTITY pref_plugins_enabled "Kicako">
 <!ENTITY pref_plugins_tap_to_play2 "Gudi me tuko">
 <!ENTITY pref_plugins_disabled "Kijuko woko">
-<!ENTITY pref_text_size "Dit pa nyig Coc">
 <!ENTITY pref_restore_tabs "Dwok dirica matino">
 <!ENTITY pref_restore_always "Pol kare dwoki">
 <!ENTITY pref_restore_quit "Pe idwok inge weko &brandShortName;">
-<!ENTITY pref_font_size_tiny "Tino">
-<!ENTITY pref_font_size_small "Tidi">
-<!ENTITY pref_font_size_medium "Dyere dyere">
-<!ENTITY pref_font_size_large "Lac">
-<!ENTITY pref_font_size_xlarge "Madit loyo">
-<!ENTITY pref_font_size_set "Ter">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Orange fox madwir ni pye iwi gen mamegi ki dwiro mapol, ma gome oyot ki ber bedo mapol. Macalo labongo magoba, watye agonya me yubo jami manyen me kakari labongo dic mo keken me winye. Man te lokke ni ber me tic kwede piri ki anyim maleng pi Kakube.">
 
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
@@ -494,6 +486,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Yab i dirica matidi me mung">
 <!ENTITY contextmenu_remove "Kwany">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
+
 <!ENTITY contextmenu_share "Nywak">
 <!ENTITY contextmenu_pasteandgo "Mwon ka iciti">
 <!ENTITY contextmenu_paste "Dani">
@@ -567,7 +560,7 @@ size. -->
 <!ENTITY button_yes "Eyo">
 <!ENTITY button_no "Pe/Ku">
 <!ENTITY button_clear_data "Ywe tic">
-<!ENTITY button_set "Ter">
+
 <!ENTITY button_clear "Jwa">
 <!ENTITY button_copy "Lok">
 
