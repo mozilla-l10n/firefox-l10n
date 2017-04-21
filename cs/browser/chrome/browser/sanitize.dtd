@@ -53,13 +53,13 @@ that require it.  -->
 <!ENTITY itemCookies.label                 "Cookies">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Mezipaměť">
-<!ENTITY itemCache.accesskey               "M">
+<!ENTITY itemCache.accesskey               "a">
 <!ENTITY itemOfflineApps.label             "Offline obsah">
 <!ENTITY itemOfflineApps.accesskey         "O">
 <!ENTITY itemActiveLogins.label            "Aktivní přihlášení">
-<!ENTITY itemActiveLogins.accesskey        "A">
+<!ENTITY itemActiveLogins.accesskey        "l">
 <!ENTITY itemSitePreferences.label         "Nastavení pro daný server">
-<!ENTITY itemSitePreferences.accesskey     "N">
+<!ENTITY itemSitePreferences.accesskey     "s">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
