@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "مفعّلة">
 <!ENTITY pref_home_updates_wifi "عبر واي فاي فقط">
 <!ENTITY pref_category_home_homepage "صفحة البداية">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "استخدمها أيضا للألسنة الجديدة">
 <!ENTITY home_homepage_title "حدد صفحة بداية">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "ألسنة مخصصة">
 <!ENTITY pref_custom_tabs_summary3 "اسمح للتطبيقات بفتح المواقع مستخدمة نسخة مخصصة من &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "افتح في &formatS;">
+<!ENTITY custom_tabs_menu_footer "يستخدم &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "نُسِخَ المسار">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "تيار النشاطات">
@@ -350,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "مفعّلة">
 <!ENTITY pref_plugins_tap_to_play2 "المس للتشغيل">
 <!ENTITY pref_plugins_disabled "مُعطّلة">
-<!ENTITY pref_text_size "حجم النص">
 <!ENTITY pref_restore_tabs "استعد الألسنة">
 <!ENTITY pref_restore_always "استعد دائمًا">
 <!ENTITY pref_restore_quit "لا تستعد بعد إغلاق &brandShortName;">
-<!ENTITY pref_font_size_tiny "ضئيل">
-<!ENTITY pref_font_size_small "صغير">
-<!ENTITY pref_font_size_medium "متوسط">
-<!ENTITY pref_font_size_large "كبير">
-<!ENTITY pref_font_size_xlarge "كبير جدا">
-<!ENTITY pref_font_size_set "حدد">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "ع">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "صِفْ خَلْقَ خَوْدٍ كَمِثْلِ ٱلشَّمْسِ إِذْ بَزَغَتْ يَحْظَىٰ ٱلضَّجِيعُ بِهَا نَجْلَاءَ مِعْطَارِ.">
+<!ENTITY pref_use_system_font_size "استخدم حجم خط النّظام">
+<!ENTITY pref_use_system_font_size_summary "غيّر حجم محتوى الوِب بناء على حجم خط النظام">
 
 <!ENTITY pref_media_autoplay_enabled "اسمح بالتشغيل التلقائي">
 <!ENTITY pref_media_autoplay_enabled_summary "تحكم في السماح للمواقع بتشغيل الڤديو و غيره من الوسائط تلقائيا">
@@ -500,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "افتح في لسان خاص">
 <!ENTITY contextmenu_remove "أزِل">
 <!ENTITY contextmenu_add_to_launcher "أضِف إلى شاشة البداية">
+<!ENTITY contextmenu_set_as_homepage "اجعلها صفحة البداية">
 <!ENTITY contextmenu_share "شارِك">
 <!ENTITY contextmenu_pasteandgo "ألصق و اذهب">
 <!ENTITY contextmenu_paste "لصق">
@@ -798,7 +796,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_camera_microphone "الكمرة و المِكروفون">
 <!ENTITY restrictable_feature_camera_microphone_description "يسمح لأفراد العائلة بالتخاطب في نفس اللحظة عبر مواقع الوب.">
 <!ENTITY restrictable_feature_block_list "قائمة الحجب">
-<!ENTITY restrictable_feature_block_list_description "احجب المواقع التي تتضمن محتويات حساسة">
+<!ENTITY restrictable_feature_block_list_description "احجب المواقع التي تتضمن محتويات حساسة.">
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 
