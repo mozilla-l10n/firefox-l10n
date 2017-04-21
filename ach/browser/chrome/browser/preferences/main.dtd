@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Caki">
 
-<!ENTITY startupPage.label         "Ka &brandShortName; ocake:">
-<!ENTITY startupPage.accesskey     "o">
+<!ENTITY startupPage2.label        "Ka &brandShortName; ocake">
+<!ENTITY startupPage2.accesskey    "o">
 <!ENTITY startupUserHomePage.label "Nyut pot buk mamegi me gang">
 <!ENTITY startupBlankPage.label    "Nyut pot buk ma tye nono">
 <!ENTITY startupPrevSession.label  "Nyut dirica ki dirca matino mamegi ma ceng ca">
 
-<!ENTITY homepage.label            "Pot buk me gang:">
-<!ENTITY homepage.accesskey        "u">
+<!ENTITY homepage2.label           "Potbuk me acakki">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Tii ki pot buk ma kombedi">
 <!ENTITY useCurrentPage.accesskey  "p">
 <!ENTITY useMultiple.label         "Tii ki pot buk ma kombedi">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Ye &brandShortName; ki Firefox me tic lawang acel">
 <!ENTITY useFirefoxSync.label             "Ngec: Man tiyo ki propwail ma patpat. Tii ki Ribo me nywako data ikin gi.">
-<!ENTITY getStarted.label                 "Cak tic ki Ribo…">
+<!ENTITY getStarted.notloggedin.label     "Dony iyie me &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Yab ter me &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cak tic mapol &brandShortName;">

@@ -13,17 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Lumuku">
-<!ENTITY  paneTabs.title          "Dirica matino">
-<!ENTITY  paneSearch.title        "Yeny">
-<!ENTITY  paneContent.title       "Gin manonge iye">
-<!ENTITY  paneApplications.title  "Purugram">
-<!ENTITY  panePrivacy.title       "Mung">
-<!ENTITY  paneContainers.title    "Dirica matidi me mako jami">
-<!ENTITY  paneSecurity.title      "Ber bedo">
-<!ENTITY  paneAdvanced.title      "Ma lamal">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Adwogi me yeny">
+<!ENTITY  paneGeneral.title             "Lumuku">
+<!ENTITY  paneFilesApplications.title   "Pwail ki Purugram">
+<!ENTITY  panePrivacySecurity.title     "Mung ki Ber bedo">
+<!ENTITY  paneContainers.title          "Dirica matidi me mako jami">
+<!ENTITY  paneUpdates.title             "Ngec manyen">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Ribo">
+<!ENTITY  paneSync1.title          "Akaunt me Firefox">
 
 <!ENTITY  helpButton.label        "Kony">
+
+<!ENTITY searchInput.label        "Yeny">

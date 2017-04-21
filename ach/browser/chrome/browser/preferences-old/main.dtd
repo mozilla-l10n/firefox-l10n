@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Ye &brandShortName; ki Firefox me tic lawang acel">
 <!ENTITY useFirefoxSync.label             "Ngec: Man tiyo ki propwail ma patpat. Tii ki Ribo me nywako data ikin gi.">
-<!ENTITY getStarted.label                 "Cak tic ki Ribo…">
+<!ENTITY getStarted.notloggedin.label     "Dony iyie &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Yab ter me &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Cak tic mapol &brandShortName;">

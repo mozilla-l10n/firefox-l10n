@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ter - Data me Kakube">
-<!ENTITY     settings.description          "Kakube magi openyo me gwoko data me kakube i disk mamegi. Itwero cimo kakube mene ma ki yee me gwoko data me kakube. Data me kakube makwongo tye pi tutuno ki kitwero kwanyo ne woko pire kene.">
 <!ENTITY     hostCol.label                 "Kakube">
 
 
-<!ENTITY     searchPlaceHolder             "Yeny">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     searchTextboxPlaceHolder             "Yeny kakube">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Kwany ma kiyero">
 <!ENTITY     removeSelected.accesskey      "K">
 <!ENTITY     save.label                    "Gwok alokaloka">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Juki">
 <!ENTITY     cancel.accesskey              "J">
 <!ENTITY     removingDialog.title          "Kwanyo Data me Kakube">
-<!ENTITY     removingDialog.description    "Kwanyo data me kakube bene bi kwanyo angija woko. Man kwanyi woko ki ii kakube ki kwanyo woko jami me kakube ma pe iwiyamo. Imoko ada ni imito timo alokaloka magi?">
+<!ENTITY     removingSelected.description  "Kwanyo data me kakube bene bikwanyo angija makwako ki jami me kakube mape iwiyamo. Man twero kwanyi woko ki i kakube. Imoko ada ni imito timo alokaloka?">
 <!ENTITY     siteTree.label                "Angija pi kakube magi ki bi kwanyo gi woko:">

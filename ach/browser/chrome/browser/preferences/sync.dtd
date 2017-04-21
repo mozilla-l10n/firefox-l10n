@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
-<!ENTITY changeSyncDeviceName.label "Lok nying nyonyo…">
-<!ENTITY changeSyncDeviceName.accesskey "o">
+<!ENTITY changeSyncDeviceName1.label "Lok nying nyonyo">
+<!ENTITY changeSyncDeviceName1.accesskey "o">
 <!ENTITY cancelChangeSyncDeviceName.label "Ngol">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "o">
 <!ENTITY saveChangeSyncDeviceName.label "Gwoki">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Lok cal me propwail">
 <!ENTITY verifiedManage.label        "Lo Akaunt">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Juk kube…">
-<!ENTITY disconnect.accesskey        "J">
+<!ENTITY disconnect2.label           "Juk kube">
+<!ENTITY disconnect2.accesskey       "J">
 <!ENTITY verify.label                "Mok ada pa email">
 <!ENTITY verify.accesskey            "M">
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Dony iyie">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Rib i nyonyo weng">
+<!ENTITY signedIn.settings.label       "Ter me Ribo">
+<!ENTITY signedIn.settings.description "Yer ngo me ariba i nyonyo ni ki &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

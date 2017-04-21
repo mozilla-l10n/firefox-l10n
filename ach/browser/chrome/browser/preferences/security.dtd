@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Lumuku">
+<!ENTITY  security.label                 "Ber bedo">
 
 <!ENTITY  warnOnAddonInstall.label        "Miyi ngec kace kakube tye ka temo me keto med-ikome">
 <!ENTITY  warnOnAddonInstall.accesskey    "M">
@@ -24,10 +24,8 @@
 <!ENTITY  addonExceptions.accesskey     "M">
 
 
-<!ENTITY  logins.label                  "Donyo iyie">
-
-<!ENTITY  rememberLogins.label          "Po ikom donyo iyie pi kakube">
-<!ENTITY  rememberLogins.accesskey      "o">
+<!ENTITY  rememberLogins1.label          "Poo ikom donyo iyie ki mung me donyo pi kakube man">
+<!ENTITY  rememberLogins1.accesskey      "P">
 <!ENTITY  passwordExceptions.label      "Ma kiweko woko…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 

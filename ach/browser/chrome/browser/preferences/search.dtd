@@ -13,7 +13,6 @@
 <!ENTITY showURLBarSuggestions.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Pe ki binyuto tam me yeny i adwogi me lanyut me kabedo pien i tero &brandShortName; pe me poo ikom gin mukato matwal.">
 
-<!ENTITY oneClickSearchEngines.label           "Ingin me yeny ma idiyo kicel">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Lanyut me yeny weko i yenyo atir ingin ma igwenyo kingi. Yer mene me nyuto kama leng.">
 
@@ -26,4 +25,4 @@
 <!ENTITY removeEngine.label                    "Kwany">
 <!ENTITY removeEngine.accesskey                "K">
 
-<!ENTITY addMoreSearchEngines.label            "Med ingin me yeny mapol…">
+<!ENTITY addMoreSearchEngines2.label           "Med injin me yeny mukene">

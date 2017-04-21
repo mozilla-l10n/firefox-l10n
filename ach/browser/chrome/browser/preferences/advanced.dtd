@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Ngec manyen">
 
 <!ENTITY updateApplication.label         "Ngec manyen me &brandShortName;">
-<!ENTITY updateAuto1.label               "Ket ngec manyen pire kene (kicwako: ber bedo i rwom mamalo)">
-<!ENTITY updateAuto1.accesskey           "n">
-<!ENTITY updateCheckChoose.label         "Rot pi ngec manyen, ento weko iyero kace imito keto gi">
-<!ENTITY updateCheckChoose.accesskey     "R">
-<!ENTITY updateManual.label              "Pe i rot pi ngec manyen matwal (pe kicwako: ber bedo pe gene)">
-<!ENTITY updateManual.accesskey          "P">
+<!ENTITY updateApplication.description   "Yee ki &brandShortName; me">
+<!ENTITY updateAuto2.label               "Ket ngec manyen pire kene (kicwako ber bedo i rwom mamalo)">
+<!ENTITY updateAuto2.accesskey           "e">
+<!ENTITY updateCheckChoose2.label        "Rot pi ngec manyen, ento weko iyero kace imito keto gi">
+<!ENTITY updateCheckChoose2.accesskey    "R">
+<!ENTITY updateManual2.label             "Pe i rot pi ngec manyen matwal (pe kicwako ber bedo pe gene)">
+<!ENTITY updateManual2.accesskey         "P">
 
-<!ENTITY updateHistory.label             "Nyut gin mukato me Ngec manyen">
-<!ENTITY updateHistory.accesskey         "g">
+<!ENTITY updateHistory2.label            "Nyut Ngec manyen mukato…">
+<!ENTITY updateHistory2.accesskey        "g">
 
 <!ENTITY useService.label                "Tii ki tic ma angec me keto ngec manyennen pi keto ngec">
 <!ENTITY useService.accesskey            "t">
 
-<!ENTITY autoUpdateOthers.label          "Ket ngec manyen pire kene">
-<!ENTITY enableSearchUpdate.label        "Gin me Yeny">
-<!ENTITY enableSearchUpdate.accesskey    "i">
+<!ENTITY enableSearchUpdate2.label       "Ket pire kene ngec manyen i injin yeny">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
+
+<!ENTITY reports.label                   "Ripot">
 
 <!ENTITY offlineStorageNotify.label               "Miyi ngec kace kakube penyo me kano tic pi tic kwede ma nongo pe okube iwi yamo">
 <!ENTITY offlineStorageNotify.accesskey           "M">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kwany tic ma nongo pe okube iwi yamo">
 
 <!ENTITY certificateTab.label            "Waraga">
-<!ENTITY certPersonal.label              "Kwac">
-<!ENTITY certPersonal.description        "Kace lapok tic okwayo pi catibiket mamega:">
+<!ENTITY certPersonal2.description       "Kace lapok tic okwayo pi catibiket mamegi">
 <!ENTITY selectCerts.auto                "Yer acel pire kene">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Penyi cawa weng">

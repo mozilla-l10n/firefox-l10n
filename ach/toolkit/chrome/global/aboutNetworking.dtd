@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Nwo pire kene inge seconda 3">
 <!ENTITY aboutNetworking.hostname              "Nying lami kube">
 <!ENTITY aboutNetworking.port                  "Bur">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Tye katic">
 <!ENTITY aboutNetworking.idle                  "Pe tye ka tic">

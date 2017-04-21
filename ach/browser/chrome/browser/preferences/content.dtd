@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Dit me coc &amp; rangi">
 
-<!ENTITY  defaultFont.label           "Dit coc makwongo:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Dit:">
-<!ENTITY  defaultSize.accesskey       "D">
+<!ENTITY  defaultFont2.label          "Dit coc makwongo">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Dit">
+<!ENTITY  defaultSize2.accesskey      "D">
 
 <!ENTITY  advancedFonts.label         "Ma lamal…">
 <!ENTITY  advancedFonts.accesskey     "M">

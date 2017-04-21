@@ -66,12 +66,12 @@
 
 <!ENTITY  historyHeader.pre.label          "&brandShortName; obi:">
 <!ENTITY  historyHeader.pre.accesskey      "o">
-<!ENTITY  historyHeader.remember.label     "Po ikom gin mukato">
-<!ENTITY  historyHeader.dontremember.label "Pe i po ikom gin mukato matwal">
+<!ENTITY  historyHeader.remember.label     "Poo ikom gin mukato">
+<!ENTITY  historyHeader.dontremember.label "Pe i poo ikom gin mukato matwal">
 <!ENTITY  historyHeader.custom.label       "Tii ki ter mamegi pi gin mukato">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; bi po ikom yeny mamegi, gam, pwom kacel ki yeny me gin mukato, ka kano angija ki bot kakube ma i limo.">
+<!ENTITY  rememberDescription.label      "&brandShortName; bi poo ikom yeny mamegi, gam, pwom kacel ki yeny me gin mukato, ka kano angija ki bot kakube ma i limo.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "kwany angija acelacel">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; bi tic ki ter acel calo yeny me mung, ka pe bi po ikom gin mukato mo keken kun nongo i yenyo Kakube.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; bi tic ki ter acel calo yeny me mung, ka pe bi poo ikom gin mukato mo keken kun nongo i yenyo Kakube.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
@@ -96,7 +96,7 @@
 <!ENTITY  rememberHistory2.label      "Po ikom gin mukato me yeny ki gam mamega">
 <!ENTITY  rememberHistory2.accesskey  "o">
 
-<!ENTITY  rememberSearchForm.label       "Po ikom gin mukato me yeny ki pwom">
+<!ENTITY  rememberSearchForm.label       "Poo ikom gin mukato me yeny ki pwom">
 <!ENTITY  rememberSearchForm.accesskey   "p">
 
 <!ENTITY  clearOnClose.label             "Jwa gin mukato ka &brandShortName; olore">

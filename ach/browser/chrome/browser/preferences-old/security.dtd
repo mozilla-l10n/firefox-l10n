@@ -26,7 +26,7 @@
 
 <!ENTITY  logins.label                  "Donyo iyie">
 
-<!ENTITY  rememberLogins.label          "Po ikom donyo iyie pi kakube">
+<!ENTITY  rememberLogins.label          "Poo ikom donyo iyie pi kakube">
 <!ENTITY  rememberLogins.accesskey      "o">
 <!ENTITY  passwordExceptions.label      "Ma kiweko woko…">
 <!ENTITY  passwordExceptions.accesskey  "a">
