@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Activades">
 <!ENTITY pref_home_updates_wifi "Només per Wi-Fi">
 <!ENTITY pref_category_home_homepage "Pàgina d\u0027inici">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Defineix una pàgina d\u0027inici">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Pestanyes personalitzades">
 <!ENTITY pref_custom_tabs_summary3 "Permet que les aplicacions obrin llocs web utilitzant una versió personalitzada del &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux d\u0027activitat">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Habilitats">
 <!ENTITY pref_plugins_tap_to_play2 "Toca per iniciar-los">
 <!ENTITY pref_plugins_disabled "Inhabilitats">
-<!ENTITY pref_text_size "Mida del text">
 <!ENTITY pref_restore_tabs "Restaura les pestanyes">
 <!ENTITY pref_restore_always "Restaura-les sempre">
 <!ENTITY pref_restore_quit "No les restauris en sortir del &brandShortName;">
-<!ENTITY pref_font_size_tiny "Molt petita">
-<!ENTITY pref_font_size_small "Petita">
-<!ENTITY pref_font_size_medium "Mitjana">
-<!ENTITY pref_font_size_large "Grossa">
-<!ENTITY pref_font_size_xlarge "Molt grossa">
-<!ENTITY pref_font_size_set "Defineix">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "La ràpida guineu taronja salta per sobre de les vostres expectatives, amb més velocitat, més flexibilitat i més seguretat. Com a organització sense ànim de lucre, som lliures d\u0027innovar en el vostre nom sense cap tipus de pressió a l\u0027hora de comprometre\u0027ns. Això vol dir que us podem oferir una millor experiència i un futur més brillant per al web.">
 
 <!ENTITY pref_media_autoplay_enabled "Permet reproduir automàticament">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
@@ -499,6 +491,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
 <!ENTITY contextmenu_remove "Elimina">
 <!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\u0027inici">
+
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_pasteandgo "Enganxa i vés-hi">
 <!ENTITY contextmenu_paste "Enganxa">
@@ -570,7 +563,7 @@ size. -->
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Neteja les dades">
-<!ENTITY button_set "Defineix">
+
 <!ENTITY button_clear "Neteja">
 <!ENTITY button_copy "Copia">
 
