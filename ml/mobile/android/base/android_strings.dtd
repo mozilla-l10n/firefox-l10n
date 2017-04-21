@@ -205,6 +205,8 @@
 <!ENTITY pref_home_updates_enabled "പ്രവര്‍ത്തനക്ഷമമാക്കി">
 <!ENTITY pref_home_updates_wifi "വൈ-ഫൈ വഴി മാത്രം">
 <!ENTITY pref_category_home_homepage "ആസ്ഥാനതാള്‍">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "ഒരു ആസ്ഥാനതാള്‍ സജ്ജമാക്കുക">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -267,6 +269,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -329,25 +335,12 @@
 <!ENTITY pref_plugins_enabled "പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY pref_plugins_tap_to_play2 "പ്രവര്‍ത്തിപ്പിക്കാന്‍ തൊടൂ">
 <!ENTITY pref_plugins_disabled "പ്രവര്‍ത്തനരഹിതമാക്കി">
-<!ENTITY pref_text_size "അക്ഷര വലുപ്പം">
 
 <!ENTITY pref_restore_always "എപ്പോഴും പഴയപടിയാക്കുക">
 <!ENTITY pref_restore_quit "&brandShortName;-ല്‍ വിരമിച്ച ശേഷം പഴയപടിയാക്കേണ്ട">
-<!ENTITY pref_font_size_tiny "ചെറുത്">
-<!ENTITY pref_font_size_small "ചെറുത്">
-<!ENTITY pref_font_size_medium "ഇടത്തരം">
-<!ENTITY pref_font_size_large "വലുത്">
-<!ENTITY pref_font_size_xlarge "വളരെ വലുത്">
-<!ENTITY pref_font_size_set "സജ്ജീകരിക്കുക">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "നിങ്ങളുടെ പ്രതീക്ഷകള്‍ക്കതീതമായി കൂടുതല്‍ വേകതയോടുകൂടെ, കൂടുതല്‍ വിധേയത്വത്തോടുകൂടെ, കൂടുതല്‍ സുരക്ഷിതത്വത്തോടുകൂടെ ഈ ഓറഞ്ച് കുറിക്കന്‍ കുതിയ്ക്കുന്നു. ലാഭേച്ചയില്ലാത്തതിനാല്‍ ഒരുതരത്തിലുള്ള ഒത്തുതീര്‍പ്പുകളില്ലാതെ നിങ്ങള്‍ക്ക് വേണ്ടി നവീകരിക്കാന്‍ ഞങ്ങള്‍ക്ക് സാധിക്കും. അതായത് നിങ്ങള്‍ക്ക് മെച്ചപെട്ട ഒരനുഭവവും വെബിന് ശോഭയാര്‍ന്ന് ഒരു ഭാവിയും.">
 
 <!ENTITY pref_media_autoplay_enabled "ഓട്ടോപ്ലേ അനുവദിക്കുക">
 <!ENTITY pref_media_autoplay_enabled_summary "വെബ്സൈറ്റുകള്‍ ചലച്ചിത്രങ്ങളോ മറ്റു മീഡിയാ ഉള്ളടക്കങ്ങളോ തനിയെ പ്രവര്‍ത്തിപ്പിക്കുന്നുണ്ടെങ്കില്‍ നിയന്ത്രിക്കുക">
@@ -477,6 +470,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "സ്വകാര്യ ടാബിൽ തുറക്കുക">
 <!ENTITY contextmenu_remove "ഒഴിവാക്കുക">
 <!ENTITY contextmenu_add_to_launcher "ആസ്ഥന താളിലേക്കു് ചേര്‍ക്കൂ">
+
 <!ENTITY contextmenu_share "പങ്കിടുക">
 <!ENTITY contextmenu_pasteandgo "ഒട്ടിച്ച് തുടരുക">
 <!ENTITY contextmenu_paste "ഒട്ടിക്കുക">
@@ -547,7 +541,7 @@ size. -->
 <!ENTITY button_yes "അതെ">
 <!ENTITY button_no "ഇല്ല">
 <!ENTITY button_clear_data "ഡേറ്റാ മായ്ക്കുക">
-<!ENTITY button_set "സജ്ജീകരിക്കൂ">
+
 <!ENTITY button_clear "വൃത്തിയാക്കുക">
 <!ENTITY button_copy "പകര്‍ത്തുക">
 
