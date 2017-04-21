@@ -198,6 +198,8 @@
 <!ENTITY pref_home_updates_enabled "Jxkahane\u0027ga">
 <!ENTITY pref_home_updates_wifi "Teeçxaa kwehkwe Wi-Fiju">
 <!ENTITY pref_category_home_homepage "Ajte pu\u0027txna">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "ki\u0027pn ajte pu\u0027txna">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -262,6 +264,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -326,26 +332,12 @@
 <!ENTITY pref_plugins_enabled "Jxkahane\u0027ga">
 <!ENTITY pref_plugins_tap_to_play2 "Kxtethna ki\u0027h yu\u0027ptehn">
 <!ENTITY pref_plugins_disabled "Khçxhaçxanimee">
-<!ENTITY pref_text_size "Fxi\u0027ni makwe tepa jiyuni">
 <!ENTITY pref_restore_tabs "Ma\u0027wẽ u\u0027pte txãawẽy ki\u0027pya">
 <!ENTITY pref_restore_always "Ma\u0027wẽn swete phewu\u0027ni">
 <!ENTITY pref_restore_quit "Swete phewu\u0027nimee e\u0027su kase\u0027hte &brandShortName;">
-<!ENTITY pref_font_size_tiny "Le\u0027çxkwe">
-<!ENTITY pref_font_size_small "Le\u0027çx">
-<!ENTITY pref_font_size_medium "Jweepa le\u0027çxkwemee">
-<!ENTITY pref_font_size_large "Wala">
-<!ENTITY pref_font_size_xlarge "Nme\u0027h wala">
-<!ENTITY pref_font_size_set "Phewu\u0027nxi">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Wala nmeh dxi\u0027hka yu\u0027kh eçxa\u0027 behbeh lemsa\u0027 ãpani aça\u0027 pa\u0027yakx. Kwe\u0027sxa\u0027 u\u0027sesa\u0027s vxithna ji\u0027ptha\u0027w napa pẽyiçmeetha\u0027w naa pa\u0027ka. Na\u0027s kãjandan teeçx ew jiyuni\u0027s aça\u0027 teeçx nmeh wala\u0027 kuskaytewe\u0027sx web-jĩ\u0027s.">
 
 <!ENTITY pref_media_autoplay_enabled "Kaapeiwya\u0027n txãaiçxaa jxpe\u0027hnan">
 <!ENTITY pref_media_autoplay_enabled_summary "Kçxhaçxhan txãa webte jxpe\u0027hnan ewun pisani\u0027s kutxin txãaiçxaa vxite ji\u0027phuni kuhwed seelpisa\u0027.">
@@ -473,6 +465,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Phanden teeçx çxhunden peekxkĩçxa\u0027s">
 <!ENTITY contextmenu_remove "Kaapçu\u0027jun">
 <!ENTITY contextmenu_add_to_launcher "Kãhan çxhunden takhna">
+
 <!ENTITY contextmenu_share "Jxtxunde">
 <!ENTITY contextmenu_pasteandgo "Kne\u0027tan u\u0027hn">
 <!ENTITY contextmenu_paste "Kne\u0027ta">
@@ -544,7 +537,7 @@ size. -->
 <!ENTITY button_yes "Ewna">
 <!ENTITY button_no "Ewume\u0027n">
 <!ENTITY button_clear_data "Kjũkhna pta\u0027sxsa">
-<!ENTITY button_set "Phewu\u0027nxi">
+
 <!ENTITY button_clear "khũkh">
 <!ENTITY button_copy "Kaajandan">
 
