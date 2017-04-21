@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Information om url-klassificeraren">
+<!ENTITY aboutUrlClassifier.providerTitle               "Leverantör">
+<!ENTITY aboutUrlClassifier.provider                    "Leverantör">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Senast uppdaterad">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Nästa uppdatering">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Senaste uppdateringsstatus">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Uppdatera">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Databas">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Felsök">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Ange loggmoduler">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Ange loggfil">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Ange JS-logg">
+<!ENTITY aboutUrlClassifier.debugFile                   "Aktuell loggfil">
