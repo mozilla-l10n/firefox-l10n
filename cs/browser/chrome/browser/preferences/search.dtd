@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Klíčové slovo">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Obnovit výchozí vyhledávací moduly">
-<!ENTITY restoreDefaultSearchEngines.accesskey "O">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Odebrat">
-<!ENTITY removeEngine.accesskey                "d">
+<!ENTITY removeEngine.accesskey                "r">
 
 <!ENTITY addMoreSearchEngines2.label           "Přidat více vyhledávacích modulů">
