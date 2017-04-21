@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 44em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 44em;">
 
-<!ENTITY  paneGeneral.title       "Orokorra">
-<!ENTITY  paneTabs.title          "Fitxak">
-<!ENTITY  paneSearch.title        "Bilaketa">
-<!ENTITY  paneContent.title       "Edukia">
-<!ENTITY  paneApplications.title  "Aplikazioak">
-<!ENTITY  panePrivacy.title       "Pribatutasuna">
-<!ENTITY  paneContainers.title    "Edukiontzi-fitxak">
-<!ENTITY  paneSecurity.title      "Segurtasuna">
-<!ENTITY  paneAdvanced.title      "Aurreratua">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "Orokorra">
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Laguntza">
+<!ENTITY  paneContainers.title          "Edukiontzi-fitxak">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Bilaketa">

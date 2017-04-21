@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ikusi etiketa guztiak">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Kargatu laster-marka alboko barran">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "a">
-<!ENTITY editBookmarkOverlay.choose.label                    "Hautatu…">
+<!ENTITY editBookmarkOverlay.choose.label                    "Aukeratu…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "Karpeta berria">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "b">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Erabili jarraipenaren babesa">
+
 <!ENTITY  trackingProtectionAlways.label       "Beti">
 <!ENTITY  trackingProtectionAlways.accesskey   "B">
 <!ENTITY  trackingProtectionPrivate.label      "Leiho pribatuak soilik">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Helbide-barra">
 
-<!ENTITY  locbar.suggest.label          "Helbide-barra erabiltzean, gomendatu:">
 <!ENTITY  locbar.history.label          "Historia">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Laster-markak">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Bilaketa-motor lehenetsiko erlazionatutako bilaketak">
 <!ENTITY  locbar.searches.accesskey     "z">
 
-<!ENTITY  suggestionSettings.label      "Aldatu bilaketa-motorren iradokizunetarako hobespenak…">
-<!ENTITY  suggestionSettings.accesskey  "d">
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Erakutsi cookieak…">
 <!ENTITY  showCookies.accesskey         "E">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;(e)k:">
-<!ENTITY  historyHeader.pre.accesskey      "k">
+
 <!ENTITY  historyHeader.remember.label     "Historia gogoratuko du">
 <!ENTITY  historyHeader.dontremember.label "Ez du historia gogoratuko inoiz">
 <!ENTITY  historyHeader.custom.label       "Ezarpen pertsonalizatuak erabiliko ditu historiarako">

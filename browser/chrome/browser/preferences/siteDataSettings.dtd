@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Ezarpenak - Guneen datuak">
-<!ENTITY     settings.description          "Ondorengo webguneek datuak zure diskoan biltegiratzea eskatu dute. Datuak biltegiratzeko baimenduta dauden webguneak hemen zehatz ditzakezu. Guneen datuak behin-behinekoak dira lehenespenez eta automatikoki ezaba daitezke.">
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     usageCol.label                "Biltegiratzea">
-<!ENTITY     searchPlaceHolder             "Bilatu">
-<!ENTITY     searchPlaceHolder.accesskey   "t">
+
+
 <!ENTITY     removeSelected.label          "Kendu hautatutakoak">
 <!ENTITY     removeSelected.accesskey      "K">
 <!ENTITY     save.label                    "Gorde aldaketak">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Utzi">
 <!ENTITY     cancel.accesskey              "U">
 <!ENTITY     removingDialog.title          "Gunearen datuak kentzea">
-<!ENTITY     removingDialog.description    "Gunearen datuak kentzean cookieak ere kendu egingo dira. Honen eraginez agian webguneetako saioa amaituko da eta lineaz kanpoko web edukia kenduko da. Ziur zaude aldaketak burutu nahi dituzula?">
+
 <!ENTITY     siteTree.label                "Webgunearen ondorengo cookieak kendu egingo dira:">

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Egin eskuin-klika edo ekarri behera historia erakusteko">
 <!ENTITY backForwardButtonMenuMac.tooltip "Ekarri behera historia erakusteko">
 <!ENTITY reloadCmd.label              "Berritu">
-<!ENTITY reloadButton.tooltip         "Berritu uneko orria">
 <!ENTITY stopCmd.label                "Gelditu">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Utzi orri hau kargatzeari">
 <!ENTITY goEndCap.tooltip             "Joan kokapen-barrako helbidera">
 <!ENTITY printButton.label            "Inprimatu">
 <!ENTITY printButton.tooltip          "Inprimatu orri hau">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ireki pasahitza gordetzeko mezuen panela">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kudeatu pluginen erabilera">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Kudeatu zure mikrofonoa gunearekin partekatzea">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Datuen biltegiratzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Berrezarri zoomaren maila">
-
 <!ENTITY searchItem.title             "Bilatu">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Etxea">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
 
 <!ENTITY customizeMenu.addToToolbar.label "Gehitu tresna-barran">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "I">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Hasi saioa &syncBrand.shortName.label;(e)n…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRMri buruzko argibide gehiago…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

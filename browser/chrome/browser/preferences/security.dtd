@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Orokorra">
-
 <!ENTITY  warnOnAddonInstall.label        "Abisatu gune bat gehigarriak instalatzen saiatzen bada">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "S">
 
 
-<!ENTITY  logins.label                  "Saio-hasierak">
 
-<!ENTITY  rememberLogins.label          "Gogoratu guneetako saio-hasierak">
-<!ENTITY  rememberLogins.accesskey      "G">
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

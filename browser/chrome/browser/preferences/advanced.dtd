@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Eguneraketak">
 
 <!ENTITY updateApplication.label         "&brandShortName; eguneraketak">
-<!ENTITY updateAuto1.label               "Instalatu eguneraketak automatikoki (gomendatua: segurtasun hobea)">
-<!ENTITY updateAuto1.accesskey           "s">
-<!ENTITY updateCheckChoose.label         "Bilatu eguneraketak baina utzi aukeratzen instalatuko diren edo ez">
-<!ENTITY updateCheckChoose.accesskey     "B">
-<!ENTITY updateManual.label              "Ez bilatu eguneraketak inoiz (ez gomendatua: segurtasun arriskua)">
-<!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateHistory.label             "Erakutsi eguneraketen historia">
-<!ENTITY updateHistory.accesskey         "E">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Erabili atzeko planoko zerbitzua eguneraketak instalatzeko">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY autoUpdateOthers.label          "Eguneratu automatikoki">
-<!ENTITY enableSearchUpdate.label        "Bilaketa-motorrak">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Abisatu webgune batek datuak biltegiratu nahi baditu lineaz kanpo erabiltzeko">
 <!ENTITY offlineStorageNotify.accesskey           "A">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Ezabatu lineaz kanpo erabiltzeko datuak">
 
 <!ENTITY certificateTab.label            "Ziurtagiriak">
-<!ENTITY certPersonal.label              "Eskaerak">
-<!ENTITY certPersonal.description        "Webgune batek nire ziurtagiri pertsonala eskatzen duenean:">
+
 <!ENTITY selectCerts.auto                "Hautatu bat automatikoki">
 <!ENTITY selectCerts.auto.accesskey      "t">
 <!ENTITY selectCerts.ask                 "Galdetu beti">
