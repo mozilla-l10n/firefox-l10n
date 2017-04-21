@@ -87,6 +87,10 @@
 <!ENTITY updateApplication.description   "&brandShortName; ကို ဆောင်ရွက်ခွင့်ပြုရန်">
 <!ENTITY updateAuto2.label               "အဆင့်မြှင့်တင်မှုများကို အလိုအလျောက် တပ်ဆင်ပါ (လုံခြုံမှုကို ပိုမိုကောင်းမွန်စေသည့်အတွက် အကြံပြုပါသည်)">
 <!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "အဆင့်မြှင့်တင်မှုများ ရှိ/မရှိ စစ်ဆေးပါ၊ သို့သော် ၎င်းတို့ကို တပ်ဆင်မည်ဆိုပါက ရွေးချယ်ခွင့်ပေးပါ။">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "အဆင့်မြှင့်တင်မှုများကို ဘယ်သောအခါမှ မစစ်ဆေးပါနှင့် (အကြံမပြုလိုပါ)">
+<!ENTITY updateManual2.accesskey         "N">
 
 
 <!ENTITY useService.label                "နောက်ဆုံးပေါ် ပြုပြင်မှုများကို တပ်ဆင်ပါက နောက်ကွယ်လုပ်ငန်းစဉ်ကို အသုံးပြုပါ">
