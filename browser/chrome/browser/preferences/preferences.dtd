@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "ಸಾಮಾನ್ಯ">
-<!ENTITY  paneTabs.title          "ಟ್ಯಾಬ್‍ಗಳು">
-<!ENTITY  paneSearch.title        "ಹುಡುಕು">
-<!ENTITY  paneContent.title       "ಒಳಅಂಶಗಳು">
-<!ENTITY  paneApplications.title  "ಅನ್ವಯಗಳು">
-<!ENTITY  panePrivacy.title       "ಗೌಪ್ಯತೆ">
-<!ENTITY  paneContainers.title    "ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍">
-<!ENTITY  paneSecurity.title      "ಸುರಕ್ಷತೆ">
-<!ENTITY  paneAdvanced.title      "ಸುಧಾರಿತ">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "ಸಾಮಾನ್ಯ">
 
-<!ENTITY  paneSync.title          "ಸಿಂಕ್">
 
-<!ENTITY  helpButton.label        "ನೆರವು">
+<!ENTITY  paneContainers.title          "ಕಂಟೈನರ್ ಟ್ಯಾಬ್‍‍ಗಳು‍">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "ಹುಡುಕು">

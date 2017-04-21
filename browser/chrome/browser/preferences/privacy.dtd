@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ಜಾಡು ಇರಿಸದಂತೆ ರಕ್ಷಣೆಯನ್ನು ಬಳಸು">
+
 <!ENTITY  trackingProtectionAlways.label       "ಯಾವಾಗಲೂ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Only ಖಾಸಗಿ ಕಿಟಕಿಗಳಲ್ಲಿ">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "ಸ್ಥಳ ಪಟ್ಟಿಕೆ">
 
-<!ENTITY  locbar.suggest.label          "ಸ್ಥಳ ಪಟ್ಟಿಯನ್ನು ಬಳಸುವಾಗ, ಇದನ್ನು ಸಲಹೆ ಮಾಡು:">
 <!ENTITY  locbar.history.label          "History">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bookmarks">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "ಪೂರ್ವನಿಯೋಜಿತ ಹುಡುಕು ಎಂಜಿನ್‌ನಿಂದ Related ಹುಡುಕಾಟಗಳು">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "ಹುಡುಕು ಯಂತ್ರಗಳ ಸಲಹೆಗಳ ಇಚ್ಛೆಗಳನ್ನು ಬದಲಾಯಿಸಿ…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ಈ ತಾಣದಿಂದ ಕುಕಿಗಳನ್ನು ಅನುಮತಿಸು">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "ಕುಕಿಗಳನ್ನು ತೋರಿಸು...">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName;:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳುತ್ತದೆ">
 <!ENTITY  historyHeader.dontremember.label "ಎಂದಿಗೂ ಇತಿಹಾಸವನ್ನು ನೆನಪಿಟ್ಟುಕೊಳ್ಳಬೇಡ">
 <!ENTITY  historyHeader.custom.label       "ಇತಿಹಾಸಕ್ಕಾಗಿ ನಿಮ್ಮ ಇಚ್ಛೆಯ ಸಿದ್ಧತೆಗಳನ್ನು ಬಳಸಿ">
