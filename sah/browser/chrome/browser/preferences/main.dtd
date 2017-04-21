@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Саҥаттан">
 
-<!ENTITY startupPage.label         "Холбуурга &brandShortName;:">
-<!ENTITY startupPage.accesskey     "б">
+
 
 <!ENTITY startupBlankPage.label    "Кураанах сирэйи көрдөр">
 
 
-<!ENTITY homepage.label            "Дьиэ сирэй:">
-<!ENTITY homepage.accesskey        "с">
+
 <!ENTITY useCurrentPage.label      "Бу сирэйи туһан">
 <!ENTITY useCurrentPage.accesskey  "т">
 <!ENTITY useMultiple.label         "Аһыллыбыт сирэйдэри туһан">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "Билигин куруук холбонор браузер - &brandShortName;">
+
 
 
 

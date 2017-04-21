@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "Т">
 
 
-<!ENTITY  defaultFont.label           "Сүрүн бичик:">
-<!ENTITY  defaultFont.accesskey       "С">
-<!ENTITY  defaultSize.label           "Кээмэйэ:">
-<!ENTITY  defaultSize.accesskey       "К">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Эбии…">
 <!ENTITY  advancedFonts.accesskey     "Э">

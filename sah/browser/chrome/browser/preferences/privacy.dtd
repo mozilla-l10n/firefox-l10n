@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Манааһын">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Аадырыс ">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Куукалары көрдөр…">
 <!ENTITY  showCookies.accesskey         "К">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; will:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "устуоруйатын долоҕойугар хатыа">
 <!ENTITY  historyHeader.dontremember.label "устуоруйатын долоҕойоугар хатыа суоҕа">
 <!ENTITY  historyHeader.custom.label       "устуоруйаны харайыы туруорууларын туһаныа">

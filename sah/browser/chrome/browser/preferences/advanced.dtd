@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Саҥардыылар">
 
-<!ENTITY updateAuto1.label               "Саҥардыылары аптамаатынан туруорар буол (сүбэ: бу куттал суох буолуутугар туһалыыр)">
-<!ENTITY updateAuto1.accesskey           "т">
 
 
-<!ENTITY updateManual.label              "Саҥардыылар баалларын көрбөт буол (сүбэ: бу кутталы улаатыннарар)">
-<!ENTITY updateManual.accesskey          "ҥ">
 
-<!ENTITY updateHistory.label             "Саҥардыы сурунаалын көрдөр">
-<!ENTITY updateHistory.accesskey         "р">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Саҥардыылары туруорарга фон сулууспаны туһан">
 <!ENTITY useService.accesskey            "ф">
 
-<!ENTITY enableSearchUpdate.label        "Көрдүүр систиэмэлэр плагииннара">
-<!ENTITY enableSearchUpdate.accesskey    "п">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Туорааһыннар...">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Хачайдаммыт ситим-сирдэри сот">
 
 <!ENTITY certificateTab.label            "Сэртипикээттэр">
-
 
 <!ENTITY selectCerts.auto                "Аптамаатынан ыыт">
 
