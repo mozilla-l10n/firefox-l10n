@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Atualizar a cada 3 segundos">
 <!ENTITY aboutNetworking.hostname              "Servidor">
 <!ENTITY aboutNetworking.port                  "Porta">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ativo">
 <!ENTITY aboutNetworking.idle                  "Inativo">

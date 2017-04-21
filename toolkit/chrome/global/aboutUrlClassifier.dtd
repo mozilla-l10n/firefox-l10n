@@ -1,0 +1,21 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "Provedor">
+<!ENTITY aboutUrlClassifier.provider                    "Provedor">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Última atualização">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Próxima atualização">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status da última atualização">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Atualizar">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Procurar">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidir">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Procurar">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Memória">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Banco de dados">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Configurar módulo de registro">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Configurar arquivo de registro">
