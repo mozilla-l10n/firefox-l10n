@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "เรียกดู…">
 <!ENTITY loaddevice.browse.accesskey            "ร">
 
-<!ENTITY loaddevice.title                       "ดึงข้อมูลอุปกรณ์ PKCS#11">
