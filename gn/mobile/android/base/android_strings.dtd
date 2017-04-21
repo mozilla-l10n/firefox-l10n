@@ -213,6 +213,8 @@
 <!ENTITY pref_home_updates_enabled "Myendypyre">
 <!ENTITY pref_home_updates_wifi "Wi-Fi rupive añoite">
 <!ENTITY pref_category_home_homepage "Kuatiarogue mba\u0027eguasuvéva">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Embohape kuatiarogue ñepyrũ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -281,6 +283,10 @@
 
 <!ENTITY pref_custom_tabs "Tendayke mba\u0027etéva">
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Tembiapokue ramovéva">
@@ -349,26 +355,12 @@
 <!ENTITY pref_plugins_enabled "Myendypyre">
 <!ENTITY pref_plugins_tap_to_play2 "Pokoha ñembohetarã">
 <!ENTITY pref_plugins_disabled "Ojepuruve\u0027ỹva">
-<!ENTITY pref_text_size "Moñe\u0027ẽrã tuichakue">
 <!ENTITY pref_restore_tabs "Tendayke mbojevy">
 <!ENTITY pref_restore_always "Mbojevy tapiaite">
 <!ENTITY pref_restore_quit "Ani embojevy eheja rire &brandShortName;">
-<!ENTITY pref_font_size_tiny "Michĩva">
-<!ENTITY pref_font_size_small "Michĩ">
-<!ENTITY pref_font_size_medium "Mbytegua">
-<!ENTITY pref_font_size_large "Tuicha">
-<!ENTITY pref_font_size_xlarge "Tuicharasáva">
-<!ENTITY pref_font_size_set "Mboheko">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Aguara pytãju raríva ohechauka ndéve mba\u0027éichapa ipya\u0027eve, hasy\u0027ỹ ha hekorosãve. Nomba\u0027apói rupi viru rapykuéri año, oresãso rojapóvo mba\u0027epyahúva ou porãva ndéve, avave orejopy\u0027ỹre. Upéva he\u0027ise rehasa porãve reikévo ñanduti vevépe ha avei iporãve ñanduti veve renonderã.">
 
 <!ENTITY pref_media_autoplay_enabled "Emoneĩ ñemboheta ijeheguíva">
 <!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu omboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva">
@@ -498,6 +490,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Eike peteĩ tendayke ñemiguápe">
 <!ENTITY contextmenu_remove "Pe\u0027a">
 <!ENTITY contextmenu_add_to_launcher "Mba\u0027erechaha ñepyrũme ñemoĩ">
+
 <!ENTITY contextmenu_share "Moherakuã">
 <!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
 <!ENTITY contextmenu_paste "Mboja">
@@ -569,7 +562,7 @@ size. -->
 <!ENTITY button_yes "Hẽe">
 <!ENTITY button_no "Nahániri">
 <!ENTITY button_clear_data "Mba\u0027ekuaarã mopotĩ">
-<!ENTITY button_set "Mboheko">
+
 <!ENTITY button_clear "Mopotĩ">
 <!ENTITY button_copy "Mbohasarã">
 
