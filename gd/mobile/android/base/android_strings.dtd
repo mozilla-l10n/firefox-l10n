@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "An comas">
 <!ENTITY pref_home_updates_wifi "Air WiFi a-mhàin">
 <!ENTITY pref_category_home_homepage "An duilleag mhòr">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Suidhich an duilleag mhòr">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Tabaichean gnàthaichte">
 <!ENTITY pref_custom_tabs_summary3 "Leig le aplacaidean làraichean-lìn fhosgladh ann an tionndadh gnàthaichte de &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Sruth na gnìomhachd">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "An comas">
 <!ENTITY pref_plugins_tap_to_play2 "Suath ris gus a chluich">
 <!ENTITY pref_plugins_disabled "À comas">
-<!ENTITY pref_text_size "Meud an teacsa">
 <!ENTITY pref_restore_tabs "Aisig a h-uile taba">
 <!ENTITY pref_restore_always "Aisig an-còmhnaidh">
 <!ENTITY pref_restore_quit "Na aisig an dèidh dhomh &brandShortName; fhàgail">
-<!ENTITY pref_font_size_tiny "Beag bìodach">
-<!ENTITY pref_font_size_small "Beag">
-<!ENTITY pref_font_size_medium "Meadhanach">
-<!ENTITY pref_font_size_large "Mòr">
-<!ENTITY pref_font_size_xlarge "Anabarrach mòr">
-<!ENTITY pref_font_size_set "Suidhich">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "À">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Tha am madadh-ruadh seo luath, sùbailte ’s tèarainte. Leis nach ann a chum prothaid a tha sinn, tha saoirse againn bathar a dhealbhadh as do leth ’s gun luaidh air brùthadh eaconamach. ’S ciall dha sinn gum faigh thusa goireas nas fhearr agus gum fàs an lìon nas fhearr cuideachd ri linn.">
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
 <!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
+
 <!ENTITY contextmenu_share "Co-roinn">
 <!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
 <!ENTITY contextmenu_paste "Cuir ann">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Tha">
 <!ENTITY button_no "Chan eil">
 <!ENTITY button_clear_data "Falamhaich an dàta">
-<!ENTITY button_set "Suidhich">
+
 <!ENTITY button_clear "Falamhaich">
 <!ENTITY button_copy "Dèan lethbhreac">
 
