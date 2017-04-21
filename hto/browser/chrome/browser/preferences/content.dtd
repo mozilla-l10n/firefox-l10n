@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Kúeyena jideriya dɨga">
 
-<!ENTITY  defaultFont.label           "Kúeyena já jonega:">
-<!ENTITY  defaultFont.accesskey       "K">
-<!ENTITY  defaultSize.label           "Dɨeze:">
-<!ENTITY  defaultSize.accesskey       "D">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Árifene...">
 <!ENTITY  advancedFonts.accesskey     "Á">

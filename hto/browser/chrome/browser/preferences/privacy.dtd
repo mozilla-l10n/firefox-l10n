@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Jénuamo bírui énori">
+
 <!ENTITY  trackingProtectionAlways.label       "Jaka">
 <!ENTITY  trackingProtectionAlways.accesskey   "k">
 <!ENTITY  trackingProtectionPrivate.label      "Dáma kúe éroirafo">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Radozɨ íyano">
 
-<!ENTITY  locbar.suggest.label          "Radozɨ íyano dɨno taɨjɨye, yóne:">
 <!ENTITY  locbar.history.label          "Jagaɨ">
 <!ENTITY  locbar.history.accesskey      "J">
 <!ENTITY  locbar.bookmarks.label        "Rɨgɨnua">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Jénuamo ja dɨno jonega daɨnamo">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Jɨaɨe ó yoga bíemo jenoyena...">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Yɨno cookies">
 <!ENTITY  acceptCookies.accesskey       "Y">
@@ -63,8 +60,7 @@
 <!ENTITY  showCookies.label             "Ákatari cookies…">
 <!ENTITY  showCookies.accesskey         "Á">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; jáite:">
-<!ENTITY  historyHeader.pre.accesskey      "j">
+
 <!ENTITY  historyHeader.remember.label     "Jágaɨ úibiri">
 <!ENTITY  historyHeader.dontremember.label "Jágaɨ úibiñeniri">
 <!ENTITY  historyHeader.custom.label       "Kúe dama ñúe fɨnoyena jagaɨ">

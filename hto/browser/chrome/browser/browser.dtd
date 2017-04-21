@@ -175,15 +175,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY backForwardButtonMenuMac.tooltip "Gɨgɨta jágaɨ kɨoiyena">
 <!ENTITY reloadCmd.label              "Ábɨdo taɨne">
-
 <!ENTITY stopCmd.label                "Mozide">
 <!ENTITY stopCmd.macCommandKey        ".">
-
 
 <!ENTITY printButton.label            "Rábe fɨnoraɨma">
 <!ENTITY printButton.tooltip          "Bíe Rábe fɨno">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Bíe íyano ráfue ákata">
+
 
 
 
@@ -205,11 +204,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ákatari jágaɨ">
 
-
 <!ENTITY searchItem.title             "Jéno">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Táɨnia">
 
@@ -339,6 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -734,6 +734,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Dáamakɨ">
 
 <!ENTITY syncSignIn.label             "Taɨnede &syncBrand.shortName.label;…">
@@ -839,3 +841,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Aiyo onóde bémo DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

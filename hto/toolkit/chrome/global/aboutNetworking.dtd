@@ -14,7 +14,7 @@
 
 <!ENTITY aboutNetworking.hostname              "Taɨjɨe ráa mamekɨ">
 <!ENTITY aboutNetworking.port                  "Ígobe">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Bónoka">
 <!ENTITY aboutNetworking.idle                  "Dúitaga">

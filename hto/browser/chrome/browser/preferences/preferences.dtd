@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Nána">
-<!ENTITY  paneTabs.title          "Úitɨraɨ">
-<!ENTITY  paneSearch.title        "Jénode">
-<!ENTITY  paneContent.title       "Ráa ofítaɨra">
-<!ENTITY  paneApplications.title  "Ráanɨ">
-<!ENTITY  panePrivacy.title       "Kome dáma">
+<!ENTITY  paneGeneral.title             "Nána">
 
-<!ENTITY  paneSecurity.title      "Ñúe íyena">
-<!ENTITY  paneAdvanced.title      "Árifene">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
 
-<!ENTITY  helpButton.label        "Kanode">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Jénode">

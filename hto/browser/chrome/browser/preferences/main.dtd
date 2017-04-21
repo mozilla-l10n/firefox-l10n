@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Táɨnia">
 
-<!ENTITY startupPage.label         "Táɨneyena &brandShortName;:">
-<!ENTITY startupPage.accesskey     "T">
+
 
 <!ENTITY startupBlankPage.label    "Táɨno rabe akatri">
 
 
-<!ENTITY homepage.label            "Taɨnia rabe:">
-<!ENTITY homepage.accesskey        "T">
+
 <!ENTITY useCurrentPage.label      "Kómue rabe fɨno">
 <!ENTITY useCurrentPage.accesskey  "f">
 <!ENTITY useMultiple.label         "Bírui íte rabenɨaɨ fɨno">
@@ -39,6 +37,7 @@
 
 <!ENTITY separateProfileMode.label        "Ɨ́fotari &brandShortName; Firefox dánomo aizɨ́ri">
 <!ENTITY useFirefoxSync.label             "Yetarafue: Náama mamekɨ jɨaɨno jone. Sync jóne ráfúe fekayena áfemakɨmo.">
-<!ENTITY getStarted.label                 "Sync dɨga komo taɨjɨ…">
+
+
 
 <!ENTITY e10sEnabled.label                "Áiyo fɨnua abɨdo taɨneye &brandShortName;">

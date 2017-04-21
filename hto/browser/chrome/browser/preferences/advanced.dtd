@@ -81,13 +81,13 @@
 
 
 
-<!ENTITY updateHistory.label             "Bírui íte jagaɨ  ákatari">
-<!ENTITY updateHistory.accesskey         "B">
 
 
 
-<!ENTITY enableSearchUpdate.label        "Jénoraɨma">
-<!ENTITY enableSearchUpdate.accesskey    "J">
+
+
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Jɨ́aɨmakɨ…">
@@ -98,7 +98,6 @@
 <!ENTITY offlineAppsListRemove.accesskey "F">
 
 
-<!ENTITY certPersonal.label              "Jɨkánoga">
 
 <!ENTITY selectCerts.auto                "Daa nɨze dama">
 
