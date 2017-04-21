@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "जारिमिनखौ दिन्थिनो आगदा क्लिक खालाम एबा गाहायाव बोबो">
 <!ENTITY backForwardButtonMenuMac.tooltip "जारिमिनखौ दिन्थिनो गाहायाव बोबो">
 <!ENTITY reloadCmd.label              "फिन ल'ड खालाम">
-<!ENTITY reloadButton.tooltip         "दानि बिलाइखौ फिन ल'ड खालाम">
 <!ENTITY stopCmd.label                "बन्द खालाम">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "बे बिलाइ ल'ड खालामनायखौ बन्द खालाम">
 <!ENTITY goEndCap.tooltip             "लकेसन बारनि थंआव थां">
 <!ENTITY printButton.label            "साफाय">
 <!ENTITY printButton.tooltip          "बे बिलाइखौ साफाय">
@@ -227,8 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "नागिर">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "ह'म">
 
@@ -357,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -746,6 +746,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "सिनक">
 
 
@@ -851,5 +853,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "नोंथांनि दानि जारिमिनखौ खोमोरनाय जायो।">
 <!ENTITY panicButton.thankyou.msg2                "रैखाथि ब्राउजिं!">
 <!ENTITY panicButton.thankyou.buttonlabel         "साबायखर!">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

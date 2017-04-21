@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "मोनफ्रोम 3 सेकेन्दआव हार्सिं-थाजा खालाम">
 <!ENTITY aboutNetworking.hostname              "हस्टमुं">
 <!ENTITY aboutNetworking.port                  "पर्ट">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "मावथि">
 <!ENTITY aboutNetworking.idle                  "अलसिया">

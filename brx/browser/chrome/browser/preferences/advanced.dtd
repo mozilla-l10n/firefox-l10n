@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "आपडेट खालाम">
 
-<!ENTITY updateAuto1.label               "आपडेटफोरखौ गावनो गाव महरै इनष्टल खालामो (सुबुरन होनाय: जौगानाय रैखाथि)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "आपडेटफोरखौ माब्लाबाबो आनजाद खालामनो नाङा (सुबुरन होआखै: रैखाथि जुखि)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "आपडेट जारिमिनखौ दिनथि (p)">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "आपडेटफोरखौ इनष्टल खालामनो थाखाय मोनसे सावगारिनि उनथिं थानाय सुबुथायखौ बाहाय">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "इन्जिनफोरखौ नागिर">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Exceptions…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "अफलाइन डाटाखौ गैया खालाम">
 
 <!ENTITY certificateTab.label            "चार्टिफिकेटफोर">
-
 
 <!ENTITY selectCerts.auto                "गावनो गाव महरै मोनसे सायख">
 

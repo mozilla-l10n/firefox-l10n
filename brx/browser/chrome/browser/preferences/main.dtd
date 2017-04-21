@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "जागायजेन्नाइ">
 
-<!ENTITY startupPage.label         "जेब्ला &brandShortName; starts:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "लांदां फेजखौ दिन्थि">
 
 
-<!ENTITY homepage.label            "न' पेज">
-<!ENTITY homepage.accesskey        "प">
+
 <!ENTITY useCurrentPage.label      "दानि पेजखौ बाहाय">
 <!ENTITY useCurrentPage.accesskey  "द">
 <!ENTITY useMultiple.label         "दानि पेजफोरखौ बाहाय">
@@ -39,5 +37,6 @@
 
 <!ENTITY separateProfileMode.label        "एखे समावनो सालायनो &brandShortName; आरो फायारफक्सखौ गनायथि हो">
 <!ENTITY useFirefoxSync.label             "इंगित: बेयो आलादा प्रफाइलखौ बाहायो। बेफोरनि गेजेराव डाटाखौ शेयार खालामनो सिन्कखौ बाहाय">
+
 
 

@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "E">
 
 
-<!ENTITY  defaultFont.label           "Default हांखो:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "महर:">
-<!ENTITY  defaultSize.accesskey       "म">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Advanced…">
 <!ENTITY  advancedFonts.accesskey     "A">
