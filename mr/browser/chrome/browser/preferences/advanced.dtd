@@ -83,21 +83,21 @@
 
 <!ENTITY updateTab.label                 "सुधारित आवृत्ती">
 
-<!ENTITY updateAuto1.label               "स्वयंरित्या सुधारणा इंस्टॉल करा (शिफारसीय: सुधारित सुरक्षा)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापीत करायचे कि नाही ते मला ठरवू द्या">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "सुधारणांकरिता कधिच तपासणी करू नका (शिफारसीय नाही: सुरक्षा धोका)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "अद्ययावत इतिहास दाखवा">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate.label        "सर्च इंजिन्स">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 <!ENTITY offlineStorageNotify.label               "ऑफलाइन वापरासाठी माहिती केंव्हा साठवली जाते, ते कळवा">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -111,8 +111,7 @@
 <!ENTITY offlineAppRemove.confirm        "ऑफलाइन माहिती काढूण टाक">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-<!ENTITY certPersonal.label              "विनंत्या">
-<!ENTITY certPersonal.description        "जेंव्हा सर्व्हर व्यक्तिगत प्रमाणपत्रा करीता विनंती करतो:">
+
 <!ENTITY selectCerts.auto                "आपोआप निवडा">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "मला प्रत्येक वेळी विचारा">

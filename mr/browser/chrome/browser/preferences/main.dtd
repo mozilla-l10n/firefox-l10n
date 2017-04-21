@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "प्रारंभीकरण">
 
-<!ENTITY startupPage.label         "&brandShortName; सुरू होते तेंव्हा:">
-<!ENTITY startupPage.accesskey     "s">
+
 <!ENTITY startupUserHomePage.label "माझे मुख्य पृष्ठ दाखवा">
 <!ENTITY startupBlankPage.label    "रिक्त पृष्ठ दाखवा">
 <!ENTITY startupPrevSession.label  "शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा">
 
-<!ENTITY homepage.label            "मुख्य पृष्ठ:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "सध्याच्या पृष्ठाचे वापर करा">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सध्याच्या पृष्ठांचा वापर करा">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी">
 <!ENTITY useFirefoxSync.label             "टीप: हे स्वतंत्र प्रोफाइलचा वापर करते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी सींक वापरा.">
-<!ENTITY getStarted.label                 "समक्रमणाचा वापर करण्यास प्रारंभ करा…">
+
+
 
 <!ENTITY e10sEnabled.label                "बहु-प्रक्रिया &brandShortName; सक्षम करा">
