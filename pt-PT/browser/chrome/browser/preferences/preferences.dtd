@@ -13,17 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
-<!ENTITY  paneGeneral.title       "Geral">
-<!ENTITY  paneTabs.title          "Separadores">
-<!ENTITY  paneSearch.title        "Pesquisa">
-<!ENTITY  paneContent.title       "Conteúdo">
-<!ENTITY  paneApplications.title  "Aplicações">
-<!ENTITY  panePrivacy.title       "Privacidade">
-<!ENTITY  paneContainers.title    "Separadores contentores">
-<!ENTITY  paneSecurity.title      "Segurança">
-<!ENTITY  paneAdvanced.title      "Avançadas">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Resultados de pesquisa">
+<!ENTITY  paneGeneral.title             "Geral">
+<!ENTITY  paneFilesApplications.title   "Ficheiros e Aplicações">
+<!ENTITY  panePrivacySecurity.title     "Privacidade e Segurança">
+<!ENTITY  paneContainers.title          "Separadores contentores">
+<!ENTITY  paneUpdates.title             "Atualizações">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
+<!ENTITY  paneSync1.title          "Conta Firefox">
 
-<!ENTITY  helpButton.label        "Ajuda">
+
+<!ENTITY  searchInput.label        "Pesquisa">

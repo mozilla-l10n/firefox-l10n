@@ -67,7 +67,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
 <!ENTITY languages.customize.Fallback2.label      "Codificação de texto de retorno:">
 <!ENTITY languages.customize.Fallback2.accesskey  "C">
-<!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é utilizada para conteúdo legado que falha ao declarar a sua codificação.">
+<!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é utilizada para conteúdo de legado que falha ao declarar a sua codificação.">
 
 <!ENTITY languages.customize.Fallback.auto        "Predefinido para o idioma atual">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
