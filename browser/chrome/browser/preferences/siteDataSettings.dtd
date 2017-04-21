@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Nastajenja - sedłowe daty">
-<!ENTITY     settings.description          "Slědujuce websedła su se wopšašali, lěc směju sedłowe daty na wašej plaśe składowaś. Móžośo pódaś, kótare websedła směju sedłowe daty składowaś. Standardne sedłowe daty su nachylne a daju se awtomatiski lašowaś.">
 <!ENTITY     hostCol.label                 "Sedło">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Składowak">
-<!ENTITY     searchPlaceHolder             "Pytaś">
-<!ENTITY     searchPlaceHolder.accesskey   "P">
+<!ENTITY     searchTextboxPlaceHolder             "Websedła pytaś">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "s">
 <!ENTITY     removeSelected.label          "Wubrane wótwónoźeś">
 <!ENTITY     removeSelected.accesskey      "u">
 <!ENTITY     save.label                    "Změny składowaś">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Pśetergnuś">
 <!ENTITY     cancel.accesskey              "P">
 <!ENTITY     removingDialog.title          "Daty sedła wótwónoźeś">
-<!ENTITY     removingDialog.description    "Gaž se daty sedła wótwónoźuju, se teke cookieje wótwónoźiju. Pśez to móžośo se websedła wótzjawiś a webwopśimjeśe offline wótwónoźeś. Cośo napšawdu změny pśewjasć?">
+<!ENTITY     removingSelected.description  "Gaž daty sedła wótwónoźujośo, budu se teke pśisłušne cookieje a webwopśimjeśe offline wótwónoźowaś. Pśez to se snaź z websedłow wótzjawijośo. Cośo změny napšawdu pśewjasć?">
 <!ENTITY     siteTree.label                "Slědujuce cookieje websedła se wótwónoźiju:">

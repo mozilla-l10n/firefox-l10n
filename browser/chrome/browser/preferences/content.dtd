@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Pisma a barwy">
 
-<!ENTITY  defaultFont.label           "Standardne pismo:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Wjelikosć:">
-<!ENTITY  defaultSize.accesskey       "l">
+<!ENTITY  defaultFont2.label          "Standardne pismo">
+<!ENTITY  defaultFont2.accesskey      "S">
+<!ENTITY  defaultSize2.label          "Wjelikosć">
+<!ENTITY  defaultSize2.accesskey      "l">
 
 <!ENTITY  advancedFonts.label         "Rozšyrjony…">
 <!ENTITY  advancedFonts.accesskey     "o">

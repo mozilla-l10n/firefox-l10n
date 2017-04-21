@@ -5,7 +5,7 @@
 <!ENTITY aboutSupport.pageTitle "Informacije za rozwězowanje problemow">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja wó &brandShortName;, woglědajśo k našomu <a id='supportLink'>pódpěrańskemu websydłoju</a>.">
+<!ENTITY aboutSupport.pageSubtitle " Toś ten bok wopśimujo techniske informacije, kótarež by mógli wužytne byś, gaž wopytujośo problem rozwězaś. Jolic pytaśo za wótegronami za zwucone pšašanja qó &brandShortName;, woglědajśo k našomu <a id='supportLink'>pódpěrańskemu websydłoju</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Rozpšawy wowalenjow">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -20,6 +20,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionEnabled "Zmóžnjony">
 <!ENTITY aboutSupport.extensionVersion "Wersija">
 <!ENTITY aboutSupport.extensionId "ID">
+
+<!ENTITY aboutSupport.featuresTitle "Funkcije &brandShortName;">
+<!ENTITY aboutSupport.featureName "Mě">
+<!ENTITY aboutSupport.featureVersion "Wersija">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimentelne funkcije">
 <!ENTITY aboutSupport.experimentName "Mě">
