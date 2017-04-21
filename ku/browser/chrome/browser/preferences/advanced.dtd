@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Nû neke">
 
-<!ENTITY updateAuto1.label               "Nûkirinan xweber saz bike (pêşniyar: ewlekariya pêşketî)">
-<!ENTITY updateAuto1.accesskey           "x">
 
 
-<!ENTITY updateManual.label              "Nûkirinan qet kontrol neke (nayê pêşniyarkirin: rîska ewlekariyê)">
-<!ENTITY updateManual.accesskey          "q">
 
-<!ENTITY updateHistory.label             "Raboriya nûkirinê nîşan bide">
-<!ENTITY updateHistory.accesskey         "R">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Ji bo sazkirina nûkirinan servîseke paşperdeyê bi kar bîne">
 <!ENTITY useService.accesskey            "p">
 
-<!ENTITY enableSearchUpdate.label        "Motorên lêgerînê">
-<!ENTITY enableSearchUpdate.accesskey    "M">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Rewşên Taybet...">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Daneyên negirêdayî rake">
 
 <!ENTITY certificateTab.label            "Sertîfîka">
-
 
 <!ENTITY selectCerts.auto                "Yek ji wan bixweber hilbijêre">
 
