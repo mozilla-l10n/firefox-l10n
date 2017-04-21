@@ -193,6 +193,8 @@
 <!ENTITY pref_home_updates_enabled "ସକ୍ରିୟ ହେଲା">
 <!ENTITY pref_home_updates_wifi "କେବଳ Wi-Fi ସହାୟତାରେ">
 
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -245,6 +247,10 @@
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 
@@ -298,25 +304,12 @@
 
 
 
-<!ENTITY pref_text_size "ପାଠ୍ୟ ଆକାର">
 
 <!ENTITY pref_restore_always "ସବୁକୁ ମୂଳ ରୂପକୁ ଫେରାନ୍ତୁ">
 <!ENTITY pref_restore_quit "&brandShortName; ବଦନ କରିବା ପରେ କାହାରିକୁ ମୂଳ ରୂପକୁ ଫେରାନ୍ତୁ ନାହିଁ">
-<!ENTITY pref_font_size_tiny "କ୍ଷୁଦ୍ର">
-<!ENTITY pref_font_size_small "ଛୋଟ">
-<!ENTITY pref_font_size_medium "ମଧ୍ଯମ">
-<!ENTITY pref_font_size_large "ବଡ">
-<!ENTITY pref_font_size_xlarge "ଅତି ବଡ଼">
-<!ENTITY pref_font_size_set "ସେଟ କରନ୍ତୁ">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "ଇଂରାଜୀର ସବୁ ଅକ୍ଷର ଥିବା ଏକ ବାକ୍ୟ ଦି କୁଇକ ଅରେଞ୍ଜ ଫକ୍ସ ଅଧିକ ସୁରକ୍ଷାର ସହିତ ଆପଣଙ୍କ ଆଶାନୁରୂପ ବେଗଠୁ ଅଧିକ ଜୋରରେ ଧାଉଁଛି । ଏକ ଅଣ-ଲାଭକାରୀ ସଙ୍ଗଠନ ଭାବେ ଆମେ ଯେତେ ଅଧିକ ପାରୁଛୁ ଆପଣଙ୍କ ସୁବିଧା ପାଇଁ ନୂଆ ନୂଆ ବାଟ ଆପଣାଉଛୁ । ତାହା ଆପଣଙ୍କ ପାଇଁ ଅଧିକ ସୁବିଧା ଆଣିଦେବା ସହ ୱେବ ପାଇଁ ଏକ ଉଜ୍ଜଳ ଭବିଷ୍ୟତର ଆରମ୍ଭ କରିବ ।">
 
 
 
@@ -436,6 +429,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "ଗୋପନ ଟ୍ୟାବରେ ଖୋଲନ୍ତୁ">
 
 <!ENTITY contextmenu_add_to_launcher "ମୂଳ ପରଦାରେ ଯୋଗ କରନ୍ତୁ">
+
 
 <!ENTITY contextmenu_pasteandgo "ଲଗାନ୍ତୁ ଏବଂ ଯାଆନ୍ତୁ">
 <!ENTITY contextmenu_paste "ଲଗାନ୍ତୁ">
