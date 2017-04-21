@@ -59,6 +59,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Uită acest e-mail">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY signedOut.caption            "Ia webul cu tine">
 <!ENTITY signedOut.description        "Sincronizează semnele de carte, istoricul, filele, parolele, suplimentele și preferințele pe toate dispozitivele.">
 <!ENTITY signedOut.accountBox.title   "Conectează-te cu un &syncBrand.fxAccount.label;">
 

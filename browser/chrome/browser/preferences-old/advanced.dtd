@@ -113,7 +113,7 @@
 
 <!ENTITY certificateTab.label            "Certificate">
 <!ENTITY certPersonal.label              "Cereri">
-<!ENTITY certPersonal.description        "Când un server cere certificatul meu personal:">
+<!ENTITY certPersonal.description        "Când un server îți cere certificatul personal:">
 <!ENTITY selectCerts.auto                "Selectează automat unul">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Întreabă de fiecare dată">

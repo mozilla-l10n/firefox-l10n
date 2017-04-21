@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Securitate">
+
 <!ENTITY  warnOnAddonInstall.label        "Avertizează atunci când site-urile încearcă să instaleze file">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,7 +26,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Formulare și parole">
 
-
+<!ENTITY  rememberLogins1.label          "Reține autentificările și parolele pentru site-uri">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Excepții…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

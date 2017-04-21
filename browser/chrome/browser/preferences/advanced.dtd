@@ -84,20 +84,22 @@
 <!ENTITY updateTab.label                 "Actualizare">
 
 <!ENTITY updateApplication.label         "Actualizări &brandShortName;">
+<!ENTITY updateApplication.description   "Permite ca &brandShortName; să">
+<!ENTITY updateAuto2.label               "Instaleze automat actualizările (recomandat: securitate îmbunătățită)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Caute actualizări, dar să te lase să decizi dacă le instalezi">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Nu caute niciodată actualizări (nerecomandat)">
+<!ENTITY updateManual2.accesskey         "n">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Arată istoricul actualizărilor">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "d">
 
-
+<!ENTITY enableSearchUpdate2.label       "Actualizează automat motoarele de căutare">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "Rapoarte">
 
@@ -113,7 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Șterge datele offline">
 
 <!ENTITY certificateTab.label            "Certificate">
-
+<!ENTITY certPersonal2.description       "Când un server îți cere certificatul personal">
 <!ENTITY selectCerts.auto                "Selectează automat unul">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Întreabă de fiecare dată">
