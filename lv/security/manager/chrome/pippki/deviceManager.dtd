@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Pārlūkot...">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title                       "Ielādēt PKCS#11 ierīci">
