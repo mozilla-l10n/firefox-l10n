@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Mbohekopyahu">
 
-<!ENTITY updateAuto1.label               "Tekopyahu ijeheguíva mohenda (jeroviapyrãva: omohekorosãvéta)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "Tekopyahu jejhechajey'ỹva, (jerovia'ỹva: hekorosã kyhyjéta)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Tembiasakue rekopyahu jehechauka">
-<!ENTITY updateHistory.accesskey         "p">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Eipuru peteĩ mba'epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu">
 <!ENTITY useService.accesskey            "m">
 
-<!ENTITY enableSearchUpdate.label        "Jehekaha">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Oĩ'ỹva">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Mba'ekuaarã jeikekatu'ỹre mboguete">
 
 <!ENTITY certificateTab.label            "Mboajepyréva">
-<!ENTITY certPersonal.label              "Mba'ejerure">
 
 <!ENTITY selectCerts.auto                "Eiporavo peteĩ ijeheguíva">
 

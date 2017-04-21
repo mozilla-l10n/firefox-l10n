@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Embopiro'y ijehegui 3 aravo'ive og̃uahẽvo">
 <!ENTITY aboutNetworking.hostname              "Mohendahavusu réra">
 <!ENTITY aboutNetworking.port                  "Mbojuajuhaite">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Myandypyre">
 <!ENTITY aboutNetworking.idle                  "okéva">

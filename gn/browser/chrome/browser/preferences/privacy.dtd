@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Eipuru Ñemo'ã Tapykuehógui">
+
 <!ENTITY  trackingProtectionAlways.label       "Akóinte">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Ovetã ñemiguáva añónte">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Kundaharape renda">
 
-<!ENTITY  locbar.suggest.label          "Eipurúramo kundaharape renda, eñemoñe'ẽ:">
 <!ENTITY  locbar.history.label          "Tembiasakue">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Techaukaha">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Jehekakuéra ojueheguáva jeheka mongu'eha ypyguáva guive">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Jerohoryvéva jehekaha mongu'eha je'epyre mombue…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Kookie moneĩ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -63,8 +60,7 @@
 <!ENTITY  showCookies.label             "Kookie Jehechauka…">
 <!ENTITY  showCookies.accesskey         "J">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; ikatútapa:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "Tembiasakuére ñemandu'a">
 <!ENTITY  historyHeader.dontremember.label "Ani nemandu'a tembiasakuére">
 <!ENTITY  historyHeader.custom.label       "Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã">

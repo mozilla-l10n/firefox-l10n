@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Eikutu akatuagua votõme térã embotyryry yvy gotyo rehecha hag̃ua tembiasakue">
 <!ENTITY backForwardButtonMenuMac.tooltip "Embotyryry yvy gotyo rehecha hag̃ua tembiasakue">
 <!ENTITY reloadCmd.label              "Myanyhẽjey">
-<!ENTITY reloadButton.tooltip         "Ko kuatiarogue myenyhẽjey">
 <!ENTITY stopCmd.label                "Epyta">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Ko kuatiarogue myenyhẽ jejoko">
 <!ENTITY goEndCap.tooltip             "Kundaharape renda URL-pe jeho">
 <!ENTITY printButton.label            "Mbokuatia">
 <!ENTITY printButton.tooltip          "Ko kuatiarogue mbokuatia">
@@ -214,6 +212,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Mba'ejoajurã jepuru ñangareko">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe'atãha ko tenda ndive">
@@ -229,11 +228,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
 
-
 <!ENTITY searchItem.title             "Heka">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Ñepyrũ">
 
@@ -371,6 +370,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapopa'ũ ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
@@ -780,6 +780,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label;-pe jeike…">
@@ -892,3 +894,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Eikuaave DRM rehe...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

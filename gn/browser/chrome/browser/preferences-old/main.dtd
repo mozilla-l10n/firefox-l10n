@@ -39,6 +39,7 @@
 
 <!ENTITY separateProfileMode.label        "Emoneĩ &brandShortName; ha Firefox-pe ojepurúvo oñondivete">
 <!ENTITY useFirefoxSync.label             "Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru Sync omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.">
-<!ENTITY getStarted.label                 "Eñepyrũ eipuru Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "&brandShortName; ñemboguataita myandy">

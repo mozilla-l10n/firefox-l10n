@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Ñepyrũha">
 
-<!ENTITY startupPage.label         "Oñepyrũvo &brandShortName;:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "Peteĩ kuatiarogue nandi jehechauka">
 
 
-<!ENTITY homepage.label            "Kuatiarogue ñepyrũ:">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "Kuatiarogue Ag̃agua jepuru">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Kuatiarogue ag̃agua jepuru">
@@ -39,6 +37,7 @@
 
 <!ENTITY separateProfileMode.label        "Emoneĩ &brandShortName; ha Firefox-pe ojepurúvo oñondivete">
 <!ENTITY useFirefoxSync.label             "Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru Sync omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.">
-<!ENTITY getStarted.label                 "Eñepyrũ eipuru Sync…">
+
+
 
 <!ENTITY e10sEnabled.label                "&brandShortName; ñemboguataita myandy">

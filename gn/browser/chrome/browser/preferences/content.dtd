@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Taity ha sa'ykuéra">
 
-<!ENTITY  defaultFont.label           "Teñoiha ijypykuéva:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "Tuichakue:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Opanungáva…">
 <!ENTITY  advancedFonts.accesskey     "A">
