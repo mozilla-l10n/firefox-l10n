@@ -35,12 +35,12 @@
 <!ENTITY enableHealthReport.accesskey    "z">
 <!ENTITY healthReportLearnMore.label     "Zjistit více">
 
-<!ENTITY telemetryDesc.label             "Zaznamenává data o výkonu, používání, hardware a přizpůsobení prohlížeče &brandShortName;. Data o prohlížeči jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
+<!ENTITY telemetryDesc.label             "Zaznamenává data o výkonu, hardwaru, používání a přizpůsobení prohlížeče &brandShortName;. Data o prohlížeči jsou sdílena s organizací &vendorShortName; z důvodu jeho vylepšení.">
 <!ENTITY enableTelemetryData.label       "Sdílet další údaje (např. telemetrii)">
 <!ENTITY enableTelemetryData.accesskey   "S">
 <!ENTITY telemetryLearnMore.label        "Zjistit více">
 
-<!ENTITY crashReporterDesc2.label         "Hlášení o pádech pomáhají &vendorShortName; opravovat chyby a dělat váš prohlížeč stabilnějším a bezpečnějším">
+<!ENTITY crashReporterDesc2.label         "Hlášení o pádech pomáhají organizaci &vendorShortName; opravovat chyby a zlepšovat stabilitu a bezpečnost vašeho prohlížeče.">
 <!ENTITY alwaysSubmitCrashReports.label   "Povolit aplikaci &brandShortName; odesílat nevyřízená hlášení o pádech za vás">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Zjistit více">
@@ -84,7 +84,7 @@
 <!ENTITY updateTab.label                 "Aktualizace">
 
 <!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
-<!ENTITY updateAuto1.label               "Instalovat aktualizace automaticky (doporučováno z důvodu vyšší bezpečnosti)">
+<!ENTITY updateAuto1.label               "Instalovat aktualizace automaticky (doporučováno pro vyšší bezpečnost)">
 <!ENTITY updateAuto1.accesskey           "I">
 <!ENTITY updateCheckChoose.label         "Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány">
 <!ENTITY updateCheckChoose.accesskey     "e">
