@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Bla gjennom …">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Last PKCS#11-enhet">
