@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "Нови сепаратор">
 <!ENTITY cmd.new_separator.accesskey       "С">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Освежи живу забелешку">
+<!ENTITY cmd.reloadLivebookmark.label      "Обнови забелешку">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "О">
 
 <!ENTITY cmd.moveBookmarks.label                  "Премести…">

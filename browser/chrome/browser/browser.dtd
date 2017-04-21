@@ -85,7 +85,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "з">
 <!ENTITY bookmarksToolbarItem.label "Забележи ставке из алатне траке">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Поново учитај све језичке">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Обнови све језичке">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "у">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Забележи све језичке…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "ј">
@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Отвори панел за снимање лозинке">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управљајте додацима">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промените да ли сајт може да приказује обавештења">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складишти податке у трајном складишту">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управљајте дељењем вашег микрофона са сајтом">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Блокирали сте локацију за овај веб сајт.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Блокирали сте складиште за овај веб сајт.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Блокирали сте обавештења за овај веб сајт.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Блокирали сте трајно складиштење за овај веб сајт.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Прикажи историјат">
 
@@ -504,7 +506,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "н">
 <!ENTITY viewFrameInfoCmd.label       "Подаци о оквиру">
 <!ENTITY viewFrameInfoCmd.accesskey   "к">
-<!ENTITY reloadImageCmd.label         "Поновно учитавање слике">
+<!ENTITY reloadImageCmd.label         "Учитај поново слике">
 <!ENTITY reloadImageCmd.accesskey     "ч">
 <!ENTITY viewImageCmd.label           "Прикажи слику">
 <!ENTITY viewImageCmd.accesskey       "и">
