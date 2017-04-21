@@ -20,10 +20,9 @@
 
 <!ENTITY  fontsAndColors.label        "ଅକ୍ଷରରୂପ  ଏବଂ ରଙ୍ଗ">
 
-<!ENTITY  defaultFont.label           "ପୂର୍ବନିର୍ଦ୍ଧାରିତ ଅକ୍ଷରରୂପ:">
-<!ENTITY  defaultFont.accesskey       "D">
-<!ENTITY  defaultSize.label           "ଆକାର:">
-<!ENTITY  defaultSize.accesskey       "S">
+
+
+
 
 <!ENTITY  advancedFonts.label         "ଉନ୍ନତ…">
 <!ENTITY  advancedFonts.accesskey     "A">

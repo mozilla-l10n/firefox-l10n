@@ -196,10 +196,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ଡ଼ାହାଣ ପାଖ କ୍ଲିକ କରନ୍ତୁ ଅଥବା ତଳକୁ ଟାଣନ୍ତୁ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ପୁରୁଣା ତଥ୍ୟକୁ ଦର୍ଶାଇବା ପାଇଁ ତଳକୁ ଟାଣନ୍ତୁ">
 <!ENTITY reloadCmd.label              "ପୁନର୍ଧାରଣ">
-<!ENTITY reloadButton.tooltip         "ପ୍ରଚଳିତ ପୃଷ୍ଠାକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
 <!ENTITY stopCmd.label                "ଅଟକାନ୍ତୁ">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "ଏହି ପୃଷ୍ଠାକୁ ଧାରଣ କରିବା ବନ୍ଦ କରନ୍ତୁ">
 <!ENTITY goEndCap.tooltip             "ଅବସ୍ଥିତି ପଟିରେ ଥିବା ଠିକଣାକୁ ଯାଆନ୍ତୁ">
 <!ENTITY printButton.label            "ମୁଦ୍ରଣ କରନ୍ତୁ">
 <!ENTITY printButton.tooltip          "ଏହି ପୃଷ୍ଠାକୁ ମୁଦ୍ରଣ କରନ୍ତୁ">
@@ -227,8 +225,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "ସନ୍ଧାନ">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "ମୂଳ ସ୍ଥାନ">
 
@@ -357,6 +356,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -745,6 +745,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "ସନ୍ତୁଳନ କରନ୍ତୁ">
 
 
@@ -850,5 +852,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.thankyou.msg1                "ଆପଣଙ୍କର ନିକଟ ଅତିତର ପୁରୁଣା ତଥ୍ୟ ସଫା ହୋଇଛି।">
 <!ENTITY panicButton.thankyou.msg2                "ସୁରକ୍ଷିତ ବ୍ରାଉଜିଙ୍ଗ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "ଧନ୍ୟବାଦ!">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
