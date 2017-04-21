@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
 <!ENTITY  trackingProtection.description       "Rastreamento é quando empresas coletam informações sobre você para criar um perfil e exibir conteúdo baseado em sua navegação e dados pessoais.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloquear empresas de rastreamento conhecidas de exibir conteúdo">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Só em janelas privativas">
