@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Taq nuk'ulem - Ruxaq ruk'amaya'l tzij">
-<!ENTITY     settings.description          "Re taq ruxaq k'amaya'l re' xkik'utuj tayaka' taq rutzij re ruxaq k'amaya'l re pa rujolom a kematz'ib'. Yatikïr najikib'a' achike taq ruxaq k'amaya'l yetikïr nikiyäk taq rutzij ruxaq k'amaya'l. Ri taq rutzij ruxaq k'amaya'l e jumej ok ruma ri' tikirel yeyujtäj el pa kiyonil.">
 <!ENTITY     hostCol.label                 "Ruxaq k'amaya'l">
 <!ENTITY     statusCol.label               "Rub'eyal">
 <!ENTITY     usageCol.label                "Yakoj">
-<!ENTITY     searchPlaceHolder             "Tikanöx">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     searchTextboxPlaceHolder             "Kekanöx taq ruxaq k'amaya'l">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "K">
 <!ENTITY     removeSelected.label          "Tiyuj ri cha'on">
 <!ENTITY     removeSelected.accesskey      "T">
 <!ENTITY     save.label                    "Keyak taq jaloj">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Tiq'at">
 <!ENTITY     cancel.accesskey              "T">
 <!ENTITY     removingDialog.title          "Tajin niyuj rutzij ruxaq k'amaya'l">
-<!ENTITY     removingDialog.description    "We niyuj el ri taq rutzij ruxaq k'amaya'l chuqa' xkeyujtäj el ri taq kaxlanwey. Re re' nitikïr nel el chi kikojol ri taq ruxaq k'amaya'l toq majun okem pa k'amaya'l. ¿La kan nawajo' nab'än ri jaloj?">
+<!ENTITY     removingSelected.description  "Ri kiyujik taq tzij chupam ri ruxaq k'amaya'l chuqa' xkeruyüj el ri taq kaxlanwey kiximon ki' chuqa' ri taq ruwa retamab'al ajk'amaya'l toq man jun okem pa k'amaya'l. Re re' nitikïr nel el chi kipan ri taq ruxaq k'amaya'l. ¿La kan nawajo' yeb'än kan re taq jaloj re'?">
 <!ENTITY     siteTree.label                "Xkeyujtäj el re taq kaxlanwey re' chupam re ruxaq k'amaya'l:">

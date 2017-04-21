@@ -13,7 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "k">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Man xkeq'alajin ta pe ri taq chilab'exïk richin nikanöx pa rukajtz'ik ochochib'äl ruma chi anuk'un ri &brandShortName; richin majub'ey tunataj ri anatab'al.">
 
-<!ENTITY oneClickSearchEngines.label           "Taq kanonel rik'in jun pitz'oj">
+<!ENTITY oneClickSearchEngines.label           "Samajel taq kanob'äl rik'in jupitz'oj">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Ri yuquyïk rukajtz'ik rukanoxik nuya' q'ij chawe nawokisaj juley chik taq kanonel. Ke'acha' achike ri yeb'ek'ut pe.">
 
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Telesäx">
 <!ENTITY removeEngine.accesskey                "s">
 
-<!ENTITY addMoreSearchEngines.label            "Ketz'aqatisäx ch'aqa' chik taq kanob'äl…">
+<!ENTITY addMoreSearchEngines2.label           "Ketz'aqatisäx ch'aqa' chik samajel taq kanob'äl">

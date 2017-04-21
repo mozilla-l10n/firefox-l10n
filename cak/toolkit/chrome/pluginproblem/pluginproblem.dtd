@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Yakb'äl">
 <!ENTITY plugin.mimeTypes                                    "MIME ruwäch">
 <!ENTITY plugin.flashProtectedMode.label                     "Titzij ri rub'anikil ruchajinik ri Adobe flash">
+<!ENTITY plugin.enableBlocklists.label                       "Tiq'eleb'ëx ruwäch etamab'äl Flash itzelal chuqa' ka'ayel">

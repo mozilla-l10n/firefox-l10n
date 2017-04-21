@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Tuk'exa' rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj">
 <!ENTITY aboutNetworking.hostname              "Rub'i' ruk'u'x samaj">
 <!ENTITY aboutNetworking.port                  "B'ey">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Tzijïl">
 <!ENTITY aboutNetworking.idle                  "Man tzijïl ta">

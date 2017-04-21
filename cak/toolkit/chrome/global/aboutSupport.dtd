@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Ruwäch">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Taq rub'anikil">
+<!ENTITY aboutSupport.featureName "B'i'aj">
+<!ENTITY aboutSupport.featureVersion "Ruwäch">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Soltojtob'enel taq rub'anikil">
 <!ENTITY aboutSupport.experimentName "B'i'aj">
 <!ENTITY aboutSupport.experimentId "ID">

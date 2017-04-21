@@ -13,17 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Chijun">
-<!ENTITY  paneTabs.title          "Taq ruwi'">
-<!ENTITY  paneSearch.title        "Tikanöx">
-<!ENTITY  paneContent.title       "Rupam">
-<!ENTITY  paneApplications.title  "Taq chokoy">
-<!ENTITY  panePrivacy.title       "Ichinanem">
-<!ENTITY  paneContainers.title    "Ajk'wayöl taq ruwi'">
-<!ENTITY  paneSecurity.title      "Chajinïk">
-<!ENTITY  paneAdvanced.title      "Q'axinäq">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Taq ruq'i'oj kanoxïk">
+<!ENTITY  paneGeneral.title             "Chijun">
+<!ENTITY  paneFilesApplications.title   "Taq Yakb'äl &amp; taq Chokoy">
+<!ENTITY  panePrivacySecurity.title     "Ichinanem &amp; Jikomal">
+<!ENTITY  paneContainers.title          "Ajk'wayöl taq ruwi'">
+<!ENTITY  paneUpdates.title             "Taq K'exoj">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Sync">
+<!ENTITY  paneSync1.title          "Rub'i' rutaqoya'l Firefox">
 
-<!ENTITY  helpButton.label        "To'ïk">
+
+<!ENTITY  searchInput.label        "Tikanöx">

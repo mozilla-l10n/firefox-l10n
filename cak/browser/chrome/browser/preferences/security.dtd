@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Chijun">
+<!ENTITY  security.label                 "Jikomal">
 
 <!ENTITY  warnOnAddonInstall.label        "Taya' rutzijol jampe' toq ri ruxaq k'amaya'l nrajo' yeruyäk taq tz'aqat">
 <!ENTITY  warnOnAddonInstall.accesskey    "T">
@@ -24,10 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "r">
 
 
-<!ENTITY  logins.label                  "Kitikirisaxik taq molojri'ïl">
+<!ENTITY  formsAndPasswords.label       "Nojwuj &amp; Ewan taq Tzij ">
 
-<!ENTITY  rememberLogins.label          "Tinatäx rutikirib'axik molojri'ïl kichin ri taq ruxaq k'amaya'l">
-<!ENTITY  rememberLogins.accesskey      "T">
+<!ENTITY  rememberLogins1.label          "Kerunataj ri kitikirib'al taq molojri'ïl chuqa' ri ewan taq kitzij taq ruxaq k'amaya'">
+<!ENTITY  rememberLogins1.accesskey      "K">
 <!ENTITY  passwordExceptions.label      "Taq man relik ta…">
 <!ENTITY  passwordExceptions.accesskey  "e">
 

@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Tik'ex">
 
 <!ENTITY updateApplication.label         "&brandShortName; Taq k'exoj ruwäch">
-<!ENTITY updateAuto1.label               "Keyak ruyonil taq k'exoj ruwäch (chilab'en: nrutzilaj ri chajinïk)">
-<!ENTITY updateAuto1.accesskey           "r">
-<!ENTITY updateCheckChoose.label         "Kenik'öx ri taq k'exoj ruwäch, xa xe chi tiya' q'ij chi re we ninwajo' chi yenyäk">
-<!ENTITY updateCheckChoose.accesskey     "K">
-<!ENTITY updateManual.label              "Mani nikanöx taq k'exoj ruwäch (man chilab'en ta: ruk'ayewal chajinïk)">
-<!ENTITY updateManual.accesskey          "M">
+<!ENTITY updateApplication.description   "Tiya' q'ij &brandShortName; chi re">
+<!ENTITY updateAuto2.label               "Keyak pa ruyonil taq k'exoj ruwäch (chilab'en richin nrutzilaj ri jikomal)">
+<!ENTITY updateAuto2.accesskey           "r">
+<!ENTITY updateCheckChoose2.label        "Kenik'öx taq k'exoj ruwäch, xa xe chi tiya' q'ij chwe richin nincha' we yenyäk">
+<!ENTITY updateCheckChoose2.accesskey    "K">
+<!ENTITY updateManual2.label             "Majub'ey kekanöx taq k'exoj ruwäch (we man echilab'en ta)">
+<!ENTITY updateManual2.accesskey         "M">
 
-<!ENTITY updateHistory.label             "Tik'ut pe ri runatab'al taq k'exoj ruwäch">
-<!ENTITY updateHistory.accesskey         "k">
+<!ENTITY updateHistory2.label            "Tik'ut pe ri runatab'al K'exoj ruwäch…">
+<!ENTITY updateHistory2.accesskey        "K">
 
 <!ENTITY useService.label                "Tokisäx jun samaj pa ruka'n b'ey richin yeyak ri taq k'exoj ruwäch">
 <!ENTITY useService.accesskey            "r">
 
-<!ENTITY autoUpdateOthers.label          "Tik'extäj ruyon">
-<!ENTITY enableSearchUpdate.label        "Samajel chi kanob'äl">
-<!ENTITY enableSearchUpdate.accesskey    "k">
+<!ENTITY enableSearchUpdate2.label       "Pa yonil k'exoj chuqa' ruk'wayöl kanob'äl">
+<!ENTITY enableSearchUpdate2.accesskey   "x">
+
+<!ENTITY reports.label                   "Kitzijol taq samaj">
 
 <!ENTITY offlineStorageNotify.label               "Taya' rutzijol we k'o jun k'amaya'l nrajo' nuyäk taq tzij richin nrokisaj toq majun okem pa k'amaya'l">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Tiyuj el na'oj pa rub'eyal majun okem pa k'amaya'l">
 
 <!ENTITY certificateTab.label            "Taq ruwujil b'i'aj:">
-<!ENTITY certPersonal.label              "Taq k'utuj">
-<!ENTITY certPersonal.description        "Toq ri ruk'u'x samaj xtrajo' pe ri nuwujil ab'i':">
+<!ENTITY certPersonal2.description       "Toq jun ruk'u'x samaj nuk'utuj pe ri ruwujil ab'i'">
 <!ENTITY selectCerts.auto                "Pa ruyonil ticha' jun">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Junelïk tik'utüx pe">

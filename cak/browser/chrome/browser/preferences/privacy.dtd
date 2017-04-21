@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Tokisax chajinem chuwäch kanoxïk">
+<!ENTITY  trackingProtectionHeader2.label      "Chajinïk chuwäch kanoxïk">
+<!ENTITY  trackingProtection.description       "Ri kanoxïk ja toq jun ajk'aymoloj numöl etamab'äl chawij richin nunük' jun ruwäch b'i'aj ke ri' nuk'üt pe ruwa etamab'äl k'amon chi rij ri awokem pa k'amaya'l chuqa' taq awetamab'al.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Keq'eleb'ëx ri taq rajk'aymoloj kanoxïk etaman kiwa, ri yekik'üt pe taq ruwa etamab'äl">
 <!ENTITY  trackingProtectionAlways.label       "Junelïk">
 <!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Xa xe pa taq ichinan tzuwäch">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Kikajtz'ik taq k'ojlib'äl">
 
-<!ENTITY  locbar.suggest.label          "Jampe' toq nokisäx ri rukajtz'ik k'ojlemal, tichilab'ëx:">
+<!ENTITY  locbar.suggest2.label         "Jampe' toq nawokisaj ri rukajtz'ik k'ojlemal, tichilab'ëx">
 <!ENTITY  locbar.history.label          "Natab'äl">
 <!ENTITY  locbar.history.accesskey      "N">
 <!ENTITY  locbar.bookmarks.label        "Taq etal">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Taq kanoxïk kiximon ki' pa ri kanob'äl k'o wi">
 <!ENTITY  locbar.searches.accesskey     "ï">
 
-<!ENTITY  suggestionSettings.label      "Kek'ex ri taq ajowab'äl richin yechilab'ëx taq rusamajinel kanob'äl…">
-<!ENTITY  suggestionSettings.accesskey  "k">
+<!ENTITY  suggestionSettings2.label     "Kek'ex ri taq kajowab'al ri taq kichilab'enik kisamajinel taq kanob'äl">
 
 <!ENTITY  acceptCookies.label           "Kek'ulutäj taq kaxlanwey">
 <!ENTITY  acceptCookies.accesskey       "K">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Kek'ut taq kaxlanwey…">
 <!ENTITY  showCookies.accesskey         "K">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; xtitikïr:">
-<!ENTITY  historyHeader.pre.accesskey      "x">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; xtipo'">
+<!ENTITY  historyHeader2.pre.accesskey     "x">
 <!ENTITY  historyHeader.remember.label     "Tinatäx ri natab'äl">
 <!ENTITY  historyHeader.dontremember.label "Mani ninatäx ri natab'äl">
 <!ENTITY  historyHeader.custom.label       "Tokisäx jun ichinan runuk'ulem re natab'äl">
