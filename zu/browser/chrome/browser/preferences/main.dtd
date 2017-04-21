@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Qala">
 
-<!ENTITY startupPage.label         "Lapho i-&brandShortName; iqala:">
-<!ENTITY startupPage.accesskey     "i">
+
 
 <!ENTITY startupBlankPage.label    "Bonisa ikhasi elinganalutho">
 
 
-<!ENTITY homepage.label            "Ikhasi eliyisiqalo:">
-<!ENTITY homepage.accesskey        "I">
+
 <!ENTITY useCurrentPage.label      "Sebenzisa ikhasi lamanje">
 <!ENTITY useCurrentPage.accesskey  "m">
 <!ENTITY useMultiple.label         "Sebenzisa amakhasi wamanje">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "I-&brandShortName; okwamanje isibukisi sakhona sakho">
+
 
 
 
