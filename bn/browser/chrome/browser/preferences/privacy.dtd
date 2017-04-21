@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "ট্রাকিং সুরক্ষা ব্যবহার করুন">
+
 <!ENTITY  trackingProtectionAlways.label       "সবসময় y">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "শুধুমাত্র ব্যক্তিগত ব্রাউজিং উইন্ডোতে">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "অবস্থান সূচক বার">
 
-<!ENTITY  locbar.suggest.label          "অবস্থান বার ব্যবহার করার সময় পরামর্শ দিন:">
 <!ENTITY  locbar.history.label          "ইতিহাস">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "বুকমার্কসমূহ k">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "পূর্বনির্ধারিত অনুসন্ধান ইঞ্জিন থেকে সংশ্লিষ্ট অনুসন্ধানসমূহ d">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "সার্চ ইঞ্জিন পরামর্শের জন্য অগ্রাধিকার পরিবর্তন করুন g...">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "সাইট হতে কুকি গ্রহণ করুন A">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "কুকি প্রদর্শন করো... S">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; হবে:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "ইতিহাস মনে রাখবে">
 <!ENTITY  historyHeader.dontremember.label "কখনোই ইতিহাস মনে রাখবে না">
 <!ENTITY  historyHeader.custom.label       "ইতিহাসের জন্য স্বনির্বাচিত সেটিং ব্যবহার করবে">

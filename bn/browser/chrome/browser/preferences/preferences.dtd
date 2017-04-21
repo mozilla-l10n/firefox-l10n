@@ -13,17 +13,13 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 50em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 45em;">
 
-<!ENTITY  paneGeneral.title       "সাধারণ">
-<!ENTITY  paneTabs.title          "ট্যাব">
-<!ENTITY  paneSearch.title        "অনুসন্ধান">
-<!ENTITY  paneContent.title       "বিষয়বস্তু">
-<!ENTITY  paneApplications.title  "অ্যাপ্লিকেশন">
-<!ENTITY  panePrivacy.title       "গোপনীয়তা">
-<!ENTITY  paneContainers.title    "কন্টেইনার ট্যাব">
-<!ENTITY  paneSecurity.title      "নিরাপত্তা">
-<!ENTITY  paneAdvanced.title      "উচ্চপর্যায়">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneGeneral.title             "সাধারণ">
 
-<!ENTITY  paneSync.title          "সিঙ্ক">
+
+<!ENTITY  paneContainers.title          "কন্টেইনার ট্যাব">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  helpButton.label        "সাহায্য">
+
+<!ENTITY searchInput.label        "অনুসন্ধান">

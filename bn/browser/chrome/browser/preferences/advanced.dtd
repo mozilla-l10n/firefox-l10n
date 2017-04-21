@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "হালনাগাদ">
 
 <!ENTITY updateApplication.label         "&brandShortName; হালনাগাদ">
-<!ENTITY updateAuto1.label               "হালনাগাদকরণ স্বয়ংক্রিয়ভাবে ইনস্টল হয় A (প্রস্তাবিত: উন্নত নিরাপত্তা)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "হালনাগাদকরণ যাচাই করুন, কিন্তু ইনস্টলের পূর্বে আপনাকে জানাবে">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "হালনাগাদকরণ কখনও পরীক্ষা করবেন না N (প্রস্তাবিত নয়: নিরাপত্তা ঝুঁকি রয়েছে)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "হালনাগাদের ইতিহাস প্রদর্শন P">
-<!ENTITY updateHistory.accesskey         "P">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "স্বয়ংক্রিয়ভাবে হালনাগাদ">
-<!ENTITY enableSearchUpdate.label        "অনুসন্ধান ইঞ্জিন E">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
+
 
 <!ENTITY offlineStorageNotify.label               "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট তথ্য সংরক্ষণের চেষ্টা করলে আপনাকে জানাবে">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "অফলাইন ডাটা মুছে ফেলা হবে">
 
 <!ENTITY certificateTab.label            "সনদপত্র">
-<!ENTITY certPersonal.label              "অনুরোধ">
-<!ENTITY certPersonal.description        "কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করলে:">
+
 <!ENTITY selectCerts.auto                "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "আপনাকে প্রতিবার জিজ্ঞেস করা">
