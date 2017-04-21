@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "ш">
 
 
-<!ENTITY  defaultFont.label           "Анхны үсгийн маяг:">
-<!ENTITY  defaultFont.accesskey       "я">
-<!ENTITY  defaultSize.label           "Хэмжээ:">
-<!ENTITY  defaultSize.accesskey       "м">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Нэмэлт…">
 <!ENTITY  advancedFonts.accesskey     "м">

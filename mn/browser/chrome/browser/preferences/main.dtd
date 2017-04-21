@@ -4,8 +4,7 @@
 
 <!ENTITY startup.label             "Эхлэл">
 
-<!ENTITY startupPage.label         "&brandShortName; эхлэх үед:">
-<!ENTITY startupPage.accesskey     "э">
+
 
 <!ENTITY startupBlankPage.label    "Хоосон хуудас харуул">
 
@@ -27,6 +26,7 @@
 <!ENTITY chooseFolderWin.accesskey    "ө">
 <!ENTITY chooseFolderMac.label        "Сонго…">
 <!ENTITY chooseFolderMac.accesskey    "о">
+
 
 
 

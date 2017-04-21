@@ -180,13 +180,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY reloadButton.tooltip         "Уг хуудсыг дахин дууд">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Энэ хуудасны дуудалтыг зогсоо">
 <!ENTITY goEndCap.tooltip             "Хаягийн самбарын хаяг бичих газар очно">
 <!ENTITY printButton.label            "Хэвлэ">
 <!ENTITY printButton.tooltip          "Энэ хуудсыг хэвлэ">
+
 
 
 
@@ -329,6 +328,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -717,6 +717,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY customizeMode.restoreDefaults "Үндсэн дарааллыг сэргээ">
 
 
@@ -786,6 +788,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Энэ үйлдлийг буцаах боломжгүйг анхаарна уу.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
