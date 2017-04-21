@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "Ufuatiliaji">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "Mwambaa wa Mahali">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "Onyesha Vidakuzi…">
 <!ENTITY  showCookies.accesskey         "O">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; matakwa:">
-<!ENTITY  historyHeader.pre.accesskey      "m">
+
 <!ENTITY  historyHeader.remember.label     "Kumbuka historia">
 <!ENTITY  historyHeader.dontremember.label "Kamwe usikumbuke historia">
 <!ENTITY  historyHeader.custom.label       "Tumia mipangilio maalum ya historia">

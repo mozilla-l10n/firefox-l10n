@@ -189,10 +189,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Bofya-kulia au vuta chini kuonyesha historia">
 <!ENTITY backForwardButtonMenuMac.tooltip "Vuta chini ili kuonyesha historia">
 
-<!ENTITY reloadButton.tooltip         "Pakia tena ukurasa uliopo">
 
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Simamisha kupakia ukurasa huu">
 <!ENTITY goEndCap.tooltip             "Nenda kwa anwani katika Upau wa Mahali">
 <!ENTITY printButton.label            "Chapisha">
 <!ENTITY printButton.tooltip          "Chapisha ukurasa huu">
@@ -220,8 +218,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Tafutiza">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Nyumbani">
 
@@ -347,6 +346,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
+
 
 
 
@@ -731,6 +731,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Ulandanishi">
 
 
@@ -824,6 +826,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Kitendo hakiwazi kutenduliwa.">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

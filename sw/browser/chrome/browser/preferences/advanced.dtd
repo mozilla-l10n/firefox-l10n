@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Sasaisha">
 
-<!ENTITY updateAuto1.label               "Sakinisha kiotomatiki visasisho (imependekezwa: usalama umeboreshwa)">
-<!ENTITY updateAuto1.accesskey           "S">
 
 
-<!ENTITY updateManual.label              "Kamwe usikague visasisho (haipendekezwi: hatari kwa usalama)">
-<!ENTITY updateManual.accesskey          "K">
 
-<!ENTITY updateHistory.label             "Onyesha Historia ya Visasaisho">
-<!ENTITY updateHistory.accesskey         "s">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Tumia huduma ya usuli ili kusakinisha visasisho">
 <!ENTITY useService.accesskey            "s">
 
-<!ENTITY enableSearchUpdate.label        "Injini Tafuti">
-<!ENTITY enableSearchUpdate.accesskey    "T">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Mambo ya pekee…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Ondoa data ya nje ya mtandao">
 
 <!ENTITY certificateTab.label            "Vyeti">
-
 
 <!ENTITY selectCerts.auto                "Chagua moja kiotomatiki">
 

@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Uwashaji">
 
-<!ENTITY startupPage.label         "Lini &brandShortName; huanza:">
-<!ENTITY startupPage.accesskey     "h">
+
 
 <!ENTITY startupBlankPage.label    "Onyesha ukurasa wazi">
 
 
-<!ENTITY homepage.label            "Ukurasa Nyumbani:">
-<!ENTITY homepage.accesskey        "N">
+
 <!ENTITY useCurrentPage.label      "Tumia Ukurasa wa Sasa">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Tumia Kurasa za Sasa">
@@ -35,6 +33,7 @@
 
 
 <!ENTITY isDefault.label                  "&brandShortName; kwa sasa ni kivinjari chako msingi">
+
 
 
 

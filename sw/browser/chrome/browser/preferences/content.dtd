@@ -17,10 +17,9 @@
 <!ENTITY  popupExceptions.accesskey   "M">
 
 
-<!ENTITY  defaultFont.label           "Chaguo-msingi ya fonti:">
-<!ENTITY  defaultFont.accesskey       "C">
-<!ENTITY  defaultSize.label           "Ukubwa:">
-<!ENTITY  defaultSize.accesskey       "U">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Yaliyopandishwa daraja…">
 <!ENTITY  advancedFonts.accesskey     "Y">
