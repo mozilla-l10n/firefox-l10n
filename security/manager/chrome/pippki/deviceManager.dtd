@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Prebrskaj ...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
-<!ENTITY loaddevice.title                       "Nalaganje naprave PKCS#11">
