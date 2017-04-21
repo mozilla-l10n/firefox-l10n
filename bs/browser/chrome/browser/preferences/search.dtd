@@ -13,7 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "l">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Prijedlozi za pretragu neće biti prikazani u rezultatima lokacijske trake jer ste podesili &brandShortName; da ne pamti historiju.">
 
-<!ENTITY oneClickSearchEngines.label           "Klik pretraživači">
+<!ENTITY oneClickSearchEngines.label           "Jedan-klik pretraživači">
 
 <!ENTITY chooseWhichOneToDisplay.label         "Traka za pretraživanje vam omogućava izravno korištenje pretraživača. Izaberite one koje želite da budu prikazani.">
 
@@ -26,4 +26,4 @@
 <!ENTITY removeEngine.label                    "Ukloni">
 <!ENTITY removeEngine.accesskey                "U">
 
-<!ENTITY addMoreSearchEngines.label            "Dodaj još pretraživača…">
+<!ENTITY addMoreSearchEngines2.label           "Dodaj još pretraživača…">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Opće">
+<!ENTITY  security.label                 "Sigurnost">
 
 <!ENTITY  warnOnAddonInstall.label        "Upozoriti vas kada stranice pokušaju instalirati add-one">
 <!ENTITY  warnOnAddonInstall.accesskey    "U">
@@ -24,10 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  logins.label                  "Prijave">
+<!ENTITY  formsAndPasswords.label       "Forme &amp; lozinke">
 
-<!ENTITY  rememberLogins.label          "Pamti prijave za stranice">
-<!ENTITY  rememberLogins.accesskey      "r">
+<!ENTITY  rememberLogins1.label          "Pamti prijave i lozinke za stranice">
+<!ENTITY  rememberLogins1.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Izuzeci…">
 <!ENTITY  passwordExceptions.accesskey  "I">
 

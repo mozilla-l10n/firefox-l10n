@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Pokretanje">
 
-<!ENTITY startupPage.label         "Kada se &brandShortName; pokrene:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage2.label        "Kada se &brandShortName; pokrene">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Prikazati vašu početnu stranicu">
 <!ENTITY startupBlankPage.label    "Prikaži praznu stranicu">
 <!ENTITY startupPrevSession.label  "Prikazati vaše prozore i tabove od zadnjeg puta">
 
-<!ENTITY homepage.label            "Početna stranica:">
-<!ENTITY homepage.accesskey        "č">
+<!ENTITY homepage2.label           "Početna stranica">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Koristi trenutnu stranicu">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Koristi trenutne stranice">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Dozvoli da se &brandShortName; i Firefox pokreću u isto vrijeme">
 <!ENTITY useFirefoxSync.label             "Savjet: Ovo koristi odvojene profile. Koristite Sync za dijeljenje podataka između njih.">
-<!ENTITY getStarted.label                 "Započni korištenje Synca…">
+<!ENTITY getStarted.notloggedin.label     "Prijava u &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Otvori &syncBrand.shortName.label; postavke">
 
 <!ENTITY e10sEnabled.label                "Omogući multiprocesni &brandShortName;">

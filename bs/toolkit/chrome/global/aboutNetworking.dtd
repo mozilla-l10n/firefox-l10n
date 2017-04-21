@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Automatski osvježi svake 3 sekunde">
 <!ENTITY aboutNetworking.hostname              "Naziv hosta">
 <!ENTITY aboutNetworking.port                  "Port">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktivno">
 <!ENTITY aboutNetworking.idle                  "Neaktivan">

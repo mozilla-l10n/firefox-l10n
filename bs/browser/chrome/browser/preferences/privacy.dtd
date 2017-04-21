@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Koristi zašt&amp;itu od praćenja">
+<!ENTITY  trackingProtectionHeader2.label      "Zaštita od praćenja">
+<!ENTITY  trackingProtection.description       "Praćenje je kada kompanije sakupljaju informacije o tome kako gradite svoj profil i prikazuju sadržaj na osnovu vaših ličnih i podataka o surfanju.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blokiraj poznate kompanije koje prate da prikazuju sadržaj">
 <!ENTITY  trackingProtectionAlways.label       "Uvijek">
 <!ENTITY  trackingProtectionAlways.accesskey   "j">
 <!ENTITY  trackingProtectionPrivate.label      "Samo u privatnim prozorima">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Adresna traka">
 
-<!ENTITY  locbar.suggest.label          "Pri korištenju adresne trake, predloži:">
+<!ENTITY  locbar.suggest2.label         "Pri korištenju adresne trake, predloži">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Zabilješke">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Povezane pretrage iz glavnog pretraživača">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Promijenite postavke prijedloga pretraživača…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings2.label     "Promijenite postavke prijedloga pretraživača">
 
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Prikaži kolačiće…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; će:">
-<!ENTITY  historyHeader.pre.accesskey      "e">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; će">
+<!ENTITY  historyHeader2.pre.accesskey     "e">
 <!ENTITY  historyHeader.remember.label     "Pamtiti historiju">
 <!ENTITY  historyHeader.dontremember.label "Nemoj nikad pamtiti historiju">
 <!ENTITY  historyHeader.custom.label       "Koristiti korisničke postavke za historiju">
