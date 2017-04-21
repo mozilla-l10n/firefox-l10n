@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; اور Firefox کو ہم وقت چلنے کی اجازت دے">
 <!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
-<!ENTITY getStarted.label                 "ہم وقت سازی استعمال کرنا شروع کریں…">
+
+
 
 <!ENTITY e10sEnabled.label                "کثیر عمل کاری &brandShortName; کو اہل بنائیں">

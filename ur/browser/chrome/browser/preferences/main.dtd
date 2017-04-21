@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "سٹارٹ اپ">
 
-<!ENTITY startupPage.label         "جب &brandShortName; شروع ہو:">
-<!ENTITY startupPage.accesskey     "ش">
+
 <!ENTITY startupUserHomePage.label "اپنا ہوم صفحہ دکھائیں">
 <!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
 <!ENTITY startupPrevSession.label  "اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں">
 
-<!ENTITY homepage.label            "ابتدائی صفحہ:">
-<!ENTITY homepage.accesskey        "ص">
+
 <!ENTITY useCurrentPage.label      "حالیہ صفحہ برتیں">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "حالیہ صفحے استعمال کریں">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; اور Firefox کو ہم وقت چلنے کی اجازت دے">
 <!ENTITY useFirefoxSync.label             "ٹوٹکا: یہ علیحدہ پروفائلز استعمال کرتا ہے. ان کے درمیان ڈیٹا کا اشتراک کرنے کی مطابقت پذیری کا استعمال کریں.">
-<!ENTITY getStarted.label                 "ہم وقت سازی استعمال کرنا شروع کریں…">
+
+
 
 <!ENTITY e10sEnabled.label                "کثیر عمل کاری &brandShortName; کو اہل بنائیں">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "سراغ راہ حفاظت استعمال کریں">
+
 <!ENTITY  trackingProtectionAlways.label       "ہمیشہ">
 <!ENTITY  trackingProtectionAlways.accesskey   "ہ">
 <!ENTITY  trackingProtectionPrivate.label      "صرف نجی ونڈوں میں">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "مقام بند">
 
-<!ENTITY  locbar.suggest.label          "محل وقوع بار استعمال کرتے وقت، تجویز دیں:">
 <!ENTITY  locbar.history.label          "سابقات">
 <!ENTITY  locbar.history.accesskey      "س">
 <!ENTITY  locbar.bookmarks.label        "نشانیاں">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "تحقیق و تکمیل کاری تلاش شدہ انجن سے">
 <!ENTITY  locbar.searches.accesskey     "و">
 
-<!ENTITY  suggestionSettings.label      "تلاش کے انجن کی تجاویز کے لئے ترجیحات کو بدلیں…">
-<!ENTITY  suggestionSettings.accesskey  "ب">
 
 <!ENTITY  acceptCookies.label           "سائٹوں پر سے کوکی قبول کریں">
 <!ENTITY  acceptCookies.accesskey       "ق">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "کوکی دکھائیں ...">
 <!ENTITY  showCookies.accesskey         "د">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; کرے گا:">
-<!ENTITY  historyHeader.pre.accesskey      "ک">
+
 <!ENTITY  historyHeader.remember.label     "سابقات یاد رکھے">
 <!ENTITY  historyHeader.dontremember.label "کبھی سابقات نہ یاد رکھے">
 <!ENTITY  historyHeader.custom.label       "سابقات کے لیے مخصوص ترتیب استعمال کریں">

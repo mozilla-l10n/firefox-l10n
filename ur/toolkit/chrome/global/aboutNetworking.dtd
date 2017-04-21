@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "خودبخود, ہر ٣ سیکنڈ کے بعد تازہ کریں     ">
 <!ENTITY aboutNetworking.hostname              "ہوسٹ نیم">
 <!ENTITY aboutNetworking.port                  "پورٹ">
-<!ENTITY aboutNetworking.spdy                  "ایس پی ڈی وانے">
+
 <!ENTITY aboutNetworking.ssl                   "ایس ایس ایل">
 <!ENTITY aboutNetworking.active                "فعال">
 <!ENTITY aboutNetworking.idle                  "بیکار">

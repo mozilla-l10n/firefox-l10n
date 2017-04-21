@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "تازہ کاری">
 
 <!ENTITY updateApplication.label         "&brandShortName; تازہ کاریاں:">
-<!ENTITY updateAuto1.label               "تازہ کاریاں خود بخود تنصیب کریں (تجویز کردہ: بہتر سلامتی )">
-<!ENTITY updateAuto1.accesskey           "خ">
-<!ENTITY updateCheckChoose.label         "تازہ کاریوں کے لیے پڑتال کریں، لیکن مجھے انہیں تنصیب کرنے کا انتخاب کرنے دیں">
-<!ENTITY updateCheckChoose.accesskey     "پ">
-<!ENTITY updateManual.label              "تازہ کاریوں کے لیے کبھی بھی یہ چیک کریں (تجویز کردہ نہیں: سلامتی خطرہ)">
-<!ENTITY updateManual.accesskey          "ک">
 
-<!ENTITY updateHistory.label             "تازہ کاری تاریخ دکھائیں">
-<!ENTITY updateHistory.accesskey         "ت">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "تازہ کاریاں تنصیب کرنے کے لیے پس منظر سروس استعمال کریں">
 <!ENTITY useService.accesskey            "پ">
 
-<!ENTITY autoUpdateOthers.label          "خودکار تازہ کاری">
-<!ENTITY enableSearchUpdate.label        "تلاش انجن">
-<!ENTITY enableSearchUpdate.accesskey    "ا">
+
+
 
 <!ENTITY offlineStorageNotify.label               "مجھے بتائیں جب کوئی ویب سائٹ آف لائن استعمال کے لیے کوائف ذخیرہ کرنے کے لیے پوچھے">
 <!ENTITY offlineStorageNotify.accesskey           "ب">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "آف لائن کوائف ہٹائیں">
 
 <!ENTITY certificateTab.label            "تصدیق نامے">
-<!ENTITY certPersonal.label              "درخواست">
-<!ENTITY certPersonal.description        "جب پیش کار آپ کے ذاتی تصدیق نامہ کی درخواست کرے:">
+
 <!ENTITY selectCerts.auto                "خودبخود ایک منتخب کریں">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "مجھے ہر بار پوچھیں">

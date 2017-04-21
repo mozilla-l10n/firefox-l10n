@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "فانٹ اور رنگ">
 
-<!ENTITY  defaultFont.label           "طےشدہ فانٹ:">
-<!ENTITY  defaultFont.accesskey       "ط">
-<!ENTITY  defaultSize.label           "سائز:">
-<!ENTITY  defaultSize.accesskey       "س">
+
+
+
 
 <!ENTITY  advancedFonts.label         "اعلٰی…">
 <!ENTITY  advancedFonts.accesskey     "ا">

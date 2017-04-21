@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "سیٹکگیں - سائٹ کے کوائف">
-<!ENTITY     settings.description          "مندرجہ ذیل ویب سائٹ نے اپکی ڈسک پر کوائف محفوظ کرنے کا سوال کیا ہے۔ آپ وضاحت کر سکتے ہے کی کس سائٹ کی اپ کوائف محفوظ کرنا چاہتے ہے۔ طےشدہ طور پر سائٹ کے کوائف عارضی ہوتے ہے اور خودکار طریقہ سے حذف کر دئے جاتے ہے۔">
 <!ENTITY     hostCol.label                 "سائٹ">
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     usageCol.label                "ذخیرہ">
-<!ENTITY     searchPlaceHolder             "&amp;تلاش کریں:">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+
+
 
 
 
