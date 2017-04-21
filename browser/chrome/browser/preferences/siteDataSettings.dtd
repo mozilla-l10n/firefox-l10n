@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Beállítások – Oldal adatai">
-<!ENTITY     settings.description          "A következő weboldalak saját magukkal kapcsolatos adatok mentését kérték a lemezre. Megadhatja, mely weboldalak tárolhatnak ilyen adatokat. Az alapértelmezett oldaladatok ideiglenesek és automatikusan törlődnek.">
 <!ENTITY     hostCol.label                 "Oldal">
 <!ENTITY     statusCol.label               "Állapot">
 <!ENTITY     usageCol.label                "Tárhely">
-<!ENTITY     searchPlaceHolder             "Keresés">
-<!ENTITY     searchPlaceHolder.accesskey   "K">
+
+
 <!ENTITY     removeSelected.label          "Kijelölt eltávolítása">
 <!ENTITY     removeSelected.accesskey      "e">
 <!ENTITY     save.label                    "Változások mentése">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Mégse">
 <!ENTITY     cancel.accesskey              "M">
 <!ENTITY     removingDialog.title          "Oldaladatok törlése">
-<!ENTITY     removingDialog.description    "Az oldaladatok törlése a sütiket is törli. Ez kijelentkeztetheti weboldalakról, és törölheti a kapcsolat nélküli webes tartalmakat. Biztosan végrehajtja a változtatásokat?">
+
 <!ENTITY     siteTree.label                "A következő sütik kerülnek eltávolításra:">
