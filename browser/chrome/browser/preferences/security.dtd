@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Općenito">
-
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -22,10 +20,7 @@
 <!ENTITY  addonExceptions.accesskey     "e">
 
 
-<!ENTITY  logins.label                  "Prijave">
 
-<!ENTITY  rememberLogins.label          "Zapamti prijave za stranice">
-<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Iznimke...">
 <!ENTITY  passwordExceptions.accesskey  "m">
 

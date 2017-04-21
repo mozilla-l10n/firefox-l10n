@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Koristite zaštitu od praćenja">
+
 <!ENTITY  trackingProtectionAlways.label       "Uvijek">
 <!ENTITY  trackingProtectionAlways.accesskey   "j">
 <!ENTITY  trackingProtectionPrivate.label      "Samo u privatnim prozorima">
@@ -30,7 +30,6 @@
 
 <!ENTITY  locationBar.label             "Adresna traka">
 
-<!ENTITY  locbar.suggest.label          "Pri korištenju adresne trake, predloži:">
 <!ENTITY  locbar.history.label          "Povijest">
 <!ENTITY  locbar.history.accesskey      "P">
 <!ENTITY  locbar.bookmarks.label        "Zabilješke">
@@ -40,8 +39,6 @@
 <!ENTITY  locbar.searches.label         "Povezana pretraživanja od zadane tražilice">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "Promijenite postavke prijedloga tražilica…">
-<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "Prihvati kolačiće sa stranica">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +61,7 @@
 <!ENTITY  showCookies.label             "Prikaži kolačiće...">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; će:">
-<!ENTITY  historyHeader.pre.accesskey      "e">
+
 <!ENTITY  historyHeader.remember.label     "zapamtiti povijest">
 <!ENTITY  historyHeader.dontremember.label "neće nikada zapamtiti povijest">
 <!ENTITY  historyHeader.custom.label       "koristiti prilagođene postavke za povijest">

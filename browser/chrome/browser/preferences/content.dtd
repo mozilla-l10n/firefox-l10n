@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Fontovi i boje">
 
-<!ENTITY  defaultFont.label           "Zadani font:">
-<!ENTITY  defaultFont.accesskey       "f">
-<!ENTITY  defaultSize.label           "Veličina:">
-<!ENTITY  defaultSize.accesskey       "V">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Napredno...">
 <!ENTITY  advancedFonts.accesskey     "a">
