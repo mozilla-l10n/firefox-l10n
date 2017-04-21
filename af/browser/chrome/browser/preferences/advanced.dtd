@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Bywerk">
 
 <!ENTITY updateApplication.label         "&brandShortName;-bywerkings">
-<!ENTITY updateAuto1.label               "Installeer bywerkings outomaties (beter vir sekuriteit)">
-<!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheckChoose.label         "Kontroleer vir bywerkings, maar laat my kies of ek dit wil installeer">
-<!ENTITY updateCheckChoose.accesskey     "K">
-<!ENTITY updateManual.label              "Moet nooit kontroleer vir bywerkings nie (sekuriteitsrisiko)">
-<!ENTITY updateManual.accesskey          "n">
 
-<!ENTITY updateHistory.label             "Wys bywerkinggeskiedenis">
-<!ENTITY updateHistory.accesskey         "y">
+
+
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Gebruik 'n agtergronddiens om bywerkings te installeer">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY autoUpdateOthers.label          "Outomatiese bywerking">
-<!ENTITY enableSearchUpdate.label        "Soekenjins">
-<!ENTITY enableSearchUpdate.accesskey    "e">
+
+
 
 <!ENTITY offlineStorageNotify.label               "Sê wanneer 'n webwerf vra om data vir vanlyn gebruik te stoor">
 <!ENTITY offlineStorageNotify.accesskey           "S">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Verwyder vanlyn data">
 
 <!ENTITY certificateTab.label            "Sertifikate">
-<!ENTITY certPersonal.label              "Versoeke">
-<!ENTITY certPersonal.description        "Wanneer 'n bediener my persoonlike sertifikaat aanvra:">
+
 <!ENTITY selectCerts.auto                "Kies outomaties een">
 <!ENTITY selectCerts.auto.accesskey      "K">
 <!ENTITY selectCerts.ask                 "Vra elke keer">

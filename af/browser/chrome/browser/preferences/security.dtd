@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Algemeen">
-
 <!ENTITY  warnOnAddonInstall.label        "Waarsku wanneer werwe byvoegings probeer installeer">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  logins.label                  "Aanmeldings">
 
-<!ENTITY  rememberLogins.label          "Onthou aanmeldinligting vir werwe">
-<!ENTITY  rememberLogins.accesskey      "O">
 <!ENTITY  passwordExceptions.label      "Uitsonderings…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 
