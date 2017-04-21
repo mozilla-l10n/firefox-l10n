@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Tækjanafn">
-<!ENTITY changeSyncDeviceName.label "Breyta nafni tækis…">
-<!ENTITY changeSyncDeviceName.accesskey "B">
+<!ENTITY changeSyncDeviceName1.label "Breyta nafni tækis">
+<!ENTITY changeSyncDeviceName1.accesskey "B">
 <!ENTITY cancelChangeSyncDeviceName.label "Hætta við">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "H">
 <!ENTITY saveChangeSyncDeviceName.label "Vista">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Breyta notandamynd">
 <!ENTITY verifiedManage.label        "Sýsla með aðgang">
 <!ENTITY verifiedManage.accesskey    "S">
-<!ENTITY disconnect.label            "Aftengja…">
-<!ENTITY disconnect.accesskey        "A">
+<!ENTITY disconnect2.label           "Aftengja">
+<!ENTITY disconnect2.accesskey       "A">
 <!ENTITY verify.label                "Staðfesta tölvupóstfang">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Gleyma þessu tölvupóstfangi">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Innskráning">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "Samstilla með öllum tækjum">
+
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
