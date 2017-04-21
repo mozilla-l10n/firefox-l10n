@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "सामान्य">
-
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -22,10 +20,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
-<!ENTITY  logins.label                  "लग-इनहरू">
 
-<!ENTITY  rememberLogins.label          "साइटहरूका लागि लग-इन सम्झनुहोस्">
-<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "अपवादहरू...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

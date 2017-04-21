@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "हरेक ३ सेकेन्डमा आँफै ताजा पार्नुहोस्">
 <!ENTITY aboutNetworking.hostname              "Hostname">
 <!ENTITY aboutNetworking.port                  "पोर्ट">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "सक्रिय पार्नुहोस्">
 <!ENTITY aboutNetworking.idle                  "निष्प्रयोजन">

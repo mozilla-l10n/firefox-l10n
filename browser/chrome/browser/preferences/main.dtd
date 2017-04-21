@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "सुरुवात">
 
-<!ENTITY startupPage.label         "जब &brandShortName; सुरु हुन्छ:">
-<!ENTITY startupPage.accesskey     "s">
+
 
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ देखाउनुहोस्">
 
 
-<!ENTITY homepage.label            "गृह पृष्ठः">
-<!ENTITY homepage.accesskey        "P">
+
 <!ENTITY useCurrentPage.label      "अहिलेको पृष्ठ प्रयोग गर्नुहोस्">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "अहिलेको पृष्ठहरू प्रयोग गर्नुहोस्">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; र Firefox एकै समयमा चलाउन अनुमति दिनुहोस्">
 <!ENTITY useFirefoxSync.label             "सुझाव: यसले अलग प्रोफाइल प्रयोग गर्दछ। तिनीहरू बीच डाटा साझेदारी गर्न Sync प्रयोग गर्नुहोस्।">
-<!ENTITY getStarted.label                 "Sync प्रयोग गर्न सुरु गर्नुहोस्…">
+
+
 
 <!ENTITY e10sEnabled.label                "बहु-प्रोसेस &brandShortName; सक्षम पार्नुहोस्">

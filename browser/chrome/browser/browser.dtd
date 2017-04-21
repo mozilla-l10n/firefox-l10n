@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "इतिहास हेर्न बाँया क्लिक गर्नुहोस् अथवा तल तान्नुहोस">
 <!ENTITY backForwardButtonMenuMac.tooltip "इतिहास हेर्न तल तान्नुहोस">
 <!ENTITY reloadCmd.label              "पुनः लोड गर्नुहोस्">
-<!ENTITY reloadButton.tooltip         "हालको पृष्ठलाई फेरि लोड गर्नुहोस्">
 <!ENTITY stopCmd.label                "रोक्नुहोस्">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "यो पृष्ठलाई लोडिङ्ग गर्न रोक्नुहोस्">
 <!ENTITY goEndCap.tooltip             "लोकेसन बारमा भएको स्थानमा जानुहोस्">
 <!ENTITY printButton.label            "मुद्रण गर्नुहोस्">
 <!ENTITY printButton.tooltip          "यो पृष्ठ मुद्रण गर्नुहोस्">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
-<!ENTITY urlbar.zoomReset.tooltip     "जुम स्तर पूर्वरूपमा फर्काउनुहोस्">
-
 <!ENTITY searchItem.title             "खोज">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "गृह">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारमा थप्नुहोस्">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "&syncBrand.shortName.label; मा साइन इन गर्नुहोस…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बारे थप जान्नुहोस्">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
