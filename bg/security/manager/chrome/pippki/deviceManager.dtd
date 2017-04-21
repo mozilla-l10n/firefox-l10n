@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Разглеждане…">
 <!ENTITY loaddevice.browse.accesskey            "Р">
 
-<!ENTITY loaddevice.title                       "Зареждане на устройство на PKCS#11">
