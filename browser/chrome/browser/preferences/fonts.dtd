@@ -8,14 +8,14 @@
 <!ENTITY  language.accesskey                      "Z">
 
 <!ENTITY  size.label                              "Velikost:">
-<!ENTITY  sizeProportional.accesskey              "e">
-<!ENTITY  sizeMonospace.accesskey                 "l">
+<!ENTITY  sizeProportional.accesskey              "l">
+<!ENTITY  sizeMonospace.accesskey                 "e">
 
 <!ENTITY  proportional.label                      "Proporcionální:">
-<!ENTITY  proportional.accesskey                  "c">
+<!ENTITY  proportional.accesskey                  "P">
 
 <!ENTITY  serif.label                             "Patkové:">
-<!ENTITY  serif.accesskey                         "P">
+<!ENTITY  serif.accesskey                         "t">
 <!ENTITY  sans-serif.label                        "Bezpatkové:">
 <!ENTITY  sans-serif.accesskey                    "B">
 <!ENTITY  monospace.label                         "Neproporcionální:">
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "Tibetština">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Minimální velikost písma:">
-<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "Žádná">
 
 <!-- default font type -->
@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "Bezpatkové">
 
 <!ENTITY  allowPagesToUseOwn.label                "Povolit stránkám používat vlastní písma namísto výše zvolených">
-<!ENTITY  allowPagesToUseOwn.accesskey            "s">
+<!ENTITY  allowPagesToUseOwn.accesskey            "a">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Znaková sada textu pro původní obsah">
 <!ENTITY languages.customize.Fallback2.label      "Výchozí znaková sada:">

@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "Použít vámi nastavené barvy místo definovaných stránkou:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "m">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Vždy">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Pouze pro motivy s vysokým kontrastem">
@@ -25,6 +25,6 @@
 <!ENTITY  underlineLinks.accesskey        "d">
 <!ENTITY  links                           "Barvy odkazů">
 <!ENTITY  linkColor.label                 "Nenavštívené odkazy:">
-<!ENTITY  linkColor.accesskey             "N">
+<!ENTITY  linkColor.accesskey             "e">
 <!ENTITY  visitedLinkColor.label          "Navštívené odkazy:">
-<!ENTITY  visitedLinkColor.accesskey      "o">
+<!ENTITY  visitedLinkColor.accesskey      "a">

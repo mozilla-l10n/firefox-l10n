@@ -24,7 +24,7 @@
 <!ENTITY  defaultFont2.label          "Výchozí písmo">
 <!ENTITY  defaultFont2.accesskey      "p">
 <!ENTITY  defaultSize2.label          "Velikost">
-<!ENTITY  defaultSize2.accesskey      "e">
+<!ENTITY  defaultSize2.accesskey      "s">
 
 <!ENTITY  advancedFonts.label         "Rozšířené…">
 <!ENTITY  advancedFonts.accesskey     "o">

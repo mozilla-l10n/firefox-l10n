@@ -24,7 +24,7 @@
 <!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey          "h">
+<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Při psaní kontrolovat pravopis">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -86,20 +86,20 @@
 <!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
 <!ENTITY updateApplication.description   "Povolit aplikaci &brandShortName;">
 <!ENTITY updateAuto2.label               "Instalovat aktualizace automaticky (doporučeno pro vyšší bezpečnost)">
-<!ENTITY updateAuto2.accesskey           "I">
+<!ENTITY updateAuto2.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Vyhledávat aktualizace, ale zeptat se na jejich instalaci">
-<!ENTITY updateCheckChoose2.accesskey    "e">
+<!ENTITY updateCheckChoose2.accesskey    "c">
 <!ENTITY updateManual2.label             "Nikdy nevyhledávat aktualizace (nedoporučeno)">
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Zobrazit historii aktualizací…">
-<!ENTITY updateHistory2.accesskey        "b">
+<!ENTITY updateHistory2.accesskey        "h">
 
 <!ENTITY useService.label                "K instalaci aktualizací použít službu na pozadí">
-<!ENTITY useService.accesskey            "s">
+<!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovat vyhledávací moduly">
-<!ENTITY enableSearchUpdate2.accesskey   "h">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "Hlášení">
 
