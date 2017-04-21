@@ -901,16 +901,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Saber mais sobre o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Atualizar o &brandShorterName; para obter mais velocidade e privacidade.">
 <!ENTITY updateAvailable.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateAvailable.header.message "Uma nova atualização do &brandShorterName; está disponível.">
 <!ENTITY updateAvailable.acceptButton.label "Baixar atualização">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Baixar atualização do &brandShorterName;">
 
+<!ENTITY updateManual.message "Baixar uma nova copia do &brandShorterName;.">
 <!ENTITY updateManual.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateManual.header.message "Não é possível atualizar o &brandShorterName; para a versão mais recente.">
+<!ENTITY updateManual.acceptButton.label "Baixar o &brandShorterName;">
 <!ENTITY updateManual.cancelButton.label "Agora não">
+<!ENTITY updateManual.panelUI.label "Baixar uma nova copia do &brandShorterName;">
 
+<!ENTITY updateRestart.message "Após um reinício rápido, o &brandShorterName; irá restaurar todas as janela e abas abertas.">
+<!ENTITY updateRestart.header.message "Reiniciar o &brandShorterName; para aplicar a atualização.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Agora não">
