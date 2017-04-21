@@ -81,21 +81,21 @@
 
 <!ENTITY updateTab.label                 "Hesɗitin">
 
-<!ENTITY updateAuto1.label               "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
-<!ENTITY updateAuto1.accesskey           "s">
 
 
-<!ENTITY updateManual.label              "Hoto yuurnito kesɗitine (wasiyaaka: ena ŋakki hisde)">
-<!ENTITY updateManual.accesskey          "u">
 
-<!ENTITY updateHistory.label             "Hollu Aslol Kesɗitine">
-<!ENTITY updateHistory.accesskey         "A">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Huutoro carwol cakkitol ngam aafde kesɗitine">
 <!ENTITY useService.accesskey            "c">
 
-<!ENTITY enableSearchUpdate.label        "Jiilorɗe">
-<!ENTITY enableSearchUpdate.accesskey    "o">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Paltooje…">
@@ -108,7 +108,6 @@
 <!ENTITY offlineAppRemove.confirm        "Momtu keɓe ceŋtol ɗee">
 
 <!ENTITY certificateTab.label            "Seedamfaaji">
-<!ENTITY certPersonal.label              "Ɗaɓɓitanɗe">
 
 <!ENTITY selectCerts.auto                "Labo gootal e jaajol">
 

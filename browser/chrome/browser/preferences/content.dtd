@@ -21,10 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Ponte &amp; Nooneeji">
 
-<!ENTITY  defaultFont.label           "Fontere woowaande:">
-<!ENTITY  defaultFont.accesskey       "F">
-<!ENTITY  defaultSize.label           "Ɓetol:">
-<!ENTITY  defaultSize.accesskey       "Ɓ">
+
+
+
 
 <!ENTITY  advancedFonts.label         "Ceeɓtore…">
 <!ENTITY  advancedFonts.accesskey     "C">
