@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "浏览…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "加载 PKCS#11 设备驱动程序">

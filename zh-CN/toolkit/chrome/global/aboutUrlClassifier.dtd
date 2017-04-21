@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "有关 url-classifier（URL分类器）的信息">
+<!ENTITY aboutUrlClassifier.providerTitle               "供应商">
+<!ENTITY aboutUrlClassifier.provider                    "供应商">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "上次更新时间">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "下次更新时间">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "上次更新状态">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "更新">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "查询">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "匹配">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "检查匹配结果">
+<!ENTITY aboutUrlClassifier.lookupLookup                "查询">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "检查查询结果">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "缓存">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "内存">
+<!ENTITY aboutUrlClassifier.databaseTitle               "数据库">
+<!ENTITY aboutUrlClassifier.debugTitle                  "调试">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "设置日志模块">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "设置日志文件">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "设置 JS 日志">
+<!ENTITY aboutUrlClassifier.debugSBModules              "安全浏览日志模块">
+<!ENTITY aboutUrlClassifier.debugModules                "当前日志模块">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "安全浏览 JS 日志">
+<!ENTITY aboutUrlClassifier.debugFile                   "当前日志文件">
