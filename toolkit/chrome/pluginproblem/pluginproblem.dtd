@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Dataja">
 <!ENTITY plugin.mimeTypes                                    "MIME-typy">
 <!ENTITY plugin.flashProtectedMode.label                     "Škitany modus Adobe Flash zmóžnić">
+<!ENTITY plugin.enableBlocklists.label                       "Strašny a nawalny wobsah Flash blokować">

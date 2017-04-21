@@ -13,17 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 30em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
-<!ENTITY  paneGeneral.title       "Powšitkowny">
-<!ENTITY  paneTabs.title          "Rajtarki">
-<!ENTITY  paneSearch.title        "Pytać">
-<!ENTITY  paneContent.title       "Wobsah">
-<!ENTITY  paneApplications.title  "Nałoženja">
-<!ENTITY  panePrivacy.title       "Priwatnosć">
-<!ENTITY  paneContainers.title    "Kontejnerowe rajtarki">
-<!ENTITY  paneSecurity.title      "Wěstota">
-<!ENTITY  paneAdvanced.title      "Rozšěrjeny">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
+<!ENTITY  paneSearchResults.title       "Pytanske wuslědki">
+<!ENTITY  paneGeneral.title             "Powšitkowny">
+<!ENTITY  paneFilesApplications.title   "Dataje a nałoženja">
+<!ENTITY  panePrivacySecurity.title     "Priwatnosć a wěstota">
+<!ENTITY  paneContainers.title          "Kontejnerowe rajtarki">
+<!ENTITY  paneUpdates.title             "Aktualizacije">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Synchronizować">
+<!ENTITY  paneSync1.title          "Konto Firefox">
 
-<!ENTITY  helpButton.label        "Pomoc">
+
+<!ENTITY  searchInput.label        "Pytać">

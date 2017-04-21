@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Startować">
 
-<!ENTITY startupPage.label         "Hdyž &brandShortName; so startuje:">
-<!ENTITY startupPage.accesskey     "H">
+<!ENTITY startupPage2.label        "Hdyž &brandShortName; so startuje">
+<!ENTITY startupPage2.accesskey    "H">
 <!ENTITY startupUserHomePage.label "Wašu startowu stronu pokazać">
 <!ENTITY startupBlankPage.label    "Prózdnu stronu pokazać">
 <!ENTITY startupPrevSession.label  "Wokna a rajtarki wot poslednjeho raza pokazać">
 
-<!ENTITY homepage.label            "Startowa strona:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage2.label           "Startowa strona">
+<!ENTITY homepage2.accesskey       "S">
 <!ENTITY useCurrentPage.label      "Aktualnu stronu wužiwać">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktualne strony wužiwać">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; a Firefox dowolić, w samsnym času běžeć">
 <!ENTITY useFirefoxSync.label             "Pokiw: To separatne profile wužiwa. Wužiwajće Sync, zo byšće daty mjez nimi dźělił.">
-<!ENTITY getStarted.label                 "Sync startować…">
+<!ENTITY getStarted.notloggedin.label     "So pola &amp;syncBrand.shortName.label přizjewić…">
+<!ENTITY getStarted.configured.label      "Nastajenja &syncBrand.shortName.label; wočinić">
 
 <!ENTITY e10sEnabled.label                "Wjaceprocesowy &brandShortName; zmóžnić">

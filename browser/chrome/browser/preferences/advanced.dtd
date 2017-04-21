@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Aktualizować">
 
 <!ENTITY updateApplication.label         "Aktualizacije &brandShortName;">
-<!ENTITY updateAuto1.label               "Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Za aktualizacijemi pytać, ale prjedy so prašeć, hač maja so instalować">
-<!ENTITY updateCheckChoose.accesskey     "Z">
-<!ENTITY updateManual.label              "Ženje za aktualizacijemi njepytać (njeporuča so: wěstotne riziko)">
-<!ENTITY updateManual.accesskey          "e">
+<!ENTITY updateApplication.description   "&amp;brandShortName dowolić,">
+<!ENTITY updateAuto2.label               "Aktualizacije awtomatisce instalować (poruča so: polěpšena wěstota)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Za aktualizacijemi pytać, ale prjedy so prašeć, hač maja so instalować">
+<!ENTITY updateCheckChoose2.accesskey    "Z">
+<!ENTITY updateManual2.label             "Ženje za aktualizacijemi njepytać (njeporuča so)">
+<!ENTITY updateManual2.accesskey         "e">
 
-<!ENTITY updateHistory.label             "Aktualizacisku historiju pokazać">
-<!ENTITY updateHistory.accesskey         "h">
+<!ENTITY updateHistory2.label            "Aktualizacisku historiju pokazać…">
+<!ENTITY updateHistory2.accesskey        "h">
 
 <!ENTITY useService.label                "Pozadkowu słužbu za instalowanje aktualizacijow wužiwać">
 <!ENTITY useService.accesskey            "P">
 
-<!ENTITY autoUpdateOthers.label          "Awtomatisce aktualizować">
-<!ENTITY enableSearchUpdate.label        "Pytawy">
-<!ENTITY enableSearchUpdate.accesskey    "y">
+<!ENTITY enableSearchUpdate2.label       "Pytawy awtomatisce aktualizować">
+<!ENTITY enableSearchUpdate2.accesskey   "k">
+
+<!ENTITY reports.label                   "Rozprawy">
 
 <!ENTITY offlineStorageNotify.label               "Informować, hdyž websydło chce daty za wužiwanje offline składować">
 <!ENTITY offlineStorageNotify.accesskey           "I">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Daty offline wotstronić">
 
 <!ENTITY certificateTab.label            "Certifikaty">
-<!ENTITY certPersonal.label              "Naprašowanja">
-<!ENTITY certPersonal.description        "Hdyž sej serwer waš wosobinski certifikat žada:">
+<!ENTITY certPersonal2.description       "Hdyž sej serwer waš wosobinski certifikat žada">
 <!ENTITY selectCerts.auto                "Awtomatisce wubrać">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Kóždy raz so prašeć">

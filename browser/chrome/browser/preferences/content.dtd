@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Pisma a barby">
 
-<!ENTITY  defaultFont.label           "Standardne pismo:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Wulkosć:">
-<!ENTITY  defaultSize.accesskey       "l">
+<!ENTITY  defaultFont2.label          "Standardne pismo">
+<!ENTITY  defaultFont2.accesskey      "S">
+<!ENTITY  defaultSize2.label          "Wulkosć">
+<!ENTITY  defaultSize2.accesskey      "l">
 
 <!ENTITY  advancedFonts.label         "Rozšěrjeny…">
 <!ENTITY  advancedFonts.accesskey     "o">
