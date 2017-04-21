@@ -32,4 +32,3 @@
 <!ENTITY loaddevice.browse                      "Разгледај…">
 <!ENTITY loaddevice.browse.accesskey            "Р">
 
-<!ENTITY loaddevice.title                       "Вчитување на PKCS#11 уредот">
