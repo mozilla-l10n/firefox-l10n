@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Uppfærslur">
 
 <!ENTITY updateApplication.label         "&brandShortName; uppfærslur">
-<!ENTITY updateAuto1.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
-<!ENTITY updateAuto1.accesskey           "a">
-<!ENTITY updateCheckChoose.label         "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
-<!ENTITY updateCheckChoose.accesskey     "t">
-<!ENTITY updateManual.label              "Aldrei athuga með uppfærslur (ekki mælt með: öryggisáhætta)">
-<!ENTITY updateManual.accesskey          "l">
 
-<!ENTITY updateHistory.label             "Sýna uppfærslusögu">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateAuto2.label               "Setja sjálfvirkt inn uppfærslur (mælt með: eykur öryggi)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Athuga með uppfærslur, en leyfa mér að velja hvenær á að setja þær upp">
+<!ENTITY updateCheckChoose2.accesskey    "t">
+<!ENTITY updateManual2.label             "Aldrei athuga með uppfærslur (ekki mælt með)">
+<!ENTITY updateManual2.accesskey         "l">
+
+<!ENTITY updateHistory2.label            "Sýna uppfærslusögu…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Nota bakgrunnsþjónustu til að setja inn uppfærslur">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Uppfæra sjálfvirkt">
-<!ENTITY enableSearchUpdate.label        "Leitarvélar">
-<!ENTITY enableSearchUpdate.accesskey    "e">
+<!ENTITY enableSearchUpdate2.label       "Uppfæra leitarvélar sjálfvirkt">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
+
+<!ENTITY reports.label                   "Skýrslur">
 
 <!ENTITY offlineStorageNotify.label               "Láta vita þegar vefsvæði biður um að geyma gögn fyrir ónettengda notkun">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Fjarlægja utankerfis gögn">
 
 <!ENTITY certificateTab.label            "Skilríki">
-<!ENTITY certPersonal.label              "Beiðnir">
-<!ENTITY certPersonal.description        "Þegar netþjónn biður um mitt skilríki:">
+<!ENTITY certPersonal2.description       "Þegar netþjónn biður um mitt skilríki">
 <!ENTITY selectCerts.auto                "Velja eitt sjálfvirkt">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Spyrja í hvert skipti">

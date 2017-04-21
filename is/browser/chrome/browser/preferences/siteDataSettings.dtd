@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Stillingar - Gögn vefsvæðis">
-<!ENTITY     settings.description          "Eftirfarandi vefsvæði báðu um leyfi til að geyma gögn á disknum. Þú getur skilgreint hvaða vefsvæði hafa leyfi til að geyma gögn á diski. Sjálfgefið er að gögn vefsvæðis séu geymd tímabundið og eytt sjálkfrafa.">
 <!ENTITY     hostCol.label                 "Vefsvæði">
 <!ENTITY     statusCol.label               "Staða">
 <!ENTITY     usageCol.label                "Geymsla">
-<!ENTITY     searchPlaceHolder             "Leita">
-<!ENTITY     searchPlaceHolder.accesskey   "L">
+
+
 <!ENTITY     removeSelected.label          "Fjarlægja valið">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Vista breytingar">
@@ -16,5 +15,5 @@
 <!ENTITY     cancel.label                  "Hætta við">
 <!ENTITY     cancel.accesskey              "H">
 <!ENTITY     removingDialog.title          "Fjarlægja gögn vefsvæðis">
-<!ENTITY     removingDialog.description    "Ef þú fjarlægir vefsvæðisgögn verða smákökur einnig fjarlægðar. Hugsanlega gæti þetta leitt til þess að þú yrðir skráður út af vefsvæðum og ónettengd efni yrði fjarlægt. Ertu viss um að þú viljir gera þessar breytingar?">
+
 <!ENTITY     siteTree.label                "Eftirfarandi smákökur verða fjarlægðar:">

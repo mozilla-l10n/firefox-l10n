@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Endurnýja sjálfkrafa á 3 sekúndna fresti">
 <!ENTITY aboutNetworking.hostname              "Hýsitölva">
 <!ENTITY aboutNetworking.port                  "Gátt">
-<!ENTITY aboutNetworking.spdy                  "SPDY">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Virkur">
 <!ENTITY aboutNetworking.idle                  "Aðgerðalaus">

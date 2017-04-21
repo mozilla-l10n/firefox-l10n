@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Ræsing">
 
-<!ENTITY startupPage.label         "Þegar &brandShortName; ræsist:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage2.label        "Þegar &brandShortName; ræsir">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Sýna mína heimasíðu">
 <!ENTITY startupBlankPage.label    "Sýna tóma síðu">
 <!ENTITY startupPrevSession.label  "Sýna flipa og glugga frá seinustu keyrslu">
 
-<!ENTITY homepage.label            "Heimasíða:">
-<!ENTITY homepage.accesskey        "i">
+<!ENTITY homepage2.label           "Heimasíða">
+<!ENTITY homepage2.accesskey       "i">
 <!ENTITY useCurrentPage.label      "Nota núverandi síðu">
 <!ENTITY useCurrentPage.accesskey  "o">
 <!ENTITY useMultiple.label         "Nota núverandi síður">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Leyfa &brandShortName; og Firefox að keyra á sama tíma">
 <!ENTITY useFirefoxSync.label             "Ábending: Þetta notar aðskilda reikninga. Notaðu Sync til að deila gögnum á milli þeirra.">
-<!ENTITY getStarted.label                 "Byrja að nota Sync…">
+<!ENTITY getStarted.notloggedin.label     "Skráðu þig inn í &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Opna &syncBrand.shortName.label; stillingar">
 
 <!ENTITY e10sEnabled.label                "Virkja fjölþráða &brandShortName;">

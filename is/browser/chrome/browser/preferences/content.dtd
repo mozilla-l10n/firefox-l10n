@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Letur og litir">
 
-<!ENTITY  defaultFont.label           "Leturgerð:">
-<!ENTITY  defaultFont.accesskey       "e">
-<!ENTITY  defaultSize.label           "Stærð:">
-<!ENTITY  defaultSize.accesskey       "S">
+<!ENTITY  defaultFont2.label          "Sjálfgefinn leturgerð">
+<!ENTITY  defaultFont2.accesskey      "ð">
+<!ENTITY  defaultSize2.label          "Stærð">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Frekari stillingar…">
 <!ENTITY  advancedFonts.accesskey     "a">

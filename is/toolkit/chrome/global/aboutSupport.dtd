@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Útgáfa">
 <!ENTITY aboutSupport.extensionId "Auðkenni">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; eiginleikar">
+<!ENTITY aboutSupport.featureName "Nafn">
+<!ENTITY aboutSupport.featureVersion "Útgáfa">
+<!ENTITY aboutSupport.featureId "Auðkenni">
+
 <!ENTITY aboutSupport.experimentsTitle "Tilraunakenndir eiginleikar">
 <!ENTITY aboutSupport.experimentName "Nafn">
 <!ENTITY aboutSupport.experimentId "Auðkenni">

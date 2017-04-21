@@ -2,8 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Almennt">
-
 <!ENTITY  warnOnAddonInstall.label        "Vara við þegar vefsvæði reynir að setja inn viðbætur">
 <!ENTITY  warnOnAddonInstall.accesskey    "V">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -24,10 +22,7 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
-<!ENTITY  logins.label                  "Innskráningar">
 
-<!ENTITY  rememberLogins.label          "Muna innskráningar fyrir vefsvæði">
-<!ENTITY  rememberLogins.accesskey      "r">
 <!ENTITY  passwordExceptions.label      "Undanþágur…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
