@@ -23,6 +23,5 @@
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox 帳號">
 
-<!ENTITY  helpButton.label        "說明">
 
-<!ENTITY searchInput.label        "搜尋">
+<!ENTITY  searchInput.label        "搜尋">
