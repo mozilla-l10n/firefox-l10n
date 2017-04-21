@@ -32,4 +32,3 @@
 <!ENTITY loaddevice.browse                      "Pretraži...">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title                       "Učitaj PKCS#11 uređaj">

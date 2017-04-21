@@ -81,21 +81,21 @@
 
 <!ENTITY updateTab.label                 "Nadogradnje">
 
-<!ENTITY updateAuto1.label               "Automatski instaliraj dopune (preporučeno: sigurnije)">
-<!ENTITY updateAuto1.accesskey           "A">
 
 
-<!ENTITY updateManual.label              "Nikada ne provjeravaj dostupnost dopuna (nije preporučeno: sigurnosni rizik)">
-<!ENTITY updateManual.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Prikaži povijest nadogradnji">
-<!ENTITY updateHistory.accesskey         "d">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Koristi pozadinski servis za instalaciju dopuna">
 <!ENTITY useService.accesskey            "K">
 
-<!ENTITY enableSearchUpdate.label        "Pretraživače">
-<!ENTITY enableSearchUpdate.accesskey    "t">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Iznimke…">
@@ -108,7 +108,6 @@
 <!ENTITY offlineAppRemove.confirm        "Ukloni izvanmrežne podatke">
 
 <!ENTITY certificateTab.label            "Certifikati">
-<!ENTITY certPersonal.label              "Zahtjevi">
 
 <!ENTITY selectCerts.auto                "Automatski označi jednoga">
 
