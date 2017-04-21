@@ -198,15 +198,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Far un clic dreit o clicar en desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY backForwardButtonMenuMac.tooltip "Clicar en tot desplaçant la mirga cap aval per afichar l'istoric">
 <!ENTITY reloadCmd.label              "Actualizar">
-<!ENTITY reloadButton.tooltip         "Actualizar la pagina correnta">
 <!ENTITY stopCmd.label                "Arrestar">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Arrestar lo cargament de la pagina">
 <!ENTITY goEndCap.tooltip             "Anar a la pagina indicada dins la barra d'adreça">
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir aquesta pagina">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
+
 
 
 
@@ -229,11 +228,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
-
 <!ENTITY searchItem.title             "Recercar">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Acuèlh">
 
@@ -367,6 +366,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
 
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
+
 
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
@@ -763,6 +763,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Onglets d'autres aparelhs">
 
 <!ENTITY syncSignIn.label             "Se connectar a &syncBrand.shortName.label;">
@@ -875,3 +877,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
