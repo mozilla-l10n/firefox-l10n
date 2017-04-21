@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Ativadas">
 <!ENTITY pref_home_updates_wifi "Apenas em Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página inicial">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Utilizar também para novos separadores">
 <!ENTITY home_homepage_title "Definir uma página inicial">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "Separadores personalizados">
 <!ENTITY pref_custom_tabs_summary3 "Permitir que as aplicações abram websites utilizando uma versão personalizada do &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Abrir no &formatS;">
+<!ENTITY custom_tabs_menu_footer "Disponibilizado pelo &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL copiado">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Canal de atividades">
@@ -350,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "Ativados">
 <!ENTITY pref_plugins_tap_to_play2 "Toque para reproduzir">
 <!ENTITY pref_plugins_disabled "Desativados">
-<!ENTITY pref_text_size "Tamanho do texto">
 <!ENTITY pref_restore_tabs "Restaurar separadores">
 <!ENTITY pref_restore_always "Restaurar sempre">
 <!ENTITY pref_restore_quit "Não restaurar depois de sair do &brandShortName;">
-<!ENTITY pref_font_size_tiny "Minúscula">
-<!ENTITY pref_font_size_small "Pequena">
-<!ENTITY pref_font_size_medium "Média">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Muito grande">
-<!ENTITY pref_font_size_set "Definir">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "A rápida raposa laranja salta por cima das suas expetativas com mais velocidade, maior flexibilidade e mais segurança. Como não temos fins lucrativos, somos livres para inovar em seu nome sem qualquer pressão ou compromisso. Isto significa uma melhor experiência para si e um futuro brilhante para a Web.">
+<!ENTITY pref_use_system_font_size "Utilizar tipo de letra do sistema">
+<!ENTITY pref_use_system_font_size_summary "Escalar conteúdo web de acordo com o tamanho do tipo de letra do sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Define se os websites podem reproduzir automaticamente vídeos e outros tipos de conteúdos multimédia">
@@ -500,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Abrir num separador privado">
 <!ENTITY contextmenu_remove "Remover">
 <!ENTITY contextmenu_add_to_launcher "Adicionar ao ecrã inicial">
+<!ENTITY contextmenu_set_as_homepage "Definir como página inicial">
 <!ENTITY contextmenu_share "Partilhar">
 <!ENTITY contextmenu_pasteandgo "Colar e ir">
 <!ENTITY contextmenu_paste "Colar">
@@ -766,7 +764,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      clicks a link that will open an external Android application. "&formatS;"
      will be replaced with the name of the application that will be opened. -->
 
-<!ENTITY intent_uri_private_browsing_prompt "Esta ligação irá ser apresentada no &formatS;. Tem a certeza de que pretende sair da navegação privada?">
+<!ENTITY intent_uri_private_browsing_prompt "Esta ligação irá ser aberta no &formatS;. Tem a certeza de que pretende sair da navegação privada?">
 <!-- LOCALIZATION NOTE (intent_uri_private_browsing_multiple_match_title): This
      string will appear as the title of an alert when a user, who is currently
      in private browsing, clicks a link that will open an external Android
@@ -774,7 +772,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      We don't have control over the style of this dialog and it looks
      unpolished when this string is longer than one line so ideally keep it
      short! -->
-<!ENTITY intent_uri_private_browsing_multiple_match_title "Sair do modo de navegação privada?">
+<!ENTITY intent_uri_private_browsing_multiple_match_title "Sair da navegação privada?">
 <!-- DevTools Authentication -->
 <!-- LOCALIZATION NOTE (devtools_auth_scan_header): This header text appears
      above a QR reader that is actively scanning for QR codes.  The expected QR
