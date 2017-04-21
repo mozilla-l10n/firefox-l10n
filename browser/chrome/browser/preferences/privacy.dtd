@@ -11,6 +11,8 @@
 
 
 
+
+
 <!ENTITY tracking.label                 "অনুসৰণ কৰা">
 
 
@@ -24,7 +26,6 @@
 
 
 <!ENTITY  locationBar.label             "অৱস্থান বাৰ">
-
 
 
 
@@ -55,8 +56,7 @@
 <!ENTITY  showCookies.label             "কুকিসমূহ দেখুৱাওক…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; এ চিহ্নিত কাৰ্য্য কৰিব:">
-<!ENTITY  historyHeader.pre.accesskey      "w">
+
 <!ENTITY  historyHeader.remember.label     "ইতিহাস মনত ৰাখক">
 <!ENTITY  historyHeader.dontremember.label "ইতিহাস কেতিয়াও মনত নাৰাখিব">
 <!ENTITY  historyHeader.custom.label       "ইতিহাসৰ বাবে স্বনিৰ্বাচিত সংহতিসমূহ ব্যৱহাৰ কৰক">
