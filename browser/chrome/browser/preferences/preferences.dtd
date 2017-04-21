@@ -13,17 +13,12 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 56em; min-height: 47em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Ердийн">
-<!ENTITY  paneTabs.title          "Самбар">
-<!ENTITY  paneSearch.title        "Хайх">
-<!ENTITY  paneContent.title       "Вэб бүтэц">
-<!ENTITY  paneApplications.title  "Програмууд">
-<!ENTITY  panePrivacy.title       "Хувийн нууц">
+<!ENTITY  paneGeneral.title             "Ердийн">
 
-<!ENTITY  paneSecurity.title      "Нууцлал">
-<!ENTITY  paneAdvanced.title      "Нэмэлт">
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 
-<!ENTITY  paneSync.title          "Зэрэг Цагжуулах">
 
-<!ENTITY  helpButton.label        "Тусламж">
+
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+
+<!ENTITY  searchInput.label        "Хайх">

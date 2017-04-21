@@ -88,6 +88,7 @@
 
 
 
+
 <!ENTITY offlineStorageNotifyExceptions.label     "Онцгой нөхцөл…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "ц">
 
@@ -97,7 +98,6 @@
 <!ENTITY offlineAppRemove.confirm        "Салангид өгөгдлийг устгах">
 
 <!ENTITY certificateTab.label            "Гэрчилгээ">
-
 
 <!ENTITY selectCerts.auto                "Нэгийг автоматаар сонго">
 
