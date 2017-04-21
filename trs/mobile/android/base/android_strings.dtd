@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Ngà \u0027iaj sunj">
 <!ENTITY pref_home_updates_wifi "Man nga Wi-Fi">
 <!ENTITY pref_category_home_homepage "Ñanj ayi\u0027ì\u0027">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Gachrun\u0027 ñanj ayi\u0027ì\u0027">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Rakij ñanj nagi\u0027iô\u0027">
 <!ENTITY pref_custom_tabs_summary3 "Ga\u0027nin da\u0027 na\u0027nin ma nej web daj anin ru ma\u0027an &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "A\u0027ngo gurin sun huaa">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Ngà huaj">
 <!ENTITY pref_plugins_tap_to_play2 "Gruyru\u0027ma ra\u0027a da\u0027 gayi\u0027ij">
 <!ENTITY pref_plugins_disabled "Ganikinj">
-<!ENTITY pref_text_size "Daj ganikó da\u0027nga">
 <!ENTITY pref_restore_tabs "Nagui\u0027iaj nako\u0027 rakij man">
 <!ENTITY pref_restore_always "Nagui\u0027iaj naka">
 <!ENTITY pref_restore_quit "Si nagui\u0027io\u0027 nga gahui\u0027 riñan &brandShortName;">
-<!ENTITY pref_font_size_tiny "Sa kan li">
-<!ENTITY pref_font_size_small "Sa hua li">
-<!ENTITY pref_font_size_medium "Sa danin">
-<!ENTITY pref_font_size_large "Yachij">
-<!ENTITY pref_font_size_xlarge "Sa niko xi">
-<!ENTITY pref_font_size_set "Nagui\u0027io\u0027">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "r">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Yune mare ni hìo doj achìn yu yichrá \u0027ngo sa anï ruhuâ yuj, sà\u0027 yu doj ni dugumî yu sò\u0027. \u0027Ngo yi\u0027nï\u0027 se san\u0027anj an nu kúhui huin ñuj, ni hua nika ruhuâ ñuj guendâ nagi\u0027iaj nakà ñuj sa huin ruhuât, dánj naj nitaj si ûta \u0027iaj nukuaj ñuj guendâ gi\u0027iaj sunt ngà ñuj. Sa gataj ñuj ruhuâ ñuj huin sisi ga doj sa gini\u0027înt ni hìo doj gi\u0027iaj sunt dànj naj ni ruguñu\u0027unjt gan\u0027anj web na ne\u0027 ñaa.">
 
 <!ENTITY pref_media_autoplay_enabled "Duguchrá ma\u0027an aga\u0027 nan">
 <!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\u0027ue nadigân man\u0027an sa nihià\u0027 ni\u0027io\u0027 nga a\u0027ngô ne sa siki\u0027 ni\u0027io\u0027">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Gana\u0027ni\u0027 riñan ñanj huii">
 <!ENTITY contextmenu_remove "Dure\u0027">
 <!ENTITY contextmenu_add_to_launcher "Gachrun riñan gayi\u0027i">
+
 <!ENTITY contextmenu_share "Duyingo\u0027">
 <!ENTITY contextmenu_pasteandgo "Gachrun ni gun\u0027">
 <!ENTITY contextmenu_paste "Gachrun">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Ga\u0027ue">
 <!ENTITY button_no "Si ga\u0027ue">
 <!ENTITY button_clear_data "Nadurê\u0027 nuguan\u0027an">
-<!ENTITY button_set "Nagi\u0027iaj yitïn\u0027">
+
 <!ENTITY button_clear "Na´nin">
 <!ENTITY button_copy "Guxun\u0027 ñadu\u0027ua">
 
