@@ -30,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "Konum çubuğu">
 
+<!ENTITY  locbar.suggest2.label         "Konum çubuğunu kullanırken şunları öner:">
 <!ENTITY  locbar.history.label          "Geçmiş">
 <!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Yer imleri">
@@ -39,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "Varsayılan arama motorundan gelen ilgili aramalar">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Arama motoru önerileri için tercihleri değiştir">
 
 <!ENTITY  acceptCookies.label           "Sitelerden çerezleri kabul et">
 <!ENTITY  acceptCookies.accesskey       "k">
@@ -61,6 +63,8 @@
 <!ENTITY  showCookies.label             "Çerezleri göster…">
 <!ENTITY  showCookies.accesskey         "ö">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "i">
 <!ENTITY  historyHeader.remember.label     "geçmişi hatırlasın">
 <!ENTITY  historyHeader.dontremember.label "geçmişi asla hatırlamasın">
 <!ENTITY  historyHeader.custom.label       "geçmiş için özel ayarları kullansın">

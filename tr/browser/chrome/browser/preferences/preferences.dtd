@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 50em; min-height: 50em">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 50em;">
 
+<!ENTITY  paneSearchResults.title       "Arama sonuçları">
 <!ENTITY  paneGeneral.title             "Genel">
+<!ENTITY  paneFilesApplications.title   "Dosyalar ve Uygulamalar">
+<!ENTITY  panePrivacySecurity.title     "Gizlilik ve Güvenlik">
 <!ENTITY  paneContainers.title          "Kapsayıcı sekmeler">
+<!ENTITY  paneUpdates.title             "Güncellemeler">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox Hesabı">
 
+<!ENTITY  helpButton2.label        "&brandShortName; Desteği">
 
+<!ENTITY  searchInput.label        "Arama">
