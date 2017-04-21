@@ -214,6 +214,8 @@
 <!ENTITY pref_home_updates_enabled "Galluogwyd">
 <!ENTITY pref_home_updates_wifi "Hanes pori a llwytho i lawr">
 <!ENTITY pref_category_home_homepage "Tudalen Cartref">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
 <!ENTITY home_homepage_title "Gosod fel y Dudalen Cartref">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +284,10 @@
 
 <!ENTITY pref_custom_tabs "Tabiau Cyfaddas">
 <!ENTITY pref_custom_tabs_summary3 "Caniatewch i apiau agor gwefannau gan ddefnyddio fersiwn cyfaddasedig o &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Ffrwd Gweithgaredd">
@@ -350,26 +356,12 @@
 <!ENTITY pref_plugins_enabled "Galluogwyd">
 <!ENTITY pref_plugins_tap_to_play2 "Cyffwrdd i chwarae">
 <!ENTITY pref_plugins_disabled "Analluogwyd">
-<!ENTITY pref_text_size "Maint testun">
 <!ENTITY pref_restore_tabs "Adfer tabiau">
 <!ENTITY pref_restore_always "Adfer bob tro">
 <!ENTITY pref_restore_quit "Peidio eu hadfer ar ôl gadael &brandShortName;">
-<!ENTITY pref_font_size_tiny "Bach Iawn">
-<!ENTITY pref_font_size_small "Bach">
-<!ENTITY pref_font_size_medium "Canolig">
-<!ENTITY pref_font_size_large "Mawr">
-<!ENTITY pref_font_size_xlarge "Mawr Iawn">
-<!ENTITY pref_font_size_set "Gosod">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Mae\u0027r llwynog oren cyflym yn neidio dros eich disgwyliadau gan fod yn fwy cyflym, mwy hyblyg a mwy diogel. Fel corff ddim-er-elw rydym yn rhydd i fod yn ddyfeisgar ar eich rhan heb bwysau i gyfaddawdu. Mae hyn y golygu gwell profiad i chi a dyfodol mwy disglair i\u0027r We.">
 
 <!ENTITY pref_media_autoplay_enabled "Caniatáu awtochwarae">
 <!ENTITY pref_media_autoplay_enabled_summary "Rheoli os yw gwefannau yn awtochwarae fideos neu gynnwys cyfrwng arall">
@@ -500,6 +492,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Agor mewn Tab Preifat">
 <!ENTITY contextmenu_remove "Tynnu">
 <!ENTITY contextmenu_add_to_launcher "Ychwanegu i’r Sgrin Cartref">
+
 <!ENTITY contextmenu_share "Rhannu">
 <!ENTITY contextmenu_pasteandgo "Gludo a Mynd">
 <!ENTITY contextmenu_paste "Gludo">
@@ -573,7 +566,7 @@ size. -->
 <!ENTITY button_yes "Iawn">
 <!ENTITY button_no "Na">
 <!ENTITY button_clear_data "Clirio data">
-<!ENTITY button_set "Gosod">
+
 <!ENTITY button_clear "Clirio">
 <!ENTITY button_copy "Torri">
 
