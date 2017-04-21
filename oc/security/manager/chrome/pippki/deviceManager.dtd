@@ -33,4 +33,3 @@
 <!ENTITY loaddevice.browse                      "Percórrer...">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
-<!ENTITY loaddevice.title                       "Cargar un periferic PKCS#11">

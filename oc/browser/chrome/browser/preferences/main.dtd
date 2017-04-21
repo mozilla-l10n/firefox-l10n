@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Aviada">
 
-<!ENTITY startupPage.label         "A l'aviada de &brandShortName; :">
-<!ENTITY startupPage.accesskey     "v">
+
 
 <!ENTITY startupBlankPage.label    "Afichar una pagina voida">
 
 
-<!ENTITY homepage.label            "Pagina d'acuèlh :">
-<!ENTITY homepage.accesskey        "a">
+
 <!ENTITY useCurrentPage.label      "Utilizar la pagina activa">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Utilizar las paginas activas">
@@ -38,5 +36,6 @@
 <!ENTITY isNotDefault.label               "&brandShortName; es pas vòstre navigador per defaut">
 
 
-<!ENTITY getStarted.label                 "Utilizar Sync…">
+
+
 

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Utilizar la proteccion contra lo seguiment">
+
 <!ENTITY  trackingProtectionAlways.label       "Totjorn">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
 <!ENTITY  trackingProtectionPrivate.label      "Soque las fenèstras privadas">
@@ -30,14 +30,12 @@
 
 <!ENTITY  locationBar.label             "Barra d'adreça">
 
-<!ENTITY  locbar.suggest.label          "Quand utilizi la barra d'adreça, suggerir :">
 <!ENTITY  locbar.history.label          "Istoric">
 <!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Favorits">
 <!ENTITY  locbar.bookmarks.accesskey    "F">
 <!ENTITY  locbar.openpage.label         "Dobrir los onglets">
 <!ENTITY  locbar.openpage.accesskey     "D">
-
 
 
 
@@ -63,8 +61,7 @@
 <!ENTITY  showCookies.label             "Afichar los cookies…">
 <!ENTITY  showCookies.accesskey         "k">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; poirá :">
-<!ENTITY  historyHeader.pre.accesskey      "p">
+
 <!ENTITY  historyHeader.remember.label     "Conservar l'istoric">
 <!ENTITY  historyHeader.dontremember.label "Conservar pas jamai l'istoric">
 <!ENTITY  historyHeader.custom.label       "Utilizar los paramètres personalizats per l'istoric">

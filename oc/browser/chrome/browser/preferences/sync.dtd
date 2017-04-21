@@ -52,12 +52,13 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cambiar la fòto de perfil de l'utilizaire">
 <!ENTITY verifiedManage.label        "Gestion del compte">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Desconnectar...">
-<!ENTITY disconnect.accesskey        "D">
+
+
 <!ENTITY verify.label                "Verificar l'adreça electronica">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Doblidar aquesta adreça electronica">
 <!ENTITY forget.accesskey            "b">
+
 
 
 

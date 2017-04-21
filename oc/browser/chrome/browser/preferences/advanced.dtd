@@ -80,21 +80,21 @@
 
 <!ENTITY updateTab.label                 "Metre a jorn">
 
-<!ENTITY updateAuto1.label               "Installar automaticament las mesas a jorn (recomandat per vòstra seguretat)">
-<!ENTITY updateAuto1.accesskey           "a">
 
 
-<!ENTITY updateManual.label              "Verificar pas jamai las mesas a jorn (desconselhat, aquò representa un risc de seguretat)">
-<!ENTITY updateManual.accesskey          "V">
 
-<!ENTITY updateHistory.label             "Afichar l'istoric de las mesas a jorn">
-<!ENTITY updateHistory.accesskey         "h">
+
+
+
+
+
+
 
 <!ENTITY useService.label                "Utilizar un servici en rèireplan per installar las mesas a jorn">
 <!ENTITY useService.accesskey            "z">
 
-<!ENTITY enableSearchUpdate.label        "Los motors de recèrca">
-<!ENTITY enableSearchUpdate.accesskey    "m">
+
+
 
 
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
@@ -107,7 +107,6 @@
 <!ENTITY offlineAppRemove.confirm        "Suprimir las donadas fòra connexion">
 
 <!ENTITY certificateTab.label            "Certificats">
-
 
 <!ENTITY selectCerts.auto                "ne seleccionar un automaticament">
 
