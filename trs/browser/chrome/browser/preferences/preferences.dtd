@@ -12,12 +12,11 @@
 
 
 
-<!ENTITY  paneSearch.title        "Nana’ui">
 
 
 
 
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-
+<!ENTITY  searchInput.label        "Nana’ui">
