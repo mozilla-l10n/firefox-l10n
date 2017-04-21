@@ -214,6 +214,9 @@
 <!ENTITY pref_home_updates_enabled "Yoqib qo‘yilgan">
 <!ENTITY pref_home_updates_wifi "Faqat Wi-Fi orqali">
 <!ENTITY pref_category_home_homepage "Uy sahifasi">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Yangi ichki oynalar uchun ham foydalanish">
 <!ENTITY home_homepage_title "Bosh sahifa sifatida o‘rnatish">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +285,12 @@
 
 <!ENTITY pref_custom_tabs "Boshqa ichki oynalar">
 <!ENTITY pref_custom_tabs_summary3 "Ilovalarga &brandShortName; yordamida saytlarni ochishga ruxsat berish">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS;da ochish">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; tomonidan tuzilgan">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Manzildan nusxa olindi">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Faoliyat oqimi">
@@ -350,26 +359,14 @@
 <!ENTITY pref_plugins_enabled "Yoqib qo‘yilgan">
 <!ENTITY pref_plugins_tap_to_play2 "Boshlash uchun bosing">
 <!ENTITY pref_plugins_disabled "O‘chirib qo‘yilgan">
-<!ENTITY pref_text_size "Matn hajmi">
 <!ENTITY pref_restore_tabs "Ichki oynalarni tiklash">
 <!ENTITY pref_restore_always "Doimo tiklash">
 <!ENTITY pref_restore_quit "&brandShortName;dan chiqqandan so‘ng tiklanmasin">
-<!ENTITY pref_font_size_tiny "Mayda">
-<!ENTITY pref_font_size_small "Kichkina">
-<!ENTITY pref_font_size_medium "O‘rtacha">
-<!ENTITY pref_font_size_large "Katta">
-<!ENTITY pref_font_size_xlarge "O‘ta katta">
-<!ENTITY pref_font_size_set "O‘rnatish">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
 
-<!ENTITY pref_font_size_preview_text "Tezkor qizil tulki siz kutganingizdek katta tezlik va o‘ta chaqqonlik  bilan hamda xavfsiz ravishda sakraydi. Notijorat tashkilot sifatida biz sizning tashabbuslaringizni erkin qo‘llab-quvvatlaymiz. Bu degani, siz zo‘r tajribaga ega bo‘lasiz, internet esa yorqin kelajakka ega bo‘ladi.">
+<!ENTITY pref_use_system_font_size "Tizim shriftidan foydalanish">
+<!ENTITY pref_use_system_font_size_summary "Veb saytlarni tizim shrifti hajmiga moslash">
 
 <!ENTITY pref_media_autoplay_enabled "Avto ijro etishga ruxsat berish">
 <!ENTITY pref_media_autoplay_enabled_summary "Agar vebsaytlar videolar va boshqa media tarkiblarni avto ijro etilsa, boshqarilsin">
@@ -500,6 +497,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Maxfiy ichki oynada ochish">
 <!ENTITY contextmenu_remove "Olib tashlash">
 <!ENTITY contextmenu_add_to_launcher "Uy ekraniga qo‘shish">
+<!ENTITY contextmenu_set_as_homepage "Bosh sahifa sifatida tayinlash">
 <!ENTITY contextmenu_share "Bo‘lishish">
 <!ENTITY contextmenu_pasteandgo "Qo‘yish va o‘tish">
 <!ENTITY contextmenu_paste "Qoʻyish">
@@ -573,7 +571,7 @@ size. -->
 <!ENTITY button_yes "Ha">
 <!ENTITY button_no "Yo‘q">
 <!ENTITY button_clear_data "Ma’lumotlarni tozalash">
-<!ENTITY button_set "O‘rnatish">
+<!ENTITY button_set "Tayinlash">
 <!ENTITY button_clear "Tozalash">
 <!ENTITY button_copy "Nusxa olish">
 
