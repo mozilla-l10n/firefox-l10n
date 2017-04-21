@@ -18,7 +18,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "Р">
 <!ENTITY  autoTypeRadio.label           "URL самостално постављање проксија:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Опет учитај">
+<!ENTITY  reload.label                  "Обнови">
 <!ENTITY  reload.accesskey              "О">
 <!ENTITY  ftp.label                     "FTP прокси:">
 <!ENTITY  ftp.accesskey                 "F">
