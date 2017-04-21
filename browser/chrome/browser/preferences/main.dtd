@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Begin">
 
-<!ENTITY startupPage.label         "Wanneer &brandShortName; begin:">
-<!ENTITY startupPage.accesskey     "b">
+
 <!ENTITY startupUserHomePage.label "Wys my tuisblad">
 <!ENTITY startupBlankPage.label    "Wys 'n leë bladsy">
 <!ENTITY startupPrevSession.label  "Wys die vensters en oortjies van laas keer">
 
-<!ENTITY homepage.label            "Tuisblad:">
-<!ENTITY homepage.accesskey        "b">
+
 <!ENTITY useCurrentPage.label      "Gebruik huidige bladsy">
 <!ENTITY useCurrentPage.accesskey  "G">
 <!ENTITY useMultiple.label         "Gebruik huidige bladsye">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Laat &brandShortName; en Firefox toe om gelyktydig te loop">
 <!ENTITY useFirefoxSync.label             "Wenk: Dit gebruik aparte profiele. Gebruik Sync om data tussen hulle te deel.">
-<!ENTITY getStarted.label                 "Begin Sync te gebruik…">
+
+
 
 <!ENTITY e10sEnabled.label                "Aktiveer veelvuldige prosesse in &brandShortName;">

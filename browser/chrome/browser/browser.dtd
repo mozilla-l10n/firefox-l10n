@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Klik regs of trek af om geskiedenis te wys">
 <!ENTITY backForwardButtonMenuMac.tooltip "Trek af om geskiedenis te wys">
 <!ENTITY reloadCmd.label              "Herlaai">
-<!ENTITY reloadButton.tooltip         "Herlaai huidige bladsy">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Hou op om hierdie bladsy te laai">
 <!ENTITY goEndCap.tooltip             "Gaan na die adres in die adresbalk">
 <!ENTITY printButton.label            "Druk">
 <!ENTITY printButton.tooltip          "Druk hierdie bladsy">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Open paneel vir die stoor van wagwoorde">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bestuur gebruik van inproppe">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Verander of boodskappe van dié werf ontvang kan word">
+
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bestuur die deel van die mikrofoon met die werf">
@@ -232,12 +231,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "U het die datastoorplek geblok vir dié webwerf.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U het kennisgewings geblok vir dié webwerf.">
 
+
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Wys geskiedenis">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Stel zoemvlak terug">
-
 <!ENTITY searchItem.title             "Soek">
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Tuis">
 
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-voorkeure">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld aan om 'n lys oortjies van ander toestelle te sien.">
 <!ENTITY appMenuRemoteTabs.signin.label "Meld aan by Sync">
+
 <!ENTITY appMenuRemoteTabs.sidebar.label "Wys kantbalk met gesinkroniseerde oortjies">
 
 <!ENTITY customizeMenu.addToToolbar.label "Voeg by nutsbalk">
@@ -788,6 +787,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 
 
+
+
 <!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Meld aan by &syncBrand.shortName.label;…">
@@ -900,3 +901,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Meer inligting oor DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
