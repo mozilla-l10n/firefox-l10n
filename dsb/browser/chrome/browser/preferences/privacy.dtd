@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Slědowański šćit wužywaś">
+<!ENTITY  trackingProtectionHeader2.label      "Slědowański šćit">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Pśecej">
 <!ENTITY  trackingProtectionAlways.accesskey   "c">
 <!ENTITY  trackingProtectionPrivate.label      "Jano w priwatnych woknach">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Adresowe pólo">
 
-<!ENTITY  locbar.suggest.label          "Pśi wužywanju adresowego póla naraźiś:">
+<!ENTITY  locbar.suggest2.label         "Pśi wužywanju adresowego póla ma se naraźiś">
 <!ENTITY  locbar.history.label          "Historija">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Cytańske znamjenja">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Pśiswójźbne pytanja ze standardneju pytnicu">
 <!ENTITY  locbar.searches.accesskey     "s">
 
-<!ENTITY  suggestionSettings.label      "Nastajenja za naraźenja pytnice změniś…">
-<!ENTITY  suggestionSettings.accesskey  "s">
+<!ENTITY  suggestionSettings2.label     "Nastajenja za naraźenja pytnice změniś">
 
 <!ENTITY  acceptCookies.label           "Cookieje ze sedłow akceptěrowaś">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Cookieje pokazaś…">
 <!ENTITY  showCookies.accesskey         "C">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; buźo:">
-<!ENTITY  historyHeader.pre.accesskey      "b">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; buźo">
+<!ENTITY  historyHeader2.pre.accesskey     "b">
 <!ENTITY  historyHeader.remember.label     "Se historiju spomnjeś">
 <!ENTITY  historyHeader.dontremember.label "Se historiju nigda njespomnjeś">
 <!ENTITY  historyHeader.custom.label       "Swójske nastajenja za historiju wužywaś">

@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mě rěda">
-<!ENTITY changeSyncDeviceName.label "Mě rěda změniś…">
-<!ENTITY changeSyncDeviceName.accesskey "z">
+<!ENTITY changeSyncDeviceName1.label "Mě rěda změniś">
+<!ENTITY changeSyncDeviceName1.accesskey "z">
 <!ENTITY cancelChangeSyncDeviceName.label "Pśetergnuś">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Składowaś">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změniś">
 <!ENTITY verifiedManage.label        "Konto zastojaś">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect.label            "Zwisk źěliś…">
-<!ENTITY disconnect.accesskey        "Z">
+<!ENTITY disconnect2.label           "Zwisk źěliś">
+<!ENTITY disconnect2.accesskey       "Z">
 <!ENTITY verify.label                "E-mail pśeglědaś">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Toś tu e-mail zabyś">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Pśizjawiś">
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
-<!ENTITY signedIn.engines.label       "Mjazy wšymi rědami synchronizěrowaś">
+<!ENTITY signedIn.settings.label       "Nastajenja synchronizacije">
+<!ENTITY signedIn.settings.description "Wubjeŕśo, což ma se z &brandShortName; na wašych rědach synchronizěrowaś.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

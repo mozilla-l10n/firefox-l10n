@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Startowaś">
 
-<!ENTITY startupPage.label         "Gaž &brandShortName; se startujo:">
-<!ENTITY startupPage.accesskey     "G">
+<!ENTITY startupPage2.label        "Gaž &brandShortName; se startujo">
+<!ENTITY startupPage2.accesskey    "G">
 <!ENTITY startupUserHomePage.label "Waš startowy bok pokazaś">
 <!ENTITY startupBlankPage.label    "Prozny bok pokazaś">
 <!ENTITY startupPrevSession.label  "Waše wokna a rejtarki wót slědnego raza pokazaś">
 
-<!ENTITY homepage.label            "Startowy bok:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage2.label           "Startowy bok">
+<!ENTITY homepage2.accesskey       "S">
 <!ENTITY useCurrentPage.label      "Aktualny bok wužywaś">
 <!ENTITY useCurrentPage.accesskey  "A">
 <!ENTITY useMultiple.label         "Aktualne boki wužywaś">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; a Firefox dowóliś, rownocasnje běžaś">
 <!ENTITY useFirefoxSync.label             "Tip: To wužywa separatne profile. Wužywajśo Sync, aby daty mjazy nimi źělił.">
-<!ENTITY getStarted.label                 "Sync startowaś…">
+<!ENTITY getStarted.notloggedin.label     "Se pla &amp;syncBrand.shortName.label pśizjawiś…">
+<!ENTITY getStarted.configured.label      "Nastajenja &syncBrand.shortName.label; wócyniś">
 
 <!ENTITY e10sEnabled.label                "Wěcejprocesowy &brandShortName; zmóžniś">
