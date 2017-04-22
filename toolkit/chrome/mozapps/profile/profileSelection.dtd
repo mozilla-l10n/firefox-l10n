@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "С">
 <!ENTITY            renameButton.label     "Перейменувати…">
 <!ENTITY            renameButton.accesskey "П">
-<!ENTITY            deleteButton.label     "Вилучити…">
+<!ENTITY            deleteButton.label     "Видалити…">
 <!ENTITY            deleteButton.accesskey "В">
 
 <!-- manager entities -->
