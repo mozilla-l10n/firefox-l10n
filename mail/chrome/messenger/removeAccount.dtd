@@ -4,6 +4,7 @@
 
 <!ENTITY dialogTitle                  "Fjern konto og data">
 <!ENTITY removeButton.label           "Fjern">
+<!ENTITY removeButton.accesskey       "F">
 <!ENTITY removeAccount.label          "Fjern kontoinformasjon">
 <!ENTITY removeData.label             "Fjern meldingsdata">
 <!ENTITY removeDataChat.label         "Fjern samtaledata">
