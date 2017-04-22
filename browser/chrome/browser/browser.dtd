@@ -549,78 +549,78 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ...">
 <!ENTITY emailVideoCmd.accesskey      "">
 <!ENTITY castVideoCmd.label           "ផ្ញើ​វីដេអូ​ទៅឧបករណ៍">
-<!ENTITY castVideoCmd.accesskey       "e">
+<!ENTITY castVideoCmd.accesskey       "">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែលអូឌីយ៉ូ...">
-<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY emailAudioCmd.accesskey      "">
 <!ENTITY playPluginCmd.label          "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម">
-<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY playPluginCmd.accesskey      "">
 <!ENTITY hidePluginCmd.label          "លាក់​កម្មវិធី​ជំនួយ​នេះ">
-<!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY hidePluginCmd.accesskey      "">
 <!ENTITY copyLinkCmd.label            "ចម្លង​ទីតាំង​តំណ">
-<!ENTITY copyLinkCmd.accesskey        "a">
+<!ENTITY copyLinkCmd.accesskey        "">
 <!ENTITY copyImageCmd.label           "ចម្លង​ទីតាំង​រូបភាព">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "">
 <!ENTITY copyImageContentsCmd.label   "ចម្លង​រូបភាព">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  ""> 
 <!ENTITY copyVideoURLCmd.label        "ចម្លង​ទីតាំង​វីដេអូ">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "">
 <!ENTITY copyAudioURLCmd.label        "ចម្លង​ទីតាំង​អូឌីយ៉ូ">
-<!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyAudioURLCmd.accesskey    "">
 <!ENTITY copyEmailCmd.label           "ចម្លង​អាសយដ្ឋានអ៊ីមែល">
-<!ENTITY copyEmailCmd.accesskey       "E">
+<!ENTITY copyEmailCmd.accesskey       "">
 <!ENTITY thisFrameMenu.label              "ស៊ុម​នេះ">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "ចាក់">
-<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.accesskey         "">
 <!ENTITY mediaPause.label            "ផ្អាក">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "បិទ​សំឡេង">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.accesskey         "">
 <!ENTITY mediaUnmute.label           "បើក​សំឡេង">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "">
 <!ENTITY mediaPlaybackRate2.label     "ល្បឿន​លេង">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate2.accesskey "">
 <!ENTITY mediaPlaybackRate050x2.label "យឺត (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "">
 <!ENTITY mediaPlaybackRate100x2.label "ធម្មតា">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate100x2.accesskey "">
 <!ENTITY mediaPlaybackRate125x2.label "លឿន (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "">
 <!ENTITY mediaPlaybackRate150x2.label "លឿន (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!ENTITY mediaPlaybackRate150x2.accesskey "">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "Ludicrous (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.accesskey "">
 <!ENTITY mediaLoop.label             "រង្វិល​ជុំ">
-<!ENTITY mediaLoop.accesskey         "L">
+<!ENTITY mediaLoop.accesskey         "">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "បង្ហាញវត្ថុ​បញ្ជា">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.accesskey "">
 <!ENTITY mediaHideControls.label     "លាក់វត្ថុ​បញ្ជា">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.accesskey "">
 <!ENTITY videoFullScreen.label       "ពេញ​អេក្រង់">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.accesskey   "">
 <!ENTITY videoSaveImage.label        "រក្សាទុក​រូបថត​ជា...">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.accesskey    "">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "បង្ហាញស្ថិតិ">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "">
 <!ENTITY videoHideStats.label        "លាក់ស្ថិតិ">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -640,27 +640,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
-<!ENTITY fullZoomResetCmd.accesskey     "R">
+<!ENTITY fullZoomResetCmd.accesskey     "">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ពង្រីក​តែអត្ថបទ​ប៉ុណ្ណោះ ">
-<!ENTITY fullZoomToggleCmd.accesskey    "T">
+<!ENTITY fullZoomToggleCmd.accesskey    "">
 <!ENTITY fullZoom.label                 "ពង្រីក">
-<!ENTITY fullZoom.accesskey             "Z">
+<!ENTITY fullZoom.accesskey             "">
 
 <!ENTITY sidebarCloseButton.tooltip     "បិទ​របារ​ចំហៀង">
 
 <!ENTITY quitApplicationCmdWin2.label       "ចេញ">
-<!ENTITY quitApplicationCmdWin2.accesskey   "x">
+<!ENTITY quitApplicationCmdWin2.accesskey   "">
 <!ENTITY quitApplicationCmdWin2.tooltip     "បិទ &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ចេញ"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "">
 <!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmdUnix.key     "">
 
 <!ENTITY closeCmd.label                 "បិទ">  
 <!ENTITY closeCmd.key                   "W">  
