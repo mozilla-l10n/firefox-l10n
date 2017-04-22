@@ -905,7 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "Pemutakhiran &brandShorterName; terkini telah tersedia.">
 <!ENTITY updateAvailable.acceptButton.label "Unduh Pemutakhiran">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "Nanti">
+<!ENTITY updateAvailable.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Unduh pemutakhiran &brandShorterName;">
 
@@ -914,7 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "&brandShorterName; tidak dapat diperbarui ke versi terkini.">
 <!ENTITY updateManual.acceptButton.label "Unduh &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
-<!ENTITY updateManual.cancelButton.label "Nanti">
+<!ENTITY updateManual.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Unduh salinan baru &brandShorterName;">
 
