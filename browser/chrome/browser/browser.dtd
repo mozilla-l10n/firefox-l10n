@@ -373,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync-innstillingar">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Logg inn for å vise ei liste over faner frå andre einingar.">
 <!ENTITY appMenuRemoteTabs.signin.label "Logg inn på Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Handter einingar…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis sidestolpe for synkroniserte faner">
 
 <!ENTITY customizeMenu.addToToolbar.label "Legg til i verktøylinje">
@@ -781,6 +782,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Opne alle i faner">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Handter einingar…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "H">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +899,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Les meir om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Oppdater &brandShorterName; for det siste innan fart og personvern.">
+<!ENTITY updateAvailable.whatsnew.label "Sjå kva som er nytt.">
+<!ENTITY updateAvailable.header.message "Ei ny &brandShorterName;-oppdatering er tilgjengeleg.">
+<!ENTITY updateAvailable.acceptButton.label "Last ned oppdatering">
+<!ENTITY updateAvailable.acceptButton.accesskey "L">
+<!ENTITY updateAvailable.cancelButton.label "Ikkje no">
+<!ENTITY updateAvailable.cancelButton.accesskey "k">
+<!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
+<!ENTITY updateManual.whatsnew.label "Sjå kva som er nytt.">
+<!ENTITY updateManual.acceptButton.label "Last ned &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "L">
+<!ENTITY updateManual.cancelButton.label "Ikkje no">
+<!ENTITY updateManual.cancelButton.accesskey "n">
 
