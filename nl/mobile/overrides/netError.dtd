@@ -49,9 +49,9 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oei.">
+<!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan om de een of andere reden deze pagina niet laden.</p>
+<p>&brandShortName; kan deze pagina om de een of andere reden niet laden.</p>
 ">
 
 <!ENTITY malformedURI.title "Het adres is niet geldig">
@@ -163,10 +163,10 @@
 <!ENTITY nssBadCert.title "Beveiligde verbinding mislukt">
 <!ENTITY nssBadCert.longDesc2 "
 <ul>
-  <li>Dit kan een probleem met de serverconfiguratie zijn, of iemand probeert deze
+  <li>Dit kan een probleem met de serverconfiguratie zijn, of iemand probeert de
     server na te bootsen.</li>
-  <li>Als u in het verleden wel met succes verbinding hebt gemaakt met deze server, dan
-    is de fout wellicht tijdelijk en kunt u het later nogmaals proberen.</li>
+  <li>Als u in het verleden met succes verbinding met deze server hebt gemaakt, kan
+    de fout van tijdelijke aard zijn en kunt u het later nogmaals proberen.</li>
 </ul>
 ">
 
