@@ -15,6 +15,7 @@
 
 <!ENTITY  paneGeneral.title             "Generelt">
 <!ENTITY  paneContainers.title          "Innhaldsfaner">
+<!ENTITY  paneUpdates.title             "Oppdateringar">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
