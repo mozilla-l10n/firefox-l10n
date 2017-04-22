@@ -15,7 +15,7 @@
 <!ENTITY translation.thisPageIsIn.label         "Tato stránka je v jazyce">
 <!ENTITY translation.translateThisPage.label    "Přeložit tuto stránku?">
 <!ENTITY translation.translate.button           "Přeložit">
-<!ENTITY translation.notNow.button              "Nyní ne">
+<!ENTITY translation.notNow.button              "Teď ne">
 
 <!ENTITY translation.translatingContent.label   "Překlad obsahu stránky…">
 
