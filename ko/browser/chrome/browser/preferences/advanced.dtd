@@ -85,6 +85,7 @@
 
 <!ENTITY updateApplication.label         "&brandShortName; 업데이트">
 
+<!ENTITY updateHistory2.label            "업데이트 기록 보기…">
 
 <!ENTITY useService.label                "업데이트 설치 시 백그라운드 작업으로 하기">
 <!ENTITY useService.accesskey            "b">
