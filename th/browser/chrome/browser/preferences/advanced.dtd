@@ -86,15 +86,20 @@
 <!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
 <!ENTITY updateAuto2.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำสำหรับความปลอดภัยที่เพิ่มขึ้น)">
+<!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)">
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "แสดงประวัติการอัปเดต…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "รายงาน">
 

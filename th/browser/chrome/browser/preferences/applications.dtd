@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "แอปพลิเคชัน">
+<!ENTITY  applications.description "เลือกวิธีที่ &brandShortName; จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือโปรแกรมประยุกต์ที่คุณใช้ขณะเรียกดู">
 
 <!ENTITY  typeColumn.label        "ชนิดเนื้อหา">
 <!ENTITY  typeColumn.accesskey    "T">
