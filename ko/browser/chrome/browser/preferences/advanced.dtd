@@ -84,6 +84,7 @@
 <!ENTITY updateTab.label                 "업데이트">
 
 <!ENTITY updateApplication.label         "&brandShortName; 업데이트">
+<!ENTITY updateAuto2.label               "업데이트 자동 설치(보안을 위해 권장됨)">
 
 <!ENTITY updateHistory2.label            "업데이트 기록 보기…">
 
