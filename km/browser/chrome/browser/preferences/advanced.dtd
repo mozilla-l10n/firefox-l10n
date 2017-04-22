@@ -84,6 +84,7 @@
 <!ENTITY updateTab.label                 "ធ្វើ​បច្ចុប្បន្នភាព">
 
 <!ENTITY updateApplication.label         "បច្ចុប្បន្នភាព &brandShortName;">
+<!ENTITY updateApplication.description   "អនុញ្ញាត &brandShortName; ឲ្យ">
 
 
 <!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
