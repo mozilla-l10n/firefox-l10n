@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ">
 <!ENTITY useFirefoxSync.label             "အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် တပြေးညီဖြစ်မှုကို အသုံးပြုပါ။">
-<!ENTITY getStarted.label                 "တပြေးညီဖြစ်မှုကို စတင်အသုံးပြုနေသည်…">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; သို့ ဝင်ပါ…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; မာလ်တီ-ပရောဆက်ကို ဖွင့်ပါ">

@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "စတင်ခြင်း">
 
+<!ENTITY startupPage2.label        "&brandShortName; စတင်သောအခါ">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "မူလစာမျက်နှာကို ပြပါ">
 <!ENTITY startupBlankPage.label    "စာမျက်နှာ အလွတ်ကို ပြပေးပါ">
 <!ENTITY startupPrevSession.label  "နောက်ဆုံးအသုံးပြုခဲ့သော ဝင်းဒိုးများ နှင့် တပ်ဗ်များကို ပြန်ဖွင့်ပါ">
 
+<!ENTITY homepage2.label           "အဖွင့်စာမျက်နှာ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "လက်ရှိစာမျက်နှာကို အသုံးပြုပါ">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "လက်ရှိဖွင့်ထားသည့် စာမျက်နှာများကို အသုံးပြုပါ">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; နှင့် မီးမြေခွေးတို့ကို တချိန်တည်းမှာ လုပ်ငန်းဆောင်ရွက်ခွင့် ပြုပါ">
 <!ENTITY useFirefoxSync.label             "အရိပ်အမြွက်၊ မတူညီသည့် ပရိုဖိုင်းများကို အသုံးပြုပါသည်။ ထိုပရိုဖိုင်းများကြား အချက်အလက်မျှဝေရန် တပြေးညီဖြစ်မှုကို အသုံးပြုပါ။">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; သို့ ဝင်ပါ…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; ၏ အပြင်အဆင်များကို ဖွင့်ပါ">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; မာလ်တီ-ပရောဆက်ကို ဖွင့်ပါ">
