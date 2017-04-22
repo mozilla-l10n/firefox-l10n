@@ -914,3 +914,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.label "Ikkje no">
 <!ENTITY updateManual.cancelButton.accesskey "n">
 
+<!ENTITY updateRestart.cancelButton.label "Ikkje no">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
