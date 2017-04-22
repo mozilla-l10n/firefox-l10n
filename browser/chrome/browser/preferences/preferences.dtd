@@ -13,11 +13,15 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 48em; min-height: 43em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45em; min-height: 42.5em;">
 
+<!ENTITY  paneSearchResults.title       "검색 결과">
 <!ENTITY  paneGeneral.title             "일반">
+<!ENTITY  panePrivacySecurity.title     "개인 정보 &amp; 보안">
 <!ENTITY  paneContainers.title          "포함 탭">
+<!ENTITY  paneUpdates.title             "업데이트">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox Account">
 
 <!ENTITY  helpButton2.label        "&brandShortName; 도움말">
 
+<!ENTITY  searchInput.label        "검색">
