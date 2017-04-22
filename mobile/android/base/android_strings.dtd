@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Bladwijzer verwijderd">
 <!ENTITY bookmark_updated "Bladwijzer bijgewerkt">
 <!ENTITY bookmark_options "Opties">
+<!ENTITY bookmark_save "Opslaan">
 <!ENTITY screenshot_added_to_bookmarks "Schermafbeelding aan bladwijzers toegevoegd">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; items">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_parent_folder "Bovenliggende map">
 
 <!ENTITY reader_saved_offline "Offline opgeslagen">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -214,6 +216,9 @@
 <!ENTITY pref_home_updates_enabled "Ingeschakeld">
 <!ENTITY pref_home_updates_wifi "Alleen via wifi">
 <!ENTITY pref_category_home_homepage "Startpagina">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Ook voor nieuwe tabbladen gebruiken">
 <!ENTITY home_homepage_title "Een startpagina instellen">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -282,6 +287,12 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Eigen tabbladen">
 <!ENTITY pref_custom_tabs_summary3 "Toestaan dat apps websites openen via een aangepaste versie van &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Openen in &formatS;">
+<!ENTITY custom_tabs_menu_footer "Mogelijk gemaakt door &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL gekopieerd">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Activiteitenstroom">
@@ -350,26 +361,14 @@
 <!ENTITY pref_plugins_enabled "Ingeschakeld">
 <!ENTITY pref_plugins_tap_to_play2 "Aanraken voor afspelen">
 <!ENTITY pref_plugins_disabled "Uitgeschakeld">
-<!ENTITY pref_text_size "Tekstgrootte">
 <!ENTITY pref_restore_tabs "Tabbladen herstellen">
 <!ENTITY pref_restore_always "Altijd herstellen">
 <!ENTITY pref_restore_quit "Niet herstellen na afsluiten van &brandShortName;">
-<!ENTITY pref_font_size_tiny "Zeer klein">
-<!ENTITY pref_font_size_small "Klein">
-<!ENTITY pref_font_size_medium "Gemiddeld">
-<!ENTITY pref_font_size_large "Groot">
-<!ENTITY pref_font_size_xlarge "Extra groot">
-<!ENTITY pref_font_size_set "Instellen">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "A">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-     demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "De snelle oranje vos springt over uw verwachtingen met meer snelheid, meer flexibiliteit en meer veiligheid. Als non-profitorganisatie zijn we vrij om in uw belang en zonder druk voor compromissen te innoveren. Dat betekent een betere ervaring voor u en een stralende toekomst voor het internet.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Grootte van systeemlettertype gebruiken">
+<!ENTITY pref_use_system_font_size_summary "Webinhoud schalen volgens de grootte van het systeemlettertype">
 
 <!ENTITY pref_media_autoplay_enabled "Automatisch afspelen toestaan">
 <!ENTITY pref_media_autoplay_enabled_summary "Automatisch afspelen van video’s en andere media-inhoud door websites beheren">
@@ -500,6 +499,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Openen in privétabblad">
 <!ENTITY contextmenu_remove "Verwijderen">
 <!ENTITY contextmenu_add_to_launcher "Toevoegen aan startscherm">
+<!ENTITY contextmenu_set_as_homepage "Instellen als startpagina">
 <!ENTITY contextmenu_share "Delen">
 <!ENTITY contextmenu_pasteandgo "Plakken &amp; Gaan">
 <!ENTITY contextmenu_paste "Plakken">
@@ -524,11 +524,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy "Wachtwoord naar klembord gekopieerd">
 <!ENTITY doorhanger_login_select_action_text "Andere aanmelding selecteren">
 <!ENTITY doorhanger_login_select_title "Wachtwoord kopiëren van">
-
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_magnifying_glass_enabled "Kleine gebieden vergroten">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Koppelingen en formuliervelden vergroten bij ernaast aanraken">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -738,14 +733,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-<!ENTITY percent "&formatS;&#37;&#37;">
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
