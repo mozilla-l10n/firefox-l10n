@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Перегляд…">
 <!ENTITY loaddevice.browse.accesskey            "я">
 
+<!ENTITY loaddevice.title2                      "Завантажити драйвер пристрою PKCS#11">

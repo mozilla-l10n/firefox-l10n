@@ -14,19 +14,20 @@
 <!ENTITY aboutNetworking.autoRefresh           "Автооновлювати кожні 3 секунди">
 <!ENTITY aboutNetworking.hostname              "Ім’я хоста">
 <!ENTITY aboutNetworking.port                  "Порт">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Активний">
 <!ENTITY aboutNetworking.idle                  "Очікування">
 <!ENTITY aboutNetworking.host                  "Хост">
 <!ENTITY aboutNetworking.tcp                   "TCP">
-<!ENTITY aboutNetworking.sent                  "Послано">
+<!ENTITY aboutNetworking.sent                  "Надіслано">
 <!ENTITY aboutNetworking.received              "Отримано">
 <!ENTITY aboutNetworking.family                "Сімейство">
 <!ENTITY aboutNetworking.addresses             "Адреси">
 <!ENTITY aboutNetworking.expires               "Дійсний до (секунди)">
-<!ENTITY aboutNetworking.messagesSent          "Повідомлень послано">
+<!ENTITY aboutNetworking.messagesSent          "Повідомлень надіслано">
 <!ENTITY aboutNetworking.messagesReceived      "Повідомлень отримано">
-<!ENTITY aboutNetworking.bytesSent             "Байтів послано">
+<!ENTITY aboutNetworking.bytesSent             "Байтів надіслано">
 <!ENTITY aboutNetworking.bytesReceived         "Байтів отримано">
 <!ENTITY aboutNetworking.logging               "Журналювання">
 <!ENTITY aboutNetworking.logTutorial           "Перегляньте <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP журналювання</a> для інструкцій з використання цього засобу.">
