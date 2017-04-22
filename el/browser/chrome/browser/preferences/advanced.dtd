@@ -85,6 +85,12 @@
 
 <!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
 <!ENTITY updateApplication.description   "Να επιτρέπεται στο &brandShortName;">
+<!ENTITY updateAuto2.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται για βελτιωμένη ασφάλεια)">
+<!ENTITY updateAuto2.accesskey           "Α">
+<!ENTITY updateCheckChoose2.label        "Έλεγχος για ενημερώσεις, αλλά με δυνατότητα επιλογής για εγκατάσταση">
+<!ENTITY updateCheckChoose2.accesskey    "Ε">
+<!ENTITY updateManual2.label             "Να μην γίνεται ποτέ έλεγχος για ενημερώσεις (δεν προτείνεται)">
+<!ENTITY updateManual2.accesskey         "Ν">
 
 <!ENTITY updateHistory2.label            "Εμφάνιση ιστορικού ενημερώσεων…">
 <!ENTITY updateHistory2.accesskey        "ν">
@@ -109,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Διαγραφή δεδομένων χωρίς σύνδεση">
 
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
+<!ENTITY certPersonal2.description       "Όταν ένας διακομιστής απαιτεί το προσωπικό σας πιστοποιητικό">
 <!ENTITY selectCerts.auto                "Αυτόματη επιλογή">
 <!ENTITY selectCerts.auto.accesskey      "Δ">
 <!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">

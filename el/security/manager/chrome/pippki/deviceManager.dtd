@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Αναζήτηση...">
 <!ENTITY loaddevice.browse.accesskey            "ζ">
 
+<!ENTITY loaddevice.title2                      "Φόρτωση προγράμματος οδήγησης συσκευής PKCS#11">
