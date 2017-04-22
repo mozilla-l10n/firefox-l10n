@@ -12,3 +12,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
+<!ENTITY  filter2.emptytext        "파일 타입 혹은 어플리케이션 검색">

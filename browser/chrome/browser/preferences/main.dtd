@@ -4,6 +4,7 @@
 
 <!ENTITY startup.label             "시작 페이지">
 
+<!ENTITY startupPage2.label        "&brandShortName; 가 시작될 때">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "홈 페이지 보기">
 <!ENTITY startupBlankPage.label    "빈 페이지 보기">
