@@ -12,10 +12,17 @@
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Procurar">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidir">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Verificar resultado coincidente">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Procurar">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Verificar resultado da pesquisa">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memória">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Banco de dados">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Configurar módulo de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Configurar arquivo de registro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Configurar registro JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Módulos de registro de navegação segura">
+<!ENTITY aboutUrlClassifier.debugModules                "Módulos de registro atuais">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Registro JS de navegação segura">
+<!ENTITY aboutUrlClassifier.debugFile                   "Arquivo de registro atual">
