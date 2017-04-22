@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY title           "Instalace doplňku">
-<!ENTITY intro           "Některý z programů na vašem počítači by rád upravil &brandShortName; pomocí následujícího doplňku:">
+<!ENTITY intro           "Některý z programů na vašem počítači by rád upravil aplikaci &brandShortName; pomocí následujícího doplňku:">
 <!ENTITY warning         "Instalujte pouze doplňky od důvěryhodných autorů.">
 <!ENTITY allow           "Povolit instalaci">
 <!ENTITY later           "Své rozhodnutí můžete vždy změnit pomocí Správce doplňků.">
