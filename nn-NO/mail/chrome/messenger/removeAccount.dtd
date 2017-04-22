@@ -17,6 +17,6 @@
 <!ENTITY removeDataChatAccount.desc   "Fjern alle loggar for samtalar som vert laagra for denne kontoen på den lokale disken din.">
 <!ENTITY showData.label               "Vis dataplassering">
 <!ENTITY showData.accesskey           "V">
-<!ENTITY progressPending              "Fjern valde data…">
+<!ENTITY progressPending              "Fjernar valde data…">
 <!ENTITY progressSuccess              "Vellukka fjerning.">
 <!ENTITY progressFailure              "Mislukka fjerning.">
