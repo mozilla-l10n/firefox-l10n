@@ -20,6 +20,7 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ชื่ออุปกรณ์">
 <!ENTITY changeSyncDeviceName1.label "เปลี่ยนชื่ออุปกรณ์">
+<!ENTITY changeSyncDeviceName1.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "ยกเลิก">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "บันทึก">
@@ -52,6 +53,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
 <!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect2.label           "ตัดการเชื่อมต่อ">
+<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ไม่จำอีเมลนี้">
@@ -66,6 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "การตั้งค่า Sync">
+<!ENTITY signedIn.settings.description "เลือกสิ่งที่คุณต้องการจะประสานบนอุปกรณ์ของคุณโดยใช้ &brandShortName;">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
