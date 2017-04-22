@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "אתר">
 <!ENTITY     statusCol.label               "מצב">
 <!ENTITY     usageCol.label                "אחסון">
+<!ENTITY     searchTextboxPlaceHolder             "חיפוש אתרים">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "ח">
 <!ENTITY     removeSelected.label          "הסרת פריטים נבחרים">
 <!ENTITY     removeSelected.accesskey      "פ">
 <!ENTITY     save.label                    "שמירת שינויים">
