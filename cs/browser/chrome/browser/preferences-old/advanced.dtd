@@ -8,7 +8,7 @@
 
 <!ENTITY accessibility.label             "Přístupnost">
 
-<!ENTITY useCursorNavigation.label       "Používat kurzorové klávesy pro pohyb po stránce">
+<!ENTITY useCursorNavigation.label       "Používat kurzorové šipky pro pohyb po stránce">
 <!ENTITY useCursorNavigation.accesskey   "P">
 <!ENTITY searchOnStartTyping.label       "Psaním vyhledávat text na stránce">
 <!ENTITY searchOnStartTyping.accesskey   "s">
