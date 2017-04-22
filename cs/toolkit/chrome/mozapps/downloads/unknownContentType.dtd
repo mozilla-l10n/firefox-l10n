@@ -4,7 +4,7 @@
 
 <!ENTITY  intro2.label                "Otevíráte soubor:">
 <!ENTITY  from.label                  "z:">
-<!ENTITY  actionQuestion.label        "Co má aplikace &brandShortName; udělat s tímto souborem?">
+<!ENTITY  actionQuestion.label        "Co má &brandShortName; udělat s tímto souborem?">
 
 <!ENTITY  openWith.label              "Otevřít pomocí">
 <!ENTITY  openWith.accesskey          "O">

@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "Budou sdílena všechna viditelná okna na vaší obrazovce.">
 
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
-<!ENTITY trackingProtection.detectedBlocked3 "Aplikace &brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Zakázali jste ochranu.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
