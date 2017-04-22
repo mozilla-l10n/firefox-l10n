@@ -193,6 +193,7 @@
 <!ENTITY options.sourceeditor.label                     "Προτιμήσεις επεξεργασίας">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Αυτόματο κλείσιμο παρενθέσεων">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Αυτόματη εισαγωγή παρενθέσεων κλεισίματος">
+<!ENTITY options.sourceeditor.expandtab.tooltip         "Χρήση διαστημάτων αντί για το χαρακτήρα καρτέλας">
 <!ENTITY options.sourceeditor.tabsize.label             "Μέγεθος καρτέλας">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "Κ">
 <!ENTITY options.sourceeditor.keybinding.label          "Συντομεύσεις πλήκτρων">
