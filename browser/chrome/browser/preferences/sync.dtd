@@ -19,8 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Apparaatnaam">
-<!ENTITY changeSyncDeviceName.label "Apparaatnaam wijzigen…">
-<!ENTITY changeSyncDeviceName.accesskey "n">
+<!ENTITY changeSyncDeviceName1.label "Apparaatnaam wijzigen">
+<!ENTITY changeSyncDeviceName1.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuleren">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Opslaan">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profielafbeelding wijzigen">
 <!ENTITY verifiedManage.label        "Account beheren">
 <!ENTITY verifiedManage.accesskey    "b">
-<!ENTITY disconnect.label            "Verbinding verbreken…">
-<!ENTITY disconnect.accesskey        "v">
+<!ENTITY disconnect2.label           "Verbinding verbreken">
+<!ENTITY disconnect2.accesskey       "v">
 <!ENTITY verify.label                "E-mailadres verifiëren">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Dit e-mailadres vergeten">
@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Aanmelden">
 <!ENTITY signedOut.accountBox.signin.accesskey  "A">
 
-<!ENTITY signedIn.engines.label       "Synchroniseren op alle apparaten">
+<!ENTITY signedIn.settings.label       "Synchronisatie-instellingen">
+<!ENTITY signedIn.settings.description "Kiezen wat u wilt synchroniseren op uw apparaten die &brandShortName; gebruiken.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

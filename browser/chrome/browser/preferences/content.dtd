@@ -21,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Lettertypen &amp; kleuren">
 
-<!ENTITY  defaultFont.label           "Standaardlettertype:">
-<!ENTITY  defaultFont.accesskey       "S">
-<!ENTITY  defaultSize.label           "Grootte:">
-<!ENTITY  defaultSize.accesskey       "G">
+<!ENTITY  defaultFont2.label          "Standaardlettertype">
+<!ENTITY  defaultFont2.accesskey      "S">
+<!ENTITY  defaultSize2.label          "Grootte">
+<!ENTITY  defaultSize2.accesskey      "G">
 
 <!ENTITY  advancedFonts.label         "Geavanceerd…">
 <!ENTITY  advancedFonts.accesskey     "c">

@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Klik met rechts of houd ingedrukt om geschiedenis te tonen">
 <!ENTITY backForwardButtonMenuMac.tooltip "Houd ingedrukt om geschiedenis te tonen">
 <!ENTITY reloadCmd.label              "Vernieuwen">
-<!ENTITY reloadButton.tooltip         "Huidige pagina vernieuwen">
 <!ENTITY stopCmd.label                "Stoppen">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Het laden van deze pagina stoppen">
 <!ENTITY goEndCap.tooltip             "Naar het adres in de locatiebalk gaan">
 <!ENTITY printButton.label            "Afdrukken">
 <!ENTITY printButton.tooltip          "Deze pagina afdrukken">
@@ -215,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Berichtpaneel voor opslaan van wachtwoord openen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plug-in-gebruik beheren">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wijzigen of u notificaties van de website kunt ontvangen">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens in permanente opslag bewaren">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Delen van uw camera en/of microfoon met de website beheren">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Delen van uw microfoon met de website beheren">
@@ -231,14 +230,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "U hebt locatiegegevens voor deze website geblokkeerd.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "U hebt gegevensopslag voor deze website geblokkeerd.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "U hebt notificaties voor deze website geblokkeerd.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "U hebt permanente opslag voor deze website geblokkeerd.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geschiedenis tonen">
 
-<!ENTITY urlbar.zoomReset.tooltip     "Zoomniveau terugzetten">
-
 <!ENTITY searchItem.title             "Zoeken">
 
-<!-- Toolbar items --> 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Startpagina">
 
 <!ENTITY bookmarksButton.label          "Bladwijzers">
@@ -377,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Synchronisatievoorkeuren">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Meld u aan om een lijst van tabbladen van uw andere apparaten weer te geven.">
 <!ENTITY appMenuRemoteTabs.signin.label "Aanmelden bij Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Apparaten beheren…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Synchrone-tabbladenzijbalk weergeven">
 
 <!ENTITY customizeMenu.addToToolbar.label "Toevoegen aan werkbalk">
@@ -785,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Alle openen in tabbladen">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
+<!ENTITY syncedTabs.context.managedevices.label              "Apparaten beheren…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "A">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -899,3 +900,29 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Meer info over DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.message "Werk uw &brandShorterName; bij voor het nieuwste in snelheid en privacy.">
+<!ENTITY updateAvailable.whatsnew.label "Bekijk wat er nieuw is.">
+<!ENTITY updateAvailable.header.message "Er is een nieuwe &brandShorterName;-update beschikbaar.">
+<!ENTITY updateAvailable.acceptButton.label "Update downloaden">
+<!ENTITY updateAvailable.acceptButton.accesskey "d">
+<!ENTITY updateAvailable.cancelButton.label "Niet nu">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName;-update downloaden">
+
+<!ENTITY updateManual.message "Download een nieuwe kopie van &brandShorterName; en we helpen u deze te installeren.">
+<!ENTITY updateManual.whatsnew.label "Bekijk wat er nieuw is.">
+<!ENTITY updateManual.header.message "&brandShorterName; kan niet naar de nieuwste versie worden bijgewerkt.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; downloaden">
+<!ENTITY updateManual.acceptButton.accesskey "d">
+<!ENTITY updateManual.cancelButton.label "Niet nu">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Een nieuwe kopie van &brandShorterName; downloaden">
+
+<!ENTITY updateRestart.message "Na een snelle herstart zal &brandShorterName; al uw open tabbladen en vensters herstellen.">
+<!ENTITY updateRestart.header.message "Herstart &brandShorterName; om de update toe te passen.">
+<!ENTITY updateRestart.acceptButton.label "Herstarten en herstellen">
+<!ENTITY updateRestart.acceptButton.accesskey "H">
+<!ENTITY updateRestart.cancelButton.label "Niet nu">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Herstart &brandShorterName; om de update toe te passen">
