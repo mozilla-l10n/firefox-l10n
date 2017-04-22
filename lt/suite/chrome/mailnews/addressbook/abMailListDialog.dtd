@@ -4,18 +4,15 @@
 <!-- Title -->
 
 <!ENTITY mailListWindow.title           "Adresatų sąrašas">
-<!-- Labels -->
+<!-- Labels and Access Keys -->
+
 <!ENTITY addToAddressBook.label         "Adresų knyga:">
-
-<!ENTITY ListName.label                 "Sąrašo pavadinimas:">
-<!ENTITY ListNickName.label             "Sąrašo santrumpa:">
-<!ENTITY ListDescription.label          "Aprašas:">
-<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Surinkite arba atvilkite norimus į sąrašą įtraukti adresus:">
-<!-- Access Keys -->
-
 <!ENTITY addToAddressBook.accesskey     "k">
+<!ENTITY ListName.label                 "Sąrašo pavadinimas:">
 <!ENTITY ListName.accesskey             "v">
+<!ENTITY ListNickName.label             "Sąrašo santrumpa:">
 <!ENTITY ListNickName.accesskey         "S">
-<!ENTITY ListDescription.accesskey      "A">
+
+
+<!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 
