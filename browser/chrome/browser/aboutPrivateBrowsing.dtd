@@ -4,7 +4,7 @@
 
 <!ENTITY aboutPrivateBrowsing.notPrivate                 "បច្ចុប្បន្ន​អ្នក​មិន​នៅ​ក្នុង​បង្អួច​ឯកជន​ទេ។">
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "បើក​បង្អួច​ឯកជន">
-<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
+<!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "">
 
 <!ENTITY privateBrowsing.title                           "ការ​រក​មើល​ឯកជន">
 <!ENTITY privateBrowsing.title.tracking                  "ការ​រក​មើល​ជា​ឯកជន​ជាមួយ​ការ​​ទប់ស្កាត់​ការ​តាមដាន">
