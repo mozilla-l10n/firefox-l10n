@@ -13,17 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 53em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 56em; min-height: 40.5em;">
 
-<!ENTITY  paneGeneral.title       "Algemeen">
-<!ENTITY  paneTabs.title          "Tabbladen">
-<!ENTITY  paneSearch.title        "Zoeken">
-<!ENTITY  paneContent.title       "Inhoud">
-<!ENTITY  paneApplications.title  "Toepassingen">
-<!ENTITY  panePrivacy.title       "Privacy">
-<!ENTITY  paneContainers.title    "Containertabbladen">
-<!ENTITY  paneSecurity.title      "Beveiliging">
-<!ENTITY  paneAdvanced.title      "Geavanceerd">
+<!ENTITY  paneSearchResults.title       "Zoekresultaten">
+<!ENTITY  paneGeneral.title             "Algemeen">
+<!ENTITY  paneFilesApplications.title   "Bestanden &amp; Toepassingen">
+<!ENTITY  panePrivacySecurity.title     "Privacy &amp; Beveiliging">
+<!ENTITY  paneContainers.title          "Containertabbladen">
+<!ENTITY  paneUpdates.title             "Updates">
 
-<!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
-<!ENTITY  paneSync.title          "Sync">
+<!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox-account">
 
-<!ENTITY  helpButton.label        "Help">
+<!ENTITY  helpButton2.label        "&brandShortName;-ondersteuning">
+
+<!ENTITY  searchInput.label        "Zoeken">

@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Opstarten">
 
-<!ENTITY startupPage.label         "Als &brandShortName; start:">
-<!ENTITY startupPage.accesskey     "a">
+<!ENTITY startupPage2.label        "Als &brandShortName; start">
+<!ENTITY startupPage2.accesskey    "a">
 <!ENTITY startupUserHomePage.label "Uw startpagina tonen">
 <!ENTITY startupBlankPage.label    "Een lege pagina tonen">
 <!ENTITY startupPrevSession.label  "Uw vensters en tabbladen van de vorige keer tonen">
 
-<!ENTITY homepage.label            "Startpagina:">
-<!ENTITY homepage.accesskey        "p">
+<!ENTITY homepage2.label           "Startpagina">
+<!ENTITY homepage2.accesskey       "p">
 <!ENTITY useCurrentPage.label      "Huidige pagina gebruiken">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Huidige pagina’s gebruiken">
@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Tegelijkertijd uitvoeren van &brandShortName; en Firefox toestaan">
 <!ENTITY useFirefoxSync.label             "Tip: dit gebruikt aparte profielen. Gebruik Sync om gegevens ertussen te delen.">
-<!ENTITY getStarted.label                 "Sync gebruiken…">
+<!ENTITY getStarted.notloggedin.label     "Aanmelden bij &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-voorkeuren openen">
 
 <!ENTITY e10sEnabled.label                "Multiprocess in &brandShortName; inschakelen">

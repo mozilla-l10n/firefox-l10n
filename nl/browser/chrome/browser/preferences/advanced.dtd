@@ -84,22 +84,24 @@
 <!ENTITY updateTab.label                 "Update">
 
 <!ENTITY updateApplication.label         "&brandShortName;-updates">
-<!ENTITY updateAuto1.label               "Updates automatisch installeren (aanbevolen: verbeterde beveiliging)">
-<!ENTITY updateAuto1.accesskey           "U">
-<!ENTITY updateCheckChoose.label         "Controleren op updates, maar u laten kiezen of u deze wilt installeren">
-<!ENTITY updateCheckChoose.accesskey     "C">
-<!ENTITY updateManual.label              "Nooit controleren op updates (niet aanbevolen: beveiligingsrisico)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateApplication.description   "&brandShortName; mag">
+<!ENTITY updateAuto2.label               "Updates automatisch installeren (aanbevolen voor verbeterde beveiliging)">
+<!ENTITY updateAuto2.accesskey           "U">
+<!ENTITY updateCheckChoose2.label        "Controleren op updates, maar u laten kiezen of u deze wilt installeren">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Nooit controleren op updates (niet aanbevolen)">
+<!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory.label             "Updategeschiedenis tonen">
-<!ENTITY updateHistory.accesskey         "d">
+<!ENTITY updateHistory2.label            "Updategeschiedenis tonen">
+<!ENTITY updateHistory2.accesskey        "d">
 
 <!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
 <!ENTITY useService.accesskey            "a">
 
-<!ENTITY autoUpdateOthers.label          "Automatisch bijwerken">
-<!ENTITY enableSearchUpdate.label        "Zoekmachines">
-<!ENTITY enableSearchUpdate.accesskey    "Z">
+<!ENTITY enableSearchUpdate2.label       "Zoekmachines automatisch bijwerken">
+<!ENTITY enableSearchUpdate2.accesskey   "Z">
+
+<!ENTITY reports.label                   "Rapporten">
 
 <!ENTITY offlineStorageNotify.label               "Vertellen wanneer een website vraagt gegevens op te slaan voor offlinegebruik">
 <!ENTITY offlineStorageNotify.accesskey           "e">
@@ -113,8 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Offlinegegevens verwijderen">
 
 <!ENTITY certificateTab.label            "Certificaten">
-<!ENTITY certPersonal.label              "Aanvragen">
-<!ENTITY certPersonal.description        "Wanneer een server om uw persoonlijke certificaat vraagt:">
+<!ENTITY certPersonal2.description       "Wanneer een server om uw persoonlijke certificaat vraagt">
 <!ENTITY selectCerts.auto                "Er automatisch een selecteren">
 <!ENTITY selectCerts.auto.accesskey      "a">
 <!ENTITY selectCerts.ask                 "Elke keer vragen">

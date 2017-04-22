@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Bescherming tegen volgen gebruiken">
+<!ENTITY  trackingProtectionHeader2.label      "Bescherming tegen volgen">
+<!ENTITY  trackingProtection.description       "Volgen houdt in dat bedrijven gegevens over u verzamelen om een profiel op te bouwen en inhoud weer te geven op basis van uw persoonlijke en surfgegevens.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Weergeven van inhoud door bekende bedrijven die volgen blokkeren">
 <!ENTITY  trackingProtectionAlways.label       "Altijd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Alleen in privévensters">
@@ -30,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Locatiebalk">
 
-<!ENTITY  locbar.suggest.label          "Bij gebruik van de locatiebalk, suggereren:">
+<!ENTITY  locbar.suggest2.label         "Bij gebruik van de locatiebalk, suggesties weergeven uit">
 <!ENTITY  locbar.history.label          "Geschiedenis">
 <!ENTITY  locbar.history.accesskey      "G">
 <!ENTITY  locbar.bookmarks.label        "Bladwijzers">
@@ -40,8 +42,7 @@
 <!ENTITY  locbar.searches.label         "Gerelateerde zoekopdrachten van de standaardzoekmachine">
 <!ENTITY  locbar.searches.accesskey     "k">
 
-<!ENTITY  suggestionSettings.label      "Voorkeuren voor zoekmachinesuggesties wijzigen…">
-<!ENTITY  suggestionSettings.accesskey  "m">
+<!ENTITY  suggestionSettings2.label     "Voorkeuren voor zoekmachinesuggesties wijzigen">
 
 <!ENTITY  acceptCookies.label           "Cookies van websites accepteren">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -64,8 +65,8 @@
 <!ENTITY  showCookies.label             "Cookies tonen…">
 <!ENTITY  showCookies.accesskey         "t">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; zal:">
-<!ENTITY  historyHeader.pre.accesskey      "z">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; zal">
+<!ENTITY  historyHeader2.pre.accesskey     "z">
 <!ENTITY  historyHeader.remember.label     "Geschiedenis onthouden">
 <!ENTITY  historyHeader.dontremember.label "Nooit geschiedenis onthouden">
 <!ENTITY  historyHeader.custom.label       "Aangepaste instellingen gebruiken voor geschiedenis">
