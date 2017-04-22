@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Title:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "Feed URL:">
-<!ENTITY feedLocation.accesskey      "U">
+
 <!ENTITY feedLocation.placeholder    "Enter a valid feed url to Add">
 <!ENTITY locationValidate.label      "Validate">
 <!ENTITY validateText.label          "Check validation and retrieve a valid url.">
 
 <!ENTITY feedFolder.label            "Store Articles in:">
 <!ENTITY feedFolder.accesskey        "S">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Show the article summary instead of loading the web page">
 <!ENTITY quickMode.accesskey         "h">
 
-<!ENTITY autotagEnable.label         "Automatically create tags from feed &lt;category&gt; names">
-<!ENTITY autotagEnable.accesskey     "c">
+
 <!ENTITY autotagUsePrefix.label      "Prefix tags with:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Enter a tag prefix">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Add">
 <!ENTITY button.addFeed.accesskey    "A">
