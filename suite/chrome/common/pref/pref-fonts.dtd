@@ -27,20 +27,16 @@
 <!ENTITY  fantasy.accesskey                       "F">
 <!ENTITY  cursive.label                           "Cursiva:">
 <!ENTITY  cursive.accesskey                       "C">
-
-<!ENTITY  font.langGroup.latin1                   "Ocidental">
-<!ENTITY  font.langGroup.latin2                   "Centro Europeu">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
 <!ENTITY  font.langGroup.japanese                 "Japonês">
 <!ENTITY  font.langGroup.trad-chinese             "Chinês Tradicional(Taiwan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Chinês Simplificado">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Chinês Tradicional(Hong Kong)">
 <!ENTITY  font.langGroup.korean                   "Coreano">
 <!ENTITY  font.langGroup.cyrillic                 "Cirílico">
-<!ENTITY  font.langGroup.baltic                   "Báltico">
 <!ENTITY  font.langGroup.el                       "Grego">
-<!ENTITY  font.langGroup.turkish                  "Turco">
-<!ENTITY  font.langGroup.unicode1                 "Unicode">
-<!ENTITY  font.langGroup.user-def                 "Definido pelo utilizador">
 <!ENTITY  font.langGroup.thai                     "Tailandês">
 <!ENTITY  font.langGroup.hebrew                   "Hebreu">
 <!ENTITY  font.langGroup.arabic                   "Arábico">
@@ -56,6 +52,12 @@
 <!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malaiala">
 <!ENTITY  font.langGroup.math                     "Matemáticas">
+
+
+
+
+
+
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "Tamanho mínimo da letra:">
 <!ENTITY minSize.accesskey                        "m">
@@ -71,5 +73,5 @@
 
 
 <!ENTITY  header2                                 "Quando uma página web escolhe o seu próprio tipo de letra">
-<!ENTITY  useDefaultFont.label                    "Utilizar os meus tipos de letra predefinidos, ignorando os tipos de letra que a página escolheu">
-<!ENTITY  useDefaultFont.accesskey                "U">
+
+

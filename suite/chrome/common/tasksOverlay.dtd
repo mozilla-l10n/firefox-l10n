@@ -7,16 +7,17 @@
 <!ENTITY navigatorCmd.accesskey "N">
 <!ENTITY navigatorCmd.commandkey "1">
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
-<!ENTITY editorCmd.label     "Composer">
-<!ENTITY editorCmd.accesskey    "c">
-<!ENTITY editorCmd.commandkey    "4">
 
-<!ENTITY errorConsoleCmd.label                                  "Consola de erro">
-<!ENTITY errorConsoleCmd.accesskey    "C">
-<!ENTITY errorConsoleCmd.commandkey    "o">
+<!ENTITY editorCmd.label "Composer">
+<!ENTITY editorCmd.accesskey "c">
+<!ENTITY editorCmd.commandkey "4">
 
-<!ENTITY taskNavigator.tooltip  "Navegador">
-<!ENTITY taskComposer.tooltip  "Compositor">
+<!ENTITY errorConsoleCmd.label "Consola de erro">
+<!ENTITY errorConsoleCmd.accesskey "C">
+
+
+<!ENTITY taskNavigator.tooltip "Navegador">
+<!ENTITY taskComposer.tooltip "Compositor">
 
 <!ENTITY webDevelopment.label "Desenvolvimento web">
 <!ENTITY webDevelopment.accesskey "w">
@@ -25,7 +26,7 @@
 <!ENTITY windowMenu.accesskey "J">
 
 <!ENTITY tasksMenu.label "Ferramentas">
-<!ENTITY tasksMenu.accesskey "r"> 
+<!ENTITY tasksMenu.accesskey "r">
 
 <!ENTITY datamanCmd.label "Gestor de dados">
 <!ENTITY datamanCmd.accesskey "a">
@@ -41,7 +42,7 @@
 
 <!ENTITY downloadManagerCmd.label "Gestor de descargas">
 <!ENTITY downloadManagerCmd.accesskey "t">
-<!ENTITY downloadManagerCmd.commandkey "j">
+
 
 <!ENTITY addOnsManagerCmd.label "Gestor de extras">
 <!ENTITY addOnsManagerCmd.accesskey "x">
@@ -54,7 +55,7 @@
 <!-- LOCALIZATION NOTE (syncSetup.accesskey, syncSyncNowItem.accesskey):
      Only one of these will show at a time (based on setup state),
      so reusing accesskey is ok. -->
-<!ENTITY syncSetup.label           "Configurar o Sync...">
-<!ENTITY syncSetup.accesskey       "S">
-<!ENTITY syncSyncNowItem.label     "Sincronizar agora">
+<!ENTITY syncSetup.label "Configurar o Sync...">
+<!ENTITY syncSetup.accesskey "S">
+<!ENTITY syncSyncNowItem.label "Sincronizar agora">
 <!ENTITY syncSyncNowItem.accesskey "S">
