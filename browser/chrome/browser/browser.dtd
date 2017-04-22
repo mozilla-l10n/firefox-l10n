@@ -905,6 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateAvailable.header.message "Uma nova atualização do &brandShorterName; está disponível.">
 <!ENTITY updateAvailable.acceptButton.label "Baixar atualização">
+<!ENTITY updateAvailable.acceptButton.accesskey "B">
 <!ENTITY updateAvailable.cancelButton.label "Agora não">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Baixar atualização do &brandShorterName;">
@@ -913,7 +914,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.whatsnew.label "Veja o que há de novo.">
 <!ENTITY updateManual.header.message "Não é possível atualizar o &brandShorterName; para a versão mais recente.">
 <!ENTITY updateManual.acceptButton.label "Baixar o &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "B">
 <!ENTITY updateManual.cancelButton.label "Agora não">
+<!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Baixar uma nova copia do &brandShorterName;">
 
 <!ENTITY updateRestart.message "Após um reinício rápido, o &brandShorterName; irá restaurar todas as janela e abas abertas.">
@@ -921,4 +924,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Agora não">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label "Reiniciar o &brandShorterName; para aplicar a atualização">
