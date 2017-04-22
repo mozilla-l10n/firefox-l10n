@@ -230,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "អ្នក​បាន​បិទ​ព័ត៌មាន​អំពី​ទីតាំង​សម្រាប់​វិបសាយ​នេះ។">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "អ្នក​បាន​បិទ​ទំហំ​ផ្ទុក​ទិន្នន័យ​សម្រាប់​វិបសាយ​នេះ។">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "អ្នក​បាន​បិទ​ការ​ជូនដំណឹង​សម្រាប់​វិបសាយ​នេះ។">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "អ្នក​បាន​ទប់ស្កាត់​ការ​ផ្ទុក​រហូត​សម្រាប់​វេបសាយ​នេះ។">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "បង្ហាញ​ប្រវត្តិ">
 
@@ -259,7 +260,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ឧបករណ៍">
-<!ENTITY toolsMenu.accesskey          "ឧ"> 
+<!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
 <!ENTITY keywordfield.accesskey       "ព">
