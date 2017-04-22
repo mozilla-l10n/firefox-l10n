@@ -54,6 +54,7 @@
 <!ENTITY directoriesNone.label                 "Ingen">
 <!ENTITY editDirectories.label                 "Rediger kataloger …">
 <!ENTITY editDirectories.accesskey             "R">
+<!ENTITY showAsDefaultLast.label               "Sist brukte katalog">
 
 <!ENTITY sendOptionsDescription.label          "Konfigurer oppførselen til tekstformatet">
 <!ENTITY sendOptions.label                     "Sendeinnstillinger …">

@@ -21,21 +21,20 @@
 <!ENTITY quotedTextColor.accesskey        "F">
 <!ENTITY displayWidth.label               "Meldinger i normal tekst">
 <!ENTITY displayText.label                "Ved visning av sitater i tekstmeldinger:">
-<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 <!ENTITY convertEmoticons.label        "Vis smileansikter som bilder">
 <!ENTITY convertEmoticons.accesskey    "m">
+
 <!-- labels -->
-
 <!ENTITY displayTagsText.label     "Etiketter kan brukes for å kategorisere og prioritere meldingene dine.">
-
-
+<!ENTITY newTagButton.label        "Ny…">
 <!ENTITY editTagButton1.label      "Rediger …">
 <!ENTITY editTagButton1.accesskey  "R">
 <!ENTITY removeTagButton.label     "Slett">
 <!ENTITY removeTagButton.accesskey "S">
-<!-- Fonts and Colors -->
 
+<!-- Fonts and Colors -->
 <!ENTITY fontsAndColors1.label   "Skrifttyper og farger">
 <!ENTITY defaultFont.label       "Standard skrifttype:">
 <!ENTITY defaultFont.accesskey   "t">
@@ -45,8 +44,8 @@
 <!ENTITY fontOptions.label       "Skrifttyper …">
 <!ENTITY colorButton.label       "Farger …">
 <!ENTITY colorButton.accesskey   "F">
-<!-- Advanced -->
 
+<!-- Advanced -->
 <!ENTITY reading.caption                  "Leser">
 <!ENTITY display.caption                  "Visning">
 <!ENTITY showCondensedAddresses.label     "Vis bare visningsnavnet for personer i adresseboken">

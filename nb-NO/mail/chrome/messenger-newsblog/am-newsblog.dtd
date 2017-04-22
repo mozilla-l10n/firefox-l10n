@@ -4,6 +4,8 @@
 
 <!ENTITY loginAtStartup.label          "Se etter nye artikler ved oppstart">
 <!ENTITY loginAtStartup.accesskey      "n">
+<!ENTITY biffAll.label                 "Slå på oppdateringer for alle RSS-kanaler">
+<!ENTITY biffAll.accesskey             "S">
 
 
 <!ENTITY manageSubscriptions.label     "Behandle abonnement …">
