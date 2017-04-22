@@ -29,12 +29,12 @@
 <!ENTITY  noupdates.wizard.title          "Nenalezeny žádné kompatibilní doplňky">
 <!ENTITY  noupdates.intro.desc            "Aplikace &brandShortName; nenalezla žádné aktualizace vašich nekompatibilních doplňků.">
 <!ENTITY  noupdates.error.desc            "Při kontrole dostupnosti aktualizací byly zaznamenány problémy.">
-<!ENTITY  noupdates.checkEnabled.desc     "Aplikace &brandShortName; bude pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás bude informovat.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; bude pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás bude informovat.">
 
 <!ENTITY  finished.wizard.title           "Instalace kompatibilních doplňků dokončena">
 <!ENTITY  finished.top.label              "Aplikace &brandShortName; nainstalovala všechny dostupné aktualizace vašich doplňků.">
-<!ENTITY  finished.checkDisabled.desc     "Aplikace &brandShortName; může pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás informovat.">
-<!ENTITY  finished.checkEnabled.desc      "Aplikace &brandShortName; bude pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás bude informovat.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; může pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás informovat.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; bude pravidelně provádět kontrolu dostupnosti a v případě dostupných aktualizací vás bude informovat.">
 
 <!ENTITY  adminDisabled.wizard.title      "Kontrola aktualizací se nezdařila">
 <!ENTITY  adminDisabled.warning.label     "Není možné provést kontrolu dostupnosti aktualizací nekompatibilních doplňků, protože je do aplikace &brandShortName; zakázáno instalovat software. Kontaktujte prosím správce vašeho systému.">

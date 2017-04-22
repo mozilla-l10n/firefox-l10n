@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "Zvolte &tabCrashed.restoreTab; pro načtení obsahu stránky.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Zvolte &tabCrashed.restoreTab; nebo &tabCrashed.restoreAll; pro načteni obsahu stránky.">
 <!ENTITY tabCrashed.requestHelp "Pomůžete nám?">
-<!ENTITY tabCrashed.requestHelpMessage "Hlášení o pádech nám pomáhají rozpoznat problémy a &brandShortName; dále zlepšovat.">
+<!ENTITY tabCrashed.requestHelpMessage "Hlášení o pádech nám pomáhají rozpoznat problémy a aplikaci &brandShortName; dále zlepšovat.">
 <!ENTITY tabCrashed.requestReport "Nahlásit tento panel">
 <!ENTITY tabCrashed.sendReport2 "Odeslat hlášení o pádu zobrazeného panelu">
 <!ENTITY tabCrashed.commentPlaceholder2 "Přidat komentář (komentáře jsou veřejně dostupné)">

@@ -913,16 +913,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Stáhněte si novou verzi aplikace &brandShorterName; a my vám pomůžeme s její instalací.">
 <!ENTITY updateManual.whatsnew.label "Co je nového.">
 <!ENTITY updateManual.header.message "&brandShorterName; nemůže nainstalovat nejnovější verzi.">
-<!ENTITY updateManual.acceptButton.label "Stáhnout &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Stáhnout aplikaci &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "S">
 <!ENTITY updateManual.cancelButton.label "Teď ne">
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Stáhnout novou verzi aplikace &brandShorterName;">
 
 <!ENTITY updateRestart.message "Po rychlém restartu obnoví &brandShorterName; všechny otevřené panely a okna.">
-<!ENTITY updateRestart.header.message "Restartovat &brandShorterName; a nainstalovat aktualizaci.">
+<!ENTITY updateRestart.header.message "Restartovat aplikaci &brandShorterName; a nainstalovat aktualizaci.">
 <!ENTITY updateRestart.acceptButton.label "Restartovat a obnovit">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teď ne">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label "Restartovat &brandShorterName; a nainstalovat aktualizaci">
+<!ENTITY updateRestart.panelUI.label "Restartovat aplikaci &brandShorterName; a nainstalovat aktualizaci">
