@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Perlindungan Pelacakan">
+<!ENTITY  trackingProtection.description       "Pelacakan adalah ketika perusahaan mengumpulkan informasi tentang Anda untuk menyusun sebuah profil dan menampilkan konten berdasarkan penjelajahan dan data pribadi Anda.">
 <!ENTITY  trackingProtectionAlways.label       "Selalu">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya di jendela pribadi">
