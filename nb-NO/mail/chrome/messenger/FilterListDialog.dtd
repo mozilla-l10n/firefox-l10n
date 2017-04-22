@@ -7,8 +7,8 @@
 <!ENTITY activeColumn.label "Påslått">
 <!ENTITY newButton.label "Nytt …">
 <!ENTITY newButton.accesskey "N">
-
-
+<!ENTITY newButton.popupCopy.label "Kopier…">
+<!ENTITY newButton.popupCopy.accesskey "K">
 <!ENTITY editButton.label "Rediger …">
 <!ENTITY editButton.accesskey "R">
 <!ENTITY deleteButton.label "Slett">
@@ -38,4 +38,6 @@
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
 <!ENTITY searchBox.emptyText "Søk i filtre etter navn …">
+
+
 
