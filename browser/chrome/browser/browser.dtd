@@ -291,45 +291,45 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNonRemoteWindow.label   "បង្អួច​គ្មាន-e10s ថ្មី">
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
-<!ENTITY editMenu.accesskey       "E"> 
+<!ENTITY editMenu.accesskey       ""> 
 <!ENTITY undoCmd.label            "មិនធ្វើវិញ">  
-<!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "U"> 
+<!ENTITY undoCmd.key            "">  
+<!ENTITY undoCmd.accesskey          ""> 
 <!ENTITY redoCmd.label            "ធ្វើវិញ">  
-<!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "R"> 
+<!ENTITY redoCmd.key            "">  
+<!ENTITY redoCmd.accesskey          ""> 
 <!ENTITY cutCmd.label           "កាត់">  
-<!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "t"> 
+<!ENTITY cutCmd.key             "">  
+<!ENTITY cutCmd.accesskey         ""> 
 <!ENTITY copyCmd.label            "ចម្លង">  
-<!ENTITY copyCmd.key            "C">  
-<!ENTITY copyCmd.accesskey          "C"> 
+<!ENTITY copyCmd.key            "">  
+<!ENTITY copyCmd.accesskey          ""> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
-<!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "P"> 
+<!ENTITY pasteCmd.key           "">  
+<!ENTITY pasteCmd.accesskey         ""> 
 <!ENTITY deleteCmd.label          "លុប">  
-<!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "D"> 
+<!ENTITY deleteCmd.key            "">  
+<!ENTITY deleteCmd.accesskey        ""> 
 <!ENTITY selectAllCmd.label         "ជ្រើស​ទាំងអស់">  
-<!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "A"> 
+<!ENTITY selectAllCmd.key         "">  
+<!ENTITY selectAllCmd.accesskey       ""> 
 <!ENTITY preferencesCmd2.label       "ជម្រើស">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "">
 <!ENTITY preferencesCmdUnix.label       "ចំណូលចិត្ត">
-<!ENTITY preferencesCmdUnix.accesskey     "n"> 
+<!ENTITY preferencesCmdUnix.accesskey     ""> 
 
 <!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "P">
+<!ENTITY privateBrowsingCmd.commandkey          "">
 
 <!ENTITY viewMenu.label         "មើល"> 
-<!ENTITY viewMenu.accesskey       "V"> 
+<!ENTITY viewMenu.accesskey       ""> 
 <!ENTITY viewToolbarsMenu.label       "របារ​ឧបករណ៍"> 
-<!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewToolbarsMenu.accesskey     ""> 
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
-<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewSidebarMenu.accesskey "">
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "C">
+<!ENTITY viewCustomizeToolbar.accesskey     "">
 
 <!ENTITY historyMenu.label "ប្រវត្តិ">
 <!ENTITY historyMenu.accesskey "s">
@@ -906,7 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "មាន​បច្ចុប្បន្នភាព &brandShorterName; ថ្មី។">
 <!ENTITY updateAvailable.acceptButton.label "ទាញ​យក​បច្ចុប្បន្នភាព">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
-<!ENTITY updateAvailable.cancelButton.label "កុំ​ទាន់">
+<!ENTITY updateAvailable.cancelButton.label "កុំ​ទាន់​​អាល">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "ទាញ​យក​បច្ចុប្បន្នភាព &brandShorterName;">
 
@@ -915,4 +915,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "មិន​អាច​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName; ទៅ​កំណែ​ថ្មី​បំផុត​បាន​ទេ។">
 <!ENTITY updateManual.acceptButton.label "ទាញ​យក &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "កុំ​ទាន់​អាល">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "ទាញ​យក​ច្បាប់​ចម្លង &brandShorterName; ថ្មី">
 
+<!ENTITY updateRestart.message "បន្ទាប់ពី​ចាប់ផ្ដើម​ឡើងវិញ &brandShorterName; នឹង​ស្ដារ​ផ្ទាំង​កម្មវិធី​ទាំងអស់​របស់​អ្នក​ដូច​ដើម​វិញ។">
+<!ENTITY updateRestart.header.message "ចាប់ផ្ដើម &brandShorterName; ឡើងវិញ​ដើម្បី​អនុវត្ត​បច្ចុប្បន្នភាព។">
+<!ENTITY updateRestart.acceptButton.label "ចាប់ផ្ដើម និង​ស្ដារ">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "កុំ​ទាន់​អាល">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "ចាប់ផ្ដើម &brandShorterName; ឡើងវិញ​ដើម្បី​អនុវត្ត​បច្ចុប្បន្នភាព">
