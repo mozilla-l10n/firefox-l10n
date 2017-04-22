@@ -270,69 +270,69 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "កម្មវិធី​បន្ថែម">
-<!ENTITY addons.accesskey             "ក">
+<!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
-<!ENTITY webDeveloperMenu.accesskey   "ប">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "ត្រួតពិនិត្យ​ធាតុ">
 <!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
-<!ENTITY fileMenu.accesskey       "ឯ">
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
 <!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ប">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
-<!ENTITY newPrivateWindow.accesskey "ប">
+<!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "បង្អួច​គ្មាន-e10s ថ្មី">
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
-<!ENTITY editMenu.accesskey       "ក"> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "មិនធ្វើវិញ">  
 <!ENTITY undoCmd.key            "Z">  
-<!ENTITY undoCmd.accesskey          "ម"> 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ធ្វើវិញ">  
 <!ENTITY redoCmd.key            "Y">  
-<!ENTITY redoCmd.accesskey          "ធ"> 
+<!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "កាត់">  
 <!ENTITY cutCmd.key             "X">  
-<!ENTITY cutCmd.accesskey         "ក"> 
+<!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "ចម្លង">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
 <!ENTITY pasteCmd.key           "V">  
-<!ENTITY pasteCmd.accesskey         "ប"> 
+<!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "លុប">  
 <!ENTITY deleteCmd.key            "D">  
-<!ENTITY deleteCmd.accesskey        "ល"> 
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "ជ្រើស​ទាំងអស់">  
 <!ENTITY selectAllCmd.key         "A">  
-<!ENTITY selectAllCmd.accesskey       "អ"> 
+<!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ជម្រើស">
-<!ENTITY preferencesCmd2.accesskey     "ជ">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ចំណូលចិត្ត">
-<!ENTITY preferencesCmdUnix.accesskey     "ច"> 
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "មើល"> 
-<!ENTITY viewMenu.accesskey       "ម"> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "របារ​ឧបករណ៍"> 
-<!ENTITY viewToolbarsMenu.accesskey     "រ"> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
-<!ENTITY viewSidebarMenu.accesskey "រ">
-<!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាមតម្រូវ​ការ…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "ត">
+<!ENTITY viewSidebarMenu.accesskey "e">
+<!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "ប្រវត្តិ">
-<!ENTITY historyMenu.accesskey "ប">
+<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ">
@@ -375,27 +375,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "សមកាលកម្ម​ចំណូលចិត្ត">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ចូល​ដើម្បី​មើល​បញ្ជី​នៃ​ផ្ទាំង​ទាំង​ឡាយ​ពី​ឧបករណ៍​ផ្សេង​ទៀត​របស់​អ្នក។​">
 <!ENTITY appMenuRemoteTabs.signin.label "ចូល​ដើម្បី​ធ្វើ​សមកាលកម្ម">
+<!ENTITY appMenuRemoteTabs.managedevices.label "គ្រប់គ្រង​ឧបករណ៍…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "មើល​របា​ចំហៀង​នៃផ្ទាំងដែលបានធ្វើ​សមកាលកម្ម​">
 
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
-<!ENTITY customizeMenu.addToToolbar.accesskey "ប">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "បន្ថែម​ទៅម៉ឺនុយ">
-<!ENTITY customizeMenu.addToPanel.accesskey "ម">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ផ្លាស់ទី​ទៅរបារ​ឧបករណ៍">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "រ">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ផ្លាស់​ទី​​ទៅ​ម៉ឺនុយ">
-<!ENTITY customizeMenu.moveToPanel.accesskey "ផ">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "លុប​ចេញពី​របារ​ឧបករណ៍">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "ល">
-<!ENTITY customizeMenu.removeFromMenu.label "លុប​ចេញពីម៉ឺនុយ">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "ម">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.label "លុប​ចេញពី​ម៉ឺនុយ">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "បន្ថែម​ធាតុ​ច្រើន​ទៀត…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "ប">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
@@ -510,7 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageCmd.label           "មើល​រូបភាព">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "មើល​ព័ត៌មាន​របស់​រូបភាព">
-<!ENTITY viewImageInfoCmd.accesskey   "រ">
+<!ENTITY viewImageInfoCmd.accesskey   "f">
 <!ENTITY viewImageDescCmd.label       "មើល​សេចក្ដី​ពណ៌នា">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "មើល​វីដេអូ">
