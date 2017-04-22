@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Parcourir…">
 <!ENTITY loaddevice.browse.accesskey            "P">
 
+<!ENTITY loaddevice.title2                      "Charger le pilote du périphérique PKCS#11">
