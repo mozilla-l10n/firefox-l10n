@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "p">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Namespace pessoal:">
