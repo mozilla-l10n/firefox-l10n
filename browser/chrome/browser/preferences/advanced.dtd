@@ -84,6 +84,10 @@
 <!ENTITY updateTab.label                 "อัปเดต">
 
 <!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
+<!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
+<!ENTITY updateAuto2.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำสำหรับความปลอดภัยที่เพิ่มขึ้น)">
+<!ENTITY updateCheckChoose2.label        "ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
+<!ENTITY updateManual2.label             "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)">
 
 <!ENTITY updateHistory2.label            "แสดงประวัติการอัปเดต…">
 
