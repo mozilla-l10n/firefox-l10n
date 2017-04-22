@@ -5,8 +5,8 @@
 <!ENTITY addressbookWindow.title                        "Adressebok">
 <!ENTITY blankResultsPaneMessage.label                  "Denne adresseboken viser kontakter bare etter at du har gjort et søk">
 <!ENTITY localResultsOnlyMessage.label                  "Kontakter fra eksterne adressebøker vises ikke før du søker">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY fileMenu.label                                 "Fil">
 <!ENTITY fileMenu.accesskey                             "F">
 <!ENTITY newMenu.label                                  "Ny">
@@ -40,8 +40,8 @@
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "Skriv ut adressebok …">
 <!ENTITY printAddressBook.accesskey                     "k">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY editMenu.label                                 "Rediger">
 <!ENTITY editMenu.accesskey                             "R">
 <!ENTITY undoCmd.label                                  "Angre">
@@ -79,14 +79,14 @@
 <!ENTITY propertiesMenu.label                           "Egenskaper">
 <!ENTITY propertiesMenu.accesskey                       "E">
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Egenskaper for adressebok">
+<!ENTITY abPropertiesMenu.accesskey                     "e">
+<!ENTITY contactPropertiesMenu.label                    "Egenskaper for kontakter">
+<!ENTITY contactPropertiesMenu.accesskey                "e">
+<!ENTITY mailingListPropertiesMenu.label                "Egenskaper for e-postliste">
+<!ENTITY mailingListPropertiesMenu.accesskey            "e">
 
 <!-- View Menu -->
-
 <!ENTITY viewMenu.label                                 "Vis">
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Verktøylinjer">
@@ -117,8 +117,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY displayNameCmd.accesskey                       "V">
 <!ENTITY sortMenu.label                                 "Sorter etter">
 <!ENTITY sortMenu.accesskey                             "S">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label                                "Verktøy">
 <!ENTITY tasksMenu.accesskey                            "e">
 <!ENTITY messengerCmd.label                             "E-post og nyhetsgrupper">
@@ -134,21 +134,23 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.accesskey                      "I">
 <!ENTITY preferencesCmdUnix.label                       "Innstillinger">
 <!ENTITY preferencesCmdUnix.accesskey                   "n">
-<!-- Address Book Toolbar and Context Menus -->
 
+<!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Ny kontakt">
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Ny liste">
 <!ENTITY newlistButton.accesskey                        "l">
+<!ENTITY showAsDefault.label                            "Standard startkatalog">
+<!ENTITY showAsDefault.accesskey                        "S">
 <!ENTITY editPropertiesButton.label                     "Rediger">
 <!ENTITY propertiesContext.label                        "Egenskaper">
 <!ENTITY propertiesContext.accesskey                    "E">
 <!ENTITY abPropertiesContext.label                      "Egenskaper">
 <!ENTITY abPropertiesContext.accesskey                  "E">
-
-
-
-
+<!ENTITY editContactContext.label                       "Rediger kontakt">
+<!ENTITY editContactContext.accesskey                   "R">
+<!ENTITY editMailingListContext.label                   "Rediger liste">
+<!ENTITY editMailingListContext.accesskey               "R">
 <!ENTITY newmsgButton.label                             "Skriv ny">
 <!ENTITY newmsgButton.accesskey                         "n">
 <!ENTITY newIM.label                                    "Lynmelding">
@@ -157,29 +159,29 @@ because displayed names don't have the comma in between. -->
 <!ENTITY printButton.accesskey                          "k">
 <!ENTITY deleteButton2.label                            "Slett">
 <!ENTITY deleteButton2.accesskey                        "S">
-<!-- Address Book Toolbar Tooltips -->
 
+<!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Lag en ny kontakt">
 <!ENTITY newlistButton.tooltip                          "Lag en ny liste">
 <!ENTITY editPropertiesButton.tooltip                   "Rediger valgt element">
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Endre egenskapene for den valgte adresseboken">
 <!ENTITY editContactPropertiesButton.tooltip            "Rediger valgt kontakt">
-
+<!ENTITY editMailingListPropertiesButton.tooltip        "Rediger valgt e-postliste">
 <!ENTITY newmsgButton.tooltip                           "Send en e-post">
 <!ENTITY newIM.tooltip                                  "Send en melding eller chat">
 <!ENTITY deleteButton2.tooltip                          "Slett valgt element">
+
 <!-- Dir Tree header -->
-
 <!ENTITY dirTreeHeader.label                            "Adressebøker">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label                        "Navn eller e-post">
 <!ENTITY SearchNameOrEmail.accesskey                    "N">
 <!ENTITY advancedButton.tooltip                         "Avansert adressesøk">
 <!ENTITY quickSearchCmd.key                             "k">
 <!ENTITY searchItem.title "Hurtigsøk">
-<!-- Results Pane -->
 
+<!-- Results Pane -->
 <!ENTITY Addrbook.label                                 "Adressebok">
 <!ENTITY Addrbook.accesskey                             "b">
 <!ENTITY GeneratedName.label                            "Navn">
@@ -214,9 +216,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortDescending.accesskey                       "y">
 <!ENTITY _PhoneticName.label                            "Fonetisk navn">
 <!ENTITY _PhoneticName.accesskey                        "F">
+
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
-
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Hjem">
 <!ENTITY other.heading                                  "Annet">
@@ -229,11 +231,11 @@ because displayed names don't have the comma in between. -->
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Hent kart">
 <!ENTITY mapIt.tooltip                                  "Vis et kart over denne adressen fra Internett">
+
 <!-- Status Bar -->
-
 <!ENTITY statusText.label                               "">
-<!--  Mac OS X Window Menu -->
 
+<!--  Mac OS X Window Menu -->
 <!ENTITY windowMenu.label                               "Vindu">
 <!ENTITY minimizeWindow.label                           "Minimer">
 <!ENTITY minimizeWindow.key                             "m">
