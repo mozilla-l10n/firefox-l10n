@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Προστασία από παρακολούθηση">
+<!ENTITY  trackingProtection.description       "Παρακολούθηση είναι όταν οι εταιρείες συλλέγουν πληροφορίες σχετικά με εσάς για να δημιουργήσουν ένα προφίλ και να εμφανίζουν περιεχόμενο βασισμένο στην περιήγησή σας και τα προσωπικά σας δεδομένα.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Φραγή εμφάνισης περιεχομένου γνωστών εταιρειών παρακολούθησης">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
 <!ENTITY  trackingProtectionAlways.accesskey   "α">
