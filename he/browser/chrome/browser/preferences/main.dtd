@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "הפעלה">
 
+<!ENTITY startupPage2.label        "כאשר &brandShortName; מופעל">
+<!ENTITY startupPage2.accesskey    "כ">
 <!ENTITY startupUserHomePage.label "יוצג דף הבית">
 <!ENTITY startupBlankPage.label    "יוצג דף ריק">
 <!ENTITY startupPrevSession.label  "יוצגו החלונות והלשוניות מהפעם האחרונה">
 
+<!ENTITY homepage2.label           "דף הבית">
+<!ENTITY homepage2.accesskey       "ב">
 <!ENTITY useCurrentPage.label      "שימוש בדף הנוכחי">
 <!ENTITY useCurrentPage.accesskey  "נ">
 <!ENTITY useMultiple.label         "שימוש בדפים הנוכחיים">
