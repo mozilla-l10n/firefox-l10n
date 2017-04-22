@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ခြေရာခံ ကာကွယ်မှု">
+<!ENTITY  trackingProtection.description       "ခြေရာခံခြင်းသည် ကုမ္ပဏီများက သင်နှင့်ပတ်သက်သော အချက်အလက်များနှင့် သင်ကြည့်ရှုထားသော ကိုယ်ရေးကိုယ်တာ အချက်အလက်များပေါ် အခြေခံပြီး ပရိုဖိုင်းတည်ဆောက်ခြင်း ဖြစ်သည်။">
+<!ENTITY  trackingProtection.radioGroupLabel   "စာရင်းရှိ ခြေရာခံ ကုမ္ပဏီများထံမှ အချက်အလက်များပြသခြင်းကို ပိတ်ပင်ပါ">
 <!ENTITY  trackingProtectionAlways.label       "အမြဲတမ်း">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "သီးသန့်ဝင်းဒိုးများတွင်သာလျှင်">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "တည်နေရာ အတန်း">
 
+<!ENTITY  locbar.suggest2.label         "တည်နေရာဘားတန်းကို အသုံးပြုပါက အကြံပေးပါ၊">
 <!ENTITY  locbar.history.label          "မှတ်တမ်း">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "စာမှတ်များ">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "မူသေ ရှာဖွေရေးအင်ဂျင်မှ ဆက်စပ်သည့် ရှာဖွေမှုများ">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "ရှာဖွေရေးယန္တရား၏ အကြံပေးချက်များအတွက် အပြင်အဆင်ကို ပြောင်းလဲရန်">
 
 <!ENTITY  acceptCookies.label           "ဝဘ်ဆိုက်များထံမှ ကွတ်ကီးများကို လက်ခံပါ">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "ကွတ်ကီးများကို ​ပြသပါ...">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; သည်">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "မှတ်တမ်းကို မှတ်ထားမည်">
 <!ENTITY  historyHeader.dontremember.label "မှတ်တမ်းကို ဘယ်တော့မှ မမှတ်ထားပါ">
 <!ENTITY  historyHeader.custom.label       "မှတ်တမ်းအတွက် စိတ်ကြိုက်အပြင်အဆင်ကို အသုံးပြုမည်">
