@@ -21,7 +21,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Details">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
-<!ENTITY certmgr.pending.label                "Certificaat aan het verifiëren…">
+<!ENTITY certmgr.pending.label                "Certificaat wordt geverifieerd…">
 <!ENTITY certmgr.subjectinfo.label            "Uitgegeven aan">
 <!ENTITY certmgr.issuerinfo.label             "Uitgegeven door">
 <!ENTITY certmgr.periodofvalidity.label       "Geldigheidsduur" >

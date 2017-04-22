@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informatie over de url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Provider">
+<!ENTITY aboutUrlClassifier.provider                    "Provider">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Tijdstip van laatste update">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Tijdstip van volgende update">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status van laatste update">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Bijwerken">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Opzoeken">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Overeenkomst">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat van overeenkomst controleren">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Opzoeken">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat van opzoeken controleren">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Geheugen">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debuggen">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Logmodules instellen">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Logbestand instellen">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS-registratie instellen">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Logmodules van Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules                "Huidige logmodules">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS-registratie van Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugFile                   "Huidige logbestand">

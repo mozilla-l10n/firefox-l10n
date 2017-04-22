@@ -27,10 +27,10 @@
 <!ENTITY loaddevice.info                        "Voer de informatie in voor de module die u wilt toevoegen.">
 <!ENTITY loaddevice.modname                     "Modulenaam:">
 <!ENTITY loaddevice.modname.accesskey           "M">
-<!ENTITY loaddevice.modname.default             "Nieuwe PKCS #11-module">
+<!ENTITY loaddevice.modname.default             "Nieuwe PKCS#11-module">
 <!ENTITY loaddevice.filename                    "Modulebestandsnaam:">
 <!ENTITY loaddevice.filename.accesskey          "b">
 <!ENTITY loaddevice.browse                      "Bladeren…">
 <!ENTITY loaddevice.browse.accesskey            "a">
 
-<!ENTITY loaddevice.title                       "PKCS #11-apparaat laden">
+<!ENTITY loaddevice.title2                      "PKCS#11-apparaatstuurprogramma laden">
