@@ -84,12 +84,22 @@
 <!ENTITY updateTab.label                 "עדכון">
 
 <!ENTITY updateApplication.label         "עדכוני &brandShortName;">
+<!ENTITY updateAuto2.label               "להתקין אוטומטית עדכונים (מומלץ מטעמי אבטחה משופרת)">
+<!ENTITY updateAuto2.accesskey           "א">
+<!ENTITY updateCheckChoose2.label        "לבדוק אם קיימים עדכונים אבל לדרוש אישור כדי להתקין אותם">
+<!ENTITY updateCheckChoose2.accesskey    "ב">
+<!ENTITY updateManual2.label             "לעולם לא לבדוק לעדכונים (לא מומלץ)">
+<!ENTITY updateManual2.accesskey         "ל">
 
+<!ENTITY updateHistory2.label            "הצגת היסטורית עדכונים…">
 
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
 <!ENTITY useService.accesskey            "ר">
 
+<!ENTITY enableSearchUpdate2.label       "עדכון מנועי חיפוש באופן אוטומטי">
+<!ENTITY enableSearchUpdate2.accesskey   "ע">
 
+<!ENTITY reports.label                   "דיווחים">
 
 <!ENTITY offlineStorageNotify.label               "דיווח כאשר אתר מבקש לשמור נתונים לשימוש לא מקוון">
 <!ENTITY offlineStorageNotify.accesskey           "ד">
