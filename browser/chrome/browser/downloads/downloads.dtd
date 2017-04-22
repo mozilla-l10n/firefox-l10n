@@ -63,7 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "d">
 <!ENTITY cmd.removeFromHistory.label      "Retirer de l’historique">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "Effacer le panneau d’aperçu">
+<!ENTITY cmd.clearList2.label             "Vider le panneau d’aperçu">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Vider la liste des téléchargements">
 <!ENTITY cmd.clearDownloads.accesskey     "V">
