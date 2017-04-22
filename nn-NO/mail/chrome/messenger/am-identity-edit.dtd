@@ -14,5 +14,5 @@
 
 <!ENTITY publicData.label        "Offentlege data">
 <!ENTITY privateData.label       "Private data">
-<!ENTITY identityAlias.label     "Identitetsmerlelapp:">
+<!ENTITY identityAlias.label     "Identitetsetikett:">
 <!ENTITY identityAlias.accesskey "m">
