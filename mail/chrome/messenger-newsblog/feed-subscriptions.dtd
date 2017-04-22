@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Abonnement på nyhetskilder">
 <!ENTITY learnMore.label             "Les mer om nyhetskilder">
 
@@ -18,6 +18,13 @@
 <!ENTITY feedFolder.label            "Lagre artikler i:">
 <!ENTITY feedFolder.accesskey        "L">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Se etter nye artikler hvert ">
+<!ENTITY biffMinutes.label           "minutter">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dager">
+<!ENTITY biffDays.accesskey          "d">
+
 <!ENTITY quickMode.label             "Vis artikkeloppsummering istedenfor å laste nettsiden">
 <!ENTITY quickMode.accesskey         "V">
 
@@ -27,6 +34,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Skriv inn taggprefiks">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Legg til">
 <!ENTITY button.addFeed.accesskey    "L">
 <!ENTITY button.updateFeed.label     "Rediger">

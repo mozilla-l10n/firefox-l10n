@@ -2,16 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY dialogTitle                  "Fjern konto og data">
+<!ENTITY removeButton.label           "Fjern">
+<!ENTITY removeAccount.label          "Fjern kontoinformasjon">
+<!ENTITY removeData.label             "Fjern meldingsdata">
+<!ENTITY removeDataChat.label         "Fjern samtaledata">
+<!ENTITY showData.label               "Vis dataplassering">
+<!ENTITY progressPending              "Fjerner valgte data…">
+<!ENTITY progressSuccess              "Vellykket fjerning.">
+<!ENTITY progressFailure              "Fjerning mislykket.">
