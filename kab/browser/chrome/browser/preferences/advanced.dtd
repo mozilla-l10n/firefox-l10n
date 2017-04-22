@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Amatu">
 
@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "S">
 <!ENTITY searchOnStartTyping.label       "Nadi aḍris ticki tebda tira">
 <!ENTITY searchOnStartTyping.accesskey   "N">
-<!ENTITY blockAutoReload.label           "Lɣu-yid ticki asmel web ad yeɛreḍ asnifel n ubrid neɣ asniles n usali ">
+<!ENTITY blockAutoReload.label           "Lγu-yid ticki asmel web ad yeɛreḍ asnifel n ubrid neɣ asniles n usali ">
 <!ENTITY blockAutoReload.accesskey       "L">
 <!ENTITY useOnScreenKeyboard.label       "Sken anasiw amennalan ticki terra tmara">
 <!ENTITY useOnScreenKeyboard.accesskey   "n">
@@ -56,21 +56,21 @@
 <!ENTITY httpCache.label                 "Agbur web uffir">
 
 <!ENTITY offlineStorage2.label           "Agbur web d isefka n useqdac deg uskar war tuqqna">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "isefka n usmel">
 <!ENTITY clearSiteData.label             "kkes akk isefka">
 <!ENTITY clearSiteData.accesskey         "k">
 <!ENTITY siteDataSettings.label          "Iɣewwaṛen...">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Lmed ugar">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Err talast n tuffirt ɣer">
 <!ENTITY limitCacheSizeBefore.accesskey  "E">
 <!ENTITY limitCacheSizeAfter.label       "MAṬ n wadeg">
@@ -84,22 +84,18 @@
 <!ENTITY updateTab.label                 "Leqqem">
 
 <!ENTITY updateApplication.label         "Ileqman n. &brandShortName;">
-<!ENTITY updateAuto1.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
-<!ENTITY updateAuto1.accesskey           "A">
-<!ENTITY updateCheckChoose.label         "Senqed ma llan ileqman, acu kan eǧǧ-iyi a ten-sbeddeɣ ">
-<!ENTITY updateCheckChoose.accesskey     "n">
-<!ENTITY updateManual.label              "Weṛǧin ad tesneqdeḍ ileqman (ur ilhi ara acku yella wugur n tɣellist)">
-<!ENTITY updateManual.accesskey          "W">
+<!ENTITY updateApplication.description   "Sireg &brandShortName; akken ad">
+<!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman macac ad k-yeǧǧ ad ferneḍ asebded">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)">
+<!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory.label             "Sken amazray n ileqman">
-<!ENTITY updateHistory.accesskey         "S">
+<!ENTITY updateHistory2.label            "Sken-d amazray n ulqqem…">
 
 <!ENTITY useService.label                "Seqdec ameẓlu n ugilal i usebded n ileqman">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Leqqem s wudem awurman  ">
-<!ENTITY enableSearchUpdate.label        "Imseddayen n unadi">
-<!ENTITY enableSearchUpdate.accesskey    "E">
+
 
 <!ENTITY offlineStorageNotify.label               "Lɣu-yi-d ticki asmel yebɣa ad isekles isefka i useqdec arusrid ">
 <!ENTITY offlineStorageNotify.accesskey           "L">
@@ -113,8 +109,6 @@
 <!ENTITY offlineAppRemove.confirm        "Kkes isefka war tuqqna">
 
 <!ENTITY certificateTab.label            "Iselkinen">
-<!ENTITY certPersonal.label              "Isutren">
-<!ENTITY certPersonal.description        "Ticki aqeddac isuter aselkin-iw udmawan: ">
 <!ENTITY selectCerts.auto                "Fren yiwen s wudem awurman">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Steqsi-yi-d yal tikelt ">
