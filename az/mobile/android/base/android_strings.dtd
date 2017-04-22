@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "Ana Səhifə">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Həmçinin yeni vərəqlər üçün istifadə et">
 <!ENTITY home_homepage_title "Ana Səhifə seç">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Tətbiqlərə saytları &brandShortName; səyyahının fərdiləşdirilmiş versiyası ilə açmağa icazə ver">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; ilə aç">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; dəstəyi ilə">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL köçürüldü">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktivlik Axını">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Sistemin şrift ölçüsünü işlət">
+<!ENTITY pref_use_system_font_size_summary "Web məzmununu sistemin şrift ölçüsünə görə miqyasla">
 
 <!ENTITY pref_media_autoplay_enabled "Avtomatik oxutmağa icazə ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Səhifələrin video və digər media məzmunlarını avtomatik oxudub oxutmayacaqlarını idarə et">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Məxvi vərəqdə aç">
 <!ENTITY contextmenu_remove "Sil">
 <!ENTITY contextmenu_add_to_launcher "Ana ekrana əlavə et">
+<!ENTITY contextmenu_set_as_homepage "Ana səhifə olaraq qur">
 <!ENTITY contextmenu_share "Paylaş">
 <!ENTITY contextmenu_pasteandgo "Yapışdır və aç">
 <!ENTITY contextmenu_paste "Yapışdır">
