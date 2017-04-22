@@ -167,12 +167,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ច្រើន​ទៀត…">
 <!ENTITY sharePageCmd.label "ចែករំលែកទំព័រ​នេះ">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "ទ">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ចែករំលែក​​តំណ​​នេះ">
-<!ENTITY shareLink.accesskey "ច">
+<!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "ចែករំលែក​រូបភាព​នេះ">
-<!ENTITY shareImage.accesskey "ច">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "ចែករំលែក​​ជម្រើស">
 <!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
@@ -263,10 +263,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
-<!ENTITY keywordfield.accesskey       "ព">
+<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ទាញ​យក">
-<!ENTITY downloads.accesskey          "ទ">
+<!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "កម្មវិធី​បន្ថែម">
