@@ -37,8 +37,8 @@
 <!ENTITY pkcs12.setpassword.label2 "Κωδικός αντιγράφου ασφάλειας πιστοποιητικού (ξανά):">
 <!ENTITY pkcs12.setpassword.reminder "Προειδοποίηση: Αν ξεχάσετε τον κωδικό ασφάλειας, δεν θα μπορείτε να ανακτήσετε αυτό το αντίγραφο αργότερα. Φυλάξτε το σε ασφαλή τοποθεσία.">
 
-<!ENTITY chooseToken.title  "Επιλογή διαλόγου token">
-<!ENTITY chooseToken.message1 "Επιλέξτε ένα token">
+<!ENTITY chooseToken.title  "Διάλογος επιλογής διακριτικού">
+<!ENTITY chooseToken.message1 "Παρακαλώ επιλέξτε ένα διακριτικό.">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "Δημιουργία ιδιωτικού κλειδιού">
