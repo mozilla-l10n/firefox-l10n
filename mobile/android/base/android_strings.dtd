@@ -288,6 +288,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Odpri v &formatS;">
+<!ENTITY custom_tabs_menu_footer "Omogoča &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Spletni naslov kopiran">
 
@@ -365,6 +366,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Uporabljaj sistemsko velikost pisave">
+<!ENTITY pref_use_system_font_size_summary "Prilagodi spletno vsebino sistemski velikosti pisave">
 
 <!ENTITY pref_media_autoplay_enabled "Samodejno predvajanje">
 <!ENTITY pref_media_autoplay_enabled_summary "Določite, ali lahko spletne strani samodejno predvajajo videe in druge vsebine">
