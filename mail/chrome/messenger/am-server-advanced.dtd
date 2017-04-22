@@ -12,6 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "T">
 <!ENTITY maximumConnectionsNumber.label "Høgste tal på tenartilkoplingar til mellomlageret">
 <!ENTITY maximumConnectionsNumber.accesskey "t">
+<!ENTITY forceSelect.label "Send IMAP markert til tenaren ved kontroll av ny e-post">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Desse innstillingane fastset namneromma på IMAP-tenaren">
 <!ENTITY personalNamespace.label "Personleg namnerom:">

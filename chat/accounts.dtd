@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Account manager window for Instantbird -->
 
+<!-- Account manager window for Instantbird -->
 <!ENTITY accounts.title                      "Kontoar - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
@@ -20,9 +20,9 @@
 <!ENTITY accountManager.noAccount.description "Trykk på &accountManager.newAccount.label;-knappen for å la &brandShortName; guide deg gjennom prosessen med å setja opp ein.">
 <!ENTITY account.autoSignOn.label     "Registrering ved oppstart">
 <!ENTITY account.autoSignOn.accesskey "R">
-<!ENTITY account.connect.label        "Kopla til">
+<!ENTITY account.connect.label        "Kople til">
 <!ENTITY account.connect.accesskey    "o">
-<!ENTITY account.disconnect.label     "Kopla frå">
+<!ENTITY account.disconnect.label     "Kople frå">
 <!ENTITY account.disconnect.accesskey "o">
 <!ENTITY account.delete.label         "Slett">
 <!ENTITY account.delete.accesskey     "S">
@@ -36,6 +36,6 @@
 <!ENTITY account.copyDebugLog.accesskey "K">
 <!ENTITY account.showDebugLog.label     "Vis feillogg">
 <!ENTITY account.showDebugLog.accesskey "i">
-<!ENTITY account.connecting           "Koplar til …">
-<!ENTITY account.disconnecting        "Koplar frå …">
+<!ENTITY account.connecting           "Koplar til…">
+<!ENTITY account.disconnecting        "Koplar frå…">
 <!ENTITY account.disconnected         "Ikkje tilkopla">
