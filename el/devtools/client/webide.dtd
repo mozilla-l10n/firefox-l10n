@@ -189,7 +189,7 @@
 <!ENTITY wifi_auth_yes_scanner "Υπάρχει ένδειξη σαρωτή QR;">
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
-<!ENTITY wifi_auth_token_request "Αν η άλλη σας συσκευή ζητά ένα σύμβολο (token) αντί για τη σάρωση ενός κωδικού QR, παρακαλώ αντιγράψτε την παρακάτω τιμή στην άλλη συσκευή:">
+<!ENTITY wifi_auth_token_request "Αν η άλλη σας συσκευή ζητά ένα διακριτικό αντί για τη σάρωση ενός κωδικού QR, παρακαλώ αντιγράψτε την παρακάτω τιμή στην άλλη συσκευή:">
 <!ENTITY wifi_auth_qr_size_note "Αν ο κωδικός QR εμφανίζεται τόσο μικρός, ώστε να μην μπορεί να πραγματοποιηθεί επιτυχώς η σύνδεση, δοκιμάστε να κάνετε ζουμ ή να μεγεθύνετε το παράθυρο.">
 
 <!-- Logs panel -->

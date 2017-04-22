@@ -7,8 +7,10 @@
 <!ENTITY aboutUrlClassifier.providerTitle               "Πάροχος">
 <!ENTITY aboutUrlClassifier.provider                    "Πάροχος">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ενημέρωση">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Αναζήτηση">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Αντιστοιχία">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Αναζήτηση">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Μνήμη">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Βάση δεδομένων">
