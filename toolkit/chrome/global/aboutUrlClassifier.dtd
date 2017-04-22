@@ -15,3 +15,4 @@
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Μνήμη">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Βάση δεδομένων">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Αποσφαλμάτωση">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Αρχείο καταγραφής JS ασφαλούς περιήγησης">
