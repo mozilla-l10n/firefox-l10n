@@ -14,8 +14,11 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "Umum">
+<!ENTITY  paneFilesApplications.title   "Berkas &amp; Aplikasi">
+<!ENTITY  panePrivacySecurity.title     "Privasi &amp; Keamanan">
 <!ENTITY  paneContainers.title          "Tab Kontainer">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Akun Firefox">
 
 
