@@ -85,12 +85,23 @@
 
 <!ENTITY updateApplication.label         "បច្ចុប្បន្នភាព &brandShortName;">
 <!ENTITY updateApplication.description   "អនុញ្ញាត &brandShortName; ឲ្យ">
+<!ENTITY updateAuto2.label               "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ណែនាំ​សម្រាប់​ធ្វើ​ឲ្យ​​សុវត្ថិភាព​​ប្រសើរ)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "ពិនិត្យ​មើល​បច្ចុប្បន្នភាព ប៉ុន្តែ​អាច​ឲ្យ​អ្នក​ជ្រើសរើស​ដំឡើង​ពួកវា​បាន">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "កុំ​ពិនិត្យមើល​បច្ចុប្បន្នភាព​ឲ្យ​សោះ (មិន​ណែនាំ​ឲ្យ​ធ្វើ​ដូច្នេះ​ទេ)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "បង្ហាញ​ប្រវត្តិ​បច្ចុប្បន្នភាព...">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
 <!ENTITY useService.accesskey            "ប">
 
+<!ENTITY enableSearchUpdate2.label       "ធ្វើ​បច្ចុប្បន្នភាព​ម៉ាស៊ីន​ស្វែងរក​ដោយស្វ័យប្រវត្តិ">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "របាយការណ៍">
 
 <!ENTITY offlineStorageNotify.label               "ប្រាប់​អ្នក​នៅ​ពេល​ដែល​​គេហទំព័រ​សួរ​ឲ្យ​ផ្ទុក​ទិន្នន័យ​សម្រាប់​ប្រើប្រាស់​ពេល​គ្មាន​អ៊ីនធឺណិត">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -104,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "យក​ទិន្នន័យ​ក្រៅ​បណ្ដាញ​ចេញ">
 
 <!ENTITY certificateTab.label            "វិញ្ញាបនបត្រ">
+<!ENTITY certPersonal2.description       "នៅ​ពេល​ម៉ាស៊ីន​មេ​ស្នើ​សុំ​វិញ្ញាបនបត្រ​ផ្ទាល់ខ្លួន​របស់​អ្នក">
 <!ENTITY selectCerts.auto                "ជ្រើសរើស​​វិញ្ញាបនបត្រ​ដោយ​ស្វ័យប្រវត្តិ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "សួរ​អ្នក​រាល់លើក">

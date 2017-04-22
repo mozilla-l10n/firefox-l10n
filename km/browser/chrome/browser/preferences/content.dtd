@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "ពុម្ព​អក្សរ &amp; ពណ៌">
 
+<!ENTITY  defaultFont2.label          "ពុម្ព​អក្សរ​លំនាំដើម">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "ទំហំ">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "កម្រិតខ្ពស់…">
 <!ENTITY  advancedFonts.accesskey     "ត">
