@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "새 기능 살펴보기.">
 <!ENTITY updateAvailable.header.message "&brandShorterName; 에 새 업데이트가 있습니다.">
 <!ENTITY updateAvailable.acceptButton.label "업데이트 내려받기">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
@@ -906,11 +907,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; 업데이트 내려받기">
 
+<!ENTITY updateManual.whatsnew.label "새 기능 살펴보기.">
+<!ENTITY updateManual.header.message "&brandShorterName; 를 최신 버전으로 업데이트할 수 없습니다.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName; 내려받기">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "바로 안함">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
 
+<!ENTITY updateRestart.message "빠른 재시작 후에, &brandShorterName; 가 귀하의 모든 열린 탭과 윈도우를 복구할 것입니다.">
+<!ENTITY updateRestart.header.message "&brandShorterName; 를 재시작하여 업데이트 적용하기.">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "바로 안함">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
