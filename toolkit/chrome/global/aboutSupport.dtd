@@ -23,6 +23,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "גרסה">
 <!ENTITY aboutSupport.extensionId "מזהה">
 
+<!ENTITY aboutSupport.featureName "שם">
+<!ENTITY aboutSupport.featureVersion "גרסה">
+<!ENTITY aboutSupport.featureId "מזהה">
+
 <!ENTITY aboutSupport.experimentsTitle "תכונות ניסיוניות">
 <!ENTITY aboutSupport.experimentName "שם">
 <!ENTITY aboutSupport.experimentId "מזהה">
@@ -62,6 +66,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "פרופילים">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "חלונות מרובי תהליכים">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "מפתח עבור שירותי Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "מפתח עבור שירותי המיקום של Mozilla">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "מצב בטוח">
 
@@ -108,6 +115,9 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "העתקת נתונים גולמיים ללוח">
 
 <!ENTITY aboutSupport.sandboxTitle "ארגז חול">
+<!ENTITY aboutSupport.sandboxSyscallAge "שניות עברו">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 <!ENTITY aboutSupport.safeModeTitle "לנסות במצב בטוח">
 <!ENTITY aboutSupport.restartInSafeMode.label "הפעלה מחדש עם תוספות מנוטרלות…">
