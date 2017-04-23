@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "רענון אוטומטי בכל 3 שניות">
 <!ENTITY aboutNetworking.hostname              "שם מארח">
 <!ENTITY aboutNetworking.port                  "פתחה">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "פעיל">
 <!ENTITY aboutNetworking.idle                  "בהמתנה">
