@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "어플리케이션">
+<!ENTITY  applications.description "&brandShortName; 가 다운로드 받은 파일이나 브라우저에서 사용하고 있는 응용프로그램에 대해 어떻게 처리할 지 선택하십시오.">
 
 <!ENTITY  typeColumn.label        "파일 형식">
 <!ENTITY  typeColumn.accesskey    "T">

@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "저장된 비밀번호 메시지 패널 열기">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "사이트에서 알림을 수신할지 변경">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "영구 저장소에 데이터를 저장">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "사이트에서 카메라와 마이크를 사용할지 관리">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "사이트에서 마이크를 사용할지 관리">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "이 사이트에서 위치 정보 사용을 차단하였습니다.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "이 사이트에서 데이터 저장소 사용을 차단하였습니다.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "이 사이트에서 알림 사용을 차단하였습니다.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "이 사이트에서 영구 저장소 사용을 차단하였습니다.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "방문 목록 보기">
 
@@ -917,6 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message "빠른 재시작 후에, &brandShorterName; 가 귀하의 모든 열린 탭과 윈도우를 복구할 것입니다.">
 <!ENTITY updateRestart.header.message "&brandShorterName; 를 재시작하여 업데이트 적용하기.">
+<!ENTITY updateRestart.acceptButton.label "재시작하여 복원하기">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "바로 안함">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
