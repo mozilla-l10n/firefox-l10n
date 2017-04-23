@@ -84,7 +84,10 @@
 <!ENTITY updateTab.label                 "Pemutakhiran">
 
 <!ENTITY updateApplication.label         "Pemutakhiran &brandShortName;">
+<!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
+<!ENTITY updateAuto2.label               "Otomatis pasang pemutakhiran (disarankan untuk keamanan lebih baik)">
 <!ENTITY updateCheckChoose2.label        "Periksa pemutakhiran, biarkan saya memilih memasangnya atau tidak">
+<!ENTITY updateManual2.label             "Jangan pernah memeriksa pemutakhiran (tidak disarankan)">
 
 
 <!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
