@@ -51,6 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "프로필 사진 변경">
 <!ENTITY verifiedManage.label        "계정 관리">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "이메일 인증">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "이 이메일 없애기">
@@ -64,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "로그인">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "동기화 설정">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
