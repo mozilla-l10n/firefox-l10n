@@ -919,7 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ל">
 <!ENTITY updateManual.panelUI.label "הורדת עותק חדש של &brandShorterName;">
 
-<!ENTITY updateRestart.message "לאחר הפעלה מחדש, &brandShorterName; ישחזר את כל הלשוניות הפתוחות שלך והחלונות.">
+<!ENTITY updateRestart.message "לאחר הפעלה מחדש, &brandShorterName; ישחזר את כל הלשוניות והחלונות הפתוחים שלך.">
 <!ENTITY updateRestart.header.message "יש להפעיל מחדש את &brandShorterName; כדי להחיל את העדכון.">
 <!ENTITY updateRestart.acceptButton.label "הפעלה מחדש ושחזור">
 <!ENTITY updateRestart.acceptButton.accesskey "פ">
