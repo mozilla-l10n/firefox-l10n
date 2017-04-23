@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "ספק">
+<!ENTITY aboutUrlClassifier.provider                    "ספק">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "מועד עדכון אחרון">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "מועד העדכון הבא">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "מצב העדכון האחרון">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "עדכון">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "חיפוש">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "כתובת">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "התאמה">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "בדיקת תוצאות ההתאמה">
+<!ENTITY aboutUrlClassifier.lookupLookup                "חיפוש">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "בדיקת תוצאות חיפוש">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "מטמון">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "זיכרון">
+<!ENTITY aboutUrlClassifier.databaseTitle               "מסד נתונים">
+<!ENTITY aboutUrlClassifier.debugTitle                  "ניפוי שגיאות">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "הגדרת מודולי רישום">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "הגדרת קובץ רישום">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "הגדרת רישום JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "מודולי רישום לגלישה בטוחה">
+<!ENTITY aboutUrlClassifier.debugModules                "המודולים הנוכחיים לרישום">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "רישום JS לגלישה בטוחה">
+<!ENTITY aboutUrlClassifier.debugFile                   "קובץ הרישום הנוכחי">
