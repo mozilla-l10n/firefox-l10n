@@ -11,7 +11,12 @@
 <!ENTITY removeData.label             "Fjern meldingsdata">
 <!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Fjern samtaledata">
+<!ENTITY removeDataChat.accesskey     "d">
+<!ENTITY removeDataLocalAccount.desc  "Fjerner alle meldinger, mapper og filter som er knyttet til denne kontoen fra den lokale disken din. Dette påvirker ikke meldinger som fremdeles ligger på serveren. Ikke velg dette om du planlegger å aktivere lokale data eller bruke de igjen i &brandShortName; senere.">
+<!ENTITY removeDataServerAccount.desc "Fjerner alle meldinger, mapper og filter som er knyttet til denne kontoen fra den lokale disken din. Dine meldinger og mapper ligger fortsatt på serveren.">
+<!ENTITY removeDataChatAccount.desc   "Fjerner alle logger for samtaler som er lagret for denne konten på den lokale disken din.">
 <!ENTITY showData.label               "Vis dataplassering">
+<!ENTITY showData.accesskey           "V">
 <!ENTITY progressPending              "Fjerner valgte data…">
 <!ENTITY progressSuccess              "Vellykket fjerning.">
 <!ENTITY progressFailure              "Fjerning mislykket.">
