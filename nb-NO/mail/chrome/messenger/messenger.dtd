@@ -500,9 +500,15 @@
 <!ENTITY devToolboxCmd.label "Verktøykasse for utviklere">
 <!ENTITY devToolboxCmd.accesskey "V">
 <!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Feilsøking for utvidelser">
+<!ENTITY addonDebugCmd.accesskey "F">
+<!ENTITY tabsDebugCmd.label "Feilsøking for innholdsramme">
+<!ENTITY tabsDebugCmd.accesskey "i">
 <!ENTITY errorConsoleCmd.label "Feilmeldinger">
 <!ENTITY errorConsoleCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Kladdeblokk">
+<!ENTITY scratchpadCmd.accesskey "K">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
@@ -630,6 +636,7 @@
 <!ENTITY folderContextGetMessages.accesskey "H">
 <!ENTITY folderContextPauseAllUpdates.label "Sett alle oppdateringer på pause">
 <!ENTITY folderContextPauseUpdates.label "Sett oppdateringer på pause">
+<!ENTITY folderContextPauseUpdates.accesskey "o">
 <!ENTITY folderContextOpenInNewWindow.label "Åpne i nytt vindu">
 <!ENTITY folderContextOpenInNewWindow.accesskey "Å">
 <!ENTITY folderContextOpenNewTab.label "Åpne i ny fane">
