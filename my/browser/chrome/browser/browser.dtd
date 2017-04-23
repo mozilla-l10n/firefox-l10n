@@ -732,7 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded "ဒီဝဘ်ဆိုဒ်သည် စိတ်မချရသော အကြောင်းအရာများ(ကုဒ်များ ကဲ့သို့) ပါဝင်သည်။ ပြီးတော့ ထိုဝဘ်ဆိုက်သို့ သင့်ချိတ်ဆက်မှုသည် သီးသန့် ဖြစ်မနေပါ။">
 <!ENTITY identity.description.activeLoaded2 "ဒီဆိုက်နှင့် သင်မျှဝေထားသည့် အချက်အလက်များ (စကားဝှက်များ၊ စာတိုများ၊ အကြွေးကတ်များ စသည်) ကို အခြားသူများက မြင်နိုင်ပါသည်။">
 
-<!ENTITY identity.enableMixedContentBlocking.label "ကာကွယ်မှု ဖွင့်ထားပါ">
+<!ENTITY identity.enableMixedContentBlocking.label "ကာကွယ်မှုကို ဖွင့်ရန်">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "လောလောဆယ် ကာကွယ်မှုကို ပိတ်ထားပါ">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
@@ -841,7 +841,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "ကာကွယ်မှုကို ဒီကာလအပိုင်းအခြားအတွက် ပိတ်ထားပါ">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
-<!ENTITY trackingProtection.block2.label "ကာကွယ်မှုကို ဖွင့်ထားပါ">
+<!ENTITY trackingProtection.block2.label "ကာကွယ်မှုကို ဖွင့်ရန်">
 <!ENTITY trackingProtection.block2.accesskey "E">
 
 <!ENTITY trackingContentBlocked.message "ခြေရာခံခြင်း">
@@ -850,7 +850,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.options "ရွေးချယ်စရာများ">
 <!ENTITY trackingContentBlocked.unblock2.label "ကာကွယ်မှုကို ဒီစာမျက်နှာအတွက် ပိတ်ထားပါ">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
-<!ENTITY trackingContentBlocked.block.label "ကာကွယ်မှုကို ဖွင့်ထားပါ">
+<!ENTITY trackingContentBlocked.block.label "ကာကွယ်မှုကို ဖွင့်ရန်">
 <!ENTITY trackingContentBlocked.block.accesskey "E">
 <!ENTITY trackingContentBlocked.disabled.message "ခြေရာခံ ကာကွယ်မှုကို ပိတ်ထားသည်">
 
