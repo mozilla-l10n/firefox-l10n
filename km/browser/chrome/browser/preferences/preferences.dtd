@@ -18,7 +18,11 @@
 <!ENTITY  paneFilesApplications.title   "ឯកសារ &amp; កម្មវិធី">
 <!ENTITY  panePrivacySecurity.title     "ឯកជន​ភាព &amp; សុវត្ថិភាព">
 <!ENTITY  paneContainers.title          "ផ្ទាំង​ប្រអប់​ផ្ទុក">
+<!ENTITY  paneUpdates.title             "បច្ចុប្បន្នភព">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "គណនី Firefox">
 
+<!ENTITY  helpButton2.label        "&brandShortName; ជំនួយ">
 
+<!ENTITY  searchInput.label        "ស្វែងរក">
