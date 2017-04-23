@@ -366,6 +366,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Seqdec teγzi n unagraw n tsefsit">
+<!ENTITY pref_use_system_font_size_summary "Aseggem n ugbur web akken tella teɣzi n tsefsit n unagraw">
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
@@ -496,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "Ldi deg iccer uslig">
 <!ENTITY contextmenu_remove "Kkes">
 <!ENTITY contextmenu_add_to_launcher "Rnu ɣer ugilal agejdan">
+<!ENTITY contextmenu_set_as_homepage "Sbadu d asebter agejdan">
 <!ENTITY contextmenu_share "Bḍu">
 <!ENTITY contextmenu_pasteandgo "Senṭeḍ &amp; ddu">
 <!ENTITY contextmenu_paste "Senteḍ">
