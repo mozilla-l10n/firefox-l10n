@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "အဖွင့်စာမျက်နှာ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "တပ်ဗ်အသစ်များအတွက်လည်းသုံးပါ">
 <!ENTITY home_homepage_title "အဖွင့်စာမျက်နှာ သတ်မှတ်ရန်">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +287,10 @@
 <!ENTITY pref_custom_tabs_summary3 "ဝဘ်ဆိုက်များကို ဖွင့်ရာတွင် &brandShortName; ၏ စိတ်ကြိုက်ပြင်ဆင်ထားသော ဗားရှင်းကို အသုံးပြုရန် အက်ပ်များကို ခွင့်ပြုပါ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; ဖြင့်ဖွင့်ပါ">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; ဖြင့်ထောက်ပံ့ထားသော">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ကူးပြီး">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ကိစ္စအဖုံဖုံ">
@@ -361,6 +365,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "စနစ်တွင် သတ်မှတ်ထားသည့် ဖောင့်အရွယ်အစားကို အသုံးပြုပါ">
+<!ENTITY pref_use_system_font_size_summary "ဝတ်ဘ်မျက်နှာပြင်အား စနစ် ၏ဖောင့်အရွယ်အစားအရပြောင်းလဲမည်">
 
 <!ENTITY pref_media_autoplay_enabled "အလိုအလျောက်ပြသခြင်း ခွင့်ပြုပါ">
 <!ENTITY pref_media_autoplay_enabled_summary "ဝဘ်ဆိုဒ်များက မီဒီယာ သို့မဟုတ် ရုပ်ရှင်များကို အလိုအလျောက်ပြသခွင့်ရှိမရှိ သတ်မှတ်ပါ">
@@ -491,6 +497,7 @@
 <!ENTITY contextmenu_open_private_tab "တစ်ကိုယ်ရေသုံးတပ်ဗ်ဖွင့်">
 <!ENTITY contextmenu_remove "ဖယ်ရှားပါ">
 <!ENTITY contextmenu_add_to_launcher "ပင်မစာမျက်နှာသို့ ထည့်ပါ">
+<!ENTITY contextmenu_set_as_homepage "ပင်မစာမျက်နှာအဖြစ် သတ်မှတ်ပါ">
 <!ENTITY contextmenu_share "မျှ​ဝေရန်">
 <!ENTITY contextmenu_pasteandgo "ကူးထားပြီးနောက်သွားမည်။">
 <!ENTITY contextmenu_paste "ပွားပါ">
