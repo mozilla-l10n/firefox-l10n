@@ -115,10 +115,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "העתקת נתונים גולמיים ללוח">
 
 <!ENTITY aboutSupport.sandboxTitle "ארגז חול">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "קריאות מערכת שנדחו">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "שניות עברו">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "סוג תהליך">
+<!ENTITY aboutSupport.sandboxSyscallNumber "קריאת מערכת">
 <!ENTITY aboutSupport.sandboxSyscallArgs "ארגומנטים">
 
 <!ENTITY aboutSupport.safeModeTitle "לנסות במצב בטוח">
