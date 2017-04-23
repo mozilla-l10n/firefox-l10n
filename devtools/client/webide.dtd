@@ -70,6 +70,7 @@
 <!ENTITY projectPanel_tabs "לשוניות">
 <!ENTITY runtimePanel_usb "התקני USB">
 <!ENTITY runtimePanel_wifi "התקני Wi-Fi">
+<!ENTITY runtimePanel_simulator "הדמיות">
 <!ENTITY runtimePanel_other "אחר">
 <!ENTITY runtimePanel_installsimulator "התקנת מדמה">
 <!ENTITY runtimePanel_noadbhelper "התקנת מסייע ADB">
@@ -179,6 +180,8 @@
 <!-- Logs panel -->
 
 <!-- Simulator Options -->
+<!ENTITY simulator_title "אפשרויות מדמה">
+<!ENTITY simulator_remove "מחיקת מדמה">
 <!ENTITY simulator_reset "שחזור בררות מחדל">
 <!ENTITY simulator_name "שם">
 <!ENTITY simulator_software "תכנה">
