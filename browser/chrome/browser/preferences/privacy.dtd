@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Mbrojtje Nga Gjurmimet">
+<!ENTITY  trackingProtection.description       "Gjurmim është kur kompanitë grumbullojnë të dhëna rreth jush, për të ndërtuar një profil dhe për t&apos;ju shfaqur lëndë bazuar në shfletimin dhe të dhënat tuaja personale.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blloko shfalqe lënde nga kompani të njohura për gjurmim">
 <!ENTITY  trackingProtectionAlways.label       "Përherë">
 <!ENTITY  trackingProtectionAlways.accesskey   "h">
 <!ENTITY  trackingProtectionPrivate.label      "Vetëm në dritare private">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Shtyllë Vendesh">
 
+<!ENTITY  locbar.suggest2.label         "Kur përdoret shtylla e vendeve, jep sugjerime nga">
 <!ENTITY  locbar.history.label          "Historiku">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Faqerojtësit">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Kërkime të afërta, nga motori parazgjedhje i kërkimeve">
 <!ENTITY  locbar.searches.accesskey     "p">
 
+<!ENTITY  suggestionSettings2.label     "Ndryshoni parapëlqimet mbi këshillime motorësh kërkimi">
 
 <!ENTITY  acceptCookies.label           "Prano cookies prej sajtesh">
 <!ENTITY  acceptCookies.accesskey       "s">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Shfaqni Cookie…">
 <!ENTITY  showCookies.accesskey         "C">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;-i">
+<!ENTITY  historyHeader2.pre.accesskey     "d">
 <!ENTITY  historyHeader.remember.label     "Do ta mbajë mend historikun">
 <!ENTITY  historyHeader.dontremember.label "Nuk do ta mbajë mend historikun">
 <!ENTITY  historyHeader.custom.label       "Do të përdorë rregullime vetjake për historikun">
