@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "မူအဆင့်">
 <!ENTITY aboutSupport.extensionId "အိုင်ဒီ">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; တွင် ပါဝင်သော လုပ်ဆောင်ချက်များ">
+<!ENTITY aboutSupport.featureName "အမည်">
+<!ENTITY aboutSupport.featureVersion "ဗားရှင်း">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "စမ်းသပ်နေဆဲ လုပ်ဆောင်ချက်များ">
 <!ENTITY aboutSupport.experimentName "အမည်">
 <!ENTITY aboutSupport.experimentId "အိုင်ဒီ">
