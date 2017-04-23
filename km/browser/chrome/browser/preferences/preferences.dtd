@@ -13,6 +13,7 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 55.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "លទ្ធផល​ស្វែងរក">
 <!ENTITY  paneGeneral.title             "ទូទៅ">
 <!ENTITY  paneContainers.title          "ផ្ទាំង​ប្រអប់​ផ្ទុក">
 
