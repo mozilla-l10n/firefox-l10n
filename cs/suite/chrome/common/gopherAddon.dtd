@@ -5,5 +5,5 @@
 <!ENTITY loadError.label        "Chyba při načítání stránky">
 <!ENTITY gopherAddon.title      "Protokol Gopher">
 <!ENTITY gopherAddon.shortDesc  "gopher není registrovaným protokolem.">
-<!ENTITY gopherAddon.longDesc   "Adresu (URL) určuje protokol gopher, který již není podporován, takže se váš prohlížeč nemůže k serveru připojit. Pro přístup na tento server však můžete získat kompatibilní doplněk ze serveru Doplňky Mozilly.">
+<!ENTITY gopherAddon.longDesc   "Adresu (URL) určuje protokol gopher, který už není podporován, takže se váš prohlížeč nemůže k serveru připojit. Pro přístup na tento server však můžete získat kompatibilní doplněk ze serveru Doplňky Mozilly.">
 <!ENTITY goToAddOn.label        "Přejít na stránku doplňku">
