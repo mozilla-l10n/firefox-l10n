@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "ישומים">
+<!ENTITY  applications.description "בחירה כיצד &brandShortName; יטפל בקבצים שהורדו מהרשת או ביישומים שיהיו בשימוש במהלך הגלישה.">
 
 <!ENTITY  typeColumn.label        "סיווג תוכן">
 <!ENTITY  typeColumn.accesskey    "ס">
