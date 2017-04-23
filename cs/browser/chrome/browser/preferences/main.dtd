@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage2.label        "Při startu aplikace &brandShortName;">
 <!ENTITY startupPage2.accesskey    "s">
-<!ENTITY startupUserHomePage.label "Zobrazit vaši domovskou stránku">
-<!ENTITY startupBlankPage.label    "Zobrazit prázdnou stránku">
-<!ENTITY startupPrevSession.label  "Zobrazit okna a panely z minula">
+<!ENTITY startupUserHomePage.label "zobrazit vaši domovskou stránku">
+<!ENTITY startupBlankPage.label    "zobrazit prázdnou stránku">
+<!ENTITY startupPrevSession.label  "zobrazit okna a panely z minula">
 
 <!ENTITY homepage2.label           "Domovská stránka">
 <!ENTITY homepage2.accesskey       "m">
