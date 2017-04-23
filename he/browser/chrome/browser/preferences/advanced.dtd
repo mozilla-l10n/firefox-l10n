@@ -84,6 +84,7 @@
 <!ENTITY updateTab.label                 "עדכון">
 
 <!ENTITY updateApplication.label         "עדכוני &brandShortName;">
+<!ENTITY updateApplication.description   "לאפשר ל־&brandShortName;">
 <!ENTITY updateAuto2.label               "להתקין אוטומטית עדכונים (מומלץ מטעמי אבטחה משופרת)">
 <!ENTITY updateAuto2.accesskey           "א">
 <!ENTITY updateCheckChoose2.label        "לבדוק אם קיימים עדכונים אבל לדרוש אישור כדי להתקין אותם">
