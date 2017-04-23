@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "Furnizues">
+<!ENTITY aboutUrlClassifier.provider                    "Furnizues">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Koha e përditësimit të fundit">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Koha e përditësimit pasues">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Gjendje e përditësimit të fundit">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Përditësim">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Kërkim">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Përputhje">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Fshehtinë">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Kujtesë">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Bazë të dhënash">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
