@@ -6,7 +6,10 @@
 <!ENTITY removeButton.label           "Fjern">
 <!ENTITY removeButton.accesskey       "F">
 <!ENTITY removeAccount.label          "Fjern kontoinformasjon">
+<!ENTITY removeAccount.accesskey      "k">
+<!ENTITY removeAccount.desc           "Tar bare bort &brandShortName; sin kjennskap om denne kontoen. Påvirker ikke selve kontoen på serveren.">
 <!ENTITY removeData.label             "Fjern meldingsdata">
+<!ENTITY removeData.accesskey         "d">
 <!ENTITY removeDataChat.label         "Fjern samtaledata">
 <!ENTITY showData.label               "Vis dataplassering">
 <!ENTITY progressPending              "Fjerner valgte data…">

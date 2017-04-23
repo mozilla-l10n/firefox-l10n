@@ -21,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "d">
 <!ENTITY showAnimatedAlert.label          "Vis en beskjed">
 <!ENTITY showAnimatedAlert.accesskey      "n">
-
+<!ENTITY notificationAlertSettings2.label "Varsler og standardlyden kan deaktiveres i Varslinger-panelet i Systemvalg.">
 <!ENTITY customizeMailAlert.label         "Avansert …">
 <!ENTITY customizeMailAlert.accesskey     "e">
 
