@@ -64,7 +64,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်">
 <!ENTITY signedOut.accountBox.create  "အကောင့်အသစ် ဖန်တီးပါ">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-<!ENTITY signedOut.accountBox.signin  "၀င်ပါ">
+<!ENTITY signedOut.accountBox.signin  "လက်မှတ်ထိုး ဝင်ပါ">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "Sync အပြင်အဆင်များ">

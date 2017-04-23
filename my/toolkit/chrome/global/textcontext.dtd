@@ -12,7 +12,7 @@
 <!ENTITY undoCmd.accesskey "U">
 <!ENTITY selectAllCmd.label "အားလုံး ရွေးချယ်ပါ">
 <!ENTITY selectAllCmd.accesskey "A">
-<!ENTITY deleteCmd.label "ပယ်ဖျက်ပါ">
+<!ENTITY deleteCmd.label "ဖျက်ရန်">
 <!ENTITY deleteCmd.accesskey "D">
 
 <!ENTITY spellAddToDictionary.label "အဘိဓါန်ထဲ ထည့်သွင်းပါ">

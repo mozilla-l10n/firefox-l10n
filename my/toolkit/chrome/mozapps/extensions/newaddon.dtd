@@ -10,4 +10,4 @@
 <!ENTITY continue        "ဆက်လုပ်ပါ">
 <!ENTITY restartMessage  "ဤအတ်အွန်အားတပ်ဆင်ရန်အတွက် &brandShortName; အားပြန်စရန်လိုအပ်သည်။">
 <!ENTITY restartButton   "&brandShortName; ကို ပြန်ဖွင့်ပါ">
-<!ENTITY cancelButton    "ပယ်ဖျက်ပါ ">
+<!ENTITY cancelButton    "မဆောင်ရွက်တော့ပါ">

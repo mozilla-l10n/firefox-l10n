@@ -40,7 +40,7 @@
 <!ENTITY certmgr.editcert.trustemail          "ဒီလက်မှတ်က အီးမေးလ် သုံးစွသူများကို ဖေါ်ထုတ်နိုင်တယ်။">
 <!ENTITY certmgr.editcert.trustobjsign        "ဒီလက်မှတ်က ကွန်ရက် စာမျက်နှာများကို ဖေါ်ထုတ်နိုင်တယ်။">
 
-<!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ပယ်ဖျက်ပါ">
+<!ENTITY certmgr.deletecert.title             "လက်မှတ်ကို ဖျက်ရန်">
 
 <!ENTITY certmgr.certname                     "လက်မှတ်အမည်">
 <!ENTITY certmgr.certserver                   "ဆာဗာ">
