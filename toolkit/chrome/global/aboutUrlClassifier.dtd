@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Інформація про url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Постачальник">
+<!ENTITY aboutUrlClassifier.provider                    "Постачальник">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Час останнього оновлення">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Час наступного оновлення">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Стан останнього оновлення">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Оновити">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Збіг">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Перевірити результат збігу">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Пошук">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Перевірити результат пошуку">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Пам'ять">
+<!ENTITY aboutUrlClassifier.databaseTitle               "База даних">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Зневадження">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Встановити модулі журналу">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Встановити файл журналу">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Встановити журнал JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Модулі журналу Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules                "Поточні модулі журналу">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS журнал Safe Browsing">
