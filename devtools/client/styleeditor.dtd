@@ -41,7 +41,7 @@
 
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
-<!ENTITY mediaRules.label           "@media כללי">
+<!ENTITY mediaRules.label           "כללי ‏‎@media">
 
 <!ENTITY editorTextbox.placeholder  "נא להזין קוד CSS כאן.">
 
