@@ -7,7 +7,7 @@
 
 <!ENTITY fromAddr.label "Od:">
 <!ENTITY fromAddr.accesskey "d">
-<!ENTITY subject.label "Předmět:">
+<!ENTITY subject.label  "Předmět:">
 <!ENTITY subject.accesskey "M">
 <!ENTITY attachments.label "Přílohy:">
 <!ENTITY attachments.accesskey "p">
@@ -34,7 +34,7 @@
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
 <!ENTITY attachVCardCmd.label "Osobní vizitku (vCard)">
 <!ENTITY attachVCardCmd.accesskey "V">
-<!ENTITY sendNowCmd.label "Odeslat nyní">
+<!ENTITY sendNowCmd.label "Odeslat teď">
 <!ENTITY sendCmd.keycode "VK_RETURN">
 <!ENTITY sendNowCmd.accesskey "o">
 <!ENTITY sendLaterCmd.label "Odeslat později">
@@ -44,7 +44,7 @@
 <!-- Edit menu items -->
 <!ENTITY editRewrapCmd.label "Zalomit">
 <!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "l">
+<!ENTITY editRewrapCmd.accesskey  "l">
 <!ENTITY accountManagerCmd.label "Nastavení účtu…">
 <!ENTITY accountManagerCmd.accesskey "t">
 
@@ -87,7 +87,7 @@
 <!ENTITY dsnMenu.accesskey "d">
 
 <!ENTITY outputFormatMenu.label "Formát">
-<!ENTITY outputFormatMenu.accesskey "f">
+<!ENTITY outputFormatMenu.accesskey  "f">
 <!ENTITY autoFormatCmd.label "Automaticky rozpoznat">
 <!ENTITY autoFormatCmd.accesskey "a">
 <!ENTITY plainTextFormatCmd.label "Pouze prostý text">
@@ -114,12 +114,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Lišta adresování">
 <!ENTITY formatToolbar.tooltip "Lišta úprav">
-<!ENTITY sendButton.tooltip "Odešle tuto zprávu">
-<!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později">
-<!ENTITY addressButton.tooltip "Vybere příjemce z adresáře">
-<!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu">
-<!ENTITY saveButton.tooltip "Uloží tuto zprávu">
-<!ENTITY stopButton.tooltip "Ukončí probíhající spojení">
+<!ENTITY sendButton.tooltip "Odešle tuto zprávu"> 
+<!ENTITY sendlaterButton.tooltip "Odešle tuto zprávu později"> 
+<!ENTITY addressButton.tooltip "Vybere příjemce z adresáře"> 
+<!ENTITY attachButton.tooltip "Připojí k této zprávě přílohu"> 
+<!ENTITY saveButton.tooltip "Uloží tuto zprávu"> 
+<!ENTITY stopButton.tooltip "Ukončí probíhající spojení"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Otevřít">

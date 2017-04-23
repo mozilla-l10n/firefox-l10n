@@ -113,4 +113,4 @@
 <!-- New & Existing Account: Setup Complete -->
 <!ENTITY setup.successPage.title "Nastavení dokončeno">
 <!ENTITY changeOptions.label "Vaše nastavení lze změnit v dialogu možnosti Sync níže.">
-<!ENTITY continueUsing.label "Nyní můžete pokračovat v používání aplikace &brandShortName;.">
+<!ENTITY continueUsing.label "Teď můžete pokračovat v používání aplikace &brandShortName;.">
