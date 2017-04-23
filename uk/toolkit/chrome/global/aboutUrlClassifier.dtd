@@ -25,4 +25,5 @@
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Встановити журнал JS">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Модулі журналу Safe Browsing">
 <!ENTITY aboutUrlClassifier.debugModules                "Поточні модулі журналу">
-<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS журнал Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Журнал Safe Browsing JS">
+<!ENTITY aboutUrlClassifier.debugFile                   "Поточний файл журналу">
