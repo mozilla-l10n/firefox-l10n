@@ -10,6 +10,8 @@
 <!ENTITY removeAccount.desc           "Ad yekkes kan tamusni n &brandShortName; n umiḍan agi. Ur yettḥăz ara amiḍan iman-is ɣef uqeddac.">
 <!ENTITY removeData.label             "Kkes isefka n yizen">
 <!ENTITY removeData.accesskey         "z">
+<!ENTITY removeDataChat.label         "Kkes isefka n udiwenni">
+<!ENTITY removeDataChat.accesskey     "d">
 <!ENTITY removeDataLocalAccount.desc  "Ad yekkes akk iznan, ikaramen akked imzizdigen icudden qer umiḍan agi seg udebsi yinek adigan. Ayagi ur yettḥaz ara kra n yeznan yellan deg uqeddac. Ur fern ara ayagi ma yella tenwiḍ ad teǧǧeḍ isefka idiganen akken ad ten-t-sqedceḍ ar zdat di &brandShortName;.">
 <!ENTITY removeDataServerAccount.desc "Ad yekkes akk iznan, ikaramen akked imzizdigen icudden ɣer umiḍan agi seg udebsi yinek adigan. Iznan inek akked ikaramen inek ad qqimen deg uqeddac.">
 <!ENTITY showData.label               "Sken adig n isefka">

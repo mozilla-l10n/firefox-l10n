@@ -54,6 +54,8 @@
 <!ENTITY directoriesNone.label                 "Ula Yiwen">
 <!ENTITY editDirectories.label                 "Ẓreg ikaramen...">
 <!ENTITY editDirectories.accesskey             "Ẓ">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Akaram aneggaru yettwasqedcen">
 
 <!ENTITY sendOptionsDescription.label          "Swel amek ara yeddu umasal n uḍris">
 <!ENTITY sendOptions.label                     "Azen iɣewwaṛen…">

@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Subscription Dialog -->
 
+<!-- Subscription Dialog -->
 <!ENTITY feedSubscriptions.label     "Imultaɣen n usuddem">
 <!ENTITY learnMore.label             "Issin ugar ɣef isuddam">
 
@@ -18,6 +18,12 @@
 <!ENTITY feedFolder.label            "Sekles imagraden di:">
 <!ENTITY feedFolder.accesskey        "k">
 
+<!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffMinutes.label           "tisdatin">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "ussan">
+<!ENTITY biffDays.accesskey          "d">
+
 <!ENTITY quickMode.label             "Sken agzul n umagrad deg umḍiq n usali n usebter web">
 <!ENTITY quickMode.accesskey         "S">
 
@@ -27,6 +33,7 @@
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Sekcem azwir n tebzimt">
 
+<!-- Subscription Dialog -->
 <!ENTITY button.addFeed.label        "Rnu">
 <!ENTITY button.addFeed.accesskey    "R">
 <!ENTITY button.updateFeed.label     "Leqqem">
