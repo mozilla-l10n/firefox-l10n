@@ -86,13 +86,21 @@
 <!ENTITY updateApplication.label         "&brandShortName; 업데이트">
 <!ENTITY updateAuto2.label               "업데이트 자동 설치(보안을 위해 권장됨)">
 <!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "새로운 업데이트를 확인하지만 설치는 수동으로 진행">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "업데이트 확인 안함(권장하지 않음)">
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "업데이트 기록 보기…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "업데이트 설치 시 백그라운드 작업으로 하기">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "검색 엔진 자동 업데이트">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "리포트">
 
 <!ENTITY offlineStorageNotify.label               "웹사이트가 오프라인 상태일 때 데이터를 저장하려하면 물어봄">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -106,6 +114,7 @@
 <!ENTITY offlineAppRemove.confirm        "오프라인 자료 삭제">
 
 <!ENTITY certificateTab.label            "인증서">
+<!ENTITY certPersonal2.description       "서버가 인증 정보를 요구할 때">
 <!ENTITY selectCerts.auto                "자동으로 하나를 선택">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "항상 물어보기">
