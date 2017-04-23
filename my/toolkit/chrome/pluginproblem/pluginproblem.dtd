@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY tapToPlayPlugin                                     "ထပ်ပေါင်းဆော့ဝဲလ်အား သုံးရန် ဤတွင်ထိပါ">
-<!ENTITY clickToActivatePlugin                               "ထပ်ပေါင်းဆော့ဝဲလ် အသက်သွင်း">
-<!ENTITY checkForUpdates                                     "အသစ်ဆွဲချမှုများအား စစ်ဆေးပါ…">
+<!ENTITY tapToPlayPlugin                                     "ပလက်ဂ်အင်ကို အသုံးပြုရန် ဒီနေရာကို ထိပါ။">
+<!ENTITY clickToActivatePlugin                               "ပလက်ဂ်အင်ကို အသုံးပြုရန်။">
+<!ENTITY checkForUpdates                                     "အဆင့်မြှင့်တင်မှုများကို စစ်ဆေးပါ…">
 <!ENTITY blockedPlugin.label                                 "သင့်ကို ကာကွယ်ရန်အတွက် ယခု ထပ်ပေါင်းဆော့ဝဲလ်အား ပိတ်ထားသှ်">
-<!ENTITY hidePluginBtn.label                                 "ထပ်ပေါင်းဆော့ဝဲလ်အား ဖွက်ထားပါ">
+<!ENTITY hidePluginBtn.label                                 "ပလက်ဂ်ကို မပြပါနှင့်">
 <!ENTITY managePlugins                                       "ထပ်ပေါင်းဆော့ဝဲလ်အား စီမံခန့်ခွဲပါ…">
 
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "ဖိုင်">
 <!ENTITY plugin.mimeTypes                                    "MIME အမျိုးအစားများ">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash ကာကွယ်ခြင်း ပုံစံအားဖွင့်ပါ">
+<!ENTITY plugin.enableBlocklists.label                       "အန္တရာယ်ရှိပြီး ထောက်လှမ်းသည့် Flash ဖိုင်ကို ပိတ်ပင်ပါ">
