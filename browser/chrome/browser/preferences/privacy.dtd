@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "הגנת מעקב">
 <!ENTITY  trackingProtectionAlways.label       "תמיד">
 <!ENTITY  trackingProtectionAlways.accesskey   "ת">
 <!ENTITY  trackingProtectionPrivate.label      "רק בחלונות פרטיים">
@@ -29,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "סרגל המיקום">
 
+<!ENTITY  locbar.suggest2.label         "כאשר משתמשים בשורת המיקום, יוצגו המלצות עבור">
 <!ENTITY  locbar.history.label          "היסטוריה">
 <!ENTITY  locbar.history.accesskey      "ה">
 <!ENTITY  locbar.bookmarks.label        "סימניות">
@@ -38,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "חיפושים קשורים ממנוע חיפוש בררת המחדל">
 <!ENTITY  locbar.searches.accesskey     "ק">
 
+<!ENTITY  suggestionSettings2.label     "שינוי העדפות של הצעות מנועי חיפוש">
 
 <!ENTITY  acceptCookies.label           "קבלת עוגיות מאתרים">
 <!ENTITY  acceptCookies.accesskey       "ק">
@@ -60,6 +63,8 @@
 <!ENTITY  showCookies.label             "הצגת עוגיות…">
 <!ENTITY  showCookies.accesskey         "צ">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "F">
 <!ENTITY  historyHeader.remember.label     "ישמור היסטוריה">
 <!ENTITY  historyHeader.dontremember.label "לעולם לא ישמור היסטוריה">
 <!ENTITY  historyHeader.custom.label       "ישתמש בהגדרות מותאמות אישית להיסטוריה">
