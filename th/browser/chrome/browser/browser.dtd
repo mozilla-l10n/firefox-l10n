@@ -898,7 +898,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.whatsnew.label "ดูว่ามีอะไรใหม่">
+<!ENTITY updateAvailable.acceptButton.label "ดาวน์โหลดการอัปเดต">
 <!ENTITY updateAvailable.cancelButton.label "ไม่ใช่ตอนนี้">
+<!ENTITY updateAvailable.panelUI.label "ดาวน์โหลดการอัปเดต &brandShorterName;">
 
 <!ENTITY updateManual.whatsnew.label "ดูว่ามีอะไรใหม่">
 <!ENTITY updateManual.acceptButton.label "ดาวน์โหลด &brandShorterName;">
