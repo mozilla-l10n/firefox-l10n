@@ -50,7 +50,7 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.accesskey "H">
 <!ENTITY itemFormSearchHistory.label       "Historie formulářů a hledání">
 <!ENTITY itemFormSearchHistory.accesskey   "f">
-<!ENTITY itemCookies.label                 "Cookies">
+<!ENTITY itemCookies.label                 "Soubory cookie">
 <!ENTITY itemCookies.accesskey             "C">
 <!ENTITY itemCache.label                   "Mezipaměť">
 <!ENTITY itemCache.accesskey               "a">

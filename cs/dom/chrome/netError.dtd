@@ -63,7 +63,7 @@
 <!ENTITY proxyResolveFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který nemohl být nalezen.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Pokud problém přetrvává, konzultujte jej se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Smyčka při přesměrování">
-<!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky na tuto adresu sám na sebe, a to takovým způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje cookies, které máte zakázané nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
+<!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky na tuto adresu sám na sebe, a to takovým způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje ukládání souborů cookie, které máte zakázané nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
 
 <!ENTITY unknownSocketType.title "Neplatná odpověď">
 <!ENTITY unknownSocketType.longDesc "<p>Server na daný požadavek odpověděl neočekávaným způsobem a nemohl pokračovat.</p><ul><li>Na straně serveru běží jiná služba než je očekáváno.</li><li>Adresa (URL) obsahuje nesrovnalost mezi protokolem (např. http://) a určeným portem (např. mozilla.org:23).</li></ul>">
