@@ -14,9 +14,9 @@
 <!ENTITY locationEditField.accessKey "d">
 <!ENTITY locationEditField.tooltip "Vyberte adresu a jméno obrázku">
 <!ENTITY locationEditField.shortenedDataURI "Zkrácená URI (zkopírování vloží celou URI do schránky)">
-<!ENTITY title.label "Pomocný název:">
+<!ENTITY title.label "Vysvětlivka:">
 <!ENTITY title.accessKey "P">
-<!ENTITY title.tooltip "HTML atribut 'title' se používá jako pomocný název">
+<!ENTITY title.tooltip "HTML atribut 'title' se používá jako vysvětlivka">
 <!ENTITY altText.label "Alternativní text:">
 <!ENTITY altText.accessKey "A">
 <!ENTITY altTextEditField.tooltip "Vytvořte popis zobrazující se v místě obrázku">
