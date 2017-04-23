@@ -899,9 +899,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM hakkında daha fazla bilgi alın…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Yeniliklere bakın.">
+<!ENTITY updateAvailable.header.message "Yeni bir &brandShorterName; güncellemesi var.">
 <!ENTITY updateAvailable.acceptButton.label "Güncellemeyi indir">
 <!ENTITY updateAvailable.acceptButton.accesskey "G">
 <!ENTITY updateAvailable.cancelButton.label "Daha sonra">
 <!ENTITY updateAvailable.cancelButton.accesskey "D">
+<!ENTITY updateAvailable.panelUI.label "&brandShortName; güncellemesini indir">
 
+<!ENTITY updateManual.whatsnew.label "Yeniliklere bakın.">
 
