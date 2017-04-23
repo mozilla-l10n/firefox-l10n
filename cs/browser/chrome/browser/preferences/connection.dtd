@@ -18,7 +18,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "k">
 <!ENTITY  autoTypeRadio.label           "URL pro automatickou konfiguraci proxy serverů:">
 <!ENTITY  autoTypeRadio.accesskey       "m">
-<!ENTITY  reload.label                  "Znovu načíst">
+<!ENTITY  reload.label                  "Obnovit">
 <!ENTITY  reload.accesskey              "Z">
 <!ENTITY  ftp.label                     "FTP proxy:">
 <!ENTITY  ftp.accesskey                 "F">

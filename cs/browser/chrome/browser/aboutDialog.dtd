@@ -104,5 +104,5 @@
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
-<!ENTITY channel.description.start  "Nyní používáte aktualizační kanál ">
+<!ENTITY channel.description.start  "Používáte aktualizační kanál ">
 <!ENTITY channel.description.end    ".">

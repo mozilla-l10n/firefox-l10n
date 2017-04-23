@@ -8,6 +8,6 @@
 <!ENTITY allow           "Povolit instalaci">
 <!ENTITY later           "Své rozhodnutí můžete vždy změnit pomocí Správce doplňků.">
 <!ENTITY continue        "Pokračovat">
-<!ENTITY restartMessage  "Pro dokončení instalace doplňku je nutno restartovat aplikaci &brandShortName;">
+<!ENTITY restartMessage  "Pro dokončení instalace doplňku je potřeba aplikaci &brandShortName; restartovat.">
 <!ENTITY restartButton   "Restartovat aplikaci &brandShortName;">
 <!ENTITY cancelButton    "Zrušit">

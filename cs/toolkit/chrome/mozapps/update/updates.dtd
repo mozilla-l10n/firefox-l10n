@@ -18,7 +18,7 @@
 <!ENTITY  unsupported.title               "Nepodporovaný systém">
 <!ENTITY  unsupported.label               "Váš prohlížeč &brandShortName; je neaktuální, ale nejnovější verze prohlížeče
                                            nepodporuje váš systém. Aktualizuje svůj systém, a poté to zkuste znovu.
-                                           Poté již tuto zprávu neuvidíte, ale může si ">
+                                           Poté už tuto zprávu neuvidíte, ale může si ">
 <!ENTITY  unsupportedLink.label           "zjistit více.">
 
 <!ENTITY  clickHere.label                 "Zobrazit více informací o této aktualizaci">
@@ -28,7 +28,7 @@
 <!ENTITY  downloadPage.title              "Stahování aplikace &brandShortName;">
 <!ENTITY  downloading.intro               "Stahování aktualizací…">
 <!ENTITY  connecting.label                "Připojování k aktualizačnímu serveru…">
-<!ENTITY  verificationFailedText.label    "Aplikaci &brandShortName; se nepodařilo ověřit integritu stažené přírůstkové aktualizace, proto nyní stahuje celý aktualizační balíček.">
+<!ENTITY  verificationFailedText.label    "Aplikaci &brandShortName; se nepodařilo ověřit integritu stažené přírůstkové aktualizace, proto teď stahuje celý aktualizační balíček.">
 
 <!ENTITY  viewDetails.tooltip             "Zobrazí podrobnosti o této aktualizaci">
 
@@ -51,7 +51,7 @@
 <!ENTITY  finishedBackground.name         "Aktualizace:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
-<!ENTITY  finishedBackground.moreElevated "Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění aplikace &brandShortName;. Aplikaci můžete restartovat nyní, pokračovat v práci a restartovat později, nebo tuto aktualizaci zcela zrušit.">
+<!ENTITY  finishedBackground.moreElevated "Tato aktualizace vyžaduje oprávnění správce. Aktualizace bude nainstalována při příštím spuštění aplikace &brandShortName;. Nyní můžete aplikaci restartovat, pokračovat v práci a restartovat ji později nebo aktualizaci zcela zrušit.">
 
 <!ENTITY  update.details.label            "Podrobnosti">
 <!ENTITY  update.installedOn.label        "Nainstalováno dne:">
