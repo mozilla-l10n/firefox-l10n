@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "사이트">
 <!ENTITY     statusCol.label               "상태">
 <!ENTITY     usageCol.label                "저장소">
+<!ENTITY     searchTextboxPlaceHolder             "웹사이트 검색">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "선택된 값 삭제">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "변경된 내용 저장">

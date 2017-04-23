@@ -26,3 +26,4 @@
 <!ENTITY removeEngine.label                    "지우기">
 <!ENTITY removeEngine.accesskey                "r">
 
+<!ENTITY addMoreSearchEngines2.label           "검색엔진 추가하기">

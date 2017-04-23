@@ -25,6 +25,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "버전">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; 주요 기능">
+<!ENTITY aboutSupport.featureName "이름">
+<!ENTITY aboutSupport.featureVersion "버전">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "실험적인 기능">
 <!ENTITY aboutSupport.experimentName "이름">
 <!ENTITY aboutSupport.experimentId "ID">
