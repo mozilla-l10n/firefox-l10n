@@ -114,6 +114,7 @@
 <!ENTITY offlineAppRemove.confirm        "הסרת נתונים לא מקוונים">
 
 <!ENTITY certificateTab.label            "אישורים">
+<!ENTITY certPersonal2.description       "כאשר שרת מבקש את האישור האישי שלך">
 <!ENTITY selectCerts.auto                "לבחור אחד באופן אוטומטי">
 <!ENTITY selectCerts.auto.accesskey      "ב">
 <!ENTITY selectCerts.ask                 "לשאול אותך כל פעם">
