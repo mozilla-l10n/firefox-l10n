@@ -15,6 +15,8 @@
 
 <!ENTITY  paneSearchResults.title       "លទ្ធផល​ស្វែងរក">
 <!ENTITY  paneGeneral.title             "ទូទៅ">
+<!ENTITY  paneFilesApplications.title   "ឯកសារ &amp; កម្មវិធី">
+<!ENTITY  panePrivacySecurity.title     "ឯកជន​ភាព &amp; សុវត្ថិភាព">
 <!ENTITY  paneContainers.title          "ផ្ទាំង​ប្រអប់​ផ្ទុក">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
