@@ -11,7 +11,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Saat Anda menjelajah di Jendela Pribadi, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "tidak menyimpan">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
-<!ENTITY aboutPrivateBrowsing.info.visited               "halaman yang dikunjungi">
+<!ENTITY aboutPrivateBrowsing.info.visited               "laman yang dikunjungi">
 <!ENTITY aboutPrivateBrowsing.info.searches              "pencarian">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "kuki">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "berkas sementara">
