@@ -88,12 +88,5 @@
 <!ENTITY accountSettingsDesc.label "Kontot nedan är ett specialkonto. Inga identiteter har associerats med det.">
 <!ENTITY storeType.label "Meddelandelagring:">
 <!ENTITY storeType.accesskey "M">
-<<<<<<< local
-<!ENTITY mboxStore.label "En stor fil (mbox)">
-<!ENTITY maildirStore.label "En fil per meddelande (maildir)"><!ENTITY storeType.label "Meddelandelagring:">
-<!ENTITY storeType.accesskey "M">
-<!ENTITY mboxStore.label "En stor fil (mbox)">
-=======
 <!ENTITY mboxStore2.label "En fil per mapp (mbox)">
->>>>>>> other
 <!ENTITY maildirStore.label "En fil per meddelande (maildir)">
