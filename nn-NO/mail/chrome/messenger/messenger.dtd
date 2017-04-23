@@ -502,7 +502,7 @@
 <!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Feilsøking for utvidingar">
 <!ENTITY addonDebugCmd.accesskey "F">
-<!ENTITY tabsDebugCmd.label "Feilsøking for Debuggar">
+<!ENTITY tabsDebugCmd.label "Feilsøking for innhaldsramme">
 <!ENTITY tabsDebugCmd.accesskey "F">
 <!ENTITY errorConsoleCmd.label "Feilmeldingar">
 <!ENTITY errorConsoleCmd.accesskey "F">
