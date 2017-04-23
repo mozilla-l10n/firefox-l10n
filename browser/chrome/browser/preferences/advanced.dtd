@@ -84,12 +84,19 @@
 <!ENTITY updateTab.label                 "Абнаўленне">
 
 <!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
+<!ENTITY updateApplication.description   "Дазволіць &brandShortName;">
+<!ENTITY updateAuto2.label               "Аўтаматычна ўсталёўваць абнаўленні (рэкамендуецца для паляпшэння бяспекі)">
+<!ENTITY updateCheckChoose2.label        "Правяраць наяўнасць абнаўленняў, але даваць вам выбар, ці ўсталёўваць іх">
+<!ENTITY updateManual2.label             "Ніколі не правяраць наяўнасць абнаўленняў (не рэкамендуецца)">
 
+<!ENTITY updateHistory2.label            "Паказаць гісторыю абнаўленняў...">
 
 <!ENTITY useService.label                "Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў">
 <!ENTITY useService.accesskey            "ф">
 
+<!ENTITY enableSearchUpdate2.label       "Аўтаматычна абнаўляць пашукавікі">
 
+<!ENTITY reports.label                   "Справаздачы">
 
 <!ENTITY offlineStorageNotify.label               "Паведамляць, калі вэб-сайт пытае дазвол на захоўванне звестак для пазасеткавага выкарыстання">
 <!ENTITY offlineStorageNotify.accesskey           "П">
@@ -103,6 +110,7 @@
 <!ENTITY offlineAppRemove.confirm        "Выдаліць пазасеткавыя дадзеныя">
 
 <!ENTITY certificateTab.label            "Сертыфікаты">
+<!ENTITY certPersonal2.description       "Калі сервер запытвае ваш асабісты сертыфікат">
 <!ENTITY selectCerts.auto                "Выбіраць аўтаматычна">
 <!ENTITY selectCerts.auto.accesskey      "Ы">
 <!ENTITY selectCerts.ask                 "Пытацца кожны раз">
