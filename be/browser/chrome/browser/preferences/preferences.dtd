@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 43em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 60em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "Вынікі пошуку">
 <!ENTITY  paneGeneral.title             "Агульныя">
+<!ENTITY  paneFilesApplications.title   "Файлы і Праграмы">
+<!ENTITY  panePrivacySecurity.title     "Прыватнасць і Бяспека">
 <!ENTITY  paneContainers.title          "Карткі кантэйнераў">
+<!ENTITY  paneUpdates.title             "Абнаўленні">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Уліковы запіс Firefox">
 
+<!ENTITY  helpButton2.label        "Падтрымка &brandShortName;">
 
+<!ENTITY  searchInput.label        "Пошук">
