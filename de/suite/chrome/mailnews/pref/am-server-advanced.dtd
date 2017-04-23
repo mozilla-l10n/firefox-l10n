@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "D">
 <!ENTITY maximumConnectionsNumber.label "Maximale Anzahl der aufrecht erhaltenen Server-Verbindungen">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY forceSelect.label "IMAP-&quot;select&quot; an den Server senden, wenn neue Nachrichten abgefragt werden">
+<!ENTITY forceSelect.tooltip "Manche Server benötigen ein zusätzliches IMAP-&quot;select&quot;, damit neue E-Mails zuverlässig empfangen werden können oder als gelesen markeirt werden, nachdem sie auf einem anderen Gerät gelesen wurden. Auswählen dieser Option verursacht zusätzlichen Datenverkehr.">
+<!ENTITY forceSelect.accesskey "e">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Diese Einstellungen geben die Namespaces auf Ihrem IMAP-Server an">
 <!ENTITY personalNamespace.label "Persönlicher Namespace:">
