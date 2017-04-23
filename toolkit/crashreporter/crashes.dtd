@@ -9,5 +9,5 @@
 <!ENTITY dateCrashed.heading        "Datum pádu">
 <!ENTITY dateSubmitted.heading      "Datum odeslání">
 <!ENTITY noReports.label            "Žádná hlášení nebyla odeslána.">
-<!ENTITY noConfig.label             "Tato aplikace nebyla nakonfigurována pro zobrazení hlášení o pádu. Je nutné nastavit předvolbu <code>breakpad.reportURL</code>.">
+<!ENTITY noConfig.label             "Tato aplikace nebyla nakonfigurována pro zobrazení hlášení o pádu. Je potřeba nastavit předvolbu <code>breakpad.reportURL</code>.">
 <!ENTITY clearAllReports.label      "Odstranit všechna hlášení">

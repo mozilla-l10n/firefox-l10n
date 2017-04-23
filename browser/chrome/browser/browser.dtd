@@ -133,8 +133,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
-<!ENTITY fullscreenWarning.afterDomain.label "je nyní v režimu celé obrazovky">
-<!ENTITY fullscreenWarning.generic.label "Tento dokument je nyní v režimu celé obrazovky">
+<!ENTITY fullscreenWarning.afterDomain.label "je teď v režimu celé obrazovky">
+<!ENTITY fullscreenWarning.generic.label "Tento dokument je teď v režimu celé obrazovky">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -734,7 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.enableMixedContentBlocking.label "Povolit ochranu">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "P">
-<!ENTITY identity.disableMixedContentBlocking.label "Vypnout ochranu nyní">
+<!ENTITY identity.disableMixedContentBlocking.label "Vypnout ochranu">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "V">
 <!ENTITY identity.learnMore "Zjistit více">
 
@@ -858,7 +858,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pluginNotification.showAll.accesskey "Z">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "Povolit nyní">
+<!ENTITY pluginActivateNow.label "Teď povolit">
 <!ENTITY pluginActivateAlways.label "Povolit a zapamatovat">
 <!ENTITY pluginBlockNow.label "Blokovat zásuvný modul">
 

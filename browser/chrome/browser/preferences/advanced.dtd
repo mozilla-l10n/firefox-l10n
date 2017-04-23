@@ -19,9 +19,9 @@
 
 <!ENTITY browsing.label                  "Prohlížení">
 
-<!ENTITY useAutoScroll.label             "Použít automatické posunování">
+<!ENTITY useAutoScroll.label             "Použít automatické posouvání">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "Použít jemné posunování">
+<!ENTITY useSmoothScrolling.label        "Použít plynulé posouvání">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey          "r">
