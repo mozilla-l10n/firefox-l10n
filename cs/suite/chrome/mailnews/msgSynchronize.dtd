@@ -6,7 +6,7 @@
 
 <!ENTITY MsgSynchronize.label "Ukládání a synchronizace zpráv">
 <!ENTITY MsgSelect.label "Položky pro použití v režimu offline">
-<!ENTITY MsgSyncDesc.label 'Pokud jste již pro použití v režimu offline označili některé složky s poštou a diskusními příspěvky, můžete je nyní uložit a/nebo synchronizovat. V opačném případě použijte tlačítko "Vybrat" a vyberte poštovní složky a diskusní skupiny pro použití v režimu offline.'>
+<!ENTITY MsgSyncDesc.label 'Pokud jste již pro použití v režimu offline označili některé složky s poštou a diskusními příspěvky, můžete je teď uložit a/nebo synchronizovat. V opačném případě použijte tlačítko "Vybrat" a vyberte poštovní složky a diskusní skupiny pro použití v režimu offline.'>
 <!ENTITY MsgSyncDirections.label "Stáhnout a/nebo synchronizovat následující:">
 <!ENTITY syncTypeMail.label "Poštovní zprávy">
 <!ENTITY syncTypeMail.accesskey "P">
