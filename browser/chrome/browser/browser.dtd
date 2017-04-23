@@ -901,8 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Les mer om DRM …">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Oppdater &brandShorterName; for det siste innen fart og personvern.">
+<!ENTITY updateAvailable.whatsnew.label "Se hva som er nytt.">
+<!ENTITY updateAvailable.header.message "En ny &brandShorterName;-oppdatering er tilgjengelig.">
+<!ENTITY updateAvailable.acceptButton.label "Last ned oppdatering">
+<!ENTITY updateAvailable.acceptButton.accesskey "L">
+<!ENTITY updateAvailable.cancelButton.label "Ikke nå">
+<!ENTITY updateAvailable.cancelButton.accesskey "n">
+<!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
+<!ENTITY updateManual.message "Last ned en frisk kopi av &brandShorterName; og vi vil hjelpe deg med å installere den.">
+<!ENTITY updateManual.whatsnew.label "Se hva som er nytt.">
+<!ENTITY updateManual.header.message "&brandShorterName; kan ikke oppdateres til den seneste versjonen.">
+<!ENTITY updateManual.acceptButton.label "Last ned &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "L">
 <!ENTITY updateManual.cancelButton.label "Ikke nå">
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Last ned en frisk kopi av &brandShorterName;">
 
+<!ENTITY updateRestart.message "Etter en rask omstart, vil &brandShorterName; gjenopprette alle dine åpne faner og vinduer.">
+<!ENTITY updateRestart.header.message "Start om &brandShorterName; for å installere oppdateringen.">
+<!ENTITY updateRestart.acceptButton.label "Start om og gjenopprett">
+<!ENTITY updateRestart.acceptButton.accesskey "r">
+<!ENTITY updateRestart.cancelButton.label "Ikke nå">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label "Start om &brandShorterName; for å installere oppdateringen">
