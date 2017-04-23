@@ -7,7 +7,7 @@
 <!ENTITY aboutDownloads.empty                      "ဆွဲချချက်များ မရှိ">
 
 <!ENTITY aboutDownloads.open                       "ဖွင့်ပါ">
-<!ENTITY aboutDownloads.remove                     "ပယ်ဖျက်ပါ">
+<!ENTITY aboutDownloads.remove                     "ဖျက်ရန်">
 <!ENTITY aboutDownloads.removeAll                  "အားလုံးကို ဖျက်ပါ">
 <!ENTITY aboutDownloads.pause                      "ခေတ္တရပ်တန့်တယ်">
 <!ENTITY aboutDownloads.resume                     "ပြန်စပါ">
