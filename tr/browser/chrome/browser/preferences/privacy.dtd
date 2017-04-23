@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "İzlenme Koruması">
+<!ENTITY  trackingProtection.description       'Şirketlerin, gezdiğiniz sayfalara ve kişisel verilerinize dayanarak profilinizi oluşturmak amacıyla hakkınızda bilgi toplamasına "izleme" diyoruz.'>
+<!ENTITY  trackingProtection.radioGroupLabel   "İzleme yaptığı bilinen şirketlerin içeriklerini engelle">
 <!ENTITY  trackingProtectionAlways.label       "Her zaman">
 <!ENTITY  trackingProtectionAlways.accesskey   "H">
 <!ENTITY  trackingProtectionPrivate.label      "Yalnızca gizli pencerelerde">
