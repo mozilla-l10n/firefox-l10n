@@ -21,6 +21,7 @@
 
 <!ENTITY  fontsAndColors.label        "Huruf &amp; Warna">
 
+<!ENTITY  defaultSize2.label          "Ukuran">
 
 <!ENTITY  advancedFonts.label         "Canggih…">
 <!ENTITY  advancedFonts.accesskey     "g">

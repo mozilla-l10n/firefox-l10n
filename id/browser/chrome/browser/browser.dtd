@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Buka panel pesan penyimpanan sandi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kelola penggunaan plug-in">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Mengubah apakah Anda dapat menerima pemberitahuan dari situs ini">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data di Penyimpanan Persisten">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mengelola berbagi mikrofon Anda dengan situs ini">
