@@ -20,10 +20,12 @@
 
 <!-- Account Settings and Subscription Dialog -->
 <!ENTITY biffStart.label             "Se etter nye artikler hvert ">
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "minutter">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "dager">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Utgiveren anbefaler:">
 
 <!ENTITY quickMode.label             "Vis artikkeloppsummering istedenfor å laste nettsiden">
 <!ENTITY quickMode.accesskey         "V">

@@ -7,6 +7,7 @@
 
 <!ENTITY importFromWin.label            "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
 <!ENTITY importFromNonWin.label         "Importer innstillinger, kontoinnstillinger, adressebøker, filtre og annen data fra:">
+<!ENTITY importSourceNotFound.label     "Fant ingen program å importere data fra.">
 
 <!ENTITY importFromNothing.label        "Ikke importer noe">
 <!ENTITY importFromNothing.accesskey    "I">

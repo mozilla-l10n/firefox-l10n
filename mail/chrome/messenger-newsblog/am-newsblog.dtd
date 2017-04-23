@@ -7,6 +7,7 @@
 <!ENTITY biffAll.label                 "Slå på oppdateringer for alle RSS-kanaler">
 <!ENTITY biffAll.accesskey             "S">
 
+<!ENTITY newFeedSettings.label         "Standardinnstillinger for nye RSS-kanaler">
 
 <!ENTITY manageSubscriptions.label     "Behandle abonnement …">
 <!ENTITY manageSubscriptions.accesskey "B">
