@@ -821,7 +821,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectCamera.accesskey "">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "អូឌីយ៉ូ​ពី​ផ្ទាំង​នឹង​ត្រូវ​បាន​ចែករំលែក។">
