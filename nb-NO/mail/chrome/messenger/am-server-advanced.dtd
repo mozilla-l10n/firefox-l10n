@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Maksimalt antall servertilkoblinger til hurtiglageret">
 <!ENTITY maximumConnectionsNumber.accesskey "t">
+<!ENTITY forceSelect.label "Send IMAP select til server ved søk etter ny e-post">
+<!ENTITY forceSelect.tooltip "Enkelte servere trenger en ekstra IMAP select slik at ny e-post mottas på en pålitelig måte, eller vises som lest etter at den er lest på en annen enhet. Hvis du velger dette alternativet, vil det medføre litt økt nettverkstrafikk.">
+<!ENTITY forceSelect.accesskey "E">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Disse innstillingene angir navnerommet på IMAP-serveren">
 <!ENTITY personalNamespace.label "Personlig navnerom:">
