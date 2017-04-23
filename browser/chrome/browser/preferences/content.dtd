@@ -9,7 +9,7 @@
 
 <!ENTITY  notificationsPolicy.label            "通知">
 <!ENTITY  notificationsPolicyLearnMore.label   "详细了解">
-<!ENTITY  notificationsPolicyDesc3.label       "选择您允许发送通知的网站列表">
+<!ENTITY  notificationsPolicyDesc3.label       "决定您允许发送通知的网站">
 <!ENTITY  notificationsPolicyButton.accesskey  "h">
 <!ENTITY  notificationsPolicyButton.label      "选择…">
 <!ENTITY  notificationsDoNotDisturb.label      "请勿打扰">

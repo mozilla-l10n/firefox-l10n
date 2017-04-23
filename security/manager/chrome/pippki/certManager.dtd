@@ -14,7 +14,7 @@
 <!ENTITY certmgr.others                       "您用来识别这些人的证书文件：">
 <!ENTITY certmgr.websites2                    "您用来识别这些服务器的证书：">
 <!ENTITY certmgr.cas                          "您有识别这些证书颁发机构的证书文件：">
-<!ENTITY certmgr.orphans                      "您的不符合其他任何种类的文件中的证书：">
+<!ENTITY certmgr.orphans                      "您的不符合其他种类的证书：">
 
 <!ENTITY certmgr.detail.general_tab.title     "常规">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
