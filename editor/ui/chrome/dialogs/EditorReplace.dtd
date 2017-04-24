@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "o">
 <!ENTITY replaceField.label "Kuo keisti:">
 <!ENTITY replaceField.accesskey "u">
-<!ENTITY caseSensitiveCheckbox.label "Skirti didžiąsias ir mažąsias raides">
-<!ENTITY caseSensitiveCheckbox.accesskey "d">
+
+
 <!ENTITY wrapCheckbox.label "Priėjus pabaigą, tęsti paiešką nuo pradžios">
 <!ENTITY wrapCheckbox.accesskey "b">
 <!ENTITY backwardsCheckbox.label "Ieškoti link pradžios">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "e">
 <!ENTITY replaceAllButton.label "Pakeisti visur">
 <!ENTITY replaceAllButton.accesskey "v">
-<!ENTITY closeButton.label "Užverti">
+
+
