@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Powěsći wobstaraś">
 <!ENTITY folderContextGetMessages.accesskey "P">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "W nowem woknje wócyniś">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "W nowem rejtarku wócyniś">
