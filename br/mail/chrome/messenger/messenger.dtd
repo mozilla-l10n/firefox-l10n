@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Kerc'hat ar posteloù">
 <!ENTITY folderContextGetMessages.accesskey "K">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Digeriñ e-barzh ur prenestr nevez">
 <!ENTITY folderContextOpenInNewWindow.accesskey "p">
 <!ENTITY folderContextOpenNewTab.label "Digeriñ e-barzh un ivinell nevez">

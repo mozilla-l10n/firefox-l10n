@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Amsaviñ gant :">
 <!ENTITY replaceField.accesskey "s">
-<!ENTITY caseSensitiveCheckbox.label "Kenglotadur tirenneg uhel/izel">
-<!ENTITY caseSensitiveCheckbox.accesskey "r">
+
+
 <!ENTITY wrapCheckbox.label "Ambakañ tro dro dezhi">
 <!ENTITY wrapCheckbox.accesskey "d">
 <!ENTITY backwardsCheckbox.label "Klask a-gil">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "s">
 <!ENTITY replaceAllButton.label "Amsaviñ pep tra">
 <!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "Serriñ">
+
+
