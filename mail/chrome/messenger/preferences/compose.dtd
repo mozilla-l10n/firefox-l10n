@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Golygu Cyfeiriaduron…">
 <!ENTITY editDirectories.accesskey             "C">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Ffurfweddi ymddygiad fformat testun">
 <!ENTITY sendOptions.label                     "Dewisiadau Anfon…">
 <!ENTITY sendOptions.accesskey                 "A">

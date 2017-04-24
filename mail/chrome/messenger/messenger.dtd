@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Estyn Negeseuon">
 <!ENTITY folderContextGetMessages.accesskey "s">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Agor mewn Ffenestr Newydd">
 <!ENTITY folderContextOpenInNewWindow.accesskey "N">
 <!ENTITY folderContextOpenNewTab.label "Agor mewn Tab Newydd">
