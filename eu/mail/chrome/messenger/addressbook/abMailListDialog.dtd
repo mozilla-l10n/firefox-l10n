@@ -2,20 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Gehitu hona: ">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Gehitu hona: ">
+<!ENTITY addToAddressBook.accesskey     "G">
 <!ENTITY ListName.label                 "Zerrendaren izena: ">
+<!ENTITY ListName.accesskey             "Z">
 <!ENTITY ListNickName.label             "Zerrendaren ezizena: ">
-<!ENTITY ListDescription.label          "Deskribapena: ">
+<!ENTITY ListNickName.accesskey         "e">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Idatzi eposta helbideak posta zerrendara gehitzeko:">
+
 <!ENTITY UpButton.label                 "Eraman gorantz">
 <!ENTITY DownButton.label               "Eraman beherantz">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "G">
-<!ENTITY ListName.accesskey             "Z">
-<!ENTITY ListNickName.accesskey         "e">
-<!ENTITY ListDescription.accesskey      "D">
 

@@ -28,8 +28,8 @@
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
 <!ENTITY actualSize.label "Uneko tamaina:">
-<!ENTITY actualSizeRadio.label "Uneko tamaina">
-<!ENTITY actualSizeRadio.accessKey "U">
+<!ENTITY actualSizeRadio.label "Benetako tamaina">
+<!ENTITY actualSizeRadio.accessKey "B">
 <!ENTITY actualSizeRadio.tooltip "Itzuli irudiaren uneko tamainara">
 <!ENTITY customSizeRadio.label "Tamaina pertsonalizatua">
 <!ENTITY customSizeRadio.accessKey "s">

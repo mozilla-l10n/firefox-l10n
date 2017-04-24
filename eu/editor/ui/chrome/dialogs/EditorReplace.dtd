@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "B">
 <!ENTITY replaceField.label "Ordeztu honekin:">
 <!ENTITY replaceField.accesskey "r">
-<!ENTITY caseSensitiveCheckbox.label "Maiuskula/minuskulekin bat egin">
-<!ENTITY caseSensitiveCheckbox.accesskey "b">
+
+
 <!ENTITY wrapCheckbox.label "Ingurukoak bildu">
 <!ENTITY wrapCheckbox.accesskey "b">
 <!ENTITY backwardsCheckbox.label "Bilatu atzeraka">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "t">
 <!ENTITY replaceAllButton.label "Ordeztu denak">
 <!ENTITY replaceAllButton.accesskey "d">
-<!ENTITY closeButton.label "Itxi">
+
+
