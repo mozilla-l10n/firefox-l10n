@@ -111,10 +111,12 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ముడి దత్తాంశంను క్లిప్‌బోర్డునకు కాపీతీయును">
 
 <!ENTITY aboutSupport.sandboxTitle "శాండ్ బాక్స్">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "తిరసృత సిస్టమ్ కాల్స్">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "క్షణాల క్రితం">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallNumber "సిస్‌కాల్">
 
 <!ENTITY aboutSupport.safeModeTitle "సేఫ్ మోడ్ ప్రయత్నించండి">
 <!ENTITY aboutSupport.restartInSafeMode.label "పొడిగింతలను అచేతనించి పునఃప్రారంభించు…">
