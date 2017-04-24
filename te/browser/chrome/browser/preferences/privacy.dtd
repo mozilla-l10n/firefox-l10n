@@ -62,9 +62,9 @@
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName;">
 <!ENTITY  historyHeader2.pre.accesskey     "w">
-<!ENTITY  historyHeader.remember.label     "చరిత్రని గుర్తు పెట్టుకో">
-<!ENTITY  historyHeader.dontremember.label "ఎప్పుడూ చరిత్రని గుర్తు పెట్టుకోవద్దు">
-<!ENTITY  historyHeader.custom.label       "చరిత్ర కోసం అనుకూలీకరించిన అమరికలు వాడు">
+<!ENTITY  historyHeader.remember.label     "చరిత్రను గుర్తుపెట్టుకుంటుంది">
+<!ENTITY  historyHeader.dontremember.label "ఎప్పుడూ చరిత్రను గుర్తుపెట్టుకోదు">
+<!ENTITY  historyHeader.custom.label       "చరిత్ర కోసం అభిమత అమరికలు వాడుతుంది">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "మీ విహారణ, దింపుకోలు ఫారమ్ మరియు శోధన చరిత్రలను &brandShortName; గుర్తుంచుకుంటుంది, మరియు మీరు చూసిన వెబ్ సైట్ల కుకీలను దాచివుంచుతుంది.">

@@ -40,6 +40,6 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName;ని మరియు Firefox ని ఒకేసారి నడుపుటకు అనుమతించు">
 <!ENTITY useFirefoxSync.label             "చిట్కా: ఇది వేర్వేరు ప్రొఫైళ్ళను వాడుతుంది. వాటి మధ్యలో డేటాను పంచుకోడానికి Syncను వాడండి.">
-<!ENTITY getStarted.label                 "సింక్‌ను వాడటం మొదలుపెట్టండి…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; అభిరుచులను తెరువు">
 
 <!ENTITY e10sEnabled.label                "మల్టీ-ప్రోసెస్ &brandShortName; చేతనించు">
