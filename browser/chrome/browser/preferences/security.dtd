@@ -25,6 +25,8 @@
 
 
 
+<!ENTITY  rememberLogins1.label          "Запамінаць лагіны і паролі для сайтаў">
+<!ENTITY  rememberLogins1.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Выключэнні…">
 <!ENTITY  passwordExceptions.accesskey  "ы">
 
