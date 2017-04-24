@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc           "Bheir seo air falbh am fiosrachadh aig &brandShortName; mun chunntas seo. Cha bhi buaidh air a’ chunntas fhèin air an fhrithealaiche.">
 <!ENTITY removeData.label             "Thoir air falbh dàta nan teachdaireachdan">
 <!ENTITY removeData.accesskey         "d">
+
+
 <!ENTITY removeDataLocalAccount.desc  "Bheir seo air falbh gach teachdaireachd, pasgan is criathrag a tha co-cheangailte ris a’ chunntas seo on diosg ionadail agad. Cha bhi buaidh air cuid dhe na teachdaireachdan a dh’fhaodadh a bhith air an fhrithealaiche. Na dèan seo ma tha thu am beachd an an dàta ionadail a chur ann an tasg-lann no a chleachdadh a-rithist ann an &brandShortName; uaireigin eile.">
 <!ENTITY removeDataServerAccount.desc "Bheir seo air falbh gach teachdaireachd, pasgan is criathrag a tha co-cheangailte ris a’ chunntas seo on diosg ionadail agad.Bidh na teachdaireachdan is pasganan air an fhrithealaiche fhathast.">
+
 <!ENTITY showData.label               "Seall ionad an dàta">
 <!ENTITY showData.accesskey           "S">
 <!ENTITY progressPending              "A’ toirt air falbh an dàta a thagh thu…">

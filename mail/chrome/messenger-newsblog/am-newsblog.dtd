@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Thoir sùil airson artaigealan ùra gach ">
-<!ENTITY biffStart.accesskey "T">
-<!ENTITY biffEnd.label "mionaid(ean)">
+<!ENTITY loginAtStartup.label          "Thoir sùil airson artaigealan ùra nuair a thòisicheas am prògram">
+<!ENTITY loginAtStartup.accesskey      "T">
 
-<!ENTITY loginAtStartup.label "Thoir sùil airson artaigealan ùra nuair a thòisicheas am prògram"> 
-<!ENTITY loginAtStartup.accesskey "T">
 
-<!ENTITY useQuickMode.label "Seall gearr-chunntas an artagail seach a bhith a' luchdadh na duilleige-lìn a ghnàth"> 
-<!ENTITY useQuickMode.accesskey "b">
 
-<!ENTITY manageSubscriptions.label "Rianaich fo-sgrìobhaidhean…"> 
+
+<!ENTITY manageSubscriptions.label     "Rianaich fo-sgrìobhaidhean…">
 <!ENTITY manageSubscriptions.accesskey "R">
 
-<!ENTITY feedWindowTitle.label "Draoidh cunntasan inbhirean">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "Draoidh cunntasan inbhirean">
 
-<!ENTITY feeds.accountName "Blogaichean ⁊ inbhirean naidheachdan">
-<!ENTITY feeds.wizardShortName "Inbhirean">
-<!ENTITY feeds.wizardLongName "Blogaichean ⁊ inbhirean naidheachdan">
-<!ENTITY feeds.wizardLongName.accesskey "B">

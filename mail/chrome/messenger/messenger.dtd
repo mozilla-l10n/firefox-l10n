@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Faigh teachdaireachdan">
 <!ENTITY folderContextGetMessages.accesskey "g">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Fosgail">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Fosgail ann an taba ùr">

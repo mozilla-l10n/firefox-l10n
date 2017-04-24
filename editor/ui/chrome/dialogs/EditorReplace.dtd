@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "L">
 <!ENTITY replaceField.label "Cuir na leanas 'na àite:">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Aire do litrichean mòra is beaga">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+
+
 <!ENTITY wrapCheckbox.label "Paisg mun cuairt air">
 <!ENTITY wrapCheckbox.accesskey "P">
 <!ENTITY backwardsCheckbox.label "Lorg air ais">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "L">
 <!ENTITY replaceAllButton.label "Cuir an àite gach aon dhiubh">
 <!ENTITY replaceAllButton.accesskey "a">
-<!ENTITY closeButton.label "Dùin">
+
+

@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Liosta puist ùr">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Cuir ri: ">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Cuir ri: ">
+<!ENTITY addToAddressBook.accesskey     "C">
 <!ENTITY ListName.label                 "Ainm liosta: ">
+<!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Far-ainm liosta: ">
-<!ENTITY ListDescription.label          "Tuairisgeul: ">
+<!ENTITY ListNickName.accesskey         "n">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Cuir a-steach seòlaidhean puist-dhealain gus an cur ris an liosta phuist:">
+
 <!ENTITY UpButton.label                 "Gluais suas">
 <!ENTITY DownButton.label               "Gluais sìos">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "C">
-<!ENTITY ListName.accesskey             "l">
-<!ENTITY ListNickName.accesskey         "n">
-<!ENTITY ListDescription.accesskey      "e">
 

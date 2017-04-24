@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Àireamh as motha de cheanglaichean frithealaiche ri thasgadh">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Tha na roghainnean seo a' sònrachadh nan namespaces air an fhrithealaiche IMAP agad">
 <!ENTITY personalNamespace.label "Ainm-spàs pearsanta:">
