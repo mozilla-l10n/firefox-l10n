@@ -43,10 +43,10 @@
 <!ENTITY  suggestionSettings.label      "Změnit předvolby našeptávání vyhledávače…">
 <!ENTITY  suggestionSettings.accesskey  "y">
 
-<!ENTITY  acceptCookies.label           "Povolit serverům nastavovat soubory cookie">
+<!ENTITY  acceptCookies.label           "Povolit serverům nastavovat cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Povolit soubory cookie třetích stran:">
+<!ENTITY  acceptThirdParty.pre.label      "Povolit cookies třetích stran:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "a">
 <!ENTITY  acceptThirdParty.always.label   "Vždy">
 <!ENTITY  acceptThirdParty.never.label    "Nikdy">
@@ -61,7 +61,7 @@
 <!ENTITY  cookieExceptions.label        "Výjimky…">
 <!ENTITY  cookieExceptions.accesskey    "k">
 
-<!ENTITY  showCookies.label             "Správce souborů cookie…">
+<!ENTITY  showCookies.label             "Správce cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader.pre.label          "Nastavení historie:">
@@ -71,7 +71,7 @@
 <!ENTITY  historyHeader.custom.label       "Použít pro historii vlastní nastavení">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; si bude pamatovat historii stránek, stahování, formulářů a hledání. U navštívených stránek bude uchovávat soubory cookie.">
+<!ENTITY  rememberDescription.label      "&brandShortName; si bude pamatovat historii stránek, stahování, formulářů a hledání. U navštívených stránek bude uchovávat cookies.">
 
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
@@ -79,7 +79,7 @@
 <!ENTITY  rememberActions.pre.label           "Můžete ">
 <!ENTITY  rememberActions.clearHistory.label  "vymazat nedávnou historii">
 <!ENTITY  rememberActions.middle.label        " nebo ">
-<!ENTITY  rememberActions.removeCookies.label "odebrat některé soubory cookie">
+<!ENTITY  rememberActions.removeCookies.label "odebrat některé cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; použije stejné nastavení jako režim anonymního prohlížení a nebude si pamatovat žádnou historii z prohlížení webu.">

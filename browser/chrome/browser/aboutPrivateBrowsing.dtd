@@ -13,7 +13,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
 <!ENTITY aboutPrivateBrowsing.info.visited               "Navštívené stránky">
 <!ENTITY aboutPrivateBrowsing.info.searches              "Vyhledávání">
-<!ENTITY aboutPrivateBrowsing.info.cookies               "Soubory cookie">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "Cookies">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "Dočasné soubory">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "bude ukládat">

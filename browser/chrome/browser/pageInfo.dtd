@@ -76,8 +76,8 @@
 
 <!ENTITY  securityView.privacy.header                   "Soukromí a historie">
 <!ENTITY  securityView.privacy.history                  "Navštívil jsem už někdy tento server?">
-<!ENTITY  securityView.privacy.cookies                  "Má tento server uložené soubory cookie na mém počítači?">
-<!ENTITY  securityView.privacy.viewCookies              "Zobrazit soubory cookie">
+<!ENTITY  securityView.privacy.cookies                  "Má tento server na mém počítači uloženy nějaké cookies?">
+<!ENTITY  securityView.privacy.viewCookies              "Zobrazit cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "Z">
 <!ENTITY  securityView.privacy.passwords                "Mám pro tento server uložená hesla?">
 <!ENTITY  securityView.privacy.viewPasswords            "Zobrazit uložená hesla">
