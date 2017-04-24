@@ -6,7 +6,7 @@
 
 <!ENTITY engine.bookmarks.label     "ఇష్టాంశాలు">
 <!ENTITY engine.bookmarks.accesskey "m">
-<!ENTITY engine.tabs.label2         "ట్యాబులను తెరువుము">
+<!ENTITY engine.tabs.label2         "తెరిచివున్న ట్యాబులు">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">
@@ -62,7 +62,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "మీ జాలాన్ని మీతో తీసుకువెళ్ళండి">
 <!ENTITY signedOut.description        "మీ ఇష్టాంశాలను, చరిత్రను, ట్యాబులను, సంకేతపదాలను, పొడగింతలను, అభిరుచులను మీ పరికరాలన్నింటిలోనూ సింక్రనైజ్ చెయ్యండి.">
 <!ENTITY signedOut.accountBox.title   "ఒక &syncBrand.fxAccount.label;‌తో అనుసంధానించండి">
-<!ENTITY signedOut.accountBox.create  "ఖాతాను సృష్టించుకోండి">
+<!ENTITY signedOut.accountBox.create  "ఖాతా సృష్టించుకోండి">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "ప్రవేశించండి">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">

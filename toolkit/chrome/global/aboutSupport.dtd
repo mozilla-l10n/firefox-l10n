@@ -116,6 +116,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallAge "క్షణాల క్రితం">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "ప్రాసెస్ రకం">
 <!ENTITY aboutSupport.sandboxSyscallNumber "సిస్‌కాల్">
 
 <!ENTITY aboutSupport.safeModeTitle "సేఫ్ మోడ్ ప్రయత్నించండి">
