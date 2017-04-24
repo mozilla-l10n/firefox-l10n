@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc           "Uklanja samo &brandShortName; znanje o ovom računu. Ne utječe na račun na poslužitelju.">
 <!ENTITY removeData.label             "Ukloni podatke poruke">
 <!ENTITY removeData.accesskey         "d">
+
+
 <!ENTITY removeDataLocalAccount.desc  "Uklanja sve poruke, mape i filtere povezane s ovim računom s vašeg lokalnog diska. Ovo ne utječe na poruke koje se možda još nalaze na poslužitelju. Nemojte ovo odabrati ukoliko planirati arhivirati lokalne podatke ili ih ponovno koristiti kasnije u &brandShortName;u.">
 <!ENTITY removeDataServerAccount.desc "Uklanja sve poruke, mape i filtere povezane s ovim računom s vašeg lokalnog diska. Vaše poruke i mapu se još uvijek čuvaju na poslužitelju.">
+
 <!ENTITY showData.label               "Prikaži lokaciju podataka">
 <!ENTITY showData.accesskey           "l">
 <!ENTITY progressPending              "Uklanjanje odabranih podataka…">
