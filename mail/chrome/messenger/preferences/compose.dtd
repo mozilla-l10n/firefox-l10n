@@ -54,6 +54,9 @@
 <!ENTITY editDirectories.label                 "Edit Directories…">
 <!ENTITY editDirectories.accesskey             "E">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Configure text format behavior">
 <!ENTITY sendOptions.label                     "Send Options…">
 <!ENTITY sendOptions.accesskey                 "S">

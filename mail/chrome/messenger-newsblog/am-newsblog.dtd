@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Check for new articles every ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minutes">
+<!ENTITY loginAtStartup.label          "Check for new articles at startup">
+<!ENTITY loginAtStartup.accesskey      "C">
 
-<!ENTITY loginAtStartup.label "Check for new articles at startup"> 
-<!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "By default, show the article summary instead of loading the web page"> 
-<!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Manage Subscriptions…"> 
+
+<!ENTITY manageSubscriptions.label     "Manage Subscriptions…">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "جادوگر حساب خوراک">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "جادوگر حساب خوراک">
 
-<!ENTITY feeds.accountName "وبلاگ‌ها و خوراک‌های خبری">
-<!ENTITY feeds.wizardShortName "خوراک‌ها">
-<!ENTITY feeds.wizardLongName "وبلاگ‌ها و خوراک‌های خبری">
-<!ENTITY feeds.wizardLongName.accesskey "F">
