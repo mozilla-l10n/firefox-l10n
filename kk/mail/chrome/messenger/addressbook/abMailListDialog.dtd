@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Жаңа хабарлау тізімі">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Мынаған қосу:">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Мынаған қосу:">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Тізімнің атауы:">
+<!ENTITY ListName.accesskey             "з">
 <!ENTITY ListNickName.label             "Тізімнің ник аты:">
-<!ENTITY ListDescription.label          "Анықтамасы: ">
+<!ENTITY ListNickName.accesskey         "н">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Хаттады тарату тізіміне қосу үшін эл. пошта адрестерін теріңіз:">
+
 <!ENTITY UpButton.label                 "Жоғары жылжыту">
 <!ENTITY DownButton.label               "Төмен жылжыту">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "з">
-<!ENTITY ListNickName.accesskey         "н">
-<!ENTITY ListDescription.accesskey      "ы">
 

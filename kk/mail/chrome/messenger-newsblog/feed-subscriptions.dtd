@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Атауы:">
 <!ENTITY feedTitle.accesskey         "А">
 
-<!ENTITY feedLocation.label          "Таспа сілтемесі:">
-<!ENTITY feedLocation.accesskey      "п">
+
 <!ENTITY feedLocation.placeholder    "Қосу үшін жарамды таспа сілтемесін енгізіңіз">
 <!ENTITY locationValidate.label      "Дұрыстығын тексеру">
 <!ENTITY validateText.label          "Дұрыстығын тексеріп, жарамды сілтемені алу.">
 
 <!ENTITY feedFolder.label            "Мақалаларды сақтау орны:">
 <!ENTITY feedFolder.accesskey        "с">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Веб парағын жүктеп алу орнына мақаланың қысқаша қорытындысын көрсету">
 <!ENTITY quickMode.accesskey         "с">
 
-<!ENTITY autotagEnable.label         "Тегтерді автоматты түрде &lt;category&gt; атауларынан жасау">
-<!ENTITY autotagEnable.accesskey     "м">
+
 <!ENTITY autotagUsePrefix.label      "Тегтерді келесімен префикстеу:">
 <!ENTITY autotagUsePrefix.accesskey  "п">
 <!ENTITY autoTagPrefix.placeholder   "Тег префиксін енгізіңіз">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Қосу">
 <!ENTITY button.addFeed.accesskey    "о">
