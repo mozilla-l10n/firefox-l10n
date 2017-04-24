@@ -126,7 +126,7 @@
 <!ENTITY redirectLoop.longDesc "
 <ul>
   <li>Tento problém může být způsoben zakázáním nebo odmítnutím
-    ukládání souborů cookie.</li>
+    cookies.</li>
 </ul>
 ">
 

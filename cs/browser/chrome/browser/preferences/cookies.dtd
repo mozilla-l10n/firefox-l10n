@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "Tyto cookie jsou uloženy ve vašem počítači:">
+<!ENTITY     cookiesonsystem.label          "Tyto cookies jsou uloženy ve vašem počítači:">
 <!ENTITY     cookiename.label               "Název cookie">
 <!ENTITY     cookiedomain.label             "Server">
 
@@ -16,7 +16,7 @@
 <!ENTITY     props.expires.label            "Platnost do:">
 <!ENTITY     props.container.label          "Kontejner:">
 
-<!ENTITY     window.title                   "Správce cookie">
+<!ENTITY     window.title                   "Správce cookies">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
