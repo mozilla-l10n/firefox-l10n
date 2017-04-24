@@ -47,13 +47,13 @@
 <!ENTITY  acceptCookies.label           "Povolit serverům nastavovat soubory cookie">
 <!ENTITY  acceptCookies.accesskey       "c">
 
-<!ENTITY  acceptThirdParty.pre.label      "Povolit soubory cookie třetích stran:">
+<!ENTITY  acceptThirdParty.pre.label      "Soubory cookie třetích stran">
 <!ENTITY  acceptThirdParty.pre.accesskey  "a">
-<!ENTITY  acceptThirdParty.always.label   "Vždy">
-<!ENTITY  acceptThirdParty.never.label    "Nikdy">
-<!ENTITY  acceptThirdParty.visited.label  "Pouze navštívené">
+<!ENTITY  acceptThirdParty.always.label   "povolit vždy">
+<!ENTITY  acceptThirdParty.never.label    "nikdy nepovolovat">
+<!ENTITY  acceptThirdParty.visited.label  "povolit pouze navštívené">
 
-<!ENTITY  keepUntil.label               "Ponechat do:">
+<!ENTITY  keepUntil.label               "Soubory cookies ponechat do">
 <!ENTITY  keepUntil.accesskey           "d">
 
 <!ENTITY  expire.label                  "konce doby platnosti">
