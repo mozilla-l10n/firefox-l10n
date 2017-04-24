@@ -136,6 +136,8 @@ because displayed names don't have the comma in between. -->
 
 
 
+
+
 <!ENTITY editPropertiesButton.label                     "Rediģēt">
 <!ENTITY propertiesContext.label                        "Īpašības">
 <!ENTITY propertiesContext.accesskey                    "p">

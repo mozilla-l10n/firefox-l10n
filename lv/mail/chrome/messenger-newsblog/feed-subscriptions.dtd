@@ -13,6 +13,7 @@
 
 
 
+<!-- Account Settings and Subscription Dialog -->
 
 
 
@@ -20,6 +21,13 @@
 
 
 
+
+
+
+
+
+
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Pievienot">
 <!ENTITY button.addFeed.accesskey    "P">
