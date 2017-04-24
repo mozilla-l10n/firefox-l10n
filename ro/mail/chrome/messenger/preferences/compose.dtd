@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Editează directoarele…">
 <!ENTITY editDirectories.accesskey             "E">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Configurează aspectul textului">
 <!ENTITY sendOptions.label                     "Opțiuni de trimitere…">
 <!ENTITY sendOptions.accesskey                 "O">

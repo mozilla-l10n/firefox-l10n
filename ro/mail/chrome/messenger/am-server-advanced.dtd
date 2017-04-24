@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "v">
 <!ENTITY maximumConnectionsNumber.label "Număr maxim de conexiuni memorate temporar">
 <!ENTITY maximumConnectionsNumber.accesskey "x">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Următoarele preferințe specifică namespace-urile de pe serverul IMAP">
 <!ENTITY personalNamespace.label "Namespace personal:">
