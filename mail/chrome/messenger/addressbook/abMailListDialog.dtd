@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Nowa rozesćełańska lisćina">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Typ adresnika: ">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Typ adresnika: ">
+<!ENTITY addToAddressBook.accesskey     "d">
 <!ENTITY ListName.label                 "Mě z lisćiny: ">
+<!ENTITY ListName.accesskey             "M">
 <!ENTITY ListNickName.label             "Pśimě z lisćiny: ">
-<!ENTITY ListDescription.label          "Wopisanje: ">
+<!ENTITY ListNickName.accesskey         "P">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Zapišćo e-mailowe adrese, aby je rozesćełańskej lisćinje pśidał:">
+
 <!ENTITY UpButton.label                 "Górjej">
 <!ENTITY DownButton.label               "Dołoj">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "d">
-<!ENTITY ListName.accesskey             "M">
-<!ENTITY ListNickName.accesskey         "P">
-<!ENTITY ListDescription.accesskey      "W">
 

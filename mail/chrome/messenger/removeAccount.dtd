@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc           "Wótpórajo jano wědu &brandShortName; wó toś tom konśe. Njewobwliwujo konto same wó serwerje.">
 <!ENTITY removeData.label             "Powěsćowe daty wótpóraś">
 <!ENTITY removeData.accesskey         "d">
+
+
 <!ENTITY removeDataLocalAccount.desc  "Wótpórajo wšykne powěsći, zarědniki a filtry zwěazane z toś tym kontom z wašeje lokalneje platy. To njewobwliwujo někotare powěsći, kótarež maju na serwerje wóstaś. Njewuběrajśo to, jolic cośo lokalne daty archiwěrowaś abo pózdźej w &brandShortName; zasej wužywaś.">
 <!ENTITY removeDataServerAccount.desc "Wótpórajo wšykne powěsći, zarědniki a filtry zwězane z toś tym kontom z wašeje lokalneje platy. Waše powěsći a zarědniki wóstanu hyšći na wašom serwerje.">
+
 <!ENTITY showData.label               "Městno datow pokazaś">
 <!ENTITY showData.accesskey           "M">
 <!ENTITY progressPending              "Wubrane daty se wótwónoźuju…">
