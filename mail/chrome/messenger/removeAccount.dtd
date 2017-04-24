@@ -10,8 +10,11 @@
 <!ENTITY removeAccount.desc           "Bainfear an cuntas ó &brandShortName; amháin. Ní dhéanfar rud ar bith don chuntas ar an bhfreastalaí.">
 <!ENTITY removeData.label             "Bain sonraí teachtaireachta">
 <!ENTITY removeData.accesskey         "s">
+
+
 <!ENTITY removeDataLocalAccount.desc  "Scriosann an rogha seo na teachtaireachtaí, na fillteáin, agus na scagairí go léir a bhaineann leis an gcuntas seo ar do dhiosca áitiúil. Ní rachaidh sé i bhfeidhm ar na teachtaireachtaí atá fós ar an bhfreastalaí. Ná húsáid an rogha seo má tá tú ag iarraidh na sonraí áitiúla a chur i gcartlann nó iad a úsáid in &brandShortName; ar ball.">
 <!ENTITY removeDataServerAccount.desc "Scriosann an rogha seo na teachtaireachtaí, na fillteáin, agus na scagairí go léir a bhaineann leis an gcuntas seo ar do dhiosca áitiúil. Ní scriosfar na teachtaireachtaí agus na fillteáin atá agat ar an bhfreastalaí.">
+
 <!ENTITY showData.label               "Taispeáin suíomh na sonraí">
 <!ENTITY showData.accesskey           "s">
 <!ENTITY progressPending              "Sonraí roghnaithe á mbaint…">

@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Uasmhéid na gceangal freastalaí a chuirfear sa taisce">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Sonraíonn na roghanna seo na hainmspásanna ar d'fhreastalaí IMAP">
 <!ENTITY personalNamespace.label "Ainmspás pearsanta:">
