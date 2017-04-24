@@ -25,6 +25,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Издање">
 <!ENTITY aboutSupport.extensionId "ID">
 
+
 <!ENTITY aboutSupport.experimentsTitle "Експерименталне могућности">
 <!ENTITY aboutSupport.experimentName "Име">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -43,7 +44,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 "Update" is a noun here, not a verb. -->
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Канал за ажурирање">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Историја ажурирања">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Прикажи историју ажурирања">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Прикажи историјат ажурирања">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Фасцикла профила">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
