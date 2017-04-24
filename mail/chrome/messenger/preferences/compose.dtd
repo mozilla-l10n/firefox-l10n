@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Editatu direktorioak…">
 <!ENTITY editDirectories.accesskey             "E">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Konfiguratu testuaren formatuaren portaera">
 <!ENTITY sendOptions.label                     "Bidalketa-aukerak…">
 <!ENTITY sendOptions.accesskey                 "B">

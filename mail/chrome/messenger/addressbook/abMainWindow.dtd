@@ -149,6 +149,8 @@ because displayed names don't have the comma in between. -->
 
 
 
+
+
 <!ENTITY newmsgButton.label                             "Idatzi">
 <!ENTITY newmsgButton.accesskey                         "I">
 <!ENTITY newIM.label                                    "Berehalako mezua">

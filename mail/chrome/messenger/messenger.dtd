@@ -629,6 +629,9 @@
 
 <!ENTITY folderContextGetMessages.label "Eskuratu mezuak">
 <!ENTITY folderContextGetMessages.accesskey "k">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Ireki leiho berrian">
 <!ENTITY folderContextOpenInNewWindow.accesskey "l">
 <!ENTITY folderContextOpenNewTab.label "Ireki fitxa berri batean">

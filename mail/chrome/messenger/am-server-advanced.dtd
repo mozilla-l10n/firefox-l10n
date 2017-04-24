@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "k">
 <!ENTITY maximumConnectionsNumber.label "Cachean gordeko diren zerbitzari-konexio kopuru maximoa">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Hobespen hauek zure IMAP zerbitzariko izen-eremuak zehazten dituzte">
 <!ENTITY personalNamespace.label "Izen-eremu pertsonala:">

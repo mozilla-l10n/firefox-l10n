@@ -11,7 +11,7 @@
      -->
 <!ENTITY cmd.show.label                            "Ireki dagoen karpeta">
 <!ENTITY cmd.show.accesskey                        "k">
-<!ENTITY cmd.showMac.label                         "Erakutsi Finder-ean">
+<!ENTITY cmd.showMac.label                         "Erakutsi Finder-en">
 <!ENTITY cmd.showMac.accesskey                     "F">
 <!ENTITY cmd.open.label                            "Ireki">
 <!ENTITY cmd.open.accesskey                        "I">

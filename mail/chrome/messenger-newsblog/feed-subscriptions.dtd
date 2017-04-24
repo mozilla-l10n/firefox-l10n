@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Izenburua:">
 <!ENTITY feedTitle.accesskey         "I">
 
-<!ENTITY feedLocation.label          "Jarioaren URLa:">
-<!ENTITY feedLocation.accesskey      "U">
+
 <!ENTITY feedLocation.placeholder    "Sartu gehitzeko baliozko jario URLa">
 <!ENTITY locationValidate.label      "Balidatu">
 <!ENTITY validateText.label          "Egiaztatu balidazioa eta eskuratu baliozko URLa.">
 
 <!ENTITY feedFolder.label            "Gorde artikuluak hemen:">
 <!ENTITY feedFolder.accesskey        "G">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Erakutsi artikuluaren laburpena web orria kargatu ordez">
 <!ENTITY quickMode.accesskey         "E">
 
-<!ENTITY autotagEnable.label         "Sortu etiketak automatikoki &lt;kategorien&gt; izenetatik">
-<!ENTITY autotagEnable.accesskey     "m">
+
 <!ENTITY autotagUsePrefix.label      "Erabili aurrizkia etiketentzat:">
 <!ENTITY autotagUsePrefix.accesskey  "z">
 <!ENTITY autoTagPrefix.placeholder   "Sartu etiketaren aurrizkia">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Gehitu">
 <!ENTITY button.addFeed.accesskey    "G">

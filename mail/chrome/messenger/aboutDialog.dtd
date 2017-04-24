@@ -10,13 +10,13 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "B">
 <!ENTITY update.updateButton.label2               "Berrabiarazi &brandShortName; eguneratzeko">
 <!ENTITY update.updateButton.accesskey            "B">
-<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
 
 <!ENTITY warningDesc.version        "&brandShortName; esperimentala da eta ezegonkorra izan liteke.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "Automatikoki bidaltzen dio errendimendu, hardware, erabilera eta pertsonalizazio informazioa &vendorShortName;ri &brandShortName; hobetzen laguntzeko.">
-<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -86,7 +86,7 @@
 <!ENTITY update.unsupported.start    "Ezin duzu eguneraketa gehiago burutu sistema honetan. ">
 <!ENTITY update.unsupported.linkText "Argibide gehiago">
 <!ENTITY update.unsupported.end      "">
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
