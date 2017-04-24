@@ -84,15 +84,24 @@
 <!ENTITY updateTab.label                 "Përditësim">
 
 <!ENTITY updateApplication.label         "Përditësime &brandShortName;-i">
-<!ENTITY updateApplication.description   "Lejojeni &brandShortName;-in të">
+<!ENTITY updateApplication.description   "Lejojeni &brandShortName;-in">
 <!ENTITY updateAuto2.label               "Të instalojë vetvetiu përditësimet (e këshillueshme për siguri të përmirësuar)">
 <!ENTITY updateAuto2.accesskey           "v">
+<!ENTITY updateCheckChoose2.label        "Të kontrollojë për përditësime, por t&apos;ju lejojë të zgjidhni t&apos;i instaloni apo jo">
+<!ENTITY updateCheckChoose2.accesskey    "k">
+<!ENTITY updateManual2.label             "Të mos kontrollojë kurrë për përditësime (nuk rekomandohet)">
+<!ENTITY updateManual2.accesskey         "u">
 
+<!ENTITY updateHistory2.label            "Shfaq Historik Përditësimesh…">
+<!ENTITY updateHistory2.accesskey        "P">
 
 <!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
 <!ENTITY useService.accesskey            "P">
 
+<!ENTITY enableSearchUpdate2.label       "Të përditësojë vetvetiu motorët e kërkimeve">
+<!ENTITY enableSearchUpdate2.accesskey   "m">
 
+<!ENTITY reports.label                   "Raporte">
 
 <!ENTITY offlineStorageNotify.label               "Bëma të ditur kur një sajt kërkon të depozitojë të dhëna për përdorim të palidhur">
 <!ENTITY offlineStorageNotify.accesskey           "B">
@@ -106,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Hiqi të dhënat jashtë linje">
 
 <!ENTITY certificateTab.label            "Dëshmi">
+<!ENTITY certPersonal2.description       "Kur një shërbyes kërkon dëshminë tuaj personale">
 <!ENTITY selectCerts.auto                "Përzgjidh një vetvetiu">
 <!ENTITY selectCerts.auto.accesskey      "z">
 <!ENTITY selectCerts.ask                 "Pyetmë çdo herë">
