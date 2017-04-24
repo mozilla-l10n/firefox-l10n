@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Llista de correu nova">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Afegeix a:">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Afegeix a:">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Nom de la llista:">
+<!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Sobrenom de la llista:">
-<!ENTITY ListDescription.label          "Descripció:">
+<!ENTITY ListNickName.accesskey         "S">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Escriu noms o arrossega adreces a la llista de correu inferior:">
+
 <!ENTITY UpButton.label                 "Mou cap amunt">
 <!ENTITY DownButton.label               "Mou cap avall">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "l">
-<!ENTITY ListNickName.accesskey         "S">
-<!ENTITY ListDescription.accesskey      "e">
 

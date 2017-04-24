@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Recupera els missatges">
 <!ENTITY folderContextGetMessages.accesskey "g">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Obre en una finestra nova">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Obre en una pestanya nova">
