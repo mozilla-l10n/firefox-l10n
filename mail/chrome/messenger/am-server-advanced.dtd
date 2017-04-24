@@ -13,6 +13,8 @@
 <!ENTITY maximumConnectionsNumber.label "Høgste tal på tenartilkoplingar til mellomlageret">
 <!ENTITY maximumConnectionsNumber.accesskey "t">
 <!ENTITY forceSelect.label "Send IMAP markert til tenaren ved kontroll av ny e-post">
+<!ENTITY forceSelect.tooltip "Enkelte tenarar treng ein ekstra IMAP select slik at ny e-post vert mottatt på ein påliteleg måte, eller vert vist som lest etter at den er lest på ei anna eining. Om du vel dette alternativet, vil det føre til litt auka nettverkstrafikk.">
+<!ENTITY forceSelect.accesskey "E">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Desse innstillingane fastset namneromma på IMAP-tenaren">
 <!ENTITY personalNamespace.label "Personleg namnerom:">
