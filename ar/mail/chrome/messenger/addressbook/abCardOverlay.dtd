@@ -123,15 +123,15 @@
 <!ENTITY Gtalk.label                    "محادثة جوجل:">
 <!ENTITY Gtalk.accesskey                "ج">
 <!ENTITY AIM.label                      "AIM:">
-<!ENTITY AIM.accesskey                  "r">
+
 <!ENTITY Yahoo.label                    "ياهو!:">
 <!ENTITY Yahoo.accesskey                "ه">
 <!ENTITY Skype.label                    "سكايب:">
 <!ENTITY Skype.accesskey                "س">
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
-<!ENTITY MSN.label                      "MSN:">
-<!ENTITY MSN.accesskey                  "M">
+
+
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "معرّف جابِّر:">

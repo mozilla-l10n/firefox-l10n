@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "التمس المقالات الجديدة كلّ ">
-<!ENTITY biffStart.accesskey "ت">
-<!ENTITY biffEnd.label "دقائق">
+<!ENTITY loginAtStartup.label          "التمس المقالات الجديدة عند البدء">
+<!ENTITY loginAtStartup.accesskey      "ء">
 
-<!ENTITY loginAtStartup.label "التمس المقالات الجديدة عند البدء"> 
-<!ENTITY loginAtStartup.accesskey "ء">
 
-<!ENTITY useQuickMode.label "مبدئيا، اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب"> 
-<!ENTITY useQuickMode.accesskey "م">
 
-<!ENTITY manageSubscriptions.label "أدر الاشتراكات…"> 
+
+<!ENTITY manageSubscriptions.label     "أدر الاشتراكات…">
 <!ENTITY manageSubscriptions.accesskey "د">
 
-<!ENTITY feedWindowTitle.label "مرشد حسابات التلقيمات">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "مرشد حسابات التلقيمات">
 
-<!ENTITY feeds.accountName "تلقيمات المدونات و الأخبار">
-<!ENTITY feeds.wizardShortName "التلقيمات">
-<!ENTITY feeds.wizardLongName "تلقيمات المدونات و الأخبار">
-<!ENTITY feeds.wizardLongName.accesskey "ت">

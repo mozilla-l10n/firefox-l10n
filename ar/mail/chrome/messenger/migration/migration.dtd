@@ -13,8 +13,6 @@
 <!ENTITY importFromNothing.accesskey    "س">
 <!ENTITY importFromSeamonkey3.label     "سي‌منكي 2 أو أحدث">
 <!ENTITY importFromSeamonkey3.accesskey "س">
-<!ENTITY importFromOExpress.label       "أوتلوك إكسبريس">
-<!ENTITY importFromOExpress.accesskey   "و">
 <!ENTITY importFromOutlook.label        "أوتلوك">
 <!ENTITY importFromOutlook.accesskey    "ت">
 

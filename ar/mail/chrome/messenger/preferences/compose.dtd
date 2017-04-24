@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "حرّر المجلدات…">
 <!ENTITY editDirectories.accesskey             "ح">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "اضبط سلوك تنسيق النص">
 <!ENTITY sendOptions.label                     "خيارات الإرسال…">
 <!ENTITY sendOptions.accesskey                 "س">
