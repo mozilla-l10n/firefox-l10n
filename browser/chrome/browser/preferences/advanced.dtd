@@ -85,12 +85,22 @@
 
 <!ENTITY updateApplication.label         "&brandShortName; ажурирања">
 <!ENTITY updateApplication.description   "Дозволи &brandShortName;-у да">
+<!ENTITY updateAuto2.label               "Аутоматски инсталирај надоградње (препоручено: повећана сигурност)">
+<!ENTITY updateAuto2.accesskey           "А">
+<!ENTITY updateCheckChoose2.label        "Проверавај надоградње али ме питај да ли да их инсталирам">
+<!ENTITY updateCheckChoose2.accesskey    "и">
+<!ENTITY updateManual2.label             "Никад не проверавај надоградње (не препоручује се)">
+<!ENTITY updateManual2.accesskey         "Н">
 
+<!ENTITY updateHistory2.label            "Прикажи историјат ажурирања…">
+<!ENTITY updateHistory2.accesskey        "и">
 
 <!ENTITY useService.label                "Употреби позадинске сервисе за инсталацију надоградњи">
 <!ENTITY useService.accesskey            "з">
 
+<!ENTITY enableSearchUpdate2.label       "Аутоматски ажурирај претраживаче">
 
+<!ENTITY reports.label                   "Извештаји">
 
 <!ENTITY offlineStorageNotify.label               "Обавести ме када веб сајт затражи да смести податке за коришћење ван мреже">
 <!ENTITY offlineStorageNotify.accesskey           "ж">

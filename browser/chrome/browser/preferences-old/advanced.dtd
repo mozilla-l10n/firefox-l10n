@@ -91,7 +91,7 @@
 <!ENTITY updateManual.label              "Никад не проверавај надоградње (не препоручује се)">
 <!ENTITY updateManual.accesskey          "Н">
 
-<!ENTITY updateHistory.label             "Прикажи историјат надоградњи">
+<!ENTITY updateHistory.label             "Прикажи историјат ажурирања">
 <!ENTITY updateHistory.accesskey         "и">
 
 <!ENTITY useService.label                "Употреби позадинске сервисе за инсталацију надоградњи">
