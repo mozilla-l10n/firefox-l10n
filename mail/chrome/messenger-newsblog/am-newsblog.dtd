@@ -2,17 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffEnd.label "minūtes">
 
 
 
 
-
-<!ENTITY manageSubscriptions.label "Pārvaldīt abonementus..."> 
+<!ENTITY manageSubscriptions.label     "Pārvaldīt abonementus...">
 <!ENTITY manageSubscriptions.accesskey "P">
 
-<!ENTITY feedWindowTitle.label "Barotnes konta vednis">
-<!-- entities from rss.rdf -->
-<!ENTITY feeds.wizardShortName "Barotnes">
+<!ENTITY feedWindowTitle.label         "Barotnes konta vednis">
 
-<!ENTITY feeds.wizardLongName.accesskey "F">
