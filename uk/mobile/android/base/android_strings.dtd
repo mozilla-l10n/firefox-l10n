@@ -10,12 +10,12 @@
 <!ENTITY firstrun_bookmarks_message "Ваші закладки прямо перед вами">
 <!ENTITY firstrun_bookmarks_subtext "Отримуйте результати зі своїх закладок та історії під час пошуку.">
 <!ENTITY firstrun_data_title "Дані">
-<!ENTITY firstrun_data_message "Менше даних, більше економії">
-<!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах для зменшення витрати даних.">
+<!ENTITY firstrun_data_message "Менше даних, більше заощаджень">
+<!ENTITY firstrun_data_subtext2 "Вимкніть зображення на відвідуваних сайтах, щоб зменшити споживання даних.">
 <!ENTITY firstrun_sync_title "Синхронізація">
-<!ENTITY firstrun_sync_message "&brandShortName;, завжди поруч з вами">
+<!ENTITY firstrun_sync_message "&brandShortName; завжди поруч з вами">
 <!ENTITY firstrun_sync_subtext "Синхронізуйте свої вкладки, паролі й інші дані всюди, де ви їх використовуєте.">
-<!ENTITY firstrun_signin_message "Підключайтеся й починайте">
+<!ENTITY firstrun_signin_message "Під’єднайтесь і вперед">
 <!ENTITY firstrun_signin_button "Увійти до Синхронізації">
 <!ENTITY  onboard_start_button_browser "Почати перегляд">
 <!ENTITY firstrun_button_notnow "Не зараз">
@@ -598,7 +598,7 @@
 <!ENTITY home_closed_tabs_number "&formatD; вкладок">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
 <!ENTITY home_closed_tabs_one "1 вкладка">
-<!ENTITY home_most_recent_empty "Тут з’являтимуться ваші найбільш відвідувані сайти.">
+<!ENTITY home_most_recent_empty "Тут з’являтимуться останні відвідані вами веб-сайти.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Зверніть увагу: історія з &formatS1;Нової приватної вкладки&formatS2; не буде зберігатися.">
@@ -837,7 +837,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Додати до закладок">
 
 <!ENTITY activity_stream_topsites "Популярні сайти">
-<!ENTITY activity_stream_highlights "Основні">
+<!ENTITY activity_stream_highlights "Найцікавіше">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
@@ -849,8 +849,8 @@ Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
-<!ENTITY activity_stream_dismiss "Сховати">
+<!ENTITY activity_stream_dismiss "Відхилити">
 <!ENTITY activity_stream_delete_history "Видалити з історії">
 
-<!ENTITY activity_stream_welcome_title "Вітаємо в Основному">
-<!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки основного, що ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок, а також інших сторінок.">
+<!ENTITY activity_stream_welcome_title "Найцікавіші матеріали">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; тепер створює збірки найцікавіших матеріалів, які ви переглядали в Інтернеті, щоб ви могли знову повернутися до чудових статей, відео, закладок та інших сторінок.">
