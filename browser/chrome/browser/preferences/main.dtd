@@ -8,6 +8,8 @@
 <!ENTITY startupBlankPage.label    "паказваць пустую старонку">
 <!ENTITY startupPrevSession.label  "паказваць апошнія вокны і карткі">
 
+<!ENTITY homepage2.label           "Хатняя старонка">
+<!ENTITY homepage2.accesskey       "Х">
 <!ENTITY useCurrentPage.label      "Ужыць цяперашнюю старонку">
 <!ENTITY useCurrentPage.accesskey  "с">
 <!ENTITY useMultiple.label         "Ужыць дзейныя старонкі">
