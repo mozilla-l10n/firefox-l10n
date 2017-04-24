@@ -905,7 +905,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "Ажурирање &brandShorterName;-а је доступно.">
 <!ENTITY updateAvailable.acceptButton.label "Преузми надоградње">
 <!ENTITY updateAvailable.cancelButton.label "Не сада">
-<!ENTITY updateAvailable.panelUI.label "Ажурирајте &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Ажурирај &brandShorterName;">
 
 <!ENTITY updateManual.message "Преузмите &brandShorterName; и ми ћемо вам помоћи да га инсталирате.">
 <!ENTITY updateManual.whatsnew.label "Погледајте шта је ново.">
@@ -915,7 +915,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
 <!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
-<!ENTITY updateRestart.header.message "Рестартујте &brandShorterName; да примени надоградњу.">
+<!ENTITY updateRestart.header.message "Рестартуј &brandShorterName; да примени надоградњу.">
 <!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
 <!ENTITY updateRestart.cancelButton.label "Не сада">
-<!ENTITY updateRestart.panelUI.label "Рестартујте &brandShorterName; да примени надоградњу">
+<!ENTITY updateRestart.panelUI.label "Рестартуј &brandShorterName; да примени надоградњу">
