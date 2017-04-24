@@ -22,9 +22,9 @@
 <!ENTITY useAutoScroll.label             "Použít automatické posouvání">
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít plynulé posouvání">
-<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY useSmoothScrolling.accesskey    "l">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey          "r">
+<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Při psaní kontrolovat pravopis">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
