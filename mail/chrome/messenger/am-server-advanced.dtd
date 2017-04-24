@@ -14,6 +14,7 @@
 <!ENTITY maximumConnectionsNumber.accesskey "Н">
 <!ENTITY forceSelect.label "Пошаљи IMAP одабир серверу приликом провере нове поште">
 <!ENTITY forceSelect.tooltip "Неки сервери захтевају додатни IMAP одабир тако да се нова пошта поуздано примала или ће се приказивати као да је прочитана на другом уређају. Бирање ове опције ће нешто повећати количину мрежног саобраћаја.">
+<!ENTITY forceSelect.accesskey "с">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Ове поставке описују именске просторе на вашем IMAP серверу">
 <!ENTITY personalNamespace.label "Лични именски простор:">
