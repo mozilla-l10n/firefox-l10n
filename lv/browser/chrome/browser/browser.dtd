@@ -901,6 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Uzziniet vairāk par DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Atjauniniet &brandShorterName; lai iegūtu par jaunāko ātrumā un privātumā.">
 <!ENTITY updateAvailable.whatsnew.label "Skatiet jaunumus.">
+<!ENTITY updateAvailable.header.message "Pieejams &brandShorterName; jauninājums.">
+<!ENTITY updateAvailable.acceptButton.label "Lejupielādēt atjauninājumu">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ne tagad">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Lejupielādē &brandShortName; atjauninājumu">
 
+<!ENTITY updateManual.message "Lejupielādējiet jaunu &brandShorterName; versiju un mēs jums palīdzēsim, to instalēt.">
+<!ENTITY updateManual.whatsnew.label "Skatiet jaunumus.">
+<!ENTITY updateManual.header.message "&brandShorterName; nevar atjaunināt ar jaunāko versiju.">
+<!ENTITY updateManual.acceptButton.label "Lejupielādēt &brandShortName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ne tagad">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Lejupielādējiet jaunu &brandShorterName; versiju">
 
+<!ENTITY updateRestart.message "Pēc ātra restarta &brandShorterName; atjaunos atvērtās cilnes un logus.">
+<!ENTITY updateRestart.header.message "Pārstartēt &brandShortName;, lai atjauninātu.">
+<!ENTITY updateRestart.acceptButton.label "Pārstartēt un atjaunot">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ne tagad">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Pārstartēt &brandShortName;, lai atjauninātu">

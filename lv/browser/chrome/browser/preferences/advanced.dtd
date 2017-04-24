@@ -84,12 +84,24 @@
 <!ENTITY updateTab.label                 "Atjaunināt">
 
 <!ENTITY updateApplication.label         "&brandShortName; atjauninājumi">
+<!ENTITY updateApplication.description   "Ļaut &brandShortName;">
+<!ENTITY updateAuto2.label               "Instalēt atjauninājumus automātiski (ieteicams: uzlabo drošību)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Pārbaudīt atjauninājumu pieejamību, bet ļaut man izvēlēties vai instalēt tos">
+<!ENTITY updateCheckChoose2.accesskey    "P">
+<!ENTITY updateManual2.label             "Nekad nepārbaudīt atjauninājumus (nav ieteicams)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Parādīt atjauninājumu vēsturi…">
+<!ENTITY updateHistory2.accesskey        "v">
 
 <!ENTITY useService.label                "Instalēt atjauninājumus fonā">
 <!ENTITY useService.accesskey            "f">
 
+<!ENTITY enableSearchUpdate2.label       "Automātiski atjaunināt meklētājus">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Ziņojumi">
 
 <!ENTITY offlineStorageNotify.label               "Ziņot man, kad mājas lapa grib saglabāt datus izmantošanai nesaistē">
 <!ENTITY offlineStorageNotify.accesskey           "Z">
