@@ -148,6 +148,8 @@ because displayed names don't have the comma in between. -->
 
 
 
+
+
 <!ENTITY newmsgButton.label                             "Skryf">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Kitsboodskappe">
