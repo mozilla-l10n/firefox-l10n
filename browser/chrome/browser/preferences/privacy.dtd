@@ -32,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "Adresní řádek">
 
-<!ENTITY  locbar.suggest2.label         "Při použití adresního řádku našeptávat:">
+<!ENTITY  locbar.suggest2.label         "V adresním řádku našeptávat">
 <!ENTITY  locbar.history.label          "Historii">
 <!ENTITY  locbar.history.accesskey      "i">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
@@ -45,7 +45,7 @@
 <!ENTITY  suggestionSettings2.label     "Změnit předvolby našeptávání vyhledávače">
 
 <!ENTITY  acceptCookies.label           "Povolit serverům nastavovat cookies">
-<!ENTITY  acceptCookies.accesskey       "c">
+<!ENTITY  acceptCookies.accesskey       "a">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookies třetích stran">
 <!ENTITY  acceptThirdParty.pre.accesskey  "a">
@@ -65,11 +65,11 @@
 <!ENTITY  showCookies.label             "Správce cookies…">
 <!ENTITY  showCookies.accesskey         "S">
 
-<!ENTITY  historyHeader2.pre.label         "Nastavení historie:">
-<!ENTITY  historyHeader2.pre.accesskey     "N">
-<!ENTITY  historyHeader.remember.label     "Pamatovat si historii">
-<!ENTITY  historyHeader.dontremember.label "Nikdy si nepamatovat historii">
-<!ENTITY  historyHeader.custom.label       "Použít pro historii vlastní nastavení">
+<!ENTITY  historyHeader2.pre.label         "Historii prohlížení">
+<!ENTITY  historyHeader2.pre.accesskey     "i">
+<!ENTITY  historyHeader.remember.label     "ukládat">
+<!ENTITY  historyHeader.dontremember.label "nikdy neukládat">
+<!ENTITY  historyHeader.custom.label       "ukládat podle vlastního nastavení">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; si bude pamatovat historii stránek, stahování, formulářů a hledání. U navštívených stránek bude uchovávat cookies.">
@@ -83,7 +83,7 @@
 <!ENTITY  rememberActions.removeCookies.label "odebrat některé cookies">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; použije stejné nastavení jako režim anonymního prohlížení a nebude si pamatovat žádnou historii z prohlížení webu.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; použije stejné nastavení jako v režimu anonymního prohlížení a nebude si pamatovat žádnou historii prohlížení.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
@@ -92,16 +92,16 @@
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "Vždy použít režim anonymního prohlížení">
-<!ENTITY  privateBrowsingPermanent2.accesskey "r">
+<!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "Pamatovat si historii stránek a stahování">
-<!ENTITY  rememberHistory2.accesskey  "h">
+<!ENTITY  rememberHistory2.accesskey  "s">
 
 <!ENTITY  rememberSearchForm.label       "Pamatovat si historii hledání a formulářů">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Při ukončení aplikace &brandShortName; vymazat historii">
-<!ENTITY  clearOnClose.accesskey         "u">
+<!ENTITY  clearOnClose.label             "Vymazat historii při ukončení aplikace &brandShortName;">
+<!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavení…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
