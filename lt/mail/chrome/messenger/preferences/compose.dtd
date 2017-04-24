@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Tvarkyti katalogus…">
 <!ENTITY editDirectories.accesskey             "T">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Parinkite siunčiamų laiškų tekstų tipus:">
 <!ENTITY sendOptions.label                     "Siuntimo parinktys…">
 <!ENTITY sendOptions.accesskey                 "S">

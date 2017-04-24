@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Atsiųsti laiškus">
 <!ENTITY folderContextGetMessages.accesskey "l">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Atverti naujame lange">
 <!ENTITY folderContextOpenInNewWindow.accesskey "A">
 <!ENTITY folderContextOpenNewTab.label "Atverti naujoje kortelėje">
