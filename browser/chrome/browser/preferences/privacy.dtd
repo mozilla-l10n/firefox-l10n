@@ -61,6 +61,8 @@
 <!ENTITY  showCookies.label             "Паказаць кукі…">
 <!ENTITY  showCookies.accesskey         "П">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; будзе">
+<!ENTITY  historyHeader2.pre.accesskey     "б">
 <!ENTITY  historyHeader.remember.label     "памятаць гісторыю">
 <!ENTITY  historyHeader.dontremember.label "ніколі не памятаць гісторыю">
 <!ENTITY  historyHeader.custom.label       "ужываць налады для гісторыі">
