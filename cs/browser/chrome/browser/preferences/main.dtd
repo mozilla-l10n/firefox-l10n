@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Stahování">
 
-<!ENTITY saveTo.label "Ukládat všechny soubory do">
+<!ENTITY saveTo.label "Ukládat všechny soubory do složky">
 <!ENTITY saveTo.accesskey "v">
 <!ENTITY chooseFolderWin.label        "Procházet…">
 <!ENTITY chooseFolderWin.accesskey    "o">
