@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "j">
 <!ENTITY maximumConnectionsNumber.label "Keshga ulangan serverlarning maksimal miqdori">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Ushbu parametrlar IMAP serverdagi nom maydonchalarini ko‘rsatadi">
 <!ENTITY personalNamespace.label "Shaxsiy nom maydonchasi:">

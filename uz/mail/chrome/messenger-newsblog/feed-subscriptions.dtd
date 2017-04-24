@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Sarlavha:">
 <!ENTITY feedTitle.accesskey         "r">
 
-<!ENTITY feedLocation.label          "Yangiliklar tasmasining manzili:">
-<!ENTITY feedLocation.accesskey      "m">
+
 <!ENTITY feedLocation.placeholder    "Qo‘shish uchun yaroqli tasma manzilini kiriting">
 <!ENTITY locationValidate.label      "Tekshirish">
 <!ENTITY validateText.label          "Tasdiqlang va yaroqli URL manzilini oling.">
 
 <!ENTITY feedFolder.label            "Maqolalar joylashgan:">
 <!ENTITY feedFolder.accesskey        "j">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Veb sahifa yuklanishi o‘rniga maqolalar haqida umumiy ma’lumot ko‘rsatilsin">
 <!ENTITY quickMode.accesskey         "k">
 
-<!ENTITY autotagEnable.label         "&lt;Turkum&gt; nomlari tasmasidan avtomatik tarzda teglar yaratish">
-<!ENTITY autotagEnable.accesskey     "a">
+
 <!ENTITY autotagUsePrefix.label      "Ushbu turdagi old qo‘shimchali teglar:">
 <!ENTITY autotagUsePrefix.accesskey  "o">
 <!ENTITY autoTagPrefix.placeholder   "Teg old qo‘shimchasini kiriting">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Qo‘shish">
 <!ENTITY button.addFeed.accesskey    "Q">

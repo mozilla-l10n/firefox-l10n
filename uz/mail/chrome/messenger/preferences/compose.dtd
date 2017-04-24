@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Direktoriyalarni tahrirlash…">
 <!ENTITY editDirectories.accesskey             "t">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Matn formati xususiyatlarini moslash">
 <!ENTITY sendOptions.label                     "Jo‘natish moslamalari…">
 <!ENTITY sendOptions.accesskey                 "J">

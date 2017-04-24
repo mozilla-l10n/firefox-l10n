@@ -629,6 +629,9 @@
 
 <!ENTITY folderContextGetMessages.label "Xabarlarni yuklab olish">
 <!ENTITY folderContextGetMessages.accesskey "y">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Yangi oynada ochish">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Yangi ichki oynada ochish">
