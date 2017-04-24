@@ -618,6 +618,9 @@
 
 <!ENTITY folderContextGetMessages.label "Хабарламаларды алу">
 <!ENTITY folderContextGetMessages.accesskey "л">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Жаңа терезеде ашу">
 <!ENTITY folderContextOpenInNewWindow.accesskey "т">
 <!ENTITY folderContextOpenNewTab.label "Жаңа бетте ашу">

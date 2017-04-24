@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Жаңа мақалаларды тексеру уақыт аралығы ">
-<!ENTITY biffStart.accesskey "а">
-<!ENTITY biffEnd.label "минут">
+<!ENTITY loginAtStartup.label          "Іске қосылғанда жаңа мақалаларға тексеру">
+<!ENTITY loginAtStartup.accesskey      "с">
 
-<!ENTITY loginAtStartup.label "Іске қосылғанда жаңа мақалаларға тексеру"> 
-<!ENTITY loginAtStartup.accesskey "с">
 
-<!ENTITY useQuickMode.label "Үнсіз келісім бойынша, веб парағын жүктеп алу орнына мақаланың қысқаша қорытындысын көрсету"> 
-<!ENTITY useQuickMode.accesskey "н">
 
-<!ENTITY manageSubscriptions.label "Жазылуларды басқару…"> 
+
+<!ENTITY manageSubscriptions.label     "Жазылуларды басқару…">
 <!ENTITY manageSubscriptions.accesskey "б">
 
-<!ENTITY feedWindowTitle.label "Жаңалықтар таспа тіркелгілері шебері">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "Жаңалықтар таспа тіркелгілері шебері">
 
-<!ENTITY feeds.accountName "Блогтар және жаңалықтар таспалары">
-<!ENTITY feeds.wizardShortName "Жаңалықтар таспалары">
-<!ENTITY feeds.wizardLongName "Блогтар және жаңалықтар таспалары">
-<!ENTITY feeds.wizardLongName.accesskey "б">
