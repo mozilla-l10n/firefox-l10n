@@ -104,7 +104,7 @@
 <!ENTITY cookieAllowSessionCookiesMsg.label "Tento server bude moci nastavit cookies pouze pro aktuální relaci.">
 <!ENTITY cookieCookiesDefaultCmd.label "Použít výchozí oprávnění pro cookies">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "Cookies budou pro tento server povolena/zakázána na základě výchozího nastavení.">
+<!ENTITY cookieCookiesDefaultMsg.label "Cookies budou pro tento server povoleny nebo zakázány podle výchozího nastavení.">
 <!ENTITY cookieBlockCookiesCmd.label "Blokovat cookies z tohoto serveru">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Cookies z tohoto serveru budou vždy zakázány.">
