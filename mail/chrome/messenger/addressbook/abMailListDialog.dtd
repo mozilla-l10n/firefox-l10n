@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Új levelezőlista">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Hozzáadás: ">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Hozzáadás: ">
+<!ENTITY addToAddressBook.accesskey     "H">
 <!ENTITY ListName.label                 "Lista neve: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Lista beceneve: ">
-<!ENTITY ListDescription.label          "Leírás: ">
+<!ENTITY ListNickName.accesskey         "b">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Írjon be e-mail címeket, amelyeket hozzá kíván adni a levelezőlistához:">
+
 <!ENTITY UpButton.label                 "Mozgatás felfelé">
 <!ENTITY DownButton.label               "Mozgatás lefelé">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "H">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "b">
-<!ENTITY ListDescription.accesskey      "e">
 
