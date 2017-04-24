@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Achtergrondafbeelding:">
 <!ENTITY backgroundImage.accessKey "t">
 <!ENTITY backgroundImage.tooltip "Een afbeeldingsbestand gebruiken als achtergrond voor uw pagina">
+<!ENTITY backgroundImage.shortenedDataURI "Gegevens-URI is ingekort (Kopiëren plaatst de volledige URI op het klembord)">
