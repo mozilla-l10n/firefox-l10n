@@ -898,5 +898,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY updateRestart.header.message "Рестартиране на &brandShortName; за обновяване.">
-<!ENTITY updateRestart.panelUI.label "Рестартиране на &brandShortName; за обновяване">
+<!ENTITY updateRestart.header.message "Рестартиране на &brandShorterName; за обновяване.">
+<!ENTITY updateRestart.panelUI.label "Рестартиране на &brandShorterName; за обновяване">
