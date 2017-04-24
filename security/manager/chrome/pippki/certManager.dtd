@@ -38,7 +38,7 @@
 <!ENTITY certmgr.editcert.edittrust           "Upravit nastavení důvěryhodnosti:">
 <!ENTITY certmgr.editcert.trustssl            "Tento certifikát může identifikovat server.">
 <!ENTITY certmgr.editcert.trustemail          "Tento certifikát může identifikovat uživatele e-mailu.">
-<!ENTITY certmgr.editcert.trustobjsign        "Tento certifikát může identifikovat výrobce software.">
+<!ENTITY certmgr.editcert.trustobjsign        "Tento certifikát může identifikovat výrobce softwaru.">
 
 <!ENTITY certmgr.deletecert.title             "Smazat certifikát">
 

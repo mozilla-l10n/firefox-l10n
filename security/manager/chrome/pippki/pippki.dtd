@@ -20,7 +20,7 @@
 <!ENTITY downloadCert.message1 "Byli jste požádáni o uznání nové Certifikační Autority (CA).">
 <!ENTITY downloadCert.trustSSL "Uznat tuto CA pro identifikaci serverů.">
 <!ENTITY downloadCert.trustEmail "Uznat tuto CA pro identifikaci uživatelů pošty.">
-<!ENTITY downloadCert.trustObjSign "Uznat tuto CA pro identifikaci výrobců software.">
+<!ENTITY downloadCert.trustObjSign "Uznat tuto CA pro identifikaci výrobců softwaru.">
 <!ENTITY downloadCert.message3 "Před uznáním této CA, a to pro jakýkoliv účel, byste měli prozkoumat její certifikát, její pravidla a podmínky (pokud jsou dostupné).">
 <!ENTITY downloadCert.viewCert.label "Zobrazit">
 <!ENTITY downloadCert.viewCert.text "Zobrazit certifikát CA">
