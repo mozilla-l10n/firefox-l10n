@@ -12,6 +12,7 @@
 
 
 
+<!-- Account Settings and Subscription Dialog -->
 
 
 
@@ -19,6 +20,13 @@
 
 
 
+
+
+
+
+
+
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "ಸೇರಿಸು(A)‍">
 <!ENTITY button.addFeed.accesskey    "A">
