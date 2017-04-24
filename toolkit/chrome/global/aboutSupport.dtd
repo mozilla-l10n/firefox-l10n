@@ -25,6 +25,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Версія">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featureName "Імя">
+<!ENTITY aboutSupport.featureVersion "Версія">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Эксперыментальныя магчымасці">
 <!ENTITY aboutSupport.experimentName "Назва">
 <!ENTITY aboutSupport.experimentId "ID">
