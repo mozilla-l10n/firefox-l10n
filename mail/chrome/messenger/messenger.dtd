@@ -629,6 +629,9 @@
 
 <!ENTITY folderContextGetMessages.label "Get Messages">
 <!ENTITY folderContextGetMessages.accesskey "G">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Open in New Tab">
