@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Файл">
 <!ENTITY plugin.mimeTypes                                    "MIME-тып">
 <!ENTITY plugin.flashProtectedMode.label                     "Уключыць абаронены рэжым Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Блакаваць небяспечнае і назойлівае Flash-змесціва">

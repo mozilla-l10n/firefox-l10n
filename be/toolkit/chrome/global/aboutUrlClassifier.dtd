@@ -5,6 +5,9 @@
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.providerTitle               "Правайдар">
 <!ENTITY aboutUrlClassifier.provider                    "Правайдар">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Час апошняга абнаўлення">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Час наступнага абнаўлення">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус апошняга абнаўлення">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Абнавіць">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
