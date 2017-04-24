@@ -17,7 +17,7 @@
 <!ENTITY  notificationsDoNotDisturbDetails.value "Dokud nerestartujete &brandShortName;, žádná oznámení se nezobrazí">
 
 <!ENTITY  popupExceptions.label       "Výjimky…">
-<!ENTITY  popupExceptions.accesskey   "m">
+<!ENTITY  popupExceptions.accesskey   "k">
 
 <!ENTITY  fontsAndColors.label        "Písma a barvy">
 

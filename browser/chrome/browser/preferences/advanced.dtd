@@ -51,7 +51,7 @@
 
 <!ENTITY connectionDesc.label            "Konfigurovat připojení aplikace &brandShortName; k internetu">
 <!ENTITY connectionSettings.label        "Nastavení…">
-<!ENTITY connectionSettings.accesskey    "a">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "Mezipaměť webových stránek">
 
@@ -62,7 +62,7 @@
 <!ENTITY clearSiteData.label             "Vymazat data">
 <!ENTITY clearSiteData.accesskey         "V">
 <!ENTITY siteDataSettings.label          "Nastavení…">
-<!ENTITY siteDataSettings.accesskey      "s">
+<!ENTITY siteDataSettings.accesskey      "e">
 <!ENTITY siteDataLearnMoreLink.label     "Zjistit více">
 
 <!-- LOCALIZATION NOTE:
@@ -72,10 +72,10 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Omezit mezipaměť na">
-<!ENTITY limitCacheSizeBefore.accesskey  "O">
+<!ENTITY limitCacheSizeBefore.accesskey  "t">
 <!ENTITY limitCacheSizeAfter.label       "MB místa na disku">
 <!ENTITY clearCacheNow.label             "Vymazat">
-<!ENTITY clearCacheNow.accesskey         "m">
+<!ENTITY clearCacheNow.accesskey         "V">
 <!ENTITY clearOfflineAppCacheNow.label   "Vymazat">
 <!ENTITY clearOfflineAppCacheNow.accesskey "y">
 <!ENTITY overrideSmartCacheSize.label    "Nepoužít automatickou správu mezipaměti">
@@ -117,11 +117,11 @@
 <!ENTITY certificateTab.label            "Certifikáty">
 <!ENTITY certPersonal2.description       "Pokud server vyžaduje váš osobní certifikát">
 <!ENTITY selectCerts.auto                "Vybrat jeden automaticky">
-<!ENTITY selectCerts.auto.accesskey      "a">
+<!ENTITY selectCerts.auto.accesskey      "j">
 <!ENTITY selectCerts.ask                 "Vždy se zeptat">
-<!ENTITY selectCerts.ask.accesskey       "d">
+<!ENTITY selectCerts.ask.accesskey       "e">
 <!ENTITY enableOCSP.label                "Aktuální platnost certifikátů ověřovat na serverech OCSP">
-<!ENTITY enableOCSP.accesskey            "p">
+<!ENTITY enableOCSP.accesskey            "o">
 <!ENTITY viewCerts.label                 "Certifikáty">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">

@@ -6,11 +6,11 @@
 <!ENTITY  trackingProtection.description       "Internetové společnosti vás mohou sledovat a sbírat data k vytvoření profilu a zobrazování obsahu na základě vašich osobních údajů.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Blokovat zobrazování obsahu od známých sledujících společností">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
-<!ENTITY  trackingProtectionAlways.accesskey   "V">
+<!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
 <!ENTITY  trackingProtectionPrivate.accesskey  "o">
 <!ENTITY  trackingProtectionNever.label        "Nikdy">
-<!ENTITY  trackingProtectionNever.accesskey    "d">
+<!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "Zjistit více">
 <!ENTITY  trackingProtectionExceptions.label   "Výjimky…">
 <!ENTITY  trackingProtectionExceptions.accesskey "j">
@@ -20,7 +20,7 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Zjistit více">
 <!ENTITY changeBlockList.label          "Změnit seznam blokací">
-<!ENTITY changeBlockList.accesskey      "m">
+<!ENTITY changeBlockList.accesskey      "c">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
@@ -34,11 +34,11 @@
 
 <!ENTITY  locbar.suggest2.label         "V adresním řádku našeptávat">
 <!ENTITY  locbar.history.label          "Historii">
-<!ENTITY  locbar.history.accesskey      "i">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Záložky">
 <!ENTITY  locbar.bookmarks.accesskey    "Z">
 <!ENTITY  locbar.openpage.label         "Otevřené panely">
-<!ENTITY  locbar.openpage.accesskey     "e">
+<!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "Související vyhledávání od výchozího vyhledávacího modulu">
 <!ENTITY  locbar.searches.accesskey     "v">
 
@@ -48,7 +48,7 @@
 <!ENTITY  acceptCookies.accesskey       "a">
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookies třetích stran">
-<!ENTITY  acceptThirdParty.pre.accesskey  "a">
+<!ENTITY  acceptThirdParty.pre.accesskey  "t">
 <!ENTITY  acceptThirdParty.always.label   "povolit vždy">
 <!ENTITY  acceptThirdParty.never.label    "nikdy nepovolovat">
 <!ENTITY  acceptThirdParty.visited.label  "povolit pouze navštívené">
@@ -109,6 +109,6 @@
 <!ENTITY  browserContainersHeader.label         "Kontejnery">
 <!ENTITY  browserContainersLearnMore.label      "Zjistit více">
 <!ENTITY  browserContainersEnabled.label        "Povolit kontejnerové panely">
-<!ENTITY  browserContainersEnabled.accesskey    "y">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Nastavení…">
-<!ENTITY  browserContainersSettings.accesskey    "í">
+<!ENTITY  browserContainersSettings.accesskey    "v">
