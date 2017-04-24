@@ -49,9 +49,11 @@
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hsl): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.hsl "HSL(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.rgb): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.rgb "RGB(A)">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.name): This is used in
   -  the 'Default color unit' dropdown list and is visible in the options panel.
