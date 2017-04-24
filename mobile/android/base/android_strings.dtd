@@ -366,6 +366,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "వ్యవస్థ ఫాంటు పరిమాణాన్ని వాడు">
+<!ENTITY pref_use_system_font_size_summary "జాల విషయాన్ని వ్యవస్థ ఫాంటు పరిమాణం ప్రకారం నియతించు">
 
 <!ENTITY pref_media_autoplay_enabled "ఆటో ప్లే అనుమతించండి">
 <!ENTITY pref_media_autoplay_enabled_summary "వెబ్‌సైట్లు వీడియోలనూ ఇతర మీడియానూ ఆటోమెటిగ్గా ఆడించవచ్చా వద్దో నియంత్రించండి">
