@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Uredi imenike…">
 <!ENTITY editDirectories.accesskey             "e">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Podesite ponašanje prilikom oblikovanja teksta">
 <!ENTITY sendOptions.label                     "Mogućnosti slanja…">
 <!ENTITY sendOptions.accesskey                 "s">

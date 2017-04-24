@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Dohvati poruke">
 <!ENTITY folderContextGetMessages.accesskey "D">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Otvori u novom prozoru">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Otvori u novoj karticu">
