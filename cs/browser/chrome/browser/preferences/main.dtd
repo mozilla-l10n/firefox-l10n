@@ -13,7 +13,7 @@
 <!ENTITY homepage2.label           "Domovská stránka">
 <!ENTITY homepage2.accesskey       "m">
 <!ENTITY useCurrentPage.label      "Použít aktuální stránku">
-<!ENTITY useCurrentPage.accesskey  "a">
+<!ENTITY useCurrentPage.accesskey  "k">
 <!ENTITY useMultiple.label         "Použít aktuální stránky">
 <!ENTITY chooseBookmark.label      "Použít záložku…">
 <!ENTITY chooseBookmark.accesskey  "z">

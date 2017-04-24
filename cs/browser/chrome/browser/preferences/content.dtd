@@ -24,13 +24,13 @@
 <!ENTITY  defaultFont2.label          "Výchozí písmo">
 <!ENTITY  defaultFont2.accesskey      "p">
 <!ENTITY  defaultSize2.label          "Velikost">
-<!ENTITY  defaultSize2.accesskey      "s">
+<!ENTITY  defaultSize2.accesskey      "V">
 
 <!ENTITY  advancedFonts.label         "Rozšířené…">
 <!ENTITY  advancedFonts.accesskey     "o">
 
 <!ENTITY  colors.label                "Barvy…">
-<!ENTITY  colors.accesskey            "a">
+<!ENTITY  colors.accesskey            "y">
 
 
 <!ENTITY languages.label              "Jazyky">
