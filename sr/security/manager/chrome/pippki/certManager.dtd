@@ -79,7 +79,7 @@
 <!ENTITY certmgr.addException.accesskey       "т">
 
 <!ENTITY exceptionMgr.title                   "Додавање безбедносног изузетка">
-<!ENTITY exceptionMgr.exceptionButton.label   "Потврда безбедносног изузетка">
+<!ENTITY exceptionMgr.exceptionButton.label   "Потврди безбедносни изузетак">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "П">
 <!ENTITY exceptionMgr.supplementalWarning     "Легитимне банке, продавнице и други јавни сајтови неће тражити да ово радите.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Сервер">
