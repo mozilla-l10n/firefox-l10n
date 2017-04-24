@@ -76,7 +76,7 @@
 
 <!ENTITY filterOutput.placeholder "వడపోత అవుట్పుట్">
 <!ENTITY btnClear.label        "శుభ్రం">
-<!ENTITY btnClear.tooltip      "వెబ్ కన్సోల్ అవుట్‌పుట్ శుబ్రంచేయి">
+<!ENTITY btnClear.tooltip      "వెబ్ కన్సోల్ అవుట్‌పుట్ తుడిచివేయి">
 <!ENTITY btnClear.accesskey    "r">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
@@ -89,7 +89,7 @@
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY copyURLCmd.label     "లింకు స్థానాన్ని కాపీచేయి">
+<!ENTITY copyURLCmd.label     "లంకె స్థానాన్ని కాపీచేయి">
 <!ENTITY copyURLCmd.accesskey "a">
 
 <!ENTITY closeCmd.key         "W">
@@ -97,5 +97,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "వేరియబుల్స్ వీక్షణలో తెరవండి">
 <!ENTITY openInVarViewCmd.accesskey "V">
-<!ENTITY storeAsGlobalVar.label "ప్రపంచ వేరియబుల్ గా స్టోర్ చేయండి">
+<!ENTITY storeAsGlobalVar.label "సార్వత్రిక వేరియబుల్‌గా నిల్వచేయి">
 <!ENTITY storeAsGlobalVar.accesskey "S">
