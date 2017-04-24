@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Titlu:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "URL flux:">
-<!ENTITY feedLocation.accesskey      "U">
+
 <!ENTITY feedLocation.placeholder    "Introduceți un url de flux valid pentru a fi adăugat">
 <!ENTITY locationValidate.label      "Validează">
 <!ENTITY validateText.label          "Verifică validarea și obține o adresă web corectă.">
 
 <!ENTITY feedFolder.label            "Stochează articolele în:">
 <!ENTITY feedFolder.accesskey        "S">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Arată sumarul articolului în loc de a încărca pagina web">
 <!ENTITY quickMode.accesskey         "u">
 
-<!ENTITY autotagEnable.label         "Creează automat etichete de la numele &lt;categoriilor&gt; fluxului">
-<!ENTITY autotagEnable.accesskey     "C">
+
 <!ENTITY autotagUsePrefix.label      "Prefixare etichete cu:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduceți un prefix de etichetă">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Adaugă">
 <!ENTITY button.addFeed.accesskey    "A">

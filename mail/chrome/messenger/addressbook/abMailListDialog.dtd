@@ -2,20 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Title -->
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Adaugă la: ">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Adaugă la: ">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Numele listei: ">
+<!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Listează pseudonime: ">
-<!ENTITY ListDescription.label          "Descriere: ">
+<!ENTITY ListNickName.accesskey         "n">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Tastați adrese de e-mail pentru a le adăuga în lista de mai jos:">
+
 <!ENTITY UpButton.label                 "Mută sus">
 <!ENTITY DownButton.label               "Mută jos">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "l">
-<!ENTITY ListNickName.accesskey         "n">
-<!ENTITY ListDescription.accesskey      "e">
 

@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare ">
-<!ENTITY biffStart.accesskey "V">
-<!ENTITY biffEnd.label "minute">
+<!ENTITY loginAtStartup.label          "Verifică disponibilitatea articolelor noi la pornire">
+<!ENTITY loginAtStartup.accesskey      "c">
 
-<!ENTITY loginAtStartup.label "Verifică disponibilitatea articolelor noi la pornire"> 
-<!ENTITY loginAtStartup.accesskey "c">
 
-<!ENTITY useQuickMode.label "În mod implicit arată sumarul articolului în loc să încarci pagina web"> 
-<!ENTITY useQuickMode.accesskey "b">
 
-<!ENTITY manageSubscriptions.label "Gestionează abonamente…"> 
+
+<!ENTITY manageSubscriptions.label     "Gestionează abonamente…">
 <!ENTITY manageSubscriptions.accesskey "m">
 
-<!ENTITY feedWindowTitle.label "Asistent de configurare conturi de flux">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "Asistent de configurare conturi de flux">
 
-<!ENTITY feeds.accountName "Bloguri și fluxuri de știri">
-<!ENTITY feeds.wizardShortName "Fluxuri">
-<!ENTITY feeds.wizardLongName "Bloguri și fluxuri de știri">
-<!ENTITY feeds.wizardLongName.accesskey "f">
