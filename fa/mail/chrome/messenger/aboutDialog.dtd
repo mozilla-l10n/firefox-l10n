@@ -10,13 +10,13 @@
 <!ENTITY update.checkForUpdatesButton.accesskey   "ب">
 <!ENTITY update.updateButton.label2               "برای انجام بروزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
 
-<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
+<!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
 
 <!ENTITY warningDesc.version        "&brandShortName; آزمایشی است و ممکن است ناپایدار باشد.">
-<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
+<!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "این برنامه برای کمک به بهتر کردن &brandShortName;، به طور خودکار اطلاعاتی را درباره‌ی عملکرد، سخت‌افزار، نوع استفاده و تنظیمات شخصی به &vendorShortName; می‌فرستد.">
-<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
+<!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -85,7 +85,7 @@
 <!ENTITY update.unsupported.start    "شما نمی‌توانید به‌روزرسانی‌های بیشتری را بر روی این سیستم انجام بدهید. ">
 <!ENTITY update.unsupported.linkText "اطلاعات بیشتر">
 <!ENTITY update.unsupported.end      "">
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).

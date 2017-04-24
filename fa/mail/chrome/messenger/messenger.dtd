@@ -615,6 +615,9 @@
 <!ENTITY folderContextGetMessages.accesskey "G">
 
 
+
+
+
 <!ENTITY folderContextOpenNewTab.label "باز کردن در زبانهٔ جدید">
 <!ENTITY folderContextOpenNewTab.accesskey "ب">
 <!ENTITY folderContextNew.label "New Subfolder…">
