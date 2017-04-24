@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Сайт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Сховішча">
+<!ENTITY     searchTextboxPlaceHolder             "Пошук вэб-сайтаў">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "П">
 <!ENTITY     removeSelected.label          "Выдаліць абранае">
 <!ENTITY     removeSelected.accesskey      "в">
 <!ENTITY     save.label                    "Захаваць змены">

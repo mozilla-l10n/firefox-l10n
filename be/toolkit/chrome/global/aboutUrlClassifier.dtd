@@ -6,6 +6,8 @@
 <!ENTITY aboutUrlClassifier.providerTitle               "Правайдар">
 <!ENTITY aboutUrlClassifier.provider                    "Правайдар">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Абнавіць">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Памяць">
 <!ENTITY aboutUrlClassifier.databaseTitle               "База дадзеных">
