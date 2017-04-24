@@ -14,7 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "Consola de erro">
 <!ENTITY errorConsoleCmd.accesskey "C">
-
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "Navegador">
 <!ENTITY taskComposer.tooltip "Compositor">
@@ -42,7 +42,7 @@
 
 <!ENTITY downloadManagerCmd.label "Gestor de descargas">
 <!ENTITY downloadManagerCmd.accesskey "t">
-
+<!ENTITY downloadManagerCmd.commandkey "j">
 
 <!ENTITY addOnsManagerCmd.label "Gestor de extras">
 <!ENTITY addOnsManagerCmd.accesskey "x">
