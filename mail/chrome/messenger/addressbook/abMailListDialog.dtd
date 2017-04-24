@@ -4,20 +4,18 @@
 <!-- Title -->
 
 <!ENTITY mailListWindowAdd.title        "Նամակների նոր ցանկ">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Ավելացնել՝">
+<!-- Labels and Access Keys -->
 
+<!ENTITY addToAddressBook.label         "Ավելացնել՝">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Ցանկի անունը.">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Ցանկի կեղծանունը.">
-<!ENTITY ListDescription.label          "Նկարագրություն. ">
+<!ENTITY ListNickName.accesskey         "N">
+
+
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-<!ENTITY AddressTitle.label             "Նշեք էլ. հասցեներ՝ դրանք ավելացնելու համար նամակների ցանկին։">
+
 <!ENTITY UpButton.label                 "Վեր">
 <!ENTITY DownButton.label               "Վար">
-<!-- Access Keys -->
-
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "կ">
 

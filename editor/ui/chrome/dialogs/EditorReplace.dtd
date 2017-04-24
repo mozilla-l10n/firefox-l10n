@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Փոխարինել՝">
 <!ENTITY replaceField.accesskey "e">
-<!ENTITY caseSensitiveCheckbox.label "Ըստ համընկման">
-<!ENTITY caseSensitiveCheckbox.accesskey "c">
+
+
 <!ENTITY wrapCheckbox.label "Տողադարձել">
 <!ENTITY wrapCheckbox.accesskey "W">
 <!ENTITY backwardsCheckbox.label "Որոնել հետադարձեր">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Փոխարինել բոլորը">
 <!ENTITY replaceAllButton.accesskey "A">
-<!ENTITY closeButton.label "Փակել">
+
+

@@ -629,6 +629,9 @@
 
 <!ENTITY folderContextGetMessages.label "Ստանալ նամակները">
 <!ENTITY folderContextGetMessages.accesskey "G">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Բացել նոր պատուհանում">
 <!ENTITY folderContextOpenInNewWindow.accesskey "Բ">
 <!ENTITY folderContextOpenNewTab.label "Բացել նոր ներդիրում">
