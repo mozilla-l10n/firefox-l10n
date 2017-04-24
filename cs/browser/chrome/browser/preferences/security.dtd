@@ -18,23 +18,23 @@
 <!ENTITY  blockDownloads.accesskey        "s">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Upozornit na nežádoucí a neobvyklý software">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "r">
 
 <!ENTITY  addonExceptions.label         "Výjimky…">
-<!ENTITY  addonExceptions.accesskey     "m">
+<!ENTITY  addonExceptions.accesskey     "k">
 
 
 <!ENTITY  formsAndPasswords.label       "Formuláře a hesla">
 
 <!ENTITY  rememberLogins1.label          "Pamatovat si přihlašovací údaje">
-<!ENTITY  rememberLogins1.accesskey      "a">
+<!ENTITY  rememberLogins1.accesskey      "P">
 <!ENTITY  passwordExceptions.label      "Výjimky…">
 <!ENTITY  passwordExceptions.accesskey  "k">
 
 <!ENTITY  useMasterPassword.label        "Použít hlavní heslo">
-<!ENTITY  useMasterPassword.accesskey    "P">
+<!ENTITY  useMasterPassword.accesskey    "u">
 <!ENTITY  changeMasterPassword.label     "Změnit hlavní heslo…">
-<!ENTITY  changeMasterPassword.accesskey "n">
+<!ENTITY  changeMasterPassword.accesskey "m">
 
 <!ENTITY  savedLogins.label              "Uložené přihlašovací údaje…">
-<!ENTITY  savedLogins.accesskey          "h">
+<!ENTITY  savedLogins.accesskey          "l">
