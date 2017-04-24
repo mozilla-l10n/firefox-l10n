@@ -14,6 +14,13 @@
 
 
 
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Wys die artikelopsomming in plaas daarvan om die webbladsy te laai">
 <!ENTITY quickMode.accesskey         "s">
@@ -22,6 +29,7 @@
 
 
 
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Voeg by">
 <!ENTITY button.addFeed.accesskey    "V">
