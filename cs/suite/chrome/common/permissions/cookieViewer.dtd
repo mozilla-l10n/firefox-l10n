@@ -9,7 +9,7 @@
 <!ENTITY     treehead.cookiename.label      "Název cookie">
 <!ENTITY     treehead.cookiedomain.label    "Server">
 <!ENTITY     treehead.cookieexpires.label   "Vyprší">
-<!ENTITY     treehead.infoselected.label    "Informace o vybraném cookie">
+<!ENTITY     treehead.infoselected.label    "Informace o vybrané cookie">
 <!ENTITY     button.removecookie.label      "Odebrat cookie">
 <!ENTITY     button.removecookie.accesskey  "O">
 <!ENTITY     button.removeallcookies.label  "Odebrat všechny cookies">

@@ -40,7 +40,7 @@
 <!ENTITY cookies.tree.name.label "Název cookie">
 <!ENTITY cookies.tree.expires.label "Vyprší">
 
-<!ENTITY cookies.infobox.label "Informace o vybraném cookie">
+<!ENTITY cookies.infobox.label "Informace o vybrané cookie">
 
 <!ENTITY cookies.info.name.label "Název:">
 <!ENTITY cookies.info.value.label "Obsah:">
