@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "P">
 <!ENTITY replaceField.label "Narunać z:">
 <!ENTITY replaceField.accesskey "u">
-<!ENTITY caseSensitiveCheckbox.label "Wulko-/Małopisanje wobkedźbować">
-<!ENTITY caseSensitiveCheckbox.accesskey "b">
+
+
 <!ENTITY wrapCheckbox.label "Linki łamać">
 <!ENTITY wrapCheckbox.accesskey "L">
 <!ENTITY backwardsCheckbox.label "Dozady pytać">
@@ -23,4 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "r">
 <!ENTITY replaceAllButton.label "Wšě narunać">
 <!ENTITY replaceAllButton.accesskey "W">
-<!ENTITY closeButton.label "Začinić">
+
+
