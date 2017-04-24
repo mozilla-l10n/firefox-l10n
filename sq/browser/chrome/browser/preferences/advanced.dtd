@@ -84,6 +84,9 @@
 <!ENTITY updateTab.label                 "Përditësim">
 
 <!ENTITY updateApplication.label         "Përditësime &brandShortName;-i">
+<!ENTITY updateApplication.description   "Lejojeni &brandShortName;-in të">
+<!ENTITY updateAuto2.label               "Të instalojë vetvetiu përditësimet (e këshillueshme për siguri të përmirësuar)">
+<!ENTITY updateAuto2.accesskey           "v">
 
 
 <!ENTITY useService.label                "Përdor shërbim në prapaskenë për të instaluar përditësimet">
