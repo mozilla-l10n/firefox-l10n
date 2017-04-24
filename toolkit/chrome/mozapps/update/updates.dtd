@@ -43,12 +43,12 @@
 <!ENTITY  genericBackgroundError.label    "&brandShortName; не можа да определи дали има налично обновяване. Моля, уверете се, че разполагате с последната версия на &brandShortName; от:">
 
 <!ENTITY  finishedPage.title              "Обновяване е готово за инсталиране">
-<!ENTITY  finishedPage.text               "Обновяването ще бъде инсталирано при следващото отваряне на&brandShortName;. Може сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
+<!ENTITY  finishedPage.text               "Обновяването ще бъде инсталирано при следващото отваряне на &brandShortName;. Може сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
 
 <!ENTITY  finishedBackgroundPage.text     "Изтеглено е обновяване по безопасността и устойчивостта на &brandShortName; и е готово за инсталиране.">
 <!ENTITY  finishedBackground.name         "Обновяване:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
-<!ENTITY  finishedBackground.more         "Обновяването ще бъде инсталирано при следващото пускане на&brandShortName;. Можете сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
+<!ENTITY  finishedBackground.more         "Обновяването ще бъде инсталирано при следващото пускане на &brandShortName;. Можете сега да рестартирате &brandShortName; или да продължите да работите и да рестартирате по-късно.">
 <!ENTITY  finishedBackground.moreElevated "Това обновяване изисква администраторски права. То ще бъде инсталирано при следващото отваряне на &brandShortName;. Може да рестартирате &brandShortName; още сега, да продължите работата си и да рестартирате по-късно или да откажете това обновяване.">
 
 <!ENTITY  update.details.label            "Подробности">
