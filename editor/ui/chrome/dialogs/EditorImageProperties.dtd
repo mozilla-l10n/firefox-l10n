@@ -13,7 +13,7 @@
 <!ENTITY locationEditField.label "Адрес на изображението:">
 <!ENTITY locationEditField.accessKey "А">
 <!ENTITY locationEditField.tooltip "Напишете името на файла с картинката или нейния адрес">
-<!ENTITY locationEditField.shortenedDataURI "Съкратено URI с данни (при копиране в системния буфер се копира пълното URI)">
+<!ENTITY locationEditField.shortenedDataURI "Съкратен URI с данни (при копиране в системния буфер се копира пълното URI)">
 <!ENTITY title.label "Подсказка:">
 <!ENTITY title.accessKey "П">
 <!ENTITY title.tooltip "Html aтрибутът 'title', показващ се като подсказка">
