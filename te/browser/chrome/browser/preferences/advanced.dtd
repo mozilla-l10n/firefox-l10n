@@ -84,6 +84,7 @@
 <!ENTITY updateTab.label                 "నవీకరణ">
 
 <!ENTITY updateApplication.label         "&brandShortName; తాజాకరణలు">
+<!ENTITY updateApplication.description   "వీటికి &brandShortName;ని అనుమతించు">
 <!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.accesskey         "N">
