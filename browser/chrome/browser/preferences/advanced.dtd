@@ -115,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Aizvākt nesaistes datus">
 
 <!ENTITY certificateTab.label            "Sertifikāti">
+<!ENTITY certPersonal2.description       "Kad serveris pieprasa manu personīgo sertifikātu">
 <!ENTITY selectCerts.auto                "Izvēlēties automātiski">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Katru reizi jautāt man">

@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Lapa">
 <!ENTITY     statusCol.label               "Statuss">
 <!ENTITY     usageCol.label                "Krātuve">
+<!ENTITY     searchTextboxPlaceHolder             "Meklēt lapas">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Izņemt izvēlēto">
 <!ENTITY     removeSelected.accesskey      "I">
 <!ENTITY     save.label                    "Saglabāt izmaiņas">

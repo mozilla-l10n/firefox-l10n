@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 55em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
+<!ENTITY  paneSearchResults.title       "Meklēšanas rezultāti">
 <!ENTITY  paneGeneral.title             "Galvenie">
+<!ENTITY  paneFilesApplications.title   "Faili un programmas">
+<!ENTITY  panePrivacySecurity.title     "Privātums un drošība">
 <!ENTITY  paneContainers.title          "Saturošās cilnes">
+<!ENTITY  paneUpdates.title             "Atjauninājumi">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox konts">
 
+<!ENTITY  helpButton2.label        "&brandShortName; atbalsts">
 
+<!ENTITY  searchInput.label        "Meklēšana">
