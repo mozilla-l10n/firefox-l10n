@@ -4,6 +4,8 @@
 
 <!ENTITY startup.label             "Запуск">
 
+<!ENTITY startupPage2.label        "Пасля запуску &brandShortName;">
+<!ENTITY startupPage2.accesskey    "а">
 <!ENTITY startupUserHomePage.label "паказваць вашу хатнюю старонку">
 <!ENTITY startupBlankPage.label    "паказваць пустую старонку">
 <!ENTITY startupPrevSession.label  "паказваць апошнія вокны і карткі">
@@ -38,5 +40,6 @@
 
 <!ENTITY separateProfileMode.label        "Дазволіць &brandShortName; і Firefox выконвацца адначасова">
 <!ENTITY useFirefoxSync.label             "Падказка: для гэтага выкарыстоўваюцца асобныя профілі. Карыстайцеся Sync для абмену дадзенымі паміж імі.">
+<!ENTITY getStarted.notloggedin.label     "Увайсці ў &syncBrand.shortName.label;…">
 
 <!ENTITY e10sEnabled.label                "Уключыць шматпрацэсны &brandShortName;">
