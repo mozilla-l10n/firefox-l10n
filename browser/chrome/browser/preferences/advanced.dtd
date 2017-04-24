@@ -86,15 +86,20 @@
 <!ENTITY updateApplication.label         "&brandShortName; абнаўленні">
 <!ENTITY updateApplication.description   "Дазволіць &brandShortName;">
 <!ENTITY updateAuto2.label               "Аўтаматычна ўсталёўваць абнаўленні (рэкамендуецца для паляпшэння бяспекі)">
+<!ENTITY updateAuto2.accesskey           "А">
 <!ENTITY updateCheckChoose2.label        "Правяраць наяўнасць абнаўленняў, але даваць вам выбар, ці ўсталёўваць іх">
+<!ENTITY updateCheckChoose2.accesskey    "П">
 <!ENTITY updateManual2.label             "Ніколі не правяраць наяўнасць абнаўленняў (не рэкамендуецца)">
+<!ENTITY updateManual2.accesskey         "Н">
 
 <!ENTITY updateHistory2.label            "Паказаць гісторыю абнаўленняў...">
+<!ENTITY updateHistory2.accesskey        "с">
 
 <!ENTITY useService.label                "Выкарыстоўваць фонавую службу для ўсталявання абнаўленняў">
 <!ENTITY useService.accesskey            "ф">
 
 <!ENTITY enableSearchUpdate2.label       "Аўтаматычна абнаўляць пашукавікі">
+<!ENTITY enableSearchUpdate2.accesskey   "а">
 
 <!ENTITY reports.label                   "Справаздачы">
 
