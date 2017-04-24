@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Provjeri za nove članke svakih ">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "minuta">
+<!ENTITY loginAtStartup.label          "Provjeri za nove članke pri pokretanju">
+<!ENTITY loginAtStartup.accesskey      "r">
 
-<!ENTITY loginAtStartup.label "Provjeri za nove članke pri pokretanju"> 
-<!ENTITY loginAtStartup.accesskey "r">
 
-<!ENTITY useQuickMode.label "Prikaži kratak pregled članka umjesto učitavanja web stranice"> 
-<!ENTITY useQuickMode.accesskey "P">
 
-<!ENTITY manageSubscriptions.label "Upravljanje pretplatama…"> 
+
+<!ENTITY manageSubscriptions.label     "Upravljanje pretplatama…">
 <!ENTITY manageSubscriptions.accesskey "m">
 
-<!ENTITY feedWindowTitle.label "Čarobnjak feed računa">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "Čarobnjak feed računa">
 
-<!ENTITY feeds.accountName "Feedovi blogova &amp; novosti">
-<!ENTITY feeds.wizardShortName "Feedovi">
-<!ENTITY feeds.wizardLongName "Feedovi blogova &amp; novosti">
-<!ENTITY feeds.wizardLongName.accesskey "B">
