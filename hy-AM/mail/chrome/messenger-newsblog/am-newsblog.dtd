@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Ստուգել թարմացումները յուրաքանչյուր՝">
-<!ENTITY biffStart.accesskey "k">
-<!ENTITY biffEnd.label "րոպե">
+<!ENTITY loginAtStartup.label          "Բացելիս ստուգել նորությունները">
+<!ENTITY loginAtStartup.accesskey      "C">
 
-<!ENTITY loginAtStartup.label "Բացելիս ստուգել նորությունները"> 
-<!ENTITY loginAtStartup.accesskey "C">
 
-<!ENTITY useQuickMode.label "Ըստ ծրագրայինի ցուցադրել հոդվածի ընդհանուր պատկերը, այլ ոչ վեբ էջը:"> 
-<!ENTITY useQuickMode.accesskey "B">
 
-<!ENTITY manageSubscriptions.label "Կառավարել բաժանորդագրությունները...."> 
+
+<!ENTITY manageSubscriptions.label     "Կառավարել բաժանորդագրությունները....">
 <!ENTITY manageSubscriptions.accesskey "M">
 
-<!ENTITY feedWindowTitle.label "Սնման հաշվի Օգնական">
-<!-- entities from rss.rdf -->
+<!ENTITY feedWindowTitle.label         "Սնման հաշվի Օգնական">
 
-<!ENTITY feeds.accountName "Բլոգներ և նորություններ">
-<!ENTITY feeds.wizardShortName "Շղթաներ">
-<!ENTITY feeds.wizardLongName "Բլոգներ և նորություններ">
-<!ENTITY feeds.wizardLongName.accesskey "F">

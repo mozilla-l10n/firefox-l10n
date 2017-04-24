@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Խմբագրել թղթապանակները...">
 <!ENTITY editDirectories.accesskey             "E">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Կարգավորել տեքստայինի վարքը">
 <!ENTITY sendOptions.label                     "Ուղարկելու ընտրանքներ...">
 <!ENTITY sendOptions.accesskey                 "S">

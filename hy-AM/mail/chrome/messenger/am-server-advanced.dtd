@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Սպասարկիչի առավելագույն կապակցումները պահոցին">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Այս նախապատվությունները որոշում են անվանադաշտերը Ձեր IMAP սպասարկիչում">
 <!ENTITY personalNamespace.label "Անձնական անվանադաշտ.">
