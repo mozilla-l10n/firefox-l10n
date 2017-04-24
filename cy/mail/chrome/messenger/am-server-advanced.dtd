@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Uchafswm cysylltiadau gweinydd i'r storfa">
 <!ENTITY maximumConnectionsNumber.accesskey "U">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Mae'r dewisiadau yn pennu bwlchenw ar eich gweinydd IMAP">
 <!ENTITY personalNamespace.label "Bwlchenw personol:">

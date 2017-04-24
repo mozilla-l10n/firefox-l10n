@@ -9,23 +9,29 @@
 <!ENTITY feedTitle.label             "Teitl:">
 <!ENTITY feedTitle.accesskey         "T">
 
-<!ENTITY feedLocation.label          "URL Llif:">
-<!ENTITY feedLocation.accesskey      "L">
+
 <!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i'w Ychwanegu">
 <!ENTITY locationValidate.label      "Dilysu">
 <!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
 
 <!ENTITY feedFolder.label            "Cadw erthyglau yn:">
 <!ENTITY feedFolder.accesskey        "e">
+<!-- Account Settings and Subscription Dialog -->
+
+
+
+
+
+
 
 <!ENTITY quickMode.label             "Dangos crynodeb erthygl yn lle llwytho tudalen gwe">
 <!ENTITY quickMode.accesskey         "c">
 
-<!ENTITY autotagEnable.label         "Creu tagiau'n awtomatig o enwau &lt;categorïau&gt; llif">
-<!ENTITY autotagEnable.accesskey     "a">
+
 <!ENTITY autotagUsePrefix.label      "Rhagosod tagiau gyda:">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Rhoi rhagosodiad tag">
+<!-- Subscription Dialog -->
 
 <!ENTITY button.addFeed.label        "Ychwanegu">
 <!ENTITY button.addFeed.accesskey    "Y">
