@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fonti un krāsas">
 
+<!ENTITY  defaultFont2.label          "Noklusējuma fonts">
+<!ENTITY  defaultFont2.accesskey      "N">
+<!ENTITY  defaultSize2.label          "Izmērs">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Iestatījumi...">
 <!ENTITY  advancedFonts.accesskey     "a">

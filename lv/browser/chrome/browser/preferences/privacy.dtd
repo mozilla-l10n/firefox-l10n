@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Izsekošanas aizsardzība">
+<!ENTITY  trackingProtection.description       "Izsekošana ir tad, kad uzņēmumi apkopotu informāciju ar iespēju veidot profilu un parādīt saturu, pamatojoties uz jūsu pārlūkošanas vēsturi un personas datiem.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloķēt zināmu izsekošanas kompāniju saturu">
 <!ENTITY  trackingProtectionAlways.label       "Vienmēr">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Tikai privātajos logos">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Atrašanās vietas josla">
 
+<!ENTITY  locbar.suggest2.label         "Meklējot adreses joslā, ieteikt">
 <!ENTITY  locbar.history.label          "Vēsturi">
 <!ENTITY  locbar.history.accesskey      "V">
 <!ENTITY  locbar.bookmarks.label        "Grāmatzīmes">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Saistītie meklēšanas rezultāti no noklusētā meklētāja">
 <!ENTITY  locbar.searches.accesskey     "r">
 
+<!ENTITY  suggestionSettings2.label     "Izmainiet meklētāju iestatījumus">
 
 <!ENTITY  acceptCookies.label           "Pieņemt sīkdatnes no lapām">
 <!ENTITY  acceptCookies.accesskey       "l">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Parādīt sīkdatnes…">
 <!ENTITY  showCookies.accesskey         "s">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "v">
 <!ENTITY  historyHeader.remember.label     "Atcerēsies vēsturi">
 <!ENTITY  historyHeader.dontremember.label "Nekad neatcerēsies vēsturi">
 <!ENTITY  historyHeader.custom.label       "Izmantos pielāgotus vēstures iestatījumus">
