@@ -12,6 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "م">
 <!ENTITY maximumConnectionsNumber.label "العدد الأقصى للاتّصالات بالخادوم التي ستُستبقى">
 <!ENTITY maximumConnectionsNumber.accesskey "ع">
+
+
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "هذه التفضيلات تحدد فضاءات التسمية في خادوم ال IMAP لديك">
 <!ENTITY personalNamespace.label "فضاء تسمية شخصي:">

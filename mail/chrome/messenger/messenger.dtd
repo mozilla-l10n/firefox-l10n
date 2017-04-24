@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "اجلب الرسائل">
 <!ENTITY folderContextGetMessages.accesskey "ج">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "افتح في نافذه جديدة">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ف">
 <!ENTITY folderContextOpenNewTab.label "افتح في لسان جديد">
