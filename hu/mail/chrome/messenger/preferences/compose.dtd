@@ -55,6 +55,9 @@
 <!ENTITY editDirectories.label                 "Címtárak szerkesztése…">
 <!ENTITY editDirectories.accesskey             "C">
 
+
+
+
 <!ENTITY sendOptionsDescription.label          "Szövegformátum beállítása">
 <!ENTITY sendOptions.label                     "Üzenetküldési beállítások…">
 <!ENTITY sendOptions.accesskey                 "b">

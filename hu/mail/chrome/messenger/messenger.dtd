@@ -634,6 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Üzenetek letöltése ">
 <!ENTITY folderContextGetMessages.accesskey "z">
+
+
+
 <!ENTITY folderContextOpenInNewWindow.label "Megnyitás új ablakban">
 <!ENTITY folderContextOpenInNewWindow.accesskey "a">
 <!ENTITY folderContextOpenNewTab.label "Megnyitás új lapon">
