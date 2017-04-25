@@ -18,7 +18,7 @@
 
 <!-- LOCALIZATION NOTE (csscoverage.unused, csscoverage.noMatches):
   -  This is the heading and body text for the CSS usage part of the report -->
-<!ENTITY csscoverage.unused "ఉపయోగించని నియమాలు">
+<!ENTITY csscoverage.unused "వాడని నియమాలు">
 <!ENTITY csscoverage.noMatches "కింది నియమాల కొరకు ఏ పోలికలు కనబడలేదు:">
 
 <!-- LOCALIZATION NOTE (csscoverage.optimize.header):

@@ -17,7 +17,7 @@
 <!ENTITY profileCreationIntro.text      "మీరు చాలా ప్రొఫైల్సు సృష్టించినట్లైతే వాటని ప్రొఫైల్ నామాలద్వారా తెలుపవచ్చు. ఇక్కడ ఇవ్వబడిన నామమును వాడవచ్చు లేదా మీ స్వంత దానిని వాడవచ్చు.">
 <!ENTITY profilePrompt.label            "కొత్త ప్రొఫైల్ నామమును ప్రవేశపెట్టండి:">
 <!ENTITY profilePrompt.accesskey        "E">
-<!ENTITY profileDirectoryExplanation.text   "మీ వాడుకరి అమరికలు, అభీష్టాలు మరియు ఇతర వాడుకరి-సంభందిత డాటా యిందులో నిల్వవుంచబడుతుంది:">
+<!ENTITY profileDirectoryExplanation.text   "మీ వాడుకరి అమరికలు, అభిరుచులు, ఇతర వాడుకరి-సంబంధిత డేటా ఇందులో నిల్వ ఉంటుంది:">
 <!ENTITY profileDefaultName             "అప్రమేయ వాడుకరి">
 <!ENTITY button.choosefolder.label      "సంచయంను ఎంచుకొనుము...">
 <!ENTITY button.choosefolder.accesskey  "C">

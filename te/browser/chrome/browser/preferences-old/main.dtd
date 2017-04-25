@@ -12,10 +12,10 @@
 
 <!ENTITY homepage.label            "హోం పేజీ:">
 <!ENTITY homepage.accesskey        "P">
-<!ENTITY useCurrentPage.label      "ప్రస్తుత పేజీని ఉపయోగించు">
+<!ENTITY useCurrentPage.label      "ప్రస్తుత పేజీని వాడు">
 <!ENTITY useCurrentPage.accesskey  "C">
-<!ENTITY useMultiple.label         "ప్రస్తుత పేజీలను ఉపయోగించు">
-<!ENTITY chooseBookmark.label      "ఇష్టాంశము ఉపయోగించు…">
+<!ENTITY useMultiple.label         "ప్రస్తుత పేజీలను వాడు">
+<!ENTITY chooseBookmark.label      "ఇష్టాంశాన్ని వాడు…">
 <!ENTITY chooseBookmark.accesskey  "B">
 <!ENTITY restoreDefault.label      "అప్రమేయాలను పునరుద్ధరించు">
 <!ENTITY restoreDefault.accesskey  "R">
