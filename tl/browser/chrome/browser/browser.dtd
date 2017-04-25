@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.label "Isara ang Window">
 <!ENTITY closeWindow.accesskey "d">
 
-<!ENTITY bookmarksMenu.label "Mga bukmark">
+<!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "b">
 <!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
