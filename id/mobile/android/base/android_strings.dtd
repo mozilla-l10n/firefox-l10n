@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Markah dihapus">
 <!ENTITY bookmark_updated "Markah diperbarui">
 <!ENTITY bookmark_options "Pengaturan">
+<!ENTITY bookmark_save "Simpan">
 <!ENTITY screenshot_added_to_bookmarks "Tangkapan layar ditambahkan ke markah">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; item">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_parent_folder "Folder Induk">
 
 <!ENTITY reader_saved_offline "Simpan luring">
 <!-- Localization note (reader_switch_to_bookmarks) : This
