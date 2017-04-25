@@ -6,14 +6,14 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "Paunang pahina ng &brandFullName;">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "Salamat sa pagpili sa Firefox! Upang masulit ang iyong karanasan sa iyong browser, alamin ang tungkol sa <a>mga pinakabagong feature</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -22,7 +22,7 @@
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
 <!ENTITY abouthome.rightsSnippet "Ang &brandFullName; ay libre at open source na software mula sa non-profit na Mozilla Foundation. <a>Alamin ang iyong karapatan…</a>">
 
-<!ENTITY abouthome.bookmarksButton.label "Mga bukmark">
+<!ENTITY abouthome.bookmarksButton.label "Mga bookmark">
 <!ENTITY abouthome.historyButton.label   "Kasaysayan">
 <!-- LOCALIZATION NOTE (abouthome.preferencesButtonWin.label): The label for the
      preferences/options item on about:home on Windows -->
@@ -33,8 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "Mga Add-ons">
 <!ENTITY abouthome.downloadsButton.label "Mga Download">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label; ">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
-
 <!ENTITY abouthome.aboutMozilla.label    "Tungkol sa Mozilla">
