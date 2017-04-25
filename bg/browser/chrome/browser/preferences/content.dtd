@@ -4,8 +4,8 @@
 
 <!ENTITY  popups.label                "Изскачащи прозорци">
 
-<!ENTITY  blockPopups.label           "Блокиране на изскачащите прозорци">
-<!ENTITY  blockPopups.accesskey       "Б">
+<!ENTITY  blockPopups.label           "Спиране на изскачащите прозорци">
+<!ENTITY  blockPopups.accesskey       "С">
 
 <!ENTITY  notificationsPolicy.label            "Известия">
 <!ENTITY  notificationsPolicyLearnMore.label   "Научете повече">
