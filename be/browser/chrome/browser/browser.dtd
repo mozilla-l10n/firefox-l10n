@@ -901,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Даведацца больш пра DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Абнавіце & brandShorterName; для павышэння хуткадзейнасці і прыватнасці.">
+<!ENTITY updateAvailable.message "Абнавіце &brandShorterName; для павышэння хуткадзейнасці і прыватнасці.">
 <!ENTITY updateAvailable.whatsnew.label "Што новага.">
 <!ENTITY updateAvailable.header.message "Даступна новая версія &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Сцягнуць абнаўленне">
