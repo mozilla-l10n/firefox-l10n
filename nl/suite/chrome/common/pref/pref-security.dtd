@@ -29,7 +29,7 @@
   to a combination of both, so it's important that these strings convey the
   meaning "reported" (and not something like "known").
 -->
-<!ENTITY safeBrowsing.label               "Veilig surfen">
+<!ENTITY safeBrowsing.label               "Safe Browsing">
 <!ENTITY safeBrowsingIntro.label          "&brandShortName; kan gerapporteerde websites met kwaadwillende inhoud blokkeren.">
 
 <!ENTITY blockAttackSites.label           "Gerapporteerde aanvalsites blokkeren (malware, virussen)">

@@ -33,7 +33,7 @@
 <!ENTITY rights.intro-point3c " te vinden.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights2.intro-point4a "&brandShortName; biedt optionele website-informatiediensten, zoals de add-on of veilig surfen-diensten; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de diensten, is te vinden in de ">
+<!ENTITY rights2.intro-point4a "&brandShortName; biedt optionele website-informatiediensten, zoals de add-on- of Safe Browsing-diensten; we kunnen echter niet garanderen dat deze 100&#37; nauwkeurig of foutvrij zijn. Meer details, waaronder informatie over het uitschakelen van de functies die deze diensten gebruiken, is te vinden in de ">
 <!ENTITY rights.intro-point4b "servicevoorwaarden">
 <!ENTITY rights.intro-point4c ".">
 
@@ -44,7 +44,7 @@
      so that we can refer to text the user sees in the UI, without
      this page being forgotten every time those strings are updated.  -->
 <!-- intro paragraph for branded builds -->
-<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Veilig surfen of de notificatiefunctie van de dienst Locatiebewust navigeren) zijn standaard geactiveerd. Als u een of meer van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u ">
+<!ENTITY rights3.webservices-a "&brandFullName; biedt optionele webgebaseerde diensten (‘Diensten’) aan, die beschikbaar zijn voor uw gebruik met deze binaire versie van &brandShortName;, zoals hieronder beschreven. Deze diensten (zoals de add-on-suggestie- en -updateservice, de dienst Safe Browsing of de notificatiefunctie van de dienst Locatiebewust navigeren) zijn standaard geactiveerd. Als u een of meer van deze diensten niet wilt gebruiken of de voorwaarden hieronder niet wilt accepteren, kunt u ">
 <!ENTITY rights3.webservices-b "hier">
 <!ENTITY rights3.webservices-c " instructies over het uitschakelen van een bepaalde functie of dienst vinden.">
 
@@ -57,12 +57,12 @@
 <!ENTITY rights.addons-term4 "Add-ondiensten zijn nu uitgeschakeld">
 
 <!-- safe browsing points for branded builds -->
-<!ENTITY rights.safebrowsing-a "Veilig surfen: ">
-<!ENTITY rights.safebrowsing-b "uitschakelen van de dienst Veilig surfen wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de dienst volledig wilt uitschakelen, volg dan deze stappen:">
+<!ENTITY rights.safebrowsing-a "Safe Browsing: ">
+<!ENTITY rights.safebrowsing-b "uitschakelen van de functie Safe Browsing wordt niet aanbevolen, omdat dit ervoor kan zorgen dat u onveilige websites bezoekt. Als u de functie volledig wilt uitschakelen, volg dan deze stappen:">
 <!ENTITY rights.safebrowsing-term1 "Open de toepassingsvoorkeuren">
 <!ENTITY rights.safebrowsing-term2 "Selecteer het hoofd &security.label;-paneel">
 <!ENTITY rights.safebrowsing-term3 "Vink de opties ‘&blockAttackSites.label;’ en ‘&blockWebForgeries.label;’ uit">
-<!ENTITY rights.safebrowsing-term4 "Veilig surfen is nu uitgeschakeld">
+<!ENTITY rights.safebrowsing-term4 "Safe Browsing is nu uitgeschakeld">
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Locatiebewust navigeren: ">
@@ -73,7 +73,7 @@
 <!ENTITY rights.locationawarebrowsing-term4 "Locatiebewust navigeren is nu uitgeschakeld">
 
 <!-- points 0-6 text for branded builds -->
-<!ENTITY rights.webservices-term0 "&vendorShortName; en Mozilla samen met zijn medewerkers, licentiegevers en partners werken aan het verstrekken van de meest nauwkeurige en bijgewerkte Diensten. We kunnen echter niet garanderen dat deze informatie volledig en foutvrij is. De dienst Veilig surfen bijvoorbeeld identificeert mogelijk bepaalde riskante websites niet, en bepaalde veilige websites ten onrechte wel. Alle locaties die door de dienst Locatiebewust navigeren van onze serviceproviders worden verkregen, zijn enkel schattingen. Noch wij, noch de serviceproviders garanderen de nauwkeurigheid van de gegeven locaties.">
+<!ENTITY rights.webservices-term0 "&vendorShortName; en Mozilla samen met zijn medewerkers, licentiegevers en partners werken aan het verstrekken van de meest nauwkeurige en bijgewerkte Diensten. We kunnen echter niet garanderen dat deze informatie volledig en foutvrij is. De dienst Safe Browsing bijvoorbeeld identificeert mogelijk bepaalde riskante websites niet, en bepaalde veilige websites ten onrechte wel. Alle locaties die door de dienst Locatiebewust navigeren van onze serviceproviders worden verkregen, zijn enkel schattingen. Noch wij, noch de serviceproviders garanderen de nauwkeurigheid van de gegeven locaties.">
 <!ENTITY rights.webservices-term1 "&vendorShortName; kan de Diensten naar eigen goeddunken discontinueren of wijzigen.">
 <!ENTITY rights.webservices-term2 "U kunt deze Diensten gebruiken met de bijgeleverde versie van &brandShortName;, en u hebt alle benodigde rechten om dit te doen. &vendorShortName; en zijn licentiegevers behouden alle overige rechten in de Diensten. Deze voorwaarden zijn niet bedoeld om enige rechten die zijn verleend onder opensourcelicenties welke van toepassing zijn op &brandShortName; en overeenkomende broncodeversies van &brandShortName; te beperken.">
 <!ENTITY rights.webservices-term3 "De Diensten worden aangeboden zonder enige garantie. &vendorShortName;, zijn medewerkers, licentiegevers en distributeurs wijzen alle uitdrukkelijke of impliciete garanties af, met inbegrip van, maar niet beperkt tot garanties van verhandelbaarheid en geschiktheid van de Diensten voor een bepaald doel. U draagt de volledige verantwoordelijkheid wat betreft het selecteren van de Diensten voor uw doeleinden en wat betreft de kwaliteit en prestaties van de Diensten. Sommige wetgevingen staan uitsluitingen of beperkingen van impliciete garanties niet toe, dus mogelijk is deze disclaimer op u niet van toepassing.">
