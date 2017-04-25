@@ -188,7 +188,7 @@
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
-<!ENTITY options.commonPrefs.label           "ఉమ్మడి అభీష్టాలు">
+<!ENTITY options.commonPrefs.label           "ఉమ్మడి అభిరుచులు">
 
 <!-- LOCALIZATION NOTE (options.enablePersistentLogs.label): This is the
   -  label for the checkbox that toggles persistent logs in the Web Console and
@@ -207,7 +207,7 @@
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->
 
-<!ENTITY options.sourceeditor.label                     "సరికూర్పరి అభీష్టాలు">
+<!ENTITY options.sourceeditor.label                     "కూర్పరి అభిరుచులు">
 <!ENTITY options.sourceeditor.detectindentation.label   "ఇన్‌డెంటేషన్ గుర్తించు">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "సోర్స్ కాంటెంట్‌పై ఆధారపడి ఇండెంటేషన్ అంచనావేయి">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "బ్రాకెట్లు స్వయంచాలకంగామూయి">

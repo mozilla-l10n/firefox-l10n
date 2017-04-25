@@ -38,7 +38,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "మానిటర్">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "డెస్క్‌టాప్ అభీష్టాలు">
+<!ENTITY runtimeMenu_showDevicePrefs_label "పరికర అభిరుచులు">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "పరికరపు అమరికలు">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">

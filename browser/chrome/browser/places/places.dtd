@@ -90,7 +90,7 @@
 
 <!ENTITY cmd.find.key  "f">
 
-<!ENTITY maintenance.label      "దిగుమతి చేయి మరియు బ్యాక్అప్‌ చేయి">
+<!ENTITY maintenance.label      "దిగుమతి చేసి బ్యాకప్ చేయి">
 <!ENTITY maintenance.accesskey  "I">
 <!ENTITY maintenance.tooltip    "మీ ఇష్టాంశములను దిగుమతి చేసి మరియు బ్యాకప్ చేయండి">
 
