@@ -826,7 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "మీ తెర మీద కనిపించే అన్ని విండోలు పంచుకోబడతాయి.">
 
 <!ENTITY trackingProtection.title "ట్రాకింగ్ సంరక్షణ">
-<!ENTITY trackingProtection.detectedBlocked3 "ఈ పైజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
+<!ENTITY trackingProtection.detectedBlocked3 "ఈ పేజీలో మీ విహరణ జాడ తెలుసుకునే భాగాలను &brandShortName; నిరోధిస్తోంది.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ఈ సైటులో మీ విహరణ జాడ తెలుసుకొనే ఎలిమెంట్లు ఉన్నాయి. మీరు రక్షణను అచేతనించారు.">
 <!ENTITY trackingProtection.notDetected3 "ఈ పేజీలో జాడ తెలుసుకొనే ఎలిమెంట్లు ఏమీ కనబడలేదు.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):

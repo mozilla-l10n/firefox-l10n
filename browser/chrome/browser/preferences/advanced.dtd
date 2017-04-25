@@ -19,9 +19,9 @@
 
 <!ENTITY browsing.label                  "బ్రౌజింగ్">
 
-<!ENTITY useAutoScroll.label             "స్వయంచాలక స్క్రోలింగ్ ఉపయోగించు">
+<!ENTITY useAutoScroll.label             "స్వయంచాలక స్క్రోలింగ్ వాడు">
 <!ENTITY useAutoScroll.accesskey         "a">
-<!ENTITY useSmoothScrolling.label        "సున్నిత స్క్రోలింగ్ ఉపయోగించు">
+<!ENTITY useSmoothScrolling.label        "సాఫీ స్క్రోలింగ్ వాడు">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">

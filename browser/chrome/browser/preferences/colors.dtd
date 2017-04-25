@@ -18,7 +18,7 @@
 <!ENTITY  textColor.accesskey             "T">
 <!ENTITY  backgroundColor.label           "బ్యాక్‌గ్రౌండ్:">
 <!ENTITY  backgroundColor.accesskey       "B">
-<!ENTITY  useSystemColors.label           "సిస్టము రంగులను ఉపయోగించండి">
+<!ENTITY  useSystemColors.label           "సిస్టము రంగులను వాడు">
 <!ENTITY  useSystemColors.accesskey       "s">
 
 <!ENTITY  underlineLinks.label            "లింక్‌ల‌కు కిందిగీత">
