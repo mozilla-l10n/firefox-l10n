@@ -135,6 +135,6 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsFailureLogTitle "Protokol chyb">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-<!ENTITY aboutSupport.graphicsDecisionLogTitle "Decision Log">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Protokol rozhodování">
 <!ENTITY aboutSupport.graphicsCrashGuardsTitle "Zakázat funkce Crash Guard">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Možná řešení">
