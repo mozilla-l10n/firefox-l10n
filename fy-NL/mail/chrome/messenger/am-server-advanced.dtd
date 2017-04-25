@@ -3,29 +3,32 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Avansearre accountynstellingen">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
-<!ENTITY serverDirectory.accesskey "m">
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP-servermap">
-<!ENTITY usingSubscription.accesskey "t">
+<!ENTITY serverDirectory.accesskey "m">
 <!ENTITY usingSubscription.label "Allinnich oanmelde mappen toane">
-<!ENTITY dualUseFolders.accesskey "a">
+<!ENTITY usingSubscription.accesskey "t">
 <!ENTITY dualUseFolders.label "Server stipet mappen mei submappen en berjochten">
-<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY dualUseFolders.accesskey "a">
 <!ENTITY maximumConnectionsNumber.label "Maksimum tal serverferbiningen yn de buffer">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!ENTITY maximumConnectionsNumber.accesskey "M">
+<!ENTITY forceSelect.label "IMAP select nei server stjoere by it kontrolearjen op nije e-mail">
+<!ENTITY forceSelect.tooltip "Guon servers hawwe in ekstra IMAP select-opdracht nedich om nije e-mail betrouber te ûntfangen, of as lêzen te toanen neidat it op in oar apparaat lêzen is. It selektearjen fan dizze opsje sil ekstra netwurkferkear generearje.">
+<!ENTITY forceSelect.accesskey "I">
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Dizze ynstellingen omskriuwe de namespaces op jo IMAP-server">
-<!ENTITY personalNamespace.accesskey "e">
 <!ENTITY personalNamespace.label "Persoanlike namespace:">
-<!ENTITY publicNamespace.accesskey "u">
+<!ENTITY personalNamespace.accesskey "e">
 <!ENTITY publicNamespace.label "Publyklik (dield):">
-<!ENTITY otherUsersNamespace.accesskey "b">
+<!ENTITY publicNamespace.accesskey "u">
 <!ENTITY otherUsersNamespace.label "Oare brûkers:">
-<!ENTITY overrideNamespaces.accesskey "T">
+<!ENTITY otherUsersNamespace.accesskey "b">
 <!ENTITY overrideNamespaces.label "Server tastean om dizze namespaces te negearjen">
-<!ENTITY pop3DeferringDesc.label "By it downloaden fan e-mail fan dizze POP3-server, de folgjende map foar nije e-mail brûke:">
+<!ENTITY overrideNamespaces.accesskey "T">
+<!ENTITY pop3DeferringDesc.label "By it downloaden fan e-mail fan dizze POP3-server, de folgjende map foar nije e-mail brûke:" >
 <!ENTITY accountInbox.label "Postfek YN fan dizze account">
 <!ENTITY accountInbox.accesskey "P">
-<!ENTITY deferToServer.accesskey "r">
 <!ENTITY deferToServer.label "Postfek YN fan in oar account">
-<!ENTITY deferGetNewMail.accesskey "b">
+<!ENTITY deferToServer.accesskey "r">
 <!ENTITY deferGetNewMail.label "Dizze server by it opheljen fan nije berjochten belûke">
+<!ENTITY deferGetNewMail.accesskey "b">
