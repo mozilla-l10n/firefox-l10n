@@ -18,7 +18,7 @@
 <!ENTITY  blockDownloads.accesskey        "s">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Upozornit na nežádoucí a neobvyklý software">
-<!ENTITY  blockUncommonAndUnwanted.accesskey "r">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Výjimky…">
 <!ENTITY  addonExceptions.accesskey     "k">
