@@ -87,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; itens">
 <!ENTITY bookmark_folder_one_item "1 item">
+<!ENTITY bookmark_parent_folder "Pasta pai">
 
 <!ENTITY reader_saved_offline "Salvo off-line">
 <!-- Localization note (reader_switch_to_bookmarks) : This
