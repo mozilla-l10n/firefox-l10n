@@ -82,7 +82,7 @@
 <!ENTITY cmd.findUpdates.accesskey            "F">
 <!ENTITY cmd.preferencesWin.label             "ఎంపికలు">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
-<!ENTITY cmd.preferencesUnix.label            "అభీష్టాలు">
+<!ENTITY cmd.preferencesUnix.label            "అభిరుచులు">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "గురించి">
 <!ENTITY cmd.about.accesskey                  "A">
@@ -108,7 +108,7 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "R">
 <!ENTITY cmd.showPreferencesWin.label         "ఎంపికలు">
 <!ENTITY cmd.showPreferencesWin.tooltip       "ఈ పొడిగింత యొక్క ఎంపికలను మార్చు">
-<!ENTITY cmd.showPreferencesUnix.label        "అభీష్టాలు">
+<!ENTITY cmd.showPreferencesUnix.label        "అభిరుచులు">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు">
 <!ENTITY cmd.contribute.label                 "తోడ్పడండి">
 <!ENTITY cmd.contribute.accesskey             "C">
@@ -153,7 +153,7 @@
 <!ENTITY detail.showPreferencesWin.label      "ఎంపికలు">
 <!ENTITY detail.showPreferencesWin.accesskey  "O">
 <!ENTITY detail.showPreferencesWin.tooltip    "ఈ పొడిగింత యొక్క ఎంపికలను మార్చు">
-<!ENTITY detail.showPreferencesUnix.label     "అభీష్టాలు">
+<!ENTITY detail.showPreferencesUnix.label     "అభిరుచులు">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
 <!ENTITY detail.showPreferencesUnix.tooltip   "ఈ పొడిగింత యొక్క అభీష్టాలను మార్చు">
 

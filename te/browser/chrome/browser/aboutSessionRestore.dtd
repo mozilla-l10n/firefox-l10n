@@ -18,7 +18,7 @@
 <!ENTITY restorepage.close.access   "C">
 
 <!ENTITY restorepage.restoreHeader  "పునరుద్ధరించు">
-<!ENTITY restorepage.listHeader     "విండోలు మరియు టాబులు">
+<!ENTITY restorepage.listHeader     "విండోలూ ట్యాబులూ">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
 <!ENTITY restorepage.windowLabel    "విండో &#037;S">
 

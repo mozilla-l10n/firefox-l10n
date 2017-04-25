@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "విజార్డు దిగుమతిచేయి">
 
 <!ENTITY importFrom.label               "ఎంపికలు, బుక్మార్క్లు, చరిత్ర, పాస్వర్డ్లు మరియు ఇతర డేటాను దిగుమతి చేయండి:">
-<!ENTITY importFromUnix.label           "అభీష్టాలు, ఇష్టాంశములు, చరిత్ర, సంకేతపదాలు మరియు ఇతర డాటాను దిగుమతి చేయి:">
+<!ENTITY importFromUnix.label           "అభిరుచులను, ఇష్టాంశాలను, చరిత్రను, సంకేతపదాలను, ఇతర డాటాను దిగుమతి చేయి:">
 <!ENTITY importFromBookmarks.label      "ఇష్టాంశములను నుండి దిగుమతిచేయి:">
 
 <!ENTITY importFromIE.label             "మైక్రోసాఫ్ట్ ఇంటర్నెట్‌ ఎక్స్‌ప్లోరర్">

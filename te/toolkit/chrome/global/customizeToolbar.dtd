@@ -6,7 +6,7 @@
 <!ENTITY dialog.dimensions        "width: 92ch; height: 36em;">
 <!ENTITY instructions.description "మీరు లాగుటద్వారా సాధనపట్టీకి అంశములను జతచేయవచ్చు తీసివేయవచ్చు.">
 <!ENTITY show.label               "చూపు:">
-<!ENTITY iconsAndText.label       "చిహ్నాలు మరియు పాఠ్యము">
+<!ENTITY iconsAndText.label       "ప్రతీకాలూ పాఠ్యమూ">
 <!ENTITY icons.label              "చిహ్నాలు">
 <!ENTITY text.label               "పాఠ్యము">
 <!ENTITY useSmallIcons.label      "చిన్న చిహ్నాలను వాడండి">
