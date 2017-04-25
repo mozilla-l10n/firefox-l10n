@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Bokmärket borttaget">
 <!ENTITY bookmark_updated "Uppdaterat bokmärke">
 <!ENTITY bookmark_options "Alternativ">
+<!ENTITY bookmark_save "Spara">
 <!ENTITY screenshot_added_to_bookmarks "Skärmdump tillagd i bokmärken">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; flikar">
 <!ENTITY bookmark_folder_one_item "1 objekt">
+<!ENTITY bookmark_parent_folder "Överordnad mapp">
 
 <!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
