@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "เอาที่คั่นหน้าออกแล้ว">
 <!ENTITY bookmark_updated "อัปเดตที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
+<!ENTITY bookmark_save "บันทึก">
 <!ENTITY screenshot_added_to_bookmarks "เพิ่มภาพหน้าจอไปยังที่คั่นหน้าแล้ว">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; รายการ">
 <!ENTITY bookmark_folder_one_item "1 รายการ">
+<!ENTITY bookmark_parent_folder "โฟลเดอร์หลัก">
 
 <!ENTITY reader_saved_offline "บันทึกไว้ออฟไลน์">
 <!-- Localization note (reader_switch_to_bookmarks) : This
