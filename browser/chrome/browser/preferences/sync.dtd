@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nama Perangkat">
+<!ENTITY changeSyncDeviceName1.label "Ubah Nama Perangkat">
+<!ENTITY changeSyncDeviceName1.accesskey "U">
 <!ENTITY cancelChangeSyncDeviceName.label "Batal">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "B">
 <!ENTITY saveChangeSyncDeviceName.label "Simpan">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ubah gambar profil">
 <!ENTITY verifiedManage.label        "Kelola Akun">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.label           "Putuskan">
+<!ENTITY disconnect2.accesskey       "P">
 <!ENTITY verify.label                "Verifikasikan Email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Lupakan Email Ini">
@@ -63,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Masuk">
 <!ENTITY signedOut.accountBox.signin.accesskey  "M">
 
+<!ENTITY signedIn.settings.label       "Pengaturan Sinkronisasi">
+<!ENTITY signedIn.settings.description "Pilih apa saja yang akan disinkronkan pada perangkat Anda yang menggunakan &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
