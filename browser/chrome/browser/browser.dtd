@@ -917,3 +917,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descargue una copia nueva de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Después de un reinicio rápido, &brandShorterName; restaurará todas sus pestañas y ventanas abiertas.">
+<!ENTITY updateRestart.header.message "Reincie &brandShorterName; para aplicar la actualización.">
+<!ENTITY updateRestart.acceptButton.label "Reinicia y restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ahora no">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Reinicie &brandShorterName; para aplicar la actualización">
