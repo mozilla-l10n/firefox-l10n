@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "ఇష్టాంశం తొలగించబడింది">
 <!ENTITY bookmark_updated "ఇష్టాంశం తాజాకరించబడింది">
 <!ENTITY bookmark_options "ఎంపికలు">
+<!ENTITY bookmark_save "భద్రపరచు">
 <!ENTITY screenshot_added_to_bookmarks "స్క్రీన్షాట్ బుక్మార్క్లకు జోడించబడింది">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; అంశాలు">
 <!ENTITY bookmark_folder_one_item "1 అంశం">
+<!ENTITY bookmark_parent_folder "మాతృ సంచయం">
 
 <!ENTITY reader_saved_offline "ఆఫ్లైన్లో సేవ్ చేయబడింది">
 <!-- Localization note (reader_switch_to_bookmarks) : This
