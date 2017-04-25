@@ -10,3 +10,4 @@
 <!ENTITY     removeSelected.label          "เอาที่เลือกออก">
 <!ENTITY     save.label                    "บันทึกการเปลี่ยนแปลง">
 <!ENTITY     cancel.label                  "ยกเลิก">
+<!ENTITY     removingDialog.title          "เอาข้อมูลไซต์ออก">
