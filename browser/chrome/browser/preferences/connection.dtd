@@ -19,7 +19,7 @@
 <!ENTITY  autoTypeRadio.label           "URL pro automatickou konfiguraci proxy serverů:">
 <!ENTITY  autoTypeRadio.accesskey       "m">
 <!ENTITY  reload.label                  "Obnovit">
-<!ENTITY  reload.accesskey              "Z">
+<!ENTITY  reload.accesskey              "i">
 <!ENTITY  ftp.label                     "FTP proxy:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP proxy:">
@@ -45,5 +45,5 @@
 <!ENTITY  shareproxy.label              "Pro všechny protokoly používat tento proxy server">
 <!ENTITY  shareproxy.accesskey          "e">
 <!ENTITY  autologinproxy.label          "Nedotazovat se na autentizaci, pokud je heslo uloženo">
-<!ENTITY  autologinproxy.accesskey      "d">
+<!ENTITY  autologinproxy.accesskey      "e">
 <!ENTITY  autologinproxy.tooltip        "Tato volba zajistí provedení tiché autentizace k proxy, pokud pro ni máte uloženy přihlašovací údaje. Pokud autentizace selže, budete na ně dotázání.">
