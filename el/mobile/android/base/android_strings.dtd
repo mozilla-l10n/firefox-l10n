@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Ο σελιδοδείκτης διεγράφη">
 <!ENTITY bookmark_updated "Ο σελιδοδείκτης ενημερώθηκε">
 <!ENTITY bookmark_options "Επιλογές">
+<!ENTITY bookmark_save "Αποθήκευση">
 <!ENTITY screenshot_added_to_bookmarks "Το στιγμιότυπο οθόνης προστέθηκε στους σελιδοδείκτες">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; στοιχεία">
 <!ENTITY bookmark_folder_one_item "1 στοιχείο">
+<!ENTITY bookmark_parent_folder "Γονικός φάκελος">
 
 <!ENTITY reader_saved_offline "Αποθηκευμένα για χρήση χωρίς σύνδεση">
 <!-- Localization note (reader_switch_to_bookmarks) : This
