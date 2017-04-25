@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Yer imi silindi">
 <!ENTITY bookmark_updated "Yer imi güncellendi">
 <!ENTITY bookmark_options "Seçenekler">
+<!ENTITY bookmark_save "Kaydet">
 <!ENTITY screenshot_added_to_bookmarks "Ekran görüntüsü yer imlerine eklendi">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; öğe">
 <!ENTITY bookmark_folder_one_item "1 öğe">
+<!ENTITY bookmark_parent_folder "Üst dizin">
 
 <!ENTITY reader_saved_offline "Çevrimdışı kaydedildi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
