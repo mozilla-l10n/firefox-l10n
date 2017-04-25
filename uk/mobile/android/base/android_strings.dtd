@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Закладку вилучено">
 <!ENTITY bookmark_updated "Закладку оновлено">
 <!ENTITY bookmark_options "Налаштування">
+<!ENTITY bookmark_save "Зберегти">
 <!ENTITY screenshot_added_to_bookmarks "Знімок екрану додано до закладок">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; елементів">
 <!ENTITY bookmark_folder_one_item "1 елемент">
+<!ENTITY bookmark_parent_folder "Основна тека">
 
 <!ENTITY reader_saved_offline "Збережено автономно">
 <!-- Localization note (reader_switch_to_bookmarks) : This
