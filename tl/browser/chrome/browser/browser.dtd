@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "D">
 <!ENTITY  moveToNewWindow.label              "Pumunta sa Bagong Window">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "I-bookmark ang Lahat ng mga Tab…">
+<!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 
 
