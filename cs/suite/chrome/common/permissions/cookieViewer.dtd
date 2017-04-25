@@ -42,5 +42,5 @@
 <!ENTITY     removeallpermissions.label     "Odebrat všechny servery">
 <!ENTITY     removeallpermissions.accesskey "d">
 
-<!ENTITY     futureCookies.label            "Zakázat stránkám znovu nastavit odebrané cookie">
+<!ENTITY     futureCookies.label            "Zakázat serverům znovu nastavovat dříve odebrané cookies">
 <!ENTITY     futureCookies.accesskey        "Z">
