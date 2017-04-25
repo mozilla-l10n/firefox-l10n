@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ట్రాకింగ్ సంరక్షణ">
 <!ENTITY  trackingProtectionAlways.label       "ఎల్లప్పుడూ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "కేవలం ఆంతరంగిక విండోలో మాత్రమే">
