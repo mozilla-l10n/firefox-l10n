@@ -139,6 +139,8 @@
 
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+<!ENTITY options.sourceMaps.label      "הפעלת מפות מקור">
+<!ENTITY options.sourceMaps.tooltip    "הפעלת אפשרות זו תגרום לכך שהמקורות ימופו במנפה השגיאות ובמסוף.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -166,6 +168,7 @@
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
+<!ENTITY options.screenshot.audio.label      "השמעת צליל צמצם המצלמה">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
