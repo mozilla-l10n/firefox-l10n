@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Favorito removido">
 <!ENTITY bookmark_updated "Favorito atualizado">
 <!ENTITY bookmark_options "Opções">
+<!ENTITY bookmark_save "Salvar">
 <!ENTITY screenshot_added_to_bookmarks "Screenshot adicionado aos favoritos">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
