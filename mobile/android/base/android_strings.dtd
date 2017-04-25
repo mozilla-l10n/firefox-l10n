@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Zaznamek odstranjen">
 <!ENTITY bookmark_updated "Zaznamek posodobljen">
 <!ENTITY bookmark_options "Možnosti">
+<!ENTITY bookmark_save "Shrani">
 <!ENTITY screenshot_added_to_bookmarks "Posnetek zaslona dodan med zaznamke">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "Število predmetov: &formatD;">
 <!ENTITY bookmark_folder_one_item "1 predmet">
+<!ENTITY bookmark_parent_folder "Nadrejena mapa">
 
 <!ENTITY reader_saved_offline "Shranjeno za delo brez povezave">
 <!-- Localization note (reader_switch_to_bookmarks) : This
