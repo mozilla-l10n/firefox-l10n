@@ -6,13 +6,20 @@
 <!ENTITY accounts.title                      "Kontoj - &brandShortName;">
 <!ENTITY accountManager.width                "450">
 <!-- Instant messaging account status window for Thunderbird -->
+<!ENTITY accountsWindow.title                "Stato de tujmesaĝado">
+<!ENTITY accountsWindow2.style               "width: 41em; height: 27em;">
 
 <!ENTITY accountManager.newAccount.label     "Nova konto">
 <!ENTITY accountManager.newAccount.accesskey "N">
 <!ENTITY accountManager.close.label          "Fermi">
 <!ENTITY accountManager.close.accesskey      "f">
 <!-- This should match account.commandkey in instantbird.dtd -->
+<!ENTITY accountManager.close.commandkey     "a">
 <!-- This title must be short, displayed with a big font size -->
+<!ENTITY accountManager.noAccount.title      "Neniu konto agordita">
+<!ENTITY accountManager.noAccount.description "Alklaku la butonon &accountManager.newAccount.label; por permesi al &brandShortName; gvidi vin tra la kreado de konto.">
+<!ENTITY account.autoSignOn.label     "Je starto, komenci seancon">
+<!ENTITY account.autoSignOn.accesskey "S">
 <!ENTITY account.connect.label        "Konekti">
 <!ENTITY account.connect.accesskey    "k">
 <!ENTITY account.disconnect.label     "Malkonekti">
@@ -25,3 +32,10 @@
 <!ENTITY account.movedown.label       "Movi malsupren">
 <!ENTITY account.cancelReconnection.label         "Nuligi rekonekton">
 <!ENTITY account.cancelReconnection.accesskey     "N">
+<!ENTITY account.copyDebugLog.label     "Kopii sencimigan registron">
+<!ENTITY account.copyDebugLog.accesskey "K">
+<!ENTITY account.showDebugLog.label     "Montri sencimigan registron">
+<!ENTITY account.showDebugLog.accesskey "M">
+<!ENTITY account.connecting           "Konekto…">
+<!ENTITY account.disconnecting        "Malkonekto…">
+<!ENTITY account.disconnected         "Ne konektita">
