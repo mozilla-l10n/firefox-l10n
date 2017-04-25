@@ -10,7 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "n">
 
 <!ENTITY showURLBarSuggestions.label           "Zobrazovat návrhy v našeptávání adresního řádku">
-<!ENTITY showURLBarSuggestions.accesskey       "l">
+<!ENTITY showURLBarSuggestions.accesskey       "e">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Návrhy hledání nebudou v našeptávání adresního řádku uvedeny, protože jste nastavili aplikaci &brandShortName;, aby si nikdy nepamatovala historii.">
 
 <!ENTITY oneClickSearchEngines.label           "Vyhledávání jedním klepnutím">
