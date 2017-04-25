@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "已移除書籤">
 <!ENTITY bookmark_updated "已更新書籤">
 <!ENTITY bookmark_options "選項">
+<!ENTITY bookmark_save "儲存">
 <!ENTITY screenshot_added_to_bookmarks "已將畫面擷圖加入書籤">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; 個項目">
 <!ENTITY bookmark_folder_one_item "1 個項目">
+<!ENTITY bookmark_parent_folder "上層資料夾">
 
 <!ENTITY reader_saved_offline "已儲存離線閱讀">
 <!-- Localization note (reader_switch_to_bookmarks) : This
