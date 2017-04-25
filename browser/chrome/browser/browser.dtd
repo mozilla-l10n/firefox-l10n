@@ -804,7 +804,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.introText "ఒక సేవను &brandShortName;కు చేర్చడానికి దానిపై నొక్కండి.">
 <!ENTITY social.directory.viewmore.text "ఇంకా చూడండి">
 
-<!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు మరియు సౌలభ్యాలు">
+<!ENTITY customizeMode.menuAndToolbars.header2 "అదనపు పనిముట్లు, సౌలభ్యాలు">
 <!ENTITY customizeMode.menuAndToolbars.empty "మరిన్ని పనిముట్లు కావాలా?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "వేలాది పొడగింతల నుండి ఎంచుకోండి">
 <!ENTITY customizeMode.restoreDefaults "అప్రమేయాలను పునరుద్ధరించు">
