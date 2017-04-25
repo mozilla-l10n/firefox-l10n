@@ -373,6 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Ingrese para ver una lista de pestañas de los otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Ingresar a Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administre dispositivos...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral de pestañas sincronizadas">
 
 <!ENTITY customizeMenu.addToToolbar.label "Agregar a barra de herramientas">
@@ -781,6 +782,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Abrir todo en pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "o">
+<!ENTITY syncedTabs.context.managedevices.label              "Administre dispositivos...">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +899,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Conocer más sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Para obtener lo último en velocidad y seguridad, actualice su &brandShorterName;.">
+<!ENTITY updateAvailable.whatsnew.label "Vea qué hay de nuevo.">
+<!ENTITY updateAvailable.header.message "Dispone de una nueva actualización para &brandShorterName;">
+<!ENTITY updateAvailable.acceptButton.label "Descargue la actualización">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ahora no">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Descargue la actualización de &brandShorterName;.">
 
+<!ENTITY updateManual.message "Descargue una copia nueva de &brandShorterName; y lo ayudaremos a instalarlo.">
+<!ENTITY updateManual.whatsnew.label "Vea qué hay de nuevo.">
+<!ENTITY updateManual.header.message "No se puede actualizar &brandShorterName; a la última versión.">
+<!ENTITY updateManual.acceptButton.label "Descargue &brandShorterName;.">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ahora no">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Descargue una copia nueva de &brandShorterName;">
 
