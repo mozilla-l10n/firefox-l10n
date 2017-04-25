@@ -20,10 +20,10 @@
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Paměť">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Databáze">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Ladění">
-<!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavit moduly žurnálu">
-<!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavit soubor žurnálu">
-<!ENTITY aboutUrlClassifier.debugJSLogChk               "Nastavit žurnál JS">
-<!ENTITY aboutUrlClassifier.debugSBModules              "Moduly žurnálu pro službu Safe Browsing">
-<!ENTITY aboutUrlClassifier.debugModules                "Současné moduly žurnálu">
-<!ENTITY aboutUrlClassifier.debugSBJSModules            "Žurnál JS pro službu Safe Browsing">
-<!ENTITY aboutUrlClassifier.debugFile                   "Současný soubor žurnálu">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavit moduly protokolu">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavit soubor protokolu">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Nastavit protokol JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Moduly protokolu pro službu Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules                "Současné moduly protokolu">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Protokol JS pro službu Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugFile                   "Současný soubor protokolu">

@@ -194,7 +194,7 @@
   -  label for the checkbox that toggles persistent logs in the Web Console and
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
-<!ENTITY options.enablePersistentLogs.label    "Povolit trvalé logování">
+<!ENTITY options.enablePersistentLogs.label    "Povolit ukládání protokolu natrvalo">
 <!ENTITY options.enablePersistentLogs.tooltip  "Pokud povolíte tuto volbu, nebude Webová konzole promazávána pokaždé, když se rozhodnete navštívit novou stránku">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
