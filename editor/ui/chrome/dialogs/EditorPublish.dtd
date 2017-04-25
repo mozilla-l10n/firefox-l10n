@@ -47,7 +47,7 @@
 <!ENTITY loginInfo.label              "Інформація для входу">
 <!ENTITY siteName.label               "Ім’я сайту:">
 <!ENTITY siteName.accesskey           "І">
-<!ENTITY siteName.tooltip             "Нік, що ідентифікує опубліковуваний сайт (напр., 'MySite')">
+<!ENTITY siteName.tooltip             "Псевдонім, що ідентифікує опублікований сайт (напр., 'MySite')">
 <!ENTITY siteUrl.label                "Адреса публікації (напр., 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "А">
 <!ENTITY siteUrl.tooltip              "FTP:// або HTTP:// -адреса, вказана вашим провайдером або службою хостингу">

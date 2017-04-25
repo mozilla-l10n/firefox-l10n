@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Зображення для тла:">
 <!ENTITY backgroundImage.accessKey "З">
 <!ENTITY backgroundImage.tooltip "Використати файл зображення як тло для вашої сторінки">
+<!ENTITY backgroundImage.shortenedDataURI "Скорочений URI даних (копіювання помістить повний URI до буфера обміну)">
