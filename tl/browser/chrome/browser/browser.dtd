@@ -61,6 +61,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Magbukas ng file…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "p">
 <!ENTITY printCmd.commandkey "p">
@@ -72,6 +73,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
 
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Source code ng web page">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -200,6 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Bagong Window">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
+<!ENTITY newPrivateWindow.label     "Bagong Private Window">
 
  
  
@@ -502,7 +505,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      mutually exclusive -->
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Buksan ang Link sa Bagong Window">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "n">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buksan ang Link sa Bagong Private Window">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Buksan sa Bagong Private Window">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 
 
