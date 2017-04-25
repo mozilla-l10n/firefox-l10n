@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Vetërifreskohu çdo 3 sekonda">
 <!ENTITY aboutNetworking.hostname              "Strehëemër">
 <!ENTITY aboutNetworking.port                  "Portë">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiv">
 <!ENTITY aboutNetworking.idle                  "I plogësht">
