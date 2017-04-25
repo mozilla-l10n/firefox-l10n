@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Nisje">
 
+<!ENTITY startupPage2.label        "Kur niset &brandShortName;">
+<!ENTITY startupPage2.accesskey    "n">
 <!ENTITY startupUserHomePage.label "Shfaq kreun tim">
 <!ENTITY startupBlankPage.label    "Shfaq një faqe të zbrazët">
 <!ENTITY startupPrevSession.label  "Shfaq dritaret dhe skedat e mia të herës së fundit">
 
+<!ENTITY homepage2.label           "Faqe Hyrëse">
+<!ENTITY homepage2.accesskey       "H">
 <!ENTITY useCurrentPage.label      "Përdor Faqen e Tanishme">
 <!ENTITY useCurrentPage.accesskey  "T">
 <!ENTITY useMultiple.label         "Përdor Faqet e Tanishme">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Lejojeni &brandShortName;-in dhe Firefox-in të xhirojnë në të njëjtën kohë">
 <!ENTITY useFirefoxSync.label             "Ndihmëz: Kjo përdor profile ndaras. Për ndarje të dhënash mes tyre përdorni Sync-n.">
+<!ENTITY getStarted.notloggedin.label     "Hyni te &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Hap parapëlqimet mbi &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Aktivizo multiproces &brandShortName;-i">
