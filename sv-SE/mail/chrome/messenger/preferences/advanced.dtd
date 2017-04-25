@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Använd upp till">
 <!ENTITY useCacheBefore.accesskey        "A">
 <!ENTITY useCacheAfter.label             "MB utrymme för cachen">
+<!ENTITY overrideSmartCacheSize.label    "Åsidosätt automatisk cachehantering">
+<!ENTITY overrideSmartCacheSize.accesskey "s">
 <!ENTITY clearCacheNow.label             "Rensa nu">
 <!ENTITY clearCacheNow.accesskey         "R">
 
