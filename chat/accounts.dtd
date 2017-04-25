@@ -1,0 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Account manager window for Instantbird -->
+<!ENTITY accounts.title                      "Kontoj - &brandShortName;">
+<!ENTITY accountManager.width                "450">
+<!-- Instant messaging account status window for Thunderbird -->
+
+<!ENTITY accountManager.newAccount.label     "Nova konto">
+<!ENTITY accountManager.newAccount.accesskey "N">
+<!ENTITY accountManager.close.label          "Fermi">
+<!ENTITY accountManager.close.accesskey      "f">
+<!-- This should match account.commandkey in instantbird.dtd -->
+<!-- This title must be short, displayed with a big font size -->
+<!ENTITY account.connect.label        "Konekti">
+<!ENTITY account.connect.accesskey    "k">
+<!ENTITY account.disconnect.label     "Malkonekti">
+<!ENTITY account.disconnect.accesskey "M">
+<!ENTITY account.delete.label         "Forigi">
+<!ENTITY account.delete.accesskey     "F">
+<!ENTITY account.edit.label           "Atributoj">
+<!ENTITY account.edit.accesskey       "A">
+<!ENTITY account.moveup.label         "Movi supren">
+<!ENTITY account.movedown.label       "Movi malsupren">
+<!ENTITY account.cancelReconnection.label         "Nuligi rekonekton">
+<!ENTITY account.cancelReconnection.accesskey     "N">
