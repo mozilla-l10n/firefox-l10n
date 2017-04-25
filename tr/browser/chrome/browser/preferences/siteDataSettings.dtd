@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Site">
 <!ENTITY     statusCol.label               "Durum">
 <!ENTITY     usageCol.label                "Depolama">
+<!ENTITY     searchTextboxPlaceHolder             "Web sitelerinde ara">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "W">
 <!ENTITY     removeSelected.label          "Seçilenleri sil">
 <!ENTITY     removeSelected.accesskey      "S">
 <!ENTITY     save.label                    "Değişiklikleri kaydet">
