@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Шрифтове и цветове">
 
+<!ENTITY  defaultFont2.label          "Стандартен шрифт">
+<!ENTITY  defaultFont2.accesskey      "C">
+<!ENTITY  defaultSize2.label          "Големина">
+<!ENTITY  defaultSize2.accesskey      "Г">
 
 <!ENTITY  advancedFonts.label         "Разширени…">
 <!ENTITY  advancedFonts.accesskey     "Р">
