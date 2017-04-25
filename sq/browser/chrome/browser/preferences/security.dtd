@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Siguri">
 
 <!ENTITY  warnOnAddonInstall.label        "Sinjalizo kur sajte përpiqen të instalojnë shtesa">
 <!ENTITY  warnOnAddonInstall.accesskey    "S">
@@ -23,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "a">
 
 
+<!ENTITY  formsAndPasswords.label       "Formularë &amp; Fjalëkalime">
 
+<!ENTITY  rememberLogins1.label          "Mba mend kredenciale hyrjesh dhe fjalëkalime për sajtet">
+<!ENTITY  rememberLogins1.accesskey      "M">
 <!ENTITY  passwordExceptions.label      "Përjashtime…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
