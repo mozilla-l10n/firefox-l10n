@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "ب">
 <!ENTITY replaceField.label "استبدل ب‍:">
 <!ENTITY replaceField.accesskey "س">
-
-
+<!ENTITY caseSensitiveCheckbox.label "طابق حالة الحرف (كبير أم صغير)">
+<!ENTITY caseSensitiveCheckbox.accesskey "ط">
 <!ENTITY wrapCheckbox.label "لف حول">
 <!ENTITY wrapCheckbox.accesskey "ل">
 <!ENTITY backwardsCheckbox.label "ابحث للخلف">
@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "ب">
 <!ENTITY replaceAllButton.label "استبدل الكل">
 <!ENTITY replaceAllButton.accesskey "ك">
-
-
+<!ENTITY closeButton.label "أغلق">
+<!ENTITY closeButton.accesskey "غ">

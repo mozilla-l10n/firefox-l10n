@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "اجلب الرسائل">
 <!ENTITY folderContextGetMessages.accesskey "ج">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "ألبِث كل التحديثات">
+<!ENTITY folderContextPauseUpdates.label "ألبِث التحديثات">
+<!ENTITY folderContextPauseUpdates.accesskey "ت">
 <!ENTITY folderContextOpenInNewWindow.label "افتح في نافذه جديدة">
 <!ENTITY folderContextOpenInNewWindow.accesskey "ف">
 <!ENTITY folderContextOpenNewTab.label "افتح في لسان جديد">
