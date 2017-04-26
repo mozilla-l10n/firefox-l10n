@@ -17,7 +17,7 @@
 <!ENTITY deleteBookmarks.label        "Apagar todos os marcadores exceto para cópias de segurança">
 <!ENTITY deleteBookmarks.accesskey    "m">
 
-<!ENTITY resetUserPrefs.label         "Repor todas as preferências para as pré-definições do &brandShortName;">
+<!ENTITY resetUserPrefs.label         "Repor todas as preferências para as predefinições do &brandShortName;">
 <!ENTITY resetUserPrefs.accesskey     "p">
 
 <!ENTITY restoreSearch.label          "Restaurar motores de pesquisa predefinidos">

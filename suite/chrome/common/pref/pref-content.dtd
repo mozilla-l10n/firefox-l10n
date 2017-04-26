@@ -39,5 +39,5 @@
 
 <!ENTITY allowHWAccel.label                     "Se disponível, utilizar aceleração por hardware">
 <!ENTITY allowHWAccel.accesskey                 "e">
-<!ENTITY blockAutoRefresh.label                 "Avisar-me quando websites tentam redirecionar ou recarregar a página">
+<!ENTITY blockAutoRefresh.label                 "Avisar-me quando os websites tentarem redirecionar ou recarregar a página">
 <!ENTITY blockAutoRefresh.accesskey             "w">

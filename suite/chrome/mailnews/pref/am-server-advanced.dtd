@@ -12,9 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "p">
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações para a cache">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
-<!ENTITY forceSelect.label "Enviar select IMAP para o servidor ao procurar por novo correio">
+
 <!ENTITY forceSelect.tooltip "Alguns servidores necessitam de um select IMAP adicional para que novo correio seja recebido com segurança, ou é mostrado como lido depois de ser lido noutro dispositivo. Selecionar esta opção irá causar algum aumento do tráfego de rede.">
-<!ENTITY forceSelect.accesskey "p">
+
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "These preferences specify the namespaces on your IMAP server">
 <!ENTITY personalNamespace.label "Namespace pessoal:">
