@@ -75,8 +75,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY printCmd.accesskey "I">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "Modo off-line">
-<!ENTITY goOfflineCmd.accesskey "M">
+<!ENTITY goOfflineCmd.label "Trabalhar off-line">
+<!ENTITY goOfflineCmd.accesskey "o">
 
 <!ENTITY menubarCmd.label "Barra de menus">
 <!ENTITY menubarCmd.accesskey "m">

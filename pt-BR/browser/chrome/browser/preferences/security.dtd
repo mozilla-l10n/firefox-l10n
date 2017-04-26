@@ -27,6 +27,7 @@
 <!ENTITY  formsAndPasswords.label       "Formularios e Senhas">
 
 <!ENTITY  rememberLogins1.label          "Memorizar contas de acesso e senhas de sites">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Exceções…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
