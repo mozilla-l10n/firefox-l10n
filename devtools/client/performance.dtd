@@ -40,12 +40,17 @@
 <!ENTITY performanceUI.toolbar.waterfall "מפל">
 <!ENTITY performanceUI.toolbar.js-calltree "עץ קריאות">
 <!ENTITY performanceUI.toolbar.memory-calltree "הקצאות">
+<!ENTITY performanceUI.toolbar.allocations.tooltiptext "הצגת איפה הזיכרון הוקצה במהלך ההקלטה.">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "הצגת מחסנית הקריאות של JavaScript במהלך ההקלטה.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "זמן כולל">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "כמות הזמן שנוצלה לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
 <!ENTITY performanceUI.table.selfDuration             "זמן עצמי">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "כמות הזמן שנוצלה לטובת הפונקציה הזאת.">
 <!ENTITY performanceUI.table.totalPercentage          "עלות כוללת">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "אחוז הזמן שנוצלה לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
 <!ENTITY performanceUI.table.selfPercentage           "עלות עצמית">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "אחוז הזמן שנוצל לטובת הפונקציה הזו.">
 <!ENTITY performanceUI.table.samples                  "דגימות">
@@ -62,6 +67,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
+<!ENTITY performanceUI.invertTree             "היפוך עץ הקריאות">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->

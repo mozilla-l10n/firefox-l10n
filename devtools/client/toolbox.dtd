@@ -165,10 +165,12 @@
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 <!ENTITY options.screenshot.clipboard.label      "צילום מסך ללוח גזירים">
+<!ENTITY options.screenshot.clipboard.tooltip    "שמירת צילום המסך ישירות ללוח הגזירים">
 
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "השמעת צליל צמצם המצלמה">
+<!ENTITY options.screenshot.audio.tooltip    "הפעלת צליל המצלמה בעת צילום המסך">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
