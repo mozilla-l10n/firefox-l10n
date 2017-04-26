@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Oant">
 <!ENTITY useCacheBefore.accesskey        "O">
 <!ENTITY useCacheAfter.label             "MB skiifromte brûke foar de buffer">
+<!ENTITY overrideSmartCacheSize.label    "Automatysk bufferbehear net brûke">
+<!ENTITY overrideSmartCacheSize.accesskey "r">
 <!ENTITY clearCacheNow.label             "No wiskje">
 <!ENTITY clearCacheNow.accesskey         "N">
 
