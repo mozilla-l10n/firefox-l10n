@@ -13,7 +13,7 @@
 <!ENTITY maximumConnectionsNumber.label "Uchafswm cysylltiadau gweinydd i'r storfa">
 <!ENTITY maximumConnectionsNumber.accesskey "U">
 
-
+<!ENTITY forceSelect.tooltip "Mae rhai gweinyddion angen dewis IMAP ychwanegol fel bod e-bost yn cael ei dderbyn yn gyson, neu yn cael ei ddangos wedi ei ddarllen ar ddyfais arall. Bydd gwneud y dewis hwn yn achosi rhywfaint o gynnydd mewn traffig rhwydwaith.">
 
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Mae'r dewisiadau yn pennu bwlchenw ar eich gweinydd IMAP">

@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Estyn Negeseuon">
 <!ENTITY folderContextGetMessages.accesskey "s">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Oedi Pob Diweddariad">
+<!ENTITY folderContextPauseUpdates.label "Oedi Diweddariadau">
+<!ENTITY folderContextPauseUpdates.accesskey "D">
 <!ENTITY folderContextOpenInNewWindow.label "Agor mewn Ffenestr Newydd">
 <!ENTITY folderContextOpenInNewWindow.accesskey "N">
 <!ENTITY folderContextOpenNewTab.label "Agor mewn Tab Newydd">
