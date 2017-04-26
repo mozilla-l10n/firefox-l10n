@@ -24,7 +24,7 @@
 <!ENTITY fontColor.accesskey                  "t">
 <!ENTITY bgColor.label                        "Cor de fundo:">
 <!ENTITY bgColor.accesskey                    "f">
-<!ENTITY restoreHTMLDefaults.label            "Restaurar pré-definição">
+<!ENTITY restoreHTMLDefaults.label            "Restaurar predefinições">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 <!ENTITY defaultToParagraph.label             "Utilizar como predefinição o formato Parágrafo em vez de Corpo de texto">
 <!ENTITY defaultToParagraph.accesskey         "P">
@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Nenhum">
 <!ENTITY editDirectories.label                 "Editar diretórios...">
 <!ENTITY editDirectories.accesskey             "E">
-
-
-
+<!ENTITY showAsDefault.label                   "Diretório de arranque predefinido na janela do livro de endereços:">
+<!ENTITY showAsDefault.accesskey               "a">
+<!ENTITY showAsDefaultLast.label               "Último diretório utilizado">
 
 <!ENTITY sendOptionsDescription.label          "Configurar comportamento do formato de texto.">
 <!ENTITY sendOptions.label                     "Opções de envio...">

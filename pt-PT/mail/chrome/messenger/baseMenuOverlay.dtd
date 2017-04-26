@@ -13,8 +13,8 @@
 <!ENTITY helpTroubleshootingInfo.accesskey "I">
 <!ENTITY helpSafeMode.label     "Reiniciar com os extras desativados…">
 <!ENTITY helpSafeMode.accesskey "R">
-<!ENTITY releaseCmd2.label "Notas da versão">
-<!ENTITY releaseCmd2.accesskey "v">
+<!ENTITY releaseCmd2.label "Notas de lançamento">
+<!ENTITY releaseCmd2.accesskey "N">
 <!ENTITY whatsNewCmd.label "Novidades">
 <!ENTITY whatsNewCmd.accesskey "N">
 <!ENTITY openHelp.label "Tópicos de ajuda">

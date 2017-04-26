@@ -12,10 +12,11 @@
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Nick da lista: ">
 <!ENTITY ListNickName.accesskey         "N">
-
-
+<!ENTITY ListDescription.label          "Descrição: ">
+<!ENTITY ListDescription.accesskey      "D">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Digite os endereços de email para os adicionar à lista de correio:">
+<!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Mover para cima">
 <!ENTITY DownButton.label               "Mover para baixo">
 

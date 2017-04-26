@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Imagem de fundo:">
 <!ENTITY backgroundImage.accessKey "m">
 <!ENTITY backgroundImage.tooltip "Utilizar ficheiro de imagem como fundo para esta página">
-
+<!ENTITY backgroundImage.shortenedDataURI "Dados URI reduzidos (ao copiar, colocará o URI completo na área de transferência)">

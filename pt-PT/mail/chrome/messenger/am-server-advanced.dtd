@@ -13,7 +13,7 @@
 <!ENTITY maximumConnectionsNumber.label "Número máximo de ligações ao servidor para colocar em cache">
 <!ENTITY maximumConnectionsNumber.accesskey "x">
 
-
+<!ENTITY forceSelect.tooltip "Alguns servidores necessitam de um select IMAP adicional para que novo correio seja recebido com segurança, ou é mostrado como lido depois de ser lido noutro dispositivo. Selecionar esta opção irá causar algum aumento do tráfego de rede.">
 
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "As preferências que especificam os 'namespaces' do seu servidor IMAP">

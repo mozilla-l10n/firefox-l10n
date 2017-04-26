@@ -8,7 +8,7 @@
 <!ENTITY itemAntiVirus.label     "Antivírus">
 <!-- Junk Mail Controls -->
 
-<!ENTITY junkMail.intro "Configure as pré-definições para o lixo eletrónico. As definições específicas de lixo eletrónico podem ser efetuadas nas definições da conta.">
+<!ENTITY junkMail.intro "Configure as predefinições para o lixo eletrónico. As definições específicas de lixo eletrónico podem ser efetuadas nas definições da conta.">
 <!ENTITY manualMark.label "Ao marcar uma mensagem como lixo eletrónico:">
 <!ENTITY manualMark.accesskey "A">
 <!ENTITY manualMarkModeMove.label "Mover para a pasta &quot;Lixo eletrónico&quot;">
