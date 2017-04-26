@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Título:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL da fonte:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Para adicionar uma fonte, introduza um URL válido">
 <!ENTITY locationValidate.label      "Validar">
 <!ENTITY validateText.label          "Verificar a validação e obter um url válido.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "G">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Procurar novos artigos a cada ">
+<!ENTITY biffStart.accesskey         "P">
+<!ENTITY biffMinutes.label           "minutos">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dias">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "O publicador recomenda:">
 
 <!ENTITY quickMode.label             "Mostrar resumo do artigo em vez de carregar a página web">
 <!ENTITY quickMode.accesskey         "M">
 
-
+<!ENTITY autotagEnable.label         "Criar etiquetas automaticamente de nomes de &lt;categorias&gt; da fonte">
+<!ENTITY autotagEnable.accesskey     "c">
 <!ENTITY autotagUsePrefix.label      "Prefixar etiquetas com:">
 <!ENTITY autotagUsePrefix.accesskey  "P">
 <!ENTITY autoTagPrefix.placeholder   "Introduza um prefixo de etiqueta">

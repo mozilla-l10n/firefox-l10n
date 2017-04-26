@@ -7,7 +7,7 @@
 <!ENTITY enableStartPage.accesskey        "A">
 <!ENTITY location.label                   "Localização:">
 <!ENTITY location1.accesskey               "o">
-<!ENTITY useDefault.label                 "Restaurar predefinições">
+<!ENTITY useDefault.label                 "Restaurar predefinição">
 <!ENTITY useDefault.accesskey             "R">
 
 <!ENTITY changeDockIconOptions.label      "Mudar preferências do ícone da aplicação">

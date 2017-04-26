@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Utilizar até">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espaço para cache">
+
+
 <!ENTITY clearCacheNow.label             "Limpar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 <!-- Certificates -->
