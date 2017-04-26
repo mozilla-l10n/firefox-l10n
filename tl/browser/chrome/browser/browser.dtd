@@ -69,6 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Gumawa kahit walang Internet">
 <!ENTITY goOfflineCmd.accesskey "G">
 
+<!ENTITY menubarCmd.label "Menu Bar">
 <!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
@@ -205,19 +206,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 
  
- 
+<!ENTITY editMenu.accesskey       "E"> 
   
 <!ENTITY undoCmd.key            "Z">  
- 
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "Ulitin">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "U"> 
   
 <!ENTITY cutCmd.key             "X">  
- 
+<!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Kopyahin">  
 <!ENTITY copyCmd.key            "C">  
- 
+<!ENTITY copyCmd.accesskey          "C"> 
   
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
@@ -239,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.accesskey       "T"> 
 <!ENTITY viewToolbarsMenu.label       "Mga Toolbars"> 
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
+<!ENTITY viewSidebarMenu.label "Sidebar">
 <!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 
@@ -261,11 +263,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.accesskey             "d">
@@ -377,6 +386,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailAudioCmd.accesskey      "a">
+<!ENTITY playPluginCmd.accesskey      "c">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
 <!ENTITY copyImageCmd.accesskey       "o">
  

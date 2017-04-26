@@ -20,6 +20,7 @@
 <!ENTITY restorepage.restoreHeader  "Ibalik">
 <!ENTITY restorepage.listHeader     "Mga Window at mga tab">
 <!-- LOCALIZATION NOTE: &#37;S will be replaced with a number. -->
+<!ENTITY restorepage.windowLabel    "Window &#37;S">
 
 
 <!-- LOCALIZATION NOTE: The following 'welcomeback2' strings are for about:welcomeback,
