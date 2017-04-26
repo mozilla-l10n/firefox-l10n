@@ -23,6 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; విశేషాలు">
 <!ENTITY aboutSupport.featureName "పేరు">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "ప్రయోగాత్మక సౌలభ్యాలు">
 <!ENTITY aboutSupport.experimentName "పేరు">
