@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "r">
 <!ENTITY replaceField.label "Ionadaigh le:">
 <!ENTITY replaceField.accesskey "e">
-
-
+<!ENTITY caseSensitiveCheckbox.label "Meaitseáil an cás go beacht">
+<!ENTITY caseSensitiveCheckbox.accesskey "M">
 <!ENTITY wrapCheckbox.label "Timfhill">
 <!ENTITY wrapCheckbox.accesskey "T">
 <!ENTITY backwardsCheckbox.label "Cuardaigh ar gcúl">
@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Ionadaigh Uile">
 <!ENTITY replaceAllButton.accesskey "a">
-
-
+<!ENTITY closeButton.label "Dún">
+<!ENTITY closeButton.accesskey "D">

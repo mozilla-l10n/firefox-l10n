@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Teideal:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL an fhotha:">
+<!ENTITY feedLocation.accesskey      "f">
 <!ENTITY feedLocation.placeholder    "Cuir URL bailí d'fhotha isteach">
 <!ENTITY locationValidate.label      "Bailíochtaigh">
 <!ENTITY validateText.label          "Bailíochtaigh agus faigh URL bailí.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "S">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Lorg altanna nua gach ">
+<!ENTITY biffStart.accesskey         "L">
+<!ENTITY biffMinutes.label           "nóiméad">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "lá">
+<!ENTITY biffDays.accesskey          "l">
+<!ENTITY recommendedUnits.label      "Molann an foilsitheoir:">
 
 <!ENTITY quickMode.label             "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
 <!ENTITY quickMode.accesskey         "h">
 
-
+<!ENTITY autotagEnable.label         "Cruthaigh clibeanna go huathoibríoch as ainmneacha &lt;category&gt; san fhotha">
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Cuir an réimír seo roimh chlibeanna:">
 <!ENTITY autotagUsePrefix.accesskey  "C">
 <!ENTITY autoTagPrefix.placeholder   "Cuir réimír isteach">

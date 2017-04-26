@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Gan sonrú">
 <!ENTITY editDirectories.label                 "Cuir Eolairí in Eagar…">
 <!ENTITY editDirectories.accesskey             "E">
-
-
-
+<!ENTITY showAsDefault.label                   "Fillteán tosaigh réamhshocraithe i bhfuinneog an leabhair seoltaí:">
+<!ENTITY showAsDefault.accesskey               "s">
+<!ENTITY showAsDefaultLast.label               "Fillteán is déanaí">
 
 <!ENTITY sendOptionsDescription.label          "Cumraigh iompar an fhormáidithe téacs">
 <!ENTITY sendOptions.label                     "Roghanna Seolta…">
