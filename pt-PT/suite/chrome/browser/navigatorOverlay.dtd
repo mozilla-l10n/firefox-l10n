@@ -104,7 +104,7 @@
 <!ENTITY cookieAllowSessionCookiesMsg.label "Este website apenas pode definir cookies para a sessão atual.">
 <!ENTITY cookieCookiesDefaultCmd.label "Utilizar permissões predefinidas de cookies">
 <!ENTITY cookieCookiesDefaultCmd.accesskey "U">
-<!ENTITY cookieCookiesDefaultMsg.label "Os cookies deste website serão aceites ou rejeitados baseado nas pré-definições.">
+<!ENTITY cookieCookiesDefaultMsg.label "Os cookies deste website serão aceites ou rejeitados baseado nas predefinições.">
 <!ENTITY cookieBlockCookiesCmd.label "Bloquear cookies deste website">
 <!ENTITY cookieBlockCookiesCmd.accesskey "B">
 <!ENTITY cookieBlockCookiesMsg.label "Os cookies deste website serão sempre rejeitados.">
@@ -117,7 +117,7 @@
 <!ENTITY cookieAllowImagesMsg.label "As imagens deste website serão sempre descarregadas.">
 <!ENTITY cookieImagesDefaultCmd.label "Utilizar permissões predefinidas de imagem">
 <!ENTITY cookieImagesDefaultCmd.accesskey "U">
-<!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão descarregadas com base nas pré-definições.">
+<!ENTITY cookieImagesDefaultMsg.label "As imagens deste website serão descarregadas com base nas predefinições.">
 <!ENTITY cookieBlockImagesCmd.label "Bloquear imagens deste website">
 <!ENTITY cookieBlockImagesCmd.accesskey "B">
 <!ENTITY cookieBlockImagesMsg.label "As imagens deste website nunca serão descarregadas.">

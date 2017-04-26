@@ -6,7 +6,7 @@
 <!ENTITY pref.security.title              "Privacidade e segurança">
 
 <!ENTITY tracking.label                   "Monitorização do utilizador">
-<!ENTITY trackingIntro.label              "Os websites podem monitorizá-lo quando os utilizar, afetando assim a sua privacidade.">
+<!ENTITY trackingIntro.label              "Os websites podem monitorizar como os utiliza, afetando assim a sua privacidade.">
 
 <!ENTITY doNotTrack.label                 "Informar os websites que eu não quero ser monitorizado">
 <!ENTITY doNotTrack.accesskey             "t">

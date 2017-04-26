@@ -24,7 +24,7 @@
 <!ENTITY wrapOutMsg.accesskey                 "E">
 <!ENTITY char.label                           "caracteres">
 
-<!ENTITY defaultMessagesHeader.label          "Pré-definições para mensagens HTML">
+<!ENTITY defaultMessagesHeader.label          "Predefinições para mensagens HTML">
 <!ENTITY font.label                           "Tipo de letra:">
 <!ENTITY font.accesskey                       "l">
 <!ENTITY size.label                           "Tamanho:">

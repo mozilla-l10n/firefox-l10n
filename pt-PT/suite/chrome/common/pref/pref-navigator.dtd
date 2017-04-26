@@ -28,7 +28,7 @@
 <!ENTITY restoreTabs.label              "Restaurar">
 <!ENTITY restoreTabs.accesskey          "s">
 <!ENTITY restoreTabsAtATime.label       "separador(es) de uma vez">
-<!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando precisar deles">
+<!ENTITY restoreDeferred.label          "Apenas restaurar separadores quando eu precisar deles">
 <!ENTITY restoreDeferred.accesskey      "o">
 
 <!ENTITY homePageIntro.label            "Clicar no botão da página inicial leva-lhe para este grupo de páginas:">
@@ -38,7 +38,7 @@
 <!ENTITY useCurrentGroup.accesskey      "g">
 <!ENTITY browseFile.label               "Escolher ficheiro…">
 <!ENTITY browseFile.accesskey           "c">
-<!ENTITY useDefault.label               "Restaurar pré-definições">
+<!ENTITY useDefault.label               "Restaurar predefinição">
 <!ENTITY useDefault.accesskey           "R">
 
 <!ENTITY defaultBrowserGroup.label      "Navegador predefinido">

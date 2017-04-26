@@ -16,5 +16,5 @@
 <!ENTITY raiseTagButton.accesskey   "u">
 <!ENTITY lowerTagButton.label       "Baixar Importância">
 <!ENTITY lowerTagButton.accesskey   "B">
-<!ENTITY restoreButton.label        "Restaurar pré-definições">
+<!ENTITY restoreButton.label        "Restaurar predefinições">
 <!ENTITY restoreButton.accesskey    "s">
