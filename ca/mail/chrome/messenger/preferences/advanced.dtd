@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Utilitza fins a">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB d'espai de disc per a la memòria cau">
+
+
 <!ENTITY clearCacheNow.label             "Neteja-la ara">
 <!ENTITY clearCacheNow.accesskey         "N">
 <!-- Certificates -->
