@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Koristi do">
 <!ENTITY useCacheBefore.accesskey        "K">
 <!ENTITY useCacheAfter.label             "MB prostora za priručnu memoriju">
+
+
 <!ENTITY clearCacheNow.label             "Očisti sada">
 <!ENTITY clearCacheNow.accesskey         "O">
 <!-- Certificates -->
