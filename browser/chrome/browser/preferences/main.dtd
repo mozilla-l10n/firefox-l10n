@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Iniçio">
 
+<!ENTITY startupPage2.label        "Quande &brandShortName; o s'arve">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Fanni vedde a pagina iniçiâ">
 <!ENTITY startupBlankPage.label    "Fanni vedde 'na pagina gianca">
 <!ENTITY startupPrevSession.label  "Fanni vedde i barcoin e feuggi averti l'urtima vòtta">
 
+<!ENTITY homepage2.label           "Pagina Prinçipâ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Adeuvia a pagina corente">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Adeuvia e pagine corenti">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Consenti l’ezegoçion de &brandShortName; e Firefox a-o mæximo tenpo">
 <!ENTITY useFirefoxSync.label             "Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ Sync pe-a scincronizaçion di dæti.">
+<!ENTITY getStarted.notloggedin.label     "Intra in&syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Deuvia &brandShortName; in modalitæ moltiprocesso">

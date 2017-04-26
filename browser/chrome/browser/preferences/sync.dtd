@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nomme dispoxitivo">
+<!ENTITY changeSyncDeviceName1.label "Cangia o nomme do dispoxitivo">
+<!ENTITY changeSyncDeviceName1.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Anulla">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "l">
 <!ENTITY saveChangeSyncDeviceName.label "Sarva">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cangia l’inmagine do profî">
 <!ENTITY verifiedManage.label        "Gestisci account">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect2.label           "Disconnetti">
+<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "Verifica email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Ascòrda sta email">
@@ -63,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Acedi">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
+<!ENTITY signedIn.settings.label       "Inpostaçioin de Sync">
+<!ENTITY signedIn.settings.description "Çerni cöse t'eu scincronizâ inti teu dispoxitivi deuviando &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
