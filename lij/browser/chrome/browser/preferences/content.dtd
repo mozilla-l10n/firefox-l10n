@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Coî e testo">
 
+<!ENTITY  defaultFont2.label          "Caratere predefinio">
+<!ENTITY  defaultFont2.accesskey      "C">
+<!ENTITY  defaultSize2.label          "Dimenscion">
+<!ENTITY  defaultSize2.accesskey      "D">
 
 <!ENTITY  advancedFonts.label         "Avansæ…">
 <!ENTITY  advancedFonts.accesskey     "n">

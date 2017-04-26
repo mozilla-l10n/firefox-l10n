@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteçion anti-traciamento">
+<!ENTITY  trackingProtection.description       "O traciamento l'é quande e aziende piagian informaçioin in sce ti pe fase 'n profî e vedde contegnui bazæ in sciâ teu navegaçion e dæti personâ.">
 <!ENTITY  trackingProtectionAlways.label       "De longo">
 <!ENTITY  trackingProtectionAlways.accesskey   "g">
 <!ENTITY  trackingProtectionPrivate.label      "Solo inti barcoin privæ">
@@ -61,6 +62,8 @@
 <!ENTITY  showCookies.label             "Fanni vedde i cookie…">
 <!ENTITY  showCookies.accesskey         "F">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; saia">
+<!ENTITY  historyHeader2.pre.accesskey     "s">
 <!ENTITY  historyHeader.remember.label     "Aregòrda a stöia">
 <!ENTITY  historyHeader.dontremember.label "No aregordâ a stöia">
 <!ENTITY  historyHeader.custom.label       "Adeuvia e preferense personalizæ pe a stöia">
