@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Teitl:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL Llif:">
+<!ENTITY feedLocation.accesskey      "L">
 <!ENTITY feedLocation.placeholder    "Rhowch URL llif dilys i'w Ychwanegu">
 <!ENTITY locationValidate.label      "Dilysu">
 <!ENTITY validateText.label          "Gwirio dilysiad ac estyn url dilys.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "e">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Gwirio am erthyglau newydd bob ">
+<!ENTITY biffStart.accesskey         "e">
+<!ENTITY biffMinutes.label           "munud">
+<!ENTITY biffMinutes.accesskey       "m">
+<!ENTITY biffDays.label              "diwrnod">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Argymhelliad y cyhoeddwr:">
 
 <!ENTITY quickMode.label             "Dangos crynodeb erthygl yn lle llwytho tudalen gwe">
 <!ENTITY quickMode.accesskey         "c">
 
-
+<!ENTITY autotagEnable.label         "Creu tagiau'n awtomatig o enwau &lt;categorïau&gt; llif">
+<!ENTITY autotagEnable.accesskey     "a">
 <!ENTITY autotagUsePrefix.label      "Rhagosod tagiau gyda:">
 <!ENTITY autotagUsePrefix.accesskey  "R">
 <!ENTITY autoTagPrefix.placeholder   "Rhoi rhagosodiad tag">

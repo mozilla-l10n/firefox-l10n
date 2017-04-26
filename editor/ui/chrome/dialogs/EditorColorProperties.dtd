@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Delweddau Cefndir:">
 <!ENTITY backgroundImage.accessKey "D">
 <!ENTITY backgroundImage.tooltip "Defnyddio ffeil delwedd fel cefndir ar gyfer eich tudalen">
-
+<!ENTITY backgroundImage.shortenedDataURI "URI data byrrach (bydd copi'n gosod yr URI llawn ar i'r clipfwrdd)">

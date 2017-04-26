@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "C">
 <!ENTITY replaceField.label "Newid gyda:">
 <!ENTITY replaceField.accesskey "N">
-
-
+<!ENTITY caseSensitiveCheckbox.label "Cydweddu maint">
+<!ENTITY caseSensitiveCheckbox.accesskey "C">
 <!ENTITY wrapCheckbox.label "Amlapio">
 <!ENTITY wrapCheckbox.accesskey "A">
 <!ENTITY backwardsCheckbox.label "Chwilio nôl">
@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "N">
 <!ENTITY replaceAllButton.label "Newid Popeth">
 <!ENTITY replaceAllButton.accesskey "N">
-
-
+<!ENTITY closeButton.label "Cau">
+<!ENTITY closeButton.accesskey "C">
