@@ -66,6 +66,7 @@
 <!ENTITY  showCookies.accesskey         "x">
 
 <!ENTITY  historyHeader2.pre.label         "O &brandShortName; irá">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Memorizar tudo">
 <!ENTITY  historyHeader.dontremember.label "Nunca memorizar">
 <!ENTITY  historyHeader.custom.label       "Usar minhas configurações">
