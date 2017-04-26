@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Titel:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL kanala:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Zapódajśo płaśiwy URL kanala">
 <!ENTITY locationValidate.label      "Płaśiwosć pśespytaś">
 <!ENTITY validateText.label          "Płaśiwosć pśespytaś a płaśiwy URL wótwołaś.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "N">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Za nowymi nastawkami pytaś kužde ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "minutow">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dnjow">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Wudawaŕ pórucujo:">
 
 <!ENTITY quickMode.label             "Nastawkowe zespominanje pokazaś, město aby webbok zacytało">
 <!ENTITY quickMode.accesskey         "z">
 
-
+<!ENTITY autotagEnable.label         "Wobznamjenja awtomatiski z kanalowych &lt;kategorjowych&gt; mjenjow napóraś">
+<!ENTITY autotagEnable.accesskey     "z">
 <!ENTITY autotagUsePrefix.label      "Wobznamjenja prefigěrowaś z:">
 <!ENTITY autotagUsePrefix.accesskey  "f">
 <!ENTITY autoTagPrefix.placeholder   "Zapódajśo wobznamjenjowy prefiks">

@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Žeden">
 <!ENTITY editDirectories.label                 "Zapise wobźěłaś…">
 <!ENTITY editDirectories.accesskey             "b">
-
-
-
+<!ENTITY showAsDefault.label                   "Standardny startowy zapis we woknje adresnika:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Slědny wužyty zapis">
 
 <!ENTITY sendOptionsDescription.label          "Zaźaržanje tekstowego formata konfigurěrowaś">
 <!ENTITY sendOptions.label                     "Wótesćełańske nastajenja…">

@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Slězynowy wobraz:">
 <!ENTITY backgroundImage.accessKey "z">
 <!ENTITY backgroundImage.tooltip "Wobrazowu dataju ako slězynu za waš bok wužywaś">
-
+<!ENTITY backgroundImage.shortenedDataURI "Skrotcony datowy URI (kopija placěrujo dopołny URI w mjazywótkłaźe)">
