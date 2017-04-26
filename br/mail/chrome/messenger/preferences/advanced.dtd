@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Arverañ betek">
 <!ENTITY useCacheBefore.accesskey        "r">
 <!ENTITY useCacheAfter.label             "Me a egor evit ar grubuilh">
+
+
 <!ENTITY clearCacheNow.label             "Skarzhañ diouzhtu">
 <!ENTITY clearCacheNow.accesskey         "S">
 <!-- Certificates -->
