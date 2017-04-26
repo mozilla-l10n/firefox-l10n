@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Kesh uchun">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB joydan foydalaning">
+
+
 <!ENTITY clearCacheNow.label             "Hozir tozalash">
 <!ENTITY clearCacheNow.accesskey         "t">
 <!-- Certificates -->
