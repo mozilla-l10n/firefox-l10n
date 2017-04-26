@@ -1,0 +1,30 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+
+<!ENTITY migrationWizard.title          "Asistanto de importo">
+
+<!ENTITY importFromWin.label            "Import Options, Account Settings, Address Book, Filters and other data from:">
+<!ENTITY importFromNonWin.label         "Import Preferences, Account Settings, Address Book, Filters, and other data from:">
+<!ENTITY importSourceNotFound.label     "No application to import data from found.">
+
+<!ENTITY importFromNothing.label        "Ne importi ion ajn">
+<!ENTITY importFromNothing.accesskey    "N">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 or later">
+<!ENTITY importFromSeamonkey3.accesskey "S">
+<!ENTITY importFromOutlook.label        "Outlook">
+<!ENTITY importFromOutlook.accesskey    "O">
+
+<!ENTITY importSource.title             "Import Settings and Mail Folders">
+<!ENTITY importItems.title              "Elementoj importotaj">
+<!ENTITY importItems.label              "Elekti elementojn importotajn:">
+
+<!ENTITY migrating.title                "Importo…">
+<!ENTITY migrating.label                "La jenaj elementoj estas nuntempe importataj…">
+
+<!ENTITY selectProfile.title            "Elekti profilon">
+<!ENTITY selectProfile.label            "Eblas importi el la jenaj profiloj:">
+
+<!ENTITY done.title                     "Importado finita">
+<!ENTITY done.label                     "La jenaj elementoj estis sukcese importitaj:">

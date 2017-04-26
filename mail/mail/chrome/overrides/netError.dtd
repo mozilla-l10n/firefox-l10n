@@ -1,0 +1,177 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
+%brandDTD;
+
+<!ENTITY loadError.label "Okazis problemo dum ŝargado de la paĝo">
+<!ENTITY retry.label "Klopodi denove">
+
+<!-- Specific error messages -->
+
+<!ENTITY connectionFailure.title "Ne eblas konektiĝi">
+<!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
+
+<!ENTITY deniedPortAccess.title "Aliro al tiu ĉi adreso estas limigata">
+<!ENTITY deniedPortAccess.longDesc "">
+
+<!ENTITY dnsNotFound.title "Servilo ne trovita">
+<!ENTITY dnsNotFound.longDesc "
+<ul>
+  <li>Check the address for typing errors such as
+    <strong>ww</strong>.example.com instead of
+    <strong>www</strong>.example.com</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY fileNotFound.title "Dosiero ne trovita">
+<!ENTITY fileNotFound.longDesc "<ul> 
+<li>Kontrolu ĉu la dosiernomo estas ĝuste literumita (majuskloj kaj minuskloj) kaj ĉu estas tajperaroj.</li> 
+<li>Kontrolu ĉu la dosiero estis movita, renomita aŭ forigita.</li> 
+</ul>">
+
+<!ENTITY fileAccessDenied.title "Rifuzita aliro al dosiero">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Eble ĝi estis forigita, aŭ movita, aŭ la permesoj dosieraj evitas aliron al ĝi.</li>
+</ul>
+">
+
+<!ENTITY generic.title "Fuŝ’.">
+<!ENTITY generic.longDesc "
+<p>&brandShortName; can't load this page for some reason.</p>
+">
+
+<!ENTITY malformedURI.title "The address isn't valid">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>Web addresses are usually written like
+    <strong>http://www.example.com/</strong></li>
+  <li>Make sure that you're using forward slashes (i.e.
+    <strong>/</strong>).</li>
+</ul>
+">
+
+<!ENTITY netInterrupt.title "La konekto estis interrompita">
+<!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Dokumento malaktuala">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY netOffline.title "Malkonektita reĝimo">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>Premu &quot;Klopodi denove&quot; por baskuli al la konektita reĝimo kaj reŝargi la paĝon.</li>
+</ul>
+">
+
+<!ENTITY contentEncodingError.title "Content encoding error">
+<!ENTITY contentEncodingError.longDesc "<ul> 
+<li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.</li> 
+</ul>">
+
+<!ENTITY unsafeContentType.title "Unsafe file type">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+<li>Bonvolu kontakti la retejajn posedantojn por raporti al ili tiun ĉi problemon.</li> 
+</ul>">
+
+<!ENTITY netReset.title "La konekto estis haltigita">
+<!ENTITY netReset.longDesc "&sharedLongDesc;">
+
+<!ENTITY netTimeout.title "Limtempo por konekto atingita">
+<!ENTITY netTimeout.longDesc "&sharedLongDesc;">
+
+<!ENTITY unknownProtocolFound.title "The address wasn't understood">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Vi eble bezonos instali alian programon por malfermi ĉi tiun adreson.</li>
+</ul>
+">
+
+<!ENTITY proxyConnectFailure.title "La retperanto rifuzas konektojn">
+<!ENTITY proxyConnectFailure.longDesc "<ul> 
+<li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li> 
+<li>Kontaktu vian retan administranton por certiĝi ke la retperanto nuntempe funkcias.</li> 
+</ul>">
+
+<!ENTITY proxyResolveFailure.title "Ne eblas trovi la retperanton">
+<!ENTITY proxyResolveFailure.longDesc "<ul> 
+<li>Kontrolu la agordojn de la retperanto por certiĝi ke ili estas ĝustaj.</li> 
+<li>Kontrolu ĉu via komputilo havas funkciantan retan konekton.</li> 
+<li>Se via komputilo aŭ reto estas protektataj de retbarilo aŭ retperanto, certiĝu ke  &brandShortName; rajtas aliri la TTT-n.</li> 
+</ul>">
+
+<!ENTITY redirectLoop.title "The page isn't redirecting properly">
+<!ENTITY redirectLoop.longDesc "<ul> 
+<li>Tiu ĉi problemo povas okazi pro malaktivigo aŭ rifuzo de kuketoj.</li> 
+</ul>">
+
+<!ENTITY unknownSocketType.title "Neatendita respondo el servilo">
+<!ENTITY unknownSocketType.longDesc "<ul> 
+<li>Kontrolu kaj certiĝu ke via sistemo havas la Administranton de persona sekureco instalita.</li> 
+<li>Tiu povus okazi pro nenorma agordado de la servilo.</li> 
+</ul>">
+
+<!ENTITY nssFailure2.title "Secure connection failed">
+<!ENTITY nssFailure2.longDesc2 "
+<ul>
+  <li>The page you are trying to view can not be shown because the authenticity of the received data could not be verified.</li>
+  <li>Please contact the website owners to inform them of this problem.</li>
+</ul>
+">
+
+<!ENTITY nssBadCert.title "Secure connection failed">
+<!ENTITY nssBadCert.longDesc2 "
+<ul>
+  <li>This could be a problem with the server's configuration, or it could be
+someone trying to impersonate the server.</li>
+  <li>If you have connected to this server successfully in the past, the error may
+be temporary, and you can try again later.</li>
+</ul>
+">
+
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>The site could be temporarily unavailable or too busy. Try again in a few
+    moments.</li>
+  <li>If you are unable to load any pages, check your computer's network
+    connection.</li>
+  <li>If your computer or network is protected by a firewall or proxy, make sure
+    that &brandShortName; is permitted to access the Web.</li>
+</ul>
+">
+
+<!ENTITY cspBlocked.title "Blokita de la sekureca politiko pri enhavo">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; ne permesis ŝargi la paĝon ĉi tiel, ĉar la paĝo havas sekurecan politikon pri enhavo kiu malpermesas tion.</p>">
+
+<!ENTITY corruptedContentErrorv2.title "Eraro pro difektita enhavo">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>La paĝo, kiun vi klopodas vidi, ne povas esti montrita ĉar okazis eraro dum la transmeto de datumoj.</p><ul><li>Bonvolu kontakti la posedantojn de la retejo por raporti al ili tiun ĉi problemon.</li></ul>">
+
+<!ENTITY securityOverride.linkText "Aŭ vi povas aldoni escepton…">
+<!ENTITY securityOverride.getMeOutOfHereButton "Mi volas foriri de ĉi tie!">
+<!ENTITY securityOverride.exceptionButtonLabel "Aldoni escepton…">
+
+<!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
+contents of the <button> tags. It uses strings already defined above. The
+button is included here (instead of netError.xhtml) because it exposes
+functionality specific to thunderbird. -->
+
+<!ENTITY securityOverride.warningContent "
+<p>Vi ne devus aldoni escepton se vi uzas interretan konekton kiun vi ne fidas tute, aŭ se vi ne kutimas vidi averton por tiu ĉi retejo.</p>
+
+<button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button>
+<button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>
+">
+
+<!ENTITY remoteXUL.title "Fora XUL">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Bonvolu kontakti la posedantojn de la retejo por informi ilin pri tiu ĉi problemo.</li></ul></p>">
+
+<!ENTITY inadequateSecurityError.title "Via konekto ne estas sekura">
+<!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
+     "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> uzas sekurecan teĥnologion kiu estas kaduka kaj sendefenda. Atakanto povus facile elmeti informojn, kiujn vi opiniis sekuraj. La administranto de la retejo devos ripari la servilon, antaŭ ol vi povos viziti ĝin.</p><p>Erarkodo: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

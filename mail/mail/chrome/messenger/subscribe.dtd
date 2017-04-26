@@ -1,0 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY subscribeDialog.title        "Aboni">
+<!ENTITY subscribeButton.label        "Aboni">
+<!ENTITY subscribeButton.accesskey    "A">
+<!ENTITY unsubscribeButton.label      "Malaboni">
+<!ENTITY unsubscribeButton.accesskey  "M">
+<!ENTITY newGroupsTab.label           "New Groups">
+<!ENTITY newGroupsTab.accesskey       "N">
+<!ENTITY refreshButton.label          "Refreŝigi">
+<!ENTITY refreshButton.accesskey      "R">
+<!ENTITY stopButton.label             "Haltigi">
+<!ENTITY stopButton.accesskey         "H">
+<!ENTITY server.label                 "Konto:">
+<!ENTITY server.accesskey             "K">
+<!ENTITY subscribedHeader.label       "Aboni">
+<!-- commenting out until bug 38906 is fixed 
+<!ENTITY messagesHeader.label         "Mesaĝoj"> -->
+<!ENTITY namefield.label              "Show items that contain:">
+<!ENTITY namefield.accesskey          "O">

@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- Mail Content -->
+<!ENTITY captionMailContent.label "Mail Content">
+
+<!ENTITY acceptRemoteContent.label "Allow remote content in messages">
+<!ENTITY acceptRemoteContent.accesskey "m">
+<!ENTITY remoteContentExceptions.label "Esceptoj…">
+<!ENTITY remoteContentExceptions.accesskey "x">
+<!ENTITY acceptRemoteContentInfo.label "Learn more about the privacy issues of remote content">
+
+<!-- Web Content -->
+<!ENTITY captionWebContent.label "Web Content">
+
+<!ENTITY keepHistory.label "Remember websites and links I've visited">
+<!ENTITY keepHistory.accesskey "R">
+<!ENTITY acceptCookies.label "Akcepti kuketojn el retejoj">
+<!ENTITY acceptCookies.accesskey "A">
+<!ENTITY acceptThirdParty.pre.label "Akcepti nerektajn kuketojn:">
+<!ENTITY acceptThirdParty.pre.accesskey "c">
+<!ENTITY acceptThirdParty.always.label "Ĉiam">
+<!ENTITY acceptThirdParty.never.label "Neniam">
+<!ENTITY acceptThirdParty.visited.label "El vizititaj">
+<!ENTITY keepUntil.label "Konservi ĝis:">
+<!ENTITY keepUntil.accesskey "K">
+<!ENTITY expire.label "ili senvalidiĝas">
+<!ENTITY close.label "mi finas &brandShortName;">
+<!ENTITY askEachTime.label "ask me every time">
+<!ENTITY cookieExceptions.label "Esceptoj…">
+<!ENTITY cookieExceptions.accesskey "t">
+<!ENTITY showCookies.label "Montri kuketojn…">
+<!ENTITY showCookies.accesskey "M">
+
+<!ENTITY dntTrackingNotOkay.label2 "Tell sites that I do not want to be tracked">
+<!ENTITY dntTrackingNotOkay.accesskey "n">
+<!ENTITY doNotTrackInfo.label "Learn more about Do Not Track">
