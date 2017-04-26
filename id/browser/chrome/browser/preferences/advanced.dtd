@@ -86,13 +86,20 @@
 <!ENTITY updateApplication.label         "Pemutakhiran &brandShortName;">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
 <!ENTITY updateAuto2.label               "Otomatis pasang pemutakhiran (disarankan untuk keamanan lebih baik)">
+<!ENTITY updateAuto2.accesskey           "O">
 <!ENTITY updateCheckChoose2.label        "Periksa pemutakhiran, biarkan saya memilih memasangnya atau tidak">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Jangan pernah memeriksa pemutakhiran (tidak disarankan)">
+<!ENTITY updateManual2.accesskey         "J">
 
+<!ENTITY updateHistory2.label            "Tampilkan Riwayat Pemutakhiran…">
+<!ENTITY updateHistory2.accesskey        "P">
 
 <!ENTITY useService.label                "Gunakan layanan latar belakang untuk memasang pemutakhiran">
 <!ENTITY useService.accesskey            "l">
 
+<!ENTITY enableSearchUpdate2.label       "Mutakhirkan mesin pencari secara otomatis">
+<!ENTITY enableSearchUpdate2.accesskey   "m">
 
 <!ENTITY reports.label                   "Laporan">
 
@@ -108,6 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Hapus data luring">
 
 <!ENTITY certificateTab.label            "Sertifikat">
+<!ENTITY certPersonal2.description       "Saat peladen meminta sertifikat pribadi Anda">
 <!ENTITY selectCerts.auto                "Pilih satu secara otomatis">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Tanyakan setiap saat">
