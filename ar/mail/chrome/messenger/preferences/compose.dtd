@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "لا شيء">
 <!ENTITY editDirectories.label                 "حرّر المجلدات…">
 <!ENTITY editDirectories.accesskey             "ح">
-
-
-
+<!ENTITY showAsDefault.label                   "مجلد بدأ التشغيل المبدئي في نافذة دفتر العناوين:">
+<!ENTITY showAsDefault.accesskey               "د">
+<!ENTITY showAsDefaultLast.label               "آخر دليل مستخدم">
 
 <!ENTITY sendOptionsDescription.label          "اضبط سلوك تنسيق النص">
 <!ENTITY sendOptions.label                     "خيارات الإرسال…">

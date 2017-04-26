@@ -10,11 +10,11 @@
 <!ENTITY removeAccount.desc           "احذف ما يعرفه &brandShortName; عن هذه الحساب. لا يؤثر في الحساب نفسه على الخادوم.">
 <!ENTITY removeData.label             "احذف بيانات الرسائل">
 <!ENTITY removeData.accesskey         "ن">
-
-
+<!ENTITY removeDataChat.label         "احذف بيانات المحادثة">
+<!ENTITY removeDataChat.accesskey     "ن">
 <!ENTITY removeDataLocalAccount.desc  "يحذف كل الرسائل و المجلدات و المرشحات المرتبطة بهذا الحساب من على قرصك المحلي. لا يؤثر هذا في الرسائل الموجودة على الخادوم. لا تستخدم هذا إن كنت تخطط لأرشفة البيانات المحلية أو إعادة استخدامها في &brandShortName;.">
 <!ENTITY removeDataServerAccount.desc "يحذف كل الرسائل و المجلدات و المرشحات المرتبطة بهذا الحساب من على قرصك المحلي. رسائلك و مجلداتك لن تُحذف من على الخادوم.">
-
+<!ENTITY removeDataChatAccount.desc   "يحذف كل سجلات المحادثات المحفوظة لهذا الحساب على حاسوبك.">
 <!ENTITY showData.label               "اعرض مكان البيانات">
 <!ENTITY showData.accesskey           "ع">
 <!ENTITY progressPending              "يحذف البيانات المختارة…">
