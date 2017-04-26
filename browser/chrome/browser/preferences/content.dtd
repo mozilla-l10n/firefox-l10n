@@ -21,7 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Huruf &amp; Warna">
 
+<!ENTITY  defaultFont2.label          "Fon baku">
+<!ENTITY  defaultFont2.accesskey      "B">
 <!ENTITY  defaultSize2.label          "Ukuran">
+<!ENTITY  defaultSize2.accesskey      "U">
 
 <!ENTITY  advancedFonts.label         "Canggih…">
 <!ENTITY  advancedFonts.accesskey     "g">
