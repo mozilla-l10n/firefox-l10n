@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Powěsći wobstaraś">
 <!ENTITY folderContextGetMessages.accesskey "P">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Wše aktualizacije zastajiś">
+<!ENTITY folderContextPauseUpdates.label "Aktualizacije zastajiś">
+<!ENTITY folderContextPauseUpdates.accesskey "A">
 <!ENTITY folderContextOpenInNewWindow.label "W nowem woknje wócyniś">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "W nowem rejtarku wócyniś">
