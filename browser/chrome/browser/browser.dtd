@@ -657,7 +657,7 @@
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Scarica un’altra copia di &brandShorterName;">
 <!ENTITY updateRestart.message "Dopo il riavvio verranno ripristinate tutte le schede e le finestre attualmente aperte.">
-<!ENTITY updateRestart.header.message "Riavvia &brandShorterName; per installare l’aggiornamento.">
+<!ENTITY updateRestart.header.message2 "Riavvia per aggiornare &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Riavvia e ripristina">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Non adesso">

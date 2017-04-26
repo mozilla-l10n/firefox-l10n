@@ -5,7 +5,7 @@
 <!ENTITY aboutDialog.title "Informazioni su &brandFullName;">
 <!ENTITY update.checkForUpdatesButton.label "Controlla aggiornamenti">
 <!ENTITY update.checkForUpdatesButton.accesskey "C">
-<!ENTITY update.updateButton.label2 "Riavvia &brandShortName; per aggiornare">
+<!ENTITY update.updateButton.label3 "Riavvia per aggiornare &brandShorterName;">
 <!ENTITY update.updateButton.accesskey "R">
 <!ENTITY warningDesc.version "&brandShortName; è una versione sperimentale e potrebbe risultare instabile.">
 <!ENTITY warningDesc.telemetryDesc "Dati relativi a prestazioni, caratteristiche hardware, utilizzo delle funzionalità e personalizzazioni del browser vengono inviati automaticamente a &vendorShortName; per contribuire al miglioramento di &brandShortName;.">
