@@ -280,7 +280,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Datoteka"> 
 <!ENTITY fileMenu.accesskey       "D">
 <!ENTITY newUserContext.label             "Nov vsebnik zavihka">
-<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY newUserContext.accesskey         "v">
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -788,7 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "Prijava v &syncBrand.shortName.label; …">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
-<!ENTITY syncSyncNowItem.accesskey    "u">
+<!ENTITY syncSyncNowItem.accesskey    "n">
 <!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label; …">
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
