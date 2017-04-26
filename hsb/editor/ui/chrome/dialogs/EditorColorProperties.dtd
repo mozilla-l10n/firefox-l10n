@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Pozadkowy wobraz:">
 <!ENTITY backgroundImage.accessKey "b">
 <!ENTITY backgroundImage.tooltip "Wobrazowu dataju jako pozadk za wašu stronu wužić">
-
+<!ENTITY backgroundImage.shortenedDataURI "Skrótšeny datowy URI (kopija placěruje dospołny URI w mjezyskładźe)">

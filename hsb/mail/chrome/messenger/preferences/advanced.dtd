@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Hač k">
 <!ENTITY useCacheBefore.accesskey        "H">
 <!ENTITY useCacheAfter.label             "MB tačeloweho ruma za pufrowak wužiwać">
+
+
 <!ENTITY clearCacheNow.label             "Nětko wuprózdnić">
 <!ENTITY clearCacheNow.accesskey         "u">
 <!-- Certificates -->

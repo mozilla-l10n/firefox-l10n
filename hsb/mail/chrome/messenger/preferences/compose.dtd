@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Žadyn">
 <!ENTITY editDirectories.label                 "Zapisy wobdźěłać…">
 <!ENTITY editDirectories.accesskey             "b">
-
-
-
+<!ENTITY showAsDefault.label                   "Standardny startowy zapis we woknje adresnika:">
+<!ENTITY showAsDefault.accesskey               "S">
+<!ENTITY showAsDefaultLast.label               "Posledni wužity zapis">
 
 <!ENTITY sendOptionsDescription.label          "Zadźerženje tekstoweho formata konfigurować">
 <!ENTITY sendOptions.label                     "Wotesyłanske nastajenja…">
