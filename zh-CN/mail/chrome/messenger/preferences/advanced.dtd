@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "不检查更新（不推荐：存在安全风险）">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "如果这将导致禁用某些附加组件，警告我">
-<!ENTITY updateAutoAddonWarn.accesskey   "W">
 <!ENTITY updateHistory.label             "显示更新历史">
 <!ENTITY updateHistory.accesskey         "p">
 
@@ -91,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "最多使用">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB 磁盘空间作为缓存">
+<!ENTITY overrideSmartCacheSize.label    "覆盖自动缓存管理">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "立即清空">
 <!ENTITY clearCacheNow.accesskey         "C">
 
