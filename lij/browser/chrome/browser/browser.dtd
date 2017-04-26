@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Arvi panello de mesaggio sarvataggio paròlle segrete">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestion plugin">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Deciddi se riçeive notifiche da sto scito">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Sarva dæti inta memöia persistente">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestisci a condivixon de fòtocamera e/o micròfono co-o scito">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestisci a condivixon do micròfono co-o scito">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "T'æ blocou e informaçioin de localizaçion pe sto scito.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "T'æ blocou o sarvataggio dæti pe sto scito.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "T'æ blocou e notifiche pe sto scito.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "T'æ blocou o sarvataggio persistente pe sto scito.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Fanni vedde a stöia">
 
