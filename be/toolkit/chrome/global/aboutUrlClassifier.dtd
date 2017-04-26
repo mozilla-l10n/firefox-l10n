@@ -12,6 +12,7 @@
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Пошук">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Праверыць вынік пошуку">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Памяць">
 <!ENTITY aboutUrlClassifier.databaseTitle               "База дадзеных">
