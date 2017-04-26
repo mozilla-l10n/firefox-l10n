@@ -81,6 +81,8 @@
 <!ENTITY useCacheBefore.label            "استفاده تا حداکثر">
 <!ENTITY useCacheBefore.accesskey        "ا">
 <!ENTITY useCacheAfter.label             "مگابایت از فضای دیسک برای حافظهٔ نهان.">
+
+
 <!ENTITY clearCacheNow.label             "هم‌اکنون پاک شود">
 <!ENTITY clearCacheNow.accesskey         "ه">
 <!-- Certificates -->
