@@ -78,6 +78,9 @@ JSON גולמי
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  היסטוגרמות ממופתחות">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  אירועים
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  מדדים פשוטים">
 
@@ -101,4 +104,10 @@ JSON גולמי
 
 <!ENTITY aboutTelemetry.filterText "  סינון (מחרוזות או /ביטויים.רגולריים/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "
+  מטען
+">
 
+<!ENTITY aboutTelemetry.rawPayload "
+  מטען גולמי
+">
