@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Podėliui skirti iki">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB disko atminties">
+
+
 <!ENTITY clearCacheNow.label             "Išvalyti dabar">
 <!ENTITY clearCacheNow.accesskey         "v">
 <!-- Certificates -->
