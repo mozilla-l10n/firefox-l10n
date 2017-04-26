@@ -925,4 +925,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "К">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
-<!ENTITY updateRestart.panelUI.label "Перазапусціць &brandShortName; для абнаўлення">
+<!ENTITY updateRestart.panelUI.label "Перазапусціць &brandShorterName; для абнаўлення">
