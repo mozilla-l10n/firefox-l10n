@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Titul:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL kanala:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Zapodajće płaćiwy URL kanala">
 <!ENTITY locationValidate.label      "Płaćiwosć přepruwować">
 <!ENTITY validateText.label          "Płaćiwosć přepruwuwać a płaćiwy URL wotwołać.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "N">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Za nowymi nastawkami pruwować kóžde ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "mjeńšin">
+<!ENTITY biffMinutes.accesskey       "e">
+<!ENTITY biffDays.label              "dnjow">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Wudawaćel poruča:">
 
 <!ENTITY quickMode.label             "Nastawkowe zjeće pokazać, město toho zo by webstronu začitało">
 <!ENTITY quickMode.accesskey         "h">
 
-
+<!ENTITY autotagEnable.label         "Znački awtomatisce z kanalowych &lt;kategorjowych&gt; mjenow wutworić">
+<!ENTITY autotagEnable.accesskey     "a">
 <!ENTITY autotagUsePrefix.label      "Znački prefigować z:">
 <!ENTITY autotagUsePrefix.accesskey  "f">
 <!ENTITY autoTagPrefix.placeholder   "Zapodajće značkowy prefiks">

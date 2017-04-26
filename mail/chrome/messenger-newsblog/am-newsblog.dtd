@@ -4,12 +4,13 @@
 
 <!ENTITY loginAtStartup.label          "Za nowymi nastawkami při starće pruwować">
 <!ENTITY loginAtStartup.accesskey      "Z">
+<!ENTITY biffAll.label                 "Aktualizacije za wšě kanale zmóžnić">
+<!ENTITY biffAll.accesskey             "A">
 
-
-
+<!ENTITY newFeedSettings.label         "Standardne nastajenja za nowe kanale">
 
 <!ENTITY manageSubscriptions.label     "Abonementy zrjadować…">
 <!ENTITY manageSubscriptions.accesskey "A">
 
 <!ENTITY feedWindowTitle.label         "Asistent kanaloweho konta">
-
+<!ENTITY feeds.accountName             "Blogi a powěsćowe kanale">
