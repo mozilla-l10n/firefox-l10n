@@ -4,12 +4,13 @@
 
 <!ENTITY loginAtStartup.label          "Lorg altanna nua ag am tosaithe">
 <!ENTITY loginAtStartup.accesskey      "o">
+<!ENTITY biffAll.label                 "Cumasaigh nuashonruithe do na fothaí go léir">
+<!ENTITY biffAll.accesskey             "C">
 
-
-
+<!ENTITY newFeedSettings.label         "Réamhshocruithe le haghaidh Fothaí Nua">
 
 <!ENTITY manageSubscriptions.label     "Bainistiú na Síntiús…">
 <!ENTITY manageSubscriptions.accesskey "S">
 
 <!ENTITY feedWindowTitle.label         "Treoraí na gCuntas Fotha">
-
+<!ENTITY feeds.accountName             "Blaganna agus Fothaí Nuachta">
