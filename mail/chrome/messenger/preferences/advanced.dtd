@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Utilizează până la">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de spațiu pentru cache">
+
+
 <!ENTITY clearCacheNow.label             "Șterge acum">
 <!ENTITY clearCacheNow.accesskey         "c">
 <!-- Certificates -->
