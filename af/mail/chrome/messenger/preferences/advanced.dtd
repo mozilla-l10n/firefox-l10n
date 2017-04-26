@@ -82,6 +82,8 @@
 <!ENTITY useCacheBefore.label            "Gebruik tot">
 <!ENTITY useCacheBefore.accesskey        "G">
 <!ENTITY useCacheAfter.label             "MG spasie vir die kasgeheue">
+
+
 <!ENTITY clearCacheNow.label             "Maak nou skoon">
 <!ENTITY clearCacheNow.accesskey         "M">
 <!-- Certificates -->
