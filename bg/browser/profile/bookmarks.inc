@@ -11,7 +11,7 @@
 #define bookmarks_heading Отметки
 
 #define bookmarks_toolbarfolder Папка на лентата с отметки
-#define bookmarks_toolbarfolder_description Добавянето на отметки към тази папка ще ги показва в лентата с отметки
+#define bookmarks_toolbarfolder_description Добавените в тази папка отметки ще бъдат показвани в лентата с отметки
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
