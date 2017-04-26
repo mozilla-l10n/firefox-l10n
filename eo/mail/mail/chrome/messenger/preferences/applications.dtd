@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  typeColumn.label            "Tipo de enhavo">
+<!ENTITY  typeColumn.accesskey        "e">
+
+<!ENTITY  actionColumn2.label         "Ago">
+<!ENTITY  actionColumn2.accesskey     "A">
+
+<!ENTITY  focusSearch1.key            "f">
+<!ENTITY  focusSearch2.key            "k">
+
+<!ENTITY  filter.placeholder          "Serĉi">
+
+<!ENTITY saveTo.label                 "Konservi dosierojn en">
+<!ENTITY saveTo.accesskey             "K">
+<!ENTITY alwaysAsk.label              "Ĉiam demandi kie konservi dosierojn">
+<!ENTITY alwaysAsk.accesskey          "d">
+<!ENTITY chooseFolderWin.label        "Esplori…">
+<!ENTITY chooseFolderWin.accesskey    "E">
+<!ENTITY chooseFolderMac.label        "Elekti…">
+<!ENTITY chooseFolderMac.accesskey    "l">
+
+<!ENTITY attachments.incoming.label   "Incoming">
+<!ENTITY attachments.outgoing.label   "Outgoing">
+
+<!ENTITY addCloudFileAccount1.label       "Aldoni…">
+<!ENTITY addCloudFileAccount1.accesskey   "A">
+<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY removeCloudFileAccount.label     "Forigi">
+<!ENTITY removeCloudFileAccount.accesskey "F">
+<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.button.label        "Rajtigi">
+<!ENTITY authRequired.button.accesskey    "R">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.mb "MO">

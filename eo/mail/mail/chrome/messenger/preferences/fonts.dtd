@@ -1,0 +1,80 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  fontsAndEncodingsDialog.title           "Fonts &amp; Encodings">
+
+<!ENTITY  language.label                          "Tiparoj por:">
+<!ENTITY  language.accesskey                      "T">
+
+<!ENTITY  size.label                              "Grando:">
+<!ENTITY  sizeProportional.accesskey              "e">
+<!ENTITY  sizeMonospace.accesskey                 "i">
+
+<!ENTITY  proportional.label                      "Proporcia:">
+<!ENTITY  proportional.accesskey                  "P">
+
+<!ENTITY  serif.label                             "Serifa:">
+<!ENTITY  serif.accesskey                         "S">
+<!ENTITY  sans-serif.label                        "Senserifa:">
+<!ENTITY  sans-serif.accesskey                    "e">
+<!ENTITY  monospace.label                         "Egallarĝa:">
+<!ENTITY  monospace.accesskey                     "E">
+
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "Latina alfabeto">
+<!ENTITY  font.langGroup.japanese                 "Japana">
+<!ENTITY  font.langGroup.trad-chinese             "Ĉina tradicia (Taiwan)">
+<!ENTITY  font.langGroup.simpl-chinese            "Ĉina simpligita">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Ĉina tradicia (Hongkongo)">
+<!ENTITY  font.langGroup.korean                   "Korea">
+<!ENTITY  font.langGroup.cyrillic                 "Cirila">
+<!ENTITY  font.langGroup.el                       "Greka">
+<!ENTITY  font.langGroup.other                    "Aliaj skribsistemoj">
+<!ENTITY  font.langGroup.thai                     "Taja">
+<!ENTITY  font.langGroup.hebrew                   "Hebrea">
+<!ENTITY  font.langGroup.arabic                   "Araba">
+<!ENTITY  font.langGroup.devanagari               "Devangara">
+<!ENTITY  font.langGroup.tamil                    "Tamila">
+<!ENTITY  font.langGroup.armenian                 "Armena">
+<!ENTITY  font.langGroup.bengali                  "Bengala">
+<!ENTITY  font.langGroup.canadian                 "Unuigita kanada signaro">
+<!ENTITY  font.langGroup.ethiopic                 "Etiopia">
+<!ENTITY  font.langGroup.georgian                 "Kartvela">
+<!ENTITY  font.langGroup.gujarati                 "Guĝarata">
+<!ENTITY  font.langGroup.gurmukhi                 "Gurmukia">
+<!ENTITY  font.langGroup.khmer                    "Ĥmera">
+<!ENTITY  font.langGroup.malayalam                "Malayalama">
+<!ENTITY  font.langGroup.math                     "Matematiko">
+<!ENTITY  font.langGroup.odia                     "Orijo">
+<!ENTITY  font.langGroup.telugu                   "Telugua">
+<!ENTITY  font.langGroup.kannada                  "Kanara">
+<!ENTITY  font.langGroup.sinhala                  "Sinhala">
+<!ENTITY  font.langGroup.tibetan                  "Tibeta">
+<!-- Minimum font size -->
+<!ENTITY minSize.label                            "Minimuma tipara grandeco:">
+<!ENTITY minSize.accesskey                        "M">
+<!ENTITY minSize.none                             "Neniu">
+
+<!-- default font type -->
+<!ENTITY  useDefaultFontSerif.label               "Serifa">
+<!ENTITY  useDefaultFontSansSerif.label           "Senserifa">
+
+<!-- fonts in message -->
+<!ENTITY  fontControl.label                       "Font Control">
+<!ENTITY  useFixedWidthForPlainText.label         "Use fixed width font for plain text messages">
+<!ENTITY  fixedWidth.accesskey                    "x">
+<!ENTITY  useDocumentFonts.label                  "Allow messages to use other fonts">
+<!ENTITY  useDocumentFonts.accesskey              "o">
+
+<!-- Language settings -->
+<!ENTITY sendDefaultCharset.label         "Outgoing Mail:">
+<!ENTITY sendDefaultCharset.accesskey     "u">
+<!ENTITY languagesTitle2.label            "Teksta enkodigo">
+<!ENTITY composingDescription2.label      "Set the default text encoding for sending and receiving mail">
+
+<!ENTITY viewDefaultCharsetList.label     "Incoming Mail:">
+<!ENTITY viewDefaultCharsetList.accesskey  "I">
+<!ENTITY replyInDefaultCharset3.label     "When possible, use the default text encoding in replies">
+<!ENTITY replyInDefaultCharset3.accesskey "h">

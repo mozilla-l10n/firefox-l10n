@@ -1,0 +1,40 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  connectionsDialog.title       "Agordoj de konektado">
+
+<!ENTITY  proxyTitle.label              "Agordi retperantojn por atingi la reton">
+<!ENTITY  noProxyTypeRadio.label        "Sen retperanto">
+<!ENTITY  noProxyTypeRadio.accesskey    "r">
+<!ENTITY  systemTypeRadio.label         "Uzi la sistemajn agordojn de retperantoj">
+<!ENTITY  systemTypeRadio.accesskey     "u">
+<!ENTITY  WPADTypeRadio.label           "Aŭtomate eltrovi la agordojn de retperantoj por tiu ĉi reto">
+<!ENTITY  WPADTypeRadio.accesskey       "e">
+<!ENTITY  manualTypeRadio.label         "Neaŭtomata agordo de retperantoj:">
+<!ENTITY  manualTypeRadio.accesskey     "N">
+<!ENTITY  autoTypeRadio.label           "Adreso de aŭtomata retperanta agordo:">
+<!ENTITY  autoTypeRadio.accesskey       "A">
+<!ENTITY  reload.label                  "Reŝargi">
+<!ENTITY  reload.accesskey              "l">
+<!ENTITY  http.label                    "HTTP peranto:">
+<!ENTITY  http.accesskey                "h">
+<!ENTITY  ssl.label                     "SSL peranto:">
+<!ENTITY  ssl.accesskey                 "s">
+<!ENTITY  socks.label                   "SOCKS servilo:">
+<!ENTITY  socks.accesskey               "c">
+<!ENTITY  socks4.label                  "SOCKS v4">
+<!ENTITY  socks4.accesskey              "k">
+<!ENTITY  socks5.label                  "SOCKS v5">
+<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  HTTPport.label                "Pordo:">
+<!ENTITY  HTTPport.accesskey            "p">
+<!ENTITY  SSLport.label                 "Pordo:">
+<!ENTITY  SSLport.accesskey             "o">
+<!ENTITY  SOCKSport.label               "Pordo:">
+<!ENTITY  SOCKSport.accesskey           "d">
+<!ENTITY  noproxy.label                 "Ne uzi peranton por:">
+<!ENTITY  noproxy.accesskey             "n">
+<!ENTITY  noproxyExplain.label          "Ekzemplo: .mozilla.org, .net.nz, 192.168.1.0/24">
+<!ENTITY  shareproxy.label              "Uzi tiun ĉi peranton por ĉiuj protokoloj">
+<!ENTITY  shareproxy.accesskey          "x">
