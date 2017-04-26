@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Legfeljebb">
 <!ENTITY useCacheBefore.accesskey        "L">
 <!ENTITY useCacheAfter.label             "MB hely a gyorsítótárnak">
+
+
 <!ENTITY clearCacheNow.label             "Törlés most">
 <!ENTITY clearCacheNow.accesskey         "T">
 <!-- Certificates -->
