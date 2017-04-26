@@ -20,7 +20,7 @@
 <!ENTITY pref.calendar.alarms.showAlarmBox.accessKey "M">
 <!ENTITY pref.missedalarms "Mostrar alarmes perdidos">
 <!ENTITY pref.calendar.alarms.missedAlarms.accessKey "p">
-<!ENTITY pref.calendar.alarms.defaults.label "Pré-definições dos lembretes">
+<!ENTITY pref.calendar.alarms.defaults.label "Predefinições dos lembretes">
 <!ENTITY pref.defalarm4events.label "Alarmes para os eventos:">
 <!ENTITY pref.defalarm4events.accesskey "A">
 <!ENTITY pref.defalarm4todos.label "Alarmes para as tarefas:">
