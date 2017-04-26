@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Забелешка је уклоњена">
 <!ENTITY bookmark_updated "Забелешка је ажурирана">
 <!ENTITY bookmark_options "Опције">
+<!ENTITY bookmark_save "Сачувај">
 <!ENTITY screenshot_added_to_bookmarks "Снимак екрана је додат забелешкама">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ставки">
 <!ENTITY bookmark_folder_one_item "1 ставка">
+<!ENTITY bookmark_parent_folder "Родитељски директоријум">
 
 <!ENTITY reader_saved_offline "Сачувано ван мреже">
 <!-- Localization note (reader_switch_to_bookmarks) : This
