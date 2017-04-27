@@ -21,6 +21,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "รุ่น">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "คุณลักษณะของ &brandShortName;">
+
 <!ENTITY aboutSupport.experimentsTitle "คุณลักษณะทดลอง">
 <!ENTITY aboutSupport.experimentName "ชื่อ">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -59,6 +61,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างแบบหลายโพรเซส">
+
 
 <!ENTITY aboutSupport.appBasicsSafeMode "โหมดปลอดภัย">
 
