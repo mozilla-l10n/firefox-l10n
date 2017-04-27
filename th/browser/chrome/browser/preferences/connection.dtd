@@ -44,6 +44,6 @@
 <!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโพรโทคอลทั้งหมด">
 <!ENTITY  shareproxy.accesskey          "s">
-<!ENTITY  autologinproxy.label          "ไม่ต้องขึ้นข้อความพร้อมรับสำหรับการพิสูจน์ ถ้ารหัสผ่านได้รับการบันทึกแล้ว">
+<!ENTITY  autologinproxy.label          "ไม่ต้องถามสำหรับการรับรองความถูกต้องหากรหัสผ่านถูกบันทึกไว้">
 <!ENTITY  autologinproxy.accesskey      "i">
 <!ENTITY  autologinproxy.tooltip        "ตัวเลือกนี้จะทำการพิสูจน์ไปยังพร็อกซี่อย่างเงียบเมื่อคุณได้ทำการบันทึกหลักฐานอ้างอิงไว้แล้ว คุณจะได้รับการเตือนถ้าการพิสูจน์เกิดข้อผิดพลาด">
