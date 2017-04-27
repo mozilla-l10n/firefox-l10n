@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Za aktualizacijemi pytać">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
-<!ENTITY update.updateButton.label2               "&brandShortName; za aktualizowanje znowa startować">
+<!ENTITY update.updateButton.label3               "Startujće znowa, zo byšće &brandShorterName; aktualizował">
 <!ENTITY update.updateButton.accesskey            "k">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
@@ -24,7 +24,7 @@
 <!ENTITY community.exp.middle       " je ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalne zhromadźenstwo,">
-<!ENTITY community.exp.end          "kotrež hromadźe dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchowało.">
+<!ENTITY community.exp.end          " kotrež hromadźe dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchowało.">
 
 <!ENTITY community.start2           "&brandShortName; je so wuwił wot ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -32,7 +32,7 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalne zhromadźenstwo,">
-<!ENTITY community.end3             "kotrež hromadźe dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchowało.">
+<!ENTITY community.end3             " kotrež hromadźe dźěła, zo by web wotewrjeny, zjawny a za wšěch přistupny wobchowało.">
 
 <!ENTITY helpus.start               "Chceće pomhać? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
