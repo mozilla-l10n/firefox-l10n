@@ -4,8 +4,8 @@
 
 <!-- Don't localize these. They're here until they have
      a better place to live. -->
-<!ENTITY syncBrand.fullName.label "Firefox Lonkoo">
-<!ENTITY syncBrand.shortName.label "Lonkoo">
+<!ENTITY syncBrand.fullName.label "Firefox Sync">
+<!ENTITY syncBrand.shortName.label "Sync">
 
 <!-- Main titles. -->
 <!ENTITY sync.title.connect.label 'Lonku ci &syncBrand.shortName.label;'>
@@ -17,6 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Yoruma jumtukaay bi ak man…'>
 
 <!-- Configure Engines -->
+<!ENTITY sync.configure.engines.title.passwords2 'Duggkaay yi'>
 <!ENTITY sync.configure.engines.title.history 'Jaar-jaar'>
 <!ENTITY sync.configure.engines.title.tabs 'Làcc'>
 
@@ -32,6 +33,7 @@
 <!ENTITY bookmarks.folder.places.label ''>
 <!ENTITY bookmarks.folder.tags.label 'Làcc'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bànqaasu màndarga-xët'>
+<!ENTITY bookmarks.folder.other.label 'Yeneen Màndarga-xët'>
 <!ENTITY bookmarks.folder.desktop.label 'Màndarga-xëti bindwaay'>
 <!ENTITY bookmarks.folder.mobile.label 'Màndarga-xëti wootekaay'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
@@ -41,20 +43,22 @@
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
      Firefox. -->
-<!ENTITY fxaccount_back_to_browsing 'Back to browsing'>
+<!ENTITY fxaccount_back_to_browsing 'Wéyal njoow gi'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Welcome to &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_get_started 'Get started'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Dala-jàmm ci &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Duggal ngir lonkale say làcc, màndarga-xët, duggukaay ak yeneen.'>
+<!ENTITY fxaccount_getting_started_get_started 'Tàmbali'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Da ngay jëfandikoo sumb bu yàgg bu &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
-<!ENTITY fxaccount_status_auth_server 'Account server'>
-<!ENTITY fxaccount_status_sync_now 'Sync now'>
-<!ENTITY fxaccount_status_syncing2 'Syncing…'>
-<!ENTITY fxaccount_status_device_name 'Device name'>
-<!ENTITY fxaccount_status_sync_server 'Sync server'>
+<!ENTITY fxaccount_status_signed_in_as 'Dugg nga niki'>
+<!ENTITY fxaccount_status_manage_account 'Yor sa sàq'>
+<!ENTITY fxaccount_status_auth_server 'Sàqu joxekaay'>
+<!ENTITY fxaccount_status_sync_now 'Look léegi'>
+<!ENTITY fxaccount_status_syncing2 'Di lonkoo…'>
+<!ENTITY fxaccount_status_device_name 'Turu jumtukaay bi'>
+<!ENTITY fxaccount_status_sync_server 'Joxekaayu lonkoo'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
-<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
+<!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: doxees'>
 <!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>
 <!ENTITY fxaccount_status_needs_credentials 'Cannot connect. Tap to sign in.'>
 <!ENTITY fxaccount_status_needs_upgrade 'You need to upgrade &brandShortName; to sign in.'>
