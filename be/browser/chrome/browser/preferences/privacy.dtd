@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ахова ад сачэння">
+<!ENTITY  trackingProtection.description       "Сачэнне - гэта калі кампаніі збіраюць інфармацыю пра вас з мэтай стварыць профіль і паказваць змесціва на аснове вашага прагляду і асабістых дадзеных.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Блакаваць паказ змесціва ад вядомых кампаній сачэння">
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
 <!ENTITY  trackingProtectionAlways.accesskey   "З">
