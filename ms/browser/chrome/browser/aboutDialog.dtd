@@ -9,9 +9,9 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Semak kemaskini">
-<!ENTITY update.checkForUpdatesButton.accesskey   "a">
+<!ENTITY update.checkForUpdatesButton.accesskey   "S">
 <!ENTITY update.updateButton.label2               "Mula semula &brandShortName; untuk mendapatkan Kemaskini">
-<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.updateButton.accesskey            "M">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -31,7 +31,7 @@
 <!ENTITY community.start2           "&brandShortName; direka oleh ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          ", satu ">
+<!ENTITY community.middle2          ", a ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "komuniti global">
 <!ENTITY community.end3             " bekerjasama supaya Web ini terbuka kepada umum dan boleh diakses oleh semua.">
