@@ -13,3 +13,4 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "రద్దుచేయి">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "సైటు డేటాను తొలగిస్తున్నాం">
