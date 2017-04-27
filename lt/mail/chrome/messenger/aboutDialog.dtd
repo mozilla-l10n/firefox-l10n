@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Patikrinti ar yra naujinimų">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label2               "Perleiskite „&brandShortName;“, kad būtų įdiegti naujinimai">
+
 <!ENTITY update.updateButton.accesskey            "P">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
