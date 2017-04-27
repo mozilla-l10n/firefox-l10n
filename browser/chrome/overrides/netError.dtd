@@ -46,9 +46,9 @@
 </ul>
 ">
 
-<!ENTITY generic.title "Oei.">
+<!ENTITY generic.title "Oeps.">
 <!ENTITY generic.longDesc "
-<p>&brandShortName; kan om de een of andere reden deze pagina niet laden.</p>
+<p>&brandShortName; kan deze pagina om de een of andere reden niet laden.</p>
 ">
 
 <!ENTITY captivePortal.title "Aanmelden bij netwerk">
@@ -130,7 +130,7 @@
 <!ENTITY redirectLoop.title "De pagina verwijst niet op een juiste manier door">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren 
+  <li>Dit probleem kan soms worden veroorzaakt door het uitschakelen of weigeren
     van cookies.</li>
 </ul>
 ">
@@ -160,7 +160,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "
 <ul>
-  <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het 
+  <li>Misschien is de website tijdelijk niet beschikbaar of overbelast. Probeer het
     over enkele ogenblikken opnieuw.</li>
   <li>Als u geen enkele pagina kunt laden, controleer dan de netwerkverbinding
     van uw computer.</li>
