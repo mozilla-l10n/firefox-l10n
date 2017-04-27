@@ -31,12 +31,13 @@
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Njëlu màndarga-xët'>
 <!ENTITY bookmarks.folder.places.label ''>
-<!ENTITY bookmarks.folder.tags.label 'Làcc'>
+<!ENTITY bookmarks.folder.tags.label 'Tafaan'>
 <!ENTITY bookmarks.folder.toolbar.label 'Bànqaasu màndarga-xët'>
 <!ENTITY bookmarks.folder.other.label 'Yeneen Màndarga-xët'>
 <!ENTITY bookmarks.folder.desktop.label 'Màndarga-xëti bindwaay'>
 <!ENTITY bookmarks.folder.mobile.label 'Màndarga-xëti wootekaay'>
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
+<!ENTITY bookmarks.folder.pinned.label 'Keppees'>
 
 <!-- Firefox Account strings. -->
 
@@ -74,16 +75,19 @@
      external web pages.  Compare fxaccount_policy_{linktos,linkprivacy}:
      these strings are separated to accommodate languages that decline
      the two uses differently. -->
-<!ENTITY fxaccount_status_linktos2 'Anami jëfanfikoo gi'>
+<!ENTITY fxaccount_status_linktos2 'Anami njëfanfikoo gi'>
 <!ENTITY fxaccount_status_linkprivacy2 'Xamaley sutura'>
 <!ENTITY fxaccount_status_more 'Leneen&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Génn&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Génn Sync?'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Njoxeefi say njoow di nañ wéy di des ci bii jumtukaay, waaye dootuñ lonkook sa sàq.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Sàqu Firefox gu &formatS; duggul.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm 'Génn'>
 
 
 <!-- Localization note: this is the name shown by the Android system
@@ -95,30 +99,30 @@
      Account} Screen. The link takes the user to the Firefox Account
      status activity, which lets them manage their Firefox
      Account. -->
-<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Options'>
-<!ENTITY fxaccount_options_configure_title 'Configure &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Tànneef'>
+<!ENTITY fxaccount_options_configure_title 'Jekk-jekkal &syncBrand.shortName.label;'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
      been returned. -->
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'You need to upgrade Firefox'>
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED 'Faww nga yeesal Firefox'>
 
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Account already exists. &formatS1;'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Invalid email or password'>
-<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Account is not verified'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Server busy, try again soon'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Server busy, try again soon'>
-<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'There was a problem'>
-<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Account is locked. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 'Sàq mi am na ba noppi. &formatS1;'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST 'Email walla baatu-jàll bu baaxul'>
+<!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD 'Email walla baatu-jàll bu baaxul'>
+<!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT 'Settantalaguñ sàq mi'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS 'Joxekaay bi daa jàpp, jéemaatal ci kanam'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD 'Joxekaay bi daa jàpp, jéemaatal ci kanam'>
+<!ENTITY fxaccount_remote_error_UNKNOWN_ERROR 'Jafe-jafe la woon'>
+<!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED 'Téye nañ sàq mi. &formatS1;'>
 
-<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; is not connected'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_title2 '&syncBrand.shortName.label; lonkuwul'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_sign_in_error_notification_text2 'Bësal ngir dugg niki &formatS;'>
 
-<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Finish upgrading &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_title 'Aggale yeesalug &syncBrand.shortName.label;?'>
 <!-- Localization note: the format string below will be replaced
      with the Firefox Account's email address. -->
-<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Tap to sign in as &formatS;'>
+<!ENTITY fxaccount_sync_finish_migrating_notification_text 'Bësal ngir dugg niki &formatS;'>

@@ -84,12 +84,13 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; këf">
 <!ENTITY bookmark_folder_one_item "1 këf">
+<!ENTITY bookmark_parent_folder "Waa-juru Wayndare">
 
-<!ENTITY reader_saved_offline "Denc nañ ko ci biti-lonkoo">
+<!ENTITY reader_saved_offline "Dencees ci biti-lonkoo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
-<!ENTITY reader_switch_to_bookmarks "Jàllarbi">
+<!ENTITY reader_switch_to_bookmarks "Dem">
 
 <!ENTITY history_today_section "Tay">
 <!ENTITY history_yesterday_section "Démb">
@@ -213,7 +214,8 @@
 <!ENTITY pref_category_home_homepage "Xët wu njëkk">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_title "Tanal sa xët wu njëkk">
+<!ENTITY home_homepage_every_new_tab "Jëfandikoo ko it ci làcc yu yees yi">
+<!ENTITY home_homepage_title "Tànnnal sa Xët wu njëkk">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
