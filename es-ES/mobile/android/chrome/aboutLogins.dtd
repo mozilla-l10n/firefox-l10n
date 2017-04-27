@@ -6,5 +6,5 @@
 %brandDTD;
 <!ENTITY aboutLogins.title "Inicios de sesión">
 <!ENTITY aboutLogins.update "Actualizar">
-<!ENTITY aboutLogins.emptyLoginText "Mantenga seguras sus credenciales">
-<!ENTITY aboutLogins.emptyLoginHint "Las credenciales que guarde usando &brandShortName; se mostrarán aquí.">
+<!ENTITY aboutLogins.emptyLoginText "Mantenga seguras sus cuentas">
+<!ENTITY aboutLogins.emptyLoginHint "Las cuentas que guarde usando &brandShortName; se mostrarán aquí.">
