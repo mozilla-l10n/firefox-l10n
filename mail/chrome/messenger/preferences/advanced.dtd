@@ -46,7 +46,7 @@
 <!ENTITY telemetryLearnMore.label        "Več o tem">
 
 <!ENTITY crashReporterSection.label      "Poročevalec o sesutju">
-<!ENTITY crashReporterDesc.label         "&brandShortName; pošlje poročila o sesutju, da pomaga &vendorShortName; vašega e-poštnega odjemalca narediti bolj stabilnega in varnega">
+<!ENTITY crashReporterDesc.label         "&brandShortName; pošilja poročila o sesutju, da pomaga organizaciji &vendorShortName; vašega e-poštnega odjemalca narediti stabilnejšega in varnejšega">
 <!ENTITY enableCrashReporter.label       "Omogoči Poročevalca o sesutju">
 <!ENTITY enableCrashReporter.accesskey   "P">
 <!ENTITY crashReporterLearnMore.label    "Več o tem">
