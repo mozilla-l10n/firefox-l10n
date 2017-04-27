@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Дозволи да &brandShortName; и Firefox раде у исто време">
 <!ENTITY useFirefoxSync.label             "Савет: Ово користи одвојене профиле. Користите Sync да делите податке између њих.">
-<!ENTITY getStarted.label                 "Почните да користите Sync…">
+<!ENTITY getStarted.notloggedin.label     "Пријавите се на &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Отворите &syncBrand.shortName.label; поставке">
 
 <!ENTITY e10sEnabled.label                "Омогући вишепроцесни &brandShortName;">
