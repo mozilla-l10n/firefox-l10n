@@ -637,9 +637,14 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; téye na ëmbeef gu wóoradi gi ci wii xët.">
-<!ENTITY mixed_content_blocked_some1 "&brandShortName; téye na yenn ci ëmbeef yu wóoradi yi ci wii xët.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; téye na yenn ci ëmbéef yu wóoradi yi ci wii xët.">
+<!ENTITY mixed_content_display_loaded1 "Yenn ci ëmbéefi wii xët wóoruñ (yu mel ni nataal yi).">
+<!ENTITY mixed_content_protection_disabled1 "Da nga doxadil li lay aar ci ëmbéef yu wóorul.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Kaaraange Lank-toppaate">
+<!ENTITY doorhanger_tracking_state_enabled "Doxalees">
+<!ENTITY doorhanger_tracking_state_disabled "Doxadilees">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "Learn More">
