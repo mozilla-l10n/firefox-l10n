@@ -22,5 +22,5 @@
 <!ENTITY useMasterPassword.accesskey "s">
 <!ENTITY changeMasterPassword.label "Cambiar contraseña maestra…">
 <!ENTITY changeMasterPassword.accesskey "M">
-<!ENTITY savedLogins.label "Credenciales guardadas…">
+<!ENTITY savedLogins.label "Cuentas guardadas…">
 <!ENTITY savedLogins.accesskey "C">
