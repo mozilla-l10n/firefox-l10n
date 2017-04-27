@@ -76,6 +76,8 @@
 <!ENTITY useCacheBefore.label "Używaj maksymalnie">
 <!ENTITY useCacheBefore.accesskey "m">
 <!ENTITY useCacheAfter.label "MB miejsca dla pamięci podręcznej">
+<!ENTITY overrideSmartCacheSize.label "Używaj ręcznego zarządzania pamięcią podręczną">
+<!ENTITY overrideSmartCacheSize.accesskey "r">
 <!ENTITY clearCacheNow.label "Wyczyść teraz">
 <!ENTITY clearCacheNow.accesskey "W">
 
