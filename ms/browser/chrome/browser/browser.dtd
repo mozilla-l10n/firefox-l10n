@@ -20,16 +20,16 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Muat Semula Tab">
-<!ENTITY  reloadTab.accesskey                "u">
+<!ENTITY  reloadTab.accesskey                "M">
 <!ENTITY  reloadAllTabs.label                "Muat Semula Semua Tab">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "S">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "Tutup Tab ke Kanan">
-<!ENTITY  closeTabsToTheEnd.accesskey        "T">
+<!ENTITY  closeTabsToTheEnd.accesskey        "k">
 <!ENTITY  closeOtherTabs.label               "Tutup Tab Lain">
-<!ENTITY  closeOtherTabs.accesskey           "T">
+<!ENTITY  closeOtherTabs.accesskey           "u">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -43,15 +43,15 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.label              "Hantar Tab Ke Peranti">
 <!ENTITY  sendTabToDevice.accesskey          "b">
 <!ENTITY  sendPageToDevice.label             "Hantar Halaman ke Peranti">
-<!ENTITY  sendPageToDevice.accesskey         "k">
+<!ENTITY  sendPageToDevice.accesskey         "P">
 <!ENTITY  sendLinkToDevice.label             "Hantar Pautan ke Peranti">
-<!ENTITY  sendLinkToDevice.accesskey         "a">
+<!ENTITY  sendLinkToDevice.accesskey         "P">
 <!ENTITY  moveToNewWindow.label              "Pindah ke Tetingkap Baru">
-<!ENTITY  moveToNewWindow.accesskey          "n">
+<!ENTITY  moveToNewWindow.accesskey          "T">
 <!ENTITY  bookmarkAllTabs.label              "Tandabuku Semua Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.label                 "Kembalikan Tab Ditutup">
-<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  undoCloseTab.accesskey             "K">
 <!ENTITY  closeTab.label                     "Tutup Tab">
 <!ENTITY  closeTab.accesskey                 "b">
 
@@ -65,14 +65,14 @@ displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
 <!ENTITY openLocationCmd.label "Buka Lokasi…">
 <!ENTITY openFileCmd.label "Buka Fail…">
-<!ENTITY openFileCmd.accesskey "F">
+<!ENTITY openFileCmd.accesskey "B">
 <!ENTITY openFileCmd.commandkey "b">
 <!ENTITY printSetupCmd.label "Tatacara Halaman…">
 <!ENTITY printSetupCmd.accesskey "T">
 <!ENTITY printPreviewCmd.label "Previu Cetakan">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Cetak…">
-<!ENTITY printCmd.accesskey "k">
+<!ENTITY printCmd.accesskey "C">
 <!ENTITY printCmd.commandkey "c">
 
 <!ENTITY goOfflineCmd.label "Kerja Luar Talian">
