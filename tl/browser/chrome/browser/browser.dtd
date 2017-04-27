@@ -362,11 +362,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "I-load ang Imahe muli">
 <!ENTITY reloadImageCmd.accesskey     "l">
-<!ENTITY viewImageCmd.label           "Tanawan ang Imahe">
+<!ENTITY viewImageCmd.label           "Tingnan ang Imahe">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "Ipakita ang imahe at impormasyon">
 <!ENTITY viewImageInfoCmd.accesskey   "i">
-<!ENTITY viewVideoCmd.label           "Tanawan ang Bidyo">
+<!ENTITY viewVideoCmd.label           "Tingnan ang Video">
 <!ENTITY viewVideoCmd.accesskey       "i">
 <!ENTITY viewBGImageCmd.label         "Ipakita ang Background Image">
 <!ENTITY viewBGImageCmd.accesskey     "k">
