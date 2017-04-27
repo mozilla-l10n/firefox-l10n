@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Tot">
 <!ENTITY useCacheBefore.accesskey        "T">
 <!ENTITY useCacheAfter.label             "MB ruimte gebruiken voor de buffer">
+<!ENTITY overrideSmartCacheSize.label    "Automatisch bufferbeheer negeren">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 <!ENTITY clearCacheNow.label             "Nu wissen">
 <!ENTITY clearCacheNow.accesskey         "w">
 
