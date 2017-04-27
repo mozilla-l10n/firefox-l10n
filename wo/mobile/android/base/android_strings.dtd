@@ -244,6 +244,7 @@
 
 <!ENTITY pref_cookies_menu "Cookies">
 <!ENTITY pref_cookies_accept_all "Doxalees">
+<!ENTITY pref_cookies_not_accept_foreign "Doxalees, ba mu des yi jóge ci ñeneen">
 <!ENTITY pref_cookies_disabled "Doxadilees">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -280,9 +281,13 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Ubbi ci &formatS;">
+<!ENTITY custom_tabs_menu_footer "Liggéeyu &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Duppees nañ URL bi">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "Walug yëngu-yëngu">
 
 <!ENTITY tracking_protection_prompt_title "Leegi ak kaaraangeeg lank-toppaate">
 <!ENTITY tracking_protection_prompt_text "Ñi lay jéem a topp dañ leen di téye, kon amoo lenn looy jaaxle.">
@@ -482,6 +487,7 @@
 <!ENTITY contextmenu_open_private_tab "Ubbi ci làccu sutura">
 <!ENTITY contextmenu_remove "Far">
 <!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru njëlbeen bi">
+<!ENTITY contextmenu_set_as_homepage "Def ko sa Xët wu Njëkk">
 <!ENTITY contextmenu_share "Séddoo">
 <!ENTITY contextmenu_pasteandgo "Taf te ubbi">
 <!ENTITY contextmenu_paste "Taf">
@@ -587,24 +593,25 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Dellu ci &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; devices hidden">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; jumtukaay lees nëbb">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
-<!ENTITY home_remote_tabs_hidden_devices_title "Hidden devices">
+<!ENTITY home_remote_tabs_hidden_devices_title "Jumtukaay yees nëbb">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
-<!ENTITY home_remote_tabs_unhide_selected_devices "Unhide selected devices">
+<!ENTITY home_remote_tabs_unhide_selected_devices "Wone jumtukaay yees fal">
 
-<!ENTITY remote_tabs_panel_moved_title "Where did my tabs go?">
-<!ENTITY remote_tabs_panel_moved_desc "We\&apos;ve moved your tabs from other devices into a panel on your home page that can be easily accessed every time you open a new tab.">
-<!ENTITY remote_tabs_panel_moved_link "Take me to my new panel.">
+<!ENTITY remote_tabs_panel_moved_title "Fan la samay làcc dem?">
+<!ENTITY remote_tabs_panel_moved_desc "">
+<!ENTITY remote_tabs_panel_moved_link "">
 
-<!ENTITY pin_site_dialog_hint "Enter a search keyword">
+<!ENTITY pin_site_dialog_hint "Duggalal lenn looy seet">
 
 <!ENTITY filepicker_title "Tànn benn dencukaay">
 <!ENTITY filepicker_audio_title "Tànn walla aar benn riir">
@@ -624,8 +631,13 @@ The layout of the identity dialog prevents combining this into a single string w
 substitution variables.  If it is difficult to translate the sense of the string
 with that structure, consider a translation which ignores the preceding domain and
 just addresses the organization to follow, e.g. "This site is run by " -->
+<!ENTITY identity_connection_secure "Lonkoo gu wóor">
+<!ENTITY identity_connection_insecure "Lonkoo gu wóoradi">
+<!ENTITY identity_connection_chromeui "Lii xëtu &brandShortName; gu wóor la">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; téye na ëmbeef gu wóoradi gi ci wii xët.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; téye na yenn ci ëmbeef yu wóoradi yi ci wii xët.">
 
 <!-- Tracking content notifications in site identity popup -->
 
