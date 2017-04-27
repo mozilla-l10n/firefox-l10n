@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "بررسی برای بروزرسانی‌ها">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ب">
-<!ENTITY update.updateButton.label2               "برای انجام بروزرسانی، &brandShortName; را دوباره راه‌اندازی کنید">
+
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
