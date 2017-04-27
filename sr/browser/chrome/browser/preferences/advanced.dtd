@@ -114,6 +114,7 @@
 <!ENTITY offlineAppRemove.confirm        "Уклони податке о сајту">
 
 <!ENTITY certificateTab.label            "Сертификати">
+<!ENTITY certPersonal2.description       "Када сервер затражи ваш лични сертификат">
 <!ENTITY selectCerts.auto                "Изабери један аутоматски">
 <!ENTITY selectCerts.auto.accesskey      "ј">
 <!ENTITY selectCerts.ask                 "Питај ме сваки пут">

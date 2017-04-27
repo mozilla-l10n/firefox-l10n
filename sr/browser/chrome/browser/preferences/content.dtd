@@ -21,6 +21,8 @@
 
 <!ENTITY  fontsAndColors.label        "Фонт и боје">
 
+<!ENTITY  defaultFont2.label          "Подразумевани фонт">
+<!ENTITY  defaultSize2.label          "Величина">
 
 <!ENTITY  advancedFonts.label         "Напредна…">
 <!ENTITY  advancedFonts.accesskey     "Н">
