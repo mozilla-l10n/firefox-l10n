@@ -293,7 +293,7 @@
 <!ENTITY pref_activity_stream_summary "풍부한 시각적인 방문 내역 피드와 재구성된 홈 페이지를 통해 &brandShortName; 에서 여러분의 진짜로 기대하는 것을 더 쉽게 찾을 수 있도록 만들어줍니다.">
 
 <!ENTITY tracking_protection_prompt_title "추적 방지 시작">
-<!ENTITY tracking_protection_prompt_text "적극적으로 추척 요소들을 차단합니다. 더 이상 걱정할 필요 없습니다.">
+<!ENTITY tracking_protection_prompt_text "적극적으로 추적 요소들을 차단합니다. 더 이상 걱정할 필요 없습니다.">
 <!ENTITY tracking_protection_prompt_tip_text "더 자세한 내용은 사생활 설정에서 확인하세요">
 <!ENTITY tracking_protection_prompt_action_button "알겠습니다!">
 
