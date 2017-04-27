@@ -30,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "Адрасны радок">
 
+<!ENTITY  locbar.suggest2.label         "Пры выкарыстанні адраснага радка, прапаноўваць">
 <!ENTITY  locbar.history.label          "Гісторыю">
 <!ENTITY  locbar.history.accesskey      "Г">
 <!ENTITY  locbar.bookmarks.label        "Закладкі">
@@ -39,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "Звязаныя запыты з прадвызначанага пашукавіка">
 <!ENTITY  locbar.searches.accesskey     "в">
 
+<!ENTITY  suggestionSettings2.label     "Змяніць налады для падказак пашукавіка">
 
 <!ENTITY  acceptCookies.label           "Прымаць кукі з сайтаў">
 <!ENTITY  acceptCookies.accesskey       "П">
