@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Χρήση μέχρι">
 <!ENTITY useCacheBefore.accesskey        "μ">
 <!ENTITY useCacheAfter.label             "MB χώρου για την προσωρινή μνήμη">
+<!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης λανθάνουσας μνήμης">
+<!ENTITY overrideSmartCacheSize.accesskey "ω">
 <!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
 <!ENTITY clearCacheNow.accesskey         "θ">
 
