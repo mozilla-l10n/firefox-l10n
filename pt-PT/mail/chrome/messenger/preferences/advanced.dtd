@@ -89,8 +89,8 @@
 <!ENTITY useCacheBefore.label            "Utilizar até">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espaço para cache">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Sobrepor gestão automática da cache">
+<!ENTITY overrideSmartCacheSize.accesskey "o">
 <!ENTITY clearCacheNow.label             "Limpar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 <!-- Certificates -->
