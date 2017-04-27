@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Заштита од праћења">
+<!ENTITY  trackingProtection.description       "Праћење је када компаније сакупљају информације о вама како би направили профил и приказали вам садржај заснован на вашем прегледању и личним подацима.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Блокирајте приказивање садржаја компанија познатих по праћењу">
 <!ENTITY  trackingProtectionAlways.label       "Увек">
 <!ENTITY  trackingProtectionAlways.accesskey   "У">
 <!ENTITY  trackingProtectionPrivate.label      "Само у приватним прозорима">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Адресна трака">
 
+<!ENTITY  locbar.suggest2.label         "Када користим траку локације, предложи">
 <!ENTITY  locbar.history.label          "Историјат">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Забелешке">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Повезане претраге са подразумеваног претраживача">
 <!ENTITY  locbar.searches.accesskey     "п">
 
+<!ENTITY  suggestionSettings2.label     "Измени поставке предлога претраживања">
 
 <!ENTITY  acceptCookies.label           "Прихватај колачиће са сајтова">
 <!ENTITY  acceptCookies.accesskey       "к">
@@ -60,6 +65,7 @@
 <!ENTITY  showCookies.label             "Прикажи колачиће…">
 <!ENTITY  showCookies.accesskey         "л">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ће">
 <!ENTITY  historyHeader.remember.label     "бележи историјат">
 <!ENTITY  historyHeader.dontremember.label "никада не бележи историјат">
 <!ENTITY  historyHeader.custom.label       "користи посебна подешавања за историјат">
