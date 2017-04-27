@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Procurar atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label2               "Reinicie o &brandShortName; para atualizar">
+<!ENTITY update.updateButton.label3               "Reiniciar para atualizar o &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
