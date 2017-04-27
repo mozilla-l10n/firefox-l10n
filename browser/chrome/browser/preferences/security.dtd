@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Безбедност">
 
 <!ENTITY  warnOnAddonInstall.label        "Упозори ме ако сајтови пробају да инсталирају додатке">
 <!ENTITY  warnOnAddonInstall.accesskey    "У">
@@ -23,7 +24,9 @@
 <!ENTITY  addonExceptions.accesskey     "И">
 
 
+<!ENTITY  formsAndPasswords.label       "Форме и лозинке">
 
+<!ENTITY  rememberLogins1.label          "Запамти пријаве и лозинке за веб сајтове">
 <!ENTITY  passwordExceptions.label      "Изузеци">
 <!ENTITY  passwordExceptions.accesskey  "е">
 

@@ -6,6 +6,7 @@
 <!ENTITY     hostCol.label                 "Веб сајт">
 <!ENTITY     statusCol.label               "Статус">
 <!ENTITY     usageCol.label                "Складиште">
+<!ENTITY     searchTextboxPlaceHolder             "Претражи веб сајтове">
 <!ENTITY     removeSelected.label          "Уклони изабрани">
 <!ENTITY     removeSelected.accesskey      "У">
 <!ENTITY     save.label                    "Сачувај промене">
@@ -13,4 +14,5 @@
 <!ENTITY     cancel.label                  "Откажи">
 <!ENTITY     cancel.accesskey              "к">
 <!ENTITY     removingDialog.title          "Избриши податке сајта">
+<!ENTITY     removingSelected.description  "Брисањем података сајта ћете такође обрисати и повезане колачиће и ванмрежни садржај. Ово ће вас можда одјавити са сајтова. Да ли сте сигурни да желите да наставите?">
 <!ENTITY     siteTree.label                "Следећи колачићи веб сајта ће бити обрисани:">

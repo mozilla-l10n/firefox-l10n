@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "Резултати претраге">
 <!ENTITY  paneGeneral.title             "Опште">
+<!ENTITY  paneFilesApplications.title   "Датотеке и апликације">
+<!ENTITY  panePrivacySecurity.title     "Приватност и безбедност">
 <!ENTITY  paneContainers.title          "Контејнер језичци">
+<!ENTITY  paneUpdates.title             "Ажурирања">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox налог">
 
+<!ENTITY  helpButton2.label        "&brandShortName; подршка">
 
+<!ENTITY  searchInput.label        "Претражи">
