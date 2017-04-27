@@ -15,4 +15,5 @@
 <!ENTITY     cancel.label                  "Скасаваць">
 <!ENTITY     cancel.accesskey              "С">
 <!ENTITY     removingDialog.title          "Выдаліць дадзеныя сайта">
+<!ENTITY     removingSelected.description  "Выдаленне дадзеных сайтаў таксама выдаліць звязаныя кукі і аўтаномнае вэб-змесціва. Гэта можа прывесці да вашага выхаду з вэб-сайтаў. Вы сапраўды хочаце зрабіць змены?">
 <!ENTITY     siteTree.label                "Будуць выдалены наступныя кукі вэб-сайтаў:">
