@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Za aktualizacijami pytaś">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
-<!ENTITY update.updateButton.label2               "&brandShortName; za aktualizěrowanje znowego startowaś">
+
 <!ENTITY update.updateButton.accesskey            "k">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
@@ -21,10 +21,10 @@
 <!ENTITY community.exp.start        "">
 <!-- LOCALIZATION NOTE (community.exp.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.exp.mozillaLink  "&vendorShortName;">
-<!ENTITY community.exp.middle       " jo ">
+<!ENTITY community.exp.middle       " jo ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalne zgromaźeństwo,">
-<!ENTITY community.exp.end          "kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
+<!ENTITY community.exp.end          " kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
 
 <!ENTITY community.start2           "&brandShortName; jo se wuwił wót ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -32,12 +32,12 @@
 <!ENTITY community.middle2          ", ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalne zgromaźeństwo,">
-<!ENTITY community.end3             "kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
+<!ENTITY community.end3             " kótarež gromaźe źěła, aby web wótwórjony, zjawny a za wšych pśistupny wobchowało.">
 
 <!ENTITY helpus.start               "Cośo pomagaś? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Pósćiś">
-<!ENTITY helpus.middle              " abo ">
+<!ENTITY helpus.middle              " abo ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "cyńśo sobu!">
 <!ENTITY helpus.end                 "">
