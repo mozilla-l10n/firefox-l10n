@@ -912,7 +912,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "Сцягніце новую версію &brandShorterName; і мы дапаможам вам яе ўсталяваць.">
 <!ENTITY updateManual.whatsnew.label "Што новага.">
-<!ENTITY updateManual.header.message "&BrandShorterName; не можа абнавіцца да апошняй версіі.">
+<!ENTITY updateManual.header.message "&brandShorterName; не можа абнавіцца да апошняй версіі.">
 <!ENTITY updateManual.acceptButton.label "Сцягнуць &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "С">
 <!ENTITY updateManual.cancelButton.label "Не цяпер">
