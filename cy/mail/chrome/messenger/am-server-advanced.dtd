@@ -12,9 +12,9 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "Uchafswm cysylltiadau gweinydd i'r storfa">
 <!ENTITY maximumConnectionsNumber.accesskey "U">
-
+<!ENTITY forceSelect.label "Anfon dewis IMAP i'r gweinydd wrth wirio am e-byst newydd">
 <!ENTITY forceSelect.tooltip "Mae rhai gweinyddion angen dewis IMAP ychwanegol fel bod e-bost yn cael ei dderbyn yn gyson, neu yn cael ei ddangos wedi ei ddarllen ar ddyfais arall. Bydd gwneud y dewis hwn yn achosi rhywfaint o gynnydd mewn traffig rhwydwaith.">
-
+<!ENTITY forceSelect.accesskey "A">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Mae'r dewisiadau yn pennu bwlchenw ar eich gweinydd IMAP">
 <!ENTITY personalNamespace.label "Bwlchenw personol:">

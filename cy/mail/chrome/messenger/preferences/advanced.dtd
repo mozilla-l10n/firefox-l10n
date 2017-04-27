@@ -89,8 +89,8 @@
 <!ENTITY useCacheBefore.label            "Defnyddio hyd at">
 <!ENTITY useCacheBefore.accesskey        "D">
 <!ENTITY useCacheAfter.label             "MB o le disg ar gyfer y storfa">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Anwybyddu rheolaeth storfa awtomatig">
+<!ENTITY overrideSmartCacheSize.accesskey "A">
 <!ENTITY clearCacheNow.label             "Clirio Nawr">
 <!ENTITY clearCacheNow.accesskey         "N">
 <!-- Certificates -->
