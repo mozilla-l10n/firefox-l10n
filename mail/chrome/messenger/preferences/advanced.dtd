@@ -89,8 +89,8 @@
 <!ENTITY useCacheBefore.label            "استخدم حتى">
 <!ENTITY useCacheBefore.accesskey        "ى">
 <!ENTITY useCacheAfter.label             "م.بايت من المساحة للذاكرة المخبأة">
-
-
+<!ENTITY overrideSmartCacheSize.label    "تخطَّ الإدارة الآلية للذاكرة الخبيئة">
+<!ENTITY overrideSmartCacheSize.accesskey "ذ">
 <!ENTITY clearCacheNow.label             "امسح الآن">
 <!ENTITY clearCacheNow.accesskey         "ح">
 <!-- Certificates -->
