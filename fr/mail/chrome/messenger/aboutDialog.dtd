@@ -8,6 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Rechercher des mises à jour">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
+<!ENTITY update.updateButton.label3               "Redémarrer pour mettre à jour &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
