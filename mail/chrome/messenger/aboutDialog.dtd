@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Frissítések keresése">
 <!ENTITY update.checkForUpdatesButton.accesskey   "F">
-<!ENTITY update.updateButton.label2               "&brandShortName; újraindítása a frissítéshez">
+
 <!ENTITY update.updateButton.accesskey            "r">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
