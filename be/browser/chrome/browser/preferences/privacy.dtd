@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ахова ад сачэння">
+<!ENTITY  trackingProtection.radioGroupLabel   "Блакаваць паказ змесціва ад вядомых кампаній сачэння">
 <!ENTITY  trackingProtectionAlways.label       "Заўсёды">
 <!ENTITY  trackingProtectionAlways.accesskey   "З">
 <!ENTITY  trackingProtectionPrivate.label      "Толькі ў прыватных вокнах">
