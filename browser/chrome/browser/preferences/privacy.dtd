@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Заштита од праћења">
 <!ENTITY  trackingProtection.description       "Праћење је када компаније сакупљају информације о вама како би направили профил и приказали вам садржај заснован на вашем прегледању и личним подацима.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Блокирајте приказивање садржаја компанија познатих по праћењу">
+<!ENTITY  trackingProtection.radioGroupLabel   "Блокирај приказивање садржаја компанија познатих по праћењу">
 <!ENTITY  trackingProtectionAlways.label       "Увек">
 <!ENTITY  trackingProtectionAlways.accesskey   "У">
 <!ENTITY  trackingProtectionPrivate.label      "Само у приватним прозорима">
@@ -65,7 +65,7 @@
 <!ENTITY  showCookies.label             "Прикажи колачиће…">
 <!ENTITY  showCookies.accesskey         "л">
 
-<!ENTITY  historyHeader2.pre.label         "&brandShortName; ће">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;:">
 <!ENTITY  historyHeader.remember.label     "бележи историјат">
 <!ENTITY  historyHeader.dontremember.label "никада не бележи историјат">
 <!ENTITY  historyHeader.custom.label       "користи посебна подешавања за историјат">
