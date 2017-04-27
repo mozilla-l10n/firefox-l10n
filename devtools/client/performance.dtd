@@ -46,11 +46,11 @@
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 <!ENTITY performanceUI.table.totalDuration            "זמן כולל">
-<!ENTITY performanceUI.table.totalDuration.tooltip    "כמות הזמן שנוצלה לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
+<!ENTITY performanceUI.table.totalDuration.tooltip    "כמות הזמן שנוצל לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
 <!ENTITY performanceUI.table.selfDuration             "זמן עצמי">
-<!ENTITY performanceUI.table.selfDuration.tooltip     "כמות הזמן שנוצלה לטובת הפונקציה הזאת.">
+<!ENTITY performanceUI.table.selfDuration.tooltip     "כמות הזמן שנוצל לטובת הפונקציה הזאת.">
 <!ENTITY performanceUI.table.totalPercentage          "עלות כוללת">
-<!ENTITY performanceUI.table.totalPercentage.tooltip  "אחוז הזמן שנוצלה לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
+<!ENTITY performanceUI.table.totalPercentage.tooltip  "אחוז הזמן שנוצל לטובת הפונקציה הזאת והפונקציות שאליהן היא קוראת.">
 <!ENTITY performanceUI.table.selfPercentage           "עלות עצמית">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "אחוז הזמן שנוצל לטובת הפונקציה הזו.">
 <!ENTITY performanceUI.table.samples                  "דגימות">
