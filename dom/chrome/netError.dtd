@@ -29,7 +29,7 @@
 <!ENTITY malformedURI.longDesc "<p>Adresa (URL) není platná a nelze ji načíst. Zkontrolujte prosím, zda je adresa napsána správně.</p>">
 
 <!ENTITY netInterrupt.title "Přenos dat přerušen">
-<!ENTITY netInterrupt.longDesc "<p>Podařilo se připojit k serveru, ale spojení bylo v průběhu přenosu přerušeno. Opakujte akci.</p><ul><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení svého počítače.</li><li>Pokud problém přetrvává, konzultujte jej se správce vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>Podařilo se připojit k serveru, ale spojení bylo v průběhu přenosu přerušeno. Opakujte akci.</p><ul><li>Nemůžete-li prohlížet i ostatní stránky, zkontrolujte síťové připojení svého počítače.</li><li>Pokud problém přetrvává, poraďte se se správce vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY notCached.title "Platnost dokumentu vypršela">
 <!ENTITY notCached.longDesc "<p>Požadovaný dokument už není dostupný v mezipaměti aplikace.</p><ul><li>Z bezpečnostních důvodů nejsou důvěrné dokumenty automaticky stahovány.</li><li>Pro opětovné stažení dokumentu z webového serveru klepněte na tlačítko „Zkusit znovu“.</li></ul>">
@@ -51,16 +51,16 @@
 <!ENTITY netReset.longDesc "<p>Spojení bylo v průběhu otevírání komunikačního kanálu se serverem neočekávaně přerušeno. Opakujte akci.</p>">
 
 <!ENTITY netTimeout.title "Vypršel čas na spojení">
-<!ENTITY netTimeout.longDesc "<p>Požadovaný server neodpověděl na požadavek o připojení a prohlížeč ukončil čekání na tuto odpověď.</p><ul><li>Server může být velmi vytížen; Opakujte akci později.</li><li>Je možné, že se jedná o síťový problém mezi vaším počítačem a serverem.</li><li>Pokud problém přetrvává, konzultujte jej se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Požadovaný server neodpověděl na požadavek o připojení a prohlížeč ukončil čekání na tuto odpověď.</p><ul><li>Server může být velmi vytížen; Opakujte akci později.</li><li>Je možné, že se jedná o síťový problém mezi vaším počítačem a serverem.</li><li>Pokud problém přetrvává, poraďte se se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Neznámý protokol">
 <!ENTITY unknownProtocolFound.longDesc "<p>Adresu (URL) určuje protokol (např. <q>wxyz://</q>), který nebyl prohlížečem rozpoznán, a proto se k ní nemůže korektně připojit.</p><ul><li>Zkoušíte přistupovat k multimédiím či jiné netextové službě? Podívejte se, jaké další věci stránka vyžaduje.</li><li>Některé protokoly mohou vyžadovat software třetích stran nebo zásuvné moduly dříve, než je prohlížeč může rozpoznat.</li></ul>">
 
 <!ENTITY proxyConnectFailure.title "Proxy server odmítl spojení">
-<!ENTITY proxyConnectFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který odmítl spojení.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Je možné, že proxy server nepovoluje připojení z vaší sítě.</li><li>Pokud problém přetrvává, konzultujte jej se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
+<!ENTITY proxyConnectFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který odmítl spojení.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Je možné, že proxy server nepovoluje připojení z vaší sítě.</li><li>Pokud problém přetrvává, poraďte se se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY proxyResolveFailure.title "Proxy server nenalezen">
-<!ENTITY proxyResolveFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který nemohl být nalezen.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Pokud problém přetrvává, konzultujte jej se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
+<!ENTITY proxyResolveFailure.longDesc "<p>Prohlížeč je nakonfigurován k použití proxy serveru, který nemohl být nalezen.</p><ul><li>Zkontrolujte v prohlížeči nastavení proxy serveru a opakujte akci.</li><li>Pokud problém přetrvává, poraďte se se správcem vaší sítě, nebo poskytovatelem připojení k internetu.</li></ul>">
 
 <!ENTITY redirectLoop.title "Smyčka při přesměrování">
 <!ENTITY redirectLoop.longDesc "<p>Prohlížeč ukončil spojení, protože server přesměrovává požadavky na tuto adresu sám na sebe, a to takovým způsobem, který zabraňuje jejich dokončení.</p><ul><li>Je možné, že stránka vyžaduje ukládání cookies, které máte zakázané nebo je pro tento server blokujete.</li><li>Většinou se ale jedná o problém konfigurace serveru a <em>není</em> to tak problém vašeho počítače.</li></ul>">
