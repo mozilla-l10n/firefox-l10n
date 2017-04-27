@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Bilatu eguneraketak">
 <!ENTITY update.checkForUpdatesButton.accesskey   "B">
-<!ENTITY update.updateButton.label2               "Berrabiarazi &brandShortName; eguneratzeko">
+
 <!ENTITY update.updateButton.accesskey            "B">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
