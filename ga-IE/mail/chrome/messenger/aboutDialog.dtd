@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Lorg Nuashonruithe">
 <!ENTITY update.checkForUpdatesButton.accesskey   "L">
-<!ENTITY update.updateButton.label2               "Atosaigh &brandShortName; chun é a nuashonrú">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
