@@ -34,7 +34,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "Pagina de start">
 <!ENTITY aboutSupport.experimentBranch "Ramură">
 
-<!ENTITY aboutSupport.appBasicsTitle "Informații de bază despre aplicație">
+<!ENTITY aboutSupport.appBasicsTitle "Informații de bază privind aplicația">
 <!ENTITY aboutSupport.appBasicsName "Nume">
 <!ENTITY aboutSupport.appBasicsVersion "Versiune">
 <!ENTITY aboutSupport.appBasicsBuildID "ID-ul versiunii compilate">

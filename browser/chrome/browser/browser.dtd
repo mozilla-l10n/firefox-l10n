@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "Sursa paginii">
 <!ENTITY pageSourceCmd.accesskey "u">
 <!ENTITY pageSourceCmd.commandkey "u">
-<!ENTITY pageInfoCmd.label "Informații despre pagină">
+<!ENTITY pageInfoCmd.label "Informații privind pagina">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "Duplică fila">
@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Autentifică-te la &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Deschide preferințele &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Deschide preferințele pentru &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Reconectare la &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Verifică-ți contul">
 
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Tipărește">
 <!ENTITY printButton.tooltip          "Tipărește această pagină">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Vezi informații despre site">
+<!ENTITY urlbar.viewSiteInfo.label                      "Vezi informații privind site-ul">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Deschide panoul cu mesaje">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Deschide panoul cu cereri de locație">
@@ -502,9 +502,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Vezi sursa cadrului">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Vezi informații despre pagină">
+<!ENTITY viewPageInfoCmd.label        "Vezi informații privind pagina">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Vezi informații despre cadru">
+<!ENTITY viewFrameInfoCmd.label       "Vezi informații privind cadrul">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Reîncarcă imaginea">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -761,7 +761,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Dorești să vezi filele de pe celelalte dispozitive aici?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Autentifică-te pentru a vedea o listă de file de pe celelalte dispozitive.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Nicio filă deschisă">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Deschide preferințele pentru &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Activează sincronizarea filelor pentru a vedea o listă de file de celelalte dispozitive ale tale.">
