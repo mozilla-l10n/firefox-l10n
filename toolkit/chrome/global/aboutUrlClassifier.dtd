@@ -9,14 +9,14 @@
 
 
 
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Passar við">
+
+<!ENTITY aboutUrlClassifier.lookupLookup                "Uppfletting">
 
 
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Minni">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Gagnagrunnur">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Kemba">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Setja einingar fyrir skráningu">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Setja skráningarskrá">
