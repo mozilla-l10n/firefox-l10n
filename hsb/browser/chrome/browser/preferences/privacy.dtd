@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Slědowanski škit">
-
-
+<!ENTITY  trackingProtection.description       "Slědowanje je, hdyž předewzaća daty wo was hromadźa, zo bychu profil wutworili a wobsah na zakładźe wašeho přehladowanja a wosobinskich datow zwobraznili.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Znate slědowace předewzaća při zwobraznjenju wobsaha haćić">
 <!ENTITY  trackingProtectionAlways.label       "Přeco">
 <!ENTITY  trackingProtectionAlways.accesskey   "c">
 <!ENTITY  trackingProtectionPrivate.label      "Jenož w priwatnych woknach">
