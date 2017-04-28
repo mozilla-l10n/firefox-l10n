@@ -27,9 +27,9 @@
 <!ENTITY view.sortDescending.label      "Ticholajïx Z > A">
 <!ENTITY view.sortDescending.accesskey  "Z">
 
-<!ENTITY importBookmarksFromHTML.label     "Kek'am pe taq etal pa…">
+<!ENTITY importBookmarksFromHTML.label     "Kek'am pe taq yaketal pa HTML…">
 <!ENTITY importBookmarksFromHTML.accesskey "K">
-<!ENTITY exportBookmarksToHTML.label       "Kek'wäx el taq etal pa HTML…">
+<!ENTITY exportBookmarksToHTML.label       "Kek'wäx el taq yaketal pa HTML…">
 <!ENTITY exportBookmarksToHTML.accesskey   "K">
 <!ENTITY importOtherBrowser.label          "Kejik' pe taq tzij richin junchik okik'amaya'l…">
 <!ENTITY importOtherBrowser.accesskey      "j">
@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "K'ak'a'  jachöy">
 <!ENTITY cmd.new_separator.accesskey       "j">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Kesamajib'ëx silonel taq etal">
+<!ENTITY cmd.reloadLivebookmark.label      "Kesamajib'ëx silonel taq yaketal">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "K">
 
 <!ENTITY cmd.moveBookmarks.label                  "Tijech'ëx…">

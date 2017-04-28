@@ -20,9 +20,9 @@
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
 
-<!ENTITY btnPageNet.label   "k'amab'ey">
+<!ENTITY btnPageNet.label   "K'amab'ey">
 <!ENTITY btnPageNet.tooltip "Tiq'alajisäx okem pa k'amab'ey">
-<!ENTITY btnPageNet.accesskey "k">
+<!ENTITY btnPageNet.accesskey "K">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network
   -  logging output. On MacOSX accesskeys are available with Ctrl-*. Please make
@@ -43,13 +43,13 @@
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
 
-<!ENTITY btnPageLogging.label   "Tz'ib'axïk">
+<!ENTITY btnPageLogging.label   "Tajin nitz'ib'äx">
 <!ENTITY btnPageLogging.tooltip "Keq'alajisäx rutzijol taq taqoj etaqon pa ri window.console wachinäq">
 <!ENTITY btnPageLogging.accesskey3 "K">
 <!ENTITY btnConsoleErrors       "Taq sachoj">
 <!ENTITY btnConsoleInfo         "Etamab'äl">
 <!ENTITY btnConsoleWarnings     "Kitzijol k'ayewal">
-<!ENTITY btnConsoleLog          "Tz'ib'axïk">
+<!ENTITY btnConsoleLog          "Titikirisäx molojri'ïl">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Taq qajnäq">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -62,7 +62,7 @@
 <!ENTITY btnServerErrors              "Taq sachoj">
 <!ENTITY btnServerInfo                "Etamab'äl">
 <!ENTITY btnServerWarnings            "Kitzijol k'ayewal">
-<!ENTITY btnServerLog                 "Tz'ib'axïk">
+<!ENTITY btnServerLog                 "Titikirisäx molojri'ïl">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 
@@ -88,7 +88,7 @@
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.commandkey    "0">
-<!ENTITY fullZoomResetCmd.commandkey2   "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY copyURLCmd.label     "Ruwachib'exik rub'ey ximon tzij">
 <!ENTITY copyURLCmd.accesskey "i">

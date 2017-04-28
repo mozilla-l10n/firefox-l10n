@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "T">
 <!ENTITY deleteCmd.label           "Tiyuj">
 <!ENTITY deleteCmd.accesskey       "T">
-<!ENTITY selectAllCmd.label        "Rucha'ik ronojel">
+<!ENTITY selectAllCmd.label        "Ticha' ronojel">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "r">
 <!ENTITY findCmd.label             "Tikanöx">

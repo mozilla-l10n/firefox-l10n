@@ -10,11 +10,11 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Ruxe'el ruk'u'x rutzij ri:">
+<!ENTITY mainWindow.preface "Ruxe'el ruk'u'x rutzij ri: ">
 
 <!ENTITY fileMenu.label "Yakb'äl">
 <!ENTITY fileMenu.accesskey "Y">
-<!ENTITY savePageCmd.label "Tiyak re ruxaq achi'el…">
+<!ENTITY savePageCmd.label "Tiyak ruxaq achi'el…">
 <!ENTITY savePageCmd.accesskey "a">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "Tinuk'samajïx ruxaq…">
@@ -24,8 +24,8 @@
 <!ENTITY printCmd.label "Titz'ajb'äx…">
 <!ENTITY printCmd.accesskey "T">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Elem">
-<!ENTITY closeCmd.accesskey "C">
+<!ENTITY closeCmd.label "Titz'apïx">
+<!ENTITY closeCmd.accesskey "T">
 <!ENTITY closeCmd.commandkey "W">
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
@@ -38,9 +38,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY textEnlarge.commandkey2 "=">
 <!ENTITY textEnlarge.commandkey3 "">
 <!ENTITY textReduce.commandkey "-">
-<!ENTITY textReduce.commandkey2 "-">
+<!ENTITY textReduce.commandkey2 "">
 <!ENTITY textReset.commandkey "0">
-<!ENTITY textReset.commandkey2 "0">
+<!ENTITY textReset.commandkey2 "">
 
 <!ENTITY goToLineCmd.label "B'enam pa ri cholaj…">
 <!ENTITY goToLineCmd.accesskey "B">

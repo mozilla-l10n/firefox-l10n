@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Kenuk'samajïx kitz'aqat taq ch'akul">
 <!ENTITY projectMenu_manageComponents_accesskey "K">
-<!ENTITY projectMenu_refreshTabs_label "Kek'ex taq ruwi'">
+<!ENTITY projectMenu_refreshTabs_label "Ketzolïx taq ruwi'">
 
 <!ENTITY runtimeMenu_label "Ruq'ijul b'anatajnïk">
 <!ENTITY runtimeMenu_accesskey "R">
@@ -84,7 +84,7 @@
 <!ENTITY runtimePanel_installsimulator "Tiyak ri Ojqanel">
 <!ENTITY runtimePanel_noadbhelper "Tiyak ADB to'onel">
 <!ENTITY runtimePanel_nousbdevice "¿La man yatikïr ta natz'ët ri awokisaxel?">
-<!ENTITY runtimePanel_refreshDevices_label "Kek'ex ri taq okisaxel">
+<!ENTITY runtimePanel_refreshDevices_label "Ketzolïx ri taq okisaxel">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "ütz">

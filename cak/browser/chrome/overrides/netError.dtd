@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Re ochochib'äl re' q'aton rusamaj">
-<!ENTITY deniedPortAccess.longDesc "Re ochochib'äl re' q'aton rusamajixik">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri ruk'u'x samaj">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Tanik'oj chi ri ochochib'äl xatz'ib'aj man tuk'waj taq sachoj achi'el <strong>ww</strong>.example.com pa ruk'exel <strong>www</strong>.example.com</li> <li>We majun ruxaq yatikïr natz'ët, tanik'oj ri awokem pa ri k'amab'ey.</li> <li>We ri akematz'ib' o k'amab'ey chajin ruma jun firewall o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re chi nok pa ri ajk'amaya'l.</li> </ul>">
@@ -60,9 +60,9 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
-<!ENTITY unknownProtocolFound.longDesc " <ul> <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li> </ul>">
 
-<!ENTITY proxyConnectFailure.title "Ri ruk'u'x samaj proxi tajin yerutzolij ri taq okem">
+<!ENTITY proxyConnectFailure.title "Ri proxy ruk'u'x samaj tajin yerutzolij ri taq okem">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj chi ri runuk'ulem proxi ja ri' ri ütz.</li> <li>Katoyon rik'in ri runuk'samajel k'amab'ey richin nanik'oj chi ri ruk'u'x samaj proxi tajin nisamäj.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
@@ -71,7 +71,7 @@
 <!ENTITY redirectLoop.title "Man ütz ta tajin niq'axan ri ruxaq k'amaya'l">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Re jun k'ayewal re' nik'ulwachitäj ruma nachüp o e'aq'aton kik'ulik ri taq kaxlanwey.</li> </ul>">
 
-<!ENTITY unknownSocketType.title "Anin chi rutzolixik rutzij ri ruk'u'x samaj">
+<!ENTITY unknownSocketType.title "Man oyob'en ta re rutzijol tajin nuya' pe ri ruk'u'x samaj">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Tanik'oj chi ruk'wan ri ichina nuk'unel ri aq'inoj richin chajinïk, yakon.</li> <li>Ke ri' rik'in jub'a' ruma ri pa rub'eyal runuk'ulem ruk'u'x samaj.</li> </ul>">
 
 <!ENTITY nssFailure2.title "Xq'ate' ri ütz okem">
@@ -85,7 +85,7 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Wakami rik'in jub'a' man wachel ta re ruxaq k'amaa'l re' o janila k'o yesamajin. Tatojtob'ej chik pa jun ti ramaj.</li> <li>We man yatikïr ta yatok pa majun ruxaq, tanik'oj ri awokem pa ruk'amab'ey ri asamajib'al.</li> <li>We ri asamajib'al o k'amab'ey tajin nichajïx ruma jun firewall o proxi, tajikib'a' chi ri &brandShortName; ya'on q'ij chi re chi nok pa k'amaya'l.</li> </ul>">
 
-<!ENTITY cspBlocked.title "Q'aton ruma ri runa'ojil ruchajixik rupam">
+<!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">

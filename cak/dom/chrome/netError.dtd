@@ -73,7 +73,7 @@
 <!ENTITY securityOverride.linkText "Tikirel chuqa' natz'aqatisaj jun man relik ta…">
 <!ENTITY securityOverride.warningContent "<p>Man ta natz'aqatisaj jun man relik ta, we tajin nawokisaj jun okem pa k'amaya'l, ri man kuqül ta ak'u'x rik'in o akuchi' man ruk'ulun ta chawe natz'ët rutzijol k'ayewal pa re ruk'u'x samaj re'.</p> <p>We k'a nawajo' natz'aqatisaj jun man relik ta richin re ruxaq k'amaya'l re', yatikïr nab'än pa runuk'ulem q'axinäq man etaman ta.</p>">
 
-<!ENTITY cspBlocked.title "Q'aton ruma ri runa'ojil ruchajixik rupam">
+<!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>Ri okik'amaya'l man xuya' ta q'ij chi xjaqatäj ri ruxaq k'amaya'l, ruma ri ruxaq k'amaya'l k'o runa'oj pa ruwi' chajinïk, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">

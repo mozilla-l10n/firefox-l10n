@@ -18,8 +18,8 @@
 
 <!ENTITY certmgr.detail.general_tab.title     "Chijun">
 <!ENTITY certmgr.detail.general_tab.accesskey "C">
-<!ENTITY certmgr.detail.prettyprint_tab.title "Taq kib'anikil">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "T">
+<!ENTITY certmgr.detail.prettyprint_tab.title "Kib'anikil">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "K">
 
 <!ENTITY certmgr.pending.label                "Tajin ninik'öx wakami ri ruwujil b'i'aj…">
 <!ENTITY certmgr.subjectinfo.label            "Elesan richin">

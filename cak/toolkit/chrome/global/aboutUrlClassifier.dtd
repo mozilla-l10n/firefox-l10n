@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "Etamab'äl chi rij ri url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Ajya'öl">
+<!ENTITY aboutUrlClassifier.provider                    "Ajya'öl">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ruk'isib'äl ruq'ijul toq xk'ex">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Jun chik ruq'ijul toq xtik'ex">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Rub'anikil ri ruk'isib'äl k'exoj">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Tik'ex">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Tikanöx">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Tijunamäx">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Tinik'öx ri junamaxïk q'i'oj">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Tikanöx">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Tinik'öx ri q'i'oj xkanöx">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Jumejyak">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Tzatzq'ob'äl">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Rucholxe'el tzij">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Tichojmirisäx">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Tijikib'äx taq rujuperaj tz'ib'anïk">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Tijikib'äx nitz'ib'äx yakb'äl">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Tijikib'äx JS nitz'ib'äx">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Taq rujuperaj rutz'ibaxik ütz okem pa k'amaya'l">
+<!ENTITY aboutUrlClassifier.debugModules                "Wakami taq rujuperaj tz'ib'anïk">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Ütz okem pa k'amaya'l JS nitz'ib'äx">
+<!ENTITY aboutUrlClassifier.debugFile                   "Ruyakb'al tz'ib'anïk k'o wakami">

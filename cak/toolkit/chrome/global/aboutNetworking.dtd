@@ -10,8 +10,8 @@
 <!ENTITY aboutNetworking.sockets               "Chuq'b'äl">
 <!ENTITY aboutNetworking.dns                   "DNS">
 <!ENTITY aboutNetworking.websockets            "WebSockets">
-<!ENTITY aboutNetworking.refresh               "Tik'ex ruwäch">
-<!ENTITY aboutNetworking.autoRefresh           "Tuk'exa' rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj">
+<!ENTITY aboutNetworking.refresh               "Titzolïx">
+<!ENTITY aboutNetworking.autoRefresh           "Tutzolij rupaläj pa ruyonil pa jujun 3 xil ch'utiramaj">
 <!ENTITY aboutNetworking.hostname              "Rub'i' ruk'u'x samaj">
 <!ENTITY aboutNetworking.port                  "B'ey">
 <!ENTITY aboutNetworking.http2                 "HTTP/2">

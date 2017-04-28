@@ -35,7 +35,7 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 
-<!ENTITY signedInUnverified.beforename.label "Tajin nuya' retal ri rub'anikil ataqoya'l...">
+<!ENTITY signedInUnverified.beforename.label "">
 <!ENTITY signedInUnverified.aftername.label "man jikib'an ta.">
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
@@ -44,7 +44,7 @@ both, to better adapt this sentence to their language.
 -->
 
 <!ENTITY signedInLoginFailure.beforename.label "Tatikirisaj molojri'ïl richin yatok chik">
-<!ENTITY signedInLoginFailure.aftername.label "Tab'ana' utzil tatikirisaj chik ri molojri'ïl richin yatok chik">
+<!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Man atikirisan ta molojri'ïl.">
 <!ENTITY signIn.label                "Tatikirisaj molojri'ïl">

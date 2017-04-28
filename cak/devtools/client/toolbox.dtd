@@ -168,7 +168,7 @@
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
 
 <!ENTITY options.stylesheetAutocompletion.label      "Titz'aqatisäx ruyon CSS">
-<!ENTITY options.stylesheetAutocompletion.tooltip    "Titz'aqatisäx ruyon ri taq ch'akulal, taq etal chuqa' cha'onela' CSS pa ri kinuk'unel taq b'anikil toq tajin yatz'ib'an.">
+<!ENTITY options.stylesheetAutocompletion.tooltip    "Titz'aqatisäx ruyon ri taq ch'akulal, taq etal chuqa' cha'onela' CSS pa ri kinuk'unel taq b'anikil toq tajin yatz'ib'an">
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->

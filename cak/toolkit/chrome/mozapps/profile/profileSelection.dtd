@@ -18,7 +18,7 @@
 <!ENTITY            newButton.accesskey    "T">
 <!ENTITY            renameButton.label     "Titz'ib'äx chi rub'i' ri ruwäch b'i'aj…">
 <!ENTITY            renameButton.accesskey "T">
-<!ENTITY            deleteButton.label     "Telesäx el ri ruwäch b'i'aj…">
+<!ENTITY            deleteButton.label     "Tiyuj el ri ruwäch b'i'aj…">
 <!ENTITY            deleteButton.accesskey "T">
 <!-- manager entities -->
 

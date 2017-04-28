@@ -66,7 +66,7 @@
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Relik taq etab'äl">
 
-<!ENTITY aboutTelemetry.addonDetailsSection "  Taq rub'anikil tz'aqat">
+<!ENTITY aboutTelemetry.addonDetailsSection "  Kib'anikil tz'aqat">
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Yaloj taq tz'ib'anïk">
 
@@ -88,4 +88,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Rupam">
 
-<!ENTITY aboutTelemetry.rawPayload "Kutam taq tzij ütz rutzijik">
+<!ENTITY aboutTelemetry.rawPayload "  Kutam taq tzij ütz rutzijik">

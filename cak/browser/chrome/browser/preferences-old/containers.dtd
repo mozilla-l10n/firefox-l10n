@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "Titz'aqatisäx k'ak'a' k'wayöl">
 <!ENTITY addButton.accesskey  "t">
 <!ENTITY preferencesButton.label "Taq cha'oj">
-<!ENTITY removeButton.label   "Tiyuj">
+<!ENTITY removeButton.label   "Telesäx">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Titzolin pa Ichinanem">
 

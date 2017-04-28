@@ -35,7 +35,7 @@
 <!ENTITY rights.intro-point3-unbranded "Xa b'a achike richinan na'oj okel pa re k'ayij re', rajowaxik niq'alajisäx wawe'.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights2.intro-point4a "Jujun taq rub'anikil ri &brandShortName; nikokisaj taq samaj pa ruwi' na'oj, ri k'o kixe'el richin k'amaya'l; xa xe chi man yojtikïr ta niqajikib'a' chi kan e 100&#037; ütz chuqa' chi majun rusachoj. Nilitäj ch'aqa' chik taq rutzijol, achi'el taq etamab'äl pa ruwi' rub'eyaal ye'achüp ri taq b'anikil nikokisaj re taq samaj re', pa ">
+<!ENTITY rights2.intro-point4a "Jujun taq rub'anikil ri &brandShortName; nikokisaj taq samaj pa ruwi' na'oj, ri k'o kixe'el richin k'amaya'l; xa xe chi man yojtikïr ta niqajikib'a' chi kan e 100&#037; ütz chuqa' chi majun rusachoj. Nilitäj ch'aqa' chik taq rutzijol, achi'el taq etamab'äl pa ruwi' rub'eyal ye'achüp ri kib'anikil nikokisaj re taq samaj re', pa ">
 <!ENTITY rights.intro-point4b "rojqanem samaj">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->

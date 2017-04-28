@@ -9,7 +9,7 @@
 <!ENTITY devmgr.style2                          "width: 67em; height: 32em;">
 
 <!ENTITY devmgr.devlist.label                   "Taq rujuperaj jikomal chuqa' taq okisaxel">
-<!ENTITY devmgr.details.title                   "Taq b'anikil">
+<!ENTITY devmgr.details.title                   "Kib'anikil">
 <!ENTITY devmgr.details.title2                  "Retal">
 
 <!ENTITY devmgr.button.login.label              "Titikirisäx molojri'ïl">
@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Tinik'öx…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Tisamajib'ëx PKCS#11 Okisaxel Chajinel">

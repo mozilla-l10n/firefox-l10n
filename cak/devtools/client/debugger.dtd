@@ -156,7 +156,7 @@
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
 
-<!ENTITY debuggerUI.seMenuCondBreak     "Titz'aqatisäx ruk'ojlemal rajowanel qupïk">
+<!ENTITY debuggerUI.seMenuCondBreak     "Titz'aqatisäx rajowanel ruk'ojlemal q'atoj">
 <!ENTITY debuggerUI.seMenuCondBreak.key "R">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
@@ -180,7 +180,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
 
-<!ENTITY debuggerUI.addWatch            "Titz'aqtisäx rusik'ixik chajinïk">
+<!ENTITY debuggerUI.addWatch            "Titz'aqatisäx Titz'et Ch'owen">
 <!ENTITY debuggerUI.addWatch.accesskey  "E">
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
