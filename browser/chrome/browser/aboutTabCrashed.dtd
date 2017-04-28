@@ -14,7 +14,7 @@
      translation. -->
 
 <!ENTITY tabCrashed.header2 "Bolas. O seu separador acabou de falhar.">
-<!ENTITY tabCrashed.offerHelp "Nós podemos ajudá-lo!">
+<!ENTITY tabCrashed.offerHelp "Nós podemos ajudar-lhe!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Escolha &tabCrashed.restoreTab; para recarregar o conteúdo da página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Escolha &tabCrashed.restoreTab; ou &tabCrashed.restoreAll; para recarregar o conteúdo da página.">
 <!ENTITY tabCrashed.requestHelp "Poderia ajudar-nos?">
@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Digite o seu endereço de email aqui">
 <!ENTITY tabCrashed.emailMe "Enviar-me um email quando estiverem disponíveis mais informações">
 <!ENTITY tabCrashed.reportSent "Relatório de falha já submetido; obrigado por ajudar a tornar o &brandShortName; melhor!">
-<!ENTITY tabCrashed.requestAutoSubmit2 "Reportar separadores em segundo plano">
+<!ENTITY tabCrashed.requestAutoSubmit2 "Relatar separadores em segundo plano">
 <!ENTITY tabCrashed.autoSubmit2 "Atualizar preferências para enviar relatórios de falha automaticamente, incluindo relatórios para separadores em segundo plano que falharam a partir desta sessão e futuras sessões">

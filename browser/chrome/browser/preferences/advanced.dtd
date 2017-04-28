@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "Pesquisar texto quando começar a escrever">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avisá-lo se os websites tentarem redirecionar ou recarregar a página">
+<!ENTITY blockAutoReload.label           "Avisar-lhe quando os websites tentarem redirecionar ou recarregar a página">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Mostrar um teclado de toque quando necessário">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
@@ -58,7 +58,7 @@
 <!ENTITY offlineStorage2.label           "Conteúdo web offline e dados do utilizador">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-<!ENTITY siteData.label                  "Dados dos sites">
+<!ENTITY siteData.label                  "Dados de sites">
 <!ENTITY clearSiteData.label             "Limpar todos os dados">
 <!ENTITY clearSiteData.accesskey         "L">
 <!ENTITY siteDataSettings.label          "Definições…">
