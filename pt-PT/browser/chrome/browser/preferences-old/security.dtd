@@ -4,7 +4,7 @@
 
 <!ENTITY  general.label                 "Geral">
 
-<!ENTITY  warnOnAddonInstall.label        "Avisá-lo quando os sites tentarem instalar extras">
+<!ENTITY  warnOnAddonInstall.label        "Avisar-lhe quando os sites tentarem instalar extras">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Bloquear descargas perigosas">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "Avisá-lo acerca de software não-solicitado e incomum">
+<!ENTITY  blockUncommonAndUnwanted.label     "Avisar-lhe acerca de software não-solicitado e incomum">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Exceções…">

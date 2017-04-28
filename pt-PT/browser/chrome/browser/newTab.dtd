@@ -14,5 +14,5 @@
 <!ENTITY newtab.customize.blank2 "Mostrar página vazia">
 <!ENTITY newtab.undo.removedLabel "Miniatura removida.">
 <!ENTITY newtab.undo.undoButton "Desfazer.">
-<!ENTITY newtab.undo.restoreButton "Repor tudo.">
+<!ENTITY newtab.undo.restoreButton "Restaurar tudo.">
 <!ENTITY newtab.undo.closeTooltip "Ocultar">

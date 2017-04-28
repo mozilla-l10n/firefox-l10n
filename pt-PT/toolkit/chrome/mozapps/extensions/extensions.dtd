@@ -114,10 +114,10 @@
 <!ENTITY cmd.contribute.accesskey             "C">
 <!ENTITY cmd.contribute.tooltip               "Participar no desenvolvimento deste extra">
 
-<!ENTITY cmd.showReleaseNotes.label           "Mostrar notas da versão">
-<!ENTITY cmd.showReleaseNotes.tooltip         "Mostra as notas de versão desta atualização">
-<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas da versão">
-<!ENTITY cmd.hideReleaseNotes.tooltip         "Oculta as notas de versão desta atualização">
+<!ENTITY cmd.showReleaseNotes.label           "Mostrar notas de lançamento">
+<!ENTITY cmd.showReleaseNotes.tooltip         "Mostra as notas de lançamento para esta atualização">
+<!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de lançamento">
+<!ENTITY cmd.hideReleaseNotes.tooltip         "Oculta as notas de lançamento para esta atualização">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -206,9 +206,9 @@
 <!ENTITY addon.includeUpdate.label            "Incluir na atualização">
 <!ENTITY addon.updateAvailable.label          "Está disponível uma atualização">
 <!ENTITY addon.checkingForUpdates.label       "A procurar atualizações…">
-<!ENTITY addon.releaseNotes.label             "Notas da versão:">
+<!ENTITY addon.releaseNotes.label             "Notas de lançamento:">
 <!ENTITY addon.loadingReleaseNotes.label      "A carregar…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Ocorreu um erro ao carregar as notas da versão.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Ocorreu um erro ao carregar as notas de lançamento.">
 
 <!ENTITY addon.createdBy.label                "De ">
 

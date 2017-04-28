@@ -36,7 +36,7 @@
 <!ENTITY openPortalLoginPage.label2 "Abrir página de início de sessão da rede">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
-<!ENTITY malformedURI.longDesc "<ul> <li>Os endereços Web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
+<!ENTITY malformedURI.longDesc "<ul> <li>Os endereços web são geralmente escritos como <strong>http://www.example.com/</strong></li> <li>Verifique se está a utilizar as barras corretamente (exemplo: <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "A ligação foi interrompida">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">

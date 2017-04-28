@@ -72,11 +72,11 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informações da sessão">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas obtidos por extras">
+<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recolhidos por extras">
 
-<!ENTITY aboutTelemetry.toggle "  Clique para expandir a secção">
+<!ENTITY aboutTelemetry.toggle "  Clique para alternar a secção">
 
-<!ENTITY aboutTelemetry.emptySection "  (Nenhuns dados obtidos)">
+<!ENTITY aboutTelemetry.emptySection "  (Sem dados recolhidos)">
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativa. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 

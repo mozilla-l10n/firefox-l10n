@@ -336,7 +336,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Separadores fechados recentemente">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Janelas fechadas recentemente">
-<!ENTITY historyRestoreLastSession.label "Reabrir todas as janelas da última sessão">
+<!ENTITY historyRestoreLastSession.label "Restaurar sessão anterior">
 
 <!ENTITY showAllHistoryCmd2.label "Mostrar todo o histórico">
 <!ENTITY showAllHistoryCmd.commandkey "H">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Histórico">
 <!ENTITY appMenuHistory.showAll.label "Mostrar todo o histórico">
 <!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
-<!ENTITY appMenuHistory.restoreSession.label "Reabrir todas as janelas da última sessão">
+<!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
 

@@ -29,12 +29,12 @@
 <!ENTITY  noupdates.wizard.title          "Não foram encontrados extras compatíveis">
 <!ENTITY  noupdates.intro.desc            "O &brandShortName; não conseguiu encontrar atualizações para os seus extras incompatíveis.">
 <!ENTITY  noupdates.error.desc            "Ocorreram alguns problemas durante a procura de atualizações.">
-<!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e informá-lo-á quando atualizações compatíveis para estes extras forem encontradas.">
+<!ENTITY  noupdates.checkEnabled.desc     "O &brandShortName; verificará periodicamente e informar-lhe-à quando atualizações compatíveis para estes extras forem encontradas.">
 
 <!ENTITY  finished.wizard.title           "Extras compatíveis instalados">
 <!ENTITY  finished.top.label              "O &brandShortName; instalou atualizações dos seus extras.">
-<!ENTITY  finished.checkDisabled.desc     "O &brandShortName; pode verificar periodicamente e informá-lo quando atualizações para os seus extras forem encontradas.">
-<!ENTITY  finished.checkEnabled.desc      "O &brandShortName; verificará periodicamente e informá-lo-á quando atualizações para os seus extras forem encontradas.">
+<!ENTITY  finished.checkDisabled.desc     "O &brandShortName; pode verificar periodicamente e informar-lhe quando atualizações para os seus extras forem encontradas.">
+<!ENTITY  finished.checkEnabled.desc      "O &brandShortName; verificará periodicamente e informar-lhe-à quando atualizações para os seus extras forem encontradas.">
 
 <!ENTITY  adminDisabled.wizard.title      "Incapaz de verificar a existência de atualizações">
 <!ENTITY  adminDisabled.warning.label     "Não foi possível procurar por atualizações para os extras incompatíveis, porque a instalação de software no &brandShortName; está desativada. Por favor, contacte o seu administrador de sistemas para assistência.">

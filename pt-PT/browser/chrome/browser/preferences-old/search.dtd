@@ -20,8 +20,8 @@
 <!ENTITY engineNameColumn.label                "Motor de pesquisa">
 <!ENTITY engineKeywordColumn.label             "Palavra-chave">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Repor motores de pesquisa predefinidos">
-<!ENTITY restoreDefaultSearchEngines.accesskey "p">
+<!ENTITY restoreDefaultSearchEngines.label     "Restaurar motores de pesquisa predefinidos">
+<!ENTITY restoreDefaultSearchEngines.accesskey "d">
 
 <!ENTITY removeEngine.label                    "Remover">
 <!ENTITY removeEngine.accesskey                "R">

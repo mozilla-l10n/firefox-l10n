@@ -8,10 +8,10 @@
 <!ENTITY newWindowsAsTabs.label       "Abrir novas janelas em novo separador">
 <!ENTITY newWindowsAsTabs.accesskey   "j">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "Avisá-lo ao fechar vários separadores">
-<!ENTITY warnOnCloseMultipleTabs.accesskey  "v">
+<!ENTITY warnOnCloseMultipleTabs.label      "Avisar-lhe ao fechar múltiplos separadores">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOnOpenManyTabs.label       "Avisá-lo se a abertura de vários separadores puder tornar o &brandShortName; lento">
+<!ENTITY warnOnOpenManyTabs.label       "Avisar-lhe se a abertura de múltiplos separadores puder tornar o &brandShortName; lento">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "Ao abrir uma ligação em novo separador, mudar para o mesmo imediatamente">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra monitorização">
-<!ENTITY  trackingProtection.description       "A monitorização é quando empresas coletam informação acerca de si para construir um perfil e mostrar conteúdo baseado nos seus dados pessoais e de navegação.">
+<!ENTITY  trackingProtection.description       "A monitorização é quando empresas recolhem informação acerca de si para construir um perfil e mostrar conteúdo baseado na sua navegação e dados pessoais.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Bloquear empresas de monitorização conhecidas de mostrar conteúdo">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "r">

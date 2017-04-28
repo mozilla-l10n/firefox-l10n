@@ -56,7 +56,7 @@
 <!-- LOCALIZATION NOTE (debuggerUI.clearButton.tooltip): This is the tooltip for
   -  the button that clears the collected tracing data in the tracing tab. -->
 
-<!ENTITY debuggerUI.clearButton.tooltip "Limpar os traces obtidos">
+<!ENTITY debuggerUI.clearButton.tooltip "Limpar os traces recolhidos">
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
