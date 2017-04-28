@@ -70,9 +70,10 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Nekk na ci màndarga-xët yi ba noppi">
-<!ENTITY bookmark_removed "Màndarga-xët bi far nañ ko">
-<!ENTITY bookmark_updated "Màndarga-xët bees yeesal">
+<!ENTITY bookmark_removed "Màndarga-xët gi far nañ ko">
+<!ENTITY bookmark_updated "Yeesalees nañ màndarga-xët gi">
 <!ENTITY bookmark_options "Tànnéef">
+<!ENTITY bookmark_save "Denc">
 <!ENTITY screenshot_added_to_bookmarks "Jàppug xoolu gi yokk nañ ko ci màndarga-xët yi">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
