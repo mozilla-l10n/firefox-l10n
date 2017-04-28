@@ -69,7 +69,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Scrieri întârziate">
 
-<!ENTITY aboutTelemetry.sessionInfoSection "  Informații despre sesiune">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informații privind sesiunea">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histograme colectate de suplimente">
 

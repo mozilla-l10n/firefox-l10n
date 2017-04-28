@@ -23,7 +23,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Este posibil să fi fost eliminat, mutat sau permisiunile fișierului pot împiedica accesul.</li></ul>">
 
 <!ENTITY generic.title "Nu se poate duce la capăt cererea">
-<!ENTITY generic.longDesc "<p>Momentan nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
+<!ENTITY generic.longDesc "<p>În prezent nu sunt disponibile informații suplimentare despre această problemă sau eroare.</p>">
 
 <!ENTITY malformedURI.title "Adresă greșită">
 <!ENTITY malformedURI.longDesc "<p>Adresa introdusă nu este într-un format recunoscut. Vă rugăm să verificați ca bara adresei să nu conțină greșeli și încercați din nou.</p>">
