@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Penchadas de filos">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Pilas capturadas">
 
 <!ENTITY aboutTelemetry.scalarsSection "Escalars">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Datos chenerals">
 
+<!ENTITY aboutTelemetry.eventsSection "  Eventos">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Midas simples">
 
@@ -78,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  AVISO: A depuración de consultas SQL lentas ye activada. Talment as cadenas SQL completas se amuestren abaixo, pero no se ninviarán ta Telemetría.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Pillar los nombres d'as funcions d'as pilas">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Amostrar datos crudos d'a pila">
 
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">
 

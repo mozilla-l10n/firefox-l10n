@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Inicio">
 
-
-
+<!ENTITY startupPage2.label        "Quan s'enchegue lo &brandShortName;:">
+<!ENTITY startupPage2.accesskey    "e">
+<!ENTITY startupUserHomePage.label "Amostrar la mía pachina d'inicio">
 <!ENTITY startupBlankPage.label    "Amostrar una pachina en blanco">
+<!ENTITY startupPrevSession.label  "Amostrar las mías finestras y pestanyas d'a zaguer vegada">
 
-
-
+<!ENTITY homepage2.label           "Pachina d'inicio">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Usar pachina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Usar pachinas actuals">
@@ -26,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "x">
 <!ENTITY chooseFolderMac.label        "Trigar…">
 <!ENTITY chooseFolderMac.accesskey    "T">
-
-
+<!ENTITY alwaysAskWhere.label         "Preguntar-me siempre aón alzar los fichers">
+<!ENTITY alwaysAskWhere.accesskey     "a">
 
 <!ENTITY alwaysCheckDefault2.label        "Comprebar siempre si lo &brandShortName; ye o suyo navegador por defecto">
 <!ENTITY alwaysCheckDefault2.accesskey    "o">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Firefox corran de vez">
 <!ENTITY useFirefoxSync.label             "Consello: Isto fa servir perfils deseparaus. Faiga servir Sync pa compartir datos entre ells.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Dentrar en &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Ubrir las preferencias de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Activar &brandShortName;  multiproceso">

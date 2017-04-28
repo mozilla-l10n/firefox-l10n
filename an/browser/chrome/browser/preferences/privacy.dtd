@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Protección contra Seguimiento">
+<!ENTITY  trackingProtection.description       "Seguimiento ye quan bella interpresa replega información sobre tu pa construyir un perfil y amostrar contenius basau en a suya navegación y datos personals.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blocar las interpresas de seguimiento conoixidas pa que amuestren contenius">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Nomás en finestras privadas">
@@ -30,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Barra d'adrezas">
 
+<!ENTITY  locbar.suggest2.label         "Quan se faiga servir a barra d'adrezas, sucherir">
 <!ENTITY  locbar.history.label          "Historial">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Marcapachinas">
@@ -39,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Buscas relacionadas con o motor de busca predeterminau">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Cam&amp;biar las preferencias de sucherencias en motors de busca…">
 
 <!ENTITY  acceptCookies.label           "Acceptar cookies d'os puestos web">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -61,7 +65,8 @@
 <!ENTITY  showCookies.label             "Amostrar as cookies…">
 <!ENTITY  showCookies.accesskey         "s">
 
-
+<!ENTITY  historyHeader2.pre.label         "Lo &brandShortName;:">
+<!ENTITY  historyHeader2.pre.accesskey     "L">
 <!ENTITY  historyHeader.remember.label     "remerará l'historial">
 <!ENTITY  historyHeader.dontremember.label "no remerará l'historial">
 <!ENTITY  historyHeader.custom.label       "ferá servir a configuración personalizada de l'historial">

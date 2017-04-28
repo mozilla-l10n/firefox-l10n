@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Ainas ta totz os complementos">
 
-
+<!ENTITY getThemes.description                "Quiere personalizar lo suyo navegador?">
+<!ENTITY getThemes.learnMore                  "Trigar entre mils de temas.">
 
 <!ENTITY cmd.back.tooltip                     "Ir entazaga una pachina">
 <!ENTITY cmd.forward.tooltip                  "Ir una pachina enta debant">

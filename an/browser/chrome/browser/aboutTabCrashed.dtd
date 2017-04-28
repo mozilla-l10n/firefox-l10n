@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "Escriba a suya adreza de correu electronico aquí">
 <!ENTITY tabCrashed.emailMe "Ninvia-me un correu electronico quan bi haiga mas información disponible">
 <!ENTITY tabCrashed.reportSent "Ya s'ha ninviau o informe de fallos; muitas gracias por aduyar a amillorar &brandShortName;!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "Informar d'as pestanyas en segundo plano">
+<!ENTITY tabCrashed.autoSubmit2 "Esviellar las preferencia pa ninivar reportes de penchadas automaticament, incluyindo reportes de pestanyas en segundo plano que s'haigan penchau en ista y futuras sesions">

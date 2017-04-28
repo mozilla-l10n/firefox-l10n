@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "48em">
 <!ENTITY  window.macWidth                 "49em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Sobrescribir las colors especificadas por a pachina con as mías seleccions d'alto:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "o">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Siempre">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Nomás con temas d'alto contraste">
