@@ -4,11 +4,11 @@
 <!-- Window title -->
 
 
-<!ENTITY windowTitle.label "Inserir carácter">
+<!ENTITY windowTitle.label "Inserir caractere">
 <!ENTITY category.label "Categoria">
 <!ENTITY letter.label "Carta:">
 <!ENTITY letter.accessKey "a">
-<!ENTITY character.label "Carácter:">
+<!ENTITY character.label "Caractere:">
 <!ENTITY character.accessKey "C">
 <!ENTITY accentUpper.label "Maiúsculas acentuadas">
 <!ENTITY accentLower.label "Minúsculas acentuadas">
