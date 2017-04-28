@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Marcador removido">
 <!ENTITY bookmark_updated "Marcador actualizado">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY bookmark_save "Guardar">
 <!ENTITY screenshot_added_to_bookmarks "Captura de pantalla añadida a marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_parent_folder "Carpeta anterior">
 
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -386,12 +388,12 @@
 <!ENTITY pref_import_android_summary "Importa marcadores e historial desde el navegador nativo">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Abrir pestañas">
+<!ENTITY pref_private_data_openTabs "Pestañas abiertas">
 <!ENTITY pref_private_data_history2 "Historial de navegación">
 <!ENTITY pref_private_data_searchHistory "Historial de búsqueda">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y conexiones activas">
-<!ENTITY pref_private_data_passwords2 "Coenxiones guardadas">
+<!ENTITY pref_private_data_passwords2 "Conexiones guardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Configuración del sitio">
