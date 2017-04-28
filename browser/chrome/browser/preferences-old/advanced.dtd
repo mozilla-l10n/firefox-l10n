@@ -78,7 +78,7 @@
 <!ENTITY clearCacheNow.accesskey         "م">
 <!ENTITY clearOfflineAppCacheNow.label   "امسح الآن">
 <!ENTITY clearOfflineAppCacheNow.accesskey "ن">
-<!ENTITY overrideSmartCacheSize.label    "تجاهل الإدارة الآلية للذاكرة الخبيئة">
+<!ENTITY overrideSmartCacheSize.label    "تخطَّ الإدارة الآلية للذاكرة الخبيئة">
 <!ENTITY overrideSmartCacheSize.accesskey "ذ">
 
 <!ENTITY updateTab.label                 "تحديث">

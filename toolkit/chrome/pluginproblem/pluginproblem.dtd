@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "ملف">
 <!ENTITY plugin.mimeTypes                                    "أنواع MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "فعّل وضع الحماية لفلاش أدوبي">
-
+<!ENTITY plugin.enableBlocklists.label                       "امنع محتوى فلاش الخطير و المتطفّل">
