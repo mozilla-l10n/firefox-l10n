@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Oppdatering">
 <!ENTITY itemNetworking.label    "Nettverk og diskplass">
 <!ENTITY itemCertificates.label  "Sertifikat">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Slå på globalt søk og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "S">
 <!ENTITY allowHWAccel.label            "Bruk maskinvareakselerasjon når tilgjengeleg">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Avgjer korleis &brandShortName; skal handsama kvitteringar">
 <!ENTITY showReturnReceipts.label      "Kvitteringar …">
 <!ENTITY showReturnReceipts.accesskey  "K">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Telemetri">
 <!ENTITY telemetryDesc.label             "Deler info om yting, bruksmønster, maskinvare, og tilpassinger til e-postklienten med &vendorShortName;, for å hjelpa oss med å gjera &brandShortName; betre">
 <!ENTITY enableTelemetry.label           "Slå på Telemetri">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "Slå på krasjraooprtering">
 <!ENTITY enableCrashReporter.accesskey   "l">
 <!ENTITY crashReporterLearnMore.label    "Les meir">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "&brandShortName;-oppdateringar:">
 <!ENTITY updateAuto.label                "Automatisk installer oppdateringar (tilrådd: betre sikkerheit)">
 <!ENTITY updateAuto.accesskey            "A">
@@ -64,8 +64,8 @@
 
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installera oppdateringar">
 <!ENTITY useService.accesskey            "B">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Innstillingar …">
 <!ENTITY showSettings.accesskey        "I">
 <!ENTITY proxiesConfigure.label        "Still inn korleis &brandShortName; koplar seg til Internett">
@@ -79,20 +79,22 @@
 <!ENTITY offlineCompactFolders.label     "Komprimer alle mapper når det vil spara meir enn">
 <!ENTITY offlineCompactFolders.accesskey "K">
 <!ENTITY offlineCompactFoldersMB.label   "MB totalt">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Bruk opptil">
 <!ENTITY useCacheBefore.accesskey        "B">
 <!ENTITY useCacheAfter.label             " MB diskplass for snøgglageret">
+<!ENTITY overrideSmartCacheSize.label    "Sett til side automatisk cachehandsaming">
+<!ENTITY overrideSmartCacheSize.accesskey "s">
 <!ENTITY clearCacheNow.label             "Tøm no">
 <!ENTITY clearCacheNow.accesskey         "T">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Når ein tenar ber om det personlege sertifikatet mitt:">
 <!ENTITY certs.auto                      "Vel eit automatisk">
 <!ENTITY certs.auto.accesskey            "e">
