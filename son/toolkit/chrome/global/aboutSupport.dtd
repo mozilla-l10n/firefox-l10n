@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Dumi">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; alhaaley">
+<!ENTITY aboutSupport.featureName "Maa">
+<!ENTITY aboutSupport.featureVersion "Dumi">
+<!ENTITY aboutSupport.featureId "Boŋ-tammaasa">
 
 <!ENTITY aboutSupport.experimentsTitle "Šiiyan se alhaaley">
 <!ENTITY aboutSupport.experimentName "Maa">
@@ -65,7 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Goyboobo zanfuney">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Kufal">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla gorodoo goy kufal">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Saajaw alhaali">
 
@@ -113,10 +115,10 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.sandboxTitle "Lalaba">
 
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "A ga too kayna">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
 
 

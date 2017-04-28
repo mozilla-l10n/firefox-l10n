@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Boŋ-taagandi segondu 3 kul">
 <!ENTITY aboutNetworking.hostname              "Zunbudoo maa">
 <!ENTITY aboutNetworking.port                  "Kotay-mee">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Dirante">
 <!ENTITY aboutNetworking.idle                  "Ši dira">
