@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Cosaint ar Lorgaireacht">
-
-
+<!ENTITY  trackingProtection.description       "Tugtar Lorgaireacht air nuair a bhailíonn comhlachtaí faisnéis fútsa ar líne chun próifíl a thógáil agus ábhar a thaispeáint duit bunaithe ar do stair bhrabhsála agus ar shonraí pearsanta.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Ná lig do chomhlachtaí lorgaireachta ábhar a thaispeáint dom">
 <!ENTITY  trackingProtectionAlways.label       "I gCónaí">
 <!ENTITY  trackingProtectionAlways.accesskey   "I">
 <!ENTITY  trackingProtectionPrivate.label      "I bhfuinneog phríobháideach amháin">

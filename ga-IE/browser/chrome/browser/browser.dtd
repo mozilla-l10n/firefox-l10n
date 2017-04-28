@@ -281,8 +281,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Comhad"> 
 <!ENTITY fileMenu.accesskey       "C">
-<!ENTITY newUserContext.label             "Árthach Cluaisín Nua">
-<!ENTITY newUserContext.accesskey         "C">
+<!ENTITY newUserContext.label             "Cluaisín Coimeádáin Nua">
+<!ENTITY newUserContext.accesskey         "m">
 <!ENTITY newNavigatorCmd.label        "Fuinneog Nua">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "C">
 <!ENTITY openFrameCmd.label           "Oscail an Fráma i bhFuinneog Nua">
 <!ENTITY openFrameCmd.accesskey       "F">
-<!ENTITY openLinkCmdInContainerTab.label "Oscail an Nasc i gCluaisín Coimeadáin Nua">
+<!ENTITY openLinkCmdInContainerTab.label "Oscail an Nasc i gCluaisín Coimeádáin Nua">
 <!ENTITY openLinkCmdInContainerTab.accesskey "g">
 <!ENTITY showOnlyThisFrameCmd.label     "Ná Taispeáin ach an Fráma Seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
@@ -840,7 +840,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Díchumasaigh cosaint don suíomh seo">
+<!ENTITY trackingProtection.unblockPrivate.label "Díchumasaigh cosaint don seisiún seo">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "D">
 <!ENTITY trackingProtection.block2.label "Cumasaigh cosaint">
 <!ENTITY trackingProtection.block2.accesskey "C">
