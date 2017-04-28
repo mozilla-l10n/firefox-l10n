@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "เปิดแผงข้อความบันทึกรหัสผ่าน">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "จัดการการใช้ปลั๊กอิน">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "เลือกว่าคุณสามารถรับการแจ้งเตือนจากไซต์ได้หรือไม่">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "จัดเก็บข้อมูลในที่เก็บข้อมูลถาวร">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "จัดการการแบ่งปันกล้องและ/หรือไมโครโฟนของคุณกับไซต์">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "จัดการการแบ่งปันไมโครโฟนของคุณกับไซต์">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "คุณได้ปิดกั้นข้อมูลตำแหน่งที่ตั้งสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "คุณได้ปิดกั้นที่เก็บข้อมูลสำหรับเว็บไซต์นี้">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "คุณได้ปิดกั้นการแจ้งเตือนสำหรับเว็บไซต์นี้">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "คุณได้ปิดกั้นที่เก็บข้อมูลถาวรสำหรับเว็บไซต์นี้">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "แสดงประวัติ">
 
@@ -897,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "เรียนรู้เพิ่มเติมเกี่ยวกับ DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "อัปเดต &brandShorterName; ของคุณเพื่อความเร็วและความเป็นส่วนตัวล่าสุด">
 <!ENTITY updateAvailable.whatsnew.label "ดูว่ามีอะไรใหม่">
 <!ENTITY updateAvailable.header.message "มีการอัปเดต &brandShorterName; ใหม่">
 <!ENTITY updateAvailable.acceptButton.label "ดาวน์โหลดการอัปเดต">
@@ -908,4 +911,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.label "ดาวน์โหลด &brandShorterName;">
 <!ENTITY updateManual.cancelButton.label "ไม่ใช่ตอนนี้">
 
+<!ENTITY updateRestart.header.message "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
 <!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">
+<!ENTITY updateRestart.panelUI.label "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
