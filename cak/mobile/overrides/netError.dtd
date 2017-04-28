@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "Re jun ruxaq k'amaya'l re' q'aton rusamaj">
-<!ENTITY deniedPortAccess.longDesc "Q'achi'">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Man xilitäj ta ri ruk'u'x samaj">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
@@ -35,11 +35,11 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "<ul> <li>Ri taq ochochib'äl richin ruxaq K'amaya'l etz'ib'an achi'el <strong>http://www.example.com/</strong></li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>Tikanöx</button> </div> <li>Tajikib'a' chi tajin nawokisaj ri taq raq'arïk juch' e raq'äl chuwäch (achi'el. <strong>/</strong>).</li></ul>">
 
-<!ENTITY netInterrupt.title "Xnaq ri okinem">
+<!ENTITY netInterrupt.title "Xq'at ri okem">
 <!ENTITY netInterrupt.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY notCached.title "Xk'is ruq'ijul ri wuj">
-<!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
+<!ENTITY notCached.longDesc "<p>Man niq'alajin ta chik pa &brandShortName; jumejyak ri wuj nik'utüx.</p><ul><li>.Achi'el jun rub'eyal richin nichajin, &brandShortName; man nuk'utuj ta chik pa ruyonil chajin taq wuj.</li><li>Tapitz'a' qa pa Titojtob'ëx chik richin nik'utüx chik ri ruwujil k'amaya'l.</li></ul>">
 
 <!ENTITY netOffline.title "Pa rub'eyal majun ximoj">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
@@ -61,7 +61,7 @@
 <!ENTITY unknownProtocolFound.title "Man nich'ob'otäj ta ri ochochib'äl">
 <!ENTITY unknownProtocolFound.longDesc " <ul>    <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li>    </ul>">
 
-<!ENTITY proxyConnectFailure.title "Tajin yeruxutuj r itaq okem ri proxi ruk'u'x samaj ">
+<!ENTITY proxyConnectFailure.title "Ri proxy ruk'u'x samaj tajin yerutzolij ri taq okem">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj ri runuk'ulem proxi richin najikib'a' chi ütz.</li> <li>Tatz'ib'aj el chi re ri anuk'unel b'ey richin najikib'a chi ri proxi ruk'u'x samaj tajin nisamäj.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
@@ -85,7 +85,7 @@
 
 <!ENTITY sharedLongDesc3 "<ul> <li>Rik'in jub'a' man q'aläj ta wakami o janila tajin nokisäx ri ruxaq k'amaya'l. Tatojtob'ej chik pa jun mej.</li> <li>We man nok ta pa majun ruxaq k'amaya'l, tanik'oj ri rutzij awoyonib'al o rokem pa Mek'am. <button id='wifi'>Titzij ri Mek'am</button> </li> </ul>">
 
-<!ENTITY cspBlocked.title "Q'aton ruma ri chajinel rupam na'oj">
+<!ENTITY cspBlocked.title "Q'aton ruma ri Runa'ojil Rujikomal Rupam Etamab'äl">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; man xuya' ta q'ij chi xusamajib'ej ruxaq k'amaya'l pa rub'eyal re' ruma ruchajin jun runa'oj rujikomal rupam, ri man nuya' ta q'ij.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Sachoj ruma itzel rupam">
