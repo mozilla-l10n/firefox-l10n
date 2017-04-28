@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "साठवलेल्या पासवर्डसचा संदेश फलक उघडा">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इनचा वापर व्यवस्थापित करा">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "साईटने आपल्याला सूचना दर्शवाव्या किंवा कसे यासाठी योग्य बदल करा">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "पर्सिस्टन्ट स्टोरेजमध्ये माहिती साठवा">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "साइटवर आपला कॅमेरा आणि /किंवा मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "साइटवर आपला मायक्रोफोन शेअर करण्याचे व्यवस्थापन करा">
@@ -901,15 +901,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM बद्दल अधिक जाणून घ्या…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "नवीनतम वेग आणि गोपनीयतेसाठी आपले &brandShorterName; अद्ययावत करा.">
+<!ENTITY updateAvailable.whatsnew.label "नवीन काय आहे ते पहा">
+<!ENTITY updateAvailable.header.message "नवीन आणि अद्ययावत &brandShorterName; उपलब्ध आहे">
+<!ENTITY updateAvailable.acceptButton.label "अद्यायावत डाऊनलोड करा">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
 
 
+<!ENTITY updateAvailable.panelUI.label "अद्ययावत &brandShorterName; डाऊनलोड करा">
 
-
-
-
-
-
-
+<!ENTITY updateManual.message "&brandShorterName; ची नवी प्रत डाउनलोड करा, आम्ही तुम्हाला ती प्रस्थापित करण्यास मदत करू.">
+<!ENTITY updateManual.whatsnew.label "नवीन काय आहे ते पहा.">
 
 
 
