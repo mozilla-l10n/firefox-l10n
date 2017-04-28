@@ -116,7 +116,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaSignIn.label "登录&syncBrand.shortName.label;服务">
 <!ENTITY fxaSignedIn.tooltip "打开&syncBrand.shortName.label;服务首选项">
 <!ENTITY fxaSignInError.label "重新连接&syncBrand.shortName.label;服务">
-<!ENTITY fxaUnverified.label "验证您的账号">
+<!ENTITY fxaUnverified.label "验证您的账户">
 
 
 <!ENTITY fullScreenMinimize.tooltip "最小化">
