@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "نشانک حذف گردید">
 <!ENTITY bookmark_updated "نشانک به‌روزرسانی شد">
 <!ENTITY bookmark_options "گزینه‌ها">
+<!ENTITY bookmark_save "ذخیره">
 <!ENTITY screenshot_added_to_bookmarks "عکس از صفحه به نشانک‌ها اضافه شد">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; موارد">
 <!ENTITY bookmark_folder_one_item "۱ مورد">
+
 
 <!ENTITY reader_saved_offline "ذخیره به صورت آفلاین">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -216,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "صفحه خانگی">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "برای زبانه‌های جدید هم استفاده کن">
 <!ENTITY home_homepage_title "تنظیم یک صفحه خانگی">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "اجازه دادن به برنامه‌ها برای باز کردن وب‌سایت‌ها از طریق یک نسخه سفارشی از &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "باز کردن با &formatS;">
+<!ENTITY custom_tabs_menu_footer "قدرت گرفته از &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "آدرس رونوشت شد">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "جریان فعالیت‌ها">
@@ -362,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "استفاده اندازهٔ قلمِ سیستم">
+<!ENTITY pref_use_system_font_size_summary "مقیاس محتوا وب بر اساس اندازهٔ قلمِ سیستم">
 
 <!ENTITY pref_media_autoplay_enabled "اجازه پخش خودکار">
 <!ENTITY pref_media_autoplay_enabled_summary "بررسی قابلیت پخش خودکار ویدئو و دیگر محتوای رسانه بر روی پایگاه‌های وب">
@@ -492,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "باز کردن در زبانهٔ خصوصی">
 <!ENTITY contextmenu_remove "حذف">
 <!ENTITY contextmenu_add_to_launcher "اضافه کردن به صفحه‌ی خانه">
-
+<!ENTITY contextmenu_set_as_homepage "تنظیم به عنوان صفحه‌خانگی">
 <!ENTITY contextmenu_share "اشتراک‌گذاری">
 <!ENTITY contextmenu_pasteandgo "چسباندن و رفتن">
 <!ENTITY contextmenu_paste "چسباندن">
@@ -517,11 +524,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "گذرواژه به کلیپ‌بورد کپی شد">
 <!ENTITY doorhanger_login_select_action_text "اطلاعات ورود دیگری را انتخاب کنید">
 <!ENTITY doorhanger_login_select_title "کپی گذرواژه از">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "بزرگ نمایی یک ناحیه کوچک">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "بزرگنمایی پیوندها و فیلدهای فرم زمانی که بر روی نزدیکی آن ضربه می‌زنید">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -566,7 +568,7 @@
 <!ENTITY button_yes "بله">
 <!ENTITY button_no "خیر">
 <!ENTITY button_clear_data "پاک‌کردن اطلاعات">
-
+<!ENTITY button_set "تنظیم">
 <!ENTITY button_clear "پاک کردن">
 <!ENTITY button_copy "رونوشت">
 
@@ -728,14 +730,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
