@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "url-classifier туралы ақпарат">
+<!ENTITY aboutUrlClassifier.providerTitle               "Провайдер">
+<!ENTITY aboutUrlClassifier.provider                    "Провайдер">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Соңғы жаңарту уақыты">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Келесі жаңарту уақыты">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Соңғы жаңарту қалып-күйі">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Жаңарту">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Іздеу">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Сәйкестеу">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Сәйкестеу нәтижесін тексеру">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Іздеу">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Іздеу нәтижесін тексеру">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Жады">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Дерекқор">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Жөндеу">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Журналдау модульдерін орнату">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Журналдау файлын орнату">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS журналдауын орнату">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Қауіпсіз шолу журналдау модульдері">
+<!ENTITY aboutUrlClassifier.debugModules                "Ағымдағы журналдау модульдері">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Қауіпсіз шолу JS журналдауы">
+<!ENTITY aboutUrlClassifier.debugFile                   "Ағымдағы журналдау файлы">
