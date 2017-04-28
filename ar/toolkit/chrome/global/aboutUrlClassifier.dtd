@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "معلومات عن url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "المزوِّد">
+<!ENTITY aboutUrlClassifier.provider                    "المزوِّد">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "وقت آخر تحديث">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "وقت التحديث التالي">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "حالة آخر تحديث">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "حدِّث">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "البحث">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "المسار">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "التطابق">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "تحقق من حالة التطابق">
+<!ENTITY aboutUrlClassifier.lookupLookup                "البحث">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "تحقق من حالة البحث">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "الخبيئة">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "الذاكرة">
+<!ENTITY aboutUrlClassifier.databaseTitle               "قاعدة البيانات">
+<!ENTITY aboutUrlClassifier.debugTitle                  "التنقيح">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "حدد وحدات السجل">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "حدد ملف السجل">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "حدد سجل جافاسكربت">
+<!ENTITY aboutUrlClassifier.debugSBModules              "وحدات سجل التصفح الآمن">
+<!ENTITY aboutUrlClassifier.debugModules                "وحدات السجل الحالية">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "سجل جافاسكربت التصفح الآمن">
+<!ENTITY aboutUrlClassifier.debugFile                   "ملف السجل الحالي">

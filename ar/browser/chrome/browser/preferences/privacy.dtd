@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "الحماية من التعقّب">
-
-
+<!ENTITY  trackingProtection.description       "التعقب هو جمع الشركات للمعلومات لبناء تصوّر لك و عرض المحتوى بناء على تصفحك و بياناتك الشخصية.">
+<!ENTITY  trackingProtection.radioGroupLabel   "امنع شركات التعقب المعروفة من عرض المحتوى">
 <!ENTITY  trackingProtectionAlways.label       "دائمًا">
 <!ENTITY  trackingProtectionAlways.accesskey   "د">
 <!ENTITY  trackingProtectionPrivate.label      "في النوافذ الخاصة فقط">
