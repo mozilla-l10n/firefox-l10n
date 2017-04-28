@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "s">
 <!ENTITY startupUserHomePage.label "आपका होम पेज दिखाएँ">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
-
+<!ENTITY startupPrevSession.label  "पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ">
 
 <!ENTITY homepage.label            "मुख्य पृष्ठ:">
 <!ENTITY homepage.accesskey        "P">
