@@ -11,24 +11,24 @@
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">
 <!ENTITY importFromIE.accesskey         "I">
-
-
+<!ENTITY importFromEdge.label           "Microsoft Edge">
+<!ENTITY importFromEdge.accesskey       "E">
 <!ENTITY importFromNothing.label        "Không nhập gì cả">
 <!ENTITY importFromNothing.accesskey    "h">
 <!ENTITY importFromSafari.label         "Safari">
 <!ENTITY importFromSafari.accesskey     "S">
-
-
+<!ENTITY importFromCanary.label         "Chrome Canary">
+<!ENTITY importFromCanary.accesskey     "n">
 <!ENTITY importFromChrome.label         "Chrome">
 <!ENTITY importFromChrome.accesskey     "C">
-
-
+<!ENTITY importFromChromium.label       "Chromium">
+<!ENTITY importFromChromium.accesskey   "u">
 <!ENTITY importFromFirefox.label        "Firefox">
 <!ENTITY importFromFirefox.accesskey    "x">
+<!ENTITY importFrom360se.label          "360 Secure Browser">
+<!ENTITY importFrom360se.accesskey      "3">
 
-
-
-<!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa trang đánh dấu, lược sử và dữ liệu mật khẩu.">
+<!ENTITY noMigrationSources.label       "Không tìm thấy chương trình nào chứa trang đánh dấu, lược sử, hoặc dữ liệu mật khẩu.">
 
 <!ENTITY importSource.title             "Nhập các Thiết lập và Dữ liệu từ">
 <!ENTITY importItems.title              "Các mục cần Nhập">
@@ -43,3 +43,4 @@
 <!ENTITY done.title                     "Nhập Xong">
 <!ENTITY done.label                     "Các mục sau đã được nhập thành công:">
 
+<!ENTITY closeSourceBrowser.label       "Vui lòng chắc chắn trình duyệt được chọn đã đóng truớc khi tiếp tục.">

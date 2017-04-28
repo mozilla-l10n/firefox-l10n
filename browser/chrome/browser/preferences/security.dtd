@@ -8,8 +8,11 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Chặn nội dung lừa đảo và không an toàn">
+<!ENTITY  enableSafeBrowsing.accesskey    "C">
 
-
+<!ENTITY  blockDownloads.label            "Chặn tải xuống không an toàn">
+<!ENTITY  blockDownloads.accesskey        "k">
 
 
 
@@ -26,4 +29,5 @@
 <!ENTITY  changeMasterPassword.label     "Thay đổi Mật khẩu Chính…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-
+<!ENTITY  savedLogins.label              "Đăng nhập đã lưu…">
+<!ENTITY  savedLogins.accesskey          "l">

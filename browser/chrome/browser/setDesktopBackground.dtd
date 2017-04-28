@@ -6,10 +6,10 @@
 <!ENTITY tile.label                 "Lợp">
 <!ENTITY center.label               "Giữa">
 <!ENTITY stretch.label              "Trải ra">
-<!ENTITY fill.label                 "Fill (lấp đầy)">
-<!ENTITY fit.label                  "Fit (vừa vặn)">
+<!ENTITY fill.label                 "Lấp đầy">
+<!ENTITY fit.label                  "Vừa vặn">
 <!ENTITY preview.label              "Xem trước">
 <!ENTITY color.label                "Màu sắc:">
 <!ENTITY setDesktopBackground.title "Đặt Làm Ảnh Nền">
-<!ENTITY openDesktopPrefs.label     "Mở Tùy chọn của Desktop">
+<!ENTITY openDesktopPrefs.label     "Mở tùy chọn máy tính bàn">
 <!ENTITY closeWindow.key            "w">

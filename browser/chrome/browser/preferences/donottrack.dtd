@@ -4,6 +4,8 @@
 
 
 
+<!ENTITY doNotTrackCheckbox2.label    "Luôn áp dụng chế độ không theo dõi">
+<!ENTITY doNotTrackCheckbox2.accesskey "L">
 
-
-
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; sẽ báo rằng bạn không muốn bị theo dõi mỗi khi chế độ chống theo dõi được bật.">
+<!ENTITY doNotTrackLearnMore.label    "Tìm hiểu thêm">

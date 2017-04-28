@@ -24,17 +24,17 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 
 <!ENTITY  font.langGroup.latin                    "Latinh">
-
+<!ENTITY  font.langGroup.japanese                 "Tiếng Nhật">
 <!ENTITY  font.langGroup.trad-chinese             "Hoa Phồn Thể (Đài Loan)">
 <!ENTITY  font.langGroup.simpl-chinese            "Hoa Giản Thể">
 <!ENTITY  font.langGroup.trad-chinese-hk          "Hoa Phồn Thể (Hồng Kông)">
-
-
-
-
-
-
-
+<!ENTITY  font.langGroup.korean                   "Tiếng Hàn Quốc">
+<!ENTITY  font.langGroup.cyrillic                 "Tiếng Kirin">
+<!ENTITY  font.langGroup.el                       "Tiếng Hi Lạp">
+<!ENTITY  font.langGroup.other                    "Hệ thống viết khác">
+<!ENTITY  font.langGroup.thai                     "Tiếng Thái">
+<!ENTITY  font.langGroup.hebrew                   "Tiếng Do Thái">
+<!ENTITY  font.langGroup.arabic                   "Tiếng Ả Rập">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
 <!ENTITY  font.langGroup.tamil                    "Tamil">
 <!ENTITY  font.langGroup.armenian                 "Armenia">
@@ -47,7 +47,7 @@
 <!ENTITY  font.langGroup.khmer                    "Khơ-me">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 
-
+<!ENTITY  font.langGroup.odia                     "Tiếng Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
 <!ENTITY  font.langGroup.sinhala                  "Sinhala">
@@ -63,15 +63,17 @@
 
 
 
+<!ENTITY languages.customize.Fallback2.grouplabel "Mã hóa văn bản cho nội dung cũ">
 
 
+<!ENTITY languages.customize.Fallback2.desc       "Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.">
 
-
+<!ENTITY languages.customize.Fallback.auto        "Mặc định cho bản địa hiện tại">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
-
-
-
+<!ENTITY languages.customize.Fallback.baltic      "Tiếng Ban-tích">
+<!ENTITY languages.customize.Fallback.ceiso       "Tiếng Trung Âu, ISO">
+<!ENTITY languages.customize.Fallback.cewindows   "Tiếng Trung Âu, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.simplified  "Hoa giản thể">
@@ -89,9 +91,10 @@
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.thai        "Tiếng Thái Lan">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Việt">
-
+<!ENTITY languages.customize.Fallback.other       "Khác (gồm Tây Âu)">

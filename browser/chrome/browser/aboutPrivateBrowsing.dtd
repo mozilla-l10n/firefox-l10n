@@ -7,25 +7,25 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "r">
 
 
+<!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Khi bạn duyệt web trong cửa sổ riêng tư, Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "không lưu">
 
+<!ENTITY aboutPrivateBrowsing.info.visited               "trang đã vào">
+<!ENTITY aboutPrivateBrowsing.info.searches              "tìm kiếm">
+<!ENTITY aboutPrivateBrowsing.info.cookies               "cookie">
+<!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "tập tin tạm thời">
+<!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox ">
+<!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "sẽ lưu">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " của bạn:">
+<!ENTITY aboutPrivateBrowsing.info.downloads             "tải về">
+<!ENTITY aboutPrivateBrowsing.info.bookmarks             "trang đánh dấu">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutPrivateBrowsing.note.emphasize             "không giúp bạn ẩn danh">
+<!ENTITY aboutPrivateBrowsing.note.after                 " trên Internet. Chủ công ty hoặc nhà cung cấp Internet của bạn vẫn có thể biết những trang bạn truy cập.">
 
 
 
 
 <!ENTITY trackingProtection.title                        "Chống theo dõi">
-
-
+<!ENTITY trackingProtection.description2                 "Một số trang dùng hệ thống theo dõi để có thể theo dõi hoạt động của bạn trên Internet. Với chế độ chống theo dõi của Firefox sẽ giúp chặn hệ thống theo dõi có thể thu thập thông tin về hành vi duyệt web của bạn.">
+<!ENTITY trackingProtection.startTour1                   "Xem nó hoạt động thế nào">
