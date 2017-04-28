@@ -17,5 +17,7 @@
 <!ENTITY  paneContainers.title          "Luokitellut välilehdet">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefox-tili">
 
+<!ENTITY  helpButton2.label        "&brandShortName;-tuki">
 
