@@ -30,7 +30,7 @@
 
 <!ENTITY dataChoicesTab.label            "Možnosti hlášení">
 
-<!ENTITY healthReportDesc.label          "Pomáhá porozumět výkonu a zdraví prohlížeče. Data o prohlížeči jsou sdílena s organizací &vendorShortName;.">
+<!ENTITY healthReportDesc.label          "Pomáhá porozumět výkonu a zdraví prohlížeče. Data jsou sdílena s organizací &vendorShortName;.">
 <!ENTITY enableHealthReport.label        "Povolit hlášení o zdraví aplikace &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "z">
 <!ENTITY healthReportLearnMore.label     "Zjistit více">
@@ -85,7 +85,7 @@
 
 <!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
 <!ENTITY updateApplication.description   "Povolit aplikaci &brandShortName;">
-<!ENTITY updateAuto2.label               "Instalovat aktualizace automaticky (doporučeno pro vyšší bezpečnost)">
+<!ENTITY updateAuto2.label               "Aktualizovat automaticky (doporučeno pro vyšší bezpečnost)">
 <!ENTITY updateAuto2.accesskey           "a">
 <!ENTITY updateCheckChoose2.label        "Vyhledávat aktualizace, ale zeptat se na jejich instalaci">
 <!ENTITY updateCheckChoose2.accesskey    "c">
