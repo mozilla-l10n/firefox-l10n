@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "पुस्तचिह्न हटाया गया">
 <!ENTITY bookmark_updated "पुस्तचिह्न अद्यतित">
 <!ENTITY bookmark_options "विकल्प">
+<!ENTITY bookmark_save "सहेजें">
 <!ENTITY screenshot_added_to_bookmarks "स्क्रीनशॉट पुस्तचिह्न में जोड़ा गया">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; वस्तु">
 <!ENTITY bookmark_folder_one_item "1 चीज">
+
 
 <!ENTITY reader_saved_offline "ऑफलाइन सहेजा गया">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -216,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "होमपेज">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "नए टैब के लिए भी उपयोग करें">
 <!ENTITY home_homepage_title "होमपेज व्यवस्थित करें">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "आप्स को &brandShortName; के कस्टमाइज्ड संस्करण का प्रयोग करके वेबसाइट खोलने की अनुमति दें">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "नये &formatS; में खोलें">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; द्वारा संचालित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "यूआरएल की नकल की गई">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
@@ -362,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "प्रणाली लिपि आकार का उपयोग करें">
+<!ENTITY pref_use_system_font_size_summary "प्रणाली लिपि आकार के अनुसार वेब सामग्री की माप लें">
 
 <!ENTITY pref_media_autoplay_enabled "ऑटोप्ले की अनुमति दें">
 <!ENTITY pref_media_autoplay_enabled_summary "अगर वेबसाइट स्वत: वीडियो और दूसरी मीडिया सामग्री चलाता है तो यह उसे नियंत्रित करता है">
@@ -492,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "निजी टैब में खोलें">
 <!ENTITY contextmenu_remove "हटाएँ">
 <!ENTITY contextmenu_add_to_launcher "मुख्य स्क्रीन में जोड़ें">
-
+<!ENTITY contextmenu_set_as_homepage "मुख पृष्ठ के रूप में स्थापित करें">
 <!ENTITY contextmenu_share "साझा करें">
 <!ENTITY contextmenu_pasteandgo "चिपकाएँ व जाएँ">
 <!ENTITY contextmenu_paste "चिपकाएँ">
@@ -517,11 +524,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्ड में पासवर्ड कॉपी किया गया">
 <!ENTITY doorhanger_login_select_action_text "दूसरा लॉगिन चयन करें">
 <!ENTITY doorhanger_login_select_title "से पासवर्ड कॉपी करें">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "छोटे क्षेत्र आवर्द्धित करें">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "लिंक और फ़ॉर्म क्षेत्र को उनके नजदीक स्पर्श करने पर बड़ा करें ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -534,7 +536,7 @@
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
 <!ENTITY pref_compact_tabs "काम्पैक्ट टैब">
-
+<!ENTITY pref_compact_tabs_summary2 "लम्बवत् स्थिति में दो स्तम्भों में टैब व्यवस्थित करें">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -566,7 +568,7 @@
 <!ENTITY button_yes "हाँ">
 <!ENTITY button_no "नहीं">
 <!ENTITY button_clear_data "आँकड़ा साफ़ करें">
-
+<!ENTITY button_set "लगाएँ">
 <!ENTITY button_clear "साफ़ करें">
 <!ENTITY button_copy "नक़ल लें">
 
@@ -688,7 +690,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "&formatS1; को &formatS2; के लिए खोजें">
 
 <!ENTITY searchable_description "पुस्तचिह्न और इतिहास">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "&brandShortName; के लिए अद्यतन उपलब्ध">
 <!ENTITY updater_start_select2 "डाउनलोड करने के लिए छुएँ">
 
 <!ENTITY updater_downloading_title2 "&brandShortName; का डाउनलोड जारी">
@@ -696,7 +700,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "डाउनलोड होने पर अद्यतन लागू करने के लिए छुएँ">
 <!ENTITY updater_downloading_retry2 "पुनःप्रयास के लिए छुएँ">
 
-
+<!ENTITY updater_apply_title3 "&brandShortName; के लिए अद्यतन उपलब्ध">
+<!ENTITY updater_apply_select3 "संस्थापित करने के लिए स्पर्श करें">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -725,14 +730,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
@@ -841,4 +838,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "खारिज करें">
 <!ENTITY activity_stream_delete_history "इतिहास मिटाएँ">
 
-
+<!ENTITY activity_stream_welcome_title "आपकी प्रमुखताओं में आपका स्वागत है">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; अब आपके द्वारा वेब पर खोज की गई चीज़ों की प्रमुखताओं को बनाता है ताकि आप अच्छे लेख, वीडियो, बुकमार्क और अन्य पृष्ठों पर वापस आने का अपना तरीका पा सकें.">

@@ -14,7 +14,7 @@
 <!ENTITY connectionFailure.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY deniedPortAccess.title "यह पता प्रतिबंधित है">
-<!ENTITY deniedPortAccess.longDesc "">
+<!ENTITY deniedPortAccess.longDesc "‌">
 
 <!ENTITY dnsNotFound.title "सर्वर नहीं मिला">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
