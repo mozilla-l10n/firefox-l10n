@@ -30,7 +30,7 @@
 <!-- Bookmark folder strings -->
 
 <!ENTITY bookmarks.folder.menu.label "पुस्तचिह्न मेन्यू">
-<!ENTITY bookmarks.folder.places.label ''>
+<!ENTITY bookmarks.folder.places.label "‌">
 <!ENTITY bookmarks.folder.tags.label "टैग">
 <!ENTITY bookmarks.folder.toolbar.label "पुस्तचिह्न औज़ारपट्टी">
 <!ENTITY bookmarks.folder.other.label "अन्य पुस्तचिह्न">
@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "अधिक&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
-
+<!ENTITY fxaccount_remove_account_dialog_title2 "संकालन से संपर्क तोड़ें?">
+<!ENTITY fxaccount_remove_account_dialog_message2 "आपका ब्राउज़िंग आंकड़ा इस उपकरण पर रहेगा, लेकिन यह अब आपके खाते के साथ समन्वयित नहीं होगा.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Firefox खाता &formatS; असंबद्ध.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "अलग करें">
 
 <!ENTITY fxaccount_enable_debug_mode "दोषसुधार स्थिति सक्रिय करें">
 <!-- Localization note: this is the name shown by the Android system
