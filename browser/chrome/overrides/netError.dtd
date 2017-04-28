@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "S'ha produciu un problema en cargar a pachina">
 <!ENTITY retry.label "Torna-lo a probar">
 <!ENTITY returnToPreviousPage.label "Ir enta zaga">
-
+<!ENTITY advanced.label "Abanzau">
 <!-- Specific error messages -->
 
 
@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Ups.">
 <!ENTITY generic.longDesc "<p>&brandShortName; no puet cargar la pachina por bella razón.</p>">
 
+<!ENTITY captivePortal.title "Iniciar sesión de ret">
+<!ENTITY captivePortal.longDesc2 "<p>Has d'iniciar sesión en iste ret antes d'acceder a internet.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Ubrir la pachina d'Inicio de ret">
 
 <!ENTITY malformedURI.title "L'adreza no ye valida">
 <!ENTITY malformedURI.longDesc "<ul> <li>Las adrezas web s'escriben por un regular como <strong>http://www.eixemplo.com/</strong></li> <li>Asegure-se que ye emplegando barras inclinadas enta debant (ye decir <strong>/</strong>).</li> </ul>">
@@ -106,6 +108,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; no s'ha connectau a <span id='wrongSystemTime_URL'/> porque lo reloch d'o suyo ordinador pareix que amuestra un tiempo incorrecto y isto priva una connexión segura.</p> <p>O suyo ordinador indica <span id='wrongSystemTime_systemDate'/>, quan habría d'estar <span id='wrongSystemTime_actualDate'/>. Ta apanyar iste problema, cambia los achustes de data y hora pa meter lo sistema en hora.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; no s'ha connectau a <span id='wrongSystemTimeWithoutReference_URL'/> porque lo reloch d'o suyo ordinador pareix que amuestra un tiempo incorrecto y isto priva una connexión segura.</p> <p>Lo suyo ordinador indica <span id='wrongSystemTimeWithoutReference_systemDate'/>. Ta apanyar iste problema, cambia los achustes de data y hora pa meter-lo en hora.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexión insegura">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Iste puesto fa servir HTTP Strict Transport Security (HSTS) pa especificar que &brandShortName; nomás se pueda connectar a ell de traza segura. A resultas d'isto, no ye posible anyader una excepción a iste certificau.">

@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fuents y Colors">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Tipografía por defecto:">
+<!ENTITY  defaultFont2.accesskey      "d">
+<!ENTITY  defaultSize2.label          "Mida:">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Abanzadas…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -52,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduccions de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Conteniu con DRM">
 
 <!ENTITY  playDRMContent.label         "Reproducir conteniu DRM">
 <!ENTITY  playDRMContent.accesskey     "p">
