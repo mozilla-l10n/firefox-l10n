@@ -34,7 +34,7 @@
 <!ENTITY bookmarks.folder.tags.label "Dan">
 <!ENTITY bookmarks.folder.toolbar.label "Keto alama me me Gitic">
 <!ENTITY bookmarks.folder.other.label "Alamabuk Mukene">
-<!ENTITY bookmarks.folder.desktop.label "Alama buk me Cal ma i kompiuta">
+<!ENTITY bookmarks.folder.desktop.label "Alamabuk me wang kompiuta">
 <!ENTITY bookmarks.folder.mobile.label "Alama me pot buk ma kiwoto kwede">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
 <!ENTITY bookmarks.folder.pinned.label "Kimwono">
