@@ -84,21 +84,24 @@
 <!ENTITY updateTab.label                 "Diweddaru">
 
 <!ENTITY updateApplication.label         "Diweddariadau &brandShortName;">
+<!ENTITY updateApplication.description   "Caniatau i &brandShortName;">
+<!ENTITY updateAuto2.label               "Gosod diweddariadau yn awtomatig (argymell ar gyfer gwella diogelwch)">
+<!ENTITY updateAuto2.accesskey           "G">
+<!ENTITY updateCheckChoose2.label        "Gwirio am ddiweddariadau, ond gadael i mi ddewis i'w gosod a'i peidio">
+<!ENTITY updateCheckChoose2.accesskey    "G">
+<!ENTITY updateManual2.label             "Byth gwirio am ddiweddariadau (ddim yn argymell)">
+<!ENTITY updateManual2.accesskey         "B">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Dangos Hanes Diweddaru…">
+<!ENTITY updateHistory2.accesskey        "D">
 
 <!ENTITY useService.label                "Defnyddio gwasanaethau cefndirol i osod diweddariadau">
 <!ENTITY useService.accesskey            "c">
 
+<!ENTITY enableSearchUpdate2.label       "Diweddaru peiriannau chwilio yn awtomatig">
+<!ENTITY enableSearchUpdate2.accesskey   "p">
 
-
+<!ENTITY reports.label                   "Adroddiadau">
 
 <!ENTITY offlineStorageNotify.label               "Dweud wrthyf pan fydd gwefan yn gofyn i storio data ar gyfer defnydd all-lein">
 <!ENTITY offlineStorageNotify.accesskey           "D">
@@ -112,7 +115,7 @@
 <!ENTITY offlineAppRemove.confirm        "Tynnu data all-lein">
 
 <!ENTITY certificateTab.label            "Tystysgrifau">
-
+<!ENTITY certPersonal2.description       "Pan fydd gweinydd yn gofyn am fy nhystysgrif bersonol:">
 <!ENTITY selectCerts.auto                "Dewis un yn awtomatig">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Gofyn i mi bob tro">

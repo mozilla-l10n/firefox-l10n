@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Caniatáu i &brandShortName; a Firefox redeg ar yr un pryd">
 <!ENTITY useFirefoxSync.label             "Cyngor: Mae'n defnyddio proffiliau gwahanol. Defnyddiwch Sync i rannu data rhyngddynt.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Mewngofnodi i &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Agor dewisiadau &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Galluogi prosesu lluosog yn &brandShortName;">
