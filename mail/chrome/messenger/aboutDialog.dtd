@@ -8,6 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Sjå etter oppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
+<!ENTITY update.updateButton.label3               "Start på nytt for å oppdatere &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "t">
 
 
