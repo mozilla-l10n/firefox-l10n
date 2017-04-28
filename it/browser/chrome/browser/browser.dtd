@@ -663,3 +663,4 @@
 <!ENTITY updateRestart.cancelButton.label "Non adesso">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Riavvia &brandShorterName; per installare l’aggiornamento">
+<!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
