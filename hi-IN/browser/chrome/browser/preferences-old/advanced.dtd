@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "और जानें">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए प्रदर्शन, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करते हैं">
-
-
+<!ENTITY enableTelemetryData.label       "अतिरिक्त डाटा साझा करें (यानी, टेलीमेट्री)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "और जानें">
 
 <!ENTITY crashReporterDesc2.label         "क्रेश विवरण &vendorShortName; समस्याएँ ठीक करने और आपके ब्राउज़र को ज्यादा स्थायी और सुरक्षित रखने में मदद करता है ">
@@ -58,7 +58,9 @@
 <!ENTITY offlineStorage2.label           "ऑफ़ाइल वेबकंटेंट और उपयोक्ता आँकड़े">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "साइट आँकड़ा">
+<!ENTITY clearSiteData.label             "सभी आँकड़े साफ करें">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "सेटिंग…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "और जानें">
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "अद्यतन">
 
+<!ENTITY updateApplication.label         "&brandShortName; अद्यतन">
 <!ENTITY updateAuto1.label               "अद्यतन स्वतः संस्थापित करें (अनुशंसित: बेहतर सुरक्षा)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
+<!ENTITY updateCheckChoose.label         "अद्यतन हेतु जाँचें; लेकिन मुझे उन्हें संस्थापित करने के लिए चुनने दें">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "अद्यतन के लिए कभी मत जाँचें (अनुशंसित नहीं: सुरक्षा जोखिम)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "स्वतः अद्यतन">
 <!ENTITY enableSearchUpdate.label        "खोज इंजन">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-
+<!ENTITY offlineStorageNotify.label               "मुझे बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग हेतु आँकड़ा संग्रहित करने के लिए पूछता है">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
