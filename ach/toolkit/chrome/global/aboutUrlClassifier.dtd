@@ -4,14 +4,14 @@
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
 
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Cawa ma ogiko me ngec manyen">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Cawa malubo me ngec manyen">
 
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ket ngec manyen">
 
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Rwate">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Rot adwogi me Rwate">
 
 
 

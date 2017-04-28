@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "Wot me &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
 
-<!ENTITY preferencesCmdMac.label        "Ma imaro…">
+<!ENTITY preferencesCmdMac.label        "Ter…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Tic">

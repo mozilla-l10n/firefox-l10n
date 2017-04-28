@@ -82,8 +82,8 @@
 <!ENTITY cmd.findUpdates.accesskey            "N">
 <!ENTITY cmd.preferencesWin.label             "Gin ayera">
 <!ENTITY cmd.preferencesWin.accesskey         "G">
-<!ENTITY cmd.preferencesUnix.label            "Gin ma imito">
-<!ENTITY cmd.preferencesUnix.accesskey        "G">
+<!ENTITY cmd.preferencesUnix.label            "Ter">
+<!ENTITY cmd.preferencesUnix.accesskey        "T">
 <!ENTITY cmd.about.label                      "Makwako">
 <!ENTITY cmd.about.accesskey                  "M">
 
@@ -108,8 +108,8 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
 <!ENTITY cmd.showPreferencesWin.label         "Gin ayera">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Lok gin ayera me med-ikome man">
-<!ENTITY cmd.showPreferencesUnix.label        "Gin ma imito">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Lok ma imaro me med-ikome man">
+<!ENTITY cmd.showPreferencesUnix.label        "Ter">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Lok ter me med-ikome man">
 <!ENTITY cmd.contribute.label                 "Jogi">
 <!ENTITY cmd.contribute.accesskey             "J">
 <!ENTITY cmd.contribute.tooltip               "Mi bot pi yubo med-ikome man">
@@ -152,9 +152,9 @@
 <!ENTITY detail.showPreferencesWin.label      "Gin ayera">
 <!ENTITY detail.showPreferencesWin.accesskey  "G">
 <!ENTITY detail.showPreferencesWin.tooltip    "Lok gin ayera me med-ikome man">
-<!ENTITY detail.showPreferencesUnix.label     "Gin ma imito">
-<!ENTITY detail.showPreferencesUnix.accesskey "G">
-<!ENTITY detail.showPreferencesUnix.tooltip   "Lok ma imaro me med-ikome man">
+<!ENTITY detail.showPreferencesUnix.label     "Ter">
+<!ENTITY detail.showPreferencesUnix.accesskey "T">
+<!ENTITY detail.showPreferencesUnix.tooltip   "Lok ter me med-ikome man">
 <!-- ratings -->
 
 

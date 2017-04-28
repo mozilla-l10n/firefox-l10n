@@ -518,7 +518,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "e">
 <!ENTITY viewBGImageCmd.label         "Nen cal me ngeye">
 <!ENTITY viewBGImageCmd.accesskey     "n">
-<!ENTITY setDesktopBackgroundCmd.label      "Ket calo cal me nge wang komputa…">
+<!ENTITY setDesktopBackgroundCmd.label      "Ket calo cal me nge wang kompiuta…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "K">
 <!ENTITY bookmarkPageCmd2.label       "Ket alama buk i pot buk man">
 <!ENTITY bookmarkThisLinkCmd.label      "Ket alama buk i kakube man">

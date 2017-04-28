@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Nwo pire kene inge seconda 3">
 <!ENTITY aboutNetworking.hostname              "Nying lami kube">
 <!ENTITY aboutNetworking.port                  "Bur">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Tye katic">
 <!ENTITY aboutNetworking.idle                  "Pe tye ka tic">
@@ -29,14 +29,14 @@
 <!ENTITY aboutNetworking.messagesReceived      "Kigamo kwena">
 <!ENTITY aboutNetworking.bytesSent             "Kicwalo Bytes">
 <!ENTITY aboutNetworking.bytesReceived         "Kigamo Bytes">
+<!ENTITY aboutNetworking.logging               "Gwoko rikod">
+<!ENTITY aboutNetworking.logTutorial           "Nen <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Gwoko rikod me HTTP</a> pi ngec me tic ki gitic man.">
+<!ENTITY aboutNetworking.currentLogFile        "Pwail me rikod ma kombedi:">
 
+<!ENTITY aboutNetworking.setLogFile            "Ter pwil me rikod">
 
-
-
-
-
-
-
+<!ENTITY aboutNetworking.startLogging          "Cak gwoko rikod">
+<!ENTITY aboutNetworking.stopLogging           "Juk gwoko rikod">
 
 
 

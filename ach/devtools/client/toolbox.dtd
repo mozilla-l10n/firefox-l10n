@@ -166,14 +166,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Kit Cal me wang kio">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Cal me wang kio i bao coc">
+<!ENTITY options.screenshot.clipboard.tooltip    "Gwoko i cal me wang kio atir i bao coc">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
 <!ENTITY options.screenshot.audio.label      "Tuk dwon me koko pa lamak cal">
-
+<!ENTITY options.screenshot.audio.tooltip    "Cak dwon lamak cal ikare me mako cal me wang kio">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

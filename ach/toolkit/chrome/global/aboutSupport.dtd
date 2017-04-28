@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Cik">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Jami me &brandShortName;">
+<!ENTITY aboutSupport.featureName "Nying">
 
-
-
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Kit me atema">
 <!ENTITY aboutSupport.experimentName "Nying">
@@ -78,15 +79,15 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Yab Boc">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jami ma amaro mapire tek magiyubu">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ter mapire tek ma kiyubu gi">
 <!ENTITY aboutSupport.modifiedPrefsName "Nying">
 <!ENTITY aboutSupport.modifiedPrefsValue "Wel">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
-<!ENTITY aboutSupport.userJSTitle "user.js Ma imaro">
+<!ENTITY aboutSupport.userJSTitle "user.js Ter">
 <!ENTITY aboutSupport.userJSDescription "Boc me profile mamegi tye ki<a id='prefs-user-js-link'>pwail me user.js</a>, ma tye ki ma imaro ma pe kicweyo ki &brandShortName;.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "Jami ma amaro mapire tek makiloro">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Ter mapire tek ma kiloro gi">
 <!ENTITY aboutSupport.lockedPrefsName "Nying">
 <!ENTITY aboutSupport.lockedPrefsValue "Wel">
 
@@ -128,6 +129,6 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
-
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Rikod pi moko tam">
 
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "Yoo me loyo ne">

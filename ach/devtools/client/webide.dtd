@@ -22,7 +22,7 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "Kwany tic woko">
 <!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "Ma imaro">
+<!ENTITY projectMenu_showPrefs_label "Ter">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Lo gin ma iye makato">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
@@ -38,7 +38,7 @@
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Nen">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "Ma imaro pi nonyo">
+<!ENTITY runtimeMenu_showDevicePrefs_label "Ter me nyonyo">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "Ter me nyonyo">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -84,7 +84,7 @@
 <!ENTITY runtimePanel_installsimulator "Ket Cuma">
 <!ENTITY runtimePanel_noadbhelper "Ket lakony me ADB">
 <!ENTITY runtimePanel_nousbdevice "Pe itwero neno nyonyo mamegi?">
-
+<!ENTITY runtimePanel_refreshDevices_label "Nwo cano nyonyo">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "atir">
@@ -112,7 +112,7 @@
 <!ENTITY addons_aboutaddons "Yab Gin madoro Lamed ne">
 <!-- Prefs -->
 
-<!ENTITY prefs_title "Ma imaro">
+<!ENTITY prefs_title "Ter">
 <!ENTITY prefs_editor_title "Kacoc">
 <!ENTITY prefs_general_title "Lumuku">
 <!ENTITY prefs_restore "Dwok makwongo">
@@ -156,8 +156,8 @@
 <!ENTITY device_typenone "Yer kit">
 <!-- Device Preferences -->
 
-<!ENTITY devicepreference_title "Ma imaro pi nonyo">
-<!ENTITY devicepreference_search "Yeny ma imaro">
+<!ENTITY devicepreference_title "Ter me nyonyo">
+<!ENTITY devicepreference_search "Ter me yeny">
 <!ENTITY devicepreference_newname "Nying manyen pi ma imaro">
 <!ENTITY devicepreference_newtext "Wel pi ma imaro">
 <!ENTITY devicepreference_addnew "Med ma imaro manyen">

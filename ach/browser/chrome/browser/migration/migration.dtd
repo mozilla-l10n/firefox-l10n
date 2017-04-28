@@ -6,7 +6,7 @@
 <!ENTITY migrationWizard.title          "Kel Wizard ki woko">
 
 <!ENTITY importFrom.label               "Gin ayera me Kelo ki woko, Alama me buk, Gin mukato, Mung me donyo kacel ki tic mogo ki bot:">
-<!ENTITY importFromUnix.label           "Kel ki woko en ma imaro, Alama me buk, Gin mukato, Mung me donyo kacel ki tic mogo kibot:">
+<!ENTITY importFromUnix.label           "Kel ki woko ter, Alama me buk, Gin mukato, Mung me donyo kacel ki tic mogo kibot:">
 <!ENTITY importFromBookmarks.label      "Kel Alama buk kiwoko ki bot:">
 
 <!ENTITY importFromIE.label             "Microsoft Internet Explorer">

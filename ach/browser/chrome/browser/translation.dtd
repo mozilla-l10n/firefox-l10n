@@ -54,8 +54,8 @@
   -->
 <!ENTITY translation.options.neverForSite.label "Pe i kob kakube man matwal">
 <!ENTITY translation.options.neverForSite.accesskey "a">
-<!ENTITY translation.options.preferences.label  "Ma imaro me kobo">
-<!ENTITY translation.options.preferences.accesskey "k">
+<!ENTITY translation.options.preferences.label  "Ter me lok">
+<!ENTITY translation.options.preferences.accesskey "l">
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'

@@ -58,7 +58,7 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "T">
 <!ENTITY itemActiveLogins.label            "Donyo iyie ma tye katic">
 <!ENTITY itemActiveLogins.accesskey        "D">
-<!ENTITY itemSitePreferences.label         "Ma imaro pi kakube">
+<!ENTITY itemSitePreferences.label         "Ter me kakube">
 <!ENTITY itemSitePreferences.accesskey     "k">
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
