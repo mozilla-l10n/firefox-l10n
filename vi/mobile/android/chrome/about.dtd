@@ -12,7 +12,7 @@
 <!ENTITY aboutPage.checkForUpdates.available2   "Tải cập nhật xuống">
 <!ENTITY aboutPage.checkForUpdates.downloading  "Đang tải cập nhật xuống…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Cài đặt cập nhật">
-<!ENTITY aboutPage.faq.label                    "FAQ">
+<!ENTITY aboutPage.faq.label                    "Câu hỏi thường gặp">
 <!ENTITY aboutPage.support.label                "Hỗ trợ">
 <!ENTITY aboutPage.privacyPolicy.label          "Chính sách Riêng tư">
 <!ENTITY aboutPage.rights.label                 "Biết Về Quyền Của Bạn">
@@ -21,4 +21,4 @@
 <!ENTITY aboutPage.license.label                "Thông tin Giấy phép">
 <!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
-<!ENTITY aboutPage.logoTrademark                "Firefox và logo Firefox là thương hiệu của tổ chức Mozilla.">
+<!ENTITY aboutPage.logoTrademark                "Firefox và biểu tượng Firefox là thương hiệu của tổ chức Mozilla Foundation.">

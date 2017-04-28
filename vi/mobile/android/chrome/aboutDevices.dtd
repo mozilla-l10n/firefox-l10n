@@ -4,11 +4,11 @@
 
 <!ENTITY aboutDevices.title              "Thiết bị">
 <!ENTITY aboutDevices.header             "Thiết bị của bạn">
-<!ENTITY aboutDevices.refresh            "Cập nhật">
+<!ENTITY aboutDevices.refresh            "Làm mới">
 <!ENTITY aboutDevices.addDeviceHeader    "Thêm thiết bị">
 <!ENTITY aboutDevices.roku               "Roku">
 <!ENTITY aboutDevices.chromecast         "Chromecast">
 <!-- Localization note (aboutDevices.placeholder): this is the hint shown to the
      user prompting them to input the IP address of a casting device. -->
 <!ENTITY aboutDevices.placeholder        "Địa chỉ IP">
-<!ENTITY aboutDevices.connectManually    "Kết nối bằng tay">
+<!ENTITY aboutDevices.connectManually    "Kết nối thủ công">

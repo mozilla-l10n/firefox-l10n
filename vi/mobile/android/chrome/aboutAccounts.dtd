@@ -2,8 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY aboutAccounts.connected.title "Tài khoản Firefox">
 
 
 
+<!ENTITY aboutAccounts.noConnection.title "Không có kết nối mạng">
 
 
+<!ENTITY aboutAccounts.restrictedError.description "Bạn không thể quản lý tài khoản Firefox từ hồ sơ này.">

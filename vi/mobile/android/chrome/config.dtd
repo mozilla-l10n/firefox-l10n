@@ -11,9 +11,11 @@
 <!ENTITY newPref.valueString           "Chuỗi">
 <!ENTITY newPref.valueInteger          "Số nguyên">
 
+<!ENTITY newPref.stringPlaceholder     "Nhập một chuỗi">
+<!ENTITY newPref.numberPlaceholder     "Nhập một số">
 
-
-<!ENTITY newPref.toggleButton          "Bật-Tắt">
+<!ENTITY newPref.toggleButton          "Bật tắt">
 <!ENTITY newPref.cancelButton          "Hủy bỏ">
 
-
+<!ENTITY contextMenu.copyPrefName      "Chép tên">
+<!ENTITY contextMenu.copyPrefValue     "Chép giá trị">
