@@ -7,8 +7,8 @@
 <!ENTITY itemUpdate.label        "Leqqem">
 <!ENTITY itemNetworking.label    "Aẓeṭṭa &amp; Amkan n udedṣi">
 <!ENTITY itemCertificates.label  "Iselkan">
-<!-- General Settings -->
 
+<!-- General Settings -->
 <!ENTITY enableGlodaSearch.label       "Rmed anadi amatu akked timerna n ukatar">
 <!ENTITY enableGlodaSearch.accesskey   "m">
 <!ENTITY allowHWAccel.label            "Seqdec tasɣiwelt n warrum ma tella">
@@ -37,8 +37,8 @@
 <!ENTITY returnReceiptsInfo.label      "Wali amek ara yexdem &brandShortName; akked ibagan n wawwaḍ">
 <!ENTITY showReturnReceipts.label      "Inagan n waggaḍ…">
 <!ENTITY showReturnReceipts.accesskey  "g">
-<!-- Data Choices -->
 
+<!-- Data Choices -->
 <!ENTITY telemetrySection.label          "Tilisɣelt">
 <!ENTITY telemetryDesc.label             "Ad yebḍu isefka n timellit, aseqdec, arrum d usugenn n umsaq-inek n tirawt akked &vendorShortName; akken aɣ-d-yefk tallalt i usnerni d useggem n &brandShortName;">
 <!ENTITY enableTelemetry.label           "Rmed tilisɣelt">
@@ -50,8 +50,8 @@
 <!ENTITY enableCrashReporter.label       "Rmed amassaɣay n uɣelluy">
 <!ENTITY enableCrashReporter.accesskey   "R">
 <!ENTITY crashReporterLearnMore.label    "Issin ugar">
-<!-- Update -->
 
+<!-- Update -->
 <!ENTITY updateApp.label                 "Ileqman n &brandShortName;:">
 <!ENTITY updateAuto.label                "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateAuto.accesskey            "A">
@@ -64,8 +64,8 @@
 
 <!ENTITY useService.label                "Seqdec tanfa n ugilal i wesebded n ileqman">
 <!ENTITY useService.accesskey            "b">
-<!-- Networking and Disk Space -->
 
+<!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Iɣewwaṛen…">
 <!ENTITY showSettings.accesskey        "w">
 <!ENTITY proxiesConfigure.label        "Swel tarrayt n tuqqna n &brandShortName; ɣer Internet ">
@@ -79,20 +79,21 @@
 <!ENTITY offlineCompactFolders.label     "Ssed akk ikaramen ma yella ad yeḥrez amkan ugar n">
 <!ENTITY offlineCompactFolders.accesskey "a">
 <!ENTITY offlineCompactFoldersMB.label   "Asemday s MAṬ">
+
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
 
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
-
 <!ENTITY useCacheBefore.label            "Seqdec arama">
 <!ENTITY useCacheBefore.accesskey        "q">
 <!ENTITY useCacheAfter.label             "MAṬ n tallunt i tuffirt">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Sfeḍ tura">
 <!ENTITY clearCacheNow.accesskey         "S">
-<!-- Certificates -->
 
+<!-- Certificates -->
 <!ENTITY certSelection.description       "Ticki aqeddac isuter iselkan-iw udmawanen:">
 <!ENTITY certs.auto                      "Fren yiwen s wudem awurman">
 <!ENTITY certs.auto.accesskey            "S">

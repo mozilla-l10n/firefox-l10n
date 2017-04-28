@@ -19,6 +19,8 @@
 <!ENTITY feedFolder.accesskey        "k">
 
 <!-- Account Settings and Subscription Dialog -->
+<!ENTITY biffStart.label             "Senqed imagraden imaynuten yal ">
+<!ENTITY biffStart.accesskey         "k">
 <!ENTITY biffMinutes.label           "tisdatin">
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "ussan">

@@ -2,23 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY biffStart.label "Senqed ma llan imagraden yal ">
-<!ENTITY biffStart.accesskey "q">
-<!ENTITY biffEnd.label "tisdatin">
+<!ENTITY loginAtStartup.label          "Senqed imagraden imaynuten di tnekra">
+<!ENTITY loginAtStartup.accesskey      "q">
+<!ENTITY biffAll.accesskey             "E">
 
-<!ENTITY loginAtStartup.label "Senqed imagraden imaynuten di tnekra"> 
-<!ENTITY loginAtStartup.accesskey "q">
+<!ENTITY newFeedSettings.label         "Iɣewwaṛen imezwar i tnelliyin timaynutin">
 
-<!ENTITY useQuickMode.label "S umezwer, sken agzul n umagrad deg umḍiq n usali n usebter web"> 
-<!ENTITY useQuickMode.accesskey "S">
-
-<!ENTITY manageSubscriptions.label "Sefrek amulteɣ…"> 
+<!ENTITY manageSubscriptions.label     "Sefrek amulteɣ…">
 <!ENTITY manageSubscriptions.accesskey "f">
 
-<!ENTITY feedWindowTitle.label "Amarag n umiḍan n usuddem">
-<!-- entities from rss.rdf -->
-
-<!ENTITY feeds.accountName "Iblugen &amp; isuddam n isalen">
-<!ENTITY feeds.wizardShortName "Isuddam">
-<!ENTITY feeds.wizardLongName "Iblugen &amp; isuddam n isalen">
-<!ENTITY feeds.wizardLongName.accesskey "F">
+<!ENTITY feedWindowTitle.label         "Amarag n umiḍan n usuddem">
+<!ENTITY feeds.accountName             "Iblugen &amp; isuddam n isalen">
