@@ -31,6 +31,7 @@
 <!ENTITY firstrun_readerview_title "Jukki">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "Dindil li ñakk-solo">
+<!ENTITY firstrun_readerview_subtext "Jëfandikool Wonewiinu Jàng ngir jukki yi gën a neex a jàng \u2014 donte amoo lonkoo.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "Yaw">
@@ -359,8 +360,10 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Jëfandikoo dayoob arafi noste gi">
+<!ENTITY pref_use_system_font_size_summary "Yamaleel ëmbeefu web bi sukkadiku ci dayoob arafi noste gi">
 
-<!ENTITY pref_media_autoplay_enabled "Taal boppam">
+<!ENTITY pref_media_autoplay_enabled "Sañal taal-boppam">
 <!ENTITY pref_media_autoplay_enabled_summary "Xool ba xam dali web yi di nañ man a taalal seen bopp wideo walla yeneen ëmbeefi xibaarukaay">
 <!ENTITY pref_zoom_force_enabled "Doxal xëccat gi ba faww">
 <!ENTITY pref_zoom_force_enabled_summary "Jañ xët yi bay man di leen xëcc">
@@ -374,8 +377,8 @@
 <!ENTITY pref_sync_summary2 "Lonk say làcc, màndarga-xët, duggkaay, jaar-jaar">
 <!ENTITY pref_search_suggestions "Wone tektali ceet">
 <!ENTITY pref_history_search_suggestions "Wone jaar-jaaru ceet gi">
-<!ENTITY pref_import_options "">
-<!ENTITY pref_import_android_summary "Import bookmarks and history from the native browser">
+<!ENTITY pref_import_options "Tànneefi jëli">
+<!ENTITY pref_import_android_summary "">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Làcc yi ubbeeku">
@@ -396,8 +399,8 @@
 <!ENTITY pref_vendor_faqs "Laaj aki tont">
 <!ENTITY pref_vendor_feedback "Wax sa xalaat">
 
-<!ENTITY pref_dialog_set_default "">
-<!ENTITY pref_dialog_default "">
+<!ENTITY pref_dialog_set_default "Niki lum wàccaale">
+<!ENTITY pref_dialog_default "Wàccaale">
 <!ENTITY pref_dialog_remove "Far">
 
 <!ENTITY pref_search_last_toast "Manoo far walla doxadil sa seetukaay bu mujj.">
@@ -426,13 +429,13 @@
 <!ENTITY datareporting_fhr_title "&brandShortName; Xibaari wér-gi-yaram">
 <!ENTITY datareporting_fhr_summary2 "Séddooy xibaar ak &vendorShortName; ñeel wér-gi-yaramu sa joowukaay te it di dimbali ngir xam baaxaayam">
 <!ENTITY datareporting_abouthr_title "Wone Xibaari sama Wér-gi-yaram">
-<!ENTITY datareporting_telemetry_title "Nattkaay">
-<!ENTITY datareporting_telemetry_summary "Shares performance, usage, hardware and customization data about your browser with &vendorShortName; to help us make &brandShortName; better">
-<!ENTITY datareporting_crashreporter_summary "&brandShortName; submits crash reports to help &vendorShortName; make your browser more stable and secure">
+<!ENTITY datareporting_telemetry_title "Nattukaay">
+<!ENTITY datareporting_telemetry_summary "">
+<!ENTITY datareporting_crashreporter_summary "&brandShortName; day yónneey xibaar ñeel ay taxawam ngir dimbali &vendorShortName; mu man a gën a wóoral te dëgëral sa joowukaay">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Crash Reporter">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Location Service">
+<!ENTITY datareporting_crashreporter_title_short "Xibaari taxawam">
+<!ENTITY datareporting_wifi_title2 "Xamalekaayu Nekkuwaay gu &vendorShortName; ">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
