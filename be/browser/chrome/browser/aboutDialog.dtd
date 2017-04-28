@@ -9,9 +9,9 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Праверка існавання абнаўленняў">
-<!ENTITY update.checkForUpdatesButton.accesskey   "і">
+<!ENTITY update.checkForUpdatesButton.accesskey   "П">
 <!ENTITY update.updateButton.label2               "Перазапусціць &brandShortName; для абнаўлення">
-<!ENTITY update.updateButton.accesskey            "з">
+<!ENTITY update.updateButton.accesskey            "П">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
