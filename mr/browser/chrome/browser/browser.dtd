@@ -912,7 +912,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "&brandShorterName; ची नवी प्रत डाउनलोड करा, आम्ही तुम्हाला ती प्रस्थापित करण्यास मदत करू.">
 <!ENTITY updateManual.whatsnew.label "नवीन काय आहे ते पहा.">
-
+<!ENTITY updateManual.header.message "&brandShorterName; नवीन आवृत्तीला अद्ययावत होऊ शकत नाही">
 
 
 
