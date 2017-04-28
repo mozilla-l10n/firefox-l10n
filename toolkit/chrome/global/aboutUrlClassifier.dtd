@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "Maidir leis an aicmitheoir URL">
+<!ENTITY aboutUrlClassifier.providerTitle               "Soláthraí">
+<!ENTITY aboutUrlClassifier.provider                    "Soláthraí">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Nuashonrú is déanaí">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "An chéad nuashonrú eile">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stádas an nuashonraithe is déanaí">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Nuashonraigh">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Cuardach">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Meaitseáil">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Seiceáil na Torthaí Meaitseála">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Cuardach">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Seiceáil Torthaí an Chuardaigh">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Taisce">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Cuimhne">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Bunachar sonraí">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Dífhabhtaigh">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Socraigh Logmhodúil">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Socraigh Logchomhad">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Socraigh Logchomhad JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Logmhodúil: Slánbhrabhsáil">
+<!ENTITY aboutUrlClassifier.debugModules                "Logmhodúil reatha">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Logchomhad JS: Slánbhrabhsáil">
+<!ENTITY aboutUrlClassifier.debugFile                   "An logchomhad reatha">
