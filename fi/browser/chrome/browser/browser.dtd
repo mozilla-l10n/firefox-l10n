@@ -909,4 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "L">
 <!ENTITY updateManual.cancelButton.label "Ei nyt">
 <!ENTITY updateManual.cancelButton.accesskey "E">
+<!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
 
+<!ENTITY updateRestart.cancelButton.label "Ei nyt">
+<!ENTITY updateRestart.cancelButton.accesskey "E">
