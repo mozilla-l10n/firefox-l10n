@@ -31,9 +31,9 @@
 <!ENTITY closeCmd.accesskey                             "S">
 <!ENTITY printSetupCmd.label                            "Pagina-instellingen…">
 <!ENTITY printSetupCmd.accesskey                        "P">
-<!ENTITY printPreviewContactCmd.label                   "Afdrukvoorbeeld contact">
+<!ENTITY printPreviewContactCmd.label                   "Afdrukvoorbeeld van contact">
 <!ENTITY printPreviewContactCmd.accesskey               "v">
-<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld adresboek">
+<!ENTITY printPreviewAddressBook.label                  "Afdrukvoorbeeld van adresboek">
 <!ENTITY printPreviewAddressBook.accesskey              "b">
 <!ENTITY printContactCmd.label                          "Contact afdrukken…">
 <!ENTITY printContactCmd.accesskey                      "d">
