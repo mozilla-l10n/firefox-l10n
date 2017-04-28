@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Қарап шығу...">
 <!ENTITY loaddevice.browse.accesskey            "ш">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 құрылғы драйверін жүктеу">
