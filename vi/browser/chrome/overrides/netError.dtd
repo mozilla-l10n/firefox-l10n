@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Gặp vấn đề khi tải trang">
 <!ENTITY retry.label "Thử lại">
-
-
+<!ENTITY returnToPreviousPage.label "Trở lại">
+<!ENTITY advanced.label "Nâng cao">
 <!-- Specific error messages -->
 
 
@@ -24,7 +24,7 @@
 <!ENTITY fileNotFound.title "Không tìm thấy tập tin">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Kiểm tra tên xem có lỗi gõ HOA-thường hay lỗi nào khác không.</li> <li>Kiểm tra xem tập tin có bị di chuyển, đổi tên hay bị xóa không.</li> </ul>">
 
-
+<!ENTITY fileAccessDenied.longDesc "<ul> <li>Nó có thể đã bị xóa, chuyển đi, hay quyền truy cập tập tin đã bị chặn.</li> </ul>">
 
 <!ENTITY generic.title "Lỗi.">
 <!ENTITY generic.longDesc "<p>Vì lý do nào đó, &brandShortName; không thể mở trang này.</p>">
@@ -73,9 +73,11 @@
 
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Không thể hiển thị trang bạn muốn xem vì không thể kiểm tra tính xác thực của dữ liệu nhận được.</li><li>Vui lòng liên hệ chủ trang web để báo với họ vấn đề này.</li></ul>">
 
+<!ENTITY certerror.longpagetitle1 "Kết nối của bạn không an toàn">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
+<!ENTITY certerror.introPara "Người chủ của <span class='hostname'/> đã cấu hình trang của họ không đúng.  Để tránh mất cắp thông tin của bạn, &brandShortName; đã không kết nối tới trang này.">
 
 <!ENTITY sharedLongDesc "<ul> <li>Trang web này có thể bị gián đoạn tạm thời hoặc do quá tải. Hãy thử lại trong chốc lát.</li> <li>Nếu bạn không thể mở bất kì trang nào, hãy kiểm tra kết nối mạng.</li> <li>Nếu máy tính hoặc mạng của bạn được bảo vệ bởi tường lửa hoặc proxy, hãy chắc chắn rằng &brandShortName; được phép truy cập Web.</li> </ul>">
 
@@ -88,6 +90,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "Thêm ngoại Lệ…">
 
+<!ENTITY errorReporting.automatic2 "Báo cáo những lỗi như thế này để giúp Mozilla nhận diện và chặn những trang độc hại">
 <!ENTITY errorReporting.learnMore "Tìm hiểu thêm…">
 
 <!ENTITY remoteXUL.title "Remote XUL">
@@ -101,10 +104,14 @@ was trying to connect. -->
      tags will be injected with actual values, please leave them unchanged. -->
 
 
+<!ENTITY certerror.pagetitle1  "Kết nối không bảo mật">
+<!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Trang này dùng HTTP Strict Transport Security (HSTS) để chỉ định &brandShortName; chỉ được kết nối với nó một cách bảo mật. Cho nên, không khả thi để thêm ngoại lệ cho chứng chỉ này.">
+<!ENTITY certerror.copyToClipboard.label "Chép văn bản vào bảng ghi tạm">
 
-
-
+<!ENTITY inadequateSecurityError.title "Kết nối của bạn không an toàn">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> sử dụng công nghệ bảo mật lỗi thời và dễ bị tấn công. Một kẻ tấn công có thể dễ dàng làm lộ những thông tin mà bạn nghĩ là an toàn. Người quản lý trang web trước tiên sẽ cần phải sửa lỗi máy chủ trước khi bạn có thể vào trang.</p><p>Mã lỗi: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
-
+<!ENTITY prefReset.longDesc "Dường như là cài đặt bảo mật mạng của bạn có thể gây ra điều này. Bạn có muốn khôi phục cài đặt mặc định?">
+<!ENTITY prefReset.label "Khôi phục cài đặt mặc định">

@@ -14,7 +14,7 @@
 <!ENTITY     props.path.label               "Đường dẫn:">
 <!ENTITY     props.secure.label             "Gửi cho:">
 <!ENTITY     props.expires.label            "Hết hạn:">
-
+<!ENTITY     props.container.label          "Ngăn chứa:">
 
 <!ENTITY     window.title                   "Cookie">
 <!ENTITY     windowClose.key                "w">

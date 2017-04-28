@@ -14,8 +14,8 @@
 
 
 
-
-
+<!ENTITY useOnScreenKeyboard.label       "Hiện bàn phím cảm ứng khi cần thiết">
+<!ENTITY useOnScreenKeyboard.accesskey   "b">
 
 <!ENTITY browsing.label                  "Duyệt">
 
@@ -31,8 +31,8 @@
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
 <!ENTITY healthReportDesc.label          "Giúp bạn nắm được hiệu suất trình duyệt của bạn và chia sẻ dữ liệu với &vendorShortName; về trạng thái của trình duyệt">
-<!ENTITY enableHealthReport.label        "Trình báo cáo lỗi &brandShortName; (R)">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.label        "Bật trình báo cáo tình trạng &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "r">
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
@@ -40,8 +40,9 @@
 
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Báo cáo lỗi giúp &vendorShortName; sửa lỗi và giúp trình duyệt của bạn an toàn và ổn định hơn">
+<!ENTITY alwaysSubmitCrashReports.label   "Cho phép &brandShortName; thay mặt bạn gửi báo cáo còn tồn đọng">
+<!ENTITY alwaysSubmitCrashReports.accesskey "n">
 <!ENTITY crashReporterLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY networkTab.label                "Mạng">
@@ -91,7 +92,7 @@
 
 
 <!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "n">
 
 
 
@@ -111,10 +112,10 @@
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
 
 
-
-
-
-
-
-
-
+<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.label                "Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư">
+<!ENTITY enableOCSP.accesskey            "T">
+<!ENTITY viewCerts.label                 "Xem chứng chỉ">
+<!ENTITY viewCerts.accesskey             "c">
+<!ENTITY viewSecurityDevices.label       "Thiết bị bảo mật">
+<!ENTITY viewSecurityDevices.accesskey   "T">

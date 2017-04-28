@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "Tổng quát">
 <!ENTITY  generalTab.accesskey  "T">
-
+<!ENTITY  generalTitle          "Tiêu đề:">
 <!ENTITY  generalURL            "Địa chỉ:">
 <!ENTITY  generalType           "Kiểu:">
 <!ENTITY  generalMode           "Chế độ Xử lí:">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "URL liên quan:">
 <!ENTITY  generalSource         "Nguồn Đệm:">
 <!ENTITY  generalModified       "Được chỉnh sửa:">
-
+<!ENTITY  generalEncoding2      "Mã hóa văn bản:">
 <!ENTITY  generalMetaName       "Tên">
 <!ENTITY  generalMetaContent    "Nội dung">
 
@@ -59,7 +59,7 @@
 <!ENTITY  permissionsFor        "Quyền hạn cho:">
 <!ENTITY  permPlugins           "Kích hoạt Plugins">
 
-<!ENTITY  permClearStorage           "Xóa trắng Lưu trữ">
+<!ENTITY  permClearStorage           "Xóa trắng lưu trữ">
 <!ENTITY  permClearStorage.accesskey "u">
 
 <!ENTITY  securityTab           "Bảo mật">

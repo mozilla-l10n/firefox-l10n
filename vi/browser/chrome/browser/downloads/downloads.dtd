@@ -63,27 +63,31 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "l">
 <!ENTITY cmd.removeFromHistory.label      "Xóa khỏi nhật ký">
 <!ENTITY cmd.removeFromHistory.accesskey  "X">
-
-
+<!ENTITY cmd.clearList2.label             "Dọn bảng xem trước">
+<!ENTITY cmd.clearList2.accesskey         "D">
 <!ENTITY cmd.clearDownloads.label         "Xóa các tải về">
 <!ENTITY cmd.clearDownloads.accesskey     "v">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
-
+<!ENTITY cmd.unblock2.label               "Cho phép tải xuống">
+<!ENTITY cmd.unblock2.accesskey           "o">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
+<!ENTITY cmd.removeFile.label             "Xóa tập tin">
 <!-- LOCALIZATION NOTE (cmd.chooseUnblock.tooltip):
      This is the tooltip of the action button shown when potentially unwanted
      downloads are blocked. This opens a dialog where the user can choose
      whether to unblock or remove the download. Removing is the default option.
      -->
+<!ENTITY cmd.chooseUnblock.label          "Xóa tập tin hoặc cho phép tải về">
 <!-- LOCALIZATION NOTE (cmd.chooseOpen.tooltip):
      This is the tooltip of the action button shown when uncommon downloads are
      blocked.This opens a dialog where the user can choose whether to open the
      file or remove the download. Opening is the default option.
      -->
+<!ENTITY cmd.chooseOpen.label             "Mở hoặc xóa tập tin">
 <!-- LOCALIZATION NOTE (showMoreInformation.label):
      Displayed when hovering a blocked download, indicates that it's possible to
      show more information for user to take the next action.
@@ -122,6 +126,7 @@
 <!ENTITY downloadsHistory.label           "Xem tất cả tải về">
 <!ENTITY downloadsHistory.accesskey       "c">
 
+<!ENTITY openDownloadsFolder.label       "Mở thư mục tải xuống">
 
 <!ENTITY clearDownloadsButton.label       "Xóa các tải về">
 <!ENTITY clearDownloadsButton.tooltip     "Xóa các tải về thành công, bị hủy và thất bại">

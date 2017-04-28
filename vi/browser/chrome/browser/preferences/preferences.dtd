@@ -16,7 +16,7 @@
 <!ENTITY  paneGeneral.title             "Tổng quát">
 
 
-
+<!ENTITY  paneContainers.title          "Thẻ ngăn chứa">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 

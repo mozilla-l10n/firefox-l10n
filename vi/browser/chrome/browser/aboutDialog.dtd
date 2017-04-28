@@ -44,6 +44,7 @@
 <!ENTITY helpus.getInvolvedLink     "tham gia đóng góp!">
 <!ENTITY helpus.end                 "">
 
+<!ENTITY releaseNotes.link          "Có gì mới">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
 
 <!ENTITY bottomLinks.license        "Thông tin Giấy phép">
@@ -62,7 +63,7 @@
 <!ENTITY update.adminDisabled       "Cập nhật bị vô hiệu hóa bởi quản trị hệ thống">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; đang được cập nhật bởi tiến trình khác">
-
+<!ENTITY update.restarting          "Đang khởi động lại…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
@@ -103,5 +104,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "Bạn hiện đang trên kênh cập nhật ">
-<!ENTITY channel.description.end    ". ">
+<!ENTITY channel.description.start  "Bạn hiện đang trên ">
+<!ENTITY channel.description.end    " kênh cập nhật. ">

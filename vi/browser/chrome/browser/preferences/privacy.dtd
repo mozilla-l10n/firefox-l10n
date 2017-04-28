@@ -3,39 +3,41 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
+<!ENTITY  trackingProtectionAlways.label       "Luôn luôn">
+<!ENTITY  trackingProtectionAlways.accesskey   "n">
+<!ENTITY  trackingProtectionPrivate.label      "Chỉ trong cửa sổ riêng tư">
+<!ENTITY  trackingProtectionPrivate.accesskey  "r">
+<!ENTITY  trackingProtectionNever.label        "Không bao giờ">
+<!ENTITY  trackingProtectionNever.accesskey    "K">
 
-
-
-
-
-
-
-
-
+<!ENTITY  trackingProtectionExceptions.label   "Ngoại lệ…">
+<!ENTITY  trackingProtectionExceptions.accesskey "g">
 
 <!ENTITY tracking.label                 "Theo dõi">
+<!ENTITY trackingProtectionPBM5.label         "Sử dụng cơ chế chống theo dõi trong cửa sổ riêng tư">
+<!ENTITY trackingProtectionPBM5.accesskey     "r">
 
-
-
-
-
+<!ENTITY changeBlockList.label          "Thay đổi danh sách chặn">
+<!ENTITY changeBlockList.accesskey      "T">
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
+<!ENTITY  doNotTrack.pre.label          "Bạn cũng có thể ">
+<!ENTITY  doNotTrack.settings.label     "quản lý các thiết lập không theo dõi của bạn">
 
 
-<!ENTITY  history.label                 "Nhật ký">
+<!ENTITY  history.label                 "Lược sử">
 
 <!ENTITY  locationBar.label             "Thanh Địa Chỉ">
 
-<!ENTITY  locbar.history.label          "Nhật ký duyệt web">
-<!ENTITY  locbar.history.accesskey      "N">
-<!ENTITY  locbar.bookmarks.label        "Đánh dấu trang">
+<!ENTITY  locbar.history.label          "Lược sử">
+<!ENTITY  locbar.history.accesskey      "L">
+<!ENTITY  locbar.bookmarks.label        "Trang đánh dấu">
 <!ENTITY  locbar.bookmarks.accesskey    "d">
-<!ENTITY  locbar.openpage.label         "Các tab đang mở">
-<!ENTITY  locbar.openpage.accesskey     "t">
-
-
+<!ENTITY  locbar.openpage.label         "Thẻ đang mở">
+<!ENTITY  locbar.openpage.accesskey     "T">
+<!ENTITY  locbar.searches.label         "Tìm kiếm liên quan từ công cụ tìm kiếm mặc định">
+<!ENTITY  locbar.searches.accesskey     "a">
 
 
 <!ENTITY  acceptCookies.label           "Cho phép cookie từ các trang">
@@ -99,7 +101,7 @@
 <!ENTITY  clearOnCloseSettings.accesskey "p">
 
 
-
-
+<!ENTITY  browserContainersEnabled.label        "Bật thẻ ngăn chứa">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 
 

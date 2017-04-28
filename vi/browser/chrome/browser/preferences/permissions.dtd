@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "h">
 <!ENTITY windowClose.key              "w">
 
-
-
-
+<!ENTITY button.cancel.label          "Hủy bỏ">
+<!ENTITY button.cancel.accesskey      "H">
+<!ENTITY button.ok.label              "Lưu thay đổi">
+<!ENTITY button.ok.accesskey          "L">
 

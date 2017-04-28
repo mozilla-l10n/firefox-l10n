@@ -9,7 +9,7 @@
 
 
 <!ENTITY  overrideDefaultPageColors.always.label "Luôn luôn">
-
+<!ENTITY  overrideDefaultPageColors.auto.label   "Chỉ trong các diện mạo có độ tương phản cao">
 <!ENTITY  overrideDefaultPageColors.never.label  "Không bao giờ">
 
 <!ENTITY  color                           "Văn bản và Nền">

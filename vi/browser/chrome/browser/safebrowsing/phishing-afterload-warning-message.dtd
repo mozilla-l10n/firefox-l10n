@@ -24,5 +24,6 @@
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>Các trang phần mềm lừa đảo cố cài đặt các phần mềm có thể ảnh hưởng đến hệ thống của bạn theo nhiều cách khó lường.</p>">
 
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "Trang web tại <span id='phishing_sitename'/> này đã được báo cáo là trang web lừa đảo và đã bị chặn dựa trên tùy chỉnh bảo mật của bạn.">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>Trang web lừa đảo được thiết kế để lừa bạn làm điều gì đó không an toàn, như cài phần mềm, hoặc để lộ thông tin cá nhân của bạn, như mật khẩu, số điện thoại hay thẻ tín dụng.</p><p>Nhập bất kỳ một thông tin gì trên trang này có thể gây ra tình trạng mạo danh hoặc lừa đảo khác.</p>">
 
