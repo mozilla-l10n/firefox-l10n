@@ -6,7 +6,7 @@
 <!ENTITY aboutUrlClassifier.pageTitle                   "Informacije wo URL-klasifikatorje">
 <!ENTITY aboutUrlClassifier.providerTitle               "Poskićowar">
 <!ENTITY aboutUrlClassifier.provider                    "Poskićowar">
-<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Cas poslednjeje aktualizacije">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas poslednjeje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas přichodneje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status poslednjeje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizacija">
@@ -22,7 +22,7 @@
 <!ENTITY aboutUrlClassifier.debugTitle                  "Zmylki pytać">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Protokolowe module postajić">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Protokolowu dataju postajić">
-<!ENTITY aboutUrlClassifier.debugJSLogChk               "Javaskriptpowy protokol postajić">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Javaskriptowy protokol postajić">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Protokolowe module wěsteho přehladowanja">
 <!ENTITY aboutUrlClassifier.debugModules                "Aktualne protokolowe module">
 <!ENTITY aboutUrlClassifier.debugSBJSModules            "Javaskriptowy protokol wěsteho přehladowanja">
