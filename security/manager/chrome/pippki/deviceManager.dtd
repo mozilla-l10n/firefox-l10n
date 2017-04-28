@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Разглеждане…">
 <!ENTITY loaddevice.browse.accesskey            "Р">
 
+<!ENTITY loaddevice.title2                      "Зареждане на драйвер за PKCS#11 устройство">
