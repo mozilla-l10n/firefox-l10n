@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Fersiwn">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "Nodweddion &brandShortName;">
+<!ENTITY aboutSupport.featureName "Enw">
+<!ENTITY aboutSupport.featureVersion "Fersiwn">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Nodweddion Arbrofol">
 <!ENTITY aboutSupport.experimentName "Enw">

@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Cychwyn">
 
-
+<!ENTITY startupPage2.label        "Pan fydd &brandShortName; yn cychwyn:">
+<!ENTITY startupPage2.accesskey    "c">
 <!ENTITY startupUserHomePage.label "Dangos fy nhudalen cartref">
 <!ENTITY startupBlankPage.label    "Dangos tudalen wag">
 <!ENTITY startupPrevSession.label  "Dangos fy ffenestri a'm tabiau o'r tro diwethaf">
 
-
+<!ENTITY homepage2.label           "Tudalen Cartref:">
+<!ENTITY homepage2.accesskey       "T">
 <!ENTITY useCurrentPage.label      "Defnyddio'r Dudalen Bresennol">
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Defnyddio'r Dudalen Bresennol">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Caniatáu i &brandShortName; a Firefox redeg ar yr un pryd">
 <!ENTITY useFirefoxSync.label             "Cyngor: Mae'n defnyddio proffiliau gwahanol. Defnyddiwch Sync i rannu data rhyngddynt.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Mewngofnodi i &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Agor dewisiadau &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Galluogi prosesu lluosog yn &brandShortName;">
