@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Fer servir siempre as teclas d'o cursor ta navegar endentro d'as pachinas">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Buscar lo texto malas que s'escomienza a tecliar">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Alvertir quan una pachina web mirará de reendrezar-me u de recargar a pachina">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Amostrar un teclau tactil quan siga necesario">
 <!ENTITY useOnScreenKeyboard.accesskey   "t">
 
@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "d">
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
-
-
+<!ENTITY checkUserSpelling.label         "Comprebar la ortografía mientres que escribo">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Triga de datos">
 
@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Ta saber-ne mas">
 
 <!ENTITY telemetryDesc.label             "Comparte datos de rendimiento, uso, hardware y personalizacions sobre o suyo navegador con &vendorShortName; ta aduyar a amillorar o &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Compartir datos adicionals (p. eix., Telemetría)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Saber-ne mas">
 
 <!ENTITY crashReporterDesc2.label         "Los reportes de fallos aduyan a &vendorShortName; a apanyar los problems y fer mas estable y seguro lo suyo navegador">
@@ -58,10 +58,12 @@
 <!ENTITY offlineStorage2.label           "Conteniu web sin connexión y datos de l'usuario">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Datos d'o puesto">
+<!ENTITY clearSiteData.label             "Limpiar totz los datos">
+<!ENTITY clearSiteData.accesskey         "L">
+<!ENTITY siteDataSettings.label          "Configuración…">
+<!ENTITY siteDataSettings.accesskey      "o">
+<!ENTITY siteDataLearnMoreLink.label     "Ta saber-ne mas">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Esviellar">
 
+<!ENTITY updateApplication.label         "Actualizacions d'o &brandShortName;:">
 <!ENTITY updateAuto1.label               "Instalar as actualizacions automaticament (ye a opción recomendada, por seguranza)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateCheckChoose.label         "Comprebar las actualizacions, pero deixar-me trigar si las quiero instalar">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "No comprebar nunca si i hai actualizacions (no se recomienda por os risgos de seguranza que comporta)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Instalar as actualizacions en un segundo plan">
 <!ENTITY useService.accesskey            "p">
 
+<!ENTITY autoUpdateOthers.label          "Esviellar automaticament">
 <!ENTITY enableSearchUpdate.label        "Motors de busca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-
+<!ENTITY offlineStorageNotify.label               "Alvertir-me si bell puesto pide almagazenar datos ta usar-los en modo sin connexión">
+<!ENTITY offlineStorageNotify.accesskey           "t">
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -109,11 +114,11 @@
 
 <!ENTITY certificateTab.label            "Certificaus">
 <!ENTITY certPersonal.label              "Demandas">
-
+<!ENTITY certPersonal.description        "Quan un servidor requerirá o mío certificau personal:">
 <!ENTITY selectCerts.auto                "Trigar-ne un automaticament">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "e">
+<!ENTITY selectCerts.ask                 "Preguntar-lo cada vegada">
+<!ENTITY selectCerts.ask.accesskey       "m">
 <!ENTITY enableOCSP.label                "Consultar a os servidors respondedors OCSP ta confirmar a valideza actual d'os certificaus">
 <!ENTITY enableOCSP.accesskey            "u">
 <!ENTITY viewCerts.label                 "Veyer os Certificaus">

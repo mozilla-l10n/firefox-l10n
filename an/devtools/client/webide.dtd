@@ -199,7 +199,7 @@
 <!ENTITY simulator_title "Opcions d'o simulador">
 <!ENTITY simulator_remove "Borrar o simulador">
 <!ENTITY simulator_reset "Restaurar valuras por defecto">
-
+<!ENTITY simulator_name "Nombre">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Versión">
 <!ENTITY simulator_profile "Perfil">
