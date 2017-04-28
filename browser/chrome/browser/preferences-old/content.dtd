@@ -53,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Traduccions de">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Conteniu con DRM">
 
 <!ENTITY  playDRMContent.label         "Reproducir conteniu DRM">
 <!ENTITY  playDRMContent.accesskey     "p">

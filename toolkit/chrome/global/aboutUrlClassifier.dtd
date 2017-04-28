@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "Información sobre lo clasificador-url">
+<!ENTITY aboutUrlClassifier.providerTitle               "Furnidor">
+<!ENTITY aboutUrlClassifier.provider                    "Furnidor">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Zaguer tiempo d'actualización">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Nuevo tiempo d'actualización">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Zaguero estau d'actualización">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidencia">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Comprebar la coincidencia">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Buscar">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Comprebar lo resultau d'a busca">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Memoria">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Base de datos">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Determinar los modulos de rechistro">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Determinar lo fichero de rechistro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Achustar lo log de JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Modulos de log de navegación segura">
+<!ENTITY aboutUrlClassifier.debugModules                "Modulos de log actuals">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Log JS de navegación segura">
+<!ENTITY aboutUrlClassifier.debugFile                   "Fichero de rechistro actual">
