@@ -35,7 +35,7 @@
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
 
 <!ENTITY helpFeedbackPage.label      "ส่งข้อคิดเห็น…">
-<!ENTITY helpFeedbackPage.accesskey  "S">
+<!ENTITY helpFeedbackPage.accesskey  "ส">
 
 <!ENTITY helpShowTour2.label            "เที่ยวชม &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "o">
