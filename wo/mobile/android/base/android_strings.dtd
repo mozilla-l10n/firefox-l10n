@@ -766,6 +766,7 @@ dale ko ci Android">
 <!ENTITY restrictable_feature_clear_history "Far Jaar-jaar gi">
 <!ENTITY restrictable_feature_clear_history_description "Sañalal sag njoboot man di far xibaar yi ñeel dal yi ñiy ubbi.">
 <!ENTITY restrictable_feature_advanced_settings "Jekk-jekkal yu Xóot">
+<!ENTITY restrictable_feature_camera_microphone "Nataalukaay &amp; Waxukaay">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
