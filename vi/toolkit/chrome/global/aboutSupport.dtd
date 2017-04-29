@@ -34,7 +34,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentHomepage "Trang chủ">
 
 
-<!ENTITY aboutSupport.appBasicsTitle "Cơ bản về Chương trình">
+<!ENTITY aboutSupport.appBasicsTitle "Cơ bản về ứng dụng">
 <!ENTITY aboutSupport.appBasicsName "Tên">
 <!ENTITY aboutSupport.appBasicsVersion "Phiên bản">
 <!ENTITY aboutSupport.appBasicsBuildID "Build ID">
