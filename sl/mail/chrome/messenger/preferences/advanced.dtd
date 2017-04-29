@@ -89,6 +89,7 @@
 <!ENTITY useCacheBefore.label            "Porabi do">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB prostora za predpomnjenje.">
+<!ENTITY overrideSmartCacheSize.label    "Prezri samodejno upravljanje predpomnilnika">
 <!ENTITY clearCacheNow.label             "Počisti zdaj">
 <!ENTITY clearCacheNow.accesskey         "o">
 
