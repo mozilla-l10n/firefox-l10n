@@ -24,7 +24,7 @@ their language. -->
 <!ENTITY searchreset.link.pageInfo2       "หน้าตั้งค่า">
 
 <!ENTITY searchreset.noChangeButton        "ไม่เปลี่ยน">
-<!ENTITY searchreset.noChangeButton.access "D">
+<!ENTITY searchreset.noChangeButton.access "ม">
 
 <!ENTITY searchreset.changeEngineButton        "เปลี่ยนเครื่องมือค้นหา">
-<!ENTITY searchreset.changeEngineButton.access "C">
+<!ENTITY searchreset.changeEngineButton.access "ป">
