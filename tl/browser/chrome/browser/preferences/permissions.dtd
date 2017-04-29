@@ -5,23 +5,14 @@
 <!ENTITY window.title                 "Mga Exception">
 <!ENTITY window.width                 "45em">
 
-
-
-
-
-
 <!ENTITY address.label                "Address of web site:">
 <!ENTITY address.accesskey            "d">
 <!ENTITY block.label                  "Harangin">
 <!ENTITY block.accesskey              "H">
-
-
 <!ENTITY allow.label                  "Payagan">
 <!ENTITY allow.accesskey              "a">
 <!ENTITY windowClose.key              "w">
 
-<!ENTITY button.cancel.label          "I-cancel">
+<!ENTITY button.cancel.label          "Kanselahin">
 <!ENTITY button.cancel.accesskey      "C">
-
-
 

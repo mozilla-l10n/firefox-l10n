@@ -6,17 +6,10 @@
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "Continue">
 <!ENTITY  button-next-mac.accesskey    "C">
-
-
-
+<!ENTITY  button-cancel-mac.label      "Kanselahin">
 
 <!ENTITY  button-next-unix.label       "Susunod">
 <!ENTITY  button-next-unix.accesskey   "n">
+<!ENTITY  button-cancel-unix.label     "Kanselahin">
 
-
-
-
-
-
-
-
+<!ENTITY  button-cancel-win.label      "Kanselahin">

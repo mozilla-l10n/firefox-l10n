@@ -10,6 +10,6 @@
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "I-save ang mga Pagbabago">
 <!ENTITY     save.accesskey                "a">
-<!ENTITY     cancel.label                  "Ikansela">
+<!ENTITY     cancel.label                  "Kanselahin">
 <!ENTITY     cancel.accesskey              "C">
 <!ENTITY     removingDialog.title          "Inaalis na Site Data">
