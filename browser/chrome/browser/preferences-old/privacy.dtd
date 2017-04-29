@@ -108,6 +108,6 @@
 <!ENTITY  browserContainersHeader.label         "Карткі кантэйнераў">
 <!ENTITY  browserContainersLearnMore.label      "Даведацца больш">
 <!ENTITY  browserContainersEnabled.label        "Уключыць карткі кантэйнераў">
-<!ENTITY  browserContainersEnabled.accesskey    "т">
+<!ENTITY  browserContainersEnabled.accesskey    "л">
 <!ENTITY  browserContainersSettings.label        "Налады…">
 <!ENTITY  browserContainersSettings.accesskey    "а">
