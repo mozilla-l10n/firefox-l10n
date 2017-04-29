@@ -158,6 +158,7 @@
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.workers        "ตัวทำงาน">
 <!ENTITY debuggerUI.tabs.sources        "แหล่ง">
+<!ENTITY debuggerUI.tabs.callstack      "สแต็คการเรียก:">
 <!ENTITY debuggerUI.tabs.variables      "ตัวแปร">
 <!ENTITY debuggerUI.tabs.events         "เหตุการณ์">
 
