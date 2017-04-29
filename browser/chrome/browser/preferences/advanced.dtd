@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Vloeiend scrollen gebruiken">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
-<!ENTITY allowHWAccel.accesskey          "v">
 <!ENTITY checkUserSpelling.label         "Uw spelling controleren tijdens het typen">
 <!ENTITY checkUserSpelling.accesskey     "s">
 
@@ -126,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Beveiligingsapparaten">
 <!ENTITY viewSecurityDevices.accesskey   "B">
+
+<!ENTITY performance.label               "Prestaties">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Aanbevolen prestatie-instellingen gebruiken">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Aanbevolen prestatie-instellingen zijn afgestemd op uw computer.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "A">
+<!ENTITY limitContentProcess.label       "Limiet van inhoudsprocessen">
+<!ENTITY limitContentProcess.description
+                                         "Meer inhoudsprocessen kunnen &brandShortName; sneller laten reageren bij het gebruik van meerdere tabbladen, maar zullen ook meer geheugen gebruiken.">
+<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
+<!ENTITY allowHWAccel.accesskey          "v">
