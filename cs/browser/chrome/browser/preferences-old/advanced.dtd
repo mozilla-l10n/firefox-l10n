@@ -86,7 +86,7 @@
 <!ENTITY updateApplication.label         "Aktualizace aplikace &brandShortName;">
 <!ENTITY updateAuto1.label               "Instalovat aktualizace automaticky (doporučováno pro vyšší bezpečnost)">
 <!ENTITY updateAuto1.accesskey           "I">
-<!ENTITY updateCheckChoose.label         "Vyhledávat aktualizace, ale zeptat se, zda mají být nainstalovány">
+<!ENTITY updateCheckChoose.label         "Vyhledávat aktualizace, ale zeptat se, jestli mají být nainstalovány">
 <!ENTITY updateCheckChoose.accesskey     "e">
 <!ENTITY updateManual.label              "Nikdy nevyhledávat aktualizace (nedoporučováno z důvodu rizika ohrožení)">
 <!ENTITY updateManual.accesskey          "N">

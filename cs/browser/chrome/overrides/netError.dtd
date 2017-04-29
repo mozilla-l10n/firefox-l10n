@@ -34,8 +34,8 @@
 <!ENTITY fileNotFound.title "Soubor nenalezen">
 <!ENTITY fileNotFound.longDesc "
 <ul>
-  <li>Zkontrolujte, zda je jméno souboru napsáno správně, a to včetně velikosti písmen.</li>
-  <li>Zkontrolujte, zda soubor nebyl přesunut, přejmenován nebo smazán.</li>
+  <li>Zkontrolujte, že je jméno souboru napsáno správně, a to včetně velikosti písmen.</li>
+  <li>Zkontrolujte, že soubor nebyl přesunut, přejmenován nebo smazán.</li>
 </ul>
 ">
 
@@ -59,7 +59,7 @@
 <ul>
   <li>Adresa webové stránky má zpravidla tvar
     <strong>http://www.example.com/</strong></li>
-  <li>Zkontrolujte, zda používáte správná lomítka (tj.
+  <li>Zkontrolujte, že používáte správná lomítka (tj.
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -108,7 +108,7 @@
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
-  <li>Kontaktujte správce vaší sítě, zda je proxy server v provozu.</li>
+  <li>Kontaktujte správce vaší sítě, jestli je proxy server v provozu.</li>
 </ul>
 ">
 
@@ -117,7 +117,7 @@
 <ul>
   <li>Zkontrolujte nastavení proxy serveru.</li>
   <li>Zkontrolujte síťové připojení svého počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, že má
     &brandShortName; přístup na internet.</li>
 </ul>
 ">
@@ -133,7 +133,7 @@
 <!ENTITY unknownSocketType.title "Neplatná odpověď serveru">
 <!ENTITY unknownSocketType.longDesc "
 <ul>
-  <li>Zkontrolujte, zda má váš systém nainstalován
+  <li>Zkontrolujte, že má váš systém nainstalován
 Personal Security Manager.</li>
   <li>Tato chyba může být také způsobena nestandardní konfigurací serveru.</li>
 </ul>
@@ -159,7 +159,7 @@ was trying to connect. -->
 za chvíli.</li>
   <li>Pokud se vám nezobrazují ani ostatní stránky, zkontrolujte síťové připojení svého
     počítače.</li>
-  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, zda má
+  <li>Pokud je váš počítač chráněn firewallem nebo proxy serverem, zkontrolujte, že má
     &brandShortName; přístup na internet.</li>
 </ul>
 ">
