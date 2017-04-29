@@ -50,6 +50,8 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.accesskey                 "c">
 
 
 <!ENTITY tabCmd.label "Bagong Tab">
@@ -61,6 +63,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.label "Magbukas ng file…">
 <!ENTITY openFileCmd.accesskey "b">
 <!ENTITY openFileCmd.commandkey "o">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "I-print...">
 <!ENTITY printCmd.accesskey "p">
@@ -70,10 +73,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.accesskey "G">
 
 <!ENTITY menubarCmd.label "Menu Bar">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY personalbarCmd.label "Tingnan ang Bookmarks Toolbar">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Mga nakalagay sa Bookmarks Toolbar">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "Source code ng web page">
@@ -82,6 +88,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "Impormasyon tungkol sa web page">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "Pasukin ang Full Screen">
@@ -154,10 +161,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Mag-right-click o mag-pull down para makita ang history">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Pumunta sa lokasyon na nasa Location Bar">
+<!ENTITY printButton.label            "I-print">
 
 
 
 
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Isalin ang pahina na ito">
 
 
 
@@ -204,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
+<!ENTITY newPrivateWindow.accesskey "W">
 
  
 <!ENTITY editMenu.accesskey       "E"> 
@@ -244,6 +254,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "I-customize..."> 
 <!ENTITY viewCustomizeToolbar.accesskey     "c">
 
+<!ENTITY historyMenu.accesskey "s">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Bagong Sarang mga Window">
 

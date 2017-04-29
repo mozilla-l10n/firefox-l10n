@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE (translation.thisPageIsIn.label,
   -                     translation.translateThisPage.label):
   -  These 2 strings are used to construct a sentence that contains a dropdown
@@ -11,9 +12,10 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-
-
+<!ENTITY translation.translateThisPage.label    "Isalin ang pahinang ito?">
+<!ENTITY translation.translate.button           "Isalin">
 <!ENTITY translation.notNow.button              "Hindi Ngayon">
+
 
 <!-- LOCALIZATION NOTE (translation.translatedFrom.label,
   -                     translation.translatedTo.label,
@@ -30,11 +32,9 @@
   -  translation.translatedToSuffix.label (empty in en-US) is for locales that
   -  need to display some text after the second drop down for the sentence to
   -  be grammatically correct. -->
-
 <!ENTITY translation.translatedFrom.label       "Ang pahinang ito ay nasalin sa ">
 <!ENTITY translation.translatedTo.label         "sa">
 <!ENTITY translation.translatedToSuffix.label   "">
-
 
 
 <!ENTITY translation.tryAgain.button            "Ulitin">
@@ -49,13 +49,13 @@
 <!ENTITY translation.options.neverForSite.label "Huwag kailanman isalin ang site na ito">
 <!ENTITY translation.options.neverForSite.accesskey "e">
 
-
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
   -  logo.
   -->
 <!ENTITY translation.options.attribution.afterLogo "">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

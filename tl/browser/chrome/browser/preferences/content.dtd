@@ -24,6 +24,7 @@
 <!ENTITY chooseButton.label           "Choose…">
 <!ENTITY chooseButton.accesskey       "o">
 
+<!ENTITY translateWebPages.accesskey  "T">
 <!ENTITY translateExceptions.label    "Mga exceptions...">
 <!ENTITY translateExceptions.accesskey "x">
 
