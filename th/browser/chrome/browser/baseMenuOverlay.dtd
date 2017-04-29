@@ -20,16 +20,16 @@
 <!ENTITY productHelp2.accesskey   "ช">
 <!ENTITY helpMac.commandkey       "?">
 
-<!ENTITY helpKeyboardShortcuts.label     "แป้นลัด">
+<!ENTITY helpKeyboardShortcuts.label     "แป้นพิมพ์ลัด">
 <!ENTITY helpKeyboardShortcuts.accesskey "ป">
 
 <!ENTITY helpSafeMode.label       "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
-<!ENTITY helpSafeMode.accesskey   "R">
+<!ENTITY helpSafeMode.accesskey   "ร">
 <!ENTITY helpSafeMode.stop.label       "เริ่มการทำงานใหม่และเปิดใช้งานส่วนเสริม">
-<!ENTITY helpSafeMode.stop.accesskey   "R">
+<!ENTITY helpSafeMode.stop.accesskey   "ร">
 
 <!ENTITY healthReport2.label      "รายงานสุขภาพ &brandShorterName;">
-<!ENTITY healthReport2.accesskey  "e">
+<!ENTITY healthReport2.accesskey  "ข">
 
 <!ENTITY helpTroubleshootingInfo.label      "ข้อมูลการแก้ไขปัญหา">
 <!ENTITY helpTroubleshootingInfo.accesskey  "T">
