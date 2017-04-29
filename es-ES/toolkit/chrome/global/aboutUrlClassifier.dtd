@@ -1,0 +1,28 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutUrlClassifier.pageTitle "Información sobre url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle "Proveedor">
+<!ENTITY aboutUrlClassifier.provider "Proveedor">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime "Fecha y hora de última actualización">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime "Fecha y hora de próxima actualización">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Estado de última actualización">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn "Actualizar">
+<!ENTITY aboutUrlClassifier.lookupTitle "Búsqueda">
+<!ENTITY aboutUrlClassifier.lookupUrl "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch "Coincidencia">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn "Comprobar resultados coincidentes">
+<!ENTITY aboutUrlClassifier.lookupLookup "Búsqueda">
+<!ENTITY aboutUrlClassifier.lookupBtn "Comprobar resultados de la búsqueda">
+<!ENTITY aboutUrlClassifier.cacheTitle "Caché">
+<!ENTITY aboutUrlClassifier.memoryTitle "Memoria">
+<!ENTITY aboutUrlClassifier.databaseTitle "Base de datos">
+<!ENTITY aboutUrlClassifier.debugTitle "Depurar">
+<!ENTITY aboutUrlClassifier.debugModuleBtn "Establecer módulos de registro">
+<!ENTITY aboutUrlClassifier.debugFileBtn "Establecer archivo de registro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk "Establecer registro JS">
+<!ENTITY aboutUrlClassifier.debugSBModules "Módulos de registro de navegación segura">
+<!ENTITY aboutUrlClassifier.debugModules "Módulos actuales de registro">
+<!ENTITY aboutUrlClassifier.debugSBJSModules "Registro JS de navegación segura">
+<!ENTITY aboutUrlClassifier.debugFile "Archivo actual de registro">
