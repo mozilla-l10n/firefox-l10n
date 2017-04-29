@@ -37,7 +37,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ปักหมุดแท็บ">
-<!ENTITY  pinTab.accesskey                   "ม">
+<!ENTITY  pinTab.accesskey                   "ห">
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "ถ">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
