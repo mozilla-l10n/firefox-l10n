@@ -13,15 +13,15 @@
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
 <!ENTITY helpMenuWin.label        "ช่วยเหลือ"> 
-<!ENTITY helpMenuWin.accesskey    "H">
+<!ENTITY helpMenuWin.accesskey    "ช">
 <!ENTITY aboutProduct2.label      "เกี่ยวกับ &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey  "A">
+<!ENTITY aboutProduct2.accesskey  "ก">
 <!ENTITY productHelp2.label       "ความช่วยเหลือ &brandShorterName;">
-<!ENTITY productHelp2.accesskey   "H">
+<!ENTITY productHelp2.accesskey   "ช">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "แป้นลัด">
-<!ENTITY helpKeyboardShortcuts.accesskey "K">
+<!ENTITY helpKeyboardShortcuts.accesskey "ป">
 
 <!ENTITY helpSafeMode.label       "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey   "R">
