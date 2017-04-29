@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Slika za ozadje:">
 <!ENTITY backgroundImage.accessKey "S">
 <!ENTITY backgroundImage.tooltip "Uporabi slikovno datoteko za ozadje moje strani">
+<!ENTITY backgroundImage.shortenedDataURI "Skrajšan podatkovni URI (pri kopiranju bo na odložišče shranjen celoten URI)">
