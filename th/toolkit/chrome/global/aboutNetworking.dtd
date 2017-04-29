@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "เรียกใหม่อัตโนมัติทุก 3 วินาที">
 <!ENTITY aboutNetworking.hostname              "ชื่อโฮสต์">
 <!ENTITY aboutNetworking.port                  "พอร์ต">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "ใช้งานอยู่">
 <!ENTITY aboutNetworking.idle                  "ว่าง">
