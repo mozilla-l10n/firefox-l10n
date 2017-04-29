@@ -81,7 +81,7 @@ variant of aboutSupport.showDir.label. -->
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
 <!ENTITY aboutSupport.userJSTitle "Tinh chỉnh user.js">
-<!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tệp <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "Thư mục hồ sơ của bạn chứa một tập tin <a id='prefs-user-js-link'>user.js</a>, bao gồm các tùy chỉnh không được tạo bởi &brandShortName;.">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "Các tùy chọn quan trọng đã khóa">
 <!ENTITY aboutSupport.lockedPrefsName "Tên">
@@ -104,8 +104,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Lược sử Cài đặt">
 <!ENTITY aboutSupport.updateHistoryTitle "Lịch sử cập nhật">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Sao chép đoạn chữ vào clipboard">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Sao chép dữ liệu thô vào clipboard">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Chép văn bản vào bảng tạm">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Chép dữ liệu thô vào bảng tạm">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
