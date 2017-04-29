@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Pozadinska slika:">
 <!ENTITY backgroundImage.accessKey "s">
 <!ENTITY backgroundImage.tooltip "Koristi slikovnu datoteku kao pozadinu za vašu stranicu">
-
+<!ENTITY backgroundImage.shortenedDataURI "Skraćeni URI podataka (kopiranje će staviti cijeli URI u međuspremnik)">
