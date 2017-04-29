@@ -89,8 +89,8 @@
 <!ENTITY useCacheBefore.label            "Úsáid suas le">
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB spás don taisce">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Sáraigh bainistíocht uathoibríoch na taisce">
+<!ENTITY overrideSmartCacheSize.accesskey "b">
 <!ENTITY clearCacheNow.label             "Bánaigh Anois">
 <!ENTITY clearCacheNow.accesskey         "B">
 <!-- Certificates -->
