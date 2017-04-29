@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "n">
 <!ENTITY replaceField.label "Zamjeni s:">
 <!ENTITY replaceField.accesskey "e">
-
-
+<!ENTITY caseSensitiveCheckbox.label "Pazi na velika/mala slova">
+<!ENTITY caseSensitiveCheckbox.accesskey "P">
 <!ENTITY wrapCheckbox.label "Omotaj oko">
 <!ENTITY wrapCheckbox.accesskey "O">
 <!ENTITY backwardsCheckbox.label "Traži unazad">
@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "a">
 <!ENTITY replaceAllButton.label "Zamjeni sve">
 <!ENTITY replaceAllButton.accesskey "m">
-
-
+<!ENTITY closeButton.label "Zatvori">
+<!ENTITY closeButton.accesskey "Z">
