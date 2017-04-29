@@ -172,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Comportamiento de captura de pantalla">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Capturar de pantalla en o portafuellas">
+<!ENTITY options.screenshot.clipboard.tooltip    "Alza la captura de pantalla directament ta lo portafuellas">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Reproducir lo soniu d'obturador d'a camara">
+<!ENTITY options.screenshot.audio.tooltip    "Activa lo soniu d'a camara quan se captura la pantalla">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
