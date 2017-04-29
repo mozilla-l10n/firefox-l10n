@@ -14,6 +14,6 @@
 <!ENTITY caseSensitive.label "Phân biệt HOA-thường">
 <!ENTITY caseSensitive.accesskey "A">
 <!ENTITY caseSensitive.tooltiptext "Tìm kiếm có phân biệt chữ hoa và chữ thường">
-
-
-
+<!ENTITY entireWord.label "Toàn bộ từ">
+<!ENTITY entireWord.accesskey "T">
+<!ENTITY entireWord.tooltiptext "Chỉ tìm toàn bộ từ">

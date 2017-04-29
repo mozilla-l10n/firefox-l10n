@@ -25,7 +25,7 @@
 <!ENTITY spellDictionaries.label "Ngôn ngữ">
 <!ENTITY spellDictionaries.accesskey "N">
 
-<!ENTITY searchTextBox.clear.label "&amp;Xóa trắng">
+<!ENTITY searchTextBox.clear.label "Xóa trắng">
 
 <!ENTITY fillLoginMenu.label          "Điền thông tin đăng nhập">
 <!ENTITY fillLoginMenu.accesskey      "t">
