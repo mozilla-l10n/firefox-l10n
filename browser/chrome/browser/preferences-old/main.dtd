@@ -31,7 +31,7 @@
 <!ENTITY alwaysAskWhere.label         "U každého souboru se zeptat, kam ho uložit">
 <!ENTITY alwaysAskWhere.accesskey     "k">
 
-<!ENTITY alwaysCheckDefault2.label        "Kontrolovat, zda je &brandShortName; výchozím webovým prohlížečem">
+<!ENTITY alwaysCheckDefault2.label        "Kontrolovat, jestli je &brandShortName; výchozím webovým prohlížečem">
 <!ENTITY alwaysCheckDefault2.accesskey    "w">
 <!ENTITY setAsMyDefaultBrowser2.label     "Nastavit jako výchozí">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "t">

@@ -42,7 +42,7 @@
                                            
 <!ENTITY  errorpatching.intro             "Použití rozdílové aktualizace se nezdařilo. &brandShortName; se pokusí stáhnout kompletní aktualizaci.">
 
-<!ENTITY  genericBackgroundError.label    "Aplikaci &brandShortName; se nepodařilo ověřit dostupnost aktualizací. Ověřte prosím, zda máte nejnovější verzi aplikace &brandShortName; z:">
+<!ENTITY  genericBackgroundError.label    "Aplikaci &brandShortName; se nepodařilo ověřit dostupnost aktualizací. Ověřte prosím, jestli máte nejnovější verzi aplikace &brandShortName; z:">
 
 <!ENTITY  finishedPage.title              "Aktualizace je připravena k instalaci">
 <!ENTITY  finishedPage.text               "Aktualizace bude nainstalována při příštím startu aplikace &brandShortName;. Nyní můžete aplikaci &brandShortName; restartovat nebo pokračovat v práci a restartovat ji později.">
