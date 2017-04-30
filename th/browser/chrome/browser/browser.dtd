@@ -29,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "ปิดแท็บไปทางขวา">
 <!ENTITY  closeTabsToTheEnd.accesskey        "ข">
 <!ENTITY  closeOtherTabs.label               "ปิดแท็บอื่น ๆ">
-<!ENTITY  closeOtherTabs.accesskey           "อ">
+<!ENTITY  closeOtherTabs.accesskey           "น">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -41,11 +41,11 @@ can reach it easily. -->
 <!ENTITY  unpinTab.label                     "ถอดหมุดแท็บ">
 <!ENTITY  unpinTab.accesskey                 "ถ">
 <!ENTITY  sendTabToDevice.label              "ส่งแท็บไปยังอุปกรณ์">
-<!ENTITY  sendTabToDevice.accesskey          "D">
+<!ENTITY  sendTabToDevice.accesskey          "อ">
 <!ENTITY  sendPageToDevice.label             "ส่งหน้าไปยังอุปกรณ์">
-<!ENTITY  sendPageToDevice.accesskey         "D">
+<!ENTITY  sendPageToDevice.accesskey         "อ">
 <!ENTITY  sendLinkToDevice.label             "ส่งลิงก์ไปยังอุปกรณ์">
-<!ENTITY  sendLinkToDevice.accesskey         "D">
+<!ENTITY  sendLinkToDevice.accesskey         "อ">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
 <!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
@@ -99,13 +99,13 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.accesskey "ข">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "สะท้อนแท็บ">
-<!ENTITY mirrorTabCmd.accesskey "m">
+<!ENTITY mirrorTabCmd.accesskey "ส">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "เข้าสู่ภาพเต็มหน้าจอ">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "จ">
 <!ENTITY exitFullScreenCmd.label "ออกจากภาพเต็มหน้าจอ">
-<!ENTITY exitFullScreenCmd.accesskey "อ">
+<!ENTITY exitFullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.label "เต็มจอ">
 <!ENTITY fullScreenCmd.accesskey "จ">
 <!ENTITY fullScreenCmd.macCommandKey "f">
@@ -125,7 +125,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.label "ซ่อนแถบเครื่องมือ">
 <!ENTITY fullScreenAutohide.accesskey "น">
 <!ENTITY fullScreenExit.label "ออกจากโหมดเต็มจอ">
-<!ENTITY fullScreenExit.accesskey "อ">
+<!ENTITY fullScreenExit.accesskey "จ">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -314,7 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "ม"> 
 <!ENTITY preferencesCmd2.label       "ตัวเลือก">
-<!ENTITY preferencesCmd2.accesskey     "O">
+<!ENTITY preferencesCmd2.accesskey     "ต">
 <!ENTITY preferencesCmdUnix.label       "การตั้งค่า">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
