@@ -40,7 +40,7 @@
 <!ENTITY  mediaLongdesc         "คำอธิบายแบบยาว:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "บันทึกเป็น…">
-<!ENTITY  mediaSaveAs.accesskey "A">
+<!ENTITY  mediaSaveAs.accesskey "ป">
 <!ENTITY  mediaSaveAs2.accesskey "e">
 <!ENTITY  mediaPreview          "แสดงตัวอย่างสื่อ:">
 

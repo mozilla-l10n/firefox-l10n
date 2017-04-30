@@ -11,7 +11,7 @@
 <!ENTITY  other.label                 "อื่น ๆ…">
 
 <!ENTITY  saveFile.label              "บันทึกไฟล์">
-<!ENTITY  saveFile.accesskey          "s">
+<!ENTITY  saveFile.accesskey          "บ">
 
 <!ENTITY  rememberChoice.label        "ทำสิ่งนี้กับไฟล์ชนิดนี้โดยอัตโนมัติในครั้งถัดไป">
 <!ENTITY  rememberChoice.accesskey    "a">
