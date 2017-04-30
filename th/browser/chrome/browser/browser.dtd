@@ -68,7 +68,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "ป">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ตั้งค่าหน้ากระดาษ…">
-<!ENTITY printSetupCmd.accesskey "u">
+<!ENTITY printSetupCmd.accesskey "ร">
 <!ENTITY printPreviewCmd.label "ตัวอย่างก่อนพิมพ์">
 <!ENTITY printPreviewCmd.accesskey "ต">
 <!ENTITY printCmd.label "พิมพ์…">
@@ -903,13 +903,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.whatsnew.label "ดูว่ามีอะไรใหม่">
 <!ENTITY updateAvailable.header.message "มีการอัปเดต &brandShorterName; ใหม่">
 <!ENTITY updateAvailable.acceptButton.label "ดาวน์โหลดการอัปเดต">
+<!ENTITY updateAvailable.acceptButton.accesskey "ด">
 <!ENTITY updateAvailable.cancelButton.label "ไม่ใช่ตอนนี้">
+<!ENTITY updateAvailable.cancelButton.accesskey "ม">
 <!ENTITY updateAvailable.panelUI.label "ดาวน์โหลดการอัปเดต &brandShorterName;">
 
 <!ENTITY updateManual.whatsnew.label "ดูว่ามีอะไรใหม่">
 <!ENTITY updateManual.header.message "ไม่สามารถอัปเดต &brandShorterName; เป็นรุ่นล่าสุด">
 <!ENTITY updateManual.acceptButton.label "ดาวน์โหลด &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "ด">
 <!ENTITY updateManual.cancelButton.label "ไม่ใช่ตอนนี้">
+<!ENTITY updateManual.cancelButton.accesskey "ม">
 
 <!ENTITY updateRestart.header.message "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
 <!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">
