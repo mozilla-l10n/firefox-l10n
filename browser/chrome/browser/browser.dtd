@@ -279,7 +279,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Datoteka"> 
 <!ENTITY fileMenu.accesskey       "D">
-<!ENTITY newUserContext.label             "Nov vsebnik zavihka">
+<!ENTITY newUserContext.label             "Nov vsebniški zavihek">
 <!ENTITY newUserContext.accesskey         "v">
 <!ENTITY newNavigatorCmd.label        "Novo okno">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -483,7 +483,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "Z">
 <!ENTITY openFrameCmd.label           "Odpri okvir v novem oknu">
 <!ENTITY openFrameCmd.accesskey       "V">
-<!ENTITY openLinkCmdInContainerTab.label "Odpri povezavo v novem vsebniku zavihka">
+<!ENTITY openLinkCmdInContainerTab.label "Odpri povezavo v novem zavihku vsebnika">
 <!ENTITY openLinkCmdInContainerTab.accesskey "O">
 <!ENTITY showOnlyThisFrameCmd.label     "Pokaži le ta okvir">
 <!ENTITY showOnlyThisFrameCmd.accesskey "L">

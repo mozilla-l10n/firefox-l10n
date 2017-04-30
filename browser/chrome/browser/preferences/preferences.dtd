@@ -14,7 +14,7 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 41.5em;">
 
 <!ENTITY  paneGeneral.title             "Splošno">
-<!ENTITY  paneContainers.title          "Zavihki vsebnika">
+<!ENTITY  paneContainers.title          "Vsebniški zavihki">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
