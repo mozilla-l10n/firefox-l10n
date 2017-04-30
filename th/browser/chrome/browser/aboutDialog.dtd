@@ -9,9 +9,9 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการอัปเดต">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.checkForUpdatesButton.accesskey   "ต">
 <!ENTITY update.updateButton.label2               "เริ่มการทำงาน &brandShortName; ใหม่เพื่ออัปเดต">
-<!ENTITY update.updateButton.accesskey            "R">
+<!ENTITY update.updateButton.accesskey            "ร">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

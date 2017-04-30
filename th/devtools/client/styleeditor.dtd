@@ -21,7 +21,7 @@
 <!ENTITY visibilityToggle.tooltip   "Toggle style sheet visibility">
 
 <!ENTITY saveButton.label           "บันทึก">
-<!ENTITY saveButton.tooltip         "Save this style sheet to a file">
+<!ENTITY saveButton.tooltip         "บันทึกแผ่นลักษณะนี้เป็นไฟล์">
 <!ENTITY saveButton.accesskey       "S">
 
 <!ENTITY optionsButton.tooltip      "ตัวเลือกตัวแก้ไขลักษณะ">
