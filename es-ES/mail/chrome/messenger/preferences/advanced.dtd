@@ -69,6 +69,8 @@
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
+<!ENTITY overrideSmartCacheSize.label "Desactivar administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "D">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY certSelection.description "Cuando un servidor solicite mi certificado personal:">
