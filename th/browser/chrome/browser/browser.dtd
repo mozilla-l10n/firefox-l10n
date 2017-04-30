@@ -407,7 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "คุณต้องการปรับปรุงประสบการณ์การค้นหาของคุณด้วยคำแนะนำหรือไม่?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "เรียนรู้เพิ่มเติม…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "ร">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ไม่">
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ม">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ใช่">
@@ -475,19 +475,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "เปิดลิงก์ในแท็บใหม่">
-<!ENTITY openLinkCmdInTab.accesskey   "T">
+<!ENTITY openLinkCmdInTab.accesskey   "ท">
 <!ENTITY openLinkCmd.label            "เปิดลิงก์ในหน้าต่างใหม่">
-<!ENTITY openLinkCmd.accesskey        "W">
+<!ENTITY openLinkCmd.accesskey        "ห">
 <!ENTITY openLinkInPrivateWindowCmd.label "เปิดลิงก์ในหน้าต่างส่วนตัวใหม่">
-<!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
+<!ENTITY openLinkInPrivateWindowCmd.accesskey "ส">
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
-<!ENTITY openLinkCmdInCurrent.accesskey "O">
+<!ENTITY openLinkCmdInCurrent.accesskey "ป">
 <!ENTITY openFrameCmdInTab.label      "เปิดกรอบในแท็บใหม่">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
-<!ENTITY openLinkCmdInContainerTab.accesskey "b">
+<!ENTITY openLinkCmdInContainerTab.accesskey "ย">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -526,9 +526,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
-<!ENTITY emailPageCmd.accesskey       "E">
+<!ENTITY emailPageCmd.accesskey       "ล">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
-<!ENTITY savePageCmd.accesskey        "A">
+<!ENTITY savePageCmd.accesskey        "ป">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
@@ -569,7 +569,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.label           "คัดลอกที่อยู่อีเมล">
 <!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "กรอบนี้">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "ก">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
@@ -612,7 +612,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "C">
 <!ENTITY videoFullScreen.label       "เต็มจอ">
 <!ENTITY videoFullScreen.accesskey   "F">
-<!ENTITY videoSaveImage.accesskey    "S">
+<!ENTITY videoSaveImage.label        "บันทึก Snapshot เป็น…">
+<!ENTITY videoSaveImage.accesskey    "บ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -656,7 +657,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ออก"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.accesskey   "อ">
 <!ENTITY quitApplicationCmdMac2.label   "ออกจาก &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
@@ -668,11 +669,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "ลักษณะหน้า">
-<!ENTITY pageStyleMenu.accesskey "y">
+<!ENTITY pageStyleMenu.accesskey "ล">
 <!ENTITY pageStyleNoStyle.label "ไม่มีลักษณะ">
-<!ENTITY pageStyleNoStyle.accesskey "n">
+<!ENTITY pageStyleNoStyle.accesskey "ม">
 <!ENTITY pageStylePersistentOnly.label "ลักษณะหน้าพื้นฐาน">
-<!ENTITY pageStylePersistentOnly.accesskey "b">
+<!ENTITY pageStylePersistentOnly.accesskey "พ">
 
 <!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
@@ -704,7 +705,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.accessKey       "อ">
 
 <!ENTITY identity.connectionSecure "การเชื่อมต่อปลอดภัย">
 <!ENTITY identity.connectionNotSecure "การเชื่อมต่อไม่ปลอดภัย">
