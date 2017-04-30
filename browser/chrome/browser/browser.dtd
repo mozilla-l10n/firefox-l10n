@@ -692,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ค้นหาในหน้านี้…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "ค">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "ค้นหาอีกครั้ง">
 <!ENTITY findAgainCmd.accesskey "ก">
@@ -701,7 +701,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "เพิ่มพจนานุกรม…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "พ">
 
 <!ENTITY editBookmark.done.label                     "เสร็จสิ้น">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
@@ -732,13 +732,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "ข้อมูลที่คุณแบ่งปันกับไซต์นี้สามารถดูได้โดยผู้อื่น (เช่น รหัสผ่าน, ข้อความ, บัตรเครดิต ฯลฯ)">
 
 <!ENTITY identity.enableMixedContentBlocking.label "เปิดใช้งานการป้องกัน">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "เ">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "ป">
 <!ENTITY identity.disableMixedContentBlocking.label "ปิดใช้งานการป้องกันในตอนนี้">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "ป">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "ด">
 <!ENTITY identity.learnMore "เรียนรู้เพิ่มเติม">
 
 <!ENTITY identity.removeCertException.label "เอาข้อยกเว้นออก">
-<!ENTITY identity.removeCertException.accesskey "เ">
+<!ENTITY identity.removeCertException.accesskey "อ">
 
 <!ENTITY identity.moreInfoLinkText2 "ข้อมูลเพิ่มเติม">
 
@@ -784,6 +784,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.label              "เปิดทั้งหมดในแท็บ">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "จัดการอุปกรณ์…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "อ">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -791,9 +792,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.label             "ลงชื่อเข้า &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ซิงค์ตอนนี้">
-<!ENTITY syncSyncNowItem.accesskey    "S">
+<!ENTITY syncSyncNowItem.accesskey    "ง">
 <!ENTITY syncReAuthItem.label         "เชื่อมต่อกับ &syncBrand.shortName.label; ใหม่…">
-<!ENTITY syncReAuthItem.accesskey     "R">
+<!ENTITY syncReAuthItem.accesskey     "ช">
 <!ENTITY syncToolbarButton.label      "ซิงค์">
 
 <!ENTITY social.addons.label "จัดการบริการ…">
@@ -814,14 +815,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "ชุดตกแต่งของฉัน">
 <!ENTITY customizeMode.lwthemes.recommended "แนะนำ">
 <!ENTITY customizeMode.lwthemes.menuManage "จัดการ">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "จ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ร">
 
 <!ENTITY getUserMedia.selectCamera.label "กล้องที่แบ่งปัน:">
-<!ENTITY getUserMedia.selectCamera.accesskey "C">
+<!ENTITY getUserMedia.selectCamera.accesskey "ก">
 <!ENTITY getUserMedia.selectMicrophone.label "ไมโครโฟนที่แบ่งปัน:">
-<!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.selectMicrophone.accesskey "ม">
 <!ENTITY getUserMedia.audioCapture.label "เสียงจากแท็บจะถูกแบ่งปัน">
 <!ENTITY getUserMedia.allWindowsShared.message "หน้าต่างที่ปรากฏอยู่ทั้งหมดบนหน้าจอของคุณจะถูกแบ่งปัน">
 
@@ -833,27 +834,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
 <!ENTITY trackingProtection.unblock.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingProtection.unblock.accesskey "D">
+<!ENTITY trackingProtection.unblock.accesskey "ด">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
 <!ENTITY trackingProtection.unblockPrivate.label "ปิดใช้งานการป้องกันในวาระนี้">
-<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.unblockPrivate.accesskey "ด">
 <!ENTITY trackingProtection.block2.label "เปิดใช้งานการป้องกัน">
-<!ENTITY trackingProtection.block2.accesskey "E">
+<!ENTITY trackingProtection.block2.accesskey "ป">
 
 <!ENTITY trackingContentBlocked.message "การตามรอย">
 <!ENTITY trackingContentBlocked.moreinfo "บางส่วนของหน้าที่ติดตามกิจกรรมออนไลน์ของคุณถูกปิดกั้น">
 <!ENTITY trackingContentBlocked.learnMore "เรียนรู้เพิ่มเติม">
 <!ENTITY trackingContentBlocked.options "ตัวเลือก">
 <!ENTITY trackingContentBlocked.unblock2.label "ปิดใช้งานการป้องกันสำหรับไซต์นี้">
-<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "ด">
 <!ENTITY trackingContentBlocked.block.label "เปิดใช้งานการป้องกัน">
-<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.block.accesskey "ป">
 <!ENTITY trackingContentBlocked.disabled.message "การป้องกันการติดตามถูกปิดใช้งาน">
 
 <!ENTITY pluginNotification.showAll.label "แสดงทั้งหมด">
-<!ENTITY pluginNotification.showAll.accesskey "S">
+<!ENTITY pluginNotification.showAll.accesskey "ส">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "อนุญาตตอนนี้">
@@ -908,6 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "ม">
 <!ENTITY updateAvailable.panelUI.label "ดาวน์โหลดการอัปเดต &brandShorterName;">
 
+<!ENTITY updateManual.message "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName; และเราจะช่วยคุณติดตั้ง">
 <!ENTITY updateManual.whatsnew.label "ดูว่ามีอะไรใหม่">
 <!ENTITY updateManual.header.message "ไม่สามารถอัปเดต &brandShorterName; เป็นรุ่นล่าสุด">
 <!ENTITY updateManual.acceptButton.label "ดาวน์โหลด &brandShorterName;">
