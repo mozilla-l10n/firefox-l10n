@@ -37,7 +37,7 @@
 <!ENTITY focus2.commandkey     "d">
 
 <!ENTITY menuBar.tooltip       "Lišta nabídky">
-<!ENTITY modeToolbar.tooltip   "Lišta módu">
+<!ENTITY modeToolbar.tooltip   "Lišta režimu">
 <!ENTITY entryToolbar.tooltip  "Lišta vstupu JavaScriptu">
 <!ENTITY toolbarsCmd.label     "Nástrojové lišty">
 <!ENTITY toolbarsCmd.accesskey "N">
