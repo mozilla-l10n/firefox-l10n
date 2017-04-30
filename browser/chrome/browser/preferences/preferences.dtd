@@ -14,6 +14,7 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 49em; min-height: 40em;">
 
 <!ENTITY  paneGeneral.title             "Xeneral">
+<!ENTITY  paneFilesApplications.title   "Ficheros y aplicaciones">
 <!ENTITY  paneContainers.title          "Llingüetes contenedor">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
