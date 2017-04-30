@@ -27,7 +27,7 @@
      not for about:sessionstore -->
 
 <!ENTITY welcomeback2.restoreButton  "ไปกันเลย!">
-<!ENTITY welcomeback2.restoreButton.access "L">
+<!ENTITY welcomeback2.restoreButton.access "ป">
 
 <!ENTITY welcomeback2.tabtitle      "สำเร็จ!">
 
