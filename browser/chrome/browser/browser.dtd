@@ -912,7 +912,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "E">
 <!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
 
+<!ENTITY updateRestart.header.message "Käynnistä &brandShorterName; uudestaan asentaaksesi päivitykset.">
 <!ENTITY updateRestart.acceptButton.label "Käynnistä uudestaan ja palauta">
 <!ENTITY updateRestart.acceptButton.accesskey "K">
 <!ENTITY updateRestart.cancelButton.label "Ei nyt">
 <!ENTITY updateRestart.cancelButton.accesskey "E">
+<!ENTITY updateRestart.panelUI.label "Asenna päivitys käynnistämällä &brandShorterName; uudestaan">
