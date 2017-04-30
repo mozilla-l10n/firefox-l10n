@@ -141,6 +141,7 @@
 <!ENTITY addon.details.label "Más">
 <!ENTITY addon.details.tooltip "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate "Desconocido">
+<!ENTITY addon.legacy.label "HEREDADO">
 <!ENTITY addon.disabled.postfix "(desactivado)">
 <!ENTITY addon.update.postfix "Actualizar">
 <!ENTITY addon.undoAction.label "Deshacer">
