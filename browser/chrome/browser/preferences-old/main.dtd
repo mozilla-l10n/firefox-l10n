@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permitir que &brandShortName; y Firefox se ejecuten al mismo tiempo">
 <!ENTITY useFirefoxSync.label             "Consejo: Esta opción usa perfiles separados. Use Sync para compartir datos entre ellos.">
-<!ENTITY getStarted.label                 "Comenzar a usar Sync…">
+<!ENTITY getStarted.notloggedin.label     "Ingresar a &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Abrir preferencias de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Habilitar multiproceso en &brandShortName;">
