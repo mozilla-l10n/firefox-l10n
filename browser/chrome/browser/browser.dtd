@@ -915,6 +915,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateManual.cancelButton.accesskey "ม">
 
+<!ENTITY updateRestart.message "หลังเริ่มระบบใหม่อย่างเร็ว &brandShorterName; จะเรียกคือแท็บและหน้าต่างของคุณคืนมาทั้งหมด">
 <!ENTITY updateRestart.header.message "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
 <!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateRestart.panelUI.label "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
