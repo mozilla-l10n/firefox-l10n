@@ -54,11 +54,13 @@
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY bookmark_save "Guardar">
 <!ENTITY screenshot_added_to_bookmarks "Captura añadida a marcadores">
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_parent_folder "Carpeta padre">
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!ENTITY reader_switch_to_bookmarks "Cambiar">
 <!ENTITY history_today_section "Hoy">
@@ -330,8 +332,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al portapapeles">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
-<!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Hacer más grandes los enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title3 "Pestañas en cola">
@@ -442,7 +442,6 @@
 <!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión serán eliminados.">
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
 <!ENTITY voicesearch_prompt "Hable ahora">
