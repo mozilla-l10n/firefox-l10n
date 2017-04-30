@@ -99,9 +99,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Nastavitve …">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "Zavihki vsebnika">
+<!ENTITY  browserContainersHeader.label         "Vsebniški zavihki">
 <!ENTITY  browserContainersLearnMore.label      "Več o tem">
-<!ENTITY  browserContainersEnabled.label        "Omogoči zavihke vsebnika">
+<!ENTITY  browserContainersEnabled.label        "Omogoči vsebniške zavihke">
 <!ENTITY  browserContainersEnabled.accesskey    "O">
 <!ENTITY  browserContainersSettings.label        "Nastavitve …">
 <!ENTITY  browserContainersSettings.accesskey    "N">
