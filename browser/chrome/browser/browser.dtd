@@ -154,6 +154,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Abrir el panel de mensajes de contraseñas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Cambiar si puede recibir notificaciones del sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Guardar datos en almacenamiento persistente">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Administrar la compartición de su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Administrar la compartición de su micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Administrar la compartición de sus ventanas o pantalla con el sitio">
@@ -167,6 +168,7 @@
 <!ENTITY urlbar.geolocationBlocked.tooltip "Ha bloqueado la información de ubicación para este sitio web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
@@ -639,7 +641,6 @@
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
 <!ENTITY updateAvailable.message "Actualice su &brandShorterName; a lo último en velocidad y privacidad.">
 <!ENTITY updateAvailable.whatsnew.label "Ver las novedades.">
-<!ENTITY updateAvailable.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateAvailable.header.message "Hay disponible una nueva actualización de &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Descargar actualización">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
@@ -648,7 +649,6 @@
 <!ENTITY updateAvailable.panelUI.label "Descargar actualización de &brandShorterName;">
 <!ENTITY updateManual.message "Descargue una copia reciente de &brandShorterName; y le ayudaremos a instalarla.">
 <!ENTITY updateManual.whatsnew.label "Ver las novedades.">
-<!ENTITY updateManual.whatsnew.href "http://www.mozilla.org/">
 <!ENTITY updateManual.header.message "&brandShorterName; no puede actualizar a la última versión.">
 <!ENTITY updateManual.acceptButton.label "Descargar &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
@@ -656,9 +656,10 @@
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descargue una copia reciente de &brandShorterName;">
 <!ENTITY updateRestart.message "Tras un reinicio rápido, &brandShorterName; restaurará todas sus pestañas y ventanas abiertas.">
-<!ENTITY updateRestart.header.message "Reinicie &brandShorterName; para aplicar la actualización.">
+<!ENTITY updateRestart.header.message2 "Reinicie para actualizar &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Reinicie &brandShorterName; para aplicar la actualización">
+<!ENTITY pageActionButton.tooltip "Acciones con la página">

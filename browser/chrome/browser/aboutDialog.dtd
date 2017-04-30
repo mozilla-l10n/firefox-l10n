@@ -5,7 +5,7 @@
 <!ENTITY aboutDialog.title "Acerca de &brandFullName;">
 <!ENTITY update.checkForUpdatesButton.label "Buscar actualizaciones">
 <!ENTITY update.checkForUpdatesButton.accesskey "B">
-<!ENTITY update.updateButton.label2 "Reinicie &brandShortName; para actualizar">
+<!ENTITY update.updateButton.label3 "Reinicie para actualizar &brandShorterName;">
 <!ENTITY update.updateButton.accesskey "R">
 <!ENTITY warningDesc.version "&brandShortName; es experimental y puede ser inestable.">
 <!ENTITY warningDesc.telemetryDesc "Envía automáticamente información acerca del rendimiento, hardware, uso y personalizaciones a &vendorShortName; para ayudar a mejorar &brandShortName;.">
