@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.accesskey   "พ">
 
 <!ENTITY inspectContextMenu.label     "ตรวจสอบองค์ประกอบ">
-<!ENTITY inspectContextMenu.accesskey "ป">
+<!ENTITY inspectContextMenu.accesskey "อ">
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
