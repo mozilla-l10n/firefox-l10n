@@ -25,7 +25,7 @@
 <!-- LOCALIZATION NOTE (options.showUserAgentStyles.label): This is the label
   -  for the checkbox option to show user agent styles in the Inspector
   -  panel. -->
-<!ENTITY options.showUserAgentStyles.label "แสดงสไตล์เบราว์เซอร์">
+<!ENTITY options.showUserAgentStyles.label "แสดงลักษณะของเบราว์เซอร์">
 <!ENTITY options.showUserAgentStyles.tooltip "การเปิดสิ่งนี้จะแสดงลักษณะเริ่มต้นที่ถูกโหลดโดยเบราว์เซอร์">
 
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
