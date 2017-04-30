@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "แสดงแท็บทั้งหมด">
 <!ENTITY showAllTabsCmd.accesskey "A">
-<!ENTITY toggleReaderMode.key "R">
+<!ENTITY toggleReaderMode.key "อ">
 
 <!ENTITY fxaSignIn.label "ลงชื่อเข้า &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "เปิดการตั้งค่า &syncBrand.shortName.label;">
@@ -503,26 +503,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้า">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "ข">
 <!ENTITY viewFrameInfoCmd.label       "ดูข้อมูลกรอบ">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "ข">
 <!ENTITY reloadImageCmd.label         "โหลดภาพใหม่">
 <!ENTITY reloadImageCmd.accesskey     "R">
 <!ENTITY viewImageCmd.label           "ดูภาพ">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "ดูข้อมูลภาพ">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.accesskey   "ข">
 <!ENTITY viewImageDescCmd.label       "ดูคำอธิบาย">
 <!ENTITY viewImageDescCmd.accesskey   "D">
 <!ENTITY viewVideoCmd.label           "ดูวิดีโอ">
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "ภ">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
 <!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
 <!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
-<!ENTITY bookmarkThisLinkCmd.accesskey  "L">
+<!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
