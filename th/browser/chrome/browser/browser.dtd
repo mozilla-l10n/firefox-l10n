@@ -396,7 +396,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.label "เอาออกจากเมนู">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "อ">
 <!ENTITY customizeMenu.addMoreItems.label "เพิ่มรายการเพิ่มเติม…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY customizeMenu.addMoreItems.accesskey "พ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ค้นหาหรือป้อนที่อยู่">
@@ -914,6 +914,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "ด">
 <!ENTITY updateManual.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateManual.cancelButton.accesskey "ม">
+<!ENTITY updateManual.panelUI.label "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName;">
 
 <!ENTITY updateRestart.message "หลังเริ่มระบบใหม่อย่างเร็ว &brandShorterName; จะเรียกคือแท็บและหน้าต่างของคุณคืนมาทั้งหมด">
 <!ENTITY updateRestart.header.message "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
