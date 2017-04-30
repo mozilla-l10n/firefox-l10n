@@ -21,7 +21,7 @@
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "แป้นพิมพ์ลัด">
-<!ENTITY helpKeyboardShortcuts.accesskey "ป">
+<!ENTITY helpKeyboardShortcuts.accesskey "ล">
 
 <!ENTITY helpSafeMode.label       "เริ่มการทำงานใหม่และปิดใช้งานส่วนเสริม…">
 <!ENTITY helpSafeMode.accesskey   "ร">
