@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Preveri posodobitve">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label2               "Ponovno zaženi &brandShortName; za posodobitev">
 <!ENTITY update.updateButton.accesskey            "Z">
 
 
