@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "ตรวจสอบการอัปเดต">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ต">
-<!ENTITY update.updateButton.label2               "เริ่มการทำงาน &brandShortName; ใหม่เพื่ออัปเดต">
 <!ENTITY update.updateButton.accesskey            "ร">
 
 
