@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Súbor">
 <!ENTITY plugin.mimeTypes                                    "Typy MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Povoliť chránený režim Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Blokovať nebezpečný a dotieravý obsah používajúci Flash">

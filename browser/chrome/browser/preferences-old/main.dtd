@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Umožniť, aby &brandShortName; a Firefox mohli byť spustené v rovnakom čase">
 <!ENTITY useFirefoxSync.label             "Tip: použijú sa oddelené používateľské profily. Ak chcete medzi nimi zdieľať údaje, môžete využiť službu Sync.">
-<!ENTITY getStarted.label                 "Začať používať službu Sync…">
+<!ENTITY getStarted.notloggedin.label     "Prihlásiť sa do služby &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Otvoriť nastavenia služby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Zapnúť režim viacerých procesov prehliadača &brandShortName;">
