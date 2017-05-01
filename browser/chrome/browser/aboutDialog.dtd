@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Periksa versi baru">
 <!ENTITY update.checkForUpdatesButton.accesskey   "P">
-<!ENTITY update.updateButton.label2               "Mulai Ulang &brandShortName; untuk Memutakhirkan">
 <!ENTITY update.updateButton.accesskey            "U">
 
 
