@@ -576,51 +576,51 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "เล่น">
-<!ENTITY mediaPlay.accesskey         "P">
+<!ENTITY mediaPlay.accesskey         "ล">
 <!ENTITY mediaPause.label            "หยุดชั่วคราว">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPause.accesskey        "ห">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "ปิดเสียง">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.accesskey         "ส">
 <!ENTITY mediaUnmute.label           "เปิดเสียง">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "ส">
 <!ENTITY mediaPlaybackRate2.label     "ความเร็วในการเล่น">
-<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate2.accesskey "ร">
 <!ENTITY mediaPlaybackRate050x2.label "ช้า (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate050x2.accesskey "ช">
 <!ENTITY mediaPlaybackRate100x2.label "ปกติ">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate100x2.accesskey "ป">
 <!ENTITY mediaPlaybackRate125x2.label "เร็ว (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "F">
+<!ENTITY mediaPlaybackRate125x2.accesskey "ร">
 <!ENTITY mediaPlaybackRate150x2.label "เร็วขึ้น (1.5×)">
-<!ENTITY mediaPlaybackRate150x2.accesskey "a">
+<!ENTITY mediaPlaybackRate150x2.accesskey "ข">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "เร็วมาก (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "L">
+<!ENTITY mediaPlaybackRate200x2.accesskey "ม">
 <!ENTITY mediaLoop.label             "วนรอบ">
-<!ENTITY mediaLoop.accesskey         "L">
+<!ENTITY mediaLoop.accesskey         "ว">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaShowControls.label     "แสดงปุ่มควบคุม">
-<!ENTITY mediaShowControls.accesskey "C">
+<!ENTITY mediaShowControls.accesskey "ค">
 <!ENTITY mediaHideControls.label     "ซ่อนปุ่มควบคุม">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaHideControls.accesskey "ค">
 <!ENTITY videoFullScreen.label       "เต็มจอ">
-<!ENTITY videoFullScreen.accesskey   "F">
+<!ENTITY videoFullScreen.accesskey   "จ">
 <!ENTITY videoSaveImage.label        "บันทึก Snapshot เป็น…">
 <!ENTITY videoSaveImage.accesskey    "บ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "แสดงสถิติ">
-<!ENTITY videoShowStats.accesskey    "t">
+<!ENTITY videoShowStats.accesskey    "ถ">
 <!ENTITY videoHideStats.label        "ซ่อนสถิติ">
-<!ENTITY videoHideStats.accesskey    "t">
+<!ENTITY videoHideStats.accesskey    "ถ">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -664,7 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY closeCmd.label                 "ปิด">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "C">
+<!ENTITY closeCmd.accesskey             "ด">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
