@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Befeiliging">
 
 <!ENTITY  warnOnAddonInstall.label        "My warskôgje as websites probearje add-ons te ynstallearjen">
 <!ENTITY  warnOnAddonInstall.accesskey    "M">
@@ -23,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "U">
 
 
+<!ENTITY  formsAndPasswords.label       "Formulieren &amp; Wachtwurden">
 
+<!ENTITY  rememberLogins1.label          "Oanmeldingen en wachtwurden foar websites ûnthâlde">
+<!ENTITY  rememberLogins1.accesskey      "O">
 <!ENTITY  passwordExceptions.label      "Utsûnderingen…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

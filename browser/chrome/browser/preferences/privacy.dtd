@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Beskerming tsjin folgjen">
+<!ENTITY  trackingProtection.description       "Folgjen hâldt yn dat bedriuwen gegevens oer jo sammelje om in profyl op te bouwen en ynhâld wer te jaan op basis fan jo persoanlike en sneupgegevens.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Werjaan fan ynhâld troch bekende bedriuwen dy't folgje blokkearje">
 <!ENTITY  trackingProtectionAlways.label       "Altyd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Allinnich yn priveefinsters">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Lokaasjebalke">
 
+<!ENTITY  locbar.suggest2.label         "By gebrûk fan de lokaasjebalke, suggestjes werjaan út">
 <!ENTITY  locbar.history.label          "Skiednis">
 <!ENTITY  locbar.history.accesskey      "S">
 <!ENTITY  locbar.bookmarks.label        "Blêdwizers">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Relatearre sykopdrachten fan de standertsykmasine">
 <!ENTITY  locbar.searches.accesskey     "k">
 
+<!ENTITY  suggestionSettings2.label     "Foarkarren foar sykmasinesuggestjes wizigje">
 
 <!ENTITY  acceptCookies.label           "Cookies fan websites akseptearje">
 <!ENTITY  acceptCookies.accesskey       "C">
@@ -60,6 +65,8 @@
 <!ENTITY  showCookies.label             "Cookies toane…">
 <!ENTITY  showCookies.accesskey         "k">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; sil">
+<!ENTITY  historyHeader2.pre.accesskey     "s">
 <!ENTITY  historyHeader.remember.label     "Skiednis ûnthâlde">
 <!ENTITY  historyHeader.dontremember.label "Nea skiednis ûnthâlde">
 <!ENTITY  historyHeader.custom.label       "Oanpaste ynstellingen brûke foar skiednis">
