@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "မွမ်းမံချက်များရှိ/မရှိ စစ်ဆေးမည်">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label3               "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ရန်">
 <!ENTITY update.updateButton.accesskey            "R">
 
 

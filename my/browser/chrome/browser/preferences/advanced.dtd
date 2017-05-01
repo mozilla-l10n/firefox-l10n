@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ချောမောလွယ်ကူသော အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "စာရိုက်နေစဉ် စာလုံးပေါင်းများကို စစ်ဆေးပါ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "လုံခြုံရေး ကိရိယာများ">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY performance.label               "စွမ်းဆောင်ရည်">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်ကို အသုံးပြုပါ">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်များသည် သင့်ကွန်ပျူတာနှင့် ကိုက်ညီစေရန် ဆောင်ရွက်ထားသည်။">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "အချက်အလက် ဆောင်ရွက်မှု လုပ်ငန်းစဉ် ကန့်သတ်ချက်">
+<!ENTITY limitContentProcess.description
+                                         "တပ်ဗ် အများအပြား အသုံးပြုသောအခါ အချက်အလက် ဆောင်ရွက်မှု လုပ်ငန်းစဉ် များလေ &brandShortName; ကို ပိုမိုတုံ့ပြန်ဆောင်ရွက်စေနိုင်စွမ်း ရှိလေ ဖြစ်သည်။ သို့သော် ၎င်းသည် မှတ်ဉာဏ်အများအပြား အသုံးပြုနိုင်သည်။">
+<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
+<!ENTITY allowHWAccel.accesskey          "r">
