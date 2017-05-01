@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Праверка існавання абнаўленняў">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
+<!ENTITY update.updateButton.label3               "Перазапусціць для абнаўлення &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "П">
 
 
