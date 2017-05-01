@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Проверить на обновления">
 <!ENTITY update.checkForUpdatesButton.accesskey   "о">
-<!ENTITY update.updateButton.label2               "Перезапустить &brandShortName; для обновления">
 <!ENTITY update.updateButton.accesskey            "е">
 
 
