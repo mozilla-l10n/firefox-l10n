@@ -800,7 +800,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "Кіраваць сэрвісамі…">
 
-<!ENTITY social.directory.label "Каталог Актывацый">
+<!ENTITY social.directory.label "Каталог актывацый">
 <!ENTITY social.directory.text "Вы можаце актываваць сэрвісы сумеснага доступу з каталога.">
 <!ENTITY social.directory.button "Перанесці мяне туды!">
 <!ENTITY social.directory.introText "Націсніце на службу, каб дадаць яе ў &brandShortName;.">
