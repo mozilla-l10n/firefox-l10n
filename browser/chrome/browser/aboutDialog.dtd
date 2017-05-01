@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Kontrolli uuendusi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label2               "Uuendamiseks taaskäivita &brandShortName;">
 <!ENTITY update.updateButton.accesskey            "U">
 
 
