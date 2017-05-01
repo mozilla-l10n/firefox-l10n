@@ -927,3 +927,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label "Redémarrer &brandShorterName; pour appliquer la mise à jour">
 
+<!ENTITY pageActionButton.tooltip "Actions de la page">
