@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Έλεγχος για ενημερώσεις">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "Επανεκκίνηση του &brandShortName; για ενημέρωση">
 <!ENTITY update.updateButton.accesskey            "π">
 
 
