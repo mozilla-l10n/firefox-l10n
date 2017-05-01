@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "განახლებების შემოწმება">
 <!ENTITY update.checkForUpdatesButton.accesskey   "გ">
-<!ENTITY update.updateButton.label2               "განახლების დასაყენებლად ხელახლა გაუშვით &brandShortName;">
 <!ENTITY update.updateButton.accesskey            "ხ">
 
 
