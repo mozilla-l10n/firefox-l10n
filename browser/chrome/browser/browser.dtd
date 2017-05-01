@@ -483,16 +483,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.label     "เปิดลิงก์">
 <!ENTITY openLinkCmdInCurrent.accesskey "ป">
 <!ENTITY openFrameCmdInTab.label      "เปิดกรอบในแท็บใหม่">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "ห">
 <!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
 <!ENTITY openLinkCmdInContainerTab.accesskey "ย">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY showOnlyThisFrameCmd.accesskey "ส">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "โหลดกรอบใหม่">
-<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY reloadFrameCmd.accesskey     "ล">
 <!ENTITY viewPartialSourceForSelectionCmd.label "ดูต้นฉบับที่เลือก">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "ดูต้นฉบับ MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
@@ -533,9 +533,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
-<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveFrameCmd.accesskey       "ก">
 <!ENTITY printFrameCmd.label          "พิมพ์กรอบ…">
-<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY printFrameCmd.accesskey      "พ">
 <!ENTITY saveLinkCmd.label            "บันทึกลิงก์เป็น…">
 <!ENTITY saveLinkCmd.accesskey        "น">
 <!ENTITY saveImageCmd.label           "บันทึกภาพเป็น…">
@@ -677,14 +677,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageReportIcon.tooltip            "เปลี่ยนการตั้งค่าการปิดกั้นป๊อปอัปสำหรับเว็บไซต์นี้">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "ป">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "แก้ไขการตั้งค่าตัวปิดกั้นป๊อปอัป…">
 <!ENTITY editPopupSettings.label "แก้ไขตัวเลือกตัวปิดกั้นป๊อปอัป…">
-<!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY editPopupSettings.accesskey "ก">
+<!ENTITY dontShowMessage.accesskey "ข">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "สลับทิศทางหน้ากระดาษ">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
