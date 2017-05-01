@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Prehľadávať…">
 <!ENTITY loaddevice.browse.accesskey            "h">
 
+<!ENTITY loaddevice.title2                      "Načítať ovládač zariadenia PKCS#11">
