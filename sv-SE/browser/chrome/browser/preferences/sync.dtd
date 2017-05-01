@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhetens namn">
-<!ENTITY changeSyncDeviceName1.label "Ändra enhetsnamn">
-<!ENTITY changeSyncDeviceName1.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Avbryt">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Spara">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ändra profilbild">
 <!ENTITY verifiedManage.label        "Hantera Konto">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect2.label           "Koppla från">
-<!ENTITY disconnect2.accesskey       "f">
 <!ENTITY verify.label                "Verifiera e-postadress">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Glöm den här e-postadressen">
