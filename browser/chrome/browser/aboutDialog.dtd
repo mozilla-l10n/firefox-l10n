@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Tschertgar actualisaziuns">
 <!ENTITY update.checkForUpdatesButton.accesskey   "T">
-<!ENTITY update.updateButton.label2               "Reaviar &brandShortName; per actualisar">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
