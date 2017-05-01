@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Buscar actualizacións">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-<!ENTITY update.updateButton.label2               "Reinicie &brandShortName; para actualizalo">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
