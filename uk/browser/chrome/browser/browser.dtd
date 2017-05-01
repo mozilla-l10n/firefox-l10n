@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Завантажте нову версію &brandShorterName;">
 
 <!ENTITY updateRestart.message "Після швидкого перезапуску &brandShorterName; відновить всі відкриті вкладки й вікна.">
-<!ENTITY updateRestart.header.message "Перезапустіть &brandShorterName;, щоб застосувати оновлення.">
 <!ENTITY updateRestart.acceptButton.label "Перезапустити й відновити">
 <!ENTITY updateRestart.acceptButton.accesskey "П">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label "Перезапустіть &brandShorterName;, щоб застосувати оновлення">
+
