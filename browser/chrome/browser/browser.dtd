@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Last ned en frisk kopi av &brandShorterName;">
 
 <!ENTITY updateRestart.message "Etter en rask omstart, vil &brandShorterName; gjenopprette alle dine åpne faner og vinduer.">
-<!ENTITY updateRestart.header.message "Start om &brandShorterName; for å installere oppdateringen.">
 <!ENTITY updateRestart.acceptButton.label "Start om og gjenopprett">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikke nå">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label "Start om &brandShorterName; for å installere oppdateringen">
+
