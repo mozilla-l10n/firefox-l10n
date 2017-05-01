@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "下载 &brandShorterName; 的副本">
 
 <!ENTITY updateRestart.message "&brandShorterName; 将在重启后恢复您目前打开的所有标签页和窗口。">
-<!ENTITY updateRestart.header.message "重启 &brandShorterName; 以应用更新。">
 <!ENTITY updateRestart.acceptButton.label "重启并恢复">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暂时不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "重启 &brandShorterName; 以应用更新">
+

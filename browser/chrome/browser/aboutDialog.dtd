@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "检查更新">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "重启 &brandShortName; 以更新">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
