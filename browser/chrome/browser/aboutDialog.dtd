@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Sök efter uppdateringar">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ö">
+<!ENTITY update.updateButton.label3               "Starta om för att uppdatera &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "S">
 
 
