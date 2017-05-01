@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Semak kemaskini">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label2               "Mula semula &brandShortName; untuk mendapatkan Kemaskini">
 <!ENTITY update.updateButton.accesskey            "M">
 
 
