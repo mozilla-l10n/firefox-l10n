@@ -130,6 +130,11 @@
                                          "Выкарыстоўваць рэкамендаваныя налады прадукцыйнасці">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Рэкамендаваныя налады прадукцыйнасці з улікам канфігурацыі вашага камп'ютара.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "В">
 <!ENTITY limitContentProcess.label       "Абмежаванне колькасці працэсаў">
+<!ENTITY limitContentProcess.description
+                                         "Выкарыстанне большай колькасці працэсаў можа зрабіць &brandShortName; больш чулым пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.">
+<!ENTITY limitContentProcess.accesskey   "А">
 <!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">
