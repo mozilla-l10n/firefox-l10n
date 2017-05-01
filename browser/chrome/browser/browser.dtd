@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Abrir panel de mensaje de almacenamiento de contraseñas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionar uso de complemento">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si puedes recibir o no notificaciones del sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en almacenamiento persistente">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionar compartición de la cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionar compartición de micrófono con el sitio">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Has bloqueado la información de ubicación para este sitio.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Has bloqueado el almacenamiento de datos para este sitio.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Has bloqueado las notificaciones para este sitio.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Has bloqueado el almacenamiento persistente para este sitio.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostrar historial">
 
@@ -373,6 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de sincronización">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Conéctate para ver una lista de las pestañas de tus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Conectarse a Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar servicios…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver barra lateral con las pestañas sincronizadas">
 
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra">
@@ -781,6 +784,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Abrir todo en pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Administrar servicios…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -896,5 +901,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Aprender más acerca de DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Actualiza tu &brandShorterName; para lo último en velocidad y privacidad.">
+<!ENTITY updateAvailable.whatsnew.label ".Revisa que hay de nuevo">
+<!ENTITY updateAvailable.header.message "Una nueva actualización de &brandShorterName; está disponible.">
+<!ENTITY updateAvailable.acceptButton.label "Bajar actualización">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ahora no">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Bajar actualización de &brandShorterName;">
 
+<!ENTITY updateManual.message "Baja una copia fresca de &brandShorterName; y nosotros te ayudaremos a instalarla.">
+<!ENTITY updateManual.whatsnew.label "Revisa que hay de nuevo.">
+<!ENTITY updateManual.header.message "&brandShorterName; no se puede actualizar a la última versión.">
+<!ENTITY updateManual.acceptButton.label "Descargar &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ahora no">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Baja una copia fresca de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Después de un rápido reinicio, &brandShorterName; restaurará todas tus pestañas y ventanas abiertas.">
+<!ENTITY updateRestart.header.message "Reinicia &brandShorterName; para aplicar la actualización.">
+<!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ahora no">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Reiniciar &brandShorterName; para aplicar la actualización">
