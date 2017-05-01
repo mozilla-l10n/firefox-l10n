@@ -24,6 +24,7 @@
 <!ENTITY firstrun_tabqueue_title "Lëkkalekaay">
 <!-- Localization note (firstrun_tabqueue_message): 'Tab queue' is a feature that allows users to queue up or save links from outside of Firefox (without switching apps) - these links will be loaded in Firefox the next time Firefox is opened. -->
 <!ENTITY firstrun_tabqueue_message_off "Doxalal toftaloog làcc yi">
+<!ENTITY firstrun_tabqueue_subtext_off "Denciy lëkkalekaay ngir ci kanam ci &brandShortName; di na tax nga leen di man a ubbee ci yeneen jëfekaay.">
 
 <!ENTITY firstrun_tabqueue_message_on "Waaw góor!">
 <!ENTITY firstrun_tabqueue_subtext_on "Man ngaa doxadil gile solo ci &settings; ci ronu &pref_category_general;.">
@@ -50,15 +51,15 @@
 <!ENTITY  tab_offline_version "Woneg sumbub biti-lonkoo">
 
 <!ENTITY  crash_reporter_title "Xibaar ñeel taxawug &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; had a problem and crashed. Your tabs should be listed on the &brandShortName; Start page when you restart.">
-<!ENTITY  crash_send_report_message3 "Tell &vendorShortName; about this crash so they can fix it">
+<!ENTITY  crash_message2 "&brandShortName; da fa ami jafe-jafe ba taxaw. Say làcc di nañ leen limaate ci xëtu tàmbali wu &brandShortName; suy tàmbaliwaat.">
+<!ENTITY  crash_send_report_message3 "Waxal &vendorShortName; li ñeel gii taxaw ndax mu man koo saafara">
 <!ENTITY  crash_include_url2 "Boole ci màkkaanu xët wa ma nekkoon">
 <!ENTITY  crash_sorry "Di ko naqarlu">
-<!ENTITY  crash_comment "Yokk ab saraa (ñépp a koy man a gis)">
+<!ENTITY  crash_comment "Yokk ci sa xalaat (ñépp a koy man a gis)">
 <!ENTITY  crash_allow_contact2 "Sañal &vendorShortName; mu man maa jot ñeel bii xibaar">
 <!ENTITY  crash_email "Sa email">
-<!ENTITY  crash_closing_alert "Génn te bañ a yónnee ay xibaar ci daanu gi?">
-<!ENTITY  sending_crash_report "Yónneey xibaar ci daanu gi \u2026">
+<!ENTITY  crash_closing_alert "Génn te bañ a yónnee ay xibaar ci taxaw gi?">
+<!ENTITY  sending_crash_report "Yónneey xibaar ci taxaw gi \u2026">
 <!ENTITY  crash_close_label "Tëj">
 <!ENTITY  crash_restart_label "Tàmbaliwaat &brandShortName;">
 
@@ -678,6 +679,7 @@ dale ko ci Android">
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Seet ak &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
@@ -695,6 +697,7 @@ dale ko ci Android">
 <!ENTITY updater_downloading_select2 "Laal ngir def yeesal bi bu yeb bi paree">
 <!ENTITY updater_downloading_retry2 "Laal ngir jéemaat">
 
+<!ENTITY updater_apply_select3 "Bësal ngir samp">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
