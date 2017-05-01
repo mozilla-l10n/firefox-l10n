@@ -278,6 +278,7 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "Solo yu jàppandidi">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
@@ -653,6 +654,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "Kaaraange Lank-toppaate">
 <!ENTITY doorhanger_tracking_state_enabled "Doxalees">
 <!ENTITY doorhanger_tracking_state_disabled "Doxadilees">
+<!ENTITY doorhanger_tracking_message_enabled1 "Téyees nañ lenn luy jéem a topp sa doxaliin ci web bi.">
 <!ENTITY doorhanger_tracking_message_disabled2 "Xët wi man naa am ëmbéef guy topp sag njoow.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
@@ -697,12 +699,15 @@ dale ko ci Android">
 <!ENTITY updater_downloading_select2 "Laal ngir def yeesal bi bu yeb bi paree">
 <!ENTITY updater_downloading_retry2 "Laal ngir jéemaat">
 
+<!ENTITY updater_apply_title3 "Yebbees na yeesalug &brandShortName;">
 <!ENTITY updater_apply_select3 "Bësal ngir samp">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
+<!ENTITY updater_permission_text "Ngir yebbi ay ŋara aki yeesal. sañalal &brandShortName; mu man a jot ci dencuwaay bu jumtukaay bi.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Sañal">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "New Guest Session">
