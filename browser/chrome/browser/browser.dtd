@@ -918,9 +918,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
 
 <!ENTITY updateRestart.message "빠른 재시작 후에, &brandShorterName; 가 귀하의 모든 열린 탭과 윈도우를 복구할 것입니다.">
-<!ENTITY updateRestart.header.message "&brandShorterName; 를 재시작하여 업데이트 적용하기.">
 <!ENTITY updateRestart.acceptButton.label "재시작하여 복원하기">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "바로 안함">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "&brandShorterName;를 닫고 다시 열어서 업데이트 적용">
+
