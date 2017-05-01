@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Název zařízení">
+<!ENTITY changeSyncDeviceName2.label "Změnit název zařízení…">
+<!ENTITY changeSyncDeviceName2.accesskey "m">
 <!ENTITY cancelChangeSyncDeviceName.label "Zrušit">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "u">
 <!ENTITY saveChangeSyncDeviceName.label "Uložit">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Změnit profilový obrázek">
 <!ENTITY verifiedManage.label        "Spravovat účet">
 <!ENTITY verifiedManage.accesskey    "S">
+<!ENTITY disconnect3.label           "Odpojit…">
+<!ENTITY disconnect3.accesskey       "d">
 <!ENTITY verify.label                "Ověřit e-mail">
 <!ENTITY verify.accesskey            "v">
 <!ENTITY forget.label                "Zapomenout tento e-mail">

@@ -322,7 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
-<!ENTITY viewMenu.label         "Zobrazení"> 
+<!ENTITY viewMenu.label         "Zobrazit"> 
 <!ENTITY viewMenu.accesskey       "Z"> 
 <!ENTITY viewToolbarsMenu.label       "Nástrojové lišty"> 
 <!ENTITY viewToolbarsMenu.accesskey     "N"> 
