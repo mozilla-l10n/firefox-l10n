@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Scarega 'na còpia neuva de &brandShorterName;">
 
 <!ENTITY updateRestart.message "Dòppo ina avertua rapida, o &brandShorterName; o repigiâ tutti i teu feuggi e barcoin averti.">
-<!ENTITY updateRestart.header.message "Arvi torna &brandShorterName; pe conpletâ l'agiornamento.">
 <!ENTITY updateRestart.acceptButton.label "Arvi torna e Repiggia">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Oua No">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Arvi torna &brandShorterName; pe conpletâ l'agiornamento">
+

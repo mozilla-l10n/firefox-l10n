@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nomme dispoxitivo">
-<!ENTITY changeSyncDeviceName1.label "Cangia o nomme do dispoxitivo">
-<!ENTITY changeSyncDeviceName1.accesskey "n">
 <!ENTITY cancelChangeSyncDeviceName.label "Anulla">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "l">
 <!ENTITY saveChangeSyncDeviceName.label "Sarva">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Cangia l’inmagine do profî">
 <!ENTITY verifiedManage.label        "Gestisci account">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect2.label           "Disconnetti">
-<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "Verifica email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Ascòrda sta email">
