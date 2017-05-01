@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Télécharger &brandShorterName; à nouveau">
 
 <!ENTITY updateRestart.message "Après un rapide redémarrage, &brandShorterName; restaurera l’ensemble de vos fenêtres et onglets ouverts.">
-<!ENTITY updateRestart.header.message "Redémarrez &brandShorterName; pour appliquer la mise à jour.">
 <!ENTITY updateRestart.acceptButton.label "Redémarrer et restaurer">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Plus tard">
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label "Redémarrer &brandShorterName; pour appliquer la mise à jour">
+
