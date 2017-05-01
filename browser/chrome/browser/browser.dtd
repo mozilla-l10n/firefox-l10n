@@ -285,9 +285,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
-<!ENTITY newNavigatorCmd.accesskey      "ม">
+<!ENTITY newNavigatorCmd.accesskey      "ห">
 <!ENTITY newPrivateWindow.label     "หน้าต่างส่วนตัวใหม่">
-<!ENTITY newPrivateWindow.accesskey "น">
+<!ENTITY newPrivateWindow.accesskey "ส">
 <!ENTITY newNonRemoteWindow.label   "หน้าต่าง Non-e10s ใหม่">
 
 <!ENTITY editMenu.label         "แก้ไข"> 
