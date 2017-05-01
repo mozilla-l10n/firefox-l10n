@@ -92,16 +92,19 @@
   -  is displayed next to a checkbox determining whether or not memory
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableMemory             "Εγγραφή μνήμης">
+<!ENTITY performanceUI.enableMemory.tooltiptext "Εγγραφή κατανάλωσης μνήμης κατά τη δημιουργία προφίλ.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableAllocations): This string
   -  is displayed next to a checkbox determining whether or not allocation
   -  measurements are enabled. -->
 <!ENTITY performanceUI.enableAllocations             "Εγγραφή εκχωρήσεων">
+<!ENTITY performanceUI.enableAllocations.tooltiptext "Εγγραφή εκχωρήσεων αντικειμένων κατά τη δημιουργία προφίλ.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableFramerate): This string
   -  is displayed next to a checkbox determining whether or not framerate
   -  is recorded. -->
 <!ENTITY performanceUI.enableFramerate             "Εγγραφή ρυθμού καρέ">
+<!ENTITY performanceUI.enableFramerate.tooltiptext "Εγγραφή ρυθμού καρέ κατά τη δημιουργία προφίλ.">
 
 <!-- LOCALIZATION NOTE (performanceUI.console.recordingNoticeStart/recordingNoticeEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
