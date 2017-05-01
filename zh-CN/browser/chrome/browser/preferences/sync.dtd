@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "设备名称">
-<!ENTITY changeSyncDeviceName1.label "更改设备名称">
-<!ENTITY changeSyncDeviceName1.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "取消">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "保存">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "更改头像">
 <!ENTITY verifiedManage.label        "管理账户">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect2.label           "断开连接">
-<!ENTITY disconnect2.accesskey       "D">
 <!ENTITY verify.label                "验证邮箱">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘记此邮箱">
