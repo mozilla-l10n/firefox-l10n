@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Contròlla agiornamenti">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "Arvi torna &brandShortName; pe agiornâ">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
