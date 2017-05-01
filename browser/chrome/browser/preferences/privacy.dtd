@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecția față de urmărire">
 <!ENTITY  trackingProtection.description       "Urmărirea este atunci când companiile colectează informații despre tine pentru a construi un profil și pentru a afișa conținut pe baza datelor tale de navigare și personale.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Blochează afișarea de conținut din partea companiile cunoscute pentru urmărirea utilizatorilor">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blochează afișarea de conținut din partea companiilor cunoscute pentru urmărirea utilizatorilor">
 <!ENTITY  trackingProtectionAlways.label       "Întotdeauna">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Doar în ferestrele private">

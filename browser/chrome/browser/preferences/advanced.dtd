@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Folosește derularea lină">
 <!ENTITY useSmoothScrolling.accesskey    "i">
-<!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Verifică ortografia pe măsură ce tastez">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispozitive de securitate">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
+<!ENTITY allowHWAccel.accesskey          "h">
