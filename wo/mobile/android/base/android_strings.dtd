@@ -522,7 +522,7 @@
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
-<!ENTITY pref_scroll_title_bar2 "Joow ak palanteer bu fees">
+<!ENTITY pref_scroll_title_bar2 "Njoow ak xoolu gu fees">
 <!ENTITY pref_scroll_title_bar_summary2 "Nëbb bànqaasu jumtukaay bu &brandShortName; su xët wi di wàcc">
 
 <!ENTITY pref_tab_queue_title3 "Toftaloog làcc yi">
@@ -803,16 +803,27 @@ dale ko ci Android">
 
 <!ENTITY helper_first_offline_bookmark_title "Jàng biti-lonkoo">
 <!ENTITY helper_first_offline_bookmark_message "Man ngaa gis xëti gisiinu jàng gi ci màndarga-xët gi, ci biti-lonkoo itam.">
+<!ENTITY helper_first_offline_bookmark_button "Dem ci Màndarga-xët yi">
 
+<!ENTITY helper_triple_readerview_open_title "Jàppandi na ci biti-lonkoo">
 <!ENTITY helper_triple_readerview_open_message "Màndargaalal xëti gisiinu jàng gi ngir man leen a jàng ci biti-lonkoo.">
+<!ENTITY helper_triple_readerview_open_button "Yokk ci Màndarga-xët yi">
 
+<!ENTITY activity_stream_topsites "Dal yees gën a ubbi">
+<!ENTITY activity_stream_highlights "Gën-gi-fés">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Yees yokk ci màndarga-xët yi">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Yees ubbi">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "Dindi">
+<!ENTITY activity_stream_delete_history "Faree ko ci jaar-jaar gi">
 
+<!ENTITY activity_stream_welcome_title "Dala-jàmm ci say Gën-gi-fés">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; leegi daf la won li gën a fés sukkandiku ci li ngay gis ci web bi, di tax ba ngay man di gisaat say jukki, wideo, màndarga-xët, ak yeneeni xët.">
