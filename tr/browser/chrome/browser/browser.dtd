@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Parolayı kaydet mesajı panelini aç">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Yan uygulama kullanımını yönet">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sitenin bildirim gönderip gönderemeyeceğini ayarlayın">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kalıcı depolamada veri depola">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Siteyle kamera ve/veya mikrofonumu paylaşmayı yönet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Siteyle mikrofonumu paylaşmayı yönet">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bu sitenin konumunuzu öğrenmesini engellediniz.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Bu sitenin veri depolamasını engellediniz.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Bu sitenin bildirim göndermesini engellediniz.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Bu sitenin kalıcı veri depolamasını engellediniz.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Geçmişi göster">
 
@@ -899,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM hakkında daha fazla bilgi alın…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "En yeni hız ve gizlilik özellikleri için &brandShorterName; tarayıcınızı güncelleyin.">
 <!ENTITY updateAvailable.whatsnew.label "Yeniliklere bakın.">
 <!ENTITY updateAvailable.header.message "Yeni bir &brandShorterName; güncellemesi var.">
 <!ENTITY updateAvailable.acceptButton.label "Güncellemeyi indir">
@@ -907,6 +910,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "D">
 <!ENTITY updateAvailable.panelUI.label "&brandShortName; güncellemesini indir">
 
+<!ENTITY updateManual.message "Önce yeni &brandShorterName; kopyanızı indirin. Yüklemenize yardım edeceğiz.">
 <!ENTITY updateManual.whatsnew.label "Yeniliklere bakın.">
+<!ENTITY updateManual.header.message "&brandShorterName; son sürüme güncellenemiyor.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; tarayıcısını indir">
+<!ENTITY updateManual.acceptButton.accesskey "t">
+<!ENTITY updateManual.cancelButton.label "Daha sonra">
+<!ENTITY updateManual.cancelButton.accesskey "a">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; tarayıcısının yeni bir kopyasını indir">
 
+<!ENTITY updateRestart.message "Yeniden başladıktan &brandShorterName; tüm açık sekmelerinizi ve pencerelerinizi geri yükleyecek.">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlatın.">
+<!ENTITY updateRestart.acceptButton.label "Yeniden başlat ve geri yükle">
+<!ENTITY updateRestart.acceptButton.accesskey "b">
+<!ENTITY updateRestart.cancelButton.label "Daha sonra">
+<!ENTITY updateRestart.cancelButton.accesskey "D">
+<!ENTITY updateRestart.panelUI.label "Güncellemek için &brandShortName; tarayıcısını yeniden başlat">
 
+<!ENTITY pageActionButton.tooltip "Sayfa eylemleri">

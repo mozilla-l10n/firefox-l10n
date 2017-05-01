@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Cihaz adı">
+<!ENTITY changeSyncDeviceName2.label "Cihaz adını değiştir…">
+<!ENTITY changeSyncDeviceName2.accesskey "C">
 <!ENTITY cancelChangeSyncDeviceName.label "İptal">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Kaydet">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profil resmini değiştir">
 <!ENTITY verifiedManage.label        "Hesabı yönet">
 <!ENTITY verifiedManage.accesskey    "H">
+<!ENTITY disconnect3.label           "Bağlantıyı kes…">
+<!ENTITY disconnect3.accesskey       "B">
 <!ENTITY verify.label                "E-postayı doğrula">
 <!ENTITY verify.accesskey            "d">
 <!ENTITY forget.label                "Bu e-postayı unut">
