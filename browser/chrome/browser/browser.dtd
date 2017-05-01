@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Bewarre oanmeldingenberjochtpaniel iepenje">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gebrûk ynstekker beheare">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wizigje oft jo notifikaasjes fan de website ûntfange kinne">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens yn permaninte opslach bewarje">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dielen fan jo kamera en/of mikrofoan mei de website beheare">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dielen fan jo mikrofoan mei de website beheare">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Jo hawwe jo lokaasjeynformaasje foar dizze website blokkearre.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Jo hawwe gegevensûnthâld foar dizze website blokkearre.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jo hawwe notifikaasjes foar dizze website blokkearre.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Jo hawwe permaninte opslach foar dizze website blokkearre.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Skiednis toane">
 
@@ -899,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Mear ynfo oer DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Wurkje jo &brandShorterName; by foar it nijste yn faasje en privacy.">
 <!ENTITY updateAvailable.whatsnew.label "Wat is nij.">
 <!ENTITY updateAvailable.header.message "Der is in nije &brandShorterName;-fernijing beskikber.">
 <!ENTITY updateAvailable.acceptButton.label "Fernijing downloade">
@@ -916,6 +919,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Download in farske kopy fan &brandShorterName;">
 
+<!ENTITY updateRestart.message "Nei in flugge werstart sil &brandShorterName; al jo iepen ljepblêden en finsters werstelle.">
+<!ENTITY updateRestart.header.message2 "Start opnij om &brandShorterName; by te wurkjen.">
+<!ENTITY updateRestart.acceptButton.label "Opnij starte en werstelle">
+<!ENTITY updateRestart.acceptButton.accesskey "O">
 <!ENTITY updateRestart.cancelButton.label "No net">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Start &brandShorterName; opnij om de fernijing ta te passen">
 
+<!ENTITY pageActionButton.tooltip "Side-aksjes">
