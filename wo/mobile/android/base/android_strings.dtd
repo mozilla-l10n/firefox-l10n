@@ -292,6 +292,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Walug yëngu-yëngu">
+<!ENTITY pref_activity_stream_summary "Ag jaar-jaar gooy gis ak xët wu njëkk wees defaraat tay la gënalatee yombal gis dëgg-dëgg li ngay seet ci &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Leegi ak kaaraangeeg lank-toppaate">
 <!ENTITY tracking_protection_prompt_text "Ñi lay jéem a topp dañ leen di téye, kon amoo lenn looy jaaxle.">
@@ -380,7 +381,7 @@
 <!ENTITY pref_search_suggestions "Wone tektali ceet">
 <!ENTITY pref_history_search_suggestions "Wone jaar-jaaru ceet gi">
 <!ENTITY pref_import_options "Tànneefi jëli">
-<!ENTITY pref_import_android_summary "">
+<!ENTITY pref_import_android_summary "Jëleeji màndarga-xët yeek jaar-jaar gi ca joowkaay bim wàccaale">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Làcc yi ubbeeku">
@@ -389,14 +390,14 @@
 <!ENTITY pref_private_data_formdata2 "">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; ñi dugg">
 <!ENTITY pref_private_data_passwords2 "Duggkaay yees fi denc">
-<!ENTITY pref_private_data_cache "Cache">
-<!ENTITY pref_private_data_offlineApps "Njoxeefi dali web yu lonkuwul">
+<!ENTITY pref_private_data_cache "Ndenc">
+<!ENTITY pref_private_data_offlineApps "Njoxeefi dali web yi ci biti-lonkoo">
 <!ENTITY pref_private_data_siteSettings2 "Jekk-jekkali dal">
 <!ENTITY pref_private_data_downloadFiles2 "Yebbi">
 <!ENTITY pref_private_data_syncedTabs "Làcc yi lonkoo">
 
 <!ENTITY pref_default_browser "Def muy sa joowukaay bu njëkk">
-<!ENTITY pref_default_browser_mozilla_support_tablet "Xool Wallug Mozilla">
+<!ENTITY pref_default_browser_mozilla_support_tablet "Xool jàpple gu Mozilla">
 <!ENTITY pref_about_firefox "Ñeel &brandShortName;">
 <!ENTITY pref_vendor_faqs "Laaj aki tont">
 <!ENTITY pref_vendor_feedback "Wax sa xalaat">
@@ -473,31 +474,31 @@
 <!ENTITY tabs_private "Sutura">
 <!ENTITY set_image_fail "Maneesul a tànn bile nataal">
 <!ENTITY set_image_path_fail " Maneesul a denc bile nataal">
-<!ENTITY set_image_chooser_title "Set Image As">
+<!ENTITY set_image_chooser_title "Jàppee naatal bi niki">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY find_text "Wut ci biir xët bi">
-<!ENTITY find_prev "Bi jiitu">
-<!ENTITY find_next "Bi ci topp">
+<!ENTITY find_text "Seet ci biir xët wi">
+<!ENTITY find_prev "Jiitu">
+<!ENTITY find_next "Toftal">
 <!ENTITY find_close "Tëj">
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Sending to Device">
-<!ENTITY media_play "Play">
-<!ENTITY media_pause "Pause">
-<!ENTITY media_stop "Stop">
+<!ENTITY media_play "Taal">
+<!ENTITY media_pause "Taxawal">
+<!ENTITY media_stop "Fay">
 
 <!ENTITY contextmenu_open_new_tab "Ubbi ci biir koñ bu bees">
-<!ENTITY contextmenu_open_private_tab "Ubbi ci làccu sutura">
+<!ENTITY contextmenu_open_private_tab "Ubbi ci làcc wu suturawu">
 <!ENTITY contextmenu_remove "Far">
 <!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru njëlbeen bi">
 <!ENTITY contextmenu_set_as_homepage "Def ko sa Xët wu Njëkk">
 <!ENTITY contextmenu_share "Séddoo">
 <!ENTITY contextmenu_pasteandgo "Taf te ubbi">
 <!ENTITY contextmenu_paste "Taf">
-<!ENTITY contextmenu_copyurl "Duppi màkkaan bi">
+<!ENTITY contextmenu_copyurl "Duppi màkkaan gi">
 <!ENTITY contextmenu_edit_bookmark "Soppi">
 <!ENTITY contextmenu_subscribe "Bindu ci xët wi">
 <!ENTITY contextmenu_site_settings "Soppi jekk-jekkali dal bi">
