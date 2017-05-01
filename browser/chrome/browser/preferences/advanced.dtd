@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label        "Utiliser le défilement doux">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
-<!ENTITY allowHWAccel.accesskey          "n">
 <!ENTITY checkUserSpelling.label         "Vérifier l’orthographe lors de la frappe">
 <!ENTITY checkUserSpelling.accesskey     "V">
 
@@ -126,3 +124,11 @@
 <!ENTITY viewCerts.accesskey             "A">
 <!ENTITY viewSecurityDevices.label       "Périphériques de sécurité">
 <!ENTITY viewSecurityDevices.accesskey   "P">
+
+<!ENTITY performance.label               "Performances">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Utiliser les paramètres de performance recommandés">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Les paramètres de performance recommandés sont adaptés à votre ordinateur.">
+<!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
+<!ENTITY allowHWAccel.accesskey          "n">
