@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပါ">
 
 <!ENTITY updateRestart.message "အမြန် ပြန်လည်စတင်ပြီးသည့်နောက်တွင် &brandShorterName; သည် ဖွင့်ထားခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။">
-<!ENTITY updateRestart.header.message "အဆင့်မြှင့်တင်ရန် &brandShorterName; ကို ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.label "ပြန်စတင်ပြီး ကြည့်ရှုထားခဲ့သည်များကို ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "အဆင့်မြှင့်တင်ရန် &brandShorterName; ကို ပြန်ဖွင့်ပါ">
+
