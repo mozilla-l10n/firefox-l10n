@@ -126,5 +126,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "б">
 
 <!ENTITY performance.label               "Прадукцыйнасць">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Выкарыстоўваць рэкамендаваныя налады прадукцыйнасці">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Рэкамендаваныя налады прадукцыйнасці з улікам канфігурацыі вашага камп'ютара.">
+<!ENTITY limitContentProcess.label       "Абмежаванне колькасці працэсаў">
 <!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">
