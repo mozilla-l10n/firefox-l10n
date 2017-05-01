@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "בדיקת עדכונים">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ב">
-<!ENTITY update.updateButton.label2               "יש להפעיל מחדש את &brandShortName; כדי לעדכן">
 <!ENTITY update.updateButton.accesskey            "מ">
 
 
