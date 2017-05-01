@@ -130,5 +130,11 @@
                                          "Utiliser les paramètres de performance recommandés">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Les paramètres de performance recommandés sont adaptés à votre ordinateur.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "Nombre maximum de processus de contenu">
+<!ENTITY limitContentProcess.description
+                                         "Davantage de processus de contenu peut rendre &brandShortName; plus réactif lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.">
+<!ENTITY limitContentProcess.accesskey   "N">
 <!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey          "n">
