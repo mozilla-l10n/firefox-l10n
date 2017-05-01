@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít plynulé posouvání">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Při psaní kontrolovat pravopis">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">
 <!ENTITY viewSecurityDevices.accesskey   "B">
+
+<!ENTITY performance.label               "Výkon">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Použít doporučené nastavení výkonu">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Doporučené nastavené výkonu je šité na míru vašemu počítači.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "u">
+<!ENTITY limitContentProcess.label       "Omezit počet procesů pro obsah na">
+<!ENTITY limitContentProcess.description
+                                         "S více procesy pro obsah může &brandShortName; při více otevřených panelech reagovat rychleji, ale zvýší se také spotřeba operační paměti.">
+<!ENTITY limitContentProcess.accesskey   "b">
+<!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey          "h">
