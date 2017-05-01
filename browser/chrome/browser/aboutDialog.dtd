@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Comprobar anovamientos">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "Reaniciar &brandShortName; p'anovar">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
