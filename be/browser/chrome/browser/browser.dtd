@@ -920,11 +920,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Атрымаць свежую копію &brandShorterName;">
 
 <!ENTITY updateRestart.message "Пасля хуткага перазапуску &brandShorterName; адновіць ўсе адкрытыя карткі і вокны.">
-<!ENTITY updateRestart.header.message2 "Перазапусціць для абнаўлення &brandShorterName;.">
+<!ENTITY updateRestart.header.message2 "Перазапуск для абнаўлення &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Перазапусціць і аднавіць">
 <!ENTITY updateRestart.acceptButton.accesskey "К">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label "Перазапусціць &brandShorterName; для абнаўлення">
 
-<!ENTITY pageActionButton.tooltip "Дзеянні на старонцы">
+<!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
