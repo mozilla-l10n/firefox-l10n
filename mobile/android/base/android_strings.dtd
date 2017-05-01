@@ -71,7 +71,7 @@
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
-<!ENTITY bookmark_already_added "คั่นหน้าอยู่แล้ว">
+<!ENTITY bookmark_already_added "มีในที่คั่นหน้าอยู่แล้ว">
 <!ENTITY bookmark_removed "เอาที่คั่นหน้าออกแล้ว">
 <!ENTITY bookmark_updated "อัปเดตที่คั่นหน้าแล้ว">
 <!ENTITY bookmark_options "ตัวเลือก">
@@ -155,7 +155,7 @@
      used in the share overlay menu to select an action. It is the verb
      "to bookmark", not the noun "a bookmark". -->
 <!ENTITY overlay_share_bookmark_btn_label "ที่คั่นหน้า">
-<!ENTITY overlay_share_bookmark_btn_label_already "คั่นหน้าอยู่แล้ว">
+<!ENTITY overlay_share_bookmark_btn_label_already "มีที่คั่นหน้าอยู่แล้ว">
 <!ENTITY overlay_share_send_other "ส่งไปยังอุปกรณ์อื่น ๆ">
 
 <!ENTITY overlay_share_open_browser_btn_label "เปิดใน &brandShortName;">
@@ -795,7 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: การสนับสนุน">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "การช่วยเหลือและสนับสนุนของ Firefox สำหรับโพรไฟล์ที่ถูกจำกัดบนแท็บเล็ต Android">
+<!ENTITY bookmarks_restricted_support2 "ความช่วยเหลือและการสนับสนุนของ Firefox สำหรับโพรไฟล์ที่ถูกจำกัดบนแท็บเล็ต Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "เรียนรู้เว็บ: Mozilla Webmaker">
 
@@ -819,7 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_first_offline_bookmark_button "ไปยังที่คั่นหน้า">
 
 <!ENTITY helper_triple_readerview_open_title "ใช้งานได้ออฟไลน์">
-<!ENTITY helper_triple_readerview_open_message "คั่นรายการมุมมองผู้อ่านเพื่ออ่านแบบออฟไลน์">
+<!ENTITY helper_triple_readerview_open_message "เพิ่มที่คั่นหน้าสำหรับรายการมุมมองผู้อ่านเพื่ออ่านแบบออฟไลน์">
 <!ENTITY helper_triple_readerview_open_button "เพิ่มไปยังที่คั่นหน้า">
 
 <!ENTITY activity_stream_topsites "ไซต์เด่น">
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
-<!ENTITY activity_stream_highlight_label_bookmarked "คั่นหน้าแล้ว">
+<!ENTITY activity_stream_highlight_label_bookmarked "มีที่คั่นหน้า">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "เยี่ยมชมแล้ว">
