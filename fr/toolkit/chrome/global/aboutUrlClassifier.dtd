@@ -18,3 +18,7 @@
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Mémoire">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Base de données">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Débogage">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Modules de journalisation pour le blocage de sites malveillants">
+<!ENTITY aboutUrlClassifier.debugModules                "Modules de journalisation actuels">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Journal JS du blocage de sites malveillants">
+<!ENTITY aboutUrlClassifier.debugFile                   "Fichier de journalisation actuel">
