@@ -6,6 +6,8 @@
 <!ENTITY aboutUrlClassifier.pageTitle                   "Πληροφορίες για το url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Πάροχος">
 <!ENTITY aboutUrlClassifier.provider                    "Πάροχος">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Χρόνος τελευταίας ενημέρωσης">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Χρόνος επόμενης ενημέρωσης">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Τελευταία ενημέρωση κατάστασης">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ενημέρωση">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Αναζήτηση">
