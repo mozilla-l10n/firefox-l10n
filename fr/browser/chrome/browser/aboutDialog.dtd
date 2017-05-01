@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Rechercher des mises à jour">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
-<!ENTITY update.updateButton.label2               "Redémarrer &brandShortName; pour appliquer la mise à jour">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
