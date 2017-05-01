@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Ierīces nosaukums">
-<!ENTITY changeSyncDeviceName1.label "Mainīt ierīces nosaukumu">
-<!ENTITY changeSyncDeviceName1.accesskey "o">
 <!ENTITY cancelChangeSyncDeviceName.label "Atcelt">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Saglabāt">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Mainīt profila attēlu">
 <!ENTITY verifiedManage.label        "Pārvaldīt kontu">
 <!ENTITY verifiedManage.accesskey    "a">
-<!ENTITY disconnect2.label           "Atvienoties">
-<!ENTITY disconnect2.accesskey       "T">
 <!ENTITY verify.label                "Apstiprināt epastu">
 <!ENTITY verify.accesskey            "p">
 <!ENTITY forget.label                "Aizmirst šo epastu">

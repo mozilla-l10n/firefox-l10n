@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Lejupielādējiet jaunu &brandShorterName; versiju">
 
 <!ENTITY updateRestart.message "Pēc ātra restarta &brandShorterName; atjaunos atvērtās cilnes un logus.">
-<!ENTITY updateRestart.header.message "Pārstartēt &brandShortName;, lai atjauninātu.">
 <!ENTITY updateRestart.acceptButton.label "Pārstartēt un atjaunot">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne tagad">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Pārstartēt &brandShortName;, lai atjauninātu">
+
