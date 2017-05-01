@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Όνομα συσκευής">
+<!ENTITY changeSyncDeviceName2.label "Αλλαγή ονόματος συσκευής…">
+<!ENTITY changeSyncDeviceName2.accesskey "λ">
 <!ENTITY cancelChangeSyncDeviceName.label "Ακύρωση">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "κ">
 <!ENTITY saveChangeSyncDeviceName.label "Αποθήκευση">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
 <!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
 <!ENTITY verifiedManage.accesskey    "η">
+<!ENTITY disconnect3.label           "Αποσύνδεση…">
+<!ENTITY disconnect3.accesskey       "Α">
 <!ENTITY verify.label                "Επαλήθευση email">
 <!ENTITY verify.accesskey            "Ε">
 <!ENTITY forget.label                "Διαγραφή email">

@@ -62,6 +62,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
   -  is displayed next to the filter button-->
+<!ENTITY performanceUI.options.filter.tooltiptext "Επιλέξτε ποια δεδομένα θα εμφανίζονται στο χρονοδιάγραμμα">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.gear.tooltiptext): This is the
   -  tooltip for the options button. -->
