@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Examinar…">
 <!ENTITY loaddevice.browse.accesskey            "E">
 
+<!ENTITY loaddevice.title2                      "Cargar el controlador de dispositivo PKCS#11">

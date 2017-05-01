@@ -902,7 +902,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Actualiza tu &brandShorterName; para lo último en velocidad y privacidad.">
-<!ENTITY updateAvailable.whatsnew.label ".Revisa que hay de nuevo">
+<!ENTITY updateAvailable.whatsnew.label "Revisa que hay de nuevo.">
 <!ENTITY updateAvailable.header.message "Una nueva actualización de &brandShorterName; está disponible.">
 <!ENTITY updateAvailable.acceptButton.label "Bajar actualización">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
