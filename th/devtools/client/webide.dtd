@@ -133,11 +133,16 @@
 
 <!-- Device Preferences -->
 <!ENTITY devicepreference_title "ค่ากำหนดของอุปกรณ์">
+<!ENTITY devicepreference_search "ค้นหาการตั้งค่า">
+<!ENTITY devicepreference_newname "ชื่อการตั้งค่าใหม่">
+<!ENTITY devicepreference_newtext "ค่าการตั้งค่า">
+<!ENTITY devicepreference_addnew "เพิ่มการตั้งค่าใหม่">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">
 <!ENTITY devicesetting_search "ตั้งค่าการค้นหา">
 <!ENTITY devicesetting_newname "ชื่อการตั้งค่าใหม่">
+<!ENTITY devicesetting_newtext "ค่าการตั้งค่า">
 <!ENTITY devicesetting_addnew "เพิ่มการตั้งค่าใหม่">
 
 <!-- Monitor -->
