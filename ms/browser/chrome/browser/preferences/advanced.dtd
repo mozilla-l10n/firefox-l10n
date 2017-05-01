@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Guna skrol lancar">
 <!ENTITY useSmoothScrolling.accesskey    "G">
-<!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Semak ejaan ketika anda menaip">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "r">
 <!ENTITY viewSecurityDevices.label       "Peranti Sekuriti">
 <!ENTITY viewSecurityDevices.accesskey   "k">
+
+<!ENTITY performance.label               "Prestasi">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Gunakan tetapan prestasi yang disyorkan">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Tetapan prestasi yang disyorkan direka mengikut komputer anda.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "G">
+<!ENTITY limitContentProcess.label       "Had proses kandungan">
+<!ENTITY limitContentProcess.description
+                                         "Proses kandungan yang lebih banyak boleh membuat &brandShortName; lebih responsif apabila menggunakan berbilang tab, tetapi turut menggunakan lebih banyak memori.">
+<!ENTITY limitContentProcess.accesskey   "H">
+<!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
+<!ENTITY allowHWAccel.accesskey          "r">
