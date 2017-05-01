@@ -48,7 +48,7 @@ can reach it easily. -->
 <!ENTITY  sendLinkToDevice.accesskey         "อ">
 <!ENTITY  moveToNewWindow.label              "ย้ายไปยังหน้าต่างใหม่">
 <!ENTITY  moveToNewWindow.accesskey          "ม">
-<!ENTITY  bookmarkAllTabs.label              "คั่นแท็บทั้งหมด…">
+<!ENTITY  bookmarkAllTabs.label              "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY  bookmarkAllTabs.accesskey          "บ">
 <!ENTITY  undoCloseTab.label                 "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY  undoCloseTab.accesskey             "ด">
@@ -87,7 +87,7 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "โหลดแท็บทั้งหมดใหม่">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ท">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "คั่นแท็บทั้งหมด…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "บ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "เรียกคืนแท็บที่เพิ่งปิด">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ด">
@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
 <!ENTITY bookmarksMenu.accesskey "น">
-<!ENTITY bookmarkThisPageCmd.label "คั่นหน้านี้">
+<!ENTITY bookmarkThisPageCmd.label "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -180,15 +180,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY feedsMenu2.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenupopup.label "บอกรับหน้านี้">
 <!ENTITY subscribeToPageMenuitem.label "บอกรับหน้านี้…">
-<!ENTITY addCurPagesCmd.label "คั่นแท็บทั้งหมด…">
+<!ENTITY addCurPagesCmd.label "เพิ่มที่คั่นหน้าสำหรับแท็บทั้งหมด…">
 <!ENTITY showAllBookmarks2.label "แสดงที่คั่นหน้าทั้งหมด">
-<!ENTITY recentBookmarks.label "ที่เพิ่งคั่น">
+<!ENTITY recentBookmarks.label "ที่คั่นหน้าที่เพิ่งเพิ่ม">
 <!ENTITY otherBookmarksCmd.label "ที่คั่นหน้าอื่น ๆ">
 <!ENTITY mobileBookmarksCmd.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY bookmarksToolbarChevron.tooltip "แสดงที่คั่นหน้าเพิ่มเติม">
-<!ENTITY showRecentlyBookmarked.label     "แสดงที่เพิ่งคั่น">
+<!ENTITY showRecentlyBookmarked.label     "แสดงที่คั่นหน้าที่เพิ่งเพิ่ม">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่เพิ่งคั่น">
+<!ENTITY hideRecentlyBookmarked.label     "ซ่อนที่คั่นหน้าที่เพิ่งเพิ่ม">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ย้อนกลับ">
@@ -520,10 +520,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "พ">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
-<!ENTITY bookmarkPageCmd2.label       "คั่นหน้านี้">
-<!ENTITY bookmarkThisLinkCmd.label      "คั่นลิงก์นี้">
+<!ENTITY bookmarkPageCmd2.label       "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
+<!ENTITY bookmarkThisLinkCmd.label      "เพิ่มที่คั่นหน้าสำหรับลิงก์นี้">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
-<!ENTITY bookmarkThisFrameCmd.label      "คั่นกรอบนี้">
+<!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
@@ -777,7 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "เปิดในหน้าต่างส่วนตัวใหม่">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "คั่นแท็บนี้…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "เพิ่มที่คั่นหน้าสำหรับแท็บนี้…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "คัดลอก">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
