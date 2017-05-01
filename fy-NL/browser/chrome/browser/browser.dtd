@@ -918,3 +918,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.cancelButton.label "No net">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+
