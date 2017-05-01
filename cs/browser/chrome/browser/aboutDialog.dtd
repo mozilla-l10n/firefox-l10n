@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Zkontrolovat aktualizace">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
-<!ENTITY update.updateButton.label2               "Restartovat aplikaci &brandShortName; a nainstalovat aktualizaci">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
