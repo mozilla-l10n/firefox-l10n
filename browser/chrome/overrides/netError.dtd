@@ -142,7 +142,7 @@
 </ul>
 ">
 
-<!ENTITY nssFailure2.title "Sambungan Selamat Gagal">
+<!ENTITY nssFailure2.title "Gagal Disambung Dengan Selamat">
 <!ENTITY nssFailure2.longDesc2 "
 <ul>
   <li>Halaman yang mahu anda lihat tidak dapat dipapar kerana autentisiti data yang diterima tidak dapat disahkan.</li>
