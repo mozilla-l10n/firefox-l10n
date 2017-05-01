@@ -19,8 +19,6 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Emër Pajisjeje">
-<!ENTITY changeSyncDeviceName1.label "Ndryshoni Emër Pajisjeje">
-<!ENTITY changeSyncDeviceName1.accesskey "N">
 <!ENTITY cancelChangeSyncDeviceName.label "Anuloje">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "A">
 <!ENTITY saveChangeSyncDeviceName.label "Ruaje">
@@ -52,8 +50,6 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Ndryshoni foto profili">
 <!ENTITY verifiedManage.label        "Administroni Llogari">
 <!ENTITY verifiedManage.accesskey    "A">
-<!ENTITY disconnect2.label           "Shkëputu">
-<!ENTITY disconnect2.accesskey       "S">
 <!ENTITY verify.label                "Verifikoni Email">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Harroje këtë Email">

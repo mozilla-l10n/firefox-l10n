@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Shkarkoni një kopje të freskët të &brandShorterName;-it">
 
 <!ENTITY updateRestart.message "Pas një rinisje të shpejtë, &brandShorterName;-i do të rikthejë krejt skedat dhe dritaret tuaja të hapura.">
-<!ENTITY updateRestart.header.message "Riniseni &brandShorterName;-in që të aplikohet përditësimi.">
 <!ENTITY updateRestart.acceptButton.label "Rinise dhe Riktheji">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Jo Tani">
 <!ENTITY updateRestart.cancelButton.accesskey "J">
 <!ENTITY updateRestart.panelUI.label "Riniseni &brandShorterName;-in që të aplikohet përditësimi">
+
