@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "ກວດສອບການອັບເດດ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "ເລີ່ມຕົ້ນໃໝ່ &brandShortName; ເພື່ອອັບເດດ">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
