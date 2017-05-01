@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "ទាញ​យក​ច្បាប់​ចម្លង &brandShorterName; ថ្មី">
 
 <!ENTITY updateRestart.message "បន្ទាប់ពី​ចាប់ផ្ដើម​ឡើងវិញ &brandShorterName; នឹង​ស្ដារ​ផ្ទាំង​កម្មវិធី​ទាំងអស់​របស់​អ្នក​ដូច​ដើម​វិញ។">
-<!ENTITY updateRestart.header.message "ចាប់ផ្ដើម &brandShorterName; ឡើងវិញ​ដើម្បី​អនុវត្ត​បច្ចុប្បន្នភាព។">
 <!ENTITY updateRestart.acceptButton.label "ចាប់ផ្ដើម និង​ស្ដារ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "កុំ​ទាន់​អាល">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "ចាប់ផ្ដើម &brandShorterName; ឡើងវិញ​ដើម្បី​អនុវត្ត​បច្ចុប្បន្នភាព">
+
