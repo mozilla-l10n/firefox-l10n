@@ -920,9 +920,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Λήψη μιας φρέσκιας έκδοσης του &brandShorterName;">
 
 <!ENTITY updateRestart.message "Μετά από μια σύντομη επανεκκίνηση, το &brandShorterName; θα επαναφέρει όλες τις ανοικτές καρτέλες και τα παράθυρά σας.">
-<!ENTITY updateRestart.header.message "Επανεκκίνηση του &brandShorterName; για εφαρμογή ενημέρωσης.">
 <!ENTITY updateRestart.acceptButton.label "Επανεκκίνηση και επαναφορά">
 <!ENTITY updateRestart.acceptButton.accesskey "Ε">
 <!ENTITY updateRestart.cancelButton.label "Όχι τώρα">
 <!ENTITY updateRestart.cancelButton.accesskey "Ο">
 <!ENTITY updateRestart.panelUI.label "Επανεκκίνηση του &brandShorterName; για εφαρμογή ενημέρωσης">
+
