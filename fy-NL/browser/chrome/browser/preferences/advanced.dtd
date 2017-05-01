@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Floeiend skowe brûke">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
-<!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkUserSpelling.label         "Kontrolearje jo stavering as jo type">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -84,6 +82,13 @@
 <!ENTITY updateTab.label                 "Fernijing">
 
 <!ENTITY updateApplication.label         "&brandShortName;-fernijingen">
+<!ENTITY updateApplication.description   "&brandShortName; mei">
+<!ENTITY updateAuto2.label               "Fernijingen automatysk ynstallearje (oanrekommandearre foar ferbettere befeiliging)">
+<!ENTITY updateAuto2.accesskey           "F">
+<!ENTITY updateCheckChoose2.label        "Kontrolearje op fernijingen, mar jo kieze litte oft jo dizze ynstallearje wolle">
+<!ENTITY updateCheckChoose2.accesskey    "K">
+<!ENTITY updateManual2.label             "Nea kontrolearje op fernijingen (net oanrekommandearre)">
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Fernijingsskiednis toane…">
 <!ENTITY updateHistory2.accesskey        "s">
@@ -91,6 +96,8 @@
 <!ENTITY useService.label                "Brûk in eftergrûntsjinst om fernijingen te ynstallearjen">
 <!ENTITY useService.accesskey            "a">
 
+<!ENTITY enableSearchUpdate2.label       "Sykmasines automatysk bywurkje">
+<!ENTITY enableSearchUpdate2.accesskey   "y">
 
 <!ENTITY reports.label                   "Rapporten">
 
@@ -106,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Bewarre gegevens fuortsmite">
 
 <!ENTITY certificateTab.label            "Sertifikaten">
+<!ENTITY certPersonal2.description       "Wannear in server om jo persoanlike sertifikaat freget">
 <!ENTITY selectCerts.auto                "Automatysk ien selektearje">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "My elke kear freegje">
@@ -116,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Feilichheidsapparaten">
 <!ENTITY viewSecurityDevices.accesskey   "p">
+
+<!ENTITY performance.label               "Prestaasjes">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Oanrekommandearre prestaasjeynstellingen brûke">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Oanrekommandearre prestaasjeynstellingen brûke dy't ôfstimd binne op jo kompjûter.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "O">
+<!ENTITY limitContentProcess.label       "Limyt fan ynhâldsprosessen">
+<!ENTITY limitContentProcess.description
+                                         "Mear ynhâldsprosessen kinne &brandShortName; flugger reagearje litte by yt gebrûk fan mear ljepblêden, mar sille ek mear ûnthâld brûke.">
+<!ENTITY limitContentProcess.accesskey   "M">
+<!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
+<!ENTITY allowHWAccel.accesskey          "B">
