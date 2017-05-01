@@ -10,7 +10,6 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Magsiyasat ng mga pagbabago">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
-<!ENTITY update.updateButton.label2               "Buksang muli ang &brandShortName; upang mailapat ang Update.">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
