@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použiť plynulý posun">
 <!ENTITY useSmoothScrolling.accesskey    "o">
-<!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Kontrolovať pravopis počas písania">
 <!ENTITY checkUserSpelling.accesskey     "K">
 
@@ -84,12 +82,24 @@
 <!ENTITY updateTab.label                 "Aktualizácie">
 
 <!ENTITY updateApplication.label         "Aktualizácie prehliadača &brandShortName;">
+<!ENTITY updateApplication.description   "Povoliť aplikácii &brandShortName;">
+<!ENTITY updateAuto2.label               "Automaticky inštalovať aktualizácie (odporúčané z dôvodu vyššej bezpečnosti)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Vyhľadávať aktualizácie, ale poskytnúť možnosť zvoliť, či sa nainštalujú">
+<!ENTITY updateCheckChoose2.accesskey    "k">
+<!ENTITY updateManual2.label             "Nevyhľadávať aktualizácie (neodporúča sa)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Zobraziť históriu aktualizácii…">
+<!ENTITY updateHistory2.accesskey        "h">
 
 <!ENTITY useService.label                "Na inštaláciu aktualizácií používať službu na pozadí">
 <!ENTITY useService.accesskey            "z">
 
+<!ENTITY enableSearchUpdate2.label       "Automaticky aktualizovať vyhľadávacie moduly">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Hlásenia">
 
 <!ENTITY offlineStorageNotify.label               "Upozorniť, ak chce stránka uložiť údaje na použitie v režime offline">
 <!ENTITY offlineStorageNotify.accesskey           "U">
@@ -103,6 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Odstránenie údajov pre režim offline">
 
 <!ENTITY certificateTab.label            "Certifikáty">
+<!ENTITY certPersonal2.description       "Pokiaľ stránka požaduje môj osobný certifikát">
 <!ENTITY selectCerts.auto                "Vybrať automaticky">
 <!ENTITY selectCerts.auto.accesskey      "m">
 <!ENTITY selectCerts.ask                 "Vždy sa opýtať">
@@ -111,5 +122,17 @@
 <!ENTITY enableOCSP.accesskey            "A">
 <!ENTITY viewCerts.label                 "Zobraziť certifikáty">
 <!ENTITY viewCerts.accesskey             "c">
-<!ENTITY viewSecurityDevices.label       "Zariadenia">
-<!ENTITY viewSecurityDevices.accesskey   "Z">
+<!ENTITY viewSecurityDevices.label       "Bezpečnostné zariadenia">
+<!ENTITY viewSecurityDevices.accesskey   "z">
+
+<!ENTITY performance.label               "Výkon">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Použiť odporúčané nastavenia výkonu">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Odporúčané nastavenia výkonu sú šité na mieru vášmu počítaču.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "u">
+<!ENTITY limitContentProcess.label       "Limit procesov obsahu">
+<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
+<!ENTITY allowHWAccel.accesskey          "h">
