@@ -30,12 +30,13 @@
   -  for editing commands in text inputs. -->
 <!ENTITY btnPageNet.accesskeyMacOSX "t">
 <!ENTITY btnPageCSS.label   "CSS">
+<!ENTITY btnPageCSS.tooltip2 "บันทึกข้อผิดพลาดและคำเตือน CSS">
 <!ENTITY btnPageCSS.accesskey "C">
 <!ENTITY btnPageJS.label    "JS">
 <!ENTITY btnPageJS.tooltip  "บันทึกข้อยกเว้น JavaScript">
 <!ENTITY btnPageJS.accesskey  "J">
 <!ENTITY btnPageSecurity.label "ความปลอดภัย">
-<!ENTITY btnPageSecurity.tooltip "Log security errors and warnings">
+<!ENTITY btnPageSecurity.tooltip "บันทึกข้อผิดพลาดและคำเตือนความปลอดภัย">
 <!ENTITY btnPageSecurity.accesskey "ล">
 
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
@@ -47,7 +48,7 @@
 <!ENTITY btnConsoleErrors       "ข้อผิดพลาด">
 <!ENTITY btnConsoleInfo         "ข้อมูล">
 <!ENTITY btnConsoleWarnings     "คำเตือน">
-<!ENTITY btnConsoleLog          "บันทึก">
+<!ENTITY btnConsoleLog          "รายการบันทึก">
 <!ENTITY btnConsoleXhr          "XHR">
 
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -57,7 +58,7 @@
 <!ENTITY btnServerErrors              "ข้อผิดพลาด">
 <!ENTITY btnServerInfo                "ข้อมูล">
 <!ENTITY btnServerWarnings            "คำเตือน">
-<!ENTITY btnServerLog                 "บันทึก">
+<!ENTITY btnServerLog                 "รายการบันทึก">
 
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
