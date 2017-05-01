@@ -18,7 +18,7 @@
 <!ENTITY icon.label           "Значок:">
 <!ENTITY icon.accesskey       "З">
 <!ENTITY color.label          "Колер:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY color.accesskey      "о">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "Гатова">
