@@ -767,6 +767,9 @@ dale ko ci Android">
 <!ENTITY restrictable_feature_clear_history_description "Sañalal sag njoboot man di far xibaar yi ñeel dal yi ñiy ubbi.">
 <!ENTITY restrictable_feature_advanced_settings "Jekk-jekkal yu Xóot">
 <!ENTITY restrictable_feature_camera_microphone "Nataalukaay &amp; Waxukaay">
+<!ENTITY restrictable_feature_camera_microphone_description "Sañal sag njaboot man di tàmbali jokkoo ci tàng-tàng ci dali web yi.">
+<!ENTITY restrictable_feature_block_list "Limu ñiñ téye">
+<!ENTITY restrictable_feature_block_list_description "Téye dali web yi am ëmbéef yu suturawu.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
