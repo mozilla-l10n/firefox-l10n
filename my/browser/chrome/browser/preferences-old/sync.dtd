@@ -60,14 +60,14 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "F">
 
 <!ENTITY signedOut.caption            "သင့်ဝဘ်ကို သင့်နဲ့အတူ ခေါ်ဆောင်သွားပါ">
-<!ENTITY signedOut.description        "သင့်ကိရိယာအားလုံးရှိ သင့်စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တပြေးညီဖြစ်စေပါ။">
+<!ENTITY signedOut.description        "သင့်ကိရိယာအားလုံးရှိ သင့်စာမှတ်များ၊ မှတ်တမ်း၊ စာမျက်နှာများ၊ စကားဝှက်များ၊ အတ်အွန်များနှင့် အပြင်အဆင်များကို တစ်ပြေးညီဖြစ်စေပါ။">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; ကို အသုံးပြုပြီး ချိတ်ဆက်ရန်">
 <!ENTITY signedOut.accountBox.create  "အကောင့် အသစ်လုပ်ပါ">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
 <!ENTITY signedOut.accountBox.signin  "၀င်ပါ">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-<!ENTITY signedIn.engines.label       "ကိရိယာအားလုံးကို တပြေးညီ ဖြစ်စေပါ">
+<!ENTITY signedIn.engines.label       "ကိရိယာအားလုံးကို တစ်ပြေးညီ ဖြစ်စေပါ">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
@@ -83,4 +83,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " သင့်မိုဘိုင်းလ်ကိရိယာများကို တပြေးညီဖြစ်စေရန်">
+<!ENTITY mobilePromo3.end              " သင့်မိုဘိုင်းလ်ကိရိယာများကို တစ်ပြေးညီဖြစ်စေရန်">
