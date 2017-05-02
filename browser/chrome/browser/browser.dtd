@@ -920,6 +920,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Stáhnout novou verzi aplikace &brandShorterName;">
 
 <!ENTITY updateRestart.message "Po rychlém restartu obnoví &brandShorterName; všechny otevřené panely a okna.">
+<!ENTITY updateRestart.header.message2 "Restartovat a aktualizovat aplikaci &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restartovat a obnovit">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teď ne">
