@@ -919,3 +919,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 
+<!ENTITY pageActionButton.tooltip "Asebter n tigawin">
