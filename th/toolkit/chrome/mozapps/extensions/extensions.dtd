@@ -185,6 +185,9 @@
 <!ENTITY addon.details.label                  "เพิ่มเติม">
 <!ENTITY addon.details.tooltip                "แสดงรายละเอียดเพิ่มเติมเกี่ยวกับส่วนเสริมนี้">
 <!ENTITY addon.unknownDate                    "ไม่ทราบ">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -247,5 +250,5 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ด้วยตนเอง">
 <!ENTITY disabledUnsigned.devInfo.end "">
 
-<!ENTITY pluginDeprecation.description "มีบางอย่างขาดหายไป? บางปลั๊กอินไม่ได้รับการสนับสนุนโดย &brandShortName; อีกต่อไป">
+<!ENTITY pluginDeprecation.description "มีบางอย่างขาดหายไป? ปลั๊กอินบางตัวไม่ได้รับการสนับสนุนโดย &brandShortName; อีกต่อไป">
 <!ENTITY pluginDeprecation.learnMore "เรียนรู้เพิ่มเติม">
