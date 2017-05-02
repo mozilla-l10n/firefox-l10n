@@ -16,8 +16,13 @@
 <!ENTITY  paneSearchResults.title       "Igmaḍ n unadi">
 <!ENTITY  paneGeneral.title             "Amatu">
 <!ENTITY  paneFilesApplications.title   "Ifuyla &amp; isnasen">
+<!ENTITY  panePrivacySecurity.title     "Tabaḍnit  &amp; Taɣellist">
 <!ENTITY  paneContainers.title          "Iccaren imagbaren">
+<!ENTITY  paneUpdates.title             "Leqqem">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Amiḍan Firefox">
 
+<!ENTITY  helpButton2.label        "&brandShortName; Tallalt">
 
+<!ENTITY  searchInput.label        "Nadi">
