@@ -11,4 +11,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Трэба быць злучаным з інтэрнэтам, каб увайсці.">
 <!ENTITY aboutAccounts.noConnection.retry "Паспрабаваць ізноў">
 <!ENTITY aboutAccounts.badConfig.title "Хібная канфігурацыя">
-<!ENTITY aboutAccounts.badConfig.description "Не выйшла вызначыць канфігурацію сервера вашага конта Firefox. Паспрабуйце паўтарыць пазней.">
+<!ENTITY aboutAccounts.badConfig.description "Не выйшла вызначыць канфігурацыю сервера вашага конта Firefox. Паспрабуйце паўтарыць пазней.">
