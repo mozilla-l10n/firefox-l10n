@@ -447,7 +447,7 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
-<!ENTITY pref_update_autodownload3 "స్వయంచాలక అప్‌డేట్‌లు">
+<!ENTITY pref_update_autodownload3 "స్వయంచాలక తాజాకరణలు">
 <!ENTITY pref_update_autodownload_wifi "వై-ఫై ద్వారా మాత్రమే">
 <!ENTITY pref_update_autodownload_never "ఎప్పటికీవద్దు">
 <!ENTITY pref_update_autodownload_always "ఎల్లప్పుడూ">
@@ -458,7 +458,7 @@
 <!ENTITY quit "నిష్క్రమించు">
 
 <!ENTITY addons "పొడగింతలు">
-<!ENTITY logins "లాగిన్ లు">
+<!ENTITY logins "ప్రవేశాలు">
 <!ENTITY downloads "దింపుకోళ్ళు">
 <!ENTITY char_encoding "అక్షర సంహితీకరణ">
 
@@ -467,7 +467,7 @@
 <!ENTITY share_image_failed "ఈ చిత్రాన్ని పంచుకోలేకున్నాం">
 <!ENTITY save_as_pdf "PDFగా భద్రపరచు">
 <!ENTITY print "ముద్రించు">
-<!ENTITY find_in_page "పేజీ లో వెతకండి">
+<!ENTITY find_in_page "పేజీలో వెతకండి">
 <!ENTITY desktop_mode "డెస్క్‌టాప్ సైటును అభ్యర్థించు">
 <!ENTITY page "పేజీ">
 <!ENTITY tools "పనిముట్లు">
@@ -517,13 +517,13 @@
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[వాడుకరి పేరు లేదు]">
 <!ENTITY doorhanger_login_edit_title "ప్రవేశాన్ని సవరించు">
-<!ENTITY doorhanger_login_edit_username_hint "వాడుకరినామము">
+<!ENTITY doorhanger_login_edit_username_hint "వాడుకరి పేరు">
 <!ENTITY doorhanger_login_edit_password_hint "సంకేతపదం">
 <!ENTITY doorhanger_login_edit_toggle "సంకేతపదాన్ని చూపించు">
-<!ENTITY doorhanger_login_select_message "&formatS; నుండి పాస్వర్డ్ను కాపీ చేయాలా?">
-<!ENTITY doorhanger_login_select_toast_copy "పాస్వర్డ్ క్లిప్బోర్డ్కు కాపీ చేయబడింది">
+<!ENTITY doorhanger_login_select_message "&formatS; నుండి సంకేతపదాన్ని కాపీ చేయాలా?">
+<!ENTITY doorhanger_login_select_toast_copy "సంకేతపదం క్లిప్‌బోర్డుకి కాపీ చేయబడింది">
 <!ENTITY doorhanger_login_select_action_text "మరో లాగిన్ ఎంచుకోండి">
-<!ENTITY doorhanger_login_select_title "నుండి పాస్వర్డ్ ను కాపీ చేయండి">
+<!ENTITY doorhanger_login_select_title "సంకేతపదాన్ని ఎక్కడ నుండి కాపీ చేయాలి">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -570,7 +570,7 @@
 <!ENTITY button_clear_data "దత్తాంశాన్ని తుడిచివేయి">
 <!ENTITY button_set "అమర్చు">
 <!ENTITY button_clear "తుడిచివేయి">
-<!ENTITY button_copy "నకలుతీయి">
+<!ENTITY button_copy "కాపీచేయి">
 
 <!ENTITY home_top_sites_title "మేటి సైట్లు">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
@@ -584,7 +584,7 @@
 <!ENTITY home_synced_devices_smartfolder "సింక్ చేసిన పరికరాలు">
 <!ENTITY home_synced_devices_number "&formatD; పరికరాలు">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
-<!ENTITY home_synced_devices_one "1పరికరం">
+<!ENTITY home_synced_devices_one "1 పరికరం">
 <!ENTITY home_history_back_to2 "చరిత్రకు తిరిగి వెళ్ళుము">
 <!ENTITY home_clear_history_button "విహరణ చరిత్రను తుడిచేయి">
 <!ENTITY home_clear_history_confirm "మీరు నిశ్చయంగా మీ చరిత్రను తుడిచేయాలని అనుకొంటున్నారా?">
@@ -698,13 +698,13 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "&brandShortName;కి నవీకరణ అందుబాటులో ఉంది">
 <!ENTITY updater_start_select2 "దింపుకోడానికి తాకండి">
 
-<!ENTITY updater_downloading_title2 "&brandShortName; డౌన్‌లోడ్ చేయుచున్నది">
+<!ENTITY updater_downloading_title2 "&brandShortName;ను దింపుకుంటూంది">
 <!ENTITY updater_downloading_title_failed2 "దింపుకోలు విఫలమైంది">
 <!ENTITY updater_downloading_select2 "దించుకున్న నవీకరణను ఆపాదించడానికి తాకండి">
 <!ENTITY updater_downloading_retry2 "మళ్ళీ ప్రయత్నించడానికి తాకండి">
 
 <!ENTITY updater_apply_title3 "&brandShortName;‌కి నవీకరణ డౌన్లోడు చేయబడింది">
-<!ENTITY updater_apply_select3 "ఇన్స్టాల్ చేయడానికి తాకండి">
+<!ENTITY updater_apply_select3 "స్థాపించడానికి తాకండి">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -737,7 +737,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "మెనూ">
-<!ENTITY actionbar_done "అయినది">
+<!ENTITY actionbar_done "పూర్తయింది">
 
 <!-- Voice search in the awesome bar -->
 <!ENTITY voicesearch_prompt "ఇప్పుడు మాట్లాడండి">
@@ -792,11 +792,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
-<!ENTITY bookmarks_about_browser "Firefox: మీ బ్రౌజర్ గురించి">
+<!ENTITY bookmarks_about_browser "Firefox: మీ విహారిణి గురించి">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
 <!ENTITY bookmarks_addons "Firefox: యాడాన్లతో అభిమతీకరించుకోండి">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
-<!ENTITY bookmarks_support "Firefox: మద్దత్తు">
+<!ENTITY bookmarks_support "Firefox: తోడ్పాటు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
 <!ENTITY bookmarks_restricted_support2 "Firefox సహాయం మరియు Android టాబ్లెట్లలో పరిమితం ప్రొఫైల్స్ మద్దతు">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
@@ -819,7 +819,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY helper_first_offline_bookmark_title "ఆఫ్లైన్లో చదువు">
 <!ENTITY helper_first_offline_bookmark_message "బుక్మార్క్లు మీ రీడర్ చూడండి అంశాలను ఆఫ్లైన్లో కనుగొనండి.">
-<!ENTITY helper_first_offline_bookmark_button "బుక్ మార్క్ లకు వెళ్ళండి">
+<!ENTITY helper_first_offline_bookmark_button "ఇష్టాంశాలకు వెళ్ళండి">
 
 <!ENTITY helper_triple_readerview_open_title "ఆఫ్‌లైన్‌లో అందుబాటులో ఉంటుంది">
 <!ENTITY helper_triple_readerview_open_message "ఆఫ్ లైన్లో చదవడానికి బుక్మార్క్ రీడర్ వ్యూ ఉపయోగించండి.">
