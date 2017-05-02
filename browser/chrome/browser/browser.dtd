@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Закрыць">
 <!ENTITY fullScreenAutohide.label "Схаваць паліцы прылад">
 <!ENTITY fullScreenAutohide.accesskey "х">
-<!ENTITY fullScreenExit.label "Выйсці з паўнаэкраннага рэжыму">
+<!ENTITY fullScreenExit.label "Выйсці з поўнаэкраннага рэжыму">
 <!ENTITY fullScreenExit.accesskey "В">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
