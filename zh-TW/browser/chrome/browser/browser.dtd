@@ -920,9 +920,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "下載全新乾淨的 &brandShorterName;">
 
 <!ENTITY updateRestart.message "重新啟動後，&brandShorterName; 將還原您所有已開啟的分頁與視窗。">
+<!ENTITY updateRestart.header.message2 "重新啟動以更新 &brandShorterName;。">
 <!ENTITY updateRestart.acceptButton.label "重新啟動並還原">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暫時不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "重新啟動 &brandShorterName; 來套用更新">
 
+<!ENTITY pageActionButton.tooltip "頁面操作">
