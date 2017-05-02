@@ -32,6 +32,7 @@
 
 <!ENTITY captivePortal.title "เข้าสู่ระบบเครือข่าย">
 
+<!ENTITY openPortalLoginPage.label2 "เปิดหน้าเข้าสู่ระบบของเครือข่าย">
 
 <!ENTITY malformedURI.title "ที่อยู่ไม่ถูกต้อง">
 <!ENTITY malformedURI.longDesc "<ul> <li>ที่อยู่เว็บมักจะเขียนเป็น <strong>http://www.example.com/</strong></li> <li>ตรวจสอบให้แน่ใจว่าคุณใช้เครื่องหมายทับไปข้างหน้า (กล่าวคือ <strong>/</strong>)</li> </ul>">
