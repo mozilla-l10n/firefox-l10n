@@ -3,12 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "Iɣewwaṛen - isefka n usmel">
-<!ENTITY     settings.description          "Ismal-agi web sutren-d ad skelsen isefka deg uḍebṣi-inek.tzemreḍ ad tferneḍ ismal ad tsirgeḍ akken ad skelsen isefka n usmel. isefka n usmel amezwer izmer  ad ttwaksen s udem awurman d wudem askudan.">
 <!ENTITY     hostCol.label                 "Asmel">
 <!ENTITY     statusCol.label               "addad">
 <!ENTITY     usageCol.label                "Aklas">
-<!ENTITY     searchPlaceHolder             "Nadi:">
-<!ENTITY     searchPlaceHolder.accesskey   "S">
+<!ENTITY     searchTextboxPlaceHolder             "Nadi ismal web">
 <!ENTITY     removeSelected.label          "Kkes tafrant">
 <!ENTITY     removeSelected.accesskey      "K">
 <!ENTITY     save.label                    "Sekles asnifel">
@@ -16,5 +14,4 @@
 <!ENTITY     cancel.label                  "Sefsex">
 <!ENTITY     cancel.accesskey              "S">
 <!ENTITY     removingDialog.title          "Tuksa n isefka n usmel">
-<!ENTITY     removingDialog.description    "Tukksa n isefka n usmel ad yekkes inagan n tuqqna. Ayagi yezmer ak-isuffeɣ seg ismal web udiq ad yekkes agbur n usmel web deg uskar n war tuqqna. Tebɣiḍ ad tekkseḍ asnifel-agi?">
 <!ENTITY     siteTree.label                "Inagan n usmel web-agi ad ttwakksen:">

@@ -19,6 +19,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
+<!ENTITY changeSyncDeviceName2.label "Snifel isem n yibenk…">
 <!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "x">
 <!ENTITY saveChangeSyncDeviceName.label "Sekles">
@@ -50,6 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Snifel tugna n umaɣnu">
 <!ENTITY verifiedManage.label        "Sefrek imiḍanen">
 <!ENTITY verifiedManage.accesskey    "m">
+<!ENTITY disconnect3.label           "Tuffγa…">
 <!ENTITY verify.label                "Senqed tansa imayl">
 <!ENTITY verify.accesskey            "e">
 <!ENTITY forget.label                "Ttu tansa-agi imayl">
@@ -63,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Kcem">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "Iγewwaṛen n umtawi">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

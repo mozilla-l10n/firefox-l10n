@@ -30,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "Afeggag n tansa">
 
+<!ENTITY  locbar.suggest2.label         "Ticki tesqedceḍ afeggag n tansa, sumer">
 <!ENTITY  locbar.history.label          "Amazray">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Ticraḍ n isebtar">
@@ -61,6 +62,7 @@
 <!ENTITY  showCookies.label             "Sken inagan n tuqqna…">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ad">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
 <!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-agi">

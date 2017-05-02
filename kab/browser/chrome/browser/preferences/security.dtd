@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Amatu">
+<!ENTITY  security.label                 "Taγellist">
 
 <!ENTITY  warnOnAddonInstall.label        "Lɣu ticki ismal ttaɛraḍen ad sbedden izegrar ">
 <!ENTITY  warnOnAddonInstall.accesskey    "L">
+
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-
 <!ENTITY  enableSafeBrowsing.label        "Sewḥel yir agbur neɣ win iweɛṛen">
 <!ENTITY  enableSafeBrowsing.accesskey    "S">
 
@@ -24,10 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "s">
 
 
-<!ENTITY  logins.label                  "Inekcumen">
 
-<!ENTITY  rememberLogins.label          "Cfu ɣef inekcumen ɣer yismal">
-<!ENTITY  rememberLogins.accesskey      "C">
 <!ENTITY  passwordExceptions.label      "Tisuraf…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 
