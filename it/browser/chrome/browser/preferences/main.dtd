@@ -14,9 +14,9 @@
 <!ENTITY useCurrentPage.accesskey "U">
 <!ENTITY useMultiple.label "Usa le pagine correnti">
 <!ENTITY chooseBookmark.label "Usa un segnalibro…">
-<!ENTITY chooseBookmark.accesskey "s">
+<!ENTITY chooseBookmark.accesskey "b">
 <!ENTITY restoreDefault.label "Ripristina la pagina predefinita">
-<!ENTITY restoreDefault.accesskey "R">
+<!ENTITY restoreDefault.accesskey "f">
 <!ENTITY downloads.label "Download">
 <!ENTITY saveTo.label "Salva i file in">
 <!ENTITY saveTo.accesskey "v">

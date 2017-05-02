@@ -10,7 +10,7 @@
 <!ENTITY blockDownloads.label "Blocca download a rischio">
 <!ENTITY blockDownloads.accesskey "c">
 <!ENTITY blockUncommonAndUnwanted.label "Avvisa in caso di software indesiderato e non scaricato abitualmente">
-<!ENTITY blockUncommonAndUnwanted.accesskey "m">
+<!ENTITY blockUncommonAndUnwanted.accesskey "w">
 <!ENTITY addonExceptions.label "Eccezioni…">
 <!ENTITY addonExceptions.accesskey "E">
 <!ENTITY formsAndPasswords.label "Moduli e password">
