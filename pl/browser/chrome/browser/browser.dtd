@@ -724,3 +724,31 @@
 
 <!ENTITY emeLearnMoreContextMenu.label "Więcej informacji o DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
+
+<!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
+<!ENTITY updateAvailable.whatsnew.label "Sprawdź co nowego.">
+<!ENTITY updateAvailable.whatsnew.href "https://www.mozilla.org/pl/">
+<!ENTITY updateAvailable.header.message "Nowa wersja programu &brandShorterName; jest dostępna.">
+<!ENTITY updateAvailable.acceptButton.label "Pobierz aktualizację">
+<!ENTITY updateAvailable.acceptButton.accesskey "P">
+<!ENTITY updateAvailable.cancelButton.label "Nie teraz">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
+
+<!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName; a my pomożemy ją zainstalować.">
+<!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
+<!ENTITY updateManual.whatsnew.href "https://www.mozilla.org/pl/">
+<!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
+<!ENTITY updateManual.acceptButton.label "Pobierz program &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "P">
+<!ENTITY updateManual.cancelButton.label "Nie teraz">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
+
+<!ENTITY updateRestart.message "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna.">
+<!ENTITY updateRestart.header.message "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
+<!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
+<!ENTITY updateRestart.acceptButton.accesskey "U">
+<!ENTITY updateRestart.cancelButton.label "Nie teraz">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
