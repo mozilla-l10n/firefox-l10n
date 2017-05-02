@@ -546,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveAudioCmd.accesskey       "г">
 <!ENTITY emailImageCmd.label          "Даслаць выяву эл.поштай…">
 <!ENTITY emailImageCmd.accesskey      "Д">
-<!ENTITY emailVideoCmd.label          "Даслаць відэа…">
+<!ENTITY emailVideoCmd.label          "Даслаць відэа эл.поштай…">
 <!ENTITY emailVideoCmd.accesskey      "д">
 <!ENTITY castVideoCmd.label           "Даслаць відэа на прыладу">
 <!ENTITY castVideoCmd.accesskey       "а">
@@ -566,7 +566,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyVideoURLCmd.accesskey    "К">
 <!ENTITY copyAudioURLCmd.label        "Капіяваць спасылку на аўдыё">
 <!ENTITY copyAudioURLCmd.accesskey    "п">
-<!ENTITY copyEmailCmd.label           "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.label           "Капіяваць адрас эл.пошты">
 <!ENTITY copyEmailCmd.accesskey       "э">
 <!ENTITY thisFrameMenu.label              "Гэтая рамка">
 <!ENTITY thisFrameMenu.accesskey          "р">

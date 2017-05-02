@@ -5,5 +5,5 @@
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "Налады">
 <!ENTITY  preferencesDefaultTitleWin.title        "Налады">
-<!ENTITY  preferencesCloseButton.label            "Зачыніць">
+<!ENTITY  preferencesCloseButton.label            "Закрыць">
 <!ENTITY  preferencesCloseButton.accesskey        "ч">

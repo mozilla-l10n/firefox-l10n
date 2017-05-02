@@ -24,7 +24,7 @@
 <!ENTITY printCmd.label "Друкаваць…">
 <!ENTITY printCmd.accesskey "Д">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "Зачыніць">
+<!ENTITY closeCmd.label "Закрыць">
 <!ENTITY closeCmd.accesskey "ч">
 <!ENTITY closeCmd.commandkey "W">
 
@@ -82,5 +82,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY copyLinkCmd.label "Капіяваць адрас спасылкі">
 <!ENTITY copyLinkCmd.accesskey "с">
-<!ENTITY copyEmailCmd.label "Капіяваць адрас э-пошты">
+<!ENTITY copyEmailCmd.label "Капіяваць адрас эл.пошты">
 <!ENTITY copyEmailCmd.accesskey "э">
