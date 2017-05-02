@@ -115,7 +115,7 @@
      We can't use android plural forms, sadly. See bug #753859. -->
 <!ENTITY num_tabs2 "&formatD; ట్యాబులు">
 <!ENTITY new_tab_opened "కొత్త ట్యాబు తెరుచుకుంది">
-<!ENTITY new_private_tab_opened "కొత్త వ్యక్తిగత టాబ్ తెరిచెను">
+<!ENTITY new_private_tab_opened "కొత్త అంతరంగిక ట్యాబు తెరుచుకుంది">
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
@@ -307,7 +307,7 @@
 <!ENTITY tab_queue_toast_action "ఇప్పుడే తెరువు">
 <!ENTITY tab_queue_prompt_title "బహుళ లింకులు తెరవడం?">
 <!ENTITY tab_queue_prompt_text4 "మీరు బహిరంగ &brandShortName; వరకు వాటిని సేవ్ చేయండి.">
-<!ENTITY tab_queue_prompt_tip_text2 "మీరు సెట్టింగ్లలో తర్వాత మార్చవచ్చు">
+<!ENTITY tab_queue_prompt_tip_text2 "మీరు దీన్ని తర్వాత అమరికలలో మార్చుకోవచ్చు">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
 <!ENTITY tab_queue_prompt_permit_drawing_over_apps "ఇతర ఆప్స్ పై గీయడం పై అనుమతించండి">
@@ -315,7 +315,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "ఇప్పుడు కాదు">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_settings_button "సెట్టింగ్‌లకు వెళ్లు">
+<!ENTITY tab_queue_prompt_settings_button "అమరికలకు వెళ్లు">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -381,7 +381,7 @@
 
 <!ENTITY pref_use_master_password "ప్రధాన సంకేతపదాన్ని వాడు">
 <!ENTITY pref_sync2 "సైన్ ఇన్">
-<!ENTITY pref_sync_summary2 "మీ టాబ్లు, బుక్మార్క్లు, లాగిన్, చరిత్ర సమకాలీకరించండి">
+<!ENTITY pref_sync_summary2 "మీ ట్యాబులు, ఇష్టాంశాలు, ప్రవేశాలు, చరిత్రలను సింక్రనించుకోండి">
 <!ENTITY pref_search_suggestions "వెతుకుడు సలహాలను చూపించు">
 <!ENTITY pref_history_search_suggestions "శోధన చరిత్రను చూపించండి">
 <!ENTITY pref_import_options "ఎంపికలను దిగుమతి చెయ్యి">
@@ -393,7 +393,7 @@
 <!ENTITY pref_private_data_searchHistory "వెతుకుడు చరిత్ర">
 <!ENTITY pref_private_data_formdata2 "ఫారం చరిత్ర">
 <!ENTITY pref_private_data_cookies2 "కుకీలు &amp; క్రియాశీల ప్రవేశాలు">
-<!ENTITY pref_private_data_passwords2 "సేవ్ చేయబడిన లాగిన్ లు">
+<!ENTITY pref_private_data_passwords2 "భద్రపరచిన ప్రవేశాలు">
 <!ENTITY pref_private_data_cache "క్యాషె">
 <!ENTITY pref_private_data_offlineApps "ఆఫ్‌లైన్ వెబ్‌సైటు డేటా">
 <!ENTITY pref_private_data_siteSettings2 "సైటు అమరికలు">
@@ -438,7 +438,7 @@
 <!ENTITY datareporting_abouthr_title "ఆరోగ్య నివేదికను చూడండి">
 <!ENTITY datareporting_telemetry_title "టెలీమెట్రీ">
 <!ENTITY datareporting_telemetry_summary "&brandShortName;ను మరింత మెరుగుపరచంలో మాకు సహాయపడే మీ విహారిణి పనితనం, వాడుక, హార్డువేరు మరియు మీరు మలచుకున్న తీరు గురించిన దత్తాంశాన్ని &vendorShortName;తో పంచుకుంటుంది">
-<!ENTITY datareporting_crashreporter_summary "మీ బ్రౌజర్ మరింత స్థిరంగా మరియు సురక్షితంగా చేయుటకు &brandShortName; క్రాష్ నివేదికలను &vendorShortName; కు అప్పగించును.">
+<!ENTITY datareporting_crashreporter_summary "మీ విహారిణిని మరింత స్థిరంగా సురక్షితంగా తయారుచెయ్యడానికి &brandShortName; క్రాష్ నివేదికలను &vendorShortName;‌కి పంపిస్తుంది">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "క్రాష్ రిపోర్టర్">
