@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutSupport.pageTitle "Talɣut n usellek">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Asebter-agi igber talɣut tatiknikant ig zemren attwulem ticki tettaɛraḍeḍ ad tefruḍ ugur. Ma yella tettnadiḍ tiririt ɣef isteqsiyen n &brandShortName;,senqed <a id='supportLink'> asmel nneɣ Web</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Ineqqisen n uɣelluy">
@@ -21,6 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Lqem">
 <!ENTITY aboutSupport.extensionId "Asulay">
 
+<!ENTITY aboutSupport.featureName "Isem">
+<!ENTITY aboutSupport.featureVersion "Lqem">
+
 <!ENTITY aboutSupport.experimentsTitle "Timahihilin tirmitanin">
 <!ENTITY aboutSupport.experimentName "Isem">
 <!ENTITY aboutSupport.experimentId "Asulay">
@@ -34,9 +37,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsName "Isem">
 <!ENTITY aboutSupport.appBasicsVersion "Lqem">
 <!ENTITY aboutSupport.appBasicsBuildID "Asulay n usefsu">
+
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
-
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Abadu n uleqqem">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Amazray n ileqman">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Sken amazray n ileqman">
@@ -53,8 +56,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsOS "NGR.MMD">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Aseqdec n tkatut">
 <!ENTITY aboutSupport.appBasicsPerformance "Tamellit">
-<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 
+<!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "Tanfa Workers iţwaklesen">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Imeɣna">
@@ -78,8 +81,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Ismenyifen ixataren ittusniflen">
 <!ENTITY aboutSupport.modifiedPrefsName "Isem">
 <!ENTITY aboutSupport.modifiedPrefsValue "Azal">
-<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 
+<!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Ismenyifen n user.js">
 <!ENTITY aboutSupport.userJSDescription "Akaram-inek n umaɣni ɣuṛ-s<a id='prefs-user-js-link'> afaylu user.js</a> igebren imenyifen ur yerni ara &brandShortName;.">
 

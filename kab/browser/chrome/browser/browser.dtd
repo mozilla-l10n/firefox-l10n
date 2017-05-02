@@ -900,6 +900,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.whatsnew.label "Wali amaynut.">
+<!ENTITY updateAvailable.header.message "Illa lqem amaynut &brandShorterName;">
 <!ENTITY updateAvailable.acceptButton.label "Sider lqem">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Mačči tura">
@@ -907,6 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
 
 <!ENTITY updateManual.whatsnew.label "Wali amaynut.">
+<!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem γer lqem aneggaru.">
 <!ENTITY updateManual.acceptButton.label "Sider &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Mačči tura">
