@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Nota fíngerða skrunun">
 <!ENTITY useSmoothScrolling.accesskey    "f">
-<!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
-<!ENTITY allowHWAccel.accesskey          "b">
 <!ENTITY checkUserSpelling.label         "Athuga stafsetningu um leið og texti er sleginn inn">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Öryggistæki">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
+<!ENTITY allowHWAccel.accesskey          "b">
