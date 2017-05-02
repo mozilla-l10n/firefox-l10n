@@ -26,5 +26,5 @@
 <!ENTITY tabCrashed.emailPlaceholder "तपाईँको इमेल ठेगाना यहाँ लेख्नुहोस्">
 <!ENTITY tabCrashed.emailMe "धेरै जानकारीहरू उपलब्ध भए पछि मलाई इमेल गर्नुहोस्">
 <!ENTITY tabCrashed.reportSent "क्र्यासको जानकारी पठाई सकियो; &brandShortName; राम्रो बनाउन गर्नुभएको मद्दतको लागि धन्यवाद!">
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "पृष्ठभूमि ट्याबहरूको बारेमा उजुर गर्नुहोस्">
 
