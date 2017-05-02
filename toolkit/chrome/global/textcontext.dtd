@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY cutCmd.label "ตัด">
-<!ENTITY cutCmd.accesskey "t">
+<!ENTITY cutCmd.accesskey "ต">
 <!ENTITY copyCmd.label "คัดลอก">
 <!ENTITY copyCmd.accesskey "ค">
 <!ENTITY pasteCmd.label "วาง">
