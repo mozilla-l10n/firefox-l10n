@@ -23,7 +23,7 @@
 <!ENTITY tabCrashed.sendReport2 "Даслаць справаздачу пра крах для дзейнай карткі">
 <!ENTITY tabCrashed.commentPlaceholder2 "Неабавязковы каментар (каментары агульнадаступныя)">
 <!ENTITY tabCrashed.includeURL2 "Таксама дадаць URL старонкі">
-<!ENTITY tabCrashed.emailPlaceholder "Увядзіце ваш адрас электроннай пошты">
+<!ENTITY tabCrashed.emailPlaceholder "Увядзіце тут ваш адрас эл.пошты">
 <!ENTITY tabCrashed.emailMe "Даслаць мне ліст, калі будзе больш інфармацыі">
 <!ENTITY tabCrashed.reportSent "Справаздача пра крах ўжо даслана; дзякуй, што дапамагаеце зрабіць &brandShortName; лепей!">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Даслаць справаздачу пра фонавыя карткі">
