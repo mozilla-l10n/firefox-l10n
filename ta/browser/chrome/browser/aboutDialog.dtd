@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "புதுப்பித்தல்களுக்கு சரிபார்க்கவும்">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ப">
-<!ENTITY update.updateButton.label2               "புதுப்பிக்க &brandShortName; உலாவியை மீள்துவக்கவும்">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
