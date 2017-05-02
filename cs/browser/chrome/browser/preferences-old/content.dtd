@@ -55,6 +55,6 @@
 
 <!ENTITY  drmContent.label             "DRM obsah">
 
-<!ENTITY  playDRMContent.label         "Přehrát DRM obsah">
+<!ENTITY  playDRMContent.label         "Přehrávat DRM obsah">
 <!ENTITY  playDRMContent.accesskey     "p">
 <!ENTITY  playDRMContent.learnMore.label "Zjistit více">
