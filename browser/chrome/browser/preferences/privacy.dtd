@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Vörn gegn því að fylgst sé með þér">
-
-
+<!ENTITY  trackingProtection.description       "Fylgjast með er þegar fyrirtæki safna saman upplýsingum um þig til að búa til notandaprófil og birta innihald sem er byggt á þinni vafra sögu og persónulegum gögnum.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Loka á birtingu á gögnum frá þekktum fyrirtækjum sem fylgjast með þér">
 <!ENTITY  trackingProtectionAlways.label       "Alltaf">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Aðeins í huliðsgluggum">
