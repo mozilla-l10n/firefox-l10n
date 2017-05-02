@@ -133,5 +133,8 @@
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "u">
 <!ENTITY limitContentProcess.label       "Limite do processo de conteúdo">
+<!ENTITY limitContentProcess.description
+                                         "Mais conteúdo processado podem fazer &brandShortName; mais ágil quando usando várias abas, mas também consomem mais memória.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "r">
