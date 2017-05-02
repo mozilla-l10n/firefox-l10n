@@ -195,7 +195,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backButton.tooltip           "Папярэдняя старонка">
 <!ENTITY forwardCmd.label             "Наперад">
 <!ENTITY forwardButton.tooltip        "Наступная старонка">
-<!ENTITY backForwardButtonMenu.tooltip "Правы пстрык або поцяг уніз, каб паказаць гісторыю">
+<!ENTITY backForwardButtonMenu.tooltip "Правы клік або пацягнуць уніз, каб паказаць гісторыю">
 <!ENTITY backForwardButtonMenuMac.tooltip "Пацягнуць уніз, каб паказаць гісторыю">
 <!ENTITY reloadCmd.label              "Абнавіць">
 <!ENTITY stopCmd.label                "Спыніць">
