@@ -13,7 +13,9 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "Igmaḍ n unadi">
 <!ENTITY  paneGeneral.title             "Amatu">
+<!ENTITY  paneFilesApplications.title   "Ifuyla &amp; isnasen">
 <!ENTITY  paneContainers.title          "Iccaren imagbaren">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->

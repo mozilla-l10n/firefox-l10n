@@ -4,14 +4,12 @@
 
 <!ENTITY startup.label             "Asenker">
 
-<!ENTITY startupPage.label         "Di tnekra n &brandShortName;:">
-<!ENTITY startupPage.accesskey     "D">
+<!ENTITY startupPage2.label        "Di tnekra n &brandShortName;">
 <!ENTITY startupUserHomePage.label "Sken asebter-iw agejdan ">
 <!ENTITY startupBlankPage.label    "Sken asebter ilem">
 <!ENTITY startupPrevSession.label  "Sken iccaren ineggura akked isfuyla yettusqedcen ">
 
-<!ENTITY homepage.label            "Asebter agejdan:">
-<!ENTITY homepage.accesskey        "A">
+<!ENTITY homepage2.label           "Asebter agejdan">
 <!ENTITY useCurrentPage.label      "Asebter amiran">
 <!ENTITY useCurrentPage.accesskey  "s">
 <!ENTITY useMultiple.label         "Isebtar imiranen">
@@ -40,6 +38,7 @@
 
 <!ENTITY separateProfileMode.label        "Sireg &brandShortName; ed Firefox ad selkmen s wudem anmaway">
 <!ENTITY useFirefoxSync.label             "Taxbalut: Imaɣnuten yemgaraden ttusqedcen. Tzemreḍ ad tfaṛseḍ seg Sync i beṭṭu n isefka-inek gar-asen.">
-<!ENTITY getStarted.label                 "Seqdec Sync…">
+<!ENTITY getStarted.notloggedin.label     "Qqen ɣer &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Ldi ismenyifen n &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Rmed agetakala n &brandShortName;">
