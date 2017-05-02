@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "తాజాకరణలకై చూడు">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.updateButton.label3               "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి">
 <!ENTITY update.updateButton.accesskey            "R">
 
 
