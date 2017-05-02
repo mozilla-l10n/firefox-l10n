@@ -25,7 +25,7 @@
      the hovering case for an item or an action button.
      Bug 1328519 is for discussing the detail rule of `downloadDetails.width`.
      -->
-<!ENTITY downloadDetails.width            "50 ch">
+<!ENTITY downloadDetails.width            "50ch">
 
 <!-- LOCALIZATION NOTE (downloadsSummary.minWidth2):
      Minimum width for the main description of the downloads summary,
@@ -40,7 +40,7 @@
 
      that's 21 characters, so we set the minimum width to 21ch.
      -->
-<!ENTITY downloadsSummary.minWidth2       "21 ch">
+<!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "ຢຸດ">
 <!ENTITY cmd.pause.accesskey              "P">
@@ -88,6 +88,26 @@
      file or remove the download. Opening is the default option.
      -->
 <!ENTITY cmd.chooseOpen.label             "ເປີດໄຟລ ຫລື ລົບໄຟລ">
+
+<!-- LOCALIZATION NOTE (showMoreInformation.label):
+     Displayed when hovering a blocked download, indicates that it's possible to
+     show more information for user to take the next action.
+     -->
+
+<!-- LOCALIZATION NOTE (openFile.label):
+     Displayed when hovering a complete download, indicates that it's possible to
+     open the file using an app available in the system.
+     -->
+
+<!-- LOCALIZATION NOTE (retryDownload.label):
+     Displayed when hovering a download which is able to be retried by users,
+     indicates that it's possible to download this file again.
+     -->
+
+<!-- LOCALIZATION NOTE (cancelDownload.label):
+     Displayed when hovering a download which is able to be cancelled by users,
+     indicates that it's possible to cancel and stop the download.
+     -->
 
 <!-- LOCALIZATION NOTE (blocked.label):
      Shown as a tag before the file name for some types of blocked downloads.
