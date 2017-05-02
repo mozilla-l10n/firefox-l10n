@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "மென்மையான உருளலை பயன்படுத்து">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -121,3 +119,12 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
+<!ENTITY allowHWAccel.accesskey          "r">
