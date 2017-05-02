@@ -133,5 +133,8 @@
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY limitContentProcess.label       "Satura procesu limits">
+<!ENTITY limitContentProcess.description
+                                         "Vairāk satura procesu nepadarīs &brandShortName; ātrāku izmantojot vairāk cilnes, taču tiks patērēts nevajadzīgi liels daudzums atmiņas.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
 <!ENTITY allowHWAccel.accesskey          "j">
