@@ -69,11 +69,11 @@
 <!ENTITY privateBrowsingPermanent2.label "Utilizza sempre la modalità Navigazione anonima">
 <!ENTITY privateBrowsingPermanent2.accesskey "U">
 <!ENTITY rememberHistory2.label "Conserva la cronologia di navigazione e dei download">
-<!ENTITY rememberHistory2.accesskey "C">
+<!ENTITY rememberHistory2.accesskey "d">
 <!ENTITY rememberSearchForm.label "Conserva la cronologia delle ricerche e dei moduli">
 <!ENTITY rememberSearchForm.accesskey "g">
 <!ENTITY clearOnClose.label "Cancella la cronologia alla chiusura di &brandShortName;">
-<!ENTITY clearOnClose.accesskey "s">
+<!ENTITY clearOnClose.accesskey "C">
 <!ENTITY clearOnCloseSettings.label "Impostazioni…">
 <!ENTITY clearOnCloseSettings.accesskey "I">
 <!ENTITY browserContainersHeader.label "Schede contenitore">

@@ -41,7 +41,7 @@
 <!ENTITY offlineStorage2.label "Dati non in linea e informazioni utente">
 <!ENTITY siteData.label "Dati dei siti web">
 <!ENTITY clearSiteData.label "Elimina tutti i dati">
-<!ENTITY clearSiteData.accesskey "m">
+<!ENTITY clearSiteData.accesskey "i">
 <!ENTITY siteDataSettings.label "Impostazioni…">
 <!ENTITY siteDataSettings.accesskey "o">
 <!ENTITY siteDataLearnMoreLink.label "Ulteriori informazioni">
@@ -84,9 +84,9 @@
 <!ENTITY selectCerts.auto "Selezionane uno automaticamente">
 <!ENTITY selectCerts.auto.accesskey "S">
 <!ENTITY selectCerts.ask "Chiedi ogni volta">
-<!ENTITY selectCerts.ask.accesskey "C">
+<!ENTITY selectCerts.ask.accesskey "h">
 <!ENTITY enableOCSP.label "Interroga risponditori OCSP per confermare la validità attuale dei certificati">
-<!ENTITY enableOCSP.accesskey "O">
+<!ENTITY enableOCSP.accesskey "P">
 <!ENTITY viewCerts.label "Mostra certificati">
 <!ENTITY viewCerts.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
@@ -94,9 +94,9 @@
 <!ENTITY performance.label "Prestazioni">
 <!ENTITY useRecommendedPerformanceSettings.label "Utilizza le impostazioni predefinite">
 <!ENTITY useRecommendedPerformanceSettings.description "Le impostazioni consigliate sono determinate in base alle caratteristiche di questo computer.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "m">
 <!ENTITY limitContentProcess.label "Numero massimo di processi per i contenuti">
 <!ENTITY limitContentProcess.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
-<!ENTITY limitContentProcess.accesskey "L">
+<!ENTITY limitContentProcess.accesskey "o">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
