@@ -927,3 +927,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label "Restartovat aplikaci &brandShorterName; a nainstalovat aktualizaci">
 
+<!ENTITY pageActionButton.tooltip "Akce stránky">
