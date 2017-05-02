@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "使用平滑捲動">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "打字時即時檢查拼字">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,17 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "安全裝置">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+<!ENTITY performance.label               "效能">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "使用建議的效能設定">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "專屬於您的電腦的建議效能設定。">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "內容程序限制">
+<!ENTITY limitContentProcess.description
+                                         "調高內容處理程序的上限，可讓 &brandShortName; 開啟多個分頁時的反應速度更快，但也會消耗更多記憶體。">
+<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
+<!ENTITY allowHWAccel.accesskey          "r">
