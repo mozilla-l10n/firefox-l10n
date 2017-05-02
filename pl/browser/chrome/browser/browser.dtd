@@ -735,7 +735,7 @@
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Pobierz aktualizację programu &brandShorterName;">
 
-<!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName; a my pomożemy ją zainstalować.">
+<!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
 <!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
 <!ENTITY updateManual.whatsnew.href "https://www.mozilla.org/pl/">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
