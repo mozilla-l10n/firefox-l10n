@@ -499,9 +499,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "ดูต้นฉบับหน้า">
-<!ENTITY viewPageSourceCmd.accesskey  "V">
+<!ENTITY viewPageSourceCmd.accesskey  "ต">
 <!ENTITY viewFrameSourceCmd.label     "ดูต้นฉบับกรอบ">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "ด">
 <!ENTITY viewPageInfoCmd.label        "ดูข้อมูลหน้า">
 <!ENTITY viewPageInfoCmd.accesskey    "ข">
 <!ENTITY viewFrameInfoCmd.label       "ดูข้อมูลกรอบ">
@@ -517,7 +517,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.label           "ดูวิดีโอ">
 <!ENTITY viewVideoCmd.accesskey       "ด">
 <!ENTITY viewBGImageCmd.label         "ดูภาพพื้นหลัง">
-<!ENTITY viewBGImageCmd.accesskey     "พ">
+<!ENTITY viewBGImageCmd.accesskey     "ภ">
 <!ENTITY setDesktopBackgroundCmd.label      "ตั้งเป็นพื้นหลังเดสก์ท็อป…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "ต">
 <!ENTITY bookmarkPageCmd2.label       "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
@@ -530,7 +530,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
 <!ENTITY savePageCmd.accesskey        "น">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "P">
+<!ENTITY savePageCmd.accesskey2       "ห">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "บันทึกกรอบเป็น…">
 <!ENTITY saveFrameCmd.accesskey       "ก">
@@ -541,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveImageCmd.label           "บันทึกภาพเป็น…">
 <!ENTITY saveImageCmd.accesskey       "บ">
 <!ENTITY saveVideoCmd.label           "บันทึกวิดีโอเป็น…">
-<!ENTITY saveVideoCmd.accesskey       "บ">
+<!ENTITY saveVideoCmd.accesskey       "น">
 <!ENTITY saveAudioCmd.label           "บันทึกเสียงเป็น…">
 <!ENTITY saveAudioCmd.accesskey       "บ">
 <!ENTITY emailImageCmd.label          "ส่งอีเมลภาพ…">
