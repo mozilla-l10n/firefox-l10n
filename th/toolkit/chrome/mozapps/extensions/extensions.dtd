@@ -90,7 +90,7 @@
 <!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
 <!ENTITY cmd.enableAddon.accesskey            "E">
 <!ENTITY cmd.disableAddon.label               "ปิดใช้งาน">
-<!ENTITY cmd.disableAddon.accesskey           "D">
+<!ENTITY cmd.disableAddon.accesskey           "ด">
 <!ENTITY cmd.enableTheme.label                "ใช้ชุดตกแต่ง">
 <!ENTITY cmd.enableTheme.accesskey            "W">
 <!ENTITY cmd.disableTheme.label               "เลิกใช้ชุดตกแต่ง">

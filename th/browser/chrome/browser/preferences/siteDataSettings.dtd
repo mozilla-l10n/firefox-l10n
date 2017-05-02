@@ -8,6 +8,7 @@
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
 <!ENTITY     searchTextboxPlaceHolder             "ค้นหาเว็บไซต์">
 <!ENTITY     removeSelected.label          "เอาที่เลือกออก">
+<!ENTITY     removeSelected.accesskey      "อ">
 <!ENTITY     save.label                    "บันทึกการเปลี่ยนแปลง">
 <!ENTITY     cancel.label                  "ยกเลิก">
 <!ENTITY     removingDialog.title          "เอาข้อมูลไซต์ออก">

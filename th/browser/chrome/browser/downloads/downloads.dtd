@@ -61,8 +61,8 @@
 <!ENTITY cmd.goToDownloadPage.accesskey   "ป">
 <!ENTITY cmd.copyDownloadLink.label       "คัดลอกลิงก์ดาวน์โหลด">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ค">
-<!ENTITY cmd.removeFromHistory.label      "ลบจากรายการ">
-<!ENTITY cmd.removeFromHistory.accesskey  "ล">
+<!ENTITY cmd.removeFromHistory.label      "เอาออกจากประวัติ">
+<!ENTITY cmd.removeFromHistory.accesskey  "อ">
 <!ENTITY cmd.clearList2.label             "ล้างแผงแสดงตัวอย่าง">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "ล้างการดาวน์โหลด">
