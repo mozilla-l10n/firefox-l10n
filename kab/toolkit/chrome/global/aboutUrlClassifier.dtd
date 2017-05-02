@@ -4,3 +4,7 @@
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Takatut">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
+<!ENTITY aboutUrlClassifier.debugFile                   "Afaylu aɣmis amiran">
