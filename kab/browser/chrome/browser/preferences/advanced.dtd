@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Seqdec adrurem aleggwaɣ">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
-<!ENTITY allowHWAccel.accesskey          "q">
 <!ENTITY checkUserSpelling.label         "Senqed taɣdira yinu mi ara ttaruɣ ">
 <!ENTITY checkUserSpelling.accesskey     "q">
 
@@ -85,6 +83,7 @@
 
 <!ENTITY updateApplication.label         "Ileqman n. &brandShortName;">
 <!ENTITY updateApplication.description   "Sireg &brandShortName; akken ad">
+<!ENTITY updateAuto2.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
 <!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman macac ad k-yeǧǧ ad ferneḍ asebded">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)">
@@ -119,3 +118,6 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Taɣellist n ibenkan">
 <!ENTITY viewSecurityDevices.accesskey   "T">
+
+<!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
+<!ENTITY allowHWAccel.accesskey          "q">
