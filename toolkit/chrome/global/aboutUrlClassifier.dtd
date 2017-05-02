@@ -7,23 +7,23 @@
 <!ENTITY aboutUrlClassifier.providerTitle               "Þjónustuaðili">
 <!ENTITY aboutUrlClassifier.provider                    "Þjónustuaðili">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Seinast uppfært">
-
-
-
-
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næsti uppfærslutími">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seinasta uppfærslustaða">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Uppfæra">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Uppfletting">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Passar við">
-
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Athuga niðurstöðu í samsvörun">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Uppfletting">
-
-
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Athuga niðurstöðu í uppflettingu">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Skyndiminni">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Minni">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Gagnagrunnur">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Kemba">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Setja einingar fyrir skráningu">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Setja skráningarskrá">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Setja JS skráningu">
-
-
-
-
+<!ENTITY aboutUrlClassifier.debugSBModules              "Skráningareiningar fyrir örugga vöfrun">
+<!ENTITY aboutUrlClassifier.debugModules                "Núverandi skráningareiningar">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS skráning fyrir örugga vöfrun">
+<!ENTITY aboutUrlClassifier.debugFile                   "Núverandi skráningarskrá">
