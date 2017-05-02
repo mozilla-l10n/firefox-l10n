@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "పరికరం పేరు">
+<!ENTITY changeSyncDeviceName2.label "పరికరం పేరు మార్చు…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "రద్దుచేయి">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "భద్రపరచు">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ప్రొఫైల్ చిత్రం మార్చు">
 <!ENTITY verifiedManage.label        "ఖాతా నిర్వహణ">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "అనుసంధానం తెంచు…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ఈమెయిలు నిర్థారించు">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ఈ ఈమెయిలును మర్చిపో">

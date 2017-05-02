@@ -913,7 +913,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 
+<!ENTITY updateRestart.header.message2 "&brandShorterName;‌ను తాజాకరించడానికి పునఃప్రారంభించండి.">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 
+<!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
