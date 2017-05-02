@@ -25,7 +25,7 @@
 <!ENTITY aboutPrivateBrowsing.note.after                 "इन्टरनेटमा। तपाईँको कम्पनी वा इन्टरनेट सेवा प्रदानकर्ताले तपाईँले प्रयोग गर्नु भएको पेजको विवरण पाउन सक्छन्। ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "बारेमा थप जान्नुहोस">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "निजी ब्राउजिङ">
-
+<!ENTITY aboutPrivateBrowsing.learnMore3.after           "।">
 
 <!ENTITY trackingProtection.title                        "ट्रयाक विरुद्धको सुरक्षा">
 <!ENTITY trackingProtection.description2                 "केही वेबसाइटहरूले ट्र्याकरको प्रयोग गर्छन जसले तपाईँको इन्टरनेटको गतिविधिहरूमा नजर राख्न सक्छन। Firefox को ट्रयाकिङ सुरक्षाबाट धेरै ट्रयाकरहरू जसले तपाईँको ब्राउजिङ्ग व्यवहार बारे जानकारी राख्न सक्छन त्यसलाई ब्लक गर्छ।">

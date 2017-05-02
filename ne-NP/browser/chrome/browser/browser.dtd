@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "गोप्यशब्द सङ्ग्रह सन्देश प्यानल खोल्नुहोस्">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्रयोगमा रहेका प्लगइनहरू व्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "तपाईँ साइटबाट सूचनाहरू प्राप्त गर्न सक्नुहुन्छ कि सक्नुहुन्न छान्नुहोस्">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "डेटालाई पर्सिस्टेन्ट स्टोरेजमा राख्नुहोस्">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "यो साइटको तपाईँको क्यामेरा र/अथवा माइक्रो फोन प्रयोग अधिकार ब्यवस्थापन गर्नुहोस्">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "यो साइटले माइक्रोफोन कसरी प्रयोग गर्छ भन्ने ब्यस्थापन गर्नुहोस्">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "तपाईँले यो वेबसाइटको लागि स्थान जानकारी अवरुद्ध गर्नु भएको छ । ">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "तपाईँले यो वेबसाइटको लागि सूचनाहरू अवरुद्ध गर्नु भएको छ । ">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "तपाईँले यो वेबसाइटको लागि डाटा भण्डारण अवरुद्ध गर्नु भएको छ। ">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउनुहोस्">
 
@@ -375,7 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync प्राथमिकताहरू">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "तपाईँको अन्य यन्त्रहरूबाट ट्याबहरूको सूची हेर्न साइन-इन गर्नुहोस्।">
 <!ENTITY appMenuRemoteTabs.signin.label "सिङ्क गर्न साइन इन गर्नुहोस्">
-
+<!ENTITY appMenuRemoteTabs.managedevices.label "यन्त्रहरू प्रबन्धन गर्नुहोस्...">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Sync गरिएका ट्याब साइडबारहरू हेर्नुहोस्">
 
 <!ENTITY customizeMenu.addToToolbar.label "टुलबारमा थप्नुहोस्">
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "सबैलाई ट्याबहरूमा खोल्नुहोस्">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-
-
+<!ENTITY syncedTabs.context.managedevices.label              "यन्त्रहरू प्रबन्धन गर्नुहोस्...">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -906,21 +906,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateAvailable.cancelButton.label "अहिले होइन">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 
 
 
 
 
 
+<!ENTITY updateManual.cancelButton.label "अहिले होइन">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
 
 
 
 
-
-
-
-
-
+<!ENTITY updateRestart.cancelButton.label "अहिले होइन">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
