@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "ລຶບບຸກມາກອອກແລ້ວ">
 <!ENTITY bookmark_updated "ອັບເດດບຸກມາກແລ້ວ">
 <!ENTITY bookmark_options "ການຕັ້ງຄ່າ">
+<!ENTITY bookmark_save "ບັນທຶກ">
 <!ENTITY screenshot_added_to_bookmarks "ເພີ່ມພາບຫນ້າຈໍເຂົ້າໄປໄວ້ໃນບຸກມາກແລ້ວ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ລາຍການ">
 <!ENTITY bookmark_folder_one_item "1 ລາຍການ">
+<!ENTITY bookmark_parent_folder "ໂຟ​ລ​ເດີ​ຫລັກ">
 
 <!ENTITY reader_saved_offline "ບັກທຶກເປັນອັອບລາຍໄວ້ແລ້ວ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
