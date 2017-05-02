@@ -132,7 +132,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "แสดงการดาวน์โหลดทั้งหมด">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.accesskey       "ส">
 
 <!ENTITY openDownloadsFolder.label       "เปิดโฟลเดอร์ดาวน์โหลด">
 
