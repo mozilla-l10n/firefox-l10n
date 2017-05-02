@@ -129,7 +129,7 @@
 <!ENTITY corruptedContentErrorv2.longDesc "<p>మీరు దర్శించుటకు ప్రయత్నిస్తున్న పేజీ చూపబడలేదు యెంచేతంటే దాని యందు దత్తాంశ బదలాయింపులో దోషం గుర్తించబడెను.</p><ul><li>దయచేసి వెబ్‌సైట్ యజమానులను సంప్రదించి వారికి యీ సమస్య గురించి తెలుపండి.</li></ul>">
 
 <!ENTITY securityOverride.linkText "లేదా మీరు ఒక ఆక్షేపణను జతచేయగలరు…">
-<!ENTITY securityOverride.getMeOutOfHereButton "నన్ను ఇక్కడినుండి బయటపెట్టు!">
+<!ENTITY securityOverride.getMeOutOfHereButton "ఇక్కడినుండి నన్ను బయటపడెయ్యి!">
 <!ENTITY securityOverride.exceptionButtonLabel "మినహాయింపుని చేర్చు…">
 
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
