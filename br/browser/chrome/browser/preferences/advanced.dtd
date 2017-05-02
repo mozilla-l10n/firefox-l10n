@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "O">
 <!ENTITY useSmoothScrolling.label        "Arverañ an dibunañ flour">
 <!ENTITY useSmoothScrolling.accesskey    "r">
-<!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Gwiriañ ar reizhskrivañ pa skrivan">
 <!ENTITY checkUserSpelling.accesskey     "G">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewSecurityDevices.label       "Trobarzhelloù diogelroez">
 <!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
+<!ENTITY allowHWAccel.accesskey          "h">
