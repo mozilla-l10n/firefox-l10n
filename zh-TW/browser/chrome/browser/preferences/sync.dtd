@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "裝置名稱">
+<!ENTITY changeSyncDeviceName2.label "更改裝置名稱…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "取消">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "儲存">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "更改個人資料照片">
 <!ENTITY verifiedManage.label        "管理帳號">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "斷線…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "驗證電子郵件地址">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "忘記此電子郵件地址">
