@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Начална страница">
 
+<!ENTITY startupPage2.label        "Когато &brandShortName; стартира">
+<!ENTITY startupPage2.accesskey    "с">
 <!ENTITY startupUserHomePage.label "Показва началната страница">
 <!ENTITY startupBlankPage.label    "Показва празна страница">
 <!ENTITY startupPrevSession.label  "Показва прозорците и разделите от последния път">
 
+<!ENTITY homepage2.label           "Начална страница">
+<!ENTITY homepage2.accesskey       "Н">
 <!ENTITY useCurrentPage.label      "Текущата страница">
 <!ENTITY useCurrentPage.accesskey  "Т">
 <!ENTITY useMultiple.label         "Текущите страници">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Разрешаване на &brandShortName; и Firefox да работят едновременно">
 <!ENTITY useFirefoxSync.label             "Съвет: Ще бъдат използвани отделни профили. Използвайте Sync, за да споделяте данни между тях.">
+<!ENTITY getStarted.notloggedin.label     "Вписване в &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Настройки на &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Активиране на многопроцесността във &brandShortName;">
