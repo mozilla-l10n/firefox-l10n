@@ -135,5 +135,6 @@
 <!ENTITY limitContentProcess.label       "Граница процеса садржаја">
 <!ENTITY limitContentProcess.description
                                          "Више процеса садржаја може учинити &brandShortName; прилагодљивијим када се користи више језичака, али ће такође захтевати више меморије.">
+<!ENTITY limitContentProcess.accesskey   "ц">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">

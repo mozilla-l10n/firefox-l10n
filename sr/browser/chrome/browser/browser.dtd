@@ -785,6 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Отвори све у језичцима">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "ч">
 <!ENTITY syncedTabs.context.managedevices.label              "Управљај уређајима…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "ђ">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -904,20 +905,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.whatsnew.label "Погледајте шта је ново.">
 <!ENTITY updateAvailable.header.message "Ажурирање &brandShorterName;-а је доступно.">
 <!ENTITY updateAvailable.acceptButton.label "Преузми надоградње">
+<!ENTITY updateAvailable.acceptButton.accesskey "П">
 <!ENTITY updateAvailable.cancelButton.label "Не сада">
+<!ENTITY updateAvailable.cancelButton.accesskey "Н">
 <!ENTITY updateAvailable.panelUI.label "Ажурирај &brandShorterName;">
 
 <!ENTITY updateManual.message "Преузмите &brandShorterName; и ми ћемо вам помоћи да га инсталирате.">
 <!ENTITY updateManual.whatsnew.label "Погледајте шта је ново.">
 <!ENTITY updateManual.header.message "&brandShorterName; се не може ажурирати на последњу верзију.">
 <!ENTITY updateManual.acceptButton.label "Преузми &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "П">
 <!ENTITY updateManual.cancelButton.label "Не сада">
+<!ENTITY updateManual.cancelButton.accesskey "Н">
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
 <!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
 <!ENTITY updateRestart.header.message2 "Рестартуј да се &brandShorterName; ажурира.">
 <!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
+<!ENTITY updateRestart.acceptButton.accesskey "Р">
 <!ENTITY updateRestart.cancelButton.label "Не сада">
+<!ENTITY updateRestart.cancelButton.accesskey "Н">
 <!ENTITY updateRestart.panelUI.label "Рестартуј &brandShorterName; да примени надоградњу">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
