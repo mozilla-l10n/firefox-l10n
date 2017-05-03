@@ -2,19 +2,19 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY addButton.label      "เพิ่มการแยกตัวตนใหม่">
+<!ENTITY addButton.label      "เพิ่มการแยกข้อมูลใหม่">
 <!ENTITY addButton.accesskey  "A">
 <!ENTITY preferencesButton.label "การตั้งค่า">
 <!ENTITY removeButton.label   "เอาออก">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; กลับสู่ความเป็นส่วนตัว">
 
-<!ENTITY window.title         "เพิ่มการแยกตัวตนใหม่">
+<!ENTITY window.title         "เพิ่มการแยกข้อมูลใหม่">
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "ชื่อ:">
 <!ENTITY name.accesskey       "N">
-<!ENTITY name.placeholder     "ป้อนชื่อการแยกตัวตน">
+<!ENTITY name.placeholder     "ป้อนชื่อการแยกข้อมูล">
 <!ENTITY icon.label           "ไอคอน:">
 <!ENTITY icon.accesskey       "I">
 <!ENTITY color.label          "สี:">

@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "เนื้อหา">
 <!ENTITY  paneApplications.title  "แอปพลิเคชัน">
 <!ENTITY  panePrivacy.title       "ความเป็นส่วนตัว">
-<!ENTITY  paneContainers.title    "แท็บแยกตัวตน">
+<!ENTITY  paneContainers.title    "แท็บแยกข้อมูล">
 <!ENTITY  paneSecurity.title      "ความปลอดภัย">
 <!ENTITY  paneAdvanced.title      "ขั้นสูง">
 

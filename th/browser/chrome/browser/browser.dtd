@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
 
-<!ENTITY containersMenu.label "แยกตัวตน">
+<!ENTITY containersMenu.label "การแยกข้อมูล">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -281,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "ไฟล์"> 
 <!ENTITY fileMenu.accesskey       "ฟ">
-<!ENTITY newUserContext.label             "แท็บแยกตัวตนใหม่">
+<!ENTITY newUserContext.label             "แท็บแยกข้อมูลใหม่">
 <!ENTITY newUserContext.accesskey         "ย">
 <!ENTITY newNavigatorCmd.label        "หน้าต่างใหม่">
 <!ENTITY newNavigatorCmd.key        "N">
@@ -486,7 +486,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "ท">
 <!ENTITY openFrameCmd.label           "เปิดกรอบในหน้าต่างใหม่">
 <!ENTITY openFrameCmd.accesskey       "ห">
-<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกตัวตนใหม่">
+<!ENTITY openLinkCmdInContainerTab.label "เปิดลิงก์ในแท็บแยกข้อมูลใหม่">
 <!ENTITY openLinkCmdInContainerTab.accesskey "ย">
 <!ENTITY showOnlyThisFrameCmd.label     "แสดงเฉพาะกรอบนี้">
 <!ENTITY showOnlyThisFrameCmd.accesskey "ส">
