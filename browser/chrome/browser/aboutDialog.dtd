@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Проверка за обновяване">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
+<!ENTITY update.updateButton.label3               "Рестарт за обновяване на &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "Р">
 
 
