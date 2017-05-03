@@ -15,7 +15,7 @@
 
 <!ENTITY oneClickSearchEngines.label           "One-click претраживачи">
 
-<!ENTITY chooseWhichOneToDisplay.label         "Трака за претрагу вам омогућава да промените претраживач. Изаберите онај који желите да прикажете.">
+<!ENTITY chooseWhichOneToDisplay.label         "Трака за претрагу вам омогућава да промените претраживач. Изаберите онај који желите да се приказује.">
 
 <!ENTITY engineNameColumn.label                "Претраживач">
 <!ENTITY engineKeywordColumn.label             "Кључна реч">
