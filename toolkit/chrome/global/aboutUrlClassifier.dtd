@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Ynformaasje oer de url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Provider">
+<!ENTITY aboutUrlClassifier.provider                    "Provider">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Tiid fan lêste fernijing">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Tiid fan folgjende fernijing">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Steat fan lêste fernijing">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Bywurkje">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Opsykje">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Oerienkomst">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat fan oerienkomst kontrolearje">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Opsykje">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat fan opsykjen kontrolearje">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Unthâld">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debugge">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Lochodules ynstelle">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Lochbestân ynstelle">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS-registraasje ynstelle">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Lochmodules fan Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugModules                "Aktuele lochmodules">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS-registraasje fan Safe Browsing">
+<!ENTITY aboutUrlClassifier.debugFile                   "Aktuele lochbestân">
