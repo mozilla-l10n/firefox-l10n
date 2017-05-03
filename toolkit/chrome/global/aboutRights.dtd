@@ -47,7 +47,7 @@
 <!ENTITY rights2.webservices-header "Сеткавыя звесткавыя службы &brandFullName;">
 
 <!-- point 5 -->
-<!ENTITY rights.intro-point5 "Для прайгравання пэўных тыпаў відэакантэнту &brandShortName; сцягвае пэўныя ўбудовы расшыфроўкі кантэнту ад іншых вытворцаў.">
+<!ENTITY rights.intro-point5 "Для прайгравання пэўных тыпаў відэакантэнту &brandShortName; сцягвае пэўныя плагіны расшыфроўкі кантэнту ад іншых вытворцаў.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
