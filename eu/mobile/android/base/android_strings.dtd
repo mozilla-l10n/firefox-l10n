@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Laster-marka kenduta">
 <!ENTITY bookmark_updated "Laster-marka eguneratuta">
 <!ENTITY bookmark_options "Aukerak">
+
 <!ENTITY screenshot_added_to_bookmarks "Pantaila-argazkiak laster-marketan gehituta">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elementu">
 <!ENTITY bookmark_folder_one_item "Elementu bat">
+
 
 <!ENTITY reader_saved_offline "Lineaz kanpo gordeta">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -517,11 +519,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "Pasahitza arbelean kopiatu da">
 <!ENTITY doorhanger_login_select_action_text "Hautatu beste saio-hasiera bat">
 <!ENTITY doorhanger_login_select_title "Kopiatu pasahitza hemendik">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "Handitu eremu txikiak">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Handitu loturak eta inprimaki-eremuak hauetatik gertu ukitzean">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -728,14 +725,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&#037;&#037;&formatS;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
