@@ -210,8 +210,8 @@
 <!ENTITY options.sourceeditor.label                     "Preferências do editor">
 <!ENTITY options.sourceeditor.detectindentation.label   "Detetar indentação">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Inferir indentação com base no conteúdo do código">
-<!ENTITY options.sourceeditor.autoclosebrackets.label   "Fechar automaticamente parêntesis retos">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir automaticamente os parêntesis retos de fecho">
+<!ENTITY options.sourceeditor.autoclosebrackets.label   "Fechar parêntesis retos automaticamente">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir parêntesis retos de fecho automaticamente">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentar usando espaços">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Utilizar espaços em vez do caractere de tabulação">
 <!ENTITY options.sourceeditor.tabsize.label             "Tamanho da tabulação">
