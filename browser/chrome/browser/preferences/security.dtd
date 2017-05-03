@@ -23,7 +23,10 @@
 <!ENTITY  addonExceptions.accesskey     "И">
 
 
+<!ENTITY  formsAndPasswords.label       "Формуляри и пароли">
 
+<!ENTITY  rememberLogins1.label          "Запазване на имена и пароли за вход в сайтовете">
+<!ENTITY  rememberLogins1.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Изключения…">
 <!ENTITY  passwordExceptions.accesskey  "к">
 
