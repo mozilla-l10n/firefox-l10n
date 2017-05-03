@@ -66,6 +66,7 @@
 <!ENTITY bookmark_removed "Já fúitaka rɨgɨnoga">
 <!ENTITY bookmark_updated "Méidoga rɨgɨno">
 <!ENTITY bookmark_options "Nɨzeyena">
+
 <!ENTITY screenshot_added_to_bookmarks "Éroiya ráa yɨnoga rɨgɨnoga dɨga j́onega">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -74,6 +75,7 @@
 
 <!-- Localization note (bookmark_folder_items): The variable is replaced by the number of items
      in the folder. -->
+
 
 
 <!ENTITY reader_saved_offline "Idamo jonega">
@@ -493,11 +495,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "Fákara ráa fakade rábemo jónera">
 <!ENTITY doorhanger_login_select_action_text "Jɨaɨe jéno taɨneyena">
 <!ENTITY doorhanger_login_select_title "Fákara ráa fakade biedo">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "Ñue fɨno dúe íyano">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Íyano árerana jóne  aféme kúeiadɨ íemo">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -696,14 +693,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
