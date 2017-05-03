@@ -19,6 +19,7 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Име уређаја">
+<!ENTITY changeSyncDeviceName2.label "Измени име уређаја…">
 <!ENTITY cancelChangeSyncDeviceName.label "Откажи">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "т">
 <!ENTITY saveChangeSyncDeviceName.label "Сачувај">
@@ -50,6 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Промени профилну слику">
 <!ENTITY verifiedManage.label        "Управљај налогом">
 <!ENTITY verifiedManage.accesskey    "н">
+<!ENTITY disconnect3.label           "Прекини везу…">
 <!ENTITY verify.label                "Потврди е-пошту">
 <!ENTITY verify.accesskey            "е">
 <!ENTITY forget.label                "Заборави на ову е-пошту">

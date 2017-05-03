@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "К">
 <!ENTITY useSmoothScrolling.label        "Користи глатко померање">
 <!ENTITY useSmoothScrolling.accesskey    "г">
-<!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
-<!ENTITY allowHWAccel.accesskey          "х">
 <!ENTITY checkUserSpelling.label         "Проверавај правопис док куцам">
 <!ENTITY checkUserSpelling.accesskey     "р">
 
@@ -125,3 +123,14 @@
 <!ENTITY viewCerts.accesskey             "ф">
 <!ENTITY viewSecurityDevices.label       "Безбедносни уређаји">
 <!ENTITY viewSecurityDevices.accesskey   "Б">
+
+<!ENTITY performance.label               "Перформансе">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Користите препоручене поставке перфорамнси">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Препоручене поставке перформанси су прилагођене вашем рачунару.">
+<!ENTITY limitContentProcess.label       "Граница процеса садржаја">
+<!ENTITY limitContentProcess.description
+                                         "Више процеса садржаја може учинити &brandShortName; прилагодљивијим када се користи више језичака, али ће такође захтевати више меморије.">
+<!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
+<!ENTITY allowHWAccel.accesskey          "х">
