@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
 <!ENTITY bookmark_updated "نشانی تازہ ہوگئی">
 <!ENTITY bookmark_options "اختیارات">
+
 <!ENTITY screenshot_added_to_bookmarks "نشانیاں میں سکرین شاٹ کا اضافہ کردیا گیا">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; شہ">
 <!ENTITY bookmark_folder_one_item "۱ شہ">
+
 
 <!ENTITY reader_saved_offline "آف لائن محفوظ کردیا گیا">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -517,11 +519,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "پاس ورڈ تختہ تراشہ پر نقل شدہ">
 <!ENTITY doorhanger_login_select_action_text "کوئی اور لاگ ان چنیں">
 <!ENTITY doorhanger_login_select_title "پاس ورڈ نقل کریں">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "چھوٹے علاقہ کو بڑا کرنا">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "روابط اور فارم قطعوں کو وسعت دیں جب انکے قریب چھوا جائے">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -728,14 +725,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
