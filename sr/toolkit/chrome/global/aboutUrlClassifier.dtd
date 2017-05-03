@@ -14,3 +14,16 @@
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Подударања">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Провери подударања">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Потражи">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Провери резултате претраге">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Меморија">
+<!ENTITY aboutUrlClassifier.databaseTitle               "База података">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Постави модуле записника">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Постави запис података">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Постави JS запис">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Модули записника безбедног прегледања">
+<!ENTITY aboutUrlClassifier.debugModules                "Тренутни модули записника">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS запис безбедног прегледања">
+<!ENTITY aboutUrlClassifier.debugFile                   "Тренутни запис података">
