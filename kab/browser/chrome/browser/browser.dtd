@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Issin ugar ɣef DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Lqqem &brandShorterName; inek akken ad tesεu timahalin timaynutin di truradt akked tbaḍnit.">
 <!ENTITY updateAvailable.whatsnew.label "Wali amaynut.">
 <!ENTITY updateAvailable.header.message "Illa lqem amaynut &brandShorterName;">
 <!ENTITY updateAvailable.acceptButton.label "Sider lqem">
