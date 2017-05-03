@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "G">
 <!ENTITY useSmoothScrolling.label        "Geser dengan mulus">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
-<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkUserSpelling.label         "Periksa ejaan saat mengetik teks">
 <!ENTITY checkUserSpelling.accesskey     "j">
 
@@ -126,3 +124,7 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey   "K">
+
+<!ENTITY performance.label               "Kinerja">
+<!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
+<!ENTITY allowHWAccel.accesskey          "a">

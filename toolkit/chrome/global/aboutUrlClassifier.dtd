@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "Penyedia">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Pemutakhiran terakhir">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Pemutakhiran berikutnya">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Pemutakhiran">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Cocok">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memori">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Pangkalan Data">

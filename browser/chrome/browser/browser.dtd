@@ -920,9 +920,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Unduh salinan baru &brandShorterName;">
 
 <!ENTITY updateRestart.message "Setelah mulai ulang, &brandShorterName; akan memulihkan tab dan jendela terbuka,">
+<!ENTITY updateRestart.header.message2 "Mulai ulang untuk memutakhirkan &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Mulai Ulang dan Kembalikan">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Mulai ulang &brandShorterName; untuk menerapkan pemutakhiran">
 
+<!ENTITY pageActionButton.tooltip "Tindakan laman">
