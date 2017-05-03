@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Laster-marka kenduta">
 <!ENTITY bookmark_updated "Laster-marka eguneratuta">
 <!ENTITY bookmark_options "Aukerak">
-
+<!ENTITY bookmark_save "Gorde">
 <!ENTITY screenshot_added_to_bookmarks "Pantaila-argazkiak laster-marketan gehituta">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elementu">
 <!ENTITY bookmark_folder_one_item "Elementu bat">
-
+<!ENTITY bookmark_parent_folder "Karpeta gurasoa">
 
 <!ENTITY reader_saved_offline "Lineaz kanpo gordeta">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "Hasiera-orria">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Erabili fitxa berrietan ere bai">
 <!ENTITY home_homepage_title "Ezarri hasiera-orria">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -288,6 +289,7 @@
 <!ENTITY pref_custom_tabs_summary3 "Baimendu aplikazioei webguneak irekitzea &brandShortName; bertsio pertsonalizatu bat erabiliz">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Ireki &formatS;(e)n">
 
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
