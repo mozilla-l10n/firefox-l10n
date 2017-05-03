@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Za aktualizacijami pytaś">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Z">
-
+<!ENTITY update.updateButton.label3               "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 <!ENTITY update.updateButton.accesskey            "k">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
