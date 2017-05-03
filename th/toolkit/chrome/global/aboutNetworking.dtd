@@ -30,3 +30,4 @@
 <!ENTITY aboutNetworking.bytesSent             "จำนวนไบต์ที่ส่ง">
 <!ENTITY aboutNetworking.bytesReceived         "จำนวนไบต์ที่รับ">
 <!ENTITY aboutNetworking.dnsDomain             "โดเมน">
+<!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
