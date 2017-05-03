@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Bestân">
 <!ENTITY plugin.mimeTypes                                    "MIME-typen">
 <!ENTITY plugin.flashProtectedMode.label                     "Befeilige modus fan Adobe Flash ynskeakelje">
+<!ENTITY plugin.enableBlocklists.label                       "Gefaarlike en misliedende Flash-ynhâld blokkearje">
