@@ -10,6 +10,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Hae päivityksiä">
 <!ENTITY update.checkForUpdatesButton.accesskey   "H">
+<!ENTITY update.updateButton.label3               "Päivitä käynnistämällä &brandShorterName; uudestaan">
 <!ENTITY update.updateButton.accesskey            "P">
 
 
