@@ -47,17 +47,17 @@
 <!ENTITY fxaccount_back_to_browsing "Tok chik pa k\u0027amaya\u0027l">
 
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Ütz apetik pa &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Tatikirisaj molojri\u0027ïl pa kiximojri\u0027ïl taq ruwi\u0027, yakäl etal, ewan taq tzij chuqa\u0027 juley chik.">
+<!ENTITY fxaccount_getting_started_description2 "Tatikirisaj molojri\u0027ïl richin ye\u0027axïm taq ruwi\u0027, taq yaketal, ewan taq tzij &amp; ch\u0027aqa\u0027 chik.">
 <!ENTITY fxaccount_getting_started_get_started "Nab\u0027ey taq xak">
 <!ENTITY fxaccount_getting_started_old_firefox "¿La nawokisaj jun ojer ruwäch chi &syncBrand.shortName.label;?">
 
 <!ENTITY fxaccount_status_signed_in_as "Okisan achi\u0027el">
 <!ENTITY fxaccount_status_manage_account "Tinuk\u0027samajïx ri retal taqoya\u0027l">
-<!ENTITY fxaccount_status_auth_server "Ruk\u0027u\u0027x samaj ri retal taqoya\u0027l">
+<!ENTITY fxaccount_status_auth_server "Retal rutaqoya\u0027l ri ruk\u0027u\u0027x samaj">
 <!ENTITY fxaccount_status_sync_now "Tixim wakami">
 <!ENTITY fxaccount_status_syncing2 "Tajin niximon…">
 <!ENTITY fxaccount_status_device_name "Rub\u0027i\u0027 ri okisaxel">
-<!ENTITY fxaccount_status_sync_server "Ruk\u0027u\u0027x samaj richin Ximïl">
+<!ENTITY fxaccount_status_sync_server "Ruk\u0027u\u0027x rusamaj Ximïl">
 <!ENTITY fxaccount_status_sync "&syncBrand.shortName.label;">
 <!ENTITY fxaccount_status_sync_enabled "&syncBrand.shortName.label; tzijon">
 <!ENTITY fxaccount_status_needs_verification2 "Rajowaxik nijikib\u0027äx ri retal ataqoya\u0027l. Tanaqa\u0027 qa richin nitaq chik ri rutzijol jikib\u0027axïk.">
@@ -100,7 +100,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 
-<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; taq cha\u0027oj">
+<!ENTITY fxaccount_options_title "&syncBrand.shortName.label; taq rucha\u0027oj">
 <!ENTITY fxaccount_options_configure_title "Tab\u0027ana\u0027 runuk\u0027ulem &syncBrand.shortName.label;">
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has

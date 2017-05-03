@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Yakäl etal elesan el">
 <!ENTITY bookmark_updated "Yakäl etal k\u0027exon ruwäch">
 <!ENTITY bookmark_options "Taq cha\u0027oj">
-
+<!ENTITY bookmark_save "Tiyak">
 <!ENTITY screenshot_added_to_bookmarks "Xtz\u0027aqatisäx pa taq yaketal ri chapoj ruwäch">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; cholna\u0027oj">
 <!ENTITY bookmark_folder_one_item "1 cholna\u0027oj">
-
+<!ENTITY bookmark_parent_folder "Nimaläj molyakb\u0027äl">
 
 <!ENTITY reader_saved_offline "Yakon pa k\u0027amab\u0027ey">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -292,7 +292,7 @@
 <!ENTITY custom_tabs_menu_item_open_in "Tijaq pa &formatS;">
 <!ENTITY custom_tabs_menu_footer "Samajib\u0027en ruma &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
-<!ENTITY custom_tabs_hint_url_copy "Wachib\u0027en URL ">
+<!ENTITY custom_tabs_hint_url_copy "Wachib\u0027en URL">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Ruk\u0027isib\u0027al taq samaj">
@@ -823,11 +823,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Tib\u0027an b\u0027enam pa taq Yaketal">
 
 <!ENTITY activity_stream_topsites "Utziläj taq ruxaq K\u0027amaya\u0027l">
-<!ENTITY activity_stream_highlights "Taq K\u0027ewachinïk">
+<!ENTITY activity_stream_highlights "Taq k\u0027ewachinïk">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 
-<!ENTITY activity_stream_highlight_label_bookmarked "yaketan">
+<!ENTITY activity_stream_highlight_label_bookmarked "Yaketan">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 <!ENTITY activity_stream_highlight_label_visited "Tz\u0027eton">

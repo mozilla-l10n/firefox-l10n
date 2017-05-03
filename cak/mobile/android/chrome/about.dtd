@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "Rutzijol &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; choj nitojtob'ëx chuqa' rik'in jub'a' man jujik ta.">
-<!ENTITY aboutPage.telemetryStart               " Ruyonil tutaqa na'oj chi rij rub'eyal nisamäj, ch'akulakem, rokisaxik chuqa' richinaxik ri ">
+<!ENTITY aboutPage.telemetryStart               " Ruyonil tutaqa na'oj chi rij rub'eyal nisamäj, ch'akulakem, rokisaxik chuqa' richinaxik ri ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
-<!ENTITY aboutPage.telemetryEnd                 " richin yato'on chub'anik &brandShortName; ütz ütz.">
+<!ENTITY aboutPage.telemetryEnd                 " richin yato'on chub'anik &brandShortName; ütz ütz.">
 <!ENTITY aboutPage.checkForUpdates.link         "Tikanöx k'exoj taq ruwäch »">
 <!ENTITY aboutPage.checkForUpdates.checking     "Tajin yekanöx k'exoj taq ruwäch…">
 <!ENTITY aboutPage.checkForUpdates.none         "Majun k'exoj taq ruwäch">
