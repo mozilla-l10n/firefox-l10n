@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Gebruik gladde rol">
 <!ENTITY useSmoothScrolling.accesskey    "G">
-<!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Kontroleer spelling terwyl ek tik">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Sekuriteitstoestelle">
 <!ENTITY viewSecurityDevices.accesskey   "t">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
+<!ENTITY allowHWAccel.accesskey          "r">
