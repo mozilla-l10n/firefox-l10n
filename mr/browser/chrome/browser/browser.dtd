@@ -920,9 +920,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; ची नवी प्रत डाऊनलोड करा.">
 
 <!ENTITY updateRestart.message "पुन्हा सुरु केल्यावर &brandShorterName; आपले सध्या उघडलेले टॅब्स आणि पटल पूर्वस्थितीत आणेल.">
-<!ENTITY updateRestart.header.message "अद्ययावत आवृत्ती वापरण्यासाठी &brandShorterName; पुन्हा सुरु करा.">
+
 <!ENTITY updateRestart.acceptButton.label "पुन्हा सुरु करा व पूर्वस्थितीत आणा">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 
 
 <!ENTITY updateRestart.panelUI.label "अद्ययावत आवृत्ती लागू करण्यासाठी &brandShorterName; पुन्हा सुरु करा">
+
