@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Lue lisää DRM-suojauksesta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Päivitä &brandShorterName;, niin pysyt vauhdissa ja turvassa.">
 <!ENTITY updateAvailable.whatsnew.label "Lue, mikä on uutta.">
 <!ENTITY updateAvailable.header.message "Uusi &brandShorterName;-päivitys on saatavilla.">
 <!ENTITY updateAvailable.acceptButton.label "Lataa päivitys">
