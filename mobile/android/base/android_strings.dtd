@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "ಬುಕ್‌ಮಾರ್ಕನ್ನು ತೆಗೆಯಲಾಗಿದೆ">
 <!ENTITY bookmark_updated "ಬುಕ್‌ಮಾರ್ಕ್ ಪರಿಷ್ಕರಿಸಲಾಗಿದೆ">
 <!ENTITY bookmark_options "ಆಯ್ಕೆಗಳು">
+<!ENTITY bookmark_save "ಉಳಿಸು">
 <!ENTITY screenshot_added_to_bookmarks "ಪುಟಗುರುತುಗಳಿಗೆ ಸ್ಕ್ರೀನ್ಶಶಾಟ್ ಸೇರಿಸಲಾಗಿದೆ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; ಅಂಶಗಳು">
 <!ENTITY bookmark_folder_one_item "೧ ಅಂಶ">
+
 
 <!ENTITY reader_saved_offline "ಆಫ್‌ಲೈನ್ ಉಳಿಸಲಾಗಿದೆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -517,11 +519,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "‍ಗುಪ್ತಪದವನ್ನು ಕ್ಲಿಪ್ ಬೋರ್ಡ್‌ಗೆ ಪ್ರತಿ ಮಾಡಲಾಗಿದೆ">
 <!ENTITY doorhanger_login_select_action_text "‍ಇನ್ನೊಂದು ಲಾಗಿನ್ ಅನ್ನು ‍ಆರಿಸಿ">
 <!ENTITY doorhanger_login_select_title "ಇದರಿಂದ ಗುಪ್ತಪದವನ್ನು ನಕಲಿಸಿ">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "ಸಣ್ಣ ಪ್ರದೇಶಗಳನ್ನು ಹಿರಿದಾಗಿಸಿ">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "ಕೊಂಡಿಗಳನ್ನು ಮತ್ತು ಮತ್ತು ಫಾರ್ಮ್ ಸ್ಥಳಗಳನ್ನು ಅವುಗಳ ಬಳಿ ತಟ್ಟುವುದರ ಮೂಲಕ ಹಿರಿದಾಗಿಸಿ">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -728,14 +725,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
