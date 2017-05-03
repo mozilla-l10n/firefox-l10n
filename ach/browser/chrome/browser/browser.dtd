@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Gam &brandShorterName; manyenne">
 
 <!ENTITY updateRestart.message "Inge nwoyo cako oyot, &brandShorterName; bi dwoko dirica matino ki dirica ni weng ma tye ayaba.">
-<!ENTITY updateRestart.header.message "Nwo cako &brandShorterName; me keto ngec manyen.">
+
 <!ENTITY updateRestart.acceptButton.label "Nwo cako ka i dwoki">
 <!ENTITY updateRestart.acceptButton.accesskey "N">
 <!ENTITY updateRestart.cancelButton.label "Pe kombedi">
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label "Nwo cako &brandShorterName; me keto ngec manyen">
+

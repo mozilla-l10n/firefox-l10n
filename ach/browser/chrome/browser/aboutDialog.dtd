@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Rot pi ngec manyen">
 <!ENTITY update.checkForUpdatesButton.accesskey   "R">
-<!ENTITY update.updateButton.label2               "Cak &brandShortName; odoco me keto ngec manyen">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
