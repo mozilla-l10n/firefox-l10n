@@ -84,7 +84,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "изчистите цялата настояща история">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Винаги да се използва поверително сърфиране">
+<!ENTITY  privateBrowsingPermanent2.label "Поверителното сърфиране е винаги включено">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
 
 <!ENTITY  rememberHistory2.label      "Запомняне на моята история на сърфиране и изтегляния">
