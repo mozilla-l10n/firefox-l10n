@@ -29,7 +29,7 @@
 <!ENTITY locbar.history.label "cronologia">
 <!ENTITY locbar.history.accesskey "n">
 <!ENTITY locbar.bookmarks.label "segnalibri">
-<!ENTITY locbar.bookmarks.accesskey "b">
+<!ENTITY locbar.bookmarks.accesskey "g">
 <!ENTITY locbar.openpage.label "schede aperte">
 <!ENTITY locbar.openpage.accesskey "d">
 <!ENTITY locbar.searches.label "ricerche correlate dal motore di ricerca predefinito">
