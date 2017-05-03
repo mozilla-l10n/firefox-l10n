@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "पुस्तकचिनो हटाइयो">
 <!ENTITY bookmark_updated "पुस्तकचिनो अद्यावधिक गरियो">
 <!ENTITY bookmark_options "विकल्पहरू">
+
 <!ENTITY screenshot_added_to_bookmarks "स्क्रिन्सट् बुक्मार्कमा थपियो">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; वस्तुहरू">
 <!ENTITY bookmark_folder_one_item "१ वस्तु">
+
 
 <!ENTITY reader_saved_offline "अफलाइन सुरक्षित गरियो">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -517,11 +519,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "क्लिपबोर्डबाट गोप्यशब्द नक्कल गरियो">
 <!ENTITY doorhanger_login_select_action_text "अर्को लगिन रोज्नुहोस्">
 <!ENTITY doorhanger_login_select_title "बाट गोप्यशब्द प्रतिलिपि गर्नुहोस्">
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-
-<!ENTITY pref_magnifying_glass_enabled "सानो क्षेत्रहरूलाई ठुलो बनाउनुहोस">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "लिंकहरू र फर्म को फिल्डहरू को नजिक जाँदा ठुलो पार्नुहोस्">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -728,14 +725,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY ellipsis "…">
 
 <!ENTITY colon ":">
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 
