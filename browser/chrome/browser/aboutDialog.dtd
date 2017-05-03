@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "सुधारणांकरीता तपासणी करा">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "अद्यावत करण्यासाठी &brandShortName;परत सुरु करा">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
