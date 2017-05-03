@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ldi agalis n yizen n wawal uffir yettwakelsen">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sefrek aseqdec n izegrar">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Snifel ma yella tebɣiḍ ad d-remseḍ ilɣuten seg usmel">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Err-d isefka deg uselkim">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sefrek beṭṭu n texdellist-inek d/neɣ asawaḍ-inek d usmel">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sefrek beṭṭu n usawaḍ-inek d usmel">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-agi">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-agi. ">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
@@ -908,6 +910,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Sider lqem n &brandShorterName;">
 
+<!ENTITY updateManual.message "Sali-d lqem aneggaru n &brandShorterName; sakin ad k-n-mud tallalt akken ad tt-saliṭ.">
 <!ENTITY updateManual.whatsnew.label "Wali amaynut.">
 <!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem γer lqem aneggaru.">
 <!ENTITY updateManual.acceptButton.label "Sider &brandShorterName;">
@@ -916,8 +919,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Sider anɣel amaynut n &brandShorterName;">
 
+<!ENTITY updateRestart.message "Seld asenker, &brandShorterName; ad yerr akk iccaren-ik yeldin akked windows.">
+<!ENTITY updateRestart.header.message2 "Sker i tikkelt nniḍen akken ad tleqmeḍ &brandShorterName;">
+<!ENTITY updateRestart.acceptButton.label "Sker i tikkelt nniḍen u sakin err-d">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label "Ales asenker i tikelt nniḍen &brandShortName; i uleqqem ">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
