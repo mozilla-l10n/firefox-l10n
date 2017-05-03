@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Закладка удалена">
 <!ENTITY bookmark_updated "Закладка обновлена">
 <!ENTITY bookmark_options "Настройки">
+<!ENTITY bookmark_save "Сохранить">
 <!ENTITY screenshot_added_to_bookmarks "Скриншот добавлен в закладки">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; закладок">
 <!ENTITY bookmark_folder_one_item "1 закладка">
+<!ENTITY bookmark_parent_folder "Родительская папка">
 
 <!ENTITY reader_saved_offline "Сохранено в автономном режиме">
 <!-- Localization note (reader_switch_to_bookmarks) : This
