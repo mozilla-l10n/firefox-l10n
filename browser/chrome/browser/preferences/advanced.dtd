@@ -5,7 +5,7 @@
 <!ENTITY generalTab.label "Generale">
 <!ENTITY accessibility.label "Accessibilità">
 <!ENTITY useCursorNavigation.label "Utilizza sempre i tasti direzione per navigare nelle pagine">
-<!ENTITY useCursorNavigation.accesskey "U">
+<!ENTITY useCursorNavigation.accesskey "l">
 <!ENTITY searchOnStartTyping.label "Cerca nel testo quando si digita qualcosa">
 <!ENTITY searchOnStartTyping.accesskey "e">
 <!ENTITY blockAutoReload.label "Avvisa se un sito web cerca di reindirizzare o ricaricare la pagina">
