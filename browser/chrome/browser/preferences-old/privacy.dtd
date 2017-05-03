@@ -105,9 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
-<!ENTITY  browserContainersHeader.label         "แท็บแยกตัวตน">
+<!ENTITY  browserContainersHeader.label         "แท็บแยกข้อมูล">
 <!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
-<!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บแยกตัวตน">
+<!ENTITY  browserContainersEnabled.label        "เปิดใช้งานแท็บแยกข้อมูล">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "การตั้งค่า…">
 <!ENTITY  browserContainersSettings.accesskey    "i">
