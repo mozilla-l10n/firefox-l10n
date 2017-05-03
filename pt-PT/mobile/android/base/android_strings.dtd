@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Marcador removido">
 <!ENTITY bookmark_updated "Marcador atualizado">
 <!ENTITY bookmark_options "Opções">
-
+<!ENTITY bookmark_save "Guardar">
 <!ENTITY screenshot_added_to_bookmarks "Captura adicionada aos marcadores">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; itens">
 <!ENTITY bookmark_folder_one_item "1 item">
-
+<!ENTITY bookmark_parent_folder "Pasta parente">
 
 <!ENTITY reader_saved_offline "Guardado offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
