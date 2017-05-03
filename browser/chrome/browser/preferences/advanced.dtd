@@ -97,6 +97,7 @@
 <!ENTITY useService.accesskey            "з">
 
 <!ENTITY enableSearchUpdate2.label       "Аутоматски ажурирај претраживаче">
+<!ENTITY enableSearchUpdate2.accesskey   "п">
 
 <!ENTITY reports.label                   "Извештаји">
 
@@ -129,6 +130,8 @@
                                          "Користите препоручене поставке перфорамнси">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Препоручене поставке перформанси су прилагођене вашем рачунару.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "ч">
 <!ENTITY limitContentProcess.label       "Граница процеса садржаја">
 <!ENTITY limitContentProcess.description
                                          "Више процеса садржаја може учинити &brandShortName; прилагодљивијим када се користи више језичака, али ће такође захтевати више меморије.">
