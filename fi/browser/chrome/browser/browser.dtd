@@ -899,6 +899,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Lue lisää DRM-suojauksesta…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Lue, mikä on uutta.">
 <!ENTITY updateAvailable.header.message "Uusi &brandShorterName;-päivitys on saatavilla.">
 <!ENTITY updateAvailable.acceptButton.label "Lataa päivitys">
 <!ENTITY updateAvailable.acceptButton.accesskey "L">
@@ -906,12 +907,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "E">
 <!ENTITY updateAvailable.panelUI.label "Lataa &brandShorterName;-päivitys">
 
+<!ENTITY updateManual.message "Lataa uusi &brandShorterName;-kopio, niin autamme sen asentamisessa.">
+<!ENTITY updateManual.whatsnew.label "Lue, mikä on uutta.">
+<!ENTITY updateManual.header.message "&brandShorterName; ei voi päivittyä uusimpaan versioon.">
 <!ENTITY updateManual.acceptButton.label "Lataa &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "L">
 <!ENTITY updateManual.cancelButton.label "Ei nyt">
 <!ENTITY updateManual.cancelButton.accesskey "E">
 <!ENTITY updateManual.panelUI.label "Lataa uusi &brandShorterName;-kopio">
 
+<!ENTITY updateRestart.message "Nopean uudelleenkäynnistyksen jälkeen &brandShorterName; palauttaa kaikki auki olevat välilehdet ja ikkunat.">
+<!ENTITY updateRestart.header.message2 "Päivitä &brandShorterName; käynnistämällä se uudestaan.">
 <!ENTITY updateRestart.acceptButton.label "Käynnistä uudestaan ja palauta">
 <!ENTITY updateRestart.acceptButton.accesskey "K">
 <!ENTITY updateRestart.cancelButton.label "Ei nyt">
