@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "r">
 <!ENTITY useSmoothScrolling.label        "Tokisäx jeb'ël q'axanïk">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
-<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkUserSpelling.label         "Tinik'öx ri nutz'ib'anik toq yitz'ib'an">
 <!ENTITY checkUserSpelling.accesskey     "n">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "r">
 <!ENTITY viewSecurityDevices.label       "Taq okisaxel richin jikomal">
 <!ENTITY viewSecurityDevices.accesskey   "o">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
+<!ENTITY allowHWAccel.accesskey          "a">

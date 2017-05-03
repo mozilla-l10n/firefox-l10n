@@ -24,7 +24,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "Chuqa' yatikïr">
+<!ENTITY  doNotTrack.pre.label          "Chuqa' yatikïr ">
 <!ENTITY  doNotTrack.settings.label     "Tinuk'samajïx ri nuk'ulem richin Mani tilitäj">
 <!ENTITY  doNotTrack.post.label         ".">
 
@@ -79,7 +79,7 @@
 
 <!ENTITY  rememberActions.pre.label           "Rik'in jub'a' nawajo' ">
 <!ENTITY  rememberActions.clearHistory.label  "Tijosq'ïx ri k'ak'a' natab'äl">
-<!ENTITY  rememberActions.middle.label        ", chuqa' ">
+<!ENTITY  rememberActions.middle.label        ", chuqa' ">
 <!ENTITY  rememberActions.removeCookies.label "keyuj el ri taq kaxlanwey pa yonil">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -87,7 +87,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  dontrememberActions.pre.label          "Rik'in jub'a' chuqa' ütz natz'ët">
+<!ENTITY  dontrememberActions.pre.label          "Rik'in jub'a' chuqa' ütz natz'ët ">
 <!ENTITY  dontrememberActions.clearHistory.label "tijosq'ïx ronojel ri natab'äl">
 <!ENTITY  dontrememberActions.post.label         ".">
 

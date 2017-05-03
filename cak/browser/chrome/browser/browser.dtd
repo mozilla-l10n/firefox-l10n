@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Taqasaj jun k'ak'a' ruwachib'al &brandShorterName;">
 
 <!ENTITY updateRestart.message "Chi rij jun aninäq rutikirisaxik chik, &brandShorterName; xkeruchojmirisaj konojel ri ruwi' e'ajaqon chuqa' taq tzuwäch.">
-<!ENTITY updateRestart.header.message "Titikirisäx chik &brandShorterName; richin nisamajïx ri k'exoj.">
+
 <!ENTITY updateRestart.acceptButton.label "Titikirisäx chik chuqa' Tichojmirisäx">
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Wakami mani">
 <!ENTITY updateRestart.cancelButton.accesskey "m">
 <!ENTITY updateRestart.panelUI.label "Titikirisäx chik &brandShorterName; richin nisamajïx ri k'exoj">
+
