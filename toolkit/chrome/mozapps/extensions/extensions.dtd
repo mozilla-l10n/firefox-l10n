@@ -188,6 +188,10 @@
 <!ENTITY addon.details.label                  "Meer">
 <!ENTITY addon.details.tooltip                "Meer details over deze add-on tonen">
 <!ENTITY addon.unknownDate                    "Onbekend">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "VEROUDERD">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
