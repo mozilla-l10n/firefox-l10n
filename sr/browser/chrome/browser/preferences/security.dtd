@@ -27,6 +27,7 @@
 <!ENTITY  formsAndPasswords.label       "Форме и лозинке">
 
 <!ENTITY  rememberLogins1.label          "Запамти пријаве и лозинке за веб сајтове">
+<!ENTITY  rememberLogins1.accesskey      "З">
 <!ENTITY  passwordExceptions.label      "Изузеци">
 <!ENTITY  passwordExceptions.accesskey  "е">
 
