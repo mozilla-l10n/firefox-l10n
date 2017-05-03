@@ -5,11 +5,13 @@
 <!ENTITY startup.label             "Покретање">
 
 <!ENTITY startupPage2.label        "Када се &brandShortName; покрене">
+<!ENTITY startupPage2.accesskey    "п">
 <!ENTITY startupUserHomePage.label "Прикажи почетну страницу">
 <!ENTITY startupBlankPage.label    "Прикажи празну страницу">
 <!ENTITY startupPrevSession.label  "Прикажи прозоре и језичке од прошлог пута">
 
 <!ENTITY homepage2.label           "Почетна страница">
+<!ENTITY homepage2.accesskey       "с">
 <!ENTITY useCurrentPage.label      "Користи тренутну страницу">
 <!ENTITY useCurrentPage.accesskey  "т">
 <!ENTITY useMultiple.label         "Користи тренутне странице">
@@ -30,7 +32,7 @@
 <!ENTITY alwaysAskWhere.accesskey     "У">
 
 <!ENTITY alwaysCheckDefault2.label        "Увек провери да ли је &brandShortName; мој подразумевани прегледач">
-<!ENTITY alwaysCheckDefault2.accesskey    "п">
+<!ENTITY alwaysCheckDefault2.accesskey    "у">
 <!ENTITY setAsMyDefaultBrowser2.label     "Учини подразумеваним">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "ч">
 <!ENTITY isDefault.label                  "&brandShortName; је тренутно подразумевани прегледач">
