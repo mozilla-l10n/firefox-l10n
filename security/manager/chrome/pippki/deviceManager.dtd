@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Преглед…">
 <!ENTITY loaddevice.browse.accesskey            "П">
 
+<!ENTITY loaddevice.title2                      "Учитај драјвер PKCS#11 уређаја">
