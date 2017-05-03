@@ -90,7 +90,7 @@
 <!ENTITY updateManual2.label             "Nooit controleren op updates (niet aanbevolen)">
 <!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory2.label            "Updategeschiedenis tonen">
+<!ENTITY updateHistory2.label            "Updategeschiedenis tonen…">
 <!ENTITY updateHistory2.accesskey        "d">
 
 <!ENTITY useService.label                "Een achtergrondservice gebruiken om updates te installeren">
