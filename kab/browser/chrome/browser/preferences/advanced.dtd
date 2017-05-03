@@ -84,6 +84,7 @@
 <!ENTITY updateApplication.label         "Ileqman n. &brandShortName;">
 <!ENTITY updateApplication.description   "Sireg &brandShortName; akken ad">
 <!ENTITY updateAuto2.label               "Sebded s wudem awurman ileqman (yelha i tɣellist-inek)">
+<!ENTITY updateAuto2.accesskey           "L">
 <!ENTITY updateCheckChoose2.label        "Ad inadi ileqqman macac ad k-yeǧǧ ad ferneḍ asebded">
 <!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "Werǧin ad ttnadiḍ ileqqman ( mačči d ayen ilhan)">
@@ -119,5 +120,6 @@
 <!ENTITY viewSecurityDevices.label       "Taɣellist n ibenkan">
 <!ENTITY viewSecurityDevices.accesskey   "T">
 
+<!ENTITY performance.label               "Tamellit">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">
