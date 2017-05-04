@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "С">
 <!ENTITY maximumConnectionsNumber.label "Максимальне число кешованих з’єднань">
 <!ENTITY maximumConnectionsNumber.accesskey "М">
-<!ENTITY forceSelect.label "Відправляти IMAP select на сервер при перевірці нової пошти">
-<!ENTITY forceSelect.tooltip "Деякі сервери потребують додаткового IMAP select для надійного отримання нової пошти, або для показу пошти як прочитаної після її прочитання на іншому пристрої. Вибір цієї опції спричинить дещо більше споживання мережевих даних.">
-<!ENTITY forceSelect.accesskey "В">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Ці налаштування визначають простори імен на вашому IMAP-сервері">
 <!ENTITY personalNamespace.label "Особистий простір імен:">
