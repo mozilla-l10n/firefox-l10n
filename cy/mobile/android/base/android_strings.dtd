@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "Eitemau &formatD;">
 <!ENTITY bookmark_folder_one_item "1 eitem">
-
+<!ENTITY bookmark_parent_folder "Ffolder Rhiant">
 
 <!ENTITY reader_saved_offline "Cadwyd all-lein">
 <!-- Localization note (reader_switch_to_bookmarks) : This
