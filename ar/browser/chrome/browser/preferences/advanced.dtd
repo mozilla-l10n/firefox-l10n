@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "ف">
 <!ENTITY useSmoothScrolling.label        "استخدم اللّف السلس">
 <!ENTITY useSmoothScrolling.accesskey    "خ">
-<!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
-<!ENTITY allowHWAccel.accesskey          "ع">
 <!ENTITY checkUserSpelling.label         "دقق الإملاء أثناء الكتابة">
 <!ENTITY checkUserSpelling.accesskey     "ك">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "ش">
 <!ENTITY viewSecurityDevices.label       "أجهزة الأمن">
 <!ENTITY viewSecurityDevices.accesskey   "ج">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
+<!ENTITY allowHWAccel.accesskey          "ع">
