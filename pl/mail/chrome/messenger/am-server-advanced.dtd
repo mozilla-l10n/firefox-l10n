@@ -11,9 +11,6 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Maksymalna liczba połączeń z serwerem">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY forceSelect.label "Wysyłaj polecenie „Select” protokołu IMAP do serwera podczas wyszukiwania nowych wiadomości">
-<!ENTITY forceSelect.tooltip "Niektóre serwery wymagają dodatkowego polecenia „Select” protokołu IMAP do poprawnego odbierania nowych wiadomości i oznaczania ich jako przeczytane po przeczytaniu na innym urządzeniu. Zaznaczenie tej opcji może zwiększyć wykorzystanie sieci.">
-<!ENTITY forceSelect.accesskey "I">
 <!ENTITY namespaceDesc.label "Poniższe ustawienia określają dostępne przestrzenie nazw na bieżącym serwerze IMAP">
 <!ENTITY personalNamespace.label "Osobista przestrzeń nazw:">
 <!ENTITY personalNamespace.accesskey "a">
