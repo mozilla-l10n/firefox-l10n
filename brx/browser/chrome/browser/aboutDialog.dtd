@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "आपडेटखौ आनजाद खालाम">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "आपडेट खालामनो &brandShortName; खौ फिन जागाय">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
