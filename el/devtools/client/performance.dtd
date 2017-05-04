@@ -41,9 +41,11 @@
   -  in the toolbar on buttons that select which view is currently shown. -->
 <!ENTITY performanceUI.toolbar.waterfall "Καταρράκτης">
 <!ENTITY performanceUI.toolbar.js-calltree "Δέντρο κλήσεων">
+<!ENTITY performanceUI.toolbar.js-calltree.tooltiptext "Επισημαίνει τις λειτουργίες JavaScript όπου το πρόγραμμα περιήγησης πέρασε τον περισσότερο χρόνο κατά τη διάρκεια της εγγραφής.">
 <!ENTITY performanceUI.toolbar.memory-calltree "Καταμερισμοί">
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Εμφανίζει πως η μνήμη ήταν καταμερισμένη κατά την εγγραφή.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Γράφημα Φωτιάς JS">
+<!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Εμφανίζει τη στοίβα κλήσεων JavaScript από όλη τη διάρκεια της εγγραφής.">
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
