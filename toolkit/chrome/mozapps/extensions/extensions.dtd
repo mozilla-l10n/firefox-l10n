@@ -81,7 +81,7 @@
 <!ENTITY cmd.findUpdates.label                "ค้นหาการอัปเดต">
 <!ENTITY cmd.findUpdates.accesskey            "ค">
 <!ENTITY cmd.preferencesWin.label             "ตัวเลือก">
-<!ENTITY cmd.preferencesWin.accesskey         "O">
+<!ENTITY cmd.preferencesWin.accesskey         "ต">
 <!ENTITY cmd.preferencesUnix.label            "การตั้งค่า">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "เกี่ยวกับ">
@@ -111,7 +111,7 @@
 <!ENTITY cmd.showPreferencesUnix.label        "การตั้งค่า">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
 <!ENTITY cmd.contribute.label                 "สนับสนุน">
-<!ENTITY cmd.contribute.accesskey             "C">
+<!ENTITY cmd.contribute.accesskey             "ส">
 <!ENTITY cmd.contribute.tooltip               "สนับสนุนการพัฒนาส่วนเสริมนี้">
 
 <!ENTITY cmd.showReleaseNotes.label           "แสดงบันทึกประจำรุ่น">
@@ -150,7 +150,7 @@
 <!ENTITY detail.checkForUpdates.accesskey     "F">
 <!ENTITY detail.checkForUpdates.tooltip       "ตรวจสอบการอัปเดตสำหรับส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
-<!ENTITY detail.showPreferencesWin.accesskey  "O">
+<!ENTITY detail.showPreferencesWin.accesskey  "ต">
 <!ENTITY detail.showPreferencesWin.tooltip    "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
 <!ENTITY detail.showPreferencesUnix.accesskey "P">
@@ -229,9 +229,9 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "สิ่งนี้คืออะไร? การวัดและส่งข้อมูลทางไกลอาจติดตั้งและเรียกใช้การทดลองเป็นครั้งคราว">
 <!ENTITY experiment.info.learnmore "เรียนรู้เพิ่มเติม">
-<!ENTITY experiment.info.learnmore.accesskey "L">
+<!ENTITY experiment.info.learnmore.accesskey "ร">
 <!ENTITY experiment.info.changetelemetry "ตั้งค่าการวัดและส่งข้อมูลทางไกล">
-<!ENTITY experiment.info.changetelemetry.accesskey "T">
+<!ENTITY experiment.info.changetelemetry.accesskey "ว">
 
 <!ENTITY setting.learnmore "เรียนรู้เพิ่มเติม…">
 
