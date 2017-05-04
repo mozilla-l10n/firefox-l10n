@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "o">
 <!ENTITY maximumConnectionsNumber.label "Maximumaantal serververbindingen in de buffer">
 <!ENTITY maximumConnectionsNumber.accesskey "n">
-<!ENTITY forceSelect.label "IMAP select naar server sturen bij het controleren op nieuwe e-mail">
-<!ENTITY forceSelect.tooltip "Sommige servers hebben een extra IMAP select-opdracht nodig om nieuwe e-mail betrouwbaar te ontvangen, of als gelezen te tonen nadat het op een ander apparaat is gelezen. Het selecteren van deze optie zal extra netwerkverkeer genereren.">
-<!ENTITY forceSelect.accesskey "I">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Deze instellingen omschrijven de namespaces op uw IMAP-server">
 <!ENTITY personalNamespace.label "Persoonlijke namespace:">
