@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY serverAdvanced.label "Rregullime Të mëtejshme Llogarie">
-<!-- LOCALIZATION NOTE (serverDirectory.label): DONT_TRANSLATE "IMAP" -->
+<!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "Drejtori shërbyesi IMAP:">
 <!ENTITY serverDirectory.accesskey "d">
 <!ENTITY usingSubscription.label "Shfaq vetëm dosje pajtimesh">
@@ -12,7 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Numër më i madh ndërlidhjesh shërbyesi për t&apos;u ruajtur në fshehtinë">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
-<!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
+<!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Këta parapëlqime përcaktojnë emërhapësirat te shërbyesi juaj IMAP">
 <!ENTITY personalNamespace.label "Emërhapësirë vetjake:">
 <!ENTITY personalNamespace.accesskey "E">
