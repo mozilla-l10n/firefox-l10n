@@ -8,6 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Провери надоградње">
 <!ENTITY update.checkForUpdatesButton.accesskey   "П">
+<!ENTITY update.updateButton.label3               "Поново покрените да бисте ажурирали &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "о">
 
 
