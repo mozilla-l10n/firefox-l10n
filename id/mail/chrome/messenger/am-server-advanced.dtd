@@ -22,9 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "L">
 <!ENTITY overrideNamespaces.label "Izinkan server untuk mengganti namespace ini">
 <!ENTITY overrideNamespaces.accesskey "I">
-
-
-
 <!ENTITY deferToServer.label "Kotak masuk untuk akun yang lain">
 <!ENTITY deferToServer.accesskey "l">
 <!ENTITY deferGetNewMail.label "Sertakan server ini saat mengunduh email baru">
