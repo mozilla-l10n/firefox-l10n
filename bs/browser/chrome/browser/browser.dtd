@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Preuzmi svježu kopiju &brandShorterName;a">
 
 <!ENTITY updateRestart.message "Nakon brzog restarta, &brandShorterName; će vratiti sve vaše otvorene tabove i prozore.">
-<!ENTITY updateRestart.header.message "Restartuj &brandShorterName; i primjeni nadogradnju.">
+
 <!ENTITY updateRestart.acceptButton.label "Restartuj i vrati">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne sada">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Restartuj &brandShorterName; da bi primjenio nadogradnju.">
+
