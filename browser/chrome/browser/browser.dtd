@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "نزّل نسخة جديدة من &brandShorterName;">
 
 <!ENTITY updateRestart.message "بعد إعادة تشغيل سريعة، سيستعيد &brandShorterName; ألسنتك و نوافذك المفتوحة.">
-<!ENTITY updateRestart.header.message "أعد تشغيل &brandShorterName; لتطبيق التحديث.">
+
 <!ENTITY updateRestart.acceptButton.label "أعد التشغيل و استعد">
 <!ENTITY updateRestart.acceptButton.accesskey "ع">
 <!ENTITY updateRestart.cancelButton.label "ليس الآن">
 <!ENTITY updateRestart.cancelButton.accesskey "ل">
 <!ENTITY updateRestart.panelUI.label "أعد تشغيل &brandShorterName; لتطبيق التحديث">
+
