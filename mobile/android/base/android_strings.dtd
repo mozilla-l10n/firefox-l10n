@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; உருப்படிகள்">
 <!ENTITY bookmark_folder_one_item "1 உருப்படி">
-
+<!ENTITY bookmark_parent_folder "நடப்பிலுள்ள அடைவு">
 
 <!ENTITY reader_saved_offline "இணையமற்ற நிலைக்கு சேமித்தது">
 <!-- Localization note (reader_switch_to_bookmarks) : This
