@@ -55,18 +55,18 @@
 <!ENTITY cmd.show.label                   "เปิดโฟลเดอร์ที่บรรจุ">
 <!ENTITY cmd.show.accesskey               "ฟ">
 <!ENTITY cmd.showMac.label                "แสดงใน Finder">
-<!ENTITY cmd.showMac.accesskey            "ส">
+<!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "ลองใหม่">
-<!ENTITY cmd.goToDownloadPage.label       "ไปหน้าดาวน์โหลด">
+<!ENTITY cmd.goToDownloadPage.label       "ไปยังหน้าดาวน์โหลด">
 <!ENTITY cmd.goToDownloadPage.accesskey   "ป">
 <!ENTITY cmd.copyDownloadLink.label       "คัดลอกลิงก์ดาวน์โหลด">
 <!ENTITY cmd.copyDownloadLink.accesskey   "ค">
 <!ENTITY cmd.removeFromHistory.label      "เอาออกจากประวัติ">
 <!ENTITY cmd.removeFromHistory.accesskey  "อ">
 <!ENTITY cmd.clearList2.label             "ล้างแผงแสดงตัวอย่าง">
-<!ENTITY cmd.clearList2.accesskey         "a">
+<!ENTITY cmd.clearList2.accesskey         "ง">
 <!ENTITY cmd.clearDownloads.label         "ล้างการดาวน์โหลด">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.accesskey     "ด">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
@@ -154,4 +154,4 @@
      This string is shown when some search terms are specified, but there are no
      results in the Downloads view.
      -->
-<!ENTITY downloadsListNoMatch.label       "ไม่พบการดาวน์โหลดที่เข้าคู่กับการค้นหา">
+<!ENTITY downloadsListNoMatch.label       "ไม่พบการดาวน์โหลดที่ตรงกัน">
