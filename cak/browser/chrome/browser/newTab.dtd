@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- These strings are used in the about:newtab page -->
 
-<!ENTITY newtab.pageTitle "K’ak’a’ ruwi’">
+<!ENTITY newtab.pageTitle "K'ak'a' ruwi'">
 <!ENTITY newtab.customize.classic "Kek'ut pe ri ajowanel taq ruxaq ak'amaya'l">
 <!ENTITY newtab.customize.cog.enhanced "Ke'atz'aqtisaj ri taq ruxaq k'amaya'l echilab'en">
 <!ENTITY newtab.customize.cog.title2 "K'AK'A' TAQ CHAJINEL RUWI'">
