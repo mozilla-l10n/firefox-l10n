@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "f">
 <!ENTITY maximumConnectionsNumber.label "快取的最大伺服器連線數">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY forceSelect.label "檢查新郵件時傳送 IMAP SELECT 到伺服器">
-<!ENTITY forceSelect.tooltip "某些伺服器需要額外傳送 IMAP SELECT 指令才能正確接收新郵件，或在其他裝置閱讀後將該郵件標示為「已閱讀」。選擇此選項將增加一些網路流量。">
-<!ENTITY forceSelect.accesskey "F">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "下列設定指定您的 IMAP 伺服器上的命名空間 (namespace)">
 <!ENTITY personalNamespace.label "個人命名空間:">
