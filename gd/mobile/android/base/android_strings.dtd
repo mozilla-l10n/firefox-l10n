@@ -368,7 +368,7 @@
      Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_use_system_font_size "Cleachd meud cruth-clò an t-siostaim">
-
+<!ENTITY pref_use_system_font_size_summary "Sgèilich susbaint-lìn a-rèir meud cruth-clò an t-siostaim">
 
 <!ENTITY pref_media_autoplay_enabled "Ceadaich fèin-chluich">
 <!ENTITY pref_media_autoplay_enabled_summary "Cum smachd air dè na làraichean aig a bheil videothan is meadhanan eile a chluich gu fèin-obrachail">
@@ -499,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Fosgail ann an taba prìobhaideach">
 <!ENTITY contextmenu_remove "Thoir air falbh">
 <!ENTITY contextmenu_add_to_launcher "Cuir ris an sgrìn mhòr">
-
+<!ENTITY contextmenu_set_as_homepage "Suidhich mar an duilleag mhòr">
 <!ENTITY contextmenu_share "Co-roinn">
 <!ENTITY contextmenu_pasteandgo "Cuir ann ⁊ rach ann">
 <!ENTITY contextmenu_paste "Cuir ann">
@@ -568,7 +568,7 @@
 <!ENTITY button_yes "Tha">
 <!ENTITY button_no "Chan eil">
 <!ENTITY button_clear_data "Falamhaich an dàta">
-
+<!ENTITY button_set "Suidhich">
 <!ENTITY button_clear "Falamhaich">
 <!ENTITY button_copy "Dèan lethbhreac">
 
