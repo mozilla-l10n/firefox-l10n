@@ -17,7 +17,7 @@
 <!ENTITY listEmpty.search.label               "ไม่พบส่วนเสริมใด ๆ ที่ตรงกัน">
 <!ENTITY listEmpty.button.label               "เรียนรู้เพิ่มเติมเกี่ยวกับส่วนเสริม">
 <!ENTITY installAddonFromFile.label           "ติดตั้งส่วนเสริมจากไฟล์…">
-<!ENTITY installAddonFromFile.accesskey       "I">
+<!ENTITY installAddonFromFile.accesskey       "ง">
 <!ENTITY toolsMenu.tooltip                    "เครื่องมือสำหรับส่วนเสริมทั้งหมด">
 
 <!ENTITY getThemes.description                "ต้องการปรับแต่งเบราว์เซอร์ของคุณให้เป็นส่วนบุคคล?">
@@ -29,7 +29,7 @@
 <!ENTITY showUnsignedExtensions.button.label  "ไม่สามารถตรวจสอบส่วนขยายบางตัว">
 <!ENTITY showAllExtensions.button.label       "แสดงส่วนขยายทั้งหมด">
 <!ENTITY debugAddons.label                    "ดีบั๊กส่วนเสริม">
-<!ENTITY debugAddons.accesskey                "B">
+<!ENTITY debugAddons.accesskey                "บ">
 
 <!-- global warnings -->
 <!ENTITY warning.safemode.label                    "ส่วนเสริมทั้งหมดถูกปิดใช้งานโดยโหมดปลอดภัย">
@@ -48,14 +48,14 @@
 
 <!-- addon updates -->
 <!ENTITY updates.checkForUpdates.label        "ตรวจสอบการอัปเดต">
-<!ENTITY updates.checkForUpdates.accesskey    "C">
+<!ENTITY updates.checkForUpdates.accesskey    "ต">
 <!ENTITY updates.viewUpdates.label            "ดูการอัปเดตเมื่อเร็ว ๆ นี้">
-<!ENTITY updates.viewUpdates.accesskey        "V">
+<!ENTITY updates.viewUpdates.accesskey        "ด">
 <!-- LOCALIZATION NOTE (updates.updateAddonsAutomatically.label): This menu item
      is a checkbox that toggles the default global behavior for add-on update
      checking. -->
 <!ENTITY updates.updateAddonsAutomatically.label     "อัปเดตส่วนเสริมโดยอัตโนมัติ">
-<!ENTITY updates.updateAddonsAutomatically.accesskey "A">
+<!ENTITY updates.updateAddonsAutomatically.accesskey "อ">
 <!-- LOCALIZATION NOTE (updates.resetUpdatesToAutomatic.label, updates.resetUpdatesToManual.label):
      Specific addons can have custom update checking behaviors ("Manually",
      "Automatically", "Use default global behavior"). These menu items reset the
@@ -63,9 +63,9 @@
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
 <!ENTITY updates.resetUpdatesToAutomatic.label       "กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตโดยอัตโนมัติ">
-<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
+<!ENTITY updates.resetUpdatesToAutomatic.accesskey   "ก">
 <!ENTITY updates.resetUpdatesToManual.label          "กลับค่าเดิมของส่วนเสริมทั้งหมดเป็นอัปเดตด้วยตนเอง">
-<!ENTITY updates.resetUpdatesToManual.accesskey      "R">
+<!ENTITY updates.resetUpdatesToManual.accesskey      "ก">
 <!ENTITY updates.updating.label               "กำลังอัปเดตส่วนเสริม">
 <!ENTITY updates.installed.label              "อัปเดตส่วนเสริมของคุณแล้ว">
 <!ENTITY updates.downloaded.label             "ดาวน์โหลดการอัปเดตสำหรับส่วนเสริมของคุณแล้ว">
@@ -77,24 +77,24 @@
 
 <!-- addon actions -->
 <!ENTITY cmd.showDetails.label                "แสดงข้อมูลเพิ่มเติม">
-<!ENTITY cmd.showDetails.accesskey            "S">
+<!ENTITY cmd.showDetails.accesskey            "ส">
 <!ENTITY cmd.findUpdates.label                "ค้นหาการอัปเดต">
-<!ENTITY cmd.findUpdates.accesskey            "F">
+<!ENTITY cmd.findUpdates.accesskey            "ค">
 <!ENTITY cmd.preferencesWin.label             "ตัวเลือก">
 <!ENTITY cmd.preferencesWin.accesskey         "O">
 <!ENTITY cmd.preferencesUnix.label            "การตั้งค่า">
 <!ENTITY cmd.preferencesUnix.accesskey        "P">
 <!ENTITY cmd.about.label                      "เกี่ยวกับ">
-<!ENTITY cmd.about.accesskey                  "A">
+<!ENTITY cmd.about.accesskey                  "ก">
 
 <!ENTITY cmd.enableAddon.label                "เปิดใช้งาน">
-<!ENTITY cmd.enableAddon.accesskey            "E">
+<!ENTITY cmd.enableAddon.accesskey            "ป">
 <!ENTITY cmd.disableAddon.label               "ปิดใช้งาน">
 <!ENTITY cmd.disableAddon.accesskey           "ด">
 <!ENTITY cmd.enableTheme.label                "ใช้ชุดตกแต่ง">
-<!ENTITY cmd.enableTheme.accesskey            "W">
+<!ENTITY cmd.enableTheme.accesskey            "ช">
 <!ENTITY cmd.disableTheme.label               "เลิกใช้ชุดตกแต่ง">
-<!ENTITY cmd.disableTheme.accesskey           "W">
+<!ENTITY cmd.disableTheme.accesskey           "ช">
 <!ENTITY cmd.askToActivate.label              "ถามเพื่อเปิดใช้งาน">
 <!ENTITY cmd.askToActivate.tooltip            "ถามเพื่อใช้ส่วนเสริมนี้ในแต่ละครั้ง">
 <!ENTITY cmd.alwaysActivate.label             "เปิดใช้งานเสมอ">
@@ -103,9 +103,9 @@
 <!ENTITY cmd.neverActivate.tooltip            "ไม่ใช้ส่วนเสริมนี้เสมอ">
 <!ENTITY cmd.stateMenu.tooltip                "เปลี่ยนเมื่อส่วนเสริมนี้ทำงาน">
 <!ENTITY cmd.installAddon.label               "ติดตั้ง">
-<!ENTITY cmd.installAddon.accesskey           "I">
+<!ENTITY cmd.installAddon.accesskey           "ต">
 <!ENTITY cmd.uninstallAddon.label             "เอาออก">
-<!ENTITY cmd.uninstallAddon.accesskey         "R">
+<!ENTITY cmd.uninstallAddon.accesskey         "อ">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
 <!ENTITY cmd.showPreferencesUnix.label        "การตั้งค่า">
