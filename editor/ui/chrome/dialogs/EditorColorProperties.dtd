@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Imagem do plano de fundo:">
 <!ENTITY backgroundImage.accessKey "I">
 <!ENTITY backgroundImage.tooltip "Usar um arquivo de imagem como plano de fundo para a página">
+<!ENTITY backgroundImage.shortenedDataURI "URI encurtada (cópia substituirá a URI completa na área de transferência)">

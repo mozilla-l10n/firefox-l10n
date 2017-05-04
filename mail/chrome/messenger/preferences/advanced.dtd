@@ -59,8 +59,6 @@
 <!ENTITY updateCheck.accesskey           "c">
 <!ENTITY updateManual.label              "Nunca verificar se há atualizações (não recomendado: risco de segurança)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateAutoAddonWarn.label       "Avise-me se isto vai desabilitar algum de meus complementos">
-<!ENTITY updateAutoAddonWarn.accesskey   "A">
 <!ENTITY updateHistory.label             "Exibir histórico de atualizações">
 <!ENTITY updateHistory.accesskey         "l">
 
@@ -91,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Usar no máximo">
 <!ENTITY useCacheBefore.accesskey        "s">
 <!ENTITY useCacheAfter.label             "MB de espaço para o cache">
+<!ENTITY overrideSmartCacheSize.label    "Substituir o gerenciamento automático do cache">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Limpar cache agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 
