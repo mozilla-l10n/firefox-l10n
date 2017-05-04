@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Uygulamalar">
+<!ENTITY  applications.description "&brandShortName; tarayıcısının Web’den indirdiğiniz dosyaları veya Web’de gezinirken kullandığınız uygulamaları nasıl ele alacağını seçin.">
 
 <!ENTITY  typeColumn.label        "İçerik türü">
 <!ENTITY  typeColumn.accesskey    "t">
