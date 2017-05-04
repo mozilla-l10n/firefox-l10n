@@ -22,9 +22,6 @@
 <!ENTITY otherUsersNamespace.accesskey "O">
 <!ENTITY overrideNamespaces.label "Թույլատրել սպասարկիչին կարգավորել այս անվանադաշտերը">
 <!ENTITY overrideNamespaces.accesskey "A">
-
-
-
 <!ENTITY deferToServer.label "Այլ փոստարկղի Մուտքայինը">
 <!ENTITY deferToServer.accesskey "d">
 <!ENTITY deferGetNewMail.label "Ներառել այս սպասարկիչը՝ նոր նամակ ստանալիս">
