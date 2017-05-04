@@ -87,7 +87,7 @@
 <!ENTITY updateAuto2.accesskey           "G">
 <!ENTITY updateCheckChoose2.label        "Güncellemeleri denetlesin ama yükleme kararını bana bıraksın">
 <!ENTITY updateCheckChoose2.accesskey    "d">
-<!ENTITY updateManual2.label             "Güncellemeleri hiçbir zaman denetlemesin (önerilmez)">
+<!ENTITY updateManual2.label             "Güncellemeleri hiçbir zaman denetlemesin (Önerilmez)">
 <!ENTITY updateManual2.accesskey         "n">
 
 <!ENTITY updateHistory2.label            "Güncelleme geçmişini göster…">
