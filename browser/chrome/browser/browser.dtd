@@ -919,7 +919,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "ม">
 <!ENTITY updateManual.panelUI.label "ดาวน์โหลดสำเนาใหม่ของ &brandShorterName;">
 
-<!ENTITY updateRestart.message "หลังเริ่มระบบใหม่อย่างเร็ว &brandShorterName; จะเรียกคือแท็บและหน้าต่างของคุณคืนมาทั้งหมด">
+<!ENTITY updateRestart.message "หลังเริ่มระบบใหม่อย่างเร็ว &brandShorterName; จะเรียกคืนแท็บและหน้าต่างของคุณคืนมาทั้งหมด">
 <!ENTITY updateRestart.header.message2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "เริ่มการทำงานใหม่และเรียกคืน">
 <!ENTITY updateRestart.acceptButton.accesskey "ร">
@@ -927,3 +927,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
 <!ENTITY updateRestart.panelUI.label "เริ่มการทำงาน &brandShorterName; ใหม่เพื่อเรียกใช้การอัปเดต">
 
+<!ENTITY pageActionButton.tooltip "การดำเนินการของหน้า">
