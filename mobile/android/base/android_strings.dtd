@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; нәрсе">
 <!ENTITY bookmark_folder_one_item "1 нәрсе">
-
+<!ENTITY bookmark_parent_folder "Аталық бумасы">
 
 <!ENTITY reader_saved_offline "Желіден тыс нұсқасы сақталды">
 <!-- Localization note (reader_switch_to_bookmarks) : This
