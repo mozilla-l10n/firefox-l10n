@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "স্মুথ-স্ক্রলিং ব্যবহার করা হবে m">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "টাইপ করার সময় বানান পরীক্ষা করা হবে">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
+<!ENTITY allowHWAccel.accesskey          "r">
