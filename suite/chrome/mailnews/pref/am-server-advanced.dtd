@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "m">
 <!ENTITY maximumConnectionsNumber.label "Nombre maximum de connexions au serveur à conserver en mémoire cache">
 <!ENTITY maximumConnectionsNumber.accesskey "N">
-<!ENTITY forceSelect.label "Envoyer une commande IMAP select lors de la vérification de nouveaux messages">
-<!ENTITY forceSelect.tooltip "Certains serveurs ont besoin d’une commande IMAP select supplémentaire pour s’assurer que les messages ont bien été reçus ou pour les marquer comme lus lorsqu’ils ont été lus sur un autre appareil. Cette option entraîne une augmentation du trafic réseau.">
-<!ENTITY forceSelect.accesskey "v">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): DONT_TRANSLATE "IMAP" -->
 <!ENTITY namespaceDesc.label "Ces préférences spécifient les espaces de noms sur votre serveur IMAP">
 <!ENTITY personalNamespace.label "Espace de noms personnel :">
