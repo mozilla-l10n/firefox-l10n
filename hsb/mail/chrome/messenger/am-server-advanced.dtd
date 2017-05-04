@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Maksimalna ličba serwerowych zwiskow, kotrež dyrbja so pufrować">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-<!ENTITY forceSelect.label "Přikaz Select IMAP na serwer pósłać, hdyž so za nowej e-mejlu pyta">
-<!ENTITY forceSelect.tooltip "Někotre serwery sej přidatny přikaz select IMAP wužaduje, zo by so e-mejl spušćomnje přijała abo so jako přečitana pokazała po tym, zo je so na druhim graće čitała. Hdyž so tute nastajenje wubjerje, so syćowy wobchad trochu powyši.">
-<!ENTITY forceSelect.accesskey "S">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Tute nastajenja mjenowe rumy na wašim IMAP-serwerje podawaja">
 <!ENTITY personalNamespace.label "Wosobinski mjenowy rum:">
