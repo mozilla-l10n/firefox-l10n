@@ -64,7 +64,7 @@
 # link title for https://www.mozilla.org/en-US/contribute/
 
 
-#define firefox_community ¡Kato’on!
+#define firefox_community ¡Kato'on!
 
 
 # LOCALIZATION NOTE (firefox_about):
