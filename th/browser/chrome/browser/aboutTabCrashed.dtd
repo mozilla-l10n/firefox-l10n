@@ -4,7 +4,7 @@
 
 <!ENTITY tabCrashed.closeTab "ปิดแท็บนี้">
 <!ENTITY tabCrashed.restoreTab "เรียกคืนแท็บนี้">
-<!ENTITY tabCrashed.restoreAll "เรียกคืนแท็บที่เกิดข้อขัดข้องทั้งหมด">
+<!ENTITY tabCrashed.restoreAll "เรียกคืนแท็บที่ขัดข้องทั้งหมด">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
