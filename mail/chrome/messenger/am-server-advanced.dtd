@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "v">
 <!ENTITY maximumConnectionsNumber.label "Maksimum getal bedienerverbindings om te kas">
 <!ENTITY maximumConnectionsNumber.accesskey "M">
-
-
-
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Hierdie voorkeure handel oor die naamsruimte op jou IMAP-bediener">
 <!ENTITY personalNamespace.label "Persoonlike naamruimte:">
