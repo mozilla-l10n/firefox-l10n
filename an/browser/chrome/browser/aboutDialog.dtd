@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Mirar actualizacions">
 <!ENTITY update.checkForUpdatesButton.accesskey   "M">
-
+<!ENTITY update.updateButton.label3               "Reiniciar pa esviellar &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
