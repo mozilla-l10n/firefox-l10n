@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "বুকমার্ক অপসারণ হয়েছে">
 <!ENTITY bookmark_updated "বুকমার্ক হালনাগাদ হয়েছে">
 <!ENTITY bookmark_options "অপশন">
-
+<!ENTITY bookmark_save "সংরক্ষণ">
 <!ENTITY screenshot_added_to_bookmarks "স্ক্রিনশট বুকমার্কে যুক্ত হয়েছে">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; আইটেম">
 <!ENTITY bookmark_folder_one_item "1 টি আইটেম">
-
+<!ENTITY bookmark_parent_folder "উর্ধ্বস্থ ফোল্ডার">
 
 <!ENTITY reader_saved_offline "অফলাইনে সংরক্ষিত">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "নীড়পাতা">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "নতুন ট্যাবের জন্যেও ব্যবহার করুন">
 <!ENTITY home_homepage_title "নীড়পাতা সেট করুন">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -288,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "&brandShortName; এর স্বনির্ধারিত সংস্করণ ব্যবহার করে ওয়েব সাইট খুলতে অ্যাপকে অনুমোদন দিন।">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; এ খুলুন">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; দ্বারা চালিত">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL কপি হয়েছে">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -364,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "সিস্টেম ফন্ট আকার ব্যবহার করুন">
+<!ENTITY pref_use_system_font_size_summary "সিস্টেমের ফন্ট আকার অনুসারে ওয়েব কনটেন্টের আকার দিন">
 
 <!ENTITY pref_media_autoplay_enabled "নিজে থেকে চালু হওয়ার অনুমতি দিন">
 <!ENTITY pref_media_autoplay_enabled_summary "ওয়েবসাইট ভিডিও এবং অন্যান্য মিডিয়া স্বয়ংক্রিয়ভাবে চালাবে কিনা তা নিয়ন্ত্রণ করুন">
@@ -494,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "ব্যক্তিগত ট্যাবে খুলুন">
 <!ENTITY contextmenu_remove "অপসারণ">
 <!ENTITY contextmenu_add_to_launcher "নীড় স্ক্রিনে যোগ করুন">
-
+<!ENTITY contextmenu_set_as_homepage "নীড়পাতা হিসেবে সেট করুন">
 <!ENTITY contextmenu_share "শেয়ার">
 <!ENTITY contextmenu_pasteandgo "প্রতিলেপন ও পরিদর্শন করুন">
 <!ENTITY contextmenu_paste "প্রতিলেপন">
@@ -563,7 +568,7 @@
 <!ENTITY button_yes "হ্যাঁ">
 <!ENTITY button_no "না">
 <!ENTITY button_clear_data "তথ্য পরিষ্কার করুন">
-
+<!ENTITY button_set "নির্ধারণ">
 <!ENTITY button_clear "মুছুন">
 <!ENTITY button_copy "অনুলিপি">
 
