@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "পাসওয়ার্ড সংরক্ষণ বার্তা প্যানেল খুলুন">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "প্লাগ-ইন ব্যবহার পরিচালনা করুন">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "এই সাইটটি থেকে আপনি নোটিফিকেশন গ্রহণ করতে পারবেন কিনা তা পরিবর্তন করুন">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "পার্সিস্টেন্ট স্টোরেজে ডাটা স্টোর করুন">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "সাইটটির সাথে আপনার ক্যামেরা এবং/কিংবা মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "সাইটটির সাথে আপনার মাইক্রোফোন শেয়ার নিয়ন্ত্রণ করুন">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "আপনি এই ওয়েবসাইটের জন্য অবস্থানগত তথ্য ব্লক করেছেন">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "আপনি এই ওয়েব সাইটের জন্য ডাটা স্টোরেজ ব্লক করেছেন">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "আপনি এই ওয়েব সাইটের জন্য ঘোষণা ব্লক করেছেন।">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "আপনি এই ওয়েব সাইটের জন্য পার্সিস্টেন্ট স্টোরেজ ব্লক করেছেন।">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ইতিহাস দেখুন">
 
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "ট্যাবে সব খুলুন">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
-
-
+<!ENTITY syncedTabs.context.managedevices.label              "ডিভাইস ব্যবস্থাপনা…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "সিঙ্ক">
