@@ -10,7 +10,7 @@
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifierseparator) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifierseparator " - ">
-<!ENTITY mainWindow.preface "Žrědło wót: ">
+<!ENTITY mainWindow.preface "Žrědło wót: ">
 
 <!ENTITY fileMenu.label "Dataja">
 <!ENTITY fileMenu.accesskey "D">

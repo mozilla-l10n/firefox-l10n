@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Wěstotne rědy">
 <!ENTITY viewSecurityDevices.accesskey   "t">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Wugbaśe">
+<!ENTITY useRecommendedPerformanceSettings.label "Dopórucone wugbaśowe nastajenja wužywaś">
+<!ENTITY useRecommendedPerformanceSettings.description "Dopórucone wugbaśowe nastajenja su na wašo licadło pśirězane.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY limitContentProcess.label       "Limit wopśimjeśowego procesa">
+<!ENTITY limitContentProcess.description "Wěcej wopśimjeśowych procesow móžo &brandShortName; pśistupnjejšy cyniś, gaž se někotare rejjtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">

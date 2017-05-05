@@ -921,10 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Nowu kopiju &brandShorterName; ześěgnuś">
 
 <!ENTITY updateRestart.message "&brandShorterName; pó malsnem nowem starśe wše waše wócynjone rejtarki a wokna wobnowijo.">
-
+<!ENTITY updateRestart.header.message2 "Startujśo znowego, aby &brandShorterName; aktualizěrował.">
 <!ENTITY updateRestart.acceptButton.label "Znowego startowaś a wobnowiś">
 <!ENTITY updateRestart.acceptButton.accesskey "Z">
 <!ENTITY updateRestart.cancelButton.label "Nic něnto">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Startujśo &brandShorterName; znowego, aby aktualizaciju nałožył">
 
+<!ENTITY pageActionButton.tooltip "Akcije boka">
