@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "سموتھ سكرالِنگ كریو استیمال">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ہارڈ ویر اكسیلریشن كریو استیمال یل۪ی دستیاب آس۪ی">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -118,3 +116,12 @@
 <!ENTITY viewCerts.accesskey             "س">
 <!ENTITY viewSecurityDevices.label       "حفئظتی  عالئ&amp;">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "ہارڈ ویر اكسیلریشن كریو استیمال یل۪ی دستیاب آس۪ی">
+<!ENTITY allowHWAccel.accesskey          "r">
