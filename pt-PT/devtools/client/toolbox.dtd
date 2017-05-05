@@ -182,8 +182,8 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
-<!ENTITY options.screenshot.audio.label      "Reproduzir som de obturador de câmera">
-<!ENTITY options.screenshot.audio.tooltip    "Ativa o som do áudio de câmera ao tirar uma captura de ecrã">
+<!ENTITY options.screenshot.audio.label      "Reproduzir som de obturador de câmara">
+<!ENTITY options.screenshot.audio.tooltip    "Ativa o som do áudio de câmara ao tirar uma captura de ecrã">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->

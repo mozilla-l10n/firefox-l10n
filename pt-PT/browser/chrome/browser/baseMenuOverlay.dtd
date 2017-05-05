@@ -5,7 +5,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizar">
 <!ENTITY bringAllToFront.label    "Trazer tudo para a frente">
-<!ENTITY zoomWindow.label         "Ampliação">
+<!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Janela">
 
 <!ENTITY helpMenu.label           "Ajuda"> 
@@ -31,8 +31,8 @@
 <!ENTITY healthReport2.label      "Relatório de estado do &brandShorterName;">
 <!ENTITY healthReport2.accesskey  "e">
 
-<!ENTITY helpTroubleshootingInfo.label      "Resolução de problemas">
-<!ENTITY helpTroubleshootingInfo.accesskey  "R">
+<!ENTITY helpTroubleshootingInfo.label      "Informação para resolução de problemas">
+<!ENTITY helpTroubleshootingInfo.accesskey  "r">
 
 <!ENTITY helpFeedbackPage.label      "Submeter feedback…">
 <!ENTITY helpFeedbackPage.accesskey  "S">

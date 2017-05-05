@@ -8,6 +8,6 @@
 <!ENTITY allow           "Permitir esta instalação">
 <!ENTITY later           "Pode sempre mudar de ideais a qualquer altura acedendo ao gestor de extras.">
 <!ENTITY continue        "Continuar">
-<!ENTITY restartMessage  "Tem de reiniciar o &brandShortName; para terminar a instalação do extra.">
+<!ENTITY restartMessage  "Tem de reiniciar o &brandShortName; para concluir a instalação deste extra.">
 <!ENTITY restartButton   "Reiniciar o &brandShortName;">
 <!ENTITY cancelButton    "Cancelar">

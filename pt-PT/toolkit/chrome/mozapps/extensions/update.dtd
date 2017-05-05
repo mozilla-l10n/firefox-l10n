@@ -47,6 +47,6 @@
 <!ENTITY  installerrors.intro.label       "O &brandShortName; encontrou problemas ao atualizar alguns dos seus extras.">
 <!-- general strings used by several of the finish pages -->
 
-<!ENTITY  clickFinish.label               "Prima Concluir para iniciar o &brandShortName;.">
+<!ENTITY  clickFinish.label               "Clique em Concluir para conteinuar a iniciar o &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Clique em Feito para continuar a iniciar o &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permitir que o &brandShortName; procure atualizações.">

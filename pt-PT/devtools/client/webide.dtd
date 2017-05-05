@@ -51,7 +51,7 @@
 <!ENTITY viewMenu_zoomin_accesskey "u">
 <!ENTITY viewMenu_zoomout_label "Reduzir">
 <!ENTITY viewMenu_zoomout_accesskey "i">
-<!ENTITY viewMenu_resetzoom_label "Repor Zoom">
+<!ENTITY viewMenu_resetzoom_label "Repor zoom">
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicação">
