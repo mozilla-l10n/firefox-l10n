@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "خ">
 <!ENTITY useSmoothScrolling.label        "ہموار طومار استعمال کریں">
 <!ENTITY useSmoothScrolling.accesskey    "ہ">
-<!ENTITY allowHWAccel.label              "جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں">
-<!ENTITY allowHWAccel.accesskey          "ہ">
 <!ENTITY checkUserSpelling.label         "ٹائپ کرتے وقت اپنی املا کی پڑتال کریں">
 <!ENTITY checkUserSpelling.accesskey     "ٹ">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "ت">
 <!ENTITY viewSecurityDevices.label       "سلامتی آلات">
 <!ENTITY viewSecurityDevices.accesskey   "آ">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "جب دستیاب ہو تو ہارڈ ویئر سرعت کاری استعمال کریں">
+<!ENTITY allowHWAccel.accesskey          "ہ">
