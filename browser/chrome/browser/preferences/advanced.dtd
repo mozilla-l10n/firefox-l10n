@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "s">
 <!ENTITY useSmoothScrolling.label        "Diriša sekorolo se boreledi">
 <!ENTITY useSmoothScrolling.accesskey    "r">
-<!ENTITY allowHWAccel.label              "Diriša kgatelelo ya hatewere ge e le gona">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -118,3 +116,12 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Diriša kgatelelo ya hatewere ge e le gona">
+<!ENTITY allowHWAccel.accesskey          "r">
