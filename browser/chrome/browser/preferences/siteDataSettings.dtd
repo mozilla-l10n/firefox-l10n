@@ -2,14 +2,14 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY     window.title                  "Setări - Date despre site">
+<!ENTITY     window.title                  "Setări - Datele site-urilor">
 <!ENTITY     hostCol.label                 "Site">
 
 <!ENTITY     usageCol.label                "Stocare">
 <!ENTITY     searchTextboxPlaceHolder             "Caută site-uri web">
 
-
-
+<!ENTITY     removeSelected.label          "Elimină selecția">
+<!ENTITY     removeSelected.accesskey      "R">
 <!ENTITY     save.label                    "Salvează schimbările">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "Renunță">
