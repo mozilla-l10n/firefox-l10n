@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Dee kuan koo kub">
 <!ENTITY update.checkForUpdatesButton.accesskey   "D">
-<!ENTITY update.updateButton.label2               "Bí~rè là kíy &brandShortName; xá líl kub bá">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

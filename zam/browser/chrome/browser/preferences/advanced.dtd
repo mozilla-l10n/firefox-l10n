@@ -24,8 +24,6 @@
 
 
 
-
-
 <!ENTITY enableHealthReport.label        "Toob kii &brandShortName; Xha key Xhin">
 <!ENTITY enableHealthReport.accesskey    "X">
 <!ENTITY healthReportLearnMore.label     "Lab Kue">
@@ -100,5 +98,14 @@
 
 <!ENTITY viewCerts.label                 "Mbwíʔ certificado">
 <!ENTITY viewCerts.accesskey             "c">
+
+
+
+
+
+
+
+
+
 
 
