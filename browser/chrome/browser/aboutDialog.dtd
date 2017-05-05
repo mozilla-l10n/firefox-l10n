@@ -9,7 +9,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Buka lokusha lokukhona">
 <!ENTITY update.checkForUpdatesButton.accesskey   "B">
-<!ENTITY update.updateButton.label2               "Phindza uvule &brandShortName; kute uvusetele">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
