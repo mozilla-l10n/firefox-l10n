@@ -373,7 +373,7 @@
 <!ENTITY pref_media_autoplay_enabled "Permitir reprodução automática">
 <!ENTITY pref_media_autoplay_enabled_summary "Define se os websites podem reproduzir automaticamente vídeos e outros tipos de conteúdos multimédia">
 <!ENTITY pref_zoom_force_enabled "Ativar sempre o zoom">
-<!ENTITY pref_zoom_force_enabled_summary "Forçar sobreposição para que possa ampliar qualquer página">
+<!ENTITY pref_zoom_force_enabled_summary "Forçar sobreposição para que possa dar zoom em qualquer página">
 <!ENTITY pref_voice_input "Entrada de voz">
 <!ENTITY pref_voice_input_summary2 "Permitir dicção por voz na barra de URL">
 <!ENTITY pref_qrcode_enabled "Leitor de código QR">
