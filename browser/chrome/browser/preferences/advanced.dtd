@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Şemitandina nerm bikar bîne">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Dema ku lezkara reqalavê amade bibe wê bi kar bîne">
-<!ENTITY allowHWAccel.accesskey          "D">
 
 
 
@@ -118,3 +116,12 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Dema ku lezkara reqalavê amade bibe wê bi kar bîne">
+<!ENTITY allowHWAccel.accesskey          "D">
