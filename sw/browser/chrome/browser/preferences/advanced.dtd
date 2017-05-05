@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "k">
 <!ENTITY useSmoothScrolling.label        "Tumia kubingiriza laini">
 <!ENTITY useSmoothScrolling.accesskey    "b">
-<!ENTITY allowHWAccel.label              "Tumia viharakishi maunzi wakati zinapatikana">
-<!ENTITY allowHWAccel.accesskey          "v">
 
 
 
@@ -118,3 +116,12 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Tumia viharakishi maunzi wakati zinapatikana">
+<!ENTITY allowHWAccel.accesskey          "v">
