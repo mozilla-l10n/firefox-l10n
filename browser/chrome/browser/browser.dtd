@@ -921,10 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Íosluchtaigh cóip nua de &brandShorterName;">
 
 <!ENTITY updateRestart.message "Tar éis duit &brandShorterName; a atosú, athosclófar na cluaisíní agus fuinneoga atá oscailte agat.">
-
+<!ENTITY updateRestart.header.message2 "Atosaigh chun &brandShorterName; a nuashonrú">
 <!ENTITY updateRestart.acceptButton.label "Atosaigh agus Athoscail">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Níl Anois">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Atosaigh &brandShorterName; chun an nuashonrú a chur i bhfeidhm">
 
+<!ENTITY pageActionButton.tooltip "Gníomhartha leathanaigh">
