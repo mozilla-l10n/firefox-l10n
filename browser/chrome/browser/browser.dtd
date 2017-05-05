@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "دریافت یک برداشت تازه از &brandShorterName;">
 
 <!ENTITY updateRestart.message "بعد از یک راه‌اندازی مجدد کوچک، &brandShorterName; تمام زبانه‌ها پنجره‌ها را بازآوری خواهد کرد.">
-<!ENTITY updateRestart.header.message "راه‌اندازی مجدد &brandShorterName; برای اعمال بروزرسانی ها.">
+
 <!ENTITY updateRestart.acceptButton.label "راه‌اندازی مجدد و بازآوری">
 <!ENTITY updateRestart.acceptButton.accesskey "ر">
 <!ENTITY updateRestart.cancelButton.label "اکنون نه">
 <!ENTITY updateRestart.cancelButton.accesskey "ا">
 <!ENTITY updateRestart.panelUI.label "راه‌اندازی مجدد &brandShorterName; برای اعمال بروزرسانی ها.">
+
