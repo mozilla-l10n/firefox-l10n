@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Bokmerke fjernet">
 <!ENTITY bookmark_updated "Bokmerke oppdatert">
 <!ENTITY bookmark_options "Innstillinger">
+<!ENTITY bookmark_save "Lagre">
 <!ENTITY screenshot_added_to_bookmarks "Skjermbildet lagt til i bokmerker">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; element">
 <!ENTITY bookmark_folder_one_item "1 element">
+<!ENTITY bookmark_parent_folder "Overordnet mappe">
 
 <!ENTITY reader_saved_offline "Lagret frakoblet">
 <!-- Localization note (reader_switch_to_bookmarks) : This
