@@ -56,6 +56,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "N">
 <!ENTITY updateTab.label "Aggiornamenti">
 <!ENTITY updateApplication.label "Aggiornamenti di &brandShortName;">
+<!ENTITY updateApplication.version.pre "Versione ">
+<!ENTITY updateApplication.version.post "">
 <!ENTITY updateApplication.description "Consenti a &brandShortName; di">
 <!ENTITY updateAuto2.label "Installare automaticamente gli aggiornamenti (consigliato per una maggiore sicurezza)">
 <!ENTITY updateAuto2.accesskey "s">
