@@ -108,7 +108,7 @@ was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/> 的网站管理员未正确配置网站。为避免您的信息被窃，&brandShortName; 没有与该网站建立连接。">
 
 <!ENTITY sharedLongDesc "<ul> 
-<li>此站点暂时不可用或者太过忙碌。请稍后再试。</li> 
+<li>此站点暂时无法使用或者太过忙碌。请过几分钟后再试。</li> 
 <li>如果您无法载入任何网页，请检查您计算机的网络连接状态。</li> 
 <li>如果您的计算机或网络受到防火墙或者代理服务器的保护，请确认 &brandShortName; 已被授权访问网络。</li> 
 </ul>">
