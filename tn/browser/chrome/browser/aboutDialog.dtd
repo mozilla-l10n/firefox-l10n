@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Tlhola Ditlhabololo">
 <!ENTITY update.checkForUpdatesButton.accesskey   "T">
-<!ENTITY update.updateButton.label2               "Simolola sešwa &brandShortName; go Tlhabolola">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
