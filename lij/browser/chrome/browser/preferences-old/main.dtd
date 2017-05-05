@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Consenti l’ezegoçion de &brandShortName; e Firefox a-o mæximo tenpo">
 <!ENTITY useFirefoxSync.label             "Conseggio: coscì ti devi adeuviâ di profî diversci. Ti peu adeuviâ Sync pe-a scincronizaçion di dæti.">
-<!ENTITY getStarted.label                 "Inandia Sync…">
+<!ENTITY getStarted.notloggedin.label     "Intra in &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Arvi e inpostaçioin de &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Deuvia &brandShortName; in modalitæ moltiprocesso">
