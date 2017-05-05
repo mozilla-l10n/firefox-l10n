@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "c">
 <!ENTITY useSmoothScrolling.label        "Cendiyan baana goyandi">
 <!ENTITY useSmoothScrolling.accesskey    "a">
-<!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
-<!ENTITY allowHWAccel.accesskey          "j">
 <!ENTITY checkUserSpelling.label         "War boŋhantumoo koroši waati kaŋ ay ga hantum">
 <!ENTITY checkUserSpelling.accesskey     "h">
 
@@ -122,3 +120,12 @@
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewSecurityDevices.label       "Saajaw jinawey">
 <!ENTITY viewSecurityDevices.accesskey   "w">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
+<!ENTITY allowHWAccel.accesskey          "j">
