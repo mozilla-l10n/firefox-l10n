@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "Fechar">
 <!ENTITY fullScreenAutohide.label "Ocultar barras de ferramentas">
 <!ENTITY fullScreenAutohide.accesskey "e">
-<!ENTITY fullScreenExit.label "Sair de ecrã completo">
+<!ENTITY fullScreenExit.label "Sair do modo de ecrã completo">
 <!ENTITY fullScreenExit.accesskey "e">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -150,8 +150,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "tem controlo do seu apontador. Pressione Esc para tomar controlo de volta.">
-<!ENTITY pointerlockWarning.generic.label "Este documento tem controlo do seu apontador. Pressione Esc para tomar controlo de volta.">
+<!ENTITY pointerlockWarning.afterDomain.label "tem controlo do seu apontador. Pressione Esc para tomar o controlo de volta.">
+<!ENTITY pointerlockWarning.generic.label "Este documento tem controlo do seu apontador. Pressione Esc para tomar o controlo de volta.">
 
 <!ENTITY closeWindow.label "Fechar janela">
 <!ENTITY closeWindow.accesskey "j">
@@ -204,7 +204,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "Imprimir">
 <!ENTITY printButton.tooltip          "Imprimir esta página">
 
-<!ENTITY urlbar.viewSiteInfo.label                      "Ver informações do site">
+<!ENTITY urlbar.viewSiteInfo.label                      "Ver informação do site">
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Abrir painel de mensagem">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Abrir painel de solicitação de localização">
