@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Gléasanna Slándála">
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Feidhmíocht">
+<!ENTITY useRecommendedPerformanceSettings.label "Bain úsáid as na socruithe feidhmíochta a mholtar">
+<!ENTITY useRecommendedPerformanceSettings.description "Cuireadh na socruithe feidhmíochta in oiriúint do do ríomhairese.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "B">
+<!ENTITY limitContentProcess.label       "Teorainn próiseála ábhair">
+<!ENTITY limitContentProcess.description "Beidh &brandShortName; níos freagrúla agus tuilleadh ábhair á phróiseáil má úsáidtear cluasáin iomadúla, cé go n-úsáideann sé níos mó cuimhne.">
+<!ENTITY limitContentProcess.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">
