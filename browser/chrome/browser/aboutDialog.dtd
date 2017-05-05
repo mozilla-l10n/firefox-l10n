@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Khangela izihlaziyi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-<!ENTITY update.updateButton.label2               "Qalisa ngokutsha i-&brandShortName; ukwenzela ukuhlaziya">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
