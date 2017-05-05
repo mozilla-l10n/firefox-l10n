@@ -26,7 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Jaden bok slědk">
 <!ENTITY cmd.forward.tooltip                  "Jaden bok doprědka">
 
-<!ENTITY showUnsignedExtensions.button.label  "Někotare rozšyrjenja njejsu dali se wobkšuśiś.">
+<!ENTITY showUnsignedExtensions.button.label  "Někotare rozšyrjenja njejsu dali se wobkšuśiś">
 <!ENTITY showAllExtensions.button.label       "Wšykne rozšyrjenja pokazaś">
 <!ENTITY debugAddons.label                    "Dodanki za zmólkami pśepytowaś">
 <!ENTITY debugAddons.accesskey                "m">
@@ -188,6 +188,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ZESTARJONY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -239,14 +240,14 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
      These entities form a sentence, with
      disabledUnsigned.description.findAddonsLink being a link to an external site. -->
-<!ENTITY disabledUnsigned.description.start "Slědujuce dodanki njejsu se wobkšuśili za wužywanje w &brandShortName;. Móžośo ">
+<!ENTITY disabledUnsigned.description.start "Slědujuce dodanki njejsu se wobkšuśili za wužywanje w &brandShortName;. Móžośo ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "wuměnenja namakaś">
-<!ENTITY disabledUnsigned.description.end " abo wuwijarja pšosyś, je wobkšuśiś.">
+<!ENTITY disabledUnsigned.description.end " abo wuwijarja pšosyś, je wobkšuśiś.">
 <!ENTITY disabledUnsigned.learnMore "Zgóńśo wěcej wó našych procowanjach, wam pomagaś, online wěsty wóstaś.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "Wuwijarje, kótarež kśě, až jich dodanki se wobkšuśiju, mógu pókšacowaś, z tym až cytaju našu  ">
+<!ENTITY disabledUnsigned.devInfo.start "Wuwijarje, kótarež kśě, až jich dodanki se wobkšuśiju, mógu pókšacowaś, z tym až cytaju našu ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "pśirucku">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 

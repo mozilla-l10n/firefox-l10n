@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Aktualizacije pytaś">
 <!ENTITY update.checkForUpdatesButton.accesskey   "A">
-
+<!ENTITY update.updateButton.label3               "Startujśo znowego, aby &brandShorterName; aktualizěrował">
 <!ENTITY update.updateButton.accesskey            "z">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

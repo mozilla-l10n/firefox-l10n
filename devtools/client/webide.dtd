@@ -141,7 +141,7 @@
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Informacije běžnego casa">
-<!ENTITY runtimedetails_adbIsRoot "ADB jo kórjeń: ">
+<!ENTITY runtimedetails_adbIsRoot "ADB jo kórjeń: ">
 <!ENTITY runtimedetails_summonADBRoot "kórjenjowy rěd">
 <!ENTITY runtimedetails_ADBRootWarning "(trjeba njezastajony startowy program)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Njewobgranicowane priwilegije wuwijarskich rědow: ">
