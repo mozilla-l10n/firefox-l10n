@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Oku'éva mbeguemi jepuru">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Hardware mbopya'eha oĩmba vove jepuru">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -118,3 +116,12 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Tekorosã mba'e'oka rehegua">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Hardware mbopya'eha oĩmba vove jepuru">
+<!ENTITY allowHWAccel.accesskey          "r">

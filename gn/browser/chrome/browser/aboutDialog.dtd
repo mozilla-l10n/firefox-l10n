@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Tekopyahu reka">
 <!ENTITY update.checkForUpdatesButton.accesskey   "T">
-<!ENTITY update.updateButton.label2               "Restart &brandShortName; emboheko pyahu">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
