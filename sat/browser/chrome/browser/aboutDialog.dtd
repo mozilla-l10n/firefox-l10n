@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "हा़लियाक् को ला़गित् तेंघान (C)">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-<!ENTITY update.updateButton.label2               "दोहड़ा एहोब &brandShortName; हा़ली ला़गित्">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
