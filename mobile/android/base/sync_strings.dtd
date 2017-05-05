@@ -113,8 +113,8 @@
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_ACCESS_AN_ACCOUNT_THAT_DOES_NOT_EXIST '无效的电子邮箱或密码'>
 <!ENTITY fxaccount_remote_error_INCORRECT_PASSWORD '无效的电子邮箱或密码'>
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_OPERATE_ON_AN_UNVERIFIED_ACCOUNT '账户未验证'>
-<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS '服务器繁忙，请稍候再试'>
-<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '服务器繁忙，请稍候再试'>
+<!ENTITY fxaccount_remote_error_CLIENT_HAS_SENT_TOO_MANY_REQUESTS '服务器现在很忙，请稍后再试'>
+<!ENTITY fxaccount_remote_error_SERVICE_TEMPORARILY_UNAVAILABLE_TO_DUE_HIGH_LOAD '服务器现在很忙，请稍后再试'>
 <!ENTITY fxaccount_remote_error_UNKNOWN_ERROR '遇到问题'>
 <!ENTITY fxaccount_remote_error_ACCOUNT_LOCKED '账户已锁定。&formatS1;'>
 
