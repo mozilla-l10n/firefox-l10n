@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "ի">
 <!ENTITY useSmoothScrolling.label        "Օգտագործել կոկիկ թերթումը">
 <!ENTITY useSmoothScrolling.accesskey    "ո">
-<!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
-<!ENTITY allowHWAccel.accesskey          "ր">
 <!ENTITY checkUserSpelling.label         "Տեքստ մուտքագրելիս ստուգել ուղղագրությունը">
 <!ENTITY checkUserSpelling.accesskey     "մ">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "վ">
 <!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
 <!ENTITY viewSecurityDevices.accesskey   "Ս">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
+<!ENTITY allowHWAccel.accesskey          "ր">

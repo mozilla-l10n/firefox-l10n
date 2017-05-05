@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Ստուգել թարմացումները">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Ս">
-<!ENTITY update.updateButton.label2               "Թարմացումը կիրառելու համար վերամեկնարկեք &brandShortName;-ը">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
