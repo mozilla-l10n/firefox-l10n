@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Fil">
 <!ENTITY plugin.mimeTypes                                    "MIME-typer">
 <!ENTITY plugin.flashProtectedMode.label                     "Slå på Adobe Flash verna-modus">
+<!ENTITY plugin.enableBlocklists.label                       "Blokker farleg og påtrengande Flash-innhald">
