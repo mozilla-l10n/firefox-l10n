@@ -375,7 +375,7 @@
 <!ENTITY event.freebusy.suggest.slot            "Sugerir hora livre:">
 <!ENTITY event.freebusy.button.next.slot        "Seguinte">
 <!ENTITY event.freebusy.button.previous.slot    "Anterior">
-<!ENTITY event.freebusy.zoom                    "Ampliação:">
+<!ENTITY event.freebusy.zoom                    "Zoom:">
 <!ENTITY event.freebusy.legend.free             "Livre" >
 <!ENTITY event.freebusy.legend.busy             "Ocupado" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Tentativa" >
