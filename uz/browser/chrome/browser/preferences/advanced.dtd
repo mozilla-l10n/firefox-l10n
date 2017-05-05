@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Bir tekisda siljitishdan foydalanish">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Uskuna aniqlanganda, tez chaqirishdan foydalanish">
-<!ENTITY allowHWAccel.accesskey          "k">
 
 
 
@@ -118,3 +116,12 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Qurilmalar xavfsizligi">
 <!ENTITY viewSecurityDevices.accesskey   "v">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Uskuna aniqlanganda, tez chaqirishdan foydalanish">
+<!ENTITY allowHWAccel.accesskey          "k">
