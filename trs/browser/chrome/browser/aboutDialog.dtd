@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Nana'uì' sa nahuin nakà doj">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-<!ENTITY update.updateButton.label2               "Nachrun ñû &brandShortName; da' nahuin nakà man">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
