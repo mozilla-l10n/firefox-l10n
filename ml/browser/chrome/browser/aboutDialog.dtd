@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "പുതുക്കലുകള്‍ക്കായി പരിശോധിക്കൂ">
 <!ENTITY update.checkForUpdatesButton.accesskey   "പ">
-<!ENTITY update.updateButton.label2               "&brandShortName; പുതുക്കാൻ വീണ്ടും ആരംഭിയ്ക്കുക">
+
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
