@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Dispositivos de seguranza">
 <!ENTITY viewSecurityDevices.accesskey   "o">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Rendimiento">
+<!ENTITY useRecommendedPerformanceSettings.label "Usar las caracteristicas de rendimiento recomendadas">
+<!ENTITY useRecommendedPerformanceSettings.description "Las caracteristicas de rendimiento recomendadas son adaptadas a lo tuyo ordinador.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY limitContentProcess.label       "Limite de procesado de conteniu">
+<!ENTITY limitContentProcess.description "Mas procesos de conteniu puenden fer que &brandShortName; siga mas adaptativo quan s'usan muitas pestanyas pero tamién consumen mas memoria.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
