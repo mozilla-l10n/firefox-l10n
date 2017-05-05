@@ -56,7 +56,7 @@
 <!ENTITY offlineStorage2.label           "Conținut web offline și datele utilizatorului">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-<!ENTITY siteData.label                  "Date despre site">
+<!ENTITY siteData.label                  "Datele site-urilor">
 <!ENTITY clearSiteData.label             "Șterge toate datele">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Setări…">
