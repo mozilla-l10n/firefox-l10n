@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Gwirio am ddiweddariadau">
 <!ENTITY update.checkForUpdatesButton.accesskey   "G">
-<!ENTITY update.updateButton.label2               "Ailgychwyn &brandShortName; i'w Ddiweddaru">
+
 <!ENTITY update.updateButton.accesskey            "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
