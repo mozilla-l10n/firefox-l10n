@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Wěstotne graty">
 <!ENTITY viewSecurityDevices.accesskey   "t">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Wukon">
+<!ENTITY useRecommendedPerformanceSettings.label "Doporučene wukonowe nastajenja wužiwać">
+<!ENTITY useRecommendedPerformanceSettings.description "Doporučene wukonowe nastajenja su na waš ličak přitřihane.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY limitContentProcess.label       "Mjeza wobsahoweho procesa">
+<!ENTITY limitContentProcess.description "Wjace wobsahowych procesow móže &brandShortName; přistupniši činić, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.">
+<!ENTITY limitContentProcess.accesskey   "M">
 <!ENTITY allowHWAccel.label              "Hardwarowe pospěšenje wužiwać, jeli k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">

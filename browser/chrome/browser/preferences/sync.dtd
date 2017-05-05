@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mjeno grata">
-
-
+<!ENTITY changeSyncDeviceName2.label "Mjeno grata změnić…">
+<!ENTITY changeSyncDeviceName2.accesskey "z">
 <!ENTITY cancelChangeSyncDeviceName.label "Přetorhnyć">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Składować">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změnić">
 <!ENTITY verifiedManage.label        "Konto rjadować">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "Zwisk dźělić…">
+<!ENTITY disconnect3.accesskey       "Z">
 <!ENTITY verify.label                "E-mejl přepruwować">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Tutu e-mejl zabyć">
