@@ -26,8 +26,6 @@
 
 
 
-
-
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
 
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ளவும் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; உடன் தரவைப் பகிர்ந்துகொள்ளவும் உதவுகிறது.">
@@ -108,6 +106,15 @@
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
 
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தெரிவுசெய்க">
+
+
+
+
+
+
+
+
+
 
 
 
