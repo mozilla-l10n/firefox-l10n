@@ -50,6 +50,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Endre profilbilde">
 <!ENTITY verifiedManage.label        "Handter kontoen">
 <!ENTITY verifiedManage.accesskey    "k">
+<!ENTITY disconnect3.label           "Kople frå…">
+<!ENTITY disconnect3.accesskey       "f">
 <!ENTITY verify.label                "Stadfest e-post">
 <!ENTITY verify.accesskey            "S">
 <!ENTITY forget.label                "Gløym denne e-posten">
@@ -63,6 +65,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Logg inn">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "Sync-innstillingar">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

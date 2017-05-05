@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å køyre samstundes">
 <!ENTITY useFirefoxSync.label             "Tips: Dei brukar eigne profilar. Bruk Sync for å dele data mellom dei.">
-<!ENTITY getStarted.label                 "Start å bruke Sync…">
+<!ENTITY getStarted.notloggedin.label     "Logg inn på &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Opne innstillingar for &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Slå på multi-prosess &brandShortName;">
