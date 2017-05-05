@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "सरळ स्क्रॉलिंग वापरात">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "हार्डवेर एक्सलरेशन आसा तेन्ना वापरात">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -118,3 +116,12 @@
 <!ENTITY viewCerts.accesskey             "प">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा उपकरणां">
 <!ENTITY viewSecurityDevices.accesskey   "उ">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "हार्डवेर एक्सलरेशन आसा तेन्ना वापरात">
+<!ENTITY allowHWAccel.accesskey          "r">
