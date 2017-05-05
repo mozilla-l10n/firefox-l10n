@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Utilizar lo desfilament doç">
 <!ENTITY useSmoothScrolling.accesskey    "d">
-<!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
-<!ENTITY allowHWAccel.accesskey          "n">
 
 
 
@@ -118,3 +116,12 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Periferics de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "g">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Utilisar l'acceleracion grafica materiala se disponibla">
+<!ENTITY allowHWAccel.accesskey          "n">
