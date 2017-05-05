@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Desempenho">
+<!ENTITY useRecommendedPerformanceSettings.label "Utilizar definições de desempenho recomendadas">
+<!ENTITY useRecommendedPerformanceSettings.description "As definições de desempenho recomendadas são feitas para o seu computador.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY limitContentProcess.label       "Limite de processos de conteúdo">
+<!ENTITY limitContentProcess.description "Mais processos de conteúdo podem fazer o &brandShortName; mais responsivo ao utilizar múltiplos separadores, mas também irá consumir mais memória.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Se disponível, utilizar aceleração de hardware">
 <!ENTITY allowHWAccel.accesskey          "r">
