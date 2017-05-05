@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "হালনাগাদ যাচাই">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-
+<!ENTITY update.updateButton.label3               "&brandShorterName; হালনাগাদ করতে রিস্টার্ট করুন">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
