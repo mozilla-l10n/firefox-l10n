@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "पृष्ठ के अंदर संचरण के लिए हमेशा कर्सर का प्रयोग करें">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
+<!ENTITY searchOnStartTyping.label       "टाइप शुरू करने के दौरान ही शब्द के लिए खोजें">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 
 
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार स्पर्श वाला कीबोर्ड दिखाएँ">
