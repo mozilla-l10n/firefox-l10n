@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Úsáid mínscrollú">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Seiceáil litriú le linn clóscríofa">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Gléasanna Slándála">
 <!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
+<!ENTITY allowHWAccel.accesskey          "r">

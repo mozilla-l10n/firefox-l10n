@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Ainm an Ghléis">
-<!ENTITY changeSyncDeviceName1.label "Athraigh Ainm an Ghléis">
-<!ENTITY changeSyncDeviceName1.accesskey "h">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Cealaigh">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "g">
 <!ENTITY saveChangeSyncDeviceName.label "Sábháil">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Athraigh an pictiúr próifíle">
 <!ENTITY verifiedManage.label        "Bainistigh mo Chuntas">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect2.label           "Dícheangail">
-<!ENTITY disconnect2.accesskey       "D">
+
+
 <!ENTITY verify.label                "Dearbhaigh an Seoladh Ríomhphoist">
 <!ENTITY verify.accesskey            "D">
 <!ENTITY forget.label                "Déan Dearmad ar an Seoladh Ríomhphoist seo">
