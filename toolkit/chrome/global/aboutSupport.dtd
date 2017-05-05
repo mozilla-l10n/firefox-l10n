@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Informações sobre resolução de problemas">
+<!ENTITY aboutSupport.pageTitle "Informação para resolução de problemas">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
 <!ENTITY aboutSupport.pageSubtitle "  Esta página contém as informações técnicas que podem ser úteis para o ajudar a tentar resolver um problema. Se estiver à procura de respostas a questões comuns sobre o &brandShortName;, aceda ao nosso <a id='supportLink'>website de apoio</a>.">

@@ -224,7 +224,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir tradução de páginas">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Gerir utilização de software DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueou a sua câmera para este website.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Bloqueou a sua câmara para este website.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Bloqueou o seu microfone para este website.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Bloqueou este website de partilhar o seu ecrã.">
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Bloqueou a informação de localização para este website.">
@@ -502,9 +502,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageSourceCmd.accesskey  "V">
 <!ENTITY viewFrameSourceCmd.label     "Ver código fonte do frame">
 <!ENTITY viewFrameSourceCmd.accesskey "V">
-<!ENTITY viewPageInfoCmd.label        "Ver informações da página">
+<!ENTITY viewPageInfoCmd.label        "Ver informação da página">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ver informações do frame">
+<!ENTITY viewFrameInfoCmd.label       "Ver informação do frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY reloadImageCmd.label         "Recarregar imagem">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -582,8 +582,8 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "Sem som">
-<!ENTITY mediaMute.accesskey         "m">
+<!ENTITY mediaMute.label             "Silenciar">
+<!ENTITY mediaMute.accesskey         "S">
 <!ENTITY mediaUnmute.label           "Restaurar">
 <!ENTITY mediaUnmute.accesskey       "s">
 <!ENTITY mediaPlaybackRate2.label     "Velocidade de reprodução">
@@ -645,10 +645,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Ampliar só o texto">
+<!ENTITY fullZoomToggleCmd.label        "Aplicar zoom apenas em texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Ampliação">
-<!ENTITY fullZoom.accesskey             "A">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
 
@@ -676,7 +676,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Estilo de página básico">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Alterar definições de janelas pop-up para este site">
+<!ENTITY pageReportIcon.tooltip            "Alterar definições de bloqueio de pop-ups para este website">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -717,21 +717,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 
 <!ENTITY identity.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
-<!ENTITY identity.passiveLoaded "Partes desta página não são seguras (tais como, imagens).">
-<!ENTITY identity.activeLoaded "A proteção contra monitorização foi desativada por si para esta página.">
+<!ENTITY identity.passiveLoaded "Partes desta página não são seguras (tais como imagens).">
+<!ENTITY identity.activeLoaded "Desativou a proteção nesta página.">
 <!ENTITY identity.weakEncryption "Esta página usa uma encriptação fraca.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. As informações que submeter (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por terceiros.">
+<!ENTITY identity.description.insecure "A sua ligação a este site não é privada. A informação que submeter pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).">
 <!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e podem ser comprometidas.">
-<!ENTITY identity.description.weakCipher "A sua ligação a este site utiliza uma encriptação fraca e não é privada.">
-<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou alterar o comportamento do site.">
+<!ENTITY identity.description.weakCipher "A sua ligação a este website utiliza uma encriptação fraca e não é privada.">
+<!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou modificar o comportamento do website.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
 <!ENTITY identity.description.passiveLoaded "A sua ligação não é privada e a informação que partilha com o site pode ser vista por outros.">
-<!ENTITY identity.description.passiveLoaded2 "Este site contém conteúdo que não é seguro (tais como imagens).">
-<!ENTITY identity.description.passiveLoaded3 "O &brandShortName; bloqueou alguns conteúdos, mas ainda existem elementos na página que não são seguros (como imagens).">
-<!ENTITY identity.description.activeLoaded "Este site contém conteúdo que não é seguro (tais como scripts) e a sua ligação ao mesmo não é privada.">
-<!ENTITY identity.description.activeLoaded2 "As informações que partilhar com este site (tais como palavras-passe, mensagens, cartões de crédito, etc.) podem ser vistas por outros.">
+<!ENTITY identity.description.passiveLoaded2 "Este website contém conteúdo que não é seguro (tal como imagens).">
+<!ENTITY identity.description.passiveLoaded3 "Embora o &brandShortName; tenha bloqueado algum conteúdo, ainda há conteúdo na página que não é seguro (tal como imagens).">
+<!ENTITY identity.description.activeLoaded "Este website contém conteúdo que não é seguro (tal como scripts) e a sua ligação ao mesmo não é privada.">
+<!ENTITY identity.description.activeLoaded2 "A informação que partilhar com este site pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Ativar proteção">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "e">
@@ -756,7 +756,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "Separadores sincronizados">
 
 <!ENTITY syncedTabs.sidebar.label              "Separadores sincronizados">
-<!ENTITY syncedTabs.sidebar.noclients.label    "Inicie a sessão no Firefox a partir dos seus outros dispositivos para ver os seus separadores aqui.">
+<!ENTITY syncedTabs.sidebar.noclients.label    "Inicie sessão no Firefox a partir dos seus outros dispositivos para ver os seus separadores aqui.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Sem separadores sincronizados... ainda!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Pretende ver os seus separadores de outros dispositivos aqui?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Inicie sessão para ver uma lista de separadores a partir dos seus outros dispositivos.">
