@@ -38,8 +38,6 @@
 
 
 
-
-
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 
@@ -52,6 +50,15 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
+
+
+
+
+
+
+
+
+
 
 
 
