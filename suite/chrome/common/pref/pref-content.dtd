@@ -19,7 +19,7 @@
 <!ENTITY useSmoothScroll.label                  "Utilizar deslocação suave">
 <!ENTITY useSmoothScroll.accesskey              "U">
 
-<!ENTITY zoomPrefs.label                        "Opções de ampliação">
+<!ENTITY zoomPrefs.label                        "Opções de zoom">
 <!-- LOCALIZATION NOTE (minZoom.label, maxZoom.label, percent.label):
      single hbox with minZoom.label preceding the minZoom control and
      maxZoom.label preceding the maxZoom control; percent.label shows
@@ -30,9 +30,9 @@
 <!ENTITY maxZoom.accesskey                      "r">
 <!ENTITY percent.label                          "&#037;">
 
-<!ENTITY siteSpecific.label                     "Memorizar nível de ampliação por site">
+<!ENTITY siteSpecific.label                     "Memorizar níveis de zoom numa base por site">
 <!ENTITY siteSpecific.accesskey                 "m">
-<!ENTITY textZoomOnly.label                     "Ampliar apenas o texto em vez de toda a página">
+<!ENTITY textZoomOnly.label                     "Ampliar apenas texto em vez de toda a página">
 <!ENTITY textZoomOnly.accesskey                 "A">
 <!ENTITY enableAutomaticImageResizing.label     "Redimensionar imagens grandes para caberem na janela do navegador">
 <!ENTITY enableAutomaticImageResizing.accesskey "R">
