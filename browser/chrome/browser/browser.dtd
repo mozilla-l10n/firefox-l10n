@@ -921,7 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Nowu kopiju &brandShorterName; sćahnyć">
 
 <!ENTITY updateRestart.message "&brandShorterName; po spěšnym nowym starće wšě waše wočinjene rajtarki a wokna wobnowi.">
-<!ENTITY updateRestart.header.message2 "Startujće znowa, zo byšće &brandShorterName; aktualizował">
+<!ENTITY updateRestart.header.message2 "Startujće znowa, zo byšće &brandShorterName; aktualizował.">
 <!ENTITY updateRestart.acceptButton.label "Znowa startować a wobnowić">
 <!ENTITY updateRestart.acceptButton.accesskey "Z">
 <!ENTITY updateRestart.cancelButton.label "Nic nětko">
