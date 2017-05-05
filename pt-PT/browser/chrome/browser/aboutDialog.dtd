@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Procurar por atualizações">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-
+<!ENTITY update.updateButton.label3               "Reiniciar para atualizar o &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
