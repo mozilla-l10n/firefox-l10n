@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Finom görgetés">
 <!ENTITY useSmoothScrolling.accesskey    "F">
-<!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Helyesírás-ellenőrzés beírás közben">
 <!ENTITY checkUserSpelling.accesskey     "H">
 
@@ -123,3 +121,12 @@
 <!ENTITY viewCerts.accesskey             "T">
 <!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
 <!ENTITY viewSecurityDevices.accesskey   "d">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Hardveres gyorsítás használata, ha lehetséges">
+<!ENTITY allowHWAccel.accesskey          "r">
