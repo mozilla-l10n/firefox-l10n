@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mě rěda">
-<!ENTITY changeSyncDeviceName1.label "Mě rěda změniś">
-<!ENTITY changeSyncDeviceName1.accesskey "z">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Pśetergnuś">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Składowaś">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Profilowy wobraz změniś">
 <!ENTITY verifiedManage.label        "Konto zastojaś">
 <!ENTITY verifiedManage.accesskey    "o">
-<!ENTITY disconnect2.label           "Zwisk źěliś">
-<!ENTITY disconnect2.accesskey       "Z">
+
+
 <!ENTITY verify.label                "E-mail pśeglědaś">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Toś tu e-mail zabyś">
