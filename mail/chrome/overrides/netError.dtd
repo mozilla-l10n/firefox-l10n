@@ -38,7 +38,7 @@
 <!ENTITY notCached.longDesc "<p>O documento pedido não está disponível em cache.</p><ul><li>Por precaução, o &brandShortName; não efetua automaticamente um novo pedido de documentos sensíveis.</li><li>Clique em Tentar novamente para efetuar um novo pedido do documento ao site.</li></ul>">
 
 <!ENTITY netOffline.title "Modo offline">
-<!ENTITY netOffline.longDesc2 "<ul> <li>>Prima &quot;Tentar novamente&quot; para ativar o modo online e recarregar a página.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>>Pressione &quot;Tentar novamente&quot; para ativar o modo online e recarregar a página.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Erro de codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Contacte os proprietários do website para os informar deste problema.</li> </ul>">

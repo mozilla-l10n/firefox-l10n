@@ -240,4 +240,4 @@ because displayed names don't have the comma in between. -->
 <!ENTITY minimizeWindow.label                           "Minimizar">
 <!ENTITY minimizeWindow.key                             "M">
 <!ENTITY bringAllToFront.label                          "Trazer tudo para frente">
-<!ENTITY zoomWindow.label                               "Ampliação">
+<!ENTITY zoomWindow.label                               "Zoom">
