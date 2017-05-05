@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Құрылғы аты">
-<!ENTITY changeSyncDeviceName1.label "Құрылғы атын өзгерту">
-<!ENTITY changeSyncDeviceName1.accesskey "з">
+
+
 <!ENTITY cancelChangeSyncDeviceName.label "Бас тарту">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "т">
 <!ENTITY saveChangeSyncDeviceName.label "Сақтау">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Профиль суретін ауыстыру">
 <!ENTITY verifiedManage.label        "Тіркелгіні басқару">
 <!ENTITY verifiedManage.accesskey    "к">
-<!ENTITY disconnect2.label           "Байланысты үзу">
-<!ENTITY disconnect2.accesskey       "з">
+
+
 <!ENTITY verify.label                "Эл. поштаны растау">
 <!ENTITY verify.accesskey            "р">
 <!ENTITY forget.label                "Бұл эл. поштаны алып тастау">
