@@ -921,9 +921,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; की एक नई प्रति डाउनलोड करें">
 
 <!ENTITY updateRestart.message "त्वरित पुनरारंभ के बाद, &brandShorterName; आपके सभी खुले टैब्स और विंडोज़ को पुनर्स्थापित करेगा.">
-<!ENTITY updateRestart.header.message "अद्यतन को लागू करने के लिए &brandShorterName; को पुनरारंभ करें.">
+
 <!ENTITY updateRestart.acceptButton.label "पुनरारंभ करें और पुनर्स्थिति में लाएँ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अभी नहीं">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "अद्यतन को लागू करने के लिए &brandShorterName; को पुनरारंभ करें.">
+
