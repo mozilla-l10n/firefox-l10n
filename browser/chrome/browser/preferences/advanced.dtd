@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Pólažke pśesuwanje wužywaś">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
-<!ENTITY allowHWAccel.accesskey          "H">
 <!ENTITY checkUserSpelling.label         "Pśi pisanju pšawopis kontrolěrowaś">
 <!ENTITY checkUserSpelling.accesskey     "P">
 
@@ -126,3 +124,12 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Wěstotne rědy">
 <!ENTITY viewSecurityDevices.accesskey   "t">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
+<!ENTITY allowHWAccel.accesskey          "H">
