@@ -25,7 +25,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Ampliar apenas o texto">
+<!ENTITY fullZoomToggleCmd.label        "Aplicar zoom apenas em texto">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Ampliar">
-<!ENTITY fullZoom.accesskey             "m">
+<!ENTITY fullZoom.label                 "Zoom">
+<!ENTITY fullZoom.accesskey             "Z">

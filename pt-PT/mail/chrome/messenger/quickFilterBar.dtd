@@ -241,4 +241,4 @@
      This line will have #1 replaced with what the user has typed so far.
      -->
 
-<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Prima novamente Enter para continuar a pesquisa em: #1">
+<!ENTITY quickFilterBar.glodaUpsell.pressEnterAndCurrent "Pressione novamente 'Enter' para continuar a sua pesquisa por: #1">
