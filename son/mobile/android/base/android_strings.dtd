@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; hayiizey">
 <!ENTITY bookmark_folder_one_item "Hayiize 1">
-
+<!ENTITY bookmark_parent_folder "Ihayra foolo">
 
 <!ENTITY reader_saved_offline "Gaabundi bila nda interneti">
 <!-- Localization note (reader_switch_to_bookmarks) : This
