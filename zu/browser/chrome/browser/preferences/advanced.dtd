@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukwehla wenyuka okushelelayo">
 <!ENTITY useSmoothScrolling.accesskey    "k">
-<!ENTITY allowHWAccel.label              "Sebenzisa ukusheshisa kwehadiwe uma kukhona">
-<!ENTITY allowHWAccel.accesskey          "h">
 
 
 
@@ -118,3 +116,12 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Sebenzisa ukusheshisa kwehadiwe uma kukhona">
+<!ENTITY allowHWAccel.accesskey          "h">
