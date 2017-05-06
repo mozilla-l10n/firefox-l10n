@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Tinklalapis pašalintas iš adresyno">
 <!ENTITY bookmark_updated "Adresyno įrašas atnaujintas">
 <!ENTITY bookmark_options "Savybės">
-
+<!ENTITY bookmark_save "Įrašyti">
 <!ENTITY screenshot_added_to_bookmarks "Ekrano nuotrauka pridėta į adresyną">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; įrašai (-ų)">
 <!ENTITY bookmark_folder_one_item "1 įrašas">
-
+<!ENTITY bookmark_parent_folder "Tėvinis aplankas">
 
 <!ENTITY reader_saved_offline "Išsaugota įrenginyje">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "Pradžios tinklalapis">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Naudoti ir naujoms kortelėms">
 <!ENTITY home_homepage_title "Nustatykite pradžios tinklalapį">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -288,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Leisti programoms atverti svetaines naudojant tinkintą „&brandShortName;“ versiją">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Atverti per „&formatS;“">
+<!ENTITY custom_tabs_menu_footer "Naudojama „&brandShortName;“">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL nukopijuotas">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Veiklos srautas">
@@ -364,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Naudoti sisteminį šrifto dydį">
+<!ENTITY pref_use_system_font_size_summary "Atvaizduoti saityno turinį pagal sisteminį šrifto dydį">
 
 <!ENTITY pref_media_autoplay_enabled "Leisti automatinį grojimą">
 <!ENTITY pref_media_autoplay_enabled_summary "Nustatykite, ar svetainės gali automatiškai paleisti vaizdo įrašus bei kitą medijos turinį">
@@ -494,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Atverti privačiojoje kortelėje">
 <!ENTITY contextmenu_remove "Pašalinti">
 <!ENTITY contextmenu_add_to_launcher "Įtraukti į pradžios ekraną">
-
+<!ENTITY contextmenu_set_as_homepage "Padaryti pradžios tinklalapiu">
 <!ENTITY contextmenu_share "Dalintis">
 <!ENTITY contextmenu_pasteandgo "Įdėti ir atverti">
 <!ENTITY contextmenu_paste "Įdėti">
@@ -563,7 +568,7 @@
 <!ENTITY button_yes "Taip">
 <!ENTITY button_no "Ne">
 <!ENTITY button_clear_data "Valyti duomenis">
-
+<!ENTITY button_set "Nustatyti">
 <!ENTITY button_clear "Išvalyti">
 <!ENTITY button_copy "Kopijuoti">
 
