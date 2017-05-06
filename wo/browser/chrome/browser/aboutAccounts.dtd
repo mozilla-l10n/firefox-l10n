@@ -11,3 +11,4 @@
 <!ENTITY aboutAccounts.noConnection.description "Fàww nga lonku ci Internet ngir man a dugg.">
 <!ENTITY aboutAccounts.noConnection.retry "Jéemaatal">
 <!ENTITY aboutAccounts.badConfig.title "Jekk-jekkal gu baaxul">
+<!ENTITY aboutAccounts.badConfig.description "Gis jekk-jekkalu joxekaayu sa sàqu Firefox jàppandiwul. Jéemaatal ci kanam.">
