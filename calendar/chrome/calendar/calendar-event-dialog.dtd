@@ -214,7 +214,7 @@
 <!ENTITY task.from.label                                  "البداية:" >
 <!ENTITY task.from.accesskey                              "د">
 <!ENTITY event.to.label                                   "النهاية:" >
-<!ENTITY event.to.accesskey                               "ت">
+<!ENTITY event.to.accesskey                               "ن">
 <!ENTITY task.to.label                                    "تاريخ الاستحقاق:" >
 <!ENTITY task.to.accesskey                                "ق">
 <!ENTITY task.status.label                                "الحالة:" >
