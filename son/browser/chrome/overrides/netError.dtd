@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Moo zumandiyan šenday">
 <!ENTITY retry.label "Ceeci koyne">
 <!ENTITY returnToPreviousPage.label "Yee &amp;banda">
-
+<!ENTITY advanced.label "Jinekoyante">
 <!-- Specific error messages -->
 
 
@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "Haya foo kaŋ ši nda fahami se, <p>&brandShortName; ši hin ka moɲoo woo zumandi.</p>">
 
 <!ENTITY captivePortal.title "Huru sankaa ra">
+<!ENTITY captivePortal.longDesc2 "<p>War mma hima ka huru sankaa woo ra jina hala war ma hin ka duu interneti.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Sankaa huruyan tammaasa moɲoo feeri">
 
 <!ENTITY malformedURI.title "Aderesoo woo ši boori">
 <!ENTITY malformedURI.longDesc "<ul> <li>Tataaru aderesey ši doona ka hantumandi sanda <strong>http://www.example.com/</strong></li> <li>War m'alhakiika kaŋ jine žeeri šiirante ši war hantumoo ra (maana ti <strong>/</strong>).</li> </ul>">
