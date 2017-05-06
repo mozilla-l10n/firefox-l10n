@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "اسم الجهاز">
-
-
+<!ENTITY changeSyncDeviceName2.label "غيّر اسم الجهاز…">
+<!ENTITY changeSyncDeviceName2.accesskey "ه">
 <!ENTITY cancelChangeSyncDeviceName.label "ألغِ">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ل">
 <!ENTITY saveChangeSyncDeviceName.label "احفظ">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "غيّر صورة الحساب">
 <!ENTITY verifiedManage.label        "أدِر الحساب">
 <!ENTITY verifiedManage.accesskey    "س">
-
-
+<!ENTITY disconnect3.label           "اقطع الاتصال…">
+<!ENTITY disconnect3.accesskey       "ط">
 <!ENTITY verify.label                "أكّد البريد">
 <!ENTITY verify.accesskey            "ك">
 <!ENTITY forget.label                "انس هذا البريد">

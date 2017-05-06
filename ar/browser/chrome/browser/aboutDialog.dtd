@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "التمس التحديثات">
 <!ENTITY update.checkForUpdatesButton.accesskey   "ت">
-
+<!ENTITY update.updateButton.label3               "أعد التشغيل لتحديث &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "د">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
