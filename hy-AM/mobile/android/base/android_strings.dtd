@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; միույթներ">
 <!ENTITY bookmark_folder_one_item "1 միույթ">
-
+<!ENTITY bookmark_parent_folder "Ծնող թղթապանակ">
 
 <!ENTITY reader_saved_offline "Պահվել է առցանց">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -209,7 +209,7 @@
 <!ENTITY pref_manage_logins "Կառավարել մուտքանունները">
 
 <!ENTITY pref_category_home "Գլխավոր էջ">
-<!ENTITY pref_category_home_summary "Կարգավորել Գլխավոր էջը">
+<!ENTITY pref_category_home_summary "Կազմաձևել Տնային էջը">
 <!ENTITY pref_category_home_panels "Վահանակներ">
 <!ENTITY pref_category_home_add_ons "Հավելումներ">
 <!ENTITY pref_home_updates2 "Բովանդակության թարմացումներ">
@@ -218,7 +218,8 @@
 <!ENTITY pref_category_home_homepage "Տնային էջ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_title "Նշել որպես տնային էջ">
+<!ENTITY home_homepage_every_new_tab "Նաև օգտագործել նոր ներդիրների համար">
+<!ENTITY home_homepage_title "Կայել Տնային էջ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
@@ -288,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Թույլատրել հավելվածներին բացել կայքեր՝ օգտագործելով &brandShortName;-ի ընտելացված տարբերակը">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Բացել &formatS;-ում">
+<!ENTITY custom_tabs_menu_footer "&brandShortName;-ի կողմից">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL-ն պատճենվել է">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Ակտիվության հոսք">
@@ -364,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Օգտ. համակարգային տառատեսակի չափը">
+<!ENTITY pref_use_system_font_size_summary "Սանդղել բովանդակությունը՝ համաձայն համակարգային տառատեսակի չափի">
 
 <!ENTITY pref_media_autoplay_enabled "Թույլատրել ինքնանվագարկումը">
 <!ENTITY pref_media_autoplay_enabled_summary "Վերահսկել, եթե կայքերը փորձեն ինքնանվագարկել տեսանյութեր և այլ մեդիա">
@@ -494,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Բացել Գաղտնի դիտարկմամբ">
 <!ENTITY contextmenu_remove "Ջնջել">
 <!ENTITY contextmenu_add_to_launcher "Պատկերակը հեռախոսի էկրանին">
-
+<!ENTITY contextmenu_set_as_homepage "Կայել որպես Տնային էջ">
 <!ENTITY contextmenu_share "Համօգտագործել">
 <!ENTITY contextmenu_pasteandgo "Մեջբերել և Առաջ">
 <!ENTITY contextmenu_paste "Տեղադրել">
@@ -563,7 +568,7 @@
 <!ENTITY button_yes "Այո">
 <!ENTITY button_no "Ոչ">
 <!ENTITY button_clear_data "Մաքրել տվյալները">
-
+<!ENTITY button_set "Կայել">
 <!ENTITY button_clear "Մաքրել">
 <!ENTITY button_copy "Պատճենել">
 
