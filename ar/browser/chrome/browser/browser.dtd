@@ -792,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "تزامُن">
 
 <!ENTITY syncSignIn.label             "لِج إلى &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "ز">
+<!ENTITY syncSignIn.accesskey         "ل">
 <!ENTITY syncSyncNowItem.label        "زامِن الآن">
 <!ENTITY syncSyncNowItem.accesskey    "ز">
 <!ENTITY syncReAuthItem.label         "أعِد الاتصال مع &syncBrand.shortName.label;…">
