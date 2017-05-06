@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Nana yiyloo kesɗitine">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-
+<!ENTITY update.updateButton.label3               "Huɓɓitde ngam hesɗitinde &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
