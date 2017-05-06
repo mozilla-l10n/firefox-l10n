@@ -927,3 +927,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "&brandShorterName;를 닫고 다시 열어서 업데이트 적용">
 
+<!ENTITY pageActionButton.tooltip "페이지로 할 수 있는 일">

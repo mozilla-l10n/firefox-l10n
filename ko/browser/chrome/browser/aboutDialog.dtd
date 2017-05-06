@@ -25,7 +25,7 @@
 <!ENTITY community.exp.middle       "는  ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "모든 사람이 공공 자원으로서 사용하는 ">
-<!ENTITY community.exp.end          "열린 웹을 만들고자 하는 글로벌 커뮤니티입니다.">
+<!ENTITY community.exp.end          " 열린 웹을 만들고자 하는 글로벌 커뮤니티입니다.">
 
 <!ENTITY community.start2           "&brandShortName;는 모든 사람이 공공 자원으로서 사용하는 열린 웹을 만들고자 하는 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -38,10 +38,10 @@
 <!ENTITY helpus.start               "돕고 싶으십니까? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "기부">
-<!ENTITY helpus.middle              "나 ">
+<!ENTITY helpus.middle              " 를 하시거나 직접 ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "참여">
-<!ENTITY helpus.end                 "하실 수 있습니다!">
+<!ENTITY helpus.end                 "해 보십시오!">
 
 <!ENTITY releaseNotes.link          "새로운 기능">
 
@@ -55,7 +55,7 @@
 <!ENTITY bottomLinks.privacy        "개인 정보 정책">
 
 <!-- LOCALIZATION NOTE (update.checkingForUpdates): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.checkingForUpdates  "업데이트 확인…">
+<!ENTITY update.checkingForUpdates  "업데이트 확인하고 있습니다…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.noUpdatesFound      "&brandShortName; 최신 버전임">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
