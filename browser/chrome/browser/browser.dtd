@@ -925,3 +925,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "E">
 <!ENTITY updateRestart.panelUI.label "Asenna päivitys käynnistämällä &brandShorterName; uudestaan">
 
+<!ENTITY pageActionButton.tooltip "Sivutoiminnot">
