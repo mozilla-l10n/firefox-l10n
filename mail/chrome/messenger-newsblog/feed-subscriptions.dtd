@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "العنوان:">
 <!ENTITY feedTitle.accesskey         "ن">
 
-
+<!ENTITY feedLocation.label          "مسار التلقيمة:">
+<!ENTITY feedLocation.accesskey      "س">
 <!ENTITY feedLocation.placeholder    "أدخل مسار تلقيمات سليم لإضافته">
 <!ENTITY locationValidate.label      "الصلاحية">
 <!ENTITY validateText.label          "تحقق من الصلاحية واجلب مسارا سليما.">
@@ -18,10 +19,12 @@
 <!ENTITY feedFolder.accesskey        "ظ">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
+<!ENTITY biffStart.label             "التمس المقالات الجديدة كلّ ">
+<!ENTITY biffStart.accesskey         "ت">
+<!ENTITY biffMinutes.label           "دقائق">
+<!ENTITY biffMinutes.accesskey       "د">
+<!ENTITY biffDays.label              "أيّام">
+<!ENTITY biffDays.accesskey          "ي">
 
 
 <!ENTITY quickMode.label             "اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
