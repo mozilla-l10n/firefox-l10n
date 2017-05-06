@@ -125,11 +125,11 @@
 <!ENTITY viewSecurityDevices.label       "أجهزة الأمن">
 <!ENTITY viewSecurityDevices.accesskey   "ج">
 
+<!ENTITY useRecommendedPerformanceSettings.label "استعمل إعدادات الأداء المستحسنة">
 
+<!ENTITY useRecommendedPerformanceSettings.accesskey "س">
 
-
-
-
+<!ENTITY limitContentProcess.description "يمكن أن تساهم زيادة سيرورات المحتوى بجعل &brandShortName; أفضل في الاستجابة عند استعمال عدة ألسنة، ولكن ذلك يستهلك ذاكرة أكثر.">
 
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
