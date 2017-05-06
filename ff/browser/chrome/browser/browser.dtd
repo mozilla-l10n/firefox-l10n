@@ -923,7 +923,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.header.message2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
 
-
-
-
+<!ENTITY updateRestart.cancelButton.label "Wonaa Jooni">
+<!ENTITY updateRestart.cancelButton.accesskey "W">
+<!ENTITY updateRestart.panelUI.label "Huɓɓit &brandShorterName; ngam siynude kesɗitinal">
 
