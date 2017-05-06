@@ -12,10 +12,11 @@
 <!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Ցանկի կեղծանունը.">
 <!ENTITY ListNickName.accesskey         "N">
-
-
+<!ENTITY ListDescription.label          "Նկարագրություն.">
+<!ENTITY ListDescription.accesskey      "Ն">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Նշեք էլ. հասցեներ՝ դրանք ավելացնելու համար նամակների ցանկին։">
+<!ENTITY AddressTitle.accesskey         "հ">
 <!ENTITY UpButton.label                 "Վեր">
 <!ENTITY DownButton.label               "Վար">
 

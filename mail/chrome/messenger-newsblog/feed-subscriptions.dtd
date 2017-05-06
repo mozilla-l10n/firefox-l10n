@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Անվանում.">
 <!ENTITY feedTitle.accesskey         "Ա">
 
-
+<!ENTITY feedLocation.label          "Շղթայի URL-ն.">
+<!ENTITY feedLocation.accesskey      "Շ">
 <!ENTITY feedLocation.placeholder    "Նշեք ճիշտ վեբ հղում">
 <!ENTITY locationValidate.label      "Վավերացնել">
 <!ENTITY validateText.label          "Ստուգել և ստանալ ճիշտ վեբ հղում։">
@@ -27,7 +28,8 @@
 <!ENTITY quickMode.label             "Ցուցադրել հոդվածի ընդհանուր պատկերը` վեբ էջի փոխարեն">
 <!ENTITY quickMode.accesskey         "Ց">
 
-
+<!ENTITY autotagEnable.label         "Ինքնաբար ստեղծել պիտակներ՝ շղթաների &lt;անվանակարգի&gt; անուններից">
+<!ENTITY autotagEnable.accesskey     "ա">
 <!ENTITY autotagUsePrefix.label      "Պիտակի նախածանցը.">
 <!ENTITY autotagUsePrefix.accesskey  "Պ">
 <!ENTITY autoTagPrefix.placeholder   "Պիտակի վերջածանցը">
