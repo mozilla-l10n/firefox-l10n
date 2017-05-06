@@ -90,6 +90,7 @@
 <!ENTITY useCacheBefore.accesskey        "ь">
 <!ENTITY useCacheAfter.label             "МБ на диске для кэша">
 <!ENTITY overrideSmartCacheSize.label    "Отключить автоматическое управление кэшем">
+<!ENTITY overrideSmartCacheSize.accesskey "ю">
 <!ENTITY clearCacheNow.label             "Очистить сейчас">
 <!ENTITY clearCacheNow.accesskey         "о">
 
