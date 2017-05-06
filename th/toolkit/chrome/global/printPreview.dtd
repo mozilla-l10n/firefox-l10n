@@ -3,20 +3,20 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY print.label          "พิมพ์…">
-<!ENTITY print.accesskey      "P">
+<!ENTITY print.accesskey      "พ">
 <!ENTITY pageSetup.label      "ตั้งค่าหน้ากระดาษ…">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY pageSetup.accesskey  "ง">
 <!ENTITY page.label           "หน้า:">
-<!ENTITY page.accesskey       "a">
+<!ENTITY page.accesskey       "ห">
 <!ENTITY of.label             "จาก">
 <!ENTITY scale.label          "มาตราส่วน:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.accesskey      "ม">
 <!ENTITY portrait.label       "แนวตั้ง">
-<!ENTITY portrait.accesskey   "o">
+<!ENTITY portrait.accesskey   "ต">
 <!ENTITY landscape.label      "แนวนอน">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "น">
 <!ENTITY close.label          "ปิด">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.accesskey      "ด">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -33,7 +33,7 @@
 <!ENTITY ShrinkToFit.label    "ย่อให้พอดี">
 <!ENTITY customPrompt.title   "มาตราส่วนที่กำหนดเอง…">
 <!ENTITY simplifyPage.label   "หน้าแบบเรียบง่าย">
-<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.accesskey "ร">
 <!ENTITY simplifyPage.enabled.tooltip  "เปลี่ยนเค้าโครงเพื่อการอ่านที่ง่ายขึ้น">
 <!ENTITY simplifyPage.disabled.tooltip "หน้านี้ไม่สามารถทำให้เรียบง่ายได้โดยอัตโนมัติ">
 
