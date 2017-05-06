@@ -343,7 +343,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY appMenuCustomize.label "Προσαρμογή">
 <!ENTITY appMenuCustomize.tooltip "Προσαρμογή του μενού και των γραμμών εργαλείων">
-<!ENTITY appMenuCustomizeExit.label "Έξοδος">
+<!ENTITY appMenuCustomizeExit.label "Τέλος προσαρμογής">
 <!ENTITY appMenuCustomizeExit.tooltip "Ολοκλήρωση προσαρμογής">
 <!ENTITY appMenuHistory.label "Ιστορικό">
 <!ENTITY appMenuHistory.showAll.label "Προβολή όλου του ιστορικού">
