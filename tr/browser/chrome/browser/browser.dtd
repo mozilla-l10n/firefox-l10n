@@ -908,7 +908,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "G">
 <!ENTITY updateAvailable.cancelButton.label "Daha sonra">
 <!ENTITY updateAvailable.cancelButton.accesskey "D">
-<!ENTITY updateAvailable.panelUI.label "&brandShortName; güncellemesini indir">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; güncellemesini indir">
 
 <!ENTITY updateManual.message "Önce yeni &brandShorterName; kopyanızı indirin. Yüklemenize yardım edeceğiz.">
 <!ENTITY updateManual.whatsnew.label "Yeniliklere bakın.">
@@ -925,6 +925,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "b">
 <!ENTITY updateRestart.cancelButton.label "Daha sonra">
 <!ENTITY updateRestart.cancelButton.accesskey "D">
-<!ENTITY updateRestart.panelUI.label "Güncellemek için &brandShortName; tarayıcısını yeniden başlat">
+<!ENTITY updateRestart.panelUI.label "&brandShorterName; tarayıcısını yeniden başlat ve güncelle">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
