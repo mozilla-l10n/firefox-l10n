@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Axıcı sürüşdürmədən istifadə et">
 <!ENTITY useSmoothScrolling.accesskey    "c">
-<!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Hərf səhvləriniz siz yazdıqca yoxlanılsın">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -90,6 +88,7 @@
 <!ENTITY useService.accesskey            "a">
 
 
+<!ENTITY reports.label                   "Raportlar">
 
 <!ENTITY offlineStorageNotify.label               "Sayt oflayn istifadə üçün məlumat saxlamaq istədiyində mənə bildir">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -113,3 +112,6 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
 <!ENTITY viewSecurityDevices.accesskey   "C">
+
+<!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
+<!ENTITY allowHWAccel.accesskey          "d">
