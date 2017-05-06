@@ -4,6 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "Dalal-jàmm ci &syncBrand.shortName.label;">
 
+<!ENTITY aboutAccountsConfig.description "Duggal ngir lonkale say làcc, màndarga-xët, baatu-jàll ak yeneen.">
 <!ENTITY aboutAccountsConfig.startButton.label "Tàmbali">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "Jekk-jekkali Sync">
 <!ENTITY aboutAccounts.noConnection.title "Amul lonkoo">
