@@ -921,10 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; жаңа нұсқасын жүктеп алыңыз">
 
 <!ENTITY updateRestart.message "Жылдам қайта іске қосылудан кейін, &brandShorterName; сіздің ашық беттер мен терезелеріңізді қалпына келтіреді.">
-
+<!ENTITY updateRestart.header.message2 "&brandShorterName; жаңарту үшін қайта іске қосыңыз.">
 <!ENTITY updateRestart.acceptButton.label "Қайта іске қосу және қалпына келтіру">
 <!ENTITY updateRestart.acceptButton.accesskey "т">
 <!ENTITY updateRestart.cancelButton.label "Қазір емес">
 <!ENTITY updateRestart.cancelButton.accesskey "м">
 <!ENTITY updateRestart.panelUI.label "Жаңартуды іске асыру үшін, &brandShorterName; қайта іске қосыңыз">
 
+<!ENTITY pageActionButton.tooltip "Бет әрекеттері">
