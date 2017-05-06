@@ -6,10 +6,10 @@
 <!-- Edit menu items -->
 
 
-
-
-
-
+<!ENTITY pasteAs.label "Қалайша кірістіру">
+<!ENTITY pasteAs.accesskey "а">
+<!ENTITY pasteAsQuotationCmd.label "Дәйексөз ретінде кірістіру">
+<!ENTITY pasteAsQuotationCmd.accesskey "Д">
 
 <!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findReplaceCmd.label "Табу және алмастыру…">
@@ -122,10 +122,11 @@
 
 
 
+<!ENTITY styleVar.label "Айнымалы">
+<!ENTITY styleVar.accesskey "А">
 
-
-
-
+<!ENTITY formatFontColor.label "Мәтін түсі…">
+<!ENTITY formatFontColor.accesskey "с">
 
 
 
@@ -190,13 +191,14 @@
 <!-- Layer toolbar items -->
 
 <!ENTITY layer.tooltip "Қабат">
-
+<!ENTITY layerSendToBack.tooltip "Артқа жіберу">
 <!ENTITY layerBringToFront.tooltip "Алға шығару">
 
-
+<!ENTITY increaseIndent.label "Шегінуді үлкейту">
+<!ENTITY increaseIndent.accesskey "л">
 <!ENTITY increaseIndent.key "]">
-
-
+<!ENTITY decreaseIndent.label "Шегiнiстi азайту">
+<!ENTITY decreaseIndent.accesskey "з">
 <!ENTITY decreaseIndent.key "[">
 
 
