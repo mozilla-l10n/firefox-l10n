@@ -902,16 +902,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ɓeydu humpito baɗte DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Ƴeew ko hesɗi.">
+
+<!ENTITY updateAvailable.acceptButton.label "Aawto Kesɗitinal">
+<!ENTITY updateAvailable.acceptButton.accesskey "A">
 
 
 
 
-
-
-
-
-
-
+<!ENTITY updateManual.message "Aawto tumbitere hesere &brandShorterName; min mballu maa ɗum aafde.">
+<!ENTITY updateManual.whatsnew.label "Ƴeew ko hesɗi.">
+<!ENTITY updateManual.header.message "&brandShorterName; roŋkii aafde tumbitere hesere nde.">
 
 
 
