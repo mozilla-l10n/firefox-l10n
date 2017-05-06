@@ -15,8 +15,8 @@
 
 <!ENTITY  paneSearchResults.title       "검색 결과">
 <!ENTITY  paneGeneral.title             "일반">
-<!ENTITY  paneFilesApplications.title   "파일 &amp; 어플리케이션">
-<!ENTITY  panePrivacySecurity.title     "개인 정보 &amp; 보안">
+<!ENTITY  paneFilesApplications.title   "파일 및 애플리케이션">
+<!ENTITY  panePrivacySecurity.title     "개인 정보 및 보안">
 <!ENTITY  paneContainers.title          "포함 탭">
 <!ENTITY  paneUpdates.title             "업데이트">
 
