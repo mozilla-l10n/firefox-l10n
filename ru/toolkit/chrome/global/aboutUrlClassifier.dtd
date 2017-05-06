@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Информация о url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Провайдер">
+<!ENTITY aboutUrlClassifier.provider                    "Провайдер">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Время последнего обновления">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Время следующего обновления">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус последнего обновления">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Обновить">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Поиск">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Совпадение">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Проверить результат совпадения">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Поиск">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Проверить результаты поиска">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Память">
+<!ENTITY aboutUrlClassifier.databaseTitle               "База данных">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Отладка">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Указать модули лога">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Указать файл лога">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Установить лог JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Модули лога безопасного веб-сёрфинга">
+<!ENTITY aboutUrlClassifier.debugModules                "Текущие модули логирования">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Лог JS безопасного веб-сёрфинга">
+<!ENTITY aboutUrlClassifier.debugFile                   "Текущий файл лога">
