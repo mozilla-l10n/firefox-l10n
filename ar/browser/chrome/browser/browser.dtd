@@ -584,7 +584,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "اكتم الصوت">
 <!ENTITY mediaMute.accesskey         "ك">
-<!ENTITY mediaUnmute.label           "أطلق الصوت">
+<!ENTITY mediaUnmute.label           "أطلِق الصوت">
 <!ENTITY mediaUnmute.accesskey       "ط">
 <!ENTITY mediaPlaybackRate2.label     "سرعة التشغيل">
 <!ENTITY mediaPlaybackRate2.accesskey "ت">
