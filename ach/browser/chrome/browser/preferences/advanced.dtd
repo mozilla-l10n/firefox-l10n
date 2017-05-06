@@ -125,9 +125,10 @@
 <!ENTITY viewSecurityDevices.label       "Nyonyo me ber bedo">
 <!ENTITY viewSecurityDevices.accesskey   "o">
 
-
-
-
+<!ENTITY performance.label               "Tic">
+<!ENTITY useRecommendedPerformanceSettings.label "Tii ki ter me tic ma kicimo.">
+<!ENTITY useRecommendedPerformanceSettings.description "Kiyubo ter me tic ma kicimo ma rwate ki kompuita mamegi.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "T">
 
 
 

@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nying Nyonyo">
-
-
+<!ENTITY changeSyncDeviceName2.label "Lok nying nyonyo…">
+<!ENTITY changeSyncDeviceName2.accesskey "o">
 <!ENTITY cancelChangeSyncDeviceName.label "Ngol">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "o">
 <!ENTITY saveChangeSyncDeviceName.label "Gwoki">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Lok cal me propwail">
 <!ENTITY verifiedManage.label        "Lo Akaunt">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "Juk kube…">
+<!ENTITY disconnect3.accesskey       "J">
 <!ENTITY verify.label                "Mok ada pa email">
 <!ENTITY verify.accesskey            "M">
 <!ENTITY forget.label                "Wek wiyi owil ikom email man">
