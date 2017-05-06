@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Kikwanyo woko Alama me buk">
 <!ENTITY bookmark_updated "Kimedo Alama me buk">
 <!ENTITY bookmark_options "Me ayera">
-
+<!ENTITY bookmark_save "Gwoki">
 <!ENTITY screenshot_added_to_bookmarks "Cal me wang kio kimedo i alama me buk">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "Potbuk me gang">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Bene tic pa dirica matidi manyen">
 <!ENTITY home_homepage_title "Ter potbuk me gang">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -285,8 +286,10 @@
 
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Yab i &formatS;">
+<!ENTITY custom_tabs_menu_footer "Lamiyo ne aye &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Kiloko URL">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
@@ -488,7 +491,7 @@
 <!ENTITY contextmenu_open_private_tab "Yab i dirica matidi me mung">
 <!ENTITY contextmenu_remove "Kwany">
 <!ENTITY contextmenu_add_to_launcher "Med I gang Kio ma neno">
-
+<!ENTITY contextmenu_set_as_homepage "Ter calo potbuk me gang">
 <!ENTITY contextmenu_share "Nywak">
 <!ENTITY contextmenu_pasteandgo "Mwon ka iciti">
 <!ENTITY contextmenu_paste "Dani">
@@ -557,7 +560,7 @@
 <!ENTITY button_yes "Eyo">
 <!ENTITY button_no "Pe/Ku">
 <!ENTITY button_clear_data "Ywe tic">
-
+<!ENTITY button_set "Ter">
 <!ENTITY button_clear "Jwa">
 <!ENTITY button_copy "Lok">
 
