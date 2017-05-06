@@ -12,9 +12,9 @@
 
 <!ENTITY orientation.label   "ทิศทาง:">
 <!ENTITY portrait.label      "แนวตั้ง">
-<!ENTITY portrait.accesskey  "ต">
+<!ENTITY portrait.accesskey  "น">
 <!ENTITY landscape.label     "แนวนอน">
-<!ENTITY landscape.accesskey "น">
+<!ENTITY landscape.accesskey "ว">
 
 <!ENTITY scale.label         "มาตราส่วน:">
 <!ENTITY scale.accesskey     "ม">
