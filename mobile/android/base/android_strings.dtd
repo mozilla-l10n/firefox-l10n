@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; من العناصر">
 <!ENTITY bookmark_folder_one_item "عنصر واحد">
-
+<!ENTITY bookmark_parent_folder "المجلد الأب">
 
 <!ENTITY reader_saved_offline "حُفظ للاستخدام دون اتصال">
 <!-- Localization note (reader_switch_to_bookmarks) : This
