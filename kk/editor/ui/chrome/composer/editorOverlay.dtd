@@ -201,7 +201,8 @@
 <!ENTITY decreaseIndent.accesskey "з">
 <!ENTITY decreaseIndent.key "[">
 
-
+<!ENTITY colorsAndBackground.label "Бет түсі және фон…">
+<!ENTITY colorsAndBackground.accesskey "ф">
 <!-- Table Menu -->
 
 <!ENTITY tableMenu.label "Кесте">
