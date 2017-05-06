@@ -79,12 +79,12 @@
 
 
 <!ENTITY propertiesCmd.key                              "i">
-
-
-
-
-
-
+<!ENTITY abPropertiesMenu.label                         "Manzillar kitobni xossalari">
+<!ENTITY abPropertiesMenu.accesskey                     "x">
+<!ENTITY contactPropertiesMenu.label                    "Kontakt xossalari">
+<!ENTITY contactPropertiesMenu.accesskey                "x">
+<!ENTITY mailingListPropertiesMenu.label                "Yozishmalar ro‘yxati xossalari">
+<!ENTITY mailingListPropertiesMenu.accesskey            "Y">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Ko‘rinishi">
@@ -140,17 +140,17 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "k">
 <!ENTITY newlistButton.label                            "Yangi ro‘yxat">
 <!ENTITY newlistButton.accesskey                        "r">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY showAsDefault.label                            "Asosiy ishga tushish jildi">
+<!ENTITY showAsDefault.accesskey                        "i">
+<!ENTITY editPropertiesButton.label                     "Tahrirlash">
+<!ENTITY propertiesContext.label                        "Xossalari">
+<!ENTITY propertiesContext.accesskey                    "X">
+<!ENTITY abPropertiesContext.label                      "Xossalari">
+<!ENTITY abPropertiesContext.accesskey                  "X">
+<!ENTITY editContactContext.label                       "Kontaktni tahrirlash">
+<!ENTITY editContactContext.accesskey                   "t">
+<!ENTITY editMailingListContext.label                   "Ro‘yxatni tahrirlash">
+<!ENTITY editMailingListContext.accesskey               "t">
 <!ENTITY newmsgButton.label                             "Yozish">
 <!ENTITY newmsgButton.accesskey                         "Y">
 <!ENTITY newIM.label                                    "Qisqa xabar">
@@ -164,9 +164,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Yangi manzil kitobi kontaktini yaratish">
 <!ENTITY newlistButton.tooltip                          "Yangi ro‘yxat yaratish">
 <!ENTITY editPropertiesButton.tooltip                   "Tanlanganni tahrir qilish">
-
-
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Tanlangan manzillar kitobining xossalarini tahrirlash">
+<!ENTITY editContactPropertiesButton.tooltip            "Tanlangan kontaktni tahrir qilish">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Tanlangan yozishmalar ro‘yxatini tahrirlash">
 <!ENTITY newmsgButton.tooltip                           "E-pochta orqali xabar jo‘natish">
 <!ENTITY newIM.tooltip                                  "Qisqa xabar jo‘natish yoki chat orqali gaplashish">
 <!ENTITY deleteButton2.tooltip                          "Tanlanganni o‘chirish">
