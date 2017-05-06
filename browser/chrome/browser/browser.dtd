@@ -917,9 +917,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateManual.panelUI.label "Aawto tumbitere &brandShorterName; hesere">
 
-
-
+<!ENTITY updateRestart.message "Caggal kuɓɓitgol jaawngol &brandShorterName; maa artir tabbe e kenorɗe maa fof.">
+<!ENTITY updateRestart.header.message2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
 
 
