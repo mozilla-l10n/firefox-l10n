@@ -127,6 +127,8 @@
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY limitContentProcess.label       "컨텐트 프로세스 제한">
+<!ENTITY limitContentProcess.description
+                                         "컨텐트 프로세스가 늘어나면 늘어날수록 탭을 많이 열어도 &brandShortName;가 빠릿빠릿하나 메모리도 더 많이 먹습니다.">
 <!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "하드웨어 가속이 가능하면 사용">
 <!ENTITY allowHWAccel.accesskey          "r">
