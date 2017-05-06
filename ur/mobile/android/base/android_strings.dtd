@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "نشانی ہٹا دی گئی">
 <!ENTITY bookmark_updated "نشانی تازہ ہوگئی">
 <!ENTITY bookmark_options "اختیارات">
-
+<!ENTITY bookmark_save "محفوظ کریں">
 <!ENTITY screenshot_added_to_bookmarks "نشانیاں میں سکرین شاٹ کا اضافہ کردیا گیا">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
