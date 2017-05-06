@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; ta element">
 <!ENTITY bookmark_folder_one_item "1 ta element">
-
+<!ENTITY bookmark_parent_folder "Yuqori jild">
 
 <!ENTITY reader_saved_offline "Qurilma xotirasiga saqlandi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
