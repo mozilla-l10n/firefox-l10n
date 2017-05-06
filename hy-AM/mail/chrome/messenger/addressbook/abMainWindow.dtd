@@ -165,7 +165,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newlistButton.tooltip                          "Ստեղծել նոր ցանկ">
 <!ENTITY editPropertiesButton.tooltip                   "Խմբագրել ընտրվածը">
 
-
+<!ENTITY editContactPropertiesButton.tooltip            "Խմբագրել ընտրվածը">
 
 <!ENTITY newmsgButton.tooltip                           "Ուղարկել նամակը">
 <!ENTITY newIM.tooltip                                  "Ուղարկել անմիջական նամակը">

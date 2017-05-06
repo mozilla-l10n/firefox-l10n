@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "R">
 <!ENTITY compactVersion.label "Հավաք տեսք">
 <!ENTITY compactVersion.accesskey "Հ">
-
-
+<!ENTITY folderPaneBar.label "Թղթապանակի գործիքագոտի">
+<!ENTITY folderPaneBar.accesskey "Թ">
 <!ENTITY folderModeSelector.label "Թղթապանակի դիտումներ">
 <!-- Sort Menu -->
 
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "F">
 <!ENTITY sortByRecipientCmd.label "Ստացողը">
 <!ENTITY sortByRecipientCmd.accesskey "c">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Բաժանորդներ">
+<!ENTITY sortByCorrespondentCmd.accesskey "դ">
 <!ENTITY sortByUnreadCmd.label "Ընթերցել">
 <!ENTITY sortByUnreadCmd.accesskey "R">
 <!ENTITY sortByOrderReceivedCmd.label "Ստանալու կարգի">
@@ -511,6 +511,8 @@
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!-- Mail Toolbar -->
