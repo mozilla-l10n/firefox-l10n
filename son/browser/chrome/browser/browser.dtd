@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Šennikufal gaabu alhabar fasaldoo feeri">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sukari goyyan juwal">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Bayhayey jiši jišiyan duumante ra">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "War jindezaahayaa žemnayanoo nda nungoo juwal">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "War na gorodoo alhabar gagay interneti nungoo woo se.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "War na bayhaya jišiyan gagay interneti nungoo woo se.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "War na bangandiyaney gagay interneti nungoo woo se.">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "War na bayhaya jišiyan duumante gagay interneti nungoo woo se.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taariki cebe">
 
@@ -902,26 +902,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Bay ka tonton DRM ga…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "War &brandShorterName; taagandi haya kul itejey cahãri nda sutura ra.">
 <!ENTITY updateAvailable.whatsnew.label "Dii haya taagey.">
-
-
-
+<!ENTITY updateAvailable.header.message "&brandShorterName; taagandiri taaga foo ga bara.">
+<!ENTITY updateAvailable.acceptButton.label "Taagandiri zumandi">
+<!ENTITY updateAvailable.acceptButton.accesskey "d">
 <!ENTITY updateAvailable.cancelButton.label "Manti sohõ">
 <!ENTITY updateAvailable.cancelButton.accesskey "M">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; taagandiroo zumandi">
 
+<!ENTITY updateManual.message "Nda war ga &brandShorterName; dumi teji foo zumandi, ir ga war faaba k'a sinji.">
 <!ENTITY updateManual.whatsnew.label "Dii haya taagey.">
 <!ENTITY updateManual.header.message "&brandShorterName; ši hin ka taagandi dumi kokorantaa se.">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; zumandi">
+<!ENTITY updateManual.acceptButton.accesskey "d">
+<!ENTITY updateManual.cancelButton.label "Manti sohõ">
+<!ENTITY updateManual.cancelButton.accesskey "n">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; dumi teji foo zumandi">
 
+<!ENTITY updateRestart.message "Tunandiyan cahãnte banda ga, &brandShorterName; ga war kanji nda zanfun feerantey kul yeeri.">
+<!ENTITY updateRestart.header.message2 "Tunandi taaga ka &brandShorterName; taagandi.">
+<!ENTITY updateRestart.acceptButton.label "Tunandi taaga nda yeeri">
+<!ENTITY updateRestart.acceptButton.accesskey "T">
+<!ENTITY updateRestart.cancelButton.label "Manti sohõ">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label "&brandShorterName; tunandi taaga ka taagandiroo kanandi">
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pageActionButton.tooltip "Moo goyey">

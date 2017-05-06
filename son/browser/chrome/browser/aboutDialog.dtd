@@ -10,7 +10,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Taagandirey ceeci">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-
+<!ENTITY update.updateButton.label3               "Tunandi taaga ka &brandShorterName; taagandi">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
