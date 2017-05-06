@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Қауіпсіздік құрылғылары">
 <!ENTITY viewSecurityDevices.accesskey   "ы">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Өнімділік">
+<!ENTITY useRecommendedPerformanceSettings.label "Ұсынылатын өнімділік баптауларын қолдану">
+<!ENTITY useRecommendedPerformanceSettings.description "Ұсынылатын өнімділік баптаулары сіздің компьютеріңіз үшін ыңғайлатылған.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "д">
+<!ENTITY limitContentProcess.label       "Құрама процестерінің шегі">
+<!ENTITY limitContentProcess.description "Көбірек құрама процестері &brandShortName; бірнеше беттерді қолдану кезінде жылдамырақ қыла алады, бірақ, нәтижесінде көбірек жады қолданылады.">
+<!ENTITY limitContentProcess.accesskey   "ш">
 <!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey          "д">
