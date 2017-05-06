@@ -49,7 +49,7 @@
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>تواصَل رجاءً مع مالكي الموقع لإخبارهم عن هذه المشكلة.</li> </ul>">
 
-<!ENTITY unsafeContentType.title "نوع الملف غير آمن">
+<!ENTITY unsafeContentType.title "نوع ملف غير آمن">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>تواصَل رجاءً مع مالكي الموقع لإخبارهم عن هذه المشكلة.</li> </ul>">
 
 <!ENTITY netReset.title "صُفّر الاتصال">
