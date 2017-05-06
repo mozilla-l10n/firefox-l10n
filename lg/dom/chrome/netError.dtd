@@ -34,7 +34,7 @@
 <!ENTITY notCached.longDesc "<p>Ekiwandiko ekyisabiddwa tekiriwo muterekero lye'enonyeso.</p><ul><li>Nga ekyokwerinda, enonyeso tewereza yoka ebiwandiko ebyekika ekyo.</li><li>Koona, Ddamu Nate  okusaba nate ekiwandiko okuva ku kyapa wekiri.</li></ul>">
 
 <!ENTITY netOffline.title "Toli ku nkola y'Ekintu">
-<!ENTITY netOffline.longDesc2 "<p>Akanoonya kakolera ku lutimbe naye teluliiko n`olw`ekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>Nyiiga &quot; Gezako Nate&quot; okuyungibwa nate odemu otike omuko.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<p>Akanoonya kakolera ku lutimbe naye teluliiko nolwekyo tekayinza kuyunga ku kintu ekisabiddwa.</p><ul><li>Kompyuta yo eyungiddwa ku mpuliriziganya ekola?</li><li>Nyiiga &quot; Gezako Nate&quot; okuyungibwa nate odemu otike omuko.</li></ul>">
 
 <!ENTITY contentEncodingError.title "Ensobi mu kulongoosa Ebirimu">
 <!ENTITY contentEncodingError.longDesc "<p>Omuko gw'ogezaako okulaba tegusobola kulagibwa kubanga gukozesa ennyiga yo lugo etewagiddwa oba tekkirizidwa.</p><ul><li>Bambi tegeeza bannannyini mukutu gw'ekyapa obabuulire obuzibu buno.</li></ul>">
