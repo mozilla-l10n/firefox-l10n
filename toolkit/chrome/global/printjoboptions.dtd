@@ -7,10 +7,10 @@
 <!ENTITY printJobOptions.title "คุณสมบัติเครื่องพิมพ์">
 
 <!ENTITY paperInput.label "ขนาดกระดาษ:">
-<!ENTITY paperInput.accesskey "P">
+<!ENTITY paperInput.accesskey "น">
 
 <!ENTITY jobTitleInput.label "ชื่องาน:">
-<!ENTITY jobTitleInput.accesskey "ห">
+<!ENTITY jobTitleInput.accesskey "ง">
 
 <!ENTITY colorGroup.label "สี:">
 <!ENTITY grayRadio.label "ระดับเทา">
