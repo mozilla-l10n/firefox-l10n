@@ -928,3 +928,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "ل">
 <!ENTITY updateRestart.panelUI.label "أعد تشغيل &brandShorterName; لتطبيق التحديث">
 
+<!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
