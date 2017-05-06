@@ -901,6 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM에 대해 더 알아보기…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "가장 빠르고 안전한 &brandShorterName;로 업데이트하십시오.">
 <!ENTITY updateAvailable.whatsnew.label "새 기능 살펴보기.">
 <!ENTITY updateAvailable.header.message "&brandShorterName; 에 새 업데이트가 있습니다.">
 <!ENTITY updateAvailable.acceptButton.label "업데이트 내려받기">

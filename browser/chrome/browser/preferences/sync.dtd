@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "기기 이름">
+<!ENTITY changeSyncDeviceName2.label "기기 이름 바꾸기…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "취소">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "저장">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "프로필 사진 변경">
 <!ENTITY verifiedManage.label        "계정 관리">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "연결 끊기…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "이메일 인증">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "이 이메일 없애기">
