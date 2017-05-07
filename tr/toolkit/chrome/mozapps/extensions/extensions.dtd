@@ -26,7 +26,7 @@
 <!ENTITY cmd.back.tooltip                     "Önceki sayfaya git">
 <!ENTITY cmd.forward.tooltip                  "Sonraki sayfaya git">
 
-<!ENTITY showUnsignedExtensions.button.label  "Bazı uzantılar doğrulanamadı">
+<!ENTITY showUnsignedExtensions.button.label  "Bazı eklentiler doğrulanamadı">
 <!ENTITY showAllExtensions.button.label       "Tüm uzantıları göster">
 <!ENTITY debugAddons.label                    "Eklentilerde hata ayıkla">
 <!ENTITY debugAddons.accesskey                "h">
