@@ -205,7 +205,7 @@
 <!ENTITY event.categories.textbox.label                   "أضف فئة جديدة" >
 <!ENTITY event.calendar.label                             "التقويم:" >
 <!ENTITY event.calendar.accesskey                         "ت">
-<!ENTITY event.attendees.label                            "الحضور" >
+<!ENTITY event.attendees.label                            "الحضور:" >
 <!ENTITY event.attendees.accesskey                        "ض">
 <!ENTITY event.alldayevent.label                          "حدث طوال اليوم" >
 <!ENTITY event.alldayevent.accesskey                      "ط">
