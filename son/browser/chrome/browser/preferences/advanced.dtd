@@ -99,6 +99,7 @@
 <!ENTITY enableSearchUpdate2.label       "Ceecijinawey ma taagandi ngi boŋ se">
 <!ENTITY enableSearchUpdate2.accesskey   "a">
 
+<!ENTITY reports.label                   "Bayrandey">
 
 <!ENTITY offlineStorageNotify.label               "Har war se waati kaŋ interneti nungu ga hãa ka bayhayey jiši bila nda interneti-ciyari">
 <!ENTITY offlineStorageNotify.accesskey           "H">
@@ -112,7 +113,7 @@
 <!ENTITY offlineAppRemove.confirm        "Bila-nda-ciyari kaa">
 
 <!ENTITY certificateTab.label            "Tabatiyan-tiirawey">
-
+<!ENTITY certPersonal2.description       "Waati kaŋ feršikaw n'ay boŋ tabatiyan-tiiraa wiri">
 <!ENTITY selectCerts.auto                "Affoo suuba boŋse">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Hãa waati foo kul">
@@ -124,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Saajaw jinawey">
 <!ENTITY viewSecurityDevices.accesskey   "w">
 
+<!ENTITY performance.label               "Teeyan sahã">
+<!ENTITY useRecommendedPerformanceSettings.label "Goy nda goy sahã kayandiyan yaamarantey">
+<!ENTITY useRecommendedPerformanceSettings.description "Goy sahã kayandiyan yaamarantey n' ka fasal war ordinateroo se.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "o">
+<!ENTITY limitContentProcess.label       "Gundekuna goyandiyan adadu">
 
-
-
-
-
-
+<!ENTITY limitContentProcess.accesskey   "d">
 <!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
 <!ENTITY allowHWAccel.accesskey          "j">
