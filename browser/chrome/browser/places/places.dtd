@@ -66,7 +66,7 @@
 <!ENTITY cmd.new_bookmark.accesskey        "ม">
 <!ENTITY cmd.new_folder.label              "โฟลเดอร์ใหม่…">
 <!ENTITY cmd.new_folder.accesskey          "ฟ">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.context_new_folder.accesskey  "ฟ">
 <!ENTITY cmd.new_separator.label           "ตัวแบ่งใหม่">
 <!ENTITY cmd.new_separator.accesskey       "บ">
 
