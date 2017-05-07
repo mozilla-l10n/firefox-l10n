@@ -402,7 +402,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
-<!ENTITY urlbar.extension.label       "Uzantı:">
+<!ENTITY urlbar.extension.label       "Eklenti:">
 <!ENTITY urlbar.switchToTab.label     "Geçilecek sekme:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Arama deneyiminizi önerilerle geliştirmek ister misiniz?">
