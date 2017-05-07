@@ -4,4 +4,4 @@
 <!-- This string should be kept in sync with the home_title string
      in android_strings.dtd -->
 
-<!ENTITY abouthome.title                  "صفحة بداية &brandShortName;">
+<!ENTITY abouthome.title                  "صفحة &brandShortName; الرئيسية">
