@@ -4,9 +4,9 @@
 <!--LOCALIZATION NOTE printProgress.dtd Main UI for Print Progress Dialog -->
 
 <!ENTITY printWindow.title "Баспаға шығару"> 
-<!ENTITY title    "Тақырыбы..."> 
+<!ENTITY title    "Тақырыбы:"> 
 <!ENTITY progress "Прогресс:">
-<!ENTITY preparing "Дайындау...">
+<!ENTITY preparing "Дайындау…">
 <!ENTITY printComplete "Баспаға шығару аяқталды">
 
 <!ENTITY dialogCancel.label "Бас тарту"> 

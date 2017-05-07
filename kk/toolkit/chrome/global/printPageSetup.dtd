@@ -60,7 +60,7 @@
 <!ENTITY hfPage              "Парақ нөмірі">
 <!ENTITY hfPageAndTotal      "Парақ #, барлығы #">
 <!ENTITY hfBlank             "--бос--">
-<!ENTITY hfCustom            "Баптау...">
+<!ENTITY hfCustom            "Баптау…">
 
-<!ENTITY customPrompt.title  "Баптау...">
+<!ENTITY customPrompt.title  "Баптау…">
 <!ENTITY customPrompt.prompt "Өзіңіздің колонтитул мәтінің енгізіңіз">

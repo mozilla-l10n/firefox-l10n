@@ -63,8 +63,8 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
-<!ENTITY openLocationCmd.label "Адресті ашу...">
-<!ENTITY openFileCmd.label "Файлды ашу...">
+<!ENTITY openLocationCmd.label "Адресті ашу…">
+<!ENTITY openFileCmd.label "Файлды ашу…">
 <!ENTITY openFileCmd.accesskey "Ф">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "Парақ баптаулары…">

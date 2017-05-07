@@ -8,7 +8,7 @@
 
 <!ENTITY  openWith.label              "Көмегімен ашу">
 <!ENTITY  openWith.accesskey          "ш">
-<!ENTITY  other.label                 "Таңдау...">
+<!ENTITY  other.label                 "Таңдау…">
 
 <!ENTITY  saveFile.label              "Файлды сақтау">
 <!ENTITY  saveFile.accesskey          "с">
@@ -18,9 +18,9 @@
 
 <!ENTITY  whichIs.label              "қайсысы:">
 
-<!ENTITY  chooseHandlerMac.label      "Таңдау...">
+<!ENTITY  chooseHandlerMac.label      "Таңдау…">
 <!ENTITY  chooseHandlerMac.accesskey  "Т">
-<!ENTITY  chooseHandler.label         "Қарап шығу...">
+<!ENTITY  chooseHandler.label         "Қарап шығу…">
 <!ENTITY  chooseHandler.accesskey     "ш">
 
 <!ENTITY  unknownPromptText.label     "Осы файлды сақтауды қалайсыз ба?">
