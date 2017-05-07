@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informasjon om url-klassifiseraren">
+<!ENTITY aboutUrlClassifier.providerTitle               "Leverandør">
+<!ENTITY aboutUrlClassifier.provider                    "Leverandør">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Sist oppdatert">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Neste oppdatering">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Slå opp">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Treff">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller treffresultat">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Slå opp">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller søkeresultat">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Feilretting">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Spesifiser loggmodular">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Spesifiser loggfil">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Spesifiser JS-logg">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Loggmodular for sikker surfing">
+<!ENTITY aboutUrlClassifier.debugModules                "Aktuelle loggmodular">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS-logg for sikker surfning">
+<!ENTITY aboutUrlClassifier.debugFile                   "Gjeldande loggfil">
