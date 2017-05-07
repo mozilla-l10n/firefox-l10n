@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Vula iphanele yokulondoloza umyalezo wephasiwedi">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lawula ukusetyenziswa kwezinto eziplagwayo">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tshintsha enoba ungafumana isaziso kule sayithi">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gcina idatha kuGcino oluQhubekayo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Uyibhlokile inkcazelo yendawo kule webhusayithi.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ukubhlokile ukugcinwa kwedatha kule webhusayithi.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Uzibhlokile izaziso kule webhusayithi.">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ulubhlokile ugcino oluqhubekayo lwedatha kule webhusayithi.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
@@ -375,7 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ngqamanisa iiPreferensi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Sayina ungene ukuze ujonge iithebhu kwezinye izixhobo zakho.">
 <!ENTITY appMenuRemoteTabs.signin.label "Sayina ungene ukuze uNgqamanise">
-
+<!ENTITY appMenuRemoteTabs.managedevices.label "Lawula iZixhobo…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Jonga Iithebhu Ezingqamanisiweyo Zebha Esecaleni">
 
 <!ENTITY customizeMenu.addToToolbar.label "Yongeza kwiThulbha">
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Vula Zonke iiThebhu">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "V">
-
-
+<!ENTITY syncedTabs.context.managedevices.label              "Lawula Izixhobo…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "I">
 
 
 <!ENTITY syncBrand.shortName.label    "Ungqamaniso">
@@ -902,13 +902,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Funda ngakumbi malunga neDRM...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-
-
-
-
-
-
-
+<!ENTITY updateAvailable.message "Hlaziya eyakho i-&brandShorterName; ukuze ufumane isantya nobumfihlo bamvanje.">
+<!ENTITY updateAvailable.whatsnew.label "Bona into entsha.">
+<!ENTITY updateAvailable.header.message "Entsha i-&brandShorterName; uhlaziyo lukhona.">
+<!ENTITY updateAvailable.acceptButton.label "Khuphela uHlaziyo">
+<!ENTITY updateAvailable.acceptButton.accesskey "K">
+<!ENTITY updateAvailable.cancelButton.label "Hayi Ngoku">
+<!ENTITY updateAvailable.cancelButton.accesskey "H">
+<!ENTITY updateAvailable.panelUI.label "Khuphela i-&brandShorterName; hlaziya">
 
 
 
