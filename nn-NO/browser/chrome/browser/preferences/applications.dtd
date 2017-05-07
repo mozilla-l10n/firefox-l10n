@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Program">
+<!ENTITY  applications.description "Vel korleis &brandShortName; handterar filer du hentar frå nettet eller programma du brukar når du surfar.">
 
 <!ENTITY  typeColumn.label        "Innhaldstype">
 <!ENTITY  typeColumn.accesskey    "I">
