@@ -166,7 +166,7 @@
 <!ENTITY calendar.context.deletetask.accesskey        "ح">
 <!ENTITY calendar.context.deleteevent.label           "احذف الحدث">
 <!ENTITY calendar.context.deleteevent.accesskey       "ح">
-<!ENTITY calendar.context.cutevent.label              "قص">
+<!ENTITY calendar.context.cutevent.label              "قصّ">
 <!ENTITY calendar.context.cutevent.accesskey          "ص">
 <!ENTITY calendar.context.copyevent.label             "انسخ">
 <!ENTITY calendar.context.copyevent.accesskey         "س">
