@@ -67,9 +67,9 @@
 <!ENTITY redoCmd.label "أعِد">
 <!ENTITY redoCmd.key "Y">
 <!ENTITY redoCmd.accesskey "ع">
-<!ENTITY cutCmd.label "قص">
+<!ENTITY cutCmd.label "قصّ">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "ق">
+<!ENTITY cutCmd.accesskey "ص">
 <!ENTITY copyCmd.label "انسخ">
 <!ENTITY copyCmd.key "C">
 <!ENTITY copyCmd.accesskey "ن">
@@ -110,8 +110,8 @@
 <!ENTITY viewToolbarsMenuNew.accesskey "ش">
 <!ENTITY menubarCmd.label "شريط القائمة">
 <!ENTITY menubarCmd.accesskey "ئ">
-<!ENTITY showCompositionToolbarCmd.label "شريط أدوات الإنشاء">
-<!ENTITY showCompositionToolbarCmd.accesskey "ء">
+<!ENTITY showCompositionToolbarCmd.label "شريط أدوات التحرير">
+<!ENTITY showCompositionToolbarCmd.accesskey "ح">
 <!ENTITY showFormattingBarCmd.label "شريط التنسيق">
 <!ENTITY showFormattingBarCmd.accesskey "ت">
 <!ENTITY showTaskbarCmd.label "شريط الحالة">
@@ -217,7 +217,7 @@
 <!ENTITY spellingButton.tooltip "دقق إملاء التحديد أو كامل الرسالة">
 <!ENTITY statusLanguageText.tooltip "لغة التدقيق الإملائي">
 <!ENTITY saveButton.tooltip "احفظ هذه الرسالة">
-<!ENTITY cutButton.tooltip              "قص">
+<!ENTITY cutButton.tooltip              "قصّ">
 <!ENTITY copyButton.tooltip             "انسخ">
 <!ENTITY pasteButton.tooltip            "الصق">
 <!ENTITY printButton.tooltip "اطبع هذه الرسالة">
@@ -256,7 +256,7 @@
 <!ENTITY smiley12Cmd.label "فم نقود">
 <!ENTITY smiley13Cmd.label "قدم في الفم">
 <!ENTITY smiley14Cmd.label "بريء">
-<!ENTITY smiley15Cmd.label "بكاء">
+<!ENTITY smiley15Cmd.label "باكٍ">
 <!ENTITY smiley16Cmd.label "شفاه حمراء">
 <!-- Message Pane Context Menu -->
 
@@ -267,8 +267,8 @@
 <!ENTITY spellCheckAddToDictionary.accesskey "س">
 <!ENTITY undo.label "تراجع">
 <!ENTITY undo.accesskey "ر">
-<!ENTITY cut.label "قص">
-<!ENTITY cut.accesskey "ق">
+<!ENTITY cut.label "قصّ">
+<!ENTITY cut.accesskey "ص">
 <!ENTITY copy.label "انسخ">
 <!ENTITY copy.accesskey "ن">
 <!ENTITY paste.label "الصق">

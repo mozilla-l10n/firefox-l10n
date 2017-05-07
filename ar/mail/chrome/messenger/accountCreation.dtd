@@ -41,8 +41,8 @@
 <!ENTITY advancedSetup.accesskey         "د">
 <!ENTITY cancel.label                    "ألغِ">
 <!ENTITY cancel.accesskey                "ل">
-<!ENTITY continue.label                  "أكمِل">
-<!ENTITY continue.accesskey              "ك">
+<!ENTITY continue.label                  "واصِل">
+<!ENTITY continue.accesskey              "و">
 <!ENTITY stop.label                      "أوقِف">
 <!ENTITY stop.accesskey                  "ف">
 <!-- LOCALIZATION NOTE (half-manual-test.label): This is the text that is

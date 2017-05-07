@@ -12,7 +12,7 @@
 <!ENTITY aboutSupport.accountsIncomingServer "الخادوم الوارد">
 <!ENTITY aboutSupport.accountsOutgoingServers "الخادومات الصادرة">
 <!ENTITY aboutSupport.accountsServerName "الاسم">
-<!ENTITY aboutSupport.accountsConnSecurity "سرية الاتصال">
+<!ENTITY aboutSupport.accountsConnSecurity "أمن الاتصال">
 <!ENTITY aboutSupport.accountsAuthMethod "طريقة الاستيثاق">
 <!ENTITY aboutSupport.accountsDefault "مبدئي؟">
 <!ENTITY aboutSupport.identityName "الهويّة">

@@ -10,7 +10,7 @@
 <!ENTITY newFolderCmd.accesskey "م">
 <!ENTITY closeTabCmd2.label "أغلِق اللسان">
 <!ENTITY closeTabCmd2.accesskey "غ">
-<!ENTITY closeOtherTabsCmd2.label "أغلِق الألسنة الأخرى">
+<!ENTITY closeOtherTabsCmd2.label "أغلق الألسنة الأخرى">
 <!ENTITY closeOtherTabsCmd2.accesskey "خ">
 <!ENTITY recentlyClosedTabsCmd.label "الألسنة المغلقة مؤخرًا">
 <!ENTITY recentlyClosedTabsCmd.accesskey "ر">
@@ -891,8 +891,8 @@
 <!ENTITY SubscribeToNewsgroup.accesskey "ش">
 <!ENTITY SendMessageTo.label "اكتب رسالة إلى">
 <!ENTITY SendMessageTo.accesskey "ة">
-<!ENTITY CopyEmailAddress.label "انسخ عنوان البريد">
-<!ENTITY CopyEmailAddress.accesskey "ع">
+<!ENTITY CopyEmailAddress.label "انسخ عنوان البريد الإلكتروني">
+<!ENTITY CopyEmailAddress.accesskey "ن">
 <!ENTITY CopyNameAndEmailAddress.label "انسخ الاسم و عنوان البريد الإلكتروني">
 <!ENTITY CopyNameAndEmailAddress.accesskey "س">
 <!ENTITY CopyNewsgroupName.label "انسخ اسم مجموعة الأخبار">
@@ -917,8 +917,8 @@
 <!ENTITY copyLinkCmd.accesskey "ط">
 <!ENTITY copyImageAllCmd.label "انسخ الصورة">
 <!ENTITY copyImageAllCmd.accesskey "ص">
-<!ENTITY copyEmailCmd.label "انسخ البريد الإلكتروني">
-<!ENTITY copyEmailCmd.accesskey "ي">
+<!ENTITY copyEmailCmd.label "انسخ عنوان البريد الإلكتروني">
+<!ENTITY copyEmailCmd.accesskey "خ">
 <!ENTITY stopCmd.label "أوقِف">
 <!ENTITY stopCmd.accesskey "ف">
 <!ENTITY reloadCmd.label "أعِد التحميل">

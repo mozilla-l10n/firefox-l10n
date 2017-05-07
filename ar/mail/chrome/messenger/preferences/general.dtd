@@ -30,7 +30,7 @@
 
 <!ENTITY play.label                       "شغّل">
 <!ENTITY play.accesskey                   "ش">
-<!ENTITY systemsound.label                "صوت النظام العادي للبريد الجديد">
+<!ENTITY systemsound.label                "صوت النظام المبدئي للبريد الجديد">
 <!ENTITY systemsound.accesskey            "ت">
 <!ENTITY customsound.label                "استخدم ملف الصوت التالي">
 <!ENTITY customsound.accesskey            "س">
