@@ -17,7 +17,7 @@
 <!ENTITY pasteAsQuotationCmd.accesskey "ت">
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "ابحث…">
-<!ENTITY findReplaceCmd.label "ابحث واستبدل…">
+<!ENTITY findReplaceCmd.label "ابحث و استبدل…">
 <!ENTITY enableInlineSpellChecker.label "دقق الإملاء بينما تكتب">
 <!ENTITY enableInlineSpellChecker.accesskey "د">
 <!ENTITY checkSpellingCmd2.label "دقِّق الإملاء…">

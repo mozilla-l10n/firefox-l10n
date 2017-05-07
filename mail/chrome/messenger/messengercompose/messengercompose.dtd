@@ -91,10 +91,10 @@
 <!ENTITY findBarCmd.label "ابحث…">
 <!ENTITY findBarCmd.accesskey "ب">
 <!ENTITY findBarCmd.key "F">
-<!ENTITY findReplaceCmd.label "ابحث و استبدل…">
+<!ENTITY findReplaceCmd.label "ابحث و استبدل…">
 <!ENTITY findReplaceCmd.accesskey "س">
 <!ENTITY findReplaceCmd.key "H">
-<!ENTITY findAgainCmd.label "ابحث مرة أخرى">
+<!ENTITY findAgainCmd.label "ابحث مجددًا">
 <!ENTITY findAgainCmd.accesskey "م">
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
