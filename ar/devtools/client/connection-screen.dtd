@@ -11,7 +11,7 @@
 <!ENTITY header     "اتصل بجهاز بعيد">
 <!ENTITY host       "المستضيف:">
 <!ENTITY port       "المنفذ:">
-<!ENTITY connect    "اتصل">
+<!ENTITY connect    "اتّصل">
 <!ENTITY connecting "يتّصل…">
 <!ENTITY availableAddons "الإضافات البعيدة المتاحة:">
 <!ENTITY availableTabs "الألسنة البعيدة المتاحة:">

@@ -7,7 +7,7 @@
 <!ENTITY warning         "ثبّت الإضافات التي صنعها أشخاص تثق بهم فقط.">
 <!ENTITY allow           "اسمح بهذا التثبيت">
 <!ENTITY later           "يمكنك تغيير رأيك فيما بعد بالذهاب إلى مدير الإضافات.">
-<!ENTITY continue        "تابع">
+<!ENTITY continue        "واصِل">
 <!ENTITY restartMessage  "يجب إعادة تشغيل &brandShortName; لإنهاء تثبيت هذه الإضافة.">
 <!ENTITY restartButton   "أعِد تشغيل &brandShortName;">
 <!ENTITY cancelButton    "ألغِ">

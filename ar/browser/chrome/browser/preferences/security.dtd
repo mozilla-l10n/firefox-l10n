@@ -33,7 +33,7 @@
 
 <!ENTITY  useMasterPassword.label        "استخدم كلمة سر رئيسيّة">
 <!ENTITY  useMasterPassword.accesskey    "خ">
-<!ENTITY  changeMasterPassword.label     "غيّر كلمة السر الرئيسية…">
+<!ENTITY  changeMasterPassword.label     "غيّر كلمة السر الرئيسيّة…">
 <!ENTITY  changeMasterPassword.accesskey "ر">
 
 <!ENTITY  savedLogins.label              "جلسات الولوج المحفوظة…">
