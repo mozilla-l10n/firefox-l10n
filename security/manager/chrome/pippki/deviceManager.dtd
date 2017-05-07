@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "Жаңа PKCS#11 модулі">
 <!ENTITY loaddevice.filename                    "Модуль файлының аты:">
 <!ENTITY loaddevice.filename.accesskey          "ф">
-<!ENTITY loaddevice.browse                      "Қарап шығу...">
+<!ENTITY loaddevice.browse                      "Қарап шығу…">
 <!ENTITY loaddevice.browse.accesskey            "ш">
 
 <!ENTITY loaddevice.title2                      "PKCS#11 құрылғы драйверін жүктеу">

@@ -21,7 +21,7 @@
 <!ENTITY certmgr.detail.prettyprint_tab.title "Көбірек білу">
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "К">
 
-<!ENTITY certmgr.pending.label                "Сертификат тексерілуде...">
+<!ENTITY certmgr.pending.label                "Сертификат тексерілуде…">
 <!ENTITY certmgr.subjectinfo.label            "Кімге берілген">
 <!ENTITY certmgr.issuerinfo.label             "Кім берген">
 <!ENTITY certmgr.periodofvalidity.label       "Жарамдылық мерзімі" >
@@ -53,21 +53,21 @@
 
 <!ENTITY certmgr.close.label                  "Жабу">
 <!ENTITY certmgr.close.accesskey              "Ж">
-<!ENTITY certmgr.view2.label                  "Қарап шығу...">
+<!ENTITY certmgr.view2.label                  "Қарап шығу…">
 <!ENTITY certmgr.view2.accesskey              "ш">
 <!ENTITY certmgr.edit3.label                  "Сенімді түзету…">
 <!ENTITY certmgr.edit3.accesskey              "е">
-<!ENTITY certmgr.export.label                 "Экспорттау...">
+<!ENTITY certmgr.export.label                 "Экспорттау…">
 <!ENTITY certmgr.export.accesskey             "п">
 <!ENTITY certmgr.delete2.label                "Өшіру…">
 <!ENTITY certmgr.delete2.accesskey            "ш">
 <!ENTITY certmgr.delete_builtin.label         "Өшіру не сенбеу…">
 <!ENTITY certmgr.delete_builtin.accesskey     "ш">
-<!ENTITY certmgr.backup2.label                "Көшірмесін сақтау...">
+<!ENTITY certmgr.backup2.label                "Көшірмесін сақтау…">
 <!ENTITY certmgr.backup2.accesskey            "м">
-<!ENTITY certmgr.backupall2.label             "Барлығының көшірмелерін сақтау...">
+<!ENTITY certmgr.backupall2.label             "Барлығының көшірмелерін сақтау…">
 <!ENTITY certmgr.backupall2.accesskey         "Б">
-<!ENTITY certmgr.restore2.label               "Импорттау...">
+<!ENTITY certmgr.restore2.label               "Импорттау…">
 <!ENTITY certmgr.restore2.accesskey           "м">
 <!ENTITY certmgr.details.label                "Сертификат жолдары">
 <!ENTITY certmgr.details.accesskey            "ж">
@@ -75,7 +75,7 @@
 <!ENTITY certmgr.fields.accesskey             "м">
 <!ENTITY certmgr.hierarchy.label              "Сертификаттар иерархиясы">
 <!ENTITY certmgr.hierarchy.accesskey2         "х">
-<!ENTITY certmgr.addException.label           "Ерекше ереже қосу...">
+<!ENTITY certmgr.addException.label           "Ерекше ережені қосу…">
 <!ENTITY certmgr.addException.accesskey       "р">
 
 <!ENTITY exceptionMgr.title                   "Қауіпсіздік ерекше ереже қосу">

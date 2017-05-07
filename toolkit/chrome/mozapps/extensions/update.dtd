@@ -14,8 +14,8 @@
 <!ENTITY  mismatch.bottom.label           "&brandShortName; бұл қосымшалар үшін үйлесімді нұсқалардың бар-жоғын тексере алады.">
 
 <!ENTITY  checking.wizard.title           "Үйлесімді қосымшалар тексерілуде">
-<!ENTITY  checking.top.label              "Үйлесімді емес қосымшалар үшін жаңартулар бар-жоғы тексерілуде...">
-<!ENTITY  checking.status                 "Бұл біраз уақытты алу мүмкін...">
+<!ENTITY  checking.top.label              "Үйлесімді емес қосымшалар үшін жаңартулардың бар-жоғы тексерілуде…">
+<!ENTITY  checking.status                 "Бұл біраз уақытты алуы мүмкін…">
 
 <!ENTITY  found.wizard.title               "Үйлесімді қосымшалар табылды">
 <!ENTITY  found.top.label                 "Орнату үшін қосымшаларды таңдаңыз:">
@@ -24,7 +24,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "б">
 
 <!ENTITY  installing.wizard.title         "Үйлесімді қосымшаларды орнату">
-<!ENTITY  installing.top.label            "Орнатылған қосымшалар үшін жаңартулар жүктеліп, орнатылуда...">
+<!ENTITY  installing.top.label            "Орнатылған қосымшалар үшін жаңартулар жүктеліп, орнатылуда…">
 
 <!ENTITY  noupdates.wizard.title          "Қосымшалардың үйлесімді нұсқалары табылмады">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; сізде бар үйлесімді емес қосымшалар үшін жаңартулар таба алмады.">
@@ -41,7 +41,7 @@
 
 <!ENTITY  versioninfo.wizard.title        "Қосымшаларыңыз үйлесімділікке тексерілуде">
 <!ENTITY  versioninfo.top.label           "Қосымшаларыңыз қазір &brandShortName; осы нұсқасымен үйлесімді екеніне тексерілуде.">
-<!ENTITY  versioninfo.waiting             "Бұл біраз уақытты алуы мүмкін...">
+<!ENTITY  versioninfo.waiting             "Бұл біраз уақытты алуы мүмкін…">
 
 <!ENTITY  installerrors.wizard.title      "Жаңартуларды орнату кезіндегі мәселелер">
 <!ENTITY  installerrors.intro.label       "&brandShortName; кейбір орнатылған қосымшаларда жаңартқан кезде мәселелерге тап болды.">

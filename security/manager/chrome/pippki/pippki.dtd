@@ -42,7 +42,7 @@
 <!-- Strings for the CreateCertInfo dialog  -->
 
 <!ENTITY createCertInfo.title "Жабық кілтті генерациялау">
-<!ENTITY createCertInfo.msg1 "Кілттер генерациялауда. Бірнеше минут алуы мүмкін...">
+<!ENTITY createCertInfo.msg1 "Кілттер генерациялауда… Бірнеше минут алуы мүмкін…">
 <!ENTITY createCertInfo.msg2 "Күте тұрыңыз…">
 <!-- Strings for protectedAuth dialog -->
 

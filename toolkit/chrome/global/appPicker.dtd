@@ -3,5 +3,5 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY NoAppFound.label      "Файлдың осы түріне сәйкес бағдарлама жоқ.">
-<!ENTITY BrowseButton.label    "Қарап шығу...">
+<!ENTITY BrowseButton.label    "Қарап шығу…">
 <!ENTITY SendMsg.label         "Осы файлды жіберу:">

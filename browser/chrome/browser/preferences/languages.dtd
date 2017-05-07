@@ -12,7 +12,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "Т">
 <!ENTITY languages.customize.deleteButton.label         "Өшіру">
 <!ENTITY languages.customize.deleteButton.accesskey     "ш">
-<!ENTITY languages.customize.selectLanguage.label       "Қосылатын тілді таңдау...">
+<!ENTITY languages.customize.selectLanguage.label       "Қосылатын тілді таңдау…">
 <!ENTITY languages.customize.addButton.label            "Қосу">
 <!ENTITY languages.customize.addButton.accesskey        "о">
 

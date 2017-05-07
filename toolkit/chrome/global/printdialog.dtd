@@ -12,7 +12,7 @@
 
 <!ENTITY fileCheck.label "Баспаны файлға шығару">
 <!ENTITY fileCheck.accesskey "ф">
-<!ENTITY propertiesButton.label "Қасиеттері...">
+<!ENTITY propertiesButton.label "Қасиеттері…">
 <!ENTITY propertiesButton.accesskey "с">
 <!ENTITY descText.label "Принтер сипаттамасы:">
 <!ENTITY printer.label "Принтер">

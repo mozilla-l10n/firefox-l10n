@@ -9,20 +9,20 @@
 
 <!ENTITY            profilename.label      "Профиль аты:">
 
-<!ENTITY            start.label            "&brandShortName; қосу">
+<!ENTITY            start.label            "&brandShortName; іске қосу">
 <!ENTITY            exit.label             "Шығу">
 
-<!ENTITY            availprofiles.label    "Қол жетерлік профильдер">
+<!ENTITY            availprofiles.label    "Қолжетерлік профильдер">
 
-<!ENTITY            newButton.label        "Құру...">
-<!ENTITY            newButton.accesskey    "р">
-<!ENTITY            renameButton.label     "Атын өзгерту...">
+<!ENTITY            newButton.label        "Жасау…">
+<!ENTITY            newButton.accesskey    "у">
+<!ENTITY            renameButton.label     "Атын өзгерту…">
 <!ENTITY            renameButton.accesskey "з">
 <!ENTITY            deleteButton.label     "Өшіру…">
 <!ENTITY            deleteButton.accesskey "ш">
 <!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; сіздің баптаулар, бетбелгілер және т.б. ақпаратты жеке профиліңізде сақтайды.">
+<!ENTITY            pmDescription.label    "&brandShortName; сіздің баптаулар, бетбелгілер туралы және т.б. ақпаратты жеке профиліңізде сақтайды.">
 
 <!ENTITY            offlineState.label    "Дербес жұмыс істеу">
 <!ENTITY            offlineState.accesskey "Д">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY  updateWizard.title              "Бағдарламалық қамтаманы жаңарту">
 
-<!ENTITY  checking.title                  "Жаңарту бар-жоғын тексеру жүруде...">
+<!ENTITY  checking.title                  "Жаңартулардың бар-жоғы тексерілуде">
 <!ENTITY  updateCheck.label               "&brandShortName; жаңа нұсқалары ізделуде…">
 
 <!ENTITY  noupdatesfound.title            "Жаңартулар жоқ">
@@ -24,7 +24,7 @@
 <!ENTITY  evangelism.desc                 "&brandShortName; үшін осы жаңартуды сізге неғұрлым тезірек орнату міндетті түрде ұсынылады.">
 
 <!ENTITY  downloadPage.title              "&brandShortName; жүктелуде">
-<!ENTITY  downloading.intro               "Жаңарту жүктелуде...">
+<!ENTITY  downloading.intro               "Жаңарту жүктелуде…">
 <!ENTITY  connecting.label                "Жаңарту серверімен байланысты орнату…">
 <!ENTITY  verificationFailedText.label    "&brandShortName; жүктелген жартылай жаңартудың бүтіндігін тексере алмады, сондықтан ол қазір толық жанартуды жүктеп алады.">
 
