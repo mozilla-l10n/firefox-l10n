@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Uddit alluwal ɓatakuuje danndugol finnde">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Toppito kuutoragol ceŋe">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mooftu keɓe e Ndesgu Duumiingu">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Toppito lollingol mikkoroo maa e ndee lowre">
@@ -230,7 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "A daaƴii humpito nokkuure e ndee lowre.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "A daaƴii ndesgu keɓe e ndee lowre.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "A daaƴii tintine e ndee lowre.">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "A daaƴii ndesgu duumiingu e ndee lowre.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Hollir aslol">
 
@@ -375,7 +375,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Cuɓoraaɗe Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Seŋo ngam yiyde tabbe iwɗe e kaɓirɗi maa goɗɗi.">
 <!ENTITY appMenuRemoteTabs.signin.label "Seŋo nga syncude">
-
+<!ENTITY appMenuRemoteTabs.managedevices.label "Toppito Kaɓirɗi…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Yiy Tabbe Cynkaaɗe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Ɓeydu e palal kuutorɗe">
@@ -785,8 +785,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Uddit Fof e Tabbe">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "U">
-
-
+<!ENTITY syncedTabs.context.managedevices.label              "Toppito Kaɓirɗi…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "K">
 
 
 <!ENTITY syncBrand.shortName.label    "Sanngoɗin">
@@ -902,28 +902,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Ɓeydu humpito baɗte DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Hesɗitin &brandShorterName; maa ngam heɓde ko sakkitii e njaawka e suturo.">
 <!ENTITY updateAvailable.whatsnew.label "Ƴeew ko hesɗi.">
-
+<!ENTITY updateAvailable.header.message "&brandShorterName; keso ena woodi.">
 <!ENTITY updateAvailable.acceptButton.label "Aawto Kesɗitinal">
 <!ENTITY updateAvailable.acceptButton.accesskey "A">
-
-
-
+<!ENTITY updateAvailable.cancelButton.label "Wonaa Jooni">
+<!ENTITY updateAvailable.cancelButton.accesskey "W">
+<!ENTITY updateAvailable.panelUI.label "Aawto kesɗitinal &brandShorterName;">
 
 <!ENTITY updateManual.message "Aawto tumbitere hesere &brandShorterName; min mballu maa ɗum aafde.">
 <!ENTITY updateManual.whatsnew.label "Ƴeew ko hesɗi.">
 <!ENTITY updateManual.header.message "&brandShorterName; roŋkii aafde tumbitere hesere nde.">
-
-
-
-
+<!ENTITY updateManual.acceptButton.label "Aawto &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "A">
+<!ENTITY updateManual.cancelButton.label "Wonaa Jooni">
+<!ENTITY updateManual.cancelButton.accesskey "W">
 <!ENTITY updateManual.panelUI.label "Aawto tumbitere &brandShorterName; hesere">
 
 <!ENTITY updateRestart.message "Caggal kuɓɓitgol jaawngol &brandShorterName; maa artir tabbe e kenorɗe maa fof.">
 <!ENTITY updateRestart.header.message2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
-
-
+<!ENTITY updateRestart.acceptButton.label "Hurmitin tee Ngartiraa">
+<!ENTITY updateRestart.acceptButton.accesskey "H">
 <!ENTITY updateRestart.cancelButton.label "Wonaa Jooni">
 <!ENTITY updateRestart.cancelButton.accesskey "W">
 <!ENTITY updateRestart.panelUI.label "Huɓɓit &brandShorterName; ngam siynude kesɗitinal">
 
+<!ENTITY pageActionButton.tooltip "Baɗe hello">
