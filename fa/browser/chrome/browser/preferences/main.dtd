@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "راه‌اندازی">
 
-
+<!ENTITY startupPage2.label        "هنگام شروع &brandShortName;">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "نمایش صفحه آغازه">
 <!ENTITY startupBlankPage.label    "نمایش یک صفحه خالی">
 <!ENTITY startupPrevSession.label  "نمایش صفحات و زبانه‌های از آخرین دفعه">
 
-
+<!ENTITY homepage2.label           "صفحهٔ خانگی">
+<!ENTITY homepage2.accesskey       "خ">
 <!ENTITY useCurrentPage.label      "استفاده از صفحۀ فعلی">
 <!ENTITY useCurrentPage.accesskey  "ف">
 <!ENTITY useMultiple.label         "استفاده از صفحۀ فعلی">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "اجازه بده تا &brandShortName; و فایرفاکس همزمان اجرا شوند">
 <!ENTITY useFirefoxSync.label             "نکته: این از یک نمایه جدا استفاده میکند. از همگام‌سازی برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.">
-
-
+<!ENTITY getStarted.notloggedin.label     "برای همگام‌سازی وارد &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "باز کردن ترجیحات &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "فعال کردن چند-پردازشی &brandShortName;">
