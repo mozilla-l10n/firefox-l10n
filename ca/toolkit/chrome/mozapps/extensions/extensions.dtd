@@ -71,7 +71,7 @@
 <!ENTITY updates.downloaded.label             "S'han baixat les actualitzacions dels vostres complements.">
 <!ENTITY updates.restart.label                "Reinicia ara per completar la instal·lació">
 <!ENTITY updates.noneFound.label              "No s'ha trobat cap actualització">
-<!ENTITY updates.manualUpdatesFound.label     "Visualitza les actualitzacions disponibles">
+<!ENTITY updates.manualUpdatesFound.label     "Mostra les actualitzacions disponibles">
 <!ENTITY updates.updateSelected.label         "Instal·la les actualitzacions">
 <!ENTITY updates.updateSelected.tooltip       "Instal·la les actualitzacions disponibles en aquesta llista">
 <!-- addon actions -->
