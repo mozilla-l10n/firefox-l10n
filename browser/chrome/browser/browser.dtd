@@ -911,8 +911,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "H">
 <!ENTITY updateAvailable.panelUI.label "Khuphela i-&brandShorterName; hlaziya">
 
-
-
+<!ENTITY updateManual.message "Khuphela ikopi entsha ye-&brandShorterName; yaye siza kukunceda uyifakele.">
+<!ENTITY updateManual.whatsnew.label "Bona into entsha.">
+<!ENTITY updateManual.header.message "I-&brandShorterName; ayikwazi kuhlaziya ukuya kuhlobo lwamvanje.">
 
 
 
