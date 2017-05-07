@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "S\u0027ha eliminat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_updated "S\u0027ha actualitzat l\u0027adreça d\u0027interès">
 <!ENTITY bookmark_options "Opcions">
-
+<!ENTITY bookmark_save "Desa">
 <!ENTITY screenshot_added_to_bookmarks "S\u0027ha afegit la captura de pantalla a les adreces d\u0027interès">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elements">
 <!ENTITY bookmark_folder_one_item "1 element">
-
+<!ENTITY bookmark_parent_folder "Carpeta superior">
 
 <!ENTITY reader_saved_offline "S\u0027ha desat fora de línia">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "Pàgina d\u0027inici">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Utilitza també per a les pestanyes noves">
 <!ENTITY home_homepage_title "Defineix una pàgina d\u0027inici">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -288,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Permet que les aplicacions obrin llocs web utilitzant una versió personalitzada del &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Obre al &formatS;">
+<!ENTITY custom_tabs_menu_footer "Funciona amb el &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "S\u0027ha copiat l\u0027URL">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux d\u0027activitat">
@@ -364,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Utilitza la mida de lletra del sistema">
+<!ENTITY pref_use_system_font_size_summary "Ajusta la mida del contingut web a la mida de la lletra del sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Permet reproduir automàticament">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si els llocs web poden reproduir automàticament vídeos i altres continguts multimèdia">
@@ -383,6 +388,7 @@
 <!ENTITY pref_import_android_summary "Importa les adreces d\u0027interès i l\u0027historial del navegador natiu">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Pestanyes obertes">
 <!ENTITY pref_private_data_history2 "Historial de navegació">
 <!ENTITY pref_private_data_searchHistory "Historial de cerca">
 <!ENTITY pref_private_data_formdata2 "Historial de formularis">
@@ -493,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Obre en una pestanya privada">
 <!ENTITY contextmenu_remove "Elimina">
 <!ENTITY contextmenu_add_to_launcher "Afegeix a la pantalla d\u0027inici">
-
+<!ENTITY contextmenu_set_as_homepage "Defineix com a pàgina d\u0027inici">
 <!ENTITY contextmenu_share "Comparteix">
 <!ENTITY contextmenu_pasteandgo "Enganxa i vés-hi">
 <!ENTITY contextmenu_paste "Enganxa">
@@ -529,6 +535,8 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Pestanyes compactes">
+<!ENTITY pref_compact_tabs_summary2 "Disposa les pestanyes en dos columnes en mode vertical">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -560,7 +568,7 @@
 <!ENTITY button_yes "Sí">
 <!ENTITY button_no "No">
 <!ENTITY button_clear_data "Neteja les dades">
-
+<!ENTITY button_set "Defineix">
 <!ENTITY button_clear "Neteja">
 <!ENTITY button_copy "Copia">
 
@@ -682,7 +690,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Cerca «&formatS2;» a &formatS1;">
 
 <!ENTITY searchable_description "Adreces d\u0027interès i historial">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Actualització disponible per al &brandShortName;">
 <!ENTITY updater_start_select2 "Toqueu per baixar">
 
 <!ENTITY updater_downloading_title2 "S\u0027està baixant el &brandShortName;">
@@ -690,7 +700,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització un cop baixada">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
 
-
+<!ENTITY updater_apply_title3 "S\u0027ha baixat una actualització per al &brandShortName;">
+<!ENTITY updater_apply_select3 "Toqueu per instal·lar-la">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -827,4 +838,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Descarta">
 <!ENTITY activity_stream_delete_history "Elimina de l\u0027historial">
 
-
+<!ENTITY activity_stream_welcome_title "Us donem la benvinguda als vostres «Destacats»">
+<!ENTITY activity_stream_welcome_content1 "El &brandShortName; està creant el vostre contingut destacat a partir de tot allò que heu descobert navegant, per tal que pugueu tornar a accedir als articles, vídeos, adreces d\u0027interès i altres pàgines que més us interessin.">
