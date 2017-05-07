@@ -6,7 +6,7 @@
 <!ENTITY securityTab.label "Қауіпсіздік">
 <!ENTITY securityHeading.label "Цифрлық қолтаңбасы бар немесе шифрленген хабарламаларды жіберу және қабылдау үшін, сізге цифрлық қолтаңбаны қою сертификатын және шифрлеу сертификатын көрсету керек.">
 <!ENTITY encryptionGroupTitle.label "Шифрлеу">
-<!ENTITY encryptionChoiceLabel.label "Хабарламаларды жіберу кезінде негізгі шифреу баптауы:">
+<!ENTITY encryptionChoiceLabel.label "Хабарламаларды жіберу кезінде негізгі шифрлеу баптауы:">
 <!ENTITY neverEncrypt.label "Ешқашан (шифрлеуді қолданбау)">
 <!ENTITY neverEncrypt.accesskey "н">
 <!ENTITY alwaysEncryptMessage.label "Міндетті (барлық алушыларда сертификаттар болған кезде ғана жіберуге болады)">
