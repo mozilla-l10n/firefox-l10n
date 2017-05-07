@@ -38,7 +38,7 @@
 <!ENTITY helpus.start               "돕고 싶으십니까? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "기부">
-<!ENTITY helpus.middle              " 를 하시거나 직접 ">
+<!ENTITY helpus.middle              "를 하시거나 직접 ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "참여">
 <!ENTITY helpus.end                 "해 보십시오!">
