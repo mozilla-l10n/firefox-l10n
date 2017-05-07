@@ -10,7 +10,7 @@
 <!ENTITY aboutPage.checkForUpdates.checking     "Жаңартуларды іздеу…">
 <!ENTITY aboutPage.checkForUpdates.none         "Жаңартулар жоқ">
 <!ENTITY aboutPage.checkForUpdates.available2   "Жаңартуды жүктеп алу">
-<!ENTITY aboutPage.checkForUpdates.downloading  "Жаңарту жүктелуде...">
+<!ENTITY aboutPage.checkForUpdates.downloading  "Жаңарту жүктелуде…">
 <!ENTITY aboutPage.checkForUpdates.downloaded2  "Жаңартуды орнату">
 <!ENTITY aboutPage.faq.label                    "FAQ">
 <!ENTITY aboutPage.support.label                "Қолдау">
