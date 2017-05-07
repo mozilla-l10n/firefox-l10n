@@ -12,7 +12,7 @@
 <!ENTITY  noProxyTypeRadio.accesskey    "ل">
 <!ENTITY  systemTypeRadio.label         "استخدم إعدادات النظام للوسيط">
 <!ENTITY  systemTypeRadio.accesskey     "ن">
-<!ENTITY  WPADTypeRadio.label           "اكتشف آليا إعدادات الوسيط لهذه الشبكة">
+<!ENTITY  WPADTypeRadio.label           "تعرَّف تلقائيًّا على إعدادات وسيط هذه الشَّبكة">
 <!ENTITY  WPADTypeRadio.accesskey       "ش">
 <!ENTITY  manualTypeRadio.label         "إعداد الوسيط يدويا:">
 <!ENTITY  manualTypeRadio.accesskey     "ي">
