@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Saajaw">
+
 <!ENTITY  warnOnAddonInstall.label        "War yaamar waati kaŋ nungey ga wiri ka tontoniyaŋ sinji">
 <!ENTITY  warnOnAddonInstall.accesskey    "a">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "H">
 
 
+<!ENTITY  formsAndPasswords.label       "Takarey nda šennikufaley">
 
+<!ENTITY  rememberLogins1.label          "Honga huruyan tammaasawey nda šennikufaley nungey se">
+<!ENTITY  rememberLogins1.accesskey      "H">
 <!ENTITY  passwordExceptions.label      "Hasarawey…">
 <!ENTITY  passwordExceptions.accesskey  "s">
 

@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Šigirawey nda noonawey">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Tilasu šigira">
+<!ENTITY  defaultFont2.accesskey      "T">
+<!ENTITY  defaultSize2.label          "Adadu">
+<!ENTITY  defaultSize2.accesskey      "A">
 
 <!ENTITY  advancedFonts.label         "Jinehere…">
 <!ENTITY  advancedFonts.accesskey     "J">
