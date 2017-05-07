@@ -22,7 +22,7 @@
 <!ENTITY            deleteButton.accesskey "ш">
 <!-- manager entities -->
 
-<!ENTITY            pmDescription.label    "&brandShortName; Сіздің баптаулар, бетбелгілер мен т.б. туралы ақпаратты жеке профиліңізде сақтайды.">
+<!ENTITY            pmDescription.label    "&brandShortName; сіздің баптаулар, бетбелгілер және т.б. ақпаратты жеке профиліңізде сақтайды.">
 
 <!ENTITY            offlineState.label    "Дербес жұмыс істеу">
 <!ENTITY            offlineState.accesskey "Д">
