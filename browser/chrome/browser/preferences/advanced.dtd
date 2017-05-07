@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Verificar ortografía al escribir">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -126,3 +124,14 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de Seguridad">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY performance.label               "Rendimiento">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Uso configuración de rendimiento recomendado">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "La configuración de rendimiento recomendadas se adapta a esta computadora.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "Límite de contenido de proceso">
+<!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
+<!ENTITY allowHWAccel.accesskey          "h">
