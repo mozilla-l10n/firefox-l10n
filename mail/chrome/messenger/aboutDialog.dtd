@@ -24,7 +24,7 @@
 <!ENTITY community.exp.middle       " هي ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "مجتمع عالمي">
-<!ENTITY community.exp.end          " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
+<!ENTITY community.exp.end          " يعمل للمحافظة على انفتاح الوب و عموميتها و إتاحتها للجميع.">
 
 <!ENTITY community.start2           "صمّمَ &brandShortName; ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -32,7 +32,7 @@
 <!ENTITY community.middle2          "، ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "مجتمع عالمي">
-<!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب وعموميتها وإتاحتها للجميع.">
+<!ENTITY community.end3             " يعمل للمحافظة على انفتاح الوب و عموميتها و إتاحتها للجميع.">
 
 <!ENTITY helpus.start               "أتريد المساعدة؟ ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
@@ -94,7 +94,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "ينزّل التحديث - ">
+<!ENTITY update.downloading.start   "ينزل التحديث — ">
 <!ENTITY update.downloading.end     "​">
 
 <!ENTITY update.applying            "يطبّق التحديث…">
@@ -103,6 +103,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "أنت حاليًا على قناة تحديث ">
-<!ENTITY channel.description.end    ".">
+<!ENTITY channel.description.end    ". ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
