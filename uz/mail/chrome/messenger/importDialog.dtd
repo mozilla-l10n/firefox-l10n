@@ -38,7 +38,7 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY selectDescription.accesskey "t">
 <!ENTITY acctName.label           "Nomi:">
 <!ENTITY acctName.accesskey       "N">
-
+<!ENTITY noModulesFound.label     "Import qilish uchun birorta ham ilova yoki fayl topilmadi.">
 
 <!ENTITY back.label               "&lt; &amp;Orqaga">
 <!ENTITY forward.label            "&amp;Keyingi &gt;">

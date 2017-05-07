@@ -32,4 +32,6 @@
 <!ENTITY manageDevices.accesskey "q">
 <!-- Strings for the cert picker dialog -->
 
-
+<!ENTITY certPicker.title "Sertifikatlarni tanlash">
+<!ENTITY certPicker.info  "Sertifikat:">
+<!ENTITY certPicker.detailsLabel "Tanlangan sertifikat tafsilotlari:">

@@ -164,8 +164,8 @@
 <!ENTITY recentFolders.accesskey "S">
 <!ENTITY compactVersion.label "Ixcham ko‘rinish">
 <!ENTITY compactVersion.accesskey "I">
-
-
+<!ENTITY folderPaneBar.label "Jild yon oynasi asboblar paneli">
+<!ENTITY folderPaneBar.accesskey "J">
 <!ENTITY folderModeSelector.label "Jild ko‘rinishi">
 <!-- Sort Menu -->
 
@@ -195,8 +195,8 @@
 <!ENTITY sortByFromCmd.accesskey "J">
 <!ENTITY sortByRecipientCmd.label "Qabul qiluvchi">
 <!ENTITY sortByRecipientCmd.accesskey "Q">
-
-
+<!ENTITY sortByCorrespondentCmd.label "Muxbirlar">
+<!ENTITY sortByCorrespondentCmd.accesskey "M">
 <!ENTITY sortByUnreadCmd.label "O‘qish">
 <!ENTITY sortByUnreadCmd.accesskey "O">
 <!ENTITY sortByOrderReceivedCmd.label "Buyruq qabul qilindi">
@@ -495,24 +495,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
 <!-- Developer Tools Submenu -->
 
-
-
-
-
-
-
-
+<!ENTITY devtoolsMenu.label "Dasturchi asboblari">
+<!ENTITY devtoolsMenu.accesskey "D">
+<!ENTITY devToolboxCmd.label "Das&amp;turchi asboblari paneli">
+<!ENTITY devToolboxCmd.accesskey "a">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Qo‘shimcha dastur tuzatkichi">
+<!ENTITY addonDebugCmd.accesskey "Q">
+<!ENTITY tabsDebugCmd.label "Freym tuzatkichi tarkibi">
+<!ENTITY tabsDebugCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.label "Xato terminali">
 <!ENTITY errorConsoleCmd.accesskey "t">
 <!ENTITY errorConsoleCmd.commandkey "j">
-
-
+<!ENTITY scratchpadCmd.label "Yon daftarcha">
+<!ENTITY scratchpadCmd.accesskey "Y">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 <!-- Mail Toolbar -->
 
 <!ENTITY getMsgButton1.label "Xabarlarni yuklab olish">
@@ -523,7 +528,7 @@
 <!ENTITY forwardButton.label "Uzatish">
 <!ENTITY fileButton.label "Fayl">
 <!ENTITY archiveButton.label "Arxiv">
-
+<!ENTITY openConversationButton.label "Suhbat">
 <!ENTITY nextButton.label "Keyingi">
 <!ENTITY nextButtonToolbarItem.label "Keyingi o‘qilmagan">
 <!ENTITY nextMsgButton.label "Keyingi">
@@ -566,7 +571,7 @@
 <!ENTITY forwardAsAttachment.tooltip "Tanlangan xabarni ilova sifatida uzatish">
 <!ENTITY fileButton.tooltip "Fayl tanlangan xabar">
 <!ENTITY archiveButton.tooltip "Arxiv tanlangan xabarlar">
-
+<!ENTITY openConversationButton.tooltip "Tanlangan xabarlar bo‘yicha suhbatni ko‘rsatish">
 <!ENTITY nextButton.tooltip "Keyingi o‘qilmagan xabarga o‘tish">
 <!ENTITY nextMsgButton.tooltip "Keyingi xabarga o‘tish">
 <!ENTITY previousButton.tooltip "Oldingi o‘qilmagan xabarga o‘tish">
@@ -629,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Xabarlarni yuklab olish">
 <!ENTITY folderContextGetMessages.accesskey "y">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Barcha yangilanishlarni pauza qilish">
+<!ENTITY folderContextPauseUpdates.label "Yangilanishlarni pauza qilish">
+<!ENTITY folderContextPauseUpdates.accesskey "Y">
 <!ENTITY folderContextOpenInNewWindow.label "Yangi oynada ochish">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Yangi ichki oynada ochish">
