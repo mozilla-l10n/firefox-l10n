@@ -21,7 +21,7 @@
 <!ENTITY toolsMenu.tooltip                    "Eines per a tots els complements">
 
 <!ENTITY getThemes.description                "Voleu personalitzar el vostre navegador?">
-
+<!ENTITY getThemes.learnMore                  "Trieu d'entre els milers de temes disponibles.">
 
 <!ENTITY cmd.back.tooltip                     "Vés enrere una pàgina">
 <!ENTITY cmd.forward.tooltip                  "Vés endavant una pàgina">

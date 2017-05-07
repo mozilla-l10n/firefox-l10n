@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Inici">
 
-
+<!ENTITY startupPage2.label        "En iniciar el &brandShortName;">
+<!ENTITY startupPage2.accesskey    "i">
 <!ENTITY startupUserHomePage.label "Mostra la pàgina d'inici">
 <!ENTITY startupBlankPage.label    "Mostra una pàgina en blanc">
 <!ENTITY startupPrevSession.label  "Mostra les finestres i pestanyes de la darrera vegada">
 
-
+<!ENTITY homepage2.label           "Pàgina d'inici">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Utilitza la pàgina actual">
 <!ENTITY useCurrentPage.accesskey  "c">
 <!ENTITY useMultiple.label         "Utilitza les pàgines actuals">

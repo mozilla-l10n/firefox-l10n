@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versió">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featureName "Nom">
+<!ENTITY aboutSupport.featureVersion "Versió">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Funcions experimentals">
 <!ENTITY aboutSupport.experimentName "Nom">

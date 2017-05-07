@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Tipus de lletra i colors">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Tipus de lletra per defecte">
+<!ENTITY  defaultFont2.accesskey      "d">
+<!ENTITY  defaultSize2.label          "Mida:">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Avançat…">
 <!ENTITY  advancedFonts.accesskey     "v">
