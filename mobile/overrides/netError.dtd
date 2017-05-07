@@ -59,10 +59,10 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "العنوان غير مفهوم">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج أن تثبّت برنامجًا آخر لفتح هذا الموقع.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج تثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "الخادوم الوسيط يرفض الاتصالات">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>تحقق من إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تواصل مع مدير شبكتك لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر إيجاد الخادوم الوسيط">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
