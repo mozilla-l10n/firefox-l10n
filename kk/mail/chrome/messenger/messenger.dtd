@@ -763,8 +763,8 @@
      Watch Thread. Localizers can pick a suitable key
   -->
 <!ENTITY contextWatchThreadMenu.accesskey "">
-<!ENTITY contextSaveAs.label "Қалайша сақтау...">
-<!ENTITY contextSaveAs.accesskey "Қ">
+<!ENTITY contextSaveAs.label "Қалайша сақтау…">
+<!ENTITY contextSaveAs.accesskey "й">
 <!ENTITY contextPrint.label "Баспаға шығару…">
 <!ENTITY contextPrint.accesskey "ш">
 <!ENTITY contextPrintPreview.label "Алдын-ала қарау">

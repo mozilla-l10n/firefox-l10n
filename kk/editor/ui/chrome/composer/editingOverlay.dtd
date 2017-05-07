@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- File menu items -->
 
-<!ENTITY openFileCmd.label "Файлды ашу...">
+<!ENTITY openFileCmd.label "Файлды ашу…">
 <!ENTITY openFileCmd.accesskey "Ф">
 <!ENTITY openFileCmd.key "O">
 <!ENTITY openRemoteCmd.label "Интернет адресін ашу…">
