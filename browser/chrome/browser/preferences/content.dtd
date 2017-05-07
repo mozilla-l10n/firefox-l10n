@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "قلم‌ها و رنگ‌ها">
 
-
-
-
+<!ENTITY  defaultFont2.label          "قلم پیش‌فرض">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "اندازه">
+<!ENTITY  defaultSize2.accesskey      "ا">
 
 <!ENTITY  advancedFonts.label         "پیشرفته...">
 <!ENTITY  advancedFonts.accesskey     "پ">
