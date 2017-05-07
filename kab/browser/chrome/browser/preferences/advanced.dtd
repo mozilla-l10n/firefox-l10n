@@ -91,11 +91,14 @@
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Sken-d amazray n ulqqem…">
+<!ENTITY updateHistory2.accesskey        "n">
 
 <!ENTITY useService.label                "Seqdec ameẓlu n ugilal i usebded n ileqman">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.accesskey   "Ẓ">
 
+<!ENTITY reports.label                   "Ineqqisen">
 
 <!ENTITY offlineStorageNotify.label               "Lɣu-yi-d ticki asmel yebɣa ad isekles isefka i useqdec arusrid ">
 <!ENTITY offlineStorageNotify.accesskey           "L">
