@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Utilitza sempre les tecles de cursor per navegar en les pàgines">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Cerca el text en començar a teclejar">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Avisa quan els llocs web provin de redirigir o actualitzar la pàgina">
+<!ENTITY blockAutoReload.accesskey       "v">
 <!ENTITY useOnScreenKeyboard.label       "Mostra un teclat tàctil quan calgui">
 <!ENTITY useOnScreenKeyboard.accesskey   "M">
 

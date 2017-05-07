@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Nom del dispositiu">
-
-
+<!ENTITY changeSyncDeviceName2.label "Canvia el nom del dispositiu…">
+<!ENTITY changeSyncDeviceName2.accesskey "v">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancel·la">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Desa">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Canvia la imatge de perfil">
 <!ENTITY verifiedManage.label        "Gestiona el compte">
 <!ENTITY verifiedManage.accesskey    "a">
-
-
+<!ENTITY disconnect3.label           "Desconnecta…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verifiqueu l'adreça electrònica">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Oblida aquesta adreça electrònica">
