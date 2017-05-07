@@ -56,6 +56,8 @@
 <!ENTITY offlineStorage2.label           "Contingut web i dades de l'usuari fora de línia">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!ENTITY siteData.label                  "Dades dels llocs">
+
 
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
