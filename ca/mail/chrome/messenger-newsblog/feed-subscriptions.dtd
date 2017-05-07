@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Títol:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL del canal:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Introduïu un URL de canal vàlid per afegir">
 <!ENTITY locationValidate.label      "Valida">
 <!ENTITY validateText.label          "Comprova la validació i recupera un URL vàlid.">
