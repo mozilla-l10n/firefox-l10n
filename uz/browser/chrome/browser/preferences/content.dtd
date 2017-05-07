@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Shriftlar va ranglar">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Standart shrift">
+<!ENTITY  defaultFont2.accesskey      "S">
+<!ENTITY  defaultSize2.label          "Hajmi">
+<!ENTITY  defaultSize2.accesskey      "H">
 
 <!ENTITY  advancedFonts.label         "Qo‘shimcha…">
 <!ENTITY  advancedFonts.accesskey     "Q">
@@ -52,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Tarjimon:">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM tarkib">
 
 <!ENTITY  playDRMContent.label         "DRM tarkibni ko‘rsatish">
 <!ENTITY  playDRMContent.accesskey     "k">

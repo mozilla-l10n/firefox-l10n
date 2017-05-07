@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Ishga tushirish">
 
-
-
+<!ENTITY startupPage2.label        "&brandShortName; ishga tushirilganda:">
+<!ENTITY startupPage2.accesskey    "i">
+<!ENTITY startupUserHomePage.label "Bosh sahifa ko‘rsatilsin">
 <!ENTITY startupBlankPage.label    "Bo‘sh sahifa ko‘rsatilsin">
+<!ENTITY startupPrevSession.label  "So‘nggi marta ochilgan barcha oynalar ko‘rsatilsin">
 
-
-
+<!ENTITY homepage2.label           "Bosh sahifa">
+<!ENTITY homepage2.accesskey       "s">
 <!ENTITY useCurrentPage.label      "Joriy sahifadan foydalanish">
 <!ENTITY useCurrentPage.accesskey  "J">
 <!ENTITY useMultiple.label         "Joriy sahifalardan foydalanish">
@@ -26,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "K">
 <!ENTITY chooseFolderMac.label        "Tanlash">
 <!ENTITY chooseFolderMac.accesskey    "T">
-
-
+<!ENTITY alwaysAskWhere.label         "Fayllarni qayerga saqlash doimo mendan so‘ralsin">
+<!ENTITY alwaysAskWhere.accesskey     "d">
 
 <!ENTITY alwaysCheckDefault2.label        "Agar &brandShortName; standart brauzeringiz bo‘lsa, doimo tekshirilsin">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; Firefox’ni bir vaqtda ishga tushirishga ruxsat berish">
 <!ENTITY useFirefoxSync.label             "Maslahat: U alohida profillardan foydalandi. Ular o‘rtasida ma’lumotlarni almashish uchum sinxronlashdan foydalaning.">
-
-
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; hisobiga kirish…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; parametrlarini ochish">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; brauzerida multi-jarayonni yoqib qo‘yish">
