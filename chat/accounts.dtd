@@ -20,7 +20,7 @@
 <!ENTITY accountManager.noAccount.description "انقر على زر &accountManager.newAccount.label; وسيُرشدك &brandShortName; خلال عملية إعداد الحساب.">
 <!ENTITY account.autoSignOn.label     "لِج عند بدأ التشغيل">
 <!ENTITY account.autoSignOn.accesskey "د">
-<!ENTITY account.connect.label        "اتصل">
+<!ENTITY account.connect.label        "اتّصل">
 <!ENTITY account.connect.accesskey    "ت">
 <!ENTITY account.disconnect.label     "اقطع الاتصال">
 <!ENTITY account.disconnect.accesskey "ق">
