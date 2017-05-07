@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Seguretat">
+
 <!ENTITY  warnOnAddonInstall.label        "Avisa quan els llocs web intentin instal·lar complements">
 <!ENTITY  warnOnAddonInstall.accesskey    "i">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "Formularis i contrasenyes">
 
+<!ENTITY  rememberLogins1.label          "Recorda les dades d'inici de sessió i contrasenyes dels llocs">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Excepcions…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

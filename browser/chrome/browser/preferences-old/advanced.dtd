@@ -25,8 +25,8 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
-
-
+<!ENTITY checkUserSpelling.label         "Verifica l'ortografia a mesura que s'escriu">
+<!ENTITY checkUserSpelling.accesskey     "o">
 
 <!ENTITY dataChoicesTab.label            "Elecció de dades">
 
@@ -36,8 +36,8 @@
 <!ENTITY healthReportLearnMore.label     "Més informació">
 
 <!ENTITY telemetryDesc.label             "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Comparteix dades addicionals (és a dir, la telemesura)">
+<!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Més informació">
 
 <!ENTITY crashReporterDesc2.label         "Els informes de fallada ajuden a &vendorShortName; a resoldre problemes i a fer més estable i segur el vostre navegador">
@@ -58,7 +58,9 @@
 <!ENTITY offlineStorage2.label           "Contingut web i dades de l'usuari fora de línia">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "Dades dels llocs">
+<!ENTITY clearSiteData.label             "Esborra totes les dades">
+<!ENTITY clearSiteData.accesskey         "b">
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
 <!ENTITY siteDataLearnMoreLink.label     "Més informació">
@@ -81,10 +83,11 @@
 
 <!ENTITY updateTab.label                 "Actualització">
 
+<!ENTITY updateApplication.label         "Actualitzacions del &brandShortName;">
 <!ENTITY updateAuto1.label               "Instal·la les actualitzacions automàticament (és l'opció recomanada per seguretat)">
 <!ENTITY updateAuto1.accesskey           "a">
-
-
+<!ENTITY updateCheckChoose.label         "Cerca actualitzacions, però demana'm si vull instal·lar-les">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "No cerquis mai actualitzacions (poc recomanable pel risc de seguretat que comporta)">
 <!ENTITY updateManual.accesskey          "N">
 
@@ -94,10 +97,12 @@
 <!ENTITY useService.label                "Instal·la les actualitzacions en segon pla">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY autoUpdateOthers.label          "Actualitza automàticament">
 <!ENTITY enableSearchUpdate.label        "Motors de cerca">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
-
+<!ENTITY offlineStorageNotify.label               "Avisa quan un lloc web demani emmagatzemar dades per utilitzar-les fora de línia">
+<!ENTITY offlineStorageNotify.accesskey           "f">
 <!ENTITY offlineStorageNotifyExceptions.label     "Excepcions…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -109,7 +114,7 @@
 
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certPersonal.label              "Sol·licituds">
-
+<!ENTITY certPersonal.description        "Quan un servidor demani el meu certificat personal:">
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
 
 <!ENTITY selectCerts.ask                 "Demana-ho cada vegada">

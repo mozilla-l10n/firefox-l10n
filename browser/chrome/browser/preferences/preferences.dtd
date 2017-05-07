@@ -13,12 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 54em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 44.5em;">
 
+<!ENTITY  paneSearchResults.title       "Resultats de la cerca">
 <!ENTITY  paneGeneral.title             "General">
-
-
+<!ENTITY  paneFilesApplications.title   "Fitxers i aplicacions">
+<!ENTITY  panePrivacySecurity.title     "Privadesa i seguretat">
 <!ENTITY  paneContainers.title          "Pestanyes de contenidor">
-
+<!ENTITY  paneUpdates.title             "Actualitzacions">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!ENTITY  paneSync1.title          "Compte del Firefox">
+
+<!ENTITY  helpButton2.label        "Assistència del &brandShortName;">
 
 <!ENTITY  searchInput.label        "Cerca">
