@@ -102,8 +102,8 @@
 <!ENTITY  event.menu.edit.undo.accesskey                  "ت">
 <!ENTITY  event.menu.edit.redo.label                      "كرّر">
 <!ENTITY  event.menu.edit.redo.accesskey                  "ك">
-<!ENTITY  event.menu.edit.cut.label                       "قص">
-<!ENTITY  event.menu.edit.cut.accesskey                   "ص">
+<!ENTITY  event.menu.edit.cut.label                       "قصّ">
+<!ENTITY  event.menu.edit.cut.accesskey                   "ق">
 <!ENTITY  event.menu.edit.copy.label                      "انسخ">
 <!ENTITY  event.menu.edit.copy.accesskey                  "ن">
 <!ENTITY  event.menu.edit.paste.label                     "ألصق">
