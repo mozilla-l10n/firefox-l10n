@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Opne meldingspanel for lagring av passord">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handter deling av mikrofon med denne nettstaden">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokkert plasseringsinformasjon for denne nettstaden.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokkert datalagring for denne nettstaden.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokkert meldingar for denne nettstaden.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokkert vedvarande lagring for denne nettsida.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historikk">
 
@@ -908,12 +910,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "k">
 <!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
+<!ENTITY updateManual.message "Last ned eit heilt nytt eksemplar av &brandShorterName; og vi vil hjelpe deg med å installere den.">
 <!ENTITY updateManual.whatsnew.label "Sjå kva som er nytt.">
+<!ENTITY updateManual.header.message "&brandShorterName; kan ikkje oppdaterast til siste versjon.">
 <!ENTITY updateManual.acceptButton.label "Last ned &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "L">
 <!ENTITY updateManual.cancelButton.label "Ikkje no">
 <!ENTITY updateManual.cancelButton.accesskey "n">
+<!ENTITY updateManual.panelUI.label "Last ned eit heilt nytt eksemplar av &brandShorterName;">
 
+<!ENTITY updateRestart.message "Etter ein rask omstart, vil &brandShorterName; gjenopprette alle opne faner og vindauge.">
+<!ENTITY updateRestart.header.message2 "Start på nytt for å oppdatere &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Start om og gjenopprett">
+<!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikkje no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label "Start om &brandShorterName; for å installere oppdateringa">
 
+<!ENTITY pageActionButton.tooltip "Sidehandlingar">
