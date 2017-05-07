@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
-
-
+<!ENTITY chooseFileButton.label "Файлды таңдау…">
+<!ENTITY chooseFileButton.accessKey "Ф">
+<!ENTITY chooseFileLinkButton.label "Файлды таңдау…">
+<!ENTITY chooseFileLinkButton.accessKey "т">
 
 
 

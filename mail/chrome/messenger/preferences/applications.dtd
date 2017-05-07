@@ -16,9 +16,9 @@
 <!ENTITY saveTo.accesskey             "с">
 <!ENTITY alwaysAsk.label              "Файлдар сақталатын жері туралы әрқашан мені сұрау">
 <!ENTITY alwaysAsk.accesskey          "ж">
-<!ENTITY chooseFolderWin.label        "Қарап шығу...">
+<!ENTITY chooseFolderWin.label        "Қарап шығу…">
 <!ENTITY chooseFolderWin.accesskey    "ш">
-<!ENTITY chooseFolderMac.label        "Таңдау...">
+<!ENTITY chooseFolderMac.label        "Таңдау…">
 <!ENTITY chooseFolderMac.accesskey    "Т">
 
 <!ENTITY attachments.incoming.label   "Кіріс">

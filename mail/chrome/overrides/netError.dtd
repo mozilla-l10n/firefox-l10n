@@ -83,7 +83,7 @@
 
 <!ENTITY securityOverride.linkText "Немесе ерекше ереже енгізуіңіз мүмкін…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Осыдан кеткім келеді!">
-<!ENTITY securityOverride.exceptionButtonLabel "Ерекше ереже қосу...">
+<!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes

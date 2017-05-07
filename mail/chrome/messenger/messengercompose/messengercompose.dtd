@@ -14,7 +14,7 @@
 
 
 <!ENTITY newMessage.accesskey "Х">
-<!ENTITY newContact.label "Адрестік кітапша контакты...">
+<!ENTITY newContact.label "Адрестік кітапша контакты…">
 <!ENTITY newContact.accesskey "к">
 <!ENTITY attachMenu.label "Салынымды қосу">
 <!ENTITY attachMenu.accesskey "С">
@@ -83,15 +83,15 @@
 <!ENTITY deleteCmd.accesskey "ш">
 <!ENTITY editRewrapCmd.label "Қайта тасымалдау">
 
-<!ENTITY renameAttachmentCmd.label "Салынымды қайта атау...">
+<!ENTITY renameAttachmentCmd.label "Салынымды қайта атау…">
 <!ENTITY renameAttachmentCmd.accesskey "а">
 <!ENTITY selectAllCmd.label "Барлығын таңдау">
 
 <!ENTITY selectAllCmd.accesskey "Б">
-<!ENTITY findBarCmd.label "Табу...">
+<!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findBarCmd.accesskey "Т">
 
-<!ENTITY findReplaceCmd.label "Табу және алмастыру...">
+<!ENTITY findReplaceCmd.label "Табу және алмастыру…">
 <!ENTITY findReplaceCmd.accesskey "ы">
 
 <!ENTITY findAgainCmd.label "Іздеуді қайталау">
