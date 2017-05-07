@@ -112,6 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kkes isefka war tuqqna">
 
 <!ENTITY certificateTab.label            "Iselkinen">
+<!ENTITY certPersonal2.description       "Ticki aqeddac isuter aselkin-ik udmawan">
 <!ENTITY selectCerts.auto                "Fren yiwen s wudem awurman">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Steqsi-yi-d yal tikelt ">
