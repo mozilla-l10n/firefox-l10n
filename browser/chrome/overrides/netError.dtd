@@ -45,7 +45,7 @@
 <!ENTITY notCached.longDesc "<p>المستند المطلوب لم يعد متوفرًا في ذاكرة &brandShortName; الخبيئة.</p><ul><li>كإجراء وقائي، &brandShortName; لا يعيد طلب المستندات الحساسة بشكل آلي.</li><li>اضغط على ”حاول مرة أخرى“ لإعادة طلب المستند من الموقع.</li></ul>">
 
 <!ENTITY netOffline.title "وضع اللا اتصال">
-<!ENTITY netOffline.longDesc2 "<ul> <li>اضغط على ”حاول مرة أخرى“ للتبديل إلى وضع الاتصال وإعادة تحميل الصفحة.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>اضغط على ”حاول مجددًا“ للتبديل إلى وضع الاتصال و إعادة تحميل الصفحة.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
@@ -60,7 +60,7 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "لم يُفهم العنوان">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>ربما تحتاج لتثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "<ul> <li>قد تحتاج تثبيت برمجيات أخرى لفتح هذا العنوان.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "يرفض الخادوم الوسيط الاتصال">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
@@ -69,10 +69,10 @@
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تأكد من أن اتصالك الشبكي يعمل.</li> <li>إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
 
 <!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
-<!ENTITY redirectLoop.longDesc "<ul> <li>قد تحدث هذه المشكلة أحيانًا بسبب تعطيل أو رفض قبول الكعكات.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>سبب هذه المشكلة هو تعطيل الكعكات أو عدم قبولها.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "استجابة غير متوقعة من الخادوم">
-<!ENTITY unknownSocketType.longDesc "<ul> <li>تأكد من أن نظامك يحتوي على مدير أمن شخصي مُثبّت.</li> <li>قد يكون هذا بسبب إعدادات غير قياسية للخادوم.</li> </ul>">
+<!ENTITY unknownSocketType.longDesc "<ul> <li>تأكّد أنّ مدير الأمن الشخصي مثبّت في نظامك.</li> <li>قد يكون سبب هذا هو إعداد مخالف للمعايير في الخادوم.</li> </ul>">
 
 <!ENTITY nssFailure2.title "فشل الاتصال الآمن">
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>لا يمكن عرض الصفحة التي تحاول زيارتها لعدم إمكانية الاستيثاق من البيانات المستقبلة.</li> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
