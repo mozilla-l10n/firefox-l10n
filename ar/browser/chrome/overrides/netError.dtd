@@ -66,7 +66,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>اتصل بمدير الشبكة لتتأكد أن الخادوم الوسيط يعمل.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "تعذر العثور على الخادوم الوسيط">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تأكد من أن اتصالك الشبكي يعمل.</li> <li>إذا كان حاسوبك محميا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>افحص إعدادات الوسيط لتتأكد أنها صحيحة.</li> <li>تأكد من أن اتصالك الشبكي يعمل.</li> <li>إذا كان حاسوبك محميًا بجدار ناري أو وسيط، تأكد من السماح ل‍&brandShortName; بالنفاذ إلى الوِب.</li> </ul>">
 
 <!ENTITY redirectLoop.title "لا تعيد الصفحة التوجيه بشكل سليم">
 <!ENTITY redirectLoop.longDesc "<ul> <li>قد تحدث هذه المشكلة أحيانًا بسبب تعطيل أو رفض قبول الكعكات.</li> </ul>">
