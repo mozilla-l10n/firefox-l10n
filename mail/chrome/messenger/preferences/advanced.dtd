@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Použít maximálně">
 <!ENTITY useCacheBefore.accesskey        "P">
 <!ENTITY useCacheAfter.label             "MB diskové mezipaměti">
+<!ENTITY overrideSmartCacheSize.label    "Nepoužívat automatickou správu mezipaměti">
+<!ENTITY overrideSmartCacheSize.accesskey "e">
 <!ENTITY clearCacheNow.label             "Vymazat">
 <!ENTITY clearCacheNow.accesskey         "m">
 
