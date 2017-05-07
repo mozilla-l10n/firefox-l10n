@@ -723,7 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings in the subview. -->
 
 <!ENTITY identity.description.insecure "A sua ligação a este site não é privada. A informação que submeter pode ser vista por outros (tal como palavras-passe, mensagens, cartões de crédito, etc.).">
-<!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e podem ser comprometidas.">
+<!ENTITY identity.description.insecureLoginForms "As credenciais que introduzir nesta página podem não ser seguras e poderão ser comprometidas.">
 <!ENTITY identity.description.weakCipher "A sua ligação a este website utiliza uma encriptação fraca e não é privada.">
 <!ENTITY identity.description.weakCipher2 "Outras pessoas podem ver a sua informação ou modificar o comportamento do website.">
 <!ENTITY identity.description.activeBlocked "O &brandShortName; bloqueou partes desta página que não são seguras.">
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "Esta ação não pode ser desfeita.">
 <!ENTITY panicButton.view.forgetButton            "Esquecer!">
 
-<!ENTITY panicButton.thankyou.msg1                "O seu histórico foi limpo.">
+<!ENTITY panicButton.thankyou.msg1                "O seu histórico recente foi limpo.">
 <!ENTITY panicButton.thankyou.msg2                "Navegação segura!">
 <!ENTITY panicButton.thankyou.buttonlabel         "Obrigado!">
 
