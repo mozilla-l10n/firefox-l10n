@@ -24,7 +24,7 @@
 <!ENTITY accountAliasField.label      "الكنية:">
 <!ENTITY accountAliasInfo.label       "ستُعرض هذه في محادثاتك عندما تتكلم، ولن يراها المتراسلون.">
 <!ENTITY accountProxySettings.caption "إعدادات الوسيط">
-<!ENTITY accountProxySettings.change.label     "غيِّر…">
+<!ENTITY accountProxySettings.change.label     "غيّر…">
 <!ENTITY accountProxySettings.change.accessKey "غ">
 
 <!ENTITY accountSummaryTitle.label   "ملخّص">
