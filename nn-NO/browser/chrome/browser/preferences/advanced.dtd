@@ -114,5 +114,6 @@
 <!ENTITY viewSecurityDevices.label       "Sikkerheitseiningar">
 <!ENTITY viewSecurityDevices.accesskey   "k">
 
+<!ENTITY performance.label               "Yting">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
