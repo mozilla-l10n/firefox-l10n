@@ -67,7 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Inicia la sessió">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-
+<!ENTITY signedIn.settings.label       "Paràmetres de sincronització">
+<!ENTITY signedIn.settings.description "Trieu què voleu sincronitzar entre els vostres dispositius que utilitzen el &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
