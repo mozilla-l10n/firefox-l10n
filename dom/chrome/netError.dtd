@@ -41,7 +41,7 @@
 <!ENTITY contentEncodingError.longDesc "<p>الصفحة التي تحاول فتحها لا يمكن عرضها لأنها تستخدم صيغة ضغط غير سليمة أو غير مدعومة.</p><ul><li>الرجاء الاتصال أصحاب الموقع لإخبارهم بهذه المشكلة. </li></ul>">
 
 <!ENTITY unsafeContentType.title "نوع ملف غير آمن">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY netReset.title "قُوطِع الاتصال">
 <!ENTITY netReset.longDesc "<p>قُطعت وصلة الشبكة أثناء بدأ الاتصال. أعد المحاولة رجاءً.</p>">
