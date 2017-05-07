@@ -27,13 +27,13 @@
 <!ENTITY lightning.menupopup.open.calendar.accesskey  "ت">
 <!-- View Menu -->
 
-<!ENTITY lightning.menu.view.calendar.label            "تقويم">
+<!ENTITY lightning.menu.view.calendar.label            "التقويم">
 <!ENTITY lightning.menu.view.calendar.accesskey        "ت">
-<!ENTITY lightning.menu.view.tasks.label               "مهام">
+<!ENTITY lightning.menu.view.tasks.label               "المهام">
 <!ENTITY lightning.menu.view.tasks.accesskey           "م">
 <!-- Events and Tasks menu -->
 
-<!ENTITY lightning.menu.eventtask.label                "أحداث و مهام">
+<!ENTITY lightning.menu.eventtask.label                "الأحداث و المهام">
 <!ENTITY lightning.menu.eventtask.accesskey            "ح">
 <!-- properties dialog, calendar creation wizard -->
 
