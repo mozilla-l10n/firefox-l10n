@@ -19,5 +19,5 @@
 <!ENTITY selectButton.label "اختر…">
 <!ENTITY selectButton.accesskey "خ">
 <!ENTITY MsgSelectDesc.label "اختر مجلدات بريد ومجموعات أخبار لتستخدم بلا اتصال.">
-<!ENTITY MsgSelectInd.label "نزِّل">
+<!ENTITY MsgSelectInd.label "نزّل">
 <!ENTITY MsgSelectItems.label "المجلدات و مجموعات أخبار">
