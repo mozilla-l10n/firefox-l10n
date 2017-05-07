@@ -47,10 +47,10 @@
 <!ENTITY netOffline.longDesc3 "<ul> <li>حاول مرة أخرى. &brandShortName; سيحاول فتح اتصال وإعادة تحميل الصفحة. <button id='wifi'>فعّل واي فاي</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "خطأ في ترميز المحتوى">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>تواصَل رجاءً مع مالكي الموقع لإخبارهم عن هذه المشكلة.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "نوع ملف غير آمن">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>تواصَل رجاءً مع مالكي الموقع لإخبارهم عن هذه المشكلة.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> <li>من فضلك اتصل بمالكي الموقع لإعلامهم بهذه المشكلة.</li> </ul>">
 
 <!ENTITY netReset.title "صُفّر الاتصال">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
