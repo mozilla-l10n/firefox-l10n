@@ -21,9 +21,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Weergawe">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featureName "Naam">
+<!ENTITY aboutSupport.featureVersion "Weergawe">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Eksperimentele eienskappe">
 <!ENTITY aboutSupport.experimentName "Naam">
@@ -32,7 +32,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "Aktief">
 <!ENTITY aboutSupport.experimentEndDate "Einddatum">
 <!ENTITY aboutSupport.experimentHomepage "Tuisblad">
-
+<!ENTITY aboutSupport.experimentBranch "Tak">
 
 <!ENTITY aboutSupport.appBasicsTitle "Basiese toepassingdetails">
 <!ENTITY aboutSupport.appBasicsName "Naam">
@@ -40,6 +40,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Bywerkkanaal">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Bywerkgeskiedenis">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "Wys bywerkgeskiedenis">
 
