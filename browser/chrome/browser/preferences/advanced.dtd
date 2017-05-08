@@ -133,5 +133,8 @@
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY limitContentProcess.label       "Límite de contenido de proceso">
+<!ENTITY limitContentProcess.description
+                                         "Mayor cantidad de procesos de contenido puede acelerar &brandShortName; cuando se usan múltiples pestañas, pero también consumirá más memoria.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
