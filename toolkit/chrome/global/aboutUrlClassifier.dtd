@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informāciju par url klasifikatoru">
+<!ENTITY aboutUrlClassifier.providerTitle               "Piegādātājs">
+<!ENTITY aboutUrlClassifier.provider                    "Piegādātājs">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Pēdējās atjaunināšanas laiks">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Pēdējās atjaunināšanas laiks">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Pēdējās atjaunināšanas statuss">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Atjauninājums">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Uzmeklēšana">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Atbilstība">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Pārbaudiet atrastos rezultātus">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Uzmeklēšana">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Pārbaudiet atrastos rezultātus">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Kešatmiņa">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Atmiņa">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Datubāze">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Atkļūdošana">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Iestatīt reģistrēšanas moduli">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Iestatīt reģistrēšanas failu">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Iestatīt JS reģistrēšanu">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Drošās pārlūkošanas reģistrēšanas moduļi">
+<!ENTITY aboutUrlClassifier.debugModules                "Pašreizējais reģistrācijas modulis">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Drošās pārlūkošanas JS ieraksti">
+<!ENTITY aboutUrlClassifier.debugFile                   "Pašreizējais reģistrācijas fails">
