@@ -59,8 +59,8 @@
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Apagar pasta">
 <!ENTITY deleteFolder.accesskey "A">
-<!ENTITY renameFolder.label "Mudar nome da pasta...">
-<!ENTITY renameFolder.accesskey "M">
+<!ENTITY renameFolder.label "Renomear pasta…">
+<!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactar pastas">
 <!ENTITY compactFolders.accesskey "t">
@@ -643,8 +643,8 @@
 <!ENTITY folderContextOpenNewTab.accesskey "s">
 <!ENTITY folderContextNew.label "Nova subpasta...">
 <!ENTITY folderContextNew.accesskey "N">
-<!ENTITY folderContextRename.label "Mudar nome">
-<!ENTITY folderContextRename.accesskey "M">
+<!ENTITY folderContextRename.label "Renomear">
+<!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Apagar">
 <!ENTITY folderContextRemove.accesskey "A">
 <!ENTITY folderContextCompact.label "Compactar">
