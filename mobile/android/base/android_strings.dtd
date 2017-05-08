@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Könyvjelző törölve">
 <!ENTITY bookmark_updated "Könyvjelző frissítve">
 <!ENTITY bookmark_options "Beállítások">
-
+<!ENTITY bookmark_save "Mentés">
 <!ENTITY screenshot_added_to_bookmarks "Képernyőkép hozzáadva a könyvjelzőkhöz">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elem">
 <!ENTITY bookmark_folder_one_item "1 elem">
-
+<!ENTITY bookmark_parent_folder "Szülőmappa">
 
 <!ENTITY reader_saved_offline "Kapcsolat nélkül mentve">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -218,6 +218,7 @@
 <!ENTITY pref_category_home_homepage "Honlap">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Mindig használja az új lapoknál">
 <!ENTITY home_homepage_title "Honlap beállítása">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -288,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Az appok megnyithatnak weboldalakat a &brandShortName; személyre szabott verziójával">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Megnyitás ebben: &formatS;">
+<!ENTITY custom_tabs_menu_footer "A motorháztető alatt: &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL másolva">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Tevékenységfolyam">
@@ -364,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "A rendszer betűméretének használata">
+<!ENTITY pref_use_system_font_size_summary "A webes tartalom méretezése a rendszer betűmérete alapján">
 
 <!ENTITY pref_media_autoplay_enabled "Automatikus lejátszás">
 <!ENTITY pref_media_autoplay_enabled_summary "A webhelyek automatikusan lejátszhatnak-e videókat és más médiatartalmakat">
@@ -494,7 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Megnyitás privát lapon">
 <!ENTITY contextmenu_remove "Eltávolítás">
 <!ENTITY contextmenu_add_to_launcher "Kezdőképernyőhöz adás">
-
+<!ENTITY contextmenu_set_as_homepage "Beállítás kezdőlapként">
 <!ENTITY contextmenu_share "Megosztás">
 <!ENTITY contextmenu_pasteandgo "Beillesztés és ugrás">
 <!ENTITY contextmenu_paste "Beillesztés">
@@ -563,7 +568,7 @@
 <!ENTITY button_yes "Igen">
 <!ENTITY button_no "Nem">
 <!ENTITY button_clear_data "Adatok törlése">
-
+<!ENTITY button_set "Beállítás">
 <!ENTITY button_clear "Törlés">
 <!ENTITY button_copy "Másolás">
 
