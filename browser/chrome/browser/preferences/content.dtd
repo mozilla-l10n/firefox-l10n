@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Betűk és színek">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Alapértelmezett betűkészlet">
+<!ENTITY  defaultFont2.accesskey      "A">
+<!ENTITY  defaultSize2.label          "Méret">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Speciális…">
 <!ENTITY  advancedFonts.accesskey     "c">
