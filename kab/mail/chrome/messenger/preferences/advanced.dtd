@@ -89,6 +89,7 @@
 <!ENTITY useCacheBefore.label            "Seqdec arama">
 <!ENTITY useCacheBefore.accesskey        "q">
 <!ENTITY useCacheAfter.label             "MAṬ n tallunt i tuffirt">
+<!ENTITY overrideSmartCacheSize.label    "Snifel asefrek awurman n tuffirt">
 <!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Sfeḍ tura">
 <!ENTITY clearCacheNow.accesskey         "S">

@@ -4,6 +4,7 @@
 
 <!ENTITY loginAtStartup.label          "Senqed imagraden imaynuten di tnekra">
 <!ENTITY loginAtStartup.accesskey      "q">
+<!ENTITY biffAll.label                 "Rmed ileqman i akk asuddem">
 <!ENTITY biffAll.accesskey             "E">
 
 <!ENTITY newFeedSettings.label         "Iɣewwaṛen imezwar i tnelliyin timaynutin">

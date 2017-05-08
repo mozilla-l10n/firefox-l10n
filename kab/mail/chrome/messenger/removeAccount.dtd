@@ -14,6 +14,7 @@
 <!ENTITY removeDataChat.accesskey     "d">
 <!ENTITY removeDataLocalAccount.desc  "Ad yekkes akk iznan, ikaramen akked imzizdigen icudden qer umiḍan agi seg udebsi yinek adigan. Ayagi ur yettḥaz ara kra n yeznan yellan deg uqeddac. Ur fern ara ayagi ma yella tenwiḍ ad teǧǧeḍ isefka idiganen akken ad ten-t-sqedceḍ ar zdat di &brandShortName;.">
 <!ENTITY removeDataServerAccount.desc "Ad yekkes akk iznan, ikaramen akked imzizdigen icudden ɣer umiḍan agi seg udebsi yinek adigan. Iznan inek akked ikaramen inek ad qqimen deg uqeddac.">
+<!ENTITY removeDataChatAccount.desc   "Kkes akk iγmisen n udiwenni ittwaskelsen i umiḍan-agi deg uḍebṣi inek adigan.">
 <!ENTITY showData.label               "Sken adig n isefka">
 <!ENTITY showData.accesskey           "i">
 <!ENTITY progressPending              "Tukksa n isefka yettwafernen…">

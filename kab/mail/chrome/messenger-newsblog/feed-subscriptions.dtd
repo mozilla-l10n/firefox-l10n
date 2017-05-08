@@ -25,6 +25,7 @@
 <!ENTITY biffMinutes.accesskey       "n">
 <!ENTITY biffDays.label              "ussan">
 <!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Ahulen n umaẓrag:">
 
 <!ENTITY quickMode.label             "Sken agzul n umagrad deg umḍiq n usali n usebter web">
 <!ENTITY quickMode.accesskey         "S">

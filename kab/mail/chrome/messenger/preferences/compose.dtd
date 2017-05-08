@@ -54,6 +54,7 @@
 <!ENTITY directoriesNone.label                 "Ula Yiwen">
 <!ENTITY editDirectories.label                 "Ẓreg ikaramen...">
 <!ENTITY editDirectories.accesskey             "Ẓ">
+<!ENTITY showAsDefault.label                   "Akatar amezwar deg lldi n imedlis n tansiwin:">
 <!ENTITY showAsDefault.accesskey               "S">
 <!ENTITY showAsDefaultLast.label               "Akaram aneggaru yettwasqedcen">
 
