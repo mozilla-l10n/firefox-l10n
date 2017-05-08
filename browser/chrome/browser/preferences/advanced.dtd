@@ -84,6 +84,8 @@
 <!ENTITY updateApplication.label         "&brandShortName;-oppdateringar">
 <!ENTITY updateApplication.description   "Tillat &brandShortName; å">
 
+<!ENTITY updateHistory2.label            "Vis oppdateringshistorikk…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
 <!ENTITY useService.accesskey            "B">
