@@ -309,6 +309,7 @@
 <!ENTITY content_notification_action_settings2 "સેટિંગ્સ">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
+<!ENTITY content_notification_action_read_now "હમણાં વાંચો">
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
      date, depending on locale. For en_US this is for example: Feb 24, 2016. For more details see the Android developer
      documentation for DateFormat.getMediumDateFormat(). -->
@@ -316,10 +317,14 @@
 <!ENTITY pref_char_encoding "અક્ષર સંગ્રહપદ્ધતિ">
 <!ENTITY pref_char_encoding_on "મેનુ બતાવો">
 <!ENTITY pref_char_encoding_off "મેનુ બતાવશો નહિં">
+<!ENTITY pref_clear_private_data2 "ખાનગી ડેટા સાફ કરો">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
+<!ENTITY pref_clear_private_data_now_tablet "હમણાં સાફ કરો">
+<!ENTITY pref_clear_on_exit_title3 "બહાર નીકળતી વખતે ખાનગી માહિતીને સાફ કરો">
 <!ENTITY pref_plugins "પ્લગઇન્સ">
 <!ENTITY pref_plugins_enabled "સક્રિય કરેલ">
+<!ENTITY pref_plugins_tap_to_play2 "રમવા માટે સ્પર્શ કરો">
 <!ENTITY pref_plugins_disabled "નિષ્ક્રિય કરેલ">
 <!ENTITY pref_restore_always "હંમેશા પુનઃસંગ્રહો">
 <!ENTITY pref_restore_quit "&brandShortName; બંધ કર્યા પછી પુનઃસંગ્રહો નહિ">
