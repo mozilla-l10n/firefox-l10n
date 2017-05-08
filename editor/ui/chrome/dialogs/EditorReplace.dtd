@@ -9,8 +9,8 @@
 <!ENTITY findField.accesskey "K">
 <!ENTITY replaceField.label "Csere erre:">
 <!ENTITY replaceField.accesskey "C">
-
-
+<!ENTITY caseSensitiveCheckbox.label "Kis- és nagybetűk megkülönböztetése">
+<!ENTITY caseSensitiveCheckbox.accesskey "i">
 <!ENTITY wrapCheckbox.label "Folytatás az elejéről">
 <!ENTITY wrapCheckbox.accesskey "e">
 <!ENTITY backwardsCheckbox.label "Keresés visszafelé">
@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "r">
 <!ENTITY replaceAllButton.label "Mindet cseréli">
 <!ENTITY replaceAllButton.accesskey "M">
-
-
+<!ENTITY closeButton.label "Bezárás">
+<!ENTITY closeButton.accesskey "B">

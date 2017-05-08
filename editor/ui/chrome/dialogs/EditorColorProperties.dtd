@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Háttérkép:">
 <!ENTITY backgroundImage.accessKey "k">
 <!ENTITY backgroundImage.tooltip "Kép használata háttérképként ehhez a dokumentumhoz">
-
+<!ENTITY backgroundImage.shortenedDataURI "Rövidített adat URI (a másolás a teljes URI-t a vágólapra helyezi)">
