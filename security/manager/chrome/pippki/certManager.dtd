@@ -34,7 +34,7 @@
 <!ENTITY certmgr.certdetail.sha256fingerprint "SHA-256 指纹">
 <!ENTITY certmgr.certdetail.sha1fingerprint   "SHA1 指纹">
 
-<!ENTITY certmgr.editcacert.title             "编辑CA证书信任设置">
+<!ENTITY certmgr.editcacert.title             "编辑证书颁发机构信任关系设置">
 <!ENTITY certmgr.editcert.edittrust           "编辑信任设置：">
 <!ENTITY certmgr.editcert.trustssl            "此证书可以标识网站。">
 <!ENTITY certmgr.editcert.trustemail          "此证书可以标识电子邮件用户。">
