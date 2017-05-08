@@ -21,8 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Tisefsiyin d yiniten">
 
+<!ENTITY  defaultFont2.label          "Tasefsit tamezwarut">
 <!ENTITY  defaultFont2.accesskey      "K">
 <!ENTITY  defaultSize2.label          "Teɣzi">
+<!ENTITY  defaultSize2.accesskey      "T">
 
 <!ENTITY  advancedFonts.label         "Talqayt…">
 <!ENTITY  advancedFonts.accesskey     "l">
