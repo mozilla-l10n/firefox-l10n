@@ -7,6 +7,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Imfeki">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Akud n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Akud n uleqqem i d-iteddun">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Addad n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Takatut">
