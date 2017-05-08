@@ -4,8 +4,8 @@
 
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
-<!-- File Menu -->
 
+<!-- File Menu -->
 <!ENTITY newFolderCmd.label "Akaram…">
 <!ENTITY newFolderCmd.accesskey "A">
 <!ENTITY closeTabCmd2.label "Mdel iccer">
@@ -85,8 +85,8 @@
 <!ENTITY printPreviewCmd.accesskey "t">
 <!ENTITY printSetupCmd.label "Aswel n usebter...">
 <!ENTITY printSetupCmd.accesskey "b">
-<!-- Edit Menu -->
 
+<!-- Edit Menu -->
 <!ENTITY deleteMsgCmd.label "Kkes izen">
 <!ENTITY deleteMsgCmd.accesskey "K">
 <!ENTITY undeleteMsgCmd.label "Sefsex tukksa n yizen">
@@ -126,8 +126,8 @@
 <!ENTITY undoDefaultCmd.accesskey "S">
 <!ENTITY redoDefaultCmd.label "Err-d">
 <!ENTITY redoDefaultCmd.accesskey "E">
-<!-- View Menu -->
 
+<!-- View Menu -->
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
 <!ENTITY menubarCmd.accesskey "f">
 <!ENTITY showMessengerToolbarCmd.label "Afeggag n ifecka n tirawt">
@@ -167,8 +167,8 @@
 <!ENTITY folderPaneBar.label "Afeggag n ugalis n ukaram">
 <!ENTITY folderPaneBar.accesskey "r">
 <!ENTITY folderModeSelector.label "Timeẓriyin n ukaram">
-<!-- Sort Menu -->
 
+<!-- Sort Menu -->
 <!ENTITY sortMenu.label "Smizzwer s:">
 <!ENTITY sortMenu.accesskey "S">
 <!ENTITY sortByDateCmd.label "Azemz">
@@ -266,8 +266,8 @@
 <!ENTITY pageSourceCmd.key "u">
 <!ENTITY getNewMessagesCmd.key "y">
 <!ENTITY getAllNewMessagesCmd.key "Y">
-<!-- Search Menu -->
 
+<!-- Search Menu -->
 <!ENTITY findMenu.label "Nadi">
 <!ENTITY findMenu.accesskey "N">
 <!ENTITY findCmd.label "Nadi deg izen-agi…">
@@ -284,8 +284,8 @@
 <!ENTITY searchMailCmd.key "f">
 <!ENTITY searchAddressesCmd.label "Nadi tansiwin…">
 <!ENTITY searchAddressesCmd.accesskey "d">
-<!-- Go Menu -->
 
+<!-- Go Menu -->
 <!ENTITY goMenu.label "Bdu">
 <!ENTITY goMenu.accesskey "B">
 <!ENTITY nextMenu.label "Ɣeṛ zdat">
@@ -326,8 +326,8 @@
 <!ENTITY goRecentlyClosedTabs.accesskey "m">
 <!ENTITY startPageCmd.label "Asebter s usenker n yimayl">
 <!ENTITY startPageCmd.accesskey "s">
-<!-- Message Menu -->
 
+<!-- Message Menu -->
 <!ENTITY msgMenu.label "Izen">
 <!ENTITY msgMenu.accesskey "I">
 <!ENTITY newMsgCmd.label "Izen amaynut">
@@ -443,11 +443,11 @@
 <!ENTITY openFeedSummary.accesskey "L">
 <!ENTITY openFeedWebPageInMP.label "Semmeskel gar usebter Web akked ugzul deg ugalis n yizen">
 <!ENTITY openFeedWebPageInMP.accesskey "m">
+
 <!-- Windows Menu -->
-
 <!ENTITY windowMenu.label "Asfaylu">
-<!-- Tools Menu -->
 
+<!-- Tools Menu -->
 <!ENTITY tasksMenu.label "Ifecka">
 <!ENTITY tasksMenu.accesskey "f">
 <!ENTITY messengerCmd.label "Tirawt &amp; igrawen n isalen">
@@ -493,8 +493,8 @@
      on Unix systems
   -->
 <!ENTITY accountManagerCmdUnix2.accesskey "A">
-<!-- Developer Tools Submenu -->
 
+<!-- Developer Tools Submenu -->
 <!ENTITY devtoolsMenu.label "Ifecka n tneflit ">
 <!ENTITY devtoolsMenu.accesskey "c">
 <!ENTITY devToolboxCmd.label "Ifecka n tneflit">
@@ -509,17 +509,17 @@
 <!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Tacirra JavaScript">
 <!ENTITY scratchpadCmd.accesskey "T">
+
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
-
 <!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
 <!ENTITY scratchpadCmd.keytext "F4">
-<!-- Mail Toolbar -->
 
+<!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Awid iznan">
 <!ENTITY newMsgButton.label "Aru">
 <!ENTITY replyButton.label "Err">
@@ -556,8 +556,8 @@
 <!ENTITY tagButton.label "Tabzimt">
 <!ENTITY compactButton.label "Ssed">
 <!ENTITY appmenuButton.label "Umuɣ n usnas">
-<!-- Mail Toolbar Tooltips-->
 
+<!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Anadi leqqayen n iznan">
 <!ENTITY getMsgButton.tooltip "Awi-d iznan imaynuten">
 <!ENTITY getAllNewMsgCmd.label "Awi-d akk iznan imaynuten ">
@@ -590,50 +590,53 @@
 <!ENTITY tagButton.tooltip "Rnu tabzimt i yiznan">
 <!ENTITY compactButton.tooltip "Kkes iznan ittwaksen seg ukaram ifernen">
 <!ENTITY appmenuButton1.tooltip "Sken umuɣ n &brandShortName;">
-<!-- Toolbar Button Popup -->
 
+<!-- Toolbar Button Popup -->
 <!ENTITY buttonMenuForwardAsInline.label "Welleḥ deg umnaḍ">
 <!ENTITY buttonMenuForwardAsAttachment.label "Welleh am umedday">
-<!-- Remote Content Button Popup -->
 
+<!-- Remote Content Button Popup -->
 <!ENTITY remoteContentOptionsAllowForMsg.label "Sken agbur anmeggag ɣef izen-agi">
 <!ENTITY remoteContentOptionsAllowForMsg.accesskey "k">
 <!ENTITY editRemoteContentSettings.label "Ẓreg iɣewwaṛen n ugbur anmeggag…">
 <!ENTITY editRemoteContentSettings.accesskey "Ẓ">
 <!ENTITY editRemoteContentSettingsUnix.label "Ẓreg ismenyifen n ugbur anmeggag…">
 <!ENTITY editRemoteContentSettingsUnix.accesskey "Ẓ">
-<!-- Phishing Button Popup -->
 
+<!-- Phishing Button Popup -->
 <!ENTITY phishingOptionIgnore.label "Anef alɣu i yizen-agi">
 <!ENTITY phishingOptionIgnore.accesskey "n">
 <!ENTITY phishingOptionSettings.label "Ẓreg iɣewwaṛen n tiffin n ukellex…">
 <!ENTITY phishingOptionSettings.accesskey "Ẓ">
 <!ENTITY phishingOptionSettingsUnix.label "Ẓreg iɣewwaṛen n tiffin n ukellex…">
 <!ENTITY phishingOptionSettingsUnix.accesskey "Ẓ">
-<!-- AppMenu Popup -->
 
+<!-- AppMenu Popup -->
 <!ENTITY appmenuNewMsgCmd.label "Izen amaynut">
 <!ENTITY appmenuNewContactCmd.label "Anermis n imedlis n tensa…">
 <!ENTITY appmenuEditMenu.label "Ẓreg">
 <!ENTITY appmenuToolbarLayout.label "Aseflu n ifeggagen n ifecka…">
 <!ENTITY appmenuSelectThread.label "Fren asqerdec">
 <!ENTITY appmenuSelectFlagged.label "Sefsex tukksa n yizen yettwafernen">
-<!-- Tags Menu Popup -->
 
+<!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Tabzimt tamaynut…">
 <!ENTITY addNewTag.accesskey "b">
 <!ENTITY manageTags.label "Sefrek tibzimin…">
 <!ENTITY manageTags.accesskey "f">
-<!-- Folder Pane -->
 
+<!-- Folder Pane -->
 <!ENTITY folderNameColumn.label "Isem">
 <!ENTITY folderUnreadColumn.label "Ur ittwaɣṛi ara">
 <!ENTITY folderTotalColumn.label "Asemday">
 <!ENTITY folderSizeColumn.label "Teɣzi">
-<!-- Folder Pane Context Menu -->
 
+<!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Rems-ed iznan">
 <!ENTITY folderContextGetMessages.accesskey "R">
+<!ENTITY folderContextPauseAllUpdates.label "Serǧu akk ileqman">
+<!ENTITY folderContextPauseUpdates.label "Serǧu ileqman">
+<!ENTITY folderContextPauseUpdates.accesskey "s">
 <!ENTITY folderContextOpenInNewWindow.label "Ldi deg usfaylu amaynut">
 <!ENTITY folderContextOpenInNewWindow.accesskey "L">
 <!ENTITY folderContextOpenNewTab.label "Ldi ɣef yiccer amaynut">
@@ -668,15 +671,15 @@
 <!ENTITY folderContextFavoriteFolder.accesskey "m">
 <!ENTITY folderContextSettings2.label "Iɣewwaṛen">
 <!ENTITY folderContextSettings2.accesskey "w">
-<!-- Search Bar -->
 
+<!-- Search Bar -->
 <!ENTITY SearchNameOrEmail.label "Isem neɣ imayl yegber:">
 <!ENTITY SearchNameOrEmail.accesskey "I">
+
 <!-- Gloda Search Bar -->
-
 <!ENTITY glodaSearchBar.placeholder "Nadi iznan…">
-<!-- Quick Search Menu Bar -->
 
+<!-- Quick Search Menu Bar -->
 <!ENTITY searchSubjectMenu.label "Amgay">
 <!ENTITY searchFromMenu.label "Si">
 <!ENTITY searchSubjectOrFromMenu.label "Amgay neɣ Si">
@@ -684,8 +687,8 @@
 <!ENTITY searchSubjectOrRecipientMenu.label "Asentel, I neɣ Anɣ.I">
 <!ENTITY searchMessageBody.label "Izen imaṛṛa">
 <!ENTITY saveAsVirtualFolderMenu.label "Kles anadi deg ukaram…">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Akala afessas">
 <!ENTITY fromColumn.label "Si">
 <!ENTITY recipientColumn.label "Anermas">
@@ -706,8 +709,8 @@
 <!ENTITY locationColumn.label "Tansa">
 <!ENTITY idColumn.label "Taladna tettwarmes">
 <!ENTITY attachmentColumn.label "Ticeqqufin yeddan">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Fren tigejda ad-sekneḍ">
 <!ENTITY threadColumn2.tooltip "Sken asqerdec n yizen">
 <!ENTITY fromColumn2.tooltip "Asmizzwer s Si">
@@ -729,8 +732,8 @@
 <!ENTITY locationColumn2.tooltip "Asmizzwer s wadig">
 <!ENTITY idColumn2.tooltip "Asmizzwer s wazemz n urmas">
 <!ENTITY attachmentColumn2.tooltip "Asmizzer s tceqqufin yeddan">
-<!-- Thread Pane Context Menu -->
 
+<!-- Thread Pane Context Menu -->
 <!ENTITY contextOpenNewWindow.label "Ldi izen deg usfaylu amaynut">
 <!ENTITY contextOpenNewWindow.accesskey "s">
 <!-- The key potentially conflicts with cutCmd.accessKey which is defined in
@@ -788,12 +791,12 @@
 <!ENTITY contextPrint.accesskey "g">
 <!ENTITY contextPrintPreview.label "Wali send asiggez">
 <!ENTITY contextPrintPreview.accesskey "s">
+
 <!-- Thread Pane Column Picker -->
 <!-- LOCALIZATION NOTE (columnPicker.resetToInbox.label):
      This option in the thread pane column picker causes us to reset the
      customizations for the thread pane columns in this folder to their default.
   -->
-
 <!ENTITY columnPicker.resetToInbox.label "Wennez tikelt nniḍen tigejda ɣeṛ umezwer">
 <!-- LOCALIZATION NOTE (columnPicker.applyTo.label):
      This option in the thread pane column picker pops up a sub-menu containing
@@ -834,9 +837,9 @@
      "File here" option for the move to/copy to widget.
   -->
 <!ENTITY columnPicker.thisFolder.label "Akaram-agi">
+
+
 <!-- Media (video/audio) controls -->
-
-
 <!ENTITY contextPlay.label "Urar">
 <!ENTITY contextPlay.accesskey "U">
 <!ENTITY contextPause.label "Asteɛfu">
@@ -845,12 +848,12 @@
 <!ENTITY contextMute.accesskey "S">
 <!ENTITY contextUnmute.label "Amesil">
 <!ENTITY contextUnmute.accesskey "m">
+
 <!-- Quick Search Bar -->
 <!-- LOCALIZATION NOTE (quickSearchCmd.key):
      This is actually the key used for the global message search box; we have
      not changed
   -->
-
 <!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
@@ -874,8 +877,8 @@
      above, the letter should match it.
   -->
 <!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
-<!-- Message Header Context Menu -->
 
+<!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Rnu ɣeṛ imedlis n tensa…">
 <!ENTITY AddToAddressBook.accesskey "d">
 <!ENTITY AddDirectlyToAddressBook.label "Rnu ɣeṛ imedlis n tensa">
@@ -900,12 +903,12 @@
 <!ENTITY CreateFilterFrom.accesskey "z">
 <!ENTITY reportPhishingURL.label "Azen-aɣ-d ɣef yizen n ukellex">
 <!ENTITY reportPhishingURL.accesskey "z">
-<!-- Spell checker context menu items -->
 
+<!-- Spell checker context menu items -->
 <!ENTITY spellAddDictionaries.label "Rnu imawalen...">
 <!ENTITY spellAddDictionaries.accesskey "n">
-<!-- Content Pane Context Menu -->
 
+<!-- Content Pane Context Menu -->
 <!ENTITY saveLinkAsCmd.label "Kles aseɣwen daw…">
 <!ENTITY saveLinkAsCmd.accesskey "s">
 <!ENTITY saveImageAsCmd.label "Kles tugna daw…">
@@ -924,17 +927,17 @@
 <!ENTITY openInBrowser.accesskey "L">
 <!ENTITY openLinkInBrowser.label "Ldi aseɣwen deg iminig">
 <!ENTITY openLinkInBrowser.accesskey "L">
+
 <!-- Statusbar -->
-
 <!ENTITY statusText.label "Immed">
-<!-- Mac OS X Window Menu -->
 
+<!-- Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.label "Semẓi">
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Awi-d akk ɣer zdat">
 <!ENTITY zoomWindow.label "Zoom">
-<!-- Mac OS X Application Menu (Cocoa widgets) -->
 
+<!-- Mac OS X Application Menu (Cocoa widgets) -->
 <!ENTITY preferencesCmdMac2.label       "Ismenyifen">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 <!ENTITY preferencesCmdMac.modifiers    "accel">
@@ -946,6 +949,6 @@
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 <!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
 <!ENTITY showAllAppsCmdMac.label        "Sken imaṛṛa">
-<!-- Mac OS X Dock Icon pop-up menu -->
 
+<!-- Mac OS X Dock Icon pop-up menu -->
 <!ENTITY dockOptions.label              "Iɣewwaṛen n tignit n usnas…">
