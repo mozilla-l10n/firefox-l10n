@@ -124,8 +124,8 @@
 
 <!ENTITY openAttachment.label "Abrir">
 <!ENTITY openAttachment.accesskey "A">
-<!ENTITY renameAttachment.label "Mudar nome…">
-<!ENTITY renameAttachment.accesskey "M">
+<!ENTITY renameAttachment.label "Renomear…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY deleteAttachment.accesskey "l">
 <!ENTITY selectAllAttachments.accesskey "t">
 <!ENTITY attachFile.label "Anexar ficheiro(s)…">
