@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "S\u0027ha suprimiu o marcapachinas">
 <!ENTITY bookmark_updated "S\u0027ha esviellau o marcapachinas">
 <!ENTITY bookmark_options "Opcions">
-
+<!ENTITY bookmark_save "Alzar">
 <!ENTITY screenshot_added_to_bookmarks "Captura de pantalla anyadida ta los marcapachinas">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
-
+<!ENTITY bookmark_parent_folder "Carpeta superior">
 
 <!ENTITY reader_saved_offline "Alzau offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
