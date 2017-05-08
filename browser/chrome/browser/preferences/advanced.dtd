@@ -56,6 +56,8 @@
 <!ENTITY overrideSmartCacheSize.accesskey "g">
 <!ENTITY updateTab.label "Actualizar">
 <!ENTITY updateApplication.label "Actualizaciones de &brandShortName;">
+<!ENTITY updateApplication.version.pre "Versión">
+<!ENTITY updateApplication.version.post "">
 <!ENTITY updateApplication.description "Permitir a &brandShortName;">
 <!ENTITY updateAuto2.label "Instalar actualizaciones automáticamente (recomendado para mejorar la seguridad)">
 <!ENTITY updateAuto2.accesskey "I">
