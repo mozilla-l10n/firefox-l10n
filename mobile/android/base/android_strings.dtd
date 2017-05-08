@@ -7,10 +7,13 @@
 <!ENTITY firstrun_urlbar_message "&brandShortName; મા આપનું સ્વાગત છે">
 <!ENTITY firstrun_bookmarks_title "ઇતિહાસ">
 <!ENTITY firstrun_bookmarks_message "તમારી faves, આગળ અને કેન્દ્ર">
+<!ENTITY firstrun_bookmarks_subtext "જ્યારે તમે શોધ કરો ત્યારે તમારા બુકમાર્ક્સ અને ઇતિહાસ માંથી પરિણામો મેળવો.">
 <!ENTITY firstrun_data_title "માહિતી">
 <!ENTITY firstrun_data_message "ઓછી માહિતી, વધુ બચત">
+<!ENTITY firstrun_data_subtext2 "દરેક સાઇટ જેની તમે મુલાકાત લો છો તેના પર ડેટા નો વપરાશ ઓછો કરવા છબીઓ બંધ કરો.">
 <!ENTITY firstrun_sync_title "સમન્વય">
 <!ENTITY firstrun_sync_message "&brandShortName;, હંમેશા તમારી બાજુ ">
+<!ENTITY firstrun_sync_subtext "તમારા ટેબ્સ, પાસવર્ડ્સ સમન્વિત કરી, અને વધુ સર્વત્ર તમે તેને વાપરો.">
 <!ENTITY firstrun_signin_message "જોડે મળી, પ્રારંભ કરો">
 <!ENTITY firstrun_signin_button "સમન્વયન માટે સાઇન ઇન કરો">
 <!ENTITY  onboard_start_button_browser "બ્રાઉઝ શરૂ કરો">
@@ -68,6 +71,7 @@
 <!ENTITY bookmark_removed "બુકમાર્ક દૂર થઇ">
 <!ENTITY bookmark_updated "બુકમાર્ક સુધારાઇ">
 <!ENTITY bookmark_options "વિકલ્પો">
+<!ENTITY bookmark_save "સાચવો">
 <!ENTITY screenshot_added_to_bookmarks "સ્ક્રીનશૉટ બુકમાર્ક્સ પર ઉમેરાયેલ છે">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -160,11 +164,15 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
+<!ENTITY overlay_no_synced_devices "ફાયરફોક્સ એકાઉન્ટ સાથે જોડાયેલ ઉપકરણો મળ્યા નથી">
 
 <!ENTITY pref_category_search3 "શોધો">
+<!ENTITY pref_category_search_summary2 "ઉમેરો, ડિફોલ્ટ સેટ કરો, સૂચનો બતાવો">
 <!ENTITY pref_category_accessibility "ઉપલ્બધતા">
+<!ENTITY pref_category_accessibility_summary2 "લખાણ કદ, ઝૂમ, સ્વર ઇનપુટ">
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_category_privacy_summary4 "ટ્રેકિંગ, લૉગિન્સ, ડેટા પસંદગીઓ">
+<!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
 <!ENTITY pref_category_logins "પ્રવેશો">
 <!ENTITY pref_learn_more "વધુ શીખો">
@@ -184,6 +192,8 @@
      “storing data”. -->
 <!ENTITY pref_category_notifications "સૂચનાઓ">
 <!ENTITY pref_content_notifications "વેબસાઇટ સુધારાઓ">
+<!ENTITY pref_content_notifications_summary2 "સમર્થિત સાઇટ્સમાંથી નવી સામગ્રી શોધો">
+<!ENTITY pref_remember_signons2 "પ્રવેશો યાદ રાખો">
 
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
@@ -237,27 +247,49 @@
 <!ENTITY pref_tap_to_load_images_data "માત્ર Wi-Fi પર">
 <!ENTITY pref_tap_to_load_images_disabled2 "બ્લોક થયેલ છે">
 
+<!ENTITY pref_show_web_fonts "વેબ ફોન્ટ્સ બતાવો">
 
+<!ENTITY pref_tracking_protection_title2 "ટ્રેકિંગ પ્રોટેક્શન">
+<!ENTITY pref_tracking_protection_summary3 "ખાનગી બ્રાઉઝિંગ સક્ષમ કરો">
+<!ENTITY pref_donottrack_title "ટ્રૅક કરશો નહીં">
 
+<!ENTITY pref_tracking_protection_enabled "સક્ષમ કરેલું">
+<!ENTITY pref_tracking_protection_enabled_pb "ખાનગી બ્રાઉઝિંગ સક્ષમ">
+<!ENTITY pref_tracking_protection_disabled "બિન-કાર્યક્ષમ કરેલું">
 
+<!ENTITY pref_whats_new_notification "&brandShortName; માં નવું શું છે">
+<!ENTITY pref_whats_new_notification_summary "સુધારા પછીની નવી સુવિધાઓ વિશે જાણો">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
+<!ENTITY pref_category_experimental "પ્રાયોગિક સુવિધાઓ">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "કસ્ટમ ટૅબ્સ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_footer "&brandShortName; દ્વારા સંચાલિત">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
+<!ENTITY pref_activity_stream "પ્રવૃત્તિ સ્ટ્રીમ">
 
+<!ENTITY tracking_protection_prompt_title "હવે ટ્રેકિંગ પ્રોટેક્શન સાથે">
+<!ENTITY tracking_protection_prompt_tip_text "વધુ જાણવા માટે ગોપનીયતા સેટિંગ્સ ની મુલાકાત લો">
 
+<!ENTITY tab_queue_toast_action "હવે ખોલો">
+<!ENTITY tab_queue_prompt_title "બહુવિધ લિંક્સ ખુલે છે?">
+<!ENTITY tab_queue_prompt_tip_text2 "તમે સેટિંગ્સમાં પછીથી આ બદલી શકો છો">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_positive_action_button "સક્ષમ">
+<!ENTITY tab_queue_prompt_negative_action_button "હમણાં નહીં">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "સેટિંગ્સ પર જાઓ">
+<!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
      number of tabs queued is always more than one.  We can't use
@@ -274,6 +306,7 @@
      We can't use Android plural forms, sadly. See Bug #753859. -->
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
+<!ENTITY content_notification_action_settings2 "સેટિંગ્સ">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!-- Localization note (content_notification_updated_on): &formatS; will be replaced with a medium sized version of the
