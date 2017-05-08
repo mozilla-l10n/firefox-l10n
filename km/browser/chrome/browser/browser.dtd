@@ -68,50 +68,50 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "ការ​រៀបចំ​ទំព័រ…">
-<!ENTITY printSetupCmd.accesskey "">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "មើល​មុន​បោះពុម្ព">
-<!ENTITY printPreviewCmd.accesskey "">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "បោះពុម្ព…">
-<!ENTITY printCmd.accesskey "">
-<!ENTITY printCmd.commandkey "">
+<!ENTITY printCmd.accesskey "P">
+<!ENTITY printCmd.commandkey "p">
 
 <!ENTITY goOfflineCmd.label "ធ្វើ​ការដោយ​គ្មាន​អ៊ីនធឺណិត">
-<!ENTITY goOfflineCmd.accesskey "">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "របារ​ម៉ឺនុយ">
-<!ENTITY menubarCmd.accesskey "">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY navbarCmd.label "របារ​ឧបករណ៍​រុករក​">
 <!ENTITY personalbarCmd.label "របារ​ឧបករណ៍​ចំណាំ">
-<!ENTITY personalbarCmd.accesskey "">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ធាតុ​របារ​ឧបករណ៍​​ចំណាំ">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "ផ្ទុកផ្ទាំង​ទាំងអស់​ឡើងវិញ">
-<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ចំណាំ​ផ្ទាំង​ទាំងអស់…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "មិនធ្វើវិញ​នូវ​ការ​បិទ​ផ្ទាំង">
-<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "ប្រភព​ទំព័រ">
-<!ENTITY pageSourceCmd.accesskey "">
-<!ENTITY pageSourceCmd.commandkey "">
+<!ENTITY pageSourceCmd.accesskey "o">
+<!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "ព័ត៌មាន​ទំព័រ">
-<!ENTITY pageInfoCmd.accesskey "">
-<!ENTITY pageInfoCmd.commandkey "">
+<!ENTITY pageInfoCmd.accesskey "I">
+<!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "ផ្ទាំង​ឆ្លុះ">
-<!ENTITY mirrorTabCmd.accesskey "">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ចូល​អេក្រង់​ពេញ">
-<!ENTITY enterFullScreenCmd.accesskey "">
+<!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "បិទ​អេក្រង់​ពេញ">
-<!ENTITY exitFullScreenCmd.accesskey "">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "អេក្រង់​ពេញ">
-<!ENTITY fullScreenCmd.accesskey "">
-<!ENTITY fullScreenCmd.macCommandKey "">
+<!ENTITY fullScreenCmd.accesskey "F">
+<!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "បង្ហាញ​ផ្ទាំង​ទាំងអស់">
-<!ENTITY showAllTabsCmd.accesskey "">
-<!ENTITY toggleReaderMode.key "">
+<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "ចូល​ទៅកាន់ &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "បើក​ចំណូលចិត្ត &syncBrand.shortName.label;">
@@ -123,9 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "ស្ដារ">
 <!ENTITY fullScreenClose.tooltip "បិទ">
 <!ENTITY fullScreenAutohide.label "លាក់​របារ​ឧបករណ៍">
-<!ENTITY fullScreenAutohide.accesskey "">
+<!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ចេញពី​ទម្រង់​អេក្រង់​ពេញ">
-<!ENTITY fullScreenExit.accesskey "">
+<!ENTITY fullScreenExit.accesskey "F">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "បិទ​ពេញ​អេក្រង់ (គេច)">
 <!ENTITY exitDOMFullscreenMac.button "បិទ​ពេញ​អេក្រង់ (គេច)">
 <!ENTITY leaveDOMFullScreen.label "ចាកចេញ​ពី​អេក្រង់​ពេញ">
-<!ENTITY leaveDOMFullScreen.accesskey "">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -154,29 +154,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.generic.label "ឯកសារនេះ​មាន​សិទ្ធ​គ្រប់គ្រង​លើ​ព្រួញ​ចង្អុល​របស់​អ្នក។ ចុច Esc ដើម្បី​ទទួល​បាន​ការ​គ្រប់គ្រង​មក​វិញ។">
 
 <!ENTITY closeWindow.label "បិទបង្អួច">
-<!ENTITY closeWindow.accesskey "">
+<!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ចំណាំ">
-<!ENTITY bookmarksMenu.accesskey "">
+<!ENTITY bookmarksMenu.accesskey "B">
 <!ENTITY bookmarkThisPageCmd.label "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY editThisBookmarkCmd.label "កែ​សម្រួល​ចំណាំ​នេះ">
-<!ENTITY bookmarkThisPageCmd.commandkey "">
+<!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "ស្វែងរក​សេវាកម្ម​ចែករំលែក​ច្រើន​ទៀត…">
 <!ENTITY sharePageCmd.label "ចែករំលែកទំព័រ​នេះ">
-<!ENTITY sharePageCmd.commandkey "">
-<!ENTITY sharePageCmd.accesskey "">
+<!ENTITY sharePageCmd.commandkey "S">
+<!ENTITY sharePageCmd.accesskey "s">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ចែករំលែក​​តំណ​​នេះ">
-<!ENTITY shareLink.accesskey "">
+<!ENTITY shareLink.accesskey "h">
 <!ENTITY shareImage.label "ចែករំលែក​រូបភាព​នេះ">
-<!ENTITY shareImage.accesskey "">
+<!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "ចែករំលែក​​ជម្រើស">
-<!ENTITY shareSelect.accesskey "">
+<!ENTITY shareSelect.accesskey "r">
 <!ENTITY shareVideo.label "ចែករំលែក​វីដេអូ​នេះ">
-<!ENTITY shareVideo.accesskey "">
+<!ENTITY shareVideo.accesskey "r">
 <!ENTITY feedsMenu2.label "ជាវ​ទំព័រ​នេះ">
 <!ENTITY subscribeToPageMenupopup.label "ជាវ​ទំព័រ​នេះ">
 <!ENTITY subscribeToPageMenuitem.label "ជាវ​ទំព័រ​នេះ…">
@@ -187,9 +187,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "ចំណាំ​ចល័ត">
 <!ENTITY bookmarksToolbarChevron.tooltip "បង្ហាញ​ចំណាំ​​ថែមទៀត">
 <!ENTITY showRecentlyBookmarked.label     "បង្ហាញ​ចំណាំ​ថ្មីៗ">
-<!ENTITY showRecentlyBookmarked.accesskey "">
+<!ENTITY showRecentlyBookmarked.accesskey "h">
 <!ENTITY hideRecentlyBookmarked.label     "លាក់​ចំណាំ​ថ្មីៗ">
-<!ENTITY hideRecentlyBookmarked.accesskey "">
+<!ENTITY hideRecentlyBookmarked.accesskey "H">
 
 <!ENTITY backCmd.label                "ថយក្រោយ">
 <!ENTITY backButton.tooltip           "ថយក្រោយ​មួយ​ទំព័រ">
@@ -240,7 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY homeButton.label             "ដើម">
 
 <!ENTITY bookmarksButton.label          "ចំណាំ">
-<!ENTITY bookmarksCmd.commandkey "">
+<!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "ចំណាំ">
 <!ENTITY bookmarksMenuButton.other.label "ចំណាំ​ផ្សេងៗ">
@@ -253,93 +253,93 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-<!ENTITY bookmarksGtkCmd.commandkey "">
-<!ENTITY bookmarksWinCmd.commandkey "">
+<!ENTITY bookmarksGtkCmd.commandkey "o">
+<!ENTITY bookmarksWinCmd.commandkey "i">
 
 <!ENTITY historyButton.label            "ប្រវត្តិ">
-<!ENTITY historySidebarCmd.commandKey   "">
+<!ENTITY historySidebarCmd.commandKey   "h">
 
 <!ENTITY toolsMenu.label              "ឧបករណ៍">
-<!ENTITY toolsMenu.accesskey          ""> 
+<!ENTITY toolsMenu.accesskey          "T"> 
 
 <!ENTITY keywordfield.label           "បន្ថែម​ពាក្យ​គន្លឹះ​សម្រាប់​ការ​ស្វែងរក​នេះ...">
-<!ENTITY keywordfield.accesskey       "">
+<!ENTITY keywordfield.accesskey       "K">
 
 <!ENTITY downloads.label              "ទាញ​យក">
-<!ENTITY downloads.accesskey          "">
-<!ENTITY downloads.commandkey         "">
-<!ENTITY downloadsUnix.commandkey     "">
+<!ENTITY downloads.accesskey          "D">
+<!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "កម្មវិធី​បន្ថែម">
-<!ENTITY addons.accesskey             "">
-<!ENTITY addons.commandkey            "">
+<!ENTITY addons.accesskey             "A">
+<!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "អ្នក​អភិវឌ្ឍន៍​បណ្ដាញ">
-<!ENTITY webDeveloperMenu.accesskey   "">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "ត្រួតពិនិត្យ​ធាតុ">
-<!ENTITY inspectContextMenu.accesskey "">
+<!ENTITY inspectContextMenu.accesskey "Q">
 
 <!ENTITY fileMenu.label         "ឯកសារ"> 
-<!ENTITY fileMenu.accesskey       "">
+<!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "ផ្ទាំង​ឧបករណ៍​ផ្ទុក​ថ្មី">
-<!ENTITY newUserContext.accesskey         "">
+<!ENTITY newUserContext.accesskey         "B">
 <!ENTITY newNavigatorCmd.label        "បង្អួច​​​ថ្មី">
-<!ENTITY newNavigatorCmd.key        "">
-<!ENTITY newNavigatorCmd.accesskey      "">
+<!ENTITY newNavigatorCmd.key        "N">
+<!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "បង្អួច​ឯកជន​ថ្មី">
-<!ENTITY newPrivateWindow.accesskey "">
+<!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "បង្អួច​គ្មាន-e10s ថ្មី">
 
 <!ENTITY editMenu.label         "កែសម្រួល"> 
-<!ENTITY editMenu.accesskey       ""> 
+<!ENTITY editMenu.accesskey       "E"> 
 <!ENTITY undoCmd.label            "មិនធ្វើវិញ">  
-<!ENTITY undoCmd.key            "">  
-<!ENTITY undoCmd.accesskey          ""> 
+<!ENTITY undoCmd.key            "Z">  
+<!ENTITY undoCmd.accesskey          "U"> 
 <!ENTITY redoCmd.label            "ធ្វើវិញ">  
-<!ENTITY redoCmd.key            "">  
-<!ENTITY redoCmd.accesskey          ""> 
+<!ENTITY redoCmd.key            "Y">  
+<!ENTITY redoCmd.accesskey          "R"> 
 <!ENTITY cutCmd.label           "កាត់">  
-<!ENTITY cutCmd.key             "">  
-<!ENTITY cutCmd.accesskey         ""> 
+<!ENTITY cutCmd.key             "X">  
+<!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "ចម្លង">  
-<!ENTITY copyCmd.key            "">  
-<!ENTITY copyCmd.accesskey          ""> 
+<!ENTITY copyCmd.key            "C">  
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "បិទភ្ជាប់">  
-<!ENTITY pasteCmd.key           "">  
-<!ENTITY pasteCmd.accesskey         ""> 
+<!ENTITY pasteCmd.key           "V">  
+<!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "លុប">  
-<!ENTITY deleteCmd.key            "">  
-<!ENTITY deleteCmd.accesskey        ""> 
+<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.accesskey        "D"> 
 <!ENTITY selectAllCmd.label         "ជ្រើស​ទាំងអស់">  
-<!ENTITY selectAllCmd.key         "">  
-<!ENTITY selectAllCmd.accesskey       ""> 
+<!ENTITY selectAllCmd.key         "A">  
+<!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "ជម្រើស">
-<!ENTITY preferencesCmd2.accesskey     "">
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "ចំណូលចិត្ត">
-<!ENTITY preferencesCmdUnix.accesskey     ""> 
+<!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
 <!ENTITY clearRecentHistory.label               "សម្អាត​ប្រវត្តិ​ថ្មីៗ…">
 
-<!ENTITY privateBrowsingCmd.commandkey          "">
+<!ENTITY privateBrowsingCmd.commandkey          "P">
 
 <!ENTITY viewMenu.label         "មើល"> 
-<!ENTITY viewMenu.accesskey       ""> 
+<!ENTITY viewMenu.accesskey       "V"> 
 <!ENTITY viewToolbarsMenu.label       "របារ​ឧបករណ៍"> 
-<!ENTITY viewToolbarsMenu.accesskey     ""> 
+<!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "របារ​ចំហៀង">
-<!ENTITY viewSidebarMenu.accesskey "">
+<!ENTITY viewSidebarMenu.accesskey "e">
 <!ENTITY viewCustomizeToolbar.label       "ប្ដូរ​តាម​តម្រូវ​ការ…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "">
+<!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "ប្រវត្តិ">
-<!ENTITY historyMenu.accesskey "">
+<!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "ផ្ទាំង​ដែល​បិទ​ថ្មីៗ">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "បង្អួច​ដែល​បាន​បិទ​ថ្មីៗ">
 <!ENTITY historyRestoreLastSession.label "ស្ដារ​សម័យ​មុន">
 
 <!ENTITY showAllHistoryCmd2.label "បង្ហាញ​ប្រវត្តិ​ទាំងអស់">
-<!ENTITY showAllHistoryCmd.commandkey "">
+<!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "ប្ដូរ​តាម​តម្រូវ​ការ">
 <!ENTITY appMenuCustomize.tooltip "ប្ដូរ​របារ​ឧបករណ៍ និង​ម៉ឺនុយ​តាម​តម្រូវ​ការ">
@@ -379,39 +379,39 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.sidebar.label "មើល​របា​ចំហៀង​នៃផ្ទាំងដែលបានធ្វើ​សមកាលកម្ម​">
 
 <!ENTITY customizeMenu.addToToolbar.label "បន្ថែម​ទៅ​របារ​ឧបករណ៍">
-<!ENTITY customizeMenu.addToToolbar.accesskey "">
+<!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "បន្ថែម​ទៅម៉ឺនុយ">
-<!ENTITY customizeMenu.addToPanel.accesskey "">
+<!ENTITY customizeMenu.addToPanel.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ផ្លាស់ទី​ទៅរបារ​ឧបករណ៍">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
      same context menu as menubarCmd and personalbarCmd, so they should have
      different access keys. customizeMenu.moveToToolbar and 
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ផ្លាស់​ទី​​ទៅ​ម៉ឺនុយ">
-<!ENTITY customizeMenu.moveToPanel.accesskey "">
+<!ENTITY customizeMenu.moveToPanel.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "លុប​ចេញពី​របារ​ឧបករណ៍">
-<!ENTITY customizeMenu.removeFromToolbar.accesskey "">
+<!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "លុប​ចេញពី​ម៉ឺនុយ">
-<!ENTITY customizeMenu.removeFromMenu.accesskey "">
+<!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "បន្ថែម​ធាតុ​ច្រើន​ទៀត…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "">
+<!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
-<!ENTITY openCmd.commandkey           "">
+<!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
-<!ENTITY urlbar.accesskey             "">
+<!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "ផ្នែក​បន្ថែម៖">
 <!ENTITY urlbar.switchToTab.label     "ប្ដូរ​ទៅ​ផ្ទាំង៖">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "តើ​អ្នក​ចង់​ធ្វើ​ឲ្យ​បទពិសោធន៍​ស្វែងរក​របស់​អ្នក​ជាមួយ​ការ​ស្នើ​បាន​ប្រសើរ​ដែរ​ ឬ​ទេ?">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "ស្វែងយល់​បន្ថែម…">
-<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "">
+<!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "ទេ">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "បាទ/ចាស">
-<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "">
+<!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- 
   Comment duplicated from browser-sets.inc:
@@ -433,9 +433,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-<!ENTITY searchFocus.commandkey       "">
-<!ENTITY searchFocus.commandkey2      "">
-<!ENTITY searchFocusUnix.commandkey   "">
+<!ENTITY searchFocus.commandkey       "k">
+<!ENTITY searchFocus.commandkey2      "e">
+<!ENTITY searchFocusUnix.commandkey   "j">
 
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
