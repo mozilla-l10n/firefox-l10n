@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Window title -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Initen d u&amp;gilal n usebter">
 <!ENTITY pageColors.label "Initen n usebter">
 <!ENTITY defaultColorsRadio.label "Initen imezwar n umeɣri (Ur sbaduy ara initen ɣef usebter)">
@@ -26,3 +26,4 @@
 <!ENTITY backgroundImage.label "Tugna n ugilal:">
 <!ENTITY backgroundImage.accessKey "g">
 <!ENTITY backgroundImage.tooltip "Seqdec afaylu tugna d agilal i wesebter-inek">
+<!ENTITY backgroundImage.shortenedDataURI "URI n isefka wezzilen (anɣal ad isemselsi URI ummid ɣef afus)">
