@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fonte en kleure">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Verstekfont">
+<!ENTITY  defaultFont2.accesskey      "V">
+<!ENTITY  defaultSize2.label          "Grootte">
+<!ENTITY  defaultSize2.accesskey      "G">
 
 <!ENTITY  advancedFonts.label         "Gevorderd…">
 <!ENTITY  advancedFonts.accesskey     "G">

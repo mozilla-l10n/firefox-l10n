@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Toestelnaam">
-
-
+<!ENTITY changeSyncDeviceName2.label "Verander toestelnaam…">
+<!ENTITY changeSyncDeviceName2.accesskey "V">
 <!ENTITY cancelChangeSyncDeviceName.label "Kanselleer">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Stoor">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Verander profielprent">
 <!ENTITY verifiedManage.label        "Bestuur rekening">
 <!ENTITY verifiedManage.accesskey    "u">
-
-
+<!ENTITY disconnect3.label           "Ontkoppel…">
+<!ENTITY disconnect3.accesskey       "O">
 <!ENTITY verify.label                "Verifieer e-posadres">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Vergeet dié e-posadres">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Meld aan">
 <!ENTITY signedOut.accountBox.signin.accesskey  "M">
 
-
+<!ENTITY signedIn.settings.description "Kies wat om tussen toestelle te sinkroniseer met &brandShortName;.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
