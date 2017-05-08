@@ -96,7 +96,7 @@
 <!ENTITY useRecommendedPerformanceSettings.description "La configuración de rendimiento recomendada está adaptada a su equipo.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 <!ENTITY limitContentProcess.label "Límite de procesos de contenido">
-<!ENTITY limitContentProcess.description "Más procesos de contenidos pueden hacer que brandShortName; responda más ágilmente al usar múltiples pestañas, pero también consumirá más memoria.">
+<!ENTITY limitContentProcess.description "Más procesos de contenidos pueden hacer que &brandShortName; responda más ágilmente al usar múltiples pestañas, pero también consumirá más memoria.">
 <!ENTITY limitContentProcess.accesskey "L">
 <!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey "r">
