@@ -921,10 +921,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Hala niður nýrri útgáfu af &brandShorterName;">
 
 <!ENTITY updateRestart.message "Eftir endurræsingu mun, &brandShorterName; endurheimta alla opna flipa og glugga.">
-
+<!ENTITY updateRestart.header.message2 "Endurræstu til að uppfæra &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Enduræstu og endurheimtu">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ekki núna">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 <!ENTITY updateRestart.panelUI.label "Endurræsa &brandShorterName; til að virkja uppfærslu">
 
+<!ENTITY pageActionButton.tooltip "Síðu aðgerðir">

@@ -125,11 +125,12 @@
 <!ENTITY viewSecurityDevices.label       "Öryggistæki">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Afköst">
+<!ENTITY useRecommendedPerformanceSettings.label "Nota afkastastillingar sem er mælt með">
+<!ENTITY useRecommendedPerformanceSettings.description "Afkastastillingar sem mælt er með eru sérsniðnar að þinni tölvu.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "N">
+<!ENTITY limitContentProcess.label       "Takmarka þræði fyrir efni">
+<!ENTITY limitContentProcess.description "Fleiri þræðir fyrir efni getur gert &brandShortName; sneggri þegar verið er að nota marga flipa, en tekur upp meira minni.">
+<!ENTITY limitContentProcess.accesskey   "þ">
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
