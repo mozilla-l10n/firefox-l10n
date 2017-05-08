@@ -537,63 +537,63 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "បោះពុម្ព​ស៊ុម...">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "រក្សាទុក​តំណជា...">
-<!ENTITY saveLinkCmd.accesskey        "">
+<!ENTITY saveLinkCmd.accesskey        "k">
 <!ENTITY saveImageCmd.label           "រក្សាទុក​រូបភាព​ជា...">
-<!ENTITY saveImageCmd.accesskey       "">
+<!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "រក្សាទុក​វីដេអូ​ជា…">
-<!ENTITY saveVideoCmd.accesskey       "">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "រក្សា​ទុក​អូឌីយ៉ូ​ជា...">
-<!ENTITY saveAudioCmd.accesskey       "">
+<!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "អ៊ីមែលរូបភាព...">
-<!ENTITY emailImageCmd.accesskey      "">
+<!ENTITY emailImageCmd.accesskey      "g">
 <!ENTITY emailVideoCmd.label          "អ៊ីមែល​វីដេអូ...">
-<!ENTITY emailVideoCmd.accesskey      "">
+<!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "ផ្ញើ​វីដេអូ​ទៅឧបករណ៍">
-<!ENTITY castVideoCmd.accesskey       "">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "អ៊ីមែលអូឌីយ៉ូ...">
-<!ENTITY emailAudioCmd.accesskey      "">
+<!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "ធ្វើឲ្យ​កម្មវិធី​ជំនួយ​នេះ​សកម្ម">
-<!ENTITY playPluginCmd.accesskey      "">
+<!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "លាក់​កម្មវិធី​ជំនួយ​នេះ">
-<!ENTITY hidePluginCmd.accesskey      "">
+<!ENTITY hidePluginCmd.accesskey      "H">
 <!ENTITY copyLinkCmd.label            "ចម្លង​ទីតាំង​តំណ">
-<!ENTITY copyLinkCmd.accesskey        "">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ចម្លង​ទីតាំង​រូបភាព">
-<!ENTITY copyImageCmd.accesskey       "">
+<!ENTITY copyImageCmd.accesskey       "o">
 <!ENTITY copyImageContentsCmd.label   "ចម្លង​រូបភាព">
-<!ENTITY copyImageContentsCmd.accesskey  ""> 
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "ចម្លង​ទីតាំង​វីដេអូ">
-<!ENTITY copyVideoURLCmd.accesskey    "">
+<!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "ចម្លង​ទីតាំង​អូឌីយ៉ូ">
-<!ENTITY copyAudioURLCmd.accesskey    "">
+<!ENTITY copyAudioURLCmd.accesskey    "o">
 <!ENTITY copyEmailCmd.label           "ចម្លង​អាសយដ្ឋានអ៊ីមែល">
-<!ENTITY copyEmailCmd.accesskey       "">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "ស៊ុម​នេះ">
-<!ENTITY thisFrameMenu.accesskey          "">
+<!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "ចាក់">
-<!ENTITY mediaPlay.accesskey         "">
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "ផ្អាក">
-<!ENTITY mediaPause.accesskey        "">
+<!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "បិទ​សំឡេង">
-<!ENTITY mediaMute.accesskey         "">
+<!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "បើក​សំឡេង">
-<!ENTITY mediaUnmute.accesskey       "">
+<!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "ល្បឿន​លេង">
-<!ENTITY mediaPlaybackRate2.accesskey "">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "យឺត (0.5×)">
-<!ENTITY mediaPlaybackRate050x2.accesskey "">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "ធម្មតា">
-<!ENTITY mediaPlaybackRate100x2.accesskey "">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "លឿន (1.25×)">
-<!ENTITY mediaPlaybackRate125x2.accesskey "">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "លឿន (1.5×)">
 <!ENTITY mediaPlaybackRate150x2.accesskey "">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
