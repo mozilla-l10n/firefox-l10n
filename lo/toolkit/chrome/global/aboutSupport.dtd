@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ລູ້ນ​">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "ຄູນລັກສະນະຂອງ &brandShortName;">
+<!ENTITY aboutSupport.featureName "ຊື່">
+<!ENTITY aboutSupport.featureVersion "ເວີຊັນ">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "ຄຸນລັກສະນະການທົດລອງ">
 <!ENTITY aboutSupport.experimentName "ຊື່">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -60,6 +65,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "ໂປ​ຣ​ໄຟ​ລ໌">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "ວິນໂດ Multiprocess">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google Key">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "ໂຫມດປອດໄພ">
 
@@ -106,6 +114,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ສຳເນົາຂໍ້ມູນດິບໄປໄວ້ທີ່ Clipboard ">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "ປະຕິເສດລະບົບການໂທ">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "ວິນາທີທີ່ຜ່ານມາ">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "ປະເພດ Process">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Arguments">
 
 <!ENTITY aboutSupport.safeModeTitle "ລອງໃຊ້ໂຫມດປອດໄພ">
 <!ENTITY aboutSupport.restartInSafeMode.label "Restart ແລະ ປິດການໃຊ້ງານ Add-ons">
