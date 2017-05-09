@@ -81,7 +81,19 @@
 
 <!ENTITY updateTab.label                 "Ενημέρωση">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "Ενημερώσεις του &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Έκδοση ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Να επιτρέπεται στο &brandShortName;">
 <!ENTITY updateAuto2.label               "Αυτόματη εγκατάσταση ενημερώσεων (προτείνεται για βελτιωμένη ασφάλεια)">
 <!ENTITY updateAuto2.accesskey           "Α">
