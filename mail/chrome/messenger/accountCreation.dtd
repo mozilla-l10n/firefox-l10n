@@ -41,7 +41,7 @@
 <!ENTITY advancedSetup.accesskey         "G">
 <!ENTITY cancel.label                    "Vazgeç">
 <!ENTITY cancel.accesskey                "z">
-<!ENTITY continue.label                  "İlerle">
+<!ENTITY continue.label                  "Devam et">
 <!ENTITY continue.accesskey              "l">
 <!ENTITY stop.label                      "Dur">
 <!ENTITY stop.accesskey                  "D">
