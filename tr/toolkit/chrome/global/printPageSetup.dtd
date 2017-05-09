@@ -46,7 +46,7 @@
 
 <!ENTITY hfLeft.label        "Sol:">
 <!ENTITY hfCenter.label      "Merkez:">
-<!ENTITY hfRight.label       "Sağ">
+<!ENTITY hfRight.label       "Sağ:">
 <!ENTITY headerLeft.tip      "Sol üst bilgi">
 <!ENTITY headerCenter.tip    "Orta üst bilgi">
 <!ENTITY headerRight.tip     "Sağ üst bilgi">

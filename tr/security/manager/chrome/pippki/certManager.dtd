@@ -45,7 +45,7 @@
 <!ENTITY certmgr.certname                     "Sertifika adı">
 <!ENTITY certmgr.certserver                   "Sunucu">
 <!ENTITY certmgr.override_lifetime            "Yaşam süresi">
-<!ENTITY certmgr.tokenname                    "Güvenlik aygıtları">
+<!ENTITY certmgr.tokenname                    "Güvenlik aygıtı">
 <!ENTITY certmgr.begins                       "Başlangıç tarihi">
 <!ENTITY certmgr.expires                      "Bitiş tarihi">
 <!ENTITY certmgr.email                        "E-posta adresi">

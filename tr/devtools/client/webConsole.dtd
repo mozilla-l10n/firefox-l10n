@@ -1,25 +1,25 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE The correct localization of this file might be to
   - keep it in English, or another language commonly spoken among web developers.
   - You want to make that choice consistent across the developer tools.
   - A good criteria is the language in which you'd find the best
   - documentation on web development on the web. -->
 
-
 <!ENTITY window.title "Web Konsolu">
 <!ENTITY browserConsole.title "Tarayıcı Konsolu">
+
 <!-- LOCALIZATION NOTE (openURL.label): You can see this string in the Web
    - Console context menu. -->
-
 <!ENTITY openURL.label     "Adresi yeni sekmede aç">
 <!ENTITY openURL.accesskey "y">
+
 <!-- LOCALIZATION NOTE (btnPageNet.label): This string is used for the menu
   -  button that allows users to toggle the network logging output.
   -  This string and the following strings toggle various kinds of output
   -  filters. -->
-
 <!ENTITY btnPageNet.label   "Net">
 <!ENTITY btnPageNet.tooltip "Ağ erişim kaydı tut">
 <!ENTITY btnPageNet.accesskey "N">
@@ -38,11 +38,11 @@
 <!ENTITY btnPageSecurity.label "Güvenlik">
 <!ENTITY btnPageSecurity.tooltip "Güvenlik hatalarını ve uyarıları kaydet">
 <!ENTITY btnPageSecurity.accesskey "G">
+
 <!-- LOCALIZATION NOTE (btnPageLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls such console.log() and
   -  console.error(). -->
-
 <!ENTITY btnPageLogging.label   "Kayıt tutma">
 <!ENTITY btnPageLogging.tooltip "Günlük iletileri window.console nesnesine gönderildi">
 <!ENTITY btnPageLogging.accesskey3 "K">
@@ -52,10 +52,10 @@
 <!ENTITY btnConsoleLog          "Kayıt">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "Yeniden akışlar">
+
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
   -  the toolbar. It shows or hides messages that the web developer inserted on
   -  the page for debugging purposes, using calls on the HTTP server. -->
-
 <!ENTITY btnServerLogging.label       "Sunucu">
 <!ENTITY btnServerLogging.tooltip     "Bir sunucudan kayıt iletileri alındı">
 <!ENTITY btnServerLogging.accesskey   "S">
@@ -63,13 +63,13 @@
 <!ENTITY btnServerInfo                "Bilgi">
 <!ENTITY btnServerWarnings            "Uyarılar">
 <!ENTITY btnServerLog                 "Kayıt">
+
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
-
-<!ENTITY btnConsoleSharedWorkers "Shared Worker'lar">
+<!ENTITY btnConsoleSharedWorkers "Shared Worker’lar">
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"
   -  should not be translated. -->
-<!ENTITY btnConsoleServiceWorkers "Service Worker'lar">
+<!ENTITY btnConsoleServiceWorkers "Service Worker’lar">
 <!-- LOCALIZATION NODE (btnConsoleWindowlessWorkers) the term "Workers"
   -  should not be translated. -->
 <!ENTITY btnConsoleWindowlessWorkers "Eklenti veya Chrome Worker'ları">
@@ -80,8 +80,7 @@
 <!ENTITY btnClear.accesskey    "T">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.commandkey   "-">

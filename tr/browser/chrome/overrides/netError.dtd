@@ -43,7 +43,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "Ağa giriş sayfasını aç">
 
-<!ENTITY malformedURI.title "Adres geçerli değil">
+<!ENTITY malformedURI.title "Adres geçersiz">
 <!ENTITY malformedURI.longDesc "<ul>
   <li>Web adresleri genelde <strong>http://www.example.com/</strong> biçiminde yazılır.</li>
   <li>Adreste sağa yatık bölü işareti (<strong>/</strong>) bulunduğundan emin olun.</li>
