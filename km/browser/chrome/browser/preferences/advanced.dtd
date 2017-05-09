@@ -144,5 +144,6 @@
                                          "ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ​គឺ​ត្រូវជាមួយ​កុំព្យូទ័រ​របស់​អ្នក។">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY limitContentProcess.label       "ដំណើរការ​មាតិកា​មាន​ដែន​កំណត់​">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
