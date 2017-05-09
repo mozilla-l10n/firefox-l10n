@@ -53,7 +53,7 @@
 <!ENTITY  crash_reporter_title "&brandShortName; Çökme Raporcusu">
 <!ENTITY  crash_message2 "&brandShortName; bir sorun yaşadı ve çöktü. Yeniden başlattığınızda sekmeleriniz &brandShortName; başlangıç sayfasında listelenecektir.">
 <!ENTITY  crash_send_report_message3 "&vendorShortName; çöküşten haberdar edilsin ki sorunu çözebilsinler">
-<!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dâhil et">
+<!ENTITY  crash_include_url2 "Baktığım sayfanın adresini dahil et">
 <!ENTITY  crash_sorry "Üzgünüz">
 <!ENTITY  crash_comment "Yorumunuzu ekleyin (Yorumlar herkes tarafından görülebilir.)">
 <!ENTITY  crash_allow_contact2 "&vendorShortName; bu raporla ilgili olarak benimle iletişime geçebilir">
