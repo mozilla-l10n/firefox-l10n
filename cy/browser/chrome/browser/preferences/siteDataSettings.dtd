@@ -15,5 +15,5 @@
 <!ENTITY     cancel.label                  "Diddymu">
 <!ENTITY     cancel.accesskey              "D">
 <!ENTITY     removingDialog.title          "Tynnu Data Gwefan">
-<!ENTITY     removingSelected.description  "Bydd tynnu data'r wefan hefyd yn tynnu cwcis a chynnwys gwe cysylltiedig. Gall hyn eich allgofnodi o wefannau. Ydych chi' n siŵr eich bod am wneud y newidiadau hyn?">
-<!ENTITY     siteTree.label                "Bydd cwcis y wefan ganlynol yn cael eu tynnu.">
+<!ENTITY     removingSelected.description  "Bydd tynnu data'r wefan hefyd yn tynnu cwcis a chynnwys gwe cysylltiedig. Gall hyn eich allgofnodi o wefannau. Ydych chi'n siŵr eich bod am wneud y newidiadau hyn?">
+<!ENTITY     siteTree.label                "Bydd cwcis y wefan ganlynol yn cael eu tynnu:">
