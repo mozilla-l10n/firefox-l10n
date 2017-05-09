@@ -1,1 +1,0 @@
-# Dette repository bliver brugt til at læse korrektur og diskutere oversættelser foretaget i web-værktøjet [Pontoon](https://pontoon.mozilla.org/da/) #
