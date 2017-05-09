@@ -15,9 +15,9 @@
 <!ENTITY robots.errorShortDescText "Prišli sme vás navštíviť v mieri a priateľstve!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
 <!ENTITY robots.errorLongDesc1 "Roboti nesmú ublížiť človeku alebo svojou nečinnosťou dopustiť, aby mu bolo ublížené.">
-<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn't believe..." -->
+<!-- Movie: Blade Runner. Batty: "I've seen things you people wouldn’t believe..." -->
 <!ENTITY robots.errorLongDesc2 "Roboti videli veci, ktorým vy ľudia nebudete veriť.">
-<!-- Book: Hitchhiker's Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
+<!-- Book: Hitchhiker’s Guide To The Galaxy. What the Sirius Cybernetics Corporation calls robots. -->
 <!ENTITY robots.errorLongDesc3 "Roboti sú vaši umelohmotní kamaráti, s ktorými je sranda.">
 <!-- TV: Futurama. Bender's first line is "Bite my shiny metal ass." -->
 <!ENTITY robots.errorLongDesc4 "Roboti majú lesklý kovový zadok, ktorý nie je povolené bozkávať.">
@@ -26,4 +26,4 @@
 <!-- TV: Battlestar Galactica (2004 series). Common expletive referring to Cylons. -->
 <!ENTITY robots.imgtitle "Frakkin' Toasters">
 <!-- Book: Hitchhiker's Guide To The Galaxy. Arthur presses a button and it warns him. -->
-<!ENTITY robots.dontpress "Toto tlačidlo už viackrát nestláčajte">
+<!ENTITY robots.dontpress "Prosím, toto tlačidlo už viackrát nestláčajte.">
