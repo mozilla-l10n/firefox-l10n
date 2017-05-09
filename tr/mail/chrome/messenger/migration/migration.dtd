@@ -20,7 +20,7 @@
 <!ENTITY importItems.title              "İçe Aktarılacak Ögeler">
 <!ENTITY importItems.label              "İçe aktarılacak ögeleri seçin:">
 
-<!ENTITY migrating.title                "İçe Aktarılıyor…">
+<!ENTITY migrating.title                "İçe aktarılıyor…">
 <!ENTITY migrating.label                "Aşağıdaki ögeler şu anda içe aktarılıyor…">
 
 <!ENTITY selectProfile.title            "Kimlik Seç">
