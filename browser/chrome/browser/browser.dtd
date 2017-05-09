@@ -635,76 +635,77 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "​បង្រួម">
+<!ENTITY fullZoomReduceCmd.accesskey    "O">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
 <!ENTITY fullZoomReduceCmd.commandkey2  "">
 
 <!ENTITY fullZoomResetCmd.label         "កំណត់​ឡើង​វិញ">
-<!ENTITY fullZoomResetCmd.accesskey     "">
+<!ENTITY fullZoomResetCmd.accesskey     "R">
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
 <!ENTITY fullZoomToggleCmd.label        "ពង្រីក​តែអត្ថបទ​ប៉ុណ្ណោះ ">
-<!ENTITY fullZoomToggleCmd.accesskey    "">
+<!ENTITY fullZoomToggleCmd.accesskey    "T">
 <!ENTITY fullZoom.label                 "ពង្រីក">
-<!ENTITY fullZoom.accesskey             "">
+<!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "បិទ​របារ​ចំហៀង">
 
 <!ENTITY quitApplicationCmdWin2.label       "ចេញ">
-<!ENTITY quitApplicationCmdWin2.accesskey   "">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "បិទ &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "ចេញ"> 
-<!ENTITY quitApplicationCmd.accesskey   "">
+<!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "">
+<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "បិទ">  
 <!ENTITY closeCmd.key                   "W">  
-<!ENTITY closeCmd.accesskey             "">
+<!ENTITY closeCmd.accesskey             "C">
 
 <!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "រចនាប័ទ្ម​ទំព័រ">
-<!ENTITY pageStyleMenu.accesskey "">
+<!ENTITY pageStyleMenu.accesskey "y">
 <!ENTITY pageStyleNoStyle.label "គ្មាន​រចនាប័ទ្ម">
-<!ENTITY pageStyleNoStyle.accesskey "">
+<!ENTITY pageStyleNoStyle.accesskey "n">
 <!ENTITY pageStylePersistentOnly.label "រចនាប័ទ្ម​ទំព័រ​មូលដ្ឋាន">
-<!ENTITY pageStylePersistentOnly.accesskey "">
+<!ENTITY pageStylePersistentOnly.accesskey "b">
 
 <!ENTITY pageReportIcon.tooltip            "ផ្លាស់ប្ដូរ​ការ​កំណត់​ទប់ស្កាត់​ការ​លេចឡើង​សម្រាប់​តំបន់​បណ្ដាញ​នេះ">
 
-<!ENTITY allowPopups.accesskey "">
+<!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "កែ​សម្រួល​ចំណូល​ចិត្ត​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
 <!ENTITY editPopupSettings.label "កែ​សម្រួលជម្រើស​កម្មវិធី​ទប់ស្កាត់​ការ​លេចឡើង...">
-<!ENTITY editPopupSettings.accesskey "">
-<!ENTITY dontShowMessage.accesskey "">
+<!ENTITY editPopupSettings.accesskey "E">
+<!ENTITY dontShowMessage.accesskey "D">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "ប្ដូរទិស​ទំព័រ">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "D">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ប្ដូរ​​ទិស​អត្ថបទ">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "w">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "ស្វែងរក​ក្នុង​ទំព័រ​នេះ...">
-<!ENTITY findOnCmd.accesskey "">
+<!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "រក​ម្ដងទៀត">
-<!ENTITY findAgainCmd.accesskey "">
+<!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "បន្ថែម​​វចនានុក្រម...">
-<!ENTITY spellAddDictionaries.accesskey "">
+<!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "ធ្វើ​រួច">
-<!ENTITY editBookmark.removeBookmark.accessKey       "">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ការ​តភ្ជាប់​ដែលមាន​សុវត្ថិភាព">
 <!ENTITY identity.connectionNotSecure "ការតភ្ជាប់​ពុំ​មាន​សុវត្ថិភាព">
@@ -732,13 +733,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeLoaded2 "ព័ត៌មាន​ដែល​អ្នក​ចែករំលែក​ជាមួយ​តំបន់បណ្ដាញ​នេះ​ អ្នក​ផ្សេង​អាច​មើល​ឃើញ​ដែរ (ដូចជា​ពាក្យ​សម្ងាត់ សារ ប័ណ្ណ​ឥណទាន។ល។)។">
 
 <!ENTITY identity.enableMixedContentBlocking.label "បើក​ការ​ការពារ">
-<!ENTITY identity.enableMixedContentBlocking.accesskey "">
+<!ENTITY identity.enableMixedContentBlocking.accesskey "E">
 <!ENTITY identity.disableMixedContentBlocking.label "បិទ​ការ​ការពារ​ឥឡូវ">
-<!ENTITY identity.disableMixedContentBlocking.accesskey "">
+<!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "ស្វែងយល់​បន្ថែម">
 
 <!ENTITY identity.removeCertException.label "យកករណីលើកលែងចេញ">
-<!ENTITY identity.removeCertException.accesskey "">
+<!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "ព័ត៌មាន​បន្ថែម">
 
@@ -769,22 +770,22 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      These access keys are identical because their associated menu items are
      mutually exclusive -->
 <!ENTITY syncedTabs.context.open.label                       "បើក">
-<!ENTITY syncedTabs.context.open.accesskey                   "">
+<!ENTITY syncedTabs.context.open.accesskey                   "O">
 <!ENTITY syncedTabs.context.openInNewTab.label               "បើក​ក្នុង​ផ្ទាំង​ថ្មី">
-<!ENTITY syncedTabs.context.openInNewTab.accesskey           "">
+<!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "បើក​ក្នុង​បង្អួច​ថ្មី">
-<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "">
+<!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "បើក​ក្នុង​បង្អួចឯក​ជន​ថ្មី">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ចំណាំ​​ផ្ទាំង​​នេះ...">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
 <!ENTITY syncedTabs.context.copy.label                       "ចម្លង">
-<!ENTITY syncedTabs.context.copy.accesskey                   "">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "បើក​ទាំងអស់​ក្នុង​ផ្ទាំង">
-<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "គ្រប់គ្រង​ឧបករណ៍…">
-<!ENTITY syncedTabs.context.managedevices.accesskey          "">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
