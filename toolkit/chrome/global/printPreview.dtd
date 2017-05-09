@@ -30,7 +30,7 @@
 <!ENTITY p175.label           "&#037;175">
 <!ENTITY p200.label           "&#037;200">
 <!ENTITY Custom.label         "Özel…">
-<!ENTITY ShrinkToFit.label    "Kâğıda sığdır">
+<!ENTITY ShrinkToFit.label    "Sayfaya sığdır">
 <!ENTITY customPrompt.title   "Özel ölçek…">
 <!ENTITY simplifyPage.label   "Sayfayı basitleştir">
 <!ENTITY simplifyPage.accesskey "i">
