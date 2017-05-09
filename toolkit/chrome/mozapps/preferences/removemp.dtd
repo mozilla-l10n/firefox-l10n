@@ -6,5 +6,5 @@
 <!ENTITY removeInfo.label                  "Devam etmek için mevcut ana parolanızı girmeniz gerekli:">
 <!ENTITY removeWarning1.label              "Ana parolanız bütün hassas bilgilerinizi korumak için kullanılır (örn. sitelerde kullandığınız parolalar).">
 <!ENTITY removeWarning2.label              "Ana parolanızı silerseniz bilgileriniz korunmaz.">
-<!ENTITY setPassword.oldPassword.label     "Mevcut parola:">
+<!ENTITY setPassword.oldPassword.label     "Şu anki parola:">
 

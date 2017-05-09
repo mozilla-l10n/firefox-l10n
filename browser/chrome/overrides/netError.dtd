@@ -29,7 +29,11 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Dosyaya erişim reddedildi">
-<!ENTITY fileAccessDenied.longDesc "<ul><li>Silindiği, taşındığı ve izinleri değiştiği için erişilemiyor olabilir.</li></ul>">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Silinmiş, taşınmış veya dosya izinleri nedeniyle erişilemiyor olabilir.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Hoppalaaa.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
@@ -55,10 +59,18 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Çevrimiçi kipe geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -67,7 +79,11 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adres anlaşılamadı">
-<!ENTITY unknownProtocolFound.longDesc "<ul> <li>Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantı kabul etmiyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.</li> </ul>">
@@ -92,11 +108,11 @@ was trying to connect. -->
 
 <!ENTITY sharedLongDesc "<ul> <li>Site geçici olarak kapalı veya çok meşgul olabilir. Biraz bekleyip yeniden deneyin.</li> <li>Hiçbir sayfayı açamıyorsanız bilgisayarınızın ağ bağlantısını kontrol edin.</li> <li>Bilgisayarınız veya ağınız güvenlik duvarı veya vekil sunucu tarafından korunuyorsa &brandShortName; uygulamasının Web’e erişim izni olduğundan emin olun.</li> </ul>">
 
-<!ENTITY cspBlocked.title "İçerik güvenlik politikası uyarınca engellendi">
+<!ENTITY cspBlocked.title "İçerik güvenliği ilkesi uyarınca engellendi">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; bu sayfanın bu şekilde yüklenmesini önledi, çünkü sayfanın buna izin vermeyen bir içerik güvenlik politikası var.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.</li></ul>">
 
 
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
