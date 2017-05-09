@@ -78,7 +78,7 @@
 
 <!ENTITY aboutTelemetry.emptySection "  (Sem dados recolhidos)">
 
-<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativa. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
+<!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativada. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Obter nomes de funções para stacks">
 
