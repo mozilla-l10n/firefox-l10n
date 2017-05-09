@@ -695,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "Забелешке и историја">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Надоградња је доступна за &brandShortName;">
+<!ENTITY updater_start_title2 "Доступно ажурирање за &brandShortName;">
 <!ENTITY updater_start_select2 "Притисните да преузмете">
 
 <!ENTITY updater_downloading_title2 "Преузимам &brandShortName;">
