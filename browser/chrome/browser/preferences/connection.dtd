@@ -32,7 +32,7 @@
 <!ENTITY  socks4.accesskey              "K">
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
-<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 उपयोग करने पर स्थानापन्न डीएनएस ">
+<!ENTITY  socksRemoteDNS.label2         "SOCKS v5 उपयोग करने पर स्थानापन्न डीएनएस">
 <!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "पोर्ट:">
 <!ENTITY  HTTPport.accesskey            "P">

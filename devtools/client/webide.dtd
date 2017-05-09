@@ -180,7 +180,7 @@
 <!ENTITY wifi_auth_header "क्लाइंट पहचान">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
-<!ENTITY wifi_auth_scan_request "जिस समापन बिंदु से आप कनेक्ट कर रहे हो ,इस संबंध को प्रमाणित करने के लिए और अधिक जानकारी की जरूरत है। दूसरे छोर पर जो क्यूआर टोकन दिखाई दे रहा है उसे दूसरे युक्ति से प्रदान करें">
+<!ENTITY wifi_auth_scan_request "जिस समापन बिंदु से आप कनेक्ट कर रहे हो ,इस संबंध को प्रमाणित करने के लिए और अधिक जानकारी की जरूरत है.  दूसरे छोर पर जो QR टोकन दिखाई दे रहा है उसे दूसरे युक्ति से प्रदान करें.">
 <!-- LOCALIZATION NOTE (wifi_auth_no_scanner): Link text to assist users with
      devices that can't scan a QR code. -->
 <!ENTITY wifi_auth_no_scanner "कोई QR स्कैनर प्रांप्ट नहीं?">

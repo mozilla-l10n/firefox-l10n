@@ -47,7 +47,7 @@
 
 <!ENTITY connection.label                "कनेक्शन">
 
-<!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे  &brandShortName; इंटरनेट से जुड़ता है">
+<!ENTITY connectionDesc.label            "विन्यस्त करें कि कैसे &brandShortName; इंटरनेट से जुड़ता है">
 <!ENTITY connectionSettings.label        "सेटिंग…">
 <!ENTITY connectionSettings.accesskey    "e">
 
