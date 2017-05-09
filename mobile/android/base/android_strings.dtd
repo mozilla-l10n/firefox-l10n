@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; वस्तु">
 <!ENTITY bookmark_folder_one_item "1 चीज">
-
+<!ENTITY bookmark_parent_folder "मूल फ़ोल्डर">
 
 <!ENTITY reader_saved_offline "ऑफलाइन सहेजा गया">
 <!-- Localization note (reader_switch_to_bookmarks) : This
