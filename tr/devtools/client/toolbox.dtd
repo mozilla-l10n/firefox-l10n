@@ -211,7 +211,7 @@
 <!ENTITY options.sourceeditor.detectindentation.label   "Girintilemeyi tespit et">
 <!ENTITY options.sourceeditor.detectindentation.tooltip "Kaynak içeriğe dayanarak girintilemeyi tahmin et">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Parantezleri otomatik kapat">
-<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Kapatma parantezlerini otomatik olarak ekle">
+<!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Kapatma parantezlerini otomatik ekle">
 <!ENTITY options.sourceeditor.expandtab.label           "Boşluk kullanarak girinti ver">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Tab karakteri yerine boşluk kullan">
 <!ENTITY options.sourceeditor.tabsize.label             "Sekme boyutu">

@@ -41,7 +41,11 @@
 <!ENTITY contentEncodingError.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor çünkü sayfada geçersiz veya desteklenmeyen bir sıkıştırma biçimi kullanıyor.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Bağlantı kesildi">
 <!ENTITY netReset.longDesc "<p>Bağlantı sırasında ağ iletişimi kesintiye uğradı. Lütfen yeniden deneyin.</p>">
@@ -80,7 +84,7 @@
 <!ENTITY cspBlocked.longDesc "<p>Tarayıcı bu sayfanın yüklenmesini engelledi; çünkü sayfa, yüklenmesine izin vermeyen bir içerik güvenliği ilkesine sahip.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Hasarlı İçerik Hatası">
-<!ENTITY corruptedContentErrorv2.longDesc "<p>Bakmak istediğiniz sayfa gösterilemiyor, çünkü dosya aktarımı sırasında bir hata saptandı.</p><ul><li>Site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul>">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Veri aktarımında bir hata tespit edildiği için bakmak istediğiniz sayfa gösterilemiyor.</p><ul><li>Site sahipleriyle iletişim kurup bu sorunu onlara bildirmeyi düşünebilirsiniz.</li></ul>">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">

@@ -288,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "Y">
 <!ENTITY newPrivateWindow.label     "Yeni gizli pencere">
 <!ENTITY newPrivateWindow.accesskey "n">
-<!ENTITY newNonRemoteWindow.label   "Yeni e10s olmayan pencere">
+<!ENTITY newNonRemoteWindow.label   "Yeni e10s dışı pencere">
 
 <!ENTITY editMenu.label         "Düzen"> 
 <!ENTITY editMenu.accesskey       "z"> 

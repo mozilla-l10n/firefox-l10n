@@ -44,7 +44,7 @@
 <!ENTITY new.accesskey "Y">
 <!ENTITY string.label "Dizgi">
 <!ENTITY string.accesskey "D">
-<!ENTITY integer.label "Sayı">
+<!ENTITY integer.label "Tam sayı">
 <!ENTITY integer.accesskey "S">
 <!ENTITY boolean.label "Boolean">
 <!ENTITY boolean.accesskey "B">

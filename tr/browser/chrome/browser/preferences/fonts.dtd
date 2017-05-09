@@ -42,9 +42,9 @@
 <!ENTITY  font.langGroup.canadian                 "Birleşik Kanada hece yazısı">
 <!ENTITY  font.langGroup.ethiopic                 "Etiyopik">
 <!ENTITY  font.langGroup.georgian                 "Gürcüce">
-<!ENTITY  font.langGroup.gujarati                 "Gucarati">
+<!ENTITY  font.langGroup.gujarati                 "Gucaratça">
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmuki">
-<!ENTITY  font.langGroup.khmer                    "Himer">
+<!ENTITY  font.langGroup.khmer                    "Khmer">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
 <!ENTITY  font.langGroup.math                     "Matematik">
 <!ENTITY  font.langGroup.odia                     "Odia">
