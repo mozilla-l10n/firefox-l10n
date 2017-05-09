@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "n">
 <!ENTITY restoreHTMLDefaults.label            "Varsayılanları geri yükle">
 <!ENTITY restoreHTMLDefaults.accesskey        "V">
-
-
+<!ENTITY defaultToParagraph.label             "Varsayılan olarak gövde metni yerine paragraf biçimini kullan">
+<!ENTITY defaultToParagraph.accesskey         "V">
 
 <!ENTITY spellCheck.label                     "Göndermeden önce yazım denetimi yap">
 <!ENTITY spellCheck.accesskey                 "a">
@@ -54,6 +54,9 @@
 <!ENTITY directoriesNone.label                 "Hiçbiri">
 <!ENTITY editDirectories.label                 "Dizinleri Düzenle…">
 <!ENTITY editDirectories.accesskey             "e">
+<!ENTITY showAsDefault.label                   "Adres defteri penceresinin varsayılan açılış dizini:">
+<!ENTITY showAsDefault.accesskey               "d">
+<!ENTITY showAsDefaultLast.label               "Son kullanılan dizin">
 
 <!ENTITY sendOptionsDescription.label          "Metin biçimi davranışını yapılandır">
 <!ENTITY sendOptions.label                     "Gönderim seçenekleri…">

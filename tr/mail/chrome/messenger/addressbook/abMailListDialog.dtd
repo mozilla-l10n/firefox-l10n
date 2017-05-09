@@ -16,6 +16,7 @@
 <!ENTITY ListDescription.accesskey      "k">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Posta listesine eklemek istediğiniz e-posta adreslerini yazın:">
+<!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Yukarıya Taşı">
 <!ENTITY DownButton.label               "Aşağıya Taşı">
 
