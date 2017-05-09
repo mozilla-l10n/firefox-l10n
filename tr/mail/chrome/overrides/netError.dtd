@@ -7,8 +7,8 @@
 
 <!ENTITY loadError.label "Sayfa yükleme sorunu">
 <!ENTITY retry.label "Yeniden dene">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Bağlanılamadı">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -23,7 +23,11 @@
 <!ENTITY fileNotFound.longDesc "<ul> <li>Dosya adındaki büyük-küçük harfleri ve yazım hatalarını kontrol edin.</li> <li>Dosyanın taşınmadığını, adının değişmediğini veya silinmediğini kontrol edin.</li> </ul>">
 
 <!ENTITY fileAccessDenied.title "Dosyaya erişim reddedildi">
-<!ENTITY fileAccessDenied.longDesc "<ul> <li>Silindiği, taşındığı ve izinleri değiştiği için erişilemiyor olabilir.</li> </ul>">
+<!ENTITY fileAccessDenied.longDesc "
+<ul>
+  <li>Silinmiş, taşınmış veya dosya izinleri nedeniyle erişilemiyor olabilir.</li>
+</ul>
+">
 
 <!ENTITY generic.title "Tüh.">
 <!ENTITY generic.longDesc "<p>&brandShortName; bilinmeyen bir nedenden dolayı bu sayfayı açamıyor.</p>">
@@ -41,10 +45,18 @@
 <!ENTITY netOffline.longDesc2 "<ul> <li>Çevrimiçi moda geçip sayfayı tazelemek için &quot;Yeniden dene&quot;ye tıklayın.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "İçerik kodlama hatası">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "
+<ul>
+  <li>Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.</li>
+</ul>
+">
 
 <!ENTITY unsafeContentType.title "Güvensiz dosya türü">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>Lütfen site sahipleriyle iletişim kurarak onları bu sorundan haberdar edin.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "
+<ul>
+  <li>Site sahipleriyle iletişim kurarak bu sorunu onlara bildirmeyi düşünebilirsiniz.</li>
+</ul>
+">
 
 <!ENTITY netReset.title "Bağlantı sıfırlandı">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -53,7 +65,11 @@
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Adres anlaşılamadı">
-<!ENTITY unknownProtocolFound.longDesc " <ul> <li>Bu adresi açmak için başka bir yazılım kurmanız gerekebilir.</li> </ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Bu adresi açmak için başka bir yazılım yüklemeniz gerekebilir.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Vekil sunucu bağlantıları reddediyor">
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>Vekil sunucu ayarlarınızın doğru olup olmadığına bakın.</li> <li>Vekil sunucunun çalıştığından emin olmak için ağ yöneticinizden bilgi alabilirsiniz.</li> </ul>">
@@ -84,11 +100,11 @@
 <!ENTITY securityOverride.linkText "İsterseniz ayrıcalık tanıyın…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Beni buradan uzak tut!">
 <!ENTITY securityOverride.exceptionButtonLabel "Ayrıcalık tanı…">
+
 <!-- LOCALIZATION NOTE (securityOverride.warningContent) - Do not translate the
 contents of the <button> tags. It uses strings already defined above. The
 button is included here (instead of netError.xhtml) because it exposes
 functionality specific to thunderbird. -->
-
 
 <!ENTITY securityOverride.warningContent "<p>Tamamen güvenmediğiniz bir internet bağlantısı kullanıyorsanız veya bu sunucudan uyarı almaya alışkın değilseniz ayrıcalık tanımamalısınız.</p>  <button id='getMeOutOfHereButton'>&securityOverride.getMeOutOfHereButton;</button> <button id='exceptionDialogButton'>&securityOverride.exceptionButtonLabel;</button>">
 
