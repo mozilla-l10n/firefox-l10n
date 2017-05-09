@@ -92,6 +92,7 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Versão ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir ao &brandShortName;">
 <!ENTITY updateAuto2.label               "Instalar atualizações automaticamente (recomendado para melhoria de segurança)">
