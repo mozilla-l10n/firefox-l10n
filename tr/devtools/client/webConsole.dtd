@@ -76,7 +76,7 @@
 
 <!ENTITY filterOutput.placeholder "Çıktıyı filtrele">
 <!ENTITY btnClear.label        "Temizle">
-<!ENTITY btnClear.tooltip      "Web Konsolu çıktısını temizle">
+<!ENTITY btnClear.tooltip      "Web konsolu çıktısını temizle">
 <!ENTITY btnClear.accesskey    "T">
 
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
