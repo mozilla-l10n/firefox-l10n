@@ -93,6 +93,7 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "Versión ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir que &brandShortName;">
 <!ENTITY updateAuto2.label               "Instalar automáticamente actualizaciones (recomendado para seguridad mejorada)">
 <!ENTITY updateAuto2.accesskey           "A">
