@@ -291,7 +291,7 @@
 <!ENTITY calendar.alarm.snoozefor.label             "Askıya al" >
 <!ENTITY calendar.alarm.snoozeallfor.label          "Tümünü askıya al" >
 <!ENTITY calendar.alarm.title.label                 "Takvim anımsatıcıları" >
-<!ENTITY calendar.alarm.dismiss.label               "Sonlandır" >
+<!ENTITY calendar.alarm.dismiss.label               "Kapat" >
 <!ENTITY calendar.alarm.dismissall.label            "Tümünü görmezden gel" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 dakika" >
