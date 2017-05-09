@@ -138,7 +138,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Језик">
-<!ENTITY pref_category_language_summary "Промени језик прегледача">
+<!ENTITY pref_category_language_summary "Промените језик прегледача">
 <!ENTITY pref_browser_locale "Језик прегледача">
 
 <!-- Localization note (locale_system_default) : This string indicates that
