@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "មធ្យោបាយ​ងាយស្រួល">
 
 <!ENTITY useCursorNavigation.label       "ប្រើ​គ្រាប់​ចុច​ទស្សន៍​ទ្រនិច​ជានិច្ច​ដើម្បី​រុករក​ក្នុង​ទំព័រ">
-<!ENTITY useCursorNavigation.accesskey   "ច">
+<!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "ស្វែងរក​​អក្សរ នៅ​ពេល​អ្នក​ចាប់ផ្ដើម​វាយ">
 <!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY blockAutoReload.label           "ដាស់តឿន​​អ្នក​នៅ​ពេល​ដែល​គេហទំព័រ​ព្យាយាម​​បញ្ជូន​បន្ត ឬ​ផ្ទុក​ទំព័រ​ឡើងវិញ">
@@ -20,17 +20,17 @@
 <!ENTITY browsing.label                  "រក​មើល">
 
 <!ENTITY useAutoScroll.label             "ប្រើ​រំកិល​ស្វ័យប្រវត្តិ">
-<!ENTITY useAutoScroll.accesskey         "វ">
+<!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "​ប្រើ​រមូរ​រលូន">
-<!ENTITY useSmoothScrolling.accesskey    "រ">
-<!ENTITY checkUserSpelling.label         "ពិនិត្យ​មើល​​អក្ខរាវិរុទ្ធ​នៅ​ពេល​អ្នក​វាយ">
+<!ENTITY useSmoothScrolling.accesskey    "m">
+<!ENTITY checkUserSpelling.label         "ពិនិត្យ​​អក្ខរាវិរុទ្ធ​ពេល​វាយ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "ជម្រើស​ទិន្នន័យ">
 
 <!ENTITY healthReportDesc.label          "ជួយ​អ្នក​ឲ្យ​យល់​អំពី​ដំណើរការ​នៃ​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក និង​ការ​ចែករំលែក​ទិន្នន័យ​អំពី​សុខភាព​កម្មវិធី​រុករក​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName;">
-<!ENTITY enableHealthReport.label        "បើក &brandShortName; របាយការណ៍​សុខភាព">
-<!ENTITY enableHealthReport.accesskey    "រ">
+<!ENTITY enableHealthReport.label        "បើក​របាយការណ៍​សុខភាព &brandShortName;">
+<!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "សិក្សា​​បន្ថែម">
 
 <!ENTITY telemetryDesc.label             "ចែករំលែក​ដំណើរការ ការ​ប្រើប្រាស់ ផ្នែក​រឹង និង​ការ​ប្ដូរ​ទិន្នន័យ​តាម​បំណង​អំពី​កម្មវិធី​រុករក​បណ្ដាញ​របស់​អ្នក​ដោយ​ប្រើ &vendorShortName; ដើម្បី​ជួយ​ធ្វើឲ្យ &brandShortName; ប្រសើរ​ឡើង">
@@ -81,7 +81,17 @@
 
 <!ENTITY updateTab.label                 "ធ្វើ​បច្ចុប្បន្នភាព">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "បច្ចុប្បន្នភាព &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 <!ENTITY updateApplication.description   "អនុញ្ញាត &brandShortName; ឲ្យ">
 <!ENTITY updateAuto2.label               "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ណែនាំ​សម្រាប់​ធ្វើ​ឲ្យ​​សុវត្ថិភាព​​ប្រសើរ)">
 <!ENTITY updateAuto2.accesskey           "A">
