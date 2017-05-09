@@ -209,7 +209,7 @@
 <!ENTITY pref_manage_logins "Управљање пријавама">
 
 <!ENTITY pref_category_home "Почетна">
-<!ENTITY pref_category_home_summary "Прилагоди почетну страницу">
+<!ENTITY pref_category_home_summary "Прилагодите почетну страницу">
 <!ENTITY pref_category_home_panels "Панели">
 <!ENTITY pref_category_home_add_ons "Додаци">
 <!ENTITY pref_home_updates2 "Ажурирање садржаја">
@@ -271,9 +271,9 @@
 <!ENTITY pref_donottrack_title "Не желим да ме прате">
 <!ENTITY pref_donottrack_summary "&brandShortName; ће рећи сајтовима да не желите да будете праћени">
 
-<!ENTITY pref_tracking_protection_enabled "Омогућено">
-<!ENTITY pref_tracking_protection_enabled_pb "Омогућено у приватном прегледању">
-<!ENTITY pref_tracking_protection_disabled "Онемогућено">
+<!ENTITY pref_tracking_protection_enabled "Омогућена">
+<!ENTITY pref_tracking_protection_enabled_pb "Омогућена у приватном прегледању">
+<!ENTITY pref_tracking_protection_disabled "Онемогућена">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; новости">
 <!ENTITY pref_whats_new_notification_summary "Сазнајте више о новом могућностима">
@@ -368,7 +368,7 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Користи величину фонта система">
-<!ENTITY pref_use_system_font_size_summary "Прилагоди веб садржај према величини фонта система">
+<!ENTITY pref_use_system_font_size_summary "Прилагодите веб садржај према величини фонта система">
 
 <!ENTITY pref_media_autoplay_enabled "Аутоматска репродукција">
 <!ENTITY pref_media_autoplay_enabled_summary "Контролишите да ли веб сајтови могу да аутоматски репродукују видео или други медијски садржај">
