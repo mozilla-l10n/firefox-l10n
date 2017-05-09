@@ -49,7 +49,7 @@
 
 <!ENTITY connectionDesc.label            "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធីដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
 <!ENTITY connectionSettings.label        "ការ​កំណត់…">
-<!ENTITY connectionSettings.accesskey    "ណ">
+<!ENTITY connectionSettings.accesskey    "e">
 
 <!ENTITY httpCache.label                 "មាតិកា​បណ្ដាញ​ដែល​បាន​ដាក់​ក្នុង​ឃ្លាំង​សម្ងាត់">
 
@@ -70,14 +70,14 @@
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "កំណត់​ឃ្លាំង​សម្ងាត់​ត្រឹម">
-<!ENTITY limitCacheSizeBefore.accesskey  "ម">
+<!ENTITY limitCacheSizeBefore.accesskey  "L">
 <!ENTITY limitCacheSizeAfter.label       "MB នៃ​ទំហំ">
 <!ENTITY clearCacheNow.label             "សម្អាត​ឥឡូវនេះ">
-<!ENTITY clearCacheNow.accesskey         "ស">
+<!ENTITY clearCacheNow.accesskey         "C">
 <!ENTITY clearOfflineAppCacheNow.label   "សម្អាត​ឥឡូវនេះ">
-<!ENTITY clearOfflineAppCacheNow.accesskey "ស">
+<!ENTITY clearOfflineAppCacheNow.accesskey "N">
 <!ENTITY overrideSmartCacheSize.label    "បដិសេធ​ការ​គ្រប់គ្រង​ឃ្លាំង​សម្ងាត់​ដោយ​ស្វ័យប្រវត្តិ">
-<!ENTITY overrideSmartCacheSize.accesskey "ប">
+<!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ធ្វើ​បច្ចុប្បន្នភាព">
 
@@ -92,6 +92,8 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "កំណែ ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "អនុញ្ញាត &brandShortName; ឲ្យ">
 <!ENTITY updateAuto2.label               "ដំឡើង​បច្ចុប្បន្នភាព​ដោយ​ស្វ័យប្រវត្តិ (បាន​ណែនាំ​សម្រាប់​ធ្វើ​ឲ្យ​​សុវត្ថិភាព​​ប្រសើរ)">
 <!ENTITY updateAuto2.accesskey           "A">
