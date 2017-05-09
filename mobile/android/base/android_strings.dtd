@@ -63,7 +63,7 @@
 <!ENTITY  crash_close_label "Kapat">
 <!ENTITY  crash_restart_label "&brandShortName; baştan başlasın">
 
-<!ENTITY url_bar_default_text2 "Arama yapın veya adres girin">
+<!ENTITY url_bar_default_text2 "Arama yapın veya adres yazın">
 
 <!ENTITY bookmark "Yer imi">
 <!ENTITY bookmark_remove "Yer imini kaldır">
@@ -776,7 +776,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Eklentiler">
 <!ENTITY restrictable_feature_addons_installation_description "Firefox\u0027a yeni özellikler ve işlevler ekleyin. Not: Eklentiler bazı kısıtlamaları devre dışı bırakabilir.">
-<!ENTITY restrictable_feature_private_browsing "Gizli Tarama">
+<!ENTITY restrictable_feature_private_browsing "Gizli Gezinti">
 <!ENTITY restrictable_feature_private_browsing_description "Aile bireylerinin ziyaret ettikleri siteler ve sayfalarla ilgili bilgileri kaydetmeden dolaşmalarına izin verir.">
 <!ENTITY restrictable_feature_clear_history "Geçmişi temizle">
 <!ENTITY restrictable_feature_clear_history_description "Aile bireylerinin ziyaret ettikleri siteler ve sayfalarla ilgili bilgileri silmelerine izin verir.">
