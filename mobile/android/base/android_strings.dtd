@@ -389,7 +389,7 @@
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Açık sekmeler">
-<!ENTITY pref_private_data_history2 "Tarama geçmişi">
+<!ENTITY pref_private_data_history2 "Tarayıcı geçmişi">
 <!ENTITY pref_private_data_searchHistory "Arama geçmişi">
 <!ENTITY pref_private_data_formdata2 "Form geçmişi">
 <!ENTITY pref_private_data_cookies2 "Çerezler ve aktif oturumlar">
