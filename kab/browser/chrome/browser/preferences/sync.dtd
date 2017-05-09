@@ -66,6 +66,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "Iγewwaṛen n umtawi">
+<!ENTITY signedIn.settings.description "Fren ayen ad temtawiḍ deg ibenk inek s useqdec n &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
