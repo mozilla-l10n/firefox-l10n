@@ -48,7 +48,7 @@
 <!ENTITY connection.label                "Sambungan">
 
 <!ENTITY connectionDesc.label            "Atur cara &brandShortName; tersambung ke Internet">
-<!ENTITY connectionSettings.label        "Pengaturan…">
+<!ENTITY connectionSettings.label        "Setelan…">
 <!ENTITY connectionSettings.accesskey    "u">
 
 <!ENTITY httpCache.label                 "Konten Web Tembolok">
@@ -81,7 +81,19 @@
 
 <!ENTITY updateTab.label                 "Pemutakhiran">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "Pemutakhiran &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Versi ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Izinkan &brandShortName; untuk">
 <!ENTITY updateAuto2.label               "Otomatis pasang pemutakhiran (disarankan untuk keamanan lebih baik)">
 <!ENTITY updateAuto2.accesskey           "O">
@@ -126,5 +138,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "K">
 
 <!ENTITY performance.label               "Kinerja">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Gunakan setelan kinerja yang disarankan">
+<!ENTITY limitContentProcess.label       "Batas proses konten">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "a">

@@ -6,6 +6,7 @@
 <!ENTITY     hostCol.label                 "Situs">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Penyimpanan">
+<!ENTITY     searchTextboxPlaceHolder             "Cari situs web">
 <!ENTITY     removeSelected.label          "Hapus yang Dipilih">
 <!ENTITY     removeSelected.accesskey      "H">
 <!ENTITY     save.label                    "Simpan Perubahan">
