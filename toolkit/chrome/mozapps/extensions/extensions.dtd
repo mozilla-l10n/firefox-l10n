@@ -185,7 +185,7 @@
 <!ENTITY search.filter2.available.tooltip     "Показати додатки, котрі можна встановити">
 
 <!ENTITY addon.homepage                       "Домівка">
-<!ENTITY addon.details.label                  "Детальніше">
+<!ENTITY addon.details.label                  "Докладніше">
 <!ENTITY addon.details.tooltip                "Показати більше подробиць щодо цього додатку">
 <!ENTITY addon.unknownDate                    "Невідомо">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
@@ -233,7 +233,7 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Що це? Телеметрія може час від часу встановлювати та запускати експерименти.">
 <!ENTITY experiment.info.learnmore "Докладніше">
-<!ENTITY experiment.info.learnmore.accesskey "Д">
+<!ENTITY experiment.info.learnmore.accesskey "о">
 <!ENTITY experiment.info.changetelemetry "Налаштування телеметрії">
 <!ENTITY experiment.info.changetelemetry.accesskey "Н">
 
