@@ -909,13 +909,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu &brandShorterName;u">
 
 <!ENTITY updateManual.whatsnew.label "Pozrite sa, čo je nové.">
+<!ENTITY updateManual.header.message "Aplikácii &brandShorterName; sa nepodarilo nainštalovať najnovšiu verziu.">
 <!ENTITY updateManual.acceptButton.label "Prevziať &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "P">
 <!ENTITY updateManual.cancelButton.label "Teraz nie">
 <!ENTITY updateManual.cancelButton.accesskey "n">
 
+<!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teraz nie">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label "Reštartovať aplikáciu &brandShorterName; a nainštalovať aktualizáciu">
 
