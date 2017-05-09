@@ -4,7 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Başlangıçta yeni haberleri denetle">
 <!ENTITY loginAtStartup.accesskey      "h">
+<!ENTITY biffAll.label                 "Tüm akışlar için güncellemeleri etkinleştir">
+<!ENTITY biffAll.accesskey             "e">
 
+<!ENTITY newFeedSettings.label         "Haber akışları için varsayılan ayarlar">
 
 <!ENTITY manageSubscriptions.label     "Aboneliklerini yönet…">
 <!ENTITY manageSubscriptions.accesskey "A">
