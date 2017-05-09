@@ -106,7 +106,7 @@
 <!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "ប្រើ​សេវា​ផ្ទៃ​ខាងក្រោយ ដើម្បី​ដំឡើង​បច្ចុប្បន្នភាព">
-<!ENTITY useService.accesskey            "ប">
+<!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "ធ្វើ​បច្ចុប្បន្នភាព​ម៉ាស៊ីន​ស្វែងរក​ដោយស្វ័យប្រវត្តិ">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
@@ -121,7 +121,7 @@
 <!ENTITY offlineAppsList2.label          "តំបន់​បណ្ដាញ​ដូច​ខាងក្រោម​នេះ ត្រូវ​បាន​អនុញ្ញាត​ឲ្យ​ទុក​ទិន្នន័យ​សម្រាប់​ការ​ប្រើ​ក្រៅ​បណ្ដាញ ៖">
 <!ENTITY offlineAppsList.height          "10em">
 <!ENTITY offlineAppsListRemove.label     "យក​ចេញ...">
-<!ENTITY offlineAppsListRemove.accesskey "ញ">
+<!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "យក​ទិន្នន័យ​ក្រៅ​បណ្ដាញ​ចេញ">
 
 <!ENTITY certificateTab.label            "វិញ្ញាបនបត្រ">
@@ -137,5 +137,12 @@
 <!ENTITY viewSecurityDevices.label       "សុវត្ថិភាព ឧបករណ៍">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "ដំណើរការ">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "ប្រើ​ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ​គឺ​ត្រូវជាមួយ​កុំព្យូទ័រ​របស់​អ្នក។">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
