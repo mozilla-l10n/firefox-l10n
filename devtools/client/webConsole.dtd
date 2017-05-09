@@ -89,3 +89,4 @@
 
 <!ENTITY closeCmd.key         "W">
 <!ENTITY findCmd.key          "F">
+<!ENTITY openInVarViewCmd.label "เปิดในมุมมองตัวแปร">
