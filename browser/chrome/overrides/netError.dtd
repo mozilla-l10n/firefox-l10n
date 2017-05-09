@@ -121,7 +121,7 @@ was trying to connect. -->
 <!ENTITY errorReporting.learnMore "Daha fazla bilgi al…">
 
 <!ENTITY remoteXUL.title "Uzak XUL">
-<!ENTITY remoteXUL.longDesc "<p><ul><li>Onları bu sorundan haberdar etmek için lütfen site sahipleri ile iletişime geçin.</li></ul></p>">
+<!ENTITY remoteXUL.longDesc "<p><ul><li>Lütfen site sahipleriyle iletişim kurup onları bu sorundan haberdar edin.</li></ul></p>">
 
 <!ENTITY sslv3Used.title "Güvenli bağlantı kurulamadı">
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
