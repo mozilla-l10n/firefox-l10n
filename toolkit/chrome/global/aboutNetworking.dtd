@@ -37,7 +37,7 @@
 
 
 
-
-
+<!ENTITY aboutNetworking.dnsLookup             "DNS முகவரி பார்த்தல்">
+<!ENTITY aboutNetworking.dnsLookupButton       "தீர்த்தல்">
 
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
