@@ -204,8 +204,8 @@
 <!ENTITY pref_content_notifications_summary2 "Gis ay ëmbiit yi bees ci dal yiñ nangu">
 <!ENTITY pref_developer_remotedebugging_usb "Caytu ci soree ak USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Caytu ci soree ak WI-FI">
-<!ENTITY pref_remember_signons2 "Fattaliku duggkaay yi">
-<!ENTITY pref_manage_logins "Yorug duggkaay yi">
+<!ENTITY pref_remember_signons2 "Fàttliku duggukaay yi">
+<!ENTITY pref_manage_logins "Yorug duggukaay yi">
 
 <!ENTITY pref_category_home "Xët wu njëkk">
 <!ENTITY pref_category_home_summary "Soppi sa xët wu njëkk">
@@ -379,7 +379,7 @@
 
 <!ENTITY pref_use_master_password "Jëfandikoo baatu-jàll bi njëkk">
 <!ENTITY pref_sync2 "Dugg">
-<!ENTITY pref_sync_summary2 "Lonk say làcc, màndarga-xët, duggkaay, jaar-jaar">
+<!ENTITY pref_sync_summary2 "Lonk say làcc, màndarga-xët, duggukaay, jaar-jaar">
 <!ENTITY pref_search_suggestions "Wone tektali ceet">
 <!ENTITY pref_history_search_suggestions "Wone jaar-jaaru ceet gi">
 <!ENTITY pref_import_options "Tànneefi jëli">
@@ -391,7 +391,7 @@
 <!ENTITY pref_private_data_searchHistory "Jaar-jaaru ceet gi">
 <!ENTITY pref_private_data_formdata2 "">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; ñi dugg">
-<!ENTITY pref_private_data_passwords2 "Duggkaay yees fi denc">
+<!ENTITY pref_private_data_passwords2 "Duggukaay yees fi denc">
 <!ENTITY pref_private_data_cache "Ndenc">
 <!ENTITY pref_private_data_offlineApps "Njoxeefi dali web yi ci biti-lonkoo">
 <!ENTITY pref_private_data_siteSettings2 "Jekk-jekkali dal">
@@ -456,7 +456,7 @@
 <!ENTITY quit "Génn">
 
 <!ENTITY addons "Lawal">
-<!ENTITY logins "Duggkaay">
+<!ENTITY logins "Duggukaay">
 <!ENTITY downloads "Yebbi">
 <!ENTITY char_encoding "">
 
@@ -470,7 +470,7 @@
 <!ENTITY page "Xët">
 <!ENTITY tools "Jumtukaay">
 <!ENTITY new_tab "Làcc wu bees">
-<!ENTITY new_private_tab "Làcc wi bees te suturloo">
+<!ENTITY new_private_tab "Làcc wu bees te suturloo">
 <!ENTITY close_all_tabs "Tëj làcc yépp">
 <!ENTITY close_private_tabs "Tëj làcci sutura yépp">
 <!ENTITY tabs_normal "Làcc">
@@ -514,13 +514,13 @@
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Amul turu jëfandikukat]">
-<!ENTITY doorhanger_login_edit_title "Soppi duggkaay">
+<!ENTITY doorhanger_login_edit_title "Soppi duggukaay">
 <!ENTITY doorhanger_login_edit_username_hint "Turu jëfandikukat">
 <!ENTITY doorhanger_login_edit_password_hint "Baatu-jàll">
 <!ENTITY doorhanger_login_edit_toggle "Wone baatu-jàll">
 <!ENTITY doorhanger_login_select_message "Duppee baatu-jàll bi ca &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Duppees na baatu-jàll bi">
-<!ENTITY doorhanger_login_select_action_text "Tànnal beneen duggkaay">
+<!ENTITY doorhanger_login_select_action_text "Tànnal beneen duggukaay">
 <!ENTITY doorhanger_login_select_title "Duppee baatu-jàll bi ca">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls

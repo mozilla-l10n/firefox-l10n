@@ -17,7 +17,7 @@
 <!ENTITY sync.link.nodevice.label 'Yoruma jumtukaay bi ak man…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Duggkaay yi'>
+<!ENTITY sync.configure.engines.title.passwords2 'Duggukaay'>
 <!ENTITY sync.configure.engines.title.history 'Jaar-jaar'>
 <!ENTITY sync.configure.engines.title.tabs 'Làcc'>
 

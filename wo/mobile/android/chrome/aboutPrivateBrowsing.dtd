@@ -13,8 +13,8 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "Nekkoo ci njoowug sutura">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; dafay téye wàll yi ci xët yi yiy man a topp sag njoow ci internet.">
-<!ENTITY privatebrowsingpage.description.privateDetails "Du nu fattaliku genn jaar-jaar, waaye ŋara yi nga yebbi ak màndarga-xët yu bees yi nga yokk dañuy wéy di des ci sa jumtukaay.">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; da fay téye wàll yi ci xët yiy man a topp sag njoow ci Internet.">
+<!ENTITY privatebrowsingpage.description.privateDetails "Du nu fàttliku genn jaar-jaar, waaye ŋara yi nga yebbi ak màndarga-xët yu bees yi nga yokk dañuy wéy di des ci sa jumtukaay.">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
      Browsing is capitalized in English to be consistent with our existing uses
