@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteçion anti-traciamento">
 <!ENTITY  trackingProtection.description       "O traciamento l'é quande e aziende piagian informaçioin in sce ti pe fase 'n profî e vedde contegnui bazæ in sciâ teu navegaçion e dæti personâ.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blòcca e aziende de traciamento de fâ vedde i contegnui">
 <!ENTITY  trackingProtectionAlways.label       "De longo">
 <!ENTITY  trackingProtectionAlways.accesskey   "g">
 <!ENTITY  trackingProtectionPrivate.label      "Solo inti barcoin privæ">
@@ -31,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Bara di indirissi">
 
+<!ENTITY  locbar.suggest2.label         "Quande ti deuvi a bara di indirissi, conseggia">
 <!ENTITY  locbar.history.label          "Stöia">
 <!ENTITY  locbar.history.accesskey      "n">
 <!ENTITY  locbar.bookmarks.label        "Segnalibbri">
@@ -40,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "riçerche corelæ do-u motô de riçerca predefinio">
 <!ENTITY  locbar.searches.accesskey     "h">
 
+<!ENTITY  suggestionSettings2.label     "Cangia e inpostaçioin di conseggi di motoî de riçerca">
 
 <!ENTITY  acceptCookies.label           "Acetta i cookie da sti sciti">
 <!ENTITY  acceptCookies.accesskey       "k">
