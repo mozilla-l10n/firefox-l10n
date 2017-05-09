@@ -2,6 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "&brandFullName; பற்றி">
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -90,7 +94,7 @@
 <!ENTITY update.unsupported.start    "இந்த கணினியில் நீங்கள் மேலும் புதுப்பித்தல்களை மேற்கொள்ள முடியாது. ">
 <!ENTITY update.unsupported.linkText "மேலும் அறிய">
 <!ENTITY update.unsupported.end      "">
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
