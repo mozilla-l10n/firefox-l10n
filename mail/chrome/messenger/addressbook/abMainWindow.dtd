@@ -67,7 +67,7 @@
 <!ENTITY deleteListCmd.label                            "Listeyi Sil">
 <!ENTITY deleteListsCmd.label                           "Listeleri Sil">
 <!ENTITY deleteItemsCmd.label                           "Ögeleri Sil">
-<!ENTITY selectAllCmd.label                             "Tümünü Seçi">
+<!ENTITY selectAllCmd.label                             "Tümünü seç">
 <!ENTITY selectAllCmd.key                               "A">
 <!ENTITY searchAddressesCmd.key                         "f">
 <!ENTITY selectAllCmd.accesskey                         "ü">
