@@ -791,11 +791,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncBrand.shortName.label    "ធ្វើ​សមកាលកម្ម">
 
 <!ENTITY syncSignIn.label             "ចូល​ទៅ &syncBrand.shortName.label;…">
-<!ENTITY syncSignIn.accesskey         "">
+<!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "ធ្វើ​សមកាលកម្ម​ឥឡូវ">
-<!ENTITY syncSyncNowItem.accesskey    "">
+<!ENTITY syncSyncNowItem.accesskey    "S">
 <!ENTITY syncReAuthItem.label         "តភ្ជាប់​ឡើង​វិញ​ទៅកាន់ &syncBrand.shortName.label;…">
-<!ENTITY syncReAuthItem.accesskey     "">
+<!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "ធ្វើ​សមកាលកម្ម">
 
 <!ENTITY social.addons.label "គ្រប់គ្រង​សេវាកម្ម...">
@@ -816,12 +816,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
 <!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
 <!ENTITY customizeMode.lwthemes.menuManage "គ្រប់គ្រង">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "យក​រូបរាង​ច្រើនទៀត">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY getUserMedia.selectCamera.label "ម៉ាស៊ីន​ថត​ដែល​ត្រូវ​ចែករំលែក៖">
-<!ENTITY getUserMedia.selectCamera.accesskey "">
+<!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "មីក្រូហ្វូន​ដែល​ត្រូវ​ចែករំលែក៖">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "អូឌីយ៉ូ​ពី​ផ្ទាំង​នឹង​ត្រូវ​បាន​ចែករំលែក។">
@@ -920,9 +920,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "ទាញ​យក​ច្បាប់​ចម្លង &brandShorterName; ថ្មី">
 
 <!ENTITY updateRestart.message "បន្ទាប់ពី​ចាប់ផ្ដើម​ឡើងវិញ &brandShorterName; នឹង​ស្ដារ​ផ្ទាំង​កម្មវិធី​ទាំងអស់​របស់​អ្នក​ដូច​ដើម​វិញ។">
+<!ENTITY updateRestart.header.message2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;។">
 <!ENTITY updateRestart.acceptButton.label "ចាប់ផ្ដើម និង​ស្ដារ">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "កុំ​ទាន់​អាល">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "ចាប់ផ្ដើម &brandShorterName; ឡើងវិញ​ដើម្បី​អនុវត្ត​បច្ចុប្បន្នភាព">
 
+<!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
