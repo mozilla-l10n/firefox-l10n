@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Bogmærker">
+<!ENTITY  bookmarks_title "Mobil">
 <!ENTITY  history_title "Historik">
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
@@ -59,9 +59,9 @@
 <!ENTITY  crash_allow_contact2 "Giv &vendorShortName; lov til at kontakte mig om denne fejlrapport">
 <!ENTITY  crash_email "Din mailadresse">
 <!ENTITY  crash_closing_alert "Afslut uden at sende en fejlrapport?">
+<!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 <!ENTITY  crash_close_label "Luk">
 <!ENTITY  crash_restart_label "Genstart &brandShortName;">
-<!ENTITY  sending_crash_report "Sender fejlrapport\u2026">
 
 <!ENTITY url_bar_default_text2 "Indtast søgeord eller adresse">
 
@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Bogmærke fjernet">
 <!ENTITY bookmark_updated "Bogmærke opdateret">
 <!ENTITY bookmark_options "Indstillinger">
+<!ENTITY bookmark_save "Gem">
 <!ENTITY screenshot_added_to_bookmarks "Skærmbillede føjet til bogmærker">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; elementer">
 <!ENTITY bookmark_folder_one_item "1 element">
+<!ENTITY bookmark_parent_folder "Overordnet mappe">
 
 <!ENTITY reader_saved_offline "Gemt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -176,7 +178,7 @@
 <!ENTITY pref_category_privacy_short "Privatliv">
 <!ENTITY pref_category_privacy_summary4 "Sporing, logins, datadeling">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
-<!ENTITY pref_category_vendor_summary2 "Om &brandShortName;, FAQ\'er, feedback">
+<!ENTITY pref_category_vendor_summary2 "Om &brandShortName;, FAQ\&apos;er, feedback">
 <!ENTITY pref_category_datareporting "Datadeling">
 <!ENTITY pref_category_logins "Logins">
 <!ENTITY pref_learn_more "Læs mere">
@@ -185,7 +187,6 @@
 <!ENTITY pref_category_search_restore_defaults "Gendan søgetjenester">
 <!ENTITY pref_search_restore_defaults "Gendan oprindelige indstillinger">
 <!ENTITY pref_search_restore_defaults_summary "Gendan oprindelige indstillinger">
-
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
@@ -193,6 +194,9 @@
      it is applicable. -->
 <!ENTITY pref_search_hint2 "Tip: Du kan tilføje et websted til din liste over søgetjenester ved at trykke og holde på dets søgefelt og så trykke på ikonet &formatI;.">
 <!ENTITY pref_category_advanced "Avanceret">
+<!-- Localization note (pref_category_advanced_summary3): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_advanced_summary3 "Gendan faneblade, data-sparer, udviklerværktøjer">
 <!ENTITY pref_category_notifications "Beskeder">
 <!ENTITY pref_category_notifications_summary "Nye funktioner, opdatering af websteder">
@@ -212,6 +216,9 @@
 <!ENTITY pref_home_updates_enabled "Aktiveret">
 <!ENTITY pref_home_updates_wifi "Kun via wi-fi">
 <!ENTITY pref_category_home_homepage "Startside">
+<!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
+     home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Brug også på nye faner">
 <!ENTITY home_homepage_title "Angiv en startside">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -244,6 +251,9 @@
 <!ENTITY pref_cookies_not_accept_foreign "Aktiver, men stop 3. parts cookies">
 <!ENTITY pref_cookies_disabled "Deaktiveret">
 
+<!-- Localization note (pref_category_data_saver): “data saver” in this
+     context means consuming less data, e.g. by not loading images, not
+     “storing data”. -->
 <!ENTITY pref_category_data_saver "Data-sparer">
 <!ENTITY pref_category_media "Medie">
 <!ENTITY pref_category_developer_tools "Udviklerværktøjer">
@@ -277,6 +287,12 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 <!ENTITY pref_custom_tabs "Tilpassede faneblade">
 <!ENTITY pref_custom_tabs_summary3 "Tillad at apps kan åbne websteder med en tilpasset version af &brandShortName;">
+<!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
+     default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Åbn i &formatS;">
+<!ENTITY custom_tabs_menu_footer "Leveret af &brandShortName;">
+<!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL kopieret">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktivitetsstrøm">
@@ -312,7 +328,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \'Ignorere andre apps\' i &brandShortName; for at kunne åbne flere links ad gangen.">
+<!ENTITY tab_queue_notification_settings "Du skal aktivere tilladelsen \&apos;Ignorere andre apps\&apos; i &brandShortName; for at kunne åbne flere links ad gangen.">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -345,26 +361,14 @@
 <!ENTITY pref_plugins_enabled "Aktiveret">
 <!ENTITY pref_plugins_tap_to_play2 "Tryk for at afspille">
 <!ENTITY pref_plugins_disabled "Deaktiveret">
-<!ENTITY pref_text_size "Tekststørrelse">
 <!ENTITY pref_restore_tabs "Gendan faneblade">
 <!ENTITY pref_restore_always "Gendan altid">
 <!ENTITY pref_restore_quit "Gendan ikke efter lukning af &brandShortName;">
-<!ENTITY pref_font_size_tiny "Meget lille">
-<!ENTITY pref_font_size_small "Lille">
-<!ENTITY pref_font_size_medium "Mellem">
-<!ENTITY pref_font_size_large "Stor">
-<!ENTITY pref_font_size_xlarge "Meget Stor">
-<!ENTITY pref_font_size_set "Indstil">
-<!-- Localization note (pref_font_size_adjust_char): A button with a small version of this character
-(or combination of characters) is used to decrease the preview font size; a larger version of the
-same character/combination is used to increase the preview font size. It should be a concise
-representation of the language it is used in that will help show the text in the preview will change
-size. -->
-<!ENTITY pref_font_size_adjust_char "T">
 
-<!-- Localization note (pref_font_size_preview_text): This paragraph is used as an example to
-    demonstrate the font size setting.  It is meant to be whimsical and fun. -->
-<!ENTITY pref_font_size_preview_text "Den hurtige orange ræv springer over dine forventninger med større hastighed, mere fleksibilitet og mere sikkerhed. Som en nonprofit-organisation, kan vi udvikle på dine vegne uden at blive presset til at gå på kompromis. Det betyder en bedre oplevelse for dig og en lysere fremtid for internettet.">
+<!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
+     Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Brug systemets skriftstørrelse">
+<!ENTITY pref_use_system_font_size_summary "Skaler webindhold i henhold til systemets skriftstørrelse">
 
 <!ENTITY pref_media_autoplay_enabled "Tillad automatisk afspilning">
 <!ENTITY pref_media_autoplay_enabled_summary "Bestemmer om websteder kan starte afspilning af video og andet medieindhold automatisk">
@@ -382,13 +386,15 @@ size. -->
 <!ENTITY pref_history_search_suggestions "Vis søgehistorik">
 <!ENTITY pref_import_options "Import-valg">
 <!ENTITY pref_import_android_summary "Importer bogmærker og historik fra den medfølgende browser">
+<!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
+     the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "Åbne faneblade">
 <!ENTITY pref_private_data_history2 "Browserhistorik">
 <!ENTITY pref_private_data_searchHistory "Søgehistorik">
 <!ENTITY pref_private_data_formdata2 "Formularhistorik">
 <!ENTITY pref_private_data_cookies2 "Cookies og aktive logins">
-<!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_passwords2 "Gemte logins">
+<!ENTITY pref_private_data_cache "Cache">
 <!ENTITY pref_private_data_offlineApps "Offline webstedsdata">
 <!ENTITY pref_private_data_siteSettings2 "Webstedsindstillinger">
 <!ENTITY pref_private_data_downloadFiles2 "Hentede filer">
@@ -413,15 +419,18 @@ size. -->
 <!ENTITY pref_panels_move_down "Flyt ned">
 
 <!ENTITY datareporting_notification_title "&brandShortName;-statistik &amp; -data">
-<!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
 <!ENTITY datareporting_notification_action "Angiv, hvad du vil dele">
+<!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
+<!ENTITY datareporting_notification_action_long "Vælg hvilke informationer du vil dele">
 <!ENTITY datareporting_notification_summary "&brandShortName; sender automatisk data til &vendorShortName; for at forbedre din oplevelse.">
+<!-- When this item is removed, also remove datareporting_notification_action_long:
+     it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
 
-<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary,
+<!-- Localization note (datareporting_fhr_title, datareporting_fhr_summary2,
      reporting_telemetry_title, datareporting_telemetry_summary,
      datareporting_crashreporter_summary) : These match the strings in
-     chrome/browser/preferences/advanced.dtd (healthReportSection.label,
+     en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
 <!ENTITY datareporting_fhr_title "&brandShortName; sundhedsrapport">
@@ -490,6 +499,7 @@ size. -->
 <!ENTITY contextmenu_open_private_tab "Åbn i privat faneblad">
 <!ENTITY contextmenu_remove "Fjern">
 <!ENTITY contextmenu_add_to_launcher "Føj til startskærmen">
+<!ENTITY contextmenu_set_as_homepage "Angiv som startside">
 <!ENTITY contextmenu_share "Del">
 <!ENTITY contextmenu_pasteandgo "Indsæt og gå">
 <!ENTITY contextmenu_paste "Indsæt">
@@ -514,11 +524,6 @@ size. -->
 <!ENTITY doorhanger_login_select_toast_copy "Adgangskode er kopieret til udklipsholder">
 <!ENTITY doorhanger_login_select_action_text "Vælg et andet login">
 <!ENTITY doorhanger_login_select_title "Kopier adgangskode fra">
-
-<!-- Localization note (pref_prevent_magnifying_glass): Label for setting that controls
-     whether or not the magnifying glass is disabled. -->
-<!ENTITY pref_magnifying_glass_enabled "Forstør små områder">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Forstør links og formularfelter, når du trykker nær dem">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -594,10 +599,6 @@ size. -->
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
 <!ENTITY home_most_recent_emptyhint2 "Psst: Bruger du &formatS1;Nyt privat faneblad&formatS2; bliver din historik ikke gemt.">
-<!-- Localization note (home_reading_list_hint3): The "TIP" string is synonymous to "hint", "clue", etc. This string is displayed
-     as an advisory message on how to add content to the reading list when the reading list empty.
-     The placeholder &formatI; will be replaced by a small image of the icon described, and can be moved to wherever
-     it is applicable. -->
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
@@ -693,7 +694,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY searchable_description "Bogmærker og historik">
 
-<!-- Updater notifications -->
+ <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "Opdatering tilgængelig til &brandShortName;">
 <!ENTITY updater_start_select2 "Tryk for at hente">
 
@@ -712,7 +713,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Tillad">
 
-<!-- Guest mode -->
+    <!-- Guest mode -->
 <!ENTITY new_guest_session "Ny gæstesession">
 <!ENTITY exit_guest_session "Luk gæstesession">
 <!ENTITY guest_session_dialog_continue "Fortsæt">
@@ -733,15 +734,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY colon ":">
 
-<!-- LOCALIZATION NOTE (percent): The percent sign is appended after a number to
-     display a percentage value. formatS is the number, #37 is the code to display a percent sign.
-     This format string is typically used by getString method, in such method the percent sign
-     is a reserved caracter. In order to display one percent sign in the result of getString,
-     double percent signs must be inserted in the format string.
-     This entity is used in the zoomed view to display the zoom factor-->
-<!ENTITY percent "&formatS;&#37;&#37;">
-
-<!-- These are only used for accessiblity for the done and overflow-menu buttons in the actionbar.
+<!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
 <!ENTITY actionbar_menu "Menu">
 <!ENTITY actionbar_done "Færdig">
@@ -798,8 +791,6 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_block_list_description "Bloker websteder med uønsket indhold.">
 
 <!-- Default Bookmarks titles-->
-<!-- LOCALIZATION NOTE (bookmarks_title): title for the folder that will contains the default bookmarks -->
-<!ENTITY bookmarks_title "Mobil">
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
 <!ENTITY bookmarks_about_browser "Firefox: Om din browser">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
