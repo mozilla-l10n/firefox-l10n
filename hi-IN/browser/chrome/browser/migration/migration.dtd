@@ -32,7 +32,7 @@
 
 <!ENTITY importSource.title             "सेटिंग्स और डेटा‌ यहाँ से आयात करें">
 <!ENTITY importItems.title              "आयात की वस्तुएँ">
-<!ENTITY importItems.label              "आयात की वस्तुओं‌ का चयन करें">
+<!ENTITY importItems.label              "आयात की वस्तुओं‌ का चयन करें:">
 
 <!ENTITY migrating.title                "आयात हो‌ रहा है...">
 <!ENTITY migrating.label                "वर्तमान में यह वस्तुएं आयात की जा रही हैं...‌">

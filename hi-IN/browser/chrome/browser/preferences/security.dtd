@@ -31,5 +31,5 @@
 <!ENTITY  changeMasterPassword.label     "मुख्य कूटशब्द बदलें…">
 <!ENTITY  changeMasterPassword.accesskey "M">
 
-<!ENTITY  savedLogins.label              "सहेजें गए लॉगइन देखें">
+<!ENTITY  savedLogins.label              "सहेजें गए लॉगइन देखें...">
 <!ENTITY  savedLogins.accesskey          "L">

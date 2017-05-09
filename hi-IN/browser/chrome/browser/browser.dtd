@@ -700,7 +700,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.accesskey "g">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 " VK_F3">
-<!ENTITY findSelectionCmd.commandkey "ई">
+<!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label " शब्दकोश जोड़ें…">
 <!ENTITY spellAddDictionaries.accesskey "A">
@@ -716,26 +716,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
+<!ENTITY identity.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं.">
 <!ENTITY identity.passiveLoaded "इस पेज का भाग सुरक्षित नहीं हैं(जैसा की छवि).">
 <!ENTITY identity.activeLoaded "आपने इस पेज पर सुरक्षा निष्क्रिय कर दिए हैं.">
-<!ENTITY identity.weakEncryption "यह पेज कमजोर गोपन का उपयोग करता हैं">
+<!ENTITY identity.weakEncryption "यह पेज कमजोर गोपन का उपयोग करता हैं.">
 <!-- Strings for connection state warnings in the subview. -->
 
-<!ENTITY identity.description.insecure "इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता (जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.)">
-<!ENTITY identity.description.insecureLoginForms "आपके द्वारा इस पृष्ट में दी गयी जानकारी सुरक्षित नहीं है तथा उसका गलत इस्तेमाल किया जा सकता है ">
-<!ENTITY identity.description.weakCipher "इस वेबसाइट से आपका कनेक्शन कमज़ोर गोपन का उपयोग करता है और निजी नहीं है।">
+<!ENTITY identity.description.insecure "इस साइट पे आपका कनेक्शन निजी नहीं हैं. सुचना जो आप जमा करते हैं दुसरो के द्वारा देखा जा सकता (जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
+<!ENTITY identity.description.insecureLoginForms "आपके द्वारा इस पृष्ट में दी गयी जानकारी सुरक्षित नहीं है तथा उसका गलत इस्तेमाल किया जा सकता है">
+<!ENTITY identity.description.weakCipher "इस वेबसाइट से आपका कनेक्शन कमज़ोर गोपन का उपयोग करता है और निजी नहीं है.">
 <!ENTITY identity.description.weakCipher2 "अन्य लोग आपकी जानकारी को देख सकते हैं या वेबसाइट के व्यवहार को बदल सकते हैं.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं।">
-<!ENTITY identity.description.passiveLoaded "आपका कनेक्शन निजी नही हैं और सुचना जो आप इस साइट के साथ साझा करते है दुसरो के द्वारा देखा जा सकता. ">
+<!ENTITY identity.description.activeBlocked "&brandShortName; इस पृष्ठ के कुछ हिस्सों को अवरुद्ध कर दिया है जो सुरक्षित नहीं हैं.">
+<!ENTITY identity.description.passiveLoaded "आपका कनेक्शन निजी नही हैं और सुचना जो आप इस साइट के साथ साझा करते है दुसरो के द्वारा देखा जा सकता.">
 <!ENTITY identity.description.passiveLoaded2 "यह वेबसाइट वह सामग्री शामिल करता है जो सुरक्षित नहीं हैं(जैसा की छवि).">
-<!ENTITY identity.description.passiveLoaded3 "हालांकि &brandShortName; ने कुछ सामग्री को रोक दिया है, इस पृष्ठ पर कुछ ऐसी सामग्री है जो असुरक्षित है (जैसे कि छवियाँ)।">
+<!ENTITY identity.description.passiveLoaded3 "हालांकि &brandShortName; ने कुछ सामग्री को रोक दिया है, इस पृष्ठ पर कुछ ऐसी सामग्री है जो असुरक्षित है (जैसे कि छवियाँ).">
 <!ENTITY identity.description.activeLoaded "यह वेबसाइट उस सामग्री को सम्मिलित करता है जो सुरक्षित नही हैं(जैसा की स्क्रिप्ट) और कनेक्शन भी निजी नही हैं.">
 <!ENTITY identity.description.activeLoaded2 "सुचना जो आप इस साइट के साथ साझा करते हैं दुसरो के द्वारा देखा जा सकता (जैसे पासवर्ड,संदेश, क्रेडिट कार्ड, इत्यादि.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "सुरक्षा सक्रिय करें">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "स">
-<!ENTITY identity.disableMixedContentBlocking.label "अब सुरक्षा निष्क्रिय करें.">
+<!ENTITY identity.disableMixedContentBlocking.label "अब सुरक्षा निष्क्रिय करें">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "अधिक सीखे">
 
@@ -795,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        " अब तुल्यकालित करें">
 <!ENTITY syncSyncNowItem.accesskey    "S">
-<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; फिर से कनेक्ट करें... ">
+<!ENTITY syncReAuthItem.label         "&syncBrand.shortName.label; फिर से कनेक्ट करें...">
 <!ENTITY syncReAuthItem.accesskey     "R">
 <!ENTITY syncToolbarButton.label      "सिंक">
 
@@ -804,19 +804,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "सक्रियकरण निर्देशिका">
 <!ENTITY social.directory.text "आप निर्देशिका से साझा सेवाओं को सक्रिय कर सकते हैं.">
 <!ENTITY social.directory.button "मुझे वहाँ ले चालों!">
-<!ENTITY social.directory.introText "&brandShortName; को जोड़ने के लिए सेवा पर ​​क्लिक करें">
+<!ENTITY social.directory.introText "&brandShortName; को जोड़ने के लिए सेवा पर ​​क्लिक करें.">
 <!ENTITY social.directory.viewmore.text "अधिक देखें">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "अतिरिक्त औज़ार एवं विशेषताएँ">
 <!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारों add-ons में से चुनें">
-<!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें ">
-<!ENTITY customizeMode.toolbars "दिखाएँ / छिपाएँ औज़ारपट्टी ">
-<!ENTITY customizeMode.titlebar "शीर्षक पट्टी ">
+<!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
+<!ENTITY customizeMode.toolbars "दिखाएँ / छिपाएँ औज़ारपट्टी">
+<!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
 <!ENTITY customizeMode.lwthemes "प्रसंग">
-<!ENTITY customizeMode.lwthemes.myThemes "मेरा प्रसंग ">
+<!ENTITY customizeMode.lwthemes.myThemes "मेरा प्रसंग">
 <!ENTITY customizeMode.lwthemes.recommended "अनुशंसित">
-<!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित ">
+<!ENTITY customizeMode.lwthemes.menuManage "प्रबंधित">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "नए प्रसंग प्राप्त करें">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
@@ -825,8 +825,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label " साझा करने के लिए माइक्रोफोन:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-<!ENTITY getUserMedia.audioCapture.label "टैब से ऑडियो साझा किया जायेगा">
-<!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे">
+<!ENTITY getUserMedia.audioCapture.label "टैब से ऑडियो साझा किया जायेगा.">
+<!ENTITY getUserMedia.allWindowsShared.message "आपके स्क्रीन पर सभी दृश्य विंडो साझा किए जाएँगे.">
 
 <!ENTITY trackingProtection.title "ट्रैकिंग सुरक्षा">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; पृष्ठ के उन हिस्सों को बाधित कर रहा है जो आपके ऑनलाइन गतिविधियों को ट्रैक कर सकते हैं.">
@@ -845,15 +845,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "सुरक्षा सक्रिय करें">
 <!ENTITY trackingProtection.block2.accesskey "स">
 
-<!ENTITY trackingContentBlocked.message "ट्रैकिंग ">
-<!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है">
+<!ENTITY trackingContentBlocked.message "ट्रैकिंग">
+<!ENTITY trackingContentBlocked.moreinfo "पृष्ठ का हिस्सा जो आपकी ऑनलाइन गतिविधि को ट्रैक करता है को ब्लॉक किया गया है.">
 <!ENTITY trackingContentBlocked.learnMore "और जानें">
 <!ENTITY trackingContentBlocked.options "विकल्प">
 <!ENTITY trackingContentBlocked.unblock2.label "इस साइट पर सुरक्षा निष्क्रिय करें">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "D">
 <!ENTITY trackingContentBlocked.block.label "सुरक्षा सक्रिय करें">
 <!ENTITY trackingContentBlocked.block.accesskey "स">
-<!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय किया हुआ है ">
+<!ENTITY trackingContentBlocked.disabled.message "सुरक्षा ट्रैकिंग सक्रिय किया हुआ है">
 
 <!ENTITY pluginNotification.showAll.label " सभी दिखाएँ">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -889,15 +889,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.mainActionDesc          "इससे बढ़ेगा:">
 <!ENTITY panicButton.view.deleteCookies           "हालिया <html:strong>कुकीज़</html:strong> मिटाएँ">
 <!ENTITY panicButton.view.deleteHistory           "हालिया <html:strong>इतिहास</html:strong> मिटाएँ">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "सभी <html:strong>टैब</html:strong> और <html:strong>विंडोज़</html:strong> बंद करें.">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "सभी <html:strong>टैब</html:strong> और <html:strong>विंडोज़</html:strong> बंद करें">
 <!ENTITY panicButton.view.openNewWindow           "नया साफ़ विंडो खोलें">
 
-<!ENTITY panicButton.view.undoWarning             "इस क्रिया को पहले जैसा नहीं किया जा सकता है">
+<!ENTITY panicButton.view.undoWarning             "इस क्रिया को पहले जैसा नहीं किया जा सकता है.">
 <!ENTITY panicButton.view.forgetButton            "भूलें!">
 
 <!ENTITY panicButton.thankyou.msg1                "आपका हालिया इतिहास साफ किया गया.">
 <!ENTITY panicButton.thankyou.msg2                "सुरक्षित ब्राउजिंग!">
-<!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद">
+<!ENTITY panicButton.thankyou.buttonlabel         "धन्यवाद!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM के बारे में और जानें...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
