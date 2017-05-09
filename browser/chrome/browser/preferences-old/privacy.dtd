@@ -107,7 +107,7 @@
 
 <!ENTITY  browserContainersHeader.label         "Вкладки контейнера">
 <!ENTITY  browserContainersLearnMore.label      "Докладніше">
-<!ENTITY  browserContainersEnabled.label        "Увімкнути вкладки контейнера">
+<!ENTITY  browserContainersEnabled.label        "Увімкнути контейнери вкладок">
 <!ENTITY  browserContainersEnabled.accesskey    "к">
 <!ENTITY  browserContainersSettings.label        "Налаштування…">
 <!ENTITY  browserContainersSettings.accesskey    "л">
