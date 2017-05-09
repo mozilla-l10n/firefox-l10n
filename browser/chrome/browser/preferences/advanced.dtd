@@ -92,6 +92,7 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Fersiwn ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Caniatau i &brandShortName;">
 <!ENTITY updateAuto2.label               "Gosod diweddariadau yn awtomatig (argymell ar gyfer gwella diogelwch)">
@@ -136,11 +137,12 @@
 <!ENTITY viewSecurityDevices.label       "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Perfformiad">
+<!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
+<!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau perfformiad wedi eu pennu ar gyfer eich cyfrifiadur.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY limitContentProcess.label       "Terfyn proses cynnwys">
+<!ENTITY limitContentProcess.description "Mae rhagor o brosesau cynnwys yn gallu gwneud &brandShortName; yn fwy ymatebol pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
+<!ENTITY limitContentProcess.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">

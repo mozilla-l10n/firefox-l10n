@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Rhaglenni">
-<!ENTITY  applications.description "Dewis sut mae &brandShortName; yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r We neu'r rhaglenni rydych yn eu defnyddio wrth bori..">
+<!ENTITY  applications.description "Dewis sut mae &brandShortName; yn trin y ffeiliau rydych wedi eu llwytho i lawr o'r We neu'r rhaglenni rydych yn eu defnyddio wrth bori.">
 
 <!ENTITY  typeColumn.label        "Math o Gynnwys">
 <!ENTITY  typeColumn.accesskey    "M">

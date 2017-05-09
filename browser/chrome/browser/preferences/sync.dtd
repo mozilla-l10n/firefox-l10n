@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Enw Dyfais">
-
-
+<!ENTITY changeSyncDeviceName2.label "Newid Enw'r Ddyfais…">
+<!ENTITY changeSyncDeviceName2.accesskey "N">
 <!ENTITY cancelChangeSyncDeviceName.label "Diddymu">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "D">
 <!ENTITY saveChangeSyncDeviceName.label "Cadw">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Newid llun proffil">
 <!ENTITY verifiedManage.label        "Rheoli Cyfrif">
 <!ENTITY verifiedManage.accesskey    "R">
-
-
+<!ENTITY disconnect3.label           "Datgysylltu…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Dilysu E-bost">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Anghofiwch yr E-bost hwn">
