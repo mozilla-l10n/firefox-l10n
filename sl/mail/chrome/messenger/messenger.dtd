@@ -377,7 +377,7 @@
 <!ENTITY copyMsgToMenu.label "Kopiraj v">
 <!ENTITY copyMsgToMenu.accesskey "K">
 <!ENTITY moveToFolderAgain.label "Premakni znova">
-<!ENTITY moveToFolderAgain.accesskey "m">
+<!ENTITY moveToFolderAgain.accesskey "i">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
 <!ENTITY killThreadMenu.accesskey "i">
@@ -431,7 +431,7 @@
 <!ENTITY openMessageWindowCmd.accesskey "O">
 <!ENTITY openMessageWindowCmd.key "o">
 <!ENTITY openConversationCmd.label "Odpri kot pogovor">
-<!ENTITY openConversationCmd.accesskey "v">
+<!ENTITY openConversationCmd.accesskey "g">
 <!ENTITY openConversationCmd.key "o">
 <!ENTITY openAttachmentListCmd.label "Priponke">
 <!ENTITY openAttachmentListCmd.accesskey "r">
@@ -776,8 +776,8 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Prezri nit">
-<!ENTITY contextKillSubthreadMenu.accesskey "t">
-<!ENTITY contextKillThreadMenu.accesskey "i">
+<!ENTITY contextKillSubthreadMenu.accesskey "d">
+<!ENTITY contextKillThreadMenu.accesskey "t">
 <!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
 <!ENTITY contextWatchThreadMenu.label "Spremljaj nit">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
