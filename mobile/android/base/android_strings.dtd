@@ -388,7 +388,7 @@
 <!ENTITY pref_import_android_summary "Увезите забелешке и историју са нативног прегледача">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
-<!ENTITY pref_private_data_openTabs "Отвори језичке">
+<!ENTITY pref_private_data_openTabs "Отворени језичци">
 <!ENTITY pref_private_data_history2 "Историја прегледа">
 <!ENTITY pref_private_data_searchHistory "Историја претраге">
 <!ENTITY pref_private_data_formdata2 "Историја форми">
