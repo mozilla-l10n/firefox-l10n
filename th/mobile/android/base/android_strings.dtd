@@ -795,7 +795,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: การสนับสนุน">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
-<!ENTITY bookmarks_restricted_support2 "ความช่วยเหลือและการสนับสนุนของ Firefox สำหรับโพรไฟล์ที่ถูกจำกัดบนแท็บเล็ต Android">
+<!ENTITY bookmarks_restricted_support2 "ความช่วยเหลือและการสนับสนุนของ Firefox สำหรับโปรไฟล์ที่ถูกจำกัดบนแท็บเล็ต Android">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_webmaker):link title for https://webmaker.org -->
 <!ENTITY bookmarks_restricted_webmaker "เรียนรู้เว็บ: Mozilla Webmaker">
 

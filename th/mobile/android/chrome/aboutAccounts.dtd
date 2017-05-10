@@ -10,4 +10,4 @@
 <!ENTITY aboutAccounts.retry.label "ลองอีกครั้ง">
 
 <!ENTITY aboutAccounts.restrictedError.title "ถูกจำกัด">
-<!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถจัดการบัญชี Firefox จากโพรไฟล์นี้">
+<!ENTITY aboutAccounts.restrictedError.description "คุณไม่สามารถจัดการบัญชี Firefox จากโปรไฟล์นี้">
