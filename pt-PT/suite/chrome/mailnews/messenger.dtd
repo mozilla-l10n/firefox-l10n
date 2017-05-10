@@ -497,8 +497,8 @@
 <!ENTITY folderContextOpenNewWindow.accesskey "j">
 <!ENTITY folderContextOpenNewTab.label "Abrir num novo separador">
 <!ENTITY folderContextOpenNewTab.accesskey "s">
-<!ENTITY folderContextRename.label "Mudar nome">
-<!ENTITY folderContextRename.accesskey "r">
+<!ENTITY folderContextRename.label "Renomear">
+<!ENTITY folderContextRename.accesskey "R">
 <!ENTITY folderContextRemove.label "Apagar">
 <!ENTITY folderContextRemove.accesskey "A">
 <!ENTITY folderContextCompact.label "Compactar esta pasta">

@@ -26,8 +26,8 @@
 
 <!ENTITY            newButton.label          "Criar um perfil…">
 <!ENTITY            newButton.accesskey      "C">
-<!ENTITY            renameButton.label       "Gerir perfis…">
-<!ENTITY            renameButton.accesskey   "G">
+<!ENTITY            renameButton.label       "Renomear perfil…">
+<!ENTITY            renameButton.accesskey   "R">
 <!ENTITY            deleteButton.label       "Apagar perfil...">
 <!ENTITY            deleteButton.accesskey   "A">
 

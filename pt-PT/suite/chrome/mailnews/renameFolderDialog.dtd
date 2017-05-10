@@ -5,5 +5,5 @@
 <!ENTITY renameFolderDialog.title          "Renomear pasta">
 <!ENTITY rename.label                      "Introduza o novo nome da pasta:">
 <!ENTITY rename.accesskey                  "I">
-<!ENTITY accept.label                      "Mudar nome">
-<!ENTITY accept.accesskey                  "r">
+<!ENTITY accept.label                      "Renomear">
+<!ENTITY accept.accesskey                  "R">
