@@ -24,6 +24,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; Timahilin">
 <!ENTITY aboutSupport.featureName "Isem">
 <!ENTITY aboutSupport.featureVersion "Lqem">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Timahihilin tirmitanin">
 <!ENTITY aboutSupport.experimentName "Isem">

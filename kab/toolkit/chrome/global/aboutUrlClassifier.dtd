@@ -3,12 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Talγut γef url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Imefki">
 <!ENTITY aboutUrlClassifier.provider                    "Imfeki">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Akud n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Akud n uleqqem i d-iteddun">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Addad n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Nadi">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Imsaḍa">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Senqed igemmaḍ imeγṛa">
