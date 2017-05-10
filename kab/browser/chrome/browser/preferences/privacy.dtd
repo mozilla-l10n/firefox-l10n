@@ -40,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "Anadi icudden ɣer umsedday n unadi">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Snifel ismenyifen i yisumar n umsedday n unadi">
 
 <!ENTITY  acceptCookies.label           "Qbel inagan n tuqqna n yismal-agi">
 <!ENTITY  acceptCookies.accesskey       "Q">
@@ -63,6 +64,7 @@
 <!ENTITY  showCookies.accesskey         "S">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; ad">
+<!ENTITY  historyHeader2.pre.accesskey     "l">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
 <!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-agi">

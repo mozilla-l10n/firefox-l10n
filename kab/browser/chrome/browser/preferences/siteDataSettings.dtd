@@ -7,6 +7,7 @@
 <!ENTITY     statusCol.label               "addad">
 <!ENTITY     usageCol.label                "Aklas">
 <!ENTITY     searchTextboxPlaceHolder             "Nadi ismal web">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "R">
 <!ENTITY     removeSelected.label          "Kkes tafrant">
 <!ENTITY     removeSelected.accesskey      "K">
 <!ENTITY     save.label                    "Sekles asnifel">

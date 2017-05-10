@@ -26,6 +26,7 @@
 
 
 <!ENTITY  rememberLogins1.label          "Cfu γef unekcum neγ awal uffir i yismal">
+<!ENTITY  rememberLogins1.accesskey      "Γ">
 <!ENTITY  passwordExceptions.label      "Tisuraf…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 
