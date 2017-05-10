@@ -216,6 +216,7 @@
 <!ENTITY pref_category_home_homepage "홈페이지">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "새로운 탭에도 사용하기">
 <!ENTITY home_homepage_title "홈페이지 지정하기">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
