@@ -925,6 +925,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "П">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
-<!ENTITY updateRestart.panelUI.label "Перезапустіть &brandShorterName;, щоб застосувати оновлення">
+<!ENTITY updateRestart.panelUI.label "Перезапустіть &brandShorterName; для оновлення">
 
 <!ENTITY pageActionButton.tooltip "Дії сторінки">
