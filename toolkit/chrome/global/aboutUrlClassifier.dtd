@@ -11,6 +11,7 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "마지막 업데이트 상태">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "업데이트">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "일치 결과 확인">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "캐시">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "메모리">
 <!ENTITY aboutUrlClassifier.databaseTitle               "데이터베이스">

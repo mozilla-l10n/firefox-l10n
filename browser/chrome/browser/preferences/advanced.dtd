@@ -81,7 +81,17 @@
 
 <!ENTITY updateTab.label                 "업데이트">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName; 업데이트">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 <!ENTITY updateAuto2.label               "업데이트 자동 설치(보안을 위해 권장됨)">
 <!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "새로운 업데이트를 확인하지만 설치는 수동으로 진행">
@@ -124,6 +134,11 @@
 <!ENTITY viewSecurityDevices.label       "보안 장치">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
+<!ENTITY performance.label               "성능">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "권장 설정을 사용">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "권장 설정은 사용자의 컴퓨터에 맞게 구성됩니다.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY limitContentProcess.label       "컨텐트 프로세스 제한">
