@@ -11,6 +11,9 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Imsaḍa">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Senqed igemmaḍ imeγṛa">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Nadi">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Senqed igemmaḍ in unadi">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tuffirt">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Takatut">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Tafa n isefka">

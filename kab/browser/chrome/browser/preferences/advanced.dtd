@@ -108,6 +108,7 @@
 <!ENTITY useService.label                "Seqdec ameẓlu n ugilal i usebded n ileqman">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "Lqem awurman n umsedday n unadi">
 <!ENTITY enableSearchUpdate2.accesskey   "Ẓ">
 
 <!ENTITY reports.label                   "Ineqqisen">
