@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; items">
 <!ENTITY bookmark_folder_one_item "1 item">
 <!ENTITY bookmark_parent_folder "Bovenliggende map">
+<!ENTITY bookmark_add_folder "Nieuwe map toevoegen">
 
 <!ENTITY reader_saved_offline "Offline opgeslagen">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Naam">
 <!ENTITY bookmark_edit_location "Locatie">
 <!ENTITY bookmark_edit_keyword "Sleutelwoord">
+<!ENTITY bookmark_select_folder "Map selecteren">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
