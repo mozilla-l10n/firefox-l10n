@@ -42,7 +42,7 @@
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
-<!ENTITY  bookmarks_title "Mobil">
+<!ENTITY  bookmarks_title "Bogmærker">
 <!ENTITY  history_title "Historik">
 
 <!ENTITY  switch_to_tab "Skift til faneblad">
@@ -218,7 +218,7 @@
 <!ENTITY pref_category_home_homepage "Startside">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Brug også på nye faner">
+<!ENTITY home_homepage_every_new_tab "Brug også på nye faneblade">
 <!ENTITY home_homepage_title "Angiv en startside">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
