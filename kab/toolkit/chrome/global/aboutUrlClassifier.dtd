@@ -22,4 +22,6 @@
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Rmed aγmis JS">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Izegrar n uγmis i iminig aγelsan">
+<!ENTITY aboutUrlClassifier.debugModules                "Izegrar iɣmisen imiranen">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Aγmis n tunigin taɣelsant">
 <!ENTITY aboutUrlClassifier.debugFile                   "Afaylu aɣmis amiran">
