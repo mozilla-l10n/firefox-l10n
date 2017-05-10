@@ -9,11 +9,11 @@
 <!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของวลี">
 <!ENTITY findCloseButton.tooltip "ปิดแถบค้นหา">
 <!ENTITY highlightAll.label "แต้มสีทั้งหมด">
-<!ENTITY highlightAll.accesskey "ท">
+<!ENTITY highlightAll.accesskey "ต">
 <!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของวลีทั้งหมด">
 <!ENTITY caseSensitive.label "ตัวพิมพ์ใหญ่เล็กตรงกัน">
-<!ENTITY caseSensitive.accesskey "ท">
-<!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงขนาดตัวอักษร">
+<!ENTITY caseSensitive.accesskey "ว">
+<!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงตัวพิมพ์ใหญ่เล็ก">
 <!ENTITY entireWord.label "ตรงกันทุกคำ">
-<!ENTITY entireWord.accesskey "ต">
+<!ENTITY entireWord.accesskey "ท">
 <!ENTITY entireWord.tooltiptext "ค้นหาแบบตรงกันทุกคำเท่านั้น">
