@@ -1,0 +1,29 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Information om url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Leverandør">
+<!ENTITY aboutUrlClassifier.provider                    "Leverandør">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Seneste opdateringstidspunkt">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næste opdateringstidspunkt">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seneste opdateringsstatus">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Opdatering">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Opslag">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Match">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller matchende resultat">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Opslag">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller resultat af opslag">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Hukommelse">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Angiv logmoduler">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Angiv logfil">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Angiv JS-log">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Safe Browsing-logmoduler">
+<!ENTITY aboutUrlClassifier.debugModules                "Nuværende logmoduler">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Safe Browsing-JS-log">
+<!ENTITY aboutUrlClassifier.debugFile                   "Nuværende logfil">
