@@ -74,6 +74,7 @@
 <!ENTITY bookmark_folder_items "Zakładki: &formatD;">
 <!ENTITY bookmark_folder_one_item "Zakładki: 1">
 <!ENTITY bookmark_parent_folder "Folder nadrzędny">
+<!ENTITY bookmark_add_folder "Dodaj nowy folder">
 
 <!ENTITY reader_saved_offline "Zachowano do korzystania offline">
 <!ENTITY reader_switch_to_bookmarks "Przejdź">
