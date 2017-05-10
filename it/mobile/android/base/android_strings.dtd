@@ -62,6 +62,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elementi">
 <!ENTITY bookmark_folder_one_item "1 elemento">
 <!ENTITY bookmark_parent_folder "Cartella superiore">
+<!ENTITY bookmark_add_folder "Nuova cartella">
 <!ENTITY reader_saved_offline "Salvato">
 <!ENTITY reader_switch_to_bookmarks "Visualizza">
 <!ENTITY history_today_section "Oggi">
