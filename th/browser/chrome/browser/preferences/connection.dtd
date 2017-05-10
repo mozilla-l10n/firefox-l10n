@@ -42,7 +42,7 @@
 <!ENTITY  noproxy.label                 "ไม่มีพร็อกซีสำหรับ:">
 <!ENTITY  noproxy.accesskey             "n">
 <!ENTITY  noproxyExplain.label          "ตัวอย่าง: .mozilla.org, .net.nz, 192.168.1.0/24">
-<!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโพรโทคอลทั้งหมด">
+<!ENTITY  shareproxy.label              "ใช้เซิร์ฟเวอร์พร็อกซีนี้สำหรับโปรโตคอลทั้งหมด">
 <!ENTITY  shareproxy.accesskey          "s">
 <!ENTITY  autologinproxy.label          "ไม่ต้องถามสำหรับการรับรองความถูกต้องหากรหัสผ่านถูกบันทึกไว้">
 <!ENTITY  autologinproxy.accesskey      "i">

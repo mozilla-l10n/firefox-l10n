@@ -143,7 +143,7 @@
 <!ENTITY detail.updateManual.label            "ปิด">
 <!ENTITY detail.updateManual.tooltip          "ไม่ติดตั้งการอัปเดตโดยอัตโนมัติ">
 <!ENTITY detail.home                          "หน้าแรก">
-<!ENTITY detail.repository                    "โพรไฟล์ส่วนเสริม">
+<!ENTITY detail.repository                    "โปรไฟล์ส่วนเสริม">
 <!ENTITY detail.size                          "ขนาด">
 
 <!ENTITY detail.checkForUpdates.label         "ตรวจสอบการอัปเดต">

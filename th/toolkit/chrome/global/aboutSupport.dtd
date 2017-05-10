@@ -42,11 +42,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsUpdateHistory "ประวัติการอัปเดต">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "แสดงประวัติการอัปเดต">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรีโพรไฟล์">
+<!ENTITY aboutSupport.appBasicsProfileDir "ไดเรกทอรีโปรไฟล์">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "โฟลเดอร์โพรไฟล์">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "โฟลเดอร์โปรไฟล์">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ปลั๊กอินที่เปิดใช้งาน">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Build Configuration">
@@ -58,9 +58,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
 <!ENTITY aboutSupport.appBasicsServiceWorkers "ตัวทำงานบริการที่ลงทะเบียน">
 
-<!ENTITY aboutSupport.appBasicsProfiles "โพรไฟล์">
+<!ENTITY aboutSupport.appBasicsProfiles "โปรไฟล์">
 
-<!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างแบบหลายโพรเซส">
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "หน้าต่างแบบหลายโปรเซส">
 
 
 <!ENTITY aboutSupport.appBasicsSafeMode "โหมดปลอดภัย">
@@ -80,7 +80,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "การตั้งค่า user.js">
-<!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โพรไฟล์ของคุณมี <a id='prefs-user-js-link'>ไฟล์ user.js</a> ซึ่งมีการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;.">
+<!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โปรไฟล์ของคุณมี <a id='prefs-user-js-link'>ไฟล์ user.js</a> ซึ่งมีการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;">
 
 <!ENTITY aboutSupport.lockedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกล็อค">
 <!ENTITY aboutSupport.lockedPrefsName "ชื่อ">

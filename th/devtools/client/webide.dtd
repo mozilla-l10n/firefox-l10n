@@ -170,7 +170,7 @@
 <!ENTITY simulator_name "ชื่อ">
 <!ENTITY simulator_software "ซอฟต์แวร์">
 <!ENTITY simulator_version "รุ่น">
-<!ENTITY simulator_profile "โพรไฟล์">
+<!ENTITY simulator_profile "โปรไฟล์">
 <!ENTITY simulator_hardware "ฮาร์ดแวร์">
 <!ENTITY simulator_device "อุปกรณ์">
 <!ENTITY simulator_screenSize "หน้าจอ">
