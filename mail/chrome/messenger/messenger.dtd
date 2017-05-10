@@ -376,7 +376,7 @@
 <!ENTITY copyMessageLocation.accesskey "K">
 <!ENTITY copyMsgToMenu.label "Kopiraj v">
 <!ENTITY copyMsgToMenu.accesskey "K">
-<!ENTITY moveToFolderAgain.label "Ponovno premakni">
+<!ENTITY moveToFolderAgain.label "Premakni znova">
 <!ENTITY moveToFolderAgain.accesskey "m">
 <!ENTITY moveToFolderAgainCmd.key "m">
 <!ENTITY killThreadMenu.label "Prezri nit">
@@ -784,7 +784,7 @@
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
   -->
-<!ENTITY contextWatchThreadMenu.accesskey "R">
+<!ENTITY contextWatchThreadMenu.accesskey "l">
 <!ENTITY contextSaveAs.label "Shrani kot …">
 <!ENTITY contextSaveAs.accesskey "S">
 <!ENTITY contextPrint.label "Natisni …">
