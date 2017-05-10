@@ -49,7 +49,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY notSignedIn.label           "คุณไม่ได้ลงชื่อเข้า">
 <!ENTITY signIn.label                "ลงชื่อเข้า">
 <!ENTITY signIn.accesskey            "g">
-<!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโพรไฟล์">
+<!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโปรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
 <!ENTITY verifiedManage.accesskey    "o">
 <!ENTITY disconnect3.label           "ตัดการเชื่อมต่อ…">

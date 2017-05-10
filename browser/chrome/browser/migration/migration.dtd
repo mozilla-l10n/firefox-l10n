@@ -37,8 +37,8 @@
 <!ENTITY migrating.title                "กำลังนำเข้า…">
 <!ENTITY migrating.label                "รายการดังต่อไปนี้กำลังถูกนำเข้า…">
 
-<!ENTITY selectProfile.title            "เลือกโพรไฟล์">
-<!ENTITY selectProfile.label            "โพรไฟล์ดังต่อไปนี้สามารถนำเข้าได้:">
+<!ENTITY selectProfile.title            "เลือกโปรไฟล์">
+<!ENTITY selectProfile.label            "โปรไฟล์ดังต่อไปนี้พร้อมที่จะนำเข้า:">
 
 <!ENTITY done.title                     "การนำเข้าเสร็จสมบูรณ์">
 <!ENTITY done.label                     "รายการดังต่อไปนี้ถูกนำเข้าได้สำเร็จ:">
