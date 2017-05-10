@@ -6,11 +6,11 @@
 
 <!ENTITY generalTab.label                "Загальні">
 
-<!ENTITY accessibility.label             "Функції доступності">
+<!ENTITY accessibility.label             "Розширені можливості">
 
 <!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для переміщення всередині сторінок">
 <!ENTITY useCursorNavigation.accesskey   "в">
-<!ENTITY searchOnStartTyping.label       "Шукати текст, коли ви починаєте вводити">
+<!ENTITY searchOnStartTyping.label       "Шукати текст під час його введення">
 <!ENTITY searchOnStartTyping.accesskey   "к">
 <!ENTITY blockAutoReload.label           "Попереджати при спробі сайтів перенаправити чи перезавантажити сторінку">
 <!ENTITY blockAutoReload.accesskey       "п">
