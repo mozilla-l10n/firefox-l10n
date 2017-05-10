@@ -9,11 +9,11 @@
 <!ENTITY firstrun_bookmarks_title "Jaar-jaar">
 <!ENTITY firstrun_bookmarks_message "Say tànneef, kanam ak digg">
 <!ENTITY firstrun_bookmarks_subtext "Jëlee ay njuréef ca say tànneef ak say jaar-jaar sooy seet lenn.">
-<!ENTITY firstrun_data_title "Njoxe">
-<!ENTITY firstrun_data_message "Njoxe yu néew, denciit yu gën a bari">
+<!ENTITY firstrun_data_title "Njoxéef">
+<!ENTITY firstrun_data_message "Njoxéef yu néew, dencéef yu gën a bari">
 <!ENTITY firstrun_data_subtext2 "Nëbbal nataal yi ngir jëfandikoo njoxe yu gën a néew ci dal boy nemmeeku.">
-<!ENTITY firstrun_sync_title "Lonk">
-<!ENTITY firstrun_sync_message "&brandShortName;, ci sa wet saa su ne">
+<!ENTITY firstrun_sync_title "Sync">
+<!ENTITY firstrun_sync_message "&brandShortName;, ci sa wet saa-su-ne">
 <!ENTITY firstrun_sync_subtext "Lonkale say làcc, baatujàll, ak yeneen fépp foo leen di jëfandikoo.">
 <!ENTITY firstrun_signin_message "Lonkul, tambalil">
 <!ENTITY firstrun_signin_button "Duggal ngir lonk">
@@ -51,7 +51,7 @@
 <!ENTITY  tab_offline_version "Woneg sumbub biti-lonkoo">
 
 <!ENTITY  crash_reporter_title "Xibaar ñeel taxawug &brandShortName;">
-<!ENTITY  crash_message2 "&brandShortName; da fa ami jafe-jafe ba taxaw. Say làcc di nañ leen limaate ci xëtu tàmbali wu &brandShortName; suy tàmbaliwaat.">
+<!ENTITY  crash_message2 "&brandShortName; da fa am i jafe-jafe ba taxaw. Say làcc di nañ leen limaate ci xëtu tàmbali wu &brandShortName; suy tàmbaliwaat.">
 <!ENTITY  crash_send_report_message3 "Waxal &vendorShortName; li ñeel gii taxaw ndax mu man koo saafara">
 <!ENTITY  crash_include_url2 "Boole ci màkkaanu xët wa ma nekkoon">
 <!ENTITY  crash_sorry "Di ko naqarlu">
@@ -176,10 +176,10 @@
 <!ENTITY pref_category_accessibility "Jotiin">
 <!ENTITY pref_category_accessibility_summary2 "Dayoo mbind, rëyal, duggalug kàddu">
 <!ENTITY pref_category_privacy_short "Sutura">
-<!ENTITY pref_category_privacy_summary4 "Topp, dugg, tànneefi njoxe">
+<!ENTITY pref_category_privacy_summary4 "Topp, dugg, tànneefi njoxéef">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
 <!ENTITY pref_category_vendor_summary2 "Ñeel &brandShortName;, FAQs, wax-sa-xalaat">
-<!ENTITY pref_category_datareporting "Tànneefi njoxe">
+<!ENTITY pref_category_datareporting "Tànneefi njoxéef">
 <!ENTITY pref_category_logins "Dugg">
 <!ENTITY pref_learn_more "Gën a xam">
 <!ENTITY pref_category_installed_search_engines "Seetukaay yiñ fi sàmp">
@@ -197,7 +197,7 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Delloo ay làcc, aarkaayu njoxe, jumtukaayi suqali">
+<!ENTITY pref_category_advanced_summary3 "Delloo ay làcc, aarkaayu njoxéef, jumtukaay i suqali">
 <!ENTITY pref_category_notifications "Yëgle">
 <!ENTITY pref_category_notifications_summary "Solo yu yees, xibaari dali web">
 <!ENTITY pref_content_notifications "Xibaari dali web">
@@ -253,7 +253,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Sakkanalukaayu njoxeef">
+<!ENTITY pref_category_data_saver "Sakkanalukaayu njoxéef">
 <!ENTITY pref_category_media "Xibaarukaay">
 <!ENTITY pref_category_developer_tools "Jumtukaayi suqalikat">
 
@@ -348,13 +348,13 @@
 <!ENTITY pref_char_encoding "">
 <!ENTITY pref_char_encoding_on "Wone njël li">
 <!ENTITY pref_char_encoding_off "Nëbb njël li">
-<!ENTITY pref_clear_private_data2 "Far say njoxeef">
+<!ENTITY pref_clear_private_data2 "Far say njoxéef">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Far leegi">
-<!ENTITY pref_clear_on_exit_title3 "Far say njoxeef sooy génn">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; di na faral boppam say njoxeef so bësee « Génn» ca sa njël lu njëlbéen">
-<!ENTITY pref_clear_on_exit_dialog_title "Tànnal yan njoxeef lees di far">
+<!ENTITY pref_clear_on_exit_title3 "Far say njoxéef sooy génn">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; di na faral boppam say njoxéef so bësee « Génn» ca sa njël lu njëlbéen">
+<!ENTITY pref_clear_on_exit_dialog_title "Tànnal yan njoxéef lees di far">
 <!ENTITY pref_plugins "Lawal">
 <!ENTITY pref_plugins_enabled "Doxalees">
 <!ENTITY pref_plugins_tap_to_play2 "Bësal ngir taal ko">
@@ -393,7 +393,7 @@
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; ñi dugg">
 <!ENTITY pref_private_data_passwords2 "Duggukaay yees fi denc">
 <!ENTITY pref_private_data_cache "Ndenc">
-<!ENTITY pref_private_data_offlineApps "Njoxeefi dali web yi ci biti-lonkoo">
+<!ENTITY pref_private_data_offlineApps "Njoxéef i dali web yi ci biti-lonkoo">
 <!ENTITY pref_private_data_siteSettings2 "Jekk-jekkali dal">
 <!ENTITY pref_private_data_downloadFiles2 "Yebbi">
 <!ENTITY pref_private_data_syncedTabs "Làcc yi lonkoo">
@@ -416,7 +416,7 @@
 <!ENTITY pref_panels_move_up "Yéegal">
 <!ENTITY pref_panels_move_down "Wàcce">
 
-<!ENTITY datareporting_notification_title "Njoxeefi &brandShortName;">
+<!ENTITY datareporting_notification_title "Njoxéef i &brandShortName;">
 <!ENTITY datareporting_notification_action "Tànn li ngay séddoo">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Tànn xibaar yi nga séddoo">
@@ -476,7 +476,7 @@
 <!ENTITY tabs_normal "Làcc">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY set_image_fail "Maneesul a tànn bile nataal">
-<!ENTITY set_image_path_fail " Maneesul a denc bile nataal">
+<!ENTITY set_image_path_fail "Maneesul a denc péeñ bi">
 <!ENTITY set_image_chooser_title "Jàppee naatal bi niki">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
@@ -564,7 +564,7 @@
 <!ENTITY button_cancel "Neenal">
 <!ENTITY button_yes "Waaw">
 <!ENTITY button_no "Déedéet">
-<!ENTITY button_clear_data "Far njoxeef">
+<!ENTITY button_clear_data "Far njoxéef">
 <!ENTITY button_set "Dëggal">
 <!ENTITY button_clear "Far">
 <!ENTITY button_copy "Duppi">

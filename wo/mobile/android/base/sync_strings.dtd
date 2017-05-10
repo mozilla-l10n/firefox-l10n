@@ -63,7 +63,7 @@
 <!ENTITY fxaccount_status_needs_verification2 'Faww settantalees sa sàq. Bësal ngir yóonneewaat emailu settantal gi.'>
 <!ENTITY fxaccount_status_needs_credentials 'Maneesul am lonkoo. Bësal ngir dugg.'>
 <!ENTITY fxaccount_status_needs_upgrade 'Faww nga yeesal &brandShortName; ngir dugg.'>
-<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; jekk na, waaye manul lonk boppam. Demal nga doxal “Lonk boppam” ci Jekk-jekkali Android &gt; Njëfandikoog Njoxeef yi.'>
+<!ENTITY fxaccount_status_needs_master_sync_automatically_enabled '&syncBrand.shortName.label; jekk na, waaye manul lonk boppam. Demal nga doxal “Lonk boppam” ci Jekk-jekkali Android &gt; Njëfandikoog Njoxéef yi.'>
 <!ENTITY fxaccount_status_needs_master_sync_automatically_enabled_v21 '&syncBrand.shortName.label; jekk na, waaye manul lonk boppam. Doxalal “Lonk boppam” ci njëlu Jekk-jekkali Android &gt; Sàq.'>
 <!ENTITY fxaccount_status_needs_finish_migrating 'Bësal ngir dugg ci sa Sàqu Firefox bu bees bi.'>
 <!ENTITY fxaccount_status_bookmarks 'Màndarga-xët'>
@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account 'Génn&ellipsis;'>
 
 <!ENTITY fxaccount_remove_account_dialog_title2 'Génn Sync?'>
-<!ENTITY fxaccount_remove_account_dialog_message2 'Njoxeefi say njoow di nañ wéy di des ci bii jumtukaay, waaye dootuñ lonkook sa sàq.'>
+<!ENTITY fxaccount_remove_account_dialog_message2 'Njoxéef i say njoow di nañ wéy di des ci bii jumtukaay, waaye dootuñ lonkook sa sàq.'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Sàqu Firefox gu &formatS; duggul.'>
