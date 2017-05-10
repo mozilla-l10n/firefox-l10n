@@ -815,7 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
-<!ENTITY customizeMode.lwthemes.recommended "Recomendado">
+<!ENTITY customizeMode.lwthemes.recommended "Recomendados">
 <!ENTITY customizeMode.lwthemes.menuManage "Gerir">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
