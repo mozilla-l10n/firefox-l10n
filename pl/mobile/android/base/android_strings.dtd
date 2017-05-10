@@ -400,6 +400,7 @@
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
 <!ENTITY bookmark_edit_keyword "Słowa kluczowe">
+<!ENTITY bookmark_select_folder "Wybierz folder">
 
 <!ENTITY site_settings_title3 "Ustawienia witryny">
 <!ENTITY site_settings_cancel "Anuluj">
