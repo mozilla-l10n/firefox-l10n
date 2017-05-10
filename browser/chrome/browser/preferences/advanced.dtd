@@ -59,7 +59,7 @@
 <!ENTITY siteData.label                  "Сайт деректері">
 <!ENTITY clearSiteData.label             "Барлық деректерді тазарту">
 <!ENTITY clearSiteData.accesskey         "з">
-<!ENTITY siteDataSettings.label          "Баптаулаур…">
+<!ENTITY siteDataSettings.label          "Баптаулар…">
 <!ENTITY siteDataSettings.accesskey      "п">
 <!ENTITY siteDataLearnMoreLink.label     "Көбірек білу">
 <!-- LOCALIZATION NOTE:
