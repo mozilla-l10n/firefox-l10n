@@ -741,7 +741,7 @@
      at the same time, but should someone enable copy/paste of message, this key
      would probably need to be changed. -->
 <!ENTITY contextOpenNewTab.label "Odpri sporočilo v novem zavihku">
-<!ENTITY contextOpenNewTab.accesskey "z">
+<!ENTITY contextOpenNewTab.accesskey "v">
 <!ENTITY contextOpenConversation.label "Odpri sporočilo kot pogovor">
 <!ENTITY contextOpenConversation.accesskey "v">
 <!ENTITY contextOpenContainingFolder.label "Odpri sporočilo v vsebujoči mapi">
@@ -762,7 +762,7 @@
 <!ENTITY contextForward.label "Posreduj">
 <!ENTITY contextForward.accesskey "P">
 <!ENTITY contextForwardAsMenu.label "Posreduj kot">
-<!ENTITY contextForwardAsMenu.accesskey "t">
+<!ENTITY contextForwardAsMenu.accesskey "o">
 <!ENTITY contextForwardAsInline.label "V besedilu">
 <!ENTITY contextForwardAsInline.accesskey "V">
 <!ENTITY contextForwardAsAttachmentItem.label "Priponko">
@@ -776,7 +776,7 @@
 <!ENTITY contextCopyMsgMenu.label "Kopiraj v">
 <!ENTITY contextCopyMsgMenu.accesskey "K">
 <!ENTITY contextKillThreadMenu.label "Prezri nit">
-<!ENTITY contextKillSubthreadMenu.accesskey "K">
+<!ENTITY contextKillSubthreadMenu.accesskey "t">
 <!ENTITY contextKillThreadMenu.accesskey "i">
 <!ENTITY contextKillSubthreadMenu.label "Prezri podnit">
 <!ENTITY contextWatchThreadMenu.label "Spremljaj nit">
