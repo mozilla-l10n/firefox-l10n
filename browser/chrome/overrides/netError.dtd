@@ -16,7 +16,7 @@
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
 <!ENTITY deniedPortAccess.title "Ez a cím tiltva van">
-<!ENTITY deniedPortAccess.longDesc "‌">
+<!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "A kiszolgáló nem található">
 <!ENTITY dnsNotFound.longDesc "<ul> <li>Ellenőrizze a címet, nem gépelte-e el. Például nem írt-e <strong>ww</strong>.example.com-ot a <strong>www</strong>.example.com helyett.</li> <li>Ha semmilyen oldalt nem tud letölteni, ellenőrizze a számítógépe hálózati kapcsolatát.</li> <li>Ha a számítógépet vagy a hálózatot tűzfal vagy proxy védi, ellenőrizze, hogy a &brandShortName; számára engedélyezett-e a webhozzáférés.</li> </ul>">

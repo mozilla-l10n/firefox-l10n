@@ -65,7 +65,7 @@
 <!ENTITY  historyHeader.remember.label     "Megjegyzi az előzményeket">
 <!ENTITY  historyHeader.dontremember.label "Nem jegyzi meg az előzményeket">
 <!ENTITY  historyHeader.custom.label       "Egyéni beállításokat használ az előzményekhez">
-<!ENTITY  historyHeader.post.label         "‌">
+<!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "A &brandShortName; megjegyzi a böngészés, a letöltések, az űrlapok és a keresőmezők előzményeit.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->

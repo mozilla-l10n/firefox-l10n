@@ -83,7 +83,7 @@
      try to make the localized text short (see bug 596813 for screenshots). -->
 
 <!ENTITY update.manual.start        "Frissítés elérhető: ">
-<!ENTITY update.manual.end          "‌">
+<!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
@@ -93,7 +93,7 @@
 
 <!ENTITY update.unsupported.start    "Nem végezhet további frissítéseket ezen a rendszeren.">
 <!ENTITY update.unsupported.linkText "További tudnivalók">
-<!ENTITY update.unsupported.end      "‌">
+<!ENTITY update.unsupported.end      "">
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
@@ -101,7 +101,7 @@
      example: Downloading update — 111 KB of 13 MB -->
 
 <!ENTITY update.downloading.start   "Frissítés letöltése — ">
-<!ENTITY update.downloading.end     "‌">
+<!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "Frissítés alkalmazása…">
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
