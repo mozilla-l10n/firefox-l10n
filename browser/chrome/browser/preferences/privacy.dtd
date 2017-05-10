@@ -56,7 +56,7 @@
 <!ENTITY  keepUntil.label               "Tutma sınırı:">
 <!ENTITY  keepUntil.accesskey           "T">
 
-<!ENTITY  expire.label                  "süresi dolana dek">
+<!ENTITY  expire.label                  "Süresi dolana dek">
 <!ENTITY  close.label                   "&brandShortName; kapatılana dek">
 
 <!ENTITY  cookieExceptions.label        "İstisnalar…">
