@@ -185,6 +185,10 @@
 <!ENTITY addon.details.label                  "상세보기">
 <!ENTITY addon.details.tooltip                "부가 기능에 대한 상세 정보 표시">
 <!ENTITY addon.unknownDate                    "알수 없음">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "LEGACY">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

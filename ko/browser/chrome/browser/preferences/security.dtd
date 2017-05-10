@@ -25,6 +25,7 @@
 
 
 
+<!ENTITY  rememberLogins1.label          "사이트에 대한 로그인과 비밀번호 기억하기">
 <!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "예외 목록…">
 <!ENTITY  passwordExceptions.accesskey  "x">

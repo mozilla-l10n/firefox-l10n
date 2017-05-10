@@ -68,6 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "동기화 설정">
+<!ENTITY signedIn.settings.description "&brandShortName;를 사용 중인 기기에서 동기화할 내용을 선택하세요.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
