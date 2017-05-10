@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Doimo koʻrsatkich tugmalaridan sahifani kuzatish uchun foydalanish ">
 <!ENTITY useCursorNavigation.accesskey   "k">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Yozishni boshlaganimda, matn izlansin">
+<!ENTITY searchOnStartTyping.accesskey   "n">
+<!ENTITY blockAutoReload.label           "Agar veb saytlar sahifani boshqa sahifaga yo‘naltirsa yoki qayta yuklansa, menga ogohlantirish ko‘rsatilsin">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Kerak bo‘lganda terish uchun klaviaturani ko‘rsatish">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -23,8 +23,8 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Bir tekisda siljitishdan foydalanish">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-
-
+<!ENTITY checkUserSpelling.label         "Yozganimda imlo tekshirilsin">
+<!ENTITY checkUserSpelling.accesskey     "Y">
 
 <!ENTITY dataChoicesTab.label            "Tanlangan ma`lumot">
 
@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Koʻproq oʻrganing">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun brauzeringiz haqidagi ishlashi, foydalanish, qurilma va moslash ma`lumotlarini boʻlishadi">
-
-
+<!ENTITY enableTelemetryData.label       "Qo‘shimcha ma’lumotlarni bo‘lishish (masalan, Telemetriya)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Koʻproq oʻrganing">
 
 
