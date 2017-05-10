@@ -37,7 +37,7 @@
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Забелешке">
 <!ENTITY  locbar.bookmarks.accesskey    "З">
-<!ENTITY  locbar.openpage.label         "Отвори језичке">
+<!ENTITY  locbar.openpage.label         "Отворене језичке">
 <!ENTITY  locbar.openpage.accesskey     "ј">
 <!ENTITY  locbar.searches.label         "Повезане претраге са подразумеваног претраживача">
 <!ENTITY  locbar.searches.accesskey     "п">
