@@ -20,4 +20,6 @@
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Rmed aγmis JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Izegrar n uγmis i iminig aγelsan">
 <!ENTITY aboutUrlClassifier.debugFile                   "Afaylu aɣmis amiran">
