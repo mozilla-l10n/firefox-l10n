@@ -282,8 +282,8 @@
 <!ENTITY delete.accesskey "A">
 <!ENTITY removeAttachment.label "Remover anexo">
 <!ENTITY removeAttachment.accesskey "m">
-<!ENTITY renameAttachment.label "Mudar nome...">
-<!ENTITY renameAttachment.accesskey "r">
+<!ENTITY renameAttachment.label "Renomear…">
+<!ENTITY renameAttachment.accesskey "R">
 <!ENTITY selectAll.label "Selecionar tudo">
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Anexar ficheiro(s)...">
