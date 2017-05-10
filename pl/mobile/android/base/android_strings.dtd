@@ -400,7 +400,7 @@
 <!ENTITY bookmark_edit_title "Edytuj zakładkę">
 <!ENTITY bookmark_edit_name "Nazwa">
 <!ENTITY bookmark_edit_location "Adres URL">
-<!ENTITY bookmark_edit_keyword "Słowa kluczowe">
+<!ENTITY bookmark_edit_keyword "Słowo kluczowe">
 <!ENTITY bookmark_select_folder "Wybierz folder">
 
 <!ENTITY site_settings_title3 "Ustawienia witryny">
