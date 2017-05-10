@@ -22,10 +22,10 @@
 <!ENTITY            deleteButton.accesskey "ล">
 
 <!-- manager entities -->
-<!ENTITY            pmDescription.label    "&brandShortName; จัดเก็บข้อมูลเกี่ยวกับการตั้งค่า, ค่ากำหนด และข้อมูลผู้ใช้อื่น ๆ ในโพรไฟล์ผู้ใช้ของคุณ">
+<!ENTITY            pmDescription.label    "&brandShortName; จัดเก็บข้อมูลเกี่ยวกับการตั้งค่า, ค่ากำหนด และข้อมูลผู้ใช้อื่น ๆ ในโปรไฟล์ผู้ใช้ของคุณ">
 
 <!ENTITY            offlineState.label    "ทำงานออฟไลน์">
 <!ENTITY            offlineState.accesskey "ฟ">
 
-<!ENTITY            useSelected.label       "ใช้โพรไฟล์ที่เลือกแล้วโดยไม่ต้องถามตอนเริ่มการทำงาน">
+<!ENTITY            useSelected.label       "ใช้โปรไฟล์ที่เลือกโดยไม่ต้องถามเมื่อเริ่มการทำงาน">
 <!ENTITY            useSelected.accesskey   "ช">
