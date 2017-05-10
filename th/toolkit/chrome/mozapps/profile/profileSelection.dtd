@@ -5,20 +5,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY            windowtitle.label      "&brandShortName; - เลือกโพรไฟล์ผู้ใช้">
+<!ENTITY            windowtitle.label      "&brandShortName; - เลือกโปรไฟล์ผู้ใช้">
 
-<!ENTITY            profilename.label      "ชื่อโพรไฟล์:">
+<!ENTITY            profilename.label      "ชื่อโปรไฟล์:">
 
 <!ENTITY            start.label            "เริ่ม &brandShortName;">
 <!ENTITY            exit.label             "ออก">
 
-<!ENTITY            availprofiles.label    "โพรไฟล์ที่ใช้งานได้">
+<!ENTITY            availprofiles.label    "โปรไฟล์ที่ใช้ได้">
 
-<!ENTITY            newButton.label        "สร้างโพรไฟล์…">
+<!ENTITY            newButton.label        "สร้างโปรไฟล์…">
 <!ENTITY            newButton.accesskey    "ส">
-<!ENTITY            renameButton.label     "เปลี่ยนชื่อโพรไฟล์…">
+<!ENTITY            renameButton.label     "เปลี่ยนชื่อโปรไฟล์…">
 <!ENTITY            renameButton.accesskey "ป">
-<!ENTITY            deleteButton.label     "ลบโพรไฟล์…">
+<!ENTITY            deleteButton.label     "ลบโปรไฟล์…">
 <!ENTITY            deleteButton.accesskey "ล">
 
 <!-- manager entities -->
