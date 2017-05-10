@@ -138,6 +138,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Tamellit">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Seqdec iγewwaṛen n temellit ihulen">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Iγewwaṛen n temellit ihulen wilmen i uselkim-inek.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "s">
 <!ENTITY limitContentProcess.accesskey   "Y">
