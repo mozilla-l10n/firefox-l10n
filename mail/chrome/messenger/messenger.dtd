@@ -75,7 +75,7 @@
 <!ENTITY settingsOfflineCmd2.label "Nastavitve za nepovezan način …">
 <!ENTITY settingsOfflineCmd2.accesskey "N">
 <!ENTITY downloadSelectedCmd.label "Prejmi izbrana sporočila">
-<!ENTITY downloadSelectedCmd.accesskey "b">
+<!ENTITY downloadSelectedCmd.accesskey "P">
 <!ENTITY downloadStarredCmd.label "Prejmi sporočila z zvezdico">
 <!ENTITY downloadStarredCmd.accesskey "z">
 <!ENTITY printCmd.label "Natisni …">
