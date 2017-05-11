@@ -61,7 +61,7 @@
 
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
-<!ENTITY siteDataLearnMoreLink.label     "Més informació">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -133,6 +133,7 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispositius de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
 
 
 
