@@ -121,7 +121,10 @@
 
 <!ENTITY downloadsHistory.label           "सगळे डावनलोड दाखयात">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "डावनलोड्स साफ करात">
 <!ENTITY clearDownloadsButton.tooltip     "पुराय जाल्ले, रद्द जाल्ले आनी असफळ डावनलोड्स साफ करता">
