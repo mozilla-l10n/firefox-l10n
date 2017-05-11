@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; στοιχεία">
 <!ENTITY bookmark_folder_one_item "1 στοιχείο">
 <!ENTITY bookmark_parent_folder "Γονικός φάκελος">
+<!ENTITY bookmark_add_folder "Προσθήκη νέου φακέλου">
 
 <!ENTITY reader_saved_offline "Αποθηκευμένα για χρήση χωρίς σύνδεση">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Όνομα">
 <!ENTITY bookmark_edit_location "Τοποθεσία">
 <!ENTITY bookmark_edit_keyword "Λέξη κλειδί">
+<!ENTITY bookmark_select_folder "Επιλογή φακέλου">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
