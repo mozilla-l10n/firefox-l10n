@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; 個項目">
 <!ENTITY bookmark_folder_one_item "1 個項目">
 <!ENTITY bookmark_parent_folder "上層資料夾">
+<!ENTITY bookmark_add_folder "新增資料夾">
 
 <!ENTITY reader_saved_offline "已儲存離線閱讀">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "名稱">
 <!ENTITY bookmark_edit_location "網址">
 <!ENTITY bookmark_edit_keyword "關鍵字">
+<!ENTITY bookmark_select_folder "選擇資料夾">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
