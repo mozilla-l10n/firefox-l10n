@@ -8,8 +8,6 @@
 <!ENTITY newtab.customize.cog.title2 "CONTROLLI NUOVA SCHEDA">
 <!ENTITY newtab.customize.cog.learn "Ulteriori informazioni su Nuova scheda">
 <!ENTITY newtab.customize.title "Personalizza la pagina Nuova scheda">
-<!ENTITY newtab.customize.suggested "Siti consigliati e siti principali">
-<!ENTITY newtab.customize.topsites "Siti principali">
 <!ENTITY newtab.customize.blank2 "Pagina bianca">
 <!ENTITY newtab.undo.removedLabel "Miniatura rimossa.">
 <!ENTITY newtab.undo.undoButton "Annulla.">
