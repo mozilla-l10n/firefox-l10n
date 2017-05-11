@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "H">
 <!ENTITY siteDataSettings.label          "Gosodiadau…">
 <!ENTITY siteDataSettings.accesskey      "G">
-<!ENTITY siteDataLearnMoreLink.label     "Dysgu rhagor">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -141,6 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
 <!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau perfformiad wedi eu pennu ar gyfer eich cyfrifiadur.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+
 <!ENTITY limitContentProcess.label       "Terfyn proses cynnwys">
 <!ENTITY limitContentProcess.description "Mae rhagor o brosesau cynnwys yn gallu gwneud &brandShortName; yn fwy ymatebol pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
 <!ENTITY limitContentProcess.accesskey   "T">
