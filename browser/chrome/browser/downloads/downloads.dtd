@@ -125,8 +125,12 @@
 
 <!ENTITY downloadsHistory.label           "सर्व डाउनलोड्स दाखवा">
 <!ENTITY downloadsHistory.accesskey       "S">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "डाउनलोड्स फोल्डर उघडा">
+<!ENTITY openDownloadsFolder.label        "डाउनलोड्स फोल्डर उघडा">
 
 <!ENTITY clearDownloadsButton.label       "डाउनलोड्स नष्ट करा">
 <!ENTITY clearDownloadsButton.tooltip     "पूर्ण झालेले, रद्द केलेले व अपयशी डाउनलोड्स नष्ट करतो">
