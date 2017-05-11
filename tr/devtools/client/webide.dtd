@@ -49,7 +49,7 @@
 <!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Yaklaştır">
 <!ENTITY viewMenu_zoomin_accesskey "Y">
-<!ENTITY viewMenu_zoomout_label "Uzaklaștır">
+<!ENTITY viewMenu_zoomout_label "Uzaklaştır">
 <!ENTITY viewMenu_zoomout_accesskey "U">
 <!ENTITY viewMenu_resetzoom_label "Yaklaşmayı sıfırla">
 <!ENTITY viewMenu_resetzoom_accesskey "s">
