@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
 <!ENTITY customizeMode.toolbars "แสดง/ซ่อนแถบเครื่องมือ">
-<!ENTITY customizeMode.titlebar "แถบหัวเรื่อง">
+<!ENTITY customizeMode.titlebar "แถบชื่อเรื่อง">
 <!ENTITY customizeMode.lwthemes "ชุดตกแต่ง">
 <!ENTITY customizeMode.lwthemes.myThemes "ชุดตกแต่งของฉัน">
 <!ENTITY customizeMode.lwthemes.recommended "แนะนำ">
