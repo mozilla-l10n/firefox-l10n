@@ -363,8 +363,8 @@
 
 
 
-<!ENTITY moveMsgToMenu.label "Мынаған жылжыту">
-<!ENTITY moveMsgToMenu.accesskey "М">
+<!ENTITY moveMsgToMenu.label "Қайда жылжыту">
+<!ENTITY moveMsgToMenu.accesskey "й">
 <!ENTITY moveCopyMsgRecentMenu.label "Соңғы">
 <!ENTITY moveCopyMsgRecentMenu.accesskey "о">
 
@@ -747,8 +747,8 @@
 <!ENTITY contextForwardAsAttachmentItem.accesskey "а">
 
 
-<!ENTITY contextMoveMsgMenu.label "Мынаған жылжыту">
-<!ENTITY contextMoveMsgMenu.accesskey "М">
+<!ENTITY contextMoveMsgMenu.label "Қайда жылжыту">
+<!ENTITY contextMoveMsgMenu.accesskey "й">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Соңғы">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "о">
 <!ENTITY contextCopyMsgMenu.label "Мынаған көшіріп алу">
@@ -818,7 +818,7 @@
 <!ENTITY contextPlay.accesskey "О">
 <!ENTITY contextPause.label "Аялдату">
 <!ENTITY contextPause.accesskey "А">
-<!ENTITY contextMute.label "Даусын сөндіру">
+<!ENTITY contextMute.label "Дыбысын сөндіру">
 <!ENTITY contextMute.accesskey "Д">
 <!ENTITY contextUnmute.label "Даусын шығару">
 <!ENTITY contextUnmute.accesskey "Д">

@@ -12,7 +12,7 @@
 
 <!ENTITY lowestPriorityCmd.label "Ең төмен">
 <!ENTITY lowPriorityCmd.label "Төмен">
-<!ENTITY normalPriorityCmd.label "Кәдімгі">
+<!ENTITY normalPriorityCmd.label "Қалыпты">
 <!ENTITY highPriorityCmd.label "Жоғары">
 <!ENTITY highestPriorityCmd.label "Ең жоғары">
 
