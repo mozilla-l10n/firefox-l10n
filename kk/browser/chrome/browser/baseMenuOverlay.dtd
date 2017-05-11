@@ -4,8 +4,8 @@
 
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Қайыру">
-<!ENTITY bringAllToFront.label    "Барлығын алдына қою.">
-<!ENTITY zoomWindow.label         "Терезені жазу">
+<!ENTITY bringAllToFront.label    "Барлығын алдына қою">
+<!ENTITY zoomWindow.label         "Масштаб">
 <!ENTITY windowMenu.label         "Терезе">
 
 <!ENTITY helpMenu.label           "Көмек"> 

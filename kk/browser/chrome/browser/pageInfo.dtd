@@ -19,7 +19,7 @@
 <!ENTITY  generalURL            "Адрес:">
 <!ENTITY  generalType           "Түрі:">
 <!ENTITY  generalMode           "Визуализация түрі:">
-<!ENTITY  generalSize           "Көлемі:">
+<!ENTITY  generalSize           "Өлшемі:">
 <!ENTITY  generalReferrer       "Сілтейтін URL:">
 <!ENTITY  generalSource         "Кэштеу көзі:">
 <!ENTITY  generalModified       "Соңғы өзгерту:">

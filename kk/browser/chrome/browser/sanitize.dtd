@@ -28,11 +28,11 @@
 
 <!ENTITY clearTimeDuration.label          "Жойылатын деректер мерзімі: ">
 <!ENTITY clearTimeDuration.accesskey      "Ж">
-<!ENTITY clearTimeDuration.lastHour       "соңғы сағат тарихын">
-<!ENTITY clearTimeDuration.last2Hours     "соңғы 2 сағат тарихын">
-<!ENTITY clearTimeDuration.last4Hours     "соңғы 4 сағат тарихын">
+<!ENTITY clearTimeDuration.lastHour       "Соңғы сағат">
+<!ENTITY clearTimeDuration.last2Hours     "Соңғы 2 сағат">
+<!ENTITY clearTimeDuration.last4Hours     "Соңғы 4 сағат">
 <!ENTITY clearTimeDuration.today          "бүгінгі тарихымды">
-<!ENTITY clearTimeDuration.everything     "бүкіл тарихымды">
+<!ENTITY clearTimeDuration.everything     "Барлығы">
 <!-- Localization note (clearTimeDuration.suffix) - trailing entity for languages
 that require it.  -->
 <!ENTITY clearTimeDuration.suffix         "">

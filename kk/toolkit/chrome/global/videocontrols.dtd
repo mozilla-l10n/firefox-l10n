@@ -4,7 +4,7 @@
 
 <!ENTITY playButton.playLabel "Ойнау">
 <!ENTITY playButton.pauseLabel "Аялдату">
-<!ENTITY muteButton.muteLabel "Даусын сөндіру">
+<!ENTITY muteButton.muteLabel "Дыбысын сөндіру">
 <!ENTITY muteButton.unmuteLabel "Даусын қосу">
 <!ENTITY fullscreenButton.enterfullscreenlabel "Толық экран режимі">
 <!ENTITY fullscreenButton.exitfullscreenlabel "Толық экраннан шығу">
