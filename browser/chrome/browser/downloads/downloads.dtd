@@ -122,7 +122,10 @@
 
 <!ENTITY downloadsHistory.label           "Afichar totes los telecargaments">
 <!ENTITY downloadsHistory.accesskey       "i">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "Escafar los telecargaments">
 <!ENTITY clearDownloadsButton.tooltip     "Escafar los telecargaments acabats, anullats e qu'an fracassat">
