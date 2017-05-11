@@ -144,6 +144,8 @@
                                          "Odporúčané nastavenia výkonu sú šité na mieru vášmu počítaču.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "u">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ďalšie informácie">
 <!ENTITY limitContentProcess.label       "Limit procesov obsahu">
 <!ENTITY limitContentProcess.description
                                          "Vďaka viacerým procesom obsahu môže aplikácia &brandShortName; pri otvorení viacerých kariet lepšie reagovať, skonzumuje však viac pamäte.">
