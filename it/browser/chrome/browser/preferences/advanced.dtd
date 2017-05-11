@@ -97,6 +97,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Utilizza le impostazioni predefinite">
 <!ENTITY useRecommendedPerformanceSettings.description "Le impostazioni consigliate sono determinate in base alle caratteristiche di questo computer.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "m">
+<!ENTITY performanceSettingsLearnMore.label "Ulteriori informazioni">
 <!ENTITY limitContentProcess.label "Numero massimo di processi per i contenuti">
 <!ENTITY limitContentProcess.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
 <!ENTITY limitContentProcess.accesskey "o">
