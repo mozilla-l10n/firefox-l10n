@@ -41,4 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "解析">
 <!ENTITY aboutNetworking.dnsDomain             "域名">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "RCWN 统计">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN 状态">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "缓存较快数">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "网络较快数">
+<!ENTITY aboutNetworking.totalNetworkRequests  "总网络请求数">
