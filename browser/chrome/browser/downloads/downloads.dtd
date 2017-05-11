@@ -121,7 +121,10 @@
 
 <!ENTITY downloadsHistory.label           "সকলো ডাউনল'ড দেখুৱাওক">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "ডাউনল'ডসমূহ পৰিষ্কাৰ কৰক">
 <!ENTITY clearDownloadsButton.tooltip     "সম্পূৰ্ণ, বাতিল কৰা আৰু ব্যৰ্থ ডাউনল'ডসমূহ পৰিষ্কাৰ কৰে">
