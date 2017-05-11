@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Вырашыць">
 <!ENTITY aboutNetworking.dnsDomain             "Дамен">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Статыстыка RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Статус RCWN">
