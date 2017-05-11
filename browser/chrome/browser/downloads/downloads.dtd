@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Rodyti visus atsiuntimus">
 <!ENTITY downloadsHistory.accesskey       "R">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Atverti atsiuntimų aplanką">
+<!ENTITY openDownloadsFolder.label        "Atverti atsiuntimų aplanką">
 
 <!ENTITY clearDownloadsButton.label       "Išvalyti atsiuntimus">
 <!ENTITY clearDownloadsButton.tooltip     "Pašalinti iš sąrašo užbaigtus, nutrauktus ir nepavykusius atsiuntimus">
