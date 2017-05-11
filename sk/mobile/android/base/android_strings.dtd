@@ -72,7 +72,7 @@
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "Už sa nachádza medzi záložkami">
-<!ENTITY bookmark_removed "Záložka odstránená">
+<!ENTITY bookmark_removed "Záložka bola odstránená">
 <!ENTITY bookmark_updated "Záložka aktualizovaná">
 <!ENTITY bookmark_options "Možnosti">
 <!ENTITY bookmark_save "Uložiť">
@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; položiek">
 <!ENTITY bookmark_folder_one_item "1 položka">
 <!ENTITY bookmark_parent_folder "Nadradený priečinok">
+<!ENTITY bookmark_add_folder "Pridať nový priečinok">
 
 <!ENTITY reader_saved_offline "Uložené offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Názov">
 <!ENTITY bookmark_edit_location "Umiestnenie">
 <!ENTITY bookmark_edit_keyword "Kľúčové slovo">
+<!ENTITY bookmark_select_folder "Vybrať priečinok">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
