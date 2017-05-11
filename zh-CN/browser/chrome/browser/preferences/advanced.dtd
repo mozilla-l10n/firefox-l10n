@@ -144,6 +144,8 @@
                                          "推荐的性能设置是为您的计算机量身打造。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "详细了解">
 <!ENTITY limitContentProcess.label       "内容进程限制">
 <!ENTITY limitContentProcess.description
                                          "更多的内容进程可以使 &brandShortName; 在使用多个标签页时更快响应，但也会消耗更多的内存。">
