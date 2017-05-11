@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Finna">
 <!ENTITY aboutNetworking.dnsDomain             "Lén">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP tölur">
+<!ENTITY aboutNetworking.rcwn                  "RCWN upplýsingar">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN staða">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Skyndiminni vann talninguna">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Netið vann talninguna">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Heildarfjöldi net beiðna">
