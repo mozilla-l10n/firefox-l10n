@@ -144,6 +144,8 @@
                                          "Рэкамендаваныя налады прадукцыйнасці з улікам канфігурацыі вашага камп'ютара.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "В">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Падрабязней">
 <!ENTITY limitContentProcess.label       "Абмежаванне колькасці працэсаў">
 <!ENTITY limitContentProcess.description
                                          "Выкарыстанне большай колькасці працэсаў можа зрабіць &brandShortName; больш чулым пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.">
