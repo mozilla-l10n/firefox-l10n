@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "1 нәрсе">
 <!ENTITY bookmark_parent_folder "Аталық бумасы">
 
+
 <!ENTITY reader_saved_offline "Желіден тыс нұсқасы сақталды">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Аты">
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Қысқаша атауы">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -791,7 +793,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarks_about_browser "Firefox: Браузеріңіз туралы">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
-<!ENTITY bookmarks_addons "Firefox: Кеңейтулер көмегімен баптау">
+<!ENTITY bookmarks_addons "Firefox: Қосымшалар көмегімен баптау">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Қолдау">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
