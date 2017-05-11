@@ -92,7 +92,7 @@ was trying to connect. -->
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Сіз қараймын деген парақ көрсетілмейді, өйткені мәліметтер тасымалданған кезде қате анықталды.</p><ul><li>Веб сайт иелеріне осы мәселе жөнінде хабарлаңыз.</li></ul>">
 
 
-<!ENTITY securityOverride.exceptionButtonLabel "Ерекше ереже қосу…">
+<!ENTITY securityOverride.exceptionButtonLabel "Ерекше ережені қосу…">
 
 <!ENTITY errorReporting.automatic2 "Осындай қателер туралы хабарлап, Mozilla-ға зиянды сайттарды анықтауға және блоктауға көмектесу">
 <!ENTITY errorReporting.learnMore "Көбірек білу…">

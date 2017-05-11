@@ -78,7 +78,7 @@
 <!ENTITY certmgr.addException.label           "Ерекше ережені қосу…">
 <!ENTITY certmgr.addException.accesskey       "р">
 
-<!ENTITY exceptionMgr.title                   "Қауіпсіздік ерекше ереже қосу">
+<!ENTITY exceptionMgr.title                   "Қауіпсіздік ерекше ережені қосу">
 <!ENTITY exceptionMgr.exceptionButton.label   "Қауіпсіздік ерекше ережені растау">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "р">
 <!ENTITY exceptionMgr.supplementalWarning     "Шын банктар, дүкендер, және басқа да сайттар сізден осыны сұрамайды.">

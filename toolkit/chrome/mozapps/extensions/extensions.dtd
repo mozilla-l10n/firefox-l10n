@@ -109,7 +109,7 @@
 <!ENTITY cmd.showPreferencesWin.label         "Баптаулар">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Бұл кеңейтудің баптауларын өзгерту">
 <!ENTITY cmd.showPreferencesUnix.label        "Баптаулар">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "Бұл кеңейтудің баптауларын көрсету">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "Бұл кеңейтудің баптауларын өзгерту">
 <!ENTITY cmd.contribute.label                 "Үлес қосу">
 <!ENTITY cmd.contribute.accesskey             "с">
 <!ENTITY cmd.contribute.tooltip               "Бұл қосымшаны дамытуға үлес қосу">

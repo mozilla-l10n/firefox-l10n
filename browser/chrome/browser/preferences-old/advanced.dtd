@@ -6,7 +6,7 @@
 
 <!ENTITY generalTab.label                "Жалпы">
 
-<!ENTITY accessibility.label             "Кеңейтілген мүмкіндіктері">
+<!ENTITY accessibility.label             "Қолжетерлілік">
 
 <!ENTITY useCursorNavigation.label       "Парақтарға навигация жасау үшін әрқашан курсор батырмаларын қолдану">
 <!ENTITY useCursorNavigation.accesskey   "н">

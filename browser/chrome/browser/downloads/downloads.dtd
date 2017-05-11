@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Барлық жүктемелерді көрсету">
 <!ENTITY downloadsHistory.accesskey       "к">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Жүктемелер бумасын ашу">
+<!ENTITY openDownloadsFolder.label        "Жүктемелер бумасын ашу">
 
 <!ENTITY clearDownloadsButton.label       "Жүктемелерді тазарту">
 <!ENTITY clearDownloadsButton.tooltip     "Аяқталған, бас тартылған және сәтсіз жүктемелерді тазартады">
