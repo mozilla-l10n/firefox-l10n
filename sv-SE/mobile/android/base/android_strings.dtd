@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; flikar">
 <!ENTITY bookmark_folder_one_item "1 objekt">
 <!ENTITY bookmark_parent_folder "Överordnad mapp">
+<!ENTITY bookmark_add_folder "Lägg till ny mapp">
 
 <!ENTITY reader_saved_offline "Sparad offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Namn">
 <!ENTITY bookmark_edit_location "Plats">
 <!ENTITY bookmark_edit_keyword "Nyckelord">
+<!ENTITY bookmark_select_folder "Välj mapp">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
