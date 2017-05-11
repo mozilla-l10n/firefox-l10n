@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Rozeznaś">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "Statistika RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
+
+
+<!ENTITY aboutNetworking.totalNetworkRequests  "Licba seśowych napšašowanjow dogromady">
