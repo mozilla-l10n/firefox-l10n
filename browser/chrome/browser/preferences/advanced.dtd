@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "پ">
 <!ENTITY siteDataSettings.label          "تنظیمات…">
 <!ENTITY siteDataSettings.accesskey      "ت">
-<!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -132,6 +132,7 @@
 <!ENTITY viewCerts.accesskey             "گ">
 <!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
 <!ENTITY viewSecurityDevices.accesskey   "د">
+
 
 
 
