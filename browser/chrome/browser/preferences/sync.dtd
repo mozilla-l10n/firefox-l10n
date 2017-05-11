@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "שם התקן">
+<!ENTITY changeSyncDeviceName2.label "שינוי שם התקן…">
+<!ENTITY changeSyncDeviceName2.accesskey "ש">
 <!ENTITY cancelChangeSyncDeviceName.label "ביטול">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "ב">
 <!ENTITY saveChangeSyncDeviceName.label "שמירה">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "שינוי תמונת פרופיל">
 <!ENTITY verifiedManage.label        "ניהול חשבון">
 <!ENTITY verifiedManage.accesskey    "נ">
+<!ENTITY disconnect3.label           "התנתקות…">
+<!ENTITY disconnect3.accesskey       "ה">
 <!ENTITY verify.label                "אימות דואר אלקטרוני">
 <!ENTITY verify.accesskey            "א">
 <!ENTITY forget.label                "לשכוח מכתובת דואר אלקטרוני זו">

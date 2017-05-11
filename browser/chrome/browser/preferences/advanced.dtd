@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "ב">
 <!ENTITY useSmoothScrolling.label        "שימוש בגלילה חלקה">
 <!ENTITY useSmoothScrolling.accesskey    "ח">
-<!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
-<!ENTITY allowHWAccel.accesskey          "ה">
 <!ENTITY checkUserSpelling.label         "בדיקת איות תוך כדי הקלדה">
 <!ENTITY checkUserSpelling.accesskey     "ב">
 
@@ -83,7 +81,19 @@
 
 <!ENTITY updateTab.label                 "עדכון">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "עדכוני &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "גרסה ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "לאפשר ל־&brandShortName;">
 <!ENTITY updateAuto2.label               "להתקין אוטומטית עדכונים (מומלץ מטעמי אבטחה משופרת)">
 <!ENTITY updateAuto2.accesskey           "א">
@@ -93,6 +103,7 @@
 <!ENTITY updateManual2.accesskey         "ל">
 
 <!ENTITY updateHistory2.label            "הצגת היסטורית עדכונים…">
+<!ENTITY updateHistory2.accesskey        "ה">
 
 <!ENTITY useService.label                "שימוש בשירות רקע לשם התקנת עדכונים">
 <!ENTITY useService.accesskey            "ר">
@@ -125,3 +136,19 @@
 <!ENTITY viewCerts.accesskey             "צ">
 <!ENTITY viewSecurityDevices.label       "התקני אבטחה">
 <!ENTITY viewSecurityDevices.accesskey   "ה">
+
+<!ENTITY performance.label               "ביצועים">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "שימוש בהגדרות ביצועים מומלצות">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "הגדרות הביצועים המומלצות מותאמות למחשב שלך.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "ש">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "מידע נוסף">
+<!ENTITY limitContentProcess.label       "מגבלת תהליך תוכן">
+<!ENTITY limitContentProcess.description
+                                         "תהליכי תוכן נוספים עשויים לשפר את הביצועים של &brandShortName; בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.">
+<!ENTITY limitContentProcess.accesskey   "מ">
+<!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
+<!ENTITY allowHWAccel.accesskey          "ה">
