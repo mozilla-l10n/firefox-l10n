@@ -333,6 +333,8 @@
      Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
+<!ENTITY pref_media_autoplay_enabled_summary "નિયંત્રણ કરો જો વેબસાઇટ્સ વિડિઓઝ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે કરતી હોય">
+<!ENTITY pref_zoom_force_enabled "હંમેશા ઝૂમ સક્રિય રાખો">
 <!ENTITY pref_voice_input "વૉઇસ ઇનપુટ">
 <!ENTITY pref_qrcode_enabled "QR ર્કોડ રીડર">
 
