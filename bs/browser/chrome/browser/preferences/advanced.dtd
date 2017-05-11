@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "a">
 <!ENTITY siteDataSettings.label          "Postavke…">
 <!ENTITY siteDataSettings.accesskey      "e">
-<!ENTITY siteDataLearnMoreLink.label     "Naučite više">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -135,6 +135,7 @@
 <!ENTITY viewCerts.accesskey             "P">
 <!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
 
 
 
