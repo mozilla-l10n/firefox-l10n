@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Arată toate descărcările">
 <!ENTITY downloadsHistory.accesskey       "s">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Deschide dosarul cu descărcări">
+<!ENTITY openDownloadsFolder.label        "Deschide dosarul cu descărcări">
 
 <!ENTITY clearDownloadsButton.label       "Șterge descărcările">
 <!ENTITY clearDownloadsButton.tooltip     "Șterge descărcările încheiate, anulate și eșuate">
