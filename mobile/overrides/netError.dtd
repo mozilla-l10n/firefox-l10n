@@ -94,9 +94,11 @@
 <!ENTITY netTimeout.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
-<!ENTITY unknownProtocolFound.longDesc "<ul> 
-<li>Pode ser necessário instalar algum aplicativo para abrir este endereço.</li> 
-</ul>">
+<!ENTITY unknownProtocolFound.longDesc "
+<ul>
+  <li>Você talvez precise instalar outro software para abrir este endereço.</li>
+</ul>
+">
 
 <!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
@@ -187,4 +189,4 @@ netError.xhtml) because it exposes functionality specific to firefox. -->
 <!ENTITY inadequateSecurityError.title "Sua conexão não é segura">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
-<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras. Será necessário que o administrador do site corrija o servidor primeiro antes que você pode visitá-lo.</p><p>Código do erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
+<!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> usa tecnologia de segurança que está desatualizada e vulnerável a ataque. Um invasor pode facilmente revelar informações que você pensou estarem seguras. O administrador do site precisará corrigir o servidor primeiro antes que você possa visitá-lo.</p><p>Código do erro: NS_ERROR_NET_INADEQUATE_SECURITY</p>">

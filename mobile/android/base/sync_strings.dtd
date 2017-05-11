@@ -11,10 +11,10 @@
 <!ENTITY sync.title.connect.label 'Conectar ao &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'Para ativar seu novo dispositivo, selecionar “Configurar &syncBrand.shortName.label;” nele.'>
+<!ENTITY sync.subtitle.connect.label 'Para ativar seu novo dispositivo, selecionar “Configurar &syncBrand.shortName.label;” no dispositivo.'>
 <!ENTITY sync.subtitle.pair.label 'Para ativar, selecionar “Parear dispositivo” no seu outro dispositivo.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'Não tenho o aparelho comigo…'>
+<!ENTITY sync.link.nodevice.label 'Não tenho o dispositivo comigo…'>
 
 <!-- Configure Engines -->
 <!ENTITY sync.configure.engines.title.passwords2 'Contas de acesso'>
@@ -49,9 +49,9 @@
 <!ENTITY fxaccount_getting_started_welcome_to_sync 'Bem-vindo ao &syncBrand.shortName.label;'>
 <!ENTITY fxaccount_getting_started_description2 'Identifique-se para sincronizar suas abas, favoritos, contas de acesso e mais.'>
 <!ENTITY fxaccount_getting_started_get_started 'Iniciar'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Usando uma versão anterior do &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Usando uma versão velha do &syncBrand.shortName.label;?'>
 
-<!ENTITY fxaccount_status_signed_in_as 'Conectado como'>
+<!ENTITY fxaccount_status_signed_in_as 'Identificado como'>
 <!ENTITY fxaccount_status_manage_account 'Gerenciar conta'>
 <!ENTITY fxaccount_status_auth_server 'Servidor da conta'>
 <!ENTITY fxaccount_status_sync_now 'Sincronizar agora'>
