@@ -125,7 +125,10 @@
 
 <!ENTITY downloadsHistory.label           "ಎಲ್ಲಾ ಇಳಿಕೆಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸು">
 <!ENTITY clearDownloadsButton.tooltip     "ಪೂರ್ಣಗೊಂಡ, ರದ್ದುಗೊಳಿಸಲಾದ ಹಾಗು ವಿಫಲಗೊಂಡ ಇಳಿಕೆಗಳನ್ನು ಅಳಿಸುತ್ತದೆ">
