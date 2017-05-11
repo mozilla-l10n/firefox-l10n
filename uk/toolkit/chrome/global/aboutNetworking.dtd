@@ -41,3 +41,6 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Вирішити">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "RCWN статистика">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN стан">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Загальна кількість мережевих запитів">
