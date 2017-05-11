@@ -43,3 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN statistik">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Antal cache won">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Antal net won">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antal nätverksförfrågningar">
