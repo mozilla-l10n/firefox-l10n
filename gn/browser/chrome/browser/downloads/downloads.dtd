@@ -125,7 +125,10 @@
 
 <!ENTITY downloadsHistory.label           "Opaite ñemboguejypyre jehechauka">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "Mboguejypyre mopotĩ">
 <!ENTITY clearDownloadsButton.tooltip     "Emopotĩ oñemboguejypámava, ojehejareipyréva ha ndoguejyporãiva'ekue">
