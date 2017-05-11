@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Dovoli, da &brandShortName; in Firefox tečeta sočasno">
 <!ENTITY useFirefoxSync.label             "Nasvet: uporabljena bosta različna profila, ki ju lahko uskladite z uporabo Sync.">
-<!ENTITY getStarted.label                 "Začni uporabljati Sync …">
+<!ENTITY getStarted.notloggedin.label     "Prijava v &syncBrand.shortName.label; …">
+<!ENTITY getStarted.configured.label      "Odpri nastavitve &syncBrand.shortName.label;a">
 
 <!ENTITY e10sEnabled.label                "Omogoči večprocesni &brandShortName;">

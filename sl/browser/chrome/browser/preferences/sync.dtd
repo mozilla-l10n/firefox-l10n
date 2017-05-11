@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Ime naprave">
+<!ENTITY changeSyncDeviceName2.label "Spremeni ime naprave …">
+<!ENTITY changeSyncDeviceName2.accesskey "r">
 <!ENTITY cancelChangeSyncDeviceName.label "Prekliči">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "P">
 <!ENTITY saveChangeSyncDeviceName.label "Shrani">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Spremeni sliko profila">
 <!ENTITY verifiedManage.label        "Upravljanje računa">
 <!ENTITY verifiedManage.accesskey    "U">
+<!ENTITY disconnect3.label           "Odklopi …">
+<!ENTITY disconnect3.accesskey       "k">
 <!ENTITY verify.label                "Potrdi e-poštni naslov">
 <!ENTITY verify.accesskey            "P">
 <!ENTITY forget.label                "Pozabi ta e-poštni naslov">
@@ -63,6 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Prijava">
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
+<!ENTITY signedIn.settings.label       "Nastavitve Synca">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
