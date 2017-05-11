@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चुनें…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "हमेशा आपसे पूछें कि फ़ाइल कहाँ सहेजनी है">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "जाँच कीजिए &brandShortName; आपका तयशुदा ब्राउज़र है">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">

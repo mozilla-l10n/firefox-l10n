@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "पृष्ठ के अंदर संचरण के लिए हमेशा कर्सर का प्रयोग करें">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "जब टाइप करना शुरू करते हैं तभी पाठ के लिए खोजें">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "आपको चेतावनी दें जब वेबसाइट पृष्ठ को पुनर्निर्देशित या पुनर्लोड करना चाहते हैं">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार स्पर्श वाला कीबोर्ड दिखाएँ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "और जानें">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; के साथ &brandShortName; को बेहतर बनाने के लिए प्रदर्शन, प्रयोग, हार्डवेयर और पसंदीदाकरण आँकड़े को अपने ब्राउज़र के साथ साझा करते हैं">
-
-
+<!ENTITY enableTelemetryData.label       "अतिरिक्त आँकड़ा साझा करें (यानी, टेलीमिति)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "और जानें">
 
 <!ENTITY crashReporterDesc2.label         "क्रेश विवरण &vendorShortName; समस्याएँ ठीक करने और आपके ब्राउज़र को ज्यादा स्थायी और सुरक्षित रखने में मदद करता है ">
@@ -56,10 +56,12 @@
 <!ENTITY offlineStorage2.label           "ऑफ़ाइल वेबकंटेंट और उपयोक्ता आँकड़े">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
+<!ENTITY siteData.label                  "साइट आँकड़ा">
+<!ENTITY clearSiteData.label             "सभी आँकड़े साफ करें">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "सेटिंग…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "और जानें">
+<!ENTITY siteDataLearnMoreLink.label     "अधिक जानें">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -82,30 +84,36 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+
+<!ENTITY updateApplication.label         "&brandShortName; अद्यतन">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "संस्करण">
 <!ENTITY updateApplication.version.post  "">
 
+<!ENTITY updateAuto2.label               "अद्यतन स्वतः संस्थापित करें (बेहतर सुरक्षा हेतु अनुशंसित)">
+<!ENTITY updateAuto2.accesskey           "A">
 
 
 
 
 
-
-
-
+<!ENTITY updateHistory2.label            "अद्यतन इतिहास दिखाएँ…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "अद्यतन संस्थापित करने के लिए पृष्ठभूमि सेवा का उपयोग करें">
 <!ENTITY useService.accesskey            "b">
 
 
 
+<!ENTITY reports.label                   "रिपोर्ट">
 
-
+<!ENTITY offlineStorageNotify.label               "आपको बताएँ कि कब वेबसाइट ऑफ़लाइन प्रयोग के लिए आँकड़ा जमा करने के लिए पूछता है">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "अपवाद…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -116,7 +124,7 @@
 <!ENTITY offlineAppRemove.confirm        "ऑफ़लाइन आँकड़ा हटाएँ">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-
+<!ENTITY certPersonal2.description       "जब एक सर्वर आपके निजी प्रमाणपत्र का आग्रह करता है">
 <!ENTITY selectCerts.auto                "कोई एक स्वतः चुनें">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "आपसे हमेशा पूछें">
@@ -128,9 +136,11 @@
 <!ENTITY viewSecurityDevices.label       "सुरक्षा युक्ति">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "प्रदर्शन">
 
 
 
+<!ENTITY performanceSettingsLearnMore.label "और जानें">
 
 
 

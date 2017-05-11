@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "डिवाइस का नाम">
-
-
+<!ENTITY changeSyncDeviceName2.label "उपकरण का नाम बदले…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द करें">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "सहेजें">
@@ -59,11 +59,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "इस ईमेल को भूल जाइए">
 <!ENTITY forget.accesskey            "F">
 
+<!ENTITY signedOut.caption            "अपना वेब अपने साथ रखें">
 <!ENTITY signedOut.description        "अपने सभी उपकरणों पर अपने बुकमार्क, इतिहास, टैब, पासवर्ड, ऐड-ऑन, और वरीयताओं को समकालित करें.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; से जुड़ें">
-
+<!ENTITY signedOut.accountBox.create  "खाता बनाएँ">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
-
+<!ENTITY signedOut.accountBox.signin  "साइन इन">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 

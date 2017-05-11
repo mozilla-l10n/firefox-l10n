@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "टाइप शुरू करने के दौरान ही शब्द के लिए खोजें">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-
-
+<!ENTITY blockAutoReload.label           "आपको चेतावनी दें जब वेबसाइट पृष्ठ को पुनर्निर्देशित या पुनर्लोड करना चाहते हैं">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "आवश्यकता अनुसार स्पर्श वाला कीबोर्ड दिखाएँ">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 

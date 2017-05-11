@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "फ़ॉन्ट व रंग">
 
-
-
-
+<!ENTITY  defaultFont2.label          "तयशुदा फ़ॉन्ट">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "आकार">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "विस्तृत...">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -52,6 +53,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "अनूदित">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM अंतर्वस्तु">
 
 <!ENTITY  playDRMContent.label         "DRM सामग्री बजाएँ">
 <!ENTITY  playDRMContent.accesskey     "P">

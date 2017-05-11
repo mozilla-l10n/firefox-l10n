@@ -7,9 +7,10 @@
 
 <!ENTITY startupUserHomePage.label "आपका होम पेज दिखाएँ">
 <!ENTITY startupBlankPage.label    "खाली पृष्ठ दिखाएँ">
+<!ENTITY startupPrevSession.label  "पिछले समय से आपके विंडोज़ और टैब्स दिखाएँ">
 
-
-
+<!ENTITY homepage2.label           "शुरुआती पृष्ठ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "मौजूदा पृष्ठ का उपयोग करें">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "मौजूदा पृष्ठों का उपयोग करें">
@@ -26,8 +27,8 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "चुनें…">
 <!ENTITY chooseFolderMac.accesskey    "e">
-
-
+<!ENTITY alwaysAskWhere.label         "हमेशा आपसे पूछें कि फ़ाइल कहाँ सहेजनी है">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 <!ENTITY alwaysCheckDefault2.label        "जाँच कीजिए &brandShortName; आपका तयशुदा ब्राउज़र है">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
