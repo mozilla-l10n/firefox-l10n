@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Zumandey kul cebe">
 <!ENTITY downloadsHistory.accesskey       "c">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Zumandey foolaa feeri">
+<!ENTITY openDownloadsFolder.label        "Zumandey foolaa feeri">
 
 <!ENTITY clearDownloadsButton.label       "Zumandey tuusu">
 <!ENTITY clearDownloadsButton.tooltip     "Zumandey kaŋ timme, naŋandi nda hasara tuusu">
