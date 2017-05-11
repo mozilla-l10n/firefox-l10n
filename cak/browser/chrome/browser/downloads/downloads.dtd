@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Kekut pe ronojel ri qasan">
 <!ENTITY downloadsHistory.accesskey       "K">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Tijaq kimolyakb'al taq qasanïk">
+<!ENTITY openDownloadsFolder.label        "Tijaq kimolyakb'al taq qasanïk">
 
 <!ENTITY clearDownloadsButton.label       "Kejosq'ïx taq Qasanïk">
 <!ENTITY clearDownloadsButton.tooltip     "Tijosq'ïx ronojel, q'aton chuqa' man ütz ta taq qasanïk">

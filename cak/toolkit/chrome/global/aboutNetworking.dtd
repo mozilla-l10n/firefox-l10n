@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Tisol">
 <!ENTITY aboutNetworking.dnsDomain             "Ruk'ojlem b'ey">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "RCWN Cholajilatzij">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN B'anikil">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Xuch'äk ajilanem ri jumejyak">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Ch'akon chijun ajilanem">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Chijun kajilanem taq kik'utuxik k'amab'ey">

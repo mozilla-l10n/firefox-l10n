@@ -141,6 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe">
 <!ENTITY useRecommendedPerformanceSettings.description "Ri kinuk'ulem rub'eyal nisamäj echilab'en pe nikik'äm ki' rik'in akematz'ib'.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "T">
+<!ENTITY performanceSettingsLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY limitContentProcess.label       "ruchi' rutajinik rupam">
 <!ENTITY limitContentProcess.description "Ch'aqa' chik kitajinik taq rupam yetikïr nikib'än &brandShortName; chi yalan nuna' to yerokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj nïm rutzatzq'ob'al.">
 <!ENTITY limitContentProcess.accesskey   "r">
