@@ -19,8 +19,8 @@
 <!ENTITY acceptThirdParty.always.label "Әрқашан">
 <!ENTITY acceptThirdParty.never.label "Ешқашан">
 <!ENTITY acceptThirdParty.visited.label "Мен болған жерден ғана">
-<!ENTITY keepUntil.label "Келесі уақыт бойы cookies сақтау:">
-<!ENTITY keepUntil.accesskey "у">
+<!ENTITY keepUntil.label "Дейін сақтау:">
+<!ENTITY keepUntil.accesskey "н">
 <!ENTITY expire.label "олардың мерзімі аяқталғанша дейін">
 <!ENTITY close.label "Мен &brandShortName; жапқанға дейін">
 <!ENTITY askEachTime.label "әрқашан менен сұрау">

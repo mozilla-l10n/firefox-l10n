@@ -222,7 +222,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY contact.heading                                "Контакт">
 <!ENTITY home.heading                                   "Үй">
 <!ENTITY other.heading                                  "Басқа">
-<!ENTITY chat.heading                                   "Әңгіме">
+<!ENTITY chat.heading                                   "Чат">
 <!ENTITY phone.heading                                  "Телефоны">
 <!ENTITY work.heading                                   "Жұмыс">
 <!-- Special Box Headings, for mailing lists -->

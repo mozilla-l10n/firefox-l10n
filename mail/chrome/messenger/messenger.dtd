@@ -230,8 +230,8 @@
 
 
 
-<!ENTITY headersMenu.label "Айдарлар">
-<!ENTITY headersMenu.accesskey "А">
+<!ENTITY headersMenu.label "Тақырыптамалар">
+<!ENTITY headersMenu.accesskey "Т">
 <!ENTITY headersAllCmd.label "Барлығы">
 <!ENTITY headersAllCmd.accesskey "Б">
 <!ENTITY headersNormalCmd.label "Қалыпты">

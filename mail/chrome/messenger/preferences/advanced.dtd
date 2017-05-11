@@ -68,7 +68,7 @@
 
 <!ENTITY showSettings.label            "Баптаулар…">
 <!ENTITY showSettings.accesskey        "а">
-<!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке қосылу параметрлерін баптау">
+<!ENTITY proxiesConfigure.label        "&brandShortName; Интернетке байланысу параметрлерін баптау">
 <!ENTITY connectionsInfo.caption       "Байланыс">
 <!ENTITY offlineInfo.caption           "Желіде емес">
 <!ENTITY offlineInfo.label             "Желіден тыс баптаулары">
