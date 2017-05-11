@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Ցուցադրել բոլոր ներբեռնումները">
 <!ENTITY downloadsHistory.accesskey       "Ց">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Բացել ներբեռնումների թղթապանակը">
+<!ENTITY openDownloadsFolder.label        "Բացել ներբեռնումների թղթապանակը">
 
 <!ENTITY clearDownloadsButton.label       "Մաքրել ներբեռնումները">
 <!ENTITY clearDownloadsButton.tooltip     "Հեռացնում է ավարտված, չեղարկված և ձախողված ներբեռնումները">
