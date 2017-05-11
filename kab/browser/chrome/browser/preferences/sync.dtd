@@ -20,6 +20,7 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Isem n wallal">
 <!ENTITY changeSyncDeviceName2.label "Snifel isem n yibenk…">
+<!ENTITY changeSyncDeviceName2.accesskey "q">
 <!ENTITY cancelChangeSyncDeviceName.label "Sefsex">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "x">
 <!ENTITY saveChangeSyncDeviceName.label "Sekles">
@@ -52,6 +53,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "Sefrek imiḍanen">
 <!ENTITY verifiedManage.accesskey    "m">
 <!ENTITY disconnect3.label           "Tuffγa…">
+<!ENTITY disconnect3.accesskey       "k">
 <!ENTITY verify.label                "Senqed tansa imayl">
 <!ENTITY verify.accesskey            "e">
 <!ENTITY forget.label                "Ttu tansa-agi imayl">
