@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; éléments">
 <!ENTITY bookmark_folder_one_item "1 élément">
 <!ENTITY bookmark_parent_folder "Dossier parent">
+<!ENTITY bookmark_add_folder "Ajouter un nouveau dossier">
 
 <!ENTITY reader_saved_offline "Enregistré hors ligne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Emplacement">
 <!ENTITY bookmark_edit_keyword "Mot-clé">
+<!ENTITY bookmark_select_folder "Sélectionner un dossier">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
