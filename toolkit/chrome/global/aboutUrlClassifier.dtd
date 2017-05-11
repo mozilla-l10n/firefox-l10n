@@ -11,7 +11,7 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seneste opdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Opdatering">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Opslag">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Match">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller matchende resultat">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Opslag">
