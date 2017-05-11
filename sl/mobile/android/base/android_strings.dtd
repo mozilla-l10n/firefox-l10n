@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "Število predmetov: &formatD;">
 <!ENTITY bookmark_folder_one_item "1 predmet">
 <!ENTITY bookmark_parent_folder "Nadrejena mapa">
+<!ENTITY bookmark_add_folder "Dodaj novo mapo">
 
 <!ENTITY reader_saved_offline "Shranjeno za delo brez povezave">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Ime">
 <!ENTITY bookmark_edit_location "Naslov">
 <!ENTITY bookmark_edit_keyword "Ključna beseda">
+<!ENTITY bookmark_select_folder "Izberite mapo">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
