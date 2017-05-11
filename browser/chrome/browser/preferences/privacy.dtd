@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "跟踪保护">
-<!ENTITY  trackingProtection.description       "跟踪是指某些企业会收集和建立有关您的个人信息，并根据您的浏览偏好和个人信息决定展示内容。">
-<!ENTITY  trackingProtection.radioGroupLabel   "屏蔽已知的企业提供的跟踪内容">
+<!ENTITY  trackingProtection.description       "某些公司会收集您的信息，用来建立您的个人档案，并根据收集到的网上行为和个人数据来向您展示内容。">
+<!ENTITY  trackingProtection.radioGroupLabel   "阻止已知的网络跟踪公司向您展示内容">
 <!ENTITY  trackingProtectionAlways.label       "始终">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "只在隐私浏览窗口中">
@@ -15,7 +15,7 @@
 <!ENTITY  trackingProtectionExceptions.label   "例外…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "跟踪防护">
+<!ENTITY tracking.label                 "跟踪">
 <!ENTITY trackingProtectionPBM5.label         "在隐私浏览窗口中使用跟踪保护">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "详细了解">
@@ -32,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "地址栏">
 
-<!ENTITY  locbar.suggest2.label         "当使用地址栏时，为我提供">
+<!ENTITY  locbar.suggest2.label         "当使用地址栏时，为我提供来自以下位置的建议">
 <!ENTITY  locbar.history.label          "历史记录">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "书签">
@@ -51,7 +51,7 @@
 <!ENTITY  acceptThirdParty.pre.accesskey  "C">
 <!ENTITY  acceptThirdParty.always.label   "总是">
 <!ENTITY  acceptThirdParty.never.label    "总不">
-<!ENTITY  acceptThirdParty.visited.label  "来自访问过的域">
+<!ENTITY  acceptThirdParty.visited.label  "来自访问过的网站">
 
 <!ENTITY  keepUntil.label               "保存，直到：">
 <!ENTITY  keepUntil.accesskey           "u">
@@ -80,15 +80,15 @@
 <!ENTITY  rememberActions.pre.label           "您也许想">
 <!ENTITY  rememberActions.clearHistory.label  "清空近期历史记录">
 <!ENTITY  rememberActions.middle.label        "，或者">
-<!ENTITY  rememberActions.removeCookies.label "移除单个 Cookie">
+<!ENTITY  rememberActions.removeCookies.label "移除某个 Cookie">
 <!ENTITY  rememberActions.post.label          "。">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; 将采用与“隐私浏览模式”相同的设置，不会记录您浏览网络的历史。">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "您也可能是想">
-<!ENTITY  dontrememberActions.clearHistory.label "清除当前的所有历史记录">
+<!ENTITY  dontrememberActions.pre.label          "您或许会想要">
+<!ENTITY  dontrememberActions.clearHistory.label "清除现存的所有历史记录">
 <!ENTITY  dontrememberActions.post.label         "。">
 
 <!ENTITY  privateBrowsingPermanent2.label "始终使用隐私浏览模式">
