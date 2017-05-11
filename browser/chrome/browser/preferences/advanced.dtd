@@ -144,6 +144,8 @@
                                          "Oanrekommandearre prestaasjeynstellingen brûke dy't ôfstimd binne op jo kompjûter.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "O">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Mear ynfo">
 <!ENTITY limitContentProcess.label       "Limyt fan ynhâldsprosessen">
 <!ENTITY limitContentProcess.description
                                          "Mear ynhâldsprosessen kinne &brandShortName; flugger reagearje litte by yt gebrûk fan mear ljepblêden, mar sille ek mear ûnthâld brûke.">

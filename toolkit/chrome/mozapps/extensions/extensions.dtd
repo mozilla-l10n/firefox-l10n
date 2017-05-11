@@ -246,7 +246,7 @@
 <!ENTITY disabledUnsigned.description.start "De folgjende add-ons binne net ferifiearre foar gebrûk yn &brandShortName;. Jo kinne ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "nei ferfangingen sykje">
 <!ENTITY disabledUnsigned.description.end " of de ûntwikkeler freegje dizze ferifiearje te litten.">
-<!ENTITY disabledUnsigned.learnMore "Lês mear oer ús besykjen om jo online feilich te hâlden.">
+<!ENTITY disabledUnsigned.learnMore "Mear ynfo oer ús besykjen om jo online feilich te hâlden.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
@@ -255,4 +255,4 @@
 <!ENTITY disabledUnsigned.devInfo.end " te lêzen.">
 
 <!ENTITY pluginDeprecation.description "Misse jo wat? Guon ynstekkers wurde net langer stipe troch &brandShortName;.">
-<!ENTITY pluginDeprecation.learnMore "Lês mear.">
+<!ENTITY pluginDeprecation.learnMore "Mear ynfo.">

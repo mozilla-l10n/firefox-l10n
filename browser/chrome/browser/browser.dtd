@@ -846,7 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingContentBlocked.message "Folgjen">
 <!ENTITY trackingContentBlocked.moreinfo "Parten fan de side dy't jo online aktiviteiten folgje binne blokkearre.">
-<!ENTITY trackingContentBlocked.learnMore "Lês mear">
+<!ENTITY trackingContentBlocked.learnMore "Mear ynfo">
 <!ENTITY trackingContentBlocked.options "Opsjes">
 <!ENTITY trackingContentBlocked.unblock2.label "Beskerming foar dizze website útskeakelje">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "s">
