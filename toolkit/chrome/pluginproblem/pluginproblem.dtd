@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Datoteka">
 <!ENTITY plugin.mimeTypes                                    "Vrste MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Omogoči zaščiten način Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Zavrni nevarno in vsiljivo vsebino Flash">

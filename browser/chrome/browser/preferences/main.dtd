@@ -4,10 +4,14 @@
 
 <!ENTITY startup.label             "Zagon">
 
+<!ENTITY startupPage2.label        "Ko se &brandShortName; zažene,">
+<!ENTITY startupPage2.accesskey    "K">
 <!ENTITY startupUserHomePage.label "prikaži domačo stran">
 <!ENTITY startupBlankPage.label    "prikaži prazno stran">
 <!ENTITY startupPrevSession.label  "prikaži nazadnje odprta okna in zavihke">
 
+<!ENTITY homepage2.label           "Domača stran">
+<!ENTITY homepage2.accesskey       "D">
 <!ENTITY useCurrentPage.label      "Uporabi trenutno stran">
 <!ENTITY useCurrentPage.accesskey  "T">
 <!ENTITY useMultiple.label         "Uporabi trenutne strani">
@@ -36,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Dovoli, da &brandShortName; in Firefox tečeta sočasno">
 <!ENTITY useFirefoxSync.label             "Nasvet: uporabljena bosta različna profila, ki ju lahko uskladite z uporabo Sync.">
+<!ENTITY getStarted.notloggedin.label     "Prijava v &syncBrand.shortName.label; …">
+<!ENTITY getStarted.configured.label      "Odpri nastavitve &syncBrand.shortName.label;a">
 
 <!ENTITY e10sEnabled.label                "Omogoči večprocesni &brandShortName;">

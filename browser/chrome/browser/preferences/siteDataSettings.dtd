@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Stran">
 <!ENTITY     statusCol.label               "Stanje">
 <!ENTITY     usageCol.label                "Shramba">
+<!ENTITY     searchTextboxPlaceHolder             "Išči strani">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "I">
 <!ENTITY     removeSelected.label          "Odstrani izbrane">
 <!ENTITY     removeSelected.accesskey      "O">
 <!ENTITY     save.label                    "Shrani spremembe">
