@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Rozeznać">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "Statistika RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Ličba wužiwanjow pufrowaka">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Ličba wužiwanjow syće">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Ličba syćowych naprašenjow dohromady">

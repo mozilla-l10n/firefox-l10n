@@ -141,6 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Doporučene wukonowe nastajenja wužiwać">
 <!ENTITY useRecommendedPerformanceSettings.description "Doporučene wukonowe nastajenja su na waš ličak přitřihane.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY performanceSettingsLearnMore.label "Dalše informacije">
 <!ENTITY limitContentProcess.label       "Mjeza wobsahoweho procesa">
 <!ENTITY limitContentProcess.description "Wjace wobsahowych procesow móže &brandShortName; přistupniši činić, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.">
 <!ENTITY limitContentProcess.accesskey   "M">
