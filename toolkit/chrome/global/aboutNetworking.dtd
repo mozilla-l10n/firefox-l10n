@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Omzetten">
 <!ENTITY aboutNetworking.dnsDomain             "Domein">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adressen">
+<!ENTITY aboutNetworking.rcwn                  "RCWN-statistieken">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN-status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Aantal gewonnen door buffer">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Aantal gewonnen door netwerk">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Totale aantal netwerkaanvragen">
