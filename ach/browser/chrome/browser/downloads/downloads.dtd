@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Nyut Gam Weng">
 <!ENTITY downloadsHistory.accesskey       "N">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Yab boc me gam">
+<!ENTITY openDownloadsFolder.label        "Yab boc me gam">
 
 <!ENTITY clearDownloadsButton.label       "Jwa Gam">
 <!ENTITY clearDownloadsButton.tooltip     "Jwa gam ma otum, ma ki juko kacel ki ma opoto">

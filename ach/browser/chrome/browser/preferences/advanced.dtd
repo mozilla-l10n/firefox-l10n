@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "a">
 <!ENTITY siteDataSettings.label          "Ter…">
 <!ENTITY siteDataSettings.accesskey      "e">
-<!ENTITY siteDataLearnMoreLink.label     "Nong ngec mapol">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -140,6 +140,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Tii ki ter me tic ma kicimo.">
 <!ENTITY useRecommendedPerformanceSettings.description "Kiyubo ter me tic ma kicimo ma rwate ki kompuita mamegi.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "T">
+
 
 
 
