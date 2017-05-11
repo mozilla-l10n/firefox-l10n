@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Lös fel">
 <!ENTITY aboutNetworking.dnsDomain             "Domän">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "RCWN statistik">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN status">
