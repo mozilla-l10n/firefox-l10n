@@ -41,3 +41,4 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "解析">
 <!ENTITY aboutNetworking.dnsDomain             "域名">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN 状态">
