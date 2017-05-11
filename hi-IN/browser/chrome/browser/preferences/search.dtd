@@ -13,6 +13,7 @@
 <!ENTITY showURLBarSuggestions.accesskey       "स">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "खोज सुझाव स्थान पट्टी में दिखाएँ नहीं जायेंगे क्योंकी आपने &brandShortName; को कभी भी इतिहास याद न रखने क लिए कॉन्फ़िगर करा है ">
 
+<!ENTITY oneClickSearchEngines.label           "एकल-क्लिक सर्च इंजन">
 
 <!ENTITY chooseWhichOneToDisplay.label         "The search bar lets you search alternate engines directly. Choose which ones to display.">
 
@@ -25,3 +26,4 @@
 <!ENTITY removeEngine.label                    "हटाएँ">
 <!ENTITY removeEngine.accesskey                "R">
 
+<!ENTITY addMoreSearchEngines2.label           "अधिक खोज इंजन जोड़ें...">
