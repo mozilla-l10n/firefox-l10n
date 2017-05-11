@@ -68,6 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "P">
 
 <!ENTITY signedIn.settings.label       "Nastavitve Synca">
+<!ENTITY signedIn.settings.description "Izberite, kaj želite sinhronizirati med svojimi napravami s pomočjo &brandShortName;a.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
