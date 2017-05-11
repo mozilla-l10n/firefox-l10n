@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Domínio">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Estatísticas RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache de ganhou contagem">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Rede ganhou contagem">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Contagem total de solicitação de rede">
