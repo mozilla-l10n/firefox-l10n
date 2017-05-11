@@ -11,7 +11,7 @@
 <!ENTITY helpMenuWin.accesskey "К">
 <!ENTITY helpTroubleshootingInfo.label     "Техникалық ақпарат">
 <!ENTITY helpTroubleshootingInfo.accesskey "а">
-<!ENTITY helpSafeMode.label     "Сөндірілген кеңейтулермен қайта қосу…">
+<!ENTITY helpSafeMode.label     "Сөндірілген қосымшалармен қайта қосу…">
 <!ENTITY helpSafeMode.accesskey "р">
 <!ENTITY releaseCmd2.label "Шығарылым ескертпесі">
 <!ENTITY releaseCmd2.accesskey "с">
