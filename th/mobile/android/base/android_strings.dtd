@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; รายการ">
 <!ENTITY bookmark_folder_one_item "1 รายการ">
 <!ENTITY bookmark_parent_folder "โฟลเดอร์หลัก">
+<!ENTITY bookmark_add_folder "เพิ่มโฟลเดอร์ใหม่">
 
 <!ENTITY reader_saved_offline "บันทึกไว้ออฟไลน์">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "ชื่อ">
 <!ENTITY bookmark_edit_location "ตำแหน่งที่ตั้ง">
 <!ENTITY bookmark_edit_keyword "คำสำคัญ">
+<!ENTITY bookmark_select_folder "เลือกโฟลเดอร์">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
