@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "d">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
-<!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -132,6 +132,7 @@
 <!ENTITY viewCerts.accesskey             "T">
 <!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
 <!ENTITY viewSecurityDevices.accesskey   "d">
+
 
 
 
