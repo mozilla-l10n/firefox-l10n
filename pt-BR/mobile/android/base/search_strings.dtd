@@ -6,7 +6,7 @@
 
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
-<!ENTITY search_bar_hint 'Pesquisa com &formatS;'>
+<!ENTITY search_bar_hint 'Pesquisar com &formatS;'>
 
 <!ENTITY search_empty_title2 'Iniciar pesquisa'>
 <!ENTITY search_empty_message 'Pesquisar rapidamente o que quiser'>

@@ -516,13 +516,13 @@
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
 <!ENTITY doorhanger_login_no_username "[Sem nome de usuário]">
-<!ENTITY doorhanger_login_edit_title "Editar login">
+<!ENTITY doorhanger_login_edit_title "Editar conta de acesso">
 <!ENTITY doorhanger_login_edit_username_hint "Nome de usuário">
 <!ENTITY doorhanger_login_edit_password_hint "Senha">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar senha">
 <!ENTITY doorhanger_login_select_message "Copiar senha de &formatS;?">
 <!ENTITY doorhanger_login_select_toast_copy "Senha copiada para a área de transferência">
-<!ENTITY doorhanger_login_select_action_text "Selecionar outro login">
+<!ENTITY doorhanger_login_select_action_text "Selecionar outra conta de acesso">
 <!ENTITY doorhanger_login_select_title "Copiar senha de">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
