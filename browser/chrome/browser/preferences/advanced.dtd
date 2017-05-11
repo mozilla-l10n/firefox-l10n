@@ -141,6 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Dopórucone wugbaśowe nastajenja wužywaś">
 <!ENTITY useRecommendedPerformanceSettings.description "Dopórucone wugbaśowe nastajenja su na wašo licadło pśirězane.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY performanceSettingsLearnMore.label "Dalšne informacije">
 <!ENTITY limitContentProcess.label       "Limit wopśimjeśowego procesa">
 <!ENTITY limitContentProcess.description "Wěcej wopśimjeśowych procesow móžo &brandShortName; pśistupnjejšy cyniś, gaž se někotare rejjtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
 <!ENTITY limitContentProcess.accesskey   "L">
