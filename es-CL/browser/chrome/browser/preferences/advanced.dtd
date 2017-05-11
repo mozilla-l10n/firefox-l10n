@@ -144,6 +144,8 @@
                                          "Los ajustes de rendimiento recomendados son pensados en tu computador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Aprender más">
 <!ENTITY limitContentProcess.label       "Límite de procesos de contenido">
 <!ENTITY limitContentProcess.description
                                          "Más procesos de contenido pueden hacer a &brandShortName; más responsivo al usar múltiples pestañas, pero también consumirá más memoria.">
