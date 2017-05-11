@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Erakutsi deskarga guztiak">
 <!ENTITY downloadsHistory.accesskey       "s">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Ireki deskargen karpeta">
+<!ENTITY openDownloadsFolder.label        "Ireki deskargen karpeta">
 
 <!ENTITY clearDownloadsButton.label       "Garbitu deskargak">
 <!ENTITY clearDownloadsButton.tooltip     "Burututako, utzitako eta huts egindako deskargak garbitzen ditu">
