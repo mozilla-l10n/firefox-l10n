@@ -4,4 +4,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "สามารถเปลี่ยนการตั้งค่าได้โดยใช้แท็บแอปพลิเคชันในการตั้งค่าของ &brandShortName;">
-<!ENTITY  settingsChangeOptions.label      "การตั้งค่าสามารถเปลี่ยนแปลงได้ในแท็บโปรแกรมในตัวเลือกของ &brandShortName;">
+<!ENTITY  settingsChangeOptions.label      "สามารถเปลี่ยนการตั้งค่าได้โดยใช้แท็บแอปพลิเคชันในตัวเลือกของ &brandShortName;">
