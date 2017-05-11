@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Mostra totes les baixades">
 <!ENTITY downloadsHistory.accesskey       "s">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Obre la carpeta de baixades">
+<!ENTITY openDownloadsFolder.label        "Obre la carpeta de baixades">
 
 <!ENTITY clearDownloadsButton.label       "Buida la llista de baixades">
 <!ENTITY clearDownloadsButton.tooltip     "Elimina de la llista les baixades acabades, cancel·lades o que han fallat">
