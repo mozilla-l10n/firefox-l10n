@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Fru">
 <!ENTITY aboutNetworking.dnsDomain             "Taɣult">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Addad RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Tiddadanin RCWN">
