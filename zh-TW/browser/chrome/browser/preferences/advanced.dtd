@@ -144,6 +144,8 @@
                                          "專屬於您的電腦的建議效能設定。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "了解更多">
 <!ENTITY limitContentProcess.label       "內容程序限制">
 <!ENTITY limitContentProcess.description
                                          "調高內容處理程序的上限，可讓 &brandShortName; 開啟多個分頁時的反應速度更快，但也會消耗更多記憶體。">
