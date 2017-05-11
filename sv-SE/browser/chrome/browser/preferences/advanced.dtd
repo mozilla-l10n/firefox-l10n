@@ -144,6 +144,8 @@
                                          "Rekommenderade prestandainställningar är skräddarsydda för din dator.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "A">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Läs mer">
 <!ENTITY limitContentProcess.label       "Gräns för innehållsprocesser">
 <!ENTITY limitContentProcess.description
                                          "Fler innehållsprocesser kan göra &brandShortName; mer lyhörd när man använder flera flikar, men kommer också förbruka mer minne.">
