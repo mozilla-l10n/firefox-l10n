@@ -141,6 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "استعمل إعدادات الأداء المستحسنة">
 <!ENTITY useRecommendedPerformanceSettings.description "كُيّفت إعدادات الأداء المستحسنة لتناسب حاسوبك.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "س">
+<!ENTITY performanceSettingsLearnMore.label "اطّلع على المزيد">
 <!ENTITY limitContentProcess.label       "حد سيرورة المحتوى">
 <!ENTITY limitContentProcess.description "يمكن أن تساهم زيادة سيرورات المحتوى بجعل &brandShortName; أفضل في الاستجابة عند استعمال عدة ألسنة، ولكن ذلك يستهلك ذاكرة أكثر.">
 <!ENTITY limitContentProcess.accesskey   "ح">

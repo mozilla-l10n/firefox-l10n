@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "أعِد التحميل تلقائيا كل ٣ ثوان">
 <!ENTITY aboutNetworking.hostname              "اسم المستضيف">
 <!ENTITY aboutNetworking.port                  "المنفذ">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "نشط">
 <!ENTITY aboutNetworking.idle                  "خامل">
@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "حُلّ">
 <!ENTITY aboutNetworking.dnsDomain             "النطاق">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "العناوين">
+<!ENTITY aboutNetworking.rcwn                  "إحصائيات RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "حالة RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "مرات غلبة الخبيئة">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "مرات غلبة الشبكة">
+<!ENTITY aboutNetworking.totalNetworkRequests  "العدد الكلي لطلبات الشبكة">
