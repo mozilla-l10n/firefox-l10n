@@ -121,7 +121,10 @@
 
 <!ENTITY downloadsHistory.label           "गासै डाउनल'डखौ दिन्थि (S)">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "डाउनल'डफोरखौ खोमोर">
 <!ENTITY clearDownloadsButton.tooltip     "डाउनल'डनि फुरा जानाय, बातिल जानाय आरो फेलें जानायखौ खोमोरो">
