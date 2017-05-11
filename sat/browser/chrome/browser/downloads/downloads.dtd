@@ -119,7 +119,10 @@
 
 <!ENTITY downloadsHistory.label           "जोतो आ़तुर आंड़गो को उदुग मे (S) .">
 <!ENTITY downloadsHistory.accesskey       "S">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "आ़तुर आंड़गो को फा़रचा">
 <!ENTITY clearDownloadsButton.tooltip     "फा़रचा पुरा़व एना ,आ़तुर आंड़गो को बा़डरा आर डिगा़व एना .">
