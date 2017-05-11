@@ -129,8 +129,12 @@
 
 <!ENTITY downloadsHistory.label           "Wys alle aflaaie">
 <!ENTITY downloadsHistory.accesskey       "s">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Open aflaaigids">
+<!ENTITY openDownloadsFolder.label        "Open aflaaigids">
 
 <!ENTITY clearDownloadsButton.label       "Maak aflaailys skoon">
 <!ENTITY clearDownloadsButton.tooltip     "Verwyder voltooide, gekanselleerde en mislukte aflaaie">
