@@ -124,7 +124,10 @@
 
 <!ENTITY downloadsHistory.label           "എല്ലാ ഡൌണ്‍ലോഡുകളും കാണിയ്ക്കുകക">
 <!ENTITY downloadsHistory.accesskey       "ക">
-
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
 <!ENTITY clearDownloadsButton.label       "ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുക">
 <!ENTITY clearDownloadsButton.tooltip     "പൂര്‍ത്തിയാക്കിയ, റദ്ദാക്കിയ, പരാജയപ്പെട്ട ഡൌണ്‍ലോഡുകള്‍ വെടിപ്പാക്കുന്നു">
