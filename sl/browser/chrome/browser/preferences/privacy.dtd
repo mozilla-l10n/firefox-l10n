@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Zaščita pred sledenjem">
+<!ENTITY  trackingProtection.description       "Sledenje je proces zbiranja vaših podatkov, s pomočjo katerih podjetja izdelajo vaš profil in vam prikazujejo vsebino, prilagojeno vam.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Zavračaj prikazovanje vsebine podjetij, znanih po sledenju uporabnikom">
 <!ENTITY  trackingProtectionAlways.label       "Vedno">
 <!ENTITY  trackingProtectionAlways.accesskey   "e">
 <!ENTITY  trackingProtectionPrivate.label      "Le v zasebnih oknih">

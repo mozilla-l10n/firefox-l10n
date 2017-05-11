@@ -26,6 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "Obrazci in gesla">
 
+<!ENTITY  rememberLogins1.label          "Zapomni si prijave in gesla strani">
 <!ENTITY  rememberLogins1.accesskey      "Z">
 <!ENTITY  passwordExceptions.label      "Izjeme …">
 <!ENTITY  passwordExceptions.accesskey  "i">
