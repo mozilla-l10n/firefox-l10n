@@ -15,7 +15,8 @@
 
 
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Хаттарды тарату тізіміне қосу үшін эл. пошта адрестерін теріңіз:">
+<!ENTITY AddressTitle.accesskey         "ш">
 <!ENTITY UpButton.label                 "Жоғары жылжыту">
 <!ENTITY DownButton.label               "Төмен жылжыту">
 

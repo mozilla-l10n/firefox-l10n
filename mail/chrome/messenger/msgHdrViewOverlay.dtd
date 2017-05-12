@@ -96,7 +96,7 @@
 <!ENTITY saveAllAttachmentsButton1.label   "Барлығын сақтау">
 <!ENTITY saveAllAttachmentsButton1.tooltip "Барлық тіркелген файлдарды сақтау">
 
-<!ENTITY copyLinkCmd.label        "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.label        "Сілтемені көшіріп алу">
 <!ENTITY copyLinkCmd.accesskey    "С">
 
 
