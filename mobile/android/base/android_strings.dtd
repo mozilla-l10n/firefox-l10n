@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "Elementu bat">
 <!ENTITY bookmark_parent_folder "Karpeta gurasoa">
 
+
 <!ENTITY reader_saved_offline "Lineaz kanpo gordeta">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -544,6 +545,7 @@
 <!ENTITY bookmark_edit_name "Izena">
 <!ENTITY bookmark_edit_location "Helbidea">
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
