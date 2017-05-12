@@ -21,7 +21,7 @@
 <!ENTITY radioNotSend.accesskey           "N">
 <!ENTITY radioAskUnsent                   "Mij vragen">
 <!ENTITY radioAskUnsent.accesskey         "v">
-<!ENTITY textGoingOffline                 "Berichten downloaden voor offlinegebruik voor offline gaan?">
+<!ENTITY textGoingOffline                 "Berichten downloaden voor offlinegebruik bij offline gaan?">
 <!ENTITY radioAutoDownload                "Ja">
 <!ENTITY radioAutoDownload.accesskey      "a">
 <!ENTITY radioNotDownload                 "Nee">
