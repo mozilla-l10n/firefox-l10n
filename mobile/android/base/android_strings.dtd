@@ -73,6 +73,7 @@
 
 
 
+
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -477,6 +478,7 @@
 <!ENTITY bookmark_edit_name "নাম">
 <!ENTITY bookmark_edit_location "অৱস্থান">
 <!ENTITY bookmark_edit_keyword "মূলশব্দ">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
