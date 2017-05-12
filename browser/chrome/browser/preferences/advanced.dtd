@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "А">
 <!ENTITY useSmoothScrolling.label        "Плавно плъзгане">
 <!ENTITY useSmoothScrolling.accesskey    "л">
-<!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
-<!ENTITY allowHWAccel.accesskey          "х">
 <!ENTITY checkUserSpelling.label         "Проверка на правописа при въвеждане">
 <!ENTITY checkUserSpelling.accesskey     "в">
 
@@ -83,7 +81,19 @@
 
 <!ENTITY updateTab.label                 "Обновяване">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "Обновявания на &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Версия ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Разрешаване на &brandShortName;">
 <!ENTITY updateAuto2.label               "Автоматично да инсталира обновяванията (препоръчано: подобрява защитата)">
 <!ENTITY updateAuto2.accesskey           "а">
@@ -126,3 +136,8 @@
 <!ENTITY viewCerts.accesskey             "с">
 <!ENTITY viewSecurityDevices.label       "Устройства по безопасността">
 <!ENTITY viewSecurityDevices.accesskey   "У">
+
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Научете повече">
+<!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
+<!ENTITY allowHWAccel.accesskey          "х">
