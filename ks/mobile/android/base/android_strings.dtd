@@ -70,6 +70,7 @@
 
 
 
+
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
      "switch" to the bookmarks (saved items) panel. -->
@@ -447,6 +448,7 @@
      bookmarks, or reading list. -->
 
 <!ENTITY bookmark_edit_name "ناو">
+
 
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
