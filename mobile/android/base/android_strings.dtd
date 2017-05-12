@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; rud">
 <!ENTITY bookmark_folder_one_item "1 rud">
 <!ENTITY bookmark_parent_folder "Máthairfhillteán">
+<!ENTITY bookmark_add_folder "Fillteán nua">
 
 <!ENTITY reader_saved_offline "Sábháilte as líne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Suíomh">
 <!ENTITY bookmark_edit_keyword "Lorgfhocal">
+<!ENTITY bookmark_select_folder "Roghnaigh fillteán">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
