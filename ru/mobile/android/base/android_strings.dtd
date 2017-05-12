@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; закладок">
 <!ENTITY bookmark_folder_one_item "1 закладка">
 <!ENTITY bookmark_parent_folder "Родительская папка">
+<!ENTITY bookmark_add_folder "Добавить новую папку">
 
 <!ENTITY reader_saved_offline "Сохранено в автономном режиме">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Имя">
 <!ENTITY bookmark_edit_location "Расположение">
 <!ENTITY bookmark_edit_keyword "Краткое имя">
+<!ENTITY bookmark_select_folder "Выбрать папку">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
