@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "تمام ڈاؤن لوڈ دکھائیں">
 <!ENTITY downloadsHistory.accesskey       "ت">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "ڈاؤن لوڈ پوشہ کھولیں">
+<!ENTITY openDownloadsFolder.label        "ڈاؤن لوڈ پوشہ کھولیں">
 
 <!ENTITY clearDownloadsButton.label       "ڈاؤن لوڈ خالی کریں">
 <!ENTITY clearDownloadsButton.tooltip     "مکمل، منسوخ شدہ اور ناکام ڈاؤن لوڈ کریں ہٹاتا ہے">
