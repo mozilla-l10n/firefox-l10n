@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; nì(thean)">
 <!ENTITY bookmark_folder_one_item "1 nì">
 <!ENTITY bookmark_parent_folder "Pasgan pàraint">
-
+<!ENTITY bookmark_add_folder "Cuir pasgan ùr ris">
 
 <!ENTITY reader_saved_offline "Air a shàbhaladh far loidhne">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Ainm">
 <!ENTITY bookmark_edit_location "Ionad">
 <!ENTITY bookmark_edit_keyword "Facal-luirg">
-
+<!ENTITY bookmark_select_folder "Tagh pasgan">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
