@@ -43,3 +43,5 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "Addad RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Tiddadanin RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Aseklas n tzerkatut ad ittwarebḥen">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Tazerkatut n uẓeṭṭa ad ittwarebḥen">
