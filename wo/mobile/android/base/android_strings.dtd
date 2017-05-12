@@ -692,15 +692,15 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      replaced with the search query. -->
 <!ENTITY suggestion_for_engine "Seet &formatS1; ak &formatS2;">
 
-<!ENTITY searchable_description "Mandarga xët yi ak jaar jaar">
+<!ENTITY searchable_description "Mandarga-xët ak jaar-jaar">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "Yeesal bu feex bu &brandShortName;">
+<!ENTITY updater_start_title2 "&brandShortName; am na yeesal gu jàppandi">
 <!ENTITY updater_start_select2 "Laal ngir yeb">
 
-<!ENTITY updater_downloading_title2 "Yebum &brandShortName;">
-<!ENTITY updater_downloading_title_failed2 "Yeb bi lajj na">
-<!ENTITY updater_downloading_select2 "Laal ngir def yeesal bi bu yeb bi paree">
+<!ENTITY updater_downloading_title2 "Yebbig &brandShortName;">
+<!ENTITY updater_downloading_title_failed2 "Yebbi gi antuwul">
+<!ENTITY updater_downloading_select2 "Bësal ngir man a def yeesal gi su yebbi gi àggee">
 <!ENTITY updater_downloading_retry2 "Laal ngir jéemaat">
 
 <!ENTITY updater_apply_title3 "Yebbees na yeesalug &brandShortName;">
@@ -714,16 +714,16 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_permission_allow "Sañal">
 
     <!-- Guest mode -->
-<!ENTITY new_guest_session "New Guest Session">
-<!ENTITY exit_guest_session "Exit Guest Session">
-<!ENTITY guest_session_dialog_continue "Continue">
-<!ENTITY guest_session_dialog_cancel "Cancel">
-<!ENTITY new_guest_session_title "&brandShortName; will now restart">
-<!ENTITY guest_browsing_notification_title "Guest browsing is enabled">
-<!ENTITY guest_browsing_notification_text "Tap to exit">
+<!ENTITY new_guest_session "">
+<!ENTITY exit_guest_session "">
+<!ENTITY guest_session_dialog_continue "Wéy">
+<!ENTITY guest_session_dialog_cancel "Neenal">
+<!ENTITY new_guest_session_title "&brandShortName; di na tàmbliwaat léegi">
+<!ENTITY guest_browsing_notification_title "Doxalees na njoowu gan">
+<!ENTITY guest_browsing_notification_text "Bësal ngir génn">
 
-<!ENTITY exit_guest_session_title "&brandShortName; will now restart">
-<!ENTITY exit_guest_session_text "The browsing data from this session will be deleted.">
+<!ENTITY exit_guest_session_title "&brandShortName; du tàmbaliwaat">
+<!ENTITY exit_guest_session_text "Njoxeefi njoow gu gii dugg dees na ko far.">
 
 <!-- Miscellaneous -->
 <!-- LOCALIZATION NOTE (ellipsis): This text is appended to a piece of text that does not fit in the
