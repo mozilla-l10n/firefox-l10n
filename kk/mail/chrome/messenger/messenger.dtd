@@ -116,8 +116,8 @@
 <!ENTITY redoDeleteMsgCmd.label "Хабарламаны өшіруді қайталау">
 <!ENTITY undoMoveMsgCmd.label "Хабарламаны жылжытуды болдырмау">
 <!ENTITY redoMoveMsgCmd.label "Хабарламаны жылжытуды қайталау">
-<!ENTITY undoCopyMsgCmd.label "Хабарламаны көшіруді болдырмау">
-<!ENTITY redoCopyMsgCmd.label "Хабарламаны көшіруді қайталау">
+<!ENTITY undoCopyMsgCmd.label "Хабарламаны көшіріп алуды болдырмау">
+<!ENTITY redoCopyMsgCmd.label "Хабарламаны көшіріп алуды қайталау">
 <!ENTITY undoMarkAllCmd.label "Барлығын оқылған етіп белгілеуді болдырмау">
 <!ENTITY redoMarkAllCmd.label "Барлығын оқылған етіп белгілеуді қайталау">
 <!ENTITY undoDefaultCmd.label "Болдырмау">
@@ -880,7 +880,7 @@
 <!ENTITY saveLinkAsCmd.accesskey "м">
 <!ENTITY saveImageAsCmd.label "Суретті қалайша сақтау…">
 <!ENTITY saveImageAsCmd.accesskey "у">
-<!ENTITY copyLinkCmd.label "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.label "Сілтемені көшіріп алу">
 <!ENTITY copyLinkCmd.accesskey "С">
 
 
