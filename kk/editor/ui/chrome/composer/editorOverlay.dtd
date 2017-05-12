@@ -268,7 +268,7 @@
 <!ENTITY menuBar.tooltip "Мәзір панелі">
 <!ENTITY formatToolbar.tooltip "Пішімдеу саймандары">
 <!ENTITY cutToolbarCmd.tooltip "Қиып алу">
-<!ENTITY copyToolbarCmd.tooltip "Көшіру">
+<!ENTITY copyToolbarCmd.tooltip "Көшіріп алу">
 <!ENTITY pasteToolbarCmd.tooltip "Кірістіру">
 <!ENTITY printToolbarCmd.label "Баспаға шығару">
 <!ENTITY printToolbarCmd.tooltip "Ағымдағы бетті баспаға шығару">
