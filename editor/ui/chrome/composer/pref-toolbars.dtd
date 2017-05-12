@@ -11,7 +11,7 @@
 
 <!ENTITY preview.label          "Шолу">
 <!ENTITY cut.label              "Қиып алу">
-<!ENTITY copy.label             "Көшіру">
+<!ENTITY copy.label             "Көшіріп алу">
 <!ENTITY paste.label            "Кірістіру">
 <!ENTITY print.label            "Баспаға шығару">
 <!ENTITY find.label             "Табу">
