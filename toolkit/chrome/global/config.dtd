@@ -28,11 +28,11 @@
 <!-- Context Menu -->
 
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "Көшіру">
+<!ENTITY copyPref.label "Көшіріп алу">
 <!ENTITY copyPref.accesskey "К">
-<!ENTITY copyName.label "Атын көшіру">
+<!ENTITY copyName.label "Атын көшіріп алу">
 <!ENTITY copyName.accesskey "А">
-<!ENTITY copyValue.label "Мәнін көшіру">
+<!ENTITY copyValue.label "Мәнін көшіріп алу">
 <!ENTITY copyValue.accesskey "М">
 <!ENTITY modify.label "Өзгерту">
 <!ENTITY modify.accesskey "з">

@@ -27,7 +27,7 @@
 <!ENTITY findCmd.label             "Іздеу">
 <!ENTITY findCmd.key               "F">
 <!ENTITY findCmd.accesskey         "з">
-<!ENTITY findAgainCmd.label        "Қайта іздеу">
+<!ENTITY findAgainCmd.label        "Қайта табу">
 <!ENTITY findAgainCmd.key          "G">
 <!ENTITY findAgainCmd.key2         "VK_F3">
 <!ENTITY findAgainCmd.accesskey    "а">

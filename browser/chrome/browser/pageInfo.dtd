@@ -6,7 +6,7 @@
 <!ENTITY  pageInfoWindow.height "600">
 
 <!ENTITY  copy.key              "C">
-<!ENTITY  copy.label            "Көшіру">
+<!ENTITY  copy.label            "Көшіріп алу">
 <!ENTITY  copy.accesskey        "К">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "Барлығын ерекшелеу">

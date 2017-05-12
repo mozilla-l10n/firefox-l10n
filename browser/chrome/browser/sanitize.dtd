@@ -40,8 +40,8 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 
-<!ENTITY detailsProgressiveDisclosure.label     "Егжей-тегжейі">
-<!ENTITY detailsProgressiveDisclosure.accesskey "ж">
+<!ENTITY detailsProgressiveDisclosure.label     "Ақпараты">
+<!ENTITY detailsProgressiveDisclosure.accesskey "п">
 
 <!ENTITY historySection.label         "Тарихы">
 <!ENTITY dataSection.label            "Мәліметтер">

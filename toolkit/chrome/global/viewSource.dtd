@@ -80,7 +80,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 
-<!ENTITY copyLinkCmd.label "Сілтемені көшіру">
+<!ENTITY copyLinkCmd.label "Сілтемені көшіріп алу">
 <!ENTITY copyLinkCmd.accesskey "С">
 <!ENTITY copyEmailCmd.label "Электронды пошта адресін көшіріп алу">
 <!ENTITY copyEmailCmd.accesskey "Э">

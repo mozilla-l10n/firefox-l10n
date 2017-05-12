@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Шешу">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP адрестері">
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN статистикасы">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN қалып-күйі">
 
 
 

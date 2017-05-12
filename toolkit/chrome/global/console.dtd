@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "Сүзгі:">
 <!ENTITY filter2.accesskey  "С">
 
-<!ENTITY copyCmd.label       "Көшіру">  
+<!ENTITY copyCmd.label       "Көшіріп алу">  
 <!ENTITY copyCmd.accesskey   "К"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "Өсу реті бойынша сұрыптау">
