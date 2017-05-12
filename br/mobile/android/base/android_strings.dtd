@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "1 elfenn">
 
 
+
 <!ENTITY reader_saved_offline "Enrollet ezlinenn">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -542,6 +543,7 @@
 <!ENTITY bookmark_edit_name "Anv">
 <!ENTITY bookmark_edit_location "Lec\u0027h">
 <!ENTITY bookmark_edit_keyword "Gerioù alc\u0027hwez">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
