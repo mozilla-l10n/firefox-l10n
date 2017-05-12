@@ -144,6 +144,8 @@
                                          "Рекомендуемые настройки производительности рассчитаны для вашего компьютера.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "н">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Подробнее">
 <!ENTITY limitContentProcess.label       "Максимальное число процессов контента">
 <!ENTITY limitContentProcess.description
                                          "Увеличение числа процессов контента может сделать &brandShortName; более отзывчивым при работе со множеством вкладок, но также повысит потребление памяти.">
