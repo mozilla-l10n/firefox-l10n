@@ -143,6 +143,8 @@
                                          "Önerilen performans ayarlarını bilgisayarınıza özel olarak seçilmiştir.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "Ö">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Daha fazla bilgi al">
 <!ENTITY limitContentProcess.label       "İçerik işlemi sınırı">
 <!ENTITY limitContentProcess.description
                                          "Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken &brandShortName; daha rahat çalışır ama daha fazla bellek tüketir.">
