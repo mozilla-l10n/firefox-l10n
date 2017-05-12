@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "Jami 1">
 
 
+
 <!ENTITY reader_saved_offline "Kigwoko pi mape iwiyamo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -539,6 +540,7 @@
 <!ENTITY bookmark_edit_name "Nying">
 <!ENTITY bookmark_edit_location "Kabedo">
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
