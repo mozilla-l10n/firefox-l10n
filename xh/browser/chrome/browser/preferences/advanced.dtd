@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "i">
 <!ENTITY siteDataSettings.label          "Iietingi…">
 <!ENTITY siteDataSettings.accesskey      "e">
-<!ENTITY siteDataLearnMoreLink.label     "Funda okungakumbi">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -132,6 +132,7 @@
 <!ENTITY viewCerts.accesskey             "i">
 <!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
 <!ENTITY viewSecurityDevices.accesskey   "z">
+
 
 
 
