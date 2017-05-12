@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "Ауыстыру">
 <!ENTITY newPref.cancelButton          "Бас тарту">
 
-<!ENTITY contextMenu.copyPrefName      "Атын көшіру">
-<!ENTITY contextMenu.copyPrefValue     "Мәнін көшіру">
+<!ENTITY contextMenu.copyPrefName      "Атын көшіріп алу">
+<!ENTITY contextMenu.copyPrefValue     "Мәнін көшіріп алу">
