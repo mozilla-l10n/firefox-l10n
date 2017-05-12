@@ -259,7 +259,7 @@
 <!ENTITY pref_category_developer_tools "Jumtukaayi suqalikat">
 
 <!ENTITY pref_tap_to_load_images_title2 "Wone nataal yi">
-<!ENTITY pref_tap_to_load_images_enabled "Ba faww">
+<!ENTITY pref_tap_to_load_images_enabled "Ba-fàww">
 <!ENTITY pref_tap_to_load_images_data "Ak Wi-Fi rekk">
 <!ENTITY pref_tap_to_load_images_disabled2 "Téye">
 
@@ -279,13 +279,13 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "Solo yu jàppandidi">
+<!ENTITY pref_category_experimental "Solo yu jàppandindi">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Làcc yees Kennal">
-<!ENTITY pref_custom_tabs_summary3 "Sañal jëfekaay yi man di ubbi dali web ci njëfandikoo sumb bees kennal bu &brandShortName;">
+<!ENTITY pref_custom_tabs "Làcc yees Jëmmal">
+<!ENTITY pref_custom_tabs_summary3 "Sañal jëfekaay yi man di ubbi dali web ci njëfandikoo sumb bees jëmmal bu &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ubbi ci &formatS;">
@@ -295,7 +295,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Walug yëngu-yëngu">
-<!ENTITY pref_activity_stream_summary "Ag jaar-jaar gooy gis ak xët wu njëkk wees defaraat tay la gënalatee yombal gis dëgg-dëgg li ngay seet ci &brandShortName;.">
+<!ENTITY pref_activity_stream_summary "Ag jaar-jaar gooy gis ak xët wu njëkk wees defaraat, tay la gënalatee yombal gis dëgg-dëgg li ngay seet ci &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Leegi ak kaaraangeeg lank-toppaate">
 <!ENTITY tracking_protection_prompt_text "Ñi lay jéem a topp dañ leen di téye, kon amoo lenn looy jaaxle.">
@@ -306,10 +306,10 @@
 <!ENTITY tab_queue_toast_action "Ubbi léegi">
 <!ENTITY tab_queue_prompt_title "Ubbiy lëkkalekaay yu bari?">
 <!ENTITY tab_queue_prompt_text4 "Denc leen ba keroog ngay ubbi &brandShortName;.">
-<!ENTITY tab_queue_prompt_tip_text2 "Dinga ko man a soppiwaat ca jekk-jekkaluwaay ga">
+<!ENTITY tab_queue_prompt_tip_text2 "Di nga ko man a soppiwaat ca jekk-jekkaluwaay ga">
 <!-- Localization note (tab_queue_prompt_permit_drawing_over_apps): This additional text is shown if the
      user needs to enable an Android setting in order to enable tab queues. -->
-<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Doxal « Sañal mu tegu ci kaw yeneen jëfekaay »">
+<!ENTITY tab_queue_prompt_permit_drawing_over_apps "Doxal gi da fay Sañal mu tegu ci kaw yeneen jëfekaay yi">
 <!ENTITY tab_queue_prompt_positive_action_button "Doxal">
 <!ENTITY tab_queue_prompt_negative_action_button "Ci kanam">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
@@ -327,7 +327,7 @@
 
 <!-- Localization note (tab_queue_notification_settings): This notification text is shown if a tab
      has been queued but we are missing the system permission to show an overlay. -->
-<!ENTITY tab_queue_notification_settings "Ngir \&quot;Ubbi lëkkalekaay yu bari\&quot; faww nga doxal sañal gu \&apos;Tegu ci kaw yeneen jëfekaay\&apos; ngir &brandShortName;">
+<!ENTITY tab_queue_notification_settings "Ngir \&quot;Ubbi lëkkalekaay yu bari\&quot; fàww nga doxal sañal gu \&apos;Tegu ci kaw yeneen jëfekaay\&apos; ngir &brandShortName;">
 
 <!ENTITY content_notification_summary "&brandShortName;">
 <!-- Localization note (content_notification_title_plural): &formatD; will be replaced with the number of websites that
@@ -367,16 +367,16 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 <!ENTITY pref_use_system_font_size "Jëfandikoo dayoob arafi noste gi">
-<!ENTITY pref_use_system_font_size_summary "Yamaleel ëmbeefu web bi sukkadiku ci dayoob arafi noste gi">
+<!ENTITY pref_use_system_font_size_summary "Yamaleel ëmbéefu web bi sukkadiku ci dayoob arafi noste gi">
 
 <!ENTITY pref_media_autoplay_enabled "Sañal taal-boppam">
-<!ENTITY pref_media_autoplay_enabled_summary "Xool ba xam dali web yi di nañ man a taalal seen bopp wideo walla yeneen ëmbeefi xibaarukaay">
-<!ENTITY pref_zoom_force_enabled "Doxal xëccat gi ba faww">
-<!ENTITY pref_zoom_force_enabled_summary "Jañ xët yi bay man di leen xëcc">
+<!ENTITY pref_media_autoplay_enabled_summary "Xool ba xam dali web yi di nañ man a taalal seen bopp wideo walla yeneen ëmbéefi xibaarukaay">
+<!ENTITY pref_zoom_force_enabled "Doxal xëccat gi ba-fàww">
+<!ENTITY pref_zoom_force_enabled_summary "Jañ xët yi ba ñu man di leen xëcc">
 <!ENTITY pref_voice_input "Duggug ay kàddu">
 <!ENTITY pref_voice_input_summary2 "Sañal duggalug ay kàddu ci banqaasu màkkaan bi">
-<!ENTITY pref_qrcode_enabled "Jàngkaayu QR">
-<!ENTITY pref_qrcode_enabled_summary2 "Sañal jàngkaayu QR ci bànqaasu màkkaan bi">
+<!ENTITY pref_qrcode_enabled "Jàngukaayu QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Sañal jàngukaayu QR ci bànqaasu màkkaan bi">
 
 <!ENTITY pref_use_master_password "Jëfandikoo baatu-jàll bi njëkk">
 <!ENTITY pref_sync2 "Dugg">
@@ -390,11 +390,11 @@
 <!ENTITY pref_private_data_openTabs "Làcc yi ubbeeku">
 <!ENTITY pref_private_data_history2 "Jaar-jaaru joow gi">
 <!ENTITY pref_private_data_searchHistory "Jaar-jaaru ceet gi">
-<!ENTITY pref_private_data_formdata2 "">
+<!ENTITY pref_private_data_formdata2 "Jaar-jaaru duggaluwaayu mbind yi">
 <!ENTITY pref_private_data_cookies2 "Cookies &amp; ñi dugg">
 <!ENTITY pref_private_data_passwords2 "Duggukaay yees fi denc">
 <!ENTITY pref_private_data_cache "Ndenc">
-<!ENTITY pref_private_data_offlineApps "Njoxéef i dali web yi ci biti-lonkoo">
+<!ENTITY pref_private_data_offlineApps "Njoxéefi dali web yi ci biti-lonkoo">
 <!ENTITY pref_private_data_siteSettings2 "Jekk-jekkali dal">
 <!ENTITY pref_private_data_downloadFiles2 "Yebbi">
 <!ENTITY pref_private_data_syncedTabs "Làcc yi lonkoo">
@@ -403,7 +403,7 @@
 <!ENTITY pref_default_browser_mozilla_support_tablet "Xool jàpple gu Mozilla">
 <!ENTITY pref_about_firefox "Ñeel &brandShortName;">
 <!ENTITY pref_vendor_faqs "Laaj aki tont">
-<!ENTITY pref_vendor_feedback "Wax sa xalaat">
+<!ENTITY pref_vendor_feedback "Wax nu sa xalaat">
 
 <!ENTITY pref_dialog_set_default "Niki lum wàccaale">
 <!ENTITY pref_dialog_default "Wàccaale">
@@ -413,15 +413,15 @@
 
 <!ENTITY pref_panels_show "Wone">
 <!ENTITY pref_panels_hide "Nëbb">
-<!ENTITY pref_panels_reorder "Soppi toftaloo gi">
+<!ENTITY pref_panels_reorder "Soppi toftaloowiin gi">
 <!ENTITY pref_panels_move_up "Yéegal">
 <!ENTITY pref_panels_move_down "Wàcce">
 
-<!ENTITY datareporting_notification_title "Njoxéef i &brandShortName;">
+<!ENTITY datareporting_notification_title "Njoxéefi &brandShortName;">
 <!ENTITY datareporting_notification_action "Tànn li ngay séddoo">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Tànn xibaar yi nga séddoo">
-<!ENTITY datareporting_notification_summary "Ngir gënal jëfandiku gi, &brandShortName; da fay yonneel boppam ay xibaar &vendorShortName;.">
+<!ENTITY datareporting_notification_summary "Ngir gënal njëfandiku gi, &brandShortName; da fay yonneel boppam ay xibaar &vendorShortName;.">
 <!-- When this item is removed, also remove datareporting_notification_action_long:
      it is unused in strings.xml. -->
 <!ENTITY datareporting_notification_ticker_text "&datareporting_notification_title;: &datareporting_notification_action_long;">
