@@ -43,4 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "RCWN статистика">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN стан">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Число виграшів кешу">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Число виграшів мережі">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Загальна кількість мережевих запитів">
