@@ -26,7 +26,7 @@
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "Gerir componentes extra">
 <!ENTITY projectMenu_manageComponents_accesskey "G">
-<!ENTITY projectMenu_refreshTabs_label "Recarregar separadores">
+<!ENTITY projectMenu_refreshTabs_label "Atualizar separadores">
 
 <!ENTITY runtimeMenu_label "Ambiente de execução">
 <!ENTITY runtimeMenu_accesskey "n">
@@ -84,7 +84,7 @@
 <!ENTITY runtimePanel_installsimulator "Instalar simulador">
 <!ENTITY runtimePanel_noadbhelper "Instalar ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Não vê o seu dispositivo?">
-<!ENTITY runtimePanel_refreshDevices_label "Recarregar dispositivos">
+<!ENTITY runtimePanel_refreshDevices_label "Atualizar dispositivos">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "válido">
