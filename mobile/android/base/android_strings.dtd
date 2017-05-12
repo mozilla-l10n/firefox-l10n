@@ -580,7 +580,6 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "સુરક્ષિત કનેક્શન">
 <!ENTITY identity_connection_insecure "અસુરક્ષિત કનેક્શન">
-<!ENTITY identity_connection_chromeui "આ એક સુરક્ષિત & brandShortName છે; પાનું">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; આ પાનાં પર અસુરક્ષિત સામગ્રી અવરોધિત કરી છે.">
