@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; cholna\u0027oj">
 <!ENTITY bookmark_folder_one_item "1 cholna\u0027oj">
 <!ENTITY bookmark_parent_folder "Nimaläj molyakb\u0027äl">
+<!ENTITY bookmark_add_folder "Titz\u0027aqatisäx k\u0027ak\u0027a\u0027 molyakb\u0027äl">
 
 <!ENTITY reader_saved_offline "Yakon pa k\u0027amab\u0027ey">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "B\u0027i\u0027aj">
 <!ENTITY bookmark_edit_location "Rochochib\u0027al">
 <!ENTITY bookmark_edit_keyword "Ewan tzij">
+<!ENTITY bookmark_select_folder "Ticha\u0027 molyakb\u0027äl">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
