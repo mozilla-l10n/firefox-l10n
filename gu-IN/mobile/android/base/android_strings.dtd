@@ -549,7 +549,7 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
-<!ENTITY home_remote_tabs_many_hidden_devices "&FormatD; છુપાયેલા ઉપકરણો">
+<!ENTITY home_remote_tabs_many_hidden_devices "&formatD; છુપાયેલા ઉપકરણો">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
 <!ENTITY home_remote_tabs_hidden_devices_title "છુપાયેલા ઉપકરણો">
