@@ -335,14 +335,19 @@
 <!ENTITY pref_media_autoplay_enabled "ઑટોપ્લે ની મંજૂરી આપો">
 <!ENTITY pref_media_autoplay_enabled_summary "નિયંત્રણ કરો જો વેબસાઇટ્સ વિડિઓઝ અને અન્ય મીડિયા સામગ્રી ઑટોપ્લે કરતી હોય">
 <!ENTITY pref_zoom_force_enabled "હંમેશા ઝૂમ સક્રિય રાખો">
+<!ENTITY pref_zoom_force_enabled_summary "ફોર્સ ઓવરરાઇડ જેથી તમે કોઇ પાનું ઝૂમ કરી શકો છો">
 <!ENTITY pref_voice_input "વૉઇસ ઇનપુટ">
+<!ENTITY pref_voice_input_summary2 "URL બારમાં અવાજ શ્રુતલેખનની મંજૂરી આપો">
 <!ENTITY pref_qrcode_enabled "QR ર્કોડ રીડર">
+<!ENTITY pref_qrcode_enabled_summary2 "URL બારમાં QR સ્કેનરની મંજૂરી આપો">
 
 <!ENTITY pref_use_master_password "મુખ્ય પાસવર્ડ વાપરો">
 <!ENTITY pref_sync2 "સાઇન ઇન">
+<!ENTITY pref_sync_summary2 "તમારા ટેબ્સ, બુકમાર્ક્સ, પ્રવેશો, ઇતિહાસને સમન્વયિત કરો">
 <!ENTITY pref_search_suggestions "શોધ સૂચનો બતાવો">
 <!ENTITY pref_history_search_suggestions "બતાવો શોધ ઇતિહાસ">
 <!ENTITY pref_import_options "આયાત વિકલ્પો">
+<!ENTITY pref_import_android_summary "બુકમાર્ક્સ અને બ્રાઉઝર ઈતિહાસ મૂળ બ્રાઉઝર માંથી આયાત કરો">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
 <!ENTITY pref_private_data_openTabs "ટેબ્સ ખોલો">
@@ -403,10 +408,13 @@
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
+<!ENTITY pref_update_autodownload3 "સ્વચાલિત સુધારાઓ">
 <!ENTITY pref_update_autodownload_wifi "માત્ર Wi-Fi ઉપર">
 <!ENTITY pref_update_autodownload_never "ક્યારેય નહિ">
+<!ENTITY pref_update_autodownload_always "હંમેશાં">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
+<!ENTITY help_menu "મદદ">
 
 <!ENTITY quit "બંધ કરો">
 
@@ -417,6 +425,7 @@
 <!ENTITY share_title "આની મારફતે વહેંચો">
 <!ENTITY share_image_failed "આ ચિત્ર વહેંચવામાં અસમર્થ">
 <!ENTITY save_as_pdf "PDF તરીકે સંગ્રહો">
+<!ENTITY desktop_mode "ડેસ્કટૉપ સાઇટની વિનંતી કરો">
 <!ENTITY page "પાનું">
 <!ENTITY tools "સાધનો">
 <!ENTITY new_tab "નવું ટૅબ">
@@ -447,6 +456,7 @@
 <!ENTITY contextmenu_open_private_tab "ખાનગી ટૅબમાં ખોલો">
 <!ENTITY contextmenu_remove "દૂર કરો">
 <!ENTITY contextmenu_add_to_launcher "હોમ સ્ક્રીન પર ઉમેરો">
+<!ENTITY contextmenu_set_as_homepage "હોમપેજ તરીકે સેટ કરો">
 <!ENTITY contextmenu_share "વહેંચો">
 <!ENTITY contextmenu_pasteandgo "પેસ્ટ કરો અને જાઓ">
 <!ENTITY contextmenu_paste "ચોંટાડો">
@@ -462,10 +472,12 @@
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
      contains brackets to indicate this is not actually a username, but rather a placeholder -->
+<!ENTITY doorhanger_login_no_username "[કોઈ વપરાશકર્તા નામ નથી]">
 <!ENTITY doorhanger_login_edit_title "લોગિન મા ફેરફાર કરો">
 <!ENTITY doorhanger_login_edit_username_hint "વપરાશકર્તા નામ">
 <!ENTITY doorhanger_login_edit_password_hint "પાસવર્ડ">
 <!ENTITY doorhanger_login_edit_toggle "પાસવર્ડ બતાવો">
+<!ENTITY doorhanger_login_select_message "&formatS;થી પાસવર્ડ નકલ કરો?">
 <!ENTITY doorhanger_login_select_toast_copy "પાસવર્ડ ક્લિપબોર્ડ પર કૉપિ કરો">
 <!ENTITY doorhanger_login_select_action_text "અન્ય લૉગિન પસંદ કરો">
 <!ENTITY doorhanger_login_select_title "પાસવર્ડ નકલ કરો">
@@ -537,14 +549,18 @@
      formatD is replaced with the number of hidden devices.  The
      number of hidden devices is always more than one.  We can't use
      Android plural forms, sadly. See Bug #753859. -->
+<!ENTITY home_remote_tabs_many_hidden_devices "&FormatD; છુપાયેલા ઉપકરણો">
 <!-- Localization note (home_remote_tabs_hidden_devices_title) : This is the
      title of a dialog; we expect more than one device. -->
+<!ENTITY home_remote_tabs_hidden_devices_title "છુપાયેલા ઉપકરણો">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
 
+<!ENTITY remote_tabs_panel_moved_link "મને મારી નવી પેનલ પર લઈ જાઓ.">
 
 <!ENTITY pin_site_dialog_hint "શોધ શબ્દ દાખલ કરો">
 
+<!ENTITY filepicker_title "ફાઇલ પસંદ કરો">
 <!ENTITY filepicker_audio_title "ધ્વનિ પસંદ અથવા રૅકોર્ડ કરો">
 <!ENTITY filepicker_image_title "ચિત્ર પસંદ કરો અથવા લો">
 <!ENTITY filepicker_video_title "વીડિયો પસંદ અથવા રૅકોર્ડ કરો">
@@ -564,8 +580,12 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "સુરક્ષિત કનેક્શન">
 <!ENTITY identity_connection_insecure "અસુરક્ષિત કનેક્શન">
+<!ENTITY identity_connection_chromeui "આ એક સુરક્ષિત & brandShortName છે; પાનું">
 
 <!-- Mixed content notifications in site identity popup -->
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; આ પાનાં પર અસુરક્ષિત સામગ્રી અવરોધિત કરી છે.">
+<!ENTITY mixed_content_blocked_some1 "&brandShortName; આ પાનાં પર કેટલાક અસુરક્ષિત સામગ્રી અવરોધિત કરી છે.">
+<!ENTITY mixed_content_display_loaded1 "આ પૃષ્ઠ ભાગો (જેમ કે છબીઓ)સુરક્ષિત નથી.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "ટ્રેકિંગ પ્રોટેક્શન">
