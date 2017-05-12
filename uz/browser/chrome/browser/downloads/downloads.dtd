@@ -133,8 +133,12 @@
 
 <!ENTITY downloadsHistory.label           "Barcha yuklab olishlarni ko‘rsatish">
 <!ENTITY downloadsHistory.accesskey       "k">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
 
-<!ENTITY openDownloadsFolder.label       "Yuklanishlar jildini ochish">
+<!ENTITY openDownloadsFolder.label        "Yuklanishlar jildini ochish">
 
 <!ENTITY clearDownloadsButton.label       "Yuklab olishlarni tozalash">
 <!ENTITY clearDownloadsButton.tooltip     "Tozalash tugadi, yuklab olishlar bekor qilindi va muvaffaqiyatsiz yakunlandi">
