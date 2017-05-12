@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "१ वस्तु">
 
 
+
 <!ENTITY reader_saved_offline "अफलाइन सुरक्षित गरियो">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -542,6 +543,7 @@
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
