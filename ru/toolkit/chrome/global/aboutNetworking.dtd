@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Запросить">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "Статистика RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Статус RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Число выигрышей кэша">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Число выигрышей сети">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Общее число запросов сети">
