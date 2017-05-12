@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "1 kue">
 
 
+
 <!ENTITY reader_saved_offline "mb-lòɁ sóg this yent sní">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -544,6 +545,7 @@
 <!ENTITY bookmark_edit_name "Xha mud leel">
 <!ENTITY bookmark_edit_location "Pá duúl">
 <!ENTITY bookmark_edit_keyword "Taá thib dizh">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
