@@ -14,7 +14,7 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Фишингті сайт!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Бұл веб <span id='phishing_sitename'/> парағы фишингті сайт ретінде белгілі, және сіздің қауіпсіздік баптауларыңызға сәйкес блокталған.">
-<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Фишингті сайттар сізді алдап, қауіпті әрекетті жасатуға, мысалы, БҚ орнату, немесе, парольдер, телефон нөмірлері немесе несие карта ақпаратын анықтап, жинауға арналған.</p><p>Бұл веб парақта қандай болса да ақпаратты енгізу сіздің кім екеніңізді анықтауға  немесе басқа да алаяқты әрекеттерге әкеп соғуы мүмкін.</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Фишингті сайттар сізді алдап, қауіпті әрекетті жасатуға, мысалы, БҚ орнату, немесе, парольдер, телефон нөмірлері немесе несие карта ақпаратын анықтап, жинауға арналған.</p><p>Бұл веб парақта қандай болса да ақпаратты енгізу сіздің кім екеніңізді анықтауға немесе басқа да алаяқты әрекеттерге әкеп соғуы мүмкін.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Осы сайт ұнамсыз бағдарламалық қамтаманы тарататыны туралы ақпарат бар!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

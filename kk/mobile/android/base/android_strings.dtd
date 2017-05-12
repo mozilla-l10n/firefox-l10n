@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; нәрсе">
 <!ENTITY bookmark_folder_one_item "1 нәрсе">
 <!ENTITY bookmark_parent_folder "Аталық бумасы">
-
+<!ENTITY bookmark_add_folder "Жаңа буманы қосу">
 
 <!ENTITY reader_saved_offline "Желіден тыс нұсқасы сақталды">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -524,7 +524,7 @@
 <!ENTITY doorhanger_login_select_message "Парольдерді &formatS; ішінен көшіріп алу керек пе?">
 <!ENTITY doorhanger_login_select_toast_copy "Пароль алмасу буферіне көшірілді">
 <!ENTITY doorhanger_login_select_action_text "Басқа логинді таңдаңыз">
-<!ENTITY doorhanger_login_select_title "Парольді қайдан көшіру:">
+<!ENTITY doorhanger_login_select_title "Парольді қайдан көшіріп алу:">
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Аты">
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Қысқаша атауы">
-
+<!ENTITY bookmark_select_folder "Буманы таңдау">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -572,7 +572,7 @@
 <!ENTITY button_clear_data "Мәліметті өшіру">
 <!ENTITY button_set "Орнату">
 <!ENTITY button_clear "Тазарту">
-<!ENTITY button_copy "Көшіру">
+<!ENTITY button_copy "Көшіріп алу">
 
 <!ENTITY home_top_sites_title "Топ сайттар">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
