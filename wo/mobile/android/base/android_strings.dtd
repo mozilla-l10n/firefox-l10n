@@ -436,20 +436,20 @@
 <!ENTITY datareporting_fhr_summary2 "Séddooy xibaar ak &vendorShortName; ñeel wér-gi-yaramu sa joowukaay te it di dimbali ngir xam baaxaayam">
 <!ENTITY datareporting_abouthr_title "Wone Xibaari sama Wér-gi-yaram">
 <!ENTITY datareporting_telemetry_title "Nattukaay">
-<!ENTITY datareporting_telemetry_summary "">
+<!ENTITY datareporting_telemetry_summary "Séddool xibaar yi ñeel doxiin bi, njëfandikoo gi, jumtukaay yeek njoxeefi jëmmal yu sa joowukaay ak &vendorShortName; ngir dimbali nu ci nu gën a baaxal &brandShortName;">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName; day yónneey xibaar ñeel ay taxawam ngir dimbali &vendorShortName; mu man a gën a wóoral te dëgëral sa joowukaay">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Xibaari taxawam">
 <!ENTITY datareporting_wifi_title2 "Xamalekaayu Nekkuwaay gu &vendorShortName; ">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Dimbalil &vendorShortName; mu lonkoyoonal àdduna bi! Séddool nattatle gu fi sa jumtukaay nekk.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Dimbalil &vendorShortName; mu lonkoyoonal àdduna bi! Séddool nattable gu fi sa jumtukaay nekk.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Yeesali boppam">
 <!ENTITY pref_update_autodownload_wifi "Ci Wi-Fi rekk">
 <!ENTITY pref_update_autodownload_never "Mukk">
-<!ENTITY pref_update_autodownload_always "Faww">
+<!ENTITY pref_update_autodownload_always "Ba-fàww">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
 <!ENTITY help_menu "Ndimbal">
@@ -461,8 +461,8 @@
 <!ENTITY downloads "Yebbi">
 <!ENTITY char_encoding "">
 
-<!ENTITY share "Seddoo">
-<!ENTITY share_title "Seddoo ci">
+<!ENTITY share "Séddoo">
+<!ENTITY share_title "Séddoo ci">
 <!ENTITY share_image_failed "Kenn maneesul a séddoo nataal bii">
 <!ENTITY save_as_pdf "Denc ko ci PDF">
 <!ENTITY print "Móol">
@@ -471,14 +471,14 @@
 <!ENTITY page "Xët">
 <!ENTITY tools "Jumtukaay">
 <!ENTITY new_tab "Làcc wu bees">
-<!ENTITY new_private_tab "Làcc wu bees te suturloo">
+<!ENTITY new_private_tab "Làcc wu bees te suturlu">
 <!ENTITY close_all_tabs "Tëj làcc yépp">
-<!ENTITY close_private_tabs "Tëj làcci sutura yépp">
+<!ENTITY close_private_tabs "Tëj làcc yu suturlu yépp">
 <!ENTITY tabs_normal "Làcc">
 <!ENTITY tabs_private "Sutura">
 <!ENTITY set_image_fail "Maneesul a tànn bile nataal">
 <!ENTITY set_image_path_fail "Maneesul a denc péeñ bi">
-<!ENTITY set_image_chooser_title "Jàppee naatal bi niki">
+<!ENTITY set_image_chooser_title "Jàppee péeñ bi niki">
 
 <!-- Localization note (find_text, find_prev, find_next, find_close) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
@@ -489,13 +489,13 @@
 
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
-<!ENTITY media_sending_to "Sending to Device">
+<!ENTITY media_sending_to "Di yónnee jumtukaay bi">
 <!ENTITY media_play "Taal">
 <!ENTITY media_pause "Taxawal">
 <!ENTITY media_stop "Fay">
 
-<!ENTITY contextmenu_open_new_tab "Ubbi ci biir koñ bu bees">
-<!ENTITY contextmenu_open_private_tab "Ubbi ci làcc wu suturawu">
+<!ENTITY contextmenu_open_new_tab "Ubbi ci làcc wu bees">
+<!ENTITY contextmenu_open_private_tab "Ubbi ci làcc wu suturlu">
 <!ENTITY contextmenu_remove "Far">
 <!ENTITY contextmenu_add_to_launcher "Yokk ci palanteeru njëlbeen bi">
 <!ENTITY contextmenu_set_as_homepage "Def ko sa Xët wu Njëkk">
@@ -509,7 +509,7 @@
 <!ENTITY contextmenu_top_sites_edit "Soppi">
 <!ENTITY contextmenu_top_sites_pin "Kepp bii dal">
 <!ENTITY contextmenu_top_sites_unpin "Keppi bii dal">
-<!ENTITY contextmenu_add_search_engine "Yokk Seetukaay">
+<!ENTITY contextmenu_add_search_engine "Yokk ab Seetukaay">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
@@ -535,16 +535,18 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Danqale làcc yi">
+<!ENTITY pref_compact_tabs_summary2 "Nosaat làcc yi ci ñaari keno">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
 <!ENTITY page_removed "Farees na xët wi">
 
-<!ENTITY bookmark_edit_title "Soppi mandarga-xët bi">
+<!ENTITY bookmark_edit_title "Soppi mandarga-xët gi">
 <!ENTITY bookmark_edit_name "Tur">
 <!ENTITY bookmark_edit_location "Màkkaan">
 <!ENTITY bookmark_edit_keyword "Baat-caabi">
+<!ENTITY bookmark_select_folder "Tànn aw wayndare">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -565,7 +567,7 @@
 <!ENTITY button_cancel "Neenal">
 <!ENTITY button_yes "Waaw">
 <!ENTITY button_no "Déedéet">
-<!ENTITY button_clear_data "Far njoxéef">
+<!ENTITY button_clear_data "Far njoxéef yi">
 <!ENTITY button_set "Dëggal">
 <!ENTITY button_clear "Far">
 <!ENTITY button_copy "Duppi">
@@ -577,18 +579,18 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "&brandShortName; Njëlbéen">
+<!ENTITY home_title "Xët wu njëkku &brandShortName;">
 <!ENTITY home_history_title "Jaar-jaar">
-<!ENTITY home_synced_devices_smartfolder "Jumtukaay yi lonkoo">
+<!ENTITY home_synced_devices_smartfolder "Jumtukaay yi lonku">
 <!ENTITY home_synced_devices_number "&formatD; jumtukaay">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
 <!ENTITY home_synced_devices_one "1 jumtukaay">
 <!ENTITY home_history_back_to2 "Dellu ci jaar-jaar gépp">
 <!ENTITY home_clear_history_button "Far jaar-jaaru joow gi">
-<!ENTITY home_clear_history_confirm "Wóor na ne da nga bëgg a far jaar-jaar gi?">
+<!ENTITY home_clear_history_confirm "Wóor na ne da ngaa bëgg a far jaar-jaar gi?">
 <!ENTITY home_bookmarks_empty "Màndarga-xët yi nga denc ñooy feeñ fi.">
 <!ENTITY home_closed_tabs_title2 "Yees mujjee tëj">
-<!ENTITY home_last_tabs_empty "Your recent tabs show up here.">
+<!ENTITY home_last_tabs_empty "Say làcc yi mujj ñooy feeñ fi.">
 <!ENTITY home_restore_all "Ubbiwaat yépp">
 <!ENTITY home_closed_tabs_number "&formatD; làcc">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
@@ -596,11 +598,11 @@
 <!ENTITY home_most_recent_empty "Dali web yi nga mujjee ubbi ñooy feeñ fii.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "Psst: using a &formatS1;New Private Tab&formatS2; won\&apos;t save your history.">
+<!ENTITY home_most_recent_emptyhint2 "Psst: da fay jëfandikoo &formatS1;Làcc wu bees wu suturlu&formatS2; du denc say jaar-jaar.">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
-<!ENTITY home_default_empty "No content could be found for this panel.">
+<!ENTITY home_default_empty "">
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
@@ -624,8 +626,8 @@
 
 <!ENTITY pin_site_dialog_hint "Duggalal lenn looy seet">
 
-<!ENTITY filepicker_title "Tànn benn dencukaay">
-<!ENTITY filepicker_audio_title "Tànn walla aar benn riir">
+<!ENTITY filepicker_title "Tànn aw ŋara">
+<!ENTITY filepicker_audio_title "Tànn walla denc ag ndéggat">
 <!ENTITY filepicker_image_title "Tànn benn nataal walla nga duppi ko">
 <!ENTITY filepicker_video_title "Tànn walla aar benn wideyo">
 
