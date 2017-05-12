@@ -89,6 +89,7 @@
 <!ENTITY bookmark_folder_one_item "1 iayithem">
 
 
+
 <!ENTITY reader_saved_offline "Igcinwe ngaphandle kwe-intanethi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
      string is used as an action in a snackbar - it lets you
@@ -542,6 +543,7 @@
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
 <!ENTITY bookmark_edit_keyword "Igama eliphambili">
+
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
