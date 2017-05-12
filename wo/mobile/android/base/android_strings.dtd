@@ -628,11 +628,11 @@
 
 <!ENTITY filepicker_title "Tànn aw ŋara">
 <!ENTITY filepicker_audio_title "Tànn walla denc ag ndéggat">
-<!ENTITY filepicker_image_title "Tànn benn nataal walla nga duppi ko">
-<!ENTITY filepicker_video_title "Tànn walla aar benn wideyo">
+<!ENTITY filepicker_image_title "Tànn walla def ab nataal">
+<!ENTITY filepicker_video_title "Tànn walla denc ab wideo">
 
 <!-- Site identity popup -->
-<!ENTITY identity_connected_to "Yaa ngi ci">
+<!ENTITY identity_connected_to "Lonku nga ci">
 <!-- Localization note (identity_run_by) : This string appears between a
 domain name (above) and an organization name (below). E.g.
 
@@ -649,9 +649,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "Lii xëtu &brandShortName; gu wóor la">
 
 <!-- Mixed content notifications in site identity popup -->
-<!ENTITY mixed_content_blocked_all1 "&brandShortName; téye na ëmbeef gu wóoradi gi ci wii xët.">
+<!ENTITY mixed_content_blocked_all1 "&brandShortName; téye na ëmbéef gu wóoradi gi ci wii xët.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; téye na yenn ci ëmbéef yu wóoradi yi ci wii xët.">
-<!ENTITY mixed_content_display_loaded1 "Yenn ci ëmbéefi wii xët wóoruñ (yu mel ni nataal yi).">
+<!ENTITY mixed_content_display_loaded1 "Yenn ci ëmbéefi wii xët wóoruñ (yu mel ni péeñ yi).">
 <!ENTITY mixed_content_protection_disabled1 "Da nga doxadil li lay aar ci ëmbéef yu wóorul.">
 
 <!-- Tracking content notifications in site identity popup -->
@@ -662,23 +662,23 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_message_disabled2 "Xët wi man naa am ëmbéef guy topp sag njoow.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
-<!ENTITY learn_more "Learn More">
-<!ENTITY enable_protection "Enable protection">
-<!ENTITY disable_protection "Disable protection">
+<!ENTITY learn_more "Gën cee xam">
+<!ENTITY enable_protection "Doxal kaaraange gi">
+<!ENTITY disable_protection "Doxadil kaaraange gi">
 
-<!ENTITY private_data_success "Rootaan biir yi far">
-<!ENTITY private_data_fail "Am ay rootaani biir yu kenn mënul far">
+<!ENTITY private_data_success "Farees na say njoxéef">
+<!ENTITY private_data_fail "Yenn ci say njoxéef maneesuleen far">
 
-<!ENTITY bookmarkhistory_button_import "Fat">
-<!ENTITY bookmarkhistory_import_both "Fat ay mandarga xët ak jaar jaar
-dale ko ci Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Fat ay mandarga xët ak jaar jaar
-dale ko ci Android">
-<!ENTITY bookmarkhistory_import_history "Fat jaar jaar
-dale ko ci Android">
+<!ENTITY bookmarkhistory_button_import "Jëli">
+<!ENTITY bookmarkhistory_import_both "Jëleeji ay màndarga-xët aki jaar-jaar
+                                      ca Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Jëleeji ay màndarga-xët
+                                      ca Android">
+<!ENTITY bookmarkhistory_import_history "Jëleeji ay jaar-jaar
+                                      ca Android">
 <!ENTITY bookmarkhistory_import_wait "Xaaral...">
 
-<!ENTITY suggestions_prompt3 "Would you like to turn on search suggestions?">
+<!ENTITY suggestions_prompt3 "Bëgg ngaa taal tegtali ceet gi?">
 <!--  Localization note (search_bar_item_desc): When the user clicks the url bar
       and starts typing, a list of icons of search engines appears at the bottom
       of the screen. When a user clicks an icon, the entered text will be searched
@@ -690,7 +690,7 @@ dale ko ci Android">
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
-<!ENTITY suggestion_for_engine "Search &formatS1; for &formatS2;">
+<!ENTITY suggestion_for_engine "Seet &formatS1; ak &formatS2;">
 
 <!ENTITY searchable_description "Mandarga xët yi ak jaar jaar">
 
