@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Защита от проследяване">
+<!ENTITY  trackingProtection.description       "Проследяване е когато дадена компания събира информация за вас, за да създаде ваш профил и да ви показва съдържание на базата поведенческа и лична информация.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Спиране на съдържанието от проследяващите компании">
 <!ENTITY  trackingProtectionAlways.label       "Винаги">
 <!ENTITY  trackingProtectionAlways.accesskey   "В">
 <!ENTITY  trackingProtectionPrivate.label      "Само в поверителни прозорци">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Адресна лента">
 
+<!ENTITY  locbar.suggest2.label         "При въвеждане в адресната лента, подсказване с">
 <!ENTITY  locbar.history.label          "История">
 <!ENTITY  locbar.history.accesskey      "И">
 <!ENTITY  locbar.bookmarks.label        "Отметки">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Подобни търсения от стандартната търсеща машина">
 <!ENTITY  locbar.searches.accesskey     "П">
 
+<!ENTITY  suggestionSettings2.label     "Промяна настройките на подсказките от търсещите машини">
 
 <!ENTITY  acceptCookies.label           "Разрешаване на бисквитките">
 <!ENTITY  acceptCookies.accesskey       "Р">
@@ -60,8 +65,10 @@
 <!ENTITY  showCookies.label             "Показване на бисквитките…">
 <!ENTITY  showCookies.accesskey         "б">
 
+<!ENTITY  historyHeader2.pre.label         "Нека &brandShortName; да">
+<!ENTITY  historyHeader2.pre.accesskey     "д">
 <!ENTITY  historyHeader.remember.label     "Помни история">
-<!ENTITY  historyHeader.dontremember.label "Никога няма да помни история">
+<!ENTITY  historyHeader.dontremember.label "Не помни история никога">
 <!ENTITY  historyHeader.custom.label       "Използва потребителски настройки">
 <!ENTITY  historyHeader.post.label         "">
 
