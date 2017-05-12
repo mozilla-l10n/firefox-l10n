@@ -139,5 +139,9 @@
 
 <!ENTITY performanceSettingsLearnMore.label
                                          "Научете повече">
+<!ENTITY limitContentProcess.label       "Ограничение на процесите за съдържание">
+<!ENTITY limitContentProcess.description
+                                         "Повече процеси за съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
+<!ENTITY limitContentProcess.accesskey   "п">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
