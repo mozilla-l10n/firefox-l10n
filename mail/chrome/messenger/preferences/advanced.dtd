@@ -89,8 +89,8 @@
 <!ENTITY useCacheBefore.label            "Cleachd suas gu">
 <!ENTITY useCacheBefore.accesskey        "u">
 <!ENTITY useCacheAfter.label             "MB a dh'àite airson an tasgadan">
-
-
+<!ENTITY overrideSmartCacheSize.label    "Leig seachad stiùireadh fèin-obrachail an tasgadain">
+<!ENTITY overrideSmartCacheSize.accesskey "f">
 <!ENTITY clearCacheNow.label             "Falmhaich e an-dràsta">
 <!ENTITY clearCacheNow.accesskey         "c">
 <!-- Certificates -->

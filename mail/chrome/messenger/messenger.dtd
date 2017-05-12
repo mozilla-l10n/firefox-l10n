@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Faigh teachdaireachdan">
 <!ENTITY folderContextGetMessages.accesskey "g">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Cuir gach ùrachadh ’na stad">
+<!ENTITY folderContextPauseUpdates.label "Cuir na h-ùrachaidhean ’na stad">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Fosgail">
 <!ENTITY folderContextOpenInNewWindow.accesskey "o">
 <!ENTITY folderContextOpenNewTab.label "Fosgail ann an taba ùr">
