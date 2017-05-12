@@ -43,6 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
 <!ENTITY aboutNetworking.rcwn                  "Statistika RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
-
-
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Licba wužywanjow cacha">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Licba wužywanjow seśi">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Licba seśowych napšašowanjow dogromady">
