@@ -156,7 +156,7 @@
 <!ENTITY device_typenone "Түрін таңдау">
 <!-- Device Preferences -->
 
-<!ENTITY devicepreference_title "Құрылғы параметрлері">
+<!ENTITY devicepreference_title "Құрылғы баптаулары">
 <!ENTITY devicepreference_search "Іздеу параметрлері">
 <!ENTITY devicepreference_newname "Жаңа параметр атауы">
 <!ENTITY devicepreference_newtext "Параметр мәні">

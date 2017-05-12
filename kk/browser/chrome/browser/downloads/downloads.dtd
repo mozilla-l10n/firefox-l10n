@@ -59,7 +59,7 @@
 <!ENTITY cmd.retry.label                  "Қайталау">
 <!ENTITY cmd.goToDownloadPage.label       "Жүктемелер парағына өту">
 <!ENTITY cmd.goToDownloadPage.accesskey   "Ж">
-<!ENTITY cmd.copyDownloadLink.label       "Жүктеу сілтемесін көшіру">
+<!ENTITY cmd.copyDownloadLink.label       "Жүктеу сілтемесін көшіріп алу">
 <!ENTITY cmd.copyDownloadLink.accesskey   "к">
 <!ENTITY cmd.removeFromHistory.label      "Тарихтен өшіру">
 <!ENTITY cmd.removeFromHistory.accesskey  "Т">

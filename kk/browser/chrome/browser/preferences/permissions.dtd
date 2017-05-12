@@ -13,12 +13,12 @@
 <!ENTITY removeallpermissions.accesskey "р">
 <!ENTITY address.label                "Сайт адресі:">
 <!ENTITY address.accesskey            "д">
-<!ENTITY block.label                  "Қамалау">
-<!ENTITY block.accesskey              "м">
+<!ENTITY block.label                  "Блоктау">
+<!ENTITY block.accesskey              "Б">
 <!ENTITY session.label                "Тек осы сессияға рұқсат беру">
 <!ENTITY session.accesskey            "Т">
-<!ENTITY allow.label                  "Рұқсат беру">
-<!ENTITY allow.accesskey              "б">
+<!ENTITY allow.label                  "Рұқсат ету">
+<!ENTITY allow.accesskey              "е">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Бас тарту">
