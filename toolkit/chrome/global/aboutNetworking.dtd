@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Datrys">
 <!ENTITY aboutNetworking.dnsDomain             "Parth">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPau">
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "Statws RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Statws RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cyfrif storfa wedi ei ennill">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Cyfrif rhwyd wedi ei ennill">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Cyfanswm cyfrif ceisiadau rhwydwaith">
