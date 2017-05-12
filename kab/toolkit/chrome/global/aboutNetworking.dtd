@@ -45,3 +45,4 @@
 <!ENTITY aboutNetworking.rcwnStatus            "Tiddadanin RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Aseklas n tzerkatut ad ittwarebḥen">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Tazerkatut n uẓeṭṭa ad ittwarebḥen">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Aseklas uγrid n isuturen n uẓeṭṭa">
