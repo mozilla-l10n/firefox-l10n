@@ -8,7 +8,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Thoir sùil airson ùrachaidhean">
 <!ENTITY update.checkForUpdatesButton.accesskey   "c">
-
+<!ENTITY update.updateButton.label3               "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 

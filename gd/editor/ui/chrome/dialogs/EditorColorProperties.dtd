@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Dealbh a' chùlaibh:">
 <!ENTITY backgroundImage.accessKey "c">
 <!ENTITY backgroundImage.tooltip "Cleachd faidhle deilbh mar chùlaibh na duilleige agad">
-
+<!ENTITY backgroundImage.shortenedDataURI "URI dàta giorraichte (cuiridh lethbhreac an URI slàn air an stòr-bhòrd)">

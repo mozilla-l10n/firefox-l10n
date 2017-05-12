@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Tiotal:">
 <!ENTITY feedTitle.accesskey         "T">
 
-
+<!ENTITY feedLocation.label          "URL an inbhir:">
+<!ENTITY feedLocation.accesskey      "U">
 <!ENTITY feedLocation.placeholder    "Cuir URL dligheach de dh'inbhir a-steach gus a chur ris">
 <!ENTITY locationValidate.label      "Dearbhaich">
 <!ENTITY validateText.label          "Sgrùdaich an dearbhadh is faigh URL dligheach.">
@@ -18,16 +19,19 @@
 <!ENTITY feedFolder.accesskey        "S">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Thoir sùil airson artaigealan ùra gach ">
+<!ENTITY biffStart.accesskey         "T">
+<!ENTITY biffMinutes.label           "mionaidean">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "làithean">
+<!ENTITY biffDays.accesskey          "l">
+<!ENTITY recommendedUnits.label      "Tha am foillsichear a’ moladh:">
 
 <!ENTITY quickMode.label             "Seall gearr-chunntas na h-artaigil 's na luchdaich an duilleag-lìn">
 <!ENTITY quickMode.accesskey         "h">
 
-
+<!ENTITY autotagEnable.label         "Cruthaich tagaichean gu fèin-obrachail, stèidhichte air ainmean &lt;roinnean-seòrsa&gt; an inbhir">
+<!ENTITY autotagEnable.accesskey     "o">
 <!ENTITY autotagUsePrefix.label      "Cuir an ro-leasachan seo ris na tagaichean:">
 <!ENTITY autotagUsePrefix.accesskey  "r">
 <!ENTITY autoTagPrefix.placeholder   "Cuir ro-leasachan taga a-steach">
