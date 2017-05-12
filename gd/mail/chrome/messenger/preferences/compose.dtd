@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Chan eil gin">
 <!ENTITY editDirectories.label                 "Deasaich na pasganan…">
 <!ENTITY editDirectories.accesskey             "e">
-
-
-
+<!ENTITY showAsDefault.label                   "Am pasgan tòiseachaidh bunaiteach ann an uinneag leabhar nan seòladh:">
+<!ENTITY showAsDefault.accesskey               "s">
+<!ENTITY showAsDefaultLast.label               "Am pasgan a chleachd thu turas mu dheireadh">
 
 <!ENTITY sendOptionsDescription.label          "Rèitich giùlan fòrmat an teacsa">
 <!ENTITY sendOptions.label                     "Roghainnean a' chuir…">

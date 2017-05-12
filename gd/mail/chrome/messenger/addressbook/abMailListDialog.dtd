@@ -12,10 +12,11 @@
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Far-ainm liosta: ">
 <!ENTITY ListNickName.accesskey         "n">
-
-
+<!ENTITY ListDescription.label          "Tuairisgeul: ">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Cuir a-steach seòlaidhean puist-dhealain gus an cur ris an liosta-phuist:">
+<!ENTITY AddressTitle.accesskey         "u">
 <!ENTITY UpButton.label                 "Gluais suas">
 <!ENTITY DownButton.label               "Gluais sìos">
 
