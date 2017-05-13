@@ -40,3 +40,5 @@
 <!ENTITY smtpName.label "Uitgaande bediener (SMTP):">
 <!ENTITY smtpName.accesskey "U">
 <!ENTITY smtpDefaultServer.label "Gebruik verstekbediener">
+
+
