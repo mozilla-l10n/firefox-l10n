@@ -54,9 +54,9 @@
 <!ENTITY directoriesNone.label                 "Nincs">
 <!ENTITY editDirectories.label                 "Címtárak szerkesztése…">
 <!ENTITY editDirectories.accesskey             "C">
-
-
-
+<!ENTITY showAsDefault.label                   "Alapértelmezett indítási könyvtár a címjegyzék ablakban:">
+<!ENTITY showAsDefault.accesskey               "d">
+<!ENTITY showAsDefaultLast.label               "Utoljára használt könyvtár">
 
 <!ENTITY sendOptionsDescription.label          "Szövegformátum beállítása">
 <!ENTITY sendOptions.label                     "Üzenetküldési beállítások…">
