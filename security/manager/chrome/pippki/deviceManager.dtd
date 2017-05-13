@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Lehitse...">
 <!ENTITY loaddevice.browse.accesskey            "L">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 seadme draiveri laadimine">
