@@ -13,9 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 49em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 47em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "Otsingutulemused">
 <!ENTITY  paneGeneral.title             "Üldine">
+<!ENTITY  paneFilesApplications.title   "Failid ja rakendused">
+<!ENTITY  panePrivacySecurity.title     "Privaatsus ja turvalisus">
 <!ENTITY  paneContainers.title          "Konteinerkaardid">
+<!ENTITY  paneUpdates.title             "Uuendused">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+<!ENTITY  paneSync1.title          "Firefoxi konto">
 
+<!ENTITY  helpButton2.label        "&brandShortName;i abi">
 
+<!ENTITY  searchInput.label        "Otsi">
