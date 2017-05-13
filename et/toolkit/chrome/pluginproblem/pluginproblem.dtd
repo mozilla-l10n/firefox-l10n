@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Fail">
 <!ENTITY plugin.mimeTypes                                    "MIME-tüübid">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flashi turvarežiim lubatakse">
+<!ENTITY plugin.enableBlocklists.label                       "Ohtlik ja pealetükkiv Flashi sisu blokitakse">
