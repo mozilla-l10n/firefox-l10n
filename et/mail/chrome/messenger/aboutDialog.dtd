@@ -8,6 +8,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Kontrolli uuendusi">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
+<!ENTITY update.updateButton.label3               "Uuendamiseks taaskäivita &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "U">
 
 
