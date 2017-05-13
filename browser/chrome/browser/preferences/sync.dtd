@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Seadme nimi">
+<!ENTITY changeSyncDeviceName2.label "Muuda seadme nime…">
+<!ENTITY changeSyncDeviceName2.accesskey "M">
 <!ENTITY cancelChangeSyncDeviceName.label "Loobu">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "L">
 <!ENTITY saveChangeSyncDeviceName.label "Salvesta">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Muuda profiilipilti">
 <!ENTITY verifiedManage.label        "Halda kontot">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "Katkesta ühendus…">
+<!ENTITY disconnect3.accesskey       "K">
 <!ENTITY verify.label                "Kinnita e-posti aadress">
 <!ENTITY verify.accesskey            "r">
 <!ENTITY forget.label                "Unusta see e-posti aadress">
@@ -63,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Logi sisse">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
+<!ENTITY signedIn.settings.label       "Sünkroniseerimise sätted">
+<!ENTITY signedIn.settings.description "Vali &brandShortName;i poolt sünkroniseeritavad andmed.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
