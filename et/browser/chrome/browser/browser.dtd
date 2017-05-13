@@ -911,5 +911,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Laadi alla &brandShorterName;i uuendus">
 
 <!ENTITY updateManual.message "Laadi alla &brandShorterName;i värske versioon ja me aitame sul selle paigaldada.">
+<!ENTITY updateManual.whatsnew.label "Vaata, mis on uut.">
+<!ENTITY updateManual.header.message "&brandShorterName;il pole võimalik uuendada uusima versiooni peale.">
+<!ENTITY updateManual.acceptButton.label "Laadi alla &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "d">
+<!ENTITY updateManual.cancelButton.label "Mitte praegu">
+<!ENTITY updateManual.cancelButton.accesskey "M">
+<!ENTITY updateManual.panelUI.label "Laadi alla värske &brandShorterName;i versioon">
 
+<!ENTITY updateRestart.message "Pärast kiiret taaskäivitust taastab &brandShorterName; kõik sinu avatud kaardid ja aknad.">
+<!ENTITY updateRestart.header.message2 "Uuendamiseks taaskäivita &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Taaskäivita ja taasta">
+<!ENTITY updateRestart.acceptButton.accesskey "T">
+<!ENTITY updateRestart.cancelButton.label "Mitte praegu">
+<!ENTITY updateRestart.cancelButton.accesskey "M">
+<!ENTITY updateRestart.panelUI.label "Uuenduse rakendamiseks taaskäivita &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Lehe toimingud">
