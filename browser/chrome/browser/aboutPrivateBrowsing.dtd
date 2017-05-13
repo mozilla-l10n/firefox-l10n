@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " vaše:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "prenose">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "zaznamke">
-<!ENTITY aboutPrivateBrowsing.note.before                "Zasebno brskanje">
+<!ENTITY aboutPrivateBrowsing.note.before                "Zasebno brskanje ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "vas ne naredi anonimnega">
 <!ENTITY aboutPrivateBrowsing.note.after                 " na internetu. Vaš delodajalec ali ponudnik internetnih storitev lahko še vedno izvesta, katere strani ste obiskali.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "Več o ">
