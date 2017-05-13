@@ -10,8 +10,8 @@
 <!ENTITY startupBlankPage.label    "Показувати чисту сторінку">
 <!ENTITY startupPrevSession.label  "Показувати вікна і вкладки з минулого разу">
 
-<!ENTITY homepage2.label           "Початкова сторінка">
-<!ENTITY homepage2.accesskey       "П">
+<!ENTITY homepage2.label           "Домівка">
+<!ENTITY homepage2.accesskey       "м">
 <!ENTITY useCurrentPage.label      "Встановити поточну сторінку">
 <!ENTITY useCurrentPage.accesskey  "п">
 <!ENTITY useMultiple.label         "Встановити поточні сторінки">
