@@ -4,6 +4,8 @@
 
 <!ENTITY startup.label             "Startside">
 
+<!ENTITY startupPage2.label        "Når &brandShortName; starter">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Vis startside">
 <!ENTITY startupBlankPage.label    "Vis tom side">
 <!ENTITY startupPrevSession.label  "Vis vinduer og faner som ble brukt sist">

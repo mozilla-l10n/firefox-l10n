@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "B">
 <!ENTITY useSmoothScrolling.label        "Bruk jevn rulling">
 <!ENTITY useSmoothScrolling.accesskey    "u">
-<!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
-<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkUserSpelling.label         "Kontroller staving mens du skriver">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -83,12 +81,27 @@
 
 <!ENTITY updateTab.label                 "Oppdatering">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName;-oppdateringer">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Versjon ">
+<!ENTITY updateApplication.description   "Tillat &brandShortName; å">
+<!ENTITY updateAuto2.label               "Installer oppdateringer automatisk (anbefales for forbedret sikkerhet)">
 
 
 <!ENTITY useService.label                "Bruk en bakgrunnstjeneste for å installere oppdateringer">
 <!ENTITY useService.accesskey            "B">
 
+<!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorer automatisk">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 
 <!ENTITY offlineStorageNotify.label               "Fortell deg når et nettsted ber om å lagre data for frakoblet bruk">
@@ -113,3 +126,6 @@
 <!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewSecurityDevices.label       "Sikkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey   "k">
+
+<!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
+<!ENTITY allowHWAccel.accesskey          "m">
