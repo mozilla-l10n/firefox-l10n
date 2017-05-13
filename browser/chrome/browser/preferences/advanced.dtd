@@ -144,6 +144,8 @@
                                          "Tetapan prestasi yang disyorkan direka mengikut komputer anda.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "G">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ketahui selanjutnya">
 <!ENTITY limitContentProcess.label       "Had proses kandungan">
 <!ENTITY limitContentProcess.description
                                          "Proses kandungan yang lebih banyak boleh membuat &brandShortName; lebih responsif apabila menggunakan berbilang tab, tetapi turut menggunakan lebih banyak memori.">
