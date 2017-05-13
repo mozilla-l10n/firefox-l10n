@@ -23,4 +23,4 @@
 <!ENTITY  chooseHandler.label         "Telusuri…">
 <!ENTITY  chooseHandler.accesskey     "T">
 
-<!ENTITY  unknownPromptText.label     "Anda ingin menyimpan berkas ini?">
+<!ENTITY  unknownPromptText.label     "Ingin menyimpan berkas ini?">
