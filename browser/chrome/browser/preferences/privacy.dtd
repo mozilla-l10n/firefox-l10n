@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Jälitamisvastane kaitse">
+<!ENTITY  trackingProtection.description       "Jälitamiseks peetakse seda, kui ettevõtted koguvad sinu kohta infot ja kasutavad seda profileerimiseks ning sinu veebilehitsemise ja isiklike andmete põhjal sisu kuvamiseks.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Teada olevate jälitustegevusi harrastavate ettevõtete sisu kuvamine blokitakse">
 <!ENTITY  trackingProtectionAlways.label       "alati">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "ainult privaatsetes akendes">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Asukohariba">
 
+<!ENTITY  locbar.suggest2.label         "Asukohariba kasutamisel otsitakse soovitusi">
 <!ENTITY  locbar.history.label          "ajaloost">
 <!ENTITY  locbar.history.accesskey      "a">
 <!ENTITY  locbar.bookmarks.label        "järjehoidjatest">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "vaikeotsingumootori poolt pakutavate seonduvate otsingute seast">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Muuda otsingumootorite soovituste sätteid">
 
 <!ENTITY  acceptCookies.label           "Küpsised lubatakse">
 <!ENTITY  acceptCookies.accesskey       "K">
