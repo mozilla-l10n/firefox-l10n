@@ -25,6 +25,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versioon">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName;i erifunktsioonid">
+<!ENTITY aboutSupport.featureName "Nimi">
+<!ENTITY aboutSupport.featureVersion "Versioon">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Eksperimendid">
 <!ENTITY aboutSupport.experimentName "Nimi">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -64,6 +69,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "Profiilid">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Mitme protsessiga aknad">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google võti">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla asukohateenuse võti">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Ohutu režiim">
 
@@ -111,6 +119,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Kopeeri vormindamata andmed">
 
 <!ENTITY aboutSupport.sandboxTitle "Aedik">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Tagasilükatud süsteemikutsed">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "sekundit tagasi">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Protsessi tüüp">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Süsteemikutse">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Argumendid">
 
 <!ENTITY aboutSupport.safeModeTitle "Proovi ohutut režiimi">
 <!ENTITY aboutSupport.restartInSafeMode.label "Taaskäivita koos lisade keelamisega…">
