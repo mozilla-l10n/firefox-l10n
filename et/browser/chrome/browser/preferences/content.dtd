@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Fondid ja värvid">
 
+<!ENTITY  defaultFont2.label          "Vaikefont">
+<!ENTITY  defaultFont2.accesskey      "V">
+<!ENTITY  defaultSize2.label          "Suurus">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Täpsemalt…">
 <!ENTITY  advancedFonts.accesskey     "l">
