@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tabCrashed.closeTab "Isara ang Tab na ito">
+<!ENTITY tabCrashed.restoreTab "Ibalik ang Tab na Ito">
+<!ENTITY tabCrashed.restoreAll "Ibalik lahat nang nag-crash na mga Tab">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -11,4 +13,9 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.header2 "Hala! Ang iyong Tab ay nag-crash.">
 <!ENTITY tabCrashed.offerHelp "Kaya ka namin na tulungan!">
+<!ENTITY tabCrashed.requestHelp "Matutulungan mo ba kami?">
+<!ENTITY tabCrashed.requestReport "I-report ang tab na ito">
+<!ENTITY tabCrashed.emailPlaceholder "Ibigay ang iyong email address dito">
+<!ENTITY tabCrashed.emailMe "I-email ako kapag may bagong impormasyon">
