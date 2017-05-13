@@ -184,6 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Kuva kõiki järjehoidjaid">
 <!ENTITY recentBookmarks.label "Viimati järjehoidjatesse lisatud">
 <!ENTITY otherBookmarksCmd.label "Muud järjehoidjad">
+<!ENTITY mobileBookmarksCmd.label "Mobiilsed järjehoidjad">
 <!ENTITY bookmarksToolbarChevron.tooltip "Veel järjehoidjaid">
 <!ENTITY showRecentlyBookmarked.label     "Kuva viimati järjehoidjatesse lisatud linke">
 <!ENTITY showRecentlyBookmarked.accesskey "i">
@@ -212,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ava parooli salvestamise teavituspaneel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Halda pluginate kasutust">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Määra, kas soovid sellelt saidilt teavitusi saada">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Salvesta andmeid püsivalt">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Halda kaamera ja/või mikrofoni jagamist saidiga">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Halda mikrofoni jagamist saidiga">
@@ -228,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Oled sellel lehel keelanud asukohateabe kasutamise.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Oled sellel lehel keelanud andmete salvestamise.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Oled sellel lehel teavitused keelanud.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Oled sellel saidil keelanud andmete püsivalt salvestamise.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Kuva ajalugu">
 
@@ -241,6 +244,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Järjehoidjad">
 <!ENTITY bookmarksMenuButton.other.label "Muud järjehoidjad">
+<!ENTITY bookmarksMenuButton.mobile.label "Mobiilsed järjehoidjad">
 <!ENTITY viewBookmarksSidebar2.label        "Kuva järjehoidjate külgriba">
 <!ENTITY viewBookmarksToolbar.label         "Kuva järjehoidjariba">
 
