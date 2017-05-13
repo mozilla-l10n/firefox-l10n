@@ -4,12 +4,13 @@
 
 <!ENTITY loginAtStartup.label          "Új cikkek keresése indításkor">
 <!ENTITY loginAtStartup.accesskey      "e">
+<!ENTITY biffAll.label                 "Frissítések engedélyezése minden hírforráshoz">
+<!ENTITY biffAll.accesskey             "F">
 
-
-
+<!ENTITY newFeedSettings.label         "Új hírforrások alapértelmezett beállításai">
 
 <!ENTITY manageSubscriptions.label     "Feliratkozások kezelése…">
 <!ENTITY manageSubscriptions.accesskey "F">
 
 <!ENTITY feedWindowTitle.label         "Hírforrásfiók varázsló">
-
+<!ENTITY feeds.accountName             "Blogok és hírforrások">

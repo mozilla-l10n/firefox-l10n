@@ -9,7 +9,8 @@
 <!ENTITY feedTitle.label             "Cím:">
 <!ENTITY feedTitle.accesskey         "C">
 
-
+<!ENTITY feedLocation.label          "Hírforrás URL:">
+<!ENTITY feedLocation.accesskey      "H">
 <!ENTITY feedLocation.placeholder    "Adjon meg egy hozzáadandó érvényes hírforrás URL-t">
 <!ENTITY locationValidate.label      "Ellenőrzés">
 <!ENTITY validateText.label          "Ellenőrzés és érvényes URL lekérése.">
@@ -18,10 +19,12 @@
 <!ENTITY feedFolder.accesskey        "L">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
+<!ENTITY biffStart.label             "Új cikkek ellenőrzése ">
+<!ENTITY biffStart.accesskey         "k">
+<!ENTITY biffMinutes.label           "perceként">
+<!ENTITY biffMinutes.accesskey       "r">
+<!ENTITY biffDays.label              "naponta">
+<!ENTITY biffDays.accesskey          "n">
 
 
 <!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
