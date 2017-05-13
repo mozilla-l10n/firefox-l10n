@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; من العناصر">
 <!ENTITY bookmark_folder_one_item "عنصر واحد">
 <!ENTITY bookmark_parent_folder "المجلد الأب">
-
+<!ENTITY bookmark_add_folder "أضِف مجلدا جديدا">
 
 <!ENTITY reader_saved_offline "حُفظ للاستخدام دون اتصال">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "الاسم">
 <!ENTITY bookmark_edit_location "المكان">
 <!ENTITY bookmark_edit_keyword "كلمة مفتاحية">
-
+<!ENTITY bookmark_select_folder "اختر مجلدًا">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
