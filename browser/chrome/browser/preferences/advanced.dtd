@@ -39,7 +39,7 @@
 <!ENTITY telemetryLearnMore.label        "Aprender más">
 
 <!ENTITY crashReporterDesc2.label         "Los reportes de fallos ayudan a &vendorShortName; a arreglar problemas y hacer tu navegador más estable y seguro">
-<!ENTITY alwaysSubmitCrashReports.label   "">
+<!ENTITY alwaysSubmitCrashReports.label   "Permitir a &brandShortName; enviar reportes de fallos acumulados a tu nombre">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Aprender más">
 
@@ -141,7 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "Usar ajustes de rendimiento recomendados">
 <!ENTITY useRecommendedPerformanceSettings.description
-                                         "Los ajustes de rendimiento recomendados son pensados en tu computador.">
+                                         "Los ajustes de rendimiento recomendados están pensados para tu computador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
