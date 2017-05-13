@@ -25,12 +25,13 @@
 <!ENTITY biffMinutes.accesskey       "r">
 <!ENTITY biffDays.label              "naponta">
 <!ENTITY biffDays.accesskey          "n">
-
+<!ENTITY recommendedUnits.label      "Közzétevő ajánlja:">
 
 <!ENTITY quickMode.label             "A cikk összefoglalójának megjelenítése a weboldal letöltése helyett">
 <!ENTITY quickMode.accesskey         "m">
 
-
+<!ENTITY autotagEnable.label         "Címkék automatikus létrehozása a hírforrás &lt;kategória&gt; neveiből">
+<!ENTITY autotagEnable.accesskey     "a">
 <!ENTITY autotagUsePrefix.label      "Címkék előtagja:">
 <!ENTITY autotagUsePrefix.accesskey  "k">
 <!ENTITY autoTagPrefix.placeholder   "Írjon be egy címkeelőtagot">
