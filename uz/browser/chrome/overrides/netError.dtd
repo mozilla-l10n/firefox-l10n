@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Sahifani yuklashda muammo">
 <!ENTITY retry.label "Yana urinib ko‘rish">
 <!ENTITY returnToPreviousPage.label "Orqaga">
-
+<!ENTITY advanced.label "Qo‘shimcha">
 <!-- Specific error messages -->
 
 
@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Obbo.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ushbu sahifani ba’zi sabablarga ko‘ra yuklay olmadi.</p>">
 
+<!ENTITY captivePortal.title "Tarmoqda ro‘yxatdan o‘ting">
+<!ENTITY captivePortal.longDesc2 "<p>Internetdan foydalanish uchun tarmoqda ro‘yxatdan o‘tishingiz lozim.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Tarmoqda ro‘yxatdan o‘tish sahifasini oching">
 
 <!ENTITY malformedURI.title "Xato manzil">
 <!ENTITY malformedURI.longDesc "<ul> <li>Veb manzillar, odatda, quyidagicha:<strong>http://www.example.com/</strong> yoziladi</li> <li>/ belgisini to‘g‘ri yozilganligini tekshirib ko‘ring <strong>/</strong>).</li> </ul>">
@@ -106,6 +108,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/>ga ulana olmadi, chunki kompyuteringizning soati noto‘g‘ri. Shu sababli xavfsiz ulana olmayapti.</p> <p>Kompyuteringizning soati: <span id='wrongSystemTime_systemDate'/>, lekin real vaqt: <span id='wrongSystemTime_actualDate'/>. Bu muammoni hal etish uchun sana va vaqt sozlamalarini to‘g‘rilang.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/>ga ulana olmadi, chunki kompyuteringizning soati noto‘g‘ri. Shu sababli xavfsiz ulana olmayapti.</p> <p>Kompyuteringizning soati: <span id='wrongSystemTimeWithoutReference_systemDate'/>. Bu muammoni hal etish uchun sana va vaqt sozlamalarini to‘g‘rilang.</p>">
 
 <!ENTITY certerror.pagetitle1  "Xavfli ulanish">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ushbu sayt HTTP Strict Transport Security (HSTS)dan &brandShortName; faqat xavfsuz ulanganini  ko‘rsatish uchun foydalanadi. Natija sifatida ushbu sertifikat uchun istisnoni qo‘shib bo‘lmaydi.">
