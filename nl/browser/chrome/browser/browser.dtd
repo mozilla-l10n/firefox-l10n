@@ -398,6 +398,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Meer items toevoegen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
 
+<!ENTITY moreMenu.label "Meer">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Voer zoekterm of adres in">
 <!ENTITY urlbar.accesskey             "d">
