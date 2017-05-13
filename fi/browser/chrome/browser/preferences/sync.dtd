@@ -19,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Laitteen nimi">
+<!ENTITY changeSyncDeviceName2.label "Muuta laitteen nimeä…">
+<!ENTITY changeSyncDeviceName2.accesskey "M">
 <!ENTITY cancelChangeSyncDeviceName.label "Peruuta">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "P">
 <!ENTITY saveChangeSyncDeviceName.label "Tallenna">
@@ -50,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Vaihda kuva">
 <!ENTITY verifiedManage.label        "Hallinnoi tiliä">
 <!ENTITY verifiedManage.accesskey    "H">
+<!ENTITY disconnect3.label           "Katkaise yhteys…">
+<!ENTITY disconnect3.accesskey       "y">
 <!ENTITY verify.label                "Vahvista sähköpostiosoite">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Unohda sähköpostiosoite">
@@ -63,6 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Kirjaudu sisään">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
+<!ENTITY signedIn.settings.label       "Synkronointiasetukset">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
