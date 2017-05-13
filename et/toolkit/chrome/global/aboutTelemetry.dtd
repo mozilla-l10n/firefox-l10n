@@ -156,7 +156,13 @@ Ping
   MÄRKUS: Aeglase SQLi debugimine on lubatud. Allpool võidakse kuvada täielikke SQL-päringuid, aga neid ei saadeta telemeetria kaudu edasi.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Fetch function names for stacks
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Show raw stack data
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Filtreeri (stringide või /regulaaravaldistega/)
