@@ -145,7 +145,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "Встановлювати оновлення автоматично">
 <!ENTITY detail.updateManual.label            "Вимкнено">
 <!ENTITY detail.updateManual.tooltip          "Не встановлювати оновлення автоматично">
-<!ENTITY detail.home                          "Початкова сторінка">
+<!ENTITY detail.home                          "Домівка">
 <!ENTITY detail.repository                    "Профіль додатку">
 <!ENTITY detail.size                          "Розмір">
 

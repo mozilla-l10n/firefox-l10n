@@ -6,15 +6,15 @@
 
 <!ENTITY startupPage.label         "При запуску &brandShortName;:">
 <!ENTITY startupPage.accesskey     "з">
-<!ENTITY startupUserHomePage.label "Показувати початкову сторінку">
+<!ENTITY startupUserHomePage.label "Показувати домівку">
 <!ENTITY startupBlankPage.label    "Показувати чисту сторінку">
 <!ENTITY startupPrevSession.label  "Показувати вікна і вкладки з минулого разу">
 
-<!ENTITY homepage.label            "Початкова сторінка:">
-<!ENTITY homepage.accesskey        "о">
-<!ENTITY useCurrentPage.label      "Встановити поточну сторінку">
+<!ENTITY homepage.label            "Домівка:">
+<!ENTITY homepage.accesskey        "м">
+<!ENTITY useCurrentPage.label      "Використати поточну сторінку">
 <!ENTITY useCurrentPage.accesskey  "п">
-<!ENTITY useMultiple.label         "Встановити поточні сторінки">
+<!ENTITY useMultiple.label         "Використати поточні сторінки">
 <!ENTITY chooseBookmark.label      "Використати закладку…">
 <!ENTITY chooseBookmark.accesskey  "к">
 <!ENTITY restoreDefault.label      "Відновити типову">

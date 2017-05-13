@@ -36,7 +36,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "Опис">
 <!ENTITY aboutSupport.experimentActive "Активна">
 <!ENTITY aboutSupport.experimentEndDate "Дата завершення">
-<!ENTITY aboutSupport.experimentHomepage "Початкова сторінка">
+<!ENTITY aboutSupport.experimentHomepage "Домівка">
 <!ENTITY aboutSupport.experimentBranch "Гілка">
 
 <!ENTITY aboutSupport.appBasicsTitle "Інформація про програму">
