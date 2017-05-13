@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Turvalisus">
 
 <!ENTITY  warnOnAddonInstall.label        "Hoiatus, kui veebilehed üritavad paigaldada lisasid">
 <!ENTITY  warnOnAddonInstall.accesskey    "H">
@@ -23,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "Vormid ja paroolid">
 
+<!ENTITY  rememberLogins1.label          "Saitide kasutajanimed ja paroolid peetakse meeles">
+<!ENTITY  rememberLogins1.accesskey      "S">
 <!ENTITY  passwordExceptions.label      "Erandid…">
 <!ENTITY  passwordExceptions.accesskey  "r">
 
