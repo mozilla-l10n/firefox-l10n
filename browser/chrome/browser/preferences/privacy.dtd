@@ -106,7 +106,7 @@
 <!ENTITY  clearOnCloseSettings.label     "Налаштування…">
 <!ENTITY  clearOnCloseSettings.accesskey "Н">
 
-<!ENTITY  browserContainersHeader.label         "Вкладки контейнера">
+<!ENTITY  browserContainersHeader.label         "Контейнери вкладок">
 <!ENTITY  browserContainersLearnMore.label      "Докладніше">
 <!ENTITY  browserContainersEnabled.label        "Увімкнути контейнери вкладок">
 <!ENTITY  browserContainersEnabled.accesskey    "к">
