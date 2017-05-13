@@ -910,5 +910,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "M">
 <!ENTITY updateAvailable.panelUI.label "Laadi alla &brandShorterName;i uuendus">
 
+<!ENTITY updateManual.message "Laadi alla &brandShorterName;i värske versioon ja me aitame sul selle paigaldada.">
 
 
