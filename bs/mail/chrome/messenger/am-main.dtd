@@ -40,3 +40,5 @@
 <!ENTITY smtpName.label "Odlazni server (SMTP):">
 <!ENTITY smtpName.accesskey "d">
 <!ENTITY smtpDefaultServer.label "Koristi glavni server">
+
+
