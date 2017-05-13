@@ -65,6 +65,8 @@
 <!ENTITY  showCookies.label             "Näita küpsiseid…">
 <!ENTITY  showCookies.accesskey         "N">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "e">
 <!ENTITY  historyHeader.remember.label     "säilitab ajaloo">
 <!ENTITY  historyHeader.dontremember.label "ei säilita ajalugu">
 <!ENTITY  historyHeader.custom.label       "kasutab ajaloo säilitamiseks kohandatud sätteid">
