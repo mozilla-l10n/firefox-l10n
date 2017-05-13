@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Kasutatakse sujuvat kerimist">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
-<!ENTITY allowHWAccel.accesskey          "i">
 <!ENTITY checkUserSpelling.label         "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkUserSpelling.accesskey     "m">
 
@@ -83,13 +81,37 @@
 
 <!ENTITY updateTab.label                 "Uuendamine">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName;i uuendused">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Versioon ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName;i uuendused">
+<!ENTITY updateAuto2.label               "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
+<!ENTITY updateAuto2.accesskey           "U">
+<!ENTITY updateCheckChoose2.label        "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
+<!ENTITY updateCheckChoose2.accesskey    "K">
+<!ENTITY updateManual2.label             "Ära otsi värskendusi (mittesoovitatav)">
+<!ENTITY updateManual2.accesskey         "r">
 
+<!ENTITY updateHistory2.label            "Näita uuenduste ajalugu…">
+<!ENTITY updateHistory2.accesskey        "N">
 
 <!ENTITY useService.label                "Uuenduste paigaldamiseks kasutatakse taustateenust">
 <!ENTITY useService.accesskey            "d">
 
+<!ENTITY enableSearchUpdate2.label       "Otsingumootoreid uuendatakse automaatselt">
+<!ENTITY enableSearchUpdate2.accesskey   "O">
 
+<!ENTITY reports.label                   "Raportid">
 
 <!ENTITY offlineStorageNotify.label               "Hoiatatakse, kui veebileht soovib salvestada andmeid võrguta režiimis kasutamiseks">
 <!ENTITY offlineStorageNotify.accesskey           "o">
@@ -103,6 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Eemalda võrguta kasutatavad andmed">
 
 <!ENTITY certificateTab.label            "Sertifikaadid">
+<!ENTITY certPersonal2.description       "Kui server nõuab kasutaja isiklikku sertifikaati, siis">
 <!ENTITY selectCerts.auto                "valitakse üks automaatselt">
 <!ENTITY selectCerts.auto.accesskey      "v">
 <!ENTITY selectCerts.ask                 "küsitakse iga kord">
@@ -113,3 +136,19 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey   "r">
+
+<!ENTITY performance.label               "Jõudlus">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Kasutatakse soovitatud jõudluse sätteid">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Soovitatud jõudluse sätted on kohaldatud sinu arvutile.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "o">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Rohkem teavet">
+<!ENTITY limitContentProcess.label       "Sisu protsesside limiit">
+<!ENTITY limitContentProcess.description
+                                         "Rohkemate sisu protsessidega on &brandShortName; mitme kaardi kasutamisel kiirem, aga kasutab seejuures ka rohkem mälu.">
+<!ENTITY limitContentProcess.accesskey   "u">
+<!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
+<!ENTITY allowHWAccel.accesskey          "i">
