@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "teme &formatD;">
 <!ENTITY bookmark_folder_one_item "temre 1">
 <!ENTITY bookmark_parent_folder "Runngere Yummaare">
-
+<!ENTITY bookmark_add_folder "Ɓeydu runngere hesere">
 
 <!ENTITY reader_saved_offline "Danndaama e ceŋtol">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -159,6 +159,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Koko maantoranoo">
 <!ENTITY overlay_share_send_other "Neldu to kaɓirɗi goɗɗi">
 
+<!ENTITY overlay_share_open_browser_btn_label "Uddit e &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
