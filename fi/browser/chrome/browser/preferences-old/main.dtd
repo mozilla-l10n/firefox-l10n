@@ -40,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Salli &brandShortName;in ja Firefoxin olla käynnissä samaan aikaan">
 <!ENTITY useFirefoxSync.label             "Vinkki: Tämä vaatii erilliset käyttäjäprofiilit. Synkronoi profiilien tiedot Sync-palvelulla.">
-<!ENTITY getStarted.label                 "Aloita Sync-palvelun käyttö…">
+<!ENTITY getStarted.notloggedin.label     "Kirjaudu &syncBrand.shortName.label;-palveluun…">
+<!ENTITY getStarted.configured.label      "Avaa &syncBrand.shortName.label;-asetukset">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; hyödyntää useaa prosessia">
