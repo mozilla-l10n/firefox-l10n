@@ -43,6 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP адрестері">
 <!ENTITY aboutNetworking.rcwn                  "RCWN статистикасы">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN қалып-күйі">
-
-
-
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Кэшке сәтті қатынаудың саны">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Желіге қатынаудың саны">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Желілік сұранымдардың жалпы саны">
