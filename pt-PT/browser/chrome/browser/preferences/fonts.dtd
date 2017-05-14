@@ -64,7 +64,7 @@
 <!ENTITY  allowPagesToUseOwn.label                "Permitir que as páginas escolham o seu tipo de letra">
 <!ENTITY  allowPagesToUseOwn.accesskey            "P">
 
-<!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo legado">
+<!ENTITY languages.customize.Fallback2.grouplabel "Codificação de texto para conteúdo de legado">
 <!ENTITY languages.customize.Fallback2.label      "Codificação de texto de retorno:">
 <!ENTITY languages.customize.Fallback2.accesskey  "C">
 <!ENTITY languages.customize.Fallback2.desc       "Esta codificação de texto é utilizada para conteúdo de legado que falha ao declarar a sua codificação.">
