@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Wuchadny serwer (SMTP):">
 <!ENTITY smtpName.accesskey "c">
 <!ENTITY smtpDefaultServer.label "Standardny serwer wužywaś">
+
+<!ENTITY smtpEdit.label "SMTP wobźěłaś… ">
+<!ENTITY smtpEdit.accesskey "P">
