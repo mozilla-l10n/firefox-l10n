@@ -26,7 +26,7 @@
 <!ENTITY generic.longDesc "<p>Tästä ongelmasta tai virheestä ei ole saatavilla lisätietoja.</p>">
 
 <!ENTITY malformedURI.title "Virheellinen osoite">
-<!ENTITY malformedURI.longDesc "<p>Annettu osoite ei ole tunnetussa muodossa. Tarkista osoitteen muoto sijaintipalkista ja yritä uudelleen.</p>">
+<!ENTITY malformedURI.longDesc "<p>Annettu osoite ei ole tunnetussa muodossa. Tarkista osoitteen muoto osoitepalkista ja yritä uudelleen.</p>">
 
 <!ENTITY netInterrupt.title "Tiedonsiirto keskeytyi">
 <!ENTITY netInterrupt.longDesc "<p>Selain muodosti yhteyden onnistuneesti, mutta yhteys katkesi siirrettäessä tietoa. Yritä myöhemmin uudestaan.</p><ul><li>Jos muutkaan sivustot eivät toimi, tarkista tietokoneen verkkoasetukset.</li><li>Jos ongelmat jatkuvat, ota yhteyttä verkon ylläpitoon tai verkkoyhteyden palveluntarjoajaan.</li></ul>">
