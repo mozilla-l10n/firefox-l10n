@@ -94,6 +94,13 @@
  -->
 <!ENTITY updateApplication.version.pre   "Versio ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName;in päivitystapa">
+<!ENTITY updateAuto2.label               "Asenna päivitykset automaattisesti (suositellaan paremman turvallisuuden vuoksi)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Hae päivitykset, mutta anna sinun päättää asennetaanko ne">
+<!ENTITY updateCheckChoose2.accesskey    "H">
+<!ENTITY updateManual2.label             "Älä hae päivityksiä (ei suositella)">
+<!ENTITY updateManual2.accesskey         "Ä">
 
 <!ENTITY updateHistory2.label            "Näytä päivityshistoria…">
 <!ENTITY updateHistory2.accesskey        "N">
@@ -118,10 +125,11 @@
 <!ENTITY offlineAppRemove.confirm        "Poista yhteydetöntä tilaa varten tallennetut tiedot">
 
 <!ENTITY certificateTab.label            "Varmenteet">
-<!ENTITY selectCerts.auto                "Valitse sellainen automaattisesti">
-<!ENTITY selectCerts.auto.accesskey      "V">
-<!ENTITY selectCerts.ask                 "Kysy joka kerta">
-<!ENTITY selectCerts.ask.accesskey       "K">
+<!ENTITY certPersonal2.description       "Sivuston pyytäessä varmennettasi">
+<!ENTITY selectCerts.auto                "valitse sellainen automaattisesti">
+<!ENTITY selectCerts.auto.accesskey      "v">
+<!ENTITY selectCerts.ask                 "kysy joka kerta">
+<!ENTITY selectCerts.ask.accesskey       "k">
 <!ENTITY enableOCSP.label                "Vahvista varmenteiden kelpoisuus OCSP-vastaajapalvelimilta">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Näytä varmenteet">
@@ -139,5 +147,8 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "Lue lisää">
 <!ENTITY limitContentProcess.label       "Sisältöprosessien rajoitus">
+<!ENTITY limitContentProcess.description
+                                         "Useampien sisältöprosessien ansiosta &brandShortName; voi vastata nopeammin käytettäessä useita välilehtiä, mutta silloin kuluu myös enemmän muistia.">
+<!ENTITY limitContentProcess.accesskey   "p">
 <!ENTITY allowHWAccel.label              "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey          "K">
