@@ -18,7 +18,7 @@
 <!ENTITY languages.customize.active.accesskey           "I">
 <!ENTITY languages.customize.others.label               "Outros:">
 <!ENTITY languages.customize.others.accesskey           "O">
-<!ENTITY languages.customize.Fallback2.grouplabel       "Codificação de texto para conteúdo antigo">
+<!ENTITY languages.customize.Fallback2.grouplabel       "Codificação de texto para conteúdo de legado">
 <!ENTITY languages.customize.Fallback2.label            "Codificação de texto de recurso:">
 <!ENTITY languages.customize.Fallback2.accesskey        "t">
 <!ENTITY languages.customize.Fallback2.desc             "Utilizado em conteúdo antigo que falha na especificação da codificação.">
