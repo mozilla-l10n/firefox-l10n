@@ -71,7 +71,7 @@
 <!ENTITY editMenu.accesskey           "ก">
 
 <!ENTITY run.label                    "ทำงาน">
-<!ENTITY run.accesskey                "ร">
+<!ENTITY run.accesskey                "ท">
 <!ENTITY run.key                      "r">
 
 <!ENTITY inspect.label                "ตรวจสอบ">
