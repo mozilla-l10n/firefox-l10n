@@ -8,9 +8,9 @@
 <!ENTITY next.tooltip "หาตำแหน่งถัดไปของวลี">
 <!ENTITY previous.tooltip "หาตำแหน่งก่อนหน้าของวลี">
 <!ENTITY findCloseButton.tooltip "ปิดแถบค้นหา">
-<!ENTITY highlightAll.label "แต้มสีทั้งหมด">
-<!ENTITY highlightAll.accesskey "ต">
-<!ENTITY highlightAll.tooltiptext "แต้มสีผลลัพธ์ของวลีทั้งหมด">
+<!ENTITY highlightAll.label "เน้นสีทั้งหมด">
+<!ENTITY highlightAll.accesskey "น">
+<!ENTITY highlightAll.tooltiptext "เน้นสีผลลัพธ์ทั้งหมดของวลี">
 <!ENTITY caseSensitive.label "ตัวพิมพ์ใหญ่เล็กตรงกัน">
 <!ENTITY caseSensitive.accesskey "ว">
 <!ENTITY caseSensitive.tooltiptext "ค้นหาโดยคำนึงถึงตัวพิมพ์ใหญ่เล็ก">
