@@ -37,7 +37,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "j">
 <!ENTITY  locbar.openpage.label         "avatud kaartide seast">
 <!ENTITY  locbar.openpage.accesskey     "v">
-<!ENTITY  locbar.searches.label         "vaikeotsingumootori poolt pakutavate seonduvate otsingute seast">
+<!ENTITY  locbar.searches.label         "vaikeotsingumootori pakutavate seonduvate otsingute seast">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings.label      "Muuda otsingumootorite soovituste sätteid…">

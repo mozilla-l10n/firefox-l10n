@@ -15,5 +15,5 @@
 <!ENTITY     cancel.label                  "Loobu">
 <!ENTITY     cancel.accesskey              "L">
 <!ENTITY     removingDialog.title          "Saidi andmete kustutamine">
-<!ENTITY     removingSelected.description  "Saidi andmete kustutamine kustutab ka seotud küpsised ja võrguta režiimis kasutamiseks mõeldud andmed. See tegevus võib põhjustada saitidest välja logimise. Kas oled kindel, et soovid teha need muudatused?">
+<!ENTITY     removingSelected.description  "Saidi andmete kustutamine kustutab ka seotud küpsised ja võrguta režiimis kasutamiseks mõeldud andmed. See tegevus võib põhjustada saitidest väljalogimise. Kas oled kindel, et soovid teha need muudatused?">
 <!ENTITY     siteTree.label                "Järgnevad küpsised kustutatakse:">
