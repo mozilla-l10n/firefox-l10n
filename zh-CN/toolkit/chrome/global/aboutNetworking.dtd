@@ -25,10 +25,10 @@
 <!ENTITY aboutNetworking.family                "协议族">
 <!ENTITY aboutNetworking.addresses             "地址">
 <!ENTITY aboutNetworking.expires               "过期时间 (秒)">
-<!ENTITY aboutNetworking.messagesSent          "发送消息">
-<!ENTITY aboutNetworking.messagesReceived      "接收消息">
-<!ENTITY aboutNetworking.bytesSent             "发送字节">
-<!ENTITY aboutNetworking.bytesReceived         "接收字节">
+<!ENTITY aboutNetworking.messagesSent          "发出的信息数">
+<!ENTITY aboutNetworking.messagesReceived      "收到的信息数">
+<!ENTITY aboutNetworking.bytesSent             "发送字节数">
+<!ENTITY aboutNetworking.bytesReceived         "接收字节数">
 <!ENTITY aboutNetworking.logging               "日志">
 <!ENTITY aboutNetworking.logTutorial           "参见 <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP 日志</a> 了解如何使用此工具。">
 <!ENTITY aboutNetworking.currentLogFile        "当前日志文件：">
