@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Seurannan suojaus">
+<!ENTITY  trackingProtection.description       "Seuranta on sitä, kun yritykset keräävät tietoja sinusta luodakseen profiilin ja näyttääkseen sisältöä selaus- ja henkilötietojesi perusteella.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Estä tunnetusti liikkeitäsi seuraavia yrityksiä näyttämästä sisältöä">
 <!ENTITY  trackingProtectionAlways.label       "Aina">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Vain yksityisen selaamisen ikkunoissa">
@@ -30,15 +32,17 @@
 
 <!ENTITY  locationBar.label             "Osoitepalkki">
 
-<!ENTITY  locbar.history.label          "Sivuhistoriasta">
-<!ENTITY  locbar.history.accesskey      "S">
-<!ENTITY  locbar.bookmarks.label        "Kirjanmerkeistä">
-<!ENTITY  locbar.bookmarks.accesskey    "K">
-<!ENTITY  locbar.openpage.label         "Avoimista välilehdistä">
-<!ENTITY  locbar.openpage.accesskey     "A">
+<!ENTITY  locbar.suggest2.label         "Ehdota osoitepalkissa sivuja">
+<!ENTITY  locbar.history.label          "sivuhistoriasta">
+<!ENTITY  locbar.history.accesskey      "s">
+<!ENTITY  locbar.bookmarks.label        "kirjanmerkeistä">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.openpage.label         "avoimista välilehdistä">
+<!ENTITY  locbar.openpage.accesskey     "a">
 <!ENTITY  locbar.searches.label         "Vastaavia hakuja oletushakupalvelusta">
 <!ENTITY  locbar.searches.accesskey     "o">
 
+<!ENTITY  suggestionSettings2.label     "Muuta hakukoneiden ehdotusten asetuksia">
 
 <!ENTITY  acceptCookies.label           "Sivustot saavat asettaa evästeitä">
 <!ENTITY  acceptCookies.accesskey       "v">
