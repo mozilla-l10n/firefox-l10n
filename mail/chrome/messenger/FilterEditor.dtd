@@ -49,7 +49,7 @@
 <!ENTITY deleteFromPOP.label "POP серверінен өшіру">
 <!ENTITY fetchFromPOP.label "POP серверінен алу">
 <!ENTITY ignoreThread.label "Ілеспелерді елемеу">
-
+<!ENTITY ignoreSubthread.label "Ілеспелерді елемеу">
 
 <!ENTITY stopExecution.label "Сүзгі орындалуын тоқтату">
 
