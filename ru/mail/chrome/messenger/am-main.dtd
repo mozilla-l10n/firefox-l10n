@@ -17,7 +17,7 @@
 <!ENTITY replyTo.accesskey "д">
 <!ENTITY replyTo.placeholder "Получатели будут отвечать по этому адресу">
 <!ENTITY organization.label "Организация:">
-<!ENTITY organization.accesskey "О">
+<!ENTITY organization.accesskey "я">
 <!ENTITY signatureText.label "Текст подписи:">
 <!ENTITY signatureText.accesskey "т">
 <!ENTITY signatureHtml.label "Использовать HTML (например &lt;b&gt;жирный&lt;/b&gt;)">
@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Сервер исходящей почты (SMTP)">
 <!ENTITY smtpName.accesskey "и">
 <!ENTITY smtpDefaultServer.label "Использовать сервер по умолчанию">
+
+<!ENTITY smtpEdit.label "Изменить SMTP…">
+<!ENTITY smtpEdit.accesskey "м">
