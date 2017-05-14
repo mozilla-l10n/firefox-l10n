@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Διακομιστής εξερχομένων (SMTP):">
 <!ENTITY smtpName.accesskey "χ">
 <!ENTITY smtpDefaultServer.label "Χρήση προεπιλεγμένου διακομιστή">
+
+<!ENTITY smtpEdit.label "Επεξεργασία SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
