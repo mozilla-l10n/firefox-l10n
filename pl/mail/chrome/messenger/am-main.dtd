@@ -36,3 +36,6 @@
 <!ENTITY smtpName.label "Serwer poczty wychodzącej (SMTP):">
 <!ENTITY smtpName.accesskey "r">
 <!ENTITY smtpDefaultServer.label "Użyj domyślnego serwera">
+
+<!ENTITY smtpEdit.label "Edytuj SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
