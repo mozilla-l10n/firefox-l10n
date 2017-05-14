@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from am-main.xul -->
 
+<!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "帐号设置">
 <!ENTITY accountName.label "帐户名称:">
@@ -34,9 +34,11 @@
 
 <!ENTITY manageIdentities.label "管理标识…">
 <!ENTITY manageIdentities.accesskey "M">
-<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
+<!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "发送服务器 (SMTP)：">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">
 
+<!ENTITY smtpEdit.label "编辑 SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
