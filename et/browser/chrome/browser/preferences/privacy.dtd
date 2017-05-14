@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Jälitamisvastane kaitse">
 <!ENTITY  trackingProtection.description       "Jälitamiseks peetakse seda, kui ettevõtted koguvad sinu kohta infot ja kasutavad seda profileerimiseks ning sinu veebilehitsemise ja isiklike andmete põhjal sisu kuvamiseks.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Teada olevate jälitustegevusi harrastavate ettevõtete sisu kuvamine blokitakse">
+<!ENTITY  trackingProtection.radioGroupLabel   "Teadaolevate jälitustegevusi harrastavate ettevõtete sisu kuvamine blokitakse">
 <!ENTITY  trackingProtectionAlways.label       "alati">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "ainult privaatsetes akendes">
@@ -39,7 +39,7 @@
 <!ENTITY  locbar.bookmarks.accesskey    "j">
 <!ENTITY  locbar.openpage.label         "avatud kaartide seast">
 <!ENTITY  locbar.openpage.accesskey     "v">
-<!ENTITY  locbar.searches.label         "vaikeotsingumootori poolt pakutavate seonduvate otsingute seast">
+<!ENTITY  locbar.searches.label         "vaikeotsingumootori pakutavate seonduvate otsingute seast">
 <!ENTITY  locbar.searches.accesskey     "d">
 
 <!ENTITY  suggestionSettings2.label     "Muuda otsingumootorite soovituste sätteid">
