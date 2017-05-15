@@ -396,6 +396,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Lisää toimintoja…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "t">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+<!ENTITY moreMenu.label "Lisää komentoja">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Kirjoita osoite tai hakutermi">
 <!ENTITY urlbar.accesskey             "d">
