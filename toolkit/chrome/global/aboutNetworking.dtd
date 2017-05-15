@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Определяне">
 <!ENTITY aboutNetworking.dnsDomain             "Домейн">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-та">
+<!ENTITY aboutNetworking.rcwn                  "Статистика на RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Състояние на RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Спечелени от кеша">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Спечелени от мрежата">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Общ брой мрежови заявки">
