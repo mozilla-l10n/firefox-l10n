@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և համօգտագործել տվյալները &vendorShortName;-ի համար">
 <!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">
 <!ENTITY enableHealthReport.accesskey    "Զ">
-<!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
+
 
 <!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
 <!ENTITY enableTelemetryData.label       "Տարածեք լրացուցիչ տվյալներ (օր.՝ Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Իմանալ ավելին">
+
 
 <!ENTITY crashReporterDesc2.label         "Վթարի զեկույցները օգնում են &vendorShortName;-ին ուղղել խնդիրները և դարձնել դիտարկիչը ավելի կայուն և անվտանգ:">
 <!ENTITY alwaysSubmitCrashReports.label   "Թույլատրել &brandShortName;-ին ուղարկել վթարների պահված զեկույցները առանց ձեր գիտության">
 <!ENTITY alwaysSubmitCrashReports.accesskey "վ">
-<!ENTITY crashReporterLearnMore.label     "Իմանալ ավելին">
+
 
 <!ENTITY networkTab.label                "Ցանցը">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "ա">
 <!ENTITY siteDataSettings.label          "Կարգավորումներ...">
 <!ENTITY siteDataSettings.accesskey      "վ">
-<!ENTITY siteDataLearnMoreLink.label     "Իմանալ ավելին">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
