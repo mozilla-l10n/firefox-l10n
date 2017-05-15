@@ -25,7 +25,7 @@
 <!ENTITY biffMinutes.accesskey       "د">
 <!ENTITY biffDays.label              "أيّام">
 <!ENTITY biffDays.accesskey          "ي">
-
+<!ENTITY recommendedUnits.label      "يستحسن الناشر:">
 
 <!ENTITY quickMode.label             "اعرض ملخص المقالة عوضا عن تحميل صفحة الوِب">
 <!ENTITY quickMode.accesskey         "ص">

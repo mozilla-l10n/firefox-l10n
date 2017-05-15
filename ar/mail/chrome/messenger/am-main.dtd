@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "خادوم الصّادر (SMTP):‏">
 <!ENTITY smtpName.accesskey "ص">
 <!ENTITY smtpDefaultServer.label "استخدم الخادوم المبدئي">
+
+<!ENTITY smtpEdit.label "حرر SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
