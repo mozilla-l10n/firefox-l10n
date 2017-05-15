@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța browserului și împărtășește date cu &vendorShortName; privind stabilitatea browserului">
 <!ENTITY enableHealthReport.label        "Activează raportul de stare &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Află mai multe">
+
 
 <!ENTITY telemetryDesc.label             "Împărtășește date privind performanța, consumul, hardware-ul și personalizările browserului cu &vendorShortName; pentru a ne ajuta să facem &brandShortName; mai bun">
 <!ENTITY enableTelemetryData.label       "Împărtășește date suplimentare (de ex., Telemetrie)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Află mai multe">
+
 
 <!ENTITY crashReporterDesc2.label         "Rapoartele de defecțiuni ajută &vendorShortName; sa rezolve problemele și să facă browserul mai stabil și mai sigur">
 <!ENTITY alwaysSubmitCrashReports.label   "Permite &brandShortName; să trimită în numele tău rapoarte de defecțiuni înregistrate în jurnal">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Află mai multe">
+
 
 <!ENTITY networkTab.label                "Rețea">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Setări…">
 <!ENTITY siteDataSettings.accesskey      "e">
-<!ENTITY siteDataLearnMoreLink.label     "Află mai multe">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
