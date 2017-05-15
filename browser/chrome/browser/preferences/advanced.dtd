@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label        "Utiliser le défilement doux">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY checkUserSpelling.label         "Vérifier l’orthographe lors de la frappe">
+<!ENTITY checkUserSpelling.label         "Vérifier l’orthographe pendant la saisie">
 <!ENTITY checkUserSpelling.accesskey     "V">
 
 <!ENTITY dataChoicesTab.label            "Données collectées">
