@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Tallózás…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 eszközillesztő betöltése">
