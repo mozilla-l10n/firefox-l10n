@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Ɛboa ma wo te wo brawsa adwumayɛ ase san kyɛ data ne &vendorShortName; ɛfa wo brawsa apowmuden ho">
 <!ENTITY enableHealthReport.label        "&brandShortName; Apowmuden Amandebɔ">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Sua bio ka ho">
+
 
 <!ENTITY telemetryDesc.label             "Ɛkyɛ wo mbɔdenbɔ, dwumadi, haadwɛɛ ne ankorankor-nhyehyɛe data a ɛfa wo brawsa ho ne &vendorShortName; sɛnea ɛbɛboa ama yɛn ayɛ &brandShortName; papa">
 
 
-<!ENTITY telemetryLearnMore.label        "Sua bio ka ho">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Sua bio ka ho">
+
+
 
 <!ENTITY networkTab.label                "Nɛtwɛɛke">
 
