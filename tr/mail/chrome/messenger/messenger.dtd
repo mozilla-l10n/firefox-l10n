@@ -498,6 +498,7 @@
 <!ENTITY devtoolsMenu.label "Geliştirici Araçları">
 <!ENTITY devtoolsMenu.accesskey "e">
 <!ENTITY devToolboxCmd.label "Geliştirici Araç Kutusu">
+<!ENTITY devToolboxCmd.commandkey "i">
 <!ENTITY addonDebugCmd.label "Eklenti hata ayıklayıcısı">
 <!ENTITY addonDebugCmd.accesskey "E">
 <!ENTITY tabsDebugCmd.label "İçerik çerçevesi hata ayıklayıcısı">
