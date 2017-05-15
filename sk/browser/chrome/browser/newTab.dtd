@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "NASTAVENIA NOVEJ KARTY">
 <!ENTITY newtab.customize.cog.learn "Ďalšie informácie o Novej karte">
 <!ENTITY newtab.customize.title "Prispôsobte si svoju stránku Nová karta">
-<!ENTITY newtab.customize.suggested "Zobrazovať návrhy a moje top stránky">
-<!ENTITY newtab.customize.topsites "Zobrazovať moje top stránky">
 <!ENTITY newtab.customize.blank2 "Zobrazovať prázdnu stránku">
 <!ENTITY newtab.undo.removedLabel "Náhľad bol odstránený">
 <!ENTITY newtab.undo.undoButton "Vrátiť späť">
