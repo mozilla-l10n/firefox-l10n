@@ -11,11 +11,11 @@
 
 
 <!ENTITY newButton.label            "Novo">
-<!ENTITY newButton.tooltip          "Cria e anexa uma nova folha de estilo ao documento">
+<!ENTITY newButton.tooltip          "Criar e anexar uma nova folha de estilo ao documento">
 <!ENTITY newButton.accesskey        "N">
 
 <!ENTITY importButton.label         "Importar…">
-<!ENTITY importButton.tooltip       "Importa e anexa uma nova folha de estilo para o documento">
+<!ENTITY importButton.tooltip       "Importar e anexar uma folha de estilo existente ao documento">
 <!ENTITY importButton.accesskey     "I">
 
 <!ENTITY visibilityToggle.tooltip   "Alternar visibilidade da folha de estilo">
