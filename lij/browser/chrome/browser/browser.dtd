@@ -398,6 +398,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Azonzi atri elementi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+<!ENTITY moreMenu.label "Ciù">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Scrivi 'n indirisso ò iniçia 'na riçerca">
 <!ENTITY urlbar.accesskey             "S">
@@ -920,9 +925,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Scarega 'na còpia neuva de &brandShorterName;">
 
 <!ENTITY updateRestart.message "Dòppo ina avertua rapida, o &brandShorterName; o repigiâ tutti i teu feuggi e barcoin averti.">
+<!ENTITY updateRestart.header.message2 "Arvi torna pe agiornâ &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Arvi torna e Repiggia">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Oua No">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Arvi torna &brandShorterName; pe conpletâ l'agiornamento">
 
+<!ENTITY pageActionButton.tooltip "Pagina açioin">
