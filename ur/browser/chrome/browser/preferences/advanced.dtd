@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے اور &vendorShortName; کے ساتھ آپ کے براؤزر کی تندرستی کے کوائف شیئر کرتا ہے">
 <!ENTITY enableHealthReport.label        "&brandShortName; تندرستی رپورٹ اہل بنائیں">
 <!ENTITY enableHealthReport.accesskey    "ر">
-<!ENTITY healthReportLearnMore.label     "اور سیکھیں">
+
 
 <!ENTITY telemetryDesc.label             "&brandShortName; کو بہتر بنانے میں مدد دینے کے لیے آپ کے براؤزر کے سرانجام دہی، استعمال، ہارڈ ویئر اور تخصیص کاری کوائف &vendorShortName; کو بھیجتا ہے">
 
 
-<!ENTITY telemetryLearnMore.label        "اور سیکھیں">
+
 
 <!ENTITY crashReporterDesc2.label         "تباہ کاری کی رپورٹ &vendorShortName; میں مدد کرتی ھے۔ اور آپ کے براؤزر کو زیادہ مستحکم اور محفوظ بناتی ھے">
 <!ENTITY alwaysSubmitCrashReports.label   "آپ کی طرف سے &brandShortName; کو روکے ہوئے ناکامی کی اطلاع بھیجنے کی اجازت دے۔">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "اور سیکھیں">
+
 
 <!ENTITY networkTab.label                "نیٹ ورک">
 
