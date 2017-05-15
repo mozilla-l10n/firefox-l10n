@@ -401,6 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Wěcej">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Pytaś abo adresu zapódaś">
 <!ENTITY urlbar.accesskey             "d">
