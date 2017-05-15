@@ -29,7 +29,7 @@
 <!ENTITY aboutNetworking.messagesReceived      "Alınan mesajlar">
 <!ENTITY aboutNetworking.bytesSent             "Gönderilen bayt">
 <!ENTITY aboutNetworking.bytesReceived         "Alınan bayt">
-<!ENTITY aboutNetworking.logging               "Log kaydı">
+<!ENTITY aboutNetworking.logging               "Log Kaydı">
 <!ENTITY aboutNetworking.logTutorial           "Bu aracı nasıl kullanabileceğinizi öğrenmek için <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> sayfasına bakın.">
 <!ENTITY aboutNetworking.currentLogFile        "Geçerli log dosyası:">
 <!ENTITY aboutNetworking.currentLogModules     "Geçerli log modülleri:">
@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Çözümle">
 <!ENTITY aboutNetworking.dnsDomain             "Alan adı">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP'ler">
+<!ENTITY aboutNetworking.rcwn                  "RCWN İstatistikleri">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN durumu">
