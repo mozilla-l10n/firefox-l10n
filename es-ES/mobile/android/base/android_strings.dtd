@@ -61,6 +61,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
 <!ENTITY bookmark_parent_folder "Carpeta padre">
+<!ENTITY bookmark_add_folder "Añadir carpeta nueva">
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!ENTITY reader_switch_to_bookmarks "Cambiar">
 <!ENTITY history_today_section "Hoy">
@@ -343,6 +344,7 @@
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
+<!ENTITY bookmark_select_folder "Seleccionar carpeta">
 <!ENTITY site_settings_title3 "Configuración del sitio">
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
