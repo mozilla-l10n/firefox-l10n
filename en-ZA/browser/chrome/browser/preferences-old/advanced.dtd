@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Helps you understand your browser performance and shares data with &vendorShortName; about your browser health">
 <!ENTITY enableHealthReport.label        "Enable &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Learn More">
+
 
 <!ENTITY telemetryDesc.label             "Shares performance, usage, hardware and customisation data about your browser with &vendorShortName; to help us make &brandShortName; better">
 
 
-<!ENTITY telemetryLearnMore.label        "Learn More">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Learn More">
+
+
 
 <!ENTITY networkTab.label                "Network">
 
