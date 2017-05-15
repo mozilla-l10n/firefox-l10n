@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "अहाँक ब्राउज़र प्रदर्शन केँ समझाबैमे मदत करैछ आओर &vendorShortName; क संग अहाँक ब्राउज़रक स्वास्थ्य संबंधी आँकड़ा साझा करैत अछि">
 <!ENTITY enableHealthReport.label        "&brandShortName; स्थास्थ्य रिपोर्ट सक्रिय करू (R)">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "आओर जानू">
+
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; क संग &brandShortName; केँ बेहतर बनाबैक लेल प्रदर्शन, प्रयोग, हार्डवेयर आओर पसंदीदाकरण आँकड़े केँ अपन ब्राउज़रक साथ साझा करैत अछि">
 
 
-<!ENTITY telemetryLearnMore.label        "आओर जानू">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "आओर जानू">
+
+
 
 <!ENTITY networkTab.label                "संजाल">
 
