@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Pomaže vam shvatiti performanse vašeg preglednika, te šalje podatke kako bi &vendorShortName; bila upoznata o zdravlju vašeg preglednika">
 <!ENTITY enableHealthReport.label        "Omogući &brandShortName; izvještaj zdravlja">
 <!ENTITY enableHealthReport.accesskey    "z">
-<!ENTITY healthReportLearnMore.label     "Saznajte više">
+
 
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, korištenju hardveru i prilagodbama vašeg preglednika, kako bi &vendorShortName; mogla unaprijediti &brandShortName;">
 
 
-<!ENTITY telemetryLearnMore.label        "Saznajte više">
+
 
 <!ENTITY crashReporterDesc2.label         "Izvještaji o rušenju pomažu &vendorShortName; da ispravi probleme i učini vaš preglednik stabilnijim i sigurnijim">
 <!ENTITY alwaysSubmitCrashReports.label   "Dopusti da &brandShortName; šalje izvještaje o rušenju u tvoje ime">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Saznajte više">
+
 
 <!ENTITY networkTab.label                "Mreža">
 
