@@ -894,7 +894,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "删除近期的 <html:strong>Cookie</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "删除近期的<html:strong>历史记录</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "关闭所有的<html:strong>标签页</html:strong>和<html:strong>窗口</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "打开一个新的窗口">
+<!ENTITY panicButton.view.openNewWindow           "新开一个干净的窗口">
 
 <!ENTITY panicButton.view.undoWarning             "此操作无法撤销。">
 <!ENTITY panicButton.view.forgetButton            "抹去吧！">
