@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; موارد">
 <!ENTITY bookmark_folder_one_item "۱ مورد">
-
-
+<!ENTITY bookmark_parent_folder "پوشهٔ والد">
+<!ENTITY bookmark_add_folder "اضافه کردن پوشه جدید">
 
 <!ENTITY reader_saved_offline "ذخیره به صورت آفلاین">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "نام">
 <!ENTITY bookmark_edit_location "مکان">
 <!ENTITY bookmark_edit_keyword "کلیدواژه">
-
+<!ENTITY bookmark_select_folder "انتخاب پوشه">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
