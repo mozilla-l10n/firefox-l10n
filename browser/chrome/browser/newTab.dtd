@@ -4,13 +4,11 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Fitxa berria">
-<!ENTITY newtab.customize.classic "Erakutsi zure gune erabilienak">
+
 <!ENTITY newtab.customize.cog.enhanced "Sartu iradokitako guneak">
 <!ENTITY newtab.customize.cog.title2 "FITXA BERRIAREN KONTROLAK">
 <!ENTITY newtab.customize.cog.learn "Fitxa berriei buruzko argibide gehiago">
 <!ENTITY newtab.customize.title "Pertsonalizatu fitxa berriaren orria">
-<!ENTITY newtab.customize.suggested "Erakutsi gomendatutako guneak eta zure gune erabilienak">
-<!ENTITY newtab.customize.topsites "Erakutsi zure gune erabilienak">
 <!ENTITY newtab.customize.blank2 "Erakutsi orri hutsa">
 <!ENTITY newtab.undo.removedLabel "Koadro txikia kenduta.">
 <!ENTITY newtab.undo.undoButton "Desegin.">
