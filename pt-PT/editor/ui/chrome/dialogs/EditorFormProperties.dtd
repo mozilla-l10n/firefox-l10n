@@ -14,7 +14,7 @@
 <!ENTITY FormMethod.accesskey "M">
 <!ENTITY FormEncType.label "Codificação:">
 <!ENTITY FormEncType.accesskey "C">
-<!ENTITY FormTarget.label "Moldura de destino:">
+<!ENTITY FormTarget.label "Frame de destino">
 <!ENTITY FormTarget.accesskey "t">
 
 <!ENTITY RemoveForm.label "Remover formulário">
