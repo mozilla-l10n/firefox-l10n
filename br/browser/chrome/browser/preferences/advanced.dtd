@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Skoazellañ a ra ac'hanoc'h kompren digonusted ho merdeer ha rannañ roadennoù a-fet yec'hed ho merdeer gant &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Gweredekaat danevell yec'hed &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "y">
-<!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
+
 
 <!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Rannañ roadennoù ouzhpenn (d.l.e. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
+
 
 <!ENTITY crashReporterDesc2.label         "A drugarez d'an danevelloù sac'hadenn eo gouest &vendorShortName; da gempenn kudennoù ha da lakaat da vezañ stabiloc'h ha suroc'h ho merdeer.">
 <!ENTITY alwaysSubmitCrashReports.label   "Aotren &brandShortName; da gas danevelloù sac'hadennoù enrollet evidoc'h">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Gouzout hiroc'h">
+
 
 <!ENTITY networkTab.label                "Rouedad">
 
