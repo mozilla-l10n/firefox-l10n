@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "ახალი ჩანართის სამართავი ელემენტები">
 <!ENTITY newtab.customize.cog.learn "გაიგეთ ახალი ჩანართის შესახებ">
 <!ENTITY newtab.customize.title "მოირგეთ ახალი ჩანართის გვერდი">
-<!ENTITY newtab.customize.suggested "შემოთავაზებული და პოპულარული საიტების ჩვენება">
-<!ENTITY newtab.customize.topsites "პოპულარული საიტების ჩვენება">
 <!ENTITY newtab.customize.blank2 "სუფთა გვერდის ჩვენება">
 <!ENTITY newtab.undo.removedLabel "ესკიზი წაიშალა.">
 <!ENTITY newtab.undo.undoButton "მოქმედების დაბრუნება.">
