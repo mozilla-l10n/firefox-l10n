@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "E go thuša go kwešiša tsela yeo praosara ya gago e šomago ka yona le go abelana tsebišo le &vendorShortName; ka ga boemo bja tša maphelo bja praosara ya gago">
 <!ENTITY enableHealthReport.label        "Dumelela pego ya tša maphelo ya &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "e">
-<!ENTITY healthReportLearnMore.label     "Ithute ka mo go oketšegilego">
+
 
 <!ENTITY telemetryDesc.label             "E abelana tsela ya go šoma, tirišo, tsebišo ya hatewere le ya tlwaelantšo ka ga praosara ya gago le &vendorShortName; go thuša go dira gore &brandShortName; e be kaone">
 
 
-<!ENTITY telemetryLearnMore.label        "Ithute ka mo go oketšegilego">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Ithute ka mo go oketšegilego">
+
+
 
 <!ENTITY networkTab.label                "Neteweke">
 
