@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "तपाईँलाई तपाईँको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईँको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईँको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; सँग बाँड्दछ ।">
 <!ENTITY enableHealthReport.label        " &brandShortName; को स्वास्थ्य रिपोर्ट सक्षम पार्नुहोस्">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "अझ जान्नुहोस्">
+
 
 <!ENTITY telemetryDesc.label             "हामीलाई &brandShortName; राम्रो बनाउनका निम्ति; तपाईँको ब्राउजरसँग सम्बन्धित प्रदर्शन, उपयोग, हार्डवेयर र अनुकुलन डाटा लाई &vendorShortName; सँग बाँड्दछ">
 
 
-<!ENTITY telemetryLearnMore.label        "अझ जान्नुहोस्">
+
 
 <!ENTITY crashReporterDesc2.label         "क्रयास् रिपोटले &vendorShortName; लाई समस्या समाधान गर्न मद्दत गर्छ र तपाईँको ब्राउजरलाई स्थिर र सुरक्षित बनाउँछ">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; लाई तपाईँको तर्फबाट ब्याकलग क्रयास् रिपोट पठाउन अनुमति दिनुहोस्">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "अझ जान्नुहोस्">
+
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
