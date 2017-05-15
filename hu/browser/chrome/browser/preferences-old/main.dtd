@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "A &brandShortName; és a Firefox futhat egyszerre">
 <!ENTITY useFirefoxSync.label             "Tipp: Ez külön profilokat használ. A Sync segítségével adatokat oszthat meg közöttük.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Jelentkezzen be a &syncBrand.shortName.label;be…">
+<!ENTITY getStarted.configured.label      "A &syncBrand.shortName.label; beállításainak megnyitása">
 
 <!ENTITY e10sEnabled.label                "Párhuzamosított &brandShortName; engedélyezése">
