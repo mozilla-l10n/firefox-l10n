@@ -34,3 +34,5 @@
 <!ENTITY smtpName.label "Servidor de salida (SMTP):">
 <!ENTITY smtpName.accesskey "v">
 <!ENTITY smtpDefaultServer.label "Usar servidor predeterminado">
+<!ENTITY smtpEdit.label "Editar SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
