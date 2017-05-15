@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "UUDEN VÄLILEHDEN ASETUKSET">
 <!ENTITY newtab.customize.cog.learn "Lue lisää Uusi välilehti -sivusta">
 <!ENTITY newtab.customize.title "Muokkaa Uusi välilehti -sivua">
-<!ENTITY newtab.customize.suggested "Näytä useimmin vieraillut ja ehdotetut sivustot">
-<!ENTITY newtab.customize.topsites "Näytä useimmin vieraillut sivustot">
 <!ENTITY newtab.customize.blank2 "Näytä tyhjä sivu">
 <!ENTITY newtab.undo.removedLabel "Välilehti poistettiin.">
 <!ENTITY newtab.undo.undoButton "Kumoa.">
