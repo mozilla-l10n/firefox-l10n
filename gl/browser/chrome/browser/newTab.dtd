@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "NOVOS CONTROIS DE LAPELAS">
 <!ENTITY newtab.customize.cog.learn "Máis información sobre nova lapela">
 <!ENTITY newtab.customize.title "Personalice a páxina de Nova lapela">
-<!ENTITY newtab.customize.suggested "Amosar sitios suxeridos e os seus favoritos">
-<!ENTITY newtab.customize.topsites "Amosar os seus sitios favoritos">
 <!ENTITY newtab.customize.blank2 "Amosar páxina en branco">
 <!ENTITY newtab.undo.removedLabel "Retirouse a miniatura.">
 <!ENTITY newtab.undo.undoButton "Desfacer.">
