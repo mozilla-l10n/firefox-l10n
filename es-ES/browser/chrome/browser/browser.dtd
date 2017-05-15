@@ -291,6 +291,7 @@
 <!ENTITY customizeMenu.removeFromMenu.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Añadir más elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY moreMenu.label "Más">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey "d">
