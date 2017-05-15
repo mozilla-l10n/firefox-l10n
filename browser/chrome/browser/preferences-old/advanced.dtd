@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Ikusiza ukuthi uqonde ukusebenza kwesibuki sakho futhi yabela idatha ne-&vendorShortName; mayelana nokuphila kwesibuki sakho">
 <!ENTITY enableHealthReport.label        "Nika amandla Umbiko wezempilo we-&brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "e">
-<!ENTITY healthReportLearnMore.label     "Funda okuningi">
+
 
 <!ENTITY telemetryDesc.label             "Yabelana ngokusebenza, ukusetshenziswa, ingxenyekazi nedatha yokwenza ngezifiso mayelana nesibukisi sakho ne-&vendorShortName; ukusisiza ukwenza i-&brandShortName; ibengcono">
 
 
-<!ENTITY telemetryLearnMore.label        "Funda okuningi">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Funda okuningi">
+
+
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
