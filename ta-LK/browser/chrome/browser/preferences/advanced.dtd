@@ -31,15 +31,15 @@
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ளவும் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; உடன் தரவைப் பகிர்ந்துகொள்ளவும் உதவுகிறது.">
 <!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை இயல்புபடுத்தவும்">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "மேலும் அறிய">
 
 
 
-<!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
+
+
+
 
 <!ENTITY networkTab.label                "வலையமைப்பு">
 
