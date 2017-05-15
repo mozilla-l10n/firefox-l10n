@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "به شما در درک عملکرد مرورگرتان یاری می‌رساند و اطلاعاتی را در مورد سلامتی مرورگر شما با&vendorShortName; به اشتراک می‌گذارد.">
 <!ENTITY enableHealthReport.label        "فعال‌کردن گزارش سلامتی &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "گ">
-
+<!ENTITY healthReportLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY telemetryDesc.label             "به اشتراک‌گذاری کارایی، کاربرد، سخت‌افزار و اطلاعات سفارشی‌سازی در مورد مرورگر شما با &vendorShortName; به ما کمک می کند تا &brandShortName; بهتری داشته باشیم">
 <!ENTITY enableTelemetryData.label       "به‌ اشتراک‌گذاری اطلاعات اضافی (به عنوان مثال: دورسنجی)">
 <!ENTITY enableTelemetryData.accesskey   "د">
-
+<!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
 <!ENTITY crashReporterDesc2.label         "گزارش‌های فروپاشی به &vendorShortName; کمک می‌کند تا مشکلات را برطرف و مرورگر شما را پایدارتر و امن‌تر کند">
 <!ENTITY alwaysSubmitCrashReports.label   "اجازه به &brandShortName; برای ارسال وقایع ثبت شدهٔ گزارش‌های فروپاشی از طرف شما">
 <!ENTITY alwaysSubmitCrashReports.accesskey "و">
-
+<!ENTITY crashReporterLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "پ">
 <!ENTITY siteDataSettings.label          "تنظیمات…">
 <!ENTITY siteDataSettings.accesskey      "ت">
-
+<!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -92,22 +92,26 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "نسخه">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "اجازه داده به &brandShortName; برای">
+<!ENTITY updateAuto2.label               "نصب خودکار بروزرسانی‌ها (جهت بهبود امنیت توصیه می‌شود)">
+<!ENTITY updateAuto2.accesskey           "ن">
+<!ENTITY updateCheckChoose2.label        "وجود بروزرسانی‌ها را بررسی کن، اما به شما اجازه انتخاب برای نصب داده شود">
+<!ENTITY updateCheckChoose2.accesskey    "و">
+<!ENTITY updateManual2.label             "هرگز برای بروزرسانی‌ها بررسی نکن (توصیه نمی‌شود)">
+<!ENTITY updateManual2.accesskey         "ه">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "نمایش تاریخچهٔ بروزرسانی…">
+<!ENTITY updateHistory2.accesskey        "ت">
 
 <!ENTITY useService.label                "از سرویس پس‌زمینه برای نصب بروزرسانی ها استفاده شود">
 <!ENTITY useService.accesskey            "پ">
 
+<!ENTITY enableSearchUpdate2.label       "بطور خودکار موتورهای جست‌وجو بروزرسانی شوند">
+<!ENTITY enableSearchUpdate2.accesskey   "س">
 
-
+<!ENTITY reports.label                   "گزارش‌ها">
 
 <!ENTITY offlineStorageNotify.label               "هنگامی که یک پایگاه وب تلاش می‌کند اطلاعاتی برای استفاده آفلاین ذخیره کند به من اطلاع بده">
 <!ENTITY offlineStorageNotify.accesskey           "ه">
@@ -121,7 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "حذف اطلاعات آفلاین">
 
 <!ENTITY certificateTab.label            "گواهینامه‌ها">
-
+<!ENTITY certPersonal2.description       "هنگامی که کارگزاری گواهی شخصی شما را درخواست می‌کند">
 <!ENTITY selectCerts.auto                "انتخاب‌ یکی به صورت خودکار">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "هر بار پرسیده شود">
@@ -133,12 +137,13 @@
 <!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
 <!ENTITY viewSecurityDevices.accesskey   "د">
 
+<!ENTITY performance.label               "کارایی">
+<!ENTITY useRecommendedPerformanceSettings.label "استفاده از تنظیماتِ کارایی توصیه شده">
 
+<!ENTITY useRecommendedPerformanceSettings.accesskey "س">
+<!ENTITY performanceSettingsLearnMore.label "بیشتر بدانید">
+<!ENTITY limitContentProcess.label       "محدودیت پروسهٔ محتوا">
 
-
-
-
-
-
+<!ENTITY limitContentProcess.accesskey   "م">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
