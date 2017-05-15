@@ -357,8 +357,8 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Reencaminhar como">
 <!ENTITY forwardAsMenu.accesskey "m">
-<!ENTITY forwardAsInline.label "Em linha">
-<!ENTITY forwardAsInline.accesskey "l">
+<!ENTITY forwardAsInline.label "Inline">
+<!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Anexo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "x">
 <!ENTITY editAsNewMsgCmd.label "Editar como nova">
@@ -567,7 +567,7 @@
 <!ENTITY replyAllButton.tooltip "Responder ao remetente e a todos os destinatários">
 <!ENTITY replyListButton.tooltip "Responder à lista de correio">
 <!ENTITY forwardButton.tooltip "Reencaminhar mensagem selecionada">
-<!ENTITY forwardAsInline.tooltip "Reencaminhar mensagem selecionada como texto">
+<!ENTITY forwardAsInline.tooltip "Reencaminhar mensagem selecionada como texto inline">
 <!ENTITY forwardAsAttachment.tooltip "Reencaminhar mensagem selecionada como anexo">
 <!ENTITY fileButton.tooltip "Selecione a mensagem">
 <!ENTITY archiveButton.tooltip "Arquivar mensagens selecionadas">
@@ -592,7 +592,7 @@
 <!ENTITY appmenuButton1.tooltip "Mostrar menu do &brandShortName;">
 <!-- Toolbar Button Popup -->
 
-<!ENTITY buttonMenuForwardAsInline.label "Reencaminhar como texto">
+<!ENTITY buttonMenuForwardAsInline.label "Reencaminhar inline">
 <!ENTITY buttonMenuForwardAsAttachment.label "Reencaminhar como anexo">
 <!-- Remote Content Button Popup -->
 
@@ -763,8 +763,8 @@
 <!ENTITY contextForward.accesskey "e">
 <!ENTITY contextForwardAsMenu.label "Reencaminhar como">
 <!ENTITY contextForwardAsMenu.accesskey "o">
-<!ENTITY contextForwardAsInline.label "Texto">
-<!ENTITY contextForwardAsInline.accesskey "x">
+<!ENTITY contextForwardAsInline.label "Inline">
+<!ENTITY contextForwardAsInline.accesskey "I">
 <!ENTITY contextForwardAsAttachmentItem.label "Anexo">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "A">
 <!ENTITY contextMultiForwardAsAttachment.label "Reencaminhar como anexos">

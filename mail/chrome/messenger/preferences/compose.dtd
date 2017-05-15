@@ -10,7 +10,7 @@
 
 <!ENTITY forwardMsg.label                     "Reencaminhar mensagens:">
 <!ENTITY forwardMsg.accesskey                 "r">
-<!ENTITY inline.label                         "Em linha">
+<!ENTITY inline.label                         "Inline">
 <!ENTITY asAttachment.label                   "Como anexo">
 <!ENTITY addExtension.label                   "adicionar extensão ao nome do ficheiro">
 <!ENTITY addExtension.accesskey               "e">
