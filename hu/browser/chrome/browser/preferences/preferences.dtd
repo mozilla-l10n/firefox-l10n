@@ -23,5 +23,6 @@
 
 <!ENTITY  paneSync1.title          "Firefox fiók">
 
+<!ENTITY  helpButton2.label        "&brandShortName; támogatás">
 
 <!ENTITY  searchInput.label        "Keresés">

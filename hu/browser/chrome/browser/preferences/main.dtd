@@ -4,7 +4,8 @@
 
 <!ENTITY startup.label             "Indítás">
 
-
+<!ENTITY startupPage2.label        "A &brandShortName; indításakor">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Kezdőlap megjelenítése">
 <!ENTITY startupBlankPage.label    "Üres oldal megjelenítése">
 <!ENTITY startupPrevSession.label  "A legutóbbi ablakok és lapok megjelenítése">
