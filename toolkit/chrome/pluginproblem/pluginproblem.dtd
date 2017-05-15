@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "Fájl">
 <!ENTITY plugin.mimeTypes                                    "MIME-típusok">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash védett mód bekapcsolása">
-
+<!ENTITY plugin.enableBlocklists.label                       "Veszélyes és tolakodó Flash tartalmak blokkolása">
