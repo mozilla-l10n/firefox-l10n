@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "امنیت">
+
 <!ENTITY  warnOnAddonInstall.label        "در هنگام تلاش پایگاه اینترنتی برای نصب افزودنی، به من هشدار داده شود">
 <!ENTITY  warnOnAddonInstall.accesskey    "د">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "ت">
 
 
+<!ENTITY  formsAndPasswords.label       "فرم‌ها و گذرواژه‌ها">
 
+<!ENTITY  rememberLogins1.label          "ورودها و گذرواژه‌ها را برای سایت‌ها به خاطر بسپار">
+<!ENTITY  rememberLogins1.accesskey      "و">
 <!ENTITY  passwordExceptions.label      "استثناها…">
 <!ENTITY  passwordExceptions.accesskey  "ث">
 
