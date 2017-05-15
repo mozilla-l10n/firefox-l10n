@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Bheir seo fiosrachadh dhut air dèanadas a' bhrabhsair agad agus cuiridh e dàta air slàinte a' bhrabhsair agad dha &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cuir an comas aithisg slàinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "s">
-<!ENTITY healthReportLearnMore.label     "Barrachd fiosrachaidh">
+
 
 <!ENTITY telemetryDesc.label             "Cuiridh seo dàta air dèanadas, cleachdadh, bathar-cruaidh agus gnàthachadh a' bhrabhsair agad dha &vendorShortName; ach an urrainn dhuinn &brandShortName; a dhèanamh nas fhearr">
 <!ENTITY enableTelemetryData.label       "Co-roinn dàta a bharrachd (m.e. telemeatraidh)">
 <!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Barrachd fiosrachaidh">
+
 
 <!ENTITY crashReporterDesc2.label         "Cuidichidh aithisgean tuislidh &vendorShortName; a’ càradh duilgheadasan is nì iad am brabhsair agad nas seasmhaiche agus nas tèarainte">
 <!ENTITY alwaysSubmitCrashReports.label   "Leig le &brandShortName; aithisgean tuislidh a chàirn roimhe as do leth">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Barrachd fiosrachaidh">
+
 
 <!ENTITY networkTab.label                "Lìonra">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Roghainnean…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "Barrachd fiosrachaidh">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
