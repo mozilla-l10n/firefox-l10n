@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Pomaže vam da razumijete performanse vašeg računara i dijeli podatke sa &vendorShortName;-om o zdravlju vašeg browsera">
 <!ENTITY enableHealthReport.label        "Omogući &brandShortName; izvještaje o zdravlju">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Naučite više">
+
 
 <!ENTITY telemetryDesc.label             "Dijeli podatke o performansama, upotrebi, hardveru i prilagođenjima vašeg browsera sa &vendorShortName;-om kako bi nam pomogli da unaprijedimo &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Dijeli dodatne podatke (npr. Telemetriju)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Naučite više">
+
 
 <!ENTITY crashReporterDesc2.label         "Izvještaji o rušenju pomažu &vendorShortName;-i da popravi probleme i učini vaš browser stabilnijim i sigurnijim">
 <!ENTITY alwaysSubmitCrashReports.label   "Omogući &brandShortName;u da u vaše ime šalje zapisane izvještaje o rušenju">
 <!ENTITY alwaysSubmitCrashReports.accesskey "a">
-<!ENTITY crashReporterLearnMore.label     "Naučite više">
+
 
 <!ENTITY networkTab.label                "Mreža">
 
