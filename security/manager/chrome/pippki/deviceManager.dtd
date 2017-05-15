@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "تصفّح…">
 <!ENTITY loaddevice.browse.accesskey            "ص">
 
+<!ENTITY loaddevice.title2                      "حمِّل مشغّل جهاز PKCS#11">
