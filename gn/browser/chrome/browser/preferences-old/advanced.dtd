@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Oipytyvõ chupe oikumby hag̃ua ikundahára rembiapo ha ombohasa mba'ekuaarã &vendorShortName; ndive mbaéichapa oĩhína kóva">
 <!ENTITY enableHealthReport.label        "Emomarandu mba'éichapa oĩ &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Kuaave">
+
 
 <!ENTITY telemetryDesc.label             "Embohasa mba'ekuaarã rembiapokue, jepuru, hardware ha ñemomba'egua ikundahára rehegua &vendorShortName; ndive oipytyvõ hag̃ua &brandShortName;-pe oikoporãvévo">
 
 
-<!ENTITY telemetryLearnMore.label        "Kuaave">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Kuaave">
+
+
 
 <!ENTITY networkTab.label                "Ñanduti">
 
