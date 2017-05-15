@@ -10,7 +10,7 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "Ladataan…">
-<!ENTITY listEmpty.installed.label            "Tämän tyyppisiä lisäosia ei ole asennettuna">
+<!ENTITY listEmpty.installed.label            "Tämäntyyppisiä lisäosia ei ole asennettuna">
 <!ENTITY listEmpty.availableUpdates.label     "Päivityksiä ei löytynyt">
 <!ENTITY listEmpty.recentUpdates.label        "Et ole viime aikoina hakenut päivityksiä lisäosiin">
 <!ENTITY listEmpty.findUpdates.label          "Etsi päivityksiä">

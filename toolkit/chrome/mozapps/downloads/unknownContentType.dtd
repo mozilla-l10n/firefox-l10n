@@ -6,21 +6,21 @@
 <!ENTITY  from.label                  "osoitteesta:">
 <!ENTITY  actionQuestion.label        "Mitä tiedostolle tehdään?">
 
-<!ENTITY  openWith.label               "Avaa ohjelmalla">
-<!ENTITY  openWith.accesskey           "A">
-<!ENTITY  other.label                  "Muu…">
+<!ENTITY  openWith.label              "Avaa ohjelmalla">
+<!ENTITY  openWith.accesskey          "A">
+<!ENTITY  other.label                 "Muu…">
 
 <!ENTITY  saveFile.label              "Tallenna tiedosto">
 <!ENTITY  saveFile.accesskey          "T">
 
-<!ENTITY  rememberChoice.label         "Tee näin oletuksena tämän tyyppisille tiedostoille.">
-<!ENTITY  rememberChoice.accesskey     "n">
+<!ENTITY  rememberChoice.label        "Tee näin oletuksena tämäntyyppisille tiedostoille.">
+<!ENTITY  rememberChoice.accesskey    "n">
 
 <!ENTITY  whichIs.label              "Tiedosto on tyyppiä:">
 
-<!ENTITY  chooseHandlerMac.label       "Valitse…">
-<!ENTITY  chooseHandlerMac.accesskey   "V">
-<!ENTITY  chooseHandler.label          "Selaa…">
-<!ENTITY  chooseHandler.accesskey      "S">
+<!ENTITY  chooseHandlerMac.label      "Valitse…">
+<!ENTITY  chooseHandlerMac.accesskey  "V">
+<!ENTITY  chooseHandler.label         "Selaa…">
+<!ENTITY  chooseHandler.accesskey     "S">
 
 <!ENTITY  unknownPromptText.label     "Tallennetaanko tiedosto?">
