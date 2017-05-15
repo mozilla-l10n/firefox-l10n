@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "ଆପଣଙ୍କର ବ୍ରାଉଜର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବୁଝିବାରେ ସହାୟତା କରିଥାଏ ଏବଂ  ଆପଣଙ୍କର ବ୍ରାଉଜର ସ୍ୱାସ୍ଥ୍ୟ ବିଷୟରେ &vendorShortName; ସହିତ ତଥ୍ୟ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY enableHealthReport.label        "&brandShortName; ସ୍ୱାସ୍ଥ୍ୟ ବିବରଣୀକୁ ସକ୍ରିୟ କରନ୍ତୁ">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
+
 
 <!ENTITY telemetryDesc.label             "&brandShortName; କୁ ଉନ୍ନତ କରିବାରେ ଆମକୁ ସହାୟତା କରିବା ପାଇଁ କାର୍ଯ୍ୟଦକ୍ଷତା, ବ୍ୟବହାର ବିଧି, ହାର୍ଡୱେର ଏବଂ ଆପଣଙ୍କର ବ୍ରାଉଜରର ତଥ୍ୟ ଇଚ୍ଛାରୂପଣକୁ  &vendorShortName;  ସହିତ ସହଭାଗ କରିଥାଏ">
 
 
-<!ENTITY telemetryLearnMore.label        "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "ଅଧିକ ଜ୍ଞାନ ଆହରଣ କରନ୍ତୁ">
+
+
 
 <!ENTITY networkTab.label                "ନେଟୱର୍କ">
 
