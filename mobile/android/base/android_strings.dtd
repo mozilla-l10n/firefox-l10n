@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; елемента">
 <!ENTITY bookmark_folder_one_item "1 елемент">
 <!ENTITY bookmark_parent_folder "Родителска папка">
+<!ENTITY bookmark_add_folder "Добавяне на папка">
 
 <!ENTITY reader_saved_offline "Запазено за извън мрежа">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Име">
 <!ENTITY bookmark_edit_location "Адрес">
 <!ENTITY bookmark_edit_keyword "Ключова дума">
+<!ENTITY bookmark_select_folder "Избиране на папка">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
