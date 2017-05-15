@@ -80,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  نکته: رفع‌اشکال SQLهای کُند فعال است. رشته‌های کامل SQL ممکن است در پایین نمایش داده شوند ولی آنها در مسافت‌سنج ثبت نخواهند شد.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  دریافت نام توابع برای پشته‌ها">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  نمایش داده‌های خام پشته">
 
 <!ENTITY aboutTelemetry.filterText "  فیلتر (رشته یا /regexp/)">
 
