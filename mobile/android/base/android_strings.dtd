@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; घटक">
 <!ENTITY bookmark_folder_one_item "1 घटक">
-
-
+<!ENTITY bookmark_parent_folder "पॅरेंट फोल्डर">
+<!ENTITY bookmark_add_folder "नवीन फोल्डर जोडा">
 
 <!ENTITY reader_saved_offline "ऑफलाईन साठविलेले">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "मुखपृष्ठ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "नवीन टॅब्स साठी सुद्धा वापरा">
 <!ENTITY home_homepage_title "मुखपृष्ठ लावा">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,8 +290,10 @@
 <!ENTITY pref_custom_tabs_summary3 "&brandShortName; ची सानुकूलित आवृत्ती वापरून ॲप्सला संकेतस्थळ उघडण्याची परवानगी द्या">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; मध्ये उघडा">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; समर्थित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ची प्रत बनवली">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "उपक्रम मालिका">
@@ -365,6 +368,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "प्रणाली फॉन्ट आकार वापरा">
+<!ENTITY pref_use_system_font_size_summary "प्रणाली फॉन्ट आकाराप्रमाणे वेब वरच्या मजकूराचा आकार बदला">
 
 <!ENTITY pref_media_autoplay_enabled "अाॅटोप्ले स्वीकारा">
 <!ENTITY pref_media_autoplay_enabled_summary "वेबसाइट्स स्वत:हून चित्रफिती आणि इतर मीडीया सामग्री चालवणे नियंत्रित करा">
@@ -495,7 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "खाजगी टॅब मध्ये उघडा">
 <!ENTITY contextmenu_remove "काढा">
 <!ENTITY contextmenu_add_to_launcher "मुख्य पटलावर जोडा">
-
+<!ENTITY contextmenu_set_as_homepage "मुखपृष्ठ म्हणून निश्चित करा">
 <!ENTITY contextmenu_share "शेअर">
 <!ENTITY contextmenu_pasteandgo "चिकटवा आणि चला">
 <!ENTITY contextmenu_paste "चिकटवा">
@@ -543,7 +548,7 @@
 <!ENTITY bookmark_edit_name "नाव">
 <!ENTITY bookmark_edit_location "स्थळ">
 <!ENTITY bookmark_edit_keyword "संकेतशब्द">
-
+<!ENTITY bookmark_select_folder "फोल्डर निवडा">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -565,7 +570,7 @@
 <!ENTITY button_yes "होय">
 <!ENTITY button_no "नाही">
 <!ENTITY button_clear_data "माहिती पुसा">
-
+<!ENTITY button_set "निश्चित">
 <!ENTITY button_clear "पुसा">
 <!ENTITY button_copy "प्रत बनवा">
 
