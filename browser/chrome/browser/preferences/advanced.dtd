@@ -41,13 +41,13 @@
 <!ENTITY crashReporterDesc2.label         "របាយការណ៍​ភាព​ជាប់​គាំង​ជួយ &vendorShortName; ដោះស្រាយ​បញ្ហា និង​ធ្វើ​ឲ្យ​កម្មវិធី​អ៊ីនធឺណិត​របស់​អ្នក​​មាន​ស្ថិរភាព និង​សុវត្ថិភាព​បន្ថែម">
 <!ENTITY alwaysSubmitCrashReports.label   "អនុញ្ញាត​ឲ្យ &brandShortName; ផ្ញើ​របាយការណ៍​ភាព​ជាប់​គាំង​ដែល​បាន​បម្រុង​ជំនួសអ្នក">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "សិក្សា​​បន្ថែម">
+<!ENTITY crashReporterLearnMore.label     "ស្វែងយល់​​បន្ថែម">
 
 <!ENTITY networkTab.label                "បណ្តាញ">
 
 <!ENTITY connection.label                "ការ​តភ្ជាប់">
 
-<!ENTITY connectionDesc.label            "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធីដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
+<!ENTITY connectionDesc.label            "កំណត់​រចនាសម្ព័ន្ធ​អំពី​វិធី​ដែល &brandShortName; តភ្ជាប់​ទៅ​កាន់​អ៊ីនធឺណិត">
 <!ENTITY connectionSettings.label        "ការ​កំណត់…">
 <!ENTITY connectionSettings.accesskey    "e">
 
@@ -144,6 +144,11 @@
                                          "ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ​គឺ​ត្រូវជាមួយ​កុំព្យូទ័រ​របស់​អ្នក។">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "ស្វែងយល់​បន្ថែម">
 <!ENTITY limitContentProcess.label       "ដំណើរការ​មាតិកា​មាន​ដែន​កំណត់​">
+<!ENTITY limitContentProcess.description
+                                         "ការ​ដំណើរការ​មាតិកា​ច្រើន​អាច​ធ្វើឲ្យ &brandShortName; កាន់តែ​រហ័ស នៅ​ពេល​ប្រើ​ផ្ទាំង​ច្រើន ប៉ុន្តែ​នឹង​ប្រើ​អង្គ​ចងចាំ​ច្រើន​ដែរ។">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
