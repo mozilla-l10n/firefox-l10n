@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Pomha wam, wukon wašeho wobhladowaka rozumić a dźěli daty z &vendorShortName; wo statusu wašeho wobhladowaka">
 <!ENTITY enableHealthReport.label        "&brandShortName; - statusowu rozprawu zmóžnić">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Dalše informacije">
+
 
 <!ENTITY telemetryDesc.label             "Dźěli wukon, wužiće, hardware a přiměrjenja wašeho wobhladowaka z &vendorShortName;, zo by nam pomhała, &brandShortName; polěpšić">
 <!ENTITY enableTelemetryData.label       "Přidatne daty dźělić (na př. telemetriju)">
 <!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Dalše informacije">
+
 
 <!ENTITY crashReporterDesc2.label         "Spadowe rozprawy pomhaja &vendorShortName;, problemy rozrisać a waš wohladowak stabilniši a wěsćiši činić">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowolić, njewobdźěłane spadowe rozprawy we wašim mjenje pósłać">
 <!ENTITY alwaysSubmitCrashReports.accesskey "b">
-<!ENTITY crashReporterLearnMore.label     "Dalše informacije">
+
 
 <!ENTITY networkTab.label                "Syć">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "h">
 <!ENTITY siteDataSettings.label          "Nastajenja…">
 <!ENTITY siteDataSettings.accesskey      "N">
-<!ENTITY siteDataLearnMoreLink.label     "Dalše informacije">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
