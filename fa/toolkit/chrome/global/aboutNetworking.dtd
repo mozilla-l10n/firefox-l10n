@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "نوسازی خودکار در هر ۳ ثانیه">
 <!ENTITY aboutNetworking.hostname              "نام میزبان">
 <!ENTITY aboutNetworking.port                  "درگاه">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "فعال">
 <!ENTITY aboutNetworking.idle                  "بی‌کار">
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "برطرف کردن">
 <!ENTITY aboutNetworking.dnsDomain             "دامنه">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "آمار RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "وضعیت RCWN">
 
 
-
-
-
+<!ENTITY aboutNetworking.totalNetworkRequests  "مجموع تعداد درخواست‌های شبکه">

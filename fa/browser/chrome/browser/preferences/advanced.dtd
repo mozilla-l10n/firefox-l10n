@@ -139,11 +139,11 @@
 
 <!ENTITY performance.label               "کارایی">
 <!ENTITY useRecommendedPerformanceSettings.label "استفاده از تنظیماتِ کارایی توصیه شده">
-
+<!ENTITY useRecommendedPerformanceSettings.description "تنظیمات توصیه شدهٔ کارایی برای رایانه شما طراحی شده است">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "س">
 <!ENTITY performanceSettingsLearnMore.label "بیشتر بدانید">
 <!ENTITY limitContentProcess.label       "محدودیت پروسهٔ محتوا">
-
+<!ENTITY limitContentProcess.description "پروسه‌های محتوای بیشتر می‌تواند &brandShortName; را هنگام استفاده از چندین زبانه پاسخگوتر کند، اما حافظه بیشتری هم مصرف خواهد کرد.">
 <!ENTITY limitContentProcess.accesskey   "م">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
