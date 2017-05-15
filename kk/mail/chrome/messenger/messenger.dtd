@@ -639,16 +639,16 @@
 <!ENTITY folderContextEmptyTrash.accesskey "а">
 
 
+<!ENTITY folderContextSendUnsentMessages.label "Жіберілмеген хабарламаларды жіберу">
+<!ENTITY folderContextSendUnsentMessages.accesskey "б">
 
 
 
 
 
 
-
-
-
-
+<!ENTITY folderContextSubscribe.label "Жазылу…">
+<!ENTITY folderContextSubscribe.accesskey "з">
 
 
 <!ENTITY folderContextProperties2.label "Қасиеттері">
@@ -663,7 +663,7 @@
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Тақырыбы">
-
+<!ENTITY searchFromMenu.label "Кімнен">
 
 
 
@@ -672,24 +672,24 @@
 <!-- Thread Pane -->
 
 <!ENTITY threadColumn.label "Жіп">
-
+<!ENTITY fromColumn.label "Кімнен">
 <!ENTITY recipientColumn.label "Қабылдаушысы">
-
+<!ENTITY correspondentColumn.label "Алушылар">
 <!ENTITY subjectColumn.label "Тақырыбы">
-
-
+<!ENTITY dateColumn.label "Күні">
+<!ENTITY priorityColumn.label "Приоритеті">
 <!ENTITY tagsColumn.label "Белгі">
 <!ENTITY accountColumn.label "Тіркелгі">
 <!ENTITY statusColumn.label "Күйі">
 <!ENTITY sizeColumn.label "Өлшемі">
-
-
+<!ENTITY junkStatusColumn.label "Спам күйі">
+<!ENTITY unreadColumn.label "Оқылмаған">
 <!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
 
 <!ENTITY locationColumn.label "Орналасуы">
-
+<!ENTITY idColumn.label "Алынған реті">
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
 

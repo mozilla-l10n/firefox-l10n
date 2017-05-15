@@ -160,7 +160,7 @@
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Приоритеті">
 
-
+<!ENTITY priorityButton.label "Приоритет:">
 
 
 <!ENTITY lowPriorityCmd.label "Төмен">
