@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; ставки">
 <!ENTITY bookmark_folder_one_item "1 ставка">
 <!ENTITY bookmark_parent_folder "Родитељски директоријум">
+<!ENTITY bookmark_add_folder "Додајте нову фасциклу">
 
 <!ENTITY reader_saved_offline "Сачувано ван мреже">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Име">
 <!ENTITY bookmark_edit_location "Локација">
 <!ENTITY bookmark_edit_keyword "Кључна реч">
+<!ENTITY bookmark_select_folder "Изаберите фасциклу">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
