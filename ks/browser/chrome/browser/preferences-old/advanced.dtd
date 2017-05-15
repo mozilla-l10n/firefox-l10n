@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "چُھ توہیہ مدد کران پننِہ براوزرْچ کارکردگی سمجھنس منز تْہ چُھ ڈاٹا شییر کران &amp;وینڈر شاٹ ناو؛ اس سْیت تُہندس براوزر کِس صحتس مُتلق">
 <!ENTITY enableHealthReport.label        "اینیبْل کْریو برانڈ شاٹ ناو؛&amp; ہیلتھ رِپورٹ">
 <!ENTITY enableHealthReport.accesskey    "ب">
-<!ENTITY healthReportLearnMore.label     "مزید ہیچھِو">
+
 
 <!ENTITY telemetryDesc.label             "چُھ شییر کران کارکردگی، استعمال، ہارڈ وِیر تْہ کسٹامایزیشن ڈاٹا تُہندس براوزرس مُتلق &amp;وینڈر شاڑ ناو؛ اس سْیت یوس اسِہ مدد کران چُھ &amp;برانڈ شاٹ ناو؛ بہتر بناونس منز۔">
 
 
-<!ENTITY telemetryLearnMore.label        "مزید ہیچھِو">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "مزید ہیچھِو">
+
+
 
 <!ENTITY networkTab.label                "نیٹ ورك">
 
