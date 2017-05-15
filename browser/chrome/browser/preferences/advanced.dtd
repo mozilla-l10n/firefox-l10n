@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Pomaga wam, wugbaśe wašogo wobglědowaka rozměś a źěli daty z &vendorShortName; wó statusu wašogo wobglědowaka">
 <!ENTITY enableHealthReport.label        "&brandShortName; - statusowu rozpšawu zmóžniś">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Dalšne informacije">
+
 
 <!ENTITY telemetryDesc.label             "Źěli wugbaśe, wužyśe, hardware a pśiměrjenja wašogo wobglědowaka z &vendorShortName;, aby nam pomagała, &brandShortName; pólěpšyś">
 <!ENTITY enableTelemetryData.label       "Pśidatne daty źěliś (na pś. telemetriju)">
 <!ENTITY enableTelemetryData.accesskey   "t">
-<!ENTITY telemetryLearnMore.label        "Dalšne informacije">
+
 
 <!ENTITY crashReporterDesc2.label         "Wowaleńske rozpšawy pomagaju &vendorShortName;, problemy rozwězaś a waš woglědowak stabilnješy a wěsćejišy cyniś">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; dowóliś, njewobźěłane wowaleńske rozpšawy we wašom mjenju pósłaś">
 <!ENTITY alwaysSubmitCrashReports.accesskey "b">
-<!ENTITY crashReporterLearnMore.label     "Dalšne informacije">
+
 
 <!ENTITY networkTab.label                "Seś">
 
