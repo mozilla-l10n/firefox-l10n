@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "ПРИ НОВ РАЗДЕЛ">
 <!ENTITY newtab.customize.cog.learn "Научете за новия раздел">
 <!ENTITY newtab.customize.title "Настройване на Нов раздел">
-<!ENTITY newtab.customize.suggested "Предложени и най-посещавани">
-<!ENTITY newtab.customize.topsites "Най-посещавани страници">
 <!ENTITY newtab.customize.blank2 "Празна страница">
 <!ENTITY newtab.undo.removedLabel "Миниатюрата беше премахната.">
 <!ENTITY newtab.undo.undoButton "Отмяна.">
