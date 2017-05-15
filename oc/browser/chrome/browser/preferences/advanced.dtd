@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "Vos ajuda a comprene las performàncias de vòstre navigador e manda a &vendorShortName; d'informacions a prepaus de la santat de vòstre navigador">
 <!ENTITY enableHealthReport.label        "Activar lo bilanç de santat de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "c">
-<!ENTITY healthReportLearnMore.label     "Ne saber mai">
+
 
 <!ENTITY telemetryDesc.label             "Manda d'informacions sus las performàncias, lo material, l'utilizacion e las personalizacions a &vendorShortName; per ajudar a melhorar &brandShortName;">
 
 
-<!ENTITY telemetryLearnMore.label        "Ne saber mai">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Ne saber mai">
+
+
 
 <!ENTITY networkTab.label                "Ret">
 
