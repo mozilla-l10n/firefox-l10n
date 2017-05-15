@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Alîkariyê dide te ku performansa geroka xwe fêm bikî û zanyariyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike">
 <!ENTITY enableHealthReport.label        "Rapora Tenduristiyê ya &brandShortName;ê çalak bike">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Zêdetir bixwîne…">
+
 
 <!ENTITY telemetryDesc.label             "&brandShortName; ji bo ku em dikaribin geroka te baştir bikin, daneyên performans, bikaranîn, reqalav û takekeskirinê yên geroka te bi &vendorShortName;ê re parve dike">
 
 
-<!ENTITY telemetryLearnMore.label        "Zêdetir bixwîne">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Zêdetir bixwîne">
+
+
 
 <!ENTITY networkTab.label                "Tor">
 
