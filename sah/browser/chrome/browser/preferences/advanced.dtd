@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "Эн браузерыҥ төһө сыыдамын туһунан билэргэ уонна үлэтин туһунан &vendorShortName;-ҕа кэпсииргэ көмөлөһөр ">
 <!ENTITY enableHealthReport.label        "&brandShortName; үлэтин туһунан отчуоту холбоо">
 <!ENTITY enableHealthReport.accesskey    "х">
-<!ENTITY healthReportLearnMore.label     "Сиһилии">
+
 
 <!ENTITY telemetryDesc.label             "&brandShortName; өссө тупсарын туһугар &vendorShortName;-ҕа браузер үлэтин, туруорууларын туһунан, көмпүүтэр конфигурациятын туһунан сибидиэнньэлэри ыытарга">
 
 
-<!ENTITY telemetryLearnMore.label        "Сиһилии">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Сиһилии">
+
+
 
 <!ENTITY networkTab.label                "Ситим">
 
