@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName; आणि Firefox एकाच वेळी चालविण्याची परवानगी द्यावी">
 <!ENTITY useFirefoxSync.label             "टीप: हे स्वतंत्र प्रोफाइलचा वापर करते. त्यांच्या दरम्यान डाटा शेअर करण्यासाठी सींक वापरा.">
-
-
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; मध्ये साईन इन करा…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; प्राधान्यता उघडा">
 
 <!ENTITY e10sEnabled.label                "बहु-प्रक्रिया &brandShortName; सक्षम करा">
