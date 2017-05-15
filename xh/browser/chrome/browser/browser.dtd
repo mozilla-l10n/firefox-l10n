@@ -397,6 +397,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "Y">
 <!ENTITY customizeMenu.addMoreItems.label "Yongeza izinto ezingakumbi…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "Y">
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">

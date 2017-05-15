@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho ne-&vendorShortName; malungi nempilo yebhrawuza yakho">
 <!ENTITY enableHealthReport.label        "Yenza isebenze i-&brandShortName; iNgxelo yeMpilo">
 <!ENTITY enableHealthReport.accesskey    "y">
-<!ENTITY healthReportLearnMore.label     "Funda ngaphezulu">
+
 
 <!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ye-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
 <!ENTITY enableTelemetryData.label       "Yabelana ngeNgcombolo eyoNgezelelweyo (oko kukuthi yi-Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-<!ENTITY telemetryLearnMore.label        "Funda ngaphezulu">
+
 
 <!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &vendorShortName; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
 <!ENTITY alwaysSubmitCrashReports.label   "Vumela &brandShortName; lithumele iingxelo ezifumbileyo egameni lakho">
 <!ENTITY alwaysSubmitCrashReports.accesskey "f">
-<!ENTITY crashReporterLearnMore.label     "Funda ngaphezulu">
+
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "i">
 <!ENTITY siteDataSettings.label          "Iietingi…">
 <!ENTITY siteDataSettings.accesskey      "e">
-<!ENTITY siteDataLearnMoreLink.label     "Funda okungakumbi">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
