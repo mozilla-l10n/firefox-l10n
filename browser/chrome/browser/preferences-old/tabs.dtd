@@ -8,10 +8,10 @@
 <!ENTITY newWindowsAsTabs.label       "需要新建窗口时以新建标签页代替">
 <!ENTITY newWindowsAsTabs.accesskey   "t">
 
-<!ENTITY warnOnCloseMultipleTabs.label      "提醒确认关闭多个标签页">
+<!ENTITY warnOnCloseMultipleTabs.label      "关闭多个标签页时提醒您">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
-<!ENTITY warnOnOpenManyTabs.label       "打开多个标签页可能致使 &brandShortName; 缓慢时警告">
+<!ENTITY warnOnOpenManyTabs.label       "打开多个标签页可能拖慢 &brandShortName; 时提醒您">
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "在新标签页中打开一个链接时，立即切换过去">
