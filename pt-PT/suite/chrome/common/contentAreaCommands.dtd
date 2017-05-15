@@ -15,14 +15,14 @@
 <!ENTITY openLinkCmdInPrivateWindow.accesskey "d">
 <!ENTITY openLinkInWindowCmd.label    "Abrir">
 <!ENTITY openLinkInWindowCmd.accesskey "b">
-<!ENTITY openFrameCmd.label           "Abrir moldura em nova janela">
+<!ENTITY openFrameCmd.label           "Abrir frame em nova janela">
 <!ENTITY openFrameCmd.accesskey       "j">
 <!ENTITY openFrameCmdInTab.label      "Abrir frame num novo separador">
 <!ENTITY openFrameCmdInTab.accesskey  "s">
 <!ENTITY keywordfield.label           "Adicionar uma palavra-chave para esta pesquisa…">
 <!ENTITY keywordfield.accesskey       "A">
-<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas esta moldura">
-<!ENTITY showOnlyThisFrameCmd.accesskey "a">
+<!ENTITY showOnlyThisFrameCmd.label     "Mostrar apenas este frame">
+<!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY goBackCmd.label              "Recuar">
 <!ENTITY goBackCmd.accesskey          "R">
 <!ENTITY goForwardCmd.label           "Avançar">
@@ -34,18 +34,18 @@
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY stopCmd.label                "Parar">
 <!ENTITY stopCmd.accesskey            "P">
-<!ENTITY reloadFrameCmd.label         "Recarregar moldura">
-<!ENTITY reloadFrameCmd.accesskey     "c">
+<!ENTITY reloadFrameCmd.label         "Recarregar frame">
+<!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Ver fonte da seleção">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Ver fonte MathML">
 <!ENTITY viewPartialSourceCmd.accesskey "e">
 <!ENTITY viewPageSourceCmd.label      "Ver código fonte da página">
 <!ENTITY viewPageSourceCmd.accesskey  "o">
-<!ENTITY viewFrameSourceCmd.label     "Ver código fonte da moldura">
-<!ENTITY viewFrameSourceCmd.accesskey "i">
+<!ENTITY viewFrameSourceCmd.label     "Ver código fonte do frame">
+<!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "Ver informação da página">
 <!ENTITY viewPageInfoCmd.accesskey    "i">
-<!ENTITY viewFrameInfoCmd.label       "Ver informação da moldura">
+<!ENTITY viewFrameInfoCmd.label       "Ver informação do frame">
 <!ENTITY viewFrameInfoCmd.accesskey   "i">
 <!ENTITY fitImageCmd.label            "Ajustar imagem à janela">
 <!ENTITY fitImageCmd.accesskey        "j">
@@ -69,9 +69,9 @@
 <!ENTITY savePageCmd.label            "Guardar página">
 <!ENTITY savePageCmd.accesskey        "p">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameAsCmd.label         "Guardar moldura como…">
-<!ENTITY saveFrameCmd.label           "Guardar moldura">
-<!ENTITY saveFrameCmd.accesskey       "G">
+<!ENTITY saveFrameAsCmd.label         "Guardar frame como…">
+<!ENTITY saveFrameCmd.label           "Guardar frame">
+<!ENTITY saveFrameCmd.accesskey       "a">
 <!ENTITY printFrameCmd.label          "Imprimir frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkAsCmd.label          "Guardar ligação como…">

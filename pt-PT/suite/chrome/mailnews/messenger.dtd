@@ -223,8 +223,8 @@
 <!ENTITY viewFeedSummaryFeedPropsPref.label "Formato pré-definido">
 <!ENTITY viewFeedSummaryFeedPropsPref.accesskey "d">
 
-<!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos na mensagem">
-<!ENTITY viewAttachmentsInlineCmd.accesskey "a">
+<!ENTITY viewAttachmentsInlineCmd.label "Mostrar anexos inline">
+<!ENTITY viewAttachmentsInlineCmd.accesskey "M">
 <!ENTITY reloadCmd.label "Recarregar">
 <!ENTITY reloadCmd.accesskey "g">
 <!ENTITY stopCmd.label "Parar">
@@ -303,8 +303,8 @@
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Reencaminhar como">
 <!ENTITY forwardAsMenu.accesskey "o">
-<!ENTITY forwardAsInline.label "Texto da mensagem">
-<!ENTITY forwardAsInline.accesskey "x">
+<!ENTITY forwardAsInline.label "Inline">
+<!ENTITY forwardAsInline.accesskey "I">
 <!ENTITY forwardAsAttachmentCmd.label "Anexo">
 <!ENTITY forwardAsAttachmentCmd.accesskey "A">
 <!ENTITY editMsgAsNewCmd.label "Editar como nova">
