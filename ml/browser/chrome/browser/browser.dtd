@@ -392,6 +392,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "ക">
 <!ENTITY customizeMenu.addMoreItems.label "കൂടുതല്‍ വസ്തുക്കള്‍ ചേര്‍ക്കുക...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ക">
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "വിലാസം തെരയുക അല്ലെങ്കില്‍ നല്‍കുക">

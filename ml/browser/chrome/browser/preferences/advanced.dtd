@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "നിങ്ങളുടെ ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം മനസ്സിലാക്കുവാന്‍ സഹായിയ്ക്കുന്നു, ബ്രൌസര്‍ വിവരങ്ങള്‍ &vendorShortName;-മായി പങ്കിടുന്നു">
 <!ENTITY enableHealthReport.label        "&brandShortName;  ആരോഗ്യ വിവരപ്പട്ടിക സജ്ജമാക്കുക">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "കൂടുതല്‍ അറിയുക">
+
 
 <!ENTITY telemetryDesc.label             "പ്രകടനം, ഉപയോഗം, ഹാർഡ്‌വെയർ തുടങ്ങിയ വിവരങ്ങൾ &vendorShortName; -മായി പങ്കു വെയ്ക്കുക.  &brandShortName;  മെച്ചപ്പെടുത്തുവാൻ സഹായിക്കുക.">
 
 
-<!ENTITY telemetryLearnMore.label        "കൂടുതല്‍ അറിയുക">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "കൂടുതല്‍ അറിയുക">
+
+
 
 <!ENTITY networkTab.label                "നെറ്റ്‌വര്‍ക്ക്‌">
 
