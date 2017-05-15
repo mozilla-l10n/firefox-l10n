@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "Hukusaidia kuelewa utendaji wa kivinjari chako na hushirikisha data na &vendorShortName; kuhusu hali ya kivinjari chako">
 <!ENTITY enableHealthReport.label        "Wezesha Ripoti ya Hali ya &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Jifunze Zaidi">
+
 
 <!ENTITY telemetryDesc.label             "Hushiriki utendaji, utumizi, maunzi na ugeuzaji wa data kuhusu kivinjari chako na &vendorShortName; ili kutusaidia kufanya &brandShortName; bora">
 
 
-<!ENTITY telemetryLearnMore.label        "Jifunze Zaidi">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Jifunze Zaidi">
+
+
 
 <!ENTITY networkTab.label                "Mtandao">
 
