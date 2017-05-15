@@ -396,6 +396,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "ந">
 <!ENTITY customizeMenu.addMoreItems.label "மேலும் உருப்பிடிகளை சேர்க்க...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "ச">
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
