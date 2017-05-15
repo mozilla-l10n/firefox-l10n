@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
 <!ENTITY enableHealthReport.label        "Hurmin &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "Ɓeydu humpito">
+
 
 <!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
 
 
-<!ENTITY telemetryLearnMore.label        "Ɓeydu Humpito">
+
 
 <!ENTITY crashReporterDesc2.label         "Jaŋte Kooke ena mballa &vendorShortName; ñawndude caɗe kadi ɓeyda peeragol maa deeƴde e hisde.">
 <!ENTITY alwaysSubmitCrashReports.label   "Yamir &brandShortName; yoo neldu jaŋte kooke ejtaaɗe caggal e innde maa">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "Ɓeydu Humpito">
+
 
 <!ENTITY networkTab.label                "Laylaytol">
 
