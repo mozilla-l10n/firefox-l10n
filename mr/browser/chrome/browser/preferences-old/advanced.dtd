@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास आपली मदत करतो व ब्राउझरची प्रकृती &vendorShortName; सह शेअर करतो">
 <!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "आणखी शिका">
+
 
 <!ENTITY telemetryDesc.label             "ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
 
 
-<!ENTITY telemetryLearnMore.label        "आणखी शिका">
+
 
 <!ENTITY crashReporterDesc2.label         "क्रॅश अहवाल &vendorShortName; ला आपल्या अडचणी सोडविण्यासाठी आणि ब्राउझर अधिक स्थिर व सुरक्षित ठेवण्यासाठी मदत करतो">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; ला आपल्या वतीने अनुशेषित क्रॅश अहवाल पाठविण्याची परवानगी द्या">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-<!ENTITY crashReporterLearnMore.label     "आणखी शिका">
+
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "सेटिंग्स…">
 <!ENTITY siteDataSettings.accesskey      "i">
-<!ENTITY siteDataLearnMoreLink.label     "आणखी शिका">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
