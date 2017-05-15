@@ -6,3 +6,11 @@
 <!ENTITY     hostCol.label                 "វេបសាយ">
 <!ENTITY     statusCol.label               "ស្ថានភាព">
 <!ENTITY     usageCol.label                "កន្លែង​ផ្ទុក">
+<!ENTITY     searchTextboxPlaceHolder             "ស្វែងរក​វេបសាយ">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "លុប​អ្វី​ដែល​បាន​ជ្រើស">
+<!ENTITY     removeSelected.accesskey      "r">
+<!ENTITY     save.label                    "រក្សាទុក​ការ​ផ្លាស់ប្ដូរ">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "បោះបង់">
+<!ENTITY     cancel.accesskey              "C">
