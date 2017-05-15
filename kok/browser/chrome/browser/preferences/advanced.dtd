@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "तुमका तुमच्या ब्रावजराचे सादरीकरण समजुपाक मदत करता आनी तुमच्या ब्रावजराच्या आरोग्याविशीं डेटा &vendorShortName; संयत वाटून घेता">
 <!ENTITY enableHealthReport.label        "&brandShortName; आरोग्य अहवाल">
 <!ENTITY enableHealthReport.accesskey    "अ">
-<!ENTITY healthReportLearnMore.label     "अदिक शिकात">
+
 
 <!ENTITY telemetryDesc.label             "आमका &brandShortName; बरे करपाक मदत जावपाक तुमच्या ब्रावजराविशीं सादरीकरण, वापर, हार्डवेर आनी कस्टमाझेशन डेटा &vendorShortName; संयत वाटून घेयात ">
 
 
-<!ENTITY telemetryLearnMore.label        "अदिक शिकात">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "अदिक शिकात">
+
+
 
 <!ENTITY networkTab.label                "नेटवर्क">
 
