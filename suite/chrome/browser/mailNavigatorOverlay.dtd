@@ -22,7 +22,7 @@
 <!ENTITY contextSendVideo.accesskey      "i">
 <!ENTITY contextSendAudio.label          "Enviar áudio…">
 <!ENTITY contextSendAudio.accesskey      "i">
-<!ENTITY contextSendFrame.label          "Enviar moldura…">
+<!ENTITY contextSendFrame.label          "Enviar frame…">
 <!ENTITY contextSendFrame.accesskey      "v">
 
 <!ENTITY sendLinkCmd.label               "Enviar ligação…"> 
