@@ -33,16 +33,16 @@
 <!ENTITY healthReportDesc.label          "Brauzeringizning ishlashini tushunishingizga  va uning yaroqliligi haqidagi ma`lumotlarni &vendorShortName; bilan boʻlishishingizga yordam beradi.">
 <!ENTITY enableHealthReport.label        "&brandShortName; yaroqlilik ma`lumotlari">
 <!ENTITY enableHealthReport.accesskey    "r">
-<!ENTITY healthReportLearnMore.label     "Koʻproq oʻrganing">
+
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun brauzeringiz haqidagi ishlashi, foydalanish, qurilma va moslash ma`lumotlarini boʻlishadi">
 
 
-<!ENTITY telemetryLearnMore.label        "Koʻproq oʻrganing">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "Koʻproq oʻrganing">
+
+
 
 <!ENTITY networkTab.label                "Tarmoq">
 
