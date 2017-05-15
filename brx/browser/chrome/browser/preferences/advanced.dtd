@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "नोंथांनि ब्राउजार मावफुंनायखौ बुजिनो नोंथांखौ मदद खालामो आरो डाटाखौ नोंथांनि ब्राउजार सावस्रिनि सोमोन्दै डाटाखौ &vendorShortName; जों शेयार खालामो।">
 <!ENTITY enableHealthReport.label        "&brandShortName; सावस्रि रिपर्टखौ हाहोनाय खालाम">
 <!ENTITY enableHealthReport.accesskey    "R">
-<!ENTITY healthReportLearnMore.label     "गोबां सोलों">
+
 
 <!ENTITY telemetryDesc.label             "&brandShortName; खौ साबसिन खालामनो जोंखौ मदद होनो &vendorShortName; जों ब्राउजारनि मावफुंनाय, बाहायथि, हार्डवेयार आरो कास्ट'माइजेसनखौ शेयार खालाम">
 
 
-<!ENTITY telemetryLearnMore.label        "गोबां सोलों">
 
 
 
-<!ENTITY crashReporterLearnMore.label     "गोबां सोलों">
+
+
 
 <!ENTITY networkTab.label                "नेटवार्क">
 
