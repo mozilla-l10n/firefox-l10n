@@ -9,8 +9,6 @@
 <!ENTITY newtab.customize.cog.title2 "CONFIGURAZIUN PER NOVS TABS">
 <!ENTITY newtab.customize.cog.learn "Ulteriuras infurmaziuns davart novs tabs">
 <!ENTITY newtab.customize.title "Persunalisar tia pagina per novs tabs">
-<!ENTITY newtab.customize.suggested "Mussar propostas e tias paginas preferidas">
-<!ENTITY newtab.customize.topsites "Mussar tias paginas preferidas">
 <!ENTITY newtab.customize.blank2 "Mussar ina pagina vida">
 <!ENTITY newtab.undo.removedLabel "Allontanà la miniatura.">
 <!ENTITY newtab.undo.undoButton "Revocar.">
