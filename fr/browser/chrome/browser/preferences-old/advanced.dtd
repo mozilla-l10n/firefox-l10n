@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "s">
 <!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey          "n">
-<!ENTITY checkUserSpelling.label         "Vérifier l’orthographe lors de la frappe">
+<!ENTITY checkUserSpelling.label         "Vérifier l’orthographe pendant la saisie">
 <!ENTITY checkUserSpelling.accesskey     "V">
 
 <!ENTITY dataChoicesTab.label            "Données collectées">
