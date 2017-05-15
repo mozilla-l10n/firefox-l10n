@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Решити">
 <!ENTITY aboutNetworking.dnsDomain             "Домен">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP адресе">
+<!ENTITY aboutNetworking.rcwn                  "RCWN статистика">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN стање">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Кеш је победио">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net је победио">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Укупан број мрежних захтева">

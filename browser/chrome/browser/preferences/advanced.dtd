@@ -139,7 +139,7 @@
 
 <!ENTITY performance.label               "Перформансе">
 <!ENTITY useRecommendedPerformanceSettings.label
-                                         "Користите препоручене поставке перфорамнси">
+                                         "Користите препоручене поставке перформанси">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Препоручене поставке перформанси су прилагођене вашем рачунару.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
