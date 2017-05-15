@@ -14,3 +14,6 @@
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "បោះបង់">
 <!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "ការ​លុប​ទិន្នន័យ​វេបសាយ">
+<!ENTITY     removingSelected.description  "ការ​លុប​ទិន្នន័យ​វេបសាយ​ក៏​​នឹង​លុប​ខូគី​ពាក់ព័ន្ធ និង​មាតិកា​វេប​ក្រៅ​បណ្ដាញ​ផង​ដែរ។ វា​អាច​ឲ្យ​ចេញពី​វេបសាយ។ តើ​អ្នក​ពិតជា​ធ្វើការ​ផ្លាស់ប្ដូរ​មែន​ឬ?">
+<!ENTITY     siteTree.label                "ខូគី​វេបសាយ​ដូច​ខាងក្រោម​នឹង​ត្រូវ​បាន​លុប៖">
