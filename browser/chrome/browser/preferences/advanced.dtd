@@ -144,6 +144,8 @@
                                          "E prestaçioin racomandæ en fæte pròpio pe-o teu computer.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Saccine de ciù">
 <!ENTITY limitContentProcess.label       "Limita o processo do contegnuo">
 <!ENTITY limitContentProcess.description
                                          "Ciù processi do contegnuo peuan fâ anâ megio &brandShortName; quande ti feuvi ciù feuggi, ma te fâ consumâ ciù memöia.">
