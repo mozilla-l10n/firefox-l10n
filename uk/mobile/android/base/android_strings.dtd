@@ -373,7 +373,7 @@
 
 <!ENTITY pref_media_autoplay_enabled "Автоматичне відтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
-<!ENTITY pref_zoom_force_enabled "Дозволяти змінювати масштаб">
+<!ENTITY pref_zoom_force_enabled "Зміна масштабу">
 <!ENTITY pref_zoom_force_enabled_summary "Ігнорувати налаштування сайтів, щоб ви могли змінювати масштаб будь-якої сторінки">
 <!ENTITY pref_voice_input "Голосове введення">
 <!ENTITY pref_voice_input_summary2 "Дозволити голосове введення в панелі адреси">
