@@ -7,8 +7,8 @@
 <!ENTITY accountTitle.label "Accountynstellingen">
 <!ENTITY accountName.label "Accountnamme:">
 <!ENTITY accountName.accesskey "A">
-<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't oaren sjogge as se jo berjochten lêze.">
 <!ENTITY identityTitle.label "Standertidentiteit">
+<!ENTITY identityDesc.label "Elk account hat in identiteit. Dit is de ynformaasje dy't oaren sjogge as se jo berjochten lêze.">
 <!ENTITY name.label "Jo namme:">
 <!ENTITY name.accesskey "J">
 <!ENTITY email.label "E-mailadres:">
@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Utgeande server (SMTP):">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Standertserver brûke">
+
+<!ENTITY smtpEdit.label "SMTP bewurkje…">
+<!ENTITY smtpEdit.accesskey "P">
