@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Skeudenn an drekleur :">
 <!ENTITY backgroundImage.accessKey "d">
 <!ENTITY backgroundImage.tooltip "Arverañ ur restr skeudenn evel un drekleur evit ho pajennad">
-
+<!ENTITY backgroundImage.shortenedDataURI "URI roadennoù berraet (eilañ a lako an URI a-bezh er golver)">

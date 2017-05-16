@@ -12,10 +12,11 @@
 <!ENTITY ListName.accesskey             "l">
 <!ENTITY ListNickName.label             "Moranv ar roll :">
 <!ENTITY ListNickName.accesskey         "n">
-
-
+<!ENTITY ListDescription.label          "Deskrivadur:">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
-
+<!ENTITY AddressTitle.label             "Roit posteloù da ouzhpennañ er roll-skignañ:">
+<!ENTITY AddressTitle.accesskey         "m">
 <!ENTITY UpButton.label                 "Dilec'hiañ d'ar c'hrec'h">
 <!ENTITY DownButton.label               "Dilec'hiañ d'an diaz">
 

@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "s">
 <!ENTITY replaceAllButton.label "Amsaviñ pep tra">
 <!ENTITY replaceAllButton.accesskey "A">
-
-
+<!ENTITY closeButton.label "Serriñ">
+<!ENTITY closeButton.accesskey "S">
