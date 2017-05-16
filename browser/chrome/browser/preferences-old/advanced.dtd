@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
 <!ENTITY enableHealthReport.label        "&brandShortName; денсаулық есептемесін іске қосу">
 <!ENTITY enableHealthReport.accesskey    "п">
-
+<!ENTITY healthReportLearnMore.label     "Көбірек білу">
 
 <!ENTITY telemetryDesc.label             "Өнімділік, қолдану, құрылғылар және баптаулар мәліметін &vendorShortName; үшін жібереді, және бізге &brandShortName; жақсартуға көмектеседі">
 <!ENTITY enableTelemetryData.label       "Қосымша ақпаратпен бөлісу (мыс. телеметрия)">
 <!ENTITY enableTelemetryData.accesskey   "т">
-
+<!ENTITY telemetryLearnMore.label        "Көбірек білу">
 
 <!ENTITY crashReporterDesc2.label         "Құлау жөнінде хабарламалар &vendorShortName; үшін мәселелерді шешу және браузеріңізді тұрақтылау және қауіпсіз қылуға көмектеседі">
 <!ENTITY alwaysSubmitCrashReports.label   "&brandShortName; үшін сіздің атыңыздан құлаулар жөнінде архивті хабарламаларды жіберуді рұқсат ету">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "Көбірек білу">
 
 <!ENTITY networkTab.label                "Желі">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "з">
 <!ENTITY siteDataSettings.label          "Баптаулар…">
 <!ENTITY siteDataSettings.accesskey      "п">
-
+<!ENTITY siteDataLearnMoreLink.label     "Көбірек білу">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
