@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nýr flipi">
-
+<!ENTITY newtab.customize.classic "Sýna mest notuðu vefsvæðin">
 <!ENTITY newtab.customize.cog.enhanced "Bæta við vefsvæðum sem mælt er með">
 <!ENTITY newtab.customize.cog.title2 "NÝJAR FLIPA STÝRINGAR">
 <!ENTITY newtab.customize.cog.learn "Lesa um nýja flipann">
