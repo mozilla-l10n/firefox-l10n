@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Azbevaat ent emgefreek pep 3 eilenn">
 <!ENTITY aboutNetworking.hostname              "Anv ostiz">
 <!ENTITY aboutNetworking.port                  "Porzh">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Oberiant">
 <!ENTITY aboutNetworking.idle                  "Dioberiant">
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Diskoulmañ">
 <!ENTITY aboutNetworking.dnsDomain             "Domani">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPoù">
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "Stadegoù RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Satud RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Konter berzhioù ar c'hrubuilh">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Konter berzhioù web">
 
