@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Şriftlər və Rənglər">
 
+<!ENTITY  defaultFont2.label          "Əsas şrift">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Ölçü">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Təkmilləşmiş…">
 <!ENTITY  advancedFonts.accesskey     "T">

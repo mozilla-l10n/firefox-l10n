@@ -81,12 +81,35 @@
 
 <!ENTITY updateTab.label                 "Yenilə">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName; yeniləmələri">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Buraxılış ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; səyyahı">
+<!ENTITY updateAuto2.label               "Yeniləmələri avtomatik olaraq qursun (təhlükəsizlik üçün məsləhətlidir)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Yeniləmələri yoxlasın amma qurma qərasını sizə versin">
+<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateManual2.label             "Yeniləmələri heç vaxt yoxlamasın (məsləhətli deyil)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Yeniləmə tarixçəsini göstər…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "Yeniləmələri quraşdırmaq üçün arxa plan xidmətindən istifadə et">
 <!ENTITY useService.accesskey            "a">
 
+<!ENTITY enableSearchUpdate2.label       "Axtarış mühərriklərini avtomatik yenilə">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "Raportlar">
 
@@ -102,6 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Oflayn məlumatlarını sil">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
+<!ENTITY certPersonal2.description       "Hər hansı bir server şəxsi sertifikatınızı istədikdə">
 <!ENTITY selectCerts.auto                "Birini avtomatik seç">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Hər dəfə soruş">
@@ -113,5 +137,18 @@
 <!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
 <!ENTITY viewSecurityDevices.accesskey   "C">
 
+<!ENTITY performance.label               "Məhsuldarlıq">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Məsləhət görülən məhsuldarlıq tənzimləmələrini işlət">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Məsləhər görülən məhsuldarlıq tənzimləmələri kompüterinizə görə seçilmişdir.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ətraflı öyrən">
+<!ENTITY limitContentProcess.label       "Məzmun proses limiti">
+<!ENTITY limitContentProcess.description
+                                         "Daha çox məzmun prosesləri çoxsaylı vərəq işlədərkən &brandShortName; səyyahını daha sürətli edə bilər, amma bu həmçinin çox yaddaş işlədəcək.">
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
 <!ENTITY allowHWAccel.accesskey          "d">
