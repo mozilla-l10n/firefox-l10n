@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; ລາຍການ">
 <!ENTITY bookmark_folder_one_item "1 ລາຍການ">
 <!ENTITY bookmark_parent_folder "ໂຟ​ລ​ເດີ​ຫລັກ">
+<!ENTITY bookmark_add_folder "ເພີ່ມໂຟນເດີໃຫມ່">
 
 <!ENTITY reader_saved_offline "ບັກທຶກເປັນອັອບລາຍໄວ້ແລ້ວ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "ຊື່">
 <!ENTITY bookmark_edit_location "ຕຳແຫນ່ງທີ່ຢູ່">
 <!ENTITY bookmark_edit_keyword "ຄຳທື່ຕ້ອງການຄົ້ນຫາ">
+<!ENTITY bookmark_select_folder "ເລືອກໂຟນເດີ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
