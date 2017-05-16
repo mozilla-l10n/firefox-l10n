@@ -37,6 +37,8 @@
 
 
 <!-- These controls are in the Image Map box of the expanded area -->
+
+<!ENTITY imagemapBox.label "Суретінің картасы">
 <!ENTITY removeImageMapButton.label "Өшіру">
 <!ENTITY removeImageMapButton.accessKey "ш">
 <!-- These are the options for image alignment -->

@@ -8,15 +8,15 @@
 
 
 
-
+<!ENTITY setColorExample.label "(мысалы, &quot;#0000ff&quot; немесе &quot;blue&quot;):">
 <!ENTITY default.label "Әдетті">
 <!ENTITY default.accessKey "Ә">
-
+<!ENTITY palette.label "Палитра:">
 <!ENTITY standardPalette.label "Қалыпты">
 
 <!ENTITY background.label "Фон, келесі үшін:">
 <!ENTITY background.accessKey "Ф">
 <!ENTITY table.label "Кесте">
 <!ENTITY table.accessKey "К">
-
-
+<!ENTITY cell.label "Ұяшық(тар)">
+<!ENTITY cell.accessKey "я">

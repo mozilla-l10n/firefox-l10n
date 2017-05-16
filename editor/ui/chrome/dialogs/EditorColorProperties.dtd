@@ -10,9 +10,10 @@
 
 
 
-
-
-
+<!ENTITY normalText.label "Кәдімгі мәтін">
+<!ENTITY normalText.accessKey "К">
+<!ENTITY linkText.label "Сілтеме мәтіні">
+<!ENTITY linkText.accessKey "С">
 
 
 
