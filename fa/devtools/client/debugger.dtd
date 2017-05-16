@@ -16,16 +16,26 @@
 <!ENTITY debuggerUI.closeButton.tooltip "بستن">
 <!-- LOCALIZATION NOTE (debuggerUI.panesButton.tooltip): This is the tooltip for
   -  the button that toggles the panes visible or hidden in the debugger UI. -->
+
+<!ENTITY debuggerUI.panesButton.tooltip "تغییروضعیت قطعه">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.label): This is the message
   - displayed to users when they select a black boxed source from the sources
   - list in the debugger. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.label "این منبع یک جعبه سیاه است: نقاط شکسته آن غیرفعال شده است، و همچنین پله‌های پرش به داخل آن.">
 <!-- LOCALIZATION NOTE (debuggerUI.blackBoxMessage.unBlackBoxButton): This is
   - the text displayed in the button to stop black boxing the currently selected
   - source. -->
+
+<!ENTITY debuggerUI.blackBoxMessage.unBlackBoxButton "توقف جعبه سیاه این جعبه سیاه">
 <!-- LOCALIZATION NOTE (debuggerUI.optsButton.tooltip): This is the tooltip for
   -  the button that opens up an options context menu for the debugger UI. -->
+
+<!ENTITY debuggerUI.optsButton.tooltip  "گزینه‌های اشکال‌زدایی">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
+
+<!ENTITY debuggerUI.sources.blackBoxTooltip "تغییر وضعیت جعبه سیاه">
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
 
@@ -50,14 +60,20 @@
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
 
+<!ENTITY debuggerUI.pauseExceptions           "توقف در اسنثناها">
+
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
   -  checkbox that toggles ignoring caught exceptions. -->
 
 <!-- LOCALIZATION NOTE (debuggerUI.showPanesOnInit): This is the label for the
   -  checkbox that toggles visibility of panes when opening the debugger. -->
+
+<!ENTITY debuggerUI.showPanesOnInit           "نمایش پنجره هنگام راه‌اندازی‌">
 <!ENTITY debuggerUI.showPanesOnInit.accesskey "S">
 <!-- LOCALIZATION NOTE (debuggerUI.showVarsFilter): This is the label for the
   -  checkbox that toggles visibility of a designated variables filter box. -->
+
+<!ENTITY debuggerUI.showVarsFilter           "نمایش متغییرهای جعبه پالایش">
 <!ENTITY debuggerUI.showVarsFilter.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.showOnlyEnum): This is the label for the
   -  checkbox that toggles visibility of hidden (non-enumerable) variables and
@@ -127,15 +143,23 @@
 <!ENTITY debuggerUI.focusVariables.accesskey "V">
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
+
+<!ENTITY debuggerUI.condBreakPanelTitle "نقاط شکست متوقف می‌شوند اگر اصطلاح مقابل درست باشد">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuBreak     "اضافه‌کردن نقاط وقفه">
 <!ENTITY debuggerUI.seMenuBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
+
+<!ENTITY debuggerUI.seMenuCondBreak     "افزودن نقاط وقفه شرطی">
 <!ENTITY debuggerUI.seMenuCondBreak.key "B">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for editing a breakpoint. -->
+
+<!ENTITY debuggerUI.seEditMenuCondBreak     "ویرایش نقاط وقفه شرطی">
 
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
@@ -146,6 +170,8 @@
 <!ENTITY debuggerUI.tabs.events         "رویدادها">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
+
+<!ENTITY debuggerUI.seMenuAddWatch      "انتخاب به عنوان مشاهده اصطلاح">
 
 <!-- LOCALIZATION NOTE (debuggerUI.addWatch): This is the text that
   -  appears in the watch expressions context menu for adding an expression. -->
