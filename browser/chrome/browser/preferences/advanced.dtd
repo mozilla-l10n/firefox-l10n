@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Hjálpar þér að fá betri yfirsýn yfir afköst vafra og deilir gögnum um afköst vafra með &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Virkja &brandShortName; ástandsskoðun">
 <!ENTITY enableHealthReport.accesskey    "r">
-
+<!ENTITY healthReportLearnMore.label     "Fræðast meira">
 
 <!ENTITY telemetryDesc.label             "Deilir afköstum, notkun, vélbúnaðarupplýsingum og sérsniði vafra með &vendorShortName; svo hægt sé að betrumbæta &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Deila öðrum gögnum (t.d., Fjarmælingum)">
 <!ENTITY enableTelemetryData.accesskey   "F">
-
+<!ENTITY telemetryLearnMore.label        "Fræðast meira">
 
 <!ENTITY crashReporterDesc2.label         "Hrunskýrslur hjálpa &vendorShortName; að laga vandamál og gera vafrann betri og öruggari">
 <!ENTITY alwaysSubmitCrashReports.label   "Leyfa &brandShortName; að senda hrunskýrslu í bakgrunni í þínu nafni">
 <!ENTITY alwaysSubmitCrashReports.accesskey "h">
-
+<!ENTITY crashReporterLearnMore.label     "Fræðast meira">
 
 <!ENTITY networkTab.label                "Netkerfi">
 
