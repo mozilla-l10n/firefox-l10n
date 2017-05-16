@@ -469,7 +469,7 @@
 <!ENTITY save_as_pdf "Αποθήκευση ως PDF">
 <!ENTITY print "Εκτύπωση">
 <!ENTITY find_in_page "Εύρεση στη σελίδα">
-<!ENTITY desktop_mode "Αίτημα ιστοσελίδας για υπολογιστή">
+<!ENTITY desktop_mode "Εμφάν. σελίδας desktop">
 <!ENTITY page "Σελίδα">
 <!ENTITY tools "Εργαλεία">
 <!ENTITY new_tab "Νέα καρτέλα">
