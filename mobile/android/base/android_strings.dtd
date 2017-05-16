@@ -26,6 +26,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "પાછળથી માટે કડીઓ સાચવો &brandShortName; જ્યારે તેમને અન્ય એપ્લિકેશન્સ ટેપ કરો.">
 
 <!ENTITY firstrun_tabqueue_message_on "સફળતા!">
+<!ENTITY firstrun_tabqueue_subtext_on "તમે હંમેશા આ &settings; માં બંધ કરી શકો છો; & pref_category_general; હેઠળ.">
 
 <!ENTITY firstrun_readerview_title "લેખ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
@@ -35,6 +36,7 @@
 <!ENTITY firstrun_account_title "તમે">
 <!ENTITY firstrun_account_message "&brandShortName; બીજા ઉપકરણ પર છે?">
 
+<!ENTITY  onboard_start_restricted1 "આ &brandShortName; ના સરળ આવૃત્તિ સાથે સુરક્ષિત અને નિયંત્રણમાં રહો.">
 
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
@@ -555,6 +557,7 @@
 <!ENTITY home_remote_tabs_hidden_devices_title "છુપાયેલા ઉપકરણો">
 <!-- Localization note (home_remote_tabs_unhide_selected_devices) : This is
      the text of a button; we expect more than one device. -->
+<!ENTITY home_remote_tabs_unhide_selected_devices "પસંદ કરેલ ઉપકરણ દેખીતી">
 
 <!ENTITY remote_tabs_panel_moved_link "મને મારી નવી પેનલ પર લઈ જાઓ.">
 
