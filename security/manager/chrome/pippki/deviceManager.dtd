@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Bax…">
 <!ENTITY loaddevice.browse.accesskey            "G">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 cihaz sürücüsünü yüklə">
