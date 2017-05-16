@@ -26,6 +26,8 @@
 <!ENTITY lightning.toolbar.task.tooltip       "अगले टैब में जाएँ">
 <!ENTITY lightning.toolbar.task.accesskey     "T">
 <!-- Toolbar write button -->
+
+<!ENTITY lightning.toolbar.newevent.label     "कार्यक्रम">
 <!ENTITY lightning.toolbar.newevent.tooltip   "एक नया कार्यक्रम बनायें">
 <!ENTITY lightning.toolbar.newtask.label      "कार्य">
 <!ENTITY lightning.toolbar.newtask.tooltip    "नया कार्य शुरू करें">
