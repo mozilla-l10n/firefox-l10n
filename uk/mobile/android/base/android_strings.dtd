@@ -198,10 +198,10 @@
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_advanced_summary3 "Відновлення вкладок, збереження даних, інструменти розробника">
+<!ENTITY pref_category_advanced_summary3 "Відновлення вкладок, використання даних, інструменти розробника">
 <!ENTITY pref_category_notifications "Сповіщення">
-<!ENTITY pref_category_notifications_summary "Нові можливості, оновлення сайту">
-<!ENTITY pref_content_notifications "Оновлення сайту">
+<!ENTITY pref_category_notifications_summary "Нові можливості, оновлення сайтів">
+<!ENTITY pref_content_notifications "Оновлення сайтів">
 <!ENTITY pref_content_notifications_summary2 "Знаходьте новий вміст з підтримуваних сайтів">
 <!ENTITY pref_developer_remotedebugging_usb "Віддалене зневадження через USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Віддалене зневадження через Wi-Fi">
@@ -255,7 +255,7 @@
 <!-- Localization note (pref_category_data_saver): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
-<!ENTITY pref_category_data_saver "Збереження даних">
+<!ENTITY pref_category_data_saver "Використання даних">
 <!ENTITY pref_category_media "Медіа">
 <!ENTITY pref_category_developer_tools "Інструменти розробника">
 
@@ -264,7 +264,7 @@
 <!ENTITY pref_tap_to_load_images_data "Лише через Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Заблоковано">
 
-<!ENTITY pref_show_web_fonts "Показувати веб-шрифти">
+<!ENTITY pref_show_web_fonts "Веб-шрифти">
 <!ENTITY pref_show_web_fonts_summary2 "Завантажувати віддалені шрифти при завантаженні сторінки">
 
 <!ENTITY pref_tracking_protection_title2 "Захист від стеження">
@@ -371,7 +371,7 @@
 <!ENTITY pref_use_system_font_size "Використовувати системний розмір шрифту">
 <!ENTITY pref_use_system_font_size_summary "Масштабувати веб-вміст згідно з системним розміром шрифту">
 
-<!ENTITY pref_media_autoplay_enabled "Дозволити автовідтворення">
+<!ENTITY pref_media_autoplay_enabled "Автоматичне відтворення">
 <!ENTITY pref_media_autoplay_enabled_summary "Контроль автоматичного відтворення відео та іншого медіа-вмісту веб-сайтами">
 <!ENTITY pref_zoom_force_enabled "Дозволяти змінювати масштаб">
 <!ENTITY pref_zoom_force_enabled_summary "Ігнорувати налаштування сайтів, щоб ви могли змінювати масштаб будь-якої сторінки">
