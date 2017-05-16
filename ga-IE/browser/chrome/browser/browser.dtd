@@ -401,6 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Tuilleadh">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cuardaigh nó cuir seoladh isteach">
 <!ENTITY urlbar.accesskey             "m">
