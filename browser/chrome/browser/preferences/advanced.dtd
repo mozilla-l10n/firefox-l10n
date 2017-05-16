@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht an bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do leagan den bhrabhsálaí chuig &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cumasaigh Tuairisc Shláinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "T">
-
+<!ENTITY healthReportLearnMore.label     "Tuilleadh eolais">
 
 <!ENTITY telemetryDesc.label             "Seolann sé faisnéis maidir le feidhmíocht, úsáid, crua-earraí, agus saincheapadh an bhrabhsálaí chuig &vendorShortName; chun cabhrú linn feabhas a chur ar &brandShortName;.">
 <!ENTITY enableTelemetryData.label       "Comhroinn Sonraí Breise (.i., Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Tuilleadh eolais">
 
 <!ENTITY crashReporterDesc2.label         "Cabhraíonn tuairiscí tuairteála le &vendorShortName; fadhbanna a réiteach agus brabhsálaí níos cobhsaí níos sláine a chur ar fáil">
 <!ENTITY alwaysSubmitCrashReports.label   "Lig do &brandShortName; seantuairiscí tuairteála a sheoladh ar do shon">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "Tuilleadh eolais">
 
 <!ENTITY networkTab.label                "Líonra">
 
