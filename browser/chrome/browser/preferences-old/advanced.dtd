@@ -33,17 +33,17 @@
 <!ENTITY healthReportDesc.label          "Mae'n eich cynorthwyo i ddeall berfformiad eich porwr ac yn rhannu data gyda &vendorShortName; am iechyd eich porwr">
 <!ENTITY enableHealthReport.label        "Galluogi Adroddiad Iechyd &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "A">
-
+<!ENTITY healthReportLearnMore.label     "Dysgu rhagor">
 
 <!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich porwr gyda &vendorShortName; er mwyn gwella &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Rhannu Data Ychwanegol (h.y., Telemetreg)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Dysgu rhagor">
 
 <!ENTITY crashReporterDesc2.label         "Mae adroddiadau chwalu yn cynorthwyo &vendorShortName; i ddatrys problemau ac i wneud eich porwr yn fwy sefydlog a diogel">
 <!ENTITY alwaysSubmitCrashReports.label   "Caniatáu i &brandShortName; i anfon adroddiadau chwalu wedi eu cadw ar eich rhan">
 <!ENTITY alwaysSubmitCrashReports.accesskey "a">
-
+<!ENTITY crashReporterLearnMore.label     "Dysgu rhagor">
 
 <!ENTITY networkTab.label                "Rhwydwaith">
 
@@ -63,7 +63,7 @@
 <!ENTITY clearSiteData.accesskey         "H">
 <!ENTITY siteDataSettings.label          "Gosodiadau…">
 <!ENTITY siteDataSettings.accesskey      "G">
-
+<!ENTITY siteDataLearnMoreLink.label     "Dysgu rhagor">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
