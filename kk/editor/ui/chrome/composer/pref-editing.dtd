@@ -2,16 +2,20 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  pref.editing.title        "Жаңа парақтың баптаулары">
+
+<!ENTITY  authorName.label          "Авторы:">
+<!ENTITY  authorName.accesskey      "о">
+<!ENTITY  pageColorHeader           "Әдетті парағының көрінісі">
 
 
+<!ENTITY customColors.label         "Өзгеше түстер болсын">
+<!ENTITY customColors.accesskey     "c">
 
-
-
-
-
-
-
-
+<!ENTITY normalText.label           "Кәдімгі мәтін">
+<!ENTITY normalText.accesskey       "К">
+<!ENTITY linkText.label             "Сілтеме мәтіні">
+<!ENTITY linkText.accesskey         "С">
 
 
 
@@ -20,7 +24,8 @@
 <!ENTITY background.accesskey       "Ф">
 <!ENTITY colon.character            ":">
 
-
-
-
+<!ENTITY backgroundImage.label      "Сыртқы көрiнiсi:">
+<!ENTITY backgroundImage.accesskey  "к">
+<!ENTITY chooseFile.label           "Файлды таңдау…">
+<!ENTITY chooseFile.accesskey       "т">
 

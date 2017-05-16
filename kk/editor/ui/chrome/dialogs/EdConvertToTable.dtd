@@ -4,9 +4,12 @@
 <!-- Window title -->
 
 
+<!ENTITY windowTitle.label "Кестеге айналдыру">
+
+
 <!ENTITY commaRadio.label      "Үтір">
 <!ENTITY spaceRadio.label      "Space">
-
+<!ENTITY otherRadio.label      "Басқа таңба:">
 
 
 

@@ -1,15 +1,15 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-
-
+<!ENTITY AttName.label                  "Атрибут: ">
+<!ENTITY AttValue.label                 "Мәні: ">
 <!ENTITY PropertyName.label             "Қасиеті:">
-
-
+<!ENTITY currentattributesfor.label     "Назардағы атрибуттер мынаған арналған:">
+<!ENTITY tree.attributeHeader.label     "Атрибут">
 <!ENTITY tree.propertyHeader.label      "Қасиеті">
 <!ENTITY tree.valueHeader.label         "Мәні">
-
-
+<!ENTITY tabHTML.label                  "HTML атрибуттары">
+<!ENTITY tabCSS.label                   "Құрамына енгізілген стилі">
 <!ENTITY tabJSE.label                   "JavaScript оқиғалары">
 
 <!ENTITY removeAttribute.label  "Өшіру">
