@@ -441,8 +441,8 @@
 <!ENTITY openFeedWebPage.accesskey "w">
 <!ENTITY openFeedSummary.label "Abrir como resumo">
 <!ENTITY openFeedSummary.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Trocar página web e resumo no painel de mensagens">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openFeedWebPageInMP.label "Alternar página web e resumo no painel de mensagens">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Janela">
