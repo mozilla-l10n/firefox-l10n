@@ -38,7 +38,7 @@
 <!ENTITY chooseButton.label           "Избиране…">
 <!ENTITY chooseButton.accesskey       "И">
 
-<!ENTITY translateWebPages.label      "Превод на уеб съдържание">
+<!ENTITY translateWebPages.label      "Превеждане на съдържанието на страниците">
 <!ENTITY translateWebPages.accesskey  "П">
 <!ENTITY translateExceptions.label    "Изключения…">
 <!ENTITY translateExceptions.accesskey "з">
