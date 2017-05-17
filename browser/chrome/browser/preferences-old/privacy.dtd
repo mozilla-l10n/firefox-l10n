@@ -67,7 +67,7 @@
 <!ENTITY  historyHeader.pre.label          "&brandShortName; ще:">
 <!ENTITY  historyHeader.pre.accesskey      "щ">
 <!ENTITY  historyHeader.remember.label     "Помни история">
-<!ENTITY  historyHeader.dontremember.label "Никога няма да помни история">
+<!ENTITY  historyHeader.dontremember.label "Не помни история">
 <!ENTITY  historyHeader.custom.label       "Използва потребителски настройки">
 <!ENTITY  historyHeader.post.label         "">
 
