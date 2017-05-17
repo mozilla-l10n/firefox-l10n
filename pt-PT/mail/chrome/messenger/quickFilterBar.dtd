@@ -12,7 +12,7 @@
      whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtro rápido">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Barra de filtro rápida">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.accesskey):
      The access key for the "View... Toolbars..." menu item label that controls
      whether the quick filter bar is visible.
@@ -24,13 +24,13 @@
      controls whether the quick filter bar is visible.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Barra de filtro rápido">
+<!ENTITY quickFilterBar.toggleBarVisibility.appmenu.label "Barra de filtro rápida">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.button.tooltip):
      The tooltip to display when hovering over the button on the tab bar that
      toggles the visibility of the quick filter bar.
      -->
 
-<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Alternar barra do filtro rápido">
+<!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Alternar barra de filtro rápida">
 <!-- LOCALIZATION NOTE (quickFilterBar.sticky.tooltip):
      The tooltip to display when the user hovers over the sticky button
      (currently displayed as a push-pin).  When active, the sticky button
