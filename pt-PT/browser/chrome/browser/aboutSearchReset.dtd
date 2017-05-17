@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "Restaurar as suas definições de pesquisa?">
 
-<!ENTITY searchreset.pageInfo1      "As suas definições de pesquisa poderão estar desatualizadas. O &brandShortName; pode ajudar a restaurar as definições de pesquisa predefinidas.">
+<!ENTITY searchreset.pageInfo1      "As suas definições de pesquisa poderão estar desatualizadas. O &brandShortName; pode ajudar-lhe a restaurar as definições de pesquisa predefinidas.">
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
 
