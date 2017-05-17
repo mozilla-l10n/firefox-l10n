@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Plug-in-gebruik beheren">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wijzigen of u notificaties van de website kunt ontvangen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens in permanente opslag bewaren">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wordt op afstand bestuurd">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Delen van uw camera en/of microfoon met de website beheren">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Delen van uw microfoon met de website beheren">
@@ -398,6 +399,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Meer items toevoegen…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "M">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 <!ENTITY moreMenu.label "Meer">
 
 <!ENTITY openCmd.commandkey           "l">
@@ -527,6 +531,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Bladwijzer voor dit deelvenster maken">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "URL kopiëren">
 <!ENTITY emailPageCmd.label           "Koppeling e-mailen…">
 <!ENTITY emailPageCmd.accesskey       "m">
 <!ENTITY savePageCmd.label            "Pagina opslaan als…">
