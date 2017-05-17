@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "к">
 <!ENTITY searchOnStartTyping.label       "Търсене на текст при започване на въвеждане">
 <!ENTITY searchOnStartTyping.accesskey   "Т">
-<!ENTITY blockAutoReload.label           "Предупреждение, когато страницата се опитва да пренасочи или презареди">
+<!ENTITY blockAutoReload.label           "Предупреждаване, когато страница се опитва да пренасочи или презареди">
 <!ENTITY blockAutoReload.accesskey       "П">
 <!ENTITY useOnScreenKeyboard.label       "Показване на клавиатура за докосване, ако е необходимо">
 <!ENTITY useOnScreenKeyboard.accesskey   "д">
@@ -25,7 +25,7 @@
 <!ENTITY useSmoothScrolling.accesskey    "л">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
-<!ENTITY checkUserSpelling.label         "Проверка на правописа при въвеждане">
+<!ENTITY checkUserSpelling.label         "Проверяване на правописа при въвеждане">
 <!ENTITY checkUserSpelling.accesskey     "в">
 
 <!ENTITY dataChoicesTab.label            "Данни">
