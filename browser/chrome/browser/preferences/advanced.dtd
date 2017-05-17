@@ -137,6 +137,13 @@
 <!ENTITY viewSecurityDevices.label       "Устройства по безопасността">
 <!ENTITY viewSecurityDevices.accesskey   "У">
 
+<!ENTITY performance.label               "Производителност">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Използване на препоръчителните настройки на производителността">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Препоръчителните настройки на производителността са съобразени с вашия компютър.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "п">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Научете повече">
 <!ENTITY limitContentProcess.label       "Ограничение на процесите за съдържание">
