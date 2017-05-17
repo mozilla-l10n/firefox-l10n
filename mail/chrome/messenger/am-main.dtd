@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Сервер вихідної пошти (SMTP):">
 <!ENTITY smtpName.accesskey "и">
 <!ENTITY smtpDefaultServer.label "Використовувати типовий сервер">
+
+<!ENTITY smtpEdit.label "Змінити SMTP…">
+<!ENTITY smtpEdit.accesskey "м">
