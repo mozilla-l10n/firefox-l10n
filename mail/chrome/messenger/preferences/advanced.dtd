@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Използване не повече от">
 <!ENTITY useCacheBefore.accesskey        "п">
 <!ENTITY useCacheAfter.label             "МБ за кеш">
+<!ENTITY overrideSmartCacheSize.label    "Незачитане на автоматичното управление на кеша">
+<!ENTITY overrideSmartCacheSize.accesskey "Н">
 <!ENTITY clearCacheNow.label             "Изчистване">
 <!ENTITY clearCacheNow.accesskey         "ч">
 
