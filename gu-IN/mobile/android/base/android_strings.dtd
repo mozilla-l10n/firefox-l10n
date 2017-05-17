@@ -26,7 +26,7 @@
 <!ENTITY firstrun_tabqueue_subtext_off "પાછળથી માટે કડીઓ સાચવો &brandShortName; જ્યારે તેમને અન્ય એપ્લિકેશન્સ ટેપ કરો.">
 
 <!ENTITY firstrun_tabqueue_message_on "સફળતા!">
-<!ENTITY firstrun_tabqueue_subtext_on "તમે હંમેશા આ &settings; માં બંધ કરી શકો છો; & pref_category_general; હેઠળ.">
+<!ENTITY firstrun_tabqueue_subtext_on "તમે હંમેશા આ &settings; માં બંધ કરી શકો છો; &pref_category_general; હેઠળ.">
 
 <!ENTITY firstrun_readerview_title "લેખ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
