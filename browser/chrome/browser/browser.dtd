@@ -395,6 +395,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Agiuntar dapli elements…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Tschertgar u endatar in'adressa">
 <!ENTITY urlbar.accesskey             "d">
@@ -463,7 +467,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
-<!ENTITY changeSearchSettings.button  "Parameters da tschertgar">
+<!ENTITY changeSearchSettings.button  "Midar parameters da tschertga">
 <!ENTITY changeSearchSettings.tooltip "Midar ils parameters per tschertgar">
 
 <!ENTITY searchInNewTab.label         "Tschertgar en in nov tab">
