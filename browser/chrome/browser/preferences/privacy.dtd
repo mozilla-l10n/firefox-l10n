@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader2.pre.label         "Нека &brandShortName; да">
 <!ENTITY  historyHeader2.pre.accesskey     "д">
 <!ENTITY  historyHeader.remember.label     "Помни история">
-<!ENTITY  historyHeader.dontremember.label "Не помни история никога">
+<!ENTITY  historyHeader.dontremember.label "Не помни история">
 <!ENTITY  historyHeader.custom.label       "Използва потребителски настройки">
 <!ENTITY  historyHeader.post.label         "">
 
@@ -91,13 +91,13 @@
 <!ENTITY  dontrememberActions.clearHistory.label "изчистите цялата настояща история">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "Поверителното сърфиране е винаги включено">
+<!ENTITY  privateBrowsingPermanent2.label "Винаги включено поверително разглеждане">
 <!ENTITY  privateBrowsingPermanent2.accesskey "п">
 
-<!ENTITY  rememberHistory2.label      "Запомняне на моята история на сърфиране и изтегляния">
+<!ENTITY  rememberHistory2.label      "Запазване на история на разглеждане и изтегляния">
 <!ENTITY  rememberHistory2.accesskey  "З">
 
-<!ENTITY  rememberSearchForm.label       "Помнене на историята на търсенията и формулярите">
+<!ENTITY  rememberSearchForm.label       "Запазване на история на търсения и формуляри">
 <!ENTITY  rememberSearchForm.accesskey   "ф">
 
 <!ENTITY  clearOnClose.label             "Изчистване на история при изход от &brandShortName;">
