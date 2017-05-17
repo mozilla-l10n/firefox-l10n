@@ -133,7 +133,7 @@
 <!ENTITY settings "Налаштування">
 <!ENTITY settings_title "Налаштування">
 <!ENTITY pref_category_general "Загальні">
-<!ENTITY pref_category_general_summary3 "Початкова сторінка, мова, черга вкладок">
+<!ENTITY pref_category_general_summary3 "Домівка, мова, черга вкладок">
 
 <!-- Localization note (pref_category_language) : This is the preferences
      section in which the user picks the locale in which to display Firefox
@@ -209,22 +209,22 @@
 <!ENTITY pref_remember_signons2 "Пам’ятати паролі">
 <!ENTITY pref_manage_logins "Керувати паролями">
 
-<!ENTITY pref_category_home "Початкова сторінка">
-<!ENTITY pref_category_home_summary "Налаштування початкової сторінки">
+<!ENTITY pref_category_home "Домівка">
+<!ENTITY pref_category_home_summary "Налаштування домівки">
 <!ENTITY pref_category_home_panels "Панелі">
 <!ENTITY pref_category_home_add_ons "Додатки">
 <!ENTITY pref_home_updates2 "Оновлення вмісту">
 <!ENTITY pref_home_updates_enabled "Увімкнено">
 <!ENTITY pref_home_updates_wifi "Лише через Wi-Fi">
-<!ENTITY pref_category_home_homepage "Початкова сторінка">
+<!ENTITY pref_category_home_homepage "Домівка">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Також використовувати для нових вкладок">
-<!ENTITY home_homepage_title "Встановити початкову сторінку">
+<!ENTITY home_homepage_every_new_tab "Використовувати для нових вкладок">
+<!ENTITY home_homepage_title "Встановити домівку">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, they will use the built-in default Firefox homepage (about:home). -->
-<!ENTITY home_homepage_radio_default "Початкова сторінка &brandShortName;">
+<!ENTITY home_homepage_radio_default "Домівка &brandShortName;">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
      button for this string, a text field will appear below the radio button and allow the
@@ -297,7 +297,7 @@
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Потік активності">
-<!ENTITY pref_activity_stream_summary "Розширена візуальна стрічка історії та оновлений вигляд початкової сторінки дозволяють дуже просто знайти саме те, що ви шукаєте в &brandShortName;.">
+<!ENTITY pref_activity_stream_summary "Розширена візуальна стрічка історії та оновлений вигляд домівки дозволяють дуже просто знайти саме те, що ви шукаєте в &brandShortName;.">
 
 <!ENTITY tracking_protection_prompt_title "Тепер із захистом від стеження">
 <!ENTITY tracking_protection_prompt_text "Інтенсивне блокування елементів стеження, отже вам не потрібно хвилюватись.">
