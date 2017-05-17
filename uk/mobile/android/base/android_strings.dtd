@@ -500,7 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "Відкрити у приватній вкладці">
 <!ENTITY contextmenu_remove "Вилучити">
 <!ENTITY contextmenu_add_to_launcher "Додати на головний екран">
-<!ENTITY contextmenu_set_as_homepage "Встановити початковою сторінкою">
+<!ENTITY contextmenu_set_as_homepage "Встановити домівкою">
 <!ENTITY contextmenu_share "Поділитись">
 <!ENTITY contextmenu_pasteandgo "Вставити і перейти">
 <!ENTITY contextmenu_paste "Вставити">
@@ -581,7 +581,7 @@
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
-<!ENTITY home_title "Початкова &brandShortName;">
+<!ENTITY home_title "Домівка &brandShortName;">
 <!ENTITY home_history_title "Історія">
 <!ENTITY home_synced_devices_smartfolder "Синхронізовані пристрої">
 <!ENTITY home_synced_devices_number "&formatD; пристроїв">
@@ -817,7 +817,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY whatsnew_notification_title "Маєте найновішу версію &brandShortName;">
 <!ENTITY whatsnew_notification_summary "Дізнайтеся, що нового в цій версії">
 
-<!ENTITY promotion_add_to_homescreen "Додати на домашній екран">
+<!ENTITY promotion_add_to_homescreen "Додати на головний екран">
 
 <!ENTITY helper_first_offline_bookmark_title "Читати автономно">
 <!ENTITY helper_first_offline_bookmark_message "Знаходьте елементи списку читання в закладках, навіть в автономному режимі.">
