@@ -528,7 +528,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
-<!ENTITY emailPageCmd.label           "Препратка по ел. поща">
+<!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
 <!ENTITY savePageCmd.accesskey        "З">
