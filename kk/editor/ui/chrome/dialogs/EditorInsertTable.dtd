@@ -12,7 +12,7 @@
 
 
 
-
-
+<!ENTITY borderEditField.label "Шек:">
+<!ENTITY borderEditField.accessKey "Ш">
 
 <!ENTITY pixels.label "пиксель">
