@@ -141,7 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "Käytä suositeltuja suorituskykyasetuksia">
 <!ENTITY useRecommendedPerformanceSettings.description
-                                         "Suositellut suorityskykyasetukset riippuvat tietokoneestasi.">
+                                         "Suositellut suorituskykyasetukset riippuvat tietokoneestasi.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "u">
 <!ENTITY performanceSettingsLearnMore.label
