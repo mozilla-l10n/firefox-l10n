@@ -369,6 +369,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "b">
 <!ENTITY bookmarkThisFrameCmd.label "Aggiungi riquadro ai segnalibri…">
 <!ENTITY bookmarkThisFrameCmd.accesskey "e">
+<!ENTITY copyURLCmd.label "Copia URL">
 <!ENTITY emailPageCmd.label "Invia link per email…">
 <!ENTITY emailPageCmd.accesskey "I">
 <!ENTITY savePageCmd.label "Salva pagina con nome…">
