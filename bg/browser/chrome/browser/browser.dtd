@@ -902,6 +902,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Научете повече за DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Вижте какво е новото.">
+<!ENTITY updateAvailable.header.message "Налично е обновяване на &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Изтегляне на обновяване">
+<!ENTITY updateAvailable.acceptButton.accesskey "и">
+<!ENTITY updateAvailable.cancelButton.label "Не сега">
+<!ENTITY updateAvailable.cancelButton.accesskey "с">
 
 
 <!ENTITY updateRestart.panelUI.label "Рестартиране на &brandShorterName; за обновяване">
