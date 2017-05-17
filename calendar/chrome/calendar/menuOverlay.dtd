@@ -35,7 +35,7 @@
 
 <!ENTITY showUnifinderCmd.label                 "Localizar eventos">
 <!ENTITY showUnifinderCmd.accesskey             "c">
-<!ENTITY showUnifinderCmd.tooltip               "Alternar painel Localizar eventos">
+<!ENTITY showUnifinderCmd.tooltip               "Alternar o painel de localizar eventos">
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Mostrar tarefas no calendário">
 <!ENTITY calendar.displaytodos.checkbox.accesskey   "t">
