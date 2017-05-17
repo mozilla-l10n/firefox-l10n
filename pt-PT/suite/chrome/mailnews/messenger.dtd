@@ -371,8 +371,8 @@
 <!ENTITY openFeedWebPageInWindow.accesskey "w">
 <!ENTITY openFeedSummaryInWindow.label "Resumo em nova janela">
 <!ENTITY openFeedSummaryInWindow.accesskey "s">
-<!ENTITY openFeedWebPageInMP.label "Trocar página web e resumo no painel de mensagens">
-<!ENTITY openFeedWebPageInMP.accesskey "T">
+<!ENTITY openFeedWebPageInMP.label "Alternar página web e resumo no painel de mensagens">
+<!ENTITY openFeedWebPageInMP.accesskey "t">
 <!-- Tools Menu -->
 
 <!ENTITY searchMailCmd.label "Pesquisar mensagens…">
