@@ -14,7 +14,7 @@
 <!ENTITY browseWithCaretDesc.label "A navegação por cursor permite-lhe navegar e selecionar as páginas através das teclas do cursor.">
 <!ENTITY browseWithCaretUse.label "Utilizar navegação por cursor">
 <!ENTITY browseWithCaretUse.accesskey "U">
-<!ENTITY browseWithCaretShortCut.label "Utilizar F7 para trocar a navegação por cursor">
+<!ENTITY browseWithCaretShortCut.label "Utilizar o atalho F7 para alternar a navegação por cursor">
 <!ENTITY browseWithCaretShortCut.accesskey "F">
 <!ENTITY browseWithCaretWarn.label "Avisar-me antes de ativar a navegação por cursor">
 <!ENTITY browseWithCaretWarn.accesskey "m">
