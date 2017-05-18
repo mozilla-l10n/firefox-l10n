@@ -13,7 +13,7 @@
 <!ENTITY  manualUpdate.title              "No es posible realizar la actualización">
 <!ENTITY  manualUpdate.desc               "Esta disponible una actualización de seguridad y estabilidad, pero no tienes los permisos necesarios para instalarla. Contacta a tu administrador de sistemas o intenta nuevamente desde una cuenta con los permisos necesarios para instalar programas en este equipo.">
 <!ENTITY  manualUpdate.space.desc         "Una actualización recomendada de seguridad y estabilidad está disponible, pero no tienes suficiente espacio para instarla.">
-<!ENTITY  manualUpdateGetMsg.label        "Siempre puede obtener la última versión de &brandShortName; en:">
+<!ENTITY  manualUpdateGetMsg.label        "Siempre puedes obtener la última versión de &brandShortName; en:">
 
 <!ENTITY  unsupported.title               "Sistema no soportado">
 <!ENTITY  unsupported.label               "Tu &brandShortName; no está actualizado, sin embargo la última versión no está disponible en tu sistema. Por favor actualiza tu sistema e intenta de nuevo. No verás este mensaje de nuevo, pero tu puedes">
