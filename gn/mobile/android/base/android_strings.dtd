@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Techaukaha mboguepyre">
 <!ENTITY bookmark_updated "Techaukaha mbojuapypyre">
 <!ENTITY bookmark_options "Jeporavorã">
-
+<!ENTITY bookmark_save "Ñongatu">
 <!ENTITY screenshot_added_to_bookmarks "Mba\u0027erechaha japyhy ojuajúva techaukaháre">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; temimoĩ">
 <!ENTITY bookmark_folder_one_item "1 temimoĩ">
-
-
+<!ENTITY bookmark_parent_folder "Ñongatuha mba\u0027eguasuvéva">
+<!ENTITY bookmark_add_folder "Embojuaju ñongatuha pyahu">
 
 <!ENTITY reader_saved_offline "Tairendápe ñongatupyre">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -159,6 +159,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Mongurusupyre">
 <!ENTITY overlay_share_send_other "Emondo ambue mba\u0027e\u0027okápe">
 
+<!ENTITY overlay_share_open_browser_btn_label "&brandShortName; jeike">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -218,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Kuatiarogue mba\u0027eguasuvéva">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Avei eipurukuaa tendayke pyahúpe g̃uarã">
 <!ENTITY home_homepage_title "Embohape kuatiarogue ñepyrũ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -285,11 +287,13 @@
      For more see: https://developer.chrome.com/multidevice/android/customtabs -->
 
 <!ENTITY pref_custom_tabs "Tendayke mba\u0027etéva">
-
+<!ENTITY pref_custom_tabs_summary3 "Emoneĩ tembipuru\u0027ípe oikévo ñanduti rendápe peteĩchagua ñemomba\u0027ete &brandShortName; reheguávape">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Eike &formatS;-pe">
+<!ENTITY custom_tabs_menu_footer "Ombosako\u0027íva &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL monguatiapyre">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Tembiapokue ramovéva">
@@ -364,6 +368,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Eipuru taikuéra apopyvusu peguáva">
+<!ENTITY pref_use_system_font_size_summary "Ñanduti retepy taikuéra tuichakue apopyvusu mba\u0027éva rehegua">
 
 <!ENTITY pref_media_autoplay_enabled "Emoneĩ ñemboheta ijeheguíva">
 <!ENTITY pref_media_autoplay_enabled_summary "Ñanduti renda ñangarekoha ikatu omboheta ijehegui ta\u0027ãngamýi ha ambue mba\u0027ekuaarã ñandutiguáva">
@@ -383,6 +389,7 @@
 <!ENTITY pref_import_android_summary "Techaukaha ha kundahára ypyguáva rembiasakue">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Tendayke ijurujáva">
 <!ENTITY pref_private_data_history2 "Kundahára rembiasakue">
 <!ENTITY pref_private_data_searchHistory "Tembiasakue jeheka">
 <!ENTITY pref_private_data_formdata2 "Myanyhẽha rembiasakue">
@@ -493,7 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "Eike peteĩ tendayke ñemiguápe">
 <!ENTITY contextmenu_remove "Pe\u0027a">
 <!ENTITY contextmenu_add_to_launcher "Mba\u0027erechaha ñepyrũme ñemoĩ">
-
+<!ENTITY contextmenu_set_as_homepage "Embohape kuatiarogue ñepyrũramo">
 <!ENTITY contextmenu_share "Moherakuã">
 <!ENTITY contextmenu_pasteandgo "Emboja &amp; Ho">
 <!ENTITY contextmenu_paste "Mboja">
@@ -529,6 +536,8 @@
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 
+<!ENTITY pref_compact_tabs "Tendayke momichĩmbýva">
+<!ENTITY pref_compact_tabs_summary2 "Tendayke ñemoĩporã mokõi yta oñemboývape">
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
      bookmarks, or reading list. -->
@@ -539,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Téra">
 <!ENTITY bookmark_edit_location "Tendaite">
 <!ENTITY bookmark_edit_keyword "Ñe\u0027ẽ ñemi">
-
+<!ENTITY bookmark_select_folder "Ñongatuha jeporavo">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -561,7 +570,7 @@
 <!ENTITY button_yes "Hẽe">
 <!ENTITY button_no "Nahániri">
 <!ENTITY button_clear_data "Mba\u0027ekuaarã mopotĩ">
-
+<!ENTITY button_set "Atyguáva">
 <!ENTITY button_clear "Mopotĩ">
 <!ENTITY button_copy "Mbohasarã">
 
@@ -683,7 +692,9 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY suggestion_for_engine "Eheka &formatS1; &formatS2;-pe g̃uarã">
 
 <!ENTITY searchable_description "Techaukaha ha tembiasakue">
-<!-- Updater notifications -->
+<!-- Updater notifications --> 
+
+<!ENTITY updater_start_title2 "Hekopyahujeýma &brandShortName;">
 <!ENTITY updater_start_select2 "Epoko emboguejy hag̃ua">
 
 <!ENTITY updater_downloading_title2 "Emboguejyhína &brandShortName;">
@@ -691,7 +702,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Epoko eipuru hag̃ua oguejypa rire">
 <!ENTITY updater_downloading_retry2 "Epoko eha\u0027ãjey hag̃ua">
 
-
+<!ENTITY updater_apply_title3 "Tekopyahu mboguejypyre &brandShortName;-pe g̃uarã">
+<!ENTITY updater_apply_select3 "Epoko hese emohendaha hag̃ua">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
@@ -816,11 +828,17 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY activity_stream_highlights "Ta\u0027ãngarei">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+
+<!ENTITY activity_stream_highlight_label_bookmarked "Mongurusupyre">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Jehopyre">
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
 
+<!ENTITY activity_stream_dismiss "Mosẽ">
+<!ENTITY activity_stream_delete_history "Emboguete tembiasakuégui">
 
-
+<!ENTITY activity_stream_welcome_title "Eg̃uahẽporãite kyta eguerohoryvévape">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; ombosako\u0027i umi mba\u0027eita momba\u0027epýva ehechapyréva ñandutípe ejuhukuaajey hag̃ua tape jejugua mba\u0027eita iporãva, ta\u0027ãngamýi ha ambue kuatiarogue rehegua.">
