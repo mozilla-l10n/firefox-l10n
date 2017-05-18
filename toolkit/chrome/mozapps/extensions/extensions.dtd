@@ -233,7 +233,7 @@
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "Wat is dit? Telemetry kan af en toe experimenten installeren en uitvoeren.">
 <!ENTITY experiment.info.learnmore "Meer info">
-<!ENTITY experiment.info.learnmore.accesskey "i">
+<!ENTITY experiment.info.learnmore.accesskey "M">
 <!ENTITY experiment.info.changetelemetry "Telemetry-instellingen">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
