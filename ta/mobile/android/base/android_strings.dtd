@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; உருப்படிகள்">
 <!ENTITY bookmark_folder_one_item "1 உருப்படி">
 <!ENTITY bookmark_parent_folder "நடப்பிலுள்ள அடைவு">
-
+<!ENTITY bookmark_add_folder "புதிய அடைவைச் சேர்">
 
 <!ENTITY reader_saved_offline "இணையமற்ற நிலைக்கு சேமித்தது">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "பெயர்">
 <!ENTITY bookmark_edit_location "இடம்">
 <!ENTITY bookmark_edit_keyword "முக்கியச்சொல்">
-
+<!ENTITY bookmark_select_folder "அடைவைத் தேர்">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
