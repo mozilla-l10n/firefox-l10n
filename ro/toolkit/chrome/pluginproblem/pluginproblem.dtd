@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "Fișier">
 <!ENTITY plugin.mimeTypes                                    "Tipuri MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Activează modul protejat Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "Blochează conținutul periculos și intruziv Flash">

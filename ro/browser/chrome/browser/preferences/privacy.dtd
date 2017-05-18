@@ -42,7 +42,7 @@
 <!ENTITY  locbar.searches.label         "Căutări similare de la motorul de căutare implicit">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings2.label     "Schimbă preferințele pentru su&amp;gestiile motoarelor de căutare…">
+<!ENTITY  suggestionSettings2.label     "Schimbă preferințele pentru sugestiile motoarelor de căutare…">
 
 <!ENTITY  acceptCookies.label           "Acceptă cookie-uri de la site-uri">
 <!ENTITY  acceptCookies.accesskey       "A">

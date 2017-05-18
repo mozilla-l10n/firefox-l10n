@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Numele dispozitivului">
-
-
+<!ENTITY changeSyncDeviceName2.label "Schimbă numele dispozitivului">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Renunță">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Salvează">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Schimbă fotografia de profil">
 <!ENTITY verifiedManage.label        "Gestionează contul">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "Deconectează-te…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Verifică e-mailul">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "Uită acest e-mail">

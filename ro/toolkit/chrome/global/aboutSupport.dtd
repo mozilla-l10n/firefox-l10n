@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "Toate rapoartele de defecțiuni">
 <!ENTITY aboutSupport.crashes.noConfig "Această aplicație nu a fost configurată pentru afișarea rapoartelor de defecțiuni.">
 
-<!ENTITY aboutSupport.extensionsTitle "Suplimente">
+<!ENTITY aboutSupport.extensionsTitle "Extensii">
 <!ENTITY aboutSupport.extensionName "Nume">
 <!ENTITY aboutSupport.extensionEnabled "Activat">
 <!ENTITY aboutSupport.extensionVersion "Versiune">
@@ -103,7 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Împiedică accesibilitatea">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Versiuni de biblioteci">
+<!ENTITY aboutSupport.libraryVersionsTitle "Versiuni ale bibliotecii">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
 <!ENTITY aboutSupport.updateHistoryTitle "Istoricul actualizărilor">
