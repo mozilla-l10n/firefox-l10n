@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Λογαριασμοί Firefox">
 <!ENTITY aboutAccounts.connected.description "Έχετε συνδεθεί ως">
-<!ENTITY aboutAccounts.syncPreferences.label "Πατήστε εδώ για να ελέγξετε τις ρυθμίσεις του Συγχρονισμού">
+<!ENTITY aboutAccounts.syncPreferences.label "Πατήστε εδώ για να ελέγξετε τις ρυθμίσεις του Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Δεν υπάρχει σύνδεση στο διαδίκτυο">
 <!ENTITY aboutAccounts.retry.label "Προσπαθήστε ξανά">
