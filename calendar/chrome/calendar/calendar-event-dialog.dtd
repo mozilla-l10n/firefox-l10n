@@ -38,9 +38,9 @@
 <!ENTITY event.attendees.notifyundisclosed.label     "Separate invitation per attendee">
 <!ENTITY event.attendees.notifyundisclosed.accesskey "x">
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "This option sends one invitation email per attendee. Each invitation only contains the recipient attendee so that other attendee identities are not disclosed.">
-
-
-
+<!ENTITY event.attendees.disallowcounter.label       "Disallow counter">
+<!ENTITY event.attendees.disallowcounter.accesskey   "a">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Indicates that you will not accept counterproposals">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -78,7 +78,7 @@
 
 <!ENTITY  event.menu.item.save.label                      "Save">
 <!ENTITY  event.menu.item.save.accesskey                  "S">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "a">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Save and Close">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "l">
-
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
 
 <!ENTITY  event.menu.item.delete.label                    "Delete…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
@@ -165,10 +165,13 @@
 <!ENTITY event.remove.attendee.accesskey                  "e">
 <!-- Toolbar -->
 
+<!ENTITY  event.toolbar.save.label2                       "Save">
+<!ENTITY  event.toolbar.saveandclose.label                "Save and Close">
 <!ENTITY  event.toolbar.delete.label                      "Delete">
 <!ENTITY  event.toolbar.attendees.label                   "Invite Attendees">
 <!ENTITY  event.toolbar.privacy.label                     "Privacy">
 
+<!ENTITY  event.toolbar.save.tooltip2                     "Save">
 
 <!ENTITY  event.toolbar.delete.tooltip                    "Delete">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Invite Attendees">
@@ -185,10 +188,12 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Apply proposal">
+<!ENTITY counter.button.proposal.accesskey                "p">
+<!ENTITY counter.button.proposal.tooltip2                 "Event fields will be filled in using the values from the counterproposal, only saving with or without additional changes will notify all attendees accordingly">
+<!ENTITY counter.button.original.label                    "Apply original data">
+<!ENTITY counter.button.original.accesskey                "r">
+<!ENTITY counter.button.original.tooltip2                 "The fields will be set to the values from the original event, before the counterproposal was made">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Title:" >
