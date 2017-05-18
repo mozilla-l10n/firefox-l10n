@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Bla gjennom …">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Aktiver PKCS#11-einingsdrivaren">
