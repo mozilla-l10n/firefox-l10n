@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!-- Window title -->
 <!ENTITY windowTitle.label "Sidefarver og -baggrund">
 <!ENTITY pageColors.label "Sidefarver">
 <!ENTITY defaultColorsRadio.label "Brugerens standardfarver (Angiv ikke farver)">
@@ -10,6 +11,7 @@
 <!ENTITY customColorsRadio.label "Benyt brugerdefinerede farver:">
 <!ENTITY customColorsRadio.accessKey "u">
 <!ENTITY customColorsRadio.tooltip "Disse farveindstillinger erstatter brugerens egne valg">
+
 <!ENTITY normalText.label "Normal tekst">
 <!ENTITY normalText.accessKey "N">
 <!ENTITY linkText.label "Links">
@@ -24,3 +26,4 @@
 <!ENTITY backgroundImage.label "Baggrundsbillede:">
 <!ENTITY backgroundImage.accessKey "i">
 <!ENTITY backgroundImage.tooltip "Brug et billede som baggrund på siden">
+<!ENTITY backgroundImage.shortenedDataURI "Afkortet data URI (Kopiering vil lægge den fulde URI i udklipsholderen)">
