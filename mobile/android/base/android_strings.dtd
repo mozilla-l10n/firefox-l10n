@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; objekti">
 <!ENTITY bookmark_folder_one_item "1 objekts">
 <!ENTITY bookmark_parent_folder "Vecāka mape">
+<!ENTITY bookmark_add_folder "Pievienot jaunu mapi">
 
 <!ENTITY reader_saved_offline "Saglabāts nesaistei">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "Nosaukums">
 <!ENTITY bookmark_edit_location "Adrese">
 <!ENTITY bookmark_edit_keyword "Atslēgvārdi">
+<!ENTITY bookmark_select_folder "Izvēlieties mapi">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
