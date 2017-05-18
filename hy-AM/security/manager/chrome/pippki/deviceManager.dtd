@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Ընտրել…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Բեռնել PKCS#11 սարքի սարքավարը">

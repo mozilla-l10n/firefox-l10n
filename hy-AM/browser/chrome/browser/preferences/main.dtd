@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Մեկնարկը                ">
 
-
+<!ENTITY startupPage2.label        "Երբ &brandShortName;-ը մեկնարկում է">
+<!ENTITY startupPage2.accesskey    "մ">
 <!ENTITY startupUserHomePage.label "Ցուցադրել ձեր սկզբնական էջը">
 <!ENTITY startupBlankPage.label    "Ցուցադրել դատարկ էջ">
 <!ENTITY startupPrevSession.label  "Ցուցադրել ձեր նախորդ պատուհանները և ներդիրները">
 
-
+<!ENTITY homepage2.label           "Տնային էջ">
+<!ENTITY homepage2.accesskey       "է">
 <!ENTITY useCurrentPage.label      "Օգտագործել ընթացիկ էջը">
 <!ENTITY useCurrentPage.accesskey  "ը">
 <!ENTITY useMultiple.label         "Օգտագործել ընթացիկ էջերը">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Թույլատրել, որ &brandShortName;-ը և Firefox-ը մեկնարկեն միաժամանակ">
 <!ENTITY useFirefoxSync.label             "Հուշում. Օգտագործում են առանձին պրոֆիլներ: Սինքի միջոցով կարող եք համօգտագործել տվյալները:">
-
-
+<!ENTITY getStarted.notloggedin.label     "Մուտք գործել &syncBrand.shortName.label;...">
+<!ENTITY getStarted.configured.label      "Բացել &syncBrand.shortName.label;-ի կարգավորումները">
 
 <!ENTITY e10sEnabled.label                "Միացնել բազմընթաց &brandShortName;">

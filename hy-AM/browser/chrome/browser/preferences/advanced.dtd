@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և համօգտագործել տվյալները &vendorShortName;-ի համար">
 <!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">
 <!ENTITY enableHealthReport.accesskey    "Զ">
-
+<!ENTITY healthReportLearnMore.label     "Իմանալ ավելին">
 
 <!ENTITY telemetryDesc.label             "Կիսվում է արագագործության, օգտագործման, սարքակազմի և ձեր դիտարկիչի կարգավորումներով &vendorShortName;-ի հետ՝ &brandShortName;-ը էլ ավելի լավարկելու համար">
 <!ENTITY enableTelemetryData.label       "Տարածեք լրացուցիչ տվյալներ (օր.՝ Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Իմանալ ավելին">
 
 <!ENTITY crashReporterDesc2.label         "Վթարի զեկույցները օգնում են &vendorShortName;-ին ուղղել խնդիրները և դարձնել դիտարկիչը ավելի կայուն և անվտանգ:">
 <!ENTITY alwaysSubmitCrashReports.label   "Թույլատրել &brandShortName;-ին ուղարկել վթարների պահված զեկույցները առանց ձեր գիտության">
 <!ENTITY alwaysSubmitCrashReports.accesskey "վ">
-
+<!ENTITY crashReporterLearnMore.label     "Իմանալ ավելին">
 
 <!ENTITY networkTab.label                "Ցանցը">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "ա">
 <!ENTITY siteDataSettings.label          "Կարգավորումներ...">
 <!ENTITY siteDataSettings.accesskey      "վ">
-
+<!ENTITY siteDataLearnMoreLink.label     "Իմանալ ավելին">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -92,22 +92,26 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Տարբերակ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Թույլատրել &brandShortName;-ին">
+<!ENTITY updateAuto2.label               "Թարմացումների ինքնաբար տեղադրում (խորհուրդ է տրվում. լավարկում է անվտանգությունը)">
+<!ENTITY updateAuto2.accesskey           "Թ">
+<!ENTITY updateCheckChoose2.label        "Ստուգել թարմացումները, բայց ես կընտրեմ, թե որը տեղադրել">
+<!ENTITY updateCheckChoose2.accesskey    "Ս">
+<!ENTITY updateManual2.label             "Երբեք չստուգել թարմացումները (խորհուրդ չի տրվում)">
+<!ENTITY updateManual2.accesskey         "Ե">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Ցուցադրել Թարմացումների Պատմությունը...">
+<!ENTITY updateHistory2.accesskey        "ա">
 
 <!ENTITY useService.label                "Թարմացումները տեղադրելիս օգտվել խորքային ծառայությունից">
 <!ENTITY useService.accesskey            "խ">
 
+<!ENTITY enableSearchUpdate2.label       "Ինքնաբար թարմացնել որոնիչները">
+<!ENTITY enableSearchUpdate2.accesskey   "լ">
 
-
+<!ENTITY reports.label                   "Զեկույցներ">
 
 <!ENTITY offlineStorageNotify.label               "Տեղեկացնել, երբ վեբ կայքը խնդրում է պահել ֆայլեր՝ անցանց աշխատելու համար">
 <!ENTITY offlineStorageNotify.accesskey           "Տ">
@@ -121,7 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Ջնջել անցանց ֆայլերը">
 
 <!ENTITY certificateTab.label            "Վկայագրեր">
-
+<!ENTITY certPersonal2.description       "Երբ սպասարկիչը հարցնում է ձեր անձնական վկայագիրը">
 <!ENTITY selectCerts.auto                "Ընտրել ինքնաշխատ">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Ամեն անգամ հարցնել">
@@ -133,12 +137,13 @@
 <!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
 <!ENTITY viewSecurityDevices.accesskey   "Ս">
 
-
-
-
-
-
-
-
+<!ENTITY performance.label               "Արտադրողականություն">
+<!ENTITY useRecommendedPerformanceSettings.label "Օգտ. արտադրողականության հանձնարարելի կարգավորումները">
+<!ENTITY useRecommendedPerformanceSettings.description "Արտադրողականության հանձնարարելի կարգավորումները հարմարեցված են ձեր համակարգչի համար:">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "Օ">
+<!ENTITY performanceSettingsLearnMore.label "Իմանալ ավելին">
+<!ENTITY limitContentProcess.label       "Բովանդակության ընթացքի սահմանափակում">
+<!ENTITY limitContentProcess.description "Բովանդակության շատ ընթացքները կարող են ավելի պատասխանող դարձնել &brandShortName;-ը՝ բազմակի ներդիրներ օգտագործելիս, բայց միևնույն ժամանակ՝ այն ավելի շատ հիշողություն կխլի:">
+<!ENTITY limitContentProcess.accesskey   "ս">
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">

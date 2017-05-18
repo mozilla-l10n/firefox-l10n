@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Ստուգել թարմացումները">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Ս">
-
+<!ENTITY update.updateButton.label3               "Վերամեկարկեք՝ &brandShorterName;-ը թարմացնելու համար">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -46,7 +46,7 @@
 <!ENTITY helpus.middle              " կամ ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "միացեք մեր համայնքին:">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 ".">
 
 <!ENTITY releaseNotes.link          "Ինչն է նոր">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->

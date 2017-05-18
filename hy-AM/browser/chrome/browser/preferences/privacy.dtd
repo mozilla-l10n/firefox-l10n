@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Հետագծման պաշտպանություն">
+<!ENTITY  trackingProtection.description       "Հետագծումը, երբ ընկերությունները հավաքում են տեղեկություններ ձեր մասին՝ պրոֆիլ կառուցելու և բովանդակություն ցուցմադրելու համար՝ ձեր դիտարկումների և անձնական տվյալների վրա հիմնված:">
+<!ENTITY  trackingProtection.radioGroupLabel   "Արգելափակել հետագծող հայտնի ընկերություններին բովանդակություն ցուցադրելուց">
 <!ENTITY  trackingProtectionAlways.label       "Միշտ">
 <!ENTITY  trackingProtectionAlways.accesskey   "շ">
 <!ENTITY  trackingProtectionPrivate.label      "Միայն գաղտնի պատուհաններում">
@@ -30,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Հասցեի վահանակ">
 
+<!ENTITY  locbar.suggest2.label         "Հասցեի գոտին օգտագործելիս առաջարկել">
 <!ENTITY  locbar.history.label          "Պատմություն">
 <!ENTITY  locbar.history.accesskey      "Պ">
 <!ENTITY  locbar.bookmarks.label        "Էջանիշեր">
@@ -39,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Առնչվող որոնումներ՝ հիմնական որոնիչի կողմից">
 <!ENTITY  locbar.searches.accesskey     "ո">
 
+<!ENTITY  suggestionSettings2.label     "Փոխել որոնիչների նախապատվությունները">
 
 <!ENTITY  acceptCookies.label           "Ընդունել cookie-ներ կայքերից">
 <!ENTITY  acceptCookies.accesskey       "Ը">
@@ -61,7 +65,8 @@
 <!ENTITY  showCookies.label             "Ցուցադրել Cookie-ները…">
 <!ENTITY  showCookies.accesskey         "Ց">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;-ը կսկսի`">
+<!ENTITY  historyHeader2.pre.accesskey     "կ">
 <!ENTITY  historyHeader.remember.label     "Հիշել պատմությունը">
 <!ENTITY  historyHeader.dontremember.label "Երբեք չհիշել այցելությունները">
 <!ENTITY  historyHeader.custom.label       "Պատմության համար օգտագործել սեփական կարգավորումները">
