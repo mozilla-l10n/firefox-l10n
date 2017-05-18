@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "پرونده">
 <!ENTITY plugin.mimeTypes                                    "انواع MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "فعال‌سازی حالت محافظ در Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "مسدود کردن محتوای Flash خطرناک">
