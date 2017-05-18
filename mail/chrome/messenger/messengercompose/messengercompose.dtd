@@ -14,7 +14,7 @@
 <!ENTITY newMessage.key "M">
 <!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "ر">
-<!ENTITY newContact.label "متراسل دفتر العناوين…">
+<!ENTITY newContact.label "جهة اتصال دفتر العناوين…">
 <!ENTITY newContact.accesskey "ت">
 <!ENTITY attachMenu.label "أرفق">
 <!ENTITY attachMenu.accesskey "ف">
@@ -119,8 +119,8 @@
 <!ENTITY customizeToolbar.label "خصّص…">
 <!ENTITY customizeToolbar.accesskey "خ">
 
-<!ENTITY addressSidebar.label "شريط المتراسلون الجانبي">
-<!ENTITY addressSidebar.accesskey "م">
+<!ENTITY addressSidebar.label "شريط جهات الاتصال الجانبي">
+<!ENTITY addressSidebar.accesskey "ت">
 <!-- Format Menu -->
 
 <!ENTITY formatMenu.label "التنسيق">
@@ -202,7 +202,7 @@
 
 <!ENTITY sendButton.label "أرسِل">
 <!ENTITY quoteButton.label "اقتبس">
-<!ENTITY addressButton.label "المتراسلون">
+<!ENTITY addressButton.label "جهات الاتصال">
 <!ENTITY attachButton.label "أرفق">
 <!ENTITY spellingButton.label "الإملاء">
 <!ENTITY saveButton.label "احفظ">
@@ -304,7 +304,7 @@
 <!ENTITY spellAddDictionaries.accesskey "م">
 <!-- Title for the address picker panel -->
 
-<!ENTITY addressesSidebarTitle.label "المتراسلون">
+<!ENTITY addressesSidebarTitle.label "جهات الاتصال">
 <!-- Identity popup customize menuitem -->
 
 <!ENTITY customizeFromAddress.label "خصص عنوان المُرسِل…">

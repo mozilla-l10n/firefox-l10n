@@ -14,7 +14,7 @@
 
 <!ENTITY addressbookPicker.label            "دفتر العناوين:">
 <!ENTITY addressbookPicker.accesskey        "ن">
-<!ENTITY searchContacts.label               "خصائص البحث">
+<!ENTITY searchContacts.label               "خصائص البحث:">
 <!ENTITY searchContacts.accesskey           "ث">
 <!ENTITY SearchNameOrEmail.label            "الاسم أو البريد الإلكتروني">
 

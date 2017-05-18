@@ -34,7 +34,7 @@
 <!ENTITY newIMAccountCmd.accesskey "ش">
 <!ENTITY newFeedAccountCmd.label "حساب تلقيمات…">
 <!ENTITY newFeedAccountCmd.accesskey "ت">
-<!ENTITY newIMContactCmd.label "متراسل دردشة…">
+<!ENTITY newIMContactCmd.label "جهة اتصال دردشة…">
 <!ENTITY newIMContactCmd.accesskey "ت">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
@@ -613,7 +613,7 @@
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
-<!ENTITY appmenuNewContactCmd.label "متراسل دفتر العناوين…">
+<!ENTITY appmenuNewContactCmd.label "جهة اتصال دفتر العناوين…">
 <!ENTITY appmenuEditMenu.label "تحرير">
 <!ENTITY appmenuToolbarLayout.label "تنسيق شريط الأدوات…">
 <!ENTITY appmenuSelectThread.label "اختر نقاشًا">
@@ -883,9 +883,9 @@
 <!ENTITY AddToAddressBook.accesskey "د">
 <!ENTITY AddDirectlyToAddressBook.label "أضِف إلى دفتر العناوين">
 <!ENTITY AddDirectlyToAddressBook.accesskey "د">
-<!ENTITY EditContact1.label "حرّر المراسل">
+<!ENTITY EditContact1.label "حرّر جهة الاتصال">
 <!ENTITY EditContact1.accesskey "ح">
-<!ENTITY ViewContact.label "شاهِد معلومات المراسل">
+<!ENTITY ViewContact.label "شاهِد معلومات جهة الاتصال">
 <!ENTITY ViewContact.accesskey "ت">
 <!ENTITY SubscribeToNewsgroup.label "اشترك في مجموعة الأخبار">
 <!ENTITY SubscribeToNewsgroup.accesskey "ش">

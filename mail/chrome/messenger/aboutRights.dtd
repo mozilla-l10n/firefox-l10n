@@ -52,7 +52,7 @@
 <!ENTITY rights.webservices-b "متقدم">
 <!ENTITY rights.webservices-c " ثم اختيار لسان ">
 <!ENTITY rights.webservices-d "التحديث">
-<!ENTITY rights.webservices-e " وإزالة التأشير عن ”التمس التحديثات آليًا“.">
+<!ENTITY rights.webservices-e " و إزالة التأشير عن ”التمس التحديثات آليًا“.">
 <!-- intro paragraph for unbranded builds -->
 
 <!ENTITY rights.webservices-unbranded "ينبغي أن يُضمّن هنا -إن أمكن- نظرة عامة على خدمات مواقع الوب التي يتحد معها المنتج، متضمنة تعليمات عن كيفية تعطيلها.">
