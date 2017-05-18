@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elementu">
 <!ENTITY bookmark_folder_one_item "Elementu bat">
 <!ENTITY bookmark_parent_folder "Karpeta gurasoa">
-
+<!ENTITY bookmark_add_folder "Gehitu karpeta berria">
 
 <!ENTITY reader_saved_offline "Lineaz kanpo gordeta">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -293,6 +293,7 @@
 <!ENTITY custom_tabs_menu_item_open_in "Ireki &formatS;(e)n">
 
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URLa kopiatu da">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Jardueren korrontea">
@@ -367,6 +368,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Erabili sistemaren letra-tipo tamaina">
+<!ENTITY pref_use_system_font_size_summary "Eskalatu webguneetako edukia sistemaren letra-tipoaren tamainaren arabera">
 
 <!ENTITY pref_media_autoplay_enabled "Baimendu auto-erreprodukzioa">
 <!ENTITY pref_media_autoplay_enabled_summary "Kontrolatu webguneek bideoak eta bestelako multimedia-edukiak automatikoki erreproduzi ditzaketen ala ez">
@@ -497,7 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "Ireki fitxa pribatuan">
 <!ENTITY contextmenu_remove "Kendu">
 <!ENTITY contextmenu_add_to_launcher "Gehitu hasierako pantailan">
-
+<!ENTITY contextmenu_set_as_homepage "Ezarri hasiera-orri gisa">
 <!ENTITY contextmenu_share "Partekatu">
 <!ENTITY contextmenu_pasteandgo "Itsatsi eta joan">
 <!ENTITY contextmenu_paste "Itsatsi">
@@ -545,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Izena">
 <!ENTITY bookmark_edit_location "Helbidea">
 <!ENTITY bookmark_edit_keyword "Gako-hitza">
-
+<!ENTITY bookmark_select_folder "Hautatu karpeta">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -567,7 +570,7 @@
 <!ENTITY button_yes "Bai">
 <!ENTITY button_no "Ez">
 <!ENTITY button_clear_data "Garbitu datuak">
-
+<!ENTITY button_set "Ezarri">
 <!ENTITY button_clear "Garbitu">
 <!ENTITY button_copy "Kopiatu">
 
