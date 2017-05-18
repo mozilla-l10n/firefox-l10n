@@ -34,7 +34,7 @@
 
 <!ENTITY  error.title                     "Eguneraketak huts egin du">
 
-<!ENTITY  error.label                     "Arazoak egon dira eguneraketa hau bilatu, deskargatu edo instalatzerakoan. &brandShortName; honegatik ezin da eguneratu:">
+<!ENTITY  error.label                     "Arazoak egon dira eguneraketa hau bilatu, deskargatu edo instalatzerakoan. &brandShortName; arrazoi honegatik ezin da eguneratu:">
                                            
 <!ENTITY  errorManual.label               "&brandShortName; eskuz egunera dezakezu lotura hau jarraituz eta azken bertsioa deskargatuz:">
                                            
