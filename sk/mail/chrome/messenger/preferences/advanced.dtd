@@ -89,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Vyhradiť do">
 <!ENTITY useCacheBefore.accesskey        "h">
 <!ENTITY useCacheAfter.label             "MB na disku pre vyrovnávaciu pamäť">
+<!ENTITY overrideSmartCacheSize.label    "Vlastné nastavenie vyrovnávacej pamäte">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "Vymazať teraz">
 <!ENTITY clearCacheNow.accesskey         "e">
 
