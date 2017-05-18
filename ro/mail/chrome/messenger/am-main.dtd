@@ -40,3 +40,5 @@
 <!ENTITY smtpName.label "Server de trimitere (SMTP):">
 <!ENTITY smtpName.accesskey "T">
 <!ENTITY smtpDefaultServer.label "Folosește serverul implicit">
+
+
