@@ -313,7 +313,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Fren Akk">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "F"> 
-<!ENTITY preferencesCmd2.label       "Iɣewwaṛen">
+<!ENTITY preferencesCmd2.label       "Iγewwaṛen">
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s"> 
@@ -852,7 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Asfuɣel">
 <!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-agi i yesfuɣulen armud-inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
-<!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
+<!ENTITY trackingContentBlocked.options "Iγewwaṛen">
 <!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-agi">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "K">
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
