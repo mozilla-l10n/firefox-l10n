@@ -80,7 +80,7 @@
 <!ENTITY cmd.showDetails.accesskey            "S">
 <!ENTITY cmd.findUpdates.label                "Nadi ileqman">
 <!ENTITY cmd.findUpdates.accesskey            "N">
-<!ENTITY cmd.preferencesWin.label             "Iɣewwaṛen">
+<!ENTITY cmd.preferencesWin.label             "Iγewwaṛen">
 <!ENTITY cmd.preferencesWin.accesskey         "I">
 <!ENTITY cmd.preferencesUnix.label            "Ismenyifen">
 <!ENTITY cmd.preferencesUnix.accesskey        "I">
@@ -106,7 +106,7 @@
 <!ENTITY cmd.installAddon.accesskey           "S">
 <!ENTITY cmd.uninstallAddon.label             "Kkes">
 <!ENTITY cmd.uninstallAddon.accesskey         "K">
-<!ENTITY cmd.showPreferencesWin.label         "Iɣewwaṛen">
+<!ENTITY cmd.showPreferencesWin.label         "Iγewwaṛen">
 <!ENTITY cmd.showPreferencesWin.tooltip       "Snifel iɣewwaṛen n uzegrir-agi">
 <!ENTITY cmd.showPreferencesUnix.label        "Ismenyifen">
 <!ENTITY cmd.showPreferencesUnix.tooltip      "Snifel ismenyaf n uzegrir-agi">
@@ -149,7 +149,7 @@
 <!ENTITY detail.checkForUpdates.label         "Senqed ma llan ileqman imaynuten">
 <!ENTITY detail.checkForUpdates.accesskey     "S">
 <!ENTITY detail.checkForUpdates.tooltip       "senqed ileqman n uzegrir-agi">
-<!ENTITY detail.showPreferencesWin.label      "Iɣewwaṛen">
+<!ENTITY detail.showPreferencesWin.label      "Iγewwaṛen">
 <!ENTITY detail.showPreferencesWin.accesskey  "w">
 <!ENTITY detail.showPreferencesWin.tooltip    "Snifel iɣewwaṛen n uzegrir-agi">
 <!ENTITY detail.showPreferencesUnix.label     "Ismenyifen">
