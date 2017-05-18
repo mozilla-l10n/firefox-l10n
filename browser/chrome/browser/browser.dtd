@@ -306,6 +306,12 @@
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "N">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sì">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Suggerimento:">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "hai bisogno di aiuto durante le tue ricerche? Individua la &#x1F50E; vicino ai suggerimenti di ricerca.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modifica le opzioni…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "M">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modifica le preferenze…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "M">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
