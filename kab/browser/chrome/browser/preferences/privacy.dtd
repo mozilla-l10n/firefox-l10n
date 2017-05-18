@@ -2,10 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuɣel">
+<!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuγel">
 <!ENTITY  trackingProtectionAlways.label       "Yal ass">
 <!ENTITY  trackingProtectionAlways.accesskey   "Y">
-<!ENTITY  trackingProtectionPrivate.label      "Ɣef usfaylu uslig kan">
+<!ENTITY  trackingProtectionPrivate.label      "Γef usfaylu uslig kan">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "Weṛǧin">
 <!ENTITY  trackingProtectionNever.accesskey    "W">
@@ -13,8 +13,8 @@
 <!ENTITY  trackingProtectionExceptions.label   "Tisuraf…">
 <!ENTITY  trackingProtectionExceptions.accesskey "s">
 
-<!ENTITY tracking.label                 "Asfuɣel">
-<!ENTITY trackingProtectionPBM5.label         "Seqdec ammesten mgal asfuɣel ɣef usfaylu uslig">
+<!ENTITY tracking.label                 "Asfuγel">
+<!ENTITY trackingProtectionPBM5.label         "Seqdec ammesten mgal asfuɣel γef usfaylu uslig">
 <!ENTITY trackingProtectionPBM5.accesskey     "q">
 <!ENTITY trackingProtectionPBMLearnMore.label "Issin ugar">
 <!ENTITY changeBlockList.label          "Snifel tabdart n usewḥel">
@@ -77,7 +77,7 @@
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 <!ENTITY  rememberActions.pre.label           "Ahat tebɣiḍ ">
 <!ENTITY  rememberActions.clearHistory.label  "sfeḍ amazray-inek n melmi kan">
-<!ENTITY  rememberActions.middle.label        ", neɣ ">
+<!ENTITY  rememberActions.middle.label        ", neγ ">
 <!ENTITY  rememberActions.removeCookies.label "kkes inagan n tuqqna ilmisen">
 <!ENTITY  rememberActions.post.label          ".">
 
@@ -85,7 +85,7 @@
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
-<!ENTITY  dontrememberActions.pre.label          "Ahat tebɣid diɣen ">
+<!ENTITY  dontrememberActions.pre.label          "Ahat tebγid diγen ">
 <!ENTITY  dontrememberActions.clearHistory.label "sfeḍ akk amazray amiran">
 <!ENTITY  dontrememberActions.post.label         ".">
 
@@ -101,12 +101,12 @@
 <!ENTITY  clearOnClose.label             "Sfeḍ amazray ticki tmedleḍ &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Iɣewwaṛen">
+<!ENTITY  clearOnCloseSettings.label     "Iγewwaṛen…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
 <!ENTITY  browserContainersHeader.label         "Iccaren imagbaren">
 <!ENTITY  browserContainersLearnMore.label      "Issin ugar">
 <!ENTITY  browserContainersEnabled.label        "Rmed Iccaren imagbaren">
 <!ENTITY  browserContainersEnabled.accesskey    "g">
-<!ENTITY  browserContainersSettings.label        "Iɣewwaṛen…">
+<!ENTITY  browserContainersSettings.label        "Iγewwaṛen…">
 <!ENTITY  browserContainersSettings.accesskey    "I">
