@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Isnasen">
+<!ENTITY  applications.description "Fren amek ad yeddu &brandShortName; akked ifuyla i d-saliḍ akked isnasen i tseqdaceḍ m'ara tettinigeḍ.">
 
 <!ENTITY  typeColumn.label        "Tawsit n ugbur">
 <!ENTITY  typeColumn.accesskey    "T">
