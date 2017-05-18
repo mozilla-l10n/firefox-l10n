@@ -9,6 +9,7 @@
 <!ENTITY allow           "ອະນຸຍາດການຕິດຕັ້ງນີ້">
 <!ENTITY later           "ທ່ານສາມາດປ່ຽນໃຈໄດ້ທຸກເວລາໂດຍການໄປທີ່
                           ຕົວຈັດການ Add-on.">
+<!ENTITY continue        "ດຳເນີນການຕໍ່">
 <!ENTITY restartMessage  "ທ່ານຄວນຈະລີສຕາດ &brandShortName; ເພື່ອສີ້ນສຸດການຕິດຕັ້ງ add-on ນີ້.">
 <!ENTITY restartButton   "ລີສຕາດ &brandShortName;">
 <!ENTITY cancelButton    "ຍົກເລີກ">
