@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Ինքնաթարմացնել 3 վայրկյանը մեկ">
 <!ENTITY aboutNetworking.hostname              "Հոսթի անունը">
 <!ENTITY aboutNetworking.port                  "Դարպասը">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ակտիվ">
 <!ENTITY aboutNetworking.idle                  "Անգործ">

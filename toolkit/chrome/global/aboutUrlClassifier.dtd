@@ -3,25 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.pageTitle                   "Տեղեկություն url-classifier-ի մասին">
+<!ENTITY aboutUrlClassifier.providerTitle               "Մատակարար">
+<!ENTITY aboutUrlClassifier.provider                    "Մատակարար">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Վերջին թարմացման ժամանակը">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Հաջորդ թարմացման ժամանակը">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Վերջին թարմացման վիճակը">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Թարմացում">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Փնտրում">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Համընկնում">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Ստուգել համընկման արդյունքը">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Փնտրում">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Ստուգե փնտրման արդյունքը">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Շտեմ">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Հիշողություն">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Տվյալների շտեմարան">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Վրիպազերծել">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Կայել մատյանի մոդուլները">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Կայել մատյանի ֆայլը">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Կայել JS մատյանը">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Անվտանգ դիտարկման մատյանի մոդուլներ">
+<!ENTITY aboutUrlClassifier.debugModules                "Ընթացիկ մատյանի մոդուլները">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Անվտանգ դիտարկման JS մատյան">
+<!ENTITY aboutUrlClassifier.debugFile                   "Ընթացիկ մատյանի ֆայլ">
