@@ -401,6 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Gehiago">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Idatzi bilaketa edo helbidea">
 <!ENTITY urlbar.accesskey             "d">
@@ -905,23 +907,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRMri buruzko argibide gehiago…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Eguneratu zure &brandShorterName; abiaduran eta pribatutasunean azkena eskuratzeko.">
+
+
+<!ENTITY updateAvailable.acceptButton.label "Deskargatu eguneraketa">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Une honetan ez">
+<!ENTITY updateAvailable.cancelButton.accesskey "e">
+<!ENTITY updateAvailable.panelUI.label "Deskargatu &brandShorterName; eguneraketa">
+
+
+
+<!ENTITY updateManual.acceptButton.label "Deskargatu &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY updateRestart.header.message2 "Berrabiarazi &brandShorterName; eguneratzeko.">
 
 
 
