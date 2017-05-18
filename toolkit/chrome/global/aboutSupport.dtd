@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Verzió">
 <!ENTITY aboutSupport.extensionId "Azonosító">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "A &brandShortName; szolgáltatásai">
+<!ENTITY aboutSupport.featureName "Név">
+<!ENTITY aboutSupport.featureVersion "Verzió">
+<!ENTITY aboutSupport.featureId "Azonosító">
 
 <!ENTITY aboutSupport.experimentsTitle "Kísérleti funkciók">
 <!ENTITY aboutSupport.experimentName "Név">
