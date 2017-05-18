@@ -20,6 +20,7 @@
 <!ENTITY installAddonFromFile.accesskey       "I">
 <!ENTITY toolsMenu.tooltip                    "Tembipuru opaite moimbahápe g̃uarã">
 
+<!ENTITY getThemes.description                "¿Eñemomba'ese nekundahára rehe?">
 <!ENTITY getThemes.learnMore                  "Eiporavo hetaite mbojeguaha apytépe.">
 
 <!ENTITY cmd.back.tooltip                     "Eguevi jey">
@@ -187,6 +188,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "HEJAPYRE">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->

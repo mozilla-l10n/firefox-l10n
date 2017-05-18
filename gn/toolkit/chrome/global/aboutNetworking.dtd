@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Embopiro'y ijehegui 3 aravo'ive og̃uahẽvo">
 <!ENTITY aboutNetworking.hostname              "Mohendahavusu réra">
 <!ENTITY aboutNetworking.port                  "Mbojuajuhaite">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Myandypyre">
 <!ENTITY aboutNetworking.idle                  "okéva">
@@ -30,8 +30,8 @@
 <!ENTITY aboutNetworking.bytesSent             "Bytes mondopyre">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes japyhypyre">
 <!ENTITY aboutNetworking.logging               "Hasapy">
-
-
+<!ENTITY aboutNetworking.logTutorial           "Eporandu <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> eikuaaséramo mba'éichapa eipurúta ko tembipuru.">
+<!ENTITY aboutNetworking.currentLogFile        "Marandurenda rembiasakue rehegua:">
 
 
 
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Japopa">
 <!ENTITY aboutNetworking.dnsDomain             "Tendatee">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN Papapy'atygua">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN rekotee">
 
 
 
