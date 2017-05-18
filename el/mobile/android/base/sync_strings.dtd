@@ -11,22 +11,22 @@
 <!ENTITY sync.title.connect.label 'Σύνδεση στην υπηρεσία &syncBrand.shortName.label;'>
 
 <!-- J-PAKE Key Screen -->
-<!ENTITY sync.subtitle.connect.label 'To activate your new device, select “Set up &syncBrand.shortName.label;” on the device.'>
-<!ENTITY sync.subtitle.pair.label 'To activate, select “Pair a device” on your other device.'>
+<!ENTITY sync.subtitle.connect.label 'Για να ενεργοποιήσετε τη νέα σας συσκευή, επιλέξτε τη «Ρύθμιση του &syncBrand.shortName.label;» σε αυτήν.'>
+<!ENTITY sync.subtitle.pair.label 'Για ενεργοποίηση, επιλέξτε τη «Σύζευξη με συσκευή» στην άλλη συσκευή σας.'>
 <!ENTITY sync.pin.default.label '...\n...\n...\n'>
-<!ENTITY sync.link.nodevice.label 'I don\&apos;t have the device with me…'>
+<!ENTITY sync.link.nodevice.label 'Δεν έχω τη συσκευή μαζί μου…'>
 
 <!-- Configure Engines -->
-<!ENTITY sync.configure.engines.title.passwords2 'Logins'>
-<!ENTITY sync.configure.engines.title.history 'History'>
-<!ENTITY sync.configure.engines.title.tabs 'Tabs'>
+<!ENTITY sync.configure.engines.title.passwords2 'Στοιχεία σύνδεσης'>
+<!ENTITY sync.configure.engines.title.history 'Ιστορικό'>
+<!ENTITY sync.configure.engines.title.tabs 'Καρτέλες'>
 
 <!-- Localization note (sync.default.client.name): Default string of the "Device
      name" menu item upon setting up Firefox Sync.  The placeholder &formatS1
      will be replaced by the name of the Firefox release channel and &formatS2
      by the model name of the Android device. Examples look like "Aurora on
      GT-I1950" and "Fennec on MI 2S". -->
-<!ENTITY sync.default.client.name '&formatS1; on &formatS2;'>
+<!ENTITY sync.default.client.name '&formatS1; στο &formatS2;'>
 
 <!-- Bookmark folder strings -->
 <!ENTITY bookmarks.folder.menu.label 'Bookmarks Menu'>
@@ -46,18 +46,18 @@
      Firefox. -->
 <!ENTITY fxaccount_back_to_browsing 'Back to browsing'>
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync 'Welcome to &syncBrand.shortName.label;'>
-<!ENTITY fxaccount_getting_started_description2 'Sign in to sync your tabs, bookmarks, logins &amp; more.'>
+<!ENTITY fxaccount_getting_started_welcome_to_sync 'Καλώς ήλθατε στο &syncBrand.shortName.label;'>
+<!ENTITY fxaccount_getting_started_description2 'Συνδεθείτε για να συγχρονίσετε τις καρτέλες, τους σελιδοδείκτες, τα στοιχεία σύνδεσης σας &amp; άλλα.'>
 <!ENTITY fxaccount_getting_started_get_started 'Get started'>
-<!ENTITY fxaccount_getting_started_old_firefox 'Using an older version of &syncBrand.shortName.label;?'>
+<!ENTITY fxaccount_getting_started_old_firefox 'Χρησιμοποιείτε μια παλαιότερη έκδοση του &syncBrand.shortName.label;;'>
 
 <!ENTITY fxaccount_status_signed_in_as 'Signed in as'>
 <!ENTITY fxaccount_status_manage_account 'Διαχείριση λογαριασμού'>
 <!ENTITY fxaccount_status_auth_server 'Account server'>
 <!ENTITY fxaccount_status_sync_now 'Συγχρονισμός now'>
-<!ENTITY fxaccount_status_syncing2 'Συγχρονισμόςing…'>
+<!ENTITY fxaccount_status_syncing2 'Συγχρονισμός…'>
 <!ENTITY fxaccount_status_device_name 'Device name'>
-<!ENTITY fxaccount_status_sync_server 'Συγχρονισμός server'>
+<!ENTITY fxaccount_status_sync_server 'Εξυπηρετητής Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
 <!ENTITY fxaccount_status_sync_enabled '&syncBrand.shortName.label;: enabled'>
 <!ENTITY fxaccount_status_needs_verification2 'Your account needs to be verified. Tap to resend verification email.'>

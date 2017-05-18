@@ -574,7 +574,7 @@
 <!ENTITY button_clear "Εκκαθάριση">
 <!ENTITY button_copy "Αντιγραφή">
 
-<!ENTITY home_top_sites_title "Δημοφιλείς σελίδες">
+<!ENTITY home_top_sites_title "Κορυφαίες ιστοσελίδες">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Προσθήκη σελίδας">
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Προσθέστε τα στοιχεία της προβολής ανάγνωσης στους σελιδοδείκτες για να τα διαβάζετε χωρίς σύνδεση.">
 <!ENTITY helper_triple_readerview_open_button "Προσθήκη στους σελιδοδείκτες">
 
-<!ENTITY activity_stream_topsites "Αγαπημένες σελίδες">
+<!ENTITY activity_stream_topsites "Κορυφαίες ιστοσελίδες">
 <!ENTITY activity_stream_highlights "Τα καλύτερα">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
