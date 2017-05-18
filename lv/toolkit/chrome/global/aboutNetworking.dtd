@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Atrast">
 <!ENTITY aboutNetworking.dnsDomain             "Domēns">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN statuss">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Kešatmiņas uzvaru skaits">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Tīkla uzvaru skaits">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Kopējais tīkla pieprasījumu skaits">
