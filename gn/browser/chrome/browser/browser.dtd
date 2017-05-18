@@ -40,12 +40,12 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "Tendayke mombytapy mbogue">
 <!ENTITY  unpinTab.accesskey                 "b">
-
-
-
-
-
-
+<!ENTITY  sendTabToDevice.label              "Emondo Tendayke Mba'e'okápe">
+<!ENTITY  sendTabToDevice.accesskey          "M">
+<!ENTITY  sendPageToDevice.label             "Emondo Kuatiarogue Mba'e'okápe">
+<!ENTITY  sendPageToDevice.accesskey         "M">
+<!ENTITY  sendLinkToDevice.label             "Emondo Juajuha Mba'e'okápe">
+<!ENTITY  sendLinkToDevice.accesskey         "M">
 <!ENTITY  moveToNewWindow.label              "Ovetã pyahúpe jegueraha">
 <!ENTITY  moveToNewWindow.accesskey          "W">
 <!ENTITY  bookmarkAllTabs.label              "Opaite tendayke mbojoapy…">
@@ -111,7 +111,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "Opaite tendayke jehechauka">
 <!ENTITY showAllTabsCmd.accesskey "A">
-
+<!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label;-pe jeike">
 <!ENTITY fxaSignedIn.tooltip "Eike &syncBrand.shortName.label; oguerohoryvévape">
@@ -184,7 +184,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Opaite techaukaha jehechauka">
 <!ENTITY recentBookmarks.label "Oñembokurusu ramóva">
 <!ENTITY otherBookmarksCmd.label "Ambuekuéra Techaukaha">
-
+<!ENTITY mobileBookmarksCmd.label "Pumbyry Rechaukaha">
 <!ENTITY bookmarksToolbarChevron.tooltip "Techaukaha jehechaukave">
 <!ENTITY showRecentlyBookmarked.label     "Oñemongurusu Ramóva">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -206,7 +206,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.viewSiteInfo.label                      "Ehecha marandu ko tenda pegua">
 
-
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Eike ñe'ẽmondo rupápe">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Tendaite jerurepy rupa ijurujáva">
 
 
 
@@ -241,7 +242,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Techaukaha">
 <!ENTITY bookmarksMenuButton.other.label "Ambue Techaukahakuéra">
-
+<!ENTITY bookmarksMenuButton.mobile.label "Pumbyry Rechaukaha">
 <!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 
@@ -278,8 +279,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Marandurenda"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
+<!ENTITY newUserContext.label             "Tendayke pyahu rerekoha">
+<!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "Ovetã pyahu">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
@@ -355,9 +356,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Ndaipóri tendayke ijurujáva">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Ehechaukave">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Techaukapa">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
@@ -370,7 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Jerohoryvéva Mbojuehe">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Emoñepyrũ tembiapopa'ũ ehecha hag̃ua tendayke rysýi ambue ne mba'e'okaguáva.">
 <!ENTITY appMenuRemoteTabs.signin.label "Eike Sync-pe">
-
+<!ENTITY appMenuRemoteTabs.managedevices.label "Mba'e'oka ñangarekoha…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ehecha mbojuehepyre tenda yképe">
 
 <!ENTITY customizeMenu.addToToolbar.label "Tembipuru rendáre mbojoapy">
@@ -396,10 +399,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Hetave">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Ñe'ẽreka ýrõ kundaharape">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "Jepysokue:">
 <!ENTITY urlbar.switchToTab.label     "Tendayképe jeguerova:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "Eikuaasevépa nde jeheka rembihasakue ayvuporã rupi">
@@ -464,7 +470,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Jeheka mba'epytyvõrã moambue">
-
+<!ENTITY changeSearchSettings.tooltip "Jeheka mba'epytyvõrã moambue">
 
 <!ENTITY searchInNewTab.label         "Tendayke pyahúpe jeheka">
 <!ENTITY searchInNewTab.accesskey     "T">
@@ -483,8 +489,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "Ovetã pyahu korápe jeike">
 <!ENTITY openFrameCmd.accesskey       "W">
-
-
+<!ENTITY openLinkCmdInContainerTab.label "Juajuha tendayke pyahu ñongatuhápe jeike">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Ko kora año jehechauka">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -703,7 +709,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "Mohu'ã">
-
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Jeikekatu">
 <!ENTITY identity.connectionNotSecure "Jeikekatu'ỹre">
@@ -780,9 +786,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Mbohasarã">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
-
-
-
+<!ENTITY syncedTabs.context.openAllInTabs.label              "Tendayképe jeikepa">
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
+<!ENTITY syncedTabs.context.managedevices.label              "Mba'e'oka ñangarekoha…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -902,22 +909,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateAvailable.cancelButton.label "Ani ko'ág̃a">
+<!ENTITY updateAvailable.cancelButton.accesskey "A">
 
 
 
 
 
 
+<!ENTITY updateManual.cancelButton.label "Ani ko'ág̃a">
+<!ENTITY updateManual.cancelButton.accesskey "A">
 
 
 
 
 
+<!ENTITY updateRestart.cancelButton.label "Ani ko'ág̃a">
+<!ENTITY updateRestart.cancelButton.accesskey "A">
 
 
-
-
-
-
-
-
+<!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">

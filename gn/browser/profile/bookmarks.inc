@@ -109,7 +109,7 @@
 # Nightly builds only, link title for https://developer.mozilla.org/
 
 
-#define mdn Mozilla Developer Network
+#define mdn Mozilla Mboguatahakuéra
 
 
 # LOCALIZATION NOTE (nightly_tester_tools):

@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Tekopyahu reka">
 <!ENTITY update.checkForUpdatesButton.accesskey   "T">
-
+<!ENTITY update.updateButton.label3               "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
@@ -67,7 +67,7 @@
 <!ENTITY update.adminDisabled       "Tekopyahu ñangarekohára omongeva'ekue">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->
 <!ENTITY update.otherInstanceHandlingUpdates "&brandShortName; oñembohekopyahuhína ambuéva rupi">
-
+<!ENTITY update.restarting          "Moñepyrũjey…">
 <!-- LOCALIZATION NOTE (update.failed.start,update.failed.linkText,update.failed.end):
      update.failed.start, update.failed.linkText, and update.failed.end all go into
      one line with linkText being wrapped in an anchor that links to a site to download
