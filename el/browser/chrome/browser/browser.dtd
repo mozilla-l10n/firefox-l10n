@@ -398,6 +398,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
 <!ENTITY urlbar.accesskey             "δ">
@@ -756,7 +760,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Συγχρονισμένες καρτέλλες">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Συνδεθείτε στο Firefox από τις άλλες συσκευές σας για να δείτε τις καρτέλες τους εδώ.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "Μη συγχρονισμένες καρτέλες… ακόμη!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Θέλετε να δείτε τις καρτέλες σας από άλλες συσκευές εδώ;">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Συνδεθείτε για να δείτε μια λίστα καρτελών από τις άλλες συσκευές σας.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Δεν υπάρχουν ανοικτές καρτέλες">
@@ -788,7 +792,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.managedevices.accesskey          "Σ">
 
 
-<!ENTITY syncBrand.shortName.label    "Συγχρονισμός">
+<!ENTITY syncBrand.shortName.label    "Sync">
 
 <!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Υ">
