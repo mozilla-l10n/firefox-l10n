@@ -13,7 +13,7 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
-<!ENTITY  reportIdleAfter.label         "أعلِم متراسلي بخمولي بعد">
+<!ENTITY  reportIdleAfter.label         "أعلِم جهات اتصالي بخمولي بعد">
 <!ENTITY  reportIdleAfter.accesskey     "ع">
 <!ENTITY  idleTime                      "دقائق من عدم النشاط">
 

@@ -22,7 +22,7 @@
 <!ENTITY accountAdvanced.newMailNotification.label   "أعلِم بوصول بريد جديد">
 <!ENTITY accountAliasGroupbox.caption "الكنية المحلية">
 <!ENTITY accountAliasField.label      "الكنية:">
-<!ENTITY accountAliasInfo.label       "ستُعرض هذه في محادثاتك عندما تتكلم، ولن يراها المتراسلون.">
+<!ENTITY accountAliasInfo.label       "ستُعرض هذه في محادثاتك عندما تتكلم، ولن تراها جهات الاتصال.">
 <!ENTITY accountProxySettings.caption "إعدادات الوسيط">
 <!ENTITY accountProxySettings.change.label     "غيّر…">
 <!ENTITY accountProxySettings.change.accessKey "غ">

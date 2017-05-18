@@ -20,4 +20,4 @@
 <!ENTITY editContactPanelDone.label "تمّ">
 <!ENTITY editContactPanelDone.accesskey "ت">
 
-<!ENTITY contactMoveDisabledWarning.description "لا يمكنك تغيير دفتر العناوين لأن المراسل في قائمة بريدية.">
+<!ENTITY contactMoveDisabledWarning.description "لا يمكنك تغيير دفتر العناوين لأن جهة الاتصال في قائمة بريدية.">

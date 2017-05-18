@@ -3,15 +3,15 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "دفتر العناوين">
-<!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا المتراسلين إلا بعد البحث">
-<!ENTITY localResultsOnlyMessage.label                  "المتراسلين من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
+<!ENTITY blankResultsPaneMessage.label                  "لا يعرض دفتر العناوين هذا جهات الاتصال إلا بعد البحث">
+<!ENTITY localResultsOnlyMessage.label                  "جهات الاتصال من دفاتر العناوين البعيدة لا تظهر إلا بعد البحث">
 <!-- File Menu -->
 
 <!ENTITY fileMenu.label                                 "ملف">
 <!ENTITY fileMenu.accesskey                             "م">
 <!ENTITY newMenu.label                                  "جديد">
 <!ENTITY newMenu.accesskey                              "ج">
-<!ENTITY newContact.label                               "متراسل دفتر العناوين…">
+<!ENTITY newContact.label                               "جهة اتصال دفتر العناوين…">
 <!ENTITY newContact.accesskey                           "و">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "قائمة بريدية…">
@@ -31,12 +31,12 @@
 <!ENTITY closeCmd.accesskey                             "غ">
 <!ENTITY printSetupCmd.label                            "إعداد الصفحة…">
 <!ENTITY printSetupCmd.accesskey                        "ع">
-<!ENTITY printPreviewContactCmd.label                   "عاين طباعة المراسل">
+<!ENTITY printPreviewContactCmd.label                   "عاين طباعة جهة الاتصال">
 <!ENTITY printPreviewContactCmd.accesskey               "ط">
 <!ENTITY printPreviewAddressBook.label                  "عاين طباعة دفتر العناوين">
 <!ENTITY printPreviewAddressBook.accesskey              "و">
-<!ENTITY printContactCmd.label                          "اطبع المراسل…">
-<!ENTITY printContactCmd.accesskey                      "م">
+<!ENTITY printContactCmd.label                          "اطبع جهة الاتصال…">
+<!ENTITY printContactCmd.accesskey                      "ت">
 <!ENTITY printContactCmd.key                            "P">
 <!ENTITY printAddressBook.label                         "اطبع دفتر العناوين…">
 <!ENTITY printAddressBook.accesskey                     "د">
@@ -62,8 +62,8 @@
 <!ENTITY deleteCmd.label                                "احذف">
 <!ENTITY deleteCmd.accesskey                            "ح">
 <!ENTITY deleteAbCmd.label                              "احذف دفتر العناوين">
-<!ENTITY deleteContactCmd.label                         "احذف المتراسل">
-<!ENTITY deleteContactsCmd.label                        "احذف المتراسلين">
+<!ENTITY deleteContactCmd.label                         "احذف جهة الاتصال">
+<!ENTITY deleteContactsCmd.label                        "احذف جهات الاتصال">
 <!ENTITY deleteListCmd.label                            "احذف القائمة">
 <!ENTITY deleteListsCmd.label                           "احذف القوائم">
 <!ENTITY deleteItemsCmd.label                           "احذف العناصر">
@@ -136,7 +136,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmdUnix.accesskey                   "ف">
 <!-- Address Book Toolbar and Context Menus -->
 
-<!ENTITY newContactButton.label                         "متراسل جديد">
+<!ENTITY newContactButton.label                         "جهة اتصال جديدة">
 <!ENTITY newContactButton.accesskey                     "ج">
 <!ENTITY newlistButton.label                            "قائمة جديدة">
 <!ENTITY newlistButton.accesskey                        "ق">
@@ -161,7 +161,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY deleteButton2.accesskey                        "ح">
 <!-- Address Book Toolbar Tooltips -->
 
-<!ENTITY newContactButton.tooltip                       "أنشئ متراسل جديد في دفتر العناوين">
+<!ENTITY newContactButton.tooltip                       "أنشئ جهة اتصال جديدة في دفتر العناوين">
 <!ENTITY newlistButton.tooltip                          "أنشئ قائمة جديدة">
 <!ENTITY editPropertiesButton.tooltip                   "حرّر العنصر المُختار">
 <!ENTITY editAbPropertiesButton.tooltip                 "حرر خصائص دفتر العناوين المُحدّد">
@@ -219,7 +219,7 @@ because displayed names don't have the comma in between. -->
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
-<!ENTITY contact.heading                                "متراسل">
+<!ENTITY contact.heading                                "جهة اتصال">
 <!ENTITY home.heading                                   "المنزل">
 <!ENTITY other.heading                                  "أخرى">
 <!ENTITY chat.heading                                   "الدردشة">

@@ -17,7 +17,7 @@
 <!ENTITY deniedPortAccess.longDesc "​">
 
 <!ENTITY dnsNotFound.title "الخادوم غير موجود">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>افحص العنوان بحثًا عن أخطاء كتابية ك‍ <strong>ww</strong>.example.com بدلا من  <strong>www</strong>.example.com</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان الحاسوب أو الشبكة محميّين بجدار ناري أو وسيط، تأكّد أنّ &brandShortName; مسموح له الاتصال بالوِب.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>افحص العنوان بحثًا عن أخطاء كتابية ك‍ <strong>ww</strong>.example.com بدلا من <strong>www</strong>.example.com</li> <li>إذا كنت غير قادر على تحميل أي صفحة، افحص اتصال الحاسوب بالشبكة.</li> <li>إذا كان الحاسوب أو الشبكة محميّين بجدار ناري أو وسيط، تأكّد أنّ &brandShortName; مسموح له الاتصال بالوِب.</li> </ul>">
 
 <!ENTITY fileNotFound.title "الملف غير موجود">
 <!ENTITY fileNotFound.longDesc "<ul> <li>افحص اسم الملف بحثًا عن أخطاء في الكتابة.</li> <li>تأكد أن الملف لم يُنقل، أو يتغير اسمه، أو يُحذف.</li> </ul>">
