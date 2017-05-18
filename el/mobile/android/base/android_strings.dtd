@@ -12,7 +12,7 @@
 <!ENTITY firstrun_data_title "Δεδομένα">
 <!ENTITY firstrun_data_message "Λιγότερα δεδομένα, μεγαλύτερη οικονομία">
 <!ENTITY firstrun_data_subtext2 "Απενεργοποιήστε τις εικόνες για να ξοδεύετε λιγότερα δεδομένα σε κάθε ιστοσελίδα που επισκέπτεστε.">
-<!ENTITY firstrun_sync_title "Συγχρονισμός">
+<!ENTITY firstrun_sync_title "Sync">
 <!ENTITY firstrun_sync_message "Το &brandShortName; πάντα στο πλευρό σας">
 <!ENTITY firstrun_sync_subtext "Συγχρονίστε τις καρτέλες, τους κωδικούς πρόσβασης και άλλα οπουδήποτε τον χρησιμοποιείτε.">
 <!ENTITY firstrun_signin_message "Συνδεθείτε και ξεκινήστε">
