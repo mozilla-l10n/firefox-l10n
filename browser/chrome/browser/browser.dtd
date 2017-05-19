@@ -923,11 +923,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "இப்போது வேண்டாம்">
 <!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
 
-
-
-
+<!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "இப்போது வேண்டாம்">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "புதுப்பிப்பை நிறுவ &brandShorterName; உலாவியை மீள்துவக்கு">
