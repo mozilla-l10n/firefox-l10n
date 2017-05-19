@@ -262,7 +262,7 @@
 <!ENTITY pref_tap_to_load_images_title2 "أظهِر الصور">
 <!ENTITY pref_tap_to_load_images_enabled "دائمًا">
 <!ENTITY pref_tap_to_load_images_data "عبر واي فاي فقط">
-<!ENTITY pref_tap_to_load_images_disabled2 "امنعها">
+<!ENTITY pref_tap_to_load_images_disabled2 "احجبها">
 
 <!ENTITY pref_show_web_fonts "أظهر خطوط الوب">
 <!ENTITY pref_show_web_fonts_summary2 "نزّل الخطوط عن بعد عند تحميل الصفحة">
@@ -300,7 +300,7 @@
 <!ENTITY pref_activity_stream_summary "تلقيمات غنية من تأريخ التصفح و إعادة تصور لصفحة البداية تجعل العثور على ما تبحث عنه في &brandShortName; أسهل من أي وقت كان.">
 
 <!ENTITY tracking_protection_prompt_title "الآن مع حماية من التعقّب">
-<!ENTITY tracking_protection_prompt_text "يمنع عناصر التعقب لئلا تقلق بشأنها.">
+<!ENTITY tracking_protection_prompt_text "يحجب عناصر التعقب لئلا تقلق بشأنها.">
 <!ENTITY tracking_protection_prompt_tip_text "طالع إعدادات الخصوصية للاطلاع على المزيد">
 <!ENTITY tracking_protection_prompt_action_button "فهمت!">
 
@@ -651,8 +651,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_chromeui "هذه صفحة &brandShortName; آمنة">
 <!-- Mixed content notifications in site identity popup -->
 
-<!ENTITY mixed_content_blocked_all1 "منع &brandShortName; محتوى غير آمن في هذه الصفحة.">
-<!ENTITY mixed_content_blocked_some1 "منع &brandShortName; بعض المحتوى غير الآمن في هذه الصفحة.">
+<!ENTITY mixed_content_blocked_all1 "حجب &brandShortName; محتوى غير آمن في هذه الصفحة.">
+<!ENTITY mixed_content_blocked_some1 "حجب &brandShortName; بعض المحتوى غير الآمن في هذه الصفحة.">
 <!ENTITY mixed_content_display_loaded1 "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
 <!ENTITY mixed_content_protection_disabled1 "لقد أوقفت الحماية من المحتوى غير الآمن.">
 <!-- Tracking content notifications in site identity popup -->
@@ -660,7 +660,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_title2 "الحماية من التعقّب">
 <!ENTITY doorhanger_tracking_state_enabled "مفعّلة">
 <!ENTITY doorhanger_tracking_state_disabled "مُعطّلة">
-<!ENTITY doorhanger_tracking_message_enabled1 "مُنعت محاولات لتعقّب سلوكك على الإنترنت.">
+<!ENTITY doorhanger_tracking_message_enabled1 "حُجبت محاولات لتعقّب سلوكك على الإنترنت.">
 <!ENTITY doorhanger_tracking_message_disabled2 "في هذه الصفحة عناصر قد تتعقّب التصفّح.">
 <!-- Common mixed and tracking content strings in site identity popup -->
 
