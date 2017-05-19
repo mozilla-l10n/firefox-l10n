@@ -199,6 +199,6 @@
   -  on the context menu that copies the selected request's url. This should be
   -  the same as netmonitorUI.context.copyUrl -->
 
-<!ENTITY debuggerUI.context.copyUrl           "رونوشت‌برداشتن از نشانی اینترنتی">
+<!ENTITY debuggerUI.context.copyUrl           "رونوشت از نشانی">
 <!ENTITY debuggerUI.context.copyUrl.accesskey "C">
 <!ENTITY debuggerUI.context.copyUrl.key "C">
