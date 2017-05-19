@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Help om die blaaier se werkverrigting te verstaan en deel data met &vendorShortName; oor die blaaier se gesondheid">
 <!ENTITY enableHealthReport.label        "Aktiveer &brandShortName;-gesondheidsverslag">
 <!ENTITY enableHealthReport.accesskey    "r">
-
+<!ENTITY healthReportLearnMore.label     "Meer inligting">
 
 <!ENTITY telemetryDesc.label             "Deel data oor werkverrigting, gebruik, hardeware en aanpassings van die blaaier met &vendorShortName; om te help om &brandShortName; te verbeter">
 <!ENTITY enableTelemetryData.label       "Deel verdere data (m.a.w. Telemetrie)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Meer inligting">
 
 <!ENTITY crashReporterDesc2.label         "Omvalverslae help &vendorShortName; om probleme op te los en die blaaier meer stabiel en veilig te maak">
 <!ENTITY alwaysSubmitCrashReports.label   "Laat &brandShortName; toe om opgehoopte omvalverslae namens u te stuur">
 <!ENTITY alwaysSubmitCrashReports.accesskey "h">
-
+<!ENTITY crashReporterLearnMore.label     "Meer inligting">
 
 <!ENTITY networkTab.label                "Netwerk">
 
@@ -61,7 +61,7 @@
 
 <!ENTITY siteDataSettings.label          "Instellings…">
 <!ENTITY siteDataSettings.accesskey      "I">
-
+<!ENTITY siteDataLearnMoreLink.label     "Meer inligting">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -138,9 +138,9 @@
 
 
 
-
-
-
-
+<!ENTITY performanceSettingsLearnMore.label "Meer inligting">
+<!ENTITY limitContentProcess.label       "Perk op inhoudprosesse">
+<!ENTITY limitContentProcess.description "Meer inhoudprosesse verbeter &brandShortName; se reaksiespoed met klomp oortjies, maar sal ook meer geheue gebruik.">
+<!ENTITY limitContentProcess.accesskey   "P">
 <!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
 <!ENTITY allowHWAccel.accesskey          "r">
