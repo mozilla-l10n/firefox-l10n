@@ -80,11 +80,14 @@
 <!ENTITY fxaccount_status_more "More&ellipsis;">
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
+<!ENTITY fxaccount_remove_account_dialog_title2 "kíb Sync?">
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 "Lél myíb &formatS; lent Firefox.">
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
+<!ENTITY fxaccount_remove_account_dialog_action_confirm "Kíb bá">
 
 <!ENTITY fxaccount_enable_debug_mode "Dob kí Debug">
 <!-- Localization note: this is the name shown by the Android system
