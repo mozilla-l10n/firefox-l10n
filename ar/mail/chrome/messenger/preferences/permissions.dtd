@@ -13,8 +13,8 @@
 <!ENTITY removeallpermissions.accesskey "ك">
 <!ENTITY address.label                "عنوان الموقع:">
 <!ENTITY address.accesskey            "و">
-<!ENTITY block.label                  "احظر">
-<!ENTITY block.accesskey              "ظ">
+<!ENTITY block.label                  "احجب">
+<!ENTITY block.accesskey              "ح">
 <!ENTITY session.label                "اسمح لهذه الجلسة">
 <!ENTITY session.accesskey            "ج">
 <!ENTITY allow.label                  "اسمح">
