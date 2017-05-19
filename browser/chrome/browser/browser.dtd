@@ -224,13 +224,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "أدِر ترجمة الصفحة">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "لقد حظرت كمرتك عن هذا الموقع.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "لقد حظرت ميكروفونك عن هذا الموقع.">
-<!ENTITY urlbar.screenBlocked.tooltip            "لقد حظرت هذا الموقع من مشاركة شاشتك.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "لقد حظرت معلومات مكانك عن هذا الموقع.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "لقد حظرت تخزين البيانات عن هذا الموقع.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حظرت التنبيهات عن هذا الموقع.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حظرت الحفظ الدائم للبيانات عن هذا الموقع.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "لقد حجبت كمرتك عن هذا الموقع.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "لقد حجبت ميكروفونك عن هذا الموقع.">
+<!ENTITY urlbar.screenBlocked.tooltip            "لقد حجبت هذا الموقع من مشاركة شاشتك.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "لقد حجبت معلومات مكانك عن هذا الموقع.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "لقد حجبت تخزين البيانات عن هذا الموقع.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "لقد حجبت التنبيهات عن هذا الموقع.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "لقد حجبت الحفظ الدائم للبيانات عن هذا الموقع.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "اعرض التأريخ">
 
@@ -681,14 +681,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "طراز صفحة بسيط">
 <!ENTITY pageStylePersistentOnly.accesskey "ص">
 
-<!ENTITY pageReportIcon.tooltip            "غيّر إعدادات منع النوافذ المنبثقة لهذا الموقع">
+<!ENTITY pageReportIcon.tooltip            "غيّر إعدادات حجب النوافذ المنبثقة لهذا الموقع">
 
 <!ENTITY allowPopups.accesskey "ن">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
-<!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات منع النوافذ المنبثقة…">
-<!ENTITY editPopupSettings.label "حرّر خيارات منع النوافذ المنبثقة…">
+<!ENTITY editPopupSettingsUnix.label "حرّر تفضيلات حجب النوافذ المنبثقة…">
+<!ENTITY editPopupSettings.label "حرّر خيارات حجب النوافذ المنبثقة…">
 <!ENTITY editPopupSettings.accesskey "ح">
 <!ENTITY dontShowMessage.accesskey "ت">
 
@@ -721,7 +721,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!-- Strings for connection state warnings. -->
 
-<!ENTITY identity.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
+<!ENTITY identity.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة من هذه الصفحة.">
 <!ENTITY identity.passiveLoaded "بعض أجزاء هذه الصفحة غير آمنة (مثل الصور).">
 <!ENTITY identity.activeLoaded "لقد أوقفت الحماية على هذه الصفحة.">
 <!ENTITY identity.weakEncryption "تستخدم هذه الصفحة تعمية ضعيفة.">
@@ -731,10 +731,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.insecureLoginForms "معلومات الولوج التي تُدخلها في هذه الصفحة ليست مُؤمّنة و قد تكون مخترقة.">
 <!ENTITY identity.description.weakCipher "اتصالك بهذا الموقع يستخدم تعمية ضعيفة وليس خاصًّا أيضًا.">
 <!ENTITY identity.description.weakCipher2 "يمكن للآخرين الاطلاع على معلوماتك أو تغيير سلوك الموقع.">
-<!ENTITY identity.description.activeBlocked "منع &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
+<!ENTITY identity.description.activeBlocked "حجب &brandShortName; الأجزاء غير الآمنة في هذه الصفحة.">
 <!ENTITY identity.description.passiveLoaded "اتصالك ليس خاصًا و يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع.">
 <!ENTITY identity.description.passiveLoaded2 "يحوي هذا الموقع محتوى غير آمن (مثل الصور).">
-<!ENTITY identity.description.passiveLoaded3 "مع أنّ &brandShortName; منع بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور).">
+<!ENTITY identity.description.passiveLoaded3 "مع أنّ &brandShortName; حجب بعض المحتويات، إلا أن هناك أخرى غير آمنة ما زالت في الصفحة (مثل الصور).">
 <!ENTITY identity.description.activeLoaded "يحوي هذا الموقع محتوى غير آمن (مثل السكربتات) و اتصالك به ليس خاصا.">
 <!ENTITY identity.description.activeLoaded2 "يمكن للآخرين مطالعة المعلومات التي تشاركها مع الموقع (مثل كلمات السر، و الرسائل، و بطاقات الائتمان و غيرها).">
 
@@ -834,7 +834,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "ستُشارك كل النوافذ الظاهرة على شاشتك.">
 
 <!ENTITY trackingProtection.title "الحماية من التعقّب">
-<!ENTITY trackingProtection.detectedBlocked3 "يحظر &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
+<!ENTITY trackingProtection.detectedBlocked3 "يحجب &brandShortName; أجزاءً من الصفحة ربما تتعقب تصفّحك.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "في هذا الموقع عناصر قد تتعقّب تصفّحك. لقد عطّلتَ الحماية.">
 <!ENTITY trackingProtection.notDetected3 "لم تُكتشف أيّة عناصر تعقّب في هذه الصفحة.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
@@ -851,7 +851,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "ف">
 
 <!ENTITY trackingContentBlocked.message "التعقب">
-<!ENTITY trackingContentBlocked.moreinfo "منعت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
+<!ENTITY trackingContentBlocked.moreinfo "حجبت بعض أجزاء من الصفحة تحاول تتبع نشاطك على الإنترنت.">
 <!ENTITY trackingContentBlocked.learnMore "اطّلع على المزيد">
 <!ENTITY trackingContentBlocked.options "الخيارات">
 <!ENTITY trackingContentBlocked.unblock2.label "أوقف الحماية لهذا الموقع">
@@ -866,7 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pluginActivateNow.label "اسمح الآن">
 <!ENTITY pluginActivateAlways.label "اسمح و تذكّر">
-<!ENTITY pluginBlockNow.label "امنع الملحقة">
+<!ENTITY pluginBlockNow.label "احجب الملحقة">
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
