@@ -4,7 +4,7 @@
 
 <!ENTITY  popups.label                "النوافذ المنبثقة">
 
-<!ENTITY  blockPopups.label           "امنع النوافذ المنبثقة">
+<!ENTITY  blockPopups.label           "احجب النوافذ المنبثقة">
 <!ENTITY  blockPopups.accesskey       "ذ">
 
 <!ENTITY  notificationsPolicy.label            "التنبيهات">

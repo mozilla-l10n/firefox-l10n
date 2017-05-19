@@ -11,7 +11,7 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
-<!ENTITY  enableSafeBrowsing.label        "احظر المحتوي الخطير و المخادع">
+<!ENTITY  enableSafeBrowsing.label        "احجب المحتوي الخطير و المخادع">
 <!ENTITY  enableSafeBrowsing.accesskey    "ح">
 
 <!ENTITY  blockDownloads.label            "احجب التنزيلات الخطيرة">

@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY window.title                 "قوائم المنع">
+<!ENTITY window.title                 "قوائم الحجب">
 <!ENTITY window.width                 "55em">
 
 <!ENTITY treehead.list.label          "قائمة">
