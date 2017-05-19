@@ -6,7 +6,7 @@
 <!ENTITY tapToPlayPlugin                                     "اضغط هنا لتفعيل الملحقة.">
 <!ENTITY clickToActivatePlugin                               "فعّل المُلحقة.">
 <!ENTITY checkForUpdates                                     "التمس التحديثات…">
-<!ENTITY blockedPlugin.label                                 "لقد مُنعت هذه الملحقة لحمايتك.">
+<!ENTITY blockedPlugin.label                                 "لقد حُجبت هذه الملحقة لحمايتك.">
 <!ENTITY hidePluginBtn.label                                 "أخفِ الملحقة">
 <!ENTITY managePlugins                                       "أدِر الملحقات…">
 <!-- LOCALIZATION NOTE (reloadPlugin.pre): include a trailing space as needed -->
@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "ملف">
 <!ENTITY plugin.mimeTypes                                    "أنواع MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "فعّل وضع الحماية لفلاش أدوبي">
-<!ENTITY plugin.enableBlocklists.label                       "امنع محتوى فلاش الخطير و المتطفّل">
+<!ENTITY plugin.enableBlocklists.label                       "احجب محتوى فلاش الخطير و المتطفّل">
