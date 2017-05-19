@@ -21,7 +21,7 @@
 <!ENTITY privatebrowsingpage.close.label         "Dit venster nu sluiten">
 <!ENTITY privatebrowsingpage.close.accesskey     "s">
 
-<!ENTITY privatebrowsingpage.start.info          "Klik om privénavigatie te starten op onderstaande knop of selecteer Bestand ▶ Nieuw ▶ Privévenster in het menu.">
+<!ENTITY privatebrowsingpage.start.info          "Klik om privénavigatie te starten op de onderstaande knop of selecteer Bestand > Nieuw > Privévenster vanuit het menu.">
 <!ENTITY privatebrowsingpage.private.label       "Een nieuw privévenster openen">
 <!ENTITY privatebrowsingpage.private.accesskey   "o">
 
