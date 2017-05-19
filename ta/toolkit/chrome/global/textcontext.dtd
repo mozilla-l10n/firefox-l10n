@@ -25,6 +25,7 @@
 <!ENTITY spellDictionaries.label "மொழி">
 <!ENTITY spellDictionaries.accesskey "L">
 
+<!ENTITY searchTextBox.clear.label "துடை">
 
 <!ENTITY fillLoginMenu.label          "புகுபதிகையை நிரப்பு">
 <!ENTITY fillLoginMenu.accesskey      "F">

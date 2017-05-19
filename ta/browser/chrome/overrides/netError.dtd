@@ -107,6 +107,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; உலாவி <span id='wrongSystemTime_URL'/> இணைக்கவில்லை ஏனெனில் உங்கள் கணினியின் கடிகாரம் தவறான நேரத்தை காட்டுவதால் பாதுகாப்பான இணைப்பைத் தடுக்கிறது.</p> <p>உங்கள் கணினி <span id='wrongSystemTime_systemDate'/> என எண்ணுகிறது, ஆனால் <span id='wrongSystemTime_actualDate'/> என இருக்க வேண்டும். இப்பிரச்சனையை சரிசெய்ய, சரியான நேரத்திற்கு பொருந்துமாறு உங்கள் தேதியையும் நேரத்தையும் மாற்றி அமைக்கவும்.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; உலாவி <span id='wrongSystemTimeWithoutReference_URL'/> இணைக்கவில்லை ஏனெனில் உங்கள் கணினியின் கடிகாரம் தவறான நேரத்தை காட்டுவதால் பாதுகாப்பான இணைப்பைத் தடுக்கிறது.</p> <p>உங்கள் கணினி <span id='wrongSystemTimeWithoutReference_systemDate'/> என எண்ணுகிறது. இப்பிரச்சனையை சரிசெய்ய, சரியான நேரத்திற்கு பொருந்துமாறு உங்கள் கடிகாரத்தை மாற்றி அமைக்கவும்.</p>">
 
 <!ENTITY certerror.pagetitle1  "பாதுகாப்பற்ற இணைப்பு">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "இத்தளம் HTTP Strict Transport Security (HSTS) என்பதினை &brandShortName; அதனுடன் மட்டுமே பாதுகாப்பாக இணைக்கலாம் என்பதைக் குறிக்க பயன்படுத்துகிறது. இதன் விளைவாக, இந்தச் சான்றிதழுக்கு விதிவிலக்கு வழங்குவது சாத்தியமில்லை.">
