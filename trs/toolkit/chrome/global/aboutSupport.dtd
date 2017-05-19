@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Versión">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; danaj huaj">
 
 
 
@@ -65,7 +66,8 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Ga'i ventana 'iaj sun">
 
-
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Si da'ga' Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Location Service Key">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Hua ran yi'í man">
 
@@ -112,14 +114,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Nachrun' datos riña portapapeles">
 
 <!ENTITY aboutSupport.sandboxTitle "Sa chruu">
-
-
-
-
-
-
-
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rejected System Calls">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Hiàj ná doj">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "daj 'iaj sun ma">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Nuin saj">
 
 <!ENTITY aboutSupport.safeModeTitle "Garahue' modo seguro">
 <!ENTITY aboutSupport.restartInSafeMode.label "Nayi'í ñun' nga nej sa nitaj si 'iaj sun">

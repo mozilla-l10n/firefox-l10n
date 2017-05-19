@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Nagui'iaj nako' da' 3 diu li">
 <!ENTITY aboutNetworking.hostname              "Si yugui sí raj sun">
 <!ENTITY aboutNetworking.port                  "Puerto">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Ngà' 'iaj sunj">
 <!ENTITY aboutNetworking.idle                  "Nitaj si 'iaj sunj">
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Nagi'io'">
 <!ENTITY aboutNetworking.dnsDomain             "Nikaj ñu'unj">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN giriñu">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN giriñu">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache gi'iaj gana guenda na">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Gi'iaj ganaj guênda">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Daran' sa achín red na">
