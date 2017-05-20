@@ -12,7 +12,7 @@
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "لا يحفظ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        " فَيَرفُكس:">
 <!ENTITY aboutPrivateBrowsing.info.visited               "الصفحات المُزارة">
-<!ENTITY aboutPrivateBrowsing.info.searches              "البحوث">
+<!ENTITY aboutPrivateBrowsing.info.searches              "عمليات البحث">
 <!ENTITY aboutPrivateBrowsing.info.cookies               "الكعكات">
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "الملفات المؤقتة">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "​">
