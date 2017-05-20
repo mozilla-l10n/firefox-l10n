@@ -98,7 +98,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsTitle "Grafika">
 
-<!ENTITY aboutSupport.placeDatabaseTitle "Databáze umístění">
+<!ENTITY aboutSupport.placeDatabaseTitle "Databáze Places">
 <!ENTITY aboutSupport.placeDatabaseIntegrity "Integrita">
 <!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Zkontrolovat integritu">
 
