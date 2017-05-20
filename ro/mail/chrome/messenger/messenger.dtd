@@ -46,7 +46,7 @@
 <!ENTITY saveAsTemplateCmd.label "Șablon">
 <!ENTITY saveAsTemplateCmd.accesskey "l">
 <!ENTITY getNewMsgForCmd.label "Adu mesajele noi pentru">
-<!ENTITY getNewMsgForCmd.accesskey "o">
+<!ENTITY getNewMsgForCmd.accesskey "w">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Toate conturile">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul actual">
@@ -54,7 +54,7 @@
 <!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
-<!ENTITY sendUnsentCmd.accesskey "T">
+<!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abonare…">
 <!ENTITY subscribeCmd.accesskey "b">
 <!ENTITY deleteFolder.label "Șterge dosarul">
@@ -63,15 +63,15 @@
 <!ENTITY renameFolder.accesskey "R">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Compactează dosarele">
-<!ENTITY compactFolders.accesskey "C">
+<!ENTITY compactFolders.accesskey "F">
 <!ENTITY emptyTrashCmd.label "Golește coșul de gunoi">
-<!ENTITY emptyTrashCmd.accesskey "G">
+<!ENTITY emptyTrashCmd.accesskey "y">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "l">
 <!ENTITY offlineGoOfflineCmd.label "Lucrează offline">
-<!ENTITY offlineGoOfflineCmd.accesskey "L">
-<!ENTITY synchronizeOfflineCmd.label "Descarcă și sincronizează…">
-<!ENTITY synchronizeOfflineCmd.accesskey "s">
+<!ENTITY offlineGoOfflineCmd.accesskey "W">
+<!ENTITY synchronizeOfflineCmd.label "Descarcă/Sincronizează acum…">
+<!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Setări pentru lucrul offline">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
 <!ENTITY downloadSelectedCmd.label "Adu mesajele selectate">
