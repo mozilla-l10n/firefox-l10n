@@ -69,12 +69,12 @@ do seu computador.</li> 
 
 <!ENTITY contentEncodingError.title "Erro na codificação do conteúdo">
 <!ENTITY contentEncodingError.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Entre em contato com os proprietários do site para informá-los sobre esse problema.</li> 
 </ul>">
 
 <!ENTITY unsafeContentType.title "Tipo de arquivo inseguro">
 <!ENTITY unsafeContentType.longDesc "<ul> 
-<li>Por favor, contate os responsáveis pelo site para informá-los deste problema.</li> 
+<li>Entre em contato com os proprietários do site para informá-los sobre esse problema.</li> 
 </ul>">
 
 <!ENTITY netReset.title "A conexão foi redefinida">
