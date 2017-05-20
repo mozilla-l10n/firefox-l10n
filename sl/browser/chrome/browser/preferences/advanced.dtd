@@ -93,11 +93,23 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "Različica ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; naj">
+<!ENTITY updateAuto2.label               "Samodejno namešča posodobitve (priporočeno za večjo varnost)">
+<!ENTITY updateAuto2.accesskey           "p">
+<!ENTITY updateCheckChoose2.label        "Preverja posodobitve, vendar vam prepusti odločitev o nameščanju">
+<!ENTITY updateCheckChoose2.accesskey    "o">
+<!ENTITY updateManual2.label             "Nikoli ne preverja posodobitev (ni priporočeno)">
+<!ENTITY updateManual2.accesskey         "N">
 
+<!ENTITY updateHistory2.label            "Prikaži zgodovino posodobitev …">
+<!ENTITY updateHistory2.accesskey        "z">
 
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
 <!ENTITY useService.accesskey            "s">
 
+<!ENTITY enableSearchUpdate2.label       "Samodejno posodabljaj iskalnike">
+<!ENTITY enableSearchUpdate2.accesskey   "i">
 
 <!ENTITY reports.label                   "Poročila">
 
@@ -124,7 +136,11 @@
 <!ENTITY viewSecurityDevices.label       "Varnostne naprave">
 <!ENTITY viewSecurityDevices.accesskey   "a">
 
+<!ENTITY performance.label               "Učinkovitost delovanja">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Več o tem">
+<!ENTITY limitContentProcess.accesskey   "O">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">

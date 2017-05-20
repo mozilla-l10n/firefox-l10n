@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Programi">
+<!ENTITY  applications.description "Izberite, kako naj &brandShortName; ravna z datotekami, ki jih prenesete s spleta, ter aplikacijami, ki jih uporabljate med brskanjem.">
 
 <!ENTITY  typeColumn.label        "Vrsta vsebine">
 <!ENTITY  typeColumn.accesskey    "T">

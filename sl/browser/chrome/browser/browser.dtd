@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Odpri ploščo s sporočili o shranjevanju gesel">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Za to stran ste zavrnili uporabo podatkov o lokaciji.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Za to stran ste zavrnili shranjevanje podatkov.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Za to stran ste zavrnili prikaz obvestil.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Za to spletno stran ste zavrnili trajno shrambo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Pokaži zgodovino">
 
@@ -395,6 +397,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "R">
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj več predmetov …">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+<!ENTITY moreMenu.label "Več">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Iskanje ali naslov strani">
@@ -899,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Več o DRM …">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Posodobite svoj &brandShorterName; za najnovejše izboljšave hitrosti in zasebnosti.">
 <!ENTITY updateAvailable.whatsnew.label "Oglejte si, kaj je novega.">
 <!ENTITY updateAvailable.header.message "Na voljo je nova posodobitev za &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Prenesi posodobitev">
@@ -917,9 +925,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Prenesi svežo kopijo &brandShorterName;a">
 
 <!ENTITY updateRestart.message "Po hitrem ponovnem zagonu bo &brandShorterName; obnovil vse odprte zavihke in okna.">
+<!ENTITY updateRestart.header.message2 "Ponovno zaženi za posodobitev &brandShorterName;a.">
 <!ENTITY updateRestart.acceptButton.label "Ponovno zaženi in obnovi">
 <!ENTITY updateRestart.acceptButton.accesskey "P">
 <!ENTITY updateRestart.cancelButton.label "Ne zdaj">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Ponovno zaženi &brandShorterName; za namestitev posodobitve">
 
+<!ENTITY pageActionButton.tooltip "Dejanja strani">
