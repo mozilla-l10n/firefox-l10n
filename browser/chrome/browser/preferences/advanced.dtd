@@ -93,6 +93,7 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "Versjon ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Tillat &brandShortName; å">
 <!ENTITY updateAuto2.label               "Installer oppdateringer automatisk (anbefales for forbedret sikkerhet)">
 
