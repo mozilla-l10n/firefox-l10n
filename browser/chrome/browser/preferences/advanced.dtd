@@ -131,5 +131,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "k">
 
 <!ENTITY performance.label               "Yting">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Les meir">
+<!ENTITY limitContentProcess.label       "Grense for innhaldsprosessar">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
