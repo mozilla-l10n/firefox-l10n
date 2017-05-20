@@ -1,0 +1,25 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informasjon om url-klassifisereren.">
+<!ENTITY aboutUrlClassifier.providerTitle               "Leverandør">
+<!ENTITY aboutUrlClassifier.provider                    "Leverandør">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Sist oppdatert">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Neste oppdatering">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Slå opp">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Treff">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller treffresultat">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Slå opp">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller oppslagsresultat">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Hurtiglager">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Feilsøking">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Velg loggmoduler">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Velg loggfil">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Velg JS-logg">

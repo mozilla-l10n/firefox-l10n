@@ -41,6 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå opp">
 <!ENTITY aboutNetworking.dnsDomain             "Domene">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-er">
+<!ENTITY aboutNetworking.rcwn                  "RCWN-statistikk">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN-status">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Antall cache won">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Antall net won">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antall nettverksforespørsler">
