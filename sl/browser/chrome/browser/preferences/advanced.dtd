@@ -93,8 +93,6 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "Različica ">
-<!ENTITY updateAuto2.label               "Samodejno nameščaj posodobitve (priporočeno za večjo varnost)">
-<!ENTITY updateManual2.label             "Nikoli ne preverjaj posodobitev (ni priporočeno)">
 
 
 <!ENTITY useService.label                "Uporabi storitev za nameščanje posodobitev v ozadju">
