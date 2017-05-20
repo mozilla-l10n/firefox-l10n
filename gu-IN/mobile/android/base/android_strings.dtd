@@ -5,6 +5,7 @@
 <!ENTITY firstrun_panel_title_welcome "આપનું સ્વાગત છે">
 
 <!ENTITY firstrun_urlbar_message "&brandShortName; મા આપનું સ્વાગત છે">
+<!ENTITY firstrun_urlbar_subtext "ઝડપથી વસ્તુઓ શોધો મદદરૂપ શોધ સૂચન શોર્ટકટ્સ સાથે.">
 <!ENTITY firstrun_bookmarks_title "ઇતિહાસ">
 <!ENTITY firstrun_bookmarks_message "તમારી faves, આગળ અને કેન્દ્ર">
 <!ENTITY firstrun_bookmarks_subtext "જ્યારે તમે શોધ કરો ત્યારે તમારા બુકમાર્ક્સ અને ઇતિહાસ માંથી પરિણામો મેળવો.">
@@ -31,6 +32,7 @@
 <!ENTITY firstrun_readerview_title "લેખ">
 <!-- Localization note (firstrun_readerview_message): This is a casual way of describing getting rid of unnecessary things, and is referring to simplifying websites so only the article text and images are visible, removing unnecessary headers or ads. -->
 <!ENTITY firstrun_readerview_message "ક્લટર ગુમાવો">
+<!ENTITY firstrun_readerview_subtext "રીડર દૃશ્ય વાપરો લેખો વાંચવા માટે સરળ બનાવવા \u2014 ઓફલાઇન પણ.">
 
 <!-- Localization note (firstrun_devices_title): This is a casual way of addressing the user, somewhat referring to their online identity (which would include other devices, Firefox usage, accounts, etc). -->
 <!ENTITY firstrun_account_title "તમે">
