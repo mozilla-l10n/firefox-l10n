@@ -6,6 +6,8 @@
 <!ENTITY     hostCol.label                 "Nettsted">
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Lagring">
+<!ENTITY     searchTextboxPlaceHolder             "Søk på nettsider">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Fjern valgte">
 <!ENTITY     removeSelected.accesskey      "r">
 <!ENTITY     save.label                    "Lagre endringer">

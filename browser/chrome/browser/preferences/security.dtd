@@ -26,6 +26,8 @@
 
 <!ENTITY  formsAndPasswords.label       "Skjema og passord">
 
+<!ENTITY  rememberLogins1.label          "Husk brukernavn og passord for nettsteder">
+<!ENTITY  rememberLogins1.accesskey      "H">
 <!ENTITY  passwordExceptions.label      "Unntak …">
 <!ENTITY  passwordExceptions.accesskey  "n">
 
