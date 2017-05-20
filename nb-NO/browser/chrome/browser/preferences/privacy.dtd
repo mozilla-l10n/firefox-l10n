@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Sporingsbeskyttelse">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Bare i private vinduer">
@@ -60,6 +61,8 @@
 <!ENTITY  showCookies.label             "Vis infokapsler …">
 <!ENTITY  showCookies.accesskey         "V">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; vil">
+<!ENTITY  historyHeader2.pre.accesskey     "v">
 <!ENTITY  historyHeader.remember.label     "Huske historikk">
 <!ENTITY  historyHeader.dontremember.label "Aldri huske historikk">
 <!ENTITY  historyHeader.custom.label       "Bruke egne innstillinger for historikk">
