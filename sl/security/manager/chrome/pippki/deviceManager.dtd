@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Prebrskaj ...">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Naloži gonilnik naprave PKCS#11">
