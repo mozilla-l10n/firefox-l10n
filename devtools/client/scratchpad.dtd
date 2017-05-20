@@ -90,8 +90,10 @@
   -  for the help button in the menubar but Gnome does not.
   -->
 
-
-
+<!ENTITY helpMenu.label               "Ajutor">
+<!ENTITY helpMenu.accesskey           "H">
+<!ENTITY helpMenuWin.label            "Ajutor">
+<!ENTITY helpMenuWin.accesskey        "H">
 
 
 <!-- LOCALIZATION NOTE (resetContext2.label): This command allows the developer

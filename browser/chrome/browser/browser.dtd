@@ -38,7 +38,7 @@ can reach it easily. -->
 
 <!ENTITY  pinTab.label                       "Fixează fila">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "Anulează fixarea">
+<!ENTITY  unpinTab.label                     "Anulează fixarea filei">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "Trimite fila pe dispozitiv">
 <!ENTITY  sendTabToDevice.accesskey          "d">
