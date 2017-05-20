@@ -43,3 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "Adresses IP">
 <!ENTITY aboutNetworking.rcwn                  "Statistiques RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "État RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombre de victoires du cache">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Nombre de victoires du réseau">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Nombre total de requêtes réseau">
