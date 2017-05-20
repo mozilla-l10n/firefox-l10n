@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; elemente">
 <!ENTITY bookmark_folder_one_item "1 element">
-
+<!ENTITY bookmark_parent_folder "Dosar părinte">
 
 
 <!ENTITY reader_saved_offline "Salvat offline">
@@ -543,7 +543,7 @@
 <!ENTITY bookmark_edit_name "Nume">
 <!ENTITY bookmark_edit_location "Locație">
 <!ENTITY bookmark_edit_keyword "Cuvânt cheie">
-
+<!ENTITY bookmark_select_folder "Alege dosarul">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
