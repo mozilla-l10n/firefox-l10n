@@ -10,6 +10,8 @@
 <!ENTITY startupBlankPage.label    "Vis tom side">
 <!ENTITY startupPrevSession.label  "Vis vinduer og faner som ble brukt sist">
 
+<!ENTITY homepage2.label           "Startside">
+<!ENTITY homepage2.accesskey       "S">
 <!ENTITY useCurrentPage.label      "Bruk åpen nettside">
 <!ENTITY useCurrentPage.accesskey  "B">
 <!ENTITY useMultiple.label         "Bruk åpne nettsider">
@@ -38,5 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Tillat &brandShortName; og Firefox å kjøre samtidig">
 <!ENTITY useFirefoxSync.label             "Tips: Dette bruker egne profiler. Bruk Sync for å dele data mellom dem.">
+<!ENTITY getStarted.notloggedin.label     "Logg inn på &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Åpne innstillinger for &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Slå på multi-prosess &brandShortName;">

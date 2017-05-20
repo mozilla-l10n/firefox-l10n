@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "L">
 
 <!ENTITY fxaSignIn.label "Logg inn på &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Åpne &syncBrand.shortName.label;-innstillinger">
+<!ENTITY fxaSignedIn.tooltip "Åpne innstillinger for &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Koble til &syncBrand.shortName.label; på nytt">
 <!ENTITY fxaUnverified.label "Bekreft kontoen din">
 
@@ -765,7 +765,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Vil du se faner fra de andre enhetene dine her?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Logg inn for å vise en liste over faner fra andre enheter.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ingen åpne faner">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Åpne &syncBrand.shortName.label;-innstillinger">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Åpne innstillinger for &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Skru på fane-synkronisering for å vise en liste over faner fra dine andre enheter.">

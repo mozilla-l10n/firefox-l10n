@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "Program">
+<!ENTITY  applications.description "Velg hvordan &brandShortName; håndterer filer du henter fra nettet eller programmene du bruker når du surfer.">
 
 <!ENTITY  typeColumn.label        "Innholdstype">
 <!ENTITY  typeColumn.accesskey    "I">
@@ -12,3 +14,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
+<!ENTITY  filter2.emptytext        "Søk filtyper eller program">

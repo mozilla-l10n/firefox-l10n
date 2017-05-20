@@ -21,6 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper og farger">
 
+<!ENTITY  defaultFont2.label          "Standardskrift">
+<!ENTITY  defaultFont2.accesskey      "d">
+<!ENTITY  defaultSize2.label          "Størrelse">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Avansert …">
 <!ENTITY  advancedFonts.accesskey     "A">
