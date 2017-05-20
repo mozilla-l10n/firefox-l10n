@@ -3,10 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Podatki o url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Ponudnik">
 <!ENTITY aboutUrlClassifier.provider                    "Ponudnik">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas zadnje posodobitve">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas naslednje posodobitve">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stanje zadnje posodobitve">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Posodobi">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Iskanje">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Iskanje">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Preveri rezultat iskanja">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Pomnilnik">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Zbirka podatkov">
@@ -14,5 +21,7 @@
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavi dnevniške module">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavi dnevniško datoteko">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Nastavi dnevnik JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Dnevniški moduli varnega brskanja">
 <!ENTITY aboutUrlClassifier.debugModules                "Trenutni dnevniški moduli">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Dnevnik JS varnega brskanja">
 <!ENTITY aboutUrlClassifier.debugFile                   "Trenutna dnevniška datoteka">
