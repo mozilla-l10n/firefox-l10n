@@ -1,0 +1,18 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.providerTitle               "Ponudnik">
+<!ENTITY aboutUrlClassifier.provider                    "Ponudnik">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas zadnje posodobitve">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Posodobi">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "Pomnilnik">
+<!ENTITY aboutUrlClassifier.databaseTitle               "Zbirka podatkov">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Razhroščevanje">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavi dnevniške module">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavi dnevniško datoteko">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Nastavi dnevnik JS">
+<!ENTITY aboutUrlClassifier.debugModules                "Trenutni dnevniški moduli">
+<!ENTITY aboutUrlClassifier.debugFile                   "Trenutna dnevniška datoteka">
