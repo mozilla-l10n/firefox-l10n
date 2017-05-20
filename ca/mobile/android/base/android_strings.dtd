@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elements">
 <!ENTITY bookmark_folder_one_item "1 element">
 <!ENTITY bookmark_parent_folder "Carpeta superior">
-
+<!ENTITY bookmark_add_folder "Crea una carpeta">
 
 <!ENTITY reader_saved_offline "S\u0027ha desat fora de línia">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Nom">
 <!ENTITY bookmark_edit_location "Ubicació">
 <!ENTITY bookmark_edit_keyword "Paraula clau">
-
+<!ENTITY bookmark_select_folder "Trieu una carpeta">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
