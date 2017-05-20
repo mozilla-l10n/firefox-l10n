@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Одлазни сервер (SMTP):">
 <!ENTITY smtpName.accesskey "л">
 <!ENTITY smtpDefaultServer.label "Користи подразумевани сервер">
+
+<!ENTITY smtpEdit.label "Уреди SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
