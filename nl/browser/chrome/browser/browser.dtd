@@ -667,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "o">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zijbalk sluiten">
+<!ENTITY sidebarMenuClose.label         "Zijbalk sluiten">
 
 <!ENTITY quitApplicationCmdWin2.label       "Afsluiten">
 <!ENTITY quitApplicationCmdWin2.accesskey   "A">
