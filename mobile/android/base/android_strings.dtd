@@ -88,6 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; פריטים">
 <!ENTITY bookmark_folder_one_item "פריט אחד">
 <!ENTITY bookmark_parent_folder "תיקית הורה">
+<!ENTITY bookmark_add_folder "הוספת תיקייה חדשה">
 
 <!ENTITY reader_saved_offline "נשמר בלי צורך בחיבור לרשת">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -547,6 +548,7 @@
 <!ENTITY bookmark_edit_name "שם">
 <!ENTITY bookmark_edit_location "מיקום">
 <!ENTITY bookmark_edit_keyword "מילת מפתח">
+<!ENTITY bookmark_select_folder "בחירת תיקייה">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
