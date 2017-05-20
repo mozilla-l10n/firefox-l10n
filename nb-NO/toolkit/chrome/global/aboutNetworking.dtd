@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Auto-oppdater hvert 3. sekund">
 <!ENTITY aboutNetworking.hostname              "Vertsnavn">
 <!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiv">
 <!ENTITY aboutNetworking.idle                  "Uvirksom">
@@ -40,3 +41,6 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå opp">
 <!ENTITY aboutNetworking.dnsDomain             "Domene">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-er">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Antall cache won">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Antall net won">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antall nettverksforespørsler">

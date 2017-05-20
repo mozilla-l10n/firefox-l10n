@@ -30,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
+<!ENTITY  locbar.suggest2.label         "Når du bruker adressefeltet, foreslå">
 <!ENTITY  locbar.history.label          "Historikk">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bokmerker">
@@ -39,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "Lignende søk fra standard søkemotor">
 <!ENTITY  locbar.searches.accesskey     "L">
 
+<!ENTITY  suggestionSettings2.label     "Endre innstillinger for søkeforslag">
 
 <!ENTITY  acceptCookies.label           "Tillat infokapsler">
 <!ENTITY  acceptCookies.accesskey       "n">
