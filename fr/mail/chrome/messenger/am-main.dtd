@@ -40,3 +40,6 @@
 <!ENTITY smtpName.label "Serveur sortant (SMTP) :">
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Utiliser le serveur par défaut">
+
+<!ENTITY smtpEdit.label "Modifier le SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
