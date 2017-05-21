@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Apsauga nuo stebėjimo">
+<!ENTITY  trackingProtection.description       "Stebėjimas vyksta kuomet kompanijos renka informaciją apie jus, siekdamos sudaryti profilį ir rodyti turinį, paremtą jūsų naršymo bei asmenine informacija.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blokuoti žinomų stebėjimo kompanijų turinio rodymą">
 <!ENTITY  trackingProtectionAlways.label       "Visada">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Tik privačiojo naršymo languose">
@@ -30,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Adreso laukas">
 
+<!ENTITY  locbar.suggest2.label         "Rašant adreso lauke, siūlyti tinklalapius iš">
 <!ENTITY  locbar.history.label          "Žurnalas">
 <!ENTITY  locbar.history.accesskey      "Ž">
 <!ENTITY  locbar.bookmarks.label        "Adresynas">
@@ -39,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Susiję paieškos iš numatytosios ieškyklės">
 <!ENTITY  locbar.searches.accesskey     "j">
 
+<!ENTITY  suggestionSettings2.label     "Keisti ieškyklių siūlymų nuostatas">
 
 <!ENTITY  acceptCookies.label           "Leisti įrašyti slapukus">
 <!ENTITY  acceptCookies.accesskey       "L">
@@ -61,7 +65,8 @@
 <!ENTITY  showCookies.label             "Rodyti slapukus…">
 <!ENTITY  showCookies.accesskey         "R">
 
-
+<!ENTITY  historyHeader2.pre.label         "„&brandShortName;“ privalo">
+<!ENTITY  historyHeader2.pre.accesskey     "p">
 <!ENTITY  historyHeader.remember.label     "vesti žurnalą">
 <!ENTITY  historyHeader.dontremember.label "niekada nevesti žurnalo">
 <!ENTITY  historyHeader.custom.label       "laikytis tinkintų žurnalo vedimo nuostatų">

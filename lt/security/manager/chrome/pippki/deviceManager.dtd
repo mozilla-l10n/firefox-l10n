@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Parinkti failą…">
 <!ENTITY loaddevice.browse.accesskey            "r">
 
+<!ENTITY loaddevice.title2                      "Įkelti PKCS#11 įrenginio tvarkyklę">
