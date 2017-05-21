@@ -144,6 +144,8 @@
                                          "Doporučené nastavené výkonu je šité na míru vašemu počítači.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "u">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Zjistit více">
 <!ENTITY limitContentProcess.label       "Omezit počet procesů pro obsah na">
 <!ENTITY limitContentProcess.description
                                          "S více procesy pro obsah může &brandShortName; při více otevřených panelech reagovat rychleji, ale zvýší se také spotřeba operační paměti.">

@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolve">
 <!ENTITY aboutNetworking.dnsDomain             "Doména">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adresy">
+<!ENTITY aboutNetworking.rcwn                  "Statistiky RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stav RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Počet vítězství mezipaměti">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Počet vítězství sítě">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Celkový počet síťových požadavků">
