@@ -3,4 +3,4 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  settingsChangePreferences.label  "Setările pot fi schimbate din fila Atașamente din dialogul de preferințe al &brandShortName;.">
-<!ENTITY  settingsChangeOptions.label      "Setările pot fi schimbate din fila Atașamente din dialogul de opțiuni al &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Setările pot fi schimbate folosind fila Atașamente din dialogul de opțiuni al &brandShortName;.">
