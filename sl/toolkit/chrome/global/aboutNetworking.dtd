@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Razreši">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-ji">
+<!ENTITY aboutNetworking.rcwn                  "Statistika RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stanje RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Število zmag predpomnilnika">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Število zmag omrežja">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Skupno število zahtevkov omrežja">
