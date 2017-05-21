@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; ta element">
 <!ENTITY bookmark_folder_one_item "1 ta element">
 <!ENTITY bookmark_parent_folder "Yuqori jild">
-
+<!ENTITY bookmark_add_folder "Yangi jild qo‘shish">
 
 <!ENTITY reader_saved_offline "Qurilma xotirasiga saqlandi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Nomi">
 <!ENTITY bookmark_edit_location "Manzili">
 <!ENTITY bookmark_edit_keyword "Kalit so‘z">
-
+<!ENTITY bookmark_select_folder "Jildni tanlash">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
