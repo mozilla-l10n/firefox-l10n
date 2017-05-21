@@ -81,7 +81,19 @@
 
 <!ENTITY updateTab.label                 "Actualizaciones">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "Actualizaciones de &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Versión ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permitir que &brandShortName;">
 <!ENTITY updateAuto2.label               "Instalar actualizaciones automáticamente (recomendado para seguridad mejorada)">
 <!ENTITY updateAuto2.accesskey           "A">
@@ -132,6 +144,8 @@
                                          "La configuración de rendimiento recomendadas se adapta a esta computadora.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Conocer más">
 <!ENTITY limitContentProcess.label       "Límite de contenido de proceso">
 <!ENTITY limitContentProcess.description
                                          "Mayor cantidad de procesos de contenido puede acelerar &brandShortName; cuando se usan múltiples pestañas, pero también consumirá más memoria.">

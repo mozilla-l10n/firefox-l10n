@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Protección de rastreo">
 <!ENTITY  trackingProtection.description       "Rastreo significa que las compañías recolectan información acerca suyo para crear un perfil y mostrarle contenidos basados en su navegación y sus datos personales.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Evitar que las empresas de rastreo muestren contenido">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
