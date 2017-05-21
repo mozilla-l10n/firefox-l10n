@@ -525,19 +525,28 @@
 <!ENTITY button_clear_data "માહિતી સાફ કરો">
 <!ENTITY button_set "ગોઠવો">
 <!ENTITY button_clear "સાફ કરો">
+<!ENTITY button_copy "નકલ કરો">
 
+<!ENTITY home_top_sites_title "ટોચના સાઇટ્સ">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "સાઇટ ઉમેરો">
 
 <!-- Localization note (home_title): This string should be kept in sync
      with the page title defined in aboutHome.dtd -->
+<!ENTITY home_title "&brandShortName; મુખ">
 <!ENTITY home_history_title "ઇતિહાસ">
+<!ENTITY home_synced_devices_number "&formatD; ઉપકરણો">
 <!-- Localization note (home_synced_devices_one_device): This is the singular version of home_synced_devices_number, referring to the number of devices a user has synced. -->
+<!ENTITY home_synced_devices_one "1 ઉપકરણ">
+<!ENTITY home_clear_history_button "બ્રાઉઝીંગ ઇતિહાસ સ્વચ્છ કરો">
 <!ENTITY home_bookmarks_empty "તમે સંગ્રહો તે બુકમાર્કો અહીં બતાવે છે.">
+<!ENTITY home_closed_tabs_title2 "છેલ્લે બધ થયેલ ટૅબ">
 <!ENTITY home_last_tabs_empty "તમારી છેલ્લી ટૅબ અહીં બતાવવામાં આવે છે.">
 <!ENTITY home_restore_all "બધુ પુનર્પ્રાપ્ત કરો">
+<!ENTITY home_closed_tabs_number "&formatD; ટેબ">
 <!-- Localization note (home_closed_tabs_one): This is the singular version of home_closed_tabs_number, referring to the number of recently closed tabs available. -->
+<!ENTITY home_closed_tabs_one "1 ટેબ">
 <!ENTITY home_most_recent_empty "તમે એકદમ છેલ્લે મુલાકાત લીધેલી વેબસાઇટો અહીં બતાવે છે.">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
@@ -548,6 +557,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "પાછા &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -561,6 +571,8 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "પસંદ કરેલ ઉપકરણ દેખીતી">
 
+<!ENTITY remote_tabs_panel_moved_title "મારા ટૅબ્સ ક્યાં ગયા હતા?">
+<!ENTITY remote_tabs_panel_moved_desc "અમે તમારા ટૅબ્સને અન્ય ઉપકરણોમાંથી તમારા હોમ પેજ પરથી પેનલમાં ખસેડી દીધા છે જેથી દરેક વખતે જ્યારે તમે નવું ટેબ ખોલશો ત્યારે તે સરળતાથી ઍક્સેસ કરી શકાય છે.">
 <!ENTITY remote_tabs_panel_moved_link "મને મારી નવી પેનલ પર લઈ જાઓ.">
 
 <!ENTITY pin_site_dialog_hint "શોધ શબ્દ દાખલ કરો">
@@ -585,17 +597,20 @@ with that structure, consider a translation which ignores the preceding domain a
 just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY identity_connection_secure "સુરક્ષિત કનેક્શન">
 <!ENTITY identity_connection_insecure "અસુરક્ષિત કનેક્શન">
+<!ENTITY identity_connection_chromeui "આ એક સુરક્ષિત &brandShortName; પાનું છે">
 
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; આ પાનાં પર અસુરક્ષિત સામગ્રી અવરોધિત કરી છે.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; આ પાનાં પર કેટલાક અસુરક્ષિત સામગ્રી અવરોધિત કરી છે.">
 <!ENTITY mixed_content_display_loaded1 "આ પૃષ્ઠ ભાગો (જેમ કે છબીઓ)સુરક્ષિત નથી.">
+<!ENTITY mixed_content_protection_disabled1 "તમે અસુરક્ષિત સામગ્રી માટેનુ રક્ષણ અક્ષમ કરેલ છે.">
 
 <!-- Tracking content notifications in site identity popup -->
 <!ENTITY doorhanger_tracking_title2 "ટ્રેકિંગ પ્રોટેક્શન">
 <!ENTITY doorhanger_tracking_state_enabled "સક્ષમ">
 <!ENTITY doorhanger_tracking_state_disabled "નિષ્ક્રિય">
 <!ENTITY doorhanger_tracking_message_enabled1 "તમારી ઑનલાઇન વર્તન ટ્રૅક કરવા પ્રયાસો અવરોધિત કરવામાં આવી છે.">
+<!ENTITY doorhanger_tracking_message_disabled2 "આ પાનામાં સમાવેશ થયેલ તત્વો તમારા બ્રાઉઝિંગ ટ્રેક કરી શકે છે.">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "વધુ શીખો">
@@ -618,6 +633,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "&formatS; સાથે શોધ">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
