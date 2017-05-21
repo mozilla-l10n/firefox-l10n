@@ -39,3 +39,5 @@
 <!ENTITY smtpName.accesskey "U">
 <!ENTITY smtpDefaultServer.label "Använd standardservern">
 
+<!ENTITY smtpEdit.label "Redigera SMTP…">
+<!ENTITY smtpEdit.accesskey "P">
