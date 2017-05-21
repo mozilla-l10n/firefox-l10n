@@ -12,6 +12,8 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Posodobi">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Iskanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "Ujemanje">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Preveri rezultat ujemanja">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Iskanje">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Preveri rezultat iskanja">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
