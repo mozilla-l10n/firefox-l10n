@@ -8,7 +8,7 @@
 <!ENTITY startSafeMode.label          "Pornește în modul sigur">
 <!ENTITY refreshProfile.label         "Restabilește &brandShortName;">
 
-<!ENTITY safeModeDescription3.label   "Modul sigur este un mod special în care &brandShortName; poate fi folosit să rezolvați unele probleme.">
+<!ENTITY safeModeDescription3.label   "Modul sigur este un mod special al &brandShortName; care poate fi folosit pentru a depana problemele.">
 <!ENTITY safeModeDescription4.label   "Suplimentele și setările suplimentare vor fi temporar dezactivate.">
 
 <!ENTITY refreshProfileInstead.label  "De asemenea, puteți sări peste depanare și încerca reîncărcarea &brandShortName;.">
