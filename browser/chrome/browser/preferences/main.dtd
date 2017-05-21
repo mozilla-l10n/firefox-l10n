@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Paleistis">
 
-
+<!ENTITY startupPage2.label        "Paleidžiant „&brandShortName;“">
+<!ENTITY startupPage2.accesskey    "l">
 <!ENTITY startupUserHomePage.label "Rodyti pradžios tinklalapį">
 <!ENTITY startupBlankPage.label    "rodyti tuščią puslapį">
 <!ENTITY startupPrevSession.label  "Atverti paskiausio seanso langus ir korteles">
 
-
+<!ENTITY homepage2.label           "Pradžios tinklalapis">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Šiuo metu atvertas tinklalapis">
 <!ENTITY useCurrentPage.accesskey  "Š">
 <!ENTITY useMultiple.label         "Šiuo metu atverti tinklalapiai">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Leisti „&brandShortName;“ veikti tuo pačiu metu kaip ir „Firefox“">
 <!ENTITY useFirefoxSync.label             "Patarimas: tai naudoja atskirus profilius. Bendrinti duomenis tarp jų galite naudodami „Sync“.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Jungtis prie „&syncBrand.shortName.label;“…">
+<!ENTITY getStarted.configured.label      "Atverti „&syncBrand.shortName.label;“ nuostatas">
 
 <!ENTITY e10sEnabled.label                "Įjungti daugiaprocesę „&brandShortName;“">

@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Nauja kortelė">
-
+<!ENTITY newtab.customize.classic "Rodyti jūsų lankomiausias svetaines">
 <!ENTITY newtab.customize.cog.enhanced "Įtraukti siūlomas svetaines">
 <!ENTITY newtab.customize.cog.title2 "NAUJOS KORTELĖS PARINKTYS">
 <!ENTITY newtab.customize.cog.learn "Sužinokite daugiau apie naują kortelę">

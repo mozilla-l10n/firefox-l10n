@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Automatiškai naujinti kas 3 sekundes">
 <!ENTITY aboutNetworking.hostname              "Serverio vardas">
 <!ENTITY aboutNetworking.port                  "Prievadas">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktyvus">
 <!ENTITY aboutNetworking.idle                  "Neveiksnus">
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Nustatyti">
 <!ENTITY aboutNetworking.dnsDomain             "Sritis">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adresai">
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN statistika">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN būsena">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Podėlio laimėjimų kiekis">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Tinklo laimėjimų kiekis">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Bendras tinklo užklausų kiekis">
