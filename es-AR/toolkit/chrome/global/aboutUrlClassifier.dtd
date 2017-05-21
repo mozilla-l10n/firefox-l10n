@@ -3,17 +3,27 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Información sobre url-classifier">
 <!ENTITY aboutUrlClassifier.providerTitle               "Proveedor">
 <!ENTITY aboutUrlClassifier.provider                    "Proveedor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Última actualización">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Proxima actualización">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Estado de última actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
+<!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidencia">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Verificar resultado de coincidencia">
+<!ENTITY aboutUrlClassifier.lookupLookup                "Buscar">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "Verificar resultado de búsqueda">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memoria">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Base de datos">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuración">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Establecer módulos de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Establecer archivo de registro">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "Establecer registro de JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Módulos de registro de navegación segura">
+<!ENTITY aboutUrlClassifier.debugModules                "Módulos de registro actuales">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Registro de navegación privada JS">
+<!ENTITY aboutUrlClassifier.debugFile                   "Archivo de registro actual">
