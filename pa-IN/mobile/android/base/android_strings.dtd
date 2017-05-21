@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "ਬੁੱਕਮਾਰਕ ਨੂੰ ਹਟਾਇਆ ਗਿਆ">
 <!ENTITY bookmark_updated "ਬੁੱਕਮਾਰਕ ਨੂੰ ਅੱਪਡੇਟ ਕੀਤਾ ਗਿਆ">
 <!ENTITY bookmark_options "ਚੋਣਾਂ">
+<!ENTITY bookmark_save "ਸੰਭਾਲੋ">
 <!ENTITY screenshot_added_to_bookmarks "ਸਕਰੀਨਸ਼ਾਟ ਨੂੰ ਬੁੱਕਮਾਰਕ ਵਿੱਚ ਜੋੜਿਆ ਗਿਆ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ਆਈਟਮਾਂ">
 <!ENTITY bookmark_folder_one_item "1 ਆਈਟਮ">
+<!ENTITY bookmark_parent_folder "ਮੂਲ ਫੋਲਡਰ">
+<!ENTITY bookmark_add_folder "ਨਵਾਂ ਫੋਲਡਰ ਜੋੜੋ">
 
 <!ENTITY reader_saved_offline "ਆਫ਼ਲਾਈਨ ਲਈ ਸੰਭਾਲਿਆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -216,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "ਮੁੱਖ-ਸਫ਼ਾ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "ਨਵੀਆਂ ਟੈਬਾਂ ਲਈ ਵੀ ਵਰਤੋ">
 <!ENTITY home_homepage_title "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -286,7 +290,10 @@
 <!ENTITY pref_custom_tabs_summary3 "ਐਪਾਂ ਨੂੰ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ &brandShortName; ਦੇ ਲੋੜ ਮੁਤਾਬਕ ਬਣਾਏ ਵਰਜ਼ਨ ਦੀ ਵਰਤੋਂ ਕਰਕੇ ਖੋਲ੍ਹਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; \&apos;ਚ ਖੋਲ੍ਹੋ">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; ਵਲੋਂ ਤਿਆਰ">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ਕਾਪੀ ਕੀਤਾ">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "ਸਰਗਰਮੀ ਸਟਰੀਮ">
@@ -361,6 +368,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "ਸਿਸਟਮ ਫ਼ੋਂਟ ਆਕਾਰ ਵਰਤੋ">
+<!ENTITY pref_use_system_font_size_summary "ਵੈੱਬ ਸਮੱਗਰੀ ਨੂੰ ਸਿਸਟਮ ਫ਼ੋਂਟ ਆਕਾਰ ਮੁਤਾਬਕ ਬਣਾਓ">
 
 <!ENTITY pref_media_autoplay_enabled "ਆਪਣੇ-ਆਪ ਚੱਲਣ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ">
 <!ENTITY pref_media_autoplay_enabled_summary "ਕੰਟਰੋਲ ਕਰੋ ਕਿ ਕੀ ਵੈੱਬਸਾਈਟਾਂ ਆਪਣੇ-ਆਪ ਵੀਡੀਓ ਅਤੇ ਹੋਰ ਮੀਡੀਆ ਸਮੱਗਰੀ ਨੂੰ ਚਲਾ ਸਕਦੀਆਂ ਹਨ">
@@ -491,6 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "ਪ੍ਰਾਈਵੇਟ ਟੈਬ ਵਿੱਚ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_remove "ਹਟਾਓ">
 <!ENTITY contextmenu_add_to_launcher "ਮੁੱਖ ਸਕਰੀਨ ਉੱਤੇ ਜੋੜੋ">
+<!ENTITY contextmenu_set_as_homepage "ਮੁੱਖ-ਸਫ਼ੇ ਵਜੋਂ ਸੈੱਟ ਕਰੋ">
 <!ENTITY contextmenu_share "ਸਾਂਝਾ ਕਰੋ">
 <!ENTITY contextmenu_pasteandgo "ਚੇਪੋ ਤੇ ਖੋਲ੍ਹੋ">
 <!ENTITY contextmenu_paste "ਚੇਪੋ">
@@ -538,6 +548,7 @@
 <!ENTITY bookmark_edit_name "ਨਾਂ">
 <!ENTITY bookmark_edit_location "ਟਿਕਾਣਾ">
 <!ENTITY bookmark_edit_keyword "ਸ਼ਬਦ">
+<!ENTITY bookmark_select_folder "ਫੋਲਡਰ ਨੂੰ ਚੁਣੋ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
