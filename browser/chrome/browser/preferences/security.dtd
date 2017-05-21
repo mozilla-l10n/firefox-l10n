@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Saugumas">
+
 <!ENTITY  warnOnAddonInstall.label        "Įspėti, kai svetainės bando diegti priedus">
 <!ENTITY  warnOnAddonInstall.accesskey    "p">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
+<!ENTITY  formsAndPasswords.label       "Formos ir slaptažodžiai">
 
+<!ENTITY  rememberLogins1.label          "Atsiminti svetainių prisijungimus">
+<!ENTITY  rememberLogins1.accesskey      "A">
 <!ENTITY  passwordExceptions.label      "Išimtys…">
 <!ENTITY  passwordExceptions.accesskey  "š">
 
