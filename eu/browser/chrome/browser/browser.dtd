@@ -924,6 +924,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+<!ENTITY updateRestart.message "Berrabiarazi eta gero &brandShorterName;(e)k irekitako fitxak eta leihoak berrezarriko ditu.">
 <!ENTITY updateRestart.header.message2 "Berrabiarazi &brandShorterName; eguneratzeko.">
 
 
