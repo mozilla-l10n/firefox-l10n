@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Generelt">
 
@@ -56,21 +56,21 @@
 <!ENTITY httpCache.label                 "Hurtiglagret nettinnhold">
 
 <!ENTITY offlineStorage2.label           "Frakoblet nettinnhold og brukerdata">
-<!--  Site Data section manages sites using Storage API and is under Network -->
 
+<!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Sidedata">
 <!ENTITY clearSiteData.label             "Fjern alle data">
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Innstillinger …">
 <!ENTITY siteDataSettings.accesskey      "I">
 <!ENTITY siteDataLearnMoreLink.label     "Les mer">
+
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Begrens hurtiglageret til">
 <!ENTITY limitCacheSizeBefore.accesskey  "B">
 <!ENTITY limitCacheSizeAfter.label       " MB diskplass">
@@ -114,7 +114,7 @@
 
 <!ENTITY certificateTab.label            "Sertifikater">
 <!ENTITY certPersonal.label              "Forespørsler">
-<!ENTITY certPersonal.description        "Når et nettsted ber om ditt personlige sertifikat:">
+<!ENTITY certPersonal.description        "Når en server ber om ditt personlige sertifikat:">
 <!ENTITY selectCerts.auto                "Velg ett automatisk">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Spør deg hver gang">
