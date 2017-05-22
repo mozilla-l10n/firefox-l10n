@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Klask hizivadurioù…">
 <!ENTITY update.checkForUpdatesButton.accesskey   "K">
-
+<!ENTITY update.updateButton.label3               "Adloc'hit evit hizivaat &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "A">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
