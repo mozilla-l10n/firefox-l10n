@@ -41,5 +41,3 @@
 <!ENTITY smtpName.accesskey "х">
 <!ENTITY smtpDefaultServer.label "Сървър по подразбиране">
 
-<!ENTITY smtpEdit.label "Редактиране на SMTP…">
-<!ENTITY smtpEdit.accesskey "Р">
