@@ -52,6 +52,7 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  Naniko' 'uej e">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Captured Stacks">
 
 <!ENTITY aboutTelemetry.scalarsSection "  Gisi'">
 
@@ -61,6 +62,7 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "   Sa nga gachin">
 
+<!ENTITY aboutTelemetry.eventsSection "  Suun">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Daj ye'e ma">
 
@@ -79,6 +81,7 @@
 <!ENTITY aboutTelemetry.fullSqlWarning "  NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.">
 
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Digân nej datos hua ni' gachin gi'iaj sun">
 
 <!ENTITY aboutTelemetry.filterText "  Gatu' (cadenas o /regexp/)">
 
