@@ -12,9 +12,6 @@
 <!ENTITY dualUseFolders.accesskey "S">
 <!ENTITY maximumConnectionsNumber.label "Didžiausias leistinas lygiagrečių prisijungimų prie serverio skaičius">
 <!ENTITY maximumConnectionsNumber.accesskey "D">
-
-
-
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Šios nuostatos apibrėžia IMAP serverio vardų sritis">
 <!ENTITY personalNamespace.label "Asmeninė vardų sritis:">
