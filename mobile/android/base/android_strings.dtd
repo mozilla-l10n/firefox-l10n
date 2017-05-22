@@ -574,7 +574,7 @@
 <!ENTITY button_clear "Neteja">
 <!ENTITY button_copy "Copia">
 
-<!ENTITY home_top_sites_title "Destacats">
+<!ENTITY home_top_sites_title "Llocs principals">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "Afegeix un lloc">
@@ -824,7 +824,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Afegiu elements de la llista de lectura a les adreces d\u0027interès per llegir-los fora de línia.">
 <!ENTITY helper_triple_readerview_open_button "Afegeix a les adreces d\u0027interès">
 
-<!ENTITY activity_stream_topsites "Destacats">
+<!ENTITY activity_stream_topsites "Llocs principals">
 <!ENTITY activity_stream_highlights "Destacats">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
