@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Konyo yin me niang kit ma layent tye katic kwede kadong nywako tic ki &vendorShortName; ikom yot kom pa layeny mamegi">
 <!ENTITY enableHealthReport.label        "Ye &brandShortName; Ripot me yot kom">
 <!ENTITY enableHealthReport.accesskey    "i">
-
+<!ENTITY healthReportLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY telemetryDesc.label             "Poko kit ma tic tye kawot kwede, tc kwede, nyonyo kadong yub me tic ikom layeny mamegi ki &vendorShortName; wek okony wa me yubu &brandShortName; maber">
 <!ENTITY enableTelemetryData.label       "Nywak data mukenen (calo, Pimo data)">
 <!ENTITY enableTelemetryData.accesskey   "P">
-
+<!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
 <!ENTITY crashReporterDesc2.label         "Ripot me poto konyo &vendorShortName; me yubo bal ki weko layeny mamegi cung matek dok ki ber bedo">
 <!ENTITY alwaysSubmitCrashReports.label   "Ye &brandShortName; me cwalo ripot me poto ma odure pi in">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "a">
 <!ENTITY siteDataSettings.label          "Ter…">
 <!ENTITY siteDataSettings.accesskey      "e">
-
+<!ENTITY siteDataLearnMoreLink.label     "Nong ngec mapol">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -140,7 +140,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Tii ki ter me tic ma kicimo.">
 <!ENTITY useRecommendedPerformanceSettings.description "Kiyubo ter me tic ma kicimo ma rwate ki kompuita mamegi.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "T">
-
+<!ENTITY performanceSettingsLearnMore.label "Nong ngec mapol">
 
 
 

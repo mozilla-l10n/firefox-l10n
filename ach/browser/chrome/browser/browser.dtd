@@ -401,6 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Mapol">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Yeny onyo ket kanonge">
 <!ENTITY urlbar.accesskey             "d">
@@ -931,3 +933,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "P">
 <!ENTITY updateRestart.panelUI.label "Nwo cako &brandShorterName; me keto ngec manyen">
 
+<!ENTITY pageActionButton.tooltip "Jami atima me potbuk">
