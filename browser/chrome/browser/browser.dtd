@@ -910,8 +910,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.header.message "A apărut o nouă actualizare de &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Descarcă actualizarea">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
-
-
+<!ENTITY updateAvailable.cancelButton.label "Nu acum">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Descarcă actualizarea pentru &brandShorterName;">
 
 <!ENTITY updateManual.message "Descarcă o nouă copie de &brandShorterName; și noi te vom ajuta la instalarea acesteia.">
@@ -919,15 +919,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.header.message "&brandShorterName; nu se poate actualiza la cea mai recentă versiune.">
 <!ENTITY updateManual.acceptButton.label "Descarcă &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
-
-
+<!ENTITY updateManual.cancelButton.label "Nu acum">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Descarcă o copie nouă de &brandShorterName;">
 
 <!ENTITY updateRestart.message "După o repornire rapidă, &brandShorterName; îți va restaura toate filele și ferestrele deschise.">
 
 <!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
-
-
+<!ENTITY updateRestart.cancelButton.label "Nu acum">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label "Repornește &brandShorterName; pentru a aplica actualizarea">
 
