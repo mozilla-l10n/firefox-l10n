@@ -40,3 +40,5 @@
 <!ENTITY smtpName.label "Išsiuntimo serveris (SMTP):">
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Naudoti numatytąjį serverį">
+
+
