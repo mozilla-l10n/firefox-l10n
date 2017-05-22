@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- extracted from am-main.xul -->
+
 <!ENTITY accountTitle.label "계정 설정">
 <!ENTITY accountName.label "계정 이름:">
 <!ENTITY accountName.accesskey "N">
@@ -31,9 +32,12 @@
 <!-- LOCALIZATION NOTE (attachVCard.label) : do not translate "vCard" in below line -->
 <!ENTITY attachVCard.label "vCard 첨부">
 <!ENTITY attachVCard.accesskey "v">
+
 <!ENTITY manageIdentities.label "아이디 관리…">
 <!ENTITY manageIdentities.accesskey "M">
+
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 <!ENTITY smtpName.label "보내는 서버 (SMTP):">
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "기본 서버로 설정">
+
