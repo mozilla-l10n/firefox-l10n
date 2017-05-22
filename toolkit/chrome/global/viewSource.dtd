@@ -1,10 +1,10 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
+
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE --> 
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE --> 
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -27,12 +27,12 @@
 <!ENTITY closeCmd.label "关闭">
 <!ENTITY closeCmd.accesskey "C">
 <!ENTITY closeCmd.commandkey "W">
+
 <!-- LOCALIZATION NOTE :
 textEnlarge.commandkey3, textReduce.commandkey2 and
 textReset.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
-
 
 <!ENTITY textEnlarge.commandkey "+">
 <!ENTITY textEnlarge.commandkey2 "=">
@@ -64,7 +64,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY menu_textReset.label "常规">
 <!ENTITY menu_textReset.accesskey "N">
 
-<!ENTITY findOnCmd.label     "在当前页查找…">
+<!ENTITY findOnCmd.label     "在此页面中查找…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "查找下一个">
