@@ -41,4 +41,5 @@
 <!ENTITY smtpName.accesskey "F">
 <!ENTITY smtpDefaultServer.label "Úsáid an Freastalaí Réamhshocraithe">
 
-
+<!ENTITY smtpServerEdit.label "Cuir an freastalaí SMTP in eagar…">
+<!ENTITY smtpServerEdit.accesskey "P">
