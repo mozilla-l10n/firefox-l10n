@@ -147,5 +147,8 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
 <!ENTITY limitContentProcess.label       "Grense for innhaldsprosessar">
+<!ENTITY limitContentProcess.description
+                                         "Fleire innhaldsprosessar kan gjere &brandShortName; meir responsiv når du brukar fleire faner, men vil også bruke meir minne.">
+<!ENTITY limitContentProcess.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
