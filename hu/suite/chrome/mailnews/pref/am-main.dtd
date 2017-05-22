@@ -40,5 +40,3 @@
 <!ENTITY smtpName.accesskey "k">
 <!ENTITY smtpDefaultServer.label "Alapértelmezett kiszolgáló használata">
 
-<!ENTITY smtpEdit.label "SMTP szerkesztése…">
-<!ENTITY smtpEdit.accesskey "P">
