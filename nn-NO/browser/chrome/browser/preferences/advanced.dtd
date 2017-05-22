@@ -125,6 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Slett fråkopla-data">
 
 <!ENTITY certificateTab.label            "Sertifikat">
+<!ENTITY certPersonal2.description       "Når ein server ber om det personlege sertifikatet ditt">
 <!ENTITY selectCerts.auto                "Vel eit automastisk">
 <!ENTITY selectCerts.auto.accesskey      "s">
 <!ENTITY selectCerts.ask                 "Spør kvar gong">
@@ -137,6 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "k">
 
 <!ENTITY performance.label               "Yting">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Bruk tilrådde ytingsinnstillingar">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Tilrådde ytingsinnstillingar er skreddarsydde for datamaskina di.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "T">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
 <!ENTITY limitContentProcess.label       "Grense for innhaldsprosessar">
