@@ -202,6 +202,7 @@
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY pref_category_home_panels "પેનલો">
+<!ENTITY pref_category_home_add_ons "એડ-ઓન">
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
 <!ENTITY pref_category_home_homepage "મુખ પૃષ્ઠ">
