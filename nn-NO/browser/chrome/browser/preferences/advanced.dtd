@@ -97,6 +97,10 @@
 <!ENTITY updateApplication.description   "Tillat &brandShortName; å">
 <!ENTITY updateAuto2.label               "Installer oppdateringar automatisk (tilrådd for forbetra sikkerheit)">
 <!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Sjå etter oppdateringar, men la meg velje om eg vil installere dei">
+<!ENTITY updateCheckChoose2.accesskey    "S">
+<!ENTITY updateManual2.label             "Sjå aldri etter oppdateringar (ikkje tilrådd)">
+<!ENTITY updateManual2.accesskey         "a">
 
 <!ENTITY updateHistory2.label            "Vis oppdateringshistorikk…">
 <!ENTITY updateHistory2.accesskey        "p">
@@ -104,6 +108,8 @@
 <!ENTITY useService.label                "Bruk ei bakgrunnsteneste for å installere oppdateringar">
 <!ENTITY useService.accesskey            "B">
 
+<!ENTITY enableSearchUpdate2.label       "Oppdater søkemotorar automatisk">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "Rapportar">
 
