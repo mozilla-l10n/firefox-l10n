@@ -10,6 +10,18 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime "Prossimo aggiornamento">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Stato aggiornamento">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn "Aggiorna">
+<!ENTITY aboutUrlClassifier.cacheTitle "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn "Aggiorna">
+<!ENTITY aboutUrlClassifier.cacheClearBtn "Svuota">
+<!ENTITY aboutUrlClassifier.cacheTableName "Nome tabella">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries "Numero di elementi in cache negativa">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries "Numero di elementi in cache positiva">
+<!ENTITY aboutUrlClassifier.cacheShowEntries "Mostra elementi">
+<!ENTITY aboutUrlClassifier.cacheEntries "Elementi cache">
+<!ENTITY aboutUrlClassifier.cachePrefix "Prefisso">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Scadenza cache negativa">
+<!ENTITY aboutUrlClassifier.cacheFullhash "Hash completo">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry "Scadenza cache positiva">
 <!ENTITY aboutUrlClassifier.lookupTitle "Lookup">
 <!ENTITY aboutUrlClassifier.lookupUrl "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch "Match">
