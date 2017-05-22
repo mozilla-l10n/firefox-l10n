@@ -40,5 +40,3 @@
 <!ENTITY smtpName.accesskey "T">
 <!ENTITY smtpDefaultServer.label "Použiť predvolený server">
 
-<!ENTITY smtpEdit.label "Upraviť SMTP…">
-<!ENTITY smtpEdit.accesskey "P">
