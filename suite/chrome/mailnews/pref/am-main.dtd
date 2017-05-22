@@ -40,5 +40,3 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用預設伺服器">
 
-<!ENTITY smtpEdit.label "編輯 SMTP…">
-<!ENTITY smtpEdit.accesskey "P">
