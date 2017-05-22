@@ -925,10 +925,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "K">
 <!ENTITY updateManual.panelUI.label "Pellgargañ un eilad nevez eus &brandShorterName;">
 
+<!ENTITY updateRestart.message "Goude un adloc'hañ prim e vo atoret hoc'h ivinelloù ha prenestroù digor gant &brandShorterName;">
+<!ENTITY updateRestart.header.message2 "Adloc'hit evit hizivaat &brandShorterName;">
+<!ENTITY updateRestart.acceptButton.label "Adloc'hañ hag atoriñ">
+<!ENTITY updateRestart.acceptButton.accesskey "A">
+<!ENTITY updateRestart.cancelButton.label "Diwezhatoc'h">
+<!ENTITY updateRestart.cancelButton.accesskey "D">
+<!ENTITY updateRestart.panelUI.label "Adloc'hit &brandShorterName; evit arloañ an hizivadenn">
 
-
-
-
-
-
-
+<!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
