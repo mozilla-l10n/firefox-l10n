@@ -8,6 +8,8 @@
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
 <!ENTITY startupPrevSession.label  "Montri viajn lastajn fenestrojn kaj langetojn">
 
+<!ENTITY homepage2.label           "Eka paĝo">
+<!ENTITY homepage2.accesskey       "E">
 <!ENTITY useCurrentPage.label      "Uzi la nunan paĝon">
 <!ENTITY useCurrentPage.accesskey  "U">
 <!ENTITY useMultiple.label         "Uzi nunajn paĝojn">

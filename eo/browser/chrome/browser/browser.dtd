@@ -913,11 +913,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.acceptButton.label "Elŝuti &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "E">
-<!ENTITY updateManual.cancelButton.label "Nun ne">
+<!ENTITY updateManual.cancelButton.label "Ne nun">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Elŝuti freŝan kopion de &brandShorterName;">
 
 <!ENTITY updateRestart.acceptButton.label "Restarti kaj restarigi">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
-<!ENTITY updateRestart.cancelButton.label "Nun ne">
+<!ENTITY updateRestart.cancelButton.label "Ne nun">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 

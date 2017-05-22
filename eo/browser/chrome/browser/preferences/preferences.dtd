@@ -14,7 +14,9 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "Ĉefaj">
+<!ENTITY  panePrivacySecurity.title     "Privateco kaj sekureco">
 <!ENTITY  paneContainers.title          "Ingaj langetoj">
+<!ENTITY  paneUpdates.title             "Ĝisdatigoj">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
