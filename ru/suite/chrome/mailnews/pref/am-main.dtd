@@ -40,5 +40,3 @@
 <!ENTITY smtpName.accesskey "и">
 <!ENTITY smtpDefaultServer.label "Использовать сервер по умолчанию">
 
-<!ENTITY smtpEdit.label "Изменить SMTP…">
-<!ENTITY smtpEdit.accesskey "м">
