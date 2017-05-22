@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Kontroli literumadon dum tajpado">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -83,13 +81,28 @@
 
 <!ENTITY updateTab.label                 "Ĝisdatigi">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "Ĝisdatigoj de &brandShortName;">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
+<!ENTITY updateHistory2.label            "Montri historion de ĝisdatigoj…">
+<!ENTITY updateHistory2.accesskey        "M">
 
 <!ENTITY useService.label                "Uzi fonan servon por instali ĝisdatigojn">
 <!ENTITY useService.accesskey            "f">
 
+<!ENTITY enableSearchUpdate2.label       "Aŭtomate ĝisdatigi serĉilojn">
+<!ENTITY enableSearchUpdate2.accesskey   "t">
 
+<!ENTITY reports.label                   "Raportoj">
 
 <!ENTITY offlineStorageNotify.label               "Diri al mi kiam retejoj petas konservi datumojn por uzi malkonektite">
 <!ENTITY offlineStorageNotify.accesskey           "r">
@@ -113,3 +126,7 @@
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewSecurityDevices.label       "Sekurecaj aparatoj">
 <!ENTITY viewSecurityDevices.accesskey   "s">
+
+<!ENTITY performance.label               "Efikeco">
+<!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
+<!ENTITY allowHWAccel.accesskey          "d">
