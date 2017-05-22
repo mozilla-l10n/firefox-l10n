@@ -41,5 +41,3 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "kasutatakse vaikimisi serverit">
 
-<!ENTITY smtpEdit.label "Muuda SMTP sätteid…">
-<!ENTITY smtpEdit.accesskey "T">
