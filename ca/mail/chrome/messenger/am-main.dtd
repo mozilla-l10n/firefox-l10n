@@ -40,3 +40,5 @@
 <!ENTITY smtpName.label "Servidor de sortida (SMTP):">
 <!ENTITY smtpName.accesskey "i">
 <!ENTITY smtpDefaultServer.label "Utilitza el servidor per defecte">
+
+
