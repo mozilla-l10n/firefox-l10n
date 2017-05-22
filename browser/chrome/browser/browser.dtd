@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Malfermi panelon de konservo de pasvortoj">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administri uzon de kromprogramoj">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Decidi ĉu vi povas ricevi sciigojn el la retejo">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Konservi datumojn en daŭra konservejo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administri dividon de via filmilo kaj/aŭ mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administri dividon de via mikrofono kun la retejo">
@@ -229,6 +230,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Vi blokis informon pri via pozicio por tiu ĉi retejo.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Vi blokis konservon de datumoj por ti ĉi retejo.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Vi blokis sciigojn por tiu ĉi retejo.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Vi blokis la daŭran konservejon por ĉi tiu retejo.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Montri historion">
 
@@ -395,6 +397,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "F">
 <!ENTITY customizeMenu.addMoreItems.label "Aldoni pli da elementoj…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "e">
+
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
@@ -899,6 +905,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Pli da informo pri DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "i">
 
+<!ENTITY updateAvailable.acceptButton.label "Elŝuti ĝisdatigon">
+<!ENTITY updateAvailable.acceptButton.accesskey "E">
+<!ENTITY updateAvailable.cancelButton.label "Nun ne">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Elŝuti ĝisdatigon por &brandShorterName;">
 
+<!ENTITY updateManual.acceptButton.label "Elŝuti &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "E">
+<!ENTITY updateManual.cancelButton.label "Nun ne">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Elŝuti freŝan kopion de &brandShorterName;">
 
+<!ENTITY updateRestart.acceptButton.label "Restarti kaj restarigi">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Nun ne">
 
