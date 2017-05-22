@@ -35,7 +35,7 @@
 <!ENTITY warning.safemode.label                    "Сви додаци су онемогућени у безбедном начину рада.">
 <!ENTITY warning.checkcompatibility.label          "Провера усклађености додатака је искључена. Можда имате некомпатибилне додатке.">
 <!ENTITY warning.checkcompatibility.enable.label   "Укључи">
-<!ENTITY warning.checkcompatibility.enable.tooltip "Омогући проверавање компатабилности додатка">
+<!ENTITY warning.checkcompatibility.enable.tooltip "Омогући проверавање компатибилности додатка">
 <!ENTITY warning.updatesecurity.label              "Безбедносна провера додатака је искључена. Неисправни додаци могу да наруше безбедност система.">
 <!ENTITY warning.updatesecurity.enable.label       "Омогући">
 <!ENTITY warning.updatesecurity.enable.tooltip     "Омогући проверавање безбедности додатка">
