@@ -24,3 +24,4 @@
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Velg loggfil">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Velg JS-logg">
 <!ENTITY aboutUrlClassifier.debugSBModules              "Loggmoduler for trygg nettlesing">
+<!ENTITY aboutUrlClassifier.debugModules                "Gjeldende loggmoduler">
