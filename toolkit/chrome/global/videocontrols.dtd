@@ -27,8 +27,8 @@
 <!ENTITY error.aborted "Laai van video gestop.">
 <!ENTITY error.network "Terugspeel van video gestaak weens netwerkfout.">
 <!ENTITY error.decode "Video kan nie gespeel word nie want die lêer is korrup.">
-<!ENTITY error.srcNotSupported "Videoformaat of MIME-tipe word nie ondersteun nie.">
-<!ENTITY error.noSource2 "Geen video met ondersteunde formaat en MIME-tipe gevind nie.">
+<!ENTITY error.srcNotSupported "Videoformaat of MIME-soort word nie ondersteun nie.">
+<!ENTITY error.noSource2 "Geen video met ondersteunde formaat en MIME-soort gevind nie.">
 <!ENTITY error.generic "Terugspeel van video gestaak weens onbekende fout.">
 <!-- LOCALIZATION NOTE (scrubberScale.nameFormat): the #1 string is the current
 media position, and the #2 string is the total duration. For example, when at

@@ -14,17 +14,19 @@
 <!-- LOCALIZATION NOTE (reloadPlugin.post): include a starting space as needed -->
 
 <!ENTITY reloadPlugin.pre                                    "">
-
-
+<!ENTITY reloadPlugin.middle                                 "Herlaai die bladsy">
+<!ENTITY reloadPlugin.post                                   " om weer te probeer.">
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
+<!ENTITY report.please                                       "Stuur omvalverslag">
+<!ENTITY report.submitting                                   "Stuur tans verslag…">
+<!ENTITY report.submitted                                    "Omvalverslag gestuur.">
+<!ENTITY report.disabled                                     "Omvalrapportering gedeaktiveer.">
+<!ENTITY report.failed                                       "Kon nie indien nie.">
+<!ENTITY report.unavailable                                  "Geen verslag beskikbaar nie.">
+<!ENTITY report.comment                                      "Voeg 'n opmerking by (kommentaar is publiek sigbaar)">
+<!ENTITY report.pageURL                                      "Sluit die bladsy se URL in">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY plugin.file                                         "Lêer">
+<!ENTITY plugin.mimeTypes                                    "MIME-soorte">
+<!ENTITY plugin.flashProtectedMode.label                     "Aktiveer Adobe Flash beskermde modus">
+<!ENTITY plugin.enableBlocklists.label                       "Blokkeer gevaarlike en indringerige Flash-inhoud">

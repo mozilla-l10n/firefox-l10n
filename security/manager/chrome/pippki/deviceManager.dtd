@@ -32,3 +32,4 @@
 <!ENTITY loaddevice.browse                      "Blaai…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Laai PKCS#11-toestelaandrywer">
