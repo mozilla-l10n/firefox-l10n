@@ -389,6 +389,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Amestar más elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Guetar o introducir direición">
 <!ENTITY urlbar.accesskey             "d">
@@ -643,7 +647,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarCloseButton.tooltip     "Zarra'l panel llateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Colar">
-<!ENTITY quitApplicationCmdWin2.accesskey   "C">
+<!ENTITY quitApplicationCmdWin2.accesskey   "c">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Cola de &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
@@ -651,7 +655,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.accesskey   "C">
 <!ENTITY quitApplicationCmdMac2.label   "Colar de &brandShorterName;">
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmdUnix.key     "C">
 
 <!ENTITY closeCmd.label                 "Zarrar">  
 <!ENTITY closeCmd.key                   "W">  

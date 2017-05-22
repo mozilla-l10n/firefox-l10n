@@ -93,6 +93,7 @@
 <!ENTITY offlineAppRemove.confirm        "Desaniciar conteníu en mou desconeutáu">
 
 <!ENTITY certificateTab.label            "Certificaos">
+<!ENTITY certPersonal.label              "Solicitúes">
 <!ENTITY enableOCSP.label                "Consultar a los sirvidores respondedores OCSP pa confirmar la validez actual de los certificaos">
 <!ENTITY enableOCSP.accesskey            "u">
 <!ENTITY viewCerts.label                 "Ver certificaos">
