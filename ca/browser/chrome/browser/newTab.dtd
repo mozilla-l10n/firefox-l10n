@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Pestanya nova">
-
+<!ENTITY newtab.customize.classic "Mostra els llocs principals">
 <!ENTITY newtab.customize.cog.enhanced "Inclou els llocs recomanats">
 <!ENTITY newtab.customize.cog.title2 "CONTROLS DE PESTANYA NOVA">
 <!ENTITY newtab.customize.cog.learn "Més informació sobre la pàgina de Pestanya nova">
