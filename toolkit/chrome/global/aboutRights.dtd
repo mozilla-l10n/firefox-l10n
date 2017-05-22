@@ -46,6 +46,8 @@
 
 <!ENTITY rights2.webservices-header "&brandFullName; வலை-அடிப்படையிலான தகவல் சேவைகள்">
 <!-- point 5 -->
+
+<!ENTITY rights.intro-point5 "சில வகை காணொளிகளை இயக்க, மூன்றாம் தரப்பு உள்ளடக்க மறைவிலக்க சிப்பங்களை &brandShortName; பதிவிறக்கும்.">
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
      the UI, without this page being forgotten every time those strings are
@@ -61,7 +63,7 @@
 <!ENTITY rights.safebrowsing-b "பாதுகாப்பான உலாவல் வசதியை முடக்குவது என்பது பரிந்துரைக்கத்தக்கதல்ல, ஏனெனில் அதன் பின் நீங்கள் பாதுகாப்பற்ற வலைத்தளங்களைப் பார்வையிடக்கூடும்.  நீங்கள் முழுமையாக இந்த வசதியை முடக்க விரும்பினால், இந்த செயல் படிகளைப் பின்பற்றவும்:">
 <!ENTITY rights.safebrowsing-term1 "பயன்பாட்டு முன்னுரிமைகளைத் திறக்கவும்">
 <!ENTITY rights.safebrowsing-term2 "பாதுகாப்பு தேர்ந்தெடுப்பு என்பதைத் தேர்ந்தெடுக்கவும்">
-
+<!ENTITY rights2.safebrowsing-term3 "&quot;&enableSafeBrowsing.label;&quot; செயற்படுத்த மறுதேர்வுசெய்">
 <!ENTITY rights.safebrowsing-term4 "பாதுகாப்பு உலாவல் இப்போது முடக்கப்பட்டது">
 <!-- location aware browsing points for branded builds -->
 
