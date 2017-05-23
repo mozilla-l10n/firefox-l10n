@@ -17,8 +17,6 @@
 <!ENTITY useAutoScroll.accesskey "s">
 <!ENTITY useSmoothScrolling.label "Utilizza lo scorrimento continuo">
 <!ENTITY useSmoothScrolling.accesskey "a">
-<!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
-<!ENTITY allowHWAccel.accesskey "h">
 <!ENTITY checkUserSpelling.label "Controllo ortografico durante la digitazione">
 <!ENTITY checkUserSpelling.accesskey "C">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
@@ -93,3 +91,12 @@
 <!ENTITY viewCerts.accesskey "M">
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
 <!ENTITY viewSecurityDevices.accesskey "D">
+<!ENTITY performance.label "Prestazioni">
+<!ENTITY useRecommendedPerformanceSettings.label "Utilizza le impostazioni predefinite">
+<!ENTITY useRecommendedPerformanceSettings.description "Le impostazioni consigliate sono determinate in base alle caratteristiche di questo computer.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "m">
+<!ENTITY limitContentProcess.label "Numero massimo di processi per i contenuti">
+<!ENTITY limitContentProcess.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
+<!ENTITY limitContentProcess.accesskey "o">
+<!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
+<!ENTITY allowHWAccel.accesskey "h">
