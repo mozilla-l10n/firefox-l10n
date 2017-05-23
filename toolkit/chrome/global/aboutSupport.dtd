@@ -32,14 +32,16 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentActive "செயலில் உள்ளது">
 <!ENTITY aboutSupport.experimentEndDate "முடியும் தேதி">
 <!ENTITY aboutSupport.experimentHomepage "முதன்மை பக்கம்">
-
+<!ENTITY aboutSupport.experimentBranch "கிளை">
 
 <!ENTITY aboutSupport.appBasicsTitle "பயன்பாடு அடிப்படைகள்">
 <!ENTITY aboutSupport.appBasicsName "பெயர்">
 <!ENTITY aboutSupport.appBasicsVersion "பதிப்பு">
-
+<!ENTITY aboutSupport.appBasicsBuildID "உருவாக்கி அ,எண்">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+
+<!ENTITY aboutSupport.appBasicsUpdateChannel "அலைவரிசையைப் புதுப்பி">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "புதுப்பித்தல் வரலாறு">
 <!ENTITY aboutSupport.appBasicsShowUpdateHistory "புதுப்பித்தல் வரலாற்றைக் காட்டு">
 
@@ -120,8 +122,10 @@ variant of aboutSupport.showDir.label. -->
 
 
 
-<!ENTITY aboutSupport.restartInSafeMode.label "கூடுதல் இணைப்புகள் செயல்நீக்கத்துடன் மீள்துவக்கவும்…">
+<!ENTITY aboutSupport.safeModeTitle "பாதுகாப்பு முறைமையை முயற்சி">
+<!ENTITY aboutSupport.restartInSafeMode.label "நீட்சிகளை நீக்கிவிட்டு மீள் துவக்கு.">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "வசதிகள்">
 
 
 
