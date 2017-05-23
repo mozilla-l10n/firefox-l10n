@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "jami &formatD;">
 <!ENTITY bookmark_folder_one_item "Jami 1">
-
-
+<!ENTITY bookmark_parent_folder "Boc makwongo">
+<!ENTITY bookmark_add_folder "Med boc manyen">
 
 <!ENTITY reader_saved_offline "Kigwoko pi mape iwiyamo">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -362,6 +362,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Tii ki dit me coc pa nyonyo">
+
 
 <!ENTITY pref_media_autoplay_enabled "Ye tuko pire kene">
 <!ENTITY pref_media_autoplay_enabled_summary "Lo kacce kakube tuko video pi gi kengi ki jami mukene me poko ngec">
@@ -540,7 +542,7 @@
 <!ENTITY bookmark_edit_name "Nying">
 <!ENTITY bookmark_edit_location "Kabedo">
 <!ENTITY bookmark_edit_keyword "Lok mapire tek">
-
+<!ENTITY bookmark_select_folder "Yer boc">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
