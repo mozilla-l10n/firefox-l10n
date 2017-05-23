@@ -9,8 +9,8 @@
 <!ENTITY unsubscribeButton.accesskey  "D">
 <!ENTITY newGroupsTab.label           "Grupuri noi">
 <!ENTITY newGroupsTab.accesskey       "n">
-<!ENTITY refreshButton.label          "Actualizează">
-<!ENTITY refreshButton.accesskey      "u">
+<!ENTITY refreshButton.label          "Reîmprospătează">
+<!ENTITY refreshButton.accesskey      "R">
 <!ENTITY stopButton.label             "Oprește">
 <!ENTITY stopButton.accesskey         "t">
 <!ENTITY server.label                 "Cont:">

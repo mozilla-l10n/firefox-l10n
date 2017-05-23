@@ -24,7 +24,7 @@
 <!ENTITY fontColor.accesskey                  "x">
 <!ENTITY bgColor.label                        "Culoare fundal:">
 <!ENTITY bgColor.accesskey                    "C">
-<!ENTITY restoreHTMLDefaults.label            "Restaurează setările implicite">
+<!ENTITY restoreHTMLDefaults.label            "Restaurează valorile implicite">
 <!ENTITY restoreHTMLDefaults.accesskey        "R">
 
 
