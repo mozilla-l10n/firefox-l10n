@@ -186,8 +186,8 @@
 <!ENTITY pref_category_installed_search_engines "Motoare de căutare instalate">
 <!ENTITY pref_category_add_search_providers "Adaugă mai multe motoare de căutare">
 <!ENTITY pref_category_search_restore_defaults "Restaurează motoarele de căutare">
-<!ENTITY pref_search_restore_defaults "Restaurează setările implicite">
-<!ENTITY pref_search_restore_defaults_summary "Restaurează setările implicite">
+<!ENTITY pref_search_restore_defaults "Restaurează valorile implicite">
+<!ENTITY pref_search_restore_defaults_summary "Restaurează valorile implicite">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
      search providers.
