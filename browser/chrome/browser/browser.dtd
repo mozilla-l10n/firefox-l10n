@@ -813,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Funcționalități și unelte suplimentare">
 <!ENTITY customizeMode.menuAndToolbars.empty "Dorești mai multe unelte?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Alege din mii de suplimente">
-<!ENTITY customizeMode.restoreDefaults "Restaurează setările implicite">
+<!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
 <!ENTITY customizeMode.toolbars "Arată / Ascunde bara cu unelte">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
 <!ENTITY customizeMode.lwthemes "Teme">
