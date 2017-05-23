@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Tijdstip van volgende update">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status van laatste update">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Bijwerken">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Vernieuwen">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Wissen">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabelnaam">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Aantal negatieve-buffervermeldingen">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Aantal positieve-buffervermeldingen">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Vermeldingen tonen">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Buffervermeldingen">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Verloop van negatieve buffer">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Volledige hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Verloop van positieve buffer">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Opzoeken">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Overeenkomst">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat van overeenkomst controleren">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Opzoeken">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat van opzoeken controleren">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Geheugen">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debuggen">
