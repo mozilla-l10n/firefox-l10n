@@ -15,14 +15,14 @@
 
 <!ENTITY  paneSearchResults.title       "Buscar resultados">
 <!ENTITY  paneGeneral.title             "General">
-<!ENTITY  paneFilesApplications.title   "Aplicaciones de los archivos &amp;">
-<!ENTITY  panePrivacySecurity.title     "Seguridad de la privacidad &amp;">
-<!ENTITY  paneContainers.title          "Pestañas Contenedoras">
+<!ENTITY  paneFilesApplications.title   "Archivos y aplicaciones">
+<!ENTITY  panePrivacySecurity.title     "Privacidad y seguridad">
+<!ENTITY  paneContainers.title          "Pestañas contenedoras">
 <!ENTITY  paneUpdates.title             "Actualizaciones">
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Cuenta de Firefox">
 
-<!ENTITY  helpButton2.label        "Suporte &brandShortName;">
+<!ENTITY  helpButton2.label        "Suporte de &brandShortName;">
 
 <!ENTITY  searchInput.label        "Buscar">
