@@ -13,7 +13,7 @@
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
 
-<!ENTITY warningDesc.version        "&brandShortName; تجريبي وقد لا يكون مستقرا.">
+<!ENTITY warningDesc.version        "&brandShortName; تجريبي و قد لا يكون مستقرا.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly builds automatically send Telemetry data back to Mozilla. It is only shown in this version. "It" refers to brandShortName. -->
 <!ENTITY warningDesc.telemetryDesc  "يُرسل تلقائيا معلومات عن الأداء والعتاد والاستخدام والتخصيصات إلى &vendorShortName; للمساعدة على تحسين &brandShortName;.">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly builds, instead of the other "community.*" strings below. -->
