@@ -20,11 +20,15 @@
 
 
 
+<!ENTITY aboutTelemetry.archiveWeekHeader "வாரம்">
 
+<!ENTITY aboutTelemetry.archivePingHeader "பிங்">
 
 <!ENTITY aboutTelemetry.generalDataSection "  பொது தரவு">
 
+<!ENTITY aboutTelemetry.environmentDataSection "  சூழல் தரவு">
 
+<!ENTITY aboutTelemetry.telemetryLogSection "  தொலையளவு பதிவு">
 
 <!ENTITY aboutTelemetry.slowSqlSection "  மெதுவான SQL கூற்றுகள்">
 
@@ -33,6 +37,7 @@
 <!ENTITY aboutTelemetry.threadHangStatsSection "  தொங்கிய நூல்">
 
 
+<!ENTITY aboutTelemetry.scalarsSection "  அளவுகள்">
 
 
 <!ENTITY aboutTelemetry.histogramsSection "  செவ்வக வரைபடங்கள்">
@@ -59,4 +64,6 @@
 
 <!ENTITY aboutTelemetry.filterText "  வடிகட்டு(சரளங்கள் அல்லது /regexp/)">
 
+<!ENTITY aboutTelemetry.payloadChoiceHeader "  சுமை">
 
+<!ENTITY aboutTelemetry.rawPayload "  பதனிடா சுமை">

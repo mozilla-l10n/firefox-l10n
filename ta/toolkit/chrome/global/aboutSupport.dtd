@@ -127,9 +127,9 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "வசதிகள்">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "பகுப்பாய்வுகள்">
-
-
-
-
-
-
+<!ENTITY aboutSupport.graphicsFailureLogTitle "தோல்வி பற்றிய பதிவு">
+<!ENTITY aboutSupport.graphicsGPU1Title "ஜிபியு #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "ஜிபியு #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "முடிவுப்பதிவு">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "நொறுக்கல் பாதுகாப்பு முடக்கிய வசதிகள்">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "சுற்றுவேலைகள்">
