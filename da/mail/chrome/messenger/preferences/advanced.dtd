@@ -2,14 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemGeneral.label "Generelt">
+<!ENTITY itemGeneral.label       "Generelt">
 <!ENTITY dataChoicesTab.label    "Datadeling">
-<!ENTITY itemUpdate.label "Opdateringer">
+<!ENTITY itemUpdate.label        "Opdateringer">
 <!ENTITY itemNetworking.label    "Netværk &amp; diskplads">
 <!ENTITY itemCertificates.label  "Certifikater">
 
 <!-- General Settings -->
-
 <!ENTITY enableGlodaSearch.label       "Aktiver global søgning og indeksering">
 <!ENTITY enableGlodaSearch.accesskey   "A">
 <!ENTITY allowHWAccel.label            "Brug hardware-acceleration hvor muligt">
@@ -76,7 +75,7 @@
 <!ENTITY showOffline.label             "Offline…">
 <!ENTITY showOffline.accesskey         "O">
 
-<!ENTITY Diskspace "Diskplads">
+<!ENTITY Diskspace                       "Diskplads">
 <!ENTITY offlineCompactFolders.label     "Optimer mapper, når det kan spare mere end">
 <!ENTITY offlineCompactFolders.accesskey "k">
 <!ENTITY offlineCompactFoldersMB.label   "MB">
@@ -90,6 +89,8 @@
 <!ENTITY useCacheBefore.label            "Benyt op til">
 <!ENTITY useCacheBefore.accesskey        "B">
 <!ENTITY useCacheAfter.label             "MB til mellemlageret">
+<!ENTITY overrideSmartCacheSize.label    "Tilsidesæt automatisk cachehåndtering">
+<!ENTITY overrideSmartCacheSize.accesskey "s">
 <!ENTITY clearCacheNow.label             "Ryd nu">
 <!ENTITY clearCacheNow.accesskey         "R">
 
@@ -104,5 +105,5 @@
 
 <!ENTITY manageCertificates.label "Håndter certifikater">
 <!ENTITY manageCertificates.accesskey "c">
-<!ENTITY viewSecurityDevices.label      "Sikkerhedsmoduler">
-<!ENTITY viewSecurityDevices.accesskey  "S">
+<!ENTITY viewSecurityDevices.label "Sikkerhedsmoduler">
+<!ENTITY viewSecurityDevices.accesskey "S">
