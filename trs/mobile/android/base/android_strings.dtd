@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "nare\u0027 sa garajsun\u0027 doj">
 <!ENTITY bookmark_updated "nahuin nakà sa arajsun\u0027 doj">
 <!ENTITY bookmark_options "a\u0027ngo sa ruhuât">
-
+<!ENTITY bookmark_save "Na\u0027nïnj sà\u0027">
 <!ENTITY screenshot_added_to_bookmarks "Gachrun riña aga\u0027na ngà sa araj sun nichrà\u0027t doj.">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; nej rakïj ñaj">
 <!ENTITY bookmark_folder_one_item "1 sa ni\u0027ñun\u0027">
-
-
+<!ENTITY bookmark_parent_folder "Karpetâ ña\u0027aan">
+<!ENTITY bookmark_add_folder "Na\u0027nin a\u0027ngô karpetâ nakàa">
 
 <!ENTITY reader_saved_offline "nanusà\u0027aj riña najña\u0027aan.">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Ñanj ayi\u0027ì\u0027">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Guendâ rakïj ñanj nakàa huin nan nej">
 <!ENTITY home_homepage_title "Gachrun\u0027 ñanj ayi\u0027ì\u0027">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,8 +290,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Ga\u0027nin da\u0027 na\u0027nin ma nej web daj anin ru ma\u0027an &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Na\u0027nin riña &formatS;">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; Nagi\u0027iaj ña\u0027an nan">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Ngà nari\u0027 URL">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "A\u0027ngo gurin sun huaa">
@@ -365,6 +368,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Garasun dàj yachìj si fuendê sistêma">
+<!ENTITY pref_use_system_font_size_summary "Si fuendê sistêma nikaj web">
 
 <!ENTITY pref_media_autoplay_enabled "Duguchrá ma\u0027an aga\u0027 nan">
 <!ENTITY pref_media_autoplay_enabled_summary "Dugumî sisi nej riña web atujt ga\u0027ue nadigân man\u0027an sa nihià\u0027 ni\u0027io\u0027 nga a\u0027ngô ne sa siki\u0027 ni\u0027io\u0027">
@@ -495,7 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "Gana\u0027ni\u0027 riñan ñanj huii">
 <!ENTITY contextmenu_remove "Dure\u0027">
 <!ENTITY contextmenu_add_to_launcher "Gachrun riñan gayi\u0027i">
-
+<!ENTITY contextmenu_set_as_homepage "gachrun gahuin nan paginâ riña ayi\u0027ìt">
 <!ENTITY contextmenu_share "Duyingo\u0027">
 <!ENTITY contextmenu_pasteandgo "Gachrun ni gun\u0027">
 <!ENTITY contextmenu_paste "Gachrun">
@@ -543,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Si yugui\u0027">
 <!ENTITY bookmark_edit_location "Dane\u0027 huin">
 <!ENTITY bookmark_edit_keyword "Nuguan huii">
-
+<!ENTITY bookmark_select_folder "Nagui karpêta">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -565,7 +570,7 @@
 <!ENTITY button_yes "Ga\u0027ue">
 <!ENTITY button_no "Si ga\u0027ue">
 <!ENTITY button_clear_data "Nadurê\u0027 nuguan\u0027an">
-
+<!ENTITY button_set "Nagi\u0027aj yitïnj">
 <!ENTITY button_clear "Na´nin">
 <!ENTITY button_copy "Guxun\u0027 ñadu\u0027ua">
 
