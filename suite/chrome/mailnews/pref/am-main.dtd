@@ -40,3 +40,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "使用默认服务器">
 
+<!ENTITY smtpServerEdit.label "编辑 SMTP 服务器…">
+<!ENTITY smtpServerEdit.accesskey "P">
