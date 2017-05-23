@@ -126,7 +126,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.restartInSafeMode.label "நீட்சிகளை நீக்கிவிட்டு மீள் துவக்கு.">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "வசதிகள்">
-
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "பகுப்பாய்வுகள்">
 
 
 
