@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "q">
 <!ENTITY smtpDefaultServer.label "Seqdec aqeddac amezwer">
 
+<!ENTITY smtpServerEdit.label "Ẓreg ageddac SMTP…">
+<!ENTITY smtpServerEdit.accesskey "R">
