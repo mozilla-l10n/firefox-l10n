@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Nana'uì' sa nahuin nakà doj">
 <!ENTITY update.checkForUpdatesButton.accesskey   "N">
-
+<!ENTITY update.updateButton.label3               "Duna'àj ni nachrun ñûnt da' nahuin nàkaj &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
