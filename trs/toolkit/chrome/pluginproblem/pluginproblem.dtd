@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "nej ñanj">
 <!ENTITY plugin.mimeTypes                                    "Nej MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Dugumi' sa gu'nanj Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "Si gâ'ninjt nayi'nin Flash dadin' âta yi'ii">
