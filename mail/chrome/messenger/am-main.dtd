@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "U">
 <!ENTITY smtpDefaultServer.label "Bruk standardtenar">
 
+<!ENTITY smtpServerEdit.label "Rediger SMTP-server…">
+<!ENTITY smtpServerEdit.accesskey "P">
