@@ -141,7 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "使用推荐的性能设置">
 <!ENTITY useRecommendedPerformanceSettings.description
-                                         "推荐的性能设置是为您的计算机量身打造。">
+                                         "为您的电脑量身定制的推荐性能设置。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
