@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "S">
 <!ENTITY smtpDefaultServer.label "Brug standardserver">
 
+<!ENTITY smtpServerEdit.label "Rediger SMTP-server…">
+<!ENTITY smtpServerEdit.accesskey "P">
