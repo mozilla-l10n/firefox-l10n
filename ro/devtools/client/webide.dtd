@@ -89,7 +89,7 @@
 <!-- Prefs -->
 
 
-
+<!ENTITY prefs_restore "Restaurează valorile implicite">
 
 
 
@@ -152,7 +152,7 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
+<!ENTITY simulator_reset "Restaurează valorile implicite">
 
 
 
