@@ -1,17 +1,17 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!ENTITY     hostCol.label                 "Lloc">
+<!ENTITY     statusCol.label               "Estats">
+<!ENTITY     usageCol.label                "Emmagatzematge">
+<!ENTITY     searchTextboxPlaceHolder             "Cerca llocs web">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "r">
 
 
+<!ENTITY     save.label                    "Desa els canvis">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "Cancel·la">
+<!ENTITY     cancel.accesskey              "C">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY     siteTree.label                "S'eliminaran les galetes de lloc web següents:">
