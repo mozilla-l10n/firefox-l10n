@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "Ñembohekopyahu:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "Pe ñembohekopyahu oñemohendáta emoñepyrũjey vove &brandShortName;. Ikatu emoñepyrũjey &brandShortName; ko'ag̃aite, térã emba'apove ha emoñepyrũjey ag̃amieve.">
-
+<!ENTITY  finishedBackground.moreElevated "Ko ñembohekopyahu oikotevẽ ñangarekohára ma'ẽ tapia rehe. Ñembohekopyahu oñemohendáta &brandShortName; oñepyrũ vove. Ikatu oñepyrũ jey &brandShortName; ko'ág̃a, emba'apo jey ha emoñepyrũ jey ag̃amieve térã emboykete ko ñembohekopyahu.">
 
 <!ENTITY  update.details.label            "Mba'emimi">
 <!ENTITY  update.installedOn.label        "Oñemohendapyréva amo:">
