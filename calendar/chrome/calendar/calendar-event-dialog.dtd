@@ -87,7 +87,7 @@
 
 <!ENTITY  event.menu.item.saveandclose.label              "Cadw a Chau">
 <!ENTITY  event.menu.item.saveandclose.accesskey          "a">
-<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "z">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "h">
 
 <!ENTITY  event.menu.item.delete.label                    "Dileu…">
 <!ENTITY  event.menu.item.delete.accesskey                "D">
@@ -175,7 +175,7 @@
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Cadw a Chau">
 <!ENTITY  event.toolbar.delete.tooltip                    "Dileu">
 <!ENTITY  event.toolbar.attendees.tooltip                 "Gwahodd Mynychwyr">
-<!ENTITY  event.toolbar.attachments.tooltip               "Ychwanegauu Atodiad">
+<!ENTITY  event.toolbar.attachments.tooltip               "Ychwanegu Atodiad">
 <!ENTITY  event.toolbar.privacy.tooltip                   "Newid Preifatrwydd">
 <!ENTITY  event.toolbar.priority.tooltip                  "Newid Blaenoriaeth">
 <!ENTITY  event.toolbar.status.tooltip                    "Newid Statws">
