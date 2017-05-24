@@ -15,6 +15,6 @@
 <!ENTITY numberList.value "Listă cu numerotare">
 <!ENTITY definitionList.value "Listă cu definiții">
 <!ENTITY changeEntireListRadio.label "Schimbă întreaga listă">
-<!ENTITY changeEntireListRadio.accessKey "S">
+<!ENTITY changeEntireListRadio.accessKey "c">
 <!ENTITY changeSelectedRadio.label "Schimbă doar elementele selectate">
 <!ENTITY changeSelectedRadio.accessKey "i">
