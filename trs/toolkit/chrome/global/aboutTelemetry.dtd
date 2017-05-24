@@ -80,6 +80,7 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning "  NI'IAJ: sa nagi'iaj niñun SQL 'iaj sun. Ga'ue ni'iaj da'ua gê sa 'na SQL sani ni ga'an riña Telemetry.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Nana'ui' si yugui sa 'iaj sun nga sa niko'">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "  Digân nej datos hua ni' gachin gi'iaj sun">
 

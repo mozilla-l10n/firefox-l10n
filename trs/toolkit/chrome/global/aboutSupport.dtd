@@ -22,9 +22,9 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; danaj huaj">
-
-
-
+<!ENTITY aboutSupport.featureName "Si yuguit">
+<!ENTITY aboutSupport.featureVersion "Versión">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Da'nga' ranj hué ma">
 <!ENTITY aboutSupport.experimentName "Si yuguit">
