@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Não há nenhuma extensão deste tipo instalada">
 <!ENTITY listEmpty.availableUpdates.label     "Nenhuma atualização encontrada.">
 <!ENTITY listEmpty.recentUpdates.label        "Você não atualizou recentemente nenhuma extensão">
-<!ENTITY listEmpty.findUpdates.label          "Verificar atualizações">
+<!ENTITY listEmpty.findUpdates.label          "Verificar se há atualizações">
 <!ENTITY listEmpty.search.label               "Não foi possível localizar quaisquer extensões correspondentes">
 <!ENTITY listEmpty.button.label               "Saber mais sobre as extensões">
 <!ENTITY installAddonFromFile.label           "Instalar de um arquivo…">
@@ -47,7 +47,7 @@
 <!ENTITY view.availableUpdates.label          "Atualizações disponíveis">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Verificar atualizações">
+<!ENTITY updates.checkForUpdates.label        "Verificar se há atualizações">
 <!ENTITY updates.checkForUpdates.accesskey    "V">
 <!ENTITY updates.viewUpdates.label            "Ver atualizações recentes">
 <!ENTITY updates.viewUpdates.accesskey        "E">
