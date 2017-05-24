@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecció contra el seguiment">
 
-
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloca el contingut d'empreses de seguiment conegudes">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Només en finestres privades">

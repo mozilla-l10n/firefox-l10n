@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "Fitxer">
 <!ENTITY plugin.mimeTypes                                    "Tipus MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Habilita el mode protegit d'Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "Bloca el contingut Flash perillós i intrusiu">
