@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "עיון...">
 <!ENTITY loaddevice.browse.accesskey            "ע">
 
+<!ENTITY loaddevice.title2                      "טעינת מנהל התקן PKCS#11">

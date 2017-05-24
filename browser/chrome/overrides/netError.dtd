@@ -166,6 +166,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; לא התחבר אל <span id='wrongSystemTime_URL'/> מכיוון שנראה ששעון המחשב שלך לא מכוון כראוי, מה שמונע חיבור מאובטח.</p> <p>שעון המחשב שלך מכוון ל־<span id='wrongSystemTime_systemDate'/>, כשהוא אמור להיות <span id='wrongSystemTime_actualDate'/>. לתיקון הבעיה, יש לשנות את הגדרות התאריך והשעה כך שיהיו תואמים לזמן הנוכחי.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; לא התחבר אל <span id='wrongSystemTimeWithoutReference_URL'/> מכיוון שנראה ששעון המחשב שלך לא מכוון כראוי, מה שמונע חיבור מאובטח.</p> <p>שעון המחשב שלך מכוון ל־<span id='wrongSystemTimeWithoutReference_systemDate'/>. לתיקון הבעיה, יש לשנות את הגדרות התאריך והשעה כך שיהיו תואמים לזמן הנוכחי.</p>">
 
 <!ENTITY certerror.pagetitle1  "חיבור בלתי מאובטח">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "אתר זה משתמש ב־HTTP
