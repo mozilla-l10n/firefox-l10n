@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Peteĩchagua">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Reheguaite">
+<!ENTITY aboutSupport.featureName "Téra">
+<!ENTITY aboutSupport.featureVersion "Peteĩchagua">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Japokuaa reheguaite">
 <!ENTITY aboutSupport.experimentName "Téra">
@@ -66,7 +67,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Windows rembiapoita">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google ñe'ẽñemi">
-
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla mba'epytyvõrã rendaite rehegua">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Teko jerovia">
 
@@ -77,6 +78,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 <!ENTITY aboutSupport.showMac.label "Finder-pe jehechauka">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Ñongatuha ijurujáva">
 
 <!ENTITY aboutSupport.modifiedKeyPrefsTitle "Jerohoryvéva tuichamba'éva moambuepyre">
 <!ENTITY aboutSupport.modifiedPrefsName "Téra">
@@ -114,7 +116,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
 
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
-
+<!ENTITY aboutSupport.sandboxSyscallAge "Angete oiko">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 
