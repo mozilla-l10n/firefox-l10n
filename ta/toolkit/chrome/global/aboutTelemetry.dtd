@@ -5,20 +5,35 @@
 <!ENTITY aboutTelemetry.pageTitle "டெலிமெட்ரி தரவு">
 
 
+<!ENTITY aboutTelemetry.uploadEnabled "  FHR தரவு ஏற்றம் <span>செயலிடப்பட்டது</span>.">
 
+<!ENTITY aboutTelemetry.uploadDisabled "  FHR தரவேற்றம் <span>முடக்கப்பட்டது</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingEnabled "  நீட்டிக்கப்பட்ட தொலைநிலை பதிவு <span>செயலிடப்பட்டது</span>.">
 
+<!ENTITY aboutTelemetry.extendedRecordingDisabled "  நீட்டிக்கப்பட்ட தொலைநிலை பதிவு <span>முடக்கப்பட்டது</span>.">
 
+<!ENTITY aboutTelemetry.pingDataSource "தரவு மூலத்தை பிங் பன்னு:">
 
+<!ENTITY aboutTelemetry.showCurrentPingData "நடப்பு பிங் தரவு">
 
+<!ENTITY aboutTelemetry.showArchivedPingData "காக்கப்பட்ட பிங் தரவு">
 
+<!ENTITY aboutTelemetry.pingDataDisplay "பிங் தரவு காட்சி:">
 
+<!ENTITY aboutTelemetry.structured "கட்டமைக்கப்பட்டது">
 
+<!ENTITY aboutTelemetry.raw "பதனிடப்படாத JSON">
 
+<!ENTITY aboutTelemetry.showSubsessionData "துணையமர்வு தரவைக் காட்டு">
 
+<!ENTITY aboutTelemetry.choosePing "பிங்கைத் தேர்:">
 
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; புதிய பிங்">
 
+<!ENTITY aboutTelemetry.showOlderPing "பழைய பிங் &gt;&gt;">
 
+<!ENTITY aboutTelemetry.rawPingData "பதனிடப்படாத பிங் தரவு">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "வாரம்">
 
