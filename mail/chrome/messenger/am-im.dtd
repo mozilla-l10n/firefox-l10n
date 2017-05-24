@@ -13,4 +13,4 @@
 <!ENTITY account.autojoin              "Canale cu înregistrare automată:">
 <!ENTITY account.proxySettings.caption "Setări proxy:">
 <!ENTITY account.proxySettings.change.label     "Schimbă…">
-<!ENTITY account.proxySettings.change.accessKey "S">
+<!ENTITY account.proxySettings.change.accessKey "c">

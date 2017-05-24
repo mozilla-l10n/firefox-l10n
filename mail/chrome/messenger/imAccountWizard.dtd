@@ -25,7 +25,7 @@
 <!ENTITY accountAliasInfo.label       "Acesta va apărea numai în conversațiile tale atunci când vorbești, contactele de la distanță nu îl vor vedea.">
 <!ENTITY accountProxySettings.caption "Setări proxy">
 <!ENTITY accountProxySettings.change.label     "Schimbă…">
-<!ENTITY accountProxySettings.change.accessKey "S">
+<!ENTITY accountProxySettings.change.accessKey "c">
 
 <!ENTITY accountSummaryTitle.label   "Rezumatul">
 <!ENTITY accountSummaryInfo.label    "Mai jos puteți vedea un rezumat al informațiilor introduse. Vă rugăm să o verificați înainte de a crea contul.">
