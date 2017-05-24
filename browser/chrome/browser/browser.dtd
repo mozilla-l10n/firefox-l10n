@@ -824,9 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 
-<!ENTITY getUserMedia.selectCamera.label "Cameră de folosit:">
+<!ENTITY getUserMedia.selectCamera.label "Camera spre partajare:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
-<!ENTITY getUserMedia.selectMicrophone.label "Microfon de folosit:">
+<!ENTITY getUserMedia.selectMicrophone.label "Microfonul spre partajare:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
 <!ENTITY getUserMedia.audioCapture.label "Audio din filă va fi partajat.">
 <!ENTITY getUserMedia.allWindowsShared.message "Toate ferestrele vizibile pe ecran vor fi partajate.">
