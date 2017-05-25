@@ -19,8 +19,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "স্মুথ স্ক্রোলিং ব্যবহার করা হবে">
 <!ENTITY useSmoothScrolling.accesskey    "স">
-<!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
-<!ENTITY allowHWAccel.accesskey          "হ">
 
 <!ENTITY dataChoicesTab.label            "তথ্য পছন্দসমূহ">
 
@@ -71,6 +69,16 @@
 
 <!ENTITY updateTab.label                 "আপডেট">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
 
 <!ENTITY useService.label                "আপডেট ইনস্টল করার জন্য পটভূমির() পরিসেবা ব্যবহার করা হবে">
@@ -92,3 +100,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
+<!ENTITY allowHWAccel.accesskey          "হ">
