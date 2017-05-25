@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "g">
 <!ENTITY engine.history.label       "historion">
 <!ENTITY engine.history.accesskey   "h">
-<!ENTITY engine.passwords.label     "pasvortojn">
-<!ENTITY engine.passwords.accesskey "v">
 <!ENTITY engine.prefs.label         "preferojn">
 <!ENTITY engine.prefs.accesskey     "p">
 <!ENTITY engine.addons.label        "aldonaĵon">
