@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "سابقات">
 <!ENTITY engine.history.accesskey   "س">
-<!ENTITY engine.passwords.label     "پاس ورڈ">
-<!ENTITY engine.passwords.accesskey "پ">
+
+
 <!ENTITY engine.prefs.label         "ترجیحات">
 <!ENTITY engine.prefs.accesskey     "ت">
 <!ENTITY engine.addons.label        "ایڈ اون">
