@@ -137,9 +137,9 @@
 <!ENTITY viewSecurityDevices.accesskey   "o">
 
 <!ENTITY performance.label               "Tic">
-<!ENTITY useRecommendedPerformanceSettings.label "Tii ki ter me tic ma kicimo.">
-<!ENTITY useRecommendedPerformanceSettings.description "Kiyubo ter me tic ma kicimo ma rwate ki kompuita mamegi.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "T">
+<!ENTITY useRecommendedPerformanceSettings2.label "Tii ki ter me tic ma kicimo.">
+
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "T">
 <!ENTITY performanceSettingsLearnMore.label "Nong ngec mapol">
 
 

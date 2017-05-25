@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Gin mukato">
 <!ENTITY engine.history.accesskey   "m">
-<!ENTITY engine.passwords.label     "Mung me donyo">
-<!ENTITY engine.passwords.accesskey "M">
+
+
 <!ENTITY engine.prefs.label         "Ma imaro">
 <!ENTITY engine.prefs.accesskey     "m">
 <!ENTITY engine.addons.label        "Med-ikome">

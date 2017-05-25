@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Tii ki kob mapwot">
 <!ENTITY useSmoothScrolling.accesskey    "a">
-<!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
-<!ENTITY allowHWAccel.accesskey          "o">
 <!ENTITY checkUserSpelling.label         "Rot nukta ni kun nongo itye kacoc">
 <!ENTITY checkUserSpelling.accesskey     "a">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "t">
 <!ENTITY viewSecurityDevices.label       "Nyonyo me ber bedo">
 <!ENTITY viewSecurityDevices.accesskey   "o">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Tii ki lamed dwiro pa nyonyo ka tye">
+<!ENTITY allowHWAccel.accesskey          "o">
