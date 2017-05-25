@@ -52,7 +52,16 @@
 <!ENTITY crashReporterLearnMore.label    "Deprendi más">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "Anovamientos de &brandShortName;:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
 <!ENTITY updateAuto.label                "Instalar anovamientos automáticamente (recomiéndase: ameyora la seguridá)">
 <!ENTITY updateAuto.accesskey            "I">
 <!ENTITY updateCheck.label               "Guetar anovamientos, pero permitime elexir si los instalo">
