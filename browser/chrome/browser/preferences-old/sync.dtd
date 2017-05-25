@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "చరిత్ర">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "సంకేతపదాలు">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "అభిరుచులు">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "పొడిగింతలు">
