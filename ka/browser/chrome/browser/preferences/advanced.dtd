@@ -19,8 +19,6 @@
 <!ENTITY useAutoScroll.accesskey         "თ">
 <!ENTITY useSmoothScrolling.label        "გლუვი გადაადგილების გამოყენება">
 <!ENTITY useSmoothScrolling.accesskey    "გ">
-<!ENTITY allowHWAccel.label              "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
-<!ENTITY allowHWAccel.accesskey          "მ">
 
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
@@ -71,6 +69,16 @@
 
 <!ENTITY updateTab.label                 "განახლება">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
 
 <!ENTITY useService.label                "განახლებების დასაყენებლად ფონური მომსახურების გამოყენება">
@@ -92,3 +100,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "ხელმისაწვდომობის შემთხვევაში აპარატული აჩქარების გამოყენება">
+<!ENTITY allowHWAccel.accesskey          "მ">
