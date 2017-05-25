@@ -22,8 +22,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "ඔබ යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -80,7 +78,17 @@
 
 <!ENTITY updateTab.label                 "යාවත්කාලීන">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName; යාවත්කාල">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
 
 <!ENTITY useService.label                "යාවත්කාලීන ස්ථාපනය සඳහා පසුබ්ම් සේවාව (background service) භාවිතා කරන්න">
@@ -109,3 +117,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
+<!ENTITY allowHWAccel.accesskey          "r">
