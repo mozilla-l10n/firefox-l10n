@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "s">
 <!ENTITY engine.history.label       "Geçmiş">
 <!ENTITY engine.history.accesskey   "G">
-<!ENTITY engine.passwords.label     "Parolalar">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Tercihler">
 <!ENTITY engine.prefs.accesskey     "T">
 <!ENTITY engine.addons.label        "Eklentiler">
