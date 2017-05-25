@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "У">
 
 <!ENTITY performance.label               "Производителност">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Използване на препоръчителните настройки на производителността">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Препоръчителните настройки на производителността са съобразени с вашия компютър.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "п">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Научете повече">
-<!ENTITY limitContentProcess.label       "Ограничение на процесите за съдържание">
-<!ENTITY limitContentProcess.description
-                                         "Повече процеси за съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
-<!ENTITY limitContentProcess.accesskey   "п">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
