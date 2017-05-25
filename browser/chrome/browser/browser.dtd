@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Kudeatu zure mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Kudeatu zure leihoak edo pantaila gunearekin partekatzea">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "E"> 
 <!ENTITY copyCmd.label            "Kopiatu">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Itsatsi">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
+
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
@@ -417,7 +419,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "E">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "B">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Itxi alboko barra">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Irten">
 <!ENTITY quitApplicationCmdWin2.accesskey   "I">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Irten &brandShorterName;(e)tik">
@@ -710,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
-<!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
 <!ENTITY identity.connectionSecure "Konexio segurua">
@@ -718,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified2 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
+
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Tresna gehiago nahi dituzu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Aukeratu milaka gehigarriren artetik">
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
-<!ENTITY customizeMode.toolbars "Erakutsi/ezkutatu tresna-barrak">
+
 <!ENTITY customizeMode.titlebar "Titulu-barra">
+
 <!ENTITY customizeMode.lwthemes "Itxurak">
 <!ENTITY customizeMode.lwthemes.myThemes "Nire itxurak">
 <!ENTITY customizeMode.lwthemes.recommended "Gomendatuak">
