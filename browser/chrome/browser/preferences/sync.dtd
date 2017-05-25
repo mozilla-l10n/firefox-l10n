@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "S">
 <!ENTITY engine.history.label       "Historikun Tim">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Fjalëkalimet e Mi">
-<!ENTITY engine.passwords.accesskey "k">
 <!ENTITY engine.prefs.label         "Parapëlqimet e Mia">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Shtesat e Mia">
