@@ -27,7 +27,7 @@
 <!ENTITY  formsAndPasswords.label       "Formulary a hesła">
 
 <!ENTITY  rememberLogins1.label          "Přizjewjenja a hesła za sydła sej spomjatkować">
-<!ENTITY  rememberLogins1.accesskey      "R">
+<!ENTITY  rememberLogins1.accesskey      "P">
 <!ENTITY  passwordExceptions.label      "Wuwzaća…">
 <!ENTITY  passwordExceptions.accesskey  "u">
 
