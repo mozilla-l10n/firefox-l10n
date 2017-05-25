@@ -56,8 +56,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect.accesskey        "D">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
 <!ENTITY verify.accesskey            "V">
-<!ENTITY forget.label                "ไม่จำอีเมลนี้">
-<!ENTITY forget.accesskey            "F">
+<!ENTITY forget.label                "ลืมอีเมลนี้">
+<!ENTITY forget.accesskey            "ล">
 
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
