@@ -418,7 +418,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "好">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -815,7 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多工具？">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "自數以千計的附加元件中挑選">
 <!ENTITY customizeMode.restoreDefaults "回復為預設值">
-<!ENTITY customizeMode.toolbars "顯示 / 隱藏工具列">
 <!ENTITY customizeMode.titlebar "標題列">
 <!ENTITY customizeMode.lwthemes "佈景主題">
 <!ENTITY customizeMode.lwthemes.myThemes "我的佈景主題">
@@ -930,6 +932,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暫時不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "重新啟動 &brandShorterName; 來套用更新">
 
 <!ENTITY pageActionButton.tooltip "頁面操作">
