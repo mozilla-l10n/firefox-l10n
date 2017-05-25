@@ -424,6 +424,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Савет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Потражите помоћ око проналажења ствари! Потражите &#x1F50E; поред предлога претраге.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Измените поставке…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Измените подешавања…">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -537,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "в">
 <!ENTITY bookmarkThisFrameCmd.label      "Забележи овај оквир">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "З">
+<!ENTITY copyURLCmd.label             "Копирај URL">
 <!ENTITY emailPageCmd.label           "Веза е-поште…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Сачувај страницу као…">
@@ -662,6 +665,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "У">
 
 <!ENTITY sidebarCloseButton.tooltip     "Затвори бочну палету">
+<!ENTITY sidebarMenuClose.label         "Затвори бочну палету">
 
 <!ENTITY quitApplicationCmdWin2.label       "Изађи">
 <!ENTITY quitApplicationCmdWin2.accesskey   "И">
@@ -724,6 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ова страница се складишти на рачунару.">
 <!ENTITY identity.connectionVerified2 "Безбедно сте повезани на овај сајт, који је у власништву:">
 <!ENTITY identity.connectionInternal "Ово је безбедна &brandShortName; страница.">
+<!ENTITY identity.extensionPage "Ова страница је учитана са екстензије.">
 <!ENTITY identity.insecureLoginForms2 "Пријаве које су унесене на овој страници су можда угрожене.">
 
 <!-- Strings for connection state warnings. -->
@@ -822,7 +827,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Желите више алата?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изаберите неки од хиљада додатака">
 <!ENTITY customizeMode.restoreDefaults "Обнови подразумевано">
+<!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Трака наслова">
+<!ENTITY customizeMode.toolbars2 "Алатне траке">
 <!ENTITY customizeMode.lwthemes "Теме">
 <!ENTITY customizeMode.lwthemes.myThemes "Моје теме">
 <!ENTITY customizeMode.lwthemes.recommended "Препоручене">
@@ -931,10 +938,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
 <!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
-<!ENTITY updateRestart.header.message2 "Рестартуј да се &brandShorterName; ажурира.">
+<!ENTITY updateRestart.header.message2 "Рестартујте да се &brandShorterName; ажурира.">
 <!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
 <!ENTITY updateRestart.cancelButton.label "Не сада">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateRestart.panelUI.label2 "Рестартујте да се &brandShorterName; ажурира">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
