@@ -829,8 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Wilt u meer hulpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duizenden add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standaardinstellingen herstellen">
-<!ENTITY customizeMode.toolbars "Werkbalken tonen/verbergen">
+<!ENTITY customizeMode.done "Gereed">
 <!ENTITY customizeMode.titlebar "Titelbalk">
+<!ENTITY customizeMode.toolbars2 "Werkbalken">
 <!ENTITY customizeMode.lwthemes "Thema’s">
 <!ENTITY customizeMode.lwthemes.myThemes "Mijn thema’s">
 <!ENTITY customizeMode.lwthemes.recommended "Aanbevolen">
@@ -944,6 +945,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "H">
 <!ENTITY updateRestart.cancelButton.label "Niet nu">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Herstart &brandShorterName; om de update toe te passen">
+<!ENTITY updateRestart.panelUI.label2 "Herstart om &brandShorterName; bij te werken">
 
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
+
+<!ENTITY sendToDevice.label "Verzenden naar apparaat…">
+<!ENTITY sendToDevice.viewTitle "Verzenden naar apparaat">
+<!ENTITY sendToDevice.fxaRequired.label "Vereist">
+<!ENTITY sendToDevice.noDevices.label "Geen apparaten beschikbaar">
