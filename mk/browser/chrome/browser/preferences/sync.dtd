@@ -9,8 +9,6 @@
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историја">
 <!ENTITY engine.history.accesskey   "р">
-<!ENTITY engine.passwords.label     "Лозинки">
-<!ENTITY engine.passwords.accesskey "Л">
 <!ENTITY engine.prefs.label         "Преференции">
 <!ENTITY engine.prefs.accesskey     "ф">
 <!ENTITY engine.addons.label        "Додатоци">
