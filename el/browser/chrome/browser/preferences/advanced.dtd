@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "σ">
 
 <!ENTITY performance.label               "Επιδόσεις">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Χρήση προτεινόμενων ρυθμίσεων επιδόσεων">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Οι προτεινόμενες ρυθμίσεις επιδόσεων είναι προσαρμοσμένες για τον υπολογιστή σας.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "Χ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Μάθετε περισσότερα">
-<!ENTITY limitContentProcess.label       "Όριο διεργασιών περιεχομένου">
-<!ENTITY limitContentProcess.description
-                                         "Περισσότερες διεργασίες περιεχομένου μπορούν να κάνουν το &brandShortName; πιο γρήγορο κατά τη χρήση πολλαπλών καρτελών, αλλά θα γίνεται μεγαλύτερη κατανάλωση μνήμης.">
-<!ENTITY limitContentProcess.accesskey   "Ο">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
