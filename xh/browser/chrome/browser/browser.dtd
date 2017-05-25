@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tshintsha enoba ungafumana isaziso kule sayithi">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gcina idatha kuGcino oluQhubekayo">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Lawula ukwabelana kwakho ngeefestile okanye iskrini nesayithi">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
 <!ENTITY copyCmd.label            "Kopa">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Ncamathelisa">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Susa iMbali Yakutshanje…">
 <!ENTITY appMenuHistory.restoreSession.label "Buyisela Iseshini yangaPhambili">
 <!ENTITY appMenuHistory.viewSidebar.label "Bona ibha esecaleni yeMbali">
+
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Ikhonkco leimeyile…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gcina iphepha njenge…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha esecaleni">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Phuma kwi-&brandShorterName;">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Yongeza izichazi-magama…">
 <!ENTITY spellAddDictionaries.accesskey "Y">
 
-<!ENTITY editBookmark.done.label                     "Kwenziwe">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
 <!ENTITY identity.connectionVerified2 "Uqhagamshele ngokukhuselekileyo kule sayithi, enomnini oyi:">
 <!ENTITY identity.connectionInternal "Le yi-&brandShortName; ekhuselekileyo indawo yolawulo.">
+
 <!ENTITY identity.insecureLoginForms2 "Iiogini ezifakwe kweli phepha zinokuba sengozini.">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ufuna izixhobo ezingakumbi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Khetha kumawaka-waka ezongezelelo">
 <!ENTITY customizeMode.restoreDefaults "Buyisela ezisisiseko">
-<!ENTITY customizeMode.toolbars "Bonisa / ufihle iithulbha">
+
 <!ENTITY customizeMode.titlebar "Ibha yomxholo">
+
 <!ENTITY customizeMode.lwthemes "Imixholo">
 <!ENTITY customizeMode.lwthemes.myThemes "Imixholo yam">
 <!ENTITY customizeMode.lwthemes.recommended "Okucetyisiweyo">
