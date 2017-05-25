@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "ž">
 <!ENTITY smtpDefaultServer.label "Uporabi privzeti strežnik">
 
+<!ENTITY smtpServerEdit.label "Uredi strežnik SMTP …">
+<!ENTITY smtpServerEdit.accesskey "P">
