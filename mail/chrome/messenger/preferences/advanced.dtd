@@ -53,16 +53,16 @@
 <!-- Update -->
 
 <!ENTITY updateApp.label                 "تحديثات &brandShortName;:">
-<!ENTITY updateAuto.label                "ثبّت التحديثات آليًا (منصوح به: يزيد الأمان)">
+<!ENTITY updateAuto.label                "نصّب التحديثات آليًا (منصوح به: يزيد الأمان)">
 <!ENTITY updateAuto.accesskey            "ل">
-<!ENTITY updateCheck.label               "التمس التحديثات، ولكن اترك لي خيار تثبيتها من عدمه">
+<!ENTITY updateCheck.label               "التمس التحديثات، و لكن اترك لي خيار تنصيبها من عدمه">
 <!ENTITY updateCheck.accesskey           "ت">
 <!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
 <!ENTITY updateManual.accesskey          "د">
 <!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey         "ظ">
 
-<!ENTITY useService.label                "استخدم خدمة في الخلفية لتنزيل التحديثات">
+<!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتنصيب التحديثات">
 <!ENTITY useService.accesskey            "خ">
 <!-- Networking and Disk Space -->
 
