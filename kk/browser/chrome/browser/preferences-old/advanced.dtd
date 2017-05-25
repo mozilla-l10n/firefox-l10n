@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "в">
 <!ENTITY useSmoothScrolling.label        "Тегіс айналдыруды қолдану">
 <!ENTITY useSmoothScrolling.accesskey    "е">
-<!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
-<!ENTITY allowHWAccel.accesskey          "д">
 <!ENTITY checkUserSpelling.label         "Мәтін терілген кезде орфографияны тексеру">
 <!ENTITY checkUserSpelling.accesskey     "о">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "С">
 <!ENTITY viewSecurityDevices.label       "Қауіпсіздік құрылғылары">
 <!ENTITY viewSecurityDevices.accesskey   "ы">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
+<!ENTITY allowHWAccel.accesskey          "д">

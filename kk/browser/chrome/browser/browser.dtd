@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Сайттан хабарламаларды ала аласыз ба, соны өзгертіңіз">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Деректерді тұрақты қоймада сақтау">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Камераңыз және/немесе микрофонмен бұл сайтпен бөлісуді басқару">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Микрофоныңызбен бұл сайтпен бөлісуді басқару">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Терезелеріңізбен немесе экранмен бұл сайтпен бөлісуді басқару">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ы"> 
 <!ENTITY copyCmd.label            "Көшіріп алу">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "К"> 
 <!ENTITY pasteCmd.label           "Кірістіру">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Жуырдағы тарихты өшіру…">
 <!ENTITY appMenuHistory.restoreSession.label "Алдыңғы сессияны қалпына келтіру">
 <!ENTITY appMenuHistory.viewSidebar.label "Тарихтың бүйір панелін көрсету">
+
 <!ENTITY appMenuHelp.tooltip "Көмек мәзірін ашу">
 
 <!ENTITY appMenuRemoteTabs.label "Синхрондалған беттер">
@@ -417,7 +419,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "о">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Иә">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "и">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "л">
 <!ENTITY bookmarkThisFrameCmd.label      "Осы фреймді бетбелгілерге қосу">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "г">
+
 <!ENTITY emailPageCmd.label           "Сілтемені эл. поштамен жіберу…">
 <!ENTITY emailPageCmd.accesskey       "С">
 <!ENTITY savePageCmd.label            "Парақты қалайша сақтау…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Бүйір панелін жабу">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Шығу">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ы">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; жұмысын аяқтау">
@@ -710,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
 <!ENTITY spellAddDictionaries.accesskey "С">
 
-<!ENTITY editBookmark.done.label                     "Дайын">
 <!ENTITY editBookmark.removeBookmark.accessKey       "ш">
 
 <!ENTITY identity.connectionSecure "Қауіпсіз байланыс">
@@ -718,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Бұл парақ сіздің компьютеріңізде сақталған.">
 <!ENTITY identity.connectionVerified2 "Бұл сайтқа қауіпсіз түрде байланысты орнаттыңыз, сайт иесі:">
 <!ENTITY identity.connectionInternal "Бұл - қауіпсіз &brandShortName; беті.">
+
 <!ENTITY identity.insecureLoginForms2 "Бұл парақта енгізілген логин ақпаратына бөтен адамдардың қолы жетуі мүмкін.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Көбірек құралдарды алуға қалайсыз ба?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Мыңдаған қосымшалардан таңдау">
 <!ENTITY customizeMode.restoreDefaults "Әдеттілеріне қайту">
-<!ENTITY customizeMode.toolbars "Саймандар панелін көрсету/жасыру">
+
 <!ENTITY customizeMode.titlebar "Атау жолағы">
+
 <!ENTITY customizeMode.lwthemes "Темалар">
 <!ENTITY customizeMode.lwthemes.myThemes "Менің темаларым">
 <!ENTITY customizeMode.lwthemes.recommended "Ұсынылатын">
@@ -931,6 +942,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "т">
 <!ENTITY updateRestart.cancelButton.label "Қазір емес">
 <!ENTITY updateRestart.cancelButton.accesskey "м">
-<!ENTITY updateRestart.panelUI.label "Жаңартуды іске асыру үшін, &brandShorterName; қайта іске қосыңыз">
+
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
