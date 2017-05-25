@@ -208,6 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Phenya">
 <!-- Toolbar items -->
 
@@ -269,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "J"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Namatsisela">  
 <!ENTITY pasteCmd.key           "V">  
@@ -299,6 +300,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
+
 
 
 
@@ -365,7 +367,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -463,6 +471,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "U">
 <!ENTITY setDesktopBackgroundCmd.label      "Misa njengebuso Bengcondvomshina…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "M">
+
 
 
 
@@ -581,6 +590,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala Ibhaceleni">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
 
@@ -635,6 +645,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!-- Strings for connection state warnings. -->
 
 
@@ -676,6 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+
 
 
 
