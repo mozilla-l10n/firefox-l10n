@@ -57,7 +57,7 @@
 <!ENTITY button.syncKeyBackup.save.accesskey  "G">
 <!-- New Account Page 3: Captcha -->
 
-<!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robô ;)">
+<!ENTITY setup.captchaPage2.title.label     "Por favor confirme que não é um robô">
 <!-- Existing Account Page 1: Add Device (incl. Add a Device dialog strings) -->
 
 <!ENTITY addDevice.title.label              "Adicionar um dispositivo">
