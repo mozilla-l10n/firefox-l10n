@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hantera plugins som används">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ändra om du kan ta emot meddelanden från webbplatsen">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagra data i beständig lagring">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Webbläsaren är fjärrstyrd">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hantera delning av din kamera och/eller mikrofon med webbplatsen">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hantera delning av din mikrofon med webbplatsen">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Rensa ut tidigare historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Återställ föregående session">
 <!ENTITY appMenuHistory.viewSidebar.label "Visa sidofältet Historik">
+<!ENTITY appMenuHelp.label "Hjälp">
 <!ENTITY appMenuHelp.tooltip "Öppna Hjälp-menyn">
 
 <!ENTITY appMenuRemoteTabs.label "Synkade flikar">
@@ -419,7 +421,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjälp att hitta saker! Leta efter &#x1F50E; bredvid sökförslag.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ändra inställningar…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ändra inställningar…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "n">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Lägg till bokmärke för ram">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+<!ENTITY copyURLCmd.label             "Kopiera URL">
 <!ENTITY emailPageCmd.label           "E-posta länk…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Spara sida som…">
@@ -657,7 +666,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "Stäng Sidofält">
+<!ENTITY sidebarCloseButton.tooltip     "Stäng sidofält">
+<!ENTITY sidebarMenuClose.label         "Stäng sidofält">
 
 <!ENTITY quitApplicationCmdWin2.label       "Avsluta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "A">
@@ -720,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Den här sidan är lagrad på din dator.">
 <!ENTITY identity.connectionVerified2 "Du är säkert ansluten till denna webbplats, som tillhör:">
 <!ENTITY identity.connectionInternal "Detta är en säker &brandShortName; sida.">
+<!ENTITY identity.extensionPage "Den här sidan laddas från ett tillägg.">
 <!ENTITY identity.insecureLoginForms2 "Inloggningar du anger på denna sida kan äventyras">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Vill du ha fler verktyg?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Välj bland tusentals tillägg">
 <!ENTITY customizeMode.restoreDefaults "Återställ standard">
+<!ENTITY customizeMode.done "Klar">
 <!ENTITY customizeMode.titlebar "Namnfältet">
+<!ENTITY customizeMode.toolbars2 "Verktygsfält">
 <!ENTITY customizeMode.lwthemes "Teman">
 <!ENTITY customizeMode.lwthemes.myThemes "Mina teman">
 <!ENTITY customizeMode.lwthemes.recommended "Rekommenderade">
@@ -932,5 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "S">
 <!ENTITY updateRestart.cancelButton.label "Inte nu">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label2 "Starta om för att uppdatera &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Åtgärder för sida">
