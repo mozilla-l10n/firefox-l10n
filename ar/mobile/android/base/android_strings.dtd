@@ -183,7 +183,7 @@
 <!ENTITY pref_category_datareporting "اختيارات البيانات">
 <!ENTITY pref_category_logins "جلسات الولوج">
 <!ENTITY pref_learn_more "اطّلع على المزيد">
-<!ENTITY pref_category_installed_search_engines "محركات البحث المُثبّتة">
+<!ENTITY pref_category_installed_search_engines "محركات البحث المُنصّبة">
 <!ENTITY pref_category_add_search_providers "أضف المزيد من مزودي البحث">
 <!ENTITY pref_category_search_restore_defaults "استعد محركات البحث">
 <!ENTITY pref_search_restore_defaults "استعد الإعدادات المبدئية">
@@ -205,7 +205,7 @@
 <!ENTITY pref_content_notifications_summary2 "اكتشف محتوى جديد من المواقع المدعومة">
 <!ENTITY pref_developer_remotedebugging_usb "التنقيح عن بعد عبر USB">
 <!ENTITY pref_developer_remotedebugging_wifi "التنقيح عن بعد عبر واي-فاي">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "يتطلّب التنقيح عبر واي-فاي تثبيت برنامج لقراءة رموز QR على جهازك.">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "يتطلّب التنقيح عبر واي-فاي تنصيب برنامج لقراءة رموز QR على جهازك.">
 <!ENTITY pref_remember_signons2 "تذكّر جلسات الولوج">
 <!ENTITY pref_manage_logins "أدِر جلسات الولوج">
 
@@ -703,7 +703,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_retry2 "المس لإعادة المحاولة">
 
 <!ENTITY updater_apply_title3 "تم تنزيل تحديث &brandShortName;">
-<!ENTITY updater_apply_select3 "المس للتثبيت">
+<!ENTITY updater_apply_select3 "المس للتنصيب">
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
