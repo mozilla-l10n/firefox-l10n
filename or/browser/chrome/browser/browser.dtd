@@ -226,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "ସନ୍ଧାନ">
 <!-- Toolbar items -->
 
@@ -293,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "ଲଗାନ୍ତୁ">  
 <!ENTITY pasteCmd.key           "V">  
@@ -341,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ନିକଟର ପୁରୁଣା ତଥ୍ୟକୁ ସଫାକରନ୍ତୁ…">
 <!ENTITY appMenuHistory.restoreSession.label "ପୂର୍ବବର୍ତ୍ତୀ ଅଧିବେଶନକୁ ପୁନର୍ଧାରଣ କରନ୍ତୁ">
 <!ENTITY appMenuHistory.viewSidebar.label "ପୁରୁଣାତଥ୍ୟ ପାର୍ଶ୍ୱପଟିକୁ ଦେଖନ୍ତୁ">
+
 <!ENTITY appMenuHelp.tooltip "ସହାୟତା ତାଲିକାକୁ ଖୋଲନ୍ତୁ">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -398,7 +400,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ହଁ">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -503,6 +511,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ଏହି ଫ୍ରେମକୁ ଚିହ୍ନିତ କରନ୍ତୁ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "ସଂଯୋଗିକୀକୁ ଇମେଲ କରନ୍ତୁ…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "ପୃଷ୍ଠାକୁ ଏହିପରି ସଂରକ୍ଷଣ କରନ୍ତୁ…">
@@ -629,6 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "ପାର୍ଶ୍ୱପଟି ବନ୍ଦକରନ୍ତୁ">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "ପ୍ରସ୍ଥାନ କରନ୍ତୁ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ଛାଡ଼ନ୍ତୁ">
@@ -681,7 +691,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "ଅଭିଧାନଗୁଡ଼ିକୁ ଯୋଗ କରନ୍ତୁ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "ସମାପ୍ତ">
+
 
 
 
@@ -771,8 +781,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ଅଧିକ ସାଧନ ଆଶାକରୁଛନ୍ତି କି?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ହଜାର ହଜାର ଏଡ଼ ଅନଗୁଡ଼ିକରୁ ବାଛନ୍ତୁ">
 <!ENTITY customizeMode.restoreDefaults "ପୂର୍ବ ନିର୍ଦ୍ଧାରିତଗୁଡିକୁ ପୁନଃସ୍ଥାପନ କରନ୍ତୁ">
-<!ENTITY customizeMode.toolbars "ସାଧନପଟିକୁ ଦର୍ଶାନ୍ତୁ /ଲୁଚାନ୍ତୁ">
+
 <!ENTITY customizeMode.titlebar "ଶୀର୍ଷକ ପଟି">
+
 <!ENTITY customizeMode.lwthemes "ପ୍ରସଙ୍ଗ">
 <!ENTITY customizeMode.lwthemes.myThemes "ମୋର ପ୍ରସଙ୍ଗ">
 <!ENTITY customizeMode.lwthemes.recommended "ପରାମର୍ଶିତ">
