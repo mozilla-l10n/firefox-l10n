@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Slinkti tolygiai">
 <!ENTITY useSmoothScrolling.accesskey    "t">
-<!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
-<!ENTITY allowHWAccel.accesskey          "a">
 <!ENTITY checkUserSpelling.label         "Tikrinti rašybą renkant tekstą">
 <!ENTITY checkUserSpelling.accesskey     "k">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "L">
 <!ENTITY viewSecurityDevices.label       "Saugumo priemonės">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
+<!ENTITY allowHWAccel.accesskey          "a">
