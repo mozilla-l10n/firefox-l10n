@@ -137,12 +137,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "w">
 
 <!ENTITY performance.label               "Teeyan sahã">
-<!ENTITY useRecommendedPerformanceSettings.label "Goy nda goy sahã kayandiyan yaamarantey">
-<!ENTITY useRecommendedPerformanceSettings.description "Goy sahã kayandiyan yaamarantey n' ka fasal war ordinateroo se.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "o">
+<!ENTITY useRecommendedPerformanceSettings2.label "Goy nda goy sahã kayandiyan yaamarantey">
 
-<!ENTITY limitContentProcess.label       "Gundekuna goyandiyan adadu">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "o">
 
-<!ENTITY limitContentProcess.accesskey   "d">
+<!ENTITY limitContentProcess2.label       "Gundekuna goyandiyan adadu">
+
+<!ENTITY limitContentProcess2.accesskey   "d">
 <!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
 <!ENTITY allowHWAccel.accesskey          "j">

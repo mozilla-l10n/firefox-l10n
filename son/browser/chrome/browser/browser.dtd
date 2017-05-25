@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Bayhayey jiši jišiyan duumante ra">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "War jindezaahayaa žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "War zanfuney nda dijey žemnayanoo nda nungoo juwal">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "D"> 
 <!ENTITY copyCmd.label            "Berandi">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "B"> 
 <!ENTITY pasteCmd.label           "Dobu">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
 <!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
+
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
 
 <!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ayyo">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Kungaa woo šilbay">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
+
 <!ENTITY emailPageCmd.label           "Bataga dobu…">
 <!ENTITY emailPageCmd.accesskey       "a">
 <!ENTITY savePageCmd.label            "Moɲoo gaabu sanda…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ceraw-zuu daabu">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Fatta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Fatta &brandShorterName; ra">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Kamasey tonton…">
 <!ENTITY spellAddDictionaries.accesskey "t">
 
-<!ENTITY editBookmark.done.label                     "Ben">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ciyari moora">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Moɲoo woo n' ka jisandii war ordinateroo ga.">
 <!ENTITY identity.connectionVerified2 "War dobu nda saajaw nungoo woo ga, kaŋ maykaa ti:">
 <!ENTITY identity.connectionInternal "Woo ti &brandShortName; moo saajante.">
+
 <!ENTITY identity.insecureLoginForms2 "Huruyan šilbawey kaŋ goo moɲoo woo ši hima saajante.">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ga jinay ka tonton?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suuba tontoni ženberyaŋ ra">
 <!ENTITY customizeMode.restoreDefaults "Taka jina tilasu">
-<!ENTITY customizeMode.toolbars "Goyjinay zuu cebe / tugu">
+
 <!ENTITY customizeMode.titlebar "Maa zuu">
+
 <!ENTITY customizeMode.lwthemes "Furarey">
 <!ENTITY customizeMode.lwthemes.myThemes "Ay furarey">
 <!ENTITY customizeMode.lwthemes.recommended "Yaamarante">
@@ -929,6 +940,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Manti sohõ">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label "&brandShorterName; tunandi taaga ka taagandiroo kanandi">
+
 
 <!ENTITY pageActionButton.tooltip "Moo goyey">

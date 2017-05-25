@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Taariki">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Šennikufaley">
-<!ENTITY engine.passwords.accesskey "e">
+
+
 <!ENTITY engine.prefs.label         "Ibaayey">
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tontoney">
