@@ -8,8 +8,6 @@
 <!ENTITY engine.bookmarks.accesskey "d">
 <!ENTITY engine.history.label       "Lược sử">
 <!ENTITY engine.history.accesskey   "L">
-<!ENTITY engine.passwords.label     "Mật khẩu">
-<!ENTITY engine.passwords.accesskey "M">
 <!ENTITY engine.prefs.label         "Tùy chỉnh">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Tiện ích">
