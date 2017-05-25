@@ -226,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "सोदात">
 <!-- Toolbar items -->
 
@@ -293,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "दसयात">  
 <!ENTITY pasteCmd.key           "V">  
@@ -341,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "सद्याचो इतिहास साफ करात...">
 <!ENTITY appMenuHistory.restoreSession.label "पयलींचें सत्र पूर्वस्थितीर हाडचें">
 <!ENTITY appMenuHistory.viewSidebar.label "View History Sidebar">
+
 <!ENTITY appMenuHelp.tooltip "मदत मेनू उगडात">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -398,7 +400,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "हंय">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -508,6 +516,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ल">
 <!ENTITY bookmarkThisFrameCmd.label      "ही फ्रेम बूकमार्क करची">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "म">
+
 <!ENTITY emailPageCmd.label           "ईमेल जोडणी...">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "म्हण पानाची जतनाय करात...">
@@ -634,6 +643,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "समासपट्टी बंद करात">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "भारय सरात">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; न भायर सरात">
@@ -686,7 +696,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "शब्दकोश जोडात...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "जाले">
+
 
 
 
@@ -776,8 +786,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "अदिक साधनां जाय?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजार अॅड-ऑन्सातल्यान निवडात">
 <!ENTITY customizeMode.restoreDefaults "मूळावे परत दवरात">
-<!ENTITY customizeMode.toolbars "साधनपट्ट्यो दाखयात/लिपयात">
+
 <!ENTITY customizeMode.titlebar "शिर्शक पट्टी">
+
 <!ENTITY customizeMode.lwthemes "संकल्पना">
 <!ENTITY customizeMode.lwthemes.myThemes "म्हज्यो संकल्पना">
 <!ENTITY customizeMode.lwthemes.recommended "शिफारस केल्या">

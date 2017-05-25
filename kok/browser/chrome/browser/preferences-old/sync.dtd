@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्ड">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "प्राधान्या">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        " जोडात">
