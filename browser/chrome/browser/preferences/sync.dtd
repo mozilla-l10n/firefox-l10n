@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Պատմությունը">
 <!ENTITY engine.history.accesskey   "թ">
-<!ENTITY engine.passwords.label     "Գաղտնաբառերը">
-<!ENTITY engine.passwords.accesskey "Գ">
+
+
 <!ENTITY engine.prefs.label         "Կարգավորումները">
 <!ENTITY engine.prefs.accesskey     "ը">
 <!ENTITY engine.addons.label        "Հավելումները">

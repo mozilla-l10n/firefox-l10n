@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Փոխել, թե արդյոք կարող եք կայքից ստանալ ծանուցումներ">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Կառավարել խցիկի և/կամ բարձրախոսի համօգտագործումը այս կայքի հետ">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Կառավարել ձեր բարձրախոսի համօգտագործումը այս կայքի հետ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Կառավարել պատուհանների կամ էկրանի համօգտագործումը այս կայքի հետ">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ր"> 
 <!ENTITY copyCmd.label            "Պատճենել">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "Պ"> 
 <!ENTITY pasteCmd.label           "Տեղադրել">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Մաքրել Վերջին Պատմությունը...">
 <!ENTITY appMenuHistory.restoreSession.label "Վերականգնել նախորդ աշխատաշրջանը">
 <!ENTITY appMenuHistory.viewSidebar.label "Պատմության կողային վահանակը">
+
 <!ENTITY appMenuHelp.tooltip "Բացել օգնության ցանկը">
 
 <!ENTITY appMenuRemoteTabs.label "Համաժամեցված ներդիրներ">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Այո">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "Հ">
 <!ENTITY bookmarkThisFrameCmd.label      "Էջանշել Այս շրջանակը">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "շ">
+
 <!ENTITY emailPageCmd.label           "Հղումը ուղարկել էլ. փոստով...">
 <!ENTITY emailPageCmd.accesskey       "Հ">
 <!ENTITY savePageCmd.label            "Պահպանել Էջը որպես…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Փակել կողավահանակը">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Փակել">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ա">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Փակել &brandShorterName;-ը">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ավելացնել Բառարաններ...">
 <!ENTITY spellAddDictionaries.accesskey "Ա">
 
-<!ENTITY editBookmark.done.label                     "Պատրաստ է">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Անվտանգ կապակցում">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Այս էջը գտնվում է համակարգչում:">
 <!ENTITY identity.connectionVerified2 "Դուք անվտանգ կապակցված եք այս կայքին, որը աշխատեցնում է՝">
 <!ENTITY identity.connectionInternal "Սա անվտանգ &brandShortName; էջ է:">
+
 <!ENTITY identity.insecureLoginForms2 "Այս էջից մուտքագրումները վտանգված են:">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ի՞նչ լրացուցիչ գործիք">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Ընտրություն կատարեք հազարավոր հավելումներից">
 <!ENTITY customizeMode.restoreDefaults "Վերականգնել ծրագրայինը">
-<!ENTITY customizeMode.toolbars "Ցուցադրել կամ թաքցնել Գործիքագոտիները">
+
 <!ENTITY customizeMode.titlebar "Անվանագոտի">
+
 <!ENTITY customizeMode.lwthemes "Ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.myThemes "Իմ ձևավորումները">
 <!ENTITY customizeMode.lwthemes.recommended "Խորհուրդ է տրվում՝">
@@ -929,6 +940,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "Վ">
 <!ENTITY updateRestart.cancelButton.label "Ոչ հիմա">
 <!ENTITY updateRestart.cancelButton.accesskey "Ո">
-<!ENTITY updateRestart.panelUI.label "Վերամեկնարկեք &brandShorterName;-ը՝ թարմացումը գործադրելու համար">
+
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
