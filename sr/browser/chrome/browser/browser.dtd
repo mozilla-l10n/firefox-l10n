@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управљајте додацима">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промените да ли сајт може да приказује обавештења">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Складишти податке у трајном складишту">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Прегледач је под удаљеним управљањем">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управљајте дељењем ваше камере и/или микрофона са сајтом">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управљајте дељењем вашег микрофона са сајтом">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Обриши историјат…">
 <!ENTITY appMenuHistory.restoreSession.label "Обнови претходну сесију">
 <!ENTITY appMenuHistory.viewSidebar.label "Прикажи палету историјата">
+<!ENTITY appMenuHelp.label "Помоћ">
 <!ENTITY appMenuHelp.tooltip "Отвори мени за помоћ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизовани језичци">
@@ -419,7 +421,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "Д">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Савет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Потражите помоћ око проналажења ствари! Потражите &#x1F50E; поред предлога претраге.">
 
 <!--
   Comment duplicated from browser-sets.inc:
