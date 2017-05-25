@@ -226,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "ژھآنڈیو">
 <!-- Toolbar items -->
 
@@ -293,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "تئ چسپاں ">  
 <!ENTITY pasteCmd.key           "V">  
@@ -341,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "حالچ  تعٲریخ كریو صاف">
 <!ENTITY appMenuHistory.restoreSession.label "پتِم سیشن انیو واپس">
 <!ENTITY appMenuHistory.viewSidebar.label "ہسٹری سایِڈ بار کْریو ویو">
+
 <!ENTITY appMenuHelp.tooltip "مدد مینیو کْریو اوپْن">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -398,7 +400,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "عئں">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -506,6 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "یتھ فریمس تھٲویو   نشان   ۔۔۔">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "ٳئمل لینك">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "صفحہ تھئویو محفوظ اتھ كئن   ...">
@@ -632,6 +641,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "سائڈ بار  كریو بند">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "خٲرج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "برینڈ  لكُٹ ناو  كریو ایکزِٹ">
@@ -684,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "لغات رلٲویو">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "سبدیے">
+
 
 
 
@@ -774,8 +784,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "مزید ٹول چھاہ ضرورت؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ژأریو ساس بدیو ایڈ۔آنو منز">
 <!ENTITY customizeMode.restoreDefaults "ڈیفالٹس  انیو واپس">
-<!ENTITY customizeMode.toolbars "ہأیو یا ہایِڈ کْریو ٹول بار">
+
 <!ENTITY customizeMode.titlebar "عنوان بار">
+
 <!ENTITY customizeMode.lwthemes "تھیمْہ">
 <!ENTITY customizeMode.lwthemes.myThemes "میانِہ تھیمْہ">
 <!ENTITY customizeMode.lwthemes.recommended "مشوَرئ  یوان دِنئ">

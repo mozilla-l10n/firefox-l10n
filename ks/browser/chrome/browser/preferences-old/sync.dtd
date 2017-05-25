@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "تٲریخ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "&amp; خُفیئ لفظ">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "ترجیحات">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "&amp; ایڈ آنس">
