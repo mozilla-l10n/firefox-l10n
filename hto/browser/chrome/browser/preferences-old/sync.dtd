@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Jáganɨaɨ">
 <!ENTITY engine.history.accesskey   "a">
-<!ENTITY engine.passwords.label     "Fakára ráa">
-<!ENTITY engine.passwords.accesskey "F">
+
+
 <!ENTITY engine.prefs.label         "Kúe gaɨga">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Jɨaɨe">

@@ -30,8 +30,6 @@
 
 
 
-
-
 <!ENTITY telemetryDesc.label             "Fekayena taɨjɨe, hardware  kúe dáma ráa makara biedo &vendorShortName; kái kánoyena &brandShortName; ñúera">
 
 
@@ -108,5 +106,14 @@
 
 <!ENTITY viewCerts.label                 "Éroi rabe">
 <!ENTITY viewCerts.accesskey             "C">
+
+
+
+
+
+
+
+
+
 
 

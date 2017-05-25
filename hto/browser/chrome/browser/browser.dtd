@@ -194,6 +194,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Bíe rabe jɨaɨe úiado jóne">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Kúe dáma bíe rabe jɨaɨe úiado jóne">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Software DRM kúe dáma taɨjɨa">
@@ -273,7 +274,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "d"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Níta">  
 <!ENTITY pasteCmd.key           "V">  
@@ -321,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Kómue jagaɨ dono...">
 
 <!ENTITY appMenuHistory.viewSidebar.label "Jagaɨ radozi ákata">
+
 
 
 <!ENTITY appMenuRemoteTabs.label "Dáamakɨ úitɨraɨ">
@@ -379,7 +381,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "́Jɨɨ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -485,6 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "f">
 <!ENTITY viewBGImageCmd.label         "Ákata jána anáfene">
 <!ENTITY viewBGImageCmd.accesskey     "a">
+
 
 
 
@@ -616,6 +625,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "D">
 
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Jino jaide">
 <!ENTITY quitApplicationCmdWin2.accesskey   "J">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Jino jaide íedo &brandShorterName;">
@@ -665,11 +675,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Úai íyano jóne...">
 <!ENTITY spellAddDictionaries.accesskey "Ú">
 
-<!ENTITY editBookmark.done.label                     "Fúitade">
 
 
 <!ENTITY identity.connectionSecure "Ñúe nitáde">
 <!ENTITY identity.connectionNotSecure "Ñúe nitánoñede">
+
 
 
 
@@ -760,6 +770,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.titlebar "Káifo rábemo">
+
 <!ENTITY customizeMode.lwthemes "́Jídériya">
 <!ENTITY customizeMode.lwthemes.myThemes "Kúe Jídériya">
 <!ENTITY customizeMode.lwthemes.recommended "Órekamɨe">
