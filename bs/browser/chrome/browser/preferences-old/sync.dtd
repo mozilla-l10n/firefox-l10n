@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Lozinke">
-<!ENTITY engine.passwords.accesskey "L">
+
+
 <!ENTITY engine.prefs.label         "Postavke">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Add-oni">

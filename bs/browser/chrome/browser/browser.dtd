@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Promijenite da li možete primati obavještenja sa stranice">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Pohrani podatke u trajno spremište">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dijeljenjem vaše kamere i/ili mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dijeljenjem vašeg mikrofona sa stranicom">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Upravljajte dijeljenjem vaših prozora ili ekrana sa stranicom">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "I"> 
 <!ENTITY copyCmd.label            "Kopiraj">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Zalijepi">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Obriši skorašnju historiju…">
 <!ENTITY appMenuHistory.restoreSession.label "Povrati prethodnu sesiju">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži bočnu traku za historiju">
+
 <!ENTITY appMenuHelp.tooltip "Otvori meni pomoći">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizovani tabovi">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Da">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Zabilježi ovaj okvir">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Z">
+
 <!ENTITY emailPageCmd.label           "Pošalji link emailom…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Spasi stranicu kao…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Zatvori bočnu traku">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Izlaz">
 <!ENTITY quitApplicationCmdWin2.accesskey   "z">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Zatvori &brandShorterName;">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Dodaj rječnike…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-<!ENTITY editBookmark.done.label                     "Gotovo">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Sigurna konekcija">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ova stranica je pohranjena na vaš računar.">
 <!ENTITY identity.connectionVerified2 "Povezani ste na siguran način na stranicu, u vlasništvu:">
 <!ENTITY identity.connectionInternal "Ovo je sigurna &brandShortName; stranica.">
+
 <!ENTITY identity.insecureLoginForms2 "Prijave unešene na ovoj stranici mogle bi biti kompromitovane.">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Želite više alata?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izaberite neki od hiljada add-ona">
 <!ENTITY customizeMode.restoreDefaults "Vrati izvorne vrijednosti">
-<!ENTITY customizeMode.toolbars "Prikaži / sakrij alatne trake">
+
 <!ENTITY customizeMode.titlebar "Traka s naslovom">
+
 <!ENTITY customizeMode.lwthemes "Teme">
 <!ENTITY customizeMode.lwthemes.myThemes "Moje teme">
 <!ENTITY customizeMode.lwthemes.recommended "Preporučeno">
@@ -929,5 +940,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne sada">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Restartuj &brandShorterName; da bi primjenio nadogradnju.">
+
 
