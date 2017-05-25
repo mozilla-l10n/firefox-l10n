@@ -15,7 +15,7 @@
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "הסתרה">
 <!ENTITY editBookmarkOverlay.tags.label                      "תגיות:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "ג">
-<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "הפרד בין תגיות באמצעות פסיקים">
+<!ENTITY editBookmarkOverlay.tagsEmptyDesc.label             "יש להפריד בין תגיות באמצעות פסיקים">
 <!ENTITY editBookmarkOverlay.description.label               "תיאור:">
 <!ENTITY editBookmarkOverlay.description.accesskey           "ת">
 <!ENTITY editBookmarkOverlay.keyword.label                   "מילת מפתח:">
