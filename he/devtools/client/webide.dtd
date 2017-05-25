@@ -89,6 +89,7 @@
 <!ENTITY details_location "מיקום">
 <!ENTITY details_manifestURL "מזהה יישום">
 <!ENTITY details_removeProject_button "הסרת פרויקט">
+<!ENTITY details_showPrepackageLog_button "הצגת יומן טרום אריזה">
 
 <!-- New App -->
 <!ENTITY newAppWindowTitle "יישום חדש">

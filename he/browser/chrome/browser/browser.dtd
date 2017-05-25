@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "ניהול שימוש בתוספים חיצוניים">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "החלפת מצב קבלת התרעות מהאתר">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "שמירת נתונים באחסון קבוע">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "הדפדפן נשלט מרחוק">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ניהול שיתוף המצלמה ו/או המיקרופון שלך עם האתר">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ניהול שיתוף המיקרופון שלך עם האתר">
@@ -420,7 +421,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "כ">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "עצה:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "קבלת עזרה במציאת הדברים שחשובים לך! באמצעות הסמל &#x1F50E; שליד תוצאות החיפוש.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "שינוי אפשרויות…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "ע">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "שינוי העדפות…">
@@ -664,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ת">
 
 <!ENTITY sidebarCloseButton.tooltip     "סגור את סרגל הצד">
+<!ENTITY sidebarMenuClose.label         "סגירת סרגל הצד">
 
 <!ENTITY quitApplicationCmdWin2.label       "יציאה">
 <!ENTITY quitApplicationCmdWin2.accesskey   "צ">
@@ -726,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "העמוד הזה מאוחסן במחשב שלך.">
 <!ENTITY identity.connectionVerified2 "התחברת לאתר זה באופן מאובטח, בבעלות:">
 <!ENTITY identity.connectionInternal "דף זה הנו דף מאובטח של &brandShortName;.">
+<!ENTITY identity.extensionPage "עמוד זה נטען מתוך הרחבה.">
 <!ENTITY identity.insecureLoginForms2 "פרטי ההתחברות המוזנים בעמוד זה עשויים להיות חשופים בפני גורמי צד שלישי.">
 
 <!-- Strings for connection state warnings. -->
@@ -824,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "מעוניינים בכלים נוספים?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "לבחור מאלפי תוספות">
 <!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
+<!ENTITY customizeMode.done "סיום">
 <!ENTITY customizeMode.titlebar "שורת כותרת">
+<!ENTITY customizeMode.toolbars2 "סרגלי כלים">
 <!ENTITY customizeMode.lwthemes "ערכות נושא">
 <!ENTITY customizeMode.lwthemes.myThemes "ערכות הנושא שלי">
 <!ENTITY customizeMode.lwthemes.recommended "מומלצים">
@@ -938,5 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "פ">
 <!ENTITY updateRestart.cancelButton.label "לא כעת">
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
+<!ENTITY updateRestart.panelUI.label2 "יש להפעיל מחדש כדי לעדכן את &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
