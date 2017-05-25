@@ -90,7 +90,7 @@
 <!ENTITY updateManual.accesskey          "N">
 
 <!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
-<!ENTITY updateHistory.accesskey         "p">
+<!ENTITY updateHistory.accesskey         "ส">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
