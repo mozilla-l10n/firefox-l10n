@@ -137,12 +137,5 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "పనితనం">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "సిఫారసు చేయబడిన పనితనపు అమరికలను వాడు">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "సిఫారసు చేయబడిన పనితనపు అమరికలు అనేవి మీ కంప్యూటరుకి ప్రత్యేకం.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">
