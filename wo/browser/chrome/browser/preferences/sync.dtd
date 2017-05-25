@@ -9,8 +9,6 @@
 <!ENTITY engine.tabs.accesskey      "K">
 <!ENTITY engine.history.label       "Jaar jaar">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Baatu jàll">
-<!ENTITY engine.passwords.accesskey "t">
 <!ENTITY engine.prefs.label         "Taamu yi">
 <!ENTITY engine.prefs.accesskey     "T">
 <!ENTITY engine.addons.label        "Modilu mottali">
