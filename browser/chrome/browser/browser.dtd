@@ -221,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Lêgerîn">
 <!-- Toolbar items -->
 
@@ -288,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "J"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Pêve bike">  
 <!ENTITY pasteCmd.key           "V">  
@@ -336,6 +337,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Raboriya nêzîk paqij bike…">
 <!ENTITY appMenuHistory.restoreSession.label "Danişîna berê veava bike">
 <!ENTITY appMenuHistory.viewSidebar.label "Darika kêlekê ya Raboriyê nîşan bide">
+
 <!ENTITY appMenuHelp.tooltip "Menuya Alîkariyê veke">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -393,7 +395,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Erê">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -497,6 +505,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "e">
 <!ENTITY bookmarkThisFrameCmd.label      "Vê Çarçoveyê Têxe Nava Bijareyan...">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "y">
+
 <!ENTITY emailPageCmd.label           "Girêdankê bi epeyamê bişîne…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Cuda Tomar Bike...">
@@ -623,6 +632,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Darikê quncikê bigire">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Derkeve">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Ji &brandShorterName;ê derkeve">
@@ -675,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ferhengan têxê...">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
-<!ENTITY editBookmark.done.label                     "Temam">
+
 
 
 
@@ -764,8 +774,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Amûrên din dixwazî?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Ji nav bi hezaran ad-onan hilbijêre">
 <!ENTITY customizeMode.restoreDefaults "Vegerîne ya standard">
-<!ENTITY customizeMode.toolbars "Darikê amûran nîşan bide / veşêre">
+
 <!ENTITY customizeMode.titlebar "Darikê sernavê">
+
 
 
 
