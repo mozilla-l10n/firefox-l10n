@@ -86,7 +86,7 @@
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
 <!ENTITY  event.menu.item.saveandclose.label              "Gem og luk">
-<!ENTITY  event.menu.item.saveandclose.accesskey          "l">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "k">
 <!ENTITY  event.menu.item.saveandclose.tab.accesskey      "k">
 
 <!ENTITY  event.menu.item.delete.label                    "Slet…">

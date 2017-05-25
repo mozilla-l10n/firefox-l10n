@@ -117,7 +117,7 @@
 <!ENTITY proxyConnectFailure.title "Proxyserveren afviser forbindelser">
 <!ENTITY proxyConnectFailure.longDesc "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
   <li>Kontakt din netværks-administrator for at sikre dig, at proxyserveren
     fungerer.</li>
 </ul>
@@ -128,8 +128,8 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "
 <ul>
-  <li>Undersøg proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
-  <li>Undersøg om din computer har en fungerende netværksforbindelse.
+  <li>Kontrollér proxy-indstillingerne, og vær sikker på, at de er korrekte.</li>
+  <li>Kontrollér om din computer har en fungerende netværksforbindelse.
   <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
@@ -175,7 +175,7 @@ og du anbefales at prøve igen senere.</li>
 <!ENTITY sharedLongDesc3 "
 <ul>
   <li>Websiden kan være midlertidigt utilgængelig eller travlt optaget. Prøv igen om et øjeblik.</li>
-  <li>Hvis du er ude af stand til at indlæse nogen websider overhovedet, undersøg da din computers netværksforbindelse.
+  <li>Hvis du er ude af stand til at indlæse nogen websider overhovedet, så kontrollér din computers netværksforbindelse.
   <button id='wifi'>Aktiver wi-fi</button>
   </li>
 </ul>
