@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "j">
 <!ENTITY useSmoothScrolling.label        "Huutoro woragol teeyngol">
 <!ENTITY useSmoothScrolling.accesskey    "t">
-<!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
-<!ENTITY allowHWAccel.accesskey          "m">
 
 
 
@@ -120,3 +118,12 @@
 <!ENTITY viewCerts.accesskey             "d">
 <!ENTITY viewSecurityDevices.label       "Kaɓirɗi Kisal">
 <!ENTITY viewSecurityDevices.accesskey   "ɓ">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
+<!ENTITY allowHWAccel.accesskey          "m">

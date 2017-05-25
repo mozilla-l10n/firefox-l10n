@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Aslol">
 <!ENTITY engine.history.accesskey   "o">
-<!ENTITY engine.passwords.label     "Finndeeji">
-<!ENTITY engine.passwords.accesskey "F">
+
+
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Ɓeyditte">
