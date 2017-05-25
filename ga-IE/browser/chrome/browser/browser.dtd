@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Athraigh pé acu an bhfaighidh nó nach bhfaighidh tú fógraí ón suíomh">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Sábháil sonraí sa Stóras Seasmhach">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bainistigh comhroinnt do cheamara agus/nó do mhicreafón leis an suíomh">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bainistigh comhroinnt do mhicreafóin leis an suíomh">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bainistigh comhroinnt fuinneog nó scáileáin leis an suíomh">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
 <!ENTITY copyCmd.label            "Cóipeáil">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Greamaigh">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an Stair Is Déanaí…">
 <!ENTITY appMenuHistory.restoreSession.label "Athchóirigh an Seisiún Roimhe Seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Taispeáin Stair sa Bharra Taoibh">
+
 <!ENTITY appMenuHelp.tooltip "Oscail an Roghchlár Cabhrach">
 
 <!ENTITY appMenuRemoteTabs.label "Cluaisíní Sioncronaithe">
@@ -417,7 +419,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Tá">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaigh Leabharmharc don Fhráma Seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Seol an Nasc trí Ríomhphost…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY savePageCmd.label            "Sábháil an Leathanach Mar…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Dún an barra taoibh">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Scoir">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Scoir &brandShorterName;">
@@ -710,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Cuir Foclóirí Leis…">
 <!ENTITY spellAddDictionaries.accesskey "C">
 
-<!ENTITY editBookmark.done.label                     "Déanta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceangal Slán">
@@ -718,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Stóráiltear an leathanach seo ar do ríomhaire.">
 <!ENTITY identity.connectionVerified2 "Tá ceangal slán agat leis an suíomh seo, suíomh faoi stiúir:">
 <!ENTITY identity.connectionInternal "Is leathanach slán &brandShortName; é seo.">
+
 <!ENTITY identity.insecureLoginForms2 "D'fhéadfadh sonraí logáil isteach bheith i mbaol ar an leathanach seo.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "An bhfuil tuilleadh uirlisí uait?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Roghnaigh ó na mílte breiseán">
 <!ENTITY customizeMode.restoreDefaults "Athchóirigh na Réamhshocruithe">
-<!ENTITY customizeMode.toolbars "Taispeáin / Folaigh Barraí Uirlisí">
+
 <!ENTITY customizeMode.titlebar "Barra Teidil">
+
 <!ENTITY customizeMode.lwthemes "Téamaí">
 <!ENTITY customizeMode.lwthemes.myThemes "Mo Chuid Téamaí">
 <!ENTITY customizeMode.lwthemes.recommended "Molta">
@@ -931,6 +942,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Níl Anois">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Atosaigh &brandShorterName; chun an nuashonrú a chur i bhfeidhm">
+
 
 <!ENTITY pageActionButton.tooltip "Gníomhartha leathanaigh">

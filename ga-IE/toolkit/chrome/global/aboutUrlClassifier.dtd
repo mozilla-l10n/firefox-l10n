@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "An chéad nuashonrú eile">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stádas an nuashonraithe is déanaí">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Nuashonraigh">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Taisce">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Cuardach">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Meaitseáil">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Seiceáil na Torthaí Meaitseála">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Cuardach">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Seiceáil Torthaí an Chuardaigh">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Taisce">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Cuimhne">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Bunachar sonraí">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Dífhabhtaigh">
