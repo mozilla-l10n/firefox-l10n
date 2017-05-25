@@ -418,7 +418,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "כן">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "כ">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -815,7 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "מעוניינים בכלים נוספים?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "לבחור מאלפי תוספות">
 <!ENTITY customizeMode.restoreDefaults "שחזור לבררות מחדל">
-<!ENTITY customizeMode.toolbars "הצגה והסתרה של סרגלי כלים">
 <!ENTITY customizeMode.titlebar "שורת כותרת">
 <!ENTITY customizeMode.lwthemes "ערכות נושא">
 <!ENTITY customizeMode.lwthemes.myThemes "ערכות הנושא שלי">
@@ -930,6 +932,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "פ">
 <!ENTITY updateRestart.cancelButton.label "לא כעת">
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
-<!ENTITY updateRestart.panelUI.label "יש להפעיל מחדש את &brandShorterName; כדי להחיל את העדכון">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
