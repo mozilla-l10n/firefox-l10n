@@ -337,6 +337,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Engadir máis elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "a">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Buscar ou escribir o enderezo">
 <!ENTITY urlbar.accesskey             "d">
@@ -351,7 +355,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Si">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "i">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -700,7 +707,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Quere máis ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolla entre centos de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar a configuración predeterminada">
-<!ENTITY customizeMode.toolbars "Amosar/agochar as barras de ferramentas">
 <!ENTITY customizeMode.titlebar "Barra de título">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
