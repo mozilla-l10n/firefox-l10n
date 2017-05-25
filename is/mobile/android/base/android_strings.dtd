@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "Bókamerki fjarlægt">
 <!ENTITY bookmark_updated "Bókamerki uppfært">
 <!ENTITY bookmark_options "Valkostir">
-
+<!ENTITY bookmark_save "Vista">
 <!ENTITY screenshot_added_to_bookmarks "Skjámynd bætt við bókamerki">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; atriði">
 <!ENTITY bookmark_folder_one_item "1 atriði">
-
-
+<!ENTITY bookmark_parent_folder "Yfirmappa">
+<!ENTITY bookmark_add_folder "Bæta við nýrri möppu">
 
 <!ENTITY reader_saved_offline "Vistað á tæki">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -548,7 +548,7 @@
 <!ENTITY bookmark_edit_name "Heiti">
 <!ENTITY bookmark_edit_location "Staðsetning">
 <!ENTITY bookmark_edit_keyword "Stikkorð">
-
+<!ENTITY bookmark_select_folder "Veldu möppu">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
