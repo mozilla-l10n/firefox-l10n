@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "a">
 
 <!ENTITY performance.label               "Učinkovitost">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Uporabi priporočene nastavitve učinkovitosti">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Priporočene nastavitve učinkovitosti so prikrojene vašemu računalniku.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Več o tem">
-<!ENTITY limitContentProcess.label       "Omejitev procesov vsebine">
-<!ENTITY limitContentProcess.description
-                                         "Več procesov vsebine lahko pospeši delovanje &brandShortName;a pri uporabi večjega števila zavihkov, a tudi porabi več pomnilnika.">
-<!ENTITY limitContentProcess.accesskey   "O">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
