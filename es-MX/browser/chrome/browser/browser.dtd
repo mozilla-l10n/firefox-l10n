@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si se reciben notificaciones del sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en el almacenamiento persistente">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está controlado a distancia">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar compartir tu cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar compartir tu micrófono con el sitio">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Borrar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar la sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra de historial">
+<!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir el menú de ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
@@ -419,7 +421,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Sugerencia:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtén ayuda para encontrar cosas. Busca &#x1F50E; al lado de las sugerencias de la búsqueda.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modificar las opciones…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cambiar las preferencias…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Agregar este marco a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Copiar URL">
 <!ENTITY emailPageCmd.label           "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar como…">
@@ -658,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "T">
 
 <!ENTITY sidebarCloseButton.tooltip     "Cerrar barra lateral">
+<!ENTITY sidebarMenuClose.label         "Cerrar la barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Salir">
 <!ENTITY quitApplicationCmdWin2.accesskey   "S">
@@ -720,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computadora.">
 <!ENTITY identity.connectionVerified2 "Estás conectado de forma segura a este sitio, perteneciente a:">
 <!ENTITY identity.connectionInternal "Esta es un página &brandShortName; segura.">
+<!ENTITY identity.extensionPage "Esta página se carga desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Inicios de sesión ingresados en esta página pueden ser peligrosos.">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quieres más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Selecciona entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar los valores predeterminados">
+<!ENTITY customizeMode.done "Terminado">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barra de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
@@ -932,5 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Acciones de la página">
