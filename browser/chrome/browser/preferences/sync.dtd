@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "ପୁରୁଣା ତଥ୍ୟ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "ପ୍ରବେଶ ସଂକେତ">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "ପସନ୍ଦ">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ଏଡ-ଅନଗୁଡ଼ିକ">
