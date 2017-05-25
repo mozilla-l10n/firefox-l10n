@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "s">
 <!ENTITY useSmoothScrolling.label        "Kozesa okutambuza okuwereete">
 <!ENTITY useSmoothScrolling.accesskey    "o">
-<!ENTITY allowHWAccel.label              "Kozesa okwanguya kwe ebyuma wekubanga wekuli">
-<!ENTITY allowHWAccel.accesskey          "u">
 
 
 
@@ -116,3 +114,12 @@
 
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Kozesa okwanguya kwe ebyuma wekubanga wekuli">
+<!ENTITY allowHWAccel.accesskey          "u">

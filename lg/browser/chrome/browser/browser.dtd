@@ -216,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Noonya">
 <!-- Toolbar items -->
 
@@ -280,7 +281,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "w"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Teeka">  
 <!ENTITY pasteCmd.key           "V">  
@@ -318,6 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Fula">
+
 
 
 
@@ -381,7 +383,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Yee">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -484,6 +492,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "O">
 <!ENTITY bookmarkThisFrameCmd.label      "Lamba Olugo Luno">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Wereza akagata mu emeyilo…">
 <!ENTITY emailPageCmd.accesskey       "W">
 <!ENTITY savePageCmd.label            "Tereka Omuko Nga…">
@@ -610,6 +619,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ggalawo akabaawo kebbali">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Jjawo">
 <!ENTITY quitApplicationCmdWin2.accesskey   "j">
 
@@ -661,7 +671,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Gatta Enkuluze…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
-<!ENTITY editBookmark.done.label                     "Kiwedde">
+
 
 
 
@@ -748,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.restoreDefaults "Zaawo ebyenkalakalira">
+
 
 
 <!ENTITY customizeMode.lwthemes "Emiramwa">

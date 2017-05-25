@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Ebyafaayo">
 <!ENTITY engine.history.accesskey   "f">
-<!ENTITY engine.passwords.label     "Ebisumuluzo">
-<!ENTITY engine.passwords.accesskey "E">
+
+
 <!ENTITY engine.prefs.label         "Okweroboza">
 <!ENTITY engine.prefs.accesskey     "z">
 <!ENTITY engine.addons.label        "Ebigattibwako">
