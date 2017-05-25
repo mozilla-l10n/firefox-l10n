@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "k">
 
 <!ENTITY performance.label               "Ytelse">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Bruk anbefalte ytelsesinnstillinger">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Anbefalt ytelsesinnstillinger er skreddersydd for din datamaskin.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les mer">
-<!ENTITY limitContentProcess.label       "Grense for innholdsprosesser">
-<!ENTITY limitContentProcess.description
-                                         "Flere innholdsprosesser kan gjøre &brandShortName; mer responsiv når du bruker flere faner, men vil også bruke mer minne.">
-<!ENTITY limitContentProcess.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey          "m">
