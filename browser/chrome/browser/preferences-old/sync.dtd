@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "നാള്‍വഴി">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "രഹസ്യവാക്കുകള്‍">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "മുന്‍ഗണനകള്‍">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ആഡ്-ഓണുകള്‍">
