@@ -10,6 +10,7 @@
 <!ENTITY engine.tabs.accesskey      "Z">
 <!ENTITY engine.history.label       "Zgodovino">
 <!ENTITY engine.history.accesskey   "d">
+<!ENTITY engine.logins.label        "Prijave">
 <!ENTITY engine.prefs.label         "Nastavitve">
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Dodatke">

@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uporabljaj gladko drsenje">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
-<!ENTITY allowHWAccel.accesskey          "U">
 <!ENTITY checkUserSpelling.label         "Preverjajte črkovanje med vnašanjem">
 <!ENTITY checkUserSpelling.accesskey     "v">
 
@@ -125,3 +123,10 @@
 <!ENTITY viewCerts.accesskey             "e">
 <!ENTITY viewSecurityDevices.label       "Varnostne naprave">
 <!ENTITY viewSecurityDevices.accesskey   "a">
+
+<!ENTITY performance.label               "Učinkovitost">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Uporabi priporočene nastavitve učinkovitosti">
+<!ENTITY limitContentProcess.label       "Omejitev procesov vsebine">
+<!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
+<!ENTITY allowHWAccel.accesskey          "U">
