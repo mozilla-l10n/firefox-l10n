@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elemente">
 <!ENTITY bookmark_folder_one_item "1 element">
 <!ENTITY bookmark_parent_folder "Dosar părinte">
-
+<!ENTITY bookmark_add_folder "Adaugă dosar nou">
 
 <!ENTITY reader_saved_offline "Salvat offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -289,8 +289,10 @@
 <!ENTITY pref_custom_tabs_summary3 "Permite aplicațiilor să deschidă site-uri cu o versiune particularizată de &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Deschide în &formatS;">
+<!ENTITY custom_tabs_menu_footer "Sprijinit de &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL copiat">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Flux de activități">
@@ -365,6 +367,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Folosește mărimea fontului sistemului">
+<!ENTITY pref_use_system_font_size_summary "Scalează conținutul web în funcție de mărimea fontului sistemului">
 
 <!ENTITY pref_media_autoplay_enabled "Permite redarea automată">
 <!ENTITY pref_media_autoplay_enabled_summary "Controlează dacă site-urile web pot rula automat videoclipuri și alt conținut media">
