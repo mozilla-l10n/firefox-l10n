@@ -226,6 +226,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "नागिर">
 <!-- Toolbar items -->
 
@@ -293,7 +294,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "फोनांजाब हो(P)">  
 <!ENTITY pasteCmd.key           "V">  
@@ -341,6 +342,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "दानि जारिमिनखौ खोमोर...">
 <!ENTITY appMenuHistory.restoreSession.label "आवगयनि जथुम्माखौ लाबोफिन">
 <!ENTITY appMenuHistory.viewSidebar.label "जारिमिन साइडबारखौ नाय">
+
 <!ENTITY appMenuHelp.tooltip "मदद मेनुखौ खेव">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -398,7 +400,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "नंगौ">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -504,6 +512,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "बे फ्रेमखौ बुकमार्क हो(m)">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "इ-मेइल लिंक...">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "..बादि बिलाइखौ थिना दोन...(A)">
@@ -630,6 +639,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "साइड बारखौ बन्द खालाम">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "ओंखार लां(x)">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 
@@ -682,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "सोदोब बिहुखौ दाजाबदेर...(A)">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "जाखांबाइ">
+
 
 
 
@@ -772,8 +782,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "गोबां टुल लुबैयो?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "गोबां add-ons निफ्राय बासिख">
 <!ENTITY customizeMode.restoreDefaults "डिफल्टखौ मोनफिन">
-<!ENTITY customizeMode.toolbars "टुलबारखौ दिन्थि / दोनखोमा ">
+
 <!ENTITY customizeMode.titlebar "बिमुं बार">
+
 <!ENTITY customizeMode.lwthemes "थिम">
 <!ENTITY customizeMode.lwthemes.myThemes "आंनि थिम">
 <!ENTITY customizeMode.lwthemes.recommended "थिनबाय">

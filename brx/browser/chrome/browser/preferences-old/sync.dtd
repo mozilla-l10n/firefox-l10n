@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "जारिमिन">
 <!ENTITY engine.history.accesskey   "म">
-<!ENTITY engine.passwords.label     "बारग'सोदोबफोर">
-<!ENTITY engine.passwords.accesskey "ब">
+
+
 <!ENTITY engine.prefs.label         "पसन्दफोर">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Add-ons">

@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "मिहि स्क्रलिंखौ बाहाय (m)">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -119,3 +117,12 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "रैखाथि डिभाइस">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "थायोब्ला हार्डवेयार खारथाय बांलांनायखौ बाहाय">
+<!ENTITY allowHWAccel.accesskey          "r">
