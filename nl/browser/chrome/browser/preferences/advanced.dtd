@@ -138,17 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "B">
 
 <!ENTITY performance.label               "Prestaties">
-<!ENTITY useRecommendedPerformanceSettings.label
+<!ENTITY useRecommendedPerformanceSettings2.label
                                          "Aanbevolen prestatie-instellingen gebruiken">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Aanbevolen prestatie-instellingen zijn afgestemd op uw computer.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Deze instellingen zijn afgestemd op de hardware en het besturingssysteem van uw computer.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Meer info">
-<!ENTITY limitContentProcess.label       "Limiet van inhoudsprocessen">
-<!ENTITY limitContentProcess.description
-                                         "Meer inhoudsprocessen kunnen &brandShortName; sneller laten reageren bij het gebruik van meerdere tabbladen, maar zullen ook meer geheugen gebruiken.">
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY limitContentProcess2.label       "Limiet van inhoudsprocessen">
+<!ENTITY limitContentProcess2.description
+                                         "Extra inhoudsprocessen kunnen de prestaties van &brandShortName; bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.">
+<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey          "v">
