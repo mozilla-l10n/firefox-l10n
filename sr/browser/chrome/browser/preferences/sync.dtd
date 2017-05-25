@@ -10,6 +10,7 @@
 <!ENTITY engine.tabs.accesskey      "Ј">
 <!ENTITY engine.history.label       "Историјат">
 <!ENTITY engine.history.accesskey   "И">
+<!ENTITY engine.logins.label        "Пријаве">
 <!ENTITY engine.prefs.label         "Поставке">
 <!ENTITY engine.prefs.accesskey     "П">
 <!ENTITY engine.addons.label        "Додаци">
