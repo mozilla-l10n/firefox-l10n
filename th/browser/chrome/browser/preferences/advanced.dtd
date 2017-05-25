@@ -102,13 +102,13 @@
 <!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "แสดงประวัติการอัปเดต…">
-<!ENTITY updateHistory2.accesskey        "p">
+<!ENTITY updateHistory2.accesskey        "ส">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
 <!ENTITY useService.accesskey            "b">
 
 <!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
-<!ENTITY enableSearchUpdate2.accesskey   "e">
+<!ENTITY enableSearchUpdate2.accesskey   "อ">
 
 <!ENTITY reports.label                   "รายงาน">
 

@@ -29,7 +29,7 @@
 <!ENTITY chooseFolderMac.label        "เลือก…">
 <!ENTITY chooseFolderMac.accesskey    "ล">
 <!ENTITY alwaysAskWhere.label         "ถามคุณเสมอว่าจะบันทึกไฟล์ที่ไหน">
-<!ENTITY alwaysAskWhere.accesskey     "A">
+<!ENTITY alwaysAskWhere.accesskey     "ถ">
 
 <!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่">
 <!ENTITY alwaysCheckDefault2.accesskey    "จ">
