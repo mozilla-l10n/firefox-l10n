@@ -52,7 +52,16 @@
 <!ENTITY crashReporterLearnMore.label    "Daha fazla bilgi alın">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "&brandShortName; güncellemeleri:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
 <!ENTITY updateAuto.label                "Güncellemeleri otomatik olarak kur (önerilir: artırılmış güvenlik)">
 <!ENTITY updateAuto.accesskey            "o">
 <!ENTITY updateCheck.label               "Güncellemeleri denetle, ama onları kurma kararını bana bırak">
