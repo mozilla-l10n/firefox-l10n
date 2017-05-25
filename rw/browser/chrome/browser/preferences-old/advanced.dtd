@@ -39,8 +39,6 @@
 
 
 
-
-
 <!ENTITY networkTab.label                "Urusobemiyoboro">
 
 <!ENTITY connection.label                "Umwinjiro">
@@ -101,6 +99,15 @@
 
 
 <!ENTITY selectCerts.auto                "Guhitamo kimwe mu buryo bwikora">
+
+
+
+
+
+
+
+
+
 
 
 
