@@ -139,8 +139,8 @@
 
 
 <!ENTITY performanceSettingsLearnMore.label "Meer inligting">
-<!ENTITY limitContentProcess.label       "Perk op inhoudprosesse">
-<!ENTITY limitContentProcess.description "Meer inhoudprosesse verbeter &brandShortName; se reaksiespoed met klomp oortjies, maar sal ook meer geheue gebruik.">
-<!ENTITY limitContentProcess.accesskey   "P">
+<!ENTITY limitContentProcess2.label       "Perk op inhoudprosesse">
+
+<!ENTITY limitContentProcess2.accesskey   "P">
 <!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
 <!ENTITY allowHWAccel.accesskey          "r">

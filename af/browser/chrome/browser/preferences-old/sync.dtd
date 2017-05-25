@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Geskiedenis">
 <!ENTITY engine.history.accesskey   "G">
-<!ENTITY engine.passwords.label     "Wagwoorde">
-<!ENTITY engine.passwords.accesskey "W">
+
+
 <!ENTITY engine.prefs.label         "Voorkeure">
 <!ENTITY engine.prefs.accesskey     "V">
 <!ENTITY engine.addons.label        "Byvoegings">

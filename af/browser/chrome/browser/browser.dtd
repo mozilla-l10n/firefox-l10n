@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Verander of boodskappe van dié werf ontvang kan word">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Bestuur die deel van die kamera en/of mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Bestuur die deel van die mikrofoon met die werf">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Bestuur die deel van vensters of die skerm met die werf">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "p"> 
 <!ENTITY copyCmd.label            "Kopieer">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Plak">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
 <!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
 <!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
+
 <!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
@@ -417,7 +419,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "s">
 <!ENTITY bookmarkThisFrameCmd.label      "Boekmerk hierdie raam">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
+
 <!ENTITY emailPageCmd.label           "E-pos skakel…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Stoor bladsy as…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Sluit kantbalk">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Afsluit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sluit &brandShorterName; af">
@@ -710,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Voeg woordeboeke by…">
 <!ENTITY spellAddDictionaries.accesskey "V">
 
-<!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "V">
 
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
@@ -718,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Dié blad word op u rekenaar gestoor.">
 <!ENTITY identity.connectionVerified2 "U is veilig verbind aan dié werf besit deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
+
 <!ENTITY identity.insecureLoginForms2 "Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word. ">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Lus vir meer gereedskap?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duisende byvoegings">
 <!ENTITY customizeMode.restoreDefaults "Laai verstek terug">
-<!ENTITY customizeMode.toolbars "Wys / Versteek nutsbalke">
+
 <!ENTITY customizeMode.titlebar "Titelbalk">
+
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "My temas">
 <!ENTITY customizeMode.lwthemes.recommended "Aanbeveel">
@@ -931,5 +942,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Nie nou nie">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Herbegin &brandShorterName; om die bywerking toe te pas">
+
 
