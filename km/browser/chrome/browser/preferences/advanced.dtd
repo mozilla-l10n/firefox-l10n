@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "ដំណើរការ">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "ប្រើ​ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ​គឺ​ត្រូវជាមួយ​កុំព្យូទ័រ​របស់​អ្នក។">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ស្វែងយល់​បន្ថែម">
-<!ENTITY limitContentProcess.label       "ដំណើរការ​មាតិកា​មាន​ដែន​កំណត់​">
-<!ENTITY limitContentProcess.description
-                                         "ការ​ដំណើរការ​មាតិកា​ច្រើន​អាច​ធ្វើឲ្យ &brandShortName; កាន់តែ​រហ័ស នៅ​ពេល​ប្រើ​ផ្ទាំង​ច្រើន ប៉ុន្តែ​នឹង​ប្រើ​អង្គ​ចងចាំ​ច្រើន​ដែរ។">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">

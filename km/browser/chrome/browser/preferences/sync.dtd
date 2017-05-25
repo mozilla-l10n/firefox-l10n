@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ប្រវត្តិ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "ពាក្យ​សម្ងាត់">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "ចំណូលចិត្ត">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "កម្មវិធី​បន្ថែម">
