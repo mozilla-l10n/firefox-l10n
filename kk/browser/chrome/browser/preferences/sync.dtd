@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "т">
 <!ENTITY engine.history.label       "Тарих">
 <!ENTITY engine.history.accesskey   "и">
-
-
+<!ENTITY engine.logins.label        "Логиндер">
+<!ENTITY engine.logins.accesskey    "Л">
 <!ENTITY engine.prefs.label         "Баптаулар">
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.addons.label        "Қосымшалар">

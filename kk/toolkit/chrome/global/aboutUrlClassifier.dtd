@@ -11,17 +11,17 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Соңғы жаңарту қалып-күйі">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Жаңарту">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Жаңарту">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Тазарту">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Кесте аты">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Теріс кэш элементтерінің саны">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Оң кэш элементтерінің саны">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Элементтерді көрсету">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Кэш элементтері">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Префиксі">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Теріс кэш мерзімі аяқталу уақыты">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Толық хэш">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Оң кэш мерзімі аяқталу уақыты">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Іздеу">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Сәйкестеу">
