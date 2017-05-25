@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "p">
 
 <!ENTITY performance.label               "Prestaçioin">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Deuvia e inpostaçioin racomandæ pe-e prestaçioin">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "E prestaçioin racomandæ en fæte pròpio pe-o teu computer.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Saccine de ciù">
-<!ENTITY limitContentProcess.label       "Limita o processo do contegnuo">
-<!ENTITY limitContentProcess.description
-                                         "Ciù processi do contegnuo peuan fâ anâ megio &brandShortName; quande ti feuvi ciù feuggi, ma te fâ consumâ ciù memöia.">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
 <!ENTITY allowHWAccel.accesskey          "h">
