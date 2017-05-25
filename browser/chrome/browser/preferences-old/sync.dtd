@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Hanes">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Cyfrineiriau">
-<!ENTITY engine.passwords.accesskey "C">
+
+
 <!ENTITY engine.prefs.label         "Dewisiadau">
 <!ENTITY engine.prefs.accesskey     "D">
 <!ENTITY engine.addons.label        "Ychwanegion">

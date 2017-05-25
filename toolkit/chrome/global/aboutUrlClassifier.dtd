@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Amser y diweddariad nesaf">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Statws y diweddariad diwethaf">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Diweddaru">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Storfa">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Chwilio">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Cydweddu">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Gwirio Canlyniad y Cydweddiad">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Chwilio">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Gwirio Canlyniad y Chwilio">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Storfa">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Cof">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Cronfa ddata">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Dadfygio">
