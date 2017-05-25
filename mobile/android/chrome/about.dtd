@@ -11,7 +11,7 @@
 <!ENTITY aboutPage.checkForUpdates.none         "لا تحديثات متوفرة">
 <!ENTITY aboutPage.checkForUpdates.available2   "نزّل التحديث">
 <!ENTITY aboutPage.checkForUpdates.downloading  "يُنزّل التحديث…">
-<!ENTITY aboutPage.checkForUpdates.downloaded2  "ثبّت التحديث">
+<!ENTITY aboutPage.checkForUpdates.downloaded2  "نصّب التحديث">
 <!ENTITY aboutPage.faq.label                    "الأسئلة الأكثر شيوعًا">
 <!ENTITY aboutPage.support.label                "الدعم">
 <!ENTITY aboutPage.privacyPolicy.label          "سياسة الخصوصية">
