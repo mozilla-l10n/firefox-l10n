@@ -398,6 +398,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Daha fazla öğe ekle…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "e">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
 <!ENTITY urlbar.accesskey             "d">
@@ -413,7 +417,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Evet">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "E">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -810,7 +817,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Daha fazla araç mı istiyorsunuz?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Binlerce eklenti arasından seçim yapın">
 <!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
-<!ENTITY customizeMode.toolbars "Araç çubuklarını göster veya gizle">
 <!ENTITY customizeMode.titlebar "Başlık çubuğu">
 <!ENTITY customizeMode.lwthemes "Temalar">
 <!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
@@ -925,6 +931,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "b">
 <!ENTITY updateRestart.cancelButton.label "Daha sonra">
 <!ENTITY updateRestart.cancelButton.accesskey "D">
-<!ENTITY updateRestart.panelUI.label "&brandShorterName; tarayıcısını yeniden başlat ve güncelle">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
