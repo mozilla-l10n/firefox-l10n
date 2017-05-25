@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
 
@@ -298,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copiar">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pegar">  
 <!ENTITY pasteCmd.key           "V">  
@@ -346,6 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
+
 <!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
@@ -404,7 +406,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -514,6 +522,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
@@ -640,6 +649,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Quitar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Q">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sortir de &brandShorterName;">
@@ -693,11 +703,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Apondre de diccionaris...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Acabar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
+
 
 
 
@@ -790,8 +800,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
-<!ENTITY customizeMode.toolbars "Afichar/Amagar las barras d'aisinas">
+
 <!ENTITY customizeMode.titlebar "Barra de títol">
+
 <!ENTITY customizeMode.lwthemes "Tèmas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mos tèmas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomandats">

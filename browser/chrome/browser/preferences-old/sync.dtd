@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "los senhals">
-<!ENTITY engine.passwords.accesskey "h">
+
+
 <!ENTITY engine.prefs.label         "las preferéncias">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "los moduls complementaris">
