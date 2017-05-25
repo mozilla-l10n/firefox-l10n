@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "з">
 
 <!ENTITY performance.label               "Швидкодія">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Використовувати рекомендовані налаштування швидкодії">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Рекомендовані налаштування швидкодії з врахуванням вашого комп'ютера.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "Р">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Докладніше">
-<!ENTITY limitContentProcess.label       "Обмеження процесів вмісту">
-<!ENTITY limitContentProcess.description
-                                         "Більша кількість процесів вмісту може пришвидшити роботу &brandShortName; при використанні багатьох вкладок, але при цьому споживатиметься більше пам'яті.">
-<!ENTITY limitContentProcess.accesskey   "в">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "к">
