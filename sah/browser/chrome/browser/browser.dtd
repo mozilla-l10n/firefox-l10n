@@ -221,6 +221,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Көрдөөһүн">
 <!-- Toolbar items -->
 
@@ -287,7 +288,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "К"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Ук">  
 <!ENTITY pasteCmd.key           "V">  
@@ -325,6 +326,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Уларыт">
+
 
 
 
@@ -388,7 +390,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Сөп">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -491,6 +499,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Бу сирэйи бэлиэ-кыбытыктарга эп">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "с">
+
 <!ENTITY emailPageCmd.label           "Email сигэ…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Маннык бигэргэт...">
@@ -617,6 +626,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ойоҕос хапталы көстүбэт гын">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Тахсыы">
 <!ENTITY quitApplicationCmdWin2.accesskey   "с">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Маны &brandShorterName; бүтэр">
@@ -669,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Тылдьыттары эп…">
 <!ENTITY spellAddDictionaries.accesskey "Т">
 
-<!ENTITY editBookmark.done.label                     "Оҥоһулунна">
+
 
 
 
@@ -748,6 +758,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "Синхронизация">
 
 <!ENTITY social.addons.label "Сулууспалары салайыы…">
+
 
 
 

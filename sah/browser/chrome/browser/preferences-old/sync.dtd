@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Сурунаал">
 <!ENTITY engine.history.accesskey   "а">
-<!ENTITY engine.passwords.label     "Киирии тыллар">
-<!ENTITY engine.passwords.accesskey "К">
+
+
 <!ENTITY engine.prefs.label         "Туруоруулар">
 <!ENTITY engine.prefs.accesskey     "а">
 <!ENTITY engine.addons.label        "Эбиискэлэр">
