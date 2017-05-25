@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "แ">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
+<!ENTITY engine.logins.label        "การเข้าสู่ระบบ">
+<!ENTITY engine.logins.accesskey    "ก">
 <!ENTITY engine.prefs.label         "การตั้งค่า">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
@@ -49,7 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "เปลี่ยนรูปโปรไฟล์">
 <!ENTITY verifiedManage.label        "จัดการบัญชี">
-<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY verifiedManage.accesskey    "จ">
 <!ENTITY disconnect3.label           "ตัดการเชื่อมต่อ…">
 <!ENTITY verify.label                "ตรวจสอบอีเมล">
 <!ENTITY verify.accesskey            "V">
@@ -60,9 +62,9 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
-<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.create.accesskey  "ส">
 <!ENTITY signedOut.accountBox.signin  "ลงชื่อเข้า">
-<!ENTITY signedOut.accountBox.signin.accesskey  "I">
+<!ENTITY signedOut.accountBox.signin.accesskey  "ล">
 
 <!ENTITY signedIn.settings.label       "การตั้งค่า Sync">
 <!ENTITY signedIn.settings.description "เลือกสิ่งที่คุณต้องการจะประสานบนอุปกรณ์ของคุณโดยใช้ &brandShortName;">
