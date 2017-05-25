@@ -129,8 +129,11 @@
                                          "Uporabi priporočene nastavitve učinkovitosti">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Te nastavitve so prikrojene strojni opremi in operacijskemu sistemu vašega računalnika.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "p">
 <!ENTITY limitContentProcess.label       "Omejitev procesov vsebine">
 <!ENTITY limitContentProcess.description
                                          "Dodatni procesi vsebine lahko pospešijo delovanje &brandShortName;a pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.">
+<!ENTITY limitContentProcess.accesskey   "O">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
