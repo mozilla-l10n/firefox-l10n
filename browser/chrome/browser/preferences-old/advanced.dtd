@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Koristi uglađeno klizanje">
 <!ENTITY useSmoothScrolling.accesskey    "u">
-<!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
-<!ENTITY allowHWAccel.accesskey          "h">
 
 
 
@@ -120,3 +118,12 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Sigurnosni uređaji">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
+<!ENTITY allowHWAccel.accesskey          "h">
