@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "हिता़ल (r)">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "दानाङ साबाद को  (P) ">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "कुसियाक् को (s)">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "एड-ऑन (A) ">

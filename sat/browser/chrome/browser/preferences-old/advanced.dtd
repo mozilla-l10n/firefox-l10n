@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "चिंका़ंड़ गुड़िया़व बेभार मे (m)">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "हार्डवेयार तोड़ते बेभार तिन रे ञामोक् आ (r)">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -119,3 +117,12 @@
 <!ENTITY viewCerts.accesskey             "s">
 
 
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "हार्डवेयार तोड़ते बेभार तिन रे ञामोक् आ (r)">
+<!ENTITY allowHWAccel.accesskey          "r">
