@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Келесі жаңарту уақыты">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Соңғы жаңарту қалып-күйі">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Жаңарту">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Іздеу">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Сәйкестеу">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Сәйкестеу нәтижесін тексеру">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Іздеу">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Іздеу нәтижесін тексеру">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Жады">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Дерекқор">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Жөндеу">
