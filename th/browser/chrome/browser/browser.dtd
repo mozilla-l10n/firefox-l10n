@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ล้างประวัติเมื่อเร็ว ๆ นี้…">
 <!ENTITY appMenuHistory.restoreSession.label "เรียกคืนวาระที่แล้ว">
 <!ENTITY appMenuHistory.viewSidebar.label "ดูแถบข้างประวัติ">
+<!ENTITY appMenuHelp.label "ช่วยเหลือ">
 <!ENTITY appMenuHelp.tooltip "เปิดเมนูช่วยเหลือ">
 
 <!ENTITY appMenuRemoteTabs.label "แท็บที่ซิงค์">
@@ -419,7 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ช">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "เคล็ดลับ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "เปลี่ยนตัวเลือก…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "เปลี่ยนการตั้งค่า…">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +537,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ล">
 <!ENTITY bookmarkThisFrameCmd.label      "เพิ่มที่คั่นหน้าสำหรับกรอบนี้">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "คัดลอก URL">
 <!ENTITY emailPageCmd.label           "ส่งอีเมลลิงก์…">
 <!ENTITY emailPageCmd.accesskey       "ล">
 <!ENTITY savePageCmd.label            "บันทึกหน้าเป็น…">
@@ -658,6 +663,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ม">
 
 <!ENTITY sidebarCloseButton.tooltip     "ปิดแถบข้าง">
+<!ENTITY sidebarMenuClose.label         "ปิดแถบข้าง">
 
 <!ENTITY quitApplicationCmdWin2.label       "ออก">
 <!ENTITY quitApplicationCmdWin2.accesskey   "อ">
@@ -720,6 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "หน้านี้ถูกจัดเก็บบนคอมพิวเตอร์ของคุณ">
 <!ENTITY identity.connectionVerified2 "คุณได้เชื่อมต่ออย่างปลอดภัยไปยังไซต์นี้ เจ้าของ:">
 <!ENTITY identity.connectionInternal "นี่คือหน้า &brandShortName; ที่ปลอดภัย">
+<!ENTITY identity.extensionPage "หน้านี้ถูกโหลดจากส่วนขยาย">
 <!ENTITY identity.insecureLoginForms2 "การเข้าสู่ระบบที่ป้อนในหน้านี้อาจถูกบุกรุกได้">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +825,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ต้องการเครื่องมือเพิ่มเติม?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "เลือกจากส่วนเสริมนับพัน">
 <!ENTITY customizeMode.restoreDefaults "เรียกคืนค่าเริ่มต้น">
+<!ENTITY customizeMode.done "เสร็จสิ้น">
 <!ENTITY customizeMode.titlebar "แถบชื่อเรื่อง">
+<!ENTITY customizeMode.toolbars2 "แถบเครื่องมือ">
 <!ENTITY customizeMode.lwthemes "ชุดตกแต่ง">
 <!ENTITY customizeMode.lwthemes.myThemes "ชุดตกแต่งของฉัน">
 <!ENTITY customizeMode.lwthemes.recommended "แนะนำ">
@@ -932,5 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "ร">
 <!ENTITY updateRestart.cancelButton.label "ไม่ใช่ตอนนี้">
 <!ENTITY updateRestart.cancelButton.accesskey "ม">
+<!ENTITY updateRestart.panelUI.label2 "เริ่มการทำงานใหม่เพื่ออัปเดต &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "การดำเนินการของหน้า">
