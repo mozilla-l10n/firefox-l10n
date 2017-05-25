@@ -11,17 +11,17 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Rub'anikil ri ruk'isib'äl k'exoj">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Tik'ex">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Jumejyak">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Titzolïx">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Tijosq'ïx">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Rutz'ajalil b'i'aj">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Kajlab'al taq rokitz'ib' ri xokonil jumejyak">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Kajlab'al taq rokitz'ib' ri ikiq'alil jumejyak">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Kek'ut pe ri taq okitz'ib'">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Jumejyak taq okitz'ib'">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Ruwäch tzij">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Q'ij nik'is ri xokonil jumejyak">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Tz'aqät jax">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Q'ij nik'is ri ikiq'alil jumejyak">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Tikanöx">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Tijunamäx">
