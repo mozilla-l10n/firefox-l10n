@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "历史记录">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "密码">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "首选项">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "附加组件">

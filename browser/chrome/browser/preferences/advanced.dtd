@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "性能">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "使用推荐的性能设置">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "为您的电脑量身定制的推荐性能设置。">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "详细了解">
-<!ENTITY limitContentProcess.label       "内容进程限制">
-<!ENTITY limitContentProcess.description
-                                         "更多的内容进程可以使 &brandShortName; 在使用多个标签页时更快响应，但也会消耗更多的内存。">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "自动启用硬件加速">
 <!ENTITY allowHWAccel.accesskey          "r">
