@@ -52,7 +52,16 @@
 <!ENTITY crashReporterLearnMore.label    "更多資訊">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "&brandShortName; 的更新方式:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
 <!ENTITY updateAuto.label                "自動安裝更新（建議的，保持安全性）">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "自動檢查更新，但讓我選擇要不要安裝">
