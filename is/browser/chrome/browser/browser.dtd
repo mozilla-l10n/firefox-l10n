@@ -665,7 +665,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ð">
 
 <!ENTITY sidebarCloseButton.tooltip     "Loka hliðslá">
-
+<!ENTITY sidebarMenuClose.label         "Loka hliðslá">
 
 <!ENTITY quitApplicationCmdWin2.label       "Hætta">
 <!ENTITY quitApplicationCmdWin2.accesskey   "H">
@@ -720,6 +720,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Bæta við orðasöfnum…">
 <!ENTITY spellAddDictionaries.accesskey "B">
 
+<!ENTITY editBookmark.done.label                     "Ljúka">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Örugg tenging">
@@ -826,9 +827,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Viltu fleiri verkfæri?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Veldu viðbætur í þúsundatali">
 <!ENTITY customizeMode.restoreDefaults "Endurstilla sjálfgefin gildi">
-
+<!ENTITY customizeMode.done "Ljúka">
 <!ENTITY customizeMode.titlebar "Titilstika">
-
+<!ENTITY customizeMode.toolbars2 "Verkfæraslár">
 <!ENTITY customizeMode.lwthemes "Þema">
 <!ENTITY customizeMode.lwthemes.myThemes "Mín þemu">
 <!ENTITY customizeMode.lwthemes.recommended "Mælt með">
@@ -942,6 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ekki núna">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-
+<!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;.">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
