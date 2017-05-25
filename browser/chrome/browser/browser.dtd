@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestionar uso de complemento">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cambiar si puedes recibir o no notificaciones del sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Almacenar datos en almacenamiento persistente">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador está bajo control remoto">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestionar compartición de la cámara y/o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestionar compartición de micrófono con el sitio">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral de historial">
+<!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
