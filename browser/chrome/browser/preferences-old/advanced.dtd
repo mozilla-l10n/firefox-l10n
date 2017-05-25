@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "U">
 <!ENTITY useSmoothScrolling.label        "Utiliser le défilement doux">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
-<!ENTITY allowHWAccel.accesskey          "n">
 <!ENTITY checkUserSpelling.label         "Vérifier l’orthographe pendant la saisie">
 <!ENTITY checkUserSpelling.accesskey     "V">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "A">
 <!ENTITY viewSecurityDevices.label       "Périphériques de sécurité">
 <!ENTITY viewSecurityDevices.accesskey   "P">
+
+<!ENTITY performance.label               "Performances">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Utiliser les paramètres de performance recommandés">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Ces paramètres sont adaptés à la configuration matérielle de votre ordinateur et à votre système d’exploitation.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "Nombre maximum de processus de contenu">
+<!ENTITY limitContentProcess.description
+                                         "Davantage de processus de contenu peut améliorer les performances de &brandShortName; lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.">
+<!ENTITY limitContentProcess.accesskey   "N">
+<!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
+<!ENTITY allowHWAccel.accesskey          "n">
