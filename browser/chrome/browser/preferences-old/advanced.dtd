@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Cleachd sgroladh caoin">
 <!ENTITY useSmoothScrolling.accesskey    "o">
-<!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
-<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkUserSpelling.label         "Ceartaich an litreachadh is tu a’ sgrìobhadh rud">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Uidheaman tèarainteachd">
 <!ENTITY viewSecurityDevices.accesskey   "n">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
+<!ENTITY allowHWAccel.accesskey          "m">
