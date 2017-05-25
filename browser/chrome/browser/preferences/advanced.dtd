@@ -138,7 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
 <!ENTITY performance.label               "效能">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "使用推薦的效能設定">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "這些設定是根據您電腦的硬體與作業系統所量身訂做。">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "了解更多">
+<!ENTITY limitContentProcess2.label       "內容處理程序數量限制">
+<!ENTITY limitContentProcess2.description
+                                         "增加更多內容處理程序，可改善 &brandShortName; 開啟分頁時的效能，但也會使用更多記憶體。">
+<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey          "r">
