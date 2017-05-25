@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "ajalugu">
 <!ENTITY engine.history.accesskey   "a">
-<!ENTITY engine.passwords.label     "paroolid">
-<!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "eelistused">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "lisad">
