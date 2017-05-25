@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "แ">
 <!ENTITY engine.history.label       "ประวัติ">
 <!ENTITY engine.history.accesskey   "ป">
-<!ENTITY engine.passwords.label     "รหัสผ่าน">
-<!ENTITY engine.passwords.accesskey "ร">
 <!ENTITY engine.prefs.label         "การตั้งค่า">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
