@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Maneno ya siri">
-<!ENTITY engine.passwords.accesskey "M">
+
+
 <!ENTITY engine.prefs.label         "Mapendeleo">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Vifaa vya nyongeza">
