@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Tinuk'samajïx rokisaxik nak'ab'äl">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tijalwachïx we yatikïr ye'ak'ül taq rutzijol re ruxaq k'amaya'l re'">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Keyak taq tzij pa Jutaqil Yakoj">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ri Okik'amaya'l k'o pa ruq'a' ri näj chajinïk">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tinuk'samajïx ri rukomonik elesäy awachib'äl chuqa' ri q'axäy atzij rik'in ri ruxaq k'amaya'l">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tinuk'samajïx ri rukomonik q'axäy atzij rik'in ri ruxaq k'amaya'l">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "q"> 
 <!ENTITY copyCmd.label            "Tiwachib'ëx">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "c"> 
 <!ENTITY pasteCmd.label           "Titz'ajb'äx">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tiyuj ri k'ak'a' natab'äl…">
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
-
+<!ENTITY appMenuHelp.label "To'ïk">
 <!ENTITY appMenuHelp.tooltip "Tijaq ri to'onel MENU">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
@@ -420,6 +420,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja'">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pixa':">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 
