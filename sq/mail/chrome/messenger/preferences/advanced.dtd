@@ -52,7 +52,16 @@
 <!ENTITY crashReporterLearnMore.label    "Mësoni Më Tepër">
 
 <!-- Update -->
-<!ENTITY updateApp.label                 "Përditësime &brandShortName;-i:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
 <!ENTITY updateAuto.label                "Instaloji vetvetiu përditësimet (e këshillueshme: përmirësohet siguria)">
 <!ENTITY updateAuto.accesskey            "v">
 <!ENTITY updateCheck.label               "Kontrollo për përditësime, por lejomë të zgjedh t&apos;i instaloj apo jo">
