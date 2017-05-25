@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historii">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Hesla">
-<!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Předvolby">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Doplňky">
