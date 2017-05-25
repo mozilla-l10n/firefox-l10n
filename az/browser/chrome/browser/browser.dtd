@@ -418,7 +418,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Hə">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -815,7 +818,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Daha çox alət lazımdır?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Minlərlə əlavələrdən seç">
 <!ENTITY customizeMode.restoreDefaults "İlkin Seçənəkləri Bərpa et">
-<!ENTITY customizeMode.toolbars "Alət Sətrini Göstər / Gizlə">
 <!ENTITY customizeMode.titlebar "Başlıq Paneli">
 <!ENTITY customizeMode.lwthemes "Mövzular">
 <!ENTITY customizeMode.lwthemes.myThemes "Mövzularım">
@@ -930,6 +932,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "İndi deyil">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Yeniləmələri tətbiq etmək üçün &brandShorterName; səyyahını yenidən başladın">
 
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">

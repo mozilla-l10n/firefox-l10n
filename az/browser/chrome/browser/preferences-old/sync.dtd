@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Keçmiș">
 <!ENTITY engine.history.accesskey   "i">
-<!ENTITY engine.passwords.label     "Parollar">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Nizamlamalar">
 <!ENTITY engine.prefs.accesskey     "l">
 <!ENTITY engine.addons.label        "Əlavələr">
