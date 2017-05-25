@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Istoric">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Parole">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "Preferințe">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Suplimente">

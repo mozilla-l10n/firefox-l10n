@@ -138,12 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "Performanță">
-<!ENTITY useRecommendedPerformanceSettings.label "Folosește setările recomandate de performanță">
-<!ENTITY useRecommendedPerformanceSettings.description "Setările recomandate de performanță sunt adaptate pentru calculatorul tău.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY useRecommendedPerformanceSettings2.label "Folosește setările recomandate de performanță">
+
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Află mai multe">
-<!ENTITY limitContentProcess.label       "Limita proceselor pentru conținut">
-<!ENTITY limitContentProcess.description "Mai multe procese pentru conținut pot face ca &brandShortName; să aibă o reacție mai bună de răspuns atunci când folosești multiple file, însă va consuma și mai multă memorie.">
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY limitContentProcess2.label       "Limita proceselor pentru conținut">
+
+<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
