@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Desa dades en l'emmagatzematge persistent">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Gestiona la compartició de finestres o de la pantalla amb el lloc">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Copia">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Enganxa">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
+
 <!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyes sincronitzades">
@@ -417,7 +419,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Tanca la barra lateral">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Surt">
 <!ENTITY quitApplicationCmdWin2.accesskey   "u">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Surt del &brandShorterName;">
@@ -710,7 +720,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Fet">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
 <!ENTITY identity.connectionSecure "Connexió segura">
@@ -718,6 +727,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
+
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Voleu més eines?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Trieu-les d'entre els milers de complements">
 <!ENTITY customizeMode.restoreDefaults "Restaura els valors per defecte">
-<!ENTITY customizeMode.toolbars "Mostra/amaga les barres d'eines">
+
 <!ENTITY customizeMode.titlebar "Barra de títol">
+
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY customizeMode.lwthemes.myThemes "Els meus temes">
 <!ENTITY customizeMode.lwthemes.recommended "Recomanats">
@@ -931,6 +942,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ara no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label "Reinicieu el &brandShorterName; per aplicar l'actualització">
+
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
