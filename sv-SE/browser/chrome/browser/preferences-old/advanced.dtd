@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "n">
 <!ENTITY useSmoothScrolling.label        "Använd mjuk rullning">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
-<!ENTITY allowHWAccel.accesskey          "ä">
 <!ENTITY checkUserSpelling.label         "Kontrollera stavning medan du skriver">
 <!ENTITY checkUserSpelling.accesskey     "k">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Säkerhetsenheter">
 <!ENTITY viewSecurityDevices.accesskey   "e">
+
+<!ENTITY performance.label               "Prestanda">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Använd rekommenderade prestandainställningar">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Dessa inställningar är anpassade till din dators hårdvara och operativsystem.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "A">
+<!ENTITY limitContentProcess.label       "Gräns för innehållsprocesser">
+<!ENTITY limitContentProcess.description
+                                         "Ytterligare innehållsprocesser kan förbättra &brandShortName; prestanda när du använder flera flikar, men kommer också att använda mer minne.">
+<!ENTITY limitContentProcess.accesskey   "G">
+<!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
+<!ENTITY allowHWAccel.accesskey          "ä">
