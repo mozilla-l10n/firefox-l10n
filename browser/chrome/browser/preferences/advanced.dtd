@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "e">
 
 <!ENTITY performance.label               "Prestanda">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Använd rekommenderade prestandainställningar">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Rekommenderade prestandainställningar är skräddarsydda för din dator.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Läs mer">
-<!ENTITY limitContentProcess.label       "Gräns för innehållsprocesser">
-<!ENTITY limitContentProcess.description
-                                         "Fler innehållsprocesser kan göra &brandShortName; mer lyhörd när man använder flera flikar, men kommer också förbruka mer minne.">
-<!ENTITY limitContentProcess.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
