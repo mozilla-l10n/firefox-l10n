@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
-<!ENTITY engine.passwords.label     "Awalen uffiren">
-<!ENTITY engine.passwords.accesskey "f">
 <!ENTITY engine.prefs.label         "Imsenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Izegrar">
