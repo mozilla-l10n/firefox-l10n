@@ -14,7 +14,7 @@
 <!ENTITY projectMenu_importHostedApp_accesskey "س">
 <!ENTITY projectMenu_selectApp_label "افتح تطبيقا…">
 <!ENTITY projectMenu_selectApp_accesskey "ف">
-<!ENTITY projectMenu_play_label "ثبّت و شغّل">
+<!ENTITY projectMenu_play_label "نصّب و شغّل">
 <!ENTITY projectMenu_play_accesskey "ث">
 <!ENTITY projectMenu_stop_label "أوقف التطبيق">
 <!ENTITY projectMenu_stop_accesskey "ق">
@@ -75,8 +75,8 @@
 <!ENTITY runtimePanel_wifi "أجهزة واي-فاي">
 <!ENTITY runtimePanel_simulator "المحاكيات">
 <!ENTITY runtimePanel_other "أخرى">
-<!ENTITY runtimePanel_installsimulator "ثبّت محاكيًا">
-<!ENTITY runtimePanel_noadbhelper "ثبّت «مساعد Adb»">
+<!ENTITY runtimePanel_installsimulator "نصّب محاكيًا">
+<!ENTITY runtimePanel_noadbhelper "نصّب «مساعد Adb»">
 <!ENTITY runtimePanel_nousbdevice "لم تجد جهازك؟">
 <!ENTITY runtimePanel_refreshDevices_label "أنعش الأجهزة">
 <!-- Lense -->

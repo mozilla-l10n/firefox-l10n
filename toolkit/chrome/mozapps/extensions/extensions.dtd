@@ -10,14 +10,14 @@
 <!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "يحمّل…">
-<!ENTITY listEmpty.installed.label            "ليس لديك أي إضافات مثبتة من هذا النوع">
+<!ENTITY listEmpty.installed.label            "ليس لديك أي إضافات منصّبة من هذا النوع">
 <!ENTITY listEmpty.availableUpdates.label     "لا تحديثات متوفرة">
 <!ENTITY listEmpty.recentUpdates.label        "لم تحدّث أي إضافات مؤخرًا">
 <!ENTITY listEmpty.findUpdates.label          "التمس التحديثات">
 <!ENTITY listEmpty.search.label               "تعذر إيجاد أي إضافات مطابقة">
 <!ENTITY listEmpty.button.label               "اعرف المزيد عن الإضافات">
-<!ENTITY installAddonFromFile.label           "ثبّت الإضافة من ملف…">
-<!ENTITY installAddonFromFile.accesskey       "ث">
+<!ENTITY installAddonFromFile.label           "نصّب إضافة من ملف…">
+<!ENTITY installAddonFromFile.accesskey       "ن">
 <!ENTITY toolsMenu.tooltip                    "أدوات لجميع الإضافات">
 
 <!ENTITY getThemes.description                "هل تبحث عن طريقة لإضفاء طابع شخصي على متصفحك؟">
@@ -69,11 +69,11 @@
 <!ENTITY updates.updating.label               "يحدّث الإضافات">
 <!ENTITY updates.installed.label              "حُدّثت إضافاتك.">
 <!ENTITY updates.downloaded.label             "انتهى تنزيل تحديثات إضافاتك.">
-<!ENTITY updates.restart.label                "أعِد التشغيل الآن لإتمام التثبيت">
+<!ENTITY updates.restart.label                "أعِد التشغيل الآن لإتمام التنصيب">
 <!ENTITY updates.noneFound.label              "لا يوجد تحديثات">
 <!ENTITY updates.manualUpdatesFound.label     "اعرض التحديثات المتاحة">
-<!ENTITY updates.updateSelected.label         "ثبّت التحديثات">
-<!ENTITY updates.updateSelected.tooltip       "ثبّت التحديثات المتاحة في هذه اللائحة">
+<!ENTITY updates.updateSelected.label         "نصّب التحديثات">
+<!ENTITY updates.updateSelected.tooltip       "نصّب التحديثات المتاحة في هذه اللائحة">
 <!-- addon actions -->
 
 <!ENTITY cmd.showDetails.label                "أظهر المزيد من المعلومات">
@@ -102,8 +102,8 @@
 <!ENTITY cmd.neverActivate.label              "لا تُفعّل أبدًا">
 <!ENTITY cmd.neverActivate.tooltip            "لا تستخدم هذه الإضافة أبدًا">
 <!ENTITY cmd.stateMenu.tooltip                "غيّر عند تشغيل هذه الإضافة">
-<!ENTITY cmd.installAddon.label               "ثبّت">
-<!ENTITY cmd.installAddon.accesskey           "ث">
+<!ENTITY cmd.installAddon.label               "نصّب">
+<!ENTITY cmd.installAddon.accesskey           "ن">
 <!ENTITY cmd.uninstallAddon.label             "أزِل">
 <!ENTITY cmd.uninstallAddon.accesskey         "ل">
 <!ENTITY cmd.showPreferencesWin.label         "خيارات">
@@ -137,11 +137,11 @@
 
 <!ENTITY detail.updateType                    "التحديثات التلقائية">
 <!ENTITY detail.updateDefault.label           "مبدئي">
-<!ENTITY detail.updateDefault.tooltip         "ثبّت التحديثات تلقائيًا إذا كان ذلك هو المبدئي فقط">
+<!ENTITY detail.updateDefault.tooltip         "نصّب التحديثات تلقائيًا إذا كان ذلك هو المبدئي فقط">
 <!ENTITY detail.updateAutomatic.label         "مشغلة">
-<!ENTITY detail.updateAutomatic.tooltip       "ثبّت التحديثات تلقائيًا">
+<!ENTITY detail.updateAutomatic.tooltip       "نصّب التحديثات تلقائيًا">
 <!ENTITY detail.updateManual.label            "مطفأة">
-<!ENTITY detail.updateManual.tooltip          "لا تثبت التحديثات تلقائيًا">
+<!ENTITY detail.updateManual.tooltip          "لا نصّب التحديثات تلقائيًا">
 <!ENTITY detail.home                          "صفحة البداية">
 <!ENTITY detail.repository                    "ملف الإضافة الشخصي">
 <!ENTITY detail.size                          "الحجم">
@@ -177,9 +177,9 @@
 
 <!ENTITY search.filter2.label                 "ابحث:">
 <!ENTITY search.filter2.installed.label       "إضافاتي">
-<!ENTITY search.filter2.installed.tooltip     "اعرض الإضافات المثبتة">
+<!ENTITY search.filter2.installed.tooltip     "اعرض الإضافات المنصّبة">
 <!ENTITY search.filter2.available.label       "الإضافات المتاحة">
-<!ENTITY search.filter2.available.tooltip     "اعرض الإضافات المتوفرة للتثبيت">
+<!ENTITY search.filter2.available.tooltip     "اعرض الإضافات المتوفرة للتنصيب">
 
 <!ENTITY addon.homepage                       "صفحة البداية">
 <!ENTITY addon.details.label                  "المزيد">
@@ -201,12 +201,12 @@
 <!ENTITY addon.undoAction.label               "تراجَع">
 <!ENTITY addon.undoAction.tooltip             "تراجع عن هذا الإجراء">
 <!ENTITY addon.undoRemove.label               "تراجَع">
-<!ENTITY addon.undoRemove.tooltip             "أحتفظ بهذه الإضافة مثبتة">
+<!ENTITY addon.undoRemove.tooltip             "احتفظ بهذه الإضافة منصّبة">
 <!ENTITY addon.restartNow.label               "أعد التشغيل الآن">
-<!ENTITY addon.install.label                  "ثبّت">
-<!ENTITY addon.install.tooltip                "ثبّت هذه الإضافة">
+<!ENTITY addon.install.label                  "نصّب">
+<!ENTITY addon.install.tooltip                "نصّب هذه الإضافة">
 <!ENTITY addon.updateNow.label                "حدّث الآن">
-<!ENTITY addon.updateNow.tooltip              "ثبّت التحديث لهذه الإضافة">
+<!ENTITY addon.updateNow.tooltip              "نصّب تحديث هذه الإضافة">
 <!ENTITY addon.includeUpdate.label            "ضمّن التحديث">
 <!ENTITY addon.updateAvailable.label          "هناك تحديث متاح">
 <!ENTITY addon.checkingForUpdates.label       "يلتمس التحديثات…">
@@ -219,7 +219,7 @@
 <!ENTITY eula.title                           "اتفاقية ترخيص المستخدم">
 <!ENTITY eula.width                           "560px">
 <!ENTITY eula.height                          "400px">
-<!ENTITY eula.accept                          "أوافق وأثبّت…">
+<!ENTITY eula.accept                          "اقبل و نصّب…">
 
 <!ENTITY settings.path.button.label           "تصفّح…">
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
@@ -228,7 +228,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 
-<!ENTITY experiment.info.label "ما هذا؟ قد يثبت تليمتري بعض التجارب و يشغّلها من وقت لآخر.">
+<!ENTITY experiment.info.label "ما هذا؟ قد ينصّب تليمتري بعض التجارب و يشغّلها من وقت لآخر.">
 <!ENTITY experiment.info.learnmore "اطّلع على المزيد">
 <!ENTITY experiment.info.learnmore.accesskey "ط">
 <!ENTITY experiment.info.changetelemetry "إعدادات تليمتري">

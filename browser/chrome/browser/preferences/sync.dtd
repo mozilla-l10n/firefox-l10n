@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "س">
 <!ENTITY engine.history.label       "تأريخي">
 <!ENTITY engine.history.accesskey   "خ">
-<!ENTITY engine.passwords.label     "كلمات السر">
-<!ENTITY engine.passwords.accesskey "ر">
+<!ENTITY engine.logins.label        "جلسات الولوج">
+<!ENTITY engine.logins.accesskey    "س">
 <!ENTITY engine.prefs.label         "تفضيلاتي">
 <!ENTITY engine.prefs.accesskey     "ض">
 <!ENTITY engine.addons.label        "الإضافات">
