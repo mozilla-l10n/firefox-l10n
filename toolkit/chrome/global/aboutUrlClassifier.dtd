@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Време следећег ажурирања">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус последњег ажурирања">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ажурирање">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Освежи">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Очисти">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Име табеле">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Број негативних уноса кеша">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Број позитивних уноса кеша">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Прикажи уносе">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Уноси кеша">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Префикс">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Истек негативног кеша">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Пун hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Истек позитивног кеша">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Потражи">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Подударања">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Провери подударања">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Потражи">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Провери резултате претраге">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Меморија">
 <!ENTITY aboutUrlClassifier.databaseTitle               "База података">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
