@@ -83,11 +83,11 @@
 
 <!ENTITY updateApplication.label         "อัปเดต &brandShortName;">
 <!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
-<!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateAuto1.accesskey           "ด">
 <!ENTITY updateCheckChoose.label         "ตรวจสอบการอัปเดต แต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheckChoose.accesskey     "C">
+<!ENTITY updateCheckChoose.accesskey     "ร">
 <!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateManual.accesskey          "ม">
 
 <!ENTITY updateHistory.label             "แสดงประวัติการอัปเดต">
 <!ENTITY updateHistory.accesskey         "ส">

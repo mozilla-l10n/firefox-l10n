@@ -105,9 +105,9 @@
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อดูและแก้ไขคุณสมบัติ">
 
 <!ENTITY find.label               "ค้นหา:">
-<!ENTITY find.accesskey           "S">
+<!ENTITY find.accesskey           "ค">
 <!ENTITY view.label               "มุมมอง">
-<!ENTITY view.accesskey           "w">
+<!ENTITY view.accesskey           "ม">
 <!ENTITY byDate.label             "ตามวันที่">
 <!ENTITY byDate.accesskey         "D">
 <!ENTITY bySite.label             "ตามไซต์">
