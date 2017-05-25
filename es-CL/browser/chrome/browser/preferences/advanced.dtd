@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "Rendimiento">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Usar ajustes de rendimiento recomendados">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Los ajustes de rendimiento recomendados están pensados para tu computador.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Aprender más">
-<!ENTITY limitContentProcess.label       "Límite de procesos de contenido">
-<!ENTITY limitContentProcess.description
-                                         "Más procesos de contenido pueden hacer a &brandShortName; más responsivo al usar múltiples pestañas, pero también consumirá más memoria.">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
