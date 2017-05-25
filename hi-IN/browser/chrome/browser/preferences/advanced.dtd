@@ -138,12 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "प्रदर्शन">
-<!ENTITY useRecommendedPerformanceSettings.label "अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें">
-<!ENTITY useRecommendedPerformanceSettings.description "अनुशंसित प्रदर्शन सेटिंग्स आपके कंप्यूटर के अनुरूप हैं">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY useRecommendedPerformanceSettings2.label "अनुशंसित प्रदर्शन सेटिंग्स का उपयोग करें">
+
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "और जानें">
-<!ENTITY limitContentProcess.label       "सामग्री प्रक्रिया सीमा">
-<!ENTITY limitContentProcess.description "एकाधिक टैब का उपयोग करते समय अधिक सामग्री प्रक्रियाएँ &brandShortName; को और अधिक प्रतिक्रियात्मक बना सकती हैं, लेकिन इससे अधिक मेमोरी की भी खपत होगी.">
-<!ENTITY limitContentProcess.accesskey   "l">
+<!ENTITY limitContentProcess2.label       "सामग्री प्रक्रिया सीमा">
+
+<!ENTITY limitContentProcess2.accesskey   "l">
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">
