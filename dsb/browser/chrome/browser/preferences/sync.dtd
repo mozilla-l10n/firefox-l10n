@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "r">
 <!ENTITY engine.history.label       "Historiju">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Gronidła">
-<!ENTITY engine.passwords.accesskey "G">
+
+
 <!ENTITY engine.prefs.label         "Nastajenja">
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Dodanki">
