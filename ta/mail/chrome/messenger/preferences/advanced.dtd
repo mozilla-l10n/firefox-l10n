@@ -42,8 +42,17 @@
 
 
 <!-- Update -->
-
-<!ENTITY updateApp.label                 "&brandShortName; மேம்படுத்தல்கள்:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரை: பாதுகாப்பை வழுப்படுத்தும்) ">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "புதுப்பிப்புகள் உள்ளதா எனப் சரிபார், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
