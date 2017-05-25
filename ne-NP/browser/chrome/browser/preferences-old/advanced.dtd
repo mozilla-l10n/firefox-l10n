@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "सरर र स्क्रोल प्रयोग गर्नुहोस्">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -120,3 +118,12 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरू">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "उपलब्ध भएमा हार्डवेयर प्रवेग प्रयोग गर्नुहोस्">
+<!ENTITY allowHWAccel.accesskey          "r">
