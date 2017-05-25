@@ -138,7 +138,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "a">
 
 <!ENTITY performance.label               "Učinkovitost">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Uporabi priporočene nastavitve učinkovitosti">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Več o tem">
+<!ENTITY limitContentProcess2.label       "Omejitev procesov vsebine">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">

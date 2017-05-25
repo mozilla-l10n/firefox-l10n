@@ -10,13 +10,18 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas naslednje posodobitve">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stanje zadnje posodobitve">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Posodobi">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Osveži">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Počisti">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Ime tabele">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Prikaži vnose">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Predpona">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Iskanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Ujemanje">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Preveri rezultat ujemanja">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Iskanje">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Preveri rezultat iskanja">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Predpomnilnik">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Pomnilnik">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Zbirka podatkov">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Razhroščevanje">

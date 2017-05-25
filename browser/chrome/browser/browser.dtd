@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Počisti nedavno zgodovino …">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovi prejšnjo sejo">
 <!ENTITY appMenuHistory.viewSidebar.label "Prikaži stransko vrstico z zgodovino">
+<!ENTITY appMenuHelp.label "Pomoč">
 <!ENTITY appMenuHelp.tooltip "Odpri meni Pomoč">
 
 <!ENTITY appMenuRemoteTabs.label "Sinhronizirani zavihki">
@@ -419,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "D">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Namig:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
@@ -533,6 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Dodaj okvir med zaznamke">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Kopiraj URL">
 <!ENTITY emailPageCmd.label           "Pošlji povezavo po e-pošti …">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Shrani stran kot …">
@@ -658,6 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "P">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zapri stransko vrstico">
+<!ENTITY sidebarMenuClose.label         "Zapri stransko vrstico">
 
 <!ENTITY quitApplicationCmdWin2.label       "Izhod">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
@@ -819,6 +823,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izbirajte med tisoči dodatkov">
 <!ENTITY customizeMode.restoreDefaults "Ponastavi privzeto">
 <!ENTITY customizeMode.titlebar "Naslovna vrstica">
+<!ENTITY customizeMode.toolbars2 "Orodne vrstice">
 <!ENTITY customizeMode.lwthemes "Teme">
 <!ENTITY customizeMode.lwthemes.myThemes "Moje teme">
 <!ENTITY customizeMode.lwthemes.recommended "Priporočene">
@@ -932,5 +937,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "P">
 <!ENTITY updateRestart.cancelButton.label "Ne zdaj">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Ponovno zaženi za posodobitev &brandShorterName;a">
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
