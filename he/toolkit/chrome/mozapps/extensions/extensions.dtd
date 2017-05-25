@@ -138,7 +138,7 @@
 
 <!ENTITY detail.updateType                    "עדכונים אוטומטיים">
 <!ENTITY detail.updateDefault.label           "בררת מחדל">
-<!ENTITY detail.updateDefault.tooltip         "התקן עדכונים באופן אוטומטי רק אם זה ברירת המחדל">
+<!ENTITY detail.updateDefault.tooltip         "התקנת עדכונים באופן אוטומטי רק אם זו בררת המחדל">
 <!ENTITY detail.updateAutomatic.label         "פעיל">
 <!ENTITY detail.updateAutomatic.tooltip       "התקן עדכונים אוטומטית">
 <!ENTITY detail.updateManual.label            "כבוי">

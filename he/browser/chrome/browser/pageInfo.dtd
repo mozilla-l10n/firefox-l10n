@@ -51,7 +51,7 @@
 
 <!ENTITY  permTab               "הרשאות">
 <!ENTITY  permTab.accesskey     "ר">
-<!ENTITY  permUseDefault        "ברירת מחדל">
+<!ENTITY  permUseDefault        "בררת מחדל">
 <!ENTITY  permAskAlways         "שאל תמיד">
 <!ENTITY  permAllow             "אפשר">
 <!ENTITY  permAllowSession      "אפשר להפעלה זו">

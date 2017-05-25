@@ -7,7 +7,7 @@
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
 <!ENTITY aboutWarningTitle.label "פעולה זו עשויה לבטל את האחריות!">
-<!ENTITY aboutWarningText.label "שינוי ערכי ברירת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של ישום זה. אתה מתבקש להמשיך רק אם אתה בטוח במה שאתה עושה.">
+<!ENTITY aboutWarningText.label "שינוי ערכי בררת המחדל של הגדרות מתקדמות אלו יכול להזיק ליציבות, אבטחה, והביצועים של ישום זה. מוטב להמשיך רק אם השלכות מעשיך ברורות לך לחלוטין.">
 <!ENTITY aboutWarningButton2.label "הסיכון מקובל עלי!">
 <!ENTITY aboutWarningCheckbox.label "הצגת אזהרה זו בפעם הבאה">
 

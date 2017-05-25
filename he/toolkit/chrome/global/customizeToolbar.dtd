@@ -10,7 +10,7 @@
 <!ENTITY icons.label              "צלמיות">
 <!ENTITY text.label               "טקסט">
 <!ENTITY useSmallIcons.label      "שימוש בצלמיות קטנות">
-<!ENTITY restoreDefaultSet.label  "שחזר ברירת מחדל">
+<!ENTITY restoreDefaultSet.label  "שחזור בררת מחדל">
 <!ENTITY addNewToolbar.label      "סרגל כלים חדש">
 <!ENTITY saveChanges.label        "סיום">
 <!ENTITY undoChanges.label        "בטל שינויים">
