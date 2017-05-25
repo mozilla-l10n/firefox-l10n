@@ -157,7 +157,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY closeWindow.accesskey "d">
 
 <!ENTITY bookmarksMenu.label "ที่คั่นหน้า">
-<!ENTITY bookmarksMenu.accesskey "น">
+<!ENTITY bookmarksMenu.accesskey "ท">
 <!ENTITY bookmarkThisPageCmd.label "เพิ่มที่คั่นหน้าสำหรับหน้านี้">
 <!ENTITY editThisBookmarkCmd.label "แก้ไขที่คั่นหน้านี้">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
