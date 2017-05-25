@@ -21,7 +21,7 @@
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Spadnjenje negatiwnego cacha">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Połny hash">
-
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Spadnjenje pozitiwnego cacha">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Pytanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Pśirownaś">
