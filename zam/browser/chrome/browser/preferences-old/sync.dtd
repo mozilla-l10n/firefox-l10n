@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Ree koo güil">
 <!ENTITY engine.history.accesskey   "o">
-<!ENTITY engine.passwords.label     "Dizh koo luut ta ne:">
-<!ENTITY engine.passwords.accesskey "D">
+
+
 <!ENTITY engine.prefs.label         "Koo lash luu">
 <!ENTITY engine.prefs.accesskey     "u">
 <!ENTITY engine.addons.label        "Toob koo kub loo firefox">

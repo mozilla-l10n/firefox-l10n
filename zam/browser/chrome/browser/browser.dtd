@@ -216,6 +216,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Zè díʔz">
 
 
@@ -294,7 +295,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "u"> 
 <!ENTITY copyCmd.label            "Lí Chopa">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Key">  
 <!ENTITY pasteCmd.key           "V">  
@@ -334,6 +335,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomize.label "Tùs kùe">
 
 <!ENTITY appMenuCustomizeExit.label "Mb-ròɁ tùs kùe">
+
 
 
 
@@ -395,7 +397,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ăɁ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -502,6 +510,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Toob kue lent koo más doo lash naa">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+
 <!ENTITY emailPageCmd.label           "Taal kue loo diif taal...">
 <!ENTITY emailPageCmd.accesskey       "T">
 <!ENTITY savePageCmd.label            "Loo xhog kue">
@@ -629,6 +638,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Toog kue">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Bru">
 <!ENTITY quitApplicationCmdWin2.accesskey   "B">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Mb-ròɁ &brandShorterName;">
@@ -682,8 +692,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Toob ba loo Diccionario...">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
-<!ENTITY editBookmark.done.label                     "Tee looy">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
+
 
 
 
@@ -767,6 +777,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY social.directory.viewmore.text "Mbwíʔ">
+
 
 
 
