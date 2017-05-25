@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "F">
 <!ENTITY engine.history.label       "Stöia">
 <!ENTITY engine.history.accesskey   "S">
-<!ENTITY engine.passwords.label     "Paròlle segrete">
-<!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Preferense">
 <!ENTITY engine.prefs.accesskey     "P">
 <!ENTITY engine.addons.label        "Conponenti azonti">
