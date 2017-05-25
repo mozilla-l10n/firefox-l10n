@@ -398,6 +398,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Tambahkan Item Lainnya…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "L">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cari atau masukkan alamat">
 <!ENTITY urlbar.accesskey             "d">
@@ -413,7 +417,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -810,7 +817,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ingin mendapatkan alat lainnya?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pilih dari ribuan pengaya">
 <!ENTITY customizeMode.restoreDefaults "Pulihkan Bawaan">
-<!ENTITY customizeMode.toolbars "Tampilkan/Sembunyikan Bilah Alat">
 <!ENTITY customizeMode.titlebar "Bilah Judul">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Temaku">
@@ -925,6 +931,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Jangan Sekarang">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Mulai ulang &brandShorterName; untuk menerapkan pemutakhiran">
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
