@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Historial">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Contrasenyes">
-<!ENTITY engine.passwords.accesskey "y">
+
+
 <!ENTITY engine.prefs.label         "Preferències">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Complements">

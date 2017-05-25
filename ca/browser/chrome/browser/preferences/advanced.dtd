@@ -138,12 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "Rendiment">
-<!ENTITY useRecommendedPerformanceSettings.label "Utilitza els paràmetres de rendiment recomanats">
+<!ENTITY useRecommendedPerformanceSettings2.label "Utilitza els paràmetres de rendiment recomanats">
 
-<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Més informació">
-<!ENTITY limitContentProcess.label       "Límit de procés del contingut">
+<!ENTITY limitContentProcess2.label       "Límit de procés del contingut">
 
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
