@@ -677,3 +677,7 @@
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Riavvia per aggiornare &brandShorterName;">
 <!ENTITY pageActionButton.tooltip "Azioni per questa pagina">
+<!ENTITY sendToDevice.label "Invia a dispositivo…">
+<!ENTITY sendToDevice.viewTitle "Invia a dispositivo">
+<!ENTITY sendToDevice.fxaRequired.label "Necessario">
+<!ENTITY sendToDevice.noDevices.label "Nessun dispositivo disponibile">
