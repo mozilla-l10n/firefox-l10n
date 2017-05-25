@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
+<!ENTITY appMenuHelp.label "HJelp">
 <!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
@@ -419,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "a">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
