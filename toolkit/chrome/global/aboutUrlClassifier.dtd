@@ -14,7 +14,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "刷新">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "清除">
 <!ENTITY aboutUrlClassifier.cacheTableName              "表名">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "阴性缓存总数量">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "阳性缓存总数量">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "显示项目">
+<!ENTITY aboutUrlClassifier.cacheEntries                "缓存项目">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "前缀">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "阴性缓存过期">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "完整散列">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "阳性缓存过期">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "查询">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "匹配">
