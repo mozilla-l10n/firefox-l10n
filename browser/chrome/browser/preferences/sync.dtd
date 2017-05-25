@@ -8,8 +8,6 @@
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.history.label       "ઇતિહાસ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "પાસવર્ડો">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "પસંદગીઓ">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ઍડ-ઓન">

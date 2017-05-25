@@ -17,8 +17,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "લીસી રીતે સરકાવવાનું વાપરો">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 <!ENTITY dataChoicesTab.label            "માહિતી પસંદગી">
 
@@ -64,6 +62,16 @@
 
 <!ENTITY updateTab.label                 "સુધારો">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
 
 <!ENTITY useService.label                "સુધારાઓ સ્થાપિત કરવા માટે પાશ્વભાગ સેવા વાપરો">
@@ -88,3 +96,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "સુરક્ષા ઉપકરણો">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
+<!ENTITY allowHWAccel.accesskey          "r">
