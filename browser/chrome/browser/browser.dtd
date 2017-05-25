@@ -422,6 +422,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -535,6 +537,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Guardar este marco en marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
+<!ENTITY copyURLCmd.label             "Copiar URL">
 <!ENTITY emailPageCmd.label           "Enviar enlace por email">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
@@ -660,6 +663,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "A">
 
 <!ENTITY sidebarCloseButton.tooltip     "Cerrar barra lateral">
+<!ENTITY sidebarMenuClose.label         "Cerrar barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Salir">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
@@ -722,6 +726,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está almacenada en tu computador.">
 <!ENTITY identity.connectionVerified2 "Estás conectado de forma segura a este sitio, perteneciente a:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
+<!ENTITY identity.extensionPage "Esta página es cargada desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Las conexiones realizadas en esta página pueden verse comprometidas.">
 
 <!-- Strings for connection state warnings. -->
@@ -820,7 +825,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quieres más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escoge entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
+<!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barras de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendado">
@@ -934,5 +941,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Reiniciar para actualizar &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Acciones de la página">
