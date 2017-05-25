@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Upravljanje uporabe vtičnikov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Spremenite, ali lahko prejemate obvestila te strani">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Shrani podatke v trajni shrambi">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Brskalnik je pod daljinskim upravljanjem">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Upravljajte dovoljenje za uporabo kamere in/ali mikrofona na tej strani">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Upravljajte dovoljenje za uporabo mikrofona na tej strani">
@@ -422,6 +423,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Namig:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Naj vam pomagamo pri iskanju! Poiščite &#x1F50E; ob predlogih za iskanje.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Spremeni možnosti …">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Spremeni nastavitve …">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "S">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -724,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ta stran je shranjena na vašem računalniku.">
 <!ENTITY identity.connectionVerified2 "Varno ste povezani na to stran, ki jo upravlja:">
 <!ENTITY identity.connectionInternal "To je varna stran &brandShortName;a.">
+<!ENTITY identity.extensionPage "To stran je naložila razširitev.">
 <!ENTITY identity.insecureLoginForms2 "Prijave, ki jih vnesete na tej strani, so lahko ogrožene.">
 
 <!-- Strings for connection state warnings. -->
@@ -822,6 +829,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Želite več orodij?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Izbirajte med tisoči dodatkov">
 <!ENTITY customizeMode.restoreDefaults "Ponastavi privzeto">
+<!ENTITY customizeMode.done "Končano">
 <!ENTITY customizeMode.titlebar "Naslovna vrstica">
 <!ENTITY customizeMode.toolbars2 "Orodne vrstice">
 <!ENTITY customizeMode.lwthemes "Teme">
