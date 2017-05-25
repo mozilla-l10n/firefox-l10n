@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mooftu keɓe e Ndesgu Duumiingu">
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Toppito lollingol mikkoroo maa e ndee lowre">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Toppito lollingol kenorɗe walla yaynirde maa e ndee lowre">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Natto">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Ɗakku">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
 <!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
 <!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
+
 <!ENTITY appMenuHelp.tooltip "Uddit ballitorgol">
 
 <!ENTITY appMenuRemoteTabs.label "Tabbe synckaaɗe">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Eey">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "J">
 <!ENTITY bookmarkThisFrameCmd.label      "Maantoro Ngol Kaarewol">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
+
 <!ENTITY emailPageCmd.label           "Jokkol Iimeel…">
 <!ENTITY emailPageCmd.accesskey       "J">
 <!ENTITY savePageCmd.label            "Danndu Hello e Innde…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Uddu palal sawndo">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Yaltu">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Y">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Yaltu &brandShorterName;">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ɓeydu Caggitorɗe…">
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
 
-<!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceŋagol Kisnangol">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ngoo hello mooftaa ko e ordinateer maa.">
 <!ENTITY identity.connectionVerified2 "Aɗa seŋii kisngol e ndee lowre, jeyɗum ko:">
 <!ENTITY identity.connectionInternal "Ɗum ko hello &brandShortName; hisngo.">
+
 <!ENTITY identity.insecureLoginForms2 "Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ina sokli kaɓirɗe goɗɗe">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suɓo e nder ujunnaaje ɓeyditte">
 <!ENTITY customizeMode.restoreDefaults "Artir Goowaaɗe">
-<!ENTITY customizeMode.toolbars "Hollu / Suuɗ pale kaɓirɗe">
+
 <!ENTITY customizeMode.titlebar "Tiitoonde palal">
+
 <!ENTITY customizeMode.lwthemes "Ciŋkooje">
 <!ENTITY customizeMode.lwthemes.myThemes "Ciŋkooje Am">
 <!ENTITY customizeMode.lwthemes.recommended "Basiyaaɗi">
@@ -929,6 +940,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "H">
 <!ENTITY updateRestart.cancelButton.label "Wonaa Jooni">
 <!ENTITY updateRestart.cancelButton.accesskey "W">
-<!ENTITY updateRestart.panelUI.label "Huɓɓit &brandShorterName; ngam siynude kesɗitinal">
+
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
