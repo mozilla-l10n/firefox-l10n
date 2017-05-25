@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "ה">
 
 <!ENTITY performance.label               "ביצועים">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "שימוש בהגדרות ביצועים מומלצות">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "הגדרות הביצועים המומלצות מותאמות למחשב שלך.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "ש">
 <!ENTITY performanceSettingsLearnMore.label
                                          "מידע נוסף">
-<!ENTITY limitContentProcess.label       "מגבלת תהליך תוכן">
-<!ENTITY limitContentProcess.description
-                                         "תהליכי תוכן נוספים עשויים לשפר את הביצועים של &brandShortName; בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.">
-<!ENTITY limitContentProcess.accesskey   "מ">
 <!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">

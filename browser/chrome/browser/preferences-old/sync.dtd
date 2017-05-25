@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "ל">
 <!ENTITY engine.history.label       "היסטוריה">
 <!ENTITY engine.history.accesskey   "ה">
-<!ENTITY engine.passwords.label     "ססמאות">
-<!ENTITY engine.passwords.accesskey "ס">
 <!ENTITY engine.prefs.label         "העדפות">
 <!ENTITY engine.prefs.accesskey     "ה">
 <!ENTITY engine.addons.label        "תוספות">
