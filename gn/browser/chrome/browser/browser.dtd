@@ -209,8 +209,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "Eike ñe'ẽmondo rupápe">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "Tendaite jerurepy rupa ijurujáva">
 
-
-
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "Eguereko ñangarekoha rekaha. Eikutu Esc eguereko jey hag̃ua pe ñangarekoha.">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Eike ñe'ẽmondo rupa ñe'ẽñemi ñongatuhápe">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Mba'ejoajurã jepuru ñangareko">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 

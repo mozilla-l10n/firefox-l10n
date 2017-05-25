@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "Apañuái oñemyenyhẽvo kuatiarogue">
 <!ENTITY retry.label "Eha'ãjey">
 <!ENTITY returnToPreviousPage.label "Eguevi">
-
+<!ENTITY advanced.label "Opanungáva">
 <!-- Specific error messages -->
 
 
@@ -30,8 +30,10 @@
 <!ENTITY generic.title "Ndi.">
 <!ENTITY generic.longDesc "<p>&brandShortName; ndaikatúi omyanyhẽ ko kuatiarogue ndojekuaái mba'érepa.</p>">
 
+<!ENTITY captivePortal.title "Eñepyrũ tembiapo ñandutípe">
+<!ENTITY captivePortal.longDesc2 "<p>Eñepyrũ tembiapo ko ñandutípe eike mboyve ambue ñandutípe.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "Eike tembiapo ñepyrũ ñanduti kuatiaroguépe">
 
 <!ENTITY malformedURI.title "Pe kundaharape ndoikói">
 <!ENTITY malformedURI.longDesc "<ul> <li>Ñanduti kundaharape ojehai jepi kóicha <strong>http://www.example.com/</strong></li> <li>Ema'ẽjey eipuru porãpa barra ojero'áva tenonde gotyo (i.e. <strong>/</strong>).</li> </ul>">
@@ -106,6 +108,8 @@ was trying to connect. -->
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
 
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ndoikeséi <span id='wrongSystemTime_URL'/> oĩvai rupi aravopapaha ne mohendaha pegua ha ojoko hína jeike katu.</p> <p>Ne mohendaha oñemoĩ hína <span id='wrongSystemTime_systemDate'/> ramo, oĩ rangue hína <span id='wrongSystemTime_actualDate'/> ramo. Emyatyrõ hag̃ua ko apañuãi emoambue nde aravo ha arange ojuehe hag̃ua aravo tee rehe.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; ndoikeséi <span id='wrongSystemTimeWithoutReference_URL'/> oĩvai rupi aravopapaha ne mohendaha pegua ha ojoko hína jeike katu.</p> <p>Ne mohendaha oñemoĩ hína <span id='wrongSystemTimeWithoutReference_systemDate'/> ramo. Emyatyrõ hag̃ua ko apañuãi, emoambue nde aravo ha arange ojuehe hag̃ua aravo tee rehe.</p>">
 
 <!ENTITY certerror.pagetitle1  "Jeikekatu'ỹ">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Ko tenda oipuru HTTP Strict Transport Security (HSTS) ha omoha'eño &brandShortName; oike hag̃ua pype tekorosãme. Tembiapokuéramo, ndaikatúi embojoaju peteĩ oĩ'ỹva ko mboajepyrépe g̃uarã.">
@@ -116,4 +120,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span> oipuru tembipuru pyahu rekorosãrã ndoikovéimava ha oimeraẽva ombyaikuaáva. Peteĩ tekoñaña ikatu ohechauka marandu hekorosãha gua'ú. Pe ñanduti renda ñangarekohára omyatãraẽva'erã pe mohendahavusu oike mboyve tendápe.</p><p>Ayvu jejavy: NS_ERROR_NET_INADEQUATE_SECURITY</p>">
 
+<!ENTITY prefReset.longDesc "Ne ñemboheko ñanduti rekorosãrã rehegua ikatu hína ojapo kóva. Emoĩporãsépa ñemboheko ijypyguáva rupi?">
 <!ENTITY prefReset.label "Embojevy ñemboheko ijypykuépe">
