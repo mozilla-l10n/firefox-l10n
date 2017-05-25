@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas přichodneje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status poslednjeje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizacija">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Pufrowak">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Aktualizować">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Zhašeć">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabelowe mjeno">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Ličba zapiskow negatiwneho pufrowaka">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Ličba zapiskow pozitiwneho pufrowaka">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Zapiski pokazać">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Zapiski pufrowaka">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Spadnjenje negatiwneho pufrowaka">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Połny hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Spadnjenje pozitiwneho pufrowaka">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Pytanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Přirunać">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Přirunanski wuslědk přepruwować">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Pytanje">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Pytanski wuslědk přepruwować">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Pufrowak">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Skład">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Datowa banka">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Zmylki pytać">
