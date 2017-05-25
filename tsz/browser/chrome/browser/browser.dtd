@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Exentani">
 <!-- Toolbar items -->
 
@@ -283,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "a"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Matani">  
 <!ENTITY pasteCmd.key           "V">  
@@ -320,6 +321,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "&amp;Peerakurhini…">
+
 
 
 
@@ -383,7 +385,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "k’uaniaka">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -485,6 +493,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Kuparatani ini anchitarakuechani">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "K">
+
 <!ENTITY emailPageCmd.label           "Axani parhijtsïkutarakua…">
 <!ENTITY emailPageCmd.accesskey       "A">
 <!ENTITY savePageCmd.label            "Patsani esïka…">
@@ -600,6 +609,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Uérani">
 <!ENTITY quitApplicationCmdWin2.accesskey   "U">
 
@@ -646,7 +656,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY editBookmark.done.label                     "No ma">
+
 
 
 
@@ -720,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY syncToolbarButton.label      "Sync">
+
 
 
 

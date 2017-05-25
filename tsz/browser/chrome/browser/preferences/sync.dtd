@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Patsakata">
 <!ENTITY engine.history.accesskey   "P">
-<!ENTITY engine.passwords.label     "Miiukuantskuecha">
-<!ENTITY engine.passwords.accesskey "M">
+
+
 <!ENTITY engine.prefs.label         "Sánteru xénchakuecha">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Jukajtakuecha">
