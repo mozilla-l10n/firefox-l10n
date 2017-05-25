@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næsti uppfærslutími">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seinasta uppfærslustaða">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Uppfæra">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Skyndiminni">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Uppfletting">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Passar við">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Athuga niðurstöðu í samsvörun">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Uppfletting">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Athuga niðurstöðu í uppflettingu">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Skyndiminni">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Minni">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Gagnagrunnur">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Kemba">
