@@ -10,13 +10,22 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Proxima actualización">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Estado de última actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Limpiar">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nombre de la tabla">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Número de entradas negativas de caché">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Número de entradas positivas de caché">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Mostrar entradas">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefijo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiración de caché negativo">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiración de caché positivo">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidencia">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Verificar resultado de coincidencia">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Buscar">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Verificar resultado de búsqueda">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memoria">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Base de datos">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuración">
