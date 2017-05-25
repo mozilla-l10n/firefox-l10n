@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Διαχείριση χρήσης πρόσθετων λειτουργιών">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Αλλαγή του αν θα λαμβάνετε ειδοποιήσεις από τον ιστοτόπο">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Αποθήκευση δεδομένων στην Επίμονη Αποθήκευση">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Το πρόγραμμα περιήγησης ελέγχεται απομακρυσμένα">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Διαχείριση του διαμοιρασμού της κάμερας και/ή του μικροφώνου σας για τον ιστοτόπο">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Διαχείριση του διαμοιρασμού του μικροφώνου σας για τον ιστοτόπο">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Εκκαθάριση πρόσφατου ιστορικού…">
 <!ENTITY appMenuHistory.restoreSession.label "Επαναφορά προηγούμενης συνεδρίας">
 <!ENTITY appMenuHistory.viewSidebar.label "Προβολή πλευρικής στήλης ιστορικού">
+<!ENTITY appMenuHelp.label "Βοήθεια">
 <!ENTITY appMenuHelp.tooltip "Άνοιγμα βοήθειας">
 
 <!ENTITY appMenuRemoteTabs.label "Συγχρονισμένες καρτέλες">
@@ -401,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Περισσότερα">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Αναζητήστε ή εισάγετε μια διεύθυνση">
@@ -418,7 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ν">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Συμβουλή:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Αλλαγή επιλογών…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Α">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Αλλαγή προτιμήσεων…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Α">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -532,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "δ">
 <!ENTITY bookmarkThisFrameCmd.label      "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "λ">
+<!ENTITY copyURLCmd.label             "Αντιγραφή URL">
 <!ENTITY emailPageCmd.label           "Αποστολή δεσμού…">
 <!ENTITY emailPageCmd.accesskey       "λ">
 <!ENTITY savePageCmd.label            "Αποθήκευση σελίδας ως…">
@@ -817,7 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Θέλετε περισσότερα εργαλεία;">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Επιλέξτε ανάμεσα από χιλιάδες πρόσθετα">
 <!ENTITY customizeMode.restoreDefaults "Επαναφορά προεπιλογών">
+<!ENTITY customizeMode.done "Τέλος">
 <!ENTITY customizeMode.titlebar "Γραμμή τίτλου">
+<!ENTITY customizeMode.toolbars2 "Γραμμές εργαλειών">
 <!ENTITY customizeMode.lwthemes "Θέματα">
 <!ENTITY customizeMode.lwthemes.myThemes "Τα θέματά μου">
 <!ENTITY customizeMode.lwthemes.recommended "Προτεινόμενα">
