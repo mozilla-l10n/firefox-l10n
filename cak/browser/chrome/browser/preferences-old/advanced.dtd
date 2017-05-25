@@ -128,8 +128,8 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe">
 <!ENTITY useRecommendedPerformanceSettings.description "Re taq nuk'ulem re' nikik'äm ki' kik'in ri ch'akulakem chuqa' rik'in ri samajel ruq'inoj akematz'ib'.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "T">
-
-
-
+<!ENTITY limitContentProcess.label       "ruchi' ri ruxenab'al rupam">
+<!ENTITY limitContentProcess.description "Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj &brandShortName; rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.">
+<!ENTITY limitContentProcess.accesskey   "r">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
