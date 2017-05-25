@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "r">
 
 <!ENTITY performance.label               "Jõudlus">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Kasutatakse soovitatud jõudluse sätteid">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Soovitatud jõudluse sätted on kohaldatud sinu arvutile.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "o">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Rohkem teavet">
-<!ENTITY limitContentProcess.label       "Sisu protsesside limiit">
-<!ENTITY limitContentProcess.description
-                                         "Rohkemate sisu protsessidega on &brandShortName; mitme kaardi kasutamisel kiirem, aga kasutab seejuures ka rohkem mälu.">
-<!ENTITY limitContentProcess.accesskey   "u">
 <!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
 <!ENTITY allowHWAccel.accesskey          "i">
