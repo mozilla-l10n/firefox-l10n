@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "வரலாறு">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "கடவுச்சொற்கள்">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "விருப்பங்கள்">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "கூடுதல்-வசதிகள்">
