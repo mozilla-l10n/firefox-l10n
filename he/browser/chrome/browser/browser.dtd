@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "מחיקת היסטוריה אחרונה…">
 <!ENTITY appMenuHistory.restoreSession.label "שחזור הפעלה קודמת">
 <!ENTITY appMenuHistory.viewSidebar.label "הצגת סרגל הצד היסטוריה">
+<!ENTITY appMenuHelp.label "עזרה">
 <!ENTITY appMenuHelp.tooltip "פתיחת תפריט העזרה">
 
 <!ENTITY appMenuRemoteTabs.label "לשוניות מסונכרנות">
@@ -420,6 +421,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "שינוי אפשרויות…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "ע">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "שינוי העדפות…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "כ">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ק">
 <!ENTITY bookmarkThisFrameCmd.label      "יצירת סימנייה למסגרת זו">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "מ">
+<!ENTITY copyURLCmd.label             "העתקת כתובת">
 <!ENTITY emailPageCmd.label           "שליחת קישור בדוא״ל…">
 <!ENTITY emailPageCmd.accesskey       "ד">
 <!ENTITY savePageCmd.label            "שמירת דף בשם…">
