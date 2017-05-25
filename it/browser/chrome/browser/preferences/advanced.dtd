@@ -94,12 +94,12 @@
 <!ENTITY viewSecurityDevices.label "Dispositivi di sicurezza">
 <!ENTITY viewSecurityDevices.accesskey "D">
 <!ENTITY performance.label "Prestazioni">
-<!ENTITY useRecommendedPerformanceSettings.label "Utilizza le impostazioni predefinite">
-<!ENTITY useRecommendedPerformanceSettings.description "Le impostazioni consigliate sono determinate in base alle caratteristiche di questo computer.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "m">
+<!ENTITY useRecommendedPerformanceSettings2.label "Utilizza le impostazioni predefinite">
+<!ENTITY useRecommendedPerformanceSettings2.description "Queste impostazioni sono determinate in base alle caratteristiche hardware del computer e al sistema operativo.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "m">
 <!ENTITY performanceSettingsLearnMore.label "Ulteriori informazioni">
-<!ENTITY limitContentProcess.label "Numero massimo di processi per i contenuti">
-<!ENTITY limitContentProcess.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
-<!ENTITY limitContentProcess.accesskey "o">
+<!ENTITY limitContentProcess2.label "Numero massimo di processi per i contenuti">
+<!ENTITY limitContentProcess2.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
+<!ENTITY limitContentProcess2.accesskey "o">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
