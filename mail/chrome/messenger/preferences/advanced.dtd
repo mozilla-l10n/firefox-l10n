@@ -51,8 +51,17 @@
 <!ENTITY enableCrashReporter.accesskey   "H">
 <!ENTITY crashReporterLearnMore.label    "További tudnivalók">
 <!-- Update -->
-
-<!ENTITY updateApp.label                 "&brandShortName; frissítések:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Frissítések automatikus telepítése (ez ajánlott a maximális biztonság érdekében)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Frissítések keresése, de a telepítés kézzel történik">
