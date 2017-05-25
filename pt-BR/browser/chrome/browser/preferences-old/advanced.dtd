@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar rolagem suave">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "Verificar a ortografia ao digitar">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de segurança">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY performance.label               "Desempenho">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Usar as configurações de desempenho recomendadas">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Essas configurações são adaptadas ao hardware e ao sistema operacional do computador.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY limitContentProcess.label       "Limite do processo de conteúdo">
+<!ENTITY limitContentProcess.description
+                                         "Processos de conteúdo adicionais podem melhorar o desempenho do &brandShortName; ao usar várias abas, mas também usa mais memória.">
+<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
+<!ENTITY allowHWAccel.accesskey          "r">
