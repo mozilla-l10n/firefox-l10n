@@ -7,8 +7,6 @@
 <!ENTITY engine.bookmarks.label     "Mga Bookmark">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.accesskey      "T">
-<!ENTITY engine.passwords.label     "Passwords">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Mga Add-ons">
