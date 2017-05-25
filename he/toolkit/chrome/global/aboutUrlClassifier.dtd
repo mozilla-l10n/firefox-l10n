@@ -10,13 +10,23 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "מועד העדכון הבא">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "מצב העדכון האחרון">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "עדכון">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "מטמון">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "רענון">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "פינוי">
+<!ENTITY aboutUrlClassifier.cacheTableName              "שם טבלה">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "מספר רשומות מטמון שליליות">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "מספר רשומות מטמון חיוביות">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "הצגת רשומות">
+<!ENTITY aboutUrlClassifier.cacheEntries                "רשומות במטמון">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "קידומת">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "תפוגת מטמון שלילית">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "תפוגת מטמון חיובית">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "חיפוש">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "כתובת">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "התאמה">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "בדיקת תוצאות ההתאמה">
 <!ENTITY aboutUrlClassifier.lookupLookup                "חיפוש">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "בדיקת תוצאות חיפוש">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "מטמון">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "זיכרון">
 <!ENTITY aboutUrlClassifier.databaseTitle               "מסד נתונים">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ניפוי שגיאות">
