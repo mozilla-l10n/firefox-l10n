@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Nuevo tiempo d'actualización">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Zaguero estau d'actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidencia">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Comprebar la coincidencia">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Buscar">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Comprebar lo resultau d'a busca">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memoria">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Base de datos">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
