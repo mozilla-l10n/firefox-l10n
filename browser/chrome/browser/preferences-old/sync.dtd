@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "පෙරදෑ">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "රහස්පද">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "මනාපයන්">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ඇඩෝන">
