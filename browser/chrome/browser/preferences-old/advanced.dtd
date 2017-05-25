@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "ل">
 <!ENTITY useSmoothScrolling.label        "استفاده از لغزش هموار">
 <!ENTITY useSmoothScrolling.accesskey    "غ">
-<!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
-<!ENTITY allowHWAccel.accesskey          "ش">
 <!ENTITY checkUserSpelling.label         "بررسی املا همزمان با نوشتن">
 <!ENTITY checkUserSpelling.accesskey     "ن">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "گ">
 <!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
 <!ENTITY viewSecurityDevices.accesskey   "د">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
+<!ENTITY allowHWAccel.accesskey          "ش">
