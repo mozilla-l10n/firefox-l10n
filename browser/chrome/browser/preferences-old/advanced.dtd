@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Sebenzisa ukuhambahamba kokubhaliweyo okugudileyo">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY allowHWAccel.label              "Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Khangela upelo lwakho njengoko uchwetheza">
 <!ENTITY checkUserSpelling.accesskey     "u">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "i">
 <!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
 <!ENTITY viewSecurityDevices.accesskey   "z">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka">
+<!ENTITY allowHWAccel.accesskey          "d">
