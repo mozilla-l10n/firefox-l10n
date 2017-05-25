@@ -81,7 +81,17 @@
 
 <!ENTITY updateTab.label                 "မွမ်းမံချက်">
 
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
 <!ENTITY updateApplication.label         "&brandShortName; မွမ်းမံမှုများ">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 <!ENTITY updateApplication.description   "&brandShortName; ကို ဆောင်ရွက်ခွင့်ပြုရန်">
 <!ENTITY updateAuto2.label               "အဆင့်မြှင့်တင်မှုများကို အလိုအလျောက် တပ်ဆင်ပါ (လုံခြုံမှုကို ပိုမိုကောင်းမွန်စေသည့်အတွက် အကြံပြုပါသည်)">
 <!ENTITY updateAuto2.accesskey           "A">
@@ -126,15 +136,5 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "စွမ်းဆောင်ရည်">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်ကို အသုံးပြုပါ">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "အကြံပြုထားသော စွမ်းဆောင်ရည်ဆိုင်ရာ အပြင်အဆင်များသည် သင့်ကွန်ပျူတာနှင့် ကိုက်ညီစေရန် ဆောင်ရွက်ထားသည်။">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "U">
-<!ENTITY limitContentProcess.label       "အချက်အလက် ဆောင်ရွက်မှု လုပ်ငန်းစဉ် ကန့်သတ်ချက်">
-<!ENTITY limitContentProcess.description
-                                         "တပ်ဗ် အများအပြား အသုံးပြုသောအခါ အချက်အလက် ဆောင်ရွက်မှု လုပ်ငန်းစဉ် များလေ &brandShortName; ကို ပိုမိုတုံ့ပြန်ဆောင်ရွက်စေနိုင်စွမ်း ရှိလေ ဖြစ်သည်။ သို့သော် ၎င်းသည် မှတ်ဉာဏ်အများအပြား အသုံးပြုနိုင်သည်။">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
 <!ENTITY allowHWAccel.accesskey          "r">
