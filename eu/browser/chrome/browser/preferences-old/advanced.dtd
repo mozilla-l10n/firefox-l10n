@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Erabili korritze leuna">
 <!ENTITY useSmoothScrolling.accesskey    "u">
-<!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Egiaztatu ortografia idatzi ahala">
 <!ENTITY checkUserSpelling.accesskey     "z">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "k">
 <!ENTITY viewSecurityDevices.label       "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
+<!ENTITY allowHWAccel.accesskey          "h">
