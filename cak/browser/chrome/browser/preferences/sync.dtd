@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "K'ulwachinel">
 <!ENTITY engine.history.accesskey   "e">
-<!ENTITY engine.passwords.label     "Ewan taq tzij">
-<!ENTITY engine.passwords.accesskey "E">
+
+
 <!ENTITY engine.prefs.label         "Taq ajowab'äl">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Taq tz'aqat">

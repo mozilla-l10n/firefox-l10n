@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Jun chik ruq'ijul toq xtik'ex">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Rub'anikil ri ruk'isib'äl k'exoj">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Tik'ex">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Jumejyak">
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Tikanöx">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Tijunamäx">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Tinik'öx ri junamaxïk q'i'oj">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Tikanöx">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Tinik'öx ri q'i'oj xkanöx">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Jumejyak">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Tzatzq'ob'äl">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Rucholxe'el tzij">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Tichojmirisäx">
