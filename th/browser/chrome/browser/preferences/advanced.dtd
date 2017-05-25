@@ -95,11 +95,11 @@
 <!ENTITY updateApplication.version.pre   "รุ่น ">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
 <!ENTITY updateAuto2.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำสำหรับความปลอดภัยที่เพิ่มขึ้น)">
-<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateAuto2.accesskey           "ด">
 <!ENTITY updateCheckChoose2.label        "ตรวจสอบการอัปเดตแต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheckChoose2.accesskey    "C">
+<!ENTITY updateCheckChoose2.accesskey    "ร">
 <!ENTITY updateManual2.label             "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ)">
-<!ENTITY updateManual2.accesskey         "N">
+<!ENTITY updateManual2.accesskey         "ม">
 
 <!ENTITY updateHistory2.label            "แสดงประวัติการอัปเดต…">
 <!ENTITY updateHistory2.accesskey        "ส">
