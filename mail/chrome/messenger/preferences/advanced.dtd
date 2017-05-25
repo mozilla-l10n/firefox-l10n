@@ -51,8 +51,17 @@
 <!ENTITY enableCrashReporter.accesskey   "p">
 <!ENTITY crashReporterLearnMore.label    "Sužinoti daugiau">
 <!-- Update -->
-
-<!ENTITY updateApp.label                 "Programos „&brandShortName;“ atnaujinimas:">
+<!-- LOCALIZATION NOTE (updateApp.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
+  followed by a version number, keep the trailing space or replace it with
+  a different character as needed. updateApp.version.post is displayed after
+  the version number, and is empty on purpose for English. You can use it
+  if required by your language.
+ -->
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Automatiškai įdiegti naujinimus (rekomenduojama – didesnis saugumas)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "Tikrinti, ar yra naujinimų, bet atsiklausti prieš juos įdiegiant">
