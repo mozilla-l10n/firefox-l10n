@@ -594,6 +594,7 @@
 <!ENTITY customizeMode.menuAndToolbars.empty "Hai bisogno di altri strumenti?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Scegli tra migliaia di componenti aggiuntivi">
 <!ENTITY customizeMode.restoreDefaults "Ripristina predefiniti">
+<!ENTITY customizeMode.done "Fatto">
 <!ENTITY customizeMode.toolbars "Visualizza/nascondi barre degli strumenti">
 <!ENTITY customizeMode.titlebar "Barra del titolo">
 <!ENTITY customizeMode.lwthemes "Temi">
