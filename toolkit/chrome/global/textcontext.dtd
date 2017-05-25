@@ -27,7 +27,7 @@
 
 <!ENTITY searchTextBox.clear.label "ניקוי">
 
-<!ENTITY fillLoginMenu.label          "מילוי פרטי התחברות">
+<!ENTITY fillLoginMenu.label          "מילוי פרטי כניסה">
 <!ENTITY fillLoginMenu.accesskey      "מ">
 <!ENTITY fillPasswordMenu.label       "מילוי ססמה">
 <!ENTITY fillPasswordMenu.accesskey   "מ">

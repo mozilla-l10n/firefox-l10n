@@ -18,7 +18,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "ה">
 <!ENTITY  autoTypeRadio.label           "URL לתצורה אוטומטית של שרת מתווך:">
 <!ENTITY  autoTypeRadio.accesskey       "ת">
-<!ENTITY  reload.label                  "טען מחדש">
+<!ENTITY  reload.label                  "טעינה מחדש">
 <!ENTITY  reload.accesskey              "ט">
 <!ENTITY  ftp.label                     "שרת מתווך FTP:">
 <!ENTITY  ftp.accesskey                 "F">

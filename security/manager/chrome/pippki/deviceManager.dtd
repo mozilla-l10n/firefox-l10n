@@ -18,7 +18,7 @@
 <!ENTITY devmgr.button.logout.accesskey         "נ">
 <!ENTITY devmgr.button.changepw.label           "שינוי ססמה">
 <!ENTITY devmgr.button.changepw.accesskey       "ס">
-<!ENTITY devmgr.button.load.label               "טען">
+<!ENTITY devmgr.button.load.label               "טעינה">
 <!ENTITY devmgr.button.load.accesskey           "ט">
 <!ENTITY devmgr.button.unload.label             "פריקה">
 <!ENTITY devmgr.button.unload.accesskey         "פ">
