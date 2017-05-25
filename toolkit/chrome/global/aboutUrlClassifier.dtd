@@ -14,14 +14,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "حدّث">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "امسح">
 <!ENTITY aboutUrlClassifier.cacheTableName              "اسم الجدول">
-
-
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "عدد مُدخلات الخبيئة السالبة">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "عدد مُدخلات الخبيئة الموجبة">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "أظهر المدخلات">
-
+<!ENTITY aboutUrlClassifier.cacheEntries                "مُدخلات الخبيئة">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "السابقة">
-
-
-
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "انتهاء صلاحية الخبيئة السالبة">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "التلبيدة الكاملة">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "انتهاء صلاحية الخبيئة الموجبة">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "البحث">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "المسار">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "التطابق">
