@@ -23,8 +23,8 @@
 <!ENTITY valueColumn.label "Вредност">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "Притисните за сортирање">
-<!ENTITY columnChooser.tooltip "Кликните да изаберете колоне за приказ">
+<!ENTITY prefColumnHeader.tooltip "Притисните за сортирање"> 
+<!ENTITY columnChooser.tooltip "Кликните да изаберете колоне за приказ"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
@@ -36,7 +36,7 @@
 <!ENTITY copyValue.accesskey "в">
 <!ENTITY modify.label "Измени">
 <!ENTITY modify.accesskey "м">
-<!ENTITY toggle.label "Пребаци">
+<!ENTITY toggle.label "Промени">
 <!ENTITY toggle.accesskey "б">
 <!ENTITY reset.label "Врати">
 <!ENTITY reset.accesskey "т">
