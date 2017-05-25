@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Cas pśiduceje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status slědneje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizacija">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Aktualizěrowaś">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Lašowaś">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabelowe mě">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Licba zapiskow negatiwnego cacha">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Licba zapiskow pozitiwnego cacha">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Zapiski pokazaś">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Zapiski cacha">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Spadnjenje negatiwnego cacha">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Połny hash">
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Pytanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Pśirownaś">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Pśirownański wuslědk pśeglědowaś">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Pytanje">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Pytańsku wuslědk pśeglědowaś">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Skład">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Datowa banka">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Zmólki pytaś">
