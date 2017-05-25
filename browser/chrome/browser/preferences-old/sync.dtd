@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "इतिहास">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "पासवर्डस्">
-<!ENTITY engine.passwords.accesskey "P">
+
+
 <!ENTITY engine.prefs.label         "पसंती">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "ॲड-ऑन्स्">
