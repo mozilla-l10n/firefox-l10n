@@ -138,12 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
 <!ENTITY performance.label               "Perfformiad">
-<!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
-<!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau perfformiad wedi eu pennu ar gyfer eich cyfrifiadur.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY useRecommendedPerformanceSettings2.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
+
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
 <!ENTITY performanceSettingsLearnMore.label "Dysgu rhagor">
-<!ENTITY limitContentProcess.label       "Terfyn proses cynnwys">
-<!ENTITY limitContentProcess.description "Mae rhagor o brosesau cynnwys yn gallu gwneud &brandShortName; yn fwy ymatebol pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
-<!ENTITY limitContentProcess.accesskey   "T">
+<!ENTITY limitContentProcess2.label       "Terfyn proses cynnwys">
+
+<!ENTITY limitContentProcess2.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">

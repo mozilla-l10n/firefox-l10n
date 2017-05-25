@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Defnyddio sgrolio llyfn">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
-<!ENTITY allowHWAccel.accesskey          "e">
 <!ENTITY checkUserSpelling.label         "Gwirio'r sillafu wrth deipio">
 <!ENTITY checkUserSpelling.accesskey     "G">
 
@@ -125,3 +123,12 @@
 <!ENTITY viewCerts.accesskey             "D">
 <!ENTITY viewSecurityDevices.label       "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
+<!ENTITY allowHWAccel.accesskey          "e">
