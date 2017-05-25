@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "ತಾಣದಿಂದ ನೀವು ಸೂಚನೆಗಳನ್ನು ಪಡೆಯಬೇಕೆ ಅಥವ ಬೇಡವೆ ಎನ್ನುವುದನ್ನು ಬದಲಾಯಿಸಿ">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ನಿಮ್ಮ ಕ್ಯಾಮೆರಾ ಮತ್ತು ಮೈಕ್ರೊಫೋನ್ ಅನ್ನು ನೀವು ಪ್ರಸಕ್ತ ಹಂಚಿಕೊಂಡಿರುವ ತಾಣಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ಈ ತಾಣದೊಂದಿಗೆ ನಿಮ್ಮ ಮೈಕ್ರೊಫೋನ್‌ ಅನ್ನು ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ನಿಮ್ಮ ಕಿಟಿಗಳನ್ನು ಅಥವ ತೆರೆಯನ್ನು ತಾಣದೊಂದಿಗೆ ಹಂಚಿಕೊಳ್ಳುವುದನ್ನು ನಿರ್ವಹಿಸಿ">
@@ -300,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "ಪ್ರತಿ ಮಾಡು">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ಅಂಟಿಸು">  
 <!ENTITY pasteCmd.key           "V">  
@@ -348,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "ಇತ್ತೀಚಿನ ಇತಿಹಾಸವನ್ನು ಅಳಿಸಿಹಾಕು…">
 <!ENTITY appMenuHistory.restoreSession.label "ಹಿಂದಿನ ಅಧಿವೇಶನವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
 <!ENTITY appMenuHistory.viewSidebar.label "ಇತಿಹಾಸ ಪಕ್ಕದಂಕಣ ಪ್ರದರ್ಶಿಸಿ">
+
 <!ENTITY appMenuHelp.tooltip "ಸಹಾಯ ಪರಿವಿಡಿ ತೆಗೆ">
 
 <!ENTITY appMenuRemoteTabs.label "ಸಿಂಕ್ ಮಾಡಿದ ಟ್ಯಾಬ್‌ಗಳು">
@@ -413,7 +415,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ಹೌದು">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -526,6 +534,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ಈ ಚೌಕಟ್ಟನ್ನು ಪುಟಗುರುತು ಮಾಡು">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "ಕೊಂಡಿಯನ್ನು ಇಮೈಲ್ ಮಾಡು…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "ಈ ಪುಟವನ್ನು ಹೀಗೆ ಉಳಿಸು...">
@@ -653,6 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "ಬದಿಪಟ್ಟಿಯನ್ನು ಮುಚ್ಚು">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "ಹೊರನಡೆ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; ನಿರ್ಗಮಿಸು">
@@ -706,7 +716,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "ಶಬ್ಧಕೋಶವನ್ನು ಸೇರಿಸು...">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "ಆಯಿತು">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "ಸುರಕ್ಷಿತ ಸಂಪರ್ಕ">
@@ -714,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ನಿಮ್ಮ ಗಣಕದಲ್ಲಿ ಈ ಪುಟವನ್ನು ಶೇಖರಿಸಿಡಲಾಗಿದೆ.">
 <!ENTITY identity.connectionVerified2 "ಈ ತಾಣಕ್ಕೆ ಸುರಕ್ಷಿತವಾಗಿ ಸಂಪರ್ಕಿತಗೊಂಡಿದ್ದೀರಿ, ಇದನ್ನು ನೆಡೆಸುತ್ತಿರುವವರು:">
 <!ENTITY identity.connectionInternal "ಇದು ಸುರಕ್ಷಿತ &brandShortName; ಪುಟ">
+
 <!ENTITY identity.insecureLoginForms2 "ಈ ಪುಟದಲ್ಲಿ ನಮೂದಿಸಲಾದ ಲಾಗಿನ್‌ ವಿವರಗಳು ದುರ್ಬಳಕೆಯಾಗುವ ಸಾಧ್ಯತೆ ಇದೆ.">
 <!-- Strings for connection state warnings. -->
 
@@ -812,8 +822,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ಇನ್ನೂ ಹೆಚ್ಚು ಉಪಕರಣಗಳು ಬೇಕೆ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ಸಾವಿರಾರು ಆಡ್-ಆನ್ ಗಳಿಂದ ಆರಿಸಿಕೊಳ್ಳಿ">
 <!ENTITY customizeMode.restoreDefaults "ಪೂರ್ವನಿಯೋಜಿತವಾದುವನ್ನು ಮರಳಿ ಸ್ಥಾಪಿಸು">
-<!ENTITY customizeMode.toolbars "ತೋರಿಸು / ಅಡಗಿಸು ಉಪಕರಣ ಪಟ್ಟಿಗಳು">
+
 <!ENTITY customizeMode.titlebar "ಶೀರ್ಷಿಕೆ ಪಟ್ಟಿ">
+
 <!ENTITY customizeMode.lwthemes "ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.myThemes "ನನ್ನ ಥೀಮ್‌ಗಳು">
 <!ENTITY customizeMode.lwthemes.recommended "ಇದನ್ನು ಸಲಹೆ ಮಾಡಲಾಗುತ್ತದೆ">
