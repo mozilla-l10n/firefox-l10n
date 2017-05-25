@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Tembiasakue">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Ñe'ẽñemi">
-<!ENTITY engine.passwords.accesskey "Ñ">
+
+
 <!ENTITY engine.prefs.label         "Jerohoryvéva">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Moĩmbaha">

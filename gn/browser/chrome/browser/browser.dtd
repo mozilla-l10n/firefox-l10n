@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Emoambue eipotárõ oñemog̃uahẽ ndéve ñemomarandu ko ñandutirenda omondóva.">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Eipuruhína neñe'atãha ko tenda ndive">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Eñangareko moherakuã nerovetã térã mba'erechaha ko tenda ndive">
@@ -300,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Mbohasarã">  
-<!ENTITY copyCmd.key            "C">  
+
 <!ENTITY copyCmd.accesskey          "M"> 
 <!ENTITY pasteCmd.label           "Mboja">  
 <!ENTITY pasteCmd.key           "V">  
@@ -348,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
+
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
 <!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
@@ -415,7 +417,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Hẽe">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -528,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ñongatu pyahu…">
@@ -655,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Ta'ãngarupa yke mboty">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Ñesẽ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-gui ñesẽ">
@@ -708,7 +718,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ñe'ẽryru mbojoapy…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
-<!ENTITY editBookmark.done.label                     "Mohu'ã">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Jeikekatu">
@@ -716,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ko kuatiarogue oñeñongatu mohendahápe.">
 <!ENTITY identity.connectionVerified2 "Eikhína tekorosãme ko tendápe, mba'eteépe:">
 <!ENTITY identity.connectionInternal "Kóva &brandShortName; jeroviáva; kuatiarogue.">
+
 <!ENTITY identity.insecureLoginForms2 "Ojehaiva'ekue jeike hag̃ua ko kuatiaroguépe oñemondakuaa.">
 <!-- Strings for connection state warnings. -->
 
@@ -814,8 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Reipotavépa tembipuru?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eiporavo hetaiterei moimbaha apytégui">
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
-<!ENTITY customizeMode.toolbars "Tembipuru renda hechauka / mokañy">
+
 <!ENTITY customizeMode.titlebar "Teratee renda">
+
 <!ENTITY customizeMode.lwthemes "Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.myThemes "Mbojeguaha Aipurúva">
 <!ENTITY customizeMode.lwthemes.recommended "Jeroviaha">
