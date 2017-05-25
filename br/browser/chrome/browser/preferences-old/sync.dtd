@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "D">
 <!ENTITY engine.history.label       "Roll istor">
 <!ENTITY engine.history.accesskey   "R">
-<!ENTITY engine.passwords.label     "Gerioù-tremen">
-<!ENTITY engine.passwords.accesskey "G">
+
+
 <!ENTITY engine.prefs.label         "Gwellvezioù">
 <!ENTITY engine.prefs.accesskey     "G">
 <!ENTITY engine.addons.label        "Askouezhioù">
