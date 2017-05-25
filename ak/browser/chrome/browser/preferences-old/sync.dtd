@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Abakɔsɛm">
 <!ENTITY engine.history.accesskey   "s">
-<!ENTITY engine.passwords.label     "Ehintasɛmfua">
-<!ENTITY engine.passwords.accesskey "E">
+
+
 <!ENTITY engine.prefs.label         "Apɛde">
 <!ENTITY engine.prefs.accesskey     "p">
 <!ENTITY engine.addons.label        "Nkaho">
