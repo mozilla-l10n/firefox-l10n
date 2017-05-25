@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "സുഖമമായ സ്ക്രോളിംങ് ഉപയോഗിക്കുക ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക">
-<!ENTITY allowHWAccel.accesskey          "r">
 
 
 
@@ -119,3 +117,12 @@
 <!ENTITY viewCerts.accesskey             "ക">
 <!ENTITY viewSecurityDevices.label       "സുരക്ഷാ ഉപകരണങ്ങള്‍ ">
 <!ENTITY viewSecurityDevices.accesskey   "ഉ">
+
+
+
+
+
+
+
+<!ENTITY allowHWAccel.label              "ലഭ്യമാകുമ്പോള്‍ ഹാര്‍ഡ്‌വെയര്‍ ആക്സിലറേഷന്‍ ഉപയോഗിയ്ക്കുക">
+<!ENTITY allowHWAccel.accesskey          "r">
