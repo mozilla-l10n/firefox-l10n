@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Tổng quát">
 
@@ -10,10 +10,6 @@
 
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
-
-
 <!ENTITY useOnScreenKeyboard.label       "Hiện bàn phím cảm ứng khi cần thiết">
 <!ENTITY useOnScreenKeyboard.accesskey   "b">
 
@@ -23,10 +19,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey    "y">
-<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
-<!ENTITY allowHWAccel.accesskey          "h">
-
-
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
@@ -36,8 +28,6 @@
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
-
-
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
 <!ENTITY crashReporterDesc2.label         "Báo cáo lỗi giúp &vendorShortName; sửa lỗi và giúp trình duyệt của bạn an toàn và ổn định hơn">
@@ -56,11 +46,8 @@
 <!ENTITY httpCache.label                 "Nội dung web đã được cached">
 
 <!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
+
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
-
-
-
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -68,7 +55,6 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Giới hạn bộ đệm còn">
 <!ENTITY limitCacheSizeBefore.accesskey  "G">
 <!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
@@ -81,20 +67,20 @@
 
 <!ENTITY updateTab.label                 "Cập nhật">
 
-
-
-
-
-
-
-
-
+<!-- LOCALIZATION NOTE (updateApplication.label):
+  Strings from aboutDialog.dtd are displayed in this section of the preferences.
+  Please check for possible accesskey conflicts.
+-->
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
 
 
 <!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
 <!ENTITY useService.accesskey            "n">
-
-
 
 
 
@@ -108,10 +94,7 @@
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
-
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
-
-
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "Truy vấn máy chủ đáp ứng giao thức OCSP để xác minh hiệu lực của các chứng thư">
 <!ENTITY enableOCSP.accesskey            "T">
@@ -119,3 +102,6 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Thiết bị bảo mật">
 <!ENTITY viewSecurityDevices.accesskey   "T">
+
+<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
+<!ENTITY allowHWAccel.accesskey          "h">
