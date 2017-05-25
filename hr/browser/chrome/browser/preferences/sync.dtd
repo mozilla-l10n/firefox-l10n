@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Povijest">
 <!ENTITY engine.history.accesskey   "j">
-<!ENTITY engine.passwords.label     "Lozinke">
-<!ENTITY engine.passwords.accesskey "L">
+
+
 <!ENTITY engine.prefs.label         "Osobitosti">
 <!ENTITY engine.prefs.accesskey     "O">
 <!ENTITY engine.addons.label        "Dodaci">
