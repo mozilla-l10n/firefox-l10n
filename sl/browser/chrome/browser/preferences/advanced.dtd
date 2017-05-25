@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "Učinkovitost">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Uporabi priporočene nastavitve učinkovitosti">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Te nastavitve so prikrojene strojni opremi in operacijskemu sistemu vašega računalnika.">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Več o tem">
 <!ENTITY limitContentProcess2.label       "Omejitev procesov vsebine">
