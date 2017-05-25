@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gerir utilização de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Alterar se deseja ou não receber notificações do site">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Armazenar dados em armazenamento persistente">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "O navegador está sob controlo remoto">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gerir a partilha da sua câmara e/ou microfone com o site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gerir a partilha do seu microfone com o site">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Limpar histórico recente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sessão anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver barra lateral do histórico">
+<!ENTITY appMenuHelp.label "Ajuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menu de ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Separadores sincronizados">
@@ -417,7 +419,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sim">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Dica:">
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Obtenha ajuda a encontrar coisas! Procure pela &#x1F50E; ao lado das sugestões de pesquisa.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Alterar opções…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "A">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Alterar preferências…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "A">
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Criar marcador para este frame">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Copiar URL">
 <!ENTITY emailPageCmd.label           "Enviar ligação por email…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Guardar página como…">
@@ -656,6 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fechar barra lateral">
+<!ENTITY sidebarMenuClose.label         "Fechar barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Sair">
 <!ENTITY quitApplicationCmdWin2.accesskey   "r">
@@ -718,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Esta página está guardada no seu computador.">
 <!ENTITY identity.connectionVerified2 "Está ligado de forma segura a este site, propriedade de:">
 <!ENTITY identity.connectionInternal "Esta é uma página segura do &brandShortName;.">
+<!ENTITY identity.extensionPage "Esta página é carregada de uma extensão.">
 <!ENTITY identity.insecureLoginForms2 "Credenciais introduzidas nesta página podem ser comprometidas.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Quer mais ferramentas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Escolha de entre milhares de extras">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predefinições">
-<!ENTITY customizeMode.toolbars "Mostrar/ocultar barras de ferramentas">
+<!ENTITY customizeMode.done "Feito">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barras de ferramentas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Os meus temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
@@ -931,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Agora não">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label "Reiniciar o &brandShorterName; para aplicar a atualização">
+<!ENTITY updateRestart.panelUI.label2 "Reiniciar para atualizar o &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
