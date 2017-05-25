@@ -124,9 +124,10 @@
 <!ENTITY viewSecurityDevices.label       "Taq okisaxel richin jikomal">
 <!ENTITY viewSecurityDevices.accesskey   "o">
 
-
-
-
+<!ENTITY performance.label               "Rub'eyal nisamäj">
+<!ENTITY useRecommendedPerformanceSettings.label "Tokisäx runuk'ulem rub'eyal nisamäj chilab'en pe">
+<!ENTITY useRecommendedPerformanceSettings.description "Re taq nuk'ulem re' nikik'äm ki' kik'in ri ch'akulakem chuqa' rik'in ri samajel ruq'inoj akematz'ib'.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "T">
 
 
 

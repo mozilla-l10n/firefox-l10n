@@ -423,10 +423,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Pixa':">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "¡Tak'ulu' ato'ik richin ye'akanoj taq wachinäq! Takanoj ri &#x1F50E; rik'in kichilab'exik taq konob'äl.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Kek'ex taq Cha'oj…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "K">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Kek'ex Taq Ajowab'äl…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -540,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Titz'aqatisäx re ruchi' kajtz'ik re' pa taq etal">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "e">
-
+<!ENTITY copyURLCmd.label             "Tiwachib'ëx URL">
 <!ENTITY emailPageCmd.label           "Titaq ximonel tzij…">
 <!ENTITY emailPageCmd.accesskey       "T">
 <!ENTITY savePageCmd.label            "Tiyak ruxaq achi'el…">
@@ -667,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "R">
 
 <!ENTITY sidebarCloseButton.tooltip     "Titz'apïx ajxikin kajtz'ik">
-
+<!ENTITY sidebarMenuClose.label         "Titz'apïx ajxikin">
 
 <!ENTITY quitApplicationCmdWin2.label       "Tel">
 <!ENTITY quitApplicationCmdWin2.accesskey   "e">
@@ -722,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ruya'ik taq soltzij…">
 <!ENTITY spellAddDictionaries.accesskey "R">
 
+<!ENTITY editBookmark.done.label                     "K'isoj">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ütz Okem">
@@ -729,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Re ruxaq k'amaya'l re' yakon pan akematz'ib'.">
 <!ENTITY identity.connectionVerified2 "Ütz ri awokem pa re ruxaq k'amaya'l re', samajib'en ruma:">
 <!ENTITY identity.connectionInternal "Re re' ütz chi &brandShortName; ruxaq.">
-
+<!ENTITY identity.extensionPage "Re jun ruxaq k'amaya'l re' nisamajib'ëx pa jun k'amal.">
 <!ENTITY identity.insecureLoginForms2 "Kitikirib'al taq molojri'ïl etz'ib'an pa re ruxaq k'amaya'l re' rik'in jub'a' ye'itzelan.">
 <!-- Strings for connection state warnings. -->
 
@@ -828,9 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "¿La nawajo' ch'aqa' chik taq samajib'äl?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kacha'on chi kikojol k'ïy taq tz'aqat">
 <!ENTITY customizeMode.restoreDefaults "Ke'atzolij ri taq wachinel e k'o wi">
-
+<!ENTITY customizeMode.done "K'isoj">
 <!ENTITY customizeMode.titlebar "Rub'i' molsamaj">
-
+<!ENTITY customizeMode.toolbars2 "Taq cholsamajib'äl">
 <!ENTITY customizeMode.lwthemes "Taq wachinel">
 <!ENTITY customizeMode.lwthemes.myThemes "Taq nuwachinel">
 <!ENTITY customizeMode.lwthemes.recommended "Taq chilab'exïk">
@@ -944,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "T">
 <!ENTITY updateRestart.cancelButton.label "Wakami mani">
 <!ENTITY updateRestart.cancelButton.accesskey "m">
-
+<!ENTITY updateRestart.panelUI.label2 "Titikirisäx chik richin nik'ex &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
