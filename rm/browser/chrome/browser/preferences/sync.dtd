@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "la cronologia">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "ils pleds-clav">
-<!ENTITY engine.passwords.accesskey "P">
 <!ENTITY engine.prefs.label         "las preferenzas">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "ils supplements">
