@@ -129,7 +129,7 @@
 <!ENTITY prefs_options_autoclosebrackets "סגירת סוגריים אוטומטית">
 <!ENTITY prefs_options_autoclosebrackets_tooltip "להכניס באופן אוטומטי את סגירת הסוגריים">
 <!ENTITY prefs_options_keybindings "קיצורי מקשים">
-<!ENTITY prefs_options_keybindings_default "ברירת מחדל">
+<!ENTITY prefs_options_keybindings_default "בררת מחדל">
 <!ENTITY prefs_options_autosavefiles "שמירת קבצים באופן אוטומטי">
 <!ENTITY prefs_options_autosavefiles_tooltip "שמירת קבצים שנערכו באופן אוטומטי לפני הפעלת פרויקט">
 

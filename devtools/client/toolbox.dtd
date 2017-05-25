@@ -207,4 +207,4 @@
 <!ENTITY options.sourceeditor.tabsize.accesskey         "ג">
 <!ENTITY options.sourceeditor.keybinding.label          "קיצורי מקשים">
 <!ENTITY options.sourceeditor.keybinding.accesskey      "ק">
-<!ENTITY options.sourceeditor.keybinding.default.label  "ברירת מחדל">
+<!ENTITY options.sourceeditor.keybinding.default.label  "בררת מחדל">
