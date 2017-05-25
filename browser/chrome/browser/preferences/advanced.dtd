@@ -138,17 +138,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "z">
 
 <!ENTITY performance.label               "Výkon">
-<!ENTITY useRecommendedPerformanceSettings.label
-                                         "Použiť odporúčané nastavenia výkonu">
-<!ENTITY useRecommendedPerformanceSettings.description
-                                         "Odporúčané nastavenia výkonu sú šité na mieru vášmu počítaču.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey
-                                         "u">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ďalšie informácie">
-<!ENTITY limitContentProcess.label       "Limit procesov obsahu">
-<!ENTITY limitContentProcess.description
-                                         "Vďaka viacerým procesom obsahu môže aplikácia &brandShortName; pri otvorení viacerých kariet lepšie reagovať, skonzumuje však viac pamäte.">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey          "h">

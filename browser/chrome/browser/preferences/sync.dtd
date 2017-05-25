@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "K">
 <!ENTITY engine.history.label       "História prehliadania">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Heslá">
-<!ENTITY engine.passwords.accesskey "e">
 <!ENTITY engine.prefs.label         "Nastavenia">
 <!ENTITY engine.prefs.accesskey     "N">
 <!ENTITY engine.addons.label        "Doplnky">
