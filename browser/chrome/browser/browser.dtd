@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Fetola gore a o kgona go amogela dikitsiso gotsweng mo saeteng">
 
 
+
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Laola kabelano ya sekapa-ditshwantsho le/kgotsa sekapa-mantswe le saete">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Laola kabelano ya sekapa-mantswe sa gago le saete">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Laola kabelano ya windows kgotsa sekerini sa gago le saete">
@@ -298,7 +299,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "S"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Kgomaretsa">  
 <!ENTITY pasteCmd.key           "V">  
@@ -346,6 +347,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Phimola Ditiragalo tsa ga jaana...">
 <!ENTITY appMenuHistory.restoreSession.label "Busetsa botlameladikopanelwa jo bo fetileng">
 <!ENTITY appMenuHistory.viewSidebar.label "Barathoko ya Tebo ya Ditiragalo tse di difetileng">
+
 <!ENTITY appMenuHelp.tooltip "Bula Menu wa Thuso">
 
 <!ENTITY appMenuRemoteTabs.label "Rulaganya ka tsamaisano Dithebe">
@@ -407,7 +409,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ee">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -519,6 +527,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Tshwayatsebe Foreime e">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "T">
+
 <!ENTITY emailPageCmd.label           "Kgokagano ya Imeile...">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Boloka Tsebe Jaaka…">
@@ -645,6 +654,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Tswala Barathoko">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Tswaya">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Tswaya &brandShorterName;">
@@ -698,7 +708,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Tsenya Dithanodi...">
 <!ENTITY spellAddDictionaries.accesskey "T">
 
-<!ENTITY editBookmark.done.label                     "Feditse">
 
 
 <!ENTITY identity.connectionSecure "Kgolagano e Sireletsegileng">
@@ -706,6 +715,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Tsebe eno e bolokilwe mo khomputareng ya gago.">
 
 <!ENTITY identity.connectionInternal "Ke e sireletsegileng &brandShortName; tsebe.">
+
 
 <!-- Strings for connection state warnings. -->
 
@@ -795,8 +805,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "O batla didirisiwa tse dintsi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Tlhopha go tswa mo Diketeng tsa Dioketswa">
 <!ENTITY customizeMode.restoreDefaults "Busetsa Thulaganyetsoruri">
-<!ENTITY customizeMode.toolbars "Supa/ Fitlha Bara ya didiriswa">
+
 <!ENTITY customizeMode.titlebar "Bara ya Setlhogo">
+
 <!ENTITY customizeMode.lwthemes "Dimorago">
 <!ENTITY customizeMode.lwthemes.myThemes "Dimorago Tsame">
 <!ENTITY customizeMode.lwthemes.recommended "E beilwe fa pele">
