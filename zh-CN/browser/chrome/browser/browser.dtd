@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "管理插件使用">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "更改您是否接收该网站发来的通知">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "在持久存储中存储数据">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "浏览器正被远程控制">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "管理您是否与该网站共享摄像头和麦克风">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "管理您是否与该网站共享麦克风">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "清除最近的历史记录…">
 <!ENTITY appMenuHistory.restoreSession.label "恢复上一次会话">
 <!ENTITY appMenuHistory.viewSidebar.label "查看历史记录侧栏">
+<!ENTITY appMenuHelp.label "帮助">
 <!ENTITY appMenuHelp.tooltip "打开帮助菜单">
 
 <!ENTITY appMenuRemoteTabs.label "受同步的标签页">
@@ -419,7 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "提示：">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "更改选项…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "更改首选项…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "为此框架添加书签">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "复制网址">
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "将页面另存为…">
@@ -658,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "关闭侧栏">
+<!ENTITY sidebarMenuClose.label         "关闭侧栏">
 
 <!ENTITY quitApplicationCmdWin2.label       "退出">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -720,6 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "此页面存储在您的计算机上。">
 <!ENTITY identity.connectionVerified2 "您已安全连接至此网站。网站所有者：">
 <!ENTITY identity.connectionInternal "这是安全的 &brandShortName; 页面。">
+<!ENTITY identity.extensionPage "此页面加载自一个扩展。">
 <!ENTITY identity.insecureLoginForms2 "在此网页上输入的登录信息可能会泄露。">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +828,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "想要更多的工具？">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "来千上万的附加组件中挑选吧">
 <!ENTITY customizeMode.restoreDefaults "恢复默认设置">
+<!ENTITY customizeMode.done "完成">
 <!ENTITY customizeMode.titlebar "标题栏">
+<!ENTITY customizeMode.toolbars2 "工具栏">
 <!ENTITY customizeMode.lwthemes "主题">
 <!ENTITY customizeMode.lwthemes.myThemes "我的主题">
 <!ENTITY customizeMode.lwthemes.recommended "推荐">
@@ -932,5 +944,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "暂时不要">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "重启以更新 &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "页面动作">
