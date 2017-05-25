@@ -10,8 +10,6 @@
 <!ENTITY engine.tabs.accesskey      "O">
 <!ENTITY engine.history.label       "Historique">
 <!ENTITY engine.history.accesskey   "r">
-<!ENTITY engine.passwords.label     "Mots de passe">
-<!ENTITY engine.passwords.accesskey "p">
 <!ENTITY engine.prefs.label         "Préférences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Modules complémentaires">
