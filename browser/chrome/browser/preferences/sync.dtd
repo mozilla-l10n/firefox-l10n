@@ -10,8 +10,8 @@
 
 <!ENTITY engine.history.label       "Umlando">
 <!ENTITY engine.history.accesskey   "d">
-<!ENTITY engine.passwords.label     "Amagama wokungena">
-<!ENTITY engine.passwords.accesskey "A">
+
+
 <!ENTITY engine.prefs.label         "Okuthandwayo">
 <!ENTITY engine.prefs.accesskey     "t">
 <!ENTITY engine.addons.label        "Nokungezwayo">

@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+
 <!ENTITY searchItem.title             "Sesha">
 <!-- Toolbar items -->
 
@@ -283,7 +284,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
 
-<!ENTITY copyCmd.key            "C">  
+
 
 <!ENTITY pasteCmd.label           "Namathisela">  
 <!ENTITY pasteCmd.key           "V">  
@@ -321,6 +322,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Yenza ngokwezifiso">
+
 
 
 
@@ -384,7 +386,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Yebo">
 
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+
+
+
+
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -487,6 +495,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "x">
 <!ENTITY bookmarkThisFrameCmd.label      "Phawula lolu hlaka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
+
 <!ENTITY emailPageCmd.label           "Imeyila isixhumanisi…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Gcina ikhasi ngokuthi…">
@@ -613,6 +622,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha yasohlangothini">
 
+
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
 
@@ -665,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Yengeza izichazamazwi…">
 <!ENTITY spellAddDictionaries.accesskey "Y">
 
-<!ENTITY editBookmark.done.label                     "Kwenziwe">
+
 
 
 
@@ -744,6 +754,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncToolbarButton.label      "i-Sync">
 
 <!ENTITY social.addons.label "Phatha amasevisi…">
+
 
 
 
