@@ -95,9 +95,9 @@
 <!ENTITY updateApplication.version.pre   "الإصدارة ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
-<!ENTITY updateAuto2.label               "يثبّت التحديثات تلقائيًا (ينصح به لزيادة الأمان)">
+<!ENTITY updateAuto2.label               "ينصّب التحديثات تلقائيًا (ينصح به لزيادة الأمان)">
 <!ENTITY updateAuto2.accesskey           "ح">
-<!ENTITY updateCheckChoose2.label        "يلتمس التحديثات، و لكن يترك لك خيار تثبيتها من عدمه">
+<!ENTITY updateCheckChoose2.label        "يلتمس التحديثات، و لكن يترك لك خيار تنصيبها من عدمه">
 <!ENTITY updateCheckChoose2.accesskey    "ت">
 <!ENTITY updateManual2.label             "لا يلتمس التحديثات أبدًا (غير منصوح به)">
 <!ENTITY updateManual2.accesskey         "د">
@@ -105,7 +105,7 @@
 <!ENTITY updateHistory2.label            "أظهر تأريخ التحديث…">
 <!ENTITY updateHistory2.accesskey        "ظ">
 
-<!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتثبيت التحديثات">
+<!ENTITY useService.label                "استخدم خدمة تعمل في الخلفية لتنصيب التحديثات">
 <!ENTITY useService.accesskey            "خ">
 
 <!ENTITY enableSearchUpdate2.label       "حدّث محركات البحث تلقائيًا">
@@ -138,12 +138,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "ج">
 
 <!ENTITY performance.label               "الأداء">
-<!ENTITY useRecommendedPerformanceSettings.label "استعمل إعدادات الأداء المستحسنة">
-<!ENTITY useRecommendedPerformanceSettings.description "كُيّفت إعدادات الأداء المستحسنة لتناسب حاسوبك.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "س">
+<!ENTITY useRecommendedPerformanceSettings2.label "استعمل إعدادات الأداء المستحسنة">
+<!ENTITY useRecommendedPerformanceSettings2.description "طُوِّعت هذه الإعدادات لتناسب عتاد حاسوبك و نظام تشغيله.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "س">
 <!ENTITY performanceSettingsLearnMore.label "اطّلع على المزيد">
-<!ENTITY limitContentProcess.label       "حد سيرورة المحتوى">
-<!ENTITY limitContentProcess.description "يمكن أن تساهم زيادة سيرورات المحتوى بجعل &brandShortName; أفضل في الاستجابة عند استعمال عدة ألسنة، ولكن ذلك يستهلك ذاكرة أكثر.">
-<!ENTITY limitContentProcess.accesskey   "ح">
+<!ENTITY limitContentProcess2.label       "حد سيرورة المحتوى">
+<!ENTITY limitContentProcess2.description "يمكن أن تساهم زيادة سيرورات المحتوى في تحسين استجابة &brandShortName; عند استعمال عدة ألسنة، و لكن ذلك يستهلك ذاكرة أكثر.">
+<!ENTITY limitContentProcess2.accesskey   "ح">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">

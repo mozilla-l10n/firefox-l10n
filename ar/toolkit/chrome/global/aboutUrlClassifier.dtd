@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "وقت التحديث التالي">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "حالة آخر تحديث">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "حدِّث">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "الخبيئة">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "حدّث">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "امسح">
+<!ENTITY aboutUrlClassifier.cacheTableName              "اسم الجدول">
+
+
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "أظهر المدخلات">
+
+<!ENTITY aboutUrlClassifier.cachePrefix                 "السابقة">
+
+
+
 <!ENTITY aboutUrlClassifier.lookupTitle                 "البحث">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "المسار">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "التطابق">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "تحقق من حالة التطابق">
 <!ENTITY aboutUrlClassifier.lookupLookup                "البحث">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "تحقق من حالة البحث">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "الخبيئة">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "الذاكرة">
 <!ENTITY aboutUrlClassifier.databaseTitle               "قاعدة البيانات">
 <!ENTITY aboutUrlClassifier.debugTitle                  "التنقيح">

@@ -208,18 +208,19 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "افتح لوحة الرسائل">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "افتح لوحة طلب المكان">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "افتح لوحة رسائل تثبيت الإضافات">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "افتح لوحة رسائل تنصيب الإضافات">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "افتح لوحة رسائل مساحة التخزين دون اتصال">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "افتح لوحة رسائل حفظ كلمة السر">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "أدر الملحقات المستخدمة">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "غيّر ما إذا ما كنت تسمح باستلام تنبيهات من الموقع">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "حفظ البيانات في مساحة تخزين دائمة">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "يخضع المتصفح للتحكم عن بعد">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "أدر مشاركة كمرتك و ميكروفونك مع هذا الموقع">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "أدر مشاركة ميكروفونك مع هذا الموقع">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "أدر مشاركة نوافذك أو شاشتك مع هذا الموقع">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "افتح لوحة رسائل التثبيت">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "افتح لوحة رسائل التنصيب">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "ترجم هذه الصفحة">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "أدِر ترجمة الصفحة">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "أدِر استخدام برمجيات إدارة الحقوق الرقمية">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "امسح التأريخ الحالي…">
 <!ENTITY appMenuHistory.restoreSession.label "استعد الجلسة السابقة">
 <!ENTITY appMenuHistory.viewSidebar.label "أظهر شريط التأريخ الجانبي">
+<!ENTITY appMenuHelp.label "مساعدة">
 <!ENTITY appMenuHelp.tooltip "افتح قائمة المساعدة">
 
 <!ENTITY appMenuRemoteTabs.label "الألسنة المُزامنة">
@@ -417,7 +419,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "ل">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "نعم">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "ن">
-<!-- 
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "فائدة:">
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "اعثر على الأشياء أسرع. ابحث عن &#x1F50E; بجوار نتائج البحث.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "غيّر الخيارات…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "غ">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "غيّر التفضيلات…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "غ">
+<!--
   Comment duplicated from browser-sets.inc:
 
   Search Command Key Logic works like this:
@@ -530,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "علِّم هذا الإطار">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ط">
+<!ENTITY copyURLCmd.label             "انسخ المسار">
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
 <!ENTITY savePageCmd.label            "احفظ الصفحة ك‍…">
@@ -656,6 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ر">
 
 <!ENTITY sidebarCloseButton.tooltip     "أغلِق الشريط الجانبي">
+<!ENTITY sidebarMenuClose.label         "أغلِق الشريط الجانبي">
 
 <!ENTITY quitApplicationCmdWin2.label       "اخرج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
@@ -718,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "هذه الصفحة مخزنة على حاسوبك.">
 <!ENTITY identity.connectionVerified2 "تتصل بأمان مع هذا الموقع، و الذي يملكه:">
 <!ENTITY identity.connectionInternal "هذه صفحة &brandShortName; آمنة.">
+<!ENTITY identity.extensionPage "حمِّلت هذه الصفحة من امتداد.">
 <!ENTITY identity.insecureLoginForms2 "معلومات الولوج التي تُدخلها في هذه الصفحة قد تكون مخترقة.">
 <!-- Strings for connection state warnings. -->
 
@@ -816,8 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "أتريد المزيد من الأدوات؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "اختر من آلاف الإضافات">
 <!ENTITY customizeMode.restoreDefaults "استعد الإعدادات المبدئية">
-<!ENTITY customizeMode.toolbars "أظهر \ أخفِ أشرطة الأدوات">
+<!ENTITY customizeMode.done "تمّ">
 <!ENTITY customizeMode.titlebar "شريط العنوان">
+<!ENTITY customizeMode.toolbars2 "أشرطة الأدوات">
 <!ENTITY customizeMode.lwthemes "السِمات">
 <!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
 <!ENTITY customizeMode.lwthemes.recommended "مُزكَّاة">
@@ -931,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "ع">
 <!ENTITY updateRestart.cancelButton.label "ليس الآن">
 <!ENTITY updateRestart.cancelButton.accesskey "ل">
-<!ENTITY updateRestart.panelUI.label "أعد تشغيل &brandShorterName; لتطبيق التحديث">
+<!ENTITY updateRestart.panelUI.label2 "أعد التشغيل لتحديث &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
