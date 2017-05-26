@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použít plynulé posouvání">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Při psaní kontrolovat pravopis">
 <!ENTITY checkUserSpelling.accesskey     "k">
 
@@ -125,3 +123,7 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "Bezpečnostní zařízení">
 <!ENTITY viewSecurityDevices.accesskey   "B">
+
+<!ENTITY performance.label               "Výkon">
+<!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
+<!ENTITY allowHWAccel.accesskey          "h">

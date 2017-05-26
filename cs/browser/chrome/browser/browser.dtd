@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vymazat nedávnou historii…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnovit předchozí relaci">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobrazit v postranní liště">
+<!ENTITY appMenuHelp.label "Nápověda">
 <!ENTITY appMenuHelp.tooltip "Otevře nabídku s nápovědou">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované panely">
@@ -533,6 +534,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Přidat rám do záložek">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
+<!ENTITY copyURLCmd.label             "Kopírovat URL">
 <!ENTITY emailPageCmd.label           "Odeslat odkaz…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Uložit stránku jako…">
@@ -818,7 +820,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete více nástrojů?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Zvolte si některý z tisíce doplňků">
 <!ENTITY customizeMode.restoreDefaults "Obnovit výchozí">
+<!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Hlavička okna">
+<!ENTITY customizeMode.toolbars2 "Nástrojové lišty">
 <!ENTITY customizeMode.lwthemes "Motivy">
 <!ENTITY customizeMode.lwthemes.myThemes "Mé motivy">
 <!ENTITY customizeMode.lwthemes.recommended "Doporučené">
@@ -932,5 +936,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teď ne">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label2 "Restartovat a aktualizovat aplikaci &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Akce stránky">
