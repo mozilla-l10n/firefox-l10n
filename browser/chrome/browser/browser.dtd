@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Rheoli defnydd ategion">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Newid p'un ai rydych yn derbyn hysbysiadau o'r wefan">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Cadw data mewn Storfa Barhaus">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Mae'r porwr o dan reolaeth bell">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Rheoli rhannu eich camera a/neu feicroffon gyda'r wefan">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Rheoli rhannu eich meicroffon gyda'r wefan">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copïo">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Gludo">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Clirio Hanes Diweddar…">
 <!ENTITY appMenuHistory.restoreSession.label "Adfer y Sesiwn Flaenorol">
 <!ENTITY appMenuHistory.viewSidebar.label "Gweld Bar Ochr Hanes">
-
+<!ENTITY appMenuHelp.label "Cymorth">
 <!ENTITY appMenuHelp.tooltip "Agor Dewislen Cymorth">
 
 <!ENTITY appMenuRemoteTabs.label "Tabiau wedi'u Cydweddu">
@@ -420,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Iawn">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "i">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Awgrym:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Derbyniwch gymorth wrth canfod pethau! Chwiliwch yn yr &#x1F50E; nesaf i'r awgrymiadau chwilio.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Newid Dewisiadau…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "N">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Newid Dewisiadau…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "D">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -538,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
-
+<!ENTITY copyURLCmd.label             "Copïo URL">
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
@@ -665,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "h">
 
 <!ENTITY sidebarCloseButton.tooltip     "Cau'r bar ochr">
-
+<!ENTITY sidebarMenuClose.label         "Cau'r Bar Ochr">
 
 <!ENTITY quitApplicationCmdWin2.label       "Gadael">
 <!ENTITY quitApplicationCmdWin2.accesskey   "G">
@@ -720,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ychwanegu Geiriaduron…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
+<!ENTITY editBookmark.done.label                     "Gorffen">
 <!ENTITY editBookmark.removeBookmark.accessKey       "T">
 
 <!ENTITY identity.connectionSecure "Cysylltiad Pell">
@@ -727,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Mae'r dudalen hon wedi ei chadw ar eich cyfrifiadur.">
 <!ENTITY identity.connectionVerified2 "Rydych wedi eich cysylltu'n ddiogel â'r wefan hon, sy'n cael ei redeg gan:">
 <!ENTITY identity.connectionInternal "Mae hon yn dudalen &brandShortName; diogel.">
-
+<!ENTITY identity.extensionPage "Mae'r dudalen wedi ei llwytho o estyniad">
 <!ENTITY identity.insecureLoginForms2 "Gall mewngofnodion sy'n cael eu cyflwyno ar y dudalen hon gael eu cyfaddawdu.">
 <!-- Strings for connection state warnings. -->
 
@@ -826,9 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Angen rhagor o offer?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Dewiswch o filoedd o ychwanegion">
 <!ENTITY customizeMode.restoreDefaults "Adfer y Rhagosodiadau">
-
+<!ENTITY customizeMode.done "Gorffen">
 <!ENTITY customizeMode.titlebar "Bar Teitl">
-
+<!ENTITY customizeMode.toolbars2 "Barrau Offer">
 <!ENTITY customizeMode.lwthemes "Themâu">
 <!ENTITY customizeMode.lwthemes.myThemes "Fy Thema">
 <!ENTITY customizeMode.lwthemes.recommended "Cymeradwy">
@@ -942,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Nid Nawr">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
