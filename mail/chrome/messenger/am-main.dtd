@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "s">
 <!ENTITY smtpDefaultServer.label "Standertserver brûke">
 
+<!ENTITY smtpServerEdit.label "SMTP-server bewurkje…">
+<!ENTITY smtpServerEdit.accesskey "P">
