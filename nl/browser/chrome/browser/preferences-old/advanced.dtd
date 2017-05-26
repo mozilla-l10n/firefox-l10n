@@ -131,6 +131,8 @@
                                          "Deze instellingen zijn afgestemd op de hardware en het besturingssysteem van uw computer.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "A">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Meer info">
 <!ENTITY limitContentProcess.label       "Limiet van inhoudsprocessen">
 <!ENTITY limitContentProcess.description
                                          "Extra inhoudsprocessen kunnen de prestaties van &brandShortName; bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.">
