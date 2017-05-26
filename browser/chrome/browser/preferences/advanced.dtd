@@ -138,7 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "б">
 
 <!ENTITY performance.label               "Прадукцыйнасць">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Выкарыстоўваць рэкамендаваныя налады прадукцыйнасці">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Гэтыя налады падабраны адмыслова для вашага камп'ютара і аперацыйнай сістэмы.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "ы">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Падрабязней">
+<!ENTITY limitContentProcess2.label       "Абмежаванне колькасці працэсаў">
+<!ENTITY limitContentProcess2.description
+                                         "Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць &brandShortName; пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.">
+<!ENTITY limitContentProcess2.accesskey   "а">
 <!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">
