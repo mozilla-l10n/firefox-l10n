@@ -39,8 +39,8 @@
 <!ENTITY telemetryLearnMore.label        "Nong ngec mapol">
 
 <!ENTITY crashReporterDesc2.label         "Ripot me poto konyo &vendorShortName; me yubo bal ki weko layeny mamegi cung matek dok ki ber bedo">
-<!ENTITY alwaysSubmitCrashReports.label   "Ye &brandShortName; me cwalo ripot me poto ma odure pi in">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.label   "Yee &brandShortName; me cwalo ripot me poto ma odure pi in">
+<!ENTITY alwaysSubmitCrashReports.accesskey "d">
 <!ENTITY crashReporterLearnMore.label     "Nong ngec mapol">
 
 <!ENTITY networkTab.label                "Kube">

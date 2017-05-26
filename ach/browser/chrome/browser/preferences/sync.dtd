@@ -51,7 +51,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signIn.accesskey            "o">
 <!ENTITY profilePicture.tooltip      "Lok cal me propwail">
 <!ENTITY verifiedManage.label        "Lo Akaunt">
-<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY verifiedManage.accesskey    "a">
 <!ENTITY disconnect3.label           "Juk kube…">
 <!ENTITY disconnect3.accesskey       "J">
 <!ENTITY verify.label                "Mok ada pa email">
