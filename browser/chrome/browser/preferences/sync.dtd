@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Sejarah">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Log masuk">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Keutamaan">
 <!ENTITY engine.prefs.accesskey     "a">
 <!ENTITY engine.addons.label        "Add-ons">
