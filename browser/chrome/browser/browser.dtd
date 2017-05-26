@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Ачысціць нядаўнюю гісторыю…">
 <!ENTITY appMenuHistory.restoreSession.label "Аднавіць папярэдні сеанс">
 <!ENTITY appMenuHistory.viewSidebar.label "Паказаць панэль гісторыі">
+<!ENTITY appMenuHelp.label "Даведка">
 <!ENTITY appMenuHelp.tooltip "Адкрыць меню даведкі">
 
 <!ENTITY appMenuRemoteTabs.label "Сінхранізаваныя карткі">
@@ -419,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "т">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Парада:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
@@ -533,6 +535,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Дадаць закладку на гэту рамку">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
+<!ENTITY copyURLCmd.label             "Капіяваць URL">
 <!ENTITY emailPageCmd.label           "Даслаць спасылку эл.поштай…">
 <!ENTITY emailPageCmd.accesskey       "с">
 <!ENTITY savePageCmd.label            "Захаваць старонку як…">
@@ -658,6 +661,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "П">
 
 <!ENTITY sidebarCloseButton.tooltip     "Закрыць бакавую панэль">
+<!ENTITY sidebarMenuClose.label         "Закрыць бакавую панэль">
 
 <!ENTITY quitApplicationCmdWin2.label       "Выйсці">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ы">
@@ -818,7 +822,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Хочаце іншыя прылады?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберыце з тысяч дадаткаў">
 <!ENTITY customizeMode.restoreDefaults "Аднавіць прадвызначаныя">
+<!ENTITY customizeMode.done "Гатова">
 <!ENTITY customizeMode.titlebar "Панэль загалоўка">
+<!ENTITY customizeMode.toolbars2 "Паліцы прылад">
 <!ENTITY customizeMode.lwthemes "Тэмы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мае тэмы">
 <!ENTITY customizeMode.lwthemes.recommended "Рэкамендаваныя">
@@ -932,5 +938,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "К">
 <!ENTITY updateRestart.cancelButton.label "Не зараз">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateRestart.panelUI.label2 "Перазапуск для абнаўлення &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
