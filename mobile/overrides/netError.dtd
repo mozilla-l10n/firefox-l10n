@@ -27,7 +27,7 @@
 <!ENTITY fileAccessDenied.title "مُنِع الوصول للملف">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>قد يكون حُذِف أو نُقِل أو أن صلاحيّات الملف تمنع الوصول إليه.</li> </ul>">
 
-<!ENTITY generic.title "أخ!">
+<!ENTITY generic.title "عذرا.">
 <!ENTITY generic.longDesc "<p>لا يستطيع &brandShortName; تحميل هذه الصفحة لسبب ما.</p>">
 
 <!ENTITY malformedURI.title "العنوان غير صالح">
