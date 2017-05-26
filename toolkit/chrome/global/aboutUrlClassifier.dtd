@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Tiid fan folgjende fernijing">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Steat fan lêste fernijing">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Bywurkje">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Fernije">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Wiskje">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabelnamme">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Oantal negative-bufferfermeldingen">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Oantal positive-bufferfermeldingen">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Fermeldingen toane">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Bufferfermeldingen">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Foarheaksel">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Ferrin fan negative buffer">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Folsleine hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Ferrin fan positive buffer">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Opsykje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Oerienkomst">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat fan oerienkomst kontrolearje">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Opsykje">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat fan opsykjen kontrolearje">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Unthâld">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debugge">
