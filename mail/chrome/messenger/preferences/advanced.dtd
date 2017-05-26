@@ -55,18 +55,21 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+
+<!ENTITY updateApp2.label                "تحديثات &brandShortName;:">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
-<!ENTITY updateApp.version.post          "">
-<!ENTITY updateAuto.label                "نصّب التحديثات آليًا (منصوح به: يزيد الأمان)">
+<!ENTITY updateApp.version.pre           "الإصدارة ">
+<!ENTITY updateApp.version.post          "​">
+<!ENTITY updateAuto.label                "نصّب التحديثات آليًا (مستحسن: يزيد الأمان)">
 <!ENTITY updateAuto.accesskey            "ل">
 <!ENTITY updateCheck.label               "التمس التحديثات، و لكن اترك لي خيار تنصيبها من عدمه">
 <!ENTITY updateCheck.accesskey           "ت">
-<!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير منصوح به: مجازفة أمنية)">
+<!ENTITY updateManual.label              "لا تلتمس التحديثات أبدًا (غير مستحسن: مجازفة أمنية)">
 <!ENTITY updateManual.accesskey          "د">
 <!ENTITY updateHistory.label             "أظهر تأريخ التحديث">
 <!ENTITY updateHistory.accesskey         "ظ">
