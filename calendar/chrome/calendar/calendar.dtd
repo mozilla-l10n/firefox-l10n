@@ -60,10 +60,10 @@
 <!ENTITY calendar.today.button.tooltip          "اذهب الى اليوم" >
 <!ENTITY calendar.todaypane.button.tooltip      "أظهر لوحة اليوم" >
 
-<!ENTITY calendar.day.button.tooltip            "بدّل إلى منظور اليوم" >
-<!ENTITY calendar.week.button.tooltip           "بدّل إلى منظور الأسبوع" >
-<!ENTITY calendar.month.button.tooltip          "بدّل إلى منظور الشهر" >
-<!ENTITY calendar.multiweek.button.tooltip      "بدّل إلى منظور الأسابيع المتعددة" >
+<!ENTITY calendar.day.button.tooltip            "انتقل إلى منظور اليوم" >
+<!ENTITY calendar.week.button.tooltip           "انتقل إلى منظور الأسبوع" >
+<!ENTITY calendar.month.button.tooltip          "انتقل إلى منظور الشهر" >
+<!ENTITY calendar.multiweek.button.tooltip      "انتقل إلى منظور الأسابيع المتعددة" >
 
 <!ENTITY calendar.nextday.label                 "اليوم التالي" >
 <!ENTITY calendar.prevday.label                 "اليوم السابق" >
