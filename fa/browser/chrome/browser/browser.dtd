@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ب"> 
 <!ENTITY copyCmd.label            "رونوشت‌">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "ر"> 
 <!ENTITY pasteCmd.label           "چسباندن">  
 <!ENTITY pasteCmd.key           "V">  
@@ -425,9 +425,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "برای پیدا کردن چیزی کمک بگیرید! اینجا را ببینید &#x1F50E; بعد از پیشنهادات جست‌وجو.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "تغییر گزینه‌ها…">
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "تغییر ترجیحات…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -541,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ش">
 <!ENTITY bookmarkThisFrameCmd.label      "نشانک‌گذاری این چارچوب">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ش">
-
+<!ENTITY copyURLCmd.label             "رونوشت از نشانی وب">
 <!ENTITY emailPageCmd.label           "ایمیل کردن پیوند...">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY savePageCmd.label            "ذخیرهٔ صفحه به نام…">
@@ -668,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ز">
 
 <!ENTITY sidebarCloseButton.tooltip     "بستن نوار کناری">
-
+<!ENTITY sidebarMenuClose.label         "بستن نوار کناری">
 
 <!ENTITY quitApplicationCmdWin2.label       "خروج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
@@ -723,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "افزودن واژه‌نامه…">
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
+<!ENTITY editBookmark.done.label                     "انجام شد">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "اتصال امن">
@@ -730,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
 <!ENTITY identity.connectionVerified2 "شما بطور امن به این سایت متصل شده‌اید، متعلق به:">
 <!ENTITY identity.connectionInternal "این یک صفحۀ امن &brandShortName; است.">
-
+<!ENTITY identity.extensionPage "این صفحه توسط یک افزونه بارگیری شده است.">
 <!ENTITY identity.insecureLoginForms2 "اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.">
 <!-- Strings for connection state warnings. -->
 
@@ -829,9 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ابزار بیشتری می خواهید؟">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "از بین هزاران افرونه انتخاب کنید">
 <!ENTITY customizeMode.restoreDefaults "بازگرداندن پیش‌فرض‌ها">
-
+<!ENTITY customizeMode.done "انجام شد">
 <!ENTITY customizeMode.titlebar "نوار عنوان">
-
+<!ENTITY customizeMode.toolbars2 "نوار ابزارها">
 <!ENTITY customizeMode.lwthemes "تم و زمینه ها">
 <!ENTITY customizeMode.lwthemes.myThemes "زمینه های من">
 <!ENTITY customizeMode.lwthemes.recommended "پیشنهاد شده">
