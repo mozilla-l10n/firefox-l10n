@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "s">
 <!ENTITY engine.history.label       "Geçmiş">
 <!ENTITY engine.history.accesskey   "G">
+<!ENTITY engine.logins.label        "Hesaplar">
+<!ENTITY engine.logins.accesskey    "H">
 <!ENTITY engine.prefs.label         "Tercihler">
 <!ENTITY engine.prefs.accesskey     "T">
 <!ENTITY engine.addons.label        "Eklentiler">

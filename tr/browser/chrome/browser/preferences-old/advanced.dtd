@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Akıcı kaydırmayı kullan">
 <!ENTITY useSmoothScrolling.accesskey    "c">
-<!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Yazarken yazım denetimi yap">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Güvenlik aygıtları">
 <!ENTITY viewSecurityDevices.accesskey   "G">
+
+<!ENTITY performance.label               "Performans">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Önerilen performans ayarlarını kullan">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Bu ayarlar bilgisayarınızın donanımına ve işletim sistemine göre seçilmiştir.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "Ö">
+<!ENTITY limitContentProcess.label       "İçerik işlemi sınırı">
+<!ENTITY limitContentProcess.description
+                                         "Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken &brandShortName; tarayıcınızın performansı artar ama daha fazla bellek kullanılır.">
+<!ENTITY limitContentProcess.accesskey   "n">
+<!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
+<!ENTITY allowHWAccel.accesskey          "d">
