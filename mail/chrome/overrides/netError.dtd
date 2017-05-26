@@ -49,7 +49,7 @@
 <!ENTITY netReset.title "S'ha reiniciat la connexió">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "La connexió no respon">
+<!ENTITY netTimeout.title "S'ha esgotat el temps d'espera de la connexió">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "No s'ha entès l'adreça">
