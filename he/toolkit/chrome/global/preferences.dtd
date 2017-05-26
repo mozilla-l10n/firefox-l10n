@@ -5,5 +5,5 @@
 <!ENTITY  windowClose.key                         "w">
 <!ENTITY  preferencesDefaultTitleMac.title        "העדפות">
 <!ENTITY  preferencesDefaultTitleWin.title        "אפשרויות">
-<!ENTITY  preferencesCloseButton.label            "סגור">
+<!ENTITY  preferencesCloseButton.label            "סגירה">
 <!ENTITY  preferencesCloseButton.accesskey        "ס">

@@ -24,7 +24,7 @@
 <!ENTITY printCmd.label "הדפסה...">
 <!ENTITY printCmd.accesskey "ד">
 <!ENTITY printCmd.commandkey "P">
-<!ENTITY closeCmd.label "סגור">
+<!ENTITY closeCmd.label "סגירה">
 <!ENTITY closeCmd.accesskey "ג">
 <!ENTITY closeCmd.commandkey "W">
 

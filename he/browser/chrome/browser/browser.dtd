@@ -121,7 +121,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fullScreenMinimize.tooltip "מזער">
 <!ENTITY fullScreenRestore.tooltip "שחזר">
-<!ENTITY fullScreenClose.tooltip "סגור">
+<!ENTITY fullScreenClose.tooltip "סגירה">
 <!ENTITY fullScreenAutohide.label "הסתרת סרגלים">
 <!ENTITY fullScreenAutohide.accesskey "ה">
 <!ENTITY fullScreenExit.label "צא ממצב מסך מלא">
@@ -153,7 +153,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.afterDomain.label "יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.">
 <!ENTITY pointerlockWarning.generic.label "למסמך זה יש שליטה על הסמן שלך. לחיצה על ESC תחזיר את השליטה אליך.">
 
-<!ENTITY closeWindow.label "סגור חלון">
+<!ENTITY closeWindow.label "סגירת חלון">
 <!ENTITY closeWindow.accesskey "ס">
 
 <!ENTITY bookmarksMenu.label "סימניות">
@@ -666,7 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "מרחק מתצוגה">
 <!ENTITY fullZoom.accesskey             "ת">
 
-<!ENTITY sidebarCloseButton.tooltip     "סגור את סרגל הצד">
+<!ENTITY sidebarCloseButton.tooltip     "סגירת סרגל הצד">
 <!ENTITY sidebarMenuClose.label         "סגירת סרגל הצד">
 
 <!ENTITY quitApplicationCmdWin2.label       "יציאה">
@@ -680,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
 <!ENTITY quitApplicationCmdUnix.key     "Q">
 
-<!ENTITY closeCmd.label                 "סגור">  
+<!ENTITY closeCmd.label                 "סגירה">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "ג">
 
