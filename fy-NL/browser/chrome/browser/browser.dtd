@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gebrûk ynstekker beheare">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Wizigje oft jo notifikaasjes fan de website ûntfange kinne">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gegevens yn permaninte opslach bewarje">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browser wurdt op ôfstân bestjoerd">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Dielen fan jo kamera en/of mikrofoan mei de website beheare">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Dielen fan jo mikrofoan mei de website beheare">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Resinte skiednis wiskje…">
 <!ENTITY appMenuHistory.restoreSession.label "Foarige sesje werom bringe">
 <!ENTITY appMenuHistory.viewSidebar.label "Skiednissydbalke werjaaan">
+<!ENTITY appMenuHelp.label "Help">
 <!ENTITY appMenuHelp.tooltip "Menu Help iepenje">
 
 <!ENTITY appMenuRemoteTabs.label "Syngronisearre ljepblêden">
@@ -419,7 +421,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Help nedich om dingen te finen? Sykje nei de &#x1F50E; neist syksuggestjes.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Opsjes wizigje…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "O">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Foarkarren wizigje…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "F">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "m">
 <!ENTITY bookmarkThisFrameCmd.label      "Blêdwizer foar dit dielfinster meitsje">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "URL kopiearje">
 <!ENTITY emailPageCmd.label           "Keppeling e-maile…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Side bewarje as…">
@@ -658,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Sidebalke slute">
+<!ENTITY sidebarMenuClose.label         "Sidebalke slute">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ofslute">
 <!ENTITY quitApplicationCmdWin2.accesskey   "O">
@@ -720,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Dizze side is op jo kompjûter bewarre.">
 <!ENTITY identity.connectionVerified2 "Jo hawwe in befeilige ferbining mei dizze website, hokker beheard wurdt troch:">
 <!ENTITY identity.connectionInternal "Dit is in befeilige &brandShortName;-side.">
+<!ENTITY identity.extensionPage "Dizze side is laden fan in útwreiding út.">
 <!ENTITY identity.insecureLoginForms2 "Ynfierde oanmeldingen op dizze side soene oernommen wurde kinne.">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Wolle jo mear helpmiddelen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies út tûzenen add-ons">
 <!ENTITY customizeMode.restoreDefaults "Standertynstellingen werom bringe">
+<!ENTITY customizeMode.done "Dien">
 <!ENTITY customizeMode.titlebar "Titelbalke">
+<!ENTITY customizeMode.toolbars2 "Arkbalken">
 <!ENTITY customizeMode.lwthemes "Tema's">
 <!ENTITY customizeMode.lwthemes.myThemes "Myn tema's">
 <!ENTITY customizeMode.lwthemes.recommended "Oanrekommandearre">
@@ -932,5 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "O">
 <!ENTITY updateRestart.cancelButton.label "No net">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Start &brandShorterName; opnij om te fernijen">
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">

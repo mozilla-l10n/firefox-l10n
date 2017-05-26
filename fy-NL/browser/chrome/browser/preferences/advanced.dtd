@@ -138,7 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "p">
 
 <!ENTITY performance.label               "Prestaasjes">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Oanrekommandearre prestaasjeynstellingen brûke">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Dizze ynstellingen binne ôfstimd op de hardware en it bestjoeringssysteem fan jo kompjûter.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "D">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Mear ynfo">
+<!ENTITY limitContentProcess2.label       "Limyt fan ynhâldsprosessen">
+<!ENTITY limitContentProcess2.description
+                                         "Ekstra ynhâldsprosessen kinne de prestaasjes fan &brandShortName; by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.">
+<!ENTITY limitContentProcess2.accesskey   "E">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">

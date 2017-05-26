@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "m">
 <!ENTITY useSmoothScrolling.label        "Floeiend skowe brûke">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
-<!ENTITY allowHWAccel.accesskey          "B">
 <!ENTITY checkUserSpelling.label         "Kontrolearje jo stavering as jo type">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Feilichheidsapparaten">
 <!ENTITY viewSecurityDevices.accesskey   "p">
+
+<!ENTITY performance.label               "Prestaasjes">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Oanrekommandearre prestaasjeynstellingen brûke">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Dizze ynstellingen binne ôfstimd op de hardware en it bestjoeringssysteem fan jo kompjûter.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "D">
+<!ENTITY limitContentProcess.label       "Limyt fan ynhâldsprosessen">
+<!ENTITY limitContentProcess.description
+                                         "Ekstra ynhâldsprosessen kinne de prestaasjes fan &brandShortName; by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.">
+<!ENTITY limitContentProcess.accesskey   "E">
+<!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
+<!ENTITY allowHWAccel.accesskey          "B">
