@@ -47,7 +47,9 @@
 <!ENTITY enableCrashReporter.accesskey "Z">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
-<!ENTITY updateApp.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateApp2.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateApp.version.pre "Wersja ">
+<!ENTITY updateApp.version.post "">
 <!ENTITY updateAuto.label "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
 <!ENTITY updateAuto.accesskey "I">
 <!ENTITY updateCheck.label "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
