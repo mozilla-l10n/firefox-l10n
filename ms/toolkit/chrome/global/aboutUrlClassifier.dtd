@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Waktu kemas kini seterusnya">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status kemas kini terakhir">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kemas kini">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Muat semula">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Buang">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nama jadual">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Bilangan cache negatif">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Bilangan cache positif">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Papar entri">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entri Cache">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Tempoh tamat cache negatif">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Full hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Tempoh tamat cache positif">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Pencarian">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Padan">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Semak Keputusan Padanan">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Pencarian">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Semak Keputusan Pencarian">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memori">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Pangkalan data">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Nyahpepijat">
