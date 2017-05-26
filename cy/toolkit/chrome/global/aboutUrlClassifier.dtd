@@ -11,17 +11,17 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Statws y diweddariad diwethaf">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Diweddaru">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Storfa">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Adnewyddu">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Clirio">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Enw tabl">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Nifer o gofnodion storfa negyddol">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Nifer o gofnodion storfa negyddol">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Dangos y cofnodion">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Cofnodion Storfa">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Rhagddodiad">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Storfa negyddol yn dod i ben">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash llawn">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Storfa positif yn dod i ben">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Chwilio">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Cydweddu">
