@@ -124,9 +124,10 @@
 <!ENTITY viewSecurityDevices.label       "Gléasanna Slándála">
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
+<!ENTITY performance.label               "Feidhmíocht">
+<!ENTITY useRecommendedPerformanceSettings.label "Bain úsáid as na socruithe feidhmíochta a mholtar">
 
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey "B">
 
 
 

@@ -11,16 +11,16 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stádas an nuashonraithe is déanaí">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Nuashonraigh">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Taisce">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Athnuaigh">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Bánaigh">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Ainm an tábla">
 
 
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Taispeáin iontrálacha">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Iontrálacha sa Taisce">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Réimír">
 
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hais iomlán">
 
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Cuardach">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
