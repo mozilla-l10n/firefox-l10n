@@ -70,7 +70,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  Escritas atrasadas">
 
-<!ENTITY aboutTelemetry.sessionInfoSection "  Informações da sessão">
+<!ENTITY aboutTelemetry.sessionInfoSection "  Informação da sessão">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recolhidos por extras">
 
