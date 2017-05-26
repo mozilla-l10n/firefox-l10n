@@ -945,6 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "פ">
 <!ENTITY updateRestart.cancelButton.label "לא כעת">
 <!ENTITY updateRestart.cancelButton.accesskey "ל">
-<!ENTITY updateRestart.panelUI.label2 "יש להפעיל מחדש כדי לעדכן את &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "הפעלה מחדש לעדכון &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
