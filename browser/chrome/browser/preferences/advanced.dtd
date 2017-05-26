@@ -95,11 +95,11 @@
 <!ENTITY updateApplication.version.pre   "الإصدارة ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
-<!ENTITY updateAuto2.label               "ينصّب التحديثات تلقائيًا (ينصح به لزيادة الأمان)">
+<!ENTITY updateAuto2.label               "ينصّب التحديثات تلقائيًا (مستحسن لزيادة الأمان)">
 <!ENTITY updateAuto2.accesskey           "ح">
 <!ENTITY updateCheckChoose2.label        "يلتمس التحديثات، و لكن يترك لك خيار تنصيبها من عدمه">
 <!ENTITY updateCheckChoose2.accesskey    "ت">
-<!ENTITY updateManual2.label             "لا يلتمس التحديثات أبدًا (غير منصوح به)">
+<!ENTITY updateManual2.label             "لا يلتمس التحديثات أبدًا (غير مستحسن)">
 <!ENTITY updateManual2.accesskey         "د">
 
 <!ENTITY updateHistory2.label            "أظهر تأريخ التحديث…">
