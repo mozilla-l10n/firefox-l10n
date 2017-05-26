@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "с">
 <!ENTITY useSmoothScrolling.label        "Выкарыстоўваць плаўнае пракручванне">
 <!ENTITY useSmoothScrolling.accesskey    "л">
-<!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
-<!ENTITY allowHWAccel.accesskey          "н">
 <!ENTITY checkUserSpelling.label         "Правяраць арфаграфію пад час набору">
 <!ENTITY checkUserSpelling.accesskey     "н">
 
@@ -125,3 +123,7 @@
 <!ENTITY viewCerts.accesskey             "П">
 <!ENTITY viewSecurityDevices.label       "Прылады бяспекі">
 <!ENTITY viewSecurityDevices.accesskey   "б">
+
+<!ENTITY performance.label               "Прадукцыйнасць">
+<!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
+<!ENTITY allowHWAccel.accesskey          "н">

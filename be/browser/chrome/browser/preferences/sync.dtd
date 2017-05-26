@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "к">
 <!ENTITY engine.history.label       "Гісторыя">
 <!ENTITY engine.history.accesskey   "Г">
+<!ENTITY engine.logins.label        "Лагіны">
+<!ENTITY engine.logins.accesskey    "Л">
 <!ENTITY engine.prefs.label         "Налады">
 <!ENTITY engine.prefs.accesskey     "Н">
 <!ENTITY engine.addons.label        "Дадаткі">
