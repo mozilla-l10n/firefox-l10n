@@ -422,6 +422,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Endre innstillingar…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "E">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Endre innstillingar…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "E">
 
@@ -824,7 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Vil du ha fleire verktøy">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vel frå tusenvis av utvidingar">
 <!ENTITY customizeMode.restoreDefaults "Still tilbake til standard">
+<!ENTITY customizeMode.done "Ferdig">
 <!ENTITY customizeMode.titlebar "Tittellinje">
+<!ENTITY customizeMode.toolbars2 "Verktøylinjer">
 <!ENTITY customizeMode.lwthemes "Tema">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine tema">
 <!ENTITY customizeMode.lwthemes.recommended "Tilrådd">
@@ -938,5 +942,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikkje no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label2 "Start om for å oppdatere &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
