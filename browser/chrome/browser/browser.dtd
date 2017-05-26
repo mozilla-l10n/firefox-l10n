@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "مدیریت استفاده از افزونه">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "اینکه آیا می‌توانید از این سایت اعلان دریافت کنید یا خیر را تغییر دهید">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "ذخیره اطلاعات به صورت ذخیره دائمی">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "مرورگر تحت کنترل از راه دور است">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "مدیریت اینکه آیا دوربین و/یا میکروفون خود را با این سایت به اشتراک می‌گذارید یا خیر">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "مدیریت به‌اشتراک‌گذاری میکروفن با این پایگاه">
