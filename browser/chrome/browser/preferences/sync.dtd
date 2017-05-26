@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "b">
 <!ENTITY engine.history.label       "Skiednis">
 <!ENTITY engine.history.accesskey   "n">
+<!ENTITY engine.logins.label        "Oanmeldingen">
+<!ENTITY engine.logins.accesskey    "O">
 <!ENTITY engine.prefs.label         "Foarkarren">
 <!ENTITY engine.prefs.accesskey     "F">
 <!ENTITY engine.addons.label        "Add-ons">
