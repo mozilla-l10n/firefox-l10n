@@ -14,7 +14,7 @@
 <!ENTITY findButton.label "מצא את הבא">
 <!ENTITY findButton.accesskey "מ">
 <!ENTITY cancelButton.label "ביטול">
-<!ENTITY closeButton.label "סגור">
+<!ENTITY closeButton.label "סגירה">
 <!ENTITY up.label "למעלה">
 <!ENTITY up.accesskey "ע">
 <!ENTITY down.label "למטה">

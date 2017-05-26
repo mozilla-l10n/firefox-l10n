@@ -10,7 +10,7 @@
 <!ENTITY printComplete "הדפסה הושלמה.">
 
 <!ENTITY dialogCancel.label "ביטול"> 
-<!ENTITY dialogClose.label "סגור">
+<!ENTITY dialogClose.label "סגירה">
 
 <!-- LOCALIZATION NOTE (percentPrint):
 
