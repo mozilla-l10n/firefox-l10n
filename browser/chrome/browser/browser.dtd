@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Yan uygulama kullanımını yönet">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Sitenin bildirim gönderip gönderemeyeceğini ayarlayın">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kalıcı depolamada veri depola">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tarayıcı uzaktan kontrol ediliyor">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Siteyle kamera ve/veya mikrofonumu paylaşmayı yönet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Siteyle mikrofonumu paylaşmayı yönet">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Yakın geçmişi temizle…">
 <!ENTITY appMenuHistory.restoreSession.label "Önceki oturumu geri yükle">
 <!ENTITY appMenuHistory.viewSidebar.label "Geçmiş kenar çubuğunu aç">
+<!ENTITY appMenuHelp.label "Yardım">
 <!ENTITY appMenuHelp.tooltip "Yardım menüsünü aç">
 
 <!ENTITY appMenuRemoteTabs.label "Eşitlenmiş sekmeler">
@@ -401,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Daha fazla">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Arama yapın veya adres yazın">
@@ -418,7 +421,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "E">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "İpucu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Seçenekleri değiştir…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Tercihleri değiştir…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "d">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -532,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu çerçeveyi yer imlerine ekle">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "Adresi kopyala">
 <!ENTITY emailPageCmd.label           "Bağlantıyı e-postala…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Sayfayı farklı kaydet…">
@@ -657,6 +666,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Y">
 
 <!ENTITY sidebarCloseButton.tooltip     "Kenar çubuğunu kapat">
+<!ENTITY sidebarMenuClose.label         "Kenar çubuğunu kapat">
 
 <!ENTITY quitApplicationCmdWin2.label       "Çık">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
@@ -719,6 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Bu sayfa bilgisayarınızda depolanıyor.">
 <!ENTITY identity.connectionVerified2 "Bu siteye güvenli bir şekilde bağlandınız. Site sahibi:">
 <!ENTITY identity.connectionInternal "Burası güvenli bir &brandShortName; sayfasıdır.">
+<!ENTITY identity.extensionPage "Bu sayfa bir eklenti üzerinden yüklendi.">
 <!ENTITY identity.insecureLoginForms2 "Bu sayfaya girilen hesap bilgileri ele geçirilebilir.">
 
 <!-- Strings for connection state warnings. -->
@@ -817,7 +828,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Daha fazla araç mı istiyorsunuz?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Binlerce eklenti arasından seçim yapın">
 <!ENTITY customizeMode.restoreDefaults "Varsayılanları geri yükle">
+<!ENTITY customizeMode.done "Tamam">
 <!ENTITY customizeMode.titlebar "Başlık çubuğu">
+<!ENTITY customizeMode.toolbars2 "Araç çubukları">
 <!ENTITY customizeMode.lwthemes "Temalar">
 <!ENTITY customizeMode.lwthemes.myThemes "Temalarım">
 <!ENTITY customizeMode.lwthemes.recommended "Önerilen">
@@ -931,5 +944,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "b">
 <!ENTITY updateRestart.cancelButton.label "Daha sonra">
 <!ENTITY updateRestart.cancelButton.accesskey "D">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; tarayıcısını güncellemek için yeniden başlat">
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
