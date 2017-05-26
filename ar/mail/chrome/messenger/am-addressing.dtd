@@ -33,7 +33,7 @@
 <!ENTITY selectAndQuote.label                 "حدد الاقتباس">
 <!ENTITY place.label                          "وضَع توقيعي">
 <!ENTITY place.accesskey                      "ض">
-<!ENTITY belowText.label                      "تحت الاقتباس (مفضّل)">
+<!ENTITY belowText.label                      "تحت الاقتباس (مستحسن)">
 <!ENTITY aboveText.label                      "تحت ردّي (فوق الاقتباس)">
 <!ENTITY includeSigOnReply.label              "ضمّن توقيعي في الردود">
 <!ENTITY includeSigOnReply.accesskey          "ع">
