@@ -705,9 +705,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY editPopupSettings.accesskey "ح">
 <!ENTITY dontShowMessage.accesskey "ت">
 
-<!ENTITY bidiSwitchPageDirectionItem.label        "بدِّل اتجاه الصفحة">
-<!ENTITY bidiSwitchPageDirectionItem.accesskey    "ل">
-<!ENTITY bidiSwitchTextDirectionItem.label        "بدِّل اتجاه النص">
+<!ENTITY bidiSwitchPageDirectionItem.label        "اعكس اتجاه الصفحة">
+<!ENTITY bidiSwitchPageDirectionItem.accesskey    "ك">
+<!ENTITY bidiSwitchTextDirectionItem.label        "اعكس اتجاه النص">
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ن">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
@@ -835,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.toolbars2 "أشرطة الأدوات">
 <!ENTITY customizeMode.lwthemes "السِمات">
 <!ENTITY customizeMode.lwthemes.myThemes "سِماتي">
-<!ENTITY customizeMode.lwthemes.recommended "مُزكَّاة">
+<!ENTITY customizeMode.lwthemes.recommended "مستحسن">
 <!ENTITY customizeMode.lwthemes.menuManage "أدِر">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
