@@ -10,13 +10,24 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Час наступного оновлення">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Стан останнього оновлення">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Оновити">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Оновити">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Стерти">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Назва таблиці">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Число негативних записів кешу">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Число позитивних записів кешу">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Показати записи">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Записи кешу">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Префікс">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Негативний кеш завершується">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Повний хеш">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Негативний кеш завершується">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Збіг">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Перевірити результат збігу">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Пошук">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Перевірити результат пошуку">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Пам'ять">
 <!ENTITY aboutUrlClassifier.databaseTitle               "База даних">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Зневадження">
