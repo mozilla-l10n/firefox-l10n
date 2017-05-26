@@ -124,11 +124,12 @@
 <!ENTITY viewSecurityDevices.label       "Dyfeisiau Diogelwch">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
+<!ENTITY performance.label               "Perfformiad">
+<!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
+<!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "D">
+<!ENTITY limitContentProcess.label       "Terfyn proses cynnwys">
 
-
-
-
-
-
+<!ENTITY limitContentProcess.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">
