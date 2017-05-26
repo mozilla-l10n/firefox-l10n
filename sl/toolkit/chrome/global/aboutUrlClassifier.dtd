@@ -14,6 +14,7 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Osveži">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Počisti">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Ime tabele">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Število negativnih vnosov v predpomnilnik">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Število pozitivnih vnosov v predpomnilnik">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Prikaži vnose">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Vnosi v predpomnilnik">
