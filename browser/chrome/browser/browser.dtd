@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sýsla með notkun tengiforrita">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Breyta hvort vefsvæði getur sent þér tilkynningar">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Geyma gögn í varanlegri gagnageymslu">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Vafri er á fjarstýringu">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Sýsla með deilingu á myndavél og/eða hljóðnema fyrir þetta vefsvæði">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Sýsla með að deila hljóðnema á vefsvæðinu">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
 <!ENTITY copyCmd.label            "Afrita">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "A"> 
 <!ENTITY pasteCmd.label           "Líma">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Hreinsa nýlega ferla…">
 <!ENTITY appMenuHistory.restoreSession.label "Sækja fyrri vafralotu">
 <!ENTITY appMenuHistory.viewSidebar.label "Birta feril í hliðslá">
-
+<!ENTITY appMenuHelp.label "Hjálp">
 <!ENTITY appMenuHelp.tooltip "Opna hjálparvalmynd">
 
 <!ENTITY appMenuRemoteTabs.label "Samstilltir flipar">
@@ -420,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Já">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Ábending:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Fáðu hjálp við að finna hluti! Líttu eftir &#x1F50E; við hliðina á leitar ábendingum.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Breyta stillingum…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "B">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Breyta stillingum…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "B">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -538,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Setja ramma í bókamerki">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Afrita slóð">
 <!ENTITY emailPageCmd.label           "Senda tengil…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Vista síðu sem…">
@@ -728,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Þessi síða er vistuð á tölvunni þinni.">
 <!ENTITY identity.connectionVerified2 "Þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
-
+<!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót">
 <!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
 <!-- Strings for connection state warnings. -->
 
