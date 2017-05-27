@@ -14,11 +14,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Osveži">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Počisti">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Ime tabele">
-<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Število negativnih vnosov v predpomnilnik">
-<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Število pozitivnih vnosov v predpomnilnik">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Število vnosov v negativni predpomnilnik">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Število vnosov v pozitivni predpomnilnik">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Prikaži vnose">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Vnosi v predpomnilnik">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Predpona">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Rok trajanja negativnega predpomnilnika">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Polna razpršena vrednost">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Rok trajanja pozitivnega predpomnilnika">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Iskanje">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Ujemanje">
