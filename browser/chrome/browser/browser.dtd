@@ -420,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Taip">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "t">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Patarimas:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Gaukite pagalbos ieškant! Prie paieškos siūlymų matysite &#x1F50E;.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Keisti nuostatas…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "t">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Keisti nuostatas…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "t">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -538,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "d">
 <!ENTITY bookmarkThisFrameCmd.label      "Įtraukti kadrą į adresyną">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "d">
-
+<!ENTITY copyURLCmd.label             "Kopijuoti URL">
 <!ENTITY emailPageCmd.label           "Išsiųsti saitą el. paštu…">
 <!ENTITY emailPageCmd.accesskey       "ų">
 <!ENTITY savePageCmd.label            "Įrašyti kaip…">
@@ -665,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "M">
 
 <!ENTITY sidebarCloseButton.tooltip     "Užverti parankinę">
-
+<!ENTITY sidebarMenuClose.label         "Užverti parankinę">
 
 <!ENTITY quitApplicationCmdWin2.label       "Baigti darbą">
 <!ENTITY quitApplicationCmdWin2.accesskey   "B">
@@ -720,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Daugiau žodynų…">
 <!ENTITY spellAddDictionaries.accesskey "D">
 
+<!ENTITY editBookmark.done.label                     "Atlikta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "š">
 
 <!ENTITY identity.connectionSecure "Saugus ryšys">
@@ -727,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Šis tinklalapis yra įrašytas jūsų kompiuteryje.">
 <!ENTITY identity.connectionVerified2 "Esate saugiai prisijungę prie šios svetainės, kurią valdo:">
 <!ENTITY identity.connectionInternal "Tai yra saugus „&brandShortName;“ tinklalapis.">
-
+<!ENTITY identity.extensionPage "Šis tinklalapis yra įkeltas iš priedo.">
 <!ENTITY identity.insecureLoginForms2 "Šiame tinklalapyje įvesti prisijungimo duomenys gali būti perimti.">
 <!-- Strings for connection state warnings. -->
 
@@ -826,9 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Norite daugiau priemonių?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Pasirinkite jas iš tūkstančių priedų">
 <!ENTITY customizeMode.restoreDefaults "Grąžinti numatytąją struktūrą">
-
+<!ENTITY customizeMode.done "Atlikta">
 <!ENTITY customizeMode.titlebar "Antraštės juosta">
-
+<!ENTITY customizeMode.toolbars2 "Priemonių juostos">
 <!ENTITY customizeMode.lwthemes "Grafiniai apvalkalai">
 <!ENTITY customizeMode.lwthemes.myThemes "Įdiegti apvalkalai">
 <!ENTITY customizeMode.lwthemes.recommended "Rekomenduojami">
@@ -942,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "P">
 <!ENTITY updateRestart.cancelButton.label "Ne dabar">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "Perleiskite, norėdami atnaujinti „&brandShorterName;“">
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
