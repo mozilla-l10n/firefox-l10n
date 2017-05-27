@@ -48,7 +48,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "रेकॉर्डींग दरम्यान मेमरी ची वाटणी कुठे झाली ते दर्शवते.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "JS फ्लेम चार्ट">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "रेकॉर्डींग काळातील JavaScript कॉल स्टॅक दर्शवते.">
-<!ENTITY performanceUI.toolbar.memory-flamegraph "वाटण्या फ्लेम चार्ट ">
+<!ENTITY performanceUI.toolbar.memory-flamegraph "वाटण्या फ्लेम चार्ट">
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
 
@@ -60,7 +60,7 @@
 <!ENTITY performanceUI.table.totalPercentage.tooltip  "या फंक्शन मध्ये आणि ते कॉल करत असलेल्या फंक्शन मध्ये घालवलेल्या कालावधीची टक्केवारी.">
 <!ENTITY performanceUI.table.selfPercentage           "स्वयं मूल्य">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "केवळ या फंक्शन मध्ये घालवलेल्या वेळेची टक्केवारी.">
-<!ENTITY performanceUI.table.samples                  "नमुने ">
+<!ENTITY performanceUI.table.samples                  "नमुने">
 <!ENTITY performanceUI.table.samples.tooltip          "प्रोफाइलर ने नमुने घेतले तेव्हा हे किती वेळा फंक्शन स्टेकवर होते">
 <!ENTITY performanceUI.table.function                 "फंक्शन">
 <!ENTITY performanceUI.table.function.tooltip         "नमुने घेतलेल्या फंक्शनचे नाव आणि स्त्रोत स्थान.">
@@ -127,7 +127,7 @@
   -  Wraps the command used to start, like "Currently recording via console.profile("label")" -->
 
 <!ENTITY performanceUI.console.recordingNoticeStart "सध्या या मार्गे नोंद करत आहे">
-<!ENTITY performanceUI.console.recordingNoticeEnd   "">
+<!ENTITY performanceUI.console.recordingNoticeEnd   "‌">
 <!-- LOCALIZATION NOTE (performanceUI.console.stopCommandStart/stopCommandEnd):
   -  This string is displayed when a recording is selected that started via console.profile.
   -  Indicates how to stop the recording, wrapping the command, like
