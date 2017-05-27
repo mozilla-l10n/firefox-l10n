@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "с">
 <!ENTITY useSmoothScrolling.label        "Использовать плавную прокрутку">
 <!ENTITY useSmoothScrolling.accesskey    "о">
-<!ENTITY allowHWAccel.label              "По возможности использовать аппаратное ускорение">
-<!ENTITY allowHWAccel.accesskey          "л">
 <!ENTITY checkUserSpelling.label         "Проверять орфографию при наборе текста">
 <!ENTITY checkUserSpelling.accesskey     "в">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "с">
 <!ENTITY viewSecurityDevices.label       "Устройства защиты">
 <!ENTITY viewSecurityDevices.accesskey   "о">
+
+<!ENTITY performance.label               "Производительность">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Использовать рекомендуемые настройки производительности">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Эти настройки рассчитаны для вашего компьютера и операционной системы.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "н">
+<!ENTITY limitContentProcess.label       "Максимальное число процессов контента">
+<!ENTITY limitContentProcess.description
+                                         "Дополнительные процессы контента могут улучшить производительность &brandShortName; при работе со множеством вкладок, но также повысят потребление памяти.">
+<!ENTITY limitContentProcess.accesskey   "в">
+<!ENTITY allowHWAccel.label              "По возможности использовать аппаратное ускорение">
+<!ENTITY allowHWAccel.accesskey          "л">
