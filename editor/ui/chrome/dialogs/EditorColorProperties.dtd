@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Imatge de fons:">
 <!ENTITY backgroundImage.accessKey "f">
 <!ENTITY backgroundImage.tooltip "Utilitzeu un fitxer d'imatge com a fons per a la pàgina">
-
+<!ENTITY backgroundImage.shortenedDataURI "URI de dades escurçat (si copieu, es copiarà l'URI complet al porta-retalls)">

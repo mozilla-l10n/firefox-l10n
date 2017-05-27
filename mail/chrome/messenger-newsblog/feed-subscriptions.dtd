@@ -19,11 +19,13 @@
 <!ENTITY feedFolder.accesskey        "g">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Comprova si hi ha articles nous cada ">
+<!ENTITY biffStart.accesskey         "a">
+<!ENTITY biffMinutes.label           "minuts">
+<!ENTITY biffMinutes.accesskey       "n">
+<!ENTITY biffDays.label              "dies">
+<!ENTITY biffDays.accesskey          "d">
+<!ENTITY recommendedUnits.label      "Recomanats per l'editor:">
 
 <!ENTITY quickMode.label             "Mostra el resum de l'article en comptes de carregar la pàgina web">
 <!ENTITY quickMode.accesskey         "M">
