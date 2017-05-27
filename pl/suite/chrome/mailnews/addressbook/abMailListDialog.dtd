@@ -4,18 +4,16 @@
 
 <!-- Title -->
 <!ENTITY mailListWindow.title "Lista dystrybucyjna">
-<!-- Labels -->
-<!ENTITY addToAddressBook.label "Dodaj do: ">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label "Dodaj do: ">
+<!ENTITY addToAddressBook.accesskey "D">
 <!ENTITY ListName.label "Nazwa listy dystrybucyjnej:">
+<!ENTITY ListName.accesskey "N">
 <!ENTITY ListNickName.label "Pseudonim listy dystrybucyjnej: ">
+<!ENTITY ListNickName.accesskey "P">
 <!ENTITY ListDescription.label "Opis: ">
+<!ENTITY ListDescription.accesskey "O">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label "Wprowadź adresy e-mail, które zostaną dodane do listy dystrybucyjnej">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey "D">
-<!ENTITY ListName.accesskey "N">
-<!ENTITY ListNickName.accesskey "P">
-<!ENTITY ListDescription.accesskey "O">
-
+<!ENTITY AddressTitle.accesskey "m">
