@@ -35,8 +35,8 @@
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Ordena per prioritat">
 <!ENTITY calendar.unifinder.tree.title.label               "Títol">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Ordena per títol">
-<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; acabat">
-<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordena per &#037; acabat">
+<!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; acabada">
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Ordena per &#037; acabada">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Inici">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Ordena per data d'inici">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Fi">
