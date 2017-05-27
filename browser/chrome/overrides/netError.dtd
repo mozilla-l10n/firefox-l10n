@@ -31,8 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; कुठल्यातरी कारणास्तव हे पृष्ठ दाखल करू शकत नाही.</p>">
 
 <!ENTITY captivePortal.title "नेटवर्कमध्ये लॉग इन करा">
+<!ENTITY captivePortal.longDesc2 "<p>इंटरनेट वापरण्याआधी आपण या नेटवर्क मध्ये लॉग इन करावयास हवे.</p>">
 
-
+<!ENTITY openPortalLoginPage.label2 "नेटवर्क लॉग इन पृष्ठ उघडा">
 
 <!ENTITY malformedURI.title "हा पत्ता वैध नाही">
 <!ENTITY malformedURI.longDesc "<ul><li>वेब पत्ता शक्यतो खालील प्रमाणे लिहीला जातो <strong>http://www.example.com/</strong></li> <li>फॉरवर्ड स्लॅश वापरत आहात याची खात्री करा (जसे <strong>/</strong>).</li> </ul>">

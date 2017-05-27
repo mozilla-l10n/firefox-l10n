@@ -420,11 +420,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "होय">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "टीप:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "पर्याय बदला…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "प्राधान्यता बदला…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -538,7 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "या चौकटाला वाचनखूण लावा">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "यूआरएल प्रत बनवा">
 <!ENTITY emailPageCmd.label           "दुवा ईमेल करा…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "पृष्ठ असे साठवा…">
@@ -665,7 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "बाजुचीपट्टी बंद करा">
-
+<!ENTITY sidebarMenuClose.label         "बाजूची पट्टी बंद करा">
 
 <!ENTITY quitApplicationCmdWin2.label       "बाहेर पडा">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -720,6 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "शब्दकोश समाविष्ट करा…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "झाले">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "सुरक्षित जोडणी">
@@ -826,9 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "आणखी साधने पाहिजेत?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारो ॲड-ऑन्स् पासून पसंत करा">
 <!ENTITY customizeMode.restoreDefaults "पूर्वनिर्धारित पूर्वस्थितीत आणा">
-
+<!ENTITY customizeMode.done "झाले">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
-
+<!ENTITY customizeMode.toolbars2 "साधनपट्ट्या">
 <!ENTITY customizeMode.lwthemes "थीम्स">
 <!ENTITY customizeMode.lwthemes.myThemes "माझ्या थीम्स">
 <!ENTITY customizeMode.lwthemes.recommended "शिफारसीय">

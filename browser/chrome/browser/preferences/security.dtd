@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "सुरक्षा">
+
 <!ENTITY  warnOnAddonInstall.label        "साईट्स ॲड-ऑन्स् इंस्टॉल करण्याचा प्रयत्न करताना मला सावध करा">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "फॉर्म व पासवर्ड">
 
+<!ENTITY  rememberLogins1.label          "साईट्सकरिता लॉगिन्स व पासवर्ड लक्षात ठेवा">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "अपवाद…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

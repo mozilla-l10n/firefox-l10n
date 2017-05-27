@@ -13,12 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 47em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
+<!ENTITY  paneSearchResults.title       "शोध परिणाम">
 <!ENTITY  paneGeneral.title             "सर्वसाधारण">
-
-
+<!ENTITY  paneFilesApplications.title   "फाईल व ॲप्लिकेशन">
+<!ENTITY  panePrivacySecurity.title     "गोपनीयता आणि सुरक्षा">
 <!ENTITY  paneContainers.title          "कंटेनर टॅब्स">
-
+<!ENTITY  paneUpdates.title             "सुधारणा">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
+<!ENTITY  paneSync1.title          "Firefox खाते">
+
+<!ENTITY  helpButton2.label        "&brandShortName; मदत केंद्र">
 
 <!ENTITY  searchInput.label        "शोधा">
