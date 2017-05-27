@@ -18,7 +18,7 @@
 <!ENTITY  generalTitle          "Naslov:">
 <!ENTITY  generalURL            "Spletni naslov:">
 <!ENTITY  generalType           "Vrsta:">
-<!ENTITY  generalMode           "Upodobitveni način:">
+<!ENTITY  generalMode           "Način izrisovanja:">
 <!ENTITY  generalSize           "Velikost:">
 <!ENTITY  generalReferrer       "Pobudnik:">
 <!ENTITY  generalSource         "Vir:">
