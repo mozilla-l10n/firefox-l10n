@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "τ">
 <!ENTITY engine.history.label       "Ιστορικό">
 <!ENTITY engine.history.accesskey   "ρ">
+<!ENTITY engine.logins.label        "Συνδέσεις">
+<!ENTITY engine.logins.accesskey    "Σ">
 <!ENTITY engine.prefs.label         "Προτιμήσεις">
 <!ENTITY engine.prefs.accesskey     "ρ">
 <!ENTITY engine.addons.label        "Πρόσθετα">
