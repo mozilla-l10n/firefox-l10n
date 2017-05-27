@@ -6,6 +6,7 @@
 <!ENTITY navigatorCmd.label "Przeglądarka">
 <!ENTITY navigatorCmd.accesskey "P">
 <!ENTITY navigatorCmd.commandkey "1">
+
 <!-- LOCALIZATION NOTE (editorCmd.label): DONT_TRANSLATE -->
 <!ENTITY editorCmd.label "Kompozytor Stron">
 <!ENTITY editorCmd.accesskey "K">
@@ -13,7 +14,7 @@
 
 <!ENTITY errorConsoleCmd.label "Konsola błędów">
 <!ENTITY errorConsoleCmd.accesskey "K">
-<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY errorConsoleCmd.commandkey2 "j">
 
 <!ENTITY taskNavigator.tooltip "Przeglądarka">
 <!ENTITY taskComposer.tooltip "Kompozytor Stron">
