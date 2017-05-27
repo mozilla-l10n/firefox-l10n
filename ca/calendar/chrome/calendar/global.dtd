@@ -31,18 +31,18 @@
 <!ENTITY day.6.name "divendres" >
 <!ENTITY day.7.name "dissabte" >
 
-<!ENTITY month.1.name "Gener" >
-<!ENTITY month.2.name "Febrer" >
-<!ENTITY month.3.name "Març" >
-<!ENTITY month.4.name "Abril" >
-<!ENTITY month.5.name "Maig" >
-<!ENTITY month.6.name "Juny" >
-<!ENTITY month.7.name "Juliol" >
-<!ENTITY month.8.name "Agost" >
-<!ENTITY month.9.name "Setembre" >
-<!ENTITY month.10.name "Octubre" >
-<!ENTITY month.11.name "Novembre" >
-<!ENTITY month.12.name "Desembre" >
+<!ENTITY month.1.name "gener" >
+<!ENTITY month.2.name "febrer" >
+<!ENTITY month.3.name "març" >
+<!ENTITY month.4.name "abril" >
+<!ENTITY month.5.name "maig" >
+<!ENTITY month.6.name "juny" >
+<!ENTITY month.7.name "juliol" >
+<!ENTITY month.8.name "agost" >
+<!ENTITY month.9.name "setembre" >
+<!ENTITY month.10.name "octubre" >
+<!ENTITY month.11.name "novembre" >
+<!ENTITY month.12.name "desembre" >
 
 <!ENTITY onemonthbackward.tooltip "Un mes enrere" >
 <!ENTITY onemonthforward.tooltip "Un mes endavant" >
