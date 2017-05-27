@@ -8,8 +8,8 @@
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Contraseñas">
-<!ENTITY engine.passwords.accesskey "ñ">
+<!ENTITY engine.logins.label "Inicios de sesión">
+<!ENTITY engine.logins.accesskey "I">
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
@@ -32,7 +32,7 @@
 <!ENTITY signIn.accesskey "n">
 <!ENTITY profilePicture.tooltip "Cambiar imagen del perfil">
 <!ENTITY verifiedManage.label "Administrar cuenta">
-<!ENTITY verifiedManage.accesskey "i">
+<!ENTITY verifiedManage.accesskey "A">
 <!ENTITY disconnect3.label "Desconectar…">
 <!ENTITY disconnect3.accesskey "D">
 <!ENTITY verify.label "Verificar mensaje">
