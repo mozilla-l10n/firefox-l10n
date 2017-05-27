@@ -155,6 +155,7 @@
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Cambiar si puede recibir notificaciones del sitio">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Guardar datos en almacenamiento persistente">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "El navegador está bajo control remoto">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Administrar la compartición de su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Administrar la compartición de su micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Administrar la compartición de sus ventanas o pantalla con el sitio">
@@ -262,6 +263,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
+<!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
@@ -304,6 +306,12 @@
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consejo:">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "¡Obtenga ayuda para encontrar cosas! Busque la 🔎 junto a las sugerencias de búsqueda.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cambiar opciones…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cambiar preferencias…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -369,6 +377,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY copyURLCmd.label "Copiar URL">
 <!ENTITY emailPageCmd.label "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
@@ -465,6 +474,7 @@
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "m">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
+<!ENTITY sidebarMenuClose.label "Cerrar panel lateral">
 <!ENTITY quitApplicationCmdWin2.label "Salir">
 <!ENTITY quitApplicationCmdWin2.accesskey "S">
 <!ENTITY quitApplicationCmdWin2.tooltip "Salir de &brandShorterName;">
@@ -512,6 +522,7 @@
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
 <!ENTITY identity.connectionVerified2 "Está conectado de forma segura a este sitio, propiedad de:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
+<!ENTITY identity.extensionPage "Esta página está cargada desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Los inicios de sesión introducidos en esta página podrían verse comprometidos.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (como imágenes).">
@@ -582,8 +593,9 @@
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
-<!ENTITY customizeMode.toolbars "Mostrar / ocultar barras de herramientas">
+<!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barras de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
@@ -662,5 +674,9 @@
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ahora no">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Reinicie &brandShorterName; para aplicar la actualización">
+<!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
+<!ENTITY sendToDevice.label "Enviar al dispositivo…">
+<!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
+<!ENTITY sendToDevice.fxaRequired.label "Requerido">
+<!ENTITY sendToDevice.noDevices.label "No hay dispositivos disponibles">
