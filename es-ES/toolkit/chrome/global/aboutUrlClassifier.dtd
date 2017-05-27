@@ -9,15 +9,18 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime "Fecha y hora de próxima actualización">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Estado de última actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn "Actualizar">
-<!ENTITY aboutUrlClassifier.lookupTitle "Búsqueda">
-<!ENTITY aboutUrlClassifier.lookupUrl "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch "Coincidencia">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn "Comprobar resultados coincidentes">
-<!ENTITY aboutUrlClassifier.lookupLookup "Búsqueda">
-<!ENTITY aboutUrlClassifier.lookupBtn "Comprobar resultados de la búsqueda">
 <!ENTITY aboutUrlClassifier.cacheTitle "Caché">
-<!ENTITY aboutUrlClassifier.memoryTitle "Memoria">
-<!ENTITY aboutUrlClassifier.databaseTitle "Base de datos">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn "Refrescar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn "Limpiar">
+<!ENTITY aboutUrlClassifier.cacheTableName "Nombre de tabla">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries "Número de entradas de caché fallidas">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries "Número de entradas de caché acertadas">
+<!ENTITY aboutUrlClassifier.cacheShowEntries "Mostrar entradas">
+<!ENTITY aboutUrlClassifier.cacheEntries "Entradas de caché">
+<!ENTITY aboutUrlClassifier.cachePrefix "Prefijo">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Caducidad de caché fallido">
+<!ENTITY aboutUrlClassifier.cacheFullhash "Valor resumen completo">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry "Caducidad de caché positivo">
 <!ENTITY aboutUrlClassifier.debugTitle "Depurar">
 <!ENTITY aboutUrlClassifier.debugModuleBtn "Establecer módulos de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn "Establecer archivo de registro">
