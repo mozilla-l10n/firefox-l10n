@@ -634,9 +634,9 @@
 
 <!ENTITY folderContextGetMessages.label "Recupera els missatges">
 <!ENTITY folderContextGetMessages.accesskey "g">
-
-
-
+<!ENTITY folderContextPauseAllUpdates.label "Posa en pausa totes les actualitzacions">
+<!ENTITY folderContextPauseUpdates.label "Posa en pausa les actualitzacions">
+<!ENTITY folderContextPauseUpdates.accesskey "u">
 <!ENTITY folderContextOpenInNewWindow.label "Obre en una finestra nova">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Obre en una pestanya nova">
