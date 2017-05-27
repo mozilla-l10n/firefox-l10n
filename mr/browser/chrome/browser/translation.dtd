@@ -36,7 +36,7 @@
 
 <!ENTITY translation.translatedFrom.label       "ह्या पृष्ठाचे ह्यापासून भाषांतरन झाले आहे">
 <!ENTITY translation.translatedTo.label         "पर्यंत">
-<!ENTITY translation.translatedToSuffix.label   "">
+<!ENTITY translation.translatedToSuffix.label   "‌">
 
 <!ENTITY translation.showOriginal.button        "मूळ दाखवा">
 <!ENTITY translation.showTranslation.button     "भाषांतरन दाखवा">
@@ -63,7 +63,7 @@
   -->
 
 <!ENTITY translation.options.attribution.beforeLogo "तर्फे भाषांतरीत">
-<!ENTITY translation.options.attribution.afterLogo "">
+<!ENTITY translation.options.attribution.afterLogo "‌">
 <!-- LOCALIZATION NOTE (translation.options.attribution.poweredByYandex,
                         translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):

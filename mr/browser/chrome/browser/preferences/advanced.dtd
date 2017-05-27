@@ -90,22 +90,25 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "आवृत्ती">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; ला परवानगी द्या">
 
 
 
 
-
-
-
+<!ENTITY updateManual2.label             "सुधारणांकरिता कधीच तपासणी करू नका (शिफारसीय नाही)">
+<!ENTITY updateManual2.accesskey         "N">
 
 
 
 <!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY enableSearchUpdate2.label       "शोध इंजिन आपोआप अद्ययावत करा">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
-
+<!ENTITY reports.label                   "अहवाल">
 
 <!ENTITY offlineStorageNotify.label               "ऑफलाइन वापरासाठी माहिती केंव्हा साठवली जाते, ते कळवा">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -131,12 +134,13 @@
 <!ENTITY viewSecurityDevices.label       "सुरक्षा साधने">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "कार्यक्षमता">
+<!ENTITY useRecommendedPerformanceSettings2.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
 
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 
+<!ENTITY limitContentProcess2.label       "मजकूर प्रक्रिया मर्यादा">
 
-
-
-
-
+<!ENTITY limitContentProcess2.accesskey   "l">
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">
