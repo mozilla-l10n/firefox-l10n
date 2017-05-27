@@ -129,8 +129,11 @@
                                          "Користи препоручене поставке перформанси">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Ове поставке су кројене за хардвер вашег рачунара и његов оперативни систем.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "К">
 <!ENTITY limitContentProcess.label       "Граница процеса садржаја">
 <!ENTITY limitContentProcess.description
                                          "Додатни процеси садржаја могу побољшати &brandShortName; када користи више језичака истовремено, али такође ће користити више меморије.">
+<!ENTITY limitContentProcess.accesskey   "Г">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">
