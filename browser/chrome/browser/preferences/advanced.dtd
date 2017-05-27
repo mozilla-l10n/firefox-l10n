@@ -138,7 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "о">
 
 <!ENTITY performance.label               "Производительность">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Использовать рекомендуемые настройки производительности">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Эти настройки рассчитаны для вашего компьютера и операционной системы.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "н">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Подробнее">
+<!ENTITY limitContentProcess2.label       "Максимальное число процессов контента">
+<!ENTITY limitContentProcess2.description
+                                         "Дополнительные процессы контента могут улучшить производительность &brandShortName; при работе со множеством вкладок, но также повысят потребление памяти.">
+<!ENTITY limitContentProcess2.accesskey   "в">
 <!ENTITY allowHWAccel.label              "По возможности использовать аппаратное ускорение">
 <!ENTITY allowHWAccel.accesskey          "л">

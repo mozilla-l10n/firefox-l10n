@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление запуском плагина">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Изменение того, можете ли вы получать уведомления с сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Хранить данные в постоянном хранилище">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браузер находится под удаленным управлением">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление доступом сайта к вашей камере и/или микрофону">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управление доступом сайта к вашему микрофону">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Удалить историю…">
 <!ENTITY appMenuHistory.restoreSession.label "Восстановить предыдущую сессию">
 <!ENTITY appMenuHistory.viewSidebar.label "Боковая панель журнала">
+<!ENTITY appMenuHelp.label "Справка">
 <!ENTITY appMenuHelp.tooltip "Открыть меню Справка">
 
 <!ENTITY appMenuRemoteTabs.label "Облачные вкладки">
@@ -419,7 +421,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "а">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Совет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Получите помощь с поиском! Найдите значок &#x1F50E; рядом с поисковыми предложениями.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Изменить настройки…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "м">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Изменить настройки…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "м">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -533,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "с">
 <!ENTITY bookmarkThisFrameCmd.label      "Добавить фрейм в закладки">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "б">
+<!ENTITY copyURLCmd.label             "Копировать ссылку">
 <!ENTITY emailPageCmd.label           "Отправить ссылку по почте…">
 <!ENTITY emailPageCmd.accesskey       "п">
 <!ENTITY savePageCmd.label            "Сохранить как…">
@@ -658,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ш">
 
 <!ENTITY sidebarCloseButton.tooltip     "Закрыть боковую панель">
+<!ENTITY sidebarMenuClose.label         "Закрыть боковую панель">
 
 <!ENTITY quitApplicationCmdWin2.label       "Выход">
 <!ENTITY quitApplicationCmdWin2.accesskey   "х">
@@ -720,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Эта страница хранится на вашем компьютере.">
 <!ENTITY identity.connectionVerified2 "Вы подключились по защищённому соединению к сайту, которым владеет:">
 <!ENTITY identity.connectionInternal "Это защищённая страница &brandShortName;.">
+<!ENTITY identity.extensionPage "Эта страница загружена из расширения.">
 <!ENTITY identity.insecureLoginForms2 "Логины, введённые на этой странице, могут быть скомпрометированы.">
 
 <!-- Strings for connection state warnings. -->
@@ -818,7 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Нужно больше инструментов?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Выберите нужные вам дополнения">
 <!ENTITY customizeMode.restoreDefaults "По умолчанию">
+<!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Заголовок">
+<!ENTITY customizeMode.toolbars2 "Панели инструментов">
 <!ENTITY customizeMode.lwthemes "Темы">
 <!ENTITY customizeMode.lwthemes.myThemes "Мои темы">
 <!ENTITY customizeMode.lwthemes.recommended "Рекомендуемые">
@@ -932,5 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "з">
 <!ENTITY updateRestart.cancelButton.label "Не сейчас">
 <!ENTITY updateRestart.cancelButton.accesskey "е">
+<!ENTITY updateRestart.panelUI.label2 "Перезапустить &brandShorterName; для обновления">
 
 <!ENTITY pageActionButton.tooltip "Действия на странице">
