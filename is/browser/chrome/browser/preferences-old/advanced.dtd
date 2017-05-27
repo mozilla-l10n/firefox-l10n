@@ -124,9 +124,10 @@
 <!ENTITY viewSecurityDevices.label       "Öryggistæki">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
+<!ENTITY performance.label               "Afköst">
+<!ENTITY useRecommendedPerformanceSettings.label "Nota afkastastillingar sem er mælt með">
 
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey "N">
 
 
 
