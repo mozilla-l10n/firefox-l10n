@@ -17,7 +17,7 @@
 <!ENTITY block.accesskey              "Φ">
 <!ENTITY session.label                "Να επιτραπεί για τη συνεδρία">
 <!ENTITY session.accesskey            "σ">
-<!ENTITY allow.label                  "Να επιτρέπεται">
+<!ENTITY allow.label                  "Επιτρέπεται">
 <!ENTITY allow.accesskey              "ε">
 <!ENTITY windowClose.key              "w">
 
