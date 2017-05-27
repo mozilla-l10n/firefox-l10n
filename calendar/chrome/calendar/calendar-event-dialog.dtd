@@ -27,7 +27,7 @@
 <!ENTITY newevent.status.completed.label          "Acabada el dia" >
 <!-- The following entity is for New Task dialog only -->
 
-<!ENTITY newtodo.percentcomplete.label      "&#037; acabat">
+<!ENTITY newtodo.percentcomplete.label      "&#037; acabada">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
