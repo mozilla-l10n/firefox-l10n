@@ -28,19 +28,17 @@
 <!ENTITY cursive.label "Kursywa:">
 <!ENTITY cursive.accesskey "K">
 
-<!ENTITY font.langGroup.latin1 "Zachodnie">
-<!ENTITY font.langGroup.latin2 "Środkowoeuropejskie">
+<!-- LOCALIZATION NOTE (font.langGroup.latin) :
+     Translate "Latin" as the name of Latin (Roman) script, not as the name of
+     the Latin language. -->
+<!ENTITY font.langGroup.latin "Łacińskie">
 <!ENTITY font.langGroup.japanese "Japońskie">
 <!ENTITY font.langGroup.trad-chinese "Chińskie tradycyjne (Tajwan)">
 <!ENTITY font.langGroup.simpl-chinese "Chińskie uproszczone">
 <!ENTITY font.langGroup.trad-chinese-hk "Chińskie tradycyjne (Hong Kong)">
 <!ENTITY font.langGroup.korean "Koreańskie">
 <!ENTITY font.langGroup.cyrillic "Cyrylica">
-<!ENTITY font.langGroup.baltic "Bałtyckie">
 <!ENTITY font.langGroup.el "Greckie">
-<!ENTITY font.langGroup.turkish "Tureckie">
-<!ENTITY font.langGroup.unicode1 "Unicode">
-<!ENTITY font.langGroup.user-def "Użytkownika">
 <!ENTITY font.langGroup.thai "Tajskie">
 <!ENTITY font.langGroup.hebrew "Hebrajskie">
 <!ENTITY font.langGroup.arabic "Arabskie">
@@ -56,6 +54,12 @@
 <!ENTITY font.langGroup.khmer "Khmerskie">
 <!ENTITY font.langGroup.malayalam "Malajalam">
 <!ENTITY font.langGroup.math "Matematyczne">
+<!ENTITY font.langGroup.odia "Orija">
+<!ENTITY font.langGroup.telugu "Telugu">
+<!ENTITY font.langGroup.kannada "Kannada">
+<!ENTITY font.langGroup.sinhala "Syngaleskie">
+<!ENTITY font.langGroup.tibetan "Tybetańskie">
+<!ENTITY font.langGroup.other "innych systemów pisma">
 <!-- Minimum font size -->
 <!ENTITY minSize.label "Minimalny rozmiar czcionki:">
 <!ENTITY minSize.accesskey "z">
