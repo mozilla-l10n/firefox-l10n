@@ -20,9 +20,9 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          ":">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "ดาวน์โหลด">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ที่คั่นหน้า">
-<!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว ">
+<!ENTITY aboutPrivateBrowsing.note.before                "การท่องเว็บแบบส่วนตัว">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "ไม่ได้ทำให้คุณนิรนาม">
-<!ENTITY aboutPrivateBrowsing.note.after                 " บนอินเทอร์เน็ต นายจ้างหรือผู้ให้บริการอินเทอร์เน็ตยังคงสามารถทราบว่าคุณเยี่ยมชมหน้าใดบ้าง">
+<!ENTITY aboutPrivateBrowsing.note.after                 "บนอินเทอร์เน็ต นายจ้างหรือผู้ให้บริการอินเทอร์เน็ตยังคงสามารถทราบว่าคุณเยี่ยมชมหน้าใดบ้าง">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "เรียนรู้เพิ่มเติมเกี่ยวกับ ">
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "การท่องเว็บแบบส่วนตัว">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           "">
