@@ -699,7 +699,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY updater_downloading_title2 "S\u0027està baixant el &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "Ha fallat la baixada">
-<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització un cop baixada">
+<!ENTITY updater_downloading_select2 "Toqueu per aplicar l\u0027actualització">
 <!ENTITY updater_downloading_retry2 "Toqueu per reintentar-ho">
 
 <!ENTITY updater_apply_title3 "S\u0027ha baixat una actualització per al &brandShortName;">
