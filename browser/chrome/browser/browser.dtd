@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Copia">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Enganxa">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Neteja l'historial recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaura la sessió anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Mostra la barra lateral de l'historial">
-
+<!ENTITY appMenuHelp.label "Ajuda">
 <!ENTITY appMenuHelp.tooltip "Obre el menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Pestanyes sincronitzades">
@@ -420,6 +420,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consell:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 
@@ -665,7 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "d">
 
 <!ENTITY sidebarCloseButton.tooltip     "Tanca la barra lateral">
-
+<!ENTITY sidebarMenuClose.label         "Tanca la barra lateral">
 
 <!ENTITY quitApplicationCmdWin2.label       "Surt">
 <!ENTITY quitApplicationCmdWin2.accesskey   "u">
@@ -720,6 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Afegeix diccionaris…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "Fet">
 <!ENTITY editBookmark.removeBookmark.accessKey       "r">
 
 <!ENTITY identity.connectionSecure "Connexió segura">
@@ -826,9 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Voleu més eines?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Trieu-les d'entre els milers de complements">
 <!ENTITY customizeMode.restoreDefaults "Restaura els valors per defecte">
-
+<!ENTITY customizeMode.done "Fet">
 <!ENTITY customizeMode.titlebar "Barra de títol">
-
+<!ENTITY customizeMode.toolbars2 "Barres d'eines">
 <!ENTITY customizeMode.lwthemes "Temes">
 <!ENTITY customizeMode.lwthemes.myThemes "Els meus temes">
 <!ENTITY customizeMode.lwthemes.recommended "Recomanats">
@@ -942,6 +945,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ara no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-
+<!ENTITY updateRestart.panelUI.label2 "Reinicia per actualitzar el &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">

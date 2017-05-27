@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Us ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
 <!ENTITY enableHealthReport.label        "Activa l'informe de salut del &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
-
+<!ENTITY healthReportLearnMore.label     "Més informació">
 
 <!ENTITY telemetryDesc.label             "Comparteix dades sobre el rendiment, ús, maquinari i personalització del navegador amb &vendorShortName; per ajudar-nos a millorar el &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Comparteix dades addicionals (és a dir, la telemesura)">
 <!ENTITY enableTelemetryData.accesskey   "t">
-
+<!ENTITY telemetryLearnMore.label        "Més informació">
 
 <!ENTITY crashReporterDesc2.label         "Els informes de fallada ajuden a &vendorShortName; a resoldre problemes i a fer més estable i segur el vostre navegador">
 <!ENTITY alwaysSubmitCrashReports.label   "Permet que el &brandShortName; enviï els informes de fallada pendents automàticament">
 <!ENTITY alwaysSubmitCrashReports.accesskey "P">
-
+<!ENTITY crashReporterLearnMore.label     "Més informació">
 
 <!ENTITY networkTab.label                "Xarxa">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "b">
 <!ENTITY siteDataSettings.label          "Paràmetres…">
 <!ENTITY siteDataSettings.accesskey      "P">
-
+<!ENTITY siteDataLearnMoreLink.label     "Més informació">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -124,11 +124,12 @@
 <!ENTITY viewSecurityDevices.label       "Dispositius de seguretat">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "Rendiment">
+<!ENTITY useRecommendedPerformanceSettings.label "Utilitza els paràmetres de rendiment recomanats">
 
+<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
+<!ENTITY limitContentProcess.label       "Límit de procés del contingut">
 
-
-
-
-
+<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
