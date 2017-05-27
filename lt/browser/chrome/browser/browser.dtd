@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Valdyti papildinių naudojimą">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Pasirinkite, ar norite gauti pranešimus iš šios svetainės">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Saugoti duomenis išliekančioje atmintyje">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Naršyklė valdoma per nuotolį">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Tvarkyti kameros ir mikrofono naudojimą svetainėje">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Tvarkyti mikrofono naudojimą svetainėje">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "r"> 
 <!ENTITY copyCmd.label            "Kopijuoti">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Įdėti">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Valyti žurnalą…">
 <!ENTITY appMenuHistory.restoreSession.label "Atkurti paskiausiąjį seansą">
 <!ENTITY appMenuHistory.viewSidebar.label "Rodyti žurnalo parankinę">
-
+<!ENTITY appMenuHelp.label "Žinynas">
 <!ENTITY appMenuHelp.tooltip "Atverti žinyno meniu">
 
 <!ENTITY appMenuRemoteTabs.label "Sinchronizuotos kortelės">
