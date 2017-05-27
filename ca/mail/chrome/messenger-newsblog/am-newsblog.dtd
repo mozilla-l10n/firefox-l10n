@@ -4,9 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "En iniciar, comprova si hi ha articles nous">
 <!ENTITY loginAtStartup.accesskey      "i">
+<!ENTITY biffAll.label                 "Habilita les actualitzacions per a tots els canals d'informació">
+<!ENTITY biffAll.accesskey             "H">
 
-
-
+<!ENTITY newFeedSettings.label         "Paràmetres per defecte per als canals de notícies">
 
 <!ENTITY manageSubscriptions.label     "Gestiona les subscripcions…">
 <!ENTITY manageSubscriptions.accesskey "G">
