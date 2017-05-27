@@ -22,7 +22,7 @@
 <!ENTITY  generalSize           "Μέγεθος:">
 <!ENTITY  generalReferrer       "URL παραπομπής:">
 <!ENTITY  generalSource         "Πηγή cache:">
-<!ENTITY  generalModified       "Τροποποιήθηκε:">
+<!ENTITY  generalModified       "Τροποποίηση:">
 <!ENTITY  generalEncoding2      "Κωδικοποίηση:">
 <!ENTITY  generalMetaName       "Όνομα">
 <!ENTITY  generalMetaContent    "Περιεχόμενο">
@@ -52,8 +52,8 @@
 <!ENTITY  permTab               "Δικαιώματα">
 <!ENTITY  permTab.accesskey     "Δ">
 <!ENTITY  permUseDefault        "Χρήση προεπιλογών">
-<!ENTITY  permAskAlways         "Πάντα με ερώτηση">
-<!ENTITY  permAllow             "Να επιτρέπεται">
+<!ENTITY  permAskAlways         "Ερώτηση πάντα">
+<!ENTITY  permAllow             "Επιτρέπεται">
 <!ENTITY  permAllowSession      "Να επιτρέπεται για αυτή τη συνεδρία">
 <!ENTITY  permBlock             "Φραγή">
 <!ENTITY  permissionsFor        "Δικαιώματα για:">
@@ -74,13 +74,13 @@
 <!ENTITY  securityView.identity.domain   "Ιστοσελίδα: ">
 <!ENTITY  securityView.identity.verifier "Επιβεβαιώθηκε από: ">
 
-<!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; Ιστορικό">
+<!ENTITY  securityView.privacy.header                   "Απόρρητο &amp; ιστορικό">
 <!ENTITY  securityView.privacy.history                  "Έχω επισκεφθεί αυτή τη σελίδα ξανά σήμερα;">
-<!ENTITY  securityView.privacy.cookies                  "Αυτή η σελίδα τοποθετεί πληροφορίες (cookies) στον υπολογιστή μου;">
-<!ENTITY  securityView.privacy.viewCookies              "Προβολή Cookies">
+<!ENTITY  securityView.privacy.cookies                  "Αποθηκεύει αυτή η ιστοσελίδα πληροφορίες (cookies) στον υπολογιστή μου;">
+<!ENTITY  securityView.privacy.viewCookies              "Προβολή cookies">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "π">
-<!ENTITY  securityView.privacy.passwords                "Έχω αποθηκεύσει κωδικούς για αυτή τη σελίδα;">
-<!ENTITY  securityView.privacy.viewPasswords            "Προβολή κωδικών">
+<!ENTITY  securityView.privacy.passwords                "Έχω αποθηκεύσει κωδικούς πρόσβασης για αυτή την ιστοσελίδα;">
+<!ENTITY  securityView.privacy.viewPasswords            "Προβολή αποθηκευμένων κωδικών πρόσβασης">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "λ">
 
 <!ENTITY  securityView.technical.header                 "Τεχνικές λεπτομέρειες">
