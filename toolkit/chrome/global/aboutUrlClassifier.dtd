@@ -14,8 +14,8 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "רענון">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "פינוי">
 <!ENTITY aboutUrlClassifier.cacheTableName              "שם טבלה">
-<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "מספר רשומות מטמון שליליות">
-<!ENTITY aboutUrlClassifier.cachePCacheEntries          "מספר רשומות מטמון חיוביות">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "מספר רשומות מטמון שלילי">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "מספר רשומות מטמון חיובי">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "הצגת רשומות">
 <!ENTITY aboutUrlClassifier.cacheEntries                "רשומות במטמון">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "קידומת">
