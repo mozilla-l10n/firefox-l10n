@@ -9,10 +9,13 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Pemutakhiran berikutnya">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status pemutakhiran terakhir">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Pemutakhiran">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Tembolok">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Segarkan">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Hapus">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Nama tabel">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Cari">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Cocok">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Tembolok">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Memori">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Pangkalan Data">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
