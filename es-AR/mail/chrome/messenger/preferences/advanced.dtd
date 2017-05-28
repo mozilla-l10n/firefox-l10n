@@ -56,12 +56,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "Actualizaciones de &brandShortName;">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Versión ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Instalar actualizaciones automáticamente (recomendado: seguridad mejorada)">
 <!ENTITY updateAuto.accesskey            "a">
 <!ENTITY updateCheck.label               "Buscar actualizaciones, pero dejarme decidir si las instalo">
@@ -98,6 +101,8 @@
 <!ENTITY useCacheBefore.label            "Usar hasta">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espacio para caché">
+<!ENTITY overrideSmartCacheSize.label    "Anular administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "u">
 <!ENTITY clearCacheNow.label             "Borrar ahora">
 <!ENTITY clearCacheNow.accesskey         "B">
 
