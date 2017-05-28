@@ -3,6 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!ENTITY aboutUrlClassifier.pageTitle                   "url वर्गीकारकाबद्दल माहिती">
+<!ENTITY aboutUrlClassifier.providerTitle               "पुरविणारा">
+<!ENTITY aboutUrlClassifier.provider                    "पुरविणारा">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "या आधी अद्ययावत केले ती वेळ">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "पुढील अद्ययावत करायची वेळ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "या आधी अद्ययावत केले त्याची स्थिती">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "अद्ययावत करा">
 
 
 
@@ -15,24 +22,19 @@
 
 
 
+<!ENTITY aboutUrlClassifier.lookupTitle                 "लुकअप">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "जोड">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "जोड परिणाम तपासा">
+<!ENTITY aboutUrlClassifier.lookupLookup                "लुकअप">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "लूकअप परिणाम तपासा">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS लॉग सेट करा">
+<!ENTITY aboutUrlClassifier.debugSBModules              "सुरक्षित ब्राऊझिंग लॉग मॉड्युल">
+<!ENTITY aboutUrlClassifier.debugModules                "सध्याचे लॉग मॉड्युल">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "सुरक्षित ब्राऊझिंग JS मॉड्युल">
+<!ENTITY aboutUrlClassifier.debugFile                   "सद्याची लॉग फाईल">
