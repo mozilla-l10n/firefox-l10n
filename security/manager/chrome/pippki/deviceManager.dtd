@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "ब्राउझ करा…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 साधन ड्राइव्हर दाखल करा">
