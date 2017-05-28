@@ -12,6 +12,7 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovat">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Mezipaměť">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Obnovit">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Vymazat">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Vyhledání">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Adresa URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Hledat shodu">
