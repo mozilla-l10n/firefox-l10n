@@ -40,3 +40,5 @@
 <!ENTITY smtpName.accesskey "O">
 <!ENTITY smtpDefaultServer.label "Použít výchozí server">
 
+<!ENTITY smtpServerEdit.label "Upravit SMTP server…">
+<!ENTITY smtpServerEdit.accesskey "U">
