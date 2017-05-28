@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Stiùirich cleachdadh a’ phlugain">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Cuir romhad am faigh thu brathan on làrach seo gus nach fhaigh">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Stòr dàta san stòras bhuan">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Tha am brabhsair fo smachd cèin">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Stiùirich co-roinneadh a’ chamara ’s/no a’ mhicreofoin agad leis an làrach">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Stiùirich co-roinneadh a’ mhicreofoin agad leis an làrach">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
 <!ENTITY copyCmd.label            "Dèan lethbhreac">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "c"> 
 <!ENTITY pasteCmd.label           "Cuir ann">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Glan an eachdraidh faisg ort…">
 <!ENTITY appMenuHistory.restoreSession.label "Aisig an seisean roimhe seo">
 <!ENTITY appMenuHistory.viewSidebar.label "Seall bàr-taoibh na h-eachdraidh">
-
+<!ENTITY appMenuHelp.label "Cobhair">
 <!ENTITY appMenuHelp.tooltip "Fosgail clàr-taice na cobharach">
 
 <!ENTITY appMenuRemoteTabs.label "Tabaichean sioncronaichte">
@@ -403,6 +403,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "Barrachd">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Cuir ann lorg no seòladh">
 <!ENTITY urlbar.accesskey             "d">
@@ -418,11 +420,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Tha">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Gliocas:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Faigh cobhair le bhith a’ lorg rudan! Cum sùil airson an &#x1F50E; ri taobh nam molaidhean luirg.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Atharraich na roghainnean…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Atharraich na roghainnean…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -536,7 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Cruthaich comharra-lìn dhan fhrèam seo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Dèan lethbhreac dhen URL">
 <!ENTITY emailPageCmd.label           "Cuir an dealbh air a' phost-d…">
 <!ENTITY emailPageCmd.accesskey       "C">
 <!ENTITY savePageCmd.label            "Sàbhail an duilleag mar…">
@@ -663,7 +668,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Dùin am bàr-taoibh">
-
+<!ENTITY sidebarMenuClose.label         "Dùin am bàr-taoibh">
 
 <!ENTITY quitApplicationCmdWin2.label       "Fàg an-seo">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
@@ -718,6 +723,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Cuir faclairean ris…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
+<!ENTITY editBookmark.done.label                     "Dèanta">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceangal tèarainte">
@@ -725,7 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Tha an duilleag seo ’ga stòradh air a’ choimpiutair agad.">
 <!ENTITY identity.connectionVerified2 "Tha ceangal tèarainte agad ris an làrach seo a tha le:">
 <!ENTITY identity.connectionInternal "Seo duilleag &brandShortName; tèarainte.">
-
+<!ENTITY identity.extensionPage "Chaidh an duilleag seo ’ga luchdadh o leudachan.">
 <!ENTITY identity.insecureLoginForms2 "Dh’fhaoidte gu bheil cothrom air daoine air fiosrachadh clàraidh air an duilleag seo.">
 <!-- Strings for connection state warnings. -->
 
@@ -824,9 +830,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "A bheil thu ag iarraidh barrachd innealan?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Roghadh is taghadh eadar mìltean a thuilleadain">
 <!ENTITY customizeMode.restoreDefaults "Aisig na bun-roghainnean">
-
+<!ENTITY customizeMode.done "Dèanta">
 <!ENTITY customizeMode.titlebar "Bàr an tiotail">
-
+<!ENTITY customizeMode.toolbars2 "Na bàraichean-inneal">
 <!ENTITY customizeMode.lwthemes "Ùrlaran">
 <!ENTITY customizeMode.lwthemes.myThemes "Na h-ùrlaran agam">
 <!ENTITY customizeMode.lwthemes.recommended "Air a mholadh">
@@ -934,10 +940,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Luchdaich a-nuas lethbhreac ùr de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Aisigidh &brandShorterName; gach taba ’s uinneag fhosgailte dhut an dèidh dha ath-thòiseachadh.">
+<!ENTITY updateRestart.header.message2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh.">
+<!ENTITY updateRestart.acceptButton.label "Ath-thòisich is aisig">
+<!ENTITY updateRestart.acceptButton.accesskey "A">
+<!ENTITY updateRestart.cancelButton.label "Chan ann an-dràsta">
+<!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label2 "Dèan ath-thòiseachadh airson &brandShorterName; ùrachadh">
 
-
-
-
-
-
-
+<!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
