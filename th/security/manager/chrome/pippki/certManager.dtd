@@ -19,7 +19,7 @@
 <!ENTITY certmgr.detail.general_tab.title     "ทั่วไป">
 <!ENTITY certmgr.detail.general_tab.accesskey "ท">
 <!ENTITY certmgr.detail.prettyprint_tab.title "รายละเอียด">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ล">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ร">
 
 <!ENTITY certmgr.pending.label                "กำลังตรวจสอบใบรับรอง…">
 <!ENTITY certmgr.subjectinfo.label            "ออกให้">
@@ -74,7 +74,7 @@
 <!ENTITY certmgr.fields.label                 "ค่า">
 <!ENTITY certmgr.fields.accesskey             "ค">
 <!ENTITY certmgr.hierarchy.label              "ลำดับชั้นใบรับรอง">
-<!ENTITY certmgr.hierarchy.accesskey2         "H">
+<!ENTITY certmgr.hierarchy.accesskey2         "ล">
 <!ENTITY certmgr.addException.label           "เพิ่มข้อยกเว้น…">
 <!ENTITY certmgr.addException.accesskey       "ย">
 
