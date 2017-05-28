@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "Failas">
 <!ENTITY plugin.mimeTypes                                    "MIME tipai">
 <!ENTITY plugin.flashProtectedMode.label                     "Įjungti „Adobe Flash“ saugiąją veikseną">
-
+<!ENTITY plugin.enableBlocklists.label                       "Blokuoti pavojingą ir nepageidaujamą „Flash“ turinį">
