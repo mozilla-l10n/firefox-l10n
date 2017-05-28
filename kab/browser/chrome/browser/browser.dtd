@@ -424,6 +424,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Snifel iγewwaṛen…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Y">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Snifel Ismenyifen…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Y">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -537,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-agi">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
+<!ENTITY copyURLCmd.label             "Nγel URL">
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
@@ -662,6 +665,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "S">
 
 <!ENTITY sidebarCloseButton.tooltip     "Mdel agalis adisan">
+<!ENTITY sidebarMenuClose.label         "Mdel agalis adisan">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ffeɣ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
@@ -724,6 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Asebter-agi yettwakles deg uselkim-inek.">
 <!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel-agi, iselkem sɣuṛ:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
+<!ENTITY identity.extensionPage "Asebter-agi yuli-d seg usiγzef.">
 <!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-agi, ad ttwakren.">
 
 <!-- Strings for connection state warnings. -->
@@ -822,7 +827,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Tesriḍ ifecka nniḍen?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fren seg igimen n izegrar">
 <!ENTITY customizeMode.restoreDefaults "Err-d tawila tamezwert">
+<!ENTITY customizeMode.done "Immed">
 <!ENTITY customizeMode.titlebar "Afeggag n uzwel">
+<!ENTITY customizeMode.toolbars2 "Afeggag n ifecka">
 <!ENTITY customizeMode.lwthemes "Isental">
 <!ENTITY customizeMode.lwthemes.myThemes "Isental-iw">
 <!ENTITY customizeMode.lwthemes.recommended "Ihul">
@@ -936,5 +943,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Mačči tura">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Sker i tikkelt nniḍen akken ad tleqmeḍ&brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
