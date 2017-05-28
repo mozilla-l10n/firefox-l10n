@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Amazray">
 <!ENTITY engine.history.accesskey   "A">
+<!ENTITY engine.logins.label        "Inekcam">
+<!ENTITY engine.logins.accesskey    "Y">
 <!ENTITY engine.prefs.label         "Imsenyifen">
 <!ENTITY engine.prefs.accesskey     "y">
 <!ENTITY engine.addons.label        "Izegrar">

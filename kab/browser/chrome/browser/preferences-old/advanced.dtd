@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Seqdec adrurem aleggwaɣ">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
-<!ENTITY allowHWAccel.accesskey          "q">
 <!ENTITY checkUserSpelling.label         "Senqed taɣdira yinu mi ara ttaruɣ ">
 <!ENTITY checkUserSpelling.accesskey     "q">
 
@@ -125,3 +123,11 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Taɣellist n ibenkan">
 <!ENTITY viewSecurityDevices.accesskey   "T">
+
+<!ENTITY performance.label               "Tamellit">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "S">
+<!ENTITY limitContentProcess.label       "Azal afellay n ukala n ugbur">
+<!ENTITY limitContentProcess.accesskey   "Y">
+<!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
+<!ENTITY allowHWAccel.accesskey          "q">
