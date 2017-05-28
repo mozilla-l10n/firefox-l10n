@@ -125,5 +125,7 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "ประสิทธิภาพ">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "ใช้การตั้งค่าประสิทธิภาพที่แนะนำ">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
