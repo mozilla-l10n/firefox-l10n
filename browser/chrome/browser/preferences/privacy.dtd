@@ -6,21 +6,21 @@
 <!ENTITY  trackingProtection.description       "การติดตามคือบริษัทได้เก็บข้อมูลเกี่ยวกับคุณเพื่อสร้างโปรไฟล์และแสดงเนื้อหาที่อยู่บนข้อมูลส่วนตัวและการท่องเว็บของคุณ">
 <!ENTITY  trackingProtection.radioGroupLabel   "ปิดกั้นบริษัทติดตามที่เป็นที่รู้จักจากการแสดงเนื้อหา">
 <!ENTITY  trackingProtectionAlways.label       "เสมอ">
-<!ENTITY  trackingProtectionAlways.accesskey   "y">
+<!ENTITY  trackingProtectionAlways.accesskey   "ส">
 <!ENTITY  trackingProtectionPrivate.label      "เฉพาะในหน้าต่างส่วนตัว">
-<!ENTITY  trackingProtectionPrivate.accesskey  "l">
+<!ENTITY  trackingProtectionPrivate.accesskey  "พ">
 <!ENTITY  trackingProtectionNever.label        "ไม่เลย">
-<!ENTITY  trackingProtectionNever.accesskey    "n">
+<!ENTITY  trackingProtectionNever.accesskey    "ม">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
-<!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!ENTITY  trackingProtectionExceptions.accesskey "อ">
 
 <!ENTITY tracking.label                 "การตามรอย">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "เรียนรู้เพิ่มเติม">
 <!ENTITY changeBlockList.label          "เปลี่ยนรายการการปิดกั้น">
-<!ENTITY changeBlockList.accesskey      "C">
+<!ENTITY changeBlockList.accesskey      "ป">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
