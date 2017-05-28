@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Sfeḍ amazray-inek n melmi kan…">
 <!ENTITY appMenuHistory.restoreSession.label "Err-d tiɣimit izrin">
 <!ENTITY appMenuHistory.viewSidebar.label "Sken agalis adisan n umazray">
+<!ENTITY appMenuHelp.label "Tallalt">
 <!ENTITY appMenuHelp.tooltip "Ldi umuɣ n tallalt">
 
 <!ENTITY appMenuRemoteTabs.label "Iccaren yemtawin">
@@ -419,7 +420,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Taxbalut:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Snifel iγewwaṛen…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Y">
 
 <!--
   Comment duplicated from browser-sets.inc:
