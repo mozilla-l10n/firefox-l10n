@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "I">
 <!ENTITY insertLinkCmd2.label "Հղում...">
 <!ENTITY insertLinkCmd2.accesskey "L">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Անվանարկված խարիսխ...">
 <!ENTITY insertAnchorCmd.accesskey "A">
 <!ENTITY insertImageCmd.label "Նկար...">

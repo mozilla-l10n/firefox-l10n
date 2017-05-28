@@ -81,10 +81,10 @@
 <!ENTITY propertiesCmd.key                              "Հ">
 <!ENTITY abPropertiesMenu.label                         "Հասցեագրքի հատկությունները">
 <!ENTITY abPropertiesMenu.accesskey                     "ն">
-
-
-
-
+<!ENTITY contactPropertiesMenu.label                    "Կոնտակտի հատկությունները">
+<!ENTITY contactPropertiesMenu.accesskey                "յ">
+<!ENTITY mailingListPropertiesMenu.label                "Տեղեկագրի ցանկի հատկությունները">
+<!ENTITY mailingListPropertiesMenu.accesskey            "կ">
 <!-- View Menu -->
 
 <!ENTITY viewMenu.label                                 "Տեսք">
@@ -140,15 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Նոր ցանկ">
 <!ENTITY newlistButton.accesskey                        "L">
-
-
+<!ENTITY showAsDefault.label                            "Լռելյայն ինքնամեկնարկի գրացուցակ">
+<!ENTITY showAsDefault.accesskey                        "ի">
 <!ENTITY editPropertiesButton.label                     "Խմբագրել">
 <!ENTITY propertiesContext.label                        "Հատկություններ">
 <!ENTITY propertiesContext.accesskey                    "ն">
 <!ENTITY abPropertiesContext.label                      "Հատկություններ">
 <!ENTITY abPropertiesContext.accesskey                  "ն">
-
-
+<!ENTITY editContactContext.label                       "Խմբագրել կոնտակտը">
+<!ENTITY editContactContext.accesskey                   "Խ">
 <!ENTITY editMailingListContext.label                   "Խմբագրել ցանկը">
 <!ENTITY editMailingListContext.accesskey               "Խ">
 <!ENTITY newmsgButton.label                             "Նոր նամակ">
@@ -164,9 +164,9 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.tooltip                       "Ստեղծել նոր հասցե">
 <!ENTITY newlistButton.tooltip                          "Ստեղծել նոր ցանկ">
 <!ENTITY editPropertiesButton.tooltip                   "Խմբագրել ընտրվածը">
-
+<!ENTITY editAbPropertiesButton.tooltip                 "Խմբագրել ընտրված հասցեագրքի հատկությունները">
 <!ENTITY editContactPropertiesButton.tooltip            "Խմբագրել ընտրվածը">
-
+<!ENTITY editMailingListPropertiesButton.tooltip        "Խմբագրել ընտրված տեղեկագիրը">
 <!ENTITY newmsgButton.tooltip                           "Ուղարկել նամակը">
 <!ENTITY newIM.tooltip                                  "Ուղարկել անմիջական նամակը">
 <!ENTITY deleteButton2.tooltip                          "Ջնջել ընտրվածը">
