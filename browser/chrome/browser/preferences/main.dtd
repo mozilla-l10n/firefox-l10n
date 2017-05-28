@@ -5,18 +5,20 @@
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
 <!ENTITY startupPage2.label        "เมื่อ &brandShortName; เริ่ม">
+<!ENTITY startupPage2.accesskey    "ร">
 <!ENTITY startupUserHomePage.label "แสดงหน้าแรกของคุณ">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
 <!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด">
 
 <!ENTITY homepage2.label           "หน้าแรก">
+<!ENTITY homepage2.accesskey       "ห">
 <!ENTITY useCurrentPage.label      "ใช้หน้าปัจจุบัน">
 <!ENTITY useCurrentPage.accesskey  "ป">
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">
 <!ENTITY chooseBookmark.label      "ใช้ที่คั่นหน้า…">
 <!ENTITY chooseBookmark.accesskey  "ท">
 <!ENTITY restoreDefault.label      "เรียกคืนค่าเริ่มต้น">
-<!ENTITY restoreDefault.accesskey  "เ">
+<!ENTITY restoreDefault.accesskey  "ร">
 
 <!ENTITY downloads.label     "ดาวน์โหลด">
 
