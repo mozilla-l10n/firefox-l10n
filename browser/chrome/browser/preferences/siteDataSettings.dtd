@@ -7,9 +7,12 @@
 <!ENTITY     statusCol.label               "สถานะ">
 <!ENTITY     usageCol.label                "ที่เก็บข้อมูล">
 <!ENTITY     searchTextboxPlaceHolder             "ค้นหาเว็บไซต์">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "ค">
 <!ENTITY     removeSelected.label          "เอาที่เลือกออก">
 <!ENTITY     removeSelected.accesskey      "อ">
 <!ENTITY     save.label                    "บันทึกการเปลี่ยนแปลง">
+<!ENTITY     save.accesskey                "บ">
 <!ENTITY     cancel.label                  "ยกเลิก">
+<!ENTITY     cancel.accesskey              "ย">
 <!ENTITY     removingDialog.title          "เอาข้อมูลไซต์ออก">
 <!ENTITY     siteTree.label                "คุกกี้ของเว็บไซต์ดังต่อไปนี้จะถูกเอาออก:">

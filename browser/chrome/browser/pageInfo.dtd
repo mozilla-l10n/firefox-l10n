@@ -38,7 +38,7 @@
 <!ENTITY  mediaCount            "จำนวน">
 <!ENTITY  mediaDimension        "มิติ:">
 <!ENTITY  mediaLongdesc         "คำอธิบายแบบยาว:">
-<!ENTITY  mediaBlockImage.accesskey "B">
+<!ENTITY  mediaBlockImage.accesskey "ป">
 <!ENTITY  mediaSaveAs           "บันทึกเป็น…">
 <!ENTITY  mediaSaveAs.accesskey "บ">
 <!ENTITY  mediaSaveAs2.accesskey "บ">
