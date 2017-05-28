@@ -126,7 +126,7 @@
 
 <!ENTITY performance.label               "Desempenho">
 <!ENTITY useRecommendedPerformanceSettings.label "Utilizar definições de desempenho recomendadas">
-<!ENTITY useRecommendedPerformanceSettings.description "Estas definições são feitas para o hardware e sistema operativo do seu computador.">
+<!ENTITY useRecommendedPerformanceSettings.description "Estas definições são ajustadas para o hardware e sistema operativo do seu computador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 <!ENTITY limitContentProcess.label       "Limite de processos de conteúdo">
 <!ENTITY limitContentProcess.description "Processos de conteúdo adicionais podem melhorar o desempenho do &brandShortName; ao utilizar múltiplos separadores, mas também irá consumir mais memória.">

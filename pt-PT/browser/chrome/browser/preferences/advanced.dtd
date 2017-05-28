@@ -139,7 +139,7 @@
 
 <!ENTITY performance.label               "Desempenho">
 <!ENTITY useRecommendedPerformanceSettings2.label "Utilizar definições de desempenho recomendadas">
-<!ENTITY useRecommendedPerformanceSettings2.description "Estas definições são feitas para o hardware e sistema operativo do seu computador.">
+<!ENTITY useRecommendedPerformanceSettings2.description "Estas definições são ajustadas para o hardware e sistema operativo do seu computador.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Saber mais">
 <!ENTITY limitContentProcess2.label       "Limite de processos de conteúdo">
