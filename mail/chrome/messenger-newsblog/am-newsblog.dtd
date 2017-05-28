@@ -4,9 +4,10 @@
 
 <!ENTITY loginAtStartup.label          "Բացելիս ստուգել նորությունները">
 <!ENTITY loginAtStartup.accesskey      "C">
+<!ENTITY biffAll.label                 "Միացնել բոլոր շղթաների թարմացումները">
+<!ENTITY biffAll.accesskey             "Մ">
 
-
-
+<!ENTITY newFeedSettings.label         "Լռելյայն կարգավորումներ նոր շղթաների համար">
 
 <!ENTITY manageSubscriptions.label     "Կառավարել բաժանորդագրությունները....">
 <!ENTITY manageSubscriptions.accesskey "M">

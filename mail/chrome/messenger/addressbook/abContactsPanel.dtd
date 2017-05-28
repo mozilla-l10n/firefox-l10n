@@ -7,15 +7,15 @@
 <!ENTITY propertiesCmd.key                  "i">
 <!ENTITY abPropertiesMenu.label             "Հասցեագրքի հատկությունները">
 <!ENTITY abPropertiesMenu.accesskey         "ն">
-
-
-
-
+<!ENTITY contactPropertiesMenu.label        "Կոնտակտի հատկությունները">
+<!ENTITY contactPropertiesMenu.accesskey    "յ">
+<!ENTITY mailingListPropertiesMenu.label    "Տեղեկագրի ցանկի հատկությունները">
+<!ENTITY mailingListPropertiesMenu.accesskey "կ">
 
 <!ENTITY addressbookPicker.label            "Հասցեագիրք.">
 <!ENTITY addressbookPicker.accesskey        "ք">
-
-
+<!ENTITY searchContacts.label               "Որոնել կոնտակտներ.">
+<!ENTITY searchContacts.accesskey           "տ">
 <!ENTITY SearchNameOrEmail.label            "Անունը կամ էլ. հասցեն">
 
 <!ENTITY addtoToFieldMenu.label             "Ավելացնել Ում դաշտում">
@@ -30,8 +30,8 @@
 <!ENTITY propertiesContext.accesskey        "ն">
 <!ENTITY abPropertiesContext.label          "Հատկություններ">
 <!ENTITY abPropertiesContext.accesskey      "ն">
-
-
+<!ENTITY editContactContext.label           "Խմբագրել կոնտակտները">
+<!ENTITY editContactContext.accesskey       "Խ">
 <!ENTITY editMailingListContext.label       "Խմբագրել ցանկը">
 <!ENTITY editMailingListContext.accesskey   "Խ">
 

@@ -11,7 +11,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Ստուգել թարմացումները">
 <!ENTITY update.checkForUpdatesButton.accesskey   "Ս">
-
+<!ENTITY update.updateButton.label3               "Վերամեկարկեք՝ &brandShorterName;-ը թարմացնելու համար">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 

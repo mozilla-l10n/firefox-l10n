@@ -19,11 +19,13 @@
 <!ENTITY feedFolder.accesskey        "Պ">
 <!-- Account Settings and Subscription Dialog -->
 
-
-
-
-
-
+<!ENTITY biffStart.label             "Ստուգել թարմացումները յուրաքանչյուր՝">
+<!ENTITY biffStart.accesskey         "լ">
+<!ENTITY biffMinutes.label           "րոպե">
+<!ENTITY biffMinutes.accesskey       "պ">
+<!ENTITY biffDays.label              "օր">
+<!ENTITY biffDays.accesskey          "օ">
+<!ENTITY recommendedUnits.label      "Թողարկողը երաշխավորում է՝">
 
 <!ENTITY quickMode.label             "Ցուցադրել հոդվածի ընդհանուր պատկերը` վեբ էջի փոխարեն">
 <!ENTITY quickMode.accesskey         "Ց">
