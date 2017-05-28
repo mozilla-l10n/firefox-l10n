@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Taba ùr">
-
+<!ENTITY newtab.customize.classic "Seall brod nan làrach agad">
 <!ENTITY newtab.customize.cog.enhanced "Gabh a-staigh làraichean a mholamaid">
 <!ENTITY newtab.customize.cog.title2 "UIDHEAMAN-SMACHD THABAICHEAN ÙRA">
 <!ENTITY newtab.customize.cog.learn "Fiosrachadh mu na tabaichean ùra">
