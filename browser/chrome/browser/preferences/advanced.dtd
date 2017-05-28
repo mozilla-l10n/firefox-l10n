@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "Yting">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Bruk tilrådde ytingsinnstillingar">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Desse innstillingane er skreddarsydd til datamaskinas maskinvare og operativsystem.">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">

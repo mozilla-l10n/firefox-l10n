@@ -10,13 +10,14 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Neste oppdatering">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Oppdater">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Slå opp">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Treff">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller treffresultat">
 <!ENTITY aboutUrlClassifier.lookupLookup                "Slå opp">
 <!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller søkeresultat">
-<!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
 <!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
 <!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Feilretting">
