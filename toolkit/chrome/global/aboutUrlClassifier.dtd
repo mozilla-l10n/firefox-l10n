@@ -17,8 +17,10 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Número de entradas negativas de caché">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Número de entradas positivas de caché">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Mostrar entradas">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entradas de caché">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefijo">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiración de caché negativo">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash completo">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiración de caché positivo">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
