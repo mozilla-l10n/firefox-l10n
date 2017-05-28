@@ -7,7 +7,7 @@
 <!ENTITY  window.macWidth                 "41em">
 
 <!ENTITY  overrideDefaultPageColors.label        "เขียนทับสีที่ระบุโดยหน้าด้วยที่คุณเลือกไว้ด้านบน:">
-<!ENTITY  overrideDefaultPageColors.accesskey    "O">
+<!ENTITY  overrideDefaultPageColors.accesskey    "ย">
 
 <!ENTITY  overrideDefaultPageColors.always.label "เสมอ">
 <!ENTITY  overrideDefaultPageColors.auto.label   "เฉพาะกับชุดตกแต่งความคมชัดสูง">
@@ -15,16 +15,16 @@
 
 <!ENTITY  color                           "ตัวอักษรและพื้นหลัง">
 <!ENTITY  textColor.label                 "ตัวอักษร:">
-<!ENTITY  textColor.accesskey             "T">
+<!ENTITY  textColor.accesskey             "ต">
 <!ENTITY  backgroundColor.label           "พื้นหลัง:">
-<!ENTITY  backgroundColor.accesskey       "B">
+<!ENTITY  backgroundColor.accesskey       "พ">
 <!ENTITY  useSystemColors.label           "ใช้สีของระบบ">
-<!ENTITY  useSystemColors.accesskey       "s">
+<!ENTITY  useSystemColors.accesskey       "ส">
 
 <!ENTITY  underlineLinks.label            "ขีดเส้นใต้ลิงก์">
-<!ENTITY  underlineLinks.accesskey        "U">
+<!ENTITY  underlineLinks.accesskey        "ข">
 <!ENTITY  links                           "สีลิงก์">
 <!ENTITY  linkColor.label                 "ลิงก์ที่ยังไม่เคยเยี่ยมชม:">
-<!ENTITY  linkColor.accesskey             "L">
+<!ENTITY  linkColor.accesskey             "ล">
 <!ENTITY  visitedLinkColor.label          "ลิงก์ที่เยี่ยมชมแล้ว:">
-<!ENTITY  visitedLinkColor.accesskey      "V">
+<!ENTITY  visitedLinkColor.accesskey      "ง">
