@@ -41,4 +41,5 @@
 <!ENTITY smtpName.accesskey "F">
 <!ENTITY smtpDefaultServer.label "Cleachd am frithealaiche bunaiteach">
 
-
+<!ENTITY smtpServerEdit.label "Deasaich am frithealaiche SMTP…">
+<!ENTITY smtpServerEdit.accesskey "P">
