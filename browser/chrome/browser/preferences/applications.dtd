@@ -6,7 +6,7 @@
 <!ENTITY  applications.description "เลือกวิธีที่ &brandShortName; จัดการกับไฟล์ที่คุณดาวน์โหลดจากเว็บหรือแอปพลิเคชันที่คุณใช้ขณะท่องเว็บ">
 
 <!ENTITY  typeColumn.label        "ชนิดเนื้อหา">
-<!ENTITY  typeColumn.accesskey    "T">
+<!ENTITY  typeColumn.accesskey    "ช">
 
 <!ENTITY  actionColumn2.label     "การกระทำ">
 <!ENTITY  actionColumn2.accesskey "ก">
