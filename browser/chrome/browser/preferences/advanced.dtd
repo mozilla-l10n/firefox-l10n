@@ -138,6 +138,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "k">
 
 <!ENTITY performance.label               "Yting">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Bruk tilrådde ytingsinnstillingar">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">

@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrer bruk av programtillegg">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Vel om du kan ta imot varsel frå nettstaden">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Lagre data i vedvarande lagring">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nettlesaren er under fjernstyring">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Handter deling av kamera og/eller mikrofon på denne nettstaden">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Handter deling av mikrofon med denne nettstaden">
@@ -350,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
 <!ENTITY appMenuHistory.restoreSession.label "Gjenopprett siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
-<!ENTITY appMenuHelp.label "HJelp">
+<!ENTITY appMenuHelp.label "Hjelp">
 <!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserte faner">
@@ -422,6 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tips:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjelp til å finne ting! Sjå etter &#x1F50E; ved sida av søkeforslag.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Endre innstillingar…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "E">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Endre innstillingar…">
@@ -728,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Denne sida er lagra på datamaskina di.">
 <!ENTITY identity.connectionVerified2 "Du er trygt kopla til denne sida, eigd av:">
 <!ENTITY identity.connectionInternal "Dette er ei trygg &brandShortName;-side.">
+<!ENTITY identity.extensionPage "Denne sida er lasta frå ei utviding.">
 <!ENTITY identity.insecureLoginForms2 "Innloggingsinfo skrive inn på denne sida kan lesast av tredjepart.">
 
 <!-- Strings for connection state warnings. -->
