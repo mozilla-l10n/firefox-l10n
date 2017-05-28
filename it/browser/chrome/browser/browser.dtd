@@ -283,10 +283,16 @@
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Aggiungi al menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Aggiungi al menu extra">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "x">
 <!ENTITY customizeMenu.moveToToolbar.label "Sposta nella barra degli strumenti">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!ENTITY customizeMenu.moveToPanel.label "Sposta nel menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Aggiungi al menu extra">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "x">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Rimuovi dal menu extra">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "x">
 <!ENTITY customizeMenu.removeFromToolbar.label "Rimuovi dalla barra degli strumenti">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "b">
 <!ENTITY customizeMenu.removeFromMenu.label "Rimuovi dal menu">
