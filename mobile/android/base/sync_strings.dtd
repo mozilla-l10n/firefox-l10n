@@ -101,7 +101,7 @@
      status activity, which lets them manage their Firefox
      Account. -->
 <!ENTITY fxaccount_options_title '&syncBrand.shortName.label; Seçenekleri'>
-<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label;\u0027u yapılandır'>
+<!ENTITY fxaccount_options_configure_title '&syncBrand.shortName.label;\u0027i yapılandır'>
 
 <!-- Localization note: these error messages are shown after a request
      has been made to the remote server, and an error of some type has
