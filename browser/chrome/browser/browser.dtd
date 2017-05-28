@@ -946,6 +946,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "ر">
 <!ENTITY updateRestart.cancelButton.label "اکنون نه">
 <!ENTITY updateRestart.cancelButton.accesskey "ا">
-
+<!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "کنش‌های صفحه">
