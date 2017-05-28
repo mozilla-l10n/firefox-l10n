@@ -421,6 +421,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Změnit v Možnostech…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Změnit v Předvolbách…">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -660,6 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "V">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zavře postranní lištu">
+<!ENTITY sidebarMenuClose.label         "Zavřít postranní lištu">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ukončit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
