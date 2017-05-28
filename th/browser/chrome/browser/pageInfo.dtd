@@ -10,7 +10,7 @@
 <!ENTITY  copy.accesskey        "ค">
 <!ENTITY  selectall.key         "A">
 <!ENTITY  selectall.label       "เลือกทั้งหมด">
-<!ENTITY  selectall.accesskey   "ท">
+<!ENTITY  selectall.accesskey   "ล">
 <!ENTITY  closeWindow.key       "w">
 
 <!ENTITY  generalTab            "ทั่วไป">
@@ -40,8 +40,8 @@
 <!ENTITY  mediaLongdesc         "คำอธิบายแบบยาว:">
 <!ENTITY  mediaBlockImage.accesskey "B">
 <!ENTITY  mediaSaveAs           "บันทึกเป็น…">
-<!ENTITY  mediaSaveAs.accesskey "ป">
-<!ENTITY  mediaSaveAs2.accesskey "ป">
+<!ENTITY  mediaSaveAs.accesskey "บ">
+<!ENTITY  mediaSaveAs2.accesskey "บ">
 <!ENTITY  mediaPreview          "แสดงตัวอย่างสื่อ:">
 
 <!ENTITY  feedTab               "ฟีด">
@@ -50,7 +50,7 @@
 <!ENTITY  feedSubscribe.accesskey "บ">
 
 <!ENTITY  permTab               "การอนุญาต">
-<!ENTITY  permTab.accesskey     "อ">
+<!ENTITY  permTab.accesskey     "ก">
 <!ENTITY  permUseDefault        "ใช้ค่าเริ่มต้น">
 <!ENTITY  permAskAlways         "ถามเสมอ">
 <!ENTITY  permAllow             "อนุญาต">
@@ -63,9 +63,9 @@
 <!ENTITY  permClearStorage.accesskey "ล">
 
 <!ENTITY  securityTab           "ความปลอดภัย">
-<!ENTITY  securityTab.accesskey "ป">
+<!ENTITY  securityTab.accesskey "ค">
 <!ENTITY  securityView.certView "ดูใบรับรอง">
-<!ENTITY  securityView.accesskey "ง">
+<!ENTITY  securityView.accesskey "บ">
 <!ENTITY  securityView.unknown   "ไม่ทราบ">
 
 
@@ -78,7 +78,7 @@
 <!ENTITY  securityView.privacy.history                  "ฉันเคยเยี่ยมชมเว็บไซต์นี้ก่อนหน้าวันนี้หรือไม่?">
 <!ENTITY  securityView.privacy.cookies                  "เว็บไซต์นี้จัดเก็บข้อมูล (คุกกี้) ลงในคอมพิวเตอร์ของฉันหรือไม่?">
 <!ENTITY  securityView.privacy.viewCookies              "ดูคุกกี้">
-<!ENTITY  securityView.privacy.viewCookies.accessKey    "ค">
+<!ENTITY  securityView.privacy.viewCookies.accessKey    "ด">
 <!ENTITY  securityView.privacy.passwords                "ฉันเคยบันทึกรหัสผ่านใด ๆ สำหรับเว็บไซต์นี้หรือไม่?">
 <!ENTITY  securityView.privacy.viewPasswords            "ดูรหัสผ่านที่บันทึกไว้">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "ร">
