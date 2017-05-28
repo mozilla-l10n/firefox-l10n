@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "B">
 <!ENTITY useSmoothScrolling.label        "Bruk jamn rulling">
 <!ENTITY useSmoothScrolling.accesskey    "u">
-<!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
-<!ENTITY allowHWAccel.accesskey          "m">
 <!ENTITY checkUserSpelling.label         "Kontroller staving medan du skriv">
 <!ENTITY checkUserSpelling.accesskey     "K">
 
@@ -125,3 +123,7 @@
 <!ENTITY viewCerts.accesskey             "V">
 <!ENTITY viewSecurityDevices.label       "Sikkerheitseiningar">
 <!ENTITY viewSecurityDevices.accesskey   "k">
+
+<!ENTITY performance.label               "Yting">
+<!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
+<!ENTITY allowHWAccel.accesskey          "m">
