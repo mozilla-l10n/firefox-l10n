@@ -219,7 +219,7 @@
 <!ENTITY pref_category_home_homepage "Домівка">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
-<!ENTITY home_homepage_every_new_tab "Використовувати для нових вкладок">
+<!ENTITY home_homepage_every_new_tab "Також для нових вкладок">
 <!ENTITY home_homepage_title "Встановити домівку">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -368,7 +368,7 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
-<!ENTITY pref_use_system_font_size "Використовувати системний розмір шрифту">
+<!ENTITY pref_use_system_font_size "Системний розмір шрифту">
 <!ENTITY pref_use_system_font_size_summary "Масштабувати веб-вміст згідно з системним розміром шрифту">
 
 <!ENTITY pref_media_autoplay_enabled "Автоматичне відтворення">
@@ -407,8 +407,8 @@
 <!ENTITY pref_vendor_faqs "Питання">
 <!ENTITY pref_vendor_feedback "Залишити відгук">
 
-<!ENTITY pref_dialog_set_default "Встановити типовим">
-<!ENTITY pref_dialog_default "Типовий">
+<!ENTITY pref_dialog_set_default "Встановити типово">
+<!ENTITY pref_dialog_default "Типово">
 <!ENTITY pref_dialog_remove "Вилучити">
 
 <!ENTITY pref_search_last_toast "Ви не можете вилучити чи вимкнути ваш останній засіб пошуку.">
