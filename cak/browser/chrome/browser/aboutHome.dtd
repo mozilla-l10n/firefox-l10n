@@ -14,7 +14,7 @@
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
 
-<!ENTITY abouthome.defaultSnippet1.v1 "¡Matyox ruma nawokisaj ri Firefox! richin chi ütz nisamäj ri awokik'amaya'l, tawetamaj ch'aqa' chik na'oj pa ruwi' ri <a>k'ak'a' taq samaj</a>.">
+<!ENTITY abouthome.defaultSnippet1.v1 "¡Matyox nawokisaj ri Firefox! richin chi ütz nisamäj ri awokik'amaya'l, tawetamaj ch'aqa' chik na'oj pa ruwi' ri <a>k'ak'a' taq samaj</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
 -->
