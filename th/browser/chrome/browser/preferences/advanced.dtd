@@ -93,6 +93,7 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "รุ่น ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "อนุญาตให้ &brandShortName;">
 <!ENTITY updateAuto2.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำสำหรับความปลอดภัยที่เพิ่มขึ้น)">
 <!ENTITY updateAuto2.accesskey           "ด">
