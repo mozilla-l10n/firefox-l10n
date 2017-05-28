@@ -124,11 +124,12 @@
 <!ENTITY viewSecurityDevices.label       "Անվտանգության Սարքեր">
 <!ENTITY viewSecurityDevices.accesskey   "Ս">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "Արտադրողականություն">
+<!ENTITY useRecommendedPerformanceSettings.label "Օգտ. արտադրողականության հանձնարարելի կարգավորումները">
+<!ENTITY useRecommendedPerformanceSettings.description "Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "Օ">
+<!ENTITY limitContentProcess.label       "Բովանդակության ընթացքի սահմանափակում">
+<!ENTITY limitContentProcess.description "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել &brandShortName;-ի արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
+<!ENTITY limitContentProcess.accesskey   "ս">
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">
