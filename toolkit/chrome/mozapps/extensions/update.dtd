@@ -31,7 +31,7 @@
 <!ENTITY  noupdates.error.desc            "Güncellemeler bulunmaya çalışılırken bazı sorunlar yaşandı.">
 <!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; belirli aralıklarla bu eklentilerin güncellemelerinin olup olmadığına bakarak size haber verecek.">
 
-<!ENTITY  finished.wizard.title           "Uyumlu eklentiler kuruldu">
+<!ENTITY  finished.wizard.title           "Uyumlu eklentiler yüklendi">
 <!ENTITY  finished.top.label              "&brandShortName; eklentilerinizin güncellemelerini kurdu.">
 <!ENTITY  finished.checkDisabled.desc     "&brandShortName; belirli aralıklarla eklentilerin güncellemelerinin olup olmadığına bakarak size haber verebilir.">
 <!ENTITY  finished.checkEnabled.desc      "&brandShortName; belirli aralıklarla eklentilerin güncellemelerinin olup olmadığına bakarak size haber verecek.">
@@ -45,8 +45,8 @@
 
 <!ENTITY  installerrors.wizard.title      "Güncellemelerin kurulmasında sorun">
 <!ENTITY  installerrors.intro.label       "&brandShortName; bazı eklentilerinizi güncellerken sorunlarla karşılaştı.">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "&brandShortName; tarayıcısını açmaya devam etmek için Tamamlandı düğmesine basın.">
 <!ENTITY  clickFinish.labelMac            "&brandShortName; tarayıcısını başlatmak için Tamamlandı düğmesine basın.">
 <!ENTITY  enableChecking.label            "&brandShortName; tarayıcısının güncellemelere bakmasına izin ver.">
