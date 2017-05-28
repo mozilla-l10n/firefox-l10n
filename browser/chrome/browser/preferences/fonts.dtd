@@ -5,11 +5,11 @@
 <!ENTITY  fontsDialog.title                       "แบบอักษร">
 
 <!ENTITY  language.label                          "แบบอักษรสำหรับ:">
-<!ENTITY  language.accesskey                      "F">
+<!ENTITY  language.accesskey                      "บ">
 
 <!ENTITY  size.label                              "ขนาด:">
-<!ENTITY  sizeProportional.accesskey              "z">
-<!ENTITY  sizeMonospace.accesskey                 "e">
+<!ENTITY  sizeProportional.accesskey              "ข">
+<!ENTITY  sizeMonospace.accesskey                 "น">
 
 <!ENTITY  proportional.label                      "ความกว้างตามสัดส่วน:">
 <!ENTITY  proportional.accesskey                  "ค">
@@ -17,9 +17,9 @@
 <!ENTITY  serif.label                             "มีเชิง:">
 <!ENTITY  serif.accesskey                         "ม">
 <!ENTITY  sans-serif.label                        "ไม่มีเชิง:">
-<!ENTITY  sans-serif.accesskey                    "ม">
+<!ENTITY  sans-serif.accesskey                    "ง">
 <!ENTITY  monospace.label                         "ความกว้างคงที่:">
-<!ENTITY  monospace.accesskey                     "ค">
+<!ENTITY  monospace.accesskey                     "ว">
 
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
@@ -54,7 +54,7 @@
 <!ENTITY  font.langGroup.tibetan                  "ทิเบต">
 <!-- Minimum font size -->
 <!ENTITY minSize.label                            "ขนาดอักษรต่ำสุด:">
-<!ENTITY minSize.accesskey                        "ก">
+<!ENTITY minSize.accesskey                        "ด">
 <!ENTITY minSize.none                             "ไม่มี">
 
 <!-- default font type -->
@@ -62,7 +62,7 @@
 <!ENTITY  useDefaultFontSansSerif.label           "ไม่มีเชิง">
 
 <!ENTITY  allowPagesToUseOwn.label                "อนุญาตให้หน้าเลือกใช้แบบอักษรของตัวเอง แทนที่จะเป็นที่คุณเลือกไว้ด้านบน">
-<!ENTITY  allowPagesToUseOwn.accesskey            "A">
+<!ENTITY  allowPagesToUseOwn.accesskey            "อ">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "รหัสอักขระสำหรับเนื้อหาเก่า">
 <!ENTITY languages.customize.Fallback2.label      "รหัสอักขระตัวทางเลือก:">
