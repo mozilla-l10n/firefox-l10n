@@ -4,6 +4,11 @@
 
 <!-- Placeholders for input type=time -->
 
+<!ENTITY time.hour.placeholder "--">
+<!ENTITY time.minute.placeholder "--">
+<!ENTITY time.second.placeholder "--">
+<!ENTITY time.millisecond.placeholder "--">
+<!ENTITY time.dayperiod.placeholder "--">
 
 <!-- Placeholders for input type=date -->
 
