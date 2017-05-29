@@ -215,6 +215,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip      "Åbn panelet for beskeder om at gemme adgangskoder">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du vil modtage beskeder fra webstedet">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gem data i vedvarende lager">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
@@ -231,6 +232,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Du har blokeret dette websteds mulighed for at kende din position.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Du har blokeret datalagring for dette websted.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Du har blokeret beskeder fra dette websted.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
 
