@@ -62,7 +62,7 @@
 <!ENTITY unknownProtocolFound.longDesc " <ul>    <li>Rik'in jub'a' rajowaxik nayäk qa jun chik kema' richin nijaqatäj re ochochib'äl re'.</li>    </ul>">
 
 <!ENTITY proxyConnectFailure.title "Ri proxy ruk'u'x samaj tajin yerutzolij ri taq okem">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj ri runuk'ulem proxi richin najikib'a' chi ütz.</li> <li>Tatz'ib'aj el chi re ri anuk'unel b'ey richin najikib'a chi ri proxi ruk'u'x samaj tajin nisamäj.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Tanik'oj ri runuk'ulem proxi richin najikib'a' chi ütz.</li> <li>Tatz'ib'aj el chi re ri anuk'unel b'ey richin najikib'a' chi ri proxi ruk'u'x samaj tajin nisamäj.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Man nilitäj ta ri proxi ruk'u'x samaj">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
