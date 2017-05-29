@@ -325,9 +325,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewMenu.label         "มุมมอง"> 
 <!ENTITY viewMenu.accesskey       "ม"> 
 <!ENTITY viewToolbarsMenu.label       "แถบเครื่องมือ"> 
-<!ENTITY viewToolbarsMenu.accesskey     "ค"> 
+<!ENTITY viewToolbarsMenu.accesskey     "ถ"> 
 <!ENTITY viewSidebarMenu.label "แถบข้าง">
-<!ENTITY viewSidebarMenu.accesskey "ง">
+<!ENTITY viewSidebarMenu.accesskey "บ">
 <!ENTITY viewCustomizeToolbar.label       "ปรับแต่ง…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "ป">
 
