@@ -40,7 +40,7 @@
 <!ENTITY helpShowTour2.label            "เที่ยวชม &brandShorterName;">
 <!ENTITY helpShowTour2.accesskey        "ท">
 
-<!ENTITY preferencesCmdMac.label        "การตั้งค่า…">
+<!ENTITY preferencesCmdMac.label        "ค่ากำหนด…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "บริการ">
