@@ -3,36 +3,38 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!ENTITY aboutUrlClassifier.pageTitle                   "اطلاعات در مورد url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "فراهم‌کننده">
+<!ENTITY aboutUrlClassifier.provider                    "فراهم‌کننده">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "آخرین زمان بروزرسانی">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "زمان بروزرسانی بعدی">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "آخرین وضعیت بروزرسانی">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "بروزرسانی">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "حافظهٔ نهان">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "نوسازی">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "پاک‌کردن">
+<!ENTITY aboutUrlClassifier.cacheTableName              "نام جدول">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "تعداد ورودی‌های نهانِ منفی">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "تعداد ورودی‌های نهانِ مثبت">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "نمایش ورودی‌ها">
+<!ENTITY aboutUrlClassifier.cacheEntries                "ورودی‌های نهان">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "پیشوند">
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.lookupTitle                 "بررسی">
+<!ENTITY aboutUrlClassifier.lookupUrl                   "آدرس اینترنتی">
+<!ENTITY aboutUrlClassifier.lookupMatch                 "تطابق">
+<!ENTITY aboutUrlClassifier.lookupMatchBtn              "بررسی نتیجه تطابق">
+<!ENTITY aboutUrlClassifier.lookupLookup                "بررسی">
+<!ENTITY aboutUrlClassifier.lookupBtn                   "بررسیِ نتایج بررسی">
+<!ENTITY aboutUrlClassifier.memoryTitle                 "حافظه">
+<!ENTITY aboutUrlClassifier.databaseTitle               "پایگاه‌داده">
+<!ENTITY aboutUrlClassifier.debugTitle                  "اشکال‌زدایی">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "تنظیم ماژول‌های وقایع">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "تنظیم پرونده وقایع">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "تنظیم وقایع JS">
+<!ENTITY aboutUrlClassifier.debugSBModules              "ماژول‌های وقایع مرور امن">
+<!ENTITY aboutUrlClassifier.debugModules                "ماژول‌های وقایع فعلی">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "وقایع JS مرور امن">
+<!ENTITY aboutUrlClassifier.debugFile                   "پرونده وقایع فعلی">

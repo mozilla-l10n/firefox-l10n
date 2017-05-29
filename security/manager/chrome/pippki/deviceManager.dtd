@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "مرور…">
 <!ENTITY loaddevice.browse.accesskey            "م">
 
+<!ENTITY loaddevice.title2                      "بار کردن راه‌انداز دستگاه PKCS#11">
