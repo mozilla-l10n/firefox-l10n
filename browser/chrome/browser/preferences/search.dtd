@@ -10,7 +10,7 @@
 <!ENTITY provideSearchSuggestions.accesskey    "ค">
 
 <!ENTITY showURLBarSuggestions.label           "แสดงผลลัพธ์คำแนะนำการค้นหาในแถบตำแหน่งที่ตั้ง">
-<!ENTITY showURLBarSuggestions.accesskey       "ส">
+<!ENTITY showURLBarSuggestions.accesskey       "ด">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "คำแนะนำการค้นหาจะไม่แสดงผลลัพธ์ในแถบตำแหน่งที่ตั้งเนื่องจากคุณได้กำหนดค่า &brandShortName; ให้ไม่จดจำประวัติเสมอ">
 
 <!ENTITY oneClickSearchEngines.label           "เครื่องมือค้นหาในคลิกเดียว">
