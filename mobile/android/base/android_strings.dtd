@@ -492,7 +492,7 @@
 <!-- Localization note (media_sending_to, media_play, media_pause, media_stop) : These strings are used
      as alternate text for accessibility. They are not visible in the UI. -->
 <!ENTITY media_sending_to "Изпращане към устройство">
-<!ENTITY media_play "Изпълнение">
+<!ENTITY media_play "Изпълняване">
 <!ENTITY media_pause "Пауза">
 <!ENTITY media_stop "Спиране">
 
