@@ -53,7 +53,7 @@
 <!ENTITY cmd.open_tab.label              "Abrir em novo separador">
 <!ENTITY cmd.open_tab.accesskey          "s">
 <!ENTITY cmd.open_all_in_tabs.label      "Abrir tudo em separadores">
-<!ENTITY cmd.open_all_in_tabs.accesskey  "t">
+<!ENTITY cmd.open_all_in_tabs.accesskey  "o">
 
 <!ENTITY cmd.properties.label      "Propriedades">
 <!ENTITY cmd.properties.accesskey  "i">
