@@ -840,8 +840,8 @@
 
 
 <!-- Media (video/audio) controls -->
-<!ENTITY contextPlay.label "Просвирване">
-<!ENTITY contextPlay.accesskey "П">
+<!ENTITY contextPlay.label "Изпълняване">
+<!ENTITY contextPlay.accesskey "в">
 <!ENTITY contextPause.label "Пауза">
 <!ENTITY contextPause.accesskey "П">
 <!ENTITY contextMute.label "Заглушаване">
