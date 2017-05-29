@@ -6,13 +6,13 @@
 <!ENTITY  startupAction.accesskey     "с">
 <!ENTITY  startupOffline.label        "Разговорите са изключени">
 <!ENTITY  startupConnectAuto.label    "Автоматично свързване за разговори">
+
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
 there's a field where the user can enter a number, and itemTime is
 displayed at the end of the line. The translations of the
 reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
-
 <!ENTITY  reportIdleAfter.label         "Другите ще видят, че съм неактивен след">
 <!ENTITY  reportIdleAfter.accesskey     "н">
 <!ENTITY  idleTime                      "минути">
@@ -30,9 +30,9 @@ sentence. -->
 <!ENTITY  buddyInfoOnly.label                 "само с името на подателя">
 <!ENTITY  dummyNotification.label             "без друга информация">
 <!ENTITY  chatSound.accesskey                 "з">
-<!ENTITY  chatSound.label                     "Възпроизвеждане на звук">
-<!ENTITY  play.label                          "Възпроизвеждане">
-<!ENTITY  play.accesskey                      "В">
+<!ENTITY  chatSound.label                     "Изпълняване на звук">
+<!ENTITY  play.label                          "Изпълняване">
+<!ENTITY  play.accesskey                      "в">
 <!ENTITY  systemSound.label                   "Стандартен системен звук за нови писма">
 <!ENTITY  systemSound.accesskey               "С">
 <!ENTITY  customsound.label                   "Използване на следния звуков файл">

@@ -28,8 +28,8 @@
 <!ENTITY showTrayIcon.label               "Показване на tray иконка">
 <!ENTITY showTrayIcon.accesskey           "t">
 
-<!ENTITY play.label                       "Прослушва">
-<!ENTITY play.accesskey                   "ш">
+<!ENTITY play.label                       "Изпълняване">
+<!ENTITY play.accesskey                   "в">
 <!ENTITY systemsound.label                "Стандартен системен звук за ново писмо">
 <!ENTITY systemsound.accesskey            "м">
 <!ENTITY customsound.label                "Използване на следния звуков файл">
