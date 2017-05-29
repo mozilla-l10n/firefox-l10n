@@ -40,7 +40,7 @@
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาเริ่มต้น">
 <!ENTITY  locbar.searches.accesskey     "d">
 
-<!ENTITY  suggestionSettings.label      "เปลี่ยนการตั้งค่าคำแนะนำจากเครื่องมือค้นหา…">
+<!ENTITY  suggestionSettings.label      "เปลี่ยนค่ากำหนดคำแนะนำจากเครื่องมือค้นหา…">
 <!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
