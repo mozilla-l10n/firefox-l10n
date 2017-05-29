@@ -21,13 +21,13 @@
 <!-- LOCALIZATION NOTE (sanitizeDialog2.width): width of the Clear Recent History dialog -->
 <!ENTITY sanitizeDialog2.width         "34em">
 
-<!ENTITY clearDataSettings2.label     "เมื่อปิดโปรแกรม &brandShortName; ข้อมูลเหล่านี้จะถูกลบโดยอัตโนมัติ :">
+<!ENTITY clearDataSettings2.label     "เมื่อฉันออกจาก &brandShortName; ล้างข้อมูลเหล่านี้ทั้งหมดโดยอัตโนมัติ:">
 
 <!-- XXX rearrange entities to match physical layout when l10n isn't an issue -->
 <!-- LOCALIZATION NOTE (clearTimeDuration.*): "Time range to clear" dropdown.
      See UI mockup at bug 480169 -->
-<!ENTITY clearTimeDuration.label          "ระยะเวลาที่ต้องการล้าง: ">
-<!ENTITY clearTimeDuration.accesskey      "ว">
+<!ENTITY clearTimeDuration.label          "ช่วงเวลาที่จะล้าง: ">
+<!ENTITY clearTimeDuration.accesskey      "ช">
 <!ENTITY clearTimeDuration.lastHour       "ชั่วโมงที่แล้ว">
 <!ENTITY clearTimeDuration.last2Hours     "สองชั่วโมงที่แล้ว">
 <!ENTITY clearTimeDuration.last4Hours     "สี่ชั่วโมงที่แล้ว">
@@ -41,7 +41,7 @@ that require it.  -->
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
 <!ENTITY detailsProgressiveDisclosure.label     "รายละเอียด">
-<!ENTITY detailsProgressiveDisclosure.accesskey "ล">
+<!ENTITY detailsProgressiveDisclosure.accesskey "ร">
 
 <!ENTITY historySection.label         "ประวัติ">
 <!ENTITY dataSection.label            "ข้อมูล">
@@ -49,17 +49,17 @@ that require it.  -->
 <!ENTITY itemHistoryAndDownloads.label     "ประวัติการท่องเว็บและการดาวน์โหลด">
 <!ENTITY itemHistoryAndDownloads.accesskey "ป">
 <!ENTITY itemFormSearchHistory.label       "ประวัติแบบฟอร์มและการค้นหา">
-<!ENTITY itemFormSearchHistory.accesskey   "ป">
+<!ENTITY itemFormSearchHistory.accesskey   "ว">
 <!ENTITY itemCookies.label                 "คุกกี้">
-<!ENTITY itemCookies.accesskey             "ก">
+<!ENTITY itemCookies.accesskey             "ค">
 <!ENTITY itemCache.label                   "แคช">
 <!ENTITY itemCache.accesskey               "ช">
 <!ENTITY itemOfflineApps.label             "ข้อมูลเว็บไซต์ออฟไลน์">
 <!ENTITY itemOfflineApps.accesskey         "ข">
-<!ENTITY itemActiveLogins.label            "การเข้าสู่ระบบที่ค้างอยู่">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.label            "การเข้าสู่ระบบที่ใช้งานอยู่">
+<!ENTITY itemActiveLogins.accesskey        "ก">
 <!ENTITY itemSitePreferences.label         "ค่ากำหนดไซต์">
-<!ENTITY itemSitePreferences.accesskey     "ค">
+<!ENTITY itemSitePreferences.accesskey     "ห">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI
