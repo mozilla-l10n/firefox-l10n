@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "เริ่มการทำงาน">
 
 <!ENTITY startupPage.label         "เมื่อ &brandShortName; เริ่ม:">
-<!ENTITY startupPage.accesskey     "s">
+<!ENTITY startupPage.accesskey     "ม">
 <!ENTITY startupUserHomePage.label "แสดงหน้าแรกของคุณ">
 <!ENTITY startupBlankPage.label    "แสดงหน้าว่าง">
 <!ENTITY startupPrevSession.label  "แสดงหน้าต่างและแท็บของคุณจากครั้งล่าสุด">
@@ -13,7 +13,7 @@
 <!ENTITY homepage.label            "หน้าแรก:">
 <!ENTITY homepage.accesskey        "น">
 <!ENTITY useCurrentPage.label      "ใช้หน้าปัจจุบัน">
-<!ENTITY useCurrentPage.accesskey  "ป">
+<!ENTITY useCurrentPage.accesskey  "ช">
 <!ENTITY useMultiple.label         "ใช้หน้าปัจจุบัน">
 <!ENTITY chooseBookmark.label      "ใช้ที่คั่นหน้า…">
 <!ENTITY chooseBookmark.accesskey  "ท">
@@ -32,7 +32,7 @@
 <!ENTITY alwaysAskWhere.accesskey     "ถ">
 
 <!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่">
-<!ENTITY alwaysCheckDefault2.accesskey    "จ">
+<!ENTITY alwaysCheckDefault2.accesskey    "ต">
 <!ENTITY setAsMyDefaultBrowser2.label     "ทำให้เป็นค่าเริ่มต้น">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "ค">
 <!ENTITY isDefault.label                  "&brandShortName; เป็นเบราว์เซอร์เริ่มต้นของคุณในขณะนี้">
