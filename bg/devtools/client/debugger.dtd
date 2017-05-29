@@ -35,7 +35,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.blackBoxTooltip): This is the tooltip
   -  for the button that black boxes the selected source. -->
-<!ENTITY debuggerUI.sources.blackBoxTooltip "Превключване на черната кютия">
+<!ENTITY debuggerUI.sources.blackBoxTooltip "Превключване на черната кутия">
 
 <!-- LOCALIZATION NOTE (debuggerUI.sources.prettyPrint): This is the tooltip for the
   -  button that pretty prints the selected source. -->
