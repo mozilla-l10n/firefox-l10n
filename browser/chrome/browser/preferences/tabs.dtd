@@ -6,7 +6,7 @@
 <!ENTITY ctrlTabRecentlyUsedOrder.accesskey   "T">
 
 <!ENTITY newWindowsAsTabs.label       "เปิดหน้าต่างใหม่ในแท็บใหม่แทน">
-<!ENTITY newWindowsAsTabs.accesskey   "ม">
+<!ENTITY newWindowsAsTabs.accesskey   "ป">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "เตือนคุณเมื่อกำลังจะปิดหลายแท็บ">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
@@ -15,7 +15,7 @@
 <!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
 <!ENTITY switchLinksToNewTabs.label        "เมื่อคุณเปิดลิงก์ในแท็บใหม่ สลับไปที่แท็บนั้นทันที">
-<!ENTITY switchLinksToNewTabs.accesskey    "h">
+<!ENTITY switchLinksToNewTabs.accesskey    "ง">
 
 <!ENTITY showTabsInTaskbar.label          "แสดงตัวอย่างแท็บในแถบงาน Windows">
 <!ENTITY showTabsInTaskbar.accesskey      "บ">
