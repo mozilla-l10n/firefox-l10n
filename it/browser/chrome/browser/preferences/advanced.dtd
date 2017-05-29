@@ -98,8 +98,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "Queste impostazioni sono determinate in base alle caratteristiche hardware del computer e al sistema operativo.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "m">
 <!ENTITY performanceSettingsLearnMore.label "Ulteriori informazioni">
-<!ENTITY limitContentProcess2.label "Numero massimo di processi per i contenuti">
-<!ENTITY limitContentProcess2.description "Un numero maggiore di processi per la gestione dei contenuti può rendere &brandShortName; più reattivo quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
-<!ENTITY limitContentProcess2.accesskey "o">
+<!ENTITY limitContentProcessOption.label "Numero massimo di processi per i contenuti">
+<!ENTITY limitContentProcessOption.description "Un numero maggiore di processi per la gestione dei contenuti può migliorare le prestazioni quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
+<!ENTITY limitContentProcessOption.accesskey "o">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
