@@ -79,11 +79,11 @@
 <!ENTITY cmd.showDetails.label                "แสดงข้อมูลเพิ่มเติม">
 <!ENTITY cmd.showDetails.accesskey            "ส">
 <!ENTITY cmd.findUpdates.label                "ค้นหาการอัปเดต">
-<!ENTITY cmd.findUpdates.accesskey            "ค">
+<!ENTITY cmd.findUpdates.accesskey            "น">
 <!ENTITY cmd.preferencesWin.label             "ตัวเลือก">
 <!ENTITY cmd.preferencesWin.accesskey         "ต">
-<!ENTITY cmd.preferencesUnix.label            "การตั้งค่า">
-<!ENTITY cmd.preferencesUnix.accesskey        "P">
+<!ENTITY cmd.preferencesUnix.label            "ค่ากำหนด">
+<!ENTITY cmd.preferencesUnix.accesskey        "ค">
 <!ENTITY cmd.about.label                      "เกี่ยวกับ">
 <!ENTITY cmd.about.accesskey                  "ก">
 
@@ -108,8 +108,8 @@
 <!ENTITY cmd.uninstallAddon.accesskey         "อ">
 <!ENTITY cmd.showPreferencesWin.label         "ตัวเลือก">
 <!ENTITY cmd.showPreferencesWin.tooltip       "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
-<!ENTITY cmd.showPreferencesUnix.label        "การตั้งค่า">
-<!ENTITY cmd.showPreferencesUnix.tooltip      "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
+<!ENTITY cmd.showPreferencesUnix.label        "ค่ากำหนด">
+<!ENTITY cmd.showPreferencesUnix.tooltip      "เปลี่ยนค่ากำหนดของส่วนเสริมนี้">
 <!ENTITY cmd.contribute.label                 "สนับสนุน">
 <!ENTITY cmd.contribute.accesskey             "ส">
 <!ENTITY cmd.contribute.tooltip               "สนับสนุนการพัฒนาส่วนเสริมนี้">
@@ -152,9 +152,9 @@
 <!ENTITY detail.showPreferencesWin.label      "ตัวเลือก">
 <!ENTITY detail.showPreferencesWin.accesskey  "ต">
 <!ENTITY detail.showPreferencesWin.tooltip    "เปลี่ยนตัวเลือกของส่วนเสริมนี้">
-<!ENTITY detail.showPreferencesUnix.label     "การตั้งค่า">
-<!ENTITY detail.showPreferencesUnix.accesskey "P">
-<!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนการตั้งค่าของส่วนเสริมนี้">
+<!ENTITY detail.showPreferencesUnix.label     "ค่ากำหนด">
+<!ENTITY detail.showPreferencesUnix.accesskey "ค">
+<!ENTITY detail.showPreferencesUnix.tooltip   "เปลี่ยนค่ากำหนดของส่วนเสริมนี้">
 
 
 <!-- ratings -->
