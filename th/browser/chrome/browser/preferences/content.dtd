@@ -22,11 +22,12 @@
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">
 
 <!ENTITY  defaultFont2.label          "แบบอักษรเริ่มต้น">
-<!ENTITY  defaultFont2.accesskey      "ร">
+<!ENTITY  defaultFont2.accesskey      "บ">
 <!ENTITY  defaultSize2.label          "ขนาด">
+<!ENTITY  defaultSize2.accesskey      "ข">
 
 <!ENTITY  advancedFonts.label         "ขั้นสูง…">
-<!ENTITY  advancedFonts.accesskey     "ข">
+<!ENTITY  advancedFonts.accesskey     "น">
 
 <!ENTITY  colors.label                "สี…">
 <!ENTITY  colors.accesskey            "ส">

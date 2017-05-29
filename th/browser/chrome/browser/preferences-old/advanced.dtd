@@ -24,7 +24,7 @@
 <!ENTITY useSmoothScrolling.label        "ใช้การเลื่อนหน้าแบบลื่นไหล">
 <!ENTITY useSmoothScrolling.accesskey    "m">
 <!ENTITY checkUserSpelling.label         "ตรวจสอบการสะกดของคุณเมื่อคุณพิมพ์">
-<!ENTITY checkUserSpelling.accesskey     "t">
+<!ENTITY checkUserSpelling.accesskey     "ว">
 
 <!ENTITY dataChoicesTab.label            "ตัวเลือกข้อมูล">
 
