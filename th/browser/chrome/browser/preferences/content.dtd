@@ -5,7 +5,7 @@
 <!ENTITY  popups.label                "ป๊อปอัป">
 
 <!ENTITY  blockPopups.label           "ปิดกั้นหน้าต่างป๊อปอัป">
-<!ENTITY  blockPopups.accesskey       "B">
+<!ENTITY  blockPopups.accesskey       "ป">
 
 <!ENTITY  notificationsPolicy.label            "การแจ้งเตือน">
 <!ENTITY  notificationsPolicyLearnMore.label   "เรียนรู้เพิ่มเติม">
