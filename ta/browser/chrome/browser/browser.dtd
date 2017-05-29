@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "செருகி பயன்பாட்டை நிர்வகி">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "இத்தளத்திலிருந்து அறிவிப்புகளை உங்களால் பெற முடிகிறதா என மாற்று">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "நிரந்தர சேமிப்பகத்தில் தரவை வை">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "தொலை கட்டுப்பாட்டில் உலாவி">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "தளத்துடன் உங்கள் படக்கருவி மேலும்/அல்லது ஒலிவாங்கியை பகிர்வதை நிர்வகி">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "தளத்துடன் உங்கள் ஒலிவாங்கியை பகிர்வதை நிர்வகி">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "நகலெடு">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "ஒட்டு">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "சமீபத்திய வரலாற்றைத் துடை...">
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
-
+<!ENTITY appMenuHelp.label "உதவி">
 <!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
 
 <!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
@@ -420,11 +420,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ஆம்">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "துணுக்கு:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "விருப்பங்களை மாற்றுக...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "முன்னுரிமைகளை மாற்றுக...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -538,7 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "இந்த சட்டத்தை புத்தகக்குறியிடு">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "உரலியை நகலெடு">
 <!ENTITY emailPageCmd.label           "மின்னஞ்சல் இணைப்பு ...">
 <!ENTITY emailPageCmd.accesskey       "ம">
 <!ENTITY savePageCmd.label            "இவ்வாறு சேமி…">
@@ -665,7 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ப">
 
 <!ENTITY sidebarCloseButton.tooltip     "பக்கப்பட்டையை மூடு">
-
+<!ENTITY sidebarMenuClose.label         "பக்கப்பட்டையை மூடுக">
 
 <!ENTITY quitApplicationCmdWin2.label       "வெளியேறு">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -720,6 +722,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "அகராதிகளைச் சேர்…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "முடிந்தது">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "பாதுகாப்பான இணைப்பு">
@@ -727,7 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "உங்கள் கணினியில் இப்பக்கம் சேமிக்கப்பட்டது. ">
 <!ENTITY identity.connectionVerified2 "நீங்கள் இத்தளத்தில் பாதுகாப்புடன் இணைக்கப்பட்டுள்ளீர்கள், சொந்தக்காரர்:">
 <!ENTITY identity.connectionInternal "இது பாதுகாப்பான &brandShortName; பக்கம்.">
-
+<!ENTITY identity.extensionPage "ஏற்கனவே உள்ள நீட்சியிலிருந்து இந்தப்இந்தப் பக்கம்.">
 <!ENTITY identity.insecureLoginForms2 "இப்பக்கத்திற்கு வரும் உள்நுழைவுகள் தாக்கப்படலாம்.">
 <!-- Strings for connection state warnings. -->
 
@@ -826,9 +829,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "கூடுதலாக கருவிகள் வேண்டுமா?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ஆயிரக்கணக்கான இணைப்பு நீட்சிகளிலருந்து தேர்ந்தெடு">
 <!ENTITY customizeMode.restoreDefaults "முன்னிருப்பை மீட்டமைக்கவும்">
-
+<!ENTITY customizeMode.done "முடிந்தது">
 <!ENTITY customizeMode.titlebar "தலைப்பு பட்டி">
-
+<!ENTITY customizeMode.toolbars2 "கருவிப்பட்டைகள்">
 <!ENTITY customizeMode.lwthemes "கருப்பொருள்கள்">
 <!ENTITY customizeMode.lwthemes.myThemes "என் கருப்பொருள்கள்">
 <!ENTITY customizeMode.lwthemes.recommended "பரிந்துரைக்கப்பட்டது">
