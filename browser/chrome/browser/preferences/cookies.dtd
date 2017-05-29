@@ -22,7 +22,7 @@
 <!ENTITY     focusSearch2.key               "k">
 
 <!ENTITY     searchFilter.label             "ค้นหา">
-<!ENTITY     searchFilter.accesskey         "S">
+<!ENTITY     searchFilter.accesskey         "ค">
 
 <!ENTITY     button.close.label             "ปิด">
 <!ENTITY     button.close.accesskey         "ป">
