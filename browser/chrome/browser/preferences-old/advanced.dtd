@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "А">
 <!ENTITY useSmoothScrolling.label        "Плавно плъзгане">
 <!ENTITY useSmoothScrolling.accesskey    "л">
-<!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
-<!ENTITY allowHWAccel.accesskey          "х">
 <!ENTITY checkUserSpelling.label         "Проверяване на правописа при въвеждане">
 <!ENTITY checkUserSpelling.accesskey     "в">
 
@@ -125,3 +123,17 @@
 <!ENTITY viewCerts.accesskey             "с">
 <!ENTITY viewSecurityDevices.label       "Устройства по безопасността">
 <!ENTITY viewSecurityDevices.accesskey   "У">
+
+<!ENTITY performance.label               "Производителност">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Използване на препоръчителните настройки на производителността">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Тези настройки са съобразени с хардуера и операционната система на компютъра.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "п">
+<!ENTITY limitContentProcess.label       "Процеси за обработка на съдържание">
+<!ENTITY limitContentProcess.description
+                                         "Допълнителни процеси за обработка съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
+<!ENTITY limitContentProcess.accesskey   "с">
+<!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
+<!ENTITY allowHWAccel.accesskey          "х">

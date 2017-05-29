@@ -78,7 +78,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY goOfflineCmd.label "Работа извън мрежата">
 <!ENTITY goOfflineCmd.accesskey "Р">
 
-<!ENTITY menubarCmd.label "Лента с менютата">
+<!ENTITY menubarCmd.label "Лента с менюта">
 <!ENTITY menubarCmd.accesskey "м">
 <!ENTITY navbarCmd.label "Лента за навигация">
 <!ENTITY personalbarCmd.label "Лента с отметки">
@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Управление на използването на приставки">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Промяна на правото да получавате известия от сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Използване на хранилището за постоянни данни">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Четецът е под дистанционно управление">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Управление споделянето на вашата камера и/или микрофон със сайта">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Управление споделянето на вашия микрофон със сайта">
@@ -230,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Забранили сте на този сайт достъп до местоположението ви.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Забранили сте на този сайт достъп до хранилището.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Забранили сте на този сайт да ви изпраща известия.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Забранили сте на този сайт достъп до хранилището за постоянни данни.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Показване на историята">
 
@@ -349,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Изчистване на скорошна история…">
 <!ENTITY appMenuHistory.restoreSession.label "Възстановяване на предишна сесия">
 <!ENTITY appMenuHistory.viewSidebar.label "Показване на страничната лента с история">
+<!ENTITY appMenuHelp.label "Помощ">
 <!ENTITY appMenuHelp.tooltip "Отваряне на меню с помощ">
 
 <!ENTITY appMenuRemoteTabs.label "Синхронизирани раздели">
@@ -374,6 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Настройки на Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента със синх. раздели">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
@@ -417,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "д">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Съвет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
@@ -531,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "О">
 <!ENTITY bookmarkThisFrameCmd.label      "Отмятане на рамката">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "р">
+<!ENTITY copyURLCmd.label             "Копиране на адреса">
 <!ENTITY emailPageCmd.label           "Препратка по имейл…">
 <!ENTITY emailPageCmd.accesskey       "е">
 <!ENTITY savePageCmd.label            "Запазване на страницата като…">
@@ -581,7 +587,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaPlay.label             "Изпълнение">
+<!ENTITY mediaPlay.label             "Изпълняване">
 <!ENTITY mediaPlay.accesskey         "И">
 <!ENTITY mediaPause.label            "Пауза">
 <!ENTITY mediaPause.accesskey        "П">
@@ -656,6 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "М">
 
 <!ENTITY sidebarCloseButton.tooltip     "Затваряне на страничната лента">
+<!ENTITY sidebarMenuClose.label         "Затваряне на страничната лента">
 
 <!ENTITY quitApplicationCmdWin2.label       "Изход">
 <!ENTITY quitApplicationCmdWin2.accesskey   "х">
@@ -718,6 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Страницата е запазена в компютъра.">
 <!ENTITY identity.connectionVerified2 "Защитена връзка към този сайт, управляван от:">
 <!ENTITY identity.connectionInternal "Това е защитена страница на &brandShortName;.">
+<!ENTITY identity.extensionPage "Страницата е отворена от разширение.">
 <!ENTITY identity.insecureLoginForms2 "Въведените на страницата данни за вход може да бъдат компрометирани.">
 
 <!-- Strings for connection state warnings. -->
@@ -790,6 +798,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Отваряне на всички в раздели">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "О">
+<!ENTITY syncedTabs.context.managedevices.label              "Управление на устройства…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "У">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -814,7 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
 <!ENTITY customizeMode.restoreDefaults "Връщане на стандартни настройки">
+<!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
+<!ENTITY customizeMode.toolbars2 "Ленти с инструменти">
 <!ENTITY customizeMode.lwthemes "Теми">
 <!ENTITY customizeMode.lwthemes.myThemes "Моите теми">
 <!ENTITY customizeMode.lwthemes.recommended "Препоръчани">
@@ -910,6 +922,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "и">
 <!ENTITY updateAvailable.cancelButton.label "Не сега">
 <!ENTITY updateAvailable.cancelButton.accesskey "с">
+<!ENTITY updateAvailable.panelUI.label "Изтегляне на обновяване на &brandShorterName;">
 
+<!ENTITY updateManual.message "Изтеглете ново копие на &brandShorterName; и ще ви помогнем с инсталирането.">
+<!ENTITY updateManual.whatsnew.label "Вижте какво е новото.">
+<!ENTITY updateManual.header.message "&brandShorterName; не може да бъде обновен до последната версия.">
+<!ENTITY updateManual.acceptButton.label "Изтегляне на &brandShortName;">
+<!ENTITY updateManual.acceptButton.accesskey "И">
+<!ENTITY updateManual.cancelButton.label "Не сега">
+<!ENTITY updateManual.cancelButton.accesskey "Н">
+<!ENTITY updateManual.panelUI.label "Изтегляне на ново копие на &brandShorterName;">
 
+<!ENTITY updateRestart.message "След рестарта &brandShorterName; отново ще отвори последните ви раздели и прозорци.">
+<!ENTITY updateRestart.header.message2 "Рестарт за обновяване на &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Рестарт и възстановяване">
+<!ENTITY updateRestart.acceptButton.accesskey "Р">
+<!ENTITY updateRestart.cancelButton.label "Не сега">
+<!ENTITY updateRestart.cancelButton.accesskey "Н">
+<!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Действия със страницата">
