@@ -17,7 +17,7 @@
 <!ENTITY focusSearch2.key "f">
 
 <!-- Columns -->
-<!ENTITY prefColumn.label "ชื่อการตั้งค่า">
+<!ENTITY prefColumn.label "ชื่อค่ากำหนด">
 <!ENTITY lockColumn.label "สถานะ">
 <!ENTITY typeColumn.label "ประเภท">
 <!ENTITY valueColumn.label "ค่า">

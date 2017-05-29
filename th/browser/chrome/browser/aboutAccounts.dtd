@@ -6,7 +6,7 @@
 
 <!ENTITY aboutAccountsConfig.description "ลงชื่อเข้าเพื่อซิงค์แท็บ, ที่คั่นหน้า, รหัสผ่าน และอื่น ๆ ของคุณ">
 <!ENTITY aboutAccountsConfig.startButton.label "เริ่มต้นใช้งาน">
-<!ENTITY aboutAccountsConfig.syncPreferences.label "การตั้งค่า Sync">
+<!ENTITY aboutAccountsConfig.syncPreferences.label "ค่ากำหนด Sync">
 <!ENTITY aboutAccounts.noConnection.title "ไม่มีการเชื่อมต่อ">
 <!ENTITY aboutAccounts.noConnection.description "คุณต้องเชื่อมต่ออินเทอร์เน็ตเพื่อลงชื่อเข้า">
 <!ENTITY aboutAccounts.noConnection.retry "ลองอีกครั้ง">

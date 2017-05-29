@@ -22,7 +22,7 @@
 <!ENTITY projectMenu_debug_accesskey "D">
 <!ENTITY projectMenu_remove_label "เอาโครงการออก">
 <!ENTITY projectMenu_remove_accesskey "R">
-<!ENTITY projectMenu_showPrefs_label "การตั้งค่า">
+<!ENTITY projectMenu_showPrefs_label "ค่ากำหนด">
 <!ENTITY projectMenu_showPrefs_accesskey "e">
 <!ENTITY projectMenu_manageComponents_label "จัดการส่วนประกอบพิเศษ">
 <!ENTITY projectMenu_manageComponents_accesskey "M">
@@ -110,7 +110,7 @@
 <!ENTITY addons_aboutaddons "เปิดตัวจัดการส่วนเสริม">
 
 <!-- Prefs -->
-<!ENTITY prefs_title "การตั้งค่า">
+<!ENTITY prefs_title "ค่ากำหนด">
 <!ENTITY prefs_editor_title "ตัวแก้ไข">
 <!ENTITY prefs_general_title "ทั่วไป">
 <!ENTITY prefs_restore "เรียกคืนค่าเริ่มต้น">

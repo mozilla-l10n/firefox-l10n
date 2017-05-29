@@ -54,7 +54,7 @@
   -->
 <!ENTITY translation.options.neverForSite.label "ไม่แปลไซต์นี้เสมอ">
 <!ENTITY translation.options.neverForSite.accesskey "e">
-<!ENTITY translation.options.preferences.label  "การตั้งค่าการแปล">
+<!ENTITY translation.options.preferences.label  "ค่ากำหนดการแปล">
 <!ENTITY translation.options.preferences.accesskey "ก">
 
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,

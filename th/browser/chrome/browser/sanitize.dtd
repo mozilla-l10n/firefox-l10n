@@ -58,8 +58,8 @@ that require it.  -->
 <!ENTITY itemOfflineApps.accesskey         "ข">
 <!ENTITY itemActiveLogins.label            "การเข้าสู่ระบบที่ค้างอยู่">
 <!ENTITY itemActiveLogins.accesskey        "L">
-<!ENTITY itemSitePreferences.label         "การตั้งค่าไซต์">
-<!ENTITY itemSitePreferences.accesskey     "ต">
+<!ENTITY itemSitePreferences.label         "ค่ากำหนดไซต์">
+<!ENTITY itemSitePreferences.accesskey     "ค">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

@@ -74,15 +74,15 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "เปิดโฟลเดอร์">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกเปลี่ยนแปลง">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ค่ากำหนดสำคัญที่ถูกเปลี่ยนแปลง">
 <!ENTITY aboutSupport.modifiedPrefsName "ชื่อ">
 <!ENTITY aboutSupport.modifiedPrefsValue "ค่า">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "การตั้งค่า user.js">
-<!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โปรไฟล์ของคุณมี <a id='prefs-user-js-link'>ไฟล์ user.js</a> ซึ่งมีการตั้งค่าที่ไม่ได้ถูกสร้างโดย &brandShortName;">
+<!ENTITY aboutSupport.userJSTitle "ค่ากำหนด user.js">
+<!ENTITY aboutSupport.userJSDescription "โฟลเดอร์โปรไฟล์ของคุณมี <a id='prefs-user-js-link'>ไฟล์ user.js</a> ซึ่งมีค่ากำหนดที่ไม่ได้ถูกสร้างโดย &brandShortName;">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "การตั้งค่าสำคัญที่ถูกล็อค">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "ค่ากำหนดสำคัญที่ถูกล็อค">
 <!ENTITY aboutSupport.lockedPrefsName "ชื่อ">
 <!ENTITY aboutSupport.lockedPrefsValue "ค่า">
 
