@@ -7,7 +7,7 @@
 <!ENTITY window.height                "10em">
 
 <!ENTITY doNotTrackCheckbox2.label    "ใช้งานอย่าตามรอยเสมอ">
-<!ENTITY doNotTrackCheckbox2.accesskey "ใ">
+<!ENTITY doNotTrackCheckbox2.accesskey "ช">
 
 <!ENTITY doNotTrackTPInfo.description "&brandShortName; จะส่งสัญญาณว่าคุณไม่ต้องการให้ถูกตามรอยเมื่อใดก็ตามที่การป้องกันการตามรอยเปิดอยู่">
 <!ENTITY doNotTrackLearnMore.label    "เรียนรู้เพิ่มเติม">

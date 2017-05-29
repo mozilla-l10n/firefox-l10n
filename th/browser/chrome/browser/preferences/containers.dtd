@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addButton.label      "เพิ่มการแยกข้อมูลใหม่">
-<!ENTITY addButton.accesskey  "A">
+<!ENTITY addButton.accesskey  "พ">
 <!ENTITY preferencesButton.label "การตั้งค่า">
 <!ENTITY removeButton.label   "เอาออก">
 <!-- &#171; is &laquo; however it's not defined in XML -->
@@ -13,14 +13,14 @@
 <!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "ชื่อ:">
-<!ENTITY name.accesskey       "N">
+<!ENTITY name.accesskey       "ช">
 <!ENTITY name.placeholder     "ป้อนชื่อการแยกข้อมูล">
 <!ENTITY icon.label           "ไอคอน:">
-<!ENTITY icon.accesskey       "I">
+<!ENTITY icon.accesskey       "อ">
 <!ENTITY color.label          "สี:">
-<!ENTITY color.accesskey      "o">
+<!ENTITY color.accesskey      "ส">
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "เสร็จสิ้น">
-<!ENTITY button.ok.accesskey  "D">
+<!ENTITY button.ok.accesskey  "ร">
 
