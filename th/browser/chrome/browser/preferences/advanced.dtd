@@ -9,7 +9,7 @@
 <!ENTITY accessibility.label             "การช่วยเข้าถึง">
 
 <!ENTITY useCursorNavigation.label       "ใช้ปุ่มลูกศรเพื่อนำทางภายในหน้าเสมอ">
-<!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY useCursorNavigation.accesskey   "ก">
 <!ENTITY searchOnStartTyping.label       "ค้นหาข้อความเมื่อคุณเริ่มพิมพ์">
 <!ENTITY searchOnStartTyping.accesskey   "ว">
 <!ENTITY blockAutoReload.label           "เตือนคุณเมื่อเว็บไซต์พยายามจะเปลี่ยนเส้นทางหรือโหลดหน้าใหม่">
