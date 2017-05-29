@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "Titzolin pa ri molojri'ïl xik'o">
 <!ENTITY appMenuHistory.viewSidebar.label "Titz'et runatab'al Sidebar">
 <!ENTITY appMenuHelp.label "To'ïk">
-<!ENTITY appMenuHelp.tooltip "Tijaq ri to'onel MENU">
+<!ENTITY appMenuHelp.tooltip "Tijaq K'utsamaj richin tob'äl">
 
 <!ENTITY appMenuRemoteTabs.label "Ximon taq ruwi'">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
