@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "р">
 <!ENTITY engine.history.label       "История">
 <!ENTITY engine.history.accesskey   "И">
+<!ENTITY engine.logins.label        "Регистрации">
+<!ENTITY engine.logins.accesskey    "Р">
 <!ENTITY engine.prefs.label         "Настройки">
 <!ENTITY engine.prefs.accesskey     "Н">
 <!ENTITY engine.addons.label        "Добавки">
