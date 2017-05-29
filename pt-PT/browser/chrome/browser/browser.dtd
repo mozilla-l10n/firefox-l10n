@@ -940,7 +940,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Descarregar uma nova cópia do &brandShorterName;">
 
-<!ENTITY updateRestart.message "Após um rápido reinício, o &brandShorterName; irá restaurar todos os seus separadores abertos e janelas.">
+<!ENTITY updateRestart.message "Após um rápido reinício, o &brandShorterName; irá restaurar todos os seus separadores e janelas abertas.">
 <!ENTITY updateRestart.header.message2 "Reiniciar para atualizar o &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reiniciar e restaurar">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
