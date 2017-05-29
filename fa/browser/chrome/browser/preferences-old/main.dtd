@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "اجازه بده تا &brandShortName; و فایرفاکس همزمان اجرا شوند">
 <!ENTITY useFirefoxSync.label             "نکته: این از یک نمایه جدا استفاده میکند. از همگام‌سازی برای اشتراک‌گذاری اطلاعات بین آنها استفاده کنید.">
-
-
+<!ENTITY getStarted.notloggedin.label     "برای همگام‌سازی &syncBrand.shortName.label; وارد شوید">
+<!ENTITY getStarted.configured.label      "باز کردن ترجیحات &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "فعال کردن چند-پردازشی &brandShortName;">

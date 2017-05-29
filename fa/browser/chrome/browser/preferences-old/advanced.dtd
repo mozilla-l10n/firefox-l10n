@@ -36,12 +36,12 @@
 <!ENTITY telemetryDesc.label             "به اشتراک‌گذاری کارایی، کاربرد، سخت‌افزار و اطلاعات سفارشی‌سازی در مورد مرورگر شما با &vendorShortName; به ما کمک می کند تا &brandShortName; بهتری داشته باشیم">
 <!ENTITY enableTelemetryData.label       "به‌ اشتراک‌گذاری اطلاعات اضافی (به عنوان مثال: دورسنجی)">
 <!ENTITY enableTelemetryData.accesskey   "د">
-
+<!ENTITY telemetryLearnMore.label        "بیشتر بدانید">
 
 <!ENTITY crashReporterDesc2.label         "گزارش‌های فروپاشی به &vendorShortName; کمک می‌کند تا مشکلات را برطرف و مرورگر شما را پایدارتر و امن‌تر کند">
 <!ENTITY alwaysSubmitCrashReports.label   "اجازه به &brandShortName; برای ارسال وقایع ثبت شدهٔ گزارش‌های فروپاشی از طرف شما">
 <!ENTITY alwaysSubmitCrashReports.accesskey "و">
-
+<!ENTITY crashReporterLearnMore.label     "بیشتر بدانید">
 
 <!ENTITY networkTab.label                "شبکه">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "پ">
 <!ENTITY siteDataSettings.label          "تنظیمات…">
 <!ENTITY siteDataSettings.accesskey      "ت">
-
+<!ENTITY siteDataLearnMoreLink.label     "بیشتر بدانید">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -124,11 +124,12 @@
 <!ENTITY viewSecurityDevices.label       "امنیت دستگاه‌ها">
 <!ENTITY viewSecurityDevices.accesskey   "د">
 
-
-
-
-
-
-
+<!ENTITY performance.label               "کارایی">
+<!ENTITY useRecommendedPerformanceSettings.label "استفاده از تنظیماتِ کارایی توصیه شده">
+<!ENTITY useRecommendedPerformanceSettings.description "این تنظیمات بر اساس سخت‌افزار و سیستم‌عامل رایانهٔ شما تنظیم شده است.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "س">
+<!ENTITY limitContentProcess.label       "محدودیت پروسهٔ محتوا">
+<!ENTITY limitContentProcess.description "پروسه‌هایِ محتوایِ بیشتر می‌تواند &brandShortName; را هنگام استفاده از چندین زبانه پاسخگوتر کند، اما حافظه بیشتری هم مصرف خواهد کرد.">
+<!ENTITY limitContentProcess.accesskey   "م">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
