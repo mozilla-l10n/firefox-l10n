@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Vybrat…">
 <!ENTITY  notificationsDoNotDisturb.label      "Nerušit mě">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "N">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Dokud nerestartujete &brandShortName;, žádná oznámení se nezobrazí">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Dokud aplikaci &brandShortName; nerestartujete, žádná oznámení se nezobrazí">
 
 <!ENTITY  popupExceptions.label       "Výjimky…">
 <!ENTITY  popupExceptions.accesskey   "k">

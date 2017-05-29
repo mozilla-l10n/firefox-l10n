@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa využití zásuvného modulu">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Změní, jestli můžete ze serveru přijímat oznámení">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uložit data natrvalo">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prohlížeč je ovládán vzdáleně">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovat sdílení webkamery a/nebo mikrofonu se stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovat sdílení mikrofonu se stránkou">
@@ -420,9 +421,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "a">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Potřebujete pomoc s hledáním? Dívejte se po návrzích a ikoně &#x1F50E; v seznamu našeptávání.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Změnit v Možnostech…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "m">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Změnit v Předvolbách…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "m">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -725,6 +730,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Tato stránka je uložena ve vašem počítači.">
 <!ENTITY identity.connectionVerified2 "Spojení s tímto serverem je zabezpečené. Jeho provozovatelem je:">
 <!ENTITY identity.connectionInternal "Toto je zabezpečená stránka aplikace &brandShortName;.">
+<!ENTITY identity.extensionPage "Tato stránka je načtena z doplňku.">
 <!ENTITY identity.insecureLoginForms2 "Přihlašovací údaje zadané na této stránce mohou být vyzrazeny.">
 
 <!-- Strings for connection state warnings. -->
