@@ -125,5 +125,15 @@
 <!ENTITY viewSecurityDevices.accesskey   "B">
 
 <!ENTITY performance.label               "Výkon">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Použít doporučené nastavení výkonu">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Tato nastavení jsou ušita na míru podle hardwaru a operačního systému vašeho počítače.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "u">
+<!ENTITY limitContentProcess.label       "Omezit počet procesů pro obsah na">
+<!ENTITY limitContentProcess.description
+                                         "Větší počet procesů pro obsah může zlepšit výkon aplikace &brandShortName; při použití více panelů, ale spotřebuje také více paměti.">
+<!ENTITY limitContentProcess.accesskey   "b">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey          "h">

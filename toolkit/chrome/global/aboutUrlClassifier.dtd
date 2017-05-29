@@ -13,6 +13,15 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Mezipaměť">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Obnovit">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Vymazat">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Název tabulky">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Počet záporných položek v mezipaměti">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Počet kladných položek v mezipaměti">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Zobrazit položky">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Položky v mezipaměti">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Záporná platnost v mezipaměti">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Plný hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Kladná platnost v mezipaměti">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Vyhledání">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Adresa URL">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Hledat shodu">

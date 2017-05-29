@@ -6,10 +6,10 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Vyberte vyhledávací modul, který &brandShortName; použije v adresním řádku, poli hledání a na úvodní stránce.">
 
-<!ENTITY provideSearchSuggestions.label        "Povolit našeptávání">
+<!ENTITY provideSearchSuggestions.label        "Našeptávat návrhy hledání">
 <!ENTITY provideSearchSuggestions.accesskey    "n">
 
-<!ENTITY showURLBarSuggestions.label           "Zobrazovat návrhy v našeptávání adresního řádku">
+<!ENTITY showURLBarSuggestions.label           "Našeptávat návrhy hledání také v adresním řádku">
 <!ENTITY showURLBarSuggestions.accesskey       "e">
 <!ENTITY urlBarSuggestionsPermanentPB.label    "Návrhy hledání nebudou v našeptávání adresního řádku uvedeny, protože jste nastavili aplikaci &brandShortName;, aby si nikdy nepamatovala historii.">
 
