@@ -59,7 +59,7 @@
 <!ENTITY netTimeout.title "A ligação expirou">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
-<!ENTITY unknownProtocolFound.title "O endereço não foi entendido">
+<!ENTITY unknownProtocolFound.title "O endereço não foi compreendido">
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Pode precisar de instalar outro programa para abrir este endereço.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "O servidor proxy está a recusar ligações">
