@@ -198,10 +198,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY backForwardButtonMenu.tooltip "Højreklik eller klik og hold nede for at vise historik">
 <!ENTITY backForwardButtonMenuMac.tooltip "Klik og hold nede for at vise historik">
 <!ENTITY reloadCmd.label              "Genindlæs">
-<!ENTITY reloadButton.tooltip         "Genindlæs nuværende side">
 <!ENTITY stopCmd.label                "Stop">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY stopButton.tooltip           "Stop indlæsningen af denne side">
 <!ENTITY goEndCap.tooltip             "Gå til adressen i adresselinjen">
 <!ENTITY printButton.label            "Udskriv">
 <!ENTITY printButton.tooltip          "Udskriv denne side">
@@ -235,8 +233,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Du har blokeret vedvarende lager for dette websted.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Vis historik">
-
-<!ENTITY urlbar.zoomReset.tooltip     "Nulstil zoom-niveau">
 
 <!ENTITY searchItem.title             "Søgefelt">
 
@@ -401,6 +397,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addMoreItems.label "Tilføj flere elementer…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "T">
 
+<!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
+    app (hamburger) menu. When clicked, it opens a subview that contains
+    secondary commands. -->
+<!ENTITY moreMenu.label "Mere">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Søg eller indtast en adresse">
 <!ENTITY urlbar.accesskey             "d">
@@ -415,6 +416,15 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
+
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
+<!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Få hjælp til at finde ting! Se efter &#x1F50E; ved siden af forslagene.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Skift indstillinger…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Skift indstillinger…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "S">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -528,6 +538,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "B">
 <!ENTITY bookmarkThisFrameCmd.label      "Bogmærk denne ramme">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+<!ENTITY copyURLCmd.label             "Kopier URL">
 <!ENTITY emailPageCmd.label           "Send link…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gem side som…">
@@ -653,6 +664,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Luk sidepanel">
+<!ENTITY sidebarMenuClose.label         "Luk sidepanel">
 
 <!ENTITY quitApplicationCmdWin2.label       "Afslut">
 <!ENTITY quitApplicationCmdWin2.accesskey   "A">
@@ -715,13 +727,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Denne side er gemt på din computer.">
 <!ENTITY identity.connectionVerified2 "Du er forbundet på en sikker måde til dette websted, der er ejet af:">
 <!ENTITY identity.connectionInternal "Dette er en sikker &brandShortName;-side.">
+<!ENTITY identity.extensionPage "Denne side er indlæst fra en udvidelse.">
+<!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName; har blokeret usikre dele af denne side.">
 <!ENTITY identity.passiveLoaded "Dele af denne side (såsom billeder) er ikke sikre.">
 <!ENTITY identity.activeLoaded "Du har slået beskyttelse fra på denne side.">
 <!ENTITY identity.weakEncryption "Denne side bruger svag kryptering.">
-<!ENTITY identity.insecureLoginForms2 "Logins foretaget på denne side kan blive kompromitteret.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Din forbindelse til dette websted er ikke privat. Andre kan se de informationer, du indsender (fx adgangskoder, beskeder og oplysninger om betalingskort)">
@@ -787,6 +800,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Åbn alle i faneblade">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "a">
+<!ENTITY syncedTabs.context.managedevices.label              "Håndter enheder…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "H">
+
 
 <!ENTITY syncBrand.shortName.label  "Sync">
 
@@ -810,8 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ønsker du flere værktøjer?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vælg mellem tusindvis af tilføjelser">
 <!ENTITY customizeMode.restoreDefaults "Gendan standarder">
-<!ENTITY customizeMode.toolbars "Vis / skjul værktøjslinjer">
+<!ENTITY customizeMode.done "Færdig">
 <!ENTITY customizeMode.titlebar "Titellinje">
+<!ENTITY customizeMode.toolbars2 "Værktøjslinjer">
 <!ENTITY customizeMode.lwthemes "Temaer">
 <!ENTITY customizeMode.lwthemes.myThemes "Mine temaer">
 <!ENTITY customizeMode.lwthemes.recommended "Anbefalede">
@@ -900,3 +917,30 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Læs mere om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "æ">
+
+<!ENTITY updateAvailable.whatsnew.label "Se nyhederne.">
+<!ENTITY updateAvailable.header.message "En ny &brandShorterName;-opdatering er tilgængelig.">
+<!ENTITY updateAvailable.acceptButton.label "Hent opdatering">
+<!ENTITY updateAvailable.acceptButton.accesskey "H">
+<!ENTITY updateAvailable.cancelButton.label "Ikke nu">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Hent &brandShorterName;-opdatering">
+
+<!ENTITY updateManual.message "Hent en frisk kopi af &brandShorterName; og vi vil hjælpe dig med at installere den.">
+<!ENTITY updateManual.whatsnew.label "Se nyhederne.">
+<!ENTITY updateManual.header.message "&brandShorterName; kan ikke opdatere til den seneste version.">
+<!ENTITY updateManual.acceptButton.label "Hent &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "H">
+<!ENTITY updateManual.cancelButton.label "Ikke nu">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Hent en frisk kopi af &brandShorterName;">
+
+<!ENTITY updateRestart.message "Efter en hurtig genstart vil &brandShorterName; gendanne alle dine åbne faneblade og vinduer.">
+<!ENTITY updateRestart.header.message2 "Genstart for at opdatere &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Genstart og gendan">
+<!ENTITY updateRestart.acceptButton.accesskey "G">
+<!ENTITY updateRestart.cancelButton.label "Ikke nu">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Genstart for at opdatere &brandShorterName;">
+
+<!ENTITY pageActionButton.tooltip "Sidehandlinger">
