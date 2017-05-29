@@ -14,7 +14,7 @@
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Søg efter opdateringer">
 <!ENTITY update.checkForUpdatesButton.accesskey   "S">
-<!ENTITY update.updateButton.label2               "Genstart for at opdatere &brandShortName;">
+<!ENTITY update.updateButton.label3               "Genstart for at opdatere &brandShortName;">
 <!ENTITY update.updateButton.accesskey            "G">
 
 

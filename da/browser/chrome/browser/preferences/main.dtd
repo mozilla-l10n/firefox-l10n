@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Opstart">
 
-<!ENTITY startupPage.label         "Når &brandShortName; starter:">
-<!ENTITY startupPage.accesskey     "t">
+<!ENTITY startupPage2.label         "Når &brandShortName; starter:">
+<!ENTITY startupPage2.accesskey     "t">
 <!ENTITY startupUserHomePage.label     "Vis min startside">
 <!ENTITY startupBlankPage.label    "Vis en tom side">
 <!ENTITY startupPrevSession.label  "Vis mine vinduer og faneblade fra sidste gang">
 
-<!ENTITY homepage.label            "Startside:">
-<!ENTITY homepage.accesskey        "S">
+<!ENTITY homepage2.label            "Startside:">
+<!ENTITY homepage2.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Anvend nuværende side">
 <!ENTITY useCurrentPage.accesskey  "n">
 <!ENTITY useMultiple.label         "Anvend nuværende sider">
