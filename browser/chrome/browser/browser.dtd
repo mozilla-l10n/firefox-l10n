@@ -424,6 +424,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Съвет:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Получете помощ докато търсите! Огледайте се за &#x1F50E; до подсказките при търсене.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Промяна на настройките…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "П">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Промяна на настройките…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "П">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -917,6 +921,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Научете повече за DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "Обновете &brandShorterName; за да получите най-новото в бързината и поверителността.">
 <!ENTITY updateAvailable.whatsnew.label "Вижте какво е новото.">
 <!ENTITY updateAvailable.header.message "Налично е обновяване на &brandShorterName;.">
 <!ENTITY updateAvailable.acceptButton.label "Изтегляне на обновяване">
