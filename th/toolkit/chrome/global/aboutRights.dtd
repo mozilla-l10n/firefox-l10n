@@ -56,7 +56,7 @@
 <!-- intro paragraph for branded builds -->
 <!ENTITY rights2.webservices-a "&brandFullName; ใช้บริการข้อมูลผ่านเว็บ (&quot;บริการ&quot;) ในการเสนอความสามารถให้กับคุณใน &brandShortName; รุ่นนี้ภายใต้ข้อตกลงที่อธิบายไว้ข้างล่าง ถ้าคุณไม่ต้องการใช้งานบริการเหล่านั้นหรือข้อตกลงข้างล่างนั้นไม่สามารถยอมรับได้ คุณอาจจะปิดการใช้งานความสามารถเหล่านั้น วิธีการปิดใช้งานความสามารถส่วนใดส่วนหนึ่งอาจจะพบได้ ">
 <!ENTITY rights2.webservices-b "ที่นี่">
-<!ENTITY rights3.webservices-c "คุณลักษณะและบริการอื่น ๆ สามารถปิดใช้งานได้ในการตั้งค่าแอปพลิเคชัน">
+<!ENTITY rights3.webservices-c " คุณลักษณะและบริการอื่น ๆ สามารถปิดใช้งานได้ในค่ากำหนดแอปพลิเคชัน">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "การท่องเว็บแบบปลอดภัย: ">
