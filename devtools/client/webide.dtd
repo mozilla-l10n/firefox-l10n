@@ -37,7 +37,7 @@
 <!ENTITY runtimeMenu_showDetails_label "ข้อมูล Runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
-<!ENTITY runtimeMenu_showDevicePrefs_label "ค่ากำหนดของอุปกรณ์">
+<!ENTITY runtimeMenu_showDevicePrefs_label "ค่ากำหนดอุปกรณ์">
 <!ENTITY runtimeMenu_showDevicePrefs_accesskey "D">
 <!ENTITY runtimeMenu_showSettings_label "ตั้งค่าอุปกรณ์">
 <!ENTITY runtimeMenu_showSettings_accesskey "s">
@@ -128,15 +128,16 @@
 <!ENTITY runtimedetails_title "ข้อมูล Runtime">
 
 <!-- Device Preferences and Settings -->
+<!ENTITY device_typeboolean "ค่าตรรกะ">
 <!ENTITY device_typeobject "วัตถุ">
 <!ENTITY device_typenone "เลือกชนิด">
 
 <!-- Device Preferences -->
-<!ENTITY devicepreference_title "ค่ากำหนดของอุปกรณ์">
-<!ENTITY devicepreference_search "ค้นหาการตั้งค่า">
-<!ENTITY devicepreference_newname "ชื่อการตั้งค่าใหม่">
-<!ENTITY devicepreference_newtext "ค่าการตั้งค่า">
-<!ENTITY devicepreference_addnew "เพิ่มการตั้งค่าใหม่">
+<!ENTITY devicepreference_title "ค่ากำหนดอุปกรณ์">
+<!ENTITY devicepreference_search "ค้นหาค่ากำหนด">
+<!ENTITY devicepreference_newname "ชื่อค่ากำหนดใหม่">
+<!ENTITY devicepreference_newtext "ค่าของค่ากำหนด">
+<!ENTITY devicepreference_addnew "เพิ่มค่ากำหนดใหม่">
 
 <!-- Device Settings -->
 <!ENTITY devicesetting_title "ตั้งค่าอุปกรณ์">

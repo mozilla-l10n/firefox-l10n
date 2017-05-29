@@ -12,7 +12,7 @@
 <!ENTITY engine.history.accesskey   "ป">
 <!ENTITY engine.logins.label        "การเข้าสู่ระบบ">
 <!ENTITY engine.logins.accesskey    "ก">
-<!ENTITY engine.prefs.label         "การตั้งค่า">
+<!ENTITY engine.prefs.label         "ค่ากำหนด">
 <!ENTITY engine.prefs.accesskey     "ค">
 <!ENTITY engine.addons.label        "ส่วนเสริม">
 <!ENTITY engine.addons.accesskey    "ส">
@@ -60,7 +60,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "ล">
 
 <!ENTITY signedOut.caption            "นำเว็บไปกับคุณ">
-<!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และการตั้งค่าระหว่างอุปกรณ์ทั้งหมดของคุณ">
+<!ENTITY signedOut.description        "ประสานที่คั่นหน้า, ประวัติ, แท็บ, รหัสผ่าน, ส่วนเสริม และค่ากำหนดระหว่างอุปกรณ์ทั้งหมดของคุณ">
 <!ENTITY signedOut.accountBox.title   "เชื่อมต่อกับ &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "สร้างบัญชี">
 <!ENTITY signedOut.accountBox.create.accesskey  "ส">
