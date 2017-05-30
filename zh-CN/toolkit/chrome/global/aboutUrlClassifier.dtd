@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "阴性缓存过期">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "完整散列">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "阳性缓存过期">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "查询">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "匹配">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "检查匹配结果">
-<!ENTITY aboutUrlClassifier.lookupLookup                "查询">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "检查查询结果">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "内存">
-<!ENTITY aboutUrlClassifier.databaseTitle               "数据库">
 <!ENTITY aboutUrlClassifier.debugTitle                  "调试">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "设置日志模块">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "设置日志文件">
