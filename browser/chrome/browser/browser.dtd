@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Lägg till i Overflow-meny">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.moveToToolbar.label "Flytta till verktygsfält">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,8 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flytta till menyn">
 <!ENTITY customizeMenu.moveToPanel.accesskey "F">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fäst på Owerflow-meny">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ta bort från Oweflow-meny">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "T">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ta bort från verktygsfält">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.removeFromMenu.label "Ta bort från menyn">
