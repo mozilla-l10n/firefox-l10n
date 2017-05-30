@@ -10,5 +10,3 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Sonraki güncelleme saati">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Son güncelleme durumu">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Güncelle">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Veritabanı">
