@@ -142,8 +142,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "Toś te nastajenja su na hardwaru a źěłowy system wašogo licadła pśiměrjone.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
 <!ENTITY performanceSettingsLearnMore.label "Dalšne informacije">
-<!ENTITY limitContentProcess2.label       "Limit wopśimjeśowego procesa">
-<!ENTITY limitContentProcess2.description "Wěcej wopśimjeśowych procesow móžo wugbaśe &brandShortName; pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
-<!ENTITY limitContentProcess2.accesskey   "L">
+<!ENTITY limitContentProcessOption.label "Limit wopśimjeśowego procesa">
+
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
