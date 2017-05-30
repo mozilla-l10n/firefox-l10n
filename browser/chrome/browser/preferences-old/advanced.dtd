@@ -128,9 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Ұсынылатын өнімділік баптауларын қолдану">
 <!ENTITY useRecommendedPerformanceSettings.description "Бұл баптаулар сіздің компьютеріңіздің құрылғылары және операциялық жүйесі үшін ыңғайлатылған.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "д">
-
+<!ENTITY performanceSettingsLearnMore.label "Көбірек білу">
 <!ENTITY limitContentProcessOption.label "Құрама процестерінің шегі">
-
+<!ENTITY limitContentProcessOption.description "Қосымша құрама процестері бірнеше беттерді қолдану кезінде өнімділікті арттыра алады, бірақ, нәтижесінде көбірек жады қолданылады.">
 <!ENTITY limitContentProcessOption.accesskey   "ш">
 <!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey          "д">
