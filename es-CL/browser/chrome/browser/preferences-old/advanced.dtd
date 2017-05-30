@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamiento suave">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Revisar ortografía al escribir">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Dispositivos de seguridad">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
+<!ENTITY allowHWAccel.accesskey          "h">
