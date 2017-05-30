@@ -138,7 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "C">
 
 <!ENTITY performance.label               "Məhsuldarlıq">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Məsləhət görülən məhsuldarlıq tənzimləmələrini işlət">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Bu tənzimləmələr kompüterinizin avadanlığı və əməliyyat sistemi üçün hazırlanıb.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ətraflı öyrən">
+<!ENTITY limitContentProcessOption.label "Məzmun proses limiti">
+<!ENTITY limitContentProcessOption.description
+                                         "Əlavə məzmun prosesləri çox vərəq işlətdikdə məhsuldarlığı artıra bilərlər, amma daha çox yaddaş işlədəcəklər.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
 <!ENTITY allowHWAccel.accesskey          "d">
