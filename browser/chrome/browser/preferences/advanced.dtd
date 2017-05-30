@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
 <!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
 <!ENTITY enableHealthReport.accesskey    "b">
-
+<!ENTITY healthReportLearnMore.label     "További tudnivalók">
 
 <!ENTITY telemetryDesc.label             "Adatokat küld a &vendorShortName;nak a böngésző teljesítményéről, a hardverről, a felhasználásról és az egyéni beállításokról, hogy a &brandShortName; jobb lehessen.">
 <!ENTITY enableTelemetryData.label       "További adatok (például Telemetria) megosztása">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "További tudnivalók">
 
 <!ENTITY crashReporterDesc2.label         "Az összeomlási jelentések segítenek abban, hogy a &vendorShortName; javítsa a problémákat, és a böngésző stabilabb és biztonságosabb legyen">
 <!ENTITY alwaysSubmitCrashReports.label   "A &brandShortName; a háttérben küldhet összeomlási jelentéseket az Ön nevében">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "További tudnivalók">
 
 <!ENTITY networkTab.label                "Hálózat">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "d">
 <!ENTITY siteDataSettings.label          "Beállítások…">
 <!ENTITY siteDataSettings.accesskey      "B">
-
+<!ENTITY siteDataLearnMoreLink.label     "További tudnivalók">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -92,6 +92,7 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Verzió">
 <!ENTITY updateApplication.version.post  "">
 
 
