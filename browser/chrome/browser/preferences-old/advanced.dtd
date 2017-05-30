@@ -19,8 +19,6 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Usar desplazamientu sele">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
-<!ENTITY allowHWAccel.accesskey          "h">
 
 <!ENTITY dataChoicesTab.label            "Eleición de datos">
 
@@ -100,3 +98,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Preseos de seguridá">
 <!ENTITY viewSecurityDevices.accesskey   "o">
+
+<!ENTITY allowHWAccel.label              "Usar aceleración de hardware cuando tea disponible">
+<!ENTITY allowHWAccel.accesskey          "h">
