@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "α">
 <!ENTITY useSmoothScrolling.label        "Χρήση ομαλής κύλισης">
 <!ENTITY useSmoothScrolling.accesskey    "μ">
-<!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Έλεγχος ορθογραφίας κατά την πληκτρολόγηση">
 <!ENTITY checkUserSpelling.accesskey     "π">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "ο">
 <!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey   "σ">
+
+<!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
+<!ENTITY allowHWAccel.accesskey          "h">
