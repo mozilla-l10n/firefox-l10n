@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Axıcı sürüşdürmədən istifadə et">
 <!ENTITY useSmoothScrolling.accesskey    "c">
-<!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Hərf səhvləriniz siz yazdıqca yoxlanılsın">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Təhlükəsizlik Cihazları">
 <!ENTITY viewSecurityDevices.accesskey   "C">
+
+<!ENTITY allowHWAccel.label              "Mümkün olduğu vaxt təchizat sürətlənməsindən istifadə et">
+<!ENTITY allowHWAccel.accesskey          "d">
