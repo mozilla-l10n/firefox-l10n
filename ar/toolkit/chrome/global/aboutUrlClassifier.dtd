@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "انتهاء صلاحية الخبيئة السالبة">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "التلبيدة الكاملة">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "انتهاء صلاحية الخبيئة الموجبة">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "البحث">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "المسار">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "التطابق">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "تحقق من حالة التطابق">
-<!ENTITY aboutUrlClassifier.lookupLookup                "البحث">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "تحقق من حالة البحث">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "الذاكرة">
-<!ENTITY aboutUrlClassifier.databaseTitle               "قاعدة البيانات">
 <!ENTITY aboutUrlClassifier.debugTitle                  "التنقيح">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "حدد وحدات السجل">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "حدد ملف السجل">

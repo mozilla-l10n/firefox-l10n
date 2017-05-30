@@ -142,8 +142,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "طُوِّعت هذه الإعدادات لتناسب عتاد حاسوبك و نظام تشغيله.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "س">
 <!ENTITY performanceSettingsLearnMore.label "اطّلع على المزيد">
-<!ENTITY limitContentProcess2.label       "حد سيرورة المحتوى">
-<!ENTITY limitContentProcess2.description "يمكن أن تساهم زيادة سيرورات المحتوى في تحسين استجابة &brandShortName; عند استعمال عدة ألسنة، و لكن ذلك يستهلك ذاكرة أكثر.">
-<!ENTITY limitContentProcess2.accesskey   "ح">
+<!ENTITY limitContentProcessOption.label "حد سيرورة المحتوى">
+
+<!ENTITY limitContentProcessOption.accesskey   "ح">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
