@@ -142,8 +142,8 @@
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Află mai multe">
-<!ENTITY limitContentProcess2.label       "Limita proceselor pentru conținut">
+<!ENTITY limitContentProcessOption.label "Limita proceselor pentru conținut">
 
-<!ENTITY limitContentProcess2.accesskey   "L">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
