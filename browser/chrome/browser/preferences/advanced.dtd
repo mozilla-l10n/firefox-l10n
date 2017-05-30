@@ -146,9 +146,5 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Saber mais">
-<!ENTITY limitContentProcess2.label       "Limite do processo de conteúdo">
-<!ENTITY limitContentProcess2.description
-                                         "Processos de conteúdo adicionais podem melhorar o desempenho do &brandShortName; ao usar várias abas, mas também usa mais memória.">
-<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "r">
