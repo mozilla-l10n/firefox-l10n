@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Naudoti rekomenduojamas našumo nuostatas">
 <!ENTITY useRecommendedPerformanceSettings.description "Šios nuostatos yra pritaikytos atsižvelgiant į jūsų kompiuterio techninę įrangą bei operacinę sistemą.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "u">
-<!ENTITY limitContentProcess.label       "Turinio procesų riba">
-<!ENTITY limitContentProcess.description "Papildomi turinio procesai gali leisti „&brandShortName;“ veikti sklandžiau, kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.">
-<!ENTITY limitContentProcess.accesskey   "r">
+
+<!ENTITY limitContentProcessOption.label "Turinio procesų riba">
+
+<!ENTITY limitContentProcessOption.accesskey   "r">
 <!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
 <!ENTITY allowHWAccel.accesskey          "a">
