@@ -432,7 +432,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Astuce :">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "obtenez de l’aide pour vos recherches : repérez l’icône &#x1F50E; à côté des suggestions de recherche.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Modifier les options…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "M">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Modifier les préférences…">
