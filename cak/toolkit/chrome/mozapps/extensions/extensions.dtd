@@ -62,7 +62,7 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil.">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa kiyonil">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "T">
 <!ENTITY updates.resetUpdatesToManual.label          "Titzolïx chi kij konojel ri taq tz'aqat richin kek'ex pa chi q'ab'aj.">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "T">

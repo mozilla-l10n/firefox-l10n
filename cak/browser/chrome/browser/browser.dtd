@@ -263,8 +263,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Taq samajib'äl">
 <!ENTITY toolsMenu.accesskey          "i"> 
 
-<!ENTITY keywordfield.label           "Rutz'aqatisaxik jun ruyonil tzij richin re rukanoxik re'…">
-<!ENTITY keywordfield.accesskey       "r">
+<!ENTITY keywordfield.label           "Titz'aqatisäx jun ewan tzij richin re Rukanoxik re'…">
+<!ENTITY keywordfield.accesskey       "e">
 
 <!ENTITY downloads.label              "Taq qasa'n">
 <!ENTITY downloads.accesskey          "q">

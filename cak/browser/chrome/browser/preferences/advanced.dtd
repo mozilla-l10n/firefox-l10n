@@ -143,7 +143,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "T">
 <!ENTITY performanceSettingsLearnMore.label "Tetamäx ch'aqa' chik">
 <!ENTITY limitContentProcessOption.label "ruchi' rutajinik rupam">
-
+<!ENTITY limitContentProcessOption.description "Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.">
 <!ENTITY limitContentProcessOption.accesskey   "r">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
