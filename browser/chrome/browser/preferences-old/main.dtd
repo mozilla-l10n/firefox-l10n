@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "ல">
 <!ENTITY chooseFolderMac.label        "தேர்ந்தெடு...">
 <!ENTITY chooseFolderMac.accesskey    "த">
-
-
+<!ENTITY alwaysAskWhere.label         "எங்கே கோப்புகளை சேமிக்க வேண்டுமென எப்போதும் என்னிடம் கேள்">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
 
 <!ENTITY setAsMyDefaultBrowser2.label     "முன்னிருப்பாக்கு">

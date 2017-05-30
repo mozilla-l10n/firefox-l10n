@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashReports.title         "சிதைவு அறிக்கைகள்">
-
+<!ENTITY crashesUnsubmitted.label   "சமர்பிக்கப்படா செயலிழப்பு அறிக்கைகள்">
 <!ENTITY crashesSubmitted.label     "செயலிழப்பு அறிக்கைகள் சமர்ப்பிக்கப்பட்டன">
 <!ENTITY id.heading                 "அறிக்கை ID">
 <!ENTITY dateCrashed.heading        "சிதைவு தேதி">

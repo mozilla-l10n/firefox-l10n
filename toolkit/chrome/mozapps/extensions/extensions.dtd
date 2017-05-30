@@ -4,7 +4,7 @@
 <!ENTITY addons.windowTitle                   "கூடுதல் இணைப்பு மேலாளர் ">
 
 <!ENTITY search.placeholder                   "அனைத்து கூடுதல் இணைப்புகளையும் தேடு">
-
+<!ENTITY search.buttonlabel                   "தேடு">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
 <!ENTITY search.commandkey                    "f">
@@ -232,6 +232,7 @@
 <!ENTITY experiment.info.changetelemetry "தொலைப்பதிவு அமைவுகள்">
 <!ENTITY experiment.info.changetelemetry.accesskey "T">
 
+<!ENTITY setting.learnmore "மேலும் அறிய…">
 
 <!ENTITY disabledUnsigned.heading "சில கூடுதல் இணைப்புகள் முடக்கப்பட்டுள்ளன.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.description.start, disabledUnsigned.description.findAddonsLink, disabledUnsigned.description.end):
@@ -248,4 +249,4 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "கையேடு">
 
 
-
+<!ENTITY pluginDeprecation.learnMore "மேலும் அறிய.">
