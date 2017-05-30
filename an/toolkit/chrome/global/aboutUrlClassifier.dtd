@@ -22,14 +22,6 @@
 
 
 
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Buscar">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Coincidencia">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Comprebar la coincidencia">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Buscar">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Comprebar lo resultau d'a busca">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Memoria">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Base de datos">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depurar">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Determinar los modulos de rechistro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Determinar lo fichero de rechistro">

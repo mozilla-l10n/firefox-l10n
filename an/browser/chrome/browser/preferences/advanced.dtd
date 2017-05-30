@@ -141,8 +141,8 @@
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 
-<!ENTITY limitContentProcess2.label       "Limite de procesado de conteniu">
+<!ENTITY limitContentProcessOption.label "Limite de procesado de conteniu">
 
-<!ENTITY limitContentProcess2.accesskey   "L">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
