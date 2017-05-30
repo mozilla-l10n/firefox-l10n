@@ -139,11 +139,11 @@
 
 <!ENTITY performance.label               "Afköst">
 <!ENTITY useRecommendedPerformanceSettings2.label "Nota afkastastillingar sem er mælt með">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Þessar stillingar eru sérsniðnar fyrir þinn vélbúnað og stýrikerfi.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "N">
 <!ENTITY performanceSettingsLearnMore.label "Fræðast meira">
-<!ENTITY limitContentProcess2.label       "Takmarka þræði fyrir efni">
-
-<!ENTITY limitContentProcess2.accesskey   "þ">
+<!ENTITY limitContentProcessOption.label "Takmarka þræði fyrir efni">
+<!ENTITY limitContentProcessOption.description "Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.">
+<!ENTITY limitContentProcessOption.accesskey   "þ">
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
