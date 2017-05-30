@@ -13,6 +13,11 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Абнавіць">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Ачысціць">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Назва табліцы">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Паказаць запісы">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Запісы кэшу">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Прэфікс">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Поўны хэш">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Супадзенне">
