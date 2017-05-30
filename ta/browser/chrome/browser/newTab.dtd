@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "புதிய கீற்று">
-
+<!ENTITY newtab.customize.classic "உங்கள் முதன்மை தளங்களைக் காண்பி">
 <!ENTITY newtab.customize.cog.enhanced "பரிந்துரைத்த தளங்களை உள்ளடக்கு">
 <!ENTITY newtab.customize.cog.title2 "புதிய கீற்றுக் கட்டுப்பாடுகள்">
 <!ENTITY newtab.customize.cog.learn "புதிய கீற்றைப் பற்றி அறிக">

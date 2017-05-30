@@ -4,7 +4,8 @@
 
 <!ENTITY  general.label                 "பொதுவான">
 
-
+<!ENTITY  warnOnAddonInstall.label        "வலைத்தளங்கள் துணை நிரல்களை நிறுவ முயற்சிக்கும் போது என்னை எச்சரிக்கவும்">
+<!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage

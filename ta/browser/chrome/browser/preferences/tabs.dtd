@@ -5,7 +5,8 @@
 
 
 
-
+<!ENTITY warnOnCloseMultipleTabs.label      "பல கீற்றுகளை மூடும் போது உங்களை எச்சரிக்கும்">
+<!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
 
 

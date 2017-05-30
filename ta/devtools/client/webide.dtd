@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "முன்னுரிமைகள்">
 <!ENTITY prefs_editor_title "தொகுப்பி">
 <!ENTITY prefs_general_title "பொது">
-
+<!ENTITY prefs_restore "முன்னிருப்பை மீட்டமைக்கவும்">
 <!ENTITY prefs_manage_components "கூடுதல் கூறுகளை நிர்வகி">
 <!ENTITY prefs_options_autoconnectruntime "முந்தைய இயக்க நேரத்திற்கு மீட்டு இணை">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "WebIDE துவங்கும் போது முந்தைய இயக்க நேரத்திற்கு மீட்டு இணை">
@@ -155,12 +155,14 @@
 <!ENTITY device_typeobject "பொருள்">
 <!ENTITY device_typenone "ஒரு வகையைத் தேர்">
 <!-- Device Preferences -->
+
+<!ENTITY devicepreference_title "சாதன முன்னுரிமைகள்">
 <!ENTITY devicepreference_search "தேடல் முன்னுரிமைகள்">
 <!ENTITY devicepreference_newname "புதிய முன்னுரிமை பெயர்">
 <!ENTITY devicepreference_newtext "முன்னுரிமை பெயர்">
 <!ENTITY devicepreference_addnew "புதிய முன்னுரிமையைச் சேர்">
 <!-- Device Settings -->
-
+<!ENTITY devicesetting_search "தேடல் அமைவுகள்">
 
 
 
@@ -184,8 +186,8 @@
 <!-- Logs panel -->
 <!-- Simulator Options -->
 
-
-
+<!ENTITY simulator_reset "முன்னிருப்பை மீட்டமைக்கவும்">
+<!ENTITY simulator_name "பெயர்">
 
 <!ENTITY simulator_version "பதிப்பு">
 <!ENTITY simulator_profile "சுயவிவரம்">
