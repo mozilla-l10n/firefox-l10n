@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Storfa negyddol yn dod i ben">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash llawn">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Storfa positif yn dod i ben">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Chwilio">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Cydweddu">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Gwirio Canlyniad y Cydweddiad">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Chwilio">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Gwirio Canlyniad y Chwilio">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Cof">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Cronfa ddata">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Dadfygio">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Gosod Modiwlau Cofnodi">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Gosod Ffeil Cofnodi">
