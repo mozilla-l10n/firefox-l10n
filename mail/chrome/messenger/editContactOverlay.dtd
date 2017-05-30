@@ -17,7 +17,7 @@
 <!ENTITY editContactPanelCancel.label "Renunță">
 <!ENTITY editContactPanelCancel.accesskey "R">
 
-<!ENTITY editContactPanelDone.label "Gata">
-<!ENTITY editContactPanelDone.accesskey "G">
+<!ENTITY editContactPanelDone.label "Terminat">
+<!ENTITY editContactPanelDone.accesskey "D">
 
 <!ENTITY contactMoveDisabledWarning.description "Nu puteți schimba agenda de contacte fiindcă contactul e într-o listă de discuții prin e-mail.">

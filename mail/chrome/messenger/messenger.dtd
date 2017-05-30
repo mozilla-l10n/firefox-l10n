@@ -924,7 +924,7 @@
 <!ENTITY openLinkInBrowser.accesskey "o">
 <!-- Statusbar -->
 
-<!ENTITY statusText.label "Gata">
+<!ENTITY statusText.label "Terminat">
 <!-- Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.label "Minimizează">
