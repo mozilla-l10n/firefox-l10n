@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Utilitza els paràmetres de rendiment recomanats">
 
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
-<!ENTITY limitContentProcess.label       "Límit de procés del contingut">
 
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY limitContentProcessOption.label "Límit de procés del contingut">
+
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
