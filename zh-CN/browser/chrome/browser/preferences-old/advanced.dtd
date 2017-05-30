@@ -131,5 +131,11 @@
                                          "这些设置是为您的计算机硬件和操作系统量身定制。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "详细了解">
+<!ENTITY limitContentProcessOption.label "内容进程限制">
+<!ENTITY limitContentProcessOption.description
+                                         "更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "自动启用硬件加速">
 <!ENTITY allowHWAccel.accesskey          "r">
