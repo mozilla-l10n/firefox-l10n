@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Prochaine mise à jour">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Dernier état de mise à jour">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Mise à jour">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Recherches">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Correspondances">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Vérifier la correspondance">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Recherche">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Vérifier le résultat de la recherche">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Mémoire">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Base de données">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Débogage">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Activer les modules de journalisation">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Définir un fichier de journalisation">
