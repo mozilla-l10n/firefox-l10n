@@ -146,5 +146,9 @@
                                          "u">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Zjistit více">
+<!ENTITY limitContentProcessOption.label "Limit poštu procesů pro obsah">
+<!ENTITY limitContentProcessOption.description
+                                         "Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale spotřebují také více paměti.">
+<!ENTITY limitContentProcessOption.accesskey   "b">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey          "h">
