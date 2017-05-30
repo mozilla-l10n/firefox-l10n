@@ -952,7 +952,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Actions de la page">
 
-<!ENTITY sendToDevice.label "Envoyer à l’appareil…">
-<!ENTITY sendToDevice.viewTitle "Envoyer à l’appareil">
+<!ENTITY sendToDevice.label "Envoyer à un appareil…">
+<!ENTITY sendToDevice.viewTitle "Envoyer à un appareil">
 <!ENTITY sendToDevice.fxaRequired.label "Requis">
 <!ENTITY sendToDevice.noDevices.label "Aucun appareil disponible">
