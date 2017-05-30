@@ -146,6 +146,9 @@
                                          "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Läs mer">
-<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.label "Gräns för innehållsprocesser">
+<!ENTITY limitContentProcessOption.description
+                                         "Ytterligare innehållsprocesser kan förbättra prestanda när du använder flera flikar, men kommer också att använda mer minne.">
+<!ENTITY limitContentProcessOption.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
