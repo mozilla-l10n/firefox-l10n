@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "負向快取過期時間">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "完整雜湊">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "正向快取過期時間">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "查詢">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "網址">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "符合">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "檢查符合結果">
-<!ENTITY aboutUrlClassifier.lookupLookup                "查詢">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "檢查查詢結果">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "記憶體">
-<!ENTITY aboutUrlClassifier.databaseTitle               "資料庫">
 <!ENTITY aboutUrlClassifier.debugTitle                  "除錯">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "設定記錄模組">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "設定記錄檔">
