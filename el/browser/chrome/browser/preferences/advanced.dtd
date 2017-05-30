@@ -138,6 +138,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "σ">
 
 <!ENTITY performance.label               "Επιδόσεις">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Χρήση προτεινόμενων ρυθμίσεων επιδόσεων">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Μάθετε περισσότερα">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
