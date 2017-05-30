@@ -146,9 +146,5 @@
                                          "G">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ketahui selanjutnya">
-<!ENTITY limitContentProcess2.label       "Had proses kandungan">
-<!ENTITY limitContentProcess2.description
-                                         "Proses kandungan tambahan boleh memperbaiki prestasi &brandShortName; apabila menggunakan berbilang tab, tetapi turut menggunakan lebih banyak memori.">
-<!ENTITY limitContentProcess2.accesskey   "P">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
