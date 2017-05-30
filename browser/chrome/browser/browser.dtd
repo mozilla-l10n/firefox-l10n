@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Pśeběgowy meni pśidás">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Do symboloweje rědki pśesunuś">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Do menija pśesunuś">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pśeběgowy meni pśipěś">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Pśeběgowy meni wótpěś">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "t">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ze symboloweje rědki wótpóraś">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Z">
 <!ENTITY customizeMenu.removeFromMenu.label "Z menija wótporaś">
@@ -960,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akcije boka">
 
-
-
-
+<!ENTITY sendToDevice.label "Na rěd pósłaś…">
+<!ENTITY sendToDevice.viewTitle "Na rěd pósłaś">
+<!ENTITY sendToDevice.fxaRequired.label "Trěbny">
+<!ENTITY sendToDevice.noDevices.label "Žedne rědy k dispoziciji">
