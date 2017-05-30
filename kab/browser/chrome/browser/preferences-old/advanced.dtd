@@ -127,7 +127,5 @@
 <!ENTITY performance.label               "Tamellit">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "S">
-<!ENTITY limitContentProcess.label       "Azal afellay n ukala n ugbur">
-<!ENTITY limitContentProcess.accesskey   "Y">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">

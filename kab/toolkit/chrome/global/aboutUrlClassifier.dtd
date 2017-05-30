@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Akud n uleqqem i d-iteddun">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Addad n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Nadi">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Imsaḍa">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Senqed igemmaḍ imeγṛa">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Nadi">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Senqed igemmaḍ in unadi">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tuffirt">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Takatut">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Tafa n isefka">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
