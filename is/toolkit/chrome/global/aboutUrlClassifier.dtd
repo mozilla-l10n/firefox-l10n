@@ -11,25 +11,17 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seinasta uppfærslustaða">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Uppfæra">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Skyndiminni">
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Uppfletting">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Passar við">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Athuga niðurstöðu í samsvörun">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Uppfletting">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Athuga niðurstöðu í uppflettingu">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Minni">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Gagnagrunnur">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Endurnýja">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Hreinsa">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Heiti töflu">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Fjöldi neikvæðra færslna í skyndiminni">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Fjöldi jákvæðra færslna í skyndiminni">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Sýna færslur">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Færslur í skyndiminni">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Forskeyti">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Gildistími á neikvæðum færslum í skyndiminni">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Fullt hash gildi">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Gildistími á jákvæðum færslum í skyndiminni">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Kemba">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Setja einingar fyrir skráningu">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Setja skráningarskrá">
