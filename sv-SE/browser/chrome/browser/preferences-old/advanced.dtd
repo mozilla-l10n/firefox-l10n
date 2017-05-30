@@ -131,9 +131,5 @@
                                          "Dessa inställningar är anpassade till din dators hårdvara och operativsystem.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "A">
-<!ENTITY limitContentProcess.label       "Gräns för innehållsprocesser">
-<!ENTITY limitContentProcess.description
-                                         "Ytterligare innehållsprocesser kan förbättra &brandShortName; prestanda när du använder flera flikar, men kommer också att använda mer minne.">
-<!ENTITY limitContentProcess.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
