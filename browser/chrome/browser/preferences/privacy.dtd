@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Sporingsbeskyttelse">
+<!ENTITY  trackingProtection.description       "Sporing er når selskaper samler inn informasjon om deg for å bygge en profil og vise innhold basert på din surfing og personlige data.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blokker kjente sporingsselskaper fra å vise innhold">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Bare i private vinduer">
