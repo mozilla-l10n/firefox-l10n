@@ -149,5 +149,6 @@
 <!ENTITY limitContentProcessOption.label "Omejitev procesov vsebine">
 <!ENTITY limitContentProcessOption.description
                                          "Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.">
+<!ENTITY limitContentProcessOption.accesskey   "O">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
