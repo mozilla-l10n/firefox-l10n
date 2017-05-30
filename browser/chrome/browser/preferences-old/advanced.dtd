@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Použiť plynulý posun">
 <!ENTITY useSmoothScrolling.accesskey    "o">
-<!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Kontrolovať pravopis počas písania">
 <!ENTITY checkUserSpelling.accesskey     "K">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Zariadenia">
 <!ENTITY viewSecurityDevices.accesskey   "Z">
+
+<!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
+<!ENTITY allowHWAccel.accesskey          "h">
