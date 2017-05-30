@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Uzi glatan ŝovadon">
 <!ENTITY useSmoothScrolling.accesskey    "g">
-<!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
-<!ENTITY allowHWAccel.accesskey          "d">
 <!ENTITY checkUserSpelling.label         "Kontroli literumadon dum tajpado">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "a">
 <!ENTITY viewSecurityDevices.label       "Sekurecaj aparatoj">
 <!ENTITY viewSecurityDevices.accesskey   "s">
+
+<!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
+<!ENTITY allowHWAccel.accesskey          "d">
