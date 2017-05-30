@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Rok trajanja negativnega predpomnilnika">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Polna razpršena vrednost">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Rok trajanja pozitivnega predpomnilnika">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Iskanje">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Ujemanje">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Preveri rezultat ujemanja">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Iskanje">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Preveri rezultat iskanja">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Pomnilnik">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Zbirka podatkov">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Razhroščevanje">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavi dnevniške module">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavi dnevniško datoteko">

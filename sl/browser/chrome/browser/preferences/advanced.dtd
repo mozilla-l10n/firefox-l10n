@@ -146,9 +146,5 @@
                                          "p">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Več o tem">
-<!ENTITY limitContentProcess2.label       "Omejitev procesov vsebine">
-<!ENTITY limitContentProcess2.description
-                                         "Dodatni procesi vsebine lahko pospešijo delovanje &brandShortName;a pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.">
-<!ENTITY limitContentProcess2.accesskey   "O">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
