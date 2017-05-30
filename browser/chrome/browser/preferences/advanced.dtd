@@ -146,6 +146,5 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Conocer más">
-<!ENTITY limitContentProcess2.label       "Límite de contenido de proceso">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
