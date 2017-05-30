@@ -20,8 +20,6 @@
 <!ENTITY useAutoScroll.accesskey         "А">
 <!ENTITY useSmoothScrolling.label        "Мазно лизгање">
 <!ENTITY useSmoothScrolling.accesskey    "М">
-<!ENTITY allowHWAccel.label              "Користи хардверско забрзување кога е достапно">
-<!ENTITY allowHWAccel.accesskey          "х">
 
 <!ENTITY dataChoicesTab.label            "Избор за податоци">
 
@@ -97,3 +95,6 @@
 <!ENTITY viewCerts.accesskey             "С">
 <!ENTITY viewSecurityDevices.label       "Безб. уреди">
 <!ENTITY viewSecurityDevices.accesskey   "з">
+
+<!ENTITY allowHWAccel.label              "Користи хардверско забрзување кога е достапно">
+<!ENTITY allowHWAccel.accesskey          "х">
