@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Daşma Menyusuna əlavə et">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Alət sətrinə daşı">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "d">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Menyuya daşı">
 <!ENTITY customizeMenu.moveToPanel.accesskey "a">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Daşma Menyusuna bərkid">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Daşma Menyusundan çıxart">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Alət sətrindən Sil">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "S">
 <!ENTITY customizeMenu.removeFromMenu.label "Menyudan Sil">
@@ -426,7 +432,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Məsləhət:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Axtarışla bağlı kömək əldə edin! Axtarış təkliflərinin yanındakı &#x1F50E; işarəsi üçün baxın.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Seçimləri Dəyişdir…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Nizamlamaları Dəyişdir…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -540,6 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Bu Çərçivəni Əlfəcinlə">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "Ə">
+<!ENTITY copyURLCmd.label             "URL Köçür">
 <!ENTITY emailPageCmd.label           "Keçidi e-poçt ilə göndər…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Fərqli saxla…">
@@ -665,6 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Y">
 
 <!ENTITY sidebarCloseButton.tooltip     "Yan paneli qapa">
+<!ENTITY sidebarMenuClose.label         "Yan paneli qapat">
 
 <!ENTITY quitApplicationCmdWin2.label       "Çıxış">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ı">
@@ -727,6 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Bu səhifə sizin kompüterinizdə saxlanıb.">
 <!ENTITY identity.connectionVerified2 "Bu sayta təhlükəsiz qoşulmusunuz, sayt sahibi:">
 <!ENTITY identity.connectionInternal "Bu səhifə təhlükəsiz bir &brandShortName; səhifəsidir.">
+<!ENTITY identity.extensionPage "Bu səhifə qoşmadan yüklənib.">
 <!ENTITY identity.insecureLoginForms2 "Bu səhifədə girilən məlumatlar oğurlana bilər.">
 
 <!-- Strings for connection state warnings. -->
@@ -825,7 +840,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Daha çox alət lazımdır?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Minlərlə əlavələrdən seç">
 <!ENTITY customizeMode.restoreDefaults "İlkin Seçənəkləri Bərpa et">
+<!ENTITY customizeMode.done "Tamamlandı">
 <!ENTITY customizeMode.titlebar "Başlıq Paneli">
+<!ENTITY customizeMode.toolbars2 "Alət sətirləri">
 <!ENTITY customizeMode.lwthemes "Mövzular">
 <!ENTITY customizeMode.lwthemes.myThemes "Mövzularım">
 <!ENTITY customizeMode.lwthemes.recommended "Tövsiyyə edilən">
@@ -939,6 +956,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "İndi deyil">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; yeniləmək üçün yenidən başladın">
 
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 
+<!ENTITY sendToDevice.label "Cihaza göndər…">
+<!ENTITY sendToDevice.viewTitle "Cihaza göndər">
+<!ENTITY sendToDevice.fxaRequired.label "Tələb edilir">
+<!ENTITY sendToDevice.noDevices.label "Cihaz yoxdur">
