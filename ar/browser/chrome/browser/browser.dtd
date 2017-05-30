@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "أضف لقائمة الزيادة">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "ض">
 <!ENTITY customizeMenu.moveToToolbar.label "انقل إلى شريط الأدوات">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ن">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "انقل إلى القائمة">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ن">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ثبّت في قائمة الزيادة">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "ث">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "أزل التثبيت من قائمة الزيادة">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ت">
 <!ENTITY customizeMenu.removeFromToolbar.label "احذف من شريط الأدوات">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ح">
 <!ENTITY customizeMenu.removeFromMenu.label "احذف من القائمة">
@@ -960,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "إجراءات الصفحة">
 
-
-
-
+<!ENTITY sendToDevice.label "أرسِل إلى جهاز…">
+<!ENTITY sendToDevice.viewTitle "أرسِل إلى جهاز">
+<!ENTITY sendToDevice.fxaRequired.label "مطلوب">
+<!ENTITY sendToDevice.noDevices.label "لا تتوفر أي أجهزة">
