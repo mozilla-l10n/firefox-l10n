@@ -131,9 +131,5 @@
                                          "這些設定是根據您電腦的硬體與作業系統所量身訂做。">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
-<!ENTITY limitContentProcess.label       "內容處理程序數量限制">
-<!ENTITY limitContentProcess.description
-                                         "增加更多內容處理程序，可改善 &brandShortName; 開啟分頁時的效能，但也會使用更多記憶體。">
-<!ENTITY limitContentProcess.accesskey   "L">
 <!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey          "r">
