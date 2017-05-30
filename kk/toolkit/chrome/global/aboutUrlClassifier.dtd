@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Теріс кэш мерзімі аяқталу уақыты">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Толық хэш">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Оң кэш мерзімі аяқталу уақыты">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Іздеу">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Сәйкестеу">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Сәйкестеу нәтижесін тексеру">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Іздеу">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Іздеу нәтижесін тексеру">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Жады">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Дерекқор">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Жөндеу">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Журналдау модульдерін орнату">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Журналдау файлын орнату">
