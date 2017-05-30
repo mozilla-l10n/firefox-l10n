@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- Note: each tab panel must contain unique accesskeys -->
 
+<!-- Note: each tab panel must contain unique accesskeys -->
 
 <!ENTITY generalTab.label                "Tổng quát">
 
@@ -11,22 +11,12 @@
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
 
-
-
-
-
-
-
 <!ENTITY browsing.label                  "Duyệt">
 
 <!ENTITY useAutoScroll.label             "Tự động cuộn">
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey    "y">
-<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
-<!ENTITY allowHWAccel.accesskey          "h">
-
-
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
 
@@ -36,11 +26,7 @@
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
-
-
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
-
-
 
 <!ENTITY crashReporterLearnMore.label     "Tìm hiểu thêm">
 
@@ -55,11 +41,8 @@
 <!ENTITY httpCache.label                 "Nội dung web đã được cached">
 
 <!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
+
 <!--  Site Data section manages sites using Storage API and is under Network -->
-
-
-
-
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -67,7 +50,6 @@
 
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
-
 <!ENTITY limitCacheSizeBefore.label      "Giới hạn bộ đệm còn">
 <!ENTITY limitCacheSizeBefore.accesskey  "G">
 <!ENTITY limitCacheSizeAfter.label       "MB dung lượng">
@@ -82,8 +64,6 @@
 
 <!ENTITY updateAuto1.label               "Tự động cài đặt các cập nhật (nên làm vì tăng tính bảo mật)">
 <!ENTITY updateAuto1.accesskey           "A">
-
-
 <!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -96,7 +76,6 @@
 <!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 
-
 <!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "N">
 
@@ -107,15 +86,7 @@
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
-
-
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
 
-
-
-
-
-
-
-
-
+<!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
+<!ENTITY allowHWAccel.accesskey          "h">
