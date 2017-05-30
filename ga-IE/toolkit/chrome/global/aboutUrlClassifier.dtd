@@ -22,14 +22,6 @@
 
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hais iomlán">
 
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Cuardach">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Meaitseáil">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Seiceáil na Torthaí Meaitseála">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Cuardach">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Seiceáil Torthaí an Chuardaigh">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Cuimhne">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Bunachar sonraí">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Dífhabhtaigh">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Socraigh Logmhodúil">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Socraigh Logchomhad">

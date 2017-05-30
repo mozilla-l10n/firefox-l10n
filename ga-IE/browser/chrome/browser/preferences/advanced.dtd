@@ -142,8 +142,8 @@
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "B">
 <!ENTITY performanceSettingsLearnMore.label "Tuilleadh eolais">
-<!ENTITY limitContentProcess2.label       "Teorainn próiseála ábhair">
+<!ENTITY limitContentProcessOption.label "Teorainn próiseála ábhair">
 
-<!ENTITY limitContentProcess2.accesskey   "T">
+<!ENTITY limitContentProcessOption.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">
