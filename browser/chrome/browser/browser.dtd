@@ -423,7 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "نکات:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-<!ENTITY urlbar.searchSuggestionsNotification.hint "برای پیدا کردن چیزی کمک بگیرید! اینجا را ببینید &#x1F50E; بعد از پیشنهادات جست‌وجو.">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "برای پیدا کردن چیزها کمک بگیرید! دنبال علامت &#x1F50E; بعد از پیشنهادهای جست‌وجو بگردید.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "تغییر گزینه‌ها…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "تغییر ترجیحات…">
