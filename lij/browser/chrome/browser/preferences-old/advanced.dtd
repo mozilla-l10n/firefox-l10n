@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Adeuvia rebelamento regolâ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Contròlla l'òrtografia quande scrivo">
 <!ENTITY checkUserSpelling.accesskey     "l">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "F">
 <!ENTITY viewSecurityDevices.label       "Aparati">
 <!ENTITY viewSecurityDevices.accesskey   "p">
+
+<!ENTITY allowHWAccel.label              "Adeuvia l'aceleraçion hardware se a gh'é">
+<!ENTITY allowHWAccel.accesskey          "h">
