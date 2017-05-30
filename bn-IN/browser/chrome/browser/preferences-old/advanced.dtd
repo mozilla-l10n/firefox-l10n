@@ -19,8 +19,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "স্মুথ স্ক্রোলিং ব্যবহার করা হবে">
 <!ENTITY useSmoothScrolling.accesskey    "স">
-<!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
-<!ENTITY allowHWAccel.accesskey          "হ">
 
 <!ENTITY dataChoicesTab.label            "তথ্য পছন্দসমূহ">
 
@@ -99,3 +97,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "হার্ডওয়্যার গতিবৃদ্ধির ব্যবস্থা উপলব্ধ থাকলে তা ব্যবহার করা হবে">
+<!ENTITY allowHWAccel.accesskey          "হ">
