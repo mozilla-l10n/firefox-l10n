@@ -384,15 +384,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "O">
 <!ENTITY customizeMenu.addToPanel.label "Ouzhpennañ d'al lañser">
 <!ENTITY customizeMenu.addToPanel.accesskey "l">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+
 <!ENTITY customizeMenu.moveToToolbar.label "Dilec'hiañ er varrenn ostilhoù">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "v">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Dilec'hiañ el lañser">
 <!ENTITY customizeMenu.moveToPanel.accesskey "e">
+
+
+
+
 <!ENTITY customizeMenu.removeFromToolbar.label "Lemel diouzh ar varrenn ostilhoù">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "o">
 <!ENTITY customizeMenu.removeFromMenu.label "Lemel diouzh al lañser">
@@ -945,3 +955,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
+
+
+
+
