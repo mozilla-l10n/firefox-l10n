@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Tempoh tamat cache negatif">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Full hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Tempoh tamat cache positif">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Pencarian">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Padan">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Semak Keputusan Padanan">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Pencarian">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Semak Keputusan Pencarian">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Memori">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Pangkalan data">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Nyahpepijat">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Set Modul Log">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Set Fail Log">
