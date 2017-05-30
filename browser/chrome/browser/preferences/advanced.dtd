@@ -94,20 +94,22 @@
  -->
 <!ENTITY updateApplication.version.pre   "Verzió">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "A következők engedélyezése a &brandShortName;nak:">
+<!ENTITY updateAuto2.label               "Frissítések automatikus telepítése (ajánlott a maximális biztonság érdekében)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Frissítések keresése, de a telepítés jóváhagyással történik">
+<!ENTITY updateCheckChoose2.accesskey    "k">
+<!ENTITY updateManual2.label             "Ne legyen frissítve (nem ajánlott)">
+<!ENTITY updateManual2.accesskey         "N">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Frissítési előzmények megjelenítése…">
+<!ENTITY updateHistory2.accesskey        "z">
 
 <!ENTITY useService.label                "Háttérben futó szolgáltatás intézze a frissítést">
 <!ENTITY useService.accesskey            "H">
 
-
+<!ENTITY enableSearchUpdate2.label       "Keresőszolgáltatások automatikus frissítése">
+<!ENTITY enableSearchUpdate2.accesskey   "u">
 
 
 <!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
