@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Қайта аймалау мәзіріне қосу">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "м">
 <!ENTITY customizeMenu.moveToToolbar.label "Саймандар панеліне жылжыту">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ы">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Мәзірге жылжыту">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ы">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Қайта аймалау мәзіріне жапсыру">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "п">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Қайта аймалау мәзіріне жапсыруды алып тастау">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "а">
 <!ENTITY customizeMenu.removeFromToolbar.label "Саймандар панелінен өшіру">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ш">
 <!ENTITY customizeMenu.removeFromMenu.label "Мәзірден өшіру">
@@ -960,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Бет әрекеттері">
 
-
-
-
+<!ENTITY sendToDevice.label "Құрылғыға жіберу…">
+<!ENTITY sendToDevice.viewTitle "Құрылғыға жіберу">
+<!ENTITY sendToDevice.fxaRequired.label "Міндетті">
+<!ENTITY sendToDevice.noDevices.label "Қолжетерлік құрылғылар жоқ">
