@@ -384,15 +384,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "ا">
 <!ENTITY customizeMenu.addToPanel.label "افزودن به منو">
 <!ENTITY customizeMenu.addToPanel.accesskey "م">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "اضافه کردن به منو شناور">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "م">
 <!ENTITY customizeMenu.moveToToolbar.label "انتقال به نوار ابزار">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ا">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "انتقال به منو">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ن">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "سنجاق کردن به منو شناور">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "س">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "حذف از منو شناور">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ح">
 <!ENTITY customizeMenu.removeFromToolbar.label "حذف از نوارابزار">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ح">
 <!ENTITY customizeMenu.removeFromMenu.label "حذف از منو">
@@ -949,3 +960,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "راه‌اندازی مجدد برای بروزرسانی &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "کنش‌های صفحه">
+
+<!ENTITY sendToDevice.label "ارسال به دستگاه…">
+<!ENTITY sendToDevice.viewTitle "ارسال به دستگاه">
+<!ENTITY sendToDevice.fxaRequired.label "مورد نیاز">
+<!ENTITY sendToDevice.noDevices.label "هیچ دستگاهی موجود نیست">

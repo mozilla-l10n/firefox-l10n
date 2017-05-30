@@ -22,14 +22,6 @@
 
 
 
-<!ENTITY aboutUrlClassifier.lookupTitle                 "بررسی">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "آدرس اینترنتی">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "تطابق">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "بررسی نتیجه تطابق">
-<!ENTITY aboutUrlClassifier.lookupLookup                "بررسی">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "بررسیِ نتایج بررسی">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "حافظه">
-<!ENTITY aboutUrlClassifier.databaseTitle               "پایگاه‌داده">
 <!ENTITY aboutUrlClassifier.debugTitle                  "اشکال‌زدایی">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "تنظیم ماژول‌های وقایع">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "تنظیم پرونده وقایع">
