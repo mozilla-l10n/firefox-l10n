@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Spadnjenje negatiwnego cacha">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Połny hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Spadnjenje pozitiwnego cacha">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Pytanje">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Pśirownaś">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Pśirownański wuslědk pśeglědowaś">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Pytanje">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Pytańsku wuslědk pśeglědowaś">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Skład">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Datowa banka">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Zmólki pytaś">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Protokolowe module póstajiś">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Protokolowu dataju póstajiś">

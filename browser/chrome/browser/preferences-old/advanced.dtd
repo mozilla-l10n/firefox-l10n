@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Dopórucone wugbaśowe nastajenja wužywaś">
 <!ENTITY useRecommendedPerformanceSettings.description "Toś te nastajenja su na hardwaru a źěłowy system wašogo licadła pśiměrjone.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
-<!ENTITY limitContentProcess.label       "Limit wopśimjeśowego procesa">
-<!ENTITY limitContentProcess.description "Wěcej wopśimjeśowych procesow móžo wugbaśe &brandShortName; pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
-<!ENTITY limitContentProcess.accesskey   "L">
+
+<!ENTITY limitContentProcessOption.label "Limit wopśimjeśowego procesa">
+
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
