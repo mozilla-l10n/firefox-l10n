@@ -146,5 +146,9 @@
                                          "B">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les mer">
+<!ENTITY limitContentProcessOption.label "Grense for innholdsprosesser">
+<!ENTITY limitContentProcessOption.description
+                                         "Ytterligere innholdsprosesser kan forbedre ytelsen når du bruker flere faner, men vil også bruke mer minne.">
+<!ENTITY limitContentProcessOption.accesskey   "Y">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey          "m">
