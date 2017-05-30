@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "o">
 <!ENTITY useSmoothScrolling.label        "Activar la defilada cuntinuanta">
 <!ENTITY useSmoothScrolling.accesskey    "n">
-<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Controllar l'ortografia durant l'endataziun">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Moduls da criptadi">
 <!ENTITY viewSecurityDevices.accesskey   "M">
+
+<!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
+<!ENTITY allowHWAccel.accesskey          "h">
