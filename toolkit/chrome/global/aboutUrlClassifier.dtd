@@ -16,7 +16,7 @@
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Spesifiser loggmodular">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Spesifiser loggfil">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Spesifiser JS-logg">
-<!ENTITY aboutUrlClassifier.debugSBModules              "Loggmodular for sikker surfing">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Loggmodular for trygg nettlesing">
 <!ENTITY aboutUrlClassifier.debugModules                "Aktuelle loggmodular">
-<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS-logg for sikker surfning">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "JS-logg for trygg nettlesing">
 <!ENTITY aboutUrlClassifier.debugFile                   "Gjeldande loggfil">
