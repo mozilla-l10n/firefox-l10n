@@ -22,8 +22,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "සුමට ස්ක්‍රෝල් වීම භාවිතා කරන්න">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "ඔබ යතුරු ලියන අතර අක්ෂර වින්‍යාසය පිරික්සන්න">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -121,3 +119,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "ආරක්‍ෂක උපාංග">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "ඇත්නම් දෘඩාංග වේග-උපාංග (acceleration) භාවිතා කරන්න">
+<!ENTITY allowHWAccel.accesskey          "r">
