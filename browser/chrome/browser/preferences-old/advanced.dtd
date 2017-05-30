@@ -131,9 +131,5 @@
                                          "Disse innstillingene er skreddersydd til datamaskinens maskinvare og operativsystem.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "B">
-<!ENTITY limitContentProcess.label       "Grense for innholdsprosesser">
-<!ENTITY limitContentProcess.description
-                                         "Ytterligere innholdsprosesser kan forbedre &brandShortName; sin ytelse når du bruker flere faner, men vil også bruke mer minne.">
-<!ENTITY limitContentProcess.accesskey   "G">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengelig">
 <!ENTITY allowHWAccel.accesskey          "m">
