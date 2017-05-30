@@ -384,11 +384,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "Α">
 <!ENTITY customizeMenu.addToPanel.label "Προσθήκη στο μενού">
 <!ENTITY customizeMenu.addToPanel.accesskey "Μ">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ο">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Μετακίνηση στο μενού">
@@ -943,5 +948,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "Ε">
 <!ENTITY updateRestart.cancelButton.label "Όχι τώρα">
 <!ENTITY updateRestart.cancelButton.accesskey "Ο">
+<!ENTITY updateRestart.panelUI.label2 "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
+
+<!ENTITY sendToDevice.label "Αποστολή σε συσκευή…">
+<!ENTITY sendToDevice.viewTitle "Αποστολή σε συσκευή">
+<!ENTITY sendToDevice.fxaRequired.label "Απαιτείται">
+<!ENTITY sendToDevice.noDevices.label "Καμία διαθέσιμη συσκευή">
