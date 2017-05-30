@@ -111,6 +111,7 @@
 <!ENTITY enableSearchUpdate2.label       "Keresőszolgáltatások automatikus frissítése">
 <!ENTITY enableSearchUpdate2.accesskey   "u">
 
+<!ENTITY reports.label                   "Jelentések">
 
 <!ENTITY offlineStorageNotify.label               "Figyelmeztetés, ha a webhely adatokat akar tárolni kapcsolat nélküli használatra">
 <!ENTITY offlineStorageNotify.accesskey           "w">
@@ -124,7 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Kapcsolat nélküli adatok eltávolítása">
 
 <!ENTITY certificateTab.label            "Tanúsítványok">
-
+<!ENTITY certPersonal2.description       "Ha a kiszolgáló elkéri a személyes tanúsítványt">
 <!ENTITY selectCerts.auto                "Automatikus választás">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "Megerősítés minden alkalommal">
@@ -136,6 +137,7 @@
 <!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
+<!ENTITY performance.label               "Teljesítmény">
 
 
 
