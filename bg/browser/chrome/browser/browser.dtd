@@ -384,15 +384,26 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
 <!ENTITY customizeMenu.addToPanel.label "Добавяне към меню">
 <!ENTITY customizeMenu.addToPanel.accesskey "м">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Добавяне към допълнителното меню">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.moveToToolbar.label "Преместване в лента с инструменти">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "П">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Преместване в меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "м">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Закачане към допълнителното меню">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "д">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Откачане от допълнителното меню">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "д">
 <!ENTITY customizeMenu.removeFromToolbar.label "Премахване от лентата с инструменти">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "П">
 <!ENTITY customizeMenu.removeFromMenu.label "Премахване от меню">
@@ -948,3 +959,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Рестарт за обновяване на &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Действия със страницата">
+
+<!ENTITY sendToDevice.label "Изпращане към устройство…">
+<!ENTITY sendToDevice.viewTitle "Изпращане към устройство">
+<!ENTITY sendToDevice.fxaRequired.label "Задължително">
+<!ENTITY sendToDevice.noDevices.label "Липсват устройства">
