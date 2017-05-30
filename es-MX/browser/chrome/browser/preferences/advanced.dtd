@@ -146,9 +146,5 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Aprender más">
-<!ENTITY limitContentProcess2.label       "Límite de proceso de contenido">
-<!ENTITY limitContentProcess2.description
-                                         "Procesos de contenido adicionales mejoran el rendimiento de &brandShortName; cuando se utilizan múltiples pestañas, pero también consumirán más memoria.">
-<!ENTITY limitContentProcess2.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usa aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
