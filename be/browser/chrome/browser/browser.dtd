@@ -729,6 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Гэта старонка захоўваецца на вашым камп'ютары.">
 <!ENTITY identity.connectionVerified2 "Вы бяспечна злучаны з гэтым сайтам, якім валодае:">
 <!ENTITY identity.connectionInternal "Гэта бяспечная &brandShortName; старонка.">
+<!ENTITY identity.extensionPage "Гэтая старонка загружана з пашырэння.">
 <!ENTITY identity.insecureLoginForms2 "Лагіны, уведзеныя на гэтай старонцы, могуць быць скампраметаваны.">
 
 <!-- Strings for connection state warnings. -->
