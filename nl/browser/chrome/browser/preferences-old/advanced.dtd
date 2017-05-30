@@ -133,9 +133,9 @@
                                          "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Meer info">
-<!ENTITY limitContentProcess.label       "Limiet van inhoudsprocessen">
-<!ENTITY limitContentProcess.description
-                                         "Extra inhoudsprocessen kunnen de prestaties van &brandShortName; bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.">
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY limitContentProcessOption.label "Limiet van inhoudsprocessen">
+<!ENTITY limitContentProcessOption.description
+                                         "Extra inhoudsprocessen kunnen de prestaties bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey          "v">
