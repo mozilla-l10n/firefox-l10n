@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Spadnjenje negatiwneho pufrowaka">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Połny hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Spadnjenje pozitiwneho pufrowaka">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Pytanje">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Přirunać">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Přirunanski wuslědk přepruwować">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Pytanje">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Pytanski wuslědk přepruwować">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Skład">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Datowa banka">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Zmylki pytać">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Protokolowe module postajić">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Protokolowu dataju postajić">

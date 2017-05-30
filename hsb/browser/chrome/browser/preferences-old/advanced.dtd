@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Doporučene wukonowe nastajenja wužiwać">
 <!ENTITY useRecommendedPerformanceSettings.description "Tute nastajenja su na hardwaru a dźěłowy system wašeho ličaka přiměrjene.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
-<!ENTITY limitContentProcess.label       "Mjeza wobsahoweho procesa">
-<!ENTITY limitContentProcess.description "Wjace wobsahowych procesow móže wukon &brandShortName; polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.">
-<!ENTITY limitContentProcess.accesskey   "M">
+
+<!ENTITY limitContentProcessOption.label "Mjeza wobsahoweho procesa">
+
+<!ENTITY limitContentProcessOption.accesskey   "M">
 <!ENTITY allowHWAccel.label              "Hardwarowe pospěšenje wužiwać, jeli k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
