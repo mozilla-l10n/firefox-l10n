@@ -146,9 +146,5 @@
                                          "К">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Сазнајте више">
-<!ENTITY limitContentProcess2.label       "Граница процеса садржаја">
-<!ENTITY limitContentProcess2.description
-                                         "Додатни процеси садржаја могу побољшати &brandShortName; када користи више језичака истовремено, али такође ће користити више меморије.">
-<!ENTITY limitContentProcess2.accesskey   "Г">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">

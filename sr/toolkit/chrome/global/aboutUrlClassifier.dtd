@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Истек негативног кеша">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Пун hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Истек позитивног кеша">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Потражи">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Подударања">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Провери подударања">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Потражи">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Провери резултате претраге">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Меморија">
-<!ENTITY aboutUrlClassifier.databaseTitle               "База података">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Постави модуле записника">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Постави запис података">
