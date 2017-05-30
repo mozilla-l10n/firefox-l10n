@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Срок хранения негативного кэша истекает">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Полный хэш">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Срок хранения позитивного кэша истекает">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Поиск">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Совпадение">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Проверить результат совпадения">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Поиск">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Проверить результаты поиска">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Память">
-<!ENTITY aboutUrlClassifier.databaseTitle               "База данных">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Отладка">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Указать модули лога">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Указать файл лога">
