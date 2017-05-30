@@ -131,5 +131,11 @@
                                          "Essas configurações são adaptadas ao hardware e ao sistema operacional do computador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Saiba mais">
+<!ENTITY limitContentProcessOption.label "Limite do processo de conteúdo">
+<!ENTITY limitContentProcessOption.description
+                                         "Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "r">
