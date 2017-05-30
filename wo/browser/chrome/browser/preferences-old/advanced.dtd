@@ -17,8 +17,6 @@
 <!ENTITY useAutoScroll.accesskey         "l">
 <!ENTITY useSmoothScrolling.label        "Jëfandikoo lemmi gu nooy">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "Jëfandikoo xiiralu masin bi su feexee">
-<!ENTITY allowHWAccel.accesskey          "n">
 
 
 
@@ -78,3 +76,6 @@
 <!ENTITY offlineAppRemove.confirm        "Màbb rootaan yi ne ci jokkoodiku">
 
 <!ENTITY certificateTab.label            "Sarsifikaa">
+
+<!ENTITY allowHWAccel.label              "Jëfandikoo xiiralu masin bi su feexee">
+<!ENTITY allowHWAccel.accesskey          "n">
