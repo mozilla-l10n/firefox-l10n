@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "វ">
 <!ENTITY useSmoothScrolling.label        "​ប្រើ​រមូរ​រលូន">
 <!ENTITY useSmoothScrolling.accesskey    "រ">
-<!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
-<!ENTITY allowHWAccel.accesskey          "ប">
 <!ENTITY checkUserSpelling.label         "ពិនិត្យ​មើល​​អក្ខរាវិរុទ្ធ​នៅ​ពេល​អ្នក​វាយ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "សុវត្ថិភាព ឧបករណ៍">
 <!ENTITY viewSecurityDevices.accesskey   "ឧ">
+
+<!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
+<!ENTITY allowHWAccel.accesskey          "ប">
