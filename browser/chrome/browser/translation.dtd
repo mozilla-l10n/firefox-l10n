@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Без преводи на този сайт">
+<!ENTITY translation.options.neverForSite.label "Без превод на този сайт">
 <!ENTITY translation.options.neverForSite.accesskey "с">
 <!ENTITY translation.options.preferences.label  "Настройки на преводите">
 <!ENTITY translation.options.preferences.accesskey "Н">
