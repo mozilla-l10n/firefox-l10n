@@ -21,14 +21,6 @@
 <!ENTITY aboutUrlClassifier.cachePrefix                 "קידומת">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "תפוגת מטמון שלילית">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "תפוגת מטמון חיובית">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "חיפוש">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "כתובת">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "התאמה">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "בדיקת תוצאות ההתאמה">
-<!ENTITY aboutUrlClassifier.lookupLookup                "חיפוש">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "בדיקת תוצאות חיפוש">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "זיכרון">
-<!ENTITY aboutUrlClassifier.databaseTitle               "מסד נתונים">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ניפוי שגיאות">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "הגדרת מודולי רישום">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "הגדרת קובץ רישום">

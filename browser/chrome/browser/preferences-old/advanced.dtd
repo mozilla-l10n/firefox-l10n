@@ -131,9 +131,5 @@
                                          "הגדרות אלו מותאמות לחומרת המחשב ולמערכת ההפעלה שלך.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "ב">
-<!ENTITY limitContentProcess.label       "מגבלת תהליך תוכן">
-<!ENTITY limitContentProcess.description
-                                         "תהליכי תוכן נוספים עשויים לשפר את הביצועים של &brandShortName; בעת שימוש במספר לשוניות, עם זאת יעשה שימוש ביותר זיכרון.">
-<!ENTITY limitContentProcess.accesskey   "ב">
 <!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">
