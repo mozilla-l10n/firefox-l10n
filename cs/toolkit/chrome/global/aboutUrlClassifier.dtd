@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Záporná platnost v mezipaměti">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Plný hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Kladná platnost v mezipaměti">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Vyhledání">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Adresa URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Hledat shodu">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Zkontrolovat shodující se výsledky">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Vyhledání">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Zkontrolovat shodující se výsledky">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Paměť">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Databáze">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Ladění">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Nastavit moduly protokolu">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Nastavit soubor protokolu">
