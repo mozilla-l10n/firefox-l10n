@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Kasutatakse sujuvat kerimist">
 <!ENTITY useSmoothScrolling.accesskey    "s">
-<!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
-<!ENTITY allowHWAccel.accesskey          "i">
 <!ENTITY checkUserSpelling.label         "Sisestamisel kontrollitakse õigekirja">
 <!ENTITY checkUserSpelling.accesskey     "m">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Turvaseadmed">
 <!ENTITY viewSecurityDevices.accesskey   "r">
+
+<!ENTITY allowHWAccel.label              "Võimalusel kasutatakse riistvaralist kiirendust">
+<!ENTITY allowHWAccel.accesskey          "i">
