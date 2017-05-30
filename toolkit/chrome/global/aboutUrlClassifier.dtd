@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Негативний кеш завершується">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Повний хеш">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Негативний кеш завершується">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Збіг">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Перевірити результат збігу">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Пошук">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Перевірити результат пошуку">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Пам'ять">
-<!ENTITY aboutUrlClassifier.databaseTitle               "База даних">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Зневадження">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Встановити модулі журналу">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Встановити файл журналу">
