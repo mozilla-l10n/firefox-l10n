@@ -12,6 +12,10 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tuffirt">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Smiren">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Sfeḍ">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Isem n tfelwit">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Sken-d inekcam">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Ffer inekcam">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
