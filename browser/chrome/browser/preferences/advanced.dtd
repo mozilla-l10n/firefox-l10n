@@ -146,9 +146,5 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "En savoir plus">
-<!ENTITY limitContentProcess2.label       "Nombre maximum de processus de contenu">
-<!ENTITY limitContentProcess2.description
-                                         "Davantage de processus de contenu peut améliorer les performances de &brandShortName; lors de l’utilisation de plusieurs onglets, cependant la consommation de mémoire sera plus importante.">
-<!ENTITY limitContentProcess2.accesskey   "N">
 <!ENTITY allowHWAccel.label              "Utiliser l’accélération graphique matérielle si disponible">
 <!ENTITY allowHWAccel.accesskey          "n">
