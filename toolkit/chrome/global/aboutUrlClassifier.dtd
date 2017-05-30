@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Pēdējās atjaunināšanas laiks">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Pēdējās atjaunināšanas statuss">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Atjauninājums">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Uzmeklēšana">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Atbilstība">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Pārbaudiet atrastos rezultātus">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Uzmeklēšana">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Pārbaudiet atrastos rezultātus">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Kešatmiņa">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Atmiņa">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Datubāze">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Atkļūdošana">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Iestatīt reģistrēšanas moduli">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Iestatīt reģistrēšanas failu">
