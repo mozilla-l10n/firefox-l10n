@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Neste oppdatering">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Slå opp">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Treff">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller treffresultat">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Slå opp">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller oppslagsresultat">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Hurtiglager">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Feilsøking">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Velg loggmoduler">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Velg loggfil">
