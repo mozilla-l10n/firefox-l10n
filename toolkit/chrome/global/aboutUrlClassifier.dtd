@@ -10,11 +10,6 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Koha e përditësimit pasues">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Gjendje e përditësimit të fundit">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Përditësim">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Kërkim">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Përputhje">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Fshehtinë">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Kujtesë">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Bazë të dhënash">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Diagnostikim">
 <!ENTITY aboutUrlClassifier.debugFile                   "Kartelë regjistri të tanishëm">

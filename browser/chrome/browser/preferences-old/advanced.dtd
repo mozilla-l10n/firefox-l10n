@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "v">
 <!ENTITY useSmoothScrolling.label        "Përdor rrëshqitje të butë">
 <!ENTITY useSmoothScrolling.accesskey    "b">
-<!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
-<!ENTITY allowHWAccel.accesskey          "u">
 <!ENTITY checkUserSpelling.label         "Kontrollo drejtshkrimin në shtypje e sipër">
 <!ENTITY checkUserSpelling.accesskey     "o">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "S">
 <!ENTITY viewSecurityDevices.label       "Pajisje Sigurie">
 <!ENTITY viewSecurityDevices.accesskey   "P">
+
+<!ENTITY allowHWAccel.label              "Kur mundet, përdor përshpejtim hardware">
+<!ENTITY allowHWAccel.accesskey          "u">
