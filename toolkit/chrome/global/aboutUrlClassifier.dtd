@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Ferrin fan negative buffer">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Folsleine hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Ferrin fan positive buffer">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Opsykje">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Oerienkomst">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat fan oerienkomst kontrolearje">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Opsykje">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat fan opsykjen kontrolearje">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Unthâld">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debugge">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Lochodules ynstelle">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Lochbestân ynstelle">
