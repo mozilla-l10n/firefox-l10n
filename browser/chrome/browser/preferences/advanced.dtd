@@ -146,5 +146,9 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "了解更多">
+<!ENTITY limitContentProcessOption.label "內容處理程序數量限制">
+<!ENTITY limitContentProcessOption.description
+                                         "調高內容處理程序的數量，可改善開啟多個分頁時的效能，但也會使用更多記憶體。">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey          "r">
