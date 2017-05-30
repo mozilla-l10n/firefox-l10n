@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ਸਮੂਥ ਸਕਰੋਲਿੰਗ ਨੂੰ ਵਰਤੋਂ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
-<!ENTITY allowHWAccel.accesskey          "h">
 <!ENTITY checkUserSpelling.label         "Check your spelling as you type">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -82,6 +80,7 @@
 <!ENTITY overrideSmartCacheSize.accesskey "O">
 
 <!ENTITY updateTab.label                 "ਅੱਪਡੇਟ">
+
 <!ENTITY updateApplication.label         "&brandShortName; ਅੱਪਡੇਟ">
 <!ENTITY updateAuto1.label               "ਅੱਪਡੇਟ ਨੂੰ ਆਪਣੇ-ਆਪ ਹੀ ਇੰਸਟਾਲ ਕਰੋ (ਸਿਫਾਰਸ਼ੀ: ਸੁਰੱਖਿਆ ਸੁਧਾਰਾਂ ਲਈ)">
 <!ENTITY updateAuto1.accesskey           "A">
@@ -106,15 +105,12 @@
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
 <!ENTITY offlineAppsList2.label          "ਅੱਗੇ ਦਿੱਤੀਆਂ ਵੈੱਬਸਾਈਟਾਂ ਨੂੰ ਆਫਲਾਈਨ ਵਰਤੋਂ ਲਈ ਡਾਟਾ ਸਟੋਰ ਕਰਨ ਦੀ ਮਨਜ਼ੂਰੀ ਹੈ:">
-
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "…ਹਟਾਓ">
 <!ENTITY offlineAppsListRemove.accesskey "R">
 <!ENTITY offlineAppRemove.confirm        "ਆਫਲਾਈਨ ਡਾਟੇ ਨੂੰ ਹਟਾਓ">
 
 <!ENTITY certificateTab.label            "ਸਰਟੀਫਿਕੇਟ">
-<!ENTITY certPersonal.label              "Requests">
-<!ENTITY certPersonal.description        "When a server requests your personal certificate:">
 <!ENTITY certPersonal.label              "Requests">
 <!ENTITY certPersonal.description        "When a server requests your personal certificate:">
 <!ENTITY selectCerts.auto                "Select one automatically">
@@ -127,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "ਸਕਿਉਰ ਡਿਵਾਇਸ">
 <!ENTITY viewSecurityDevices.accesskey   "y">
+
+<!ENTITY allowHWAccel.label              "ਜਦੋਂ ਵੀ ਉਪਲੱਬਧ ਹੋਵੇ ਹਾਰਡਵੇਅਰ ਐਕਸਰਲੇਸ਼ਨ ਵਰਤੋਂ">
+<!ENTITY allowHWAccel.accesskey          "h">
