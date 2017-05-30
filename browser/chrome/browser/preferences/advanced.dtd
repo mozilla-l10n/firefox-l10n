@@ -143,7 +143,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
 <!ENTITY performanceSettingsLearnMore.label "Dalše informacije">
 <!ENTITY limitContentProcessOption.label "Mjeza wobsahoweho procesa">
-
+<!ENTITY limitContentProcessOption.description "Wjace wobsahowych procesow móže wukon polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.">
 <!ENTITY limitContentProcessOption.accesskey   "M">
 <!ENTITY allowHWAccel.label              "Hardwarowe pospěšenje wužiwać, jeli k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">

@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Přeběhowy meni přidać">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Do symboloweje lajsty přesunyć">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Do menija přesunyć">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Přeběhowy meni připjeć">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Přeběhowy meni wotpjeć">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "t">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ze symboloweje lajsty wotstronić">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Z">
 <!ENTITY customizeMenu.removeFromMenu.label "Z menija wotstronić">
@@ -960,6 +961,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akcije strony">
 
-
-
-
+<!ENTITY sendToDevice.label "Na grat pósłać…">
+<!ENTITY sendToDevice.viewTitle "Na grat pósłać">
+<!ENTITY sendToDevice.fxaRequired.label "Trěbny">
+<!ENTITY sendToDevice.noDevices.label "Žane graty k dispoziciji">
