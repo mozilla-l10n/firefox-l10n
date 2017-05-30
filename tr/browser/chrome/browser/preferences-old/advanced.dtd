@@ -131,9 +131,5 @@
                                          "Bu ayarlar bilgisayarınızın donanımına ve işletim sistemine göre seçilmiştir.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "Ö">
-<!ENTITY limitContentProcess.label       "İçerik işlemi sınırı">
-<!ENTITY limitContentProcess.description
-                                         "Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken &brandShortName; tarayıcınızın performansı artar ama daha fazla bellek kullanılır.">
-<!ENTITY limitContentProcess.accesskey   "n">
 <!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey          "d">

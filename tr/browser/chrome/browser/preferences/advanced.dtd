@@ -145,9 +145,5 @@
                                          "Ö">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Daha fazla bilgi al">
-<!ENTITY limitContentProcess2.label       "İçerik işlemi sınırı">
-<!ENTITY limitContentProcess2.description
-                                         "Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken &brandShortName; tarayıcınızın performansı artar ama daha fazla bellek kullanılır.">
-<!ENTITY limitContentProcess2.accesskey   "n">
 <!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey          "d">
