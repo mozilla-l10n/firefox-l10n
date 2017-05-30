@@ -131,5 +131,11 @@
                                          "Ове поставке су кројене за хардвер вашег рачунара и његов оперативни систем.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "К">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Сазнајте више">
+<!ENTITY limitContentProcessOption.label "Лимит процеса садржаја">
+<!ENTITY limitContentProcessOption.description
+                                         "Додатни процеси садржаја могу побољшати перформансе када се користи више језичака, али ће такође користити више меморије.">
+<!ENTITY limitContentProcessOption.accesskey   "Л">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">
