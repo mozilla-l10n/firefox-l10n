@@ -21,6 +21,6 @@
 <!ENTITY color.accesskey      "l">
 <!ENTITY windowClose.key      "w">
 
-<!ENTITY button.ok.label      "Gata">
-<!ENTITY button.ok.accesskey  "G">
+<!ENTITY button.ok.label      "Terminat">
+<!ENTITY button.ok.accesskey  "D">
 

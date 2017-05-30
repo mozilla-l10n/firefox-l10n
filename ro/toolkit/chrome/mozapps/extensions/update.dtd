@@ -48,5 +48,5 @@
 <!-- general strings used by several of the finish pages -->
 
 <!ENTITY  clickFinish.label               "Clic pe Încheiere pentru a continua pornirea &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Clic pe „Gata” pentru a continua pornirea &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Clic pe „Terminat” pentru a continua pornirea &brandShortName;.">
 <!ENTITY  enableChecking.label            "Permite &brandShortName; să verifice dacă există actualizări.">

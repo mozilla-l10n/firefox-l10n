@@ -718,6 +718,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Adaugă dicționare…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "Terminat">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Conexiune securizată">
@@ -824,9 +825,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Dorești mai multe unelte?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Alege din mii de suplimente">
 <!ENTITY customizeMode.restoreDefaults "Restaurează valorile implicite">
-
+<!ENTITY customizeMode.done "Terminat">
 <!ENTITY customizeMode.titlebar "Bara de titlu">
-
+<!ENTITY customizeMode.toolbars2 "Bare de unelte">
 <!ENTITY customizeMode.lwthemes "Teme">
 <!ENTITY customizeMode.lwthemes.myThemes "Temele mele">
 <!ENTITY customizeMode.lwthemes.recommended "Recomandate">
@@ -935,10 +936,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Descarcă o copie nouă de &brandShorterName;">
 
 <!ENTITY updateRestart.message "După o repornire rapidă, &brandShorterName; îți va restaura toate filele și ferestrele deschise.">
-
+<!ENTITY updateRestart.header.message2 "Repornește pentru a actualiza &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Repornește și restaurează">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Nu acum">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 

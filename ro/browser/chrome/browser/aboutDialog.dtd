@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Caută actualizări">
 <!ENTITY update.checkForUpdatesButton.accesskey   "C">
-
+<!ENTITY update.updateButton.label3               "Repornește pentru a actualiza &brandShorterName;">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 

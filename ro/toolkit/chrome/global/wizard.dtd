@@ -6,7 +6,7 @@
 <!ENTITY  button-back-mac.accesskey    "B">
 <!ENTITY  button-next-mac.label        "Continuă">
 <!ENTITY  button-next-mac.accesskey    "C">
-<!ENTITY  button-finish-mac.label      "Gata">
+<!ENTITY  button-finish-mac.label      "Terminat">
 <!ENTITY  button-cancel-mac.label      "Renunță">
 
 <!ENTITY  button-back-unix.label       "Înapoi">

@@ -12,5 +12,5 @@
 <!ENTITY useSmallIcons.label      "Utilizează iconițe mici">
 <!ENTITY restoreDefaultSet.label  "Restaurează setul implicit">
 <!ENTITY addNewToolbar.label      "Adaugă o bară de unelte">
-<!ENTITY saveChanges.label        "Gata">
+<!ENTITY saveChanges.label        "Terminat">
 <!ENTITY undoChanges.label        "Anulează schimbările">
