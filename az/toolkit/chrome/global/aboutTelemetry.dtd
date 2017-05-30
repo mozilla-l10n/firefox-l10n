@@ -63,6 +63,9 @@
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  Açarlanmış Histogramlar">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Tədbirlər
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  Sadə Ölçülər">
 

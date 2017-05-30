@@ -21,6 +21,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Buraxılış">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; Özəllikləri">
+<!ENTITY aboutSupport.featureName "Ad">
+<!ENTITY aboutSupport.featureVersion "Versiya">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "Eksperimental Özəlliklər">
 <!ENTITY aboutSupport.experimentName "Ad">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -62,6 +67,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "Çox əməliyyatlı Pəncərələr">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google açarı">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla Mövqe Xidməti Açarı">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "Təhlükəsiz Rejim">
 
@@ -108,10 +114,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Xam məlumatı buferə köçür">
 
 <!ENTITY aboutSupport.sandboxTitle "Qum qutusu">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Rədd edilən sistem çağrıları">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Saniyə əvvəl">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "Prosses növü">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Sistem çağrısı">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Parametrlər">
 
 <!ENTITY aboutSupport.safeModeTitle "Təhlükəsiz Modu Yoxlayın">
