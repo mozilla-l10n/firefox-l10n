@@ -22,14 +22,6 @@
 
 
 
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Փնտրում">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Համընկնում">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Ստուգել համընկման արդյունքը">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Փնտրում">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Ստուգե փնտրման արդյունքը">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Հիշողություն">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Տվյալների շտեմարան">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Վրիպազերծել">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Կայել մատյանի մոդուլները">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Կայել մատյանի ֆայլը">

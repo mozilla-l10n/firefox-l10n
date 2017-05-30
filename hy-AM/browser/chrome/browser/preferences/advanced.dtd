@@ -142,8 +142,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "Այս կարգավորումները հարմարեցված են ձեր համակարգչի սարքաշարին և օպերացիոն համակարգին:">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "Օ">
 <!ENTITY performanceSettingsLearnMore.label "Իմանալ ավելին">
-<!ENTITY limitContentProcess2.label       "Բովանդակության ընթացքի սահմանափակում">
-<!ENTITY limitContentProcess2.description "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել &brandShortName;-ի արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
-<!ENTITY limitContentProcess2.accesskey   "ս">
+<!ENTITY limitContentProcessOption.label "Բովանդակության ընթացքի սահմանափակում">
+
+<!ENTITY limitContentProcessOption.accesskey   "ս">
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">
