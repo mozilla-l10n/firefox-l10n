@@ -142,8 +142,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
 <!ENTITY performanceSettingsLearnMore.label "Dysgu rhagor">
-<!ENTITY limitContentProcess2.label       "Terfyn proses cynnwys">
-<!ENTITY limitContentProcess2.description "Mae rhagor o brosesau cynnwys yn gallu gwneud &brandShortName; yn fwy ymatebol pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
-<!ENTITY limitContentProcess2.accesskey   "T">
+<!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
+
+<!ENTITY limitContentProcessOption.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">

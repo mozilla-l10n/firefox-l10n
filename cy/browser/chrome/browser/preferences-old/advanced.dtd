@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
 <!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
-<!ENTITY limitContentProcess.label       "Terfyn proses cynnwys">
-<!ENTITY limitContentProcess.description "Mae modd gwella perfformiad prosesau cynnwys ychwanegol &brandShortName; wrth ddefnyddio tabiau lluosog, ond fydd hefyd yn defnyddio rhagor o gof.">
-<!ENTITY limitContentProcess.accesskey   "T">
+
+<!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
+
+<!ENTITY limitContentProcessOption.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">
