@@ -379,15 +379,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "ക">
 <!ENTITY customizeMenu.addToPanel.label "മെനുവിലേക്ക് ചേര്‍ക്കുക">
 <!ENTITY customizeMenu.addToPanel.accesskey "മ">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+
 <!ENTITY customizeMenu.moveToToolbar.label "ടൂള്‍ബാറിലേക്ക് നീക്കുക">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ക">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "മെനുവിലേക്ക് നീക്കുക">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ക">
+
+
+
+
 <!ENTITY customizeMenu.removeFromToolbar.label "ടൂള്‍ബാറില്‍ നിന്നും നീക്കം ചെയ്യുക">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ക">
 <!ENTITY customizeMenu.removeFromMenu.label "മെനുവില്‍ നിന്നും നീക്കം ചെയ്യുക">
@@ -907,6 +917,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+
+
+
 
 
 
