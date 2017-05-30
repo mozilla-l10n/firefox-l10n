@@ -146,5 +146,6 @@
                                          "A">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Läs mer">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
