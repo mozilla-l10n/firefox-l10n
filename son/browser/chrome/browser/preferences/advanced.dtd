@@ -141,8 +141,8 @@
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "o">
 
-<!ENTITY limitContentProcess2.label       "Gundekuna goyandiyan adadu">
+<!ENTITY limitContentProcessOption.label "Gundekuna goyandiyan adadu">
 
-<!ENTITY limitContentProcess2.accesskey   "d">
+<!ENTITY limitContentProcessOption.accesskey   "d">
 <!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
 <!ENTITY allowHWAccel.accesskey          "j">
