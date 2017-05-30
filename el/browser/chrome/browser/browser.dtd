@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Προσθήκη στο μενού">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "Μ">
 <!ENTITY customizeMenu.moveToToolbar.label "Μετακίνηση στην εργαλειοθήκη">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ο">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Μετακίνηση στο μενού">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ο">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Καρφίτσωμα στο μενού">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "Κ">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ξεκαρφίτσωμα από το μενού">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Ξ">
 <!ENTITY customizeMenu.removeFromToolbar.label "Απομάκρυνση από την εργαλειοθήκη">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Απομάκρυνση από το μενού">
@@ -672,6 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "γ">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
+<!ENTITY sidebarMenuClose.label         "Κλείσιμο πλευρικής γραμμής">
 
 <!ENTITY quitApplicationCmdWin2.label       "Έξοδος">
 <!ENTITY quitApplicationCmdWin2.accesskey   "ξ">
@@ -734,6 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Αυτή η σελίδα είναι αποθηκευμένη στον υπολογιστή σας.">
 <!ENTITY identity.connectionVerified2 "Έχετε συνδεθεί με ασφαλή τρόπο στον ιστότοπο, που είναι ιδιοκτησία του:">
 <!ENTITY identity.connectionInternal "Αυτή είναι μια ασφαλής σελίδα του &brandShortName;.">
+<!ENTITY identity.extensionPage "Αυτή η σελίδα φορτώθηκε από μια επέκταση.">
 <!ENTITY identity.insecureLoginForms2 "Τα στοιχεία σύνδεσης που πληκτρολογήσατε σε αυτή την σελίδα μπορεί να διαρεύσουν.">
 
 <!-- Strings for connection state warnings. -->

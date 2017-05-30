@@ -124,5 +124,10 @@
 <!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">
 <!ENTITY viewSecurityDevices.accesskey   "σ">
 
+<!ENTITY performance.label               "Επιδόσεις">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Χρήση προτεινόμενων ρυθμίσεων επιδόσεων">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Μάθετε περισσότερα">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
