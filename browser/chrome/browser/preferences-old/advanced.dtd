@@ -131,5 +131,11 @@
                                          "Гэтыя налады падабраны адмыслова для вашага камп'ютара і аперацыйнай сістэмы.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "В">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Падрабязней">
+<!ENTITY limitContentProcessOption.label "Абмежаванне колькасці працэсаў">
+<!ENTITY limitContentProcessOption.description
+                                         "Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.">
+<!ENTITY limitContentProcessOption.accesskey   "а">
 <!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">
