@@ -139,8 +139,8 @@
 
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 
-<!ENTITY limitContentProcess2.label       "मजकूर प्रक्रिया मर्यादा">
+<!ENTITY limitContentProcessOption.label "मजकूर प्रक्रिया मर्यादा">
 
-<!ENTITY limitContentProcess2.accesskey   "l">
+<!ENTITY limitContentProcessOption.accesskey   "l">
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">
