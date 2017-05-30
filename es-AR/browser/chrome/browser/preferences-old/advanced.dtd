@@ -131,6 +131,5 @@
                                          "Esta configuración se ajusta al hardware y sistema operativo de su computadora.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "U">
-<!ENTITY limitContentProcess.label       "Límite de contenido de proceso">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
