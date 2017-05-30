@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "Lietot plūdeno ritināšanu">
 <!ENTITY useSmoothScrolling.accesskey    "l">
-<!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
-<!ENTITY allowHWAccel.accesskey          "j">
 <!ENTITY checkUserSpelling.label         "Rakstot pārbaudīt pareizrakstību">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "s">
 <!ENTITY viewSecurityDevices.label       "Drošības ierīces">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "Ja pieejams, izmantot aparatūras paātrinājumu">
+<!ENTITY allowHWAccel.accesskey          "j">
