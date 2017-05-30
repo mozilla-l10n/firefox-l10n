@@ -110,6 +110,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; <span id='wrongSystemTime_URL'/> ünvanına qoşula bilmədi çünki, kömpüterinizin saatı səhv görünür və bu təhlükəsiz əlaqəyə mane olur.</p> <p>Kompüteriniz <span id='wrongSystemTime_systemDate'/> olaraq qurulub, amma <span id='wrongSystemTime_actualDate'/> olmalıdır. Bu xətanı həll etmək üçün tarixi və saatı düzgün dəyərlərlə dəyişdirin.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; <span id='wrongSystemTimeWithoutReference_URL'/> ünvanına qoşula bilmədi çünki, kömpüterinizin saatı səhv görünür və bu təhlükəsiz əlaqəyə mane olur.</p> <p>Kompüteriniz <span id='wrongSystemTimeWithoutReference_systemDate'/> olaraq qurulub. Bu xətanı həll etmək üçün tarixi və saatı düzgün dəyərlərlə dəyişdirin.</p>">
 
 <!ENTITY certerror.pagetitle1  "Qorumasız Bağlantı">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Bu sayt, &brandShortName; səyyahının özünə ancaq təhlükəsiz şəkildə qoşula biləcəyini bidirmək üçün HTTP Qəti Transfer Təhlükəsizliyi (HTTS) istifadə edir. Bu səbəbdən, bu sertifikat üçün istisna əlavə etmək mümkün deyil.">
