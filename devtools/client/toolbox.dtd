@@ -87,11 +87,15 @@
 
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
+
+<!ENTITY options.webconsole.label            "Consolă web">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Depanator">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
