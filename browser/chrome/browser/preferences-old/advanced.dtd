@@ -131,5 +131,11 @@
                                          "Тези настройки са съобразени с хардуера и операционната система на компютъра.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "п">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Научете повече">
+<!ENTITY limitContentProcessOption.label "Процеси за обработка на съдържание">
+<!ENTITY limitContentProcessOption.description
+                                         "Допълнителни процеси за обработка съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
+<!ENTITY limitContentProcessOption.accesskey   "с">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
