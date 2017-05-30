@@ -14,10 +14,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Абнавіць">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Ачысціць">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Назва табліцы">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Колькасць негатыўных запісаў кэша">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Колькасць пазітыўных запісаў кэша">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Паказаць запісы">
-<!ENTITY aboutUrlClassifier.cacheEntries                "Запісы кэшу">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Запісы кэша">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Прэфікс">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Тэрмін захоўвання негатыўнага кэша мінае">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Поўны хэш">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Тэрмін захоўвання пазітыўнага кэша мінае">
 <!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
 <!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
 <!ENTITY aboutUrlClassifier.lookupMatch                 "Супадзенне">
