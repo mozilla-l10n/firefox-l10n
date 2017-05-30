@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Neigiamo podėlio galiojimo pabaiga">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Pilna maišos reikšmė">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Teigiamo podėlio galiojimo pabaiga">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Ieškoti">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Atitikmuo">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Patikrinti atitikmens rezultatą">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Ieškoti">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Patikrinti paieškos rezultatą">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Atmintis">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Duomenų bazė">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Derinti">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Parinkti žurnalo modulius">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Parinkti žurnalo failą">
