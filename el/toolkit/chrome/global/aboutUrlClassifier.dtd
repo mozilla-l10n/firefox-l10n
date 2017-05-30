@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Χρόνος επόμενης ενημέρωσης">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Τελευταία ενημέρωση κατάστασης">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ενημέρωση">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Αναζήτηση">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Αντιστοιχία">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Έλεγχος αποτελέσματος αντιστοιχίας">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Αναζήτηση">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Έλεγχος αποτελέσματος αναζήτησης">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Μνήμη">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Βάση δεδομένων">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Αποσφαλμάτωση">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Ορισμός μονάδων καταγραφής">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Ορισμός αρχείου καταγραφής">
