@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Кіраваць выкарыстаннем плагіна">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Змяніць магчымасць атрымліваць апавяшчэнні з гэтага сайта">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Захоўваць звесткі ў Сталым Сховішчы (Persistent Storage)">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Браўзер знаходзіцца пад аддаленым кіраваннем">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Кіраваць доступам сайта да вашай камеры і/або мікрафона">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Кіраваць доступам сайта да вашага мікрафона">
@@ -422,6 +423,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Парада:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Змяніць налады…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "З">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Змяніць перавагі…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "З">
 
 <!--
   Comment duplicated from browser-sets.inc:
