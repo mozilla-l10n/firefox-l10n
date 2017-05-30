@@ -384,15 +384,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "Ա">
 <!ENTITY customizeMenu.addToPanel.label "Ավելացնել Ցանկում">
 <!ENTITY customizeMenu.addToPanel.accesskey "Ց">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+
 <!ENTITY customizeMenu.moveToToolbar.label "Տեղափոխել Գործիքավահանակ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ե">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Տեղափոխել Ցանկ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ե">
+
+
+
+
 <!ENTITY customizeMenu.removeFromToolbar.label "Հեռացնել Գործիքավահանակից">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Հ">
 <!ENTITY customizeMenu.removeFromMenu.label "Հեռացնել Ցանկից">
@@ -949,3 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Վերամեկնարկեք՝ &brandShorterName;-ը՝ արդիացնելու համար">
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
+
+
+
+
