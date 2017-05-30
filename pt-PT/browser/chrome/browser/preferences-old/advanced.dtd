@@ -128,8 +128,9 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Utilizar definições de desempenho recomendadas">
 <!ENTITY useRecommendedPerformanceSettings.description "Estas definições são ajustadas para o hardware e sistema operativo do seu computador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
-<!ENTITY limitContentProcess.label       "Limite de processos de conteúdo">
-<!ENTITY limitContentProcess.description "Processos de conteúdo adicionais podem melhorar o desempenho do &brandShortName; ao utilizar múltiplos separadores, mas também irá consumir mais memória.">
-<!ENTITY limitContentProcess.accesskey   "L">
+<!ENTITY performanceSettingsLearnMore.label "Saber mais">
+<!ENTITY limitContentProcessOption.label "Limite de processos de conteúdo">
+<!ENTITY limitContentProcessOption.description "Processos de conteúdo adicionais podem melhorar o desempenho ao utilizar múltiplos separadores, mas também irá consumir mais memória.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Se disponível, utilizar aceleração de hardware">
 <!ENTITY allowHWAccel.accesskey          "r">

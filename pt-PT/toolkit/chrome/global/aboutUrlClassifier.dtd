@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Expiração de cache negativa">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hash completa">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Expiração de cache positiva">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Procurar">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Corresponder">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Verificar resultado correspondente">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Procurar">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Verificar resultado da procura">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Memória">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Base de dados">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuração">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Definir módulos de registo">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Definir ficheiro de registo">
