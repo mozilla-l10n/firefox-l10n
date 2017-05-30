@@ -11,6 +11,7 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Addad n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tuffirt">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Smiren">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
