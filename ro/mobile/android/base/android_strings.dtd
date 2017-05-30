@@ -735,7 +735,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      They are never shown to users -->
 
 <!ENTITY actionbar_menu "Meniu">
-<!ENTITY actionbar_done "Gata">
+<!ENTITY actionbar_done "Terminat">
 <!-- Voice search in the awesome bar -->
 
 <!ENTITY voicesearch_prompt "Vorbește acum">
