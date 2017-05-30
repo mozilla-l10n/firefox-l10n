@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Förfallodatum negativ cache">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Fullständig hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Förfallodatum positiv cache">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Slå upp">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Matchning">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontrollera matchningsresultat">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Slå upp">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontrollera sökresultat">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Minne">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Databas">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Felsök">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Ange loggmoduler">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Ange loggfil">
