@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "ချောမောလွယ်ကူသော အပေါ်အောက်ရွှေ့သည့်စနစ်ကို အသုံးပြုပါ">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-<!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
-<!ENTITY allowHWAccel.accesskey          "r">
 <!ENTITY checkUserSpelling.label         "စာရိုက်နေစဉ် စာလုံးပေါင်းများကို စစ်ဆေးပါ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
@@ -125,3 +123,6 @@
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "လုံခြုံရေး ကိရိယာများ">
 <!ENTITY viewSecurityDevices.accesskey   "D">
+
+<!ENTITY allowHWAccel.label              "ဖြစ်နိုင်လျှင် စက်ကိရိယာဖြင့် အရှိန်မြှင့်တင်ခြင်းကို အသုံးပြုပါ">
+<!ENTITY allowHWAccel.accesskey          "r">

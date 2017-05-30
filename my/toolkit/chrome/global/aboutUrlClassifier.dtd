@@ -10,15 +10,7 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "နောက်ဆုံးမတိုင်ခင် ပြင်ခဲ့သော အချိန်">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "နောက်ဆုံးပြင်ခဲ့သော အခြေအနေ">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "ပြင်ဆင်ရန်">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "ရှာဖွေရန်">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "တိုက်ဆိုင်ရှာဖွေရန်">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "ကိုက်ညီသော ရလဒ်ကို စစ််ဆေးရန်">
-<!ENTITY aboutUrlClassifier.lookupLookup                "ရှာဖွေရန်">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "တွေ့ရှိသော ရလဒ်ကို စစ်ဆေးရန်">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "ယာယီဖိုင်">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "မှတ်ဉာဏ်">
-<!ENTITY aboutUrlClassifier.databaseTitle               "ဒေတာဘေ့စ်">
 <!ENTITY aboutUrlClassifier.debugTitle                  "အမှားစစ်ခြင်း">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "မှတ်တမ်းဆိုင်ရာ မော်ဂျူးများကို သတ်မှတ်ရန်">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "မှတ်တမ်းဖိုင်ကို သတ်မှတ်ရန်">
