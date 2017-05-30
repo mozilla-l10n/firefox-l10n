@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Тэрмін захоўвання негатыўнага кэша мінае">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Поўны хэш">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Тэрмін захоўвання пазітыўнага кэша мінае">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Пошук">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "Url">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Супадзенне">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Праверыць вынік супадзення">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Пошук">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Праверыць вынік пошуку">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Памяць">
-<!ENTITY aboutUrlClassifier.databaseTitle               "База дадзеных">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Адладка">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Пазначыць модулі журнала">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Пазначыць файл журнала">
