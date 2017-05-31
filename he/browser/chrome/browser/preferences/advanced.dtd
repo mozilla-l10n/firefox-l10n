@@ -147,5 +147,6 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "מידע נוסף">
 <!ENTITY limitContentProcessOption.label "הגבלת תהליך תוכן">
+<!ENTITY limitContentProcessOption.accesskey   "מ">
 <!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">
