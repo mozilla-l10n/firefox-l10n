@@ -131,5 +131,11 @@
                                          "Ці налаштування підібрані для вашого комп'ютера й операційної системи.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "В">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Докладніше">
+<!ENTITY limitContentProcessOption.label "Обмеження процесів вмісту">
+<!ENTITY limitContentProcessOption.description
+                                         "Додаткова кількість процесів вмісту може пришвидшити роботу при використанні багатьох вкладок, але при цьому споживатиметься більше пам'яті.">
+<!ENTITY limitContentProcessOption.accesskey   "О">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "к">
