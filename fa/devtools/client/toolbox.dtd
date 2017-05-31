@@ -32,7 +32,7 @@
   -  panel. -->
 
 <!ENTITY options.collapseAttrs.label "کوتاه کردن ویژیگی‌های DOM">
-<!ENTITY options.collapseAttrs.tooltip "کوتاه کردن ویژیگی طولانی در بازرسی">
+<!ENTITY options.collapseAttrs.tooltip "کوتاه کردن خصیصه‌های طولانی در بازرس">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -137,7 +137,7 @@
 <!-- LOCALIZATION NOTE (options.webconsole.label): This is the label for the
   -  heading of the group of Web Console preferences in the options panel. -->
 
-<!ENTITY options.webconsole.label            "پیشانهٔ وب">
+<!ENTITY options.webconsole.label            "پایانه وب">
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 
@@ -145,6 +145,8 @@
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "اشکال‌زدا">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
