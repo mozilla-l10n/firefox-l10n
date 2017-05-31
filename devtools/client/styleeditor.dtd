@@ -17,9 +17,10 @@
 <!ENTITY importButton.tooltip       "اضافه و وارد کردن صفحه تم فعلی به مستندات">
 
 
+<!ENTITY visibilityToggle.tooltip   "تغییر وضعیت نمایش صفحه تم">
 
 <!ENTITY saveButton.label           "ذخیره">
-
+<!ENTITY saveButton.tooltip         "ذخیره این صفحه تم در پرونده">
 <!ENTITY saveButton.accesskey       "ذ">
 
 <!ENTITY optionsButton.tooltip      "تنظیمات ویرایشگر شیوه">
@@ -44,6 +45,7 @@
 
 <!ENTITY mediaRules.label           "قواعد @media">
 
+<!ENTITY editorTextbox.placeholder  "نوع CSS اینجا.">
 <!-- LOCALICATION NOTE  (noStyleSheet.label): This is shown when a page has no
      stylesheet. -->
 

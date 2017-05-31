@@ -31,6 +31,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "کوتاه کردن ویژیگی‌های DOM">
+<!ENTITY options.collapseAttrs.tooltip "کوتاه کردن ویژیگی طولانی در بازرسی">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -78,26 +80,30 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "فعال‌سازی رفع‌اشکال از راه دور">
-
+<!ENTITY options.enableRemote.tooltip2  "فعال کردن این گزینه به ابزار توسعه اجازه اشکال زدایی از راه دور فایرفاکس مانند سیستم عامل فایرفاکس را می‌دهد">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableWorkers.label    "فعال‌سازی اشکال‌زدایی کارگر (در حال توسعه)">
-
+<!ENTITY options.enableWorkers.tooltip  "فعال کردن این امکان به ابزارهای توسعه امکان اشکال‌زدایی workers را می‌دهد">
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 
 <!ENTITY options.disableJavaScript.label     "غیرفعال کردن جاوا اسکریپت *">
-
+<!ENTITY options.disableJavaScript.tooltip   "فعال کردن ای گزینه JavaScript را از زبان فعلی غیرفعال می‌کند. اگر زبانه یا ابزار بسته شد سپس ممکن است این تنظیمات فراموش شود.">
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
+<!ENTITY options.disableHTTPCache.label     "غیرفعال کردن ذخیره نهان HTTP‌ (وقتی جعبه ابزار باز است)">
+<!ENTITY options.disableHTTPCache.tooltip   "فعال کردن این گزینه حافظه نهان HTTP را برای تمامی زبانه‌ها فعالی که جعبه‌ابزار آن ها باز است غیرفعال می‌کند. کارگرهای خدمات دهده تحت تاثیر این گزینه قرار نمی‌گیرند.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
+
+<!ENTITY options.enableServiceWorkersHTTP.label     "فعال کردن خدمات کارگران برای روی HTTP ( وقتی که جعبه ابزار باز است)">
 
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
