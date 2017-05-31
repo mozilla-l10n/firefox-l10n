@@ -126,11 +126,11 @@
 
 <!ENTITY performance.label               "Feidhmíocht">
 <!ENTITY useRecommendedPerformanceSettings.label "Bain úsáid as na socruithe feidhmíochta a mholtar">
-
+<!ENTITY useRecommendedPerformanceSettings.description "Cuireadh na socruithe seo in oiriúint do chrua-earraí agus do chóras oibriúcháin do ríomhaire.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "B">
-
-
-
-
+<!ENTITY performanceSettingsLearnMore.label "Tuilleadh eolais">
+<!ENTITY limitContentProcessOption.label "Líon is mó próiseas ábhair">
+<!ENTITY limitContentProcessOption.description "Beidh an brabhsálaí níos freagraí agus tuilleadh próiseas ábhair ar siúl má úsáidtear cluaisíní iomadúla, cé go n-úsáideann sé níos mó cuimhne.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">

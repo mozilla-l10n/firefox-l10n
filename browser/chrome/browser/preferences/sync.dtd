@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Stair">
 <!ENTITY engine.history.accesskey   "r">
-
-
+<!ENTITY engine.logins.label        "Focail Fhaire">
+<!ENTITY engine.logins.accesskey    "F">
 <!ENTITY engine.prefs.label         "Sainroghanna">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "Breiseáin">
