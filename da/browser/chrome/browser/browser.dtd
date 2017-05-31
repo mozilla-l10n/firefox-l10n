@@ -944,3 +944,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Genstart for at opdatere &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlinger">
+
+<!ENTITY sendToDevice.label "Send til enhed…">
+<!ENTITY sendToDevice.viewTitle "Send til enhed">
+<!ENTITY sendToDevice.fxaRequired.label "Påkrævet">
+<!ENTITY sendToDevice.noDevices.label "Ingen enheder tilgængelig">

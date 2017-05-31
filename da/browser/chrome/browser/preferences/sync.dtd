@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Adgangskoder">
-<!ENTITY engine.passwords.accesskey "A">
+<!ENTITY engine.logins.label        "Logins">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tilføjelser">
@@ -19,8 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Enhedens navn">
-<!ENTITY changeSyncDeviceName.label "Skift navn for enheden…">
-<!ENTITY changeSyncDeviceName.accesskey "k">
+<!ENTITY changeSyncDeviceName2.label "Skift navn for enheden…">
+<!ENTITY changeSyncDeviceName2.accesskey "k">
 <!ENTITY cancelChangeSyncDeviceName.label "Annuller">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Gem">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Skift profilbillede">
 <!ENTITY verifiedManage.label        "Håndter konto">
 <!ENTITY verifiedManage.accesskey    "H">
-<!ENTITY disconnect.label            "Afbryd…">
-<!ENTITY disconnect.accesskey        "A">
+<!ENTITY disconnect3.label            "Afbryd…">
+<!ENTITY disconnect3.accesskey        "A">
 <!ENTITY verify.label                "Bekræft mailadresse">
 <!ENTITY verify.accesskey            "B">
 <!ENTITY forget.label                "Glem denne mailadresse">
@@ -67,7 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Log ind">
 <!ENTITY signedOut.accountBox.signin.accesskey  "i">
 
-<!ENTITY signedIn.engines.label       "Synkroniser mellem alle enheder">
+
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

@@ -1,6 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY  popups.label                "Pop op-vinduer">
 
 <!ENTITY  blockPopups.label           "Bloker pop op-vinduer">
@@ -20,10 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper &amp; farver">
 
-<!ENTITY  defaultFont.label           "Standardskrifttype:">
-<!ENTITY  defaultFont.accesskey       "k">
-<!ENTITY  defaultSize.label           "Størrelse:">
-<!ENTITY  defaultSize.accesskey       "t">
+<!ENTITY  defaultFont2.label           "Standardskrifttype">
+<!ENTITY  defaultFont2.accesskey       "k">
+<!ENTITY  defaultSize2.label           "Størrelse">
+<!ENTITY  defaultSize2.accesskey       "t">
 
 <!ENTITY  advancedFonts.label         "Avanceret…">
 <!ENTITY  advancedFonts.accesskey     "v">

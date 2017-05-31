@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Brug beskyttelse mod sporing">
+<!ENTITY  trackingProtectionHeader2.label       "Beskyttelse mod sporing">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
@@ -30,7 +30,7 @@
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
-<!ENTITY  locbar.suggest.label          "Når jeg bruger adresselinjen ønsker jeg forslag fra:">
+<!ENTITY  locbar.suggest2.label          "Når jeg bruger adresselinjen ønsker jeg forslag fra">
 <!ENTITY  locbar.history.label          "Historik">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Bogmærker">
@@ -40,8 +40,7 @@
 <!ENTITY  locbar.searches.label         "Relaterede søgninger med standard-søgetjenesten">
 <!ENTITY  locbar.searches.accesskey     "R">
 
-<!ENTITY  suggestionSettings.label      "Skift indstillinger for søgeforslag…">
-<!ENTITY  suggestionSettings.accesskey  "g">
+<!ENTITY  suggestionSettings2.label      "Skift indstillinger for søgeforslag">
 
 <!ENTITY  acceptCookies.label           "Accepter cookies fra websteder">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -64,8 +63,8 @@
 <!ENTITY  showCookies.label             "Vis cookies…">
 <!ENTITY  showCookies.accesskey         "V">
 
-<!ENTITY  historyHeader.pre.label          "&brandShortName; vil:">
-<!ENTITY  historyHeader.pre.accesskey      "i">
+<!ENTITY  historyHeader2.pre.label          "&brandShortName; vil">
+<!ENTITY  historyHeader2.pre.accesskey      "i">
 <!ENTITY  historyHeader.remember.label     "Gemme historik">
 <!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
 <!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">

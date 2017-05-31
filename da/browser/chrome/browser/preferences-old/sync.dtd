@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "f">
 <!ENTITY engine.history.label       "Historik">
 <!ENTITY engine.history.accesskey   "H">
-<!ENTITY engine.passwords.label     "Logins">
-<!ENTITY engine.passwords.accesskey "L">
+<!ENTITY engine.logins.label        "Logins">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Indstillinger">
 <!ENTITY engine.prefs.accesskey     "I">
 <!ENTITY engine.addons.label        "Tilføjelser">
