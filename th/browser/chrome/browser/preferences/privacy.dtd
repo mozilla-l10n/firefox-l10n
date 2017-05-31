@@ -13,7 +13,7 @@
 <!ENTITY  trackingProtectionNever.accesskey    "ม">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
-<!ENTITY  trackingProtectionExceptions.accesskey "อ">
+<!ENTITY  trackingProtectionExceptions.accesskey "ย">
 
 <!ENTITY tracking.label                 "การตามรอย">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
@@ -60,7 +60,7 @@
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "ข้อยกเว้น…">
-<!ENTITY  cookieExceptions.accesskey    "E">
+<!ENTITY  cookieExceptions.accesskey    "ข">
 
 <!ENTITY  showCookies.label             "แสดงคุกกี้…">
 <!ENTITY  showCookies.accesskey         "S">
