@@ -4,7 +4,7 @@
 
 <!ENTITY  security.label                 "安全">
 
-<!ENTITY  warnOnAddonInstall.label        "当站点尝试安装附加组件时提醒我">
+<!ENTITY  warnOnAddonInstall.label        "站点尝试安装附加组件时询问我">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
