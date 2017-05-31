@@ -734,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ɓeydu Caggitorɗe…">
 <!ENTITY spellAddDictionaries.accesskey "Ɓ">
 
+<!ENTITY editBookmark.done.label                     "Gasii">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Ceŋagol Kisnangol">
@@ -840,9 +841,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ina sokli kaɓirɗe goɗɗe">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Suɓo e nder ujunnaaje ɓeyditte">
 <!ENTITY customizeMode.restoreDefaults "Artir Goowaaɗe">
-
+<!ENTITY customizeMode.done "Gasii">
 <!ENTITY customizeMode.titlebar "Tiitoonde palal">
-
+<!ENTITY customizeMode.toolbars2 "&amp;Pale kuutorɗe">
 <!ENTITY customizeMode.lwthemes "Ciŋkooje">
 <!ENTITY customizeMode.lwthemes.myThemes "Ciŋkooje Am">
 <!ENTITY customizeMode.lwthemes.recommended "Basiyaaɗi">
@@ -956,7 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "H">
 <!ENTITY updateRestart.cancelButton.label "Wonaa Jooni">
 <!ENTITY updateRestart.cancelButton.accesskey "W">
-
+<!ENTITY updateRestart.panelUI.label2 "Huɓɓit ngam hesɗitinde &brandShorterName;.">
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 
