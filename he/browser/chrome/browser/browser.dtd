@@ -962,3 +962,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label "שליחה להתקן…">
 <!ENTITY sendToDevice.viewTitle "שליחה להתקן">
+<!ENTITY sendToDevice.fxaRequired.label "נדרש">
+<!ENTITY sendToDevice.noDevices.label "אין התקנים זמינים">
