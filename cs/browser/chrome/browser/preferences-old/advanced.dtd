@@ -131,7 +131,7 @@
                                          "Tato nastavení jsou ušita na míru podle hardwaru a operačního systému vašeho počítače.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "u">
-<!ENTITY limitContentProcessOption.label "Limit poštu procesů pro obsah">
+<!ENTITY limitContentProcessOption.label "Omezit počet procesů pro obsah na">
 <!ENTITY limitContentProcessOption.description
                                          "Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale spotřebují také více paměti.">
 <!ENTITY limitContentProcessOption.accesskey   "b">
