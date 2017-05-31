@@ -555,22 +555,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLCmd.label             "复制网址">
 <!ENTITY emailPageCmd.label           "用邮件发送链接…">
 <!ENTITY emailPageCmd.accesskey       "E">
-<!ENTITY savePageCmd.label            "将页面另存为…">
+<!ENTITY savePageCmd.label            "另存页面为…">
 <!ENTITY savePageCmd.accesskey        "A">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "P">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "将框架另存为…">
+<!ENTITY saveFrameCmd.label           "另存框架为…">
 <!ENTITY saveFrameCmd.accesskey       "F">
 <!ENTITY printFrameCmd.label          "打印框架…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "从链接另存文件为…">
 <!ENTITY saveLinkCmd.accesskey        "k">
-<!ENTITY saveImageCmd.label           "将图像另存为…">
+<!ENTITY saveImageCmd.label           "另存图像为…">
 <!ENTITY saveImageCmd.accesskey       "v">
-<!ENTITY saveVideoCmd.label           "将视频另存为…">
+<!ENTITY saveVideoCmd.label           "另存视频为…">
 <!ENTITY saveVideoCmd.accesskey       "v">
-<!ENTITY saveAudioCmd.label           "将音频另存为…">
+<!ENTITY saveAudioCmd.label           "另存音频为…">
 <!ENTITY saveAudioCmd.accesskey       "v">
 <!ENTITY emailImageCmd.label          "用邮件发送图片…">
 <!ENTITY emailImageCmd.accesskey      "g">
