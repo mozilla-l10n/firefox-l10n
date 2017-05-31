@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Momtu Aslol Sakketol…">
 <!ENTITY appMenuHistory.restoreSession.label "Artir Yillannde Ɓennunde">
 <!ENTITY appMenuHistory.viewSidebar.label "Hollu Aslol Palal Sawndo">
-
+<!ENTITY appMenuHelp.label "&amp;Ballal">
 <!ENTITY appMenuHelp.tooltip "Uddit ballitorgol">
 
 <!ENTITY appMenuRemoteTabs.label "Tabbe synckaaɗe">
