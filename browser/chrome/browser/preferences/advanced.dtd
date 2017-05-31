@@ -13,9 +13,9 @@
 <!ENTITY searchOnStartTyping.label       "ค้นหาข้อความเมื่อคุณเริ่มพิมพ์">
 <!ENTITY searchOnStartTyping.accesskey   "ว">
 <!ENTITY blockAutoReload.label           "เตือนคุณเมื่อเว็บไซต์พยายามจะเปลี่ยนเส้นทางหรือโหลดหน้าใหม่">
-<!ENTITY blockAutoReload.accesskey       "ย">
+<!ENTITY blockAutoReload.accesskey       "พ">
 <!ENTITY useOnScreenKeyboard.label       "แสดงแป้นพิมพ์แบบสัมผัสเมื่อจำเป็น">
-<!ENTITY useOnScreenKeyboard.accesskey   "k">
+<!ENTITY useOnScreenKeyboard.accesskey   "ผ">
 
 <!ENTITY browsing.label                  "การท่องเว็บ">
 
@@ -106,7 +106,7 @@
 <!ENTITY updateHistory2.accesskey        "ส">
 
 <!ENTITY useService.label                "ใช้บริการเบื้องหลังเพื่อติดตั้งการอัปเดต">
-<!ENTITY useService.accesskey            "b">
+<!ENTITY useService.accesskey            "ช">
 
 <!ENTITY enableSearchUpdate2.label       "อัปเดตเครื่องมือค้นหาโดยอัตโนมัติ">
 <!ENTITY enableSearchUpdate2.accesskey   "อ">
@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "ประสิทธิภาพ">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ใช้การตั้งค่าประสิทธิภาพที่แนะนำ">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "ภ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "เรียนรู้เพิ่มเติม">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
