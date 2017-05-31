@@ -139,11 +139,11 @@
 
 <!ENTITY performance.label               "Performanță">
 <!ENTITY useRecommendedPerformanceSettings2.label "Folosește setările recomandate de performanță">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Aceste setări sunt adaptate pentru hardware-ul și sistemul de operare al calculatorului.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Află mai multe">
 <!ENTITY limitContentProcessOption.label "Limita proceselor pentru conținut">
-
+<!ENTITY limitContentProcessOption.description "Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
