@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Ɓeydu e Overflow Cuɓirgol">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "C">
 <!ENTITY customizeMenu.moveToToolbar.label "Dirtin to palal kuutorɗe">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "D">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Dirtin to cuɓirgol">
 <!ENTITY customizeMenu.moveToPanel.accesskey "D">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pin to Overflow Cuɓirgol">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Pintu ummoraade Overflow Cuɓirgol">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.removeFromToolbar.label "Ittu e  palal kuutorɗe">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "I">
 <!ENTITY customizeMenu.removeFromMenu.label "Ittu e cuɓirgel">
@@ -412,6 +413,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+
+<!ENTITY moreMenu.label "Goɗɗum">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Yiylo walla naatnu ñiiɓirde">
@@ -428,11 +431,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Eey">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Toɓɓu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Ɓeydu ballal ngam yiytude geɗe ! Ƴeewto to &#x1F50E; sara bagginooje njiylawu.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Waylu Cuɓe...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C ">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Waylu Cuɓe...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C ">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -546,7 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "J">
 <!ENTITY bookmarkThisFrameCmd.label      "Maantoro Ngol Kaarewol">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "o">
-
+<!ENTITY copyURLCmd.label             "Natto URL">
 <!ENTITY emailPageCmd.label           "Jokkol Iimeel…">
 <!ENTITY emailPageCmd.accesskey       "J">
 <!ENTITY savePageCmd.label            "Danndu Hello e Innde…">
@@ -673,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "L">
 
 <!ENTITY sidebarCloseButton.tooltip     "Uddu palal sawndo">
-
+<!ENTITY sidebarMenuClose.label         "Uddu palal sawndo ">
 
 <!ENTITY quitApplicationCmdWin2.label       "Yaltu">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Y">
@@ -954,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Baɗe hello">
 
-
-
-
+<!ENTITY sendToDevice.label "Neldu to Masiŋel...">
+<!ENTITY sendToDevice.viewTitle "Neldu to Masiŋel">
+<!ENTITY sendToDevice.fxaRequired.label "Ena waɗɗii">
+<!ENTITY sendToDevice.noDevices.label "Alaa masiŋel heɓii">
