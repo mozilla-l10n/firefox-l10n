@@ -183,7 +183,7 @@
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 <!ENTITY options.screenshot.audio.label      "播放相机快门声">
-<!ENTITY options.screenshot.audio.tooltip    "拍摄截图时播放相机快门声">
+<!ENTITY options.screenshot.audio.tooltip    "截图时播放相机快门声">
 
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
