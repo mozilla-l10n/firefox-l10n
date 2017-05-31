@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
-
+<!ENTITY appMenuHelp.label "Ajutor">
 <!ENTITY appMenuHelp.tooltip "Deschide meniul Ajutor">
 
 <!ENTITY appMenuRemoteTabs.label "File sincronizate">
