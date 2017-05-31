@@ -17,7 +17,7 @@
 <!ENTITY  notificationsDoNotDisturbDetails.value "การแจ้งเตือนจะไม่แสดงจนกระทั่งคุณได้เริ่ม &brandShortName; ใหม่">
 
 <!ENTITY  popupExceptions.label       "ข้อยกเว้น…">
-<!ENTITY  popupExceptions.accesskey   "ข">
+<!ENTITY  popupExceptions.accesskey   "ก">
 
 <!ENTITY  fontsAndColors.label        "แบบอักษรและสี">
 
