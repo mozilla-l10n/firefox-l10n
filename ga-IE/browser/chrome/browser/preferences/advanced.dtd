@@ -139,7 +139,7 @@
 
 <!ENTITY performance.label               "Feidhmíocht">
 <!ENTITY useRecommendedPerformanceSettings2.label "Bain úsáid as na socruithe feidhmíochta a mholtar">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Cuireadh na socruithe seo in oiriúint do chrua-earraí agus do chóras oibriúcháin do ríomhaire.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "B">
 <!ENTITY performanceSettingsLearnMore.label "Tuilleadh eolais">
 <!ENTITY limitContentProcessOption.label "Teorainn próiseála ábhair">
