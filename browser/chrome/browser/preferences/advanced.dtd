@@ -84,22 +84,21 @@
 <!ENTITY updateTab.label                 "Opdateringer">
 
 <!ENTITY updateApplication.label          "&brandShortName;-opdateringer">
-<!ENTITY updateAuto1.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
-<!ENTITY updateAuto1.accesskey            "A">
-<!ENTITY updateCheckChoose.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
-<!ENTITY updateCheckChoose.accesskey     "S">
-<!ENTITY updateManual.label              "Søg aldrig efter opdateringer (frarådes, sikkerhedsrisiko)">
-<!ENTITY updateManual.accesskey          "N">
+<!ENTITY updateAuto2.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
+<!ENTITY updateAuto2.accesskey            "A">
+<!ENTITY updateCheckChoose2.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheckChoose2.accesskey     "S">
+<!ENTITY updateManual.label2              "Søg aldrig efter opdateringer (frarådes)">
+<!ENTITY updateManual2.accesskey          "N">
 
-<!ENTITY updateHistory.label             "Vis opdateringshistorik">
-<!ENTITY updateHistory.accesskey         "V">
+<!ENTITY updateHistory2.label             "Vis opdateringshistorik…">
+<!ENTITY updateHistory2.accesskey         "V">
 
 <!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY autoUpdateOthers.label          "Opdater automatisk">
-<!ENTITY enableSearchUpdate.label        "Søgetjenester">
-<!ENTITY enableSearchUpdate.accesskey    "g">
+<!ENTITY enableSearchUpdate2.label        "Opdater automatisk søgetjenester">
+<!ENTITY enableSearchUpdate2.accesskey    "g">
 
 <!ENTITY offlineStorageNotify.label               "Fortæl mig når et websted ønsker at lagre data til brug offline">
 <!ENTITY offlineStorageNotify.accesskey           "o">
@@ -113,8 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Fjern offline data">
 
 <!ENTITY certificateTab.label            "Certifikater">
-<!ENTITY certPersonal.label              "Forespørgsler">
-<!ENTITY certPersonal.description        "Når en server anmoder om mit personlige certifikat:">
+<!ENTITY certPersonal.description        "Når en server anmoder om mit personlige certifikat">
 <!ENTITY selectCerts.auto                "Vælg et automatisk">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Spørg mig hver gang">

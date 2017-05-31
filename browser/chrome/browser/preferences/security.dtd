@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  general.label                 "Generelt">
+<!ENTITY  security.label                 "Sikkerhed">
 
 <!ENTITY  warnOnAddonInstall.label        "Advar mig når websteder forsøger at installere tilføjelser">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
@@ -24,10 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "t">
 
 
-<!ENTITY  logins.label                  "Logins">
+<!ENTITY  formsAndPasswords.label       "Formularer &amp; adgangskoder">
 
-<!ENTITY  rememberLogins.label          "Husk logins til websteder">
-<!ENTITY  rememberLogins.accesskey      "H">
+<!ENTITY  rememberLogins1.label          "Husk logins og adgangskoder til websteder">
+<!ENTITY  rememberLogins1.accesskey      "H">
 <!ENTITY  passwordExceptions.label      "Undtagelser…">
 <!ENTITY  passwordExceptions.accesskey  "U">
 
