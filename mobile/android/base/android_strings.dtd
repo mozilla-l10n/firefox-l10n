@@ -653,7 +653,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Mixed content notifications in site identity popup -->
 <!ENTITY mixed_content_blocked_all1 "&brandShortName; a bloqué du contenu non sécurisé sur cette page.">
 <!ENTITY mixed_content_blocked_some1 "&brandShortName; a bloqué une partie du contenu non sécurisé sur cette page.">
-<!ENTITY mixed_content_display_loaded1 "Certains éléments de la page ne sont pas sécurisés (tels que des images).">
+<!ENTITY mixed_content_display_loaded1 "Des éléments de la page ne sont pas sécurisés (tels que des images).">
 <!ENTITY mixed_content_protection_disabled1 "Vous avez désactivé la protection contre le contenu non sécurisé.">
 
 <!-- Tracking content notifications in site identity popup -->
