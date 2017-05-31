@@ -138,7 +138,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Tamellit">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Seqdec iγewwaṛen n temellit ihulen">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Issin ugar">
+<!ENTITY limitContentProcessOption.label "Azal afellay n ukala n ugbur">
 <!ENTITY allowHWAccel.label              "Seqdec tasγiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">

@@ -125,6 +125,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Tamellit">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Seqdec iγewwaṛen n temellit ihulen">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "S">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
