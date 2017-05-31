@@ -14,14 +14,14 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Athnuaigh">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Bánaigh">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Ainm an tábla">
-
-
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Líon na n-iontrálacha diúltacha sa taisce">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Líon na n-iontrálacha deimhneacha sa taisce">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Taispeáin iontrálacha">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Iontrálacha sa Taisce">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Réimír">
-
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Dul in éag na taisce diúltaí">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Hais iomlán">
-
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Dul in éag na taisce deimhní">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Dífhabhtaigh">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Socraigh Logmhodúil">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Socraigh Logchomhad">
