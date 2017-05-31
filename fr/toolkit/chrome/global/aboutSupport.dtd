@@ -64,7 +64,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsPerformance "Performances">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
-<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers enregistrés">
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service workers enregistrés">
 
 <!ENTITY aboutSupport.appBasicsProfiles "Profils">
 
@@ -112,7 +112,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.libraryVersionsTitle "Versions des bibliothèques">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historique d’installation">
-<!ENTITY aboutSupport.updateHistoryTitle "Mise à jour de l’historique">
+<!ENTITY aboutSupport.updateHistoryTitle "Historique des mises à jour">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "Copier le texte dans le presse-papiers">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copier les informations brutes dans le presse-papiers">

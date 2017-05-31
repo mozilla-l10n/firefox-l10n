@@ -78,17 +78,10 @@
 ">
 
 <!ENTITY contentEncodingError.title "Erreur d’encodage de contenu">
-<!ENTITY contentEncodingError.longDesc "
-<ul>
-  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
-</ul>
-">
+<!ENTITY contentEncodingError.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>">
 
 <!ENTITY unsafeContentType.title "Type de fichier non sûr">
-<!ENTITY unsafeContentType.longDesc "
-<ul>
-  <li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li>
-</ul>
+<!ENTITY unsafeContentType.longDesc "<p><ul><li>Veuillez contacter les propriétaires du site web pour les informer de ce problème.</li></ul></p>
 ">
 
 <!ENTITY netReset.title "La connexion a été réinitialisée">
