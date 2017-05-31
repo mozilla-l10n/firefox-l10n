@@ -33,7 +33,7 @@
 <!ENTITY malformedURI.longDesc "<p>La direición indicada nun ta nún formatu reconocíu. Por favor, comprueba fallos na barra de direiciones y vuelvi a intentalo.</p>">
 
 <!ENTITY netInterrupt.title "Tresferencia de datos encaboxada">
-<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse correcho, pero interrumpióse la conexón mientres se tresfería información. Por favor, vuelve a intentalo.</p><ul><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet pa obtener asistencia téunica.</li></ul>">
+<!ENTITY netInterrupt.longDesc "<p>El restolador coneutóse con ésitu pero interrumpióse la conexón entrín se tresfería información.  Volvi tentalo, por favor.</p><ul><li>¿Nun yes a restolar per otros sitios? Comprueba la conexón de rede del ordenador.</li><li>¿Entá tienes problemes? Consulta col to alministrador o fornidor de rede pa más asistencia.</li></ul>">
 
 <!ENTITY notCached.title "Documentu caducáu">
 <!ENTITY notCached.longDesc "<p>El documentu solicitáu nun ta na caché del restolador.</p><ul><li>Como midida de seguranza, el restolador nun va volver a solicitar documentos sensibles.</li><li>Primi de nueves pa volver a solicitar el documentu dende'l sitiu web.</li></ul>">
@@ -50,7 +50,7 @@
 </ul>">
 
 <!ENTITY netReset.title "Conexón interrumpida">
-<!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse mientres taba negociándose una conexón. Por favor, inténtalo otra vuelta.</p>">
+<!ENTITY netReset.longDesc "<p>L'enllaz cola rede interrumpióse entrín se negociaba una conexón. Volvi tentalo, por favor.</p>">
 
 <!ENTITY netTimeout.title "Escosó'l tiempu d'espera">
 <!ENTITY netTimeout.longDesc "<p>El sitiu solicitáu nun respondió a una petición de conexón y el restolador dexó d'esperar una rempuesta.</p><ul><li>¿Podría tar esperimentando'l sirvidor alta demanda o un corte temporal? Vuelvi a intentalo más sero.</li><li>¿Nun puedes restolar per otros sitios? Comprueba la conexón de rede del equipu.</li><li>¿Ta l'equipu protexíu por un proxy o un firewall? Una configuración incorreuta pue interferir col restolar.</li><li>¿Entá con problemes? Consulta col to alministrador de rede o fornidor d'Internet p'asistencia téunica.</li></ul>">
