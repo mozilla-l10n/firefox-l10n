@@ -13,6 +13,7 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Refrescar">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Limpiar">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefijo">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Depuración">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Ajustar módulos de registro">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Ajustar archivo de registro">
