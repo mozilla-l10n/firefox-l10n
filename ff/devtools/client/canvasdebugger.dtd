@@ -19,6 +19,8 @@
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
+<!ENTITY canvasDebuggerUI.emptyNotice1    "Dobo dow">
+
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
