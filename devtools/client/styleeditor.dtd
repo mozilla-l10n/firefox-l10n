@@ -23,7 +23,7 @@
 <!ENTITY saveButton.tooltip         "ذخیره این صفحه تم در پرونده">
 <!ENTITY saveButton.accesskey       "ذ">
 
-<!ENTITY optionsButton.tooltip      "تنظیمات ویرایشگر شیوه">
+<!ENTITY optionsButton.tooltip      "گزینه‌های ویرایشگر سبک">
 <!-- LOCALIZATION NOTE  (showOriginalSources.label): This is the label on the context
      menu item to toggle showing original sources in the editor. -->
 
@@ -35,11 +35,11 @@
 <!-- LOCALIZATION NOTE  (showMediaSidebar.label): This is the label on the context
      menu item to toggle showing @media rule shortcuts in a sidebar. -->
 
-<!ENTITY showMediaSidebar.label     "نمایش @ رسانه نوارجانبی">
+<!ENTITY showMediaSidebar.label     "نمایش نوارجانبیِ @media">
 <!-- LOCALIZATION NOTE  (showMediaSidebar.accesskey): This is the access key for
      the menu item to toggle showing the @media sidebar. -->
 
-<!ENTITY showMediaSidebar.accesskey     "ر">
+<!ENTITY showMediaSidebar.accesskey     "m">
 <!-- LOCALICATION NOTE  (mediaRules.label): This is shown above the list of @media rules
      in each stylesheet editor sidebar. -->
 

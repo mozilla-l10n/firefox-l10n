@@ -21,7 +21,7 @@
   -  filters. -->
 
 <!ENTITY btnPageNet.label   "شبکه">
-<!ENTITY btnPageNet.tooltip "ثبت وقایل دسترسی به شبکه">
+<!ENTITY btnPageNet.tooltip "ثبت وقایع دسترسی به شبکه">
 <!ENTITY btnPageNet.accesskey "ش">
 <!-- LOCALIZATION NOTE (btnPageNet.accesskeyMacOSX): This string is used as
   -  access key for the menu button that allows users to toggle the network

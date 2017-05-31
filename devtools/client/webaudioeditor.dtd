@@ -33,7 +33,7 @@
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorTitle): This is the title for the
   -  AudioNode inspector view. -->
 
-<!ENTITY webAudioEditorUI.inspectorTitle  "وارسی گره صدا">
+<!ENTITY webAudioEditorUI.inspectorTitle  "بازرسِ گره صدا">
 <!-- LOCALIZATION NOTE (webAudioEditorUI.inspectorEmpty): This is the title for the
   -  AudioNode inspector view empty message. -->
 
