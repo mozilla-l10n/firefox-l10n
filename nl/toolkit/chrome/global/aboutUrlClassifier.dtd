@@ -22,14 +22,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Verloop van negatieve buffer">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Volledige hash">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Verloop van positieve buffer">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Opzoeken">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Overeenkomst">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Resultaat van overeenkomst controleren">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Opzoeken">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Resultaat van opzoeken controleren">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Geheugen">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debuggen">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Logmodules instellen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Logbestand instellen">
