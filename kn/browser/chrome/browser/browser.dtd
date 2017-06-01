@@ -681,8 +681,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "ತ್ಯಜಿಸು"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "ತ್ಯಜಿಸು &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+
 
 <!ENTITY closeCmd.label                 "ಮುಚ್ಚು">  
 <!ENTITY closeCmd.key                   "W">  
