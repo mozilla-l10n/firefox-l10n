@@ -129,7 +129,7 @@
 <!ENTITY prefs_options_expandtab "Мек табулатор">
 <!ENTITY prefs_options_expandtab_tooltip "Използване на интервали вместо табулатор">
 <!ENTITY prefs_options_detectindentation "Автоматичен отстъп">
-<!ENTITY prefs_options_detectindentation_tooltip "Предполагане какъв е използваният отстъп, изследвайки съдържанието на сорса">
+<!ENTITY prefs_options_detectindentation_tooltip "Предполагане на използваният отстъп, изследвайки съдържанието на кода">
 <!ENTITY prefs_options_autocomplete "Автоматично довършване">
 <!ENTITY prefs_options_autocomplete_tooltip "Активиране на автоматичното довършване на код">
 <!ENTITY prefs_options_autoclosebrackets "Автоматично затваряне на скоби">
