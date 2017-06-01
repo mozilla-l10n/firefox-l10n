@@ -43,3 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "Στατιστικά RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Κατάσταση RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Αριθμός νικών cache">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Αριθμός νικών δικτύου">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Αριθμός συνολικών αιτημάτων δικτύου">

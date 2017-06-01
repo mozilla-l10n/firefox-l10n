@@ -129,7 +129,13 @@
                                          "Χρήση προτεινόμενων ρυθμίσεων επιδόσεων">
 <!ENTITY useRecommendedPerformanceSettings.description
                                          "Αυτές οι ρυθμίσεις είναι προσαρμοσμένες στο υλικό και το λειτουργικό σύστημα του υπολογιστή σας.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "Χ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Μάθετε περισσότερα">
+<!ENTITY limitContentProcessOption.label "Όριο διεργασιών περιεχομένου">
+<!ENTITY limitContentProcessOption.description
+                                         "Οι επιπρόσθετες διεργασίες περιεχομένου μπορούν να βελτιώσουν τις επιδόσεις κατά τη χρήση πολλαπλών καρτελών, αλλά θα χρησιμοποιούν περισσότερη μνήμη.">
+<!ENTITY limitContentProcessOption.accesskey   "Ο">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">
