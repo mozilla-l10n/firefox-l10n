@@ -46,10 +46,10 @@
 <!ENTITY btnPageLogging.label   "பதிவுசெய்தல்">
 <!ENTITY btnPageLogging.tooltip "window.console பொருளுக்கு அனுப்பப்படும் செய்திகளைப் பதிவு செய்">
 <!ENTITY btnPageLogging.accesskey3 "L">
-
-
-
-
+<!ENTITY btnConsoleErrors       "பிழைகள்">
+<!ENTITY btnConsoleInfo         "தகவல்">
+<!ENTITY btnConsoleWarnings     "எச்சரிக்கைகள்">
+<!ENTITY btnConsoleLog          "பதிவு">
 <!ENTITY btnConsoleXhr          "XHR">
 <!ENTITY btnConsoleReflows      "மீளோடைகள்">
 <!-- LOCALIZATION NOTE (btnServerLogging): This is used as the text of the
@@ -57,8 +57,8 @@
   -  the page for debugging purposes, using calls on the HTTP server. -->
 
 
-
-
+<!ENTITY btnServerErrors              "பிழைகள்">
+<!ENTITY btnServerInfo                "தகவல்">
 <!ENTITY btnServerWarnings            "எச்சரிக்கைகள்">
 <!ENTITY btnServerLog                 "பதிவு">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
