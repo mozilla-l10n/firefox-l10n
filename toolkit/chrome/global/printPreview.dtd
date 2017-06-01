@@ -34,7 +34,7 @@
 <!ENTITY customPrompt.title   "Escala personalizada…">
 <!ENTITY simplifyPage.label   "Simplificar página">
 <!ENTITY simplifyPage.accesskey "i">
-<!ENTITY simplifyPage.enabled.tooltip  "Alterar design para uma leitura mais fácil">
+<!ENTITY simplifyPage.enabled.tooltip  "Alterar esquema para uma leitura mais fácil">
 <!ENTITY simplifyPage.disabled.tooltip "Esta página não pode ser simplificada automaticamente">
 
 <!ENTITY homearrow.tooltip    "Primeira página">
