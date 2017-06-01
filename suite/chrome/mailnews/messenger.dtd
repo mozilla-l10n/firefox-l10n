@@ -120,7 +120,7 @@
 <!ENTITY showTabsToolbarCmd.accesskey "s">
 
 <!ENTITY messagePaneLayoutStyle.label "Esquema">
-<!ENTITY messagePaneLayoutStyle.accesskey "u">
+<!ENTITY messagePaneLayoutStyle.accesskey "E">
 <!ENTITY messagePaneClassic.label "Clássico">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneWide.label "Grande">
