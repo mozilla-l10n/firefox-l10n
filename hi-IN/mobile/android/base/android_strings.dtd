@@ -282,14 +282,9 @@
      for experimental features. -->
 
 <!ENTITY pref_category_experimental "प्रायोगिक विशेषताएँ">
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
-<!ENTITY pref_custom_tabs "मनपसंद टैब">
-<!ENTITY pref_custom_tabs_summary3 "आप्स को &brandShortName; के कस्टमाइज्ड संस्करण का प्रयोग करके वेबसाइट खोलने की अनुमति दें">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+
 <!ENTITY custom_tabs_menu_item_open_in "नये &formatS; में खोलें">
 <!ENTITY custom_tabs_menu_footer "&brandShortName; द्वारा संचालित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
