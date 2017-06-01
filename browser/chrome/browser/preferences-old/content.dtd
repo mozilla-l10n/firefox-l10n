@@ -8,10 +8,10 @@
 <!ENTITY  blockPopups.accesskey       "ப">
 
 <!ENTITY  notificationsPolicy.label            "அறிவிப்புகள்">
-
+<!ENTITY  notificationsPolicyLearnMore.label   "மேலும் அறிய">
 <!ENTITY  notificationsPolicyDesc3.label       "எந்த தளங்கள் உங்களுக்கு அறிவிப்புகளை அனுப்பலாம் என தேர்ந்தெடுக்கவும்">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "தேர்ந்தெடு…">
 <!ENTITY  notificationsDoNotDisturb.label      "தொந்தரவு செய்ய வேண்டாம்">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "n">
 <!ENTITY  notificationsDoNotDisturbDetails.value "&brandShortName; மறுதொடக்கம் செய்யும் வரை எந்த அறிவிப்புகளும் காட்டப்படாது">
@@ -53,7 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "ஆல் மொழிபெயர்ப்பு">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM உள்ளடக்கம்">
 
 <!ENTITY  playDRMContent.label         "DRM உள்ளடக்கத்தை இயக்கு">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "மேலும் அறிய">

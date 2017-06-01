@@ -4,6 +4,7 @@
 
 <!ENTITY aboutTelemetry.pageTitle "டெலிமெட்ரி தரவு">
 
+<!ENTITY aboutTelemetry.changeDataChoices "  மாற்று">
 
 <!ENTITY aboutTelemetry.uploadEnabled "  FHR தரவு ஏற்றம் <span>செயலிடப்பட்டது</span>.">
 
@@ -66,6 +67,7 @@
 
 <!ENTITY aboutTelemetry.lateWritesSection "  தாமத எழுதல்கள்">
 
+<!ENTITY aboutTelemetry.sessionInfoSection "  கணினி தகவல்">
 
 <!ENTITY aboutTelemetry.addonHistogramsSection "  துணை நிரல்கள் சேகரித்த செவ்வக வரைபடங்கள்">
 
