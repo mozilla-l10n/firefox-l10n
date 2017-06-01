@@ -952,3 +952,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Akce stránky">
 
+<!ENTITY sendToDevice.label "Odeslat do zařízení…">
+<!ENTITY sendToDevice.viewTitle "Odeslat do zařízení">
+<!ENTITY sendToDevice.noDevices.label "Žádná zařízení nejsou k dispozici">
