@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Toppito kuutoragol ceŋe">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Waylu mbele aɗa waawi heɓde tintine iwɗe e ndee lowre">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Mooftu keɓe e Ndesgu Duumiingu">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Feerorde wonnde yuurnito woɗɗungo">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Toppito lollingol kameraa e/walla mikkoroo maa e ndee lowre">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Toppito lollingol mikkoroo maa e ndee lowre">
@@ -689,8 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Yaltu"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 <!ENTITY quitApplicationCmdMac2.label   "Yaltu &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Y">
+
 
 <!ENTITY closeCmd.label                 "Uddu">  
 <!ENTITY closeCmd.key                   "W">  
@@ -742,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ngoo hello mooftaa ko e ordinateer maa.">
 <!ENTITY identity.connectionVerified2 "Aɗa seŋii kisngol e ndee lowre, jeyɗum ko:">
 <!ENTITY identity.connectionInternal "Ɗum ko hello &brandShortName; hisngo.">
-
+<!ENTITY identity.extensionPage "Ngoo hello loowraa ko jokkel">
 <!ENTITY identity.insecureLoginForms2 "Ceŋorɗe naatnaaɗe e ngoo hello ena mbawi jaayeede.">
 <!-- Strings for connection state warnings. -->
 
