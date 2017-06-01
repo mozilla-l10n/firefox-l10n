@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Cuir ris a’ chlàr-taice taosgaidh">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "u">
 <!ENTITY customizeMenu.moveToToolbar.label "Gluais air a' bhàr-inneal">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Gluais dhan chlàr-taice">
 <!ENTITY customizeMenu.moveToPanel.accesskey "d">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Prìnich ris a’ chlàr-taice taosgaidh">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dì-phrìnich on chlàr-taice taosgaidh">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Thoir air falbh on bhàr-inneal">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Thoir air falbh on chlàr-taice">
@@ -688,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Fàg an-seo"> 
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Fàg &brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Dùin">  
 <!ENTITY closeCmd.key                   "W">  
@@ -959,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Gnìomhan na duilleige">
 
-
-
-
+<!ENTITY sendToDevice.label "Cuir ris an uidheam...">
+<!ENTITY sendToDevice.viewTitle "Cuir ris an uidheam">
+<!ENTITY sendToDevice.fxaRequired.label "Riatanach">
+<!ENTITY sendToDevice.noDevices.label "Chan eil uidheam ri làimh">

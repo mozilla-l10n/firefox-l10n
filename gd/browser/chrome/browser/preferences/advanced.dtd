@@ -95,14 +95,15 @@
 <!ENTITY updateApplication.version.pre   "Tionndadh ">
 <!ENTITY updateApplication.version.post  "">
 
+<!ENTITY updateAuto2.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd nas fhearr)">
+<!ENTITY updateAuto2.accesskey           "S">
+<!ENTITY updateCheckChoose2.label        "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
+<!ENTITY updateCheckChoose2.accesskey    "c">
+<!ENTITY updateManual2.label             "Na thoir sùil airson ùrachaidhean idir (cha mholamaid seo)">
+<!ENTITY updateManual2.accesskey         "N">
 
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Seall eachdraidh nan ùrachaidhean…">
+<!ENTITY updateHistory2.accesskey        "h">
 
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">
