@@ -682,8 +682,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Вийти"> 
 <!ENTITY quitApplicationCmd.accesskey   "В">
 <!ENTITY quitApplicationCmdMac2.label   "Вийти з &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Закрити">  
 <!ENTITY closeCmd.key                   "W">  
