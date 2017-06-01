@@ -628,8 +628,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Uérani"> 
 <!ENTITY quitApplicationCmd.accesskey   "U">
 
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+
 
 <!ENTITY closeCmd.label                 "Mikani">  
 <!ENTITY closeCmd.key                   "W">  
