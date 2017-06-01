@@ -837,7 +837,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.header2 "Допълнителни инструменти и възможности">
 <!ENTITY customizeMode.menuAndToolbars.empty "Искате още инструменти?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Изберете измежду хиляди добавки">
-<!ENTITY customizeMode.restoreDefaults "Връщане на стандартни настройки">
+<!ENTITY customizeMode.restoreDefaults "Стандартни настройки">
 <!ENTITY customizeMode.done "Готово">
 <!ENTITY customizeMode.titlebar "Лента със заглавието">
 <!ENTITY customizeMode.toolbars2 "Ленти с инструменти">
@@ -846,8 +846,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.recommended "Препоръчани">
 <!ENTITY customizeMode.lwthemes.menuManage "Управление">
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
-<!ENTITY customizeMode.lwthemes.menuGetMore "Още теми">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "О">
+<!ENTITY customizeMode.lwthemes.menuGetMore "Повече теми">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "т">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
