@@ -949,12 +949,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "Преузмите &brandShorterName;">
 
 <!ENTITY updateRestart.message "Након рестартовања, &brandShorterName; ће повратити све ваше отворене језичке и прозоре.">
-<!ENTITY updateRestart.header.message2 "Рестартујте да се &brandShorterName; ажурира.">
+<!ENTITY updateRestart.header.message2 "Рестартуј да се &brandShorterName; ажурира.">
 <!ENTITY updateRestart.acceptButton.label "Рестартуј и обнови">
 <!ENTITY updateRestart.acceptButton.accesskey "Р">
 <!ENTITY updateRestart.cancelButton.label "Не сада">
 <!ENTITY updateRestart.cancelButton.accesskey "Н">
-<!ENTITY updateRestart.panelUI.label2 "Рестартујте да се &brandShorterName; ажурира">
+<!ENTITY updateRestart.panelUI.label2 "Рестартуј да се &brandShorterName; ажурира">
 
 <!ENTITY pageActionButton.tooltip "Радње странице">
 
