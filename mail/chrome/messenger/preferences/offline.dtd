@@ -7,7 +7,7 @@
 <!ENTITY checkAutoDetect.label "Seguir automaticamente o estado online detetado">
 <!ENTITY checkAutoDetect.accesskey "d">
 <!ENTITY titleStartUp "Estado ao iniciar:">
-<!ENTITY radioRememberPrevState.label "Memorizar o último estado online">
+<!ENTITY radioRememberPrevState.label "Memorizar o estado online anterior">
 <!ENTITY radioRememberPrevState.accesskey "r">
 <!ENTITY radioAskState.label "Pergunte-me pelo estado online">
 <!ENTITY radioAskState.accesskey "u">
