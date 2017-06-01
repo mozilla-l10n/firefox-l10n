@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Ardeiñ arver an enlugellad">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Ardeiñ penaos e c'hallit degemer rebuzadurioù digant al lec'hienn">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Kadavin roadennoù er c'hadaviñ diastal">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Reoliet a-bell eo ar merdeer">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Ardeiñ rannadur ho kamera ha/pe ho mikrofon gant al lec'hienn">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Ardeiñ rannadur ho mikrofon gant al lec'hienn">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Eilañ">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "i"> 
 <!ENTITY pasteCmd.label           "Pegañ">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Skarzhañ ar roll istor nevesañ…">
 <!ENTITY appMenuHistory.restoreSession.label "Assav an estez kent">
 <!ENTITY appMenuHistory.viewSidebar.label "Gwelout barrenn gostez ar roll istor">
-
+<!ENTITY appMenuHelp.label "Skoazell">
 <!ENTITY appMenuHelp.tooltip "Digeriñ al lañser skoazell">
 
 <!ENTITY appMenuRemoteTabs.label "Ivinelloù goubredet">
@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Ouzhpennañ d'al lañser dic'hlann">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "d">
 <!ENTITY customizeMenu.moveToToolbar.label "Dilec'hiañ er varrenn ostilhoù">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "v">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Dilec'hiañ el lañser">
 <!ENTITY customizeMenu.moveToPanel.accesskey "e">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Spilhennañ d'al lañser dic'hlann">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "S">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dispilhennañ eus al lañser dic'hlann">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "i">
 <!ENTITY customizeMenu.removeFromToolbar.label "Lemel diouzh ar varrenn ostilhoù">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "o">
 <!ENTITY customizeMenu.removeFromMenu.label "Lemel diouzh al lañser">
@@ -430,6 +431,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tun:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 
