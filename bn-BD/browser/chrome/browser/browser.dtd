@@ -683,8 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "প্রস্থান"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; থেকে প্রস্থান">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+
 
 <!ENTITY closeCmd.label                 "বন্ধ">  
 <!ENTITY closeCmd.key                   "W">  
