@@ -100,7 +100,7 @@
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "P">
 <!ENTITY layoutMenu.label                               "Esquema">
-<!ENTITY layoutMenu.accesskey                           "q">
+<!ENTITY layoutMenu.accesskey                           "E">
 <!ENTITY showDirectoryPane.label                        "Painel de diretórios">
 <!ENTITY showDirectoryPane.accesskey                    "d">
 <!ENTITY showContactPane2.label                         "Painel de contactos">

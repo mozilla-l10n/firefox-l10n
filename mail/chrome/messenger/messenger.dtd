@@ -136,7 +136,7 @@
 <!ENTITY customizeToolbar.accesskey "P">
 
 <!ENTITY messagePaneLayoutStyle.label "Esquema">
-<!ENTITY messagePaneLayoutStyle.accesskey "u">
+<!ENTITY messagePaneLayoutStyle.accesskey "E">
 <!ENTITY messagePaneClassic.label "Clássico">
 <!ENTITY messagePaneClassic.accesskey "C">
 <!ENTITY messagePaneWide.label "Grande">
@@ -615,7 +615,7 @@
 <!ENTITY appmenuNewMsgCmd.label "Nova mensagem">
 <!ENTITY appmenuNewContactCmd.label "Contacto do livro de endereços...">
 <!ENTITY appmenuEditMenu.label "Editar">
-<!ENTITY appmenuToolbarLayout.label "Esquema da barra de ferramentas...">
+<!ENTITY appmenuToolbarLayout.label "Esquema da barra de ferramentas…">
 <!ENTITY appmenuSelectThread.label "Selecionar tópico">
 <!ENTITY appmenuSelectFlagged.label "Selecionar mensagens com estrela">
 <!-- Tags Menu Popup -->
