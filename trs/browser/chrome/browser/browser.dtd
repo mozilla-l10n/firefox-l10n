@@ -44,10 +44,10 @@ can reach it easily. -->
 <!ENTITY  sendTabToDevice.accesskey          "a">
 <!ENTITY  sendPageToDevice.label             "Ga'nïnj pâgina gan'anj aga'">
 <!ENTITY  sendPageToDevice.accesskey         "a">
-
-
-
-
+<!ENTITY  sendLinkToDevice.label             "Ga'nïnj enlâse riña Aga'">
+<!ENTITY  sendLinkToDevice.accesskey         "A">
+<!ENTITY  moveToNewWindow.label              "Dusiki' 'ngo Bendâna">
+<!ENTITY  moveToNewWindow.accesskey          "B">
 
 
 
