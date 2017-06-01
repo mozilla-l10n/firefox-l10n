@@ -31,16 +31,16 @@
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ள உதவுகிறது, மேலும் உங்கள் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; தரவைப் பகிர்ந்துகொள்கிறது">
 <!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை செயல்படுத்தவும்">
 <!ENTITY enableHealthReport.accesskey    "அ">
-
+<!ENTITY healthReportLearnMore.label     "மேலும் அறிய">
 
 <!ENTITY telemetryDesc.label             "நாங்கள் &brandShortName; ஐ மேலும் சிறப்பானதாக மாற்ற உதவும் வகையில் உங்கள் உலாவியைப் பற்றிய செயல்திறன், பயன்பாடு, வன்பொருள் மற்றும் தனிப்பயனாக்க தரவை &vendorShortName; உடன் பகிர்ந்துகொள்ளும்">
+<!ENTITY enableTelemetryData.label       "கூடுதல் தரவைப் பகிரவும்(அ.து தொலைவுக் கணிப்பியல்)">
+<!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
 
 
-
-
-
-
+<!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
 
 <!ENTITY networkTab.label                "பிணையம்">
 
@@ -58,9 +58,9 @@
 <!ENTITY siteData.label                  "தளத்தின் தரவு">
 <!ENTITY clearSiteData.label             "அனைத்து தரவுகளையும் துடை">
 <!ENTITY clearSiteData.accesskey         "l">
-
-
-
+<!ENTITY siteDataSettings.label          "அமைவுகள்…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "மேலும் அறிய">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -93,14 +93,15 @@
  -->
 <!ENTITY updateApplication.version.post  "">
 
+<!ENTITY updateAuto2.label               "புதுப்பிப்புகளைத் தானாக நிறுவு (மேம்பட்ட பாதுகாப்பிற்கு பரிந்துரைக்கப்படுவது)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "புதுப்பிப்புகள் உள்ளதா எனப் சோதிக்கவும், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 
 
 
-
-
-
-
-
+<!ENTITY updateHistory2.label            "புதுப்பித்தல் வரலாற்றைக் காட்டு…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">
 <!ENTITY useService.accesskey            "b">
@@ -108,7 +109,8 @@
 
 
 
-
+<!ENTITY offlineStorageNotify.label               "ஒரு வலைத்தளம் இணைப்பில்லாமல் தரவைச் சேமித்து பயன்படுத்தக் கேட்டால் என்னிடம் சொல்">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -134,7 +136,7 @@
 
 
 
-
+<!ENTITY performanceSettingsLearnMore.label "மேலும் அறிய">
 
 
 

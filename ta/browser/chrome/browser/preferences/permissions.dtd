@@ -21,7 +21,8 @@
 <!ENTITY allow.accesskey              "A">
 <!ENTITY windowClose.key              "w">
 
-
+<!ENTITY button.cancel.label          "இரத்து">
+<!ENTITY button.cancel.accesskey      "C">
 <!ENTITY button.ok.label              "மாற்றங்களைச் சேமிக்கவும்">
 <!ENTITY button.ok.accesskey          "S">
 

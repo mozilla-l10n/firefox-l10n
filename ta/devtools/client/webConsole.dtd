@@ -59,8 +59,8 @@
 
 
 
-
-
+<!ENTITY btnServerWarnings            "எச்சரிக்கைகள்">
+<!ENTITY btnServerLog                 "பதிவு">
 <!-- LOCALIZATION NODE (btnConsoleSharedWorkers) the term "Shared Workers"
   -  should not be translated. -->
 <!-- LOCALIZATION NODE (btnConsoleServiceWorkers) the term "Service Workers"

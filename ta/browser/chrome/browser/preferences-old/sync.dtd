@@ -18,11 +18,13 @@
 <!ENTITY engine.addons.accesskey    "க">
 <!-- Device Settings -->
 
-
-
-
-
-
+<!ENTITY fxaSyncDeviceName.label       "சாதனத்தின் பெயர்">
+<!ENTITY changeSyncDeviceName.label "சாதனத்தின் பெயரை மாற்றவும்…">
+<!ENTITY changeSyncDeviceName.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "இரத்து">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "சேமி">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">

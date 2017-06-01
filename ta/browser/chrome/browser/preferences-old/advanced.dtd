@@ -58,9 +58,9 @@
 <!ENTITY siteData.label                  "தளத்தின் தரவு">
 <!ENTITY clearSiteData.label             "அனைத்து தரவுகளையும் துடை">
 <!ENTITY clearSiteData.accesskey         "l">
-
-
-
+<!ENTITY siteDataSettings.label          "அமைவுகள்…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "மேலும் அறிய">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -98,7 +98,8 @@
 <!ENTITY enableSearchUpdate.label        "தேடு பொறிகள்">
 <!ENTITY enableSearchUpdate.accesskey    "E">
 
-
+<!ENTITY offlineStorageNotify.label               "ஒரு இணைய தளம் இணைப்பில்லாமல் தரவை சேமித்து பயன்படுத்தி கேட்டால் உங்களிடம் சொல்லவும்">
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "விதிவிலக்குகள்…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "x">
 
@@ -110,10 +111,10 @@
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
 <!ENTITY certPersonal.label              "கோரிக்கைகள்">
-
+<!ENTITY certPersonal.description        "ஒரு சேவையகம் உங்கள் தனிப்பட்ட சான்றிதழைக் கேட்டால்:">
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
 
-
+<!ENTITY selectCerts.ask                 "ஒவ்வொரு முறையும் உங்களைக் கேட்கவும்">
 <!ENTITY selectCerts.ask.accesskey       "அ">
 <!ENTITY enableOCSP.label                "சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
 <!ENTITY enableOCSP.accesskey            "Q">
@@ -125,7 +126,7 @@
 
 
 
-
+<!ENTITY performanceSettingsLearnMore.label "மேலும் அறிய">
 
 
 
