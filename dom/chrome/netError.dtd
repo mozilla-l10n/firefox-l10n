@@ -40,7 +40,7 @@
 <!ENTITY contentEncodingError.title "Napaka pri šifriranju vsebine">
 <!ENTITY contentEncodingError.longDesc "<p>Strani, ki si jo želite ogledati, ni mogoče prikazati, ker uporablja neveljavno ali nepodprto obliko kompresije.</p><ul><li>Obrnite se na lastnike spletne strani in jih obvestite o težavi.</li></ul>">
 
-<!ENTITY unsafeContentType.title "Nevarni datotečni tip">
+<!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
 <!ENTITY unsafeContentType.longDesc "
 <ul> 
 <li>O napaki obvestite lastnike spletne strani.</li> 
