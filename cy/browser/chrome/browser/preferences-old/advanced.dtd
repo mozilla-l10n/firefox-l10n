@@ -130,7 +130,7 @@
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
 
 <!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
-
+<!ENTITY limitContentProcessOption.description "Mae modd gwella perfformiad prosesau cynnwys ychwanegol wrth ddefnyddio tabiau lluosog, ond fydd hefyd yn defnyddio rhagor o gof.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">
