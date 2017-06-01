@@ -937,3 +937,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Tindakan laman">
 
+<!ENTITY sendToDevice.label "Kirim ke Peranti…">
+<!ENTITY sendToDevice.viewTitle "Kirim ke Peranti">
+<!ENTITY sendToDevice.noDevices.label "Peranti Tidak Tersedia">

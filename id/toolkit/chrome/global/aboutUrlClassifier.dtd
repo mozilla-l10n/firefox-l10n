@@ -13,5 +13,8 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Segarkan">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Hapus">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Nama tabel">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Tampilkan entri">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Atur Berkas Log">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Atur Log JS">
