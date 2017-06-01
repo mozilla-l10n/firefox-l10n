@@ -104,10 +104,12 @@
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
 
 <!ENTITY options.enableServiceWorkersHTTP.label     "فعال کردن خدمات کارگران برای روی HTTP ( وقتی که جعبه ابزار باز است)">
-
+<!ENTITY options.enableServiceWorkersHTTP.tooltip   "فعال کردن این گزینه بر روی خدمات کارگرهای را بر روی HTTP برای تمامی زبانه‌ها که جعبه‌ابزار‌ آن‌ها باز است فعال می‌کند.">
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "ابزارهای پیش فرض توسعه دهنده">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
