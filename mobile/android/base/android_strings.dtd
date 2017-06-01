@@ -268,10 +268,6 @@
 <!ENTITY pref_whats_new_notification_summary "ഒരു പുതുക്കലിനു ശേഷം പുതിയ സവിശേഷതകളെ കുറിച്ച് മനസ്സിലാക്കൂ">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 
