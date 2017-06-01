@@ -489,7 +489,7 @@
 <!ENTITY quitApplicationCmd.label "Esci">
 <!ENTITY quitApplicationCmd.accesskey "E">
 <!ENTITY quitApplicationCmdMac2.label "Esci da &brandShorterName;">
-<!ENTITY quitApplicationCmdUnix.key "Q">
+<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY closeCmd.label "Chiudi">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
