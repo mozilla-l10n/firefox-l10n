@@ -657,8 +657,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Bru"> 
 <!ENTITY quitApplicationCmd.accesskey   "B">
 <!ENTITY quitApplicationCmdMac2.label   "Mb-ròɁ &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "S">
+
 
 <!ENTITY closeCmd.label                 "TòɁw">  
 <!ENTITY closeCmd.key                   "W">  
