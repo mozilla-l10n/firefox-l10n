@@ -36,12 +36,14 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-
-
-
-
-
-
+<!ENTITY  pinTab.label                       "Gachrun rakïj ñanj">
+<!ENTITY  pinTab.accesskey                   "G">
+<!ENTITY  unpinTab.label                     "Ga'ne rakïj ñanj">
+<!ENTITY  unpinTab.accesskey                 "G">
+<!ENTITY  sendTabToDevice.label              "Ga'nìnj rakïj ñanj gan'anj aga'">
+<!ENTITY  sendTabToDevice.accesskey          "a">
+<!ENTITY  sendPageToDevice.label             "Ga'nïnj pâgina gan'anj aga'">
+<!ENTITY  sendPageToDevice.accesskey         "a">
 
 
 

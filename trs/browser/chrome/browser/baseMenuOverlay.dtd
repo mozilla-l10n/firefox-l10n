@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Nagi'iaj lij">
 <!ENTITY bringAllToFront.label    "Duguachîn' daran'anj ne' ñaan">
 <!ENTITY zoomWindow.label         "dàj nìko ma'an">
@@ -39,7 +41,7 @@
 <!ENTITY helpShowTour2.accesskey        "o">
 
 <!ENTITY preferencesCmdMac.label        "Sa arajsun' doj">
-
+<!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Sun ruguñu'unj un">
 
