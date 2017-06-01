@@ -384,11 +384,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.addToToolbar.accesskey "l">
 <!ENTITY customizeMenu.addToPanel.label "Přidat do nabídky">
 <!ENTITY customizeMenu.addToPanel.accesskey "n">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.moveToToolbar.label "Přesunout na lištu">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "e">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Přesunout do nabídky">
@@ -677,8 +682,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ukončit"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončit &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Zavřít">  
 <!ENTITY closeCmd.key                   "W">  
@@ -948,3 +951,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Restartovat a aktualizovat aplikaci &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Akce stránky">
+
