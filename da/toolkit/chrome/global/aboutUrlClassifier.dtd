@@ -10,15 +10,18 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næste opdateringstidspunkt">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seneste opdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Opdatering">
-<!ENTITY aboutUrlClassifier.lookupTitle                 "Opslag">
-<!ENTITY aboutUrlClassifier.lookupUrl                   "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch                 "Match">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn              "Kontroller matchende resultat">
-<!ENTITY aboutUrlClassifier.lookupLookup                "Opslag">
-<!ENTITY aboutUrlClassifier.lookupBtn                   "Kontroller resultat af opslag">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
-<!ENTITY aboutUrlClassifier.memoryTitle                 "Hukommelse">
-<!ENTITY aboutUrlClassifier.databaseTitle               "Database">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Genindlæs">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Ryd">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabelnavn">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Antal negative cacheposter">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Antal positive cacheposter">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Vis poster">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Cacheposter">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Præfiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Udløbstidspunkt negativ cache">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Komplet hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Udløbstidspunkt positiv cache">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Angiv logmoduler">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Angiv logfil">
