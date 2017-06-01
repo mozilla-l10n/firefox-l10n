@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Ychwanegu at y Ddewislen Ychwanegol">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.moveToToolbar.label "Symud i'r Bar Offer">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "y">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Symud i'r Ddewislen">
 <!ENTITY customizeMenu.moveToPanel.accesskey "m">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pinio i'r Ddewislen Ychwanegol">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dadbinio o'r Ddewislen Ychwanegol">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Tynnu o'r Bar Offer">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "T">
 <!ENTITY customizeMenu.removeFromMenu.label "Tynnu o'r Ddewislen">
@@ -688,8 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Gadael"> 
 <!ENTITY quitApplicationCmd.accesskey   "G">
 <!ENTITY quitApplicationCmdMac2.label   "Gadael &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Cau">  
 <!ENTITY closeCmd.key                   "W">  
@@ -960,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Gweithredoedd tudalen">
 
-
-
-
+<!ENTITY sendToDevice.label "Anfon i'r Ddyfais…">
+<!ENTITY sendToDevice.viewTitle "Anfon i Ddyfais">
+<!ENTITY sendToDevice.fxaRequired.label "Angenrheidiol">
+<!ENTITY sendToDevice.noDevices.label "Dim Dyfeisiau ar Gael">
