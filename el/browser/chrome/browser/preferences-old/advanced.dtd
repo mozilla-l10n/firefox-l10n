@@ -127,6 +127,8 @@
 <!ENTITY performance.label               "Επιδόσεις">
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "Χρήση προτεινόμενων ρυθμίσεων επιδόσεων">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Αυτές οι ρυθμίσεις είναι προσαρμοσμένες στο υλικό και το λειτουργικό σύστημα του υπολογιστή σας.">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Μάθετε περισσότερα">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
