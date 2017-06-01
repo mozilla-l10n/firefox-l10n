@@ -63,7 +63,7 @@
 <!ENTITY performanceUI.table.samples                  "Проби">
 <!ENTITY performanceUI.table.samples.tooltip          "Брой пъти, когато тази функция е била в стека по време на взимане на извадка.">
 <!ENTITY performanceUI.table.function                 "Функция">
-<!ENTITY performanceUI.table.function.tooltip         "Име и местоположение на сорса на функцията от извадката.">
+<!ENTITY performanceUI.table.function.tooltip         "Име и местоположение на изходния код на функцията от извадката.">
 <!ENTITY performanceUI.table.totalAlloc               "Общо заделяния в извадка">
 <!ENTITY performanceUI.table.totalAlloc.tooltip       "Общият брой на заделяния на Object по време на извадките в това местоположение и подчинените извиквания.">
 <!ENTITY performanceUI.table.selfAlloc                "Собствени заделяния в извадка">
