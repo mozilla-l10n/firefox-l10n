@@ -45,7 +45,7 @@
   -  console.error(). -->
 <!ENTITY btnPageLogging.label   "Protokol">
 <!ENTITY btnPageLogging.tooltip "Protokol zpráv zaslaných objektem „console“">
-<!ENTITY btnPageLogging.accesskey3 "u">
+<!ENTITY btnPageLogging.accesskey3 "P">
 <!ENTITY btnConsoleErrors       "Chyby">
 <!ENTITY btnConsoleInfo         "Info">
 <!ENTITY btnConsoleWarnings     "Varování">
