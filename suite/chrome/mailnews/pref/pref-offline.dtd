@@ -9,7 +9,7 @@
 <!ENTITY pref.offline.caption             "Offline">
 <!ENTITY textStartUp                      "Ao iniciar:">
 <!ENTITY textStartUp.accesskey            "o">
-<!ENTITY menuitemRememberPrevState        "Memorizar estado anterior">
+<!ENTITY menuitemRememberPrevState        "Memorizar estado online anterior">
 <!ENTITY menuitemAskMe                    "Perguntar-me pelo estado online no arranque">
 <!ENTITY menuitemAlwaysOnline             "Iniciar sempre no modo online">
 <!ENTITY menuitemAlwaysOffline            "Iniciar sempre no modo offline">
