@@ -32,7 +32,7 @@
 <!ENTITY useDownloadedList.accesskey "U">
 <!-- Passwords -->
 
-<!ENTITY savedPasswords.intro           "O &brandShortName; pode guardar as palavras-passe de todas as suas contas.">
+<!ENTITY savedPasswords.intro           "O &brandShortName; pode memorizar palavras-passe para todas as suas contas.">
 <!ENTITY useMasterPassword.label        "Utilizar uma palavra-passe mestra">
 <!ENTITY useMasterPassword.accesskey    "U">
 <!ENTITY masterPassword.intro           "A palavra-passe mestra protege todas as suas palavras-passe, mas terá que a indicar uma vez por sessão.">
