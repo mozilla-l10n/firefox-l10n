@@ -144,13 +144,15 @@
    - label for the checkbox that toggles timestamps in the Web Console -->
 
 <!ENTITY options.timestampMessages.label      "فعال‌سازی برچسب زمانی">
-
+<!ENTITY options.timestampMessages.tooltip    "اگر شما این گزینه از دستورات را فعال‌ کنید خروجی های میزفرمان وب شما همراه با تاریخ و ساعت نمایش داده می‌شود.">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
 
 <!ENTITY options.debugger.label            "اشکال‌زدا">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
+
+<!ENTITY options.sourceMaps.label      "فعال‌سازی نقشه های منابع">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
