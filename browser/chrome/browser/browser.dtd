@@ -687,8 +687,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Surt"> 
 <!ENTITY quitApplicationCmd.accesskey   "u">
 <!ENTITY quitApplicationCmdMac2.label   "Surt del &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+
 
 <!ENTITY closeCmd.label                 "Tanca">  
 <!ENTITY closeCmd.key                   "W">  
