@@ -125,12 +125,12 @@
 <!ENTITY viewSecurityDevices.accesskey   "n">
 
 <!ENTITY performance.label               "Dèanadas">
+<!ENTITY useRecommendedPerformanceSettings.label "Cleachd na roghainnean dèanadais a mholamaid-ne">
+<!ENTITY useRecommendedPerformanceSettings.description "Chaidh na roghainnean seo a thaghadh airson ’s gum freagair iad air bathar-cruaidh agus siostam-obrachaidh a’ choimpiutair agad.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "o">
+<!ENTITY performanceSettingsLearnMore.label "Barrachd fiosrachaidh">
+<!ENTITY limitContentProcessOption.label "Crìoch pròiseasadh na susbaint">
 
-
-
-
-
-
-
+<!ENTITY limitContentProcessOption.accesskey   "n">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">
