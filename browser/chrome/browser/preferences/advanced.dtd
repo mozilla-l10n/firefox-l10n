@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "எப்போதும் நிலைக்காட்டி விசைகளை பயன்படுத்தி பக்கங்களிடையே செல்">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
+<!ENTITY searchOnStartTyping.label       "நீங்கள் தட்டச்சு செய்யத்தொடங்கும்போது உரையைத் தேடவும்">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 
 
 <!ENTITY useOnScreenKeyboard.label       "தேவைப்படும் பொருட்டு தொடு விசைப்பலகையைக் காட்டு">
@@ -121,10 +121,10 @@
 <!ENTITY offlineAppRemove.confirm        "இணைப்பில்லாத தரவை நீக்கு">
 
 <!ENTITY certificateTab.label            "சான்றிதழ்கள்">
-
+<!ENTITY certPersonal2.description       "ஒரு சேவையகம் உங்கள் தனிப்பட்ட சான்றிதழைக் கேட்டால்">
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
 
-
+<!ENTITY selectCerts.ask                 "ஒவ்வொரு முறையும் உங்களைக் கேட்கவும்">
 <!ENTITY selectCerts.ask.accesskey       "அ">
 <!ENTITY enableOCSP.label                "சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
 <!ENTITY enableOCSP.accesskey            "Q">

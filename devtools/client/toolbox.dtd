@@ -74,7 +74,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "தொலைநிலை வழுநீக்கத்தை செயல்படுத்து">
-
+<!ENTITY options.enableRemote.tooltip2  "இந்த விருப்பத்தைச் செயற்படுத்தினால் உருவாக்குநர் கருவிகளால் Firefox OS போன்ற தொலைநிலை Firefox வடிவங்களை வழுநீக்க முடியும்">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -88,6 +88,8 @@
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
+
+<!ENTITY options.disableHTTPCache.label     "HTTP தேக்ககத்தை முடக்கு (கருவிப்பெட்டி திறந்திருக்கும் போது)">
 
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
