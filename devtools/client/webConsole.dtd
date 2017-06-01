@@ -97,5 +97,5 @@
 <!ENTITY clearOutputCtrl.key  "L">
 <!ENTITY openInVarViewCmd.label "Ouvrir dans le panneau des variables">
 <!ENTITY openInVarViewCmd.accesskey "v">
-<!ENTITY storeAsGlobalVar.label "Stocker en tant que variable globale">
+<!ENTITY storeAsGlobalVar.label "Stocker comme variable globale">
 <!ENTITY storeAsGlobalVar.accesskey "S">
