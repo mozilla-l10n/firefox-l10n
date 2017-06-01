@@ -658,8 +658,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "প্ৰস্থান কৰক"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+
 
 <!ENTITY closeCmd.label                 "বন্ধ কৰক">  
 <!ENTITY closeCmd.key                   "W">  
