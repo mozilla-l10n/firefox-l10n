@@ -1,11 +1,11 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- LOCALIZATION NOTE : FILE This file contains the browser main menu items -->
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
+
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-
-
 <!ENTITY mainWindow.title "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
@@ -17,8 +17,8 @@
 
 <!ENTITY appmenu.tooltip                     "Dobrir lo menú">
 <!ENTITY navbarOverflow.label                "Autras aisinas...">
-<!-- Tab context menu -->
 
+<!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "Tornar cargar l'onglet">
 <!ENTITY  reloadTab.accesskey                "r">
 <!ENTITY  reloadAllTabs.label                "Actualizar totes los onglets">
@@ -30,22 +30,16 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
 <!ENTITY  closeOtherTabs.label               "Tampar los autres onglets">
 <!ENTITY  closeOtherTabs.accesskey           "t">
+
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-
 <!ENTITY  pinTab.label                       "Espingolar aqueste onglet">
 <!ENTITY  pinTab.accesskey                   "p">
 <!ENTITY  unpinTab.label                     "Espingolar aqueste onglet">
 <!ENTITY  unpinTab.accesskey                 "p">
-
-
-
-
-
-
 <!ENTITY  moveToNewWindow.label              "Desplaçar cap a una fenèstra novèla">
 <!ENTITY  moveToNewWindow.accesskey          "n">
 <!ENTITY  bookmarkAllTabs.label              "Marcar totes los onglets…">
@@ -112,7 +106,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllTabsCmd.label "Afichar totes los onglets">
 <!ENTITY showAllTabsCmd.accesskey "A">
 
-
 <!ENTITY fxaSignIn.label "Se connectar a &syncBrand.shortName.label;">
 <!ENTITY fxaSignedIn.tooltip "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Se reconnectar a &syncBrand.shortName.label;">
@@ -126,32 +119,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenAutohide.accesskey "A">
 <!ENTITY fullScreenExit.label "Quitar lo mòde ecran complet">
 <!ENTITY fullScreenExit.accesskey "Q">
+
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring fullscreen.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "es en ecran complet">
 <!ENTITY fullscreenWarning.generic.label "Ara, aqueste document es en ecran complet">
+
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
-
 <!ENTITY exitDOMFullscreen.button "Sortir del mòde ecran complet (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "Sortir del mòde ecran complet (Esc)">
 <!ENTITY leaveDOMFullScreen.label "Sortir del mòde ecran complet">
 <!ENTITY leaveDOMFullScreen.accesskey "c">
+
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
-
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-
-
 
 <!ENTITY closeWindow.label "Tampar la fenèstra">
 <!ENTITY closeWindow.accesskey "f">
@@ -184,7 +175,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllBookmarks2.label "Afichar totes los marcapaginas">
 <!ENTITY recentBookmarks.label "Marcats recentament">
 <!ENTITY otherBookmarksCmd.label "Autres marcapaginas">
-
 <!ENTITY bookmarksToolbarChevron.tooltip "Afichar mai de marcapaginas">
 <!ENTITY showRecentlyBookmarked.label     "Afichar los Marcats recentament">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
@@ -207,34 +197,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.viewSiteInfo.label                      "Afichar las entresenhas sul site internet">
 
 
-
-
-
-
-
-
-
-
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Actualament, partejatz vòstra webcam o vòstre microfòn amb lo site">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Actualament, partejatz vòstre microfòn amb lo site">
-
 
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traduire aquesta pagina">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Gerir la traduccion de paginas">
 
 
-
-
-
-
-
-
-
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Afichar l'istoric">
 
 <!ENTITY searchItem.title             "Recercar">
-<!-- Toolbar items -->
 
+<!-- Toolbar items -->
 <!ENTITY homeButton.label             "Acuèlh">
 
 <!ENTITY bookmarksButton.label          "Marcapaginas">
@@ -242,14 +216,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenuButton.label          "Marcapaginas">
 <!ENTITY bookmarksMenuButton.other.label "Autres marcapaginas">
-
 <!ENTITY viewBookmarksSidebar2.label        "Afichar la barra laterala d'onglets">
 <!ENTITY viewBookmarksToolbar.label         "Afichar la barra personala">
+
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
-
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
 
@@ -278,8 +251,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "Fichièr"> 
 <!ENTITY fileMenu.accesskey       "F">
-
-
 <!ENTITY newNavigatorCmd.label        "Fenèstra novèla">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "n">
@@ -299,7 +270,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "T"> 
 <!ENTITY copyCmd.label            "Copiar">  
-
+  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Pegar">  
 <!ENTITY pasteCmd.key           "V">  
@@ -347,7 +318,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Suprimir l'istoric recent...">
 <!ENTITY appMenuHistory.restoreSession.label "Restablir la session precedenta">
 <!ENTITY appMenuHistory.viewSidebar.label "Afichar lo panèl de l'istoric">
-
 <!ENTITY appMenuHelp.tooltip "Dobrir lo menú d'ajuda">
 
 <!ENTITY appMenuRemoteTabs.label "Onglets sincronizats">
@@ -355,31 +325,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      the name of a device when that device has no open tabs -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
-
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferéncias de Sync">
-
 <!ENTITY appMenuRemoteTabs.signin.label "Començar la session de Sync">
-
-
 
 <!ENTITY customizeMenu.addToToolbar.label "Apondre a la barra d'aisinas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "A">
 <!ENTITY customizeMenu.addToPanel.label "Apondre al Menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "M">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.moveToToolbar.label "Desplaçar cap a la barra d'aisinas">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "D">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and 
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Desplaçar cap al menú">
@@ -390,6 +359,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.removeFromMenu.accesskey "r">
 <!ENTITY customizeMenu.addMoreItems.label "Apondre mai d'elements...">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
@@ -406,11 +376,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Òc">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "O">
+
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -432,43 +400,40 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
-
 <!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
+
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchSubmit.tooltip  "Mandar la recèrca">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
-
 <!ENTITY searchFor.label              "Recercar">
 <!ENTITY searchWith.label             " amb :">
+
 <!-- LOCALIZATION NOTE (search.label, searchAfter.label):
      This string is used to build the header above the list of one-click search
      providers when a one off engine has been selected.  The searchAfter text is
      intentionally left empty for en-US and can be used by other localizations to
      display a string after the search engine name.  This string will be displayed
      as:  "Search <selected engine name><searchAfter.label text>" -->
-
 <!ENTITY search.label                 "Recèrca ">
 <!ENTITY searchAfter.label            "">
+
 <!-- LOCALIZATION NOTE (searchWithHeader.label):
      The wording of this string should be as close as possible to
      searchFor.label and searchWith.label. This string will be used instead of
      them when the user has not typed any keyword. -->
-
 <!ENTITY searchWithHeader.label       "Recercar amb :">
 <!-- LOCALIZATION NOTE (changeSearchSettings.button):
      This string won't wrap, so if the translated string is longer,
      consider translating it as if it said only "Search Settings". -->
 <!ENTITY changeSearchSettings.button  "Paramètres de recèrca">
 <!ENTITY changeSearchSettings.tooltip "Cambiar los paramètres de recèrca">
-
-
-
 
 
 <!ENTITY openLinkCmdInTab.label       "Dobrir lo ligam dins un onglet novèl">
@@ -483,8 +448,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "o">
 <!ENTITY openFrameCmd.label           "Dobrir lo quadre dins una fenèstra novèla">
 <!ENTITY openFrameCmd.accesskey       "f">
-
-
 <!ENTITY showOnlyThisFrameCmd.label     "Dobrir lo quadre dins un onglet novèl">
 <!ENTITY showOnlyThisFrameCmd.accesskey "o">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -522,7 +485,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "M">
 <!ENTITY bookmarkThisFrameCmd.label      "Marcapagina sus aqueste quadre">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
-
 <!ENTITY emailPageCmd.label           "Mandar per corrièr electronic un ligam cap a la pagina…">
 <!ENTITY emailPageCmd.accesskey       "c">
 <!ENTITY savePageCmd.label            "Enregistrar jos...">
@@ -568,11 +530,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyEmailCmd.accesskey       "e">
 <!ENTITY thisFrameMenu.label              "Aqueste quadre">
 <!ENTITY thisFrameMenu.accesskey          "d">
+
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
-
 <!ENTITY mediaPlay.label             "Legir">
 <!ENTITY mediaPlay.accesskey         "L">
 <!ENTITY mediaPause.label            "Pausa">
@@ -586,20 +548,9 @@ items are mutually exclusive. -->
 <!ENTITY mediaUnmute.accesskey       "u">
 <!ENTITY mediaPlaybackRate2.label     "Velocitat de lectura">
 <!ENTITY mediaPlaybackRate2.accesskey "l">
-
-
-
-
-
-
-
-
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-
-
-
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -618,18 +569,17 @@ items are mutually exclusive. -->
 <!ENTITY videoShowStats.accesskey    "t">
 <!ENTITY videoHideStats.label        "Amagar las estatisticas">
 <!ENTITY videoHideStats.accesskey    "t">
+
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
 fullZoomResetCmd.commandkey2 are alternative acceleration keys for zoom.
 If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
-
 <!ENTITY fullZoomEnlargeCmd.label       "Zoom avant">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "v">
 <!ENTITY fullZoomEnlargeCmd.commandkey  "+">
-<!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> <!-- + is above this key on many keyboards -->
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Zoom arrièr">
@@ -649,7 +599,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sidebarCloseButton.tooltip     "Tampar lo panèl lateral">
 
-
 <!ENTITY quitApplicationCmdWin2.label       "Quitar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "Q">
 <!ENTITY quitApplicationCmdWin2.tooltip     "Sortir de &brandShorterName;">
@@ -658,8 +607,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Quitar"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "Sortir de &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key     "Q">
 
 <!ENTITY closeCmd.label                 "Tampar">  
 <!ENTITY closeCmd.key                   "W">  
@@ -708,62 +655,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionSecure "Connexion securizada">
 <!ENTITY identity.connectionNotSecure "La connexion es pas securizada">
 
-
-
-
-
 <!-- Strings for connection state warnings. -->
-
-
 
 <!-- Strings for connection state warnings in the subview. -->
 
-
-
-
-
-
-
-
-
-
 <!ENTITY identity.enableMixedContentBlocking.label "Activar la proteccion">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "v">
-
-
 <!ENTITY identity.learnMore "Ne saber mai">
-
 
 
 <!ENTITY identity.moreInfoLinkText2 "que lo detentor n'es">
 
 <!ENTITY identity.permissions "Permissions">
 
-
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
-
 <!ENTITY tabsToolbar.label "Onglets del navigador">
-<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 
+<!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
 <!ENTITY syncTabsMenu3.label     "Onglets sincronizats">
 
 <!ENTITY syncedTabs.sidebar.label              "Onglets sincronizats">
-
-
-
-
-
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Dobrir las preferénciias del &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
-
-
-
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Dobrir lo ligam dins una fenèstra novèla">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "o">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Dobrir lo ligam dins una fenèstra de navigacion privada">
@@ -772,9 +692,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "m">
 <!ENTITY syncedTabs.context.copy.label                       "Copiar">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
-
-
-
 
 
 
@@ -800,9 +717,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Besonh d'encara mai d'aisinas ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Fasètz vòstra causida demest de milierats de moduls complementaris">
 <!ENTITY customizeMode.restoreDefaults "Restablir l'òrdre inicial">
-
 <!ENTITY customizeMode.titlebar "Barra de títol">
-
 <!ENTITY customizeMode.lwthemes "Tèmas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mos tèmas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomandats">
@@ -815,13 +730,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectCamera.accesskey "W">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfòn de partejar :">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
-
 <!ENTITY getUserMedia.allWindowsShared.message "L'ensemble de las fenèstras visiblas sus vòstre ecran seràn partejadas.">
 
 <!ENTITY trackingProtection.title "Proteccion contra lo seguiment">
-
-
-
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
@@ -836,7 +747,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "v">
 
 <!ENTITY trackingContentBlocked.message "Pistatge">
-
 <!ENTITY trackingContentBlocked.learnMore "Ne saber mai">
 <!ENTITY trackingContentBlocked.options "Opcions">
 <!ENTITY trackingContentBlocked.unblock2.label "Desactivar la proteccion per aqueste site">
@@ -844,38 +754,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.block.label "Activar la proteccion">
 <!ENTITY trackingContentBlocked.block.accesskey "A">
 
-
 <!ENTITY pluginNotification.showAll.label "Afichar tot">
 <!ENTITY pluginNotification.showAll.accesskey "f">
-<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 
+<!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "Activar ara">
 <!ENTITY pluginActivateAlways.label "Activar totjorn">
 <!ENTITY pluginBlockNow.label "Blocar lo plugin">
+
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
      blocked on a page. Should be wide enough to fit the pluginActivateNow.label
      and pluginActivateAlways.label strings above on a single line. This must be
      a CSS length value. -->
-
 <!ENTITY pluginNotification.width "28em">
 
 <!ENTITY uiTour.infoPanel.close "Tampar">
 
 <!ENTITY appMenuSidebars.label         "Panèl lateral">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-
 <!ENTITY panicButton.view.mainTimeframeDesc       "Escafar :">
 <!ENTITY panicButton.view.5min                    "Las cinc darrièras minutas">
 <!ENTITY panicButton.view.2hr                     "La doas darrièras oras">
 <!ENTITY panicButton.view.day                     "Las 24 darrièras oras">
+
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-
 <!ENTITY panicButton.view.mainActionDesc          "Se contunhatz, anatz :">
 <!ENTITY panicButton.view.deleteCookies           "Suprimir los <html:strong>Cookies</html:strong> recents">
 <!ENTITY panicButton.view.deleteHistory           "Suprimir l'<html:strong>Istoric</html:strong> recent">
@@ -891,25 +800,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "Ne saber mai suls DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
