@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Faqerojtësi u hoq">
 <!ENTITY bookmark_updated "Faqeruajtësi u përditësua">
 <!ENTITY bookmark_options "Mundësi">
+<!ENTITY bookmark_save "Ruaje">
 <!ENTITY screenshot_added_to_bookmarks "Fotoja e ekranit u shtua te faqerojtësit">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; objekte">
 <!ENTITY bookmark_folder_one_item "1 objekt">
+<!ENTITY bookmark_parent_folder "Dosja Mëmë">
+<!ENTITY bookmark_add_folder "Shtoni dosje të re">
 
 <!ENTITY reader_saved_offline "U ruajt offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -546,6 +549,7 @@
 <!ENTITY bookmark_edit_name "Emër">
 <!ENTITY bookmark_edit_location "Vend">
 <!ENTITY bookmark_edit_keyword "Fjalëkyç">
+<!ENTITY bookmark_select_folder "Përzgjidhni dosje">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
