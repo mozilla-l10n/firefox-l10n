@@ -143,7 +143,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "D">
 <!ENTITY performanceSettingsLearnMore.label "Dysgu rhagor">
 <!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
-
+<!ENTITY limitContentProcessOption.description "Mae rhagor o brosesau cynnwys yn gallu gwella perfformiad pan yn defnyddio tabiau lluosog, ond fydd hefyd yn defnyddio mwy o gof.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">
