@@ -283,11 +283,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Eksperimentalne funkcije">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Zavihki po meri">
-<!ENTITY pref_custom_tabs_summary3 "Dovoli aplikacijam, da odpirajo spletne strani z uporabo prilagojene različice &brandShortName;a">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Odpri v &formatS;">
@@ -700,7 +695,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_start_title2 "Na voljo je posodobitev za &brandShortName;">
 <!ENTITY updater_start_select2 "Tapnite za prenos">
 
-<!ENTITY updater_downloading_title2 "Prenašam &brandShortName;">
+<!ENTITY updater_downloading_title2 "Prenašanje &brandShortName;a">
 <!ENTITY updater_downloading_title_failed2 "Prenos neuspešen">
 <!ENTITY updater_downloading_select2 "Tapnite za uveljavitev posodobitve, ko se prenese">
 <!ENTITY updater_downloading_retry2 "Tapnite za ponovni poskus">

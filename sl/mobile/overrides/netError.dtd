@@ -93,7 +93,7 @@
 </ul>
 ">
 
-<!ENTITY unsafeContentType.title "Nezaščitena vrsta datoteke">
+<!ENTITY unsafeContentType.title "Nevarna vrsta datoteke">
 <!ENTITY unsafeContentType.longDesc "
 <ul>
   <li>O napaki obvestite lastnike spletne strani.</li>
@@ -181,7 +181,7 @@
 <!ENTITY corruptedContentErrorv2.title "Napaka zaradi pokvarjene vsebine">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Strani, ki si jo poskušate ogledati, ni mogoče prikazati, ker je bila zaznana napaka v prenosu podatkov.</p><ul><li>O napaki obvestite lastnike spletne strani.</li></ul>">
 
-<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo ...">
+<!ENTITY securityOverride.linkText "Lahko pa dodate izjemo …">
 <!ENTITY securityOverride.getMeOutOfHereButton "Hočem stran!">
 <!ENTITY securityOverride.exceptionButtonLabel "Dodaj izjemo …">
 
