@@ -117,8 +117,8 @@
 <!ENTITY prefs_general_title "Geral">
 <!ENTITY prefs_restore "Restaurar predefinições">
 <!ENTITY prefs_manage_components "Gerir componentes extra">
-<!ENTITY prefs_options_autoconnectruntime "Estabelecer nova ligação ao runtime anterior">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Estabelecer nova ligação ao runtime anterior ao iniciar o WebIDE">
+<!ENTITY prefs_options_autoconnectruntime "Religar ao runtime anterior">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Religar ao runtime anterior quando o WebIDE iniciar">
 <!ENTITY prefs_options_rememberlastproject "Memorizar último projeto">
 <!ENTITY prefs_options_rememberlastproject_tooltip "Restaurar projeto anterior quando o WebIDE inicia">
 <!ENTITY prefs_options_templatesurl "Modelos URL">
