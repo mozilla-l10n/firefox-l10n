@@ -13,7 +13,7 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 57em; min-height: 40em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 39.5em;">
 
-<!ENTITY  paneSearchResults.title       "Resultados de pesquisa">
+<!ENTITY  paneSearchResults.title       "Resultados da pesquisa">
 <!ENTITY  paneGeneral.title             "Geral">
 <!ENTITY  paneFilesApplications.title   "Ficheiros e Aplicações">
 <!ENTITY  panePrivacySecurity.title     "Privacidade e Segurança">
