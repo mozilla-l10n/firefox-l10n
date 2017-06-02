@@ -11,7 +11,7 @@
 <!ENTITY gdata.migration.description "Póbitowaŕ za Google Calendar ma namakał, až maśo južo kalendery, kótarež maju pśistup na Google Calendar jano w cytańskem modusu. Jolic cośo jaden abo někotare z tych kalenderow aktualizěrowaś, wubjeŕśo je dołojce">
 <!ENTITY gdata.migration.upgrade.label "Aktualizěrowaś">
 <!ENTITY gdata.migration.upgrade.accesskey "A">
-<!ENTITY gdata.migration.showagain.label "Pśecej pśeglědowaś">
+<!ENTITY gdata.migration.showagain.label "Pśecej pśeglědowaś ">
 
 <!ENTITY gdata.reminder.default "Standardne dopomnjeśe">
 <!ENTITY gdata.reminder.action.sms.label "Tekstowu powěsć pósłaś">
