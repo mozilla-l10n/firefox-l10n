@@ -14,6 +14,9 @@
 <!ENTITY safeb.blocked.phishingPage.title3 "Dal buy naxe!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc3 "Dal bii ci <span id='phishing_sitename'/> joxoñ nañ ko niki buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
+<!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Dali naxaatekaay yi dañ leen defar ngir xiirtal la ci def lu wóoradi, niki sampi jëfekaay, walla jébbale say xibaari bopp, yu mel ni baati-jàll, limati wootekaay walla këyitu bank.</p><p>Duggali xibaar ci wii xëtu web man naa jur càccug say xibaar walla yeneen xeeti njublang.</p>">
 
+<!ENTITY safeb.blocked.unwantedPage.title "Siiw na niki dalub jëfekaay bees bëggul!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "Xëtu web bii ci <span id='unwanted_sitename'/> siiwal nañ ni buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
 
