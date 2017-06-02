@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; elem">
 <!ENTITY bookmark_folder_one_item "1 elem">
 <!ENTITY bookmark_parent_folder "Szülőmappa">
-
+<!ENTITY bookmark_add_folder "Új mappa hozzáadása">
 
 <!ENTITY reader_saved_offline "Kapcsolat nélkül mentve">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -543,7 +543,7 @@
 <!ENTITY bookmark_edit_name "Név">
 <!ENTITY bookmark_edit_location "Hely">
 <!ENTITY bookmark_edit_keyword "Kulcsszó">
-
+<!ENTITY bookmark_select_folder "Válasszon mappát">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
