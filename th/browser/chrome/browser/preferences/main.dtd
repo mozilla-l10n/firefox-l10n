@@ -34,7 +34,7 @@
 <!ENTITY alwaysCheckDefault2.label        "ตรวจสอบเสมอว่า &brandShortName; เป็นเบราว์เซอร์เริ่มต้นของคุณหรือไม่">
 <!ENTITY alwaysCheckDefault2.accesskey    "ต">
 <!ENTITY setAsMyDefaultBrowser2.label     "ทำให้เป็นค่าเริ่มต้น">
-<!ENTITY setAsMyDefaultBrowser2.accesskey "ค">
+<!ENTITY setAsMyDefaultBrowser2.accesskey "ร">
 <!ENTITY isDefault.label                  "&brandShortName; เป็นเบราว์เซอร์เริ่มต้นของคุณในขณะนี้">
 <!ENTITY isNotDefault.label               "&brandShortName; ไม่ได้เป็นเบราว์เซอร์เริ่มต้นของคุณ">
 
