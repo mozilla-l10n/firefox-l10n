@@ -12,7 +12,7 @@
 <!ENTITY ListName.accesskey             "M">
 <!ENTITY ListNickName.label             "Přimjeno z lisćiny: ">
 <!ENTITY ListNickName.accesskey         "P">
-<!ENTITY ListDescription.label          "Wopisanje:  ">
+<!ENTITY ListDescription.label          "Wopisanje: ">
 <!ENTITY ListDescription.accesskey      "W">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Zapisajće e-mejlowe adresy, zo byšće je rozesyłanskej lisćinje přidał:">
