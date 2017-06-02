@@ -38,7 +38,7 @@
 <!ENTITY migrating.label                "Наредне ставке се тренутно увозе…">
 
 <!ENTITY selectProfile.title            "Избор профила">
-<!ENTITY selectProfile.label            "Можете увести из следећих профила:">
+<!ENTITY selectProfile.label            "Следеће профиле можете увести из:">
 
 <!ENTITY done.title                     "Увоз је завршен">
 <!ENTITY done.label                     "Следеће ставке су успешно увезене:">

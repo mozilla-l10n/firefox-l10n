@@ -688,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Изађи"> 
 <!ENTITY quitApplicationCmd.accesskey   "И">
 <!ENTITY quitApplicationCmdMac2.label   "Изађи из &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Затвори">  
 <!ENTITY closeCmd.key                   "W">  
