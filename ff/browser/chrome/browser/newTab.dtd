@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Tabbere Hesere">
-
+<!ENTITY newtab.customize.classic "Hollu lowe maa dowrowe">
 <!ENTITY newtab.customize.cog.enhanced "Waɗdu heen lowe basiyaaɗe">
 <!ENTITY newtab.customize.cog.title2 "ƊOWOOJE TABBE KESE">
 <!ENTITY newtab.customize.cog.learn "Humpito baɗte Tabbere Hesere">
