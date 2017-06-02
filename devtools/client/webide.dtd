@@ -115,7 +115,7 @@
 <!ENTITY prefs_title "Настройки">
 <!ENTITY prefs_editor_title "Редактор">
 <!ENTITY prefs_general_title "Основни">
-<!ENTITY prefs_restore "Връщане на стандартни настройки">
+<!ENTITY prefs_restore "Стандартни настройки">
 <!ENTITY prefs_manage_components "Управление на допълнителни компоненти">
 <!ENTITY prefs_options_autoconnectruntime "Ново свързване към предишната среда за приложения">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Ново свързване към предишната среда за приложения при пускане на WebIDE">
@@ -198,7 +198,7 @@
 <!-- Simulator Options -->
 <!ENTITY simulator_title "Настройки на симулатора">
 <!ENTITY simulator_remove "Изтриване на симулатора">
-<!ENTITY simulator_reset "Връщане на стандартни настройки">
+<!ENTITY simulator_reset "Стандартни настройки">
 <!ENTITY simulator_name "Име">
 <!ENTITY simulator_software "Софтуер">
 <!ENTITY simulator_version "Версия">
