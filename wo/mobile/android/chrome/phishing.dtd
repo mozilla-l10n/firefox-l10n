@@ -13,6 +13,7 @@
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Dal buy naxe!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Dal bii ci <span id='phishing_sitename'/> joxoñ nañ ko niki buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
 
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 
