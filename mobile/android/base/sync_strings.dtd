@@ -55,7 +55,7 @@
 <!ENTITY fxaccount_status_manage_account 'Upravljanje računa'>
 <!ENTITY fxaccount_status_auth_server 'Strežnik za račun'>
 <!ENTITY fxaccount_status_sync_now 'Sinhroniziraj zdaj'>
-<!ENTITY fxaccount_status_syncing2 'Sinhronizacija …'>
+<!ENTITY fxaccount_status_syncing2 'Sinhroniziranje …'>
 <!ENTITY fxaccount_status_device_name 'Ime naprave'>
 <!ENTITY fxaccount_status_sync_server 'Strežnik za Sync'>
 <!ENTITY fxaccount_status_sync '&syncBrand.shortName.label;'>
