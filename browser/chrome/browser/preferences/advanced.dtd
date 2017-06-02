@@ -138,10 +138,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
 <!ENTITY performance.label               "Teljesítmény">
+<!ENTITY useRecommendedPerformanceSettings2.label "Javasolt teljesítménybeállítások használata">
 
-
-
-
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "h">
+<!ENTITY performanceSettingsLearnMore.label "További tudnivalók">
 
 
 
