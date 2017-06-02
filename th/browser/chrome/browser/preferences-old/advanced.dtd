@@ -85,7 +85,7 @@
 <!ENTITY updateAuto1.label               "ติดตั้งการอัปเดตโดยอัตโนมัติ (แนะนำ: ช่วยเพิ่มความปลอดภัย)">
 <!ENTITY updateAuto1.accesskey           "ด">
 <!ENTITY updateCheckChoose.label         "ตรวจสอบการอัปเดต แต่ให้คุณเลือกว่าจะติดตั้งหรือไม่">
-<!ENTITY updateCheckChoose.accesskey     "ร">
+<!ENTITY updateCheckChoose.accesskey     "ว">
 <!ENTITY updateManual.label              "ไม่ตรวจสอบการอัปเดตเสมอ (ไม่แนะนำ: เสี่ยงต่อความปลอดภัย)">
 <!ENTITY updateManual.accesskey          "ม">
 
