@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Előzmények törlése…">
 <!ENTITY appMenuHistory.restoreSession.label "Előző munkamenet helyreállítása">
 <!ENTITY appMenuHistory.viewSidebar.label "Előzmények oldalsáv megjelenítése">
-
+<!ENTITY appMenuHelp.label "Súgó">
 <!ENTITY appMenuHelp.tooltip "Súgó menü megnyitása">
 
 <!ENTITY appMenuRemoteTabs.label "Szinkronizált lapok">
@@ -430,10 +430,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Igen">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "I">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Beállítások módosítása…">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Beállítások módosítása…">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -548,7 +550,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "f">
 <!ENTITY bookmarkThisFrameCmd.label      "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
-
+<!ENTITY copyURLCmd.label             "Az URL másolása">
 <!ENTITY emailPageCmd.label           "Hivatkozás küldése e-mailben…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Oldal mentése…">
@@ -675,7 +677,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "N">
 
 <!ENTITY sidebarCloseButton.tooltip     "Oldalsáv bezárása">
-
+<!ENTITY sidebarMenuClose.label         "Oldalsáv bezárása">
 
 <!ENTITY quitApplicationCmdWin2.label       "Kilépés">
 <!ENTITY quitApplicationCmdWin2.accesskey   "K">
@@ -729,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Szótárak hozzáadása…">
 <!ENTITY spellAddDictionaries.accesskey "S">
 
+<!ENTITY editBookmark.done.label                     "Kész">
 <!ENTITY editBookmark.removeBookmark.accessKey       "E">
 
 <!ENTITY identity.connectionSecure "Biztonságos kapcsolat">
@@ -835,9 +838,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "További eszközöket szeretne?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Válasszon több ezer kiegészítő közül">
 <!ENTITY customizeMode.restoreDefaults "Alapértelmezett értékek visszaállítása">
-
+<!ENTITY customizeMode.done "Kész">
 <!ENTITY customizeMode.titlebar "Címsor">
-
+<!ENTITY customizeMode.toolbars2 "Eszköztárak">
 <!ENTITY customizeMode.lwthemes "Témák">
 <!ENTITY customizeMode.lwthemes.myThemes "Saját témák">
 <!ENTITY customizeMode.lwthemes.recommended "Ajánlott">
@@ -951,10 +954,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Most nem">
 <!ENTITY updateRestart.cancelButton.accesskey "M">
-
+<!ENTITY updateRestart.panelUI.label2 "Újraindítás a &brandShorterName; frissítéséhez">
 
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 
-
-
-
+<!ENTITY sendToDevice.label "Küldés eszközre…">
+<!ENTITY sendToDevice.viewTitle "eszközre">
+<!ENTITY sendToDevice.fxaRequired.label "Szükséges">
+<!ENTITY sendToDevice.noDevices.label "Nem érhetők el eszközök">
