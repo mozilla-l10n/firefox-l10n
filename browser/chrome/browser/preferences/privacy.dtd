@@ -13,7 +13,7 @@
 <!ENTITY  trackingProtectionNever.accesskey    "ม">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
-<!ENTITY  trackingProtectionExceptions.accesskey "ย">
+<!ENTITY  trackingProtectionExceptions.accesskey "อ">
 
 <!ENTITY tracking.label                 "การตามรอย">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">
@@ -34,11 +34,11 @@
 
 <!ENTITY  locbar.suggest2.label         "เมื่อใช้แถบตำแหน่งที่ตั้ง เสนอแนะ">
 <!ENTITY  locbar.history.label          "ประวัติ">
-<!ENTITY  locbar.history.accesskey      "H">
+<!ENTITY  locbar.history.accesskey      "ป">
 <!ENTITY  locbar.bookmarks.label        "ที่คั่นหน้า">
-<!ENTITY  locbar.bookmarks.accesskey    "k">
+<!ENTITY  locbar.bookmarks.accesskey    "ท">
 <!ENTITY  locbar.openpage.label         "แท็บที่เปิด">
-<!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.openpage.accesskey     "บ">
 <!ENTITY  locbar.searches.label         "การค้นหาที่เกี่ยวข้องจากเครื่องมือค้นหาเริ่มต้น">
 <!ENTITY  locbar.searches.accesskey     "d">
 
@@ -63,7 +63,7 @@
 <!ENTITY  cookieExceptions.accesskey    "ข">
 
 <!ENTITY  showCookies.label             "แสดงคุกกี้…">
-<!ENTITY  showCookies.accesskey         "S">
+<!ENTITY  showCookies.accesskey         "ส">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; จะ">
 <!ENTITY  historyHeader2.pre.accesskey     "จ">
@@ -92,19 +92,19 @@
 <!ENTITY  dontrememberActions.post.label         "">
 
 <!ENTITY  privateBrowsingPermanent2.label "ใช้โหมดการท่องเว็บแบบส่วนตัวเสมอ">
-<!ENTITY  privateBrowsingPermanent2.accesskey "p">
+<!ENTITY  privateBrowsingPermanent2.accesskey "ช">
 
 <!ENTITY  rememberHistory2.label      "จดจำประวัติการท่องเว็บและการดาวน์โหลดของฉัน">
-<!ENTITY  rememberHistory2.accesskey  "b">
+<!ENTITY  rememberHistory2.accesskey  "จ">
 
 <!ENTITY  rememberSearchForm.label       "จดจำประวัติการค้นหาและแบบฟอร์ม">
-<!ENTITY  rememberSearchForm.accesskey   "f">
+<!ENTITY  rememberSearchForm.accesskey   "ด">
 
 <!ENTITY  clearOnClose.label             "ล้างประวัติเมื่อปิด &brandShortName;">
-<!ENTITY  clearOnClose.accesskey         "r">
+<!ENTITY  clearOnClose.accesskey         "ล">
 
 <!ENTITY  clearOnCloseSettings.label     "การตั้งค่า…">
-<!ENTITY  clearOnCloseSettings.accesskey "t">
+<!ENTITY  clearOnCloseSettings.accesskey "ก">
 
 <!ENTITY  browserContainersHeader.label         "แท็บแยกข้อมูล">
 <!ENTITY  browserContainersLearnMore.label      "เรียนรู้เพิ่มเติม">
