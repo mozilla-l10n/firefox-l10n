@@ -149,7 +149,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 
-<!ENTITY pointerlockWarning.beforeDomain.label "">
+<!ENTITY pointerlockWarning.beforeDomain.label "Tamde">
 <!ENTITY pointerlockWarning.afterDomain.label "nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.">
 <!ENTITY pointerlockWarning.generic.label "Ndee fiilannde nana ɗowa doborde maa. Ñoƴƴu Ech ngam ɓamtude ɗowgol.">
 
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Natto">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Ɗakku">  
 <!ENTITY pasteCmd.key           "V">  
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Yaltu"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 <!ENTITY quitApplicationCmdMac2.label   "Yaltu &brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Uddu">  
 <!ENTITY closeCmd.key                   "W">  
