@@ -114,7 +114,7 @@
 <!ENTITY certPersonal.label              "Ɗaɓɓitanɗe">
 <!ENTITY certPersonal.description        "So sarworde ɗaɓɓitii seedamfaagu am heeriingu:">
 <!ENTITY selectCerts.auto                "Labo gootal e jaajol">
-
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Naamno mi e sahaa kala">
 
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
