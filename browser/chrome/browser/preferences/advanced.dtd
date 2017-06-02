@@ -144,5 +144,6 @@
                                          "ภ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "เรียนรู้เพิ่มเติม">
+<!ENTITY limitContentProcessOption.label "ขีดจำกัดโปรเซสเนื้อหา">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
