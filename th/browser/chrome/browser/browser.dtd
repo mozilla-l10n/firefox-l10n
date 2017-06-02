@@ -907,9 +907,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 <!ENTITY panicButton.view.mainActionDesc          "การดำเนินการจะ:">
-<!ENTITY panicButton.view.deleteCookies           "ลบ <html:strong>คุกกี้</html:strong> เมื่อเร็ว ๆ นี้">
-<!ENTITY panicButton.view.deleteHistory           "ลบ <html:strong>ประวัติ</html:strong> เมื่อเร็ว ๆ นี้">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด <html:strong>แท็บ</html:strong> และ <html:strong>หน้าต่าง</html:strong> ทั้งหมด">
+<!ENTITY panicButton.view.deleteCookies           "ลบ<html:strong>คุกกี้</html:strong>เมื่อเร็ว ๆ นี้">
+<!ENTITY panicButton.view.deleteHistory           "ลบ<html:strong>ประวัติ</html:strong>เมื่อเร็ว ๆ นี้">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "ปิด<html:strong>แท็บ</html:strong>และ<html:strong>หน้าต่าง</html:strong>ทั้งหมด">
 <!ENTITY panicButton.view.openNewWindow           "เปิดหน้าต่างว่างใหม่">
 
 <!ENTITY panicButton.view.undoWarning             "การกระทำนี้ไม่สามารถเลิกทำได้">

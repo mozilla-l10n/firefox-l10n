@@ -31,6 +31,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; ไม่สามารถโหลดหน้านี้ได้ด้วยเหตุผลบางอย่าง</p>">
 
 <!ENTITY captivePortal.title "เข้าสู่ระบบเครือข่าย">
+<!ENTITY captivePortal.longDesc2 "
+<p>คุณต้องเข้าสู่ระบบเครือข่ายนี้ก่อนที่คุณจะสามารถเข้าถึงอินเทอร์เน็ต</p>
+">
 
 <!ENTITY openPortalLoginPage.label2 "เปิดหน้าเข้าสู่ระบบของเครือข่าย">
 
