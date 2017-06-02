@@ -14,7 +14,7 @@
 <!ENTITY  notificationsPolicyButton.label      "เลือก…">
 <!ENTITY  notificationsDoNotDisturb.label      "ห้ามรบกวน">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "ห">
-<!ENTITY  notificationsDoNotDisturbDetails.value "การแจ้งเตือนจะไม่แสดงจนกระทั่งคุณได้เริ่ม &brandShortName; ใหม่">
+<!ENTITY  notificationsDoNotDisturbDetails.value "การแจ้งเตือนจะไม่ถูกแสดงจนกว่าคุณจะเริ่มการทำงาน &brandShortName; ใหม่">
 
 <!ENTITY  popupExceptions.label       "ข้อยกเว้น…">
 <!ENTITY  popupExceptions.accesskey   "ก">
