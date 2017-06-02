@@ -8,15 +8,16 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "Xët wu bon wuy songe!">
 <!-- Localization note (safeb.blocked.malware.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Dalub web bi ci <span id='malware_sitename'/> siiwal nañ ni dal bu bon la te téye nañ ko, ñu ngi sukkandiku ci say taamu kaarange.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéem a samp ay tëraliin yuy sacc say xibaar, di jëfandikoo sa nosukaay ngir song yeneen walla ñu yaq sa noste.</p><p>Xët yu bari da ñuy tay di yónnee ay tëraliin yu bon, wante it xët yu bari man nañoo taq te seen boroom du ko xam.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "Xëtu web bii ci <span id='malware_sitename'/> siiwal nañ ni xët wu bon la te téye nañ ko, ñu ngi sukkandiku ci say tànneefi kaaraange.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Xët yu bon yi dañuy jéem a samp ay jëfekaay yuy sàcc say xibaar, di jëfandikoo sa nosukaay ngir song yeneen walla ñu yaq sa noste.</p><p>Xët yu bari dañuy tay di yónnee ay jëfekaay yu bon, wante it xët yu bari man nañoo taq te seen boroom du ko xam.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title3 "Dal buy naxe!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc3) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Dal bii ci <span id='phishing_sitename'/> joxoñ nañ ko niki buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc3 "Dal bii ci <span id='phishing_sitename'/> siiwal nañ ko niki buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
 <!ENTITY safeb.blocked.phishingPage.longDesc3 "<p>Dali naxaatekaay yi dañ leen defar ngir xiirtal la ci def lu wóoradi, niki sampi jëfekaay, walla jébbale say xibaari bopp, yu mel ni baati-jàll, limati wootekaay walla këyitu bank.</p><p>Duggali xibaar ci wii xëtu web man naa jur càccug say xibaar walla yeneen xeeti njublang.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Siiw na niki dalub jëfekaay bees bëggul!">
 <!-- Localization note (safeb.blocked.unwanted.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "Xëtu web bii ci <span id='unwanted_sitename'/> siiwal nañ ni buy naxe la te téye nañ ko sukkandiku ci say tànneefi kaaraange.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "Xëti jëfekaay yees bëggul ñooy jéem a sampi jëfekaay yuy man a doon yuy naxe walla am njeexit ci sa noste ci noo ko foogeewul.">
 
