@@ -93,7 +93,7 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "الإصدارة ">
-<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.version.post  "​">
 <!ENTITY updateApplication.description   "اسمح ل‍&brandShortName; أن">
 <!ENTITY updateAuto2.label               "ينصّب التحديثات تلقائيًا (مستحسن لزيادة الأمان)">
 <!ENTITY updateAuto2.accesskey           "ح">
