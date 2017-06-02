@@ -130,5 +130,7 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "เรียนรู้เพิ่มเติม">
 <!ENTITY limitContentProcessOption.label "ขีดจำกัดโปรเซสเนื้อหา">
+<!ENTITY limitContentProcessOption.description
+                                         "โปรเซสเนื้อหาที่เพิ่มขึ้นสามารถปรับปรุงประสิทธิภาพเมื่อใช้หลายแท็บ แต่จะใช้หน่วยความจำมากขึ้นเช่นกัน">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
