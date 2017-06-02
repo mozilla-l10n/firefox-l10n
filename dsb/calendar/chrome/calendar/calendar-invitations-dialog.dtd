@@ -13,7 +13,7 @@
 <!ENTITY calendar.invitations.list.decline.button.label                 "Wótpokazaś">
 <!ENTITY calendar.invitations.list.recurrentevent.text                  "Wóspjetujuce se tšojenje">
 <!ENTITY calendar.invitations.list.alldayevent.text                     "Cełodnjowske tšojenje">
-<!ENTITY calendar.invitations.list.location.text                        "Městno: ">
-<!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
-<!ENTITY calendar.invitations.list.attendee.text                        "Wobźělnik: ">
+<!ENTITY calendar.invitations.list.location.text                        "Městno: ">
+<!ENTITY calendar.invitations.list.organizer.text                       "Organizator: ">
+<!ENTITY calendar.invitations.list.attendee.text                        "Wobźělnik: ">
 <!ENTITY calendar.invitations.list.none.text                            "Žedno">
