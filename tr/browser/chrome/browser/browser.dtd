@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Adres çubuğu menüsüne ekle">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Araç çubuğuna taşı">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "t">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Menüye taşı">
 <!ENTITY customizeMenu.moveToPanel.accesskey "t">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Adres çubuğu menüsüne sabitle">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "s">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Adres çubuğu menüsünden kaldır">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "k">
 <!ENTITY customizeMenu.removeFromToolbar.label "Araç çubuğundan kaldır">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "k">
 <!ENTITY customizeMenu.removeFromMenu.label "Menüden kaldır">
@@ -428,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "İpucu:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Arama yaparken yardım alın! Arama önerilerinin yanındaki &#x1F50E; simgesine bakınç">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Seçenekleri değiştir…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "S">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Tercihleri değiştir…">
@@ -681,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Çık"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; uygulamasından çık">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Kapat">  
 <!ENTITY closeCmd.key                   "W">  
@@ -951,3 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Sayfa eylemleri">
 
+<!ENTITY sendToDevice.label "Cihaza gönder…">
+<!ENTITY sendToDevice.viewTitle "Cihaza gönder">
+<!ENTITY sendToDevice.fxaRequired.label "Gerekli">
+<!ENTITY sendToDevice.noDevices.label "Kullanılabilir cihaz yok">
