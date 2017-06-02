@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Itxi fitxa hau">
-<!ENTITY tabCrashed.restoreTab "Berreskuratu fitxa hau">
+<!ENTITY tabCrashed.closeTab "Itxi fitxa">
+<!ENTITY tabCrashed.restoreTab "Berreskuratu fitxa">
 <!ENTITY tabCrashed.restoreAll "Berreskuratu huts egindako fitxa guztiak">
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
      used to express surprise or frustration (or both at the same time).  We
@@ -13,8 +13,8 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-<!ENTITY tabCrashed.header2 "Kontxo. Zure fitxak huts egin berri du.">
-<!ENTITY tabCrashed.offerHelp "Lagun zaitzakegu!">
+<!ENTITY tabCrashed.header2 "Kontxo. Fitxa honek huts egin berri du.">
+<!ENTITY tabCrashed.offerHelp "Laguntzeko moduan gara!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Aukeratu '&tabCrashed.restoreTab;' orriaren edukiak berriro kargatzeko.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Aukeratu '&tabCrashed.restoreTab;' edo '&tabCrashed.restoreAll;' orriaren edukiak berriro kargatzeko.">
 <!ENTITY tabCrashed.requestHelp "Lagunduko diguzu?">
