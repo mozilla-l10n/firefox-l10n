@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "प्रत बनवा">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "चिटकवा">  
 <!ENTITY pasteCmd.key           "V">  
@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "बाहेर पडा"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; मधून बाहेर पडा">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "बंद करा">  
 <!ENTITY closeCmd.key                   "W">  
@@ -956,7 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "आत्ता नाही">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; अद्ययावत करण्यासाठी पुनःसुरु करा">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 
