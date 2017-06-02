@@ -22,8 +22,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionId "ID">
 
 <!ENTITY aboutSupport.featuresTitle "&brandShortName; गुणविशेष">
-
-
+<!ENTITY aboutSupport.featureName "नाव">
+<!ENTITY aboutSupport.featureVersion "आवृत्ती">
 
 
 <!ENTITY aboutSupport.experimentsTitle "प्रयोगिक गुणविशेष">
