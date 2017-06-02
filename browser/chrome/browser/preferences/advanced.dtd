@@ -34,8 +34,8 @@
 
 
 <!ENTITY telemetryDesc.label             "ब्राउझरची कामगिरी, वापर, हार्डवेअर व पसंतीकरण माहिती &vendorShortName;सह शेअर करतो व &brandShortName;ला उत्तम बनवतो">
-
-
+<!ENTITY enableTelemetryData.label       "अधीक डाटा शेअर करा (म्हणजेच Telemetry)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 
 
 <!ENTITY crashReporterDesc2.label         "क्रॅश अहवाल &vendorShortName; ला आपल्या अडचणी सोडविण्यासाठी आणि ब्राउझर अधिक स्थिर व सुरक्षित ठेवण्यासाठी मदत करतो">
@@ -91,7 +91,7 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "आवृत्ती">
-<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "&brandShortName; ला परवानगी द्या">
 
 
@@ -136,11 +136,11 @@
 
 <!ENTITY performance.label               "कार्यक्षमता">
 <!ENTITY useRecommendedPerformanceSettings2.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 
 <!ENTITY limitContentProcessOption.label "मजकूर प्रक्रिया मर्यादा">
-
+<!ENTITY limitContentProcessOption.description "अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू  शकतात, पण त्या अधिक मेमरी देखील वापरातील.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">

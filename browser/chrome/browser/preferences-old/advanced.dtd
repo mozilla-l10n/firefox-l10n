@@ -124,12 +124,13 @@
 <!ENTITY viewSecurityDevices.label       "सुरक्षा साधने">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "कार्यक्षमता">
+<!ENTITY useRecommendedPerformanceSettings.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
+<!ENTITY useRecommendedPerformanceSettings.description "हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 
-
-
-
-
-
-
+<!ENTITY limitContentProcessOption.label "मजकूर प्रक्रिया मर्यादा">
+<!ENTITY limitContentProcessOption.description "अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू शकतात, पण त्या अधिक मेमरी देखील वापरातील.">
+<!ENTITY limitContentProcessOption.accesskey   "l">
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">
