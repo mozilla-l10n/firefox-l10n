@@ -28,12 +28,12 @@
 
 <!ENTITY dataChoicesTab.label            "Odosielanie údajov">
 
-<!ENTITY healthReportDesc.label          "Pomáha Vám porozumieť výkonnosti Vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii.">
+<!ENTITY healthReportDesc.label          "Pomáha vám porozumieť výkonnosti vášho prehliadača a zdieľa so spoločnosťou &vendorShortName; údaje o jeho kondícii">
 <!ENTITY enableHealthReport.label        "Povoliť správy o kondícii prehliadača &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "o">
 <!ENTITY healthReportLearnMore.label     "Ďalšie informácie">
 
-<!ENTITY telemetryDesc.label             "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším.">
+<!ENTITY telemetryDesc.label             "Zdieľa údaje o výkonnosti, využívaní funkcií, hardvérovej konfigurácii a prispôsobení prehliadača so spoločnosťou &vendorShortName; s cieľom urobiť &brandShortName; lepším">
 <!ENTITY enableTelemetryData.label       "Zdieľať ďalšie údaje (napr. telemetriu)">
 <!ENTITY enableTelemetryData.accesskey   "t">
 <!ENTITY telemetryLearnMore.label        "Ďalšie informácie">
@@ -124,5 +124,17 @@
 <!ENTITY viewSecurityDevices.label       "Zariadenia">
 <!ENTITY viewSecurityDevices.accesskey   "Z">
 
+<!ENTITY performance.label               "Výkon">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Použiť odporúčané nastavenia výkonu">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Tieto nastavenia sú ušité na mieru podľa hardvéru a operačného systému vášho počítača.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "u">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ďalšie informácie">
+<!ENTITY limitContentProcessOption.label "Limit procesov obsahu">
+<!ENTITY limitContentProcessOption.description
+                                         "Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey          "h">
