@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Yamir &brandShortName; e Firefox yoo kurmu kañje ɗiɗi kala">
 <!ENTITY useFirefoxSync.label             "Ƴoƴel: Ɗuum huutorto ko keftinirɗe ceertuɗe. Huutoro Sync ngam lollinde keɓe hakkunde majje.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Seŋo to &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Uddit Cuɓoraaɗe &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Yamir keewal cili &brandShortName;">
