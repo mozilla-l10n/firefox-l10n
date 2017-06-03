@@ -50,43 +50,45 @@
 
 
 <!ENTITY otherActionsButton2.label "Көбірек">
-
+<!ENTITY otherActionsButton.tooltip "Көбірек әрекеттер">
 
 
 <!ENTITY otherActionsOpenInNewWindow1.label "Жаңа терезеде ашу">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "р">
 <!ENTITY otherActionsOpenInNewTab1.label "Жаңа бетте ашу">
 <!ENTITY otherActionsOpenInNewTab1.accesskey "т">
-
-
-
-
+<!ENTITY markAsReadMenuItem1.label "Оқылған ретінде белгілеу">
+<!ENTITY markAsReadMenuItem1.accesskey "ы">
+<!ENTITY markAsUnreadMenuItem1.label "Оқылмаған ретінде белгілеу">
+<!ENTITY markAsUnreadMenuItem1.accesskey "м">
 <!ENTITY saveAsMenuItem1.label "Қалайша сақтау…">
 <!ENTITY saveAsMenuItem1.accesskey "с">
-
-
+<!ENTITY viewSourceMenuItem1.label "Бастапқы кодын қарау">
+<!ENTITY viewSourceMenuItem1.accesskey "а">
 <!ENTITY otherActionsPrint1.label "Баспаға шығару…">
 <!ENTITY otherActionsPrint1.accesskey "п">
 <!-- Attachment bar context menu items -->
 
+<!ENTITY startExpandedCmd.label    "Басынан бастап салыным панелін көрсету">
+<!ENTITY startExpandedCmd.accesskey    "с">
 <!-- Attachment context menu items -->
 
 <!ENTITY openAttachmentCmd.label    "Ашу">
 <!ENTITY openAttachmentCmd.accesskey    "А">
 <!ENTITY saveAsAttachmentCmd.label    "Қалайша сақтау…">
 <!ENTITY saveAsAttachmentCmd.accesskey    "с">
-
-
+<!ENTITY detachAttachmentCmd.label    "Бөліп жіберу…">
+<!ENTITY detachAttachmentCmd.accesskey    "Б">
 <!ENTITY deleteAttachmentCmd.label    "Өшіру">
 <!ENTITY deleteAttachmentCmd.accesskey    "ш">
-
-
+<!ENTITY openAllAttachmentsCmd.label    "Барлығын ашу…">
+<!ENTITY openAllAttachmentsCmd.accesskey    "ш">
 <!ENTITY saveAllAttachmentsCmd.label    "Барлығын сақтау…">
 <!ENTITY saveAllAttachmentsCmd.accesskey    "с">
-
-
-
-
+<!ENTITY detachAllAttachmentsCmd.label    "Барлығын бөліп жіберу…">
+<!ENTITY detachAllAttachmentsCmd.accesskey    "Б">
+<!ENTITY deleteAllAttachmentsCmd.label    "Барлығын өшіру…">
+<!ENTITY deleteAllAttachmentsCmd.accesskey    "ш">
 
 <!ENTITY openAttachment.tooltip "Тіркелген файлды ашу">
 <!-- Attachment toolbar items -->
@@ -99,8 +101,9 @@
 <!ENTITY copyLinkCmd.label        "Сілтемені көшіріп алу">
 <!ENTITY copyLinkCmd.accesskey    "С">
 
-
-
-
-
-
+<!ENTITY CopyMessageId.label "Message-ID көшіріп алу">
+<!ENTITY CopyMessageId.accesskey "к">
+<!ENTITY OpenMessageForMsgId.label "ID үшін хабарламаны ашу">
+<!ENTITY OpenMessageForMsgId.accesskey "ш">
+<!ENTITY OpenBrowserWithMsgId.label "Message-ID бар браузерді ашу">
+<!ENTITY OpenBrowserWithMsgId.accesskey "б">
