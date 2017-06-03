@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "Tamellit">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Seqdec iγewwaṛen n temellit ihulen">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "s">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Issin ugar">
 <!ENTITY limitContentProcessOption.label "Azal afellay n ukala n ugbur">

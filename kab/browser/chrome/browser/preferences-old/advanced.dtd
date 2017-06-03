@@ -129,5 +129,8 @@
                                          "Seqdec iγewwaṛen n temellit ihulen">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "S">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Issin ugar">
+<!ENTITY limitContentProcessOption.label "Azal afellay n ukala n ugbur">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">
