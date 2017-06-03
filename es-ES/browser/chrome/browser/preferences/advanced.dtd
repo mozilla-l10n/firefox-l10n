@@ -98,8 +98,8 @@
 <!ENTITY useRecommendedPerformanceSettings2.description "Esta configuración está ajustada al hardware y sistema operativo de su equipo.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Saber más">
-<!ENTITY limitContentProcess2.label "Límite de procesos de contenido">
-<!ENTITY limitContentProcess2.description "Más procesos de contenido pueden mejorar el rendimiento de &brandShortName; al usar múltiples pestañas, pero también usarán más memoria.">
-<!ENTITY limitContentProcess2.accesskey "L">
+<!ENTITY limitContentProcessOption.label "Límite de procesos de contenido">
+<!ENTITY limitContentProcessOption.description "Más procesos de contenido pueden mejorar el rendimiento al usar múltiples pestañas, pero también usarán más memoria.">
+<!ENTITY limitContentProcessOption.accesskey "L">
 <!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey "r">
