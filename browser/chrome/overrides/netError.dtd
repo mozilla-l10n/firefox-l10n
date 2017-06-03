@@ -52,11 +52,11 @@
 ">
 
 <!ENTITY captivePortal.title "Login to network">
-<!ENTITY captivePortal.longDesc "
-<p>This network may require you to login to access the internet.</p>
+<!ENTITY captivePortal.longDesc2 "
+<p>You must log in to this network before you can access the Internet.</p>
 ">
 
-<!ENTITY openPortalLoginPage.label "Open Login Page">
+<!ENTITY openPortalLoginPage.label2 "Open Network Login Page">
 
 <!ENTITY malformedURI.title "The address isn't valid">
 <!ENTITY malformedURI.longDesc "
