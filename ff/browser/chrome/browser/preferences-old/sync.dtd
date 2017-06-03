@@ -6,8 +6,8 @@
 
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
-
-
+<!ENTITY engine.tabs.label2         "Uddit Tabbe">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Aslol">
 <!ENTITY engine.history.accesskey   "o">
 
@@ -59,6 +59,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Yejjit oo Iimeel">
 <!ENTITY forget.accesskey            "Y">
 
+<!ENTITY signedOut.caption            "Nawor Gees Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
 
