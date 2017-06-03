@@ -143,7 +143,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "u">
 <!ENTITY performanceSettingsLearnMore.label "Sužinoti daugiau">
 <!ENTITY limitContentProcessOption.label "Turinio procesų riba">
-
+<!ENTITY limitContentProcessOption.description "Papildomi turinio procesai gali paspartinti veikimą, kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.">
 <!ENTITY limitContentProcessOption.accesskey   "r">
 <!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
 <!ENTITY allowHWAccel.accesskey          "a">
