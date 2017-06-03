@@ -89,7 +89,7 @@ Ping
 ">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-  Trage SQL-statements
+  Trage SQL-instructies
 ">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
