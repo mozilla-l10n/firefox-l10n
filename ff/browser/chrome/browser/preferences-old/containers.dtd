@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "Ɓeydu Mooftiree Hesere">
 <!ENTITY addButton.accesskey  "Ɓ">
 <!ENTITY preferencesButton.label "Cuɓe">
-
+<!ENTITY removeButton.label   "Momtu">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Rutto to Suturo">
 
@@ -14,7 +14,7 @@
 
 <!ENTITY name.label           "Innde:">
 <!ENTITY name.accesskey       "I">
-
+<!ENTITY name.placeholder     "Winndu innde mooftirde">
 <!ENTITY icon.label           "Maandel:">
 <!ENTITY icon.accesskey       "M">
 <!ENTITY color.label          "Goobu:">
