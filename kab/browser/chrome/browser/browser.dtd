@@ -399,6 +399,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Rnu ɣer wumuɣ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "R">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "R">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kkes seg ufeggag n ifecka">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.removeFromMenu.label "Kkes seg umuɣ">
@@ -952,6 +953,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 
+<!ENTITY sendToDevice.label "Azen γer yibenk…">
 <!ENTITY sendToDevice.viewTitle "Azen γer yibenk">
 <!ENTITY sendToDevice.fxaRequired.label "Yettawsra">
 <!ENTITY sendToDevice.noDevices.label "Ulac ibenk">
