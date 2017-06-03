@@ -15,7 +15,7 @@
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
-#define getting_started התחל כאן
+#define getting_started התחלת שימוש
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
