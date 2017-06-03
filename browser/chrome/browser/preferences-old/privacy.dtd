@@ -56,7 +56,7 @@
 <!ENTITY  keepUntil.accesskey           "v">
 
 <!ENTITY  expire.label                  "vypršania platnosti">
-<!ENTITY  close.label                   "ukončenia &brandShortName;u">
+<!ENTITY  close.label                   "ukončenia prehliadača &brandShortName;">
 
 <!ENTITY  cookieExceptions.label        "Výnimky…">
 <!ENTITY  cookieExceptions.accesskey    "m">
@@ -99,7 +99,7 @@
 <!ENTITY  rememberSearchForm.label       "Pamätať si údaje zadané do formulárov a vyhľadávacieho panela">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "Vymazať históriu pri ukončení &brandShortName;u">
+<!ENTITY  clearOnClose.label             "Vymazať históriu pri ukončení prehliadača &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "k">
 
 <!ENTITY  clearOnCloseSettings.label     "Nastavenia…">

@@ -11,7 +11,7 @@
 <!ENTITY warnOnCloseMultipleTabs.label      "Upozorniť pri zatváraní viacerých kariet">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "o">
 
-<!ENTITY warnOnOpenManyTabs.label       "Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie &brandShortName;u">
+<!ENTITY warnOnOpenManyTabs.label       "Upozorniť, ak by otvorenie viacerých kariet spôsobilo spomalenie prehliadača &brandShortName;">
 <!ENTITY warnOnOpenManyTabs.accesskey   "U">
 
 <!ENTITY switchLinksToNewTabs.label        "Pri otvorení odkazu na novej karte ju preniesť do popredia">

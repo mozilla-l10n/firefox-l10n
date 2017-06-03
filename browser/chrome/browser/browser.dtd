@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.directory.label "Katalóg aktivácií">
 <!ENTITY social.directory.text "Služby zdieľania môžete aktivovať z katalógu.">
 <!ENTITY social.directory.button "Prejsť na katalóg">
-<!ENTITY social.directory.introText "Kliknutím na ikonu služby ju pridáte do &brandShortName;u.">
+<!ENTITY social.directory.introText "Kliknutím na ikonu služby ju pridáte do prehliadača &brandShortName;.">
 <!ENTITY social.directory.viewmore.text "Zobraziť ďalšie služby">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "Ďalšie nástroje a funkcie">

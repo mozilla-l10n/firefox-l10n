@@ -3,5 +3,5 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  settingsChangePreferences.label  "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti &brandShortName;u.">
-<!ENTITY  settingsChangeOptions.label      "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti &brandShortName;u.">
+<!ENTITY  settingsChangePreferences.label  "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti prehliadača &brandShortName;.">
+<!ENTITY  settingsChangeOptions.label      "Nastavenia je možné zmeniť na paneli Aplikácie v okne Možnosti prehliadača &brandShortName;.">
