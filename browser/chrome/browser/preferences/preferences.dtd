@@ -23,6 +23,6 @@
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Firefox-konto">
 
-<!ENTITY  helpButton2.label        "&brandShortName;-hjælp">
+<!ENTITY  helpButton2.label        "Hjælp til &brandShortName;">
 
 <!ENTITY  searchInput.label        "Søg">
