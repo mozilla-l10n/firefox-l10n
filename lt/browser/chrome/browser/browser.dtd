@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Pridėti į perpildymo meniu">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Perkelti į priemonių juostą">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "P">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Perkelti į meniu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "P">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Įsegti į perpildymo meniu">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "s">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Išsegti iš perpildymo meniu">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "I">
 <!ENTITY customizeMenu.removeFromToolbar.label "Pašalinti iš priemonių juostos">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "š">
 <!ENTITY customizeMenu.removeFromMenu.label "Pašalinti iš meniu">
@@ -688,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Baigti darbą"> 
 <!ENTITY quitApplicationCmd.accesskey   "B">
 <!ENTITY quitApplicationCmdMac2.label   "Baigti „&brandShorterName;“ darbą">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Užverti">  
 <!ENTITY closeCmd.key                   "W">  
@@ -959,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 
-
-
-
+<!ENTITY sendToDevice.label "Siųsti į įrenginį…">
+<!ENTITY sendToDevice.viewTitle "Siųsti į įrenginį">
+<!ENTITY sendToDevice.fxaRequired.label "Privaloma">
+<!ENTITY sendToDevice.noDevices.label "Įrenginių nėra">
