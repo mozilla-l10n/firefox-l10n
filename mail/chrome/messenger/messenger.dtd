@@ -74,10 +74,10 @@
 <!ENTITY synchronizeOfflineCmd.accesskey "с">
 <!ENTITY settingsOfflineCmd2.label "Желіден тыс режимінің баптаулары">
 <!ENTITY settingsOfflineCmd2.accesskey "е">
-
-
-
-
+<!ENTITY downloadSelectedCmd.label "Таңдалған хабарламаларды алу">
+<!ENTITY downloadSelectedCmd.accesskey "л">
+<!ENTITY downloadStarredCmd.label "Жұлдызшалы хабарламаларды алу">
+<!ENTITY downloadStarredCmd.accesskey "а">
 <!ENTITY printCmd.label "Баспаға шығару…">
 <!ENTITY printCmd.accesskey "ш">
 <!ENTITY printCmd.key "п">
@@ -106,8 +106,8 @@
 <!ENTITY selectThreadCmd.label "Жіп">
 <!ENTITY selectThreadCmd.accesskey "Ж">
 <!ENTITY selectThreadCmd.key "а">
-
-
+<!ENTITY selectFlaggedCmd.label "Жұлдызшалы хабарламалар">
+<!ENTITY selectFlaggedCmd.accesskey "Ж">
 
 
 <!ENTITY folderPropsCmd2.label "Қасиеттері">
@@ -293,8 +293,8 @@
 
 
 
-
-
+<!ENTITY nextStarredMsgCmd.label "Жұлдызшалы хабарлама">
+<!ENTITY nextStarredMsgCmd.accesskey "Ж">
 
 
 
@@ -315,8 +315,8 @@
 <!ENTITY goChatCmd.label "Әңгіме">
 <!ENTITY goChatCmd.accesskey "г">
 
-
-
+<!ENTITY prevStarredMsgCmd.label "Жұлдызшалы хабарлама">
+<!ENTITY prevStarredMsgCmd.accesskey "Ж">
 <!ENTITY folderMenu.label "Бума">
 <!ENTITY folderMenu.accesskey "м">
 <!ENTITY goRecentlyClosedTabs.label "Жақында жабылған беттер">
@@ -561,7 +561,7 @@
 <!ENTITY replyAllButton.tooltip "Жіберуші және барлық алушыларға жауап беру">
 <!ENTITY replyListButton.tooltip "Эл. поштаны тарату тізіміне жауап беру">
 <!ENTITY forwardButton.tooltip "Таңдалған хабарламаны қайта бағдарлау">
-
+<!ENTITY forwardAsInline.tooltip "Таңдалған хабарламаны құрамындағы мәтін ретінде қайта бағдарлау">
 <!ENTITY forwardAsAttachment.tooltip "Таңдалған хабарламаны салыным ретінде қайта бағдарлау">
 
 <!ENTITY archiveButton.tooltip "Таңдалған хабарламаны архивтеу">
@@ -605,7 +605,7 @@
 <!ENTITY appmenuEditMenu.label "Түзету">
 <!ENTITY appmenuToolbarLayout.label "Панельдер орналасуы…">
 
-
+<!ENTITY appmenuSelectFlagged.label "Жұлдызшалы хабарламаларды таңдау">
 <!-- Tags Menu Popup -->
 
 
