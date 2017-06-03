@@ -230,7 +230,7 @@
 <!ENTITY watchedThreadsWithUnreadCmd.label "Watched Threads with Unread">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "W">
 <!ENTITY ignoredThreadsCmd.label "Ignored Threads">
-<!ENTITY ignoredThreadsCmd.accesskey "i">
+<!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Headers">
 <!ENTITY headersMenu.accesskey "H">
@@ -634,6 +634,9 @@
 <!-- Folder Pane Context Menu -->
 <!ENTITY folderContextGetMessages.label "Get Messages">
 <!ENTITY folderContextGetMessages.accesskey "G">
+<!ENTITY folderContextPauseAllUpdates.label "Pause All Updates">
+<!ENTITY folderContextPauseUpdates.label "Pause Updates">
+<!ENTITY folderContextPauseUpdates.accesskey "U">
 <!ENTITY folderContextOpenInNewWindow.label "Open in New Window">
 <!ENTITY folderContextOpenInNewWindow.accesskey "O">
 <!ENTITY folderContextOpenNewTab.label "Open in New Tab">
