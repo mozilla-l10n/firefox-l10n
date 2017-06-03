@@ -126,11 +126,11 @@
 
 <!ENTITY performance.label               "Jaawgol golle">
 <!ENTITY useRecommendedPerformanceSettings.label "Huutoro teelte jaawgol golle basiyaaɗe ɗee">
-
+<!ENTITY useRecommendedPerformanceSettings.description "Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "H">
-
-
-
-
+<!ENTITY performanceSettingsLearnMore.label "Jokku taro">
+<!ENTITY limitContentProcessOption.label "Kaaɗtudi silsil loowdi">
+<!ENTITY limitContentProcessOption.description "Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.">
+<!ENTITY limitContentProcessOption.accesskey   "K">
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">

@@ -8,7 +8,7 @@
 <!ENTITY startupPage.accesskey     "u">
 <!ENTITY startupUserHomePage.label "Hollu hello maa jaɓɓorgo">
 <!ENTITY startupBlankPage.label    "Hollu hello meho">
-
+<!ENTITY startupPrevSession.label  "Hollit kenorɗe am ɗee e tabbe cakkitiiɗe">
 
 <!ENTITY homepage.label            "Hello Jaɓɓorgo:">
 <!ENTITY homepage.accesskey        "J">
@@ -28,8 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "y">
 <!ENTITY chooseFolderMac.label        "Suɓo…">
 <!ENTITY chooseFolderMac.accesskey    "o">
-
-
+<!ENTITY alwaysAskWhere.label         "Naamno-mi sahaa kala ɗo piille ndanndetee">
+<!ENTITY alwaysAskWhere.accesskey     "s">
 
 <!ENTITY alwaysCheckDefault2.label        "Ƴeewto sahaa kala so &brandShortName; ko wanngorde maa woowaande">
 <!ENTITY alwaysCheckDefault2.accesskey    "t">
