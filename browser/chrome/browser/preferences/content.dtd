@@ -21,9 +21,9 @@
 
 <!ENTITY  fontsAndColors.label        "Skrifttyper &amp; farver">
 
-<!ENTITY  defaultFont2.label           "Standardskrifttype">
+<!ENTITY  defaultFont2.label           "Standardskrifttype:">
 <!ENTITY  defaultFont2.accesskey       "k">
-<!ENTITY  defaultSize2.label           "Størrelse">
+<!ENTITY  defaultSize2.label           "Størrelse:">
 <!ENTITY  defaultSize2.accesskey       "t">
 
 <!ENTITY  advancedFonts.label         "Avanceret…">

@@ -100,6 +100,8 @@
 <!ENTITY enableSearchUpdate2.label        "Opdater automatisk søgetjenester">
 <!ENTITY enableSearchUpdate2.accesskey    "g">
 
+<!ENTITY reports.label                   "Rapporter">
+
 <!ENTITY offlineStorageNotify.label               "Fortæl mig når et websted ønsker at lagre data til brug offline">
 <!ENTITY offlineStorageNotify.accesskey           "o">
 <!ENTITY offlineStorageNotifyExceptions.label     "Undtagelser…">
@@ -123,3 +125,7 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
+<!ENTITY performance.label               "Ydelse">
+<!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
+<!ENTITY allowHWAccel.accesskey          "g">
