@@ -41,11 +41,11 @@
 <!ENTITY netInterrupt.title "اتصال مختل شد">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
-<!ENTITY notCached.title "پروندۀ منقضی">
+<!ENTITY notCached.title "پرونده منقضی شده">
 <!ENTITY notCached.longDesc "<p> پرونده درخواستی در حافظه &brandShortName; موجود نیست.</p><ul><li>برای احتیاط امنیتی بیشتر، &brandShortName; دیگر به‌طور خودکار درخواست پرونده‌های حساس نمی‌کند.</li><li>برای درخواست مجدد پرونده از این سایت، روی دکمه &quot;تلاش دوباره&quot; کلیک کنید.</li></ul>">
 
 <!ENTITY netOffline.title "حالت منفصل">
-<!ENTITY netOffline.longDesc2 "<ul><li>دکمۀ &quot;تلاش دوباره&quot; را فشار دهید  تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>">
+<!ENTITY netOffline.longDesc2 "<ul><li>دکمهٔ «تلاش دوباره» را فشار دهید تا به حالت آنلاین برگردید و صفحه را دوباره بارگذاری کنید.</li></ul>">
 
 <!ENTITY contentEncodingError.title "خطای کدگذاری محتوا">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>لطفاً با صاحبان پایگاه وب تماس بگیرید تا آنها را در جریان این مشکل قرار دهید.</li> </ul>">
@@ -66,7 +66,7 @@
 <!ENTITY proxyConnectFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>با مدیر شبکه تماس بگیرید تا مطمئن شوید که کارگزار پیشکار به درستی کار می‌کند.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "کارگزار پیشکار پیدا نشد">
-<!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانۀ شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوارآتش محافظت می‌شود، مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc "<ul> <li>بررسی کنید که تنظیمات پیشکار صحیح باشند.</li> <li>بررسی کنید تا مطمئن شوید که اتصال شبکهٔ رایانهٔ شما به درستی کار می‌کند.</li> <li>اگر رایانه یا شبکهٔ شما توسط کارگزار یا دیوار آتش محافظت می‌شود، مطمئن شوید که &brandShortName; اجازهٔ دسترسی به وب را دارد.</li> </ul>">
 
 <!ENTITY redirectLoop.title "این صفحه درست تغییر مسیر نمی‌دهد">
 <!ENTITY redirectLoop.longDesc "<ul> <li>این مشکل گاهی ممکن است به دلیل غیر فعال کردن یا خودداری از قبول کوکی‌ها به وجود بیاید.</li> </ul>">

@@ -247,8 +247,8 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
-<!ENTITY disabledUnsigned.devInfo.start "توسعه‌دهندگانی که علاقه‌مند به دریافت تاییدیۀ افزودنیهای خود هستند می تواند ادامه دهند با خواندنِ ">
-<!ENTITY disabledUnsigned.devInfo.linkToManual "کتابچۀ راهنما">
+<!ENTITY disabledUnsigned.devInfo.start "توسعه‌دهندگانی که علاقه‌مند به دریافت تاییدیهٔ افزودنی‌های خود هستند می‌توانند ادامه دهند با خواندنِ ">
+<!ENTITY disabledUnsigned.devInfo.linkToManual "کتابچهٔ راهنما">
 <!ENTITY disabledUnsigned.devInfo.end ".">
 
 <!ENTITY pluginDeprecation.description "چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط&brandShortName; پشتیبانی نمی‌شود.">
