@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Vyriešiť">
 <!ENTITY aboutNetworking.dnsDomain             "Doména">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "Adresy IP">
+<!ENTITY aboutNetworking.rcwn                  "Štatistiky RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stav RCWN">
