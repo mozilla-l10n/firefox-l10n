@@ -283,10 +283,16 @@
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "d">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Añadir al menú de desborde">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fijar al menú de desborde">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eliminar del menú de desborde">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "n">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
@@ -483,7 +489,7 @@
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmdMac2.label "Salir de &brandShorterName;">
-<!ENTITY quitApplicationCmdUnix.key "Q">
+<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
