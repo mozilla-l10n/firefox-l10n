@@ -640,7 +640,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "پ">
 <!ENTITY videoFullScreen.label       "تمام‌صفحه">
 <!ENTITY videoFullScreen.accesskey   "ت">
-<!ENTITY videoSaveImage.label        "ذخیرۀ تصویر لحظه‌ای به عنوان...">
+<!ENTITY videoSaveImage.label        "ذخیرهٔ تصویر لحظه‌ای به عنوان...">
 <!ENTITY videoSaveImage.accesskey    "ذ">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -740,7 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "اتصال امن نیست">
 <!ENTITY identity.connectionFile "این صفحه بر روی رایانه شما ذخیره شده است.">
 <!ENTITY identity.connectionVerified2 "شما بطور امن به این سایت متصل شده‌اید، متعلق به:">
-<!ENTITY identity.connectionInternal "این یک صفحۀ امن &brandShortName; است.">
+<!ENTITY identity.connectionInternal "این یک صفحهٔ امن &brandShortName; است.">
 <!ENTITY identity.extensionPage "این صفحه توسط یک افزونه بارگیری شده است.">
 <!ENTITY identity.insecureLoginForms2 "اطلاعات ورودی که در این صفحه وارد می‌کنید می‌توانند فاش شوند.">
 <!-- Strings for connection state warnings. -->

@@ -12,9 +12,9 @@
 
 <!ENTITY homepage.label            "صفحهٔ خانگی">
 <!ENTITY homepage.accesskey        "خ">
-<!ENTITY useCurrentPage.label      "استفاده از صفحۀ فعلی">
+<!ENTITY useCurrentPage.label      "استفاده از صفحهٔ فعلی">
 <!ENTITY useCurrentPage.accesskey  "ف">
-<!ENTITY useMultiple.label         "استفاده از صفحۀ فعلی">
+<!ENTITY useMultiple.label         "استفاده از صفحهٔ فعلی">
 <!ENTITY chooseBookmark.label      "استفاده از نشانک…">
 <!ENTITY chooseBookmark.accesskey  "ن">
 <!ENTITY restoreDefault.label      "بازگرداندن به پیش‌فرض‌">

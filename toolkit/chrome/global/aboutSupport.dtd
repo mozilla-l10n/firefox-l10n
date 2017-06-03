@@ -50,7 +50,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "پوشۀ حساب کاربری">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "پوشهٔ نمایه">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "متصل‌شونده‌های فعال">
 <!ENTITY aboutSupport.appBasicsBuildConfig "تنظیمات هنگام ساخت">
@@ -80,7 +80,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "باز کردن پوشه">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ترجیحات تغییر یافتۀ مهم">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ترجیحاتِ تغییر یافتهٔ مهم">
 <!ENTITY aboutSupport.modifiedPrefsName "نام">
 <!ENTITY aboutSupport.modifiedPrefsValue "مقدار">
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
