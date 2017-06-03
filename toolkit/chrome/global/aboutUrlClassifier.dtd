@@ -20,6 +20,7 @@
 <!ENTITY aboutUrlClassifier.cacheEntries                "רשומות במטמון">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "קידומת">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "תפוגת מטמון שלילית">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "גיבוב מלא">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "תפוגת מטמון חיובית">
 <!ENTITY aboutUrlClassifier.debugTitle                  "ניפוי שגיאות">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "הגדרת מודולי רישום">
