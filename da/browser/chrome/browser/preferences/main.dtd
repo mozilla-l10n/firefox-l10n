@@ -4,13 +4,13 @@
 
 <!ENTITY startup.label             "Opstart">
 
-<!ENTITY startupPage2.label         "Når &brandShortName; starter">
+<!ENTITY startupPage2.label         "Når &brandShortName; starter:">
 <!ENTITY startupPage2.accesskey     "t">
 <!ENTITY startupUserHomePage.label     "Vis min startside">
 <!ENTITY startupBlankPage.label    "Vis en tom side">
 <!ENTITY startupPrevSession.label  "Vis mine vinduer og faneblade fra sidste gang">
 
-<!ENTITY homepage2.label            "Startside">
+<!ENTITY homepage2.label            "Startside:">
 <!ENTITY homepage2.accesskey        "S">
 <!ENTITY useCurrentPage.label      "Anvend nuværende side">
 <!ENTITY useCurrentPage.accesskey  "n">
@@ -22,7 +22,7 @@
 
 <!ENTITY downloads.label     "Filhentning">
 
-<!ENTITY saveTo.label "Gem filer i">
+<!ENTITY saveTo.label "Gem filer i:">
 <!ENTITY saveTo.accesskey "m">
 <!ENTITY chooseFolderWin.label        "Gennemse…">
 <!ENTITY chooseFolderWin.accesskey    "e">

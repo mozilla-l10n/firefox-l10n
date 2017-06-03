@@ -63,11 +63,11 @@
 <!ENTITY  showCookies.label             "Vis cookies…">
 <!ENTITY  showCookies.accesskey         "V">
 
-<!ENTITY  historyHeader2.pre.label          "&brandShortName; vil">
+<!ENTITY  historyHeader2.pre.label          "&brandShortName; vil:">
 <!ENTITY  historyHeader2.pre.accesskey      "i">
-<!ENTITY  historyHeader.remember.label     "gemme historik">
-<!ENTITY  historyHeader.dontremember.label "aldrig gemme historik">
-<!ENTITY  historyHeader.custom.label       "bruge tilpassede indstillinger for historik">
+<!ENTITY  historyHeader.remember.label     "Gemme historik">
+<!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
+<!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil gemme din browser-, filhentnings-, formular- og søgehistorik, samt gemme cookies fra de websteder, du besøger.">

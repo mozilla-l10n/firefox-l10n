@@ -125,3 +125,5 @@
 <!ENTITY viewCerts.accesskey             "c">
 <!ENTITY viewSecurityDevices.label       "Sikkerhedsmoduler">
 <!ENTITY viewSecurityDevices.accesskey   "S">
+
+<!ENTITY performance.label               "Ydelse">
