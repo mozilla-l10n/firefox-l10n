@@ -138,6 +138,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "z">
 
 <!ENTITY performance.label               "Výkon">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Použiť odporúčané nastavenia výkonu">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Tieto nastavenia sú ušité na mieru podľa hardvéru a operačného systému vášho počítača.">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ďalšie informácie">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">

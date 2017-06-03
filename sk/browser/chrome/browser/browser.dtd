@@ -421,6 +421,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "o">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tip:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!--
@@ -535,6 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "i">
 <!ENTITY bookmarkThisFrameCmd.label      "Vytvoriť záložku pre tento rámec">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "V">
+<!ENTITY copyURLCmd.label             "Kopírovať adresu URL">
 <!ENTITY emailPageCmd.label           "Odoslať odkaz…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Uložiť stránku ako…">
@@ -660,6 +662,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "L">
 
 <!ENTITY sidebarCloseButton.tooltip     "Zavrieť bočný panel">
+<!ENTITY sidebarMenuClose.label         "Zavrieť bočný panel">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ukončiť prehliadač">
 <!ENTITY quitApplicationCmdWin2.accesskey   "k">
@@ -669,6 +672,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ukončiť prehliadač"> 
 <!ENTITY quitApplicationCmd.accesskey   "k">
 <!ENTITY quitApplicationCmdMac2.label   "Ukončiť &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "U">
 
 <!ENTITY closeCmd.label                 "Zavrieť">  
 <!ENTITY closeCmd.key                   "W">  
@@ -720,6 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Táto stránka je uložená vo vašom počítači.">
 <!ENTITY identity.connectionVerified2 "Pripojenie k tejto stránke je zabezpečené. Spravuje ju:">
 <!ENTITY identity.connectionInternal "Toto je bezpečná stránka prehliadača &brandShortName;">
+<!ENTITY identity.extensionPage "Táto stránka je načítaná z doplnku.">
 <!ENTITY identity.insecureLoginForms2 "Prihlasovacie údaje zadané na tejto stránke by mohli byť ohrozené.">
 
 <!-- Strings for connection state warnings. -->

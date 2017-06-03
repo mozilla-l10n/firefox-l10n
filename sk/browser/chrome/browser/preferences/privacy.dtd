@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blokovať zobrazovanie obsahu od známych sledovacích spoločností">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Len v súkromných oknách">
