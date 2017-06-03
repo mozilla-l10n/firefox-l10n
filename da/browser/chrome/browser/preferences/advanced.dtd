@@ -88,7 +88,7 @@
 <!ENTITY updateAuto2.accesskey            "A">
 <!ENTITY updateCheckChoose2.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
 <!ENTITY updateCheckChoose2.accesskey     "S">
-<!ENTITY updateManual.label2              "Søg aldrig efter opdateringer (frarådes)">
+<!ENTITY updateManual2.label              "Søg aldrig efter opdateringer (frarådes)">
 <!ENTITY updateManual2.accesskey          "N">
 
 <!ENTITY updateHistory2.label             "Vis opdateringshistorik…">
@@ -112,7 +112,7 @@
 <!ENTITY offlineAppRemove.confirm        "Fjern offline data">
 
 <!ENTITY certificateTab.label            "Certifikater">
-<!ENTITY certPersonal.description        "Når en server anmoder om mit personlige certifikat">
+<!ENTITY certPersonal2.description        "Når en server anmoder om mit personlige certifikat">
 <!ENTITY selectCerts.auto                "Vælg et automatisk">
 <!ENTITY selectCerts.auto.accesskey      "V">
 <!ENTITY selectCerts.ask                 "Spørg mig hver gang">

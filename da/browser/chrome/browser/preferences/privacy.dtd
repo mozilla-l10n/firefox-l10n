@@ -65,9 +65,9 @@
 
 <!ENTITY  historyHeader2.pre.label          "&brandShortName; vil">
 <!ENTITY  historyHeader2.pre.accesskey      "i">
-<!ENTITY  historyHeader.remember.label     "Gemme historik">
-<!ENTITY  historyHeader.dontremember.label "Aldrig gemme historik">
-<!ENTITY  historyHeader.custom.label       "Bruge tilpassede indstillinger for historik">
+<!ENTITY  historyHeader.remember.label     "gemme historik">
+<!ENTITY  historyHeader.dontremember.label "aldrig gemme historik">
+<!ENTITY  historyHeader.custom.label       "bruge tilpassede indstillinger for historik">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; vil gemme din browser-, filhentnings-, formular- og søgehistorik, samt gemme cookies fra de websteder, du besøger.">
@@ -106,7 +106,7 @@
 
 <!ENTITY  browserContainersHeader.label         "Kontekst-faneblade">
 <!ENTITY  browserContainersLearnMore.label      "Læs mere">
-<!ENTITY  browserContainersEnabled.label        "Aktivér kontekst-faneblade">
+<!ENTITY  browserContainersEnabled.label        "Aktiver kontekst-faneblade">
 <!ENTITY  browserContainersEnabled.accesskey    "A">
 <!ENTITY  browserContainersSettings.label        "Indstillinger…">
 <!ENTITY  browserContainersSettings.accesskey    "n">
