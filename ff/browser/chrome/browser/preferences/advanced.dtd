@@ -34,8 +34,8 @@
 <!ENTITY healthReportLearnMore.label     "Jokku Taro">
 
 <!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
-
-
+<!ENTITY enableTelemetryData.label       "Lollin keɓe ɓeydaaɗe (i.e., Telemeetri)">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Jokku taro">
 
 <!ENTITY crashReporterDesc2.label         "Jaŋte Kooke ena mballa &vendorShortName; ñawndude caɗe kadi ɓeyda peeragol maa deeƴde e hisde.">
@@ -94,15 +94,16 @@
  -->
 <!ENTITY updateApplication.version.pre   "Yamre">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Yamir &brandShortName; to">
+<!ENTITY updateAuto2.label               "Aaf kesɗitine e jaajol (ena wasiyaa: kisal ƴellitaama)">
+<!ENTITY updateAuto2.accesskey           "s">
+<!ENTITY updateCheckChoose2.label        "Yuurnito kesɗitine, kono woppu am mi suɓoo aafat ɗe">
+<!ENTITY updateCheckChoose2.accesskey    "Y">
+<!ENTITY updateManual2.label             "Hoto yuurnito kesɗitine (wasiyaaka)">
+<!ENTITY updateManual2.accesskey         "u">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Hollu Daartol Kesɗitine">
+<!ENTITY updateHistory2.accesskey        "e">
 
 <!ENTITY useService.label                "Huutoro carwol cakkitol ngam aafde kesɗitine">
 <!ENTITY useService.accesskey            "c">
