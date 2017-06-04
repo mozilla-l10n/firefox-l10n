@@ -63,6 +63,7 @@
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Нұсқасы ">
 <!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Жаңартуларды автоматты түрде орнату (ұсынылады: қауіпсіздікті арттырады)">
 <!ENTITY updateAuto.accesskey            "а">
