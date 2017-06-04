@@ -11,7 +11,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "Жаңартуларды тексеру">
 <!ENTITY update.checkForUpdatesButton.accesskey   "к">
-
+<!ENTITY update.updateButton.label3               "&brandShorterName; жаңарту үшін қайта іске қосыңыз">
 <!ENTITY update.updateButton.accesskey            "й">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly builds. It is only shown in this version. -->
 
