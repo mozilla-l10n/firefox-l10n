@@ -11,6 +11,8 @@
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Dernier état de mise à jour">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Mise à jour">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Actualiser">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Effacer">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Débogage">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Activer les modules de journalisation">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Définir un fichier de journalisation">
