@@ -26,3 +26,5 @@
 <!ENTITY shaderEditorUI.reloadNotice2   "این صفحه قادر به ویرایش کد GLSL می‌باشد.">
 <!-- LOCALIZATION NOTE (shaderEditorUI.emptyNotice): This is the label shown
   -  while the page is refreshing and the tool waits for a WebGL context. -->
+
+<!ENTITY shaderEditorUI.emptyNotice     "در حال انتظار برای آماده سازی زمینه WebGL جهت ایجاد شدن…">

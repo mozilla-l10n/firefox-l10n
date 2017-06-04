@@ -55,7 +55,8 @@
 
 
 
-
+<!ENTITY largerFont.label             "قلم بزرگتر">
+<!ENTITY largerFont.accesskey         "ق">
 <!ENTITY largerFont.commandkey        "+">
 <!-- + is above this key on many keyboards -->
 <!ENTITY largerFont.commandkey2       "="> 
@@ -142,4 +143,6 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 
+<!ENTITY evalFunction.label "ارزیابی تابع فعلی">
+<!ENTITY evalFunction.accesskey "v">
 <!ENTITY evalFunction.key "e">
