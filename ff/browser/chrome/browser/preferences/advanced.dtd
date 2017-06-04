@@ -36,12 +36,12 @@
 <!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
 
 
-
+<!ENTITY telemetryLearnMore.label        "Jokku taro">
 
 <!ENTITY crashReporterDesc2.label         "Jaŋte Kooke ena mballa &vendorShortName; ñawndude caɗe kadi ɓeyda peeragol maa deeƴde e hisde.">
 <!ENTITY alwaysSubmitCrashReports.label   "Yamir &brandShortName; yoo neldu jaŋte kooke ejtaaɗe caggal e innde maa">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "Jokku taro">
 
 <!ENTITY networkTab.label                "Laylaytol">
 
@@ -56,10 +56,12 @@
 <!ENTITY offlineStorage2.label           "Loowdi Geese Ceŋtol e Keɓe Kuutoro">
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
-
-
-
-
+<!ENTITY siteData.label                  "Keɓe Lowre">
+<!ENTITY clearSiteData.label             "Momtu Keɓe ɗee Fof">
+<!ENTITY clearSiteData.accesskey         "o">
+<!ENTITY siteDataSettings.label          "Teelte… ">
+<!ENTITY siteDataSettings.accesskey      "e">
+<!ENTITY siteDataLearnMoreLink.label     "Jokku taro">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -82,12 +84,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+
+<!ENTITY updateApplication.label         "Kesɗitine &brandShortName;:">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Yamre">
 <!ENTITY updateApplication.version.post  "">
 
 
