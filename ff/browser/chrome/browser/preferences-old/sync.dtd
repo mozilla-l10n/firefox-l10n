@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Aslol">
 <!ENTITY engine.history.accesskey   "o">
-
-
+<!ENTITY engine.logins.label        "Ceŋorɗe">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Ɓeyditte">
@@ -62,11 +62,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.caption            "Nawor Gees Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Sos Konte">
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
-
+<!ENTITY signedOut.accountBox.signin  "Seŋo">
 <!ENTITY signedOut.accountBox.signin.accesskey  "S">
 
+<!ENTITY signedIn.engines.label       "Sync e masiŋon fof">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

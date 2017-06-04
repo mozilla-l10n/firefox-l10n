@@ -10,10 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Huutoro ñiiƴe jamngel ngel ngam feeraade e nder kelle">
 <!ENTITY useCursorNavigation.accesskey   "g">
-
-
-
-
+<!ENTITY searchOnStartTyping.label       "Yiylo binndi so mi fuɗɗiima tappude">
+<!ENTITY searchOnStartTyping.accesskey   "n">
+<!ENTITY blockAutoReload.label           "Reentin am so lowe geese etiima yiiltude walla hesɗitinde hello ngoo">
+<!ENTITY blockAutoReload.accesskey       "e">
 <!ENTITY useOnScreenKeyboard.label       "Hollu tappirde memto so soklaama">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -23,15 +23,15 @@
 <!ENTITY useAutoScroll.accesskey         "j">
 <!ENTITY useSmoothScrolling.label        "Huutoro woragol teeyngol">
 <!ENTITY useSmoothScrolling.accesskey    "t">
-
-
+<!ENTITY checkUserSpelling.label         "Ƴeewto mbinndiin am so miɗo tappa">
+<!ENTITY checkUserSpelling.accesskey     "b">
 
 <!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
 
 <!ENTITY healthReportDesc.label          "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
 <!ENTITY enableHealthReport.label        "Hurmin &brandShortName; Health Report">
 <!ENTITY enableHealthReport.accesskey    "R">
-
+<!ENTITY healthReportLearnMore.label     "Jokku Taro">
 
 <!ENTITY telemetryDesc.label             "Lollintu keɓe moƴƴugol, kuutorgol, masiŋeeri e keertine baɗte wanngorde maa e &vendorShortName; ngam wallude min moƴƴinde &brandShortName;">
 
