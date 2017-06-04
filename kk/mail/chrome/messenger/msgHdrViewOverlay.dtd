@@ -33,26 +33,27 @@
 
 
 
-
+<!ENTITY hdrMenuForwardButton.label "Қалайша қайта бағдарлау">
 <!ENTITY hdrForwardButton1.label "Қайта бағдарлау">
-
+<!ENTITY hdrForwardButton1.tooltip "Бұл хабарламаны қайта бағдарлау">
 <!ENTITY hdrJunkButton1.label "Ескі-құсқы">
-
+<!ENTITY hdrJunkButton1.tooltip "Бұл хабарламаны қоқыс ретінде белгілеу">
 <!ENTITY hdrTrashButton1.label "Өшіру">
+<!ENTITY hdrTrashButton1.tooltip "Бұл хабарламаны өшіру">
 
-
-
-
-
+<!ENTITY hdrViewToolbarShowFull.label "Таңбашалар және мәтінді көрсету">
+<!ENTITY hdrViewToolbarShowFull.accesskey "н">
+<!ENTITY hdrViewToolbarShowIcons.label "Тек таңбашаларды көрсету">
+<!ENTITY hdrViewToolbarShowIcons.accesskey "т">
 <!ENTITY hdrViewToolbarShowText.label "Тек мәтінді көрсету">
 <!ENTITY hdrViewToolbarShowText.accesskey "т">
-
-
+<!ENTITY hdrViewToolbarAlwaysReplySender.label "Жіберушіге жауап беруді әрқашан көрсету">
+<!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "у">
 
 <!ENTITY otherActionsButton2.label "Көбірек">
 <!ENTITY otherActionsButton.tooltip "Көбірек әрекеттер">
-
-
+<!ENTITY otherActionsOpenConversation1.label "Сөйлесуде ашу">
+<!ENTITY otherActionsOpenConversation1.accesskey "С">
 <!ENTITY otherActionsOpenInNewWindow1.label "Жаңа терезеде ашу">
 <!ENTITY otherActionsOpenInNewWindow1.accesskey "р">
 <!ENTITY otherActionsOpenInNewTab1.label "Жаңа бетте ашу">
