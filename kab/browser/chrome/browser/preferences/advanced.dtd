@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "Tamellit">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "Seqdec iγewwaṛen n temellit ihulen">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Iγewwaṛen-agi wilmen i twila n warrum n uselkim inek d unagraw n wammud.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "s">
 <!ENTITY performanceSettingsLearnMore.label
