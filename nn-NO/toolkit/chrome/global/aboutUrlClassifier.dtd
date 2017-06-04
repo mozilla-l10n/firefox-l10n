@@ -12,6 +12,10 @@
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Oppdater">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Tøm">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabellnamn">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Fullstendig hash">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Feilretting">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Spesifiser loggmodular">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Spesifiser loggfil">
