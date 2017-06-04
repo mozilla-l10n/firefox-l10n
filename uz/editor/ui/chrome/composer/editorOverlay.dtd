@@ -29,7 +29,7 @@
 <!ENTITY insertMenu.accesskey "K">
 <!ENTITY insertLinkCmd2.label "Havola…">
 <!ENTITY insertLinkCmd2.accesskey "H">
-
+<!ENTITY insertLinkCmd2.key "K">
 <!ENTITY insertAnchorCmd.label "Nomlangan langar…">
 <!ENTITY insertAnchorCmd.accesskey "l">
 <!ENTITY insertImageCmd.label "Rasm…">
@@ -140,7 +140,7 @@
 <!ENTITY tableOrCellColor.accesskey "o">
 
 <!ENTITY formatRemoveStyles.key "Y">
-
+<!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Nomlangan langarni olib tashlash">
 <!ENTITY formatRemoveNamedAnchors.accesskey "o">
 <!ENTITY formatRemoveNamedAnchors2.key "R">
