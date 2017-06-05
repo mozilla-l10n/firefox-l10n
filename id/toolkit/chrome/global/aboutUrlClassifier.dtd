@@ -13,8 +13,13 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Segarkan">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Hapus">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Nama tabel">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Jumlah entri tembolok negatif">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Jumlah entri tembolok positif">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Tampilkan entri">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Entri Tembolok">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Atur Modul Log">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Atur Berkas Log">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Atur Log JS">
+<!ENTITY aboutUrlClassifier.debugFile                   "Berkas log saat ini">
