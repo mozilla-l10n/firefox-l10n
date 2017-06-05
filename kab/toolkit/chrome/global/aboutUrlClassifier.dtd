@@ -19,6 +19,8 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Sken-d inekcam">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Ffer inekcam">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Azdawṣil">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Tuffirt tuzdirt temmut">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Adway iččuren">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Tuffirt tufrirt temmut">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
