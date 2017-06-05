@@ -18,6 +18,7 @@
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Amḍan n inekcam d ufrir n tuffirt">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Sken-d inekcam">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Ffer inekcam">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Azdawṣil">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Sbadu izegrar iγmisen">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Sbadu afaylu aɣmis">
