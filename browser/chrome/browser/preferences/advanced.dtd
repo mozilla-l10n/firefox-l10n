@@ -108,10 +108,13 @@
 <!ENTITY useService.label                "Huutoro carwol cakkitol ngam aafde kesɗitine">
 <!ENTITY useService.accesskey            "c">
 
+<!ENTITY enableSearchUpdate2.label       "Kesɗitingol ajaaja jiylorɗe">
+<!ENTITY enableSearchUpdate2.accesskey   "l">
 
+<!ENTITY reports.label                   "Ciimti">
 
-
-
+<!ENTITY offlineStorageNotify.label               "&amp;Haalan mo so lowre geese naamniima mooftude keɓe ngam huutoreede e ceŋtol">
+<!ENTITY offlineStorageNotify.accesskey           "g">
 <!ENTITY offlineStorageNotifyExceptions.label     "Paltooje…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "l">
 
@@ -122,11 +125,11 @@
 <!ENTITY offlineAppRemove.confirm        "Momtu keɓe ceŋtol ɗee">
 
 <!ENTITY certificateTab.label            "Seedamfaaji">
-
+<!ENTITY certPersonal2.description       "So sarworde ɗaɓɓii seedamfaagu maa keeriingu:">
 <!ENTITY selectCerts.auto                "Labo gootal e jaajol">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "D">
+<!ENTITY selectCerts.ask                 "Naamno mo e sahaa kala">
+<!ENTITY selectCerts.ask.accesskey       "Y">
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
 <!ENTITY viewCerts.label                 "Hollu Seedamfaaji">
@@ -134,12 +137,13 @@
 <!ENTITY viewSecurityDevices.label       "Kaɓirɗi Kisal">
 <!ENTITY viewSecurityDevices.accesskey   "ɓ">
 
-
-
-
-
-
-
-
+<!ENTITY performance.label               "Jaawgol golle ">
+<!ENTITY useRecommendedPerformanceSettings2.label "Huutoro teelte jaawgol golle basiyaaɗe ɗee">
+<!ENTITY useRecommendedPerformanceSettings2.description "Ɗee teelte ina njahdi e kaɓirɗe kam e dognirgal ordinateer maa.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "H">
+<!ENTITY performanceSettingsLearnMore.label "Jokku taro">
+<!ENTITY limitContentProcessOption.label "Kaaɗtudi silsil loowdi">
+<!ENTITY limitContentProcessOption.description "Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.">
+<!ENTITY limitContentProcessOption.accesskey   "K">
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">

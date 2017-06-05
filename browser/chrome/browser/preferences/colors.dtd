@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "54em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Lomtinir noorɗe ɗe hello ngoo sifii cuɓanɗe maa les ɗee:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Sahaa kala">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Yoo wonat ciŋkooje laaɓtuɗe tan">
