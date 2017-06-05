@@ -183,7 +183,7 @@
 
 <!ENTITY addon.homepage                       "Página inicial">
 <!ENTITY addon.details.label                  "Mais">
-<!ENTITY addon.details.tooltip                "Mostrar mais detalhes sobre este extra">
+<!ENTITY addon.details.tooltip                "Mostrar mais detalhes acerca deste extra">
 <!ENTITY addon.unknownDate                    "Desconhecido">
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
