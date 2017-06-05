@@ -8,7 +8,7 @@
 <!ENTITY loadError.label "पृष्ठ दाखल करतेवेळी समस्या">
 <!ENTITY retry.label "पुन्हा प्रयत्न करा">
 <!ENTITY returnToPreviousPage.label "मागे जा">
-
+<!ENTITY advanced.label "प्रगत">
 <!-- Specific error messages -->
 
 

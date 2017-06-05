@@ -1,6 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY  trackingProtectionHeader2.label      "मागोवा संरक्षण">
 <!ENTITY  trackingProtection.description       "जेव्हा कंपनी एक प्रोफाइल बनवायची आपल्याकडून माहिती गोळा करतात आणि आपल्या ब्राऊझिंग आणि वैयक्तिक माहिती वरून मजकूर दर्शवतात, त्यास मागोवा घेणे किंवा ट्रॅकिंग म्हणतात.">
 <!ENTITY  trackingProtection.radioGroupLabel   "माहित असलेल्या मागोवा घेणाऱ्या कंपनींना मजकूर दर्शवण्यापासून प्रतिबंधित करा">
 <!ENTITY  trackingProtectionAlways.label       "नेहमी">
@@ -30,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "ठिकाण पट्टी">
 
+<!ENTITY  locbar.suggest2.label         "स्थान पट्टी वापरतेवेळी, सूचवा">
 <!ENTITY  locbar.history.label          "इतिहास">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "वाचनखूण">
