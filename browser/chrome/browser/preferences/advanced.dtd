@@ -138,5 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "K">
 
 <!ENTITY performance.label               "Kinerja">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Gunakan setelan kinerja yang disarankan">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Setelan ini dirancang untuk perangkat keras dan sistem operasi komputer Anda.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "G">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Pelajari lebih lanjut">
+<!ENTITY limitContentProcessOption.label "Batas proses konten">
+<!ENTITY limitContentProcessOption.description
+                                         "Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.">
+<!ENTITY limitContentProcessOption.accesskey   "P">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "a">
