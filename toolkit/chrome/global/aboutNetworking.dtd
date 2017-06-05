@@ -24,13 +24,13 @@
 <!ENTITY aboutNetworking.received              "Recebido">
 <!ENTITY aboutNetworking.family                "Família">
 <!ENTITY aboutNetworking.addresses             "Endereços">
-<!ENTITY aboutNetworking.expires               "Expira (Segundos)">
+<!ENTITY aboutNetworking.expires               "Expira (segundos)">
 <!ENTITY aboutNetworking.messagesSent          "Mensagens enviadas">
 <!ENTITY aboutNetworking.messagesReceived      "Mensagens recebidas">
 <!ENTITY aboutNetworking.bytesSent             "Bytes enviados">
 <!ENTITY aboutNetworking.bytesReceived         "Bytes recebidos">
 <!ENTITY aboutNetworking.logging               "Registos">
-<!ENTITY aboutNetworking.logTutorial           "Veja <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> para instruções em como utilizar esta ferramenta.">
+<!ENTITY aboutNetworking.logTutorial           "Veja <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>HTTP Logging</a> para instruções sobre como utilizar esta ferramenta.">
 <!ENTITY aboutNetworking.currentLogFile        "Ficheiro de registo atual:">
 <!ENTITY aboutNetworking.currentLogModules     "Módulos de registo atuais:">
 <!ENTITY aboutNetworking.setLogFile            "Definir ficheiro de registo">
