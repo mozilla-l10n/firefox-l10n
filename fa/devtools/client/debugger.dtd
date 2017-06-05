@@ -179,6 +179,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.removeWatch): This is the text that
   -  appears in the watch expressions context menu for removing all expressions. -->
 
+<!ENTITY debuggerUI.removeAllWatch           "حذف تمامی عبارت های مشاهده">
+
 
 <!-- LOCALIZATION NOTE (debuggerUI.stepping): These are the keycodes that
   -  control the stepping commands in the debugger (continue, step over,
