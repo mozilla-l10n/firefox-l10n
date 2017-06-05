@@ -8,16 +8,16 @@
 <!ENTITY zoomWindow.label         "Zväčšiť okno">
 <!ENTITY windowMenu.label         "Okno">
 
-<!ENTITY helpMenu.label           "Pomocník">
-<!ENTITY helpMenu.accesskey       "P">
+<!ENTITY helpMenu.label           "Pomocník"> 
+<!ENTITY helpMenu.accesskey       "P"> 
 <!-- LOCALIZATION NOTE some localizations of Windows (ex:french, german) use "?"
                        for the help button in the menubar but Gnome does not.   -->
-<!ENTITY helpMenuWin.label        "Pomocník">
+<!ENTITY helpMenuWin.label        "Pomocník"> 
 <!ENTITY helpMenuWin.accesskey    "P">
-<!ENTITY aboutProduct2.label       "O prehliadači &brandShorterName;">
-<!ENTITY aboutProduct2.accesskey   "O">
-<!ENTITY productHelp2.label        "Pomocník prehliadača &brandShorterName;">
-<!ENTITY productHelp2.accesskey    "P">
+<!ENTITY aboutProduct2.label      "O prehliadači &brandShorterName;">
+<!ENTITY aboutProduct2.accesskey  "O">
+<!ENTITY productHelp2.label       "Pomocník prehliadača &brandShorterName;">
+<!ENTITY productHelp2.accesskey   "P">
 <!ENTITY helpMac.commandkey       "?">
 
 <!ENTITY helpKeyboardShortcuts.label     "Klávesové skratky">
@@ -28,25 +28,25 @@
 <!ENTITY helpSafeMode.stop.label       "Reštartovať a povoliť doplnky…">
 <!ENTITY helpSafeMode.stop.accesskey   "R">
 
-<!ENTITY healthReport2.label       "Správa o kondícii prehliadača &brandShorterName;">
-<!ENTITY healthReport2.accesskey   "S">
+<!ENTITY healthReport2.label      "Správa o kondícii prehliadača &brandShorterName;">
+<!ENTITY healthReport2.accesskey  "S">
 
 <!ENTITY helpTroubleshootingInfo.label      "Informácie pre riešenie problémov">
 <!ENTITY helpTroubleshootingInfo.accesskey  "n">
 
-<!ENTITY helpFeedbackPage.label      "Odoslať svoj názor…">
+<!ENTITY helpFeedbackPage.label      "Odoslať spätnú väzbu…">
 <!ENTITY helpFeedbackPage.accesskey  "d">
 
-<!ENTITY helpShowTour2.label             "Prehliadka prehliadača &brandShorterName;">
-<!ENTITY helpShowTour2.accesskey         "h">
+<!ENTITY helpShowTour2.label            "Prehliadka prehliadača &brandShorterName;">
+<!ENTITY helpShowTour2.accesskey        "h">
 
 <!ENTITY preferencesCmdMac.label        "Možnosti…">
 <!ENTITY preferencesCmdMac.commandkey   ",">
 
 <!ENTITY servicesMenuMac.label          "Služby">
 
-<!ENTITY hideThisAppCmdMac2.label        "Skryť &brandShorterName;">
-<!ENTITY hideThisAppCmdMac2.commandkey   "H">
+<!ENTITY hideThisAppCmdMac2.label       "Skryť &brandShorterName;">
+<!ENTITY hideThisAppCmdMac2.commandkey  "H">
 
 <!ENTITY hideOtherAppsCmdMac.label      "Skryť ostatné">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
