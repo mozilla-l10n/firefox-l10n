@@ -283,11 +283,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Experimentálne funkcie">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Prispôsobené karty">
-<!ENTITY pref_custom_tabs_summary3 "Povoliť aplikáciám otvárať webové stránky s použitím upravenej verzie aplikácie &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Otvoriť v aplikácii &formatS;">
@@ -403,9 +398,9 @@
 
 <!ENTITY pref_default_browser "Nastaviť ako predvolený prehliadač">
 <!ENTITY pref_default_browser_mozilla_support_tablet "Navštíviť Podporu Mozilly">
-<!ENTITY pref_about_firefox "Čo je &brandShortName;">
+<!ENTITY pref_about_firefox "O prehliadači &brandShortName;">
 <!ENTITY pref_vendor_faqs "Často kladené otázky">
-<!ENTITY pref_vendor_feedback "Odoslať názor">
+<!ENTITY pref_vendor_feedback "Odoslať spätnú väzbu">
 
 <!ENTITY pref_dialog_set_default "Nastaviť ako predvolený">
 <!ENTITY pref_dialog_default "Predvolený">
