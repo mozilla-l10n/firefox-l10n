@@ -14,6 +14,8 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Smiren">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Sfeḍ">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Isem n tfelwit">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Amḍan n inekcam d uzdir n tuffirt">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Amḍan n inekcam d ufrir n tuffirt">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Sken-d inekcam">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Ffer inekcam">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Taseγtit">
