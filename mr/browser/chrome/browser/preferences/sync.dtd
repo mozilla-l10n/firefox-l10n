@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "साधनाचे नाव:">
-
-
+<!ENTITY changeSyncDeviceName2.label "साधनाचे नाव बदला…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "रद्द करा">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "जतन करा">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "प्रोफाइल प्रतिमा बदला">
 <!ENTITY verifiedManage.label        "खाते व्यवस्थापित करा">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "जोडणी मोडा…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ईमेल सत्यापित करा">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "हा ईमेल विसरा">
