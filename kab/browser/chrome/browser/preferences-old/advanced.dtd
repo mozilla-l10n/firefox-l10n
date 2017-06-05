@@ -134,6 +134,8 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "Issin ugar">
 <!ENTITY limitContentProcessOption.label "Azal afellay n ukala n ugbur">
+<!ENTITY limitContentProcessOption.description
+                                         "Ikalan n ugbur nniḍen zemren ad qaεḍen ugar tamellit di lawan n useqdec n waṭas acaren, maca akka ad iseqdec aṭas n tkatut.">
 <!ENTITY limitContentProcessOption.accesskey   "Y">
 <!ENTITY allowHWAccel.label              "Seqdec tasɣiwelt tudlift n warrum ma tella">
 <!ENTITY allowHWAccel.accesskey          "q">
