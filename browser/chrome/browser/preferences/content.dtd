@@ -21,9 +21,10 @@
 
 <!ENTITY  fontsAndColors.label        "Letra-tipoak eta koloreak">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Letra-tipo lehenetsia">
+<!ENTITY  defaultFont2.accesskey      "n">
+<!ENTITY  defaultSize2.label          "Tamaina">
+<!ENTITY  defaultSize2.accesskey      "T">
 
 <!ENTITY  advancedFonts.label         "Aurreratua…">
 <!ENTITY  advancedFonts.accesskey     "u">

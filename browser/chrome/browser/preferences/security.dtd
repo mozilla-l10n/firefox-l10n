@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Segurtasuna">
+
 <!ENTITY  warnOnAddonInstall.label        "Abisatu gune bat gehigarriak instalatzen saiatzen bada">
 <!ENTITY  warnOnAddonInstall.accesskey    "A">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -22,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "S">
 
 
+<!ENTITY  formsAndPasswords.label       "Inprimakiak eta pasahitzak">
 
+<!ENTITY  rememberLogins1.label          "Gogoratu webguneetako saio-hasierak eta pasahitzak">
+<!ENTITY  rememberLogins1.accesskey      "G">
 <!ENTITY  passwordExceptions.label      "Salbuespenak…">
 <!ENTITY  passwordExceptions.accesskey  "n">
 

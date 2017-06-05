@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Baimendu &brandShortName; eta Firefox aldi berean exekutatzea">
 <!ENTITY useFirefoxSync.label             "Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili Sync hauen artean datuak partekatzeko.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Hasi saioa &syncBrand.shortName.label;(e)n…">
+<!ENTITY getStarted.configured.label      "Ireki &syncBrand.shortName.label; hobespenak">
 
 <!ENTITY e10sEnabled.label                "Gaitu multiprozesu moduko &brandShortName;">

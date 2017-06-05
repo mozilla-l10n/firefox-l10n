@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "H">
-
-
+<!ENTITY engine.logins.label        "Saio-hasierak">
+<!ENTITY engine.logins.accesskey    "S">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
 <!ENTITY engine.addons.label        "Gehigarriak">

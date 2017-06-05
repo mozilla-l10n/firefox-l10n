@@ -30,6 +30,7 @@
 
 <!ENTITY  locationBar.label             "Helbide-barra">
 
+<!ENTITY  locbar.suggest2.label         "Helbide-barra erabiltzean, gomendatu">
 <!ENTITY  locbar.history.label          "Historia">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Laster-markak">
@@ -39,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "Bilaketa-motor lehenetsiko erlazionatutako bilaketak">
 <!ENTITY  locbar.searches.accesskey     "z">
 
+<!ENTITY  suggestionSettings2.label     "Aldatu bilaketa-motorren iradokizunetarako hobespenak">
 
 <!ENTITY  acceptCookies.label           "Onartu guneetako cookieak">
 <!ENTITY  acceptCookies.accesskey       "O">

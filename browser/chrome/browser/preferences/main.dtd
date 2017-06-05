@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Abioa">
 
-
+<!ENTITY startupPage2.label        "&brandShortName; abiatzean">
+<!ENTITY startupPage2.accesskey    "z">
 <!ENTITY startupUserHomePage.label "Erakutsi hasiera-orria">
 <!ENTITY startupBlankPage.label    "Erakutsi orri hutsa">
 <!ENTITY startupPrevSession.label  "Berreskuratu azken saioko fitxak eta leihoak">
 
-
+<!ENTITY homepage2.label           "Hasiera-orria">
+<!ENTITY homepage2.accesskey       "H">
 <!ENTITY useCurrentPage.label      "Erabili uneko orria">
 <!ENTITY useCurrentPage.accesskey  "u">
 <!ENTITY useMultiple.label         "Erabili uneko orriak">
@@ -38,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Baimendu &brandShortName; eta Firefox aldi berean exekutatzea">
 <!ENTITY useFirefoxSync.label             "Aholkua: bereizitako profilak erabiltzen ditu honek. Erabili Sync hauen artean datuak partekatzeko.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Hasi saioa &syncBrand.shortName.label;(e)n…">
+<!ENTITY getStarted.configured.label      "Ireki &syncBrand.shortName.label; hobespenak">
 
 <!ENTITY e10sEnabled.label                "Gaitu multiprozesu moduko &brandShortName;">
