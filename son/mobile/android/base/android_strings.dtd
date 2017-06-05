@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; hayiizey">
 <!ENTITY bookmark_folder_one_item "Hayiize 1">
 <!ENTITY bookmark_parent_folder "Ihayra foolo">
-
+<!ENTITY bookmark_add_folder "Foolo taaga tonton">
 
 <!ENTITY reader_saved_offline "Gaabundi bila nda interneti">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -543,7 +543,7 @@
 <!ENTITY bookmark_edit_name "Maa">
 <!ENTITY bookmark_edit_location "Gorodoo">
 <!ENTITY bookmark_edit_keyword "Kufalkalima">
-
+<!ENTITY bookmark_select_folder "Foolo suuba">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
