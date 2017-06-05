@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "San Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "Yamir kelle yo kuutoro ponte mum en keeriiɗe waasa wonde ɗe am dow ɗoo ɗee">
+<!ENTITY  allowPagesToUseOwn.accesskey            "Y">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Dokkitannde binndol Loowdi Gaadanteeri">
 <!ENTITY languages.customize.Fallback2.label      "Dokkitannde Binndol Ɓartorde:">
