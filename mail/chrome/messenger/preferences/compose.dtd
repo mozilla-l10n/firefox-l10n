@@ -25,7 +25,7 @@
 <!ENTITY bgColor.label                        "Цвят на фона:">
 <!ENTITY bgColor.accesskey                    "ф">
 <!ENTITY restoreHTMLDefaults.label            "Стандартни настройки">
-<!ENTITY restoreHTMLDefaults.accesskey        "ъ">
+<!ENTITY restoreHTMLDefaults.accesskey        "с">
 <!ENTITY defaultToParagraph.label             "За формат по подразбиране да се използва Абзац вместо Основен текст">
 <!ENTITY defaultToParagraph.accesskey         "ф">
 
