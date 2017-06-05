@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "t">
 <!ENTITY engine.history.label       "Historia">
 <!ENTITY engine.history.accesskey   "H">
-
-
+<!ENTITY engine.logins.label        "Saio-hasierak">
+<!ENTITY engine.logins.accesskey    "S">
 <!ENTITY engine.prefs.label         "Hobespenak">
 <!ENTITY engine.prefs.accesskey     "o">
 <!ENTITY engine.addons.label        "Gehigarriak">
@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Gailuaren izena">
-
-
+<!ENTITY changeSyncDeviceName2.label "Aldatu gailuaren izena…">
+<!ENTITY changeSyncDeviceName2.accesskey "d">
 <!ENTITY cancelChangeSyncDeviceName.label "Utzi">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "U">
 <!ENTITY saveChangeSyncDeviceName.label "Gorde">
@@ -52,8 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Aldatu profileko argazkia">
 <!ENTITY verifiedManage.label        "Kudeatu kontua">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "Deskonektatu…">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "Egiaztatu helbide elektronikoa">
 <!ENTITY verify.accesskey            "E">
 <!ENTITY forget.label                "Ahaztu helbide elektroniko hau">
@@ -67,6 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "Hasi saioa">
 <!ENTITY signedOut.accountBox.signin.accesskey  "H">
 
+<!ENTITY signedIn.settings.label       "Sinkronizazio-ezarpenak">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

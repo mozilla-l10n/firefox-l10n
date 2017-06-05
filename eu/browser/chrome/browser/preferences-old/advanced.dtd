@@ -31,17 +31,17 @@
 <!ENTITY healthReportDesc.label          "Nabigatzailearen errendimendua ulertzen laguntzen dizu eta nabigatzailearen osasunaren inguruko datuak partekatzen ditu &vendorShortName;(r)ekin">
 <!ENTITY enableHealthReport.label        "Gaitu &brandShortName;(r)en osasun-txostena">
 <!ENTITY enableHealthReport.accesskey    "o">
-
+<!ENTITY healthReportLearnMore.label     "Argibide gehiago">
 
 <!ENTITY telemetryDesc.label             "Nabigatzailearen errendimenduaren, erabilpenaren, hardwarearen eta pertsonalizazioen inguruko datuak partekatzen ditu &vendorShortName;(r)ekin &brandShortName; hobetzen laguntzeko">
 <!ENTITY enableTelemetryData.label       "Partekatu datu gehigarriak (adib. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Argibide gehiago">
 
 <!ENTITY crashReporterDesc2.label         "Hutsegite-txostenek arazoak konpondu eta zure nabigatzailea egonkor eta seguruagoa egiten laguntzen diote &vendorShortName;(r)i">
 <!ENTITY alwaysSubmitCrashReports.label   "Baimendu &brandShortName;(r)i atzeratutako hutsegite-txostenak zuregatik bidaltzea">
 <!ENTITY alwaysSubmitCrashReports.accesskey "B">
-
+<!ENTITY crashReporterLearnMore.label     "Argibide gehiago">
 
 <!ENTITY networkTab.label                "Sarea">
 
@@ -61,7 +61,7 @@
 <!ENTITY clearSiteData.accesskey         "G">
 <!ENTITY siteDataSettings.label          "Ezarpenak…">
 <!ENTITY siteDataSettings.accesskey      "E">
-
+<!ENTITY siteDataLearnMoreLink.label     "Argibide gehiago">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -124,10 +124,11 @@
 <!ENTITY viewSecurityDevices.label       "Segurtasun-gailuak">
 <!ENTITY viewSecurityDevices.accesskey   "S">
 
+<!ENTITY performance.label               "Errendimendua">
+<!ENTITY useRecommendedPerformanceSettings.label "Erabili gomendatutako errendimendu-ezarpenak">
 
-
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey "E">
+<!ENTITY performanceSettingsLearnMore.label "Argibide gehiago">
 
 
 

@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Garbitu azken historia…">
 <!ENTITY appMenuHistory.restoreSession.label "Berreskuratu aurreko saioa">
 <!ENTITY appMenuHistory.viewSidebar.label "Ikusi historiaren alboko barra">
-
+<!ENTITY appMenuHelp.label "Laguntza">
 <!ENTITY appMenuHelp.tooltip "Ireki laguntza-menua">
 
 <!ENTITY appMenuRemoteTabs.label "Sinkronizatutako fitxak">
@@ -377,7 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Sync hobespenak">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Hasi saioa zure beste gailuetako fitxak ikusteko.">
 <!ENTITY appMenuRemoteTabs.signin.label "Hasi saioa Sync-en">
-
+<!ENTITY appMenuRemoteTabs.managedevices.label "Kudeatu gailuak…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ikusi sinkronizatutako fitxen alboko barra">
 
 <!ENTITY customizeMenu.addToToolbar.label "Gehitu tresna-barran">
@@ -431,10 +431,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "B">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Aldatu aukerak…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "A">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Aldatu hobespenak…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "A">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -548,7 +548,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Egin marko honen laster-marka">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Kopiatu URLa">
 <!ENTITY emailPageCmd.label           "Bidali lotura postaz…">
 <!ENTITY emailPageCmd.accesskey       "s">
 <!ENTITY savePageCmd.label            "Gorde orria honela…">
@@ -675,7 +675,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Itxi alboko barra">
-
+<!ENTITY sidebarMenuClose.label         "Itxi alboko barra">
 
 <!ENTITY quitApplicationCmdWin2.label       "Irten">
 <!ENTITY quitApplicationCmdWin2.accesskey   "I">
@@ -685,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Irten"> 
 <!ENTITY quitApplicationCmd.accesskey   "I">
 <!ENTITY quitApplicationCmdMac2.label   "Irten &brandShorterName;(e)tik">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Itxi">  
 <!ENTITY closeCmd.key                   "W">  
@@ -729,6 +729,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Gehitu hiztegiak…">
 <!ENTITY spellAddDictionaries.accesskey "G">
 
+<!ENTITY editBookmark.done.label                     "Eginda">
 <!ENTITY editBookmark.removeBookmark.accessKey       "K">
 
 <!ENTITY identity.connectionSecure "Konexio segurua">
@@ -736,7 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Orri hau zure ordenagailuan biltegiratuta dago.">
 <!ENTITY identity.connectionVerified2 "Modu seguruan zaude konektatuta gune honetara. Arduraduna:">
 <!ENTITY identity.connectionInternal "&brandShortName; orri segurua da hau.">
-
+<!ENTITY identity.extensionPage "Orri hau gehigarri batetik kargatu da.">
 <!ENTITY identity.insecureLoginForms2 "Orri honetan sartutako saio-hasierak arriskuan egon litezke.">
 <!-- Strings for connection state warnings. -->
 
@@ -809,8 +810,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "Ireki guztiak fitxetan">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "I">
-
-
+<!ENTITY syncedTabs.context.managedevices.label              "Kudeatu gailuak…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "g">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -835,9 +836,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Tresna gehiago nahi dituzu?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Aukeratu milaka gehigarriren artetik">
 <!ENTITY customizeMode.restoreDefaults "Berrezarri lehenetsiak">
-
+<!ENTITY customizeMode.done "Eginda">
 <!ENTITY customizeMode.titlebar "Titulu-barra">
-
+<!ENTITY customizeMode.toolbars2 "Tresna-barrak">
 <!ENTITY customizeMode.lwthemes "Itxurak">
 <!ENTITY customizeMode.lwthemes.myThemes "Nire itxurak">
 <!ENTITY customizeMode.lwthemes.recommended "Gomendatuak">
@@ -936,23 +937,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "e">
 <!ENTITY updateAvailable.panelUI.label "Deskargatu &brandShorterName; eguneraketa">
 
+<!ENTITY updateManual.message "Deskargatu &brandShorterName; nabigatzailearen kopia berri bat eta instalatzen lagunduko dizugu.">
 
-
+<!ENTITY updateManual.header.message "Ezin da &brandShorterName; azken bertsiora eguneratu.">
 <!ENTITY updateManual.acceptButton.label "Deskargatu &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
-
-
-
+<!ENTITY updateManual.cancelButton.label "Une honetan ez">
+<!ENTITY updateManual.cancelButton.accesskey "z">
+<!ENTITY updateManual.panelUI.label "Deskargatu &brandShorterName; nabigatzailearen kopia berri bat">
 
 <!ENTITY updateRestart.message "Berrabiarazi eta gero &brandShorterName;(e)k irekitako fitxak eta leihoak berrezarriko ditu.">
 <!ENTITY updateRestart.header.message2 "Berrabiarazi &brandShorterName; eguneratzeko.">
 
 
+<!ENTITY updateRestart.cancelButton.label "Une honetan ez">
+<!ENTITY updateRestart.cancelButton.accesskey "z">
+<!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
 
-
-
-
-
-
-
+<!ENTITY sendToDevice.label "Bidali gailura…">
+<!ENTITY sendToDevice.viewTitle "Bidali gailura">
+<!ENTITY sendToDevice.fxaRequired.label "Beharrezkoa">
+<!ENTITY sendToDevice.noDevices.label "Gailu erabilgarririk ez">

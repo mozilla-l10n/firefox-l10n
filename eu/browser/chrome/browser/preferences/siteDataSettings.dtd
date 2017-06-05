@@ -6,8 +6,8 @@
 <!ENTITY     hostCol.label                 "Gunea">
 <!ENTITY     statusCol.label               "Egoera">
 <!ENTITY     usageCol.label                "Biltegiratzea">
-
-
+<!ENTITY     searchTextboxPlaceHolder             "Bilatu webguneak">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "B">
 <!ENTITY     removeSelected.label          "Kendu hautatutakoak">
 <!ENTITY     removeSelected.accesskey      "K">
 <!ENTITY     save.label                    "Gorde aldaketak">
