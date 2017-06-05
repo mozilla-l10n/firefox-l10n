@@ -820,7 +820,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Cuir leis na Leabharmharcanna">
 
 <!ENTITY activity_stream_topsites "Na Suímh Is Fearr">
-<!ENTITY activity_stream_highlights "Buachphointí">
+<!ENTITY activity_stream_highlights "Buaicphointí">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
 
