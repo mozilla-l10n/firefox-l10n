@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "प्रारंभीकरण">
 
-
+<!ENTITY startupPage2.label        "जेव्हा &brandShortName; सुरू होते">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "माझे मुख्य पृष्ठ दाखवा">
 <!ENTITY startupBlankPage.label    "रिक्त पृष्ठ दाखवा">
 <!ENTITY startupPrevSession.label  "शेवटच्या वेळे पासून माझ्या विंडोज आणि टॅब्स दाखवा">
 
-
+<!ENTITY homepage2.label           "मुख्य पृष्ठ">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "सध्याच्या पृष्ठाचे वापर करा">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "सध्याच्या पृष्ठांचा वापर करा">
