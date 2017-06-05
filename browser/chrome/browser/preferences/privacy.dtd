@@ -42,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "पूर्वनिर्धारित शोध इंजिनमधून संबधित शोध">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "शोध इंजिनसाठी सूचना प्राधान्यता बदला">
 
 <!ENTITY  acceptCookies.label           "स्थळांकडून कूकीज स्वीकारा">
 <!ENTITY  acceptCookies.accesskey       "A">
@@ -64,7 +65,8 @@
 <!ENTITY  showCookies.label             "कुकीज दाखवा…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; करेल">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "इतिहास लक्षात ठेवा">
 <!ENTITY  historyHeader.dontremember.label "इतिहास कधीच लक्षात ठेवु नका">
 <!ENTITY  historyHeader.custom.label       "इतिहासा करीता मनपसंत संयोजना वापरा">
