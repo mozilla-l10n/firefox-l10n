@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuγel">
+<!ENTITY  trackingProtection.description       "D ayen irzan asfuγel ma tikbbanin ad leqḍent talγut i k-yaεnan akken ad xedment amaγnu u sakin ad k-d-seknent agbur iddan akked isefka inek udwaman akked isefka n tunigin">
+<!ENTITY  trackingProtection.radioGroupLabel   "Sewḥel asfuγel n tkebbaniyen tirusinin seg uskan n ugbur">
 <!ENTITY  trackingProtectionAlways.label       "Yal ass">
 <!ENTITY  trackingProtectionAlways.accesskey   "Y">
 <!ENTITY  trackingProtectionPrivate.label      "Γef usfaylu uslig kan">
