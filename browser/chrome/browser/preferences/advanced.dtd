@@ -142,7 +142,13 @@
                                          "Použiť odporúčané nastavenia výkonu">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Tieto nastavenia sú ušité na mieru podľa hardvéru a operačného systému vášho počítača.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "u">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Ďalšie informácie">
+<!ENTITY limitContentProcessOption.label "Limit procesov obsahu">
+<!ENTITY limitContentProcessOption.description
+                                         "Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
 <!ENTITY allowHWAccel.accesskey          "h">
