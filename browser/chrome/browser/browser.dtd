@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Дадаць у меню перапаўнення">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "Д">
 <!ENTITY customizeMenu.moveToToolbar.label "Перамясціць на паліцу прылад">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "е">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Перамясціць у меню">
 <!ENTITY customizeMenu.moveToPanel.accesskey "р">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Замацаваць у меню перапаўнення">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "З">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Адмацаваць з меню перапаўнення">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "А">
 <!ENTITY customizeMenu.removeFromToolbar.label "Выдаліць з паліцы прылад">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "В">
 <!ENTITY customizeMenu.removeFromMenu.label "Выдаліць з меню">
@@ -682,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Выйсці"> 
 <!ENTITY quitApplicationCmd.accesskey   "В">
 <!ENTITY quitApplicationCmdMac2.label   "Выйсці з &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Закрыць">  
 <!ENTITY closeCmd.key                   "W">  
