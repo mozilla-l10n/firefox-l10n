@@ -25,7 +25,7 @@
 <!ENTITY fileAccessDenied.title "O acesso ao ficheiro foi negado">
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Pode ter sido removido, movido, ou as permissões do ficheiro podem estar a prevenir o acesso.</li> </ul>">
 
-<!ENTITY generic.title "Bolas">
+<!ENTITY generic.title "Oops.">
 <!ENTITY generic.longDesc "<p>O &brandShortName; não conseguiu carregar a página por algum motivo.</p>">
 
 <!ENTITY malformedURI.title "O endereço não é válido">
