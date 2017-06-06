@@ -92,6 +92,9 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "버전 ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName; 설치 방법">
 <!ENTITY updateAuto2.label               "업데이트 자동 설치(보안을 위해 권장됨)">
 <!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "새로운 업데이트를 확인하지만 설치는 수동으로 진행">
@@ -135,5 +138,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
 <!ENTITY performance.label               "성능">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "권장 설정을 사용">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "이 설정은 컴퓨터 하드웨어 및 운영체제에 맞게 조정됩니다.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "더 알아보기">
+<!ENTITY limitContentProcessOption.label "컨텐트 프로세스 제한">
+<!ENTITY limitContentProcessOption.description
+                                         "추가 컨텐트 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "하드웨어 가속이 가능하면 사용">
 <!ENTITY allowHWAccel.accesskey          "r">

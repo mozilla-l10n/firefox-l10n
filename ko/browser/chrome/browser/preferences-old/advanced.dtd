@@ -124,5 +124,18 @@
 <!ENTITY viewSecurityDevices.label       "보안 장치">
 <!ENTITY viewSecurityDevices.accesskey   "y">
 
+<!ENTITY performance.label               "성능">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "권장 성능 설정을 사용">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "이 설정은 컴퓨터 하드웨어 및 운영체제에 맞게 조정됩니다.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "더 알아보기">
+<!ENTITY limitContentProcessOption.label "컨텐트 프로세스 제한">
+<!ENTITY limitContentProcessOption.description
+                                         "추가 컨텐트 프로세스는 다중 탭을 사용 하는 경우 성능을 향상 시킬 수 있지만 더 많은 메모리를 사용 합니다.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "하드웨어 가속이 가능하면 사용">
 <!ENTITY allowHWAccel.accesskey          "r">
