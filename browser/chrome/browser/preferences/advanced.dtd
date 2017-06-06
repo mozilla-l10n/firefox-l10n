@@ -146,5 +146,9 @@
                                          "D">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Mear ynfo">
+<!ENTITY limitContentProcessOption.label "Limyt fan ynhâldsprosessen">
+<!ENTITY limitContentProcessOption.description
+                                         "Ekstra ynhâldsprosessen kinne de prestaasjes by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">

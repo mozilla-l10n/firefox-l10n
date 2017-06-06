@@ -131,5 +131,11 @@
                                          "Dizze ynstellingen binne ôfstimd op de hardware en it bestjoeringssysteem fan jo kompjûter.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "D">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Lês mear">
+<!ENTITY limitContentProcessOption.label "Limyt fan ynhâldsprosessen">
+<!ENTITY limitContentProcessOption.description
+                                         "Ekstra ynhâldsprosessen kinne de prestaasjes by it gebrûk fan mear ljepblêden ferbetterje, mar sille ek mear ûnthâld brûke.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Brûk hardware-acceleratie as it beskikber is">
 <!ENTITY allowHWAccel.accesskey          "B">
