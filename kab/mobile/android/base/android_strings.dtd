@@ -74,7 +74,7 @@
 <!ENTITY bookmark_already_added "Yettwacreḍ yakan">
 <!ENTITY bookmark_removed "Tacreṭ n usebter tettwakkes">
 <!ENTITY bookmark_updated "Tacreṭ n usebter tettwaleqqem">
-<!ENTITY bookmark_options "Iɣewwaṛen">
+<!ENTITY bookmark_options "Iγewwaṛen">
 <!ENTITY bookmark_save "Sekles">
 <!ENTITY screenshot_added_to_bookmarks "Tuṭṭfa n ugdil yettwarna ɣer tecraḍ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
@@ -130,8 +130,8 @@
      the content description. -->
 <!ENTITY tab_title_prefix_is_playing_audio "Urar n imesli – &formatS;">
 
-<!ENTITY settings "Iɣewwaṛen">
-<!ENTITY settings_title "Iɣewwaṛen">
+<!ENTITY settings "Iγewwaṛen">
+<!ENTITY settings_title "Iγewwaṛen">
 <!ENTITY pref_category_general "Amatu">
 <!ENTITY pref_category_general_summary3 "Agejdan, tutlayt, adras n yiccer">
 
@@ -186,7 +186,7 @@
 <!ENTITY pref_category_installed_search_engines "Imseddayen n unadi yettwasbedden">
 <!ENTITY pref_category_add_search_providers "Rnu ugar n isaǧǧawen n unadi">
 <!ENTITY pref_category_search_restore_defaults "Err-d imseddayen n unadi">
-<!ENTITY pref_search_restore_defaults "Err-d iɣewwaṛen imezwar">
+<!ENTITY pref_search_restore_defaults "Err-d Iγewwaṛen imezwar">
 <!ENTITY pref_search_restore_defaults_summary "Err-d iɣewwaṛen imezwar">
 <!-- Localization note (pref_search_hint) : "TIP" as in "hint", "clue" etc. Displayed as an
      advisory message on the customise search providers settings page explaining how to add new
@@ -283,11 +283,6 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Timahihilin tirmitanin">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "Iccaren udmawanen">
-<!ENTITY pref_custom_tabs_summary3 "Sireg isnasen akken ad d-ldin ismal web s useqdec n lqem udmawan n &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!ENTITY custom_tabs_menu_item_open_in "Ldi di &formatS;">
@@ -339,7 +334,7 @@
 <!ENTITY content_notification_title_plural "&formatD; n yesmal ttwaleqmen">
 <!-- Localization note (content_notification_action_settings2): This label will be shown as an action in a content notification.
      Clicking the action will jump to the notification settings of the app. -->
-<!ENTITY content_notification_action_settings2 "Iɣewwaṛen">
+<!ENTITY content_notification_action_settings2 "Iγewwaṛen">
 <!-- Localization note(content_notification_action_read_now): This label will be shown as an action in a content notification.
      Clicking the action will open all new content in the browser. -->
 <!ENTITY content_notification_action_read_now "Ɣeṛ tura">

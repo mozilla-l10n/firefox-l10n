@@ -2,27 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "Anadi &brandShortName;">
+<!ENTITY search_app_name 'Anadi &brandShortName;'>
+
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Nadi s &formatS;'>
 
-<!ENTITY search_bar_hint "Nadi s &formatS;">
+<!ENTITY search_empty_title2 'Senker anadi'>
+<!ENTITY search_empty_message 'Anadi arurad n yal taɣawsa tebɣiḍ'>
 
-<!ENTITY search_empty_title2 "Senker anadi">
-<!ENTITY search_empty_message "Anadi arurad n yal taɣawsa tebɣiḍ">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Rnu ɣer ufeggag n unadi'>
 
-<!ENTITY search_plus_content_description "Rnu ɣer ufeggag n unadi">
+<!ENTITY search_pref_title 'Iγewwaṛen'>
+<!ENTITY search_pref_button_content_description 'Iγewwaṛen'>
 
-<!ENTITY search_pref_title "Iɣewwaṛen">
-<!ENTITY search_pref_button_content_description "Iɣewwaṛen">
+<!ENTITY pref_clearHistory_confirmation 'Amazray yettwasfeḍ'>
+<!ENTITY pref_clearHistory_dialogMessage 'Kkes akk amazray n unadi seg ibenk?'>
+<!ENTITY pref_clearHistory_title 'Sfeḍ amazray n unadi'>
 
-<!ENTITY pref_clearHistory_confirmation "Amazray yettwasfeḍ">
-<!ENTITY pref_clearHistory_dialogMessage "Kkes akk amazray n unadi seg ibenk?">
-<!ENTITY pref_clearHistory_title "Sfeḍ amazray n unadi">
+<!ENTITY search_widget_button_label 'Nadi'>
 
-<!ENTITY search_widget_button_label "Nadi">
-
-<!ENTITY network_error_title "Ulac tuqqna Internet">
-<!ENTITY network_error_message "Senned d-agi akken ad tesneqdeḍ iɣewwaṛen n uẓeṭṭa-inek">
+<!ENTITY network_error_title 'Ulac tuqqna Internet'>
+<!ENTITY network_error_message 'Senned d-agi akken ad tesneqdeḍ iɣewwaṛen n uẓeṭṭa-inek'>
