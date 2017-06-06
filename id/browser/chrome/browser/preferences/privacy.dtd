@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Pelacakan">
 <!ENTITY  trackingProtection.description       "Pelacakan adalah ketika perusahaan mengumpulkan informasi tentang Anda untuk menyusun sebuah profil dan menampilkan konten berdasarkan penjelajahan dan data pribadi Anda.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Blokir perusahaan pelacak dikenal untuk menampilkan konten">
 <!ENTITY  trackingProtectionAlways.label       "Selalu">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya di jendela pribadi">
@@ -65,6 +66,7 @@
 <!ENTITY  showCookies.accesskey         "K">
 
 <!ENTITY  historyHeader2.pre.label         "&brandShortName; akan">
+<!ENTITY  historyHeader2.pre.accesskey     "a">
 <!ENTITY  historyHeader.remember.label     "akan mengingat data riwayat">
 <!ENTITY  historyHeader.dontremember.label "tidak akan mengingat data riwayat">
 <!ENTITY  historyHeader.custom.label       "menggunakan pengaturan khusus untuk data riwayat">

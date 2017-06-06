@@ -22,4 +22,5 @@
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Atur Modul Log">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Atur Berkas Log">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "Atur Log JS">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Log Safe Browsing JS">
 <!ENTITY aboutUrlClassifier.debugFile                   "Berkas log saat ini">

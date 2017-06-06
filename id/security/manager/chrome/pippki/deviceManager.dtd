@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Telusuri…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
+<!ENTITY loaddevice.title2                      "Muat PKCS#11 Device Driver">
