@@ -23,7 +23,7 @@
 <!ENTITY reorderBottomButton "Mover para a base">
 <!ENTITY reorderBottomButton.accessKey "M">
 <!ENTITY reorderBottomButton.toolTip "Arranjar filtro para que seja executado depois de todos os outros">
-<!ENTITY filterHeader.label "Os filtros ativos são executados pela ordem exibida abaixo.">
+<!ENTITY filterHeader.label "Os filtros ativos são executados automaticamente pela ordem mostrada abaixo.">
 <!ENTITY filtersForPrefix.label "Filtros para:">
 <!ENTITY filtersForPrefix.accesskey "F">
 <!ENTITY viewLogButton.label "Registo do filtro">
