@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "북마크 삭제">
 <!ENTITY bookmark_updated "북마크 업데이트">
 <!ENTITY bookmark_options "설정">
+<!ENTITY bookmark_save "저장">
 <!ENTITY screenshot_added_to_bookmarks "스크린샷이 북마크에 추가되었습니다">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; 개 항목">
 <!ENTITY bookmark_folder_one_item "1개 항목">
+<!ENTITY bookmark_parent_folder "상위 폴더">
+<!ENTITY bookmark_add_folder "새 폴더 추가">
 
 <!ENTITY reader_saved_offline "오프라인으로 저장됨">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -280,14 +283,12 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "실험적인 기능">
 
-<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
-     Instead of switching to the browser it appears as if the user stays in the third-party app.
-     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
-<!ENTITY pref_custom_tabs "사용자 정의 탭">
-<!ENTITY pref_custom_tabs_summary3 "앱이 &brandShortName;의 맞춤 버전을 사용하여 웹사이트를 여는 것을 허용">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "&formatS;에서 열기">
+<!ENTITY custom_tabs_menu_footer "&brandShortName;에 의해 구동">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL 복사됨">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "활동 스트림">
@@ -362,6 +363,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "시스템 폰트 크기 사용">
+<!ENTITY pref_use_system_font_size_summary "시스템 폰트 크기에 따라 웹 컨텐츠 조정">
 
 <!ENTITY pref_media_autoplay_enabled "자동 재생 허가">
 <!ENTITY pref_media_autoplay_enabled_summary "웹 사이트의 영상이나 다른 미디어 콘텐츠에 대한 자동 재생 권한 설정">
@@ -492,6 +495,7 @@
 <!ENTITY contextmenu_open_private_tab "사생활 탭 열기">
 <!ENTITY contextmenu_remove "삭제">
 <!ENTITY contextmenu_add_to_launcher "홈 화면에 추가">
+<!ENTITY contextmenu_set_as_homepage "홈페이지로 설정">
 <!ENTITY contextmenu_share "공유">
 <!ENTITY contextmenu_pasteandgo "붙여넣고 바로 가기">
 <!ENTITY contextmenu_paste "붙여넣기">
@@ -539,6 +543,7 @@
 <!ENTITY bookmark_edit_name "이름">
 <!ENTITY bookmark_edit_location "위치">
 <!ENTITY bookmark_edit_keyword "키워드">
+<!ENTITY bookmark_select_folder "폴더 선택">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
