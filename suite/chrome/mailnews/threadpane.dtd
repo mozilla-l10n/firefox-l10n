@@ -20,7 +20,7 @@
 <!ENTITY receivedColumn.label "Recebido">
 <!ENTITY flagColumn.label "Com Marca">
 <!ENTITY locationColumn.label "Localização">
-<!ENTITY idColumn.label "Por ordem recebido">
+<!ENTITY idColumn.label "Ordem de receção">
 <!--Tooltips-->
 
 <!ENTITY columnChooser2.tooltip "Selecione as colunas a mostrar">
@@ -42,4 +42,4 @@
 <!ENTITY receivedColumn2.tooltip "Ordenar por data de receção">
 <!ENTITY flagColumn2.tooltip "Ordenar por marca">
 <!ENTITY locationColumn2.tooltip "Ordenar por localização">
-<!ENTITY idColumn2.tooltip "Ordenar por ordem de chegada">
+<!ENTITY idColumn2.tooltip "Ordenar por ordem de receção">
