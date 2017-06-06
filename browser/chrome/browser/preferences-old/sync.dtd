@@ -27,7 +27,7 @@
 <!ENTITY saveChangeSyncDeviceName.accesskey "З">
 
 <!-- Footer stuff -->
-<!ENTITY prefs.tosLink.label        "Условия за ползване на услугата">
+<!ENTITY prefs.tosLink.label        "Условия на услугата">
 <!ENTITY fxaPrivacyNotice.link.label "Политика за личните данни">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
