@@ -42,9 +42,10 @@
 <!ENTITY  locbar.searches.label         "ការ​ស្វែង​រក​ដែល​ពាក់​ព័ន្ធ​ពី​ម៉ាសុីន​ស្វែង​រក​លំនាំ​ដើម​">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "ប្ដូរ​ចំណូលចិត្ត​សម្រាប់​ការ​សំណើ​ម៉ាស៊ីន​ស្វែងរក">
 
 <!ENTITY  acceptCookies.label           "ទទួលយក​ខូគី​ពី​តំបន់​បណ្ដាញ">
-<!ENTITY  acceptCookies.accesskey       "ញ">
+<!ENTITY  acceptCookies.accesskey       "A">
 
 <!ENTITY  acceptThirdParty.pre.label      "ព្រម​ទទួល​ខូគី​ភាគី​ទីបី៖">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
