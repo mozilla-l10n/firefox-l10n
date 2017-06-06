@@ -210,7 +210,7 @@
 <!ENTITY sortUnthreaded.label "Não agrupar">
 <!ENTITY sortUnthreaded.accesskey "N">
 <!ENTITY groupBySort.label "Agrupar pela ordem">
-<!ENTITY groupBySort.accesskey "e">
+<!ENTITY groupBySort.accesskey "g">
 <!ENTITY msgsMenu.label "Mensagens">
 <!ENTITY msgsMenu.accesskey "M">
 <!ENTITY threads.label "Tópicos">
