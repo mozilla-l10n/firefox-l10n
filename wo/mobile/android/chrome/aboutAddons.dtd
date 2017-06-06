@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutAddons.title2                     "Yokkaan">
-<!ENTITY aboutAddons.header2                    "Say yokkaan">
+<!ENTITY aboutAddons.title2                     "Lawal">
+<!ENTITY aboutAddons.header2                    "Say lawal">
 <!ENTITY aboutAddons.options                    "Tànneef">
 
 <!ENTITY addonAction.enable                     "Doxal">
@@ -11,5 +11,5 @@
 <!ENTITY addonAction.uninstall                  "Simpi">
 <!ENTITY addonAction.undo                       "Neenal">
 
-<!ENTITY addonUnsigned.message                  "&brandShortName; manul settantal bii yokkaan.">
+<!ENTITY addonUnsigned.message                  "&brandShortName; manul settantal gii lawal.">
 <!ENTITY addonUnsigned.learnMore                "Yeneen xibaar">
