@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Kisal">
 
+<!ENTITY  warnOnAddonInstall.label        "Reentin am so lowe ina etoo aafde ɓeyditte">
+<!ENTITY  warnOnAddonInstall.accesskey    "R">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -14,11 +17,14 @@
 <!ENTITY  blockDownloads.label            "Falo gaawte bonnooje">
 <!ENTITY  blockDownloads.accesskey        "b">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Reentin am baɗte topirɗe gañaaɗe walla kaawniiɗe">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Paltooje…">
 <!ENTITY  addonExceptions.accesskey     "P">
 
+
+<!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; piille">
 
 
 <!ENTITY  passwordExceptions.label      "Paltooje…">
