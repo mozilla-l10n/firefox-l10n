@@ -122,7 +122,10 @@
 <!ENTITY viewCerts.label                 "មើល​វិញ្ញាបនបត្រ">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "សុវត្ថិភាព ឧបករណ៍">
-<!ENTITY viewSecurityDevices.accesskey   "ឧ">
+<!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "ដំណើរការ">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "ប្រើ​ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
