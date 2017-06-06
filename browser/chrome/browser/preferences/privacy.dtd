@@ -65,6 +65,8 @@
 <!ENTITY  showCookies.label             "បង្ហាញ​ខូគី... ">
 <!ENTITY  showCookies.accesskey         "ប">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; នឹង">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.dontremember.label "កុំ​ចងចាំ​ប្រវត្តិ">
 <!ENTITY  historyHeader.custom.label       "ប្រើ​ការ​កំណត់​ផ្ទាល់ខ្លួន​សម្រាប់​ប្រវត្តិ">
