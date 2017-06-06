@@ -140,7 +140,12 @@
 <!ENTITY performance.label               "ដំណើរការ">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ប្រើ​ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "ការ​កំណត់​ទាំងនេះ​គឺ​ត្រូវគ្នា​ទៅ​នឹង​ផ្នែក​រឹង និង​ប្រព័ន្ធ​ប្រតិបត្តិការ​នៃ​កុំព្យូទ័រ​របស់​អ្នក។">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ស្វែងយល់​បន្ថែម">
+<!ENTITY limitContentProcessOption.label "ដែនកំណត់​ដំណើរការ​មាតិកា">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
 <!ENTITY allowHWAccel.accesskey          "ប">
