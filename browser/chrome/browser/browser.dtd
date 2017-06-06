@@ -213,8 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Ireki pasahitza gordetzeko mezuen panela">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kudeatu pluginen erabilera">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Aldatu gunetik jakinarazpenik jaso dezakezun ala ez">
-
-
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gorde datuak biltegiratze iraunkorrean">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Nabigatzailea urruneko agintepean dago">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Kudeatu zure kamera eta/edo mikrofonoa gunearekin partekatzea">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Kudeatu zure mikrofonoa gunearekin partekatzea">
@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Kokalekuaren informazioa blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Datuen biltegiratzea blokeatuta daukazu webgune honetarako.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Jakinarazpenak blokeatuta dauzkazu webgune honetarako.">
-
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Datuen biltegiratze iraunkorra blokeatuta daukazu webgune honetarako.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Erakutsi historia">
 
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "E"> 
 <!ENTITY copyCmd.label            "Kopiatu">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Itsatsi">  
 <!ENTITY pasteCmd.key           "V">  
@@ -430,7 +430,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Bai">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "B">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Aholkua:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Eskuratu gauzak bilatzeko laguntza! Bilatu &#x1F50E; ikonoa bilaketa-iradokizunen ondoan">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Aldatu aukerak…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "A">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Aldatu hobespenak…">
@@ -930,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.message "Eguneratu zure &brandShorterName; abiaduran eta pribatutasunean azkena eskuratzeko.">
 
-
+<!ENTITY updateAvailable.header.message "&brandShorterName; eguneraketa berri bat erabilgarri dago.">
 <!ENTITY updateAvailable.acceptButton.label "Deskargatu eguneraketa">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Une honetan ez">
@@ -954,6 +957,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "z">
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
 
+<!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 
 <!ENTITY sendToDevice.label "Bidali gailura…">
 <!ENTITY sendToDevice.viewTitle "Bidali gailura">
