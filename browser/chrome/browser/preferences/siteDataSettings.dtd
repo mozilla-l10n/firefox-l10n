@@ -7,6 +7,7 @@
 <!ENTITY     statusCol.label               "Status">
 <!ENTITY     usageCol.label                "Penyimpanan">
 <!ENTITY     searchTextboxPlaceHolder             "Cari situs web">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "C">
 <!ENTITY     removeSelected.label          "Hapus yang Dipilih">
 <!ENTITY     removeSelected.accesskey      "H">
 <!ENTITY     save.label                    "Simpan Perubahan">
