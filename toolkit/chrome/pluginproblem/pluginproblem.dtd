@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "파일">
 <!ENTITY plugin.mimeTypes                                    "MIME 형식">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash 보호 모드 활성화">
+<!ENTITY plugin.enableBlocklists.label                       "위험하고 방해되는 Flash 내용 차단">

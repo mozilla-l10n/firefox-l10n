@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "조회">
 <!ENTITY aboutNetworking.dnsDomain             "도메인">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
+<!ENTITY aboutNetworking.rcwn                  "RCWN 상태">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN 상태">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "캐시 성공 수">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "네트워크 성공 수">
+<!ENTITY aboutNetworking.totalNetworkRequests  "총 네트워크 요청 수">
