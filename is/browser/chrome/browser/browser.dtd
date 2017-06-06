@@ -689,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Hætta"> 
 <!ENTITY quitApplicationCmd.accesskey   "H">
 <!ENTITY quitApplicationCmdMac2.label   "Hætta í &brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Loka">  
 <!ENTITY closeCmd.key                   "W">  
@@ -741,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Þessi síða er vistuð á tölvunni þinni.">
 <!ENTITY identity.connectionVerified2 "Þú ert tengdur á öruggan hátt við þetta vefsvæði, sem er frá:">
 <!ENTITY identity.connectionInternal "Þetta er örugg &brandShortName; síða.">
-<!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót">
+<!ENTITY identity.extensionPage "Þessi síða er hlaðinn inn af viðbót.">
 <!ENTITY identity.insecureLoginForms2 "Hugsanlega gæti þriðji aðili komist yfir allar þær skráningar sem þú setur inn á þessa síðu.">
 <!-- Strings for connection state warnings. -->
 
@@ -956,7 +956,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ekki núna">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;.">
+<!ENTITY updateRestart.panelUI.label2 "Endurræstu til að uppfæra &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 
