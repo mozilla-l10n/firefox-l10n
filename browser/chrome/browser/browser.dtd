@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Kelola penggunaan plug-in">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Mengubah apakah Anda dapat menerima pemberitahuan dari situs ini">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Simpan data di Penyimpanan Persisten">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Peramban dalam kendali jarak jauh">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Mengelola berbagi kamera dan atau mikrofon Anda dengan situs ini">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Mengelola berbagi mikrofon Anda dengan situs ini">
@@ -388,15 +389,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Pindahkan ke Bilah Alat">
-<!ENTITY customizeMenu.moveToToolbar.accesskey "P">
+<!ENTITY customizeMenu.moveToToolbar.accesskey "i">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
      can appear on the same context menu as menubarCmd and personalbarCmd,
      so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Pindahkan ke Menu">
-<!ENTITY customizeMenu.moveToPanel.accesskey "P">
+<!ENTITY customizeMenu.moveToPanel.accesskey "i">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.removeFromToolbar.label "Hapus dari Bilah Alat">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "H">
 <!ENTITY customizeMenu.removeFromMenu.label "Hapus dari Menu">
@@ -427,7 +430,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Kiat:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ubah Opsi…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "U">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ubah Preferensi…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "U">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -949,4 +955,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY sendToDevice.label "Kirim ke Peranti…">
 <!ENTITY sendToDevice.viewTitle "Kirim ke Peranti">
+<!ENTITY sendToDevice.fxaRequired.label "Diwajibkan">
 <!ENTITY sendToDevice.noDevices.label "Peranti Tidak Tersedia">
