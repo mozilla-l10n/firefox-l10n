@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Tafoegje oan oerrinmenu">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Ferpleatse nei arkbalke">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "F">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Ferpleatse nei menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fêstmeitsje oan oerrinmenu">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "a">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Losmeitsje fan oerrinmenu">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fuortsmite fan arkbalke">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "r">
 <!ENTITY customizeMenu.removeFromMenu.label "Fuortsmite út menu">
@@ -682,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ofslute"> 
 <!ENTITY quitApplicationCmd.accesskey   "O">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; ôfslute">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Slute">  
 <!ENTITY closeCmd.key                   "W">  
@@ -952,3 +959,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 
+<!ENTITY sendToDevice.label "Ferstjoere nei apparaat…">
+<!ENTITY sendToDevice.viewTitle "Ferstjoere nei apparaat">
+<!ENTITY sendToDevice.fxaRequired.label "Fereaske">
+<!ENTITY sendToDevice.noDevices.label "Gjin apparaten beskikber">
