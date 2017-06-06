@@ -32,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Palal Nokkuure">
 
+<!ENTITY  locbar.suggest2.label         "So aɗa huutoroo palal nokkuure, wasiyo:">
 <!ENTITY  locbar.history.label          "Aslol">
 <!ENTITY  locbar.history.accesskey      "A">
 <!ENTITY  locbar.bookmarks.label        "Maantore">
