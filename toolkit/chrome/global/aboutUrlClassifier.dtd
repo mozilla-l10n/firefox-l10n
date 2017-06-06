@@ -3,3 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Informácie o url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Poskytovateľ">
+<!ENTITY aboutUrlClassifier.provider                    "Poskytovateľ">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas poslednej aktualizácie">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas ďalšej aktualizácie">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stav poslednej aktualizácie">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovať">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Vyrovnávacia pamäť">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Obnoviť">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Vymazať">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Názov tabuľky">
