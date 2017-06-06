@@ -427,6 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Kiat:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ubah Preferensi…">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -540,6 +541,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "T">
 <!ENTITY bookmarkThisFrameCmd.label      "Markahi Bingkai Ini">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "B">
+<!ENTITY copyURLCmd.label             "Salin URL">
 <!ENTITY emailPageCmd.label           "Kirim Tautan…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Simpan Laman dengan Nama…">
@@ -665,6 +667,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "b">
 
 <!ENTITY sidebarCloseButton.tooltip     "Tutup bilah samping">
+<!ENTITY sidebarMenuClose.label         "Tutup Bilah Samping">
 
 <!ENTITY quitApplicationCmdWin2.label       "Keluar">
 <!ENTITY quitApplicationCmdWin2.accesskey   "K">
@@ -725,6 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Laman ini tersimpan di komputer Anda.">
 <!ENTITY identity.connectionVerified2 "Anda tersambung secara aman ke situs ini, dimiliki oleh:">
 <!ENTITY identity.connectionInternal "Ini adalah laman &brandShortName; aman.">
+<!ENTITY identity.extensionPage "Laman ini dimuat dari ekstensi.">
 <!ENTITY identity.insecureLoginForms2 "Info masuk yang dimasukkan di laman ini bisa diketahui orang lain.">
 
 <!-- Strings for connection state warnings. -->

@@ -124,6 +124,7 @@
 <!ENTITY viewSecurityDevices.label       "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey   "K">
 
+<!ENTITY performance.label               "Kinerja">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Pelajari lebih lanjut">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
