@@ -42,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Njiilawuuji nannduɗi iwɗi e yiylorde woowaande">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Waylu cuɓe wonande cakkitte yiylorde">
 
 <!ENTITY  acceptCookies.label           "Jaɓ kukiiji iwɗi e lowe">
 <!ENTITY  acceptCookies.accesskey       "J">
@@ -64,7 +65,8 @@
 <!ENTITY  showCookies.label             "Hollu kukiije…">
 <!ENTITY  showCookies.accesskey         "u">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; maa:">
+<!ENTITY  historyHeader2.pre.accesskey     "m">
 <!ENTITY  historyHeader.remember.label     "Siftor aslol">
 <!ENTITY  historyHeader.dontremember.label "Hoto siftor aslol hay sahaa">
 <!ENTITY  historyHeader.custom.label       "Huutoro teelte peŋtore e aslol">
