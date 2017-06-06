@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "플러그인 사용 관리">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "사이트에서 알림을 수신할지 변경">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "영구 저장소에 데이터를 저장">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "브라우저가 원격 제어중">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "사이트에서 카메라와 마이크를 사용할지 관리">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "사이트에서 마이크를 사용할지 관리">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "최근 방문 기록 삭제…">
 <!ENTITY appMenuHistory.restoreSession.label "이전 세션 복원">
 <!ENTITY appMenuHistory.viewSidebar.label "방문 기록 탐색창 보기">
+<!ENTITY appMenuHelp.label "도움말">
 <!ENTITY appMenuHelp.tooltip "도움말 메뉴 열기">
 
 <!ENTITY appMenuRemoteTabs.label "동기화된 탭">
@@ -387,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "오버플로우 메뉴에 추가">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "도구 상자로 옮기기">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -396,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "메뉴로 옮기기">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "오버플로우 메뉴에 고정">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "오버플로우 메뉴에서 고정 해제">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "도구 상자에서 제거">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "메뉴에서 제거">
@@ -406,6 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "더보기">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "검색어나 주소 입력">
@@ -423,7 +432,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "팁:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "검색을 도와드립니다! 검색 옆의 &#x1F50E;를 찾으세요.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "옵션 변경…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "설정 변경…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -537,6 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "프레임을 북마크에 추가">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "URL 복사">
 <!ENTITY emailPageCmd.label           "메일로 링크 보내기…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "다른 이름으로 저장…">
@@ -661,7 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "크기 조정">
 <!ENTITY fullZoom.accesskey             "Z">
 
-<!ENTITY sidebarCloseButton.tooltip     "탐색창 닫기">
+<!ENTITY sidebarCloseButton.tooltip     "사이드바 닫기">
+<!ENTITY sidebarMenuClose.label         "사이드바 닫기">
 
 <!ENTITY quitApplicationCmdWin2.label       "종료">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -671,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "종료"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; 종료">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "닫기">  
 <!ENTITY closeCmd.key                   "W">  
@@ -722,6 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "이 페이지는 사용자의 컴퓨터에 저장됩니다.">
 <!ENTITY identity.connectionVerified2 "안전하게 사이트에 연결되었습니다. 소유자:">
 <!ENTITY identity.connectionInternal "안전한 &brandShortName; 페이지입니다.">
+<!ENTITY identity.extensionPage "이 페이지는 확장 기능으로부터 로드되었습니다.">
 <!ENTITY identity.insecureLoginForms2 "이 페이지에 입력된 로그인 정보는 노출될 수 있습니다.">
 
 <!-- Strings for connection state warnings. -->
@@ -820,7 +839,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "다른 도구를 찾으십니까?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "수천 개의 부가기능에서 고르기">
 <!ENTITY customizeMode.restoreDefaults "기본값으로 복원">
+<!ENTITY customizeMode.done "완료">
 <!ENTITY customizeMode.titlebar "제목창">
+<!ENTITY customizeMode.toolbars2 "도구 모음">
 <!ENTITY customizeMode.lwthemes "테마">
 <!ENTITY customizeMode.lwthemes.myThemes "내 테마">
 <!ENTITY customizeMode.lwthemes.recommended "추천">
@@ -934,6 +955,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "바로 안함">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; 업데이트를 위해 재시작">
 
 <!ENTITY pageActionButton.tooltip "페이지로 할 수 있는 일">
 
+<!ENTITY sendToDevice.label "기기로 보내기…">
+<!ENTITY sendToDevice.viewTitle "기기로 보내기">
+<!ENTITY sendToDevice.fxaRequired.label "필수항목">
+<!ENTITY sendToDevice.noDevices.label "사용 가능한 장치가 없음">
