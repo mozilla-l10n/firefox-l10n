@@ -372,7 +372,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.noclients.label): This is shown
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
-<!ENTITY appMenuRemoteTabs.noclients.title "¡K'a majani' yexïm ri taq ruwi'…!">
+<!ENTITY appMenuRemoteTabs.noclients.title "¡K'a majani yexim ri taq ruwi'…!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Kexim ri taq ajowanik">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
@@ -786,7 +786,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Ximon taq ruwi'">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Tatikirisaj molojri'ïl pa Firefox pa juley chik taq okisaxel richin ye'atz'ët taq ruwi' awichin wawe'.">
-<!ENTITY syncedTabs.sidebar.noclients.title    "¡K'a majani' yexïm ri taq ruwi'…!">
+<!ENTITY syncedTabs.sidebar.noclients.title    "¡K'a majani yexim ri taq ruwi'…!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "¿La nawajo' ye'atz'ët wawe' ri taq ruwi' ch'aqa' chik taq okisaxel?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Tatikirisaj molojri'ïl richin nitz'et jun kicholb'al taq kiwi' juley chik taq awokisaxel.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Majun ruwi' ejaqon">
