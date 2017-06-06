@@ -410,7 +410,7 @@
 
 <!ENTITY pref_panels_show "Mostrar">
 <!ENTITY pref_panels_hide "Ocultar">
-<!ENTITY pref_panels_reorder "Alterar a ordem">
+<!ENTITY pref_panels_reorder "Alterar ordem">
 <!ENTITY pref_panels_move_up "Mover para cima">
 <!ENTITY pref_panels_move_down "Mover para baixo">
 
