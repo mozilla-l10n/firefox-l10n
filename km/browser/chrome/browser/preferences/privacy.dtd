@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ការពារ​ការ​តាមដាន">
+<!ENTITY  trackingProtection.description       "ការ​តាមដាន​គឺ​នៅពេល​ដែល​ក្រុមហ៊ុន​ប្រមូល​ព័ត៌មាន​អំពី​អ្នក​ដើម្បី​បង្កើត​ប្រវត្តិរូប ហើយ​បង្ហាញ​មាតិកា​ដោយ​ផ្អែក​លើ​ការ​រកមើល​និង​ទិន្នន័យ​ផ្ទាល់ខ្លួន​របស់​អ្នក។">
+<!ENTITY  trackingProtection.radioGroupLabel   "ទប់ស្កាត់​ក្រុមហ៊ុន​តាមដាន​ដែល​ស្គាល់​កុំឲ្យ​បង្ហាញ​មាតិកា">
 <!ENTITY  trackingProtectionAlways.label       "ជានិច្ច">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "តែ​នៅ​ក្នុង​បង្អួច​ឯកជន​ប៉ុណ្ណោះ">
@@ -29,12 +32,13 @@
 
 <!ENTITY  locationBar.label             "របារ​ទីតាំង">
 
+<!ENTITY  locbar.suggest2.label         "ពេល​ប្រើ​របារ​ទីតាំង ស្នើ">
 <!ENTITY  locbar.history.label          "ប្រវត្តិ">
-<!ENTITY  locbar.history.accesskey      "ប">
+<!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ចំណាំ">
-<!ENTITY  locbar.bookmarks.accesskey    "ច">
+<!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "បើក​ផ្ទាំង">
-<!ENTITY  locbar.openpage.accesskey     "ប">
+<!ENTITY  locbar.openpage.accesskey     "O">
 <!ENTITY  locbar.searches.label         "ការ​ស្វែង​រក​ដែល​ពាក់​ព័ន្ធ​ពី​ម៉ាសុីន​ស្វែង​រក​លំនាំ​ដើម​">
 <!ENTITY  locbar.searches.accesskey     "d">
 
