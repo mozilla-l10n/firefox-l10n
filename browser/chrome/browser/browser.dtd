@@ -943,7 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Изтеглете ново копие на &brandShorterName; и ще ви помогнем с инсталирането.">
 <!ENTITY updateManual.whatsnew.label "Вижте какво е новото.">
 <!ENTITY updateManual.header.message "&brandShorterName; не може да бъде обновен до последната версия.">
-<!ENTITY updateManual.acceptButton.label "Изтегляне на &brandShortName;">
+<!ENTITY updateManual.acceptButton.label "Изтегляне на &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "И">
 <!ENTITY updateManual.cancelButton.label "Не сега">
 <!ENTITY updateManual.cancelButton.accesskey "Н">
