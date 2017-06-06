@@ -14,3 +14,8 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Obnoviť">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Vymazať">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Názov tabuľky">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Počet záporných položiek vo vyrovnávacej pamäti">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Počet kladných položiek vo vyrovnávacej pamäti">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Zobraziť položky">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Položky vo vyrovnávacej pamäti">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
