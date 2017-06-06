@@ -138,6 +138,8 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "ដំណើរការ">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "ប្រើ​ការ​កំណត់​ដំណើរការ​ដែល​បាន​ណែនាំ">
 <!ENTITY performanceSettingsLearnMore.label
                                          "ស្វែងយល់​បន្ថែម">
 <!ENTITY allowHWAccel.label              "ប្រើ​ការ​បង្កើន​ល្បឿន​ផ្នែក​រឹង នៅពេល​អាច​ប្រើ​បាន">
