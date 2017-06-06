@@ -245,16 +245,16 @@
 <!ENTITY event.priority2.label                            "Приоритет:">
 
 <!ENTITY event.reminder.none.label                        "Без напомняне" >
-<!ENTITY event.reminder.0minutes.before.label             "0 минути преди" >
-<!ENTITY event.reminder.5minutes.before.label             "5 минути преди" >
-<!ENTITY event.reminder.15minutes.before.label            "15 минути преди" >
-<!ENTITY event.reminder.30minutes.before.label            "30 минути преди" >
-<!ENTITY event.reminder.1hour.before.label                "1 час преди" >
-<!ENTITY event.reminder.2hours.before.label               "2 часа преди" >
-<!ENTITY event.reminder.12hours.before.label              "12 часа преди" >
-<!ENTITY event.reminder.1day.before.label                 "1 ден преди" >
-<!ENTITY event.reminder.2days.before.label                "2 дена преди" >
-<!ENTITY event.reminder.1week.before.label                "1 седмица преди" >
+<!ENTITY event.reminder.0minutes.before.label             "0 минути по-рано" >
+<!ENTITY event.reminder.5minutes.before.label             "5 минути по-рано" >
+<!ENTITY event.reminder.15minutes.before.label            "15 минути по-рано" >
+<!ENTITY event.reminder.30minutes.before.label            "30 минути по-рано" >
+<!ENTITY event.reminder.1hour.before.label                "1 час по-рано" >
+<!ENTITY event.reminder.2hours.before.label               "2 часа по-рано" >
+<!ENTITY event.reminder.12hours.before.label              "12 часа по-рано" >
+<!ENTITY event.reminder.1day.before.label                 "1 ден по-рано" >
+<!ENTITY event.reminder.2days.before.label                "2 дена по-рано" >
+<!ENTITY event.reminder.1week.before.label                "1 седмица по-рано" >
 <!ENTITY event.reminder.custom.label                      "Персонализиране…" >
 
 <!ENTITY event.reminder.multiple.label                    "Много напомняния…" >
@@ -289,27 +289,27 @@
 <!ENTITY repeat.units.weeks.both                        "Седмица/Седмици" >
 <!ENTITY event.recurrence.on.label                      "В/Във:" >
 
-<!ENTITY event.recurrence.pattern.monthly.every.label   "Всеки/На всеки" >
+<!ENTITY event.recurrence.pattern.monthly.every.label   "(На) всеки" >
 <!ENTITY repeat.units.months.both                       "Месец(а)" >
 <!ENTITY event.recurrence.monthly.every.label           "Всяка" >
-<!ENTITY event.recurrence.monthly.first.label           "Първата/Първият">
-<!ENTITY event.recurrence.monthly.second.label          "Втората/Вторият">
-<!ENTITY event.recurrence.monthly.third.label           "Третата/Третият">
-<!ENTITY event.recurrence.monthly.fourth.label          "Четвъртата/Четвъртият">
-<!ENTITY event.recurrence.monthly.fifth.label           "Петата/Петият">
-<!ENTITY event.recurrence.monthly.last.label            "Последната/Последният">
-<!ENTITY event.recurrence.pattern.monthly.week.1.label  "Неделя" >
-<!ENTITY event.recurrence.pattern.monthly.week.2.label  "Понеделник" >
-<!ENTITY event.recurrence.pattern.monthly.week.3.label  "Вторник" >
-<!ENTITY event.recurrence.pattern.monthly.week.4.label  "Сряда" >
-<!ENTITY event.recurrence.pattern.monthly.week.5.label  "Четвъртък" >
-<!ENTITY event.recurrence.pattern.monthly.week.6.label  "Петък" >
-<!ENTITY event.recurrence.pattern.monthly.week.7.label  "Събота" >
-<!ENTITY event.recurrence.repeat.dayofmonth.label       "Дена на месеца">
-<!ENTITY event.recurrence.repeat.recur.label            "Повторения на ден/дни">
+<!ENTITY event.recurrence.monthly.first.label           "първият/та">
+<!ENTITY event.recurrence.monthly.second.label          "вторият/та">
+<!ENTITY event.recurrence.monthly.third.label           "третият/та">
+<!ENTITY event.recurrence.monthly.fourth.label          "четвъртият/ата">
+<!ENTITY event.recurrence.monthly.fifth.label           "петият/ата">
+<!ENTITY event.recurrence.monthly.last.label            "последният/ата">
+<!ENTITY event.recurrence.pattern.monthly.week.1.label  "неделя" >
+<!ENTITY event.recurrence.pattern.monthly.week.2.label  "понеделник" >
+<!ENTITY event.recurrence.pattern.monthly.week.3.label  "вторник" >
+<!ENTITY event.recurrence.pattern.monthly.week.4.label  "сряда" >
+<!ENTITY event.recurrence.pattern.monthly.week.5.label  "четвъртък" >
+<!ENTITY event.recurrence.pattern.monthly.week.6.label  "петък" >
+<!ENTITY event.recurrence.pattern.monthly.week.7.label  "събота" >
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "ден на месеца">
+<!ENTITY event.recurrence.repeat.recur.label            "Повтаряне на">
 
-<!ENTITY event.recurrence.every.label                        "Всяка/На всеки" >
-<!ENTITY repeat.units.years.both                             "Година/Години" >
+<!ENTITY event.recurrence.every.label                        "Всяка/на всеки" >
+<!ENTITY repeat.units.years.both                             "Година/и" >
 <!ENTITY event.recurrence.pattern.yearly.every.month.label   "Всеки" >
 
 <!-- LOCALIZATON NOTE
@@ -321,51 +321,51 @@
 -->
 <!ENTITY event.recurrence.pattern.yearly.of.label            "" >
 
-<!ENTITY event.recurrence.pattern.yearly.month.1.label       "Януари" >
-<!ENTITY event.recurrence.pattern.yearly.month.2.label       "Февруари" >
-<!ENTITY event.recurrence.pattern.yearly.month.3.label       "Март" >
-<!ENTITY event.recurrence.pattern.yearly.month.4.label       "Април" >
-<!ENTITY event.recurrence.pattern.yearly.month.5.label       "Май" >
-<!ENTITY event.recurrence.pattern.yearly.month.6.label       "Юни" >
-<!ENTITY event.recurrence.pattern.yearly.month.7.label       "Юли" >
-<!ENTITY event.recurrence.pattern.yearly.month.8.label       "Август" >
-<!ENTITY event.recurrence.pattern.yearly.month.9.label       "Септември" >
-<!ENTITY event.recurrence.pattern.yearly.month.10.label      "Октомври" >
-<!ENTITY event.recurrence.pattern.yearly.month.11.label      "Ноември" >
-<!ENTITY event.recurrence.pattern.yearly.month.12.label      "Декември" >
-<!ENTITY event.recurrence.yearly.every.label                 "Всяка">
-<!ENTITY event.recurrence.yearly.first.label                 "Първата">
-<!ENTITY event.recurrence.yearly.second.label                "Втората">
-<!ENTITY event.recurrence.yearly.third.label                 "Третата">
-<!ENTITY event.recurrence.yearly.fourth.label                "Четвъртата">
-<!ENTITY event.recurrence.yearly.fifth.label                 "Петата">
-<!ENTITY event.recurrence.yearly.last.label                  "Последната">
-<!ENTITY event.recurrence.pattern.yearly.week.1.label        "Неделя" >
-<!ENTITY event.recurrence.pattern.yearly.week.2.label        "Понеделник" >
-<!ENTITY event.recurrence.pattern.yearly.week.3.label        "Вторник" >
-<!ENTITY event.recurrence.pattern.yearly.week.4.label        "Сряда" >
-<!ENTITY event.recurrence.pattern.yearly.week.5.label        "Четвъртък" >
-<!ENTITY event.recurrence.pattern.yearly.week.6.label        "Петък" >
-<!ENTITY event.recurrence.pattern.yearly.week.7.label        "Събота" >
+<!ENTITY event.recurrence.pattern.yearly.month.1.label       "януари" >
+<!ENTITY event.recurrence.pattern.yearly.month.2.label       "февруари" >
+<!ENTITY event.recurrence.pattern.yearly.month.3.label       "март" >
+<!ENTITY event.recurrence.pattern.yearly.month.4.label       "април" >
+<!ENTITY event.recurrence.pattern.yearly.month.5.label       "май" >
+<!ENTITY event.recurrence.pattern.yearly.month.6.label       "юни" >
+<!ENTITY event.recurrence.pattern.yearly.month.7.label       "юли" >
+<!ENTITY event.recurrence.pattern.yearly.month.8.label       "август" >
+<!ENTITY event.recurrence.pattern.yearly.month.9.label       "септември" >
+<!ENTITY event.recurrence.pattern.yearly.month.10.label      "октомври" >
+<!ENTITY event.recurrence.pattern.yearly.month.11.label      "ноември" >
+<!ENTITY event.recurrence.pattern.yearly.month.12.label      "декември" >
+<!ENTITY event.recurrence.yearly.every.label                 "всяка">
+<!ENTITY event.recurrence.yearly.first.label                 "първият/та">
+<!ENTITY event.recurrence.yearly.second.label                "вторият/та">
+<!ENTITY event.recurrence.yearly.third.label                 "третият/та">
+<!ENTITY event.recurrence.yearly.fourth.label                "четвъртият/ата">
+<!ENTITY event.recurrence.yearly.fifth.label                 "петият/ата">
+<!ENTITY event.recurrence.yearly.last.label                  "последният/ата">
+<!ENTITY event.recurrence.pattern.yearly.week.1.label        "неделя" >
+<!ENTITY event.recurrence.pattern.yearly.week.2.label        "понеделник" >
+<!ENTITY event.recurrence.pattern.yearly.week.3.label        "вторник" >
+<!ENTITY event.recurrence.pattern.yearly.week.4.label        "сряда" >
+<!ENTITY event.recurrence.pattern.yearly.week.5.label        "четвъртък" >
+<!ENTITY event.recurrence.pattern.yearly.week.6.label        "петък" >
+<!ENTITY event.recurrence.pattern.yearly.week.7.label        "събота" >
 <!ENTITY event.recurrence.pattern.yearly.day.label           "дни" >
 <!ENTITY event.recurrence.of.label                           "на" >
-<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "Януари" >
-<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "Февруари" >
-<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "Март" >
-<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "Април" >
-<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "Май" >
-<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "Юни" >
-<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "Юли" >
-<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "Август" >
-<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "Септември" >
-<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "Октомври" >
-<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Ноември" >
-<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Декември" >
+<!ENTITY event.recurrence.pattern.yearly.month2.1.label      "януари" >
+<!ENTITY event.recurrence.pattern.yearly.month2.2.label      "февруари" >
+<!ENTITY event.recurrence.pattern.yearly.month2.3.label      "март" >
+<!ENTITY event.recurrence.pattern.yearly.month2.4.label      "април" >
+<!ENTITY event.recurrence.pattern.yearly.month2.5.label      "май" >
+<!ENTITY event.recurrence.pattern.yearly.month2.6.label      "юни" >
+<!ENTITY event.recurrence.pattern.yearly.month2.7.label      "юли" >
+<!ENTITY event.recurrence.pattern.yearly.month2.8.label      "август" >
+<!ENTITY event.recurrence.pattern.yearly.month2.9.label      "септември" >
+<!ENTITY event.recurrence.pattern.yearly.month2.10.label     "октомври" >
+<!ENTITY event.recurrence.pattern.yearly.month2.11.label     "ноември" >
+<!ENTITY event.recurrence.pattern.yearly.month2.12.label     "декември" >
 
 <!ENTITY event.recurrence.range.label                   "Обхват на повторенията">
 <!ENTITY event.recurrence.forever.label                 "Без крайна дата" >
 <!ENTITY event.recurrence.repeat.for.label              "Създаване" >
-<!ENTITY event.recurrence.appointments.label            "Среща/Срещи" >
+<!ENTITY event.recurrence.appointments.label            "Среща/и" >
 <!ENTITY event.repeat.until.label                       "Повтаряне до" >
 <!ENTITY event.recurrence.preview.label                 "Преглед">
 
