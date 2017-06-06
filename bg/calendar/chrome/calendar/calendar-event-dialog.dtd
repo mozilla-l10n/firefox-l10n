@@ -275,18 +275,18 @@
 <!ENTITY event.repeat.custom.label                      "Персонализиране…">
 
 <!ENTITY event.recurrence.pattern.label                 "Модел на повторенията">
-<!ENTITY event.recurrence.occurs.label                  "Повторение" >
+<!ENTITY event.recurrence.occurs.label                  "Повтаряне" >
 <!ENTITY event.recurrence.day.label                     "ежедневно" >
 <!ENTITY event.recurrence.week.label                    "ежеседмично" >
 <!ENTITY event.recurrence.month.label                   "ежемесечно" >
 <!ENTITY event.recurrence.year.label                    "ежегодно" >
 
 <!ENTITY event.recurrence.pattern.every.label           "Всеки" >
-<!ENTITY repeat.units.days.both                         "Ден/Дни" >
+<!ENTITY repeat.units.days.both                         "Ден/дни" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Всеки делник" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Всяка/Всеки" >
-<!ENTITY repeat.units.weeks.both                        "Седмица/Седмици" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Всяка/и" >
+<!ENTITY repeat.units.weeks.both                        "Седмица/и" >
 <!ENTITY event.recurrence.on.label                      "В/Във:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "(На) всеки" >
@@ -310,7 +310,7 @@
 
 <!ENTITY event.recurrence.every.label                        "Всяка/на всеки" >
 <!ENTITY repeat.units.years.both                             "Година/и" >
-<!ENTITY event.recurrence.pattern.yearly.every.month.label   "Всеки" >
+<!ENTITY event.recurrence.pattern.yearly.every.month.label   "всеки" >
 
 <!-- LOCALIZATON NOTE
      Some languages use a preposition when describing dates:
