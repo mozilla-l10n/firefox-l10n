@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "방문 기록">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "로그인">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "환경 설정">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "부가 기능">

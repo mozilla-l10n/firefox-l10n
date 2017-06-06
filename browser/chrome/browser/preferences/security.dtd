@@ -24,6 +24,7 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "서식과 비밀번호">
 
 <!ENTITY  rememberLogins1.label          "사이트에 대한 로그인과 비밀번호 기억하기">
 <!ENTITY  rememberLogins1.accesskey      "R">

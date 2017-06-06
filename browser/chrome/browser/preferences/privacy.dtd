@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "추적 방지">
+<!ENTITY  trackingProtection.description       "추적 방지는 웹 페이지 공급자가 접속자의 프로필을 만들기 위해 정보를 수집하고 개인의 웹 서핑 기록과 데이터를 기반으로 해서 웹 콘텐츠를 보여주는 것을 차단하고자 할 때 사용됩니다.">
 <!ENTITY  trackingProtection.radioGroupLabel   "콘텐츠를 띄울 때 추적을 하는 것으로 알려진 회사 막기">
 <!ENTITY  trackingProtectionAlways.label       "항상 사용하기">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
