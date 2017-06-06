@@ -169,7 +169,7 @@
 <!ENTITY folderModeSelector.label "Бумалар көріністері">
 <!-- Sort Menu -->
 
-<!ENTITY sortMenu.label "Бойынша сұрыптау:">
+<!ENTITY sortMenu.label "Бойынша сұрыптау">
 <!ENTITY sortMenu.accesskey "Б">
 <!ENTITY sortByDateCmd.label "Күні">
 <!ENTITY sortByDateCmd.accesskey "н">
@@ -312,8 +312,8 @@
 <!ENTITY goBackCmd.label "Артқа">
 <!ENTITY goBackCmd.accesskey "А">
 <!ENTITY goBackCmd.commandKey "[">
-<!ENTITY goChatCmd.label "Әңгіме">
-<!ENTITY goChatCmd.accesskey "г">
+<!ENTITY goChatCmd.label "Чат">
+<!ENTITY goChatCmd.accesskey "а">
 
 <!ENTITY prevStarredMsgCmd.label "Жұлдызшалы хабарлама">
 <!ENTITY prevStarredMsgCmd.accesskey "Ж">
@@ -371,7 +371,7 @@
 <!ENTITY moveCopyMsgRecentMenu.accesskey "о">
 
 
-<!ENTITY copyMsgToMenu.label "Мынаған көшіріп алу">
+<!ENTITY copyMsgToMenu.label "Қайда көшіріп алу">
 <!ENTITY copyMsgToMenu.accesskey "к">
 
 
@@ -753,7 +753,7 @@
 <!ENTITY contextMoveMsgMenu.accesskey "й">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Соңғы">
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "о">
-<!ENTITY contextCopyMsgMenu.label "Мынаған көшіріп алу">
+<!ENTITY contextCopyMsgMenu.label "Қайда көшіріп алу">
 <!ENTITY contextCopyMsgMenu.accesskey "к">
 
 

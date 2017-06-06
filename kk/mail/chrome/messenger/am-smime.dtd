@@ -23,7 +23,7 @@
 <!ENTITY signingGroupTitle.label "Цифрлық қолтаңбаларды қою">
 <!ENTITY signMessage.label "Хабарламаларға цифрлық қолтаңбаларды қою (үнсіз келісім бойынша)">
 <!ENTITY signMessage.accesskey "ц">
-<!ENTITY signingCert.message "Бұл сертификатты сіх жіберетін хабарламаларға цифрлық қолтаңба қою үшін қолдану:">
+<!ENTITY signingCert.message "Бұл сертификатты сіз жіберетін хабарламаларға цифрлық қолтаңба қою үшін қолдану:">
 
 <!ENTITY certificates.label "Сертификаттар">
 <!ENTITY manageCerts2.label "Сертификаттарды басқару">
