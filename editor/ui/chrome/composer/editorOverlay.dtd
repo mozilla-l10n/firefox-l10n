@@ -5,6 +5,8 @@
 <!-- File menu items -->
 <!-- Edit menu items -->
 
+<!ENTITY pasteNoFormatting.label "Пішімдеусіз кірістіру">
+<!ENTITY pasteNoFormatting.accesskey "д">
 
 <!ENTITY pasteAs.label "Қалайша кірістіру">
 <!ENTITY pasteAs.accesskey "а">

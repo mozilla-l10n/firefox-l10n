@@ -105,7 +105,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "Б">
 <!ENTITY showContactPane2.label                         "Контакт панелі">
 <!ENTITY showContactPane2.accesskey                     "К">
-<!ENTITY menu_ShowNameAs.label                          "Атын қалайшы көрсету:">
+<!ENTITY menu_ShowNameAs.label                          "Атын қалайша көрсету">
 <!ENTITY menu_ShowNameAs.accesskey                      "н">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
@@ -115,7 +115,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY lastFirstCmd.accesskey                         "А">
 
 
-<!ENTITY sortMenu.label                                 "Бойынша сұрыптау:">
+<!ENTITY sortMenu.label                                 "Бойынша сұрыптау">
 <!ENTITY sortMenu.accesskey                             "Б">
 <!-- Tools Menu -->
 

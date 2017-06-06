@@ -4,7 +4,7 @@
 <!ENTITY AttName.label                  "Атрибут: ">
 <!ENTITY AttValue.label                 "Мәні: ">
 <!ENTITY PropertyName.label             "Қасиеті:">
-<!ENTITY currentattributesfor.label     "Назардағы атрибуттер мынаған арналған:">
+<!ENTITY currentattributesfor.label     "Келесі үшін ағымдағы атрибуттар:">
 <!ENTITY tree.attributeHeader.label     "Атрибут">
 <!ENTITY tree.propertyHeader.label      "Қасиеті">
 <!ENTITY tree.valueHeader.label         "Мәні">
