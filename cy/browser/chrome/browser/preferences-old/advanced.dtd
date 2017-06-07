@@ -128,7 +128,7 @@
 <!ENTITY useRecommendedPerformanceSettings.label "Defnyddio gosodiadau perfformiad sy'n cael eu hargymell">
 <!ENTITY useRecommendedPerformanceSettings.description "Mae'r gosodiadau hyn wedi eu teilwrio i galedwedd a system weithredu eich cyfrifiadur.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "D">
-
+<!ENTITY performanceSettingsLearnMore.label "Dysgu rhagor">
 <!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
 <!ENTITY limitContentProcessOption.description "Mae modd gwella perfformiad prosesau cynnwys ychwanegol wrth ddefnyddio tabiau lluosog, ond fydd hefyd yn defnyddio rhagor o gof.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
