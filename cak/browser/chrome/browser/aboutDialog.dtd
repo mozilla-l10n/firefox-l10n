@@ -38,7 +38,7 @@
 <!ENTITY community.middle2          ", jun ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "molaj winaqilal">
-<!ENTITY community.end3             " yojsamäj pa q'u'ch richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya'l.">
+<!ENTITY community.end3             " yojsamäj junam richin jantape' jaqäl chuqa' okel nisamajïx ri k’amaya'l.">
 
 <!ENTITY helpus.start               "¿La nawajo' yato'on? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
