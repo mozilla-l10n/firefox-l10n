@@ -26,7 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "表单与密码">
 
-<!ENTITY  rememberLogins1.label          "记住用于网站的登录信息和密码">
+<!ENTITY  rememberLogins1.label          "记住网站的登录名和密码">
 <!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "例外…">
 <!ENTITY  passwordExceptions.accesskey  "x">
