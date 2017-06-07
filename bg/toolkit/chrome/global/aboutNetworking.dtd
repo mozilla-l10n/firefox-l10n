@@ -33,8 +33,8 @@
 <!ENTITY aboutNetworking.logTutorial           "Вижте <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Журнали на HTTP</a> за инструкции как да използвате този инструмент.">
 <!ENTITY aboutNetworking.currentLogFile        "Текущ журнал:">
 <!ENTITY aboutNetworking.currentLogModules     "Текущи модули:">
-<!ENTITY aboutNetworking.setLogFile            "Избор на журнал">
-<!ENTITY aboutNetworking.setLogModules         "Избор на модули">
+<!ENTITY aboutNetworking.setLogFile            "Задаване на файлове за журнала">
+<!ENTITY aboutNetworking.setLogModules         "Задаване на модули за журнала">
 <!ENTITY aboutNetworking.startLogging          "Започване">
 <!ENTITY aboutNetworking.stopLogging           "Спиране">
 <!ENTITY aboutNetworking.dnsLookup             "Търсене в DNS">
