@@ -65,7 +65,7 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Det kan vere at du må installere anna programvare for å opne denne adressa.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Mellomtenar godtek ikkje tilkoplingar">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at mellomtenaren fungerar.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Kontroller at mellomtenarinnstillingane er korrekte.</li> <li>Kontakt nettverksansvarleg for å forsikre deg om at mellomtenaren fungerer.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Klarte ikkje å finne mellomtenaren">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Kontroller at innstillingane for mellomtenar er rette.</li> <li>Kontroller at datamaskina har ei fungerande nettverkstilkopling.</li> <li>Dersom datamaskina di eller nettverket er verna av ein brannmur eller mellomtenar, kontroller at &brandShortName; har løyve til å kople til Internett.</li> </ul>">
