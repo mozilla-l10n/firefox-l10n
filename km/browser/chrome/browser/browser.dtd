@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "បន្ថែម​ទៅ​ម៉ឺនុយ Overflow">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ផ្លាស់ទី​ទៅរបារ​ឧបករណ៍">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ផ្លាស់​ទី​​ទៅ​ម៉ឺនុយ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ខ្ទាស់​ទៅ​ម៉ឺនុយ Overflow">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ដោះ​ខ្ទាស់​ចេញពី​ម៉ឺនុយ Overflow">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "លុប​ចេញពី​របារ​ឧបករណ៍">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "លុប​ចេញពី​ម៉ឺនុយ">
@@ -408,6 +414,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "ច្រើន​ទៀត">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ស្វែងរក ឬ​បញ្ចូល​អាសយដ្ឋាន">
@@ -425,7 +432,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ព័ត៌មាន​ជំនួយ៖">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "ទទួល​បាន​ជំនួយ​ក្នុង​ការ​ស្វែងរក! រក​មើល &#x1F50E; ដែល​នៅ​ក្បែរ​សំណើ​ស្វែងរក។">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "ផ្លាស់ប្ដូរ​ជម្រើស…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "ផ្លាស់ប្ដូរ​ចំណូលចិត្ត…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -532,13 +545,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewVideoCmd.accesskey       "I">
 <!ENTITY viewBGImageCmd.label         "មើល​រូបភាព​ផ្ទៃ​ខាងក្រោយ">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "កំណត់​ផ្ទៃ​ខាង​ក្រោយ​របស់​​ផ្ទៃតុ">
+<!ENTITY setDesktopBackgroundCmd.label      "កំណត់​ជា​ផ្ទៃ​ខាងក្រោយ​របស់​​ផ្ទៃតុ...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "ចំណាំ​ទំព័រ​នេះ">
 <!ENTITY bookmarkThisLinkCmd.label      "ចំណាំ​តំណ​នេះ">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "ចំណាំ​ស៊ុម​នេះ">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
+<!ENTITY copyURLCmd.label             "ចម្លង URL">
 <!ENTITY emailPageCmd.label           "តំណ​អ៊ីមែល…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "រក្សា​ទុក​ទំព័រជា...">
@@ -664,6 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "បិទ​របារ​ចំហៀង">
+<!ENTITY sidebarMenuClose.label         "បិទ​របារ​ចំហៀង">
 
 <!ENTITY quitApplicationCmdWin2.label       "ចេញ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -673,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "ចេញ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "បិទ &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "បិទ">  
 <!ENTITY closeCmd.key                   "W">  
