@@ -8,7 +8,8 @@
 
 <!ENTITY dialogCompose.title                 "Құрастыру">
 
-
+<!ENTITY forwardMsg.label                     "Хабарламаларды қайта бағдарлау:">
+<!ENTITY forwardMsg.accesskey                 "й">
 
 <!ENTITY asAttachment.label                   "Салыным ретінде">
 

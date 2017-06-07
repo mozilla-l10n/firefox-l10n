@@ -3,19 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Mail Content -->
 
+<!ENTITY captionMailContent.label "Пошта құрамасы">
+
 
 <!ENTITY remoteContentExceptions.label "Ережелерден бөлек…">
 <!ENTITY remoteContentExceptions.accesskey "р">
-
+<!ENTITY acceptRemoteContentInfo.label "Қашықтағы құраманың жекелік мәселелері жөнінде көбірек білу">
 <!-- Web Content -->
 
 <!ENTITY captionWebContent.label "Веб құрамасы">
 
-
-
-
-
-
+<!ENTITY keepHistory.label "Мен шолған вебсайттар және сілтемелерді есте сақтау">
+<!ENTITY keepHistory.accesskey "е">
+<!ENTITY acceptCookies.label "Cookies қабылдау">
+<!ENTITY acceptCookies.accesskey "д">
+<!ENTITY acceptThirdParty.pre.label "Үшінші жақты cookies қабылдау:">
+<!ENTITY acceptThirdParty.pre.accesskey "б">
 <!ENTITY acceptThirdParty.always.label "Әрқашан">
 <!ENTITY acceptThirdParty.never.label "Ешқашан">
 <!ENTITY acceptThirdParty.visited.label "Мен болған жерден ғана">

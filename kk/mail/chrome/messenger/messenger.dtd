@@ -588,10 +588,12 @@
 <!ENTITY buttonMenuForwardAsAttachment.label "Салыным ретінде қайта бағдарлау">
 <!-- Remote Content Button Popup -->
 
-
-
-
-
+<!ENTITY remoteContentOptionsAllowForMsg.label "Бұл хабарламадағы қашықтағы құраманы көрсету">
+<!ENTITY remoteContentOptionsAllowForMsg.accesskey "с">
+<!ENTITY editRemoteContentSettings.label "Қашықтағы құраманы баптауларын түзету…">
+<!ENTITY editRemoteContentSettings.accesskey "е">
+<!ENTITY editRemoteContentSettingsUnix.label "Қашықтағы құраманы баптауларын түзету…">
+<!ENTITY editRemoteContentSettingsUnix.accesskey "е">
 <!-- Phishing Button Popup -->
 
 

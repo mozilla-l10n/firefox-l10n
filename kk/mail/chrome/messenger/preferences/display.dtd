@@ -20,9 +20,11 @@
 <!ENTITY quotedTextColor.label            "Түс:">
 <!ENTITY quotedTextColor.accesskey        "с">
 <!ENTITY displayWidth.label               "Ашық мәтін хабарламалары">
-
+<!ENTITY displayText.label                "Дәйексөз ретінде алынған ашық мәтін хабарламаларын көрсету кезінде:">
 <!-- LOCALIZATION NOTE : (emoticonsAndStructs.label) 'Emoticons' are also known as 'Smileys', e.g. :-)   -->
 
+<!ENTITY convertEmoticons.label        "Смайликтерді суреттер ретінде көрсету">
+<!ENTITY convertEmoticons.accesskey    "С">
 <!-- labels -->
 <!ENTITY newTagButton.label        "Жаңа…">
 <!ENTITY newTagButton.accesskey    "а">
@@ -48,20 +50,21 @@
 
 
 
-
-
-
+<!ENTITY autoMarkAsRead.label             "Хабарламаларды оқылған ретінде автобелгілеу">
+<!ENTITY autoMarkAsRead.accesskey         "а">
+<!ENTITY markAsReadNoDelay.label          "Көрсету уақытында">
+<!ENTITY markAsReadNoDelay.accesskey      "ы">
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
 
 <!ENTITY secondsLabel.label               "секунд">
-
+<!ENTITY openMsgIn.label                  "Хабарламаларды қайда ашу:">
 <!ENTITY openMsgInNewTab.label            "Жаңа бет">
 <!ENTITY openMsgInNewTab.accesskey        "т">
-
-
-
-
-
-
+<!ENTITY reuseExpRadio0.label             "Жаңа хабарлама терезесі">
+<!ENTITY reuseExpRadio0.accesskey         "а">
+<!ENTITY reuseExpRadio1.label             "Бар болып тұрған хабарлама терезесі">
+<!ENTITY reuseExpRadio1.accesskey         "ы">
+<!ENTITY closeMsgOnMoveOrDelete.label     "Жылжыту немесе өшіру кезінде хабарлама терезесін/бетін жабу">
+<!ENTITY closeMsgOnMoveOrDelete.accesskey "ж">
