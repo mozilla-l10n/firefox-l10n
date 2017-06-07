@@ -45,7 +45,7 @@
 <!ENTITY saveAsFileCmd.key "с">
 <!ENTITY saveAsTemplateCmd.label "Үлгі">
 <!ENTITY saveAsTemplateCmd.accesskey "л">
-<!ENTITY getNewMsgForCmd.label "Келесі үшін жаңа хабарламаларды алу:">
+<!ENTITY getNewMsgForCmd.label "Келесі үшін жаңа хабарламаларды алу">
 <!ENTITY getNewMsgForCmd.accesskey "ж">
 <!ENTITY getAllNewMsgCmdPopupMenu.label "Барлық тіркелгілер">
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "а">
@@ -62,7 +62,7 @@
 <!ENTITY renameFolder.label "Бума атауын өзгерту…">
 <!ENTITY renameFolder.accesskey "з">
 <!ENTITY renameFolder.key "VK_F2">
-<!ENTITY compactFolders.label "Бумаларды ықшамды">
+<!ENTITY compactFolders.label "Бумаларды ықшамдау">
 <!ENTITY compactFolders.accesskey "Б">
 <!ENTITY emptyTrashCmd.label "Қоқыс шелегін тазарту">
 <!ENTITY emptyTrashCmd.accesskey "а">
