@@ -582,7 +582,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.label          "இந்த செருகுநிரலை மறைக்கவும்">
 <!ENTITY hidePluginCmd.accesskey      "H">
-<!ENTITY copyLinkCmd.label            "தொடுப்பை இடத்தை நகலெடு">
+<!ENTITY copyLinkCmd.label            "தொடுப்பை நகலெடு">
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "பட இடத்தை நகலெடு">
 <!ENTITY copyImageCmd.accesskey       "o">
