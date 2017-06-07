@@ -28,10 +28,10 @@ sentence. -->
 
 <!ENTITY  play.label                          "Ойнау">
 <!ENTITY  play.accesskey                      "О">
-
-
-
-
+<!ENTITY  systemSound.label                   "Жаңа хат үшін жүйенің негізгі дыбысы">
+<!ENTITY  systemSound.accesskey               "г">
+<!ENTITY  customsound.label                   "Келесі дыбыс файлын қолдану">
+<!ENTITY  customsound.accesskey               "д">
 <!ENTITY  browse.label                        "Шолу…">
 <!ENTITY  browse.accesskey                    "Ш">
 
