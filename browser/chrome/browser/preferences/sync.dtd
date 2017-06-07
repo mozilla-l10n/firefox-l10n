@@ -67,6 +67,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "ចូល">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "ការ​កំណត់​សមកាលកម្ម">
+<!ENTITY signedIn.settings.description "ជ្រើស​អ្វី​ដែល​ត្រូវ​ធ្វើ​សមកាលកម្ម​នៅ​លើ​ឧបករណ៍​របស់​អ្នក​ដោយ​ប្រើ &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
