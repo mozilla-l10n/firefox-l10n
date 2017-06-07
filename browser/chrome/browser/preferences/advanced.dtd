@@ -142,7 +142,13 @@
                                          "Bruk tilrådde ytingsinnstillingar">
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Desse innstillingane er skreddarsydd til datamaskinas maskinvare og operativsystem.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "B">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
+<!ENTITY limitContentProcessOption.label "Grense for innhaldsprosessar">
+<!ENTITY limitContentProcessOption.description
+                                         "Ytterlegere innhaldsprosessar kan forbetre ytinga når du brukar fleire faner, men vil også bruke meir minne.">
+<!ENTITY limitContentProcessOption.accesskey   "Y">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
