@@ -21,17 +21,20 @@
 <!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ករណី​លើកលែង…">
-<!ENTITY  addonExceptions.accesskey     "ង">
+<!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "ទម្រង់ &amp; ពាក្យសម្ងាត់">
 
+<!ENTITY  rememberLogins1.label          "ចងចាំ​ពាក្យសម្ងាត់​និង​ការ​ចូល​សម្រាប់​វេបសាយ">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ករណី​លើកលែង…">
-<!ENTITY  passwordExceptions.accesskey  "ង">
+<!ENTITY  passwordExceptions.accesskey  "x">
 
 <!ENTITY  useMasterPassword.label        "ប្រើ​ពាក្យ​សម្ងាត់​មេ ">
-<!ENTITY  useMasterPassword.accesskey    "ម">
+<!ENTITY  useMasterPassword.accesskey    "U">
 <!ENTITY  changeMasterPassword.label     "ផ្លាស់ប្ដូរ​ពាក្យ​សម្ងាត់​មេ…">
-<!ENTITY  changeMasterPassword.accesskey "ស">
+<!ENTITY  changeMasterPassword.accesskey "M">
 
 <!ENTITY  savedLogins.label              "ការ​ចូល​ដែល​បាន​រក្សាទុក...">
 <!ENTITY  savedLogins.accesskey          "L">
