@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Huutoro Ndeenka Dewindol">
-
-
+<!ENTITY  trackingProtection.description       "Rewindo ko denndingol kabaruuji jowitiiɗi e maa ngam ayaawo e hollitde loowdi fawaade e banngagol maa e keɓe maa keeriiɗe.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Faddo pelle dewinnditooɗe ganndiraaɗi hollitde loowdi">
 <!ENTITY  trackingProtectionAlways.label       "Sahaa kala">
 <!ENTITY  trackingProtectionAlways.accesskey   "a">
 <!ENTITY  trackingProtectionPrivate.label      "E henorde suuriinde tan">
