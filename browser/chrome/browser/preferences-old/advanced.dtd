@@ -125,7 +125,14 @@
 <!ENTITY viewSecurityDevices.accesskey   "K">
 
 <!ENTITY performance.label               "Kinerja">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Gunakan setelan kinerja yang disarankan">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Setelan ini dirancang untuk perangkat keras dan sistem operasi komputer Anda.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "G">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Pelajari lebih lanjut">
+<!ENTITY limitContentProcessOption.label "Batas proses konten">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "a">
