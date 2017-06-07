@@ -13,7 +13,7 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
-<!ENTITY tabCrashed.header2 "Rayos. Tu pestaña acaba de caerse.">
+<!ENTITY tabCrashed.header2 "Chuta. Tu pestaña acaba de caerse.">
 <!ENTITY tabCrashed.offerHelp "¡Te podemos ayudar!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Elije &tabCrashed.restoreTab; para recargar el contenido de la página.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Elije &tabCrashed.restoreTab; o &tabCrashed.restoreAll; para recargar el contenido de la página.">
