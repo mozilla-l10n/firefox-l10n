@@ -740,6 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "ទំព័រ​នេះ​ត្រូវ​បាន​រក្សាទុក​នៅ​ក្នុង​កុំព្យូទ័រ​របស់​អ្នក។">
 <!ENTITY identity.connectionVerified2 "អ្នក​ត្រូវ​បាន​តភ្ជាប់​​ដោយ​សុវត្ថិភាព​ទៅ​វេបសាយ​នេះ ដែល​ជា​​របស់​៖">
 <!ENTITY identity.connectionInternal "នេះគឺជាទំព័រ &brandShortName; ដែល​មាន​សុវត្ថិភាព">
+<!ENTITY identity.extensionPage "ទំព័រ​នេះ​បាន​ផ្ទុក​ចេញពី​កម្មវិធី​ផ្នែក​បន្ថែម។">
 <!ENTITY identity.insecureLoginForms2 "ការ​ចូល​ទាំង​ឡាយ​ដែល​បាន​បញ្ចូល​ក្នុង​ទំព័រ​នេះ​អាច​ត្រូវ​បាន​គេ​សម្របសម្រួល​។ ​">
 
 <!-- Strings for connection state warnings. -->
@@ -838,7 +839,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "ចង់​បាន​ឧបករណ៍​បន្ថែម​ឬ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "ជ្រើស​ពី​កម្មវិធី​បន្ថែម​រាប់​ពាន់">
 <!ENTITY customizeMode.restoreDefaults "ស្ដារ​លំនាំ​ដើម">
+<!ENTITY customizeMode.done "ធ្វើ​រួច">
 <!ENTITY customizeMode.titlebar "របារ​ចំណងជើង">
+<!ENTITY customizeMode.toolbars2 "របារ​ឧបករណ៍">
 <!ENTITY customizeMode.lwthemes "រូបរាង">
 <!ENTITY customizeMode.lwthemes.myThemes "រូបរាង​របស់​ខ្ញុំ">
 <!ENTITY customizeMode.lwthemes.recommended "បាន​ផ្ដល់​អនុសាសន៍">
@@ -952,6 +955,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "កុំ​ទាន់​អាល">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "ចាប់ផ្ដើម​ឡើងវិញ​ដើម្បី​ធ្វើ​បច្ចុប្បន្នភាព &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "ទំព័រ​សកម្មភាព">
 
+<!ENTITY sendToDevice.label "បញ្ជូន​ទៅ​ឧបករណ៍…">
+<!ENTITY sendToDevice.viewTitle "បញ្ជូន​ទៅ​ឧបករណ៍">
+<!ENTITY sendToDevice.fxaRequired.label "ទាមទារ">
+<!ENTITY sendToDevice.noDevices.label "មិន​មាន​ឧបករណ៍">
