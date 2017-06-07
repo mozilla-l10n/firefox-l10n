@@ -343,8 +343,8 @@
 
 
 
-
-
+<!ENTITY replyToAllMsgCmd.label "Барлығына жауап беру">
+<!ENTITY replyToAllMsgCmd.accesskey "п">
 
 <!ENTITY replyToListMsgCmd.label "Тізімге жауап беру">
 <!ENTITY replyToListMsgCmd.accesskey "Т">
@@ -352,14 +352,14 @@
 <!ENTITY forwardMsgCmd.label "Алға">
 <!ENTITY forwardMsgCmd.accesskey "л">
 
-
-
+<!ENTITY forwardAsMenu.label "Қалайша қайта бағдарлау">
+<!ENTITY forwardAsMenu.accesskey "й">
 <!ENTITY forwardAsInline.label "Мәтін бетінде">
 <!ENTITY forwardAsInline.accesskey "М">
 <!ENTITY forwardAsAttachmentCmd.label "Салыным">
 <!ENTITY forwardAsAttachmentCmd.accesskey "а">
-
-
+<!ENTITY editAsNewMsgCmd.label "Жаңа хабарлама ретінде түзету">
+<!ENTITY editAsNewMsgCmd.accesskey "е">
 
 
 
@@ -585,7 +585,7 @@
 <!ENTITY compactButton.tooltip "Таңдалған бумадан өшірілген хабарламаларды жою">
 <!ENTITY appmenuButton1.tooltip "&brandShortName; мәзірін көрсету">
 <!-- Toolbar Button Popup -->
-
+<!ENTITY buttonMenuForwardAsAttachment.label "Салыным ретінде қайта бағдарлау">
 <!-- Remote Content Button Popup -->
 
 
@@ -726,8 +726,8 @@
 
 
 
-
-
+<!ENTITY contextEditMsgAsNew.label "Жаңа хабарлама ретінде түзету">
+<!ENTITY contextEditMsgAsNew.accesskey "е">
 
 <!ENTITY contextArchive.label "Архивтеу">
 <!ENTITY contextArchive.accesskey "х">
@@ -735,20 +735,20 @@
 
 
 
-
-
+<!ENTITY contextReplyAll.label "Барлығына жауап беру">
+<!ENTITY contextReplyAll.accesskey "а">
 <!ENTITY contextReplyList.label "Тізімге жауап беру">
 <!ENTITY contextReplyList.accesskey "Т">
 <!ENTITY contextForward.label "Алға">
 <!ENTITY contextForward.accesskey "л">
-
-
+<!ENTITY contextForwardAsMenu.label "Қалайша қайта бағдарлау">
+<!ENTITY contextForwardAsMenu.accesskey "а">
 <!ENTITY contextForwardAsInline.label "Хат бетінде">
 <!ENTITY contextForwardAsInline.accesskey "Х">
 <!ENTITY contextForwardAsAttachmentItem.label "Салыным">
 <!ENTITY contextForwardAsAttachmentItem.accesskey "а">
-
-
+<!ENTITY contextMultiForwardAsAttachment.label "Салынымдар ретінде қайта бағдарлау">
+<!ENTITY contextMultiForwardAsAttachment.accesskey "а">
 <!ENTITY contextMoveMsgMenu.label "Қайда жылжыту">
 <!ENTITY contextMoveMsgMenu.accesskey "й">
 <!ENTITY contextMoveCopyMsgRecentMenu.label "Соңғы">
