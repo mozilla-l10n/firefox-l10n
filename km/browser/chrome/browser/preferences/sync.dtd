@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ប្រវត្តិ">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "ចូល">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "ចំណូលចិត្ត">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "កម្មវិធី​បន្ថែម">
@@ -17,6 +19,8 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "ឈ្មោះ​ឧបករណ៍ ">
+<!ENTITY changeSyncDeviceName2.label "ប្ដូរ​ឈ្មោះ​ឧបករណ៍…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "បោះបង់">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "រក្សា​ទុក">
@@ -48,6 +52,8 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "ប្តូរ​​រូប​ប្រូ​ហ្វាល់">
 <!ENTITY verifiedManage.label        "គ្រប់គ្រង​គណនី">
 <!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "ផ្ដាច់...">
+<!ENTITY disconnect3.accesskey       "D">
 <!ENTITY verify.label                "ផ្ទៀងផ្ទាត់​អ៊ីមែល">
 <!ENTITY verify.accesskey            "V">
 <!ENTITY forget.label                "ភ្លេច​អ៊ីមែល​នេះ">
