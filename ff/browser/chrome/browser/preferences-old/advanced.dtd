@@ -116,7 +116,7 @@
 <!ENTITY selectCerts.auto                "Labo gootal e jaajol">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Naamno mi e sahaa kala">
-
+<!ENTITY selectCerts.ask.accesskey       "Y">
 <!ENTITY enableOCSP.label                "Ɗaɓɓitere OCSP carworɗe jaaborɗe ena teeŋtina moƴƴugol seedamfaaje">
 <!ENTITY enableOCSP.accesskey            "Ɗ">
 <!ENTITY viewCerts.label                 "Hollu Seedamfaaji">
