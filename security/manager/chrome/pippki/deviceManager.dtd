@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Arakatu...">
 <!ENTITY loaddevice.browse.accesskey            "A">
 
+<!ENTITY loaddevice.title2                      "Kargatu PKCS#11 gailuaren kontrolatzailea">
