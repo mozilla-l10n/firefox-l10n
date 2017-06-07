@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "இந்த முகவரி தடுக்கப்பட்டுள்ளது">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "சேவையகத்தை காண முடியவில்லை">
+<!ENTITY dnsNotFound.title "சேவையகத்தை அணுக முடியவில்லை">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "<ul> <li>தட்டச்சு பிழைகளைக் காண முகவரியைச் சரிபார்க்கவும் <strong>www</strong>.thamizha.org விற்கு பதிலாக <strong>ww</strong>.thamizha.org</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>உங்களால் பக்கங்களை ஏற்ற முடிவில்லை எனில், சாதனத்தில் தரவு அல்லது வை-பை இணையத்தைச் சரிபார்க்கவும். <button id='wifi'>வை-பை செயல்படுத்து</button> </li> </ul>">
@@ -52,7 +52,7 @@
 <!ENTITY unsafeContentType.title "பாதுகாப்பில்லாத கோப்பு வகை">
 <!ENTITY unsafeContentType.longDesc "<ul> <li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> </ul>">
 
-<!ENTITY netReset.title "இணைப்பு மறுஅமைக்கப்பட்டது">
+<!ENTITY netReset.title "இணைப்பு மீட்டமைக்கப்பட்டது">
 <!ENTITY netReset.longDesc2 "&sharedLongDesc3;">
 
 <!ENTITY netTimeout.title "இணைப்பு நேரம் முடிந்தது">
