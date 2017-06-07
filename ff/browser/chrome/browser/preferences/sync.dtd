@@ -6,12 +6,12 @@
 
 <!ENTITY engine.bookmarks.label     "Maantore am">
 <!ENTITY engine.bookmarks.accesskey "t">
-
-
+<!ENTITY engine.tabs.label2         "Uddit tabbe">
+<!ENTITY engine.tabs.accesskey      "N">
 <!ENTITY engine.history.label       "Aslol">
 <!ENTITY engine.history.accesskey   "o">
-
-
+<!ENTITY engine.logins.label        "Ceŋorɗe">
+<!ENTITY engine.logins.accesskey    "C">
 <!ENTITY engine.prefs.label         "Cuɓoraaɗe">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Ɓeyditte">
@@ -19,8 +19,8 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Innde Kaɓirgol">
-
-
+<!ENTITY changeSyncDeviceName2.label "Waylu Innde Kaɓirgel…">
+<!ENTITY changeSyncDeviceName2.accesskey "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Haaytu">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "t">
 <!ENTITY saveChangeSyncDeviceName.label "Danndu">
@@ -52,20 +52,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY profilePicture.tooltip      "Waylu natal heftinirde">
 <!ENTITY verifiedManage.label        "Toppito Konte">
 <!ENTITY verifiedManage.accesskey    "o">
-
-
+<!ENTITY disconnect3.label           "Seŋtondir…">
+<!ENTITY disconnect3.accesskey       "d">
 <!ENTITY verify.label                "Ƴeewto Iimeel">
 <!ENTITY verify.accesskey            "w">
 <!ENTITY forget.label                "Yejjit oo Iimeel">
 <!ENTITY forget.accesskey            "Y">
 
+<!ENTITY signedOut.caption            "Nawor Geesa Maa">
 <!ENTITY signedOut.description        "Sanngoɗin maantore maa, aslol, tabbe, finndeeji, ɓeyditte e cuɓoraade e kaɓirɗi maa fof.">
 <!ENTITY signedOut.accountBox.title   "Seŋoro &syncBrand.fxAccount.label;">
-
+<!ENTITY signedOut.accountBox.create  "Sos Kontal">
 <!ENTITY signedOut.accountBox.create.accesskey  "K">
-
+<!ENTITY signedOut.accountBox.signin  "Seŋo">
 <!ENTITY signedOut.accountBox.signin.accesskey  "S">
 
+<!ENTITY signedIn.settings.label       "Yahdin teelte">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

@@ -24,9 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "P">
 
 
-<!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; piille">
+<!ENTITY  formsAndPasswords.label       "Formileeruuji &amp; pinle">
 
-
+<!ENTITY  rememberLogins1.label          "Siiftor baccooje e pinle lowe">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "Paltooje…">
 <!ENTITY  passwordExceptions.accesskey  "a">
 
