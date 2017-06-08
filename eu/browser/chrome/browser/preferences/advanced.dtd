@@ -92,8 +92,8 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
-<!ENTITY updateApplication.version.pre   "Bertsioa: ">
-<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.version.pre   "​">
+<!ENTITY updateApplication.version.post  "bertsioa">
 <!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
 <!ENTITY updateAuto2.label               "Eguneraketak automatikoki instalatzen (gomendatua: segurtasun hobea)">
 <!ENTITY updateAuto2.accesskey           "E">
