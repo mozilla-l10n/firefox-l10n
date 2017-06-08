@@ -14,19 +14,19 @@
 <!ENTITY kb.label "КБ">
 <!ENTITY daysOld.label "күннен ескі">
 <!ENTITY message.label "хабарлама">
-
-
-
-
+<!ENTITY nntpNotDownloadRead.label "Оқылған хабарламалар">
+<!ENTITY nntpNotDownloadRead.accesskey "ы">
+<!ENTITY nntpDownloadMsg.label "Хабарламалар келесіден үлкенірек">
+<!ENTITY nntpDownloadMsg.accesskey "а">
 <!ENTITY retentionCleanup.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады.">
 <!ENTITY retentionCleanupImap.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде жергілікті көшірмелер және қашықтағы сервердегі түпнұсқалар.">
 <!ENTITY retentionCleanupPop.label "Диск орнын босату үшін, ескі хабарламаларды толығымен өшіруге болады, соның ішінде қашықтағы сервердегі түпнұсқалар.">
-
-
-
-
-
-
+<!ENTITY retentionKeepMsg.label "Келесіден үлкенірек хабарламаларды өшіру">
+<!ENTITY retentionKeepMsg.accesskey "ш">
+<!ENTITY retentionKeepAll.label "Хабарламаларды өшірмеу">
+<!ENTITY retentionKeepAll.accesskey "м">
+<!ENTITY retentionKeepRecent.label "Барлығын өшіру, тек соңғыларын қалдырып">
+<!ENTITY retentionKeepRecent.accesskey "т">
 
 
 
@@ -36,7 +36,7 @@
 <!ENTITY offlineImapAdvancedOffline.label "Қосымша…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
 
-
+<!ENTITY diskspaceGroupTitle.label "Дискідегі орын">
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear
   on a single line within the scope of useAutosync.ByAge as follows:
