@@ -93,6 +93,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip "Visualizza le note di versione per questo aggiornamento">
 <!ENTITY cmd.hideReleaseNotes.label "Nascondi note di versione">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Nascondi le note di versione per questo aggiornamento">
+<!ENTITY cmd.findReplacement.label "Trova un’alternativa">
 <!ENTITY discover.title "Che cosa sono i componenti aggiuntivi?">
 <!ENTITY discover.description2 "I componenti aggiuntivi sono applicazioni che permettono di personalizzare &brandShortName; aggiungendo nuove caratteristiche o modificandone l’aspetto. Rendi &brandShortName; unico aggiungendo una nuova barra laterale per risparmiare tempo, visualizza le notifiche del meteo direttamente in &brandShortName; o cambiane l’aspetto con un nuovo tema.">
 <!ENTITY discover.footer "Quando si è connessi a Internet in questo pannello vengono visualizzati alcuni dei componenti aggiuntivi più popolari e più interessanti.">
@@ -141,7 +142,7 @@
 <!ENTITY addon.details.label "Altro">
 <!ENTITY addon.details.tooltip "Visualizza ulteriori dettagli su questo componente aggiuntivo">
 <!ENTITY addon.unknownDate "Sconosciuto">
-<!ENTITY addon.legacy.label "OBSOLETO">
+<!ENTITY addon.legacy.label "OBSOLETA">
 <!ENTITY addon.disabled.postfix "(disattivato)">
 <!ENTITY addon.update.postfix "Aggiorna">
 <!ENTITY addon.undoAction.label "Annulla">
@@ -181,3 +182,7 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "Manca qualcosa? Alcuni plugin non sono più supportati da &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ulteriori informazioni.">
+<!ENTITY legacyWarning.description "Manca qualcosa? Alcune estensioni non sono più supportate da Firefox.">
+<!ENTITY legacyWarning.showLegacy "Mostra le estensioni obsolete">
+<!ENTITY legacyExtensions.description "Queste estensioni non soddisfano gli standard attualmente richiesti da Firefox e sono state disattivate.">
+<!ENTITY legacyExtensions.learnMore "Informazioni sui cambiamenti riguardanti le estensioni in Firefox">
