@@ -363,8 +363,8 @@
 
 
 
-
-
+<!ENTITY createFilter.label "Хабарламадан сүзгіні жасау…">
+<!ENTITY createFilter.accesskey "а">
 <!ENTITY moveMsgToMenu.label "Қайда жылжыту">
 <!ENTITY moveMsgToMenu.accesskey "й">
 <!ENTITY moveCopyMsgRecentMenu.label "Соңғы">
