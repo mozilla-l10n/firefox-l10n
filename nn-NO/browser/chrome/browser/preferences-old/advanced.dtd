@@ -127,7 +127,12 @@
 <!ENTITY performance.label               "Yting">
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "Bruk tilrådde ytingsinnstillingar">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Desse innstillingane er skreddarsydde for maskinvare og operativsystem i datamaskina di.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "B">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
+<!ENTITY limitContentProcessOption.label "Grense for innhaldsprosessar">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
