@@ -27,7 +27,7 @@
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">
+<!ENTITY prefs.tosLink.label        "சேவை விதிமுறைகள்">
 <!ENTITY fxaPrivacyNotice.link.label "தனியுரிம கொள்கை">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -68,7 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
 <!ENTITY signedIn.settings.label       "ஒத்திசைவு அமைவுகள்">
-
+<!ENTITY signedIn.settings.description "கீழ்க்கண்டவற்றில் வேண்டியதைத் தேர்வு செய்து &brandShortName; மூலம் ஒத்திசை.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

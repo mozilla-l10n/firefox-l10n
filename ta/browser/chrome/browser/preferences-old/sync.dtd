@@ -27,7 +27,7 @@
 <!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!-- Footer stuff -->
 
-<!ENTITY prefs.tosLink.label        "சேவைகளின் விதிமுறைகள்">
+<!ENTITY prefs.tosLink.label        "சேவை விதிமுறைகள்">
 <!ENTITY fxaPrivacyNotice.link.label "தனியுரிம கொள்கை">
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively

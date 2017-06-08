@@ -20,7 +20,8 @@
 <!ENTITY installAddonFromFile.accesskey       "க">
 <!ENTITY toolsMenu.tooltip                    "அனைத்து கூடுதல் இணைப்புகளுக்குமான கருவிகள்">
 
-
+<!ENTITY getThemes.description                "உங்கள் உலாவியை விருப்பமைக்க பார்க்கிறீர்களா?">
+<!ENTITY getThemes.learnMore                  "ஆயிரக்கணககான கருப்பொருள்களில் இருந்து தேர்ந்தெடு.">
 
 <!ENTITY cmd.back.tooltip                     "ஒரு பக்கம் பின் செல்">
 <!ENTITY cmd.forward.tooltip                  "ஒரு பக்கம் முன் செல்">

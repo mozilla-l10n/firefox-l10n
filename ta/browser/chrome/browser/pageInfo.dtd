@@ -74,7 +74,7 @@
 <!ENTITY  securityView.identity.domain   "இணையத்தளம்:">
 <!ENTITY  securityView.identity.verifier "சரிபார்த்தவர்:">
 
-<!ENTITY  securityView.privacy.header                   "தனிப்பட்ட &amp; வரலாறு">
+<!ENTITY  securityView.privacy.header                   "தனியுரிமை &amp; வரலாறு">
 <!ENTITY  securityView.privacy.history                  "இன்று நான் இந்த இணையதளத்தை முன்பு பார்த்தேனா?">
 <!ENTITY  securityView.privacy.cookies                  "இந்த இணைய தளம் தகவல்களை (குக்கீகளை) என் கணினியில் சேமிக்கிறதா?">
 <!ENTITY  securityView.privacy.viewCookies              "குக்கீகளை பார்வையிடு">

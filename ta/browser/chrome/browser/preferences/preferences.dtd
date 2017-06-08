@@ -15,10 +15,12 @@
 
 <!ENTITY  paneGeneral.title             "பொது">
 
-
+<!ENTITY  panePrivacySecurity.title     "தனியுரிமை &amp; பாதுகாப்பு">
 
 
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
+
+<!ENTITY  paneSync1.title          "பயர்பாக்ஸ் கணக்கு">
 
 
 <!ENTITY  searchInput.label        "தேடு">

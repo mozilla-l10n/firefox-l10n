@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "தடமறியல் பாதுகாப்பு">
 
-
+<!ENTITY  trackingProtection.radioGroupLabel   "உள்ளடக்கத்தைக் காட்டும் நன்கு அறிந்த தடமறி நிறுவனங்களைத் தடு">
 <!ENTITY  trackingProtectionAlways.label       "எப்போதும்">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "தனிப்பட்ட சாளரத்தில் மட்டும்">
@@ -39,11 +39,12 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "கீற்றுகளைத் திற">
 <!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "முன்னிருப்பு தேடுபொறியிலிருந்து தொடர்புடைய தேடல்கள்">
+<!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "தேடுபொறி பரிந்துரைத்துலுக்கான முன்னுரிமைகளை மாற்று">
 
-
-
-<!ENTITY  acceptCookies.label           "இணைய தளங்களிலிருந்து நினைவிகளை அனுமதிக்கவும்">
+<!ENTITY  acceptCookies.label           "தளங்களிலிருந்து நினைவிகளை அனுமதி">
 <!ENTITY  acceptCookies.accesskey       "அ">
 
 <!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பு நினைவிகளை அனுமதிக்கவும்:">
@@ -64,10 +65,11 @@
 <!ENTITY  showCookies.label             "நினைவிகளைக் காட்டு…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
-<!ENTITY  historyHeader.remember.label     "வரலாற்றை நினைவு கொள்">
-<!ENTITY  historyHeader.dontremember.label "வரலாற்றை ஒருபோதும் நினைவில் கொள்ளாதே">
-<!ENTITY  historyHeader.custom.label       "வரலாற்றுக்குத் தனிபயன் அமைவுகளைப் பயன்படுத்து">
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
+<!ENTITY  historyHeader.remember.label     "வரலாறை நினைவில் வைக்கும்">
+<!ENTITY  historyHeader.dontremember.label "வரலாற்றை நினைவில் வைக்காது">
+<!ENTITY  historyHeader.custom.label       "வரலாறுக்கான விருப்பமை அமைவுகளைப் பாவிக்கும்">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
@@ -98,7 +100,7 @@
 <!ENTITY  rememberSearchForm.label       "தேடும் மற்றும் படிவ வரலாற்றை நினைவில் கொள்">
 <!ENTITY  rememberSearchForm.accesskey   "f">
 
-<!ENTITY  clearOnClose.label             "&brandShortName; மூடும் போது வரலாற்றை துடை">
+<!ENTITY  clearOnClose.label             "&brandShortName; மூடுகையில் வரலாற்றைத் துடை">
 <!ENTITY  clearOnClose.accesskey         "r">
 
 <!ENTITY  clearOnCloseSettings.label     "அமைவுகள்…">
