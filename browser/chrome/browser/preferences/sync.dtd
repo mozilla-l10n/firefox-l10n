@@ -67,6 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "உள்நுழை">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "ஒத்திசைவு அமைவுகள்">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.

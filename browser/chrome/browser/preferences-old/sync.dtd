@@ -74,7 +74,7 @@ both, to better adapt this sentence to their language.
      Android or iOS to sync with your mobile device." -->
 
 
-<!ENTITY mobilePromo3.start            "பயர்பாக்ஸை பதிவிறக்கு ">
+<!ENTITY mobilePromo3.start            "பயர்பாக்சை நிறுவி ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "ஆண்ட்ராய்டு">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
@@ -83,4 +83,4 @@ both, to better adapt this sentence to their language.
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
-<!ENTITY mobilePromo3.end              " உங்கள் கைபேசியுடன் ஒத்திசை.">
+<!ENTITY mobilePromo3.end              " கைப்பேசியுடன் ஒத்திசை.">
