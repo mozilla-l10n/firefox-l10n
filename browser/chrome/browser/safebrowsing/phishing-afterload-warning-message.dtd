@@ -15,9 +15,9 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "¿Por qué fue bloqueada esta página?">
 
-<!ENTITY safeb.blocked.malwarePage.title "¡Sospecha de sitio malicioso!">
+<!ENTITY safeb.blocked.malwarePage.title "¡Sospecha de página maliciosa!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "Este sitio en <span id='malware_sitename'/> ha sido reportado como un sitio malicioso y ha sido bloqueado en base a tus preferencias de seguridad.">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "El sitio en <span id='malware_sitename'/> ha sido reportado como un sitio malicioso y ha sido bloqueado en base a tus preferencias de seguridad.">
 <!ENTITY safeb.blocked.malwarePage.longDesc "<p>Las páginas maliciosas intentan instalar programas que roban información privada, usan tu computador para atacar a otras, o dañar tu sistema</p><p>Algunas páginas fraudulentas distribuyen intencionalmente programas perjudiciales, pero muchas se ven comprometidas sin el conocimiento o permiso de sus dueños.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "¡Sitio sospechoso de software indeseable!">
