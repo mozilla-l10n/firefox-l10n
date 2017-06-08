@@ -206,6 +206,7 @@
 <!ENTITY pref_category_home_add_ons "Tiện ích">
 <!ENTITY pref_home_updates2 "Cập nhật nội dung">
 <!ENTITY pref_home_updates_enabled "Đã bật">
+<!ENTITY pref_home_updates_wifi "Chỉ qua Wi-Fi">
 <!ENTITY pref_category_home_homepage "Trang chủ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
@@ -228,7 +229,12 @@
 
 <!-- Localization note: These are shown in the left sidebar on tablets -->
 <!ENTITY pref_header_search "Tìm kiếm">
+<!ENTITY pref_header_privacy_short "Riêng tư">
+<!ENTITY pref_header_accessibility "Khả năng truy cập">
+<!ENTITY pref_header_notifications "Thông báo">
+<!ENTITY pref_header_advanced "Nâng cao">
 <!ENTITY pref_header_help "Trợ giúp">
+<!ENTITY pref_header_vendor "&vendorShortName;">
 
 <!ENTITY pref_cookies_menu "Cookie">
 <!ENTITY pref_cookies_accept_all "Đã bật">
@@ -244,6 +250,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "Hiện ảnh">
 <!ENTITY pref_tap_to_load_images_enabled "Luôn luôn">
+<!ENTITY pref_tap_to_load_images_data "Chỉ qua Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bị chặn">
 
 
@@ -266,6 +273,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Đã sao chép URL">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
@@ -279,6 +287,7 @@
 <!ENTITY tab_queue_prompt_negative_action_button "Không phải bây giờ">
 <!-- Localization note (tab_queue_prompt_settings_button): This button is shown if the user needs to
      enable a permission in Android's setting in order to enable tab queues. -->
+<!ENTITY tab_queue_prompt_settings_button "Vào phần cài đặt">
 <!ENTITY tab_queue_notification_title "&brandShortName;">
 <!-- Localization note (tab_queue_notification_text_plural2) : The
      formatD is replaced with the number of tabs queued.  The
@@ -321,18 +330,24 @@
 <!ENTITY pref_plugins_tap_to_play2 "Chạm để phát">
 <!ENTITY pref_plugins_disabled "Đã tắt">
 <!ENTITY pref_restore_tabs "Khôi phục thẻ">
+<!ENTITY pref_restore_always "Luôn khôi phục">
 <!ENTITY pref_restore_quit "Không khôi phục sau khi thoát &brandShortName;">
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Sử dụng cỡ phông hệ thống">
 
 <!ENTITY pref_media_autoplay_enabled "Cho phép tự động phát">
+<!ENTITY pref_zoom_force_enabled "Luôn cho phép phóng to">
+<!ENTITY pref_qrcode_enabled "Bộ đọc mã QR">
+<!ENTITY pref_qrcode_enabled_summary2 "Cho phép máy quét QR trong thanh URL">
 
 <!ENTITY pref_use_master_password "Dùng mật khẩu chính">
 <!ENTITY pref_sync2 "Đăng nhập">
 <!ENTITY pref_sync_summary2 "Đồng bộ thẻ, trang đánh dấu, lịch sử của bạn">
 <!ENTITY pref_search_suggestions "Hiện gợi ý tìm kiếm">
 <!ENTITY pref_history_search_suggestions "Hiện lịch sử tìm kiếm">
+<!ENTITY pref_import_options "Tùy chọn nhập">
 <!ENTITY pref_import_android_summary "Nhập trang đánh dấu và lịch sử từ trình duyệt gốc">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
@@ -366,6 +381,7 @@
 <!ENTITY pref_panels_move_up "Di chuyển lên">
 <!ENTITY pref_panels_move_down "Di chuyển xuống">
 
+<!ENTITY datareporting_notification_title "Số liệu thống kê &amp; dữ liệu &brandShortName;">
 <!ENTITY datareporting_notification_action "Chọn thứ bạn muốn chia sẻ">
 <!-- Used in datareporting_notification_ticket_text, but unused in strings.xml. -->
 <!ENTITY datareporting_notification_action_long "Chọn thông tin chia sẻ">
@@ -393,6 +409,7 @@
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "Cập nhật tự động">
+<!ENTITY pref_update_autodownload_wifi "Chỉ qua Wi-Fi">
 <!ENTITY pref_update_autodownload_never "Không bao giờ">
 <!ENTITY pref_update_autodownload_always "Luôn luôn">
 
@@ -488,6 +505,7 @@
 <!ENTITY bookmark_edit_name "Tên">
 <!ENTITY bookmark_edit_location "Địa chỉ">
 <!ENTITY bookmark_edit_keyword "Từ khóa">
+<!ENTITY bookmark_select_folder "Chọn thư mục">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -546,6 +564,7 @@
 
 <!-- Localization note (home_back_up_to_filter): The variable is replaced by the name of the
      previous location in the navigation, such as the previous folder -->
+<!ENTITY home_move_back_to_filter "Quay lại &formatS;">
 
 <!-- Localization note (home_remote_tabs_many_hidden_devices) : The
      formatD is replaced with the number of hidden devices.  The
@@ -563,6 +582,7 @@
 
 <!ENTITY pin_site_dialog_hint "Nhập từ khóa tìm kiếm">
 
+<!ENTITY filepicker_title "Chọn tập tin">
 <!ENTITY filepicker_audio_title "Chọn hoặc tạo một âm thanh">
 <!ENTITY filepicker_image_title "Chọn hoặc chụp một bức ảnh">
 <!ENTITY filepicker_video_title "Chọn hoặc ghi một đoạn video">
@@ -591,6 +611,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY mixed_content_protection_disabled1 "Bạn đã vô hiệu hóa việc bảo vệ khỏi nội dung không an toàn.">
 
 <!-- Tracking content notifications in site identity popup -->
+<!ENTITY doorhanger_tracking_title2 "Chống theo dõi">
 <!ENTITY doorhanger_tracking_state_enabled "Đã bật">
 <!ENTITY doorhanger_tracking_state_disabled "Đã tắt">
 <!ENTITY doorhanger_tracking_message_enabled1 "Cố gắng theo dõi hành vi trực tuyến của bạn đã được chặn.">
@@ -617,6 +638,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
       via the search engine that uses the icon they clicked. This text is used
       for screen reader users when they hover each icon - &formatS; will be
       replaced with the name of the currently highlighted icon. -->
+<!ENTITY search_bar_item_desc "Tìm kiếm với &formatS;">
 
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
