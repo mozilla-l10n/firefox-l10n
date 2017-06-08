@@ -29,4 +29,4 @@
 <!ENTITY plugin.file                                         "Fitxategia">
 <!ENTITY plugin.mimeTypes                                    "MIME motak">
 <!ENTITY plugin.flashProtectedMode.label                     "Gaitu Adobe Flash-en modu babestua">
-
+<!ENTITY plugin.enableBlocklists.label                       "Blokeatu Flash eduki arriskutsu eta intrusiboa">
