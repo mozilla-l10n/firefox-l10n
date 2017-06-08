@@ -643,10 +643,12 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (suggestion_for_engine): The placeholder &formatS1; will be
      replaced with the name of the search engine. The placeholder &formatS2; will be
      replaced with the search query. -->
+<!ENTITY suggestion_for_engine "Tìm &formatS2; trên công cụ tìm kiếm &formatS1;">
 
 <!ENTITY searchable_description "Trang đánh dấu và lịch sử">
 
  <!-- Updater notifications -->
+<!ENTITY updater_start_title2 "Bản cập nhật cho &brandShortName; đã sẵn sàng">
 <!ENTITY updater_start_select2 "Chạm để tải về">
 
 <!ENTITY updater_downloading_title2 "Đang tải &brandShortName;">
@@ -654,21 +656,26 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Chạm để áp dụng cập nhật khi tải xong">
 <!ENTITY updater_downloading_retry2 "Chạm để thử lại">
 
+<!ENTITY updater_apply_title3 "Bản cập nhật &brandShortName; đã được tải về">
+<!ENTITY updater_apply_select3 "Chạm để cài đặt">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 <!ENTITY updater_permission_text "Để tải về các tập tin và cập nhật, cho phép &brandShortName; quyền truy cập bộ nhớ.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
+<!ENTITY updater_permission_allow "Cho phép">
 
     <!-- Guest mode -->
 <!ENTITY new_guest_session "Phiên làm việc khách mới">
 <!ENTITY exit_guest_session "Thoát phiên làm việc khách">
 <!ENTITY guest_session_dialog_continue "Tiếp tục">
+<!ENTITY guest_session_dialog_cancel "Hủy bỏ">
 <!ENTITY new_guest_session_title "&brandShortName; sẽ khởi động lại bây giờ">
 <!ENTITY guest_browsing_notification_title "Duyệt web dành cho khách đã được bật">
 <!ENTITY guest_browsing_notification_text "Chạm để thoát">
 
+<!ENTITY exit_guest_session_title "&brandShortName; sẽ khởi động lại ngay bây giờ">
 <!ENTITY exit_guest_session_text "Các dữ liệu duyệt web từ phiên này sẽ được xóa.">
 
 <!-- Miscellaneous -->
@@ -721,16 +728,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Restrictable features -->
 <!-- Localization note: These are features the device owner (e.g. parent) can enable or disable for
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
+<!ENTITY restrictable_feature_addons_installation "Tiện ích">
 <!ENTITY restrictable_feature_private_browsing "Duyệt web Riêng tư">
 <!ENTITY restrictable_feature_clear_history "Xóa lịch sử">
 <!ENTITY restrictable_feature_clear_history_description "Cho phép các thành viên gia đình xóa thông tin về những trang mà họ đã truy cập.">
+<!ENTITY restrictable_feature_advanced_settings "Cài đặt nâng cao">
 <!ENTITY restrictable_feature_camera_microphone "Máy quay &amp; Micrô">
 <!ENTITY restrictable_feature_block_list "Danh sách chặn">
 <!ENTITY restrictable_feature_block_list_description "Chặn trang web chứa nội dung nhạy cảm.">
 
 <!-- Default Bookmarks titles-->
 <!-- LOCALIZATION NOTE (bookmarks_about_browser): link title for about:fennec -->
+<!ENTITY bookmarks_about_browser "Firefox: Tìm hiểu về trình duyệt của bạn">
 <!-- LOCALIZATION NOTE (bookmarks_addons): link title for https://addons.mozilla.org/en-US/mobile -->
+<!ENTITY bookmarks_addons "Firefox: Tùy biến với các tiện ích">
 <!-- LOCALIZATION NOTE (bookmarks_support): link title for https://support.mozilla.org/ -->
 <!ENTITY bookmarks_support "Firefox: Hỗ trợ">
 <!-- LOCALIZATION NOTE (bookmarks_restricted_support): link title for https://support.mozilla.org/kb/controlledaccess -->
@@ -747,6 +758,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- LOCALIZATION NOTE (whatsnew_notification_title, whatsnew_notification_summary): These strings
      are used for a system notification that's shown to users after the app updates. -->
+<!ENTITY whatsnew_notification_title "&brandShortName; đã được cập nhật">
 <!ENTITY whatsnew_notification_summary "Tìm hiểu có gì mới trong phiên bản này">
 
 <!ENTITY promotion_add_to_homescreen "Thêm vào màn hình chính">
@@ -757,6 +769,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_button "Thêm vào trang đánh dấu">
 
 <!ENTITY activity_stream_topsites "Các trang vào nhiều nhất">
+<!ENTITY activity_stream_highlights "Nổi bật">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->

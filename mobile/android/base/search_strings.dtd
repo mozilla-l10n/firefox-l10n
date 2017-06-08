@@ -2,26 +2,27 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY search_app_name "Tìm kiếm &brandShortName;">
+<!ENTITY search_app_name 'Tìm kiếm &brandShortName;'>
+
 <!--  Localization note (search_bar_hint): The &formatS; will be replaced with the name of
       the currently selected search engine. -->
+<!ENTITY search_bar_hint 'Tìm kiếm với &formatS;'>
 
-<!ENTITY search_bar_hint "Tìm kiếm với &formatS;">
+<!ENTITY search_empty_title2 'Bắt đầu tìm kiếm'>
+<!ENTITY search_empty_message 'Tìm kiếm mọi thứ bạn muốn một cách nhanh chóng'>
 
-<!ENTITY search_empty_title2 "Bắt đầu tìm kiếm">
-<!ENTITY search_empty_message "Tìm kiếm mọi thứ bạn muốn một cách nhanh chóng">
 <!--  Localization note (search_plus_content_description): This is the content description
       for the "+" icon that appears at the end of search suggestions. -->
+<!ENTITY search_plus_content_description 'Thêm vào thanh tìm kiếm'>
 
-<!ENTITY search_plus_content_description "Thêm vào thanh tìm kiếm">
+<!ENTITY search_pref_title 'Cài đặt'>
+<!ENTITY search_pref_button_content_description 'Cài đặt'>
 
+<!ENTITY pref_clearHistory_confirmation 'Đã xoá lược sử'>
+<!ENTITY pref_clearHistory_dialogMessage 'Xoá tất cả lược sử tìm kiếm khỏi thiết bị?'>
+<!ENTITY pref_clearHistory_title 'Xoá lược sử tìm kiếm'>
 
+<!ENTITY search_widget_button_label 'Tìm kiếm'>
 
-<!ENTITY pref_clearHistory_confirmation "Đã xoá lược sử">
-<!ENTITY pref_clearHistory_dialogMessage "Xoá tất cả lược sử tìm kiếm khỏi thiết bị?">
-<!ENTITY pref_clearHistory_title "Xoá lược sử tìm kiếm">
-
-<!ENTITY search_widget_button_label "Tìm kiếm">
-
-<!ENTITY network_error_title "Không có kết nối internet">
-<!ENTITY network_error_message "Chạm vào đây để kiểm tra cấu hình mạng của bạn">
+<!ENTITY network_error_title 'Không có kết nối internet'>
+<!ENTITY network_error_message 'Chạm vào đây để kiểm tra cấu hình mạng của bạn'>
