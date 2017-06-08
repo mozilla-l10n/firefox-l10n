@@ -1,48 +1,48 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Window title -->
 <!-- LOCALIZATION NOTE  (editorWindow.titlemodifier): DONT_TRANSLATE -->
-
 <!ENTITY editorWindow.titlemodifier "Composer"> 
-<!ENTITY editorWindow.titlemodifiermenuseparator " - ">
+<!ENTITY editorWindow.titlemodifiermenuseparator " – ">
+
 <!-- Menu items:  the . means that the menu item isn't implemented yet -->
+
 <!-- Toolbar-only items -->
-
-
 <!ENTITY compositionToolbar.tooltip "Лента с инструменти за писане">
 <!ENTITY previewToolbarCmd.label "Разглеждане">
 <!ENTITY previewToolbarCmd.tooltip "Зареждане на страницата в браузъра">
-<!-- File menu items -->
 
+<!-- File menu items -->
 <!ENTITY exportToTextCmd.label "Изнасяне като текст…">
 <!ENTITY exportToTextCmd.accesskey "т">
 <!ENTITY previewCmd.label "Разглеждане на страница">
 <!ENTITY previewCmd.accesskey "г">
 <!ENTITY sendPageCmd.label "Изпращане на страница…">
 <!ENTITY sendPageCmd.accesskey "щ">
-<!-- View menu items -->
 
+<!-- View menu items -->
 <!ENTITY compositionToolbarCmd.label "Лента с инструменти за писане">
 <!ENTITY compositionToolbarCmd.accesskey "п">
 <!ENTITY formattingToolbarCmd.label "Лента с инструменти за форматиране">
 <!ENTITY formattingToolbarCmd.accesskey "ф">
 <!ENTITY editmodeToolbarCmd.label "Лента с инструменти за редактиране">
 <!ENTITY editmodeToolbarCmd.accesskey "р">
-<!-- Format menu items -->
 
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Формат">
 <!ENTITY formatMenu.accesskey "о">
 <!ENTITY grid.label "Решетка за наместване">
 <!ENTITY grid.accesskey "т">
 <!ENTITY pageProperties.label "Заглавие и свойства на страница…">
 <!ENTITY pageProperties.accesskey "с">
-<!-- Tools menu items -->
 
+<!-- Tools menu items -->
 <!ENTITY validateCmd.label "Проверка на HTML">
 <!ENTITY validateCmd.accesskey "П">
-<!-- Display Mode toolbar and View menu items -->
 
+<!-- Display Mode toolbar and View menu items -->
 <!ENTITY NormalModeTab.label "Нормален">
 <!ENTITY NormalMode.label "Нормален режим на редактиране">
 <!ENTITY NormalMode.accesskey "Н">
