@@ -6,10 +6,10 @@
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP серверінің бумасы:">
 <!ENTITY serverDirectory.accesskey "б">
-
-
-
-
+<!ENTITY usingSubscription.label "Тек жазылған бумаларды көрсету">
+<!ENTITY usingSubscription.accesskey "р">
+<!ENTITY dualUseFolders.label "Сервер ішкі бумалары және хабарламалары бар бумаларды қолдайды">
+<!ENTITY dualUseFolders.accesskey "б">
 
 
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->

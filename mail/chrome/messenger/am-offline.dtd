@@ -27,15 +27,15 @@
 <!ENTITY retentionKeepAll.accesskey "м">
 <!ENTITY retentionKeepRecent.label "Барлығын өшіру, тек соңғыларын қалдырып">
 <!ENTITY retentionKeepRecent.accesskey "т">
-
-
+<!ENTITY retentionApplyToFlagged.label "Жұлдызшалы хабарламаларды әрқашан сақтау">
+<!ENTITY retentionApplyToFlagged.accesskey "т">
 
 
 
 
 <!ENTITY offlineImapAdvancedOffline.label "Қосымша…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
-
+<!ENTITY syncGroupTitle.label "Хабарламаны синхрондау">
 <!ENTITY diskspaceGroupTitle.label "Дискідегі орын">
 <!-- LOCALIZATION NOTE: (ageAutosyncBefore.label, ageAutosyncMiddle.label, ageAutosyncAfter.label):
   The entities ageAutosyncBefore.label, ageAutosyncMiddle.label, and ageAutosyncAfter.label appear

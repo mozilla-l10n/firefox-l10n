@@ -59,7 +59,7 @@
 <!-- Thread Pane Tooltips -->
 
 <!ENTITY columnChooser2.tooltip "Көрсетілетін бағандарды таңдаңыз">
-
+<!ENTITY threadColumn2.tooltip "Хабарлама ағындарын көрсету">
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
 <!ENTITY correspondentColumn2.tooltip "Алушылар бойынша сұрыптау">
@@ -71,8 +71,8 @@
 <!ENTITY statusColumn2.tooltip "Қалып-күйі бойынша сұрыптау">
 <!ENTITY sizeColumn2.tooltip "Өлшемі бойынша сұрыптау">
 <!ENTITY junkStatusColumn2.tooltip "Спам күйі бойынша сұрыптау">
-
-
+<!ENTITY unreadColumn2.tooltip "Ағындағы оқылмаған хабарламалар саны">
+<!ENTITY totalColumn2.tooltip "Ағындағы барлық хабарламалар саны">
 <!ENTITY readColumn2.tooltip "Оқылғаны бойынша сұрыптау">
 <!ENTITY receivedColumn2.tooltip "Алынған күні бойынша сұрыптау">
 <!ENTITY starredColumn2.tooltip "Жұлдызша бойынша сұрыптау">
