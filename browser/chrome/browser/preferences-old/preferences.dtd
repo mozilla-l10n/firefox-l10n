@@ -14,7 +14,7 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title       "सर्वसाधारण">
-<!ENTITY  paneTabs.title          "कप्पे, (टॅब्स)">
+<!ENTITY  paneTabs.title          "टॅब">
 <!ENTITY  paneSearch.title        "शोधा">
 <!ENTITY  paneContent.title       "मजकूर">
 <!ENTITY  paneApplications.title  "ॲप्लिकेशन्स">
