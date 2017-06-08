@@ -48,9 +48,9 @@
 <!ENTITY deleteMessage.label "Хабарламаны өшіру">
 <!ENTITY deleteFromPOP.label "POP серверінен өшіру">
 <!ENTITY fetchFromPOP.label "POP серверінен алу">
-<!ENTITY ignoreThread.label "Ілеспелерді елемеу">
-<!ENTITY ignoreSubthread.label "Ілеспелерді елемеу">
-
+<!ENTITY ignoreThread.label "Ағындарды елемеу">
+<!ENTITY ignoreSubthread.label "Ағындарды елемеу">
+<!ENTITY watchThread.label "Ағынды бақылау">
 <!ENTITY stopExecution.label "Сүзгі орындалуын тоқтату">
 
 <!ENTITY addAction.tooltip "Жаңа әрекетті қосу">

@@ -34,7 +34,7 @@
 <!ENTITY configEditDesc.label          "Кеңейтілген баптаулар">
 <!ENTITY configEdit.label              "Баптаулар түзеткіші…">
 <!ENTITY configEdit.accesskey          "Б">
-
+<!ENTITY returnReceiptsInfo.label      "&brandShortName; алу есептемелерін қалай өңдейтінін таңдаңыз">
 <!ENTITY showReturnReceipts.label      "Алу есептемелері…">
 <!ENTITY showReturnReceipts.accesskey  "р">
 <!-- Data Choices -->
@@ -110,9 +110,10 @@
 
 <!ENTITY certs.ask                       "Әрбір ретте менен сұрау">
 
+<!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
+<!ENTITY enableOCSP.accesskey            "с">
 
-
-
-
+<!ENTITY manageCertificates.label "Сертификаттарды басқару">
+<!ENTITY manageCertificates.accesskey "б">
 <!ENTITY viewSecurityDevices.label "Қорғаныс жабдықтары">
 <!ENTITY viewSecurityDevices.accesskey "ж">

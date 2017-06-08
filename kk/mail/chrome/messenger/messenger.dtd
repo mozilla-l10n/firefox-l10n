@@ -103,8 +103,8 @@
 <!ENTITY selectMenu.accesskey "а">
 <!ENTITY all.label "Барлығы">
 <!ENTITY all.accesskey "Б">
-<!ENTITY selectThreadCmd.label "Жіп">
-<!ENTITY selectThreadCmd.accesskey "Ж">
+<!ENTITY selectThreadCmd.label "Ағын">
+<!ENTITY selectThreadCmd.accesskey "А">
 <!ENTITY selectThreadCmd.key "а">
 <!ENTITY selectFlaggedCmd.label "Жұлдызшалы хабарламалар">
 <!ENTITY selectFlaggedCmd.accesskey "Ж">
@@ -205,8 +205,8 @@
 <!ENTITY sortAscending.accesskey "с">
 <!ENTITY sortDescending.label "Кему ретімен">
 <!ENTITY sortDescending.accesskey "К">
-
-
+<!ENTITY sortThreaded.label "Ағындық">
+<!ENTITY sortThreaded.accesskey "А">
 
 
 
@@ -217,20 +217,20 @@
 <!ENTITY threads.accesskey "н">
 <!ENTITY allMsgsCmd.label "Барлығы">
 <!ENTITY allMsgsCmd.accesskey "Б">
-
-
+<!ENTITY expandAllThreadsCmd.label "Барлық ағындарды жазық қылу">
+<!ENTITY expandAllThreadsCmd.accesskey "з">
 <!ENTITY expandAllThreadsCmd.key "*">
-
-
+<!ENTITY collapseAllThreadsCmd.label "Барлық ағындарды жинау">
+<!ENTITY collapseAllThreadsCmd.accesskey "ж">
 <!ENTITY collapseAllThreadsCmd.key "\">
 <!ENTITY unreadMsgsCmd.label "Оқылмаған">
 <!ENTITY unreadMsgsCmd.accesskey "м">
-
-
-
-
-
-
+<!ENTITY threadsWithUnreadCmd.label "Оқылмағаны бар ағындар">
+<!ENTITY threadsWithUnreadCmd.accesskey "а">
+<!ENTITY watchedThreadsWithUnreadCmd.label "Оқылмағаны бар бақыланатын ағындар">
+<!ENTITY watchedThreadsWithUnreadCmd.accesskey "ы">
+<!ENTITY ignoredThreadsCmd.label "Елемейтін ағындар">
+<!ENTITY ignoredThreadsCmd.accesskey "й">
 
 <!ENTITY headersMenu.label "Тақырыптамалар">
 <!ENTITY headersMenu.accesskey "Т">
@@ -400,10 +400,10 @@
 <!ENTITY markMenu.label "Белгілеу">
 <!ENTITY markMenu.accesskey "у">
 
-
-
-
-
+<!ENTITY markAsReadCmd.label "Оқылған ретінде">
+<!ENTITY markAsReadCmd.accesskey "ы">
+<!ENTITY markAsUnreadCmd.label "Оқылмаған ретінде">
+<!ENTITY markAsUnreadCmd.accesskey "м">
 
 
 
@@ -677,7 +677,7 @@
 
 <!-- Thread Pane -->
 
-<!ENTITY threadColumn.label "Жіп">
+<!ENTITY threadColumn.label "Ағын">
 <!ENTITY fromColumn.label "Кімнен">
 <!ENTITY recipientColumn.label "Қабылдаушысы">
 <!ENTITY correspondentColumn.label "Алушылар">
@@ -698,7 +698,7 @@
 <!ENTITY idColumn.label "Алынған реті">
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
-
+<!ENTITY threadColumn2.tooltip "Хабарлама ағындарын көрсету">
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">
 <!ENTITY correspondentColumn2.tooltip "Алушылар бойынша сұрыптау">
@@ -710,8 +710,8 @@
 <!ENTITY statusColumn2.tooltip "Қалып-күйі бойынша сұрыптау">
 <!ENTITY sizeColumn2.tooltip "Өлшемі бойынша сұрыптау">
 <!ENTITY junkStatusColumn2.tooltip "Спам күйі бойынша сұрыптау">
-
-
+<!ENTITY unreadColumn2.tooltip "Ағындағы оқылмаған хабарламалар саны">
+<!ENTITY totalColumn2.tooltip "Ағындағы барлық хабарламалар саны">
 <!ENTITY readColumn2.tooltip "Оқылғаны бойынша сұрыптау">
 <!ENTITY receivedColumn2.tooltip "Алынған күні бойынша сұрыптау">
 <!ENTITY starredColumn2.tooltip "Жұлдызша бойынша сұрыптау">
@@ -761,11 +761,11 @@
 <!ENTITY contextMoveCopyMsgRecentMenu.accesskey "о">
 <!ENTITY contextCopyMsgMenu.label "Қайда көшіріп алу">
 <!ENTITY contextCopyMsgMenu.accesskey "к">
-
-
-
-
-
+<!ENTITY contextKillThreadMenu.label "Ағынды елемеу">
+<!ENTITY contextKillSubthreadMenu.accesskey "ш">
+<!ENTITY contextKillThreadMenu.accesskey "м">
+<!ENTITY contextKillSubthreadMenu.label "Ішкі ағынды елемеу">
+<!ENTITY contextWatchThreadMenu.label "Ағынды бақылау">
 <!-- LOCALIZATION NOTE (contextWatchThreadMenu.accesskey):
      In the en-US locale we ran out of access keys, so there is an empty access key for
      Watch Thread. Localizers can pick a suitable key
