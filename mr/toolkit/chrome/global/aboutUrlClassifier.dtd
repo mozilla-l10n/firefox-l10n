@@ -13,18 +13,18 @@
 <!ENTITY aboutUrlClassifier.cacheTitle                  "कॅशे">
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "पुनःदाखल करा">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "पुसा">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.cacheTableName              "तक्ता नाव">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "ऋण कॅशे नोंदी गणना">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "धन कॅशे नोंदी गणना">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "नोंदी दर्शवा">
+<!ENTITY aboutUrlClassifier.cacheEntries                "कॅशे नोंदी">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "उपसर्ग">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "ऋण कॅशे मुदत समाप्ती">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "फुल हॅश">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "धन कॅशे मुदत समाप्ती">
+<!ENTITY aboutUrlClassifier.debugTitle                  "डिबग">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "लॉग मॉड्यूल्स ठरवा">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "लॉग फाईल ठरवा">
 <!ENTITY aboutUrlClassifier.debugJSLogChk               "JS लॉग सेट करा">
 <!ENTITY aboutUrlClassifier.debugSBModules              "सुरक्षित ब्राऊझिंग लॉग मॉड्युल">
 <!ENTITY aboutUrlClassifier.debugModules                "सध्याचे लॉग मॉड्युल">
