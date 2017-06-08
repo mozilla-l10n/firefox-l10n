@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Berritu automatikoki 3 segundoro">
 <!ENTITY aboutNetworking.hostname              "Ostalari-izena">
 <!ENTITY aboutNetworking.port                  "Ataka">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktibo">
 <!ENTITY aboutNetworking.idle                  "Inaktibo">
@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Ebatzi">
 <!ENTITY aboutNetworking.dnsDomain             "Domeinua">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPak">
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN estatistikak">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN egoera">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cachearen irabazi kopurua">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Sarearen irabazi kopurua">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Sareko eskaera kopurua guztira">
