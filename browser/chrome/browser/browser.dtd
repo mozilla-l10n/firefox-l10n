@@ -400,9 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "移动到菜单">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "固定到折叠菜单">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "隐藏到折叠菜单">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "解除固定在折叠菜单">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "从折叠菜单中移出">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "从工具栏移除">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
