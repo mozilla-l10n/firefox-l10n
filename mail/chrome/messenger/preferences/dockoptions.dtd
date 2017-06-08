@@ -4,10 +4,10 @@
 
 
 
-
-
-
-
+<!ENTITY newMessagesCountDock.label            "Жаңа хабарламалар саны">
+<!ENTITY newMessagesCountDock.accesskey        "н">
+<!ENTITY showAllUnreadMessagesCount.label      "Оқылмаған хабарламалар саны">
+<!ENTITY showAllUnreadMessagesCount.accesskey  "ы">
 
 
 
