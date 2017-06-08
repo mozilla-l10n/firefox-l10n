@@ -14,6 +14,7 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Oppdater">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Tøm">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Tabellnamn">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Tal på negative snøgglageroppføringar">
 <!ENTITY aboutUrlClassifier.cachePCacheEntries          "Tal på positive snøgglageroppføringar">
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Vis oppføringar">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Snøgglageroppføringar">
