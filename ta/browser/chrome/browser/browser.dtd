@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "மேலோடு பட்டிக்குச் சேர்">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "கருவிப்பட்டிக்கு நகர்த்து">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "க">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "பட்டியில் சேர்க்க">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ப">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "மேலோட்டப் பட்டிக்கு ஒட்டுக">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "மேலோட்ட பட்டியலிருந்து இருந்து நீக்கவும்">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "கருவிப்பட்டையிலிருந்து நீக்கு">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "ந">
 <!ENTITY customizeMenu.removeFromMenu.label "பட்டியிலிருந்து நீக்கு">
@@ -687,7 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; விட்டு வெளியேறு">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "மூடுக">  
 <!ENTITY closeCmd.key                   "W">  
@@ -948,15 +949,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
-
+<!ENTITY updateRestart.message "ஒரு அதிவேக மீட்துவக்கத்திற்கு பிறகு, &brandShorterName; உலாவி திறந்து கீற்றுகள் சாளரங்கள் அனைத்தையும் மீட்டமைத்துவிடும்.">
+<!ENTITY updateRestart.header.message2 "புதுப்பிக்க &brandShorterName; உலாவியை மீள்துவக்கு">
 <!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "இப்போது வேண்டாம்">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "புதுப்பிக்க &brandShorterName; உலாவியை மீள்துவக்கு">
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 
-
-
-
+<!ENTITY sendToDevice.label "சாதனத்திற்கு அனுப்பு…">
+<!ENTITY sendToDevice.viewTitle "சாதனத்திற்கு அனுப்பு">
+<!ENTITY sendToDevice.fxaRequired.label "தேவை">
+<!ENTITY sendToDevice.noDevices.label "சாதனங்கள் ஏதுமில்லை">
