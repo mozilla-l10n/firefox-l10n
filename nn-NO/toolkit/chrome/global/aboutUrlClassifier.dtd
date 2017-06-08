@@ -14,8 +14,12 @@
 <!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Oppdater">
 <!ENTITY aboutUrlClassifier.cacheClearBtn               "Tøm">
 <!ENTITY aboutUrlClassifier.cacheTableName              "Tabellnamn">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Vis oppføringar">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Snøgglageroppføringar">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Negativ snøgglagerutløp">
 <!ENTITY aboutUrlClassifier.cacheFullhash               "Fullstendig hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Positiv snøgglagerutløp">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Feilretting">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Spesifiser loggmodular">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Spesifiser loggfil">
