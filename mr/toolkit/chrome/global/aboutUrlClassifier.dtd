@@ -10,9 +10,9 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "पुढील अद्ययावत करायची वेळ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "या आधी अद्ययावत केले त्याची स्थिती">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "अद्ययावत करा">
-
-
-
+<!ENTITY aboutUrlClassifier.cacheTitle                  "कॅशे">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "पुनःदाखल करा">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "पुसा">
 
 
 
