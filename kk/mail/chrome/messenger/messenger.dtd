@@ -276,8 +276,8 @@
 <!ENTITY findAgainCmd.key2 "VK_F3">
 
 <!ENTITY findPrevCmd.key2 "VK_F3">
-
-
+<!ENTITY searchMailCmd.label "Хабарламаларды іздеу…">
+<!ENTITY searchMailCmd.accesskey "м">
 
 
 
@@ -651,8 +651,8 @@
 
 <!ENTITY folderContextSubscribe.label "Жазылу…">
 <!ENTITY folderContextSubscribe.accesskey "з">
-
-
+<!ENTITY folderContextSearchForMessages.label "Хабарламаларды іздеу…">
+<!ENTITY folderContextSearchForMessages.accesskey "з">
 <!ENTITY folderContextProperties2.label "Қасиеттері">
 <!ENTITY folderContextProperties2.accesskey "с">
 
@@ -662,6 +662,8 @@
 <!-- Search Bar -->
 
 <!-- Gloda Search Bar -->
+
+<!ENTITY glodaSearchBar.placeholder "Хабарламаларды іздеу…">
 <!-- Quick Search Menu Bar -->
 
 <!ENTITY searchSubjectMenu.label "Тақырыбы">
