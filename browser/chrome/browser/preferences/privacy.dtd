@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Jarraipenaren babesa">
-
+<!ENTITY  trackingProtection.description       "Zure nabigazioan eta datu pertsonaletan oinarrituta edukia bistaratzeko enpresek zuri buruzko informazioa bildu eta profil bat sortzen dutenean gertatzen da jarraipena.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Blokeatu jarraipena egiten duten konpainia jakinek edukia bistaratzea">
 <!ENTITY  trackingProtectionAlways.label       "Beti">
 <!ENTITY  trackingProtectionAlways.accesskey   "B">
@@ -65,7 +65,8 @@
 <!ENTITY  showCookies.label             "Erakutsi cookieak…">
 <!ENTITY  showCookies.accesskey         "E">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;(e)k">
+<!ENTITY  historyHeader2.pre.accesskey     "k">
 <!ENTITY  historyHeader.remember.label     "Historia gogoratuko du">
 <!ENTITY  historyHeader.dontremember.label "Ez du historia gogoratuko inoiz">
 <!ENTITY  historyHeader.custom.label       "Ezarpen pertsonalizatuak erabiliko ditu historiarako">

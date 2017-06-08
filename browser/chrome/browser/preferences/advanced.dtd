@@ -92,14 +92,15 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Bertsioa: ">
 <!ENTITY updateApplication.version.post  "">
-
-
-
-
-
-
-
+<!ENTITY updateApplication.description   "Baimendu &brandShortName;(r)i">
+<!ENTITY updateAuto2.label               "Eguneraketak automatikoki instalatzen (gomendatua: segurtasun hobea)">
+<!ENTITY updateAuto2.accesskey           "E">
+<!ENTITY updateCheckChoose2.label        "Eguneraketak bilatzen baina utzi aukeratzen instalatuko diren edo ez">
+<!ENTITY updateCheckChoose2.accesskey    "b">
+<!ENTITY updateManual2.label             "Ez egiaztatu inoiz eguneraketarik dagoen (ez gomendatua)">
+<!ENTITY updateManual2.accesskey         "n">
 
 <!ENTITY updateHistory2.label            "Erakutsi eguneraketen historia…">
 <!ENTITY updateHistory2.accesskey        "E">
@@ -138,11 +139,11 @@
 
 <!ENTITY performance.label               "Errendimendua">
 <!ENTITY useRecommendedPerformanceSettings2.label "Erabili gomendatutako errendimendu-ezarpenak">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Ezarpen hauek zure ordenagailuaren hardwareari eta sistema eragileari egokituta daude.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "E">
 <!ENTITY performanceSettingsLearnMore.label "Argibide gehiago">
-
-
-
+<!ENTITY limitContentProcessOption.label "Eduki-prozesuen muga">
+<!ENTITY limitContentProcessOption.description "Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.">
+<!ENTITY limitContentProcessOption.accesskey   "m">
 <!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey          "h">

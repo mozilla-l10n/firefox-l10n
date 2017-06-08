@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Gehitu gainezkatzearen menuan">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Eraman tresna-barrara">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "r">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Eraman menura">
 <!ENTITY customizeMenu.moveToPanel.accesskey "r">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Ainguratu gainezkatzearen menuan">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "A">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Desainguratu gainezkatzearen menutik">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kendu tresna-barratik">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
 <!ENTITY customizeMenu.removeFromMenu.label "Kendu menutik">
@@ -932,7 +933,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
 <!ENTITY updateAvailable.message "Eguneratu zure &brandShorterName; abiaduran eta pribatutasunean azkena eskuratzeko.">
-
+<!ENTITY updateAvailable.whatsnew.label "Ikusi nobedadeak.">
 <!ENTITY updateAvailable.header.message "&brandShorterName; eguneraketa berri bat erabilgarri dago.">
 <!ENTITY updateAvailable.acceptButton.label "Deskargatu eguneraketa">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
@@ -941,7 +942,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.panelUI.label "Deskargatu &brandShorterName; eguneraketa">
 
 <!ENTITY updateManual.message "Deskargatu &brandShorterName; nabigatzailearen kopia berri bat eta instalatzen lagunduko dizugu.">
-
+<!ENTITY updateManual.whatsnew.label "Ikusi nobedadeak.">
 <!ENTITY updateManual.header.message "Ezin da &brandShorterName; azken bertsiora eguneratu.">
 <!ENTITY updateManual.acceptButton.label "Deskargatu &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
@@ -951,8 +952,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message "Berrabiarazi eta gero &brandShorterName;(e)k irekitako fitxak eta leihoak berrezarriko ditu.">
 <!ENTITY updateRestart.header.message2 "Berrabiarazi &brandShorterName; eguneratzeko.">
-
-
+<!ENTITY updateRestart.acceptButton.label "Berrabiarazi eta berreskuratu">
+<!ENTITY updateRestart.acceptButton.accesskey "B">
 <!ENTITY updateRestart.cancelButton.label "Une honetan ez">
 <!ENTITY updateRestart.cancelButton.accesskey "z">
 <!ENTITY updateRestart.panelUI.label2 "Berrabiarazi &brandShorterName; eguneratzeko">
