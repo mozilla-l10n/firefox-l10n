@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip       "Administrer brug af plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip           "Vælg om du vil modtage beskeder fra webstedet">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gem data i vedvarende lager">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Browseren fjernstyres">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip     "Administrer deling af dit kamera og/eller mikrofon med webstedet">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip  "Administrer deling af din mikrofon med webstedet">
@@ -350,6 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Ryd seneste historik…">
 <!ENTITY appMenuHistory.restoreSession.label "Gendan forrige session">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historik i sidepanel">
+<!ENTITY appMenuHelp.label "Hjælp">
 <!ENTITY appMenuHelp.tooltip "Åbn menuen Hjælp">
 
 <!ENTITY appMenuRemoteTabs.label "Synkroniserede faneblade">
@@ -375,21 +377,33 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Indstillinger for Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Log ind for at få vist faneblade, som er åbne på dine andre enheder.">
 <!ENTITY appMenuRemoteTabs.signin.label "Log ind på Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Håndter enheder…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Vis synkroniserede faneblade i sidepanel">
 
 <!ENTITY customizeMenu.addToToolbar.label "Føj til værktøjslinje">
 <!ENTITY customizeMenu.addToToolbar.accesskey "v">
 <!ENTITY customizeMenu.addToPanel.label "Føj til menu">
 <!ENTITY customizeMenu.addToPanel.accesskey "m">
+<!-- LOCALIZATION NOTE (customizeMenu.addToOverflowMenu.label,
+     customizeMenu.pinToOverflowMenu.label, customizeMenu.unpinFromOverflowMenu.label)
+     The overflow menu is the menu that appears if you click the chevron (>> button)
+     in the location bar. These labels are only used in Photon, where you can put
+     items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Føj til overflow-menu">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "o">
 <!ENTITY customizeMenu.moveToToolbar.label "Flyt til værktøjslinje">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "y">
-<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey) can appear on the
-     same context menu as menubarCmd and personalbarCmd, so they should have
-     different access keys. customizeMenu.moveToToolbar and
+<!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
+     can appear on the same context menu as menubarCmd and personalbarCmd,
+     so they should have different access keys. customizeMenu.moveToToolbar and
      customizeMenu.moveToPanel are mutually exclusive, so can share access
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Flyt til menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "e">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fastgør til overflow-menu">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "a">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Fjern fra overflow-menu">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "r">
 <!ENTITY customizeMenu.removeFromToolbar.label "Fjern fra værktøjslinje">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "j">
 <!ENTITY customizeMenu.removeFromMenu.label "Fjern fra menu">
@@ -674,8 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Afslut">
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label    "Afslut &brandShorterName;">
-<!-- LOCALIZATION NOTE(quitApplicationCmdUnix.key): This keyboard shortcut is used by both Linux and OSX builds. -->
-<!ENTITY quitApplicationCmdUnix.key      "Q">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Luk">
 <!ENTITY closeCmd.key                   "W">
@@ -918,6 +931,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Læs mere om DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "æ">
 
+<!ENTITY updateAvailable.message "Opdater &brandShorterName; til den seneste og mest sikre version.">
 <!ENTITY updateAvailable.whatsnew.label "Se nyhederne.">
 <!ENTITY updateAvailable.header.message "En ny &brandShorterName;-opdatering er tilgængelig.">
 <!ENTITY updateAvailable.acceptButton.label "Hent opdatering">
