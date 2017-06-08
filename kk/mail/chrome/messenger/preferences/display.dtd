@@ -26,6 +26,8 @@
 <!ENTITY convertEmoticons.label        "Смайликтерді суреттер ретінде көрсету">
 <!ENTITY convertEmoticons.accesskey    "С">
 <!-- labels -->
+
+<!ENTITY displayTagsText.label     "Тегтерді хабарламаларды санаттарға бөлу және приоритеттерін орнату үшін қолдануға болады.">
 <!ENTITY newTagButton.label        "Жаңа…">
 <!ENTITY newTagButton.accesskey    "а">
 <!ENTITY editTagButton1.label      "Түзету…">

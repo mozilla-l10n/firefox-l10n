@@ -159,20 +159,20 @@
 <!ENTITY priorityMenu.label "Приоритеті">
 <!ENTITY priorityMenu.accesskey "П">
 <!ENTITY priorityButton.title "Приоритеті">
-
+<!ENTITY priorityButton.tooltiptext "Хабарлама приоритетін өзгерту">
 <!ENTITY priorityButton.label "Приоритет:">
-
-
+<!ENTITY lowestPriorityCmd.label "Ең төмен">
+<!ENTITY lowestPriorityCmd.accesskey "т">
 <!ENTITY lowPriorityCmd.label "Төмен">
 <!ENTITY lowPriorityCmd.accesskey "м">
 <!ENTITY normalPriorityCmd.label "Қалыпты">
 <!ENTITY normalPriorityCmd.accesskey "ы">
 <!ENTITY highPriorityCmd.label "Жоғары">
 <!ENTITY highPriorityCmd.accesskey "Ж">
-
-
-
-
+<!ENTITY highestPriorityCmd.label "Ең жоғары">
+<!ENTITY highestPriorityCmd.accesskey "ж">
+<!ENTITY fileCarbonCopyCmd.label "Көшірмесін қайда жіберу">
+<!ENTITY fileCarbonCopyCmd.accesskey "б">
 
 <!-- Tools Menu -->
 
@@ -192,7 +192,7 @@
 <!ENTITY preferencesCmdUnix.label "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey "м">
 <!--  Mac OS X Window Menu -->
-
+<!ENTITY minimizeWindow.label "Қайыру">
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Масштаб">
 <!ENTITY windowMenu.label "Терезе">
@@ -211,10 +211,10 @@
 <!ENTITY sendlaterButton.tooltip "Бұл хабарламаны кейін жіберу">
 <!ENTITY quoteButton.tooltip "Алдыңғы хабарламаны дәйексөз ретінде алу">
 <!ENTITY addressButton.tooltip "Адрестік кітапшадан алушыны таңдау">
-
-
-
-
+<!ENTITY attachButton.tooltip "Салынымды қосу">
+<!ENTITY spellingButton.tooltip "Таңдалғанның немесе толық хабарламаның емлесін тексеру">
+<!ENTITY statusLanguageText.tooltip "Емлені тексеру тілі">
+<!ENTITY saveButton.tooltip "Бұл хабарламаны сақтау">
 <!ENTITY cutButton.tooltip              "Қиып алу">
 <!ENTITY copyButton.tooltip             "Көшіріп алу">
 <!ENTITY pasteButton.tooltip            "Кірістіру">
@@ -236,6 +236,8 @@
      to the strings in attachmentCount in composeMsgs.properties -->
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
+<!ENTITY SmileButton.tooltip "Смайликті кірістіру">
+<!ENTITY smiley1Cmd.label "Күлімдеу">
 
 
 
@@ -253,7 +255,9 @@
 
 <!-- Message Pane Context Menu -->
 
-
+<!ENTITY spellCheckNoSuggestions.label "Ұсыныстар табылмады">
+<!ENTITY spellCheckIgnoreWord.label "Сөзді елемеу">
+<!ENTITY spellCheckIgnoreWord.accesskey "е">
 <!ENTITY spellCheckAddToDictionary.label "Сөздікке қосу">
 <!ENTITY spellCheckAddToDictionary.accesskey "к">
 <!ENTITY undo.label "Болдырмау">
@@ -283,12 +287,12 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Келесіге түрлендіру…">
 <!ENTITY convertCloud.accesskey "т">
-
-
-
-
-
-
+<!ENTITY cancelUpload.label "Жүктеуден бас тарту">
+<!ENTITY cancelUpload.accesskey "с">
+<!ENTITY convertRegularAttachment.label "Қалыпты салыным">
+<!ENTITY convertRegularAttachment.accesskey "а">
+<!ENTITY attachPage.label "Веб парағын тіркеу…">
+<!ENTITY attachPage.accesskey "В">
 <!-- Spell checker context menu items -->
 
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
@@ -298,3 +302,5 @@
 <!ENTITY addressesSidebarTitle.label "Контакттар">
 <!-- Identity popup customize menuitem -->
 
+<!ENTITY customizeFromAddress.label "Жіберуші адресін баптау…">
+<!ENTITY customizeFromAddress.accesskey "а">
