@@ -26,8 +26,8 @@
 <!ENTITY bgColor.accesskey                    "Ф">
 <!ENTITY restoreHTMLDefaults.label            "Бастапқы түрін қалпына келтіру">
 <!ENTITY restoreHTMLDefaults.accesskey        "р">
-
-
+<!ENTITY defaultToParagraph.label             "Үнсіз келісім бойынша Дене мәтіні орнына абзац пішімін қолдану">
+<!ENTITY defaultToParagraph.accesskey         "б">
 
 
 

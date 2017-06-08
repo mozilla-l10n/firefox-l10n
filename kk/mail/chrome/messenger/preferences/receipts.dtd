@@ -2,8 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
-
+<!ENTITY dialog.title                  "Алу есептемелері">
+<!ENTITY requestReceipt.label          "Хабарламаларды жіберу кезінде, алу есептемелерін әрқашан сұрау">
+<!ENTITY requestReceipt.accesskey      "з">
+<!ENTITY receiptArrive.label           "Алу есептемесі келген кезде:">
 
 
 

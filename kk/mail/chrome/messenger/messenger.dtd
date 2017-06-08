@@ -108,8 +108,8 @@
 <!ENTITY selectThreadCmd.key "а">
 <!ENTITY selectFlaggedCmd.label "Жұлдызшалы хабарламалар">
 <!ENTITY selectFlaggedCmd.accesskey "Ж">
-
-
+<!ENTITY menuFavoriteFolder.label "Таңдамалы бума">
+<!ENTITY menuFavoriteFolder.accesskey "д">
 <!ENTITY folderPropsCmd2.label "Қасиеттері">
 <!ENTITY folderPropsFolderCmd2.label "Бума қасиеттері">
 
@@ -267,8 +267,8 @@
 
 <!ENTITY findMenu.label "Іздеу">
 <!ENTITY findMenu.accesskey "з">
-
-
+<!ENTITY findCmd.label "Бұл хабарламадан табу…">
+<!ENTITY findCmd.accesskey "т">
 
 <!ENTITY findAgainCmd.label "Іздеуді қайталау">
 <!ENTITY findAgainCmd.accesskey "з">
@@ -279,8 +279,8 @@
 <!ENTITY searchMailCmd.label "Хабарламаларды іздеу…">
 <!ENTITY searchMailCmd.accesskey "м">
 
-
-
+<!ENTITY searchAddressesCmd.label "Адрестерді іздеу…">
+<!ENTITY searchAddressesCmd.accesskey "з">
 <!-- Go Menu -->
 
 <!ENTITY goMenu.label "Өту">
@@ -596,6 +596,8 @@
 <!ENTITY editRemoteContentSettingsUnix.accesskey "е">
 <!-- Phishing Button Popup -->
 
+<!ENTITY phishingOptionIgnore.label "Бұл хабарлама үшін ескертуді елемеу">
+<!ENTITY phishingOptionIgnore.accesskey "м">
 
 
 
@@ -655,8 +657,8 @@
 <!ENTITY folderContextSearchForMessages.accesskey "з">
 <!ENTITY folderContextProperties2.label "Қасиеттері">
 <!ENTITY folderContextProperties2.accesskey "с">
-
-
+<!ENTITY folderContextFavoriteFolder.label "Таңдамалы бума">
+<!ENTITY folderContextFavoriteFolder.accesskey "а">
 <!ENTITY folderContextSettings2.label "Баптаулар">
 <!ENTITY folderContextSettings2.accesskey "а">
 <!-- Search Bar -->

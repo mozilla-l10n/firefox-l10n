@@ -35,8 +35,8 @@
 <!ENTITY configEdit.label              "Баптаулар түзеткіші…">
 <!ENTITY configEdit.accesskey          "Б">
 
-
-
+<!ENTITY showReturnReceipts.label      "Алу есептемелері…">
+<!ENTITY showReturnReceipts.accesskey  "р">
 <!-- Data Choices -->
 
 <!ENTITY telemetrySection.label          "Телеметрия">

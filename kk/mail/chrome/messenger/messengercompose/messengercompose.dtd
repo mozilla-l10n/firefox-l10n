@@ -178,8 +178,8 @@
 
 <!ENTITY tasksMenu.label "Саймандар">
 <!ENTITY tasksMenu.accesskey "С">
-
-
+<!ENTITY messengerCmd.label "Пошта және жаңалықтар топтары">
+<!ENTITY messengerCmd.accesskey "П">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адрестік кітапша">
 <!ENTITY addressBookCmd.accesskey "А">
@@ -222,14 +222,14 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
-
-
-
+<!ENTITY fromAddr.label "Кімнен:">
+<!ENTITY fromAddr.accesskey "м">
+<!ENTITY toAddr.label "Кімге:">
 <!ENTITY ccAddr.label "Көшірме:">
 <!ENTITY bccAddr.label "Жасырын көшірме:">
 <!ENTITY replyAddr.label "Жауап алушы:">
 <!ENTITY newsgroupsAddr.label "Жаңалықтар тобы:">
-
+<!ENTITY followupAddr.label "Мынаған жауап жазу:">
 <!ENTITY subject.label "Тақырыбы:">
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
