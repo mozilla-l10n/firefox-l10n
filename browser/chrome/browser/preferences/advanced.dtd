@@ -95,14 +95,15 @@
 <!ENTITY updateApplication.version.pre   "आवृत्ती">
 <!ENTITY updateApplication.version.post  "‌">
 <!ENTITY updateApplication.description   "&brandShortName; ला परवानगी द्या">
-
-
-
-
+<!ENTITY updateAuto2.label               "स्वयंरित्या सुधारणा इंस्टॉल करा (सुधारित सुरक्षेसाठी शिफारसीय)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "सुधारणांकरिता तपासणी करा, परंतु प्रतिष्ठापन करायचे की नाही ते मला ठरवू द्या">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 <!ENTITY updateManual2.label             "सुधारणांकरिता कधीच तपासणी करू नका (शिफारसीय नाही)">
 <!ENTITY updateManual2.accesskey         "N">
 
-
+<!ENTITY updateHistory2.label            "अद्ययावत इतिहास दाखवा…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "सुधारणा इंस्टॉल करण्यासाठी पार्श्वभूमी सर्व्हिस्चा वापर करा">
 <!ENTITY useService.accesskey            "b">
@@ -124,7 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "ऑफलाइन माहिती काढूण टाक">
 
 <!ENTITY certificateTab.label            "प्रमाणपत्र">
-
+<!ENTITY certPersonal2.description       "जेव्हा सर्व्हर वैयक्तिक प्रमाणपत्रा करीता विनंती करतो">
 <!ENTITY selectCerts.auto                "आपोआप निवडा">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "मला प्रत्येक वेळी विचारा">
@@ -140,7 +141,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.label "शिफारस केलेले कार्यक्षमता सेटिंग वापरा">
 <!ENTITY useRecommendedPerformanceSettings2.description "हे सेटिंग आपल्या संगणकाच्या हार्डवेअर आणि ऑपरेटिंग प्रणाली साठी अनुरूप होतील अशा प्रकारे बनवले आहेत.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
-
+<!ENTITY performanceSettingsLearnMore.label "आणखी जाणा">
 <!ENTITY limitContentProcessOption.label "मजकूर प्रक्रिया मर्यादा">
 <!ENTITY limitContentProcessOption.description "अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू  शकतात, पण त्या अधिक मेमरी देखील वापरातील.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
