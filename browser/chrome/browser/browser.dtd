@@ -931,7 +931,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM பற்றி மேலும் அறிய…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "இன்றைய வேகமும் தனியுரிமையும் கிடைத்திட &brandShorterName; உலாவியை புதுப்பி.">
+<!ENTITY updateAvailable.message "இன்றைய வேகமும் தனியுரிமையும் கிடைத்திட &brandShorterName; உலாவியைப் புதுப்பி.">
 <!ENTITY updateAvailable.whatsnew.label "புதிய வரவுகளைப் பார்.">
 <!ENTITY updateAvailable.header.message "புதுப்பிக்க புதிய &brandShorterName; உள்ளது.">
 <!ENTITY updateAvailable.acceptButton.label "புதியதை பதிவிறக்கு">

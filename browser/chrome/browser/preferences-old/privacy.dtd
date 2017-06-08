@@ -75,10 +75,10 @@
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
 
-<!ENTITY  rememberActions.pre.label           "நீங்கள் இதற்கு விரும்பலாம்">
-<!ENTITY  rememberActions.clearHistory.label  "உங்கள் சமீபத்திய வரலாற்றை துடை">
-<!ENTITY  rememberActions.middle.label        ", அல்லது">
-<!ENTITY  rememberActions.removeCookies.label "தனி குக்கீகளை நீக்கு">
+<!ENTITY  rememberActions.pre.label           "நீங்கள் விரும்பினால் ">
+<!ENTITY  rememberActions.clearHistory.label  "சமீபத்திய வரலாற்றை துடைக்கலாம்">
+<!ENTITY  rememberActions.middle.label        ", (அ) ">
+<!ENTITY  rememberActions.removeCookies.label "தனி நினைவிகளை நீக்கலாம்">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.">
@@ -86,7 +86,7 @@
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 
 <!ENTITY  dontrememberActions.pre.label          "நீங்களும் இதற்கு விரும்பலாம்">
-<!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாற்று அனைத்தையும் துடை">
+<!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாறு அனைத்தையும் துடை">
 <!ENTITY  dontrememberActions.post.label         ".">
 
 <!ENTITY  privateBrowsingPermanent2.label "எப்பொழுதும் தனிப்பட்ட உலாவல் முறையையே பயன்படுத்தவும்">
@@ -106,7 +106,7 @@
 
 <!ENTITY  browserContainersHeader.label         "கலன் கீற்றுகள்">
 <!ENTITY  browserContainersLearnMore.label      "மேலும் அறிய">
-<!ENTITY  browserContainersEnabled.label        "கலன் கீற்றுகளை செயற்படுத்து">
+<!ENTITY  browserContainersEnabled.label        "கலன் கீற்றுகளைச் செயற்படுத்து">
 <!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "அமைவுகள்…">
 <!ENTITY  browserContainersSettings.accesskey    "i">

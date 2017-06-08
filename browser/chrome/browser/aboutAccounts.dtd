@@ -11,4 +11,4 @@
 <!ENTITY aboutAccounts.noConnection.description "உள்நுழைய நீங்கள் கட்டாயம் இணையத்துடன் இணைந்திருக்க வேண்டும்.">
 <!ENTITY aboutAccounts.noConnection.retry "மீண்டும் முயற்சிக்கவும்">
 <!ENTITY aboutAccounts.badConfig.title "மோசமான கட்டமைவு">
-<!ENTITY aboutAccounts.badConfig.description "உங்கள் பயர்பாக்ஸ் கணக்கின் சேவையக கட்டமைப்பை தீர்மானிக்க முடியவில்லை. பின்னர் முயற்சிக்கவும்.">
+<!ENTITY aboutAccounts.badConfig.description "உங்கள் பயர்பாக்ஸ் கணக்கின் சேவையக கட்டமைப்பைத் தீர்மானிக்க முடியவில்லை. பின்னர் முயற்சிக்கவும்.">
