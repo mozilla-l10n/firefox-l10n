@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चलपाचीवेळ इंन्फो">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "उपकरण प्राधान्यां">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "दृश्य">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "संपादक अदलाबदल करात">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "व्हड करात">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ल्हान करात">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "वेबIDE सुरू जातकेर फाटलो प्रकल्प परत दवरात">
 <!ENTITY prefs_options_templatesurl "टेंप्लेट्स URL">
 <!ENTITY prefs_options_templatesurl_tooltip "उपलब्ध टेंप्लेटांची अनुक्रमणिका दाखयात">
-<!ENTITY prefs_options_showeditor "संपादक दाखयात">
-<!ENTITY prefs_options_showeditor_tooltip "अंतर्गत संपादक दाखयात">
-<!ENTITY prefs_options_tabsize "टॅबाचो आकार">
-<!ENTITY prefs_options_expandtab "सॉफ्ट टॅबां">
-<!ENTITY prefs_options_expandtab_tooltip "टॅब अक्षरापरस अवकाश वापरात">
-<!ENTITY prefs_options_detectindentation "आपशीचइंडेंट">
-<!ENTITY prefs_options_detectindentation_tooltip "स्त्रोत आशयार आधारित इंडेंटेशन ओळखात">
-<!ENTITY prefs_options_autocomplete "आपशीच पुराय">
-<!ENTITY prefs_options_autocomplete_tooltip "कोड आपशीचपुराय करप सक्षम करात">
-<!ENTITY prefs_options_autoclosebrackets "कंस आपशीच बंद करात">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "आपशीच बंद जावपी कंस घालात">
-<!ENTITY prefs_options_keybindings "कीबायंडिंग्ज">
-<!ENTITY prefs_options_keybindings_default "डिफॉल्ट">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "चलपाचीवेळ इंन्फो">
