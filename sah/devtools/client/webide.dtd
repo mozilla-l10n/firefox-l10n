@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Көрүү">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Улаатыннар">
 
 <!ENTITY viewMenu_zoomout_label "Куччат">
@@ -57,7 +55,6 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F2">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -95,21 +92,6 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "Сүрүн">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
