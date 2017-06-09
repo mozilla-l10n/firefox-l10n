@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Okulaba">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Funza Munda">
 
 <!ENTITY viewMenu_zoomout_label "Zimbulukusa">
@@ -56,7 +54,6 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -88,21 +85,6 @@
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Ggulawo akulira ebyongerwako">
 <!-- Prefs -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

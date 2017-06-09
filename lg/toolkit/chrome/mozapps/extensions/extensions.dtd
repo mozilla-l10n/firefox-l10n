@@ -114,6 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Laga eby'okuyiga ebitereddwa ebikwata ku kutuukanya">
 <!ENTITY cmd.hideReleaseNotes.label           "Kweeka Ebiwandiko Ebigiraku'nfuluma">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kweeka eby'okuyiga ku kutuukanya kuno">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -237,6 +238,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
+
+
 
 
 
