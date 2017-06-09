@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Hollu konngol bayyinol ngal ɓeydital">
 <!ENTITY cmd.hideReleaseNotes.label           "Suuɗ Konngol Bayyinol">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Suuɗ konngol bayyinol ngal ɓeydital">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -251,3 +252,7 @@
 
 <!ENTITY pluginDeprecation.description "Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ɓeydu Humpito.">
+
+
+
+

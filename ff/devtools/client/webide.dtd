@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Hollir">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Lonngo Ara">
 
 <!ENTITY viewMenu_zoomout_label "Lonngo Woɗɗa">
@@ -57,7 +55,6 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -101,21 +98,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY prefs_options_keybindings_default "Goowaaɗo">
 
 
 <!-- Runtime Details -->
