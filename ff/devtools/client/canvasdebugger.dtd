@@ -16,13 +16,17 @@
 <!ENTITY canvasDebuggerUI.reloadNotice1   "Hesɗitin">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
+
+<!ENTITY canvasDebuggerUI.reloadNotice2   "hello ngam waawde momtude ella &lt;canvas&gt; ngonkaaji.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.emptyNotice1/2): This is the label shown
   -  in the call list view when empty. -->
 
 <!ENTITY canvasDebuggerUI.emptyNotice1    "Dobo dow">
-
+<!ENTITY canvasDebuggerUI.emptyNotice2    "Feɗoode ngam daɗndude joowre noddugol kaarewol guurnirol.">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.waitingNotice): This is the label shown
   -  in the call list view while recording a snapshot. -->
+
+<!ENTITY canvasDebuggerUI.waitingNotice   "Daɗndugol yirlannde guurnirol...">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.recordSnapshot): This string is displayed
   -  on a button that starts a new snapshot. -->
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.importSnapshot): This string is displayed
