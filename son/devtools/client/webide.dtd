@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Dijibii">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Dirandi waati alhabar">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "Diji">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Jinay ibaayey">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Gunari">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Kanjari fasalkaw">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Bebbeerandi">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Nakasandi">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Porože bisantaa yeeti nda WebIDE ga šintin">
 <!ENTITY prefs_options_templatesurl "URL leetey">
 <!ENTITY prefs_options_templatesurl_tooltip "Leeti barantey maaboŋoo">
-<!ENTITY prefs_options_showeditor "Fasalkaa cebe">
-<!ENTITY prefs_options_showeditor_tooltip "Kunahere fasalkaa cebe">
-<!ENTITY prefs_options_tabsize "Kanji azzaati">
-<!ENTITY prefs_options_expandtab "Kanji baaney">
-<!ENTITY prefs_options_expandtab_tooltip "Goy nda farrey, manti kanji harfu ">
-<!ENTITY prefs_options_detectindentation "Boŋhirri">
-<!ENTITY prefs_options_detectindentation_tooltip "Hirri-noryan hiise aššil gundekuna bande">
-<!ENTITY prefs_options_autocomplete "Boŋtimmandi">
-<!ENTITY prefs_options_autocomplete_tooltip "Ašariyan boŋtimmandiyan tunandi">
-<!ENTITY prefs_options_autoclosebrackets "Boŋdaabu holgey">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Holgu daabuyan dam nga boŋ se">
-<!ENTITY prefs_options_keybindings "Kufalhawarey">
-<!ENTITY prefs_options_keybindings_default "Tilasu">
-<!ENTITY prefs_options_autosavefiles "Tukey boŋgaabu">
-<!ENTITY prefs_options_autosavefiles_tooltip "Tukey ma gaabundi ngi boŋše jina ka porože dirandi">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Dirandi waati alhabar">
