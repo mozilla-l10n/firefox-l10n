@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ಈ ಅಪ್‌ಡೇಟ್‌ಗಾಗಿನ ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ತೋರಿಸು">
 <!ENTITY cmd.hideReleaseNotes.label           "ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಅಡಗಿಸು">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ಈ ಅಪ್‌ಡೇಟ್‌ಗಳಿಗಾಗಿ ಬಿಡುಗಡೆ ಟಿಪ್ಪಣಿಗಳನ್ನು ಅಡಗಿಸು">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -248,5 +249,9 @@
 <!ENTITY disabledUnsigned.devInfo.start "ತಮ್ಮ ಆಡ್-ಅನ್‌ಗಳನ್ನು ದೃಢಪಡಿಸಿಕೊಳ್ಳ ಬಯಸಲು ಇಚ್ಛಿಸುವ ಡೆವೆಲಪರ್‌ಗಳು ಮುದುವರೆಯಲು ಓದಿ ನಮ್ಮ ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "ಕೈಪಿಡಿ">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
+
+
 
 
