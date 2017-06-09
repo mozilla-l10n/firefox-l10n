@@ -567,13 +567,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY saveVideoCmd.accesskey       "S">
 <!ENTITY saveAudioCmd.label           "Simpan Audio dengan Nama…">
 <!ENTITY saveAudioCmd.accesskey       "S">
-<!ENTITY emailImageCmd.label          "Emailkan Gambar…">
+<!ENTITY emailImageCmd.label          "Surelkan Gambar…">
 <!ENTITY emailImageCmd.accesskey      "k">
-<!ENTITY emailVideoCmd.label          "Emailkan Video…">
+<!ENTITY emailVideoCmd.label          "Surelkan Video…">
 <!ENTITY emailVideoCmd.accesskey      "k">
 <!ENTITY castVideoCmd.label           "Kirim Video ke Perangkat">
 <!ENTITY castVideoCmd.accesskey       "e">
-<!ENTITY emailAudioCmd.label          "Emailkan Audio…">
+<!ENTITY emailAudioCmd.label          "Surelkan Audio…">
 <!ENTITY emailAudioCmd.accesskey      "k">
 <!ENTITY playPluginCmd.label          "Aktifkan plugin ini">
 <!ENTITY playPluginCmd.accesskey      "p">
@@ -683,6 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Keluar"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac2.label   "Keluar dari &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "K">
 
 <!ENTITY closeCmd.label                 "Tutup">  
 <!ENTITY closeCmd.key                   "W">  
