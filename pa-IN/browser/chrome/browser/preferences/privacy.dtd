@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "ਟਰੈਕਿੰਗ ਤੋਂ ਸੁਰੱਖਿਆ">
 <!ENTITY  trackingProtectionAlways.label       "ਹਮੇਸ਼ਾ">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "ਸਿਰਫ਼ ਪ੍ਰਾਈਵੇਟ ਵਿੰਡੋਆਂ ਵਿੱਚ">
@@ -60,6 +61,8 @@
 <!ENTITY  showCookies.label             "ਕੂਕੀਜ਼ ਵੇਖੋ…">
 <!ENTITY  showCookies.accesskey         "S">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ਕਰੇਗਾ">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "ਅਤੀਤ">
 <!ENTITY  historyHeader.dontremember.label "ਕਦੇ ਵੀ ਅਤੀਤ ਯਾਦ ਨਾ ਰੱਖੋ">
 <!ENTITY  historyHeader.custom.label       "ਅਤੀਤ ਲਈ ਕਸਟਮ ਸੈਟਿੰਗ ਵਰਤੋਂ">
