@@ -253,3 +253,5 @@
 
 <!ENTITY pluginDeprecation.description "Bir şeyler mi eksik? Bazı yan uygulamalar artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY pluginDeprecation.learnMore "Daha fazla bilgi alın.">
+
+<!ENTITY legacyWarning.showLegacy "Eski teknoloji eklentileri göster">
