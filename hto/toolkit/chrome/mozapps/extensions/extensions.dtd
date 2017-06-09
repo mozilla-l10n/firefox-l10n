@@ -104,6 +104,7 @@
 
 
 
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -211,5 +212,9 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.linkToManual "Ónoɨdo">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
+
+
 
 
