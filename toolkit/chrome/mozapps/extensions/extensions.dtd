@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "De útjefte-opmerkingen foar dizze fernijing toane">
 <!ENTITY cmd.hideReleaseNotes.label           "Ferstopje útjefte-opmerkingen">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ferstopje de útjefte-opmerkingen foar dizze fernijing">
+<!ENTITY cmd.findReplacement.label            "Nei ferfanging sykje">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,8 @@
 
 <!ENTITY pluginDeprecation.description "Misse jo wat? Guon ynstekkers wurde net langer stipe troch &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Mear ynfo.">
+
+<!ENTITY legacyWarning.description "Misse jo wat? Guon útwreidingen wurde net langer stipe troch &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Ferâldere útwreidingen toane">
+<!ENTITY legacyExtensions.description "Dizze útwreidingen foldogge op dit stuit net oan de &brandShortName;-standerts binne dêrom de-aktivearre.">
+<!ENTITY legacyExtensions.learnMore "Lear mear oer de wizigingen oan add-ons">
