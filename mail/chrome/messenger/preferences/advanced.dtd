@@ -56,12 +56,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName; 업데이트">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           " ">
+<!ENTITY updateApp.version.post          " 버전">
 <!ENTITY updateAuto.label                "자동으로 업데이트 설치하기 (추천방식: 보안이 강화됨)">
 <!ENTITY updateAuto.accesskey            "A">
 <!ENTITY updateCheck.label               "새 업데이트를 체크하고 설치여부 묻기">
@@ -98,6 +101,8 @@
 <!ENTITY useCacheBefore.label            "페이지 캐시">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB 까지 캐시 사용">
+<!ENTITY overrideSmartCacheSize.label    "자동 캐시 관리 덮어씀">
+<!ENTITY overrideSmartCacheSize.accesskey "v">
 <!ENTITY clearCacheNow.label             "지금 삭제">
 <!ENTITY clearCacheNow.accesskey         "C">
 

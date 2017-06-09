@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "기본 서버로 설정">
 
+<!ENTITY smtpServerEdit.label "SMTP 서버 수정 중…">
+<!ENTITY smtpServerEdit.accesskey "P">
