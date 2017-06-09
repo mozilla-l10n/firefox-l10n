@@ -137,7 +137,7 @@
                                          "Læs mere">
 <!ENTITY limitContentProcessOption.label "Begrænsing af indholds-processer">
 <!ENTITY limitContentProcessOption.description
-                                         "Når du har mange faneblade åbne samtidig kan flere indholdsprocesser forbedre ydelsen, men de vil også bruge mere hukommelse.">
+                                         "Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.">
 <!ENTITY limitContentProcessOption.accesskey   "i">
 <!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey          "g">
