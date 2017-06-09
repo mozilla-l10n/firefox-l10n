@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Wersijowe informacije za toś tu aktualizaciju pokazaś">
 <!ENTITY cmd.hideReleaseNotes.label           "Wersijowe informacije schowaś">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Wersijowe informacije za toś tu aktualizaciju schowaś">
+<!ENTITY cmd.findReplacement.label            "Narownanje pytaś">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,8 @@
 
 <!ENTITY pluginDeprecation.description "Felujo něco? Někotare tykace njepódpěraju se wěcej pśez &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dalšne informacije.">
+
+<!ENTITY legacyWarning.description "Felujo něco? Někotare rozšyrjenja njepódpěraju se wěcej pśez &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Zestarjone rozšyrjenja pokazaś">
+<!ENTITY legacyExtensions.description "Toś te rozšyrjenja su se znjemóžnili, dokulaž standardam &brandShortName; njewótpowěduju.">
+<!ENTITY legacyExtensions.learnMore "Dalšne informacije wó změnach toś tych dodankow">
