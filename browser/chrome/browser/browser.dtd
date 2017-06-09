@@ -348,6 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "…ਤਾਜ਼ੇ ਅਤੀਤ ਨੂੰ ਸਾਫ਼ ਕਰੋ">
 <!ENTITY appMenuHistory.restoreSession.label "ਪਿਛਲੇ ਸ਼ੈਸ਼ਨ ਨੂੰ ਮੁੜ-ਸਟੋਰ ਕਰੋ">
 <!ENTITY appMenuHistory.viewSidebar.label "ਅਤੀਤ ਬਾਹੀ ਨੂੰ ਵੇਖੋ">
+<!ENTITY appMenuHelp.label "ਮਦਦ">
 <!ENTITY appMenuHelp.tooltip "ਮਦਦ ਮੇਨੂ ਨੂੰ ਖੋਲ੍ਹੋ">
 
 <!ENTITY appMenuRemoteTabs.label "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ">
@@ -373,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "ਸਿੰਕ ਦੀਆਂ ਪਸੰਦਾਂ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "ਆਪਣੇ ਹੋਰ ਡਿਵਾਈਸਾਂ ਤੋਂ ਟੈਬਾਂ ਦੀ ਸੂਚੀ ਦੇਖਣ ਲਈ ਸਾਈਨ ਇਨ ਕਰੋ।">
 <!ENTITY appMenuRemoteTabs.signin.label "ਸਿੰਕ ਕਰਨ ਸਾਈਨ ਇਨ ਕਰੋ">
+<!ENTITY appMenuRemoteTabs.managedevices.label "…ਡਿਵਾਈਸ ਪਰਬੰਧ">
 <!ENTITY appMenuRemoteTabs.sidebar.label "ਸਿੰਕ ਕੀਤੀਆਂ ਟੈਬਾਂ ਦੀ ਬਾਹੀ ਵੇਖੋ">
 
 <!ENTITY customizeMenu.addToToolbar.label "ਟੂਲਬਾਰ ਚ ਜੋੜੋ">
@@ -384,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "ਟੂਲਬਾਰ ਚ ਭੇਜੋ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -403,6 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "ਹੋਰ">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "ਖੋਜੋ ਜਾਂ ਐਡਰੈਸ ਦਿਉ">
@@ -421,6 +425,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "…ਚੋਣਾਂ ਨੂੰ ਬਦਲੋ">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "…ਪਸੰਦਾਂ ਨੂੰ ਬਦਲੋ">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -906,6 +914,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "…DRM ਬਾਰੇ ਹੋਰ ਜਾਣੋ">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.acceptButton.label "ਅੱਪਡੇਟ ਡਾਊਨਲੋਡ ਕਰੋ">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "ਹੁਣੇ ਨਹੀਂ">
 
 
 
