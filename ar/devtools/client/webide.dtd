@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "لقطة شاشة">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "ل">
 <!ENTITY runtimeMenu_showDetails_label "معلومات بيئة التشغيل">
-<!ENTITY runtimeMenu_showDetails_accesskey "ش">
+
 
 <!ENTITY runtimeMenu_showMonitor_accesskey "ش">
 <!ENTITY runtimeMenu_showDevicePrefs_label "تفضيلات الجهاز">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "اعرض">
 <!ENTITY viewMenu_accesskey "ع">
-
-
 <!ENTITY viewMenu_zoomin_label "قرّب">
 
 <!ENTITY viewMenu_zoomout_label "بعّد">
@@ -62,7 +60,6 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 <!ENTITY key_zoomout "-">
@@ -117,21 +114,6 @@
 
 <!ENTITY prefs_options_templatesurl "مسار القوالب">
 <!ENTITY prefs_options_templatesurl_tooltip "فهرس القوالب المتاحة">
-<!ENTITY prefs_options_showeditor "أظهر المحرر">
-<!ENTITY prefs_options_showeditor_tooltip "أظهر المحرر الداخلي">
-<!ENTITY prefs_options_tabsize "طول علامة الجدولة">
-
-<!ENTITY prefs_options_expandtab_tooltip "استخدم المسافات بدل محرف الجدولة">
-
-
-<!ENTITY prefs_options_autocomplete "الإكمال التلقائي">
-<!ENTITY prefs_options_autocomplete_tooltip "فعّل إكمال الكود التلقائي">
-<!ENTITY prefs_options_autoclosebrackets "أغلق الأقواس تلقائيا">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "يدرج الأقواس الغالقة تلقائيا">
-
-<!ENTITY prefs_options_keybindings_default "المبدئي">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "معلومات بيئة التشغيل">
