@@ -114,6 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ji bo vê rojanekirinê têbiniyên weşanê nîşan bide">
 <!ENTITY cmd.hideReleaseNotes.label           "Têbiniyên Weşanê Veşêre">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Têbiniyên weşanê yên ji bo vê rojanekirinê veşêre">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -237,6 +238,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
+
+
 
 
 
