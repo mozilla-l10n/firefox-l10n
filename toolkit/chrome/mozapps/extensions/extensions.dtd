@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "यो अद्यावधीको रिलिज टिप्पणीहरू देखाउनुहोस्">
 <!ENTITY cmd.hideReleaseNotes.label           "रिलिज नोट लुकाउनुहोस्">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "यो अद्यावधिको लागि रिलिज नोटहरू लुकाउनुहोस्">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -250,3 +251,7 @@
 <!ENTITY disabledUnsigned.devInfo.end "।">
 
 <!ENTITY pluginDeprecation.learnMore "अझ जान्नुहोस्">
+
+
+
+
