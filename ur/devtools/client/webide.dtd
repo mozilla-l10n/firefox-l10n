@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "سکرین شوٹ">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "چلنے کی معلومات">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "مانیٹر">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "آلہ ترجیحات">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "نظارہ">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "تدوین کار ٹوگل کریں">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "اندر زوم کریں">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "باہر زوم کریں">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "گزشتہ منصوبے کو بحال کریں جب ویب ائ ڈی ای شروع ہوتا ہے">
 <!ENTITY prefs_options_templatesurl "یو آر ال سانچے">
 <!ENTITY prefs_options_templatesurl_tooltip "دستیاب سانچوں کے اشارے">
-<!ENTITY prefs_options_showeditor "تدوین کار دکھائیں">
-<!ENTITY prefs_options_showeditor_tooltip "اندرونی تدوین کار دکھائیں">
-<!ENTITY prefs_options_tabsize "ٹیب سائز">
-<!ENTITY prefs_options_expandtab "نرم ٹیب">
-<!ENTITY prefs_options_expandtab_tooltip "ٹیب کے کریکٹر کے بجائے وقفے کا استعمال کریں">
-<!ENTITY prefs_options_detectindentation "خودکار حاشیہ">
-<!ENTITY prefs_options_detectindentation_tooltip "گمان پوٹ اساس پر ماخذ مواد">
-<!ENTITY prefs_options_autocomplete "خودکار مکمل">
-<!ENTITY prefs_options_autocomplete_tooltip "کوڈ خودکار تکمیل اہل بنائیں">
-<!ENTITY prefs_options_autoclosebrackets "خودکار بند خطوط وحدانی">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "خود کار طریقے سے بند خطوط وحدانی داخل کریں">
-<!ENTITY prefs_options_keybindings "کلیدی باندھ">
-<!ENTITY prefs_options_keybindings_default "طے شدہ">
-<!ENTITY prefs_options_autosavefiles "خودکار محفوظ مسل">
-<!ENTITY prefs_options_autosavefiles_tooltip "پہلے پراجیکٹ چلائے خود کار طریقے سے اس منصوبےکو مسل کو تدوین کریں">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "چلنے کے وقت معلومات">

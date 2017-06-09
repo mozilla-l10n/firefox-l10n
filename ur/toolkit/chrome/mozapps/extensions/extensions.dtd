@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ دکھائیں">
 <!ENTITY cmd.hideReleaseNotes.label           "اجرا نوٹ چھپائیں">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "اس تازہ کاری کے لیے اجرا نوٹ چھپائیں">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -252,3 +253,7 @@
 
 <!ENTITY pluginDeprecation.description "کسی شہ کی کمی ہے؟ &brandShortName;. کی جانب سے کچھ بلگ ان میں تعاون اب نہیں رہا ">
 <!ENTITY pluginDeprecation.learnMore "مزید سیکھیں">
+
+
+
+
