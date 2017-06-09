@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Seat den Scáileán">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Faoin Chóras Ama Rite">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "Monatóir">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Sainroghanna Gléis">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Amharc">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Scoránaigh an tEagarthóir">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Súmáil Isteach">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Súmáil Amach">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Athoscail an tionscadal deireanach nuair a thosaíonn WebIDE">
 <!ENTITY prefs_options_templatesurl "URL na dTeimpléad">
 <!ENTITY prefs_options_templatesurl_tooltip "Innéacs na dteimpléad atá ar fáil">
-<!ENTITY prefs_options_showeditor "Taispeáin eagarthóir">
-<!ENTITY prefs_options_showeditor_tooltip "Taispeáin eagarthóir inmheánach">
-<!ENTITY prefs_options_tabsize "Méid táib">
-<!ENTITY prefs_options_expandtab "Táib bhoga">
-<!ENTITY prefs_options_expandtab_tooltip "Úsáid spásanna in ionad táb">
-<!ENTITY prefs_options_detectindentation "Uatheangú">
-<!ENTITY prefs_options_detectindentation_tooltip "Tomhais an stíl eangaithe bunaithe ar inneachar na foinse">
-<!ENTITY prefs_options_autocomplete "Uathlíonadh">
-<!ENTITY prefs_options_autocomplete_tooltip "Cumasaigh uathlíonadh cóid">
-<!ENTITY prefs_options_autoclosebrackets "Dún lúibíní go huathoibríoch">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Cuir lúibíní deiridh isteach go huathoibríoch">
-<!ENTITY prefs_options_keybindings "Aicearraí Méarchláir">
-<!ENTITY prefs_options_keybindings_default "Réamhshocrú">
-<!ENTITY prefs_options_autosavefiles "Sábháil go huathoibríoch">
-<!ENTITY prefs_options_autosavefiles_tooltip "Sábháil comhaid athraithe go huathoibríoch sula gcuirfear an tionscadal ar siúl">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Faoin Chóras Ama Rite">
