@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "इस अद्यतन के लिए रिलीज नोट्स दिखाएँ">
 <!ENTITY cmd.hideReleaseNotes.label           "रिलीज नोट्स छिपाएँ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "इस अद्यतन के लिए रिलीज नोट्स छिपाएँ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -251,3 +252,7 @@
 
 <!ENTITY pluginDeprecation.description "कुछ भूल रहे हैं? कुछ प्लगइन &brandShortName; द्वारा समर्थित नही हैं">
 <!ENTITY pluginDeprecation.learnMore "अधिक जानें.">
+
+
+
+
