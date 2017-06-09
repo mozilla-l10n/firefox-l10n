@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Nyut gonyo coc pi ngec manyen man">
 <!ENTITY cmd.hideReleaseNotes.label           "Kan Gonyo Coc">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Kan gonyo coc pi ngec manyen man">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -252,3 +253,7 @@
 
 <!ENTITY pluginDeprecation.description "Gino mo orem? &brandShortName; pe dong cwako larwak mogo.">
 <!ENTITY pluginDeprecation.learnMore "Nong ngec mapol.">
+
+
+
+
