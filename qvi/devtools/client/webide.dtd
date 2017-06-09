@@ -48,14 +48,11 @@
 
 
 
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -87,21 +84,6 @@
 <!-- Addons -->
 
 <!-- Prefs -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
