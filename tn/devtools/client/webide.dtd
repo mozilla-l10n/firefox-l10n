@@ -49,15 +49,12 @@
 
 
 
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -101,21 +98,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY prefs_options_keybindings_default "Thulaganyetso ruri">
 
 
 <!-- Runtime Details -->
