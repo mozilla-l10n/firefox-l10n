@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "显示此更新的发行说明">
 <!ENTITY cmd.hideReleaseNotes.label           "隐藏发行说明">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "隐藏此更新的发行说明">
+<!ENTITY cmd.findReplacement.label            "查找替代品">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,6 @@
 
 <!ENTITY pluginDeprecation.description "少些东西？某些插件已不再被 &brandShortName; 支持。">
 <!ENTITY pluginDeprecation.learnMore "详细了解。">
+
+<!ENTITY legacyWarning.description "少些东西？&brandShortName; 已不再支持某些扩展。">
+<!ENTITY legacyWarning.showLegacy "显示旧式扩展">
