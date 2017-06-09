@@ -134,5 +134,8 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "Les meir">
 <!ENTITY limitContentProcessOption.label "Grense for innhaldsprosessar">
+<!ENTITY limitContentProcessOption.description
+                                         "Ytterlegare innhaldsprosessar kan forbetre ytinga når du brukar fleire faner, men vil også bruke meir minne.">
+<!ENTITY limitContentProcessOption.accesskey   "Y">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
