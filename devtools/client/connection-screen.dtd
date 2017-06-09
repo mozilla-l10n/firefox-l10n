@@ -23,6 +23,8 @@
 <!-- LOCALIZATION NOTE (remoteHelp, remoteDocumentation, remoteHelpSuffix):
 these strings will be concatenated in a single label, remoteDocumentation will
 be used as text for a link to MDN. -->
+
+<!ENTITY remoteHelp "Kuutorɗe topirɗe Firefox ina mbaawi momtude ella catiiɗe deestiiɗe (Firefox mo Android walla Firefox mo OS, e yeru). Yenane a hurminii suɓannde 'Momtugol ella deestingol' e kaɓirgel deestingel ngel. Ngam yaajnaade heen, yah to">
 <!ENTITY remoteDocumentation "defterdu">
 <!ENTITY remoteHelpSuffix ".">
 

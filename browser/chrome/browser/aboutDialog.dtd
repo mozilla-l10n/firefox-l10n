@@ -21,7 +21,7 @@
 
 <!ENTITY warningDesc.version        "&brandShortName; ko ƴeewndorde tee ena waasa ñiiɓde.">
 <!-- LOCALIZATION NOTE (warningDesc.telemetryDesc): This is a notification that Nightly/Aurora builds automatically send Telemetry data back to Mozilla. It is only shown in those versions. "It" refers to brandShortName. -->
-<!ENTITY warningDesc.telemetryDesc  " Ina nelda kumpite jaawɗe to baɗte moƴƴugol, gollorɗe, kuutorogol e keertine to &vendorShortName; ngam ɓeydude moƴƴinde &brandShortName; ">
+<!ENTITY warningDesc.telemetryDesc  "Ina nelda kumpite jaawɗe to baɗte moƴƴugol, gollorɗe, kuutorogol e keertine to &vendorShortName; ngam ɓeydude moƴƴinde &brandShortName; ">
 <!-- LOCALIZATION NOTE (community.exp.*) This paragraph is shown in "experimental" builds, i.e. Nightly and Aurora builds, instead of the other "community.*" strings below. -->
 
 <!ENTITY community.exp.start        "">
@@ -38,9 +38,9 @@
 <!ENTITY community.middle2          ", ko ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "renndo adunayaŋkeewo">
-<!ENTITY community.end3             "  gollotooɓe ngam ñiiɓnude udditaango Geese oo, renndee kadi newanoo winndere ndee fof.">
+<!ENTITY community.end3             "gollodaade ngam ñiiɓnude Geese peeñcu udditiiɗe, keɓaniiɗo yimɓe fof.">
 
-<!ENTITY helpus.start               "Aɗa yiɗi wallude?   ">
+<!ENTITY helpus.start               "Aɗa yiɗi wallude?">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
 <!ENTITY helpus.donateLink          "Addu dokkal maa">
 <!ENTITY helpus.middle              " walla ">
