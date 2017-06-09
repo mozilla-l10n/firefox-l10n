@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रिनसट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रानटाइन फोरमायथिहोग्रा">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "मनिटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "डिभाइस पसन्द">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "नुथाय">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "टग्गल सुजुगिरि">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "गेदेरै जुम खालाम">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "फिसायै जुम खालाम">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE खौ जागायनाय समाव आगोलनि प्रजेक्टखौ लाबोफिन">
 <!ENTITY prefs_options_templatesurl "टेमप्लेट URL">
 <!ENTITY prefs_options_templatesurl_tooltip "मोननो हाथाव टेमप्लेटनि नायखांफारि">
-<!ENTITY prefs_options_showeditor "सुजुगिरिखौ दिन्थि">
-<!ENTITY prefs_options_showeditor_tooltip "इसिं सुजुगिरिखौ दिन्थि">
-<!ENTITY prefs_options_tabsize "टेबनि महर">
-<!ENTITY prefs_options_expandtab "सफ्ट टेब">
-<!ENTITY prefs_options_expandtab_tooltip "टेब हांखोनि सोलायै स्पेसखौ बाहाय">
-<!ENTITY prefs_options_detectindentation "अट'इन्डेन्ट">
-<!ENTITY prefs_options_detectindentation_tooltip "फुंखा थानाय-आयदायाव सोनारनानै अनुमान इन्डेन्टेसन">
-<!ENTITY prefs_options_autocomplete "हार्सिं-जोबनाय">
-<!ENTITY prefs_options_autocomplete_tooltip "क'ड हार्सिं जोबनायखौ हाहोनाय खालाम">
-<!ENTITY prefs_options_autoclosebrackets "हार्सिं बन्द जानाय ब्रेकेट">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "बन्द जानाय ब्रेकेटखौ गावनो गाव महरै सोसन">
-<!ENTITY prefs_options_keybindings "किबाइन्डिं">
-<!ENTITY prefs_options_keybindings_default "डिफल्ट">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "रानटाइम फोरमायथिहोग्रा">
