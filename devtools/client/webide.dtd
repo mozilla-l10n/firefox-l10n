@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "रनटाइम जानकारी">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "मानीटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "डिवाइस वरीयता">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "देखू">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "टॉगल संपादक">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "पैघ करू">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "छोट करू">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "पछिला प्रोजेक्ट बहाल करू जखन WebIDE आरंभ हाएत अछि">
 <!ENTITY prefs_options_templatesurl "नमूना यूआरएल">
 <!ENTITY prefs_options_templatesurl_tooltip "मोजुद नमूना केर सूची">
-<!ENTITY prefs_options_showeditor "संपादक देखाबू">
-<!ENTITY prefs_options_showeditor_tooltip "आंतरिक संपादक देखाबू">
-<!ENTITY prefs_options_tabsize "टैब आकार">
-<!ENTITY prefs_options_expandtab "सॉफ्ट टैब्स">
-<!ENTITY prefs_options_expandtab_tooltip "टैब वर्ण केर बदला स्थान क उपयोग करू">
-<!ENTITY prefs_options_detectindentation "स्वतः हाशिया">
-<!ENTITY prefs_options_detectindentation_tooltip "स्रोत सामग्री केर आधार पर हाशिया क अनुमान करू">
-<!ENTITY prefs_options_autocomplete "स्वतः-पूर्ण">
-<!ENTITY prefs_options_autocomplete_tooltip "कोड स्वतःसंपन्न सक्रिय करू">
-<!ENTITY prefs_options_autoclosebrackets "कोष्ठक स्वतःबन्न">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "बन्न कोष्ठक स्वतः डालू">
-<!ENTITY prefs_options_keybindings "कीबाइंडिंग">
-<!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारित">
-<!ENTITY prefs_options_autosavefiles "स्वतःसहेजल फाइल">
-<!ENTITY prefs_options_autosavefiles_tooltip "परियोजना कए चलेबा स पहि‍ने संपादित फ़ाइल कए स्वचालित रूप स सहेजू">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "रनटाइम जानकारी">

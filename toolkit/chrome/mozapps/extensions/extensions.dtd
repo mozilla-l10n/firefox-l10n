@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ई अद्यतन क लेल रिलीज नोट्स देखाउ">
 <!ENTITY cmd.hideReleaseNotes.label           "रिलीज नोट्स नुकाउ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ई अद्यतन क लेल रिलीज नोट्स नुकाउ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -248,5 +249,9 @@
 <!ENTITY disabledUnsigned.devInfo.start "डेवलपर रुचि देखाबत हुए अपन एड-ऑन केँ जाँचनाय जारी राखत पढ़ि कए">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "मैनुअल">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
+
+
 
 
