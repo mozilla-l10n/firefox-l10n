@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Бұл жаңартудың шығарылым ескертпесін көрсету">
 <!ENTITY cmd.hideReleaseNotes.label           "Шығарылым ескертпесін жасыру">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Бұл жаңартудың шығарылым ескертпесін жасыру">
+<!ENTITY cmd.findReplacement.label            "Алмастыруды табу">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,8 @@
 
 <!ENTITY pluginDeprecation.description "Бірнәрсе жетіспей ма? Кейбір плагиндерді &brandShortName; енді қолдамайды.">
 <!ENTITY pluginDeprecation.learnMore "Көбірек білу.">
+
+<!ENTITY legacyWarning.description "Бірнәрсе жетіспей ма? &brandShortName; кейбір кеңейтулерді енді қолдамайды.">
+<!ENTITY legacyWarning.showLegacy "Ескірген кеңейтулерді көрсету">
+<!ENTITY legacyExtensions.description "Бұл кеңейтулер &brandShortName; өнімінің ағымдағы стандартқа сай емес, сондықтан сөндірілді.">
+<!ENTITY legacyExtensions.learnMore "Қосымшалар өзгерістері туралы көбірек білу">
