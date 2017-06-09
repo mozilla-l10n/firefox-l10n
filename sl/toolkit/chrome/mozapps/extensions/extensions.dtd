@@ -180,7 +180,7 @@
 <!ENTITY search.filter2.label                 "Iskanje:">
 <!ENTITY search.filter2.installed.label       "Moji dodatki">
 <!ENTITY search.filter2.installed.tooltip     "Prikaži nameščene dodatke">
-<!ENTITY search.filter2.available.label       "Dodatki na voljo">
+<!ENTITY search.filter2.available.label       "Razpoložljivi dodatki">
 <!ENTITY search.filter2.available.tooltip     "Prikaži dodatke, ki so na voljo za namestitev">
 
 <!ENTITY addon.homepage                       "Domača stran">
@@ -255,3 +255,4 @@
 
 <!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
+

@@ -13,9 +13,9 @@
 <!ENTITY port       "Vrata:">
 <!ENTITY connect    "Poveži">
 <!ENTITY connecting "Povezovanje …">
-<!ENTITY availableAddons "Oddaljeni dodatki na voljo:">
-<!ENTITY availableTabs "Oddaljeni zavihki na voljo:">
-<!ENTITY availableProcesses "Oddaljeni procesi na voljo:">
+<!ENTITY availableAddons "Razpoložljivi oddaljeni dodatki:">
+<!ENTITY availableTabs "Razpoložljivi oddaljeni zavihki:">
+<!ENTITY availableProcesses "Razpoložljivi oddaljeni procesi:">
 <!ENTITY connectionError "Napaka:">
 <!ENTITY errorTimeout "Napaka: povezava je potekla.">
 <!ENTITY errorRefused "Napaka: povezava zavrnjena.">
