@@ -49,14 +49,11 @@
 
 
 
-
-
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -94,21 +91,6 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "Ердийн">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
