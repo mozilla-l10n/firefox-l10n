@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži napomene o izdanju za ovaj update">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij napomene o izdanju">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij napomene o izdanju za ovaj update">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -252,3 +253,7 @@
 
 <!ENTITY pluginDeprecation.description "Fali vam nešto? Neki plugini više nisu podržani od strane &brandShortName;a.">
 <!ENTITY pluginDeprecation.learnMore "Saznajte više.">
+
+
+
+
