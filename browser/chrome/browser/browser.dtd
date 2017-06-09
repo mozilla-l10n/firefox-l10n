@@ -229,6 +229,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Tejto stránke ste zakázali zisťovať vašu polohu.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Tejto stránke ste zakázali ukladať údaje do vášho počítača.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tejto stránke ste zakázali zobrazovať upozornenia.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tejto stránke ste zakázali ukladanie údajov do trvalého úložiska.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Zobraziť históriu">
 
@@ -348,6 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Vymazať nedávnu históriu…">
 <!ENTITY appMenuHistory.restoreSession.label "Obnoviť poslednú reláciu">
 <!ENTITY appMenuHistory.viewSidebar.label "Zobraziť bočný panel História">
+<!ENTITY appMenuHelp.label "Pomocník">
 <!ENTITY appMenuHelp.tooltip "Otvorí ponuku Pomocník">
 
 <!ENTITY appMenuRemoteTabs.label "Synchronizované karty">
@@ -404,6 +406,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Viac">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Zadajte adresu alebo výraz vyhľadávania">
@@ -823,7 +826,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Chcete ďalšie nástroje?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Vyberte si z tisícok doplnkov">
 <!ENTITY customizeMode.restoreDefaults "Obnoviť predvolené">
+<!ENTITY customizeMode.done "Hotovo">
 <!ENTITY customizeMode.titlebar "Panel s titulkom okna">
+<!ENTITY customizeMode.toolbars2 "Panely s nástrojmi">
 <!ENTITY customizeMode.lwthemes "Témy">
 <!ENTITY customizeMode.lwthemes.myThemes "Moje témy">
 <!ENTITY customizeMode.lwthemes.recommended "Odporúčané">
@@ -922,12 +927,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
 <!ENTITY updateAvailable.panelUI.label "Prevziať aktualizáciu &brandShorterName;u">
 
+<!ENTITY updateManual.message "Prevezmite si novú verziu aplikácie &brandShorterName; a my vám pomôžeme ju nainštalovať.">
 <!ENTITY updateManual.whatsnew.label "Pozrite sa, čo je nové.">
 <!ENTITY updateManual.header.message "Aplikácii &brandShorterName; sa nepodarilo nainštalovať najnovšiu verziu.">
 <!ENTITY updateManual.acceptButton.label "Prevziať &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "P">
 <!ENTITY updateManual.cancelButton.label "Teraz nie">
 <!ENTITY updateManual.cancelButton.accesskey "n">
+<!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
 
 <!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
@@ -936,3 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "n">
 
 
+<!ENTITY sendToDevice.label "Odoslať do zariadenia…">
+<!ENTITY sendToDevice.viewTitle "Odoslať do zariadenia">
+<!ENTITY sendToDevice.fxaRequired.label "Požadované">
+<!ENTITY sendToDevice.noDevices.label "K dispozícii nie sú žiadne zariadenia">
