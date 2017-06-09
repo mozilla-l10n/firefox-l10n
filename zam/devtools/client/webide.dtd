@@ -34,7 +34,7 @@
 
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
@@ -44,8 +44,6 @@
 
 <!ENTITY viewMenu_label "Mbwíʔ">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Toggle tùs kùe=y">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Lii mach ah">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Lii lut ah">
@@ -65,8 +63,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -110,21 +106,6 @@
 
 <!ENTITY prefs_options_autoconnectruntime "Tòb kì nertá">
 <!ENTITY prefs_options_autoconnectruntime_tooltip "Tòb kì nertá tòb WebIDE tòlô">
-
-
-
-
-<!ENTITY prefs_options_showeditor "Mb-lòɁ tùs kùe=y">
-
-
-
-
-
-
-
-
-
-
 
 
 
