@@ -24,7 +24,8 @@
 <!ENTITY customizeMailAlert.label         "Баптау…">
 <!ENTITY customizeMailAlert.accesskey     "а">
 
-
+<!ENTITY showTrayIcon.label               "Трей таңбашасын көрсету">
+<!ENTITY showTrayIcon.accesskey           "Т">
 
 <!ENTITY play.label                       "Ойнату">
 <!ENTITY play.accesskey                   "О">

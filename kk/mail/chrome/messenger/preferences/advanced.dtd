@@ -88,9 +88,9 @@
 <!ENTITY showOffline.accesskey         "ы">
 
 <!ENTITY Diskspace                       "Дискідегі орын">
-
-
-
+<!ENTITY offlineCompactFolders.label     "Барлық бумаларды ықшамдау, егер ол сақтаса">
+<!ENTITY offlineCompactFolders.accesskey "ы">
+<!ENTITY offlineCompactFoldersMB.label   "МБ жалпы">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:
@@ -98,9 +98,11 @@
   &useCacheBefore.label  [ textbox for cache size in MB ]   &useCacheAfter.label;
 -->
 
-
-
-
+<!ENTITY useCacheBefore.label            "Дейін қолдану">
+<!ENTITY useCacheBefore.accesskey        "о">
+<!ENTITY useCacheAfter.label             "МБ орын кэш үшін">
+<!ENTITY overrideSmartCacheSize.label    "Кэшті автобасқаруды елемеу">
+<!ENTITY overrideSmartCacheSize.accesskey "м">
 <!ENTITY clearCacheNow.label             "Қазір өшіру">
 <!ENTITY clearCacheNow.accesskey         "з">
 <!-- Certificates -->

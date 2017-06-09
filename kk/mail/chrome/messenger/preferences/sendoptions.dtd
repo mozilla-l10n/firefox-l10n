@@ -4,23 +4,23 @@
 
 <!ENTITY dialog.title                 "Жіберу баптаулары">
 <!ENTITY sendMail.title               "Мәтін пішімі">
+<!ENTITY autoDowngrade.label          "Мүмкін болса, хабарламаларды ашық мәтін ретінде жіберу">
+<!ENTITY autoDowngrade.accesskey      "т">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY askMe.label                  "Не істеуді сұрау">
+<!ENTITY askMe.accesskey              "с">
+<!ENTITY convertPlain.label           "Хабарламаны ашық мәтінге түрлендіру">
+<!ENTITY convertPlain.accesskey       "т">
+<!ENTITY sendHTML.label               "Хабарламаны сонда да HTML түрінде жіберу">
+<!ENTITY sendHTML.accesskey           "ж">
+<!ENTITY sendBoth.label               "Хабарламаны ашық мәтін және HTML түрінде де жіберу">
+<!ENTITY sendBoth.accesskey           "е">
 
 
 <!ENTITY HTMLTab.label                "HTML домендері">
 <!ENTITY HTMLTab.accesskey            "H">
-
-
+<!ENTITY PlainTextTab.label           "Ашық мәтінді домендер">
+<!ENTITY PlainTextTab.accesskey       "ш">
 <!ENTITY AddHtmlDomain.label          "Қосу…">
 <!ENTITY AddHtmlDomain.accesskey      "о">
 <!ENTITY AddPlainText.label           "Қосу…">
@@ -32,5 +32,5 @@
 
 <!ENTITY add.htmltitle                "HTML домен атын қосу">
 <!ENTITY add.htmldomain               "HTML домен аты:">
-
-
+<!ENTITY add.plaintexttitle           "Ашық мәтінді домен атын қосу">
+<!ENTITY add.plaintextdomain          "Ашық мәтінді домен аты:">

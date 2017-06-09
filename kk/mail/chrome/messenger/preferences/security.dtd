@@ -11,8 +11,8 @@
 <!ENTITY manualMark.accesskey "з">
 
 
-
-
+<!ENTITY manualMarkModeDelete.label "Оларды өшіру">
+<!ENTITY manualMarkModeDelete.accesskey "ш">
 <!ENTITY markAsReadOnSpam.label "Қоқыс ретінде анықталған хабарламаларды оқылған ретінде белгілеу">
 <!ENTITY markAsReadOnSpam.accesskey "б">
 

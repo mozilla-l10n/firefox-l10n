@@ -19,12 +19,12 @@
 <!ENTITY radioAutoSend.accesskey "И">
 <!ENTITY radioNotSend.label "Жоқ">
 <!ENTITY radioNotSend.accesskey "о">
-
-
-
+<!ENTITY radioAskUnsent.label "Мені сұрау">
+<!ENTITY radioAskUnsent.accesskey "с">
+<!ENTITY textGoingOffline "Желіден тыс режимге өту кезінде желіден тыс қолдану үшін хабарламаларды жүктеп алу керек пе?">
 <!ENTITY radioAutoDownload.label "Иә">
 <!ENTITY radioAutoDownload.accesskey "И">
-
-
-
-
+<!ENTITY radioNotDownload.label "Жоқ">
+<!ENTITY radioNotDownload.accesskey "о">
+<!ENTITY radioAskDownload.label "Мені сұрау">
+<!ENTITY radioAskDownload.accesskey "с">

@@ -29,16 +29,18 @@
 <!ENTITY defaultToParagraph.label             "Үнсіз келісім бойынша Дене мәтіні орнына абзац пішімін қолдану">
 <!ENTITY defaultToParagraph.accesskey         "б">
 
-
-
-
+<!ENTITY spellCheck.label                     "Жіберу алдына емлені тексеру">
+<!ENTITY spellCheck.accesskey                 "с">
+<!ENTITY spellCheckInline.label               "Теру кезінде емлені тексеру">
+<!ENTITY spellCheckInline1.accesskey          "е">
 <!ENTITY languagePopup.label                  "Тіл:">
 <!ENTITY languagePopup.accessKey              "л">
 <!ENTITY downloadDictionaries.label           "Көбірек сөздіктерді жүктеп алу">
 
-
-
-
+<!ENTITY warnOnSendAccelKey.label             "Хабарламаны жіберу үшін пернетақта жарлығы қолданылған кезде растауды сұрау">
+<!ENTITY warnOnSendAccelKey.accesskey         "с">
+<!ENTITY autoSave.label                       "Автосақтау әр">
+<!ENTITY autoSave.accesskey                   "А">
 <!ENTITY autoSaveEnd.label                    "минут">
 
 
