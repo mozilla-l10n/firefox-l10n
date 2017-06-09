@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ցուցադրել այս թարմացման նշումները">
 <!ENTITY cmd.hideReleaseNotes.label           "Թաքցնել Թողարկման Նշումները">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Թաքցնել այս թարմացման թողարկման նշումները">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,7 @@
 
 <!ENTITY pluginDeprecation.description "Ինչ-որ բան բացակայու՞մ է: Որոշ բաղադրիչներ այլևս չեն աջակցվում &brandShortName;-ի կողմից:">
 <!ENTITY pluginDeprecation.learnMore "Իմանալ ավելին:">
+
+
+
+
