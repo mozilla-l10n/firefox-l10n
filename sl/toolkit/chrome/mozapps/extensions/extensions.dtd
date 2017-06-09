@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži opombe k izdaji za to posodobitev">
 <!ENTITY cmd.hideReleaseNotes.label           "Skrij opombe k izdaji">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skrij opombe k izdaji za to posodobitev">
+<!ENTITY cmd.findReplacement.label            "Najdi zamenjavo">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,7 @@
 <!ENTITY pluginDeprecation.description "Pogrešate kaj? Nekateri vtičniki niso več podprti v &brandShortName;u.">
 <!ENTITY pluginDeprecation.learnMore "Več o tem.">
 
+<!ENTITY legacyWarning.description "Pogrešate kaj? Nekatere razširitve niso več podprte v &brandShortName;u.">
+<!ENTITY legacyWarning.showLegacy "Prikaži zastarele razširitve">
+<!ENTITY legacyExtensions.description "Te razširitve ne ustrezajo trenutnim standardom &brandShortName;a, zato so bile onemogočene.">
+<!ENTITY legacyExtensions.learnMore "Več o spremembah dodatkov">
