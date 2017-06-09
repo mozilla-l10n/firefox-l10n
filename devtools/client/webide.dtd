@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "திரைப்பிடிப்பு">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "இயக்க நேரம் தகவல்">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "கண்காணிப்பு">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "சாதன முன்னுரிமைகள்">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "பார்">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "தொகுப்பி நிலைமாற்றி">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "பெரிதாக்கு">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "சிறிதாக்கு">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE தொடங்கும்பொது முந்தைய திட்டத்தை மீள்சேமி">
 <!ENTITY prefs_options_templatesurl "வார்ப்புரு URL">
 <!ENTITY prefs_options_templatesurl_tooltip "இருக்கும் வார்ப்புருக்களின் அகரவரிசை">
-<!ENTITY prefs_options_showeditor "தொகுப்பியைக் காண்பி">
-<!ENTITY prefs_options_showeditor_tooltip "உள் தொகுப்பியைக் காண்பி">
-<!ENTITY prefs_options_tabsize "கீற்றளவு">
-<!ENTITY prefs_options_expandtab "மென் கீற்றுகள்">
-<!ENTITY prefs_options_expandtab_tooltip "கீற்று எழுத்துக்கு பதில் இடைவெளிகளைப் பயன்படுத்து">
-<!ENTITY prefs_options_detectindentation "தானே உள்தள்">
-<!ENTITY prefs_options_detectindentation_tooltip "மூல உள்ளடக்கத்தின் அடிப்படையில் உள்தள்ளலை ஊகி">
-<!ENTITY prefs_options_autocomplete "தானாக முடியும்">
-<!ENTITY prefs_options_autocomplete_tooltip "குறிமூலங்கள் தானே முடிவடைவதைச் செயலாக்கு">
-<!ENTITY prefs_options_autoclosebrackets "அடைப்புக் குறிகளை தானாக மூடு">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "மூடும் அடைப்புக் குறிகளை தானாக இடு">
-<!ENTITY prefs_options_keybindings "விசைப்பிணைப்புகள்">
-<!ENTITY prefs_options_keybindings_default "முன்னிருப்பு">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "இயக்க நேர தகவல்">

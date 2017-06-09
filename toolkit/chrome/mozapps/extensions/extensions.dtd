@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையைக் காட்டு">
 <!ENTITY cmd.hideReleaseNotes.label           "வெளியீட்டு அறிக்கையை மறை">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையை மறை">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -251,3 +252,7 @@
 
 
 <!ENTITY pluginDeprecation.learnMore "மேலும் அறிய.">
+
+
+
+
