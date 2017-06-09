@@ -417,7 +417,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY moreMenu.label "மேலும்">
 
 <!ENTITY openCmd.commandkey           "l">
-<!ENTITY urlbar.placeholder2          "முகவரியைத் தேடவும் அல்லது உள்ளிடவும்">
+<!ENTITY urlbar.placeholder2          "சொல்லைத் தேடுங்கள் அல்லது முகவரியை உள்ளிடுங்கள்">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
 <!ENTITY urlbar.extension.label       "நீட்சிகள்:">
