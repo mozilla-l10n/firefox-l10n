@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Seall nòtaichean sgaoilidh an ùrachaidh seo">
 <!ENTITY cmd.hideReleaseNotes.label           "Cuir na nòtaichean sgaoilidh am falach">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuir nòtaichean sgaoilidh an ùrachaidh seo am falach">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -252,3 +253,7 @@
 
 <!ENTITY pluginDeprecation.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a phlugain tuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Barrachd fiosrachaidh.">
+
+
+
+
