@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Bonisa amanqaku okukhulula olu hlaziyo">
 <!ENTITY cmd.hideReleaseNotes.label           "Fihla amanqaku okukhulula">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla amanqaku okukhulula olu hlaziyo">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -252,3 +253,7 @@
 
 <!ENTITY pluginDeprecation.description "Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa yi-&brandShortName;">
 <!ENTITY pluginDeprecation.learnMore "Funda Okungakumbi">
+
+
+
+
