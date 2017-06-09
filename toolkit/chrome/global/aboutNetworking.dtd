@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå op">
 <!ENTITY aboutNetworking.dnsDomain             "Domæne">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adresser">
+<!ENTITY aboutNetworking.rcwn                  "RCWN-statistik">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN-status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
