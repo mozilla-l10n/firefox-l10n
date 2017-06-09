@@ -114,6 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Kyerɛ reliis nkraataa ma ntoso yi">
 <!ENTITY cmd.hideReleaseNotes.label           "Suma reliis nkrataa">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Suma reliis nkrataa ma ntoso yi">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -237,6 +238,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
+
+
 
 
 
