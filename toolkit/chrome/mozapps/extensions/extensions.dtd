@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा दाखवा">
 <!ENTITY cmd.hideReleaseNotes.label           "प्रकाशन टिपा लपवा">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा लपवा">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,7 @@
 
 <!ENTITY pluginDeprecation.description "काही शोधताय काय? काही प्लगईन्स, &brandShortName; आता समर्थित नाहीत.">
 <!ENTITY pluginDeprecation.learnMore "आणखी शिका">
+
+
+
+
