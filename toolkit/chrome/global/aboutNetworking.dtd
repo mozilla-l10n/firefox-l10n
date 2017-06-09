@@ -41,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "זיהוי">
 <!ENTITY aboutNetworking.dnsDomain             "שם מתחם">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "כתובות">
+<!ENTITY aboutNetworking.rcwn                  "סטטיסטיקת RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "מצב RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "ספירת ניצחונות מטמון">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "ספירת ניצחונות רשת">
+<!ENTITY aboutNetworking.totalNetworkRequests  "ספירת סה״כ בקשות רשת">
