@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Sken iwenniten n lqem-agi">
 <!ENTITY cmd.hideReleaseNotes.label           "Ffer iwenniten n lqem">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ffer iwenniten n lqem-agi">
+<!ENTITY cmd.findReplacement.label            "Af adig">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,8 @@
 
 <!ENTITY pluginDeprecation.description "Tettut kra? Kra nizegrar ur ttwasefranken ara tura di &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Issin ugar">
+
+<!ENTITY legacyWarning.description "Tettut kra? Kra n izegrar ur ttwasefraken ara tura di &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Sken akk iseɣzaf iqburen">
+<!ENTITY legacyExtensions.description "Iseγzaf-agi ur sεin ara ilugan n &brandShortName; imiranen γef aya ittwasensen.">
+<!ENTITY legacyExtensions.learnMore "Issin ugar γef usnifel γer izegrar">
