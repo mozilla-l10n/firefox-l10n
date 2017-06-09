@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Bheka">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Sondeza eduze">
 
 <!ENTITY viewMenu_zoomout_label "Hlehlisela emuva">
@@ -56,7 +54,6 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -100,21 +97,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!ENTITY prefs_options_keybindings_default "Okwakhona">
 
 
 <!-- Runtime Details -->
