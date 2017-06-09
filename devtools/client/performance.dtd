@@ -32,7 +32,7 @@
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Записване на профайл в момента е недостъпно. Моля, затворете всички поверителни прозорци и опитайте отново.">
+<!ENTITY performanceUI.unavailableNoticePB "Записване на профил в момента е недостъпно. Моля, затворете всички поверителни прозорци и опитайте отново.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
