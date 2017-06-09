@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update tonen">
 <!ENTITY cmd.hideReleaseNotes.label           "Uitgaveopmerkingen verbergen">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "De uitgaveopmerkingen van deze update verbergen">
+<!ENTITY cmd.findReplacement.label            "Een vervanging zoeken">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,8 @@
 
 <!ENTITY pluginDeprecation.description "Mist u iets? Sommige plug-ins worden niet meer door &brandShortName; ondersteund.">
 <!ENTITY pluginDeprecation.learnMore "Meer info.">
+
+<!ENTITY legacyWarning.description "Mist u iets? Sommige extensies worden niet meer door &brandShortName; ondersteund.">
+<!ENTITY legacyWarning.showLegacy "Verouderde extensies tonen">
+<!ENTITY legacyExtensions.description "Deze extensies voldoen niet aan huidige &brandShortName;-standaarden en zijn daarom gedeactiveerd.">
+<!ENTITY legacyExtensions.learnMore "Meer info over de wijzigingen omtrent add-ons">
