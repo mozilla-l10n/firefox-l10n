@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Bheka">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Kuza Ndani">
 
 <!ENTITY viewMenu_zoomout_label "Kuza Nje">
@@ -57,7 +55,6 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -93,21 +90,6 @@
 <!-- Addons -->
 <!ENTITY addons_aboutaddons "Fungua Msimamizi wa Vifaa vya nyongeza">
 <!-- Prefs -->
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
