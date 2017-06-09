@@ -32,7 +32,7 @@
 
 
 
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
@@ -42,8 +42,6 @@
 
 <!ENTITY viewMenu_label "Thegna">
 
-
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Nuywalana">
 
 <!ENTITY viewMenu_zoomout_label "Nuyle'çxin">
@@ -62,7 +60,6 @@
 <!ENTITY key_play "R ">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -112,21 +109,6 @@
 
 
 
-
-
-
-
-<!ENTITY prefs_options_expandtab_tooltip "Txhuden vxisnxi lakxa' txã'çxaçxhasa's phewuhna.">
-
-
-
-
-
-
-<!ENTITY prefs_options_keybindings "Kuh jwed phkithnxisaa">
-
-<!ENTITY prefs_options_autosavefiles "Peekiçxaa eç jxawa'ja's">
-<!ENTITY prefs_options_autosavefiles_tooltip "Peekx ũus uhna eç jxawnxisa's yu'pthen yaçka çhukhte ji'phunxisa's.">
 <!-- Runtime Details -->
 
 

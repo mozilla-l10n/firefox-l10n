@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Kthegun eç kaanxi'sa's yu'phten fxiyfxiy ktegun na's yu'pthẽwa'ja's">
 <!ENTITY cmd.hideReleaseNotes.label           "Paaçte eç kaanxi's yu'phten fxiyfxiy ktegun.">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Paaçte eç kaanxi yu'phten fxiyfxiy ktegun naa yu'pthẽwa'ja's ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -246,5 +247,9 @@
      being a link to an external site. -->
 <!ENTITY disabledUnsigned.devInfo.linkToManual "Umna">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
+
+
 
 
