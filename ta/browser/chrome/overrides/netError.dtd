@@ -68,7 +68,7 @@
 <!ENTITY proxyResolveFailure.title "பதிலி சேவையகத்தைக் கண்டறிய முடியவில்லை">
 <!ENTITY proxyResolveFailure.longDesc "<ul> <li>Check the proxy settings to make sure that they are correct.</li> <li>Check to make sure your computer has a working network connection.</li> <li>If your computer or network is protected by a firewall or proxy, make sure that &brandShortName; is permitted to access the Web.</li> </ul>">
 
-<!ENTITY redirectLoop.title "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை">
+<!ENTITY redirectLoop.title "பக்கத்தை ஒழுங்காகத் திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>சில நேரங்களில் நினைவிகளை ஏற்க மறுத்தாலோ (அ) செயலற்று இருந்தாலோ இந்தச் சிக்கல் ஏற்படும்.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "சேவையகத்திலிருந்து எதிர்பாராத பதில்">
