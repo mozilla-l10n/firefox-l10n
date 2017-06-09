@@ -19,7 +19,7 @@
 <!ENTITY dnsNotFound.title "சேவையகத்தை அணுக முடியவில்லை">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
-<!ENTITY dnsNotFound.longDesc4 "<ul> <li>தட்டச்சு பிழைகளைக் காண முகவரியைச் சரிபார்க்கவும் <strong>www</strong>.thamizha.org விற்கு பதிலாக <strong>ww</strong>.thamizha.org</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>உங்களால் பக்கங்களை ஏற்ற முடிவில்லை எனில், சாதனத்தில் தரவு அல்லது வை-பை இணையத்தைச் சரிபார்க்கவும். <button id='wifi'>வை-பை செயல்படுத்து</button> </li> </ul>">
+<!ENTITY dnsNotFound.longDesc4 "<ul> <li>தட்டச்சு பிழைகளைக் காண முகவரியைச் சரிபார்க்கவும் <strong>www</strong>.thamizha.org விற்கு பதிலாக <strong>ww</strong>.thamizha.org</li> <div id='searchbox'> <input id='searchtext' type='search'></input> <button id='searchbutton'>தேடவும்</button> </div> <li>உங்களால் எந்த வலைப் பக்கத்தையும் அணுக முடியவில்லையெனில், கைப்பேசி (அ) அருகலை இணையத்தைச் சரிபாருங்கள். <button id='wifi'>அருகலை</button> </li> </ul>">
 
 <!ENTITY fileNotFound.title "கோப்பினை காணவில்லை">
 <!ENTITY fileNotFound.longDesc "<ul> <li>கோப்பின் பெயரை பெரிய எழுத்துக்களுக்கு அல்லது பிழைகழுக்காக சரிபார்.</li> <li>கோப்பு இடமாற்றப்பட்டதா அல்லது நீக்கப்பட்டதா, என சரி பார் .</li> </ul>">
@@ -69,7 +69,7 @@
      The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>பதிலாளின் அமைவுகள் சரியா என சரிபார்க்கவும்.</li> <li>உங்கள் சாதனத்தில் கைப்பேசி இணையம் அல்லது வை-பை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
 
-<!ENTITY redirectLoop.title "பக்கம் ஒழுங்காக திருப்பிவிடவில்லை">
+<!ENTITY redirectLoop.title "பக்கத்தை ஒழுங்காகத் திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>சில நேரங்களில் குக்கீகளை ஏற்க மறுத்தாலோ அல்லது செயலற்று இருந்தாலோ இந்த பிரச்சனை வரும்.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "சேவையகத்திலிருந்து எதிர்பாராத பதில்">
