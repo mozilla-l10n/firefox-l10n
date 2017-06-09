@@ -127,5 +127,17 @@
 <!ENTITY viewSecurityDevices.accesskey   "S">
 
 <!ENTITY performance.label               "Ydelse">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Brug de anbefalede ydelses-indstillinger">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Disse indstillinger er skræddersyede til din computers hardware og operativsystem">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "a">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Læs mere">
+<!ENTITY limitContentProcessOption.label "Begrænsing af indholds-processer">
+<!ENTITY limitContentProcessOption.description
+                                         "Når du har mange faneblade åbne samtidig kan flere indholdsprocesser forbedre ydelsen, men de vil også bruge mere hukommelse.">
+<!ENTITY limitContentProcessOption.accesskey   "i">
 <!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey          "g">
