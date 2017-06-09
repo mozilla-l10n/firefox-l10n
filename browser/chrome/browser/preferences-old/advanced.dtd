@@ -126,11 +126,11 @@
 
 <!ENTITY performance.label               "Errendimendua">
 <!ENTITY useRecommendedPerformanceSettings.label "Erabili gomendatutako errendimendu-ezarpenak">
-
+<!ENTITY useRecommendedPerformanceSettings.description "Ezarpen hauek zure ordenagailuaren hardwareari eta sistema eragileari egokituta daude.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "E">
 <!ENTITY performanceSettingsLearnMore.label "Argibide gehiago">
-
-
-
+<!ENTITY limitContentProcessOption.label "Eduki-prozesuen muga">
+<!ENTITY limitContentProcessOption.description "Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.">
+<!ENTITY limitContentProcessOption.accesskey   "m">
 <!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey          "h">
