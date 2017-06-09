@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostra les notes de la versió d'aquesta actualització">
 <!ENTITY cmd.hideReleaseNotes.label           "Amaga les notes de la versió">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amaga les notes de la versió d'aquesta actualització">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,7 @@
 
 <!ENTITY pluginDeprecation.description "Us falta res? Alguns complements ja no són compatibles amb el &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Més informació.">
+
+
+
+
