@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चालू कालावधीबद्दल माहिती">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "साधन प्राधान्यक्रम">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "दृश्य">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "संपादक बदलवा">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "मोठे करा">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "छोटे करा">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE सुरु झाल्यानंतर मागील प्रकल्प पूर्ववत करा">
 <!ENTITY prefs_options_templatesurl "टेम्पलेट्स URL">
 <!ENTITY prefs_options_templatesurl_tooltip "उपलब्ध टेम्पलेट्सची अनुक्रमणिका">
-<!ENTITY prefs_options_showeditor "एडिटर दर्शवा">
-<!ENTITY prefs_options_showeditor_tooltip "अंतर्गत संपादक दर्शवा">
-<!ENTITY prefs_options_tabsize "टॅब आकार">
-<!ENTITY prefs_options_expandtab "स्फॉफ्ट टॅब्स">
-<!ENTITY prefs_options_expandtab_tooltip "टॅब की ऐवजी स्पेसेस की चा वापर करा">
-<!ENTITY prefs_options_detectindentation "स्वयंचलीत इंडेन्ट">
-<!ENTITY prefs_options_detectindentation_tooltip "स्रोत अंतर्भुत माहितीवर आधारित इंडेंटेशन ओळखा">
-<!ENTITY prefs_options_autocomplete "स्वयंचलित पूर्ण करणे">
-<!ENTITY prefs_options_autocomplete_tooltip "कोड स्वयंचलित रीत्या पूर्ण करणे सक्षम करा">
-<!ENTITY prefs_options_autoclosebrackets "कंस स्व बंद करा">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "बंद कंस स्वतः अंतर्भुत करा">
-<!ENTITY prefs_options_keybindings "किबाइंडिंग्ज">
-<!ENTITY prefs_options_keybindings_default "पूर्वनिर्धारीत">
-<!ENTITY prefs_options_autosavefiles "स्वयं पद्धतीने फाइल्स साठवा">
-<!ENTITY prefs_options_autosavefiles_tooltip "प्रकल्प चालवण्यापुर्वी संपादीत केलेल्या फाइल्स स्वयंपद्धतीने साठवा">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "चालू कालावधीबद्दल माहिती">
