@@ -13,8 +13,8 @@
 <!ENTITY port       "Poor:">
 <!ENTITY connect    "Seŋo">
 <!ENTITY connecting "Nana seŋoo…">
-
-
+<!ENTITY availableAddons "Ɓeyditte goɗɗuɗe ina ngoodi">
+<!ENTITY availableTabs "Tabbe goɗɗuɗe ina ngoodi:">
 <!ENTITY availableProcesses "rewindo woodngo woɗɗungo">
 <!ENTITY connectionError "Juumre:">
 <!ENTITY errorTimeout "juumre:daawal panndagol seŋo ɓennungo">
