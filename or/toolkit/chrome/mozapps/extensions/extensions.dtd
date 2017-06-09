@@ -114,6 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ଏହି ଅଦ୍ୟତନ ପାଇଁ ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଦର୍ଶାନ୍ତୁ">
 <!ENTITY cmd.hideReleaseNotes.label           "ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଲୁଚାନ୍ତୁ">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ଏହି ଅଦ୍ୟତନ ପାଇଁ ପ୍ରକାଶନ ଟିପ୍ପଣୀକୁ ଲୁଚାନ୍ତୁ">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -239,6 +240,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
+
+
 
 
 
