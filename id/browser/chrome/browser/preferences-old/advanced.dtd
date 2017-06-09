@@ -134,5 +134,7 @@
 <!ENTITY performanceSettingsLearnMore.label
                                          "Pelajari lebih lanjut">
 <!ENTITY limitContentProcessOption.label "Batas proses konten">
+<!ENTITY limitContentProcessOption.description
+                                         "Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">
 <!ENTITY allowHWAccel.accesskey          "a">
