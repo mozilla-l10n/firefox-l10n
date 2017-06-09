@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Amostrar as notas d'a versión d'ista actualización">
 <!ENTITY cmd.hideReleaseNotes.label           "Amagar as notas d'a versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amagar as notas d'a versión d'ista actualización">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -253,3 +254,7 @@
 
 <!ENTITY pluginDeprecation.description "Falta cosa? &brandShortName; ha deixau de soportar bells plugins.">
 <!ENTITY pluginDeprecation.learnMore "Aprende-ne mas.">
+
+
+
+
