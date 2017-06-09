@@ -83,7 +83,7 @@
 <!ENTITY  rememberActions.removeCookies.label "да премахнете отделни бисквитки">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ще използва същите настройки като при поверително сърфиране и няма да помни никаква история, докато сте в Интернет.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ще използва същите настройки като при поверително разглеждане и няма да помни никаква история, докато сте в интернет.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->

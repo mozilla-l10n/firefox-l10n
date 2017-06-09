@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Поверително сърфиране)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(Поверително разглеждане)">
 
 <!ENTITY appmenu.tooltip                     "Отваряне на меню">
 <!ENTITY navbarOverflow.label                "Още инструменти…">
@@ -378,7 +378,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Впишете се, за да видите списък с раздели от други ваши устройства.">
 <!ENTITY appMenuRemoteTabs.signin.label "Вписване в Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Управление на устройства…">
-<!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента със синх. раздели">
+<!ENTITY appMenuRemoteTabs.sidebar.label "Странична лента с раздели">
 
 <!ENTITY customizeMenu.addToToolbar.label "Добавяне към лентата с инструменти">
 <!ENTITY customizeMenu.addToToolbar.accesskey "Д">
@@ -677,8 +677,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.label                 "Мащабиране">
 <!ENTITY fullZoom.accesskey             "М">
 
-<!ENTITY sidebarCloseButton.tooltip     "Затваряне на страничната лента">
-<!ENTITY sidebarMenuClose.label         "Затваряне на страничната лента">
+<!ENTITY sidebarCloseButton.tooltip     "Затваряне на лентата">
+<!ENTITY sidebarMenuClose.label         "Затваряне на лентата">
 
 <!ENTITY quitApplicationCmdWin2.label       "Изход">
 <!ENTITY quitApplicationCmdWin2.accesskey   "х">
