@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্ৰিনশ্বট">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "চলনসময় তথ্য">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "মনিটৰ">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "দৰ্শন কৰক">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "সম্পাদক টগল কৰক">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "জুম ইন">
 
 <!ENTITY viewMenu_zoomout_label "জুম আউট">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
 
@@ -122,21 +118,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE আৰম্ভ হওতে পূৰ্বৱৰ্তী প্ৰকল্পক পুনৰুদ্ধাৰ কৰিব">
 <!ENTITY prefs_options_templatesurl "টেমপ্লেইটসমূহ URL">
 <!ENTITY prefs_options_templatesurl_tooltip "উপলব্ধ টেমপ্লেইটসমূহৰ সূচী">
-<!ENTITY prefs_options_showeditor "সম্পাদক দেখুৱাওক">
-<!ENTITY prefs_options_showeditor_tooltip "অভ্যন্তৰীক সম্পাদক দেখুৱাওক">
-<!ENTITY prefs_options_tabsize "টেবৰ আকাৰ">
-<!ENTITY prefs_options_expandtab "কোমল টেবসমূহ">
-<!ENTITY prefs_options_expandtab_tooltip "টেব আখৰৰ পৰিবৰ্তে স্পেইচ ব্যৱহাৰ কৰক">
-<!ENTITY prefs_options_detectindentation "অটোইণ্ডেণ্ট">
-<!ENTITY prefs_options_detectindentation_tooltip "উৎস সমলৰ ওপৰত ভিত্তি কৰি ইণ্ডেন্টেষণৰ অনুমান লগাওক">
-<!ENTITY prefs_options_autocomplete "স্বসম্পূৰ্ণ">
-<!ENTITY prefs_options_autocomplete_tooltip "ক'ডৰ স্বসম্পূৰ্ণ সামৰ্থবান কৰক">
-<!ENTITY prefs_options_autoclosebrackets "স্ববন্ধ ব্ৰেকেটসমূহ">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "বন্ধ কৰা ব্ৰেকেটসমূহ স্বচালিতভাৱে বন্ধ কৰক">
-<!ENTITY prefs_options_keybindings "কিবাইণ্ডিংসমূহ">
-<!ENTITY prefs_options_keybindings_default "অবিকল্পিত">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "চলনসময় তথ্য">
