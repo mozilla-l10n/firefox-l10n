@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Képernyőkép">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "K">
 <!ENTITY runtimeMenu_showDetails_label "Futtatókörnyezet infó">
-<!ENTITY runtimeMenu_showDetails_accesskey "u">
+
 <!ENTITY runtimeMenu_showMonitor_label "Figyelés">
 <!ENTITY runtimeMenu_showMonitor_accesskey "F">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Eszközbeállítások">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Nézet">
 <!ENTITY viewMenu_accesskey "z">
-<!ENTITY viewMenu_toggleEditor_label "Szerkesztő be/ki">
-<!ENTITY viewMenu_toggleEditor_accesskey "S">
 <!ENTITY viewMenu_zoomin_label "Nagyítás">
 <!ENTITY viewMenu_zoomin_accesskey "N">
 <!ENTITY viewMenu_zoomout_label "Kicsinyítés">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "Előző projekt helyreállítása a WebIDE indulásakor">
 <!ENTITY prefs_options_templatesurl "Sablonok URL-je">
 <!ENTITY prefs_options_templatesurl_tooltip "Elérhető sablonok listája">
-<!ENTITY prefs_options_showeditor "Szerkesztő megjelenítése">
-<!ENTITY prefs_options_showeditor_tooltip "Belső szerkesztő megjelenítése">
-<!ENTITY prefs_options_tabsize "Tab méret">
-<!ENTITY prefs_options_expandtab "Lágy tabok">
-<!ENTITY prefs_options_expandtab_tooltip "Szóközök használata a tab karakter helyett">
-<!ENTITY prefs_options_detectindentation "Automatikus behúzás">
-<!ENTITY prefs_options_detectindentation_tooltip "A behúzás felismerése a forrástartalom alapján">
-<!ENTITY prefs_options_autocomplete "Automatikus kiegészítés">
-<!ENTITY prefs_options_autocomplete_tooltip "Kód automatikus kiegészítése">
-<!ENTITY prefs_options_autoclosebrackets "Zárójelek automatikus lezárása">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Záró zárójelek automatikus beszúrása">
-<!ENTITY prefs_options_keybindings "Keybindings">
-<!ENTITY prefs_options_keybindings_default "Default">
-<!ENTITY prefs_options_autosavefiles "Fájlok automata mentése">
-<!ENTITY prefs_options_autosavefiles_tooltip "Szerkesztett fájlok automata mentése a projekt futtatása előtt">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "Futtatókörnyezet infó">
