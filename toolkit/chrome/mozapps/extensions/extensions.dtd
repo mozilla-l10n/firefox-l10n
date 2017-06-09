@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Visar versionsfakta för den här uppdateringen">
 <!ENTITY cmd.hideReleaseNotes.label           "Dölj versionsfakta">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Döljer versionsfakta för den här uppdateringen">
+<!ENTITY cmd.findReplacement.label            "Hitta en ersättare">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,8 @@
 
 <!ENTITY pluginDeprecation.description "Saknar du något? Vissa insticksmoduler stöds inte längre av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Läs mer.">
+
+<!ENTITY legacyWarning.description "Saknar du något? Vissa tillägg stöds inte längre av &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Visa äldre tillägg">
+<!ENTITY legacyExtensions.description "Dessa tillägg uppfyller inte nuvarande standarder i &brandShortName; så de har inaktiverats.">
+<!ENTITY legacyExtensions.learnMore "Läs mer om ändringar av tillägg">
