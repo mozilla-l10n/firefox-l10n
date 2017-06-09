@@ -41,8 +41,6 @@
 
 <!ENTITY viewMenu_label "Lebelela">
 
-
-
 <!ENTITY viewMenu_zoomin_label "Godišetša ka ntle">
 
 <!ENTITY viewMenu_zoomout_label "Bušetša ka gare">
@@ -56,7 +54,6 @@
 <!-- open menu -->
 <!-- reload app -->
 <!-- show toolbox -->
-<!-- toggle sidebar -->
 <!-- zoom -->
 
 
@@ -94,21 +91,6 @@
 <!-- Prefs -->
 
 <!ENTITY prefs_general_title "Kakaretšo">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
