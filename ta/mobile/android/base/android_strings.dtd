@@ -396,7 +396,7 @@
 <!ENTITY pref_private_data_downloadFiles2 "பதிவிறக்கங்கள்">
 <!ENTITY pref_private_data_syncedTabs "ஒத்திசைக்கப்பட்ட கீற்றுகள்">
 
-<!ENTITY pref_default_browser "முன்னிருப்பு உலாவியாக்குக">
+<!ENTITY pref_default_browser "முன்னிருப்பு">
 <!ENTITY pref_default_browser_mozilla_support_tablet "மொசில்லா ஆதரவை பார்வையிடு">
 <!ENTITY pref_about_firefox "&brandShortName;வைப் பற்றி">
 <!ENTITY pref_vendor_faqs "அடிக்கடி கேட்கப்படும் கேள்விகளும் பதில்களும்">
