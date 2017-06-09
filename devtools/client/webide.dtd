@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "ଆଶୁଚିତ୍ର">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "ଚଳନ୍ତି ସୂଚନା">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "ମନିଟର">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "ଦୃଶ୍ୟ">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "ସଂପାଦକକୁ ଆଗପଛ କରନ୍ତୁ">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "ବଡ଼ କରନ୍ତୁ">
 
 <!ENTITY viewMenu_zoomout_label "ଛୋଟ କରନ୍ତୁ">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
 
@@ -122,21 +118,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE ଆରମ୍ଭ ହେବା ସମୟରେ ପୂର୍ବ ପ୍ରକଳ୍ପକୁ ପୁନଃସଂରକ୍ଷଣ କରନ୍ତୁ">
 <!ENTITY prefs_options_templatesurl "ନମୁନା URL">
 <!ENTITY prefs_options_templatesurl_tooltip "ଉପଲବ୍ଧ ନମୁନାଗୁଡ଼ିକର ଅନୁକ୍ରମଣିକା">
-<!ENTITY prefs_options_showeditor "ସମ୍ପାଦକଙ୍କୁ ଦର୍ଶାନ୍ତୁ">
-<!ENTITY prefs_options_showeditor_tooltip "ଆଭ୍ୟନ୍ତରୀଣ ସମ୍ପାଦକ">
-<!ENTITY prefs_options_tabsize "ଟ୍ୟାବ ଆକାର">
-<!ENTITY prefs_options_expandtab "ସଫ୍ଟ ଟ୍ୟାବଗୁଡ଼ିକ">
-<!ENTITY prefs_options_expandtab_tooltip "ଟ୍ୟାବ ଅକ୍ଷର ପରିବର୍ତ୍ତେ ଖାଲି ସ୍ଥାନ ବ୍ୟବହାର କରନ୍ତୁ">
-<!ENTITY prefs_options_detectindentation "ଅନ୍ତଃକୋଟୀ">
-<!ENTITY prefs_options_detectindentation_tooltip "ଉତ୍ସ ବିଷୟବସ୍ତୁ ଉପରେ ଆଧାର କରି ଚିହ୍ନ ଅନୁମାନ କରନ୍ତୁ">
-<!ENTITY prefs_options_autocomplete "ସ୍ବତଃସଂପୂର୍ଣ୍ଣ">
-<!ENTITY prefs_options_autocomplete_tooltip "ସଂକେତ ସ୍ୱୟଂସମ୍ପୂର୍ଣ୍ଣକୁ ସକ୍ରିୟ କରନ୍ତୁ">
-<!ENTITY prefs_options_autoclosebrackets "ସ୍ୱୟଂଚାଳିତ ଭାବରେ ବନ୍ଦ ହେଉଥିବା ବନ୍ଧନିଗୁଡ଼ିକ">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "ବନ୍ଦହୋଇଥିବା ବନ୍ଧନିଗୁଡ଼ିକୁ ସ୍ୱୟଂଚାଳିତ ଭାବରେ ଭର୍ତ୍ତି କରନ୍ତୁ">
-<!ENTITY prefs_options_keybindings "କି ବନ୍ଧନ">
-<!ENTITY prefs_options_keybindings_default "ପୂର୍ବନିର୍ଦ୍ଧାରିତ">
-
-
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "ଚଳନ୍ତି ସୂଚନା">
