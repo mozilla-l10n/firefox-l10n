@@ -117,6 +117,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Prikaži bilješke izdanja za ovu dopunu">
 <!ENTITY cmd.hideReleaseNotes.label           "Sakrij bilješke izdanja">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sakrij bilješke izdanja za ovaj dodatak">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -248,5 +249,9 @@
 <!ENTITY disabledUnsigned.devInfo.start "Razvijatelji koji su zainteresirani za verifikaciju svojih dodataka mogu nastaviti čitati naš ">
 <!ENTITY disabledUnsigned.devInfo.linkToManual "vodič">
 <!ENTITY disabledUnsigned.devInfo.end ".">
+
+
+
+
 
 
