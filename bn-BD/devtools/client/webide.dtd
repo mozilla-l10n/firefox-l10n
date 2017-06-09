@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্রিনশট">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
-<!ENTITY runtimeMenu_showDetails_accesskey "E">
+
 <!ENTITY runtimeMenu_showMonitor_label "মনিটর">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "সাইট সংক্রান্ত পছন্দসমূহ">
@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "প্রদর্শন">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "টগল এডিটর">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "বড় আকারে প্রদর্শন">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "ছোট আকারে প্রদর্শন">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -123,21 +119,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "WebIDE শুরু করার আগে পূর্ববর্তী প্রকল্পটি পুনরুদ্ধার করুন">
 <!ENTITY prefs_options_templatesurl "টেমপ্লেট URL">
 <!ENTITY prefs_options_templatesurl_tooltip "পর্যাপ্ত টেমপ্লেটের সূচিপত্র">
-<!ENTITY prefs_options_showeditor "এডিটর দেখাও">
-<!ENTITY prefs_options_showeditor_tooltip "অভ্যন্তরীণ এডিটর দেখাও">
-<!ENTITY prefs_options_tabsize "ট্যাব আকার">
-<!ENTITY prefs_options_expandtab "সফট ট্যাব">
-<!ENTITY prefs_options_expandtab_tooltip "ট্যাব ক্যারেক্টারের পরিবর্তে স্পেস ব্যবহার করুন">
-<!ENTITY prefs_options_detectindentation "অটোইন্ডেন্ট">
-<!ENTITY prefs_options_detectindentation_tooltip "উৎসের বিষয়বস্তুর ভিত্তিতে ইন্ডেন্টেশন ধারণা করুন">
-<!ENTITY prefs_options_autocomplete "অটোকমপ্লিট">
-<!ENTITY prefs_options_autocomplete_tooltip "কোড অটোকমপ্লিশন সক্রিয় করুন">
-<!ENTITY prefs_options_autoclosebrackets "অটোক্লোজ ব্র্যাকেট">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "স্বয়ংক্রিয়ভাবে ক্লোজিং ব্র্যাকেট দিন">
-<!ENTITY prefs_options_keybindings "কী-বাইন্ডিং">
-<!ENTITY prefs_options_keybindings_default "পূর্বনির্ধারিত">
-<!ENTITY prefs_options_autosavefiles "ফাইল স্বয়ংসংরক্ষিত">
-<!ENTITY prefs_options_autosavefiles_tooltip "প্রোজেক্ট চালু হবার পূর্বে স্বয়ংক্রিয়ভাবে সম্পাদিত ফাইল সংরক্ষণ করুন">
 <!-- Runtime Details -->
 
 <!ENTITY runtimedetails_title "রানটাইম তথ্য">

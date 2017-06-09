@@ -925,7 +925,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-
+<!ENTITY updateAvailable.whatsnew.label "দেখুন নতুন কি আছে">
 
 
 
