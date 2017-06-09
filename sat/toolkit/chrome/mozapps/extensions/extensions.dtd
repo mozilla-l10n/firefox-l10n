@@ -114,6 +114,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "नोवा हा़ली ला़गित् उछा़न खाटो ओल उदुग मे">
 <!ENTITY cmd.hideReleaseNotes.label           "उछान खाटो ओल को उकुय मे">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "नोवा हा़ली ला़गित् खाटो ओल को उकुय मे">
+
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -239,6 +240,10 @@
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
+
+
+
+
 
 
 

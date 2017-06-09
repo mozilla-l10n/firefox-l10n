@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "ञेनेल">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "टोगाल सासापड़ाविच्">
-
 <!ENTITY viewMenu_zoomin_label "ला़टू इदी">
 
 <!ENTITY viewMenu_zoomout_label "हुडिञ रुवा़ड़">
@@ -64,8 +62,6 @@
 <!-- reload app -->
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 
 
@@ -120,21 +116,6 @@
 <!ENTITY prefs_options_rememberlastproject_tooltip "वेब IDE  एहोब जोहोक्  पा़हिल तेयाक् प्रोजेकट जोगाव आ़रुय मे ">
 <!ENTITY prefs_options_templatesurl "ना़मुना   URL">
 <!ENTITY prefs_options_templatesurl_tooltip "ञामोगाक् ना़मुना को रेयाक् साबाद सुची.">
-<!ENTITY prefs_options_showeditor "सासापड़ाविच् उदुक् एम">
-<!ENTITY prefs_options_showeditor_tooltip "भितिर सासापड़ाविच् उदुग एम">
-<!ENTITY prefs_options_tabsize "टेब माराङ तेत्">
-<!ENTITY prefs_options_expandtab "सोफ्ट टेब को">
-<!ENTITY prefs_options_expandtab_tooltip "टेब आखोर रेयाक् बादाल ते फांक को बेभार मे.">
-<!ENTITY prefs_options_detectindentation "आच् तेयाक् साहटा सिमा़">
-<!ENTITY prefs_options_detectindentation_tooltip "सोत बिसोय रे बाय साव साहटा सिमा़ ओनमान .">
-<!ENTITY prefs_options_autocomplete "आच् ते पुरा़व">
-<!ENTITY prefs_options_autocomplete_tooltip "कोड आच् ते पुरा़व हुय होचो .">
-<!ENTITY prefs_options_autoclosebrackets "आच् ते बोंदो ब्रेकेट को">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "आच् ते सोगे बोंदो ब्रेकेट को ">
-<!ENTITY prefs_options_keybindings "का़ठी तोल को">
-<!ENTITY prefs_options_keybindings_default "हुड़ाक्">
-
-
 <!-- Runtime Details -->
 <!ENTITY runtimedetails_adbIsRoot "ADB  दो रेहेत् काना : ">
 <!ENTITY runtimedetails_summonADBRoot "रेहेत् डिबाइज">
