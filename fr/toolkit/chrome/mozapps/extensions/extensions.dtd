@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Afficher les notes de version pour cette mise à jour">
 <!ENTITY cmd.hideReleaseNotes.label           "Masquer les notes de version">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Masquer les notes de version pour cette mise à jour">
+<!ENTITY cmd.findReplacement.label            "Trouver un module équivalent">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,6 @@
 
 <!ENTITY pluginDeprecation.description "Quelque chose semble manquer ? Certains plugins ne sont plus pris en charge par &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "En savoir plus.">
+
+<!ENTITY legacyWarning.description "Quelque chose semble manquer ? Certaines extensions ne sont plus pris en charge par &brandShortName;.">
+<!ENTITY legacyExtensions.description "Ces extensions ne répondent pas aux exigences actuelles de &brandShortName;. Elles ont été désactivées.">
