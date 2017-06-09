@@ -29,10 +29,10 @@
 <!ENTITY retentionKeepRecent.accesskey "т">
 <!ENTITY retentionApplyToFlagged.label "Жұлдызшалы хабарламаларды әрқашан сақтау">
 <!ENTITY retentionApplyToFlagged.accesskey "т">
-
-
-
-
+<!ENTITY nntpRemoveMsgBody.label "Келесіден үлкен болып тұрған хабарламалар денелерін өшіру">
+<!ENTITY nntpRemoveMsgBody.accesskey "ш">
+<!ENTITY offlineSelectNntp.label "Желіден тыс қолдану үшін жаңалықтар топтарын таңдау…">
+<!ENTITY offlineSelectNntp.accesskey "т">
 <!ENTITY offlineImapAdvancedOffline.label "Қосымша…">
 <!ENTITY offlineImapAdvancedOffline.accesskey "о">
 <!ENTITY syncGroupTitle.label "Хабарламаны синхрондау">
@@ -44,8 +44,10 @@
   &ageAutosyncBefore.label [textbox for autosync value] &ageAutosyncMiddle.label; [dropdown for autosync interval] &ageAutosyncAfter.label;
 -->
 
-
-
+<!ENTITY allAutosync.label               "Жасына қарамай, барлық хабарламаларды жергілікті қоймаға синхрондау">
+<!ENTITY allAutosync.accesskey           "х">
+<!ENTITY ageAutosyncBefore.label         "Тек соңғыларын синхрондау">
+<!ENTITY ageAutosync.accesskey           "я">
 <!ENTITY ageAutosyncMiddle.label         "">
 <!ENTITY dayAgeInterval.label            "Күн">
 <!ENTITY weekAgeInterval.label           "Апта">

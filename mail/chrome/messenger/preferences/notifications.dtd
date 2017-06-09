@@ -5,6 +5,7 @@
 <!ENTITY notificationsDialog2.title       "Жаңа пошта туралы хабарлауды баптау">
 
 
+<!ENTITY alertCustomization.intro         "Ескерту хабарламасында қандай өрістерді қолдануды таңдау:">
 
 
 <!ENTITY subject.label                    "Тақырыбы">

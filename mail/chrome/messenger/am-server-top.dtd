@@ -25,8 +25,8 @@
 <!ENTITY biffEnd.label "минут">
 
 
-
-
+<!ENTITY connectionSecurity.label "Байланыс қауіпсіздігі:">
+<!ENTITY connectionSecurity.accesskey "с">
 <!ENTITY connectionSecurityType-0.label "Ешнәрсе">
 <!ENTITY connectionSecurityType-1.label "STARTTLS, қолжетерлік болса">
 <!ENTITY connectionSecurityType-2.label "STARTTLS">
@@ -35,15 +35,15 @@
 <!ENTITY authMethod.accesskey "и">
 <!ENTITY leaveOnServer.label "Хабарламаларды серверде қалдыру">
 <!ENTITY leaveOnServer.accesskey "л">
-
-
-
-
+<!ENTITY headersOnly.label "Тек тақырыптамаларды алу">
+<!ENTITY headersOnly.accesskey "л">
+<!ENTITY deleteByAgeFromServer.label "Көп дегенде">
+<!ENTITY deleteByAgeFromServer.accesskey "п">
 <!ENTITY daysEnd.label "күн">
-
-
-
-
+<!ENTITY deleteOnServer2.label "Мен оларды өшіргенше дейін">
+<!ENTITY deleteOnServer2.accesskey "ш">
+<!ENTITY downloadOnBiff.label "Жаңа хабарламаларды автожүктеп алу">
+<!ENTITY downloadOnBiff.accesskey "ж">
 
 <!ENTITY deleteMessagePrefix.label "Мен хабарламаны өшірген кезде:">
 <!ENTITY modelMoveToTrash.label "Оны бұл бумаға жылжыту:">
@@ -56,8 +56,8 @@
 
 
 
-
-
+<!ENTITY loginAtStartup.label "Іске қосылғанда жаңа хабарламаларға тексеру">
+<!ENTITY loginAtStartup.accesskey "с">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
@@ -65,13 +65,13 @@
 
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "хабарлама">
-
-
+<!ENTITY alwaysAuthenticate.label "Бұл серверге байланысу кезінде әрқашан да аутентификацияны сұрау">
+<!ENTITY alwaysAuthenticate.accesskey "ш">
 <!ENTITY newsrcFilePath.label "newsrc файлы:">
 <!ENTITY newsrcPicker.label "newsrc файлын таңдаңыз">
-
-
-
+<!ENTITY abbreviate.label "Пошта бумасы панелінде жаңалықтар топтары аттарын қалайша көрсету:">
+<!ENTITY abbreviateOn.label "Толық аттар (Мыс., 'netscape.public.mozilla.mail-news')">
+<!ENTITY abbreviateOff.label "Қысқартылған аттар (Мыс., 'n.p.m.mail-news')">
 <!ENTITY advancedButton.label "Қосымша…">
 <!ENTITY advancedButton.accesskey "о">
 <!ENTITY serverDefaultCharset2.label "Мәтіннің бастапқы кодталуы:">
@@ -84,7 +84,7 @@
 
 <!ENTITY accountTitle.label "Тіркелгі баптаулары">
 
-
-
-
-
+<!ENTITY storeType.label "Хабарламаларды сақтау түрі:">
+<!ENTITY storeType.accesskey "т">
+<!ENTITY mboxStore2.label "Бума үшін файл (mbox)">
+<!ENTITY maildirStore.label "Хабарлама үшін файл (maildir)">

@@ -13,19 +13,22 @@ reportIdleAfter.label and idleTime parts don't have to mean the exact
 same thing as in English; please try instead to translate the whole
 sentence. -->
 
+<!ENTITY  reportIdleAfter.label         "Мен белсенді емес туралы контакттарыма кейін айту">
+<!ENTITY  reportIdleAfter.accesskey     "М">
+<!ENTITY  idleTime                      "минут белсенді еместік">
 
 
 
 
 
-
-
-
-
-
-
-
-
+<!ENTITY  chatNotifications.label             "Сізге арналған хабарламалар келген кезде:">
+<!ENTITY  desktopChatNotifications.label      "Ескертуді көрсету:">
+<!ENTITY  desktopChatNotifications.accesskey  "с">
+<!ENTITY  completeNotification.label          "жіберуші аты мен хабарламаның алдын-ала көрінісімен қоса">
+<!ENTITY  buddyInfoOnly.label                 "тек жіберуші атымен">
+<!ENTITY  dummyNotification.label             "ешбір ақпаратсыз">
+<!ENTITY  chatSound.accesskey                 "Д">
+<!ENTITY  chatSound.label                     "Дыбысты ойнату">
 <!ENTITY  play.label                          "Ойнау">
 <!ENTITY  play.accesskey                      "О">
 <!ENTITY  systemSound.label                   "Жаңа хат үшін жүйенің негізгі дыбысы">
