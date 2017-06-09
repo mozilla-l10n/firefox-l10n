@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Zobraziť poznámky k vydaniu tejto aktualizácie">
 <!ENTITY cmd.hideReleaseNotes.label           "Skryť poznámky k vydaniu">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skryť poznámky k vydaniu tejto aktualizácie">
+<!ENTITY cmd.findReplacement.label            "Nájsť náhradu">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,8 @@
 
 <!ENTITY pluginDeprecation.description "Chýba vám tu niečo? Niektoré zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Ďalšie informácie.">
+
+<!ENTITY legacyWarning.description "Chýba vám tu niečo? Niektoré rozšírenia už &brandShortName; nepodporuje.">
+<!ENTITY legacyWarning.showLegacy "Zobraziť zastarané rozšírenia">
+<!ENTITY legacyExtensions.description "Tieto rozšírenia nespĺňajú súčasné kritériá prehliadača &brandShortName; a boli preto deaktivované.">
+<!ENTITY legacyExtensions.learnMore "Ďalšie informácie o zmenách ohľadom doplnkov">
