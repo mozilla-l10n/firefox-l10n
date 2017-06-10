@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "اعرض ملاحظات الإصدار لهذا التحديث">
 <!ENTITY cmd.hideReleaseNotes.label           "أخفِ ملاحظات الإصدار">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "أخفِ ملاحظات الإصدار لهذا التحديث">
-
+<!ENTITY cmd.findReplacement.label            "ابحث عن بديل">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "أهناك ما تفتقده؟ لم يعد &brandShortName; يدعم بعض الملحقات.">
 <!ENTITY pluginDeprecation.learnMore "اطّلع على المزيد.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "أهناك ما تفتقده؟ لم يعد &brandShortName; يدعم بعض الامتدادات.">
+<!ENTITY legacyWarning.showLegacy "اعرض الامتدادات العتيقة">
+<!ENTITY legacyExtensions.title "امتدادات عتيقة">
+<!ENTITY legacyExtensions.description "لا تحقق هذه الامتدادات معايير &brandShortName; الحالية، لذا عُطّلت.">
+<!ENTITY legacyExtensions.learnMore "تعرّف على التغييرات على الإضافات">
