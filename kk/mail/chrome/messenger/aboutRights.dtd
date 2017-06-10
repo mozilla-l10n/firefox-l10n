@@ -24,7 +24,7 @@
 <!ENTITY rights.intro-point2c ".">
 <!-- point 3 text for official branded builds -->
 
-<!ENTITY rights.intro-point3a "&vendorShortName; өнімдері үшін жекелік саясатын табуға болады">
+<!ENTITY rights.intro-point3a "&vendorShortName; өнімдері үшін жекелік саясатын табуға болады ">
 <!ENTITY rights.intro-point3b "осында">
 <!ENTITY rights.intro-point3c ".">
 <!-- point 3 text for unbranded builds -->
@@ -32,8 +32,8 @@
 <!ENTITY rights.intro-point3-unbranded "Осы өнімге қолдана алатын кез келген құпиялық саясаты осы жерде тізіліп көрсетілуі тиіс.">
 <!-- point 4 text for official branded builds -->
 
-<!ENTITY rights.intro-point4a "&brandShortName; сонымен қатар қосымша қызметтерді ұсынады, соның ішінде қосымшаларды жаңарту қызметі; алайда, оның 100&#037; дәлдігін немесе қателердің жоқ болуына кепілдік бере алмаймыз. Көбірек ақпаратты, соның ішінде қызметтерді қалай сөндіруге болатынын, табуға болады">
-<!ENTITY rights.intro-point4b "қызметтерді пайдалану шарттарынан ">
+<!ENTITY rights.intro-point4a "&brandShortName; сонымен қатар қосымша қызметтерді ұсынады, соның ішінде қосымшаларды жаңарту қызметі; алайда, оның 100&#037; дәлдігін немесе қателердің жоқ болуына кепілдік бере алмаймыз. Көбірек ақпаратты, соның ішінде қызметтерді қалай сөндіруге болатынын, табуға болады ">
+<!ENTITY rights.intro-point4b "қызметтерді пайдалану шарттарынан">
 <!ENTITY rights.intro-point4c ".">
 <!-- point 4 text for unbranded builds -->
 
@@ -48,7 +48,7 @@
      updated.  -->
 <!-- intro paragraph for branded builds -->
 
-<!ENTITY rights.webservices-a "&brandFullName; қосымша қызметтерді (&quot;Қызметтер&quot;) ұсынады, олар қосымшаларды жаңарту қызметі сияқты, төмендегідей сипатталған түрде сіз үшін &brandShortName; бұл бинарлы нұсқасымен қолдану үшін қолжетерлік. Егер сіз Қызметтерді қолданбаймын десеңіз, немесе төмендегі шарттарды қабылдамасаңыз, қосымшаларды жаңарту қызметін сөндіре аласыз, ол үшін ашыңыз">
+<!ENTITY rights.webservices-a "&brandFullName; қосымша қызметтерді (&quot;Қызметтер&quot;) ұсынады, олар қосымшаларды жаңарту қызметі сияқты, төмендегідей сипатталған түрде сіз үшін &brandShortName; бұл бинарлы нұсқасымен қолдану үшін қолжетерлік. Егер сіз Қызметтерді қолданбаймын десеңіз, немесе төмендегі шарттарды қабылдамасаңыз, қосымшаларды жаңарту қызметін сөндіре аласыз, ол үшін ашыңыз ">
 <!ENTITY rights.webservices-b "Кеңейтілген">
 <!ENTITY rights.webservices-c " санатын, одан кейін ">
 <!ENTITY rights.webservices-d "Жаңартулар">

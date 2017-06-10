@@ -8,7 +8,7 @@
 <!ENTITY description.label          "Келесінің ішкі бумасы ретінде жасау:">
 <!ENTITY description.accesskey      "с">
 
-<!ENTITY searchTermCaption.label "Бұл сақталған іздеу бумасы үшін іздеу шартын баптау:">
+<!ENTITY searchTermCaption.label "Бұл сақталған іздеу бумасы үшін іздеу шартын баптау: ">
 
 <!ENTITY folderSelectionCaption.label "Іздеу үшін бумаларды таңдаңыз: ">
 <!ENTITY chooseFoldersButton.label "Таңдау…">

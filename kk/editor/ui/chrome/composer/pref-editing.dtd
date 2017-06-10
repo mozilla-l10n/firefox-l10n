@@ -9,8 +9,8 @@
 <!ENTITY  pageColorHeader           "Әдетті парағының көрінісі">
 
 
-<!ENTITY customColors.label         "Өзгеше түстер болсын">
-<!ENTITY customColors.accesskey     "c">
+<!ENTITY customColors.label         "Таңдауыңызша түстерді қолдану:">
+<!ENTITY customColors.accesskey     "Т">
 
 <!ENTITY normalText.label           "Кәдімгі мәтін">
 <!ENTITY normalText.accesskey       "К">

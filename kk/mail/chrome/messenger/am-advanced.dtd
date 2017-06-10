@@ -21,8 +21,8 @@
 
 <!ENTITY serverDetails.label "Таңдалған сервердің ақпараты:">
 <!ENTITY serverDescription.label "Анықтамасы: ">
-<!ENTITY serverName.label "Сервердің атауы:">
+<!ENTITY serverName.label "Сервердің атауы: ">
 <!ENTITY serverPort.label "Порт: ">
-<!ENTITY userName.label   "Пайдаланушы аты:">
-<!ENTITY connectionSecurity.label "Байланыстың қауіпсіздігі:">
-<!ENTITY authMethod.label   "Аутентификация тәсілі:">
+<!ENTITY userName.label   "Пайдаланушы аты: ">
+<!ENTITY connectionSecurity.label "Байланыс қауіпсіздігі: ">
+<!ENTITY authMethod.label   "Аутентификация тәсілі: ">

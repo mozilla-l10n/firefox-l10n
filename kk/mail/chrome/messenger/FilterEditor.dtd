@@ -44,7 +44,7 @@
 <!ENTITY markMessageStarred.label "Жұлдызшаны қосу">
 <!ENTITY setPriority.label "Приоритетті келесідей орнату">
 <!ENTITY addTag.label "Хабарламаға тег қою">
-<!ENTITY setJunkScore.label "Спам күйін келесідей орнату:">
+<!ENTITY setJunkScore.label "Спам күйін келесіге орнату">
 <!ENTITY deleteMessage.label "Хабарламаны өшіру">
 <!ENTITY deleteFromPOP.label "POP серверінен өшіру">
 <!ENTITY fetchFromPOP.label "POP серверінен алу">

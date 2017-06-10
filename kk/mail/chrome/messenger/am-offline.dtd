@@ -9,7 +9,7 @@
 <!ENTITY allFoldersOffline.accesskey "л">
 <!ENTITY offlineNotDownload.label "Келесіден үлкенірек хабарламалар">
 <!ENTITY offlineNotDownload.accesskey "м">
-<!ENTITY autosyncNotDownload.label "Келесіден үлкен хабарламаларды жүктемеу:">
+<!ENTITY autosyncNotDownload.label "Келесіден үлкен хабарламаларды жүктемеу">
 <!ENTITY autosyncNotDownload.accesskey "м">
 <!ENTITY kb.label "КБ">
 <!ENTITY daysOld.label "күннен ескі">

@@ -8,7 +8,7 @@
 <!ENTITY cancelIntegration2.label  "Бас тарту">
 <!ENTITY defaultClient.intro  "&brandShortName; келесі үшін негізгі клиент ретінде қолдану:">
 
-<!ENTITY email.label "Эл. пошта:">
+<!ENTITY email.label "Эл. пошта">
 <!ENTITY newsgroups.label "Жаңалықтар топтары">
 <!ENTITY feeds.label "Жаңалықтар таспалары">
 

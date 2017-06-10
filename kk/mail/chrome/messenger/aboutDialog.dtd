@@ -40,7 +40,7 @@
 <!ENTITY helpus.start               "Көмектескіңіз келе ме? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to the thunderbird donation page -->
 <!ENTITY helpus.donateLink          "Ақшалай көмектесіңіз">
-<!ENTITY helpus.middle              " немесе ">
+<!ENTITY helpus.middle              " немесе ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "үлес қосуға болады!">
 <!ENTITY helpus.end                 "">
@@ -78,7 +78,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 
-<!ENTITY update.manual.start        "Жүктеп алу">
+<!ENTITY update.manual.start        "Жүктеп алу ">
 <!ENTITY update.manual.linkText     "соңғы нұсқасы">
 <!ENTITY update.manual.end          "">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
@@ -106,6 +106,6 @@
      example: You are currently on the _Stable_ update channel. -->
 
 <!ENTITY channel.description.start  "Сіз қазір ">
-<!ENTITY channel.description.end    " жаңарту арнадасыз.">
+<!ENTITY channel.description.end    " жаңарту арнадасыз. ">
 
 <!ENTITY cmdCloseMac.commandKey "w">
