@@ -11,8 +11,8 @@
 <!ENTITY newMenu.label "Жаңа">
 <!ENTITY newMenu.accesskey "Ж">
 <!ENTITY newMessage.label "Хабарлама">
-
-
+<!ENTITY newMessage.key "M">
+<!ENTITY newMessageCmd2.key "N">
 <!ENTITY newMessage.accesskey "Х">
 <!ENTITY newContact.label "Адрестік кітапша контакты…">
 <!ENTITY newContact.accesskey "к">
@@ -20,7 +20,7 @@
 <!ENTITY attachMenu.accesskey "С">
 <!ENTITY attachFileCmd.label "Файл(дар)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
-
+<!ENTITY attachFileCmd.key "A">
 <!ENTITY attachCloudCmd.label "Файл сілтемесі">
 <!ENTITY attachCloudCmd.accesskey "Ф">
 <!ENTITY attachPageCmd.label "Веб парағы…">
@@ -82,25 +82,25 @@
 <!ENTITY deleteCmd.label "Өшіру">
 <!ENTITY deleteCmd.accesskey "ш">
 <!ENTITY editRewrapCmd.label "Қайта тасымалдау">
-
+<!ENTITY editRewrapCmd.key "R">
 <!ENTITY renameAttachmentCmd.label "Салынымды қайта атау…">
 <!ENTITY renameAttachmentCmd.accesskey "а">
 <!ENTITY selectAllCmd.label "Барлығын таңдау">
-
+<!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "Б">
 <!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findBarCmd.accesskey "Т">
-
+<!ENTITY findBarCmd.key "F">
 <!ENTITY findReplaceCmd.label "Табу және алмастыру…">
 <!ENTITY findReplaceCmd.accesskey "ы">
-
+<!ENTITY findReplaceCmd.key "H">
 <!ENTITY findAgainCmd.label "Іздеуді қайталау">
 <!ENTITY findAgainCmd.accesskey "з">
-
+<!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Алдыңғысын табу">
 <!ENTITY findPrevCmd.accesskey "А">
-
+<!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 <!-- View Menu -->
 
@@ -173,7 +173,7 @@
 <!ENTITY highestPriorityCmd.accesskey "ж">
 <!ENTITY fileCarbonCopyCmd.label "Көшірмесін қайда жіберу">
 <!ENTITY fileCarbonCopyCmd.accesskey "б">
-
+<!ENTITY fileHereMenu.label "Осында орналастыру">
 <!-- Tools Menu -->
 
 <!ENTITY tasksMenu.label "Саймандар">
@@ -183,15 +183,17 @@
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY addressBookCmd.label "Адрестік кітапша">
 <!ENTITY addressBookCmd.accesskey "А">
-
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY accountManagerCmd2.label "Тіркелгі баптаулары">
 <!ENTITY accountManagerCmd2.accesskey "п">
-
+<!ENTITY accountManagerCmdUnix2.accesskey "п">
 <!ENTITY preferencesCmd2.label "Баптаулар">
 <!ENTITY preferencesCmd2.accesskey "а">
 <!ENTITY preferencesCmdUnix.label "Параметрлер">
 <!ENTITY preferencesCmdUnix.accesskey "м">
 <!--  Mac OS X Window Menu -->
+
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Қайыру">
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Масштаб">
@@ -222,6 +224,8 @@
 <!-- Headers -->
 <!--LOCALIZATION NOTE headersSpace.style is for aligning  the From:, To: and
     Subject: rows. It should be larger than the largest Header label  -->
+
+<!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Кімнен:">
 <!ENTITY fromAddr.accesskey "м">
 <!ENTITY toAddr.label "Кімге:">
@@ -234,21 +238,22 @@
 <!ENTITY subject.accesskey "Т">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
      to the strings in attachmentCount in composeMsgs.properties -->
+<!ENTITY attachments.accesskey "м">
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 
 <!ENTITY SmileButton.tooltip "Смайликті кірістіру">
 <!ENTITY smiley1Cmd.label "Күлімдеу">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY smiley2Cmd.label "Қабағын түю">
+<!ENTITY smiley3Cmd.label "Көз қысу">
+<!ENTITY smiley4Cmd.label "Тілді шығару">
+<!ENTITY smiley5Cmd.label "Күлу">
+<!ENTITY smiley6Cmd.label "Сасып қалу">
+<!ENTITY smiley7Cmd.label "Шешпеген">
+<!ENTITY smiley8Cmd.label "Таң қалу">
+<!ENTITY smiley9Cmd.label "Сүю">
+<!ENTITY smiley10Cmd.label "Зар шығару">
+<!ENTITY smiley11Cmd.label "Тамаша">
+<!ENTITY smiley12Cmd.label "Ақша">
 
 
 

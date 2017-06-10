@@ -10,8 +10,8 @@
 <!ENTITY PrimaryEmail.accesskey                "Э">
 <!ENTITY Company.label                         "Мекеме">
 <!ENTITY Company.accesskey                     "М">
-
-
+<!ENTITY _PhoneticName.label                   "Қалайша айтылады">
+<!ENTITY _PhoneticName.accesskey               "й">
 <!ENTITY NickName.label                        "Бүркеншік аты">
 <!ENTITY NickName.accesskey                    "р">
 <!ENTITY SecondEmail.label                     "Қосымша эл.пошта">
