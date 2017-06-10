@@ -257,5 +257,6 @@
 
 <!ENTITY legacyWarning.description "少些东西？&brandShortName; 已不再支持某些扩展。">
 <!ENTITY legacyWarning.showLegacy "显示传统扩展">
+<!ENTITY legacyExtensions.title "传统扩展">
 <!ENTITY legacyExtensions.description "这些扩展不符合现今的 &brandShortName; 标准，因此已被停用。">
 <!ENTITY legacyExtensions.learnMore "了解附加组件的变化">
