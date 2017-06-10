@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Asmel-agi iseqdac izegrar izemren ad saẓayen &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Sit d-agi akken ad tremded azegrir.">
 <!ENTITY clickToActivatePlugin                               "Rmed azegrir.">
 <!ENTITY checkForUpdates                                     "Senqed ileqman…">
