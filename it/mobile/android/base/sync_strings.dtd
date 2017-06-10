@@ -19,7 +19,7 @@
 <!ENTITY bookmarks.folder.toolbar.label "Barra dei segnalibri">
 <!ENTITY bookmarks.folder.other.label "Altri segnalibri">
 <!ENTITY bookmarks.folder.desktop.label "Segnalibri pc desktop">
-<!ENTITY bookmarks.folder.mobile.label "Segnalibri mobile">
+<!ENTITY bookmarks.folder.mobile.label "Segnalibri da dispositivi mobile">
 <!ENTITY bookmarks.folder.pinned.label "Bloccata">
 <!ENTITY fxaccount_back_to_browsing "Torna alla navigazione">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Benvenuto in &syncBrand.shortName.label;">
