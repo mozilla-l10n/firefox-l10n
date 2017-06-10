@@ -260,5 +260,6 @@
 
 <!ENTITY legacyWarning.description "Chýba vám tu niečo? Niektoré rozšírenia už &brandShortName; nepodporuje.">
 <!ENTITY legacyWarning.showLegacy "Zobraziť zastarané rozšírenia">
+<!ENTITY legacyExtensions.title "Zastarané rozšírenia">
 <!ENTITY legacyExtensions.description "Tieto rozšírenia nespĺňajú súčasné kritériá prehliadača &brandShortName; a boli preto deaktivované.">
 <!ENTITY legacyExtensions.learnMore "Ďalšie informácie o zmenách ohľadom doplnkov">
