@@ -157,8 +157,8 @@
 <!ENTITY heading6Cmd.accesskey "6">
 <!ENTITY paragraphAddressCmd.label "Адресі">
 <!ENTITY paragraphAddressCmd.accesskey "А">
-
-
+<!ENTITY paragraphPreformatCmd.label "Берілген пішім">
+<!ENTITY paragraphPreformatCmd.accesskey "Б">
 <!-- List menu items -->
 
 <!ENTITY noneCmd.label "Ештеме">
@@ -290,39 +290,41 @@
 <!ENTITY linkToolbarCmd.label "Сілтеме">
 <!ENTITY linkToolbarCmd.tooltip "Жаңа сілтемені енгізу немесе таңдалған сілтеменің қасиеттерін түзету">
 <!ENTITY anchorToolbarCmd.label "Байланыс">
-
-
-
-
-
+<!ENTITY anchorToolbarCmd.tooltip "Жаңа атаулы байланысты енгізу немесе таңдалған байланыстың қасиеттерін түзету">
+<!ENTITY TextColorButton.tooltip "Мәтін үшін түсті таңдау">
+<!ENTITY BackgroundColorButton.tooltip "Фон үшін түсті таңдау">
+<!ENTITY throbber.tooltip "&vendorShortName; үй парағына өту">
+<!ENTITY HighlightColorButton.tooltip "Мәтінді ерекшелеу түсін таңдау">
 <!-- Editor toolbar -->
 
-
+<!ENTITY absoluteFontSizeToolbarCmd.tooltip "Қаріп өлшемін орнату">
+<!ENTITY decreaseFontSizeToolbarCmd.tooltip "Кішірек қаріп">
+<!ENTITY increaseFontSizeToolbarCmd.tooltip "Үлкенірек қаріп">
 <!ENTITY boldToolbarCmd.tooltip "Жуан">
 <!ENTITY italicToolbarCmd.tooltip "Көлбеу">
 <!ENTITY underlineToolbarCmd.tooltip "Асты сызылған">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY bulletListToolbarCmd.tooltip "Маркерленген тізімді іске қосу/өшіру">
+<!ENTITY numberListToolbarCmd.tooltip "Нөмірленген тізімді іске қосу/өшіру">
+<!ENTITY outdentToolbarCmd.tooltip "Мәтін шегінісін кішірейту">
+<!ENTITY indentToolbarCmd.tooltip "Мәтін шегінісін үлкейту">
+<!ENTITY AlignPopupButton.tooltip "Мәтін туралануын таңдау">
+<!ENTITY InsertPopupButton.tooltip "Сілтеме, байланыс, сурет, горизонталды сызық немесе кестені енгізу">
+<!ENTITY alignLeftButton.tooltip "Мәтінді сол жақ өріспен туралау">
+<!ENTITY alignCenterButton.tooltip "Мәтінді ортасымен туралау">
+<!ENTITY alignRightButton.tooltip "Мәтінді оң жақ өріспен туралау">
+<!ENTITY alignJustifyButton.tooltip "Мәтінді сол және оң жақ өрістерімен туралау">
 <!-- Structure Toolbar Context Menu items -->
 
 <!ENTITY structSelect.label         "Таңдау">
 <!ENTITY structSelect.accesskey     "Т">
-
-
-
-
+<!ENTITY structRemoveTag.label      "Тегті өшіру">
+<!ENTITY structRemoveTag.accesskey  "ш">
+<!ENTITY structChangeTag.label      "Тегті өзгерту">
+<!ENTITY structChangeTag.accesskey  "з">
 <!-- TOC manipulation -->
 
-<!ENTITY insertTOC.label          "Енгізу">
-<!ENTITY insertTOC.accesskey      "Е">
+<!ENTITY insertTOC.label          "Кірістіру">
+<!ENTITY insertTOC.accesskey      "р">
 <!ENTITY updateTOC.label          "Жаңарту">
 <!ENTITY updateTOC.accesskey      "Ж">
 <!ENTITY removeTOC.label          "Өшіру">
