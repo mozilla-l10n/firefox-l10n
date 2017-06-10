@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
+<!ENTITY pluginActivationWarning                             "Бұл сайт &brandShortName; жұмысын тежей алатын плагинді қолданады.">
 <!ENTITY tapToPlayPlugin                                     "Плагинді белсендіру үшін осында шертіңіз.">
 <!ENTITY clickToActivatePlugin                               "Плагинді белсендіру.">
 <!ENTITY checkForUpdates                                     "Жаңартуларға тексеру…">

@@ -257,5 +257,6 @@
 
 <!ENTITY legacyWarning.description "Бірнәрсе жетіспей ма? &brandShortName; кейбір кеңейтулерді енді қолдамайды.">
 <!ENTITY legacyWarning.showLegacy "Ескірген кеңейтулерді көрсету">
+<!ENTITY legacyExtensions.title "Ескірген кеңейтулер">
 <!ENTITY legacyExtensions.description "Бұл кеңейтулер &brandShortName; өнімінің ағымдағы стандартқа сай емес, сондықтан сөндірілді.">
 <!ENTITY legacyExtensions.learnMore "Қосымшалар өзгерістері туралы көбірек білу">
