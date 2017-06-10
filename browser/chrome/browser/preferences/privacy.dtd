@@ -45,16 +45,16 @@
 <!ENTITY  suggestionSettings2.label     "เปลี่ยนค่ากำหนดคำแนะนำจากเครื่องมือค้นหา">
 
 <!ENTITY  acceptCookies.label           "ยอมรับคุกกี้จากไซต์">
-<!ENTITY  acceptCookies.accesskey       "A">
+<!ENTITY  acceptCookies.accesskey       "ย">
 
 <!ENTITY  acceptThirdParty.pre.label      "ยอมรับคุกกี้จากบุคคลที่สาม:">
-<!ENTITY  acceptThirdParty.pre.accesskey  "y">
+<!ENTITY  acceptThirdParty.pre.accesskey  "อ">
 <!ENTITY  acceptThirdParty.always.label   "เสมอ">
 <!ENTITY  acceptThirdParty.never.label    "ไม่เลย">
 <!ENTITY  acceptThirdParty.visited.label  "จากที่เยี่ยมชม">
 
 <!ENTITY  keepUntil.label               "เก็บจนกระทั่ง:">
-<!ENTITY  keepUntil.accesskey           "u">
+<!ENTITY  keepUntil.accesskey           "ก">
 
 <!ENTITY  expire.label                  "คุกกี้หมดอายุ">
 <!ENTITY  close.label                   "ฉันปิด &brandShortName;">
