@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Kek'ut ri taq rutzijol re ruwäch chi k'exoj re'">
 <!ENTITY cmd.hideReleaseNotes.label           "Ke'ewäx taq rutziol ri ruwäch">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ke'ewäx ri taq rutzijol re ruwäch chi k'exoj re'">
-
+<!ENTITY cmd.findReplacement.label            "Tikanöx jun richin nijal">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "¿La k'o nanataj? Jujun taq nak'ab'äl man nikixïm ta chik ki' ruma &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Tetamäx ch'aqa' chik.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "¿La k'o nanataj? Jujun taq k'amal man nikixïm ta chik ki' ruma &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Kek'ut pe ri kochin taq k'amal">
+<!ENTITY legacyExtensions.title "Kochin taq k'amaya'l">
+<!ENTITY legacyExtensions.description "Re taq k'amal re' man nikik'äm ta ki' rik'in current &brandShortName; taq rub'eyal richin chi xechuputäj.">
+<!ENTITY legacyExtensions.learnMore "Tetamäx chi kij ri kijaloj taq tzaqät">
