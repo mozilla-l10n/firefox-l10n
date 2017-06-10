@@ -257,5 +257,6 @@
 
 <!ENTITY legacyWarning.description "Felujo něco? Někotare rozšyrjenja njepódpěraju se wěcej pśez &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Zestarjone rozšyrjenja pokazaś">
+<!ENTITY legacyExtensions.title "Zestarjone rozšyrjenja">
 <!ENTITY legacyExtensions.description "Toś te rozšyrjenja su se znjemóžnili, dokulaž standardam &brandShortName; njewótpowěduju.">
 <!ENTITY legacyExtensions.learnMore "Dalšne informacije wó změnach toś tych dodankow">
