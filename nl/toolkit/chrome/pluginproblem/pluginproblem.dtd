@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Deze website gebruikt een plug-in die &brandShortName; kan vertragen.">
 <!ENTITY tapToPlayPlugin                                     "Tik hier om de plug-in te activeren.">
-<!ENTITY clickToActivatePlugin                               "Plug-in activeren.">
+<!ENTITY clickToActivatePlugin                               "Plug-in activeren">
 <!ENTITY checkForUpdates                                     "Controleren op updates…">
 <!ENTITY blockedPlugin.label                                 "Deze plug-in is geblokkeerd voor uw bescherming.">
 <!ENTITY hidePluginBtn.label                                 "Plug-in verbergen">
