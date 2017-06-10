@@ -39,5 +39,5 @@
 <!ENTITY toButton.accesskey                 "о">
 <!ENTITY ccButton.label                     "&quot;Көшірмесі&quot; ішіне қосу:">
 <!ENTITY ccButton.accesskey                 "ш">
-<!ENTITY bccButton.label                    "&quot;Жасырын көшірме&quot; ішіне қосу">
+<!ENTITY bccButton.label                    "&quot;Жасырын көшірме&quot; ішіне қосу:">
 <!ENTITY bccButton.accesskey                "ы">

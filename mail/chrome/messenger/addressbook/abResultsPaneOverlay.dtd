@@ -12,7 +12,7 @@
 <!ENTITY Company.accesskey                     "М">
 
 
-<!ENTITY NickName.label                        "Бүркеншік аты:">
+<!ENTITY NickName.label                        "Бүркеншік аты">
 <!ENTITY NickName.accesskey                    "р">
 <!ENTITY SecondEmail.label                     "Қосымша эл.пошта">
 <!ENTITY SecondEmail.accesskey                 "ы">

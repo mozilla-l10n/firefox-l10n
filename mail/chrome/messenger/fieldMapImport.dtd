@@ -4,7 +4,7 @@
 
 <!ENTITY fieldMapImport.title "Адрес кітапшасын импорттау">
 
-<!ENTITY fieldMapImport.recordNumber "Жазба үшін деректер импортталды:">
+<!ENTITY fieldMapImport.recordNumber "Жазба үшін деректер импортталды: ">
 <!ENTITY fieldMapImport.next.label "Келесі">
 <!ENTITY fieldMapImport.next.accesskey "К">
 <!ENTITY fieldMapImport.previous.label "Алдыңғысы">

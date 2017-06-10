@@ -7,7 +7,7 @@
 <!ENTITY addAccountDialog.accountName.label "Тіркелгінің атауы:">
 <!ENTITY addAccountDialog.noAccountText "Кешіріңіз, ағымдағы &brandShortName; нұсқасы әр желідегі сақтау қызметі үшін тек бір тіркелгіні қолдануға рұқсат етеді.">
 <!ENTITY addAccountDialog.createAccountText2 "Сіз үлкен салынымдары бірнеше желідегі сақтау қызметтерін қолданып, жібере аласыз. Бар болып тұрған тіркелгі баптауларын енгізіңіз, немесе жаңа тіркелгіні жасаңыз.">
-<!ENTITY addAccountDialog.authorizing "Авторизацияны тексеру…">
+<!ENTITY addAccountDialog.authorizing "Авторизацияны тексеру...">
 <!ENTITY addAccountDialog.error "Тіркелгіні жасау кезінде қате орын алды!">
 <!ENTITY addAccountDialog.acceptButton.label "Тіркелгіні баптау">
 <!ENTITY addAccountDialog.learnMore "Көбірек білу…">

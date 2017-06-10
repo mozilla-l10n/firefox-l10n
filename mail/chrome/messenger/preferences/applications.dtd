@@ -33,5 +33,5 @@
 <!ENTITY authRequired.button.label        "Авторизация беру">
 <!ENTITY authRequired.button.accesskey    "в">
 
-<!ENTITY enableCloudFileAccountOffer.label "Келесіден үлкен файлдарды сақтауды ұсыну:">
+<!ENTITY enableCloudFileAccountOffer.label "Келесіден үлкен файлдарды бөлісуді ұсыну">
 <!ENTITY enableCloudFileAccountOffer.mb "МБ">

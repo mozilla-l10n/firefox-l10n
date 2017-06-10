@@ -13,15 +13,15 @@
 <!ENTITY junkFolderOn.accesskey "С">
 <!ENTITY otherFolder.label "Басқа:">
 <!ENTITY otherFolder.accesskey "Б">
-<!ENTITY purge1.label "Келесіден ескілеу спам хаттарын автоөшіру:">
+<!ENTITY purge1.label "Келесіден ескілеу спам хаттарын автоөшіру">
 <!ENTITY purge1.accesskey "а">
 <!ENTITY purge2.label "күн">
 
-<!ENTITY whitelistHeader.label "Жіберуші келесіде болса, хаттарды спам ретінде автобелгілемеу:">
+<!ENTITY whitelistHeader.label "Жіберуші келесіде болса, хаттарды спам ретінде автобелгілемеу: ">
 <!ENTITY whitelistHeader.accesskey "м">
 
 <!ENTITY ispHeadersWarning.label "Іске қосылған болса, &brandShortName; бұл сыртқы анықтаушымен белгіленген хабарламаларды спам ретінде автоматты түрде танитын болады.">
-<!ENTITY ispHeaders.label "Келесі орнатқан спам хаттарының тақырыптамаларына сену:">
+<!ENTITY ispHeaders.label "Келесі орнатқан спам хаттарының тақырыптамаларына сену: ">
 <!ENTITY ispHeaders.accesskey "с">
 
 <!ENTITY junkClassification.label "Таңдау">

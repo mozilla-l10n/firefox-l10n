@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY AttName.label                  "Атрибут: ">
 <!ENTITY AttValue.label                 "Мәні: ">
-<!ENTITY PropertyName.label             "Қасиеті:">
-<!ENTITY currentattributesfor.label     "Келесі үшін ағымдағы атрибуттар:">
+<!ENTITY PropertyName.label             "Қасиеті: ">
+<!ENTITY currentattributesfor.label     "Келесі үшін ағымдағы атрибуттар: ">
 <!ENTITY tree.attributeHeader.label     "Атрибут">
 <!ENTITY tree.propertyHeader.label      "Қасиеті">
 <!ENTITY tree.valueHeader.label         "Мәні">

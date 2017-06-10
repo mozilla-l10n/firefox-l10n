@@ -4,9 +4,9 @@
 
 <!ENTITY directoryName.label               "Аты: ">
 <!ENTITY directoryName.accesskey           "А">
-<!ENTITY directoryHostname.label           "Хост аты:">
+<!ENTITY directoryHostname.label           "Хост аты: ">
 <!ENTITY directoryHostname.accesskey       "о">
-<!ENTITY directoryBaseDN.label             "Негізгі DN:">
+<!ENTITY directoryBaseDN.label             "Негізгі DN: ">
 <!ENTITY directoryBaseDN.accesskey         "Н">
 <!ENTITY findButton.label                  "Табу">
 <!ENTITY findButton.accesskey              "Т">
@@ -17,21 +17,21 @@
 <!ENTITY General.tab                       "Жалпы">
 <!ENTITY Offline.tab                       "Желіде емес">
 <!ENTITY Advanced.tab                      "Кеңейтілген">
-<!ENTITY portNumber.label                  "Порт нөмірі:">
+<!ENTITY portNumber.label                  "Порт нөмірі: ">
 <!ENTITY portNumber.accesskey              "П">
-<!ENTITY searchFilter.label                "Іздеу сүзгісі:">
+<!ENTITY searchFilter.label                "Іздеу сүзгісі: ">
 <!ENTITY searchFilter.accesskey            "с">
-<!ENTITY scope.label                       "Іздеу аумағы:">
+<!ENTITY scope.label                       "Іздеу аумағы: ">
 <!ENTITY scope.accesskey                   "м">
 <!ENTITY scopeOneLevel.label               "Бір деңгей">
 <!ENTITY scopeOneLevel.accesskey           "д">
 <!ENTITY scopeSubtree.label                "Ішкі ағаш">
 <!ENTITY scopeSubtree.accesskey            "ш">
-<!ENTITY return.label                      "Келесіден артық нәтиже қайтармау:">
+<!ENTITY return.label                      "Келесіден артық нәтиже қайтармау">
 <!ENTITY return.accesskey                  "р">
 <!ENTITY results.label                     "нәтиже">
 <!ENTITY offlineText.label                 "Желіден тыс жұмыс жасаған кезде бұл каталог қолжетерлік болуы үшін, оның көшірмесін жүктеп алуға болады.">
-<!ENTITY saslMechanism.label               "Кіру тәсілі:">
+<!ENTITY saslMechanism.label               "Кіру тәсілі: ">
 <!ENTITY saslMechanism.accesskey           "т">
 <!ENTITY saslOff.label                     "Қарапайым">
 <!ENTITY saslOff.accesskey                 "п">

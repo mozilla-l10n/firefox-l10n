@@ -5,7 +5,7 @@
 
 
 <!ENTITY copyAndFolderTitle.label "Көшірмелер және бумалар">
-<!ENTITY sendingPrefix.label "Хабарламаны жіберу кезінде, автоматты түрде:">
+<!ENTITY sendingPrefix.label "Хабарламаны жіберу кезінде, автоматты түрде: ">
 <!ENTITY fccMailFolder.label "Көшірмені қайда орналастыру:">
 <!ENTITY fccMailFolder.accesskey "К">
 <!ENTITY fccReplyFollowsParent.label "Жауаптарды түпнұсқа хабарламасы орналасқан бумаға сақтау">
