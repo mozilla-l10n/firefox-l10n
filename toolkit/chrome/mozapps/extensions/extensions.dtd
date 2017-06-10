@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Papar nota pelepasan untuk kemaskini ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sorok Nota Pelepasan">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sorok nota pelepasan untuk kemaskini ini">
+<!ENTITY cmd.findReplacement.label            "Cari Pengganti">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -255,3 +256,9 @@
 
 <!ENTITY pluginDeprecation.description "Ada sesuatu yang tidak kena? Ada plugin tidak lagi disokong oleh &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ketahui Selanjutnya.">
+
+<!ENTITY legacyWarning.description "Ada sesuatu yang tidak kena? Ada ekstensi tidak lagi disokong oleh &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Pamerkan ekstensi legasi">
+<!ENTITY legacyExtensions.title "Ekstensi Legasi">
+<!ENTITY legacyExtensions.description "Ekstensi berikut tidak memenuhi piawai &brandShortName; oleh itu dinyahaktifkan.">
+<!ENTITY legacyExtensions.learnMore "Ketahui lanjut perubahan add-ons">
