@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "स्क्रीनशॉट">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "चालू कालावधीबद्दल माहिती">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "मॉनिटर">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "साधन प्राधान्यक्रम">
