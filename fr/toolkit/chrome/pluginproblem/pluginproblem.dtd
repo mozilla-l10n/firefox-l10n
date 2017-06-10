@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Ce site utilise un plugin qui pourrait ralentir &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Appuyer ici pour activer le plugin.">
 <!ENTITY clickToActivatePlugin                               "Activer le plugin.">
 <!ENTITY checkForUpdates                                     "Rechercher des mises à jour…">
 <!ENTITY blockedPlugin.label                                 "Ce plugin a été bloqué par mesure de sécurité.">
-
 <!ENTITY hidePluginBtn.label                                 "Masquer le plugin">
 <!ENTITY managePlugins                                       "Gérer les plugins…">
 
@@ -17,7 +17,7 @@
 <!ENTITY reloadPlugin.pre                                    " ">
 <!ENTITY reloadPlugin.middle                                 "Actualiser la page">
 <!ENTITY reloadPlugin.post                                   " pour essayer à nouveau.">
-<!-- LOCALIZATION NOTE: report.* strings should be as short as possible, ideally 2-3 words. -->
+<!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
 <!ENTITY report.please                                       "Envoyer un rapport de plantage">
 <!ENTITY report.submitting                                   "Envoi du rapport…">
 <!ENTITY report.submitted                                    "Rapport de plantage envoyé.">
