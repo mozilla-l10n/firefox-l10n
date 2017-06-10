@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Parodyti šio naujinimo laidos apžvalgą">
 <!ENTITY cmd.hideReleaseNotes.label           "Nerodyti laidos apžvalgos">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Nerodyti šio naujinimo laidos apžvalgos">
-
+<!ENTITY cmd.findReplacement.label            "Rasti pakaitalą">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,6 +255,8 @@
 <!ENTITY pluginDeprecation.description "Kažko trūksta? Kai kurie papildiniai daugiau nepalaikomi „&brandShortName;“.">
 <!ENTITY pluginDeprecation.learnMore "Sužinoti daugiau.">
 
-
-
-
+<!ENTITY legacyWarning.description "Kažko trūksta? Kai kurių plėtinių „&brandShortName;“ nebepalaiko.">
+<!ENTITY legacyWarning.showLegacy "Rodyti pasenusius plėtinius">
+<!ENTITY legacyExtensions.title "Pasenę plėtiniai">
+<!ENTITY legacyExtensions.description "Šie plėtiniai neatitinka esamų „&brandShortName;“ standartų, tad buvo išjungti.">
+<!ENTITY legacyExtensions.learnMore "Sužinokite apie priedų pokyčius">
