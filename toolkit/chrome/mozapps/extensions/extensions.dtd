@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा दाखवा">
 <!ENTITY cmd.hideReleaseNotes.label           "प्रकाशन टिपा लपवा">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "या सुधारणाकरीता प्रकाशन टिपा लपवा">
-
+<!ENTITY cmd.findReplacement.label            "पुनर्बदल शोधा">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "काही शोधताय काय? काही प्लगईन्स, &brandShortName; आता समर्थित नाहीत.">
 <!ENTITY pluginDeprecation.learnMore "आणखी शिका">
 
-
-
-
-
+<!ENTITY legacyWarning.description "काही शोधताय? काही विस्तार आता &brandShortName; द्वारा समर्थीत नाही.">
+<!ENTITY legacyWarning.showLegacy "सर्व वारसा विस्तार दर्शवा">
+<!ENTITY legacyExtensions.title "वारसा विस्तार">
+<!ENTITY legacyExtensions.description "हे विस्तार सध्याच्या &brandShortName; मानकांमध्ये बसत नाही म्हणून ते निष्क्रिय करण्यात आले आहेत.">
+<!ENTITY legacyExtensions.learnMore "ॲड-ऑन्सबद्दल बदल जाणा">
