@@ -27,12 +27,12 @@
 <!ENTITY NameField1.accesskey           "А">
 <!ENTITY NameField2.label               "Соңғы:">
 <!ENTITY NameField2.accesskey           "С">
-
-
+<!ENTITY PhoneticField1.label           "Айтылуы:">
+<!ENTITY PhoneticField2.label           "Айтылуы:">
 <!ENTITY DisplayName.label              "Көрсету:">
 <!ENTITY DisplayName.accesskey          "К">
-
-
+<!ENTITY preferDisplayName.label        "Хабарлама тақырыптамадағы аттың орнына көрсетілетін атын әрқашан таңдау">
+<!ENTITY preferDisplayName.accesskey    "р">
 <!ENTITY NickName.label                 "Бүркеншік аты:">
 <!ENTITY NickName.accesskey             "Б">
 
@@ -40,8 +40,8 @@
 <!ENTITY PrimaryEmail.accesskey         "Э">
 <!ENTITY SecondEmail.label              "Қосымша эл. пошта:">
 <!ENTITY SecondEmail.accesskey          "с">
-
-
+<!ENTITY PreferMailFormat.label         "Қай пішімде поштаны алуды қалайды:">
+<!ENTITY PreferMailFormat.accesskey     "у">
 <!ENTITY PlainText.label                "Қалыпты мәтін">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Белгісіз">
@@ -59,7 +59,7 @@
 <!ENTITY CellularNumber.accesskey       "б">
 
 <!ENTITY Home.tab                       "Жеке">
-
+<!ENTITY Home.accesskey                 "ж">
 <!ENTITY HomeAddress.label              "Адресі:">
 <!ENTITY HomeAddress.accesskey          "д">
 <!ENTITY HomeAddress2.label             "">
@@ -123,7 +123,7 @@
 <!ENTITY Gtalk.label                    "Google Talk:">
 <!ENTITY Gtalk.accesskey                "G">
 <!ENTITY AIM.label                      "AIM:">
-
+<!ENTITY AIM2.accesskey                 "M">
 <!ENTITY Yahoo.label                    "Yahoo!:">
 <!ENTITY Yahoo.accesskey                "Y">
 <!ENTITY Skype.label                    "Skype:">
@@ -131,7 +131,7 @@
 <!ENTITY QQ.label                       "QQ:">
 <!ENTITY QQ.accesskey                   "Q">
 <!ENTITY MSN.label                      "&amp;MSN:">
-
+<!ENTITY MSN2.accesskey                 "N">
 <!ENTITY ICQ.label                      "ICQ:">
 <!ENTITY ICQ.accesskey                  "I">
 <!ENTITY XMPP.label                     "Jabber ID:">

@@ -113,8 +113,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY firstLastCmd2.accesskey                        "А">
 <!ENTITY lastFirstCmd.label                             "Аты, Фамилиясы">
 <!ENTITY lastFirstCmd.accesskey                         "А">
-
-
+<!ENTITY displayNameCmd.label                           "Көрсетілетін аты">
+<!ENTITY displayNameCmd.accesskey                       "К">
 <!ENTITY sortMenu.label                                 "Бойынша сұрыптау">
 <!ENTITY sortMenu.accesskey                             "Б">
 <!-- Tools Menu -->
@@ -140,8 +140,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "к">
 <!ENTITY newlistButton.label                            "Жаңа тізім">
 <!ENTITY newlistButton.accesskey                        "т">
-
-
+<!ENTITY showAsDefault.label                            "Ашу кезінде негізгі бума">
+<!ENTITY showAsDefault.accesskey                        "ш">
 <!ENTITY editPropertiesButton.label                     "Түзету">
 <!ENTITY propertiesContext.label                        "Қасиеттері">
 <!ENTITY propertiesContext.accesskey                    "и">
@@ -214,8 +214,8 @@ because displayed names don't have the comma in between. -->
 <!ENTITY sortAscending.accesskey                        "с">
 <!ENTITY sortDescending.label                           "Кему ретімен">
 <!ENTITY sortDescending.accesskey                       "К">
-
-
+<!ENTITY _PhoneticName.label                            "Қалайша айтылады">
+<!ENTITY _PhoneticName.accesskey                        "й">
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 
@@ -238,6 +238,6 @@ because displayed names don't have the comma in between. -->
 
 <!ENTITY windowMenu.label                               "Терезе">
 <!ENTITY minimizeWindow.label                           "Шақтау">
-
+<!ENTITY minimizeWindow.key                             "m">
 <!ENTITY bringAllToFront.label                          "Барлығын алдына қою">
 <!ENTITY zoomWindow.label                               "Үлкейту">
