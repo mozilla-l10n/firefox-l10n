@@ -277,7 +277,7 @@
 <!ENTITY pref_tracking_protection_disabled "Desativada">
 
 <!ENTITY pref_whats_new_notification "Novidades no &brandShortName;">
-<!ENTITY pref_whats_new_notification_summary "Saber sobre novas funcionalidades depois de uma atualização">
+<!ENTITY pref_whats_new_notification_summary "Saber acerca de novas funcionalidades depois de uma atualização">
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
 
