@@ -1,7 +1,7 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY aboutPage.title                        "Ɣef &brandShortName;">
+<!ENTITY aboutPage.title                        "Γef &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; d armitan yerna ur yerkid ara.">
 <!ENTITY aboutPage.telemetryStart               " Yettazen s wudem awurman talɣut ɣef tmellit, arrum, aseqdec akked usagen i ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
@@ -19,6 +19,6 @@
 <!ENTITY aboutPage.relNotes.label               "Iwenniten n lqem">
 <!ENTITY aboutPage.credits.label                "Ittekiyen">
 <!ENTITY aboutPage.license.label                "Talɣut n turagt">
-<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 
+<!-- LOCALIZATION NOTE (aboutPage.logoTrademark): The message is explicitly about the word "Firefox" being trademarked, that's why we use it, instead of brandShortName. -->
 <!ENTITY aboutPage.logoTrademark                "Firefox d iluguten n Firefox d ticraḍ yettwasersen i tesbeddit Mozilla.">
