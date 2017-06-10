@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
 
+<!ENTITY pluginActivationWarning                             "Toś to sedło tykac wužywa, kótaryž mógał &brandShortName; spómałšyś.">
 <!ENTITY tapToPlayPlugin                                     "Pótusniśo how, aby tykac aktiwěrował.">
 <!ENTITY clickToActivatePlugin                               "Tykac aktiwěrowaś.">
 <!ENTITY checkForUpdates                                     "Za aktualizacijami pytaś…">
