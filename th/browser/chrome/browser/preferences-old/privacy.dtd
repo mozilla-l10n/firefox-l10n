@@ -11,7 +11,7 @@
 <!ENTITY  trackingProtectionNever.accesskey    "n">
 <!ENTITY  trackingProtectionLearnMore.label    "เรียนรู้เพิ่มเติม">
 <!ENTITY  trackingProtectionExceptions.label   "ข้อยกเว้น…">
-<!ENTITY  trackingProtectionExceptions.accesskey "ย">
+<!ENTITY  trackingProtectionExceptions.accesskey "อ">
 
 <!ENTITY tracking.label                 "การตามรอย">
 <!ENTITY trackingProtectionPBM5.label         "ใช้การป้องกันการตามรอยในหน้าต่างส่วนตัว">

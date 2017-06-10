@@ -21,7 +21,7 @@
 <!ENTITY  blockUncommonAndUnwanted.accesskey "C">
 
 <!ENTITY  addonExceptions.label         "ข้อยกเว้น…">
-<!ENTITY  addonExceptions.accesskey     "อ">
+<!ENTITY  addonExceptions.accesskey     "ข">
 
 
 <!ENTITY  logins.label                  "การเข้าสู่ระบบ">
