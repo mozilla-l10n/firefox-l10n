@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "顯示此次更新的新鮮事">
 <!ENTITY cmd.hideReleaseNotes.label           "隱藏新鮮事">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "隱藏此次更新的新鮮事">
+<!ENTITY cmd.findReplacement.label            "尋找替代套件">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -255,3 +256,8 @@
 
 <!ENTITY pluginDeprecation.description "少了點東西嗎？&brandShortName; 已不再支援某些外掛程式。">
 <!ENTITY pluginDeprecation.learnMore "了解更多。">
+
+<!ENTITY legacyWarning.description "少了點東西嗎？&brandShortName; 已不再支援某些擴充套件。">
+<!ENTITY legacyWarning.showLegacy "顯示傳統擴充套件">
+<!ENTITY legacyExtensions.description "這些擴充套件不符合 &brandShortName; 目前的標準，已被停用。">
+<!ENTITY legacyExtensions.learnMore "了解附加元件有什麼變動">
