@@ -925,27 +925,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM সম্পর্কে আরও জানুন…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.whatsnew.label "দেখুন নতুন কি আছে">
+<!ENTITY updateAvailable.whatsnew.label "দেখুন নতুন কি আছে।">
+
+<!ENTITY updateAvailable.acceptButton.label "হালনাগাদ ডাউনলোড">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+
+
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName; হালনাগাদ ডাউনলোড">
+
+<!ENTITY updateManual.whatsnew.label "দেখুন নতুন কি আছে।">
+
+
+
+<!ENTITY updateManual.cancelButton.label "এখন নয়">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY updateRestart.cancelButton.label "এখন নয়">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
 
