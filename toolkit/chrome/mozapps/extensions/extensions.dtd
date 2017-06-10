@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Zobrazí poznámky k vydání této aktualizace">
 <!ENTITY cmd.hideReleaseNotes.label           "Skrýt poznámky k vydání">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skryje poznámky k vydání této aktualizace">
+<!ENTITY cmd.findReplacement.label            "Najít náhradu">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,9 @@
 
 <!ENTITY pluginDeprecation.description "Něco chybí? Některé zásuvné moduly už &brandShortName; nepodporuje.">
 <!ENTITY pluginDeprecation.learnMore "Zjistit více.">
+
+<!ENTITY legacyWarning.description "Něco chybí? Některá rozšíření už &brandShortName; nepodporuje.">
+<!ENTITY legacyWarning.showLegacy "Zobrazit zastaralá rozšíření">
+<!ENTITY legacyExtensions.title "Zastaralá rozšíření">
+<!ENTITY legacyExtensions.description "Tato rozšíření byla zakázána, protože neodpovídají současným standardům aplikace &brandShortName;.">
+<!ENTITY legacyExtensions.learnMore "Zjistit více o změnách pro doplňky">
