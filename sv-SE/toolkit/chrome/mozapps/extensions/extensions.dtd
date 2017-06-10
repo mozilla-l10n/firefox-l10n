@@ -257,5 +257,6 @@
 
 <!ENTITY legacyWarning.description "Saknar du något? Vissa tillägg stöds inte längre av &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Visa äldre tillägg">
+<!ENTITY legacyExtensions.title "Äldre tillägg">
 <!ENTITY legacyExtensions.description "Dessa tillägg uppfyller inte nuvarande standarder i &brandShortName; så de har inaktiverats.">
 <!ENTITY legacyExtensions.learnMore "Läs mer om ändringar av tillägg">
