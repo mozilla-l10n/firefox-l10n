@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Ekrano nuotrauka">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "E">
 <!ENTITY runtimeMenu_showDetails_label "Įrenginio duomenys">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "o">
 <!ENTITY runtimeMenu_showMonitor_label "Stebyklė">
 <!ENTITY runtimeMenu_showMonitor_accesskey "S">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Įrenginio nuostatos">
