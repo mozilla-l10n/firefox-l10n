@@ -1,11 +1,13 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY toField4.label "Кімге">
 <!ENTITY fromField4.label "Кімнен">
 <!ENTITY senderField4.label "Жiберушi">
 
 <!ENTITY organizationField4.label "Ұйым">
-
+<!ENTITY replyToField4.label "Кімге жауап беру">
 
 <!ENTITY subjectField4.label "Тақырыбы">
 
@@ -17,7 +19,7 @@
 
 <!ENTITY referencesField4.label "Сiлтемелер">
 
-
+<!ENTITY inReplyToField4.label "Келесіге жауап ретінде">
 <!ENTITY originalWebsite4.label "Веб сайты">
 
 <!ENTITY hdrArchiveButton1.label "Архивтеу">
@@ -26,11 +28,11 @@
 
 
 <!ENTITY hdrReplyButton1.label "Жауап беру">
-
+<!ENTITY hdrReplyButton2.tooltip "Бұл хабарламаның жіберушісіне жауап беру">
 <!ENTITY hdrReplyAllButton1.label "Барлығына жауап беру">
-
+<!ENTITY hdrReplyAllButton1.tooltip "Жіберуші және барлық алушыларға жауап беру">
 <!ENTITY hdrReplyListButton1.label "Тізімге жауап беру">
-
+<!ENTITY hdrReplyListButton1.tooltip "Эл. поштаны тарату тізіміне жауап беру">
 
 
 <!ENTITY hdrMenuForwardButton.label "Қалайша қайта бағдарлау">

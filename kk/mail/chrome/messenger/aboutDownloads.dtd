@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutDownloads.title                      "Сақталған файлдер">
+<!ENTITY aboutDownloads.title                      "Сақталған файлдар">
 <!ENTITY aboutDownloads.empty                      "Сақталған файлдар жоқ">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
