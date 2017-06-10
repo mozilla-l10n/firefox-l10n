@@ -254,10 +254,10 @@
 <!ENTITY smiley10Cmd.label "Зар шығару">
 <!ENTITY smiley11Cmd.label "Тамаша">
 <!ENTITY smiley12Cmd.label "Ақша">
-
-
-
-
+<!ENTITY smiley13Cmd.label "Ауыздағы аяқ">
+<!ENTITY smiley14Cmd.label "Айыпсыз">
+<!ENTITY smiley15Cmd.label "Жылау">
+<!ENTITY smiley16Cmd.label "Үндемеу">
 <!-- Message Pane Context Menu -->
 
 <!ENTITY spellCheckNoSuggestions.label "Ұсыныстар табылмады">
