@@ -724,7 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.accesskey "B">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Repetir la búsqueda">
-<!ENTITY findAgainCmd.accesskey "q">
+<!ENTITY findAgainCmd.accesskey "R">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
@@ -744,18 +744,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "Inicios de sesión ingresados en esta página pueden ser peligrosos.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
+<!ENTITY identity.activeBlocked "&brandShortName; bloqueó partes de esta página que no eran seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (por ejemplo imágenes).">
 <!ENTITY identity.activeLoaded "Has deshabilitado la protección en esta página.">
 <!ENTITY identity.weakEncryption "Esta página usa encriptación débil.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Tu conexión a este sitio no es privada. La información que envíes puede ser vista por otros (cómo contraseñas, mensajes, tarjetas de crédito, etc.).">
-<!ENTITY identity.description.insecureLoginForms "La información del inicio de sesión que ingreses en esta página no está segura y puede verse afectada.">
+<!ENTITY identity.description.insecure "Tu conexión a este sitio no es privada. La información que envíes podría ser vista por otros (contraseñas, mensajes, tarjetas de crédito, etc.).">
+<!ENTITY identity.description.insecureLoginForms "La información del inicio de sesión que ingreses en esta página no está segura y podría verse comprometida.">
 <!ENTITY identity.description.weakCipher "Tu conexión con este sitio web usa encriptación débil y no es privado.">
 <!ENTITY identity.description.weakCipher2 "Otras personas pueden ver tu información o modificar el comportamiento del sitio web.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
-<!ENTITY identity.description.passiveLoaded "Tu conexión no es privada y la información que compartas con el sitio puede ser vista por otros.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; bloqueó partes de esta página que no eran seguras.">
+<!ENTITY identity.description.passiveLoaded "Tu conexión no es privada y la información que compartas con el sitio podría ser vista por otros.">
 <!ENTITY identity.description.passiveLoaded2 "Este sitio web tiene contenido que no es seguro (por ejemplo imágenes).">
 <!ENTITY identity.description.passiveLoaded3 "Aunque &brandShortName; bloqueó parte del contenido, aún hay contenido en la página que no es seguro (por ejemplo imágenes).">
 <!ENTITY identity.description.activeLoaded "Este sitio web tiene contenido que no es seguro (tales como scripts) y tu conexión a ellos no es privada.">
