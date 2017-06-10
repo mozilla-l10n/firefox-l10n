@@ -46,4 +46,4 @@
 <!ENTITY  shareproxy.accesskey          "x">
 <!ENTITY  autologinproxy.label          "Nu se cer pentru autentificare dacă parola este salvată">
 <!ENTITY  autologinproxy.accesskey      "i">
-<!ENTITY  autologinproxy.tooltip        "Această opțiune vă autentifică silențios la proxy-uri atunci când ați salvat acreditările pentru ele. Vi se vor solicita dacă autentificarea nu reușește.">
+<!ENTITY  autologinproxy.tooltip        "Această opțiune te autentifică silențios la proxy-uri atunci când ai salvat acreditările pentru ele. Ți se vor solicita dacă autentificarea nu reușește.">
