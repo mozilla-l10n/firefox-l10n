@@ -238,20 +238,21 @@
 <!ENTITY headersAllCmd.accesskey "Б">
 <!ENTITY headersNormalCmd.label "Қалыпты">
 <!ENTITY headersNormalCmd.accesskey "Қ">
+<!ENTITY bodyMenu.label "Хабарлама денесі">
+<!ENTITY bodyMenu.accesskey "е">
+<!ENTITY bodyAllowHTML.label "Бастапқы HTML">
+<!ENTITY bodyAllowHTML.accesskey "а">
+<!ENTITY bodySanitized.label "Қарапайым HTML">
+<!ENTITY bodySanitized.accesskey "п">
+<!ENTITY bodyAsPlaintext.label "Ашық мәтін">
+<!ENTITY bodyAsPlaintext.accesskey "ш">
+<!ENTITY bodyAllParts.label "Барлық дене бөліктері">
+<!ENTITY bodyAllParts.accesskey "а">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY bodyMenuFeed.label "Таспа хабарламасының денесі">
+<!ENTITY bodyMenuFeed.accesskey "е">
+<!ENTITY viewFeedWebPage.label "Веб парағы">
+<!ENTITY viewFeedWebPage.accesskey "В">
 <!ENTITY viewFeedSummary.label "Жиынды мәлімет">
 <!ENTITY viewFeedSummary.accesskey "м">
 
@@ -339,8 +340,8 @@
 <!ENTITY replyMsgCmd.label "Жауап беру">
 <!ENTITY replyMsgCmd.accesskey "Ж">
 
-
-
+<!ENTITY replySenderCmd.label "Тек жіберушіге жауап беру">
+<!ENTITY replySenderCmd.accesskey "ж">
 
 
 <!ENTITY replyToAllMsgCmd.label "Барлығына жауап беру">
@@ -519,7 +520,7 @@
 <!ENTITY replyButton.label "Жауап беру">
 <!ENTITY replyAllButton.label "Барлығына жауап беру">
 <!ENTITY replyListButton.label "Тізімге жауап беру">
-<!ENTITY forwardButton.label "Алға">
+<!ENTITY forwardButton.label "Қайта бағдарлау">
 <!ENTITY fileButton.label "Файл">
 <!ENTITY archiveButton.label "Архивтеу">
 <!ENTITY openConversationButton.label "Сөйлесу">
@@ -530,7 +531,7 @@
 <!ENTITY previousButtonToolbarItem.label "Алдыңғы оқылмаған">
 <!ENTITY previousMsgButton.label "Алдыңғы">
 <!ENTITY backButton1.label "Артқа">
-<!ENTITY goForwardButton1.label "Алға">
+<!ENTITY goForwardButton1.label "Қайта бағдарлау">
 <!ENTITY deleteItem.title "Өшіру">
 <!ENTITY deleteButton.label "Өшіру">
 <!ENTITY undeleteButton.label "Өшірілгенді қалпына келтіру">
@@ -737,8 +738,8 @@
 
 <!ENTITY contextArchive.label "Архивтеу">
 <!ENTITY contextArchive.accesskey "х">
-
-
+<!ENTITY contextReplySender.label "Тек жіберушіге жауап беру">
+<!ENTITY contextReplySender.accesskey "ж">
 
 
 <!ENTITY contextReplyAll.label "Барлығына жауап беру">
@@ -864,18 +865,18 @@
 <!ENTITY ViewContact.accesskey "К">
 
 
-
-
+<!ENTITY SendMessageTo.label "Оған хабарламаны жазу">
+<!ENTITY SendMessageTo.accesskey "О">
 <!ENTITY CopyEmailAddress.label "Эл.пошта адресін көшіріп алу">
 <!ENTITY CopyEmailAddress.accesskey "к">
+<!ENTITY CopyNameAndEmailAddress.label "Атын және эл. пошта адресін көшіріп алу">
+<!ENTITY CopyNameAndEmailAddress.accesskey "н">
 
 
 
 
-
-
-
-
+<!ENTITY CreateFilterFrom.label "Алушы бойынша сүзгіні жасау…">
+<!ENTITY CreateFilterFrom.accesskey "с">
 
 
 <!-- Spell checker context menu items -->
