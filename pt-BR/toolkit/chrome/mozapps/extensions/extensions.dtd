@@ -260,5 +260,6 @@ funcionalidades ou estilos extras. Experimente um painel que otimiza seu tempo, 
 
 <!ENTITY legacyWarning.description "Faltando alguma coisa? Algumas extensões não são mais suportadas pelo &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostrar extensões legadas">
+<!ENTITY legacyExtensions.title "Extensões legadas">
 <!ENTITY legacyExtensions.description "Estas extensões não cumprem os padrões atuais do &brandShortName;, então eles foram desativados.">
 <!ENTITY legacyExtensions.learnMore "Saiba mais sobre as alterações das extensões">
