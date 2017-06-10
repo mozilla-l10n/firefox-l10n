@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringa">
 <!ENTITY cmd.hideReleaseNotes.label           "Skjul versjonsnotatet">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
+<!ENTITY cmd.findReplacement.label            "Finn ei erstatning">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,5 @@
 
 <!ENTITY pluginDeprecation.description "Saknar du noko? Nokre programtillegg er ikkje lenger støtta av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Les meir.">
+
+<!ENTITY legacyExtensions.title "Eldre utvidingar">
