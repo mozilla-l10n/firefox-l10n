@@ -257,6 +257,6 @@
 
 <!ENTITY legacyWarning.description "Falta alguma coisa? Algumas extensões deixaram de ser suportados pelo &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostrar extensões de legado">
-
+<!ENTITY legacyExtensions.title "Extensões de legado">
 <!ENTITY legacyExtensions.description "Estas extensões não atendem aos padrões atuais do &brandShortName; por isso foram desativadas">
 <!ENTITY legacyExtensions.learnMore "Saber acerca das alterações aos extras">
