@@ -15,7 +15,7 @@
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
-#define getting_started Primeiros passos
+#define getting_started Introdução
 
 # LOCALIZATION NOTE (firefox_heading):
 # Firefox links folder name
