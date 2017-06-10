@@ -260,5 +260,6 @@
 
 <!ENTITY legacyWarning.description "Mist u iets? Sommige extensies worden niet meer door &brandShortName; ondersteund.">
 <!ENTITY legacyWarning.showLegacy "Verouderde extensies tonen">
+<!ENTITY legacyExtensions.title "Verouderde extensies">
 <!ENTITY legacyExtensions.description "Deze extensies voldoen niet aan huidige &brandShortName;-standaarden en zijn daarom gedeactiveerd.">
 <!ENTITY legacyExtensions.learnMore "Meer info over de wijzigingen omtrent add-ons">
