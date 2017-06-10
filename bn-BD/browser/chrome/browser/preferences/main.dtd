@@ -9,7 +9,8 @@
 <!ENTITY startupBlankPage.label    "ফাঁকা পৃষ্ঠা প্রদর্শন করা হবে">
 <!ENTITY startupPrevSession.label  "শেষ সময় থেকে আপনার উইন্ডো এবং ট্যাব প্রদর্শন করা হবে">
 
-
+<!ENTITY homepage2.label           "প্রধান পাতা">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "বর্তমান পৃষ্ঠা ব্যবহার করা হবে C">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "বর্তমান পৃষ্ঠাগুলি ব্যবহার করুন">
