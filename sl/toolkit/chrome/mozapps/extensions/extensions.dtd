@@ -259,5 +259,6 @@
 
 <!ENTITY legacyWarning.description "Pogrešate kaj? Nekatere razširitve niso več podprte v &brandShortName;u.">
 <!ENTITY legacyWarning.showLegacy "Prikaži zastarele razširitve">
+<!ENTITY legacyExtensions.title "Zastarele razširitve">
 <!ENTITY legacyExtensions.description "Te razširitve ne ustrezajo trenutnim standardom &brandShortName;a, zato so bile onemogočene.">
 <!ENTITY legacyExtensions.learnMore "Več o spremembah dodatkov">
