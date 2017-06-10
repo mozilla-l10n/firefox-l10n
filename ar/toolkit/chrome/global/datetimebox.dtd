@@ -12,6 +12,6 @@
 <!-- Placeholders for input type=date -->
 
 
-<!ENTITY date.year.placeholder "yyyy">
-<!ENTITY date.month.placeholder "mm">
-<!ENTITY date.day.placeholder "dd">
+<!ENTITY date.year.placeholder "سنة">
+<!ENTITY date.month.placeholder "شهر">
+<!ENTITY date.day.placeholder "يوم">
