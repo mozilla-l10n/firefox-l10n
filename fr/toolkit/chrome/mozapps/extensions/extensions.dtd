@@ -259,4 +259,6 @@
 <!ENTITY pluginDeprecation.learnMore "En savoir plus.">
 
 <!ENTITY legacyWarning.description "Quelque chose semble manquer ? Certaines extensions ne sont plus pris en charge par &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Afficher les extensions obsolètes">
 <!ENTITY legacyExtensions.description "Ces extensions ne répondent pas aux exigences actuelles de &brandShortName;. Elles ont été désactivées.">
+<!ENTITY legacyExtensions.learnMore "En savoir plus sur les changements apportés aux modules">
