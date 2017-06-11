@@ -6,7 +6,7 @@
      of accountTree.width entity. -->
 
 <!ENTITY identityDialog.style "min-width: 75ch;">
-<!ENTITY identityListDesc.label "Бұл тіркелу мәліметтерін баптау:">
+<!ENTITY identityListDesc.label "Бұл жеке мәліметтерін баптау:">
 
 <!ENTITY settingsTab.label       "Баптаулар">
 <!ENTITY copiesFoldersTab.label "Көшірмелер және бумалар">
@@ -14,5 +14,5 @@
 
 <!ENTITY publicData.label        "Публикалық деректер">
 <!ENTITY privateData.label       "Жеке деректер">
-<!ENTITY identityAlias.label     "Тіркелу мәліметтерінің белгісі:">
+<!ENTITY identityAlias.label     "Жеке мәліметтерінің белгісі:">
 <!ENTITY identityAlias.accesskey "л">

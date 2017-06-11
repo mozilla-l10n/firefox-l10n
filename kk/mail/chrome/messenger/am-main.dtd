@@ -7,8 +7,8 @@
 <!ENTITY accountTitle.label "Тіркелгі баптаулары">
 <!ENTITY accountName.label "Тіркелгі атауы:">
 <!ENTITY accountName.accesskey "а">
-
-
+<!ENTITY identityTitle.label "Негізгі жеке мәліметтер">
+<!ENTITY identityDesc.label "Әр тіркелгінің жеке мәліметтері бар, ол деген басқа адамдар сіздің хабарламаларыңызды оқыған кезде көретін ақпараты.">
 <!ENTITY name.label "Сіздің атыңыз:">
 <!ENTITY name.accesskey "ы">
 <!ENTITY email.label "Эл. пошта адресі:">

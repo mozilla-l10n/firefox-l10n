@@ -15,6 +15,6 @@
 <!ENTITY aboutSupport.accountsConnSecurity "Байланыс қауіпсіздігі">
 <!ENTITY aboutSupport.accountsAuthMethod "Аутентификация тәсілі">
 <!ENTITY aboutSupport.accountsDefault "Негізгі ма?">
-<!ENTITY aboutSupport.identityName "Идентификация">
+<!ENTITY aboutSupport.identityName "Жеке мәліметтер">
 
 <!ENTITY aboutSupport.sendViaEmail.label "Эл. пошта арқылы жіберу">

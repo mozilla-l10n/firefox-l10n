@@ -20,8 +20,8 @@
 <!-- Entities for Identity page -->
 
 
-<!ENTITY identityTitle.label "Идентификация">
-<!ENTITY identityDesc.label "Әр тіркелгінің анықтауыш ақпараты бар, ол арқылы басқа адамдар сіздің хабарламаларыңызда алған кезде сізді таниды.">
+<!ENTITY identityTitle.label "Жеке мәліметтер">
+<!ENTITY identityDesc.label "Әр тіркелгінің жеке мәліметтері бар, ол арқылы басқа адамдар сіздің хабарламаларыңызда алған кезде сізді таниды.">
 <!-- LOCALIZATION NOTE (fullnameDesc.label) : do not translate two of "&quot;" in below line -->
 
 <!ENTITY fullnameDesc.label "Шығыс хабарламарыңыздың &quot;Кімнен&quot; өрісінде көрсеткіңіз келетін атыңызды енгізіңіз">
