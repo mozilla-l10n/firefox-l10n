@@ -260,5 +260,6 @@
 
 <!ENTITY legacyWarning.description "Mangler der noget? Nogle udvidelser understøttes ikke længere af &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Vis forældede udvidelser">
+<!ENTITY legacyExtensions.title "Forældede udvidelser">
 <!ENTITY legacyExtensions.description "Disse udvidelser møder ikke de nuværende &brandShortName;- standarder, så de er blevet deaktiveret.">
 <!ENTITY legacyExtensions.learnMore "Læs mere om ændringerne af tilføjelser">

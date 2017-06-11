@@ -84,9 +84,18 @@
 <!ENTITY updateTab.label                 "Opdateringer">
 
 <!ENTITY updateApplication.label          "&brandShortName;-opdateringer">
-<!ENTITY updateAuto2.label                "Installer opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
+<!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
+# is followed by a version number, keep the trailing space or replace it with a
+# different character as needed. updateApplication.version.post is displayed
+# after the version number, and is empty on purpose for English. You can use it
+# if required by your language.
+ -->
+<!ENTITY updateApplication.version.pre   "Version ">
+<!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Tillad &brandShortName; at">
+<!ENTITY updateAuto2.label                "installere opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto2.accesskey            "A">
-<!ENTITY updateCheckChoose2.label         "Søg efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheckChoose2.label         "søge efter opdateringer, men lad mig vælge om de skal installeres">
 <!ENTITY updateCheckChoose2.accesskey     "S">
 <!ENTITY updateManual2.label              "Søg aldrig efter opdateringer (frarådes)">
 <!ENTITY updateManual2.accesskey          "N">
@@ -97,7 +106,7 @@
 <!ENTITY useService.label                "Brug en baggrundsservice til at installere opdateringer">
 <!ENTITY useService.accesskey            "b">
 
-<!ENTITY enableSearchUpdate2.label        "Opdater automatisk søgetjenester">
+<!ENTITY enableSearchUpdate2.label        "opdatere søgetjenester automatisk">
 <!ENTITY enableSearchUpdate2.accesskey    "g">
 
 <!ENTITY reports.label                   "Rapporter">
@@ -139,5 +148,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Når du har mange faneblade åbne samtidig, kan brugen af flere indholdsprocesser forbedre ydelsen, men de vil til gengæld bruge mere hukommelse.">
 <!ENTITY limitContentProcessOption.accesskey   "i">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Det er kun muligt at ændre antallet af indholdsprocesser, når du bruger &brandShortName; med multiproces slået til.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Læs, hvordan du undersøger, om multiproces er slået til">
 <!ENTITY allowHWAccel.label              "Brug hardware-acceleration hvor muligt">
 <!ENTITY allowHWAccel.accesskey          "g">

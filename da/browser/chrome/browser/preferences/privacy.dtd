@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label       "Beskyttelse mod sporing">
+<!ENTITY  trackingProtectionHeader2.label      "Beskyttelse mod sporing">
+<!ENTITY  trackingProtection.description       "Sporing betyder, at firmaer indsamler information om din færden på nettet og danner en profil, der sætter dem i stand til at vise indhold baseret på dine browsing-vaner og personlige data.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloker visning af indhold fra firmaer, der er kendt for at spore brugere på nettet">
 <!ENTITY  trackingProtectionAlways.label       "Altid">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Kun i private vinduer">
