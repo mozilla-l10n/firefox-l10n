@@ -75,7 +75,7 @@
 <!ENTITY bookmark_removed "पुस्तकचिनो हटाइयो">
 <!ENTITY bookmark_updated "पुस्तकचिनो अद्यावधिक गरियो">
 <!ENTITY bookmark_options "विकल्पहरू">
-
+<!ENTITY bookmark_save "बचत गर्नुहोस्">
 <!ENTITY screenshot_added_to_bookmarks "स्क्रिन्सट् बुक्मार्कमा थपियो">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; वस्तुहरू">
 <!ENTITY bookmark_folder_one_item "१ वस्तु">
-
-
+<!ENTITY bookmark_parent_folder "मुख्य फोल्डर">
+<!ENTITY bookmark_add_folder "नयाँ फोल्डरको थप्नुहोस्">
 
 <!ENTITY reader_saved_offline "अफलाइन सुरक्षित गरियो">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "गृहपृष्ठ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "नयाँ ट्याबहरूमा पनि प्रयोग गर्नुहोस्">
 <!ENTITY home_homepage_title "गृहपृष्ठ चयन गर्नुहोस्">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -284,7 +285,10 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; मा खोल्नुहोस्">
+<!ENTITY custom_tabs_menu_footer "&brandShortName; द्वारा संचालित">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL बचत गरियो">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "गतिविधि धारा">
@@ -359,6 +363,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "प्रणाली फन्ट आकार प्रयोग गर्नुहोस्">
+<!ENTITY pref_use_system_font_size_summary "वेब सामग्री अनुसार प्रणाली फन्ट आकार मिलाउनुहोस्">
 
 <!ENTITY pref_media_autoplay_enabled "स्वचालित हुने अनुमति दिनुहोस्">
 <!ENTITY pref_media_autoplay_enabled_summary "कुनै वेबसाइटले भिडियो अथवा कुनै अरू मिडिया सामग्री स्वतः चलाउन सक्ने नसक्ने नियन्त्रण गर्नुहोस">
@@ -489,7 +495,7 @@
 <!ENTITY contextmenu_open_private_tab "निजि ट्याबमा खोल्नुहोस्">
 <!ENTITY contextmenu_remove "हटाउनुहोस्">
 <!ENTITY contextmenu_add_to_launcher "गृह पर्दामा थप्नुहोस">
-
+<!ENTITY contextmenu_set_as_homepage "गृहपृष्ठ चयन गर्नुहोस्">
 <!ENTITY contextmenu_share "साझा गर्ने">
 <!ENTITY contextmenu_pasteandgo "टाँस्नुहोस् र जानुहोस्">
 <!ENTITY contextmenu_paste "टाँस्नुहोस्">
@@ -537,7 +543,7 @@
 <!ENTITY bookmark_edit_name "नाम">
 <!ENTITY bookmark_edit_location "स्थान">
 <!ENTITY bookmark_edit_keyword "शब्दकुञ्जी">
-
+<!ENTITY bookmark_select_folder "फोल्डर चयन गर्नुहोस्">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -559,7 +565,7 @@
 <!ENTITY button_yes "हो">
 <!ENTITY button_no "होेइन">
 <!ENTITY button_clear_data "आकडा हताउने">
-
+<!ENTITY button_set "सेट गर्नुहोस्">
 <!ENTITY button_clear "खाली गर्नुहोस्">
 <!ENTITY button_copy "प्रतिलिपि बनाउनुहोस्">
 
