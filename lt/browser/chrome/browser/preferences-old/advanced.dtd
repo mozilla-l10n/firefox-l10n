@@ -132,5 +132,7 @@
 <!ENTITY limitContentProcessOption.label "Turinio procesų riba">
 <!ENTITY limitContentProcessOption.description "Papildomi turinio procesai gali paspartinti veikimą kai naudojama daugiau kortelių, tačiau taip pat naudos daugiau atminties.">
 <!ENTITY limitContentProcessOption.accesskey   "r">
+<!ENTITY limitContentProcessOption.disabledDescription "Turinio procesų skaičiaus keitimas galimas tik daugiaprocesėje „&brandShortName;“.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Sužinokite kaip patikrinti, ar daugiaprocesė veiksena įjungta">
 <!ENTITY allowHWAccel.label              "Naudoti aparatinį spartinimą, jei tai įmanoma">
 <!ENTITY allowHWAccel.accesskey          "a">
