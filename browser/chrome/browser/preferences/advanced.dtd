@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Дополнительные процессы контента могут улучшить производительность при работе со множеством вкладок, но также повысят потребление памяти.">
 <!ENTITY limitContentProcessOption.accesskey   "в">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Изменение числа процессов контента возможно только в мультипроцессном &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Узнайте, как проверить, включена ли мультипроцессность">
 <!ENTITY allowHWAccel.label              "По возможности использовать аппаратное ускорение">
 <!ENTITY allowHWAccel.accesskey          "л">
