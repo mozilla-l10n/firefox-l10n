@@ -101,5 +101,7 @@
 <!ENTITY limitContentProcessOption.label "Numero massimo di processi per i contenuti">
 <!ENTITY limitContentProcessOption.description "Un numero maggiore di processi per la gestione dei contenuti può migliorare le prestazioni quando si utilizzano molte schede, comportando però un maggiore utilizzo di memoria.">
 <!ENTITY limitContentProcessOption.accesskey "o">
+<!ENTITY limitContentProcessOption.disabledDescription "È possibile modificare il numero di processi per i contenuti solo se è attiva la modalità multiprocesso di &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Scopri come verificare se la modalità multiprocesso è attiva">
 <!ENTITY allowHWAccel.label "Utilizza l’accelerazione hardware quando disponibile">
 <!ENTITY allowHWAccel.accesskey "h">
