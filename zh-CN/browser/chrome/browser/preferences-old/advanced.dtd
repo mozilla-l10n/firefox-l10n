@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "更多内容进程可以改善使用多个标签页时的性能，但也将消耗更多内存。">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "仅在多进程 &brandShortName; 时可修改进程数量。">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "了解如何检查多进程的启用状况">
 <!ENTITY allowHWAccel.label              "自动启用硬件加速">
 <!ENTITY allowHWAccel.accesskey          "r">
