@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Limit wopśimjeśowego procesa">
 <!ENTITY limitContentProcessOption.description "Wěcej wopśimjeśowych procesow móžo wugbaśe pólěpšowaś, gaž se někotare rejtarki wužywaju, buźo pak teke wěcej składa pśetrjebowaś.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription "Licba wopśimjeśowych procesow dajo se jano z wěcejprocesowym &brandShortName; změniś.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Zgóńśo, kak móžośo kontrolěrowaś, lěc wěcejprocesowa funkcija jo zmóžnjona">
 <!ENTITY allowHWAccel.label              "Hardwarowe póspěšenje wužywaś, jolic k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
