@@ -140,6 +140,8 @@
 <!ENTITY performance.label               "ประสิทธิภาพ">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "ใช้การตั้งค่าประสิทธิภาพที่แนะนำ">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "การตั้งค่าเหล่านี้ถูกปรับให้เหมาะเข้ากับฮาร์ดแวร์และระบบปฏิบัติการของคุณ">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "ภ">
 <!ENTITY performanceSettingsLearnMore.label
@@ -147,5 +149,6 @@
 <!ENTITY limitContentProcessOption.label "ขีดจำกัดโปรเซสเนื้อหา">
 <!ENTITY limitContentProcessOption.description
                                          "โปรเซสเนื้อหาที่เพิ่มขึ้นสามารถปรับปรุงประสิทธิภาพเมื่อใช้หลายแท็บ แต่จะใช้หน่วยความจำมากขึ้นเช่นกัน">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "ใช้การเร่งความเร็วด้วยฮาร์ดแวร์เมื่อใช้งานได้">
 <!ENTITY allowHWAccel.accesskey          "r">
