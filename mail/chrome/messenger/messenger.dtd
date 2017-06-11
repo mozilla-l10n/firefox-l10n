@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "W">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktualne konto">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
-
-
+<!ENTITY getNextNMsgCmd2.label "Přichodne powěsće wobstarać">
+<!ENTITY getNextNMsgCmd2.accesskey "b">
 <!ENTITY sendUnsentCmd.label "Njepósłane powěsće pósłać">
 <!ENTITY sendUnsentCmd.accesskey "n">
 <!ENTITY subscribeCmd.label "Abonować…">
