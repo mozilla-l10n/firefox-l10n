@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Contul actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
-<!ENTITY getNextNMsgCmd.label "Adu următoarele 500 de discuții">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+
+
 <!ENTITY sendUnsentCmd.label "Trimite mesajele neexpediate">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abonare…">
