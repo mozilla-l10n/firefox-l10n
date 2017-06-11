@@ -257,5 +257,6 @@
 
 <!ENTITY legacyWarning.description "¿Extrañas algo? Algunas extensiones ya no son soportadas por &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Mostrar extensiones heredadas">
+<!ENTITY legacyExtensions.title "Extensiones heredadas">
 <!ENTITY legacyExtensions.description "Estas extensiones no cumplen con los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
 <!ENTITY legacyExtensions.learnMore "Aprender más acerca de los cambios a los complementos">
