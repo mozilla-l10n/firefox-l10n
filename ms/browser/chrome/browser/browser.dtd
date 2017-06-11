@@ -943,7 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Muat turun versi baru &brandShorterName; dan kami akan bantu anda untuk memasangnya.">
 <!ENTITY updateManual.whatsnew.label "Lihat perkembangan terbaru.">
 <!ENTITY updateManual.header.message "&brandShorterName; tidak dapat dikemaskini ke versi terbaru.">
-<!ENTITY updateManual.acceptButton.label "Muat turun &brandShortName;">
+<!ENTITY updateManual.acceptButton.label "Muat turun &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "M">
 <!ENTITY updateManual.cancelButton.label "Bukan Sekarang">
 <!ENTITY updateManual.cancelButton.accesskey "B">
