@@ -377,8 +377,8 @@
 
 
 
-
-
+<!ENTITY killThreadMenu.label "Ағынды елемеу">
+<!ENTITY killThreadMenu.accesskey "м">
 
 
 
@@ -646,8 +646,8 @@
 
 <!ENTITY folderContextSendUnsentMessages.label "Жіберілмеген хабарламаларды жіберу">
 <!ENTITY folderContextSendUnsentMessages.accesskey "б">
-
-
+<!ENTITY folderContextUnsubscribe.label "Жазылудан бас тарту">
+<!ENTITY folderContextUnsubscribe.accesskey "б">
 
 
 
@@ -672,8 +672,8 @@
 <!ENTITY searchSubjectMenu.label "Тақырыбы">
 <!ENTITY searchFromMenu.label "Кімнен">
 
-
-
+<!ENTITY searchRecipient.label "Кімге немесе Көшірме">
+<!ENTITY searchSubjectOrRecipientMenu.label "Тақырыбы, Кімге немесе Көшірме">
 
 
 <!-- Thread Pane -->

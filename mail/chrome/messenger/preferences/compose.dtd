@@ -48,11 +48,11 @@
 
 
 
-
-
+<!ENTITY directories.label                     "Бумалар сервері:">
+<!ENTITY directories.accesskey                 "Б">
 <!ENTITY directoriesNone.label                 "Ешнәрсе">
-
-
+<!ENTITY editDirectories.label                 "Бумаларды түзету…">
+<!ENTITY editDirectories.accesskey             "е">
 
 
 <!ENTITY showAsDefaultLast.label               "Соңғы қолданылған бума">
