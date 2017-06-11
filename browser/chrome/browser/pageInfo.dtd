@@ -20,7 +20,7 @@
 <!ENTITY  generalType           "प्रकार:">
 <!ENTITY  generalMode           "रेन्डर मोड:">
 <!ENTITY  generalSize           "साइज:">
-<!ENTITY  generalReferrer       "सन्दर्भित युआरएल: ">
+<!ENTITY  generalReferrer       "सन्दर्भसित URL:">
 <!ENTITY  generalSource         "क्यास श्रोत:">
 <!ENTITY  generalModified       "परिमार्जित:">
 <!ENTITY  generalEncoding2      "टेक्स्ट इन्कोडिङ:">

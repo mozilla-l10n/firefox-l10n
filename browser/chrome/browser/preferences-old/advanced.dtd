@@ -112,8 +112,8 @@
 
 
 
-<!ENTITY enableOCSP.label                "प्रमाणपत्रको वर्तमान वैधानिकता बारे जान्न OSCP को प्रतिक्रिया दिने सर्भरहरूलाई सोध्नुहोस्">
-<!ENTITY enableOCSP.accesskey            "Q">
+
+
 <!ENTITY viewCerts.label                 "प्रमाणपत्रहरू हेर्नुहोस्">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "सुरक्षा यन्त्रहरू">
