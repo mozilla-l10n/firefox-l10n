@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "An Cuntas Reatha">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Faigh an 500 Teachtaireacht Nuachta Eile">
-<!ENTITY getNextNMsgCmd.accesskey "T">
+
+
 <!ENTITY sendUnsentCmd.label "Seol na teachtaireachtaí gan seoladh">
 <!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Liostáil…">
