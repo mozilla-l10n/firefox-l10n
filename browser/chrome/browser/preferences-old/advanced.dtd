@@ -99,5 +99,7 @@
 <!ENTITY limitContentProcessOption.label "Límite de procesos de contenido">
 <!ENTITY limitContentProcessOption.description "Más procesos de contenido pueden mejorar el rendimiento al usar múltiples pestañas, pero también usarán más memoria.">
 <!ENTITY limitContentProcessOption.accesskey "L">
+<!ENTITY limitContentProcessOption.disabledDescription "Modificar el número de procesos de contenido solo es posible con &brandShortName; multiproceso.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Sepa cómo comprobar si el multiproceso está activado">
 <!ENTITY allowHWAccel.label "Usar aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey "r">
