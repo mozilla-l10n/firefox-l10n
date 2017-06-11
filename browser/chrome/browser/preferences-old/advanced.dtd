@@ -131,5 +131,7 @@
 <!ENTITY limitContentProcessOption.label "Limita proceselor pentru conținut">
 <!ENTITY limitContentProcessOption.description "Procesele adiționale pentru conținut pot îmbunătăți performanța atunci când se folosesc mai multe file, însă va consuma și mai multă memorie.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+
+
 <!ENTITY allowHWAccel.label              "Folosește accelerarea hardware atunci când este disponibilă">
 <!ENTITY allowHWAccel.accesskey          "h">
