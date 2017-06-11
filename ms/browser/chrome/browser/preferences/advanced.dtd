@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Proses kandungan tambahan boleh memperbaiki prestasi apabila menggunakan berbilang tab, tetapi juga akan menggunakan lebih banyak memori.">
 <!ENTITY limitContentProcessOption.accesskey   "H">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Mengubah bilangan proses kandungan hanya boleh dilakukan dengan multi proses &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Ketahui cara untuk menyemak samada multi proses didayakan">
 <!ENTITY allowHWAccel.label              "Guna pecutan perkakasan bila tersedia">
 <!ENTITY allowHWAccel.accesskey          "r">
