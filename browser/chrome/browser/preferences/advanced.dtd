@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Extra inhoudsprocessen kunnen de prestaties bij het gebruik van meerdere tabbladen verbeteren, maar zullen ook meer geheugen gebruiken.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Aanpassen van het aantal inhoudsprocessen is alleen mogelijk met multiprocess-&brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Informatie over het controleren of multiprocess is ingeschakeld">
 <!ENTITY allowHWAccel.label              "Hardwareversnelling gebruiken wanneer beschikbaar">
 <!ENTITY allowHWAccel.accesskey          "v">
