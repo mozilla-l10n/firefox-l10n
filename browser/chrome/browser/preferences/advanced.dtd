@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Mjeza wobsahoweho procesa">
 <!ENTITY limitContentProcessOption.description "Wjace wobsahowych procesow móže wukon polěpšować, hdyž so wjacore rajtarki wužiwaja, budźe wšak tež wjace składa přetrjebować.">
 <!ENTITY limitContentProcessOption.accesskey   "M">
+<!ENTITY limitContentProcessOption.disabledDescription "Ličba wobsahowych procesow da so jenož z wjaceprocesowym &brandShortName; změnić.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Zhońće, kak móžeće kontrolować, hač wjaceprocesowa funkcija je zmóžnjena">
 <!ENTITY allowHWAccel.label              "Hardwarowe pospěšenje wužiwać, jeli k dispoziciji">
 <!ENTITY allowHWAccel.accesskey          "H">
