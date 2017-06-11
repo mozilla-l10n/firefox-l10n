@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Ytterlegere innhaldsprosessar kan forbetre ytinga når du brukar fleire faner, men vil også bruke meir minne.">
 <!ENTITY limitContentProcessOption.accesskey   "Y">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Endring av talet på innhaldsprosessar kan berre gjerast med multiprosess &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Lær deg korleis du kontrollerer om multiprosess er slått på">
 <!ENTITY allowHWAccel.label              "Bruk maskinvareakselerasjon når tilgjengeleg">
 <!ENTITY allowHWAccel.accesskey          "m">
