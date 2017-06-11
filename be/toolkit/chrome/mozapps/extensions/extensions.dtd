@@ -258,6 +258,8 @@
 <!ENTITY pluginDeprecation.description "Нешта адсутнічае? &brandShortName; больш не падтрымлівае некаторыя плагіны.">
 <!ENTITY pluginDeprecation.learnMore "Падрабязней.">
 
+<!ENTITY legacyWarning.description "Чагосьці не хапае? Некаторыя пашырэнні больш не падтрымліваюцца ў &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Паказаць састарэлыя пашырэнні">
 <!ENTITY legacyExtensions.title "Састарэлыя пашырэнні">
+<!ENTITY legacyExtensions.description "Гэтыя пашырэнні не адпавядаюць бягучым стандартам &brandShortName;, таму яны былі выключаны.">
 <!ENTITY legacyExtensions.learnMore "Даведацца аб зменах у дадатках">
