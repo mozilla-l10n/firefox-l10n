@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "P">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Cyfrif Cyfredol">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "y">
-<!ENTITY getNextNMsgCmd.label "Estyn y 500 Neges Newyddion Nesaf">
-<!ENTITY getNextNMsgCmd.accesskey "E">
+
+
 <!ENTITY sendUnsentCmd.label "Anfon Negeseuon heb eu Hanfon">
 <!ENTITY sendUnsentCmd.accesskey "H">
 <!ENTITY subscribeCmd.label "Tanysgrifio…">
