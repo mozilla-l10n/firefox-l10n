@@ -389,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Tambahkan ke Menu Overflow">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Pindahkan ke Bilah Alat">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "i">
@@ -399,7 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Pindahkan ke Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "i">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pasang ke Menu Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Lepaskan dari Menu Overflow">
 <!ENTITY customizeMenu.removeFromToolbar.label "Hapus dari Bilah Alat">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "H">
 <!ENTITY customizeMenu.removeFromMenu.label "Hapus dari Menu">
