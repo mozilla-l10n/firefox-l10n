@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Processos de conteúdo adicionais podem melhorar o desempenho ao usar várias abas, mas também usam mais memória.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "A modificação do número de processos de conteúdo só é possível com o processo múltiplo do &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Saiba como verificar se o processo múltiplo está habilitado">
 <!ENTITY allowHWAccel.label              "Usar aceleração de hardware quando disponível">
 <!ENTITY allowHWAccel.accesskey          "r">
