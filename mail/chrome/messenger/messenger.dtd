@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuellt konto">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "k">
-<!ENTITY getNextNMsgCmd.label "Hämta nästa 500 inlägg">
-<!ENTITY getNextNMsgCmd.accesskey "H">
+<!ENTITY getNextNMsgCmd2.label "Hämta nästa inlägg">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Skicka meddelande som inte skickats">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Prenumerera…">
