@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Дадатковая колькасць працэсаў можа павялічыць прадукцыйнасць пры адкрыцці некалькіх картак, але браўзер будзе спажываць больш памяці.">
 <!ENTITY limitContentProcessOption.accesskey   "а">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Змена колькасці працэсаў магчымая толькі ў шматпрацэснай версіі &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Даведайцеся, як праверыць, ці ўключана шматпрацэснасць">
 <!ENTITY allowHWAccel.label              "Выкарыстоўваць, калі можна, апаратнае паскарэнне">
 <!ENTITY allowHWAccel.accesskey          "н">

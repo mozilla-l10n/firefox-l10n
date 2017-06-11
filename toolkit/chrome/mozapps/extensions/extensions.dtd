@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Паказаць заўвагі пра выданне гэтага абнаўлення">
 <!ENTITY cmd.hideReleaseNotes.label           "Схаваць заўвагі пра выданне">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Схаваць заўвагі пра выданне гэтага абнаўлення">
+<!ENTITY cmd.findReplacement.label            "Знайсці замену">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,7 @@
 
 <!ENTITY pluginDeprecation.description "Нешта адсутнічае? &brandShortName; больш не падтрымлівае некаторыя плагіны.">
 <!ENTITY pluginDeprecation.learnMore "Падрабязней.">
+
+<!ENTITY legacyWarning.showLegacy "Паказаць састарэлыя пашырэнні">
+<!ENTITY legacyExtensions.title "Састарэлыя пашырэнні">
+<!ENTITY legacyExtensions.learnMore "Даведацца аб зменах у дадатках">
