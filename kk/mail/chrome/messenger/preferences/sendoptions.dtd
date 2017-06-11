@@ -6,7 +6,7 @@
 <!ENTITY sendMail.title               "Мәтін пішімі">
 <!ENTITY autoDowngrade.label          "Мүмкін болса, хабарламаларды ашық мәтін ретінде жіберу">
 <!ENTITY autoDowngrade.accesskey      "т">
-
+<!ENTITY sendMaildesc.label           "Хабарламаларды HTML пішімінде жіберу кезінде, егер бір немесе бірнеше алушы HTML қабылдай алмайтын ретінде тізілген болса:">
 <!ENTITY askMe.label                  "Не істеуді сұрау">
 <!ENTITY askMe.accesskey              "с">
 <!ENTITY convertPlain.label           "Хабарламаны ашық мәтінге түрлендіру">
@@ -17,6 +17,7 @@
 <!ENTITY sendBoth.accesskey           "е">
 
 
+<!ENTITY domaindesc.label             "Төменде тізілген домендердің біреуіне жататын адреске хабарламаны жіберген кезде, &brandShortName; хабарламаны автоматты түрде керек пішімде жібереді.">
 <!ENTITY HTMLTab.label                "HTML домендері">
 <!ENTITY HTMLTab.accesskey            "H">
 <!ENTITY PlainTextTab.label           "Ашық мәтінді домендер">
