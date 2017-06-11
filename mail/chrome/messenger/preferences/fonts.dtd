@@ -69,8 +69,8 @@
 <!-- Language settings -->
 
 <!ENTITY languagesTitle2.label            "Мәтін кодталуы">
+<!ENTITY composingDescription2.label      "Поштаны алу және жіберу үшін негізгі мәтін кодталуын орнатыңыз">
 
 
-
-
-
+<!ENTITY replyInDefaultCharset3.label     "Мүмкін болған кезде, жауап бергенде негізгі мәтін кодталуын қолдану">
+<!ENTITY replyInDefaultCharset3.accesskey "м">
