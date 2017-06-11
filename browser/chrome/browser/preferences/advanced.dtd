@@ -150,6 +150,8 @@
 <!ENTITY limitContentProcessOption.description
                                          "Proses konten tambahan dapat meningkatkan performa ketika menggunakan multipel tab, tetapi juga akan menggunakan lebih banyak memori.">
 <!ENTITY limitContentProcessOption.accesskey   "P">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Memodifikasi jumlah proses konten hanya bisa dengan multiproses &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Pelajari cara mengecek jika multiproses diaktifkan">
 <!ENTITY allowHWAccel.label              "Gunakan akselerasi perangkat keras jika tersedia">

@@ -400,15 +400,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Pindahkan ke Menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "i">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Pasang ke Menu Overflow">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pasangkan ke Menu Overflow">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Lepaskan dari Menu Overflow">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "L">
 <!ENTITY customizeMenu.removeFromToolbar.label "Hapus dari Bilah Alat">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "H">
 <!ENTITY customizeMenu.removeFromMenu.label "Hapus dari Menu">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "H">
 <!ENTITY customizeMenu.addMoreItems.label "Tambahkan Item Lainnya…">
-<!ENTITY customizeMenu.addMoreItems.accesskey "L">
+<!ENTITY customizeMenu.addMoreItems.accesskey "T">
 
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
@@ -426,7 +427,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore "Pelajari lebih lanjut…">
 <!ENTITY urlbar.searchSuggestionsNotification.learnMore.accesskey "l">
 <!ENTITY urlbar.searchSuggestionsNotification.disable "Tidak">
-<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
+<!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "t">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ya">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
