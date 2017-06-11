@@ -49,7 +49,7 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getAllNewMsgCmd.label "Obter todas as novas mensagens">
 <!ENTITY getAllNewMsgCmd2.key "d">
-<!ENTITY getNextNMsgCmd.label "Obter as próximas 500 mensagens">
+<!ENTITY getNextNMsgCmd.label "Obter as próximas 500 mensagens de notícias">
 <!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens não enviadas">
 <!ENTITY sendUnsentCmd.accesskey "d">
