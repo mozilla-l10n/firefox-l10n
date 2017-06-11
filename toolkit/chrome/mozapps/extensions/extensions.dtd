@@ -253,3 +253,9 @@
 
 <!ENTITY pluginDeprecation.description "Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Pelajari Lebih Lanjut.">
+
+<!ENTITY legacyWarning.description "Kehilangan sesuatu? Beberapa plugin tidak didukung lagi oleh &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Tampilkan ekstensi peninggalan">
+<!ENTITY legacyExtensions.title "Ekstensi Peninggalan">
+<!ENTITY legacyExtensions.description "Ekstensi ini tidak memenuhi standar &brandShortName; saat ini sehingga telah dinonaktifkan.">
+<!ENTITY legacyExtensions.learnMore "Pelajari tentang perubahan terhadap pengaya">
