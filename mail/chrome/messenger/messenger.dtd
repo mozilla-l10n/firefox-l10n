@@ -44,8 +44,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Cuenta actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Obtener 500 nuevos mensajes">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY getNextNMsgCmd2.label "Obtener los siguientes mensajes de noticias">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Procesar mensajes no enviados">
 <!ENTITY sendUnsentCmd.accesskey "o">
 <!ENTITY subscribeCmd.label "Suscribirse…">
