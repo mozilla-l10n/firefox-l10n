@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Další procesy pro obsah mohou zlepšit výkon s více otevřenými panely, ale spotřebují také více paměti.">
 <!ENTITY limitContentProcessOption.accesskey   "b">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Počet procesů pro obsah lze upravit pouze při použití multiprocesového režimu aplikace &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Podívejte se, jak stav multiprocesového režimu zkontrolovat">
 <!ENTITY allowHWAccel.label              "Použít hardwarovou akceleraci, je-li dostupná">
 <!ENTITY allowHWAccel.accesskey          "h">
