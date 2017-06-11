@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Տվյալ փոստարկղից">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Ստանալ հաջորդ 500 նամակները">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+
+
 <!ENTITY sendUnsentCmd.label "Ուղարկել չուղարկված նամակները">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Բաժանորդագրվել...">
