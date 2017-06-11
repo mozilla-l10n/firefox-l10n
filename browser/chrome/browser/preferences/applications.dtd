@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Programmer">
-
+<!ENTITY  applications.description "Vælg, hvordan &brandShortName; håndterer filer, du henter fra nettet, og de programmer, du bruger, når du browser.">
 
 <!ENTITY  typeColumn.label        "Indholdstype">
 <!ENTITY  typeColumn.accesskey    "I">
