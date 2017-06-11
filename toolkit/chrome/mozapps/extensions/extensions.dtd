@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Vis versjonsnotatet for denne oppdateringen">
 <!ENTITY cmd.hideReleaseNotes.label           "Skjul versjonsnotat">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Skjuler versjonsnotatet for denne versjonen">
+<!ENTITY cmd.findReplacement.label            "Finn en erstatning">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,7 @@
 
 <!ENTITY pluginDeprecation.description "Savner du noe? Noen programtillegg støttes ikke lenger av &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Les mer">
+
+<!ENTITY legacyWarning.showLegacy "Vis eldre utvidelser">
+<!ENTITY legacyExtensions.title "Eldre utvidelser">
+<!ENTITY legacyExtensions.learnMore "Les mer om endringer av utvidelser">
