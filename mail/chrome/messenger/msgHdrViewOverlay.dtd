@@ -5,36 +5,36 @@
 <!ENTITY toField4.label "Кімге">
 <!ENTITY fromField4.label "Кімнен">
 <!ENTITY senderField4.label "Жiберушi">
-
+<!ENTITY author.label "Авторы">
 <!ENTITY organizationField4.label "Ұйым">
 <!ENTITY replyToField4.label "Кімге жауап беру">
 
 <!ENTITY subjectField4.label "Тақырыбы">
-
+<!ENTITY ccField4.label "Көшірме">
 <!ENTITY bccField4.label "Жасырын көшірме">
 <!ENTITY newsgroupsField4.label "Жаңалықтар топтары">
-
+<!ENTITY followupToField4.label "Жаңалықтар тобына жауап жазу">
 <!ENTITY tagsHdr4.label "Тегтер">
-
-
+<!ENTITY dateField4.label "Күні">
+<!ENTITY userAgentField4.label "Пайдаланушы агенті">
 <!ENTITY referencesField4.label "Сiлтемелер">
-
+<!ENTITY messageIdField4.label "Идентификатор">
 <!ENTITY inReplyToField4.label "Келесіге жауап ретінде">
 <!ENTITY originalWebsite4.label "Веб сайты">
 
 <!ENTITY hdrArchiveButton1.label "Архивтеу">
 <!ENTITY hdrArchiveButton1.tooltip "Бұл хабарламаны архивтеу">
-
-
-
+<!ENTITY hdrOpenConversationButton1.label "Сөйлесу">
+<!ENTITY hdrOpenConversationButton1.tooltip "Бұл хабарламаның сөйлесуін көрсету">
+<!ENTITY hdrSmartReplyButton1.label "Ақылды жауап беру">
 <!ENTITY hdrReplyButton1.label "Жауап беру">
 <!ENTITY hdrReplyButton2.tooltip "Бұл хабарламаның жіберушісіне жауап беру">
 <!ENTITY hdrReplyAllButton1.label "Барлығына жауап беру">
 <!ENTITY hdrReplyAllButton1.tooltip "Жіберуші және барлық алушыларға жауап беру">
 <!ENTITY hdrReplyListButton1.label "Тізімге жауап беру">
 <!ENTITY hdrReplyListButton1.tooltip "Эл. поштаны тарату тізіміне жауап беру">
-
-
+<!ENTITY hdrFollowupButton1.label "Жаңалықтар тобына жауап жазу">
+<!ENTITY hdrFollowupButton1.tooltip "Жаңалықтар тобына жауап жазу">
 <!ENTITY hdrMenuForwardButton.label "Қалайша қайта бағдарлау">
 <!ENTITY hdrForwardButton1.label "Қайта бағдарлау">
 <!ENTITY hdrForwardButton1.tooltip "Бұл хабарламаны қайта бағдарлау">

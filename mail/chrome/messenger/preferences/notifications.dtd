@@ -6,12 +6,12 @@
 
 
 <!ENTITY alertCustomization.intro         "Ескерту хабарламасында қандай өрістерді қолдануды таңдау:">
-
-
+<!ENTITY previewText.label                "Хабарламаның алдын-ала қарау мәтіні">
+<!ENTITY previewText.accesskey            "Х">
 <!ENTITY subject.label                    "Тақырыбы">
 <!ENTITY subject.accesskey                "Т">
-
-
+<!ENTITY sender.label                     "Жіберуші">
+<!ENTITY sender.accesskey                 "е">
 <!-- LOCALIZATION NOTE: totalOpenTimeBefore.label is displayed first, then
 there's a field where the user can enter a number, and totalOpenTimeEnd.label
 is displayed at the end of the line. The translations of the

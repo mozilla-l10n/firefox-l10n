@@ -17,9 +17,11 @@ sentence. -->
 <!ENTITY  reportIdleAfter.accesskey     "М">
 <!ENTITY  idleTime                      "минут белсенді еместік">
 
+<!ENTITY  andSetStatusToAway.label      "және менің қалып-күйімді Кетіп қалғанға орнату, мына хабарламамен:">
+<!ENTITY  andSetStatusToAway.accesskey  "е">
 
-
-
+<!ENTITY  sendTyping.label              "Сөйлесулерде теру туралы ескертуді жіберу">
+<!ENTITY  sendTyping.accesskey          "т">
 
 <!ENTITY  chatNotifications.label             "Сізге арналған хабарламалар келген кезде:">
 <!ENTITY  desktopChatNotifications.label      "Ескертуді көрсету:">

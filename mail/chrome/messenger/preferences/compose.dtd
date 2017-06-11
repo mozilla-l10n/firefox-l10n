@@ -10,10 +10,10 @@
 
 <!ENTITY forwardMsg.label                     "Хабарламаларды қайта бағдарлау:">
 <!ENTITY forwardMsg.accesskey                 "й">
-
+<!ENTITY inline.label                         "Хат бетінде">
 <!ENTITY asAttachment.label                   "Салыным ретінде">
-
-
+<!ENTITY addExtension.label                   "файл атына кеңейтуді қосу">
+<!ENTITY addExtension.accesskey               "е">
 
 <!ENTITY htmlComposeHeader.label              "HTML">
 <!ENTITY font.label                           "Қаріп:">

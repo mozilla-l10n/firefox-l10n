@@ -441,8 +441,8 @@
 <!ENTITY openFeedWebPage.accesskey "В">
 <!ENTITY openFeedSummary.label "Жинақы ақпарат ретінде ашу">
 <!ENTITY openFeedSummary.accesskey "и">
-
-
+<!ENTITY openFeedWebPageInMP.label "Хабарламаны қарау панелінде веб парағы және жинақы ақпарат арасында ауысу">
+<!ENTITY openFeedWebPageInMP.accesskey "ы">
 <!-- Windows Menu -->
 
 <!ENTITY windowMenu.label "Терезе">
@@ -492,6 +492,7 @@
      Belongs to accountManagerCmd.label, which is placed under the Edit menu
      on Unix systems
   -->
+<!ENTITY accountManagerCmdUnix2.accesskey "а">
 <!-- Developer Tools Submenu -->
 
 <!ENTITY devtoolsMenu.label "Өндіруші саймандары">
@@ -499,13 +500,13 @@
 <!ENTITY devToolboxCmd.label "Өндірушінің саймандар панелі">
 <!ENTITY devToolboxCmd.accesskey "п">
 <!ENTITY devToolboxCmd.commandkey "i">
-
-
-
-
+<!ENTITY addonDebugCmd.label "Қосымшалар жөндеуіші">
+<!ENTITY addonDebugCmd.accesskey "ы">
+<!ENTITY tabsDebugCmd.label "Құраманың фреймі жөндеуіші">
+<!ENTITY tabsDebugCmd.accesskey "а">
 <!ENTITY errorConsoleCmd.label "Қателер консолі">
 <!ENTITY errorConsoleCmd.accesskey "к">
-
+<!ENTITY errorConsoleCmd.commandkey "j">
 <!ENTITY scratchpadCmd.label "Қарапайым JavaScript түзетушісі">
 <!ENTITY scratchpadCmd.accesskey "й">
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
@@ -605,10 +606,10 @@
 
 <!ENTITY phishingOptionIgnore.label "Бұл хабарлама үшін ескертуді елемеу">
 <!ENTITY phishingOptionIgnore.accesskey "м">
-
-
-
-
+<!ENTITY phishingOptionSettings.label "Алаяқты хабарламаларды анықтау баптауларын түзету…">
+<!ENTITY phishingOptionSettings.accesskey "з">
+<!ENTITY phishingOptionSettingsUnix.label "Алаяқты хабарламаларды анықтау баптауларын түзету…">
+<!ENTITY phishingOptionSettingsUnix.accesskey "з">
 <!-- AppMenu Popup -->
 
 <!ENTITY appmenuNewMsgCmd.label "Жаңа хабарлама">
@@ -900,8 +901,8 @@
 <!ENTITY CopyNewsgroupURL.accesskey "л">
 <!ENTITY CreateFilterFrom.label "Алушы бойынша сүзгіні жасау…">
 <!ENTITY CreateFilterFrom.accesskey "с">
-
-
+<!ENTITY reportPhishingURL.label "Алаяқты хат жөнінде хабарлау">
+<!ENTITY reportPhishingURL.accesskey "б">
 <!-- Spell checker context menu items -->
 
 <!ENTITY spellAddDictionaries.label "Сөздіктерді қосу…">
