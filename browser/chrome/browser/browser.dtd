@@ -213,6 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvorí panel správ uloženia hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať upozornenia">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný vzdialene">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
@@ -936,12 +937,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Prevziať novú verziu aplikácie &brandShorterName;">
 
+<!ENTITY updateRestart.message "Po rýchlom reštarte obnoví aplikácia &brandShorterName; všetky vaše otvorené karty a okná.">
 <!ENTITY updateRestart.header.message2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Reštartovať a obnoviť">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Teraz nie">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
+<!ENTITY updateRestart.panelUI.label2 "Reštartovať a aktualizovať aplikáciu &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Akcie stránky">
 
 <!ENTITY sendToDevice.label "Odoslať do zariadenia…">
 <!ENTITY sendToDevice.viewTitle "Odoslať do zariadenia">
