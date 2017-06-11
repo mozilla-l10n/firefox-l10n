@@ -6,8 +6,8 @@
 
 
 
-
-
+<!ENTITY customColorsRadio.label "Таңдауыңызша түстерді қолдану:">
+<!ENTITY customColorsRadio.accessKey "Т">
 
 
 <!ENTITY normalText.label "Кәдімгі мәтін">

@@ -699,6 +699,8 @@
 <!ENTITY idColumn.label "Алынған реті">
 <!ENTITY attachmentColumn.label "Салынымдар">
 <!-- Thread Pane Tooltips -->
+
+<!ENTITY columnChooser2.tooltip "Көрсетілетін бағандарды таңдаңыз">
 <!ENTITY threadColumn2.tooltip "Хабарлама ағындарын көрсету">
 <!ENTITY fromColumn2.tooltip "Жіберуші бойынша сұрыптау">
 <!ENTITY recipientColumn2.tooltip "Алушы бойынша сұрыптау">

@@ -5,14 +5,14 @@
 
 
 
-
-
+<!ENTITY checkwordButton.label "Сөзді тексеру">
+<!ENTITY checkwordButton.accessKey "к">
 
 
 <!ENTITY ignoreButton.label "Елемеу">
 <!ENTITY ignoreButton.accessKey "Е">
-
-
+<!ENTITY ignoreAllButton.label "Барлығын елемеу">
+<!ENTITY ignoreAllButton.accessKey "м">
 
 
 
