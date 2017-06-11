@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "t">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Tõmba selle konto uued kirjad">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "m">
-<!ENTITY getNextNMsgCmd.label "Tõmba järgmised 500 uudistegrupi kirja">
-<!ENTITY getNextNMsgCmd.accesskey "m">
+<!ENTITY getNextNMsgCmd2.label "Tõmba järgmised uudistegrupi kirjad">
+<!ENTITY getNextNMsgCmd2.accesskey "u">
 <!ENTITY sendUnsentCmd.label "Saada saatmata kirjad">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Telli…">
