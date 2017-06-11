@@ -49,8 +49,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Huidige rekening">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
-<!ENTITY getNextNMsgCmd.label "Kry volgende 500 nuwe boodskappe">
-<!ENTITY getNextNMsgCmd.accesskey "y">
+
+
 <!ENTITY sendUnsentCmd.label "Stuur ongestuurde boodskappe">
 <!ENTITY sendUnsentCmd.accesskey "u">
 <!ENTITY subscribeCmd.label "Inteken…">
