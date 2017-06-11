@@ -14,7 +14,7 @@
 <!ENTITY email.label "E-posti aadress:">
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Vastuse aadress:">
-<!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.accesskey "V">
 <!ENTITY replyTo.placeholder "Saajad vastavad sellele teisele aadressile">
 <!ENTITY organization.label "Organisatsioon:">
 <!ENTITY organization.accesskey "O">
@@ -41,3 +41,5 @@
 <!ENTITY smtpName.accesskey "u">
 <!ENTITY smtpDefaultServer.label "kasutatakse vaikimisi serverit">
 
+<!ENTITY smtpServerEdit.label "Redigeeri SMTP-serverit…">
+<!ENTITY smtpServerEdit.accesskey "P">
