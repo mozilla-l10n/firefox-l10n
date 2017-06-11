@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Құрама процестерінің шегі">
 <!ENTITY limitContentProcessOption.description "Қосымша құрама процестері бірнеше беттерді қолдану кезінде өнімділікті арттыра алады, бірақ, нәтижесінде көбірек жады қолданылады.">
 <!ENTITY limitContentProcessOption.accesskey   "ш">
+<!ENTITY limitContentProcessOption.disabledDescription "Процесстер санын түзету тек көппроцесстік &brandShortName; үшін мүмкін.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Көппроцесстік іске қосылғанын қалай білуге болады">
 <!ENTITY allowHWAccel.label              "Қолжетерлік болса құрылғылық үдетуді қолдану">
 <!ENTITY allowHWAccel.accesskey          "д">
