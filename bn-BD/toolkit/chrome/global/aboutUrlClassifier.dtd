@@ -8,6 +8,7 @@
 
 
 
+<!ENTITY aboutUrlClassifier.cacheTitle                  "ক্যাশে">
 
 
 
@@ -19,12 +20,11 @@
 
 
 
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.debugTitle                  "ডিবাগ">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "লগ মডিউল সেট করুন">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "লগ ফাইল সেট করুন">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS লগ সেট করুন">
+<!ENTITY aboutUrlClassifier.debugSBModules              "নিরাপদ ব্রাউজিং লগ মডিউল">
+<!ENTITY aboutUrlClassifier.debugModules                "বর্তমান লগ মডিউল">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "নিরাপদ ব্রাউজিং JS লগ">
+<!ENTITY aboutUrlClassifier.debugFile                   "বর্তমান লগ ফাইল">
