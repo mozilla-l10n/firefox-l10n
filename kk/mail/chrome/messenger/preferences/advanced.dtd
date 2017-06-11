@@ -109,9 +109,9 @@
 
 <!ENTITY certSelection.description       "Егерде сервер менің жеке сертификатымды сұраса:">
 <!ENTITY certs.auto                      "Мені сұрамай-ақ жіберу">
-
+<!ENTITY certs.auto.accesskey            "с">
 <!ENTITY certs.ask                       "Әрбір ретте менен сұрау">
-
+<!ENTITY certs.ask.accesskey             "а">
 <!ENTITY enableOCSP.label                "OCSP жауап беруші серверлерін сертификаттардың ағымдағы дұрыстығы жөнінде сұрау">
 <!ENTITY enableOCSP.accesskey            "с">
 

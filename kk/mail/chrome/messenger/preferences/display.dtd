@@ -49,8 +49,8 @@
 
 <!ENTITY reading.caption                  "Оқу">
 <!ENTITY display.caption                  "Көрсету">
-
-
+<!ENTITY showCondensedAddresses.label     "Адрестік кітапшамдағы адамдар үшін тек атын көрсету">
+<!ENTITY showCondensedAddresses.accesskey "с">
 
 <!ENTITY autoMarkAsRead.label             "Хабарламаларды оқылған ретінде автобелгілеу">
 <!ENTITY autoMarkAsRead.accesskey         "а">
@@ -59,7 +59,8 @@
 <!-- LOCALIZATION NOTE (markAsReadDelay.label): This will concatenate to
      "After displaying for [___] seconds",
      using (markAsReadDelay.label) and a number (secondsLabel.label). -->
-
+<!ENTITY markAsReadDelay.label            "Келесі уақыт бойы көрген соң">
+<!ENTITY markAsReadDelay.accesskey        "р">
 <!ENTITY secondsLabel.label               "секунд">
 <!ENTITY openMsgIn.label                  "Хабарламаларды қайда ашу:">
 <!ENTITY openMsgInNewTab.label            "Жаңа бет">

@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY safeModeDialog.title             "&brandShortName; қауіпсіз режимі">
-
+<!ENTITY window.width                     "42em">
 
 <!ENTITY safeModeDescription.label        "&brandShortName; қауіпсіз режимде орындалуда, сондықтан сіздің баптауларыңыз, темалар және кеңейтулеріңіз уақытша сөндірілген.">
 <!ENTITY safeModeDescription2.label       "Бұл өзгерістердің кейбіреулерін немесе барлығын тұрақты қыла аласыз:">

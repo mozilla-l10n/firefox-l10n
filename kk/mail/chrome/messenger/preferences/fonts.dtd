@@ -8,8 +8,8 @@
 <!ENTITY  language.accesskey                      "п">
 
 <!ENTITY  size.label                              "Өлшемі:">
-
-
+<!ENTITY  sizeProportional.accesskey              "е">
+<!ENTITY  sizeMonospace.accesskey                 "м">
 
 <!ENTITY  proportional.label                      "Пропорционалды:">
 <!ENTITY  proportional.accesskey                  "П">
@@ -64,7 +64,7 @@
 
 <!ENTITY  fontControl.label                       "Қаріпті басқару">
 <!ENTITY  useFixedWidthForPlainText.label         "Ашық мәтін хабарламалары үшін ені біркелкі қаріпті қолдану">
-
+<!ENTITY  fixedWidth.accesskey                    "к">
 <!ENTITY  useDocumentFonts.label                  "Хабарламаларға басқа қаріптерді қолдануды рұқсат ету">
 <!ENTITY  useDocumentFonts.accesskey              "а">
 <!-- Language settings -->

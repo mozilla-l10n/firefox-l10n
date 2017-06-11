@@ -4,17 +4,19 @@
 
 <!ENTITY offlineDialog.title "Желіден тыс режимінің баптаулары">
 
-
-
-
-
-
-
+<!ENTITY checkAutoDetect.label "Табылған байланысу күйін автоқолдану">
+<!ENTITY checkAutoDetect.accesskey "б">
+<!ENTITY titleStartUp "Іске қосылғандағы қолмен көрсетілген күйі:">
+<!ENTITY radioRememberPrevState.label "Алдыңғы онлайн күйін есте сақтау">
+<!ENTITY radioRememberPrevState.accesskey "с">
+<!ENTITY radioAskState.label "Мені онлайн күйі жөнінде сұрау">
+<!ENTITY radioAskState.accesskey "с">
 <!ENTITY radioAlwaysOnlineState.label "Желіде">
 <!ENTITY radioAlwaysOnlineState.accesskey "л">
 <!ENTITY radioAlwaysOffline.label "Желіде емес">
 <!ENTITY radioAlwaysOffline.accesskey "м">
 
+<!ENTITY textGoingOnline "Желіге байланысқан режимге өткен кезде жіберілмеген хабарламаларды жіберу керек пе?">
 <!ENTITY radioAutoSend.label "Иә">
 <!ENTITY radioAutoSend.accesskey "И">
 <!ENTITY radioNotSend.label "Жоқ">

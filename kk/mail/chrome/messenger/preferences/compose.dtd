@@ -43,23 +43,26 @@
 <!ENTITY autoSave.accesskey                   "А">
 <!ENTITY autoSaveEnd.label                    "минут">
 
-
+<!ENTITY emailCollectionPicker.label           "Шығыс пошта адрестерін адрестік кітапшаға автоқосу:">
+<!ENTITY emailCollectionPicker.accesskey       "а">
 <!ENTITY addressingTitle.label                 "Адресті автотолықтыру">
-
-
-
+<!ENTITY autocompleteText.label                "Адресті енгізу кезінде, сәйкес жазбаларды қайда іздеу:">
+<!ENTITY addressingEnable.label                "Жергілікті адрестік кітапшалары">
+<!ENTITY addressingEnable.accesskey            "л">
 <!ENTITY directories.label                     "Бумалар сервері:">
 <!ENTITY directories.accesskey                 "Б">
 <!ENTITY directoriesNone.label                 "Ешнәрсе">
 <!ENTITY editDirectories.label                 "Бумаларды түзету…">
 <!ENTITY editDirectories.accesskey             "е">
-
-
+<!ENTITY showAsDefault.label                   "Адрестік кітапша терезесінде іске қосылғандағы бастапқы бума:">
+<!ENTITY showAsDefault.accesskey               "с">
 <!ENTITY showAsDefaultLast.label               "Соңғы қолданылған бума">
 
+<!ENTITY sendOptionsDescription.label          "Мәтіндік пішім">
 <!ENTITY sendOptions.label                     "Жіберу баптаулары…">
 <!ENTITY sendOptions.accesskey                 "б">
 
-
+<!ENTITY attachmentReminder.label              "Ұмытылған салынымдарға тексеру">
+<!ENTITY attachmentReminder.accesskey          "м">
 <!ENTITY attachmentReminderOptions.label       "Кілт сөздер…">
 <!ENTITY attachmentReminderOptions.accesskey   "К">
