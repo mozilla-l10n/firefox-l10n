@@ -177,7 +177,7 @@
 <!ENTITY sortByReceivedCmd.accesskey "н">
 <!ENTITY sortByStarCmd.label "Жұлдызша">
 <!ENTITY sortByStarCmd.accesskey "Ж">
-<!ENTITY sortByAttachmentsCmd.label "Тіркемелер">
+<!ENTITY sortByAttachmentsCmd.label "Салынымдар">
 <!ENTITY sortByAttachmentsCmd.accesskey "м">
 <!ENTITY sortByPriorityCmd.label "Приоритеті">
 <!ENTITY sortByPriorityCmd.accesskey "П">
@@ -352,8 +352,8 @@
 <!ENTITY replyToListMsgCmd.label "Тізімге жауап беру">
 <!ENTITY replyToListMsgCmd.accesskey "Т">
 <!ENTITY replyToListMsgCmd.key "l">
-<!ENTITY forwardMsgCmd.label "Алға">
-<!ENTITY forwardMsgCmd.accesskey "л">
+<!ENTITY forwardMsgCmd.label "Қайта бағдарлау">
+<!ENTITY forwardMsgCmd.accesskey "й">
 <!ENTITY forwardMsgCmd.key "l">
 <!ENTITY forwardAsMenu.label "Қалайша қайта бағдарлау">
 <!ENTITY forwardAsMenu.accesskey "й">
@@ -433,7 +433,7 @@
 <!ENTITY openConversationCmd.label "Сөйлесуде ашу">
 <!ENTITY openConversationCmd.accesskey "й">
 <!ENTITY openConversationCmd.key "o">
-<!ENTITY openAttachmentListCmd.label "Тіркемелер">
+<!ENTITY openAttachmentListCmd.label "Салынымдар">
 <!ENTITY openAttachmentListCmd.accesskey "м">
 <!ENTITY openFeedMessage1.label "Жаңалықтар таспасынан хабарламаны ашу кезінде">
 <!ENTITY openFeedMessage1.accesskey "ш">
@@ -450,11 +450,11 @@
 
 <!ENTITY tasksMenu.label "Саймандар">
 <!ENTITY tasksMenu.accesskey "С">
-
-
+<!ENTITY messengerCmd.label "Пошта және жаңалықтар топтары">
+<!ENTITY messengerCmd.accesskey "П">
 <!ENTITY addressBookCmd.label "Адрестік кітапша">
 <!ENTITY addressBookCmd.accesskey "к">
-
+<!ENTITY addressBookCmd.key "B">
 <!ENTITY addons.label "Қосымшалар">
 <!ENTITY addons.accesskey "с">
 <!ENTITY activitymanager.label "Белсенділік басқарушысы">
@@ -478,10 +478,10 @@
 <!ENTITY filtersApplyToSelection.accesskey "е">
 <!ENTITY filtersApplyToMessage.label "Хабарламаларға сүзгілерді жөнелту">
 <!ENTITY filtersApplyToMessage.accesskey "е">
-
-
-
-
+<!ENTITY runJunkControls.label "Бумаға антиспам сүзгілерін жөнелту">
+<!ENTITY runJunkControls.accesskey "с">
+<!ENTITY deleteJunk.label "Бумадан спам ретінде белгіленгендерді өшіру">
+<!ENTITY deleteJunk.accesskey "ш">
 <!ENTITY importCmd.label "Импорттау…">
 <!ENTITY importCmd.accesskey "м">
 <!ENTITY clearRecentHistory.label "Жуырдағы тарихты өшіру…">
@@ -611,7 +611,7 @@
 
 <!-- AppMenu Popup -->
 
-<!ENTITY appmenuNewMsgCmd.label "Жаңа хат">
+<!ENTITY appmenuNewMsgCmd.label "Жаңа хабарлама">
 <!ENTITY appmenuNewContactCmd.label "Адрестік кітапша контакты…">
 <!ENTITY appmenuEditMenu.label "Түзету">
 <!ENTITY appmenuToolbarLayout.label "Панельдер орналасуы…">
@@ -650,8 +650,8 @@
 <!ENTITY folderContextCompact.accesskey "Ы">
 <!ENTITY folderContextEmptyTrash.label "Қоқыс шелегін тазарту">
 <!ENTITY folderContextEmptyTrash.accesskey "а">
-
-
+<!ENTITY folderContextEmptyJunk.label "Спам бумасын өшіру">
+<!ENTITY folderContextEmptyJunk.accesskey "С">
 <!ENTITY folderContextSendUnsentMessages.label "Жіберілмеген хабарламаларды жіберу">
 <!ENTITY folderContextSendUnsentMessages.accesskey "б">
 <!ENTITY folderContextUnsubscribe.label "Жазылудан бас тарту">
@@ -758,8 +758,8 @@
 <!ENTITY contextReplyAll.accesskey "а">
 <!ENTITY contextReplyList.label "Тізімге жауап беру">
 <!ENTITY contextReplyList.accesskey "Т">
-<!ENTITY contextForward.label "Алға">
-<!ENTITY contextForward.accesskey "л">
+<!ENTITY contextForward.label "Қайта бағдарлау">
+<!ENTITY contextForward.accesskey "й">
 <!ENTITY contextForwardAsMenu.label "Қалайша қайта бағдарлау">
 <!ENTITY contextForwardAsMenu.accesskey "а">
 <!ENTITY contextForwardAsInline.label "Хат бетінде">
@@ -805,6 +805,7 @@
      folder(s). The sub-menu items indicate whether we want to apply it to just
      a folder or also its children.
   -->
+<!ENTITY columnPicker.applyTo.label "Бағандарды іске асыру…">
 <!-- LOCALIZATION NOTE (columnPicker.applyToFolder.label):
      This option in the thread pane column picker is found on a sub-menu beneath
      the "columnPicker.applyTo.label" alongside
@@ -822,6 +823,7 @@
      of its descendents. The user selects the folder using the same widget as the
      move to/copy to mechanism (via a series of popups).
   -->
+<!ENTITY columnPicker.applyToFolderAndChildren.label "Бума және оның ішкі бумалары…">
 <!-- LOCALIZATION NOTE (columnPicker.thisFolder.label):
      This is used in the folder selection widget for the
      "columnPicker.applyToFolder.label" and
@@ -850,6 +852,8 @@
      This is actually the key used for the global message search box; we have
      not changed
   -->
+
+<!ENTITY quickSearchCmd.key "k">
 <!-- LOCALIZATION NOTE (search.label.base1):
       This is the base of the empty text for the global search box. We replace
      #1 with the contents of the appropriate search.keyLabel.* value for the
@@ -890,10 +894,10 @@
 <!ENTITY CopyEmailAddress.accesskey "к">
 <!ENTITY CopyNameAndEmailAddress.label "Атын және эл. пошта адресін көшіріп алу">
 <!ENTITY CopyNameAndEmailAddress.accesskey "н">
-
-
-
-
+<!ENTITY CopyNewsgroupName.label "Жаңалықтар тобының атын көшіріп алу">
+<!ENTITY CopyNewsgroupName.accesskey "к">
+<!ENTITY CopyNewsgroupURL.label "Жаңалықтар тобының сілтемесін көшіріп алу">
+<!ENTITY CopyNewsgroupURL.accesskey "л">
 <!ENTITY CreateFilterFrom.label "Алушы бойынша сүзгіні жасау…">
 <!ENTITY CreateFilterFrom.accesskey "с">
 
