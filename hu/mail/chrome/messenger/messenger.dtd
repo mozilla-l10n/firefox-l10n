@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "M">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuális postafiók">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
-<!ENTITY getNextNMsgCmd.label "A következő 500 üzenet letöltése">
-<!ENTITY getNextNMsgCmd.accesskey "v">
+
+
 <!ENTITY sendUnsentCmd.label "Postázandó üzenetek elküldése">
 <!ENTITY sendUnsentCmd.accesskey "P">
 <!ENTITY subscribeCmd.label "Feliratkozás…">
