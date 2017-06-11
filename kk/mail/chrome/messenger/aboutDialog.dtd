@@ -43,7 +43,7 @@
 <!ENTITY helpus.middle              " немесе ">
 <!-- LOCALIZATION NOTE (helpus.getInvolvedLink): This is a link title that links to http://www.mozilla.org/contribute/. -->
 <!ENTITY helpus.getInvolvedLink     "үлес қосуға болады!">
-<!ENTITY helpus.end                 "">
+<!ENTITY helpus.end                 "‌">
 
 <!ENTITY releaseNotes.link          "Шығарылым ескертпесі">
 <!-- LOCALIZATION NOTE (bottomLinks.license): This is a link title that links to about:license. -->
