@@ -92,12 +92,12 @@
  -->
 <!ENTITY updateApplication.version.pre   "Version ">
 <!ENTITY updateApplication.version.post  ".">
-<!ENTITY updateApplication.description   "Tillad &brandShortName; at">
+<!ENTITY updateApplication.description   "&brandShortName; skal">
 <!ENTITY updateAuto2.label                "installere opdateringer automatisk (anbefalet, forbedrer sikkerheden)">
 <!ENTITY updateAuto2.accesskey            "A">
-<!ENTITY updateCheckChoose2.label         "søge efter opdateringer, men lad mig vælge om de skal installeres">
+<!ENTITY updateCheckChoose2.label         "søge efter opdateringer, men lad mig vælge, om de skal installeres">
 <!ENTITY updateCheckChoose2.accesskey     "S">
-<!ENTITY updateManual2.label              "Søg aldrig efter opdateringer (frarådes)">
+<!ENTITY updateManual2.label              "aldrig søge efter opdateringer (frarådes)">
 <!ENTITY updateManual2.accesskey          "N">
 
 <!ENTITY updateHistory2.label             "Vis opdateringshistorik…">

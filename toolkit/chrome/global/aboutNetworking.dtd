@@ -43,6 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-adresser">
 <!ENTITY aboutNetworking.rcwn                  "RCWN-statistik">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN-status">
-<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
-<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
-<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Antal gange, cachen vandt">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Antal gange, netværket vandt">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antal netværk-requests">
