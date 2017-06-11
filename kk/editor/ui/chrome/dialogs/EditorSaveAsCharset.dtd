@@ -8,8 +8,8 @@
 
 
 <!ENTITY windowTitle2.label "Сақтау және мәтін &amp;кодталуын өзгерту">
-
+<!ENTITY documentTitleTitle.label "Беттің атауы">
 <!ENTITY documentCharsetTitle2.label "Мәтін кодталуы">
 <!ENTITY documentCharsetDesc2.label "Құжат қай кодталуда сақталатынын таңдаңыз:">
-
+<!ENTITY documentExportToText.label "Мәтінге экспорттау">
 

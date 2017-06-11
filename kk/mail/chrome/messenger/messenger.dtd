@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "а">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ағымдағы тіркелгі">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "ы">
-
-
+<!ENTITY getNextNMsgCmd2.label "Келесі жаңалықтар хабарламаларын алу">
+<!ENTITY getNextNMsgCmd2.accesskey "у">
 <!ENTITY sendUnsentCmd.label "Жіберілмеген хабарламаларды жіберу">
 <!ENTITY sendUnsentCmd.accesskey "б">
 <!ENTITY subscribeCmd.label "Жазылу…">
@@ -380,11 +380,11 @@
 <!ENTITY killThreadMenu.label "Ағынды елемеу">
 <!ENTITY killThreadMenu.accesskey "м">
 
+<!ENTITY killSubthreadMenu.label "Ішкі ағынды елемеу">
+<!ENTITY killSubthreadMenu.accesskey "ш">
 
-
-
-
-
+<!ENTITY watchThreadMenu.label "Ағынды бақылау">
+<!ENTITY watchThreadMenu.accesskey "ы">
 
 <!ENTITY tagMenu.label "Тег">
 <!ENTITY tagMenu.accesskey "г">
@@ -694,7 +694,7 @@
 <!ENTITY totalColumn.label "Жалпы">
 <!ENTITY readColumn.label "Оқу">
 <!ENTITY receivedColumn.label "Алынған">
-
+<!ENTITY starredColumn.label "Жұлдызы бар">
 <!ENTITY locationColumn.label "Орналасуы">
 <!ENTITY idColumn.label "Алынған реті">
 <!ENTITY attachmentColumn.label "Салынымдар">
@@ -847,20 +847,25 @@
      to get to the box faster. If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
   -->
+<!ENTITY search.label.base1 "#1 іздеу">
 <!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key). We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
 <!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems. We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
   -->
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
-
-
+<!ENTITY AddToAddressBook.label "Адрестік кітапшаға қосу…">
+<!ENTITY AddToAddressBook.accesskey "т">
+<!ENTITY AddDirectlyToAddressBook.label "Адрестік кітапшаға қосу">
+<!ENTITY AddDirectlyToAddressBook.accesskey "т">
 <!ENTITY EditContact1.label "Контактты түзету">
 <!ENTITY EditContact1.accesskey "е">
 <!ENTITY ViewContact.label "Контактты қарау">

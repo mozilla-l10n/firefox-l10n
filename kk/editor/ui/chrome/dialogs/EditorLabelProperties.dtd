@@ -7,10 +7,12 @@
 <!ENTITY Settings.label "Баптаулар">
 <!ENTITY Settings.accesskey "Б">
 
+<!ENTITY EditLabelText.label "Мәтінді түзету:">
+<!ENTITY EditLabelText.accesskey "т">
+<!ENTITY LabelFor.label "Басқару элементі үшін:">
+<!ENTITY LabelFor.accesskey "ш">
+<!ENTITY AccessKey.label "Қатынау кілті:">
+<!ENTITY AccessKey.accesskey "к">
 
-
-
-
-
-
-
+<!ENTITY RemoveLabel.label "Белгіні өшіру">
+<!ENTITY RemoveLabel.accesskey "ш">
