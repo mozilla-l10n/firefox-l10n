@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Показати примітки до випуску цього оновлення">
 <!ENTITY cmd.hideReleaseNotes.label           "Сховати примітки до випуску">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Сховати примітки до випуску цього оновлення">
+<!ENTITY cmd.findReplacement.label            "Знайти заміну">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,9 @@
 
 <!ENTITY pluginDeprecation.description "Чогось не вистачає? Деякі плагіни більше не підтримуються в &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Докладніше.">
+
+<!ENTITY legacyWarning.description "Чогось не вистачає? Деякі розширення більше не підтримуються в &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Показати застарілі розширення">
+<!ENTITY legacyExtensions.title "Застарілі розширення">
+<!ENTITY legacyExtensions.description "Ці розширення не відповідають поточним стандартам &brandShortName;, тому вони були вимкнені.">
+<!ENTITY legacyExtensions.learnMore "Дізнайтеся про зміни, що стосуються додатків">

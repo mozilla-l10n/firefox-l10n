@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Додаткова кількість процесів вмісту може пришвидшити роботу при використанні багатьох вкладок, але при цьому споживатиметься більше пам'яті.">
 <!ENTITY limitContentProcessOption.accesskey   "О">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Зміна числа процесів вмісту можлива лише в багатопроцесній версії &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Дізнайтеся, як перевірити, чи увімкнено багатопроцесність">
 <!ENTITY allowHWAccel.label              "Використовувати апаратне прискорення, якщо можливо">
 <!ENTITY allowHWAccel.accesskey          "к">
