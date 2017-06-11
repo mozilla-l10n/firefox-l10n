@@ -11,16 +11,16 @@
 <!ENTITY junkMail.intro "Бастапқы спам баптауларын орнатыңыз. Тіркелгілердің спам баптаулары Тіркелгі баптауларында өзгертуге болады.">
 <!ENTITY manualMark.label "Мен хабарламаларды қоқыс ретінде белгілеген кезде:">
 <!ENTITY manualMark.accesskey "з">
-
-
+<!ENTITY manualMarkModeMove.label "Оларды тіркелгінің &quot;Спам&quot; бумасына жылжыту">
+<!ENTITY manualMarkModeMove.accesskey "ж">
 <!ENTITY manualMarkModeDelete.label "Оларды өшіру">
 <!ENTITY manualMarkModeDelete.accesskey "ш">
 <!ENTITY markAsReadOnSpam.label "Қоқыс ретінде анықталған хабарламаларды оқылған ретінде белгілеу">
 <!ENTITY markAsReadOnSpam.accesskey "б">
-
-
-
-
+<!ENTITY enableAdaptiveJunkLogging.label "Адаптивті антиспам сүзгінің журналдауын іске қосу">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "е">
+<!ENTITY openJunkLog.label "Журналды көрсету">
+<!ENTITY openJunkLog.accesskey "с">
 
 
 <!-- Phishing Detector -->
