@@ -21,7 +21,7 @@
 
 <!ENTITY  clickHere.label                 "Mai multe informații despre această actualizare">
 
-<!ENTITY  evangelism.desc                 "Vă recomandăm cu tărie să instalați această actualizare de &brandShortName; cât mai curând.">
+<!ENTITY  evangelism.desc                 "Se recomandă insistent ca să aplici această actualizare pentru &brandShortName; cât mai curând posibil.">
 
 <!ENTITY  downloadPage.title              "Se descarcă &brandShortName;">
 <!ENTITY  downloading.intro               "Se descarcă actualizarea…">

@@ -24,7 +24,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Instalare suplimente compatibile">
-<!ENTITY  installing.top.label            "Se descarcă și instalează actualizările suplimentelor…">
+<!ENTITY  installing.top.label            "Se descarcă și se instalează actualizările suplimentelor…">
 
 <!ENTITY  noupdates.wizard.title          "Nu s-au găsit suplimente compatibile">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; nu a putut găsi actualizări pentru suplimentele tale incompatibile.">
