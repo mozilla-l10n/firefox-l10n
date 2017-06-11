@@ -6,14 +6,16 @@
 
 <!ENTITY Settings.label "Баптаулар">
 
+<!ENTITY FormName.label "Форма аты:">
+<!ENTITY FormName.accesskey "а">
+<!ENTITY FormAction.label "Әрекет сілтемесі:">
+<!ENTITY FormAction.accesskey "е">
+<!ENTITY FormMethod.label "Тәсіл:">
+<!ENTITY FormMethod.accesskey "Т">
+<!ENTITY FormEncType.label "Кодталуы:">
+<!ENTITY FormEncType.accesskey "д">
+<!ENTITY FormTarget.label "Мақсат фреймі:">
+<!ENTITY FormTarget.accesskey "т">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY RemoveForm.label "Форманы өшіру">
+<!ENTITY RemoveForm.accesskey "р">

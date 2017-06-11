@@ -3,13 +3,16 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+<!ENTITY windowTitle.label "Жеке сөздік">
 
+<!ENTITY wordEditField.label "Жаңа сөз:">
+<!ENTITY wordEditField.accessKey "а">
 <!ENTITY AddButton.label "Қосу">
 <!ENTITY AddButton.accessKey "о">
-
-
-
-
+<!ENTITY DictionaryList.label "Сөздіктегі сөздер:">
+<!ENTITY DictionaryList.accessKey "д">
+<!ENTITY ReplaceButton.label "Алмастыру">
+<!ENTITY ReplaceButton.accessKey "А">
 <!ENTITY RemoveButton.label "Өшіру">
 <!ENTITY RemoveButton.accessKey "ш">
 

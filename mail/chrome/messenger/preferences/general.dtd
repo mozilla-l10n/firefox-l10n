@@ -16,8 +16,8 @@
 <!ENTITY newMessagesArrive.label          "Жаңа хабарламалар келген кезде:">
 <!ENTITY playSound.label                  "Дыбысты ойнату">
 <!ENTITY playSound1.accesskey             "д">
-
-
+<!ENTITY playSoundMac.label               "Келесі дыбыс файлын ойнату:">
+<!ENTITY playSoundMac.accesskey           "й">
 <!ENTITY showAnimatedAlert.label          "Ескертуді көрсету">
 <!ENTITY showAnimatedAlert.accesskey      "с">
 
