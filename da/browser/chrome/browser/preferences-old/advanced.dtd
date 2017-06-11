@@ -127,11 +127,11 @@
 <!ENTITY viewSecurityDevices.accesskey   "S">
 
 <!ENTITY performance.label               "Ydelse">
-<!ENTITY useRecommendedPerformanceSettings2.label
+<!ENTITY useRecommendedPerformanceSettings.label
                                          "Brug de anbefalede ydelses-indstillinger">
-<!ENTITY useRecommendedPerformanceSettings2.description
+<!ENTITY useRecommendedPerformanceSettings.description
                                          "Disse indstillinger er skræddersyede til din computers hardware og operativsystem">
-<!ENTITY useRecommendedPerformanceSettings2.accesskey
+<!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "a">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Læs mere">
