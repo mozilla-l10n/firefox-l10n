@@ -10,17 +10,18 @@
 <!ENTITY usingSubscription.accesskey "р">
 <!ENTITY dualUseFolders.label "Сервер ішкі бумалары және хабарламалары бар бумаларды қолдайды">
 <!ENTITY dualUseFolders.accesskey "б">
-
-
+<!ENTITY maximumConnectionsNumber.label "Кэштеу үшін максималды сервер байланыстарының саны">
+<!ENTITY maximumConnectionsNumber.accesskey "м">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
-
-
-
-
+<!ENTITY namespaceDesc.label "Бұл баптаулар IMAP серверіңіздегі атаулар кеңістіктерін сипаттайды">
+<!ENTITY personalNamespace.label "Жеке атаулар кеңістігі:">
+<!ENTITY personalNamespace.accesskey "Ж">
+<!ENTITY publicNamespace.label "Публикалық (ортақ):">
+<!ENTITY publicNamespace.accesskey "у">
 <!ENTITY otherUsersNamespace.label "Басқа пайдаланушылар:">
 <!ENTITY otherUsersNamespace.accesskey "Б">
-
-
+<!ENTITY overrideNamespaces.label "Серверге бұл атаулар кеңістіктерін үстінен жазуды рұқсат ету">
+<!ENTITY overrideNamespaces.accesskey "а">
 <!ENTITY pop3DeferringDesc.label "Бұл тіркелгінің серверінен поштаны жүктеп алу кезінде, жаңа хабарламаларды келесі бумаға сақтау:" >
 <!ENTITY accountInbox.label "Бұл тіркелгінің Кіріс бумасы">
 <!ENTITY accountInbox.accesskey "л">

@@ -33,7 +33,8 @@
 <!ENTITY attachVCard.label "Хабарламаларға менің vCard-ты қосу">
 <!ENTITY attachVCard.accesskey "м">
 
-
+<!ENTITY manageIdentities.label "Жеке мәліметтерді басқару…">
+<!ENTITY manageIdentities.accesskey "б">
 <!-- LOCALIZATION NOTE (smtpName.label) : do not translate "SMTP" in below line -->
 
 <!ENTITY smtpName.label "Шығыс сервер (SMTP):">

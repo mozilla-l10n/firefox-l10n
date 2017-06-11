@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "а">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ағымдағы тіркелгі">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "ы">
-<!ENTITY getNextNMsgCmd.label "Келесі 500 жаңалықтар хабарламаларын алу">
-<!ENTITY getNextNMsgCmd.accesskey "у">
+
+
 <!ENTITY sendUnsentCmd.label "Жіберілмеген хабарламаларды жіберу">
 <!ENTITY sendUnsentCmd.accesskey "б">
 <!ENTITY subscribeCmd.label "Жазылу…">

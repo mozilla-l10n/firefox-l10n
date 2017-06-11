@@ -23,8 +23,8 @@
 <!ENTITY biffStart.label "Жаңа хабарламаларға тексеру уақыт аралығы ">
 <!ENTITY biffStart.accesskey "а">
 <!ENTITY biffEnd.label "минут">
-
-
+<!ENTITY useIdleNotifications.label "Жаңа хабарлама келген кезде, лезде сервер ескертулерін рұқсат ету">
+<!ENTITY useIdleNotifications.accesskey "с">
 <!ENTITY connectionSecurity.label "Байланыс қауіпсіздігі:">
 <!ENTITY connectionSecurity.accesskey "с">
 <!ENTITY connectionSecurityType-0.label "Ешнәрсе">
@@ -44,7 +44,7 @@
 <!ENTITY deleteOnServer2.accesskey "ш">
 <!ENTITY downloadOnBiff.label "Жаңа хабарламаларды автожүктеп алу">
 <!ENTITY downloadOnBiff.accesskey "ж">
-
+<!ENTITY username.label "Сіздің логин атыңыз">
 <!ENTITY deleteMessagePrefix.label "Мен хабарламаны өшірген кезде:">
 <!ENTITY modelMoveToTrash.label "Оны бұл бумаға жылжыту:">
 <!ENTITY modelMoveToTrash.accesskey "ы">
@@ -53,9 +53,10 @@
 <!ENTITY modelDeleteImmediately.label "Оны лезде өшіру">
 <!ENTITY modelDeleteImmediately.accesskey "д">
 <!-- LOCALIZATION NOTE (expungeOnExit.label) : do not translate two of "&quot;" in below line -->
-
-
-
+<!ENTITY expungeOnExit.label "Шыққанда Кіріс бумасын сығу">
+<!ENTITY expungeOnExit.accesskey "ы">
+<!ENTITY emptyTrashOnExit.label "Шыққанда, &quot;Қоқыс шелегі&quot; бумасын тазарту">
+<!ENTITY emptyTrashOnExit.accesskey "x">
 <!ENTITY loginAtStartup.label "Іске қосылғанда жаңа хабарламаларға тексеру">
 <!ENTITY loginAtStartup.accesskey "с">
 <!-- LOCALIZATION NOTE (maxMessagesStart.label) : translate below 2 lines with grammar dependency
