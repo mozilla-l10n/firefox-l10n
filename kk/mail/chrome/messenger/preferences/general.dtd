@@ -10,8 +10,9 @@
 <!ENTITY useDefault.label                 "Бастапқысын қайтару">
 <!ENTITY useDefault.accesskey             "й">
 
-
-
+<!ENTITY changeDockIconOptions.label      "Қолданба таңбашасының баптауларын өзгерту">
+<!ENTITY dockOptions.label                "Қолданба таңбашасының баптаулары…">
+<!ENTITY dockOptions.accesskey            "б">
 
 <!ENTITY newMessagesArrive.label          "Жаңа хабарламалар келген кезде:">
 <!ENTITY playSound.label                  "Дыбысты ойнату">
@@ -20,7 +21,7 @@
 <!ENTITY playSoundMac.accesskey           "й">
 <!ENTITY showAnimatedAlert.label          "Ескертуді көрсету">
 <!ENTITY showAnimatedAlert.accesskey      "с">
-
+<!ENTITY notificationAlertSettings2.label "Ескертулер және бастапқы дыбысты Жүйелік баптаулардағы Ескерту бөлігінен өзгертуге болады.">
 <!ENTITY customizeMailAlert.label         "Баптау…">
 <!ENTITY customizeMailAlert.accesskey     "а">
 

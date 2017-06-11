@@ -4,7 +4,8 @@
 
 <!ENTITY  fontsAndEncodingsDialog.title           "Қаріптер және кодтаулар">
 
-
+<!ENTITY  language.label                          "Келесі үшін қаріптер:">
+<!ENTITY  language.accesskey                      "п">
 
 <!ENTITY  size.label                              "Өлшемі:">
 
@@ -62,15 +63,18 @@
 <!-- fonts in message -->
 
 <!ENTITY  fontControl.label                       "Қаріпті басқару">
+<!ENTITY  useFixedWidthForPlainText.label         "Ашық мәтін хабарламалары үшін ені біркелкі қаріпті қолдану">
 
-
-
-
+<!ENTITY  useDocumentFonts.label                  "Хабарламаларға басқа қаріптерді қолдануды рұқсат ету">
+<!ENTITY  useDocumentFonts.accesskey              "а">
 <!-- Language settings -->
 
+<!ENTITY sendDefaultCharset.label         "Шығыс пошта:">
+<!ENTITY sendDefaultCharset.accesskey     "ы">
 <!ENTITY languagesTitle2.label            "Мәтін кодталуы">
 <!ENTITY composingDescription2.label      "Поштаны алу және жіберу үшін негізгі мәтін кодталуын орнатыңыз">
 
-
+<!ENTITY viewDefaultCharsetList.label     "Кіріс пошта:">
+<!ENTITY viewDefaultCharsetList.accesskey  "К">
 <!ENTITY replyInDefaultCharset3.label     "Мүмкін болған кезде, жауап бергенде негізгі мәтін кодталуын қолдану">
 <!ENTITY replyInDefaultCharset3.accesskey "м">
