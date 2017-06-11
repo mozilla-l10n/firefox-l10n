@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "m">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Amiḍan amiran">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "n">
-<!ENTITY getNextNMsgCmd.label "Awid 500 n yeznan imaynuten id-iteddun">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY getNextNMsgCmd2.label "Awid iznan imaynuten id-iteddun">
+<!ENTITY getNextNMsgCmd2.accesskey "n">
 <!ENTITY sendUnsentCmd.label "Azen iznan ur neţwacegeɛ ara">
 <!ENTITY sendUnsentCmd.accesskey "z">
 <!ENTITY subscribeCmd.label "Multeɣ…">
