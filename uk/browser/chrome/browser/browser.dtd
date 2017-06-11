@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Веб-розробка">
-<!ENTITY webDeveloperMenu.accesskey   "р">
+<!ENTITY webDeveloperMenu.accesskey   "В">
 
 <!ENTITY inspectContextMenu.label     "Дослідити елемент">
 <!ENTITY inspectContextMenu.accesskey "Д">
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.label         "Файл"> 
 <!ENTITY fileMenu.accesskey       "Ф">
 <!ENTITY newUserContext.label             "Нова вкладка в контейнері">
-<!ENTITY newUserContext.accesskey         "к">
+<!ENTITY newUserContext.accesskey         "н">
 <!ENTITY newNavigatorCmd.label        "Нове вікно">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "в">
