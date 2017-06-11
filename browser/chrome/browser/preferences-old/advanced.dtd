@@ -133,5 +133,7 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Conocer más">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Aprender a comprobar si multiproceso está habilitado">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "h">
