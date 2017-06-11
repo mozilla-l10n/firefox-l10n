@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Limite de processos de conteúdo">
 <!ENTITY limitContentProcessOption.description "Processos de conteúdo adicionais podem melhorar o desempenho ao utilizar múltiplos separadores, mas também irá consumir mais memória.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription "Modificar o número de processos de conteúdo é apenas possível com o multi-processo do &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Saber como verificar se o multi-processo está ativado">
 <!ENTITY allowHWAccel.label              "Se disponível, utilizar aceleração de hardware">
 <!ENTITY allowHWAccel.accesskey          "r">
