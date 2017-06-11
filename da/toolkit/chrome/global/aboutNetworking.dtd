@@ -35,8 +35,8 @@
 <!ENTITY aboutNetworking.currentLogModules     "Aktuelle logmoduler:">
 <!ENTITY aboutNetworking.setLogFile            "Angiv logfil">
 <!ENTITY aboutNetworking.setLogModules         "Angiv logmoduler">
-<!ENTITY aboutNetworking.startLogging          "Start logging">
-<!ENTITY aboutNetworking.stopLogging           "Stop logging">
+<!ENTITY aboutNetworking.startLogging          "Start logning">
+<!ENTITY aboutNetworking.stopLogging           "Stop logning">
 <!ENTITY aboutNetworking.dnsLookup             "DNS-opslag">
 <!ENTITY aboutNetworking.dnsLookupButton       "Slå op">
 <!ENTITY aboutNetworking.dnsDomain             "Domæne">
