@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "B">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Joriy hisob">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "J">
-<!ENTITY getNextNMsgCmd.label "Keyingi 500 ta yangiliklar xabarini olish">
-<!ENTITY getNextNMsgCmd.accesskey "o">
+
+
 <!ENTITY sendUnsentCmd.label "Jo‘natilmagan xabarlarni jo‘natish">
 <!ENTITY sendUnsentCmd.accesskey "j">
 <!ENTITY subscribeCmd.label "Obuna bo‘lish…">
