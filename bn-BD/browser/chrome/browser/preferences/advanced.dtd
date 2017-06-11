@@ -140,5 +140,7 @@
 
 
 
+
+
 <!ENTITY allowHWAccel.label              "হার্ডওয়্যার এক্সিলারেশন বিদ্যমান থাকলে তা ব্যবহার করা হবে r">
 <!ENTITY allowHWAccel.accesskey          "r">
