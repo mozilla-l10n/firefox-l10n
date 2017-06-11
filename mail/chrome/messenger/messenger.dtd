@@ -539,8 +539,8 @@
 <!ENTITY printButton.label "Баспаға шығару">
 <!ENTITY stopButton.label "Тоқтату">
 <!ENTITY throbberItem.title "Активтілік айқындағышы">
-<!ENTITY junkItem.title "Ескі-құсқы">
-<!ENTITY junkButton.label "Ескі-құсқы">
+<!ENTITY junkItem.title "Спам">
+<!ENTITY junkButton.label "Спам">
 <!ENTITY notJunkButton.label "Спам емес">
 <!ENTITY addressBookButton.label "Адрестік кітапша">
 <!ENTITY chatButton.label "Чат">

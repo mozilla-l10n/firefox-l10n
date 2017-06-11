@@ -38,7 +38,7 @@
 <!ENTITY hdrMenuForwardButton.label "Қалайша қайта бағдарлау">
 <!ENTITY hdrForwardButton1.label "Қайта бағдарлау">
 <!ENTITY hdrForwardButton1.tooltip "Бұл хабарламаны қайта бағдарлау">
-<!ENTITY hdrJunkButton1.label "Ескі-құсқы">
+<!ENTITY hdrJunkButton1.label "Спам">
 <!ENTITY hdrJunkButton1.tooltip "Бұл хабарламаны қоқыс ретінде белгілеу">
 <!ENTITY hdrTrashButton1.label "Өшіру">
 <!ENTITY hdrTrashButton1.tooltip "Бұл хабарламаны өшіру">

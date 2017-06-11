@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY itemJunk.label          "Ескі-құсқы">
+<!ENTITY itemJunk.label          "Спам">
 <!ENTITY itemPhishing.label      "Алаяқ эл.пошталар">
 <!ENTITY itemPasswords.label     "Парольдер">
 <!ENTITY itemAntiVirus.label     "Антивирус">
