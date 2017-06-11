@@ -244,7 +244,7 @@
 <!ENTITY disabledUnsigned.description.start "Desse utvidingane har ikkje blitt kontrollert for bruk i &brandShortName;. Du kan ">
 <!ENTITY disabledUnsigned.description.findAddonsLink "finna erstatningar">
 <!ENTITY disabledUnsigned.description.end " eller spørja utviklaren om å få dei stadfesta.">
-<!ENTITY disabledUnsigned.learnMore "Les meir om tiltaka våre for å halda deg trygg på nettet.">
+<!ENTITY disabledUnsigned.learnMore "Les meir om tiltaka våre for å halde deg trygg på nettet.">
 <!-- LOCALIZATION NOTE (disabledUnsigned.devInfo.start, disabledUnsigned.devInfo.linkToManual, disabledUnsigned.devInfo.end):
      These entities form a sentence, with disabledUnsigned.devInfo.linkToManual
      being a link to an external site. -->
