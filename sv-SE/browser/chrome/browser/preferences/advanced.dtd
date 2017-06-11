@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Ytterligare innehållsprocesser kan förbättra prestanda när du använder flera flikar, men kommer också att använda mer minne.">
 <!ENTITY limitContentProcessOption.accesskey   "G">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Ändring av antalet innehållsprocesser är endast möjligt med multiprocess &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Lär dig hur du kontrollerar om multiprocess är aktiverat">
 <!ENTITY allowHWAccel.label              "Använd om möjligt hårdvaruacceleration">
 <!ENTITY allowHWAccel.accesskey          "ä">
