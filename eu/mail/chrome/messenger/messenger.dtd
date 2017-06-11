@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "g">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Kontu hau">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "h">
-<!ENTITY getNextNMsgCmd.label "Hartu hurrengo 500 berrien mezuak">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+
+
 <!ENTITY sendUnsentCmd.label "Bidali bidali gabeko mezuak">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Harpidetu…">
