@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuálny účet">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
-<!ENTITY getNextNMsgCmd.label "Prijať ďalších 500 správ">
-<!ENTITY getNextNMsgCmd.accesskey "i">
+<!ENTITY getNextNMsgCmd2.label "Prijať nové spravodajské informácie">
+<!ENTITY getNextNMsgCmd2.accesskey "d">
 <!ENTITY sendUnsentCmd.label "Odoslať neodoslané správy">
 <!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Prihlásiť k odberu…">
