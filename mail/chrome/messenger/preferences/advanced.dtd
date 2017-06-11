@@ -56,12 +56,15 @@
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+<!ENTITY updateApp2.label                "&brandShortName;i uuendused">
 <!-- LOCALIZATION NOTE (updateApp.version.*): updateApp.version.pre is
   followed by a version number, keep the trailing space or replace it with
   a different character as needed. updateApp.version.post is displayed after
   the version number, and is empty on purpose for English. You can use it
   if required by your language.
  -->
+<!ENTITY updateApp.version.pre           "Versioon ">
+<!ENTITY updateApp.version.post          "">
 <!ENTITY updateAuto.label                "Uuendused paigaldatakse automaatselt (soovitatav: parem turvalisus)">
 <!ENTITY updateAuto.accesskey            "e">
 <!ENTITY updateCheck.label               "Kontrollitakse uuenduste olemasolu, paigaldamise kohta küsitakse kinnitust">
