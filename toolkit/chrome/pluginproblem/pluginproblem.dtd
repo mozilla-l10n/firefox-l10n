@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Este sitio usa un complemento que puede volver lento a &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Aprieta aquí para activar el complemento.">
 <!ENTITY clickToActivatePlugin                               "Activar complemento.">
 <!ENTITY checkForUpdates                                     "Buscar actualizaciones…">
