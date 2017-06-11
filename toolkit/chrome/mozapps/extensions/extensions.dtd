@@ -256,7 +256,7 @@
 <!ENTITY pluginDeprecation.learnMore "Les meir.">
 
 <!ENTITY legacyWarning.description "Saknar du noko? Visse utvidingar er ikkje lenger støtta av &brandShortName;.">
-<!ENTITY legacyWarning.showLegacy "Vis eldre utvidingar">
-<!ENTITY legacyExtensions.title "Eldre utvidingar">
-<!ENTITY legacyExtensions.description "Desse tillegga oppfyller ikkje gjeldande standardar i &brandShortName; og er difor slått av.">
+<!ENTITY legacyWarning.showLegacy "Vis utdaterte utvidingar">
+<!ENTITY legacyExtensions.title "Utdaterte utvidingar">
+<!ENTITY legacyExtensions.description "Desse utvidingane oppfyller ikkje gjeldande standardar i &brandShortName; og er difor slått av.">
 <!ENTITY legacyExtensions.learnMore "Les meir om endringar av utvidingar">
