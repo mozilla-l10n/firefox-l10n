@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Додатни процеси садржаја могу побољшати перформансе када се користи више језичака, али ће такође користити више меморије.">
 <!ENTITY limitContentProcessOption.accesskey   "Л">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Уређивање броја процеса садржаја је могуће само када је омогућен вишепроцесни &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Сазнајте како да проверите да ли су мултипроцеси омогућени">
 <!ENTITY allowHWAccel.label              "Користи хардверско убрзање, кад је доступно">
 <!ENTITY allowHWAccel.accesskey          "х">

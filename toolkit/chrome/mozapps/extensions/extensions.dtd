@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Прикажи напомене о издању ове надоградње">
 <!ENTITY cmd.hideReleaseNotes.label           "Сакриј напомене о издању">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Сакриј напомене о издању ове надоградње">
+<!ENTITY cmd.findReplacement.label            "Пронаћи замену">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -191,7 +192,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
-<!ENTITY addon.legacy.label                   "LEGACY">
+<!ENTITY addon.legacy.label                   "ЗАСТАРЕЛО">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -256,3 +257,9 @@
 
 <!ENTITY pluginDeprecation.description "Нешто недостаје? &brandShortName; више не подржава неке прикључке.">
 <!ENTITY pluginDeprecation.learnMore "Сазнајте више.">
+
+<!ENTITY legacyWarning.description "Нешто вам недостаје? &brandShortName; више не подржава неке екстензије.">
+<!ENTITY legacyWarning.showLegacy "Прикажи застареле екстензије">
+<!ENTITY legacyExtensions.title "Застареле екстензије">
+<!ENTITY legacyExtensions.description "Ове екстензије не подржавају тренутни &brandShortName; стандард тако да су онемогућене.">
+<!ENTITY legacyExtensions.learnMore "Сазнајте више о променама додатака">
