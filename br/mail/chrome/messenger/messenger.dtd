@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Ar gont bremanel">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "b">
-<!ENTITY getNextNMsgCmd.label "Kerc'hat ar 500 kemennadenn nevez o tont">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+
+
 <!ENTITY sendUnsentCmd.label "Kas ar c'hemennadennoù a chom er voestad">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Koumanantiñ …">
