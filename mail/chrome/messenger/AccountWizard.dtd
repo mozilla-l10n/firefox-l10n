@@ -51,7 +51,7 @@
 <!ENTITY portNum.label "Порт:">
 <!ENTITY portNum.accesskey "о">
 <!ENTITY defaultPortLabel.label "Бастапқы:">
-<!ENTITY defaultPortValue.label "">
+<!ENTITY defaultPortValue.label "‌">
 <!-- LOCALIZATION NOTE (incomingServerNameDesc.label) : Do not translate "&quot;pop.example.net&quot;" in below line -->
 <!ENTITY incomingServer.description "Кіріс пошта сервер атын көрсетіңіз (мысалы, &quot;mail.example.net&quot;).">
 <!ENTITY incomingServer.label "Кіріс пошта сервері:">

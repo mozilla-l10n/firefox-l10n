@@ -36,3 +36,4 @@ that require it.  -->
 
 <!ENTITY sanitizeEverythingUndoWarning     "Бұл әрекетті болдырмау мүмкін болмайды.">
 
+<!ENTITY dialog.width                 "35em">

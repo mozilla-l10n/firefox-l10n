@@ -15,7 +15,7 @@
 <!ENTITY sendHTML.accesskey           "ж">
 <!ENTITY sendBoth.label               "Хабарламаны ашық мәтін және HTML түрінде де жіберу">
 <!ENTITY sendBoth.accesskey           "е">
-
+<!ENTITY override.label               "Ескерту: Алушылар үшін қалайтын мәтіндік пішімді орнату үшін Адрестік кітапшаны қолданыңыз.">
 
 <!ENTITY domaindesc.label             "Төменде тізілген домендердің біреуіне жататын адреске хабарламаны жіберген кезде, &brandShortName; хабарламаны автоматты түрде керек пішімде жібереді.">
 <!ENTITY HTMLTab.label                "HTML домендері">

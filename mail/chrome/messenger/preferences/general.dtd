@@ -6,7 +6,7 @@
 <!ENTITY enableStartPage.label            "&brandShortName; іске қосылған кезде, хабарлама аймағында бастау парағын көрсету">
 <!ENTITY enableStartPage.accesskey        "W">
 <!ENTITY location.label                   "Орналасуы:">
-
+<!ENTITY location1.accesskey               "о">
 <!ENTITY useDefault.label                 "Бастапқысын қайтару">
 <!ENTITY useDefault.accesskey             "й">
 

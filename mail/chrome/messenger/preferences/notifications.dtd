@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY notificationsDialog2.title       "Жаңа пошта туралы хабарлауды баптау">
-
+<!ENTITY window.width                     "40em">
 
 <!ENTITY alertCustomization.intro         "Ескерту хабарламасында қандай өрістерді қолдануды таңдау:">
 <!ENTITY previewText.label                "Хабарламаның алдын-ала қарау мәтіні">
