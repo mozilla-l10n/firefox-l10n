@@ -928,7 +928,7 @@
 <!-- Mac OS X Window Menu -->
 
 <!ENTITY minimizeWindow.label "Қайыру">
-
+<!ENTITY minimizeWindow.key "m">
 <!ENTITY bringAllToFront.label "Барлығын алдына қою">
 <!ENTITY zoomWindow.label "Үлкейту">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
