@@ -49,8 +49,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "W">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Bieżącego konta">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "B">
-<!ENTITY getNextNMsgCmd.label "Pobierz następne 500 wiadomości">
-<!ENTITY getNextNMsgCmd.accesskey "t">
+<!ENTITY getNextNMsgCmd2.label "Pobierz następne wiadomości">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Wyślij niewysłane wiadomości">
 <!ENTITY sendUnsentCmd.accesskey "W">
 <!ENTITY subscribeCmd.label "Menedżer subskrypcji…">
