@@ -52,6 +52,7 @@
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Le compte en cours d’utilisation">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "L">
 <!ENTITY getNextNMsgCmd2.label "Relever les prochains messages">
+<!ENTITY getNextNMsgCmd2.accesskey "p">
 <!ENTITY sendUnsentCmd.label "Envoyer les messages en attente">
 <!ENTITY sendUnsentCmd.accesskey "a">
 <!ENTITY subscribeCmd.label "S’abonner…">
