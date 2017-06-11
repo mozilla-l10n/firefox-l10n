@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "मजकूर प्रक्रिया मर्यादा">
 <!ENTITY limitContentProcessOption.description "अनेक टॅब वापरल्यास, अतिरिक्त मजकूर प्रक्रिया कार्यक्षमता वाढवू  शकतात, पण त्या अधिक मेमरी देखील वापरातील.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
+<!ENTITY limitContentProcessOption.disabledDescription "मजकूर प्रक्रियांची गणना बदलणे फक्त मल्टिप्रोसेस &brandShortName; सोबत शक्य आहे.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "मल्टिप्रोसेस कार्यान्वित आहेत की नाही कसे तपासायचे ते जाणा">
 <!ENTITY allowHWAccel.label              "उपलब्ध असल्यावर हार्डवेअर ॲक्सिलरेशनचा वापर करा">
 <!ENTITY allowHWAccel.accesskey          "r">
