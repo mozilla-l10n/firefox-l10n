@@ -253,7 +253,8 @@
 <!ENTITY pluginDeprecation.description "Ena ŋakki huunde? Won ceŋe nattuɗe tammiteede e &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ɓeydu Humpito.">
 
-
+<!ENTITY legacyWarning.description "Ena ŋakki huunde? Won jokke ɗe &amp;brandShortName natti tammbaade;.">
+<!ENTITY legacyWarning.showLegacy "Hollu Jokke donaaɗe">
 
 
 

@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Kaaɗtudi silsil loowdi">
 <!ENTITY limitContentProcessOption.description "Silsilaaji loowdi ɓeydaaɗi ina mbaawi ɓeydude kattanɗe golle so tabbe keewɗe ina kuutoree, kono ina kuutoroo teskorde ɓurnde heewde.">
 <!ENTITY limitContentProcessOption.accesskey   "K">
+
+
 <!ENTITY allowHWAccel.label              "Huutoro moylinol masiŋeeri so ena woodi">
 <!ENTITY allowHWAccel.accesskey          "m">
