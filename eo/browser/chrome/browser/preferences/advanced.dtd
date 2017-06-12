@@ -92,6 +92,8 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Versio ">
+<!ENTITY updateAuto2.label               "Aŭtomate instali ĝisdatigojn (rekomendata por plibonigi sekurecon)">
 
 <!ENTITY updateHistory2.label            "Montri historion de ĝisdatigoj…">
 <!ENTITY updateHistory2.accesskey        "M">
