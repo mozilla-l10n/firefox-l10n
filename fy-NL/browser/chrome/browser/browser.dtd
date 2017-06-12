@@ -938,7 +938,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "F">
 <!ENTITY updateAvailable.cancelButton.label "No net">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "&brandShortName;-fernijing downloade">
+<!ENTITY updateAvailable.panelUI.label "&brandShorterName;-fernijing downloade">
 
 <!ENTITY updateManual.message "Download in farske kopy fan &brandShorterName; en wy helpe jo it te ynstallearjen.">
 <!ENTITY updateManual.whatsnew.label "Wat is nij.">
