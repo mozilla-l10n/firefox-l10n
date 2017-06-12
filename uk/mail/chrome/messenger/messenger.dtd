@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Поточного облікового запису">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "П">
-<!ENTITY getNextNMsgCmd.label "Отримати наступні 500 листів">
-<!ENTITY getNextNMsgCmd.accesskey "5">
+<!ENTITY getNextNMsgCmd2.label "Отримати наступні листи">
+<!ENTITY getNextNMsgCmd2.accesskey "т">
 <!ENTITY sendUnsentCmd.label "Відіслати невідіслані листи">
 <!ENTITY sendUnsentCmd.accesskey "л">
 <!ENTITY subscribeCmd.label "Підписатися…">
