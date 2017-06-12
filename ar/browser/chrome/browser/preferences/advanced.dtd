@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "حد سيرورة المحتوى">
 <!ENTITY limitContentProcessOption.description "يمكن أن تساهم زيادة سيرورات المحتوى في تحسين الأداء عند استعمال عدة ألسنة، و لكن ذلك يستهلك ذاكرة أكثر.">
 <!ENTITY limitContentProcessOption.accesskey   "ح">
+<!ENTITY limitContentProcessOption.disabledDescription "لا يمكن تعديل عدد سيرورات المحتوى إلا في &brandShortName; متعدد السيرورات.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "اطلع على كيفية التحقق من تفعيل تعدد السيرورات">
 <!ENTITY allowHWAccel.label              "استخدم تسريع العتاد إن كان متاحًا">
 <!ENTITY allowHWAccel.accesskey          "ع">
