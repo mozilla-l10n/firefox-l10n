@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Eduki-prozesuen muga">
 <!ENTITY limitContentProcessOption.description "Eduki-prozesu gehigarriek errendimendua hobe dezakete hainbat fitxa erabiltzean baina memoria gehiago ere erabiliko du.">
 <!ENTITY limitContentProcessOption.accesskey   "m">
+<!ENTITY limitContentProcessOption.disabledDescription "Edukien prozesu kopurua multiprozesu moduko &brandShortName;(r)ekin alda daiteke soilik.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Argibide gehiago multiprozesu modua gaituta dagoen egiaztatzeko">
 <!ENTITY allowHWAccel.label              "Erabili hardware-azelerazioa erabilgarri dagoenean">
 <!ENTITY allowHWAccel.accesskey          "h">
