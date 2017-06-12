@@ -214,6 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administri uzon de kromprogramoj">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Decidi ĉu vi povas ricevi sciigojn el la retejo">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Konservi datumojn en daŭra konservejo">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "La retumilo estas sub fora regado">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administri dividon de via filmilo kaj/aŭ mikrofonon kun la retejo">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administri dividon de via mikrofono kun la retejo">
@@ -402,6 +403,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.label "Alpingli al ekstra menuo">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "p">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Depingli el ekstra menuo">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Forigi el ilarstrio">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "f">
 <!ENTITY customizeMenu.removeFromMenu.label "Forigi el menuo">
@@ -432,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Konsileto:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Ricevu helpon por trovi aferojn! Serĉu &#x1F50E; apud la serĉaj sugestoj.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ŝanĝi elekteblojn…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "e">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ŝanĝi preferojn…">
@@ -685,6 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Fini"> 
 <!ENTITY quitApplicationCmd.accesskey   "F">
 <!ENTITY quitApplicationCmdMac2.label   "Fini &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Fermi">  
 <!ENTITY closeCmd.key                   "W">  
@@ -945,12 +949,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Elŝuti freŝan kopion de &brandShorterName;">
 
+<!ENTITY updateRestart.message "Post rapida restarto, &brandShorterName; restarigos ĉiujn viajn malfermitajn langetojn kaj fenestrojn.">
+<!ENTITY updateRestart.header.message2 "Restartigu por ĝisdatigi &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Restarti kaj restarigi">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne nun">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Agoj de la paĝo">
 
 <!ENTITY sendToDevice.label "Sendi al aparato…">
 <!ENTITY sendToDevice.viewTitle "Sendi al aparato">

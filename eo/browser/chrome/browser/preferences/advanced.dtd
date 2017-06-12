@@ -93,8 +93,14 @@
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.pre   "Versio ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permesi al &brandShortName;">
 <!ENTITY updateAuto2.label               "Aŭtomate instali ĝisdatigojn (rekomendata por plibonigi sekurecon)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Kontroli ĉu estas ĝisdatigoj, sed ebligi al uzanto elekti ĉu ilin instali">
+<!ENTITY updateCheckChoose2.accesskey    "K">
+<!ENTITY updateManual2.label             "Neniam kontroli ĉu estas ĝisdatigoj (malkonsilinda)">
+<!ENTITY updateManual2.accesskey         "N">
 
 <!ENTITY updateHistory2.label            "Montri historion de ĝisdatigoj…">
 <!ENTITY updateHistory2.accesskey        "M">
@@ -119,6 +125,7 @@
 <!ENTITY offlineAppRemove.confirm        "Forigi malkonektitaĵojn">
 
 <!ENTITY certificateTab.label            "Atestiloj">
+<!ENTITY certPersonal2.description       "Kiam servilo petas vian personan atestilon">
 <!ENTITY selectCerts.auto                "Aŭtomate elekti unu">
 <!ENTITY selectCerts.auto.accesskey      "A">
 <!ENTITY selectCerts.ask                 "Demandi ĉiufoje">
@@ -131,5 +138,13 @@
 <!ENTITY viewSecurityDevices.accesskey   "s">
 
 <!ENTITY performance.label               "Efikeco">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Uzi konsilindajn efikecajn agordojn">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Tiuj ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "T">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Pli da informo">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
 <!ENTITY allowHWAccel.accesskey          "d">
