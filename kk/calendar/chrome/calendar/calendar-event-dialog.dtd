@@ -2,50 +2,60 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY event.title.label                  "Элементті түзету" >
 
+<!ENTITY event.dialog.keepDurationButton.tooltip   "Аяқталу уақытын өзгерту кезінде ұзақтығын сақтап отыру">
+<!ENTITY event.dialog.keepDurationButton.accesskey "с">
 
 <!ENTITY newevent.from.label                "Бастап" >
+<!ENTITY newevent.to.label                  "Дейін" >
 
-
-
-
-
+<!ENTITY newevent.status.label                    "Қалып-күйі" >
+<!ENTITY newevent.status.accesskey                "а" >
+<!ENTITY newevent.eventStatus.none.label          "Көрсетілмеген" >
+<!ENTITY newevent.eventStatus.none.accesskey      "т" >
 <!ENTITY newevent.todoStatus.none.label           "Көрсетілмеген" >
-
-
-<!ENTITY newevent.todoStatus.cancelled.label      "Тоқтатылды" >
-
-
-
-
-
-
-
+<!ENTITY newevent.eventStatus.cancelled.label     "Бас тартылған" >
+<!ENTITY newevent.eventStatus.cancelled.accesskey "с" >
+<!ENTITY newevent.todoStatus.cancelled.label      "Бас тартылған" >
+<!ENTITY newevent.status.tentative.label          "Мүмкін деп" >
+<!ENTITY newevent.status.tentative.accesskey      "М" >
+<!ENTITY newevent.status.confirmed.label          "Расталған" >
+<!ENTITY newevent.status.confirmed.accesskey      "с" >
+<!ENTITY newevent.status.needsaction.label        "Әрекет қажет етіледі" >
+<!ENTITY newevent.status.inprogress.label         "Орындалуда" >
+<!ENTITY newevent.status.completed.label          "Аяқталған уақыты" >
 <!-- The following entity is for New Task dialog only -->
+
+<!ENTITY newtodo.percentcomplete.label      "&#037; дайын">
 <!-- LOCALIZATON NOTE(event.attendees.notify.label,event.attendees.notifyundisclosed.label,
      event.attendees.disallowcounter.label)
    - These three labels are displayed side by side in the event dialog, make sure
    - they still fit in. -->
 
-
-
-
-
-
-
+<!ENTITY event.attendees.notify.label                "Қатысушыларды ескерту">
+<!ENTITY event.attendees.notify.accesskey            "е">
+<!ENTITY event.attendees.notifyundisclosed.label     "Әр қатысушыға жеке шақыру">
+<!ENTITY event.attendees.notifyundisclosed.accesskey "к">
+<!ENTITY event.attendees.notifyundisclosed.tooltip   "Бұл опция әр қатысушыға жеке хатты жібереді. Әр шақыруда тек бір қатысушы бар, сондықтан, басқа қатысушылардың тұлғалары ашылмайды.">
+<!ENTITY event.attendees.disallowcounter.label       "Кері ұсыныстарды қабылдамау">
+<!ENTITY event.attendees.disallowcounter.accesskey   "е">
+<!ENTITY event.attendees.disallowcounter.tooltip     "Кері ұсыныстарды қабылдамайтыныңызды көрсетеді">
 <!-- Keyboard Shortcuts -->
 
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.dialog.new.event.key2              "I">
+<!ENTITY event.dialog.new.task.key2               "D">
+<!ENTITY event.dialog.new.message.key2            "N">
+<!ENTITY event.dialog.close.key                   "W">
+<!ENTITY event.dialog.save.key                    "S">
+<!ENTITY event.dialog.saveandclose.key            "L">
+<!ENTITY event.dialog.print.key                   "P">
+<!ENTITY event.dialog.undo.key                    "Z">
+<!ENTITY event.dialog.redo.key                    "Y">
+<!ENTITY event.dialog.cut.key                     "X">
+<!ENTITY event.dialog.copy.key                    "C">
+<!ENTITY event.dialog.paste.key                   "V">
+<!ENTITY event.dialog.select.all.key              "A">
 <!-- Menubar -->
 
 <!ENTITY  event.menu.item.new.label                       "Жаңа">
@@ -56,8 +66,8 @@
 <!ENTITY  event.menu.item.new.task.accesskey              "а">
 <!ENTITY  event.menu.item.new.message.label               "Хабарлама">
 <!ENTITY  event.menu.item.new.message.accesskey           "Х">
-
-
+<!ENTITY  event.menu.item.new.contact.label               "Адрестік кітапша контакты">
+<!ENTITY  event.menu.item.new.contact.accesskey           "к">
 <!ENTITY  event.menu.item.close.label                     "Жабу">
 <!ENTITY  event.menu.item.close.accesskey                 "Ж">
 <!-- LOCALIZATION NOTE
@@ -68,21 +78,23 @@
 
 <!ENTITY  event.menu.item.save.label                      "Сақтау">
 <!ENTITY  event.menu.item.save.accesskey                  "С">
-
+<!ENTITY  event.menu.item.save.tab.accesskey              "а">
 <!-- LOCALIZATION NOTE
     - event.menu.item.saveandclose.accesskey is used for "Save and Close"
     - menu item when editing events/tasks in a dialog window.
     - event.menu.item.saveandclose.tab.accesskey is used for "Save and Close"
     - when editing events/tasks in a tab. -->
 
-
+<!ENTITY  event.menu.item.saveandclose.label              "Сақтау және жабу">
+<!ENTITY  event.menu.item.saveandclose.accesskey          "б">
+<!ENTITY  event.menu.item.saveandclose.tab.accesskey      "б">
 
 <!ENTITY  event.menu.item.delete.label                    "Өшіру…">
 <!ENTITY  event.menu.item.delete.accesskey                "ш">
-
-
-
-
+<!ENTITY  event.menu.item.page.setup.label                "Парақ баптаулары">
+<!ENTITY  event.menu.item.page.setup.accesskey            "р">
+<!ENTITY  event.menu.item.print.label                     "Баспаға шығару">
+<!ENTITY  event.menu.item.print.accesskey                 "ш">
 
 <!ENTITY  event.menu.edit.label                           "Түзету">
 <!ENTITY  event.menu.edit.accesskey                       "Т">
@@ -101,72 +113,73 @@
 
 <!ENTITY  event.menu.view.label                           "Түрі">
 <!ENTITY  event.menu.view.accesskey                       "р">
-<!ENTITY  event.menu.view.toolbars.label                  "Саймандар панелдері">
+<!ENTITY  event.menu.view.toolbars.label                  "Саймандар панельдері">
 <!ENTITY  event.menu.view.toolbars.accesskey              "С">
-
-
+<!ENTITY  event.menu.view.toolbars.event.label            "Оқиға панелі">
+<!ENTITY  event.menu.view.toolbars.event.accesskey        "О">
 <!ENTITY  event.menu.view.toolbars.customize.label        "Баптау…">
 <!ENTITY  event.menu.view.toolbars.customize.accesskey    "а">
-
-
+<!ENTITY  event.menu.view.showlink.label                  "Қатысты сілтемені көрсету">
+<!ENTITY  event.menu.view.showlink.accesskey              "ы">
 
 <!ENTITY  event.menu.options.label                            "Опциялар">
 <!ENTITY  event.menu.options.accesskey                        "ц">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY  event.menu.options.attendees.label                  "Қатысушыларды шақыру…">
+<!ENTITY  event.menu.options.attendees.accesskey              "ш">
+<!ENTITY  event.menu.options.timezone2.label                  "Уақыт белдеулерін көрсету">
+<!ENTITY  event.menu.options.timezone2.accesskey              "л">
+<!ENTITY  event.menu.options.priority2.label                  "Приоритеті">
+<!ENTITY  event.menu.options.priority2.accesskey              "и">
+<!ENTITY  event.menu.options.priority.notspecified.label      "Көрсетілмеген">
+<!ENTITY  event.menu.options.priority.notspecified.accesskey  "т">
+<!ENTITY  event.menu.options.priority.low.label               "Төмен">
+<!ENTITY  event.menu.options.priority.low.accesskey           "Т">
 <!ENTITY  event.menu.options.priority.normal.label            "Қалыпты">
 <!ENTITY  event.menu.options.priority.normal.accesskey        "л">
+<!ENTITY  event.menu.options.priority.high.label              "Жоғары">
+<!ENTITY  event.menu.options.priority.high.accesskey          "Ж">
+<!ENTITY  event.menu.options.privacy.label                    "Жекелік">
+<!ENTITY  event.menu.options.privacy.accesskey                "Ж">
+<!ENTITY  event.menu.options.privacy.public.label             "Публикалық оқиға">
+<!ENTITY  event.menu.options.privacy.public.accesskey         "у">
+<!ENTITY  event.menu.options.privacy.confidential.label       "Тек уақыты және күнін көрсету">
+<!ENTITY  event.menu.options.privacy.confidential.accesskey   "с">
+<!ENTITY  event.menu.options.privacy.private.label            "Жеке оқиға">
+<!ENTITY  event.menu.options.privacy.private.accesskey        "е">
+<!ENTITY  event.menu.options.show.time.label                  "Уақытын қалай көрсету">
+<!ENTITY  event.menu.options.show.time.accesskey              "т">
+<!ENTITY  event.menu.options.show.time.busy.label             "Бос емес">
+<!ENTITY  event.menu.options.show.time.busy.accesskey         "Б">
+<!ENTITY  event.menu.options.show.time.free.label             "Бос">
+<!ENTITY  event.menu.options.show.time.free.accesskey         "о">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY event.invite.attendees.label                     "Қатысушыларды шақыру…">
+<!ENTITY event.invite.attendees.accesskey                 "ш">
+<!ENTITY event.email.attendees.label                      "Барлық қатысушыларға хатты жазу…">
+<!ENTITY event.email.attendees.accesskey                  "а">
+<!ENTITY event.email.tentative.attendees.label            "Шешімге келмеген қатысушыларға хатты жазу…">
+<!ENTITY event.email.tentative.attendees.accesskey        "Ш">
+<!ENTITY event.remove.attendees.label2                    "Барлық қатысушыларды өшіру">
+<!ENTITY event.remove.attendees.accesskey                 "р">
+<!ENTITY event.remove.attendee.label                      "Қатысушыны өшіру">
+<!ENTITY event.remove.attendee.accesskey                  "ш">
 <!-- Toolbar -->
 
 <!ENTITY  event.toolbar.save.label2                       "Сақтау">
 <!ENTITY  event.toolbar.saveandclose.label                "Сақтау және жабу">
 <!ENTITY  event.toolbar.delete.label                      "Өшіру">
-
+<!ENTITY  event.toolbar.attendees.label                   "Қатысушыларды шақыру">
 <!ENTITY  event.toolbar.privacy.label                     "Жекелік">
 
 <!ENTITY  event.toolbar.save.tooltip2                     "Сақтау">
 <!ENTITY  event.toolbar.saveandclose.tooltip              "Сақтау және жабу">
 <!ENTITY  event.toolbar.delete.tooltip                    "Өшіру">
-
-
-
-
-<!ENTITY  event.toolbar.status.tooltip                    "Толу күйі">
-
+<!ENTITY  event.toolbar.attendees.tooltip                 "Қатысушыларды шақыру">
+<!ENTITY  event.toolbar.attachments.tooltip               "Салынымдарды қосу">
+<!ENTITY  event.toolbar.privacy.tooltip                   "Жекелігін өзгерту">
+<!ENTITY  event.toolbar.priority.tooltip                  "Приоритетін өзгерту">
+<!ENTITY  event.toolbar.status.tooltip                    "Қалып-күйін өзгерту">
+<!ENTITY  event.toolbar.freebusy.tooltip                  "Бос/бос емес уақытын өзгерту">
 <!-- Counter box -->
 <!-- LOCALIZATON NOTE(counter.button.*)
    - This is only visible in the UI if you have received a counterproposal before and are going to
@@ -175,10 +188,12 @@
    - the imip bar. Rescheduling will happen after clicking on save&close as usual. This screenshot
    - illustrates how it might look like: https://bugzilla.mozilla.org/attachment.cgi?id=8810121 -->
 
-
-
-
-
+<!ENTITY counter.button.proposal.label                    "Ұсынысты іске асыру">
+<!ENTITY counter.button.proposal.accesskey                "с">
+<!ENTITY counter.button.proposal.tooltip2                 "Оқиға өрістері кері ұсыныстың мәндерімен толтырылатын болады, тек қосымша өзгерістермен немесе оларсыз сақтау барлық қатысушыларды ескертеді">
+<!ENTITY counter.button.original.label                    "Бастапқы деректерді іске асыру">
+<!ENTITY counter.button.original.accesskey                "т">
+<!ENTITY counter.button.original.tooltip2                 "Өрістер бастапқы оқиғаның деректерімен толтырылады, кері ұсыныс жасалғанға дейінгі күймен">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "Атауы:" >
@@ -192,8 +207,8 @@
 <!ENTITY event.calendar.accesskey                         "К">
 <!ENTITY event.attendees.label                            "Қатысушылар" >
 <!ENTITY event.attendees.accesskey                        "с">
-
-
+<!ENTITY event.alldayevent.label                          "Толық күн оқиғасы" >
+<!ENTITY event.alldayevent.accesskey                      "к">
 <!ENTITY event.from.label                                 "Бастау:" >
 <!ENTITY event.from.accesskey                             "Б">
 <!ENTITY task.from.label                                  "Бастау:" >
@@ -224,9 +239,9 @@
 <!ENTITY event.attachments.popup.open.accesskey           "А" >
 <!ENTITY event.attachments.popup.removeAll.label          "Барлығын өшіру" >
 <!ENTITY event.attachments.popup.removeAll.accesskey      "а" >
-
-
-
+<!ENTITY event.attachments.popup.attachPage.label         "Веб-парақты тіркеу…" >
+<!ENTITY event.attachments.popup.attachPage.accesskey     "т" >
+<!ENTITY event.url.label                                  "Қатысты сілтеме:" >
 <!ENTITY event.priority2.label                            "Приоритеті:">
 
 <!ENTITY event.reminder.none.label                        "Еске салу жоқ " >
@@ -242,19 +257,24 @@
 <!ENTITY event.reminder.1week.before.label                "1 апта бұрын" >
 <!ENTITY event.reminder.custom.label                      "Таңдауыңызша…" >
 
+<!ENTITY event.reminder.multiple.label                    "Бірнеше еске салулар…" >
 
-<!ENTITY event.statusbarpanel.privacy.label               "Жекешілік:">
+<!ENTITY event.statusbarpanel.freebusy.label              "Уақытты қалайша көрсету:">
+<!ENTITY event.statusbarpanel.privacy.label               "Жекелігі:">
 <!-- Recurrence dialog -->
 
-<!ENTITY event.repeat.does.not.repeat.label             "Қайталауы болмасын">
+<!ENTITY recurrence.title.label                         "Қайталануын түзету">
+
+<!ENTITY event.repeat.does.not.repeat.label             "Қайталанбайды">
 <!ENTITY event.repeat.daily.label                       "Күнде">
 <!ENTITY event.repeat.weekly.label                      "Апта сайын">
-
+<!ENTITY event.repeat.every.weekday.label               "Әр жұмыс күнде">
 <!ENTITY event.repeat.bi.weekly.label                   "2 апта сайын">
 <!ENTITY event.repeat.monthly.label                     "Ай сайын">
 <!ENTITY event.repeat.yearly.label                      "Жыл сайын">
 <!ENTITY event.repeat.custom.label                      "Таңдауыңызша…">
 
+<!ENTITY event.recurrence.pattern.label                 "Қайталану реті">
 <!ENTITY event.recurrence.occurs.label                  "Қайталау" >
 <!ENTITY event.recurrence.day.label                     "күнде" >
 <!ENTITY event.recurrence.week.label                    "апта сайын" >
@@ -263,11 +283,11 @@
 
 <!ENTITY event.recurrence.pattern.every.label           "Әрбір" >
 <!ENTITY repeat.units.days.both                         "Күн" >
-
+<!ENTITY event.recurrence.pattern.every.weekday.label   "Әр жұмыс күнде" >
 
 <!ENTITY event.recurrence.pattern.weekly.every.label    "Әрбір" >
 <!ENTITY repeat.units.weeks.both                        "Апта" >
-
+<!ENTITY event.recurrence.on.label                      "Қашан:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "Әрбір" >
 <!ENTITY repeat.units.months.both                       "Ай" >
@@ -285,8 +305,8 @@
 <!ENTITY event.recurrence.pattern.monthly.week.5.label  "Бейсенбі" >
 <!ENTITY event.recurrence.pattern.monthly.week.6.label  "Жұма" >
 <!ENTITY event.recurrence.pattern.monthly.week.7.label  "Сенбі" >
-
-
+<!ENTITY event.recurrence.repeat.dayofmonth.label       "Ай күні">
+<!ENTITY event.recurrence.repeat.recur.label            "Күн(дер)де қайталау">
 
 <!ENTITY event.recurrence.every.label                        "Әрбір:" >
 <!ENTITY repeat.units.years.both                             "Жыл" >
@@ -342,24 +362,27 @@
 <!ENTITY event.recurrence.pattern.yearly.month2.11.label     "Қараша" >
 <!ENTITY event.recurrence.pattern.yearly.month2.12.label     "Желтоқсан" >
 
+<!ENTITY event.recurrence.range.label                   "Қайталануы аумағы">
 <!ENTITY event.recurrence.forever.label                 "Аяқтау күні жоқ" >
 <!ENTITY event.recurrence.repeat.for.label              "Жасау" >
 <!ENTITY event.recurrence.appointments.label            "Кездесу(лер)" >
 <!ENTITY event.repeat.until.label                       "Келесіге дейін қайталау" >
 <!ENTITY event.recurrence.preview.label                 "Алдын-ала қарап шығу">
 <!-- Attendees dialog -->
+
+<!ENTITY invite.title.label                     "Қатысушыларды шақыру">
 <!ENTITY event.organizer.label                  "Ұйымдастырушы">
-
-
-
+<!ENTITY event.freebusy.suggest.slot            "Уақыт аралығын ұсыну:">
+<!ENTITY event.freebusy.button.next.slot        "Келесі уақыт аралығы">
+<!ENTITY event.freebusy.button.previous.slot    "Алдыңғы уақыт аралығы">
 <!ENTITY event.freebusy.zoom                    "Масштаб:">
 <!ENTITY event.freebusy.legend.free             "Бос" >
 <!ENTITY event.freebusy.legend.busy             "Бос емес" >
 <!ENTITY event.freebusy.legend.busy_tentative   "Мүмкін деп" >
-
+<!ENTITY event.freebusy.legend.busy_unavailable "Кеңседен тыс" >
 <!ENTITY event.freebusy.legend.unknown          "Ақпарат жоқ" >
-
-
+<!ENTITY event.attendee.role.required           "Міндетті қатысушы">
+<!ENTITY event.attendee.role.optional           "Міндетті емес қатысушы">
 <!ENTITY event.attendee.role.chair              "Төраға/Төрайым">
 <!ENTITY event.attendee.role.nonparticipant     "Қатысушы емес">
 <!ENTITY event.attendee.usertype.individual     "Жеке">
@@ -369,6 +392,8 @@
 <!ENTITY event.attendee.usertype.unknown        "Белгісіз">
 <!-- Timezone dialog -->
 
+<!ENTITY timezone.title.label            "Уақыт белдеуін көрсетіңіз">
+<!ENTITY event.timezone.custom.label     "Көбірек уақыт белдеулері…">
 <!-- Read-Only dialog -->
 
 <!ENTITY read.only.general.label         "Жалпы">
@@ -386,8 +411,8 @@
 <!ENTITY read.only.decline.label         "Мен қатыспаймын">
 <!ENTITY read.only.tentative.label       "Менің қатысуым мүмкін">
 <!ENTITY read.only.needs.action.label    "Мен кейінірек растаймын">
-
+<!ENTITY read.only.reminder.label        "Еске салу:">
 <!ENTITY read.only.attachments.label     "Салынымдар:">
 <!ENTITY read.only.attendees.label       "Қатысушылар">
 <!ENTITY read.only.description.label     "Анықтамасы">
-
+<!ENTITY read.only.link.label            "Қатысты сілтеме">
