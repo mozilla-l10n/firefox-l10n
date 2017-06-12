@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conta atual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Receber próximas 500 mensagens">
-<!ENTITY getNextNMsgCmd.accesskey "R">
+<!ENTITY getNextNMsgCmd2.label "Receber as próximas mensagens novas">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Enviar mensagens da pasta “Saída”">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Inscrever…">
