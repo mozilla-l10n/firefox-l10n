@@ -43,3 +43,4 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP">
 <!ENTITY aboutNetworking.rcwn                  "Statistik RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total jumlah permintaan jaringan">
