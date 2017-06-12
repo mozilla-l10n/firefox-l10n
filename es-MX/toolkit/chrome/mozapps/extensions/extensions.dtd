@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostrar notas de la versión para este complemento">
 <!ENTITY cmd.hideReleaseNotes.label           "Ocultar notas de la versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ocultar las notas de la versión de esta actualización">
+<!ENTITY cmd.findReplacement.label            "Encontrar un reemplazo">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,9 @@
 
 <!ENTITY pluginDeprecation.description "¿Te perdiste de algo? Algunos plugins ya no están disponibles en &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
+
+<!ENTITY legacyWarning.description "¿Te falta algo? Algunas extensiones ya no son respaldadas por &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Mostrar las extensiones heredadas">
+<!ENTITY legacyExtensions.title "Extensiones heredadas">
+<!ENTITY legacyExtensions.description "Estas extensiones no cumplen los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
+<!ENTITY legacyExtensions.learnMore "Aprender más sobre los cambios de los complementos">
