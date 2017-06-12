@@ -282,9 +282,14 @@
      for experimental features. -->
 
 <!ENTITY pref_category_experimental "Soltojtob\u0027enel taq rub\u0027anikil">
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+
+<!ENTITY pref_custom_tabs "Ichinan taq ruwi\u0027">
+<!ENTITY pref_custom_tabs_summary3 "Tiya\u0027 q\u0027ij chi ri taq chokoy kekijaqa\u0027 taq ruxaq k\u0027amaya\u0027l rik\u0027in jun ichinan ruwäch &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
 <!ENTITY custom_tabs_menu_item_open_in "Tijaq pa &formatS;">
 <!ENTITY custom_tabs_menu_footer "Samajib\u0027en ruma &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
