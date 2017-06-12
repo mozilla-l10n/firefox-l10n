@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Dodatni procesi vsebine lahko pospešijo delovanje pri uporabi večjega števila zavihkov, a tudi porabijo več pomnilnika.">
 <!ENTITY limitContentProcessOption.accesskey   "O">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Število procesov vsebine je mogoče spreminjati samo v večprocesnem &brandShortName;u.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Kako izveste, ali je večprocesni način omogočen">
 <!ENTITY allowHWAccel.label              "Uporabljaj strojno pospeševanje, ko je na voljo">
 <!ENTITY allowHWAccel.accesskey          "U">
