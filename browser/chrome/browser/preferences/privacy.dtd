@@ -60,6 +60,8 @@
 <!ENTITY  showCookies.label             "Montri kuketojn…">
 <!ENTITY  showCookies.accesskey         "M">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName;">
+<!ENTITY  historyHeader2.pre.accesskey     "F">
 <!ENTITY  historyHeader.remember.label     "memoros historion">
 <!ENTITY  historyHeader.dontremember.label "neniam memoros historion">
 <!ENTITY  historyHeader.custom.label       "uzos personajn agordojn por la historio">
