@@ -260,5 +260,6 @@
 
 <!ENTITY legacyWarning.description "Misse jo wat? Guon útwreidingen wurde net langer stipe troch &brandShortName;.">
 <!ENTITY legacyWarning.showLegacy "Ferâldere útwreidingen toane">
+<!ENTITY legacyExtensions.title "Ferâldere útwreidingen">
 <!ENTITY legacyExtensions.description "Dizze útwreidingen foldogge op dit stuit net oan de &brandShortName;-standerts binne dêrom de-aktivearre.">
 <!ENTITY legacyExtensions.learnMore "Lear mear oer de wizigingen oan add-ons">
