@@ -552,7 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "D">
 <!ENTITY bookmarkThisFrameCmd.label      "Gosod Nod Tudalen i'r Ffrâm">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "F">
-<!ENTITY copyURLCmd.label             "Copïo URL">
+<!ENTITY copyURLCmd.label             "Copïo'r URL">
 <!ENTITY emailPageCmd.label           "E-bostio'r Ddolen…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Cadw Tudalen Fel…">
