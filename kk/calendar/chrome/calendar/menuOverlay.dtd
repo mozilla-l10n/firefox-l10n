@@ -1,0 +1,38 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- Event Menu -->
+
+
+
+
+<!ENTITY calendar.import.label                  "Импорттау…">
+<!ENTITY calendar.import.accesskey              "И">
+
+<!ENTITY calendar.export.label                  "Экспорттау…">
+<!ENTITY calendar.export.accesskey              "Э">
+
+
+
+
+
+
+<!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar
+      is the general action of removing it, while deleting means to clear the
+      data and unsubscribing means just taking it out of the calendar list. -->
+
+
+
+<!ENTITY calendar.menu.customize.label          "Баптау…">
+<!ENTITY calendar.menu.customize.accesskey      "а">
+
+
+
+
+
+
+
+
+
+
+
