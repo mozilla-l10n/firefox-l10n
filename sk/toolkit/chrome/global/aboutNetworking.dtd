@@ -43,4 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "Adresy IP">
 <!ENTITY aboutNetworking.rcwn                  "Štatistiky RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Stav RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Počet víťazstiev medzipamäte">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Počet víťazstiev siete">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Celkový počet sieťových požiadavkov">
