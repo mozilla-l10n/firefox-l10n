@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Показване на бележките по изданието на това обновяване">
 <!ENTITY cmd.hideReleaseNotes.label           "Скриване на бележките по изданието">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Скриване на бележките по изданието на това обновяване">
+<!ENTITY cmd.findReplacement.label            "Намерете заместител">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,9 @@
 
 <!ENTITY pluginDeprecation.description "Липсва ли нещо? Някои приставки вече не се поддържат от &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Научете повече">
+
+<!ENTITY legacyWarning.description "Липсва ли нещо? Някои разширения вече не се поддържат от &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Показване на остарелите разширения">
+<!ENTITY legacyExtensions.title "Остарели разширения">
+<!ENTITY legacyExtensions.description "Тези разширения не отговарят на текущите стандарти на &brandShortName; и затова са изключени.">
+<!ENTITY legacyExtensions.learnMore "Научете повече за промените в добавките">

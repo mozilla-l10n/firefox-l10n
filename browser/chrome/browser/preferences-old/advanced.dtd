@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Допълнителни процеси за обработка съдържание може да направят &brandShortName; по-отзивчив, при използване на повече раздели за сметка на повече използвана памет.">
 <!ENTITY limitContentProcessOption.accesskey   "с">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Променянето на броя на процесите за съдържание е възможно само при многопроцесен &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Научете как да проверите дали многопроцесността е включена">
 <!ENTITY allowHWAccel.label              "Използване на хардуерно ускоряване, ако е налично">
 <!ENTITY allowHWAccel.accesskey          "х">
