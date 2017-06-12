@@ -132,5 +132,7 @@
 <!ENTITY limitContentProcessOption.label "Terfyn proses cynnwys">
 <!ENTITY limitContentProcessOption.description "Mae modd gwella perfformiad prosesau cynnwys ychwanegol wrth ddefnyddio tabiau lluosog, ond fydd hefyd yn defnyddio rhagor o gof.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
+<!ENTITY limitContentProcessOption.disabledDescription "Dim ond yn y ferwin amlbroses o &brandShortName; y mae newid y nifer o brosesau cynnwys yn bosib.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Dysgwch sut i weld os yw amlbrosesu wedi ei alluogi.">
 <!ENTITY allowHWAccel.label              "Defnyddio cyflymu caledwedd pan fydd ar gael">
 <!ENTITY allowHWAccel.accesskey          "e">

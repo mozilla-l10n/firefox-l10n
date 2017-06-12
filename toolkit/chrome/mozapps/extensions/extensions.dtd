@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Dangos nodiadau rhyddhau'r diweddariad yma">
 <!ENTITY cmd.hideReleaseNotes.label           "Cuddio'r Nodiadau Ryddhau">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuddio nodiadau ryddhau'r diweddariad yma">
-
+<!ENTITY cmd.findReplacement.label            "Canfod Amnewidyn">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Colli Rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Dysgu Rhagor.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Colli rhywbeth? Nid yw rhai ategion yn cael eu cynnal bellach gan &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Dangos hen estyniadau">
+<!ENTITY legacyExtensions.title "Hen Estyniadau">
+<!ENTITY legacyExtensions.description "Nid yw'r estyniadau hyn yn cyrraedd safonau cyfredol &brandShortName; ac mae nhw wedi cael eu diffodd.">
+<!ENTITY legacyExtensions.learnMore "Dysgu am y newidiadau i ychwanegion">
