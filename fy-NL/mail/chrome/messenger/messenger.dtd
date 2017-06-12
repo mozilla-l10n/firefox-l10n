@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuele account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Folgjende 500 nijsberjochten downloade">
-<!ENTITY getNextNMsgCmd.accesskey "D">
+<!ENTITY getNextNMsgCmd2.label "Folgjende nijsberjocht ophelje">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Net-ferstjoerde berjochten ferstjoere">
 <!ENTITY sendUnsentCmd.accesskey "n">
 <!ENTITY subscribeCmd.label "Abonnearje…">
