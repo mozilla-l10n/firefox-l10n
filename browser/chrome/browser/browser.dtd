@@ -424,6 +424,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ŝanĝi preferojn…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Ŝ">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -820,6 +822,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ĉu vi volas pli da iloj?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elekti inter miloj de aldonaĵoj">
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
+<!ENTITY customizeMode.done "Farita">
 <!ENTITY customizeMode.titlebar "Titolstrio">
 <!ENTITY customizeMode.lwthemes "Etosoj">
 <!ENTITY customizeMode.lwthemes.myThemes "Miaj etosoj">
@@ -928,3 +931,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 
 
+<!ENTITY sendToDevice.label "Sendi al aparato…">
+<!ENTITY sendToDevice.viewTitle "Sendi al aparato">
