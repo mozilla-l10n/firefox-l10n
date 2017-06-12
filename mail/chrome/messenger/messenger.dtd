@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "В">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Текуща регистрация">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "е">
-<!ENTITY getNextNMsgCmd.label "Вземане на следващите 500 съобщения">
-<!ENTITY getNextNMsgCmd.accesskey "В">
+<!ENTITY getNextNMsgCmd2.label "Вземане на следващите съобщения">
+<!ENTITY getNextNMsgCmd2.accesskey "л">
 <!ENTITY sendUnsentCmd.label "Изпращане на неизпратените писма">
 <!ENTITY sendUnsentCmd.accesskey "щ">
 <!ENTITY subscribeCmd.label "Абониране…">
