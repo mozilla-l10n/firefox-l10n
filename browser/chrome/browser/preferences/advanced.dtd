@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Los procesos de contenido adicionales mejoran el rendimiento cuando se utilizan múltiples pestañas, pero también consumen más memoria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Es posible modificar el número de procesos de contenido solo con el multiproceso &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Aprender a comprobar si el multiproceso está habilitado">
 <!ENTITY allowHWAccel.label              "Usa aceleración de hardware cuando esté disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
