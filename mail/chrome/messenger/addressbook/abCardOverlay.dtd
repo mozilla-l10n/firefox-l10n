@@ -68,7 +68,7 @@
 <!ENTITY HomeCity.accesskey             "Г">
 <!ENTITY HomeState.label                "Област/Община:">
 <!ENTITY HomeState.accesskey            "О">
-<!ENTITY HomeZipCode.label              "ZIP/Пощенски код:">
+<!ENTITY HomeZipCode.label              "Пощенски код:">
 <!ENTITY HomeZipCode.accesskey          "щ">
 <!ENTITY HomeCountry.label              "Държава:">
 <!ENTITY HomeCountry.accesskey          "Д">
