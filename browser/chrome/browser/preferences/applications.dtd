@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Programoj">
+<!ENTITY  applications.description "Elekti kiel &brandShortName; traktas la dosierojn elŝutitajn el la Teksaĵo aŭ la programojn uzatajn por ilin malfermi.">
 
 <!ENTITY  typeColumn.label        "Tipo de enhavo">
 <!ENTITY  typeColumn.accesskey    "E">
@@ -13,3 +14,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
+<!ENTITY  filter2.emptytext        "Serĉi tipojn de dosiero aŭ programojn">
