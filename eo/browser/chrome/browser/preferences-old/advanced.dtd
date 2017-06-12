@@ -124,5 +124,6 @@
 <!ENTITY viewSecurityDevices.label       "Sekurecaj aparatoj">
 <!ENTITY viewSecurityDevices.accesskey   "s">
 
+<!ENTITY performance.label               "Efikeco">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
 <!ENTITY allowHWAccel.accesskey          "d">
