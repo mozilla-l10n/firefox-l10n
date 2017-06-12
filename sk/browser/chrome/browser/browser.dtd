@@ -213,7 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Otvorí panel správ uloženia hesla">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Správa používania zásuvných modulov">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Zmení, či môžete zo servera prijímať upozornenia">
-<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný vzdialene">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Uloží údaje do trvalého úložiska">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Prehliadač je ovládaný na diaľku">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Spravovať zdieľanie webkamery a/alebo mikrofónu so stránkou">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Spravovať zdieľanie mikrofónu so stránkou">
@@ -388,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Pridať do rozširujúcej ponuky">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "k">
 <!ENTITY customizeMenu.moveToToolbar.label "Presunúť na panel nástrojov">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -397,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Presunúť do ponuky">
 <!ENTITY customizeMenu.moveToPanel.accesskey "u">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pripnúť do rozširujúcej ponuky">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Zrušiť pripnutie v rozširujúcej ponuke">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "u">
 <!ENTITY customizeMenu.removeFromToolbar.label "Odstrániť z panela nástrojov">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "O">
 <!ENTITY customizeMenu.removeFromMenu.label "Odstrániť z ponuky">
