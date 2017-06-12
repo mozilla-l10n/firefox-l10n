@@ -50,10 +50,10 @@
 
 <!ENTITY  event.menu.item.new.label                       "Жаңа">
 <!ENTITY  event.menu.item.new.accesskey                   "Ж">
-
-
-
-
+<!ENTITY  event.menu.item.new.event.label                 "Оқиға">
+<!ENTITY  event.menu.item.new.event.accesskey             "О">
+<!ENTITY  event.menu.item.new.task.label                  "Тапсырма">
+<!ENTITY  event.menu.item.new.task.accesskey              "а">
 <!ENTITY  event.menu.item.new.message.label               "Хабарлама">
 <!ENTITY  event.menu.item.new.message.accesskey           "Х">
 
@@ -181,8 +181,8 @@
 
 <!-- Main page -->
 
-<!ENTITY event.title.textbox.label                        "Лауазымы:" >
-<!ENTITY event.title.textbox.accesskey                    "у">
+<!ENTITY event.title.textbox.label                        "Атауы:" >
+<!ENTITY event.title.textbox.accesskey                    "т">
 <!ENTITY event.location.label                             "Адресі:" >
 <!ENTITY event.location.accesskey                         "д">
 <!ENTITY event.categories.label                           "Санат:">
@@ -344,11 +344,11 @@
 
 <!ENTITY event.recurrence.forever.label                 "Аяқтау күні жоқ" >
 <!ENTITY event.recurrence.repeat.for.label              "Жасау" >
-<!ENTITY event.recurrence.appointments.label            "Кездесу" >
+<!ENTITY event.recurrence.appointments.label            "Кездесу(лер)" >
 <!ENTITY event.repeat.until.label                       "Келесіге дейін қайталау" >
 <!ENTITY event.recurrence.preview.label                 "Алдын-ала қарап шығу">
 <!-- Attendees dialog -->
-<!ENTITY event.organizer.label                  "Басқару">
+<!ENTITY event.organizer.label                  "Ұйымдастырушы">
 
 
 
@@ -365,7 +365,7 @@
 <!ENTITY event.attendee.usertype.individual     "Жеке">
 <!ENTITY event.attendee.usertype.group          "Топ">
 <!ENTITY event.attendee.usertype.resource       "Ресурсы">
-<!ENTITY event.attendee.usertype.room           "Бөлме:">
+<!ENTITY event.attendee.usertype.room           "Бөлме">
 <!ENTITY event.attendee.usertype.unknown        "Белгісіз">
 <!-- Timezone dialog -->
 
@@ -382,10 +382,10 @@
 <!ENTITY read.only.category.label        "Санаты:">
 <!ENTITY read.only.organizer.label       "Ұйымдастырушы:">
 <!ENTITY read.only.reply.label           "Жауап:">
-
-
-
-
+<!ENTITY read.only.accept.label          "Мен қатысамын">
+<!ENTITY read.only.decline.label         "Мен қатыспаймын">
+<!ENTITY read.only.tentative.label       "Менің қатысуым мүмкін">
+<!ENTITY read.only.needs.action.label    "Мен кейінірек растаймын">
 
 <!ENTITY read.only.attachments.label     "Салынымдар:">
 <!ENTITY read.only.attendees.label       "Қатысушылар">
