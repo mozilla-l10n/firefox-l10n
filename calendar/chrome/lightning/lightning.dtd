@@ -1,0 +1,79 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+<!-- WARNING! This file contains UTF-8 encoded characters!
+   - If this ==> … <== doesn't look like an ellipsis (three dots in a row),
+   - your editor isn't using UTF-8 encoding and may munge up the document!
+  -->
+<!-- Tools menu -->
+
+
+<!ENTITY lightning.preferencesLabel "Күнтізбе">
+<!-- New menu popup in File menu -->
+
+
+
+
+
+<!-- Open menu popup in File menu -->
+
+<!ENTITY lightning.menupopup.open.label               "Ашу">
+<!ENTITY lightning.menupopup.open.accesskey           "А">
+
+
+
+
+<!-- View Menu -->
+
+
+
+<!-- Events and Tasks menu -->
+
+<!-- properties dialog, calendar creation wizard -->
+<!-- iMIP Bar (meeting support) -->
+
+<!ENTITY lightning.imipbar.btnAccept.label                                  "Қабылдау">
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnDecline.label                                 "Тайдыру">
+
+
+
+<!ENTITY lightning.imipbar.btnDeclineCounter.label                          "Тайдыру">
+
+<!ENTITY lightning.imipbar.btnDelete.label                                  "Өшіру">
+
+<!ENTITY lightning.imipbar.btnDetails.label                                 "Көбірек білу…">
+
+<!ENTITY lightning.imipbar.btnMore.label                                    "Көбірек">
+
+
+
+
+
+
+
+
+
+
+
+<!ENTITY lightning.imipbar.btnUpdate.label                                  "Жаңартулар">
+
+
+<!-- Lightning specific keybindings -->
+
+
+
+<!-- Account Central page -->
+<!-- today-pane-specific -->
+
+
+
+
+
+
+
+
