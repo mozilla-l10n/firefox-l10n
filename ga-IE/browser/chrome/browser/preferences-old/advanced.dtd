@@ -132,5 +132,7 @@
 <!ENTITY limitContentProcessOption.label "Líon is mó próiseas ábhair">
 <!ENTITY limitContentProcessOption.description "Beidh an brabhsálaí níos freagraí agus tuilleadh próiseas ábhair ar siúl má úsáidtear cluaisíní iomadúla, cé go n-úsáideann sé níos mó cuimhne.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+
+
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">

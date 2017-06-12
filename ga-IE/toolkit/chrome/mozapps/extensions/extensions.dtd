@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Rud éigin ar iarraidh? Ní thacaíonn &brandShortName; le roinnt forlíontán a thuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Tuilleadh Eolais.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Rud éigin ar iarraidh? Ní thacaíonn &brandShortName; le roinnt eisínteachtaí a thuilleadh.">
+<!ENTITY legacyWarning.showLegacy "Taispeáin seaneisínteachtaí">
+<!ENTITY legacyExtensions.title "Seaneisínteachtaí">
+<!ENTITY legacyExtensions.description "Ní chloíonn na heisínteachtaí seo le caighdeáin &brandShortName; a thuilleadh agus dhíchumasaíomar iad.">
+<!ENTITY legacyExtensions.learnMore "Foghlaim faoi na hathruithe ar bhreiseáin">
