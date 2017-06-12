@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Seat den Scáileán">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Faoin Chóras Ama Rite">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monatóir">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Sainroghanna Gléis">
