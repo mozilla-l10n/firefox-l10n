@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Erakutsi eguneraketa honen bertsio-oharrak">
 <!ENTITY cmd.hideReleaseNotes.label           "Ezkutatu bertsio-oharrak">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ezkutatu eguneraketa honen bertsio-oharrak">
-
+<!ENTITY cmd.findReplacement.label            "Bilatu ordezkoa">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait plugin onartzen.">
 <!ENTITY pluginDeprecation.learnMore "Argibide gehiago.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Zerbait falta da? &brandShortName;(e)k ez ditu dagoeneko zenbait hedapen onartzen.">
+<!ENTITY legacyWarning.showLegacy "Erakutsi legatu-hedapenak">
+<!ENTITY legacyExtensions.title "Legatu-hedapenak">
+<!ENTITY legacyExtensions.description "Hedapen hauek ez dira &brandShortName;(r)en gutxieneko kalitatera heltzen eta desaktibatu egin dira.">
+<!ENTITY legacyExtensions.learnMore "Gehigarrien aldaketei buruzko argibide gehiago">

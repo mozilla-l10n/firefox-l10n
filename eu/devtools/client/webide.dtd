@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Pantaila-argazkia">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "P">
 <!ENTITY runtimeMenu_showDetails_label "Exekuzio-ingurunearen informazioa">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitorea">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Gailuaren hobespenak">
