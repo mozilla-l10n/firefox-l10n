@@ -68,6 +68,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin.accesskey  "s">
 
 <!ENTITY signedIn.settings.label       "Spegulaj agordoj">
+<!ENTITY signedIn.settings.description "Elekti tion, kion vi volas speguli en la aparatoj viaj, kiuj uzas &brandShortName;.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
