@@ -30,3 +30,4 @@
 <!ENTITY plugin.file                                         "Dosiero">
 <!ENTITY plugin.mimeTypes                                    "Tipoj MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Aktivigi protektitan reĝimon de Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Bloki danĝeran kaj trudiĝeman Flash-an enhavon">

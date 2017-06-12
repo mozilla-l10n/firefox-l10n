@@ -2,6 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Kontraŭspura protekto">
+<!ENTITY  trackingProtection.description       "Spurado estas la kolekto de informoj pri vi, kiun faras entreprenoj por krei profilon vian kaj montri enhavon surbaze de viaj retumaj kaj personaj datumoj.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloki la montron de enhavo de konataj spurantaj entreprenoj">
 <!ENTITY  trackingProtectionAlways.label       "Ĉiam">
 <!ENTITY  trackingProtectionAlways.accesskey   "m">
 <!ENTITY  trackingProtectionPrivate.label      "Nur en privataj fenestroj">
@@ -29,6 +32,7 @@
 
 <!ENTITY  locationBar.label             "Retadresa strio">
 
+<!ENTITY  locbar.suggest2.label         "Dum uzo de la retadresa strio, sugesti">
 <!ENTITY  locbar.history.label          "Historio">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Legosignoj">
@@ -38,6 +42,7 @@
 <!ENTITY  locbar.searches.label         "Rilatitaj serĉoj el la norma serĉilo">
 <!ENTITY  locbar.searches.accesskey     "R">
 
+<!ENTITY  suggestionSettings2.label     "Ŝanĝi preferojn pri serĉilaj sugestoj">
 
 <!ENTITY  acceptCookies.label           "Akcepti kuketojn el retejoj">
 <!ENTITY  acceptCookies.accesskey       "A">
