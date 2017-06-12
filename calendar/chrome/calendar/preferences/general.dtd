@@ -35,5 +35,6 @@
 
 
 
-
-
+<!ENTITY pref.eventsandtasks.label "Оқиғалар және тапсырмалар" >
+<!ENTITY pref.editInTab.label "Оқиғалар және тапсырмаларды сұхбат терезесінің орнына бетте түзету." >
+<!ENTITY pref.editInTab.accesskey "т">
