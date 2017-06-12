@@ -99,6 +99,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.searchFile): This is the text that appears
   -  in the source editor's context menu for the scripts search operation. -->
 
+<!ENTITY debuggerUI.searchFile           "Ciiwtirgal eskiript">
+<!ENTITY debuggerUI.searchFile.key       "P">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchGlobal): This is the text that appears
@@ -109,6 +111,8 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchFunction): This is the text that appears
   -  in the source editor's context menu for the function search operation. -->
+
+<!ENTITY debuggerUI.searchFunction           "Yiylo firo gollirgal">
 
 
 <!-- LOCALIZATION NOTE (debuggerUI.searchToken): This is the text that appears
@@ -140,6 +144,8 @@
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->
 
+<!ENTITY debuggerUI.seMenuBreak     "Ɓeydu toɓɓere dartorde">
+
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuCondBreak): This is the text that
   -  appears in the source editor context menu for adding a conditional
   -  breakpoint. -->
@@ -154,10 +160,10 @@
 <!-- LOCALIZATION NOTE (debuggerUI.tabs.*): This is the text that
   -  appears in the debugger's side pane tabs. -->
 <!ENTITY debuggerUI.tabs.sources        "Iwdeele">
-
-
+<!ENTITY debuggerUI.tabs.traces         "Ɓarakke">
+<!ENTITY debuggerUI.tabs.callstack      "Noddu joowondire">
 <!ENTITY debuggerUI.tabs.variables      "Baylotooɗe">
-
+<!ENTITY debuggerUI.tabs.events         "Joljole">
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuAddWatch): This is the text that
   -  appears in the source editor context menu for adding an expression. -->
 
