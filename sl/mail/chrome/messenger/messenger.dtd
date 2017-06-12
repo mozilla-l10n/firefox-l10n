@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Trenutni račun">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "T">
-<!ENTITY getNextNMsgCmd.label "Prejmi naslednjih 500 novičarskih sporočil">
-<!ENTITY getNextNMsgCmd.accesskey "e">
+<!ENTITY getNextNMsgCmd2.label "Prejmi naslednja novičarska sporočila">
+<!ENTITY getNextNMsgCmd2.accesskey "e">
 <!ENTITY sendUnsentCmd.label "Pošlji neposlana sporočila">
 <!ENTITY sendUnsentCmd.accesskey "š">
 <!ENTITY subscribeCmd.label "Naroči se …">
