@@ -9,7 +9,7 @@
 <!ENTITY calendar.unifinder.todoitems.label       "Тапсырмалар" >
 
 
-<!ENTITY calendar.today.button.label          "бүгінгі тарихымды">
+<!ENTITY calendar.today.button.label          "Бүгін">
 <!ENTITY calendar.tomorrow.button.label       "Ертең">
 
 
@@ -100,8 +100,8 @@
 <!ENTITY calendar.task.filter.title.label           "Көрсету">
 <!ENTITY calendar.task.filter.all.label             "Барлығы">
 <!ENTITY calendar.task.filter.all.accesskey         "Б">
-
-
+<!ENTITY calendar.task.filter.today.label           "Бүгін">
+<!ENTITY calendar.task.filter.today.accesskey       "Б">
 
 
 
@@ -119,7 +119,7 @@
      before today (or the selected date, whichever is later). -->
 
 
-<!ENTITY calendar.task-details.organizer.label       "альбомнан">
+
 
 
 <!ENTITY calendar.task-details.priority.normal.label "Қалыпты">

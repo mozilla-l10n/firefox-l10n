@@ -3,8 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Event Menu -->
 
+<!ENTITY event.new.event                        "Жаңа оқиға…">
+<!ENTITY event.new.event.accesskey              "ж">
 
-
+<!ENTITY event.new.task                         "Жаңа тапсырма…">
+<!ENTITY event.new.task.accesskey               "т">
 
 <!ENTITY calendar.import.label                  "Импорттау…">
 <!ENTITY calendar.import.accesskey              "И">
@@ -31,8 +34,11 @@
 
 
 
+<!ENTITY goTodayCmd.label                       "Бүгін">
+<!ENTITY goTodayCmd.accesskey                   "Б">
 
+<!ENTITY showCurrentView.label                  "Ағымдағы көрініс">
+<!ENTITY showCurrentView.accesskey              "к">
 
-
-
-
+<!ENTITY calendar.properties.label              "Күнтізбе қасиеттері…">
+<!ENTITY calendar.properties.accesskey          "н">
