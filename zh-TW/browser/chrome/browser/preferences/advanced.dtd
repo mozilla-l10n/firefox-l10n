@@ -150,5 +150,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "調高內容處理程序的數量，可改善開啟多個分頁時的效能，但也會使用更多記憶體。">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "僅能在多程序的 &brandShortName; 當中修改內容處理程序數量。">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "了解如何確認多程序模式是否已開啟">
 <!ENTITY allowHWAccel.label              "可用時開啟硬體加速">
 <!ENTITY allowHWAccel.accesskey          "r">
