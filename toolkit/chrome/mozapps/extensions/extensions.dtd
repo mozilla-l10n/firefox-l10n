@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Tampilkan catatan rilis versi baru ini">
 <!ENTITY cmd.hideReleaseNotes.label           "Sembunyikan Catatan Rilis">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Sembunyikan catatan rilis versi baru ini">
+<!ENTITY cmd.findReplacement.label            "Cari Penggantian">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
