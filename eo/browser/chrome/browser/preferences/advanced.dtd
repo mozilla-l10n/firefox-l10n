@@ -146,5 +146,13 @@
                                          "T">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Pli da informo">
+<!ENTITY limitContentProcessOption.label "Maksimuma nombro de enhavaj taskoj">
+<!ENTITY limitContentProcessOption.description
+                                         "Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.">
+<!ENTITY limitContentProcessOption.accesskey   "P">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Nur eblas modifi la nombron de enhavaj taskoj en plurproceza &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Pli da informo, pri kiel eltrovi ĉu plurprocezo estas aktiva">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
 <!ENTITY allowHWAccel.accesskey          "d">

@@ -125,5 +125,21 @@
 <!ENTITY viewSecurityDevices.accesskey   "s">
 
 <!ENTITY performance.label               "Efikeco">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Uzi konsilindajn efikecajn agordojn">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Tiu ĉi agordoj estas alĝustigitaj al la mastruma sistemo kaj aparataro de via komputilo.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "T">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Pli da informo">
+<!ENTITY limitContentProcessOption.label "Maksimuma nombro de enhavaj taskoj">
+<!ENTITY limitContentProcessOption.description
+                                         "Pli da enhavaj taskoj povas plibonigi efikecon dum uzo de pluraj langetoj, sed ili ankaŭ uzos pli da memoro.">
+<!ENTITY limitContentProcessOption.accesskey   "e">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Nur eblas modifi la nombron de enhavaj taskoj en plurproceza &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Informo pri kiel eltrovi ĉu plurprocezo estas aktiva">
 <!ENTITY allowHWAccel.label              "Uzi aparatan akceladon se tio disponeblas">
 <!ENTITY allowHWAccel.accesskey          "d">
