@@ -19,6 +19,9 @@
 <!ENTITY aboutUrlClassifier.cacheShowEntries            "Tampilkan entri">
 <!ENTITY aboutUrlClassifier.cacheEntries                "Entri Tembolok">
 <!ENTITY aboutUrlClassifier.cachePrefix                 "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Kedaluwarsa tembolok negatif">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Full hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Kedaluwarsa tembolok positif">
 <!ENTITY aboutUrlClassifier.debugTitle                  "Debug">
 <!ENTITY aboutUrlClassifier.debugModuleBtn              "Atur Modul Log">
 <!ENTITY aboutUrlClassifier.debugFileBtn                "Atur Berkas Log">
