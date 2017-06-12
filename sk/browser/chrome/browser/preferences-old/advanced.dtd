@@ -137,6 +137,8 @@
 <!ENTITY limitContentProcessOption.description
                                          "Viac procesov môže zlepšiť výkon pri otvorení viacerých kariet. Spotrebujú však viac pamäte.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Zmena počtu procesov obsahu je možná len pri použití multiprocesového režimu aplikácie &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Pozrite sa, ako môžete skontrolovať stav multiprocesového režimu">
 <!ENTITY allowHWAccel.label              "Použiť hardvérové urýchľovanie (ak je dostupné)">
