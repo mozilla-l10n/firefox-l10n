@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "ج">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "الحساب الحالي">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "ي">
-
-
+<!ENTITY getNextNMsgCmd2.label "اجلب رسائل الأخبار التالية">
+<!ENTITY getNextNMsgCmd2.accesskey "ل">
 <!ENTITY sendUnsentCmd.label "أرسِل الرسائل غير المرسَلة">
 <!ENTITY sendUnsentCmd.accesskey "ر">
 <!ENTITY subscribeCmd.label "اشترك…">
