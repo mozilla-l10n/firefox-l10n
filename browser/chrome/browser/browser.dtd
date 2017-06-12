@@ -350,6 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Viŝi ĵusan historion…">
 <!ENTITY appMenuHistory.restoreSession.label "Restarigi antaŭan seancon">
 <!ENTITY appMenuHistory.viewSidebar.label "Montri la flankan strion de historio">
+<!ENTITY appMenuHelp.label "Helpo">
 <!ENTITY appMenuHelp.tooltip "Malfermi menuon de helpo">
 
 <!ENTITY appMenuRemoteTabs.label "Spegulitaj langetoj">
@@ -406,6 +407,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Pli">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Serĉu ion aŭ tajpu adreson">
@@ -423,9 +425,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "J">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Konsileto:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Ŝanĝi elekteblojn…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "e">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Ŝanĝi preferojn…">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Ŝ">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "p">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -539,6 +544,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Aldoni legosignon por tiu ĉi kadro">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "l">
+<!ENTITY copyURLCmd.label             "Kopii ligilon">
 <!ENTITY emailPageCmd.label           "Sendi ligilon retpoŝte…">
 <!ENTITY emailPageCmd.accesskey       "S">
 <!ENTITY savePageCmd.label            "Konservi paĝon kiel…">
@@ -664,6 +670,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "G">
 
 <!ENTITY sidebarCloseButton.tooltip     "Fermi flankan strion">
+<!ENTITY sidebarMenuClose.label         "Fermi flankan strion">
 
 <!ENTITY quitApplicationCmdWin2.label       "Fini">
 <!ENTITY quitApplicationCmdWin2.accesskey   "F">
@@ -724,6 +731,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Tiu ĉi paĝo estas konservita en via komputilo.">
 <!ENTITY identity.connectionVerified2 "Vi estas sekure konektita al tiu ĉi retejo, kies posedanto estas:">
 <!ENTITY identity.connectionInternal "Tiu ĉi estas sekura paĝo de &brandShortName;.">
+<!ENTITY identity.extensionPage "Tiu ĉi paĝo estas ŝargata de etendaĵo.">
 <!ENTITY identity.insecureLoginForms2 "Akreditiloj uzitaj en tiu ĉi paĝo povus esti riskitaj.">
 
 <!-- Strings for connection state warnings. -->
@@ -824,6 +832,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Reuzi normajn valorojn">
 <!ENTITY customizeMode.done "Farita">
 <!ENTITY customizeMode.titlebar "Titolstrio">
+<!ENTITY customizeMode.toolbars2 "Ilarstrioj">
 <!ENTITY customizeMode.lwthemes "Etosoj">
 <!ENTITY customizeMode.lwthemes.myThemes "Miaj etosoj">
 <!ENTITY customizeMode.lwthemes.recommended "Rekomenditaj">
@@ -913,12 +922,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Pli da informo pri DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "i">
 
+<!ENTITY updateAvailable.message "Ĝisdatigu vian &brandShorterName; al la plej nova versio por sperti la lastajn rapidecajn kaj privatecajn plibonigojn.">
+<!ENTITY updateAvailable.whatsnew.label "Vidi la novaĵojn.">
+<!ENTITY updateAvailable.header.message "Nova ĝisdatigo de &brandShorterName; estas disponebla.">
 <!ENTITY updateAvailable.acceptButton.label "Elŝuti ĝisdatigon">
 <!ENTITY updateAvailable.acceptButton.accesskey "E">
 <!ENTITY updateAvailable.cancelButton.label "Nun ne">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Elŝuti ĝisdatigon por &brandShorterName;">
 
+<!ENTITY updateManual.message "Denove elŝutu &brandShorterName; kaj ni helpos vin instali ĝin.">
+<!ENTITY updateManual.whatsnew.label "Vidi la novaĵojn.">
+<!ENTITY updateManual.header.message "&brandShorterName; ne povas esti ĝisdatigita al la plej nova versio.">
 <!ENTITY updateManual.acceptButton.label "Elŝuti &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "E">
 <!ENTITY updateManual.cancelButton.label "Ne nun">
@@ -929,7 +944,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Ne nun">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Restartigu por ĝisdatigi &brandShorterName;">
 
 
 <!ENTITY sendToDevice.label "Sendi al aparato…">
 <!ENTITY sendToDevice.viewTitle "Sendi al aparato">
+<!ENTITY sendToDevice.fxaRequired.label "Postulata">
+<!ENTITY sendToDevice.noDevices.label "Neniu disponebla aparato">

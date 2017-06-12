@@ -4,6 +4,8 @@
 
 <!ENTITY startup.label             "Starto">
 
+<!ENTITY startupPage2.label        "Kiam &brandShortName; startas">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Montri vian ekan paĝon">
 <!ENTITY startupBlankPage.label    "Montri malplenan paĝon">
 <!ENTITY startupPrevSession.label  "Montri viajn lastajn fenestrojn kaj langetojn">
@@ -38,5 +40,6 @@
 
 <!ENTITY separateProfileMode.label        "Permesi ke &brandShortName; kaj Firefox funkciu samtempe">
 <!ENTITY useFirefoxSync.label             "Konsileto: tio ĉi uzas apartajn profilojn. Uzu Speguli por dividi datumojn inter ili.">
+<!ENTITY getStarted.notloggedin.label     "Komenci seancon en &syncBrand.shortName.label;…">
 
 <!ENTITY e10sEnabled.label                "Aktivigi plurprocezan &brandShortName;">
