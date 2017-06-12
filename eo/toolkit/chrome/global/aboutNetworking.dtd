@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Aŭtomata refreŝigado ĉiun trian sekundon">
 <!ENTITY aboutNetworking.hostname              "Nomo de servilo">
 <!ENTITY aboutNetworking.port                  "Pordo">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Aktiva">
 <!ENTITY aboutNetworking.idle                  "Senokupa">
@@ -40,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Trovi adreson">
 <!ENTITY aboutNetworking.dnsDomain             "Nomregno">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP adresoj">
+<!ENTITY aboutNetworking.rcwn                  "Statisktikoj de RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Stato de RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Nombro de venkoj de staplo">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Nombro de venkon de la reto">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Tuta nombro de retaj petoj">
