@@ -23,8 +23,6 @@
 <!ENTITY useAutoScroll.accesskey         "A">
 <!ENTITY useSmoothScrolling.label        "Sanften Bildlauf aktivieren">
 <!ENTITY useSmoothScrolling.accesskey    "S">
-<!ENTITY allowHWAccel.label              "Hardwarebeschleunigung verwenden, wenn verfügbar">
-<!ENTITY allowHWAccel.accesskey          "v">
 <!ENTITY checkUserSpelling.label         "Rechtschreibung während der Eingabe überprüfen">
 <!ENTITY checkUserSpelling.accesskey     "R">
 
@@ -125,3 +123,19 @@
 <!ENTITY viewCerts.accesskey             "Z">
 <!ENTITY viewSecurityDevices.label       "Kryptographie-Module">
 <!ENTITY viewSecurityDevices.accesskey   "K">
+
+<!ENTITY performance.label               "Leistung">
+<!ENTITY useRecommendedPerformanceSettings.label
+                                         "Empfohlene Leistungseinstellungen verwenden">
+<!ENTITY useRecommendedPerformanceSettings.description
+                                         "Diese Einstellungen sind für die Hardware und das Betriebssystem des Computers optimiert.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "E">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Weitere Informationen">
+<!ENTITY limitContentProcessOption.label "Maximale Anzahl an Inhaltsprozessen">
+<!ENTITY limitContentProcessOption.description
+                                         "Mehr Inhaltsprozesse verbessern die Leistung bei Verwendung mehrerer Tabs, aber nutzen auch mehr Arbeitsspeicher.">
+<!ENTITY limitContentProcessOption.accesskey   "M">
+<!ENTITY allowHWAccel.label              "Hardwarebeschleunigung verwenden, wenn verfügbar">
+<!ENTITY allowHWAccel.accesskey          "v">
