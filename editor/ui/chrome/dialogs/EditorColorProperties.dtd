@@ -14,14 +14,14 @@
 <!ENTITY normalText.accessKey "К">
 <!ENTITY linkText.label "Сілтеме мәтіні">
 <!ENTITY linkText.accessKey "С">
-
-
-
-
+<!ENTITY activeLinkText.label "Белсенді сілтеме мәтіні">
+<!ENTITY activeLinkText.accessKey "Б">
+<!ENTITY visitedLinkText.label "Қаралған сілтеме мәтіні">
+<!ENTITY visitedLinkText.accessKey "а">
 <!ENTITY background.label "Фон:">
 <!ENTITY background.accessKey "Ф">
 <!ENTITY colon.character ":">
-
-
-
+<!ENTITY backgroundImage.label "Фон суреті:">
+<!ENTITY backgroundImage.accessKey "у">
+<!ENTITY backgroundImage.tooltip "Парағыңыздың фоны ретінде суретті орнату">
 
