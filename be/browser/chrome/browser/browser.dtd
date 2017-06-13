@@ -50,7 +50,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.accesskey          "а">
 <!ENTITY  bookmarkAllTabs.label              "Закладкі на ўсе карткі…">
 <!ENTITY  bookmarkAllTabs.accesskey          "к">
-<!ENTITY  undoCloseTab.label                 "Адкаціць закрыццё карткі">
+<!ENTITY  undoCloseTab.label                 "Адмяніць закрыццё карткі">
 <!ENTITY  undoCloseTab.accesskey             "А">
 <!ENTITY  closeTab.label                     "Закрыць картку">
 <!ENTITY  closeTab.accesskey                 "З">
