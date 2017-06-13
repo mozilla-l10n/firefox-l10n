@@ -16,7 +16,7 @@
 <!ENTITY ListDescription.accesskey      "D">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Teipiwch gyfeiriadau e-bost i'w hychwanegu at y rhestr e-bostio:">
-<!ENTITY AddressTitle.accesskey         "m">
+<!ENTITY AddressTitle.accesskey         "e">
 <!ENTITY UpButton.label                 "Symud i Fyny">
 <!ENTITY DownButton.label               "Symud i Lawr">
 

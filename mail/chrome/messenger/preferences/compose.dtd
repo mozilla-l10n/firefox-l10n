@@ -55,7 +55,7 @@
 <!ENTITY editDirectories.label                 "Golygu Cyfeiriaduron…">
 <!ENTITY editDirectories.accesskey             "C">
 <!ENTITY showAsDefault.label                   "Cyfeiriadur cychwyn rhagosodedig yn ffenestr y llyfr cyfeiriadau:">
-<!ENTITY showAsDefault.accesskey               "s">
+<!ENTITY showAsDefault.accesskey               "c">
 <!ENTITY showAsDefaultLast.label               "Cyfeiriadur defnyddiwyd ddiwethaf">
 
 <!ENTITY sendOptionsDescription.label          "Ffurfweddi ymddygiad fformat testun">
