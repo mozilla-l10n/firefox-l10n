@@ -30,8 +30,8 @@
 
 <!ENTITY pref.numberofweeks.0 "ешнәрсе">
 <!ENTITY pref.numberofweeks.1 "1 апта">
-
-
-
-
-
+<!ENTITY pref.numberofweeks.2 "2 апта">
+<!ENTITY pref.numberofweeks.3 "3 апта">
+<!ENTITY pref.numberofweeks.4 "4 апта">
+<!ENTITY pref.numberofweeks.5 "5 апта">
+<!ENTITY pref.numberofweeks.6 "6 апта">

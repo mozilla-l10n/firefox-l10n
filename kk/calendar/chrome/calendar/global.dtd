@@ -33,7 +33,7 @@
 <!ENTITY month.2.name "Ақпан" >
 <!ENTITY month.3.name "Наурыз" >
 <!ENTITY month.4.name "Сәуір" >
-
+<!ENTITY month.5.name "Мамыр" >
 <!ENTITY month.6.name "Маусым" >
 <!ENTITY month.7.name "Шілде" >
 <!ENTITY month.8.name "Тамыз" >
@@ -42,8 +42,9 @@
 <!ENTITY month.11.name "Қараша" >
 <!ENTITY month.12.name "Желтоқсан" >
 
-
-
-
-
-
+<!ENTITY onemonthbackward.tooltip "Бір ай артқа" >
+<!ENTITY onemonthforward.tooltip "Бір ай алға" >
+<!ENTITY showToday.tooltip "Бүгінге өту">
+<!ENTITY onedayforward.tooltip "Бір күн алға">
+<!ENTITY onedaybackward.tooltip "Бір күн артқа">
+<!ENTITY showselectedday.tooltip "Таңдалған күн үшін оқиғаларды көрсету">
