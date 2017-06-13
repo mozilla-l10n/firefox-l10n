@@ -77,6 +77,7 @@
 
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
+<!ENTITY fxaccount_remove_account_toast2 'Tài khoản Firefox &formatS; ngắt kết nối.'>
 <!-- Localization note (fxaccount_remove_account_dialog_action_confirm): This is the label for the
  confirm button in the dialog that shows up when disconnecting from sync. -->
 <!ENTITY fxaccount_remove_account_dialog_action_confirm 'Ngắt kết nối'>

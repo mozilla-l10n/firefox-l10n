@@ -81,6 +81,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; thẻ">
 <!ENTITY bookmark_folder_one_item "1 mục">
+<!ENTITY bookmark_add_folder "Thêm thư mục mới">
 
 <!ENTITY reader_saved_offline "Đã lưu ngoại tuyến">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -270,8 +271,14 @@
      for experimental features. -->
 <!ENTITY pref_category_experimental "Các tính năng thử nghiệm">
 
+<!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
+     Instead of switching to the browser it appears as if the user stays in the third-party app.
+     For more see: https://developer.chrome.com/multidevice/android/customtabs -->
+<!ENTITY pref_custom_tabs "Tùy biến thẻ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Mở trong &formatS;">
+<!ENTITY custom_tabs_menu_footer "Được hỗ trợ bởi &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Đã sao chép URL">
 
@@ -319,6 +326,7 @@
 <!ENTITY pref_char_encoding "Mã ký tự">
 <!ENTITY pref_char_encoding_on "Hiển thị trình đơn">
 <!ENTITY pref_char_encoding_off "Không hiển thị trình đơn">
+<!ENTITY pref_clear_private_data2 "Xóa dữ liệu riêng tư">
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Xóa ngay">
@@ -688,6 +696,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!-- These are only used for accessibility for the done and overflow-menu buttons in the actionbar.
      They are never shown to users -->
+<!ENTITY actionbar_menu "Trình đơn">
 <!ENTITY actionbar_done "Xong">
 
 <!-- Voice search in the awesome bar -->
@@ -775,9 +784,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 Stream list for highlights sourced from th user's bookmarks. -->
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Đã thăm">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "Bỏ qua">
 <!ENTITY activity_stream_delete_history "Xóa khỏi lịch sử">
 
