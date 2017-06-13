@@ -434,10 +434,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tun:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Klaskit traoù en ur vezañ skoazellet! Klaskit an arlun &#x1F50E; e-kichen an alioù enklask.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Kemmañ an dibarzhioù...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "K">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Kemmañ ar Gwellvezioù...">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "G">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -551,7 +552,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Merkañ ar frammad war ur sined">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "M">
-
+<!ENTITY copyURLCmd.label             "Eilañ an URL">
 <!ENTITY emailPageCmd.label           "Kas an ere dre bostel…">
 <!ENTITY emailPageCmd.accesskey       "K">
 <!ENTITY savePageCmd.label            "Enrollañ ar bajenn evel…">
@@ -678,7 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Serriñ ar varrenn gostez">
-
+<!ENTITY sidebarMenuClose.label         "Serriñ ar varrenn gostez">
 
 <!ENTITY quitApplicationCmdWin2.label       "Kuitaat">
 <!ENTITY quitApplicationCmdWin2.accesskey   "K">
@@ -688,7 +689,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Kuitaat"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac2.label   "Kuitaat &brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Serriñ">  
 <!ENTITY closeCmd.key                   "W">  
@@ -732,6 +733,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ouzhpennañ geriadurioù…">
 <!ENTITY spellAddDictionaries.accesskey "a">
 
+<!ENTITY editBookmark.done.label                     "Graet">
 <!ENTITY editBookmark.removeBookmark.accessKey       "D">
 
 <!ENTITY identity.connectionSecure "Secure Connection">
@@ -739,7 +741,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "War hoc'h urzhiataer eo kadavet ar bajenn-mañ.">
 <!ENTITY identity.connectionVerified2 "Kennasket oc'h en un doare diogel ouzh al lec'hienn, perc'hennet gant :">
 <!ENTITY identity.connectionInternal "Ur bajenn &brandShortName; diarvar eo.">
-
+<!ENTITY identity.extensionPage "Diwar un askouezh eo karget ar bajenn-mañ.">
 <!ENTITY identity.insecureLoginForms2 "Treuzvarc'het e c'hall bezañ an titouroù kennaskañ enanket er bajenn-mañ.">
 <!-- Strings for connection state warnings. -->
 
@@ -838,9 +840,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ezhomm hoc'h eus muioc'h a ostilhoù ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Dibabit e-touez miliadoù a askouezhioù">
 <!ENTITY customizeMode.restoreDefaults "Assav ar re dre ziouer">
-
+<!ENTITY customizeMode.done "Graet">
 <!ENTITY customizeMode.titlebar "Barrenn ditl">
-
+<!ENTITY customizeMode.toolbars2 "&amp;Barrennoù ostilhoù">
 <!ENTITY customizeMode.lwthemes "Neuzioù">
 <!ENTITY customizeMode.lwthemes.myThemes "Ma neuzioù">
 <!ENTITY customizeMode.lwthemes.recommended "Erbedet">
