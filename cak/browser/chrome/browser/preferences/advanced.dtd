@@ -146,6 +146,6 @@
 <!ENTITY limitContentProcessOption.description "Ri taq ruxenab'al rutz'aqat rupam yetikïr nikutzilaj rub'eyal nisamäj toq nrokisaj k'ïy taq ruwi', xa chuqa' xtrokisaj k'ïy rutzatzq'ob'al.">
 <!ENTITY limitContentProcessOption.accesskey   "r">
 <!ENTITY limitContentProcessOption.disabledDescription "Ri rujalwachinik rajilab'al rutajinik rupam xa okel rik'in ri k'ïy tajinïk &brandShortName;.">
-
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Tawetamaj nanik'oj we tzijïl ri k'ïy tajinïk">
 <!ENTITY allowHWAccel.label              "Tokisäx rupararexik ch'akulakem toq xtiwachin pe">
 <!ENTITY allowHWAccel.accesskey          "a">
