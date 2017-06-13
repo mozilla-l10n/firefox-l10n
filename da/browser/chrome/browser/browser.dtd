@@ -390,7 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Føj til &gt;&gt;-menuen">
-<!ENTITY customizeMenu.addToOverflowMenu.accesskey "o">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.moveToToolbar.label "Flyt til værktøjslinje">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "y">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
