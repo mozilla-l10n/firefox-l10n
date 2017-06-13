@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "λ">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Τρέχοντα λογαριασμό">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "Τ">
-<!ENTITY getNextNMsgCmd.label "Λήψη επόμενων 500 μηνυμάτων">
-<!ENTITY getNextNMsgCmd.accesskey "ε">
+<!ENTITY getNextNMsgCmd2.label "Λήψη Επόμενων Μηνυμάτων Συζητήσεων">
+<!ENTITY getNextNMsgCmd2.accesskey "ζ">
 <!ENTITY sendUnsentCmd.label "Αποστολή εκκρεμών εξερχομένων μηνυμάτων">
 <!ENTITY sendUnsentCmd.accesskey "π">
 <!ENTITY subscribeCmd.label "Εγγραφή συνδρομητή...">
