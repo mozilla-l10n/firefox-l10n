@@ -93,7 +93,7 @@
 <!ENTITY undeleteMsgCmd.accesskey "V">
 <!ENTITY deleteMsgsCmd.label "Geselecteerde berichten verwijderen">
 <!ENTITY deleteMsgsCmd.accesskey "w">
-<!ENTITY undeleteMsgsCmd.label "Verwijderen geselecteerde berichten ongedaan maken">
+<!ENTITY undeleteMsgsCmd.label "Verwijderen van geselecteerde berichten ongedaan maken">
 <!ENTITY undeleteMsgsCmd.accesskey "V">
 <!ENTITY deleteFolderCmd.label "Map verwijderen">
 <!ENTITY deleteFolderCmd.accesskey "M">
