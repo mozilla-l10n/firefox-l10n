@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Navega…">
 <!ENTITY loaddevice.browse.accesskey            "N">
 
+<!ENTITY loaddevice.title2                      "Carrega el controlador de dispositiu PKCS#11">
