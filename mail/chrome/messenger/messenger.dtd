@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "A">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Huidige account">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "H">
-<!ENTITY getNextNMsgCmd.label "Volgende 500 nieuwsberichten ophalen">
-<!ENTITY getNextNMsgCmd.accesskey "d">
+<!ENTITY getNextNMsgCmd2.label "Volgende nieuwsberichten ophalen">
+<!ENTITY getNextNMsgCmd2.accesskey "h">
 <!ENTITY sendUnsentCmd.label "Niet-verzonden berichten verzenden">
 <!ENTITY sendUnsentCmd.accesskey "z">
 <!ENTITY subscribeCmd.label "Abonneren…">
