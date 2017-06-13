@@ -950,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "Llwytho i lawr fersiwn newydd o &brandShorterName;">
 
-<!ENTITY updateRestart.message "Ar ôl cychwyn cyflym, bydd &brandShorterName; yn adfer eich holl dabiau a ffenestri sydd ar agor.">
+<!ENTITY updateRestart.message "Ar ôl cychwyn cyflym, bydd &brandShorterName; yn adfer eich holl dabiau a'r ffenestri sydd ar agor.">
 <!ENTITY updateRestart.header.message2 "Ailgychwyn i ddiweddaru &brandShorterName;">
 <!ENTITY updateRestart.acceptButton.label "Ail gychwyn ac Adfer">
 <!ENTITY updateRestart.acceptButton.accesskey "A">
