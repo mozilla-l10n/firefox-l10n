@@ -15,9 +15,11 @@
 <!ENTITY calendar.export.label                  "Экспорттау…">
 <!ENTITY calendar.export.accesskey              "Э">
 
+<!ENTITY calendar.publish.label                 "Жариялау…">
+<!ENTITY calendar.publish.accesskey             "и">
 
-
-
+<!ENTITY calendar.deletecalendar.label          "Таңдалған күнтізбені өшіру…">
+<!ENTITY calendar.deletecalendar.accesskey      "ш">
 
 
 <!-- LOCALIZATION NOTE (calendar.removecalendar.label): Removing the calendar

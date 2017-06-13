@@ -7,6 +7,9 @@
   -->
 
 
+<!ENTITY pref.mainbox.label "Жалпы баптаулар" >
+
+
 <!ENTITY pref.dateformat.long "Ұзақ" >
 <!ENTITY pref.dateformat.short "Қысқа"  >
 
@@ -28,6 +31,7 @@
 
 
 
+<!ENTITY pref.calendar.todaypane.agenda.caption "Бүгінгі панелі">
 
 
 
