@@ -87,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; વસ્તુઓ">
 <!ENTITY bookmark_folder_one_item "1 વસ્તુ">
+<!ENTITY bookmark_parent_folder "મુખ્ય ફોલ્ડર">
+<!ENTITY bookmark_add_folder "નવું ફોલ્ડર બનાઓ">
 
 <!ENTITY reader_saved_offline "ઓફલાઇન સાચવ્યાં">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -118,7 +120,7 @@
 <!-- Localization note (switch_button_message): This string should be as short
      as possible because it's shown as a label in a toast.  Ideally, this string
      is upper-case, to match Google and Android's convention. -->
-<!ENTITY switch_button_message "સ્વિચ">
+<!ENTITY switch_button_message "SWITCH">
 <!-- Localization note (tab_title_prefix_is_playing_audio): This string is not
      visible in the UI, but rather used as a text-to-speech content description
      for sight-impaired a11y users. The content description is set on a tab
@@ -177,6 +179,7 @@
 <!ENTITY pref_category_privacy_short "ખાનગીપણુ">
 <!ENTITY pref_category_privacy_summary4 "ટ્રેકિંગ, લૉગિન્સ, ડેટા પસંદગીઓ">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
+<!ENTITY pref_category_vendor_summary2 "&brandShortName;, વિષે FAQs, પ્રતિસાદ">
 <!ENTITY pref_category_datareporting "માહિતી વિકલ્પો">
 <!ENTITY pref_category_logins "પ્રવેશો">
 <!ENTITY pref_learn_more "વધુ શીખો">
@@ -195,14 +198,19 @@
      context means consuming less data, e.g. by not loading images, not
      “storing data”. -->
 <!ENTITY pref_category_notifications "સૂચનાઓ">
+<!ENTITY pref_category_notifications_summary "નવી સુવિધાઓ, વેબસાઇટ અપડેટ્સ">
 <!ENTITY pref_content_notifications "વેબસાઇટ સુધારાઓ">
 <!ENTITY pref_content_notifications_summary2 "સમર્થિત સાઇટ્સમાંથી નવી સામગ્રી શોધો">
+<!ENTITY pref_developer_remotedebugging_usb "દૂરસ્થ ડિબગીંગ USB દ્વારા">
+<!ENTITY pref_developer_remotedebugging_wifi "દૂરસ્થ ડિબગીંગ વાય ફાઇ દ્વારા">
 <!ENTITY pref_remember_signons2 "પ્રવેશો યાદ રાખો">
+<!ENTITY pref_manage_logins "લૉગિન સંચાલન કરો">
 
 <!ENTITY pref_category_home "ઘર">
 <!ENTITY pref_category_home_summary "તમારું ઘરપાનું વૈવિધ્યપૂર્ણ બનાવો">
 <!ENTITY pref_category_home_panels "પેનલો">
 <!ENTITY pref_category_home_add_ons "એડ-ઓન">
+<!ENTITY pref_home_updates2 "સામગ્રી અપડેટ્સ">
 <!ENTITY pref_home_updates_enabled "સક્રિય કરેલ">
 <!ENTITY pref_home_updates_wifi "માત્ર Wi-Fi પર">
 <!ENTITY pref_category_home_homepage "મુખ પૃષ્ઠ">
@@ -237,7 +245,7 @@
 
 <!ENTITY pref_cookies_menu "નકલો">
 <!ENTITY pref_cookies_accept_all "સક્રિય કરેલ">
-<!ENTITY pref_cookies_not_accept_foreign "સક્રિય કરેલ, ત્રીજી વ્યક્તિને નહિ સમાવીને">
+<!ENTITY pref_cookies_not_accept_foreign "સક્ષમ, 3જી પક્ષ સિવાય">
 <!ENTITY pref_cookies_disabled "નિષ્ક્રિય કરેલ">
 
 <!-- Localization note (pref_category_data_saver): “data saver” in this
@@ -275,14 +283,17 @@
 <!ENTITY pref_custom_tabs "કસ્ટમ ટૅબ્સ">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "ખોલો &formatS;">
 <!ENTITY custom_tabs_menu_footer "&brandShortName; દ્વારા સંચાલિત">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL નકલ">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "પ્રવૃત્તિ સ્ટ્રીમ">
 
 <!ENTITY tracking_protection_prompt_title "હવે ટ્રેકિંગ પ્રોટેક્શન સાથે">
 <!ENTITY tracking_protection_prompt_tip_text "વધુ જાણવા માટે ગોપનીયતા સેટિંગ્સ ની મુલાકાત લો">
+<!ENTITY tracking_protection_prompt_action_button "સમજાઈ ગયું!">
 
 <!ENTITY tab_queue_toast_action "હવે ખોલો">
 <!ENTITY tab_queue_prompt_title "બહુવિધ લિંક્સ ખુલે છે?">
