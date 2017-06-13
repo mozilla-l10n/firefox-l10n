@@ -687,3 +687,4 @@
 <!ENTITY sendToDevice.viewTitle "Invia a dispositivo">
 <!ENTITY sendToDevice.fxaRequired.label "Necessario">
 <!ENTITY sendToDevice.noDevices.label "Nessun dispositivo disponibile">
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizzazione dispositivi…">
