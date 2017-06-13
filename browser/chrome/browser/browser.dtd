@@ -949,7 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; 의 새 복사본 다운로드">
 
-<!ENTITY updateRestart.message "&brandShorterName;를 빠르게 다시 시작하고 나면, 열려있던 모든 탭과 창이 그대로 다시 열립니다.">
+<!ENTITY updateRestart.message "바로 재시작 하고 나면 &brandShorterName;에 열려있던 탭과 창은 복원됩니다.">
 <!ENTITY updateRestart.header.message2 "&brandShorterName;를 닫고 다시 열어 업데이트를 합니다.">
 <!ENTITY updateRestart.acceptButton.label "재시작하여 복원하기">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
