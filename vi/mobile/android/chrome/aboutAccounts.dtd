@@ -4,9 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Tài khoản Firefox">
 
-
-
 <!ENTITY aboutAccounts.noConnection.title "Không có kết nối mạng">
-
+<!ENTITY aboutAccounts.retry.label "Thử lại">
 
 <!ENTITY aboutAccounts.restrictedError.description "Bạn không thể quản lý tài khoản Firefox từ hồ sơ này.">
