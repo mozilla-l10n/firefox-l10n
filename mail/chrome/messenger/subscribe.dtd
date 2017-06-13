@@ -19,4 +19,4 @@
 <!-- commenting out until bug 38906 is fixed 
 <!ENTITY messagesHeader.label         "Messages"> -->
 <!ENTITY namefield.label              "Mostrar itens que contenham:">
-<!ENTITY namefield.accesskey          "s">
+<!ENTITY namefield.accesskey          "o">
