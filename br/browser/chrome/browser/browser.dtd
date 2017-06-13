@@ -842,7 +842,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Assav ar re dre ziouer">
 <!ENTITY customizeMode.done "Graet">
 <!ENTITY customizeMode.titlebar "Barrenn ditl">
-<!ENTITY customizeMode.toolbars2 "&amp;Barrennoù ostilhoù">
+<!ENTITY customizeMode.toolbars2 "Barrennoù ostilhoù">
 <!ENTITY customizeMode.lwthemes "Neuzioù">
 <!ENTITY customizeMode.lwthemes.myThemes "Ma neuzioù">
 <!ENTITY customizeMode.lwthemes.recommended "Erbedet">
