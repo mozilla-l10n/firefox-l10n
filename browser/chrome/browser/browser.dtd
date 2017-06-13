@@ -434,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "துணுக்கு:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "காரியங்களைக் கண்டுபிடிக்க உதவுங்கள்! தேடல் பரிந்துரைக்கு அடுத்து &#x1F50E; என்பதற்காக பாருங்கள்.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "விருப்பங்களை மாற்றுக...">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "முன்னுரிமைகளை மாற்றுக...">
@@ -949,7 +950,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
-<!ENTITY updateRestart.message "ஒரு அதிவேக மீட்துவக்கத்திற்கு பிறகு, &brandShorterName; உலாவி திறந்து கீற்றுகள் சாளரங்கள் அனைத்தையும் மீட்டமைத்துவிடும்.">
+<!ENTITY updateRestart.message "ஒரு அதிவேக மீட்துவக்கத்திற்கு பிறகு, &brandShorterName; திறந்த கீற்றுகள் சாளரங்கள் என அனைத்தையும் உலாவி மீட்டமைத்துவிடும்.">
 <!ENTITY updateRestart.header.message2 "புதுப்பிக்க &brandShorterName; உலாவியை மீள்துவக்கு">
 <!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
