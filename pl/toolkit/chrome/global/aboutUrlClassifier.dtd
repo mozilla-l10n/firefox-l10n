@@ -17,7 +17,7 @@
 <!ENTITY aboutUrlClassifier.cachePCacheEntries "Liczba pozytywnych wpisów pamięci podręcznej">
 <!ENTITY aboutUrlClassifier.cacheShowEntries "Wyświetl wpisy">
 <!ENTITY aboutUrlClassifier.cacheEntries "Wpisy pamięci podręcznej">
-<!ENTITY aboutUrlClassifier.cachePrefix "Prefiks">
+<!ENTITY aboutUrlClassifier.cachePrefix "Przedrostek">
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Data wygasania negatywnych wpisów pamięci podręcznej">
 <!ENTITY aboutUrlClassifier.cacheFullhash "Pełna wartość skrótu">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry "Data wygasania pozytywnych wpisów pamięci podręcznej">
