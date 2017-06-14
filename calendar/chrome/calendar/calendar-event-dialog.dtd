@@ -217,8 +217,8 @@
 <!ENTITY event.to.accesskey                               "Б">
 <!ENTITY task.to.label                                    "Бітіру күні:" >
 <!ENTITY task.to.accesskey                                "т">
-<!ENTITY task.status.label                                "Күй-жайы:" >
-<!ENTITY task.status.accesskey                            "ж">
+<!ENTITY task.status.label                                "Қалып-күйі:" >
+<!ENTITY task.status.accesskey                            "к">
 <!ENTITY event.repeat.label                               "Қайталау:" >
 <!ENTITY event.repeat.accesskey                           "а">
 <!ENTITY event.until.label                                "Дейін:">

@@ -34,7 +34,8 @@
 
 
 
-
+<!ENTITY calendar.displaytodos.checkbox.label       "Тапсырмаларды күнтізбеде көрсету">
+<!ENTITY calendar.displaytodos.checkbox.accesskey   "Т">
 
 <!ENTITY goTodayCmd.label                       "Бүгін">
 <!ENTITY goTodayCmd.accesskey                   "Б">

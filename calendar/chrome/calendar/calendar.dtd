@@ -114,20 +114,22 @@
 <!ENTITY calendar.task.filter.today.accesskey       "Б">
 <!ENTITY calendar.task.filter.next7days.label       "Келесі жеті күн">
 <!ENTITY calendar.task.filter.next7days.accesskey   "К">
-
-
-
-
-
-
-
-
+<!ENTITY calendar.task.filter.notstarted.label      "Басталмаған тапсырмалар">
+<!ENTITY calendar.task.filter.notstarted.accesskey  "а">
+<!ENTITY calendar.task.filter.overdue.label         "Мерзімінен асқан тапсырмалар">
+<!ENTITY calendar.task.filter.overdue.accesskey     "М">
+<!ENTITY calendar.task.filter.completed.label       "Аяқталған тапсырмалар">
+<!ENTITY calendar.task.filter.completed.accesskey   "а">
+<!ENTITY calendar.task.filter.open.label            "Аяқталмаған тапсырмалар">
+<!ENTITY calendar.task.filter.open.accesskey        "я">
 <!-- LOCALIZATION NOTE(calendar.task.filter.current.label)
      "Current Tasks" will show all tasks, except those with a start date set
      that is after today and after the selected date. If a task repeats, a
      separate entry will be shown for each of the occurrences that happen on or
      before today (or the selected date, whichever is later). -->
 
+<!ENTITY calendar.task.filter.current.label         "Ағымдағы тапсырмалар">
+<!ENTITY calendar.task.filter.current.accesskey     "ы">
 
 <!ENTITY calendar.task-details.title.label           "атауы">
 <!ENTITY calendar.task-details.organizer.label       "бастап">
@@ -135,17 +137,18 @@
 <!ENTITY calendar.task-details.priority.low.label    "төмен">
 <!ENTITY calendar.task-details.priority.normal.label "Қалыпты">
 <!ENTITY calendar.task-details.priority.high.label   "Жоғары">
-<!ENTITY calendar.task-details.status.label          "күй-жайы">
+<!ENTITY calendar.task-details.status.label          "қалып-күйі">
 <!ENTITY calendar.task-details.category.label        "санат">
 <!ENTITY calendar.task-details.repeat.label          "қайталау">
 <!ENTITY calendar.task-details.attachments.label     "салынымдар">
 <!ENTITY calendar.task-details.start.label           "бастапқы күні">
 <!ENTITY calendar.task-details.due.label             "бітіру күні">
 
-
+<!ENTITY calendar.task.category.button.tooltip  "Тапсырмаларды санаттарға бөлу">
+<!ENTITY calendar.task.complete.button.tooltip  "Таңдалған тапсырмаларды аяқталған ретінде белгілеу">
 <!ENTITY calendar.task.priority.button.tooltip  "Приоритетін өзгерту">
 
-<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Тапсырмаларды #1 сүзгілеу">
+<!ENTITY calendar.task.text-filter.textbox.emptytext.base1           "Тапсырмаларды сүзгілеу #1">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.nonmac "&lt;Ctrl+Shift+K&gt;">
 <!ENTITY calendar.task.text-filter.textbox.emptytext.keylabel.mac    "&lt;&#x21E7;&#x2318;K&gt;">
 <!-- Context Menu -->
@@ -266,7 +269,8 @@
 
 
 
-
+<!ENTITY calendar.tasks.view.filtertasks.label           "Тапсырмаларды сүзгілеу">
+<!ENTITY calendar.tasks.view.filtertasks.accesskey       "з">
 <!-- Calendar Alarm Dialog -->
 
 
