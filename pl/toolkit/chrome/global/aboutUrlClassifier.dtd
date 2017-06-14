@@ -21,14 +21,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Data wygasania negatywnych wpisów pamięci podręcznej">
 <!ENTITY aboutUrlClassifier.cacheFullhash "Pełna wartość skrótu">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry "Data wygasania pozytywnych wpisów pamięci podręcznej">
-<!ENTITY aboutUrlClassifier.lookupTitle "Wyszukiwanie">
-<!ENTITY aboutUrlClassifier.lookupUrl "URL">
-<!ENTITY aboutUrlClassifier.lookupMatch "Dopasowanie">
-<!ENTITY aboutUrlClassifier.lookupMatchBtn "Sprawdź wynik dopasowania">
-<!ENTITY aboutUrlClassifier.lookupLookup "Wyszukiwanie">
-<!ENTITY aboutUrlClassifier.lookupBtn "Sprawdź wynik wyszukiwania">
-<!ENTITY aboutUrlClassifier.memoryTitle "Pamięć">
-<!ENTITY aboutUrlClassifier.databaseTitle "Baza danych">
 <!ENTITY aboutUrlClassifier.debugTitle "Debugowanie">
 <!ENTITY aboutUrlClassifier.debugModuleBtn "Wybierz moduły dziennika">
 <!ENTITY aboutUrlClassifier.debugFileBtn "Wybierz plik dziennika">
