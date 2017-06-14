@@ -8,9 +8,9 @@
 
 
 <!ENTITY pref.calendar.view.allview.caption "Жалпы">
-
-
-
+<!ENTITY pref.calendar.view.dayandweekviews.caption "Күн және апта көріністері">
+<!ENTITY pref.calendar.view.multiweekview.caption "Бірнеше апталық көрініс">
+<!ENTITY pref.calendar.view.workweek.caption "Жұмыс аптасы">
 
 <!ENTITY pref.weekstarts.label "Аптаның басы:">
 <!ENTITY pref.weekstarts.accesskey "т">
