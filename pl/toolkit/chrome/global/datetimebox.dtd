@@ -7,3 +7,7 @@
 <!ENTITY time.second.placeholder "--">
 <!ENTITY time.millisecond.placeholder "--">
 <!ENTITY time.dayperiod.placeholder "--">
+
+<!ENTITY date.year.placeholder "rrrr">
+<!ENTITY date.month.placeholder "mm">
+<!ENTITY date.day.placeholder "dd">
