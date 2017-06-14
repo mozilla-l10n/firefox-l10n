@@ -9,7 +9,19 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime "Następne uaktualnienie">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Status ostatniego uaktualnienia">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn "Uaktualnij">
-<!ENTITY aboutUrlClassifier.lookupTitle "Lookup">
+<!ENTITY aboutUrlClassifier.cacheTitle "Pamięć podręczna">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn "Odśwież">
+<!ENTITY aboutUrlClassifier.cacheClearBtn "Wyczyść">
+<!ENTITY aboutUrlClassifier.cacheTableName "Nazwa tabeli">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries "Liczba negatywnych wpisów pamięci podręcznej">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries "Liczba pozytywnych wpisów pamięci podręcznej">
+<!ENTITY aboutUrlClassifier.cacheShowEntries "Wyświetl wpisy">
+<!ENTITY aboutUrlClassifier.cacheEntries "Wpisy pamięci podręcznej">
+<!ENTITY aboutUrlClassifier.cachePrefix "Prefiks">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Data wygasania negatywnych wpisów pamięci podręcznej">
+<!ENTITY aboutUrlClassifier.cacheFullhash "Pełna wartość skrótu">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry "Data wygasania pozytywnych wpisów pamięci podręcznej">
+<!ENTITY aboutUrlClassifier.lookupTitle "Wyszukiwanie">
 <!ENTITY aboutUrlClassifier.lookupUrl "URL">
 <!ENTITY aboutUrlClassifier.lookupMatch "Dopasowanie">
 <!ENTITY aboutUrlClassifier.lookupMatchBtn "Sprawdź wynik dopasowania">
