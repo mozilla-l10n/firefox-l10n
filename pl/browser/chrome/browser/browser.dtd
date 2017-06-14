@@ -727,7 +727,6 @@
 
 <!ENTITY updateAvailable.message "Uaktualnij program &brandShorterName; dla szybkości i bezpieczeństwa.">
 <!ENTITY updateAvailable.whatsnew.label "Sprawdź co nowego.">
-<!ENTITY updateAvailable.whatsnew.href "https://www.mozilla.org/pl/">
 <!ENTITY updateAvailable.header.message "Nowa wersja programu &brandShorterName; jest dostępna.">
 <!ENTITY updateAvailable.acceptButton.label "Pobierz aktualizację">
 <!ENTITY updateAvailable.acceptButton.accesskey "P">
@@ -737,7 +736,6 @@
 
 <!ENTITY updateManual.message "Pobierz świeżą kopię programu &brandShorterName;, a my pomożemy ją zainstalować.">
 <!ENTITY updateManual.whatsnew.label "Sprawdź co nowego.">
-<!ENTITY updateManual.whatsnew.href "https://www.mozilla.org/pl/">
 <!ENTITY updateManual.header.message "&brandShorterName; nie może zostać uaktualniony do najnowszej wersji.">
 <!ENTITY updateManual.acceptButton.label "Pobierz program &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "P">
