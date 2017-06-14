@@ -72,8 +72,7 @@
 <!ENTITY col.description.label "Descrizione">
 <!ENTITY col.dateadded.label "Data inserimento">
 <!ENTITY col.lastmodified.label "Ultima modifica">
-<!ENTITY search.label "Cerca:">
-<!ENTITY search.accesskey "r">
+<!ENTITY search.placeholder "Cerca">
 <!ENTITY cmd.find.key "f">
 <!ENTITY maintenance.label "Importa e salva">
 <!ENTITY maintenance.accesskey "m">
@@ -85,8 +84,6 @@
 <!ENTITY detailsPane.less.label "Meno dati">
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Selezionare un elemento per visualizzarne e modificarne le proprietà">
-<!ENTITY find.label "Cerca:">
-<!ENTITY find.accesskey "r">
 <!ENTITY view.label "Visualizza">
 <!ENTITY view.accesskey "z">
 <!ENTITY byDate.label "Data">
