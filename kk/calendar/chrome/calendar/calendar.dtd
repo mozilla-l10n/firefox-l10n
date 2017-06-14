@@ -46,13 +46,13 @@
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Аяқталған">
 
 <!ENTITY calendar.unifinder.tree.categories.label          "Санат">
-
+<!ENTITY calendar.unifinder.tree.categories.tooltip2       "Санаты бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.location.label            "Орналасқан жері">
 <!ENTITY calendar.unifinder.tree.location.tooltip2         "Орналасуы бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.status.label              "Қалып-күйі">
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Қалып-күйі бойынша сұрыптау">
-
-
+<!ENTITY calendar.unifinder.tree.calendarname.label        "Күнтізбе аты">
+<!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Күнтізбе аты бойынша сұрыптау">
 
 
 
