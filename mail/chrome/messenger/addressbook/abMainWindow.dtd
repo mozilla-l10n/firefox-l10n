@@ -11,7 +11,7 @@
 <!ENTITY fileMenu.accesskey                             "Ф">
 <!ENTITY newMenu.label                                  "Нови">
 <!ENTITY newMenu.accesskey                              "Н">
-<!ENTITY newContact.label                               "Визитка в адресника…">
+<!ENTITY newContact.label                               "Контакт от адресника…">
 <!ENTITY newContact.accesskey                           "В">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Пощенски списък…">

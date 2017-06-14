@@ -15,7 +15,7 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; е достъпен според условията на ">
+<!ENTITY rights.intro-point1a "&brandShortName; е достъпен под условията на ">
 <!ENTITY rights.intro-point1b "Mozilla Public License">
 <!ENTITY rights.intro-point1c ". Това означава, че може да използвате, копирате и давате на други &brandShortName;. Също така, да променяте програмния код според вашите специфични нужди. Лицензът „Mozilla Public License“ ви дава правото да разпространявате променени версии.">
 
