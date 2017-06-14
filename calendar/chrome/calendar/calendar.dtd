@@ -155,8 +155,8 @@
 
 <!ENTITY calendar.context.modifyorviewitem.label      "Ашу">
 <!ENTITY calendar.context.modifyorviewitem.accesskey  "А">
-
-
+<!ENTITY calendar.context.modifyorviewtask.label      "Тапсырманы ашу…">
+<!ENTITY calendar.context.modifyorviewtask.accesskey  "ш">
 <!ENTITY calendar.context.newevent.label              "Жаңа оқиға…">
 <!ENTITY calendar.context.newevent.accesskey          "Ж">
 <!ENTITY calendar.context.newtodo.label               "Жаңа тапсырма…">
@@ -189,7 +189,8 @@
 
 <!ENTITY percnt "&#38;#37;" >
 
-
+<!ENTITY calendar.context.markcompleted.label     "Аяқталған етіп белгілеу">
+<!ENTITY calendar.context.markcompleted.accesskey "я">
 
 <!ENTITY progress.level.0.accesskey   "0">
 
@@ -228,15 +229,17 @@
 
 <!ENTITY calendar.context.newserver.label              "Жаңа күнтізбе…">
 <!ENTITY calendar.context.newserver.accesskey          "Ж">
-
-
-
-
+<!ENTITY calendar.context.findcalendar.label           "Күнтізбені табу…" >
+<!ENTITY calendar.context.findcalendar.accesskey       "т" >
+<!ENTITY calendar.context.deleteserver2.label          "Күнтізбені жою…">
+<!ENTITY calendar.context.deleteserver2.accesskey      "о">
 <!-- LOCALIZATION NOTE (calendar.context.removeserver.label): Removing the
       calendar is the general action of removing it, while deleting means to
       clear the data and unsubscribing means just taking it out of the calendar
       list. -->
 
+<!ENTITY calendar.context.removeserver.label           "Күнтізбені өшіру…">
+<!ENTITY calendar.context.removeserver.accesskey       "ш">
 
 
 
