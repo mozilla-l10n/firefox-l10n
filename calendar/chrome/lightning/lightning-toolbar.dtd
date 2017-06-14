@@ -29,7 +29,7 @@
 
 <!ENTITY lightning.toolbar.newevent.label     "Оқиға">
 <!ENTITY lightning.toolbar.newevent.tooltip   "Жаңа оқиғаны жасау">
-<!ENTITY lightning.toolbar.newtask.label      "Үрдіс">
+<!ENTITY lightning.toolbar.newtask.label      "Тапсырма">
 <!ENTITY lightning.toolbar.newtask.tooltip    "Жаңа тапсырманы жасау">
 <!-- Calendar and Task Mode Toolbar -->
 
