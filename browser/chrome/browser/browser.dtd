@@ -277,7 +277,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY webDeveloperMenu.label       "Уебразработчик">
 <!ENTITY webDeveloperMenu.accesskey   "У">
 
-<!ENTITY inspectContextMenu.label     "Изследване на елемент">
+<!ENTITY inspectContextMenu.label     "Изследване на елемента">
 <!ENTITY inspectContextMenu.accesskey "И">
 
 <!ENTITY fileMenu.label         "Файл"> 
