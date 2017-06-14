@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- for SearchDialog.xul -->
 
+<!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label         "Търсене на писма в:">
 <!ENTITY searchHeading.accesskey     "р">
 <!ENTITY searchSubfolders.label      "Търсене на подпапки">
@@ -24,8 +24,8 @@
 <!ENTITY openInFolder.accesskey      "к">
 <!ENTITY saveAsVFButton.label        "Запиши като папка за търсене">
 <!ENTITY saveAsVFButton.accesskey    "ш">
-<!-- for ABSearchDialog.xul -->
 
+<!-- for ABSearchDialog.xul -->
 <!ENTITY abSearchHeading.label       "Търсене в:">
 <!ENTITY abSearchHeading.accesskey   "Т">
 <!ENTITY propertiesButton.label      "Свойства">
@@ -35,8 +35,8 @@
 <!ENTITY deleteCardButton.label      "Изтриване">
 <!ENTITY deleteCardButton.accesskey  "з">
 <!ENTITY abSearchDialogTitle.label   "Разширено търсене в адресника">
-<!-- Thread Pane -->
 
+<!-- Thread Pane -->
 <!ENTITY threadColumn.label "Дискусия">
 <!ENTITY fromColumn.label "Подател">
 <!ENTITY recipientColumn.label "Получател">
@@ -45,7 +45,7 @@
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Приоритет">
 <!ENTITY tagsColumn.label "Етикети">
-<!ENTITY accountColumn.label "Пощенски адрес">
+<!ENTITY accountColumn.label "Сметка">
 <!ENTITY statusColumn.label "Състояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Статус нежелана поща">
@@ -56,8 +56,8 @@
 <!ENTITY starredColumn.label "Със звезда">
 <!ENTITY locationColumn.label "Местоположение">
 <!ENTITY idColumn.label "Ред на получаване">
-<!-- Thread Pane Tooltips -->
 
+<!-- Thread Pane Tooltips -->
 <!ENTITY columnChooser2.tooltip "Изберете колоните, които да се показват">
 <!ENTITY threadColumn2.tooltip "Показване на нишките на съобщенията">
 <!ENTITY fromColumn2.tooltip "Сортиране по подател">

@@ -555,7 +555,7 @@
 <!ENTITY folderLocationToolbarItem.title "Местоположение на папката">
 <!ENTITY tagButton.label "Етикет">
 <!ENTITY compactButton.label "Уплътняване">
-<!ENTITY appmenuButton.label "AppMenu">
+<!ENTITY appmenuButton.label "Меню с приложения">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Разширено търсене">
@@ -697,7 +697,7 @@
 <!ENTITY dateColumn.label "Дата">
 <!ENTITY priorityColumn.label "Приоритет">
 <!ENTITY tagsColumn.label "Етикет">
-<!ENTITY accountColumn.label "Пощенски адрес">
+<!ENTITY accountColumn.label "Сметка">
 <!ENTITY statusColumn.label "Състояние">
 <!ENTITY sizeColumn.label "Размер">
 <!ENTITY junkStatusColumn.label "Статус нежелана поща">
