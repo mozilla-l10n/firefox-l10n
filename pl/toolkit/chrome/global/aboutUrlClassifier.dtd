@@ -27,7 +27,6 @@
 <!ENTITY aboutUrlClassifier.lookupMatchBtn "Sprawdź wynik dopasowania">
 <!ENTITY aboutUrlClassifier.lookupLookup "Wyszukiwanie">
 <!ENTITY aboutUrlClassifier.lookupBtn "Sprawdź wynik wyszukiwania">
-<!ENTITY aboutUrlClassifier.cacheTitle "Cache">
 <!ENTITY aboutUrlClassifier.memoryTitle "Pamięć">
 <!ENTITY aboutUrlClassifier.databaseTitle "Baza danych">
 <!ENTITY aboutUrlClassifier.debugTitle "Debugowanie">
