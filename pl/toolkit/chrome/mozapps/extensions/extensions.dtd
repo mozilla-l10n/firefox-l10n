@@ -107,6 +107,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Wyświetl informacje o wydaniu tej aktualizacji">
 <!ENTITY cmd.hideReleaseNotes.label           "Ukryj informacje o wydaniu">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Ukryj informacje o wydaniu tej aktualizacji">
+<!ENTITY cmd.findReplacement.label "Znajdź zamiennik">
 
 <!ENTITY discover.title                       "Czym są dodatki?">
 <!ENTITY discover.description2                "Dodatki to programy, które pozwalają dostosować program &brandShortName; do upodobań użytkownika dzięki nowej funkcjonalności lub innemu wyglądowi. Wypróbuj panel boczny oszczędzający czas, powiadomienia o pogodzie albo nowy motyw graficzny.">
@@ -212,3 +213,8 @@
 
 <!ENTITY pluginDeprecation.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane w programie &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Więcej informacji">
+
+<!ENTITY legacyWarning.description "Czegoś tutaj brakuje? Niektóre wtyczki nie są już obsługiwane przez Firefoksa.">
+<!ENTITY legacyWarning.showLegacy "Wyświetl przestarzałe rozszerzenia">
+<!ENTITY legacyExtensions.description "Te rozszerzenia nie spełniają obecnych standardów Firefoksa i z tego powodu zostały wyłączone.">
+<!ENTITY legacyExtensions.learnMore "Więcej informacji o zmianach w dodatkach Firefoksa">
