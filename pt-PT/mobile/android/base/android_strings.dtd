@@ -2,9 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY firstrun_panel_title_welcome "Bem-vindo">
+<!ENTITY firstrun_panel_title_welcome "Bem-vindo(a)">
 
-<!ENTITY firstrun_urlbar_message "Bem-vindo ao &brandShortName;">
+<!ENTITY firstrun_urlbar_message "Bem-vindo(a) ao &brandShortName;">
 <!ENTITY firstrun_urlbar_subtext "Encontre coisas mais rapidamente com os atalhos de sugestão de pesquisa úteis.">
 <!ENTITY firstrun_bookmarks_title "Histórico">
 <!ENTITY firstrun_bookmarks_message "Os seus favoritos, à frente e ao centro">
@@ -840,5 +840,5 @@ is simply hidden from the Activity Stream panel. -->
 <!ENTITY activity_stream_dismiss "Dispensar">
 <!ENTITY activity_stream_delete_history "Apagar do histórico">
 
-<!ENTITY activity_stream_welcome_title "Bem-vindo aos seus destaques">
+<!ENTITY activity_stream_welcome_title "Bem-vindo(a) aos seus destaques">
 <!ENTITY activity_stream_welcome_content1 "O &brandShortName; agora cria destaques de coisas que descobriu na web para que encontre o seu caminho de volta para ótimos artigos, vídeos, marcadores, e outras páginas.">

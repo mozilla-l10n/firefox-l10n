@@ -46,7 +46,7 @@
 
 <!ENTITY fxaccount_back_to_browsing "Voltar ao navegador">
 
-<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo ao &syncBrand.shortName.label;">
+<!ENTITY fxaccount_getting_started_welcome_to_sync "Bem-vindo(a) ao &syncBrand.shortName.label;">
 <!ENTITY fxaccount_getting_started_description2 "Inicie sessão para sincronizar os seus separadores, marcadores, credenciais e mais.">
 <!ENTITY fxaccount_getting_started_get_started "Começar">
 <!ENTITY fxaccount_getting_started_old_firefox "Está a utilizar uma versão antiga do &syncBrand.shortName.label;?">
