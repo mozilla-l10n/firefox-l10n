@@ -165,6 +165,7 @@
 <!ENTITY addon.details.label                  "Więcej">
 <!ENTITY addon.details.tooltip                "Wyświetl więcej informacji o tym dodatku">
 <!ENTITY addon.unknownDate                    "nieznana">
+<!ENTITY addon.legacy.label "Przestarzałe">
 <!ENTITY addon.disabled.postfix               "(wyłączony)">
 <!ENTITY addon.update.postfix                 "(aktualizacja)">
 <!ENTITY addon.undoAction.label               "Cofnij">
