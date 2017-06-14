@@ -323,6 +323,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY contentSearchInput.label "Chiave di ricerca">
 <!ENTITY contentSearchSubmit.tooltip "Avvia ricerca">
+<!ENTITY searchInput.placeholder "Cerca">
+<!ENTITY searchIcon.tooltip "Cerca">
 <!ENTITY searchFor.label "Cerca ">
 <!ENTITY searchWith.label " con:">
 <!ENTITY searchWithHeader.label "Cerca con:">
