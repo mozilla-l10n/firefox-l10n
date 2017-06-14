@@ -26,3 +26,4 @@
 <!ENTITY plugin.file                                         "Plik">
 <!ENTITY plugin.mimeTypes                                    "Typy MIME">
 <!ENTITY plugin.flashProtectedMode.label "Tryb chroniony">
+<!ENTITY plugin.enableBlocklists.label "Blokowanie niebezpiecznych i natrętnych treści Flash">
