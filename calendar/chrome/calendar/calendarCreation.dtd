@@ -6,13 +6,16 @@
 <!ENTITY wizard.label             "Жаңа күнтізбені жасау" >
 <!ENTITY wizard.description       "Күнтізбеңіздің орналасуы" >
 
+<!ENTITY initialpage.computer.label  "Менің компьютерімде">
+<!ENTITY initialpage.network.label  "Желіде">
 
-
-
-
+<!ENTITY locationpage.description         "Қашықтағы күнтізбеңізге қатынау үшін керек ақпаратты көрсетіңіз" >
+<!ENTITY locationpage.login.description   "Міндетті емес: пайдаланушы аты және парольді енгізіңіз" >
 <!ENTITY locationpage.username.label      "Пайдаланушы:" >
 <!ENTITY locationpage.password.label      "Пароль:" >
 
+<!ENTITY custompage.shortdescription  "Күнтізбеңізді баптаңыз" >
 
 
-
+<!ENTITY finishpage.shortdescription  "Күнтізбе жасалды" >
+<!ENTITY finishpage.longdescription   "Күнтізбеңіз жасалды." >

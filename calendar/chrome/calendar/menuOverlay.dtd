@@ -31,7 +31,8 @@
 <!ENTITY calendar.menu.customize.label          "Баптау…">
 <!ENTITY calendar.menu.customize.accesskey      "а">
 
-
+<!ENTITY showUnifinderCmd.label                 "Оқиғаларды табу">
+<!ENTITY showUnifinderCmd.accesskey             "т">
 
 
 <!ENTITY calendar.displaytodos.checkbox.label       "Тапсырмаларды күнтізбеде көрсету">

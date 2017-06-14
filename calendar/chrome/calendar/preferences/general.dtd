@@ -23,10 +23,10 @@
 
 
 <!ENTITY pref.default_task_none.label "Ешнәрсе">
-
-
+<!ENTITY pref.default_task_start_of_day.label "Күннің басы">
+<!ENTITY pref.default_task_end_of_day.label "Күннің соңы">
 <!ENTITY pref.default_task_tomorrow.label "Ертең">
-
+<!ENTITY pref.default_task_next_week.label "Келесі апта">
 
 
 

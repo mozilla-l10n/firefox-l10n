@@ -30,7 +30,7 @@
    - task tree view. -->
 
 <!ENTITY calendar.unifinder.tree.done.label                "Дайын">
-
+<!ENTITY calendar.unifinder.tree.done.tooltip2             "Аяқталуы бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.priority.label            "Приоритет">
 <!ENTITY calendar.unifinder.tree.priority.tooltip2         "Приоритеті бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.title.label               "Атауы">
