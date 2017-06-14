@@ -39,8 +39,8 @@
 <!ENTITY insertHTMLCmd.accesskey "H">
 
 
-
-
+<!ENTITY insertCharsCmd.label "Таңбалар…">
+<!ENTITY insertCharsCmd.accesskey "Т">
 
 
 <!-- Used just in context popup. -->
