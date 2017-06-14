@@ -39,9 +39,9 @@
 
 <!ENTITY calendar.unifinder.tree.startdate.label           "Бастау">
 
+<!ENTITY calendar.unifinder.tree.enddate.label             "Аяқтау">
 
-
-
+<!ENTITY calendar.unifinder.tree.duedate.label             "Бітуі">
 
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Аяқталған">
 
@@ -98,11 +98,12 @@
 
 
 
+<!ENTITY calendar.completedtasks.checkbox.label     "Аяқталған тапсырмаларды көрсету" >
+<!ENTITY calendar.completedtasks.checkbox.accesskey "А" >
 
 
 
-
-
+<!ENTITY calendar.search.options.searchfor "мазмұнында бары">
 
 <!ENTITY calendar.list.header.label                 "Күнтізбе">
 
