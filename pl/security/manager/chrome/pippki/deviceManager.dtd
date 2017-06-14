@@ -30,4 +30,4 @@
 <!ENTITY loaddevice.browse 						"Przeglądaj…" >
 <!ENTITY loaddevice.browse.accesskey          	"P">
 
-<!ENTITY loaddevice.title 						"Wczytaj urządzenie PKCS#11" >
+<!ENTITY loaddevice.title2 "Wczytaj sterownik urządzenia PKCS#11">
