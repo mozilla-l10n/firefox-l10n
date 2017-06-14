@@ -173,6 +173,7 @@
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Określ, czy zachować hasło">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Zarządzaj wtyczkami używanymi na tej stronie">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Określ, czy strona ma prawo wyświetlać powiadomienia">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Przechowywanie danych na komputerze">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie kamery i mikrofonu">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Zarządzaj udostępnianiem mikrofonu tej stronie">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Zarządzaj udostępnianiem tej stronie okien i ekranu">
@@ -186,6 +187,7 @@
 <!ENTITY urlbar.geolocationBlocked.tooltip "Udostępnianie położenia tej stronie zostało zablokowane">
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Przechowywanie danych offline przez tą stronę zostało zablokowane">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Powiadomienia z tej strony zostały zablokowane">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Przechowywanie danych na komputerze przez stronę zostało zablokowane">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Wyświetl historię">
 
 <!ENTITY searchItem.title "Znajdź" >
