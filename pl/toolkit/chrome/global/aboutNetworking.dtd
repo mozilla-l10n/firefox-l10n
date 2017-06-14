@@ -47,4 +47,4 @@
 <!ENTITY aboutNetworking.rcwnStatus "Status RCWN">
 <!ENTITY aboutNetworking.rcwnCacheWonCount "Trafienia pamięci podręcznej">
 <!ENTITY aboutNetworking.rcwnNetWonCount "Trafienia sieciowe">
-<!ENTITY aboutNetworking.totalNetworkRequests "Liczba żądań siecowych">
+<!ENTITY aboutNetworking.totalNetworkRequests "Liczba żądań sieciowych">
