@@ -358,7 +358,7 @@
 <!ENTITY pref_clear_on_exit_dialog_title "Tànnal yan njoxéef lees di far">
 <!ENTITY pref_plugins "Lawal">
 <!ENTITY pref_plugins_enabled "Doxalees">
-<!ENTITY pref_plugins_tap_to_play2 "Bësal ngir taal ko">
+<!ENTITY pref_plugins_tap_to_play2 "Bës ngir taal">
 <!ENTITY pref_plugins_disabled "Doxadilees">
 <!ENTITY pref_restore_tabs "Ubbiwaat làcc yi">
 <!ENTITY pref_restore_always "Ubbiwaat leen saa-su-ne">
