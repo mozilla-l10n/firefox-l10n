@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Kimedo">
 <!ENTITY col.lastmodified.label  "Yub me agiki">
 
-<!ENTITY search.label                              "Yeny:">
-<!ENTITY search.accesskey                          "Y">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "o">
 <!ENTITY detailsPane.selectAnItemText.description "Yer jami me anena kadong i yub jami me ticce">
 
-<!ENTITY find.label               "Yeny:">
-<!ENTITY find.accesskey           "Y">
 <!ENTITY view.label               "Nen">
 <!ENTITY view.accesskey           "n">
 <!ENTITY byDate.label             "Ki Nino dwe">
