@@ -13,7 +13,7 @@
 <!ENTITY listEmpty.installed.label            "Няма инсталирани добавки от този вид">
 <!ENTITY listEmpty.availableUpdates.label     "Не бяха намерени обновявания">
 <!ENTITY listEmpty.recentUpdates.label        "Скоро не сте обновявали никоя добавка">
-<!ENTITY listEmpty.findUpdates.label          "Проверка за обновявания">
+<!ENTITY listEmpty.findUpdates.label          "Проверка за обновяване">
 <!ENTITY listEmpty.search.label               "Няма намерени съвпадащи добавки">
 <!ENTITY listEmpty.button.label               "Научете повече за добавките">
 <!ENTITY installAddonFromFile.label           "Инсталиране на добавка от файл…">
@@ -47,7 +47,7 @@
 <!ENTITY view.availableUpdates.label          "Налични обновявания">
 
 <!-- addon updates -->
-<!ENTITY updates.checkForUpdates.label        "Проверка за обновявания">
+<!ENTITY updates.checkForUpdates.label        "Проверка за обновяване">
 <!ENTITY updates.checkForUpdates.accesskey    "П">
 <!ENTITY updates.viewUpdates.label            "Последни обновявания">
 <!ENTITY updates.viewUpdates.accesskey        "о">
@@ -147,7 +147,7 @@
 <!ENTITY detail.repository                    "Профил на добавка">
 <!ENTITY detail.size                          "Размер">
 
-<!ENTITY detail.checkForUpdates.label         "Проверка за обновявания">
+<!ENTITY detail.checkForUpdates.label         "Проверка за обновяване">
 <!ENTITY detail.checkForUpdates.accesskey     "П">
 <!ENTITY detail.checkForUpdates.tooltip       "Проверка за обновяване на тази добавка">
 <!ENTITY detail.showPreferencesWin.label      "Настройки">
