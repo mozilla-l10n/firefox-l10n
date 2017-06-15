@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Ɓeydaa">
 <!ENTITY col.lastmodified.label  "Waylaa Sakket">
 
-<!ENTITY search.label                              "Yiylo:">
-<!ENTITY search.accesskey                          "Y">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "s">
 <!ENTITY detailsPane.selectAnItemText.description "Labo temre ngam yiyde e taƴtaade keeroraaɗi mum">
 
-<!ENTITY find.label               "Yiylo:">
-<!ENTITY find.accesskey           "Y">
 <!ENTITY view.label               "Hollir">
 <!ENTITY view.accesskey           "i">
 <!ENTITY byDate.label             "Leemto Ñalngu">
