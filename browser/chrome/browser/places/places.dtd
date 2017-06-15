@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Įtrauktas">
 <!ENTITY col.lastmodified.label  "Atnaujintas">
 
-<!ENTITY search.label                              "Ieškoti:">
-<!ENTITY search.accesskey                          "I">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Pažymėkite objektą, kurio savybes norite peržiūrėti ar redaguoti">
 
-<!ENTITY find.label               "Ieškoti:">
-<!ENTITY find.accesskey           "I">
 <!ENTITY view.label               "Rodyti">
 <!ENTITY view.accesskey           "o">
 <!ENTITY byDate.label             "pagal datą">
