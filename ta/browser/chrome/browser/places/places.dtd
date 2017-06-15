@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "சேர்க்கப்பட்டது">
 <!ENTITY col.lastmodified.label  "கடைசியாக திருத்தியமைக்கப்பட்டது">
 
-<!ENTITY search.label                              "தேடுக:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ஒரு உருப்படியை அதன் தன்மைகளை பார்க்க மற்றும் திருத்த தேர்ந்தெடுக்கவும்">
 
-<!ENTITY find.label               "தேடுக:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "பார்வை">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "தேதியின் படி">
