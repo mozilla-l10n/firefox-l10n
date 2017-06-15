@@ -235,7 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
-<!ENTITY searchItem.title             "Khangela">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Ekhaya">
@@ -463,6 +462,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "Umbuzo wokukhangela">
 <!ENTITY contentSearchSubmit.tooltip  "Faka ukukhangela">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -937,6 +939,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Khuphela ikopi entsha ye-&brandShorterName; yaye siza kukunceda uyifakele.">
 <!ENTITY updateManual.whatsnew.label "Bona into entsha.">
 <!ENTITY updateManual.header.message "I-&brandShorterName; ayikwazi kuhlaziya ukuya kuhlobo lwamvanje.">
+
 
 
 
