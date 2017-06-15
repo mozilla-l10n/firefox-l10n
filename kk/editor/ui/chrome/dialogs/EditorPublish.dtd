@@ -3,9 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-
+<!ENTITY windowTitle.label            "Парақты жариялау">
+<!ENTITY windowTitleSettings.label    "Жариялау баптаулары">
+<!ENTITY publishTab.label             "Жариялау">
 <!ENTITY settingsTab.label            "Баптаулар">
-
+<!ENTITY publishButton.label          "Жариялау">
 <!-- Publish Tab Panel -->
 
 
