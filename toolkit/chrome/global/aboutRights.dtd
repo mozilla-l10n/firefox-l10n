@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "ka ga:ditokelo">
-<!ENTITY rights.intro-header    "Ka ga ditokelo tša gago">
+<!ENTITY rights.title "Ka ga ditokelo tša gago">
 <!ENTITY rights.intro "&brandFullName; ke lenaneo-tirišo la khomphutha la bolokologi le la mothopo o bulegilego, leo le agilwego ke setšhaba sa batho ba dikete bao ba tšwago lefaseng ka bophara. Go na le dilo tše mmalwa tšeo o swanetšego go di tseba:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
