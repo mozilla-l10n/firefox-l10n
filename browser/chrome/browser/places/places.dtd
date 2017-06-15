@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Cruthaithe">
 <!ENTITY col.lastmodified.label  "Athraithe">
 
-<!ENTITY search.label                              "Cuardaigh:">
-<!ENTITY search.accesskey                          "C">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Roghnaigh mír le taispeáint agus cuir a hairíonna in eagar">
 
-<!ENTITY find.label               "Cuardaigh:">
-<!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Amharc">
 <!ENTITY view.accesskey           "m">
 <!ENTITY byDate.label             "De réir Dáta">
