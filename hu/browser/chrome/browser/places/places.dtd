@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Hozzáadva">
 <!ENTITY col.lastmodified.label  "Utoljára módosítva">
 
-<!ENTITY search.label                              "Keresés:">
-<!ENTITY search.accesskey                          "K">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "v">
 <!ENTITY detailsPane.selectAnItemText.description "Jelöljön ki egy elemet megtekintésre, és szerkessze tulajdonságait">
 
-<!ENTITY find.label               "Keresés:">
-<!ENTITY find.accesskey           "K">
 <!ENTITY view.label               "Megjelenítés">
 <!ENTITY view.accesskey           "M">
 <!ENTITY byDate.label             "Dátum szerint">
