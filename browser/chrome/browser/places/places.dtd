@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "تاریخ افزوده شدن">
 <!ENTITY col.lastmodified.label  "زمان آخرین تغییر">
 
-<!ENTITY search.label                              "جست‌وجو:">
-<!ENTITY search.accesskey                          "ج">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "ک">
 <!ENTITY detailsPane.selectAnItemText.description "یک مورد را برای مشاهده و ویرایش انتخاب کنید">
 
-<!ENTITY find.label               "جست‌وجو:">
-<!ENTITY find.accesskey           "ج">
 <!ENTITY view.label               "نما">
 <!ENTITY view.accesskey           "ن">
 <!ENTITY byDate.label             "‌بر حسب تاریخ">
