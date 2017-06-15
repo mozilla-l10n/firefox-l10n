@@ -21,18 +21,21 @@
 
 
 
+<!ENTITY previewBox.label "Суретті алдын-ала қарау">
 <!-- These controls are in the Dimensions tab panel -->
 <!-- actualSize.label should be same as actualSizeRadio.label + ":" -->
 
+<!ENTITY actualSize.label "Нақты өлшемі:">
+<!ENTITY actualSizeRadio.label "Нақты өлшемі">
+<!ENTITY actualSizeRadio.accessKey "Н">
+<!ENTITY actualSizeRadio.tooltip "Суреттің нақты өлшеміне қайтару">
+<!ENTITY customSizeRadio.label "Таңдауыңызша өлшем">
+<!ENTITY customSizeRadio.accessKey "л">
 
-
-
-
-
-
-
-
-
+<!ENTITY heightEditField.label "Биіктігі:">
+<!ENTITY heightEditField.accessKey "и">
+<!ENTITY widthEditField.label "Ені:">
+<!ENTITY widthEditField.accessKey "Е">
 
 
 
