@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Aka-ho">
 <!ENTITY col.lastmodified.label  "Nsesae a Etwa To">
 
-<!ENTITY search.label                              "Hwehwɛ:">
-<!ENTITY search.accesskey                          "H">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Fa aetɛm, hwɛ na sesa ne ho nsɛm">
 
-<!ENTITY find.label               "Hwehwɛ:">
-<!ENTITY find.accesskey           "H">
 <!ENTITY view.label               "Hwɛ">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Fa Afeda">
