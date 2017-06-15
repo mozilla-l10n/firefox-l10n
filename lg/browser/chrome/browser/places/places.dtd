@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Kigattiddwako">
 <!ENTITY col.lastmodified.label  "Kyasemba Kutereezebwa">
 
-<!ENTITY search.label                              "Noonya:">
-<!ENTITY search.accesskey                          "N">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "b">
 <!ENTITY detailsPane.selectAnItemText.description "Londayo ekintu nga bw'okirongoosamu">
 
-<!ENTITY find.label               "Noonya:">
-<!ENTITY find.accesskey           "N">
 <!ENTITY view.label               "Endabika">
 <!ENTITY view.accesskey           "a">
 <!ENTITY byDate.label             "Ku Nnaku z'omwezi">

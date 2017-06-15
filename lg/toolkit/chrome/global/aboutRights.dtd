@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "ebikwataku:buyinza">
-<!ENTITY rights.intro-header    "Ebikwata ku buyinza bwo">
+<!ENTITY rights.title "Ebikwata ku buyinza bwo">
 <!ENTITY rights.intro "&brandFullName; ya'bwerere era nga ekirizibwa okugikyusa, ezimbidwa enkuyanza za'abantu munsiyona. Waliwo ebitono bye wetagisa okumanya:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
