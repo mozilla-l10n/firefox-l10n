@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "যোগ কৰা হ'ল">
 <!ENTITY col.lastmodified.label  "সৰ্বেশষ পৰিৱৰ্তীত">
 
-<!ENTITY search.label                              "সন্ধান কৰক:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "বৈশিষ্টসমূহ চাই আৰু তাক সম্পাদন কৰিবলৈ এটা বস্তু বাছক।">
 
-<!ENTITY find.label               "সন্ধান কৰক:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "দৰ্শন কৰক">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "তাৰিখৰে">
