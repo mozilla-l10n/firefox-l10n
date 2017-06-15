@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Қосылған">
 <!ENTITY col.lastmodified.label  "Соңғы рет өзгертілген">
 
-<!ENTITY search.label                              "Іздеу">
-<!ENTITY search.accesskey                          "з">
+<!ENTITY search.placeholder  "Іздеу">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "з">
 <!ENTITY detailsPane.selectAnItemText.description "Қарап шығу мен қасиеттерін түзету үшін элементті таңдаңыз">
 
-<!ENTITY find.label               "Іздеу:">
-<!ENTITY find.accesskey           "з">
 <!ENTITY view.label               "Қарау">
 <!ENTITY view.accesskey           "р">
 <!ENTITY byDate.label             "Күні бойынша">
