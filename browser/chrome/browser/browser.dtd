@@ -15,7 +15,7 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவல்)">
 
-<!ENTITY appmenu.tooltip                     "பட்டியை திற">
+<!ENTITY appmenu.tooltip                     "பட்டியைத் திற">
 <!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
 <!-- Tab context menu -->
 
