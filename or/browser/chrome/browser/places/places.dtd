@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "ଯୁକ୍ତ">
 <!ENTITY col.lastmodified.label  "ପୂର୍ବ ରୂପାନ୍ତରଣ">
 
-<!ENTITY search.label                              "ଖୋଜନ୍ତୁ:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ଗୁଣଧର୍ମ ଦେଖିବାକୁ ଏବଂ ସମ୍ପାଦନ କରିବାକୁ ଗୋଟିଏ ବସ୍ତୁ ଚୟନ କରନ୍ତୁ">
 
-<!ENTITY find.label               "ସନ୍ଧାନ କରନ୍ତୁ:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "ଦୃଶ୍ୟ">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "ତାରିଖ ଦ୍ୱାରା">
