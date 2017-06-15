@@ -5,8 +5,9 @@
 
 
 
-
-
+<!ENTITY status.label          "Жариялау…">
+<!ENTITY fileList.label        "Жариялау күйі">
+<!ENTITY succeeded.label       "Сәтті аяқталды">
 <!ENTITY failed.label          "Сәтсіз">
 
 <!ENTITY closeButton.label     "Жабу">

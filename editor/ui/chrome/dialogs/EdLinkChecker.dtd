@@ -4,6 +4,6 @@
 <!-- Window title -->
 
 <!ENTITY windowTitle.label     "Сурет және сілтеме орналасуларын тексеру">
-<!ENTITY succeeded.label       "Сәтті болды">
+<!ENTITY succeeded.label       "Сәтті аяқталды">
 <!ENTITY failed.label          "Сәтсіз">
 <!ENTITY closeButton.label     "Жабу">

@@ -9,15 +9,16 @@
 
 
 <!ENTITY pixelsPopup.value "пиксель">
-
+<!ENTITY alignmentBox.label "Туралануы">
 <!ENTITY leftRadio.label "Сол жақ">
 <!ENTITY leftRadio.accessKey "С">
-
-
+<!ENTITY centerRadio.label "Ортасы">
+<!ENTITY centerRadio.accessKey "т">
 <!ENTITY rightRadio.label "Оң жақ">
 <!ENTITY rightRadio.accessKey "О">
 
-
+<!ENTITY threeDShading.label "3D көлеңке">
+<!ENTITY threeDShading.accessKey "е">
 <!ENTITY saveSettings.label "Бастапқы ретінде қолдану">
 <!ENTITY saveSettings.accessKey "т">
-
+<!ENTITY saveSettings.tooltip "Жаңа горизонталды сызықтарды кірістіру кезінде қолдану үшін бұл баптауларды сақтау">
