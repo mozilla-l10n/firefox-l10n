@@ -134,5 +134,7 @@
 
 
 
+
+
 <!ENTITY allowHWAccel.label              "Use hardware acceleration when available">
 <!ENTITY allowHWAccel.accesskey          "r">
