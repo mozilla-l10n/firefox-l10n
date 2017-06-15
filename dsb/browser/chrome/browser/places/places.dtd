@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Pśidany">
 <!ENTITY col.lastmodified.label  "Slědna změna">
 
-<!ENTITY search.label                              "Pytaś:">
-<!ENTITY search.accesskey                          "P">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Zapisk wubraś, aby se jogo kakosći woglědali a wobźěłali">
 
-<!ENTITY find.label               "Pytaś:">
-<!ENTITY find.accesskey           "P">
 <!ENTITY view.label               "Naglěd">
 <!ENTITY view.accesskey           "N">
 <!ENTITY byDate.label             "Pó datumje">
