@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "दाजाबदेरबाय">
 <!ENTITY col.lastmodified.label  "जोबथा महर सोलायबाय">
 
-<!ENTITY search.label                              "नागिर: (S)">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "नायनो थाखाय मोनसे आइटेम सायख आरो बेनि आखुथायफोरखौ सुजु">
 
-<!ENTITY find.label               "नागिर: (S)">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "नुथाय (w)">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "अक्‍त' मथे (D)">
