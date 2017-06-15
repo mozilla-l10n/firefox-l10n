@@ -4,14 +4,15 @@
 
 <!ENTITY gdata-provider.label "Google Calendar">
 
-
+<!ENTITY gdata.privacy.default.label "Google негізгісі">
+<!ENTITY gdata.privacy.default.accesskey "н">
 
 
 <!ENTITY gdata.migration.upgrade.label "Жаңарту">
 <!ENTITY gdata.migration.upgrade.accesskey "а">
 <!ENTITY gdata.migration.showagain.label "Әрқашан тексеру">
 
-
+<!ENTITY gdata.reminder.action.sms.label "Мәтіндік хабарламаны жіберу">
 
 
 
