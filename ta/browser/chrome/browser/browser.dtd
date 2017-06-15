@@ -282,12 +282,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY fileMenu.label         "கோப்பு"> 
 <!ENTITY fileMenu.accesskey       "F">
-<!ENTITY newUserContext.label             "புதிய கொள்கலன் தத்தல்">
+<!ENTITY newUserContext.label             "புதிய கொள்கலன் கீற்று">
 <!ENTITY newUserContext.accesskey         "b">
 <!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "புதிய தனிப்பட்ட சாளரம்">
+<!ENTITY newPrivateWindow.label     "புதிய அந்தரங்க சாளரம்">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "புதிய e10s இல்லா சாளரம்">
 
@@ -319,7 +319,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY preferencesCmdUnix.label       "முன்னுரிமைகள்">
 <!ENTITY preferencesCmdUnix.accesskey     "n"> 
 
-<!ENTITY clearRecentHistory.label               "சமீபத்திய வரலாற்றைத் துடை...">
+<!ENTITY clearRecentHistory.label               "வரலாற்றைத் துடை...">
 
 <!ENTITY privateBrowsingCmd.commandkey          "P">
 
@@ -329,22 +329,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "பக்கப்பட்டை">
 <!ENTITY viewSidebarMenu.accesskey "e">
-<!ENTITY viewCustomizeToolbar.label       "தனிபயனாக்கு…"> 
+<!ENTITY viewCustomizeToolbar.label       "விருப்பமை…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "C">
 
 <!ENTITY historyMenu.label "வரலாறு">
 <!ENTITY historyMenu.accesskey "s">
 <!ENTITY historyUndoMenu.label "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
-<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரம்">
+<!ENTITY historyUndoWindowMenu.label "சமீபத்தில் மூடப்பட்ட சாளரங்கள்">
 <!ENTITY historyRestoreLastSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 
 <!ENTITY showAllHistoryCmd2.label "அனைத்து வரலாற்றையும் காட்டு">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
-<!ENTITY appMenuCustomize.label "தனிபயனாக்கு">
-<!ENTITY appMenuCustomize.tooltip "பட்டி மற்றும் கருவிப்பட்டைகளை தனிபயனாக்கு">
-<!ENTITY appMenuCustomizeExit.label "தனிபயனாக்கதிலிருந்து வெளியேறு">
+<!ENTITY appMenuCustomize.label "விருப்பமை">
+<!ENTITY appMenuCustomize.tooltip "பட்டிகளையும் கருவிப்பட்டைகளையும் விருப்பமை">
+<!ENTITY appMenuCustomizeExit.label "வெளியேறு">
 <!ENTITY appMenuCustomizeExit.tooltip "தனிப்பயனாக்கத்தை முடி">
 <!ENTITY appMenuHistory.label "வரலாறு">
 <!ENTITY appMenuHistory.showAll.label "அனைத்து வரலாற்றையும் காட்டு">
@@ -352,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.restoreSession.label "முந்தைய அமர்வுக்கு மீட்டமை">
 <!ENTITY appMenuHistory.viewSidebar.label "வரலாறுப் பக்கப்பட்டையை பார்க்க">
 <!ENTITY appMenuHelp.label "உதவி">
-<!ENTITY appMenuHelp.tooltip "உதவிப் பட்டியை திற">
+<!ENTITY appMenuHelp.tooltip "உதவி பட்டியை திற">
 
 <!ENTITY appMenuRemoteTabs.label "ஒத்திசைத்த கீற்றுகள்">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
@@ -683,7 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY quitApplicationCmdWin2.label       "வெளியேறு">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
-<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; இலிருந்து வெளியேறு">
+<!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName; உலாவியை விட்டு வெளியேறு">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "வெளியேறு"> 
