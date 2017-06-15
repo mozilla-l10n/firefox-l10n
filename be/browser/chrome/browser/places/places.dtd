@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Дададзена">
 <!ENTITY col.lastmodified.label  "Апошняе змяненне">
 
-<!ENTITY search.label                              "Пошук:">
-<!ENTITY search.accesskey                          "П">
+<!ENTITY search.placeholder  "Пошук">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Выбар элемента для прагляду і праўкі яго ўласцівасцяў">
 
-<!ENTITY find.label               "Пошук:">
-<!ENTITY find.accesskey           "ш">
 <!ENTITY view.label               "Прагляд">
 <!ENTITY view.accesskey           "г">
 <!ENTITY byDate.label             "Па даце">
