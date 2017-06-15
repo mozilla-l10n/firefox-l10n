@@ -13,8 +13,8 @@
 <!ENTITY siteList.label               "Сайт аты:">
 <!ENTITY siteList.accesskey           "й">
 
-
-
+<!ENTITY newSiteButton.label          "Жаңа сайт">
+<!ENTITY newSiteButton.accesskey      "Ж">
 
 
 <!ENTITY docDirList.tooltip           "Бұл парақ үшін қашықтағы буманың атын таңдаңыз немесе енгізіңіз">
