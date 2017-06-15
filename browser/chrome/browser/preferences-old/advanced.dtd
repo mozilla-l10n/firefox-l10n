@@ -20,6 +20,7 @@
 <!ENTITY checkUserSpelling.label "Controllo ortografico durante la digitazione">
 <!ENTITY checkUserSpelling.accesskey "C">
 <!ENTITY dataChoicesTab.label "Condivisione dati">
+<!ENTITY healthReportingDisabled.label "L’invio dei dati è stato disattivato nella configurazione utilizzata per questa build">
 <!ENTITY healthReportDesc.label "Analizza le prestazioni del browser e condividi informazioni con &vendorShortName; sullo stato di integrità del software">
 <!ENTITY enableHealthReport.label "Attiva analisi integrità di &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "v">
