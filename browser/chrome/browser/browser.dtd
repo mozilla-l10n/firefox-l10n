@@ -469,6 +469,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "Ymholiad chwilio">
 <!ENTITY contentSearchSubmit.tooltip  "Cyflwyno'r chwilio">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
+<!ENTITY searchInput.placeholder      "Chwilio">
+<!ENTITY searchIcon.tooltip           "Chwilio">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -964,3 +969,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Anfon i Ddyfais">
 <!ENTITY sendToDevice.fxaRequired.label "Angenrheidiol">
 <!ENTITY sendToDevice.noDevices.label "Dim Dyfeisiau ar Gael">
+<!ENTITY sendToDevice.syncNotReady.label "Cydweddu Dyfeisiau…">
