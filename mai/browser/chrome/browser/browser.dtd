@@ -232,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "इतिहास देखाउ">
 
-<!ENTITY searchItem.title             "खोज">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "घर">
@@ -452,6 +451,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "सवाल ताकू">
 <!ENTITY contentSearchSubmit.tooltip  "खोज सुपुर्द करू">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -904,6 +906,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "DRM केर संबंध मे बेसी जानू…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
 
 
 
