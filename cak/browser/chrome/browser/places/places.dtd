@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Tz'aqatisan">
 <!ENTITY col.lastmodified.label  "Ruk'isib'äl k'exoj">
 
-<!ENTITY search.label                              "Tikanöx:">
-<!ENTITY search.accesskey                          "T">
 
 <!ENTITY cmd.find.key  "j">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "b">
 <!ENTITY detailsPane.selectAnItemText.description "Tacha' jun ch'akulal richin natz'ët chuqa' nanük' ri taq ruch'akulal">
 
-<!ENTITY find.label               "Tikanöx:">
-<!ENTITY find.accesskey           "T">
 <!ENTITY view.label               "Titz'et">
 <!ENTITY view.accesskey           "t">
 <!ENTITY byDate.label             "chi rajilab'al q'ij">
