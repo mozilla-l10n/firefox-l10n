@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையைக் காட்டு">
 <!ENTITY cmd.hideReleaseNotes.label           "வெளியீட்டு அறிக்கையை மறை">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "இந்த புதுப்பித்தலின் வெளியீட்டு அறிக்கையை மறை">
-
+<!ENTITY cmd.findReplacement.label            "ஒரு மாற்றைக் கண்டுபிடி">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -189,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "மரபு">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -251,9 +252,11 @@
 <!ENTITY disabledUnsigned.devInfo.linkToManual "கையேடு">
 
 
+<!ENTITY pluginDeprecation.description "ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் &brandShortName; உலாவியால் ஆதரிக்கப்படாது.">
 <!ENTITY pluginDeprecation.learnMore "மேலும் அறிய.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "ஏதோ ஒன்று இல்லையா? சில நீட்டிப்புகள் &brandShortName; உலாவியால் ஆதரிக்கப்படாது.">
+<!ENTITY legacyWarning.showLegacy "மரபு நீட்சிகளைக் காண்பி">
+<!ENTITY legacyExtensions.title "மரபு நீட்சிகள்">
+<!ENTITY legacyExtensions.description "தற்போதைய &brandShortName; தரத்துடன் இல்லாததால் இந்த நீட்சிகள் முடக்கி வைக்கப்படும்.">
+<!ENTITY legacyExtensions.learnMore "துணை நிரல்களுக்கான மாற்றங்களை அறியுங்கள்">
