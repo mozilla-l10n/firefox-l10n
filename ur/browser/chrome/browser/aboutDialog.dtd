@@ -14,7 +14,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label       "تازہ کاریوں کے لیے پڑتال کریں">
 <!ENTITY update.checkForUpdatesButton.accesskey   "پ">
-
+<!ENTITY update.updateButton.label3               "&brandShorterName; کی تازہ کاری کرنے کے لیئے دوبارہ شروع کریں">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
 
