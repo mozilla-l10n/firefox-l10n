@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Kwengeziwe">
 <!ENTITY col.lastmodified.label  "Ukugcinwa kokushintsha">
 
-<!ENTITY search.label                              "Sesha:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "k">
 <!ENTITY detailsPane.selectAnItemText.description "Khetha into ezobukwa bese uhlela izakhiwo zayo">
 
-<!ENTITY find.label               "Sesha:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Bheka">
 <!ENTITY view.accesskey           "k">
 <!ENTITY byDate.label             "Ngo suku">
