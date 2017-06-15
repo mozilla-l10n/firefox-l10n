@@ -11,7 +11,7 @@
 <!ENTITY EditLegendText.accesskey "Р">
 <!ENTITY LegendAlign.label "Подравняване на легенда:">
 <!ENTITY LegendAlign.accesskey "о">
-<!ENTITY AlignDefault.label "По подразбиране">
+<!ENTITY AlignDefault.label "Стандартно">
 <!ENTITY AlignLeft.label "Ляво">
 <!ENTITY AlignCenter.label "Центриране">
 <!ENTITY AlignRight.label "Дясно">

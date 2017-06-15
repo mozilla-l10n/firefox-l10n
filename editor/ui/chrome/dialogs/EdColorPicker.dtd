@@ -9,7 +9,7 @@
 <!ENTITY setColor2.label "въведете HTML код за цвят">
 <!ENTITY setColor2.accessKey "в">
 <!ENTITY setColorExample.label "(напр.: &quot;#0000ff&quot; или &quot;син&quot;):">
-<!ENTITY default.label "По подразбиране">
+<!ENTITY default.label "Стандартен">
 <!ENTITY default.accessKey "д">
 <!ENTITY palette.label "Палитра:">
 <!ENTITY standardPalette.label "Стандартен">

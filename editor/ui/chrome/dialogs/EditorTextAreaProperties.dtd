@@ -25,7 +25,7 @@
 
 <!ENTITY TextAreaWrap.label "Режим пренасяне:">
 <!ENTITY TextAreaWrap.accessKey "п">
-<!ENTITY WrapDefault.value "По подразбиране">
+<!ENTITY WrapDefault.value "Стандартно">
 <!ENTITY WrapOff.value "Изкл">
 <!ENTITY WrapHard.value "Твърдо">
 <!ENTITY WrapSoft.value "Меко">
