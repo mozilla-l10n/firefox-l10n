@@ -205,7 +205,7 @@
 <!ENTITY event.categories.textbox.label                   "Добавяне на нова категория" >
 <!ENTITY event.calendar.label                             "Календар:" >
 <!ENTITY event.calendar.accesskey                         "К">
-<!ENTITY event.attendees.label                            "Участници" >
+<!ENTITY event.attendees.label                            "Участници:" >
 <!ENTITY event.attendees.accesskey                        "ч">
 <!ENTITY event.alldayevent.label                          "Целодневно събитие" >
 <!ENTITY event.alldayevent.accesskey                      "л">
