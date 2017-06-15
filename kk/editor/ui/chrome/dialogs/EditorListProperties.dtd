@@ -3,13 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+
+<!ENTITY windowTitle.label "Тізім қасиеттері">
+
+<!ENTITY ListType.label "Тізім түрі">
 <!ENTITY bulletStyle.label "Маркер стилі:">
 
 
 <!ENTITY none.value "Ешнәрсе">
 
-
-
+<!ENTITY numberList.value "Нөмірленген тізім">
+<!ENTITY definitionList.value "Анықтама тізімі">
 
 
 

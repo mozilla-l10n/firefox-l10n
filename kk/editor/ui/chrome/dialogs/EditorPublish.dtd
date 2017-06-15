@@ -10,6 +10,8 @@
 <!ENTITY publishButton.label          "Жариялау">
 <!-- Publish Tab Panel -->
 
+<!ENTITY siteList.label               "Сайт аты:">
+<!ENTITY siteList.accesskey           "й">
 
 
 
@@ -39,13 +41,13 @@
 <!ENTITY removeButton.label           "Сайтты өшіру">
 <!ENTITY removeButton.accesskey       "ш">
 <!-- Settings Tab Panel -->
-
-
-
-
-
-
-
+<!ENTITY serverInfo.label             "Сервер ақпараты">
+<!ENTITY loginInfo.label              "Кіру ақпараты">
+<!ENTITY siteName.label               "Сайт аты:">
+<!ENTITY siteName.accesskey           "й">
+<!ENTITY siteName.tooltip             "Бұл жариялау сайтын анықтайтын бүркеншік аты (мыс.: &quot;МеніңСайтым&quot;)">
+<!ENTITY siteUrl.label                "Жариялау адресі (мыс.: 'ftp://ftp.myisp.com/myusername'):">
+<!ENTITY siteUrl.accesskey            "а">
 
 
 

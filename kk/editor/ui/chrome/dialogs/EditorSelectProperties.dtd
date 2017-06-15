@@ -5,6 +5,8 @@
 <!ENTITY Select.label "Таңдау тiзiмi">
 
 
+<!ENTITY SelectSize.label "Биіктігі:">
+<!ENTITY SelectSize.accesskey "Б">
 
 
 
@@ -14,16 +16,14 @@
 
 
 
-
-
-
-
+<!ENTITY OptGroupDisabled.label "Сөндірілген">
+<!ENTITY OptGroupDisabled.accesskey "д">
 
 <!ENTITY Option.label "Параметр">
 <!ENTITY OptionText.label "Мәтіні:">
 <!ENTITY OptionText.accesskey "М">
-
-
+<!ENTITY OptionValue.label "Мәні:">
+<!ENTITY OptionValue.accesskey "М">
 
 
 

@@ -10,6 +10,6 @@
 <!ENTITY commaRadio.label      "Үтір">
 <!ENTITY spaceRadio.label      "Space">
 <!ENTITY otherRadio.label      "Басқа таңба:">
-
-
-
+<!ENTITY deleteCharCheck.label "Ажыратқыш таңбасын өшіру">
+<!ENTITY collapseSpaces.label  "Артық бос аралықтарды елемеу">
+<!ENTITY collapseSpaces.tooltip "Сыбайлас бос аралықтарды бір ажыратқышқа түрлендіру">

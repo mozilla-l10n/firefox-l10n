@@ -5,13 +5,13 @@
 
 <!ENTITY windowTitle.label "Беттің қасиеттері">
 <!ENTITY location.label "Орналасуы:">
-
+<!ENTITY lastModified.label "Соңғы өзгертілген:">
 <!ENTITY titleInput.label "Атауы:">
 <!ENTITY titleInput.accessKey "А">
-
-
+<!ENTITY authorInput.label "Авторы:">
+<!ENTITY authorInput.accessKey "А">
 <!ENTITY descriptionInput.label "Анықтамасы:">
 <!ENTITY descriptionInput.accessKey "ы">
-
-
+<!ENTITY locationNewPage.label "[Жаңа парақ, әлі сақталмаған]">
+<!ENTITY EditHEADSource1.label "Кеңейтілген пайдаланушылар:">
 
