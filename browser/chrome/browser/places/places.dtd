@@ -85,7 +85,6 @@
 <!ENTITY col.lastmodified.label  "Сүүлд өөрчлөгдсөн">
 
 
-
 <!ENTITY cmd.find.key  "f">
 
 <!ENTITY maintenance.label      "Импортлох болон Нөөцлөх">
@@ -100,7 +99,6 @@
 <!ENTITY detailsPane.less.label "Цөөл">
 <!ENTITY detailsPane.less.accesskey "ө">
 <!ENTITY detailsPane.selectAnItemText.description "Харахыг болон засварлахыг хүссэн зүйлээ сонгоно уу">
-
 
 <!ENTITY view.label               "Харах">
 <!ENTITY view.accesskey           "р">
