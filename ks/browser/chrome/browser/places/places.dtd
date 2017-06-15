@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "رلٲومُت">
 <!ENTITY col.lastmodified.label  "ٲخری تبدیل كرموْت">
 
-<!ENTITY search.label                              "ژھانڈ:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "آیٹم ژٲریو امچئ خصوصیات وچھنئ تئ بدلاونئ خٲطرئ">
 
-<!ENTITY find.label               "ژھانڈ:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "وچھیو">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "تٲریخ ہسابئ">

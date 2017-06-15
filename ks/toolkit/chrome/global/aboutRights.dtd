@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "مُتلق: حقوق">
-<!ENTITY rights.intro-header    "تُہندین حقوقن مُتلق">
+<!ENTITY rights.title "تُہندین حقوقن مُتلق">
 <!ENTITY rights.intro "&amp;برانڈ فُل ناو؛ چُھ اکھ فری تْہ اوپْن سورس سافٹ وْیر، یوس بنومُت چُھ اکہ برادری یوس ساسن منز چھ تمام دُنیا پیٹھ۔ کینہہ چیز گژھن توہیہ پتاہ آسْنئ:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
