@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Эбилиннэ">
 <!ENTITY col.lastmodified.label  "Бүтэһик барыл">
 
-<!ENTITY search.label                              "Көрдөөһүн:">
-<!ENTITY search.accesskey                          "К">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "у">
 <!ENTITY detailsPane.selectAnItemText.description "Элэмиэн ис тутулун көрөргө уонна көннөрөргө бэйэтин тал">
 
-<!ENTITY find.label               "Көрдөөһүн:">
-<!ENTITY find.accesskey           "К">
 <!ENTITY view.label               "Көстүүтэ">
 <!ENTITY view.accesskey           "т">
 <!ENTITY byDate.label             "Кэминэн">
