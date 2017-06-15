@@ -5,22 +5,24 @@
 <!ENTITY windowTitle.label "Форма өрісінің қасиеттерi">
 <!ENTITY windowTitleImage.label "Форма суретінің қасиеттері">
 
-
+<!ENTITY InputType.label "Өрiс түрi">
+<!ENTITY InputType.accesskey "т">
 <!ENTITY text.value "Мәтін">
 <!ENTITY password.value "Пароль">
 <!ENTITY checkbox.value "Жалауша">
-
-
-
+<!ENTITY radio.value "Ауыстырғыш батырмасы">
+<!ENTITY submit.value "Жіберу батырмасы">
+<!ENTITY reset.value "Тастау батырмасы">
 <!ENTITY file.value "Файл">
 <!ENTITY hidden.value "Жасырын">
 <!ENTITY image.value "Сурет">
 <!ENTITY button.value "Батырма">
 
-
-
-
-
+<!ENTITY InputSettings.label "Өріс баптаулары">
+<!ENTITY InputName.label "Өріс атауы:">
+<!ENTITY InputName.accesskey "т">
+<!ENTITY GroupName.label "Топтың аты:">
+<!ENTITY GroupName.accesskey "Т">
 
 
 

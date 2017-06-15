@@ -60,8 +60,10 @@
 
 
 
-
+<!ENTITY LinkAdvancedEditButton.tooltip "HTML/стиль атрибуттарын, JavaScript-ты қосу немесе түзету">
 <!-- These tabs are currently used in the image input dialog -->
+
+<!ENTITY imageInputTab.label "Форма">
 <!ENTITY imageLocationTab.label "Орналасуы">
 <!ENTITY imageDimensionsTab.label "Өлшемдері">
 <!ENTITY imageAppearanceTab.label "Сыртқы түрі">

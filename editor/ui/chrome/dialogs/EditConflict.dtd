@@ -3,6 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
-
-
-
+<!ENTITY conflictResolve.label "Сақтау үшін нұсқаны таңдаңыз:">
+<!ENTITY keepCurrentPageButton.label "Ағымдағы парақтың өзгерістерін сақтау">
+<!ENTITY useOtherPageButton.label "Ағымдағы парақты басқа өзгерістермен ауыстыру">

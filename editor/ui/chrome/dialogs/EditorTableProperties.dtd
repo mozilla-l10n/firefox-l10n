@@ -3,22 +3,22 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY tableWindow.title                "Кестенiң қасиетi">
-
-
+<!ENTITY applyButton.label                "Іске асыру">
+<!ENTITY applyButton.accesskey            "к">
 <!ENTITY closeButton.label                "Жабу">
 <!ENTITY tableTab.label                   "Кесте">
 <!ENTITY cellTab.label                    "Ұяшықтар">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY tableRows.label                  "Жолдар:">
+<!ENTITY tableRows.accessKey              "л">
+<!ENTITY tableColumns.label               "Бағандар:">
+<!ENTITY tableColumns.accessKey           "Б">
+<!ENTITY tableHeight.label                "Биіктігі:">
+<!ENTITY tableHeight.accessKey            "и">
+<!ENTITY tableWidth.label                 "Ені:">
+<!ENTITY tableWidth.accessKey             "Е">
+<!ENTITY tableBorderSpacing.label         "Шектер және аралықтар">
+<!ENTITY tableBorderWidth.label           "Шегі:">
+<!ENTITY tableBorderWidth.accessKey       "Ш">
 <!ENTITY tableSpacing.label               "Аралығы:">
 <!ENTITY tableSpacing.accessKey           "А">
 
@@ -68,8 +68,8 @@
 
 <!ENTITY size.label                       "Өлшемі">
 <!ENTITY pixels.label                     "пиксель">
-
-
+<!ENTITY backgroundColor.label            "Фон түсі:">
+<!ENTITY backgroundColor.accessKey        "Ф">
 <!ENTITY AlignLeft.label                  "Сол жақ">
 <!ENTITY AlignCenter.label                "Ортасы">
 <!ENTITY AlignRight.label                 "Оң жақ">
