@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Dodato">
 <!ENTITY col.lastmodified.label  "Zadnja izmjena">
 
-<!ENTITY search.label                              "Traži:">
-<!ENTITY search.accesskey                          "T">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Odaberite stavku za pregled i podešavanje">
 
-<!ENTITY find.label               "Traži:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Prikaži">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Po datumu">
