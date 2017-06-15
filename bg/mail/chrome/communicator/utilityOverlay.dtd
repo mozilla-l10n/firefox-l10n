@@ -38,7 +38,7 @@
 
 <!ENTITY viewMenu.label          "Изглед">
 <!ENTITY viewMenu.accesskey        "И">
-<!ENTITY viewToolbarsMenu.label        "Лента с инструменти">
+<!ENTITY viewToolbarsMenu.label        "Ленти с инструменти">
 <!ENTITY viewToolbarsMenu.accesskey      "Л">
 <!ENTITY showTaskbarCmd.label          "Лента на състоянието">
 <!ENTITY showTaskbarCmd.accesskey        "Л">
