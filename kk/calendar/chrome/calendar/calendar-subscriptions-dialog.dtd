@@ -4,6 +4,8 @@
 -->
 <!-- Calendar Subscriptions Dialog -->
 
+<!ENTITY calendar.subscriptions.dialog.title                            "Күнтізбелерге жазылу">
+<!ENTITY calendar.subscriptions.dialog.search.label.value               "Құрамында келесісі бар күнтізбелерді көрсету:">
 <!ENTITY calendar.subscriptions.dialog.search.button.label              "Іздеу">
 <!ENTITY calendar.subscriptions.dialog.select.label.value               "Жазылу үшін күнтізбелерді таңдаңыз:">
 <!ENTITY calendar.subscriptions.dialog.subscribe.button.label           "Жазылу">
