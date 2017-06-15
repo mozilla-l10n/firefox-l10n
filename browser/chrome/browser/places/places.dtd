@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Addició">
 <!ENTITY col.lastmodified.label  "Darrera modificació">
 
-<!ENTITY search.label                              "Cerca:">
-<!ENTITY search.accesskey                          "r">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "y">
 <!ENTITY detailsPane.selectAnItemText.description "Seleccioneu un element per visualitzar-ne i editar-ne les propietats">
 
-<!ENTITY find.label               "Cerca:">
-<!ENTITY find.accesskey           "r">
 <!ENTITY view.label               "Visualitza">
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "Per data">
