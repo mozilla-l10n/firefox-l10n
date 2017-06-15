@@ -222,7 +222,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
-<!ENTITY searchItem.title             "Lêgerîn">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Serûpel">
@@ -439,6 +438,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchSubmit.tooltip  "Lêgerînê bişîne">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -859,6 +861,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY panicButton.view.undoWarning             "Ev çalakî şûnde nayê anîn.">
+
 
 
 
