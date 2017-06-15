@@ -12,7 +12,7 @@
 <!ENTITY newMenu.label                                  "Нови">
 <!ENTITY newMenu.accesskey                              "Н">
 <!ENTITY newContact.label                               "Контакт от адресника…">
-<!ENTITY newContact.accesskey                           "В">
+<!ENTITY newContact.accesskey                           "К">
 <!ENTITY newContact.key                                 "N">
 <!ENTITY newListCmd.label                               "Пощенски списък…">
 <!ENTITY newListCmd.accesskey                           "щ">
