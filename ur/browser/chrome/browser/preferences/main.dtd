@@ -9,7 +9,8 @@
 <!ENTITY startupBlankPage.label    "خالی صفحہ دکھائیں">
 <!ENTITY startupPrevSession.label  "اپنا دریچہ اور آخری وقت کے ٹیب دکھائیں">
 
-
+<!ENTITY homepage2.label           "ابتدائی صفحہ:">
+<!ENTITY homepage2.accesskey       "ص">
 <!ENTITY useCurrentPage.label      "حالیہ صفحہ برتیں">
 <!ENTITY useCurrentPage.accesskey  "ح">
 <!ENTITY useMultiple.label         "حالیہ صفحے استعمال کریں">

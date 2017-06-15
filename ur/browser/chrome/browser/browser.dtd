@@ -235,7 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "سابقات دکھائیں">
 
-<!ENTITY searchItem.title             "تلاش کریں">
+<!ENTITY searchItem.title             "تلاش">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "گھر">
@@ -413,6 +413,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "مزید">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "تلاش کریں یا پتہ داخل کریں">
 <!ENTITY urlbar.accesskey             "d">
@@ -428,10 +430,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "ہاں">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "ٹوٹکا:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "ترجیحات تبدیل کریں">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
@@ -463,6 +467,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "تلاش طلب">
 <!ENTITY contentSearchSubmit.tooltip  "تلاش ارسال کریں">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
+<!ENTITY searchInput.placeholder      "تلاش کریں">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -673,7 +682,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "ز">
 
 <!ENTITY sidebarCloseButton.tooltip     "بغلی بار بند کریں">
-
+<!ENTITY sidebarMenuClose.label         "بغلی بار بند کریں">
 
 <!ENTITY quitApplicationCmdWin2.label       "خروج">
 <!ENTITY quitApplicationCmdWin2.accesskey   "خ">
@@ -683,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "کنارہ کریں"> 
 <!ENTITY quitApplicationCmd.accesskey   "ک">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; برخاست کریں">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "بند کریں">  
 <!ENTITY closeCmd.key                   "W">  
@@ -727,6 +736,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "لغات اضافہ کریں…">
 <!ENTITY spellAddDictionaries.accesskey "ا">
 
+<!ENTITY editBookmark.done.label                     "ہوگیا">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "بعید کنکشن">
@@ -835,7 +845,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "طےشدہ بحال کریں">
 
 <!ENTITY customizeMode.titlebar "عنوان بار">
-
+<!ENTITY customizeMode.toolbars2 "&amp;ٹول بار">
 <!ENTITY customizeMode.lwthemes "خیالیات">
 <!ENTITY customizeMode.lwthemes.myThemes "میری تھیم">
 <!ENTITY customizeMode.lwthemes.recommended "تجویز کردہ">
@@ -925,6 +935,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM کے بارے میں مزید سیکھیں">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "نظارہ کریں نیا کیا ہے">
 
 
 
@@ -932,8 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY updateManual.whatsnew.label "نظارہ کریں نیا کیا ہے">
 
 <!ENTITY updateManual.acceptButton.label "brandShorterName; کو Download کریں">
 <!ENTITY updateManual.acceptButton.accesskey "D">
@@ -949,6 +959,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY sendToDevice.label "آلہ پر ارسال کریں…">
+<!ENTITY sendToDevice.viewTitle "آلہ پر ارسال کریں">
+<!ENTITY sendToDevice.fxaRequired.label "مطلوب">
+<!ENTITY sendToDevice.noDevices.label "کوئِ آلہ دستیاب نہیں ہے">
 

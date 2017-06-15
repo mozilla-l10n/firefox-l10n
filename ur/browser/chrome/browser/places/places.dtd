@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "اضافہ شدہ">
 <!ENTITY col.lastmodified.label  "آخری بار ترمیم کردہ">
 
-<!ENTITY search.label                              "تلاش:">
-<!ENTITY search.accesskey                          "ت">
 
 <!ENTITY cmd.find.key  "ڈ">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "ک">
 <!ENTITY detailsPane.selectAnItemText.description "شے کے خواص نظارہ اور تدوین کرنے کے لیے اسے منتخب کریں">
 
-<!ENTITY find.label               "تلاش:">
-<!ENTITY find.accesskey           "ت">
 <!ENTITY view.label               "نظارہ">
 <!ENTITY view.accesskey           "ن">
 <!ENTITY byDate.label             "حسبِ تاریخ">

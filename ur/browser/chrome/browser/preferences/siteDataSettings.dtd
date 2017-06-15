@@ -7,7 +7,7 @@
 <!ENTITY     statusCol.label               "موجودہ حالت ">
 <!ENTITY     usageCol.label                "ذخیرہ">
 
-
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 
 
 
