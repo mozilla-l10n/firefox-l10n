@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "ಸೇರ್ಪಡಿಸಲಾದ">
 <!ENTITY col.lastmodified.label  "ಕೊನೆಯ ಬಾರಿಗೆ ಮಾರ್ಪಡಿಸಲಾದ">
 
-<!ENTITY search.label                              "ಹುಡುಕು:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ಒಂದು ಅಂಶದ ಗುಣಲಕ್ಷಣಗಳನ್ನು  ನೋಡಲು ಹಾಗು ಸಂಪಾದಿಸಲು ಒಂದು ಅಂಶವನ್ನು ಆರಿಸಿ">
 
-<!ENTITY find.label               "ಹುಡುಕು:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "ನೋಟ">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "ದಿನಾಂಕದ ಆಧಾರದಲ್ಲಿ">

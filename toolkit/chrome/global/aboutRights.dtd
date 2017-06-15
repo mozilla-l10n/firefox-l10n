@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "ನಿಮ್ಮ ಹಕ್ಕುಗಳ ಬಗ್ಗೆ">
+<!ENTITY rights.title "ನಿಮ್ಮ ಹಕ್ಕುಗಳ ಬಗ್ಗೆ">
 <!ENTITY rights.intro "&brandFullName; ಒಂದು ಸ್ವತಂತ್ರ ಮತ್ತು ಮುಕ್ತ ತಂತ್ರಾಂಶವಾಗಿದ್ದು, ಇದನ್ನು ವಿಶ್ವದಾದ್ಯಂತ ಹರಡಿರುವ ಸಾವಿರಾರು ಸಂಖ್ಯೆಯ ಸಮುದಾಯ ರಚಿಸಲಾಗಿದೆ. ನೀವು ತಿಳಿಯಬೇಕಾದ ಕೆಲವು ವಿಷಯಗಳಿವೆ:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
