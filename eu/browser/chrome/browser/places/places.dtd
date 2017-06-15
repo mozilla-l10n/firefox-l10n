@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Gehituta">
 <!ENTITY col.lastmodified.label  "Azken aldaketa">
 
-<!ENTITY search.label                              "Bilatu:">
-<!ENTITY search.accesskey                          "B">
+<!ENTITY search.placeholder  "Bilatu">
 
 <!ENTITY cmd.find.key  "b">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "u">
 <!ENTITY detailsPane.selectAnItemText.description "Hautatu elementu bat bere propietateak ikusi eta editatzeko">
 
-<!ENTITY find.label               "Bilatu:">
-<!ENTITY find.accesskey           "B">
 <!ENTITY view.label               "Ikusi">
 <!ENTITY view.accesskey           "s">
 <!ENTITY byDate.label             "Dataren arabera">
