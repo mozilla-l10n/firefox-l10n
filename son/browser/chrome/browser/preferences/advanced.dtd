@@ -144,5 +144,7 @@
 <!ENTITY limitContentProcessOption.label "Gundekuna goyandiyan adadu">
 
 <!ENTITY limitContentProcessOption.accesskey   "d">
+
+
 <!ENTITY allowHWAccel.label              "Goy nda jinay šenda cahãndikaw nd'a ga bara">
 <!ENTITY allowHWAccel.accesskey          "j">

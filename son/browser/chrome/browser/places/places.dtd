@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Tontonyan han">
 <!ENTITY col.lastmodified.label  "Barmay cee koraa">
 
-<!ENTITY search.label                              "Ceeci:">
-<!ENTITY search.accesskey                          "C">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Hayiize suuba k'a guna nda ka nga mayrawey fasal.">
 
-<!ENTITY find.label               "Ceeci:">
-<!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Guna">
 <!ENTITY view.accesskey           "G">
 <!ENTITY byDate.label             "Han bande">
