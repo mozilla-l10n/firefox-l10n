@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "添加日期">
 <!ENTITY col.lastmodified.label  "修改日期">
 
-<!ENTITY search.label                              "搜索:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "搜索">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "选择一个条目来查看或编辑其属性">
 
-<!ENTITY find.label               "搜索：">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "查看">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "按日期">
