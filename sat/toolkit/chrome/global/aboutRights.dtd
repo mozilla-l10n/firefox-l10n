@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "लिटार">
-<!ENTITY rights.pagetitle       "बाबोत् ते:होक को">
-<!ENTITY rights.intro-header    "आमाक् होक को बाबोत् ते">
+<!ENTITY rights.title "आमाक् होक को बाबोत् ते">
 <!ENTITY rights.intro "&brandFullName; दो सा़धिन आर झिज सोत सोफ्टवेयार काना, सानाम दिसोम जाकात् रिन हाजार होड़ को दाराय ते तेयाराकाना. नोडे का़च् जिनिस मेनाक् आ आम बाडाय ला़कती:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

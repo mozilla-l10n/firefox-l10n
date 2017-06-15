@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "सेलेद काना">
 <!ENTITY col.lastmodified.label  "मुचा़त् रे बोदोल लेन">
 
-<!ENTITY search.label                              "पानते: (S)">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "मित् जिनिस आर ओना रेयाक् गुन को ञेल आर सासापड़ाव ला़गित् बाछाव मे  .">
 
-<!ENTITY find.label               "पानते: (S)">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "ञेल मे  (w)">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "मा़हित् दाराय ते( D) ">
