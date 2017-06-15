@@ -31,7 +31,7 @@
 <!ENTITY generic.longDesc "<p>சில காரணங்களால் &brandShortName; உலாவியால் இப்பக்கத்தை ஏற்ற முடியவில்லை.</p>">
 
 <!ENTITY captivePortal.title "பிணையத்தினுள் புகுபதிகை">
-
+<!ENTITY captivePortal.longDesc2 "<p>இணையத்தை அணுகுவதற்கு முன் இந்தப் பிணைத்தில் நீங்கள் கட்டாயமாக உள்நுழைய வேண்டும்.</p>">
 
 <!ENTITY openPortalLoginPage.label2 "பிணையப் புகுபதிகை பக்கத்தைத் திற">
 
