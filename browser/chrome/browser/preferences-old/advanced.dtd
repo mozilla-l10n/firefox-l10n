@@ -95,6 +95,7 @@
 <!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "d">
 
+<!ENTITY autoUpdateOthers.label          "Actualizează automat">
 <!ENTITY enableSearchUpdate.label        "Motoare de căutare">
 <!ENTITY enableSearchUpdate.accesskey    "M">
 
