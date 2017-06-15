@@ -87,7 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; Einträge">
 <!ENTITY bookmark_folder_one_item "1 Eintrag">
-<!ENTITY bookmark_parent_folder "Übergeordneter Ordner">
+<!ENTITY bookmark_parent_folder "Enthalten in Ordner">
 <!ENTITY bookmark_add_folder "Neuen Ordner hinzufügen">
 
 <!ENTITY reader_saved_offline "Offline gespeichert">
