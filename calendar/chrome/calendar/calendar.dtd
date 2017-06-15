@@ -38,9 +38,9 @@
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; дайын">
 
 <!ENTITY calendar.unifinder.tree.startdate.label           "Бастау">
-
+<!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Бастапқы күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Аяқтау">
-
+<!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Соңғы күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Бітуі">
 
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Аяқталған">
@@ -175,7 +175,7 @@
 <!ENTITY calendar.context.button.accesskey            "Б" >
 
 
-
+<!ENTITY calendar.context.attendance.occurrence.label "Бұл қайталануы" >
 <!ENTITY calendar.context.attendance.all.label        "Бүкіл кездерін" >
 <!-- Task Context Menu -->
 
@@ -192,14 +192,15 @@
 <!ENTITY calendar.context.markcompleted.label     "Аяқталған етіп белгілеу">
 <!ENTITY calendar.context.markcompleted.accesskey "я">
 
+<!ENTITY progress.level.0             "0&percnt; аяқталған">
 <!ENTITY progress.level.0.accesskey   "0">
-
+<!ENTITY progress.level.25            "25&percnt; аяқталған">
 <!ENTITY progress.level.25.accesskey  "2">
-
+<!ENTITY progress.level.50            "50&percnt; аяқталған">
 <!ENTITY progress.level.50.accesskey  "5">
-
+<!ENTITY progress.level.75            "75&percnt; аяқталған">
 <!ENTITY progress.level.75.accesskey  "7">
-
+<!ENTITY progress.level.100            "100&percnt; аяқталған">
 <!ENTITY progress.level.100.accesskey  "1">
 
 <!ENTITY priority.level.none                "Көрсетілмеген">
@@ -207,9 +208,9 @@
 <!ENTITY priority.level.low                 "төмен">
 <!ENTITY priority.level.low.accesskey       "т">
 <!ENTITY priority.level.normal              "Қалыпты">
-
+<!ENTITY priority.level.normal.accesskey    "л">
 <!ENTITY priority.level.high                "Жоғары">
-
+<!ENTITY priority.level.high.accesskey      "ж">
 
 <!ENTITY calendar.context.postpone.1hour.label      "1 сағат">
 <!ENTITY calendar.context.postpone.1hour.accesskey  "с">
@@ -256,9 +257,10 @@
      This is the access key used for the hideCalendar string -->
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+<!ENTITY calendar.context.showall.label                "Барлық күнтізбелерді көрсету">
+<!ENTITY calendar.context.showall.accesskey            "а">
 
-
-
+<!ENTITY calendar.context.convertmenu.label              "Келесіге түрлендіру">
 
 
 <!ENTITY calendar.context.convertmenu.event.label        "Оқиға…">
@@ -283,7 +285,7 @@
 
 
 <!ENTITY calendar.alarm.dismiss.label               "Елемеу" >
-
+<!ENTITY calendar.alarm.dismissall.label            "Барлығын тайдыру" >
 
 <!ENTITY calendar.alarm.snooze.5minutes.label       "5 минут" >
 <!ENTITY calendar.alarm.snooze.10minutes.label      "10 минут" >
