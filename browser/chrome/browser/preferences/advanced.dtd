@@ -145,5 +145,7 @@
 <!ENTITY limitContentProcessOption.label "Takmarka þræði fyrir efni">
 <!ENTITY limitContentProcessOption.description "Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.">
 <!ENTITY limitContentProcessOption.accesskey   "þ">
+
+
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
