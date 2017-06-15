@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Têxistin">
 <!ENTITY col.lastmodified.label  "Guherandina Dawîn">
 
-<!ENTITY search.label                              "Lêgerîn:">
-<!ENTITY search.accesskey                          "L">
 
 <!ENTITY cmd.find.key  "F">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "K">
 <!ENTITY detailsPane.selectAnItemText.description "Ji bo nîşandan û serrastkirina taybetmendiyan yekê hilbijêre">
 
-<!ENTITY find.label               "Bigere:">
-<!ENTITY find.accesskey           "B">
 <!ENTITY view.label               "Bibîne">
 <!ENTITY view.accesskey           "B">
 <!ENTITY byDate.label             "Li gorî dîrokê">
