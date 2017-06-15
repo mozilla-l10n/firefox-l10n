@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Qoʻshilgan">
 <!ENTITY col.lastmodified.label  "Soʻnggi oʻzgartirilgan">
 
-<!ENTITY search.label                              "Izlash:">
-<!ENTITY search.accesskey                          "I">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "m">
 <!ENTITY detailsPane.selectAnItemText.description "Koʻrish uchun bandni tanlang va xossalarini oʻzgartiring">
 
-<!ENTITY find.label               "Izlash:">
-<!ENTITY find.accesskey           "I">
 <!ENTITY view.label               "Koʻrinishi">
 <!ENTITY view.accesskey           "i">
 <!ENTITY byDate.label             "Sana boʻyicha">
