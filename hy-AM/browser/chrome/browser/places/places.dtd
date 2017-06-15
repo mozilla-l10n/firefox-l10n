@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Ավելացվել է">
 <!ENTITY col.lastmodified.label  "Վերջին փոփոխությունը">
 
-<!ENTITY search.label                              "Որոնում.">
-<!ENTITY search.accesskey                          "Ո">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "Ք">
 <!ENTITY detailsPane.selectAnItemText.description "Ընտրեք բաղադրիրը դիտելու և խմբագրելու նրա կարգավորումները">
 
-<!ENTITY find.label               "Որոնում.">
-<!ENTITY find.accesskey           "Ո">
 <!ENTITY view.label               "Տեսք">
 <!ENTITY view.accesskey           "Տ">
 <!ENTITY byDate.label             "Ըստ ամսաթվի">
