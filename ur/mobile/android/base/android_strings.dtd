@@ -88,7 +88,7 @@
 <!ENTITY bookmark_folder_items "&formatD; شہ">
 <!ENTITY bookmark_folder_one_item "۱ شہ">
 
-
+<!ENTITY bookmark_add_folder "نئے پوشہ کا اضافہ کریں">
 
 <!ENTITY reader_saved_offline "آف لائن محفوظ کردیا گیا">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -543,7 +543,7 @@
 <!ENTITY bookmark_edit_name "نام">
 <!ENTITY bookmark_edit_location "محل وقوع">
 <!ENTITY bookmark_edit_keyword "کلیدی لفظ">
-
+<!ENTITY bookmark_select_folder "پوشہ کو منتخب کریں">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -565,7 +565,7 @@
 <!ENTITY button_yes "ہاں">
 <!ENTITY button_no "نہیں">
 <!ENTITY button_clear_data "کوائف خالی کریں">
-
+<!ENTITY button_set "سیٹ کریں">
 <!ENTITY button_clear "صاف کریں">
 <!ENTITY button_copy "نقل کریں">
 
