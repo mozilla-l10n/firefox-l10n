@@ -142,5 +142,7 @@
 <!ENTITY limitContentProcessOption.label "Perk op inhoudprosesse">
 
 <!ENTITY limitContentProcessOption.accesskey   "P">
+
+
 <!ENTITY allowHWAccel.label              "Gebruik hardewareversnelling indien beskikbaar">
 <!ENTITY allowHWAccel.accesskey          "r">

@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Bygevoeg">
 <!ENTITY col.lastmodified.label  "Laas gewysig">
 
-<!ENTITY search.label                              "Soek:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "n">
 <!ENTITY detailsPane.selectAnItemText.description "Kies 'n item om sy eienskappe te kyk en te redigeer">
 
-<!ENTITY find.label               "Soek:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Bekyk">
 <!ENTITY view.accesskey           "k">
 <!ENTITY byDate.label             "Volgens datum">
