@@ -54,7 +54,7 @@
 <!ENTITY  permUseDefault        "पूर्वनिर्धारित वापरा">
 <!ENTITY  permAskAlways         "नेहमी विचारा">
 <!ENTITY  permAllow             "अनुमती">
-<!ENTITY  permAllowSession      "सत्र करीता अनुमती द्या">
+<!ENTITY  permAllowSession      "सत्राकरीता अनुमती द्या">
 <!ENTITY  permBlock             "रोख">
 <!ENTITY  permissionsFor        "करीता परवानगी:">
 <!ENTITY  permPlugins           "प्लगइन्स् सुरू करा">
