@@ -232,7 +232,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "നാള്‍വഴി കാണിക്കുക">
 
-<!ENTITY searchItem.title             "തിരയുക">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "പൂമുഖം">
@@ -457,6 +456,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "തെരച്ചില്‍ പദം">
 <!ENTITY contentSearchSubmit.tooltip  "തിരയല്‍ സമർപ്പിയ്ക്കുക">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -916,6 +918,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY emeLearnMoreContextMenu.label            "ഡിആര്‍എമിനെപ്പറ്റി കൂടുതല്‍ അറിയുക…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
 
 
 

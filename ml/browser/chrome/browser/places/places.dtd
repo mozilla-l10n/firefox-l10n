@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "ചേര്‍ത്തിരിക്കുന്നു">
 <!ENTITY col.lastmodified.label  "ഏറ്റവും ഒടുവില്‍ മാറ്റിയതു്">
 
-<!ENTITY search.label                              "തെരയുക:">
-<!ENTITY search.accesskey                          "S">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ഒരു വസ്തു തെരഞ്ഞെടുത്തു് ഗുണഗണങ്ങള്‍ ചിട്ടപ്പെടുത്തുക">
 
-<!ENTITY find.label               "തെരയുക:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "കാഴ്ച">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "തീയതി അനുസരിച്ചു്">
