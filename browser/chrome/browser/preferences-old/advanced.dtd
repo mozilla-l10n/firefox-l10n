@@ -132,5 +132,7 @@
 <!ENTITY limitContentProcessOption.label "Բովանդակության ընթացքի սահմանափակում">
 <!ENTITY limitContentProcessOption.description "Բովանդակության լրացուցիչ ընթացքները կարող են լավարկել արտադրողականությունը, երբ օգտագործվում են բազմակի ներդիրներ, բայց միևնույն ժամանակ՝ դրանք ավելի շատ հիշողություն կխլեն:">
 <!ENTITY limitContentProcessOption.accesskey   "ս">
+
+
 <!ENTITY allowHWAccel.label              "Հնարավորության դեպքում օգտագործել սարքակազմի արագացումը ">
 <!ENTITY allowHWAccel.accesskey          "ր">

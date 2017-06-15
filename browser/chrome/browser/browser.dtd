@@ -235,7 +235,6 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Ցուցադրել պատմությունը">
 
-<!ENTITY searchItem.title             "Որոնում">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Տուն">
@@ -468,6 +467,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY contentSearchInput.label     "Որոնման հարցում">
 <!ENTITY contentSearchSubmit.tooltip  "Որոնում">
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -958,6 +960,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Վերամեկնարկեք՝ &brandShorterName;-ը՝ արդիացնելու համար">
 
 <!ENTITY pageActionButton.tooltip "Էջի գործույթները">
+
 
 
 
