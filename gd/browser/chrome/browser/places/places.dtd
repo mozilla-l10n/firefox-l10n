@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Air a chruthachadh">
 <!ENTITY col.lastmodified.label  "Atharrachadh mu dheireadh">
 
-<!ENTITY search.label                              "Lorg:">
-<!ENTITY search.accesskey                          "L">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "N">
 <!ENTITY detailsPane.selectAnItemText.description "Tagh rud gus fheartan fhaicinn agus an deasachadh">
 
-<!ENTITY find.label               "Lorg:">
-<!ENTITY find.accesskey           "L">
 <!ENTITY view.label               "Seall">
 <!ENTITY view.accesskey           "S">
 <!ENTITY byDate.label             "A-rèir cinn-là">

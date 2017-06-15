@@ -132,5 +132,7 @@
 <!ENTITY limitContentProcessOption.label "Crìoch pròiseasadh na susbaint">
 
 <!ENTITY limitContentProcessOption.accesskey   "n">
+
+
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">
