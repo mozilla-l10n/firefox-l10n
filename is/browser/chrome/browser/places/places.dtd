@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Bætt við">
 <!ENTITY col.lastmodified.label  "Síðast breytt">
 
-<!ENTITY search.label                              "Leita:">
-<!ENTITY search.accesskey                          "L">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Veldu hlut til að skoða og breyta">
 
-<!ENTITY find.label               "Leita:">
-<!ENTITY find.accesskey           "L">
 <!ENTITY view.label               "Skoða">
 <!ENTITY view.accesskey           "S">
 <!ENTITY byDate.label             "Eftir dagsetningu">
