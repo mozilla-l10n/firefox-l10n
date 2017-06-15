@@ -64,11 +64,11 @@
 <!ENTITY cellAlignJustify.label           "Двустранно">
 <!ENTITY cellInheritColor.label           "(Нека цвета на таблицата прозира)">
 <!ENTITY cellUseCheckboxHelp.label        "Използвайте кутийките за отмятане, за да определите кои свойства да се прилагат към избраните клетки">
-<!-- Used in both Table and Cell panels  -->
 
+<!-- Used in both Table and Cell panels  -->
 <!ENTITY size.label                       "Размер">
 <!ENTITY pixels.label                     "пиксели">
-<!ENTITY backgroundColor.label            "Фонов цвят:">
+<!ENTITY backgroundColor.label            "Цвят на фона:">
 <!ENTITY backgroundColor.accessKey        "Ф">
 <!ENTITY AlignLeft.label                  "Ляво">
 <!ENTITY AlignCenter.label                "Центриране">
