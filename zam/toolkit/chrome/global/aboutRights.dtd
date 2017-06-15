@@ -4,7 +4,6 @@
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
 
-
 <!ENTITY rights.intro "&brandFullName; kue nak software libre, re men thus kuey na li chen pees . Nakin lo beel kue:">
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is

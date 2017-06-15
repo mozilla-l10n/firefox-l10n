@@ -77,8 +77,6 @@
 <!ENTITY col.dateadded.label     "M-tòb">
 
 
-<!ENTITY search.label                              "KwàɁn:">
-<!ENTITY search.accesskey                          "K">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -93,8 +91,6 @@
 
 
 
-<!ENTITY find.label               "KwàɁn:">
-<!ENTITY find.accesskey           "K">
 <!ENTITY view.label               "N-wíɁ">
 <!ENTITY view.accesskey           "w">
 
