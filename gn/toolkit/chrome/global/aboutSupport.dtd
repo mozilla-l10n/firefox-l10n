@@ -114,13 +114,13 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "mba'ekuaarã hi'akýva mbohasa kuatiajokohápe">
 
 <!ENTITY aboutSupport.sandboxTitle "Sandbox">
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Ñehenói apopyvusu guive oike'ỹva">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Angete oiko">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
-
-
+<!ENTITY aboutSupport.sandboxSyscallProcType "Mba'eapo peteĩchagua">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Ñehenói pumbyrýpe">
 <!ENTITY aboutSupport.sandboxSyscallArgs "Je'ekuaaite">
 
 <!ENTITY aboutSupport.safeModeTitle "Eipuru teko jerovia">

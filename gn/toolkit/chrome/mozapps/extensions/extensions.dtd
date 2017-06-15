@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Ko ñembohekopyahu jehaipyre rehegua jehechauka.">
 <!ENTITY cmd.hideReleaseNotes.label           "Jehapy rehegua ñomi">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Emokañy jehaipy ko ñembohekopyahu rehegua.">
-
+<!ENTITY cmd.findReplacement.label            "Ejuhu hekoviarã">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéima ojepuru &brandShortName; ndive.">
 <!ENTITY pluginDeprecation.learnMore "Jeikuaave.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Oĩpa nderejuhúiva? Sapy'ánte oĩ mba'ejoajurã ndaikatuvéimava ojepuru &brandShortName; ndive.">
+<!ENTITY legacyWarning.showLegacy "Opaite mba'ejoapyrã jehecha">
+<!ENTITY legacyExtensions.title "Opaite mba'ejoapyrã">
+<!ENTITY legacyExtensions.description "Ko'ã jepysokue ndoguerekói &brandShortName; tekoguatarã oñembogue hag̃ua.">
+<!ENTITY legacyExtensions.learnMore "Maranduve moĩmbaha moambue rehegua">
