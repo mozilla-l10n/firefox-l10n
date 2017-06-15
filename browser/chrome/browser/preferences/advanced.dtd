@@ -135,5 +135,7 @@
 
 
 
+
+
 <!ENTITY allowHWAccel.label              "Koristi hardversku akceleraciju kad je moguće">
 <!ENTITY allowHWAccel.accesskey          "h">
