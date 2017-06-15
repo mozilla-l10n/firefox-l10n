@@ -144,5 +144,7 @@
 <!ENTITY limitContentProcessOption.label "Limite de procesado de conteniu">
 
 <!ENTITY limitContentProcessOption.accesskey   "L">
+
+
 <!ENTITY allowHWAccel.label              "Usar l'acceleración d'hardware quan sía disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
