@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Ychwanegwyd">
 <!ENTITY col.lastmodified.label  "Newidwyd Ddiwethaf">
 
-<!ENTITY search.label                              "Chwilio:">
-<!ENTITY search.accesskey                          "C">
+<!ENTITY search.placeholder  "Chwilio">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "L">
 <!ENTITY detailsPane.selectAnItemText.description "Dewis eitem i'w gweld a golygu ei phriodweddau">
 
-<!ENTITY find.label               "Chwilio:">
-<!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Golwg">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "Yn ôl Dyddiad">
