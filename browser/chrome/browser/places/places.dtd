@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Pśidany">
 <!ENTITY col.lastmodified.label  "Slědna změna">
 
+<!ENTITY search.placeholder  "Pytaś">
 
 <!ENTITY cmd.find.key  "f">
 
