@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Okongeziweyo">
 <!ENTITY col.lastmodified.label  "Ihlengahlengiswe Okokugqibela">
 
-<!ENTITY search.label                              "Zingela:">
-<!ENTITY search.accesskey                          "Z">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "n">
 <!ENTITY detailsPane.selectAnItemText.description "Khetha iayithem uyijonge uze uhlele iipropati zayo">
 
-<!ENTITY find.label               "Zingela:">
-<!ENTITY find.accesskey           "Z">
 <!ENTITY view.label               "Jonga">
 <!ENTITY view.accesskey           "g">
 <!ENTITY byDate.label             "Ngalo Mhla">
