@@ -81,6 +81,6 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY mobilePromo3.iOSBefore         " أو ">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
-<!ENTITY mobilePromo3.iOSLink          "iOS">
+<!ENTITY mobilePromo3.iOSLink          "آي أو إس">
 
 <!ENTITY mobilePromo3.end              " للمزامنة مع هاتفك المحمول.">
