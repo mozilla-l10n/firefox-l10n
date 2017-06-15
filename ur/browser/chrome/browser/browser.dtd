@@ -430,9 +430,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -546,7 +546,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ر">
 <!ENTITY bookmarkThisFrameCmd.label      "یہ فریم نشان زد کریں">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ن">
-
+<!ENTITY copyURLCmd.label             "URI نقل کریں">
 <!ENTITY emailPageCmd.label           "ای میل ربط…">
 <!ENTITY emailPageCmd.accesskey       "ا">
 <!ENTITY savePageCmd.label            "صفحہ محفوظ کریں بطور…">
@@ -935,8 +935,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY updateManual.acceptButton.label "brandShorterName; کو Download کریں">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "ابھی نہیں">
 <!ENTITY updateManual.cancelButton.accesskey "ا">
 
