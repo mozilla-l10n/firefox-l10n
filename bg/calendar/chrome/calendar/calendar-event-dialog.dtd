@@ -117,8 +117,8 @@
 <!ENTITY  event.menu.view.toolbars.accesskey              "Л">
 <!ENTITY  event.menu.view.toolbars.event.label            "Лента със събития">
 <!ENTITY  event.menu.view.toolbars.event.accesskey        "Л">
-<!ENTITY  event.menu.view.toolbars.customize.label        "Персонализиране…">
-<!ENTITY  event.menu.view.toolbars.customize.accesskey    "П">
+<!ENTITY  event.menu.view.toolbars.customize.label        "Друго…">
+<!ENTITY  event.menu.view.toolbars.customize.accesskey    "Д">
 <!ENTITY  event.menu.view.showlink.label                  "Показване на сродните връзки">
 <!ENTITY  event.menu.view.showlink.accesskey              "в">
 
@@ -285,13 +285,13 @@
 <!ENTITY repeat.units.days.both                         "Ден/дни" >
 <!ENTITY event.recurrence.pattern.every.weekday.label   "Всеки делник" >
 
-<!ENTITY event.recurrence.pattern.weekly.every.label    "Всяка/и" >
+<!ENTITY event.recurrence.pattern.weekly.every.label    "Всеки/яка" >
 <!ENTITY repeat.units.weeks.both                        "Седмица/и" >
 <!ENTITY event.recurrence.on.label                      "В/Във:" >
 
 <!ENTITY event.recurrence.pattern.monthly.every.label   "(На) всеки" >
 <!ENTITY repeat.units.months.both                       "Месец(а)" >
-<!ENTITY event.recurrence.monthly.every.label           "Всяка" >
+<!ENTITY event.recurrence.monthly.every.label           "Всеки/яка" >
 <!ENTITY event.recurrence.monthly.first.label           "първият/та">
 <!ENTITY event.recurrence.monthly.second.label          "вторият/та">
 <!ENTITY event.recurrence.monthly.third.label           "третият/та">
@@ -333,7 +333,7 @@
 <!ENTITY event.recurrence.pattern.yearly.month.10.label      "октомври" >
 <!ENTITY event.recurrence.pattern.yearly.month.11.label      "ноември" >
 <!ENTITY event.recurrence.pattern.yearly.month.12.label      "декември" >
-<!ENTITY event.recurrence.yearly.every.label                 "всяка">
+<!ENTITY event.recurrence.yearly.every.label                 "всеки/яка">
 <!ENTITY event.recurrence.yearly.first.label                 "първият/та">
 <!ENTITY event.recurrence.yearly.second.label                "вторият/та">
 <!ENTITY event.recurrence.yearly.third.label                 "третият/та">
