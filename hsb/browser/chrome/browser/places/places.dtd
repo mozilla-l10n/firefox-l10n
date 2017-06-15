@@ -85,8 +85,6 @@
 <!ENTITY col.dateadded.label     "Přidaty">
 <!ENTITY col.lastmodified.label  "Poslednja změna">
 
-<!ENTITY search.label                              "Pytać:">
-<!ENTITY search.accesskey                          "P">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +102,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Zapisk wubrać, zo bychu so jeho kajkosće wobhladali a wobdźěłali">
 
-<!ENTITY find.label               "Pytać:">
-<!ENTITY find.accesskey           "P">
 <!ENTITY view.label               "Napohlad">
 <!ENTITY view.accesskey           "N">
 <!ENTITY byDate.label             "po datumje">
