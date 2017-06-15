@@ -36,7 +36,7 @@
 <!ENTITY calendar.unifinder.tree.title.label               "Атауы">
 <!ENTITY calendar.unifinder.tree.title.tooltip2            "Атауы бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.percentcomplete.label     "&#037; дайын">
-
+<!ENTITY calendar.unifinder.tree.percentcomplete.tooltip2  "Аяқталған &#037; бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.startdate.label           "Бастау">
 <!ENTITY calendar.unifinder.tree.startdate.tooltip2        "Бастапқы күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.enddate.label             "Аяқтау">
@@ -44,7 +44,7 @@
 <!ENTITY calendar.unifinder.tree.duedate.label             "Бітуі">
 
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Аяқталған">
-
+<!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Аяқталған күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.categories.label          "Санат">
 <!ENTITY calendar.unifinder.tree.categories.tooltip2       "Санаты бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.location.label            "Орналасқан жері">
@@ -55,7 +55,7 @@
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Күнтізбе аты бойынша сұрыптау">
 
 
-
+<!ENTITY calendar.unifinder.close.tooltip                  "Оқиғаны іздеу және оқиғалар тізімін жабу">
 
 <!ENTITY calendar.today.button.tooltip          "Бүгінге өту" >
 <!ENTITY calendar.todaypane.button.tooltip      "Бүгіннің панелін көрсету" >
@@ -94,14 +94,15 @@
 <!ENTITY calendar.week.button.label             "Апта" >
 <!ENTITY calendar.month.button.label            "Ай" >
 <!ENTITY calendar.multiweek.button.label        "Бірнеше апта" >
-
-
-
-
+<!ENTITY calendar.onlyworkday.checkbox.label    "Аптаның тек жұмыс күндері" >
+<!ENTITY calendar.onlyworkday.checkbox.accesskey  "к" >
+<!ENTITY calendar.displaytodos.checkbox.label   "Көріністегі тапсырмалар" >
+<!ENTITY calendar.displaytodos.checkbox.accesskey "с" >
 <!ENTITY calendar.completedtasks.checkbox.label     "Аяқталған тапсырмаларды көрсету" >
 <!ENTITY calendar.completedtasks.checkbox.accesskey "А" >
 
-
+<!ENTITY calendar.orientation.label "Көріністі бұру" >
+<!ENTITY calendar.orientation.accesskey "р" >
 
 <!ENTITY calendar.search.options.searchfor " құрамында бар">
 
@@ -173,8 +174,8 @@
 <!ENTITY calendar.context.pasteevent.accesskey        "р">
 <!ENTITY calendar.context.button.label                "Бүгінгі панелі" >
 <!ENTITY calendar.context.button.accesskey            "Б" >
-
-
+<!ENTITY calendar.context.attendance.menu.label       "Қатысу" >
+<!ENTITY calendar.context.attendance.menu.accesskey   "т" >
 <!ENTITY calendar.context.attendance.occurrence.label "Бұл қайталануы" >
 <!ENTITY calendar.context.attendance.all.label        "Бүкіл кездерін" >
 <!-- Task Context Menu -->
@@ -183,8 +184,8 @@
 <!ENTITY calendar.context.progress.accesskey          "П">
 <!ENTITY calendar.context.priority.label              "Приоритет">
 <!ENTITY calendar.context.priority.accesskey          "и">
-
-
+<!ENTITY calendar.context.postpone.label              "Тапсырманы кейінге қалдыру">
+<!ENTITY calendar.context.postpone.accesskey          "й">
 <!--=percent sign-->
 
 <!ENTITY percnt "&#38;#37;" >
@@ -241,14 +242,14 @@
 
 <!ENTITY calendar.context.removeserver.label           "Күнтізбені өшіру…">
 <!ENTITY calendar.context.removeserver.accesskey       "ш">
-
-
-
-
-
-
-
-
+<!ENTITY calendar.context.unsubscribeserver.label      "Күнтізбеге жазылуын өшіру…">
+<!ENTITY calendar.context.unsubscribeserver.accesskey  "ы">
+<!ENTITY calendar.context.synccalendars.label          "Күнтізбелерді синхрондау">
+<!ENTITY calendar.context.synccalendars.accesskey      "с">
+<!ENTITY calendar.context.publish.label                "Күнтізбені жариялау…">
+<!ENTITY calendar.context.publish.accesskey            "я">
+<!ENTITY calendar.context.export.label                 "Күнтізбені экспорттау…">
+<!ENTITY calendar.context.export.accesskey             "э">
 <!ENTITY calendar.context.properties.label             "Қасиеттері">
 <!ENTITY calendar.context.properties.accesskey         "а">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
@@ -261,8 +262,8 @@
 <!ENTITY calendar.context.showall.accesskey            "а">
 
 <!ENTITY calendar.context.convertmenu.label              "Келесіге түрлендіру">
-
-
+<!ENTITY calendar.context.convertmenu.accesskey.mail     "т">
+<!ENTITY calendar.context.convertmenu.accesskey.calendar "н">
 <!ENTITY calendar.context.convertmenu.event.label        "Оқиға…">
 <!ENTITY calendar.context.convertmenu.event.accesskey    "О">
 <!ENTITY calendar.context.convertmenu.message.label      "Хабарлама…">
@@ -317,8 +318,8 @@
 <!ENTITY calendarproperties.readonly.label                 "Тек оқу үшін">
 <!ENTITY calendarproperties.firealarms.label               "Еске салуларды көрсету">
 
-
-
+<!ENTITY calendarproperties.enabled.label                  "Бұл күнтізбені іске қосу">
+<!ENTITY calendarproperties.forceDisabled.label            "Бұл күнтізбенің ұсынушысын табу мүмкін емес. Бұл кейбір қосымшалар сөндірілген немесе өшірілген кезде болуы мүмкін.">
 <!ENTITY calendarproperties.unsubscribe.label              "Жазылудан бас тарту">
 <!ENTITY calendarproperties.unsubscribe.accesskey          "б">
 <!-- Calendar Publish Dialog -->
