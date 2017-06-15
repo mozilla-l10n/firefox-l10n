@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Добавена на">
 <!ENTITY col.lastmodified.label  "Последна промяна">
 
-<!ENTITY search.label                              "Търсене:">
-<!ENTITY search.accesskey                          "Т">
+<!ENTITY search.placeholder  "Търсене">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "м">
 <!ENTITY detailsPane.selectAnItemText.description "Изберете елемент, който да разгледате и редактирате">
 
-<!ENTITY find.label               "Търсене:">
-<!ENTITY find.accesskey           "Т">
 <!ENTITY view.label               "Изглед">
 <!ENTITY view.accesskey           "И">
 <!ENTITY byDate.label             "По дата">
