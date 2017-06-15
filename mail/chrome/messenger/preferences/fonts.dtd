@@ -14,9 +14,9 @@
 <!ENTITY  proportional.label                      "Proporțional:">
 <!ENTITY  proportional.accesskey                  "P">
 
-<!ENTITY  serif.label                             "Serif:">
-<!ENTITY  serif.accesskey                         "S">
-<!ENTITY  sans-serif.label                        "Sans-serif:">
+<!ENTITY  serif.label                             "Cu serife:">
+<!ENTITY  serif.accesskey                         "s">
+<!ENTITY  sans-serif.label                        "Fără serife:">
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Monospațiat:">
 <!ENTITY  monospace.accesskey                     "M">
@@ -36,9 +36,9 @@
 <!ENTITY  font.langGroup.hebrew                   "Ebraică">
 <!ENTITY  font.langGroup.arabic                   "Arabă">
 <!ENTITY  font.langGroup.devanagari               "Devanagari">
-<!ENTITY  font.langGroup.tamil                    "Tamil">
+<!ENTITY  font.langGroup.tamil                    "Tamilă">
 <!ENTITY  font.langGroup.armenian                 "Armeană">
-<!ENTITY  font.langGroup.bengali                  "Bengalez">
+<!ENTITY  font.langGroup.bengali                  "Bengali">
 <!ENTITY  font.langGroup.canadian                 "Unified Canadian Syllabary">
 <!ENTITY  font.langGroup.ethiopic                 "Etiopiană">
 <!ENTITY  font.langGroup.georgian                 "Georgiană">
@@ -58,8 +58,8 @@
 <!ENTITY minSize.none                             "Fără">
 <!-- default font type -->
 
-<!ENTITY  useDefaultFontSerif.label               "Serif">
-<!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
+<!ENTITY  useDefaultFontSerif.label               "Cu serife">
+<!ENTITY  useDefaultFontSansSerif.label           "Fără serife">
 <!-- fonts in message -->
 
 <!ENTITY  fontControl.label                       "Control fonturi">
