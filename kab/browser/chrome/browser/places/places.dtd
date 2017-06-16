@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Tamkarḍit">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Azem n tmerna">
 <!ENTITY col.lastmodified.label  "Asnifel aneggaru">
 
-<!ENTITY search.label                              "Nadi:">
-<!ENTITY search.accesskey                          "N">
+<!ENTITY search.placeholder  "Nadi">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "d">
 <!ENTITY detailsPane.selectAnItemText.description "Fren aferdis akken ad twaliḍ udiɣ ad tesnifleḍ taɣaṛa yines">
 
-<!ENTITY find.label               "Nadi:">
-<!ENTITY find.accesskey           "N">
 <!ENTITY view.label               "Smizzwer">
 <!ENTITY view.accesskey           "S">
 <!ENTITY byDate.label             "S wazemz">
