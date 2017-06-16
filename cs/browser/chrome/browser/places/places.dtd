@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Přidáno">
 <!ENTITY col.lastmodified.label  "Poslední změna">
 
-<!ENTITY search.label                              "Hledat:">
-<!ENTITY search.accesskey                          "H">
+<!ENTITY search.placeholder  "Hledat">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "M">
 <!ENTITY detailsPane.selectAnItemText.description "Pro zobrazení a úpravu vlastností vyberte některou z položek">
 
-<!ENTITY find.label               "Hledat:">
-<!ENTITY find.accesskey           "H">
 <!ENTITY view.label               "Zobrazit">
 <!ENTITY view.accesskey           "Z">
 <!ENTITY byDate.label             "Podle data">
