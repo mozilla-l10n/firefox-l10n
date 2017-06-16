@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "مُضاف">
 <!ENTITY col.lastmodified.label  "آخر تعديل">
 
+<!ENTITY search.placeholder  "ابحث">
 
 <!ENTITY cmd.find.key  "f">
 
