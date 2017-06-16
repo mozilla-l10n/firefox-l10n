@@ -139,5 +139,7 @@
 <!ENTITY limitContentProcessOption.accesskey   "ה">
 <!ENTITY limitContentProcessOption.disabledDescription
                                          "שינוי מספר תהליכי תוכן אפשרי רק עם &brandShortName; מרובה תהליכים.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "כיצד לבדוק אם ריבוי תהליכים מופעל">
 <!ENTITY allowHWAccel.label              "שימוש בהאצת חומרה כשניתן">
 <!ENTITY allowHWAccel.accesskey          "ה">
