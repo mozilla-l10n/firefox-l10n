@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Rastrear protección">
+<!ENTITY  trackingProtectionHeader2.label      "Protección contra rastreo">
 <!ENTITY  trackingProtection.description       "Hablamos de rastreo cuando empresas recolectan información sobre ti para crear un perfil y mostrar contenido que se basa en tu navegación y datos personales.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Impide que las empresas conocidas por su rastreo muestren contenido">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
