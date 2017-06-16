@@ -291,7 +291,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.accesskey "ن">
 <!ENTITY newNonRemoteWindow.label   "نافذة جديدة غير متعددة السيرورات">
 
-<!ENTITY editMenu.label         "تحرير"> 
+<!ENTITY editMenu.label         "حرّر"> 
 <!ENTITY editMenu.accesskey       "ح"> 
 <!ENTITY undoCmd.label            "تراجع">  
 <!ENTITY undoCmd.key            "Z">  
