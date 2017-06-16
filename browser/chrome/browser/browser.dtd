@@ -175,13 +175,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "தேர்வைப் பகிர்">
 <!ENTITY shareSelect.accesskey "r">
-<!ENTITY shareVideo.label "இந்த நிகழ்படத்தை பகிரவும்">
+<!ENTITY shareVideo.label "நிகழ்படத்தைப் பகிர்">
 <!ENTITY shareVideo.accesskey "r">
-<!ENTITY feedsMenu2.label "இந்தப் பக்கத்திற்குச் சந்தாப்படுத்து">
+<!ENTITY feedsMenu2.label "சந்தா">
 <!ENTITY subscribeToPageMenupopup.label "இந்தப் பக்கத்திற்குச் சந்தாப்படுத்து">
-<!ENTITY subscribeToPageMenuitem.label "இந்தப் பக்கத்திற்கு சந்தாப்படுத்து…">
-<!ENTITY addCurPagesCmd.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியீடு…">
-<!ENTITY showAllBookmarks2.label "அனைத்து புத்தகக்குறிகளையும் காட்டு">
+<!ENTITY subscribeToPageMenuitem.label "சந்தா…">
+<!ENTITY addCurPagesCmd.label "கீற்றுகளை புத்தகக்குறியிடு…">
+<!ENTITY showAllBookmarks2.label "அனைத்தையும் காண்பி">
 <!ENTITY recentBookmarks.label "சமீபத்தில் புத்தகக்குறியிடப்பட்டது">
 <!ENTITY otherBookmarksCmd.label "இதர புத்தகக்குறிகள்">
 <!ENTITY mobileBookmarksCmd.label "கைபேசி புத்தகக்குறிகள்">
