@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY pluginActivationWarning                             "Bu site, &brandShortName; tarayıcınızı yavaşlatabilecek bir eklenti kullanıyor.">
 <!ENTITY tapToPlayPlugin                                     "Yan uygulamayı etkinleştirmek için buraya dokunun.">
 <!ENTITY clickToActivatePlugin                               "Yan uygulamayı etkinleştir.">
 <!ENTITY checkForUpdates                                     "Güncellemeleri denetle…">

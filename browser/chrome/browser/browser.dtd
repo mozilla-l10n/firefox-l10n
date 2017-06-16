@@ -470,6 +470,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY contentSearchInput.label     "Arama sorgusu">
 <!ENTITY contentSearchSubmit.tooltip  "Aramayı gönder">
 
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Arama">
+<!ENTITY searchIcon.tooltip           "Ara">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -963,3 +968,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Cihaza gönder">
 <!ENTITY sendToDevice.fxaRequired.label "Gerekli">
 <!ENTITY sendToDevice.noDevices.label "Kullanılabilir cihaz yok">
+<!ENTITY sendToDevice.syncNotReady.label "Cihazlar eşitleniyor…">

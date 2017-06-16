@@ -68,10 +68,10 @@
 <!ENTITY unknownSocketType.title "Hatalı yanıt">
 <!ENTITY unknownSocketType.longDesc "<p>Site bağlantı isteğine hiç beklenmeyen bir biçimde karşılık verdi ve tarayıcı bu girişimi daha fazla sürdürmeyecek.</p>">
 
-<!ENTITY nssFailure2.title "Güvenli bağlantı girişimi başarısız">
+<!ENTITY nssFailure2.title "Güvenli bağlantı kurulamadı">
 <!ENTITY nssFailure2.longDesc2 "<p>Görüntülemeye çalıştığınız sayfa gösterilemiyor çünkü alınan verilerin gerçekliği doğrulanamadı.</p><ul><li>Bu sorunu bildirmek için lütfen site sahipleriyle iletişime geçin.</li></ul>">
 
-<!ENTITY nssBadCert.title "Güvenli bağlantı girişimi başarısız">
+<!ENTITY nssBadCert.title "Güvenli bağlantı kurulamadı">
 <!ENTITY nssBadCert.longDesc2 "<ul>
 <li>Sunucunun yapılandırmasıyla ilgili bir sorun olabilir veya birisi sunucuyu taklit etmeye çalışıyor olabilir.</li>
 <li>Daha önce bu sunucuya sorunsuz bağlandıysanız sorun geçici olabilir ve daha sonra yeniden bağlanmayı deneyebilirsiniz.</li>
