@@ -82,8 +82,8 @@
      all go into one line and have an anchor in between with text that is the same as the link to a site
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.manual.start        "更新可用，在 ">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.start        "可访问 ">
+<!ENTITY update.manual.end          " 下载更新">
 
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
