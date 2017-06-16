@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "F">
 <!ENTITY searchOnStartTyping.label       "Caută textul când încep să tastez">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "Avertizează când site-urile web încearcă să redirecteze sau să reîncarce pagina">
+<!ENTITY blockAutoReload.label           "Avertizează când site-urile web încearcă să redirecționeze sau să reîncarce pagina">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Arată o tastatură tactilă când este necesar">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
