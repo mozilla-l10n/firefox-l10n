@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Tz'aqatisan">
 <!ENTITY col.lastmodified.label  "Ruk'isib'äl k'exoj">
 
+<!ENTITY search.placeholder  "Tikanöx">
 
 <!ENTITY cmd.find.key  "j">
 
