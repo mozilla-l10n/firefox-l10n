@@ -8,17 +8,19 @@
 <!-- LOCALIZATION NOTE : Accesskeys for day.1.Ddd to day.7.Ddd are currently
      only used in Preferences > Views > Workweek groupbox -->
 
+<!ENTITY day.1.Ddd "Жек" >
 
+<!ENTITY day.2.Ddd "Дүй" >
 
+<!ENTITY day.3.Ddd "Сей" >
 
+<!ENTITY day.4.Ddd "Сәр" >
 
+<!ENTITY day.5.Ddd "Бей" >
 
+<!ENTITY day.6.Ddd "Жұм" >
 
-
-
-
-
-
+<!ENTITY day.7.Ddd "Сен" >
 
 
 <!ENTITY day.1.name "Жексенбі" >
