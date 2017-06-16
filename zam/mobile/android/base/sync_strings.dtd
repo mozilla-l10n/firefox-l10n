@@ -81,7 +81,7 @@
 <!ENTITY fxaccount_remove_account "Disconnect&ellipsis;">
 
 <!ENTITY fxaccount_remove_account_dialog_title2 "kíb Sync?">
-
+<!ENTITY fxaccount_remove_account_dialog_message2 "Sus datos de navegación permanecerán en este dispositivo, pero ya no se sincronizará con su cuenta.">
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 "Lél myíb &formatS; lent Firefox.">

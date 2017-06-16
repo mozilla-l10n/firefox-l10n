@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; re loo">
 <!ENTITY bookmark_folder_one_item "1 kue">
-
+<!ENTITY bookmark_parent_folder "Pá só Yêts">
 <!ENTITY bookmark_add_folder "m-tòb yêts kúb">
 
 <!ENTITY reader_saved_offline "mb-lòɁ sóg this yent sní">
@@ -368,6 +368,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "Mgüí zá níe Letr">
+<!ENTITY pref_use_system_font_size_summary "Escala de contenido web de acuerdo con el tamaño de fuente del sistema">
 
 <!ENTITY pref_media_autoplay_enabled "Tob kí lénta">
 <!ENTITY pref_media_autoplay_enabled_summary "Tak tob lú kí re onn güin ner ko xhon lú">
