@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Įtrauktas">
 <!ENTITY col.lastmodified.label  "Atnaujintas">
 
+<!ENTITY search.placeholder  "Ieškoti">
 
 <!ENTITY cmd.find.key  "f">
 
