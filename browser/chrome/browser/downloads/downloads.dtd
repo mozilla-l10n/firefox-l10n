@@ -131,7 +131,7 @@
      the panel at all.
      -->
 
-<!ENTITY downloadsHistory.label           "Arată toate descărcările">
+<!ENTITY downloadsHistory.label           "Afișează toate descărcările">
 <!ENTITY downloadsHistory.accesskey       "s">
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the

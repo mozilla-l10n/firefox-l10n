@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permite ca &brandShortName; și Firefox să ruleze în același timp">
 <!ENTITY useFirefoxSync.label             "Pont: Acesta folosește profiluri separate. Folosește Sincronizare pentru a împărtăși datele între ele.">
-
+<!ENTITY getStarted.notloggedin.label     "Autentifică-te la &syncBrand.shortName.label;…">
 
 
 <!ENTITY e10sEnabled.label                "Activează funcționalitatea de multiprocese a &brandShortName;">
