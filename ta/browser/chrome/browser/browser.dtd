@@ -21,14 +21,14 @@
 
 <!ENTITY  reloadTab.label                    "கீற்றை மீளேற்று">
 <!ENTITY  reloadTab.accesskey                "R">
-<!ENTITY  reloadAllTabs.label                "அனைத்து கீற்றுகளையும் மீளேற்று">
-<!ENTITY  reloadAllTabs.accesskey            "அ">
+<!ENTITY  reloadAllTabs.label                "கீற்றுகளை மீளேற்று">
+<!ENTITY  reloadAllTabs.accesskey            "A">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
-<!ENTITY  closeTabsToTheEnd.label            "வலது பக்கதிசையில் கீற்றுகளை மூடு">
+<!ENTITY  closeTabsToTheEnd.label            "வல கீற்றுகளை மூடு">
 <!ENTITY  closeTabsToTheEnd.accesskey        "i">
-<!ENTITY  closeOtherTabs.label               "மற்ற கீற்றுகளை மூடவும்">
+<!ENTITY  closeOtherTabs.label               "மீதி கீற்றுகளை மூடு">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -36,23 +36,23 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "கீற்றைச் சேர்">
+<!ENTITY  pinTab.label                       "இட முனையில் சேர்">
 <!ENTITY  pinTab.accesskey                   "P">
-<!ENTITY  unpinTab.label                     "கீற்றை நீக்கு">
+<!ENTITY  unpinTab.label                     "முனையிலிருந்து நீக்கு">
 <!ENTITY  unpinTab.accesskey                 "b">
-<!ENTITY  sendTabToDevice.label              "கீற்றை சாதனங்களுக்கு அனுப்பவும்">
+<!ENTITY  sendTabToDevice.label              "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendTabToDevice.accesskey          "D">
-<!ENTITY  sendPageToDevice.label             "பக்கத்தைச் சாதனத்திற்கு அனுப்பவும்">
+<!ENTITY  sendPageToDevice.label             "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendPageToDevice.accesskey         "D">
-<!ENTITY  sendLinkToDevice.label             "கருவிக்கு இணைப்பை அனுப்பு">
+<!ENTITY  sendLinkToDevice.label             "சாதனத்திற்கு அனுப்பு">
 <!ENTITY  sendLinkToDevice.accesskey         "D">
-<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகரவும்">
+<!ENTITY  moveToNewWindow.label              "புதிய சாளரத்திற்கு நகற்று">
 <!ENTITY  moveToNewWindow.accesskey          "W">
-<!ENTITY  bookmarkAllTabs.label              "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
-<!ENTITY  bookmarkAllTabs.accesskey          "க">
-<!ENTITY  undoCloseTab.label                 "மூடிய கீற்றுகளைத் திற">
-<!ENTITY  undoCloseTab.accesskey             "ம">
-<!ENTITY  closeTab.label                     "கீற்றை மூடவும்">
+<!ENTITY  bookmarkAllTabs.label              "கீற்றுகளைப் புத்தகக்குறியிடு…">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "மூடியவற்றைத் திற">
+<!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "கீற்றை மூடு">
 <!ENTITY  closeTab.accesskey                 "C">
 
 <!ENTITY  listAllTabs.label      "அனைத்து கீற்றுகளையும் பட்டியலிடு">
@@ -68,52 +68,52 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "பக்க அமைவு…">
-<!ENTITY printSetupCmd.accesskey "வ">
+<!ENTITY printSetupCmd.accesskey "u">
 <!ENTITY printPreviewCmd.label "அச்சு முன்தோற்றம்">
-<!ENTITY printPreviewCmd.accesskey "த">
+<!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "அச்சிடு…">
-<!ENTITY printCmd.accesskey "அ">
+<!ENTITY printCmd.accesskey "P">
 <!ENTITY printCmd.commandkey "p">
 
-<!ENTITY goOfflineCmd.label "இணையமின்றி வேலைச்செய்">
-<!ENTITY goOfflineCmd.accesskey "இ">
+<!ENTITY goOfflineCmd.label "முடக்கலை முறைமை">
+<!ENTITY goOfflineCmd.accesskey "k">
 
 <!ENTITY menubarCmd.label "பட்டி பட்டை">
-<!ENTITY menubarCmd.accesskey "ப">
-<!ENTITY navbarCmd.label "ஊடுருவல் கருவிப்பட்டை">
+<!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "வழிசெலுத்தி கருவிப்பட்டை">
 <!ENTITY personalbarCmd.label "புத்தகக்குறி கருவிப்பட்டை">
-<!ENTITY personalbarCmd.accesskey "ப">
+<!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "புத்தகக்குறிகள் கருவிப்பட்டை உருப்படிகள்">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "அனைத்து கீற்றுகளையும் மீளேற்று">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "கீற்றுகளை மீளேற்று">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "அனைத்து கீற்றுகளையும் புத்தகக்குறியிடு…">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "கீற்றுகளை புத்தகக்குறியிடு…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "மூடிய கீற்றுகளைத் திற">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "U">
 
 <!ENTITY pageSourceCmd.label "பக்க மூலம்">
-<!ENTITY pageSourceCmd.accesskey "ல">
+<!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "பக்க தகவல்">
-<!ENTITY pageInfoCmd.accesskey "த">
+<!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "கீற்று பிரதி">
 <!ENTITY mirrorTabCmd.accesskey "M">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "முழுத்திரைக்குச் செல்">
-<!ENTITY enterFullScreenCmd.accesskey "ம">
+<!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "முழுத்திரையிலிருந்து வெளியேறு">
-<!ENTITY exitFullScreenCmd.accesskey "ம">
+<!ENTITY exitFullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.label "முழுத்திரை">
-<!ENTITY fullScreenCmd.accesskey "ம">
+<!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "அனைத்து கீற்றுகளையும் காட்டு">
 <!ENTITY showAllTabsCmd.accesskey "A">
 <!ENTITY toggleReaderMode.key "R">
 
-<!ENTITY fxaSignIn.label "&syncBrand.shortName.label;வில் புகுபதிக">
+<!ENTITY fxaSignIn.label "&syncBrand.shortName.label; உள்நுழை">
 <!ENTITY fxaSignedIn.tooltip "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 <!ENTITY fxaSignInError.label "&syncBrand.shortName.label; உடன் மறுமுறை இணைக்கவும்">
 <!ENTITY fxaUnverified.label "உங்கள் கணக்கைச் சரிபார்க்கவும்">
@@ -141,8 +141,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY exitDOMFullscreen.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "முழுத்திரையிலிருந்து வெளியேறுக (Esc)">
-<!ENTITY leaveDOMFullScreen.label "முழுத்திரை முறையிலிருந்து வெளியேறுக">
-<!ENTITY leaveDOMFullScreen.accesskey "ழ">
+<!ENTITY leaveDOMFullScreen.label "வெளியேறுக">
+<!ENTITY leaveDOMFullScreen.accesskey "u">
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
      respectively before and after the domain requiring pointerlock.
@@ -158,8 +158,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "புத்தகக்குறிகள்">
 <!ENTITY bookmarksMenu.accesskey "B">
-<!ENTITY bookmarkThisPageCmd.label "இப்பக்கத்தைப் புத்தகக்குறியிடு">
-<!ENTITY editThisBookmarkCmd.label "இந்தப் புத்தகக்குறியை திருத்து">
+<!ENTITY bookmarkThisPageCmd.label "புத்தகக்குறியிடு">
+<!ENTITY editThisBookmarkCmd.label "புத்தகக்குறியைத் திருத்து">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -169,9 +169,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "இ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "இந்த இணைப்பைப் பகிரவும்">
+<!ENTITY shareLink.label "தொடுப்பைப் பகிரவும்">
 <!ENTITY shareLink.accesskey "h">
-<!ENTITY shareImage.label "இப்படத்தைப் பகிர்">
+<!ENTITY shareImage.label "படத்தைப் பகிர்">
 <!ENTITY shareImage.accesskey "r">
 <!ENTITY shareSelect.label "தேர்வைப் பகிர்">
 <!ENTITY shareSelect.accesskey "r">
@@ -283,7 +283,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "புதிய கொள்கலன் கீற்று">
 <!ENTITY newUserContext.accesskey         "b">
-<!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
+<!ENTITY newNavigatorCmd.label        "சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய அந்தரங்க சாளரம்">
