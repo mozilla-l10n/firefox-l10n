@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Ekleme tarihi">
 <!ENTITY col.lastmodified.label  "Son değişiklik">
 
-<!ENTITY search.label                              "Arama:">
-<!ENTITY search.accesskey                          "A">
+<!ENTITY search.placeholder  "Arama">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.selectAnItemText.description "Özelliklerini görmek ve değiştirmek için bir öğe seçin">
 
-<!ENTITY find.label               "Arama:">
-<!ENTITY find.accesskey           "A">
 <!ENTITY view.label               "Görünüm">
 <!ENTITY view.accesskey           "G">
 <!ENTITY byDate.label             "Tarih">
