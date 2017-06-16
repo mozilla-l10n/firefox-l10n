@@ -223,7 +223,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Abrir panel de mensaje de instalación">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "Traducir esta página">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Administrar traducción de la página">
-<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar el uso del software DRM">
+<!ENTITY urlbar.emeNotificationAnchor.tooltip             "Administrar uso del software DRM">
 
 <!ENTITY urlbar.cameraBlocked.tooltip            "Tu cámara está bloqueada para este sitio web.">
 <!ENTITY urlbar.microphoneBlocked.tooltip        "Tu micrófono está bloqueado para este sitio web.">

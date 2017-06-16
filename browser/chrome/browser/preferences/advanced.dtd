@@ -51,7 +51,7 @@
 <!ENTITY connectionSettings.label        "Configurar…">
 <!ENTITY connectionSettings.accesskey    "C">
 
-<!ENTITY httpCache.label                 "Contenido web cacheado">
+<!ENTITY httpCache.label                 "Contenido web en caché">
 
 <!ENTITY offlineStorage2.label           "Contenido web sin conexión y datos de usuario">
 
