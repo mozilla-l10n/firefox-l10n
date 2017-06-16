@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "تاریخ افزوده شدن">
 <!ENTITY col.lastmodified.label  "زمان آخرین تغییر">
 
+<!ENTITY search.placeholder  "جست‌وجو">
 
 <!ENTITY cmd.find.key  "f">
 
