@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "சேர்க்கப்பட்டது">
 <!ENTITY col.lastmodified.label  "கடைசியாக திருத்தியமைக்கப்பட்டது">
 
+<!ENTITY search.placeholder  "தேடு:">
 
 <!ENTITY cmd.find.key  "f">
 

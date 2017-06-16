@@ -182,21 +182,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenuitem.label "சந்தா…">
 <!ENTITY addCurPagesCmd.label "கீற்றுகளை புத்தகக்குறியிடு…">
 <!ENTITY showAllBookmarks2.label "அனைத்தையும் காண்பி">
-<!ENTITY recentBookmarks.label "சமீபத்தில் புத்தகக்குறியிடப்பட்டது">
+<!ENTITY recentBookmarks.label "சமீபத்திய புத்தகக்குறிகள்">
 <!ENTITY otherBookmarksCmd.label "இதர புத்தகக்குறிகள்">
 <!ENTITY mobileBookmarksCmd.label "கைபேசி புத்தகக்குறிகள்">
-<!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் புத்தகக்குறிகளை காட்டு">
-<!ENTITY showRecentlyBookmarked.label     "சமீபத்திய புத்தகக்குறிகளை காண்பி">
+<!ENTITY bookmarksToolbarChevron.tooltip "இன்னும் காண்பி">
+<!ENTITY showRecentlyBookmarked.label     "சமீபத்திய பு.குறிகளைக் காண்பி">
 <!ENTITY showRecentlyBookmarked.accesskey "h">
-<!ENTITY hideRecentlyBookmarked.label     "சமீபத்தில் புத்தகக்குறியிடப்பட்டதை மறை">
+<!ENTITY hideRecentlyBookmarked.label     "சமீபத்திய பு.குறிகளை மறை">
 <!ENTITY hideRecentlyBookmarked.accesskey "H">
 
-<!ENTITY backCmd.label                "பின்னால்">
-<!ENTITY backButton.tooltip           "ஒரு பக்கம் பின்னால் செல்">
-<!ENTITY forwardCmd.label             "முன்னால்">
-<!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்னால் செல்">
-<!ENTITY backForwardButtonMenu.tooltip "வரலாற்றை பார்க்க வலது கிளிக் அல்லது கீழே இழுக்கும்">
-<!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றை பார்க்க கீழே இழுக்கும்">
+<!ENTITY backCmd.label                "பின்செல்">
+<!ENTITY backButton.tooltip           "ஒரு பக்கம் பின்செல்">
+<!ENTITY forwardCmd.label             "முன்செல்">
+<!ENTITY forwardButton.tooltip        "ஒரு பக்கம் முன்செல்">
+<!ENTITY backForwardButtonMenu.tooltip "வரலாற்றைப் பார்க்க வலதாக சொடுக்கு (அ) அழுத்தி இழு">
+<!ENTITY backForwardButtonMenuMac.tooltip "வரலாற்றைப் பார்க்க கீழாக இழு">
 <!ENTITY reloadCmd.label              "மீளேற்று">
 <!ENTITY stopCmd.label                "நிறுத்து">
 <!ENTITY stopCmd.macCommandKey        ".">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "வரலாற்றைக் காட்டு">
 
+<!ENTITY searchItem.title             "தேடு">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "இல்லம்">
@@ -471,6 +472,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "தேடு">
+<!ENTITY searchIcon.tooltip           "தேடல்">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -966,4 +969,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "சாதனத்திற்கு அனுப்பு">
 <!ENTITY sendToDevice.fxaRequired.label "தேவை">
 <!ENTITY sendToDevice.noDevices.label "சாதனங்கள் ஏதுமில்லை">
-
+<!ENTITY sendToDevice.syncNotReady.label "சாதனங்களை ஒத்திசைக்கிறது...">
