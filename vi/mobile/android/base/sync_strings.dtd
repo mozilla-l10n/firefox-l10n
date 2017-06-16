@@ -75,6 +75,7 @@
 <!ENTITY fxaccount_status_more 'Thêm&ellipsis;'>
 <!ENTITY fxaccount_remove_account 'Ngưng kết nối&ellipsis;'>
 
+<!ENTITY fxaccount_remove_account_dialog_title2 'Ngắt kết nối đến Sync?'>
 <!-- Localization note: format string below will be replaced
      with the Firefox Account's email address. -->
 <!ENTITY fxaccount_remove_account_toast2 'Tài khoản Firefox &formatS; ngắt kết nối.'>
