@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "பாதுகாப்பு">
+
 <!ENTITY  warnOnAddonInstall.label        "வலைத்தளங்கள் துணை நிரல்களை நிறுவ முயற்சிக்கும் போது உங்களை எச்சரிக்கும்">
 <!ENTITY  warnOnAddonInstall.accesskey    "W">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
@@ -9,6 +11,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "ஆபத்தான பதிவிறக்கங்களை முடக்கு">
 <!ENTITY  blockDownloads.accesskey        "d">
@@ -20,7 +24,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "படிவங்கள் &amp; கடவுச்சொற்கள்">
 
+<!ENTITY  rememberLogins1.label          "இணைய தளங்களுக்கான பயனர் கடவுச்சொற்களை நினைவுப்படுத்து">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

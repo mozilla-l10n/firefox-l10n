@@ -3,14 +3,17 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
+<!ENTITY newWindowsAsTabs.label       "புதிய சாளரத்திற்கு பதிலாகப் புதிய கீற்றில் திற">
+<!ENTITY newWindowsAsTabs.accesskey   "w">
 
 <!ENTITY warnOnCloseMultipleTabs.label      "பல கீற்றுகளை மூடும் போது உங்களை எச்சரிக்கும்">
 <!ENTITY warnOnCloseMultipleTabs.accesskey  "m">
 
+<!ENTITY warnOnOpenManyTabs.label       "பல கீற்றுகளைத் திறக்கும் போது &brandShortName; மெதுவாகும் என்பதை எச்சரி">
+<!ENTITY warnOnOpenManyTabs.accesskey   "d">
 
-
-
+<!ENTITY switchLinksToNewTabs.label        "நான் ஒரு தொடுப்பைப் புதிய கீற்றில் திறக்கும்போது, உடனே அதற்கு மாறவும்">
+<!ENTITY switchLinksToNewTabs.accesskey    "h">
 
 <!ENTITY showTabsInTaskbar.label          "Windows பணிப்பட்டையில் கீற்றுகளின் முன்பார்வைகளை காட்டு">
 <!ENTITY showTabsInTaskbar.accesskey      "k">
