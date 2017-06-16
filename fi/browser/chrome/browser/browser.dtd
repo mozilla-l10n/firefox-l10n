@@ -348,6 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Poista viimeaikaisia historiatietoja…">
 <!ENTITY appMenuHistory.restoreSession.label "Palauta edellinen istunto">
 <!ENTITY appMenuHistory.viewSidebar.label "Näytä sivuhistoriapaneeli">
+<!ENTITY appMenuHelp.label "Ohje">
 <!ENTITY appMenuHelp.tooltip "Avaa ohjevalikko">
 
 <!ENTITY appMenuRemoteTabs.label "Synkronoidut välilehdet">
@@ -454,6 +455,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY contentSearchInput.label     "Hakutermit">
 <!ENTITY contentSearchSubmit.tooltip  "Lähetä haku">
 
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -536,6 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "A">
 <!ENTITY bookmarkThisFrameCmd.label      "Lisää kehyssivu kirjanmerkkeihin">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "A">
+<!ENTITY copyURLCmd.label             "Kopioi osoite">
 <!ENTITY emailPageCmd.label           "Lähetä linkki…">
 <!ENTITY emailPageCmd.accesskey       "L">
 <!ENTITY savePageCmd.label            "Tallenna sivu nimellä…">
@@ -819,7 +824,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Haluatko muita työkaluja?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Valitse tuhansista lisäosista">
 <!ENTITY customizeMode.restoreDefaults "Palauta oletukset">
+<!ENTITY customizeMode.done "Valmis">
 <!ENTITY customizeMode.titlebar "Otsikkopalkki">
+<!ENTITY customizeMode.toolbars2 "Työkalupalkit">
 <!ENTITY customizeMode.lwthemes "Teemat">
 <!ENTITY customizeMode.lwthemes.myThemes "Omat teemat">
 <!ENTITY customizeMode.lwthemes.recommended "Suositellut">
@@ -933,6 +940,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "K">
 <!ENTITY updateRestart.cancelButton.label "Ei nyt">
 <!ENTITY updateRestart.cancelButton.accesskey "E">
+<!ENTITY updateRestart.panelUI.label2 "Päivitä käynnistämällä &brandShorterName; uudestaan">
 
 <!ENTITY pageActionButton.tooltip "Sivun toiminnot">
 
+<!ENTITY sendToDevice.label "Lähetä laitteeseen…">
+<!ENTITY sendToDevice.viewTitle "Lähetä laitteeseen">
+<!ENTITY sendToDevice.fxaRequired.label "Pakollinen">
+<!ENTITY sendToDevice.noDevices.label "Ei laitteita">
+<!ENTITY sendToDevice.syncNotReady.label "Synkronoidaan laitteita…">
