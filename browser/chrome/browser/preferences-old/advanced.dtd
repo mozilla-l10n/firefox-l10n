@@ -12,8 +12,8 @@
 <!ENTITY useCursorNavigation.accesskey   "c">
 
 
-
-
+<!ENTITY blockAutoReload.label           "இணைய தளங்கள் பக்கங்களை மீளேற்றும் போது அல்லது வேறு பக்கத்திற்கு செல்லும் போது என்னை எச்சரி">
+<!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "தேவைப்படும் பொருட்டு தொடு விசைப்பலகையைக் காட்டு">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
 
@@ -23,8 +23,8 @@
 <!ENTITY useAutoScroll.accesskey         "a">
 <!ENTITY useSmoothScrolling.label        "மென்மையான உருளலை பயன்படுத்து">
 <!ENTITY useSmoothScrolling.accesskey    "m">
-
-
+<!ENTITY checkUserSpelling.label         "நான் தட்டச்சு செய்யும் போதே எழுத்துப்பிழையைச் சரிபார்">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
 
