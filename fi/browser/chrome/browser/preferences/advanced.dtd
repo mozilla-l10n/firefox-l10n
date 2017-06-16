@@ -98,7 +98,7 @@
 <!ENTITY updateAuto2.label               "Asenna päivitykset automaattisesti (suositellaan paremman turvallisuuden vuoksi)">
 <!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Hae päivitykset, mutta anna sinun päättää asennetaanko ne">
-<!ENTITY updateCheckChoose2.accesskey    "H">
+<!ENTITY updateCheckChoose2.accesskey    "e">
 <!ENTITY updateManual2.label             "Älä hae päivityksiä (ei suositella)">
 <!ENTITY updateManual2.accesskey         "Ä">
 
