@@ -106,7 +106,7 @@
      has been made to the remote server, and an error of some type has
      been returned. -->
 
-<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "உங்களுடைய பயர்பாக்ஸை புதுப்பிக்க வேண்டும்">
+<!ENTITY fxaccount_remote_error_UPGRADE_REQUIRED "உங்கள் பயர்பாக்சை புதுப்பிக்க வேண்டுகிறோம்">
 <!-- Localization note: the format string will be fxaccount_sign_in_button_label, linkified. -->
 
 <!ENTITY fxaccount_remote_error_ATTEMPT_TO_CREATE_AN_ACCOUNT_THAT_ALREADY_EXISTS_2 "கணக்கு ஏற்கனவே உள்ளது. &formatS1;">
