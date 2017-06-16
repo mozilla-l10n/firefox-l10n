@@ -10,6 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "V">
 <!ENTITY engine.history.label       "Sivuhistoria">
 <!ENTITY engine.history.accesskey   "S">
+<!ENTITY engine.logins.label        "Kirjautumistiedot">
+<!ENTITY engine.logins.accesskey    "r">
 <!ENTITY engine.prefs.label         "Asetukset">
 <!ENTITY engine.prefs.accesskey     "e">
 <!ENTITY engine.addons.label        "Lisäosat">

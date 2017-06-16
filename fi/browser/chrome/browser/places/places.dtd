@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Lisäyspäivä">
 <!ENTITY col.lastmodified.label  "Viimeisin muokkaus">
 
-<!ENTITY search.label                              "Etsi:">
-<!ENTITY search.accesskey                          "E">
+<!ENTITY search.placeholder  "Haku">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "V">
 <!ENTITY detailsPane.selectAnItemText.description "Valitse kohde, jonka ominaisuuksia muokataan tai näytetään">
 
-<!ENTITY find.label               "Etsi:">
-<!ENTITY find.accesskey           "E">
 <!ENTITY view.label               "Näytä">
 <!ENTITY view.accesskey           "N">
 <!ENTITY byDate.label             "Päivämäärän mukaan">
