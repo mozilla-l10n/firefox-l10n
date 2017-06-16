@@ -13,6 +13,11 @@
      happen. If you have a similar word or short phrase that is not profane or
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
+<!ENTITY tabCrashed.offerHelp "შეგვიძლია დაგეხმაროთ!">
+<!ENTITY tabCrashed.requestHelp "დაგვეხმარებით?">
+<!ENTITY tabCrashed.requestHelpMessage "შეტყობინებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ პრობლემები და გავხადოთ &brandShortName; უკეთესი.">
+<!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ამ ჩანართის შესახებ">
+<!ENTITY tabCrashed.sendReport2 "ამ ჩანართის ავარიული დახურვის შესახებ შეტყობინების გაგზავნა">
 <!ENTITY tabCrashed.emailPlaceholder "შეიყვანეთ თქვენი ელ-ფოსტის მისამართი">
 <!ENTITY tabCrashed.emailMe "მომწერეთ, როდესაც მეტი ინფრომაცია გახდება ცნობილი">
 <!ENTITY tabCrashed.reportSent "ავარიული დახურვის შეტყობინება უკვე გადმოგზავნილია; მადლობას გიხდით &brandShortName;-ის გაუმჯობესებაში დახმარებისთვის!">
