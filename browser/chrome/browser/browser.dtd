@@ -728,7 +728,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findOnCmd.label     "Знайсці на гэтай старонцы…">
 <!ENTITY findOnCmd.accesskey "З">
 <!ENTITY findOnCmd.commandkey "f">
-<!ENTITY findAgainCmd.label  "Знайсці зноў">
+<!ENTITY findAgainCmd.label  "Шукаць ізноў">
 <!ENTITY findAgainCmd.accesskey "ў">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
