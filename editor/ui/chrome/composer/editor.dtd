@@ -27,14 +27,14 @@
 <!ENTITY compositionToolbarCmd.accesskey "р">
 <!ENTITY formattingToolbarCmd.label "Пішімдеу саймандар панелі">
 <!ENTITY formattingToolbarCmd.accesskey "П">
-
-
+<!ENTITY editmodeToolbarCmd.label "Түзету режимінің саймандар панелі">
+<!ENTITY editmodeToolbarCmd.accesskey "е">
 <!-- Format menu items -->
 
 <!ENTITY formatMenu.label "Пішім">
 <!ENTITY formatMenu.accesskey "ш">
-
-
+<!ENTITY grid.label "Орналастыру торы">
+<!ENTITY grid.accesskey "т">
 
 
 <!-- Tools menu items -->
