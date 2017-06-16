@@ -81,6 +81,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; thẻ">
 <!ENTITY bookmark_folder_one_item "1 mục">
+<!ENTITY bookmark_parent_folder "Thư mục cha">
 <!ENTITY bookmark_add_folder "Thêm thư mục mới">
 
 <!ENTITY reader_saved_offline "Đã lưu ngoại tuyến">
@@ -254,6 +255,7 @@
 <!ENTITY pref_tap_to_load_images_data "Chỉ qua Wi-Fi">
 <!ENTITY pref_tap_to_load_images_disabled2 "Bị chặn">
 
+<!ENTITY pref_show_web_fonts "Hiển thị phông của web">
 
 <!ENTITY pref_tracking_protection_title2 "Chống theo dõi">
 <!ENTITY pref_tracking_protection_summary3 "Đã bật chế độ riêng tư">
