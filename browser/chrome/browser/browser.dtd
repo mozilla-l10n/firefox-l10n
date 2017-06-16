@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(தனிப்பட்ட உலாவல்)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(அந்தரங்க உலாவல்)">
 
 <!ENTITY appmenu.tooltip                     "பட்டியைத் திற">
 <!ENTITY navbarOverflow.label                "இதர கருவிகள்...">
@@ -507,7 +507,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "புதிய சாளரத்தில் இணைப்பைத் திற">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "புதிய தனிப்பட்ட சாளரத்தில் இணைப்பைத் திற">
+<!ENTITY openLinkInPrivateWindowCmd.label "புதிய அந்தரங்க சாளரத்தில் திற">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "இணைப்பைத் திற">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -515,7 +515,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "T">
 <!ENTITY openFrameCmd.label           "புதிய சாளரத்தில் சட்டத்தைத் திற">
 <!ENTITY openFrameCmd.accesskey       "W">
-<!ENTITY openLinkCmdInContainerTab.label "புதிய உள்ளடக்க கீற்றில் தொடுப்பைத் திற ">
+<!ENTITY openLinkCmdInContainerTab.label "புதிய கலன் கீற்றில் திற">
 <!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "இந்த சட்டத்தை மட்டும் காட்டு">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
@@ -807,7 +807,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "ஒரு புதிய சாளரத்தில் திற">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "புதிய தனிப்பட்ட சாளரத்தில் திற">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "புதிய அந்தரங்க சாளரத்தில் திற">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "இந்தக் கீற்றை புத்தகக்குறியிடு…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">

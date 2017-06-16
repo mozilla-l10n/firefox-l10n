@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "ஒரு புதிய சாளரத்தில் திறக்கவும்">
 <!ENTITY cmd.open_window.accesskey       "N">
-<!ENTITY cmd.open_private_window.label     "புதிய தனிப்பட்ட சாளரத்தில் திறக்கவும்">
+<!ENTITY cmd.open_private_window.label     "புதிய அந்தரங்க சாளரத்தில் திறக்கவும்">
 <!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "ஒரு புதிய கீற்றில் திறக்கவும்">
 <!ENTITY cmd.open_tab.accesskey          "w">
