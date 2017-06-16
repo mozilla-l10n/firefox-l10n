@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "הצגת הערות השחרור של עדכון זה">
 <!ENTITY cmd.hideReleaseNotes.label           "הסתרת הערות שחרור">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "הסתרת הערות השחרור של עדכון זה">
+<!ENTITY cmd.findReplacement.label            "מציאת חלופה">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -254,3 +255,9 @@
 
 <!ENTITY pluginDeprecation.description "חסר כאן משהו? חלק מהתוספים החיצוניים אינם נתמכים עוד ב־&brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "למידע נוסף.">
+
+<!ENTITY legacyWarning.description "מפספסים משהו? חלק מההרחבות לא נתמכות עוד על־ידי &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "הצגת הרחבות דור קודם">
+<!ENTITY legacyExtensions.title "הרחבות מדור קודם">
+<!ENTITY legacyExtensions.description "הרחבות אלו לא עומדות בתקנים הנוכחיים של &brandShortName; ולכן כובו.">
+<!ENTITY legacyExtensions.learnMore "מידע נוסף על השינויים בתוספות">
