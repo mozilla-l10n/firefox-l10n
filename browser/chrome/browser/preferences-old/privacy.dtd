@@ -89,7 +89,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாறு அனைத்தையும் துடை">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "எப்பொழுதும் தனிப்பட்ட உலாவல் முறையையே பயன்படுத்தவும்">
+<!ENTITY  privateBrowsingPermanent2.label "அந்தரங்க உலாவலை எப்போதும் பயன்படுத்து">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்">

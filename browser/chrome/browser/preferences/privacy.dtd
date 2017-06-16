@@ -7,7 +7,7 @@
 <!ENTITY  trackingProtection.radioGroupLabel   "உள்ளடக்கத்தைக் காட்டும் நன்கு அறிந்த தடமறி நிறுவனங்களைத் தடு">
 <!ENTITY  trackingProtectionAlways.label       "எப்போதும்">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-<!ENTITY  trackingProtectionPrivate.label      "தனிப்பட்ட சாளரத்தில் மட்டும்">
+<!ENTITY  trackingProtectionPrivate.label      "அந்தரங்க சாளரங்களில் மட்டும்">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "ஒருபோதுமில்லை">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
@@ -16,7 +16,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
 <!ENTITY tracking.label                 "கண்காணிப்பு">
-<!ENTITY trackingProtectionPBM5.label         "தனிப்பட்ட சாளரத்தில் தடமறியல் பாதுகாப்பை பயன்படுத்து">
+<!ENTITY trackingProtectionPBM5.label         "அந்தரங்க சாளரத்தில் தடமறியல் பாதுகாப்பைப் பாவி">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "மேலும் அறிய">
 <!ENTITY changeBlockList.label          "தடை பட்டியலை மாற்று">
@@ -91,7 +91,7 @@
 <!ENTITY  dontrememberActions.clearHistory.label "நடப்பு வரலாற்று அனைத்தையும் துடை">
 <!ENTITY  dontrememberActions.post.label         ".">
 
-<!ENTITY  privateBrowsingPermanent2.label "எப்பொழுதும் தனிப்பட்ட உலாவல் முறையையே பயன்படுத்தவும்">
+<!ENTITY  privateBrowsingPermanent2.label "தனிப்பட்ட உலாவலை எப்போதும் பயன்படுத்து">
 <!ENTITY  privateBrowsingPermanent2.accesskey "p">
 
 <!ENTITY  rememberHistory2.label      "என் உலாவல் மற்றும் பதிவிறக்க வரலாற்றை நினைவில் கொள்">
