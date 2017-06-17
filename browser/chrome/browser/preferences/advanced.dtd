@@ -138,7 +138,21 @@
 <!ENTITY viewSecurityDevices.accesskey   "T">
 
 <!ENTITY performance.label               "Suorituskyky">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Käytä suositeltuja suorituskykyasetuksia">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Nämä asetukset sovitetaan tietokoneesi laitteiston ja käyttöjärjestelmän kanssa.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "u">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Lue lisää">
+<!ENTITY limitContentProcessOption.label "Sisältöprosessien yläraja">
+<!ENTITY limitContentProcessOption.description
+                                         "Useammat sisältöprosessit parantavat suorituskykyä käytettäessä useita välilehtiä, mutta kuluttavat myös enemmän muistia.">
+<!ENTITY limitContentProcessOption.accesskey   "i">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Sisältöprosessien määrän muokkaaminen on mahdollista vain useaa prosessia hyödyntävällä &brandShortName;illa.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Lue, miten usean prosessin hyödyntämisen tilanteen voi tarkistaa">
 <!ENTITY allowHWAccel.label              "Käytä laitteistokiihdytystä jos mahdollista">
 <!ENTITY allowHWAccel.accesskey          "K">
