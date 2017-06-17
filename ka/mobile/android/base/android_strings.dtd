@@ -368,6 +368,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "შრიფტის სისტემაში მითითებული ზომის გამოყენება">
+<!ENTITY pref_use_system_font_size_summary "ვებ-შიგთავსის ზომების ცვლილება, სისტემის შრიფტის ზომის მიხედვით">
 
 <!ENTITY pref_media_autoplay_enabled "ავტო-დაკვრის დაშვება">
 <!ENTITY pref_media_autoplay_enabled_summary "ვებ-საიტის ვიდეოების და სხვა მედია შიგთავსის ავტო-დაკვრის კონტროლი">
@@ -387,6 +389,7 @@
 <!ENTITY pref_import_android_summary "შემოიტანეთ სანიშნეები და ისტორია თქვენი ადგილობრივი ბრაუზერიდან">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "გახსნილი ჩანართები">
 <!ENTITY pref_private_data_history2 "დათვალიერების ისტორია">
 <!ENTITY pref_private_data_searchHistory "ძიების ისტორია">
 <!ENTITY pref_private_data_formdata2 "ისტორიიდან">
@@ -497,6 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "გახსნა პირად ჩანართში">
 <!ENTITY contextmenu_remove "ამოღება">
 <!ENTITY contextmenu_add_to_launcher "საშინაო გვერდზე დამატება">
+<!ENTITY contextmenu_set_as_homepage "საწყისი გვერდად დაყენება">
 <!ENTITY contextmenu_share "გაზიარება">
 <!ENTITY contextmenu_pasteandgo "ჩასმა და გადასვლა">
 <!ENTITY contextmenu_paste "ჩასმა">
@@ -532,6 +536,8 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "ჩანართების შემჭიდროება">
+<!ENTITY pref_compact_tabs_summary2 "ჩანართების ორ რიგად დალაგება შვეული რეჟიმისას">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -542,6 +548,7 @@
 <!ENTITY bookmark_edit_name "სახელი">
 <!ENTITY bookmark_edit_location "მისამართი">
 <!ENTITY bookmark_edit_keyword "საკვანძო სიტყვა">
+<!ENTITY bookmark_select_folder "საქაღალდის მითითება">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -698,6 +705,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "შეეხეთ ჩამოტვირთვისთანავე განსაახლებლად">
 <!ENTITY updater_downloading_retry2 "შეეხეთ ხელახლა მცდელობისთვის">
 
+<!ENTITY updater_apply_title3 "&brandShortName;-ის განახლება ჩამოტვირთულია">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
