@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Poistettiin kirjanmerkki">
 <!ENTITY bookmark_updated "Päivitettiin kirjanmerkki">
 <!ENTITY bookmark_options "Asetukset">
+<!ENTITY bookmark_save "Tallenna">
 <!ENTITY screenshot_added_to_bookmarks "Kuvakaappaus lisätty kirjanmerkkeihin">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -287,6 +288,7 @@
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Osoite kopioitu">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Toimintavirta">
@@ -538,6 +540,7 @@
 <!ENTITY bookmark_edit_name "Nimi">
 <!ENTITY bookmark_edit_location "Osoite">
 <!ENTITY bookmark_edit_keyword "Avainsana">
+<!ENTITY bookmark_select_folder "Valitse kansio">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
