@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "ნუსხა…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "PKCS#11 მოწყობილობის დრაივერის გაშვება">
