@@ -24,6 +24,11 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "ვერსია">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; -ის შესაძლებლობები">
+<!ENTITY aboutSupport.featureName "სახელი">
+<!ENTITY aboutSupport.featureVersion "ვერსია">
+<!ENTITY aboutSupport.featureId "ID">
+
 <!ENTITY aboutSupport.experimentsTitle "ექსპერიმენტალური ფუნქციები">
 <!ENTITY aboutSupport.experimentName "სახელი">
 <!ENTITY aboutSupport.experimentId "ID">
@@ -63,6 +68,9 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfiles "პროფილები">
 
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "მრავალპროცესიანი ფანჯრები">
+
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Google გასაღები">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla ადგილმდებარეობის სერვისის გასაღები">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "უსაფრთხო რეჟიმი">
 
@@ -109,6 +117,14 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
 
 <!ENTITY aboutSupport.sandboxTitle "საქვიშარი">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "სისტემის უარყოფილი გამოძახებები">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "წამის წინ">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "პროცესის ტიპი">
+<!ENTITY aboutSupport.sandboxSyscallNumber "სისტემური გამოძახება">
+<!ENTITY aboutSupport.sandboxSyscallArgs "არგუმენტები">
 
 <!ENTITY aboutSupport.safeModeTitle "უსაფრთხო რეჟიმის ცდა">
 <!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">

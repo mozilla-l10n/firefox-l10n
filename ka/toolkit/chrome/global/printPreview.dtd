@@ -33,6 +33,7 @@
 <!ENTITY ShrinkToFit.label    "გვერდზე მორგება">
 <!ENTITY customPrompt.title   "მითითებული მასშტაბი…">
 <!ENTITY simplifyPage.label   "გვერდის გამარტივება">
+<!ENTITY simplifyPage.accesskey "გ">
 <!ENTITY simplifyPage.enabled.tooltip  "შეცვალეთ განლაგება გამარტივებული კითხვისთვის">
 <!ENTITY simplifyPage.disabled.tooltip "ეს გვერდი ავტომატურად ვერ გამარტივდება">
 

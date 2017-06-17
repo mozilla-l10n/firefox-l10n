@@ -94,11 +94,17 @@
   ნაკადის გაშეშებები
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  დაფიქსირებული სტეკები
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   სკალარები
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  დაშიფრული სკალარები
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   ჰისტოგრამები
@@ -108,6 +114,9 @@
   გასაღებებიანი ჰისტოგრამები
 ">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  მოვლენები
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   მარტივი განსაზღვრებები
@@ -139,7 +148,13 @@
 <!ENTITY aboutTelemetry.fullSqlWarning "
   შენიშვნა: ნელი SQL-ს გამართვა ჩართულია. შესაძლოა ქვემოთ სრული SQL სტრიქონები გამოჩნდეს, მაგრამ ისინი არ გადაეგზავნებიან ტელემეტრიას.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  ფუნქციების სახელების გადმოტანა სტეკებითვის
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  სტეკების ნედლი მონაცემების ჩვენება
+">
 
 <!ENTITY aboutTelemetry.filterText "
   ფილტრი (სტრიქონები ან /regexp/)
