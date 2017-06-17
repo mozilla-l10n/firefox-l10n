@@ -213,6 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avaa salasanan tallentamisen viestipaneeli">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Hallinnoi liitännäisen käyttöä">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Muuta sitä, voitko saada ilmoituksia tältä sivustolta">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Tallenna tietoja pysyvään tallennustilaan">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Selain on kauko-ohjauksessa">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Hallinnoi kameran tai mikrofonin jakamista sivustolle">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Hallinnoi mikrofonin jakamista sivustolle">
@@ -229,6 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Olet estänyt sijaintitiedot tältä sivustolta.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Olet estänyt tietojen tallentamisen tietovarastoon tältä sivustolta.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Olet estänyt ilmoitukset tältä sivustolta.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Olet estänyt pysyvän tallennustilan käytön tältä sivustolta.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Avaa sivuhistoria">
 
@@ -386,6 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "Lisää ylivuotovalikkoon">
 <!ENTITY customizeMenu.moveToToolbar.label "Siirrä työkalupalkkiin">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "S">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
