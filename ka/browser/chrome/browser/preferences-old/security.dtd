@@ -4,6 +4,8 @@
 
 <!ENTITY  general.label                 "ზოგადი">
 
+<!ENTITY  warnOnAddonInstall.label        "გაფრთხილება საიტების მიერ დამატების ჩადგმის მცდელობისას">
+<!ENTITY  warnOnAddonInstall.accesskey    "ფ">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -15,6 +17,8 @@
 <!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების დაბლოკვა">
 <!ENTITY  blockDownloads.accesskey        "დ">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "გაფრთხილება არასასურველი და უჩვეულო პროგრამების შესახებ">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "უ">
 
 <!ENTITY  addonExceptions.label         "გამონაკლისები…">
 <!ENTITY  addonExceptions.accesskey     "გ">

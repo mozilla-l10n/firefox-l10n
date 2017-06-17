@@ -109,3 +109,5 @@
 <!ENTITY  browserContainersLearnMore.label      "შეიტყვეთ მეტი">
 <!ENTITY  browserContainersEnabled.label        "სათავსო ჩანართების ჩართვა">
 <!ENTITY  browserContainersEnabled.accesskey    "ჩ">
+<!ENTITY  browserContainersSettings.label        "პარამეტრები…">
+<!ENTITY  browserContainersSettings.accesskey    "პ">
