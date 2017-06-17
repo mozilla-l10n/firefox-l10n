@@ -390,6 +390,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
 <!ENTITY customizeMenu.addToOverflowMenu.label "Lisää ylivuotovalikkoon">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "v">
 <!ENTITY customizeMenu.moveToToolbar.label "Siirrä työkalupalkkiin">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "S">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Siirrä valikkoon">
 <!ENTITY customizeMenu.moveToPanel.accesskey "a">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Kiinnitä ylivuotovalikkoon">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "y">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Poista ylivuotovalikosta">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "o">
 <!ENTITY customizeMenu.removeFromToolbar.label "Poista työkalupalkista">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "P">
 <!ENTITY customizeMenu.removeFromMenu.label "Poista valikosta">
@@ -739,6 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Sivu on tallennettu tietokoneellesi.">
 <!ENTITY identity.connectionVerified2 "Yhteys sivustoon on suojattu ja sivuston omistaa:">
 <!ENTITY identity.connectionInternal "Tämä on suojattu &brandShortName;-sivu.">
+<!ENTITY identity.extensionPage "Tämän sivun latasi laajennus.">
 <!ENTITY identity.insecureLoginForms2 "Tälle sivulle kirjoitettujen kirjautumistietojen turvallisuus voi vaarantua.">
 
 <!-- Strings for connection state warnings. -->
