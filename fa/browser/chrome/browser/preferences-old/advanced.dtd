@@ -132,7 +132,7 @@
 <!ENTITY limitContentProcessOption.label "محدودیت پروسهٔ محتوا">
 <!ENTITY limitContentProcessOption.description "پروسه‌هایِ محتوایِ بیشتر می‌تواند کارایی را هنگام استفاده از چندین زبانه افزایش دهد، اما حافظه بیشتری هم مصرف خواهد کرد.">
 <!ENTITY limitContentProcessOption.accesskey   "م">
-
+<!ENTITY limitContentProcessOption.disabledDescription "تغییر دادن تعداد پردازدش‌های محتوا تنها با چند‌پردازشی &brandShortName; امکان پذیر است.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "بدانید چگونه بررسی کنید چندپرادزشی فعال است یا خیر">
 <!ENTITY allowHWAccel.label              "استفاده از شتاب‌دهنده‌های سخت‌افزاری در صورت وجود">
 <!ENTITY allowHWAccel.accesskey          "ش">
