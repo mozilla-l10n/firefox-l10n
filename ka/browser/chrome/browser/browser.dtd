@@ -93,8 +93,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "დ">
 
 <!ENTITY pageSourceCmd.label "გვერდის წყარო">
-<!ENTITY pageSourceCmd.accesskey "ყ">
-<!ENTITY pageSourceCmd.commandkey "u">
+<!ENTITY pageSourceCmd.accesskey "წ">
+<!ENTITY pageSourceCmd.commandkey "ბ">
 <!ENTITY pageInfoCmd.label "გვერდის ინფორმაცია">
 <!ENTITY pageInfoCmd.accesskey "ი">
 <!ENTITY pageInfoCmd.commandkey "i">
