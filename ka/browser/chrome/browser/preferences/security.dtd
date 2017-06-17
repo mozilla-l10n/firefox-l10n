@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "უსაფრთხოება">
 
+<!ENTITY  warnOnAddonInstall.label        "გაფრთხილება საიტების მიერ დამატების ჩადგმის მცდელობისას">
+<!ENTITY  warnOnAddonInstall.accesskey    "ფ">
 
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
@@ -14,12 +17,17 @@
 <!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების დაბლოკვა">
 <!ENTITY  blockDownloads.accesskey        "დ">
 
+<!ENTITY  blockUncommonAndUnwanted.label     "გაფრთხილება არასასურველი და უჩვეულო პროგრამების შესახებ">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "უ">
 
 <!ENTITY  addonExceptions.label         "გამონაკლისები…">
 <!ENTITY  addonExceptions.accesskey     "გ">
 
 
+<!ENTITY  formsAndPasswords.label       "ველები &amp; პაროლები">
 
+<!ENTITY  rememberLogins1.label          "საიტებზე შესვლის მონაცემების დამახსოვრება">
+<!ENTITY  rememberLogins1.accesskey      "დ">
 <!ENTITY  passwordExceptions.label      "გამონაკლისები…">
 <!ENTITY  passwordExceptions.accesskey  "ნ">
 

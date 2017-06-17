@@ -6,9 +6,12 @@
 
 <!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "გახსნილი ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "შესვლები">
+<!ENTITY engine.logins.accesskey    "დ">
 <!ENTITY engine.prefs.label         "პარამეტრები">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "დამატებები">
@@ -16,8 +19,12 @@
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "მოწყობილობის სახელი">
+<!ENTITY changeSyncDeviceName2.label "მოწყობილობის სახელის შეცვლა…">
+<!ENTITY changeSyncDeviceName2.accesskey "ს">
 <!ENTITY cancelChangeSyncDeviceName.label "გაუქმება">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "გ">
 <!ENTITY saveChangeSyncDeviceName.label "შენახვა">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ე">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "გამოყენების პირობები">
@@ -41,8 +48,11 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "თქვენ შესული არ ხართ.">
 <!ENTITY signIn.label                "შესვლა">
+<!ENTITY signIn.accesskey            "ვ">
 <!ENTITY profilePicture.tooltip      "პროფილის სურათის შეცვლა">
 <!ENTITY verifiedManage.label        "ანგარიშის მართვა">
+<!ENTITY verifiedManage.accesskey    "მ">
+<!ENTITY disconnect3.label           "კავშირის გაწყვეტა…">
 <!ENTITY verify.label                "ელ-ფოსტის დამოწმება">
 <!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
 
