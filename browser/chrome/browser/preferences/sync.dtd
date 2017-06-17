@@ -53,15 +53,22 @@ both, to better adapt this sentence to their language.
 <!ENTITY verifiedManage.label        "ანგარიშის მართვა">
 <!ENTITY verifiedManage.accesskey    "მ">
 <!ENTITY disconnect3.label           "კავშირის გაწყვეტა…">
+<!ENTITY disconnect3.accesskey       "წ">
 <!ENTITY verify.label                "ელ-ფოსტის დამოწმება">
+<!ENTITY verify.accesskey            "დ">
 <!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
+<!ENTITY forget.accesskey            "ყ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი ინტერნეტი თან">
 <!ENTITY signedOut.description        "დაასინქრონირეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
+<!ENTITY signedOut.accountBox.create.accesskey  "ქ">
 <!ENTITY signedOut.accountBox.signin  "შესვლა">
+<!ENTITY signedOut.accountBox.signin.accesskey  "ლ">
 
+<!ENTITY signedIn.settings.label       "სინქრონიზაციის პარამეტრები">
+<!ENTITY signedIn.settings.description "აირჩიეთ, რისი დასინქრონება გსურთ &brandShortName;-ით თქვენს მოწყობილობაზე.">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
