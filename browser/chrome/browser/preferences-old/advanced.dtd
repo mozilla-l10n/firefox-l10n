@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Οι επιπρόσθετες διεργασίες περιεχομένου μπορούν να βελτιώσουν τις επιδόσεις κατά τη χρήση πολλαπλών καρτελών, αλλά θα χρησιμοποιούν περισσότερη μνήμη.">
 <!ENTITY limitContentProcessOption.accesskey   "Ο">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Η τροποποίηση του αριθμού των διεργασιών περιεχομένου είναι δυνατή μόνο στο &brandShortName; με τη δυνατότητα πολλαπλών διεργασιών.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Μάθετε πώς μπορείτε να ελέγξετε εάν είναι ενεργοποιημένη η λειτουργία πολλαπλών διεργασιών">
 <!ENTITY allowHWAccel.label              "Χρήση επιτάχυνσης υλικού όταν είναι διαθέσιμη">
 <!ENTITY allowHWAccel.accesskey          "h">

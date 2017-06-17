@@ -119,6 +119,7 @@
 <!-- LOCALIZATION NOTE (options.toolNotSupported.label): This is the label for
   -  the explanation of the * marker on a tool which is currently not supported
   -  for the target of the toolbox. -->
+<!ENTITY options.toolNotSupported.label  "* Δεν υποστηρίζεται για τον τρέχοντα στόχο εργαλειοθήκης">
 
 <!-- LOCALIZATION NOTE (options.selectDevToolsTheme.label2): This is the label for
   -  the heading of the radiobox corresponding to the theme of the developer
@@ -200,8 +201,10 @@
 
 <!ENTITY options.sourceeditor.label                     "Προτιμήσεις επεξεργασίας">
 <!ENTITY options.sourceeditor.detectindentation.label   "Εντοπισμός εσοχής">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Υπολογισμός εσοχής με βάση το περιεχόμενο της πηγής">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Αυτόματο κλείσιμο παρενθέσεων">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Αυτόματη εισαγωγή παρενθέσεων κλεισίματος">
+<!ENTITY options.sourceeditor.expandtab.label           "Εσοχή με διαστήματα">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Χρήση διαστημάτων αντί για το χαρακτήρα καρτέλας">
 <!ENTITY options.sourceeditor.tabsize.label             "Μέγεθος καρτέλας">
 <!ENTITY options.sourceeditor.tabsize.accesskey         "Κ">
