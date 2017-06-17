@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
-<!ENTITY pluginActivationWarning                             "אתר זה משתמש בתוסף חיצוני שעשוי להאט את &brandShortName;.">
+<!ENTITY pluginActivationWarning                             "אתר זה משתמש בתוסף חיצוני שעלול להאט את &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "נא ללחוץ כאן להפעלת התוסף החיצוני.">
 <!ENTITY clickToActivatePlugin                               "הפעלת תוסף חיצוני.">
 <!ENTITY checkForUpdates                                     "בדיקת עדכונים…">
