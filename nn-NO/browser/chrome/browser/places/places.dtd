@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Lagt til">
 <!ENTITY col.lastmodified.label  "Sist endra">
 
-<!ENTITY search.label                              "Søk:">
-<!ENTITY search.accesskey                          "ø">
+<!ENTITY search.placeholder  "Søk">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Vel elementet du vil vise og redigere">
 
-<!ENTITY find.label               "Søk:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Vis">
 <!ENTITY view.accesskey           "i">
 <!ENTITY byDate.label             "Etter dato">
