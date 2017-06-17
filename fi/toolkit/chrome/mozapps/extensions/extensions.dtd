@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Näytä tämän päivityksen julkaisutiedot">
 <!ENTITY cmd.hideReleaseNotes.label           "Piilota julkaisutiedot">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Piilota tämän päivityksen julkaisutiedot">
+<!ENTITY cmd.findReplacement.label            "Etsi korvaaja">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,4 @@
 
 <!ENTITY pluginDeprecation.description "Puuttuuko jotain? &brandShortName; ei enää tue joitain liitännäisiä.">
 <!ENTITY pluginDeprecation.learnMore "Lue lisää.">
+
