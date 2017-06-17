@@ -87,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; kohdetta">
 <!ENTITY bookmark_folder_one_item "1 kohde">
+<!ENTITY bookmark_parent_folder "Yläkansio">
+<!ENTITY bookmark_add_folder "Lisää uusi kansio">
 
 <!ENTITY reader_saved_offline "Tallennettiin verkotta luettavaksi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
