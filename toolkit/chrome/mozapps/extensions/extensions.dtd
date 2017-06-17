@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "نمایش یادداشت‌های انتشار این نسخهٔ افزودنی">
 <!ENTITY cmd.hideReleaseNotes.label           "مخفی کردن یادداشت‌های انتشار">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "مخفی کردن یادداشت‌های انتشار این نسخهٔ افزودنی">
-
+<!ENTITY cmd.findReplacement.label            "پیدا کردن یک جایگزین">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط&brandShortName; پشتیبانی نمی‌شود.">
 <!ENTITY pluginDeprecation.learnMore "بیشتر بدانید.">
 
-
-
+<!ENTITY legacyWarning.description "چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط &brandShortName; پشتیبانی نمی‌شود.">
+<!ENTITY legacyWarning.showLegacy "نمایش ضمیمه‌های قدیمی">
+<!ENTITY legacyExtensions.title "ضمیمه‌های قدیمی">
 
 
