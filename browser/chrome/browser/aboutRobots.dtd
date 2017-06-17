@@ -10,7 +10,7 @@
 
 <!ENTITY robots.pagetitle  "Gort! Klaatu barada nikto!">
 <!-- Movie: Logan's Run... Box (cybog): "Welcome Humans! I am ready for you." -->
-<!ENTITY robots.errorTitleText "Welcome Humans!">
+<!ENTITY robots.errorTitleText "آدم‌ها خوش آمدید!">
 <!-- Movie: The Day The Earth Stood Still. Spoken by Klaatu. -->
 <!ENTITY robots.errorShortDescText "We have come to visit you in peace and with goodwill!">
 <!-- Various books by Isaac Asimov. http://en.wikipedia.org/wiki/Three_Laws_of_Robotics -->
