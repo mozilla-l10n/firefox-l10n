@@ -22,7 +22,7 @@
 <!ENTITY  fontsAndColors.label        "Шрифти і кольори">
 
 <!ENTITY  defaultFont2.label          "Типовий шрифт">
-<!ENTITY  defaultFont2.accesskey      "Т">
+<!ENTITY  defaultFont2.accesskey      "ш">
 <!ENTITY  defaultSize2.label          "Розмір">
 <!ENTITY  defaultSize2.accesskey      "Р">
 
@@ -30,7 +30,7 @@
 <!ENTITY  advancedFonts.accesskey     "о">
 
 <!ENTITY  colors.label                "Кольори…">
-<!ENTITY  colors.accesskey            "К">
+<!ENTITY  colors.accesskey            "ь">
 
 
 <!ENTITY languages.label              "Мови">

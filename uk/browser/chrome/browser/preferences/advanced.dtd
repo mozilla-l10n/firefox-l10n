@@ -8,23 +8,23 @@
 
 <!ENTITY accessibility.label             "Розширені можливості">
 
-<!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для переміщення всередині сторінок">
-<!ENTITY useCursorNavigation.accesskey   "в">
+<!ENTITY useCursorNavigation.label       "Завжди використовувати клавіші курсора для навігації по сторінках">
+<!ENTITY useCursorNavigation.accesskey   "х">
 <!ENTITY searchOnStartTyping.label       "Шукати текст під час його введення">
-<!ENTITY searchOnStartTyping.accesskey   "к">
+<!ENTITY searchOnStartTyping.accesskey   "й">
 <!ENTITY blockAutoReload.label           "Попереджати при спробі сайтів перенаправити чи перезавантажити сторінку">
-<!ENTITY blockAutoReload.accesskey       "п">
+<!ENTITY blockAutoReload.accesskey       "ж">
 <!ENTITY useOnScreenKeyboard.label       "Показувати сенсорну клавіатуру при необхідності">
-<!ENTITY useOnScreenKeyboard.accesskey   "о">
+<!ENTITY useOnScreenKeyboard.accesskey   "у">
 
 <!ENTITY browsing.label                  "Перегляд сайтів">
 
 <!ENTITY useAutoScroll.label             "Використовувати автоматичне прокручування">
-<!ENTITY useAutoScroll.accesskey         "а">
+<!ENTITY useAutoScroll.accesskey         "р">
 <!ENTITY useSmoothScrolling.label        "Використовувати плавне прокручування">
-<!ENTITY useSmoothScrolling.accesskey    "п">
-<!ENTITY checkUserSpelling.label         "Перевіряти орфографію при введенні">
-<!ENTITY checkUserSpelling.accesskey     "в">
+<!ENTITY useSmoothScrolling.accesskey    "л">
+<!ENTITY checkUserSpelling.label         "Перевіряти орфографію під час введення тексту">
+<!ENTITY checkUserSpelling.accesskey     "г">
 
 <!ENTITY dataChoicesTab.label            "Вибір даних">
 
@@ -143,7 +143,7 @@
 <!ENTITY useRecommendedPerformanceSettings2.description
                                          "Ці налаштування підібрані для вашого комп'ютера й операційної системи.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
-                                         "В">
+                                         "е">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Докладніше">
 <!ENTITY limitContentProcessOption.label "Обмеження процесів вмісту">

@@ -6,8 +6,8 @@
 
 <!ENTITY chooseYourDefaultSearchEngine.label   "Виберіть свій типовий засіб пошуку. &brandShortName; використовує його в панелі адреси, панелі пошуку та на початковій сторінці.">
 
-<!ENTITY provideSearchSuggestions.label        "Надавати пошукові пропозиції">
-<!ENTITY provideSearchSuggestions.accesskey    "Н">
+<!ENTITY provideSearchSuggestions.label        "Показувати пошукові пропозиції">
+<!ENTITY provideSearchSuggestions.accesskey    "і">
 
 <!ENTITY showURLBarSuggestions.label           "Показувати пошукові пропозиції в результатах панелі адреси">
 <!ENTITY showURLBarSuggestions.accesskey       "П">
@@ -21,9 +21,9 @@
 <!ENTITY engineKeywordColumn.label             "Скорочення">
 
 <!ENTITY restoreDefaultSearchEngines.label     "Відновити типові засоби пошуку">
-<!ENTITY restoreDefaultSearchEngines.accesskey "т">
+<!ENTITY restoreDefaultSearchEngines.accesskey "с">
 
 <!ENTITY removeEngine.label                    "Прибрати">
-<!ENTITY removeEngine.accesskey                "и">
+<!ENTITY removeEngine.accesskey                "б">
 
 <!ENTITY addMoreSearchEngines2.label           "Додати інші засоби пошуку">
