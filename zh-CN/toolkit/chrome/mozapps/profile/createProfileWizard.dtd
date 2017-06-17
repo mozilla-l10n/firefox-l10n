@@ -14,7 +14,7 @@
 <!ENTITY profileCreationExplanation_4Gnome.text  "要开始创建配置文件，请单击“下一步”。">
 
 <!-- Second wizard page -->
-<!ENTITY profileCreationIntro.text      "不同的配置文件可以取不同的名称。您可以选择使用这里给出的名称，也可自行指定。">
+<!ENTITY profileCreationIntro.text      "您需要为各个配置文件取不同的名称。您可以用这里提供的名称，也可以自行指定。">
 <!ENTITY profilePrompt.label            "请输入新的配置文件名称:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "您的用户设置、首选项以及其他相关的用户数据将被保存至：">
