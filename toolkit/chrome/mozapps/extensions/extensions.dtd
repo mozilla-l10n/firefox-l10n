@@ -258,3 +258,8 @@
 <!ENTITY pluginDeprecation.description "Puuttuuko jotain? &brandShortName; ei enää tue joitain liitännäisiä.">
 <!ENTITY pluginDeprecation.learnMore "Lue lisää.">
 
+<!ENTITY legacyWarning.description "Puuttuuko jotain? &brandShortName; ei tue enää joitain laajennuksia.">
+<!ENTITY legacyWarning.showLegacy "Näytä perinteiset laajennukset">
+<!ENTITY legacyExtensions.title "Perinteiset laajennukset">
+<!ENTITY legacyExtensions.description "Nämä laajennukset eivät täytä &brandShortName;in nykyisiä vaatimuksia, joten ne on poistettu käytöstä.">
+<!ENTITY legacyExtensions.learnMore "Lue lisää muutoksista lisäosiin">
