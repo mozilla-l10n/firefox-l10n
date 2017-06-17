@@ -19,6 +19,7 @@
 <!ENTITY  paneContent.title       "შიგთავსი">
 <!ENTITY  paneApplications.title  "პროგრამები">
 <!ENTITY  panePrivacy.title       "პრივატულობა">
+<!ENTITY  paneContainers.title    "სათავსი ჩანართები">
 <!ENTITY  paneSecurity.title      "უსაფრთხოება">
 <!ENTITY  paneAdvanced.title      "დამატებითი">
 

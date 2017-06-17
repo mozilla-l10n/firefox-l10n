@@ -6,9 +6,12 @@
 
 <!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "გახსნილი ჩანართები">
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ისტორია">
 <!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "შესვლები">
+<!ENTITY engine.logins.accesskey    "ე">
 <!ENTITY engine.prefs.label         "პარამეტრები">
 <!ENTITY engine.prefs.accesskey     "S">
 <!ENTITY engine.addons.label        "დამატებები">
@@ -17,8 +20,11 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "მოწყობილობის სახელი">
 <!ENTITY changeSyncDeviceName.label "მოწყობილობის სახელის შეცვლა…">
+<!ENTITY changeSyncDeviceName.accesskey "ს">
 <!ENTITY cancelChangeSyncDeviceName.label "გაუქმება">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "გ">
 <!ENTITY saveChangeSyncDeviceName.label "შენახვა">
+<!ENTITY saveChangeSyncDeviceName.accesskey "ე">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "გამოყენების პირობები">
@@ -42,17 +48,24 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY notSignedIn.label           "თქვენ შესული არ ხართ.">
 <!ENTITY signIn.label                "შესვლა">
+<!ENTITY signIn.accesskey            "ვ">
 <!ENTITY profilePicture.tooltip      "პროფილის სურათის შეცვლა">
 <!ENTITY verifiedManage.label        "ანგარიშის მართვა">
+<!ENTITY verifiedManage.accesskey    "მ">
 <!ENTITY disconnect.label            "კავშირის გაწყვეტა…">
+<!ENTITY disconnect.accesskey        "წ">
 <!ENTITY verify.label                "ელ-ფოსტის დამოწმება">
+<!ENTITY verify.accesskey            "დ">
 <!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
+<!ENTITY forget.accesskey            "ყ">
 
 <!ENTITY signedOut.caption            "წაიყოლეთ თქვენი ინტერნეტი თან">
 <!ENTITY signedOut.description        "დაასინქრონირეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
+<!ENTITY signedOut.accountBox.create.accesskey  "ქ">
 <!ENTITY signedOut.accountBox.signin  "შესვლა">
+<!ENTITY signedOut.accountBox.signin.accesskey  "ლ">
 
 <!ENTITY signedIn.engines.label       "დაასინქრონირეთ ყველა მოწყობილობაზე">
 

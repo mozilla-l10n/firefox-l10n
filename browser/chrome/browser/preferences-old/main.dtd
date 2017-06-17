@@ -6,7 +6,9 @@
 
 <!ENTITY startupPage.label         "&brandShortName;-ის ჩართვისას:">
 <!ENTITY startupPage.accesskey     "ჩ">
+<!ENTITY startupUserHomePage.label "საწყისი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
+<!ENTITY startupPrevSession.label  "ბოლო სესიის ფანჯრებისა და ჩანართების ჩვენება">
 
 <!ENTITY homepage.label            "საწყისი გვერდი:">
 <!ENTITY homepage.accesskey        "გ">
@@ -26,6 +28,8 @@
 <!ENTITY chooseFolderWin.accesskey    "რ">
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "ფაილების შენახვისას, ადგილმდებარეობის ყოველ ჯერზე მითითება">
+<!ENTITY alwaysAskWhere.accesskey     "ყ">
 
 <!ENTITY alwaysCheckDefault2.label        "ყოველთვის შემოწმდეს, არის თუ არა &brandShortName; ნაგულისხმევი ბრაუზერი">
 <!ENTITY alwaysCheckDefault2.accesskey    "ვ">
@@ -36,6 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "&brandShortName;-ის და Firefox-ის ერთად გაშვების ნების დართვა">
 <!ENTITY useFirefoxSync.label             "რჩევა: ეს სხვადასხვა პროფილებს იყენებს. მათ შორის მონაცემების გასაზიარებლად Sync გამოიყენეთ.">
-<!ENTITY getStarted.label                 "Sync-ის გამოყენების დაწყება…">
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label;-ში შესვლა…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label;-ის პარამეტრების გახსნა">
 
 <!ENTITY e10sEnabled.label                "მრავალპროცესიანი &brandShortName;">
