@@ -10,3 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "კავშირი არაა">
 <!ENTITY aboutAccounts.noConnection.description "შესასვლელად საჭიროა ინტერნეთთან კავშირი.">
 <!ENTITY aboutAccounts.noConnection.retry "ხელახლა ცდა">
+<!ENTITY aboutAccounts.badConfig.title "არასწორი კონფიგურაცია">
+<!ENTITY aboutAccounts.badConfig.description "Firefox ანგარიშის სერვერის კონფიგურაციის დადგენა ვერ ხერხდება. გთხოვთ სცადოთ მოგვიანებით.">
