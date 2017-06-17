@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "V">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Aktuální účet">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "A">
-<!ENTITY getNextNMsgCmd.label "Přijmout dalších 500 diskusních příspěvků">
-<!ENTITY getNextNMsgCmd.accesskey "d">
+<!ENTITY getNextNMsgCmd2.label "Získat další nové zprávy">
+<!ENTITY getNextNMsgCmd2.accesskey "k">
 <!ENTITY sendUnsentCmd.label "Odeslat neodeslané zprávy">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Správce odebírání…">
