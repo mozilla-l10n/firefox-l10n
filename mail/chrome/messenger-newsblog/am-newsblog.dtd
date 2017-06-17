@@ -4,8 +4,8 @@
 
 <!ENTITY loginAtStartup.label          "Check for new articles at startup">
 <!ENTITY loginAtStartup.accesskey      "C">
-
-
+<!ENTITY biffAll.label                 "فعّال سازی به‌روز رسانی‌ها برای همه خوراک‌ها">
+<!ENTITY biffAll.accesskey             "ف">
 
 
 <!ENTITY manageSubscriptions.label     "Manage Subscriptions…">

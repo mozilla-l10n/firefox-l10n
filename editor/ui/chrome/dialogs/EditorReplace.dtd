@@ -23,5 +23,5 @@
 <!ENTITY replaceAndFindButton.accesskey "d">
 <!ENTITY replaceAllButton.label "Replace All">
 <!ENTITY replaceAllButton.accesskey "A">
-
-
+<!ENTITY closeButton.label "بستن">
+<!ENTITY closeButton.accesskey "ب">
