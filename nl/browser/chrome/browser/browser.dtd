@@ -309,13 +309,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Verwijderen">  
-<!ENTITY deleteCmd.key            "d">  
+<!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "V"> 
 <!ENTITY selectAllCmd.label         "Alles selecteren">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "A"> 
 <!ENTITY preferencesCmd2.label       "Opties">
-<!ENTITY preferencesCmd2.accesskey     "O"> 
+<!ENTITY preferencesCmd2.accesskey     "O">
 <!ENTITY preferencesCmdUnix.label       "Voorkeuren">
 <!ENTITY preferencesCmdUnix.accesskey     "V">
 
@@ -330,7 +330,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewSidebarMenu.label "Zijbalk">
 <!ENTITY viewSidebarMenu.accesskey "Z">
 <!ENTITY viewCustomizeToolbar.label       "Aanpassen…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "A"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "A">
 
 <!ENTITY historyMenu.label "Geschiedenis">
 <!ENTITY historyMenu.accesskey "G">
@@ -469,6 +469,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Zoekterm">
 <!ENTITY contentSearchSubmit.tooltip  "Zoekopdracht verzenden">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Zoeken">
+<!ENTITY searchIcon.tooltip           "Zoeken">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -963,3 +968,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Verzenden naar apparaat">
 <!ENTITY sendToDevice.fxaRequired.label "Vereist">
 <!ENTITY sendToDevice.noDevices.label "Geen apparaten beschikbaar">
+<!ENTITY sendToDevice.syncNotReady.label "Apparaten synchroniseren…">
