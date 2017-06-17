@@ -145,6 +145,7 @@
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 <!ENTITY options.sourceMaps.label      "Ενεργοποίηση χαρτών πηγής">
+<!ENTITY options.sourceMaps.tooltip    "Αν ενεργοποιήσετε αυτή την επιλογή, οι πηγές θα αντιστοιχιστούν στην Αποσφαλμάτωση και στην Κονσόλα.">
 
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
@@ -154,6 +155,7 @@
 <!-- LOCALIZATION NOTE (options.stylesheetSourceMaps.label): This is the
    - label for the checkbox that toggles showing original sources in the Style Editor -->
 <!ENTITY options.stylesheetSourceMaps.label      "Εμφάνιση αρχικών πηγών">
+<!ENTITY options.stylesheetSourceMaps.tooltip    "Εμφάνιση αρχικών πηγών (π.χ. αρχεία Sass) στον επεξεργαστή στυλ και τον επιθεωρητή">
 
 <!-- LOCALIZATION NOTE (options.stylesheetAutocompletion.label): This is the
    - label for the checkbox that toggles autocompletion of css in the Style Editor -->
@@ -185,6 +187,7 @@
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.enablePersistentLogs.label    "Ενεργοποίηση επίμονων αρχείων καταγραφών">
+<!ENTITY options.enablePersistentLogs.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, η Κονσόλα Ιστού και η Εποπτεία Δικτύου δεν θα διαγράφουν την έξοδο κάθε φορά που πλοηγείστε σε μια νέα σελίδα">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
@@ -196,6 +199,7 @@
   -  section. -->
 
 <!ENTITY options.sourceeditor.label                     "Προτιμήσεις επεξεργασίας">
+<!ENTITY options.sourceeditor.detectindentation.label   "Εντοπισμός εσοχής">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Αυτόματο κλείσιμο παρενθέσεων">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Αυτόματη εισαγωγή παρενθέσεων κλεισίματος">
 <!ENTITY options.sourceeditor.expandtab.tooltip         "Χρήση διαστημάτων αντί για το χαρακτήρα καρτέλας">
