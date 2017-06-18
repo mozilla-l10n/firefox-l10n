@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "ფაილის არჩევა…">
 <!ENTITY cmd.restoreFromFile.accesskey  "ჩ">
 
-<!ENTITY cmd.deleteDomainData.label     "ამ საიტის დავიწყება">
+<!ENTITY cmd.deleteDomainData.label     "საიტის დავიწყება">
 <!ENTITY cmd.deleteDomainData.accesskey "დ">
 
 <!ENTITY cmd.open.label                  "გახსნა">

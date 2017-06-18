@@ -95,7 +95,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.label "გვერდის წყარო">
 <!ENTITY pageSourceCmd.accesskey "წ">
 <!ENTITY pageSourceCmd.commandkey "ბ">
-<!ENTITY pageInfoCmd.label "გვერდის ინფორმაცია">
+<!ENTITY pageInfoCmd.label "გვერდის მონაცემები">
 <!ENTITY pageInfoCmd.accesskey "ი">
 <!ENTITY pageInfoCmd.commandkey "i">
 <!ENTITY mirrorTabCmd.label "ჩანართის სარკე">
@@ -874,7 +874,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ამ სესიაზე დაცვის გამორთვა">
+<!ENTITY trackingProtection.unblockPrivate.label "ამ სეანსზე დაცვის გამორთვა">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "გ">
 <!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
 <!ENTITY trackingProtection.block2.accesskey "რ">
