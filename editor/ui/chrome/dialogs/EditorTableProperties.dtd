@@ -46,12 +46,12 @@
 <!ENTITY cellSelectPrevious.accessKey     "А">
 
 
-
-
-
-
-
-
+<!ENTITY cellHorizontal.label             "Горизонталды:">
+<!ENTITY cellHorizontal.accessKey         "з">
+<!ENTITY cellVertical.label               "Вертикалды:">
+<!ENTITY cellVertical.accessKey           "В">
+<!ENTITY cellStyle.label                  "Ұяшықтың стилi:">
+<!ENTITY cellStyle.accessKey              "я">
 <!ENTITY cellNormal.label                 "Қалыпты">
 <!ENTITY cellHeader.label                 "Жоғарғы колонтитул">
 

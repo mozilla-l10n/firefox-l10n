@@ -28,19 +28,21 @@
 
 <!ENTITY useSubdirRadio.tooltip       "Файлдарды таңдалған қашықтағы ішкі бумасына жариялау">
 
+<!ENTITY pageTitle.label              "Беттің атауы:">
+<!ENTITY pageTitle.accesskey          "т">
 
-
-
-
-
-
-
-
+<!ENTITY pageTitleExample.label       "мыс.: &quot;Менің веб парағым&quot;">
+<!ENTITY filename.label               "Файл аты:">
+<!ENTITY filename.accesskey           "Ф">
+<!ENTITY filename.tooltip             "Бұл файл үшін атын енгізу, веб парағы үшін '.html' қосып">
+<!ENTITY filenameExample.label        "мыс.: &quot;меніңпарағым.html&quot;">
 <!ENTITY setDefaultButton.label       "Бастапқы ретінде орнату">
 <!ENTITY setDefaultButton.accesskey   "т">
 <!ENTITY removeButton.label           "Сайтты өшіру">
 <!ENTITY removeButton.accesskey       "ш">
 <!-- Settings Tab Panel -->
+
+<!ENTITY publishSites.label           "Сайттарды жариялау">
 <!ENTITY serverInfo.label             "Сервер ақпараты">
 <!ENTITY loginInfo.label              "Кіру ақпараты">
 <!ENTITY siteName.label               "Сайт аты:">

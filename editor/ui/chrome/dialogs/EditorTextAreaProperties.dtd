@@ -5,25 +5,26 @@
 <!ENTITY Settings.label "Баптаулар">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY TextAreaRows.label "Жолдар:">
+<!ENTITY TextAreaRows.accessKey "л">
+<!ENTITY TextAreaCols.label "Бағандар:">
+<!ENTITY TextAreaCols.accessKey "Б">
+<!ENTITY TextAreaReadOnly.label "Тек оқу үшін">
+<!ENTITY TextAreaReadOnly.accessKey "о">
+<!ENTITY TextAreaDisabled.label "Сөндірулі">
+<!ENTITY TextAreaDisabled.accessKey "д">
+<!ENTITY TextAreaTabIndex.label "Табуляция реті:">
+<!ENTITY TextAreaTabIndex.accessKey "е">
 <!ENTITY TextAreaAccessKey.label "Қатынау кілті:">
 <!ENTITY TextAreaAccessKey.accessKey "к">
+<!ENTITY InitialText.label "Бастапқы мәтіні:">
+<!ENTITY InitialText.accessKey "т">
 
-
-
-
+<!ENTITY TextAreaWrap.label "Аймалау режимі:">
+<!ENTITY TextAreaWrap.accessKey "м">
 <!ENTITY WrapDefault.value "Бастапқы">
 <!ENTITY WrapOff.value "Сөнд">
-
-
-
+<!ENTITY WrapHard.value "Қатаң">
+<!ENTITY WrapSoft.value "Еркін">
+<!ENTITY WrapPhysical.value "Физикалық">
 <!ENTITY WrapVirtual.value "Виртуалды">

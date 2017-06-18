@@ -14,9 +14,9 @@
 <!ENTITY  savingFiles.title             "Парақтарды сақтау немесе жариялау кезінде">
 
 
-
-
-
+<!ENTITY  preserveExisting.tooltip      "Жолдарды тасымалдауды және парақтың бастапқы пішімдеуін сақтап қалады">
+<!ENTITY  saveAssociatedFiles.label     "Парақтарды сақтау кезінде суреттер және басқа байланысқан файлдарды сақтау">
+<!ENTITY  saveAssociatedFiles.accesskey "с">
 
 
 <!ENTITY  composerEditing.label         "Өңдеу">
