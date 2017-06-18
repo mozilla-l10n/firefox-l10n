@@ -936,10 +936,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; হালনাগাদ ডাউনলোড">
 
+<!ENTITY updateManual.message "&brandShorterName; এর নতুন কপি ডাউনলোড করুন আমরা তা ইন্সটল করতে সহায়তা করবো।">
 <!ENTITY updateManual.whatsnew.label "দেখুন নতুন কি আছে।">
-
-
-
+<!ENTITY updateManual.header.message "&brandShorterName; সাম্প্রতিকতম সংস্করণে হালনাগাদ করা যায়নি।">
+<!ENTITY updateManual.acceptButton.label "&brandShorterName; ডাউনলোড">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "এখন নয়">
 <!ENTITY updateManual.cancelButton.accesskey "N">
 
