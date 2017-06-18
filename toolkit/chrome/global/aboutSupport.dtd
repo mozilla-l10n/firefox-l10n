@@ -2,13 +2,13 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "პრობლემის აღმოფხვრის ინფორმაცია">
+<!ENTITY aboutSupport.pageTitle "მონაცემები გაუმართაობის მოსაგვარებლად">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
   ეს გვერდი შეიცავს ტექნიკურ ინფორმაციას, რომელიც შესაძლოა წარმოქმნილი პრობლემის
-  მოგვარებაში დაგეხმაროთ. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე  
-  ეძებთ პასუხს, შეამოწმეთ ჩვენი <a id='supportLink'> მხარდაჭერის საიტი</a>.">
+  მოგვარებაში დაგეხმაროთ. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე
+  ეძებთ პასუხს, ეწვიეთ ჩვენს <a id='supportLink'>მხარდაჭერის გვერდს</a>.">
 
 <!ENTITY aboutSupport.crashes.title "ავარიული გათიშვის ანგარიშგება">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -29,7 +29,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.featureVersion "ვერსია">
 <!ENTITY aboutSupport.featureId "ID">
 
-<!ENTITY aboutSupport.experimentsTitle "ექსპერიმენტალური ფუნქციები">
+<!ENTITY aboutSupport.experimentsTitle "საცდელი ფუნქციები">
 <!ENTITY aboutSupport.experimentName "სახელი">
 <!ENTITY aboutSupport.experimentId "ID">
 <!ENTITY aboutSupport.experimentDescription "აღწერილობა">
@@ -41,7 +41,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.appBasicsTitle "პროგრამის ძირითადი მონაცემები">
 <!ENTITY aboutSupport.appBasicsName "სახელი">
 <!ENTITY aboutSupport.appBasicsVersion "ვერსია">
-<!ENTITY aboutSupport.appBasicsBuildID "აგების ID">
+<!ENTITY aboutSupport.appBasicsBuildID "ანაწყობის ID">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
@@ -56,7 +56,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "პროფილის საქაღალდე">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "ჩართული მოდულები">
-<!ENTITY aboutSupport.appBasicsBuildConfig "აგების კონფიგურაცია">
+<!ENTITY aboutSupport.appBasicsBuildConfig "ანაწყობის კონფიგურაცია">
 <!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
 <!ENTITY aboutSupport.appBasicsOS "OS">
 <!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერების გამოყენება">
@@ -83,7 +83,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "საქაღალდის გახსნა">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "მნიშვნელოვანი შეცვლილი მითითებები">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ჩასწორებული მნიშვნელოვანი პატამეტრები">
 <!ENTITY aboutSupport.modifiedPrefsName "სახელი">
 <!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
 
@@ -91,7 +91,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.userJSTitle "user.js პარამეტრები">
 <!ENTITY aboutSupport.userJSDescription "თქვენი პროფილის საქაღალდე შეიცავს <a id='prefs-user-js-link'>user.js ფაილს</a>, რომელიც ისეთ მითითებებს შეიცავს, რაც &brandShortName;-ს არ შეუქმნია.">
 
-<!ENTITY aboutSupport.lockedKeyPrefsTitle "მნიშვნელოვანი ჩაკეტილი მითითებები">
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "მნიშვნელოვანი ჩაკეტილი პარამეტრები">
 <!ENTITY aboutSupport.lockedPrefsName "სახელი">
 <!ENTITY aboutSupport.lockedPrefsValue "მნიშვნელობა">
 
@@ -116,7 +116,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში კოპირება">
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
 
-<!ENTITY aboutSupport.sandboxTitle "საქვიშარი">
+<!ENTITY aboutSupport.sandboxTitle "იზოლირებული გარემო">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "სისტემის უარყოფილი გამოძახებები">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "წამის წინ">
