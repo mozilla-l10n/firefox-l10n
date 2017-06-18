@@ -3,7 +3,7 @@
    - You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 
 <!ENTITY refreshProfile.dialog.title         "&brandShortName;-ის გამოცოცხლება">
-<!ENTITY refreshProfile.dialog.description1  "დაუბრუნეთ Firefox პირვანდელ სახეს, აღდგენილი წარმადობით და პრობლემების გარეშე.">
+<!ENTITY refreshProfile.dialog.description1  "გაუშვით Firefox პირვანდელი მდგომარეობით, გაუმართაობების და წარმადობის აღსადგენად.">
 <!ENTITY refreshProfile.dialog.description2  "ეს გამოიწვევს:">
 <!ENTITY refreshProfile.dialog.items.label1  "დამატებების და მორგებების ამოღებას">
 <!ENTITY refreshProfile.dialog.items.label2  "ბრაუზერის ნაგულისხმევ პარამეტრებზე დაბრუნებას">

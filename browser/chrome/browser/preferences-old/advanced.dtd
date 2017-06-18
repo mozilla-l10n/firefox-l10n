@@ -38,7 +38,7 @@
 <!ENTITY enableTelemetryData.accesskey   "ტ">
 <!ENTITY telemetryLearnMore.label        "შეიტყვეთ მეტი">
 
-<!ENTITY crashReporterDesc2.label         "ავარიული დახურვის მოხსენებები &vendorShortName;-ს პრობლემების მოგვარებაში და თქვენი ბრაუზერის წარმადობის და უსაფრთხოების გაუმჯობესებაში ეხმარება.">
+<!ENTITY crashReporterDesc2.label         "ავარიული დახურვის მოხსენებები &vendorShortName;-ს ეხმარება ხარვეზების აღმოფხვრასა და ბრაუზერის წარმადობის და უსაფრთხოების გაუმჯობესებაში">
 <!ENTITY alwaysSubmitCrashReports.label   "მიეცეს &brandShortName;-ს დაგროვილი ავარიული დახურვის შეტყობინებების თქვენი სახელით გადაგზავნის უფლება">
 <!ENTITY alwaysSubmitCrashReports.accesskey "ს">
 <!ENTITY crashReporterLearnMore.label     "შეიტყვეთ მეტი">
