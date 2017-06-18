@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Qoʻshilgan">
 <!ENTITY col.lastmodified.label  "Soʻnggi oʻzgartirilgan">
 
+<!ENTITY search.placeholder  "Izlash">
 
 <!ENTITY cmd.find.key  "f">
 
