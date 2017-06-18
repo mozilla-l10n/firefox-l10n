@@ -18,8 +18,8 @@
 <!ENTITY profilePrompt.label            "მიუთითეთ პროფილის ახალი სახელი:">
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "თქვენი პარამეტრები და სხვა მონაცემები აქ შეინახება:">
-<!ENTITY profileDefaultName             "ძირითადი მომხმარებელი">
+<!ENTITY profileDefaultName             "ნაგულისხმევი მომხმარებელი">
 <!ENTITY button.choosefolder.label      "დასტის არჩევა…">
 <!ENTITY button.choosefolder.accesskey  "C">
-<!ENTITY button.usedefault.label        "ძირითადი დასტის გამოყენება">
+<!ENTITY button.usedefault.label        "ნაგულისხმევი საქაღალდის გამოყენება">
 <!ENTITY button.usedefault.accesskey    "U">
