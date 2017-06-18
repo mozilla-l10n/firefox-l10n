@@ -29,7 +29,7 @@
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
 <!ENTITY healthReportDesc.label          "გაწვდით ინფორმაციას თქვენი ბრაუზერის წარმადობაზე და მისი მდგომარეობის მონაცემებს უზიარებს &vendorShortName;-ს">
-<!ENTITY enableHealthReport.label        "&brandShortName;-ის გამართულობის შეტყობინება">
+<!ENTITY enableHealthReport.label        "&brandShortName; -ის გამართულობის შესახებ მოხსენება">
 <!ENTITY enableHealthReport.accesskey    "R">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
@@ -45,7 +45,7 @@
 
 <!ENTITY networkTab.label                "ქსელი">
 
-<!ENTITY connection.label                "დაკავშირება">
+<!ENTITY connection.label                "კავშირი">
 
 <!ENTITY connectionDesc.label            "მითითება თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
@@ -84,7 +84,7 @@
 <!ENTITY updateApplication.label         "&brandShortName;-ის განახლებები">
 <!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებულია უსფართხოება)">
 <!ENTITY updateAuto1.accesskey           "ა">
-<!ENTITY updateCheckChoose.label         "შემოწმდეს განახლებებზე, მაგრამ თავად გადაწყვეტთ, დააყენებთ თუ არა">
+<!ENTITY updateCheckChoose.label         "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დააყენდეს თუ არა">
 <!ENTITY updateCheckChoose.accesskey     "ე">
 <!ENTITY updateManual.label              "განახლებები არასდროს შემოწმდეს (რეკომენდებული არაა: სახიფათოა)">
 <!ENTITY updateManual.accesskey          "დ">
