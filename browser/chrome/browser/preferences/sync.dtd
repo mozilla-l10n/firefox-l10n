@@ -28,7 +28,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "გამოყენების პირობები">
-<!ENTITY fxaPrivacyNotice.link.label "კონფიდენციალურობის ცნობება">
+<!ENTITY fxaPrivacyNotice.link.label "პირადი მონაცემების დებულება">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively

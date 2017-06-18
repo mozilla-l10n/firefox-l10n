@@ -31,7 +31,7 @@
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "ნებისმიერი კონფიდენციალობის პირობები ამ პროდუქტისთვის აქ უნდა აისახოს.">
+<!ENTITY rights.intro-point3-unbranded "პირადი მონაცემების დაცვის ყველა დებულება ამ პროდუქტისთვის უნდა აისახოს აქ.">
 
 <!-- point 4 text for official branded builds -->
 <!ENTITY rights2.intro-point4a "&brandShortName;-ის ზოგიერთი ფუნქცია იყენებს ინტერნეტზე დაფუძნებულ საინფორმაციო მომსახურებებს, რომელთა სიზუსტესა და უშეცდომობას, ჩვენ ვერ უზრუნველვყოფთ. დამატებითი ინფორმაცია, მათ შორის ამ ფუნქციების გამორთვის თაობაზე, შეგიძლიათ იხილოთ ">
