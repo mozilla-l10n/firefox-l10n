@@ -32,7 +32,7 @@
 
 <!ENTITY  locationBar.label             "მისამართების ზოლი">
 
-<!ENTITY  locbar.suggest2.label         "მისამართების ზოლის გამოყენებისას, შემოთავაზებები">
+<!ENTITY  locbar.suggest2.label         "მისამართების ზოლის გამოყენებისას, შემოთავაზებებში გამოჩნდება">
 <!ENTITY  locbar.history.label          "ისტორია">
 <!ENTITY  locbar.history.accesskey      "ი">
 <!ENTITY  locbar.bookmarks.label        "სანიშნეები">
