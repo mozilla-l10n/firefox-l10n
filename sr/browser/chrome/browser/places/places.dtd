@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Додато">
 <!ENTITY col.lastmodified.label  "Последња измена">
 
-<!ENTITY search.label                              "Пронађи:">
-<!ENTITY search.accesskey                          "П">
+<!ENTITY search.placeholder  "Претрага">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "М">
 <!ENTITY detailsPane.selectAnItemText.description "Изаберите ставку за преглед и уредите њена својства">
 
-<!ENTITY find.label               "Пронађи:">
-<!ENTITY find.accesskey           "П">
 <!ENTITY view.label               "Преглед">
 <!ENTITY view.accesskey           "е">
 <!ENTITY byDate.label             "По датуму">
