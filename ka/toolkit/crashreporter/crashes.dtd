@@ -3,11 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY crashReports.title         "ავარიული გათიშვის მოხსენებები">
-<!ENTITY crashesUnsubmitted.label   "ავარიული გათიშვის გადაუგზავნელი მოხსენებები">
-<!ENTITY crashesSubmitted.label     "ავარიული გათიშვის გადაგზავნილი მოხსენებები">
+<!ENTITY crashesUnsubmitted.label   "გადაუგზავნელი მოხსენებები">
+<!ENTITY crashesSubmitted.label     "გაგზავნილი მოხსენებები">
 <!ENTITY id.heading                 "ანგარიშგების ID">
-<!ENTITY dateCrashed.heading        "ავარიული გათიშვის თარიღი">
+<!ENTITY dateCrashed.heading        "ავარიული დახურვის თარიღი">
 <!ENTITY dateSubmitted.heading      "გაგზავნის თარიღი">
-<!ENTITY noReports.label            "შეცდომათა პატაკები არ გამოგზავნილა.">
-<!ENTITY noConfig.label             "ეს პროგრამა შეცდომათა პატაკების საჩვენებლად არ გამართულა. უნდა მიეთითოს პარამეტრი <code>breakpad.reportURL</code>.">
+<!ENTITY noReports.label            "ავარიული დახურვის მოხსენებები არ გაიგზავნა.">
+<!ENTITY noConfig.label             "ეს პროგრამა ავარიული დახურვის მოხსენებების საჩვენებლად არაა გამართული. უნდა მიეთითოს პარამეტრი <code>breakpad.reportURL</code>.">
 <!ENTITY clearAllReports.label      "ყველა მოხსენების წაშლა">

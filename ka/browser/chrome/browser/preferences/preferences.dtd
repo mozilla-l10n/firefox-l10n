@@ -16,7 +16,7 @@
 <!ENTITY  paneSearchResults.title       "ძიების შედეგები">
 <!ENTITY  paneGeneral.title             "მთავარი ">
 <!ENTITY  paneFilesApplications.title   "ფაილები &amp; პროგრამები">
-<!ENTITY  panePrivacySecurity.title     "კონფიდენციალობა &amp; უსაფრთხოება">
+<!ENTITY  panePrivacySecurity.title     "პირადულობა &amp; უსაფრთხოება">
 <!ENTITY  paneContainers.title          "სათავსი ჩანართები">
 <!ENTITY  paneUpdates.title             "განახლებები">
 

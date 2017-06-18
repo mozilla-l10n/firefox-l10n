@@ -50,7 +50,7 @@
 <!ENTITY headerLeft.tip      "მარცხენა თავსართი">
 <!ENTITY headerCenter.tip    "შუა თავსართი">
 <!ENTITY headerRight.tip     "მარჯვენა თავსართი">
-<!ENTITY footerLeft.tip      "მარცხენა ქვესართი">
+<!ENTITY footerLeft.tip      "მარცხენა ბოლოსართი">
 <!ENTITY footerCenter.tip    "შუა ქვესართი">
 <!ENTITY footerRight.tip     "მარჯვხენა ქვესართი">
 
