@@ -5,7 +5,7 @@
 
 
 <!ENTITY windowTitle.label "Кестеге айналдыру">
-
+<!ENTITY instructions1.label   "Құрастырушы санаттағы әр абзац үшін жаңа кесте жолын жасайды.">
 
 <!ENTITY commaRadio.label      "Үтір">
 <!ENTITY spaceRadio.label      "Space">

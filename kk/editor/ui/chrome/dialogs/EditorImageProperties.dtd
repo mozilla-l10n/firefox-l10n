@@ -46,19 +46,21 @@
 <!ENTITY removeImageMapButton.accessKey "ш">
 <!-- These are the options for image alignment -->
 
-
-
-
-
+<!ENTITY alignment.label "Мәтінді суретке туралау">
+<!ENTITY bottomPopup.value "Астынан">
+<!ENTITY topPopup.value "Үстінен">
+<!ENTITY centerPopup.value "Ортасынан">
+<!ENTITY wrapRightPopup.value "Оң жақтан аймалау">
+<!ENTITY wrapLeftPopup.value "Сол жақтан аймалау">
 <!-- These controls are in the Spacing Box -->
 
 <!ENTITY spacingBox.label "Аралық">
-
-
-
-
-
-
+<!ENTITY leftRightEditField.label "Сол және оң жақ:">
+<!ENTITY leftRightEditField.accessKey "л">
+<!ENTITY topBottomEditField.label "Үстінен және астынан:">
+<!ENTITY topBottomEditField.accessKey "т">
+<!ENTITY borderEditField.label "Бүтін шекара:">
+<!ENTITY borderEditField.accessKey "ш">
 <!-- These controls are in the Link Box -->
 
 
