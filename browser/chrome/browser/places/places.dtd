@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Ɓeydaa">
 <!ENTITY col.lastmodified.label  "Waylaa Sakket">
 
+<!ENTITY search.placeholder  "Yiylo">
 
 <!ENTITY cmd.find.key  "f">
 
