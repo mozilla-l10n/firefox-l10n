@@ -52,7 +52,7 @@
 <!ENTITY  permTab               "ნებართვები">
 <!ENTITY  permTab.accesskey     "ნ">
 <!ENTITY  permUseDefault        "ტიპობრივი">
-<!ENTITY  permAskAlways         "ყოველთვის კითხვა">
+<!ENTITY  permAskAlways         "შეკითხვა ყოველ ჯერზე">
 <!ENTITY  permAllow             "დაშვება">
 <!ENTITY  permAllowSession      "დაშვება სეანსზე">
 <!ENTITY  permBlock             "დაბლოკვა">

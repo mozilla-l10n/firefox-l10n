@@ -39,7 +39,7 @@
 <!ENTITY  SSLport.accesskey             "ო">
 <!ENTITY  FTPport.accesskey             "რ">
 <!ENTITY  SOCKSport.accesskey           "ტ">
-<!ENTITY  noproxy.label                 "პროქსი არ იქნეს გამოყენებული მისამართზე:">
+<!ENTITY  noproxy.label                 "არ გამოიყენება შემდეგ მისამართებზე:">
 <!ENTITY  noproxy.accesskey             "ა">
 <!ENTITY  noproxyExplain.label          "მაგალითი: .mozilla.org, .net.nz, 192.168.1.0/24">
 <!ENTITY  shareproxy.label              "ყველა პროტოკოლისთვის ამ პროქსი-სერვერის გამოყენება">
