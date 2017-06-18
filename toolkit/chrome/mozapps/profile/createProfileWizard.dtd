@@ -8,7 +8,7 @@
 <!-- First wizard page -->
 <!ENTITY profileCreationExplanation_1.text  "&brandShortName; 把您的各种偏好设置等数据保存在您的个人配置文件中。">
 <!ENTITY profileCreationExplanation_2.text  "如果您与他人共用一个 &brandShortName; 程序，您可以为不同用户创建相互独立的配置文件，让浏览数据各自分离。">
-<!ENTITY profileCreationExplanation_3.text  "如果只有您一人使用此份 &brandShortName;，您至少要有一份配置文件。当然您若想把不同用途下的数据（如工作和私人事务）分开，也可以创建多个配置文件。">
+<!ENTITY profileCreationExplanation_3.text  "如果只有您一人使用这份 &brandShortName; 副本，您需要至少一份配置文件。如果您想将不同用途或环境下的数据分离（如工作与私人事务），也可以创建多份配置文件。">
 <!ENTITY profileCreationExplanation_4.text  "要开始创建配置文件，请单击“下一步”。">
 <!ENTITY profileCreationExplanation_4Mac.text  "要开始创建配置文件，请单击“继续”。">
 <!ENTITY profileCreationExplanation_4Gnome.text  "要开始创建配置文件，请单击“下一步”。">
