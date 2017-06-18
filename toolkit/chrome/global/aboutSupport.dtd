@@ -10,13 +10,13 @@
   მოგვარებაში დაგეხმაროთ. თუ &brandShortName;-ის შესახებ ხშირად დასმულ კითხვებზე
   ეძებთ პასუხს, ეწვიეთ ჩვენს <a id='supportLink'>მხარდაჭერის გვერდს</a>.">
 
-<!ENTITY aboutSupport.crashes.title "ავარიული გათიშვის ანგარიშგება">
+<!ENTITY aboutSupport.crashes.title "ავარიული დახურვის მოხსენებები">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ანგარიშგების ID">
 <!ENTITY aboutSupport.crashes.sendDate "გადაგზავნილი">
-<!ENTITY aboutSupport.crashes.allReports "ყველა ავარიული გათიშვის ანგარიშგება">
-<!ENTITY aboutSupport.crashes.noConfig "ეს პროგრამა ავარიული გათიშვის ანგარიშგების ჩვენებისთვის გამართული არაა.">
+<!ENTITY aboutSupport.crashes.allReports "ავარიული დახურვის ყველა მოხსენება">
+<!ENTITY aboutSupport.crashes.noConfig "ეს პროგრამა ავარიული დახურვის მოხსენებების საჩვენებლად არაა გამართული.">
 
 <!ENTITY aboutSupport.extensionsTitle "გაფართოებები">
 <!ENTITY aboutSupport.extensionName "სახელი">
@@ -131,7 +131,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ფუნქციები">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "დიაგნოსტიკა">
-<!ENTITY aboutSupport.graphicsFailureLogTitle "მარცხების ჟურნალი">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "აღრიცხული ხარვეზები">
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "გადაწყვეტილებების ჟურნალი">
