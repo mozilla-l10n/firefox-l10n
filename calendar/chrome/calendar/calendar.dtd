@@ -42,7 +42,7 @@
 <!ENTITY calendar.unifinder.tree.enddate.label             "Аяқтау">
 <!ENTITY calendar.unifinder.tree.enddate.tooltip2          "Соңғы күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.duedate.label             "Бітуі">
-
+<!ENTITY calendar.unifinder.tree.duedate.tooltip2          "Бітіру күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.completeddate.label       "Аяқталған">
 <!ENTITY calendar.unifinder.tree.completeddate.tooltip2    "Аяқталған күні бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.categories.label          "Санат">
@@ -53,8 +53,8 @@
 <!ENTITY calendar.unifinder.tree.status.tooltip2           "Қалып-күйі бойынша сұрыптау">
 <!ENTITY calendar.unifinder.tree.calendarname.label        "Күнтізбе аты">
 <!ENTITY calendar.unifinder.tree.calendarname.tooltip2     "Күнтізбе аты бойынша сұрыптау">
-
-
+<!ENTITY calendar.unifinder.tree.duration.label            "Бітіру күні">
+<!ENTITY calendar.unifinder.tree.duration.tooltip2         "Бітіруге дейінгі уақыты бойынша сұрыптау">
 <!ENTITY calendar.unifinder.close.tooltip                  "Оқиғаны іздеу және оқиғалар тізімін жабу">
 
 <!ENTITY calendar.today.button.tooltip          "Бүгінге өту" >
@@ -254,10 +254,16 @@
 <!ENTITY calendar.context.properties.accesskey         "а">
 <!-- LOCALIZATION NOTE (calendar.context.showcalendar.accesskey)
      This is the access key used for the showCalendar string -->
+
+<!ENTITY calendar.context.showcalendar.accesskey      "с">
 <!-- LOCALIZATION NOTE (calendar.context.hidecalendar.accesskey)
      This is the access key used for the hideCalendar string -->
+
+<!ENTITY calendar.context.hidecalendar.accesskey      "С">
 <!-- LOCALIZATION NOTE (calendar.context.showonly.accesskey)
      This is the access key used for the showOnlyCalendar string -->
+
+<!ENTITY calendar.context.showonly.accesskey           "е">
 <!ENTITY calendar.context.showall.label                "Барлық күнтізбелерді көрсету">
 <!ENTITY calendar.context.showall.accesskey            "а">
 
@@ -273,7 +279,8 @@
 
 
 
-
+<!ENTITY calendar.tasks.view.calendarlist.label        "Күнтізбе тізімі">
+<!ENTITY calendar.tasks.view.calendarlist.accesskey    "т">
 
 <!ENTITY calendar.tasks.view.filtertasks.label           "Тапсырмаларды сүзгілеу">
 <!ENTITY calendar.tasks.view.filtertasks.accesskey       "з">
@@ -284,7 +291,7 @@
 <!ENTITY calendar.alarm.details.label               "Көбірек білу…" >
 
 
-
+<!ENTITY calendar.alarm.title.label                 "Күнтізбе еске салулары" >
 <!ENTITY calendar.alarm.dismiss.label               "Елемеу" >
 <!ENTITY calendar.alarm.dismissall.label            "Барлығын тайдыру" >
 

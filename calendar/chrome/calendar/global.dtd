@@ -9,19 +9,19 @@
      only used in Preferences > Views > Workweek groupbox -->
 
 <!ENTITY day.1.Ddd "Жек" >
-
+<!ENTITY day.1.Ddd.accesskey "Ж">
 <!ENTITY day.2.Ddd "Дүй" >
-
+<!ENTITY day.2.Ddd.accesskey "Д">
 <!ENTITY day.3.Ddd "Сей" >
-
+<!ENTITY day.3.Ddd.accesskey "С">
 <!ENTITY day.4.Ddd "Сәр" >
-
+<!ENTITY day.4.Ddd.accesskey "й">
 <!ENTITY day.5.Ddd "Бей" >
-
+<!ENTITY day.5.Ddd.accesskey "Б">
 <!ENTITY day.6.Ddd "Жұм" >
-
+<!ENTITY day.6.Ddd.accesskey "м">
 <!ENTITY day.7.Ddd "Сен" >
-
+<!ENTITY day.7.Ddd.accesskey "н">
 
 <!ENTITY day.1.name "Жексенбі" >
 <!ENTITY day.2.name "Дүйсенбі" >
