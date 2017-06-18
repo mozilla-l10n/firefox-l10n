@@ -8,15 +8,16 @@
 
 
 <!ENTITY pref.mainbox.label "Жалпы баптаулар" >
-
-
+<!ENTITY pref.dateformat.label "Күнді көрсету пішімі:" >
+<!ENTITY pref.dateformat.accesskey "К">
 <!ENTITY pref.dateformat.long "Ұзақ" >
 <!ENTITY pref.dateformat.short "Қысқа"  >
 
 <!ENTITY pref.timezones.caption "Уақыт белдеуі">
+<!ENTITY pref.timezones.label "Уақыт белдеуіңіздегі ең жақын қаланы таңдаңыз:">
+<!ENTITY pref.timezones.accesskey "т">
 
-
-
+<!ENTITY pref.defaults.label "Жаңа элементтер үшін бастапқы мәндер">
 <!ENTITY pref.events.label "Оқиғалар">
 <!ENTITY pref.tasks.label "Тапсырмалар">
 
