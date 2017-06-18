@@ -83,6 +83,6 @@
 <!ENTITY  securityView.privacy.viewPasswords            "შენახული პაროლების ნახვა">
 <!ENTITY  securityView.privacy.viewPasswords.accessKey  "პ">
 
-<!ENTITY  securityView.technical.header                 "ტექნიკური დეტალები">
+<!ENTITY  securityView.technical.header                 "ტექნიკური მონაცემები">
 
 <!ENTITY  helpButton.label                              "დახმარება">

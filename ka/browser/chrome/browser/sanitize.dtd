@@ -40,7 +40,7 @@ that require it.  -->
 <!-- LOCALIZATION NOTE (detailsProgressiveDisclosure.*): Labels and accesskeys
      of the "Details" progressive disclosure button.  See UI mockup at bug
      480169 -->
-<!ENTITY detailsProgressiveDisclosure.label     "დეტალები">
+<!ENTITY detailsProgressiveDisclosure.label     "ვრცლად">
 <!ENTITY detailsProgressiveDisclosure.accesskey "ე">
 
 <!ENTITY historySection.label         "ისტორია">
