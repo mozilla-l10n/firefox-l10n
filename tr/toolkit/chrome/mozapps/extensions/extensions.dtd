@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Bu güncellemenin sürüm notlarını göster">
 <!ENTITY cmd.hideReleaseNotes.label           "Çıkış notlarını gizle">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Bu güncellemenin sürüm notlarını gizle">
+<!ENTITY cmd.findReplacement.label            "Yerine geçecek bir eklenti bulun">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -254,4 +255,8 @@
 <!ENTITY pluginDeprecation.description "Bir şeyler mi eksik? Bazı yan uygulamalar artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY pluginDeprecation.learnMore "Daha fazla bilgi alın.">
 
+<!ENTITY legacyWarning.description "Bir şeyler mi eksik? Bazı eklentiler artık &brandShortName; tarafından desteklenmiyor.">
 <!ENTITY legacyWarning.showLegacy "Eski teknoloji eklentileri göster">
+<!ENTITY legacyExtensions.title "Eski teknoloji eklentiler">
+<!ENTITY legacyExtensions.description "Bu eklentiler yeni &brandShortName; standartlarını karşılaşamadığı için etkisiz hale getirilmiştir.">
+<!ENTITY legacyExtensions.learnMore "Eklentilerde yaptığımız değişiklikler hakkında bilgi alın">

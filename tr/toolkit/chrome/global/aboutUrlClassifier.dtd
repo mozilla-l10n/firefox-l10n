@@ -10,3 +10,23 @@
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Sonraki güncelleme saati">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Son güncelleme durumu">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Güncelle">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Önbellek">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Tazele">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Temizle">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tablo adı">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Negatif önbellek girdisi sayısı">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Pozitif önbellek girdisi sayısı">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Girdileri göster">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Önbellek girdileri">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Ön ek">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Negatif önbellek son kullanma">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Tam hash">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Pozitif önbellek son kullanma">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Hata ayıklama">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Log modüllerini ayarla">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Log doyasını ayarla">
+<!ENTITY aboutUrlClassifier.debugJSLogChk               "JS logunu ayarla">
+<!ENTITY aboutUrlClassifier.debugSBModules              "Safe Browsing log modülleri">
+<!ENTITY aboutUrlClassifier.debugModules                "Geçerli log modülleri">
+<!ENTITY aboutUrlClassifier.debugSBJSModules            "Safe Browsing JS logu">
+<!ENTITY aboutUrlClassifier.debugFile                   "Geçerli log dosyası">
