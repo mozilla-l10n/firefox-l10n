@@ -13,11 +13,7 @@
 <!ENTITY prefEnableHTTP11.label              "HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "1">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnablePipelining.label          "Konvejerinis duomenų apdorojimas">
-<!ENTITY prefEnablePipelining.accesskey      "K">
-<!ENTITY prefEnablePipeliningProxy.accesskey "I">
 <!ENTITY prefPara                            "Šios parinktys gali pagerinti HTTP ryšius. Pavyzdžiui, yra įgaliotųjų serverių, reikalaujančių HTTP/1.0 protokolo (daugiau apie tai rašoma programų paketo laidos informacijoje).">
-<!ENTITY prefPipeWarning                     "DĖMESIO! Konvejerinis duomenų apdorojimas kol kas eksperimentinis. Juo siekiama pagerinti tinklalapių įkėlimą. Deja, dar ne visi serveriai jį turi.">
 <!ENTITY prefUseragent.label                 "Naršyklės identifikacinė eilutė">
 <!ENTITY prefFirefoxCompat.label             "Skelbti apie suderinamumą su „Firefox“">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
