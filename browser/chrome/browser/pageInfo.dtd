@@ -75,7 +75,7 @@
 <!ENTITY  securityView.identity.verifier "დამმოწმებელი: ">
 
 <!ENTITY  securityView.privacy.header                   "პრივატულობა და ისტორია">
-<!ENTITY  securityView.privacy.history                  "ამ საიტზე დღემდე ნამყოფი ვარ?">
+<!ENTITY  securityView.privacy.history                  "ამ საიტზე დღევანდელ დღემდე ნამყოფი ვარ?">
 <!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ფ">
