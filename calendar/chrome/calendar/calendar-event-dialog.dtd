@@ -214,7 +214,7 @@
 <!ENTITY task.from.label                                  "Бастау:" >
 <!ENTITY task.from.accesskey                              "Б">
 <!ENTITY event.to.label                                   "Соңы:" >
-<!ENTITY event.to.accesskey                               "Б">
+<!ENTITY event.to.accesskey                               "ы">
 <!ENTITY task.to.label                                    "Бітіру күні:" >
 <!ENTITY task.to.accesskey                                "т">
 <!ENTITY task.status.label                                "Қалып-күйі:" >

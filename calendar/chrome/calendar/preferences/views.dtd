@@ -14,8 +14,8 @@
 
 <!ENTITY pref.weekstarts.label "Аптаның басы:">
 <!ENTITY pref.weekstarts.accesskey "т">
-
-
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.label "Көріністер және кіші ай көрінісінде апта нөмірлерін көрсету">
+<!ENTITY pref.calendar.view-minimonth.showweeknumber.accesskey "н">
 <!ENTITY pref.daysoff.label "Жұмыс аптасындағы күндер:">
 
 <!ENTITY pref.calendar.view.daystart.label "Күннің басталуы:">

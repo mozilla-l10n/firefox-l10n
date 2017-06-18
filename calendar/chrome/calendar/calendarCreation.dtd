@@ -6,6 +6,7 @@
 <!ENTITY wizard.label             "Жаңа күнтізбені жасау" >
 <!ENTITY wizard.description       "Күнтізбеңіздің орналасуы" >
 
+<!ENTITY initialpage.description    "Сіздің күнтізбеңіз компьютеріңізде сақтала алады, немесе оған қашықтан қатынау немесе онымен достар және жұмыстастармен бөлісу үшін серверде сақтала алады." >
 <!ENTITY initialpage.computer.label  "Менің компьютерімде">
 <!ENTITY initialpage.network.label  "Желіде">
 
@@ -15,7 +16,7 @@
 <!ENTITY locationpage.password.label      "Пароль:" >
 
 <!ENTITY custompage.shortdescription  "Күнтізбеңізді баптаңыз" >
-
+<!ENTITY custompage.longdescription   "Сіз бұл күнтізбеге бүркеншік атын беріп, бұл күнтізбеден оқиғаларға түсті бере аласыз." >
 
 <!ENTITY finishpage.shortdescription  "Күнтізбе жасалды" >
 <!ENTITY finishpage.longdescription   "Күнтізбеңіз жасалды." >
