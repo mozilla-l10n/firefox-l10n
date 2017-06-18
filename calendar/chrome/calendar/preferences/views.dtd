@@ -16,18 +16,20 @@
 <!ENTITY pref.weekstarts.accesskey "т">
 
 
+<!ENTITY pref.daysoff.label "Жұмыс аптасындағы күндер:">
 
+<!ENTITY pref.calendar.view.daystart.label "Күннің басталуы:">
+<!ENTITY pref.calendar.view.daystart.accesskey "К">
+<!ENTITY pref.calendar.view.dayend.label "Күннің аяқталуы:">
+<!ENTITY pref.calendar.view.dayend.accesskey "н">
+<!ENTITY pref.calendar.view.visiblehours.label "Көрсету:">
+<!ENTITY pref.calendar.view.visiblehours.accesskey "с">
+<!ENTITY pref.calendar.view.visiblehoursend.label "сағат бір уақытта">
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY pref.numberofweeks.label "Көрсетілетін апталар саны (өткен апталармен қоса):">
+<!ENTITY pref.numberofweeks.accesskey "ы">
+<!ENTITY pref.numberofpreviousweeks.label "Көрсетілетін өткен апталар саны:">
+<!ENTITY pref.numberofpreviousweeks.accesskey "к">
 <!ENTITY pref.numberofweeks.0 "ешнәрсе">
 <!ENTITY pref.numberofweeks.1 "1 апта">
 <!ENTITY pref.numberofweeks.2 "2 апта">
