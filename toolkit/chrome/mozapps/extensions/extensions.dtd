@@ -233,7 +233,7 @@
      Install https://people.mozilla.org/~gszorc/dummy-experiment-addon.xpi
      to cause this tab to appear. -->
 <!ENTITY experiment.info.label "რა არის ეს? ტელემეტრიამ დროდადრო შეიძლება დააყენოს და გაუშვას საცდელი დამატებები.">
-<!ENTITY experiment.info.learnmore "დაწვრილებით">
+<!ENTITY experiment.info.learnmore "შეიტყვეთ მეტი">
 <!ENTITY experiment.info.learnmore.accesskey "ლ">
 <!ENTITY experiment.info.changetelemetry "ტელემეტრიის პარამეტრები">
 <!ENTITY experiment.info.changetelemetry.accesskey "ტ">

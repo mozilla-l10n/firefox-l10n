@@ -18,8 +18,8 @@
 
 <!ENTITY certmgr.detail.general_tab.title     "ძირითადი">
 <!ENTITY certmgr.detail.general_tab.accesskey "G">
-<!ENTITY certmgr.detail.prettyprint_tab.title "დეტალები">
-<!ENTITY certmgr.detail.prettyprint_tab.accesskey "დ">
+<!ENTITY certmgr.detail.prettyprint_tab.title "ვრცლად">
+<!ENTITY certmgr.detail.prettyprint_tab.accesskey "ვ">
 
 <!ENTITY certmgr.pending.label                "მიმდინარეობს სერთიფიკატების შემოწმება…">
 <!ENTITY certmgr.subjectinfo.label            "ვისზეა გაცემული">

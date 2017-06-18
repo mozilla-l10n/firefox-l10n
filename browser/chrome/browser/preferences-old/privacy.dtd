@@ -23,7 +23,7 @@
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 <!ENTITY  doNotTrack.pre.label          "თქვენ ასევე შეგიძლიათ ">
-<!ENTITY  doNotTrack.settings.label     "გამართოთ თქვენი თვალთალისგან ასარიდებელი პარამეტრები">
+<!ENTITY  doNotTrack.settings.label     '"არ მითვალთვალო" პარამეტრის მითითება'>
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "ისტორია">
