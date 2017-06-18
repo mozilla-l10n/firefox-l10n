@@ -289,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "ა">
 <!ENTITY newPrivateWindow.label     "ახალი პირადი ფანჯარა">
 <!ENTITY newPrivateWindow.accesskey "ფ">
-<!ENTITY newNonRemoteWindow.label   "ახალი ერთპროცესიანი ფანჯარა">
+<!ENTITY newNonRemoteWindow.label   "ერთპროცესიანი ფანჯარა">
 
 <!ENTITY editMenu.label         "რედაქტირება"> 
 <!ENTITY editMenu.accesskey       "რ"> 
