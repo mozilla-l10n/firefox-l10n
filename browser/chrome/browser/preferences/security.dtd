@@ -11,7 +11,7 @@
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
-<!ENTITY  enableSafeBrowsing.label        "სახიფათო და მატყუარა შიგთავსის დაბლოკვა">
+<!ENTITY  enableSafeBrowsing.label        "სახიფათო და თაღლითური შიგთავსის შეზღუდვა">
 <!ENTITY  enableSafeBrowsing.accesskey    "ბ">
 
 <!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების დაბლოკვა">
