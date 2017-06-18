@@ -574,7 +574,7 @@
 <!ENTITY button_clear "გასუფთავება">
 <!ENTITY button_copy "კოპირება">
 
-<!ENTITY home_top_sites_title "ხშირი საიტები">
+<!ENTITY home_top_sites_title "რჩეული საიტები">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
      text underneath empty thumbnails in the Top Sites page on about:home. -->
 <!ENTITY home_top_sites_add "საიტი დამატება">
@@ -827,7 +827,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "ჩაინიშნეთ წაკითხვის რეჟიმის ელემენტები მათზე კავშირგარეშე წვდომისათვის.">
 <!ENTITY helper_triple_readerview_open_button "სანიშნებში დამატება">
 
-<!ENTITY activity_stream_topsites "ტოპ საიტები">
+<!ENTITY activity_stream_topsites "რჩეული საიტები">
 <!ENTITY activity_stream_highlights "შესამჩნევები">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
