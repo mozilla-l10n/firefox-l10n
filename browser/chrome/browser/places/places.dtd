@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Ditambahkan pada">
 <!ENTITY col.lastmodified.label  "Modifikasi Terakhir">
 
-<!ENTITY search.label                              "Cari:">
-<!ENTITY search.accesskey                          "C">
+<!ENTITY search.placeholder  "Cari">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Pilih item untuk ditampilkan dan diubah propertinya">
 
-<!ENTITY find.label               "Cari:">
-<!ENTITY find.accesskey           "C">
 <!ENTITY view.label               "Tampilkan">
 <!ENTITY view.accesskey           "l">
 <!ENTITY byDate.label             "Berdasarkan Tanggal">
