@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecció contra el seguiment">
-
+<!ENTITY  trackingProtection.description       "«Seguiment» fa referència a les empreses que recullen informació vostra per crear un perfil i mostrar-vos contingut basat en la vostra navegació i dades personals.">
 <!ENTITY  trackingProtection.radioGroupLabel   "Bloca el contingut d'empreses de seguiment conegudes">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
