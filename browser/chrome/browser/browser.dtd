@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mostra l'historial">
 
+<!ENTITY searchItem.title             "Cerca">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Inici">
@@ -469,6 +470,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Cerca">
+<!ENTITY searchIcon.tooltip           "Cerca">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -552,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Afegeix el marc a les adreces d'interès">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Copia l'URL">
 <!ENTITY emailPageCmd.label           "Envia l'enllaç per correu…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Anomena i desa la pàgina…">
@@ -689,7 +692,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Surt"> 
 <!ENTITY quitApplicationCmd.accesskey   "u">
 <!ENTITY quitApplicationCmdMac2.label   "Surt del &brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Tanca">  
 <!ENTITY closeCmd.key                   "W">  
@@ -741,7 +744,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Aquesta pàgina està desada a l'ordinador.">
 <!ENTITY identity.connectionVerified2 "Esteu connectat de forma segura a aquest lloc, mantingut per:">
 <!ENTITY identity.connectionInternal "Aquesta és una pàgina del &brandShortName; segura.">
-
+<!ENTITY identity.extensionPage "Aquesta pàgina s'ha carregat des d'una extensió.">
 <!ENTITY identity.insecureLoginForms2 "Les dades d'inici de sessió que introduïu en aquesta pàgina podrien estar en risc.">
 <!-- Strings for connection state warnings. -->
 
@@ -960,7 +963,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Accions de la pàgina">
 
-
-
-
-
+<!ENTITY sendToDevice.label "Envia a un dispositiu…">
+<!ENTITY sendToDevice.viewTitle "Envia a un dispositiu">
+<!ENTITY sendToDevice.fxaRequired.label "Necessari">
+<!ENTITY sendToDevice.noDevices.label "Cap dispositiu disponible">
+<!ENTITY sendToDevice.syncNotReady.label "S'estan sincronitzant els dispositius…">
