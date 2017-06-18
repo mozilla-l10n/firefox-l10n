@@ -225,13 +225,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტს თქვენი კამერის გამოყენების უფლება არ მიეცით.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტს თქვენი მიკროფონის გამოყენების უფლება არ მიეცით.">
-<!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტს თქვენი ეკრანის გაზიარების უფლება არ მიეცით.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტს თქვენი მდებარეობის ინფორმაცია არ გაუზიარეთ.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "ამ საიტს მონაცემების საცავის გამოყენების უფლება არ მიეცით.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტს შეტყობინებების ჩვენების უფლება არ მიეცით.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა აკრძალული გაქვთ.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტს თქვენი კამერის გამოყენების უფლება შეუზღუდეთ.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტს თქვენი მიკროფონის გამოყენების უფლება შეუზღუდეთ.">
+<!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტს თქვენი ეკრანის გაზიარების უფლება შეუზღუდეთ.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტს თქვენს მდებარეობაზე წვდომა შეუზღუდეთ.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "ამ საიტს მონაცემების საცავის გამოყენების უფლება შეუზღუდეთ.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტს შეტყობინებების ჩვენების უფლება შეუზღუდეთ.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტის, მუდმივ მეხსიერებასთან წვდომა შეუზღუდეთ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "ხელსაწყოები">
 <!ENTITY toolsMenu.accesskey          "ხ"> 
 
-<!ENTITY keywordfield.label           "ამ ძიებისთვის მალსახმობის შექმნა…">
+<!ENTITY keywordfield.label           "ძიებისთვის მალსახმობის შექმნა…">
 <!ENTITY keywordfield.accesskey       "ს">
 
 <!ENTITY downloads.label              "ჩამოტვირთვები">
@@ -520,7 +520,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "ბმულის გახსნა ახალ სათავს ჩანართში">
 <!ENTITY openLinkCmdInContainerTab.accesskey "ს">
-<!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ბლოკის ჩვენება">
+<!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ბლოკის განახლება">
@@ -552,10 +552,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "w">
 <!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
-<!ENTITY bookmarkPageCmd2.label       "ამ გვერდის ჩანიშვნა">
-<!ENTITY bookmarkThisLinkCmd.label      "ამ ბმულის ჩანიშვნა">
+<!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
+<!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
-<!ENTITY bookmarkThisFrameCmd.label      "ამ ჩარჩოს ჩანიშვნა">
+<!ENTITY bookmarkThisFrameCmd.label      "ჩარჩოს ჩანიშვნა">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "ჩ">
 <!ENTITY copyURLCmd.label             "URL-ს დაკოპირება">
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "გვერდის ძირითადი სტილი">
 <!ENTITY pageStylePersistentOnly.accesskey "ძ">
 
-<!ENTITY pageReportIcon.tooltip            "ამ ვებ-საიტისთვის ამომხტარი ფანჯრების დაბლოკვის პარამეტრების შეცვლა">
+<!ENTITY pageReportIcon.tooltip            "ვებ-საიტისთვის ამომხტარი ფანჯრების ამკრძალავი პარამეტრების შეცვლა">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -725,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "ც">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "ძებნა ამ გვერდზე…">
+<!ENTITY findOnCmd.label     "პოვნა გვერდზე…">
 <!ENTITY findOnCmd.accesskey "F">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "კვლავძიება">
@@ -746,25 +746,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომელის მფლობელიცაა:">
 <!ENTITY identity.connectionInternal "ეს &brandShortName;-ს დაცული გვერდია.">
 <!ENTITY identity.extensionPage "ეს გვერდი გახსნილია გაფართოების მიერ.">
-<!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი შესვლის ინფორმაცია შესაძლოა რისკის ქვეშ იყოს.">
+<!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები შესაძლოა მოიპარონ.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName;-მა დაბლოკაამ გვერდის ნაწილები, რომელიც შესაძლოა დაუცველი იყოს.">
+<!ENTITY identity.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
 <!ENTITY identity.passiveLoaded "ამ გვერდის ნაწილები დაუცველია (მაგალითად სურათები).">
-<!ENTITY identity.activeLoaded "თქვენ ამ გვერდზე დაცვა გამორთეთ.">
+<!ENTITY identity.activeLoaded "ამ გვერდზე დაცვა გამორთული გაქვთ.">
 <!ENTITY identity.weakEncryption "ეს გვერდი სუსტ დაშიფვრას იყენებს.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "თქვენი კავშირი ამ საიტთან პირადი არ არის. თქვენს მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
-<!ENTITY identity.description.insecureLoginForms "შესვლის ინფორმაცია, რომელსაც ამ გვერდზე შეიყვანთ, დაუცველია და შესაძლოა საფრთხეში ჩავარდეს.">
-<!ENTITY identity.description.weakCipher "თქვენი ამ ვებ-საიტთან კავშირი იყენებს სუსტ დაშიფვრას და პირდაული არაა.">
+<!ENTITY identity.description.insecure "თქვენი კავშირი ამ საიტთან დაცული არ არის. თქვენს მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
+<!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.">
+<!ENTITY identity.description.weakCipher "ამ ვებ-საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.">
 <!ENTITY identity.description.weakCipher2 "სხვა ხალხსაც შეუძლია თქვენი ინფორმაციის ნახვა ან ვებ-საიტის ქცევის შეცვლა.">
-<!ENTITY identity.description.activeBlocked "&brandShortName;-მა დაბლოკაამ გვერდის ნაწილები, რომელიც შესაძლოა დაუცველი იყოს.">
-<!ENTITY identity.description.passiveLoaded "თქვენი კავშირი პირდაული არაა და თქვენ მიერ ამ საიტთან გაზიარებული ინფორმაცია შესაძლოა სხვებმაც იხილონ.">
+<!ENTITY identity.description.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
+<!ENTITY identity.description.passiveLoaded "კავშირი დაუცველია და თქვენ მიერ ამ საიტთან გაზიარებული ინფორმაცია შესაძლოა სხვებმაც ნახონ.">
 <!ENTITY identity.description.passiveLoaded2 "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სურათები).">
 <!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName;-მა გარკვეული შიგთავსი დაბლოკა, რაღაცეები მაინც დაუცველი დარჩა (მაგალითად სურათები).">
 <!ENTITY identity.description.activeLoaded "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სკრიპტები) და თქვენი კავშირი პირადი არაა.">
-<!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც იხილონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
+<!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "დაცვის ჩართვა">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "რ">
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ფ">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "გახსნა ახალ პირად ფანჯარაში">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "პ">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ამ ჩანართის ჩანიშვნა…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ჩანართის ჩანიშვნა…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
 <!ENTITY syncedTabs.context.copy.label                       "კოპირება">
 <!ENTITY syncedTabs.context.copy.accesskey                   "კ">
@@ -865,16 +865,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.title "თვალყურისგან დაცვა">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ბლოკავს გვერდის ნაწილებს, რომლებიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "ეს საიტი შეიცავს ელემენტებს, რომელიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს. თქვენ დაცვა გამორთული გაქვთ.">
-<!ENTITY trackingProtection.notDetected3 "ამ გვერდზე აღმრიცხავი ელემენტები არ აღმოჩენილა.">
+<!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "ამ საიტისთვის დაცვის გამორთვა">
+<!ENTITY trackingProtection.unblock.label "ამ საიტზე დაცვის გამორთვა">
 <!ENTITY trackingProtection.unblock.accesskey "გ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "ამ სესიისთვის დაცვის გამორთვა">
+<!ENTITY trackingProtection.unblockPrivate.label "ამ სესიაზე დაცვის გამორთვა">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "გ">
 <!ENTITY trackingProtection.block2.label "დაცვის ჩართვა">
 <!ENTITY trackingProtection.block2.accesskey "რ">
@@ -883,7 +883,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.moreinfo "გვერდის ნაწილები, რომელიც შესაძლოა თქვენს ონლაინ აქტივობას აღრიცხავდეს, დაიბლოკა.">
 <!ENTITY trackingContentBlocked.learnMore "გაიგეთ მეტი">
 <!ENTITY trackingContentBlocked.options "პარამეტრები">
-<!ENTITY trackingContentBlocked.unblock2.label "ამ საიტისთვის დაცვის გამორთვა">
+<!ENTITY trackingContentBlocked.unblock2.label "ამ საიტზე დაცვის გამორთვა">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "გ">
 <!ENTITY trackingContentBlocked.block.label "დაცვის ჩართვა">
 <!ENTITY trackingContentBlocked.block.accesskey "რ">
