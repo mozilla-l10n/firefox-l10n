@@ -21,24 +21,25 @@
 <!ENTITY pref.events.label "Оқиғалар">
 <!ENTITY pref.tasks.label "Тапсырмалар">
 
-
+<!ENTITY pref.default_event_length.label "Бастапқы ұзақтығы:" >
+<!ENTITY pref.default_event_length.accesskey "с">
 
 <!ENTITY pref.default_task_none.label "Ешнәрсе">
 <!ENTITY pref.default_task_start_of_day.label "Күннің басы">
 <!ENTITY pref.default_task_end_of_day.label "Күннің соңы">
 <!ENTITY pref.default_task_tomorrow.label "Ертең">
 <!ENTITY pref.default_task_next_week.label "Келесі апта">
-
-
-
+<!ENTITY pref.default_task_offset_current.label "Ағымдағы уақытқа салыстырмалы түрде">
+<!ENTITY pref.default_task_offset_start.label "Басталу уақытына салыстырмалы түрде">
+<!ENTITY pref.default_task_offset_next_hour.label "Келесі сағатқа салыстырмалы түрде">
 
 <!ENTITY pref.calendar.todaypane.agenda.caption "Бүгінгі панелі">
-
-
+<!ENTITY pref.soondays.label "Болашақ таңдауы көрсетеді:">
+<!ENTITY pref.soondays.accesskey "ш">
 
 <!ENTITY pref.accessibility.label "Қолжетерлілік" >
-
-
+<!ENTITY pref.systemcolors.label "Түстерді қолжетерлігігі үшін ыңғайлату" >
+<!ENTITY pref.systemcolors.accesskey "с">
 
 <!ENTITY pref.eventsandtasks.label "Оқиғалар және тапсырмалар" >
 <!ENTITY pref.editInTab.label "Оқиғалар және тапсырмаларды сұхбат терезесінің орнына бетте түзету." >
