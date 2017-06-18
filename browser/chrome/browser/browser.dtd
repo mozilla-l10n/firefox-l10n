@@ -159,7 +159,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.label "სანიშნეები">
 <!ENTITY bookmarksMenu.accesskey "ს">
 <!ENTITY bookmarkThisPageCmd.label "ამ გვერდის ჩანიშვნა">
-<!ENTITY editThisBookmarkCmd.label "ამ სანიშნის რედაქტირება">
+<!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
