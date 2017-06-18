@@ -35,8 +35,8 @@
 <!ENTITY formatMenu.accesskey "ш">
 <!ENTITY grid.label "Орналастыру торы">
 <!ENTITY grid.accesskey "т">
-
-
+<!ENTITY pageProperties.label "Бет атауы және қасиеттері… ">
+<!ENTITY pageProperties.accesskey "е">
 <!-- Tools menu items -->
 
 <!ENTITY validateCmd.label "HTML тексеру">
@@ -44,9 +44,9 @@
 <!-- Display Mode toolbar and View menu items -->
 
 <!ENTITY NormalModeTab.label "Қалыпты">
-
-
-
+<!ENTITY NormalMode.label "Қалыпты түзету режимі">
+<!ENTITY NormalMode.accesskey "л">
+<!ENTITY NormalMode.tooltip "Кесте шектерін және атаулы байланыстарды көрсету">
 <!ENTITY AllTagsModeTab.label "HTML тегтері">
 <!ENTITY AllTagsMode.label "HTML тегтері">
 <!ENTITY AllTagsMode.accesskey "е">
@@ -64,4 +64,4 @@
 <!ENTITY PreviewModeTab.label "Алдын-ала қарау">
 <!ENTITY PreviewMode.label "Карап-шығу">
 <!ENTITY PreviewMode.accesskey "К">
-
+<!ENTITY PreviewMode.tooltip "WYSIWYG ретінде көрсету (браузерде сияқты)">
