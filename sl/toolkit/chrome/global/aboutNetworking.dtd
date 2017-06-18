@@ -27,7 +27,6 @@
 <!ENTITY aboutNetworking.expires               "Poteče (sekunde)">
 <!ENTITY aboutNetworking.messagesSent          "Poslano sporočil">
 <!ENTITY aboutNetworking.messagesReceived      "Prejeto sporočil">
-<!ENTITY aboutNetworking.bytesSent             "Poslani bajtov">
 <!ENTITY aboutNetworking.bytesReceived         "Prejeto bajtov">
 <!ENTITY aboutNetworking.logging               "Beleženje">
 <!ENTITY aboutNetworking.logTutorial           "Za navodila o uporabi tega orodja si oglejte <a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'>Beleženje HTTP</a>.">
