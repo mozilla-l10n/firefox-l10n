@@ -74,4 +74,4 @@
 
 <!ENTITY  update.details.label            "დეტალები">
 <!ENTITY  update.installedOn.label        "ჩაიდგა:">
-<!ENTITY  update.status.label             "სტატუსი:">
+<!ENTITY  update.status.label             "მდგომარეობა:">

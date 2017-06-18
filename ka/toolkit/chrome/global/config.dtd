@@ -18,7 +18,7 @@
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "პარამეტრი">
-<!ENTITY lockColumn.label "სტატუსი">
+<!ENTITY lockColumn.label "მდგომარეობა">
 <!ENTITY typeColumn.label "ტიპი">
 <!ENTITY valueColumn.label "მნიშვნელობა">
 
