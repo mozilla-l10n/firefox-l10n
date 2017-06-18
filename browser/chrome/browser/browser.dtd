@@ -158,7 +158,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "სანიშნეები">
 <!ENTITY bookmarksMenu.accesskey "ს">
-<!ENTITY bookmarkThisPageCmd.label "ამ გვერდის ჩანიშვნა">
+<!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
@@ -169,17 +169,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "მ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "ამ ბმულის გაზიარება">
+<!ENTITY shareLink.label "ბმულის გაზიარება">
 <!ENTITY shareLink.accesskey "ზ">
-<!ENTITY shareImage.label "ამ სურათის გაზიარება">
+<!ENTITY shareImage.label "სურათის გაზიარება">
 <!ENTITY shareImage.accesskey "რ">
 <!ENTITY shareSelect.label "არჩეულის გაზიარება">
 <!ENTITY shareSelect.accesskey "რ">
-<!ENTITY shareVideo.label "ამ ვიდეოს გაზიარება">
+<!ENTITY shareVideo.label "ვიდეოს გაზიარება">
 <!ENTITY shareVideo.accesskey "რ">
-<!ENTITY feedsMenu2.label "ამ გვერდის გამოწერა">
-<!ENTITY subscribeToPageMenupopup.label "ამ გვერდის გამოწერა">
-<!ENTITY subscribeToPageMenuitem.label "ამ გვერდის გამოწერა...">
+<!ENTITY feedsMenu2.label "გვერდის გამოწერა">
+<!ENTITY subscribeToPageMenupopup.label "გვერდის გამოწერა">
+<!ENTITY subscribeToPageMenuitem.label "გვერდის გამოწერა...">
 <!ENTITY addCurPagesCmd.label "ყველა ჩანართის ჩანიშვნა...">
 <!ENTITY showAllBookmarks2.label "ყველა სანიშნის ჩვენება">
 <!ENTITY recentBookmarks.label "ბოლოს ჩანიშნულები">
@@ -202,7 +202,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "მდებარეობის ზოლში ნაჩვენებ მისამართზე გადასვლა">
 <!ENTITY printButton.label            "ამობეჭდვა">
-<!ENTITY printButton.tooltip          "ამ გვერდის ამობეჭდვა">
+<!ENTITY printButton.tooltip          "გვერდის ამობეჭდვა">
 
 <!ENTITY urlbar.viewSiteInfo.label                      "საიტის ინფორმაციის ჩვენება">
 
@@ -216,12 +216,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დისტანციური მართვის ქვეშ">
 
-<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "ამ საიტისთვის თქვენი კამერის და/ან მიკროფონის გაზიარების მართვა">
-<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "ამ საიტისთვის თქვენი მიკროფონის გაზიარების მართვა">
-<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "ამ საიტისთვის თქვენი ფანჯრების ან ეკრანის გაზიარების მართვა">
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "საიტისთვის თქვენი კამერის და/ან მიკროფონის გაზიარების მართვა">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "საიტისთვის თქვენი მიკროფონის გაზიარების მართვა">
+<!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "საიტისთვის თქვენი ფანჯრების ან ეკრანის გაზიარების მართვა">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ინსტალაციის შეტყობინების პანელის გახსნა">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "ამ გვერდის თარგმნა">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "გვერდის თარგმნა">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 
