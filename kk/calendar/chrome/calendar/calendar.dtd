@@ -277,7 +277,8 @@
 <!ENTITY calendar.context.convertmenu.task.label         "Тапсырма…">
 <!ENTITY calendar.context.convertmenu.task.accesskey     "Т">
 
-
+<!ENTITY calendar.tasks.view.minimonth.label           "Кіші ай көрінісі">
+<!ENTITY calendar.tasks.view.minimonth.accesskey       "К">
 
 <!ENTITY calendar.tasks.view.calendarlist.label        "Күнтізбе тізімі">
 <!ENTITY calendar.tasks.view.calendarlist.accesskey    "т">
@@ -290,7 +291,8 @@
 <!ENTITY calendar.alarm.location.label              "Орналасуы:" >
 <!ENTITY calendar.alarm.details.label               "Көбірек білу…" >
 
-
+<!ENTITY calendar.alarm.snoozefor.label             "Келесі уақытқа кейінге қалдыру" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Барлығын келесі уақытқа кейінге қалдыру" >
 <!ENTITY calendar.alarm.title.label                 "Күнтізбе еске салулары" >
 <!ENTITY calendar.alarm.dismiss.label               "Елемеу" >
 <!ENTITY calendar.alarm.dismissall.label            "Барлығын тайдыру" >
@@ -307,6 +309,8 @@
      This string is not seen in the UI, it is read by screen readers when the
      user focuses the "Cancel" button in the "Snooze for..." popup of the alarm
      dialog. -->
+
+<!ENTITY calendar.alarm.snooze.cancel               "Кейінге қалдыруды болдырмау">
 <!-- Calendar Server Dialog -->
 
 <!ENTITY calendar.server.dialog.title.edit          "Күнтізбені түзету">
@@ -324,7 +328,7 @@
 <!ENTITY calendarproperties.name.label                     "Аты:">
 <!ENTITY calendarproperties.readonly.label                 "Тек оқу үшін">
 <!ENTITY calendarproperties.firealarms.label               "Еске салуларды көрсету">
-
+<!ENTITY calendarproperties.cache3.label                   "Желіден тыс қолдау">
 <!ENTITY calendarproperties.enabled.label                  "Бұл күнтізбені іске қосу">
 <!ENTITY calendarproperties.forceDisabled.label            "Бұл күнтізбенің ұсынушысын табу мүмкін емес. Бұл кейбір қосымшалар сөндірілген немесе өшірілген кезде болуы мүмкін.">
 <!ENTITY calendarproperties.unsubscribe.label              "Жазылудан бас тарту">
@@ -351,11 +355,11 @@
 <!ENTITY calendar.print.tasks.label "Тапсырмалар">
 <!ENTITY calendar.print.events.label "Оқиғалар">
 <!ENTITY calendar.print.custom.label "Таңдауыңызша күндер ауқымы:">
-<!ENTITY calendar.print.from.label "Кімнен:">
-
+<!ENTITY calendar.print.from.label "Бастап:">
+<!ENTITY calendar.print.to.label "дейін:">
 <!ENTITY calendar.print.settingsGroup.label "Баспаға шығару параметрлері">
 <!ENTITY calendar.print.optionsGroup.label "Баптаулар">
-
+<!ENTITY calendar.print.taskswithnoduedate.label "Бітіру уақыты жоқ тапсырмалар">
 <!ENTITY calendar.print.completedtasks.label "Аяқталған тапсырмалар">
 <!-- Error reporting -->
 

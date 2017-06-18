@@ -9,4 +9,4 @@
 <!ENTITY providerUninstall.cancel.accesskey                "д">
 <!ENTITY providerUninstall.preName.label                   "Сіз өшіруді немесе сөндіруді сұрадыңыз:">
 <!ENTITY providerUninstall.postName.label                  "Нәтижесінде төмендегі күнтізбелер сөндірілетін болады.">
-
+<!ENTITY providerUninstall.reinstallNote.label             "Бұл ұсынушыны қайта орнатуды жоспарлаған болмасаңыз, бұл ұсынушының күнтізбелеріне жазылуды өшіруді қалай аласыз.">
