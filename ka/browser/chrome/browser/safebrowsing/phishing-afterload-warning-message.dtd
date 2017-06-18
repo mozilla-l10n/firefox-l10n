@@ -7,7 +7,7 @@
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
   shown. -->
-<!ENTITY safeb.palm.notdeceptive.label "ეს მატყუარა საიტი არაა…">
+<!ENTITY safeb.palm.notdeceptive.label "ეს თაღლითური საიტი არაა…">
 <!-- Localization note (safeb.palm.notdeceptive.accesskey) - Because
   safeb.palm.notdeceptive.label and reportDeceptiveSiteMenu.title from
   report-phishing.dtd are never shown at the same time, the same accesskey can
@@ -25,8 +25,8 @@
 <!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ეს ვებ-გვერდი შემჩნეულია, რომ შეიცავს არასასურველ პროგრამას და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.unwantedPage.longDesc "<p>არასასურველი საიტი ცდილობს დააყენოს პროგრამა, რომელიც შეიძლება იყოს თაღლითური და საზიანო თქვენი სისტემისთვის.</p>">
 
-<!ENTITY safeb.blocked.phishingPage.title2 "მატყუარა საიტი!">
+<!ENTITY safeb.blocked.phishingPage.title2 "თაღლითური საიტი!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ეს ვებ გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ეს ვებ-გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>მატყუარა საიტები შექმნილია თქვენი გაცურების , მაგალითად არასასურველი პროგრამის დაყენების, ან თქვენი პირადი ინფორმაციის, როგორიცაა პაროლები, ტელეფონის ნომრები და საკრედიტო ბარათების გამოჩენის მიზნით .</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანამ შესაძლოა იდენტურობის ქურდობა ან სხვა თაღლითობა გამოიწვიოს .</p>">
 
