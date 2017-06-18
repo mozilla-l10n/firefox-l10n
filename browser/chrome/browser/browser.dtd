@@ -968,3 +968,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Skicka till enhet">
 <!ENTITY sendToDevice.fxaRequired.label "Krävs">
 <!ENTITY sendToDevice.noDevices.label "Inga enheter tillgängliga">
+<!ENTITY sendToDevice.syncNotReady.label "Synkar enheter…">
