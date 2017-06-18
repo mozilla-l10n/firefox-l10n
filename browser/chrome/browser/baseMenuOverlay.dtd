@@ -23,18 +23,18 @@
 <!ENTITY helpKeyboardShortcuts.label     "კლავიატურის მალსახმობები">
 <!ENTITY helpKeyboardShortcuts.accesskey "კ">
 
-<!ENTITY helpSafeMode.label       "ხელახლა გახსნა გამორთული მოდულებით...">
+<!ENTITY helpSafeMode.label       "გამორთული დამატებებით გაშვება...">
 <!ENTITY helpSafeMode.accesskey   "ხ">
-<!ENTITY helpSafeMode.stop.label       "ხელახლა გახსნა ჩართული მოდულებით...">
+<!ENTITY helpSafeMode.stop.label       "ჩართული დამატებებით გაშვება">
 <!ENTITY helpSafeMode.stop.accesskey   "ხ">
 
 <!ENTITY healthReport2.label      "&brandShorterName; ჯანმრთელობის  მოხსენება">
 <!ENTITY healthReport2.accesskey  "ჯ">
 
-<!ENTITY helpTroubleshootingInfo.label      "პრობლემების აღმოფხვრა">
+<!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
 <!ENTITY helpTroubleshootingInfo.accesskey  "პ">
 
-<!ENTITY helpFeedbackPage.label      "უკუკავშირის გაგზავნა...">
+<!ENTITY helpFeedbackPage.label      "უკუკავშირი...">
 <!ENTITY helpFeedbackPage.accesskey  "გ">
 
 <!ENTITY helpShowTour2.label            "&brandShorterName; ტური">

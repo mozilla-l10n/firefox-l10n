@@ -18,7 +18,7 @@
 <!ENTITY tabCrashed.single.offerHelpMessage "აირჩიეთ &tabCrashed.restoreTab; გვერდის შიგთავსის ხელახლა ჩასატვირთად.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "აირჩიეთ &tabCrashed.restoreTab; ან &tabCrashed.restoreAll; გვერდის შიგთავსის ხელახლა ჩასატვირთად.">
 <!ENTITY tabCrashed.requestHelp "დაგვეხმარებით?">
-<!ENTITY tabCrashed.requestHelpMessage "შეტყობინებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ პრობლემები და გავხადოთ &brandShortName; უკეთესი.">
+<!ENTITY tabCrashed.requestHelpMessage "მოხსენებები ავარიული დახურვის შესახებ, დაგვეხმარება გამოვავლინოთ გამუმართაობები და გავხადოთ &brandShortName; უკეთესი.">
 <!ENTITY tabCrashed.requestReport "მოხსენების გაგზავნა ამ ჩანართის შესახებ">
 <!ENTITY tabCrashed.sendReport2 "ამ ჩანართის ავარიული დახურვის შესახებ შეტყობინების გაგზავნა">
 <!ENTITY tabCrashed.commentPlaceholder2 "დამატებითი კომენტარი (კომენტარები ხილულია საჯაროდ)">
