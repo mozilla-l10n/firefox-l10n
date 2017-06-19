@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Okukhethwayo kwedatha">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Ikusiza ukuthi uqonde ukusebenza kwesibuki sakho futhi yabela idatha ne-&vendorShortName; mayelana nokuphila kwesibuki sakho">
 <!ENTITY enableHealthReport.label        "Nika amandla Umbiko wezempilo we-&brandShortName;">
