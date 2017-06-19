@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Diskouez ar roll istor">
 
+<!ENTITY searchItem.title             "Klask">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "D'ar gêr">
@@ -471,6 +472,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Klask">
+<!ENTITY searchIcon.tooltip           "Klask">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -958,11 +961,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "A">
 <!ENTITY updateRestart.cancelButton.label "Diwezhatoc'h">
 <!ENTITY updateRestart.cancelButton.accesskey "D">
-
+<!ENTITY updateRestart.panelUI.label2 "Adloc'hit evit hizivaat &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 
-
-
-
-
+<!ENTITY sendToDevice.label "Kas d'an trevnad...">
+<!ENTITY sendToDevice.viewTitle "Kas d'an trevnad">
+<!ENTITY sendToDevice.fxaRequired.label "Azgoulennet">
+<!ENTITY sendToDevice.noDevices.label "Trevnad ebet hegerz">
+<!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
