@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Provider">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Tiid fan lêste fernijing">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Tiid fan folgjende fernijing">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Back-offtiid">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Steat fan lêste fernijing">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Bywurkje">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Buffer">
