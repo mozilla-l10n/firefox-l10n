@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "فراهم‌کننده">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "آخرین زمان بروزرسانی">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "زمان بروزرسانی بعدی">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "آخرین وضعیت بروزرسانی">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "بروزرسانی">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "حافظهٔ نهان">

@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "فعال‌ شده">
 <!ENTITY aboutSupport.a11yForceDisabled "دسترسی را متوقف کن">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "نسخه‌های کتاب‌خانه">
 
 <!ENTITY aboutSupport.installationHistoryTitle "تاریخچهٔ نصب">
