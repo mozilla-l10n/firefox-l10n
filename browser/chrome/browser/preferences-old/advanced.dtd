@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Împărtășire de date">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Ne ajută să înțelegem performanța browserului și împărtășește date cu &vendorShortName; privind stabilitatea browserului">
 <!ENTITY enableHealthReport.label        "Activează raportul de stare &brandShortName;">

@@ -103,6 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Activat">
 <!ENTITY aboutSupport.a11yForceDisabled "Împiedică accesibilitatea">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiuni ale bibliotecii">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Istoricul instalării">
