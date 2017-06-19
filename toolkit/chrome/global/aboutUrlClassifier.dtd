@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Провајдер">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Време последњег ажурирања">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Време следећег ажурирања">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Време одбијања">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус последњег ажурирања">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ажурирање">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">
