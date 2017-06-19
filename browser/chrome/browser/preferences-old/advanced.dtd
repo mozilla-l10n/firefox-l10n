@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "ഡേറ്റാ ഇഷ്ടങ്ങള്‍">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "നിങ്ങളുടെ ബ്രൌസറിന്റെ പ്രവര്‍ത്തനം മനസ്സിലാക്കുവാന്‍ സഹായിയ്ക്കുന്നു, ബ്രൌസര്‍ വിവരങ്ങള്‍ &vendorShortName;-മായി പങ്കിടുന്നു">
 <!ENTITY enableHealthReport.label        "&brandShortName;  ആരോഗ്യ വിവരപ്പട്ടിക സജ്ജമാക്കുക">
