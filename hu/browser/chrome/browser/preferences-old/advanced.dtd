@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "H">
 
 <!ENTITY dataChoicesTab.label            "Adatküldések">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
 <!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
