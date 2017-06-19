@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "u">
 
 <!ENTITY dataChoicesTab.label            "Okukhethwayo kwengcombolo">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho ne-&vendorShortName; malungi nempilo yebhrawuza yakho">
 <!ENTITY enableHealthReport.label        "Yenza isebenze i-&brandShortName; iNgxelo yeMpilo">
