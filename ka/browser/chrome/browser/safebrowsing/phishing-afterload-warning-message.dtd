@@ -17,8 +17,8 @@
 
 <!ENTITY safeb.blocked.malwarePage.title "ეს გვერდი მიჩნეულია მოიერიშედ!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.malwarePage.shortDesc "ეს ვებ გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ კერძო ინფორმაციას, იყენებენ თქვენს კომპიუტერს სხვების შასატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე ინფორმაციას, თუმცა ბევრი სხვა ამას საიტის მფლობელის ნებართვის გარეშე ისე აკეთებს, რომ მფლობელი საქმის კურსში არაა.</p>">
+<!ENTITY safeb.blocked.malwarePage.shortDesc "ვებ-გვერდი <span id='malware_sitename'/> ცნობილია როგორც მოიერიშე გვერდი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>მოიერიშე გვერდები ცდილობენ ჩადგან პროგრამები, რომლითაც იპარავენ პირად მონაცემებს, იყენებენ თქვენს კომპიუტერს სხვებისთვის შესატევად ან აზიანებენ თქვენს სისტემას.</p><p>ზოგიერთი მოიერიშე გვერდი განზრახ ავრცელებს მავნე პროგრამებს, თუმცა ბევრი საიტი გატეხილიც შეიძლება იყოს და მათი მფლობელების ნებართვის გარეშე მოქმედებდეს.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "საიტი, შემჩნეულია არასასურველი პროგრამის გავრცელებაში!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
@@ -27,6 +27,6 @@
 
 <!ENTITY safeb.blocked.phishingPage.title2 "თაღლითური საიტი!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ეს ვებ-გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.phishingPage.shortDesc2 "ვებ-გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
 <!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>მატყუარა საიტები შექმნილია თქვენი გაცურების , მაგალითად არასასურველი პროგრამის დაყენების, ან თქვენი პირადი ინფორმაციის, როგორიცაა პაროლები, ტელეფონის ნომრები და საკრედიტო ბარათების გამოჩენის მიზნით .</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანამ შესაძლოა იდენტურობის ქურდობა ან სხვა თაღლითობა გამოიწვიოს .</p>">
 

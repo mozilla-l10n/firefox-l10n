@@ -540,7 +540,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
 <!ENTITY reloadImageCmd.accesskey     "R">
-<!ENTITY viewImageCmd.label           "ნახატის ჩვენება">
+<!ENTITY viewImageCmd.label           "სურათის ნახვა">
 <!ENTITY viewImageCmd.accesskey       "I">
 <!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
 <!ENTITY viewImageInfoCmd.accesskey   "f">
@@ -548,9 +548,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewImageDescCmd.accesskey   "ა">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
 <!ENTITY viewVideoCmd.accesskey       "i">
-<!ENTITY viewBGImageCmd.label         "ფონის ნახატის ჩვენება">
+<!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
 <!ENTITY viewBGImageCmd.accesskey     "w">
-<!ENTITY setDesktopBackgroundCmd.label      "შპალერად მითითება…">
+<!ENTITY setDesktopBackgroundCmd.label      "ფონად დაყენება სამუშაო მაგიდაზე…">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "S">
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
@@ -571,7 +571,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.accesskey        "ს">
-<!ENTITY saveImageCmd.label           "ნახატის შენახვა როგორც…">
+<!ENTITY saveImageCmd.label           "სურათის შენახვა როგორც…">
 <!ENTITY saveImageCmd.accesskey       "v">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
 <!ENTITY saveVideoCmd.accesskey       "ხ">
@@ -589,11 +589,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "მიმდინარე მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
-<!ENTITY copyLinkCmd.label            "ბმულის მდებარეობის კოპირება">
+<!ENTITY copyLinkCmd.label            "ბმულის კოპირება">
 <!ENTITY copyLinkCmd.accesskey        "ბ">
-<!ENTITY copyImageCmd.label           "ნახატის მისამართის კოპირება">
+<!ENTITY copyImageCmd.label           "სურათის მისამართის კოპირება">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "ნახატის კოპირება">
+<!ENTITY copyImageContentsCmd.label   "სურათის კოპირება">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
