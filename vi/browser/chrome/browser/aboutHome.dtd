@@ -6,14 +6,14 @@
 %brandDTD;
 <!ENTITY % syncBrandDTD SYSTEM "chrome://browser/locale/syncBrand.dtd">
 %syncBrandDTD;
+
 <!-- These strings are used in the about:home page -->
 
-
 <!ENTITY abouthome.pageTitle "Trang khởi động &brandFullName;">
+
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet1.v1):
      text in <a/> will be linked to the Firefox features page on mozilla.com
 -->
-
 <!ENTITY abouthome.defaultSnippet1.v1 "Cảm ơn bạn đã chọn Firefox! Để tận dụng được hết trình duyệt của mình, bạn nên tìm hiểu thêm về <a>các tính năng mới nhất</a>.">
 <!-- LOCALIZATION NOTE (abouthome.defaultSnippet2.v1):
      text in <a/> will be linked to the featured add-ons on addons.mozilla.org
@@ -33,6 +33,8 @@
 <!ENTITY abouthome.addonsButton.label    "Tiện ích">
 <!ENTITY abouthome.downloadsButton.label "Tập tin tải về">
 <!ENTITY abouthome.syncButton.label      "&syncBrand.shortName.label;">
+
 <!-- LOCALIZATION NOTE (abouthome.aboutMozilla.label): The (invisible) label for
      the mozilla wordmark in the top-right corner that links to Mozilla's main
      about page. -->
+<!ENTITY abouthome.aboutMozilla.label    "Giới thiệu Mozilla">

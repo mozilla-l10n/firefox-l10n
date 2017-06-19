@@ -177,11 +177,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "b">
 <!ENTITY shareVideo.label "Chia sẻ video này">
 <!ENTITY shareVideo.accesskey "v">
+<!ENTITY feedsMenu2.label "Đăng kí nhận tin từ trang này">
+<!ENTITY subscribeToPageMenupopup.label "Đăng kí nhận tin từ trang này">
 <!ENTITY subscribeToPageMenuitem.label "Đăng kí theo dõi trang này…">
 <!ENTITY addCurPagesCmd.label "Đánh dấu tất cả các thẻ…">
 <!ENTITY showAllBookmarks2.label "Xem tất cả trang đánh dấu">
 <!ENTITY recentBookmarks.label "Trang đánh dấu gần đây">
 <!ENTITY otherBookmarksCmd.label "Trang đánh dấu khác">
+<!ENTITY mobileBookmarksCmd.label "Trang đánh dấu trên điện thoại di động">
 <!ENTITY bookmarksToolbarChevron.tooltip "Hiện thêm các trang đánh dấu">
 <!ENTITY showRecentlyBookmarked.label     "Xem trang đánh dấu gần đây">
 <!ENTITY showRecentlyBookmarked.accesskey "e">
@@ -238,6 +241,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksCmd.commandkey "b">
 
 <!ENTITY bookmarksMenuButton.label          "Trang đánh dấu">
+<!ENTITY bookmarksMenuButton.other.label "Trang đánh dấu khác">
+<!ENTITY bookmarksMenuButton.mobile.label "Trang đánh dấu trên điện thoại di động">
 <!ENTITY viewBookmarksSidebar2.label        "Hiển thị thanh lề trang đánh dấu">
 <!ENTITY viewBookmarksToolbar.label         "Hiển thị thanh công cụ trang đánh dấu">
 
@@ -261,6 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.label              "Tập tin tải về">
 <!ENTITY downloads.accesskey          "v">
 <!ENTITY downloads.commandkey         "j">
+<!ENTITY downloadsUnix.commandkey     "y">
 <!ENTITY addons.label                 "Tiện ích">
 <!ENTITY addons.accesskey             "T">
 <!ENTITY addons.commandkey            "A">
@@ -293,9 +299,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Cắt">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
-  
+<!ENTITY copyCmd.label            "Sao chép">  
 <!ENTITY copyCmd.key            "C">  
- 
+<!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "Dán">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "D"> 
@@ -342,6 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Xóa lược sử gần đây…">
 <!ENTITY appMenuHistory.restoreSession.label "Khôi phục phiên làm việc trước">
 <!ENTITY appMenuHistory.viewSidebar.label "Hiển thị thanh lề lược sử">
+<!ENTITY appMenuHelp.label "Trợ giúp">
 <!ENTITY appMenuHelp.tooltip "Mở menu trợ giúp">
 
 <!ENTITY appMenuRemoteTabs.label "Các thẻ đã đồng bộ">
@@ -350,8 +357,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.notabs.label "Không có thẻ đang mở">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showMore.label "Hiển thị nhiều hơn">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Hiển thị các thẻ từ thiết bị này">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
+<!ENTITY appMenuRemoteTabs.showAll.label "Hiện tất cả">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Hiển thị các thẻ từ thiết bị này">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.">
@@ -363,6 +374,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.openprefs.label "Tùy chỉnh đồng bộ">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Đăng nhập để xem danh sách thẻ từ các thiết bị khác của bạn.">
 <!ENTITY appMenuRemoteTabs.signin.label "Đăng nhập vào đồng bộ hóa">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Quản lý thiết bị…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Xem thanh lề thẻ đã đồng bộ">
 
 <!ENTITY customizeMenu.addToToolbar.label "Thêm vào thanh công cụ">
@@ -393,6 +405,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+<!ENTITY moreMenu.label "Xem thêm">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Nhập địa chỉ hoặc từ khóa tìm kiếm">
@@ -411,6 +424,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Thay đổi tùy chọn…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Thay đổi tùy chỉnh…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -522,6 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "u">
 <!ENTITY bookmarkThisFrameCmd.label      "Đánh dấu khung này">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "u">
+<!ENTITY copyURLCmd.label             "Sao chép URL">
 <!ENTITY emailPageCmd.label           "Gửi liên kết qua email…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Lưu trang…">
@@ -645,6 +663,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "C">
 
 <!ENTITY sidebarCloseButton.tooltip     "Đóng thanh lề">
+<!ENTITY sidebarMenuClose.label         "Đóng thanh lề">
 
 <!ENTITY quitApplicationCmdWin2.label       "Thoát">
 <!ENTITY quitApplicationCmdWin2.accesskey   "o">
@@ -744,7 +763,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY tabsToolbar.label "Thẻ trình duyệt">
 
 <!-- LOCALIZATION NOTE (syncTabsMenu3.label): This appears in the history menu -->
+<!ENTITY syncTabsMenu3.label     "Các thẻ đã đồng bộ">
 
+<!ENTITY syncedTabs.sidebar.label              "Các thẻ đã đồng bộ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Đăng nhập vào Firefox từ các thiết bị khác của bạn để xem các thẻ đó ở đây.">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
