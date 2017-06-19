@@ -5,7 +5,9 @@
 <!ENTITY aboutSupport.pageTitle "故障排除信息">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "本页面包含了一些技术信息，当您尝试解决某个问题时可能用得上。如果您正在寻找 &brandShortName; 常见问题的答案，请查看我们的<a id='supportLink'>技术支持网站</a>。">
+<!ENTITY aboutSupport.pageSubtitle "  本页面包含了技术信息，在您寻求解决问题时也许能帮上忙。
+  如果您正在寻找 &brandShortName; 常见问题的答案，
+  可以看看我们的<a id='supportLink'>技术支持网站</a>。">
 
 <!ENTITY aboutSupport.crashes.title "崩溃报告">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
@@ -75,7 +77,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "显示于 Finder">
+<!ENTITY aboutSupport.showMac.label "在 Finder 中显示">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "打开文件夹">
@@ -104,7 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "无障碍环境">
 <!ENTITY aboutSupport.a11yActivated "已激活">
 <!ENTITY aboutSupport.a11yForceDisabled "停用无障碍环境">
-<!ENTITY aboutSupport.a11yHandlerUsed "已使用 AccessibleHandler">
+<!ENTITY aboutSupport.a11yHandlerUsed "采用无障碍处理程序">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "库版本">
 
@@ -115,7 +117,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "复制原始数据到剪贴板">
 
 <!ENTITY aboutSupport.sandboxTitle "沙盒">
-<!ENTITY aboutSupport.sandboxSyscallLogTitle "拒绝的系统调用">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "被拒绝的系统调用">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "秒前">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
@@ -133,5 +135,5 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
 <!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
 <!ENTITY aboutSupport.graphicsDecisionLogTitle "决策日志">
-<!ENTITY aboutSupport.graphicsCrashGuardsTitle "崩溃守卫已禁用功能">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "被崩溃守卫禁用的功能">
 <!ENTITY aboutSupport.graphicsWorkaroundsTitle "变通方法">
