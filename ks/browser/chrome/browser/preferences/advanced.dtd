@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "ڈاٹا چویسْہ">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "چُھ توہیہ مدد کران پننِہ براوزرْچ کارکردگی سمجھنس منز تْہ چُھ ڈاٹا شییر کران &amp;وینڈر شاٹ ناو؛ اس سْیت تُہندس براوزر کِس صحتس مُتلق">
 <!ENTITY enableHealthReport.label        "اینیبْل کْریو برانڈ شاٹ ناو؛&amp; ہیلتھ رِپورٹ">
