@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Приступачност">
 <!ENTITY aboutSupport.a11yActivated "Активирана">
 <!ENTITY aboutSupport.a11yForceDisabled "Спречи приступачност">
+<!ENTITY aboutSupport.a11yHandlerUsed "Приступни управљач искоришћен">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Издања библиотека">
 
