@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Nga 'iaj sunj">
 <!ENTITY aboutSupport.a11yForceDisabled "Si ga'ni' gatu'">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Nej versión ma">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Nej sa ga'nin' riñanj">
