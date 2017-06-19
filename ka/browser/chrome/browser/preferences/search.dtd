@@ -11,7 +11,7 @@
 
 <!ENTITY showURLBarSuggestions.label           "ძიების შემოთავაზებები მისამართების ზოლის შედეგებში">
 <!ENTITY showURLBarSuggestions.accesskey       "მ">
-<!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან თქვენ მიუთითეთ, რომ &brandShortName;-მა ისტორია არასდროს დაიმახსოვროს.">
+<!ENTITY urlBarSuggestionsPermanentPB.label    "მდებარეობის ზოლში ძიების შემოთავაზებები არ გამოჩნდება, ვინაიდან &brandShortName;-ს მითითებული აქვს, რომ ისტორია არასდროს დაიმახსოვროს.">
 
 <!ENTITY oneClickSearchEngines.label           "ერთ-წკაპიანი საძიებო სისტემები">
 
