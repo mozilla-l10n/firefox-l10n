@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "供应商">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "上次更新时间">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "下次更新时间">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "退避时间">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "上次更新状态">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "更新">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "缓存">
