@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Relato de dados está desativado para a configuração desta compilação">
+
 <!ENTITY healthReportDesc.label          "Ajuda-lhe a compreender o desempenho do seu navegador e partilha dados com a &vendorShortName; acerca do estado do seu navegador">
 <!ENTITY enableHealthReport.label        "Ativar o relatório de estado do &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
