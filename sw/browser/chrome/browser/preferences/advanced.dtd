@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Chaguo za Data">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Hukusaidia kuelewa utendaji wa kivinjari chako na hushirikisha data na &vendorShortName; kuhusu hali ya kivinjari chako">
 <!ENTITY enableHealthReport.label        "Wezesha Ripoti ya Hali ya &brandShortName;">
