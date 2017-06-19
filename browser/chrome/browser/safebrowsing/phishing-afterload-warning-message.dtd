@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY safeb.palm.accept.label "გამიყვანეთ აქედან!">
+<!ENTITY safeb.palm.accept.label "აქედან გასვლა!">
 <!ENTITY safeb.palm.decline.label "გაფრთხილების იგნორირება">
 <!-- Localization note (safeb.palm.notdeceptive.label) - Label of the Help menu
   item. Either this or reportDeceptiveSiteMenu.label from report-phishing.dtd is
@@ -22,11 +22,11 @@
 
 <!ENTITY safeb.blocked.unwantedPage.title "საიტი, შემჩნეულია არასასურველი პროგრამის გავრცელებაში!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
-<!ENTITY safeb.blocked.unwantedPage.shortDesc "<span id='unwanted_sitename'/> ეს ვებ-გვერდი შემჩნეულია, რომ შეიცავს არასასურველ პროგრამას და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
-<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>არასასურველი საიტი ცდილობს დააყენოს პროგრამა, რომელიც შეიძლება იყოს თაღლითური და საზიანო თქვენი სისტემისთვის.</p>">
+<!ENTITY safeb.blocked.unwantedPage.shortDesc "ვებ-გვერდი <span id='unwanted_sitename'/> შემჩნეულია, არასასურველი პროგრამის გავრცელებაში და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
+<!ENTITY safeb.blocked.unwantedPage.longDesc "<p>მსგავსი საიტები ცდილობს დააყენოს არასასურველი პროგრამა, რომელსაც შეუძლია თაღლითური ან სხვა გაუთვალისწინებელი ხერხებით სისტემისთვის ზიანის მოყენება.</p>">
 
 <!ENTITY safeb.blocked.phishingPage.title2 "თაღლითური საიტი!">
 <!-- Localization note (safeb.blocked.phishingPage.shortDesc2) - Please don't translate the contents of the <span id="phishing_sitename"/> tag. It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.phishingPage.shortDesc2 "ვებ-გვერდი <span id='phishing_sitename'/> ცნობილია როგორც თაღლითური საიტი და შეზღუდულია თქვენი უსაფრთხოების პარამეტრების შესაბამისად.">
-<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>მატყუარა საიტები შექმნილია თქვენი გაცურების , მაგალითად არასასურველი პროგრამის დაყენების, ან თქვენი პირადი ინფორმაციის, როგორიცაა პაროლები, ტელეფონის ნომრები და საკრედიტო ბარათების გამოჩენის მიზნით .</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანამ შესაძლოა იდენტურობის ქურდობა ან სხვა თაღლითობა გამოიწვიოს .</p>">
+<!ENTITY safeb.blocked.phishingPage.longDesc2 "<p>თაღლითური საიტები შექმნილია, რომ მოტყუებით გაგაკეთებინოთ რამე საშიში ქმედება, როგორიცაა არასასურველი პროგრამის დაყენება, ან თქვენი პირადი მონაცემების, პაროლების, ტელეფონის ნომრების და საკრედიტო ბარათების ხელყოფა.</p><p>ამ ვებ-გვერდზე ნებისმიერი სახის ინფორმაციის შეყვანით, შესაძლოა ქურდობის ან თაღლითობის მსხვერპლი გახდეთ.</p>">
 
