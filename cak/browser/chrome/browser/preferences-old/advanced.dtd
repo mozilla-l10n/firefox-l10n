@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "n">
 
 <!ENTITY dataChoicesTab.label            "Kicha'ik taq tzij">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Xkaruto' richin niq'ax pan awi' rub'eyal nisamäj ri owokik'amaya'l chuqa' nukomonij taq tzij rik'in &vendorShortName; chi rij ri raxnaqil">
 <!ENTITY enableHealthReport.label        "Rutzijol Raxnaqil &brandShortName;">
