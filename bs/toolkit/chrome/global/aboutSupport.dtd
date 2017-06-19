@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktivirana">
 <!ENTITY aboutSupport.a11yForceDisabled "Prevencija pristupačnosti">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Verzije biblioteke">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Historija instalacije">
