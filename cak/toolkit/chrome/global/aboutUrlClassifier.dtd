@@ -8,7 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Ajya'öl">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ruk'isib'äl ruq'ijul toq xk'ex">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Jun chik ruq'ijul toq xtik'ex">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Ramaj richin chi rij">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Rub'anikil ri ruk'isib'äl k'exoj">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Tik'ex">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Jumejyak">
