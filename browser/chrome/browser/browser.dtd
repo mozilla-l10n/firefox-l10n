@@ -13,10 +13,10 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(პირადი სეანსი)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(პირადი ფანჯარა)">
 
 <!ENTITY appmenu.tooltip                     "მენიუს გახსნა">
-<!ENTITY navbarOverflow.label                "მეტი ხელსაწყო...">
+<!ENTITY navbarOverflow.label                "დამატებითი ხელსაწყოები...">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ჩანართის განახლება">
@@ -27,9 +27,9 @@
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "მარჯვენა ჩანართების დახურვა">
-<!ENTITY  closeTabsToTheEnd.accesskey        "ა">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ჯ">
 <!ENTITY  closeOtherTabs.label               "სხვა ჩანართების დახურვა">
-<!ENTITY  closeOtherTabs.accesskey           "ვ">
+<!ENTITY  closeOtherTabs.accesskey           "ს">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -37,19 +37,19 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ჩანართის მიმაგრება">
-<!ENTITY  pinTab.accesskey                   "მ">
+<!ENTITY  pinTab.accesskey                   "რ">
 <!ENTITY  unpinTab.label                     "ჩანართის მოხსნა">
 <!ENTITY  unpinTab.accesskey                 "ხ">
 <!ENTITY  sendTabToDevice.label              "ჩანართის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendTabToDevice.accesskey          "მ">
+<!ENTITY  sendTabToDevice.accesskey          "ჩ">
 <!ENTITY  sendPageToDevice.label             "გვერდის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendPageToDevice.accesskey         "მ">
+<!ENTITY  sendPageToDevice.accesskey         "გ">
 <!ENTITY  sendLinkToDevice.label             "ბმულის გაგზავნა მოწყობილობაზე">
-<!ENTITY  sendLinkToDevice.accesskey         "მ">
+<!ENTITY  sendLinkToDevice.accesskey         "ბ">
 <!ENTITY  moveToNewWindow.label              "ახალ ფანჯარაში გადატანა">
 <!ENTITY  moveToNewWindow.accesskey          "ფ">
 <!ENTITY  bookmarkAllTabs.label              "ყველა ჩანართის ჩანიშვნა…">
-<!ENTITY  bookmarkAllTabs.accesskey          "ნ">
+<!ENTITY  bookmarkAllTabs.accesskey          "ყ">
 <!ENTITY  undoCloseTab.label                 "დახურული ჩანართის დაბრუნება">
 <!ENTITY  undoCloseTab.accesskey             "დ">
 <!ENTITY  closeTab.label                     "ჩანართის დახურვა">
@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
 <!ENTITY identity.description.passiveLoaded "კავშირი დაუცველია და თქვენ მიერ ამ საიტთან გაზიარებული ინფორმაცია შესაძლოა სხვებმაც ნახონ.">
 <!ENTITY identity.description.passiveLoaded2 "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სურათები).">
-<!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName;-მა გარკვეული შიგთავსი დაბლოკა, რაღაცეები მაინც დაუცველი დარჩა (მაგალითად სურათები).">
+<!ENTITY identity.description.passiveLoaded3 "მიუხედავად იმისა, რომ &brandShortName;-მა გარკვეული შიგთავსი შეზღუდა, დაუცველი ნაწილი მაინც დარჩა (მაგალითად სურათები).">
 <!ENTITY identity.description.activeLoaded "ეს ვებ-საიტი შეიცავს შიგთავსს, რომელიც დაუცველია (მაგალითად სკრიპტები) და თქვენი კავშირი პირადი არაა.">
 <!ENTITY identity.description.activeLoaded2 "ინფორმაცია, რომელსაც ამ საიტს გაუზიარებთ შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
 
@@ -895,7 +895,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
 <!ENTITY pluginActivateNow.label "ახლა დაშვება">
 <!ENTITY pluginActivateAlways.label "დაშვება და დამახსოვრება">
-<!ENTITY pluginBlockNow.label "პლაგინის დაბლოკვა">
+<!ENTITY pluginBlockNow.label "აკრძალვა">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been

@@ -14,7 +14,7 @@
 <!ENTITY  enableSafeBrowsing.label        "სახიფათო და თაღლითური შიგთავსის შეზღუდვა">
 <!ENTITY  enableSafeBrowsing.accesskey    "ბ">
 
-<!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების დაბლოკვა">
+<!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების აკრძალვა">
 <!ENTITY  blockDownloads.accesskey        "დ">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "გაფრთხილება არასასურველი და უჩვეულო პროგრამების შესახებ">

@@ -7,7 +7,7 @@
 <!ENTITY tapToPlayPlugin                                     "მოდულის ასამოქმედებლად შეეხეთ აქ.">
 <!ENTITY clickToActivatePlugin                               "მოდულის ამოქმედება.">
 <!ENTITY checkForUpdates                                     "განახლებების შემოწმება…">
-<!ENTITY blockedPlugin.label                                 "მოდული დაბლოკილია უსაფრთხოების მიზნით.">
+<!ENTITY blockedPlugin.label                                 "მოდული ამორთულია უსაფრთხოების მიზნით.">
 <!ENTITY hidePluginBtn.label                                 "მოდულის დამალვა">
 <!ENTITY managePlugins                                       "მოდულების გამართვა…">
 
