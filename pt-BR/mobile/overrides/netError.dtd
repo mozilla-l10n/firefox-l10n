@@ -97,8 +97,7 @@
 <!ENTITY unknownProtocolFound.longDesc "
 <ul>
   <li>Você talvez precise instalar outro software para abrir este endereço.</li>
-</ul>
-">
+</ul>">
 
 <!ENTITY proxyConnectFailure.title "Conexão recusada pelo servidor proxy">
 <!ENTITY proxyConnectFailure.longDesc "<ul> 
