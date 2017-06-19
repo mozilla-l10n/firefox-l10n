@@ -90,6 +90,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Холбоо">
 <!ENTITY aboutSupport.a11yForceDisabled "Холбоммот гын">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Бибилитиэкэлэр барыллара">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Туруоруу сурунаала">

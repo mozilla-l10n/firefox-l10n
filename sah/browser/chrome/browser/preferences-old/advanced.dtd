@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Дааннайдары талыы">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Эн браузерыҥ төһө сыыдамын туһунан билэргэ уонна үлэтин туһунан &vendorShortName;-ҕа кэпсииргэ көмөлөһөр ">
 <!ENTITY enableHealthReport.label        "&brandShortName; үлэтин туһунан отчуоту холбоо">
