@@ -25,26 +25,26 @@
 <!ENTITY GroupName.accesskey "Т">
 
 
+<!ENTITY InitialValue.label "Бастапқы мәні:">
+<!ENTITY InitialValue.accesskey "Б">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY InputReadOnly.label "Тек оқу үшін">
+<!ENTITY InputReadOnly.accesskey "о">
+<!ENTITY InputDisabled.label "Сөндірілген">
+<!ENTITY InputDisabled.accesskey "д">
+<!ENTITY tabIndex.label "Табуляция реті:">
+<!ENTITY tabIndex.accesskey "е">
+<!ENTITY TextSize.label "Өріс өлшемі:">
+<!ENTITY TextSize.accesskey "р">
+<!ENTITY TextLength.label "Максималды ұзындығы:">
+<!ENTITY TextLength.accesskey "з">
+<!ENTITY AccessKey.label "Қатынау кілті:">
+<!ENTITY AccessKey.accesskey "к">
+<!ENTITY Accept.label "Түрлерді қабылдау:">
+<!ENTITY Accept.accesskey "а">
 
 <!ENTITY ImageProperties.label "Сурет қасиеттері…">
 <!ENTITY ImageProperties.accesskey "т">

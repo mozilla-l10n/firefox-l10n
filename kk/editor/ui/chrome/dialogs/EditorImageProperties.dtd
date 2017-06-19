@@ -10,16 +10,18 @@
 <!ENTITY pixelsPopup.value "пиксель">
 <!-- These are in the Location tab panel -->
 
+<!ENTITY locationEditField.label "Суреттің орналасуы:">
+<!ENTITY locationEditField.accessKey "л">
+<!ENTITY locationEditField.tooltip "Суреттің файл атын не орналасуын енгізіңіз">
 
 
 
 
-
-
-
-
-
-
+<!ENTITY altText.label "Балама мәтін:">
+<!ENTITY altText.accessKey "а">
+<!ENTITY altTextEditField.tooltip "Суреттің орнына көрсетілетін мәтінді теріңіз">
+<!ENTITY noAltText.label "Балама мәтінді қолданбау">
+<!ENTITY noAltText.accessKey "д">
 
 <!ENTITY previewBox.label "Суретті алдын-ала қарау">
 <!-- These controls are in the Dimensions tab panel -->
@@ -31,14 +33,14 @@
 <!ENTITY actualSizeRadio.tooltip "Суреттің нақты өлшеміне қайтару">
 <!ENTITY customSizeRadio.label "Таңдауыңызша өлшем">
 <!ENTITY customSizeRadio.accessKey "л">
-
+<!ENTITY customSizeRadio.tooltip "Сурет өлшемін парақтағы көрсетілгендей өзгерту">
 <!ENTITY heightEditField.label "Биіктігі:">
 <!ENTITY heightEditField.accessKey "и">
 <!ENTITY widthEditField.label "Ені:">
 <!ENTITY widthEditField.accessKey "Е">
-
-
-
+<!ENTITY constrainCheckbox.label "Шектеу">
+<!ENTITY constrainCheckbox.accessKey "Ш">
+<!ENTITY constrainCheckbox.tooltip "Сурет жақтарының арақатынасын сақтау">
 <!-- These controls are in the Image Map box of the expanded area -->
 
 <!ENTITY imagemapBox.label "Суретінің картасы">
