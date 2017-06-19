@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Izbori podataka">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Pomaže vam shvatiti performanse vašeg preglednika, te šalje podatke kako bi &vendorShortName; bila upoznata o zdravlju vašeg preglednika">
 <!ENTITY enableHealthReport.label        "Omogući &brandShortName; izvještaj zdravlja">
