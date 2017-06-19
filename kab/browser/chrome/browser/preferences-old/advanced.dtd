@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-agi n usefsu">
+
 <!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig-inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig-inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
