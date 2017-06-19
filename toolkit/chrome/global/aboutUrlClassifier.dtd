@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Провайдер">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Соңғы жаңарту уақыты">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Келесі жаңарту уақыты">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Соңғы жаңарту қалып-күйі">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Жаңарту">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
