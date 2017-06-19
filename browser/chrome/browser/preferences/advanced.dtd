@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Datakeuses">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Help om die blaaier se werkverrigting te verstaan en deel data met &vendorShortName; oor die blaaier se gesondheid">
 <!ENTITY enableHealthReport.label        "Aktiveer &brandShortName;-gesondheidsverslag">
