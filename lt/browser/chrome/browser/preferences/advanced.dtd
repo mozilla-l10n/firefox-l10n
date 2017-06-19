@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "k">
 
 <!ENTITY dataChoicesTab.label            "Duomenų siuntimas">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Padeda jums įvertinti naršyklės našumą ir siunčia „&vendorShortName;i“ duomenis apie naršyklės techninę būklę">
 <!ENTITY enableHealthReport.label        "Įgalinti „&brandShortName;“ sveikatos būklės ataskaitas">
