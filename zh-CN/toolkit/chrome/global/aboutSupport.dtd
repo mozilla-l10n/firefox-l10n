@@ -104,6 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "无障碍环境">
 <!ENTITY aboutSupport.a11yActivated "已激活">
 <!ENTITY aboutSupport.a11yForceDisabled "停用无障碍环境">
+<!ENTITY aboutSupport.a11yHandlerUsed "已使用 AccessibleHandler">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "库版本">
 
