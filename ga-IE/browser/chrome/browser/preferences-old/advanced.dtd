@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Roghanna Sonraí">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht an bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do leagan den bhrabhsálaí chuig &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cumasaigh Tuairisc Shláinte &brandShortName;">

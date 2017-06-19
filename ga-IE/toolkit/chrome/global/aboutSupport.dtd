@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Gníomhachtaithe">
 <!ENTITY aboutSupport.a11yForceDisabled "Coisc Inrochtaineacht">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Leaganacha Leabharlann">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Stair Suiteála">
