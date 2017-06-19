@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "თქვენს მიმთითებლს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
+<!ENTITY pointerlockWarning.afterDomain.label "თქვენს მიმთითებელს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
 <!ENTITY pointerlockWarning.generic.label "ეს დოკუმენტი მიმთითებლს აკონტროლებს. კონტროლის დასაბრუნებლად დააჭირეთ Esc ღილაკს.">
 
 <!ENTITY closeWindow.label "ფანჯრის დახურვა">
@@ -755,7 +755,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "ეს გვერდი სუსტ დაშიფვრას იყენებს.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "თქვენი კავშირი ამ საიტთან დაცული არ არის. თქვენს მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
+<!ENTITY identity.description.insecure "კავშირი ამ საიტთან დაცული არ არის. თქვენ მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
 <!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი ანგარიშის მონაცემები დაუცველია და შესაძლოა მოიპარონ.">
 <!ENTITY identity.description.weakCipher "ამ ვებ-საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.">
 <!ENTITY identity.description.weakCipher2 "სხვა ხალხსაც შეუძლია თქვენი ინფორმაციის ნახვა ან ვებ-საიტის ქცევის შეცვლა.">
@@ -835,7 +835,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY social.addons.label "მომსახურებების მართვა…">
 
 <!ENTITY social.directory.label "აქტივაციების დირექტორია">
-<!ENTITY social.directory.text "თქვენ გაზიარების მომსახურებების გააქტიურება დირექტორიიდან შეგიძლიათ.">
+<!ENTITY social.directory.text "გაზიარების მომსახურებების გააქტიურება დირექტორიიდან შეგიძლიათ.">
 <!ENTITY social.directory.button "იქ გადამიყვანეთ!">
 <!ENTITY social.directory.introText "დააწკაპეთ მომსახურებს &brandShortName;-ს დასამატებლად.">
 <!ENTITY social.directory.viewmore.text "მეტის ნახვა">
@@ -860,11 +860,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.selectMicrophone.label "გასაზიარებელი მიკროფონი:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "მ">
 <!ENTITY getUserMedia.audioCapture.label "ჩანართიდან აუდიო გაზიარდება.">
-<!ENTITY getUserMedia.allWindowsShared.message "თქვენს ეკრანზე ხილული ყველა ფანჯარა გაზიარდება.">
+<!ENTITY getUserMedia.allWindowsShared.message "ეკრანზე ნაჩვენები ყველა ფანჯარა გაზიარდება.">
 
 <!ENTITY trackingProtection.title "თვალყურისგან დაცვა">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ბლოკავს გვერდის ნაწილებს, რომლებიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "ეს საიტი შეიცავს ელემენტებს, რომელიც შესაძლოა თქვენს ბრაუზინგს აღრიცხავდეს. თქვენ დაცვა გამორთული გაქვთ.">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; ზღუდავს საიტის იმ ნაწილებს, რომლებსაც თქვენს მოქმედებებზე თვალყურის დევნება შეუძლია.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "საიტი შეიცავს ნაწილებს, რომელის შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს. თქვენ გამორთული გაქვთ დაცვა.">
 <!ENTITY trackingProtection.notDetected3 "ამ გვერდზე მოთვალთვალე ელემენტები არ აღმოჩენილა.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
@@ -880,7 +880,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.accesskey "რ">
 
 <!ENTITY trackingContentBlocked.message "თვალყური">
-<!ENTITY trackingContentBlocked.moreinfo "გვერდის ნაწილები, რომელიც შესაძლოა თქვენს ონლაინ აქტივობას აღრიცხავდეს, დაიბლოკა.">
+<!ENTITY trackingContentBlocked.moreinfo "გვერდის ნაწილები, რომელიც შესაძლოა თქვენს მოქმედებებს აღრიცხავდეს, შეიზღუდა.">
 <!ENTITY trackingContentBlocked.learnMore "გაიგეთ მეტი">
 <!ENTITY trackingContentBlocked.options "პარამეტრები">
 <!ENTITY trackingContentBlocked.unblock2.label "ამ საიტზე დაცვის გამორთვა">
@@ -929,14 +929,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.undoWarning             "ეს ქმედება შეუქცევადია.">
 <!ENTITY panicButton.view.forgetButton            "დავივიწყოთ!">
 
-<!ENTITY panicButton.thankyou.msg1                "თქვენი ბოლო ისტორია გასუფთავებულია.">
+<!ENTITY panicButton.thankyou.msg1                "ბოლოს მონახულებული გვერდების ისტორია გასუფთავებულია.">
 <!ENTITY panicButton.thankyou.msg2                "უსაფრთხო ბრაუზინგი!">
 <!ENTITY panicButton.thankyou.buttonlabel         "გმადლობთ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "განაახლეთ თქვენი &brandShorterName; გაუმჯობესებული სიჩქარისა და უსაფრთხოებისთვის.">
+<!ENTITY updateAvailable.message "განაახლეთ &brandShorterName; გაუმჯობესებული სიჩქარისა და უსაფრთხოებისთვის.">
 <!ENTITY updateAvailable.whatsnew.label "იხილეთ სიახლეები.">
 <!ENTITY updateAvailable.header.message "ახალი &brandShorterName; განახლება ხელმისაწვდომია.">
 <!ENTITY updateAvailable.acceptButton.label "განახლების ჩამოტვირთვა">
