@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Aktibatuta">
 <!ENTITY aboutSupport.a11yForceDisabled "Eragotzi erabilgarritasuna">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Liburutegien bertsioak">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instalazioaren historia">

@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Hornitzailea">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Azken eguneraketa">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Hurrengo eguneraketa">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Azken eguneraketaren egoera">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Eguneratu">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cachea">
