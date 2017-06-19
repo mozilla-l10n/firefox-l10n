@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "माहिती पर्याय">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास आपली मदत करतो व ब्राउझरची प्रकृती &vendorShortName; सह शेअर करतो">
 <!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
