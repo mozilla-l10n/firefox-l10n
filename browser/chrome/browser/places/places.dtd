@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Tafoege">
 <!ENTITY col.lastmodified.label  "Lêst wizige">
 
-<!ENTITY search.label                              "Sykje:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "Sykje">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "Selektearje in item om te besjen en de eigenskippen te bewurkjen">
 
-<!ENTITY find.label               "Sykje:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Byld">
 <!ENTITY view.accesskey           "B">
 <!ENTITY byDate.label             "Op datum">

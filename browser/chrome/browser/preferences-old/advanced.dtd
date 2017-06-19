@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Gegevensopsjes">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Gegevensrapporten binne foar dizze build-konfiguraasje útskeakele">
+
 <!ENTITY healthReportDesc.label          "Helpt jo jo browserprestaasjes te begripen en dielt gegevens mei &vendorShortName; oer jo browsersûnens">
 <!ENTITY enableHealthReport.label        "&brandShortName;-steatrapport ynskeakelje">
 <!ENTITY enableHealthReport.accesskey    "R">
