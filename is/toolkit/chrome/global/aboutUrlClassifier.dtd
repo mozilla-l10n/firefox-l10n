@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Þjónustuaðili">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Seinast uppfært">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Næsti uppfærslutími">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Seinasta uppfærslustaða">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Uppfæra">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Skyndiminni">
