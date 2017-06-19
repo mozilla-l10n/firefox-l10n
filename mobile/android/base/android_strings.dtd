@@ -395,7 +395,7 @@
 <!ENTITY pref_private_data_formdata2 "Гісторыя формаў">
 <!ENTITY pref_private_data_cookies2 "Кукі і актыўныя сеансы">
 <!ENTITY pref_private_data_passwords2 "Захаваныя лагіны">
-<!ENTITY pref_private_data_cache "Запаснік">
+<!ENTITY pref_private_data_cache "Кэш">
 <!ENTITY pref_private_data_offlineApps "Пазасеткавыя дадзеныя вэб-сайтаў">
 <!ENTITY pref_private_data_siteSettings2 "Налады сайта">
 <!ENTITY pref_private_data_downloadFiles2 "Сцягванні">
