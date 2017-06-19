@@ -64,7 +64,7 @@
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
-<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისავდომი &brandShortName;-ის მეხსიერებაში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კიდევ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ ჩამოსატვირთად</li></ul>">
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისაწვდომი &brandShortName;-ის კეშში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კიდევ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ მოთხოვნისთვის.</li></ul>">
 
 <!ENTITY netOffline.title "ავტონომიური რეჟიმი">
 <!ENTITY netOffline.longDesc2 "<ul>

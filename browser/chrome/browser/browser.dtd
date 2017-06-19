@@ -98,7 +98,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "გვერდის მონაცემები">
 <!ENTITY pageInfoCmd.accesskey "ი">
 <!ENTITY pageInfoCmd.commandkey "i">
-<!ENTITY mirrorTabCmd.label "ჩანართის სარკე">
+<!ENTITY mirrorTabCmd.label "ჩანართის გადაცემა">
 <!ENTITY mirrorTabCmd.accesskey "ს">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
@@ -514,16 +514,16 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "პ">
 <!ENTITY openLinkCmdInCurrent.label     "ბმულის გახსნა">
 <!ENTITY openLinkCmdInCurrent.accesskey "გ">
-<!ENTITY openFrameCmdInTab.label      "ბლოკის ახალ დაფაზე გახსნა">
+<!ENTITY openFrameCmdInTab.label      "ჩარჩოს ახალ ჩანართში გახსნა">
 <!ENTITY openFrameCmdInTab.accesskey  "T">
-<!ENTITY openFrameCmd.label           "ბლოკის ახალ ფანჯარაში გახსნა">
+<!ENTITY openFrameCmd.label           "ჩარჩოს ახალ ფანჯარაში გახსნა">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "ბმულის გახსნა ახალ სათავს ჩანართში">
 <!ENTITY openLinkCmdInContainerTab.accesskey "ს">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "ბლოკის განახლება">
+<!ENTITY reloadFrameCmd.label         "ჩარჩოს განახლება">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
@@ -536,7 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "V">
 <!ENTITY viewPageInfoCmd.label        "გვერდის მონაცემების ჩვენება">
 <!ENTITY viewPageInfoCmd.accesskey    "I">
-<!ENTITY viewFrameInfoCmd.label       "ბლოკის მონაცემების ჩვენება">
+<!ENTITY viewFrameInfoCmd.label       "ჩარჩოს მონაცემების ჩვენება">
 <!ENTITY viewFrameInfoCmd.accesskey   "I">
 <!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
 <!ENTITY reloadImageCmd.accesskey     "R">
@@ -565,9 +565,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "ც">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "ბლოკის შენახვა როგორც…">
+<!ENTITY saveFrameCmd.label           "ჩარჩოს შენახვა როგორც…">
 <!ENTITY saveFrameCmd.accesskey       "F">
-<!ENTITY printFrameCmd.label          "ბლოკის დაბეჭდვა…">
+<!ENTITY printFrameCmd.label          "ჩარჩოს ამობეჭდვა…">
 <!ENTITY printFrameCmd.accesskey      "P">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
 <!ENTITY saveLinkCmd.accesskey        "ს">
@@ -585,9 +585,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "მ">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელ-ფოსტით…">
 <!ENTITY emailAudioCmd.accesskey      "დ">
-<!ENTITY playPluginCmd.label          "მიმდინარე მოდულის ჩართვა">
+<!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
 <!ENTITY playPluginCmd.accesskey      "ჩ">
-<!ENTITY hidePluginCmd.label          "მიმდინარე მოდულის დამალვა">
+<!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
 <!ENTITY copyLinkCmd.label            "ბმულის კოპირება">
 <!ENTITY copyLinkCmd.accesskey        "ბ">
@@ -601,7 +601,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "ო">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
 <!ENTITY copyEmailCmd.accesskey       "ე">
-<!ENTITY thisFrameMenu.label              "ეს ბლოკი">
+<!ENTITY thisFrameMenu.label              "ეს ჩარჩო">
 <!ENTITY thisFrameMenu.accesskey          "h">
 
 <!-- Media (video/audio) controls -->
@@ -890,12 +890,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.disabled.message "თვალყურისგან დაცვა გამორთულია">
 
 <!ENTITY pluginNotification.showAll.label "ყველას ჩვენება">
-<!ENTITY pluginNotification.showAll.accesskey "ნ">
+<!ENTITY pluginNotification.showAll.accesskey "ყ">
 
 <!-- LOCALIZATION NOTE (pluginActivateNow.label, pluginActivateAlways.label, pluginBlockNow.label): These should be the same as the matching strings in browser.properties -->
-<!ENTITY pluginActivateNow.label "ახლა დაშვება">
+<!ENTITY pluginActivateNow.label "დაშვება ახლა">
 <!ENTITY pluginActivateAlways.label "დაშვება და დამახსოვრება">
-<!ENTITY pluginBlockNow.label "აკრძალვა">
+<!ENTITY pluginBlockNow.label "შეჩერება">
 
 <!-- LOCALIZATION NOTE: (pluginNotification.width): This is used to determine the
      width of the plugin popup notification that can appear if a plugin has been
