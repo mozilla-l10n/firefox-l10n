@@ -105,6 +105,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "सुरू केले">
 <!ENTITY aboutSupport.a11yForceDisabled "ॲक्सेसिबिलिटि टाळा">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "लाइब्ररि आवृत्ती">
 
 <!ENTITY aboutSupport.installationHistoryTitle "प्रतिष्ठापन इतिहास">
