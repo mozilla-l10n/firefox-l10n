@@ -3,11 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Window title -->
 
+
+<!ENTITY windowTitle.label "Горизонталды сызық қасиеттері">
+
 <!ENTITY dimensionsBox.label "Өлшемдері">
-
-
-
-
+<!ENTITY heightEditField.label "Биіктігі:">
+<!ENTITY heightEditField.accessKey "и">
+<!ENTITY widthEditField.label "Ені:">
+<!ENTITY widthEditField.accessKey "Е">
 <!ENTITY pixelsPopup.value "пиксель">
 <!ENTITY alignmentBox.label "Туралануы">
 <!ENTITY leftRadio.label "Сол жақ">

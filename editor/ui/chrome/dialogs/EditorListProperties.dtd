@@ -11,10 +11,10 @@
 
 
 <!ENTITY none.value "Ешнәрсе">
-
+<!ENTITY bulletList.value "Маркерленген (нөмірленбеген) тізім">
 <!ENTITY numberList.value "Нөмірленген тізім">
 <!ENTITY definitionList.value "Анықтама тізімі">
-
-
-
-
+<!ENTITY changeEntireListRadio.label "Толық тізімді өзгерту">
+<!ENTITY changeEntireListRadio.accessKey "з">
+<!ENTITY changeSelectedRadio.label "Тек таңдалған нәрселерді өзгерту">
+<!ENTITY changeSelectedRadio.accessKey "н">

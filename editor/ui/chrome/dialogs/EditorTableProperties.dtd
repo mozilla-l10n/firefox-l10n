@@ -29,10 +29,10 @@
 
 
 
-
-
-
-
+<!ENTITY tableCaptionAbove.label          "Кестенің үстінде">
+<!ENTITY tableCaptionBelow.label          "Кестенің астында">
+<!ENTITY tableCaptionLeft.label           "Кестенің сол жағынан">
+<!ENTITY tableCaptionRight.label          "Кестенің оң жағынан">
 <!ENTITY tableCaptionNone.label           "Ешнәрсе">
 
 
@@ -44,8 +44,8 @@
 <!ENTITY cellSelectNext.accessKey         "К">
 <!ENTITY cellSelectPrevious.label         "Алдыңғысы">
 <!ENTITY cellSelectPrevious.accessKey     "А">
-
-
+<!ENTITY applyBeforeChange.label          "Ағымдағы өзгерістер таңдауды өзгерту алдында іске асырылатын болады.">
+<!ENTITY cellContentAlignment.label       "Құраманың туралануы">
 <!ENTITY cellHorizontal.label             "Горизонталды:">
 <!ENTITY cellHorizontal.accessKey         "з">
 <!ENTITY cellVertical.label               "Вертикалды:">

@@ -12,25 +12,25 @@
 
 <!ENTITY siteList.label               "Сайт аты:">
 <!ENTITY siteList.accesskey           "й">
-
+<!ENTITY siteList.tooltip             "Жариялау үшін сайтты таңдаңыз">
 <!ENTITY newSiteButton.label          "Жаңа сайт">
 <!ENTITY newSiteButton.accesskey      "Ж">
-
-
+<!ENTITY docDirList.label             "Бұл парақ үшін сайттың ішкі бумасы:">
+<!ENTITY docDirList.accesskey         "с">
 <!ENTITY docDirList.tooltip           "Бұл парақ үшін қашықтағы буманың атын таңдаңыз немесе енгізіңіз">
-
-
-
+<!ENTITY publishImgCheckbox.label     "Суретте және басқа файлдарды қоса">
+<!ENTITY publishImgCheckbox.accesskey "а">
+<!ENTITY publishImgCheckbox.tooltip   "Бұл парақта көрсетілгендей, суреттер және басқа файлдарды жариялау">
 
 
 
 
 
 <!ENTITY useSubdirRadio.tooltip       "Файлдарды таңдалған қашықтағы ішкі бумасына жариялау">
-
+<!ENTITY otherDirList.tooltip         "Файлдар жарияланатын қашықтағы ішкі буманың атын таңдаңыз немесе енгізіңіз">
 <!ENTITY pageTitle.label              "Беттің атауы:">
 <!ENTITY pageTitle.accesskey          "т">
-
+<!ENTITY pageTitle.tooltip            "Парақты терезеде және бетбелгілерде анықтау үшін оның атауын енгізіңіз">
 <!ENTITY pageTitleExample.label       "мыс.: &quot;Менің веб парағым&quot;">
 <!ENTITY filename.label               "Файл аты:">
 <!ENTITY filename.accesskey           "Ф">
@@ -50,10 +50,10 @@
 <!ENTITY siteName.tooltip             "Бұл жариялау сайтын анықтайтын бүркеншік аты (мыс.: &quot;МеніңСайтым&quot;)">
 <!ENTITY siteUrl.label                "Жариялау адресі (мыс.: 'ftp://ftp.myisp.com/myusername'):">
 <!ENTITY siteUrl.accesskey            "а">
-
-
-
-
+<!ENTITY siteUrl.tooltip              "Сіздің провайдеріңіз немесе хостинг қызметі ұсынған FTP:// немесе HTTP:// адресі">
+<!ENTITY browseUrl.label              "Үй парағыңыздың HTTP адресі (e.g.: 'http://www.myisp.com/myusername'):">
+<!ENTITY browseUrl.accesskey          "а">
+<!ENTITY browseUrl.tooltip            "Үй бумаңыздың HTTP:// адресі (файл атын қоспаңыз)">
 <!ENTITY username.label               "Пайдаланушы аты:">
 <!ENTITY username.accesskey           "й">
 
