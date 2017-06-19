@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Póbitowaŕ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Cas slědneje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Cas pśiduceje aktualizacije">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Slědkstajeński cas">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status slědneje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizacija">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">

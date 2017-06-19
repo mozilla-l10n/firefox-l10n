@@ -27,6 +27,11 @@
 <!ENTITY checkUserSpelling.accesskey     "P">
 
 <!ENTITY dataChoicesTab.label            "Datowy wuběrk">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
+<!ENTITY healthReportingDisabled.label   "Datowe rozpšawjenje jo znjemóžnjone za toś tu programowu konfiguraciju">
 
 <!ENTITY healthReportDesc.label          "Pomaga wam, wugbaśe wašogo wobglědowaka rozměś a źěli daty z &vendorShortName; wó statusu wašogo wobglědowaka">
 <!ENTITY enableHealthReport.label        "&brandShortName; - statusowu rozpšawu zmóžniś">
