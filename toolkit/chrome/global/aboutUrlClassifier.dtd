@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Furnidor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Zaguer tiempo d'actualización">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Nuevo tiempo d'actualización">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Zaguero estau d'actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
