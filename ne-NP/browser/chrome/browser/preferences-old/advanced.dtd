@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "डाटा चयनहरू">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "तपाईँलाई तपाईँको ब्राउजरको प्रदर्शन र तथ्याङ्क हिस्सा सहित तपाईँको ब्राउजर स्वास्थ्यबारे बुझ्न मद्दत गर्दछ र तपाईँको ब्राउजर स्वास्थ्यबारे तथ्याङ्क &vendorShortName; सँग बाँड्दछ ।">
 <!ENTITY enableHealthReport.label        " &brandShortName; को स्वास्थ्य रिपोर्ट सक्षम पार्नुहोस्">
