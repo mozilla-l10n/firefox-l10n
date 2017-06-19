@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Vebijarkên daneyan">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Alîkariyê dide te ku performansa geroka xwe fêm bikî û zanyariyên derbarê tenduristiya geroka te de bi &vendorShortName;ê re parve dike">
 <!ENTITY enableHealthReport.label        "Rapora Tenduristiyê ya &brandShortName;ê çalak bike">
