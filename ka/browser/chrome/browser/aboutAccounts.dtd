@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.welcome "მოგესალმებათ &syncBrand.shortName.label;">
 
-<!ENTITY aboutAccountsConfig.description "შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების &amp; მეტის სინქრონიზაციისთვის.">
+<!ENTITY aboutAccountsConfig.description "შედით სისტემაში თქვენი ჩანართების, სანიშნეების, პაროლების &amp; ა.შ. დასინქრონებისთვის.">
 <!ENTITY aboutAccountsConfig.startButton.label "დაიწყეთ">
 <!ENTITY aboutAccountsConfig.syncPreferences.label "სინქრონიზაციის პარამეტრები">
 <!ENTITY aboutAccounts.noConnection.title "კავშირი არაა">

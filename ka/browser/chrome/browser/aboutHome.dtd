@@ -20,7 +20,7 @@
 -->
 <!ENTITY abouthome.defaultSnippet2.v1 "Firefox-ის საკუთარ თავზე მორგება ძალიან მარტივია. <a>აირჩიეთ სასურველი ათასობით დამატებიდან</a>.">
 <!-- LOCALIZATION NOTE (abouthome.rightsSnippet): text in <a/> will be linked to about:rights -->
-<!ENTITY abouthome.rightsSnippet "&brandFullName; უფასო და ღია წყაროს პროგრამაა არაკომერციული Mozilla ფონდისგან. <a>გაიგეთ თქვენს უფლებებზე…</a>">
+<!ENTITY abouthome.rightsSnippet "&brandFullName; უფასო და ღია წყაროს პროგრამაა არამომგებიანი Mozilla ფონდისგან. <a>გაეცანით თქვენს უფლებებს…</a>">
 
 <!ENTITY abouthome.bookmarksButton.label "სანიშნეები">
 <!ENTITY abouthome.historyButton.label   "ისტორია">
