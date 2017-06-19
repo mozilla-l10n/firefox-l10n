@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "մ">
 
 <!ENTITY dataChoicesTab.label            "Ընտրել տվյալները">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Օգնում է տեղեկանալ դիտարկիչի արագագործությանը և համօգտագործել տվյալները &vendorShortName;-ի համար">
 <!ENTITY enableHealthReport.label        "Միացնել &brandShortName;-ի Վիճակի Զեկույցը">

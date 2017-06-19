@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Մատակարար">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Վերջին թարմացման ժամանակը">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Հաջորդ թարմացման ժամանակը">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Վերջին թարմացման վիճակը">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Թարմացում">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Շտեմ">
