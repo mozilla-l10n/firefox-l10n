@@ -104,6 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Air gnìomhachadh">
 <!ENTITY aboutSupport.a11yForceDisabled "Casg air so-inntrigeachd">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Eachdraidh stàlaidh">
