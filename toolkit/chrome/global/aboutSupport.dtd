@@ -104,6 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "সক্রিয়">
 <!ENTITY aboutSupport.a11yForceDisabled "অভিগম্যতা প্রতিরোধ">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "লাইব্রেরী সংস্করণসমূহ">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ইনস্টলেশনের ইতিহাস">
