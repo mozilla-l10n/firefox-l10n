@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "ن">
 
 <!ENTITY dataChoicesTab.label            "انتخاب داده‌ها">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "به شما در درک عملکرد مرورگرتان یاری می‌رساند و اطلاعاتی را در مورد سلامتی مرورگر شما با&vendorShortName; به اشتراک می‌گذارد.">
 <!ENTITY enableHealthReport.label        "فعال‌کردن گزارش سلامتی &brandShortName;">
