@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Poskytovatel">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Poslední aktualizace">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Příští aktualizace">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Čas návratu">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stav poslední aktualizace">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovat">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Mezipaměť">

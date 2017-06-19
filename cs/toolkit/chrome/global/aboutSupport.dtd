@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Přístupnost">
 <!ENTITY aboutSupport.a11yActivated "Aktivována">
 <!ENTITY aboutSupport.a11yForceDisabled "Zakázána">
+<!ENTITY aboutSupport.a11yHandlerUsed "Použito ovládání přístupnosti">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Verze knihoven">
 

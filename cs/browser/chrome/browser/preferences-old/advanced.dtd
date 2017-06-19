@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Možnosti hlášení">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Odesílání dat je zakázáno konfigurací tohoto sestavení">
+
 <!ENTITY healthReportDesc.label          "Pomáhá porozumět výkonu a zdraví prohlížeče. Data o prohlížeči jsou sdílena s organizací &vendorShortName;.">
 <!ENTITY enableHealthReport.label        "Povolit hlášení o zdraví aplikace &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "z">
