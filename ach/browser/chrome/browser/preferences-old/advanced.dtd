@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "a">
 
 <!ENTITY dataChoicesTab.label            "Yer me tic">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Konyo yin me niang kit ma layent tye katic kwede kadong nywako tic ki &vendorShortName; ikom yot kom pa layeny mamegi">
 <!ENTITY enableHealthReport.label        "Ye &brandShortName; Ripot me yot kom">
