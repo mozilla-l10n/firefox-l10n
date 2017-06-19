@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Mba'ekuaarã poravo">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Oipytyvõ chupe oikumby hag̃ua ikundahára rembiapo ha ombohasa mba'ekuaarã &vendorShortName; ndive mbaéichapa oĩhína kóva">
 <!ENTITY enableHealthReport.label        "Emomarandu mba'éichapa oĩ &brandShortName;">
