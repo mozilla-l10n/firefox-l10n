@@ -102,6 +102,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "Faollashtirilgan">
 <!ENTITY aboutSupport.a11yForceDisabled "Qulaylikni namoyish qilish">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "Kutubxona versiyasi">
 
 <!ENTITY aboutSupport.installationHistoryTitle "O‘rnatish tarixi">

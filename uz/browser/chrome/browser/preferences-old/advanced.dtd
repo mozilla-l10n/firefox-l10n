@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Tanlangan ma`lumot">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Brauzeringizning ishlashini tushunishingizga  va uning yaroqliligi haqidagi ma`lumotlarni &vendorShortName; bilan boʻlishishingizga yordam beradi.">
 <!ENTITY enableHealthReport.label        "&brandShortName; yaroqlilik ma`lumotlari">
