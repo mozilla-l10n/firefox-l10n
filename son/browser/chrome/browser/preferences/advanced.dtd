@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "h">
 
 <!ENTITY dataChoicesTab.label            "Bayhaya suubarey">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Ga war gaa ka faham ceecikaa goysahãa se nda ka bayhaya žemni war ceecikaa baanoo ga nda &vendorShortName;">
 <!ENTITY enableHealthReport.label        "&brandShortName; baani bayrandikaa tunandi">
