@@ -104,6 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "செயல்படுத்தப்படுகிறது">
 <!ENTITY aboutSupport.a11yForceDisabled "அணுகல்தன்மையை தடுக்கவும்">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "தரவக பதிப்புகள்">
 
 <!ENTITY aboutSupport.installationHistoryTitle "நிறுவல் வரலாறு">
