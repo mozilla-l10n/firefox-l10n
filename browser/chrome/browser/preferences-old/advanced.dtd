@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Избор података">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Слање података је онемогућено за ову конфигурацију за изградњу">
+
 <!ENTITY healthReportDesc.label          "Помаже да разумете перформансе свог прегледача и поделите податке са &vendorShortName;-ом о здрављу свог прегледача">
 <!ENTITY enableHealthReport.label        "Омогући &brandShortName; извештај здравља">
 <!ENTITY enableHealthReport.accesskey    "з">
