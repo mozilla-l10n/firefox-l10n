@@ -8,7 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Darparwr">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Amser y diweddariad diwethaf">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Amser y diweddariad nesaf">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Amser atal">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Statws y diweddariad diwethaf">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Diweddaru">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Storfa">
