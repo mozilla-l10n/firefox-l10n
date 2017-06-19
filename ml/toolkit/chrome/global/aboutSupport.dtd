@@ -100,6 +100,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "സജീവമാക്കിയിരിയ്ക്കുന്നു">
 <!ENTITY aboutSupport.a11yForceDisabled "ആക്സസിബിളിറ്റി തടയുക">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "ലൈബ്രറി പതിപ്പുകള്‍">
 
 <!ENTITY aboutSupport.installationHistoryTitle "ഇന്‍സ്റ്റലേഷന്‍ നാള്‍വഴി">
