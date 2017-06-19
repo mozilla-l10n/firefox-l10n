@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "בחירות מידע">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "דיווח נתונים מנוטרל עבור תצורת בנייה זו">
+
 <!ENTITY healthReportDesc.label          "עוזר להבין את ביצועי הדפדפן שלך ואת הנתונים שמשותפים עם &vendorShortName;  על בריאות הדפדפן שלך">
 <!ENTITY enableHealthReport.label        "אפשר את דוח הבריאות של &brandShortName; ">
 <!ENTITY enableHealthReport.accesskey    "ד">
