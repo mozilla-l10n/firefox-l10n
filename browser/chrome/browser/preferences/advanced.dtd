@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Dataval">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Datarapportering är inaktiverad för den här byggkonfigurationen">
+
 <!ENTITY healthReportDesc.label          "Hjälper dig att förstå webbläsarprestandan samt delar data med &vendorShortName; om webbläsarens status">
 <!ENTITY enableHealthReport.label        "Aktivera &brandShortName; hälsorapport">
 <!ENTITY enableHealthReport.accesskey    "r">
