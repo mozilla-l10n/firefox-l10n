@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Poskićowar">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas poslednjeje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas přichodneje aktualizacije">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Wróćostajenski čas">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status poslednjeje aktualizacije">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizacija">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Pufrowak">
