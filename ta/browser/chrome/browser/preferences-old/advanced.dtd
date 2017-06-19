@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "தரவு தெரிவுகள்">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ள உதவுகிறது, மேலும் உங்கள் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; தரவைப் பகிர்ந்துகொள்கிறது">
 <!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை செயல்படுத்தவும்">
