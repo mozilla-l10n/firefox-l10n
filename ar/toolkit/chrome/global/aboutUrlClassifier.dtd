@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "المزوِّد">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "وقت آخر تحديث">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "وقت التحديث التالي">
+
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "حالة آخر تحديث">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "حدِّث">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "الخبيئة">

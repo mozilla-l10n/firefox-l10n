@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "ك">
 
 <!ENTITY dataChoicesTab.label            "اختيارات البيانات">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "يساعدك في تفحص أداء متصفحك ومشاركة بيانات حالة المتصفح مع &vendorShortName;">
 <!ENTITY enableHealthReport.label        "فعّل تقرير حالة &brandShortName;">
