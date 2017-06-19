@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Деректер есептемесін беру бұл жинақта сөндірілген">
+
 <!ENTITY healthReportDesc.label          "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
 <!ENTITY enableHealthReport.label        "&brandShortName; денсаулық есептемесін іске қосу">
 <!ENTITY enableHealthReport.accesskey    "п">
