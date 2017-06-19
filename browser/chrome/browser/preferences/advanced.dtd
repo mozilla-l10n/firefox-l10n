@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "b">
 
 <!ENTITY dataChoicesTab.label            "Cuɓe Keɓe">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Wallete faamde moƴƴugol wanngorde maa tee lollina keɓe e &vendorShortName; baɗte kisal wanngorde maa">
 <!ENTITY enableHealthReport.label        "Hurmin &brandShortName; Health Report">
