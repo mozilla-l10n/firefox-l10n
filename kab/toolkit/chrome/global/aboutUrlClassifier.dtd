@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Imfeki">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Akud n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Akud n uleqqem i d-iteddun">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Asrag n tiririt">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Addad n uleqqem aneggaru">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Alqem">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Tuffirt">
