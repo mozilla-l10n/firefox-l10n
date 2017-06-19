@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "z">
 
 <!ENTITY dataChoicesTab.label            "Datu-aukerak">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Nabigatzailearen errendimendua ulertzen laguntzen dizu eta nabigatzailearen osasunaren inguruko datuak partekatzen ditu &vendorShortName;(r)ekin">
 <!ENTITY enableHealthReport.label        "Gaitu &brandShortName;(r)en osasun-txostena">
