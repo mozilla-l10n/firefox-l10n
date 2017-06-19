@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "ٹ">
 
 <!ENTITY dataChoicesTab.label            "کوائف پسند">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "آپ کو آپ کے براؤزر کی سرانجام دہی سمجھنے میں مدد کرتا ہے اور &vendorShortName; کے ساتھ آپ کے براؤزر کی تندرستی کے کوائف شیئر کرتا ہے">
 <!ENTITY enableHealthReport.label        "&brandShortName; تندرستی رپورٹ اہل بنائیں">

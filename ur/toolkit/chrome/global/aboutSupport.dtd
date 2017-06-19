@@ -103,6 +103,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yActivated "عمل میں لائیں">
 <!ENTITY aboutSupport.a11yForceDisabled "رسائی پزیری روکیں">
 
+
 <!ENTITY aboutSupport.libraryVersionsTitle "لائبریری ورژن">
 
 <!ENTITY aboutSupport.installationHistoryTitle "انسٹا لیشن سابقات">
