@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "о">
 
 <!ENTITY dataChoicesTab.label            "Деректер таңдауы">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Браузеріңіздің өнімділігін түсінуге көмектеседі және браузеріңіздің денсаулық мәліметін &vendorShortName; үшін жібереді">
 <!ENTITY enableHealthReport.label        "&brandShortName; денсаулық есептемесін іске қосу">
