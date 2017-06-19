@@ -19,7 +19,7 @@
                                            ანგარიშით, რომელსაც კომპიუტერზე პროგრამის დაყენების უფლება გააჩნია.">
 <!ENTITY  manualUpdate.space.desc         "უსაფრთხოების და მდგრადობის რეკომენდებული განახლება ხელმისაწვდომია, მაგრამ თქვენ
                                            მის დასაყენებლად საკმარისი ადგილი არ გაქვთ.">
-<!ENTITY  manualUpdateGetMsg.label        "&brandShortName; პროგრამის უახლესი ვერსიის გადაწერა ყოველთვის შეგიძლიათ აქედან:">
+<!ENTITY  manualUpdateGetMsg.label        "&brandShortName; პროგრამის უახლესი ვერსიის გადაწერა ყოველთვის შეგიძლიათ ბმულიდან:">
 
 <!ENTITY  unsupported.title               "სისტემა მხარდაუჭერელია">
 <!ENTITY  unsupported.label               "თქვენი &brandShortName; ვადაგასულია, მაგრამ უახლესი ვერსია

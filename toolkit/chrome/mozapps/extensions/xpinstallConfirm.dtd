@@ -9,5 +9,5 @@
 <!ENTITY warningPrimary.label    "ჩადგით მოდულები მხოლოდ იმ ავტორებისგან რომელთაც ენდობით.">
 <!ENTITY warningSecondary.label  "მავნე პროგრამას შეუძლია დააზიანოს თქვენი კომპიუტერი ან ხელყოს თქვენი პირადი მონაცემები.">
 
-<!ENTITY from.label "აქედან:">
+<!ENTITY from.label "წყარო:">
 

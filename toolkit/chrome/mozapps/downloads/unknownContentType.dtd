@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "თქვენ აირჩიეთ გაგეხსნათ:">
-<!ENTITY  from.label                  "აქედან:">
+<!ENTITY  intro2.label                "თქვენ ხსნით ფაილს:">
+<!ENTITY  from.label                  "წყარო:">
 <!ENTITY  actionQuestion.label        "როგორ მოეპყრას &brandShortName; ამ ფაილს?">
 
 <!ENTITY  openWith.label              "გახსნა პროგრამით">
