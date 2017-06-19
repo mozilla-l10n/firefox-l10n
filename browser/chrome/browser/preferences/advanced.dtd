@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "მოხსენებები გამორთულია ანაწყობის ამ კონფიგურაციისთვის">
+
 <!ENTITY healthReportDesc.label          "გაწვდით ინფორმაციას თქვენი ბრაუზერის წარმადობაზე და მისი მდგომარეობის მონაცემებს უზიარებს &vendorShortName;-ს">
 <!ENTITY enableHealthReport.label        "მოხსენება &brandShortName; -ის გამართულობის შესახებ">
 <!ENTITY enableHealthReport.accesskey    "R">
