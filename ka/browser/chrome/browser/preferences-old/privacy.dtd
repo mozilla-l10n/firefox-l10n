@@ -17,7 +17,7 @@
 <!ENTITY trackingProtectionPBM5.label         "თვალთვალისგან დაცვა პირადი ფანჯრით სარგებლობისას">
 <!ENTITY trackingProtectionPBM5.accesskey     "რ">
 <!ENTITY trackingProtectionPBMLearnMore.label "შეიტყვეთ მეტი">
-<!ENTITY changeBlockList.label          "დაბლოკილთა სიის შეცვლა">
+<!ENTITY changeBlockList.label          "შეზღუდულთა სიის ჩასწორება">
 <!ENTITY changeBlockList.accesskey      "შ">
 
 <!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->

@@ -13,7 +13,7 @@
 <!ENTITY removeallpermissions.accesskey "ლ">
 <!ENTITY address.label                "საიტის მისამართი:">
 <!ENTITY address.accesskey            "მ">
-<!ENTITY block.label                  "დაბლოკვა">
+<!ENTITY block.label                  "შეზღუდუდვა">
 <!ENTITY block.accesskey              "B">
 <!ENTITY session.label                "სეანსზე დაშვება">
 <!ENTITY session.accesskey            "S">

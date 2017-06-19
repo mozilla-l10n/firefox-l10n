@@ -13,5 +13,5 @@
 <!ENTITY blocklist.accept.label      "&brandShortName; გადატვირთვა">
 <!ENTITY blocklist.accept.accesskey  "R">
 
-<!ENTITY blocklist.blocked.label     "დაბლოკილია">
+<!ENTITY blocklist.blocked.label     "შეზღუდულია">
 <!ENTITY blocklist.checkbox.label    "ამორთვა">
