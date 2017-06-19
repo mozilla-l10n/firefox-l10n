@@ -23,8 +23,8 @@
 <!ENTITY valueColumn.label "მნიშვნელობა">
 
 <!-- Tooltips -->
-<!ENTITY prefColumnHeader.tooltip "დაწკაპეთ სორტირებისათვის"> 
-<!ENTITY columnChooser.tooltip "დაწკაპეთ სვეტების მოსანიშნად"> 
+<!ENTITY prefColumnHeader.tooltip "დააწკაპეთ დასალაგებლად"> 
+<!ENTITY columnChooser.tooltip "დააწკაპეთ სვეტების ასარჩევად"> 
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">

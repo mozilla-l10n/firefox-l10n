@@ -60,6 +60,6 @@
 ზოგიერთი მოდულის განახლებისას.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "დაწკაპეთ დასრულება &brandShortName; ახალი სეანსით გასაგრძელებლად.">
-<!ENTITY  clickFinish.labelMac            "&brandShortName; პროგრამის გასახსნელად დაწკაპეთ - მზადაა.">
+<!ENTITY  clickFinish.label               "დააწკაპეთ დასრულებაზე &brandShortName;-ით გასაგრძელებლად.">
+<!ENTITY  clickFinish.labelMac            "&brandShortName; პროგრამის გასახსნელად დააწკაპეთ - მზადაა.">
 <!ENTITY  enableChecking.label            "&brandShortName; პროგრამისთვის განახლებების შემოწმების ნებართვა.">
