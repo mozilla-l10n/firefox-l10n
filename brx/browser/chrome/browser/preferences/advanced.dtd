@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "डाटा फसायनाय">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "नोंथांनि ब्राउजार मावफुंनायखौ बुजिनो नोंथांखौ मदद खालामो आरो डाटाखौ नोंथांनि ब्राउजार सावस्रिनि सोमोन्दै डाटाखौ &vendorShortName; जों शेयार खालामो।">
 <!ENTITY enableHealthReport.label        "&brandShortName; सावस्रि रिपर्टखौ हाहोनाय खालाम">
