@@ -23,6 +23,9 @@
 
 
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY enableHealthReport.label        "Toob kii &brandShortName; Xha key Xhin">
 <!ENTITY enableHealthReport.accesskey    "X">
