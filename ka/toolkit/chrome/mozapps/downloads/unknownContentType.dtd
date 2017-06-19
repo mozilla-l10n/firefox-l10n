@@ -6,21 +6,21 @@
 <!ENTITY  from.label                  "წყარო:">
 <!ENTITY  actionQuestion.label        "როგორ მოეპყრას &brandShortName; ამ ფაილს?">
 
-<!ENTITY  openWith.label              "გახსნა პროგრამით">
-<!ENTITY  openWith.accesskey          "O">
+<!ENTITY  openWith.label              "გახსნას პროგრამით">
+<!ENTITY  openWith.accesskey          "გ">
 <!ENTITY  other.label                 "სხვა…">
 
-<!ENTITY  saveFile.label              "ფაილის შენახვა">
-<!ENTITY  saveFile.accesskey          "S">
+<!ENTITY  saveFile.label              "შეინახოს">
+<!ENTITY  saveFile.accesskey          "შ">
 
-<!ENTITY  rememberChoice.label        "ამიერიდან ყველა მსგავსი ფაილისთვის ავტომატურად შესრულება.">
-<!ENTITY  rememberChoice.accesskey    "a">
+<!ENTITY  rememberChoice.label        "მოქმედების დამახსოვრება ყველა მსგავსი ფაილისთვის.">
+<!ENTITY  rememberChoice.accesskey    "მ">
 
 <!ENTITY  whichIs.label              "რომელიც არის:">
 
 <!ENTITY  chooseHandlerMac.label      "არჩევა…">
-<!ENTITY  chooseHandlerMac.accesskey  "C">
-<!ENTITY  chooseHandler.label         "ნუსხა…">
-<!ENTITY  chooseHandler.accesskey     "B">
+<!ENTITY  chooseHandlerMac.accesskey  "ა">
+<!ENTITY  chooseHandler.label         "არჩევა…">
+<!ENTITY  chooseHandler.accesskey     "რ">
 
 <!ENTITY  unknownPromptText.label     "გნებავთ ამ ფაილის შენახვა?">
