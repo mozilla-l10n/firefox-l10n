@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "ცალკეული ფუნთუშების წაშლა">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; ბრაუზერი ისარგებლებს იგივე პარამეტრებით, რაც პირადი სეანსებისთვის და არ შეინახვს თქვენი მონახულებული საიტების ისტორიას.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; ბრაუზერი ისარგებლებს პირადი ფანჯრის პარამეტრებით და არ შეინახვს თქვენ მიერ მონახულებული საიტების ისტორიას.">
 
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
