@@ -27,6 +27,9 @@
 <!ENTITY checkUserSpelling.accesskey     "G">
 
 <!ENTITY dataChoicesTab.label            "Roadennoù">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Skoazellañ a ra ac'hanoc'h kompren digonusted ho merdeer ha rannañ roadennoù a-fet yec'hed ho merdeer gant &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Gweredekaat danevell yec'hed &brandShortName;">
