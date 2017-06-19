@@ -554,7 +554,7 @@
 <!ENTITY mailViewsToolbarItem.title "Пошта көріністері">
 <!ENTITY folderLocationToolbarItem.title "Буманың орналасуы">
 <!ENTITY tagButton.label "Тег">
-<!ENTITY compactButton.label "Ықшам">
+<!ENTITY compactButton.label "Ықшамдау">
 <!ENTITY appmenuButton.label "Қолданба мәзірі">
 <!-- Mail Toolbar Tooltips-->
 
@@ -647,7 +647,7 @@
 <!ENTITY folderContextRename.accesskey "А">
 <!ENTITY folderContextRemove.label "Өшіру">
 <!ENTITY folderContextRemove.accesskey "ш">
-<!ENTITY folderContextCompact.label "Ықшам">
+<!ENTITY folderContextCompact.label "Ықшамдау">
 <!ENTITY folderContextCompact.accesskey "Ы">
 <!ENTITY folderContextEmptyTrash.label "Қоқыс шелегін тазарту">
 <!ENTITY folderContextEmptyTrash.accesskey "а">
