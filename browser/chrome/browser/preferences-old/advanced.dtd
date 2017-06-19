@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "ତଥ୍ୟ ପସନ୍ଦଗୁଡ଼ିକ">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "ଆପଣଙ୍କର ବ୍ରାଉଜର କାର୍ଯ୍ୟଦକ୍ଷତାକୁ ବୁଝିବାରେ ସହାୟତା କରିଥାଏ ଏବଂ  ଆପଣଙ୍କର ବ୍ରାଉଜର ସ୍ୱାସ୍ଥ୍ୟ ବିଷୟରେ &vendorShortName; ସହିତ ତଥ୍ୟ ସହଭାଗ କରନ୍ତୁ">
 <!ENTITY enableHealthReport.label        "&brandShortName; ସ୍ୱାସ୍ଥ୍ୟ ବିବରଣୀକୁ ସକ୍ରିୟ କରନ୍ତୁ">
