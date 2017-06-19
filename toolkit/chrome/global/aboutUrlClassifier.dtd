@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "მომწოდებელი">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "ბოლო განახლების დრო">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "მომდევნო განახლების დრო">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "უკან დაბრუნების დროს">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "ბოლო განახლების სტატუსი">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "განახლება">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "კეში">
