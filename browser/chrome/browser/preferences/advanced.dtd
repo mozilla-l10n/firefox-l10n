@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "Dikgetho tša tsebišo">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "E go thuša go kwešiša tsela yeo praosara ya gago e šomago ka yona le go abelana tsebišo le &vendorShortName; ka ga boemo bja tša maphelo bja praosara ya gago">
 <!ENTITY enableHealthReport.label        "Dumelela pego ya tša maphelo ya &brandShortName;">
