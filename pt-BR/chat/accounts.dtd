@@ -28,8 +28,8 @@
 <!ENTITY account.delete.accesskey     "D">
 <!ENTITY account.edit.label           "Propriedades">
 <!ENTITY account.edit.accesskey       "P">
-<!ENTITY account.moveup.label         "Mover acima">
-<!ENTITY account.movedown.label       "Mover abaixo">
+<!ENTITY account.moveup.label         "Subir">
+<!ENTITY account.movedown.label       "Descer">
 <!ENTITY account.cancelReconnection.label         "Cancelar reconexão">
 <!ENTITY account.cancelReconnection.accesskey     "A">
 <!ENTITY account.copyDebugLog.label     "Copiar o registro de depuração">
