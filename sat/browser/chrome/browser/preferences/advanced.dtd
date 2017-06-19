@@ -27,6 +27,9 @@
 
 
 <!ENTITY dataChoicesTab.label            "डाटा कुसी को ">
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "आमाक् ब्राउजार उदुक् सोदोर आम बुझाव होचो ला़गित् गोड़ो आमा आर  &vendorShortName; सांव डाटाय हा़टिञ आ आमाक् ब्राउजार बेस होड़मो बाबोत ते .">
 <!ENTITY enableHealthReport.label        " &brandShortName;  हुय होचो तेयार बेस होड़मो रिपोर्ट ( R).">
