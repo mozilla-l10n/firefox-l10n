@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Pengendali">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Kali terakhir dikemas kini">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Waktu kemas kini seterusnya">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Tempoh back-off">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status kemas kini terakhir">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Kemas kini">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">

@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Aksesibiliti">
 <!ENTITY aboutSupport.a11yActivated "Diaktifkan">
 <!ENTITY aboutSupport.a11yForceDisabled "Halang Aksesibiliti">
+<!ENTITY aboutSupport.a11yHandlerUsed "Menggunakan Accessible Handler">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Pustaka Versi">
 
