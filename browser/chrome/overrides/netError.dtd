@@ -52,7 +52,7 @@
 
 <!ENTITY openPortalLoginPage.label2 "ქსელში შესასვლელი გვერდის გახსნა">
 
-<!ENTITY malformedURI.title "მისამართი უმართებლოა">
+<!ENTITY malformedURI.title "მისამართი არასწორია">
 <!ENTITY malformedURI.longDesc "<ul> 
 <li>ვებ მისამართი ჩვეულებრივ ამგვარად მიეთითება 
 <strong>http://www.example.com/</strong></li> 
