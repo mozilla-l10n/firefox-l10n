@@ -54,19 +54,25 @@
 <!ENTITY viewMenu.accesskey           "ת">
 
 <!ENTITY lineNumbers.label             "הצגת מספרי שורות">
+<!ENTITY lineNumbers.accesskey         "ס">
 
 <!ENTITY wordWrap.label                "גלישת טקסט">
+<!ENTITY wordWrap.accesskey            "ל">
 
 <!ENTITY highlightTrailingSpace.label     "הדגשת רווחים עוקבים">
+<!ENTITY highlightTrailingSpace.accesskey "ד">
 
 <!ENTITY largerFont.label             "גופן גדול יותר">
+<!ENTITY largerFont.accesskey         "ג">
 <!ENTITY largerFont.commandkey        "+">
 <!ENTITY largerFont.commandkey2       "="> <!-- + is above this key on many keyboards -->
 
 <!ENTITY smallerFont.label            "גופן קטן יותר">
+<!ENTITY smallerFont.accesskey        "ק">
 <!ENTITY smallerFont.commandkey       "-">
 
 <!ENTITY normalSize.label             "גודל רגיל">
+<!ENTITY normalSize.accesskey         "ר">
 <!ENTITY normalSize.commandkey        "0">
 
 <!ENTITY editMenu.label               "עריכה">
@@ -144,4 +150,5 @@
   -  to evaluate the top-level function that the cursor is currently at.
   -->
 <!ENTITY evalFunction.label "הערכת הפונקציה הנוכחית">
+<!ENTITY evalFunction.accesskey "ע">
 <!ENTITY evalFunction.key "e">
