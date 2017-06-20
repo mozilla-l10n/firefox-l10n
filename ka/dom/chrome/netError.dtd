@@ -29,7 +29,7 @@
 <!ENTITY generic.title "მოთხოვნის დასრულება ვერ ხერხდება">
 <!ENTITY generic.longDesc "<p>დამატებითი ინფორმაცია მოცემული პრობლემის ან შეცდომის შესახებ ამჟამად მიუწვდომელია.</p>">
 
-<!ENTITY malformedURI.title "მისამართი უმართებლოა">
+<!ENTITY malformedURI.title "მისამართი არასწორია">
 <!ENTITY malformedURI.longDesc "<p>მითითებული მისამართი უცნობი ფორმატისაა. გთხოვთ გადაამოწმოთ მისამართი და კვლავ სცადოთ.</p>">
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">

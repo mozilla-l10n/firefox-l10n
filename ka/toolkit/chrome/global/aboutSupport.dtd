@@ -14,7 +14,7 @@
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.id "ანგარიშგების ID">
-<!ENTITY aboutSupport.crashes.sendDate "გადაგზავნილი">
+<!ENTITY aboutSupport.crashes.sendDate "გადაიგზავნა">
 <!ENTITY aboutSupport.crashes.allReports "ავარიული დახურვის ყველა მოხსენება">
 <!ENTITY aboutSupport.crashes.noConfig "ეს პროგრამა ავარიული დახურვის მოხსენებების საჩვენებლად არაა გამართული.">
 
