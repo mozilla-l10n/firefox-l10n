@@ -5,7 +5,7 @@
 <!ENTITY  trackingProtectionHeader.label       "मागोवा सुरक्षा वापरा">
 <!ENTITY  trackingProtectionAlways.label       "नेहमी">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
-<!ENTITY  trackingProtectionPrivate.label      "फक्त वैयक्तिक पटलामध्ये">
+<!ENTITY  trackingProtectionPrivate.label      "फक्त खाजगी पटलामध्ये">
 <!ENTITY  trackingProtectionPrivate.accesskey  "l">
 <!ENTITY  trackingProtectionNever.label        "कधीच नाही">
 <!ENTITY  trackingProtectionNever.accesskey    "N">
@@ -82,7 +82,7 @@
 <!ENTITY  rememberActions.removeCookies.label "स्वतंत्र कुकीज काढून टाका">
 <!ENTITY  rememberActions.post.label          ".">
 
-<!ENTITY  dontrememberDescription.label  "&brandShortName; समान संयोजना वैयक्तिक चाळणी म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.">
+<!ENTITY  dontrememberDescription.label  "&brandShortName; समान संयोजना खाजगी ब्राउझिंग म्हणून वापरतो, व वेब चाळतेवेळी कुठलाही इतिहास लक्षात ठेवत नाही.">
 <!-- LOCALIZATION NOTE (dontrememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (dontrememberActions.post.label): include a starting space as needed -->
 

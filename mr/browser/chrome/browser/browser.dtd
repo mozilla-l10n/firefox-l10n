@@ -13,7 +13,7 @@
 <!ENTITY mainWindow.titlemodifiermenuseparator " - ">
 <!-- LOCALIZATION NOTE (mainWindow.titlePrivateBrowsingSuffix): This will be appended to the window's title
                                                                 inside the private browsing mode -->
-<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(व्यक्तिगत संचारन)">
+<!ENTITY mainWindow.titlePrivateBrowsingSuffix "(खाजगी ब्राउझिंग)">
 
 <!ENTITY appmenu.tooltip                     "मेनु उघडा">
 <!ENTITY navbarOverflow.label                "आणखी साधने…">
@@ -287,7 +287,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "नवीन पटल">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
-<!ENTITY newPrivateWindow.label     "नवीन वैयक्तिक पटल">
+<!ENTITY newPrivateWindow.label     "नवीन खाजगी पटल">
 <!ENTITY newPrivateWindow.accesskey "W">
 <!ENTITY newNonRemoteWindow.label   "नवीन Non-e10s विंडो">
 
@@ -510,7 +510,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInTab.accesskey   "T">
 <!ENTITY openLinkCmd.label            "दुव्याला नवीन पटलात उघडा">
 <!ENTITY openLinkCmd.accesskey        "W">
-<!ENTITY openLinkInPrivateWindowCmd.label "नवीन वैयक्तिक पटलात दुवा उघडा">
+<!ENTITY openLinkInPrivateWindowCmd.label "नवीन खाजगी पटलात दुवा उघडा">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "P">
 <!ENTITY openLinkCmdInCurrent.label     "दुवा उघडा">
 <!ENTITY openLinkCmdInCurrent.accesskey "O">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "w">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "दुव्याला नवीन पटलात उघडा">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "N">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "नवीन वैयक्तिक पटलात दुवा उघडा">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "नवीन खाजगी पटलात दुवा उघडा">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "P">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "या पृष्ठास वाचनखूण लावा…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "B">
