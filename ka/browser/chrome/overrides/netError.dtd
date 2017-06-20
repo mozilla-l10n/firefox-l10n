@@ -6,7 +6,7 @@
 %brandDTD;
 
 <!ENTITY loadError.label "გვერდის ჩატვირთვის შეცდომა">
-<!ENTITY retry.label "კვლავ სცადეთ">
+<!ENTITY retry.label "სცადეთ ხელახლა">
 <!ENTITY returnToPreviousPage.label "უკან დაბრუნება">
 <!ENTITY advanced.label "დამატებითი">
 
@@ -53,22 +53,27 @@
 <!ENTITY openPortalLoginPage.label2 "ქსელში შესასვლელი გვერდის გახსნა">
 
 <!ENTITY malformedURI.title "მისამართი არასწორია">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>ვებ მისამართი ჩვეულებრივ ამგვარად მიეთითება 
-<strong>http://www.example.com/</strong></li> 
-<li>გადაამოწმეთ, რომ ჩვეულებრივ დახრილს იყენებთ (მაგ., 
-<strong>/</strong>).</li> 
-</ul>">
+<!ENTITY malformedURI.longDesc "
+<ul>
+  <li>ვებ მისამართი ჩვეულებრივ ამგვარად გამოიყურება
+    <strong>http://www.example.com/</strong></li>
+  <li>გადაამოწმეთ, რომ მარჯვნივ დახრილ ხაზებს იყენებთ (ანუ ასეთს
+    <strong>/</strong>).</li>
+</ul>
+">
 
 <!ENTITY netInterrupt.title "კავშირი გაწყდა">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "დოკუმენტი ვადაგასულია">
-<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისაწვდომი &brandShortName;-ის კეშში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კიდევ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ მოთხოვნისთვის.</li></ul>">
+<!ENTITY notCached.longDesc "<p>მოთხოვნილი დოკუმენტი არაა ხელმისაწვდომი &brandShortName;-ის კეშში.</p><ul><li>უსაფრთხოების დაცვის მიზნით, &brandShortName; მნიშვნელოვან დოკუმენტებს ხელმეორედ ავტომატურად არ ჩამოტვირთავს.</li><li>კვლავ სცადეთ დაწკაპება, საიტიდან დოკუმენტის ხელმეორედ მოთხოვნისთვის.</li></ul>">
 
 <!ENTITY netOffline.title "ავტონომიური რეჟიმი">
-<!ENTITY netOffline.longDesc2 "<ul>
-  <li>დააწექით &quot;სცადეთ ხელახლა&quot; ღილაკს ინტერნეტში გასასვლელად და გადატვირთეთ გვერდი</li></ul>">
+<!ENTITY netOffline.longDesc2 "
+<ul>
+  <li>დააწექით &quot;ხელახლა სცადეთ&quot; ღილაკს ინტერნეტში გასასვლელად და გადატვირთეთ გვერდი</li>
+</ul>
+">
 
 <!ENTITY contentEncodingError.title "შეცდომა შიგთავსის კოდირებაში">
 <!ENTITY contentEncodingError.longDesc "<ul> 
@@ -133,14 +138,16 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "<span class='hostname'/>-ის მფლოებელმა ვებ-საიტი არასწორად გამართა.  თქვენი ინფორმაციის მოპარვისგან დაცვის მიზეზით, &brandShortName; ამ ვებ-საიტს არ დაუკავშირდა.">
 
-<!ENTITY sharedLongDesc "<ul> 
-<li>საიტი დროებით მიუწვდომელი ან გადატვირთულია. კვლავ სცადეთ რამდენიმე 
-წამში.</li> 
-<li>თუ სხვა გვერდების ჩატვირთვასაც ვერ ახერხებთ, შეამოწმეთ კომპიუტერის ქსელთან 
-კავშირი.</li> 
-<li>თუ თქვენი ქსელი ან კომპიუტერი ფარით ან პროქსითაა დაცული, გადაამოწმეთ აქვს თუ არა 
-&brandShortName; პროგრამას ქსელის წვდომის უფლება.</li> 
-</ul>">
+<!ENTITY sharedLongDesc "
+<ul>
+  <li>საიტი დროებით მიუწვდომელი ან გადატვირთულია. სცადეთ ხელახლა რამდენიმე
+    წამში.</li>
+  <li>თუ სხვა გვერდების ჩატვირთვასაც ვერ ახერხებთ, შეამოწმეთ კომპიუტერის ქსელთან
+    კავშირი.</li>
+  <li>თუ თქვენი ქსელი ან კომპიუტერი ფარით ან პროქსითაა დაცული, გადაამოწმეთ
+    აქვს თუ არა &brandShortName;-ს ინტერნეტთან წვდომის უფლება.</li>
+</ul>
+">
 
 <!ENTITY cspBlocked.title "დაბლოკილია, შიგთავსის უსაფრთხოების დებულების შესაბამისად.">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName;-მა შეზღუდა გვერდის ჩატვირთვა, რადგან შეიცავს შიგთავსს, რომელიც მიუღებელია უსაფრთხოების დებულების შესაბამისად.</p>">
