@@ -9,7 +9,7 @@
 <!ENTITY  copy.label            "העתקה">
 <!ENTITY  copy.accesskey        "ה">
 <!ENTITY  selectall.key         "A">
-<!ENTITY  selectall.label       "בחירת הכל">
+<!ENTITY  selectall.label       "בחירת הכול">
 <!ENTITY  selectall.accesskey   "ב">
 <!ENTITY  closeWindow.key       "w">
 
