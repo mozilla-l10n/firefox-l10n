@@ -781,7 +781,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      a restricted profile (e.g. child). Used inside the Android settings UI. -->
 <!ENTITY restrictable_feature_addons_installation "Добавки">
 <!ENTITY restrictable_feature_addons_installation_description "Добавя възможности и функции към Firefox. Забележка: Добавки могат да отменят някои ограничения.">
-<!ENTITY restrictable_feature_private_browsing "Поверително сърфиране">
+<!ENTITY restrictable_feature_private_browsing "Поверително разглеждане">
 <!ENTITY restrictable_feature_private_browsing_description "Позволява на близките ви да сърфират без запазване на информация за посетените от тях сайтове и страници.">
 <!ENTITY restrictable_feature_clear_history "Изчистване на историята">
 <!ENTITY restrictable_feature_clear_history_description "Позволява на близките ви да изтриват информация за посетените от тях сайтове и страници.">
