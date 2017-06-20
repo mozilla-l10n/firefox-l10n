@@ -42,7 +42,7 @@
 <!ENTITY translation.showTranslation.button     "თარგმნილის ჩვენება">
 
 <!ENTITY translation.errorTranslating.label     "გვერდის თარგმნისას დაფიქსირდა შეცდომა.">
-<!ENTITY translation.tryAgain.button            "ხელახლა ცდა">
+<!ENTITY translation.tryAgain.button            "სცადეთ ხელახლა">
 
 <!ENTITY translation.serviceUnavailable.label   "თარგმნა ამ დროისთვის შეუძლებელია. გთხოვთ, სცადოთ მოგვიანებით.">
 
