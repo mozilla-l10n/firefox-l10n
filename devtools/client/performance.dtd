@@ -32,7 +32,7 @@
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
 
-<!ENTITY performanceUI.unavailableNoticePB "प्रोफाइल रेकॉर्डिंग सध्या उपलब्ध नाही. कृपया सर्व वैयक्तिक ब्राउझिंग विंडो बंद करा व पुन्हा प्रयत्न करा.">
+<!ENTITY performanceUI.unavailableNoticePB "प्रोफाइल रेकॉर्डिंग सध्या उपलब्ध नाही. कृपया सर्व खाजगी ब्राउझिंग पटल बंद करुन पुन्हा प्रयत्न करा.">
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
 
