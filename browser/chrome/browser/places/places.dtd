@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Bætt við">
 <!ENTITY col.lastmodified.label  "Síðast breytt">
 
+<!ENTITY search.placeholder  "Leita">
 
 <!ENTITY cmd.find.key  "f">
 
