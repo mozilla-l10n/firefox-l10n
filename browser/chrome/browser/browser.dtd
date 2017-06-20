@@ -968,3 +968,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Kirim ke Peranti">
 <!ENTITY sendToDevice.fxaRequired.label "Diwajibkan">
 <!ENTITY sendToDevice.noDevices.label "Peranti Tidak Tersedia">
+<!ENTITY sendToDevice.syncNotReady.label "Menyinkronkan Peranti…">
