@@ -53,7 +53,7 @@
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
 <!ENTITY translation.options.neverForSite.label "არასდროს გადაითარგმნოს  ეს საიტი">
-<!ENTITY translation.options.neverForSite.accesskey "e">
+<!ENTITY translation.options.neverForSite.accesskey "რ">
 <!ENTITY translation.options.preferences.label  "თარგმნის პარამეტრები">
 <!ENTITY translation.options.preferences.accesskey "T">
 
