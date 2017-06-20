@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Правайдар">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Час апошняга абнаўлення">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Час наступнага абнаўлення">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Час вяртання назад">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус апошняга абнаўлення">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Абнавіць">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
