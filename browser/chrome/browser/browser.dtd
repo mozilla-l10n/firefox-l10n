@@ -386,6 +386,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Di chuyển vào thanh công cụ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "D">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -395,6 +396,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Di chuyển vào menu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "m">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Xóa khỏi thanh công cụ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "X">
 <!ENTITY customizeMenu.removeFromMenu.label "Xóa khỏi menu">
@@ -503,6 +506,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmdInTab.accesskey  "t">
 <!ENTITY openFrameCmd.label           "Mở khung trong cửa sổ mới">
 <!ENTITY openFrameCmd.accesskey       "s">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "Chỉ hiện khung này">
 <!ENTITY showOnlyThisFrameCmd.accesskey "C">
 <!ENTITY reloadCmd.commandkey         "r">
@@ -606,6 +610,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "t">
 <!ENTITY mediaPlaybackRate050x2.label "Chậm (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "C">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Nhanh (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "N">
 <!ENTITY mediaPlaybackRate150x2.label "Nhanh hơn (1,5×)">
@@ -674,6 +679,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Thoát"> 
 <!ENTITY quitApplicationCmd.accesskey   "o">
 <!ENTITY quitApplicationCmdMac2.label   "Thoát &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Đóng">  
 <!ENTITY closeCmd.key                   "W">  
@@ -718,6 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "T">
 
 <!ENTITY editBookmark.done.label                     "Xong">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Kết nối an toàn">
 <!ENTITY identity.connectionNotSecure "Kết nối này không an toàn">
@@ -792,7 +799,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "Sao chép">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "Quản lý thiết bị…">
+<!ENTITY syncedTabs.context.managedevices.accesskey          "D">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -817,6 +826,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Bạn muốn có thêm nhiều công cụ?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Lựa chọn từ hàng ngàn tiện ích khác nhau">
 <!ENTITY customizeMode.restoreDefaults "Khôi phục &amp;mặc định">
+<!ENTITY customizeMode.done "Hoàn tất">
 <!ENTITY customizeMode.titlebar "Thanh tiêu đề">
 <!ENTITY customizeMode.toolbars2 "Thanh công cụ">
 <!ENTITY customizeMode.lwthemes "Diện mạo">
@@ -908,16 +918,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Tìm hiểu thêm về DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.whatsnew.label "Xem có gì mới.">
+<!ENTITY updateAvailable.header.message "Một bản cập nhật &brandShorterName; mới đã sẵn sàng.">
 <!ENTITY updateAvailable.acceptButton.label "Tải bản cập nhật">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Không phải bây giờ">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "Tải bản cập nhật &brandShorterName;">
 
+<!ENTITY updateManual.whatsnew.label "Xem có gì mới.">
+<!ENTITY updateManual.header.message "&brandShorterName; không thể cập nhật lên phiên bản mới nhất.">
 <!ENTITY updateManual.acceptButton.label "Tải &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Không phải bây giờ">
+<!ENTITY updateManual.cancelButton.accesskey "N">
 
 <!ENTITY updateRestart.header.message2 "Khởi động lại để cập nhật &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Khởi động lại và khôi phục">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "Không phải bây giờ">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Khởi động lại để cập nhật &brandShorterName;">
 
 
