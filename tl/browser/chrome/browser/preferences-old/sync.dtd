@@ -6,18 +6,29 @@
 
 <!ENTITY engine.bookmarks.label     "Mga Bookmark">
 <!ENTITY engine.bookmarks.accesskey "m">
+<!ENTITY engine.tabs.label2         "Buksan ang mga Tab">
 <!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.history.label       "Kasaysayan">
+<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.logins.label        "Mga pag-login">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "Mga Preferences">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Mga Add-ons">
 <!ENTITY engine.addons.accesskey    "A">
 
 <!-- Device Settings -->
+<!ENTITY fxaSyncDeviceName.label       "Pangalan ng Aparato">
+<!ENTITY changeSyncDeviceName.label "Palitan ang Pangalan ng Aparato...">
+<!ENTITY changeSyncDeviceName.accesskey "h">
 <!ENTITY cancelChangeSyncDeviceName.label "Kanselahin">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "I-save">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tuntunin ng Serbisyo">
+<!ENTITY fxaPrivacyNotice.link.label "Paunawa sa Privacy">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
@@ -25,28 +36,50 @@ before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
 <!ENTITY signedInUnverified.beforename.label "">
+<!ENTITY signedInUnverified.aftername.label "ay hindi napatunayan.">
 
 <!-- LOCALIZATION NOTE (signedInLoginFailure.beforename.label,
 signedInLoginFailure.aftername.label): these two string are used respectively
 before and after the account email address. Localizers can use one of them, or
 both, to better adapt this sentence to their language.
 -->
+<!ENTITY signedInLoginFailure.beforename.label "Mangyaring mag-sign in upang makipagkonek muli">
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Hindi ka naka-sign in.">
+<!ENTITY signIn.label                "Mag-sign in">
+<!ENTITY signIn.accesskey            "g">
+<!ENTITY profilePicture.tooltip      "Baguhin ang larawan ng profile">
+<!ENTITY verifiedManage.label        "Pamahalaan ang Account">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect.label            "Idiskonekta...">
+<!ENTITY disconnect.accesskey        "D">
+<!ENTITY verify.label                "I-verify ang Email">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Kalimutan ang Email na ito">
+<!ENTITY forget.accesskey            "F">
 
+<!ENTITY signedOut.caption            "Dalhin ang Iyong Web sa Iyo">
+<!ENTITY signedOut.description        "I-synchronize ang iyong mga bookmark, kasaysayan, mga tab, password, mga add-on, at mga kagustuhan sa lahat ng iyong aparato.">
+<!ENTITY signedOut.accountBox.title   "Kumonekta sa isang &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Gumawa ng Account">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.signin  "Mag-sign in">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.engines.label       "I-sync sa Lahat ng Mga Aparato">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for
      Android or iOS to sync with your mobile device." -->
 
+<!ENTITY mobilePromo3.start            "I-download ang Firefox para sa ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
+<!ENTITY mobilePromo3.iOSBefore         "o">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSLink): This is a link title that links to https://www.mozilla.org/firefox/ios/ -->
 <!ENTITY mobilePromo3.iOSLink          "iOS">
 
