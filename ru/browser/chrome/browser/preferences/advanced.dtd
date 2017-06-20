@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Выбор данных">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Для этой конфигурации сборки отправка данных отключена">
+
 <!ENTITY healthReportDesc.label          "Помогает вам больше узнать о скорости работы вашего браузера и поделиться данными о его работоспособности с &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Включить отправку Отчёта о работоспособности &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "ю">
