@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Данни">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Докладването да данни е изключено за тази конфигурация на изданието">
+
 <!ENTITY healthReportDesc.label          "Помага за разбирането на производителността на браузъра и поделя данни с &vendorShortName; за изправността му">
 <!ENTITY enableHealthReport.label        "Включване на Доклада за изправност на &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "и">
