@@ -87,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ခု">
 <!ENTITY bookmark_folder_one_item "1 ခု">
+<!ENTITY bookmark_parent_folder "အထက်ဖိုင်တွဲ">
 <!ENTITY bookmark_add_folder "ဖိုင်တွဲအသစ်ထည့်ရန်">
 
 <!ENTITY reader_saved_offline "အော့ဖ်လိုင်းအတွက် သိမ်းရန်">
