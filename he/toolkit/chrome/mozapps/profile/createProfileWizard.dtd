@@ -19,7 +19,7 @@
 <!ENTITY profilePrompt.accesskey        "E">
 <!ENTITY profileDirectoryExplanation.text   "הגדרות המשתמש, ההעדפות, ונתונים אחרים הקשורים למשתמש שלך יאוחסנו ב:">
 <!ENTITY profileDefaultName             "משתמש בררת מחדל">
-<!ENTITY button.choosefolder.label      "בחר תיקייה...">
+<!ENTITY button.choosefolder.label      "בחירת תיקיה…">
 <!ENTITY button.choosefolder.accesskey  "ת">
 <!ENTITY button.usedefault.label        "שימוש בתיקיית בררת המחדל">
 <!ENTITY button.usedefault.accesskey    "ה">

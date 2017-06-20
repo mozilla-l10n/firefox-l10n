@@ -12,7 +12,7 @@
 <!ENTITY languages.customize.moveDown.accesskey         "מ">
 <!ENTITY languages.customize.deleteButton.label         "הסרה">
 <!ENTITY languages.customize.deleteButton.accesskey     "ה">
-<!ENTITY languages.customize.selectLanguage.label       "בחר שפה להוספה…">
+<!ENTITY languages.customize.selectLanguage.label       "בחירת שפה להוספה…">
 <!ENTITY languages.customize.addButton.label            "הוספה">
 <!ENTITY languages.customize.addButton.accesskey        "ס">
 

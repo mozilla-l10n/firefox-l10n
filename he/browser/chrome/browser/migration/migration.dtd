@@ -37,7 +37,7 @@
 <!ENTITY migrating.title                "מייבא...">
 <!ENTITY migrating.label                "הפריטים הבאים מיובאים כעת...">
 
-<!ENTITY selectProfile.title            "בחר פרופיל">
+<!ENTITY selectProfile.title            "בחירת פרופיל">
 <!ENTITY selectProfile.label            "ניתן לייבא מהפרופילים הבאים:">
 
 <!ENTITY done.title                     "היבוא הושלם">

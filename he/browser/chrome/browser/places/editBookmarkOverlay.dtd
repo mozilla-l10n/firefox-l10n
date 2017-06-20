@@ -23,6 +23,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "הצגת כל התגיות">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "טעינת סימניה זו בסרגל הצד">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "ס">
-<!ENTITY editBookmarkOverlay.choose.label                    "בחר…">
+<!ENTITY editBookmarkOverlay.choose.label                    "בחירה…">
 <!ENTITY editBookmarkOverlay.newFolderButton.label           "תיקייה חדשה">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "ת">
