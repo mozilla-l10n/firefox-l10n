@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "စာညှပ်ကို ဖယ်ရှားပြီး။">
 <!ENTITY bookmark_updated "စာညှပ်ကို ပြင်ဆင်သတ်မှတ်ပြီး">
 <!ENTITY bookmark_options "ရွေးစရာများ">
+<!ENTITY bookmark_save "သိမ်းပါ">
 <!ENTITY screenshot_added_to_bookmarks "မျက်နှာပြင်ပုံရိပ်ဖမ်းချက်ကို စာမှတ်များထဲသို့ ထည့်ပြီးပါပြီ">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,7 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; ခု">
 <!ENTITY bookmark_folder_one_item "1 ခု">
+<!ENTITY bookmark_add_folder "ဖိုင်တွဲအသစ်ထည့်ရန်">
 
 <!ENTITY reader_saved_offline "အော့ဖ်လိုင်းအတွက် သိမ်းရန်">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -545,6 +547,7 @@
 <!ENTITY bookmark_edit_name "အမည်">
 <!ENTITY bookmark_edit_location "တည်နေရာ">
 <!ENTITY bookmark_edit_keyword "သော့ချက် စာလုံး">
+<!ENTITY bookmark_select_folder "ဖိုင်တွဲကို ရွေးပါ">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
