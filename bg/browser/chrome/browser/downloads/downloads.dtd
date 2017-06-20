@@ -99,7 +99,7 @@
      Displayed when hovering a complete download, indicates that it's possible to
      open the file using an app available in the system.
      -->
-<!ENTITY openFile.label                   "Отваряне на файл">
+<!ENTITY openFile.label                   "Отваряне">
 
 <!-- LOCALIZATION NOTE (retryDownload.label):
      Displayed when hovering a download which is able to be retried by users,
@@ -134,7 +134,11 @@
 <!ENTITY downloadsHistory.label           "Показване на всички изтегляния">
 <!ENTITY downloadsHistory.accesskey       "в">
 
-<!ENTITY openDownloadsFolder.label       "Отваряне на папка Изтегляния">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Отваряне на папка Изтегляния">
 
 <!ENTITY clearDownloadsButton.label       "Изчистване на списъка">
 <!ENTITY clearDownloadsButton.tooltip     "Премахва завършили, отменени и неуспешни изтегляния от списъка">
