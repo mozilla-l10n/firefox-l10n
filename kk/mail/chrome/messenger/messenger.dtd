@@ -91,9 +91,9 @@
 <!ENTITY deleteMsgCmd.accesskey "ш">
 <!ENTITY undeleteMsgCmd.label "Хабарламаны өшіруді болдырмау">
 <!ENTITY undeleteMsgCmd.accesskey "б">
-<!ENTITY deleteMsgsCmd.label "Таңдалған хабарламаның өшіру">
+<!ENTITY deleteMsgsCmd.label "Таңдалған хабарламаларды өшіру">
 <!ENTITY deleteMsgsCmd.accesskey "ш">
-<!ENTITY undeleteMsgsCmd.label "Таңдалған хабарламаның өшіруін болдырмау">
+<!ENTITY undeleteMsgsCmd.label "Таңдалған хабарламалар өшіруін болдырмау">
 <!ENTITY undeleteMsgsCmd.accesskey "б">
 <!ENTITY deleteFolderCmd.label "Буманы өшіру">
 <!ENTITY deleteFolderCmd.accesskey "ш">
