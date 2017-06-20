@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Провайдер">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Время последнего обновления">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Время следующего обновления">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Время возврата назад">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Статус последнего обновления">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Обновить">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кэш">
