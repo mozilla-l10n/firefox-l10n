@@ -423,6 +423,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Mẹo:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Thay đổi tùy chọn…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
@@ -723,6 +724,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Trang này đã được lưu ở máy tính của bạn.">
 <!ENTITY identity.connectionVerified2 "Bạn đang kết nối an toàn tới trang này, được sở hữu bởi:">
 <!ENTITY identity.connectionInternal "Đây là một trang an toàn của &brandShortName;">
+<!ENTITY identity.extensionPage "Trang này được tải từ một phần mở rộng.">
 <!ENTITY identity.insecureLoginForms2 "Đăng nhập vào trang này bạn có thể bị xâm nhập.">
 
 <!-- Strings for connection state warnings. -->
@@ -767,8 +769,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncedTabs.sidebar.label              "Các thẻ đã đồng bộ">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Đăng nhập vào Firefox từ các thiết bị khác của bạn để xem các thẻ đó ở đây.">
+<!ENTITY syncedTabs.sidebar.notabs.label       "Không có thẻ đang mở">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Mở tùy chỉnh của &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
+<!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Bật đồng bộ thẻ để xem danh sách thẻ từ các thiết bị khác của bạn.">
 
 <!-- LOCALIZATION NOTE (syncedTabs.context.open.accesskey,
                         syncedTabs.context.openAllInTabs.accesskey):
@@ -784,7 +789,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "r">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Đánh dấu thẻ này…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "d">
+<!ENTITY syncedTabs.context.copy.label                       "Sao chép">
+<!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.managedevices.label              "Quản lý thiết bị…">
 
 
 <!ENTITY syncBrand.shortName.label    "Sync">
@@ -810,6 +818,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Lựa chọn từ hàng ngàn tiện ích khác nhau">
 <!ENTITY customizeMode.restoreDefaults "Khôi phục &amp;mặc định">
 <!ENTITY customizeMode.titlebar "Thanh tiêu đề">
+<!ENTITY customizeMode.toolbars2 "Thanh công cụ">
 <!ENTITY customizeMode.lwthemes "Diện mạo">
 <!ENTITY customizeMode.lwthemes.myThemes "Diện mạo của tôi">
 <!ENTITY customizeMode.lwthemes.recommended "Khuyên dùng">
@@ -899,7 +908,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Tìm hiểu thêm về DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.acceptButton.label "Tải bản cập nhật">
+<!ENTITY updateAvailable.cancelButton.label "Không phải bây giờ">
+<!ENTITY updateAvailable.panelUI.label "Tải bản cập nhật &brandShorterName;">
+
+<!ENTITY updateManual.acceptButton.label "Tải &brandShorterName;">
+<!ENTITY updateManual.cancelButton.label "Không phải bây giờ">
+
+<!ENTITY updateRestart.header.message2 "Khởi động lại để cập nhật &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Khởi động lại và khôi phục">
+<!ENTITY updateRestart.cancelButton.label "Không phải bây giờ">
+<!ENTITY updateRestart.panelUI.label2 "Khởi động lại để cập nhật &brandShorterName;">
 
 
-
-
+<!ENTITY sendToDevice.label "Gửi tới thiết bị…">
+<!ENTITY sendToDevice.viewTitle "Gửi tới thiết bị">
+<!ENTITY sendToDevice.fxaRequired.label "Cần thiết">
