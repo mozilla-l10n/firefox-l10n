@@ -17,7 +17,7 @@
 <!ENTITY  blockDownloads.label            "Blokovat nebezpečná stahování">
 <!ENTITY  blockDownloads.accesskey        "s">
 
-<!ENTITY  blockUncommonAndUnwanted.label     "Upozornit na nežádoucí a neobvyklý software">
+<!ENTITY  blockUncommonAndUnwanted.label     "Upozorňovat na nevyžádaný a neobvyklý software">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "w">
 
 <!ENTITY  addonExceptions.label         "Výjimky…">
