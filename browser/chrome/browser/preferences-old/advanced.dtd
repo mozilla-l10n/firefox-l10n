@@ -34,7 +34,7 @@ available. -->
 <!ENTITY healthReportingDisabled.label   "דיווח נתונים מנוטרל עבור תצורת בנייה זו">
 
 <!ENTITY healthReportDesc.label          "עוזר להבין את ביצועי הדפדפן שלך ואת הנתונים שמשותפים עם &vendorShortName;  על בריאות הדפדפן שלך">
-<!ENTITY enableHealthReport.label        "אפשר את דוח הבריאות של &brandShortName; ">
+<!ENTITY enableHealthReport.label        "לאפשר את דוח הבריאות של &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "ד">
 <!ENTITY healthReportLearnMore.label     "מידע נוסף">
 
@@ -52,7 +52,7 @@ available. -->
 
 <!ENTITY connection.label                "קישוריות">
 
-<!ENTITY connectionDesc.label            "הגדר כיצד &brandShortName; מתחבר לאינטרנט">
+<!ENTITY connectionDesc.label            "הגדרת אופן החיבור של &brandShortName; לאינטרנט">
 <!ENTITY connectionSettings.label        "הגדרות...">
 <!ENTITY connectionSettings.accesskey    "ה">
 
