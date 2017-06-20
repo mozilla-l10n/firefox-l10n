@@ -23,6 +23,6 @@
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 <!ENTITY  paneSync1.title          "Účet Firefoxu">
 
-<!ENTITY  helpButton2.label        "Podpora aplikace &brandShortName;">
+<!ENTITY  helpButton2.label        "Nápověda aplikace &brandShortName;">
 
 <!ENTITY  searchInput.label        "Hledat">
