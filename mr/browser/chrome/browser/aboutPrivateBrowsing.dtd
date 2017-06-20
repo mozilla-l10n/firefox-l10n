@@ -6,7 +6,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.label     "एक खाजगी पटल उघडा">
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "P">
 
-<!ENTITY privateBrowsing.title                           "व्यक्तिगत ब्राउझिंग">
+<!ENTITY privateBrowsing.title                           "खाजगी ब्राउझिंग">
 <!ENTITY privateBrowsing.title.tracking                  "ट्रॅकिंग संरक्षणा सहित खाजगी ब्राउझिंग">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "आपण एका खाजगी विंडोत, ब्राऊझ करताना, Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "साठवू नका">
@@ -20,7 +20,7 @@
 <!ENTITY aboutPrivateBrowsing.info.saved.after2          " आपल्या:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "डाउनलोड्स">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "वाचनखूणा">
-<!ENTITY aboutPrivateBrowsing.note.before                "व्यक्तिगत ब्राउझिंग ">
+<!ENTITY aboutPrivateBrowsing.note.before                "खाजगी ब्राउझिंग ">
 <!ENTITY aboutPrivateBrowsing.note.emphasize             "आपणास निनावी बनवीत नाही">
 <!ENTITY aboutPrivateBrowsing.note.after                 " इंटरनेट वर. आपला नियोक्त्याला किंवा इंटरनेट सेवा प्रदात्याला आपण भेट दिलेल्या पृष्ठांची माहिती असते.">
 <!ENTITY aboutPrivateBrowsing.learnMore3.before          "याबाबत अधिक जाणून घ्या">

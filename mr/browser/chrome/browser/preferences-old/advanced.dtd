@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "माहिती अहवाल देणे या बांधणी संरचनेमध्ये निष्क्रिय केलेले आहे">
+
 <!ENTITY healthReportDesc.label          "ब्राउझर कामगिरी समझण्यास आपली मदत करतो व ब्राउझरची प्रकृती &vendorShortName; सह शेअर करतो">
 <!ENTITY enableHealthReport.label        "&brandShortName; Health Report सुरू करा">
 <!ENTITY enableHealthReport.accesskey    "R">
