@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Pilihan Data">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Laporan data dinyahdayakan bagi konfigurasi binaan ini">
+
 <!ENTITY healthReportDesc.label          "Membantu anda memahami prestasi pelayar dan berkongsi data dengan &vendorShortName; mengenai keupayaan pelayar anda ini">
 <!ENTITY enableHealthReport.label        "Dayakan &brandShortName; Laporan Sistem">
 <!ENTITY enableHealthReport.accesskey    "R">
