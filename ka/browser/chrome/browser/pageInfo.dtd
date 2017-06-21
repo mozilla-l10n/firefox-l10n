@@ -37,7 +37,7 @@
 <!ENTITY  mediaSize             "ზომა">
 <!ENTITY  mediaCount            "რაოდენობა">
 <!ENTITY  mediaDimension        "ზომები:">
-<!ENTITY  mediaLongdesc         "დეტალური აღწერა:">
+<!ENTITY  mediaLongdesc         "ვრცელი აღწერა:">
 <!ENTITY  mediaBlockImage.accesskey "ბ">
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
 <!ENTITY  mediaSaveAs.accesskey "რ">
