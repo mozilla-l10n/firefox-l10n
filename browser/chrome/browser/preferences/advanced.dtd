@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Données collectées">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "L’envoi de données est désactivé pour cette configuration de compilation">
+
 <!ENTITY healthReportDesc.label          "Vous aide à comprendre les performances de votre navigateur et envoie à &vendorShortName; des informations concernant la santé de votre navigateur">
 <!ENTITY enableHealthReport.label        "Activer le bilan de santé de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "c">
