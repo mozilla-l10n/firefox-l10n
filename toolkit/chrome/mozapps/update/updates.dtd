@@ -39,9 +39,9 @@
 განახლების მთლიანობას, ასე რომ, იგი ჩამოტვირთავს 
 განახლების სრულ პაკეტს.">
 
-<!ENTITY  viewDetails.tooltip             "განახლების დეტალების ჩვენება">
+<!ENTITY  viewDetails.tooltip             "განახლების მონაცემების ნახვა">
 
-<!ENTITY  details.link                    "დეტალები">
+<!ENTITY  details.link                    "ვრცლად">
 
 <!ENTITY  error.title                     "განახლება არ შედგა">
 
@@ -72,6 +72,6 @@
                                            &brandShortName; ახლვე გადატვირთოთ, მუშაობა განაგრძოთ და მოგვიანებით გადატვირთოთ, ან უარყოთ
                                            განახლება.">
 
-<!ENTITY  update.details.label            "დეტალები">
+<!ENTITY  update.details.label            "ვრცლად">
 <!ENTITY  update.installedOn.label        "ჩაიდგა:">
 <!ENTITY  update.status.label             "მდგომარეობა:">
