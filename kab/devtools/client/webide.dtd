@@ -45,8 +45,6 @@
 
 <!ENTITY viewMenu_label "Askan">
 <!ENTITY viewMenu_accesskey "V">
-<!ENTITY viewMenu_toggleEditor_label "Rmed/Sens amẓrag ">
-<!ENTITY viewMenu_toggleEditor_accesskey "E">
 <!ENTITY viewMenu_zoomin_label "Semɣeṛ">
 <!ENTITY viewMenu_zoomin_accesskey "I">
 <!ENTITY viewMenu_zoomout_label "Semẓi">
@@ -56,9 +54,9 @@
 
 <!ENTITY projectButton_label "Ldi asnas">
 <!ENTITY runtimeButton_label "Fren tawennaṭ">
+
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
-
 <!ENTITY key_quit "W">
 <!-- open menu -->
 <!ENTITY key_showProjectPanel "O">
@@ -66,8 +64,6 @@
 <!ENTITY key_play "R">
 <!-- show toolbox -->
 <!ENTITY key_toggleToolbox "VK_F12">
-<!-- toggle sidebar -->
-<!ENTITY key_toggleEditor "B">
 <!-- zoom -->
 <!ENTITY key_zoomin "+">
 <!ENTITY key_zoomin2 "=">
@@ -85,8 +81,8 @@
 <!ENTITY runtimePanel_noadbhelper "Sebded ADB Helper">
 <!ENTITY runtimePanel_nousbdevice "Ur tezmireḍ ara ad twaliḍ ibenk-inek?">
 <!ENTITY runtimePanel_refreshDevices_label "Smiren ibenkan">
-<!-- Lense -->
 
+<!-- Lense -->
 <!ENTITY details_valid_header "ameɣtu">
 <!ENTITY details_warning_header "imɣuten">
 <!ENTITY details_error_header "tuccḍiwin">
@@ -95,51 +91,36 @@
 <!ENTITY details_manifestURL "Asulay n usnas">
 <!ENTITY details_removeProject_button "Kkes asenfaṛ">
 <!ENTITY details_showPrepackageLog_button "Sken aɣmis ukemmus uzwir">
-<!-- New App -->
 
+<!-- New App -->
 <!ENTITY newAppWindowTitle "Asnas amaynut">
 <!ENTITY newAppHeader "Fren taneɣruft">
 <!ENTITY newAppLoadingTemplate "Asali n tneɣrufin…">
 <!ENTITY newAppProjectName "Isem n usenfaṛ:">
+
+
 <!-- Decks -->
 
-
-
 <!ENTITY deck_close "Mdel">
-<!-- Addons -->
 
+<!-- Addons -->
 <!ENTITY addons_title "Isuddas isemmadanen">
 <!ENTITY addons_aboutaddons "Ldi amsefrak n izegrar">
-<!-- Prefs -->
 
+<!-- Prefs -->
 <!ENTITY prefs_title "Ismenyifen">
 <!ENTITY prefs_editor_title "Amaẓrag">
 <!ENTITY prefs_general_title "Amatu">
 <!ENTITY prefs_restore "Err-d iɣewwaṛen imezwar">
 <!ENTITY prefs_manage_components "Sefrek isuddas isemmadanen">
 <!ENTITY prefs_options_autoconnectruntime "Qqen tikelt nniḍen ɣer twennaṭ taneggarut">
-<!ENTITY prefs_options_autoconnectruntime_tooltip "Qqen tikelt nniḍen ɣer twennaṭ taneggarut di tnekra n WebIDE">
+<!ENTITY prefs_options_autoconnectruntime_tooltip "Qqen tikelt nniḍen ɣer twennaṭ taneggarut deg tnekra n WebIDE">
 <!ENTITY prefs_options_rememberlastproject "Cfu ɣef usenfaṛ aneggaru">
-<!ENTITY prefs_options_rememberlastproject_tooltip "Err-d asenfaṛ aneggaru di tnekra n WebIDE">
+<!ENTITY prefs_options_rememberlastproject_tooltip "Err-d asenfaṛ aneggaru deg tnekra n WebIDE">
 <!ENTITY prefs_options_templatesurl "URL n tneɣrufin">
 <!ENTITY prefs_options_templatesurl_tooltip "Amatar n tneɣrufin yellan">
-<!ENTITY prefs_options_showeditor "Sken amaẓrag">
-<!ENTITY prefs_options_showeditor_tooltip "Sken amaẓrag agensan">
-<!ENTITY prefs_options_tabsize "Teɣzi n yiccer">
-<!ENTITY prefs_options_expandtab "Tarigliwin s tallunin">
-<!ENTITY prefs_options_expandtab_tooltip "Seqdec tafinaɣt tilemt deg umḍiq n tfinaɣt n trigla">
-<!ENTITY prefs_options_detectindentation "Arigel awurman">
-<!ENTITY prefs_options_detectindentation_tooltip "Sumer arigel akken illa ugbur aɣbalu">
-<!ENTITY prefs_options_autocomplete "Taččart tawurmant">
-<!ENTITY prefs_options_autocomplete_tooltip "Rmed talgalt asmad awurman">
-<!ENTITY prefs_options_autoclosebrackets "Mdel ticciwin s wudem awurman">
-<!ENTITY prefs_options_autoclosebrackets_tooltip "Ger ticciwin tumdilin s wudem awurman">
-<!ENTITY prefs_options_keybindings "Inegzumen n unasiw">
-<!ENTITY prefs_options_keybindings_default "Amezwer">
-<!ENTITY prefs_options_autosavefiles "Kles ifuyla s twurmant">
-<!ENTITY prefs_options_autosavefiles_tooltip "Sekles s wudem awurman ifuyla ittuẓergen send aselkem n usenfaṛ">
-<!-- Runtime Details -->
 
+<!-- Runtime Details -->
 <!ENTITY runtimedetails_title "Talɣut ɣef twennaṭ">
 <!ENTITY runtimedetails_adbIsRoot "ADB ɣur-s taseglut n unebdal.">
 <!ENTITY runtimedetails_summonADBRoot "Ibenkan s tseglut n unebdal">
@@ -147,36 +128,36 @@
 <!ENTITY runtimedetails_unrestrictedPrivileges "Tisegluyin n ifecka n tenfalit war tilisa : ">
 <!ENTITY runtimedetails_requestPrivileges "suter ugar n izerfan">
 <!ENTITY runtimedetails_privilegesWarning "(ad isenker ibenk tikelt nniḍen. Isra taseglut n unebdal)">
-<!-- Device Preferences and Settings -->
 
+<!-- Device Preferences and Settings -->
 <!ENTITY device_typeboolean "Abulan">
 <!ENTITY device_typenumber "Ummid">
 <!ENTITY device_typestring "Azrir">
 <!ENTITY device_typeobject "Ta Γawsa">
 <!ENTITY device_typenone "Fren tawsit">
-<!-- Device Preferences -->
 
+<!-- Device Preferences -->
 <!ENTITY devicepreference_title "Ismenyifen n yibenk">
 <!ENTITY devicepreference_search "Nadi ismenyifen">
 <!ENTITY devicepreference_newname "Isem n usmenyaf amaynut">
 <!ENTITY devicepreference_newtext "Azal n usmenyaf">
 <!ENTITY devicepreference_addnew "Rnu asmenyaf amaynut">
-<!-- Device Settings -->
 
+<!-- Device Settings -->
 <!ENTITY devicesetting_title "Iɣewwaṛen n yibenk">
 <!ENTITY devicesetting_search "Nadi ismenyifen">
 <!ENTITY devicesetting_newname "Isem n uɣewwar amaynut">
 <!ENTITY devicesetting_newtext "Azal n uɣewwaṛ">
 <!ENTITY devicesetting_addnew "Rnu aɣewwaṛ amaynut">
-<!-- Monitor -->
 
+<!-- Monitor -->
 <!ENTITY monitor_title "Asefrak">
 <!ENTITY monitor_help "Tallalt">
+
 <!-- WiFi Authentication -->
 <!-- LOCALIZATION NOTE (wifi_auth_header): The header displayed on the dialog
      that instructs the user to transfer an authentication token to the
      server. -->
-
 <!ENTITY wifi_auth_header "Asulu n umsaɣ">
 <!-- LOCALIZATION NOTE (wifi_auth_scan_request): Instructions requesting the
      user to transfer authentication info by scanning a QR code. -->
@@ -191,11 +172,11 @@
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ma yella ibenk niḍḍen yessuter ajiṭun deg umdiq n tengalt QR, nɣel ma ulac aɣilif, azal n daw-a ɣer yibenk nniḍen.">
 <!ENTITY wifi_auth_qr_size_note "Ma yella tangalt QR meẓẓiyeḍ i tuqqna akken ad tettwag akken iwata, ɛreḍ asemɣeṛ neɣ asihrew n usfaylu.">
+
 <!-- Logs panel -->
-
 <!ENTITY logs_title "Iɣmisen n tludna n ukmas uzwir">
-<!-- Simulator Options -->
 
+<!-- Simulator Options -->
 <!ENTITY simulator_title "Iɣewwaṛen n serwas">
 <!ENTITY simulator_remove "Kkes aserwas">
 <!ENTITY simulator_reset "Err-ed iɣewwaṛen imezwar">

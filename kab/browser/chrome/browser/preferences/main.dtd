@@ -4,7 +4,7 @@
 
 <!ENTITY startup.label             "Asenker">
 
-<!ENTITY startupPage2.label        "Di tnekra n &brandShortName;">
+<!ENTITY startupPage2.label        "Deg tnekra n &brandShortName;">
 <!ENTITY startupPage2.accesskey    "m">
 <!ENTITY startupUserHomePage.label "Sken asebter-iw agejdan ">
 <!ENTITY startupBlankPage.label    "Sken asebter ilem">
