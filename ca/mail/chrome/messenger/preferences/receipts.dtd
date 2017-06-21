@@ -22,5 +22,5 @@
 <!ENTITY otherCases.label              "En tots els altres casos:">
 <!ENTITY otherCases.accesskey          "a">
 <!ENTITY askMe.label                   "Demana-m'ho">
-<!ENTITY alwaysSend.label              "Envia-ho sempre">
+<!ENTITY alwaysSend.label              "Envia-la sempre">
 <!ENTITY neverSend.label               "No enviïs mai">
