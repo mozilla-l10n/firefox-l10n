@@ -26,7 +26,7 @@
 <!ENTITY certmgr.issuerinfo.label             "ვისგანაა გაცემული">
 <!ENTITY certmgr.periodofvalidity.label       "მოქმედების ვადა" >
 <!ENTITY certmgr.fingerprints.label           "ანაბეჭდები">
-<!ENTITY certmgr.certdetail.title             "სერთიფიკატის დეტალები">
+<!ENTITY certmgr.certdetail.title             "სერთიფიკატის მონაცემები">
 <!ENTITY certmgr.certdetail.cn                "საერთო სახელი (CN)">
 <!ENTITY certmgr.certdetail.o                 "ორგანიზაცია (O)">
 <!ENTITY certmgr.certdetail.ou                "ორგანიზაციული ერთეული (OU)">
