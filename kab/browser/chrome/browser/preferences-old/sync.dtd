@@ -60,7 +60,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.accesskey            "y">
 
 <!ENTITY signedOut.caption            "Awi web-inek yid-k">
-<!ENTITY signedOut.description        "Mtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
+<!ENTITY signedOut.description        "Semtawi ticraḍ-inek n isebtar, amazray, awalen uffiren, izegrar, d ismenyifen akked ibenkan-inek akk.">
 <!ENTITY signedOut.accountBox.title   "Qqen ɣer &syncBrand.fxAccount.label;">
 <!ENTITY signedOut.accountBox.create  "Rnu amiḍan">
 <!ENTITY signedOut.accountBox.create.accesskey  "C">
