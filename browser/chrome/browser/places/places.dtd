@@ -13,7 +13,7 @@
 <!ENTITY file.close.label               "أغلق">
 <!ENTITY file.close.accesskey           "غ">
 <!ENTITY cmd.close.key                  "w">
-<!ENTITY views.label                    "المنظور">
+<!ENTITY views.label                    "المناظير">
 <!ENTITY views.accesskey                "ظ">
 <!ENTITY views.tooltip                  "غيّر المنظور">
 <!ENTITY view.columns.label             "أظهر الأعمدة">

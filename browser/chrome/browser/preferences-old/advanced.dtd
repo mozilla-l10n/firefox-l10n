@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "الإبلاغ عن البيانات معطّل في إعدادات البناء">
+
 <!ENTITY healthReportDesc.label          "يساعدك في تفحص أداء متصفحك ومشاركة بيانات حالة المتصفح مع &vendorShortName;">
 <!ENTITY enableHealthReport.label        "فعّل تقرير حالة &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "ت">
