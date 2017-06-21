@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY dialog.title                  "Confirmacions de recepció">
-<!ENTITY requestReceipt.label          "Quan s'estiguin enviant missatges, sempre sol·licita una confirmació de recepció">
+<!ENTITY requestReceipt.label          "Quan s'enviïn missatges, sempre sol·licita una confirmació de recepció">
 <!ENTITY requestReceipt.accesskey      "Q">
 <!ENTITY receiptArrive.label           "Quan arribi una confirmació de recepció:">
 <!ENTITY leaveIt.label                 "Deixa-la a la safata d'entrada">
@@ -23,4 +23,4 @@
 <!ENTITY otherCases.accesskey          "a">
 <!ENTITY askMe.label                   "Demana-m'ho">
 <!ENTITY alwaysSend.label              "Envia-la sempre">
-<!ENTITY neverSend.label               "No enviïs mai">
+<!ENTITY neverSend.label               "No l'enviïs mai">
