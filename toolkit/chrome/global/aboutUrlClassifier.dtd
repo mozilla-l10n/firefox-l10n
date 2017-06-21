@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Постачальник">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Час останнього оновлення">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Час наступного оновлення">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Час повернення назад">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Стан останнього оновлення">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Оновити">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Кеш">

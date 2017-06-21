@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Можливості доступності">
 <!ENTITY aboutSupport.a11yActivated "Активовано">
 <!ENTITY aboutSupport.a11yForceDisabled "Блокувати можливості доступності">
+<!ENTITY aboutSupport.a11yHandlerUsed "Використовується обробник доступності">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Версії бібліотек">
 
