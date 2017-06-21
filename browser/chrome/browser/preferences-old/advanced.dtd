@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Вибір даних">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Відправлення даних вимкнено для цієї конфігурації збірки">
+
 <!ENTITY healthReportDesc.label          "Допомагає зрозуміти як працює ваш браузер та надсилає дані про справність у &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Увімкнути звіт про справність &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "з">
