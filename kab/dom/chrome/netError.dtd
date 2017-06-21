@@ -4,8 +4,8 @@
 
 <!ENTITY loadError.label "Tuccḍa deg usali n usebter">
 <!ENTITY retry.label "Ɛreḍ i tikelt nniḍen">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Iguma ad yeqqen">
 <!ENTITY connectionFailure.longDesc "<p>Ɣas akken asmel yettban d ameɣtu, iminig ur izmir ara ad yeqqen.</p><ul><li>Ahat asmel ulac-it akka kra n wakud tura? Ɛreḍ tikelt nniḍen ticki.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li> <li>Aselkim-inek neɣ aqeddac-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi? Iɣewwaṛen arimeɣta zemren ad sweḥlen tunigin di Web.</li></ul>">
@@ -71,7 +71,7 @@
 <!ENTITY nssBadCert.longDesc2 "<ul> <li>Ay-agi yezmer ad yili d-ugur n twila n uqeddac neɣ d albaɛḍig ɛarḍen ad yakwer tamagit n uqeddac-agi.</li> <li>Ma yella teqqneḍ yakan ɣer uqeddac-agi, tuccḍa tezmer ahat ad tili d taskudant, u tzemreḍ ad tɛerḍeḍ i tikelt nniḍen ticki.</li> </ul>">
 
 <!ENTITY securityOverride.linkText "Neɣ tzemreḍ aţernuḍ tasureft…">
-<!ENTITY securityOverride.warningContent "<p>Ur issefk ara ad ternuḍ tasureft ma tseqdaceḍ tuqqna ɣer Internet anda ur teggiḍ ara taflest neɣ anda ur tuɣeḍ ara tanumi ttawḍenk-id wulɣuten i weqeddac-agi.</p><p>Ma tebɣiḍ ad ternuḍ tasureft i wesmel-agi, tzemreḍ ad ternuḍ deg iɣewwaṛen leqqayen n uwgelhen.</p>">
+<!ENTITY securityOverride.warningContent "<p>Ur issefk ara ad ternuḍ tasureft ma tseqdaceḍ tuqqna ɣer Internet anda ur tgiḍ ara taflest neɣ anda ur tuɣeḍ ara tannumi ttawḍen-k-id wulɣuten i uqeddac-a.</p><p>Ma tebɣiḍ ad ternuḍ tasureft i usmel-a, tzemreḍ ad ternuḍ deg iɣewwaṛen leqqayen n uwgelhen.</p>">
 
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
 <!ENTITY cspBlocked.longDesc "<p>Iminig isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">

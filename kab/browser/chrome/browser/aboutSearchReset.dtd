@@ -11,7 +11,7 @@
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
 followed by a dropdown of all the built-in search engines. -->
-<!ENTITY searchreset.selector.label "Ay-agi ad yesbadu amsedday n unadi amezwer ɣer ">
+<!ENTITY searchreset.selector.label "Ay-a ad yesbadu amsedday n unadi amezwer d">
 
 <!-- LOCALIZATION NOTE (searchreset.beforelink.pageInfo,
 searchreset.afterlink.pageInfo): these two string are used respectively
