@@ -885,8 +885,8 @@
 <!ENTITY AddDirectlyToAddressBook.accesskey "د">
 <!ENTITY EditContact1.label "حرّر جهة الاتصال">
 <!ENTITY EditContact1.accesskey "ح">
-<!ENTITY ViewContact.label "شاهِد معلومات جهة الاتصال">
-<!ENTITY ViewContact.accesskey "ت">
+<!ENTITY ViewContact.label "أعرض جهة الاتصال">
+<!ENTITY ViewContact.accesskey "ع">
 <!ENTITY SubscribeToNewsgroup.label "اشترك في مجموعة الأخبار">
 <!ENTITY SubscribeToNewsgroup.accesskey "ش">
 <!ENTITY SendMessageTo.label "اكتب رسالة إلى">

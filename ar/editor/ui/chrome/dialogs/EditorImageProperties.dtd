@@ -7,7 +7,7 @@
 
 <!ENTITY windowTitle.label "خصائص الصورة">
 
-<!ENTITY pixelsPopup.value "عنصورات">
+<!ENTITY pixelsPopup.value "بكسل">
 <!-- These are in the Location tab panel -->
 
 <!ENTITY locationEditField.label "مكان الصورة:">

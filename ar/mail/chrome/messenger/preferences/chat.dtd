@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  startupAction.label         "عندما يبدأ &brandShortName;:">
-<!ENTITY  startupAction.accesskey     "د">
+<!ENTITY  startupAction.label         "عند بدء &brandShortName;:">
+<!ENTITY  startupAction.accesskey     "ب">
 <!ENTITY  startupOffline.label        "اترك حسابات الدردشة غير متصلة">
 <!ENTITY  startupConnectAuto.label    "اتصل بحسابات الدردشة تلقائيا">
 <!-- LOCALIZATION NOTE: reportIdleAfter.label is displayed first, then
