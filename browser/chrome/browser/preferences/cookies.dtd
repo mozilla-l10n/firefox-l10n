@@ -4,7 +4,7 @@
 
 <!ENTITY window.width                       "36em">
 
-<!ENTITY     cookiesonsystem.label          "பின்வரும் குக்கீகள் உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
+<!ENTITY     cookiesonsystem.label          "பின்வரும் நினைவிகள் உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
 <!ENTITY     cookiename.label               "குக்கீ பெயர்">
 <!ENTITY     cookiedomain.label             "தளம்">
 
@@ -16,7 +16,7 @@
 <!ENTITY     props.expires.label            "காலாவதியாகிவிட்டது:">
 <!ENTITY     props.container.label          "கொள்கலம்:">
 
-<!ENTITY     window.title                   "குக்கீகள்">
+<!ENTITY     window.title                   "நினைவிகள்">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
