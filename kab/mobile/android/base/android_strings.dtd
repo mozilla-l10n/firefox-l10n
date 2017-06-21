@@ -159,7 +159,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Yettwacreḍ yakan">
 <!ENTITY overlay_share_send_other "Azen ɣer yibenkan nniḍen">
 
-<!ENTITY overlay_share_open_browser_btn_label "Ldi di &brandShortName;">
+<!ENTITY overlay_share_open_browser_btn_label "Ldi deg &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -175,7 +175,7 @@
 <!ENTITY pref_category_search3 "Nadi">
 <!ENTITY pref_category_search_summary2 "Rnu, Sbadu d amezwer, sken isumar">
 <!ENTITY pref_category_accessibility "Tuffart">
-<!ENTITY pref_category_accessibility_summary2 "Teɣzi n uḍris, asemɣeṛ/Asemẓi, anekcam n taɣect">
+<!ENTITY pref_category_accessibility_summary2 "Teɣzi n uḍris, azumi, asekcem s taɣect">
 <!ENTITY pref_category_privacy_short "Tabaḍnit">
 <!ENTITY pref_category_privacy_summary4 "Asfuɣel, inekcumen,afran n isefka">
 <!ENTITY pref_category_vendor2 "&vendorShortName; &brandShortName;">
@@ -290,7 +290,7 @@
 <!ENTITY pref_custom_tabs_summary3 "Sireg isnasen akken ad d-ldin ismal web s useqdec n lqem udmawan n &brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-<!ENTITY custom_tabs_menu_item_open_in "Ldi di &formatS;">
+<!ENTITY custom_tabs_menu_item_open_in "Ldi deg &formatS;">
 <!ENTITY custom_tabs_menu_footer "Isumer-it-d &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Tansa URL tettwanγel">
@@ -355,8 +355,8 @@
 <!-- Localization note (pref_clear_private_data_now_tablet): This action to clear private data is only shown on tablets.
      The action is shown below a header saying "Clear private data"; See pref_clear_private_data -->
 <!ENTITY pref_clear_private_data_now_tablet "Sfeḍ tura">
-<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen di tuffɣa">
-<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka yinek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
+<!ENTITY pref_clear_on_exit_title3 "Sfeḍ isefka usligen deg tuffɣa">
+<!ENTITY pref_clear_on_exit_summary2 "&brandShortName; ad yesfeḍ s wudem awurman isefka-inek mara tferneḍ \u0022Ffeɣ\u0022 seg umuɣ agejdan">
 <!ENTITY pref_clear_on_exit_dialog_title "Fren isefka ara tsefḍeḍ">
 <!ENTITY pref_plugins "Izegrar imernan">
 <!ENTITY pref_plugins_enabled "Irmed">
@@ -373,8 +373,8 @@
 
 <!ENTITY pref_media_autoplay_enabled "Sireg urar awurman">
 <!ENTITY pref_media_autoplay_enabled_summary "Senqed ma yella ismal web zemren ad uraren tividyutin d ugbur nniḍen s wudem awurman">
-<!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣeṛ/asemẓi">
-<!ENTITY pref_zoom_force_enabled_summary "Ɛeddi iɣewwaṛen akken ad tezmireḍ ad tesmeɣreḍ neɣ ad tsemẓiyeḍ isebtar">
+<!ENTITY pref_zoom_force_enabled "Remmed yal tikelt asemɣer/asemẓi">
+<!ENTITY pref_zoom_force_enabled_summary "Ḥettem iɣewwaṛen akken ad tizmireḍ ad tesmeɣreḍ neɣ ad tessemẓiḍ isebtar">
 <!ENTITY pref_voice_input "Asekcem n taɣect">
 <!ENTITY pref_voice_input_summary2 "Sireg asuter s taɣect deg ufeggag n tansa URL">
 <!ENTITY pref_qrcode_enabled "Amerɣri n tengalt QR">
@@ -405,13 +405,13 @@
 <!ENTITY pref_default_browser_mozilla_support_tablet "Rzu ɣer tallalt Mozilla">
 <!ENTITY pref_about_firefox "Ɣef &brandShortName;">
 <!ENTITY pref_vendor_faqs "Isteqsiyen FAQ">
-<!ENTITY pref_vendor_feedback "Mudd-d tikti-k">
+<!ENTITY pref_vendor_feedback "Efk-d tikti-k">
 
 <!ENTITY pref_dialog_set_default "Sbadu-t d amezwer">
 <!ENTITY pref_dialog_default "Amezwer">
 <!ENTITY pref_dialog_remove "Kkes">
 
-<!ENTITY pref_search_last_toast "Ur tezmired ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday-inek n unadi aneggaru.">
+<!ENTITY pref_search_last_toast "Ur tezmireḍ ara ad tekkseḍ neɣ ad tekkseḍ armad n umsedday-inek n unadi aneggaru.">
 
 <!ENTITY pref_panels_show "Sken">
 <!ENTITY pref_panels_hide "Ffer">
@@ -443,8 +443,8 @@
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Amazan n ineqqisen n uɣelluy">
-<!ENTITY datareporting_wifi_title2 "Ameẓlu n tensa n &vendorShortName;">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Mudd afus i &vendorShortName; deg usuneɣ n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yibenk-inek akken ad yennerni umeẓlu n usideg arakal.">
+<!ENTITY datareporting_wifi_title2 "Ameẓlu n tansa n &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "All &vendorShortName; deg usuneɣ n tkarḍa n umaḍal! Bḍu tansa n Wi-Fi akked tiliɣri n ufus n yibenk-inek akken ad yennerni umeẓlu n usideg arakal.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -708,7 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "Akken ad d-tessidreḍ ifuyla akked ileqman, mudd i &brandShortName; tasiregt n unekcum ɣer usekles.">
+<!ENTITY updater_permission_text "Akken ad d-tessidreḍ ifuyla akked ileqman, efk i &brandShortName; tasiregt n unekcum ɣer usekles.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Sireg">
 
@@ -718,7 +718,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "Ddu ɣer zdat">
 <!ENTITY guest_session_dialog_cancel "Sefsex">
 <!ENTITY new_guest_session_title "&brandShortName; ad yekker tura">
-<!ENTITY new_guest_session_text2 "Amdan i t-iseqdacen ur yettizmir ara ad iwaliisefka yinek n tunigin tusligt (am inekcam, amazray neɣ ticrad yettwakelsen).\n\nTicki inebgi ifuk tunigin, isefka yines n tunigin ad ttwakksen u tiɣimit ad d-uɣal.">
+<!ENTITY new_guest_session_text2 "Amdan i t-iseqdacen ur yettizmir ara ad iwali isefka-inek n tunigin tusligt (am inekcam, amazray neɣ ticrad yettwakelsen).\n\nTicki inebgi ifuk tunigin, isefka-ines n tunigin ad ttwakksen u tiɣimit ad d-tuɣal.">
 <!ENTITY guest_browsing_notification_title "Tunigin am inebgi tettwarmed">
 <!ENTITY guest_browsing_notification_text "Senned akken ad teffɣeḍ">
 
