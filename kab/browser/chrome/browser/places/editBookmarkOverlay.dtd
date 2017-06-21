@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Tansa n usmel:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "a">
 <!ENTITY editBookmarkOverlay.folder.label                    "Akaram:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Sken akk ticraḍ n isebtar n ikaramen">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Sken akk ikaramen n tecraḍ n isebtar">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ffer">
 <!ENTITY editBookmarkOverlay.tags.label                      "Tabzimt:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "m">

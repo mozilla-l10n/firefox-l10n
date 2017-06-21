@@ -81,9 +81,9 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Afeggag n wumuɣ">
 <!ENTITY menubarCmd.accesskey "A">
 <!ENTITY navbarCmd.label "Afeggag n tunigin">
-<!ENTITY personalbarCmd.label "Afeggag udmawan">
+<!ENTITY personalbarCmd.label "Afeggag n tecraḍ">
 <!ENTITY personalbarCmd.accesskey "d">
-<!ENTITY bookmarksToolbarItem.label "Iferdisen n ufeggag udmawan">
+<!ENTITY bookmarksToolbarItem.label "Iferdisen n ufeggag n tecraḍ">
 
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Smiren akk iccaren">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "m">
@@ -183,9 +183,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
-<!ENTITY otherBookmarksCmd.label "Ticrad nniḍen">
+<!ENTITY otherBookmarksCmd.label "Ticraḍ nniḍen">
 <!ENTITY mobileBookmarksCmd.label "Ticraḍ n isebtar n uziraz">
-<!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n ticraḍ n isebtar">
+<!ENTITY bookmarksToolbarChevron.tooltip "Sken ugar n tecraḍ n isebtar">
 <!ENTITY showRecentlyBookmarked.label     "Wali tid ittwacerḍen melmi kan">
 <!ENTITY showRecentlyBookmarked.accesskey "W">
 <!ENTITY hideRecentlyBookmarked.label     "Ffer wid ittwacerḍen melmi kan">
@@ -246,8 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenuButton.other.label "Ticrad nniḍen">
 <!ENTITY bookmarksMenuButton.mobile.label "Ticraḍ n isebtar n uziraz">
-<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n ticraḍ n usebter">
-<!ENTITY viewBookmarksToolbar.label         "Skena afeggag  udmawan">
+<!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n isebtar">
+<!ENTITY viewBookmarksToolbar.label         "Sken afeggag n tecraḍ">
 
 <!ENTITY containersMenu.label "Imagbaren">
 
@@ -811,7 +811,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "d">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Ldi deg usfaylu uslig amaynut">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "L">
-<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Creḍ asebter-agi…">
+<!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Creḍ iccer-a…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "C">
 <!ENTITY syncedTabs.context.copy.label                       "Nɣel">
 <!ENTITY syncedTabs.context.copy.accesskey                   "N">
