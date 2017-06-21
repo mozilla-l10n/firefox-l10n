@@ -5,7 +5,7 @@
 <!ENTITY window.width                       "36em">
 
 <!ENTITY     cookiesonsystem.label          "பின்வரும் நினைவிகள் உங்கள் கணினியில் சேமிக்கப்பட்டுள்ளன:">
-<!ENTITY     cookiename.label               "குக்கீ பெயர்">
+<!ENTITY     cookiename.label               "நினைவி பெயர்">
 <!ENTITY     cookiedomain.label             "தளம்">
 
 <!ENTITY     props.name.label               "பெயர்:">
