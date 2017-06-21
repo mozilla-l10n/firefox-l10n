@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "گزارش کردن اطلاعات برای این پیکربندی ساخته شده غیرفعال شده است">
+
 <!ENTITY healthReportDesc.label          "به شما در درک عملکرد مرورگرتان یاری می‌رساند و اطلاعاتی را در مورد سلامتی مرورگر شما با&vendorShortName; به اشتراک می‌گذارد.">
 <!ENTITY enableHealthReport.label        "فعال‌کردن گزارش سلامتی &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "گ">
