@@ -200,7 +200,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY reloadCmd.label              "გადატვირთვა">
 <!ENTITY stopCmd.label                "გაჩერება">
 <!ENTITY stopCmd.macCommandKey        ".">
-<!ENTITY goEndCap.tooltip             "მდებარეობის ზოლში ნაჩვენებ მისამართზე გადასვლა">
+<!ENTITY goEndCap.tooltip             "მისამართზე გადასვლა">
 <!ENTITY printButton.label            "ამობეჭდვა">
 <!ENTITY printButton.tooltip          "გვერდის ამობეჭდვა">
 
