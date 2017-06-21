@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Poskytovateľ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Čas poslednej aktualizácie">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Čas ďalšej aktualizácie">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Čas návratu">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stav poslednej aktualizácie">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Aktualizovať">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Vyrovnávacia pamäť">
