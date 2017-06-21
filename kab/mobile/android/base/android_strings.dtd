@@ -139,7 +139,7 @@
      section in which the user picks the locale in which to display Firefox
      UI. The locale includes both language and region concepts. -->
 <!ENTITY pref_category_language "Tutlayt">
-<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig inek">
+<!ENTITY pref_category_language_summary "Snifel tutlayt n iminig-inek">
 <!ENTITY pref_browser_locale "Tutlayt n iminig">
 
 <!-- Localization note (locale_system_default) : This string indicates that
@@ -193,7 +193,7 @@
      search providers.
      The &formatI; in the string will be replaced by a small image of the icon described, and can be moved to wherever
      it is applicable. -->
-<!ENTITY pref_search_hint2 "TAXBALUT: Rnu yal asmel web ɣer tebdart-inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti yines n unadi sakin nnal tignit &formatI;.">
+<!ENTITY pref_search_hint2 "TAXBALUT: Rnu kra n usmel web ɣer tebdart-inek n isaǧǧawen n unadi s usenned ɣuzzifen ɣer wurti yines n unadi sakin nnal tignit &formatI;.">
 <!ENTITY pref_category_advanced "Talqayt">
 <!-- Localization note (pref_category_advanced_summary3): “data saver” in this
      context means consuming less data, e.g. by not loading images, not
@@ -270,7 +270,7 @@
 <!ENTITY pref_tracking_protection_title2 "Ammesten mgal asfuɣel">
 <!ENTITY pref_tracking_protection_summary3 "yettwarmed deg tunigin tusligt">
 <!ENTITY pref_donottrack_title "Ur sfuɣul ara">
-<!ENTITY pref_donottrack_summary "&brandShortName; ad yini i yismal d akken ur tebɣiḍ ara ak-sfuɣlen">
+<!ENTITY pref_donottrack_summary "&brandShortName; ad yini i yismal dakken ur tebɣiḍ ara a k-sfuɣlen">
 
 <!ENTITY pref_tracking_protection_enabled "Irmed">
 <!ENTITY pref_tracking_protection_enabled_pb "Yettwarmed deg tunigin tusligt">
@@ -529,15 +529,15 @@
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
 <!ENTITY pref_scroll_title_bar2 "Tunigin deg ugdil aččuran">
-<!ENTITY pref_scroll_title_bar_summary2 "Ffer afeggag n ifecka n &brandShortName; deg udrerem n usebter d akessar">
+<!ENTITY pref_scroll_title_bar_summary2 "Ffer afeggag n ifecka n &brandShortName; deg udrurem n usebter d akessar">
 
-<!ENTITY pref_tab_queue_title3 "Adras n ticcer">
+<!ENTITY pref_tab_queue_title3 "Adras n iccaren">
 <!ENTITY pref_tab_queue_summary4 "Sekles iseɣwan arma teldiḍ-d &brandShortName; tikelt d-itteddun.">
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
 <!ENTITY pref_compact_tabs "Iccaren ussiden">
-<!ENTITY pref_compact_tabs_summary2 "Seggem iccaren di snat n tgejda du uskar ahrawan">
+<!ENTITY pref_compact_tabs_summary2 "Seggem iccaren deg snat n tgejda deg uskar ahrawan">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -783,7 +783,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "Sfeḍ amazray">
 <!ENTITY restrictable_feature_clear_history_description "Eǧǧ tawacult-ik ad kksen talɣut ɣef ismal akked isebtar i walan.">
 <!ENTITY restrictable_feature_advanced_settings "Iɣewwaṛen leqqayen">
-<!ENTITY restrictable_feature_advanced_settings_description "Ay-agi yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen deg twacult-ik.">
+<!ENTITY restrictable_feature_advanced_settings_description "Ay-a yegber akter n tecṛaḍ, tiririt n yiccaren akked ileqman iwurmanen. Kkes armad akken ad ifsusen iɣewwaṛen i yal yiwen deg twacult-ik.">
 <!ENTITY restrictable_feature_camera_microphone "Takamirat &amp; usawaḍ">
 <!ENTITY restrictable_feature_camera_microphone_description "Ad isireg i twacult ad mmeslayen lwaḥid ɣef yesmal web.">
 <!ENTITY restrictable_feature_block_list "Tabdart n usewḥel">
