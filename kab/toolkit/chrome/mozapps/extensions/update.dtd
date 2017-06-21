@@ -29,12 +29,12 @@
 <!ENTITY  noupdates.wizard.title          "Ulac azegrir imṣadan">
 <!ENTITY  noupdates.intro.desc            "&brandShortName; ur yezmir ara ad yaf ileqman i yizegrar-inek ur nemṣada ara.">
 <!ENTITY  noupdates.error.desc            "Kra n wuguren ţumugren-d deg unadi n ileqman.">
-<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ad isenqed si s ya ɣer da u wak-id inermes ɣef ileqman imṣadan ticki heggan.">
+<!ENTITY  noupdates.checkEnabled.desc     "&brandShortName; ad isenqed sya ɣer da u a k-id inermes ɣef ileqman imṣadan ticki heggan.">
 
 <!ENTITY  finished.wizard.title           "Izegrar imernan imsaḍan bedden">
 <!ENTITY  finished.top.label              "&brandShortName; isebded ileqman n izegrar-inek.">
-<!ENTITY  finished.checkDisabled.desc     "&brandShortName; ad isenqed si s ya ɣer da u wak-d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
-<!ENTITY  finished.checkEnabled.desc      "&brandShortName; ad isenqed si s ya ɣer da u w-ak d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
+<!ENTITY  finished.checkDisabled.desc     "&brandShortName; ad isenqed sya ɣer da u a k-d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
+<!ENTITY  finished.checkEnabled.desc      "&brandShortName; ad isenqed sya ɣer da u a k-d-yefk tallalt ticki ileqman n izegrar imernan heggan.">
 
 <!ENTITY  adminDisabled.wizard.title      "D-awezɣi asenqed n tilin n ileqman">
 <!ENTITY  adminDisabled.warning.label     "D awezɣi asenqed n tilin n ileqman i yizegrar-inek ur nemṣada ara acku asebded n iseɣẓanen i &brandShortName; itturermed. Ma ulac aɣilif, nermes anedbal n unagraw-ik ma tebɣiḍ tallalt.aramsaḍan">
@@ -47,6 +47,6 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; yufa-d uguren deg uleqqem n kra n izegrar imernan ">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "Sit ɣef Fak akken ad tedduḍ deg usenker n &brandShortName;.">
-<!ENTITY  clickFinish.labelMac            "Sit ɣef Fak akken ad tedduḍ d usenker n &brandShortName;.">
+<!ENTITY  clickFinish.label               "Sit ɣef Fak akken ad tkemmleḍ asenker n &brandShortName;.">
+<!ENTITY  clickFinish.labelMac            "Sit ɣef Fak akken ad tkemmleḍ asenker n &brandShortName;.">
 <!ENTITY  enableChecking.label            "Sireg i &brandShortName; asenqed n ileqman.">

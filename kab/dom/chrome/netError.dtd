@@ -47,7 +47,7 @@
 <!ENTITY netReset.longDesc "<p>Aseɣwen ɣer uẓeṭṭa yegzem makken ittaɛraḍ ad yeqqen. Ma ulac aɣilif, ɛreḍ tikelt nniḍen.</p>">
 
 <!ENTITY netTimeout.title "Akud n uṛaǧu yezri">
-<!ENTITY netTimeout.longDesc "<p>Asmel ittusutren ur d-yerri ara tuttra n tuqqna, iminig iseḥbes araǧu n tririt.</p><ul><li>Ahat iṭuqqet usuter n tuttriwin ɣef uqeddac neɣ yeḥbes kra n wakud akka tura?  Ɛṛeḍ tikelt nniḍen.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim inek.</li> <li>Aselkim-inek neɣ aqeddac-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi? Iɣewwaṛen ur nelli d imeɣta zemren ad sweḥlen tunigin deg Web.</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
+<!ENTITY netTimeout.longDesc "<p>Asmel ittusutren ur d-yerri ara tuttra n tuqqna, iminig iseḥbes araǧu n tririt.</p><ul><li>Ahat iṭuqqet usuter n tuttriwin ɣef uqeddac neɣ yeḥbes kra n wakud akka tura?  Ɛṛeḍ tikelt nniḍen.</li><li>Tzemreḍ ad tkecmeḍ ɣeṛ ismal nniḍen?  Senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li> <li>Aselkim-inek neɣ aqeddac-inek ittummesten s uɣrab n tmes neɣ apṛuksi? Iɣewwaṛen ur nelli d imeɣta zemren ad sweḥlen tunigin deg Web.</li><li>Zgan ɣur-k wuguren? Nermes anedbal-ik n unagraw neɣ aseǧǧaw-ik n Internet i tallalt.</li></ul>">
 
 <!ENTITY unknownProtocolFound.title "Aneggaf arussin">
 <!ENTITY unknownProtocolFound.longDesc "<p>Tansa temmaled aneggaf (amedya <q>wxyz://</q>) arussin n iminig, ihi iminig ur yezmir ara ad iqqen ɣer usmel.</p><ul><li>Tettaɛraḍeḍ ad tkecmeḍ ɣer tanfiwin n wallalen n teywalt neɣ araḍris? Senqed asmel ma yesra ayen nniḍen.</li><li>Kra n ineggafen sran aseɣẓan neɣ azegrir wis kraḍ send ad ten-yissin iminig.</li></ul>">
