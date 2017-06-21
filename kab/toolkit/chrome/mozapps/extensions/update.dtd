@@ -15,7 +15,7 @@
 
 <!ENTITY  checking.wizard.title           "Asenqed n izegrar imernan yemṣadan">
 <!ENTITY  checking.top.label              "Asenqed n izegrar imernan ur nemṣada ara…">
-<!ENTITY  checking.status                 "Ay-agi yezmer ad yawi deqs n tesdatin…">
+<!ENTITY  checking.status                 "Ay-a yezmer ad yeṭṭef kra n tesdadin…">
 
 <!ENTITY  found.wizard.title               "Izegrar imernan imsaḍan ţwaffen">
 <!ENTITY  found.top.label                 "Fren izegrar imernan tebɣiḍ ad tesbeddeḍ:">
@@ -41,12 +41,12 @@
 
 <!ENTITY  versioninfo.wizard.title        "Asenqed n umsaḍa n izegrar imernan">
 <!ENTITY  versioninfo.top.label           "Asenqed n umṣada n izegrar-inek imernan d lqem-agi &brandShortName;.">
-<!ENTITY  versioninfo.waiting             "Ay-agi yezmer ad yawi kra n tesdatin…">
+<!ENTITY  versioninfo.waiting             "Ay-a yezmer ad yeṭṭef kra n tesdadin…">
 
 <!ENTITY  installerrors.wizard.title      "Ugure deg usebded n ileqman">
 <!ENTITY  installerrors.intro.label       "&brandShortName; yufa-d uguren deg uleqqem n kra n izegrar imernan ">
-<!-- general strings used by several of the finish pages -->
 
+<!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Sit ɣef Fak akken ad tedduḍ deg usenker n &brandShortName;.">
 <!ENTITY  clickFinish.labelMac            "Sit ɣef Fak akken ad tedduḍ d usenker n &brandShortName;.">
 <!ENTITY  enableChecking.label            "Sireg i &brandShortName; asenqed n ileqman.">

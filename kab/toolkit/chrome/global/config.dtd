@@ -3,10 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "ɣef:tawila">
+
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-
-<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, ay-agi yezmer ad k-iḍuṛṛ!">
+<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, ay-a yezmer ad k-iḍuṛṛ!">
 <!ENTITY aboutWarningText.label "Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.">
 <!ENTITY aboutWarningButton2.label "Gziɣ uguren!">
 <!ENTITY aboutWarningCheckbox.label "Sken alɣu-yagi tikelt d-iteddun">
@@ -15,18 +15,18 @@
 <!ENTITY searchPrefs.accesskey "N">
 <!ENTITY focusSearch.key "r">
 <!ENTITY focusSearch2.key "f">
-<!-- Columns -->
 
+<!-- Columns -->
 <!ENTITY prefColumn.label "Isem n usmenyaf">
 <!ENTITY lockColumn.label "Addad">
 <!ENTITY typeColumn.label "Tawsit">
 <!ENTITY valueColumn.label "Azal">
-<!-- Tooltips -->
 
+<!-- Tooltips -->
 <!ENTITY prefColumnHeader.tooltip "Sit i wesmizzwer"> 
 <!ENTITY columnChooser.tooltip "Fren tigejda ad sekneḍ"> 
-<!-- Context Menu -->
 
+<!-- Context Menu -->
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "Nɣel">
 <!ENTITY copyPref.accesskey "N">
