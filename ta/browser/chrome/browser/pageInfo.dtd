@@ -76,8 +76,8 @@
 
 <!ENTITY  securityView.privacy.header                   "தனியுரிமை &amp; வரலாறு">
 <!ENTITY  securityView.privacy.history                  "இன்று நான் இந்த இணையதளத்தை முன்பு பார்த்தேனா?">
-<!ENTITY  securityView.privacy.cookies                  "இந்த இணைய தளம் தகவல்களை (குக்கீகளை) என் கணினியில் சேமிக்கிறதா?">
-<!ENTITY  securityView.privacy.viewCookies              "குக்கீகளை பார்வையிடு">
+<!ENTITY  securityView.privacy.cookies                  "இந்த இணைய தளம் தகவல்களை (நினைவிகளை) என் கணினியில் சேமிக்கிறதா?">
+<!ENTITY  securityView.privacy.viewCookies              "நினைவிகளை பார்வையிடு">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "k">
 <!ENTITY  securityView.privacy.passwords                "இந்த இணைய தளத்தின் கடவுச்சொல்லை சேமித்துள்ளேனா?">
 <!ENTITY  securityView.privacy.viewPasswords            "சேமிக்கப்பட்ட கடவுச்சொற்களை பார்வையிடு">

@@ -72,7 +72,7 @@
 <!ENTITY  historyHeader.custom.label       "வரலாறுக்கான விருப்பமை அமைவுகளைப் பாவிக்கும்">
 <!ENTITY  historyHeader.post.label         "">
 
-<!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் குக்கீகளையும் வைத்திருக்கும்.">
+<!ENTITY  rememberDescription.label      "&brandShortName; உங்கள் உலாவும், பதிவிறக்கும், படிவ மற்றும் தேடும் வரலாற்றை நினைவில் வைத்து நீங்கள் பார்வையிடும் இணைய தளங்களின் நினைவிகளையும் வைத்திருக்கும்.">
 <!-- LOCALIZATION NOTE (rememberActions.pre.label): include a trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.middle.label): include a starting and trailing space as needed -->
 <!-- LOCALIZATION NOTE (rememberActions.post.label): include a starting space as needed -->
@@ -80,7 +80,7 @@
 <!ENTITY  rememberActions.pre.label           "நீங்கள் இதற்கு விரும்பலாம்">
 <!ENTITY  rememberActions.clearHistory.label  "உங்கள் சமீபத்திய வரலாற்றை துடை">
 <!ENTITY  rememberActions.middle.label        ", அல்லது">
-<!ENTITY  rememberActions.removeCookies.label "தனி குக்கீகளை நீக்கு">
+<!ENTITY  rememberActions.removeCookies.label "தனி நினைவிகளை நீக்கு">
 <!ENTITY  rememberActions.post.label          ".">
 
 <!ENTITY  dontrememberDescription.label  "&brandShortName; தனி உலாவல் அமைப்புகளையே பயன்படுத்தும் , மற்றும் நீங்கள் இணையத்தை உலாவும் போது எந்த வரலாற்றையும் நினைவில் கொள்ளாது.">
