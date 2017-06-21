@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "저장일">
 <!ENTITY col.lastmodified.label  "마지막 수정일">
 
-<!ENTITY search.label                              "검색:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "검색">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "항목을 선택하면 이름과 자세한 정보를 수정 및 편집할 수 있습니다.">
 
-<!ENTITY find.label               "찾기:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "보기">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "날짜 순서로">
