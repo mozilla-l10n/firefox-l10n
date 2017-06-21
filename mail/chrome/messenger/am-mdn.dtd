@@ -9,7 +9,7 @@
 <!ENTITY globalReceipts.accesskey     "g">
 <!ENTITY useCustomPrefs.label         "Personalitza les confirmacions de recepció per a aquest compte">
 <!ENTITY useCustomPrefs.accesskey     "P">
-<!ENTITY requestReceipt.label         "Quan s'estan enviant missatges, sempre sol·licita una confirmació de recepció">
+<!ENTITY requestReceipt.label         "Quan s'enviïn missatges, sempre sol·licita una confirmació de recepció">
 <!ENTITY requestReceipt.accesskey     "Q">
 <!ENTITY receiptArrive.label          "Quan arribi una confirmació de recepció:">
 <!ENTITY leaveIt.label                "Deixa-la a la safata d'entrada">
@@ -30,4 +30,4 @@
 <!ENTITY otherCases.accesskey         "o">
 <!ENTITY askMe.label                  "Demana-m'ho">
 <!ENTITY alwaysSend.label             "Envia-la sempre">
-<!ENTITY neverSend.label              "No ho enviïs mai">
+<!ENTITY neverSend.label              "No l'enviïs mai">
