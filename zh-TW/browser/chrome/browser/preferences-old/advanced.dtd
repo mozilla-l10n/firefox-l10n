@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "回報資料">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "進行編譯設定時，已停用了資料回報功能">
+
 <!ENTITY healthReportDesc.label          "幫助您瞭解您瀏覽器的效能，並將瀏覽器的健康資料分享給 &vendorShortName;">
 <!ENTITY enableHealthReport.label        "啟用 &brandShortName; 健康檢查報告">
 <!ENTITY enableHealthReport.accesskey    "R">
