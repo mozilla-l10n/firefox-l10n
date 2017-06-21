@@ -28,6 +28,10 @@
 
 <!ENTITY dataChoicesTab.label            "Veri Tercihleri">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "Tarayıcı performansınızı anlamanıza yardımcı olur ve tarayıcı sağlığınızla ilgili verileri &vendorShortName; ile paylaşır">
 <!ENTITY enableHealthReport.label        "&brandShortName; Sağlık Raporu’nu etkinleştir">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -149,5 +153,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Daha fazla içerik işlemine izin verdiğinizde, çok sayıda sekme açıkken performans artar ama daha fazla bellek kullanılır.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "İçerik işlemi sayısını değiştirmek yalnızca çok işlemli &brandShortName; ile mümkündür.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Çok işlemin etkin olmadığını kontrol etmeyi öğrenin">
 <!ENTITY allowHWAccel.label              "Mümkün olduğunda donanım ivmelenmesini kullan">
 <!ENTITY allowHWAccel.accesskey          "d">
