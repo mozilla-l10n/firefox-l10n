@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  history.title             "تاريخ التحديث">
+<!ENTITY  history.title             "تأريخ التحديث">
 <!ENTITY  history.intro             "نُصّبت التحديثات التالية:">
 <!ENTITY  closebutton.label         "أغلق">
                                      
