@@ -39,7 +39,7 @@
 <!ENTITY headersOnly.accesskey "ن">
 <!ENTITY deleteByAgeFromServer.label "لمدة أقصاها">
 <!ENTITY deleteByAgeFromServer.accesskey "م">
-<!ENTITY daysEnd.label "أيّام">
+<!ENTITY daysEnd.label "أيام">
 <!ENTITY deleteOnServer2.label "حتى أحذفها">
 <!ENTITY deleteOnServer2.accesskey "ح">
 <!ENTITY downloadOnBiff.label "نزِّل الرسائل الجديدة آليًّا">

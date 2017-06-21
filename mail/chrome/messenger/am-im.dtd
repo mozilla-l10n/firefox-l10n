@@ -6,7 +6,7 @@
 <!ENTITY accountWindow.width           "300">
 <!ENTITY account.general               "عام">
 <!ENTITY account.advanced              "خيارات متقدمة">
-<!ENTITY account.name                  "إسم المستخدم:">
+<!ENTITY account.name                  "اسم المستخدم:">
 <!ENTITY account.password              "كلمة السر:">
 <!ENTITY account.alias                 "الكنية:">
 <!ENTITY account.newMailNotification   "أعلِم بوصول بريد جديد">

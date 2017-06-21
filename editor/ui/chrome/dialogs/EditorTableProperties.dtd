@@ -67,7 +67,7 @@
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label                       "المقاس">
-<!ENTITY pixels.label                     "عنصورات">
+<!ENTITY pixels.label                     "بكسل">
 <!ENTITY backgroundColor.label            "لون الخلفية:">
 <!ENTITY backgroundColor.accessKey        "ل">
 <!ENTITY AlignLeft.label                  "يسارًا">

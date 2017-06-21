@@ -15,4 +15,4 @@
 <!ENTITY borderEditField.label "الحد:">
 <!ENTITY borderEditField.accessKey "ح">
 <!ENTITY borderEditField.tooltip "اكتب رقمًا لحدود الجدول أو اكتب صفرًا (0) لغياب الحدود">
-<!ENTITY pixels.label "عنصورات">
+<!ENTITY pixels.label "بكسل">
