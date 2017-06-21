@@ -12,6 +12,6 @@
 <!ENTITY safeModeDescription4.label   "Izegrar d iɣewwaṛen-inek udmawanen ad reremden kra n wakud.">
 
 <!ENTITY refreshProfileInstead.label  "Tzemreḍ daɣen ad teffɣeḍ seg uskar aɣelsan udiɣ ad tsenkreḍ aseggem awurman n &brandShortName;.">
-<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
 
-<!ENTITY autoSafeModeDescription3.label "&brandShortName; yerken s wudem ur nettwarǧi ara. Ay-agi yezmer ad yili s sebba n izegrar neɣ n wuguren nniḍen. Tzemreḍ ad tefruḍ ugur-agi s useggwem deg uskar aɣelsan.">
+<!-- LOCALIZATION NOTE (autoSafeModeDescription3.label): Shown on the safe mode dialog after multiple startup crashes. See also chrome/global/resetProfile.dtd -->
+<!ENTITY autoSafeModeDescription3.label "&brandShortName; yerken s wudem ur nettwarǧi ara. Ay-a yezmer ad yili s sebba n izegrar neɣ n wuguren nniḍen. Tzemreḍ ad tefruḍ ugur-a s useggem deg uskar aɣelsan.">

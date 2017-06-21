@@ -69,7 +69,7 @@
 <!ENTITY  historyHeader2.pre.accesskey     "l">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
-<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-agi">
+<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-a">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yismal yettwarzan.">

@@ -9,8 +9,8 @@
 <!ENTITY retry.label "Ɛreḍ i tikelt nniḍen">
 <!ENTITY returnToPreviousPage.label "Uɣal ɣeṛ deffir">
 <!ENTITY advanced.label "Iɣewwaṛen leqqayen ">
-<!-- Specific error messages -->
 
+<!-- Specific error messages -->
 
 <!ENTITY connectionFailure.title "Igguma ad iqqen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
@@ -104,10 +104,10 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (sslv3Used.longDesc2) - Do not translate
      "SSL_ERROR_UNSUPPORTED_VERSION". -->
 <!ENTITY sslv3Used.longDesc2 "Talɣut leqqayen: SSL_ERROR_UNSUPPORTED_VERSION">
+
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
-
 <!ENTITY certerror.wrongSystemTime2 "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTime_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTime_systemDate'/>, ilaq ad yili di <span id='wrongSystemTime_actualDate'/>. akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d ukud akken ad imṣaḍa d ukud amaɣtu.</p>">
 <!ENTITY certerror.wrongSystemTimeWithoutReference "<p> &brandShortName; ur iqqin ara ɣer <span id='wrongSystemTimeWithoutReference_URL'/> acku tamrilt n uselkim-inek tesken-d akud arameɣtu u tuqna-yagi d taɣelsant.</p> <p>aselkim-inek ittwasbadu ɣer <span id='wrongSystemTimeWithoutReference_systemDate'/>, akken ad yefru ugur-agi senfel iɣewwaṛen n uzemz d ukud akken ad imṣaḍa d ukud amaɣtu.</p>">
 
@@ -120,5 +120,5 @@ was trying to connect. -->
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>yesseqdac tatiknulujit yezrin ur yezmiren ara ad temmesten mgal azḍam. Azeddam yezmer ad yakker talɣut i tɣileḍ tettummesten. Anedbal n usmel yesra di tazwara ad yefru aqeddac send ad tinigeḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURIT</p>">
 
-<!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa yinek i d-yebbin ay-agi. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
+<!ENTITY prefReset.longDesc "Akken nettwali, d iɣewwaṛen n tɣellist n uzeṭṭa-inek i d-yewwin ugur-a. Tebɣiḍ ad terreḍ iɣewwaṛen imezwar?">
 <!ENTITY prefReset.label "Err-d iɣewwaṛen imezwar">
