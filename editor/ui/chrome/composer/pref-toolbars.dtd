@@ -28,7 +28,7 @@
 <!ENTITY bold.label             "Жуан">
 <!ENTITY bullets.label          "Маркерлер">
 <!ENTITY numbers.label          "Сандар">
-<!ENTITY italic.label           "Көлбеу">
+<!ENTITY italic.label           "Курсив">
 <!ENTITY outdent.label          "Тартпасы">
 <!ENTITY indent.label           "Шегiнiс">
 <!ENTITY underline.label        "Асты сызылған">

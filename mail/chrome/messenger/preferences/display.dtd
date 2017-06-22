@@ -10,8 +10,8 @@
 <!ENTITY style.accesskey                  "т">
 <!ENTITY regularStyle.label               "Қалыпты">
 <!ENTITY bold.label                       "Жуан">
-<!ENTITY italic.label                     "Көлбеу">
-<!ENTITY boldItalic.label                 "Жуан көлбеу">
+<!ENTITY italic.label                     "Курсив">
+<!ENTITY boldItalic.label                 "Жуан курсив">
 <!ENTITY size.label                       "Өлшемі:">
 <!ENTITY size.accesskey                   "ш">
 <!ENTITY regularSize.label                "Қалыпты">
