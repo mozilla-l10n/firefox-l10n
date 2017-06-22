@@ -755,16 +755,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.weakEncryption "Asebter-a iseqdac awgelhen fessusen.">
 
 <!-- Strings for connection state warnings in the subview. -->
-<!ENTITY identity.description.insecure "Tuqqna yinek ɣer usmel-agi mačči tusligt.Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, art.). ">
-<!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqda id-muddeḍ ɣef usebter-agi mačči d aɣelsan u yezmer ad ittwakwer.">
-<!ENTITY identity.description.weakCipher "Tuqqna yinek ɣeṛ usmel-agi teseqdac awgelhen meẓẓiyen u mačči d tusligt.">
+<!ENTITY identity.description.insecure "Tuqqna-inek ɣer usmel-a mačči d tusligt. Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, atg.).">
+<!ENTITY identity.description.insecureLoginForms "Talɣut n yisem n useqdac i d-tefkiḍ ɣef usebter-a mačči d aɣelsan u yezmer ad ittwaker.">
+<!ENTITY identity.description.weakCipher "Tuqqna-inek ɣeṛ usmel-a teseqdac awgelhen fessusen u mačči d tusligt.">
 <!ENTITY identity.description.weakCipher2 "Zemren imdanen nniḍen ad walin talɣut neɣ ad sniflen tiddin n usmel web.">
-<!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-agi ur nelli ara d iɣelsanen.">
-<!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-agi acku tuqqna yinek mačči d tusligt.">
-<!ENTITY identity.description.passiveLoaded2 "Asmel-agi isεa agbur araɣelsan (am tugniwin)">
+<!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-a ur nelli ara d iɣelsanen.">
+<!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a acku tuqqna-inek mačči d tusligt.">
+<!ENTITY identity.description.passiveLoaded2 "Asmel-a isεa agbur araɣelsan (am tugniwin).">
 <!ENTITY identity.description.passiveLoaded3 "Γas akken &brandShortName; isewḥel kra n ugbur, mazal yalan kra n ugbur ur nelli d aɣelsan ɣef usebter (am tugniwin).">
-<!ENTITY identity.description.activeLoaded "Asmel-agi isεa agbur araɣelsan (am iskripten) u tuqqna yinek ɣur-s mačči d tusligt.">
-<!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-agi (am awalen uffiren, iznan, art.). ">
+<!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
+<!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a (am awalen uffiren, iznan, atg.).">
 
 <!ENTITY identity.enableMixedContentBlocking.label "Rmed ammesten">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "R">
@@ -791,7 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.label              "Iccaren yemtawin">
 <!ENTITY syncedTabs.sidebar.noclients.label    "Kcem ɣeṛ Firefox seg ibenkan nniḍen akken ad sekneḍ iccaren-is nniḍen.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "Ulac iccaren yemtawi…yakan!">
-<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ iccaren-inek seg ibenkan nniḍen d-agi?">
+<!ENTITY syncedTabs.sidebar.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan nniḍen?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Qqen akken ad sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Ulac iccaren yeldin">
 <!ENTITY syncedTabs.sidebar.openprefs.label    "Ldi ismenyifen n &syncBrand.shortName.label;">
@@ -864,26 +864,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Ammesten mgal asfuɣel">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; isewḥel kra n yeḥricen n usebter izemren ad sfuɣlen tunigin-inek.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-agi igber iferdisen i yezemren ad sfuɣlen tunigin-inek. Treremdeḍ ammesten. ">
-<!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen ig ttwafen ɣef usebter-agi.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Asmel-a igber iferdisen i izemren ad sfuɣlen tunigin-inek. Treremdeḍ ammesten.">
+<!ENTITY trackingProtection.notDetected3 "Ulac iferdisen iṭafaṛen i ittwafen ɣef usebter-a.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
-<!ENTITY trackingProtection.unblock.label "Kkes armad n ummesten n usmel-agi">
+<!ENTITY trackingProtection.unblock.label "Kkes armad n ummesten n usmel-a">
 <!ENTITY trackingProtection.unblock.accesskey "K">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
-<!ENTITY trackingProtection.unblockPrivate.label "Kkes armad n ummesten n tɣimit-agi ">
+<!ENTITY trackingProtection.unblockPrivate.label "Kkes armad n ummesten n tɣimit-a">
 <!ENTITY trackingProtection.unblockPrivate.accesskey "K">
 <!ENTITY trackingProtection.block2.label "Rmed amesten">
 <!ENTITY trackingProtection.block2.accesskey "R">
 
 <!ENTITY trackingContentBlocked.message "Asfuɣel">
-<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-agi i yesfuɣulen armud-inek s srid, weḥlen.">
+<!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-a i yesfuɣulen armud-inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
 <!ENTITY trackingContentBlocked.options "Iγewwaṛen">
-<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-agi">
+<!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-a">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "K">
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
 <!ENTITY trackingContentBlocked.block.accesskey "R">
