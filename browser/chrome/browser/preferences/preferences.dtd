@@ -14,7 +14,7 @@
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 45.5em; min-height: 40.5em;">
 
 <!ENTITY  paneGeneral.title             "பொது">
-
+<!ENTITY  paneFilesApplications.title   "கோப்புகள் &amp; பயன்பாடுகள்">
 <!ENTITY  panePrivacySecurity.title     "தனியுரிமை &amp; பாதுகாப்பு">
 
 
