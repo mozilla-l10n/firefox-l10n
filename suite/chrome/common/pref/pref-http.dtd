@@ -13,11 +13,7 @@
 <!ENTITY prefEnableHTTP11.label              "HTTP 1.1 gebruiken">
 <!ENTITY prefEnableHTTP11.accesskey          "u">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnablePipelining.label          "Pipelining inschakelen">
-<!ENTITY prefEnablePipelining.accesskey      "P">
-<!ENTITY prefEnablePipeliningProxy.accesskey "n">
 <!ENTITY prefPara                            "HTTP-verbindingen kunnen via deze opties worden fijnafgesteld om prestaties of compatibiliteit te verbeteren. Van sommige proxyservers is bijvoorbeeld bekend dat ze HTTP/1.0 vereisen (bekijk de uitgaveopmerkingen voor details).">
-<!ENTITY prefPipeWarning                     "WAARSCHUWING: pipelining is een experimentele functie die is ontworpen om prestaties tijdens het laden van pagina’s te verbeteren, maar die helaas door sommige webservers en proxy’s niet goed wordt ondersteund.">
 <!ENTITY prefUseragent.label                 "Useragent-string">
 <!ENTITY prefFirefoxCompat.label             "Bekendmaken als Firefox-compatibel">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
