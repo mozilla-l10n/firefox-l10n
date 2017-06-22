@@ -51,8 +51,10 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.label              "I-Bookmark ang Lahat ng mga Tab…">
 <!ENTITY  bookmarkAllTabs.accesskey          "T">
 <!ENTITY  undoCloseTab.accesskey             "U">
+<!ENTITY  closeTab.label                     "Isara ang Tab">
 <!ENTITY  closeTab.accesskey                 "c">
 
+<!ENTITY  listAllTabs.label      "Ilista ang lahat ng mga tabs">
 
 <!ENTITY tabCmd.label "Bagong Tab">
 <!ENTITY tabCmd.accesskey "T">
@@ -217,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 
- 
+<!ENTITY editMenu.label         "I-edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
   
 <!ENTITY undoCmd.key            "Z">  
@@ -225,13 +227,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY redoCmd.label            "Ulitin">  
 <!ENTITY redoCmd.key            "Y">  
 <!ENTITY redoCmd.accesskey          "U"> 
-  
+<!ENTITY cutCmd.label           "I-cut">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Kopyahin">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
-  
+<!ENTITY pasteCmd.label           "I-paste">  
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "P"> 
 <!ENTITY deleteCmd.label          "Burahin">  
@@ -264,6 +266,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showAllHistoryCmd.commandkey "I">
 
 <!ENTITY appMenuCustomize.label "I-Customize">
+<!ENTITY appMenuHelp.label "Tulong">
 
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.notabs.label): This is shown beneath
      the name of a device when that device has no open tabs -->
@@ -312,6 +315,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -340,6 +345,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -422,18 +430,25 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printFrameCmd.label          "I-print ang Frame…">
 <!ENTITY printFrameCmd.accesskey      "p">
 <!ENTITY saveLinkCmd.accesskey        "k">
+<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveVideoCmd.accesskey       "v">
 <!ENTITY saveAudioCmd.label           "I-Save ang Audio Bilang…">
 <!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY emailImageCmd.accesskey      "g">
+<!ENTITY emailVideoCmd.accesskey      "a">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.accesskey      "c">
 <!ENTITY hidePluginCmd.accesskey      "H">
+<!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "I-copy ang Lokasyon ng Imahe">
 <!ENTITY copyImageCmd.accesskey       "o">
- 
+<!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "Kopyahin ang lokasyon ng video">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
 <!ENTITY copyAudioURLCmd.label        "I-copy ang Lokasyon ng Audio">
 <!ENTITY copyAudioURLCmd.accesskey    "o">
+<!ENTITY copyEmailCmd.accesskey       "E">
 <!ENTITY thisFrameMenu.label              "Eto ang Frame">
 <!ENTITY thisFrameMenu.accesskey          "t">
 
@@ -441,11 +456,18 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaPlay.accesskey         "P">
 <!ENTITY mediaPause.label            "Pause">
 <!ENTITY mediaPause.accesskey        "P">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
+<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
