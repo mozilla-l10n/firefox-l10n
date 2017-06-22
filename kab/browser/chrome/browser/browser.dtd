@@ -150,7 +150,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      Localizers can use one of them, or both, to better adapt this
      sentence to their language. -->
 <!ENTITY pointerlockWarning.beforeDomain.label "">
-<!ENTITY pointerlockWarning.afterDomain.label "Γur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
+<!ENTITY pointerlockWarning.afterDomain.label "Ɣur-s asenqed n usewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
 <!ENTITY pointerlockWarning.generic.label "Isemli-a yeṭṭef asewwaṛ-inek. Sit ɣef tqeffalt n usenser akken ad teṭṭfeḍ asewwaṛ.">
 
 <!ENTITY closeWindow.label "Mdel asfaylu">
@@ -192,7 +192,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY hideRecentlyBookmarked.accesskey "F">
 
 <!ENTITY backCmd.label                "ɣer deffir">
-<!ENTITY backButton.tooltip           "Uγal s yiwen usebter">
+<!ENTITY backButton.tooltip           "Uɣal s yiwen usebter">
 <!ENTITY forwardCmd.label             "ɣer zdat">
 <!ENTITY forwardButton.tooltip        "Aẓ s yiwen usebter">
 <!ENTITY backForwardButtonMenu.tooltip "Sit u zuɣeṛ taɣeṛdayt s adda akken ad twaliḍ amazray">
@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Gzem">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
-<!ENTITY copyCmd.label            "Nγel">  
+<!ENTITY copyCmd.label            "Nɣel">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Senteḍ">  
@@ -314,7 +314,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY selectAllCmd.label         "Fren Akk">  
 <!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "F"> 
-<!ENTITY preferencesCmd2.label       "Iγewwaṛen">
+<!ENTITY preferencesCmd2.label       "Iɣewwaṛen">
 <!ENTITY preferencesCmd2.accesskey     "w">
 <!ENTITY preferencesCmdUnix.label       "Ismenyifen">
 <!ENTITY preferencesCmdUnix.accesskey     "s"> 
@@ -389,7 +389,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-<!ENTITY customizeMenu.addToOverflowMenu.label "Rnu γer umuγ n tfuli">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Rnu ɣer umuɣ n tfuli">
 <!ENTITY customizeMenu.addToOverflowMenu.accesskey "F">
 <!ENTITY customizeMenu.moveToToolbar.label "Rnu ɣer ufeggag n ifecka">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "R">
@@ -400,9 +400,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Rnu ɣer wumuɣ">
 <!ENTITY customizeMenu.moveToPanel.accesskey "R">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Senṭeḍ deg umuγ n tfuli">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Senṭeḍ deg umuɣ n tfuli">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "R">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kkes seg Umuγ n tfuli">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Kkes seg Umuɣ n tfuli">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "S">
 <!ENTITY customizeMenu.removeFromToolbar.label "Kkes seg ufeggag n ifecka">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "K">
@@ -435,7 +435,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Taxbalut:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hint "Awi tallelt deg unadi! nadi tigit &#x1F50E; tama n usumer n unadi.">
-<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Snifel iγewwaṛen…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Snifel iɣewwaṛen…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Y">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Snifel Ismenyifen…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "Y">
@@ -512,21 +512,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.accesskey        "d">
 <!ENTITY openLinkInPrivateWindowCmd.label "Ldi aseɣwen deg usfaylu uslig amaynut">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "L">
-<!ENTITY openLinkCmdInCurrent.label     "Ldi aseγwen">
+<!ENTITY openLinkCmdInCurrent.label     "Ldi aseɣwen">
 <!ENTITY openLinkCmdInCurrent.accesskey "L">
 <!ENTITY openFrameCmdInTab.label      "Ldi akatar deg yiccer amaynut">
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseγwen deg iccer n umagbar amaynut">
+<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
 <!ENTITY reloadFrameCmd.accesskey     "S">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taγbalut n tefrant">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aγbalu MathML">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taɣbalut n tefrant">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aɣbalu MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
@@ -557,7 +557,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
 <!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-a">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
-<!ENTITY copyURLCmd.label             "Nγel URL">
+<!ENTITY copyURLCmd.label             "Nɣel URL">
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
 <!ENTITY emailPageCmd.accesskey       "A">
 <!ENTITY savePageCmd.label            "Sekles asebter di...">
@@ -762,7 +762,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.description.activeBlocked "&brandShortName; isewḥel kra n yeḥricen n usebter-a ur nelli ara d iɣelsanen.">
 <!ENTITY identity.description.passiveLoaded "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a acku tuqqna-inek mačči d tusligt.">
 <!ENTITY identity.description.passiveLoaded2 "Asmel-a isεa agbur araɣelsan (am tugniwin).">
-<!ENTITY identity.description.passiveLoaded3 "Γas akken &brandShortName; isewḥel kra n ugbur, mazal yalan kra n ugbur ur nelli d aɣelsan ɣef usebter (am tugniwin).">
+<!ENTITY identity.description.passiveLoaded3 "Ɣas akken &brandShortName; isewḥel kra n ugbur, mazal yella kra n ugbur ur nelli d aɣelsan ɣef usebter (am tugniwin).">
 <!ENTITY identity.description.activeLoaded "Asmel-a isεa agbur araɣelsan (am iskripten) u tuqqna-inek ɣur-s mačči d tusligt.">
 <!ENTITY identity.description.activeLoaded2 "Zemren wiyaḍ ad walin talɣut tebḍiḍ d usmel-a (am awalen uffiren, iznan, atg.).">
 
@@ -882,7 +882,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.message "Asfuɣel">
 <!ENTITY trackingContentBlocked.moreinfo "Kra n yeḥricen seg usebter-a i yesfuɣulen armud-inek s srid, weḥlen.">
 <!ENTITY trackingContentBlocked.learnMore "Issin ugar">
-<!ENTITY trackingContentBlocked.options "Iγewwaṛen">
+<!ENTITY trackingContentBlocked.options "Iɣewwaṛen">
 <!ENTITY trackingContentBlocked.unblock2.label "Kkes armad n ummesten n usmel-a">
 <!ENTITY trackingContentBlocked.unblock2.accesskey "K">
 <!ENTITY trackingContentBlocked.block.label "Rmed ammesten">
@@ -947,7 +947,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateManual.message "Sali-d lqem aneggaru n &brandShorterName; sakin ad k-n-mud tallalt akken ad tt-saliṭ.">
 <!ENTITY updateManual.whatsnew.label "Wali amaynut.">
-<!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem γer lqem aneggaru.">
+<!ENTITY updateManual.header.message "&brandShorterName; ur izmir ara ad ilqem ɣer lqem aneggaru.">
 <!ENTITY updateManual.acceptButton.label "Sider &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Mačči tura">
@@ -964,8 +964,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Asebter n tigawin">
 
-<!ENTITY sendToDevice.label "Azen γer yibenk…">
-<!ENTITY sendToDevice.viewTitle "Azen γer yibenk">
+<!ENTITY sendToDevice.label "Azen ɣer yibenk…">
+<!ENTITY sendToDevice.viewTitle "Azen ɣer yibenk">
 <!ENTITY sendToDevice.fxaRequired.label "Yettawsra">
 <!ENTITY sendToDevice.noDevices.label "Ulac ibenk">
 <!ENTITY sendToDevice.syncNotReady.label "Amtawi n Ibenkan…">
