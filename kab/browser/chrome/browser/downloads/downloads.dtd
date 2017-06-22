@@ -57,9 +57,9 @@
 <!ENTITY cmd.showMac.label                "Sken-d di Finder">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "Σreḍ i tikelt nniḍen">
-<!ENTITY cmd.goToDownloadPage.label       "Ddu γer usebter n uzdam">
+<!ENTITY cmd.goToDownloadPage.label       "Ddu ɣer usebter n usider">
 <!ENTITY cmd.goToDownloadPage.accesskey   "z">
-<!ENTITY cmd.copyDownloadLink.label       "Nγel tansa taγbalut n uzdam">
+<!ENTITY cmd.copyDownloadLink.label       "Nɣel tansa taɣbalut n usider">
 <!ENTITY cmd.copyDownloadLink.accesskey   "n">
 <!ENTITY cmd.removeFromHistory.label      "Kkes seg umazray">
 <!ENTITY cmd.removeFromHistory.accesskey  "K">

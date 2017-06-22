@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-<!ENTITY  prefWindow.titleWin     "Iγewwaṛen">
+<!ENTITY  prefWindow.titleWin     "Iɣewwaṛen">
 <!ENTITY  prefWindow.title        "Ismenyifen">
 <!-- LOCALIZATION NOTE (prefWindow.titleGNOME): This is not used for in-content preferences -->
 <!ENTITY  prefWindow.titleGNOME   "Ismenyifen n &brandShortName;">

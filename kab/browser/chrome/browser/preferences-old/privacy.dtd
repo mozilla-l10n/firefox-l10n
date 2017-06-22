@@ -68,7 +68,7 @@
 <!ENTITY  historyHeader.pre.accesskey      "I">
 <!ENTITY  historyHeader.remember.label     "Ḥrez amazray">
 <!ENTITY  historyHeader.dontremember.label "Ur ḥerrez ara amazray">
-<!ENTITY  historyHeader.custom.label       "Seqdec iγewwaṛen udmawanen i umazray-a">
+<!ENTITY  historyHeader.custom.label       "Seqdec iɣewwaṛen udmawanen i umazray-a">
 <!ENTITY  historyHeader.post.label         "">
 
 <!ENTITY  rememberDescription.label      "&brandShortName; ad yeḥrez isefka n tunigin, isidar , tiferkiyin, amazray n unadi, d inagan n tuqqna n yismal yettwarzan.">
@@ -102,12 +102,12 @@
 <!ENTITY  clearOnClose.label             "Sfeḍ amazray ticki tmedleḍ &brandShortName;">
 <!ENTITY  clearOnClose.accesskey         "r">
 
-<!ENTITY  clearOnCloseSettings.label     "Iγewwaṛen…">
+<!ENTITY  clearOnCloseSettings.label     "Iɣewwaṛen…">
 <!ENTITY  clearOnCloseSettings.accesskey "I">
 
 <!ENTITY  browserContainersHeader.label         "Iccaren imagbaren">
 <!ENTITY  browserContainersLearnMore.label      "Issin ugar">
 <!ENTITY  browserContainersEnabled.label        "Rmed Iccaren imagbaren">
 <!ENTITY  browserContainersEnabled.accesskey    "g">
-<!ENTITY  browserContainersSettings.label        "Iγewwaṛen…">
+<!ENTITY  browserContainersSettings.label        "Iɣewwaṛen…">
 <!ENTITY  browserContainersSettings.accesskey    "I">
