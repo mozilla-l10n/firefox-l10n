@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "Gzem">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "G"> 
-<!ENTITY copyCmd.label            "Nɣel">  
+<!ENTITY copyCmd.label            "Nγel">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "N"> 
 <!ENTITY pasteCmd.label           "Senteḍ">  
@@ -512,21 +512,21 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmd.accesskey        "d">
 <!ENTITY openLinkInPrivateWindowCmd.label "Ldi aseɣwen deg usfaylu uslig amaynut">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "L">
-<!ENTITY openLinkCmdInCurrent.label     "Ldi aseɣwen">
+<!ENTITY openLinkCmdInCurrent.label     "Ldi aseγwen">
 <!ENTITY openLinkCmdInCurrent.accesskey "L">
 <!ENTITY openFrameCmdInTab.label      "Ldi akatar deg yiccer amaynut">
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
-<!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
+<!ENTITY openLinkCmdInContainerTab.label "Ldi aseγwen deg iccer n umagbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
 <!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
 <!ENTITY reloadFrameCmd.accesskey     "S">
-<!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taɣbalut n tefrant">
-<!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aɣbalu MathML ">
+<!ENTITY viewPartialSourceForSelectionCmd.label "Wali tangalt taγbalut n tefrant">
+<!ENTITY viewPartialSourceForMathMLCmd.label    "Wali aγbalu MathML">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
 <!ENTITY viewPartialSourceCmd.accesskey "e">
