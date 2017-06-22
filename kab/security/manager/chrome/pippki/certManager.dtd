@@ -84,7 +84,7 @@
 <!ENTITY exceptionMgr.supplementalWarning     "Lbankat, timidal d ismal web izayzen izerfanen ur ssuturen ara ad teggeḍ aya.">
 <!ENTITY exceptionMgr.certlocation.caption2   "Aqeddac">
 <!ENTITY exceptionMgr.certlocation.url        "Tansa:">
-<!ENTITY exceptionMgr.certlocation.download   "Awid aselkin">
+<!ENTITY exceptionMgr.certlocation.download   "Sis-d aselkin">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
 <!ENTITY exceptionMgr.certstatus.caption      "Addad n uselkin">
 <!ENTITY exceptionMgr.certstatus.viewCert     "Timeẓri…">

@@ -77,7 +77,7 @@
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur teddi ara">
 <!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li><li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
 
-<!ENTITY certerror.longpagetitle1 "Tuqqna yinek d taraɣelsant">
+<!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
@@ -115,7 +115,7 @@ was trying to connect. -->
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Asmel-agi iseqdac HTTP n tɣellist n umesni ufrin (HSTS) iwakken ad yebgen i &brandShortName; akken ad yeqqen kan s tɣeliist. Ihi, d awezɣi timerna n tsureft i uselkin-agi.">
 <!ENTITY certerror.copyToClipboard.label "Nɣel aḍris ɣef affus">
 
-<!ENTITY inadequateSecurityError.title "Tuqqna yinek d taraɣelsant">
+<!ENTITY inadequateSecurityError.title "Tuqqna-inek d taraɣelsant">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>yesseqdac tatiknulujit yezrin ur yezmiren ara ad temmesten mgal azḍam. Azeddam yezmer ad yakker talɣut i tɣileḍ tettummesten. Anedbal n usmel yesra di tazwara ad yefru aqeddac send ad tinigeḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURIT</p>">

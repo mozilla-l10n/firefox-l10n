@@ -17,7 +17,7 @@
 <!ENTITY aboutPrivateBrowsing.info.temporaryFiles        "ifuyla iskudanen ">
 <!ENTITY aboutPrivateBrowsing.info.saved.before          "Firefox  ">
 <!ENTITY aboutPrivateBrowsing.info.saved.emphasize       "ad isekles ">
-<!ENTITY aboutPrivateBrowsing.info.saved.after2          " yinek: ">
+<!ENTITY aboutPrivateBrowsing.info.saved.after2          " inek:">
 <!ENTITY aboutPrivateBrowsing.info.downloads             "isidar ">
 <!ENTITY aboutPrivateBrowsing.info.bookmarks             "ticraḍ n isebtar ">
 <!ENTITY aboutPrivateBrowsing.note.before                "Tunigin tusligt  ">

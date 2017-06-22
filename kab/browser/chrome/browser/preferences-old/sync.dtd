@@ -56,7 +56,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY disconnect.accesskey        "T">
 <!ENTITY verify.label                "Senqed tansa imayl">
 <!ENTITY verify.accesskey            "e">
-<!ENTITY forget.label                "Ttu tansa-agi imayl">
+<!ENTITY forget.label                "Ttu tansa-a imayl">
 <!ENTITY forget.accesskey            "y">
 
 <!ENTITY signedOut.caption            "Awi web-inek yid-k">

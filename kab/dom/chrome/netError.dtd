@@ -82,7 +82,7 @@
 <!ENTITY remoteXUL.title "XUL anmeggag">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Ma ulac aɣilif nermes imawlan n usmel-agi ɣef ugur-agi.</li></ul></p>">
 
-<!ENTITY inadequateSecurityError.title "Tuqqna yinek d taraɣelsant">
+<!ENTITY inadequateSecurityError.title "Tuqqna-inek d taraɣelsant">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate
      "NS_ERROR_NET_INADEQUATE_SECURITY". -->
 <!ENTITY inadequateSecurityError.longDesc "<p><span class='hostname'></span>yesseqdac tatiknulujit yezrin ur yezmiren ara ad temmesten mgal azḍam. Azeddam yezmer ad yakker talɣut i tɣileḍ tettummesten. Anedbal n usmel yesra di tazwara ad yefru aqeddac send ad tinigeḍ ɣer usmel.</p><p>Tangalt n tuccḍa: NS_ERROR_NET_INADEQUATE_SECURIT</p>">
