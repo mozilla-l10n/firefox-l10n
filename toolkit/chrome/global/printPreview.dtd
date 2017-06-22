@@ -31,7 +31,7 @@
 <!ENTITY p200.label           "200&#037;">
 <!ENTITY Custom.label         "Kesukaan…">
 <!ENTITY ShrinkToFit.label    "Kecilkan Supaya Muat">
-<!ENTITY customPrompt.title   "Skala Suka-suka…">
+<!ENTITY customPrompt.title   "Skala Tersuai…">
 <!ENTITY simplifyPage.label   "Sederhanakan Halaman">
 <!ENTITY simplifyPage.accesskey "s">
 <!ENTITY simplifyPage.enabled.tooltip  "Ubah tata letak agar mudah dibaca">
