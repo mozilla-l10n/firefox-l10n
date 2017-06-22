@@ -32,7 +32,7 @@
 <!ENTITY welcomeback2.tabtitle      "Úspěch!">
 
 <!ENTITY welcomeback2.pageTitle     "Úspěch!">
-<!ENTITY welcomeback2.pageInfo1     "&brandShortName; je připravený.">
+<!ENTITY welcomeback2.pageInfo1     "Aplikace &brandShortName; je připravená.">
 
 <!ENTITY welcomeback2.label.restoreAll  "Obnovit všechna okna a panely">
 <!ENTITY welcomeback2.label.restoreSome "Obnovit pouze ty, které chcete">
@@ -44,7 +44,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "Vaše doplňky a přizpůsobení bylo odebráno a nastavení prohlížeče bylo obnoveno do výchozího stavu. Pokud to nevyřeší váš problém, ">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "Vaše přizpůsobení a doplňky byly odebrány a prohlížeč obnoven do výchozího nastavení. Pokud to nevyřeší váš problém, ">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "přečtěte si více o tom, co můžete dělat.">
