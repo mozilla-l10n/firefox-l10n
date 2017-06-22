@@ -15,7 +15,7 @@
 <!ENTITY connectionFailure.title "Igguma ad iqqen">
 <!ENTITY connectionFailure.longDesc "&sharedLongDesc;">
 
-<!ENTITY deniedPortAccess.title "Tansa-yagi tegdel">
+<!ENTITY deniedPortAccess.title "Tansa-a tegdel">
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Ulac tansa n uqeddac">
@@ -28,14 +28,14 @@
 <!ENTITY fileAccessDenied.longDesc "<ul><li>Ahat yettwakkes, yettusenkez, neɣ tisirag uggint anekcum.</li></ul>">
 
 <!ENTITY generic.title "Ihuh.">
-<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-agi.</p>">
+<!ENTITY generic.longDesc "<p> &brandShortName; ur izmir ara ad d-yessali asebter-a.</p>">
 
 <!ENTITY captivePortal.title "Kcem ɣer uẓeṭṭa">
-<!ENTITY captivePortal.longDesc2 "<p>Yessefk ad tkecmeḍ ar uẓeṭṭa-agi send ad tizmireḍ ad tkecmeḍ ar Internet</p>">
+<!ENTITY captivePortal.longDesc2 "<p>Yessefk ad tkecmeḍ ar uẓeṭṭa-a send ad tizmireḍ ad tkecmeḍ ar Internet</p>">
 
 <!ENTITY openPortalLoginPage.label2 "Ldi asebter n unekcum γer uẓeṭṭa">
 
-<!ENTITY malformedURI.title "Tansa-yagi d tarameɣtut">
+<!ENTITY malformedURI.title "Tansa-a d tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
 
 <!ENTITY netInterrupt.title "Tuqqna terken">
@@ -48,10 +48,12 @@
 <!ENTITY netOffline.longDesc2 "<ul><li>Sit ɣef &quot;Ɛreḍ tikelt nniḍen&quot; akken ad tuɣaleḍ ɣer uskar uqqin sakin smiren asebter</li></ul>">
 
 <!ENTITY contentEncodingError.title "Tuccḍa n usettengel n ugbur">
-<!ENTITY contentEncodingError.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
+<!ENTITY contentEncodingError.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.</li> </ul>">
 
 <!ENTITY unsafeContentType.title "Tawsit n ufaylu aranelkan">
-<!ENTITY unsafeContentType.longDesc "<ul> <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-agi.</li> </ul>">
+<!ENTITY unsafeContentType.longDesc "<ul> 
+  <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef wugur-a.</li>
+ </ul>">
 
 <!ENTITY netReset.title "Tuqqna teţuwennez tikelt nniḍen.">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
@@ -75,7 +77,10 @@
 <!ENTITY unknownSocketType.longDesc "<ul><li>Senqed ma yella amsefrak n tɣellist tudmawant tebded ɣef unagraw-ik.</li><li>Ahat aqeddac ur iţuswel ara akken iwata.</li></ul>">
 
 <!ENTITY nssFailure2.title "Tuqqna taɣelsant ur teddi ara">
-<!ENTITY nssFailure2.longDesc2 "<ul><li>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li><li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">
+<!ENTITY nssFailure2.longDesc2 "<ul>
+  <li>Asebter-a i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku ur nezmir ara ad nsenqed tasestebt n isefka i d-itturemsen</li> 
+  <li>M'ulac aɣilif, nermes imawlan n usmel web ɣef ugur-a.</li>
+</ul>">
 
 <!ENTITY certerror.longpagetitle1 "Tuqqna-inek d taraɣelsant">
 <!-- Localization note (certerror.introPara) - The text content of the span tag
@@ -86,7 +91,7 @@ was trying to connect. -->
 <!ENTITY sharedLongDesc "<ul><li>Asmel-a ulac-it akka tura neɣ ahat ur d-yelhi ara. Ɛreḍ akka kra n wakud  ticki.</li> <li>Ma yella ur tezmiṛeḍ ara ad d-tessaliḍ isebtar, senqed tuqqna ɣeṛ uẓeṭṭa n uselkim-inek.</li><li>Ma yella aselkim-inek neɣ aẓeṭṭa-inek ittummesten s uɣwṛab n tmes neɣ apṛuksi, wali ma yella &brandShortName; yezmer ad yekcem ɣer Web.</li></ul>">
 
 <!ENTITY cspBlocked.title "Tesweḥlit tsertit n tɣellist n ugbur">
-<!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-agi acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
+<!ENTITY cspBlocked.longDesc "<p>&brandShortName; isewḥel asali n usebter-a acku tasertit n tɣellist n ugbur ur tt-iǧǧi ara.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Tuccḍa d yekkan seg ugbur yerẓen">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>Asebter-agi i tebɣiḍ ad twaliḍ ur yizmir ara ad d-yettwasken, acku tella tuccḍa di tuzzna n isefka.</p><ul><li>Ma ulac aɣilif nermes imawlan n usmel web ɣef ugur-agi.</li></ul>">

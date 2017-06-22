@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Err-ed iγewwaṛen unadi">
+<!ENTITY searchreset.tabtitle       "Err-d iɣewwaṛen n unadi">
 
-<!ENTITY searchreset.pageTitle      "Err-ed iγewwaṛen n unadi?">
+<!ENTITY searchreset.pageTitle      "Err-d iɣewwaṛen n unadi?">
 
-<!ENTITY searchreset.pageInfo1      "Iγewwaṛen-inek n unadi d-iqburen. &brandShortName; yezmer ad yerr iɣewwaṛen n unadi imezwar.">
+<!ENTITY searchreset.pageInfo1      "Iɣewwaṛen-inek n unadi d iqburen. &brandShortName; yezmer ad d-yerr iɣewwaṛen n unadi imezwar.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
