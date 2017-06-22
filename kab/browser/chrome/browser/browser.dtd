@@ -36,7 +36,7 @@ used as a metaphor for expressing the fact that these tabs are "pinned" to the
 left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
-<!ENTITY  pinTab.label                       "Qmec accer-agi">
+<!ENTITY  pinTab.label                       "Rzi iccer-a">
 <!ENTITY  pinTab.accesskey                   "Q">
 <!ENTITY  unpinTab.label                     "Serreḥ i yiccer-agi">
 <!ENTITY  unpinTab.accesskey                 "S">

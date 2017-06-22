@@ -2,8 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY tabCrashed.closeTab "Mdel iccer-agi">
-<!ENTITY tabCrashed.restoreTab "Err-d iccer-agi">
+<!ENTITY tabCrashed.closeTab "Mdel iccer-a">
+<!ENTITY tabCrashed.restoreTab "Err-d iccer-a">
 <!ENTITY tabCrashed.restoreAll "Err-d akk iccaren yeɣlin">
 
 <!-- LOCALIZATION NOTE (tabCrashed.header2): "Gah" is an English slang word
@@ -19,12 +19,12 @@
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Fren &tabCrashed.restoreTab; neɣ &tabCrashed.restoreAll; akken ad d-saliḍ agbur n usebter.">
 <!ENTITY tabCrashed.requestHelp "Aɣ-d-muddeḍ afus?">
 <!ENTITY tabCrashed.requestHelpMessage "Aneqqis n uɣelluy ad aɣ-d-ifek tallalt i wakken ad neg tawassna u daɣen ad nseggem &brandShortName;">
-<!ENTITY tabCrashed.requestReport "Azen iccer agi">
+<!ENTITY tabCrashed.requestReport "Azen iccer-a">
 <!ENTITY tabCrashed.sendReport2 "Azen aneqqis n uɣelluy n yiccer i tettwaliḍ akka tura">
 <!ENTITY tabCrashed.commentPlaceholder2 "Iwenniten ifrayanen (Iwenniten ad ten-walin akk yemdanen)">
 <!ENTITY tabCrashed.includeURL2 "Seddu aneqqis n uɣelluy deg tansa URL n usebter ">
-<!ENTITY tabCrashed.emailPlaceholder "Sekcem d-agi tansa n yimayl-inek">
+<!ENTITY tabCrashed.emailPlaceholder "Sekcem da tansa n yimayl-inek">
 <!ENTITY tabCrashed.emailMe "Azen i-yid imayl ticki yella ugar n telɣut">
 <!ENTITY tabCrashed.reportSent "Tuzneḍ-d yakan aneqqis n uɣelluy; tanemmirt-ik ɣef uttekki deg usnerni n &brandShortName;.">
 <!ENTITY tabCrashed.requestAutoSubmit2 "Asuter n iccaren nugilal ">
-<!ENTITY tabCrashed.autoSubmit2 "Snifel ismentifen akken ad tezned ineqqisen s wudem awurman, ula d ineqqisen n uɣelluy n yiccaren n tɣimit-agi neɣ tiɣimiyin d-iteddun">
+<!ENTITY tabCrashed.autoSubmit2 "Snifel ismentifen akken ad tazned ineqqisen s wudem awurman, ula d ineqqisen n uɣelluy n yiccaren n tɣimit-a neɣ tiɣimiyin d-itteddun">
