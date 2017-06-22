@@ -61,7 +61,7 @@ both, to better adapt this sentence to their language.
 
 <!ENTITY signedOut.caption            "Ponesite svoj splet s seboj">
 <!ENTITY signedOut.description        "Sinhronizirajte zaznamke, zgodovino, zavihke, gesla, dodatke in nastavitve vseh vaših naprav.">
-<!ENTITY signedOut.accountBox.title   "Poveži s &syncBrand.fxAccount.label;">
+<!ENTITY signedOut.accountBox.title   "Poveži s &syncBrand.fxAccount.label;om">
 <!ENTITY signedOut.accountBox.create  "Ustvari račun">
 <!ENTITY signedOut.accountBox.create.accesskey  "U">
 <!ENTITY signedOut.accountBox.signin  "Prijava">

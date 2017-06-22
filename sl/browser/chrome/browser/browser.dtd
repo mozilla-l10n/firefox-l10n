@@ -828,7 +828,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncSignIn.accesskey         "Y">
 <!ENTITY syncSyncNowItem.label        "Sinhroniziraj">
 <!ENTITY syncSyncNowItem.accesskey    "n">
-<!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label; …">
+<!ENTITY syncReAuthItem.label         "Ponovno poveži s &syncBrand.shortName.label;om …">
 <!ENTITY syncReAuthItem.accesskey     "P">
 <!ENTITY syncToolbarButton.label      "Sinhroniziraj">
 
