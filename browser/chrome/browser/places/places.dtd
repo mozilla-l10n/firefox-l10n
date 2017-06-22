@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "გამყოფის შექმნა">
 <!ENTITY cmd.new_separator.accesskey       "გ">
 
-<!ENTITY cmd.reloadLivebookmark.label      "პირდაპირი სანიშნის განახლება">
+<!ENTITY cmd.reloadLivebookmark.label      "პირდაპირი სანიშნის ხელახლა გახსნა">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "ნ">
 
 <!ENTITY cmd.moveBookmarks.label                  "გადატანა…">
