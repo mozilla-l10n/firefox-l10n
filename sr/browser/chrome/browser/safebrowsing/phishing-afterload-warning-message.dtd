@@ -18,7 +18,7 @@
 <!ENTITY safeb.blocked.malwarePage.title "Пријављен је напад са странице!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "Страница <span id='malware_sitename'/> је пријављена као злонамерна, па је блокирана на основу безбедносних подешавања.">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Злонамерне странице обично инсталирају програме који краду приватне информације, користе ваш рачунар да за нападе на друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>Злонамерне странице обично инсталирају програме који краду приватне информације, користе ваш рачунар да нападну друге или оштећују систем.</p><p>Неки напади намерно шире штетан софтвер, али многи су угрожени без знања или дозволе њихових власника.</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "Пријављени нежељени сајт софтвера!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
