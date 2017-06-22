@@ -49,8 +49,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY viewMenu.label           "ჩვენება">
 <!ENTITY viewMenu.accesskey       "V">
 <!ENTITY reloadCmd.label "ხელახლა გახსნა">
-<!ENTITY reloadCmd.accesskey "R">
-<!ENTITY reloadCmd.commandkey "r">
+<!ENTITY reloadCmd.accesskey "ხ">
 <!ENTITY menu_wrapLongLines.title "გრძელი სტრიქონების გადატანა"> 
 <!ENTITY menu_wrapLongLines.accesskey "W">
 <!ENTITY menu_highlightSyntax.label "სინტაქსის შემოწმება">
