@@ -98,7 +98,7 @@
 <!ENTITY styleBoldCmd.label "Жуан">
 <!ENTITY styleBoldCmd.accesskey "Ж">
 <!ENTITY styleBoldCmd.key "ж">
-<!ENTITY styleItalicCmd.label "Көлбеу">
+<!ENTITY styleItalicCmd.label "Курсив">
 <!ENTITY styleItalicCmd.accesskey "К">
 <!ENTITY styleItalicCmd.key "к">
 <!ENTITY styleUnderlineCmd.label "Асты сызылған">
@@ -301,7 +301,7 @@
 <!ENTITY decreaseFontSizeToolbarCmd.tooltip "Кішірек қаріп">
 <!ENTITY increaseFontSizeToolbarCmd.tooltip "Үлкенірек қаріп">
 <!ENTITY boldToolbarCmd.tooltip "Жуан">
-<!ENTITY italicToolbarCmd.tooltip "Көлбеу">
+<!ENTITY italicToolbarCmd.tooltip "Курсив">
 <!ENTITY underlineToolbarCmd.tooltip "Асты сызылған">
 <!ENTITY bulletListToolbarCmd.tooltip "Маркерленген тізімді іске қосу/өшіру">
 <!ENTITY numberListToolbarCmd.tooltip "Нөмірленген тізімді іске қосу/өшіру">
