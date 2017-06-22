@@ -23,7 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "d">
 <!ENTITY useSmoothScrolling.label        "Seqdec adrurem aleggwaɣ">
 <!ENTITY useSmoothScrolling.accesskey    "e">
-<!ENTITY checkUserSpelling.label         "Senqed taɣdira yinu mi ara ttaruɣ ">
+<!ENTITY checkUserSpelling.label         "Senqed taɣdira-inu mi ara ttaruɣ ">
 <!ENTITY checkUserSpelling.accesskey     "q">
 
 <!ENTITY dataChoicesTab.label            "Isefka i d-yettumegren">
@@ -43,7 +43,7 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "A">
 <!ENTITY telemetryLearnMore.label        "Issin ugar">
 
-<!ENTITY crashReporterDesc2.label         "Ineqqisen n uɣelluy ad mudden tallalt i &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig-inek d urkid d aɣelsan">
+<!ENTITY crashReporterDesc2.label         "Ineqqisen n uɣelluy ad allen &vendorShortName; akken ad yefru uguren udiɣ ad yerr iminig-inek d urkid d aɣelsan">
 <!ENTITY alwaysSubmitCrashReports.label   "Sireg &brandShortName; akken ad yazen ineqqisen n uɣelluy deg ugilal">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label     "Issin ugar">
@@ -109,7 +109,7 @@ available. -->
 <!ENTITY offlineStorageNotifyExceptions.label     "Tisuraf…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "T">
 
-<!ENTITY offlineAppsList2.label          "Ismal-agi web zemren ad sekelsen isefka i useqdec arusrid:">
+<!ENTITY offlineAppsList2.label          "Ismal-a web zemren ad skelsen isefka i useqdec arusrid:">
 <!ENTITY offlineAppsList.height          "7em">
 <!ENTITY offlineAppsListRemove.label     "Kkes…">
 <!ENTITY offlineAppsListRemove.accesskey "K">
