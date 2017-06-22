@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point2.5 "Kra n tmahilin deg &brandShortName; am uneqqis n uɣelluy, ad k-yeǧǧ ad d-terreḍ talɣut i &vendorShortName;. Ma tferneḍ ad tazneḍ tilɣa-yagi, ad tmuddeḍ i &vendorShortName; tasiregt n useqdec n telɣut-agi n tririt akken ad isnerni ifarisen ines, ad isuffeɣ tiririt-agi ɣef yesmal ines web, u a ten-imudd i wiyaḍ.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Tarray amek ad nseqdec tilɣa yinek tudmawanin d tririt yuznen i &vendorShortName; s wallal n &brandShortName; tettwagelem di ">
+<!ENTITY rights2.intro-point3a "Tarray amek ad nseqdec tilɣa-inek tudmawanin d tririt yuznen i &vendorShortName; s wallal n &brandShortName; tettwagelem deg ">
 <!ENTITY rights2.intro-point3b "Tasertit tabaḍnit n &brandShortName; ">
 <!ENTITY rights.intro-point3c ".">
 
@@ -67,7 +67,7 @@
 
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "Tunigin yersen ɣef usideg n tirakalt ">
-<!ENTITY rights.locationawarebrowsing-b "yal tikelt s usuter. Ula d yiwet n telɣut n tansa yinek ur tettwazen s war tasiregt-inek. Ma tebɣiḍ ad treremdeḍ tamahilt i lebda, ḍfer tinaḍin-agi: ">
+<!ENTITY rights.locationawarebrowsing-b "yal tikelt s usuter. Ula d yiwet n telɣut n tansa-inek ur tettwazen s war tasiregt-inek. Ma tebɣiḍ ad treremdeḍ tamahilt i lebda, ḍfer tinaḍin-a:">
 <!ENTITY rights.locationawarebrowsing-term1a "Deg ufeggag n tansa, sekcem ">
 <!ENTITY rights.locationawarebrowsing-term1b "ɣef:tawila">
 <!ENTITY rights.locationawarebrowsing-term2 "Nadi geo.enabled">

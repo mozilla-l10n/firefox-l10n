@@ -16,7 +16,7 @@
 <!ENTITY  manualUpdateGetMsg.label        "Tzemreḍ yal tikelt ad awiḍ lqem aneggaru n &brandShortName; ɣef:">
 
 <!ENTITY  unsupported.title               "Anagraw ur iţusefrak ara">
-<!ENTITY  unsupported.label               "&brandShortName; yinek ur yelqim ara, acu kan lqem aneggaru ur ittusefrak ara deg unagraw-inek. Ma ulac aɣilif leqqem anagraw-inek, sakin ɛṛeḍ tikelt nniḍen.Izen-agi wuṛǧin ad ittusken, acu kan tzemreḍ">
+<!ENTITY  unsupported.label               "&brandShortName; -inek ur yelqim ara, acukan lqem aneggaru ur ittusefrak ara deg unagraw-inek. Ma ulac aɣilif leqqem anagraw-inek, sakin ɛṛeḍ tikelt nniḍen. Izen-a werǧin ad ittusken, acukan tzemreḍ">
 <!ENTITY  unsupportedLink.label           "Issin ugar">
 
 <!ENTITY  clickHere.label                 "Ugar n telɣut ɣef lqem-agi">

@@ -56,7 +56,7 @@
 <!ENTITY netReset.title "Tuqqna teţuwennez tikelt nniḍen.">
 <!ENTITY netReset.longDesc "&sharedLongDesc;">
 
-<!ENTITY netTimeout.title "Tanzagt n uraǧu tezri">
+<!ENTITY netTimeout.title "Tanzagt n uraju tezri">
 <!ENTITY netTimeout.longDesc "&sharedLongDesc;">
 
 <!ENTITY unknownProtocolFound.title "Ur nessin ara tansa">
