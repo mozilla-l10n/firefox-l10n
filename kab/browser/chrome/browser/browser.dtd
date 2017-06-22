@@ -514,7 +514,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "L">
 <!ENTITY openLinkCmdInCurrent.label     "Ldi aseɣwen">
 <!ENTITY openLinkCmdInCurrent.accesskey "L">
-<!ENTITY openFrameCmdInTab.label      "Ldi akatar ɣef yiccer amaynut">
+<!ENTITY openFrameCmdInTab.label      "Ldi akatar deg yiccer amaynut">
 <!ENTITY openFrameCmdInTab.accesskey  "L">
 <!ENTITY openFrameCmd.label           "Ldi akatar deg usfaylu amaynut">
 <!ENTITY openFrameCmd.accesskey       "L">
