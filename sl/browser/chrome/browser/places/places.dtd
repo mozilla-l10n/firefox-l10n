@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Dodano">
 <!ENTITY col.lastmodified.label  "Zadnja sprememba">
 
-<!ENTITY search.label                              "Išči:">
-<!ENTITY search.accesskey                          "I">
+<!ENTITY search.placeholder  "Išči">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Izberi predmet za prikaz in urejanje njegovih lastnosti">
 
-<!ENTITY find.label               "Išči:">
-<!ENTITY find.accesskey           "I">
 <!ENTITY view.label               "Pogled">
 <!ENTITY view.accesskey           "g">
 <!ENTITY byDate.label             "Po datumu">
