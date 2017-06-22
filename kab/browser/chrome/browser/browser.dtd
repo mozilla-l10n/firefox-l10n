@@ -38,7 +38,7 @@ that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "Rzi iccer-a">
 <!ENTITY  pinTab.accesskey                   "Q">
-<!ENTITY  unpinTab.label                     "Serreḥ i yiccer-agi">
+<!ENTITY  unpinTab.label                     "Serreḥ i yiccer-a">
 <!ENTITY  unpinTab.accesskey                 "S">
 <!ENTITY  sendTabToDevice.label              "Azen iccer ɣer yibenk">
 <!ENTITY  sendTabToDevice.accesskey          "b">
@@ -134,7 +134,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "Hatan tura deg ugdil ačuṛan">
-<!ENTITY fullscreenWarning.generic.label "Isemli-agi, atan tura deg ugdil ačuṛan">
+<!ENTITY fullscreenWarning.generic.label "Isemli-a, atan tura deg ugdil ačuṛan">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
@@ -158,28 +158,28 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Ticraḍ n isebtar">
 <!ENTITY bookmarksMenu.accesskey "r">
-<!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-agi">
-<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebter-agi">
+<!ENTITY bookmarkThisPageCmd.label "Creḍ asebter-a">
+<!ENTITY editThisBookmarkCmd.label "Ẓreg tacreṭ n usebter-a">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "Wali ugar n tanfiwin yebḍan…">
-<!ENTITY sharePageCmd.label "Bḍu asebter-agi">
+<!ENTITY sharePageCmd.label "Bḍu asebter-a">
 <!ENTITY sharePageCmd.commandkey "S">
 <!ENTITY sharePageCmd.accesskey "B">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
-<!ENTITY shareLink.label "Bḍu aseɣwen-agi">
+<!ENTITY shareLink.label "Bḍu aseɣwen-a">
 <!ENTITY shareLink.accesskey "u">
-<!ENTITY shareImage.label "Bḍu tugna-yagi">
+<!ENTITY shareImage.label "Bḍu tugna-a">
 <!ENTITY shareImage.accesskey "n">
-<!ENTITY shareSelect.label "Bḍu afran-agi">
+<!ENTITY shareSelect.label "Bḍu afran-a">
 <!ENTITY shareSelect.accesskey "u">
-<!ENTITY shareVideo.label "Bḍu asaru-yagi">
+<!ENTITY shareVideo.label "Bḍu tavidyut-a">
 <!ENTITY shareVideo.accesskey "s">
-<!ENTITY feedsMenu2.label "Multeɣ ɣer usebter-agi">
-<!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter-agi">
-<!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebter-agi…">
+<!ENTITY feedsMenu2.label "Multeɣ ɣer usebter-a">
+<!ENTITY subscribeToPageMenupopup.label "Multeɣ ɣer usebter-a">
+<!ENTITY subscribeToPageMenuitem.label "Multeɣ ɣer usebter-a…">
 <!ENTITY addCurPagesCmd.label "Creḍ akk Iccaren...">
 <!ENTITY showAllBookmarks2.label "Sken akk ticraḍ n isebtar">
 <!ENTITY recentBookmarks.label "Wid ittwacerḍen melmi kan">
@@ -221,17 +221,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "Sefrek beṭṭu n isfuyla neɣ igdilen d usmel">
 
 <!ENTITY urlbar.servicesNotificationAnchor.tooltip        "Ldi agalis n yizen n usebded">
-<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter-agi">
+<!ENTITY urlbar.translateNotificationAnchor.tooltip       "Suqel asebter-a">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "Sefrek tasuqilt n usebter">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "Sefrek aseqdec n useɣẓan DRM">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-inek i usmelweb-agi">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-agi">
+<!ENTITY urlbar.cameraBlocked.tooltip            "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "Tesweḥleḍ asawaḍ-inek i usmelweb-a.">
 <!ENTITY urlbar.screenBlocked.tooltip            "Tesweḥleḍ asmelweb-a seg beṭṭu n ugdil-inek.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-agi">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-agi. ">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n isefka i usmelweb-agi.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "Tesweḥleḍ talɣut ɣef wadig i usmelweb-a.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "Tesweḥleḍ asekles n isefka i usmelweb-a.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "Tesweḥleḍ ilɣa i usmelweb-a.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Tesweḥleḍ asekles n isefka i usmelweb-a.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Sken amazray">
 
@@ -263,7 +263,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.label              "Ifecka">
 <!ENTITY toolsMenu.accesskey          "I"> 
 
-<!ENTITY keywordfield.label           "Rnu awal n tsarutt i wenadi-agi…">
+<!ENTITY keywordfield.label           "Rnu awal asaru i unadi-a…">
 <!ENTITY keywordfield.accesskey       "w">
 
 <!ENTITY downloads.label              "isidar">
@@ -361,11 +361,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showMore.label, appMenuRemoteTabs.showMore.tooltip):
      This is shown after the tabs list if we can display more tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showMore.label "Sken ugar">
-<!ENTITY appMenuRemoteTabs.showMore.tooltip "Sken ugar n yiccaren seg ibek-agi">
+<!ENTITY appMenuRemoteTabs.showMore.tooltip "Sken ugar n yiccaren seg ibek-a">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.showAll.label, appMenuRemoteTabs.showAll.tooltip):
      This is shown after the tabs list if we can all the remaining tabs by clicking on the button -->
 <!ENTITY appMenuRemoteTabs.showAll.label "Sken akk">
-<!ENTITY appMenuRemoteTabs.showAll.tooltip "Sken akk iccaren seg ibenk-agi">
+<!ENTITY appMenuRemoteTabs.showAll.tooltip "Sken akk iccaren seg ibenk-a">
 <!-- LOCALIZATION NOTE (appMenuRemoteTabs.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY appMenuRemoteTabs.tabsnotsyncing.label "Rmed amtawi n yiccer akken ad-sekneḍ tabdart n yiccaren seg ibenkan-inek nniḍen">
@@ -373,7 +373,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      when Sync is configured but this appears to be the only device attached to
      the account. We also show links to download Firefox for android/ios. -->
 <!ENTITY appMenuRemoteTabs.noclients.title "Ulac iccaren yemtawi…yakan!">
-<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ iccaren-inek seg ibenkan nniḍen d-agi?">
+<!ENTITY appMenuRemoteTabs.noclients.subtitle "Tebɣid ad twaliḍ da iccaren-inek seg ibenkan nniḍen?">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Ismenyifen n umtawi">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Qqen akken ad-sekneḍ tabdart n yiccaren seg ibenkan ik nniḍen.">
 <!ENTITY appMenuRemoteTabs.signin.label "Qqen ɣer Sync">
@@ -520,7 +520,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "L">
 <!ENTITY openLinkCmdInContainerTab.label "Ldi aseɣwen deg iccer n umagbar amaynut">
 <!ENTITY openLinkCmdInContainerTab.accesskey "L">
-<!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-agi kan">
+<!ENTITY showOnlyThisFrameCmd.label     "Sken akatar-a kan">
 <!ENTITY showOnlyThisFrameCmd.accesskey "k">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "Smiren akatar">
@@ -536,7 +536,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewFrameSourceCmd.accesskey "g">
 <!ENTITY viewPageInfoCmd.label        "Wali talɣut n usebter">
 <!ENTITY viewPageInfoCmd.accesskey    "l">
-<!ENTITY viewFrameInfoCmd.label       "Talɣut ɣef ukatar-agi">
+<!ENTITY viewFrameInfoCmd.label       "Talɣut ɣef ukatar-a">
 <!ENTITY viewFrameInfoCmd.accesskey   "l">
 <!ENTITY reloadImageCmd.label         "Smiren tugna">
 <!ENTITY reloadImageCmd.accesskey     "S">
@@ -552,10 +552,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBGImageCmd.accesskey     "S">
 <!ENTITY setDesktopBackgroundCmd.label      "Fren tugna n ugilal...">
 <!ENTITY setDesktopBackgroundCmd.accesskey  "F">
-<!ENTITY bookmarkPageCmd2.label       "Creḍ asebter-agi">
-<!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen-agi">
+<!ENTITY bookmarkPageCmd2.label       "Creḍ asebter-a">
+<!ENTITY bookmarkThisLinkCmd.label      "Creḍ aseɣwen-a">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "r">
-<!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-agi">
+<!ENTITY bookmarkThisFrameCmd.label      "Tacreṭ ɣef ukatar-a">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "c">
 <!ENTITY copyURLCmd.label             "Nγel URL">
 <!ENTITY emailPageCmd.label           "Azen s yimayl aseɣwen ɣeṛ usebter…">
@@ -585,9 +585,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "Azen ameslaw s yimayl…">
 <!ENTITY emailAudioCmd.accesskey      "a">
-<!ENTITY playPluginCmd.label          "Rmed azegrir-agi">
+<!ENTITY playPluginCmd.label          "Rmed azegrir-a">
 <!ENTITY playPluginCmd.accesskey      "z">
-<!ENTITY hidePluginCmd.label          "Ffer Azegrir-agi">
+<!ENTITY hidePluginCmd.label          "Ffer Azegrir-a">
 <!ENTITY hidePluginCmd.accesskey      "F">
 <!ENTITY copyLinkCmd.label            "Nɣel tansa n useɣwen">
 <!ENTITY copyLinkCmd.accesskey        "N">
@@ -601,7 +601,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyAudioURLCmd.accesskey    "N">
 <!ENTITY copyEmailCmd.label           "Nɣel tansa imayl">
 <!ENTITY copyEmailCmd.accesskey       "t">
-<!ENTITY thisFrameMenu.label              "Akatar-agi">
+<!ENTITY thisFrameMenu.label              "Akatar-a">
 <!ENTITY thisFrameMenu.accesskey          "k">
 
 <!-- Media (video/audio) controls -->
@@ -708,7 +708,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "Aɣanib azadur n usebter">
 <!ENTITY pageStylePersistentOnly.accesskey "b">
 
-<!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n isfuyla udhimen n usmel-agi web">
+<!ENTITY pageReportIcon.tooltip            "Snifel tasertit n usewḥel n isfuyla udhimen n usmel-a web">
 
 <!ENTITY allowPopups.accesskey "p">
 <!-- On Windows we use the term "Options" to describe settings, but
@@ -725,7 +725,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.accesskey    "n">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
-<!ENTITY findOnCmd.label     "Nadi deg usebter-agi… ">
+<!ENTITY findOnCmd.label     "Nadi deg usebter-a…">
 <!ENTITY findOnCmd.accesskey "d">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "Nadi ɣer zdat">
@@ -742,17 +742,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.connectionSecure "Tuqqna taɣelsant">
 <!ENTITY identity.connectionNotSecure "Tuqqna taraɣelsant">
-<!ENTITY identity.connectionFile "Asebter-agi yettwakles deg uselkim-inek.">
-<!ENTITY identity.connectionVerified2 "Aqlak tura teqqneḍ s tɣellist ɣeṛ usmel-agi, iselkem sɣuṛ:">
+<!ENTITY identity.connectionFile "Asebter-a yettwakles deg uselkim-inek.">
+<!ENTITY identity.connectionVerified2 "Aql-ak tura teqqneḍ s tɣellist ɣeṛ usmel-a, bab-is d:">
 <!ENTITY identity.connectionInternal "Wa d asebter &brandShortName; aɣelsan.">
-<!ENTITY identity.extensionPage "Asebter-agi yuli-d seg usiγzef.">
-<!ENTITY identity.insecureLoginForms2 "Yezmer d akken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-agi, ad ttwakren.">
+<!ENTITY identity.extensionPage "Asebter-a yuli-d seg usiɣzef.">
+<!ENTITY identity.insecureLoginForms2 "Yezmer dakken aseqdac d wawal uffir i tesqedceḍ ɣef usmel-a, ad ttwakren.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d inelnanen deg usebter-agi.">
-<!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebter-agi d iraɣelsanen (am tugniwin).">
-<!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebter-agi.">
-<!ENTITY identity.weakEncryption "Asebter-agi iseqdac awgelhen meẓẓiyen">
+<!ENTITY identity.activeBlocked "&brandShortName; isewḥel kra n tazunin ur nelli ara d iɣelsanen deg usebter-a.">
+<!ENTITY identity.passiveLoaded "Kra n yeḥricen ɣef usebter-a d iraɣelsanen (am tugniwin).">
+<!ENTITY identity.activeLoaded "Treremdeḍ ammesten ɣef usebter-a.">
+<!ENTITY identity.weakEncryption "Asebter-a iseqdac awgelhen fessusen.">
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "Tuqqna yinek ɣer usmel-agi mačči tusligt.Zemren wiyaḍ ad walin talɣut tuzneḍ (am awalen uffiren, iznan, art.). ">
