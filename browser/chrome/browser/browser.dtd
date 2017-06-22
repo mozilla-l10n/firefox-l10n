@@ -329,8 +329,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "t"> 
 <!ENTITY viewSidebarMenu.label "Bilah Samping">
 <!ENTITY viewSidebarMenu.accesskey "m">
-<!ENTITY viewCustomizeToolbar.label       "Suka-suka…"> 
-<!ENTITY viewCustomizeToolbar.accesskey     "S">
+<!ENTITY viewCustomizeToolbar.label       "Ubahsuai…"> 
+<!ENTITY viewCustomizeToolbar.accesskey     "U">
 
 <!ENTITY historyMenu.label "Riwayat">
 <!ENTITY historyMenu.accesskey "R">
