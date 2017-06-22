@@ -6,14 +6,14 @@
 <!ENTITY window.width                     "36em">
 <!ENTITY windowClose.key                  "w">
 
-<!ENTITY noTranslationForLanguages.label  "Ur d-tettwasumar ara tsuqilt i tutlayin-agi:">
+<!ENTITY noTranslationForLanguages.label  "Ur d-tettwasumar ara tsuqilt i tutlayin-a:">
 <!ENTITY treehead.languageName.label      "Tutlayin">
 <!ENTITY removeLanguage.label             "Kkes tutlayin">
 <!ENTITY removeLanguage.accesskey         "K">
 <!ENTITY removeAllLanguages.label         "Kkes akk tutlayin">
 <!ENTITY removeAllLanguages.accesskey     "a">
 
-<!ENTITY noTranslationForSites.label      "Ur d-tettwasumar ara tsuqilt i yismal-agi:">
+<!ENTITY noTranslationForSites.label      "Ur d-tettwasumar ara tsuqilt i yismal-a:">
 <!ENTITY treehead.siteName.label          "Ismal web">
 <!ENTITY removeSite.label                 "Kkes asmel">
 <!ENTITY removeSite.accesskey             "s">

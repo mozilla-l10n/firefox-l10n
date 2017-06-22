@@ -12,8 +12,8 @@
   -  global/languageNames.properties file; for some locales it may not be in
   -  the correct grammar case to keep the same structure of the original
   -  sentence. -->
-<!ENTITY translation.thisPageIsIn.label         "Asebter-agi yella di">
-<!ENTITY translation.translateThisPage.label    "Suqel asebter-agi?">
+<!ENTITY translation.thisPageIsIn.label         "Asebter-a yella deg">
+<!ENTITY translation.translateThisPage.label    "Suqel asebter-a?">
 <!ENTITY translation.translate.button           "Suqel">
 <!ENTITY translation.notNow.button              "Ticki">
 
@@ -41,7 +41,7 @@
 <!ENTITY translation.showOriginal.button        "Sken asebter aneẓli">
 <!ENTITY translation.showTranslation.button     "Sken tasuqilt">
 
-<!ENTITY translation.errorTranslating.label     "Tuccḍa di tsuqilt n usebter-agi.">
+<!ENTITY translation.errorTranslating.label     "Tuccḍa deg tsuqilt n usebter-a.">
 <!ENTITY translation.tryAgain.button            "Ɛreḍ i tikelt nniḍen">
 
 <!ENTITY translation.serviceUnavailable.label   "Ameẓlu n tsulqilt ulac-itt. Ɛreḍ ticki.">
@@ -52,7 +52,7 @@
   -  The accesskey values used here should not clash with the value used for
   -  translation.options.neverForLanguage.accesskey in translation.properties
   -->
-<!ENTITY translation.options.neverForSite.label "Weṛǧin asuqel n usmel-agi">
+<!ENTITY translation.options.neverForSite.label "Werǧin asuqel n usmel-a">
 <!ENTITY translation.options.neverForSite.accesskey "W">
 <!ENTITY translation.options.preferences.label  "Ismenyifen n tsuqilt">
 <!ENTITY translation.options.preferences.accesskey "I">
