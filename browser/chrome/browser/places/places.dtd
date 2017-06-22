@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Cruthaithe">
 <!ENTITY col.lastmodified.label  "Athraithe">
 
+<!ENTITY search.placeholder  "Cuardaigh">
 
 <!ENTITY cmd.find.key  "f">
 
