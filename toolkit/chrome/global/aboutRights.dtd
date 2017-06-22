@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "about:rights">
-<!ENTITY rights.intro-header    "소프트웨어 권한 정보">
+<!ENTITY rights.title "여러분의 권리 알아보기">
 <!ENTITY rights.intro "&brandFullName;는 무료 오픈 소스 소프트웨어이며, 전세계 수천명의 커뮤니티 개발자에 의해 만들어지고 있습니다. 아래에 몇 가지 유의 사항을 알려 드립니다:">
 
 <!-- Note on pointa / pointb / pointc form:
