@@ -106,6 +106,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "輔助功能">
 <!ENTITY aboutSupport.a11yActivated "已啟用">
 <!ENTITY aboutSupport.a11yForceDisabled "已強迫停用輔助功能">
+<!ENTITY aboutSupport.a11yHandlerUsed "已使用 Accessible Handler">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "程式庫版本">
 
