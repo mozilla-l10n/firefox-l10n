@@ -31,7 +31,7 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
-<!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-agi n usefsu">
+<!ENTITY healthReportingDisabled.label   "Aneqqis n isefka ur irmid ara i uswel-a n usefsu">
 
 <!ENTITY healthReportDesc.label          "Ad k-yall akken ad tegzuḍ timellit n iminig-inek u ad yazen i &vendorShortName; talɣut ɣef addad n tezmert n iminig-inek.">
 <!ENTITY enableHealthReport.label        "Rmed tacrawt n tezmert n &brandShortName;">
@@ -133,7 +133,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings.label
                                          "Seqdec iγewwaṛen n temellit ihulen">
 <!ENTITY useRecommendedPerformanceSettings.description
-                                         "Iγewwaṛen-agi wilmen i twila n warrum n uselkim inek d unagraw n wammud.">
+                                         "Iγewwaṛen-a wulmen i twila n warrum n uselkim-inek d unagraw n wammud.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey
                                          "S">
 <!ENTITY performanceSettingsLearnMore.label

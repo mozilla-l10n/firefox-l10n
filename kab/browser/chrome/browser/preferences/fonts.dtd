@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "Tehri tusbuṭ:">
 <!ENTITY  monospace.accesskey                     "T">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Tutlayin tilaṭiniyin">
 <!ENTITY  font.langGroup.japanese                 "Tajapunit">
 <!ENTITY  font.langGroup.trad-chinese             "Tacinit tamensayt (Ṭaywan)">
@@ -56,8 +56,8 @@
 <!ENTITY minSize.label                            "Teɣzi taddayt n tsefsit:">
 <!ENTITY minSize.accesskey                        "T">
 <!ENTITY minSize.none                             "Ulac">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans serif">
 
@@ -67,7 +67,7 @@
 <!ENTITY languages.customize.Fallback2.grouplabel "Asettengel n uḍris i ugbur aqbuṛ">
 <!ENTITY languages.customize.Fallback2.label      "Asettengel n uḍris n ufran aneggaru:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
-<!ENTITY languages.customize.Fallback2.desc       "Asettengel-agi n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
+<!ENTITY languages.customize.Fallback2.desc       "Asettengel-a n uḍris ittuseqdec i ugbur aqbuṛ ur d-nettammal ara asettengel-ines.">
 
 <!ENTITY languages.customize.Fallback.auto        "Azal amezwer i tutlayt tadigant">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):

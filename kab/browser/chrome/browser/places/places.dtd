@@ -41,7 +41,7 @@
 <!ENTITY cmd.restoreFromFile.label      "Fren afaylu…">
 <!ENTITY cmd.restoreFromFile.accesskey  "F">
 
-<!ENTITY cmd.deleteDomainData.label     "Ttu asmel-agi">
+<!ENTITY cmd.deleteDomainData.label     "Ttu asmel-a">
 <!ENTITY cmd.deleteDomainData.accesskey "a">
 
 <!ENTITY cmd.open.label                  "Ldi">
