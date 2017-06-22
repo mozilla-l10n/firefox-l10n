@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Taispeáin na nótaí eisiúna don nuashonrú seo">
 <!ENTITY cmd.hideReleaseNotes.label           "Folaigh na Nótaí Eisiúna">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Folaigh na nótaí eisiúna don nuashonrú seo">
-
+<!ENTITY cmd.findReplacement.label            "Aimsigh Ionadaí">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
