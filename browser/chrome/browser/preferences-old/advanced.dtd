@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Kerätyt tiedot">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Tietojen kerääminen ei ole käytössä tässä koostamiskokoonpanossa">
+
 <!ENTITY healthReportDesc.label          "Antaa sinulle tietoa selaimesi suorituskyvystä ja jakaa tiedot selaimesi tilasta &vendorShortName;n kanssa">
 <!ENTITY enableHealthReport.label        "&brandShortName;in terveydentilaraportti käytössä">
 <!ENTITY enableHealthReport.accesskey    "F">
