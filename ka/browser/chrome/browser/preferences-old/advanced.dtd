@@ -12,7 +12,7 @@
 <!ENTITY useCursorNavigation.accesskey   "რ">
 <!ENTITY searchOnStartTyping.label       "ტექსტის ძიება აკრეფის დაწყებისთანავე">
 <!ENTITY searchOnStartTyping.accesskey   "ტ">
-<!ENTITY blockAutoReload.label           "გაფრთხილება, გვერდის გადამისამართებას ან ხელახლა ჩატვირთვის მცდელობისას">
+<!ENTITY blockAutoReload.label           "გაფრთხილება, გვერდის გადამისამართების ან ხელახლა გახსნის მცდელობისას">
 <!ENTITY blockAutoReload.accesskey       "გ">
 <!ENTITY useOnScreenKeyboard.label       "სენსორული კლავიატურის ჩვენება საჭიროების შემთხვევაში">
 <!ENTITY useOnScreenKeyboard.accesskey   "კ">
