@@ -83,7 +83,7 @@ available. -->
 
 <!ENTITY updateTab.label                 "மேம்படுத்தல்">
 
-<!ENTITY updateApplication.label         "&brandShortName; மேம்படுத்தல்கள்:">
+<!ENTITY updateApplication.label         "&brandShortName; மேம்படுத்தல்கள்">
 <!ENTITY updateAuto1.label               "புதுப்பிப்புகளை தானாக நிறுவு (பரிந்துரைக்கப்படுவது: பாதுகாப்பை மேம்படுத்தும்) ">
 <!ENTITY updateAuto1.accesskey           "A">
 <!ENTITY updateCheckChoose.label         "புதுப்பிப்புகள் உள்ளதா எனப் சோதிக்கவும், ஆனால் நிறுவ வேண்டுமா என்பதை நான் தேர்வு செய்கிறேன்">
