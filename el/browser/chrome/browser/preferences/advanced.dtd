@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Επιλογές δεδομένων">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Η αναφορά δεδομένων είναι ανενεργή για αυτή την έκδοση">
+
 <!ENTITY healthReportDesc.label          "Σάς βοηθάει να κατανοήσετε τις επιδόσεις του προγράμματος περιήγησής σας και αποστέλλει δεδομένα στη &vendorShortName; σχετικά με την υγεία του">
 <!ENTITY enableHealthReport.label        "Ενεργοποίηση αναφορών υγείας του &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "φ">
