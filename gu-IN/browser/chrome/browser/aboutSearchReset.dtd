@@ -6,7 +6,7 @@
 
 <!ENTITY searchreset.pageTitle      "તમારી શોધ સેટિંગ્સ ફરિથી સ્ટોર કરો?">
 
-<!ENTITY searchreset.pageInfo1      "તમારી શોધ સેટિંગ્સ જૂનું હોઈ શકે છે. &brandShortName; તમે ડિફૉલ્ટ શોધ સેટિંગ્સ પુનઃસ્થાપિત કરવામાં મદદ કરી શકે છે.">
+<!ENTITY searchreset.pageInfo1      "તમારી શોધ સેટિંગ્સ જૂનું હોઈ શકે છે. &brandShortName; સેટિંગ્સ પુનઃસ્થાપિત કરવામાં મદદ કરી શકે છે.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
