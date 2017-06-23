@@ -86,7 +86,7 @@
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableWorkers.label    "Rmen tasertit worker (di tneflit)">
-<!ENTITY options.enableWorkers.tooltip  "Ma tremdeḍ asfren-a. ay-a ad isireg ifecka n tneflit akken ad seɣtin inmahalen">
+<!ENTITY options.enableWorkers.tooltip  "Ma tremdeḍ asfren-a. Aya ad isireg ifecka n tneflit akken ad seɣtin inmahalen">
 
 <!-- LOCALIZATION NOTE (options.disableJavaScript.label,
   -  options.disableJavaScript.tooltip): This is the options panel label and
