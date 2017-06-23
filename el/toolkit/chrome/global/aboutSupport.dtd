@@ -108,6 +108,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Προσιτότητα">
 <!ENTITY aboutSupport.a11yActivated "Ενεργοποιήθηκε">
 <!ENTITY aboutSupport.a11yForceDisabled "Να μην επιτρέπεται η προσιτότητα">
+<!ENTITY aboutSupport.a11yHandlerUsed "Προσβάσιμο όνομα χρήστη σε χρήση">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Εκδόσεις βιβλιοθήκης">
 
