@@ -59,7 +59,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsBuildConfig "ანაწყობის კონფიგურაცია">
 <!ENTITY aboutSupport.appBasicsUserAgent "მომხმარებლის აგენტი">
 <!ENTITY aboutSupport.appBasicsOS "OS">
-<!ENTITY aboutSupport.appBasicsMemoryUse "მეხსიერების გამოყენება">
+<!ENTITY aboutSupport.appBasicsMemoryUse "გამოყენებული მეხსიერება">
 <!ENTITY aboutSupport.appBasicsPerformance "წარმადობა">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
@@ -70,7 +70,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMultiProcessSupport "მრავალპროცესიანი ფანჯრები">
 
 <!ENTITY aboutSupport.appBasicsKeyGoogle "Google გასაღები">
-<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla ადგილმდებარეობის სერვისის გასაღები">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Mozilla მდებარეობის განსაზღვრის გასაღები">
 
 <!ENTITY aboutSupport.appBasicsSafeMode "უსაფრთხო რეჟიმი">
 
