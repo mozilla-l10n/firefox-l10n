@@ -46,12 +46,12 @@
 <!ENTITY saveAsTemplateCmd.accesskey "S">
 <!ENTITY sendNowCmd.label "Nu verzenden">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "v">
+<!ENTITY sendNowCmd.accesskey "u">
 <!ENTITY sendLaterCmd.label "Later verzenden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Afdrukken…">
@@ -99,7 +99,7 @@
 <!ENTITY findAgainCmd.key "G">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Vorige zoeken">
-<!ENTITY findPrevCmd.accesskey "r">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
 

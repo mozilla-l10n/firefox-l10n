@@ -34,7 +34,7 @@
 <!ENTITY preferencesCmd2.label "Opties">
 <!ENTITY preferencesCmd2.accesskey "O">
 <!ENTITY preferencesCmdUnix.label "Voorkeuren">
-<!ENTITY preferencesCmdUnix.accesskey "V">
+<!ENTITY preferencesCmdUnix.accesskey "r">
 
 <!ENTITY viewMenu.label "Beeld">
 <!ENTITY viewMenu.accesskey "l">
@@ -54,5 +54,5 @@
 <!ENTITY quitApplicationCmdUnix.label "Afsluiten">
 <!ENTITY quitApplicationCmdUnix.accesskey "A">
 
-<!ENTITY quitApplicationCmdMac.label "&brandShortName; afsluiten"> 
+<!ENTITY quitApplicationCmdMac.label "&brandShortName; afsluiten">
 <!ENTITY quitApplicationCmdMac.accesskey "a">

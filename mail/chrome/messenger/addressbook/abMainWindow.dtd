@@ -133,7 +133,7 @@ because displayed names don't have the comma in between. -->
 <!ENTITY preferencesCmd2.label                          "Opties">
 <!ENTITY preferencesCmd2.accesskey                      "O">
 <!ENTITY preferencesCmdUnix.label                       "Voorkeuren">
-<!ENTITY preferencesCmdUnix.accesskey                   "V">
+<!ENTITY preferencesCmdUnix.accesskey                   "r">
 
 <!-- Address Book Toolbar and Context Menus -->
 <!ENTITY newContactButton.label                         "Nieuw contact">

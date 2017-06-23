@@ -60,12 +60,12 @@
 <!ENTITY deleteFolder.label "Map verwijderen">
 <!ENTITY deleteFolder.accesskey "r">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
-<!ENTITY renameFolder.accesskey "w">
+<!ENTITY renameFolder.accesskey "M">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "Mappen comprimeren">
 <!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
-<!ENTITY emptyTrashCmd.accesskey "P">
+<!ENTITY emptyTrashCmd.accesskey "b">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY offlineGoOfflineCmd.label "Offline werken">
@@ -274,7 +274,7 @@
 <!ENTITY findCmd.accesskey "I">
 <!ENTITY findCmd.key "f">
 <!ENTITY findAgainCmd.label "Opnieuw zoeken">
-<!ENTITY findAgainCmd.accesskey "O">
+<!ENTITY findAgainCmd.accesskey "w">
 <!ENTITY findAgainCmd.key "g">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.key "g">
