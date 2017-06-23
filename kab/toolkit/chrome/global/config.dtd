@@ -6,7 +6,7 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, ay-a yezmer ad k-iḍuṛṛ!">
+<!ENTITY aboutWarningTitle.label "Ɣuṛ-k, aya yezmer ad k-iḍuṛṛ!">
 <!ENTITY aboutWarningText.label "Asnifel n ismenyifen-agi zemren ad sexṣeren arkad, taɣellist d timellit n usnas-agi. Tzemreḍ kan ad kemleḍ ma yella teẓriḍ ayen tmahaleḍ.">
 <!ENTITY aboutWarningButton2.label "Gziɣ uguren!">
 <!ENTITY aboutWarningCheckbox.label "Sken alɣu-yagi tikelt d-iteddun">

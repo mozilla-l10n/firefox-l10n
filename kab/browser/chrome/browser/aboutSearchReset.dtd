@@ -2,11 +2,11 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY searchreset.tabtitle       "Err-d iɣewwaṛen n unadi">
+<!ENTITY searchreset.tabtitle       "Err-d iγewwaṛen n unadi">
 
-<!ENTITY searchreset.pageTitle      "Err-d iɣewwaṛen n unadi?">
+<!ENTITY searchreset.pageTitle      "Err-d iγewwaṛen n unadi?">
 
-<!ENTITY searchreset.pageInfo1      "Iɣewwaṛen-inek n unadi d iqburen. &brandShortName; yezmer ad d-yerr iɣewwaṛen n unadi imezwar.">
+<!ENTITY searchreset.pageInfo1      "Iγewwaṛen-inek n unadi d iqburen. &brandShortName; yezmer ad d-yerr iγewwaṛen n unadi imezwar.">
 
 
 <!-- LOCALIZATION NOTE (searchreset.selector.label): this string is
@@ -21,7 +21,7 @@ their language. -->
 <!ENTITY searchreset.beforelink.pageInfo2 "Tzemreḍ ad tesnifleḍ iɣewwaṛen-a yal tiremt tebɣiḍ seg  ">
 <!ENTITY searchreset.afterlink.pageInfo2  ". ">
 
-<!ENTITY searchreset.link.pageInfo2       "Asebter  iɣewwaṛen ">
+<!ENTITY searchreset.link.pageInfo2       "Asebter iγewwaṛen">
 
 <!ENTITY searchreset.noChangeButton        "Ur senfell ara">
 <!ENTITY searchreset.noChangeButton.access "D ">

@@ -8,11 +8,11 @@
      and regret that we are unable to restore the session for the user -->
 <!ENTITY restorepage.errorTitle     "Ihuh, aya diri-t.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; yufa-d uguren deg tririt n isfuyla d yiccaren. Aya yeḍra-d s tmentilt n yiwen usebter web i d-teldiḍ melmi kan.">
-<!ENTITY restorepage.tryThis        "Tzemrem ad tɛerḍem: ">
-<!ENTITY restorepage.restoreSome    "Kess yiwen neɣ ugar n yiccaren i tɣileḍ d-aɣbalu n wugur ">
+<!ENTITY restorepage.tryThis        "Tzemreḍ ad tɛerḍeḍ:">
+<!ENTITY restorepage.restoreSome    "Kkes yiwen neɣ ugar n yiccaren i tɣileḍ d aɣbalu n wugur">
 <!ENTITY restorepage.startNew       "senker tiɣimit n tunigin tamaynut ">
 
-<!ENTITY restorepage.tryagainButton "Rrit aken yella">
+<!ENTITY restorepage.tryagainButton "Err akken yella">
 <!ENTITY restorepage.restore.access "R">
 <!ENTITY restorepage.closeButton    "Mdel">
 <!ENTITY restorepage.close.access   "C">
