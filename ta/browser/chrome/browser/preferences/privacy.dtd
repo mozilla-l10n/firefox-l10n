@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "தடமறியல் பாதுகாப்பு">
-
+<!ENTITY  trackingProtection.description       "உங்கள் உலாவல் மற்றும் சுய தரவின் அடிப்படையில் ஒரு சுயவிவரத்தை உருவாக்கி காட்சிப்படுத்த நிறுவனங்கள் உங்களைப் பற்றிய தகவல்களைச் சேகரிக்கையில் கண்காணிப்பது.">
 <!ENTITY  trackingProtection.radioGroupLabel   "உள்ளடக்கத்தைக் காட்டும் நன்கு அறிந்த தடமறி நிறுவனங்களைத் தடு">
 <!ENTITY  trackingProtectionAlways.label       "எப்போதும்">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
