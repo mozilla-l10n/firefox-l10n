@@ -89,7 +89,7 @@ available. -->
   Please check for possible accesskey conflicts.
 -->
 
-<!ENTITY updateApplication.label         "&brandShortName; மேம்படுத்தல்கள்:">
+<!ENTITY updateApplication.label         "&brandShortName; மேம்படுத்தல்கள்">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
@@ -106,7 +106,7 @@ available. -->
 <!ENTITY updateManual2.label             "புதுப்பித்தல்களைப் பார்க்க வேண்டாம் (பரிந்துரைக்கவில்லை)">
 <!ENTITY updateManual2.accesskey         "N">
 
-<!ENTITY updateHistory2.label            "புதுப்பித்தல் வரலாற்றைக் காட்டு…">
+<!ENTITY updateHistory2.label            "புதுப்பித்தல் வரலாறு…">
 <!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "புதுப்பிப்புகளை நிறுவ ஒரு பின்புல சேவையைப் பயன்படுத்தவும்">

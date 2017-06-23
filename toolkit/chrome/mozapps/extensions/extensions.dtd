@@ -47,7 +47,7 @@
 <!ENTITY view.availableUpdates.label          "இருக்கும் புதுப்பித்தல்கள்">
 <!-- addon updates -->
 
-<!ENTITY updates.checkForUpdates.label        "புதுப்பித்தல்களுக்கு சரிபார்க்கவும்">
+<!ENTITY updates.checkForUpdates.label        "புதியவை உள்ளதா எனப்பார்">
 <!ENTITY updates.checkForUpdates.accesskey    "C">
 <!ENTITY updates.viewUpdates.label            "சமீபத்திய மேம்படுத்தல்களை பார்">
 <!ENTITY updates.viewUpdates.accesskey        "V">

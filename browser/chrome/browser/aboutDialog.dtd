@@ -12,8 +12,8 @@
 # the about dialog (see bug 596813 for screenshots).
 -->
 
-<!ENTITY update.checkForUpdatesButton.label       "புதுப்பித்தல்களுக்கு சரிபார்க்கவும்">
-<!ENTITY update.checkForUpdatesButton.accesskey   "ப">
+<!ENTITY update.checkForUpdatesButton.label       "புதியவை உள்ளதா எனப்பார்">
+<!ENTITY update.checkForUpdatesButton.accesskey   "C">
 <!ENTITY update.updateButton.label3               "&brandShorterName; புதுப்பிக்க மீள்துவக்கு">
 <!ENTITY update.updateButton.accesskey            "R">
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->

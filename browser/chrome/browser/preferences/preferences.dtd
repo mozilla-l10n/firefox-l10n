@@ -17,7 +17,7 @@
 <!ENTITY  paneFilesApplications.title   "கோப்புகள் &amp; பயன்பாடுகள்">
 <!ENTITY  panePrivacySecurity.title     "தனியுரிமை &amp; பாதுகாப்பு">
 
-
+<!ENTITY  paneUpdates.title             "மேம்படுத்தல்">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "பயர்பாக்ஸ் கணக்கு">
