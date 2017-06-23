@@ -50,17 +50,17 @@
 <!ENTITY getAllNewMsgCmd.label "Alle nieuwe berichten ophalen">
 <!ENTITY getAllNewMsgCmd2.key "d">
 <!ENTITY getNextNMsgCmd.label "Volgende 500 nieuwsberichten ophalen">
-<!ENTITY getNextNMsgCmd.accesskey "d">
+<!ENTITY getNextNMsgCmd.accesskey "h">
 <!ENTITY sendUnsentCmd.label "Niet-verzonden berichten verzenden">
 <!ENTITY sendUnsentCmd.accesskey "z">
 <!ENTITY subscribeCmd.label "Abonneren…">
 <!ENTITY subscribeCmd.accesskey "e">
 <!ENTITY renameFolder.label "Mapnaam wijzigen…">
-<!ENTITY renameFolder.accesskey "w">
+<!ENTITY renameFolder.accesskey "M">
 <!ENTITY compactFolders.label "Mappen comprimeren">
 <!ENTITY compactFolders.accesskey "c">
 <!ENTITY emptyTrashCmd.label "Prullenbak leegmaken">
-<!ENTITY emptyTrashCmd.accesskey "P">
+<!ENTITY emptyTrashCmd.accesskey "b">
 <!ENTITY offlineMenu.label "Offline">
 <!ENTITY offlineMenu.accesskey "f">
 <!ENTITY synchronizeOfflineCmd.label "Nu downloaden/synchroniseren…">

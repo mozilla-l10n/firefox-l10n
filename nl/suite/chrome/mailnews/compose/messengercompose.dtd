@@ -36,7 +36,7 @@
 <!ENTITY attachVCardCmd.accesskey "P">
 <!ENTITY sendNowCmd.label "Nu verzenden">
 <!ENTITY sendCmd.keycode "VK_RETURN">
-<!ENTITY sendNowCmd.accesskey "v">
+<!ENTITY sendNowCmd.accesskey "u">
 <!ENTITY sendLaterCmd.label "Later verzenden">
 <!ENTITY sendLaterCmd.keycode "VK_RETURN">
 <!ENTITY sendLaterCmd.accesskey "z">

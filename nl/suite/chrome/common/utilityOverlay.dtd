@@ -6,7 +6,7 @@
 <!ENTITY offlineGoOfflineCmd.label              "Offline werken">
 <!ENTITY offlineGoOfflineCmd.accesskey          "f">
 
-<!-- LOCALIZATION NOTE : FILE This file contains the global menu items --> 
+<!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
 
 <!ENTITY fileMenu.label                         "Bestand">
 <!ENTITY fileMenu.accesskey                     "B">
@@ -26,7 +26,7 @@
 <!ENTITY newPrivateWindowCmd.key "B">
 <!ENTITY newPrivateWindowCmd.accesskey "P">
 <!ENTITY printSetupCmd.label "Pagina-instellingen…">
-<!ENTITY printSetupCmd.accesskey "P">
+<!ENTITY printSetupCmd.accesskey "i">
 <!ENTITY printPreviewCmd.label "Afdrukvoorbeeld">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "Afdrukken…">
@@ -54,18 +54,18 @@
 <!ENTITY pasteGoCmd.accesskey                   "e">
 
 <!-- LOCALIZATION NOTE (pasteSearchCmd): "Search" is a verb, this is the
-     search bar equivalent to the url bar's "Paste & Go"  --> 
+     search bar equivalent to the url bar's "Paste & Go"  -->
 <!ENTITY pasteSearchCmd.label                   "Plakken &amp; Zoeken">
 <!ENTITY pasteSearchCmd.accesskey		"e">
 <!ENTITY deleteCmd.label                        "Verwijderen">
-<!ENTITY deleteCmd.accesskey                    "w">
+<!ENTITY deleteCmd.accesskey                    "V">
 <!ENTITY selectAllCmd.label                     "Alles selecteren">
 <!ENTITY selectAllCmd.key                       "A">
 <!ENTITY selectAllCmd.accesskey                 "A">
-<!ENTITY clearHistoryCmd.label			"Zoekgeschiedenis wissen">  
-<!ENTITY clearHistoryCmd.accesskey		"Z"> 
-<!ENTITY showSuggestionsCmd.label		"Suggesties tonen">  
-<!ENTITY showSuggestionsCmd.accesskey		"S"> 
+<!ENTITY clearHistoryCmd.label			"Zoekgeschiedenis wissen">
+<!ENTITY clearHistoryCmd.accesskey		"Z">
+<!ENTITY showSuggestionsCmd.label		"Suggesties tonen">
+<!ENTITY showSuggestionsCmd.accesskey		"S">
 <!ENTITY preferencesCmd.label                   "Voorkeuren…">
 <!ENTITY preferencesCmd.key                     "E">
 <!ENTITY preferencesCmd.accesskey               "r">
@@ -77,12 +77,12 @@
 <!ENTITY findReplaceCmd.accesskey "e">
 <!ENTITY findAgainCmd.label "Opnieuw zoeken">
 <!ENTITY findAgainCmd.key "G">
-<!ENTITY findAgainCmd.accesskey "e">
+<!ENTITY findAgainCmd.accesskey "w">
 <!ENTITY findAgainCmd.key2 "VK_F3">
 <!ENTITY findPrevCmd.label "Vorige zoeken">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "V">
+<!ENTITY findPrevCmd.accesskey "i">
 <!ENTITY findTypeTextCmd.label                  "Tekst zoeken terwijl u typt">
 <!ENTITY findTypeTextCmd.accesskey              "T">
 <!ENTITY findTypeLinksCmd.label                 "Koppelingen zoeken terwijl u typt">
@@ -96,7 +96,7 @@
 <!ENTITY showTaskbarCmd.accesskey               "S">
 
 <!ENTITY helpMenu.label                         "Help">
-<!ENTITY helpMenu.accesskey                     "H">   
+<!ENTITY helpMenu.accesskey                     "H">
 
 <!ENTITY helpTroubleshootingInfo.label          "Probleemoplossingsinformatie">
 <!ENTITY helpTroubleshootingInfo.accesskey      "P">
