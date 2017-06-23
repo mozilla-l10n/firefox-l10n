@@ -35,8 +35,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.experimentDescription "აღწერილობა">
 <!ENTITY aboutSupport.experimentActive "აქტიური">
 <!ENTITY aboutSupport.experimentEndDate "დასრულების თარიღი">
-<!ENTITY aboutSupport.experimentHomepage "საწყისი გვერდი">
-<!ENTITY aboutSupport.experimentBranch "შტო">
+<!ENTITY aboutSupport.experimentHomepage "მთავარი გვერდი">
+<!ENTITY aboutSupport.experimentBranch "განშტოება">
 
 <!ENTITY aboutSupport.appBasicsTitle "პროგრამის ძირითადი მონაცემები">
 <!ENTITY aboutSupport.appBasicsName "სახელი">
@@ -83,7 +83,7 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "საქაღალდის გახსნა">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ჩასწორებული მნიშვნელოვანი პატამეტრები">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "ჩასწორებული მნიშვნელოვანი პარამეტრები">
 <!ENTITY aboutSupport.modifiedPrefsName "სახელი">
 <!ENTITY aboutSupport.modifiedPrefsValue "მნიშვნელობა">
 
@@ -127,7 +127,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallNumber "სისტემური გამოძახება">
 <!ENTITY aboutSupport.sandboxSyscallArgs "არგუმენტები">
 
-<!ENTITY aboutSupport.safeModeTitle "უსაფრთხო რეჟიმის ცდა">
+<!ENTITY aboutSupport.safeModeTitle "სცადეთ უსაფრთხო რეჟიმი">
 <!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ფუნქციები">
