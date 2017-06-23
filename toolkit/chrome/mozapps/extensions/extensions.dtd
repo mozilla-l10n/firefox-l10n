@@ -124,7 +124,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "கூடுதல் இணைப்பு என்றால் என்ன?">
-<!ENTITY discover.description2                "துணை நிரல் என்பது கூடுதல் செயல்பாடு அல்லது பாணியுடன் &brandShortName; விருப்பமைக்க உதவும் பயன்பாடுகள் ஆகும். நேரம் சேமிக்கும் ஒரு பக்கப்பட்டை, ஒரு வானிலை அறிவிப்பி அல்லது உங்களுக்கு சொந்தமாக உள்ள &brandShortName; கருப்பொருளை முயற்சிக்கவும்.">
+<!ENTITY discover.description2                "துணை நிரல்கள் என்பது கூடுதல் செயல்பாடு அல்லது பாணியுடன் &brandShortName; விருப்பமைக்க உதவும் பயன்பாடுகள் ஆகும். நேரம் சேமிக்கும் ஒரு பக்கப்பட்டை, ஒரு வானிலை அறிவிப்பி அல்லது உங்களுக்கு சொந்தமாக உள்ள &brandShortName; கருப்பொருளை முயற்சிக்கவும்.">
 <!ENTITY discover.footer                      "நீங்கள் இணையத்தில் இணைக்கப்படும் போது, இந்த பலகம் உங்களுக்கு மிகவும் பிரபலமான கூடுதல் இணைப்புகளை நீங்கள் முயற்சிக்க காட்டும்.">
 <!-- detail view -->
 
@@ -177,7 +177,7 @@
 <!ENTITY sort.price.tooltip                   "விலைப்படி வரிசைப்படுத்து">
 
 <!ENTITY search.filter2.label                 "தேடு:">
-<!ENTITY search.filter2.installed.label       "எனது கூடுதல் இணைப்புகள்">
+<!ENTITY search.filter2.installed.label       "எனது நிரல்கள்">
 <!ENTITY search.filter2.installed.tooltip     "நிறுவப்பட்ட கூடுதல் இணைப்புகளை காட்டு">
 <!ENTITY search.filter2.available.label       "இருக்கும் கூடுதல் இணைப்புகள்">
 <!ENTITY search.filter2.available.tooltip     "நிறுவ இருக்கும் கூடுதல் இணைப்புகளை காட்டு">
