@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "Thư viện">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Ngày Thêm">
 <!ENTITY col.lastmodified.label  "Lần sửa Cuối">
 
-<!ENTITY search.label                              "Tìm kiếm:">
-<!ENTITY search.accesskey                          "k">
+<!ENTITY search.placeholder  "Tìm kiếm">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "B">
 <!ENTITY detailsPane.selectAnItemText.description "Chọn một mục để xem và chỉnh sửa thuộc tính của nó">
 
-<!ENTITY find.label               "Tìm:">
-<!ENTITY find.accesskey           "T">
 <!ENTITY view.label               "Xem">
 <!ENTITY view.accesskey           "e">
 <!ENTITY byDate.label             "theo Ngày tháng">
