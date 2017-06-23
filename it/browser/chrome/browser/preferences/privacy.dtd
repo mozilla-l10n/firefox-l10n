@@ -24,6 +24,7 @@
 <!ENTITY doNotTrack.settings.label "gestire le impostazioni relative a Do Not Track">
 <!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "Cronologia">
+<!ENTITY permissions.label "Permessi">
 <!ENTITY locationBar.label "Barra degli indirizzi">
 <!ENTITY locbar.suggest2.label "Nella barra degli indirizzi visualizza suggerimenti da">
 <!ENTITY locbar.history.label "cronologia">
