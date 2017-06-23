@@ -62,7 +62,7 @@
 
 <!ENTITY update.checkingForUpdates  "புதுப்பித்தல்களுக்கு சரிபார்க்கிறது…">
 <!-- LOCALIZATION NOTE (update.noUpdatesFound): try to make the localized text short (see bug 596813 for screenshots). -->
-<!ENTITY update.noUpdatesFound      "&brandShortName; இன்றையப்படுத்தப்பட்டுள்ளது">
+<!ENTITY update.noUpdatesFound      "&brandShortName; புத்தம் புதியது">
 <!-- LOCALIZATION NOTE (update.adminDisabled): try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.adminDisabled       "புதுப்பித்தல்கள் உங்கள் கணினி நிர்வாகி மூலம் செயல்நீக்கப்பட்டுள்ளன">
 <!-- LOCALIZATION NOTE (update.otherInstanceHandlingUpdates): try to make the localized text short -->

@@ -956,12 +956,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; உலாவியின் புதிய பதிப்பை பதிவிறக்கவும்">
 
 <!ENTITY updateRestart.message "ஒரு அதிவேக மீட்துவக்கத்திற்கு பிறகு, &brandShorterName; திறந்த கீற்றுகள் சாளரங்கள் என அனைத்தையும் உலாவி மீட்டமைத்துவிடும்.">
-<!ENTITY updateRestart.header.message2 "புதுப்பிக்க &brandShorterName; உலாவியை மீள்துவக்கு">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 <!ENTITY updateRestart.acceptButton.label "மீள்துவக்கி மீட்டமை">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "இப்போது வேண்டாம்">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label2 "புதுப்பிக்க &brandShorterName; உலாவியை மீள்துவக்கு">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; உலாவியை புதுப்பிக்க மீள்துவக்கு">
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 
