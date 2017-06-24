@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Gestiona l'ús dels complements">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Canvia l'opció de si es poden rebre notificacions d'aquest lloc">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Desa dades en l'emmagatzematge persistent">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "El navegador està sota control remot">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Gestiona la compartició de la càmera o del micròfon amb el lloc">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Gestiona la compartició del micròfon amb el lloc">
