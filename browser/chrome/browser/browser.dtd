@@ -225,13 +225,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
 
-<!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტს თქვენი კამერის გამოყენების უფლება შეუზღუდეთ.">
-<!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტს თქვენი მიკროფონის გამოყენების უფლება შეუზღუდეთ.">
-<!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტს თქვენი ეკრანის გაზიარების უფლება შეუზღუდეთ.">
-<!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტს თქვენს მდებარეობაზე წვდომა შეუზღუდეთ.">
-<!ENTITY urlbar.indexedDBBlocked.tooltip         "ამ საიტს მონაცემების საცავის გამოყენების უფლება შეუზღუდეთ.">
-<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტს შეტყობინებების ჩვენების უფლება შეუზღუდეთ.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტის, მუდმივ მეხსიერებასთან წვდომა შეუზღუდეთ.">
+<!ENTITY urlbar.cameraBlocked.tooltip            "ამ საიტისთვის თქვენი კამერის გამოყენების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.microphoneBlocked.tooltip        "ამ საიტისთვის თქვენი მიკროფონის გამოყენების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.screenBlocked.tooltip            "ამ საიტისთვის თქვენი ეკრანის გაზიარების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.geolocationBlocked.tooltip       "ამ საიტისთვის თქვენს მდებარეობაზე წვდომა შეზღუდული გაქვთ.">
+<!ENTITY urlbar.indexedDBBlocked.tooltip         "ამ საიტისთვის მონაცემების საცავის გამოყენების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.webNotificationsBlocked.tooltip  "ამ საიტისთვის შეტყობინებების ჩვენების უფლება შეზღუდული გაქვთ.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "ამ საიტისთვის, მუდმივ მეხსიერებასთან წვდომა შეზღუდული გაქვთ.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "ისტორიის ჩვენება">
 
