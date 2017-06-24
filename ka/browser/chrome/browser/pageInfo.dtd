@@ -36,7 +36,7 @@
 <!ENTITY  mediaType             "ტიპი">
 <!ENTITY  mediaSize             "ზომა">
 <!ENTITY  mediaCount            "რაოდენობა">
-<!ENTITY  mediaDimension        "ზომები:">
+<!ENTITY  mediaDimension        "სიგრძე/სიგანე:">
 <!ENTITY  mediaLongdesc         "ვრცელი აღწერა:">
 <!ENTITY  mediaBlockImage.accesskey "ბ">
 <!ENTITY  mediaSaveAs           "შენახვა როგორც…">
@@ -74,9 +74,9 @@
 <!ENTITY  securityView.identity.domain   "საიტი:">
 <!ENTITY  securityView.identity.verifier "დამმოწმებელი: ">
 
-<!ENTITY  securityView.privacy.header                   "პრივატულობა და ისტორია">
-<!ENTITY  securityView.privacy.history                  "ამ საიტზე დღევანდელ დღემდე ნამყოფი ვარ?">
-<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში ინფორმაციას (ფუნთუშებს)?">
+<!ENTITY  securityView.privacy.header                   "პირადულობა და ისტორია">
+<!ENTITY  securityView.privacy.history                  "ამ საიტზე აქამდე ნამყოფი ვარ?">
+<!ENTITY  securityView.privacy.cookies                  "ინახავს ეს საიტი ჩემს კომპიუტერში მონაცემებს (ფუნთუშებს)?">
 <!ENTITY  securityView.privacy.viewCookies              "ფუნთუშების ნახვა">
 <!ENTITY  securityView.privacy.viewCookies.accessKey    "ფ">
 <!ENTITY  securityView.privacy.passwords                "ამ საიტისთვის პაროლები შენახული მაქვს?">

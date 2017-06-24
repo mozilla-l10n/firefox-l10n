@@ -51,15 +51,15 @@ that require it.  -->
 <!ENTITY itemFormSearchHistory.label       "შევსებული ველების &amp; ძიების ისტორია">
 <!ENTITY itemFormSearchHistory.accesskey   "F">
 <!ENTITY itemCookies.label                 "ფუნთუშები">
-<!ENTITY itemCookies.accesskey             "C">
-<!ENTITY itemCache.label                   "ბუფერი">
-<!ENTITY itemCache.accesskey               "a">
-<!ENTITY itemOfflineApps.label             "ვებსაიტის გარე მონაცემები">
-<!ENTITY itemOfflineApps.accesskey         "O">
+<!ENTITY itemCookies.accesskey             "ფ">
+<!ENTITY itemCache.label                   "კეში">
+<!ENTITY itemCache.accesskey               "კ">
+<!ENTITY itemOfflineApps.label             "ვებსაიტის შენახული მონაცემები">
+<!ENTITY itemOfflineApps.accesskey         "შ">
 <!ENTITY itemActiveLogins.label            "აქტიური შესვლები">
-<!ENTITY itemActiveLogins.accesskey        "L">
+<!ENTITY itemActiveLogins.accesskey        "ქ">
 <!ENTITY itemSitePreferences.label         "საიტის პარამეტრები">
-<!ENTITY itemSitePreferences.accesskey     "S">
+<!ENTITY itemSitePreferences.accesskey     "პ">
 
 <!-- LOCALIZATION NOTE (sanitizeEverythingUndoWarning): Second warning paragraph
      that appears when "Time range to clear" is set to "Everything".  See UI

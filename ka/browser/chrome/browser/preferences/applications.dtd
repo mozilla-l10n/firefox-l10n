@@ -6,10 +6,10 @@
 <!ENTITY  applications.description "აირჩიეთ, როგორ მოეპყრას &brandShortName; ინტერნეტიდან ჩამოტვირთულ ფაილებს ან იმ პროგრამებს, რომელთაც გვერდების მონახულებისას იყენებთ.">
 
 <!ENTITY  typeColumn.label        "შიგთავსის ტიპი">
-<!ENTITY  typeColumn.accesskey    "T">
+<!ENTITY  typeColumn.accesskey    "ტ">
 
 <!ENTITY  actionColumn2.label     "ქმედება">
-<!ENTITY  actionColumn2.accesskey "A">
+<!ENTITY  actionColumn2.accesskey "ქ">
 
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">

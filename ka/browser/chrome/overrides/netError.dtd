@@ -114,10 +114,12 @@
 </ul>">
 
 <!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
-<!ENTITY redirectLoop.longDesc "<ul> 
-<li>ეს პრობლემა ზოგჯერ წარმოიქმნება ნაჭდევების მიღების ამორთვის ან უარყოფის 
-დროს.</li> 
-</ul>">
+<!ENTITY redirectLoop.longDesc "
+<ul>
+  <li>ამ ხარვეზს ზოგჯერ იწვევს გამორთვა ან საიტებისთვის აკრძალვა
+    ფუნთუშების.</li>
+</ul>
+">
 
 <!ENTITY unknownSocketType.title "გაუთვალისწინებელი პასუხი სერვერიდან">
 <!ENTITY unknownSocketType.longDesc "<ul> 

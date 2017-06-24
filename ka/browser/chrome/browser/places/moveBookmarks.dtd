@@ -6,4 +6,4 @@
 <!ENTITY window.style              "width: 45em; height: 25em;">
 <!ENTITY moveTo.label              "გადატანა:">
 <!ENTITY newFolderButton.label     "ახალი დასტა">
-<!ENTITY newFolderButton.accesskey "N">
+<!ENTITY newFolderButton.accesskey "ა">

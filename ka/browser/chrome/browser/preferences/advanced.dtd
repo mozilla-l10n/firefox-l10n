@@ -136,11 +136,11 @@ available. -->
 <!ENTITY selectCerts.ask                 "ყოველ ჯერზე კითხვა">
 <!ENTITY selectCerts.ask.accesskey       "ყ">
 <!ENTITY enableOCSP.label                "OCSP სერვერებისთვის სერთიფიკატების მიმდინარე მდგომარეობის კითხვა">
-<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY enableOCSP.accesskey            "O">
 <!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
-<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewCerts.accesskey             "ს">
 <!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewSecurityDevices.accesskey   "მ">
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings2.label

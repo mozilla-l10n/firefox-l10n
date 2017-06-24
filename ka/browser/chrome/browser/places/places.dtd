@@ -60,13 +60,13 @@
 
 <!ENTITY cmd.sortby_name.label              "დახარისხება სახელით">
 <!ENTITY cmd.sortby_name.accesskey          "დ">
-<!ENTITY cmd.context_sortby_name.accesskey  "r">
+<!ENTITY cmd.context_sortby_name.accesskey  "ხ">
 
 <!ENTITY cmd.new_bookmark.label            "ახალი სანიშნე…">
 <!ENTITY cmd.new_bookmark.accesskey        "ს">
 <!ENTITY cmd.new_folder.label              "ახალი საქაღალდე…">
-<!ENTITY cmd.new_folder.accesskey          "ქ">
-<!ENTITY cmd.context_new_folder.accesskey  "F">
+<!ENTITY cmd.new_folder.accesskey          "ა">
+<!ENTITY cmd.context_new_folder.accesskey  "ქ">
 <!ENTITY cmd.new_separator.label           "გამყოფის შექმნა">
 <!ENTITY cmd.new_separator.accesskey       "გ">
 
