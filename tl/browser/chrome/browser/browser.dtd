@@ -139,7 +139,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY bookmarksMenu.label "Mga Bookmark">
 <!ENTITY bookmarksMenu.accesskey "b">
-<!ENTITY editThisBookmarkCmd.label "I-edit ang bookmark na ito">
+<!ENTITY editThisBookmarkCmd.label "i-Edit ang bookmark na ito">
 <!ENTITY bookmarkThisPageCmd.commandkey "d">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
@@ -219,7 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newPrivateWindow.label     "Bagong Private Window">
 <!ENTITY newPrivateWindow.accesskey "W">
 
-<!ENTITY editMenu.label         "I-edit"> 
+<!ENTITY editMenu.label         "i-Edit"> 
 <!ENTITY editMenu.accesskey       "E"> 
   
 <!ENTITY undoCmd.key            "Z">  
@@ -550,6 +550,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 
 
+<!ENTITY editBookmark.done.label                     "Tapos na">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 
 <!-- Strings for connection state warnings. -->

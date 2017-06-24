@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 
-
-
 <!ENTITY certmgr.tab.orphan2                  "Iba pa">
 
 <!ENTITY certmgr.mine                         "Mayroon kang mga sertipiko mula sa mga organisasyong ito na makilala mo:">
@@ -19,72 +17,37 @@
 <!ENTITY certmgr.detail.prettyprint_tab.accesskey "D">
 
 <!ENTITY certmgr.pending.label                "Kasalukuyan pang beneberipika ang certificate...">
-
-
-
-
 <!ENTITY certmgr.certdetail.title             "Detalye ng Sertipiko">
-
 <!ENTITY certmgr.certdetail.o                 "Organisasyon (O)">
 
-
-
-
-
-<!ENTITY certmgr.editcacert.title             "I-edit ang CA certificate trust settings">
-<!ENTITY certmgr.editcert.edittrust           "I-edit ang trust settings:">
+<!ENTITY certmgr.editcacert.title             "i-Edit ang CA certificate trust settings">
+<!ENTITY certmgr.editcert.edittrust           "i-Edit ang trust settings:">
 <!ENTITY certmgr.editcert.trustssl            "This certificate can identify web sites.">
-
 <!ENTITY certmgr.editcert.trustobjsign        "Ang certificate na ito ay may kakayahan na i-identify ang mga may gawa ng software.">
 
 <!ENTITY certmgr.deletecert.title             "Burahin ang Sertipiko">
 
 <!ENTITY certmgr.certname                     "Pangalan ng Sertipiko">
 
-
-
-
-
-
-
-
 <!ENTITY certmgr.close.label                  "Isara">
 <!ENTITY certmgr.close.accesskey              "I">
 <!ENTITY certmgr.view2.label                  "Tingnan">
 <!ENTITY certmgr.view2.accesskey              "T">
-
-
 <!ENTITY certmgr.export.label                 "I-export...">
 <!ENTITY certmgr.export.accesskey             "x">
 <!ENTITY certmgr.delete2.label                "Burahin…">
 <!ENTITY certmgr.delete2.accesskey            "B">
-
-
-
-
 <!ENTITY certmgr.backupall2.label             "I-backup ang Lahat…">
 <!ENTITY certmgr.backupall2.accesskey         "k">
 <!ENTITY certmgr.restore2.label               "I-import...">
 <!ENTITY certmgr.restore2.accesskey           "m">
 
-
-
-
-
-
-
-
-
 <!ENTITY exceptionMgr.title                   "Magdagdag ng Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.label   "I-Confirm ang Security Exception">
 <!ENTITY exceptionMgr.exceptionButton.accesskey "C">
 <!ENTITY exceptionMgr.supplementalWarning     "Ang mga totoong bangko, tindahan, at iba pang public sites ay hindi ipagagawa ang ganito sa iyo.">
-
 <!ENTITY exceptionMgr.certlocation.url        "Lokasyon:">
 <!ENTITY exceptionMgr.certlocation.download   "Manguha ng Certificate">
 <!ENTITY exceptionMgr.certlocation.accesskey  "G">
-
 <!ENTITY exceptionMgr.certstatus.viewCert     "Tingnan…">
 <!ENTITY exceptionMgr.certstatus.accesskey    "v">
-
-

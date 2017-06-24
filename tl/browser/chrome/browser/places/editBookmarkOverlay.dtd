@@ -17,5 +17,6 @@
 <!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Ipakita ang lahat ng tags">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "I-load ang bookmark na ito sa sidebar">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "n">
-<!ENTITY editBookmarkOverlay.choose.label                    "Mamili">
+<!ENTITY editBookmarkOverlay.choose.label                    "Mamili…">
+<!ENTITY editBookmarkOverlay.newFolderButton.label           "Bagong folder ">
 <!ENTITY editBookmarkOverlay.newFolderButton.accesskey       "o">
