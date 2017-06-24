@@ -160,23 +160,23 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "ს">
 <!ENTITY bookmarkThisPageCmd.label "გვერდის ჩანიშვნა">
 <!ENTITY editThisBookmarkCmd.label "სანიშნის ჩასწორება">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "ჩ">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "სხვა გაზიარების მომსახურებების მოძიება…">
 <!ENTITY sharePageCmd.label "გვერდის გაზიარება">
 <!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "მ">
+<!ENTITY sharePageCmd.accesskey "გ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "ბმულის გაზიარება">
-<!ENTITY shareLink.accesskey "ზ">
+<!ENTITY shareLink.accesskey "ბ">
 <!ENTITY shareImage.label "სურათის გაზიარება">
-<!ENTITY shareImage.accesskey "რ">
+<!ENTITY shareImage.accesskey "ს">
 <!ENTITY shareSelect.label "არჩეულის გაზიარება">
-<!ENTITY shareSelect.accesskey "რ">
+<!ENTITY shareSelect.accesskey "ა">
 <!ENTITY shareVideo.label "ვიდეოს გაზიარება">
-<!ENTITY shareVideo.accesskey "რ">
+<!ENTITY shareVideo.accesskey "ვ">
 <!ENTITY feedsMenu2.label "გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenupopup.label "გვერდის გამოწერა">
 <!ENTITY subscribeToPageMenuitem.label "გვერდის გამოწერა...">
@@ -187,7 +187,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY mobileBookmarksCmd.label "მობილურის სანიშნეები">
 <!ENTITY bookmarksToolbarChevron.tooltip "მეტი სანიშნის ჩვენება">
 <!ENTITY showRecentlyBookmarked.label     "ბოლოს ჩანიშნულების ჩვენება">
-<!ENTITY showRecentlyBookmarked.accesskey "ო">
+<!ENTITY showRecentlyBookmarked.accesskey "ჩ">
 <!ENTITY hideRecentlyBookmarked.label     "ბოლოს ჩანიშნულების დამალვა">
 <!ENTITY hideRecentlyBookmarked.accesskey "დ">
 
@@ -264,7 +264,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toolsMenu.accesskey          "ხ"> 
 
 <!ENTITY keywordfield.label           "ძიებისთვის მალსახმობის შექმნა…">
-<!ENTITY keywordfield.accesskey       "ს">
+<!ENTITY keywordfield.accesskey       "მ">
 
 <!ENTITY downloads.label              "ჩამოტვირთვები">
 <!ENTITY downloads.accesskey          "ჩ">
@@ -515,43 +515,43 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openLinkCmdInCurrent.label     "ბმულის გახსნა">
 <!ENTITY openLinkCmdInCurrent.accesskey "გ">
 <!ENTITY openFrameCmdInTab.label      "ჩარჩოს ახალ ჩანართში გახსნა">
-<!ENTITY openFrameCmdInTab.accesskey  "T">
+<!ENTITY openFrameCmdInTab.accesskey  "ნ">
 <!ENTITY openFrameCmd.label           "ჩარჩოს ახალ ფანჯარაში გახსნა">
-<!ENTITY openFrameCmd.accesskey       "W">
+<!ENTITY openFrameCmd.accesskey       "ფ">
 <!ENTITY openLinkCmdInContainerTab.label "ბმულის გახსნა ახალ სათავს ჩანართში">
 <!ENTITY openLinkCmdInContainerTab.accesskey "ს">
 <!ENTITY showOnlyThisFrameCmd.label     "მხოლოდ ამ ჩარჩოს ჩვენება">
-<!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY showOnlyThisFrameCmd.accesskey "მ">
 <!ENTITY reloadCmd.commandkey         "r">
 <!ENTITY reloadFrameCmd.label         "ჩარჩოს განახლება">
-<!ENTITY reloadFrameCmd.accesskey     "R">
+<!ENTITY reloadFrameCmd.accesskey     "ხ">
 <!ENTITY viewPartialSourceForSelectionCmd.label "მონიშნულის წყაროს ჩვენება">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "MathML წყაროს ჩვენება">
 <!-- LOCALIZATION NOTE (viewPartialSourceCmd.accesskey): This accesskey is used for both 
          viewPartialSourceForSelectionCmd.label and viewPartialSourceForMathMLCmd.label -->
-<!ENTITY viewPartialSourceCmd.accesskey "e">
+<!ENTITY viewPartialSourceCmd.accesskey "M">
 <!ENTITY viewPageSourceCmd.label      "გვერდის წყაროს ჩვენება">
-<!ENTITY viewPageSourceCmd.accesskey  "ჩ">
+<!ENTITY viewPageSourceCmd.accesskey  "წ">
 <!ENTITY viewFrameSourceCmd.label     "ჩარჩოს წყაროს ჩვენება">
-<!ENTITY viewFrameSourceCmd.accesskey "V">
+<!ENTITY viewFrameSourceCmd.accesskey "წ">
 <!ENTITY viewPageInfoCmd.label        "გვერდის მონაცემების ჩვენება">
-<!ENTITY viewPageInfoCmd.accesskey    "I">
+<!ENTITY viewPageInfoCmd.accesskey    "მ">
 <!ENTITY viewFrameInfoCmd.label       "ჩარჩოს მონაცემების ჩვენება">
-<!ENTITY viewFrameInfoCmd.accesskey   "I">
+<!ENTITY viewFrameInfoCmd.accesskey   "მ">
 <!ENTITY reloadImageCmd.label         "გამოსახულების განახლება">
-<!ENTITY reloadImageCmd.accesskey     "R">
+<!ENTITY reloadImageCmd.accesskey     "გ">
 <!ENTITY viewImageCmd.label           "სურათის ნახვა">
-<!ENTITY viewImageCmd.accesskey       "I">
+<!ENTITY viewImageCmd.accesskey       "ს">
 <!ENTITY viewImageInfoCmd.label       "გამოსახულების მონაცემთა ჩვენება">
-<!ENTITY viewImageInfoCmd.accesskey   "f">
+<!ENTITY viewImageInfoCmd.accesskey   "ხ">
 <!ENTITY viewImageDescCmd.label       "აღწერის ნახვა">
 <!ENTITY viewImageDescCmd.accesskey   "ა">
 <!ENTITY viewVideoCmd.label           "ვიდეოს ჩვენება">
-<!ENTITY viewVideoCmd.accesskey       "i">
+<!ENTITY viewVideoCmd.accesskey       "ვ">
 <!ENTITY viewBGImageCmd.label         "ფონური სურათის ნახვა">
-<!ENTITY viewBGImageCmd.accesskey     "w">
+<!ENTITY viewBGImageCmd.accesskey     "ფ">
 <!ENTITY setDesktopBackgroundCmd.label      "ფონად დაყენება სამუშაო მაგიდაზე…">
-<!ENTITY setDesktopBackgroundCmd.accesskey  "S">
+<!ENTITY setDesktopBackgroundCmd.accesskey  "ს">
 <!ENTITY bookmarkPageCmd2.label       "გვერდის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.label      "ბმულის ჩანიშვნა">
 <!ENTITY bookmarkThisLinkCmd.accesskey  "ბ">
@@ -561,30 +561,30 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailPageCmd.label           "ბმულის გაგზავნა ელ-ფოსტით…">
 <!ENTITY emailPageCmd.accesskey       "ე">
 <!ENTITY savePageCmd.label            "გვერდის შენახვა როგორც…">
-<!ENTITY savePageCmd.accesskey        "რ">
+<!ENTITY savePageCmd.accesskey        "შ">
 <!-- alternate for content area context menu -->
-<!ENTITY savePageCmd.accesskey2       "ც">
+<!ENTITY savePageCmd.accesskey2       "რ">
 <!ENTITY savePageCmd.commandkey       "s">
 <!ENTITY saveFrameCmd.label           "ჩარჩოს შენახვა როგორც…">
-<!ENTITY saveFrameCmd.accesskey       "F">
+<!ENTITY saveFrameCmd.accesskey       "შ">
 <!ENTITY printFrameCmd.label          "ჩარჩოს ამობეჭდვა…">
-<!ENTITY printFrameCmd.accesskey      "P">
+<!ENTITY printFrameCmd.accesskey      "ჭ">
 <!ENTITY saveLinkCmd.label            "ბმულის შენახვა როგორც…">
-<!ENTITY saveLinkCmd.accesskey        "ს">
+<!ENTITY saveLinkCmd.accesskey        "ბ">
 <!ENTITY saveImageCmd.label           "სურათის შენახვა როგორც…">
-<!ENTITY saveImageCmd.accesskey       "v">
+<!ENTITY saveImageCmd.accesskey       "ს">
 <!ENTITY saveVideoCmd.label           "ვიდეოს შენახვა როგორც...">
-<!ENTITY saveVideoCmd.accesskey       "ხ">
+<!ENTITY saveVideoCmd.accesskey       "ვ">
 <!ENTITY saveAudioCmd.label           "აუდიოს შენახვა როგორც…">
-<!ENTITY saveAudioCmd.accesskey       "v">
+<!ENTITY saveAudioCmd.accesskey       "ა">
 <!ENTITY emailImageCmd.label          "სურათის გაგზავნა ელ-ფოსტით…">
 <!ENTITY emailImageCmd.accesskey      "ს">
 <!ENTITY emailVideoCmd.label          "ვიდეოს გაგზავნა ელ-ფოსტით…">
-<!ENTITY emailVideoCmd.accesskey      "ზ">
+<!ENTITY emailVideoCmd.accesskey      "ვ">
 <!ENTITY castVideoCmd.label           "ვიდეოს გაგზავნა მოწყობილობაში">
-<!ENTITY castVideoCmd.accesskey       "მ">
+<!ENTITY castVideoCmd.accesskey       "წ">
 <!ENTITY emailAudioCmd.label          "აუდიოს გაგზავნა ელ-ფოსტით…">
-<!ENTITY emailAudioCmd.accesskey      "დ">
+<!ENTITY emailAudioCmd.accesskey      "ა">
 <!ENTITY playPluginCmd.label          "ამ მოდულის ჩართვა">
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
@@ -592,35 +592,35 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.label            "ბმულის კოპირება">
 <!ENTITY copyLinkCmd.accesskey        "ბ">
 <!ENTITY copyImageCmd.label           "სურათის მისამართის კოპირება">
-<!ENTITY copyImageCmd.accesskey       "o">
+<!ENTITY copyImageCmd.accesskey       "კ">
 <!ENTITY copyImageContentsCmd.label   "სურათის კოპირება">
-<!ENTITY copyImageContentsCmd.accesskey  "y"> 
+<!ENTITY copyImageContentsCmd.accesskey  "ს"> 
 <!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
-<!ENTITY copyVideoURLCmd.accesskey    "o">
+<!ENTITY copyVideoURLCmd.accesskey    "კ">
 <!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის კოპირება">
-<!ENTITY copyAudioURLCmd.accesskey    "ო">
+<!ENTITY copyAudioURLCmd.accesskey    "კ">
 <!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
 <!ENTITY copyEmailCmd.accesskey       "ე">
 <!ENTITY thisFrameMenu.label              "ეს ჩარჩო">
-<!ENTITY thisFrameMenu.accesskey          "h">
+<!ENTITY thisFrameMenu.accesskey          "ჩ">
 
 <!-- Media (video/audio) controls -->
 <!-- LOCALIZATION NOTE: The access keys for "Play" and
 "Pause" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY mediaPlay.label             "დაკვრა">
-<!ENTITY mediaPlay.accesskey         "P">
-<!ENTITY mediaPause.label            "პაუზა">
-<!ENTITY mediaPause.accesskey        "P">
+<!ENTITY mediaPlay.accesskey         "დ">
+<!ENTITY mediaPause.label            "შეჩერება">
+<!ENTITY mediaPause.accesskey        "შ">
 <!-- LOCALIZATION NOTE: The access keys for "Mute" and
 "Unmute" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaMute.label             "ხმის ამორთვა">
-<!ENTITY mediaMute.accesskey         "M">
+<!ENTITY mediaMute.label             "დადუმება">
+<!ENTITY mediaMute.accesskey         "დ">
 <!ENTITY mediaUnmute.label           "ხმის ჩართვა">
-<!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaUnmute.accesskey       "ხ">
 <!ENTITY mediaPlaybackRate2.label     "დაკვრის სიჩქარე">
-<!ENTITY mediaPlaybackRate2.accesskey "ე">
+<!ENTITY mediaPlaybackRate2.accesskey "ქ">
 <!ENTITY mediaPlaybackRate050x2.label "ნელი (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "ნ">
 <!ENTITY mediaPlaybackRate100x2.label "ჩვეულებრივი">
@@ -632,28 +632,28 @@ items are mutually exclusive. -->
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
-<!ENTITY mediaPlaybackRate200x2.label "უაზრო სიჩქარე (2×)">
-<!ENTITY mediaPlaybackRate200x2.accesskey "ზ">
+<!ENTITY mediaPlaybackRate200x2.label "გიჟური (2×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "გ">
 <!ENTITY mediaLoop.label             "ციკლი">
 <!ENTITY mediaLoop.accesskey         "ც">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
-<!ENTITY mediaShowControls.label     "პულტის ჩვენება">
-<!ENTITY mediaShowControls.accesskey "C">
-<!ENTITY mediaHideControls.label     "პულტის დამალვა">
-<!ENTITY mediaHideControls.accesskey "C">
+<!ENTITY mediaShowControls.label     "სამართავის ჩვენება">
+<!ENTITY mediaShowControls.accesskey "ჩ">
+<!ENTITY mediaHideControls.label     "სამართავის დამალვა">
+<!ENTITY mediaHideControls.accesskey "დ">
 <!ENTITY videoFullScreen.label       "სრული ეკრანი">
 <!ENTITY videoFullScreen.accesskey   "ს">
 <!ENTITY videoSaveImage.label        "ანაბეჭდის შენახვა როგორც…">
-<!ENTITY videoSaveImage.accesskey    "ნ">
+<!ENTITY videoSaveImage.accesskey    "ა">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
 items are mutually exclusive. -->
 <!ENTITY videoShowStats.label        "სტატისტიკის ჩვენება">
-<!ENTITY videoShowStats.accesskey    "ტ">
+<!ENTITY videoShowStats.accesskey    "ჩ">
 <!ENTITY videoHideStats.label        "სტატისტიკის დამალვა">
-<!ENTITY videoHideStats.accesskey    "ტ">
+<!ENTITY videoHideStats.accesskey    "დ">
 
 <!-- LOCALIZATION NOTE :
 fullZoomEnlargeCmd.commandkey3, fullZoomReduceCmd.commandkey2 and
@@ -690,10 +690,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmdWin2.tooltip     "&brandShorterName;-დან გამოსვლა">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
-<!ENTITY quitApplicationCmd.label       "დასრულება"> 
-<!ENTITY quitApplicationCmd.accesskey   "Q">
+<!ENTITY quitApplicationCmd.label       "გამოსვლა"> 
+<!ENTITY quitApplicationCmd.accesskey   "გ">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-დან გამოსვლა">
-<!ENTITY quitApplicationCmd.key         "დ">
+<!ENTITY quitApplicationCmd.key         "გ">
 
 <!ENTITY closeCmd.label                 "დახურვა">  
 <!ENTITY closeCmd.key                   "W">  
@@ -708,21 +708,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageStylePersistentOnly.label "გვერდის ძირითადი სტილი">
 <!ENTITY pageStylePersistentOnly.accesskey "ძ">
 
-<!ENTITY pageReportIcon.tooltip            "ვებ-საიტისთვის ამომხტარი ფანჯრების ამკრძალავი პარამეტრების შეცვლა">
+<!ENTITY pageReportIcon.tooltip            "ვებ-საიტისზე ამომხტარი ფირნიშების ამკრძალავი პარამეტრების შეცვლა">
 
-<!ENTITY allowPopups.accesskey "p">
+<!ENTITY allowPopups.accesskey "დ">
 <!-- On Windows we use the term "Options" to describe settings, but
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
 <!ENTITY editPopupSettings.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
-<!ENTITY editPopupSettings.accesskey "E">
-<!ENTITY dontShowMessage.accesskey "D">
+<!ENTITY editPopupSettings.accesskey "ც">
+<!ENTITY dontShowMessage.accesskey "ა">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "გვერდის მიმართულების შეცვლა">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "მ">
 <!ENTITY bidiSwitchTextDirectionItem.label        "ტექსტის მიმართულების შეცვლა">
-<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ც">
+<!ENTITY bidiSwitchTextDirectionItem.accesskey    "ტ">
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "პოვნა გვერდზე…">
