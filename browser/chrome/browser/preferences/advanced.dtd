@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "L'informe de dades està desactivat en la configuració d'aquesta versió">
+
 <!ENTITY healthReportDesc.label          "Us ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
 <!ENTITY enableHealthReport.label        "Activa l'informe de salut del &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
@@ -142,13 +144,13 @@ available. -->
 
 <!ENTITY performance.label               "Rendiment">
 <!ENTITY useRecommendedPerformanceSettings2.label "Utilitza els paràmetres de rendiment recomanats">
-
+<!ENTITY useRecommendedPerformanceSettings2.description "Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Més informació">
-<!ENTITY limitContentProcessOption.label "Límit de procés del contingut">
-
+<!ENTITY limitContentProcessOption.label "Límit de processos de contingut">
+<!ENTITY limitContentProcessOption.description "Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
-
-
+<!ENTITY limitContentProcessOption.disabledDescription "El nombre de processos de contingut només es pot modificar amb el &brandShortName; multiprocés.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Més informació sobre com comprovar si el multiprocés està activat.">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
