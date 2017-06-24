@@ -473,7 +473,7 @@
 <!ENTITY page "頁面">
 <!ENTITY tools "工具">
 <!ENTITY new_tab "開新分頁">
-<!ENTITY new_private_tab "開新隱私瀏覽分頁">
+<!ENTITY new_private_tab "開新隱私分頁">
 <!ENTITY close_all_tabs "關閉所有分頁">
 <!ENTITY close_private_tabs "關閉隱私分頁">
 <!ENTITY tabs_normal "分頁">
@@ -600,7 +600,7 @@
 <!ENTITY home_most_recent_empty "您最近瀏覽的網頁將會顯示於此。">
 <!-- Localization note (home_most_recent_emptyhint2): "Psst" is a sound that might be used to attract someone's attention unobtrusively, and intended to hint at Private Browsing to the user.
      The placeholders &formatS1; and &formatS2; are used to mark the location of text underlining. -->
-<!ENTITY home_most_recent_emptyhint2 "噓！&formatS1;開新隱私瀏覽分頁&formatS2; 後將不會儲存您的瀏覽紀錄。">
+<!ENTITY home_most_recent_emptyhint2 "噓！&formatS1;開新隱私分頁&formatS2; 後將不會儲存您的瀏覽紀錄。">
 
 <!-- Localization note (home_default_empty): This string is used as the default text when there
      is no data to show in an about:home panel that was created by an add-on. -->
