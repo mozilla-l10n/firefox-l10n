@@ -312,7 +312,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY deleteCmd.key            "D">  
 <!ENTITY deleteCmd.accesskey        "წ"> 
 <!ENTITY selectAllCmd.label         "ყველაფრის მონიშვნა">  
-<!ENTITY selectAllCmd.key         "ყ">  
+<!ENTITY selectAllCmd.key         "A">  
 <!ENTITY selectAllCmd.accesskey       "მ"> 
 <!ENTITY preferencesCmd2.label       "პარამეტრები">
 <!ENTITY preferencesCmd2.accesskey     "პ">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "გამოსვლა"> 
 <!ENTITY quitApplicationCmd.accesskey   "გ">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-დან გამოსვლა">
-<!ENTITY quitApplicationCmd.key         "გ">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "დახურვა">  
 <!ENTITY closeCmd.key                   "W">  
@@ -746,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionVerified2 "თქვენ საიმედოდ ხართ დაკავშირებული საიტთან, რომელის მფლობელიცაა:">
 <!ENTITY identity.connectionInternal "ეს &brandShortName;-ს დაცული გვერდია.">
 <!ENTITY identity.extensionPage "ეს გვერდი გახსნილია გაფართოების მიერ.">
-<!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი ანგარიშზე შესვლის მონაცემები შესაძლოა მოიპარონ.">
+<!ENTITY identity.insecureLoginForms2 "ამ გვერდზე შეყვანილი შესვლის მონაცემები შესაძლოა მოიპარონ.">
 
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">
@@ -756,7 +756,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!-- Strings for connection state warnings in the subview. -->
 <!ENTITY identity.description.insecure "კავშირი ამ საიტთან დაცული არ არის. თქვენ მიერ გადაგზავნილი ინფორმაცია შესაძლოა სხვებმაც ნახონ (მაგალითად პაროლები, შეტყობინებები, საკრედიტო ბარათები, ა.შ.).">
-<!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი ანგარიშზე შესვლის მონაცემები დაუცველია და შესაძლოა მიიტაცონ.">
+<!ENTITY identity.description.insecureLoginForms "ამ გვერდზე შეყვანილი შესვლის მონაცემები დაუცველია და შესაძლოა მოიპარონ.">
 <!ENTITY identity.description.weakCipher "ამ ვებ-საიტთან კავშირი სუსტ დაშიფვრას იყენებს და დაუცველია.">
 <!ENTITY identity.description.weakCipher2 "სხვა ხალხსაც შეუძლია თქვენი ინფორმაციის ნახვა ან ვებ-საიტის ქცევის შეცვლა.">
 <!ENTITY identity.description.activeBlocked "&brandShortName;-მა გვერდის დაუცველი ნაწილები შეზღუდა.">

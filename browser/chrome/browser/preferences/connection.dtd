@@ -23,17 +23,17 @@
 <!ENTITY  ftp.label                     "FTP პროქსი:">
 <!ENTITY  ftp.accesskey                 "F">
 <!ENTITY  http.label                    "HTTP პროქსი:">
-<!ENTITY  http.accesskey                "ი">
+<!ENTITY  http.accesskey                "H">
 <!ENTITY  ssl.label                     "SSL პროქსი:">
-<!ENTITY  ssl.accesskey                 "L">
+<!ENTITY  ssl.accesskey                 "S">
 <!ENTITY  socks.label                   "SOCKS სერვერი:">
 <!ENTITY  socks.accesskey               "C">
 <!ENTITY  socks4.label                  "SOCKS v4">
-<!ENTITY  socks4.accesskey              "K">
+<!ENTITY  socks4.accesskey              "4">
 <!ENTITY  socks5.label                  "SOCKS v5">
-<!ENTITY  socks5.accesskey              "v">
+<!ENTITY  socks5.accesskey              "5">
 <!ENTITY  socksRemoteDNS.label2         "პროქსის DNS SOCKS v5-ის გამოყენებისას">
-<!ENTITY  socksRemoteDNS.accesskey      "d">
+<!ENTITY  socksRemoteDNS.accesskey      "დ">
 <!ENTITY  port.label                    "პორტი:">
 <!ENTITY  HTTPport.accesskey            "პ">
 <!ENTITY  SSLport.accesskey             "ო">

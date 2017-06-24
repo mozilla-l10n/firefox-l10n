@@ -127,7 +127,7 @@ available. -->
 <!ENTITY viewCerts.label                 "სერთიფიკატების ნახვა">
 <!ENTITY viewCerts.accesskey             "C">
 <!ENTITY viewSecurityDevices.label       "უსაფრთხოების მოწყობილობები">
-<!ENTITY viewSecurityDevices.accesskey   "D">
+<!ENTITY viewSecurityDevices.accesskey   "მ">
 
 <!ENTITY performance.label               "წარმადობა">
 <!ENTITY useRecommendedPerformanceSettings.label

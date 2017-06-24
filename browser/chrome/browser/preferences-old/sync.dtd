@@ -7,15 +7,15 @@
 <!ENTITY engine.bookmarks.label     "სანიშნეები">
 <!ENTITY engine.bookmarks.accesskey "m">
 <!ENTITY engine.tabs.label2         "გახსნილი ჩანართები">
-<!ENTITY engine.tabs.accesskey      "T">
+<!ENTITY engine.tabs.accesskey      "ჩ">
 <!ENTITY engine.history.label       "ისტორია">
-<!ENTITY engine.history.accesskey   "r">
+<!ENTITY engine.history.accesskey   "ი">
 <!ENTITY engine.logins.label        "შესვლები">
 <!ENTITY engine.logins.accesskey    "ე">
 <!ENTITY engine.prefs.label         "პარამეტრები">
-<!ENTITY engine.prefs.accesskey     "S">
+<!ENTITY engine.prefs.accesskey     "პ">
 <!ENTITY engine.addons.label        "დამატებები">
-<!ENTITY engine.addons.accesskey    "A">
+<!ENTITY engine.addons.accesskey    "დ">
 
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "მოწყობილობის სახელი">

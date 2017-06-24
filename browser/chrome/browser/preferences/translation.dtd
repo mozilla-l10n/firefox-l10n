@@ -9,16 +9,16 @@
 <!ENTITY noTranslationForLanguages.label  "ამ ენების გადათარგმნა არ იქნება შემოთავაზებული:">
 <!ENTITY treehead.languageName.label      "ენები">
 <!ENTITY removeLanguage.label             "ენის ამოღება">
-<!ENTITY removeLanguage.accesskey         "R">
+<!ENTITY removeLanguage.accesskey         "ე">
 <!ENTITY removeAllLanguages.label         "ყველა ენის ამოღება">
-<!ENTITY removeAllLanguages.accesskey     "e">
+<!ENTITY removeAllLanguages.accesskey     "ყ">
 
 <!ENTITY noTranslationForSites.label      "ამ გვერდების გადათარგმნა არ იქნება შემოთავაზებული:">
 <!ENTITY treehead.siteName.label          "საიტები">
 <!ENTITY removeSite.label                 "საიტის ამოღება">
-<!ENTITY removeSite.accesskey             "S">
+<!ENTITY removeSite.accesskey             "ს">
 <!ENTITY removeAllSites.label             "ყველა საიტის ამოღება">
-<!ENTITY removeAllSites.accesskey         "i">
+<!ENTITY removeAllSites.accesskey         "ყ">
 
 <!ENTITY button.close.label               "დახურვა">
-<!ENTITY button.close.accesskey           "C">
+<!ENTITY button.close.accesskey           "დ">
