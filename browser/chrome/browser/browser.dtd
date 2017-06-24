@@ -715,9 +715,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      on Linux and Mac OS X we use "Preferences" - carry that distinction
      over into this string, which is used in the "popup blocked" info bar . -->
 <!ENTITY editPopupSettingsUnix.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
-<!ENTITY editPopupSettings.label "ფირნიშების აკრძალვის პარამეტრების შეცვლა…">
-<!ENTITY editPopupSettings.accesskey "ც">
-<!ENTITY dontShowMessage.accesskey "ა">
+<!ENTITY editPopupSettings.label "ფირნიშების აკრძალვის პარამეტრების ჩასწორება…">
+<!ENTITY editPopupSettings.accesskey "ჩ">
+<!ENTITY dontShowMessage.accesskey "დ">
 
 <!ENTITY bidiSwitchPageDirectionItem.label        "გვერდის მიმართულების შეცვლა">
 <!ENTITY bidiSwitchPageDirectionItem.accesskey    "მ">
@@ -726,19 +726,19 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY bidiSwitchTextDirectionItem.commandkey   "X">
 
 <!ENTITY findOnCmd.label     "პოვნა გვერდზე…">
-<!ENTITY findOnCmd.accesskey "F">
+<!ENTITY findOnCmd.accesskey "პ">
 <!ENTITY findOnCmd.commandkey "f">
 <!ENTITY findAgainCmd.label  "კვლავძიება">
-<!ENTITY findAgainCmd.accesskey "g">
+<!ENTITY findAgainCmd.accesskey "კ">
 <!ENTITY findAgainCmd.commandkey "g">
 <!ENTITY findAgainCmd.commandkey2 "VK_F3">
 <!ENTITY findSelectionCmd.commandkey "e">
 
 <!ENTITY spellAddDictionaries.label "ლექსიკონების დამატება…">
-<!ENTITY spellAddDictionaries.accesskey "A">
+<!ENTITY spellAddDictionaries.accesskey "ლ">
 
 <!ENTITY editBookmark.done.label                     "მზადაა">
-<!ENTITY editBookmark.removeBookmark.accessKey       "R">
+<!ENTITY editBookmark.removeBookmark.accessKey       "ს">
 
 <!ENTITY identity.connectionSecure "დაცული კავშირი">
 <!ENTITY identity.connectionNotSecure "კავშირი დაუცველია">
@@ -851,9 +851,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.myThemes "ჩემი დეკორაციები">
 <!ENTITY customizeMode.lwthemes.recommended "რეკომენდებული">
 <!ENTITY customizeMode.lwthemes.menuManage "მართვა">
-<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
-<!ENTITY customizeMode.lwthemes.menuGetMore "მეტი დეკორაციის მიღება">
-<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
+<!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმებები">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
 
 <!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
 <!ENTITY getUserMedia.selectCamera.accesskey "კ">
