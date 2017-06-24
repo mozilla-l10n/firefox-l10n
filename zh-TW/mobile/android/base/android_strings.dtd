@@ -661,7 +661,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY doorhanger_tracking_state_enabled "已開啟">
 <!ENTITY doorhanger_tracking_state_disabled "已關閉">
 <!ENTITY doorhanger_tracking_message_enabled1 "已防止網站追蹤您的線上行為。">
-<!ENTITY doorhanger_tracking_message_disabled2 "此頁面中可能包含了會追蹤您的瀏覽行為的元素。">
+<!ENTITY doorhanger_tracking_message_disabled2 "此頁面中包含某些元素，可能會追蹤您的瀏覽行為。">
 
 <!-- Common mixed and tracking content strings in site identity popup -->
 <!ENTITY learn_more "更多資訊">
