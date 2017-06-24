@@ -937,7 +937,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Més informació sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-<!ENTITY updateAvailable.message "Actualitzeu el &brandShorterName; per obtenir més velocitat i privadesa.">
+<!ENTITY updateAvailable.message "Actualitzeu el &brandShorterName; per millorar la velocitat i privadesa.">
 <!ENTITY updateAvailable.whatsnew.label "Descobriu-ne les novetats.">
 <!ENTITY updateAvailable.header.message "Hi ha una actualització del &brandShorterName; disponible.">
 <!ENTITY updateAvailable.acceptButton.label "Baixa l'actualització">
