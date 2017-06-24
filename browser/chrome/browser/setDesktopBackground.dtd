@@ -8,7 +8,7 @@
 <!ENTITY stretch.label              "გაჭიმვა">
 <!ENTITY fill.label                 "შევსება">
 <!ENTITY fit.label                  "მორგება">
-<!ENTITY preview.label              "ესკიზი">
+<!ENTITY preview.label              "გადახედვა">
 <!ENTITY color.label                "ფერი:">
 <!ENTITY setDesktopBackground.title "სამუშაო დაფის ფონის დაყენება">
 <!ENTITY openDesktopPrefs.label     "სამუშაო დაფის პარამეტრების გახსნა">
