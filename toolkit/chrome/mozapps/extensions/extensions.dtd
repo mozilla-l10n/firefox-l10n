@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mostra les notes de la versió d'aquesta actualització">
 <!ENTITY cmd.hideReleaseNotes.label           "Amaga les notes de la versió">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Amaga les notes de la versió d'aquesta actualització">
-
+<!ENTITY cmd.findReplacement.label            "Cerca un substitut">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Us falta res? Alguns complements ja no són compatibles amb el &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Més informació.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Us falta res? Algunes extensions ja no són compatibles amb el &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Mostra les extensions antigues">
+<!ENTITY legacyExtensions.title "Extensions antigues">
+<!ENTITY legacyExtensions.description "Aquestes extensions no compleixen els estàndards actuals del &brandShortName; i s'han desactivat.">
+<!ENTITY legacyExtensions.learnMore "Més informació sobre els canvis en els complements">
