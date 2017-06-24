@@ -10,6 +10,6 @@
 <!ENTITY fit.label                  "მორგება">
 <!ENTITY preview.label              "გადახედვა">
 <!ENTITY color.label                "ფერი:">
-<!ENTITY setDesktopBackground.title "სამუშაო დაფის ფონის დაყენება">
-<!ENTITY openDesktopPrefs.label     "სამუშაო დაფის პარამეტრების გახსნა">
+<!ENTITY setDesktopBackground.title "სამუშაო მაგიდის ფონად დაყენება">
+<!ENTITY openDesktopPrefs.label     "სამუშაო მაგიდის პარამეტრები">
 <!ENTITY closeWindow.key            "w">
