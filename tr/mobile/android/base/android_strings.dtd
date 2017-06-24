@@ -268,12 +268,12 @@
 <!ENTITY pref_show_web_fonts_summary2 "Sayfayı yüklerken uzaktaki yazı tiplerini indir">
 
 <!ENTITY pref_tracking_protection_title2 "İzlenme Koruması">
-<!ENTITY pref_tracking_protection_summary3 "Gizli Gezinti\u0027de etkin">
+<!ENTITY pref_tracking_protection_summary3 "Gizli Gezinti’de etkin">
 <!ENTITY pref_donottrack_title "Beni izleme">
-<!ENTITY pref_donottrack_summary "&brandShortName;sitelere izlenmek istemediğinizi söyleyecek">
+<!ENTITY pref_donottrack_summary "&brandShortName; sitelere izlenmek istemediğinizi söyleyecek">
 
 <!ENTITY pref_tracking_protection_enabled "Etkin">
-<!ENTITY pref_tracking_protection_enabled_pb "Gizli Gezinti\u0027de etkin">
+<!ENTITY pref_tracking_protection_enabled_pb "Gizli Gezinti’de etkin">
 <!ENTITY pref_tracking_protection_disabled "Devre dışı">
 
 <!ENTITY pref_whats_new_notification "&brandShortName;’de neler yeni?">
@@ -296,7 +296,7 @@
 <!ENTITY custom_tabs_hint_url_copy "Adres kopyalandı">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
-<!ENTITY pref_activity_stream "Etkinlik Akışı">
+<!ENTITY pref_activity_stream "Etkinlik akışı">
 <!ENTITY pref_activity_stream_summary "Zengin bir görsel geçmiş akışı ve yeniden tasarlanan giriş sayfası ile &brandShortName; tarayıcınızda aradığınızı bulmak artık daha da kolay.">
 
 <!ENTITY tracking_protection_prompt_title "Şimdi İzlenme Koruması ile">
@@ -374,7 +374,7 @@
 <!ENTITY pref_media_autoplay_enabled "Otomatik oynatmaya izin ver">
 <!ENTITY pref_media_autoplay_enabled_summary "Web sitelerinin videoları ve diğer ortam içeriklerini otomatik oynatıp oynatamayacağını kontrol et">
 <!ENTITY pref_zoom_force_enabled "Yakınlaştırmayı her zaman etkinleştir">
-<!ENTITY pref_zoom_force_enabled_summary "Her sayfayı yakınlaştırabilmeniz için sayfa tercihini zorla değiştirir">
+<!ENTITY pref_zoom_force_enabled_summary "Her sayfayı yakınlaştırabilmek için sayfa tercihini zorla değiştir">
 <!ENTITY pref_voice_input "Sesle giriş">
 <!ENTITY pref_voice_input_summary2 "Adres çubuğunda sesli dikteye izin ver">
 <!ENTITY pref_qrcode_enabled "QR kodu okuyucu">
@@ -434,17 +434,17 @@
      en-US/chrome/browser/preferences/advanced.dtd (healthReportSection.label,
      healthReportDesc.label, telemetrySection.label, telemetryDesc.label,
      crashReporterDesc.label). -->
-<!ENTITY datareporting_fhr_title "&brandShortName; Sağlık Raporu">
+<!ENTITY datareporting_fhr_title "&brandShortName; sağlık raporu">
 <!ENTITY datareporting_fhr_summary2 "Tarayıcınızın sağlığı hakkındaki verileri &vendorShortName; ile paylaşır ve tarayıcı performansınızı anlamına yardımcı olur">
-<!ENTITY datareporting_abouthr_title "Sağlık Raporu\u0027mu Göster">
-<!ENTITY datareporting_telemetry_title "Telemetry">
+<!ENTITY datareporting_abouthr_title "Sağlık raporumu göster">
+<!ENTITY datareporting_telemetry_title "Telemetri">
 <!ENTITY datareporting_telemetry_summary "&brandShortName; tarayıcısını iyileştirmek için tarayıcınızla ilgili performans, kullanım, donanım ve özelleştirme verilerini &vendorShortName; ile paylaşır">
 <!ENTITY datareporting_crashreporter_summary "&brandShortName;, tarayıcınızı daha kararlı ve güvenli yapmak için çökme raporlarını &vendorShortName;\u0027ya gönderir">
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
-<!ENTITY datareporting_crashreporter_title_short "Çökme Habercisi">
+<!ENTITY datareporting_crashreporter_title_short "Çökme habercisi">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName; konum servisi">
-<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;\u0027nın dünyayı keşfetmesine yardım edin! Coğrafi konum hizmetimizi geliştirmek için aygıtınızın yaklaşık Wi-Fi ve hücresel konumunu paylaşın.">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName;’nın dünyayı keşfetmesine yardım edin! Coğrafi konum hizmetimizi geliştirmek için aygıtınızın yaklaşık Wi-Fi ve hücresel konumunu paylaşın.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
