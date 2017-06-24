@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Addició">
 <!ENTITY col.lastmodified.label  "Darrera modificació">
 
+<!ENTITY search.placeholder  "Cerca">
 
 <!ENTITY cmd.find.key  "f">
 
