@@ -497,20 +497,20 @@
 <!ENTITY media_stop "停止">
 
 <!ENTITY contextmenu_open_new_tab "用新分頁開啟">
-<!ENTITY contextmenu_open_private_tab "開啟於隱私分頁">
+<!ENTITY contextmenu_open_private_tab "用新隱私分頁開啟">
 <!ENTITY contextmenu_remove "移除">
 <!ENTITY contextmenu_add_to_launcher "新增至裝置主畫面">
 <!ENTITY contextmenu_set_as_homepage "設為首頁">
 <!ENTITY contextmenu_share "分享">
 <!ENTITY contextmenu_pasteandgo "貼上並瀏覽">
 <!ENTITY contextmenu_paste "貼上">
-<!ENTITY contextmenu_copyurl "複製地址">
+<!ENTITY contextmenu_copyurl "複製網址">
 <!ENTITY contextmenu_edit_bookmark "編輯">
 <!ENTITY contextmenu_subscribe "訂閱此頁面">
 <!ENTITY contextmenu_site_settings "編輯網站設定">
 <!ENTITY contextmenu_top_sites_edit "編輯">
-<!ENTITY contextmenu_top_sites_pin "釘選網站">
-<!ENTITY contextmenu_top_sites_unpin "解除釘選網站">
+<!ENTITY contextmenu_top_sites_pin "釘選">
+<!ENTITY contextmenu_top_sites_unpin "解除釘選">
 <!ENTITY contextmenu_add_search_engine "新增搜尋引擎">
 
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
