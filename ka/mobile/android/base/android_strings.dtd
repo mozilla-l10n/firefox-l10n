@@ -17,7 +17,7 @@
 <!ENTITY firstrun_sync_subtext "დაასინქრონეთ თქვენი ჩანართები, პაროლები და მეტი ყველგან, სადაც მათ გამოიყენებთ.">
 <!ENTITY firstrun_signin_message "დაუკავშირდით და დაიწყეთ">
 <!ENTITY firstrun_signin_button "Sync-ში შესვლა">
-<!ENTITY  onboard_start_button_browser "დაიწყეთ სერფინგი">
+<!ENTITY  onboard_start_button_browser "დაიწყეთ მოგზაურობა ინტერნეტში">
 <!ENTITY firstrun_button_notnow "ახლა არა">
 <!ENTITY firstrun_button_next "შემდეგი">
 
