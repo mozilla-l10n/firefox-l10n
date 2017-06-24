@@ -65,7 +65,7 @@
 
 <!ENTITY url_bar_default_text2 "搜尋或輸入網址">
 
-<!ENTITY bookmark "書籤">
+<!ENTITY bookmark "加入書籤">
 <!ENTITY bookmark_remove "移除書籤">
 <!ENTITY bookmark_added "已加入書籤">
 <!-- Localization note (bookmark_already_added) : This string is
@@ -281,7 +281,7 @@
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
-<!ENTITY pref_category_experimental "實驗中功能">
+<!ENTITY pref_category_experimental "實驗功能">
 
 <!-- Custom Tabs is an Android API for allowing third-party apps to open URLs in a customized UI.
      Instead of switching to the browser it appears as if the user stays in the third-party app.
