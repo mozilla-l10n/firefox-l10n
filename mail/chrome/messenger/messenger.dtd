@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Compte actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-
-
+<!ENTITY getNextNMsgCmd2.label "Recupera els següents missatges dels grups de discussió">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Envia els missatges per enviar">
 <!ENTITY sendUnsentCmd.accesskey "l">
 <!ENTITY subscribeCmd.label "Gestiona les subscripcions…">
