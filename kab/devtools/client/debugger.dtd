@@ -60,7 +60,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.pauseExceptions): This is the label for the
   -  checkbox that toggles pausing on exceptions. -->
-<!ENTITY debuggerUI.pauseExceptions           "Rken tisuraft kra n wakud">
+<!ENTITY debuggerUI.pauseExceptions           "Seḥbes tisuraf kra n wakud">
 <!ENTITY debuggerUI.pauseExceptions.accesskey "E">
 
 <!-- LOCALIZATION NOTE (debuggerUI.ignoreCaughtExceptions): This is the label for the
@@ -146,7 +146,7 @@
 
 <!-- LOCALIZATION NOTE (debuggerUI.condBreakPanelTitle): This is the text that
   -  appears in the conditional breakpoint panel popup as a description. -->
-<!ENTITY debuggerUI.condBreakPanelTitle "Agzu-yagi n uzgu ad irken aselkem ma yella tanfalit-agi d tuzɣant">
+<!ENTITY debuggerUI.condBreakPanelTitle "Agzu-yagi n uzgu ad yeḥbes aselkem ma yella tanfalit-agi d tuzɣant">
 
 <!-- LOCALIZATION NOTE (debuggerUI.seMenuBreak): This is the text that
   -  appears in the source editor context menu for adding a breakpoint. -->

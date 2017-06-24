@@ -16,7 +16,7 @@
 <!ENTITY projectMenu_selectApp_accesskey "O">
 <!ENTITY projectMenu_play_label "Sebded u selkem">
 <!ENTITY projectMenu_play_accesskey "I">
-<!ENTITY projectMenu_stop_label "Rken asnas">
+<!ENTITY projectMenu_stop_label "Seḥbes asnas">
 <!ENTITY projectMenu_stop_accesskey "S">
 <!ENTITY projectMenu_debug_label "Seɣti asnas">
 <!ENTITY projectMenu_debug_accesskey "D">

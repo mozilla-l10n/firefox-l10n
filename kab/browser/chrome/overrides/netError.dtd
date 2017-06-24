@@ -38,7 +38,7 @@
 <!ENTITY malformedURI.title "Tansa-a d tarameɣtut">
 <!ENTITY malformedURI.longDesc "<ul><li>Tansiwin Web ttwarunt am <strong>http://www.example.com/</strong></li><li>Senqed ma yella tseqdaceḍ aṣlac yeṭṭin (amedya. <strong>/</strong>).</li> </ul>">
 
-<!ENTITY netInterrupt.title "Tuqqna terken">
+<!ENTITY netInterrupt.title "Tuqqna teḥbes">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
 
 <!ENTITY notCached.title "Isemli yemmut">
