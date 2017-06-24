@@ -113,7 +113,7 @@
 <!ENTITY folderPropsCmd2.label "Қасиеттері">
 <!ENTITY folderPropsFolderCmd2.label "Бума қасиеттері">
 <!ENTITY folderPropsNewsgroupCmd2.label "Жаңалықтар тобының қасиеттері">
-<!ENTITY folderPropsCmd.accesskey "o">
+<!ENTITY folderPropsCmd.accesskey "м">
 <!ENTITY undoDeleteMsgCmd.label "Хабарламаны өшіруді болдырмау">
 <!ENTITY redoDeleteMsgCmd.label "Хабарламаны өшіруді қайталау">
 <!ENTITY undoMoveMsgCmd.label "Хабарламаны жылжытуды болдырмау">

@@ -23,10 +23,10 @@
 <!-- LOCALIZATION NOTE (PhoneticField2.id) : DONT_TRANSLATE -->
 <!ENTITY PhoneticField2.id              "PhoneticLastName">
 
-<!ENTITY NameField1.label               "Алғашқы:">
+<!ENTITY NameField1.label               "Аты:">
 <!ENTITY NameField1.accesskey           "А">
-<!ENTITY NameField2.label               "Соңғы:">
-<!ENTITY NameField2.accesskey           "С">
+<!ENTITY NameField2.label               "Фамилиясы:">
+<!ENTITY NameField2.accesskey           "Ф">
 <!ENTITY PhoneticField1.label           "Айтылуы:">
 <!ENTITY PhoneticField2.label           "Айтылуы:">
 <!ENTITY DisplayName.label              "Көрсету:">
@@ -45,7 +45,7 @@
 <!ENTITY PlainText.label                "Қалыпты мәтін">
 <!ENTITY HTML.label                     "HTML">
 <!ENTITY Unknown.label                  "Белгісіз">
-<!ENTITY chatName.label                 "Чат атауы:">
+<!ENTITY chatName.label                 "Чат аты:">
 
 <!ENTITY WorkPhone.label                "Жұмыс:">
 <!ENTITY WorkPhone.accesskey            "м">
