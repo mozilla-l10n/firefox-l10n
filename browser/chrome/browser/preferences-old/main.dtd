@@ -41,6 +41,6 @@
 <!ENTITY separateProfileMode.label        "Povolit současné spuštění aplikací &brandShortName; a Firefox">
 <!ENTITY useFirefoxSync.label             "Tip: Budou použity oddělené uživatelské profily. Pro sdílení dat mezi nimi můžete použít službu Sync.">
 <!ENTITY getStarted.notloggedin.label     "Přihlášení k &syncBrand.shortName.label;…">
-<!ENTITY getStarted.configured.label      "Otevřít předvolby &syncBrand.shortName.label;">
+<!ENTITY getStarted.configured.label      "Otevřít předvolby služby &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Povolit aplikaci &brandShortName; používat více procesů">
