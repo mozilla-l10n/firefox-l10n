@@ -13,7 +13,7 @@
      term. -->
 <!ENTITY privatebrowsingpage.title.normal1 "您不在隱私瀏覽模式中">
 
-<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; 會封鎖頁面中可能會追蹤您的瀏覽行為的部分。">
+<!ENTITY privatebrowsingpage.description.trackingProtection "&brandShortName; 會封鎖頁面中部分元素，以防止您的瀏覽行為被其追蹤。">
 <!ENTITY privatebrowsingpage.description.privateDetails "我們不會記住任何瀏覽紀錄，但下載的檔案與新建立的書籤還是會保留在裝置中。">
 
 <!-- Localization note (privatebrowsingpage.description.normal2): "Private
@@ -23,4 +23,3 @@
 
 <!ENTITY privatebrowsingpage.link.private "想了解更多資訊？">
 <!ENTITY privatebrowsingpage.link.normal "用新隱私瀏覽分頁開啟">
-
