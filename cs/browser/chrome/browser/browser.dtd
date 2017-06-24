@@ -114,7 +114,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "Přihlášení k &syncBrand.shortName.label;">
-<!ENTITY fxaSignedIn.tooltip "Otevřít předvolby &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "Otevřít předvolby služby &syncBrand.shortName.label;">
 <!ENTITY fxaSignInError.label "Opětovné připojení k &syncBrand.shortName.label;">
 <!ENTITY fxaUnverified.label "Ověřte svůj účet">
 
@@ -794,7 +794,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Chcete zde vidět vaše panely z ostatních zařízení?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "Pro zobrazení seznamu panelů z vašich ostatních zařízení se prosím přihlaste.">
 <!ENTITY syncedTabs.sidebar.notabs.label       "Žádné otevřené panely">
-<!ENTITY syncedTabs.sidebar.openprefs.label    "Otevřít předvolby &syncBrand.shortName.label;">
+<!ENTITY syncedTabs.sidebar.openprefs.label    "Otevřít předvolby služby &syncBrand.shortName.label;">
 <!-- LOCALIZATION NOTE (syncedTabs.sidebar.tabsnotsyncing.label): This is shown
      when Sync is configured but syncing tabs is disabled. -->
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label       "Zapněte synchronizaci panelů pro zobrazení seznamu panelů z vašich ostatních zařízení.">
