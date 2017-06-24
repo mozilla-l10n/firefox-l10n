@@ -863,7 +863,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "將分享您畫面上所有可見的視窗。">
 
 <!ENTITY trackingProtection.title "追蹤保護">
-<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖頁面中可能會追蹤您瀏覽行為的部分。">
+<!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; 已經封鎖頁面裡的部分元素，以防止您的瀏覽行為被其追蹤。">
 <!ENTITY trackingProtection.detectedNotBlocked3 "此網站包含可能會追蹤您瀏覽行為的元素，但您已停用保護。">
 <!ENTITY trackingProtection.notDetected3 "未在此頁面偵測到追蹤元素。">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
