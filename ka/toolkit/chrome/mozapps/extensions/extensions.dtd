@@ -225,7 +225,7 @@
 <!ENTITY eula.height                          "400px">
 <!ENTITY eula.accept                          "მიღება და ჩადგმა…">
 
-<!ENTITY settings.path.button.label           "ნუსხა…">
+<!ENTITY settings.path.button.label           "ამორჩევა…">
 
 <!-- LOCALIZATION NOTE (experiment.info.label): The strings related to
      experiments are present on the "Experiments" tab of the add-ons manager.

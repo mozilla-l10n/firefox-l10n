@@ -30,7 +30,7 @@
 <!ENTITY loaddevice.modname.default             "ახალი PKCS#11 მოდული">
 <!ENTITY loaddevice.filename                    "მოდულის ფაილის სახელი:">
 <!ENTITY loaddevice.filename.accesskey          "f">
-<!ENTITY loaddevice.browse                      "ნუსხა…">
+<!ENTITY loaddevice.browse                      "ამორჩევა…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
 <!ENTITY loaddevice.title2                      "PKCS#11 მოწყობილობის დრაივერის გაშვება">
