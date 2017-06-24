@@ -107,6 +107,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fxaUnverified.label "I-verify ang Iyong Account">
 
 
+<!ENTITY fullScreenMinimize.tooltip "i-Minimize">
 <!ENTITY fullScreenRestore.tooltip "Ibalik">
 <!ENTITY fullScreenClose.tooltip "Isara">
 <!ENTITY fullScreenAutohide.label "Itago ang mga Toolbar">
