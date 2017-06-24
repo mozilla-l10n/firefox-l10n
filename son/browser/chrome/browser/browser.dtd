@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Sukari goyyan juwal">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Barmay wala war ga hin ka duu bangandiyaney nungoo ga">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Bayhayey jiši jišiyan duumante ra">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ceecijaw goo juwal moora cire">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "War bii nda/wala jindezaahaya žemnayanoo nda nungoo juwal">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "War jindezaahayaa žemnayanoo nda nungoo juwal">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Taariki cebe">
 
+<!ENTITY searchItem.title             "Ceeci">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Šintin">
@@ -302,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "D"> 
 <!ENTITY copyCmd.label            "Berandi">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "B"> 
 <!ENTITY pasteCmd.label           "Dobu">  
 <!ENTITY pasteCmd.key           "V">  
@@ -350,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Taariki kokorantaa tuusu…">
 <!ENTITY appMenuHistory.restoreSession.label "Goywaati bisantaa yeeti">
 <!ENTITY appMenuHistory.viewSidebar.label "Taariki ceraw zuu cebe">
-
+<!ENTITY appMenuHelp.label "Faaba">
 <!ENTITY appMenuHelp.tooltip "Faaba šilbayboŋ feeri">
 
 <!ENTITY appMenuRemoteTabs.label "Kanji hangantey">
