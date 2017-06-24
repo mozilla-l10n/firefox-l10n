@@ -7,7 +7,7 @@
 <!ENTITY search.buttonlabel                   "ძიება">
 <!-- LOCALIZATION NOTE (search.commandKey):
      The search command key should match findOnCmd.commandkey from browser.dtd -->
-<!ENTITY search.commandkey                    "ძ">
+<!ENTITY search.commandkey                    "f">
 
 <!ENTITY loading.label                        "იტვირთება…">
 <!ENTITY listEmpty.installed.label            "ამ ტიპის არცერთი დამატება არ გაქვთ დაყენებული.">

@@ -43,9 +43,9 @@
 <!ENTITY downloadsSummary.minWidth2       "21ch">
 
 <!ENTITY cmd.pause.label                  "შეჩერება">
-<!ENTITY cmd.pause.accesskey              "P">
+<!ENTITY cmd.pause.accesskey              "შ">
 <!ENTITY cmd.resume.label                 "გაგრძელება">
-<!ENTITY cmd.resume.accesskey             "R">
+<!ENTITY cmd.resume.accesskey             "რ">
 <!ENTITY cmd.cancel.label                 "გაუქმება">
 <!-- LOCALIZATION NOTE (cmd.show.label, cmd.show.accesskey, cmd.showMac.label,
      cmd.showMac.accesskey):
@@ -53,25 +53,25 @@
      the same access key (though the two access keys can also be different).
      -->
 <!ENTITY cmd.show.label                   "შემცველი საქაღალდის გახსნა">
-<!ENTITY cmd.show.accesskey               "F">
+<!ENTITY cmd.show.accesskey               "ს">
 <!ENTITY cmd.showMac.label                "Finder-ში ჩვენება">
 <!ENTITY cmd.showMac.accesskey            "F">
 <!ENTITY cmd.retry.label                  "ახლიდან">
 <!ENTITY cmd.goToDownloadPage.label       "ჩამოტვირთვის გვერდზე გადასვლა">
-<!ENTITY cmd.goToDownloadPage.accesskey   "G">
+<!ENTITY cmd.goToDownloadPage.accesskey   "ჩ">
 <!ENTITY cmd.copyDownloadLink.label       "ჩამოტვირთვის ბმულის კოპირება">
-<!ENTITY cmd.copyDownloadLink.accesskey   "L">
+<!ENTITY cmd.copyDownloadLink.accesskey   "ბ">
 <!ENTITY cmd.removeFromHistory.label      "ისტორიიდან წაშლა">
-<!ENTITY cmd.removeFromHistory.accesskey  "e">
+<!ENTITY cmd.removeFromHistory.accesskey  "წ">
 <!ENTITY cmd.clearList2.label             "გადახედვის პანელის გასუფთავება">
-<!ENTITY cmd.clearList2.accesskey         "ფ">
+<!ENTITY cmd.clearList2.accesskey         "პ">
 <!ENTITY cmd.clearDownloads.label         "ჩამოტვირთვების გასუფთავება">
-<!ENTITY cmd.clearDownloads.accesskey     "D">
+<!ENTITY cmd.clearDownloads.accesskey     "ჩ">
 <!-- LOCALIZATION NOTE (cmd.unblock2.label):
      This command is shown in the context menu when downloads are blocked.
      -->
 <!ENTITY cmd.unblock2.label               "ჩამოტვირთვის დაშვება">
-<!ENTITY cmd.unblock2.accesskey           "ვ">
+<!ENTITY cmd.unblock2.accesskey           "დ">
 <!-- LOCALIZATION NOTE (cmd.removeFile.label):
      This is the tooltip of the action button shown when malware is blocked.
      -->
@@ -132,7 +132,7 @@
      the panel at all.
      -->
 <!ENTITY downloadsHistory.label           "ყველა ჩამოტვირთვის ჩვენება">
-<!ENTITY downloadsHistory.accesskey       "S">
+<!ENTITY downloadsHistory.accesskey       "ყ">
 
 <!-- LOCALIZATION NOTE (openDownloadsFolder.label):
      This command is not currently available in the user interface, but the
