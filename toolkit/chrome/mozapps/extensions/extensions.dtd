@@ -62,9 +62,9 @@
      update checking behavior for all add-ons to the default global behavior
      (which itself is either "Automatically" or "Manually", controlled by the
      updates.updateAddonsAutomatically.label menu item). -->
-<!ENTITY updates.resetUpdatesToAutomatic.label       "ყველა დამატების ავტომატურ განახლებაზე ჩამოყრა">
+<!ENTITY updates.resetUpdatesToAutomatic.label       "ყველა დამატებაზე, ავტომატური განახლების მითითება">
 <!ENTITY updates.resetUpdatesToAutomatic.accesskey   "R">
-<!ENTITY updates.resetUpdatesToManual.label          "ყველა დამატების ხელით განახლებაზე ჩამოყრა">
+<!ENTITY updates.resetUpdatesToManual.label          "ყველა დამატებაზე, ხელით განახლების მითითება">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "დამატებების განახლება">
 <!ENTITY updates.installed.label              "დამატებები განახლებულია.">
@@ -134,7 +134,7 @@
 <!ENTITY detail.version.label                 "ვერსია">
 <!ENTITY detail.lastupdated.label             "ბოლო განახლება">
 <!ENTITY detail.creator.label                 "დეველოპერი">
-<!ENTITY detail.homepage.label                "საწყისი გვერდი">
+<!ENTITY detail.homepage.label                "მთავარი გვერდი">
 <!ENTITY detail.numberOfDownloads.label       "ჩამოტვირთვები">
 
 <!ENTITY detail.contributions.description     "ამ დამატების შემქმნელი, პროგრამის მომავალი განვითარებისთვის, გთხოვთ მხარდაჭერას, მცირეოდენი შემოწირულობის სახით.">
@@ -146,7 +146,7 @@
 <!ENTITY detail.updateAutomatic.tooltip       "განახლებების ავტომატურად დაყენება">
 <!ENTITY detail.updateManual.label            "გამორთვა">
 <!ENTITY detail.updateManual.tooltip          "არ დაყენდეს განახლებები ავტომატურად">
-<!ENTITY detail.home                          "საწყისი გვერდი">
+<!ENTITY detail.home                          "მთავარი გვერდი">
 <!ENTITY detail.repository                    "დამატების პროფილი">
 <!ENTITY detail.size                          "ზომა">
 
@@ -185,7 +185,7 @@
 <!ENTITY search.filter2.available.label       "ხელმისაწვდომი დამატებები">
 <!ENTITY search.filter2.available.tooltip     "დასაყენებლად ხელმისაწვდომი დამატებების ჩვენება">
 
-<!ENTITY addon.homepage                       "საწყისი გვერდი">
+<!ENTITY addon.homepage                       "მთავარი გვერდი">
 <!ENTITY addon.details.label                  "ვრცლად">
 <!ENTITY addon.details.tooltip                "ვრცლად ამ დამატების შესახებ">
 <!ENTITY addon.unknownDate                    "უცნობი">
