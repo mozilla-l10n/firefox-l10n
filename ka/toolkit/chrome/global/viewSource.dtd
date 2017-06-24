@@ -19,7 +19,7 @@
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "გვერდის პარამეტრები…">
 <!ENTITY pageSetupCmd.accesskey "u">
-<!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
+<!ENTITY printPreviewCmd.label "ნახვა ამობეჭდვამდე">
 <!ENTITY printPreviewCmd.accesskey "v">
 <!ENTITY printCmd.label "ბეჭდვა…">
 <!ENTITY printCmd.accesskey "P">

@@ -69,7 +69,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY openFileCmd.commandkey "o">
 <!ENTITY printSetupCmd.label "გვერდის პარამეტრები...">
 <!ENTITY printSetupCmd.accesskey "ტ">
-<!ENTITY printPreviewCmd.label "ბეჭდვის ესკიზი">
+<!ENTITY printPreviewCmd.label "ნახვა ამობეჭდვამდე">
 <!ENTITY printPreviewCmd.accesskey "ს">
 <!ENTITY printCmd.label "ამობეჭდვა…">
 <!ENTITY printCmd.accesskey "ა">
@@ -211,7 +211,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ინსტალაციის შეტყობინების პანელის გახსნა">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების პანელის გახსნა">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების პანელის გახსნა">
-<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "მოდულის გამოყენების მართვა">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "გამოყენებული მოდულების მართვა">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "აირჩიეთ მიიღოთ თუ არა შეტყობინებები ამ საიტისგან">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "მონაცემების შენახვა მუდმივ მეხსიერებაზე">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ბრაუზერი იმყოფება დისტანციური მართვის ქვეშ">
