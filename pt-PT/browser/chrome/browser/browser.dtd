@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.other.label "Outros marcadores">
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores de dispositivo móvel">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
-<!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
+<!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas de marcadores">
 
 <!ENTITY containersMenu.label "Contentores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -289,7 +289,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "Nova janela privada">
 <!ENTITY newPrivateWindow.accesskey "j">
-<!ENTITY newNonRemoteWindow.label   "Nova janela Non-e10s">
+<!ENTITY newNonRemoteWindow.label   "Nova janela não-e10s">
 
 <!ENTITY editMenu.label         "Editar"> 
 <!ENTITY editMenu.accesskey       "E"> 
