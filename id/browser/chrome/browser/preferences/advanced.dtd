@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Pelaporan Data">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "Pelaporan data dinonaktifkan untuk konfigurasi build ini">
+
 <!ENTITY healthReportDesc.label          "Bantu kami memahami kinerja dengan berbagi data kebugaran peramban Anda bersama &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Aktifkan Laporan Kebugaran &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "K">
