@@ -277,7 +277,7 @@
 <!ENTITY pref_tracking_protection_disabled "停用">
 
 <!ENTITY pref_whats_new_notification "&brandShortName; 有什麼新鮮事">
-<!ENTITY pref_whats_new_notification_summary "在更新後了解有那些新功能">
+<!ENTITY pref_whats_new_notification_summary "在更新後了解有哪些新功能推出">
 
 <!-- Localization note (pref_category_experimental): Title of a sub category in the 'advanced' category
      for experimental features. -->
