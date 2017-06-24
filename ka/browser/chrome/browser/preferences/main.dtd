@@ -6,11 +6,11 @@
 
 <!ENTITY startupPage2.label        "როცა &brandShortName; გაეშვება">
 <!ENTITY startupPage2.accesskey    "გ">
-<!ENTITY startupUserHomePage.label "საწყისი გვერდის ჩვენება">
+<!ENTITY startupUserHomePage.label "მთავარი გვერდის ჩვენება">
 <!ENTITY startupBlankPage.label    "ცარიელი გვერდის ჩვენება">
 <!ENTITY startupPrevSession.label  "ბოლო სესიის ფანჯრებისა და ჩანართების ჩვენება">
 
-<!ENTITY homepage2.label           "საწყისი გვერდი">
+<!ENTITY homepage2.label           "მთავარი გვერდი">
 <!ENTITY homepage2.accesskey       "ს">
 <!ENTITY useCurrentPage.label      "მიმდინარე გვერდის გამოყენება">
 <!ENTITY useCurrentPage.accesskey  "მ">
