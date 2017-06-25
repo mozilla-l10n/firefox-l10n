@@ -274,7 +274,7 @@
 <!ENTITY event.repeat.yearly.label                      "Anualmente">
 <!ENTITY event.repeat.custom.label                      "Personalizar…">
 
-<!ENTITY event.recurrence.pattern.label                 "Recurrence pattern">
+<!ENTITY event.recurrence.pattern.label                 "Patrón recurrente">
 <!ENTITY event.recurrence.occurs.label                  "Repetir" >
 <!ENTITY event.recurrence.day.label                     "diariamente" >
 <!ENTITY event.recurrence.week.label                    "semanalmente" >
