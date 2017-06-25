@@ -21,11 +21,11 @@
 <!ENTITY publishImgCheckbox.label     "Суретте және басқа файлдарды қоса">
 <!ENTITY publishImgCheckbox.accesskey "а">
 <!ENTITY publishImgCheckbox.tooltip   "Бұл парақта көрсетілгендей, суреттер және басқа файлдарды жариялау">
-
-
-
-
-
+<!ENTITY sameLocationRadio.label      "Парақтағы адресті қолдану">
+<!ENTITY sameLocationRadio.accesskey  "о">
+<!ENTITY sameLocationRadio.tooltip    "Файлдарды да парақтың орналасқан жеріне жариялау">
+<!ENTITY useSubdirRadio.label         "Бұл ішкі бумасын қолдану:">
+<!ENTITY useSubdirRadio.accesskey     "ш">
 <!ENTITY useSubdirRadio.tooltip       "Файлдарды таңдалған қашықтағы ішкі бумасына жариялау">
 <!ENTITY otherDirList.tooltip         "Файлдар жарияланатын қашықтағы ішкі буманың атын таңдаңыз немесе енгізіңіз">
 <!ENTITY pageTitle.label              "Беттің атауы:">
@@ -56,10 +56,10 @@
 <!ENTITY browseUrl.tooltip            "Үй бумаңыздың HTTP:// адресі (файл атын қоспаңыз)">
 <!ENTITY username.label               "Пайдаланушы аты:">
 <!ENTITY username.accesskey           "й">
-
+<!ENTITY username.tooltip             "Интернет қызметтерін ұсынушысы немесе веб хостинг қызметі берген пайдаланушы аты">
 <!ENTITY password.label               "Паролі:">
 <!ENTITY password.accesskey           "р">
-
+<!ENTITY password.tooltip             "Пайдаланушы атыңызбен байланысқан пароль">
 <!ENTITY savePassword.label           "Парольді сақтау">
 <!ENTITY savePassword.accesskey       "р">
-
+<!ENTITY savePassword.tooltip         "Пароліңізді парольдер басқарушысы көмегімен қауіпсіз түрде сақтау үшін осыны белгілеңіз">

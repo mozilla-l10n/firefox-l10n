@@ -14,5 +14,5 @@
 <!ENTITY widthEditField.accessKey "Е">
 <!ENTITY borderEditField.label "Шек:">
 <!ENTITY borderEditField.accessKey "Ш">
-
+<!ENTITY borderEditField.tooltip "Кесте шекарасы үшін санды енгізіңіз, немесе шекарасыз болу үшін нөлді (0) енгізіңіз">
 <!ENTITY pixels.label "пиксель">
