@@ -62,12 +62,12 @@
 <!ENTITY unknownProtocolFound.longDesc "<ul> <li>Gali būti, kad šiam adresui atverti reikia įdiegti papildomą programinę įrangą.</li> </ul>">
 
 <!ENTITY proxyConnectFailure.title "Įgaliotasis serveris atmeta ryšį">
-<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> <li>Jei norite sužinoti, ar įgaliotasis serveris veikia tinkamai, kreipkitės į tinklo administratorių.</li> </ul>">
+<!ENTITY proxyConnectFailure.longDesc "<ul> <li>Patikrinkite, ar naršyklėje nurodyti teisingi įgaliotojo serverio nustatymai.</li> <li>Jei norite sužinoti, ar įgaliotasis serveris veikia tinkamai, kreipkitės į tinklo administratorių.</li> </ul>">
 
 <!ENTITY proxyResolveFailure.title "Nerastas įgaliotasis serveris">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Patikrinkite, ar naršyklėje nurodytos teisingos įgaliotojo serverio nuostatos.</li> <li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su belaidžiu tinklu. <button id='wifi'>Įjungti belaidį tinklą</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Patikrinkite, ar naršyklėje nurodyti teisingi įgaliotojo serverio nustatymai.</li> <li>Patikrinkite, ar šis įrenginys turi veikiantį ryšį su belaidžiu tinklu. <button id='wifi'>Įjungti belaidį tinklą</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Neteisingas tinklalapio peradresavimas">
 <!ENTITY redirectLoop.longDesc "<ul> <li>Ši klaida galėjo įvykti dėl to, kad naršyklė nepriima svetainės slapukų.</li> </ul>">
@@ -79,7 +79,7 @@
 <!ENTITY nssFailure2.longDesc2 "<ul> <li>Tinklalapis, kurį bandote atverti, negali būti parodytas, nes nepavyko patikrinti gautų duomenų autentiškumo.</li> <li>Prašom pranešti apie šią problemą svetainės savininkams.</li> </ul>">
 
 <!ENTITY nssBadCert.title "Saugaus ryšio užmegzti nepavyko">
-<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ši problema gali kilti dėl blogai parinktų serverio nuostatų arba dėl bandymo apsimesti šiuo serveriu.</li> <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> </ul>">
+<!ENTITY nssBadCert.longDesc2 "<ul> <li>Ši problema gali kilti dėl netinkamos serverio konfigūracijos arba dėl bandymo apsimesti šiuo serveriu.</li> <li>Jei prie šio serverio sėkmingai jungėtės anksčiau, šis nesklandumas gali būti laikinas. Bandykite prisijungti vėliau.</li> </ul>">
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
