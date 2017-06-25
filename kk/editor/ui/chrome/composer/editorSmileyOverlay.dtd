@@ -32,10 +32,10 @@
 <!ENTITY smiley8Cmd.tooltip "Таң қалған бетті кірістіру">
 <!ENTITY smiley9Cmd.label "Сүю">
 <!ENTITY smiley9Cmd.accesskey "С">
-
-<!ENTITY smiley10Cmd.label "Ұяшық">
-<!ENTITY smiley10Cmd.accesskey "я">
-
+<!ENTITY smiley9Cmd.tooltip "Сүйген бетті кірістіру">
+<!ENTITY smiley10Cmd.label "Айғайлау">
+<!ENTITY smiley10Cmd.accesskey "й">
+<!ENTITY smiley10Cmd.tooltip "Айғайлаған бетті кірістіру">
 <!ENTITY smiley11Cmd.label "Тамаша">
 <!ENTITY smiley11Cmd.accesskey "Т">
 <!ENTITY smiley11Cmd.tooltip "Тамаша бетті кірістіру">
@@ -48,9 +48,9 @@
 <!ENTITY smiley14Cmd.label "Айыпсыз">
 <!ENTITY smiley14Cmd.accesskey "й">
 <!ENTITY smiley14Cmd.tooltip "Айыпсыз бетті кірістіру">
-
-
-
+<!ENTITY smiley15Cmd.label "Жылау">
+<!ENTITY smiley15Cmd.accesskey "ы">
+<!ENTITY smiley15Cmd.tooltip "Жылаған бетті кірістіру">
 <!ENTITY smiley16Cmd.label "Үндемеу">
 <!ENTITY smiley16Cmd.accesskey "м">
 <!ENTITY smiley16Cmd.tooltip "Үндемейтін бетті кірістіру">

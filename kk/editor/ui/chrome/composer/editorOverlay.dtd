@@ -3,16 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 <!-- File menu items -->
+
+
+<!ENTITY saveCmd.key "S">
 <!-- Edit menu items -->
 
 <!ENTITY pasteNoFormatting.label "Пішімдеусіз кірістіру">
 <!ENTITY pasteNoFormatting.accesskey "д">
-
+<!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Қалайша кірістіру">
 <!ENTITY pasteAs.accesskey "а">
 <!ENTITY pasteAsQuotationCmd.label "Дәйексөз ретінде кірістіру">
 <!ENTITY pasteAsQuotationCmd.accesskey "Д">
-
+<!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY findBarCmd.label "Табу…">
 <!ENTITY findReplaceCmd.label "Табу және алмастыру…">
 <!ENTITY enableInlineSpellChecker.label "Теру кезінде емлені тексеру">
@@ -27,8 +30,8 @@
 <!ENTITY insertLinkCmd2.label "Сілтеме…">
 <!ENTITY insertLinkCmd2.accesskey "л">
 <!ENTITY insertLinkCmd2.key "л">
-
-
+<!ENTITY insertAnchorCmd.label "Атауы бар байланыс…">
+<!ENTITY insertAnchorCmd.accesskey "а">
 <!ENTITY insertImageCmd.label "Сурет…">
 <!ENTITY insertImageCmd.accesskey "С">
 <!ENTITY insertHLineCmd.label "Горизонталды сызық">
@@ -37,16 +40,18 @@
 <!ENTITY insertTableCmd.accesskey "К">
 <!ENTITY insertHTMLCmd.label "HTML…">
 <!ENTITY insertHTMLCmd.accesskey "H">
-
-
+<!ENTITY insertMathCmd.label "Математика…">
+<!ENTITY insertMathCmd.accesskey "М">
 <!ENTITY insertCharsCmd.label "Таңбалар…">
 <!ENTITY insertCharsCmd.accesskey "Т">
-
-
+<!ENTITY insertBreakAllCmd.label "Суреттер астында ажырауды кірістіру">
+<!ENTITY insertBreakAllCmd.accesskey "р">
 <!-- Used just in context popup. -->
 
-
-
+<!ENTITY createLinkCmd.label "Сілтемені жасау…">
+<!ENTITY createLinkCmd.accesskey "С">
+<!ENTITY editLinkCmd.label "Сілтемені жаңа құрастырушыда түзету">
+<!ENTITY editLinkCmd.accesskey "е">
 <!-- Font Face SubMenu -->
 
 <!ENTITY FontFaceSelect.tooltip "Қаріпті таңдау">
@@ -106,35 +111,36 @@
 <!ENTITY styleUnderlineCmd.key "а">
 <!ENTITY styleStrikeThruCmd.label "Сызып тасталған">
 <!ENTITY styleStrikeThruCmd.accesskey "ы">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY styleSuperscriptCmd.label "Жоғарғы индекс">
+<!ENTITY styleSuperscriptCmd.accesskey "р">
+<!ENTITY styleSubscriptCmd.label "Төменгі индекс">
+<!ENTITY styleSubscriptCmd.accesskey "Т">
+<!ENTITY styleNonbreakingCmd.label "Ажырамаусыз">
+<!ENTITY styleNonbreakingCmd.accesskey "ы">
+<!ENTITY styleEm.label "Ерекшелеу">
+<!ENTITY styleEm.accesskey "Е">
+<!ENTITY styleStrong.label "Қатаң ерекшелеу">
+<!ENTITY styleStrong.accesskey "т">
+<!ENTITY styleCite.label "Дәйексөз">
+<!ENTITY styleCite.accesskey "с">
+<!ENTITY styleAbbr.label "Аббревиатура">
+<!ENTITY styleAbbr.accesskey "А">
+<!ENTITY styleAcronym.label "Акроним">
+<!ENTITY styleAcronym.accesskey "р">
+<!ENTITY styleCode.label "Код">
+<!ENTITY styleCode.accesskey "о">
+<!ENTITY styleSamp.label "Шығыс мысалы">
+<!ENTITY styleSamp.accesskey "м">
 <!ENTITY styleVar.label "Айнымалы">
 <!ENTITY styleVar.accesskey "А">
 
 <!ENTITY formatFontColor.label "Мәтін түсі…">
 <!ENTITY formatFontColor.accesskey "с">
+<!ENTITY tableOrCellColor.label "Кесте не ұяшықтың фон түсі…">
+<!ENTITY tableOrCellColor.accesskey "ф">
 
-
-
-
+<!ENTITY formatRemoveStyles.key "Y">
+<!ENTITY formatRemoveLinks.key "K">
 
 
 
