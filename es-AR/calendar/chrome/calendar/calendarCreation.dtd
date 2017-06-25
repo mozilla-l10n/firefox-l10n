@@ -1,17 +1,22 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!ENTITY wizard.title "Crear un nuevo calendario">
-<!ENTITY wizard.label "Crear un nuevo calendario">
-<!ENTITY wizard.description "Locate your calendar">
-<!ENTITY initialpage.description "Your calendar can be stored on your computer or be stored on a server in order to access it remotely or share it with your friends or co-workers.">
-<!ENTITY initialpage.computer.label "En mi computadora">
-<!ENTITY initialpage.network.label "En la red">
-<!ENTITY locationpage.description "Proveer información sobre qué es necesario para acceder a su calendario remoto">
-<!ENTITY locationpage.login.description "Opcional: ingrese un usuario y contraseña">
-<!ENTITY locationpage.username.label "Usuario:">
-<!ENTITY locationpage.password.label "Contraseña: ">
-<!ENTITY custompage.shortdescription "Personalizar su calendario">
-<!ENTITY custompage.longdescription "Puede darle a su calendario un nombre y colorear los eventos">
-<!ENTITY finishpage.shortdescription "Calendario creado">
-<!ENTITY finishpage.longdescription "Su calendario ha sido creado">
+
+<!ENTITY wizard.title             "Crear un nuevo calendario" >
+<!ENTITY wizard.label             "Crear un nuevo calendario" >
+<!ENTITY wizard.description       "Ubicar el calendario" >
+
+<!ENTITY initialpage.description    "El calendario puede guardarse en la computadora o en un servidor para que pueda accederse remotamente o compartirse con amigos y compañeros de trabajo." >
+<!ENTITY initialpage.computer.label  "En mi computadora">
+<!ENTITY initialpage.network.label  "En la red">
+
+<!ENTITY locationpage.description         "Proveer información sobre qué es necesario para acceder a su calendario remoto" >
+<!ENTITY locationpage.login.description   "Opcional: ingrese un usuario y contraseña" >
+<!ENTITY locationpage.username.label      "Usuario:" >
+<!ENTITY locationpage.password.label      "Contraseña: " >
+
+<!ENTITY custompage.shortdescription  "Personalizar su calendario" >
+<!ENTITY custompage.longdescription   "Puede darle a su calendario un nombre y colorear los eventos" >
+
+<!ENTITY finishpage.shortdescription  "Calendario creado" >
+<!ENTITY finishpage.longdescription   "Su calendario ha sido creado" >
