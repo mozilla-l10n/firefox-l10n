@@ -11,8 +11,8 @@
 <!ENTITY replaceField.accesskey "е">
 <!ENTITY caseSensitiveCheckbox.label "Регистрді сәйкестеу">
 <!ENTITY caseSensitiveCheckbox.accesskey "к">
-
-
+<!ENTITY wrapCheckbox.label "Парақтың басынан">
+<!ENTITY wrapCheckbox.accesskey "П">
 <!ENTITY backwardsCheckbox.label "Кері бағытта іздеу">
 <!ENTITY backwardsCheckbox.accesskey "б">
 <!ENTITY findNextButton.label "Келесіні табу">

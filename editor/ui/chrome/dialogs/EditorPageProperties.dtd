@@ -14,4 +14,4 @@
 <!ENTITY descriptionInput.accessKey "ы">
 <!ENTITY locationNewPage.label "[Жаңа парақ, әлі сақталмаған]">
 <!ENTITY EditHEADSource1.label "Кеңейтілген пайдаланушылар:">
-
+<!ENTITY EditHEADSource2.label "&lt;head&gt; аймағының басқа құрамасын түзету үшін, Көрініс мәзірінен &quot;HTML бастапқы коды&quot; немесе Түзету режимінің саймандар панелін таңдаңыз.">

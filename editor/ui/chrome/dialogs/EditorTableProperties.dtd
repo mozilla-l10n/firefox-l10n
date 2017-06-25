@@ -21,20 +21,20 @@
 <!ENTITY tableBorderWidth.accessKey       "Ш">
 <!ENTITY tableSpacing.label               "Аралығы:">
 <!ENTITY tableSpacing.accessKey           "А">
-
-
-
-
-
-
-
-
+<!ENTITY tablePadding.label               "Өрістер:">
+<!ENTITY tablePadding.accessKey           "р">
+<!ENTITY tablePxBetwCells.label           "пиксель, ұяшықтар арасында">
+<!ENTITY tablePxBetwBrdrCellContent.label "пиксель, ұяшық шекарасы және құрамасы арасында">
+<!ENTITY tableAlignment.label             "Кесте туралауы:">
+<!ENTITY tableAlignment.accessKey         "т">
+<!ENTITY tableCaption.label               "Тақырыптамасы">
+<!ENTITY tableCaption.accessKey           "ы">
 <!ENTITY tableCaptionAbove.label          "Кестенің үстінде">
 <!ENTITY tableCaptionBelow.label          "Кестенің астында">
 <!ENTITY tableCaptionLeft.label           "Кестенің сол жағынан">
 <!ENTITY tableCaptionRight.label          "Кестенің оң жағынан">
 <!ENTITY tableCaptionNone.label           "Ешнәрсе">
-
+<!ENTITY tableInheritColor.label           "(Парақ фоны көрсетіледі)">
 
 <!ENTITY cellSelection.label              "Таңдау">
 <!ENTITY cellSelectCell.label             "Ұяшық">
@@ -54,16 +54,16 @@
 <!ENTITY cellStyle.accessKey              "я">
 <!ENTITY cellNormal.label                 "Қалыпты">
 <!ENTITY cellHeader.label                 "Жоғарғы колонтитул">
-
-
-
-
+<!ENTITY cellTextWrap.label               "Мәтінді тасымалдау:">
+<!ENTITY cellTextWrap.accessKey           "т">
+<!ENTITY cellWrap.label                   "Тасымалдау">
+<!ENTITY cellNoWrap.label                 "Тасымалдамау">
 <!ENTITY cellAlignTop.label               "Жоғары">
 <!ENTITY cellAlignMiddle.label            "Ортаңғы">
 <!ENTITY cellAlignBottom.label            "Төмен">
 <!ENTITY cellAlignJustify.label           "Енi бойынша">
-
-
+<!ENTITY cellInheritColor.label           "(Кесте фоны көрсетіледі)">
+<!ENTITY cellUseCheckboxHelp.label        "Барлық таңдалған ұяшықтарға іске асатын қасиеттерді анықтау үшін, белгішелерді қолданыңыз">
 <!-- Used in both Table and Cell panels  -->
 
 <!ENTITY size.label                       "Өлшемі">

@@ -8,8 +8,8 @@
 
 <!ENTITY ListType.label "Тізім түрі">
 <!ENTITY bulletStyle.label "Маркер стилі:">
-
-
+<!ENTITY startingNumber.label "Неден бастау:">
+<!ENTITY startingNumber.accessKey "с">
 <!ENTITY none.value "Ешнәрсе">
 <!ENTITY bulletList.value "Маркерленген (нөмірленбеген) тізім">
 <!ENTITY numberList.value "Нөмірленген тізім">

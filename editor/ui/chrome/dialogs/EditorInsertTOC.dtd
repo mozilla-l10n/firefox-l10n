@@ -3,9 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY Window.title        "Мазмұнының кестесі">
-
+<!ENTITY buildToc.label      "Құрама кестесін келесіден жасау:">
 <!ENTITY tag.label           "Белгісі:">
-
+<!ENTITY class.label         "Класы:">
 <!ENTITY header1.label       "Деңгей 1">
 <!ENTITY header2.label       "Деңгей 2">
 <!ENTITY header3.label       "Деңгей 3">

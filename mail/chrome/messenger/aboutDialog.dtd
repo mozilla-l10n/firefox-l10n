@@ -80,7 +80,7 @@
 
 <!ENTITY update.manual.start        "Жүктеп алу ">
 <!ENTITY update.manual.linkText     "соңғы нұсқасы">
-<!ENTITY update.manual.end          "">
+<!ENTITY update.manual.end          "‌">
 <!-- LOCALIZATION NOTE (update.unsupported.start,update.unsupported.linkText,update.unsupported.end):
      update.unsupported.start, update.unsupported.linkText, and
      update.unsupported.end all go into one line with linkText being wrapped in
