@@ -8,14 +8,12 @@
 <!ENTITY prefWinMinSize.styleWin2 "width: 50em; min-height: 37.5em;">
 <!ENTITY prefWinMinSize.styleMac "width: 55em; min-height: 40em;">
 <!ENTITY prefWinMinSize.styleGNOME "width: 53.5em; min-height: 40.5em;">
+<!ENTITY paneSearchResults.title "Resultados de la búsqueda">
 <!ENTITY paneGeneral.title "General">
-<!ENTITY paneTabs.title "Pestañas">
-<!ENTITY paneSearch.title "Buscar">
-<!ENTITY paneContent.title "Contenido">
-<!ENTITY paneApplications.title "Aplicaciones">
-<!ENTITY panePrivacy.title "Privacidad">
+<!ENTITY paneFilesApplications.title "Archivos y aplicaciones">
+<!ENTITY panePrivacySecurity.title "Privacidad y seguridad">
 <!ENTITY paneContainers.title "Pestañas contenedoras">
-<!ENTITY paneSecurity.title "Seguridad">
-<!ENTITY paneAdvanced.title "Avanzado">
-<!ENTITY paneSync.title "Sync">
-<!ENTITY helpButton.label "Ayuda">
+<!ENTITY paneUpdates.title "Actualizaciones">
+<!ENTITY paneSync1.title "Cuenta de Firefox">
+<!ENTITY helpButton2.label "Ayuda de &brandShortName;">
+<!ENTITY searchInput.label "Buscar">

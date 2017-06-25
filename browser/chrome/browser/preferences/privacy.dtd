@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY trackingProtectionHeader.label "Usar protección contra rastreo">
+<!ENTITY trackingProtectionHeader2.label "Protección contra rastreo">
+<!ENTITY trackingProtection.description "Rastrear consiste en que compañías recopilen información sobre usted para construir un perfil y mostrar contenido basado en sus datos personales y de navegación.">
+<!ENTITY trackingProtection.radioGroupLabel "Bloquear la visualización de contenido de compañías de rastreo conocidas">
 <!ENTITY trackingProtectionAlways.label "Siempre">
 <!ENTITY trackingProtectionAlways.accesskey "i">
 <!ENTITY trackingProtectionPrivate.label "Solo en ventanas privadas">
@@ -23,7 +25,7 @@
 <!ENTITY doNotTrack.post.label ".">
 <!ENTITY history.label "Historial">
 <!ENTITY locationBar.label "Barra de direcciones">
-<!ENTITY locbar.suggest.label "Al usar la barra de direcciones, sugerir:">
+<!ENTITY locbar.suggest2.label "Al usar la barra de direcciones, sugerir">
 <!ENTITY locbar.history.label "Historial">
 <!ENTITY locbar.history.accesskey "H">
 <!ENTITY locbar.bookmarks.label "Marcadores">
@@ -32,8 +34,7 @@
 <!ENTITY locbar.openpage.accesskey "A">
 <!ENTITY locbar.searches.label "Búsquedas relacionadas del buscador por defecto">
 <!ENTITY locbar.searches.accesskey "B">
-<!ENTITY suggestionSettings.label "Cambiar preferencias de sugerencias de buscadores…">
-<!ENTITY suggestionSettings.accesskey "o">
+<!ENTITY suggestionSettings2.label "Cambiar preferencias de sugerencias de buscadores">
 <!ENTITY acceptCookies.label "Aceptar cookies">
 <!ENTITY acceptCookies.accesskey "A">
 <!ENTITY acceptThirdParty.pre.label "Aceptar las cookies de terceras partes:">
@@ -49,8 +50,8 @@
 <!ENTITY cookieExceptions.accesskey "E">
 <!ENTITY showCookies.label "Mostrar cookies…">
 <!ENTITY showCookies.accesskey "S">
-<!ENTITY historyHeader.pre.label "&brandShortName; podrá:">
-<!ENTITY historyHeader.pre.accesskey "p">
+<!ENTITY historyHeader2.pre.label "&brandShortName; podrá">
+<!ENTITY historyHeader2.pre.accesskey "o">
 <!ENTITY historyHeader.remember.label "Recordar el historial">
 <!ENTITY historyHeader.dontremember.label "No recordar el historial">
 <!ENTITY historyHeader.custom.label "Usar una configuración personalizada para el historial">

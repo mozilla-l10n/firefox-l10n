@@ -16,10 +16,10 @@
 <!ENTITY popupExceptions.label "Excepciones…">
 <!ENTITY popupExceptions.accesskey "E">
 <!ENTITY fontsAndColors.label "Tipografías y colores">
-<!ENTITY defaultFont.label "Tipografía predet.:">
-<!ENTITY defaultFont.accesskey "T">
-<!ENTITY defaultSize.label "Tamaño:">
-<!ENTITY defaultSize.accesskey "m">
+<!ENTITY defaultFont2.label "Tipografía predeterminada">
+<!ENTITY defaultFont2.accesskey "T">
+<!ENTITY defaultSize2.label "Tamaño">
+<!ENTITY defaultSize2.accesskey "m">
 <!ENTITY advancedFonts.label "Avanzadas…">
 <!ENTITY advancedFonts.accesskey "A">
 <!ENTITY colors.label "Colores…">

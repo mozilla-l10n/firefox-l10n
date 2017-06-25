@@ -141,10 +141,8 @@
 <!ENTITY backForwardButtonMenu.tooltip "Pinche con el botón derecho o arrastre hacia abajo para ver el historial">
 <!ENTITY backForwardButtonMenuMac.tooltip "Arrastre hacia abajo para ver el historial">
 <!ENTITY reloadCmd.label "Recargar">
-<!ENTITY reloadButton.tooltip "Recargar esta página">
 <!ENTITY stopCmd.label "Detener">
 <!ENTITY stopCmd.macCommandKey ".">
-<!ENTITY stopButton.tooltip "Parar la carga de esta página">
 <!ENTITY goEndCap.tooltip "Ir a la URL de la barra de direcciones">
 <!ENTITY printButton.label "Imprimir">
 <!ENTITY printButton.tooltip "Imprimir esta página">
@@ -156,6 +154,8 @@
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip "Abrir el panel de mensajes de contraseñas">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip "Administrar uso de plugins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip "Cambiar si puede recibir notificaciones del sitio">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip "Guardar datos en almacenamiento persistente">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip "El navegador está bajo control remoto">
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip "Administrar la compartición de su cámara o micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip "Administrar la compartición de su micrófono con el sitio">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip "Administrar la compartición de sus ventanas o pantalla con el sitio">
@@ -169,8 +169,8 @@
 <!ENTITY urlbar.geolocationBlocked.tooltip "Ha bloqueado la información de ubicación para este sitio web.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip "Ha bloqueado las notificaciones para este sitio web.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ha bloqueado el almacenamiento de datos para este sitio web.">
 <!ENTITY urlbar.openHistoryPopup.tooltip "Mostrar historial">
-<!ENTITY urlbar.zoomReset.tooltip "Restablecer nivel de aumento">
 <!ENTITY searchItem.title "Buscar">
 <!ENTITY homeButton.label "Inicio">
 <!ENTITY bookmarksButton.label "Marcadores">
@@ -263,6 +263,7 @@
 <!ENTITY appMenuHistory.clearRecent.label "Limpiar el historial reciente…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurar sesión anterior">
 <!ENTITY appMenuHistory.viewSidebar.label "Ver panel lateral del historial">
+<!ENTITY appMenuHelp.label "Ayuda">
 <!ENTITY appMenuHelp.tooltip "Abrir menú de ayuda">
 <!ENTITY appMenuRemoteTabs.label "Pestañas sincronizadas">
 <!ENTITY appMenuRemoteTabs.notabs.label "No hay pestañas abiertas">
@@ -276,21 +277,29 @@
 <!ENTITY appMenuRemoteTabs.openprefs.label "Preferencias de Sync">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Inicie sesión para ver una lista de pestañas de sus otros dispositivos.">
 <!ENTITY appMenuRemoteTabs.signin.label "Inicie sesión en Sync">
+<!ENTITY appMenuRemoteTabs.managedevices.label "Administrar dispositivos…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Ver panel lateral de pestañas sincronizadas">
 <!ENTITY customizeMenu.addToToolbar.label "Añadir a la barra de herramientas">
 <!ENTITY customizeMenu.addToToolbar.accesskey "b">
 <!ENTITY customizeMenu.addToPanel.label "Añadir al menú">
 <!ENTITY customizeMenu.addToPanel.accesskey "d">
+<!ENTITY customizeMenu.addToOverflowMenu.label "Añadir al menú de desborde">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "m">
 <!ENTITY customizeMenu.moveToToolbar.label "Mover a la barra de herramientas">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!ENTITY customizeMenu.moveToPanel.label "Mover al menú">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Fijar al menú de desborde">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Eliminar del menú de desborde">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "n">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eliminar de la barra de herramientas">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "Eliminar del menú">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "E">
 <!ENTITY customizeMenu.addMoreItems.label "Añadir más elementos…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "A">
+<!ENTITY moreMenu.label "Más">
 <!ENTITY openCmd.commandkey "l">
 <!ENTITY urlbar.placeholder2 "Término de búsqueda o dirección">
 <!ENTITY urlbar.accesskey "d">
@@ -303,6 +312,12 @@
 <!ENTITY urlbar.searchSuggestionsNotification.disable.accesskey "n">
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Sí">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "S">
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Consejo:">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "¡Obtenga ayuda para encontrar cosas! Busque la 🔎 junto a las sugerencias de búsqueda.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Cambiar opciones…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Cambiar preferencias…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!ENTITY searchFocus.commandkey "k">
 <!ENTITY searchFocus.commandkey2 "e">
 <!ENTITY searchFocusUnix.commandkey "j">
@@ -368,6 +383,7 @@
 <!ENTITY bookmarkThisLinkCmd.accesskey "L">
 <!ENTITY bookmarkThisFrameCmd.label "Añadir este cuadro a marcadores">
 <!ENTITY bookmarkThisFrameCmd.accesskey "m">
+<!ENTITY copyURLCmd.label "Copiar URL">
 <!ENTITY emailPageCmd.label "Enviar enlace…">
 <!ENTITY emailPageCmd.accesskey "E">
 <!ENTITY savePageCmd.label "Guardar como…">
@@ -464,6 +480,7 @@
 <!ENTITY fullZoom.label "Tamaño">
 <!ENTITY fullZoom.accesskey "m">
 <!ENTITY sidebarCloseButton.tooltip "Cerrar panel lateral">
+<!ENTITY sidebarMenuClose.label "Cerrar panel lateral">
 <!ENTITY quitApplicationCmdWin2.label "Salir">
 <!ENTITY quitApplicationCmdWin2.accesskey "S">
 <!ENTITY quitApplicationCmdWin2.tooltip "Salir de &brandShorterName;">
@@ -472,7 +489,7 @@
 <!ENTITY quitApplicationCmd.label "Salir">
 <!ENTITY quitApplicationCmd.accesskey "S">
 <!ENTITY quitApplicationCmdMac2.label "Salir de &brandShorterName;">
-<!ENTITY quitApplicationCmdUnix.key "Q">
+<!ENTITY quitApplicationCmd.key "Q">
 <!ENTITY closeCmd.label "Cerrar">
 <!ENTITY closeCmd.key "W">
 <!ENTITY closeCmd.accesskey "C">
@@ -511,6 +528,7 @@
 <!ENTITY identity.connectionFile "Esta página se guarda en su equipo.">
 <!ENTITY identity.connectionVerified2 "Está conectado de forma segura a este sitio, propiedad de:">
 <!ENTITY identity.connectionInternal "Esta es una página segura de &brandShortName;.">
+<!ENTITY identity.extensionPage "Esta página está cargada desde una extensión.">
 <!ENTITY identity.insecureLoginForms2 "Los inicios de sesión introducidos en esta página podrían verse comprometidos.">
 <!ENTITY identity.activeBlocked "&brandShortName; ha bloqueado partes de esta página que no son seguras.">
 <!ENTITY identity.passiveLoaded "Partes de esta página no son seguras (como imágenes).">
@@ -561,6 +579,8 @@
 <!ENTITY syncedTabs.context.copy.accesskey "C">
 <!ENTITY syncedTabs.context.openAllInTabs.label "Abrir todo en pestañas">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey "A">
+<!ENTITY syncedTabs.context.managedevices.label "Administrar dispositivos…">
+<!ENTITY syncedTabs.context.managedevices.accesskey "D">
 <!ENTITY syncBrand.shortName.label "Sync">
 <!ENTITY syncSignIn.label "Conectarse a &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey "Y">
@@ -579,8 +599,9 @@
 <!ENTITY customizeMode.menuAndToolbars.empty "¿Quiere más herramientas?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Elija de entre miles de complementos">
 <!ENTITY customizeMode.restoreDefaults "Restaurar predeterminados">
-<!ENTITY customizeMode.toolbars "Mostrar / ocultar barras de herramientas">
+<!ENTITY customizeMode.done "Hecho">
 <!ENTITY customizeMode.titlebar "Barra de título">
+<!ENTITY customizeMode.toolbars2 "Barras de herramientas">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "Mis temas">
 <!ENTITY customizeMode.lwthemes.recommended "Recomendados">
@@ -637,3 +658,31 @@
 <!ENTITY panicButton.thankyou.buttonlabel "¡Gracias!">
 <!ENTITY emeLearnMoreContextMenu.label "Más información sobre DRM…">
 <!ENTITY emeLearnMoreContextMenu.accesskey "D">
+<!ENTITY updateAvailable.message "Actualice su &brandShorterName; a lo último en velocidad y privacidad.">
+<!ENTITY updateAvailable.whatsnew.label "Ver las novedades.">
+<!ENTITY updateAvailable.header.message "Hay disponible una nueva actualización de &brandShorterName;.">
+<!ENTITY updateAvailable.acceptButton.label "Descargar actualización">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "Ahora no">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+<!ENTITY updateAvailable.panelUI.label "Descargar actualización de &brandShorterName;">
+<!ENTITY updateManual.message "Descargue una copia reciente de &brandShorterName; y le ayudaremos a instalarla.">
+<!ENTITY updateManual.whatsnew.label "Ver las novedades.">
+<!ENTITY updateManual.header.message "&brandShorterName; no puede actualizar a la última versión.">
+<!ENTITY updateManual.acceptButton.label "Descargar &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "Ahora no">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+<!ENTITY updateManual.panelUI.label "Descargue una copia reciente de &brandShorterName;">
+<!ENTITY updateRestart.message "Tras un reinicio rápido, &brandShorterName; restaurará todas sus pestañas y ventanas abiertas.">
+<!ENTITY updateRestart.header.message2 "Reinicie para actualizar &brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Reiniciar y restaurar">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "Ahora no">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
+<!ENTITY pageActionButton.tooltip "Acciones con la página">
+<!ENTITY sendToDevice.label "Enviar al dispositivo…">
+<!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
+<!ENTITY sendToDevice.fxaRequired.label "Requerido">
+<!ENTITY sendToDevice.noDevices.label "No hay dispositivos disponibles">
