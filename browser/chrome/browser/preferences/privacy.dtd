@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historija">
+<!ENTITY  permissions.label             "Prawa">
 
 <!ENTITY  locationBar.label             "Adresowe polo">
 
