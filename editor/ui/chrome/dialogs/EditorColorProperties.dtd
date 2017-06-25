@@ -5,12 +5,12 @@
 
 <!ENTITY windowTitle.label "Бет түстері және фоны">
 <!ENTITY pageColors.label "Бет түстері">
-
-
-
+<!ENTITY defaultColorsRadio.label "Пайдаланушының бастапқы түстері (Парақта түстерді орнатпау)">
+<!ENTITY defaultColorsRadio.accessKey "п">
+<!ENTITY defaultColorsRadio.tooltip "Пайдаланушы браузерінде көрсетілген бастапқы түстерді қолдану">
 <!ENTITY customColorsRadio.label "Таңдауыңызша түстерді қолдану:">
 <!ENTITY customColorsRadio.accessKey "Т">
-
+<!ENTITY customColorsRadio.tooltip "Бұл түс баптаулары пайдаланушы браузері баптауларын алмастырады">
 
 <!ENTITY normalText.label "Кәдімгі мәтін">
 <!ENTITY normalText.accessKey "К">
@@ -26,4 +26,4 @@
 <!ENTITY backgroundImage.label "Фон суреті:">
 <!ENTITY backgroundImage.accessKey "у">
 <!ENTITY backgroundImage.tooltip "Парағыңыздың фоны ретінде суретті орнату">
-
+<!ENTITY backgroundImage.shortenedDataURI "Деректердің қысқартылған URI-і (көшіру толық URI-ді алмасу буферіне орналастырады)">
