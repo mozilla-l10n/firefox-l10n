@@ -49,7 +49,7 @@
 <!ENTITY  finishedBackground.name         "மேம்படுத்தல்:">
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "அடுத்த முறை &brandShortName; ஐ துவக்கும் போது மேம்படுத்தல் நிறுவப்படும். இப்போது &brandShortName;ஐ மறுதுவக்கலாம் அல்லது தொடர்ந்து வேலை செய்து பின்னர் மறுதுவக்கலாம்.">
-
+<!ENTITY  finishedBackground.moreElevated "இந்தப் புதுபிப்பிற்கு நிர்வாகிக்கான சிறப்பரிமைத் தேவை. அடுத்த முறை துவங்கும்போது &brandShortName; புதுப்பிக்கப்படும். &brandShortName; உலாவியை இப்ப மீட்துவக்கு (அ) வேலையை முடித்து பின்னர் மீட்துவக்கு (அ) மறுக்கவும்.">
 
 <!ENTITY  update.details.label            "விவரங்கள்">
 <!ENTITY  update.installedOn.label        "நிறுவப்பட்ட நாள்:">

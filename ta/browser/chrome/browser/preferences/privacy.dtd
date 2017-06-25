@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "வரலாறு">
-
+<!ENTITY  permissions.label             "அனுமதிகள்">
 
 <!ENTITY  locationBar.label             "இடப் பட்டை">
 
