@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Leverandør">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Sist oppdatert">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Neste oppdatering">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Back-off tid">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Siste oppdateringsstatus">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Oppdater">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Snøgglager">
