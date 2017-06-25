@@ -28,6 +28,10 @@
 
 <!ENTITY dataChoicesTab.label            "Decisiuns da datas">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "Gida dad analisar la prestaziun da tes navigatur e cundivida cun &vendorShortName; las datas davart la sanadad da tes navigatur">
 <!ENTITY enableHealthReport.label        "Activar l'analisa da sanadad da &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "F">
@@ -92,12 +96,24 @@
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.description   "Permetter a &brandShortName; da">
+<!ENTITY updateAuto2.label               "Installar automaticamain las actualisaziuns (recumandà per motivs da segirezza)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "Tschertgar actualisaziuns ma ta laschar tscherner cura installar">
+<!ENTITY updateCheckChoose2.accesskey    "T">
+<!ENTITY updateManual2.label             "Mai tschertgar actualisaziuns (betg recumandà)">
+<!ENTITY updateManual2.accesskey         "M">
 
+<!ENTITY updateHistory2.label            "Mussar la cronologia da las actualisaziuns…">
+<!ENTITY updateHistory2.accesskey        "c">
 
 <!ENTITY useService.label                "Utilisar in servetsch per installar actualisaziuns senza interrupziun">
 <!ENTITY useService.accesskey            "r">
 
+<!ENTITY enableSearchUpdate2.label       "Actualisar automaticamain maschinas da tschertgar">
+<!ENTITY enableSearchUpdate2.accesskey   "t">
 
+<!ENTITY reports.label                   "Rapports">
 
 <!ENTITY offlineStorageNotify.label               "Dumandar en cas che websites vulan memorisar datas per l'utilisaziun offline">
 <!ENTITY offlineStorageNotify.accesskey           "D">
@@ -111,6 +127,7 @@
 <!ENTITY offlineAppRemove.confirm        "Allontanar las datas offline">
 
 <!ENTITY certificateTab.label            "Certificats">
+<!ENTITY certPersonal2.description       "Sch'in server dumonda tes certificat da segirezza persunal">
 <!ENTITY selectCerts.auto                "Tscherner automaticamain in">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Dumandar mintga giada">
