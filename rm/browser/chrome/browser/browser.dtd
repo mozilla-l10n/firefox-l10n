@@ -213,7 +213,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avrir la panela per memorisar pleds-clav">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar l'utilisaziun da plug-ins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Definir sche ti vuls retschaiver notificaziuns da la pagina">
-<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria permanenta">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria durabla">
 <!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Il navigatur vegn controllà a distanza">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
@@ -231,7 +231,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.geolocationBlocked.tooltip       "Ti has bloccà las infurmaziuns da geolocalisaziun per questa website.">
 <!ENTITY urlbar.indexedDBBlocked.tooltip         "Ti has bloccà la pussaivladad da memorisar datas per questa website.">
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ti has bloccà ils messadis da questa website.">
-<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ti has bloccà la memoria permanenta per questa website.">
+<!ENTITY urlbar.persistentStorageBlocked.tooltip "Ti has bloccà la memoria durabla per questa website.">
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Mussar la cronologia">
 
