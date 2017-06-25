@@ -17,7 +17,7 @@
 
 <!ENTITY     search.placeholder             "Buscar cookies">
 <!ENTITY     focusSearch.key                "f">
-<!ENTITY     selectAll.key                  "">
+<!ENTITY     selectAll.key                  "a">
 
 <!ENTITY     props.name.label               "Nombre:">
 <!ENTITY     props.value.label              "Contenido:">
