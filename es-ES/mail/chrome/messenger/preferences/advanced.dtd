@@ -43,7 +43,9 @@
 <!ENTITY enableCrashReporter.label "Activar agente de informe de fallos">
 <!ENTITY enableCrashReporter.accesskey "c">
 <!ENTITY crashReporterLearnMore.label "Saber más">
-<!ENTITY updateApp.label "Actualizaciones de &brandShortName;:">
+<!ENTITY updateApp2.label "Actualizaciones de &brandShortName;">
+<!ENTITY updateApp.version.pre "Versión">
+<!ENTITY updateApp.version.post "">
 <!ENTITY updateAuto.label "Instalar actualizaciones automáticamente (recomendado: mejora la seguridad)">
 <!ENTITY updateAuto.accesskey "I">
 <!ENTITY updateCheck.label "Buscar actualizaciones, pero permitirme elegir si las instalo">
@@ -69,6 +71,8 @@
 <!ENTITY useCacheBefore.label "Usar hasta">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB de espacio para la caché">
+<!ENTITY overrideSmartCacheSize.label "Desactivar administración automática de caché">
+<!ENTITY overrideSmartCacheSize.accesskey "D">
 <!ENTITY clearCacheNow.label "Limpiar ahora">
 <!ENTITY clearCacheNow.accesskey "L">
 <!ENTITY certSelection.description "Cuando un servidor solicite mi certificado personal:">

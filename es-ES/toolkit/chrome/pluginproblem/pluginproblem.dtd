@@ -2,6 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY pluginActivationWarning "Este sitio usa un plugin que puede ralentizar &brandShortName;.">
 <!ENTITY tapToPlayPlugin "Toque aquí para activar el plugin.">
 <!ENTITY clickToActivatePlugin "Activar plugin.">
 <!ENTITY checkForUpdates "Buscar actualizaciones…">
@@ -22,3 +23,4 @@
 <!ENTITY plugin.file "Archivo">
 <!ENTITY plugin.mimeTypes "Tipos MIME">
 <!ENTITY plugin.flashProtectedMode.label "Activar el modo protegido de Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label "Bloquear contenido Flash peligroso e intrusivo">

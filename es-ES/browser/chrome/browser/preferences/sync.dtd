@@ -8,15 +8,15 @@
 <!ENTITY engine.tabs.accesskey "t">
 <!ENTITY engine.history.label "Historial">
 <!ENTITY engine.history.accesskey "r">
-<!ENTITY engine.passwords.label "Contraseñas">
-<!ENTITY engine.passwords.accesskey "ñ">
+<!ENTITY engine.logins.label "Inicios de sesión">
+<!ENTITY engine.logins.accesskey "I">
 <!ENTITY engine.prefs.label "Preferencias">
 <!ENTITY engine.prefs.accesskey "S">
 <!ENTITY engine.addons.label "Complementos">
 <!ENTITY engine.addons.accesskey "C">
 <!ENTITY fxaSyncDeviceName.label "Nombre del dispositivo">
-<!ENTITY changeSyncDeviceName.label "Cambiar nombre del dispositivo…">
-<!ENTITY changeSyncDeviceName.accesskey "b">
+<!ENTITY changeSyncDeviceName2.label "Cambiar nombre del dispositivo…">
+<!ENTITY changeSyncDeviceName2.accesskey "a">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "e">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
@@ -32,9 +32,9 @@
 <!ENTITY signIn.accesskey "n">
 <!ENTITY profilePicture.tooltip "Cambiar imagen del perfil">
 <!ENTITY verifiedManage.label "Administrar cuenta">
-<!ENTITY verifiedManage.accesskey "i">
-<!ENTITY disconnect.label "Desconectar…">
-<!ENTITY disconnect.accesskey "D">
+<!ENTITY verifiedManage.accesskey "A">
+<!ENTITY disconnect3.label "Desconectar…">
+<!ENTITY disconnect3.accesskey "D">
 <!ENTITY verify.label "Verificar mensaje">
 <!ENTITY verify.accesskey "V">
 <!ENTITY forget.label "Olvide este mensaje">
@@ -46,7 +46,8 @@
 <!ENTITY signedOut.accountBox.create.accesskey "C">
 <!ENTITY signedOut.accountBox.signin "Conectarse">
 <!ENTITY signedOut.accountBox.signin.accesskey "C">
-<!ENTITY signedIn.engines.label "Sincronizar en todos los dispositivos">
+<!ENTITY signedIn.settings.label "Configuración de Sync">
+<!ENTITY signedIn.settings.description "Elija qué sincronizar en sus dispositivos usando &brandShortName;.">
 <!ENTITY mobilePromo3.start "Descargar Firefox para ">
 <!ENTITY mobilePromo3.androidLink "Android">
 <!ENTITY mobilePromo3.iOSBefore " o ">

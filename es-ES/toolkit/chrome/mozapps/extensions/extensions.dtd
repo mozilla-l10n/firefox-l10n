@@ -93,6 +93,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip "Mostrar las notas de la versión de esta actualización">
 <!ENTITY cmd.hideReleaseNotes.label "Ocultar notas de la versión">
 <!ENTITY cmd.hideReleaseNotes.tooltip "Ocultar las notas de la versión de esta actualización">
+<!ENTITY cmd.findReplacement.label "Encontrar un reemplazo">
 <!ENTITY discover.title "¿Qué son los complementos?">
 <!ENTITY discover.description2 "Los complementos son aplicaciones que le permiten personalizar &brandShortName; con funcionalidades o estilos adicionales. Pruebe un panel lateral que le ahorrará tiempo, un indicador del tiempo meteorológico o un tema gráfico para hacer &brandShortName; verdaderamente suyo.">
 <!ENTITY discover.footer "Cuando esté conectado a Internet, este panel incluirá algunos de los mejores y más populares complementos para que los pruebe.">
@@ -141,6 +142,7 @@
 <!ENTITY addon.details.label "Más">
 <!ENTITY addon.details.tooltip "Mostrar más detalles sobre este complemento">
 <!ENTITY addon.unknownDate "Desconocido">
+<!ENTITY addon.legacy.label "HEREDADO">
 <!ENTITY addon.disabled.postfix "(desactivado)">
 <!ENTITY addon.update.postfix "Actualizar">
 <!ENTITY addon.undoAction.label "Deshacer">
@@ -180,3 +182,8 @@
 <!ENTITY disabledUnsigned.devInfo.end ".">
 <!ENTITY pluginDeprecation.description "¿Echa algo en falta? Algunos plugins ya no están admitidos por &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Saber más.">
+<!ENTITY legacyWarning.description "¿Echa algo en falta? Algunas extensiones ya no están admitidas por &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Mostrar extensiones clásicas">
+<!ENTITY legacyExtensions.title "Extensiones clásicas">
+<!ENTITY legacyExtensions.description "Estas extensiones no cumplen los estándares actuales de &brandShortName; por lo que han sido desactivadas.">
+<!ENTITY legacyExtensions.learnMore "Conozca sobre los cambios a los complementos">

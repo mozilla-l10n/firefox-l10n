@@ -23,7 +23,7 @@
 <!ENTITY bookmarks.folder.pinned.label "Fijada">
 <!ENTITY fxaccount_back_to_browsing "Volver a navegar">
 <!ENTITY fxaccount_getting_started_welcome_to_sync "Bienvenido a &syncBrand.shortName.label;">
-<!ENTITY fxaccount_getting_started_description2 "Inicie sesión para sincronizar sus pestañas, marcadores, credenciales y más.">
+<!ENTITY fxaccount_getting_started_description2 "Inicie sesión para sincronizar sus pestañas, marcadores, cuentas y más.">
 <!ENTITY fxaccount_getting_started_get_started "Comenzar">
 <!ENTITY fxaccount_getting_started_old_firefox "¿Usa una versión antigua de &syncBrand.shortName.label;?">
 <!ENTITY fxaccount_status_signed_in_as "Conectado como">

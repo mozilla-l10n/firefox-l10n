@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY startup.label "Inicio">
-<!ENTITY startupPage.label "Cuando se inicie &brandShortName;:">
-<!ENTITY startupPage.accesskey "i">
+<!ENTITY startupPage2.label "Cuando se inicie &brandShortName;">
+<!ENTITY startupPage2.accesskey "N">
 <!ENTITY startupUserHomePage.label "Mostrar su página de inicio">
 <!ENTITY startupBlankPage.label "Mostrar una página en blanco">
 <!ENTITY startupPrevSession.label "Mostrar sus ventanas y pestañas de la última sesión">
-<!ENTITY homepage.label "Página de inicio:">
-<!ENTITY homepage.accesskey "P">
+<!ENTITY homepage2.label "Página de inicio">
+<!ENTITY homepage2.accesskey "P">
 <!ENTITY useCurrentPage.label "Usar página actual">
 <!ENTITY useCurrentPage.accesskey "C">
 <!ENTITY useMultiple.label "Usar páginas actuales">
@@ -34,5 +34,6 @@
 <!ENTITY isNotDefault.label "&brandShortName; no es su navegador por defecto">
 <!ENTITY separateProfileMode.label "Permitir a &brandShortName; y Firefox ejecutarse al mismo tiempo">
 <!ENTITY useFirefoxSync.label "Consejo: esto usa perfiles separados. Use Sync para compartir datos entre ellos.">
-<!ENTITY getStarted.label "Comience a usar Sync…">
+<!ENTITY getStarted.notloggedin.label "Conectarse a &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label "Abrir preferencias de &syncBrand.shortName.label;">
 <!ENTITY e10sEnabled.label "Activar &brandShortName; multiproceso">
