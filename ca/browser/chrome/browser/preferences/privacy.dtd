@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historial">
-
+<!ENTITY  permissions.label             "Permisos">
 
 <!ENTITY  locationBar.label             "Barra d'ubicació">
 

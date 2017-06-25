@@ -114,7 +114,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.copyRawDataToClipboard.label "Copia les dades sense processar al porta-retalls">
 
 <!ENTITY aboutSupport.sandboxTitle "Entorn de proves">
-
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Crides del sistema rebutjades">
 <!ENTITY aboutSupport.sandboxSyscallIndex "#">
 <!ENTITY aboutSupport.sandboxSyscallAge "Fa uns segons">
 <!ENTITY aboutSupport.sandboxSyscallPID "PID">
