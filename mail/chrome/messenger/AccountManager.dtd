@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- extracted from AccountManager.xul -->
 
+<!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Hesap Ayarları">
 
@@ -16,10 +16,11 @@
 <!ENTITY addFeedAccountButton.accesskey "B">
 <!ENTITY addOtherAccountButton.label "Başka hesap ekle…">
 <!ENTITY addOtherAccountButton.accesskey "B">
-<!ENTITY setDefaultButton.label "Varsayılan Olarak Ayarla">
+<!ENTITY setDefaultButton.label "Varsayılan olarak ayarla">
 <!ENTITY setDefaultButton.accesskey "n">
-<!ENTITY removeButton.label "Hesabı Kaldır">
+<!ENTITY removeButton.label "Hesabı sil">
 <!ENTITY removeButton.accesskey "H">
+
 <!-- AccountManager.xul -->
 <!-- LOCALIZATION NOTE : this is part of an inline-style attribute on the account
      setting dialog, which specifies the width and height in em units of the dialog.
@@ -29,6 +30,5 @@
      1em = The height of the font.
      XUL/FE DEVELOPERS: DO NOT MODIFY THIS VALUE. It represents the correct size of
      this window for en-US. -->
-
 <!ENTITY accountManager.size "width: 105ch; height: 55em;">
 <!ENTITY accountTree.width "width: 32ch;">
