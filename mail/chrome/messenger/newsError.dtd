@@ -12,15 +12,20 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Diskussionsgruppsservern rapporterar att det inte kan hitta artikeln.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+<!ENTITY serverResponded.title "Diskussionsgruppsservern svarade:">
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
+<!ENTITY articleExpired.title "Kanske har artikeln upphört?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+<!ENTITY trySearching.title "Försök att söka efter artikel:">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Ta bort alla upphörda artiklar">
