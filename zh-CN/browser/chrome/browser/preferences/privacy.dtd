@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         "。">
 
 <!ENTITY  history.label                 "历史记录">
+<!ENTITY  permissions.label             "权限">
 
 <!ENTITY  locationBar.label             "地址栏">
 
