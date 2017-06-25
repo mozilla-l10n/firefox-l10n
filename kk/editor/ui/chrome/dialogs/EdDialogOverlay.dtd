@@ -14,3 +14,5 @@
 <!ENTITY makeUrlRelative.tooltip "Салыстырмалы және абсолюттік сілтеме арасында ауысу. Бұны өзгерту үшін, алдымен парақты сақтау керек.">
 <!-- Shared by Link and Image dialogs -->
 
+<!ENTITY LinkURLEditField.label "Веб парақтың адресін немесе жергілікті файлды енгізіңіз, немесе тізімнен атаулы байланысты немесе тақырыптаманы таңдаңыз:">
+<!ENTITY LinkURLEditField.accessKey "В">

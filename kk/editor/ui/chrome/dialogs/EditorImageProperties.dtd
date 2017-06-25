@@ -13,10 +13,10 @@
 <!ENTITY locationEditField.label "Суреттің орналасуы:">
 <!ENTITY locationEditField.accessKey "л">
 <!ENTITY locationEditField.tooltip "Суреттің файл атын не орналасуын енгізіңіз">
-
-
-
-
+<!ENTITY locationEditField.shortenedDataURI "Деректердің қысқартылған URI-і (көшіру толық URI-ді алмасу буферіне орналастырады)">
+<!ENTITY title.label "Қалқымалы кеңес:">
+<!ENTITY title.accessKey "к">
+<!ENTITY title.tooltip "Қалқымалы кеңес ретінде көрсетілетін html &quot;title&quot; атрибуты">
 <!ENTITY altText.label "Балама мәтін:">
 <!ENTITY altText.accessKey "а">
 <!ENTITY altTextEditField.tooltip "Суреттің орнына көрсетілетін мәтінді теріңіз">
@@ -65,8 +65,10 @@
 <!ENTITY borderEditField.accessKey "ш">
 <!-- These controls are in the Link Box -->
 
-
-
+<!ENTITY showImageLinkBorder.label "Сілтемесі бар суреттің айналасында шекараны көрсету">
+<!ENTITY showImageLinkBorder.accessKey "ш">
+<!ENTITY LinkAdvancedEditButton.label "Сілтеме қасиеттерін түзету…">
+<!ENTITY LinkAdvancedEditButton.accessKey "л">
 <!ENTITY LinkAdvancedEditButton.tooltip "HTML/стиль атрибуттарын, JavaScript-ты қосу немесе түзету">
 <!-- These tabs are currently used in the image input dialog -->
 

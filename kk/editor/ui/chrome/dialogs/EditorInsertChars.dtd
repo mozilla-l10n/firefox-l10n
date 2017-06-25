@@ -10,10 +10,10 @@
 <!ENTITY letter.accessKey "р">
 <!ENTITY character.label "Таңба:">
 <!ENTITY character.accessKey "Т">
-
-
-
-
-
+<!ENTITY accentUpper.label "Диакритикалық таңбалары бар бас әріптер">
+<!ENTITY accentLower.label "Диакритикалық таңбалары бар кіші әріптер">
+<!ENTITY otherUpper.label "Басқа бас әріптер">
+<!ENTITY otherLower.label "Басқа кіші әріптер">
+<!ENTITY commonSymbols.label "Кеңінен қолданылатын таңбалар">
 <!ENTITY insertButton.label "Кірістіру">
 <!ENTITY closeButton.label "Жабу">

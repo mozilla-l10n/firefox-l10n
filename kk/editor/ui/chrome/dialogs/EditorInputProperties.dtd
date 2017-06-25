@@ -23,14 +23,14 @@
 <!ENTITY InputName.accesskey "т">
 <!ENTITY GroupName.label "Топтың аты:">
 <!ENTITY GroupName.accesskey "Т">
-
-
+<!ENTITY InputValue.label "Өріс мәні:">
+<!ENTITY InputValue.accesskey "м">
 <!ENTITY InitialValue.label "Бастапқы мәні:">
 <!ENTITY InitialValue.accesskey "Б">
-
-
-
-
+<!ENTITY InputChecked.label "Басынан бастап белгіленген">
+<!ENTITY InputChecked.accesskey "б">
+<!ENTITY InputSelected.label "Басынан бастап таңдалған">
+<!ENTITY InputSelected.accesskey "т">
 <!ENTITY InputReadOnly.label "Тек оқу үшін">
 <!ENTITY InputReadOnly.accesskey "о">
 <!ENTITY InputDisabled.label "Сөндірілген">
