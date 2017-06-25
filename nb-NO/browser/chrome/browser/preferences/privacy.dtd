@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historikk">
+<!ENTITY  permissions.label             "Tillatelser">
 
 <!ENTITY  locationBar.label             "Adresselinje">
 
