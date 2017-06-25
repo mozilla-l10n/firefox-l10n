@@ -20,7 +20,7 @@
 <!-- Device Settings -->
 <!ENTITY fxaSyncDeviceName.label       "Nombre de dispositivo">
 <!ENTITY changeSyncDeviceName2.label "Cambie el nombre del dispositivo …">
-<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY changeSyncDeviceName2.accesskey "d">
 <!ENTITY cancelChangeSyncDeviceName.label "Cancelar">
 <!ENTITY cancelChangeSyncDeviceName.accesskey "n">
 <!ENTITY saveChangeSyncDeviceName.label "Guardar">
