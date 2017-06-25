@@ -5,7 +5,7 @@
 <!ENTITY matchAll.label     "Que cumplan todas las siguientes">
 <!ENTITY matchAll.accesskey "a">
 <!ENTITY matchAny.label     "Que cumplan cualquiera de las siguientes">
-<!ENTITY matchAny.accesskey "o">
+<!ENTITY matchAny.accesskey "a">
 <!ENTITY matchAllMsgs.label     "Todos los mensajes">
 <!ENTITY matchAllMsgs.accesskey "m">
 <!-- LOCALIZATION NOTE
