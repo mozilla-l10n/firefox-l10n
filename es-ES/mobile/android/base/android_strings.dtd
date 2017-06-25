@@ -54,11 +54,14 @@
 <!ENTITY bookmark_removed "Marcador eliminado">
 <!ENTITY bookmark_updated "Marcador añadido">
 <!ENTITY bookmark_options "Opciones">
+<!ENTITY bookmark_save "Guardar">
 <!ENTITY screenshot_added_to_bookmarks "Captura añadida a marcadores">
 <!ENTITY screenshot_folder_label_in_bookmarks "Capturas">
 <!ENTITY readinglist_smartfolder_label_in_bookmarks "Lista de lectura">
 <!ENTITY bookmark_folder_items "&formatD; elementos">
 <!ENTITY bookmark_folder_one_item "1 elemento">
+<!ENTITY bookmark_parent_folder "Carpeta padre">
+<!ENTITY bookmark_add_folder "Añadir carpeta nueva">
 <!ENTITY reader_saved_offline "Guardado sin conexión">
 <!ENTITY reader_switch_to_bookmarks "Cambiar">
 <!ENTITY history_today_section "Hoy">
@@ -123,7 +126,7 @@
 <!ENTITY pref_developer_remotedebugging_usb "Depuración remota USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Depuración remota wifi">
 <!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "La depuración wifi requiere que su dispositivo tenga una aplicación lectora de códigos QR instalada.">
-<!ENTITY pref_remember_signons2 "Recordar credenciales">
+<!ENTITY pref_remember_signons2 "Recordar cuentas">
 <!ENTITY pref_manage_logins "Administrar inicios de sesión">
 <!ENTITY pref_category_home "Inicio">
 <!ENTITY pref_category_home_summary "Personalizar su página de inicio">
@@ -133,6 +136,7 @@
 <!ENTITY pref_home_updates_enabled "Activadas">
 <!ENTITY pref_home_updates_wifi "Sólo bajo Wi-Fi">
 <!ENTITY pref_category_home_homepage "Página de inicio">
+<!ENTITY home_homepage_every_new_tab "Usar también para pestañas nuevas">
 <!ENTITY home_homepage_title "Establecer una página de inicio">
 <!ENTITY home_homepage_radio_default "Página de inicio de &brandShortName;">
 <!ENTITY home_homepage_radio_user_address "Personalizado">
@@ -169,9 +173,12 @@
 <!ENTITY pref_whats_new_notification_summary "Conoza las nuevas funciones tras una actualización">
 <!ENTITY pref_category_experimental "Características experimentales">
 <!ENTITY pref_custom_tabs "Pestañas personalizadas">
-<!ENTITY pref_custom_tabs_summary3 "Permitir a apps abrir webs usando una versión personalizada de &brandShortName;">
+<!ENTITY pref_custom_tabs_summary3 "Permitir a las aplicaciones abrir sitios web usando una versión personalizada de &brandShortName;">
+<!ENTITY custom_tabs_menu_item_open_in "Abrir en &formatS;">
+<!ENTITY custom_tabs_menu_footer "Basado en &brandShortName;">
+<!ENTITY custom_tabs_hint_url_copy "URL copiada">
 <!ENTITY pref_activity_stream "Flujo de actividad">
-<!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que estás buscando en &brandShortName;.">
+<!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que está buscando en &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
 <!ENTITY tracking_protection_prompt_text "Bloquear activamente los elementos de rastreo para que no tenga que preocuparse.">
 <!ENTITY tracking_protection_prompt_tip_text "Visite los ajustes de privacidad para más información">
@@ -206,18 +213,11 @@
 <!ENTITY pref_plugins_enabled "Activados">
 <!ENTITY pref_plugins_tap_to_play2 "Tocar para reproducir">
 <!ENTITY pref_plugins_disabled "Desactivados">
-<!ENTITY pref_text_size "Tamaño del texto">
 <!ENTITY pref_restore_tabs "Restaurar pestañas">
 <!ENTITY pref_restore_always "Restaurar siempre">
 <!ENTITY pref_restore_quit "No restaurar tras salir de &brandShortName;">
-<!ENTITY pref_font_size_tiny "Diminuto">
-<!ENTITY pref_font_size_small "Pequeño">
-<!ENTITY pref_font_size_medium "Mediano">
-<!ENTITY pref_font_size_large "Grande">
-<!ENTITY pref_font_size_xlarge "Extra grande">
-<!ENTITY pref_font_size_set "Usar">
-<!ENTITY pref_font_size_adjust_char "r">
-<!ENTITY pref_font_size_preview_text "El veloz zorro naranja supera sus expectativas con más velocidad, flexibilidad y seguridad. No tener ánimo de lucro nos hace libres de innovar para usted sin presiones ni compromisos. Esto quiere decir una mejor experiencia para usted y un mejor futuro para la web.">
+<!ENTITY pref_use_system_font_size "Usar tamaño de letra del sistema">
+<!ENTITY pref_use_system_font_size_summary "Escalar contenido web de acuerdo al tamaño de letra del sistema">
 <!ENTITY pref_media_autoplay_enabled "Permitir autorreproducción">
 <!ENTITY pref_media_autoplay_enabled_summary "Controla si los sitios web pueden autorreproducir vídeos y otro contenido de medios">
 <!ENTITY pref_zoom_force_enabled "Activar siempre tamaño personalizado">
@@ -228,7 +228,7 @@
 <!ENTITY pref_qrcode_enabled_summary2 "Permitir escáner QR en la barra URL">
 <!ENTITY pref_use_master_password "Usar contraseña maestra">
 <!ENTITY pref_sync2 "Conectarse">
-<!ENTITY pref_sync_summary2 "Sincronice sus pestañas, marcadores, credenciales, historial">
+<!ENTITY pref_sync_summary2 "Sincronice sus pestañas, marcadores, cuentas, historial">
 <!ENTITY pref_search_suggestions "Mostrar sugerencias de búsqueda">
 <!ENTITY pref_history_search_suggestions "Mostrar historial de búsquedas">
 <!ENTITY pref_import_options "Opciones de importación">
@@ -238,7 +238,7 @@
 <!ENTITY pref_private_data_searchHistory "Historial de búsquedas">
 <!ENTITY pref_private_data_formdata2 "Historial de formularios">
 <!ENTITY pref_private_data_cookies2 "Cookies y sesiones activas">
-<!ENTITY pref_private_data_passwords2 "Credenciales guardadas">
+<!ENTITY pref_private_data_passwords2 "Cuentas guardadas">
 <!ENTITY pref_private_data_cache "Caché">
 <!ENTITY pref_private_data_offlineApps "Datos de sitios web sin conexión">
 <!ENTITY pref_private_data_siteSettings2 "Configuración de sitios">
@@ -312,6 +312,7 @@
 <!ENTITY contextmenu_open_private_tab "Abrir en una pestaña privada">
 <!ENTITY contextmenu_remove "Eliminar">
 <!ENTITY contextmenu_add_to_launcher "Añadir a pantalla inicio">
+<!ENTITY contextmenu_set_as_homepage "Establecer como página de inicio">
 <!ENTITY contextmenu_share "Compartir">
 <!ENTITY contextmenu_pasteandgo "Pegar e ir">
 <!ENTITY contextmenu_paste "Pegar">
@@ -324,7 +325,7 @@
 <!ENTITY contextmenu_top_sites_unpin "Soltar sitio">
 <!ENTITY contextmenu_add_search_engine "Añadir un buscador">
 <!ENTITY doorhanger_login_no_username "[Sin nombre]">
-<!ENTITY doorhanger_login_edit_title "Editar credencial">
+<!ENTITY doorhanger_login_edit_title "Editar cuenta">
 <!ENTITY doorhanger_login_edit_username_hint "Nombre de usuario">
 <!ENTITY doorhanger_login_edit_password_hint "Contraseña">
 <!ENTITY doorhanger_login_edit_toggle "Mostrar contraseña">
@@ -332,8 +333,6 @@
 <!ENTITY doorhanger_login_select_toast_copy "Contraseña copiada al portapapeles">
 <!ENTITY doorhanger_login_select_action_text "Seleccionar otro inicio de sesión">
 <!ENTITY doorhanger_login_select_title "Copiar contraseña de">
-<!ENTITY pref_magnifying_glass_enabled "Aumentar áreas pequeñas">
-<!ENTITY pref_magnifying_glass_enabled_summary2 "Hacer más grandes los enlaces y campos de formularios al tocar cerca de ellos">
 <!ENTITY pref_scroll_title_bar2 "Navegación en pantalla completa">
 <!ENTITY pref_scroll_title_bar_summary2 "Ocultar la barra de herramientas de &brandShortName; al bajar por una página">
 <!ENTITY pref_tab_queue_title3 "Pestañas en cola">
@@ -345,6 +344,7 @@
 <!ENTITY bookmark_edit_name "Nombre">
 <!ENTITY bookmark_edit_location "Dirección">
 <!ENTITY bookmark_edit_keyword "Palabra clave">
+<!ENTITY bookmark_select_folder "Seleccionar carpeta">
 <!ENTITY site_settings_title3 "Configuración del sitio">
 <!ENTITY site_settings_cancel "Cancelar">
 <!ENTITY site_settings_clear "Limpiar">
@@ -437,14 +437,13 @@
 <!ENTITY guest_session_dialog_continue "Continuar">
 <!ENTITY guest_session_dialog_cancel "Cancelar">
 <!ENTITY new_guest_session_title "&brandShortName; se reiniciará ahora">
-<!ENTITY new_guest_session_text2 "La persona que lo use no podrá ver ninguno de sus datos personales de navegación (como credenciales, historial y marcadores guardados).\n\nCuando su invitado termine, sus datos de navegación serán eliminados y se restaurará su sesión.">
+<!ENTITY new_guest_session_text2 "La persona que lo use no podrá ver ninguno de sus datos personales de navegación (como cuentas, historial y marcadores guardados).\n\nCuando su invitado termine, sus datos de navegación serán eliminados y se restaurará su sesión.">
 <!ENTITY guest_browsing_notification_title "La navegación de invitado está activada">
 <!ENTITY guest_browsing_notification_text "Toque para salir">
 <!ENTITY exit_guest_session_title "&brandShortName; se reiniciará ahora">
 <!ENTITY exit_guest_session_text "Los datos de navegación de esta sesión serán eliminados.">
 <!ENTITY ellipsis "…">
 <!ENTITY colon ":">
-<!ENTITY percent "&formatS;&#037;&#037;">
 <!ENTITY actionbar_menu "Menú">
 <!ENTITY actionbar_done "Terminar">
 <!ENTITY voicesearch_prompt "Hable ahora">
