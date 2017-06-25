@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "היסטוריה">
+<!ENTITY  permissions.label             "הרשאות">
 
 <!ENTITY  locationBar.label             "סרגל המיקום">
 
