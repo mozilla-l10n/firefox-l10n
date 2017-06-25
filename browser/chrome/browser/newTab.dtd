@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Filă nouă">
-
+<!ENTITY newtab.customize.classic "Afișează site-urile de top">
 <!ENTITY newtab.customize.cog.enhanced "Include site-urile sugerate">
 <!ENTITY newtab.customize.cog.title2 "CONTROALE PENTRU FILĂ NOUĂ">
 <!ENTITY newtab.customize.cog.learn "Află despre fila nouă">
