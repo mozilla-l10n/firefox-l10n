@@ -5,7 +5,7 @@
 <!ENTITY addButton.label      "Afegeix un contenidor nou">
 <!ENTITY addButton.accesskey  "A">
 <!ENTITY preferencesButton.label "Preferències">
-
+<!ENTITY removeButton.label   "Elimina">
 <!-- &#171; is &laquo; however it's not defined in XML -->
 <!ENTITY backLink.label       "&#171; Torna a Privadesa">
 

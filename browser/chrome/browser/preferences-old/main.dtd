@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Permet que el &brandShortName; i el Firefox s'executin alhora">
 <!ENTITY useFirefoxSync.label             "Consell: Aquesta funcionalitat utilitza perfils separats. Utilitzeu el Sync per sincronitzar dades entre ells.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Inicia la sessió al &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Obre les preferències del &syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Activa el mode multiprocés del &brandShortName;">

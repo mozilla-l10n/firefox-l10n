@@ -132,7 +132,7 @@ available. -->
 <!ENTITY certificateTab.label            "Certificats">
 <!ENTITY certPersonal2.description       "Quan un servidor demani el meu certificat personal">
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
-<!ENTITY selectCerts.auto.accesskey      "D">
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Demana-ho cada vegada">
 <!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">

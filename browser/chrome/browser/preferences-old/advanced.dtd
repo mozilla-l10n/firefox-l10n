@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "L'informe de dades està desactivat en la configuració d'aquesta versió">
+
 <!ENTITY healthReportDesc.label          "Us ajuda a entendre el rendiment del navegador i comparteix dades amb &vendorShortName; sobre la salut del navegador">
 <!ENTITY enableHealthReport.label        "Activa l'informe de salut del &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
@@ -117,9 +119,9 @@ available. -->
 <!ENTITY certPersonal.label              "Sol·licituds">
 <!ENTITY certPersonal.description        "Quan un servidor demani el meu certificat personal:">
 <!ENTITY selectCerts.auto                "Selecciona'n un automàticament">
-
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Demana-ho cada vegada">
-
+<!ENTITY selectCerts.ask.accesskey       "D">
 <!ENTITY enableOCSP.label                "Consulta els servidors de resposta OCSP per confirmar la validesa actual dels certificats">
 <!ENTITY enableOCSP.accesskey            "C">
 <!ENTITY viewCerts.label                 "Visualitza els certificats">
@@ -129,13 +131,13 @@ available. -->
 
 <!ENTITY performance.label               "Rendiment">
 <!ENTITY useRecommendedPerformanceSettings.label "Utilitza els paràmetres de rendiment recomanats">
-
+<!ENTITY useRecommendedPerformanceSettings.description "Aquests paràmetres estan personalitzats per al maquinari i sistema operatiu del vostre ordinador.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "Més informació">
 <!ENTITY limitContentProcessOption.label "Límit de processos de contingut">
 <!ENTITY limitContentProcessOption.description "Més processos de contingut poden millorar el rendiment quan utilitzeu diverses pestanyes, però també utilitzaran més memòria.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY limitContentProcessOption.disabledDescription "El nombre de processos de contingut només es pot modificar amb el &brandShortName; multiprocés.">
-
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Més informació sobre com comprovar si el multiprocés està activat.">
 <!ENTITY allowHWAccel.label              "Utilitza l'acceleració de maquinari quan sigui disponible">
 <!ENTITY allowHWAccel.accesskey          "r">
