@@ -617,7 +617,7 @@ items are mutually exclusive. -->
 items are mutually exclusive. -->
 <!ENTITY mediaMute.label             "Mudo">
 <!ENTITY mediaMute.accesskey         "M">
-<!ENTITY mediaUnmute.label           "Unmute">
+<!ENTITY mediaUnmute.label           "Activar el sonido">
 <!ENTITY mediaUnmute.accesskey       "m">
 <!ENTITY mediaPlaybackRate2.label     "Velocidad de reproducción">
 <!ENTITY mediaPlaybackRate2.accesskey "d">
