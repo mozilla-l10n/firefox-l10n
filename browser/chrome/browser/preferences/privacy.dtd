@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Sejarah">
+<!ENTITY  permissions.label             "Keizinan">
 
 <!ENTITY  locationBar.label             "Bar Lokasi">
 
