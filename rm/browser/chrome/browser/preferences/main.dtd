@@ -4,10 +4,13 @@
 
 <!ENTITY startup.label             "Aviar">
 
+<!ENTITY startupPage2.label        "Cura che &brandShortName; vegn avià">
 <!ENTITY startupUserHomePage.label "Mussar la pagina da partenza">
 <!ENTITY startupBlankPage.label    "Mussar ina pagina vida">
 <!ENTITY startupPrevSession.label  "Mussar las fanestras ed ils tabs da l'ultima sesida">
 
+<!ENTITY homepage2.label           "Pagina da partenza">
+<!ENTITY homepage2.accesskey       "P">
 <!ENTITY useCurrentPage.label      "Utilisar la pagina actuala">
 <!ENTITY useCurrentPage.accesskey  "g">
 <!ENTITY useMultiple.label         "Utilisar las paginas actualas">

@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Fanestras pop-up">
 
 <!ENTITY  blockPopups.label           "Bloccar fanestras pop-up">
 <!ENTITY  blockPopups.accesskey       "p">
@@ -21,6 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Scrittiras &amp; colurs">
 
+<!ENTITY  defaultFont2.label          "Scrittira da standard">
+<!ENTITY  defaultFont2.accesskey      "S">
+<!ENTITY  defaultSize2.label          "Grondezza">
+<!ENTITY  defaultSize2.accesskey      "G">
 
 <!ENTITY  advancedFonts.label         "Extendì…">
 <!ENTITY  advancedFonts.accesskey     "d">
