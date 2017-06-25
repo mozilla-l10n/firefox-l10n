@@ -20,9 +20,12 @@
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
+<!ENTITY articleExpired.title "L’article a peut-être expiré ?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+<!ENTITY trySearching.title "Essayez de rechercher cet article :">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Supprimer tous les articles ayant expiré">
