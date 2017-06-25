@@ -213,6 +213,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "Avrir la panela per memorisar pleds-clav">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Administrar l'utilisaziun da plug-ins">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Definir sche ti vuls retschaiver notificaziuns da la pagina">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Memorisar datas en la memoria permanenta">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Il navigatur vegn controllà a distanza">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Administrar la cundivisiun da la camera/dal microfon cun la pagina">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Administrar la cundivisiun dal microfon cun la pagina">
@@ -451,6 +453,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Term da tschertgar">
 <!ENTITY contentSearchSubmit.tooltip  "Trametter la tschertga">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
