@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "„Firefox“ paskyros">
 <!ENTITY aboutAccounts.connected.description "Esate prisijungę kaip">
-<!ENTITY aboutAccounts.syncPreferences.label "Bakstelėkite čia, norėdami patikrinti „Sync“ nuostatas">
+<!ENTITY aboutAccounts.syncPreferences.label "Bakstelėkite čia, norėdami patikrinti „Sync“ nustatymus">
 
 <!ENTITY aboutAccounts.noConnection.title "Nėra ryšio su internetu">
 <!ENTITY aboutAccounts.retry.label "Bandyti vėl">
