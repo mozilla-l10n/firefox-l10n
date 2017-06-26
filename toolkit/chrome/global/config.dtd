@@ -28,11 +28,11 @@
 
 <!-- Context Menu -->
 <!ENTITY copyPref.key "C">
-<!ENTITY copyPref.label "კოპირება">
+<!ENTITY copyPref.label "დაკოპირება">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY copyName.label "სახელის კოპირება">
+<!ENTITY copyName.label "სახელის დაკოპირება">
 <!ENTITY copyName.accesskey "N">
-<!ENTITY copyValue.label "მნიშვნელობის კოპირება">
+<!ENTITY copyValue.label "მნიშვნელობის დაკოპირება">
 <!ENTITY copyValue.accesskey "V">
 <!ENTITY modify.label "შეცვლა">
 <!ENTITY modify.accesskey "M">

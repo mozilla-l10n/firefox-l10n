@@ -13,7 +13,7 @@
 <!ENTITY cutCmd.label              "ამოჭრა">
 <!ENTITY cutCmd.key                "X">
 <!ENTITY cutCmd.accesskey          "ა">
-<!ENTITY copyCmd.label             "კოპირება">
+<!ENTITY copyCmd.label             "დაკოპირება">
 <!ENTITY copyCmd.key               "C">
 <!ENTITY copyCmd.accesskey         "კ">
 <!ENTITY pasteCmd.label            "ჩასმა">

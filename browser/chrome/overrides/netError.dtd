@@ -18,7 +18,7 @@
 <!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "სერვერი ვერ მოიძებნა">
+<!ENTITY dnsNotFound.title "გვერდი ვერ მოიძებნა">
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>შეამოწმეთ, ხომ არაა მისამართი მცდარი. მაგალითად, 
 <strong>ww</strong>.example.com instead of 
@@ -55,9 +55,9 @@
 <!ENTITY malformedURI.title "მისამართი არასწორია">
 <!ENTITY malformedURI.longDesc "
 <ul>
-  <li>ვებ მისამართი ჩვეულებრივ ამგვარად გამოიყურება
+  <li>საიტის მისამართები, ჩვეულებრივ, ასე იწერება
     <strong>http://www.example.com/</strong></li>
-  <li>გადაამოწმეთ, რომ მარჯვნივ დახრილ ხაზებს იყენებთ (ანუ ასეთს
+  <li>დარწმუნდით, რომ წინ გადახრილ ხაზებს იყენებთ (ანუ, ასეთს
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -116,7 +116,7 @@
 <!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>ამ ხარვეზს ზოგჯერ იწვევს გამორთვა ან საიტებისთვის აკრძალვა
+  <li>ამ ხარვეზს, ზოგჯერ იწვევს უარყოფა, ან გამორთვა
     ფუნთუშების.</li>
 </ul>
 ">
@@ -182,7 +182,7 @@ was trying to connect. -->
 Strict Transport Security (HSTS) რათა მიუთითოთ, რომ &brandShortName; დაუკავშირდეს მხოლოდ 
 დაცულად. შედეგად, შეუძლებელია ამ სერტიფიკატისთვის გამონაკლისის 
 დამატება.">
-<!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში კოპირება">
+<!ENTITY certerror.copyToClipboard.label "ტექსტის ბუფერში დაკოპირება">
 
 <!ENTITY inadequateSecurityError.title "თქვენი კავშირი დაუცველია">
 <!-- LOCALIZATION NOTE (inadequateSecurityError.longDesc) - Do not translate

@@ -4,7 +4,7 @@
 
 <!ENTITY cutCmd.label "ამოჭრა">
 <!ENTITY cutCmd.accesskey "ა">
-<!ENTITY copyCmd.label "კოპირება">
+<!ENTITY copyCmd.label "დაკოპირება">
 <!ENTITY copyCmd.accesskey "კ">
 <!ENTITY pasteCmd.label "ჩასმა">
 <!ENTITY pasteCmd.accesskey "ჩ">

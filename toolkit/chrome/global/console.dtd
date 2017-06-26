@@ -25,7 +25,7 @@
 <!ENTITY filter2.label      "ფილტრი:">
 <!ENTITY filter2.accesskey  "F">
 
-<!ENTITY copyCmd.label       "კოპირება">  
+<!ENTITY copyCmd.label       "დაკოპირება">  
 <!ENTITY copyCmd.accesskey   "კ"> 
 <!ENTITY copyCmd.commandkey  "C"> 
 <!ENTITY sortFirst.label     "პირველი > ბოლო სორტირება">

@@ -114,8 +114,8 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "ინსტალაციის ისტორია">
 <!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "ტექსტის ბუფერში კოპირება">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში კოპირება">
+<!ENTITY aboutSupport.copyTextToClipboard.label "დატექსტის ბუფერში კოპირება">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "ნედლი მონაცემების ბუფერში დაკოპირება">
 
 <!ENTITY aboutSupport.sandboxTitle "იზოლირებული გარემო">
 <!ENTITY aboutSupport.sandboxSyscallLogTitle "სისტემის უარყოფილი გამოძახებები">

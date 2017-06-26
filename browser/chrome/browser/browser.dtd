@@ -302,7 +302,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.label           "ამოჭრა">  
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "ა"> 
-<!ENTITY copyCmd.label            "კოპირება">  
+<!ENTITY copyCmd.label            "დაკოპირება">  
 <!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "კ"> 
 <!ENTITY pasteCmd.label           "ჩასმა">  
@@ -589,17 +589,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY playPluginCmd.accesskey      "ჩ">
 <!ENTITY hidePluginCmd.label          "ამ მოდულის დამალვა">
 <!ENTITY hidePluginCmd.accesskey      "დ">
-<!ENTITY copyLinkCmd.label            "ბმულის კოპირება">
+<!ENTITY copyLinkCmd.label            "ბმულის დაკოპირება">
 <!ENTITY copyLinkCmd.accesskey        "ბ">
-<!ENTITY copyImageCmd.label           "სურათის მისამართის კოპირება">
+<!ENTITY copyImageCmd.label           "სურათის მისამართის დაკოპირება">
 <!ENTITY copyImageCmd.accesskey       "კ">
-<!ENTITY copyImageContentsCmd.label   "სურათის კოპირება">
+<!ENTITY copyImageContentsCmd.label   "სურათის დაკოპირება">
 <!ENTITY copyImageContentsCmd.accesskey  "ს"> 
-<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის კოპირება">
+<!ENTITY copyVideoURLCmd.label        "ვიდეოს მისამართის დაკოპირება">
 <!ENTITY copyVideoURLCmd.accesskey    "კ">
-<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის კოპირება">
+<!ENTITY copyAudioURLCmd.label        "აუდიოს მისამართის დაკოპირება">
 <!ENTITY copyAudioURLCmd.accesskey    "კ">
-<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის კოპირება">
+<!ENTITY copyEmailCmd.label           "ელფოსტის მისამართის დაკოპირება">
 <!ENTITY copyEmailCmd.accesskey       "ე">
 <!ENTITY thisFrameMenu.label              "ეს ჩარჩო">
 <!ENTITY thisFrameMenu.accesskey          "ჩ">
@@ -813,7 +813,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "პ">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "ჩანართის ჩანიშვნა…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "ჩ">
-<!ENTITY syncedTabs.context.copy.label                       "კოპირება">
+<!ENTITY syncedTabs.context.copy.label                       "დაკოპირება">
 <!ENTITY syncedTabs.context.copy.accesskey                   "კ">
 
 <!ENTITY syncedTabs.context.openAllInTabs.label              "ყველას ჩანართებში გახსნა">
