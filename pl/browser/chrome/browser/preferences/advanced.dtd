@@ -72,20 +72,20 @@
 
 <!ENTITY updateTab.label                 "Aktualizacja">
 <!ENTITY updateApplication.label "Aktualizacje programu &brandShortName;">
-<!ENTITY updateAuto1.label               "Instaluj aktualizacje automatycznie (zalecane: większe bezpieczeństwo)">
-<!ENTITY updateAuto1.accesskey "">
-<!ENTITY updateCheckChoose.label "Sprawdzaj dostępność aktualizacji, ale wymagaj potwierdzenia ich instalacji">
-<!ENTITY updateCheckChoose.accesskey "">
-<!ENTITY updateManual.label              "Nie sprawdzaj dostępności aktualizacji (niezalecane: zagrożenie bezpieczeństwa)">
-<!ENTITY updateManual.accesskey "">
-<!ENTITY updateHistory.label             "Wyświetl historię aktualizacji">
-<!ENTITY updateHistory.accesskey "">
+<!ENTITY updateApplication.description "Zezwalaj programowi &brandShortName; na:">
+<!ENTITY updateAuto2.label "Automatyczne instalowanie aktualizacji (zalecane dla większego bezpieczeństwa)">
+<!ENTITY updateAuto2.accesskey "">
+<!ENTITY updateCheckChoose2.label "Sprawdzanie dostępności aktualizacji i pytania o ich instalację">
+<!ENTITY updateCheckChoose2.accesskey "">
+<!ENTITY updateManual2.label "Niesprawdzanie dostępności aktualizacji (niezalecane)">
+<!ENTITY updateManual2.accesskey "">
+<!ENTITY updateHistory2.label "Wyświetl historię aktualizacji…">
+<!ENTITY updateHistory2.accesskey "">
 <!ENTITY useService.label                "Używaj usługi instalowania aktualizacji działającej w tle">
 <!ENTITY useService.accesskey "">
 
-<!ENTITY autoUpdateOthers.label "Aktualizacje automatyczne">
-<!ENTITY enableSearchUpdate.label "Wyszukiwarki">
-<!ENTITY enableSearchUpdate.accesskey "">
+<!ENTITY enableSearchUpdate2.label "Automatyczne aktualizacje wyszukiwarek">
+<!ENTITY enableSearchUpdate2.accesskey "">
 
 <!ENTITY reports.label "Raporty">
 
