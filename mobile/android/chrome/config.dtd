@@ -17,5 +17,5 @@
 <!ENTITY newPref.toggleButton          "ბერკეტი">
 <!ENTITY newPref.cancelButton          "გაუქმება">
 
-<!ENTITY contextMenu.copyPrefName      "სახელის კოპირება">
-<!ENTITY contextMenu.copyPrefValue     "მნიშვნელობის კოპირება">
+<!ENTITY contextMenu.copyPrefName      "სახელის დაკოპირება">
+<!ENTITY contextMenu.copyPrefValue     "მნიშვნელობის დაკოპირება">
