@@ -21,8 +21,8 @@
 <!ENTITY responsiveDesignTool.accesskey  "r">
 <!ENTITY responsiveDesignTool.commandkey "M">
 
-<!ENTITY eyedropper.label                "Eyedropper">
-<!ENTITY eyedropper.accesskey            "y">
+<!ENTITY eyedropper.label                "Selecionador de cores">
+<!ENTITY eyedropper.accesskey            "e">
 <!-- LOCALIZATION NOTE (scratchpad.label): This menu item label appears
   -  in the Tools menu. See bug 653093.
   -  The Scratchpad is intended to provide a simple text editor for creating
