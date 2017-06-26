@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "इतिहास">
-
+<!ENTITY  permissions.label             "परवानग्या">
 
 <!ENTITY  locationBar.label             "ठिकाण पट्टी">
 
