@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "التأريخ">
-
+<!ENTITY  permissions.label             "الصلاحيات">
 
 <!ENTITY  locationBar.label             "شريط العناوين">
 
