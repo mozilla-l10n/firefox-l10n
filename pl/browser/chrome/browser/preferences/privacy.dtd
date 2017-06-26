@@ -4,11 +4,13 @@
 
 <!ENTITY tracking.label "Śledzenie">
 <!ENTITY trackingProtectionHeader2.label "Ochrona przed śledzeniem">
-<!ENTITY trackingProtectionAlways.label "Zawsze włączona">
+<!ENTITY trackingProtection.description "Śledzenie to zbieranie przez firmy informacji o Tobie w celu profilowania i wyświetlania treści na podstawie Twojego przeglądania i osobistych danych.">
+<!ENTITY trackingProtection.radioGroupLabel "Blokuj wyświetlanie treści znanych firm stosujących śledzenie:">
+<!ENTITY trackingProtectionAlways.label "Zawsze">
 <!ENTITY trackingProtectionAlways.accesskey "">
 <!ENTITY trackingProtectionPrivate.label "W oknach prywatnych">
 <!ENTITY trackingProtectionPrivate.accesskey "">
-<!ENTITY trackingProtectionNever.label "Wyłączona">
+<!ENTITY trackingProtectionNever.label "Nigdy">
 <!ENTITY trackingProtectionNever.accesskey "">
 <!ENTITY trackingProtectionLearnMore.label "Więcej informacji">
 <!ENTITY trackingProtectionExceptions.label "Wyjątki…">
@@ -25,7 +27,7 @@
 <!ENTITY doNotTrack.post.label ".">
 
 <!ENTITY locationBar.label "Pasek adresu">
-<!ENTITY locbar.suggest.label "Podpowiedzi w pasku adresu opieraj na:">
+<!ENTITY locbar.suggest2.label "Podpowiedzi w pasku adresu opieraj na:">
 <!ENTITY locbar.history.label "historii">
 <!ENTITY locbar.history.accesskey "">
 <!ENTITY locbar.bookmarks.label "zakładkach">
@@ -35,12 +37,12 @@
 <!ENTITY locbar.searches.label "podpowiedziach wyszukiwania">
 <!ENTITY locbar.searches.accesskey "">
 
-<!ENTITY suggestionSettings.label "Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki…">
+<!ENTITY suggestionSettings2.label "Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki">
 <!ENTITY suggestionSettings.accesskey "">
 
 <!ENTITY history.label "Historia">
-<!ENTITY historyHeader.pre.label "Program &brandShortName;:">
-<!ENTITY historyHeader.pre.accesskey "">
+<!ENTITY historyHeader2.pre.label "Program &brandShortName;:">
+<!ENTITY historyHeader2.pre.accesskey "">
 <!ENTITY historyHeader.remember.label "będzie zachowywał historię">
 <!ENTITY historyHeader.dontremember.label "nie będzie zachowywał historii">
 <!ENTITY historyHeader.custom.label "będzie używał ustawień użytkownika">

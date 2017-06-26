@@ -101,7 +101,7 @@
 <!ENTITY offlineAppRemove.confirm        "Usuń dane trybu offline">
 
 <!ENTITY certificateTab.label            "Certyfikaty">
-<!ENTITY certPersonal.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
+<!ENTITY certPersonal2.description "Kiedy serwer żąda osobistego certyfikatu użytkownika:">
 <!ENTITY selectCerts.auto "wybierz certyfikat automatycznie">
 <!ENTITY selectCerts.auto.accesskey "">
 <!ENTITY selectCerts.ask "pytaj za każdym razem">
