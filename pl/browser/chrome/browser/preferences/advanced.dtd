@@ -21,8 +21,6 @@
 <!ENTITY useAutoScroll.accesskey "">
 <!ENTITY useSmoothScrolling.label        "Używaj płynnego przewijania">
 <!ENTITY useSmoothScrolling.accesskey "">
-<!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
-<!ENTITY allowHWAccel.accesskey "">
 <!ENTITY checkUserSpelling.label "Sprawdzaj pisownię podczas wprowadzania tekstu">
 <!ENTITY checkUserSpelling.accesskey "">
 
@@ -112,3 +110,13 @@
 <!ENTITY viewCerts.accesskey "">
 <!ENTITY viewSecurityDevices.label       "Urządzenia zabezpieczające">
 <!ENTITY viewSecurityDevices.accesskey "">
+
+<!ENTITY performance.label "Wydajność">
+<!ENTITY useRecommendedPerformanceSettings.label "Rekomendowane ustawienia wydajności">
+<!ENTITY useRecommendedPerformanceSettings.description "Rekomendowane ustawienia wydajności są specjalnie dostosowane do tego komputera.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "">
+<!ENTITY limitContentProcess.label "Limit liczby procesów treści:">
+<!ENTITY limitContentProcess.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach ale będzie również potrzebował więcej pamięci.">
+<!ENTITY limitContentProcess.accesskey "">
+<!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
+<!ENTITY allowHWAccel.accesskey "">
