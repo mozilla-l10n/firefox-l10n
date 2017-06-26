@@ -434,6 +434,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "အကြံပြုချက်။">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "ရှာဖွေရာမှာ အကူအညီလိုပါသလား။ ရှာဖွေရေးအကြံပြုချက်များဘေးရှိ &#x1F50E; ကို အသုံးပြုပါ။">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "အပြင်အဆင်များကို ပြောင်းလဲရန်…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "နှစ်သက်ရာ အပြင်အဆင်များကို ပြောင်းလဲပါ…">
@@ -845,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "မူလအတိုင်း သတ်မှတ်ပါ">
 <!ENTITY customizeMode.done "ပြီးပြီ">
 <!ENTITY customizeMode.titlebar "ခေါင်းစီး ဘား">
+<!ENTITY customizeMode.toolbars2 "ကိရိယာတန်းများ">
 <!ENTITY customizeMode.lwthemes "အခင်းအကျင်းများ">
 <!ENTITY customizeMode.lwthemes.myThemes "ကျွန်ုပ်၏ အခင်းအကျင်းများ">
 <!ENTITY customizeMode.lwthemes.recommended "အကြုံပြုထားသည့်အရာများ">
@@ -953,11 +955,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "အသစ်စက်စက် &brandShorterName; ကို ဆွဲယူပါ">
 
 <!ENTITY updateRestart.message "အမြန် ပြန်လည်စတင်ပြီးသည့်နောက်တွင် &brandShorterName; သည် ဖွင့်ထားခဲ့သော တပ်ဗ်များနှင့် ဝင်းဒိုးများကို ပြန်ဖွင့်ပေးပါမည်။">
-<!ENTITY updateRestart.header.message2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ရန်">
+<!ENTITY updateRestart.header.message2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.label "ပြန်စတင်ပြီး ကြည့်ရှုထားခဲ့သည်များကို ပြန်ဖွင့်ပါ။">
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ယခု မဆောင်ရွက်သေးပါ">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; ကို အဆင့်မြှင့်ရန် ပြန်ဖွင့်ပါ">
 
 <!ENTITY pageActionButton.tooltip "စာမျက်နှာရှိ ဆောင်ရွက်နိုင်သည်များ">
 
+<!ENTITY sendToDevice.label "ကိရိယာသို့ ပို့ပါ…">
+<!ENTITY sendToDevice.viewTitle "ကိရိယာသို့ ပို့ပါ">
+<!ENTITY sendToDevice.fxaRequired.label "လိုအပ်သည်">
+<!ENTITY sendToDevice.noDevices.label "မည်သည့်ကိရိယာမျှ မရှိပါ">
+<!ENTITY sendToDevice.syncNotReady.label "ကိရိယာများကို ထပ်တူပြုနေသည်…">
