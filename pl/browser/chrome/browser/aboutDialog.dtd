@@ -6,7 +6,7 @@
 
 <!ENTITY update.checkForUpdatesButton.label "Sprawdź dostępność aktualizacji">
 <!ENTITY update.checkForUpdatesButton.accesskey "S">
-<!ENTITY update.updateButton.label2 "Uruchom ponownie, aby uaktualnić">
+<!ENTITY update.updateButton.label3 "Uruchom ponownie program &brandShortName;, aby go uaktualnić">
 <!ENTITY update.updateButton.accesskey "U">
 
 <!ENTITY warningDesc.version "Program &brandShortName; jest wersją rozwojową i może być niestabilny.">
@@ -58,5 +58,5 @@
 
 <!ENTITY update.applying            "Instalowanie aktualizacji…">
 
-<!ENTITY channel.description.start  "Obecnie korzystasz z kanału aktualizacji ">
+<!ENTITY channel.description.start "Obecnie korzystasz z kanału aktualizacji ">
 <!ENTITY channel.description.end    ". ">

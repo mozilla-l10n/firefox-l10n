@@ -14,23 +14,23 @@
 <!ENTITY reloadTab.accesskey                 "d" >
 <!ENTITY reloadAllTabs.label                 "Odśwież wszystkie karty" >
 <!ENTITY reloadAllTabs.accesskey             "w" >
-<!ENTITY  closeTabsToTheEnd.label            "Zamknij karty po prawej stronie">
-<!ENTITY  closeTabsToTheEnd.accesskey        "p">
+<!ENTITY closeTabsToTheEnd.label "Zamknij karty po prawej stronie">
+<!ENTITY closeTabsToTheEnd.accesskey "p">
 <!ENTITY closeOtherTabs.label                "Zamknij inne karty" >
 <!ENTITY closeOtherTabs.accesskey            "i" >
 
-<!ENTITY  pinTab.label                       "Przypnij kartę">
-<!ENTITY  pinTab.accesskey                   "n">
-<!ENTITY  unpinTab.label                     "Odepnij kartę">
-<!ENTITY  unpinTab.accesskey                 "n">
-<!ENTITY  sendTabToDevice.label "Prześlij kartę do">
+<!ENTITY pinTab.label "Przypnij kartę">
+<!ENTITY pinTab.accesskey "n">
+<!ENTITY unpinTab.label "Odepnij kartę">
+<!ENTITY unpinTab.accesskey "n">
+<!ENTITY sendTabToDevice.label "Prześlij kartę do">
 <!ENTITY sendTabToDevice.accesskey "P">
 <!ENTITY sendPageToDevice.label "Prześlij stronę do">
 <!ENTITY sendPageToDevice.accesskey "P">
 <!ENTITY sendLinkToDevice.label "Prześlij odnośnik do">
 <!ENTITY sendLinkToDevice.accesskey "P">
-<!ENTITY  moveToNewWindow.label              "Przenieś do nowego okna">
-<!ENTITY  moveToNewWindow.accesskey          "o">
+<!ENTITY moveToNewWindow.label "Przenieś do nowego okna">
+<!ENTITY moveToNewWindow.accesskey "o">
 <!ENTITY bookmarkAllTabs.label               "Dodaj zakładki do wszystkich kart…">
 <!ENTITY bookmarkAllTabs.accesskey           "k">
 <!ENTITY undoCloseTab.label                  "Przywróć zamkniętą kartę">
@@ -38,7 +38,7 @@
 <!ENTITY closeTab.label                      "Zamknij kartę" >
 <!ENTITY closeTab.accesskey                  "a" >
 
-<!ENTITY  listAllTabs.label      "Pokaż wszystkie karty">
+<!ENTITY listAllTabs.label "Pokaż wszystkie karty">
 
 <!ENTITY tabCmd.label "Nowa karta" >
 <!ENTITY tabCmd.accesskey "t" >
@@ -214,15 +214,15 @@
 <!ENTITY toolsMenu.label "Narzędzia" >
 <!ENTITY toolsMenu.accesskey "N" >
 
-<!ENTITY keywordfield.label		"Utwórz słowo kluczowe dla tej wyszukiwarki…">
-<!ENTITY keywordfield.accesskey		"U">
+<!ENTITY keywordfield.label "Utwórz słowo kluczowe dla tej wyszukiwarki…">
+<!ENTITY keywordfield.accesskey "U">
 
 <!ENTITY downloads.label "Pobieranie plików" >
 <!ENTITY downloads.accesskey "P" >
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label		"Dodatki">
-<!ENTITY addons.accesskey		"D">
+<!ENTITY addons.label "Dodatki">
+<!ENTITY addons.accesskey "D">
 <!ENTITY addons.commandkey            "A">
 
 <!ENTITY webDeveloperMenu.label       "Dla twórców witryn">
@@ -451,7 +451,7 @@
 <!ENTITY copyImageCmd.label "Kopiuj adres obrazu">
 <!ENTITY copyImageCmd.accesskey "b" >
 <!ENTITY copyImageContentsCmd.label "Kopiuj obraz">
-<!ENTITY copyImageContentsCmd.accesskey	"r">
+<!ENTITY copyImageContentsCmd.accesskey "r">
 <!ENTITY copyVideoURLCmd.label        "Kopiuj adres wideo">
 <!ENTITY copyVideoURLCmd.accesskey    "u">
 <!ENTITY copyAudioURLCmd.label        "Kopiuj adres dźwięku">
@@ -498,14 +498,14 @@
 
 <!ENTITY fullZoomEnlargeCmd.label       "Powiększ">
 <!ENTITY fullZoomEnlargeCmd.accesskey   "w">
-<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
+<!ENTITY fullZoomEnlargeCmd.commandkey "+">
 <!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
 <!ENTITY fullZoomReduceCmd.label        "Pomniejsz">
 <!ENTITY fullZoomReduceCmd.accesskey    "m">
 <!ENTITY fullZoomReduceCmd.commandkey   "-">
-<!ENTITY fullZoomReduceCmd.commandkey2  "">
+<!ENTITY fullZoomReduceCmd.commandkey2 "">
 
 <!ENTITY fullZoomResetCmd.label         "Rozmiar pierwotny">
 <!ENTITY fullZoomResetCmd.accesskey     "R">
@@ -746,7 +746,7 @@
 <!ENTITY updateManual.panelUI.label "Pobierz świeżą kopię programu &brandShorterName;">
 
 <!ENTITY updateRestart.message "&brandShorterName; po ponownym uruchomieniu przywróci wszystkie karty i okna.">
-<!ENTITY updateRestart.header.message "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
+<!ENTITY updateRestart.header.message2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić.">
 <!ENTITY updateRestart.acceptButton.label "Uruchom i przywróć">
 <!ENTITY updateRestart.acceptButton.accesskey "U">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
