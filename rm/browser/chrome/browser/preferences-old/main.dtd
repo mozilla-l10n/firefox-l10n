@@ -5,7 +5,7 @@
 <!ENTITY startup.label             "Aviar">
 
 <!ENTITY startupPage.label         "Cura che &brandShortName; vegn avià:">
-<!ENTITY startupPage.accesskey     "S">
+<!ENTITY startupPage.accesskey     "a">
 <!ENTITY startupUserHomePage.label "Mussar la pagina da partenza">
 <!ENTITY startupBlankPage.label    "Mussar ina pagina vida">
 <!ENTITY startupPrevSession.label  "Mussar las fanestras ed ils tabs da l'ultima sesida">
