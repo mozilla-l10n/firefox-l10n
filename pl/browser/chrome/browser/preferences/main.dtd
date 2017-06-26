@@ -4,14 +4,14 @@
 
 <!ENTITY startup.label             "Uruchamianie">
 
-<!ENTITY startupPage.label         "Po uruchomieniu programu &brandShortName;:">
-<!ENTITY startupPage.accesskey "">
+<!ENTITY startupPage2.label "Po uruchomieniu programu &brandShortName;:">
+<!ENTITY startupPage2.accesskey "">
 <!ENTITY startupUserHomePage.label "wyświetl stronę startową">
 <!ENTITY startupBlankPage.label    "wyświetl pustą stronę">
 <!ENTITY startupPrevSession.label "wyświetl okna i karty z poprzedniej sesji">
 
-<!ENTITY homepage.label            "Strona startowa:">
-<!ENTITY homepage.accesskey "">
+<!ENTITY homepage2.label "Strona startowa:">
+<!ENTITY homepage2.accesskey "">
 <!ENTITY useCurrentPage.label      "Użyj bieżącej strony">
 <!ENTITY useCurrentPage.accesskey "">
 <!ENTITY useMultiple.label         "Użyj bieżących stron">
@@ -20,13 +20,13 @@
 <!ENTITY restoreDefault.label      "Przywróć domyślną">
 <!ENTITY restoreDefault.accesskey "">
 
-<!ENTITY downloads.label     		"Pobieranie">
+<!ENTITY downloads.label "Pobieranie">
 
-<!ENTITY saveTo.label 			"Pobierane pliki zapisuj do:">
+<!ENTITY saveTo.label "Pobierane pliki zapisuj do:">
 <!ENTITY saveTo.accesskey "">
-<!ENTITY chooseFolderWin.label        	"Przeglądaj…">
+<!ENTITY chooseFolderWin.label "Przeglądaj…">
 <!ENTITY chooseFolderWin.accesskey "">
-<!ENTITY chooseFolderMac.label        	"Wybierz…">
+<!ENTITY chooseFolderMac.label "Wybierz…">
 <!ENTITY chooseFolderMac.accesskey "">
 <!ENTITY alwaysAskWhere.label "Pytaj, gdzie zapisać każdy plik">
 <!ENTITY alwaysAskWhere.accesskey "">

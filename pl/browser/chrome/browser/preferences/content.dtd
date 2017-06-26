@@ -15,19 +15,19 @@
 <!ENTITY notificationsDoNotDisturb.accesskey "">
 <!ENTITY notificationsDoNotDisturbDetails.value "Powiadomienia nie będą wyświetlane do czasu ponownego uruchomienia programu &brandShortName;">
 
-<!ENTITY  popupExceptions.label       "Wyjątki…">
+<!ENTITY popupExceptions.label "Wyjątki…">
 <!ENTITY popupExceptions.accesskey "">
 
-<!ENTITY  fontsAndColors.label        "Czcionki i kolory">
-<!ENTITY  defaultFont.label           "Domyślna czcionka:">
-<!ENTITY defaultFont.accesskey "">
-<!ENTITY  defaultSize.label           "Rozmiar:">
-<!ENTITY defaultSize.accesskey "">
+<!ENTITY fontsAndColors.label "Czcionki i kolory">
+<!ENTITY defaultFont2.label "Domyślna czcionka:">
+<!ENTITY defaultFont2.accesskey "">
+<!ENTITY defaultSize2.label "Rozmiar:">
+<!ENTITY defaultSize2.accesskey "">
 
-<!ENTITY  advancedFonts.label         "Zaawansowane…">
+<!ENTITY advancedFonts.label "Zaawansowane…">
 <!ENTITY advancedFonts.accesskey "">
 
-<!ENTITY  colors.label                "Kolory…">
+<!ENTITY colors.label "Kolory…">
 <!ENTITY colors.accesskey "">
 
 <!ENTITY languages.label              "Języki">
