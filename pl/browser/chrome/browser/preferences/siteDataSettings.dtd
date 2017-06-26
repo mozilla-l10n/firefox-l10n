@@ -3,12 +3,11 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title "Ustawienia – dane stron">
-<!ENTITY settings.description "Następujące strony poprosiły o możliwość przechowywania danych. Można określić, które strony mogę przechowywać dane. Dane stron są domyślnie przechowywane tymczasowo i mogą być usuwane automatycznie.">
 <!ENTITY hostCol.label "Witryna">
 <!ENTITY statusCol.label "Status">
 <!ENTITY usageCol.label "Rozmiar">
-<!ENTITY searchPlaceHolder "Szukaj">
-<!ENTITY searchPlaceHolder.accesskey "">
+<!ENTITY searchTextboxPlaceHolder "Szukaj witryny">
+<!ENTITY searchTextboxPlaceHolder.accesskey "">
 <!ENTITY removeSelected.label "Usuń zaznaczone">
 <!ENTITY removeSelected.accesskey "">
 <!ENTITY save.label "Zapisz zmiany">
@@ -16,5 +15,5 @@
 <!ENTITY cancel.label "Anuluj">
 <!ENTITY cancel.accesskey "">
 <!ENTITY removingDialog.title "Usuwanie danych stron">
-<!ENTITY removingDialog.description "Podczas usuwania danych stron zostaną również usunięte ciasteczka. Może to spowodować wylogowanie z niektórych witryn i usunięcie treści przechowywanych offline. Czy wprowadzić poniższe zmiany?">
+<!ENTITY removingSelected.description "Podczas usuwania danych stron zostaną również usunięte powiązane z nią ciasteczka i przechowywane dane. Może to spowodować wylogowanie z niektórych witryn. Czy wprowadzić zmiany?">
 <!ENTITY siteTree.label "Ciasteczka następujących witryn zostaną usunięte:">
