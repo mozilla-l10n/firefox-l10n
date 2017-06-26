@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         "을 관리할 수 있습니다.">
 
 <!ENTITY  history.label                 "방문 기록">
+<!ENTITY  permissions.label             "권한">
 
 <!ENTITY  locationBar.label             "주소창">
 
