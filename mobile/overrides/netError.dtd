@@ -16,7 +16,7 @@
 <!ENTITY deniedPortAccess.title "უსაფრთხოების მიზნით პორტი აკრძალულია">
 <!ENTITY deniedPortAccess.longDesc "">
 
-<!ENTITY dnsNotFound.title "სერვერი ვერ მოიძებნა">
+<!ENTITY dnsNotFound.title "გვერდი ვერ მოიძებნა">
 <!-- LOCALIZATION NOTE (dnsNotFound.longDesc4) This string contains markup including widgets for searching
      or enabling wifi connections. The text inside tags should be localized.  Do not change the ids. -->
 <!ENTITY dnsNotFound.longDesc4 "
@@ -58,13 +58,13 @@
      or enabling wifi connections. The text inside the tags should be localized. Do not touch the ids. -->
 <!ENTITY malformedURI.longDesc2 "
 <ul>
-  <li>ჩვეულებრივ, ვებ მისამართები იწერება ასე
+  <li>საიტის მისამართები, ჩვეულებრივ, ასე იწერება
     <strong>http://www.example.com/</strong></li>
     <div id='searchbox'>
       <input id='searchtext' type='search'></input>
       <button id='searchbutton'>ძიება</button>
     </div>
-  <li>დარწმუნდით, რომ წინ გადახრილ ხაზს იყენებთ (მაგ.
+  <li>დარწმუნდით, რომ წინ გადახრილ ხაზებს იყენებთ (ასეთს:
     <strong>/</strong>).</li>
 </ul>
 ">
@@ -136,8 +136,8 @@
 <!ENTITY redirectLoop.title "ეს გვერდი მცდარად გადამისამართდა">
 <!ENTITY redirectLoop.longDesc "
 <ul>
-  <li>ეს პრობლემა ზოგჯერ წარმოიქმნება ფუნთუშების მიღების ამორთვის ან უარყოფის
-    დროს.</li>
+  <li>ამ ხარვეზს, ზოგჯერ იწვევს უარყოფა, ან გამორთვა
+    ფუნთუშების.</li>
 </ul>
 ">
 
