@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "데이터 선택">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "이 빌드 구성에서는 데이터 리포팅을 하지 않음">
+
 <!ENTITY healthReportDesc.label          "브라우저 성능에 대해 이해할 수 있도록 돕고 &vendorShortName;와 브라우저 건강 데이터를 공유함">
 <!ENTITY enableHealthReport.label        "&brandShortName; 상태 검사 보고서 켜기">
 <!ENTITY enableHealthReport.accesskey    "R">
