@@ -524,7 +524,7 @@
 <!ENTITY doorhanger_login_select_message "დაკოპირდეს პაროლი &formatS;-დან?">
 <!ENTITY doorhanger_login_select_toast_copy "პაროლი დაკოპირდა ბუფერში">
 <!ENTITY doorhanger_login_select_action_text "აირჩიეთ სხვა შესვლა">
-<!ENTITY doorhanger_login_select_title "პაროლის კოპირება - ">
+<!ENTITY doorhanger_login_select_title "პაროლის დაკოპირება - ">
 
 <!-- Localization note (pref_scroll_title_bar2): Label for setting that controls
      whether or not the dynamic toolbar is enabled. -->
@@ -572,7 +572,7 @@
 <!ENTITY button_clear_data "მონაცემთა გასუფთავება">
 <!ENTITY button_set "მითითება">
 <!ENTITY button_clear "გასუფთავება">
-<!ENTITY button_copy "კოპირება">
+<!ENTITY button_copy "დაკოპირება">
 
 <!ENTITY home_top_sites_title "რჩეული საიტები">
 <!-- Localization note (home_top_sites_add): This string is used as placeholder
