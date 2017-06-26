@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historie">
+<!ENTITY  permissions.label             "Oprávnění">
 
 <!ENTITY  locationBar.label             "Adresní řádek">
 
