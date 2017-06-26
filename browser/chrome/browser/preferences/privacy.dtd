@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecziun cunter il fastizar">
+<!ENTITY  trackingProtection.description       "«Fastizar» munta che interpresas rimnan infurmaziuns sur da tai per crear in profil e per mussar cuntegn sin basa da tia navigaziun en la rait e tias datas persunalas.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bloccar cuntegn dad interpresas ch'èn enconuschentas per fastizar">
 <!ENTITY  trackingProtectionAlways.label       "Adina">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Mo en fanestras privatas">
@@ -27,9 +29,11 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Cronologia">
+<!ENTITY  permissions.label             "Autorisaziuns">
 
 <!ENTITY  locationBar.label             "La trav d'adressas">
 
+<!ENTITY  locbar.suggest2.label         "Durant l'endataziun en la trav d'adressas, proponer">
 <!ENTITY  locbar.history.label          "Cronologia">
 <!ENTITY  locbar.history.accesskey      "i">
 <!ENTITY  locbar.bookmarks.label        "Segnapaginas">
@@ -39,6 +43,7 @@
 <!ENTITY  locbar.searches.label         "Sumegliantas tschertgas da la maschina da tschertgar da standard">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Midar las preferenzas per propostas da maschinas da tschertgar">
 
 <!ENTITY  acceptCookies.label           "Acceptar ils cookies">
 <!ENTITY  acceptCookies.accesskey       "c">
@@ -61,6 +66,8 @@
 <!ENTITY  showCookies.label             "Mussar ils cookies…">
 <!ENTITY  showCookies.accesskey         "o">
 
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; vegn a">
+<!ENTITY  historyHeader2.pre.accesskey     "v">
 <!ENTITY  historyHeader.remember.label     "Memorisar la cronologia">
 <!ENTITY  historyHeader.dontremember.label "Mai memorisar la cronologia">
 <!ENTITY  historyHeader.custom.label       "Utilisar per la cronologia ils parameters definids da l'utilisader">
