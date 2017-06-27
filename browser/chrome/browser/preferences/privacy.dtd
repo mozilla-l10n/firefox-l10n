@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Istoric">
-
+<!ENTITY  permissions.label             "Permisiuni">
 
 <!ENTITY  locationBar.label             "Bară de adresă">
 
