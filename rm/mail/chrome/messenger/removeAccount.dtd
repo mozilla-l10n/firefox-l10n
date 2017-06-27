@@ -1,0 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY dialogTitle                  "Allontanar il conto e las datas">
+<!ENTITY removeButton.label           "Allontanar">
+<!ENTITY removeButton.accesskey       "A">
+<!ENTITY removeAccount.label          "Allontanar las infurmaziuns dal conto">
+<!ENTITY removeAccount.accesskey      "a">
+<!ENTITY removeAccount.desc           "Questa acziun stizza mo las datas da &brandShortName; davart quest conto. Quai na pertutga betg il conto sco tal sin il server.">
