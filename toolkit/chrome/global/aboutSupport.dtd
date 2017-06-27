@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Auðveldað aðgengi">
 <!ENTITY aboutSupport.a11yActivated "Virkt">
 <!ENTITY aboutSupport.a11yForceDisabled "Koma í veg fyrir aðgengi">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Aðgengishjálpari notaður">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Útgáfa forritasafns">
 
