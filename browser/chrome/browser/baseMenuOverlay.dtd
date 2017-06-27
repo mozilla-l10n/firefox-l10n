@@ -5,7 +5,7 @@
 <!ENTITY minimizeWindow.key       "m">
 <!ENTITY minimizeWindow.label     "Minimizează">
 <!ENTITY bringAllToFront.label    "Adu toate în față">
-<!ENTITY zoomWindow.label         "Scalare">
+<!ENTITY zoomWindow.label         "Zoom">
 <!ENTITY windowMenu.label         "Fereastră">
 
 <!ENTITY helpMenu.label           "Ajutor"> 
@@ -51,4 +51,4 @@
 <!ENTITY hideOtherAppsCmdMac.label      "Ascunde-le pe celelalte">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
 
-<!ENTITY showAllAppsCmdMac.label        "Arată toate">
+<!ENTITY showAllAppsCmdMac.label        "Afișează toate">

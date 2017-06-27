@@ -11,7 +11,7 @@
 <!ENTITY editBookmarkOverlay.siteLocation.label              "Adresa site-ului:">
 <!ENTITY editBookmarkOverlay.siteLocation.accesskey          "s">
 <!ENTITY editBookmarkOverlay.folder.label                    "Dosar:">
-<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Arată toate dosarele cu semne de carte">
+<!ENTITY editBookmarkOverlay.foldersExpanderDown.tooltip     "Afișează toate dosarele cu semne de carte">
 <!ENTITY editBookmarkOverlay.expanderUp.tooltip              "Ascunde">
 <!ENTITY editBookmarkOverlay.tags.label                      "Etichete:">
 <!ENTITY editBookmarkOverlay.tags.accesskey                  "E">
@@ -20,7 +20,7 @@
 <!ENTITY editBookmarkOverlay.description.accesskey           "D">
 <!ENTITY editBookmarkOverlay.keyword.label                   "Cuvânt cheie:">
 <!ENTITY editBookmarkOverlay.keyword.accesskey               "C">
-<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Arată toate etichetele">
+<!ENTITY editBookmarkOverlay.tagsExpanderDown.tooltip        "Afișează toate etichetele">
 <!ENTITY editBookmarkOverlay.loadInSidebar.label             "Încarcă acest semn de carte în bara laterală">
 <!ENTITY editBookmarkOverlay.loadInSidebar.accesskey         "c">
 <!ENTITY editBookmarkOverlay.choose.label                    "Alege…">

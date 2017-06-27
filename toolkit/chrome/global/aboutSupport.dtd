@@ -43,7 +43,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.appBasicsUpdateChannel "Canal de actualizare">
 <!ENTITY aboutSupport.appBasicsUpdateHistory "Istoricul actualizărilor">
-<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Arată istoricul actualizărilor">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Afișează istoricul actualizărilor">
 
 <!ENTITY aboutSupport.appBasicsProfileDir "Directorul de profiluri">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):

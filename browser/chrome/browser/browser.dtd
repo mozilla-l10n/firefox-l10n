@@ -181,7 +181,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY subscribeToPageMenupopup.label "Abonează-te la această pagină">
 <!ENTITY subscribeToPageMenuitem.label "Abonează-te la această pagină…">
 <!ENTITY addCurPagesCmd.label "Însemnează toate filele…">
-<!ENTITY showAllBookmarks2.label "Arată toate semnele de carte">
+<!ENTITY showAllBookmarks2.label "Afișează toate semnele de carte">
 <!ENTITY recentBookmarks.label "Recent însemnate">
 <!ENTITY otherBookmarksCmd.label "Alte semne de carte">
 <!ENTITY mobileBookmarksCmd.label "Semne de carte mobile">
@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Ai blocat notificările pentru acest site web.">
 
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Arată istoricul">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Afișează istoricul">
 
 <!ENTITY searchItem.title             "Caută">
 <!-- Toolbar items -->
@@ -246,8 +246,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.label          "Semne de carte">
 <!ENTITY bookmarksMenuButton.other.label "Alte semne de carte">
 <!ENTITY bookmarksMenuButton.mobile.label "Semne de carte mobile">
-<!ENTITY viewBookmarksSidebar2.label        "Arată bara laterală cu semne de carte">
-<!ENTITY viewBookmarksToolbar.label         "Arată bara cu semne de carte">
+<!ENTITY viewBookmarksSidebar2.label        "Vezi bara laterală cu semne de carte">
+<!ENTITY viewBookmarksToolbar.label         "Vezi bara cu semne de carte">
 
 <!ENTITY containersMenu.label "Containere">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -470,6 +470,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Caută">
+<!ENTITY searchIcon.tooltip           "Căutare">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -553,7 +555,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "l">
 <!ENTITY bookmarkThisFrameCmd.label      "Însemnează acest cadru">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Copiază URL-ul">
 <!ENTITY emailPageCmd.label           "Trimite e-mail cu linkul…">
 <!ENTITY emailPageCmd.accesskey       "e">
 <!ENTITY savePageCmd.label            "Salvează pagina ca…">
@@ -674,9 +676,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Scalare doar pe text">
+<!ENTITY fullZoomToggleCmd.label        "Zoom doar pe text">
 <!ENTITY fullZoomToggleCmd.accesskey    "t">
-<!ENTITY fullZoom.label                 "Mărimea textului">
+<!ENTITY fullZoom.label                 "Zoom">
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Închide bara laterală">
@@ -959,8 +961,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Repornește pentru a actualiza &brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Acțiuni pentru pagină">
 
-
+<!ENTITY sendToDevice.label "Trimite pe dispozitiv…">
+<!ENTITY sendToDevice.viewTitle "Trimite pe dispozitiv">
 
 
 
