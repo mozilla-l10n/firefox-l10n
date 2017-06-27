@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Gagna skýrsla er óvirk í þessari útgáfu">
+
 <!ENTITY healthReportDesc.label          "Hjálpar þér að fá betri yfirsýn yfir afköst vafra og deilir gögnum um afköst vafra með &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Virkja &brandShortName; ástandsskoðun">
 <!ENTITY enableHealthReport.accesskey    "r">
@@ -135,7 +137,7 @@ available. -->
 <!ENTITY limitContentProcessOption.label "Takmarka þræði fyrir efni">
 <!ENTITY limitContentProcessOption.description "Fleiri þræðir fyrir efni getur aukið afköst þegar verið er að nota marga flipa, en tekur upp meira minni.">
 <!ENTITY limitContentProcessOption.accesskey   "þ">
-
-
+<!ENTITY limitContentProcessOption.disabledDescription "Aðeins er hægt að breyta fjölda efnisþráða með &brandShortName; sem inniheldur fjölgjörvavinnslu.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Sjáðu hvernig þú athugar hvort fjölgjörvavinnsla er virk">
 <!ENTITY allowHWAccel.label              "Nota vélbúnaðarhröðun ef mögulegt">
 <!ENTITY allowHWAccel.accesskey          "b">
