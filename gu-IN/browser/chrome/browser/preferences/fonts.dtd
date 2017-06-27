@@ -20,8 +20,10 @@
 <!ENTITY  sans-serif.accesskey                    "n">
 <!ENTITY  monospace.label                         "મોનોસ્પેસ:">
 <!ENTITY  monospace.accesskey                     "M">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
+<!ENTITY  font.langGroup.latin                    "લેટિન">
 <!ENTITY  font.langGroup.japanese                 "જાપાનિઝ">
 <!ENTITY  font.langGroup.trad-chinese             "પરંપરાગત ચાઇનિઝ (તાઈવાન)">
 <!ENTITY  font.langGroup.simpl-chinese            "સરળ ચાઇનિઝ">
@@ -29,7 +31,6 @@
 <!ENTITY  font.langGroup.korean                   "કોરીયનસ">
 <!ENTITY  font.langGroup.cyrillic                 "સીરીલીક">
 <!ENTITY  font.langGroup.el                       "ગ્રીક">
-
 <!ENTITY  font.langGroup.thai                     "થાઈ">
 <!ENTITY  font.langGroup.hebrew                   "હિબ્રુ">
 <!ENTITY  font.langGroup.arabic                   "અરેબીક">
@@ -44,8 +45,6 @@
 <!ENTITY  font.langGroup.gurmukhi                 "ગુરુમુખી">
 <!ENTITY  font.langGroup.khmer                    "ખમેર">
 <!ENTITY  font.langGroup.malayalam                "મલયાલમ">
-
-
 <!ENTITY  font.langGroup.telugu                   "તેલુગુ">
 <!ENTITY  font.langGroup.kannada                  "કન્નડ">
 <!ENTITY  font.langGroup.sinhala                  "સિંહાલા">
@@ -54,14 +53,10 @@
 <!ENTITY minSize.label                            "ન્યૂનતમ ફોન્ટ માપ:">
 <!ENTITY minSize.accesskey                        "o">
 <!ENTITY minSize.none                             "કંઈ નહિ">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "શેરીફ">
 <!ENTITY  useDefaultFontSansSerif.label           "સાન્સ શેરીફ">
-
-
-
-
 
 
 
