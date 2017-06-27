@@ -51,8 +51,6 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "T">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "Conto actual">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "C">
-<!ENTITY getNextNMsgCmd.label "Retschaiver ils proxims 500 messadis da novitads">
-<!ENTITY getNextNMsgCmd.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Trametter ils messadis betg tramess">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Abunar…">
@@ -494,16 +492,29 @@
 <!ENTITY accountManagerCmdUnix2.accesskey "c">
 
 <!-- Developer Tools Submenu -->
+<!ENTITY devtoolsMenu.label "Utensils per sviluppaders">
+<!ENTITY devtoolsMenu.accesskey "p">
+<!ENTITY devToolboxCmd.label "Chascha d'utensils per sviluppaders">
+<!ENTITY devToolboxCmd.accesskey "t">
+<!ENTITY devToolboxCmd.commandkey "i">
+<!ENTITY addonDebugCmd.label "Debugader per supplements">
+<!ENTITY addonDebugCmd.accesskey "m">
+<!ENTITY tabsDebugCmd.label "Debugader per il rom da cuntegn">
+<!ENTITY tabsDebugCmd.accesskey "c">
 <!ENTITY errorConsoleCmd.label "Consola d'errurs">
 <!ENTITY errorConsoleCmd.accesskey "E">
 <!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY scratchpadCmd.label "Bloc da notizias">
+<!ENTITY scratchpadCmd.accesskey "B">
 
 <!--LOCALIZATION NOTE (scratchpadCmd.keycode):
     This should be a key code constant as per
     https://developer.mozilla.org/en-US/docs/Web/API/KeyboardEvent/keyCode#Constants_for_keyCode_value
     (but without the DOM_ prefix) -->
+<!ENTITY scratchpadCmd.keycode "VK_F4">
 <!--LOCALIZATION NOTE (scratchpadCmd.keytext):
     This should be the text printed on the key defined in the previous string. -->
+<!ENTITY scratchpadCmd.keytext "F4">
 
 <!-- Mail Toolbar -->
 <!ENTITY getMsgButton1.label "Retschaiver messadis">
