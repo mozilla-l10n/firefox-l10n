@@ -28,9 +28,13 @@
 
 <!ENTITY dataChoicesTab.label            "Decisiuns da datas">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "Gida dad analisar la prestaziun da tes navigatur e cundivida cun &vendorShortName; las datas davart la sanadad da tes navigatur">
 <!ENTITY enableHealthReport.label        "Activar l'analisa da sanadad da &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "F">
+<!ENTITY enableHealthReport.accesskey    "n">
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
 <!ENTITY telemetryDesc.label             "Cundivida datas davart prestaziun, utilisaziun, hardware e persunalisaziun da tes navigatur cun &vendorShortName; per meglierar &brandShortName;">
