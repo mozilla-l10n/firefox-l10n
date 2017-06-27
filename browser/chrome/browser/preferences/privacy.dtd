@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Historiatiedot">
+<!ENTITY  permissions.label             "Oikeudet">
 
 <!ENTITY  locationBar.label             "Osoitepalkki">
 
