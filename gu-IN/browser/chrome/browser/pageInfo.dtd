@@ -15,7 +15,7 @@
 
 <!ENTITY  generalTab            "સામાન્ય">
 <!ENTITY  generalTab.accesskey  "G">
-
+<!ENTITY  generalTitle          "શીર્ષક:">
 <!ENTITY  generalURL            "સરનામું:">
 <!ENTITY  generalType           "પ્રકાર:">
 <!ENTITY  generalMode           "રેન્ડર સ્થિતિ:">
@@ -23,7 +23,7 @@
 <!ENTITY  generalReferrer       "સંદર્ભિત URL:">
 <!ENTITY  generalSource         "કેશ સ્રોત:">
 <!ENTITY  generalModified       "સુધારેલ:">
-
+<!ENTITY  generalEncoding2      "ટેક્સ્ટ એન્કોડિંગ:">
 <!ENTITY  generalMetaName       "નામ">
 <!ENTITY  generalMetaContent    "વિષયસુચી">
 
@@ -85,3 +85,4 @@
 
 <!ENTITY  securityView.technical.header                 "ટેક્નિકલ વિગતો">
 
+<!ENTITY  helpButton.label                              "મદદ">
