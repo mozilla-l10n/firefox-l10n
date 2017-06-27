@@ -3,20 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Title -->
-<!-- Labels -->
-<!ENTITY addToAddressBook.label         "Agiuntar a: ">
+<!ENTITY mailListWindowAdd.title        "Nova glista d'e-mail">
 
+<!-- Labels and Access Keys -->
+<!ENTITY addToAddressBook.label         "Agiuntar a: ">
+<!ENTITY addToAddressBook.accesskey     "A">
 <!ENTITY ListName.label                 "Num da la glista: ">
+<!ENTITY ListName.accesskey             "L">
 <!ENTITY ListNickName.label             "Surnum da la glista: ">
+<!ENTITY ListNickName.accesskey         "N">
 <!ENTITY ListDescription.label          "Descripziun: ">
+<!ENTITY ListDescription.accesskey      "e">
 <!-- See bug 58485, when we implement drag and drop, add 'or drag addresses' back in -->
 <!ENTITY AddressTitle.label             "Endatescha adressas d'e-mail per las agiuntar a la glista d'e-mail:">
 <!ENTITY UpButton.label                 "Ensi">
 <!ENTITY DownButton.label               "Engiu">
-
-<!-- Access Keys -->
-<!ENTITY addToAddressBook.accesskey     "A">
-<!ENTITY ListName.accesskey             "L">
-<!ENTITY ListNickName.accesskey         "N">
-<!ENTITY ListDescription.accesskey      "e">
 
