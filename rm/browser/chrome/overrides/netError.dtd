@@ -48,7 +48,9 @@
 <!ENTITY generic.longDesc "<p>&brandShortName; na po betg chargiar questa pagina per tscherts motivs.</p>">
 
 <!ENTITY captivePortal.title "S'annunziar tar la rait">
+<!ENTITY captivePortal.longDesc2 "<p>Ti stos t'annunziar en questa rait avant che ti pos acceder a l'internet.</p>">
 
+<!ENTITY openPortalLoginPage.label2 "Avrir la pagina per s'annunziar en la rait">
 
 <!ENTITY malformedURI.title "L'adressa è nunvalida">
 <!ENTITY malformedURI.longDesc "
@@ -163,6 +165,8 @@ was trying to connect. -->
 <!-- LOCALIZATION NOTE (certerror.wrongSystemTime2,
                         certerror.wrongSystemTimeWithoutReference) - The <span id='..' />
      tags will be injected with actual values, please leave them unchanged. -->
+<!ENTITY certerror.wrongSystemTime2 "<p>&brandShortName; n'è betg connectà cun <span id='wrongSystemTime_URL'/> perquai che l'ura da tes computer na constat apparentamain betg e quai impedescha ina connexiun segira.</p><p>Tes computer crai ch'i saja ussa <span id='wrongSystemTime_systemDate'/>, ma correct fiss: <span id='wrongSystemTime_actualDate'/>. Per curreger il problem, drizza l'ura e/u mida la data.</p>">
+<!ENTITY certerror.wrongSystemTimeWithoutReference "<p>&brandShortName; n'è betg connectà cun <span id='wrongSystemTimeWithoutReference_URL'/> perquai che l'ura da tes computer na constat apparentamain betg e quai impedescha ina connexiun segira.</p><p>Tes computer crai ch'i saja ussa <span id='wrongSystemTimeWithoutReference_systemDate'/>. Per curreger il problem, drizza l'ura e/u mida la data.</p>">
 
 <!ENTITY certerror.pagetitle1  "Connexiun betg segirada">
 <!ENTITY certerror.whatShouldIDo.badStsCertExplanation "Questa website utilisescha HTTP
