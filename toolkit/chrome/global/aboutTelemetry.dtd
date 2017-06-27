@@ -4,10 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
 <!ENTITY aboutTelemetry.changeDataChoices "Modifica">
-<!ENTITY aboutTelemetry.uploadEnabled "L’invio dei dati FHR è <span>attivo</span>.">
-<!ENTITY aboutTelemetry.uploadDisabled "L’invio dei dati FHR è <span>disattivato</span>.">
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "La registrazione della telemetria estesa è <span>attiva</span>.">
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "La registrazione della telemetria estesa è <span>disattivata</span>.">
 <!ENTITY aboutTelemetry.pingDataSource "Sorgente ping dati:">
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
