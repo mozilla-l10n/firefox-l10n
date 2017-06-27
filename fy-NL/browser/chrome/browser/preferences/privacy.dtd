@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Skiednis">
+<!ENTITY  permissions.label             "Tastimmingen">
 
 <!ENTITY  locationBar.label             "Lokaasjebalke">
 
