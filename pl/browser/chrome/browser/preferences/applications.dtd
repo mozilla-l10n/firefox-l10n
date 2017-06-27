@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY applications.label "Aplikacje">
-<!ENTITY applications.description "Wybierz jak program &brandShortName; obsługuje pobierane z sieci pliki lub aplikacje używane podczas przeglądania.">
+<!ENTITY applications.description "Wybierz, jak program &brandShortName; obsługuje pobierane z sieci pliki lub aplikacje używane podczas przeglądania.">
 
 <!ENTITY typeColumn.label "Typ zawartości">
 <!ENTITY typeColumn.accesskey "">
