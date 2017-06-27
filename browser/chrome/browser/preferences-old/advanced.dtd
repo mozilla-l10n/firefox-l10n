@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo">
+
 <!ENTITY healthReportDesc.label          "Bheir seo fiosrachadh dhut air dèanadas a' bhrabhsair agad agus cuiridh e dàta air slàinte a' bhrabhsair agad dha &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cuir an comas aithisg slàinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "s">

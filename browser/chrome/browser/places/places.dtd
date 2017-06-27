@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Air a chruthachadh">
 <!ENTITY col.lastmodified.label  "Atharrachadh mu dheireadh">
 
+<!ENTITY search.placeholder  "Lorg">
 
 <!ENTITY cmd.find.key  "f">
 
