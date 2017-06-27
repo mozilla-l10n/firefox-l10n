@@ -51,8 +51,8 @@
 <!ENTITY getAllNewMsgCmdPopupMenu.accesskey "a">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.label "A' chunntais làithrich">
 <!ENTITY getNewMsgCurrentAccountCmdPopupMenu.accesskey "c">
-
-
+<!ENTITY getNextNMsgCmd2.label "Faigh an ath-bhadan de theachdaireachdan naidheachd">
+<!ENTITY getNextNMsgCmd2.accesskey "t">
 <!ENTITY sendUnsentCmd.label "Cuir na teachdaireachdan nach deach an cur roimhe">
 <!ENTITY sendUnsentCmd.accesskey "d">
 <!ENTITY subscribeCmd.label "Fo-sgrìobh…">
