@@ -4,7 +4,7 @@
 
 <!ENTITY window.emWidth "26em">
 <!ENTITY window.emHeight "26em">
-
+<!ENTITY ChooseOtherApp.description "અન્ય એપ્લિકેશન પસંદ કરો">
 <!ENTITY ChooseApp.label "પસંદ કરો...">
 <!ENTITY ChooseApp.accessKey "C">
-
+<!ENTITY accept "લિંક ખોલો">
