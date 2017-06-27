@@ -68,8 +68,8 @@
 <!ENTITY updateCheck.accesskey           "C">
 <!ENTITY updateManual.label              "Nu căuta niciodată actualizări (nerecomandat: risc de securitate)">
 <!ENTITY updateManual.accesskey          "N">
-<!ENTITY updateHistory.label             "Arată istoricul actualizărilor">
-<!ENTITY updateHistory.accesskey         "t">
+<!ENTITY updateHistory.label             "Afișează istoricul actualizărilor">
+<!ENTITY updateHistory.accesskey         "p">
 
 <!ENTITY useService.label                "Folosește serviciul care rulează în fundal pentru a instala actualizări">
 <!ENTITY useService.accesskey            "s">
