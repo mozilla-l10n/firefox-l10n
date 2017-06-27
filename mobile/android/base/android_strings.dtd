@@ -384,7 +384,7 @@
 <!ENTITY pref_sync2 "Autentificare">
 <!ENTITY pref_sync_summary2 "Sincronizează filele, semnele de carte, autentificările, istoricul">
 <!ENTITY pref_search_suggestions "Arată sugestii de căutare">
-<!ENTITY pref_history_search_suggestions "Arată istoricul căutărilor">
+<!ENTITY pref_history_search_suggestions "Afișează istoricul căutărilor">
 <!ENTITY pref_import_options "Opțiuni de importare">
 <!ENTITY pref_import_android_summary "Importă semnele de carte și istoricul din browserul nativ">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
