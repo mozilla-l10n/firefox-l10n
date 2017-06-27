@@ -12,3 +12,7 @@
 <!ENTITY copiesFoldersTab.label "Copias &amp; ordinaturs">
 <!ENTITY addressingTab.label    "Scriver &amp; adressar">
 
+<!ENTITY publicData.label        "Datas publicas">
+<!ENTITY privateData.label       "Datas privatas">
+<!ENTITY identityAlias.label     "Etichetta d'identitad:">
+<!ENTITY identityAlias.accesskey "d">

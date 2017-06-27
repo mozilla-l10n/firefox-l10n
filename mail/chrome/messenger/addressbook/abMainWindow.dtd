@@ -76,7 +76,15 @@
 <!-- LOCALIZATION NOTE (hideSwapFnLnUI) : DONT_TRANSLATE -->
 <!-- Swap FN/LN UI  Set to "false" to show swap fn/ln UI -->
 <!ENTITY hideSwapFnLnUI "true">
+<!ENTITY propertiesMenu.label                           "Caracteristicas">
+<!ENTITY propertiesMenu.accesskey                       "i">
 <!ENTITY propertiesCmd.key                              "i">
+<!ENTITY abPropertiesMenu.label                         "Caracteristicas dal cudeschet d'adressas">
+<!ENTITY abPropertiesMenu.accesskey                     "i">
+<!ENTITY contactPropertiesMenu.label                    "Caracteristicas dal contact">
+<!ENTITY contactPropertiesMenu.accesskey                "i">
+<!ENTITY mailingListPropertiesMenu.label                "Caracteristicas da la glista d'e-mail">
+<!ENTITY mailingListPropertiesMenu.accesskey            "i">
 
 <!-- View Menu -->
 <!ENTITY viewMenu.label                                 "Vista">
@@ -132,6 +140,15 @@ because displayed names don't have the comma in between. -->
 <!ENTITY newContactButton.accesskey                     "C">
 <!ENTITY newlistButton.label                            "Nova glista">
 <!ENTITY newlistButton.accesskey                        "L">
+<!ENTITY editPropertiesButton.label                     "Modifitgar">
+<!ENTITY propertiesContext.label                        "Caracteristicas">
+<!ENTITY propertiesContext.accesskey                    "i">
+<!ENTITY abPropertiesContext.label                      "Caracteristicas">
+<!ENTITY abPropertiesContext.accesskey                  "i">
+<!ENTITY editContactContext.label                       "Modifitgar il contact">
+<!ENTITY editContactContext.accesskey                   "M">
+<!ENTITY editMailingListContext.label                   "Modifitgar la glista">
+<!ENTITY editMailingListContext.accesskey               "M">
 <!ENTITY newmsgButton.label                             "Scriver">
 <!ENTITY newmsgButton.accesskey                         "S">
 <!ENTITY newIM.label                                    "Messadi immediat">
@@ -144,6 +161,10 @@ because displayed names don't have the comma in between. -->
 <!-- Address Book Toolbar Tooltips -->
 <!ENTITY newContactButton.tooltip                       "Crear in nov contact">
 <!ENTITY newlistButton.tooltip                          "Crear ina nova glista da distribuziun">
+<!ENTITY editPropertiesButton.tooltip                   "Modifitgar l'element tschernì">
+<!ENTITY editAbPropertiesButton.tooltip                 "Modifitgar las caracteristicas dal cudeschet d'adressas tschernì">
+<!ENTITY editContactPropertiesButton.tooltip            "Modifitgar il contact tschernì">
+<!ENTITY editMailingListPropertiesButton.tooltip        "Modifitgar la glista d'e-mail tschernida">
 <!ENTITY newmsgButton.tooltip                           "Scriver in nov e-mail">
 <!ENTITY newIM.tooltip                                  "Scriver in nov messadi immediat (instant message) u in nov chat">
 <!ENTITY deleteButton2.tooltip                          "Stizzar l'element tschernì">
