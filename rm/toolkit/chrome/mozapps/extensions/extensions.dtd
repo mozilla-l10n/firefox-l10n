@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Mussar las notizias da publicaziun per questa actualisaziun">
 <!ENTITY cmd.hideReleaseNotes.label           "Zuppentar las notizias da publicaziun">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Zuppentar las notizias da publicaziun per questa actualisaziun">
+<!ENTITY cmd.findReplacement.label            "Chattar supplements equivalents">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -188,6 +189,10 @@
 <!ENTITY addon.details.label                  "Dapli">
 <!ENTITY addon.details.tooltip                "Mussar dapli detagls davart quest supplement">
 <!ENTITY addon.unknownDate                    "Nunenconuschent">
+<!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
+     to the add-on name for extensions that are not webextensions, which
+     will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "OBSOLET">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -252,3 +257,9 @@
 
 <!ENTITY pluginDeprecation.description "Manca insatge? Tscherts plug-ins na vegnan betg pli sustegnids da &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Ulteriuras infurmaziuns.">
+
+<!ENTITY legacyWarning.description "Manca insatge? Tschertas extensiuns na vegnan betg pli sustegnidas da &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Mussar las extensiuns obsoletas">
+<!ENTITY legacyExtensions.title "Extensiuns obsoletas">
+<!ENTITY legacyExtensions.description "Questas extensiuns na correspundan betg als standards actuals da &brandShortName; ed èn perquai deactivadas.">
+<!ENTITY legacyExtensions.learnMore "Vegnir a savair dapli davart las midadas per supplements">
