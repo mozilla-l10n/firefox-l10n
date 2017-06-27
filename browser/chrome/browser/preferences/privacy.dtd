@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Bescherming tegen volgen">
-<!ENTITY  trackingProtection.description       "Volgen houdt in dat bedrijven gegevens over u verzamelen om een profiel op te bouwen en inhoud weer te geven op basis van uw persoonlijke en surfgegevens.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Weergeven van inhoud door bekende bedrijven die volgen blokkeren">
+<!ENTITY  trackingProtection.description       "Volgen is het verzamelen van uw surfgegevens op meerdere websites. Volgen kan worden gebruikt om een profiel op te bouwen en inhoud weer te geven op basis van uw persoonlijke en surfgegevens.">
+<!ENTITY  trackingProtection.radioGroupLabel   "Bescherming tegen volgen gebruiken om bekende volgers te blokkeren">
 <!ENTITY  trackingProtectionAlways.label       "Altijd">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Alleen in privévensters">
@@ -15,20 +15,21 @@
 <!ENTITY  trackingProtectionExceptions.label   "Uitzonderingen…">
 <!ENTITY  trackingProtectionExceptions.accesskey "i">
 
-<!ENTITY tracking.label                 "Volgen">
 <!ENTITY trackingProtectionPBM5.label         "Bescherming tegen volgen gebruiken in privévensters">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY trackingProtectionPBM6.label         "Bescherming tegen volgen gebruiken in Privénavigatie om bekende volgers te blokkeren">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer info">
 <!ENTITY changeBlockList.label          "Blokkeerlijst wijzigen">
 <!ENTITY changeBlockList.accesskey      "k">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "U kunt ook ">
-<!ENTITY  doNotTrack.settings.label     "uw instellingen voor Niet volgen beheren">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Websites een ‘Niet volgen’-signaal sturen om te laten weten dat u niet wilt worden gevolgd">
+<!ENTITY  doNotTrack.learnMore.label    "Meer info">
+<!ENTITY  doNotTrack.default.label      "Alleen bij gebruik van Bescherming tegen volgen">
+<!ENTITY  doNotTrack.always.label       "Altijd">
 
 <!ENTITY  history.label                 "Geschiedenis">
+<!ENTITY  permissions.label             "Toestemmingen">
 
 <!ENTITY  locationBar.label             "Locatiebalk">
 
