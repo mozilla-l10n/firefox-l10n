@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Protezione antitracciamento">
-<!ENTITY trackingProtection.description "Il tracciamento si verifica quando le aziende raccolgono informazioni sui visitatori, costruendo un vero e proprio profilo, allo scopo di visualizzare contenuti basati sulle loro abitudini di navigazione e sui loro dati personali.">
-<!ENTITY trackingProtection.radioGroupLabel "Blocca la visualizzazione di contenuti per le aziende note per tracciare i visitatori">
+<!ENTITY trackingProtection.description "Il tracciamento consiste nella raccolta di informazioni sul visitatore attraverso siti diversi. Può essere utilizzato per costruire un vero e proprio profilo e visualizzare contenuti basati sulle abitudini di navigazione e sui dati personali.">
+<!ENTITY trackingProtection.radioGroupLabel "Utilizza la protezione antitracciamento per bloccare i tracciatori conosciuti">
 <!ENTITY trackingProtectionAlways.label "Sempre">
 <!ENTITY trackingProtectionAlways.accesskey "p">
 <!ENTITY trackingProtectionPrivate.label "Solo in finestre anonime">
@@ -14,15 +14,17 @@
 <!ENTITY trackingProtectionLearnMore.label "Ulteriori informazioni">
 <!ENTITY trackingProtectionExceptions.label "Eccezioni…">
 <!ENTITY trackingProtectionExceptions.accesskey "E">
-<!ENTITY tracking.label "Tracciamento">
 <!ENTITY trackingProtectionPBM5.label "Attiva la protezione antitracciamento in modalità Navigazione anonima">
 <!ENTITY trackingProtectionPBM5.accesskey "g">
+<!ENTITY trackingProtectionPBM6.label "Attiva la protezione antitracciamento in modalità Navigazione anonima per bloccare i tracciatori conosciuti">
+<!ENTITY trackingProtectionPBM6.accesskey "g">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ulteriori informazioni">
 <!ENTITY changeBlockList.label "Seleziona elenco">
 <!ENTITY changeBlockList.accesskey "l">
-<!ENTITY doNotTrack.pre.label "È inoltre possibile ">
-<!ENTITY doNotTrack.settings.label "gestire le impostazioni relative a Do Not Track">
-<!ENTITY doNotTrack.post.label ".">
+<!ENTITY doNotTrack.description "Invia ai siti web un segnale “Do Not Track” per chiedere di non effettuare alcun tracciamento">
+<!ENTITY doNotTrack.learnMore.label "Ulteriori informazioni">
+<!ENTITY doNotTrack.default.label "Solo quando è attiva la protezione antitracciamento">
+<!ENTITY doNotTrack.always.label "Sempre">
 <!ENTITY history.label "Cronologia">
 <!ENTITY permissions.label "Permessi">
 <!ENTITY locationBar.label "Barra degli indirizzi">
