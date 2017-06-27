@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
-<!ENTITY articleNotFound.desc "De nieuwsgroepserver meldt dat hij het artikel niet kan vinden.">
+<!ENTITY articleNotFound.desc "De nieuwsgroepserver meldt dat deze het artikel niet kan vinden.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
