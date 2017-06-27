@@ -116,7 +116,7 @@
 <!ENTITY useRecommendedPerformanceSettings.description "Rekomendowane ustawienia wydajności są specjalnie dostosowane do tego komputera.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "">
 <!ENTITY limitContentProcess.label "Limit liczby procesów treści:">
-<!ENTITY limitContentProcess.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach ale będzie również potrzebował więcej pamięci.">
+<!ENTITY limitContentProcess.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach, ale będzie również potrzebował więcej pamięci.">
 <!ENTITY limitContentProcess.accesskey "">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey "">
