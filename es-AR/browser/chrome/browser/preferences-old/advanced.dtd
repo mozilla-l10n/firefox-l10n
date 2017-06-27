@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "La información de datos está deshabilitado para esta configuración de compilación">
+
 <!ENTITY healthReportDesc.label          "Ayuda a entender el rendimiento del navegador y comparte datos con &vendorShortName; sobre la salud del navegador">
 <!ENTITY enableHealthReport.label        "Habilitar informe de salud de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "r">
@@ -133,6 +138,12 @@
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Conocer más">
+<!ENTITY limitContentProcessOption.label "Límite de procesos de contenido">
+<!ENTITY limitContentProcessOption.description
+                                         "Los procesos de contenido adicionales pueden mejorar el rendimiento cuando se usan múltiples pestañas pero también consumirán más memoria.">
+<!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Modificar el número de procesos contenidos sólo es posible con multiproceso &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "Aprender a comprobar si multiproceso está habilitado">
 <!ENTITY allowHWAccel.label              "Usar aceleración por hardware cuando esté disponible">
