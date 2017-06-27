@@ -29,3 +29,4 @@
 <!ENTITY plugin.file                                         "Datoteca">
 <!ENTITY plugin.mimeTypes                                    "Tips da MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Activar il modus da protecziun dad Adobe Flash">
+<!ENTITY plugin.enableBlocklists.label                       "Bloccar cuntegn da Flash privlus e mulestus">

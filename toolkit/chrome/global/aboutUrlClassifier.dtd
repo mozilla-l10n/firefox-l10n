@@ -3,3 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
+<!ENTITY aboutUrlClassifier.pageTitle                   "Infurmaziuns davart l'url-classifier">
+<!ENTITY aboutUrlClassifier.providerTitle               "Purschider">
+<!ENTITY aboutUrlClassifier.provider                    "Purschider">
+<!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ultima actualisaziun">
+<!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Proxima actualisaziun">
+<!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status da l'ultima actualisaziun">
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualisaziun">
