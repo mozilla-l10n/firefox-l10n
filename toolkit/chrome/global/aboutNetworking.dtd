@@ -43,4 +43,6 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
 <!ENTITY aboutNetworking.rcwn                  "Estadísticas RCWN">
 <!ENTITY aboutNetworking.rcwnStatus            "Estado RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cuenta de ganancia de caché">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Cuenta de ganacia en la Red">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Cantidad de pedidos de red">
