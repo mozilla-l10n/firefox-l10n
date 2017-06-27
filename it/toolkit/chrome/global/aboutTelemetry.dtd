@@ -3,18 +3,14 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutTelemetry.pageTitle "Dati telemetria">
-<!ENTITY aboutTelemetry.changeDataChoices "Modifica">
 <!ENTITY aboutTelemetry.pingDataSource "Sorgente ping dati:">
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping dati corrente">
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping dati archiviati">
-<!ENTITY aboutTelemetry.pingDataDisplay "Visualizzazione dati ping:">
-<!ENTITY aboutTelemetry.structured "Strutturata">
 <!ENTITY aboutTelemetry.raw "JSON non elaborato">
 <!ENTITY aboutTelemetry.showSubsessionData "Visualizza dati sottosessione">
 <!ENTITY aboutTelemetry.choosePing "Scegli ping:">
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
 <!ENTITY aboutTelemetry.showOlderPing "Ping più vecchio &gt;&gt;">
-<!ENTITY aboutTelemetry.rawPingData "Dati ping non elaborati…">
 <!ENTITY aboutTelemetry.archiveWeekHeader "Settimana">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
@@ -34,11 +30,8 @@
 <!ENTITY aboutTelemetry.lateWritesSection "Scritture ritardate">
 <!ENTITY aboutTelemetry.sessionInfoSection "Informazioni sulla sessione">
 <!ENTITY aboutTelemetry.addonHistogramsSection "Istogrammi raccolti da componenti aggiuntivi">
-<!ENTITY aboutTelemetry.toggle "Fare clic per visualizzare/nascondere la sezione">
-<!ENTITY aboutTelemetry.emptySection "(nessun dato raccolto)">
 <!ENTITY aboutTelemetry.fullSqlWarning "ATTENZIONE: il controllo delle istruzioni SQL lente è attivo. Potrebbero essere visualizzate delle stringhe SQL complete ma queste informazioni non verranno trasmesse dalla telemetria.">
 <!ENTITY aboutTelemetry.fetchStackSymbols "Recupera i nomi delle funzioni per gli stack">
 <!ENTITY aboutTelemetry.hideStackSymbols "Visualizza dati degli stack non elaborati">
 <!ENTITY aboutTelemetry.filterText "Filtra (stringhe o espressione regolare)">
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
-<!ENTITY aboutTelemetry.rawPayload "Payload non elaborato">
