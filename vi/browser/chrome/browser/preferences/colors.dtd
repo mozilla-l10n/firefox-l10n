@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Luôn luôn">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Chỉ trong các diện mạo có độ tương phản cao">
