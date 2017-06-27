@@ -3,8 +3,9 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY window.title                 "Danh sách chặn">
+<!ENTITY window.width                 "55em">
 
-
+<!ENTITY treehead.list.label          "Danh sách">
 <!ENTITY windowClose.key              "w">
 
 <!ENTITY button.cancel.label          "Hủy bỏ">
