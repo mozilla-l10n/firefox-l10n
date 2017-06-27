@@ -31,10 +31,11 @@
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
+<!ENTITY healthReportingDisabled.label   "Rapports da datas èn deactivads per questa configuraziun da compilaziun">
 
 <!ENTITY healthReportDesc.label          "Gida dad analisar la prestaziun da tes navigatur e cundivida cun &vendorShortName; las datas davart la sanadad da tes navigatur">
 <!ENTITY enableHealthReport.label        "Activar l'analisa da sanadad da &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "F">
+<!ENTITY enableHealthReport.accesskey    "n">
 <!ENTITY healthReportLearnMore.label     "Ulteriuras infurmaziuns ">
 
 <!ENTITY telemetryDesc.label             "Cundivida datas davart prestaziun, utilisaziun, hardware e persunalisaziun da tes navigatur cun &vendorShortName; per meglierar &brandShortName;">
@@ -96,6 +97,8 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Versiun ">
+<!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "Permetter a &brandShortName; da">
 <!ENTITY updateAuto2.label               "Installar automaticamain las actualisaziuns (recumandà per motivs da segirezza)">
 <!ENTITY updateAuto2.accesskey           "A">
@@ -139,5 +142,22 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Moduls da criptadi">
 <!ENTITY viewSecurityDevices.accesskey   "M">
 
+<!ENTITY performance.label               "Prestaziun">
+<!ENTITY useRecommendedPerformanceSettings2.label
+                                         "Utilisar ils parameters da prestaziun recumandads">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "Quests parameters èn adattads per la hardware da tes computer e tes sistem operativ.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "p">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Ulteriuras infurmaziuns">
+<!ENTITY limitContentProcessOption.label "Limita da process da cuntegn">
+<!ENTITY limitContentProcessOption.description
+                                         "Process da cuntegn supplementars pon augmentar la prestaziun sche ti utiliseschas plirs tabs, ma els dovran era dapli memoria.">
+<!ENTITY limitContentProcessOption.accesskey   "p">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Igl è mo pussaivel da midar il dumber da process da cuntegn cun versiuns da &brandShortName; che sustegnan plirs process.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Ve a savair co che ti pos controllar sche la funcziun da plirs process è activada">
 <!ENTITY allowHWAccel.label              "Utilisar sche pussaivel l'acceleraziun cun hardware da grafica">
 <!ENTITY allowHWAccel.accesskey          "h">

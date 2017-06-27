@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Agiuntà">
 <!ENTITY col.lastmodified.label  "Midà la davosa giada">
 
-<!ENTITY search.label                              "Tschertgar:">
-<!ENTITY search.accesskey                          "s">
+<!ENTITY search.placeholder  "Tschertgar">
 
 <!ENTITY cmd.find.key  "s">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "D">
 <!ENTITY detailsPane.selectAnItemText.description "Tscherna in'endataziun per vesair e modifitgar sias caracteristicas">
 
-<!ENTITY find.label               "Tschertgar:">
-<!ENTITY find.accesskey           "s">
 <!ENTITY view.label               "Vista">
 <!ENTITY view.accesskey           "V">
 <!ENTITY byDate.label             "Tenor data">
