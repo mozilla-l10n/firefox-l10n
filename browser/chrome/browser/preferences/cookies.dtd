@@ -14,12 +14,15 @@
 <!ENTITY     props.path.label               "પથ:">
 <!ENTITY     props.secure.label             "માટે મોકલો:">
 <!ENTITY     props.expires.label            "મર્યાદા સમાપ્ત:">
+<!ENTITY     props.container.label          "કંટેનર:">
 
 <!ENTITY     window.title                   "કુકીઓ">
 <!ENTITY     windowClose.key                "w">
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
+<!ENTITY     searchFilter.label             "શોધો">
+<!ENTITY     searchFilter.accesskey         "S">
 
 <!ENTITY     button.close.label             "બંધ કરો">
 <!ENTITY     button.close.accesskey         "C">

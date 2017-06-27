@@ -1,8 +1,8 @@
 <!-- This Source Code Form is subject to the terms of the Mozilla Public
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
-<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 
+<!-- LOCALIZATION NOTE (places.library.title): use "Library", "Archive" or "Repository" -->
 <!ENTITY places.library.title  "લાઈબ્રેરી">
 <!ENTITY places.library.width  "700">
 <!ENTITY places.library.height "500">
@@ -48,8 +48,8 @@
 <!ENTITY cmd.open.accesskey              "O">
 <!ENTITY cmd.open_window.label           "નવી વિન્ડોમાં ખોલો">
 <!ENTITY cmd.open_window.accesskey       "N">
-
-
+<!ENTITY cmd.open_private_window.label     "નવી ખાનગી વિન્ડોમાં ખોલો">
+<!ENTITY cmd.open_private_window.accesskey "P">
 <!ENTITY cmd.open_tab.label              "નવી ટૅબમાં ખોલો">
 <!ENTITY cmd.open_tab.accesskey          "w">
 <!ENTITY cmd.open_all_in_tabs.label      "બધું ટૅબમાં ખોલો">
@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "એડ-ઓનયું">
 <!ENTITY col.lastmodified.label  "છેલ્લે સુધારાયું">
 
-<!ENTITY search.label                              "શોધો:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "શોધો">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "વસ્તુના ગુણધર્મો જોવા અને તેમાં ફેરફાર કરવા માટે તેને પસંદ કરો">
 
-<!ENTITY find.label               "શોધો:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "દૃશ્ય">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "તારીખ પ્રમાણે">
