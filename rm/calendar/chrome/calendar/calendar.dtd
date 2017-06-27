@@ -291,7 +291,7 @@
 <!ENTITY calendar.alarm.details.label               "Detagls…" >
 
 <!ENTITY calendar.alarm.snoozefor.label             "Puspè regurdar en" >
-<!ENTITY calendar.alarm.snoozeallfor.label          "Per tuts puspè regurdar en" >
+<!ENTITY calendar.alarm.snoozeallfor.label          "Spustar tuts per" >
 <!ENTITY calendar.alarm.title.label                 "Promemorias dal chalender" >
 <!ENTITY calendar.alarm.dismiss.label               "Sbittar" >
 <!ENTITY calendar.alarm.dismissall.label            "Sbittar tut" >
@@ -301,9 +301,9 @@
 <!ENTITY calendar.alarm.snooze.15minutes.label      "15 minutas" >
 <!ENTITY calendar.alarm.snooze.30minutes.label      "30 minutas" >
 <!ENTITY calendar.alarm.snooze.45minutes.label      "45 minutas" >
-<!ENTITY calendar.alarm.snooze.1hour.label          "1 &amp;ura" >
+<!ENTITY calendar.alarm.snooze.1hour.label          "1 ura" >
 <!ENTITY calendar.alarm.snooze.2hours.label         "2 uras" >
-<!ENTITY calendar.alarm.snooze.1day.label           "1 &amp;di" >
+<!ENTITY calendar.alarm.snooze.1day.label           "1 di" >
 
 <!-- LOCALIZATION NOTE (calendar.alarm.snooze.cancel)
      This string is not seen in the UI, it is read by screen readers when the
