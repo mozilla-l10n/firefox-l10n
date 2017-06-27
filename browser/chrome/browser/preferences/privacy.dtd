@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Ferill">
-
+<!ENTITY  permissions.label             "Heimildir">
 
 <!ENTITY  locationBar.label             "Staðsetningarslá">
 

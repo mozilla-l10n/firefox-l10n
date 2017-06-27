@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Sýna útgáfuupplýsingar fyrir þessa uppfærslu">
 <!ENTITY cmd.hideReleaseNotes.label           "Fela útgáfuupplýsingar">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Fela útgáfuupplýsingar fyrir þessa uppfærslu">
-
+<!ENTITY cmd.findReplacement.label            "Finna staðgengil">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -259,4 +259,4 @@
 <!ENTITY legacyWarning.showLegacy "Sýna allar gamlar viðbætur">
 <!ENTITY legacyExtensions.title "Gamlar viðbætur">
 <!ENTITY legacyExtensions.description "Þessar viðbætur standast ekki núverandi staðla í &brandShortName; þannig að þær hafa verið gerðar óvirkar.">
-
+<!ENTITY legacyExtensions.learnMore "Fræðast um breytingar á viðbótum">
