@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-gegevens">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Wijzigen
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR-gegevensupload is <span>ingeschakeld</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR-gegevensupload is <span>uitgeschakeld</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Uitgebreide Telemetry-opname is <span>ingeschakeld</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Uitgebreide Telemetry-opname is <span>uitgeschakeld</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Ping-gegevensbron:
 ">
@@ -34,14 +14,6 @@ Huidige ping-gegevens
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Gearchiveerde ping-gegevens
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Ping-gegevensweergave:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Gestructureerd
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -62,10 +34,6 @@ Ping kiezen:
 
 <!ENTITY aboutTelemetry.showOlderPing "
 Oudere ping &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Onbewerkte ping-gegevens…
 ">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
@@ -140,18 +108,6 @@ Ping
   Sessie-informatie
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrammen verzameld door add-ons
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klik om sectie uit/samen te vouwen
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Geen gegevens verzameld)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOOT: debugging van trage SQL is ingeschakeld. Volledige SQL-strings kunnen hieronder worden weergegeven, maar ze zullen niet bij Telemetry worden ingediend.
 ">
@@ -170,8 +126,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Nettolading
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Onbewerkte nettolading
 ">
