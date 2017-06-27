@@ -75,6 +75,7 @@
 <!ENTITY bookmark_removed "Allontanà il segnapagina">
 <!ENTITY bookmark_updated "Actualisà il segnapagina">
 <!ENTITY bookmark_options "Opziuns">
+<!ENTITY bookmark_save "Memorisar">
 <!ENTITY screenshot_added_to_bookmarks "Agiuntà in maletg dal visur als segnapaginas">
 <!-- Localization note (screenshot_folder_label_in_bookmarks): We save links to screenshots
      the user takes. The folder we store these links in is located in the bookmarks list
@@ -86,6 +87,8 @@
      in the folder. -->
 <!ENTITY bookmark_folder_items "&formatD; elements">
 <!ENTITY bookmark_folder_one_item "1 element">
+<!ENTITY bookmark_parent_folder "Ordinatur surordinà">
+<!ENTITY bookmark_add_folder "Agiuntar in nov ordinatur">
 
 <!ENTITY reader_saved_offline "Memorisà per la lectura offline">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -156,6 +159,7 @@
 <!ENTITY overlay_share_bookmark_btn_label_already "Gia marcà sco segnapagina">
 <!ENTITY overlay_share_send_other "Trametter ad auters apparats">
 
+<!ENTITY overlay_share_open_browser_btn_label "Avrir en &brandShortName;">
 <!-- Localization note (overlay_share_send_tab_btn_label) : Used on the
      share overlay menu to represent the "Send Tab" action when the user
      either has not set up Sync, or has no other devices to send a tab
@@ -215,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Pagina da partenza">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Era utilisar per novs tabs">
 <!ENTITY home_homepage_title "Definir ina pagina da partenza">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -284,7 +289,10 @@
 <!ENTITY pref_custom_tabs "Tabs persunalisads">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Avrir en &formatS;">
+<!ENTITY custom_tabs_menu_footer "Mess a disposiziun da &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "Copià l\&apos;URL">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Stream dad activitads">
@@ -359,6 +367,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Utilisar la grondezza da scrittira dal sistem">
+<!ENTITY pref_use_system_font_size_summary "Adattar il cuntegn da web a la grondezza da scrittira dal sistem">
 
 <!ENTITY pref_media_autoplay_enabled "Adina far ir automaticamain">
 <!ENTITY pref_media_autoplay_enabled_summary "Definescha sche paginas pon far ir automaticamain videos ed auter cuntegn multimedial">
@@ -378,6 +388,7 @@
 <!ENTITY pref_import_android_summary "Importar segnapaginas e la cronologia dal navigatur da standard">
 <!-- Localization note (pref_private_data_openTabs): Open tabs is an option in
      the Clear Private Data  dialog and refers to currently open tabs. -->
+<!ENTITY pref_private_data_openTabs "Tabs averts">
 <!ENTITY pref_private_data_history2 "Cronologia da la navigaziun">
 <!ENTITY pref_private_data_searchHistory "Cronologia da tschertgas">
 <!ENTITY pref_private_data_formdata2 "Cronologia da formulars">
@@ -488,6 +499,7 @@
 <!ENTITY contextmenu_open_private_tab "Avrir en in tab privat">
 <!ENTITY contextmenu_remove "Allontanar">
 <!ENTITY contextmenu_add_to_launcher "Agiuntar al visur da partenza">
+<!ENTITY contextmenu_set_as_homepage "Definir sco pagina da partenza">
 <!ENTITY contextmenu_share "Cundivider">
 <!ENTITY contextmenu_pasteandgo "Encollar &amp; chargiar">
 <!ENTITY contextmenu_paste "Encollar">
@@ -523,6 +535,8 @@
 
 <!-- Localization note (pref_compact_tabs): Label for setting that controls whether 1 wide column or
      2 narrower (compact) columns are used for tabs in the tabs tray in portrait mode on phones. -->
+<!ENTITY pref_compact_tabs "Tabs cumpacts">
+<!ENTITY pref_compact_tabs_summary2 "Mussar ils tabs en duas colonnas en il format vertical">
 
 <!-- Localization note (page_removed): This string appears in a toast message when
      any page is removed frome about:home. This includes pages that are in history,
@@ -533,6 +547,7 @@
 <!ENTITY bookmark_edit_name "Num">
 <!ENTITY bookmark_edit_location "Adressa">
 <!ENTITY bookmark_edit_keyword "Pled magic">
+<!ENTITY bookmark_select_folder "Tscherner in ordinatur">
 
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
@@ -689,6 +704,8 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY updater_downloading_select2 "Tutgar per applitgar l\&apos;actualisaziun cura ch\&apos;ella è telechargiada">
 <!ENTITY updater_downloading_retry2 "Tutgar per reempruvar">
 
+<!ENTITY updater_apply_title3 "Telechargià ina actualisaziun per &brandShortName;">
+<!ENTITY updater_apply_select3 "Tutgar per installar">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
@@ -809,13 +826,21 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY helper_triple_readerview_open_message "Marcar elements da la glista da lectura per als leger offline.">
 <!ENTITY helper_triple_readerview_open_button "Agiuntar als segnapaginas">
 
+<!ENTITY activity_stream_topsites "Paginas preferidas">
+<!ENTITY activity_stream_highlights "Accents">
 
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_bookmarked): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_bookmarked "Agiuntà als segnapaginas">
 <!-- LOCALIZATION NOTE (activity_stream_highlight_label_visited): This label is shown in the Activity
 Stream list for highlights sourced from th user's bookmarks. -->
+<!ENTITY activity_stream_highlight_label_visited "Visità">
 
 <!-- LOCALIZATION NOTE (activity_stream_dismiss): This label is shown in the Activity Stream context menu,
 and allows hiding a URL/page from highlights or topsites. The page remains in history/bookmarks, but
 is simply hidden from the Activity Stream panel. -->
+<!ENTITY activity_stream_dismiss "Zuppentar">
+<!ENTITY activity_stream_delete_history "Stizzar da la cronologia">
 
+<!ENTITY activity_stream_welcome_title "Bainvegni tar tes accents">
+<!ENTITY activity_stream_welcome_content1 "&brandShortName; creescha ussa accents per chaussas che ti has scuvert en il web. Uschia chattas ti pli tard la via enavos tar artitgels, videos, segnapaginas ed autras paginas interessantas.">
