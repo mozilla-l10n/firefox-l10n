@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutNetworking.title                 "Connexiuns a la rait">
-<!ENTITY aboutNetworking.warning               "Quai è ina funcziun fitg experimentala. Na betg utilisar senza surveglianza d'ina persuna creschida.">
+<!ENTITY aboutNetworking.warning               "Quai è ina funcziun fitg experimentala. Betg utilisar senza surveglianza d'ina persuna creschida.">
 <!ENTITY aboutNetworking.showNextTime          "Mussar quest avis la proxima giada">
 <!ENTITY aboutNetworking.ok                    "OK">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
