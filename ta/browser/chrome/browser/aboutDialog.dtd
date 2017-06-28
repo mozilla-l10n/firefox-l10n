@@ -100,7 +100,7 @@
      the "em dash" (long dash).
      example: Downloading update — 111 KB of 13 MB -->
 
-<!ENTITY update.downloading.start   "புதுப்பித்தல்களை பதிவிறக்குகிறது — ">
+<!ENTITY update.downloading.start   "புதுப்பித்தல்களைப் பதிவிறக்குகிறது — ">
 <!ENTITY update.downloading.end     "">
 
 <!ENTITY update.applying            "மேம்படுத்தலை செயல்படுத்துகிறது...">
@@ -108,5 +108,5 @@
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
 
-<!ENTITY channel.description.start  "நீங்கள் தற்போது">
-<!ENTITY channel.description.end    " வழித்தடத்தை மேம்படுத்த. ">
+<!ENTITY channel.description.start  "நீங்கள் தற்போது ">
+<!ENTITY channel.description.end    " உலாவியை மேம்படுத்தப்போகிறீர்கள். ">
