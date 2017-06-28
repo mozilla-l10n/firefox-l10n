@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         "。">
 
 <!ENTITY  history.label                 "瀏覽紀錄">
+<!ENTITY  permissions.label             "權限">
 
 <!ENTITY  locationBar.label             "網址列">
 
