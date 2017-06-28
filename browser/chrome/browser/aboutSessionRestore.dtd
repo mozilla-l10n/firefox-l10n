@@ -20,8 +20,8 @@
 <!ENTITY welcomeback2.tabtitle "Operazione riuscita">
 <!ENTITY welcomeback2.pageTitle "Operazione riuscita">
 <!ENTITY welcomeback2.pageInfo1 "&brandShortName; è pronto per l’uso.">
-<!ENTITY welcomeback2.label.restoreAll "Ripristina tutte le schede e le finestre">
-<!ENTITY welcomeback2.label.restoreSome "Ripristina solo le schede richieste">
+<!ENTITY welcomeback2.restoreAll.label "Ripristina tutte le schede e le finestre">
+<!ENTITY welcomeback2.restoreSome.label "Ripristina solo le schede richieste">
 <!ENTITY welcomeback2.beforelink.pageInfo2 "I componenti aggiuntivi installati sono stati rimossi e le impostazioni del browser sono state ripristinate ai valori predefiniti. ">
 <!ENTITY welcomeback2.afterlink.pageInfo2 " se questa operazione non ha risolto il problema.">
 <!ENTITY welcomeback2.link.pageInfo2 "Scopri le altre soluzioni disponibili">
