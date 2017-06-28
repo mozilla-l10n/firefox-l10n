@@ -61,7 +61,8 @@
 <!ENTITY  useDefaultFontSerif.label               "ஷெரிஃப்">
 <!ENTITY  useDefaultFontSansSerif.label           "ஸான்ஸ் ஷெரிஃப்">
 
-
+<!ENTITY  allowPagesToUseOwn.label                "உங்கள் தேர்வுகளுக்குப் பதிலாக பக்கங்கள் அதன் சொந்த எழுத்துருக்களைத் தேர்வு செய்ய அனுமதிக்கவும்">
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.label      "பின்சார்பு உரை குறிமுறை:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">

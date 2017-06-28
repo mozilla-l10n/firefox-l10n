@@ -10,8 +10,8 @@
 
 <!ENTITY useCursorNavigation.label       "எப்போதும் நிலைக்காட்டி விசைகளை பயன்படுத்தி பக்கங்களிடையே செல்">
 <!ENTITY useCursorNavigation.accesskey   "c">
-
-
+<!ENTITY searchOnStartTyping.label       "நான் தட்டச்சு செய்யும்போது உரையை தேடவும்">
+<!ENTITY searchOnStartTyping.accesskey   "x">
 <!ENTITY blockAutoReload.label           "இணைய தளங்கள் பக்கங்களை மீளேற்றும் போது அல்லது வேறு பக்கத்திற்கு செல்லும் போது என்னை எச்சரி">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "தேவைப்படும் பொருட்டு தொடு விசைப்பலகையைக் காட்டு">
@@ -41,6 +41,7 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
+<!ENTITY crashReporterDesc2.label         "சிதைவு அறிக்கைகள் &vendorShortName; சிக்கல்களைச் சரிசெய்து உங்கள் உலாவியை இன்னும் நிலையானதாகவும் பாதுகாப்பானதாகவும் மாற்ற உதவுகிறது">
 
 
 <!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
