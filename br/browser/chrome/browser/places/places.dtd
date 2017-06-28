@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Ouzhpennet">
 <!ENTITY col.lastmodified.label  "An hini kemmet diwezhañ">
 
+<!ENTITY search.placeholder  "Klask">
 
 <!ENTITY cmd.find.key  "f">
 

@@ -31,20 +31,22 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Diweredekaet eo an danevelliñ roadennoù evit kefluniadur ar c'hempunadur-mañ">
+
 <!ENTITY healthReportDesc.label          "Skoazellañ a ra ac'hanoc'h kompren digonusted ho merdeer ha rannañ roadennoù a-fet yec'hed ho merdeer gant &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Gweredekaat danevell yec'hed &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "y">
-
+<!ENTITY healthReportLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY telemetryDesc.label             "Rannañ a ra roadennoù a-fet digonusted, arver, periant ha personelaat gant &vendorShortName; evit skoazellañ ac'hanomp gwellaat &brandShortName;">
 <!ENTITY enableTelemetryData.label       "Rannañ roadennoù ouzhpenn (d.l.e. Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Gouzout hiroc'h">
 
 <!ENTITY crashReporterDesc2.label         "A drugarez d'an danevelloù sac'hadenn eo gouest &vendorShortName; da gempenn kudennoù ha da lakaat da vezañ stabiloc'h ha suroc'h ho merdeer.">
 <!ENTITY alwaysSubmitCrashReports.label   "Aotren &brandShortName; da gas danevelloù sac'hadennoù enrollet evidoc'h">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "Gouzout hiroc'h">
 
 <!ENTITY networkTab.label                "Rouedad">
 
@@ -64,7 +66,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "S">
 <!ENTITY siteDataSettings.label          "Arventennoù…">
 <!ENTITY siteDataSettings.accesskey      "e">
-
+<!ENTITY siteDataLearnMoreLink.label     "Gouzout hiroc'h">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -127,14 +129,15 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Trobarzhelloù diogelroez">
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY performance.label               "Digonusted">
+<!ENTITY useRecommendedPerformanceSettings.label "Arverañ an arventennoù digonusted erbedet">
+<!ENTITY useRecommendedPerformanceSettings.description "Graet eo an arventennoù-se a-ratozh evit periant ha reizhiad korvoiñ hoc'h urzhiataer.">
+<!ENTITY useRecommendedPerformanceSettings.accesskey "A">
+<!ENTITY performanceSettingsLearnMore.label "Gouzout hiroc'h">
+<!ENTITY limitContentProcessOption.label "Bevenn endalc'had an araezad">
+<!ENTITY limitContentProcessOption.description "Endalc'had araezad ouzhpenn a c'hall gwellaat an digonusted gent meur a ivinell, met arverañ a raio muioc'h a vemor.">
+<!ENTITY limitContentProcessOption.accesskey   "B">
+<!ENTITY limitContentProcessOption.disabledDescription "Evit kemmañ an niver a araezad endalc'had eo ret ober gant &brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Deskit penaos gwiriekaat statud al lies araezad">
 <!ENTITY allowHWAccel.label              "Arverañ herrekadur ar periant pa vez hegerz">
 <!ENTITY allowHWAccel.accesskey          "h">

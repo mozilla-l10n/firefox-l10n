@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Ivinell nevez">
-
+<!ENTITY newtab.customize.classic "Diskouez ho lec'hiennoù gwellañ">
 <!ENTITY newtab.customize.cog.enhanced "Enkorfañ al lec'hiennoù aliet">
 <!ENTITY newtab.customize.cog.title2 "REOLIADURIOÙ AN IVINELL NEVEZ">
 <!ENTITY newtab.customize.cog.learn "Deskiñ a-zivout an ivinelloù nevez">
