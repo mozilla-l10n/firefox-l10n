@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Geçmiş">
+<!ENTITY  permissions.label             "İzinler">
 
 <!ENTITY  locationBar.label             "Konum çubuğu">
 
