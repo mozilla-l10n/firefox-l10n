@@ -7,7 +7,7 @@
 
 <!ENTITY     usageCol.label                "Stocare">
 <!ENTITY     searchTextboxPlaceHolder             "Caută site-uri web">
-
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "Elimină selecția">
 <!ENTITY     removeSelected.accesskey      "R">
 <!ENTITY     save.label                    "Salvează schimbările">
