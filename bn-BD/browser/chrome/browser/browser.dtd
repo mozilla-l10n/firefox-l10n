@@ -943,7 +943,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "এখন নয়">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-
+<!ENTITY updateManual.panelUI.label "&brandShorterName; এর একটি নতুন কপি ডাউনলোড কুরুন;">
 
 
 
