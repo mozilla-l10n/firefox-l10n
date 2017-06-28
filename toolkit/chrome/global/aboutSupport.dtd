@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "الإتاحة">
 <!ENTITY aboutSupport.a11yActivated "مفعّلة">
 <!ENTITY aboutSupport.a11yForceDisabled "امنع الإتاحة">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "مُعالج الإتاحة المستخدم">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "إصدارات المكتبات">
 
