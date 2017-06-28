@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Riwayat">
+<!ENTITY  permissions.label             "Hak Akses">
 
 <!ENTITY  locationBar.label             "Bilah Lokasi">
 
