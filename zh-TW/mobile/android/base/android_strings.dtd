@@ -718,7 +718,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY guest_session_dialog_continue "繼續">
 <!ENTITY guest_session_dialog_cancel "取消">
 <!ENTITY new_guest_session_title "&brandShortName; 現在將會重新啟動">
-<!ENTITY new_guest_session_text2 "訪客將不會見到您的個人瀏覽資料（例如儲存的登入資訊、瀏覽紀錄或書籤）。\n\n當您的訪客用好之後，瀏覽資料將被清除，並還原您的瀏覽階段。">
+<!ENTITY new_guest_session_text2 "訪客將不會見到您的個人瀏覽資料（例如儲存的登入資訊、瀏覽紀錄或書籤）。\n\n當訪客使用完畢後，瀏覽資料將被清除，並還原瀏覽階段。">
 <!ENTITY guest_browsing_notification_title "已進入訪客瀏覽階段">
 <!ENTITY guest_browsing_notification_text "點擊此處結束">
 

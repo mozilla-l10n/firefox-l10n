@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!ENTITY aboutPage.title                        "關於 &brandShortName;">
 <!ENTITY aboutPage.warningVersion               "&brandShortName; 是一個實驗用的測試版本，可能不夠穩定。">
-<!ENTITY aboutPage.telemetryStart               "將自動傳送相關資訊（含效能、軟硬體設定、使用程度等相關資料）給 ">
+<!ENTITY aboutPage.telemetryStart               "將自動傳送相關資訊（效能、軟硬體設定、使用程度等）給 ">
 <!ENTITY aboutPage.telemetryMozillaLink         "&vendorShortName;">
 <!ENTITY aboutPage.telemetryEnd                 " 以幫助 &brandShortName; 變得更好。">
 <!ENTITY aboutPage.checkForUpdates.link         "檢查更新 »">
