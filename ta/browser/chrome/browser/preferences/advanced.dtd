@@ -43,6 +43,7 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
+<!ENTITY crashReporterDesc2.label         "சிதைவு அறிக்கைகள் &vendorShortName; சிக்கல்களைச் சரிசெய்து உங்கள் உலாவியை இன்னும் நிலையானதாகவும் பாதுகாப்பானதாகவும் மாற்ற உதவுகிறது">
 <!ENTITY alwaysSubmitCrashReports.label   "உங்களின் சார்பாக பின்புல நொறுக்கு அறிக்கையை அனுப்பு &brandShortName; உலாவியை அனுமதி">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
