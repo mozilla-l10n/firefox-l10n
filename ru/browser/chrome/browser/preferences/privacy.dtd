@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "История">
+<!ENTITY  permissions.label             "Разрешения">
 
 <!ENTITY  locationBar.label             "Панель адреса">
 
