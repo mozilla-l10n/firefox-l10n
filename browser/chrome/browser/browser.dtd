@@ -966,5 +966,5 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.label "Trimite pe dispozitiv…">
 <!ENTITY sendToDevice.viewTitle "Trimite pe dispozitiv">
 
-
+<!ENTITY sendToDevice.noDevices.label "Niciun dispozitiv disponibil">
 
