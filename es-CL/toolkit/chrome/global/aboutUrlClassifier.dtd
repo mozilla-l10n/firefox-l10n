@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Proveedor">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Última actualización">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Próxima actualización">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Tiempo de retiro">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Estado de la última actualización">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualización">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Caché">
