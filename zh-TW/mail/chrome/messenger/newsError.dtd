@@ -12,7 +12,7 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
-<!ENTITY articleNotFound.desc "新聞群組伺服器回報找不到文章">
+<!ENTITY articleNotFound.desc "新聞群組伺服器回報找不到文章。">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
