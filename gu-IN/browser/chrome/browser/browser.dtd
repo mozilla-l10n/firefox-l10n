@@ -96,21 +96,21 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.commandkey "u">
 <!ENTITY pageInfoCmd.label "પાનાં જાણકારી">
-<!ENTITY pageInfoCmd.accesskey "I">
-<!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY pageInfoCmd.accesskey "ઇ">
+<!ENTITY pageInfoCmd.commandkey "ઇ">
 <!ENTITY mirrorTabCmd.label "સમાન ટૅબ">
-<!ENTITY mirrorTabCmd.accesskey "m">
+<!ENTITY mirrorTabCmd.accesskey "મ">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "પૂર્ણ સ્ક્રીનને દાખલ કરો">
-<!ENTITY enterFullScreenCmd.accesskey "F">
+<!ENTITY enterFullScreenCmd.accesskey "ફ">
 <!ENTITY exitFullScreenCmd.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
-<!ENTITY exitFullScreenCmd.accesskey "F">
+<!ENTITY exitFullScreenCmd.accesskey "ફ">
 <!ENTITY fullScreenCmd.label "પૂર્ણ સ્ક્રીન">
-<!ENTITY fullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.macCommandKey "f">
+<!ENTITY fullScreenCmd.accesskey "ફ">
+<!ENTITY fullScreenCmd.macCommandKey "ફ">
 <!ENTITY showAllTabsCmd.label "બધા ટૅબને બતાવો">
-<!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY showAllTabsCmd.accesskey "અ">
 <!ENTITY toggleReaderMode.key "R">
 
 <!ENTITY fxaSignIn.label "&syncBrand.shortName.label; માં પ્રવેશો">
@@ -123,9 +123,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenRestore.tooltip "પુનઃસંગ્રહો">
 <!ENTITY fullScreenClose.tooltip "બંધ કરો">
 <!ENTITY fullScreenAutohide.label "સાધનપટ્ટીઓ છુપાવો">
-<!ENTITY fullScreenAutohide.accesskey "H">
+<!ENTITY fullScreenAutohide.accesskey "હ">
 <!ENTITY fullScreenExit.label "સંપૂર્ણ સ્ક્રીન સ્થિતિમાંથી બહાર નીકળો">
-<!ENTITY fullScreenExit.accesskey "F">
+<!ENTITY fullScreenExit.accesskey "ફ">
 
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -142,7 +142,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY exitDOMFullscreen.button "પૂર્ણ સ્ક્રીનથી બહાર નીકળો (Esc)">
 <!ENTITY exitDOMFullscreenMac.button "પૂર્ણ સ્ક્રીનથી બહાર નીકળો (esc)">
 <!ENTITY leaveDOMFullScreen.label "પૂર્ણ સ્ક્રીનમાંથી બહાર નીકળો">
-<!ENTITY leaveDOMFullScreen.accesskey "u">
+<!ENTITY leaveDOMFullScreen.accesskey "ય">
 
 <!-- LOCALIZATION NOTE (pointerlockWarning.beforeDomain.label,
      pointerlockWarning.afterDomain.label): these two strings are used
@@ -152,27 +152,29 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pointerlockWarning.beforeDomain.label "">
 
 <!ENTITY closeWindow.label "વિન્ડો બંધ કરો">
-<!ENTITY closeWindow.accesskey "d">
+<!ENTITY closeWindow.accesskey "દ">
 
 <!ENTITY bookmarksMenu.label "બુકમાર્કો">
-<!ENTITY bookmarksMenu.accesskey "B">
+<!ENTITY bookmarksMenu.accesskey "બ">
 <!ENTITY bookmarkThisPageCmd.label "આ પાનાંને બુકમાર્ક કરો">
 <!ENTITY editThisBookmarkCmd.label "આ બુકમાર્કમાં ફેરફાર કરો">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "દ">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
 <!ENTITY findShareServices.label "વધુ વહેંચાયેલ સેવાઓ શોધો…">
 <!ENTITY sharePageCmd.label "આ પાનાંને વહેંચો">
-<!ENTITY sharePageCmd.commandkey "S">
-<!ENTITY sharePageCmd.accesskey "s">
+<!ENTITY sharePageCmd.commandkey "સ">
+<!ENTITY sharePageCmd.accesskey "સ">
 <!-- LOCALIZATION NOTE (shareLink.accesskey): must be different than the following share access keys -->
 <!ENTITY shareLink.label "આ લિંક સહિયારી કરો">
-<!ENTITY shareLink.accesskey "h">
+<!ENTITY shareLink.accesskey "હ">
 <!ENTITY shareImage.label "આ છબીને વહેંચો">
-<!ENTITY shareImage.accesskey "r">
+<!ENTITY shareImage.accesskey "ર">
 <!ENTITY shareSelect.label "સહભાગિતા પસંદગી">
-<!ENTITY shareSelect.accesskey "r">
+<!ENTITY shareSelect.accesskey "ર">
+<!ENTITY shareVideo.label "આ વિડિઓ શેર કરો">
+<!ENTITY shareVideo.accesskey "ર">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
 <!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
@@ -423,6 +425,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY showOnlyThisFrameCmd.label     "માત્ર આ ચોકઠું જ બતાવો">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
+<!ENTITY reloadCmd.commandkey         "ર">
 <!ENTITY reloadFrameCmd.label         "ચોકઠું પુનઃલાવો">
 <!ENTITY reloadFrameCmd.accesskey     "R">
 <!ENTITY viewPartialSourceForSelectionCmd.label "પસંદગી સ્રોત જુઓ">
