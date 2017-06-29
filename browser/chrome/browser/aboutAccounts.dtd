@@ -10,5 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "无连接">
 <!ENTITY aboutAccounts.noConnection.description "您必须联网才能登录。">
 <!ENTITY aboutAccounts.noConnection.retry "重试">
-<!ENTITY aboutAccounts.badConfig.title "配置错误">
+<!ENTITY aboutAccounts.badConfig.title "配置有误">
 <!ENTITY aboutAccounts.badConfig.description "无法确定您的 Firefox 账户服务器配置。请稍后重试。">
