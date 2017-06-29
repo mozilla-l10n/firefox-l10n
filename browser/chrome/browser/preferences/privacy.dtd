@@ -29,7 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "تاریخچه">
-
+<!ENTITY  permissions.label             "مجوزها">
 
 <!ENTITY  locationBar.label             "نوار مکان">
 
