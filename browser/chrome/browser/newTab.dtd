@@ -10,7 +10,7 @@
 <!ENTITY newtab.customize.cog.learn "Сазнајте више о новом језичку">
 <!ENTITY newtab.customize.title "Прилагодите страницу за нови језичак">
 <!ENTITY newtab.customize.blank2 "Прикажи празну страницу">
-<!ENTITY newtab.undo.removedLabel "Сличица је уклољена.">
+<!ENTITY newtab.undo.removedLabel "Сличица је уклоњена.">
 <!ENTITY newtab.undo.undoButton "Поништи.">
 <!ENTITY newtab.undo.restoreButton "Обнови све.">
 <!ENTITY newtab.undo.closeTooltip "Сакриј">
