@@ -52,14 +52,17 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection " Emosãingo inimbo">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  Japyhypyre mbojo'a">
 
 <!ENTITY aboutTelemetry.scalarsSection " Jejupi">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  Jupikuaa papapýva">
 
 <!ENTITY aboutTelemetry.histogramsSection "  Histograma">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection " Histograma ñemiguáva">
 
+<!ENTITY aboutTelemetry.eventsSection "  Tembiaporã">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection " Ha'ãha hypy'ũ'ỹva">
 
@@ -77,7 +80,9 @@
 
 <!ENTITY aboutTelemetry.fullSqlWarning " HAIPYRE'I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo'ãi Telemetry-pe.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "  Eguerujey tembiapoite réra jepytaite ojo'áva rehegua">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  Ehechauka mba'ekuaarã mbojo'áva oĩmba'ỹva">
 
 <!ENTITY aboutTelemetry.filterText " Mbogua (joajuha térã /regexp/)">
 

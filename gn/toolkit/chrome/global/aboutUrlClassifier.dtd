@@ -3,29 +3,31 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE the term "url-classifier" should not be translated. -->
 
+<!ENTITY aboutUrlClassifier.pageTitle                   "Marandu url-poravoha rehegua">
+<!ENTITY aboutUrlClassifier.providerTitle               "Me'ẽha">
+<!ENTITY aboutUrlClassifier.provider                    "Me'ẽha">
 
 
 
 
+<!ENTITY aboutUrlClassifier.providerUpdateBtn           "Mbohekopyahu">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Kache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Mbopiro'y">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Tesakã">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Tabla réra">
+
+
+
+<!ENTITY aboutUrlClassifier.cacheEntries                "Kache jeikeha">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Ñe'ẽpehẽtai mboyvegua">
+
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Mba'eku'i henyhẽva">
+
+<!ENTITY aboutUrlClassifier.debugTitle                  "Mopotĩ">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Emopyenda jehaipy ra'ãha">
+<!ENTITY aboutUrlClassifier.debugFileBtn                "Emopyenda marandurenda jehaipy">
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutUrlClassifier.debugFile                   "Marandurenda rembiasakue ag̃agua">
