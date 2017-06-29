@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Ιστορικό">
+<!ENTITY  permissions.label             "Δικαιώματα">
 
 <!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
 
