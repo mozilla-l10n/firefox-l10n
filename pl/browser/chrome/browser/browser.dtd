@@ -333,6 +333,8 @@
 <!ENTITY customizeMenu.addMoreItems.label "Dodaj więcej…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "w">
 
+<!ENTITY moreMenu.label "Więcej">
+
 <!ENTITY openCmd.commandkey "l" >
 <!ENTITY urlbar.placeholder2          "Wprowadź adres lub szukaj">
 <!ENTITY urlbar.accesskey "d" >
