@@ -141,5 +141,6 @@ available. -->
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "Tìm hiểu thêm">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
 <!ENTITY allowHWAccel.accesskey          "h">
