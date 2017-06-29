@@ -20,14 +20,14 @@
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ટૅબને પુન:લોડ કરો">
-<!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadTab.accesskey                "ર">
 <!ENTITY  reloadAllTabs.label                "બધા ટૅબને પુન:લોડ કરો">
-<!ENTITY  reloadAllTabs.accesskey            "A">
+<!ENTITY  reloadAllTabs.accesskey            "અ">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ બંધ કરો">
-<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeTabsToTheEnd.accesskey        "ઇ">
 <!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
 <!ENTITY  closeOtherTabs.accesskey           "o">
 
