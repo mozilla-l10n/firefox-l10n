@@ -270,12 +270,12 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY downloads.accesskey          "D">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
-<!ENTITY addons.label                 "கூடுதல் இணைப்புகள்">
+<!ENTITY addons.label                 "துணை நிரல்கள்">
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "வலைத்தள உருவாக்குனர்">
-<!ENTITY webDeveloperMenu.accesskey   "வ">
+<!ENTITY webDeveloperMenu.label       "வலைத்தளம் உருவாக்குநர்">
+<!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
 <!ENTITY inspectContextMenu.accesskey "Q">

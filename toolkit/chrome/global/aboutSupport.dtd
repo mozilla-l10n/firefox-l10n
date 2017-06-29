@@ -15,7 +15,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.crashes.allReports "அனைத்து செயலிழப்பு அறிக்கைகள்">
 <!ENTITY aboutSupport.crashes.noConfig "இந்த நிரல் சிதைவு அறிக்கைகளை காண்பிக்க கட்டமைப்பு செய்யப்படவில்லை.">
 
-<!ENTITY aboutSupport.extensionsTitle "கூடுதல் இணைப்புகள்">
+<!ENTITY aboutSupport.extensionsTitle "நீட்சிகள்">
 <!ENTITY aboutSupport.extensionName "பெயர்">
 <!ENTITY aboutSupport.extensionEnabled "செயல்படுத்தப்பட்டது">
 <!ENTITY aboutSupport.extensionVersion "பதிப்பு">
@@ -51,7 +51,7 @@ This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDi
 Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "சுயவிவரம் கோப்புறை">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "செயல்படுத்தப்பட்ட கூடுதல் இணைப்புகள்">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "செயல்படுத்தப்பட்ட செருகிகள்">
 <!ENTITY aboutSupport.appBasicsBuildConfig "உருவாக்க கட்டமைப்பு">
 <!ENTITY aboutSupport.appBasicsUserAgent "பயனர் முகவர்">
 <!ENTITY aboutSupport.appBasicsOS "இயங்கு தளம்">
