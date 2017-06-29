@@ -42,8 +42,8 @@ available. -->
 <!ENTITY telemetryLearnMore.label        "மேலும் அறிய">
 
 <!ENTITY crashReporterDesc2.label         "சிதைவு அறிக்கைகள் &vendorShortName; சிக்கல்களைச் சரிசெய்து உங்கள் உலாவியை இன்னும் நிலையானதாகவும் பாதுகாப்பானதாகவும் மாற்ற உதவுகிறது">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "உங்கள் சார்பாக பின்புல சிதைவு அறிக்கையை அனுப்ப &brandShortName; உலாவியை அனுமதி">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "மேலும் அறிய">
 
 <!ENTITY networkTab.label                "பிணையம்">
@@ -127,9 +127,9 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY useRecommendedPerformanceSettings.label "பரிந்துரைக்கப்பட்ட செயல்திறன் அமைவுகளைப் பயன்படுத்தவும்">
 
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "மேலும் அறிய">
 
 

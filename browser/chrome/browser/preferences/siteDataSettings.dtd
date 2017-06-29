@@ -2,16 +2,18 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY     window.title                  "அமைவுகள் - தள தரவு">
+
+<!ENTITY     statusCol.label               "நிலை">
 
 
 
 
 
-
-
-
-
-
-
+<!ENTITY     save.label                    "மாற்றங்களைச் சேமி">
+<!ENTITY     save.accesskey                "a">
+<!ENTITY     cancel.label                  "இரத்து">
+<!ENTITY     cancel.accesskey              "C">
+<!ENTITY     removingDialog.title          "தள தரவை அகற்றுகிறது">
 
 
