@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Elección de datos">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "El reporte de datos está deshabilitado para esta configuración de compilación">
+
 <!ENTITY healthReportDesc.label          "Te ayuda a entender el rendimiento del navegador y comparte los datos de salud del navegador con &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Activar reporte de salud de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
