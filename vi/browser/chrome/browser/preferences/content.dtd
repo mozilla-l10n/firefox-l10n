@@ -2,15 +2,15 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Cửa sổ Pop-up">
 
 <!ENTITY  blockPopups.label           "Chặn các cửa sổ pop-up">
 <!ENTITY  blockPopups.accesskey       "C">
 
-
+<!ENTITY  notificationsPolicy.label            "Thông báo">
+<!ENTITY  notificationsPolicyLearnMore.label   "Tìm hiểu thêm">
 <!ENTITY  notificationsPolicyDesc3.label       "Chọn trang được phép gửi cho bạn thông báo">
-
-
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "Chọn…">
 <!ENTITY  notificationsDoNotDisturb.label      "Không làm phiền tôi">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "K">
 <!ENTITY  notificationsDoNotDisturbDetails.value "Không có thông báo nào được hiển thị cho đến khi bạn khởi động lại &brandShortName;">
@@ -20,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Phông &amp; Màu sắc">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Phông mặc định">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Kích thước">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "Nâng cao…">
 <!ENTITY  advancedFonts.accesskey     "o">
@@ -40,6 +41,7 @@
 <!ENTITY translateWebPages.accesskey  "D">
 <!ENTITY translateExceptions.label    "Ngoại lệ...">
 <!ENTITY translateExceptions.accesskey "N">
+
 <!-- LOCALIZATION NOTE (translation.options.attribution.beforeLogo,
   -                     translation.options.attribution.afterLogo):
   -  These 2 strings are displayed before and after a 'Microsoft Translator'
@@ -47,11 +49,11 @@
   -  The translations for these strings should match the translations in
   -  browser/translation.dtd
   -->
-
 <!ENTITY translation.options.attribution.beforeLogo "Dịch bởi">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "Nội dung DRM">
 
 <!ENTITY  playDRMContent.label         "Phát nội dung có bảo vệ DRM">
 <!ENTITY  playDRMContent.accesskey     "P">
-
+<!ENTITY  playDRMContent.learnMore.label "Tìm hiểu thêm">

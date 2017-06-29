@@ -4,11 +4,10 @@
 
 <!ENTITY startup.label             "Khởi động">
 
-
-
+<!ENTITY startupPage2.label        "Khi &brandShortName; khởi động">
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "Hiển thị trang chủ của bạn">
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
-
-
 
 <!ENTITY useCurrentPage.label      "Sử dụng Trang hiện tại">
 <!ENTITY useCurrentPage.accesskey  "a">
@@ -27,8 +26,6 @@
 <!ENTITY chooseFolderMac.label        "Chọn…">
 <!ENTITY chooseFolderMac.accesskey    "n">
 
-
-
 <!ENTITY alwaysCheckDefault2.label        "Luôn kiểm tra xem &brandShortName; có phải trình duyệt mặc định không">
 <!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Đặt làm mặc định">
@@ -38,7 +35,5 @@
 
 <!ENTITY separateProfileMode.label        "Cho phép &brandShortName; và Firefox cùng chạy song song">
 <!ENTITY useFirefoxSync.label             "Mẹo nhỏ: Việc này sử dụng các hồ sơ độc lập nhau. Bạn có thể dùng Sync để đồng bộ giữa chúng.">
-
-
 
 <!ENTITY e10sEnabled.label                "Cho phép &brandShortName; dùng đa tiến trình">

@@ -20,9 +20,9 @@
 <!ENTITY  sans-serif.accesskey                    "a">
 <!ENTITY  monospace.label                         "Giãn cách đơn:">
 <!ENTITY  monospace.accesskey                     "G">
+
 <!-- LOCALIZATION NOTE (font.langGroup.latin) :
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
-
 <!ENTITY  font.langGroup.latin                    "Latinh">
 <!ENTITY  font.langGroup.japanese                 "Tiếng Nhật">
 <!ENTITY  font.langGroup.trad-chinese             "Hoa Phồn Thể (Đài Loan)">
@@ -46,7 +46,7 @@
 <!ENTITY  font.langGroup.gurmukhi                 "Gurmukhi">
 <!ENTITY  font.langGroup.khmer                    "Khơ-me">
 <!ENTITY  font.langGroup.malayalam                "Malayalam">
-
+<!ENTITY  font.langGroup.math                     "Toán học">
 <!ENTITY  font.langGroup.odia                     "Tiếng Odia">
 <!ENTITY  font.langGroup.telugu                   "Telugu">
 <!ENTITY  font.langGroup.kannada                  "Kannada">
@@ -56,21 +56,21 @@
 <!ENTITY minSize.label                            "Cỡ phông tối thiểu:">
 <!ENTITY minSize.accesskey                        "n">
 <!ENTITY minSize.none                             "Không">
-<!-- default font type -->
 
+<!-- default font type -->
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
-
+<!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Mã hóa văn bản cho nội dung cũ">
-
-
+<!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.">
 
 <!ENTITY languages.customize.Fallback.auto        "Mặc định cho bản địa hiện tại">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.arabic):
      Translate "Arabic" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.arabic      "Tiếng Ả Rập">
 <!ENTITY languages.customize.Fallback.baltic      "Tiếng Ban-tích">
 <!ENTITY languages.customize.Fallback.ceiso       "Tiếng Trung Âu, ISO">
 <!ENTITY languages.customize.Fallback.cewindows   "Tiếng Trung Âu, Microsoft">
@@ -80,20 +80,25 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.traditional "Hoa phồn thể">
-
+<!ENTITY languages.customize.Fallback.cyrillic    "Tiếng Kirin">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.greek       "Tiếng Hi Lạp">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.hebrew):
      Translate "Hebrew" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.hebrew      "Tiếng Do Thái">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.japanese):
      Translate "Japanese" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.japanese    "Tiếng Nhật">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.korean):
      Translate "Korean" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.korean      "Tiếng Hàn Quốc">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.thai):
      Translate "Thai" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.thai        "Tiếng Thái Lan">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.turkish):
      Translate "Turkish" as an adjective for an encoding, not as the name of the language. -->
+<!ENTITY languages.customize.Fallback.turkish     "Tiếng Thổ Nhĩ Kỳ">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Việt">

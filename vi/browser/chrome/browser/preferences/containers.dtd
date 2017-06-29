@@ -10,6 +10,7 @@
 <!ENTITY backLink.label       "&#171; Trở lại riêng tư">
 
 <!ENTITY window.title         "Thêm ngăn chứa mới">
+<!ENTITY window.width         "45em">
 
 <!ENTITY name.label           "Tên:">
 <!ENTITY name.accesskey       "T">
