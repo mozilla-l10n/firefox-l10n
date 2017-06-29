@@ -29,7 +29,7 @@ left instead of right. -->
 <!ENTITY  closeTabsToTheEnd.label            "જમણેથી ટૅબ બંધ કરો">
 <!ENTITY  closeTabsToTheEnd.accesskey        "ઇ">
 <!ENTITY  closeOtherTabs.label               "બીજા ટૅબને બંધ કરો">
-<!ENTITY  closeOtherTabs.accesskey           "o">
+<!ENTITY  closeOtherTabs.accesskey           "ઓ">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -37,7 +37,7 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 <!ENTITY  pinTab.label                       "ટૅબને જોડો">
-<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  pinTab.accesskey                   "પ">
 <!ENTITY  unpinTab.label                     "ટૅબ છોડો">
 <!ENTITY  unpinTab.accesskey                 "b">
 <!ENTITY  sendTabToDevice.label              "ઉપકરણ પર ટેબ મોકલો">
@@ -175,10 +175,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY shareSelect.accesskey "ર">
 <!ENTITY shareVideo.label "આ વિડિઓ શેર કરો">
 <!ENTITY shareVideo.accesskey "ર">
+<!ENTITY feedsMenu2.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
+<!ENTITY subscribeToPageMenupopup.label "આ પાનાંમાં ઉમેદવારી નોંધાવો">
 <!ENTITY subscribeToPageMenuitem.label "આ પાનાંમાં ઉમેદવારી નોંધાવો...">
 <!ENTITY addCurPagesCmd.label "બધી ટૅબ બુકમાર્ક કરો...">
 <!ENTITY showAllBookmarks2.label "બધી બુકમાર્કોને બતાવો">
+<!ENTITY recentBookmarks.label "તાજેતરમાં કરેલ બુકમાર્ક">
+<!ENTITY otherBookmarksCmd.label "અન્ય બુકમાર્ક્સ">
+<!ENTITY mobileBookmarksCmd.label "મોબાઇલ બુકમાર્કો">
 <!ENTITY bookmarksToolbarChevron.tooltip "વધુ બુકમાર્કો બતાવો">
+<!ENTITY showRecentlyBookmarked.label     "તાજેતરમાં કરેલ બુકમાર્ક">
+<!ENTITY hideRecentlyBookmarked.label     "તાજેતરમાં કરેલ બુકમાર્ક છુપાવો">
 
 <!ENTITY backCmd.label                "પાછળ">
 <!ENTITY backButton.tooltip           "એક પાનું પાછળ જાવ">
@@ -193,8 +200,20 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY printButton.label            "છાપો">
 <!ENTITY printButton.tooltip          "આ પાનું છાપો">
 
+<!ENTITY urlbar.viewSiteInfo.label                      "સાઇટની માહિતી જુઓ">
 
+<!ENTITY urlbar.defaultNotificationAnchor.tooltip         "સંદેશ પેનલ ખોલો">
+<!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "સ્થાન વિનંતી પેનલ ખોલો">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "ઍડ-ઑન ઇન્સ્ટોલેશન મેસેજ પેનલ ખોલો">
+<!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "ઑફલાઇન સંગ્રહ સંદેશ પેનલ ખોલો">
+<!ENTITY urlbar.passwordNotificationAnchor.tooltip        "પાસવર્ડ સંદેશ પેનલ સાચવો ખોલો">
+<!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "પ્લગ-ઇનનો ઉપયોગ સંચાલિત કરો">
+<!ENTITY urlbar.webNotificationAnchor.tooltip             "તમે સાઇટ પરથી સૂચનાઓ પ્રાપ્ત કરી શકો છો કે નહીં તે બદલો">
+<!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "સ્થાયી સંગ્રહમાં ડેટા સંગ્રહ કરો">
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "બ્રાઉઝર રીમોટ કંટ્રોલ હેઠળ છે">
 
+<!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "સાઇટ સાથે તમારા કેમેરા અને/અથવા માઇક્રોફોનને શેર કરવાનું મેનેજ કરો">
+<!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "સાઇટ સાથે તમારા માઇક્રોફોન શેર કરવાનું મેનેજ કરો">
 
 
 
