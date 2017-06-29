@@ -8,8 +8,8 @@
 <!ENTITY engine.tabs.accesskey "K">
 <!ENTITY engine.history.label "Historia">
 <!ENTITY engine.history.accesskey "H">
-<!ENTITY engine.passwords.label "Hasła">
-<!ENTITY engine.passwords.accesskey "a">
+<!ENTITY engine.logins.label "Dane logowania">
+<!ENTITY engine.logins.accesskey "a">
 <!ENTITY engine.prefs.label "Ustawienia">
 <!ENTITY engine.prefs.accesskey "U">
 <!ENTITY engine.addons.label "Dodatki">
