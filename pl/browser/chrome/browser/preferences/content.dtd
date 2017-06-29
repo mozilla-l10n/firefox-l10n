@@ -8,7 +8,7 @@
 
 <!ENTITY notificationsPolicy.label "Powiadomienia">
 <!ENTITY notificationsPolicyLearnMore.label "Więcej informacji">
-<!ENTITY notificationsPolicyDesc3.label "Wybierz strony mogące wyświetlać powiadomienia">
+<!ENTITY notificationsPolicyDesc3.label "Wybierz strony mogące wyświetlać powiadomienia.">
 <!ENTITY notificationsPolicyButton.label "Wybierz…">
 <!ENTITY notificationsPolicyButton.accesskey "">
 <!ENTITY notificationsDoNotDisturb.label "Nie przeszkadzać">
@@ -43,6 +43,6 @@
 <!ENTITY translation.options.attribution.afterLogo "">
 
 <!ENTITY drmContent.label "DRM">
-<!ENTITY playDRMContent.label "Odtwarzanie treści chronionych przez DRM">
+<!ENTITY playDRMContent.label "Odtwarzanie treści chronionych przez DRM.">
 <!ENTITY playDRMContent.accesskey "">
 <!ENTITY playDRMContent.learnMore.label "Więcej informacji">

@@ -16,7 +16,7 @@
 <!ENTITY trackingProtectionExceptions.label "Wyjątki…">
 <!ENTITY trackingProtectionExceptions.accesskey "">
 
-<!ENTITY trackingProtectionPBM5.label "Ochrona przed śledzeniem w oknach prywatnych">
+<!ENTITY trackingProtectionPBM5.label "Ochrona przed śledzeniem w oknach prywatnych.">
 <!ENTITY trackingProtectionPBM5.accesskey "">
 <!ENTITY trackingProtectionPBMLearnMore.label "Więcej informacji">
 <!ENTITY changeBlockList.label "Zmień listę blokowanych">

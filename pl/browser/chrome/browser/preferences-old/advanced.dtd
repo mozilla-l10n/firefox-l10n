@@ -29,17 +29,17 @@
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
 <!ENTITY healthReportDesc.label "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
-<!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;">
+<!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;.">
 <!ENTITY enableHealthReport.accesskey "F">
 <!ENTITY healthReportLearnMore.label "Więcej informacji">
 
 <!ENTITY telemetryDesc.label "Udostępnianie organizacji &vendorShortName; danych o wydajności, wykorzystaniu, modyfikacjach przeglądarki oraz o sprzęcie, na którym działa, ułatwia ulepszanie programu &brandShortName;.">
-<!ENTITY enableTelemetryData.label "Udostępnianie dodatkowych danych (np. Telemetrii)">
+<!ENTITY enableTelemetryData.label "Udostępnianie dodatkowych danych (np. Telemetrii).">
 <!ENTITY enableTelemetryData.accesskey "U">
 <!ENTITY telemetryLearnMore.label "Więcej informacji">
 
 <!ENTITY crashReporterDesc2.label "Zgłoszenia awarii pomagają organizacji &vendorShortName; poprawiać stabilność, bezpieczeństwo i naprawiać problemy z przeglądarką.">
-<!ENTITY alwaysSubmitCrashReports.label "Przesyłanie zgromadzonych zgłoszeń awarii programu &brandShortName;">
+<!ENTITY alwaysSubmitCrashReports.label "Przesyłanie zgromadzonych zgłoszeń awarii programu &brandShortName;.">
 <!ENTITY alwaysSubmitCrashReports.accesskey "e">
 <!ENTITY crashReporterLearnMore.label "Więcej informacji">
 
