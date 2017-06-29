@@ -70,6 +70,8 @@
 
 <!ENTITY updateTab.label                 "Aktualizacja">
 <!ENTITY updateApplication.label "Aktualizacje programu &brandShortName;">
+<!ENTITY updateApplication.version.pre "Wersja: ">
+<!ENTITY updateApplication.version.post "">
 <!ENTITY updateApplication.description "Zezwalaj programowi &brandShortName; na:">
 <!ENTITY updateAuto2.label "Automatyczne instalowanie aktualizacji (zalecane dla większego bezpieczeństwa)">
 <!ENTITY updateAuto2.accesskey "">
