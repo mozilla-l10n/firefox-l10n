@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Tschertgar en…">
 <!ENTITY loaddevice.browse.accesskey            "T">
 
+<!ENTITY loaddevice.title2                      "Chargiar il driver per l'indriz PKCS#11">

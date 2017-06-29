@@ -14,6 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Actualisar automaticamain mintga 3 secundas">
 <!ENTITY aboutNetworking.hostname              "Num dal host">
 <!ENTITY aboutNetworking.port                  "Port">
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Activ">
 <!ENTITY aboutNetworking.idle                  "inactiv">
@@ -40,3 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Resolver">
 <!ENTITY aboutNetworking.dnsDomain             "Domena">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "Statistica RCWN">
+<!ENTITY aboutNetworking.rcwnStatus            "Status RCWN">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Dumber da victorias dal cache">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Dumber da victorias da la rait">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Dumber total da dumondas a la rait">

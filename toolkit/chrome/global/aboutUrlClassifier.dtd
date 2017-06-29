@@ -8,5 +8,20 @@
 <!ENTITY aboutUrlClassifier.provider                    "Purschider">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Ultima actualisaziun">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Proxima actualisaziun">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Perioda d'interrupziun">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Status da l'ultima actualisaziun">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Actualisaziun">
+<!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">
+<!ENTITY aboutUrlClassifier.cacheRefreshBtn             "Actualisar">
+<!ENTITY aboutUrlClassifier.cacheClearBtn               "Stizzar">
+<!ENTITY aboutUrlClassifier.cacheTableName              "Num da la tabella">
+<!ENTITY aboutUrlClassifier.cacheNCacheEntries          "Dumber d'endataziuns negativas en il cache">
+<!ENTITY aboutUrlClassifier.cachePCacheEntries          "Dumber d'endataziuns positivas en il cache">
+<!ENTITY aboutUrlClassifier.cacheShowEntries            "Mussar las endataziuns">
+<!ENTITY aboutUrlClassifier.cacheEntries                "Endataziuns en il cache">
+<!ENTITY aboutUrlClassifier.cachePrefix                 "Prefix">
+<!ENTITY aboutUrlClassifier.cacheNCacheExpiry           "Scadenza da cache negativa">
+<!ENTITY aboutUrlClassifier.cacheFullhash               "Hash cumplet">
+<!ENTITY aboutUrlClassifier.cachePCacheExpiry           "Scadenza da cache positiva">
+<!ENTITY aboutUrlClassifier.debugTitle                  "Debugar">
+<!ENTITY aboutUrlClassifier.debugModuleBtn              "Activar ils moduls da protocol">
