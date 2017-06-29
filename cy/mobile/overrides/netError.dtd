@@ -70,7 +70,7 @@
 <!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>Gwiriwch eich gosodiadau dirprwy i sicrhau eu bod yn gywir.</li> <li>Gwiriwch i sicrhau fod gennych gysylltiad data a Wi-Fi sy'n gweithio. <button id='wifi'>Galluogi Diwifr</button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "Nid yw'r dudalen yn ailgyfeirio'n iawn">
-<!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei achosi drwy anablu neu wrthodcwci.</li> </ul>">
+<!ENTITY redirectLoop.longDesc "<ul> <li>Gall y broblem yma fod wedi ei achosi drwy analluogi neu wrthod cwci.</li> </ul>">
 
 <!ENTITY unknownSocketType.title "Ymateb annisgwyl gan y gweinydd">
 <!ENTITY unknownSocketType.longDesc "<ul> <li>Gwiriwch fod gan eich system Reolwr Diogelwch Personol wedi ei osod.</li> <li>Gall hyn fod oherwydd ffurfweddiad ansafonol ar y gweinydd.</li> </ul>">
