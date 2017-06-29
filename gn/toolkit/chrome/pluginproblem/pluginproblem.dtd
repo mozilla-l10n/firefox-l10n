@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
+<!ENTITY pluginActivationWarning                             "Ko tenda oipuru tembipuru'i ikatúva omombegue &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Epoko ko'ápe emyandy hag̃ua mboguerã'i.">
 <!ENTITY clickToActivatePlugin                               "Mba'ejoajurã myendy.">
 <!ENTITY checkForUpdates                                     "Ñembohekopyahu jeheka…">
@@ -28,4 +30,4 @@
 <!ENTITY plugin.file                                         "Marandurenda">
 <!ENTITY plugin.mimeTypes                                    "MIME peteĩchagua:">
 <!ENTITY plugin.flashProtectedMode.label                     "Embojuruja Flash reko ñemo'ãva">
-
+<!ENTITY plugin.enableBlocklists.label                       "Ejoko tetepy Flash kyhyjerã ha imarãva">
