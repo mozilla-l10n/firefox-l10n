@@ -98,11 +98,17 @@ Ping
   Bloccadas dal thread
 ">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "
+  Stacks Registrads
+">
 
 <!ENTITY aboutTelemetry.scalarsSection "
   Scalars
 ">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "
+  Scalars cun clav
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "
   Istograms
@@ -112,6 +118,9 @@ Ping
   Istograms cun clav
 ">
 
+<!ENTITY aboutTelemetry.eventsSection "
+  Eveniments
+">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
   Mesiraziuns simplas
@@ -145,7 +154,13 @@ Ping
   REMARTGA: Il debugging da SQL plaun è activà. Eventualmain vegnan entirs strings da SQL mussads sutvart. Quels na vegnan dentant betg tramess a Telemetry.
 ">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "
+  Retschaiver ils nums da funcziuns per ils stacks
+">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "
+  Mussar las datas bruttas dal stack
+">
 
 <!ENTITY aboutTelemetry.filterText "
   Filter (strings u /regexp/)
