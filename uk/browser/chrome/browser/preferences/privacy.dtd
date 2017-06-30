@@ -29,6 +29,7 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Історія відвідувань">
+<!ENTITY  permissions.label             "Дозволи">
 
 <!ENTITY  locationBar.label             "Панель адреси">
 
