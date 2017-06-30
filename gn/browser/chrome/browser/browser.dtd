@@ -233,6 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Tembiasakue jehechauka">
 
+<!ENTITY searchItem.title             "Heka">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Ñepyrũ">
@@ -300,7 +301,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "Mbohasarã">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "M"> 
 <!ENTITY pasteCmd.label           "Mboja">  
 <!ENTITY pasteCmd.key           "V">  
@@ -348,7 +349,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Tembiasakue ramovéva ñemopotĩ…">
 <!ENTITY appMenuHistory.restoreSession.label "Tembiapopa'ũ ramovéva ñembojevy">
 <!ENTITY appMenuHistory.viewSidebar.label "Tembiasakue renda yke jehechauka">
-
+<!ENTITY appMenuHelp.label "Pytyvõ">
 <!ENTITY appMenuHelp.tooltip "Poravorã ñepytyvõme jeike">
 
 <!ENTITY appMenuRemoteTabs.label "Tendayke oñembojuehepyre">
@@ -427,11 +428,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Hẽe">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Jopói:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -465,6 +468,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Heka">
+<!ENTITY searchIcon.tooltip           "Heka">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -548,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "Ko ovetã'i techaukaháre mbojoapy">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "URL monguatia">
 <!ENTITY emailPageCmd.label           "Joajuha mondo…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Ñongatu pyahu…">
@@ -675,7 +680,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Ta'ãngarupa yke mboty">
-
+<!ENTITY sidebarMenuClose.label         "Ta'ãngarupa yke mboty">
 
 <!ENTITY quitApplicationCmdWin2.label       "Ñesẽ">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -685,7 +690,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Ñesẽ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName;-gui ñesẽ">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Mboty">  
 <!ENTITY closeCmd.key                   "W">  
@@ -729,6 +734,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Ñe'ẽryru mbojoapy…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "Mohu'ã">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Jeikekatu">
@@ -835,9 +841,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Reipotavépa tembipuru?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Eiporavo hetaiterei moimbaha apytégui">
 <!ENTITY customizeMode.restoreDefaults "Ijypykuépe mbojevy">
-
+<!ENTITY customizeMode.done "Mohu'ã">
 <!ENTITY customizeMode.titlebar "Teratee renda">
-
+<!ENTITY customizeMode.toolbars2 "Tembipuru renda">
 <!ENTITY customizeMode.lwthemes "Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.myThemes "Mbojeguaha Aipurúva">
 <!ENTITY customizeMode.lwthemes.recommended "Jeroviaha">
@@ -937,8 +943,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-
-
+<!ENTITY updateManual.acceptButton.label "Emboguejy &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "E">
 <!ENTITY updateManual.cancelButton.label "Ani ko'ág̃a">
 <!ENTITY updateManual.cancelButton.accesskey "A">
 
@@ -948,11 +954,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.cancelButton.label "Ani ko'ág̃a">
 <!ENTITY updateRestart.cancelButton.accesskey "A">
-
+<!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Kuatiarogue rembiapo">
 
-
-
-
-
+<!ENTITY sendToDevice.label "Emondo mba'e'okápe…">
+<!ENTITY sendToDevice.viewTitle "Emondo mba'e'okápe">
+<!ENTITY sendToDevice.fxaRequired.label "Tekotevẽva">
+<!ENTITY sendToDevice.noDevices.label "Ndaipóri mba'e'oka ojepurukuaáva">
+<!ENTITY sendToDevice.syncNotReady.label "Mba'e'oka ñembojuehe…">

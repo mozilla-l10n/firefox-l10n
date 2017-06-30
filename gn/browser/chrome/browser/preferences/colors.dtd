@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Emyengovia sa'ykuéra kuatiarogue omoha'eñóva umi che aiporavova'ekuégui:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Katui">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Tema oho'ỹetéva oñondive">
