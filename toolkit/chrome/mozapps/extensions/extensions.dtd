@@ -15,7 +15,7 @@
 <!ENTITY listEmpty.recentUpdates.label        "நீங்கள் எந்த கூடுதல் இணைப்புகளையும் சமீபத்தில் புதுப்பிக்கவில்லை">
 <!ENTITY listEmpty.findUpdates.label          "புதுப்பித்தல்களுக்கு சரி பார்க்கவும்">
 <!ENTITY listEmpty.search.label               "பொருந்தும் எந்த கூடுதல் இணைப்புகளையும் காண முடியவில்லை">
-<!ENTITY listEmpty.button.label               "கூடுதல் இணைப்புகள் பற்றி மேலும் அறிய">
+<!ENTITY listEmpty.button.label               "துணை நிரல்கள் பற்றி மேலும் அறிய">
 <!ENTITY installAddonFromFile.label           "கோப்பிலிருந்து நீட்சிகள் நிறுவுகிறது…">
 <!ENTITY installAddonFromFile.accesskey       "க">
 <!ENTITY toolsMenu.tooltip                    "அனைத்து கூடுதல் இணைப்புகளுக்குமான கருவிகள்">
@@ -67,7 +67,7 @@
 <!ENTITY updates.resetUpdatesToManual.label          "கைமுறையாக புதுப்பிக்க அனைத்து கூடுதல் இணைப்புகளையும் மறுஅமை">
 <!ENTITY updates.resetUpdatesToManual.accesskey      "R">
 <!ENTITY updates.updating.label               "கூடுதல் இணைப்புகளை புதுப்பிக்கிறது">
-<!ENTITY updates.installed.label              "உங்கள் கூடுதல் இணைப்புகள் புதுப்பிக்கப்பட்டன.">
+<!ENTITY updates.installed.label              "உங்களின் துணை நிரல்கள் புதுப்பிக்கப்பட்டன.">
 <!ENTITY updates.downloaded.label             "உங்கள் கூடுதல் இணைப்பு பதிவிறக்கப்பட்டன.">
 <!ENTITY updates.restart.label                "நிறுவலை முடிக்க மறுதுவக்கவும்">
 <!ENTITY updates.noneFound.label              "புதுப்பித்தல்கள் எதுவும் காணப்படவில்லை">
@@ -179,7 +179,7 @@
 <!ENTITY search.filter2.label                 "தேடு:">
 <!ENTITY search.filter2.installed.label       "எனது நிரல்கள்">
 <!ENTITY search.filter2.installed.tooltip     "நிறுவப்பட்ட கூடுதல் இணைப்புகளை காட்டு">
-<!ENTITY search.filter2.available.label       "இருக்கும் கூடுதல் இணைப்புகள்">
+<!ENTITY search.filter2.available.label       "இருக்கும் துணை நிரல்கள்">
 <!ENTITY search.filter2.available.tooltip     "நிறுவ இருக்கும் கூடுதல் இணைப்புகளை காட்டு">
 
 <!ENTITY addon.homepage                       "முதன்மை பக்கம்">
