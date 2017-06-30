@@ -6,10 +6,10 @@
 
 <!-- about:config warning page -->
 <!-- LOCALIZATION NOTE: aboutWarningTitle.label should be attention grabbing and playful -->
-<!ENTITY aboutWarningTitle.label "ფრთხილად იყავით, ეს თოფი დატენილია!">
+<!ENTITY aboutWarningTitle.label "ფრთხილად, ეს იარაღი დატენილია!">
 <!ENTITY aboutWarningText.label "ამ დამატებითი პარამეტრების ცვლილებამ შესაძლოა პროგრამის მდგრადობა, უსაფრთხოება და წარმადობა დააზიანოს. მხოლოდ იმ შემთხვევაში განაგრძეთ, თუ დარწმუნებული ხართ რომ იცით, რასაც აკეთებთ.">
 <!ENTITY aboutWarningButton2.label "ვცნობ რისკებს!">
-<!ENTITY aboutWarningCheckbox.label "ამ გაფრთხილების ჩვენება შემდგომ">
+<!ENTITY aboutWarningCheckbox.label "გაფრთხილების ჩვენება ყოველ ჯერზე">
 
 <!ENTITY searchPrefs.label "ძიება:">
 <!ENTITY searchPrefs.accesskey "r">

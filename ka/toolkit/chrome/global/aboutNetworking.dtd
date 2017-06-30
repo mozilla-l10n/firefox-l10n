@@ -4,7 +4,7 @@
 
 <!ENTITY aboutNetworking.title                 "ქსელის შესახებ">
 <!ENTITY aboutNetworking.warning               "ეს მეტად ექსპერიმენტულია. უფროსების ნებართვის გარეშე არ გამოიყენოთ.">
-<!ENTITY aboutNetworking.showNextTime          "ამ გაფრთხილების ჩვენება შემდგომ">
+<!ENTITY aboutNetworking.showNextTime          "გაფრთხილების ჩვენება ყოველ ჯერზე">
 <!ENTITY aboutNetworking.ok                    "კარგი">
 <!ENTITY aboutNetworking.HTTP                  "HTTP">
 <!ENTITY aboutNetworking.sockets               "სოკეტები:">
