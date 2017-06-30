@@ -528,7 +528,8 @@
 <!ENTITY fullZoom.label                 "Powiększenie">
 <!ENTITY fullZoom.accesskey             "w">
 
-<!ENTITY sidebarCloseButton.tooltip     "Zamknij panel boczny">
+<!ENTITY sidebarCloseButton.tooltip "Zamyka panel boczny">
+<!ENTITY sidebarMenuClose.label "Zamknij panel boczny">
 
 <!ENTITY quitApplicationCmdWin2.label "Zakończ">
 <!ENTITY quitApplicationCmdWin2.accesskey "k">
