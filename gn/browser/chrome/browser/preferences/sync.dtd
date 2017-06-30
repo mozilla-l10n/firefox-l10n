@@ -6,12 +6,12 @@
 
 <!ENTITY engine.bookmarks.label     "Techaukaha">
 <!ENTITY engine.bookmarks.accesskey "m">
-
-
+<!ENTITY engine.tabs.label2         "Tendayképe jeike">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Tembiasakue">
 <!ENTITY engine.history.accesskey   "r">
-
-
+<!ENTITY engine.logins.label        "Tembiapo moñepyrũ">
+<!ENTITY engine.logins.accesskey    "T">
 <!ENTITY engine.prefs.label         "Jerohoryvéva">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "Moĩmbaha">
@@ -19,12 +19,12 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Mba'e'oka Réra">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName2.label "Emoambue mba'e'oka réra…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "Heja">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "n">
+<!ENTITY saveChangeSyncDeviceName.label "Eñongatu">
+<!ENTITY saveChangeSyncDeviceName.accesskey "v">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Mba'epytyvõrã ñemboguata">
@@ -47,26 +47,28 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Noñepyrúi tembiapo.">
-
-
+<!ENTITY signIn.label                "Eñemboheraguapy">
+<!ENTITY signIn.accesskey            "g">
 <!ENTITY profilePicture.tooltip      "Emoambue nera'ãga nemba'ete pegua">
+<!ENTITY verifiedManage.label        "Mba'ete ñangarekoha">
+<!ENTITY verifiedManage.accesskey    "o">
+<!ENTITY disconnect3.label           "Ñesẽte…">
+<!ENTITY disconnect3.accesskey       "D">
+<!ENTITY verify.label                "Marandu hechajey">
+<!ENTITY verify.accesskey            "V">
+<!ENTITY forget.label                "Eñembyesarái ko marandúgui">
+<!ENTITY forget.accesskey            "F">
 
-
-
-
-
-
-
-
-
+<!ENTITY signedOut.caption            "Egueraha neñanduti nendive">
 <!ENTITY signedOut.description        "Embojuehe nde rechaukaha, tembiasakue, tendayke, ñe'ẽñemi, moĩmbaha ha jerohoryvéva opaite nemba'e'oka rupi.">
 <!ENTITY signedOut.accountBox.title   "Eike &syncBrand.fxAccount.label; ndive">
+<!ENTITY signedOut.accountBox.create  "Mba'ete moheñói">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.signin  "Eike">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-
-
-
-
-
+<!ENTITY signedIn.settings.label       "Ñembojuehe ñemoĩporã">
+<!ENTITY signedIn.settings.description "Eiporavo mba'éichapa embojuehéta nemba'e'oka &brandShortName; ndive.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  trackingProtectionHeader2.label      "Eipuru Ñemo'ã Tapykuehógui">
+
 
 <!ENTITY  trackingProtectionAlways.label       "Akóinte">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
@@ -27,10 +29,11 @@
 <!ENTITY  doNotTrack.post.label         ".">
 
 <!ENTITY  history.label                 "Tembiasakue">
-
+<!ENTITY  permissions.label             "Ñemoneĩkuéra">
 
 <!ENTITY  locationBar.label             "Kundaharape renda">
 
+<!ENTITY  locbar.suggest2.label         "Eipurúramo kundaharape renda, eñemoñe'ẽ">
 <!ENTITY  locbar.history.label          "Tembiasakue">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "Techaukaha">
@@ -40,11 +43,13 @@
 <!ENTITY  locbar.searches.label         "Jehekakuéra ojueheguáva jeheka mongu'eha ypyguáva guive">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "Jerohoryvéva jehekaha mongu'eha je'epyre mombue">
 
 <!ENTITY  acceptCookies.label           "Kookie moneĩ">
 <!ENTITY  acceptCookies.accesskey       "A">
 
-
+<!ENTITY  acceptThirdParty.pre.label      "Emoneĩ kookie ambue mba'éva:">
+<!ENTITY  acceptThirdParty.pre.accesskey  "y">
 <!ENTITY  acceptThirdParty.always.label   "Katui">
 <!ENTITY  acceptThirdParty.never.label    "Araka'eve">
 <!ENTITY  acceptThirdParty.visited.label  "Jehopyre">
@@ -61,7 +66,8 @@
 <!ENTITY  showCookies.label             "Kookie Jehechauka…">
 <!ENTITY  showCookies.accesskey         "J">
 
-
+<!ENTITY  historyHeader2.pre.label         "&brandShortName; ikatútapa">
+<!ENTITY  historyHeader2.pre.accesskey     "w">
 <!ENTITY  historyHeader.remember.label     "Tembiasakuére ñemandu'a">
 <!ENTITY  historyHeader.dontremember.label "Ani nemandu'a tembiasakuére">
 <!ENTITY  historyHeader.custom.label       "Eiporu peteĩ ñemboheko mba'etéva tembiasakuépe g̃uarã">
@@ -101,8 +107,8 @@
 <!ENTITY  clearOnCloseSettings.label     "Ñemboheko…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersLearnMore.label      "Kuaave">
 
 
-
-
-
+<!ENTITY  browserContainersSettings.label        "Ñemboheko…">
+<!ENTITY  browserContainersSettings.accesskey    "i">

@@ -20,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Taity ha sa'ykuéra">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Teñoiha ijypykuéva:">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "Tuichakue:">
+<!ENTITY  defaultSize2.accesskey      "T">
 
 <!ENTITY  advancedFonts.label         "Opanungáva…">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -51,6 +52,7 @@
 <!ENTITY translation.options.attribution.beforeLogo "Ñe'ẽasaha">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM retepy">
 
 <!ENTITY  playDRMContent.label         "DRM retepýre eñembosarái">
 <!ENTITY  playDRMContent.accesskey     "P">

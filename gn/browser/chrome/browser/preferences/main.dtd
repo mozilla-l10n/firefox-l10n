@@ -4,12 +4,14 @@
 
 <!ENTITY startup.label             "Ñepyrũha">
 
-
-
+<!ENTITY startupPage2.label        "&brandShortName; Oñepyrũ vove">
+<!ENTITY startupPage2.accesskey    "s">
+<!ENTITY startupUserHomePage.label "Che kuatiarogue ñepyrũha jehechauka">
 <!ENTITY startupBlankPage.label    "Peteĩ kuatiarogue nandi jehechauka">
+<!ENTITY startupPrevSession.label  "Ovetã ha tendaykekuéra tembiapo paha rehegua jehechauka">
 
-
-
+<!ENTITY homepage2.label           "Kuatiarogue ñepyrũ">
+<!ENTITY homepage2.accesskey       "K">
 <!ENTITY useCurrentPage.label      "Kuatiarogue Ag̃agua jepuru">
 <!ENTITY useCurrentPage.accesskey  "C">
 <!ENTITY useMultiple.label         "Kuatiarogue ag̃agua jepuru">
@@ -26,10 +28,11 @@
 <!ENTITY chooseFolderWin.accesskey    "o">
 <!ENTITY chooseFolderMac.label        "Poravo…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY alwaysAskWhere.label         "Eporandumeméke chéve moõpa añongatúta marandurenda">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
-
-
-
+<!ENTITY alwaysCheckDefault2.label        "Ehecha tapia ha'épa &brandShortName; kundaha ypykuéva">
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Ejapo chugui ypykuéva">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "D">
 <!ENTITY isDefault.label                  "&brandShortName; ko'ág̃a nde hekaha ypykuéva">
@@ -37,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Emoneĩ &brandShortName; ha Firefox-pe ojepurúvo oñondivete">
 <!ENTITY useFirefoxSync.label             "Ñe'ẽkuaa: Kóva oipuru rechaukaha ipa'ũva. Oipuru Sync omoherakuã hag̃ua mba'ekuaarã oñondivekuéra.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Eñemboheguapy &syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Eike &syncBrand.shortName.label; eguerohoryvévape">
 
 <!ENTITY e10sEnabled.label                "&brandShortName; ñemboguataita myandy">
