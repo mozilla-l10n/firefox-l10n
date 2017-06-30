@@ -233,7 +233,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webNotificationsBlocked.tooltip  "Zakázali jste této stránce zobrazovat oznámení.">
 <!ENTITY urlbar.persistentStorageBlocked.tooltip "Této stránce jste zakázali ukládat data natrvalo.">
 
-<!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazit historii">
+<!ENTITY urlbar.openHistoryPopup.tooltip                "Zobrazí historii">
 
 <!ENTITY searchItem.title             "Hledání">
 
