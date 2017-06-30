@@ -45,7 +45,7 @@
 <!ENTITY certmgr.certname                     "სერთიფიკატის სახელი">
 <!ENTITY certmgr.certserver                   "საიტი">
 <!ENTITY certmgr.override_lifetime            "ვადა">
-<!ENTITY certmgr.tokenname                    "უსაფრთხოების მექანიზმი">
+<!ENTITY certmgr.tokenname                    "უსაფრთხოების მოწყობილობა">
 <!ENTITY certmgr.begins                       "ამოქმედების თარიღი">
 <!ENTITY certmgr.expires                      "ვადის გასვლის თარიღი">
 <!ENTITY certmgr.email                        "ელფოსტის მისამართი">

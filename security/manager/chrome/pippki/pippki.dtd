@@ -4,7 +4,7 @@
 
 <!-- Values for changepassword.xul -->
 <!ENTITY setPassword.title  "მთავარი პაროლის შეცვლა">
-<!ENTITY setPassword.tokenName.label "უსაფრთხოების მექანიზმი">
+<!ENTITY setPassword.tokenName.label "უსაფრთხოების მოწყობილობა">
 <!ENTITY setPassword.oldPassword.label "მიმდინარე პაროლი:">
 <!ENTITY setPassword.newPassword.label "ახალი პაროლი:">
 <!ENTITY setPassword.reenterPassword.label "ხალი პაროლი (კვლავ):">
@@ -37,8 +37,8 @@
 <!ENTITY pkcs12.setpassword.label2 "სერთიფიკატის დუბლირების პაროლი (კვლავ):">
 <!ENTITY pkcs12.setpassword.reminder "მნიშვნელოვანია: თუ სერთიფიკატის დუბლირების პაროლი დაგავიწყდათ, დუბლიკატის აღდგენას ვეღარ შეძლებთ.  გთხოვთ საიმედოდ შეინახოთ იგი.">
 
-<!ENTITY chooseToken.title  "რგოლის არჩევის დიალოგი">
-<!ENTITY chooseToken.message1 "რგოლის არჩევა.">
+<!ENTITY chooseToken.title  "ტალონის არჩევა">
+<!ENTITY chooseToken.message1 "გთხოვთ აირჩიოთ ტალონი">
 
 <!-- Strings for the CreateCertInfo dialog  -->
 <!ENTITY createCertInfo.title "პირადი გასაღების შექმნა">
@@ -46,6 +46,6 @@
 <!ENTITY createCertInfo.msg2 "შეიცადეთ…">
 
 <!-- Strings for protectedAuth dialog -->
-<!ENTITY protectedAuth.title "დაცული რგოლის აუთენტიფიკაცია">
-<!ENTITY protectedAuth.msg "გთხოვთ გაიიაროთ რგოლის აუთენტიფიკაცია. აუთენტიფიკაციის მეთოდი თქვენი რგოლის ტიპზეა დამოკიდებული.">
-<!ENTITY protectedAuth.tokenName.label "რგოლი:">
+<!ENTITY protectedAuth.title "დაცული ავტორიზაცია ტალონით">
+<!ENTITY protectedAuth.msg "გთხოვთ გაიაროთ ავტორიაცია ტალონის გამოყენებით. ავტორიზაციის მეთოდი ტალონის ტიპზეა დამოკიდებული.">
+<!ENTITY protectedAuth.tokenName.label "ტალონი:">
