@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Mbojoapypyre">
 <!ENTITY col.lastmodified.label  "Ñemoambue ramove">
 
+<!ENTITY search.placeholder  "Heka:">
 
 <!ENTITY cmd.find.key  "f">
 

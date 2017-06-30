@@ -10,5 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Jeikekatu'ỹ">
 <!ENTITY aboutAccounts.noConnection.description "Eikeva'erã ñandutípe eñepyrũ hag̃ua ko tembiapo.">
 <!ENTITY aboutAccounts.noConnection.retry "Eha'ã jey">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Ñemboheko ivaíva">
+<!ENTITY aboutAccounts.badConfig.description "Ndaikatúi ojehecha ñemboheko mohendahavusu Firefox mba'etéva. Ikatu piko eha'ã jey ág̃a mieve.">
