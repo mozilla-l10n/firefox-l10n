@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobiel-bladwijzers">
 <!ENTITY viewBookmarksSidebar2.label        "Bladwijzerzijbalk weergeven">
 <!ENTITY viewBookmarksToolbar.label         "Bladwijzerwerkbalk weergeven">
+<!ENTITY searchBookmarks.label              "Bladwijzers doorzoeken">
 
 <!ENTITY containersMenu.label "Containers">
 
@@ -854,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Meer thema’s verkrijgen">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
+<!ENTITY customizeMode.emptyOverflowList.description "Sleep items hiernaartoe om ze binnen handbereik maar buiten uw werkbalk te houden…">
 
 <!ENTITY getUserMedia.selectCamera.label "Te delen camera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
