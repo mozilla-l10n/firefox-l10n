@@ -180,6 +180,7 @@
 <!ENTITY bookmarksMenuButton.mobile.label "Segnalibri da dispositivi mobile">
 <!ENTITY viewBookmarksSidebar2.label "Visualizza barra laterale segnalibri">
 <!ENTITY viewBookmarksToolbar.label "Visualizza Barra dei segnalibri">
+<!ENTITY searchBookmarks.label "Cerca nei segnalibri">
 <!ENTITY containersMenu.label "Contenitori">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
