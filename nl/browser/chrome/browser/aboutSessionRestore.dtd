@@ -32,10 +32,10 @@
 <!ENTITY welcomeback2.tabtitle      "Gelukt!">
 
 <!ENTITY welcomeback2.pageTitle     "Gelukt!">
-<!ENTITY welcomeback2.pageInfo1     "&brandShortName; is klaar voor gebruik.">
+<!ENTITY welcomeback2.pageInfo1     "&brandShortName; is gereed voor gebruik.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Alle vensters en tabbladen herstellen">
-<!ENTITY welcomeback2.label.restoreSome "Alleen bepaalde vensters en tabbladen">
+<!ENTITY welcomeback2.restoreAll.label  "Alle vensters en tabbladen herstellen">
+<!ENTITY welcomeback2.restoreSome.label "Alleen bepaalde vensters en tabbladen">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
