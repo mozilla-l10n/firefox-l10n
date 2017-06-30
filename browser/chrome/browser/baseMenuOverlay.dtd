@@ -28,7 +28,7 @@
 <!ENTITY helpSafeMode.stop.label       "ჩართული დამატებებით გაშვება">
 <!ENTITY helpSafeMode.stop.accesskey   "ჩ">
 
-<!ENTITY healthReport2.label      "&brandShorterName; ჯანმრთელობის  მოხსენება">
+<!ENTITY healthReport2.label      "&brandShorterName; გამართულობის შესახებ მოხსენება">
 <!ENTITY healthReport2.accesskey  "ჯ">
 
 <!ENTITY helpTroubleshootingInfo.label      "გაუმართაობის აღმოფხვრა">
