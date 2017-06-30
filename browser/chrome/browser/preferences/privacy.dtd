@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "თვალთვალისგან დაცვა">
-<!ENTITY  trackingProtection.description       "თვალთვალი ეწოდება კომპანიების მიერ თქვენზე ინფორმაციის შეგროვებას და დამუშავებას, რომ თქვენი პირადი მონაცემების საფუძველზე, თქვენს მოთხოვნებზე უფრო მეტად მორგებული მომხახურება შემოგთავაზონ.">
+<!ENTITY  trackingProtection.description       "თვალთვალი ეწოდება კომპანიების მიერ თქვენზე ინფორმაციის შეგროვებას და დამუშავებას, რომ თქვენი პირადი მონაცემების საფუძველზე, თქვენს მოთხოვნებზე უფრო მეტად მორგებული მომსახურება შემოგთავაზონ.">
 <!ENTITY  trackingProtection.radioGroupLabel   "ცნობილი მოთვალთვალე კომპანიების შიგთავსის ჩვენების აკრძალვა">
 <!ENTITY  trackingProtectionAlways.label       "ყოველთვის">
 <!ENTITY  trackingProtectionAlways.accesskey   "ყ">
