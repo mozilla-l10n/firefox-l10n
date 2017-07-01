@@ -14,14 +14,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutTelemetry.generalDataSection "सरासनस्रा डाटा">
 
 
@@ -47,16 +39,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection "गोबाव लिरनाय">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "Add-ons जों बुथुमजानाय हिस्ट'ग्राम">
-
-<!ENTITY aboutTelemetry.toggle "खोन्दोखौ टग्गल खालामनो क्लिक खालाम">
-
-<!ENTITY aboutTelemetry.emptySection "(जेबो डाटा बुथुमाखै)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "नायनो गोनां: लासै SQL डेबागिंखौ हाहोनाय खालामनाय जायो। आबुं SQL स्ट्रिंखौ गाहायाव दिन्थिफुंनाय जानो हागौ नाथाय बिफोरखौ Telemetry आव गथायनाय जानाय नङा।">
 
 
 
 <!ENTITY aboutTelemetry.filterText "फिल्टार (स्ट्रिं एबा /regexp/)">
-
 

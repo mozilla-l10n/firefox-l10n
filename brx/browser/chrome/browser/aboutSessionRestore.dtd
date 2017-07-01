@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "जाफुंसारनाय!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; आ थांनो थियारि">
 
-<!ENTITY welcomeback2.label.restoreAll  "गासै उइन्ड' आरो टेबखौ बोखार">
-<!ENTITY welcomeback2.label.restoreSome "नोंथाङा लुबैनायखौल' लाबोफिन">
+<!ENTITY welcomeback2.restoreSome.label "नोंथाङा लुबैनायखौल' लाबोफिन">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
