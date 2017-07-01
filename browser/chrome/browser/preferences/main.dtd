@@ -31,7 +31,7 @@
 <!ENTITY alwaysAskWhere.label         "Spør alltid kvar eg vil lagre filer">
 <!ENTITY alwaysAskWhere.accesskey     "a">
 
-<!ENTITY alwaysCheckDefault2.label        "Kontroller alltid om &brandShortName; er standardnettlesar">
+<!ENTITY alwaysCheckDefault2.label        "Kontroller alltid om &brandShortName; er standard-nettlesar">
 <!ENTITY alwaysCheckDefault2.accesskey    "a">
 <!ENTITY setAsMyDefaultBrowser2.label     "Bruk som standard">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "B">

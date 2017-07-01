@@ -962,7 +962,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikkje no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
-<!ENTITY updateRestart.panelUI.label2 "Start om for å oppdatere &brandShorterName;">
+<!ENTITY updateRestart.panelUI.label2 "Start på nytt for å oppdatere &brandShorterName;">
 
 <!ENTITY pageActionButton.tooltip "Sidehandlingar">
 
