@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijos duomenys">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Keisti">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR duomenų išsiuntimas yra <span>įungtas</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR duomenų išsiuntimas yra <span>išjungtas</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Išplėstinis telemetrijos įrašinėjimas yra <span>įjungtas</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Išplėstinis telemetrijos įrašinėjimas yra <span>išjungtas</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Patikrinti duomenų šaltinio ryšį:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dabartinio ryšio patikrinimo duomenys">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archyve esantys ryšio tikrinimo duomenys">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ryšio tikrinimo duomenų rodymas:">
-
-<!ENTITY aboutTelemetry.structured "Struktūrizuotas">
 
 <!ENTITY aboutTelemetry.raw "Pirminis JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Niekada netikrinti ryšio">
 
 <!ENTITY aboutTelemetry.showOlderPing "Senesnis ryšio patikrinimas &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Pirminiai ryšio tikrinimo duomenys…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Savaitė">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Seanso informacija">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Priedų sukauptos histogramos">
-
-<!ENTITY aboutTelemetry.toggle "  Spustelėkite sekcijai išskleisti / suskleisti">
-
-<!ENTITY aboutTelemetry.emptySection "  (surinktų duomenų nėra)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  PASTABA: Įjungtas lėtų SQL sakinių derinimas. Žemiau gali būti rodomi pilni SQL sakiniai, tačiau jie nebus pateikiami telemetrijai.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Rinkti funkcijų vardus dėklams">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtras (tekstas arba /reguliarusis reiškinys/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Turinys">
-
-<!ENTITY aboutTelemetry.rawPayload "  Neapdorotas turinys">
