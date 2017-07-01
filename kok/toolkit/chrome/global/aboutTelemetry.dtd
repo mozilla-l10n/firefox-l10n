@@ -14,14 +14,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutTelemetry.generalDataSection "  सर्वसादारण डेटा">
 
 
@@ -47,16 +39,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection " लेट बरोवप">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection " अॅड-ऑन्सान एकठाय केल्ले हिस्टोग्रॅम्स">
-
-<!ENTITY aboutTelemetry.toggle " अदलाबदल विभागान क्लीक करात">
-
-<!ENTITY aboutTelemetry.emptySection "  (डेटा एकठाय करू ना)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ल्हव SQL डिबगींग सक्षम केला. पुराय SQL स्ट्रींग्ज सकयल दाखयल्यो वचत पूण त्यो टेलिमेट्रीक सादर केल्यो वचच्यो ना.">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रींग्ज वो /regexp/)">
-
 

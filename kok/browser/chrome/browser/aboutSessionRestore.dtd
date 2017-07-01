@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "यश!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; सुरू करपाक तयार आसा.">
 
-<!ENTITY welcomeback2.label.restoreAll  "सगळे विंडोज आनी टॅब्ज परत करात">
-<!ENTITY welcomeback2.label.restoreSome "तुमका जाय तेच परत करात">
+<!ENTITY welcomeback2.restoreSome.label "तुमका जाय तेच परत करात">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
