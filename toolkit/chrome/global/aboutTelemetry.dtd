@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dados de telemetria">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Alterar">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  O envio de dados FHR está <span>ativado</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  O envio de dados FHR está <span>desativado</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  A gravação estendida de telemetria está <span>ativada</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  A gravação estendida de telemetria está <span>desativada</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Fonte de dados ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dados ping atuais">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dados ping arquivados">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Apresentação de dados ping:">
-
-<!ENTITY aboutTelemetry.structured "Estruturado">
 
 <!ENTITY aboutTelemetry.raw "JSON em bruto">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping recente">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping antigo &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Dados ping em bruto…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Fraco">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informação da sessão">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas recolhidos por extras">
-
-<!ENTITY aboutTelemetry.toggle "  Clicar para alternar a secção">
-
-<!ENTITY aboutTelemetry.emptySection "  (Sem dados recolhidos)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: A depuração lenta de SQL está ativada. As strings de SQL completas poderão ser mostradas abaixo mas não serão submetidas à telemetria.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Obter nomes de funções para stacks">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtro (strings ou /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Payload em bruto">

@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores de dispositivo móvel">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de ferramentas de marcadores">
+<!ENTITY searchBookmarks.label              "Pesquisar marcadores">
 
 <!ENTITY containersMenu.label "Contentores">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -855,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obter mais temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.emptyOverflowList.description "Arraste e largue itens aqui para os manter ao alcance mas fora da sua barra de ferramentas…">
 
 <!ENTITY getUserMedia.selectCamera.label "Câmara a partilhar:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
