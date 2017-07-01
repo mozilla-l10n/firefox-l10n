@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Պատրաստ է">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName;-ը պատրաստ է:">
 
-<!ENTITY welcomeback2.label.restoreAll  "Վերականգնել բոլոր Պատուհանները և Ներդիրները">
-<!ENTITY welcomeback2.label.restoreSome "Վերականգնել միայն այն, ինչ պետք է Ձեզ">
+<!ENTITY welcomeback2.restoreSome.label "Վերականգնել միայն այն, ինչ պետք է Ձեզ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
