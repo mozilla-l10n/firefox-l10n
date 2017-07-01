@@ -13,7 +13,7 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-<!ENTITY tabCrashed.header2 "Ups. Fila s-a oprit neașteptat.">
+<!ENTITY tabCrashed.header2 "Of. Fila tocmai s-a închis neașteptat.">
 <!ENTITY tabCrashed.offerHelp "Te putem ajuta!">
 <!ENTITY tabCrashed.single.offerHelpMessage "Alege &tabCrashed.restoreTab; pentru a reîncărca conținutul paginii.">
 <!ENTITY tabCrashed.multiple.offerHelpMessage "Alege &tabCrashed.restoreTab; sau &tabCrashed.restoreAll; pentru a reîncărca conținutul paginii.">
