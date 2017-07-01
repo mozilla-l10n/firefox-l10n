@@ -34,8 +34,6 @@
 <!ENTITY welcomeback2.pageTitle     "Uspelo je!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; je pripravljen.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Obnovi vsa okna in zavihke">
-<!ENTITY welcomeback2.label.restoreSome "Obnovi samo izbrano">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
