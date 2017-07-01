@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Vörn gegn því að fylgst sé með þér">
-<!ENTITY  trackingProtection.description       "Fylgjast með er þegar fyrirtæki safna saman upplýsingum um þig til að búa til notandaprófil og birta innihald sem er byggt á þinni vafra sögu og persónulegum gögnum.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Loka á birtingu á gögnum frá þekktum fyrirtækjum sem fylgjast með þér">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Alltaf">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Aðeins í huliðsgluggum">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Fræðast meira">
 <!ENTITY  trackingProtectionExceptions.label   "Undanþágur…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Fylgjast með">
 <!ENTITY trackingProtectionPBM5.label         "Nota vörn gegn því að fylgst sé með þér í huliðsgluggum">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Fræðast meira">
 <!ENTITY changeBlockList.label          "Breyta lokunarlista">
 <!ENTITY changeBlockList.accesskey      "B">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "Þú getur einnig ">
-<!ENTITY  doNotTrack.settings.label     "stjórnað stillingum fyrir því að fylgst sé ekki með þér">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Ferill">
 <!ENTITY  permissions.label             "Heimildir">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Þiggja smákökur frá þriðja aðila:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Þ">
-<!ENTITY  acceptThirdParty.always.label   "Alltaf">
+
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
 
