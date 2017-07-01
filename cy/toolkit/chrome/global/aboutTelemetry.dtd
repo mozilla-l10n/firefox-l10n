@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetreg">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Newid">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Mae llwytho data FHR wedi ei <span>alluogi</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled " Mae llwytho data FHR wedi ei <span>analluogi</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Mae recordio Telemetreg Estynedig wedi ei <span>alluogi</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Mae recordio Telemetreg Estynedig wedi ei <span>analluogi</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ffynhonnell data ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping cyfredol">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping wedi ei archifo">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Dangos data ping:">
-
-<!ENTITY aboutTelemetry.structured "Strwythuredig">
 
 <!ENTITY aboutTelemetry.raw "JSON bras">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping mwy diweddar">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping hŷn &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Data ping bras…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wythnos">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Manylion Sesiwn">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramau Wedi eu Casglu gan Ategion">
-
-<!ENTITY aboutTelemetry.toggle "  Cliciwch i doglo'r dewis">
-
-<!ENTITY aboutTelemetry.emptySection "  (Heb gasglu data)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  SYLW: Mae dadfygio SQL araf wedi ei alluogi. Gall llinynnau SQL llawn gael eu dangos isod ond ni fyddant yn cael eu trosglwyddo i'r Telemetreg.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Estyn enwau swyddogaethau ar gyfer pentyrrau">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Hidl (llinyn neu /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Llwyth">
-
-<!ENTITY aboutTelemetry.rawPayload "  Llwyth bras">

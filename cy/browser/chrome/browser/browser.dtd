@@ -249,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
 
+
 <!ENTITY containersMenu.label "Cynwysyddion">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -855,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
+
 
 <!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
