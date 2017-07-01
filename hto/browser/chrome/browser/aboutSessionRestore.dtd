@@ -30,8 +30,7 @@
 <!ENTITY welcomeback2.pageTitle     "¡Ñúe íte!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ñúe íte ɨfoyena.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Éroirafo úitɨraɨ dɨga ábɨdo fɨno">
-<!ENTITY welcomeback2.label.restoreSome "Dajɨ ábɨdo fɨno">
+<!ENTITY welcomeback2.restoreSome.label "Dajɨ ábɨdo fɨno">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

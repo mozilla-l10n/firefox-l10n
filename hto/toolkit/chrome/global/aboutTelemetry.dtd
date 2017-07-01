@@ -4,18 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Ráanɨaɨ Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "       Méidote">
-
-
-
-
-
 <!ENTITY aboutTelemetry.pingDataSource "Jíyakɨmona ráanɨaɨ ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Bíruimo ráanɨaɨ ping">
-
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Éroide ráanɨaɨ Ping:">
 
 
 <!ENTITY aboutTelemetry.raw "JSON fɨnoñega">
@@ -26,7 +17,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping kómue">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping áiyo antigup &gt;&gt;">
-
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Enéfebamo mena móna">
 
@@ -57,9 +47,5 @@
 
 
 
-
-
-
 <!ENTITY aboutTelemetry.filterText " Múirode (ígaɨ íe /regexp/)">
-
 
