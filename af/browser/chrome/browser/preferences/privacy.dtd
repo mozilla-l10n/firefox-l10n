@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Volgbeskerming">
-<!ENTITY  trackingProtection.description       "Volging is wanneer maatskappye inligting oor iemand versamel om 'n profiel te bou en inhoud te vertoon gebaseer op blaaigedrag en persoonlike data.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Blok bekende volgmaatskappye om inhoud te vertoon">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Altyd">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Slegs in private vensters">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Meer inligting">
 <!ENTITY  trackingProtectionExceptions.label   "Uitsonderings…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Monitering">
 <!ENTITY trackingProtectionPBM5.label         "Gebruik volgbeskerming in private vensters">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Meer inligting">
 <!ENTITY changeBlockList.label          "Verander bloklys">
 <!ENTITY changeBlockList.accesskey      "V">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "Bestuur gerus ook die ">
-<!ENTITY  doNotTrack.settings.label     "instellings vir “Moenie volg nie”">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Geskiedenis">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Aanvaar derdeparty-koekies:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-<!ENTITY  acceptThirdParty.always.label   "Altyd">
+
 <!ENTITY  acceptThirdParty.never.label    "Nooit">
 <!ENTITY  acceptThirdParty.visited.label  "Sedert besoek">
 
