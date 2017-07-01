@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Keɓe Telemeetiri">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Waylu">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Jollugol keɓe FHR <span>hurminaama</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Jollugol keɓe FHR <span>dartinaama</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Nanngitol Telemeetiri Jaajnaaɗo <span>hurminaama</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Nanngitol Telemeetiri Jaajnaaɗo <span>dartinaama</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ƴoɓo sewnde keɓe:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Joɓol keɓe gonangol">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Ƴoɓol keɓe resanaama">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Jaytino ƴoɓol keɓe:">
-
-<!ENTITY aboutTelemetry.structured "Cañiɗum">
 
 <!ENTITY aboutTelemetry.raw "JSON Kecco">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Hoto ƴoɓoto">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ƴoɓol kiiɗngol &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Keɓe ƴoɓol kecce…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Yontere">
 
@@ -70,12 +54,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Humpito Naatal">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Asdiiwe ɗe Ɓeyditte Ndoɓindii">
-
-<!ENTITY aboutTelemetry.toggle "  Dobo ngam toggilaade taƴre">
-
-<!ENTITY aboutTelemetry.emptySection "  (Alaa keɓe ndoɓindaa)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Buggitagol SQL Leelɗo koko hurminaa. Ɓoggi SQL timmuɗi ena mbaawi jaytineede les ɗoo kono ɗo naatnoytaake to Telemeetiri.">
 
 
@@ -83,5 +61,3 @@
 <!ENTITY aboutTelemetry.filterText "  Ciimtinirgal (strings or /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Ndimdam">
-
-<!ENTITY aboutTelemetry.rawPayload "  Ndimdam Keccam">
