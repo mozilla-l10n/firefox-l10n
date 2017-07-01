@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry माहिती">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  बदल करा">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR डाटा अपलोड <span>सक्रीय आहे</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR डाटा अपलोड <span>निष्क्रीय आहे</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  विस्तारित टेलिमेट्री रेकॉर्डिंग <span>सक्रीय आहे</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  विस्तारित टेलिमेट्री रेकॉर्डिंग <span>निष्क्रीय आहे</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "पिंग डाटा स्रोत:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "सद्याचा पिंग डाटा">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "संग्रहित पिंग डाटा">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "पिंग डाटा दृश्य:">
-
-<!ENTITY aboutTelemetry.structured "संरचित">
 
 <!ENTITY aboutTelemetry.raw "मूळ JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नवीनतम पिंग">
 
 <!ENTITY aboutTelemetry.showOlderPing "जुना पिंग &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "मूळ पिंग डाटा...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  सत्र माहिती">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  ॲड-ऑन्स् तर्फे एकत्र केलेले हिस्टोग्राम्स">
-
-<!ENTITY aboutTelemetry.toggle "  भाग निपतनकरिता क्लिक करा">
-
-<!ENTITY aboutTelemetry.emptySection "  (माहिती एकत्र केली नाही)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  टीप: हळू SQL डीबगिंग सुरू आहे. पूर्ण SQL स्ट्रींग्स दाखवणे शक्य आहे परंतु ते Telemetryकडे सुपूर्द होणार नाही.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  स्टॅक्सकरिता फंक्शन नावे घ्या">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग्ज किंवा /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
-
-<!ENTITY aboutTelemetry.rawPayload "  मूळ पेलोड">
