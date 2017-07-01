@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "धारे बार पुथी चिनहा़ को ञेंल">
 <!ENTITY viewBookmarksToolbar.label         " पुथी चिनहा़  टुलबार ञेंल में">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -784,6 +785,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.lwthemes.menuGetMore "ढेर उयहा़र को ञाम">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY getUserMedia.selectCamera.label "हाटिञ ला़गित् कैमरा: (C)">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
