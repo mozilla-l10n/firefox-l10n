@@ -530,57 +530,40 @@ estos pasos:</p>
 conexiones basadas en HTTP:</p>
 
 <ul>
-  <li>
-    <strong>Opciones de conexión directa y conexión por
-    proxy</strong>: elija la versión HTTP y opciones para cada tipo de
-    conexión.
+  <li><strong>Opciones de conexión directa y conexión por proxy</strong>:
+    elija la versión HTTP y opciones para cada tipo de conexión.
     <ul>
-      <li><strong>Usar HTTP 1.0</strong>: elija esta opción para
-      utilizar la versión original de HTTP, estandarizada en
-      1996.</li>
-      <li><strong>Usar HTTP 1.1</strong>: elija esta opción para
-      utilizar la nueva versión de HTTP, que ofrece mejoras de
-      rendimiento, incluyendo un uso más eficiente de las conexiones
-      HTTP, mejor soporte para el uso de caché local en el lado
-      cliente, múltiples peticiones HTTP (<em>pipelining</em>) y un
-      control más refinado sobre las políticas de
-      caducidad y reemplazo de caché.</li>
-      <li><strong>Habilitar conexiones persistentes</strong>: seleccione esta
-      opción para mantener una conexión abierta para hacer
-      solicitudes HTTP adicionales, incrementando la velocidad.</li>
-      <li>
-        <strong>Habilitar <em>pipelining</em></strong>: seleccione esta
-        opción para habilitar el uso de <em>pipelining</em>, que
-        permite enviar más de una solicitud HTTP al servidor
-        simultáneamente, reduciendo las esperas al cargar
-        páginas.
-        <p><strong>Nota</strong>: la característica de
-        <em>pipelining</em> sólo está disponible con HTTP
-        1.1.</p>
-      </li>
-      <li><strong>Cadena del agente de usuario</strong>: el identificador
-        enviado por &brandShortName; a todos los sitios web se usa para
-        propósitos estadísticos sobre el uso de sitios web, pero a veces
-        también para suministrar ciertas características únicamente a
-        navegadores conocidos (una práctica conocida como "sniffing").
-        Consecuentemente, desmarcar alguna de estas casilla puede suponer
-        que los sitios web o los servicios de calendario remoto no
-        funcionen correctamente.
-        <ul>
-          <li><strong>Anunciar compatibilidad con Firefox</strong>: si está
-            activado, &brandShortName; se identificará a sí mismo a la vez
-            como &brandShortName; y también como compatible con Firefox.
-            Esto permite a los sitios web que buscan ciertos navegadores en
-            lugar de ciertas funcionalidades que funcionen correctamente con
-            &brandShortName;.</li>
-          <li><strong>Anunciar instalación de Lightning</strong>: esta opción
-            solo está disponible cuando la extensión de calendario Lightning
-            está instalada y activada. Si se activa, &brandShortName; añadirá
-            información sobre la presencia y versión de Lightning, para que
-            los sitios web de calendario y los servicios de calendario remoto
-            puedan personalizar su comunicación.</li>
-        </ul>
-      </li>
+      <li><strong>Usar HTTP 1.0</strong>: elija esta opción para utilizar la
+        versión original de HTTP, estandarizada en 1996. Esta opción está
+        pensada sobre todo por motivos de compatibilidad con los servidores
+        web y proxy más antiguos.</li>
+      <li><strong>Usar HTTP 1.1</strong>: elija esta opción para utilizar la
+        versión actual de HTTP, que ofrece mejoras de rendimiento, incluyendo
+        un uso más eficiente de las conexiones HTTP, mejor compatibilidad con
+        el uso de caché local en el lado del cliente y un control más refinado
+        sobre las políticas de caducidad y reemplazo de caché.</li>
+    </ul>
+  </li>
+  <li><strong>Cadena del agente de usuario</strong>: el identificador enviado
+    por &brandShortName; a todos los sitios web se usa para propósitos
+    estadísticos sobre el uso de sitios web, pero a veces también para
+    suministrar ciertas características únicamente a navegadores conocidos
+    (una práctica conocida como "sniffing"). Consecuentemente, desmarcar
+    alguna de estas casilla puede suponer que los sitios web o los servicios
+    de calendario remoto no funcionen correctamente.
+    <ul>
+      <li><strong>Anunciar compatibilidad con Firefox</strong>: si está
+        activado, &brandShortName; se identificará a sí mismo a la vez
+        como &brandShortName; y también como compatible con Firefox.
+        Esto permite a los sitios web que buscan ciertos navegadores en
+        lugar de ciertas funcionalidades que funcionen correctamente con
+        &brandShortName;.</li>
+      <li><strong>Anunciar instalación de Lightning</strong>: esta opción
+        solo está disponible cuando la extensión de calendario Lightning
+        está instalada y activada. Si se activa, &brandShortName; añadirá
+        información sobre la presencia y versión de Lightning, para que
+        los sitios web de calendario y los servicios de calendario remoto
+        puedan personalizar su comunicación.</li>
     </ul>
   </li>
 </ul>
