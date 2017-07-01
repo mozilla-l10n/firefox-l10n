@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "টেলিমেট্রি ডাটা">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  পরিবর্তন">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR তথ্য আপলোডে <span>সক্রিয়</span>।">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR তথ্য আপলোডে <span>নিষ্ক্রিয়</span>।">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "   সম্প্রসারিত টেলিমেট্রি রেকর্ডিং <span>সক্রিয়</span>।">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  সম্প্রসারিত টেলিমেট্রি রেকর্ডিং <span>নিষ্ক্রিয়</span>।">
-
 <!ENTITY aboutTelemetry.pingDataSource "পিং তথ্যের উৎস:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "বর্তমান পিং তথ্য">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "আর্কাইভ পিং তথ্য">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "পিং ডাটা প্রদর্শন:">
-
-<!ENTITY aboutTelemetry.structured "গাঠনিক">
 
 <!ENTITY aboutTelemetry.raw "পরিশোধিত JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; নতুন পিং">
 
 <!ENTITY aboutTelemetry.showOlderPing "পুরাতন পিং &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "অপরিশোধিত পিং ডাটা ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "সপ্তাহ">
 
@@ -70,12 +54,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  সিস্টেম সংক্রান্ত তথ্য">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  অ্যাড-অন দ্বারা হিস্টোগ্রাম সংগৃহীত">
-
-<!ENTITY aboutTelemetry.toggle "   সেকশন অদলবদল করার জন্য ক্লিক করুন">
-
-<!ENTITY aboutTelemetry.emptySection "  (কোন ডাটা সংগ্রহ করা হয়নি)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  নোট: ধীর গতির SQL ডিবাগিং সক্রিয় করা হয়েছে।সম্পূর্ণ SQL স্ট্রিং নীচে প্রদর্শিত হতে পারে কিন্তু তাদের টেলিমেট্রিতে উপস্থাপন করা হবে না।">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  স্ট্যাকের জন্য ফাংশনের নামসমূহ আনো">
@@ -84,5 +62,3 @@
 <!ENTITY aboutTelemetry.filterText "  ফিল্টার (স্ট্রিং অথবা /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  পেলোড">
-
-<!ENTITY aboutTelemetry.rawPayload "  পরিশোধিত পেলোড">
