@@ -247,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Techaukaha ra'ãngarupa yke recha">
 <!ENTITY viewBookmarksToolbar.label         "Techaukaha renda jehecha">
 
+
 <!ENTITY containersMenu.label "Mba'eryru">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -851,6 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY getUserMedia.selectCamera.label "Ta'angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

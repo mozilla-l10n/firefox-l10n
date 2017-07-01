@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Po'aite">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; oĩma oguata haguáicha">
 
-<!ENTITY welcomeback2.label.restoreAll  "Ovetã ha tendayke Mbojevyjey">
-<!ENTITY welcomeback2.label.restoreSome "Embojevyjey reipotávante">
+<!ENTITY welcomeback2.restoreSome.label "Embojevyjey reipotávante">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

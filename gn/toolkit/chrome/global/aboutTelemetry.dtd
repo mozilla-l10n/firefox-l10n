@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry mba'ekuaarã">
 
-<!ENTITY aboutTelemetry.changeDataChoices " Moambue">
-
-<!ENTITY aboutTelemetry.uploadEnabled " mba'ekuaarã ñemyenyhẽ FCF rehegua ha'e <span>jurujapyre</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled " mba'ekuaarã ñemyenyhẽ FCF rehegua ha'e <span>jejokopyre</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled " Ñongatuete Telemetry ipukúva ha'e <span>jurujapyre</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled " Ñongatuete Telemetry ipukúva ha'e <span>jejokopyre</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping mba'ekuaarã reñoiha:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Ping mba'ekuaarã ag̃aguáva">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Ping mba'ekuaarã ñongatupyre">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping mba'ekuaarã jechauka:">
-
-<!ENTITY aboutTelemetry.structured "Oñembohetepyre">
 
 <!ENTITY aboutTelemetry.raw "Raw JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ping ipyahuvéva">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping tuichavéva; &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Mba'ekuaarã ojy'ỹva…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Arapokõindy">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection " Marandu tembiapo rehegua">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograma ombyatýva tembipuru'i">
-
-<!ENTITY aboutTelemetry.toggle " Ejopy emoambue hag̃ua tembiapo">
-
-<!ENTITY aboutTelemetry.emptySection " (Noñembyatýi mba'ekuaarã)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning " HAIPYRE'I: SQL ñemopotĩ imbeguéva hendýma. Ikatu ohechauka joajuha opaichagua SQL rehegua hákatu noñemondomo'ãi Telemetry-pe.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Eguerujey tembiapoite réra jepytaite ojo'áva rehegua">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText " Mbogua (joajuha térã /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Ñemyenyhẽ oikóva">
-
-<!ENTITY aboutTelemetry.rawPayload "Marandu Jegua'ỹva">
