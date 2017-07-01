@@ -170,7 +170,7 @@
 <!-- Localization note (overlay_no_synced_devices) : Used when the menu option
      to send a tab to a synced device is pressed and no other synced devices
      are found. -->
-<!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos associados à Conta Firefox">
+<!ENTITY overlay_no_synced_devices "Não foram encontrados dispositivos ligados à Conta Firefox">
 
 <!ENTITY pref_category_search3 "Pesquisa">
 <!ENTITY pref_category_search_summary2 "Adicionar, definir predefinição, mostrar sugestões">
