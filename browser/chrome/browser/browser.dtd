@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "H">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent fleire tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
+<!ENTITY customizeMode.emptyOverflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men utanfor verktøylinja…">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som vert delt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
