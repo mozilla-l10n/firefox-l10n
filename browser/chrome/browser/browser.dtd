@@ -958,7 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY updateRestart.message "Etter ein rask omstart, vil &brandShorterName; gjenopprette alle opne faner og vindauge.">
 <!ENTITY updateRestart.header.message2 "Start på nytt for å oppdatere &brandShorterName;.">
-<!ENTITY updateRestart.acceptButton.label "Start om og gjenopprett">
+<!ENTITY updateRestart.acceptButton.label "Start på nytt og bygg oppatt">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Ikkje no">
 <!ENTITY updateRestart.cancelButton.accesskey "n">
