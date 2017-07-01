@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "البيانات المُؤقتة">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  غيّر">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  رفع بيانات تقرير حالة فَيرفُكس <span>مفعّل</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  رفع بيانات تقرير حالة فَيرفُكس <span>معطّل</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  تسجيل القياس عن بعد الموسع <span>مفعل</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  تسجيل القياس عن بعد الموسع <span>معطل</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "مصدر بيانات الطرْق:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "بيانات الطرْق الحالية">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "بيانات الطرْق المحفوظة">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "عرض بيانات الطرْق:">
-
-<!ENTITY aboutTelemetry.structured "منظّمة">
 
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; أحدث طرْق">
 
 <!ENTITY aboutTelemetry.showOlderPing "أقدم طرْق &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "بيانات الطرْق الخام…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "أسبوع">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  معلومات الجلسة">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  رسومات بيانية جمعتها الإضافات">
-
-<!ENTITY aboutTelemetry.toggle "  انقر لتبديل القسم">
-
-<!ENTITY aboutTelemetry.emptySection "  (لم تُجمع أي بيانات)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  ملاحظة: تنقيح SQL البطيء مُفعّل. قد تظهر نصوص SQL كاملة أدناه، لكن لن تُرسل إلى تليمتري.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  اجلب أسماء الدوال للمكدّسات">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  مرشح (نصوص أو /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  الحمولة">
-
-<!ENTITY aboutTelemetry.rawPayload "  الحمولة الخام">
