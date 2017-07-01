@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle " दूरमापी आंकड़ा">
 
-<!ENTITY aboutTelemetry.changeDataChoices "परिवर्तन">
-
-<!ENTITY aboutTelemetry.uploadEnabled "एफएचआर डेटा अपलोड <span>सक्षम किया गया हैं</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "एफएचआर डेटा अपलोड <span>अक्षम किया गया है</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "विस्तृत दूरमापी रिकॉर्डिंग <span>सक्षम किया गया हैं</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "विस्तृत दूरमापी रिकॉर्डिंग <span>अक्षम किया गया हैं</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "डेटा स्रोत को पिंग करे:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिंग डेटा">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "पिंग डेटा का अभिलेख किया गया">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "डाटा प्रदर्शन याद दिलाएँ:">
-
-<!ENTITY aboutTelemetry.structured "बनावटी">
 
 <!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नवीन पिंग">
 
 <!ENTITY aboutTelemetry.showOlderPing " पुराना पिंग &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "असंपूर्ण पिंग आंकड़ा…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
@@ -70,12 +54,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "तंत्र जानकारी">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection " आयत छवि एड-ओन द्वारा एकत्रित ">
-
-<!ENTITY aboutTelemetry.toggle "विभाग टॉगल करने के लिए क्लिक करें">
-
-<!ENTITY aboutTelemetry.emptySection ". .(कोई आंकड़ा एकत्रित नही)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीरे sql दोषसुधार सक्षम है. पूर्ण रूप से sql  वाक्यांश नीचे दिखाई  दे सकता है लेकिन वे दूरमापी को जमा किये जा सकते है ">
 
 
@@ -83,5 +61,3 @@
 <!ENTITY aboutTelemetry.filterText "फ़िल्टर (स्ट्रिंग या /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "भार">
-
-<!ENTITY aboutTelemetry.rawPayload "  असंपूर्ण पेलोड">
