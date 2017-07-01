@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
 <!ENTITY viewBookmarksToolbar.label         "पुस्तकचिनो उपकरणपट्टि देखाउनुहोस्">
 
+
 <!ENTITY containersMenu.label "कन्टेनरहरू">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -845,6 +846,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अरु आवरणहरू पाउनुहोस्">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY getUserMedia.selectCamera.label "क्यामेरलाई बाँड्ने:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

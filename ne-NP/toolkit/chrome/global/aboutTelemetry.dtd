@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "टेलीमेटरी डाटा">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  परिवर्तन">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR डाटा अपलोड <span>सक्रिय</span> गरिएको छ।">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR डाटा अपलोड <span>निस्क्रिय</span> गरिएको छ।">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  विस्तारित टेलीमेटरी रेकर्डिङ <span> सक्षम </span> गरियो।">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  विस्तारित टेलीमेटरी रेकर्डिङ <span>निस्क्रिय</span> गरियो।">
-
 <!ENTITY aboutTelemetry.pingDataSource "पिङ डाटा स्रोत:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिङ डाटा">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "अभिलेख गरिएको पिङ डाटा">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "पिङ डाटा प्रदर्शन:">
-
-<!ENTITY aboutTelemetry.structured "संरचना">
 
 <!ENTITY aboutTelemetry.raw "कच्चा JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नयाँ पिङ">
 
 <!ENTITY aboutTelemetry.showOlderPing "पुरानो पिङ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "कच्चा पिङ डाटा…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "हप्ता">
 
@@ -70,12 +54,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "सत्र जानकारी">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  एडअनहरूद्वारा हिस्टोग्रामहरू संकलन गरियो">
-
-<!ENTITY aboutTelemetry.toggle "  टगल सेक्सनमा क्लिक गर्नुहोस्">
-
-<!ENTITY aboutTelemetry.emptySection "  (कुनै पनि डाटा संकलित भएको छैन)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: ढिलो SQL त्रुटि सच्याउन सक्षम पारिएको छ। पूर्ण SQL स्ट्रिङहरू तल प्रदर्शित हुन सक्छ तर तिनीहरू टेलीमेटरीमा पेश गरिने छैन।">
 
 
@@ -83,5 +61,3 @@
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिङहरू वा /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  पेलोड">
-
-<!ENTITY aboutTelemetry.rawPayload "  कच्चा पेलोड">
