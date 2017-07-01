@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijne daty">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Změniś">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Nagraśe FHR-datow jo <span>zmóžnjone</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Nagraśe FHR-datow jo <span>znjemóžnjone</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Rozšyrjone telemetrijowe nagrawanje jo <span>zmóžnjone</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Rozšyrjone telemetrijowe nagrawanje jo <span>znjemóžnjone</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Žrědło pingdatow:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktualne pingdaty">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Archiwěrowane pingdaty">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Pingdaty pokazaś:">
-
-<!ENTITY aboutTelemetry.structured "Strukturěrowany">
 
 <!ENTITY aboutTelemetry.raw "Gropny JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nowšy ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Staršy ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Gropne pingdaty…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tyźeń">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Pósejźeńske informacije">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramy zezběrane pśez dodanki">
-
-<!ENTITY aboutTelemetry.toggle "  Klikniśo, aby wótrězk pśešaltował">
-
-<!ENTITY aboutTelemetry.emptySection "  (Žedne daty zběrane)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  GLĚDAJŚO: Pytanje za zmólkami za pómałe SQL-pśikaze jo zmóžnjone. Dopołne znamuškowe rjeśazki SQL daju se dołojce zwobrazniś, ale njebudu se do telemetrije pśenosowaś.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Funkciske mjenja za štapjele wótwołaś">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filter (znamuškowe rjeśazki abo /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Nakładna śěža">
-
-<!ENTITY aboutTelemetry.rawPayload "  Gropne wužywańske daty">
