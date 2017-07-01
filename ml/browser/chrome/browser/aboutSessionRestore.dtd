@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "വിജയിച്ചു!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; പോകാൻ തയ്യാറാണ്.">
 
-<!ENTITY welcomeback2.label.restoreAll  "എല്ലാ ജാലകങ്ങളും ടാബുകളും പുനഃസ്ഥാപിക്കുക">
-<!ENTITY welcomeback2.label.restoreSome "നിങ്ങക്കു വേണ്ടതു മാത്രം വീണ്ടെടുക്കുക ">
+<!ENTITY welcomeback2.restoreSome.label "നിങ്ങക്കു വേണ്ടതു മാത്രം വീണ്ടെടുക്കുക ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
