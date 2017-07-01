@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Di darikê dijareyan de nîşan bide">
 <!ENTITY viewBookmarksToolbar.label         "Di Darikê Bijareyan de Nîşan Bide">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -787,6 +788,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.restoreDefaults "Vegerîne ya standard">
 
 <!ENTITY customizeMode.titlebar "Darikê sernavê">
+
 
 
 
