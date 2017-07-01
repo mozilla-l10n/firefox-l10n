@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Succes!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; este gata de funcționare.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaurează toate ferestrele și filele">
-<!ENTITY welcomeback2.label.restoreSome "Restaurează numai pe cele care le dorești">
+<!ENTITY welcomeback2.restoreSome.label "Restaurează numai pe cele care le dorești">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
