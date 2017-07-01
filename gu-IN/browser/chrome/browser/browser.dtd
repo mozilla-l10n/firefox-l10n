@@ -420,6 +420,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.placeholder2          "સરનામું શોધો અથવા દાખલ કરો">
 <!ENTITY urlbar.accesskey             "d">
 <!-- LOCALIZATION NOTE (urlbar.extension.label): Used to indicate that a selected autocomplete entry is provided by an extension. -->
+<!ENTITY urlbar.extension.label       "એક્સ્ટેંન્શન:">
 <!ENTITY urlbar.switchToTab.label     "ટૅબને ખસેડો:">
 
 <!ENTITY urlbar.searchSuggestionsNotification.question "શું તમે સૂચનો સાથે તમારા શોધ અનુભવને સુધારવા માંગો છો?">
@@ -433,8 +434,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "છૂપી સૂચના:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
+<!ENTITY urlbar.searchSuggestionsNotification.hint "વસ્તુઓ શોધવા મદદ મેળવો! આગામી શોધ માટે &#x1F50E; સૂચનો જુઓ.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "વિકલ્પો બદલો…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "પસંદગીઓ બદલો…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 
 <!--
   Comment duplicated from browser-sets.inc:
@@ -456,6 +460,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
   for people to switch to Linux.
 
  -->
+<!ENTITY searchFocus.commandkey       "k">
 <!ENTITY searchFocus.commandkey2      "e">
 <!ENTITY searchFocusUnix.commandkey   "j">
 
@@ -497,7 +502,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY changeSearchSettings.tooltip "શોધ ના સેટિંગ્સ બદલો">
 
 <!ENTITY searchInNewTab.label         "નવી ટૅબમાં શોધો">
+<!ENTITY searchInNewTab.accesskey     "T">
 <!ENTITY searchSetAsDefault.label     "મૂળભૂત શોધ એંજીન તરીકે સેટ કરો">
+<!ENTITY searchSetAsDefault.accesskey "D">
 
 <!ENTITY openLinkCmdInTab.label       "નવી ટૅબમાં કડી ખોલો">
 <!ENTITY openLinkCmdInTab.accesskey   "T">
@@ -512,6 +519,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY openFrameCmd.label           "નવી વિન્ડોમાં ચોકઠું ખોલો">
 <!ENTITY openFrameCmd.accesskey       "W">
 <!ENTITY openLinkCmdInContainerTab.label "ન્યૂ કન્ટેઈનર ટૅબમાં કડી ખોલો">
+<!ENTITY openLinkCmdInContainerTab.accesskey "b">
 <!ENTITY showOnlyThisFrameCmd.label     "માત્ર આ ચોકઠું જ બતાવો">
 <!ENTITY showOnlyThisFrameCmd.accesskey "S">
 <!ENTITY reloadCmd.commandkey         "ર">
@@ -549,7 +557,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "આ ચોકઠું બુકમાર્ક કરો...">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-<!ENTITY copyURLCmd.label             "URL ની કૉપિ કરો">
+<!ENTITY copyURLCmd.label             "URL ની નકલ">
 <!ENTITY emailPageCmd.label           "ઇમેલ કડી…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "પાનું આ રીતે સંગ્રહો...">
@@ -574,6 +582,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY emailVideoCmd.label          "ઇમેલ વીડિયો…">
 <!ENTITY emailVideoCmd.accesskey      "a">
 <!ENTITY castVideoCmd.label           "ઉપકરણ પર વિડિઓ મોકલો">
+<!ENTITY castVideoCmd.accesskey       "e">
 <!ENTITY emailAudioCmd.label          "ઇમેલ ઓડિયો…">
 <!ENTITY emailAudioCmd.accesskey      "a">
 <!ENTITY playPluginCmd.label          "આ પ્લગઇન સક્રિય કરો">
@@ -610,14 +619,23 @@ items are mutually exclusive. -->
 <!ENTITY mediaMute.accesskey         "M">
 <!ENTITY mediaUnmute.label           "મૂંગાપણું દૂર કરો">
 <!ENTITY mediaUnmute.accesskey       "m">
+<!ENTITY mediaPlaybackRate2.label     "વગાડવાની ગતિ">
+<!ENTITY mediaPlaybackRate2.accesskey "d">
+<!ENTITY mediaPlaybackRate050x2.label "ધીમો (0.5 ×)">
+<!ENTITY mediaPlaybackRate050x2.accesskey "S">
 <!ENTITY mediaPlaybackRate100x2.label "સામાન્ય">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "ઝડપી (1.25 ×)">
+<!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "ઝડપી (1.5 ×)">
+<!ENTITY mediaPlaybackRate150x2.accesskey "a">
 <!-- LOCALIZATION NOTE: "Ludicrous" is a reference to the
 movie "Space Balls" and is meant to say that this speed is very
 fast. -->
 <!ENTITY mediaPlaybackRate200x2.label "હાસ્યાસ્પદ (2 ×)">
+<!ENTITY mediaPlaybackRate200x2.accesskey "L">
 <!ENTITY mediaLoop.label             "ગાળો">
+<!ENTITY mediaLoop.accesskey         "L">
 <!-- LOCALIZATION NOTE: The access keys for "Show Controls" and
 "Hide Controls" are the same because the two context-menu
 items are mutually exclusive. -->
@@ -668,17 +686,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sidebarMenuClose.label         "સાઇડબાર બંધ કરો">
 
 <!ENTITY quitApplicationCmdWin2.label       "બહાર નીકળો">
+<!ENTITY quitApplicationCmdWin2.accesskey   "x">
 <!ENTITY quitApplicationCmdWin2.tooltip     "બહાર નીકળો &brandShorterName;">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY quitApplicationCmd.label       "બંધ કરો"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "છોડી દો &brandShorterName;">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "બંધ કરો">  
 <!ENTITY closeCmd.key                   "W">  
 <!ENTITY closeCmd.accesskey             "C">
 
+<!ENTITY toggleMuteCmd.key              "M">
 
 <!ENTITY pageStyleMenu.label "પાનાં શૈલી">
 <!ENTITY pageStyleMenu.accesskey "y">
@@ -717,26 +738,48 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.accesskey "A">
 
 <!ENTITY editBookmark.done.label                     "પૂર્ણ થયું">
+<!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "સુરક્ષિત જોડાણ">
 <!ENTITY identity.connectionNotSecure "જોડાણ સુરક્ષિત નથી">
 <!ENTITY identity.connectionFile "આ પૃષ્ઠને તમારા કમ્પ્યુટર પર સંગ્રહિત છે.">
 <!ENTITY identity.connectionVerified2 "તમે આ સાઇટ સાથે સુરક્ષિત રીતે કનેક્ટેડ છો, દ્વારા માલિકી:">
 <!ENTITY identity.connectionInternal "આ એક સુરક્ષિત brandShortName; છે પાનું.">
+<!ENTITY identity.extensionPage "આ પાનું એક એક્સ્ટેન્શનથી લોડ કરવામાં આવે છે.">
+<!ENTITY identity.insecureLoginForms2 "આ પાનાં પર દાખલ લૉગિન્સ ચેડા થઈ શકે છે.">
 
 <!-- Strings for connection state warnings. -->
+<!ENTITY identity.activeBlocked "&BrandShortName; એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.">
+<!ENTITY identity.passiveLoaded "આ પૃષ્ઠનાં ભાગો સુરક્ષિત નથી (જેમ કે છબીઓ).">
+<!ENTITY identity.activeLoaded "તમે આ પૃષ્ઠ પર રક્ષણ અક્ષમ કર્યું છે.">
+<!ENTITY identity.weakEncryption "આ પાનું નબળા એન્ક્રિપ્શન વાપરે છે.">
 
 <!-- Strings for connection state warnings in the subview. -->
+<!ENTITY identity.description.insecure "આ સાઇટ પરનું તમારું કનેક્શન ખાનગી નથી. તમે સબમિટ કરેલ માહિતી(પાસવર્ડ્સ, સંદેશા, ક્રેડિટ કાર્ડ, વગેરે.) અન્ય લોકો દ્વારા જોઈ શકાય છે.">
+<!ENTITY identity.description.insecureLoginForms "આ પૃષ્ઠ પર તમે દાખલ કરેલ લૉગિન માહિતી સુરક્ષિત નથી અને તેની સાથે ચેડા થઈ શકે છે.">
+<!ENTITY identity.description.weakCipher "આ વેબસાઇટ સાથેનું તમારું કનેક્શન નબળા એન્ક્રિપ્શન ઉપયોગ કરે છે અને ખાનગી નથી.">
+<!ENTITY identity.description.weakCipher2 "અન્ય લોકો તમારી માહિતી જોઈ શકો છો અથવા વેબસાઇટની વર્તન સુધારો કરી શકો છો.">
+<!ENTITY identity.description.activeBlocked "&brandShortName; એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.">
+<!ENTITY identity.description.passiveLoaded "તમારું કનેક્શન ખાનગી નથી અને સાઇટ સાથે તમે શેર કરેલી માહિતી અન્ય લોકો દ્વારા જોઈ શકાશે.">
+<!ENTITY identity.description.passiveLoaded2 "આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે છબીઓ).">
+<!ENTITY identity.description.passiveLoaded3 "જોકે &brandShortName; કેટલીક સામગ્રીને અવરોધિત કરી છે, ત્યાં હજુ પણ તે પૃષ્ઠ પરની સામગ્રી છે જે સુરક્ષિત નથી (જેમ કે છબીઓ).">
+<!ENTITY identity.description.activeLoaded "આ વેબસાઇટમાં એવી સામગ્રી શામેલ છે જે સુરક્ષિત નથી (જેમ કે સ્ક્રિપ્ટ્સ) અને તેનાથી તમારું કનેક્શન ખાનગી નથી.">
+<!ENTITY identity.description.activeLoaded2 "તમે આ સાઇટ સાથે જે માહિતીનો ઉપયોગ કરો છો તે અન્ય લોકો દ્વારા જોઈ શકાય છે (જેમ કે પાસવર્ડ્સ, સંદેશા, ક્રેડિટ કાર્ડ વગેરે.).">
 
+<!ENTITY identity.enableMixedContentBlocking.label "સુરક્ષા સક્ષમ કરો">
 <!ENTITY identity.enableMixedContentBlocking.accesskey "E">
+<!ENTITY identity.disableMixedContentBlocking.label "હમણાં માટે રક્ષણ અક્ષમ કરો">
 <!ENTITY identity.disableMixedContentBlocking.accesskey "D">
 <!ENTITY identity.learnMore "વધારે શીખો">
 
+<!ENTITY identity.removeCertException.label "અપવાદ દૂર કરો">
 <!ENTITY identity.removeCertException.accesskey "R">
 
 <!ENTITY identity.moreInfoLinkText2 "વધારે જાણકારી">
 
 <!ENTITY identity.permissions "પરવાનગીઓ">
+<!ENTITY identity.permissionsEmpty "તમે આ સાઇટને કોઈ વિશેષ મંજૂરીઓ આપ્યા નથી.">
+<!ENTITY identity.permissionsReloadHint "ફેરફારો લાગુ કરવા માટે તમને પૃષ્ઠને ફરીથી લોડ કરવાની જરૂર પડી શકે છે.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
@@ -772,6 +815,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.copy.label                       "નકલ કરો">
 <!ENTITY syncedTabs.context.copy.accesskey                   "C">
 
+<!ENTITY syncedTabs.context.openAllInTabs.label              "બધું ટૅબમાં ખોલો">
 <!ENTITY syncedTabs.context.openAllInTabs.accesskey          "O">
 <!ENTITY syncedTabs.context.managedevices.label              "ઉપકરણો સંચાલિત કરો…">
 <!ENTITY syncedTabs.context.managedevices.accesskey          "D">
@@ -789,19 +833,35 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY social.addons.label "સેવાઓ સંચાલિત કરો…">
 
+<!ENTITY social.directory.label "સક્રિયકરણ ડાયરેક્ટરી">
+<!ENTITY social.directory.text "તમે ડિરેક્ટરીમાંથી શેર સેવાઓ સક્રિય કરી શકો છો.">
+<!ENTITY social.directory.button "મને ત્યા લઇ જા!">
+<!ENTITY social.directory.introText "તેને ઉમેરવા માટે સેવા પર ક્લિક કરો &brandShortName;.">
+<!ENTITY social.directory.viewmore.text "વધુ જુઓ">
 
 <!ENTITY customizeMode.menuAndToolbars.header2 "વધારાનાં સાધનો અને સંગ્રહો">
 <!ENTITY customizeMode.menuAndToolbars.empty "વધારે સાધનો ઇચ્છો છો?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "હજારો ઍડ-ઓનમાંથી પસંદ કરો">
 <!ENTITY customizeMode.restoreDefaults "મૂળભૂતને પુન:સંગ્રહો">
+<!ENTITY customizeMode.done "પૂર્ણ થયું">
 <!ENTITY customizeMode.titlebar "શીર્ષક પટ્ટી">
+<!ENTITY customizeMode.toolbars2 "સાધનપટ્ટીઓ">
+<!ENTITY customizeMode.lwthemes "વિષય">
+<!ENTITY customizeMode.lwthemes.myThemes "મારી વિષયવસ્તુઓ">
+<!ENTITY customizeMode.lwthemes.recommended "આગ્રહણીય">
+<!ENTITY customizeMode.lwthemes.menuManage "સંચાલિત કરો">
+<!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
+<!ENTITY customizeMode.lwthemes.menuGetMore "વધુ વિષય મેળવો">
+<!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 <!ENTITY getUserMedia.selectCamera.label "વહેંચવા માટે કૅમેરા:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "વહેંચવા માટે માઇક્રોફોન:">
 <!ENTITY getUserMedia.selectMicrophone.accesskey "M">
+<!ENTITY getUserMedia.audioCapture.label "ટેબમાંથી ઑડિઓ શેર કરવામાં આવશે.">
 <!ENTITY getUserMedia.allWindowsShared.message "તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.">
 
+<!ENTITY trackingProtection.title "ટ્રેકિંગ રક્ષણ">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
