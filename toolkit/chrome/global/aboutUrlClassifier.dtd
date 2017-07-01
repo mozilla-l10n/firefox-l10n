@@ -8,7 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Soláthraí">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Nuashonrú is déanaí">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "An chéad nuashonrú eile">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Tréimhse tarrac siar">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Stádas an nuashonraithe is déanaí">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Nuashonraigh">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Taisce">
