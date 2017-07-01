@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle "about:rights">
-<!ENTITY rights.intro-header "Acerca de sus derechos">
+<!ENTITY rights.title "Sobre sus derechos">
 <!ENTITY rights.intro "&brandFullName; es un software gratuito y de código abierto construido por una comunidad de miles de colaboradores de todo el mundo. Hay una serie de cosas que debería conocer:">
 <!ENTITY rights.intro-point1a "&brandShortName; está disponible para usted bajo los términos de la ">
 <!ENTITY rights.intro-point1b "Mozilla Public License (Licencia Pública de Mozilla)">

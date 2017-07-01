@@ -67,6 +67,7 @@
 <!ENTITY aboutSupport.a11yTitle "Accesibilidad">
 <!ENTITY aboutSupport.a11yActivated "Activado">
 <!ENTITY aboutSupport.a11yForceDisabled "Impedir accesibilidad">
+<!ENTITY aboutSupport.a11yHandlerUsed "Manejador accesible usado">
 <!ENTITY aboutSupport.libraryVersionsTitle "Versiones de bibliotecas">
 <!ENTITY aboutSupport.installationHistoryTitle "Historial de instalaciones">
 <!ENTITY aboutSupport.updateHistoryTitle "Historial de actualizaciones">
