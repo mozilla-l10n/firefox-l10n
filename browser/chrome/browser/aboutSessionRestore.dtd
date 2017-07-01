@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Wuspěch!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; móže započeć.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Wšě wokna a rajtarki wobnowić">
-<!ENTITY welcomeback2.label.restoreSome "Jenož požadane wobnowić">
+<!ENTITY welcomeback2.restoreAll.label  "Wšě wokna a rajtarki wobnowić">
+<!ENTITY welcomeback2.restoreSome.label "Jenož požadane wobnowić">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
