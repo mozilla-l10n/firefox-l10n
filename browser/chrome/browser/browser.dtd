@@ -240,6 +240,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 <!ENTITY viewBookmarksToolbar.label         "ଚିହ୍ନିତ ସ୍ଥାନଗୁଡ଼ିକର ସାଧନପଟିକୁ ଦେଖନ୍ତୁ">
 
+
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
   -  shortcut keys on Linux. -->
@@ -802,6 +803,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "ଅଧିକ ପ୍ରସଙ୍ଗ ପ୍ରାପ୍ତ କରନ୍ତୁ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY getUserMedia.selectCamera.label "ସହଭାଗ କରିବା ପାଇଁ କ୍ୟାମେରା:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
