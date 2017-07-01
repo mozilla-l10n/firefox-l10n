@@ -7,7 +7,7 @@
 <!ENTITY startupPage2.label        "Når &brandShortName; startar">
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Vis startsida">
-<!ENTITY startupBlankPage.label    "Vis tom side">
+<!ENTITY startupBlankPage.label    "Vis ei tom side">
 <!ENTITY startupPrevSession.label  "Vis vindauge og faner som vart brukte sist">
 
 <!ENTITY homepage2.label           "Startside">
