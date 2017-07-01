@@ -4,23 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "दूरमापी आंकड़ा">
 
-<!ENTITY aboutTelemetry.changeDataChoices "बदलू">
-
-<!ENTITY aboutTelemetry.uploadEnabled "FHR डेटा अपलोड अछि <span>सक्षम</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "FHR डेटा अपलोड अछि <span>अक्षम</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "बढ़ाएल गेल टेलीमेट्री रिकॉर्डिंग <span>सक्षम</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "बढ़ाएल गेल टेलीमेट्री रिकॉर्डिंग <span>अक्षम</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "पिंग आँकड़ा स्रोत:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "वर्तमान पिंग डेटा">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "आर्काइव पिंग डेटा">
-
-
 
 
 <!ENTITY aboutTelemetry.showSubsessionData "उपसत्र डेटा देखाबू">
@@ -30,7 +18,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; नवीन पिंग">
 
 <!ENTITY aboutTelemetry.showOlderPing "पुरान पिंग &gt;&gt;">
-
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "सप्ताह">
 
@@ -63,16 +50,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection "किछु देर सँ लिखू">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "आयत छवि एड-ओन द्वारा एकत्रित ">
-
-<!ENTITY aboutTelemetry.toggle "  खंड टागल करबाक लेल क्लिक करू">
-
-<!ENTITY aboutTelemetry.emptySection "कोनो आंकड़ा एकत्रित नहि">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "टिप्पणी: धीमा sql दोषसुधार सक्षम अछि. पूर्ण रूप सँ sql  वाक्यांश नीच्चाँ देखाइ दिए सकैत अछि मुदा ओ दूरमापी केँ जमा कएल जाए सकैत अछि ">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  फिल्टर (स्ट्रिंग अथवा /regexp/)">
-
 
