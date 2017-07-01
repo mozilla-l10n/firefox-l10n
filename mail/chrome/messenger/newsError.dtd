@@ -11,13 +11,21 @@
 <!ENTITY articleNotFound.title "لم يُعثر على المقالة">
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+
+<!ENTITY articleNotFound.desc "يقول خادوم مجموعة الأخبار أنه لم يجد المقالة.">
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+
+<!ENTITY serverResponded.title "استجابة خادوم مجموعة الأخبار:">
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
 
 <!ENTITY articleExpired.title "لربما انتهت صلاحية المقالة؟">
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+
+<!ENTITY trySearching.title "جرب البحث عن المقالة:">
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+
+<!ENTITY removeExpiredArticles.title "أزل كل المقالات منتهية الصلاحية">
