@@ -234,6 +234,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY viewBookmarksSidebar2.label        "Hwɛ saedbaa a wɔde sie mbukmaak">
 <!ENTITY viewBookmarksToolbar.label         "Hwɛ TuulBaa A Wɔde Sie Mbukmaak">
+<!ENTITY searchBookmarks.label              "Hwewhɛ Mbukmaak">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -790,6 +791,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes "Ntiim">
 
 <!ENTITY customizeMode.lwthemes.recommended "Edi adanse">
+
 
 
 
