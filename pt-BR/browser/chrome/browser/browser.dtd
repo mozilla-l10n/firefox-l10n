@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Favoritos do celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver painel de favoritos">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de favoritos">
+<!ENTITY searchBookmarks.label              "Pesquisar nos favoritos">
 
 <!ENTITY containersMenu.label "Containers">
 
