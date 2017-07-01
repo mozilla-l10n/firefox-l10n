@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de telemetría">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Cambiar">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  A puyada de datos de FHR ye <span>activada</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  A puyada de datos de FHR ye <span>desactivada</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  O rechistro de telemetría extendida ye <span>activau</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  O rechistro de telemetría extendida ye <span>desactivau</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Fuent de datos de ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Datos actuals de ping">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Datos de ping archivaus">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Amostrar datos de ping:">
-
-<!ENTITY aboutTelemetry.structured "Estructurau">
 
 <!ENTITY aboutTelemetry.raw "JSON crudo">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nunca fer ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping mas viello &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Datos crudos de ping ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Semana">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Información d'a sesión">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogramas replegaus por complementos">
-
-<!ENTITY aboutTelemetry.toggle "  Faiga clic ta desenrollar/reducir a sección">
-
-<!ENTITY aboutTelemetry.emptySection "  (No s'ha replegau garra dato)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  AVISO: A depuración de consultas SQL lentas ye activada. Talment as cadenas SQL completas se amuestren abaixo, pero no se ninviarán ta Telemetría.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Pillar los nombres d'as funcions d'as pilas">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtrar (cadenas u /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Carga util cruda">

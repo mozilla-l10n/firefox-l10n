@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protección contra Seguimiento">
-<!ENTITY  trackingProtection.description       "Seguimiento ye quan bella interpresa replega información sobre tu pa construyir un perfil y amostrar contenius basau en a suya navegación y datos personals.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Blocar las interpresas de seguimiento conoixidas pa que amuestren contenius">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Nomás en finestras privadas">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Saber-ne mas">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Seguimiento">
 <!ENTITY trackingProtectionPBM5.label         "Usar Protección contra Seguimiento en Finestras Privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber-ne mas">
 <!ENTITY changeBlockList.label          "Cambiar a lista de bloqueyos">
 <!ENTITY changeBlockList.accesskey      "C">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "Tamién puetz ">
-<!ENTITY  doNotTrack.settings.label     "chestionar los achustes anti-seguimiento">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Historial">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Acceptar las cookies de tercers:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Siempre">
+
 <!ENTITY  acceptThirdParty.never.label    "Nunca">
 <!ENTITY  acceptThirdParty.visited.label  "D'as visitadas">
 
