@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobile bokmerke">
 <!ENTITY viewBookmarksSidebar2.label        "Vis sidestolpe for bokmerke">
 <!ENTITY viewBookmarksToolbar.label         "Vis verktøylinje for bokmerke">
+<!ENTITY searchBookmarks.label              "Søk i bokmerke">
 
 <!ENTITY containersMenu.label "Konteinarar">
 
