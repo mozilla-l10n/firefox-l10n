@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Date telemetrice">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Modifică">
-
-<!ENTITY aboutTelemetry.uploadEnabled "   Încărcarea de date pentru raportul de stare (FHR) <span>activată</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "   Încărcarea de date pentru raportul de stare (FHR) <span>dezactivată</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Înregistrarea telemetriei extinse este <span>activată</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Înregistrarea telemetriei extinse este <span>dezactivată</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Sursa datelor pentru ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Date actuale ping">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Date ping arhivate">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Afișare date ping:">
-
-<!ENTITY aboutTelemetry.structured "Structurat">
 
 <!ENTITY aboutTelemetry.raw "JSON brut">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; ping mai recent">
 
 <!ENTITY aboutTelemetry.showOlderPing "&gt;&gt; ping mai vechi">
-
-<!ENTITY aboutTelemetry.rawPingData "Date de ping brute">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Săptămână">
 
@@ -71,12 +55,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informații privind sesiunea">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histograme colectate de suplimente">
-
-<!ENTITY aboutTelemetry.toggle "  Clic pentru a comuta secțiunea">
-
-<!ENTITY aboutTelemetry.emptySection "  (Nu sunt date colectate)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTĂ: Depanarea lentă SQL este activată. Șirurile SQL pot fi afișate mai jos, dar ele nu vor fi transmise de Telemetrie.">
 
 
@@ -84,5 +62,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtru (șir caracter sau /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Payload brut">
