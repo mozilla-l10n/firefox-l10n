@@ -219,6 +219,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 
+<!ENTITY searchBookmarks.label              "Хадгалсан хаяганд хайх">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -751,6 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.lwthemes.recommended "Санал болгогдсон">
+
 
 
 
