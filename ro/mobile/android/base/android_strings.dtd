@@ -55,8 +55,8 @@
 <!ENTITY  crash_send_report_message3 "Notifică &vendorShortName; despre această defecțiune astfel încât să o poată remedia">
 <!ENTITY  crash_include_url2 "Include adresa paginii pe care am fost">
 <!ENTITY  crash_sorry "Ne pare rău">
-<!ENTITY  crash_comment "Adaugă un comentariu (comentariile sunt vizibile publicului)">
-<!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze referitor la acest raport">
+<!ENTITY  crash_comment "Adaugă un comentariu (comentariile sunt vizibile public)">
+<!ENTITY  crash_allow_contact2 "Permite &vendorShortName; să mă contacteze cu privire la acest raport">
 <!ENTITY  crash_email "E-mailul tău">
 <!ENTITY  crash_closing_alert "Ieși fără să trimiți un raport de defecțiune?">
 <!ENTITY  sending_crash_report "Se trimite raportul de defecțiune\u2026">
