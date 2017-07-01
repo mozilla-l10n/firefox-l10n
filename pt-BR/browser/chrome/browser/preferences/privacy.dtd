@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Usar a proteção contra rastreamento para bloquear rastreadores conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "Só em janelas privativas">
@@ -17,11 +18,14 @@
 <!ENTITY trackingProtectionPBM5.label         "Usar proteção contra rastreamento em janelas privativas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Usar a proteção contra rastreamento na navegação privativa para bloquear rastreadores conhecidos">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber mais">
 <!ENTITY changeBlockList.label          "Alterar Lista de Bloqueios">
 <!ENTITY changeBlockList.accesskey      "A">
 
 <!ENTITY  doNotTrack.learnMore.label    "Saiba mais">
+<!ENTITY  doNotTrack.default.label      "Somente quando usar a proteção contra rastreamento">
 <!ENTITY  doNotTrack.always.label       "Sempre">
 
 <!ENTITY  history.label                 "Histórico">
