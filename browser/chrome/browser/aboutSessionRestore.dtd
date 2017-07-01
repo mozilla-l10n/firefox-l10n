@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Aðgerð tókst!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; er tilbúinn.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Endurheimta alla glugga og flipa">
-<!ENTITY welcomeback2.label.restoreSome "Endurheimta bara það sem þú vilt">
+<!ENTITY welcomeback2.restoreSome.label "Endurheimta bara það sem þú vilt">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

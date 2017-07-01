@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Fjarmælingargögn">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Breyta">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR gagnaupphal er <span>virkt</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR gagnaupphal er <span>óvirkt</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Skráning á auka fjarmælingum er <span>virkt</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Skráning á auka fjarmælingum er <span>óvirkt</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping gagnastaðsetning:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Núverandi ping gögn">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Vistuð ping gögn">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping gögn birt:">
-
-<!ENTITY aboutTelemetry.structured "Samsetning">
 
 <!ENTITY aboutTelemetry.raw "Hrátt JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nýrra ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Eldra ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Hrá ping gögn…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Vika">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Lotuupplýsingar">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Súlurit safnað af viðbótum">
-
-<!ENTITY aboutTelemetry.toggle "  Smelltu til víxla vali">
-
-<!ENTITY aboutTelemetry.emptySection "  (Engum gögnum safnað)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  ATHUGIÐ: Hægvirk SQL aflúsun er virk. Heildar SQL strengir gætu birst hér fyrir neðan en þeir verða ekki sendir á fjarmælingu.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Ná í nöfn falla fyrir stafla">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Sía (strengir eða /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Innihald">
-
-<!ENTITY aboutTelemetry.rawPayload "  Hrá gögn">
