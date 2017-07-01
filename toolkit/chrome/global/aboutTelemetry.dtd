@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dades de telemesura">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Canvia">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  L'enviament de dades del FHR està <span>habilitat</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  L'enviament de dades del FHR està <span>inhabilitat</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  L'enregistrament ampliat de la telemesura està <span>habilitat</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  L'enregistrament ampliat de la telemesura està <span>inhabilitat</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Font de dades de ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dades de ping actuals">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Dades de ping arxivades">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Visualització de dades de ping:">
-
-<!ENTITY aboutTelemetry.structured "Estructurat">
 
 <!ENTITY aboutTelemetry.raw "JSON sense processar">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping més recent">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping més antic &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Dades de ping sense processar…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Setmana">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informació de la sessió">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrames recollits pels complements">
-
-<!ENTITY aboutTelemetry.toggle "  Feu clic per canviar la secció">
-
-<!ENTITY aboutTelemetry.emptySection "  (No s'han recollit dades)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuració de SQL lenta està habilitada. Es poden mostrar les cadenes SQL completes a sota però no s'enviaran per a la telemesura.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Obtén els noms de les funcions per a les piles">
@@ -86,5 +64,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtra (cadenes o /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Càrrega útil">
-
-<!ENTITY aboutTelemetry.rawPayload "  Càrrega útil sense processar">

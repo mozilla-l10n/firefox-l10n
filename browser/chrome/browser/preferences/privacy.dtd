@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protecció contra el seguiment">
-<!ENTITY  trackingProtection.description       "«Seguiment» fa referència a les empreses que recullen informació vostra per crear un perfil i mostrar-vos contingut basat en la vostra navegació i dades personals.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Bloca el contingut d'empreses de seguiment conegudes">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Només en finestres privades">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Més informació">
 <!ENTITY  trackingProtectionExceptions.label   "Excepcions…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Seguiment">
 <!ENTITY trackingProtectionPBM5.label         "Utilitza la protecció contra el seguiment en les finestres privades">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Més informació">
 <!ENTITY changeBlockList.label          "Canvia la llista de bloquejos">
 <!ENTITY changeBlockList.accesskey      "C">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "També podeu ">
-<!ENTITY  doNotTrack.settings.label     "gestionar els paràmetres de «No vull ser seguit»">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Accepta galetes de tercers:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-<!ENTITY  acceptThirdParty.always.label   "Sempre">
+
 <!ENTITY  acceptThirdParty.never.label    "Mai">
 <!ENTITY  acceptThirdParty.visited.label  "De llocs visitats">
 

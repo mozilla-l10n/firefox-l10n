@@ -249,6 +249,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Mostra la barra lateral de les adreces d'interès">
 <!ENTITY viewBookmarksToolbar.label         "Mostra la barra de les adreces d'interès">
 
+
 <!ENTITY containersMenu.label "Contenidors">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -855,6 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
+
 
 <!ENTITY getUserMedia.selectCamera.label "Càmera per compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
