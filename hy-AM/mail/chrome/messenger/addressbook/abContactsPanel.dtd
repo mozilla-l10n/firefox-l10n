@@ -35,6 +35,10 @@
 <!ENTITY editMailingListContext.label       "Խմբագրել ցանկը">
 <!ENTITY editMailingListContext.accesskey   "Խ">
 
+
+
+
+
 <!ENTITY toButton.label                     "Ավելացնել Ում.">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Ավելացնել Cc.">
