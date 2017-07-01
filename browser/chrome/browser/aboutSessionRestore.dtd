@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Úspěch!">
 <!ENTITY welcomeback2.pageInfo1     "Aplikace &brandShortName; je připravená.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Obnovit všechna okna a panely">
-<!ENTITY welcomeback2.label.restoreSome "Obnovit pouze ty, které chcete">
+<!ENTITY welcomeback2.restoreAll.label  "Obnovit všechna okna a panely">
+<!ENTITY welcomeback2.restoreSome.label "Obnovit pouze ty, které chcete">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
