@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Roadennoù Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Kemmañ">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  <span>Gweredekaet</span> eo kas ar roadennoù FHR.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  <span>Diweredekaet</span> eo kas ar roadennoù FHR. ">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  <span>Gweredekaet</span> eo enrolladenn an Telemetry hiraet.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  <span>Diweredekaet</span> eo enrolladenn an Telemetry hiraet. ">
-
 <!ENTITY aboutTelemetry.pingDataSource "Mammenn roadennoù ping :">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Roadennoù ping bremanel">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Roadennoù ping diellet">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Skrammañ ar roadennoù ping:">
-
-<!ENTITY aboutTelemetry.structured "Frammet">
 
 <!ENTITY aboutTelemetry.raw "JSON diaoz">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping nevezoc'h">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping kozhoc'h &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Roadennoù ping diaoz...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sizhun">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Titouroù an estez">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Tellunioù dastumet gant an askouezhioù">
-
-<!ENTITY aboutTelemetry.toggle "  Klikit evit astennañ / bihanaat ar gevrenn">
-
-<!ENTITY aboutTelemetry.emptySection "  (Roadenn ebet bet dastumet)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTENN : Gweredekaet eo diveugañ an azgoulennoù SQL gorrek. Azgoulennoù SQL klok a c'hell bezañ diskouezet amañ dindan met ne vint ket kaset da Delemetry.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Atoriñ an anvioù arc'hwel evit an tornioù">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Sil (hedadoù pe /riñvenn reoliek/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Karg diaoz">
