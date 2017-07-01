@@ -4,24 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Pimo tic ki kama bor">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Lok">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Keto data me FHR <span>kicako woko</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Keto data me FHR <span>kijuko woko</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Mak me Telemetry ma kiyaro <span>kicako woko</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Mak me Telemetry ma kiyaro <span>kijuko woko</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Nong kama data oa iye:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Data pi nong ma kombedi">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data me nong ma okato">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Nyuto data me ping:">
-
 
 
 <!ENTITY aboutTelemetry.showSubsessionData "Nyut data me but kare">
@@ -31,8 +18,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Nong manyen">
 
 <!ENTITY aboutTelemetry.showOlderPing "Nong macon &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Data ma numu me ping…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Cabit">
 
@@ -67,16 +52,9 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Ngec me Kare">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Med-ikome ocoko cura me tic">
-
-<!ENTITY aboutTelemetry.toggle "  Dii me lokko but">
-
-<!ENTITY aboutTelemetry.emptySection "  (Tic mo peke ma kicoko)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  Ngec: Nongo bal i SQL mawoto mot kiye. Tol SQL ma opong mogo ki romo yaro piny ento pe ki bicwalo bot pimo tic.">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  Li (tol onyo /regexp/)">
-
 
