@@ -40,7 +40,7 @@
 <!ENTITY certmgr.editcert.trustemail          "Acest certificat poate identifica utilizatori de e-mail.">
 <!ENTITY certmgr.editcert.trustobjsign        "Acest certificat poate identifica creatori de software.">
 
-<!ENTITY certmgr.deletecert.title             "Ștergere certificat">
+<!ENTITY certmgr.deletecert.title             "Șterge certificatul">
 
 <!ENTITY certmgr.certname                     "Numele certificatului">
 <!ENTITY certmgr.certserver                   "Server">
