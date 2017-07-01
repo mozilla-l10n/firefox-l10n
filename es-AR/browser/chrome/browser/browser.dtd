@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores de celular">
 <!ENTITY viewBookmarksSidebar2.label        "Ver barra lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver barra de marcadores">
+<!ENTITY searchBookmarks.label              "Buscar Marcadores">
 
 <!ENTITY containersMenu.label "Contenedores">
 
@@ -854,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "m">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.emptyOverflowList.description "Arrastrar y soltar elementos aquí para mantenerlos a mano pero fuera de la barra de herramientas…">
 
 <!ENTITY getUserMedia.selectCamera.label "Cámara a compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
