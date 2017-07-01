@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "მზადაა!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; გასაშვებად მზადაა.">
 
-<!ENTITY welcomeback2.label.restoreAll  "ყველა ფანჯრის და ჩანართის აღდგენა">
-<!ENTITY welcomeback2.label.restoreSome "მხოლოდ სასურველის აღდგენა">
+<!ENTITY welcomeback2.restoreAll.label  "ყველა ფანჯრის &amp; ჩანართის აღდგენა">
+<!ENTITY welcomeback2.restoreSome.label "მხოლოდ სასურველის აღდგენა">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
