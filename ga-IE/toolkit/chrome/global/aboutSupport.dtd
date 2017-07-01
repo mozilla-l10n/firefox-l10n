@@ -53,7 +53,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Fillteán Próifíle">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Forlíontáin Chumasaithe">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht Tógála">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Cumraíocht an Leagain">
 <!ENTITY aboutSupport.appBasicsUserAgent "Gníomhaire Úsáideora">
 <!ENTITY aboutSupport.appBasicsOS "CO">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Úsáid Chuimhne">

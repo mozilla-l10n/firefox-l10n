@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Díchumasaíodh tuairisciú sonraí don chumraíocht leagain seo">
+
 <!ENTITY healthReportDesc.label          "Cabhraíonn seo leat feidhmíocht an bhrabhsálaí a thuiscint, agus seolann sé sonraí maidir le sláinte do leagan den bhrabhsálaí chuig &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cumasaigh Tuairisc Shláinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "T">
@@ -148,7 +150,7 @@ available. -->
 <!ENTITY limitContentProcessOption.label "Teorainn próiseála ábhair">
 <!ENTITY limitContentProcessOption.description "Beidh an brabhsálaí níos freagraí agus tuilleadh próiseas ábhair ar siúl má úsáidtear cluaisíní iomadúla, cé go n-úsáideann sé níos mó cuimhne.">
 <!ENTITY limitContentProcessOption.accesskey   "T">
-
-
+<!ENTITY limitContentProcessOption.disabledDescription "Ní féidir mionathrú a dhéanamh ar an líon próisis ábhair ach le hilphróiseáil &brandShortName; amháin.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Foghlaim conas seiceáil má tá an ilphróiseáil cumasaithe.">
 <!ENTITY allowHWAccel.label              "Úsáid luasghéarú crua-earraí más féidir">
 <!ENTITY allowHWAccel.accesskey          "r">
