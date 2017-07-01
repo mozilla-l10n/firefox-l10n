@@ -329,7 +329,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewToolbarsMenu.accesskey     "T"> 
 <!ENTITY viewSidebarMenu.label "Stranska vrstica">
 <!ENTITY viewSidebarMenu.accesskey "v">
-<!ENTITY viewCustomizeToolbar.label       "Po meri …"> 
+<!ENTITY viewCustomizeToolbar.label       "Prilagodi …"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "P">
 
 <!ENTITY historyMenu.label "Zgodovina">
