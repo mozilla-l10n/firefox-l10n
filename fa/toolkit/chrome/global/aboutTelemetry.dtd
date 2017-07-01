@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "اطلاعات مسافت‌سنجی">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  تغییر دادن">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  باگذاری اطلاعات FHR <span>فعال</span> است.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  باگذاری اطلاعات FHR <span>غیرفعال</span> است.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "ثبت داده های مکان‌سنجی اضافه <span>فعال شد</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  ثبت داده های مکان‌سنجی اضافه <span>غیر فعال شد</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "منبع اطلاعات پینگ:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "اطلاعات پینگ فعلی">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "بایگانی اطلاعات پینگ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "نمایش اطلاعات پینگ:">
-
-<!ENTITY aboutTelemetry.structured "ساختار یافته">
 
 <!ENTITY aboutTelemetry.raw "JSON خام">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; پینگ جدیدتر">
 
 <!ENTITY aboutTelemetry.showOlderPing "پینگ قدیمی‌تر &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "پینگ اطلاعات خام...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "هفته">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  اطلاعات نشست">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  نمودار هیستوگرام جمع‌آوری شده توسط افزونه‌ها">
-
-<!ENTITY aboutTelemetry.toggle "  کلیک برای تغییر وضعیت قسمت">
-
-<!ENTITY aboutTelemetry.emptySection "  (هیچ اطلاعاتی جمع‌آوری نشده)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  نکته: رفع‌اشکال SQLهای کُند فعال است. رشته‌های کامل SQL ممکن است در پایین نمایش داده شوند ولی آنها در مسافت‌سنج ثبت نخواهند شد.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  دریافت نام توابع برای پشته‌ها">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  فیلتر (رشته یا /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  گنجایش">
-
-<!ENTITY aboutTelemetry.rawPayload "  گنجایش خام">
