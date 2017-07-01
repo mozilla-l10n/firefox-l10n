@@ -20,6 +20,7 @@
 <!ENTITY checkUserSpelling.label "Revisar la ortografía según escribe">
 <!ENTITY checkUserSpelling.accesskey "v">
 <!ENTITY dataChoicesTab.label "Elección de datos">
+<!ENTITY healthReportingDisabled.label "La recopilación de datos está deshabilitada en esta configuración de compilación">
 <!ENTITY healthReportDesc.label "Le ayuda a entender el rendimiento de su navegador y comparte datos con &vendorShortName; sobre la salud de éste">
 <!ENTITY enableHealthReport.label "Activar el informe de salud de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey "R">

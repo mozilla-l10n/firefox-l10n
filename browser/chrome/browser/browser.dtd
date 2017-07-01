@@ -180,6 +180,7 @@
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores del móvil">
 <!ENTITY viewBookmarksSidebar2.label "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label "Ver la barra de marcadores">
+<!ENTITY searchBookmarks.label "Buscar marcadores">
 <!ENTITY containersMenu.label "Contenedores">
 <!ENTITY bookmarksGtkCmd.commandkey "o">
 <!ENTITY bookmarksWinCmd.commandkey "i">
@@ -323,6 +324,8 @@
 <!ENTITY searchFocusUnix.commandkey "j">
 <!ENTITY contentSearchInput.label "Criterios de búsqueda">
 <!ENTITY contentSearchSubmit.tooltip "Enviar búsqueda">
+<!ENTITY searchInput.placeholder "Buscar">
+<!ENTITY searchIcon.tooltip "Buscar">
 <!ENTITY searchFor.label "Buscar ">
 <!ENTITY searchWith.label " con:">
 <!ENTITY search.label "Buscar ">
@@ -609,6 +612,7 @@
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
+<!ENTITY customizeMode.emptyOverflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
@@ -686,3 +690,4 @@
 <!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
 <!ENTITY sendToDevice.fxaRequired.label "Requerido">
 <!ENTITY sendToDevice.noDevices.label "No hay dispositivos disponibles">
+<!ENTITY sendToDevice.syncNotReady.label "Sincronizando dispositivos…">

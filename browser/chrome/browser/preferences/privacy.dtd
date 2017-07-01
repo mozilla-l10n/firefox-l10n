@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY trackingProtectionHeader2.label "Protección contra rastreo">
-<!ENTITY trackingProtection.description "Rastrear consiste en que compañías recopilen información sobre usted para construir un perfil y mostrar contenido basado en sus datos personales y de navegación.">
-<!ENTITY trackingProtection.radioGroupLabel "Bloquear la visualización de contenido de compañías de rastreo conocidas">
+<!ENTITY trackingProtection2.description "El rastreo es la recopilación de sus datos de navegación a través de múltiples sitios web. El rastreo puede usarse para construir un perfil y mostrar contenido basado en su información personal y de navegación.">
+<!ENTITY trackingProtection2.radioGroupLabel "Usar protección contra rastreo para bloquear los rastreadores conocidos">
 <!ENTITY trackingProtectionAlways.label "Siempre">
 <!ENTITY trackingProtectionAlways.accesskey "i">
 <!ENTITY trackingProtectionPrivate.label "Solo en ventanas privadas">
@@ -14,16 +14,19 @@
 <!ENTITY trackingProtectionLearnMore.label "Saber más">
 <!ENTITY trackingProtectionExceptions.label "Excepciones…">
 <!ENTITY trackingProtectionExceptions.accesskey "x">
-<!ENTITY tracking.label "Rastreo">
 <!ENTITY trackingProtectionPBM5.label "Usar protección contra rastreo en ventanas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey "d">
+<!ENTITY trackingProtectionPBM6.label "Usar protección contra rastreo en la navegación privada para bloquear los rastreadores conocidos">
+<!ENTITY trackingProtectionPBM6.accesskey "d">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY changeBlockList.label "Cambiar lista de bloqueo">
 <!ENTITY changeBlockList.accesskey "l">
-<!ENTITY doNotTrack.pre.label "También puede ">
-<!ENTITY doNotTrack.settings.label "administrar sus ajustes de No rastrear">
-<!ENTITY doNotTrack.post.label ".">
+<!ENTITY doNotTrack.description 'Enviar a los sitios web una señal "No rastrearme".'>
+<!ENTITY doNotTrack.learnMore.label "Saber más">
+<!ENTITY doNotTrack.default.label "Solo al usar la protección contra rastreo">
+<!ENTITY doNotTrack.always.label "Siempre">
 <!ENTITY history.label "Historial">
+<!ENTITY permissions.label "Permisos">
 <!ENTITY locationBar.label "Barra de direcciones">
 <!ENTITY locbar.suggest2.label "Al usar la barra de direcciones, sugerir">
 <!ENTITY locbar.history.label "Historial">
