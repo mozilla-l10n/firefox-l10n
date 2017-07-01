@@ -14,14 +14,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutTelemetry.generalDataSection " সাধাৰণ তথ্য">
 
 
@@ -47,16 +39,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection "  শেষৰ লিখনিসমূহ">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  এড-অনসমূহ দ্বাৰা সংগ্ৰহ কৰা হিস্টোগ্ৰামসমূহ">
-
-<!ENTITY aboutTelemetry.toggle "  বিভাগ টগল কৰিবলৈ ক্লিক কৰক">
-
-<!ENTITY aboutTelemetry.emptySection "  (কোনো তথ্য সংগ্ৰহ কৰা হোৱা নাই)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  টোকা: লেহেম SQL ডিবাগিং সামৰ্থবান কৰা আছে। সম্পূৰ্ণ SQL স্ট্ৰিংসমূহ তলত দেখুৱা হব পাৰে কিন্তু সিহতক টেলিমেট্ৰিত জমা দিয়া নহব।">
 
 
 
 <!ENTITY aboutTelemetry.filterText " ফিল্টাৰ (স্ট্ৰিং অথবা /regexp/)">
-
 
