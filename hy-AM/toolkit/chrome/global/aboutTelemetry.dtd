@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-ի տվյալ">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Փոխել">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR տվյալը վերբեռնվել է որպես <span>միացված</span>:">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR տվյալը վերբեռնվել է որպես <span>անջատված</span>:">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Ընդլայնված Telemetry-ի գրառումները <span>միացված են</span>:">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Ընդլայնված Telemetry-ի գրառումները <span>անջատված են</span>:">
-
 <!ENTITY aboutTelemetry.pingDataSource "Փինգ տվյալի աղբյուրին.">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Ընթացիկ փինգի տվյալ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Արխիվացված փինգի տվյալ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Կանչի տվյալի ցուցադրումը.">
-
-<!ENTITY aboutTelemetry.structured "Կառուցված">
 
 <!ENTITY aboutTelemetry.raw "JSON տող">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; առանց փինգի">
 
 <!ENTITY aboutTelemetry.showOlderPing "Հի փինգ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Չմշակված կանչի տվյալ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Շաբաթ">
 
@@ -68,17 +52,10 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "      Տեղեկություն աշխատաշրջանի մասին">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Հավելումների կողմից հավաքած գծապատկերներ">
-
-<!ENTITY aboutTelemetry.toggle "  Սեղմեք՝ փոփոխելու համար">
-
-<!ENTITY aboutTelemetry.emptySection "  (տվյալները չեն հավաքվել)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  ՀԻՇԵՔ. Միացված է SQL-ի վրիպազերծման դանդաղ եղանակը։ Ստորև կարող են ցուցադրվել SQL ամբողջական տողեր, բայց դրանք չեն հաստատվի Telemetry-ում։">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Ընտրել գործառույթի անունները՝ շեղջերի համար">
 
 
 <!ENTITY aboutTelemetry.filterText "  Զտիչ (տողը կամ /regexp/)">
-
 
