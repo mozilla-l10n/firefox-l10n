@@ -645,7 +645,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "g">
 <!ENTITY videoFullScreen.label       "Celoten zaslon">
 <!ENTITY videoFullScreen.accesskey   "C">
-<!ENTITY videoSaveImage.label        "Shrani posnetek kot …">
+<!ENTITY videoSaveImage.label        "Shrani sličico videa kot …">
 <!ENTITY videoSaveImage.accesskey    "S">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
