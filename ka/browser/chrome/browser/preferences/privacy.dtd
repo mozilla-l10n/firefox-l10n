@@ -25,6 +25,10 @@
 <!ENTITY changeBlockList.label          "შეზღუდულთა სიის ჩასწორება">
 <!ENTITY changeBlockList.accesskey      "შ">
 
+<!ENTITY  doNotTrack.description        "საიტებისთვის “არ მითვალთვალო” მოთხოვნის გაგზავნა">
+<!ENTITY  doNotTrack.learnMore.label    "შეიტყვეთ მეტი">
+<!ENTITY  doNotTrack.default.label      "მხოლოდ, თვალთვალისგან დაცვის დროს">
+<!ENTITY  doNotTrack.always.label       "ყოველთვის">
 
 <!ENTITY  history.label                 "ისტორია">
 <!ENTITY  permissions.label             "უფლებები">
