@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "მობილურის სანიშნეები">
 <!ENTITY viewBookmarksSidebar2.label        "სანიშნეთა გვერდითი ზოლის ჩვენება">
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
+<!ENTITY searchBookmarks.label              "სანიშნეების ძიება">
 
 <!ENTITY containersMenu.label "სათავსოები">
 
@@ -854,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "მ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმებები">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
+<!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, მეტად ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
 
 <!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
 <!ENTITY getUserMedia.selectCamera.accesskey "კ">
