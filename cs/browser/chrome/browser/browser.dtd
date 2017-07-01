@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Záložky z mobilu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobrazit v postranní liště">
 <!ENTITY viewBookmarksToolbar.label         "Zobrazit lištu záložek">
+<!ENTITY searchBookmarks.label              "Hledat v záložkách">
 
 <!ENTITY containersMenu.label "Kontejnery">
 
