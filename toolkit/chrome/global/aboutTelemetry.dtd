@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Sonraí Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Athraigh">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Uasluchtú sonraí FHR <span>cumasaithe</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Uasluchtú sonraí FHR <span>díchumasaithe</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Taifeadadh breisithe Telemetry <span>cumasaithe</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Taifeadadh breisithe Telemetry <span>díchumasaithe</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Foinse sonraí pingithe:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Sonraí pingithe reatha">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Sonraí pingithe sa chartlann">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Taispeáint pinge sonraí:">
-
-<!ENTITY aboutTelemetry.structured "Struchtúrtha">
 
 <!ENTITY aboutTelemetry.raw "JSON amh">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping níos nuaí">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping níos sine &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Amhshonraí pinge...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Seachtain">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Faisnéis an tSeisiúin">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histeagraim Bailithe ag Breiseáin">
-
-<!ENTITY aboutTelemetry.toggle "  Cliceáil chun scoránú">
-
-<!ENTITY aboutTelemetry.emptySection "  (Níl aon sonraí bailithe)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning " Nod: Tá dífhabhtú mall SQL ar siúl. D'fhéadfadh go mbeadh teaghráin iomlána SQL á dtaispeáint thíos, ach ní sheolfar chuig Telemetry iad.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Faigh ainmneacha na bhfeidhmeanna leis an gcruach a thaispeáint">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Scagadh (teaghrán nó /slonn/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Pálasta">
-
-<!ENTITY aboutTelemetry.rawPayload "  Pálasta Amh">
