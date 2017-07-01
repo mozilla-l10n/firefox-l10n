@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Success!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; is ready to go.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restore all Windows and Tabs">
-<!ENTITY welcomeback2.label.restoreSome "Restore only the ones you want">
+<!ENTITY welcomeback2.restoreSome.label "Restore only the ones you want">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
