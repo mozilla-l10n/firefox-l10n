@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Ongi!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; erabiltzeko prest dago.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Berreskuratu leiho eta fitxa guztiak">
-<!ENTITY welcomeback2.label.restoreSome "Berreskuratu nahi dituzunak soilik">
+<!ENTITY welcomeback2.restoreSome.label "Berreskuratu nahi dituzunak soilik">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

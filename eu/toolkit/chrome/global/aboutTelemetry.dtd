@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry datuak">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Aldatu">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR datuak igotzea <span>gaituta</span> dago.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR datuak igotzea <span>desgaituta</span> dago.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Telemetry-ren grabatze hedatua <span>gaituta</span> dago.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Telemetry-ren grabatze hedatua <span>desgaituta</span> dago.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping datu-iturria:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Uneko ping datuak">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Artxibatutako ping datuak">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping datuen bistaratzea:">
-
-<!ENTITY aboutTelemetry.structured "Egituratua">
 
 <!ENTITY aboutTelemetry.raw "JSON gordina">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping berriagoa">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping zaharragoa &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Ping datu gordinak ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Astea">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Saioaren informazioa">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Gehigarriek bildutako histogramak">
-
-<!ENTITY aboutTelemetry.toggle "  Egin klik atala txandakatzeko">
-
-<!ENTITY aboutTelemetry.emptySection "  (Bildutako daturik ez)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  OHARRA: SQL motelaren arazketa gaituta dago. SQL kate osoak bistara litezke azpian baina ez dira Telemetry-ra bidaliko.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Eskuratu pilen funtzio-deiak">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Iragazi (kateak edo /adierazpen-erregularra/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Eskaera-karga">
-
-<!ENTITY aboutTelemetry.rawPayload "  Eskaera-karga gordina">
