@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Uspjeh!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; je spreman.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Vrati sve prozore i tabove">
-<!ENTITY welcomeback2.label.restoreSome "Vrati samo one koje želim">
+<!ENTITY welcomeback2.restoreSome.label "Vrati samo one koje želim">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

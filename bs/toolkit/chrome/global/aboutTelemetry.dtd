@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrijski podaci">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Promijeni">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR slanje podataka je <span>omogućeno</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR slanje podataka je <span>onemogućeno</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Prošireno snimanje telemetrije je <span>omogućeno</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Prošireno snimanje telemetrije je <span>onemogućeno</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Izvor ping podataka:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Trenutni ping podaci">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arhivirani ping podaci">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Prikaz ping podataka:">
-
-<!ENTITY aboutTelemetry.structured "Strukturisano">
 
 <!ENTITY aboutTelemetry.raw "Sirovi JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; noviji ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Stariji ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Sirovi ping podaci...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sedmica">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informacije o sesiji">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogrami prikpljeni od strane add-ona">
-
-<!ENTITY aboutTelemetry.toggle "  Kliknite za uključivanje/isključivanje sekcije">
-
-<!ENTITY aboutTelemetry.emptySection "  (Nema prikupljenih podataka)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NAPOMENA: Debuggiranje sporog SQL-a je omogućeno. Puni SQL stringovi mogu biti prikazani ispod ali neće biti poslani Telemetry-u.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Dobavi nazive funkcija za stack-ove">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtriraj (stringove ili /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "  Sirovi payload">
