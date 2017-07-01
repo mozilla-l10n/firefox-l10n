@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Ewutha'w">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; putxya ewnxa' ũ'sga.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Jxuka pheu'ya txudenxisatx' vxite vxitx le'çxkwetx">
-<!ENTITY welcomeback2.label.restoreSome "Maisa'txçxãa pheu'ya">
+<!ENTITY welcomeback2.restoreSome.label "Maisa'txçxãa pheu'ya">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
