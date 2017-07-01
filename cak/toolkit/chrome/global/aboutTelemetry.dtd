@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Taq rutzij Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Tijal">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Ri rutaqik rutzij ri FHR <span>tzijon</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Ri rutaqik rutzij ri FHR <span>chupun</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Ri rik'ïl rutz'ib'axik Telemetry wakami <span> tzijïl</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Ri rik'ïl rutz'ib'axik Telemetry wakami <span> chupül</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Kixe'el ri taq rutzij ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Taq rutzij wakami ri ping">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Yakon taq rutzij ri ping">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Tik'ut pe rutzij ping:">
-
-<!ENTITY aboutTelemetry.structured "Ch'akulan">
 
 <!ENTITY aboutTelemetry.raw "Man samajin ta JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; K'ak'a' chi ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ojer chi ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Rukuta'm ping tzij…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Etamab'äl pa ruwi' molojri'ïl">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Molon taq tem k'ulwäch ruma taq tz'aqat">
-
-<!ENTITY aboutTelemetry.toggle "  Tapitz'a' richin najalwachij ri peraj">
-
-<!ENTITY aboutTelemetry.emptySection "  (Man emolon ta taq tzij)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: Ri eqal chojmirisanem SQL chupül. Tikirel yek'ut pe tz'aqät taq SQL rucholajil xa xe chi man xketaq ta pa Telemetry">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  Ke'ilitäj taq ajsamaj b'i'aj pa ri taq kutam kichin taq tzub'aj">
@@ -87,5 +65,3 @@
 <!ENTITY aboutTelemetry.filterText "  Tichayüx (taq cholajil o /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Rupam">
-
-<!ENTITY aboutTelemetry.rawPayload "  Kutam taq tzij ütz rutzijik">
