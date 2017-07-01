@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protección de rastreo">
-<!ENTITY  trackingProtection.description       "Rastreo significa que las compañías recolectan información acerca suyo para crear un perfil y mostrarle contenidos basados en su navegación y sus datos personales.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Evitar que las empresas de rastreo muestren contenido">
+<!ENTITY  trackingProtection2.description      "Rastreo es la recolección de sus datos de navegación a través de múltiples sitios Web. Rastreo puede utilizarse para crear un perfil y mostrar contenido basado en su navegación e información personal.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Use la Protección de rastreo para bloquear rastreadores conocidos">
 <!ENTITY  trackingProtectionAlways.label       "Siempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Solo en ventanas privadas">
@@ -15,18 +15,20 @@
 <!ENTITY  trackingProtectionExceptions.label   "Excepciones…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "Rastreo">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Usar protección de rastreo en ventanas privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Use la Protección de rastreo en la navegación privada para bloquear rastreadores conocidos">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Conocer más">
 <!ENTITY changeBlockList.label          "Cambiar lista de bloqueo">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "También puede ">
-<!ENTITY  doNotTrack.settings.label     "administrar las opciones de rastreo">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        'Envíe a los sitios web una señal de "No rastrear" que significa que no quiere ser rastreado'>
+<!ENTITY  doNotTrack.learnMore.label    "Conozca más">
+<!ENTITY  doNotTrack.default.label      "Solo cuando use la Protección de rastreo">
+<!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
