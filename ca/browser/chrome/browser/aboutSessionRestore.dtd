@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Tot correcte">
 <!ENTITY welcomeback2.pageInfo1     "El &brandShortName; ja està llest.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaura totes les finestres i pestanyes">
-<!ENTITY welcomeback2.label.restoreSome "Restaura només algunes pestanyes">
+<!ENTITY welcomeback2.restoreSome.label "Restaura només algunes pestanyes">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
