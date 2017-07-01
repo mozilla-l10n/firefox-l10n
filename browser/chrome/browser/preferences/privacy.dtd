@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Бақылаудан қорғанысты қолдану">
-<!ENTITY  trackingProtection.description       "Бақылау - бұл дегеніміз, компаниялар сіздің шолу және жеке деректеріңіздге негізделіп, профильді жасау және арнайы құраманы көрсету мақсатында, сіз туралы ақпаратты жинайды.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Белгілі бақылау компанияларына құраманы көрсетуді блоктау">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Әрқашан">
 <!ENTITY  trackingProtectionAlways.accesskey   "ш">
 <!ENTITY  trackingProtectionPrivate.label      "Тек жекелік терезелерінде">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Көбірек білу">
 <!ENTITY  trackingProtectionExceptions.label   "Ережелерден бөлек…">
 <!ENTITY  trackingProtectionExceptions.accesskey "Е">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Бақылау">
 <!ENTITY trackingProtectionPBM5.label         "Жекелік шолу терезелерінде бақылаудан қорғанысты қолдану">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Көбірек білу">
 <!ENTITY changeBlockList.label          "Блоктізімді өзгерту">
 <!ENTITY changeBlockList.accesskey      "г">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "Сонымен қатар, ">
-<!ENTITY  doNotTrack.settings.label     "Do Not Track баптауларын өзгерте аласыз">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Тарихы">
 <!ENTITY  permissions.label             "Рұқсаттар">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Үшінші жақты cookies қабылдау:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "ш">
-<!ENTITY  acceptThirdParty.always.label   "Әрқашан">
+
 <!ENTITY  acceptThirdParty.never.label    "Ешқашан">
 <!ENTITY  acceptThirdParty.visited.label  "Мен болған жерден ғана">
 
