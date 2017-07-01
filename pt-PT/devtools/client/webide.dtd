@@ -28,13 +28,13 @@
 <!ENTITY projectMenu_manageComponents_accesskey "G">
 <!ENTITY projectMenu_refreshTabs_label "Atualizar separadores">
 
-<!ENTITY runtimeMenu_label "Ambiente de execução">
+<!ENTITY runtimeMenu_label "Runtime">
 <!ENTITY runtimeMenu_accesskey "n">
 <!ENTITY runtimeMenu_disconnect_label "Desligar">
 <!ENTITY runtimeMenu_disconnect_accesskey "D">
 <!ENTITY runtimeMenu_takeScreenshot_label "Captura de ecrã">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "e">
-<!ENTITY runtimeMenu_showDetails_label "Informação do ambiente de execução">
+<!ENTITY runtimeMenu_showDetails_label "Informação do runtime">
 <!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Monitor">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
@@ -53,7 +53,7 @@
 <!ENTITY viewMenu_resetzoom_accesskey "R">
 
 <!ENTITY projectButton_label "Abrir aplicação">
-<!ENTITY runtimeButton_label "Selecionar tempo de execução">
+<!ENTITY runtimeButton_label "Selecionar runtime">
 <!-- We try to repicate Firefox' bindings: -->
 <!-- quit app -->
 
@@ -121,7 +121,7 @@
 <!ENTITY prefs_options_templatesurl_tooltip "Índice dos modelos disponíveis">
 <!-- Runtime Details -->
 
-<!ENTITY runtimedetails_title "Informação de Runtime">
+<!ENTITY runtimedetails_title "Informação do runtime">
 <!ENTITY runtimedetails_adbIsRoot "ADB é root: ">
 <!ENTITY runtimedetails_summonADBRoot "raiz do dispositivo">
 <!ENTITY runtimedetails_ADBRootWarning "(requer um bootloader desbloqueado)">
