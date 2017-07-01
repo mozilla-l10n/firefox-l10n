@@ -24,14 +24,14 @@
 <!ENTITY acceptThirdParty.never.label "Niciodată">
 <!ENTITY acceptThirdParty.visited.label "De la site-urile vizitate">
 <!ENTITY keepUntil.label "Păstrează-le până când:">
-<!ENTITY keepUntil.accesskey "P">
+<!ENTITY keepUntil.accesskey "K">
 <!ENTITY expire.label "expiră">
 <!ENTITY close.label "închid &brandShortName;">
 <!ENTITY askEachTime.label "întreabă de fiecare dată">
 <!ENTITY cookieExceptions.label "Excepții…">
 <!ENTITY cookieExceptions.accesskey "E">
-<!ENTITY showCookies.label "Arată cookie-urile…">
-<!ENTITY showCookies.accesskey "A">
+<!ENTITY showCookies.label "Afișează cookie-urile…">
+<!ENTITY showCookies.accesskey "S">
 
 <!ENTITY dntTrackingNotOkay.label2 "Informează site-urile web că nu vreau să fiu urmărit">
 <!ENTITY dntTrackingNotOkay.accesskey "n">
