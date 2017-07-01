@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Vellukka!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; er klar for å køyre.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Gjenopprett alle vindauge og faner">
-<!ENTITY welcomeback2.label.restoreSome "Gjenopprett berre dei du vil ha">
+<!ENTITY welcomeback2.restoreAll.label  "Bygg oppatt alle vindauge og faner">
+<!ENTITY welcomeback2.restoreSome.label "Bygg oppatt berre dei du ønskjer å ha">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
