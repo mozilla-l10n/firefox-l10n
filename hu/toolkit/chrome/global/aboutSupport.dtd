@@ -104,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Kisegítő lehetőségek">
 <!ENTITY aboutSupport.a11yActivated "Aktiválva">
 <!ENTITY aboutSupport.a11yForceDisabled "Kisegítő lehetőségek letiltása">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Használt akadálymentesítés-kezelő">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Könyvtárak verziói">
 

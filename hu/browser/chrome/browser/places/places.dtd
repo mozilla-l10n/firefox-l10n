@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Hozzáadva">
 <!ENTITY col.lastmodified.label  "Utoljára módosítva">
 
+<!ENTITY search.placeholder  "Keresés">
 
 <!ENTITY cmd.find.key  "f">
 

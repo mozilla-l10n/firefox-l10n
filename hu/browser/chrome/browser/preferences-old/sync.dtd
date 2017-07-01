@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "L">
 <!ENTITY engine.history.label       "Előzmények">
 <!ENTITY engine.history.accesskey   "E">
-
-
+<!ENTITY engine.logins.label        "Bejelentkezések">
+<!ENTITY engine.logins.accesskey    "B">
 <!ENTITY engine.prefs.label         "Beállítások">
 <!ENTITY engine.prefs.accesskey     "B">
 <!ENTITY engine.addons.label        "Kiegészítők">

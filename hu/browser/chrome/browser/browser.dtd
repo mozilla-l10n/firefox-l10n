@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
 
+
 <!ENTITY containersMenu.label "Konténerek">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -433,9 +434,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Tipp:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Beállítások módosítása…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "m">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Beállítások módosítása…">
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "B">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -552,7 +553,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "f">
 <!ENTITY bookmarkThisFrameCmd.label      "Keret hozzáadása a könyvjelzőkhöz">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "h">
-<!ENTITY copyURLCmd.label             "Az URL másolása">
+<!ENTITY copyURLCmd.label             "URL másolása">
 <!ENTITY emailPageCmd.label           "Hivatkozás küldése e-mailben…">
 <!ENTITY emailPageCmd.accesskey       "d">
 <!ENTITY savePageCmd.label            "Oldal mentése…">
@@ -851,6 +852,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témák letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
 
+
 <!ENTITY getUserMedia.selectCamera.label "Megosztandó kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
 <!ENTITY getUserMedia.selectMicrophone.label "Megosztandó mikrofon:">
@@ -961,7 +963,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 
 <!ENTITY sendToDevice.label "Küldés eszközre…">
-<!ENTITY sendToDevice.viewTitle "eszközre">
+<!ENTITY sendToDevice.viewTitle "Küldés eszközre">
 <!ENTITY sendToDevice.fxaRequired.label "Szükséges">
-<!ENTITY sendToDevice.noDevices.label "Nem érhetők el eszközök">
+<!ENTITY sendToDevice.noDevices.label "Nincs elérhető eszköz">
 

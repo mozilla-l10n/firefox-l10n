@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Feloldás">
 <!ENTITY aboutNetworking.dnsDomain             "Tartomány">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP-k">
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN statisztikák">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN állapot">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "A gyorsítótár nyerésének száma">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "A hálózat nyerésének száma">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Összes hálózati kérés száma">

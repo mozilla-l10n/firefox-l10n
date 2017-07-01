@@ -26,8 +26,8 @@
 <!ENTITY cmd.back.tooltip                     "Ugrás az előző oldalra">
 <!ENTITY cmd.forward.tooltip                  "Ugrás a következő oldalra">
 
-<!ENTITY showUnsignedExtensions.button.label  "Néhány kiterjesztés nem ellenőrizhető">
-<!ENTITY showAllExtensions.button.label       "Minden kiterjesztés megjelenítése">
+<!ENTITY showUnsignedExtensions.button.label  "Néhány kiegészítő nem ellenőrizhető">
+<!ENTITY showAllExtensions.button.label       "Minden kiegészítő megjelenítése">
 <!ENTITY debugAddons.label                    "Kiegészítők hibakeresése">
 <!ENTITY debugAddons.accesskey                "h">
 <!-- global warnings -->
@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "A frissítés kiadási megjegyzéseinek megjelenítése">
 <!ENTITY cmd.hideReleaseNotes.label           "Kiadási megjegyzések elrejtése">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "A frissítés kiadási megjegyzéseinek elrejtése">
-
+<!ENTITY cmd.findReplacement.label            "Helyettesítő keresése">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Hiányzik valami? Néhány bővítményt már nem támogat a &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "További tudnivalók.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Hiányzik valami? Néhány kiegészítőt már nem támogat a &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Örökölt kiegészítők megjelenítése">
+<!ENTITY legacyExtensions.title "Örökölt kiegészítők">
+<!ENTITY legacyExtensions.description "Ezek a kiegészítők nem felelnek meg a &brandShortName; aktuális elvárásainak, emiatt le lettek tiltva.">
+<!ENTITY legacyExtensions.learnMore "További tudnivalók a kiegészítők módosulásáról">
