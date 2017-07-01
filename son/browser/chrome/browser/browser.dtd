@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Doo-šilbay dirantey">
 <!ENTITY viewBookmarksSidebar2.label        "Doo-šilbawey goyjinay zuu">
 <!ENTITY viewBookmarksToolbar.label         "Doo-šilbawey goyjinay žeeri">
+<!ENTITY searchBookmarks.label              "Doo-šilbawey ceeci">
 
 <!ENTITY containersMenu.label "Diikey">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -846,6 +847,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Furari tontoney guna">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
 
 <!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
 <!ENTITY getUserMedia.selectCamera.accesskey "z">

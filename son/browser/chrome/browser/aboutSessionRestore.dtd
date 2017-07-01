@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Zaama!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; soolu ka koy.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Zanfuney nda kanjey kul yeeti">
-<!ENTITY welcomeback2.label.restoreSome "Wey kaŋ war ga baa hinne yeeti">
+<!ENTITY welcomeback2.restoreSome.label "Wey kaŋ war ga baa hinne yeeti">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

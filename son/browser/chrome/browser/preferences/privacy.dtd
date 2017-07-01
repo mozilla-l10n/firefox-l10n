@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ganayan jejebu">
-<!ENTITY  trackingProtection.description       "Ganayan ti waati kaŋ konpaɲey ga alhabar marga war ga ka alhaali tee k'a cebe nda gundekuna kaŋ ga tenji nda war naarumi nda boŋšilbay bayhaya.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Konpaɲey kaŋ ga bay ka boro gana ganji i ma gundekuna cebe">
+
+
 <!ENTITY  trackingProtectionAlways.label       "Waati kul">
 <!ENTITY  trackingProtectionAlways.accesskey   "i">
 <!ENTITY  trackingProtectionPrivate.label      "Sutura zanfuney hinne ra">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "Bay ka tonton">
 <!ENTITY  trackingProtectionExceptions.label   "Hasarawey…">
 <!ENTITY  trackingProtectionExceptions.accesskey "H">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "Kuryan">
 <!ENTITY trackingProtectionPBM5.label         "Goy nda ganayan jejebu sutura zanfuney ra">
 <!ENTITY trackingProtectionPBM5.accesskey     "s">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "Bay ka tonton">
 <!ENTITY changeBlockList.label          "Gagayyan maašeede barmay">
 <!ENTITY changeBlockList.accesskey      "C">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "War ga hin ka da ">
-<!ENTITY  doNotTrack.settings.label     "war Ma ši ay gana kayandiyaney juwal">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "Taariki">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Doo-waaney aleewawey taa:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-<!ENTITY  acceptThirdParty.always.label   "Waati kul">
+
 <!ENTITY  acceptThirdParty.never.label    "Abada">
 <!ENTITY  acceptThirdParty.visited.label  "Kaŋ gunandi">
 
