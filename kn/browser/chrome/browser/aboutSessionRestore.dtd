@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "ಯಶಸ್ವಿಯಾಗಿದೆ!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ನಿಮ್ಮ ಬಳಕೆಗೆ ಸಿದ್ಧವಿದೆ.">
 
-<!ENTITY welcomeback2.label.restoreAll  "ಎಲ್ಲಾ ಕಿಟಕಿಗಳನ್ನು ಹಾಗು ಹಾಳೆಗಳನ್ನಿ ಪುನಃಸ್ಥಾಪಿಸು">
-<!ENTITY welcomeback2.label.restoreSome "ನಿಮಗೆ ಬೇಕಾದವುಗಳನ್ನು ಮಾತ್ರ ಪುನಃಸ್ಥಾಪಿಸಿ">
+<!ENTITY welcomeback2.restoreSome.label "ನಿಮಗೆ ಬೇಕಾದವುಗಳನ್ನು ಮಾತ್ರ ಪುನಃಸ್ಥಾಪಿಸಿ">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
