@@ -227,6 +227,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY viewBookmarksToolbar.label         "Labba  Akabawo  kebikola Akobulambe">
+<!ENTITY searchBookmarks.label              "Noonya Obulambe">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -777,6 +778,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY customizeMode.lwthemes.recommended "Ekisembebwa">
 <!ENTITY customizeMode.lwthemes.menuManage "Duddukanya">
+
 
 
 
