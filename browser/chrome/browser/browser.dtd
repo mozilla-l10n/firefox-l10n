@@ -862,13 +862,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.allWindowsShared.message "તમારી સ્ક્રીન પર બધી દૃશ્યમાન વિન્ડો વહેંચાયેલ હશે.">
 
 <!ENTITY trackingProtection.title "ટ્રેકિંગ રક્ષણ">
+<!ENTITY trackingProtection.notDetected3 "આ પૃષ્ઠ પર કોઈ ટ્રેકિંગ તત્વો મળ્યાં નથી.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in NON-private browsing mode. -->
+<!ENTITY trackingProtection.unblock.label "આ સાઇટ માટે રક્ષણ અક્ષમ કરો">
 <!-- LOCALIZATION NOTE (trackingProtection.unblockPrivate.label, trackingProtection.unblockPrivate.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
      center while looking at a site with trackers in PRIVATE browsing mode. -->
+<!ENTITY trackingProtection.unblockPrivate.accesskey "D">
+<!ENTITY trackingProtection.block2.label "સુરક્ષા સક્ષમ કરો">
+<!ENTITY trackingProtection.block2.accesskey "E">
 
+<!ENTITY trackingContentBlocked.message "ટ્રૅક કરી રહ્યા છે">
+<!ENTITY trackingContentBlocked.learnMore "વધારે શીખો">
+<!ENTITY trackingContentBlocked.options "વિકલ્પો">
+<!ENTITY trackingContentBlocked.unblock2.label "આ સાઇટ માટે રક્ષણ અક્ષમ કરો">
+<!ENTITY trackingContentBlocked.unblock2.accesskey "D">
+<!ENTITY trackingContentBlocked.block.label "સુરક્ષા સક્ષમ કરો">
+<!ENTITY trackingContentBlocked.block.accesskey "E">
+<!ENTITY trackingContentBlocked.disabled.message "ટ્રેકિંગ રક્ષણ અક્ષમ છે">
 
 <!ENTITY pluginNotification.showAll.label "બધુ બતાવો">
 <!ENTITY pluginNotification.showAll.accesskey "S">
@@ -892,16 +905,37 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
+<!ENTITY panicButton.view.5min                    "પાંચ મિનિટ">
+<!ENTITY panicButton.view.2hr                     "બે કલાક">
+<!ENTITY panicButton.view.day                     "24 કલાક">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
 
+<!ENTITY panicButton.view.forgetButton            "ભૂલી જાઓ!">
+
+<!ENTITY panicButton.thankyou.buttonlabel         "આભાર!">
+
+<!ENTITY emeLearnMoreContextMenu.accesskey        "D">
+
+<!ENTITY updateAvailable.whatsnew.label "જુઓ નવુ શું છે.">
+<!ENTITY updateAvailable.acceptButton.label "અપડેટ ડાઉનલોડ કરો">
+<!ENTITY updateAvailable.acceptButton.accesskey "D">
+<!ENTITY updateAvailable.cancelButton.label "હમણાં નહિં">
+<!ENTITY updateAvailable.cancelButton.accesskey "N">
+
+<!ENTITY updateManual.whatsnew.label "જુઓ નવુ શું છે.">
+<!ENTITY updateManual.acceptButton.label "ડાઉનલોડ &brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "D">
+<!ENTITY updateManual.cancelButton.label "હમણાં નહિં">
+<!ENTITY updateManual.cancelButton.accesskey "N">
+
+<!ENTITY updateRestart.acceptButton.accesskey "R">
+<!ENTITY updateRestart.cancelButton.label "હમણાં નહિં">
+<!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "અપડેટ કરવા માટે પુનઃપ્રારંભ કરો &brandShorterName;">
 
 
-
-
-
-
-
+<!ENTITY sendToDevice.fxaRequired.label "જરૂરિયાત છે">
