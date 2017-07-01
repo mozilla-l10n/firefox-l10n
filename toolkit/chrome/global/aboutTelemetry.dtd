@@ -4,23 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ടെലിമെട്രി ഡേറ്റാ">
 
-<!ENTITY aboutTelemetry.changeDataChoices " മാറ്റുക">
-
-<!ENTITY aboutTelemetry.uploadEnabled " FHR ഡാറ്റ അപ്‌ലോഡ് <span>പ്രവര്‍ത്തനസജ്ജമാണു്</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled " FHR ഡാറ്റ അപ്‌ലോഡ് <span>പ്രവര്‍ത്തനരഹിതമാണു്</span>. ">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  എക്സ്റ്റെൻഡഡ് ടെലിമെട്രി റെക്കോർഡിങ് <span>സജീവമാണ്</span>">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  എക്സ്റ്റെന്റഡ് ടെലിമെട്രി റെക്കോർഡിങ് <span>നിർജ്ജീവമാണ്</span>">
-
 <!ENTITY aboutTelemetry.pingDataSource "പിങ് ഡാറ്റയുടെ ശ്രോതസ്സ്">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "ഇപ്പോഴത്തെ പിങ് ഡാറ്റ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "ശേഖരിച്ചുവെക്കപ്പെട്ട പിങ് ഡാറ്റ">
-
-
 
 
 <!ENTITY aboutTelemetry.showSubsessionData "സബ്മിഷൻ ഡാറ്റ കാണിക്കുക">
@@ -30,7 +18,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; പുതിയ പിങ്">
 
 <!ENTITY aboutTelemetry.showOlderPing "പഴയ പിങ് &gt;&gt;">
-
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "ആഴ്ച">
 
@@ -63,16 +50,9 @@
 <!ENTITY aboutTelemetry.lateWritesSection " ലേറ്റ് റൈറ്റുകള്‍">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  ആഡ്-ഓണുകള്‍ ശേഖരിച്ച ഹിസ്റ്റോഗ്രാമുകള്‍">
-
-<!ENTITY aboutTelemetry.toggle "  വിഭാഗം മാറ്റുന്നതിനു് ക്ലിക്ക് ചെയ്യുക">
-
-<!ENTITY aboutTelemetry.emptySection "  (ഒരു ഡേറ്റയും ശേഖരിച്ചിട്ടില്ല)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  കുറിപ്പു്: പതിയെയുള്ള എസക്യൂഎല്‍ ഡീബഗ്ഗിങ് പ്രവര്‍ത്തന സജ്ജമാക്കിയിരിയ്ക്കുന്നു. പൂര്‍ണ്ണ എസ്‌ക്യൂഎല്‍ സ്ട്രിങുകള്‍ ലഭ്യമാക്കുന്നു, പക്ഷേ അവ ടെലിമെട്രിയിലേക്കു് സമര്‍പ്പിയ്ക്കുന്നതല്ല.">
 
 
 
 <!ENTITY aboutTelemetry.filterText "  ഫില്‍റ്റര്‍ (സ്ട്രിങ്ങുകള്‍ അല്ലെങ്കില്‍ /regexp/)">
-
 
