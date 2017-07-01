@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "کامیأبی!">
 <!ENTITY welcomeback2.pageInfo1     "برانڈ شاٹ ناو؛ چُھ تیار گژھنس۔&amp;">
 
-<!ENTITY welcomeback2.label.restoreAll  "ریسٹور کْریو تمام وینڈو تْہ ٹیب">
-<!ENTITY welcomeback2.label.restoreSome "ریسٹور کْریو صرف تِم تِم توہیہ یژھان چھیو">
+<!ENTITY welcomeback2.restoreSome.label "ریسٹور کْریو صرف تِم تِم توہیہ یژھان چھیو">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
