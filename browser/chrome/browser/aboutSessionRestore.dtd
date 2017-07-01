@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Llwyddiant!">
 <!ENTITY welcomeback2.pageInfo1     "Mae &brandShortName; yn barod i fynd.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Adfer pob Ffenestr a Thab">
-<!ENTITY welcomeback2.label.restoreSome "Adfer dim ond y rhai rydych eu heisiau">
+<!ENTITY welcomeback2.restoreSome.label "Adfer dim ond y rhai rydych eu heisiau">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
