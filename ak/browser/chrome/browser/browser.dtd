@@ -797,6 +797,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "Mfonin-fidie a wo pɛ sɛ wo kyɛ:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
 <!ENTITY getUserMedia.selectMicrophone.label "Kasamu a wo pɛ sɛ wo kyɛ:">
