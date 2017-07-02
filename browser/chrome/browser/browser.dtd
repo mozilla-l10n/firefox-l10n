@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Bókamerki farsíma">
 <!ENTITY viewBookmarksSidebar2.label        "Birta bókamerki í hliðslá">
 <!ENTITY viewBookmarksToolbar.label         "Skoða bókamerkjaslá">
-
+<!ENTITY searchBookmarks.label              "Leita í bókamerkjum">
 
 <!ENTITY containersMenu.label "Geymir">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
