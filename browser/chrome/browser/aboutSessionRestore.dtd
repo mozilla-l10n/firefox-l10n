@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Katlego!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; e siametse go simolola.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Busetsa di Window le Dithebe tsotlhe">
-<!ENTITY welcomeback2.label.restoreSome "Busetsa tse o di batlang fela">
+<!ENTITY welcomeback2.restoreSome.label "Busetsa tse o di batlang fela">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
