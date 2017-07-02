@@ -551,8 +551,8 @@ items are mutually exclusive. -->
 
 
 
-<!ENTITY mediaPlaybackRate100x2.label "Nomali">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 
 
 
@@ -700,6 +700,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
                         syncedTabs.context.openAllInTabs.accesskey):
      These access keys are identical because their associated menu items are
      mutually exclusive -->
+
+
+
+
+
+
+
+
+
+
+
 
 
 
