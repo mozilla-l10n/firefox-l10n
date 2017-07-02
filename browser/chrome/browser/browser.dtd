@@ -609,8 +609,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "ത">
 <!ENTITY mediaPlaybackRate050x2.label "പതുക്കെ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "പ">
-<!ENTITY mediaPlaybackRate100x2.label "സാധാരണ">
-<!ENTITY mediaPlaybackRate100x2.accesskey "സ">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "വേഗത്തില്‍ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "വ">
 <!ENTITY mediaPlaybackRate150x2.label "വേഗത്തില്‍ (1.5×)">
@@ -838,6 +838,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "കൂടുതല്‍ തീമുകള്‍ ലഭ്യമാക്കുക">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "പങ്കിടുവാനുള്ള ക്യാമറ:">
