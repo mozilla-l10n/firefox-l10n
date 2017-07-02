@@ -606,8 +606,8 @@ items are mutually exclusive. -->
 
 
 
-<!ENTITY mediaPlaybackRate100x2.label "Tlwaelegileng">
-<!ENTITY mediaPlaybackRate100x2.accesskey "T">
+
+
 
 
 
@@ -827,6 +827,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Bona Mamorago a Mangwe">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Sekapa-ditshwantsho se se ka abiwang:">
