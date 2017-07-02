@@ -6,12 +6,12 @@
 
 <!ENTITY engine.bookmarks.label     "Xatchoʻplar">
 <!ENTITY engine.bookmarks.accesskey "X">
-
-
+<!ENTITY engine.tabs.label2         "Ichki oynalarni ochish">
+<!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "Tarix">
 <!ENTITY engine.history.accesskey   "T">
-
-
+<!ENTITY engine.logins.label        "Foydalanuvchilar">
+<!ENTITY engine.logins.accesskey    "F">
 <!ENTITY engine.prefs.label         "Moslashlar">
 <!ENTITY engine.prefs.accesskey     "M">
 <!ENTITY engine.addons.label        "Qoʻshimcha dasturlar">
@@ -19,12 +19,12 @@
 <!-- Device Settings -->
 
 <!ENTITY fxaSyncDeviceName.label       "Qurilma nomi">
-
-
-
-
-
-
+<!ENTITY changeSyncDeviceName2.label "Qurilma nomini o‘zgartirish…">
+<!ENTITY changeSyncDeviceName2.accesskey "h">
+<!ENTITY cancelChangeSyncDeviceName.label "Bekor qilish">
+<!ENTITY cancelChangeSyncDeviceName.accesskey "B">
+<!ENTITY saveChangeSyncDeviceName.label "Saqlash">
+<!ENTITY saveChangeSyncDeviceName.accesskey "S">
 <!-- Footer stuff -->
 
 <!ENTITY prefs.tosLink.label        "Xizmat shartlari">
@@ -47,26 +47,28 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Siz kirmagansiz.">
-
-
+<!ENTITY signIn.label                "Kirish">
+<!ENTITY signIn.accesskey            "K">
 <!ENTITY profilePicture.tooltip      "Profil rasmini o‘zgartirish">
+<!ENTITY verifiedManage.label        "Hisobni boshqarish">
+<!ENTITY verifiedManage.accesskey    "H">
+<!ENTITY disconnect3.label           "Uzilmoqda…">
+<!ENTITY disconnect3.accesskey       "U">
+<!ENTITY verify.label                "E-pochtani tasdiqlash">
+<!ENTITY verify.accesskey            "t">
+<!ENTITY forget.label                "Ushbu e-pochtani unutish">
+<!ENTITY forget.accesskey            "u">
 
-
-
-
-
-
-
-
-
+<!ENTITY signedOut.caption            "Internet doim siz bilan birga">
 <!ENTITY signedOut.description        "Xatcho‘plar, tarix, tablar, parollar, qo‘shimcha dasturlar va boshqa parametrlarni barcha qurilmalar aro sinxronlang.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; bilan ulanish">
+<!ENTITY signedOut.accountBox.create  "Hisob yaratish">
+<!ENTITY signedOut.accountBox.create.accesskey  "C">
+<!ENTITY signedOut.accountBox.signin  "Kirish">
+<!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
-
-
-
-
-
+<!ENTITY signedIn.settings.label       "Sinxronizatsiya moslamalari">
+<!ENTITY signedIn.settings.description "Qurilmangizda &brandShortName;dan foydalanib nimalarni sinxronlashni tanlang.">
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
      The resulting sentence in English is: "Download Firefox for

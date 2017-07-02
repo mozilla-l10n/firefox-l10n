@@ -21,7 +21,8 @@
 <!ENTITY     focusSearch1.key               "f">
 <!ENTITY     focusSearch2.key               "k">
 
-
+<!ENTITY     searchFilter.label             "Izlash">
+<!ENTITY     searchFilter.accesskey         "I">
 
 <!ENTITY     button.close.label             "Yopish">
 <!ENTITY     button.close.accesskey         "Y">

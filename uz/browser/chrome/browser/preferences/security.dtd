@@ -2,7 +2,10 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  security.label                 "Xavfsizlik">
 
+<!ENTITY  warnOnAddonInstall.label        "Saytlar qoʻshimcha dasturlar oʻrnatishga urinsa foydalanuvchi ogohlantirilsin">
+<!ENTITY  warnOnAddonInstall.accesskey    "o">
 <!-- LOCALIZATION NOTE (enableSafeBrowsing.label, blockDownloads.label, blockUncommonUnwanted.label):
   It is important that wording follows the guidelines outlined on this page:
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
@@ -14,13 +17,17 @@
 <!ENTITY  blockDownloads.label            "Xavfli yuklab olishlarni bloklash">
 <!ENTITY  blockDownloads.accesskey        "X">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Keraksiz va ishonchsiz dasturiy ta’minotlar o‘rnatilayotganda ogohlantirilsin">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Istisnolar">
 <!ENTITY  addonExceptions.accesskey     "I">
 
 
+<!ENTITY  formsAndPasswords.label       "Shakllar va parollar">
 
+<!ENTITY  rememberLogins1.label          "Saytlar uchun taxallus va parollar eslab qolinsin">
+<!ENTITY  rememberLogins1.accesskey      "e">
 <!ENTITY  passwordExceptions.label      "Istisnolar">
 <!ENTITY  passwordExceptions.accesskey  "I">
 
