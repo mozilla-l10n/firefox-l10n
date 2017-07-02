@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "خصائص القائمة البريدية">
 <!ENTITY mailingListPropertiesMenu.accesskey "ق">
 
+<!ENTITY abContextMenuButton.tooltip        "اعرض قائمة دفتر العناوين السياقية">
 <!ENTITY addressbookPicker.label            "دفتر العناوين:">
 <!ENTITY addressbookPicker.accesskey        "ن">
 <!ENTITY searchContacts.label               "خصائص البحث:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "ح">
 <!ENTITY editMailingListContext.label       "حرر القائمة">
 <!ENTITY editMailingListContext.accesskey   "ح">
+
+<!ENTITY newContactAbContext.label          "جهة اتصال جديدة">
+<!ENTITY newContactAbContext.accesskey      "ص">
+<!ENTITY newListAbContext.label             "قائمة جديدة">
+<!ENTITY newListAbContext.accesskey         "ق">
 
 <!ENTITY toButton.label                     "أضِف إلى:">
 <!ENTITY toButton.accesskey                 "ض">
