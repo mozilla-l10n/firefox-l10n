@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Ticraḍ n isebtar n uziraz">
 <!ENTITY viewBookmarksSidebar2.label        "Sken agalis n tecraḍ n isebtar">
 <!ENTITY viewBookmarksToolbar.label         "Sken afeggag n tecraḍ">
+<!ENTITY searchBookmarks.label              "Nadi ticraḍ n isebtar">
 
 <!ENTITY containersMenu.label "Imagbaren">
 

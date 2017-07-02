@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuγel">
-<!ENTITY  trackingProtection.description       "D ayen irzan asfuγel ma tikbbanin ad leqḍent talγut i k-yaεnan akken ad xedment amaγnu u sakin ad k-d-seknent agbur iddan akked isefka inek udwaman akked isefka n tunigin">
-<!ENTITY  trackingProtection.radioGroupLabel   "Sewḥel asfuγel n tkebbaniyen tirusinin seg uskan n ugbur">
 <!ENTITY  trackingProtectionAlways.label       "Yal ass">
 <!ENTITY  trackingProtectionAlways.accesskey   "Y">
 <!ENTITY  trackingProtectionPrivate.label      "Γef usfaylu uslig kan">
@@ -15,18 +13,17 @@
 <!ENTITY  trackingProtectionExceptions.label   "Tisuraf…">
 <!ENTITY  trackingProtectionExceptions.accesskey "s">
 
-<!ENTITY tracking.label                 "Asfuγel">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Seqdec ammesten mgal asfuɣel γef usfaylu uslig">
 <!ENTITY trackingProtectionPBM5.accesskey     "q">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "y">
 <!ENTITY trackingProtectionPBMLearnMore.label "Issin ugar">
 <!ENTITY changeBlockList.label          "Snifel tabdart n usewḥel">
 <!ENTITY changeBlockList.accesskey      "S">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Tzemreḍ daɣen ">
-<!ENTITY  doNotTrack.settings.label     "Sefrek iɣewwaṛen-inek n &quot;Ur Sfuɣul Ara&quot;">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.learnMore.label    "Issin ugar">
+<!ENTITY  doNotTrack.always.label       "Yal tikelt">
 
 <!ENTITY  history.label                 "Amazray">
 <!ENTITY  permissions.label             "Tisirag">

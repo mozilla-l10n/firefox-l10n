@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Ifuk!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ihegga.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Err-d akk isfuyla d-yiccaren">
-<!ENTITY welcomeback2.label.restoreSome "Fren ayen tebɣiḍ ad d-erreḍ">
+<!ENTITY welcomeback2.restoreAll.label  "Err-d akk isfuyla &amp; d yiccaren">
+<!ENTITY welcomeback2.restoreSome.label "Fren ayen tebɣiḍ ad d-rreḍ">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
