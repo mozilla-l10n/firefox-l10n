@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Meer thema’s verkrijgen">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
 <!ENTITY customizeMode.emptyOverflowList.description "Sleep items hiernaartoe om ze binnen handbereik maar buiten uw werkbalk te houden…">
+<!ENTITY customizeMode.uidensity "Dichtheid">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normaal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normaal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compact">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Touch voor tabletmodus gebruiken">
 
 <!ENTITY getUserMedia.selectCamera.label "Te delen camera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
