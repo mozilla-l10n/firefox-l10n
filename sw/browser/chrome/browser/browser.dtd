@@ -789,6 +789,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "Kamera kushiriki:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
 <!ENTITY getUserMedia.selectMicrophone.label "Mikrofoni kushiriki:">
