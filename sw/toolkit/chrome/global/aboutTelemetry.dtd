@@ -17,14 +17,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutTelemetry.slowSqlSection "  Chelewesha Kauli za SQL">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "       Vikwamaji vya Kivinjari">
@@ -43,13 +35,7 @@
 <!ENTITY aboutTelemetry.lateWritesSection "       Viandiko Vilivyochelewa">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "       Histogramia Zilizokusanywa na vifaa vya nyongesa">
-
-
-<!ENTITY aboutTelemetry.emptySection "  (Hakuna data iliyokusanywa)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  DOKEZO: Ueuaji wa SQL ya ucheleweshaji umewezeshwa. Tungo za SQL nzima zinaweza onyeshwa hapa chini lakini hazitawasilishwa kwa Telemeta.">
-
 
 
 
