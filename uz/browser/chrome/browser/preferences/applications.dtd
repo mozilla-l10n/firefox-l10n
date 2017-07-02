@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "Ilova dasturlar">
+<!ENTITY  applications.description "Internetdan yuklab olingan fayllar yoki internetda ishlayotganda foydalaniladigan ilovalarni &brandShortName; nima qilishini tanlang.">
 
 <!ENTITY  typeColumn.label        "Kontentda yozish">
 <!ENTITY  typeColumn.accesskey    "y">
@@ -12,3 +14,4 @@
 <!ENTITY  focusSearch1.key        "f">
 <!ENTITY  focusSearch2.key        "k">
 
+<!ENTITY  filter2.emptytext        "Fayl turlari yoki ilova dasturlarni tanlang">

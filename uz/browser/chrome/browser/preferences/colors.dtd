@@ -6,7 +6,8 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-
+<!ENTITY  overrideDefaultPageColors.label        "Sahifa tomonidan ko‘rsatilgan ranglar siz tepada tanlagan ranglar bilan almashtiriladi:">
+<!ENTITY  overrideDefaultPageColors.accesskey    "a">
 
 <!ENTITY  overrideDefaultPageColors.always.label "Doimo">
 <!ENTITY  overrideDefaultPageColors.auto.label   "Faqat yuqori kontrastli mavzular bilan">

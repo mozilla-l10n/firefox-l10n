@@ -44,8 +44,8 @@ available. -->
 <!ENTITY telemetryLearnMore.label        "Batafsil ma’lumot">
 
 <!ENTITY crashReporterDesc2.label         "Nosozlik hisobotlari &vendorShortName;ga muammolarni tuzatish, brauzerni yanada xavfsiz va yaxshi ishlaydigan qilishda yordam beradi">
-
-
+<!ENTITY alwaysSubmitCrashReports.label   "&brandShortName;ga nosozlik hisobotlarini sizning nomingizdan jo‘natishga ruxsat berish">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Batafsil ma’lumot">
 
 <!ENTITY networkTab.label                "Tarmoq">
@@ -62,11 +62,11 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "Sayt ma’lumotlari">
-
-
-
-
-
+<!ENTITY clearSiteData.label             "Barcha ma’lumotarni tozalash">
+<!ENTITY clearSiteData.accesskey         "t">
+<!ENTITY siteDataSettings.label          "Moslamalar…">
+<!ENTITY siteDataSettings.accesskey      "l">
+<!ENTITY siteDataLearnMoreLink.label     "Batafsil ma’lumot">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -89,30 +89,37 @@ available. -->
   Strings from aboutDialog.dtd are displayed in this section of the preferences.
   Please check for possible accesskey conflicts.
 -->
+
+<!ENTITY updateApplication.label         "&brandShortName; yangilanishlari">
 <!-- LOCALIZATION NOTE (updateApplication.version.*): updateApplication.version.pre
 # is followed by a version number, keep the trailing space or replace it with a
 # different character as needed. updateApplication.version.post is displayed
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Versiyasi">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "&brandShortName;">
+<!ENTITY updateAuto2.label               "Yangilanishlarni avtomatik o‘rnatsin (yaxshilangan xavfsizlik uchun tavsiya qilinadi)">
+<!ENTITY updateAuto2.accesskey           "a">
+<!ENTITY updateCheckChoose2.label        "Yangilanishlar uchun tekshirsin, ammo foydalanuvchining o‘zi tanlab oʻrnatsin">
+<!ENTITY updateCheckChoose2.accesskey    "t">
+<!ENTITY updateManual2.label             "Yangilanishlar uchun hech qachon tekshirmasin (tavsiya qilinmaydi)">
+<!ENTITY updateManual2.accesskey         "h">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Yangilash tarixini koʻrsatish…">
+<!ENTITY updateHistory2.accesskey        "n">
 
 <!ENTITY useService.label                "Yangilanishlarni oʻrnatish uchun orqa fon xizmatidan foydalanish">
 <!ENTITY useService.accesskey            "o">
 
+<!ENTITY enableSearchUpdate2.label       "Qidiruv tizimlarini avtomatik yangilasin">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "Hisobotlar">
 
-
-
+<!ENTITY offlineStorageNotify.label               "Sayt oflayn foydalanishingiz uchun ma’lumotlarni joylashtirishni soʻrasa, menga xabar berilsin">
+<!ENTITY offlineStorageNotify.accesskey           "x">
 <!ENTITY offlineStorageNotifyExceptions.label     "Istisnolar...">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "s">
 
@@ -123,11 +130,11 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Oflayn ma`lumotlarni oʻchirish">
 
 <!ENTITY certificateTab.label            "Sertifikatlar">
-
+<!ENTITY certPersonal2.description       "Server mening shaxsiy sertifikatimni soʻraganda">
 <!ENTITY selectCerts.auto                "Avtomatik bittasini tanlash">
-
-
-
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Har doim so‘ralsin">
+<!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.label                "so‘rovi OCSP javob berish serverlari sertifikatlarning joriy yaroqliligini tasdiqlash uchun">
 <!ENTITY enableOCSP.accesskey            "s">
 <!ENTITY viewCerts.label                 "Sertifikatlarni ko‘rish">
@@ -135,14 +142,15 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Qurilmalar xavfsizligi">
 <!ENTITY viewSecurityDevices.accesskey   "v">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY performance.label               "Samaradorlik">
+<!ENTITY useRecommendedPerformanceSettings2.label "Tavsiya qilingan samaradorlik moslamalaridan foydalansin">
+<!ENTITY useRecommendedPerformanceSettings2.description "Bu moslamalar kompyuteringizning qurilmasi va operatsion tizimiga moslanadi.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "f">
+<!ENTITY performanceSettingsLearnMore.label "Batafsil ma’lumot">
+<!ENTITY limitContentProcessOption.label "Kontent jarayoni cheklovi">
+<!ENTITY limitContentProcessOption.description "Bir nechta ichki oynalardan foydalanilganda qo‘shimcha kontent jarayoni samaradorlikni oshiradi, ammo ko‘proq xotiradan foydalanadi.">
+<!ENTITY limitContentProcessOption.accesskey   "c">
+<!ENTITY limitContentProcessOption.disabledDescription "Kontent jarayoni miqdorini o‘zgartirish faqatgina &brandShortName; multijarayonlari bilan mavjud. ">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Multijarayonlar yoqilganda tekshirish usuli">
 <!ENTITY allowHWAccel.label              "Uskuna aniqlanganda, tez chaqirishdan foydalanish">
 <!ENTITY allowHWAccel.accesskey          "k">
