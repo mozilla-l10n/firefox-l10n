@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "प्लग-इन उपयोग को प्रबंधित करें">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "परिवर्तन करें ताकी आप साइटों से सूचनाएं प्राप्त कर सकते हैं">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "स्थायी संग्रहण में आँकड़े संचित करें">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "ब्राउज़र रिमोट कंट्रोल के तहत है">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "साइट के साथ अपने कैमरे और/या माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "साइट के साथ अपने माइक्रोफोन बांटने की व्यवस्था प्रबंधित करें">
@@ -303,7 +303,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "t"> 
 <!ENTITY copyCmd.label            "नक़ल करें">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "C"> 
 <!ENTITY pasteCmd.label           "चिपकाएँ">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "हालिया इतिहास साफ करें...">
 <!ENTITY appMenuHistory.restoreSession.label "पिछला सत्र पुनर्बहाल करें">
 <!ENTITY appMenuHistory.viewSidebar.label "इतिहास बाज़ूपट्टी देखें">
-
+<!ENTITY appMenuHelp.label "मदद">
 <!ENTITY appMenuHelp.tooltip "सहायता मेनू खोलें">
 
 <!ENTITY appMenuRemoteTabs.label "समकालीन टैब्स">
@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "अतिप्रवाह मेनू में जोड़ें">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "औज़ारपट्टी की ओर खिसकाये">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "मेनू की ओर खिसकाये">
 <!ENTITY customizeMenu.moveToPanel.accesskey "o">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "अतिप्रवाह मेनू पर पिन करें">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "अतिप्रवाह मेनू से अनपिन करें">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "औजारपट्टी से मिटाएँ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
 <!ENTITY customizeMenu.removeFromMenu.label "मेन्यू से निकालें">
@@ -430,11 +431,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "हाँ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "युक्ति:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "विकल्प परिवर्तन करें…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "प्राथमिकताएँ परिवर्तित करें…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -548,7 +551,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "यह फ्रेम पुस्तचिह्नित करें">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "यूआरएल की प्रतिलिपि बनाएँ">
 <!ENTITY emailPageCmd.label           "कड़ी ईमेल करें…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "पृष्ठ ऐसे सहेजें…">
@@ -675,7 +678,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "बाज़ू पट्टी बंद करें">
-
+<!ENTITY sidebarMenuClose.label         "साइडबार बंद करें">
 
 <!ENTITY quitApplicationCmdWin2.label       "बाहर">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -685,7 +688,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       " बाहर जाएँ"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; से बाहर जाएँ">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 " बंद करें">  
 <!ENTITY closeCmd.key                   "W">  
@@ -729,6 +732,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label " शब्दकोश जोड़ें…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "संपन्न">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "रिमोट कनेक्शन">
@@ -736,7 +740,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "यह पेज आपके कंप्यूटर में सहेजा जाता हैं.">
 <!ENTITY identity.connectionVerified2 "आप इस साईट से सुरक्षित रूप से जुड़े है, चलाएँ जैसे:">
 <!ENTITY identity.connectionInternal "यह एक सुरक्षित &brandShortName; पेज हैं.">
-
+<!ENTITY identity.extensionPage "यह पृष्ठ एक्सटेंशन से लोड किया गया है.">
 <!ENTITY identity.insecureLoginForms2 "इस पृष्ठ पर अंतरित लॉग-इन्स से समझौता किया जा सकता है.">
 <!-- Strings for connection state warnings. -->
 
@@ -835,9 +839,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "अधिक औज़ार चाहते हैं?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "हजारों add-ons में से चुनें">
 <!ENTITY customizeMode.restoreDefaults "डिफ़ॉल्ट बहाल करें">
-
+<!ENTITY customizeMode.done "संपन्न">
 <!ENTITY customizeMode.titlebar "शीर्षक पट्टी">
-
+<!ENTITY customizeMode.toolbars2 "औज़ारपट्टी">
 <!ENTITY customizeMode.lwthemes "प्रसंग">
 <!ENTITY customizeMode.lwthemes.myThemes "मेरा प्रसंग">
 <!ENTITY customizeMode.lwthemes.recommended "अनुशंसित">
@@ -951,10 +955,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "अभी नहीं">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName; का अद्यतन करने के लिए पुन: प्रारंभ करें">
 
 <!ENTITY pageActionButton.tooltip "पृष्ठ क्रियाएँ">
 
-
-
-
+<!ENTITY sendToDevice.label "उपकरण पर भेजें…">
+<!ENTITY sendToDevice.viewTitle "उपकरण पर भेजें">
+<!ENTITY sendToDevice.fxaRequired.label "आवश्यक">
+<!ENTITY sendToDevice.noDevices.label "कोई उपकरण उपलब्ध नहीं">
