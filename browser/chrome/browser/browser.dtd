@@ -781,6 +781,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "பகிர வேண்டிய கேமரா:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "பகிர வேண்டிய ஒலிவாங்கி:">
