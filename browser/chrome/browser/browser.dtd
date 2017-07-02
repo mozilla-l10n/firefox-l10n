@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Markah Seluler">
 <!ENTITY viewBookmarksSidebar2.label        "Tampilkan Bilah Samping Markah">
 <!ENTITY viewBookmarksToolbar.label         "Tampilkan Bilah Alat Markah">
+<!ENTITY searchBookmarks.label              "Cari Markah">
 
 <!ENTITY containersMenu.label "Kontainer">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dapatkan Tema Lainnya">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
+<!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item ke sini untuk menjaganya dalam jangkau namun di luar bilah perkakas Anda…">
+<!ENTITY customizeMode.uidensity "Kepadatan">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Ringkas">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ringkas">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "R">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Sentuh">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Sentuh">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Gunakan Sentuhan untuk Mode Sabak">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera untuk dibagikan:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">

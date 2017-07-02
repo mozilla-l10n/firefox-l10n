@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Pelacakan">
-<!ENTITY  trackingProtection.description       "Pelacakan adalah ketika perusahaan mengumpulkan informasi tentang Anda untuk menyusun sebuah profil dan menampilkan konten berdasarkan penjelajahan dan data pribadi Anda.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Blokir perusahaan pelacak dikenal untuk menampilkan konten">
+<!ENTITY  trackingProtection2.description      "Pelacakan adalah kumpulan data penjelajahan Anda dari banyak situs Web. Pelacakan dapat digunakan untuk membentuk profil atau menampilkan konten berbasis pada informasi pribadi dan penjelajahan Anda.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Gunakan Perlindungan Pelacakan untuk memblokir pelacak yang diketahui">
 <!ENTITY  trackingProtectionAlways.label       "Selalu">
 <!ENTITY  trackingProtectionAlways.accesskey   "S">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya di jendela pribadi">
@@ -15,18 +15,17 @@
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
 
-<!ENTITY tracking.label                 "Pelacakan">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Gunakan Perlindungan Pelacakan di Jendela Pribadi">
 <!ENTITY trackingProtectionPBM5.accesskey     "b">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Pelacakan di mode Penjelajahan Pribadi untuk memblokir pelacak yang diketahui">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Pelajari lebih lanjut">
 <!ENTITY changeBlockList.label          "Ubah Daftar Blokir">
 <!ENTITY changeBlockList.accesskey      "U">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Anda juga bisa ">
-<!ENTITY  doNotTrack.settings.label     "mengelola pengaturan Jangan Lacak">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak">
 
 <!ENTITY  history.label                 "Riwayat">
 <!ENTITY  permissions.label             "Hak Akses">
