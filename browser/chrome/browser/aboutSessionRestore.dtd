@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Impumelelo!">
 <!ENTITY welcomeback2.pageInfo1     "I-&brandShortName; sele ikulungele ukuhamba.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Gcina zonke ii-Windows neeTabs">
-<!ENTITY welcomeback2.label.restoreSome "Gcina kuphela ozifunayo">
+<!ENTITY welcomeback2.restoreSome.label "Gcina kuphela ozifunayo">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).

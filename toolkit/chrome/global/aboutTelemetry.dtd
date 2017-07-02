@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Iingcombolo zethelemetri">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Tshintsha">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  I-FHR yokulowuda ingcombolo <span>yenziwe yasebenza</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  I-FHR yokulowuda ingcombolo <span>yenziwe yasebenza</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Ukurekhodwa kweThelemetri eyandisiweyo <span>yenziwe yasebenza</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Ukurekhodwa kweThelemetri eyandisiweyo <span>kwenziwe akwasebenza</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Uvimba ingcombolo ye-Ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Inkcukacha ye-ping yakutsha nje">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Inkcukacha ye-ping elondoloziweyo">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Umboniso wedatha yeping:">
-
-<!ENTITY aboutTelemetry.structured "Yakhelwe">
 
 <!ENTITY aboutTelemetry.raw "IRaw JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; I-ping entshana">
 
 <!ENTITY aboutTelemetry.showOlderPing "I-ping endala &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Ingxelo ekrwada yeping ...">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Iveki">
 
@@ -70,12 +54,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Inkcazelo yeseshoni">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  IiHistogrem ziqokelelwe zizongezelelo">
-
-<!ENTITY aboutTelemetry.toggle "  Cofa ukuze utogole icandelo">
-
-<!ENTITY aboutTelemetry.emptySection "  (Akukho zingcombolo ziqokelelweyo)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: I-SQL ecothayo ephelisa ubuzaza yenziwe yasebenza. Uluhlu lweekharakhtha ze-SQL oluzeleyo lunokuboniswa ngezantsi kodwa aluyi kuthunyelwa kwiThelemetri.">
 
 
@@ -83,5 +61,3 @@
 <!ENTITY aboutTelemetry.filterText "  Hluza (izitringi okanye /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "Payload">
-
-<!ENTITY aboutTelemetry.rawPayload "IRaw Payload">
