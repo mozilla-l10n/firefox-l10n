@@ -617,8 +617,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Stadig (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Gewoon">
-<!ENTITY mediaPlaybackRate100x2.accesskey "G">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Vinnig (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "V">
 <!ENTITY mediaPlaybackRate150x2.label "Vinniger (1,5×)">
@@ -848,6 +848,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kry meer temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te deel:">
