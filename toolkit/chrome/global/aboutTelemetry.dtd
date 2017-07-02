@@ -17,14 +17,6 @@
 
 
 
-
-
-
-
-
-
-
-
 <!ENTITY aboutTelemetry.slowSqlSection "  Izitatimende ze-SQL ezingasheshi">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "  Izihengi zesibuki">
@@ -43,13 +35,7 @@
 <!ENTITY aboutTelemetry.lateWritesSection "  Abaloli bakamuva">
 
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Ama-Histograms aqoqwe ngezenezelo">
-
-
-<!ENTITY aboutTelemetry.emptySection "  (Ayikho idatha eqoqiwe)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  QAPHELA: Ukususwa kwamaphutha kwe-Slow SQL kunikwe amandla. Uchungechunge olugcwele le-SQL lingakhutshazwa ngezansi kepha ngeke luthunyelwe ku-Telemetry.">
-
 
 
 
