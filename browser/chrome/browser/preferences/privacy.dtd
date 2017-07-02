@@ -22,6 +22,7 @@
 <!ENTITY changeBlockList.accesskey      "ป">
 
 <!ENTITY  doNotTrack.learnMore.label    "เรียนรู้เพิ่มเติม">
+<!ENTITY  doNotTrack.always.label       "เสมอ">
 
 <!ENTITY  history.label                 "ประวัติ">
 

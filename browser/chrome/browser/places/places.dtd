@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "เพิ่มเมื่อ">
 <!ENTITY col.lastmodified.label  "เปลี่ยนแปลงล่าสุด">
 
-<!ENTITY search.label                              "ค้นหา:">
-<!ENTITY search.accesskey                          "ค">
+<!ENTITY search.placeholder  "ค้นหา">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "เลือกรายการเพื่อดูและแก้ไขคุณสมบัติ">
 
-<!ENTITY find.label               "ค้นหา:">
-<!ENTITY find.accesskey           "ค">
 <!ENTITY view.label               "มุมมอง">
 <!ENTITY view.accesskey           "ม">
 <!ENTITY byDate.label             "ตามวันที่">
