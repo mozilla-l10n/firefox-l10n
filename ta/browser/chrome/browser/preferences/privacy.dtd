@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "தடமறியல் பாதுகாப்பு">
-<!ENTITY  trackingProtection.description       "உங்கள் உலாவல் மற்றும் சுய தரவின் அடிப்படையில் ஒரு சுயவிவரத்தை உருவாக்கி காட்சிப்படுத்த நிறுவனங்கள் உங்களைப் பற்றிய தகவல்களைச் சேகரிக்கையில் கண்காணிப்பது.">
-<!ENTITY  trackingProtection.radioGroupLabel   "உள்ளடக்கத்தைக் காட்டும் நன்கு அறிந்த தடமறி நிறுவனங்களைத் தடு">
+
+
 <!ENTITY  trackingProtectionAlways.label       "எப்போதும்">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "அந்தரங்க சாளரங்களில் மட்டும்">
@@ -14,19 +14,19 @@
 <!ENTITY  trackingProtectionLearnMore.label    "மேலும் அறி">
 <!ENTITY  trackingProtectionExceptions.label   "விதிவிலக்குகள்…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY tracking.label                 "கண்காணிப்பு">
 <!ENTITY trackingProtectionPBM5.label         "அந்தரங்க சாளரத்தில் தடமறியல் பாதுகாப்பைப் பாவி">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+
 <!ENTITY trackingProtectionPBMLearnMore.label "மேலும் அறிய">
 <!ENTITY changeBlockList.label          "தடை பட்டியலை மாற்று">
 <!ENTITY changeBlockList.accesskey      "C">
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
 
-<!ENTITY  doNotTrack.pre.label          "நீங்களும் ">
-<!ENTITY  doNotTrack.settings.label     "தடமறியாதே அமைவுகளை நிர்வகிக்கலாம்">
-<!ENTITY  doNotTrack.post.label         ".">
+
+
+
 
 <!ENTITY  history.label                 "வரலாறு">
 <!ENTITY  permissions.label             "அனுமதிகள்">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பு நினைவிகளை அனுமதிக்கவும்:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-<!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
+
 <!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
 <!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
 

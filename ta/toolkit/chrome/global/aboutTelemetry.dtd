@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "டெலிமெட்ரி தரவு">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  மாற்று">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR தரவு ஏற்றம் <span>செயலிடப்பட்டது</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR தரவேற்றம் <span>முடக்கப்பட்டது</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  நீட்டிக்கப்பட்ட தொலைநிலை பதிவு <span>செயலிடப்பட்டது</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  நீட்டிக்கப்பட்ட தொலைநிலை பதிவு <span>முடக்கப்பட்டது</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "தரவு மூலத்தை பிங் பன்னு:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "நடப்பு பிங் தரவு">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "காக்கப்பட்ட பிங் தரவு">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "பிங் தரவு காட்சி:">
-
-<!ENTITY aboutTelemetry.structured "கட்டமைக்கப்பட்டது">
 
 <!ENTITY aboutTelemetry.raw "பதனிடப்படாத JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; புதிய பிங்">
 
 <!ENTITY aboutTelemetry.showOlderPing "பழைய பிங் &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "பதனிடப்படாத பிங் தரவு">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "வாரம்">
 
@@ -69,12 +53,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  கணினி தகவல்">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  துணை நிரல்கள் சேகரித்த செவ்வக வரைபடங்கள்">
-
-<!ENTITY aboutTelemetry.toggle "  பிரிவை நிலைமாற்ற சொடுக்கவும்">
-
-<!ENTITY aboutTelemetry.emptySection "  (தரவு சேகரிக்கபப்டவில்லை)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  குறிப்பு: மெதுவான SQL வழுநீக்கல் செயல்படுத்தப்பட்டுள்ளது. முழு SQL சரங்கள் கீழே காண்பிக்கப்படலாம்ஆனால் அவை டெலிமெட்ரிக்கு சமர்ப்பிக்கப்படாது.">
 
 
@@ -82,5 +60,3 @@
 <!ENTITY aboutTelemetry.filterText "  வடிகட்டு(சரளங்கள் அல்லது /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  சுமை">
-
-<!ENTITY aboutTelemetry.rawPayload "  பதனிடா சுமை">
