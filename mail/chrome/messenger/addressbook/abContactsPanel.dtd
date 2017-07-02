@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Egenskaper för e-postlista">
 <!ENTITY mailingListPropertiesMenu.accesskey "e">
 
+<!ENTITY abContextMenuButton.tooltip        "Visa snabbmeny för adressbok">
 <!ENTITY addressbookPicker.label            "Adressbok:">
 <!ENTITY addressbookPicker.accesskey        "r">
 <!ENTITY searchContacts.label               "Sök efter kontakter:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "R">
 <!ENTITY editMailingListContext.label       "Redigera lista">
 <!ENTITY editMailingListContext.accesskey   "R">
+
+<!ENTITY newContactAbContext.label          "Ny kontakt">
+<!ENTITY newContactAbContext.accesskey      "k">
+<!ENTITY newListAbContext.label             "Ny lista">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     ">> Till:">
 <!ENTITY toButton.accesskey                 "T">
