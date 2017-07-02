@@ -615,8 +615,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "a">
 <!ENTITY mediaPlaybackRate050x2.label "Ecothayo (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "E">
-<!ENTITY mediaPlaybackRate100x2.label "Okuqhelekileyo">
-<!ENTITY mediaPlaybackRate100x2.accesskey "O">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Ekhawulezayo (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "E">
 <!ENTITY mediaPlaybackRate150x2.label "Ebukhawuleza (1.5×)">
@@ -846,6 +846,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokubolekisana:">
