@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "a">
 
 <!ENTITY privateBrowsing.title                           "Anonymní prohlížení">
-<!ENTITY privateBrowsing.title.tracking                  "Anonymní prohlížení s Ochranou proti sledování">
+<!ENTITY privateBrowsing.title.tracking                  "Anonymní prohlížení s ochranou proti sledování">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Při použití anonymního okna Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "neukládá">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">

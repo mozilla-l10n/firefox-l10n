@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Používat Ochranu proti sledování">
+<!ENTITY  trackingProtectionHeader.label       "Používat ochranu proti sledování">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Pouze v anonymních oknech">
@@ -14,7 +14,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "j">
 
 <!ENTITY tracking.label                 "Sledování">
-<!ENTITY trackingProtectionPBM5.label         "Používat Ochranu proti sledování v Anonymním okně">
+<!ENTITY trackingProtectionPBM5.label         "Používat ochranu proti sledování v anonymním okně">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Zjistit více">
 <!ENTITY changeBlockList.label          "Změnit seznam blokací">
