@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "y">
 <!ENTITY mediaPlaybackRate050x2.label "Araf (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "A">
-<!ENTITY mediaPlaybackRate100x2.label "Arferol">
-<!ENTITY mediaPlaybackRate100x2.accesskey "A">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Cyflym (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "C">
 <!ENTITY mediaPlaybackRate150x2.label "Cyflymach (1.5×)">
@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
