@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Kakosći rozesćełańskeje lisćiny">
 <!ENTITY mailingListPropertiesMenu.accesskey "r">
 
+<!ENTITY abContextMenuButton.tooltip        "Kontekstowy meni adresnika pokazaś">
 <!ENTITY addressbookPicker.label            "Adresnik:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Kontakty pytaś:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "b">
 <!ENTITY editMailingListContext.label       "Lisćinu wobźěłaś">
 <!ENTITY editMailingListContext.accesskey   "L">
+
+<!ENTITY newContactAbContext.label          "Nowy kontakt">
+<!ENTITY newContactAbContext.accesskey      "k">
+<!ENTITY newListAbContext.label             "Nowa lisćina">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Póloju Komu pśidaś:">
 <!ENTITY toButton.accesskey                 "m">
