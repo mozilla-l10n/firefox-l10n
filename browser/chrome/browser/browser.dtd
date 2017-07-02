@@ -614,8 +614,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "r">
 <!ENTITY mediaPlaybackRate050x2.label "Spora (0,5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "Normalna">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Brza (1,25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "B">
 <!ENTITY mediaPlaybackRate150x2.label "Brža (1,5×)">
@@ -844,6 +844,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "u">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Preuzmite dodatne teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera za dijeljenje:">
