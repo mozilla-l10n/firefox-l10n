@@ -25,8 +25,9 @@
 <!ENTITY changeBlockList.label          "தடை பட்டியலை மாற்று">
 <!ENTITY changeBlockList.accesskey      "C">
 
-
-
+<!ENTITY  doNotTrack.description        "நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு">
+<!ENTITY  doNotTrack.learnMore.label    "மேலும் அறிய">
+<!ENTITY  doNotTrack.default.label      "தடமறியல் பாதுகாப்பைப் பயன்படுத்தும்போது மட்டுமே">
 
 
 <!ENTITY  history.label                 "வரலாறு">
