@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "¡Xojtikïr!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ütz chik richin tichap chik el.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Ketzolïx chik kiwäch ri taq tzuwäch chuqa' taq ruwi'">
 <!ENTITY welcomeback2.restoreSome.label "Xa xe jujun titzolïx kiwäch">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
