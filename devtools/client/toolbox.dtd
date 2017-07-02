@@ -209,7 +209,7 @@
 
 <!ENTITY options.sourceeditor.label                     "Preferências do editor">
 <!ENTITY options.sourceeditor.detectindentation.label   "Detetar indentação">
-<!ENTITY options.sourceeditor.detectindentation.tooltip "Inferir indentação com base no conteúdo do código">
+<!ENTITY options.sourceeditor.detectindentation.tooltip "Inferir indentação com base na fonte do código">
 <!ENTITY options.sourceeditor.autoclosebrackets.label   "Fechar parêntesis retos automaticamente">
 <!ENTITY options.sourceeditor.autoclosebrackets.tooltip "Inserir parêntesis retos de fecho automaticamente">
 <!ENTITY options.sourceeditor.expandtab.label           "Indentar usando espaços">
