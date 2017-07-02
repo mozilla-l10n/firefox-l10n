@@ -6,8 +6,8 @@
 
 <!ENTITY addressing.label          "Endereçamento e composição">
 <!ENTITY addressingGroupTitle.label "Endereçamento">
-<!ENTITY autocompleteToMyDomain.label     "Adicionar automaticamente o meu domínio ao endereço">
-<!ENTITY autocompleteToMyDomain.accesskey "u">
+<!ENTITY autocompleteToMyDomain.label     "Anexar automaticamente o meu domínio aos endereços">
+<!ENTITY autocompleteToMyDomain.accesskey "o">
 <!ENTITY addressingText.label      "Ao procurar por endereços:">
 <!-- LOCALIZATION NOTE (override.label) : do not translate "LDAP" in below line -->
 <!ENTITY useGlobal.label           "Usar as preferências do meu servidor global LDAP para esta conta">
