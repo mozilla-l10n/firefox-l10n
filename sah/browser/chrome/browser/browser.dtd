@@ -791,6 +791,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "Каамераны холбооһун:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
 <!ENTITY getUserMedia.selectMicrophone.label "Микрофону холбооһун:">
