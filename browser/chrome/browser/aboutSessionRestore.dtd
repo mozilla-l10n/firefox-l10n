@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "வெற்றி!">
 <!ENTITY welcomeback2.pageInfo1     "போவதற்கு &brandShortName; தயார்.">
 
-<!ENTITY welcomeback2.label.restoreAll  "அனைத்து சாளரங்களையும் கீற்றுகளையும் மீட்டமை">
-<!ENTITY welcomeback2.label.restoreSome "உங்களுக்கு வேண்டியதை மட்டும் மீட்டமை">
+<!ENTITY welcomeback2.restoreSome.label "உங்களுக்கு வேண்டியதை மட்டும் மீட்டமை">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
