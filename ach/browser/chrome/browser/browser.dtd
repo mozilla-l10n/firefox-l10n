@@ -617,8 +617,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "T">
 <!ENTITY mediaPlaybackRate050x2.label "Mot (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "M">
-<!ENTITY mediaPlaybackRate100x2.label "Ma Ladyere">
-<!ENTITY mediaPlaybackRate100x2.accesskey "M">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Oyot (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "O">
 <!ENTITY mediaPlaybackRate150x2.label "Oyot adada (1.5×)">
@@ -848,6 +848,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gam them mapol">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Lamak cal me anywaka:">
