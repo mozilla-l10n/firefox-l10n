@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Мобільні закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показати панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показати панель закладок">
+<!ENTITY searchBookmarks.label              "Пошук закладок">
 
 <!ENTITY containersMenu.label "Контейнери">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Отримати більше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "б">
+<!ENTITY customizeMode.emptyOverflowList.description "Переміщуйте елементи тут, щоб мати їх під рукою, але не на панелі інструментів…">
+<!ENTITY customizeMode.uidensity "Щільність">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Звичайна">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Звичайна">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "Н">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "К">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Дотик">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Дотик">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "т">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Використовувати дотик для планшетного режиму">
 
 <!ENTITY getUserMedia.selectCamera.label "Доступ до камери:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
