@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetiya ma`lumotlari">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  O‘zgartirish">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR ma’lumotlarini yuklash <span>yoqildi</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR ma’lumotlarini yuklash <span>o‘chirib qo‘yildi</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Kengaytirilgan Telemetriya yozib olishlari <span>yoqib qoʻyildi</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Kengaytirilgan Telemetriya yozib olishlari <span>o‘chirib qoʻyildi</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping ma’lumotlar markazi:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Joriy ping ma’lumotlari">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arxivlangan ping ma’lumotlari">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping ma’lumotlarini ko‘rsatish">
-
-<!ENTITY aboutTelemetry.structured "Strukturali">
 
 <!ENTITY aboutTelemetry.raw "JSON qatori">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Hech qachon ping yuborilmasin">
 
 <!ENTITY aboutTelemetry.showOlderPing "Eski ping &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Ping ma’lumotlari qatori…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hafta">
 
@@ -69,12 +53,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "Tizim ma’lumoti">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "Qoʻshimcha dasturlar tomonidan yigʻilgan gistogrammalar">
-
-<!ENTITY aboutTelemetry.toggle "  Qismni almashtirish uchun bosing">
-
-<!ENTITY aboutTelemetry.emptySection "  (Ma`lumotlar yigʻilmagan)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTE: Sekin SQL nosozlikni hal qilish - yoqilgan. Toʻliq SQL qatorlari pastda ko‘rsatilishi mumkin, ammo ular telemetriyaga joʻnatilmaydi.">
 
 
@@ -82,5 +60,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filter (qatorlar yoki /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Foydali ish koeffitsenti">
-
-<!ENTITY aboutTelemetry.rawPayload "  Foydali ish koeffitsenti qatori">

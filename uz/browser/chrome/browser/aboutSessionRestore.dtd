@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Muvaffaqiyatli!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ketishga tayyor.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Barcha oyna va ichki oynalarni tiklash">
-<!ENTITY welcomeback2.label.restoreSome "Faqat siz xohlaganlarni tiklash">
+<!ENTITY welcomeback2.restoreSome.label "Faqat siz xohlaganlarni tiklash">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
