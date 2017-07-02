@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "علامات المحمول">
 <!ENTITY viewBookmarksSidebar2.label        "أظهِر شريط العلامات الجانبي">
 <!ENTITY viewBookmarksToolbar.label         "أظهِر شريط أدوات العلامات">
-
+<!ENTITY searchBookmarks.label              "ابحث في العلامات">
 
 <!ENTITY containersMenu.label "الحاويات">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -856,7 +856,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "ر">
 <!ENTITY customizeMode.lwthemes.menuGetMore "احصل على مزيد من السِمات">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
-
+<!ENTITY customizeMode.emptyOverflowList.description "اسحب و أفلت العناصر هنا لإبقائهم في متناول يدك لكن خارج شريط الأدوات…">
+<!ENTITY customizeMode.uidensity "الكثافة">
+<!ENTITY customizeMode.uidensity.menuNormal.label "عادية">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "عادية">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ع">
+<!ENTITY customizeMode.uidensity.menuCompact.label "مضغوط">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "مضغوط">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "لمس">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "لمس">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "استخدم كثافة اللمس لنمط اللوح">
 
 <!ENTITY getUserMedia.selectCamera.label "الكمرة التي ستُشارك:">
 <!ENTITY getUserMedia.selectCamera.accesskey "م">

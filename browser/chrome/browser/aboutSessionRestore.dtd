@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "تم">
 <!ENTITY welcomeback2.pageInfo1     "‏&brandShortName; جاهز.">
 
+<!ENTITY welcomeback2.restoreAll.label  "استعد كل الألسنة و النوافذ">
 <!ENTITY welcomeback2.restoreSome.label "استعد ما تريده فقط">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
