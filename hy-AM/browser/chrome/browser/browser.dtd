@@ -620,8 +620,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "ն">
 <!ENTITY mediaPlaybackRate050x2.label "Դանդաղ (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Դ">
-<!ENTITY mediaPlaybackRate100x2.label "Նորմալ">
-<!ENTITY mediaPlaybackRate100x2.accesskey "Ն">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Արագ (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "Ա">
 <!ENTITY mediaPlaybackRate150x2.label "Ավելի արագ (1,5×)">
@@ -852,6 +852,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Նոր ձևավորումներ">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Մուտք տեսախցիկին.">
