@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "پ">
 <!ENTITY mediaPlaybackRate050x2.label "آهسته(0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "آ">
-<!ENTITY mediaPlaybackRate100x2.label "عادی">
-<!ENTITY mediaPlaybackRate100x2.accesskey "ع">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "سریع (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "س">
 <!ENTITY mediaPlaybackRate150x2.label "سریعتر(1.5×)">
@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "دریافت زمینه های بیشتر">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "دوربین جهت به‌اشتراک‌گذاری:">
