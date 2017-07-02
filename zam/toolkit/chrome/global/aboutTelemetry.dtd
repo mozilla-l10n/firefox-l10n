@@ -4,22 +4,9 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Dízh na Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  zèy">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  El envío de datos de FHR está <span>activado</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  El envío de datos de FHR está <span>desactivado</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  El registro extendido de Telemetry está <span>desactivado</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  El registro extendido de Telemetry está <span>desactivado</span>.">
-
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Dízh na ping">
 
-
-
-<!ENTITY aboutTelemetry.structured "Xá níey">
 
 <!ENTITY aboutTelemetry.raw "Raw JSON">
 
@@ -29,8 +16,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Newer ping">
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping gósh &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Raw ping data…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Sman">
 
@@ -61,14 +46,9 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Cho thus kuey">
 
-
-
-<!ENTITY aboutTelemetry.emptySection "  (ná mxial=na cho nák kúe)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  NOTA: la depuración SQL lenta está activada. Pueden motrarse cadenas completas de SQL pero no se enviarán a Telemetry.">
 
 
 
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader " Kó xó lent">
-
