@@ -810,6 +810,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "वाटून घेवपाक कॅमेरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "वाटून घेवपाक मायक्रोफोन:">
