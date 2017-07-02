@@ -2,12 +2,12 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  intro2.label                "Ați ales să deschideți:">
+<!ENTITY  intro2.label                "Ai ales să deschizi:">
 <!ENTITY  from.label                  "De la:">
 <!ENTITY  actionQuestion.label        "Ce ar trebui &brandShortName; să facă cu acest fișier?">
 
-<!ENTITY  openWith.label              "Deschidere cu">
-<!ENTITY  openWith.accesskey          "D">
+<!ENTITY  openWith.label              "Deschide cu">
+<!ENTITY  openWith.accesskey          "O">
 <!ENTITY  other.label                 "Altceva…">
 
 <!ENTITY  saveFile.label              "Salvează fișierul">
