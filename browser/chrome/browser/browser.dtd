@@ -608,8 +608,8 @@ items are mutually exclusive. -->
 
 
 
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 
 
 
@@ -837,6 +837,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Get More Themes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Camera to share:">
