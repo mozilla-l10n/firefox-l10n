@@ -622,8 +622,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "چ">
 <!ENTITY mediaPlaybackRate050x2.label "(0.5×) گنا اہستہ ">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "عام">
-<!ENTITY mediaPlaybackRate100x2.accesskey "ع">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "(1.25×) گنا تیز">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "تیز تر (1.5×)">
@@ -854,6 +854,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "مزید تھیم لائیں">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "شیئر کرنے کےلیے کیمرہ:">
