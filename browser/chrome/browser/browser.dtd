@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "移动版书签">
 <!ENTITY viewBookmarksSidebar2.label        "显示书签侧栏">
 <!ENTITY viewBookmarksToolbar.label         "查看书签工具栏">
+<!ENTITY searchBookmarks.label              "在书签中搜索">
 
 <!ENTITY containersMenu.label "身份">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "把东西拖到这里，既方便使用又不占用工具栏空间...">
+<!ENTITY customizeMode.uidensity "密度">
+<!ENTITY customizeMode.uidensity.menuNormal.label "普通">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "普通">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "紧凑">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "紧凑">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "触控">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "触控">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "在平板模式下开启触控功能">
 
 <!ENTITY getUserMedia.selectCamera.label "共享的摄像头：">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

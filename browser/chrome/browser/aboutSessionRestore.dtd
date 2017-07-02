@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "成功！">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; 蓄势待发。">
 
-<!ENTITY welcomeback2.label.restoreAll  "恢复原来的所有窗口和标签页">
-<!ENTITY welcomeback2.label.restoreSome "只恢复您想保留的窗口和标签页">
+<!ENTITY welcomeback2.restoreAll.label  "恢复全部窗口与标签页">
+<!ENTITY welcomeback2.restoreSome.label "仅恢复您选择的">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
