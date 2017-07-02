@@ -752,7 +752,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- Strings for connection state warnings. -->
 <!ENTITY identity.activeBlocked "Aplikace &brandShortName; zablokovala nezabezpečené části této stránky.">
 <!ENTITY identity.passiveLoaded "Části této stránky nejsou zabezpečené (například obrázky).">
-<!ENTITY identity.activeLoaded "Zakázali jste ochranu na této stránce.">
+<!ENTITY identity.activeLoaded "Na této stránce jste ochranu zakázali.">
 <!ENTITY identity.weakEncryption "Tento server používá slabé šifrování.">
 
 <!-- Strings for connection state warnings in the subview. -->
@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
+<!ENTITY customizeMode.emptyOverflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">
 
 <!ENTITY getUserMedia.selectCamera.label "Sdílet kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
@@ -865,7 +866,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY trackingProtection.title "Ochrana proti sledování">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; blokuje části stránky, které mohou sledovat vaši aktivitu prohlížení.">
-<!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Zakázali jste ochranu.">
+<!ENTITY trackingProtection.detectedNotBlocked3 "Tato stránka obsahuje prvky, které mohou sledovat vaše prohlížení. Ochranu jste zakázali.">
 <!ENTITY trackingProtection.notDetected3 "Na této stránce nebyly zjištěny žádné sledovací prvky.">
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
      The associated button with this label and accesskey is only shown when opening the control
