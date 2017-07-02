@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Мобильді бетбелгілер">
 <!ENTITY viewBookmarksSidebar2.label        "Бүйір панелін қарау">
 <!ENTITY viewBookmarksToolbar.label         "Бетбелгілер панелін қарау">
-
+<!ENTITY searchBookmarks.label              "Бетбелгілер ішінен іздеу">
 
 <!ENTITY containersMenu.label "Контейнерлер">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -856,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "м">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Көбірек темаларды алу">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
-
+<!ENTITY customizeMode.emptyOverflowList.description "Нәрселерді қолжетерлік, бірақ саймандар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
 
 <!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
 <!ENTITY getUserMedia.selectCamera.accesskey "м">

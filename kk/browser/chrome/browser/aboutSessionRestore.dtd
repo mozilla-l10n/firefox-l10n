@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Сәтті!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; жұмысқа дайын.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Барлық терезелер және беттерді қалпына келтіру">
 <!ENTITY welcomeback2.restoreSome.label "Тек өзіңізге керектерді қалпына келтіру">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
