@@ -792,6 +792,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "Jóreño óra fekáyena:">
 <!ENTITY getUserMedia.selectCamera.accesskey "J">
 <!ENTITY getUserMedia.selectMicrophone.label "Fekayena úriraiya:">
