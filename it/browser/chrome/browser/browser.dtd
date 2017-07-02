@@ -614,6 +614,17 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ottieni altri temi">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.emptyOverflowList.description "Trascina e rilascia elementi in quest’area per tenerli a portata di clic ma fuori dalla barra degli strumenti…">
+<!ENTITY customizeMode.uidensity "Densità">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compatta">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compatta">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilizza Touch per la modalità tablet">
 <!ENTITY getUserMedia.selectCamera.label "Fotocamera da condividere:">
 <!ENTITY getUserMedia.selectCamera.accesskey "F">
 <!ENTITY getUserMedia.selectMicrophone.label "Microfono da condividere:">
