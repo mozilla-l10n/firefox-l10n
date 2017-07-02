@@ -24,9 +24,9 @@
 <!ENTITY changeBlockList.label          "Breyta lokunarlista">
 <!ENTITY changeBlockList.accesskey      "B">
 
+<!ENTITY  doNotTrack.learnMore.label    "Fræðast meira">
 
-
-
+<!ENTITY  doNotTrack.always.label       "Alltaf">
 
 <!ENTITY  history.label                 "Ferill">
 <!ENTITY  permissions.label             "Heimildir">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Þiggja smákökur frá þriðja aðila:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "Þ">
-
+<!ENTITY  acceptThirdParty.always.label   "Alltaf">
 <!ENTITY  acceptThirdParty.never.label    "Aldrei">
 <!ENTITY  acceptThirdParty.visited.label  "Frá heimsóttum síðum">
 
