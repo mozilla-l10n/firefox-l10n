@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "l">
 <!ENTITY mediaPlaybackRate050x2.label "Hægt (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "H">
-<!ENTITY mediaPlaybackRate100x2.label "Venjulegt">
-<!ENTITY mediaPlaybackRate100x2.accesskey "n">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Hratt(1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "r">
 <!ENTITY mediaPlaybackRate150x2.label "Hraðara (1.5×)">
@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ná í fleiri þemu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Myndavél til að deila:">
