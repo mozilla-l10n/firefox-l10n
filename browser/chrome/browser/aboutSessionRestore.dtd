@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Поспех!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; гатовы.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Аднавіць усе вокны і карткі">
-<!ENTITY welcomeback2.label.restoreSome "Аднавіць толькі тыя, якія вы хочаце">
+<!ENTITY welcomeback2.restoreAll.label  "Аднавіць усе вокны і карткі">
+<!ENTITY welcomeback2.restoreSome.label "Аднавіць толькі асобныя">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
