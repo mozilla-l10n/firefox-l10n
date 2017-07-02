@@ -143,7 +143,9 @@
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "और जानें">
 <!ENTITY limitContentProcessOption.label "सामग्री प्रक्रिया सीमा">
-
+<!ENTITY limitContentProcessOption.description "एक से अधिक टैब का उपयोग करते समय अतिरिक्त सामग्री प्रक्रियाओं के प्रदर्शन में सुधार हो सकता है, लेकिन यह अधिक मेमोरी का भी उपयोग करेगा.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
+
+
 <!ENTITY allowHWAccel.label              "उपलब्ध होने पर हार्ड त्वरण का उपयोग करें">
 <!ENTITY allowHWAccel.accesskey          "r">
