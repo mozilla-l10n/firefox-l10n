@@ -403,8 +403,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.moveToPanel.accesskey "n">
 <!ENTITY customizeMenu.pinToOverflowMenu.label "_Rögzítés a túlcsorduló menühöz">
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
-
-
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "_Eltávolítás a túlcsorduló menüből">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "U">
 <!ENTITY customizeMenu.removeFromToolbar.label "Eltávolítás az eszköztárról">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "e">
 <!ENTITY customizeMenu.removeFromMenu.label "Eltávolítás a menüből">
@@ -472,6 +472,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Keresés">
+<!ENTITY searchIcon.tooltip           "Keresés">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -621,8 +623,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "s">
 <!ENTITY mediaPlaybackRate050x2.label "Lassú (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "L">
-<!ENTITY mediaPlaybackRate100x2.label "Normál">
-<!ENTITY mediaPlaybackRate100x2.accesskey "o">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Gyors (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "G">
 <!ENTITY mediaPlaybackRate150x2.label "Gyorsabb (1.5×)">
@@ -692,7 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Kilépés"> 
 <!ENTITY quitApplicationCmd.accesskey   "K">
 <!ENTITY quitApplicationCmdMac2.label   "Kilépés a &brandShorterName;ból">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Bezárás">  
 <!ENTITY closeCmd.key                   "W">  
@@ -744,7 +746,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Ez az oldal a számítógépén van tárolva.">
 <!ENTITY identity.connectionVerified2 "Biztonságosan kapcsolódott ehhez ez oldalhoz; a tulajdonosa:">
 <!ENTITY identity.connectionInternal "Ez egy biztonságos &brandShortName; oldal.">
-
+<!ENTITY identity.extensionPage "Ez az oldal kiegészítőből lett betöltve.">
 <!ENTITY identity.insecureLoginForms2 "Az oldalon megadott bejelentkezési adatok nincsenek biztonságban.">
 <!-- Strings for connection state warnings. -->
 
@@ -853,6 +855,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "K">
 <!ENTITY customizeMode.lwthemes.menuGetMore "További témák letöltése">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Megosztandó kamera:">
