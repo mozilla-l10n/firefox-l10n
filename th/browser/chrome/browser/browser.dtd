@@ -247,6 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "ที่คั่นหน้าบนมือถือ">
 <!ENTITY viewBookmarksSidebar2.label        "ดูแถบข้างที่คั่นหน้า">
 <!ENTITY viewBookmarksToolbar.label         "ดูแถบเครื่องมือที่คั่นหน้า">
+<!ENTITY searchBookmarks.label              "ค้นหาที่คั่นหน้า">
 
 <!ENTITY containersMenu.label "การแยกข้อมูล">
 
@@ -845,6 +846,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "จ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ร">
+<!ENTITY customizeMode.uidensity "ความหนาแน่น">
+<!ENTITY customizeMode.uidensity.menuNormal.label "ปกติ">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ปกติ">
+<!ENTITY customizeMode.uidensity.menuCompact.label "กะทัดรัด">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "กะทัดรัด">
+<!ENTITY customizeMode.uidensity.menuTouch.label "สัมผัส">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "สัมผัส">
 
 <!ENTITY getUserMedia.selectCamera.label "กล้องที่แบ่งปัน:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
