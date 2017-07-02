@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Wuspěch!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; móžo zachopiś.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Wšykne wokna a rejtarki wótnowiś">
 <!ENTITY welcomeback2.restoreSome.label "Jano witane wótnowiś">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
