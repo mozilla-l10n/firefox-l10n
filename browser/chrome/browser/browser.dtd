@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "l">
 <!ENTITY mediaPlaybackRate050x2.label "Lent (0,5x)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "L">
-<!ENTITY mediaPlaybackRate100x2.label "Normal">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Ràpid (1,25x)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "R">
 <!ENTITY mediaPlaybackRate150x2.label "Més ràpid (1,5x)">
@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Baixa més temes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "B">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Càmera per compartir:">
