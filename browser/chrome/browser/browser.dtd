@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "h">
 <!ENTITY mediaPlaybackRate050x2.label "Pomału (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "P">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Normalny">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Spěšna (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "S">
 <!ENTITY mediaPlaybackRate150x2.label "Spěšniša (1.5×)">
@@ -857,17 +857,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalše drasty wobstarać">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Přesuńće zapiski sem, zo byšće je w dosahu, ale zwonka wašeje symboloweje lajsty dźeržał…">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.uidensity "Hustosć">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normalny">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "&amp;Normalny">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktny">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktny">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Dótknyć so">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dótknyć so">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Touch za tabletowy modus wužiwać">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotraž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
