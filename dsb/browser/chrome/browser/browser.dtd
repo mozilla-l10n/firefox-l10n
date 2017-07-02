@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobilne cytańske znamjenja">
 <!ENTITY viewBookmarksSidebar2.label        "Rědku cytańskich znamjenjow pokazaś">
 <!ENTITY viewBookmarksToolbar.label         "Rědku cytańskich znamjenjow pokazaś">
-
+<!ENTITY searchBookmarks.label              "Cytańske znamjenja pytaś">
 
 <!ENTITY containersMenu.label "Kontejnery">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "m">
 <!ENTITY mediaPlaybackRate050x2.label "Pómałem (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "P">
-<!ENTITY mediaPlaybackRate100x2.label "Normalna">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Malsna (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "M">
 <!ENTITY mediaPlaybackRate150x2.label "Malsnjej (1.5×)">
@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Z">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
+<!ENTITY customizeMode.emptyOverflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotaraž ma se gromaźe wužywaś:">

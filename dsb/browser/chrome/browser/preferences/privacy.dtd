@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Slědowański šćit">
-
-
+<!ENTITY  trackingProtection2.description      "Slědowanje jo gromaźenje wašych pśeglědowańskich datow pśez někotare websedła. Slědowanje dajo se wužywaś, aby profil twóriło a wopśimjeśe na zakłaźe wašych pśeglědowańskich a wósobinskich datow pokazało.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Slědowański šćit wužywaś, aby znate pśeslědowarje blokěrował">
 <!ENTITY  trackingProtectionAlways.label       "Pśecej">
 <!ENTITY  trackingProtectionAlways.accesskey   "c">
 <!ENTITY  trackingProtectionPrivate.label      "Jano w priwatnych woknach">
@@ -19,14 +19,16 @@
 <!ENTITY trackingProtectionPBM5.label         "Slědowański šćit w priwatnych woknach wužywaś">
 <!ENTITY trackingProtectionPBM5.accesskey     "r">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Slědowański šćit w priwatnem modusu wužywaś, aby znate pśeslědowarje blokěrował">
+<!ENTITY trackingProtectionPBM6.accesskey     "r">
 <!ENTITY trackingProtectionPBMLearnMore.label "Dalšne informacije">
 <!ENTITY changeBlockList.label          "Blokěrowańsku lisćinu změniś">
 <!ENTITY changeBlockList.accesskey      "z">
 
-
-
-
+<!ENTITY  doNotTrack.description        "Websedłam signal “Njeslědowaś” pósłaś, až njocośo, až wóne was slěduju">
+<!ENTITY  doNotTrack.learnMore.label    "Dalšne informacije">
+<!ENTITY  doNotTrack.default.label      "Jano, gaž se slědowański šćit wužywa">
+<!ENTITY  doNotTrack.always.label       "Pśecej">
 
 <!ENTITY  history.label                 "Historija">
 <!ENTITY  permissions.label             "Pšawa">
@@ -50,7 +52,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Cookieje tśeśich póbitowarjow akceptěrowaś:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "t">
-
+<!ENTITY  acceptThirdParty.always.label   "Pśecej">
 <!ENTITY  acceptThirdParty.never.label    "Nigda">
 <!ENTITY  acceptThirdParty.visited.label  "Jano wót woglědanych tśeśich">
 
