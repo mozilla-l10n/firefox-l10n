@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "m">
 <!ENTITY mediaPlaybackRate050x2.label "Pómałem (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "P">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Normalny">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Malsna (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "M">
 <!ENTITY mediaPlaybackRate150x2.label "Malsnjej (1.5×)">
@@ -857,10 +857,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Dalšne drastwy wobstaraś">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "D">
 <!ENTITY customizeMode.emptyOverflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
-
-
-
-
+<!ENTITY customizeMode.uidensity "Gustosć">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normalny">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "&amp;Normalny">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 
 
 
