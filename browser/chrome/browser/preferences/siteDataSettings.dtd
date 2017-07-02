@@ -6,7 +6,7 @@
 <!ENTITY     hostCol.label                 "সাইট">
 <!ENTITY     statusCol.label               "অবস্থা">
 <!ENTITY     usageCol.label                "স্টোরেজ">
-
+<!ENTITY     searchTextboxPlaceHolder             "ওয়েবসাইট অনুসন্ধান">
 <!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
 <!ENTITY     removeSelected.label          "নির্বাচিতদের অপসারণ">
 <!ENTITY     removeSelected.accesskey      "R">

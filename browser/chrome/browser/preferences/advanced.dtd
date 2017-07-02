@@ -96,7 +96,7 @@ available. -->
 # if required by your language.
  -->
 <!ENTITY updateApplication.version.post  "">
-
+<!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
 
 
 
@@ -109,7 +109,8 @@ available. -->
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
 
-
+<!ENTITY enableSearchUpdate2.label       "স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন হালনাগাদ হবে">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 
 <!ENTITY offlineStorageNotify.label               "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট তথ্য সংরক্ষণের চেষ্টা করলে আপনাকে জানাবে">
