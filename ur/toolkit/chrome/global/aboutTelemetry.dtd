@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "ٹیلیمٹری کوائف">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  تبدیل کریں">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR اعداد و شمار کی اپ لوڈ <span>اہل بنائیں</span>">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR اعداد و شمار کی اپ لوڈ<span>نااہل بنائیں</span>">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "توسیعی ٹیلیمیٹری ریکارڈنگ<span>اہل بنائیں</span>">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  توسیعی ٹیلیمیٹری ریکارڈنگ<span>نااہل بنائیں</span>">
-
 <!ENTITY aboutTelemetry.pingDataSource "کوائف ماخذ کو پنگ کریں">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "موجودہ پنگ کے کوائف">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "محفوظہ پنگ کوائف">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "پنگ کوائف کی نمائش کریں:">
-
-<!ENTITY aboutTelemetry.structured "ساخت شدہ">
 
 <!ENTITY aboutTelemetry.raw "خام JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; جدید تر پنگ">
 
 <!ENTITY aboutTelemetry.showOlderPing "پرانی پنگ  &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "خام پنگ ڈیٹا…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "ہفتہ">
 
@@ -72,12 +56,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection " سیشن کی معلومات">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  ایڈ اون کے ذریعے جمع کیے گئے ہسٹوگرام">
-
-<!ENTITY aboutTelemetry.toggle "  صیغہ غائب کرنے یا دکھانے کے لیے کلک کریں">
-
-<!ENTITY aboutTelemetry.emptySection "  (کوئی کوائف جمع نہیں ہوئے)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  نوٹ: سست SQL ڈیبگنگ اہل ہے۔ نیچے پوری SQL سٹرنگز دکھائی جا سکتی ہیں لیکن یہ ٹیلیمٹری کو جمع نہیں کرائ جائیں گی۔">
 
 
@@ -85,5 +63,3 @@
 <!ENTITY aboutTelemetry.filterText "  فلٹر (سٹرنگز یا /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "پیلوڈ">
-
-<!ENTITY aboutTelemetry.rawPayload "خام پیلوڈ">

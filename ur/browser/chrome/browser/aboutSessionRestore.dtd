@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "کامیابی!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; چلنے کے لیے تیار ہے۔">
 
-<!ENTITY welcomeback2.label.restoreAll  "تمام دریچے اور ٹیب بحال کریں">
-<!ENTITY welcomeback2.label.restoreSome "صرف وہی بحال کریں جو آپ چاہتے ہیں">
+<!ENTITY welcomeback2.restoreSome.label "صرف وہی بحال کریں جو آپ چاہتے ہیں">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
 before and after the the "learn more" link (welcomeback2.link.pageInfo2).
