@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "t">
 <!ENTITY mediaPlaybackRate050x2.label "Eqal (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "E">
-<!ENTITY mediaPlaybackRate100x2.label "Kan ke ri'">
-<!ENTITY mediaPlaybackRate100x2.accesskey "K">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Aninäq (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "A">
 <!ENTITY mediaPlaybackRate150x2.label "Yalan aninäq (1.5×)">
@@ -857,6 +857,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ke'ilitäj ch'aqa' chik taq wachinel">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
 <!ENTITY customizeMode.emptyOverflowList.description "Tiqirirëx chuqa' tosq'opïx wawe' ri ch'akulal richin nik'oje' naqaj xa xe chi man chupam ta rumolsamajib'al…">
+
+
+
+
+
+
+
+
+
+
+
 
 <!ENTITY getUserMedia.selectCamera.label "Rutaluxik elesäy wachib'äl">
 <!ENTITY getUserMedia.selectCamera.accesskey "e">
