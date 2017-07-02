@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Proteção contra rastreamento">
+<!ENTITY  trackingProtection2.description      "O rastreamento é a coleta de seus dados de navegação em vários sites. O rastreamento pode ser usado para criar um perfil e mostrar conteúdo com base na sua navegação e informações pessoais.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Usar a proteção contra rastreamento para bloquear rastreadores conhecidos">
 <!ENTITY  trackingProtectionAlways.label       "Sempre">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
