@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Bővítményhasználat kezelése">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Módosítsa, hogy kap-e értesítéseket ettől az oldaltól">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Adatok tárolása az állandó tárban">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "A böngészőt távolról irányítják">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "A kamera és/vagy mikrofon az oldallal megosztásának kezelése">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "A mikrofon az oldallal megosztásának kezelése">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Előzmények megjelenítése">
 
+<!ENTITY searchItem.title             "Keresés">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Kezdőlap">
@@ -247,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobil könyvjelzők">
 <!ENTITY viewBookmarksSidebar2.label        "Könyvjelzők oldalsáv megjelenítése">
 <!ENTITY viewBookmarksToolbar.label         "Könyvjelző eszköztár megjelenítése">
-
+<!ENTITY searchBookmarks.label              "Könyvjelzők keresése">
 
 <!ENTITY containersMenu.label "Konténerek">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -303,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "K"> 
 <!ENTITY copyCmd.label            "Másolás">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "M"> 
 <!ENTITY pasteCmd.label           "Beillesztés">  
 <!ENTITY pasteCmd.key           "V">  
@@ -389,7 +390,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "H_ozzáadás a túlcsorduló menühöz">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "Áthelyezés az eszköztárra">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "e">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,8 +401,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Áthelyezés a menübe">
 <!ENTITY customizeMenu.moveToPanel.accesskey "n">
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "_Rögzítés a túlcsorduló menühöz">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
 
 
 <!ENTITY customizeMenu.removeFromToolbar.label "Eltávolítás az eszköztárról">
