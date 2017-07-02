@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Moƴƴii!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; hebiima yahde.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Artir Kenorɗe e tabbe ɗee fof">
 <!ENTITY welcomeback2.restoreSome.label "Artir tan ɗe njiɗ-ɗaa">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
