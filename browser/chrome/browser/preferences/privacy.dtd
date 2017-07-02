@@ -25,6 +25,7 @@
 <!ENTITY changeBlockList.label          "Alterar Lista de Bloqueios">
 <!ENTITY changeBlockList.accesskey      "A">
 
+<!ENTITY  doNotTrack.description        "Enviar aos sites um sinal de “Não rastrear” informando que você não quer ser rastreado">
 <!ENTITY  doNotTrack.learnMore.label    "Saiba mais">
 <!ENTITY  doNotTrack.default.label      "Somente quando usar a proteção contra rastreamento">
 <!ENTITY  doNotTrack.always.label       "Sempre">
