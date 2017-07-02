@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Az adatjelentést letiltották ehhez a binárishoz">
+
 <!ENTITY healthReportDesc.label          "Segít megérteni a böngésző teljesítményét és adatokat oszt meg a &vendorShortName;val a böngésző állapotáról">
 <!ENTITY enableHealthReport.label        "A &brandShortName; állapotjelentés bekapcsolása">
 <!ENTITY enableHealthReport.accesskey    "b">
@@ -127,9 +129,10 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Adatvédelmi eszközök">
 <!ENTITY viewSecurityDevices.accesskey   "d">
 
+<!ENTITY performance.label               "Teljesítmény">
+<!ENTITY useRecommendedPerformanceSettings.label "Javasolt teljesítménybeállítások használata">
 
-
-
+<!ENTITY useRecommendedPerformanceSettings.accesskey "h">
 <!ENTITY performanceSettingsLearnMore.label "További tudnivalók">
 
 
