@@ -22,7 +22,10 @@
 <!ENTITY  addonExceptions.accesskey     "E">
 
 
+<!ENTITY  formsAndPasswords.label       "ফরম ও পাসওয়ার্ড">
 
+<!ENTITY  rememberLogins1.label          "সাইটের জন্য লগইন ও পাসওয়ার্ড মনে রাখো">
+<!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "ব্যতিক্রম...">
 <!ENTITY  passwordExceptions.accesskey  "x">
 

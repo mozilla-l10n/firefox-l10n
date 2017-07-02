@@ -106,7 +106,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY enterFullScreenCmd.accesskey "F">
 <!ENTITY exitFullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান">
 <!ENTITY exitFullScreenCmd.accesskey "F">
-<!ENTITY fullScreenCmd.label "পর্দাজুড়ে প্রদর্শন">
+<!ENTITY fullScreenCmd.label "পূর্ণ পর্দাজুড়ে প্রদর্শন">
 <!ENTITY fullScreenCmd.accesskey "F">
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "সব ট্যাব দেখানো হবে">
@@ -124,7 +124,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenClose.tooltip "বন্ধ">
 <!ENTITY fullScreenAutohide.label "টুলবার আড়াল">
 <!ENTITY fullScreenAutohide.accesskey "H">
-<!ENTITY fullScreenExit.label "পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান">
+<!ENTITY fullScreenExit.label "পূর্ণ পর্দাজুড়ে প্রদর্শন মোড থেকে প্রস্থান">
 <!ENTITY fullScreenExit.accesskey "F">
 <!-- LOCALIZATION NOTE (fullscreenWarning.beforeDomain.label,
      fullscreenWarning.afterDomain.label): these two strings are used
@@ -615,8 +615,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-<!ENTITY mediaPlaybackRate100x2.label "স্বাভাবিক">
-<!ENTITY mediaPlaybackRate100x2.accesskey "N">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Fast (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Faster (1.5×)">
@@ -848,6 +848,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
+
+
+
+
+
+
+
+
+
+
+
 <!ENTITY getUserMedia.selectCamera.label "যেসকল ক্যামেরা শেয়ার করা হবে: C">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "যেসকল মাইক্রোফোন শেয়ার করা হবে: M">
@@ -947,9 +958,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "N">
 <!ENTITY updateManual.panelUI.label "&brandShorterName; এর একটি নতুন কপি ডাউনলোড কুরুন;">
 
+<!ENTITY updateRestart.message "দ্রুত একটি রিস্টার্টের পর, &brandShorterName; আপনার খোলা ট্যাব এবং উইন্ডোগুলো রিস্টোর করবে।">
 
-
-
+<!ENTITY updateRestart.acceptButton.label "রিস্টার্ট ও রিস্টোর">
+<!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "এখন নয়">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 

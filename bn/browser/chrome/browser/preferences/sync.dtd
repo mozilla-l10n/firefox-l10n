@@ -67,6 +67,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedOut.accountBox.signin  "সাইন ইন">
 <!ENTITY signedOut.accountBox.signin.accesskey  "I">
 
+<!ENTITY signedIn.settings.label       "সিঙ্ক সেটিং">
 
 <!-- LOCALIZATION NOTE (mobilePromo3.*): the following strings will be used to
      create a single sentence with active links.
