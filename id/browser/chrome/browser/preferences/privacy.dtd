@@ -26,6 +26,9 @@
 <!ENTITY changeBlockList.accesskey      "U">
 
 <!ENTITY  doNotTrack.description        "Kirim sinyal “Jangan Lacak” ke situs web bahwa Anda tidak ingin dilacak">
+<!ENTITY  doNotTrack.learnMore.label    "Pelajari lebih lanjut">
+<!ENTITY  doNotTrack.default.label      "Hanya saat menggunakan Perlindungan Pelacakan">
+<!ENTITY  doNotTrack.always.label       "Selalu">
 
 <!ENTITY  history.label                 "Riwayat">
 <!ENTITY  permissions.label             "Hak Akses">
