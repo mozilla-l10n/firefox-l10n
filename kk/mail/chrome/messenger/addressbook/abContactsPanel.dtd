@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Хаттарды тарату тізімінің қасиеттері">
 <!ENTITY mailingListPropertiesMenu.accesskey "т">
 
+<!ENTITY abContextMenuButton.tooltip        "Адрестік кітапшаның контекст мәзірін көрсету">
 <!ENTITY addressbookPicker.label            "Адрестік кітапша:">
 <!ENTITY addressbookPicker.accesskey        "к">
 <!ENTITY searchContacts.label               "Контакттарды іздеу:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "е">
 <!ENTITY editMailingListContext.label       "Тізімді түзету">
 <!ENTITY editMailingListContext.accesskey   "е">
+
+<!ENTITY newContactAbContext.label          "Жаңа контакт">
+<!ENTITY newContactAbContext.accesskey      "к">
+<!ENTITY newListAbContext.label             "Жаңа тізім">
+<!ENTITY newListAbContext.accesskey         "т">
 
 <!ENTITY toButton.label                     "&quot;Кімге&quot; ішіне қосу:">
 <!ENTITY toButton.accesskey                 "о">
