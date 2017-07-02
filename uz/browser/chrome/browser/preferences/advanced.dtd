@@ -31,19 +31,22 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Ma’lumotlar hisoboti moslama uchun o‘chirib qo‘yilgan">
+
 <!ENTITY healthReportDesc.label          "Brauzeringizning ishlashini tushunishingizga  va uning yaroqliligi haqidagi ma`lumotlarni &vendorShortName; bilan boʻlishishingizga yordam beradi.">
 <!ENTITY enableHealthReport.label        "&brandShortName; yaroqlilik ma`lumotlari">
 <!ENTITY enableHealthReport.accesskey    "r">
-
+<!ENTITY healthReportLearnMore.label     "Batafsil ma’lumot">
 
 <!ENTITY telemetryDesc.label             "&vendorShortName; bilan &brandShortName;ni yaxshilashimizga yordam berishingiz uchun brauzeringiz haqidagi ishlashi, foydalanish, qurilma va moslash ma`lumotlarini boʻlishadi">
 <!ENTITY enableTelemetryData.label       "Qo‘shimcha ma’lumotlarni bo‘lishish (masalan, Telemetriya)">
 <!ENTITY enableTelemetryData.accesskey   "T">
+<!ENTITY telemetryLearnMore.label        "Batafsil ma’lumot">
+
+<!ENTITY crashReporterDesc2.label         "Nosozlik hisobotlari &vendorShortName;ga muammolarni tuzatish, brauzerni yanada xavfsiz va yaxshi ishlaydigan qilishda yordam beradi">
 
 
-
-
-
+<!ENTITY crashReporterLearnMore.label     "Batafsil ma’lumot">
 
 <!ENTITY networkTab.label                "Tarmoq">
 
@@ -57,6 +60,8 @@ available. -->
 
 <!ENTITY offlineStorage2.label           "Oflayn veb kontent va foydalanuvchi ma`lumotlari">
 <!--  Site Data section manages sites using Storage API and is under Network -->
+
+<!ENTITY siteData.label                  "Sayt ma’lumotlari">
 
 
 
