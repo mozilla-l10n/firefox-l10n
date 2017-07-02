@@ -616,8 +616,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "i">
 <!ENTITY mediaPlaybackRate050x2.label "Mosso (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "s">
-<!ENTITY mediaPlaybackRate100x2.label "Hankul">
-<!ENTITY mediaPlaybackRate100x2.accesskey "H">
+
+
 <!ENTITY mediaPlaybackRate125x2.label "Cahã (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "C">
 <!ENTITY mediaPlaybackRate150x2.label "Cahã ka tonton (1.5×)">
@@ -847,6 +847,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Furari tontoney guna">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!ENTITY getUserMedia.selectCamera.label "Biizaahaya žemna:">
