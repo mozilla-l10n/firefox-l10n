@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Mailinglijsteigenschappen">
 <!ENTITY mailingListPropertiesMenu.accesskey "e">
 
+<!ENTITY abContextMenuButton.tooltip        "Adresboekcontextmenu weergeven">
 <!ENTITY addressbookPicker.label            "Adresboek:">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "Contacten zoeken:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "w">
 <!ENTITY editMailingListContext.label       "Lijst bewerken">
 <!ENTITY editMailingListContext.accesskey   "w">
+
+<!ENTITY newContactAbContext.label          "Nieuw contact">
+<!ENTITY newContactAbContext.accesskey      "c">
+<!ENTITY newListAbContext.label             "Nieuwe lijst">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Aan:">
 <!ENTITY toButton.accesskey                 "A">
