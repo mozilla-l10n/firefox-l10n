@@ -36,10 +36,14 @@
 <!ENTITY editMailingListContext.label       "Редактиране на списък">
 <!ENTITY editMailingListContext.accesskey   "р">
 
+<!ENTITY newContactAbContext.label          "Нова визитка">
+<!ENTITY newContactAbContext.accesskey      "в">
+<!ENTITY newListAbContext.label             "Нов списък">
+<!ENTITY newListAbContext.accesskey         "с">
 
-<!ENTITY toButton.label                     "Добави към До:">
+<!ENTITY toButton.label                     "Добавяне към До:">
 <!ENTITY toButton.accesskey                 "Д">
 <!ENTITY ccButton.label                     "Добавяне към Bcc:">
 <!ENTITY ccButton.accesskey                 "б">
-<!ENTITY bccButton.label                    "Добави към Bcc:">
+<!ENTITY bccButton.label                    "Добавяне към Bcc:">
 <!ENTITY bccButton.accesskey                "б">
