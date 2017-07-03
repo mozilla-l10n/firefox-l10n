@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "סימניות מהנייד">
 <!ENTITY viewBookmarksSidebar2.label        "הצגת סרגל הצד">
 <!ENTITY viewBookmarksToolbar.label         "הצגת סרגל הכלים">
+<!ENTITY searchBookmarks.label              "חיפוש בסימניות">
 
 <!ENTITY containersMenu.label "מגירות">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "נ">
 <!ENTITY customizeMode.lwthemes.menuGetMore "קבלת ערכות נושא נוספות">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
+<!ENTITY customizeMode.emptyOverflowList.description "יש לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
+<!ENTITY customizeMode.uidensity "צפיפות">
+<!ENTITY customizeMode.uidensity.menuNormal.label "רגילה">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "רגילה">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ר">
+<!ENTITY customizeMode.uidensity.menuCompact.label "צפופה">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "צפופה">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "צ">
+<!ENTITY customizeMode.uidensity.menuTouch.label "מגע">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "מגע">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "ג">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "שימוש במגע למצב מחשב לוח">
 
 <!ENTITY getUserMedia.selectCamera.label "מצלמה לשיתוף:">
 <!ENTITY getUserMedia.selectCamera.accesskey "צ">

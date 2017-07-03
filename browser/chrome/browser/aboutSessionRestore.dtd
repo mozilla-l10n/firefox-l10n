@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "הדפדפן מוכן ומזומן לפקודתך!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; מוכן כעת לנסיעה.">
 
-<!ENTITY welcomeback2.label.restoreAll  "שחזור כל הלשוניות והחלונות">
-<!ENTITY welcomeback2.label.restoreSome "שחזור של אלו הרצויות בלבד">
+<!ENTITY welcomeback2.restoreAll.label  "שחזור כל החלונות והלשוניות">
+<!ENTITY welcomeback2.restoreSome.label "שחזור של הלשוניות הרצויות בלבד">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
