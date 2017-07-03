@@ -7,7 +7,7 @@
 <!ENTITY privatebrowsingpage.openPrivateWindow.accesskey "p">
 
 <!ENTITY privateBrowsing.title                           "Huliðsstilling">
-<!ENTITY privateBrowsing.title.tracking                  "Huliðsgluggi er með vörn gegn því að fylgst sé með þér">
+<!ENTITY privateBrowsing.title.tracking                  "Huliðsgluggi er með vörn gegn gagnasöfnun">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.before       "Þegar þú vafrar með huliðsglugga, mun Firefox ">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.emphasize    "ekki vista">
 <!ENTITY aboutPrivateBrowsing.info.notsaved.after        ":">
@@ -27,6 +27,6 @@
 <!ENTITY aboutPrivateBrowsing.learnMore3.title           "Huliðsstilling">
 <!ENTITY aboutPrivateBrowsing.learnMore3.after           ".">
 
-<!ENTITY trackingProtection.title                        "Vörn gegn því að fylgst sé með þér">
-<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn því að fylgst sé með þér getur Firefox lokað á flesta rekjara sem safna upplýsingum um þína vafranotkun.">
+<!ENTITY trackingProtection.title                        "Vörn gegn gagnasöfnun">
+<!ENTITY trackingProtection.description2                 "Sum vefsvæði nota rekjara sem geta fylgst með notkun þinni á ferð um netið. Með vörn gegn gagnasöfnun getur Firefox lokað á flesta rekjara sem safna upplýsingum um vafranotkun þína.">
 <!ENTITY trackingProtection.startTour1                   "Sjá hvernig þetta virkar">

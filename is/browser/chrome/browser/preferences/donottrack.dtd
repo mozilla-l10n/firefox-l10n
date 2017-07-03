@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Alltaf virkja ekki fylgjast með mér">
 <!ENTITY doNotTrackCheckbox2.accesskey "A">
 
-<!ENTITY doNotTrackTPInfo.description "&brandShortName; mun senda merki um að þú viljir ekki láta fylgjast með þér þegar vörn gegn því er virk.">
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; mun senda merki um að þú viljir ekki láta fylgjast með þér þegar vörn gegn gagnasöfnun er virk.">
 <!ENTITY doNotTrackLearnMore.label    "Fræðast meira">

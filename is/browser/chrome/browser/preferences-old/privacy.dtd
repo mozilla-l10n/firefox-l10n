@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader.label       "Nota vörn gegn því að fylgst sé með þér">
+<!ENTITY  trackingProtectionHeader.label       "Nota vörn gegn gagnasöfnun">
 <!ENTITY  trackingProtectionAlways.label       "Alltaf">
 <!ENTITY  trackingProtectionAlways.accesskey   "A">
 <!ENTITY  trackingProtectionPrivate.label      "Aðeins í huliðsgluggum">
@@ -13,9 +13,9 @@
 <!ENTITY  trackingProtectionExceptions.label   "Undanþágur…">
 <!ENTITY  trackingProtectionExceptions.accesskey "U">
 
-<!ENTITY tracking.label                 "Fylgjast með">
-<!ENTITY trackingProtectionPBM5.label         "Nota vörn gegn því að fylgst sé með þér í huliðsgluggum">
-<!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!ENTITY tracking.label                 "Gagnasöfnun">
+<!ENTITY trackingProtectionPBM5.label         "Nota vörn gegn gagnasöfnun í huliðsgluggum">
+<!ENTITY trackingProtectionPBM5.accesskey     "ö">
 <!ENTITY trackingProtectionPBMLearnMore.label "Fræðast meira">
 <!ENTITY changeBlockList.label          "Breyta lokunarlista">
 <!ENTITY changeBlockList.accesskey      "B">
