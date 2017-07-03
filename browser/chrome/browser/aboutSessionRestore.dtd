@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Berjaya!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; sedia untuk dimulakan.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Kembalikan semula semua Tetingkap dan Tab">
-<!ENTITY welcomeback2.label.restoreSome "Kembalikan semula hanya yang anda mahu">
+<!ENTITY welcomeback2.restoreAll.label  "Kembalikan semua tetingkap &amp; tab">
+<!ENTITY welcomeback2.restoreSome.label "Kembalikan hanya yang anda mahu">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

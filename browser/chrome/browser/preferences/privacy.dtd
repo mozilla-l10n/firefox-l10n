@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Perlindungan Penjejakan">
-<!ENTITY  trackingProtection.description       "Penjejakan ialah apabila syarikat mengumpulkan maklumat anda untuk membina profil dan kandungan paparan berdasarkan data pelayaran dan data peribadi anda.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Sekat syarikat penjejak yang diketahui daripada memaparkan kandungan">
+<!ENTITY  trackingProtection2.description      "Penjejakan ialah pengumpulan data pelyaran anda dalam pelbagai laman web. Penjejakan boleh digunakan untuk membina profil dan memaparkan kandungan berdasarkan maklumat pelayaran dan peribadi anda.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Gunakan Perlindungan Penjejakan untuk menyekat penjejak dikenali">
 <!ENTITY  trackingProtectionAlways.label       "Sentiasa">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Hanya dalam tertingkap persendirian">
@@ -15,18 +15,20 @@
 <!ENTITY  trackingProtectionExceptions.label   "Pengecualian…">
 <!ENTITY  trackingProtectionExceptions.accesskey "g">
 
-<!ENTITY tracking.label                 "Penjejakan">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Guna Perlindungan Penjejakan dalam Tetingkap Persendirian">
 <!ENTITY trackingProtectionPBM5.accesskey     "k">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Gunakan Perlindungan Penjejakan dalam Pelayaran Peribadi untuk menyekat penjejak dikenali">
+<!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Ketahui selanjutnya">
 <!ENTITY changeBlockList.label          "Tukar Senarai Sekatan">
 <!ENTITY changeBlockList.accesskey      "a">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Anda juga boleh ">
-<!ENTITY  doNotTrack.settings.label     "urus tetapan Do Not Track anda">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Hantar laman web isyarat “Jangan Jejak” bahawa anda tidak mahu dikesan">
+<!ENTITY  doNotTrack.learnMore.label    "Ketahui selanjutnya">
+<!ENTITY  doNotTrack.default.label      "Hanya apabila menggunakan Perlindungan Penjejakan">
+<!ENTITY  doNotTrack.always.label       "Sentiasa">
 
 <!ENTITY  history.label                 "Sejarah">
 <!ENTITY  permissions.label             "Keizinan">
