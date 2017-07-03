@@ -63,7 +63,7 @@
 <!ENTITY cmd.copyDownloadLink.accesskey   "K">
 <!ENTITY cmd.removeFromHistory.label      "Fjern frå historikk">
 <!ENTITY cmd.removeFromHistory.accesskey  "e">
-<!ENTITY cmd.clearList2.label             "Reins førehandsvisingsruta">
+<!ENTITY cmd.clearList2.label             "Tøm førehandsvisingsruta">
 <!ENTITY cmd.clearList2.accesskey         "a">
 <!ENTITY cmd.clearDownloads.label         "Fjern nedlastingar">
 <!ENTITY cmd.clearDownloads.accesskey     "e">
@@ -134,7 +134,11 @@
 <!ENTITY downloadsHistory.label           "Vis alle nedlastingar">
 <!ENTITY downloadsHistory.accesskey       "V">
 
-<!ENTITY openDownloadsFolder.label       "Opne nedlastingsmappe">
+<!-- LOCALIZATION NOTE (openDownloadsFolder.label):
+     This command is not currently available in the user interface, but the
+     string was preserved by bug 1362207 to be used in a future version.
+     -->
+<!ENTITY openDownloadsFolder.label        "Opne nedlastingsmappe">
 
 <!ENTITY clearDownloadsButton.label       "Slett nedlastingar">
 <!ENTITY clearDownloadsButton.tooltip     "Fjernar fullførte, avbrotne og mislykka nedlastingar">
