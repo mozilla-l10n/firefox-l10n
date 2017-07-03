@@ -22,6 +22,7 @@
 <!ENTITY changeBlockList.accesskey      "b">
 
 <!ENTITY  doNotTrack.learnMore.label    "Les mer">
+<!ENTITY  doNotTrack.always.label       "Alltid">
 
 <!ENTITY  history.label                 "Historikk">
 <!ENTITY  permissions.label             "Tillatelser">
