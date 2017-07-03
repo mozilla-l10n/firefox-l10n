@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získat více motivů">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
 <!ENTITY customizeMode.emptyOverflowList.description "Sem můžete přetáhnout položky, které chcete mít na dosah, ale ne přímo na liště…">
+<!ENTITY customizeMode.uidensity "Velikost">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Výchozí">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Výchozí">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "V">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktní">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktní">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Pro dotyk">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Pro dotyk">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "V režimu tabletu použít velikost pro dotyk">
 
 <!ENTITY getUserMedia.selectCamera.label "Sdílet kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
