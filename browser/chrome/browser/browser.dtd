@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Marque-pages des appareils mobiles">
 <!ENTITY viewBookmarksSidebar2.label        "Afficher panneau des marque-pages">
 <!ENTITY viewBookmarksToolbar.label         "Afficher la barre personnelle">
+<!ENTITY searchBookmarks.label              "Rechercher dans les marque-pages">
 
 <!ENTITY containersMenu.label "Contextes">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtenir plus de thèmes">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
+<!ENTITY customizeMode.emptyOverflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
+<!ENTITY customizeMode.uidensity "Densité">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compacte">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacte">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tactile">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tactile">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utiliser le tactile en mode tablette">
 
 <!ENTITY getUserMedia.selectCamera.label "Caméra à partager :">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
