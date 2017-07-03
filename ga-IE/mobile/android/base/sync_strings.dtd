@@ -37,7 +37,7 @@
 <!ENTITY bookmarks.folder.desktop.label "Leabharmharcanna Deisce">
 <!ENTITY bookmarks.folder.mobile.label "Leabharmharcanna Soghluaiste">
 <!-- Pinned sites on about:home. This folder should never be shown to the user, but we have to give it a string name -->
-<!ENTITY bookmarks.folder.pinned.label "Feistithe">
+<!ENTITY bookmarks.folder.pinned.label "Pionnáilte">
 <!-- Firefox Account strings. -->
 <!-- Localization note: these are shown in screens after the user has
      created or signed in to an account, and take the user back to
