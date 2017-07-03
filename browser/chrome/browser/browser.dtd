@@ -856,6 +856,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "მეტი გაფორმებები">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
 <!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, მეტად ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
+<!ENTITY customizeMode.uidensity "სიხშირე">
+<!ENTITY customizeMode.uidensity.menuNormal.label "ჩვეულებრივი">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "ჩვეულებრივი">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ჩ">
+<!ENTITY customizeMode.uidensity.menuCompact.label "კომპაქტური">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "კომპაქტური">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "კ">
+<!ENTITY customizeMode.uidensity.menuTouch.label "შეხება">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "შეხება">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "შ">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "შეხების გამოყენება ტაბლეტ რეჟიმისთვის">
 
 <!ENTITY getUserMedia.selectCamera.label "გასაზიარებელი კამერა:">
 <!ENTITY getUserMedia.selectCamera.accesskey "კ">
