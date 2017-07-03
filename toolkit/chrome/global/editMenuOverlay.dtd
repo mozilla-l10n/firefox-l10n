@@ -21,7 +21,7 @@
 <!ENTITY pasteCmd.accesskey        "P">
 <!ENTITY deleteCmd.label           "நீக்கு">
 <!ENTITY deleteCmd.accesskey       "D">
-<!ENTITY selectAllCmd.label        "அனைத்தையும் தேர்வு செய்">
+<!ENTITY selectAllCmd.label        "அனைத்தையும் தேர்">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey    "A">
 <!ENTITY findCmd.label             "கண்டுபிடி">
