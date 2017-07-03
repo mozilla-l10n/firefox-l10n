@@ -22,6 +22,7 @@
 <!ENTITY changeBlockList.label          "Qara Siyahını Dəyiş">
 <!ENTITY changeBlockList.accesskey      "D">
 
+<!ENTITY  doNotTrack.description        'Saytlara "Məni İzləmə" siqnalı göndərərək izlənmək istəmədiyinizi bildirin'>
 <!ENTITY  doNotTrack.learnMore.label    "Ətraflı öyrən">
 <!ENTITY  doNotTrack.default.label      "Ancaq İzlənmə Qoruması işlədərkən">
 <!ENTITY  doNotTrack.always.label       "Həmişə">
