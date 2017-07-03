@@ -109,10 +109,10 @@
 <!ENTITY menu_ShowNameAs.accesskey                      "и">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->
-<!ENTITY firstLastCmd2.label                            "Първи последен">
-<!ENTITY firstLastCmd2.accesskey                        "ъ">
-<!ENTITY lastFirstCmd.label                             "Последен, първи">
-<!ENTITY lastFirstCmd.accesskey                         "о">
+<!ENTITY firstLastCmd2.label                            "Име Фамилия">
+<!ENTITY firstLastCmd2.accesskey                        "е">
+<!ENTITY lastFirstCmd.label                             "Фамилия, Име">
+<!ENTITY lastFirstCmd.accesskey                         "а">
 <!ENTITY displayNameCmd.label                           "Показвано име">
 <!ENTITY displayNameCmd.accesskey                       "и">
 <!ENTITY sortMenu.label                                 "Подреждане по">
