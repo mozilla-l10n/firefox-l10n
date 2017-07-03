@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "A">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "வலைத்தளம் உருவாக்குநர்">
+<!ENTITY webDeveloperMenu.label       "உருவாக்குநர் கருவிகள்">
 <!ENTITY webDeveloperMenu.accesskey   "W">
 
 <!ENTITY inspectContextMenu.label     "உறுப்பு ஆய்வுசெய்">
@@ -285,7 +285,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fileMenu.accesskey       "F">
 <!ENTITY newUserContext.label             "புதிய கொள்கலன் கீற்று">
 <!ENTITY newUserContext.accesskey         "b">
-<!ENTITY newNavigatorCmd.label        "சாளரம்">
+<!ENTITY newNavigatorCmd.label        "புதிய சாளரம்">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "N">
 <!ENTITY newPrivateWindow.label     "புதிய அந்தரங்க சாளரம்">
