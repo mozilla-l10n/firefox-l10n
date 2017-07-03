@@ -855,6 +855,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Awi-d ugar n isental">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Amagnu">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Amagnu">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Ussid">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ussid">
 
 <!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "T">
