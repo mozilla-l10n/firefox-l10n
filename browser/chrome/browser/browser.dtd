@@ -841,6 +841,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "Q">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Tải thêm các diện mạo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
 
 <!ENTITY getUserMedia.selectCamera.label "Chia sẻ camera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">

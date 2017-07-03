@@ -10,6 +10,10 @@
 
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Tìm kiếm văn bản khi bạn bắt đầu nhập">
+<!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.accesskey       "b">
+<!ENTITY useOnScreenKeyboard.accesskey   "k">
 
 <!ENTITY browsing.label                  "Duyệt">
 
@@ -17,8 +21,13 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey    "y">
+<!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">
+
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
 
 <!ENTITY healthReportDesc.label          "Giúp bạn nắm được hiệu suất trình duyệt của bạn và chia sẻ dữ liệu với &vendorShortName; về trạng thái của trình duyệt">
 <!ENTITY enableHealthReport.label        "Trình báo cáo lỗi &brandShortName; (R)">
@@ -26,8 +35,10 @@
 <!ENTITY healthReportLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY telemetryDesc.label             "Chia sẻ hiệu năng, cách sử dụng, phần cứng và dữ liệu tùy biến liên quan đến trình duyệt của bạn với &vendorShortName; để giúp chúng tôi tạo ra &brandShortName; tốt hơn">
+<!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Tìm hiểu thêm">
 
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Tìm hiểu thêm">
 
 <!ENTITY networkTab.label                "Mạng">
@@ -43,6 +54,12 @@
 <!ENTITY offlineStorage2.label           "Nội dung Web và Dữ liệu người dùng ngoại tuyến">
 
 <!--  Site Data section manages sites using Storage API and is under Network -->
+<!ENTITY siteData.label                  "Dữ liệu trang web">
+<!ENTITY clearSiteData.label             "Xóa tất cả dữ liệu">
+<!ENTITY clearSiteData.accesskey         "l">
+<!ENTITY siteDataSettings.label          "Thiết lập…">
+<!ENTITY siteDataSettings.accesskey      "i">
+<!ENTITY siteDataLearnMoreLink.label     "Tìm hiểu thêm">
 
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
@@ -64,6 +81,7 @@
 
 <!ENTITY updateAuto1.label               "Tự động cài đặt các cập nhật (nên làm vì tăng tính bảo mật)">
 <!ENTITY updateAuto1.accesskey           "A">
+<!ENTITY updateCheckChoose.accesskey     "C">
 <!ENTITY updateManual.label              "Không tự động kiểm tra các cập nhật (không nên vì nguy cơ bảo mật)">
 <!ENTITY updateManual.accesskey          "n">
 
@@ -73,9 +91,11 @@
 <!ENTITY useService.label                "Sử dụng dịch vụ chạy nền để cài đặt các cập nhật">
 <!ENTITY useService.accesskey            "b">
 
+<!ENTITY autoUpdateOthers.label          "Cập nhật tự động">
 <!ENTITY enableSearchUpdate.label        "Máy tìm kiếm">
 <!ENTITY enableSearchUpdate.accesskey    "y">
 
+<!ENTITY offlineStorageNotify.accesskey           "T">
 <!ENTITY offlineStorageNotifyExceptions.label     "Ngoại trừ…">
 <!ENTITY offlineStorageNotifyExceptions.accesskey "N">
 
@@ -86,7 +106,16 @@
 <!ENTITY offlineAppRemove.confirm        "Xóa dữ liệu ngoại tuyến">
 
 <!ENTITY certificateTab.label            "Chứng thư">
+<!ENTITY certPersonal.label              "Yêu cầu">
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
+<!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY enableOCSP.accesskey            "Q">
+<!ENTITY viewCerts.label                 "Xem chứng chỉ">
+<!ENTITY viewCerts.accesskey             "C">
+<!ENTITY viewSecurityDevices.label       "Thiết bị bảo mật">
+<!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "Hiệu suất">
 <!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
 <!ENTITY allowHWAccel.accesskey          "h">
