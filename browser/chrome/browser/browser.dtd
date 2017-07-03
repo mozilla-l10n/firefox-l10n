@@ -52,7 +52,7 @@ can reach it easily. -->
 <!ENTITY  bookmarkAllTabs.accesskey          "o">
 <!ENTITY  undoCloseTab.label                 "Angre lukking av fane">
 <!ENTITY  undoCloseTab.accesskey             "A">
-<!ENTITY  closeTab.label                     "Lukk fane">
+<!ENTITY  closeTab.label                     "Lukk fana">
 <!ENTITY  closeTab.accesskey                 "L">
 
 <!ENTITY  listAllTabs.label      "Vis liste over alle faner">
