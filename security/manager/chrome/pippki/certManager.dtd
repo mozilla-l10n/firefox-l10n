@@ -47,7 +47,7 @@
 <!ENTITY certmgr.override_lifetime            "Validade">
 <!ENTITY certmgr.tokenname                    "Dispositivo de segurança">
 <!ENTITY certmgr.begins                       "Inicia a">
-<!ENTITY certmgr.expires                      "Expira a">
+<!ENTITY certmgr.expires                      "Expira em">
 <!ENTITY certmgr.email                        "Endereço de e-mail">
 <!ENTITY certmgr.serial                       "Número de série">
 
