@@ -509,8 +509,8 @@
 <!ENTITY contextmenu_subscribe "Liostáil leis an Leathanach">
 <!ENTITY contextmenu_site_settings "Cuir Socruithe an tSuímh in Eagar">
 <!ENTITY contextmenu_top_sites_edit "Eagar">
-<!ENTITY contextmenu_top_sites_pin "Feistigh an suíomh seo">
-<!ENTITY contextmenu_top_sites_unpin "Dífheistigh an suíomh seo">
+<!ENTITY contextmenu_top_sites_pin "Pionnáil an suíomh seo">
+<!ENTITY contextmenu_top_sites_unpin "Díphionnáil an suíomh seo">
 <!ENTITY contextmenu_add_search_engine "Cuir Inneall Cuardaigh Leis">
 <!-- Localization note (doorhanger_login_no_username): This string is used in the save-login doorhanger
      where normally a username would be displayed. In this case, no username was found, and this placeholder
