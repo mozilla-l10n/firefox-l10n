@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Terminé !">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; est prêt.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaurer toutes les fenêtres et tous les onglets">
-<!ENTITY welcomeback2.label.restoreSome "Choisir ce que je souhaite restaurer">
+<!ENTITY welcomeback2.restoreAll.label  "Restaurer toutes les fenêtres et tous les onglets">
+<!ENTITY welcomeback2.restoreSome.label "Choisir ce que je souhaite restaurer">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
