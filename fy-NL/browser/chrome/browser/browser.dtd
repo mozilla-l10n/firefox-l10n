@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobyl-blêdwizers">
 <!ENTITY viewBookmarksSidebar2.label        "Blêdwizersydbalke werjaan">
 <!ENTITY viewBookmarksToolbar.label         "Blêdwizerarkbalke werjaan">
+<!ENTITY searchBookmarks.label              "Blêdwizers trochsykje">
 
 <!ENTITY containersMenu.label "Konteners">
 
@@ -854,6 +855,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Krij mear tema's">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
+<!ENTITY customizeMode.emptyOverflowList.description "Sleep items hjirnei ta om se deunby mar bûten jo arkbalke te hâlden…">
+<!ENTITY customizeMode.uidensity "Tichtens">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normaal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normaal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Oanraking">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Oanraking">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "O">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Brûk oanraking foar tabletmodus">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te dielen:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">

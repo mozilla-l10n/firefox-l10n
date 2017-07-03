@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Slagge!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; is klear foar gebrûk.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Alle finsters en ljepblêden werom bringe">
-<!ENTITY welcomeback2.label.restoreSome "Allinnich dyjinge werom bringe dy't jo winske">
+<!ENTITY welcomeback2.restoreAll.label  "Alle finsters en ljepblêden werstelle">
+<!ENTITY welcomeback2.restoreSome.label "Allinnich dyjinge werom bringe dy't jo winske">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
