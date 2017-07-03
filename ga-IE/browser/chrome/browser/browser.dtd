@@ -36,9 +36,9 @@ left edge of the tabstrip. Really we just want the string to express the idea
 that this is a lightweight and reversible action that keeps your tab where you
 can reach it easily. -->
 
-<!ENTITY  pinTab.label                       "Feistigh an Cluaisín">
-<!ENTITY  pinTab.accesskey                   "F">
-<!ENTITY  unpinTab.label                     "Dífheistigh an Cluaisín">
+<!ENTITY  pinTab.label                       "Pionnáil an Cluaisín">
+<!ENTITY  pinTab.accesskey                   "P">
+<!ENTITY  unpinTab.label                     "Díphionnáil an Cluaisín">
 <!ENTITY  unpinTab.accesskey                 "D">
 <!ENTITY  sendTabToDevice.label              "Seol an Cluaisín Chuig Gléas">
 <!ENTITY  sendTabToDevice.accesskey          "G">
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Cuir lorgfhocal leis an gcuardach seo…">
 <!ENTITY keywordfield.accesskey       "l">
 
-<!ENTITY downloads.label              "Íosluchtú">
+<!ENTITY downloads.label              "Íosluchtuithe">
 <!ENTITY downloads.accesskey          "l">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -401,9 +401,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Cuir sa Roghchlár">
 <!ENTITY customizeMenu.moveToPanel.accesskey "R">
-<!ENTITY customizeMenu.pinToOverflowMenu.label "Feistigh leis an Roghchlár Fuílligh">
-<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "F">
-<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Dífheistigh ón Roghchlár Fuílligh">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Pionnáil leis an Roghchlár Fuílligh">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "P">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Díphionnáil ón Roghchlár Fuílligh">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "D">
 <!ENTITY customizeMenu.removeFromToolbar.label "Bain amach ón Bharra Uirlisí">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "B">
