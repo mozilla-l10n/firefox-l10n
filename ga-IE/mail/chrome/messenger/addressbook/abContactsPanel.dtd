@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Airíonna an Liosta Ríomhphoist">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Taispeáin Roghchlár Comhthéacs an Leabhair Seoltaí">
 <!ENTITY addressbookPicker.label            "Leabhar Seoltaí:">
 <!ENTITY addressbookPicker.accesskey        "e">
 <!ENTITY searchContacts.label               "Cuardaigh Teagmhálaithe:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "E">
 <!ENTITY editMailingListContext.label       "Cuir an Liosta in Eagar">
 <!ENTITY editMailingListContext.accesskey   "E">
+
+<!ENTITY newContactAbContext.label          "Teagmhálaí Nua">
+<!ENTITY newContactAbContext.accesskey      "g">
+<!ENTITY newListAbContext.label             "Liosta Nua">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Cuir le Chuig:">
 <!ENTITY toButton.accesskey                 "C">
