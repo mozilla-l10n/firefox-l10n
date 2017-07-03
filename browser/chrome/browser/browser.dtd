@@ -120,7 +120,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 
 <!ENTITY fullScreenMinimize.tooltip "Minimer">
-<!ENTITY fullScreenRestore.tooltip "Gjenopprett">
+<!ENTITY fullScreenRestore.tooltip "Bygg oppatt">
 <!ENTITY fullScreenClose.tooltip "Lukk">
 <!ENTITY fullScreenAutohide.label "Gøym verktøylinjer">
 <!ENTITY fullScreenAutohide.accesskey "G">
@@ -338,7 +338,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoMenu.label "Nyleg attlatne faner">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
 <!ENTITY historyUndoWindowMenu.label "Nyleg attlatne vindauge">
-<!ENTITY historyRestoreLastSession.label "Gjenopprett siste programøkt">
+<!ENTITY historyRestoreLastSession.label "Bygg oppatt siste programøkt">
 
 <!ENTITY showAllHistoryCmd2.label "Vis all historikk">
 <!ENTITY showAllHistoryCmd.commandkey "h">
@@ -350,7 +350,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.label "Historikk">
 <!ENTITY appMenuHistory.showAll.label "Vis all historikk">
 <!ENTITY appMenuHistory.clearRecent.label "Tøm nyleg historikk…">
-<!ENTITY appMenuHistory.restoreSession.label "Gjenopprett siste programøkt">
+<!ENTITY appMenuHistory.restoreSession.label "Bygg oppatt siste programøkt">
 <!ENTITY appMenuHistory.viewSidebar.label "Vis historikksidestolpe">
 <!ENTITY appMenuHelp.label "Hjelp">
 <!ENTITY appMenuHelp.tooltip "Opne hjelpemeny">
@@ -967,7 +967,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.cancelButton.accesskey "n">
 <!ENTITY updateManual.panelUI.label "Last ned eit heilt nytt eksemplar av &brandShorterName;">
 
-<!ENTITY updateRestart.message "Etter ein rask omstart, vil &brandShorterName; gjenopprette alle opne faner og vindauge.">
+<!ENTITY updateRestart.message "Etter ein rask omstart, vil &brandShorterName; byggje oppatt alle opne faner og vindauge.">
 <!ENTITY updateRestart.header.message2 "Start på nytt for å oppdatere &brandShorterName;.">
 <!ENTITY updateRestart.acceptButton.label "Start på nytt og bygg oppatt">
 <!ENTITY updateRestart.acceptButton.accesskey "r">
