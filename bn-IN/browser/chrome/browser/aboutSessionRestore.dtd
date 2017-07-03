@@ -34,8 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "সাফল্যের সাথে সমাপ্ত!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; ব্যবহারের জন্য তৈরি।">
 
-<!ENTITY welcomeback2.label.restoreAll  "সমস্ত উইন্ডো এবং ট্যাব পুনরুদ্ধার করুন">
-<!ENTITY welcomeback2.label.restoreSome "শুধু যেটা আপনি চাইছেন সেটাই কেবল পুনরুদ্ধার করুন">
+<!ENTITY welcomeback2.restoreAll.label  "সমস্ত উইন্ডো &amp; ট্যাব পুনরুদ্ধার করুন">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
