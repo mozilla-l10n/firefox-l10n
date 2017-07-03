@@ -589,7 +589,7 @@
 <!ENTITY home_synced_devices_one "1 கருவி">
 <!ENTITY home_history_back_to2 "முழு வரலாறுக்குச் செல்">
 <!ENTITY home_clear_history_button "உலாவி வரலாற்றை துடை">
-<!ENTITY home_clear_history_confirm "உங்களுடைய வரலாற்றை நிச்சையமாக துடைக்க வேண்டுமா?">
+<!ENTITY home_clear_history_confirm "கண்டிப்பாக வரலாற்றைத் துடைக்க வேண்டுமா?">
 <!ENTITY home_bookmarks_empty "நீங்கள் சேமித்து வைத்த புத்தகக்குறிகள் இங்கே காட்டும்.">
 <!ENTITY home_closed_tabs_title2 "சமீபத்தில் மூடப்பட்ட கீற்றுகள்">
 <!ENTITY home_last_tabs_empty "நீங்கள் அன்மையில் பயன்படுத்திய கீற்று இங்கு காணப்படும்.">
