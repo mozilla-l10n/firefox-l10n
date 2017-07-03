@@ -863,9 +863,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
-<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tøtsj">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tøtsj">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Bruk tøtsj for nettbrettsmodus">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera som vert delt:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
