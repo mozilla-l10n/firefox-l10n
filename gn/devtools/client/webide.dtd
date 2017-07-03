@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "Mba'erechaha japyhy">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "Marandu aravo noñemongu'e rehegua">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "Rechaharã">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "Mba'e'oka jerohoryvéva">
@@ -171,7 +171,7 @@
 <!-- LOCALIZATION NOTE (wifi_auth_token_request): Instructions requesting the
      user to transfer authentication info by transferring a token. -->
 <!ENTITY wifi_auth_token_request "Ambue mba'e'oka ojerurérõ peteĩ token omoha'ãngarãngue QR ayvu, emonguatiajey hepykue ambue mba'e'oka guy rupi:">
-
+<!ENTITY wifi_auth_qr_size_note "QR ayvu ojehecháramo michĩha jeike oñemboheko katu hag̃ua, eñeha'ã embotuicha pe ovetã.">
 <!-- Logs panel -->
 
 <!ENTITY logs_title "Mbohapeha jehaipyeta oñembohyrupyréva">
@@ -180,7 +180,7 @@
 <!ENTITY simulator_title "Ta'ãngahára jeporavorã">
 <!ENTITY simulator_remove "Ta'ãngahára mboguete">
 <!ENTITY simulator_reset "Embojevy heko ypykuépe">
-
+<!ENTITY simulator_name "Téra">
 <!ENTITY simulator_software "Software">
 <!ENTITY simulator_version "Peteïchagua">
 <!ENTITY simulator_profile "Mba'ete">
