@@ -28,7 +28,7 @@
 <!ENTITY  doNotTrack.description        "நீங்கள் தடமறியப்பட விரும்பவில்லையென்று வலைத்தளங்களுக்கு “தடமறியாதே” சைகையை அனுப்பு">
 <!ENTITY  doNotTrack.learnMore.label    "மேலும் அறிய">
 <!ENTITY  doNotTrack.default.label      "தடமறியல் பாதுகாப்பைப் பயன்படுத்தும்போது மட்டுமே">
-
+<!ENTITY  doNotTrack.always.label       "எப்போதும்">
 
 <!ENTITY  history.label                 "வரலாறு">
 <!ENTITY  permissions.label             "அனுமதிகள்">
@@ -52,7 +52,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "மூன்றாம் தரப்பு நினைவிகளை அனுமதிக்கவும்:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-
+<!ENTITY  acceptThirdParty.always.label   "எப்போதும்">
 <!ENTITY  acceptThirdParty.never.label    "ஒரு போதும் இல்லை">
 <!ENTITY  acceptThirdParty.visited.label  "பார்வையிட்டதிலிருந்து">
 
