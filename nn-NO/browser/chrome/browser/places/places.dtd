@@ -36,7 +36,7 @@
 
 <!ENTITY cmd.backup.label               "Sikkerheitskopier…">
 <!ENTITY cmd.backup.accesskey           "S">
-<!ENTITY cmd.restore2.label             "Gjenopprett">
+<!ENTITY cmd.restore2.label             "Bygg oppatt">
 <!ENTITY cmd.restore2.accesskey         "G">
 <!ENTITY cmd.restoreFromFile.label      "Vel fil…">
 <!ENTITY cmd.restoreFromFile.accesskey  "V">

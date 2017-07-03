@@ -20,7 +20,7 @@
 <!ENTITY engineNameColumn.label                "Søkemotor">
 <!ENTITY engineKeywordColumn.label             "Nykelord">
 
-<!ENTITY restoreDefaultSearchEngines.label     "Gjenopprett standard søkemotorar">
+<!ENTITY restoreDefaultSearchEngines.label     "Bygg oppatt standard søkjemotorar">
 <!ENTITY restoreDefaultSearchEngines.accesskey "G">
 
 <!ENTITY removeEngine.label                    "Fjern">
