@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "й">
 <!ENTITY mediaPlaybackRate050x2.label "Баяу (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "Б">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Қалыпты">
+<!ENTITY mediaPlaybackRate100x2.accesskey "л">
 <!ENTITY mediaPlaybackRate125x2.label "Жылдам (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "ы">
 <!ENTITY mediaPlaybackRate150x2.label "Жылдамдау (1.5×)">
@@ -857,17 +857,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Көбірек темаларды алу">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
 <!ENTITY customizeMode.emptyOverflowList.description "Нәрселерді қолжетерлік, бірақ саймандар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.uidensity "Тығыздығы">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Қалыпты">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Қалыпты">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "л">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Ықшам">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ықшам">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "Ы">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Тию">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Тию">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "Т">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Планшет режимі үшін тиюді қолдану">
 
 <!ENTITY getUserMedia.selectCamera.label "Бөлісу үшін камера:">
 <!ENTITY getUserMedia.selectCamera.accesskey "м">
