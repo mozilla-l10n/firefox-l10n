@@ -25,7 +25,9 @@
 <!ENTITY changeBlockList.label          "Blokkearlist wizigje">
 <!ENTITY changeBlockList.accesskey      "k">
 
+<!ENTITY  doNotTrack.description        "Websites in ‘Net folgje’-sinjaal stjoere om litte te witten dat jo net folge wurde wolle">
 <!ENTITY  doNotTrack.learnMore.label    "Mear ynfo">
+<!ENTITY  doNotTrack.default.label      "Allinnich by gebrûk fan Beskerming tsjin folgjen">
 <!ENTITY  doNotTrack.always.label       "Altyd">
 
 <!ENTITY  history.label                 "Skiednis">
