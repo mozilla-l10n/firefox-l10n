@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "邮件列表属性">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "显示地址簿上下文菜单">
 <!ENTITY addressbookPicker.label            "通讯录：">
 <!ENTITY addressbookPicker.accesskey        "k">
 <!ENTITY searchContacts.label               "搜索联系人：">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "E">
 <!ENTITY editMailingListContext.label       "编辑列表">
 <!ENTITY editMailingListContext.accesskey   "E">
+
+<!ENTITY newContactAbContext.label          "新建联系人">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "新建列表">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "添加至收件人：">
 <!ENTITY toButton.accesskey                 "A">
