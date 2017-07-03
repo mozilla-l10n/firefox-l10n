@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "l">
 <!ENTITY mediaPlaybackRate050x2.label "Hægt (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "H">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Venjulegt">
+<!ENTITY mediaPlaybackRate100x2.accesskey "n">
 <!ENTITY mediaPlaybackRate125x2.label "Hratt(1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "r">
 <!ENTITY mediaPlaybackRate150x2.label "Hraðara (1.5×)">
@@ -858,16 +858,16 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Venjulegt">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Venjulegt">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "n">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Þjappað">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Þjappað">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "Þ">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Snertiskjár">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Snertiskjár">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Nota snertiskjá fyrir spjaldtölvu">
 
 <!ENTITY getUserMedia.selectCamera.label "Myndavél til að deila:">
 <!ENTITY getUserMedia.selectCamera.accesskey "y">
@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Hljóð frá flipa verður deilt.">
 <!ENTITY getUserMedia.allWindowsShared.message "Öllum sýnilegum gluggum á skjánum verður deilt.">
 
-<!ENTITY trackingProtection.title "Vörn gegn því að fylgst sé með þér">
+<!ENTITY trackingProtection.title "Vörn gegn gagnasöfnun">
 <!ENTITY trackingProtection.detectedBlocked3 "&brandShortName; hefur lokað á suma hluta af þessari síðu sem gætu verið að fylgjast með vafra.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Þessi síða inniheldur hluti sem gætu fylgst með þér. Þú hefur tekið af vörnina að fylgst sé með þér.">
 <!ENTITY trackingProtection.notDetected3 "Engir hlutir sem fylgjast með þér fundust á þessari síðu.">
@@ -893,7 +893,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingProtection.block2.label "Virkja vernd">
 <!ENTITY trackingProtection.block2.accesskey "e">
 
-<!ENTITY trackingContentBlocked.message "Fylgjast með">
+<!ENTITY trackingContentBlocked.message "Gagnasöfnun">
 <!ENTITY trackingContentBlocked.moreinfo "Lokað var á suma hluta af síðunni sem fylgjast með notkun þinni á netinu.">
 <!ENTITY trackingContentBlocked.learnMore "Vita meira">
 <!ENTITY trackingContentBlocked.options "Valkostir">
@@ -901,7 +901,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "S">
 <!ENTITY trackingContentBlocked.block.label "Virkja vernd">
 <!ENTITY trackingContentBlocked.block.accesskey "e">
-<!ENTITY trackingContentBlocked.disabled.message "Vörn gegn því að fylgst sé með þér er óvirk">
+<!ENTITY trackingContentBlocked.disabled.message "Vörn gegn gagnasöfnun er óvirk">
 
 <!ENTITY pluginNotification.showAll.label "Sýna allt">
 <!ENTITY pluginNotification.showAll.accesskey "S">
