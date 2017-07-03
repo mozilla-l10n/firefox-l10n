@@ -859,6 +859,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Amagnu">
 <!ENTITY customizeMode.uidensity.menuCompact.label "Ussid">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ussid">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Amennal">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Amennal">
 
 <!ENTITY getUserMedia.selectCamera.label "Takamiṛat i beṭṭu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "T">
