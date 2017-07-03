@@ -24,9 +24,9 @@
 <!ENTITY changeBlockList.label          "Athraigh an Liosta Coiscthe">
 <!ENTITY changeBlockList.accesskey      "A">
 
+<!ENTITY  doNotTrack.learnMore.label    "Tuilleadh eolais">
 
-
-
+<!ENTITY  doNotTrack.always.label       "I gCónaí">
 
 <!ENTITY  history.label                 "Stair">
 <!ENTITY  permissions.label             "Ceadanna">
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Glac le fianáin tríú páirtí:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "c">
-
+<!ENTITY  acceptThirdParty.always.label   "I gCónaí">
 <!ENTITY  acceptThirdParty.never.label    "Riamh">
 <!ENTITY  acceptThirdParty.visited.label  "Ó shuímh fheicthe">
 
