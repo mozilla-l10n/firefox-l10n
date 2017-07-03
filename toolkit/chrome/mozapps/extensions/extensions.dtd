@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Bu yeniləmənin çıxış qeydlərini göstər">
 <!ENTITY cmd.hideReleaseNotes.label           "Çıxış qeydlərini gizlə">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Bu yeniləmənin çıxış qeydlərini gizlə">
+<!ENTITY cmd.findReplacement.label            "Yerinə başqasını tap">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -253,3 +254,9 @@
 
 <!ENTITY pluginDeprecation.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
 <!ENTITY pluginDeprecation.learnMore "Ətraflı Öyrən.">
+
+<!ENTITY legacyWarning.description "Nəsə çatışmır? Bəzi qoşmalar artıq &brandShortName; tərəfindən dəstəklənmir.">
+<!ENTITY legacyWarning.showLegacy "Köhnəlmiş qoşmaları göstər">
+<!ENTITY legacyExtensions.title "Köhnəlmiş Qoşmalar">
+<!ENTITY legacyExtensions.description "Bu qoşmalar hazırki &brandShortName; standartlarına cavab vermirlər və bu səbəbdən söndürüldülər.">
+<!ENTITY legacyExtensions.learnMore "Əlavələrə olan dəyişikliklər haqqında öyrən">
