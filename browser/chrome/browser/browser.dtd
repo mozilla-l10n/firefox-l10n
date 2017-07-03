@@ -856,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "Hent fleire tema">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "e">
 <!ENTITY customizeMode.emptyOverflowList.description "Drag og slepp element her for å ha dei innan rekkjevidde, men utanfor verktøylinja…">
-<!ENTITY customizeMode.uidensity "Tettheit">
+<!ENTITY customizeMode.uidensity "Tettleik">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
