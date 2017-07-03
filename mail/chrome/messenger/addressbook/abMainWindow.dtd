@@ -60,7 +60,7 @@
 <!ENTITY pasteCmd.key                                   "V">
 <!ENTITY pasteCmd.accesskey                             "в">
 <!ENTITY deleteCmd.label                                "Изтриване">
-<!ENTITY deleteCmd.accesskey                            "з">
+<!ENTITY deleteCmd.accesskey                            "р">
 <!ENTITY deleteAbCmd.label                              "Премахване на адресник">
 <!ENTITY deleteContactCmd.label                         "Премахване на контакт">
 <!ENTITY deleteContactsCmd.label                        "Изтриване на визитки">
