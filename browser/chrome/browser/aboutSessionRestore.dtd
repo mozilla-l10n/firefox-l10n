@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "यशस्वी!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; चालायला तयार.">
 
+<!ENTITY welcomeback2.restoreAll.label  "सर्व पटल आणि टॅब पूर्वस्थितीत आणा">
 <!ENTITY welcomeback2.restoreSome.label "आपल्याला हवे असेल तेच पूर्वस्थितीत आणा">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
