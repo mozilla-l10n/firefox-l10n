@@ -859,7 +859,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.emptyOverflowList.description "Pśesuńśo zapiski sem, aby je w bliskosći, ale zwenka wašeje symboloweje rědki źaržał…">
 <!ENTITY customizeMode.uidensity "Gustosć">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normalny">
-<!ENTITY customizeMode.uidensity.menuNormal.tooltip "&amp;Normalny">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normalny">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 
 
