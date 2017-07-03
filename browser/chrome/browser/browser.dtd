@@ -593,7 +593,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyLinkCmd.accesskey        "a">
 <!ENTITY copyImageCmd.label           "ચિત્ર સ્થાનની નકલ કરો">
 <!ENTITY copyImageCmd.accesskey       "o">
-<!ENTITY copyImageContentsCmd.label   "ચિત્રની  નકલ કરો">
+<!ENTITY copyImageContentsCmd.label   "ચિત્રની નકલ કરો">
 <!ENTITY copyImageContentsCmd.accesskey  "y"> 
 <!ENTITY copyVideoURLCmd.label        "વીડિયો સ્થાનની નકલ કરો">
 <!ENTITY copyVideoURLCmd.accesskey    "o">
@@ -913,14 +913,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
+<!ENTITY panicButton.view.mainActionDesc          "પ્રક્રિયા કરશે:">
+<!ENTITY panicButton.view.deleteCookies           "તાજેતરના કાઢી નાખો <html:strong>કૂકીઝ</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "તાજેતરના કાઢી નાખો <html:strong>ઇતિહાસ</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "બધા બંધ કરો <html:strong>ટૅબ્સ</html:strong> અને <html:strong>વિન્ડોઝ</html:strong>">
+<!ENTITY panicButton.view.openNewWindow           "નવી સ્વચ્છ વિન્ડો ખોલો">
 
+<!ENTITY panicButton.view.undoWarning             "આ ક્રિયા પૂર્વવત્ કરી શકાતી નથી.">
 <!ENTITY panicButton.view.forgetButton            "ભૂલી જાઓ!">
 
+<!ENTITY panicButton.thankyou.msg1                "તમારા તાજેતરના ઇતિહાસ સાફ કરવામાં આવે છે.">
+<!ENTITY panicButton.thankyou.msg2                "સલામત બ્રાઉઝિંગ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "આભાર!">
 
+<!ENTITY emeLearnMoreContextMenu.label            "DRM વિશે વધુ જાણો…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "તમારું &brandShorterName; અપડેટ કરો; ઝડપ અને ગોપનીયતા માં તાજેતરની માટે.">
 <!ENTITY updateAvailable.whatsnew.label "જુઓ નવુ શું છે.">
+<!ENTITY updateAvailable.header.message "નવું &brandShorterName; અપડેટ ઉપલબ્ધ છે.">
 <!ENTITY updateAvailable.acceptButton.label "અપડેટ ડાઉનલોડ કરો">
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "હમણાં નહિં">
