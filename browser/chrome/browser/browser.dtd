@@ -340,7 +340,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY historyUndoWindowMenu.label "Ferestre închise recent">
 <!ENTITY historyRestoreLastSession.label "Restaurează sesiunea anterioară">
 
-<!ENTITY showAllHistoryCmd2.label "Arată tot istoricul">
+<!ENTITY showAllHistoryCmd2.label "Afișează tot istoricul">
 <!ENTITY showAllHistoryCmd.commandkey "H">
 
 <!ENTITY appMenuCustomize.label "Personalizare">
@@ -348,7 +348,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuCustomizeExit.label "Ieși din personalizare">
 <!ENTITY appMenuCustomizeExit.tooltip "Finalizează personalizarea">
 <!ENTITY appMenuHistory.label "Istoric">
-<!ENTITY appMenuHistory.showAll.label "Arată tot istoricul">
+<!ENTITY appMenuHistory.showAll.label "Afișează tot istoricul">
 <!ENTITY appMenuHistory.clearRecent.label "Șterge istoricul recent…">
 <!ENTITY appMenuHistory.restoreSession.label "Restaurează sesiunea anterioară">
 <!ENTITY appMenuHistory.viewSidebar.label "Vezi bara laterală cu istoricul">
