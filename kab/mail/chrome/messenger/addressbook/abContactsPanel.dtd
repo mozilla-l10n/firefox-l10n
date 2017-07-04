@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Timeẓliyin n tebdart n telɣut">
 <!ENTITY mailingListPropertiesMenu.accesskey "ɣ">
 
+<!ENTITY abContextMenuButton.tooltip        "Sken-d umuγ n umnaḍ n imedlis n tansiwin">
 <!ENTITY addressbookPicker.label            "Imedlis n tensa:">
 <!ENTITY addressbookPicker.accesskey        "m">
 <!ENTITY searchContacts.label               "Nadi inermisen:">
