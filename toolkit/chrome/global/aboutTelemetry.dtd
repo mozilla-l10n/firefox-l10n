@@ -4,41 +4,25 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Данни за Телеметрията">
 
-<!ENTITY aboutTelemetry.changeDataChoices "Промяна">
+<!ENTITY aboutTelemetry.pingDataSource "Източник на данните в пакета:">
 
-<!ENTITY aboutTelemetry.uploadEnabled "Качването на данните от FHR е <span>включено</span>.">
+<!ENTITY aboutTelemetry.showCurrentPingData "Текущи данни">
 
-<!ENTITY aboutTelemetry.uploadDisabled "Качването на данните от FHR е <span>изключено</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "Разширеното записване на телеметрия е <span>включено</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "Разширеното записване на телеметрия е <span>изключено</span>.">
-
-<!ENTITY aboutTelemetry.pingDataSource "Пинг на източника на данни:">
-
-<!ENTITY aboutTelemetry.showCurrentPingData "Текущи данни на пинг">
-
-<!ENTITY aboutTelemetry.showArchivedPingData "Архивирани данни на пинг">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Показване на данни от пинг:">
-
-<!ENTITY aboutTelemetry.structured "Структурирано">
+<!ENTITY aboutTelemetry.showArchivedPingData "Архивни данни">
 
 <!ENTITY aboutTelemetry.raw "Необработен JSON">
 
 <!ENTITY aboutTelemetry.showSubsessionData "Показване на подробни данни">
 
-<!ENTITY aboutTelemetry.choosePing "Избиране на пинг:">
+<!ENTITY aboutTelemetry.choosePing "Избиране на пакет:">
 
-<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; По-нов пинг">
+<!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; По-нов пакет">
 
-<!ENTITY aboutTelemetry.showOlderPing "По-стар пинг &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "Необработени данни от пинг…">
+<!ENTITY aboutTelemetry.showOlderPing "По-стар пакет &gt;&gt;">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Седмица">
 
-<!ENTITY aboutTelemetry.archivePingHeader "Пинг">
+<!ENTITY aboutTelemetry.archivePingHeader "Пакет">
 
 <!ENTITY aboutTelemetry.generalDataSection "Основни данни">
 
@@ -73,12 +57,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Системна информация">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "Хистограми събрани от добавки">
-
-<!ENTITY aboutTelemetry.toggle "Щракане превключва раздела">
-
-<!ENTITY aboutTelemetry.emptySection "(няма събрани данни)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "ВАЖНО: Записването на бавните SQL заявки е разрешено. Пълните заявки може и да се показват, но те НЕ СЕ изпращат по телеметрията.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "Вземане имената на функциите от стековете">
@@ -88,5 +66,3 @@
 <!ENTITY aboutTelemetry.filterText "Филтър (низ или /регулярен израз/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Полезен товар">
-
-<!ENTITY aboutTelemetry.rawPayload " Полезен товар в суров вид">
