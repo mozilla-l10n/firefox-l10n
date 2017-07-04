@@ -24,12 +24,12 @@
 <!ENTITY changeBlockList.label          "Waylu Doggol Daaƴol">
 <!ENTITY changeBlockList.accesskey      "W">
 
+<!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
 
-
-
+<!ENTITY  doNotTrack.always.label       "Sahaa kala">
 
 <!ENTITY  history.label                 "Aslol">
-
+<!ENTITY  permissions.label             "Jamirooje">
 
 <!ENTITY  locationBar.label             "Palal Nokkuure">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Jaɓ kukiiji jiggaaɗi:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-
+<!ENTITY  acceptThirdParty.always.label   "Sahaa kala">
 <!ENTITY  acceptThirdParty.never.label    "Hay sahaa">
 <!ENTITY  acceptThirdParty.visited.label  "Iwɗi e jillaaɗe">
 
