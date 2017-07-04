@@ -3,6 +3,10 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Om &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
@@ -26,7 +30,7 @@
 <!ENTITY community.exp.middle       " er et ">
 <!-- LOCALIZATION NOTE (community.exp.creditslink): This is a link title that links to about:credits. -->
 <!ENTITY community.exp.creditsLink  "globalt samfunn">
-<!ENTITY community.exp.end          " som jobber sammen for å holde nettet åpen, allmenn og tilgjengelig for alle.">
+<!ENTITY community.exp.end          " som jobber sammen for å holde nettet åpent, allment og tilgjengelig for alle.">
 
 <!ENTITY community.start2           "&brandShortName; er utviklet av ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
@@ -34,7 +38,7 @@
 <!ENTITY community.middle2          ", et ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "globalt samfunn">
-<!ENTITY community.end3             " som arbeider sammen for å holde nettet åpen, allmenn, og tilgjengelig for alle.">
+<!ENTITY community.end3             " som arbeider sammen for å holde nettet åpent, allment og tilgjengelig for alle.">
 
 <!ENTITY helpus.start               "Vil du hjelpe til? ">
 <!-- LOCALIZATION NOTE (helpus.donateLink): This is a link title that links to https://sendto.mozilla.org/page/contribute/Give-Now?source=mozillaorg_default_footer&ref=firefox_about&utm_campaign=firefox_about&utm_source=firefox&utm_medium=referral&utm_content=20140929_FireFoxAbout. -->
@@ -91,7 +95,7 @@
 <!ENTITY update.unsupported.linkText "Les mer">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).
