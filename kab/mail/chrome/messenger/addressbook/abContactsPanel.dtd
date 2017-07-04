@@ -35,6 +35,11 @@
 <!ENTITY editMailingListContext.label       "Ẓreg tabdart">
 <!ENTITY editMailingListContext.accesskey   "Ẓ">
 
+<!ENTITY newContactAbContext.label          "Anermis amaynut">
+<!ENTITY newContactAbContext.accesskey      "G">
+<!ENTITY newListAbContext.label             "Tabdart tamaynut">
+<!ENTITY newListAbContext.accesskey         "T">
+
 <!ENTITY toButton.label                     "Rnu ɣeṛ I:">
 <!ENTITY toButton.accesskey                 "u">
 <!ENTITY ccButton.label                     "Rnu ɣeṛ Anɣ.Uff:">
