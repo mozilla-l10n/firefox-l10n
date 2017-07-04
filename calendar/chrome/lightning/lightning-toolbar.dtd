@@ -8,7 +8,7 @@
 <!ENTITY lightning.toolbar.task.name.accesskey "T">
 
 <!ENTITY lightning.toolbar.sync.label "Sioncronaigh">
-<!ENTITY lightning.toolbar.sync.tooltip "Athluchtaigh féilirí agus sioncronaigh athruithe">
+<!ENTITY lightning.toolbar.sync.tooltip "Athlódáil féilirí agus sioncronaigh athruithe">
 <!ENTITY lightning.toolbar.delete.label "Scrios">
 <!ENTITY lightning.toolbar.delete.tooltip "Scrios na himeachtaí nó tascanna roghnaithe">
 <!ENTITY lightning.toolbar.edit.label "Eagar">
