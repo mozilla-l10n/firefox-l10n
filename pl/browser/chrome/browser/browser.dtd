@@ -768,3 +768,8 @@
 <!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
 
 <!ENTITY pageActionButton.tooltip "Interakcje">
+
+<!ENTITY sendToDevice.label "Wyślij na urządzenie…">
+<!ENTITY sendToDevice.viewTitle "Wysyłanie na urządzenie">
+<!ENTITY sendToDevice.fxaRequired.label "Wymagane">
+<!ENTITY sendToDevice.noDevices.label "Brak dostępnych urządzeń">
