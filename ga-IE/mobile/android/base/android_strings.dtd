@@ -102,7 +102,7 @@
 <!ENTITY history_older_section3 "Níos sine ná 6 mhí">
 
 <!ENTITY search "Cuardaigh">
-<!ENTITY reload "Athluchtaigh">
+<!ENTITY reload "Athlódáil">
 <!ENTITY forward "Ar Aghaidh">
 <!ENTITY menu "Roghchlár">
 <!ENTITY back "Siar">
@@ -398,7 +398,7 @@
 <!ENTITY pref_private_data_cache "Taisce">
 <!ENTITY pref_private_data_offlineApps "Sonraí suíomhanna as líne">
 <!ENTITY pref_private_data_siteSettings2 "Socruithe an tsuímh">
-<!ENTITY pref_private_data_downloadFiles2 "Íosluchtuithe">
+<!ENTITY pref_private_data_downloadFiles2 "Íoslódálacha">
 <!ENTITY pref_private_data_syncedTabs "Cluaisíní sioncronaithe">
 
 <!ENTITY pref_default_browser "Déan brabhsálaí réamhshocraithe de">
@@ -460,7 +460,7 @@
 
 <!ENTITY addons "Breiseáin">
 <!ENTITY logins "Focail Fhaire">
-<!ENTITY downloads "Íosluchtuithe">
+<!ENTITY downloads "Íoslódálacha">
 <!ENTITY char_encoding "Ionchódú Carachtar">
 
 <!ENTITY share "Roinn">
@@ -695,11 +695,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!-- Updater notifications --> 
 
 <!ENTITY updater_start_title2 "Nuashonrú ar fáil: &brandShortName;">
-<!ENTITY updater_start_select2 "Tapáil chun íosluchtú">
+<!ENTITY updater_start_select2 "Tapáil chun íoslódáil">
 
-<!ENTITY updater_downloading_title2 "&brandShortName; á íosluchtú">
-<!ENTITY updater_downloading_title_failed2 "Theip ar íosluchtú">
-<!ENTITY updater_downloading_select2 "Tapáil chun an nuashonrú a chur i bhfeidhm tar éis íosluchtaithe">
+<!ENTITY updater_downloading_title2 "&brandShortName; á íoslódáil">
+<!ENTITY updater_downloading_title_failed2 "Theip ar íoslódáil">
+<!ENTITY updater_downloading_select2 "Tapáil chun an nuashonrú a chur i bhfeidhm tar éis duit é a íoslódáil">
 <!ENTITY updater_downloading_retry2 "Tapáil chun iarracht eile a dhéanamh">
 
 <!ENTITY updater_apply_title3 "Nuashonrú íoslódáilte: &brandShortName;">
@@ -708,7 +708,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
 
-<!ENTITY updater_permission_text "Le comhaid agus nuashonruithe a íosluchtú, tabhair cead rochtana ar an stóras do &brandShortName;">
+<!ENTITY updater_permission_text "Le comhaid agus nuashonruithe a íoslódáil, tabhair cead rochtana ar an stóras do &brandShortName;.">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "Ceadaigh">
 <!-- Guest mode -->    
@@ -804,7 +804,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
      the Android version of this device. the formatS1 is replaced by the CPU ABI (e.g., ARMv7); the formatS2 is
      replaced by the Android OS version (e.g., 14)-->
 
-<!ENTITY unsupported_sdk_version "Ár leithscéal! Ní fheidhmíonn an leagan seo de &brandShortName; ar an ngléas seo (&formatS1;, &formatS2;). Ní mór duit an leagan ceart a íosluchtú.">
+<!ENTITY unsupported_sdk_version "Ár leithscéal! Ní fheidhmíonn an leagan seo de &brandShortName; ar an ngléas seo (&formatS1;, &formatS2;). Ní mór duit an leagan ceart a íoslódáil.">
 
 <!ENTITY eol_notification_title2 "Ní nuashonróidh &brandShortName; a thuilleadh">
 <!ENTITY eol_notification_summary "Tapáil anseo chun tuilleadh eolais a fháil">
