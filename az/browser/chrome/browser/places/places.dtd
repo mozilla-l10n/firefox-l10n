@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Əlavə etmə tarixi">
 <!ENTITY col.lastmodified.label  "Son dəyişiklik">
 
-<!ENTITY search.label                              "Axtar:">
-<!ENTITY search.accesskey                          "A">
+<!ENTITY search.placeholder  "Axtar">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "a">
 <!ENTITY detailsPane.selectAnItemText.description "Xüsusiyyətlərini görmək və dəyişmək üçün bir obyekt seçin">
 
-<!ENTITY find.label               "Axtar:">
-<!ENTITY find.accesskey           "A">
 <!ENTITY view.label               "Görünüş">
 <!ENTITY view.accesskey           "G">
 <!ENTITY byDate.label             "Tarix">

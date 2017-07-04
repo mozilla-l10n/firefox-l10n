@@ -855,6 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha çox Mövzu əldə et">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "İkonları buraya daşıyıb ataraq həm yaxında saxlayın, həm də alət sətrini doldurmayın…">
 <!ENTITY customizeMode.uidensity "Qalınlıq">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
