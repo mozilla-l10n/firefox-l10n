@@ -23,10 +23,10 @@
 <!ENTITY radioNotSend.accesskey "N">
 <!ENTITY radioAskUnsent.label "Fiafraigh díom">
 <!ENTITY radioAskUnsent.accesskey "d">
-<!ENTITY textGoingOffline "An bhfuil fonn ort teachtaireachtaí a íosluchtú le haghaidh úsáide as líne agus tú ag dul as líne?">
-<!ENTITY radioAutoDownload.label "Íosluchtaigh">
+<!ENTITY textGoingOffline "An bhfuil fonn ort teachtaireachtaí a íoslódáil le haghaidh úsáide as líne agus tú ag dul as líne?">
+<!ENTITY radioAutoDownload.label "Íoslódáil">
 <!ENTITY radioAutoDownload.accesskey "l">
-<!ENTITY radioNotDownload.label "Ná hÍosluchtaigh">
+<!ENTITY radioNotDownload.label "Ná hÍoslódáil">
 <!ENTITY radioNotDownload.accesskey "N">
 <!ENTITY radioAskDownload.label "Fiafraigh díom">
 <!ENTITY radioAskDownload.accesskey "F">

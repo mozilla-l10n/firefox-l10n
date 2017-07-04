@@ -39,12 +39,12 @@
 
 <!ENTITY offlineFolder.check.label               "Roghnaigh an fillteán seo le haghaidh úsáide as líne">
 <!ENTITY offlineFolder.check.accesskey           "s">
-<!ENTITY offlineFolder.button.label              "Íosluchtaigh Anois">
+<!ENTITY offlineFolder.button.label              "Íoslódáil Anois">
 <!ENTITY offlineFolder.button.accesskey          "s">
 
 <!ENTITY selectofflineNewsgroup.check.label      "Roghnaigh an grúpa nuachta seo le haghaidh úsáide as líne">
 <!ENTITY selectofflineNewsgroup.check.accesskey  "o">
-<!ENTITY offlineNewsgroup.button.label           "Íosluchtaigh Anois">
+<!ENTITY offlineNewsgroup.button.label           "Íoslódáil Anois">
 <!ENTITY offlineNewsgroup.button.accesskey       "s">
 
 <!ENTITY folderProps.name.label                  "Ainm:">

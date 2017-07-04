@@ -27,7 +27,7 @@
 <!ENTITY biffDays.accesskey          "l">
 <!ENTITY recommendedUnits.label      "Molann an foilsitheoir:">
 
-<!ENTITY quickMode.label             "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íosluchtú">
+<!ENTITY quickMode.label             "Taispeáin achoimre an ailt in áit an leathanach Gréasáin a íoslódáil">
 <!ENTITY quickMode.accesskey         "h">
 
 <!ENTITY autotagEnable.label         "Cruthaigh clibeanna go huathoibríoch as ainmneacha &lt;category&gt; san fhotha">

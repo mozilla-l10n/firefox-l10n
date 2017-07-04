@@ -15,7 +15,7 @@
 <!ENTITY  manualTypeRadio.accesskey     "m">
 <!ENTITY  autoTypeRadio.label           "URL Uathchumraíocht Seachfhreastalaí:">
 <!ENTITY  autoTypeRadio.accesskey       "U">
-<!ENTITY  reload.label                  "Athluchtaigh">
+<!ENTITY  reload.label                  "Athlódáil">
 <!ENTITY  reload.accesskey              "l">
 <!ENTITY  http.label                    "Seachfhreastalaí HTTP:">
 <!ENTITY  http.accesskey                "H">

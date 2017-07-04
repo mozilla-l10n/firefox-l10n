@@ -42,7 +42,7 @@
 <!ENTITY daysEnd.label "lá anuas">
 <!ENTITY deleteOnServer2.label "Go dtí go scriosfaidh mé iad">
 <!ENTITY deleteOnServer2.accesskey "s">
-<!ENTITY downloadOnBiff.label "Íosluchtaigh teachtaireachtaí nua go huathoibríoch">
+<!ENTITY downloadOnBiff.label "Íoslódáil teachtaireachtaí nua go huathoibríoch">
 <!ENTITY downloadOnBiff.accesskey "n">
 <!ENTITY username.label "D'ainm úsáideora">
 <!ENTITY deleteMessagePrefix.label "Nuair a scriosaim teachtaireacht:">
@@ -63,7 +63,7 @@
     maxMessengerStart.label will be followed by maxMessagesEnd.label with the number
    of messages between them
 -->
-<!ENTITY maxMessagesStart.label "Fiafraigh díom roimh íosluchtú níos mó ná">
+<!ENTITY maxMessagesStart.label "Fiafraigh díom sula n-íoslódálfar níos mó ná">
 <!ENTITY maxMessagesStart.accesskey "m">
 <!-- LOCALIZATION NOTE (maxMessagesEnd.label) : see note for maxMessagesStart.label -->
 <!ENTITY maxMessagesEnd.label "teachtaireacht is déanaí">

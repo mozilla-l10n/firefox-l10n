@@ -28,7 +28,7 @@
 <!ENTITY phishingDetector1.intro  "Is féidir le &brandShortName; camscéimeanna ríomhphoist a lorg i dteachtaireachtaí trí cleasanna coitianta a úsáidtear chun tú a mhealladh a chuardach iontu.">
 <!ENTITY enablePhishingDetector1.label    "Inis dom má mheastar gur camscéim í an teachtaireacht atá á léamh agam">
 <!ENTITY enablePhishingDetector1.accesskey  "t">
-<!ENTITY useDownloadedList.label "Úsáid liosta íosluchtaithe de camscéimeanna amhrasta">
+<!ENTITY useDownloadedList.label "Úsáid liosta íoslódáilte de chamscéimeanna amhrasta">
 <!ENTITY useDownloadedList.accesskey "s">
 <!-- Passwords -->
 
