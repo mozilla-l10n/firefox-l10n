@@ -205,7 +205,7 @@
 <!ENTITY pref_content_notifications_summary2 "发现已支持网站的新内容">
 <!ENTITY pref_developer_remotedebugging_usb "通过 USB 远程调试">
 <!ENTITY pref_developer_remotedebugging_wifi "通过 Wi-Fi 远程调试">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Wi-Fi 调试需要您的设备已安装一个二维码扫描应用。">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "您的设备需要安装二维码扫描应用才能使用 Wi-Fi 调试。">
 <!ENTITY pref_remember_signons2 "记住登录信息">
 <!ENTITY pref_manage_logins "管理登录信息">
 
