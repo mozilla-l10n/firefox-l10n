@@ -6,9 +6,9 @@
 
 <!ENTITY startupPage.label         "Khi &brandShortName; khởi động:">
 <!ENTITY startupPage.accesskey     "K">
-
+<!ENTITY startupUserHomePage.label "Hiển thị trang chủ của bạn">
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
-
+<!ENTITY startupPrevSession.label  "Hiển thị cửa sổ và thẻ lần trước của bạn">
 
 <!ENTITY homepage.label            "Trang chủ:">
 <!ENTITY homepage.accesskey        "c">
@@ -28,10 +28,10 @@
 <!ENTITY chooseFolderWin.accesskey    "y">
 <!ENTITY chooseFolderMac.label        "Chọn…">
 <!ENTITY chooseFolderMac.accesskey    "n">
+<!ENTITY alwaysAskWhere.label         "Luôn hỏi bạn nơi để lưu các tập tin">
+<!ENTITY alwaysAskWhere.accesskey     "A">
 
-
-
-
+<!ENTITY alwaysCheckDefault2.accesskey    "y">
 <!ENTITY setAsMyDefaultBrowser2.label     "Đặt làm mặc định">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "m">
 <!ENTITY isDefault.label                  "&brandShortName; đang là trình duyệt mặc định">
@@ -39,7 +39,5 @@
 
 <!ENTITY separateProfileMode.label        "Cho phép &brandShortName; và Firefox cùng chạy song song">
 <!ENTITY useFirefoxSync.label             "Mẹo nhỏ: Việc này sử dụng các profile độc lập nhau.  Bạn có thể dùng Sync để đồng bộ giữa chúng.">
-
-
 
 <!ENTITY e10sEnabled.label                "Cho phép &brandShortName; dùng đa tiến trình">

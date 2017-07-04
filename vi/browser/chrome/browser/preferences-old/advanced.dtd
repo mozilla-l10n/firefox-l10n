@@ -109,6 +109,7 @@ available. -->
 <!ENTITY certPersonal.label              "Yêu cầu">
 <!ENTITY selectCerts.auto                "Tự động chọn một cái">
 <!ENTITY selectCerts.auto.accesskey      "S">
+<!ENTITY selectCerts.ask                 "Luôn hỏi bạn">
 <!ENTITY selectCerts.ask.accesskey       "A">
 <!ENTITY enableOCSP.accesskey            "Q">
 <!ENTITY viewCerts.label                 "Xem chứng chỉ">
@@ -117,5 +118,10 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "Hiệu suất">
+<!ENTITY useRecommendedPerformanceSettings.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "Tìm hiểu thêm">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "Dùng gia tốc hệ thống hệ thống khi có thể">
 <!ENTITY allowHWAccel.accesskey          "h">
