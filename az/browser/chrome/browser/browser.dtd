@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobil Əlfəcinlər">
 <!ENTITY viewBookmarksSidebar2.label        "Əlfəcin yan panelini göstər">
 <!ENTITY viewBookmarksToolbar.label         "Əlfəcin alət sətrini gör">
+<!ENTITY searchBookmarks.label              "Əlfəcinlərdə Axtar">
 
 <!ENTITY containersMenu.label "Konteynerlər">
 
@@ -470,6 +471,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY contentSearchInput.label     "Axtarış sorğusu">
 <!ENTITY contentSearchSubmit.tooltip  "Axtarışı göndər">
 
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Axtar">
+<!ENTITY searchIcon.tooltip           "Axtar">
+
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -688,6 +694,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Çıx"> 
 <!ENTITY quitApplicationCmd.accesskey   "x">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; səyyahını tərk et">
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Qapat">  
 <!ENTITY closeCmd.key                   "W">  
@@ -848,6 +855,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Daha çox Mövzu əldə et">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.uidensity "Qalınlıq">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Yığcam">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Yığcam">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Toxunuş">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Toxunuş">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Planşet rejimi üçün toxunuşu işlədin">
 
 <!ENTITY getUserMedia.selectCamera.label "Paylaşılacaq kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
@@ -962,3 +980,4 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY sendToDevice.viewTitle "Cihaza göndər">
 <!ENTITY sendToDevice.fxaRequired.label "Tələb edilir">
 <!ENTITY sendToDevice.noDevices.label "Cihaz yoxdur">
+<!ENTITY sendToDevice.syncNotReady.label "Cihazlar Sinxronlaşdırılır…">
