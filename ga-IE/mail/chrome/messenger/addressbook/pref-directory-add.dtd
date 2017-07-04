@@ -30,7 +30,7 @@
 <!ENTITY return.label                      "Ná haisfhill níos mó ná">
 <!ENTITY return.accesskey                  "a">
 <!ENTITY results.label                     "toradh">
-<!ENTITY offlineText.label                 "Is féidir leat cóip logánta den chomhadlann seo a íosluchtú ionas go mbeidh sé ar fáil duit agus tú ag obair as líne.">
+<!ENTITY offlineText.label                 "Is féidir leat cóip logánta den chomhadlann seo a íoslódáil ionas go mbeidh sé ar fáil duit agus tú ag obair as líne.">
 <!ENTITY saslMechanism.label               "Modh logála isteach: ">
 <!ENTITY saslMechanism.accesskey           "M">
 <!ENTITY saslOff.label                     "Simplí">

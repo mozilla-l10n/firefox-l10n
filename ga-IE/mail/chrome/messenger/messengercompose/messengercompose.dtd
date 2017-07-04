@@ -292,7 +292,7 @@
 <!ENTITY attachCloud.accesskey "i">
 <!ENTITY convertCloud.label "Tiontaigh go…">
 <!ENTITY convertCloud.accesskey "T">
-<!ENTITY cancelUpload.label "Cealaigh an tUasluchtú">
+<!ENTITY cancelUpload.label "Cealaigh an Uaslódáil">
 <!ENTITY cancelUpload.accesskey "e">
 <!ENTITY convertRegularAttachment.label "Gnáthiatán">
 <!ENTITY convertRegularAttachment.accesskey "i">

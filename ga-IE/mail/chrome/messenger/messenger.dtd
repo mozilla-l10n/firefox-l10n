@@ -70,7 +70,7 @@
 <!ENTITY offlineMenu.accesskey "L">
 <!ENTITY offlineGoOfflineCmd.label "Oibrigh As Líne">
 <!ENTITY offlineGoOfflineCmd.accesskey "b">
-<!ENTITY synchronizeOfflineCmd.label "Íosluchtaigh/Sioncronaigh Anois…">
+<!ENTITY synchronizeOfflineCmd.label "Íoslódáil/Sioncronaigh Anois…">
 <!ENTITY synchronizeOfflineCmd.accesskey "S">
 <!ENTITY settingsOfflineCmd2.label "Socruithe As Líne">
 <!ENTITY settingsOfflineCmd2.accesskey "e">
@@ -921,7 +921,7 @@
 <!ENTITY copyEmailCmd.accesskey "e">
 <!ENTITY stopCmd.label "Stad">
 <!ENTITY stopCmd.accesskey "S">
-<!ENTITY reloadCmd.label "Athluchtaigh">
+<!ENTITY reloadCmd.label "Athlódáil">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY openInBrowser.label "Oscail i mBrabhsálaí">
 <!ENTITY openInBrowser.accesskey "O">

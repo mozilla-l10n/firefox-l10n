@@ -35,7 +35,7 @@
 <!ENTITY spellCheckInline1.accesskey          "E">
 <!ENTITY languagePopup.label                  "Teanga:">
 <!ENTITY languagePopup.accessKey              "T">
-<!ENTITY downloadDictionaries.label           "Íosluchtaigh Tuilleadh Foclóirí">
+<!ENTITY downloadDictionaries.label           "Íoslódáil Tuilleadh Foclóirí">
 
 <!ENTITY warnOnSendAccelKey.label             "Deimhnigh agus aicearra méarchláir á úsáid chun teachtaireacht a sheoladh">
 <!ENTITY warnOnSendAccelKey.accesskey         "c">
