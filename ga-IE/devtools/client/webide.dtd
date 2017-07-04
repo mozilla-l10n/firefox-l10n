@@ -80,7 +80,7 @@
 <!ENTITY runtimePanel_installsimulator "Suiteáil Ionsamhlóir">
 <!ENTITY runtimePanel_noadbhelper "Suiteáil Cúntóir ADB">
 <!ENTITY runtimePanel_nousbdevice "Nach bhfuil tú in ann do ghléas a fheiceáil?">
-<!ENTITY runtimePanel_refreshDevices_label "Athluchtaigh Gléasanna">
+<!ENTITY runtimePanel_refreshDevices_label "Athnuaigh na Gléasanna">
 <!-- Lense -->
 
 <!ENTITY details_valid_header "bailí">
@@ -95,7 +95,7 @@
 
 <!ENTITY newAppWindowTitle "Aip Nua">
 <!ENTITY newAppHeader "Roghnaigh teimpléad">
-<!ENTITY newAppLoadingTemplate "Teimpléid á luchtú…">
+<!ENTITY newAppLoadingTemplate "Teimpléid á lódáil…">
 <!ENTITY newAppProjectName "Ainm an Tionscadail:">
 <!-- Decks -->
 
@@ -124,7 +124,7 @@
 <!ENTITY runtimedetails_title "Faoin Chóras Ama Rite">
 <!ENTITY runtimedetails_adbIsRoot "Is é ADB an fréamh: ">
 <!ENTITY runtimedetails_summonADBRoot "fréamhghléas">
-<!ENTITY runtimedetails_ADBRootWarning "(luchtóir tosaithe díghlasáilte de dhíth)">
+<!ENTITY runtimedetails_ADBRootWarning "(lódálaí tosaithe díghlasáilte de dhíth)">
 <!ENTITY runtimedetails_unrestrictedPrivileges "Ceadanna DevTools gan srian: ">
 <!ENTITY runtimedetails_requestPrivileges "iarr ceadanna níos airde">
 <!ENTITY runtimedetails_privilegesWarning "(Atosófar an gléas. An forúsáideoir amháin.)">

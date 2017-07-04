@@ -135,7 +135,7 @@
 <!ENTITY resetContext2.label          "Athshocraigh Athróga">
 <!ENTITY resetContext2.accesskey      "t">
 
-<!ENTITY reloadAndRun.label           "Athluchtaigh agus Rith">
+<!ENTITY reloadAndRun.label           "Athlódáil agus Rith">
 <!ENTITY reloadAndRun.accesskey       "A">
 <!ENTITY reloadAndRun.key             "r">
 

@@ -19,9 +19,9 @@
 <!ENTITY navbarOverflow.label                "Tuilleadh uirlisí…">
 <!-- Tab context menu -->
 
-<!ENTITY  reloadTab.label                    "Athluchtaigh Cluaisín">
+<!ENTITY  reloadTab.label                    "Athlódáil an Cluaisín">
 <!ENTITY  reloadTab.accesskey                "A">
-<!ENTITY  reloadAllTabs.label                "Athluchtaigh Gach Cluaisín">
+<!ENTITY  reloadAllTabs.label                "Athlódáil Gach Cluaisín">
 <!ENTITY  reloadAllTabs.accesskey            "G">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
@@ -85,7 +85,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "Rudaí ar an Bharra Leabharmharc">
 
-<!ENTITY toolbarContextMenu.reloadAllTabs.label "Athluchtaigh Gach Cluaisín">
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "Athlódáil Gach Cluaisín">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "G">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Leabharmharcáil Gach Cluaisín…">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "C">
@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "Leathanach amháin ar aghaidh">
 <!ENTITY backForwardButtonMenu.tooltip "Deaschliceáil nó tarraing anuas chun an stair a thaispeáint">
 <!ENTITY backForwardButtonMenuMac.tooltip "Tarraing anuas chun an stair a thaispeáint">
-<!ENTITY reloadCmd.label              "Athluchtaigh">
+<!ENTITY reloadCmd.label              "Athlódáil">
 <!ENTITY stopCmd.label                "Stad">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "Téigh go dtí an seoladh atá sa Bharra Suímh">
@@ -267,7 +267,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY keywordfield.label           "Cuir lorgfhocal leis an gcuardach seo…">
 <!ENTITY keywordfield.accesskey       "l">
 
-<!ENTITY downloads.label              "Íosluchtuithe">
+<!ENTITY downloads.label              "Íoslódálacha">
 <!ENTITY downloads.accesskey          "l">
 <!ENTITY downloads.commandkey         "j">
 <!ENTITY downloadsUnix.commandkey     "y">
@@ -524,7 +524,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY showOnlyThisFrameCmd.label     "Ná Taispeáin ach an Fráma Seo">
 <!ENTITY showOnlyThisFrameCmd.accesskey "s">
 <!ENTITY reloadCmd.commandkey         "r">
-<!ENTITY reloadFrameCmd.label         "Athluchtaigh an Fráma">
+<!ENTITY reloadFrameCmd.label         "Athlódáil an Fráma">
 <!ENTITY reloadFrameCmd.accesskey     "r">
 <!ENTITY viewPartialSourceForSelectionCmd.label "Taispeáin Foinse Roghnaithe">
 <!ENTITY viewPartialSourceForMathMLCmd.label    "Taispeáin Foinse MathML">
@@ -539,7 +539,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewPageInfoCmd.accesskey    "i">
 <!ENTITY viewFrameInfoCmd.label       "Taispeáin Eolas Fráma">
 <!ENTITY viewFrameInfoCmd.accesskey   "E">
-<!ENTITY reloadImageCmd.label         "Athluchtaigh an Íomhá">
+<!ENTITY reloadImageCmd.label         "Athlódáil an Íomhá">
 <!ENTITY reloadImageCmd.accesskey     "A">
 <!ENTITY viewImageCmd.label           "Taispeáin an Íomhá Amháin">
 <!ENTITY viewImageCmd.accesskey       "T">
@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Ceadanna">
 <!ENTITY identity.permissionsEmpty "Níor thug tú aon chead speisialta don suíomh seo.">
-<!ENTITY identity.permissionsReloadHint "Ní mór duit an leathanach a athluchtú chun na hathruithe a chur i bhfeidhm.">
+<!ENTITY identity.permissionsReloadHint "Ní mór duit an leathanach a athlódáil chun na hathruithe a chur i bhfeidhm.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -953,20 +953,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.message "Nuashonraigh &brandShorterName; chun an leagan is sciobtha is sábháilte a fháil.">
 <!ENTITY updateAvailable.whatsnew.label "Gach rud nua.">
 <!ENTITY updateAvailable.header.message "Tá nuashonrú &brandShorterName; ar fáil.">
-<!ENTITY updateAvailable.acceptButton.label "Íosluchtaigh an Nuashonrú">
+<!ENTITY updateAvailable.acceptButton.label "Íoslódáil an Nuashonrú">
 <!ENTITY updateAvailable.acceptButton.accesskey "o">
 <!ENTITY updateAvailable.cancelButton.label "Níl Anois">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "Íosluchtaigh an nuashonrú &brandShorterName;">
+<!ENTITY updateAvailable.panelUI.label "Íoslódáil an nuashonrú &brandShorterName;">
 
-<!ENTITY updateManual.message "Íosluchtaigh cóip nua de &brandShorterName; agus cabhróimid leat é a shuiteáil.">
+<!ENTITY updateManual.message "Íoslódáil cóip nua de &brandShorterName; agus cabhróimid leat é a shuiteáil.">
 <!ENTITY updateManual.whatsnew.label "Gach rud nua.">
 <!ENTITY updateManual.header.message "Ní féidir le &brandShorterName; nuashonrú go dtí an leagan is déanaí.">
-<!ENTITY updateManual.acceptButton.label "Íosluchtaigh &brandShorterName;">
+<!ENTITY updateManual.acceptButton.label "Íoslódáil &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "o">
 <!ENTITY updateManual.cancelButton.label "Níl Anois">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "Íosluchtaigh cóip nua de &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Íoslódáil cóip nua de &brandShorterName;">
 
 <!ENTITY updateRestart.message "Tar éis duit &brandShorterName; a atosú, athosclófar na cluaisíní agus fuinneoga atá oscailte agat.">
 <!ENTITY updateRestart.header.message2 "Atosaigh chun &brandShorterName; a nuashonrú">

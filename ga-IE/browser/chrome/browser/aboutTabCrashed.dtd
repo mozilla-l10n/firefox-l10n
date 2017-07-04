@@ -15,8 +15,8 @@
 
 <!ENTITY tabCrashed.header2 "Monuar! Tá do chluaisín go díreach tar éis tuairteála.">
 <!ENTITY tabCrashed.offerHelp "Táimid in ann cuidiú leat!">
-<!ENTITY tabCrashed.single.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; chun ábhar an leathanaigh a athluchtú.">
-<!ENTITY tabCrashed.multiple.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; nó &tabCrashed.restoreAll; chun ábhar an leathanaigh a athluchtú.">
+<!ENTITY tabCrashed.single.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; chun ábhar an leathanaigh a athlódáil.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Roghnaigh &tabCrashed.restoreTab; nó &tabCrashed.restoreAll; chun ábhar an leathanaigh a athlódáil.">
 <!ENTITY tabCrashed.requestHelp "An mbeifeá sásta cabhrú linn?">
 <!ENTITY tabCrashed.requestHelpMessage "Cuidíonn tuairiscí tuairteála linn fadhbanna a aithint agus &brandShortName; a fheabhsú.">
 <!ENTITY tabCrashed.requestReport "Déan tuairisc ar an gcluaisín seo">

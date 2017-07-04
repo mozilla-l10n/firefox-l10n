@@ -5,7 +5,7 @@
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
-<!ENTITY loadError.label "Fadhb i rith luchtú an leathanaigh">
+<!ENTITY loadError.label "Fadhb i rith lódáil an leathanaigh">
 <!ENTITY retry.label "Déan Iarracht Arís">
 <!ENTITY returnToPreviousPage.label "Siar">
 <!ENTITY advanced.label "Ardroghanna">
@@ -19,7 +19,7 @@
 <!ENTITY deniedPortAccess.longDesc "">
 
 <!ENTITY dnsNotFound.title "Freastalaí gan aimsiú">
-<!ENTITY dnsNotFound.longDesc "<ul> <li>Scrúdaigh an seoladh le haghaidh botún cosúil le <strong>ww</strong>.example.com in áit <strong>www</strong>.example.com</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li> </ul>">
+<!ENTITY dnsNotFound.longDesc "<ul> <li>Scrúdaigh an seoladh le haghaidh botún cosúil le <strong>ww</strong>.example.com in áit <strong>www</strong>.example.com</li> <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li> </ul>">
 
 <!ENTITY fileNotFound.title "Comhad gan aimsiú">
 <!ENTITY fileNotFound.longDesc "<ul> <li>Scrúdaigh an t-ainm comhaid le haghaidh botúin chlóscríofa sna litreacha móra srl.</li> <li>Féach an bhfuil an comhad bogtha, athainmnithe nó scriosta.</li> </ul>">
@@ -28,7 +28,7 @@
 <!ENTITY fileAccessDenied.longDesc "<ul> <li>Seans nach bhfuil an comhad ann a thuilleadh, nó b'fhéidir nach bhfuil cead agat é a rochtain.</li> </ul>">
 
 <!ENTITY generic.title "Úps.">
-<!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a luchtú ar fáth éigin.</p>">
+<!ENTITY generic.longDesc "<p>Ní féidir le &brandShortName; an leathanach seo a lódáil ar fáth éigin.</p>">
 
 <!ENTITY captivePortal.title "Logáil isteach sa líonra">
 <!ENTITY captivePortal.longDesc2 "<p>Caithfidh tú logáil isteach sa líonra sular féidir leat teacht ar an Idirlíon.</p>">
@@ -45,7 +45,7 @@
 <!ENTITY notCached.longDesc "<p>Níl an cháipéis iarrtha ar fáil i dtaisce &brandShortName;.</p><ul><li>Mar gheall ar chúrsaí slándála, ní dhéanfaidh &brandShortName; iarracht eile aon cháipéis íogair a fháil go huathoibríoch.</li><li>Cliceáil 'Déan Iarracht Eile' chun an cháipéis a iarraidh ón suíomh arís.</li></ul>">
 
 <!ENTITY netOffline.title "Mód as líne">
-<!ENTITY netOffline.longDesc2 "<ul> <li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a luchtú arís.</li> </ul>">
+<!ENTITY netOffline.longDesc2 "<ul> <li>Brúigh &quot;Déan Iarracht Arís&quot; chun dul ar líne agus an leathanach a lódáil arís.</li> </ul>">
 
 <!ENTITY contentEncodingError.title "Earráid Ionchódaithe Inneachair">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>Téigh i dteagmháil le húinéirí an tsuímh ghréasáin leis an bhfadhb a chur in iúl dóibh, le do thoil.</li> </ul>">
@@ -83,10 +83,10 @@ will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
 <!ENTITY certerror.introPara "Níor chumraigh úinéir <span class='hostname'/> an suíomh mar is ceart.  Níor cheangail &brandShortName; leis an suíomh seo chun do chuid faisnéise a chosaint.">
 
-<!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a luchtú, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
+<!ENTITY sharedLongDesc "<ul> <li>D'fhéadfadh an suíomh bheith gan fáil nó ró-ghnóthach go sealadach. Bain triail eile as ar ball beag.</li> <li>Mura bhfuil tú in ann leathanach ar bith a lódáil, déan seiceáil ar cheangal líonra do ríomhaire.</li> <li>Má tá do ríomhaire nó do líonra á chosaint ag balla dóiteáin nó seachfhreastalaí, cinntigh go bhfuil cead ag &brandShortName; an Gréasán a rochtain.</li></ul>">
 
 <!ENTITY cspBlocked.title "Bactha ag an Polasaí Slándala Inneachair">
-<!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar luchtú an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
+<!ENTITY cspBlocked.longDesc "<p>Chuir &brandShortName; stad ar lódáil an leathanaigh seo toisc go bhfuil polasaí slándála inneachair ag an leathanach a dhícheadaíonn é.</p>">
 
 <!ENTITY corruptedContentErrorv2.title "Earráid: Ábhar Truaillithe">
 <!ENTITY corruptedContentErrorv2.longDesc "<p>An leathanach atá tú ag iarraidh a amharc, ní féidir é a thaispeáint toisc gur tharla earráid agus na sonraí á seoladh.</p><ul><li>Téigh i dteagmháil le húinéir an tsuímh agus inis dóibh faoin fhadhb seo.</li></ul>">

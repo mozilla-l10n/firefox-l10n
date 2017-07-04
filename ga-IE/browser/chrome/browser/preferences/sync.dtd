@@ -75,7 +75,7 @@ both, to better adapt this sentence to their language.
      Android or iOS to sync with your mobile device." -->
 
 
-<!ENTITY mobilePromo3.start            "Íosluchtaigh Firefox ar ">
+<!ENTITY mobilePromo3.start            "Íoslódáil Firefox ar ">
 <!-- LOCALIZATION NOTE (mobilePromo3.androidLink): This is a link title that links to https://www.mozilla.org/firefox/android/ -->
 <!ENTITY mobilePromo3.androidLink      "Android">
 <!-- LOCALIZATION NOTE (mobilePromo3.iOSBefore): This is text displayed between mobilePromo3.androidLink and mobilePromo3.iosLink -->
