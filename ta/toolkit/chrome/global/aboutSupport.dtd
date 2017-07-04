@@ -21,6 +21,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "பதிப்பு">
 <!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; அம்சங்கள்">
 <!ENTITY aboutSupport.featureName "பெயர்">
 <!ENTITY aboutSupport.featureVersion "பதிப்பு">
 <!ENTITY aboutSupport.featureId "ID">
