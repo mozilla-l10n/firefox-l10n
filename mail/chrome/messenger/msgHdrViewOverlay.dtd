@@ -64,7 +64,7 @@
 <!ENTITY markAsReadMenuItem1.accesskey "ء">
 <!ENTITY markAsUnreadMenuItem1.label "اجعلها غير مقروءة">
 <!ENTITY markAsUnreadMenuItem1.accesskey "غ">
-<!ENTITY saveAsMenuItem1.label "احفظ ك‍…">
+<!ENTITY saveAsMenuItem1.label "احفظ باسم…">
 <!ENTITY saveAsMenuItem1.accesskey "ظ">
 <!ENTITY viewSourceMenuItem1.label "اعرض المصدر">
 <!ENTITY viewSourceMenuItem1.accesskey "ص">
@@ -78,8 +78,8 @@
 
 <!ENTITY openAttachmentCmd.label    "افتح">
 <!ENTITY openAttachmentCmd.accesskey    "ف">
-<!ENTITY saveAsAttachmentCmd.label    "احفظ ك‍…">
-<!ENTITY saveAsAttachmentCmd.accesskey    "ك">
+<!ENTITY saveAsAttachmentCmd.label    "احفظ باسم…">
+<!ENTITY saveAsAttachmentCmd.accesskey    "س">
 <!ENTITY detachAttachmentCmd.label    "ألغِ إرفاق…">
 <!ENTITY detachAttachmentCmd.accesskey    "ق">
 <!ENTITY deleteAttachmentCmd.label    "احذف">
