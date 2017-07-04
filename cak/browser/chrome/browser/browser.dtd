@@ -861,13 +861,13 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuNormal.label "Relik">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Relik">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "R">
-
-
-
-
-
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Tz'aqatz'öj">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Tz'aqatz'öj">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "T">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Chapoj">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Chapoj">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Tokisäx Chapoj richin Rub'eyal Na'onel Kematz'ib'">
 
 <!ENTITY getUserMedia.selectCamera.label "Rutaluxik elesäy wachib'äl">
 <!ENTITY getUserMedia.selectCamera.accesskey "e">
