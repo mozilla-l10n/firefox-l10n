@@ -68,7 +68,7 @@
 <!ENTITY updates.resetUpdatesToManual.accesskey      "r">
 <!ENTITY updates.updating.label               "Breiseáin á nuashonrú">
 <!ENTITY updates.installed.label              "Nuashonraíodh do chuid breiseán.">
-<!ENTITY updates.downloaded.label             "Íosluchtaíodh nuashonruithe na mbreiseán.">
+<!ENTITY updates.downloaded.label             "Íoslódáladh nuashonruithe na mbreiseán.">
 <!ENTITY updates.restart.label                "Atosaigh anois chun an tsuiteáil a chur i gcrích">
 <!ENTITY updates.noneFound.label              "Ní bhfuarthas nuashonruithe">
 <!ENTITY updates.manualUpdatesFound.label     "Féach ar Nuashonruithe Ar Fáil">
@@ -132,7 +132,7 @@
 <!ENTITY detail.lastupdated.label             "Nuashonraithe">
 <!ENTITY detail.creator.label                 "Forbróir">
 <!ENTITY detail.homepage.label                "Leathanach Baile">
-<!ENTITY detail.numberOfDownloads.label       "Íosluchtuithe">
+<!ENTITY detail.numberOfDownloads.label       "Íoslódálacha">
 
 <!ENTITY detail.contributions.description     "Tacaigh le forbairt leanúnach an bhreiseáin seo trí dheontas beag a thabhairt don fhorbróir.">
 
@@ -213,7 +213,7 @@
 <!ENTITY addon.checkingForUpdates.label       "Nuashonruithe á lorg…">
 <!ENTITY addon.releaseNotes.label             "Nótaí Eisiúna:">
 <!ENTITY addon.loadingReleaseNotes.label      "Á Luchtú…">
-<!ENTITY addon.errorLoadingReleaseNotes.label "Tá brón orm, ach tharla earráid agus na nótaí eisiúna á luchtú.">
+<!ENTITY addon.errorLoadingReleaseNotes.label "Tá brón orm, ach tharla earráid agus na nótaí eisiúna á lódáil.">
 
 <!ENTITY addon.createdBy.label                "Le ">
 

@@ -16,7 +16,7 @@
 <!ENTITY resetPassword.text  "Má bhánaíonn tú do Phríomhfhocal Faire, caillfear na focail faire ríomhphoist agus Gréasáin a stóráil tú, na sonraí ó fhoirmeacha, do theastais phearsanta, agus d'eochracha príobháideacha. An bhfuil tú cinnte gur mian leat do Phríomhfhocal Faire a bhánú?">
 <!-- Downloading a cert -->
 
-<!ENTITY downloadCert.title "Teastas á íosluchtú">
+<!ENTITY downloadCert.title "Teastas á íoslódáil">
 <!ENTITY downloadCert.message1 "Iarrtar ort muinín a bheith agat as Údarás Deimhniúcháin nua.">
 <!ENTITY downloadCert.trustSSL "Tá muinín agat as an údarás deimhniúcháin seo chun suímh Ghréasáin a shainaithint.">
 <!ENTITY downloadCert.trustEmail "Tá muinín agat as an údarás deimhniúcháin seo chun úsáideoirí ríomhphoist a shainaithint.">

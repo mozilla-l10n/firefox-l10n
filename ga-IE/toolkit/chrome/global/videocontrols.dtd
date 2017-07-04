@@ -24,7 +24,7 @@
 <!ENTITY stats.framesPresented "Frámaí curtha ar taispeáint">
 <!ENTITY stats.framesPainted "Frámaí péinteáilte">
 
-<!ENTITY error.aborted "Stopadh luchtú an fhíseáin.">
+<!ENTITY error.aborted "Stopadh lódáil an fhíseáin.">
 <!ENTITY error.network "Stopadh athsheinm an fhíseáin mar gheall ar earráid líonra.">
 <!ENTITY error.decode "Ní féidir an físeán a sheinm toisc go bhfuil an comhad truaillithe.">
 <!ENTITY error.srcNotSupported "Ní thacaítear leis an bhformáid fhíse nó leis an gcineál MIME.">
