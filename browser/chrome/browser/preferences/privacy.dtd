@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Cosaint ar Lorgaireacht">
-
-
+<!ENTITY  trackingProtection2.description      "Bailíonn lorgairí do chuid sonraí brabhsála ó shuíomh go suíomh ar an nGréasán. Baintear úsáid as an lorgaireacht chun próifíl díot a thógáil, ansin ábhar a thaispeáint duit bunaithe ar do chuid sonraí brabhsála agus ar fhaisnéis phearsanta.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Úsáid Cosaint ar Lorgaireacht chun cosc a chur ar lorgairí aitheanta">
 <!ENTITY  trackingProtectionAlways.label       "I gCónaí">
 <!ENTITY  trackingProtectionAlways.accesskey   "I">
 <!ENTITY  trackingProtectionPrivate.label      "I bhfuinneog phríobháideach amháin">
@@ -19,7 +19,8 @@
 <!ENTITY trackingProtectionPBM5.label         "Úsáid Cosaint ar Lorgaireacht i bhFuinneoga Príobháideacha">
 <!ENTITY trackingProtectionPBM5.accesskey     "b">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Úsáid Cosaint ar Lorgaireacht i mBrabhsáil Phríobháideach chun cosc a chur ar lorgairí aitheanta">
+<!ENTITY trackingProtectionPBM6.accesskey     "b">
 <!ENTITY trackingProtectionPBMLearnMore.label "Tuilleadh eolais">
 <!ENTITY changeBlockList.label          "Athraigh an Liosta Coiscthe">
 <!ENTITY changeBlockList.accesskey      "A">
