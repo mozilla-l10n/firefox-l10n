@@ -389,6 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
+<!ENTITY customizeMenu.addToOverflowMenu.label "เพิ่มไปยังเมนูล้น">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "พ">
 <!ENTITY customizeMenu.moveToToolbar.label "ย้ายไปยังแถบเครื่องมือ">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "ย">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -398,6 +400,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "ย้ายไปยังเมนู">
 <!ENTITY customizeMenu.moveToPanel.accesskey "ย">
+<!ENTITY customizeMenu.pinToOverflowMenu.label "ปักหมุดไปยังเมนูล้น">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "ป">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "ถอดหมุดจากเมนูล้น">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "ถ">
 <!ENTITY customizeMenu.removeFromToolbar.label "เอาออกจากแถบเครื่องมือ">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "อ">
 <!ENTITY customizeMenu.removeFromMenu.label "เอาออกจากเมนู">
@@ -849,10 +855,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity "ความหนาแน่น">
 <!ENTITY customizeMode.uidensity.menuNormal.label "ปกติ">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "ปกติ">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ป">
 <!ENTITY customizeMode.uidensity.menuCompact.label "กะทัดรัด">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "กะทัดรัด">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "ก">
 <!ENTITY customizeMode.uidensity.menuTouch.label "สัมผัส">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "สัมผัส">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "ส">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "ใช้การสัมผัสสำหรับโหมดแท็บเล็ต">
 
 <!ENTITY getUserMedia.selectCamera.label "กล้องที่แบ่งปัน:">
 <!ENTITY getUserMedia.selectCamera.accesskey "ก">
