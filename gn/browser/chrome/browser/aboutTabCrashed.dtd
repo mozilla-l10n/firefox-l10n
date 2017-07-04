@@ -13,16 +13,18 @@
      vulgar, use it. If not, feel free to skip the word in your
      translation. -->
 
-
-
-
-
-
-
+<!ENTITY tabCrashed.header2 "Gah. Ne rendayke ombeti.">
+<!ENTITY tabCrashed.offerHelp "¡Ikatúta roipytyvõ!">
+<!ENTITY tabCrashed.single.offerHelpMessage "Eiporavo &tabCrashed.restoreTab; ikatu hag̃uáicha emyanyhẽ kuatiarogue retepy.">
+<!ENTITY tabCrashed.multiple.offerHelpMessage "Eiporavo &tabCrashed.restoreTab; térã &tabCrashed.restoreAll; ikatu hag̃uáicha emyanyhẽ kuatiarogue retepy.">
+<!ENTITY tabCrashed.requestHelp "¿Ikatúta orepytyvõ?">
+<!ENTITY tabCrashed.requestHelpMessage "Marandu jejavy rehegua orepytyvõta rohechakuaa hag̃ua apañuãi ha romoheñói &brandShortName; iporãvéva.">
+<!ENTITY tabCrashed.requestReport "Ekorói ko tendayke rehe">
+<!ENTITY tabCrashed.sendReport2 "Emondo peteĩ marandu jejavygua ko tendayke rehecháva rehegua">
 <!ENTITY tabCrashed.commentPlaceholder2 "Embojuapy je'erei (umi je'erei ohecháta opavavete)">
-
+<!ENTITY tabCrashed.includeURL2 "Emoinge URL kuatiarogue ko marandu'i jejavy rehegua ndive">
 <!ENTITY tabCrashed.emailPlaceholder "Emoinge nekundaharape ñanduti veve ko'ápe">
 <!ENTITY tabCrashed.emailMe "Egueruka chéve ñanduti veve oĩ hetavévo marandu jehechakuaáva">
 <!ENTITY tabCrashed.reportSent "Crash marandu oñemoguahẽma ; aguyje orepytyvõ rupi &brandShortName; okakuaave haguã!">
-
-
+<!ENTITY tabCrashed.requestAutoSubmit2 "Marandu'i tendayke rugua pegua">
+<!ENTITY tabCrashed.autoSubmit2 "Ñembohekopyahu jerohoryvéva omondo hag̃ua ijehegui marandu'i jejavygua, oĩhápe avei marandu'i tendayke rugua pegua ombetíva ko tembiapópe ha avei tembiapokuéra tenonderãva.">
