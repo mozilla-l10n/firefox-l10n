@@ -14,7 +14,7 @@
 <!ENTITY  enableSafeBrowsing.label        "Cuir cosc ar ábhar contúirteach nó cealgach">
 <!ENTITY  enableSafeBrowsing.accesskey    "C">
 
-<!ENTITY  blockDownloads.label            "Cuir cosc ar íosluchtuithe contúirteacha">
+<!ENTITY  blockDownloads.label            "Cuir cosc ar íoslódálacha contúirteacha">
 <!ENTITY  blockDownloads.accesskey        "s">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "Tabhair rabhadh dom faoi bhogearraí neamhchoitianta nó bogearraí gan iarraidh">

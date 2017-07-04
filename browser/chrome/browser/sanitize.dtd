@@ -46,7 +46,7 @@ that require it.  -->
 <!ENTITY historySection.label         "Stair">
 <!ENTITY dataSection.label            "Sonraí">
 
-<!ENTITY itemHistoryAndDownloads.label     "Stair Bhrabhsála agus Íosluchtaithe">
+<!ENTITY itemHistoryAndDownloads.label     "Stair Bhrabhsála agus Íoslódála">
 <!ENTITY itemHistoryAndDownloads.accesskey "B">
 <!ENTITY itemFormSearchHistory.label       "Stair Fhoirmeacha agus Chuardaigh">
 <!ENTITY itemFormSearchHistory.accesskey   "F">

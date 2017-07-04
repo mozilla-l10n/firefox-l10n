@@ -26,7 +26,7 @@
   -  panel. -->
 
 <!ENTITY options.showUserAgentStyles.label "Taispeáin Stíleanna Brabhsálaí">
-<!ENTITY options.showUserAgentStyles.tooltip "Leis an rogha seo, taispeánfar stíleanna réamhshocraithe a luchtaíonn an brabhsálaí.">
+<!ENTITY options.showUserAgentStyles.tooltip "Leis an rogha seo, taispeánfar stíleanna réamhshocraithe a lódálann an brabhsálaí.">
 <!-- LOCALIZATION NOTE (options.collapseAttrs.label): This is the label
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
@@ -68,7 +68,7 @@
   -  triggers page refresh footnote under the advanced settings group in the
   -  options panel and is used for settings that trigger page reload. -->
 
-<!ENTITY options.context.triggersPageRefresh  "* An seisiún seo amháin; athluchtaíonn sé an leathanach">
+<!ENTITY options.context.triggersPageRefresh  "* An seisiún seo amháin; athlódálann sé an leathanach">
 <!-- LOCALIZATION NOTE (options.enableChrome.label4): This is the label for the
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->

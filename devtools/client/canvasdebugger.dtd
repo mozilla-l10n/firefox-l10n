@@ -13,7 +13,7 @@
 
 
 
-<!ENTITY canvasDebuggerUI.reloadNotice1   "Athluchtaigh">
+<!ENTITY canvasDebuggerUI.reloadNotice1   "Athlódáil">
 <!-- LOCALIZATION NOTE (canvasDebuggerUI.reloadNotice2): This is the label shown
   -  along with the button that triggers a page refresh. -->
 

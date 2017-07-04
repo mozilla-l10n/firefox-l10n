@@ -70,7 +70,7 @@
 <!ENTITY cmd.new_separator.label           "Deighilteoir Nua">
 <!ENTITY cmd.new_separator.accesskey       "D">
 
-<!ENTITY cmd.reloadLivebookmark.label      "Athluchtaigh Leabharmharc Beo">
+<!ENTITY cmd.reloadLivebookmark.label      "Athlódáil an Leabharmharc Beo">
 <!ENTITY cmd.reloadLivebookmark.accesskey  "L">
 
 <!ENTITY cmd.moveBookmarks.label                  "Bog…">
