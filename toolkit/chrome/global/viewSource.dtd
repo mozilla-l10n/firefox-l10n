@@ -48,7 +48,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY viewMenu.label           "Amharc">
 <!ENTITY viewMenu.accesskey       "A">
-<!ENTITY reloadCmd.label "Athluchtaigh">
+<!ENTITY reloadCmd.label "Athlódáil">
 <!ENTITY reloadCmd.accesskey "A">
 <!ENTITY reloadCmd.commandkey "r">
 <!ENTITY menu_wrapLongLines.title "Timfhill Línte Fada"> 

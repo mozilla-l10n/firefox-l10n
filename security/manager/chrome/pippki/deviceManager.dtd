@@ -20,7 +20,7 @@
 <!ENTITY devmgr.button.changepw.accesskey       "F">
 <!ENTITY devmgr.button.load.label               "Luchtaigh">
 <!ENTITY devmgr.button.load.accesskey           "L">
-<!ENTITY devmgr.button.unload.label             "Díluchtaigh">
+<!ENTITY devmgr.button.unload.label             "Dílódáil">
 <!ENTITY devmgr.button.unload.accesskey         "D">
 <!ENTITY devmgr.button.fips.accesskey           "F">
 

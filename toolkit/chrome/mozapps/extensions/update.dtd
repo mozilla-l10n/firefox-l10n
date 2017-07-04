@@ -24,7 +24,7 @@
 <!ENTITY  found.enableXPInstall.accesskey "a">
 
 <!ENTITY  installing.wizard.title         "Breiseáin Chomhoiriúnacha á Suiteáil">
-<!ENTITY  installing.top.label            "Nuashonruithe á n-íosluchtú agus á suiteáil…">
+<!ENTITY  installing.top.label            "Nuashonruithe á n-íoslódáil agus á suiteáil…">
 
 <!ENTITY  noupdates.wizard.title          "Níor Aimsíodh Breiseáin Chomhoiriúnacha">
 <!ENTITY  noupdates.intro.desc            "Níorbh fhéidir le &brandShortName; nuashonruithe a aimsiú ar do bhreiseáin neamh-chomhoiriúnacha.">
