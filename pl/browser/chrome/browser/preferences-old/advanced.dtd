@@ -115,8 +115,8 @@
 <!ENTITY useRecommendedPerformanceSettings.description "Rekomendowane ustawienia wydajności są specjalnie dostosowane do tego komputera.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "R">
 <!ENTITY performanceSettingsLearnMore.label "Więcej informacji">
-<!ENTITY limitContentProcess.label "Limit liczby procesów treści:">
-<!ENTITY limitContentProcess.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach, ale będzie również potrzebował więcej pamięci.">
-<!ENTITY limitContentProcess.accesskey "W">
+<!ENTITY limitContentProcessOption.label "Limit liczby procesów treści:">
+<!ENTITY limitContentProcessOption.description "Więcej procesów treści może poprawić wydajność przy wielu otwartych kartach, ale zwiększy też zapotrzebowanie na pamięć.">
+<!ENTITY limitContentProcessOption.accesskey "W">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey "K">
