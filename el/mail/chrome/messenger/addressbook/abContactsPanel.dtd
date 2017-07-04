@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Ιδιότητες Λίστας Ταχυδρομείου">
 <!ENTITY mailingListPropertiesMenu.accesskey "ι">
 
+<!ENTITY abContextMenuButton.tooltip        "Προβολή μενού περιεχομένου βιβλίου διευθύνσεων">
 <!ENTITY addressbookPicker.label            "Βιβλίο διευθύνσεων:">
 <!ENTITY addressbookPicker.accesskey        "υ">
 <!ENTITY searchContacts.label               "Αναζήτηση Επαφών:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "Ε">
 <!ENTITY editMailingListContext.label       "Τροποποίηση Λίστας">
 <!ENTITY editMailingListContext.accesskey   "Ε">
+
+<!ENTITY newContactAbContext.label          "Νέα επαφή">
+<!ENTITY newContactAbContext.accesskey      "Ε">
+<!ENTITY newListAbContext.label             "Νέα λίστα">
+<!ENTITY newListAbContext.accesskey         "Λ">
 
 <!ENTITY toButton.label                     "Προσθήκη στο Πρός:">
 <!ENTITY toButton.accesskey                 "Π">
