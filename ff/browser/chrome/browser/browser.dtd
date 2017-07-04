@@ -856,18 +856,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Heɓ Ciŋkooje Goɗɗe">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Daas njoɗɗinaa ɗoo ngeɗon ɓaɗoo juuɗe maa, tawa wonaa e palal kuutorɗe...">
+<!ENTITY customizeMode.uidensity "Cukkeendi">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Potɗum">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Potɗum">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "P">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Tiɗɗii">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Tiɗɗii">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "T">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Mem">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Mem">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "M">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Huutoro Mem wonande mod Alluwel">
 
 <!ENTITY getUserMedia.selectCamera.label "Kameraa lollinteeɗo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
