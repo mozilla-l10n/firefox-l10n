@@ -672,6 +672,7 @@
 <!ENTITY customizeMode.menuAndToolbars.empty "Jeszcze więcej narzędzi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Możesz wybierać spośród tysięcy dodatków">
 <!ENTITY customizeMode.restoreDefaults "Przywróć domyślne">
+<!ENTITY customizeMode.done "Gotowe">
 <!ENTITY customizeMode.toolbars "Pokaż/ukryj paski narzędzi">
 <!ENTITY customizeMode.titlebar "Pasek tytułu">
 <!ENTITY customizeMode.lwthemes "Motywy">
