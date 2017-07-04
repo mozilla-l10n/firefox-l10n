@@ -106,12 +106,12 @@
 <!ENTITY view.label               "มุมมอง">
 <!ENTITY view.accesskey           "ม">
 <!ENTITY byDate.label             "ตามวันที่">
-<!ENTITY byDate.accesskey         "D">
+<!ENTITY byDate.accesskey         "ว">
 <!ENTITY bySite.label             "ตามไซต์">
-<!ENTITY bySite.accesskey         "S">
+<!ENTITY bySite.accesskey         "ม">
 <!ENTITY byMostVisited.label      "ตามที่เยี่ยมชมมากที่สุด">
 <!ENTITY byMostVisited.accesskey  "V">
 <!ENTITY byLastVisited.label      "ตามที่เยี่ยมชมล่าสุด">
 <!ENTITY byLastVisited.accesskey  "L">
 <!ENTITY byDayAndSite.label       "ตามวันที่และไซต์">
-<!ENTITY byDayAndSite.accesskey   "t">
+<!ENTITY byDayAndSite.accesskey   "ต">
