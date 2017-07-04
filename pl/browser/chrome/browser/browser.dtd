@@ -764,6 +764,6 @@
 <!ENTITY updateRestart.acceptButton.accesskey "U">
 <!ENTITY updateRestart.cancelButton.label "Nie teraz">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
-<!ENTITY updateRestart.panelUI.label "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
+<!ENTITY updateRestart.panelUI.label2 "Uruchom ponownie program &brandShorterName;, aby go uaktualnić">
 
 <!ENTITY pageActionButton.tooltip "Interakcje">
