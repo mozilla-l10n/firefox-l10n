@@ -25,8 +25,9 @@
 <!ENTITY changeBlockList.label          "Athraigh an Liosta Coiscthe">
 <!ENTITY changeBlockList.accesskey      "A">
 
+<!ENTITY  doNotTrack.description        "Inis do shuímh “Ná Lorgaítear Mé” mura bhfuil tú ag iarraidh go lorgófaí thú">
 <!ENTITY  doNotTrack.learnMore.label    "Tuilleadh eolais">
-
+<!ENTITY  doNotTrack.default.label      "Agus Cosaint ar Lorgaireacht ar siúl amháin">
 <!ENTITY  doNotTrack.always.label       "I gCónaí">
 
 <!ENTITY  history.label                 "Stair">
