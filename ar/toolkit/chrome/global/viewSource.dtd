@@ -14,8 +14,8 @@
 
 <!ENTITY fileMenu.label "ملف">
 <!ENTITY fileMenu.accesskey "م">
-<!ENTITY savePageCmd.label "احفظ الصفحة ك‍…">
-<!ENTITY savePageCmd.accesskey "ك">
+<!ENTITY savePageCmd.label "احفظ الصفحة باسم…">
+<!ENTITY savePageCmd.accesskey "س">
 <!ENTITY savePageCmd.commandkey "S">
 <!ENTITY pageSetupCmd.label "إعداد الصفحة…">
 <!ENTITY pageSetupCmd.accesskey "ع">

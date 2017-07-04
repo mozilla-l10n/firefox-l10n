@@ -561,22 +561,22 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY copyURLCmd.label             "انسخ المسار">
 <!ENTITY emailPageCmd.label           "أرسل الرابط بالبريد…">
 <!ENTITY emailPageCmd.accesskey       "س">
-<!ENTITY savePageCmd.label            "احفظ الصفحة ك‍…">
-<!ENTITY savePageCmd.accesskey        "ك">
+<!ENTITY savePageCmd.label            "احفظ الصفحة باسم…">
+<!ENTITY savePageCmd.accesskey        "س">
 <!-- alternate for content area context menu -->
 <!ENTITY savePageCmd.accesskey2       "ك">
 <!ENTITY savePageCmd.commandkey       "s">
-<!ENTITY saveFrameCmd.label           "احفظ الإطار ك‍…">
+<!ENTITY saveFrameCmd.label           "احفظ الإطار باسم…">
 <!ENTITY saveFrameCmd.accesskey       "ط">
 <!ENTITY printFrameCmd.label          "اطبع الإطار…">
 <!ENTITY printFrameCmd.accesskey      "ط">
-<!ENTITY saveLinkCmd.label            "احفظ الرابط ك‍…">
+<!ENTITY saveLinkCmd.label            "احفظ الرابط باسم…">
 <!ENTITY saveLinkCmd.accesskey        "ر">
-<!ENTITY saveImageCmd.label           "احفظ الصورة ك‍…">
+<!ENTITY saveImageCmd.label           "احفظ الصورة باسم…">
 <!ENTITY saveImageCmd.accesskey       "ر">
-<!ENTITY saveVideoCmd.label           "احفظ الڤديو ك‍…">
+<!ENTITY saveVideoCmd.label           "احفظ الڤديو باسم…">
 <!ENTITY saveVideoCmd.accesskey       "و">
-<!ENTITY saveAudioCmd.label           "احفظ الصوت ك‍…">
+<!ENTITY saveAudioCmd.label           "احفظ الصوت باسم…">
 <!ENTITY saveAudioCmd.accesskey       "ت">
 <!ENTITY emailImageCmd.label          "أرسل الصورة بالبريد…">
 <!ENTITY emailImageCmd.accesskey      "ص">
@@ -646,7 +646,7 @@ items are mutually exclusive. -->
 <!ENTITY mediaHideControls.accesskey "ك">
 <!ENTITY videoFullScreen.label       "ملء الشاشة">
 <!ENTITY videoFullScreen.accesskey   "ش">
-<!ENTITY videoSaveImage.label        "احفظ لقطة شاشة ك‍…">
+<!ENTITY videoSaveImage.label        "احفظ لقطة شاشة باسم…">
 <!ENTITY videoSaveImage.accesskey    "ط">
 <!-- LOCALIZATION NOTE: The access keys for "Show Statistics" and
 "Hide Statistics" are the same because the two context-menu
@@ -861,9 +861,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuNormal.label "عادية">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "عادية">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "ع">
-<!ENTITY customizeMode.uidensity.menuCompact.label "مضغوط">
-<!ENTITY customizeMode.uidensity.menuCompact.tooltip "مضغوط">
-<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuCompact.label "مضغوطة">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "مضغوطة">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "ط">
 <!ENTITY customizeMode.uidensity.menuTouch.label "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
