@@ -30,19 +30,19 @@
 <!ENTITY aboutNetworking.bytesSent             "பைட் அனுப்பப்பட்டது">
 <!ENTITY aboutNetworking.bytesReceived         "பைட் பெறப்பட்டது">
 <!ENTITY aboutNetworking.logging               "பதிவுறுதல்">
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.logTutorial           "HTTP பதிவுகளுக்கு<a href='https://developer.mozilla.org/docs/Mozilla/Debugging/HTTP_logging'> தளத்தைப் பார்த்து</a> இந்தக் கருவியை எவ்வாறு பாவிப்பது எனப் பார்.">
+<!ENTITY aboutNetworking.currentLogFile        "தற்போதைய பதிவு கோப்பு:">
+<!ENTITY aboutNetworking.currentLogModules     "தற்போதைய பதிவு சிப்பங்கள்:">
+<!ENTITY aboutNetworking.setLogFile            "பதிவு கோப்பை அமை">
+<!ENTITY aboutNetworking.setLogModules         "பதிவு சிப்பங்களை அமை">
+<!ENTITY aboutNetworking.startLogging          "பதிவைத் தொடங்கு">
+<!ENTITY aboutNetworking.stopLogging           "பதிவை நிறுத்து">
 <!ENTITY aboutNetworking.dnsLookup             "DNS முகவரி பார்த்தல்">
 <!ENTITY aboutNetworking.dnsLookupButton       "தீர்த்தல்">
-
+<!ENTITY aboutNetworking.dnsDomain             "களம்">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN நிலவரம்">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN நிலவரம்">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "இடையக சேமிப்பு எண்ணிக்கை">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "புதிய வெற்றி எண்ணிக்கை">
 
