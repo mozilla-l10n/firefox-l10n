@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Επιτυχία!">
 <!ENTITY welcomeback2.pageInfo1     "Το &brandShortName; είναι έτοιμο.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Επαναφορά όλων των παραθύρων και των καρτελών">
-<!ENTITY welcomeback2.label.restoreSome "Επαναφορά μόνο αυτών που θέλετε">
+<!ENTITY welcomeback2.restoreAll.label  "Επαναφορά όλων των παραθύρων &amp; των καρτελών">
+<!ENTITY welcomeback2.restoreSome.label "Επαναφορά μόνο συγκεκριμένων">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
