@@ -114,12 +114,12 @@
 <!ENTITY viewSecurityDevices.accesskey "">
 
 <!ENTITY performance.label "Wydajność">
-<!ENTITY useRecommendedPerformanceSettings.label "Rekomendowane ustawienia wydajności.">
-<!ENTITY useRecommendedPerformanceSettings.description "Rekomendowane ustawienia wydajności są specjalnie dostosowane do tego komputera.">
-<!ENTITY useRecommendedPerformanceSettings.accesskey "">
+<!ENTITY useRecommendedPerformanceSettings2.label "Rekomendowane ustawienia wydajności.">
+<!ENTITY useRecommendedPerformanceSettings2.description "Ustawienia te są specjalnie dostosowane do specyfikacji tego komputera i systemu operacyjnego.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "">
 <!ENTITY performanceSettingsLearnMore.label "Więcej informacji">
-<!ENTITY limitContentProcess.label "Limit liczby procesów treści:">
-<!ENTITY limitContentProcess.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach, ale będzie również potrzebował więcej pamięci.">
-<!ENTITY limitContentProcess.accesskey "">
+<!ENTITY limitContentProcess2.label "Limit liczby procesów treści:">
+<!ENTITY limitContentProcess2.description "Więcej procesów treści może sprawić, że program &brandShortName; będzie bardziej responsywny przy wielu otwartych kartach, ale będzie również potrzebował więcej pamięci.">
+<!ENTITY limitContentProcess2.accesskey "">
 <!ENTITY allowHWAccel.label "Korzystaj ze sprzętowego przyspieszania, jeśli jest dostępne">
 <!ENTITY allowHWAccel.accesskey "">
