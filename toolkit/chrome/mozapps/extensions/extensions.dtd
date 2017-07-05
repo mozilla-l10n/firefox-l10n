@@ -27,7 +27,7 @@
 <!ENTITY cmd.forward.tooltip                  "Avançar uma página">
 
 <!ENTITY showUnsignedExtensions.button.label  "Algumas extensões não puderam ser verificadas">
-<!ENTITY showAllExtensions.button.label       "Mostra todas as extensões">
+<!ENTITY showAllExtensions.button.label       "Mostrar todas as extensões">
 <!ENTITY debugAddons.label                    "Depurar extensões">
 <!ENTITY debugAddons.accesskey                "B">
 
