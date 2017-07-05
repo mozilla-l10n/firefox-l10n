@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Marcadores móviles">
 <!ENTITY viewBookmarksSidebar2.label        "Ver el panel lateral de marcadores">
 <!ENTITY viewBookmarksToolbar.label         "Ver la barra de marcadores">
+<!ENTITY searchBookmarks.label              "Buscar Marcadores">
 
 <!ENTITY containersMenu.label "Contenedores">
 
@@ -854,6 +855,20 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obtener más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "Arrastra y suelta elementos aquí para mantenerlos a la mano pero fuera de la barra de herramientas…">
+<!ENTITY customizeMode.uidensity "Densidad">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 
 <!ENTITY getUserMedia.selectCamera.label "Compartir cámara">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">
