@@ -858,12 +858,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Tarraing agus scaoil míreanna anseo chun iad a choinneáil in áit a mbeidh teacht orthu, ach lasmuigh den bharra uirlisí…">
 <!ENTITY customizeMode.uidensity "Dlús">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Gnáthdhlús">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Gnáthdhlús">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "n">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Dlúth">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Dlúth">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "D">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Tadhall">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tadhall">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
