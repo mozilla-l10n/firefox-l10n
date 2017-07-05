@@ -125,7 +125,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "Argumentos">
 
 <!ENTITY aboutSupport.safeModeTitle "Probar modo seguro">
-<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con los complementos deshabilitados…">
+<!ENTITY aboutSupport.restartInSafeMode.label "Reiniciar con Complementos Deshabilitados…">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "Características">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "Diagnósticos">
