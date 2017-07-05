@@ -44,7 +44,7 @@
 <!ENTITY netOffline.title "இணைப்பில்லாத முறைமை">
 <!-- LOCALIZATION NOTE (netOffline.longDesc3) This string contains markup including widgets enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY netOffline.longDesc3 "<ul> <li>மீண்டும் முயற்சி. &brandShortName; இணைப்பைத் திறக்க முயற்சித்து பக்கத்தை மீளேற்றும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
+<!ENTITY netOffline.longDesc3 "<ul> <li>மீண்டும் முயற்சி. &brandShortName; இணைப்பைத் திறக்க முயற்சித்து பக்கத்தை மீளேற்றும். <button id='wifi'> அருகலையைச் செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY contentEncodingError.title "உள்ளடக்க குறிமுறை பிழை">
 <!ENTITY contentEncodingError.longDesc "<ul> <li>இந்த பிரச்சனையை தெரியப்படுத்த வலை உரிமையாளர்களை தொடர்பு கொள்ளவும்.</li> </ul>">
@@ -67,7 +67,7 @@
 <!ENTITY proxyResolveFailure.title "பதிலி சேவையகத்தைக் கண்டறிய முடியவில்லை">
 <!-- LOCALIZATION NOTE (proxyResolveFailure.longDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
-<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>பதிலாளின் அமைவுகள் சரியா என சரிபார்க்கவும்.</li> <li>உங்கள் சாதனத்தில் கைப்பேசி இணையம் அல்லது வை-பை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
+<!ENTITY proxyResolveFailure.longDesc3 "<ul> <li>பதிலாளின் அமைவுகள் சரியா என சரிபார்க்கவும்.</li> <li>உங்கள் சாதனத்தில் கைப்பேசி இணையம் அல்லது அருகலை இணைப்பு உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>அருகலையைச் செயல்படுத்து. </button> </li> </ul>">
 
 <!ENTITY redirectLoop.title "பக்கத்தை ஒழுங்காகத் திருப்பிவிடவில்லை">
 <!ENTITY redirectLoop.longDesc "<ul> <li>சில நேரங்களில் குக்கீகளை ஏற்க மறுத்தாலோ அல்லது செயலற்று இருந்தாலோ இந்த பிரச்சனை வரும்.</li> </ul>">
@@ -83,7 +83,7 @@
 <!-- LOCALIZATION NOTE (sharedLongDesc3) This string contains markup including widgets for enabling wifi connections.
      The text inside the tags should be localized. Do not touch the ids. -->
 
-<!ENTITY sharedLongDesc3 "<ul> <li>இந்தத் தளம் தற்சமயம் கிடைக்காமல் (அ) மிகவும் மும்முரமாக இருக்கலாம். சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.</li> <li>உங்களால் எந்த பக்கத்தையும் ஏற்ற முடியாவிட்டால், சாதனத்தில் கைபேசி அல்லது வைபை இணையம் உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>வை-பையை செயல்படுத்து</button> </li> </ul>">
+<!ENTITY sharedLongDesc3 "<ul> <li>இந்தத் தளம் தற்சமயம் கிடைக்காமல் (அ) மிகவும் மும்முரமாக இருக்கலாம். சில நிமிடங்களில் மீண்டும் முயற்சிக்கவும்.</li> <li>உங்களால் எந்த பக்கத்தையும் ஏற்ற முடியாவிட்டால், சாதனத்தில் கைபேசி அல்லது அருகலை இணையம் உள்ளதா என உறுதிசெய்யவும். <button id='wifi'>அருகலையைச் செயல்படுத்து</button> </li> </ul>">
 
 <!ENTITY cspBlocked.title "உள்ளடக்க பாதுகாப்பு கொள்கையால் தடுக்கப்பட்டது">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; இந்த பக்கம் இந்த வழியில் ஏற்றப்படுவதை தடுத்தது ஏனெனில் இந்த பக்கத்தின் ஒரு உள்ளடக்க பாதுகாப்பு கொள்கை அதை தடுக்கிறது.</p>">
