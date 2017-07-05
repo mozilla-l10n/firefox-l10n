@@ -6,7 +6,7 @@
 
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
-<!ENTITY restorepage.errorTitle     "Dette er pinleg.">
+<!ENTITY restorepage.errorTitle     "Ein greidde diverre ikkje å byggje oppatt fanene.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; klarer ikkje å byggje oppatt vindauge og faner. Dette skuldast vanlegvis ei nyleg opna nettside.">
 <!ENTITY restorepage.tryThis        "Du kan prøve å:">
 <!ENTITY restorepage.restoreSome    "fjerne ei eller fleire faner som du trur kan ha vore årsak til problemet">
