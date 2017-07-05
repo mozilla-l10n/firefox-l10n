@@ -94,7 +94,7 @@ was trying to connect. -->
 
 <!ENTITY securityOverride.exceptionButtonLabel "விதிவிலக்காகச் சேர்...">
 
-<!ENTITY errorReporting.automatic2 "இது போன்ற பிழைகளை கண்டறிந்து பாதுகாப்பற்ற தளங்களைக் முடக்க மொசில்லாவிடம் முறையிடுங்கள்">
+<!ENTITY errorReporting.automatic2 "இதுப் போன்ற பாதுகாப்பற்ற தளங்களை முடக்க மொசில்லாவிடம் முறையிடு">
 <!ENTITY errorReporting.learnMore "மேலும் அறிக...">
 
 <!ENTITY remoteXUL.title "தொலைநிலை XUL">
