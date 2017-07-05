@@ -858,12 +858,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ح">
 <!ENTITY customizeMode.emptyOverflowList.description "اسحب و أفلت العناصر هنا لإبقائهم في متناول يدك لكن خارج شريط الأدوات…">
 <!ENTITY customizeMode.uidensity "الكثافة">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "عادية">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "عادية">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "ع">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "مضغوطة">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "مضغوطة">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "ط">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
