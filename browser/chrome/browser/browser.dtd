@@ -961,12 +961,12 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.acceptButton.accesskey "D">
 <!ENTITY updateAvailable.cancelButton.label "Ne tagad">
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
-<!ENTITY updateAvailable.panelUI.label "Lejupielādē &brandShortName; atjauninājumu">
+<!ENTITY updateAvailable.panelUI.label "Lejupielādē &brandShorterName; atjauninājumu">
 
 <!ENTITY updateManual.message "Lejupielādējiet jaunu &brandShorterName; versiju un mēs jums palīdzēsim, to instalēt.">
 <!ENTITY updateManual.whatsnew.label "Skatiet jaunumus.">
 <!ENTITY updateManual.header.message "&brandShorterName; nevar atjaunināt ar jaunāko versiju.">
-<!ENTITY updateManual.acceptButton.label "Lejupielādēt &brandShortName;">
+<!ENTITY updateManual.acceptButton.label "Lejupielādēt &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "Ne tagad">
 <!ENTITY updateManual.cancelButton.accesskey "N">
