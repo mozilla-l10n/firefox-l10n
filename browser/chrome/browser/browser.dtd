@@ -977,7 +977,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.panelUI.label "&brandShorterName; -ის ახალი ვერსიის ჩამოტვირთვა">
 
 <!ENTITY updateRestart.message "ხელმეორედ სწრაფად გაშვების შემდეგ, &brandShorterName; ყველა თქვენს მიერ გახსნილ ჩანართს და ფანჯარას აღადგენს.">
-<!ENTITY updateRestart.header.message2 "&brandShorterName;-ის გასაახლებლად, ხელახლა გაუშვით.">
+<!ENTITY updateRestart.header.message2 "&brandShorterName;-ის გასაახლებლად, გაუშვით ხელახლა.">
 <!ENTITY updateRestart.acceptButton.label "ხელახლა გაშვება და აღდგენა">
 <!ENTITY updateRestart.acceptButton.accesskey "ხ">
 <!ENTITY updateRestart.cancelButton.label "ახლა არა">
