@@ -6,6 +6,8 @@
 <!ENTITY window.width                 "50em">
 <!ENTITY window.height                "10em">
 
+<!ENTITY doNotTrackCheckbox2.label    "Eipuru opa'ára jehapykueho'ỹ">
+<!ENTITY doNotTrackCheckbox2.accesskey "E">
 
-
+<!ENTITY doNotTrackTPInfo.description "&brandShortName; omondóta kuaarã ojerapereka'ỹtava Tapykueho Ñemo'ã oñemyandy javéramo.">
 <!ENTITY doNotTrackLearnMore.label    "Eikuaave Hesegua">
