@@ -81,7 +81,7 @@
 <!-- Localization note (certerror.introPara) - The text content of the span tag
 will be replaced at runtime with the name of the server to which the user
 was trying to connect. -->
-<!ENTITY certerror.introPara "<span class='hostname'/> இன் உரிமையாளர் தளத்தை முறையின்றி கட்டமைத்துள்ளார். உங்கள் தகவல் திருடப்படாமல் இருக்க, &brandShortName; வலைத்தளத்துடன் இணைக்கப்படவில்லை.">
+<!ENTITY certerror.introPara "<span class='hostname'/> களத்தின் உரிமையாளர் தளத்தை முறையின்றி கட்டமைத்துள்ளார். உங்கள் தகவலைத் திருடாமல் இருக்க, &brandShortName; வலைத்தளத்துடன் இணைக்கவில்லை.">
 
 <!ENTITY sharedLongDesc "<ul> <li>வலைப்பக்கம் தற்காலிகமாக கிடைக்கவில்லை. பிறகு முயற்சிக்கவும்.</li> <li>பக்கத்தை ஏற்ற இயலவில்லையெனில், உங்களின் இணைய இணைப்பைச் சரிபாருங்கள்.</li> <li>உங்களின் கணினி (அ) பிணைய தீச்சுவர் (அ) பதிலாளால் தடுக்கப்பட்டிருப்பின் அதைச் சரிப்படுத்தி &brandShortName; உலாவிக்கு இணையத்தை கிடைக்கச் செய்யவும்.</li></ul>">
 
