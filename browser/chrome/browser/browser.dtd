@@ -858,12 +858,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
 
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Venjulegt">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Venjulegt">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "n">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Þjappað">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Þjappað">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "Þ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Snertiskjár">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Snertiskjár">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
