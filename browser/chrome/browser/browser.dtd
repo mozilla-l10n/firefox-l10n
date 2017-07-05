@@ -854,18 +854,18 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "G">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Obține mai multe teme">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Trage și plasează elementele aici pentru a le păstra la îndemână, însă în afara barei de unelte…">
+<!ENTITY customizeMode.uidensity "Densitate">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compact">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tactil">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tactil">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Folosește tactil pentru modul tabletă">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera spre partajare:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
