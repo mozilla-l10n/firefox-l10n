@@ -12,10 +12,10 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 <!ENTITY  enableSafeBrowsing.label        "სახიფათო და თაღლითური შიგთავსის შეზღუდვა">
-<!ENTITY  enableSafeBrowsing.accesskey    "ბ">
+<!ENTITY  enableSafeBrowsing.accesskey    "ღ">
 
 <!ENTITY  blockDownloads.label            "სახიფათო ჩამოტვირთვების აკრძალვა">
-<!ENTITY  blockDownloads.accesskey        "დ">
+<!ENTITY  blockDownloads.accesskey        "ძ">
 
 <!ENTITY  blockUncommonAndUnwanted.label     "გაფრთხილება არასასურველი და უჩვეულო პროგრამების შესახებ">
 <!ENTITY  blockUncommonAndUnwanted.accesskey "უ">
