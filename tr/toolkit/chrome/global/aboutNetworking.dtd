@@ -43,3 +43,4 @@
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IP'ler">
 <!ENTITY aboutNetworking.rcwn                  "RCWN İstatistikleri">
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN durumu">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Toplam ağ isteği sayısı">
