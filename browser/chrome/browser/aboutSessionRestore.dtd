@@ -34,10 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "સફળતા!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName;જવા માટે તૈયાર છે">
 
-<!ENTITY welcomeback2.label.restoreAll  "બધા વિન્ડોઝ અને ટૅબ્સ પુનઃસ્થાપિત 
-">
-<!ENTITY welcomeback2.label.restoreSome "માત્ર  તમે કરવા માંગો છો એટલા પુનઃસ્થાપિત કરો
-">
+<!ENTITY welcomeback2.restoreAll.label  "બધી વિંડોઝ &amp; ટૅબ્સ પુનર્સ્થાપિત">
+<!ENTITY welcomeback2.restoreSome.label "માત્ર તમે ઇચ્છો તે રાશિઓ પુનઃસ્થાપિત કરો">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
