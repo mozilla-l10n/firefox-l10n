@@ -44,11 +44,11 @@
 <!ENTITY openPortalLoginPage.label2 "打开网络登录页面">
 
 <!ENTITY malformedURI.title "无效的地址">
-<!ENTITY malformedURI.longDesc "<ul> 
-<li>网址通常长得像 
-<strong>http://www.example.com/</strong></li> 
-<li>请确认您使用的是正斜杠（即 
-<strong>/</strong>）。</li> 
+<!ENTITY malformedURI.longDesc "<ul>
+  <li>网址通常长得像 
+    <strong>http://www.example.com/</strong></li> 
+  <li>请确认您使用的是正斜杠（即
+    <strong>/</strong>）。</li>
 </ul>">
 
 <!ENTITY netInterrupt.title "连接被中断">
