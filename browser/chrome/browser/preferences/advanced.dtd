@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY healthReportDesc.label          "გაწვდით ინფორმაციას თქვენი ბრაუზერის წარმადობაზე და მისი მდგომარეობის მონაცემებს უზიარებს &vendorShortName;-ს">
 <!ENTITY enableHealthReport.label        "მოხსენება &brandShortName; -ის გამართულობის შესახებ">
-<!ENTITY enableHealthReport.accesskey    "R">
+<!ENTITY enableHealthReport.accesskey    "ხ">
 <!ENTITY healthReportLearnMore.label     "შეიტყვეთ მეტი">
 
 <!ENTITY telemetryDesc.label             "თქვენი ბრაუზერის წარმადობის, გამოყენების, აპრატურის და მორგების მონაცემებს უზიარებს &vendorShortName;-ს , რაც &brandShortName;-ის გაუმჯობესებაში გვეხმარება.">
@@ -54,7 +54,7 @@ available. -->
 
 <!ENTITY connectionDesc.label            "მითითება თუ როგორ დაუკავშირდეს &brandShortName; ინტერნეტს">
 <!ENTITY connectionSettings.label        "პარამეტრები…">
-<!ENTITY connectionSettings.accesskey    "e">
+<!ENTITY connectionSettings.accesskey    "პ">
 
 <!ENTITY httpCache.label                 "კეშირებული ვებ-შიგთავსი">
 
@@ -65,7 +65,7 @@ available. -->
 <!ENTITY clearSiteData.label             "ყველა მონაცემის წაშლა">
 <!ENTITY clearSiteData.accesskey         "ყ">
 <!ENTITY siteDataSettings.label          "პარამეტრები…">
-<!ENTITY siteDataSettings.accesskey      "პ">
+<!ENTITY siteDataSettings.accesskey      "ტ">
 <!ENTITY siteDataLearnMoreLink.label     "შეიტყვეთ მეტი">
 
 <!-- LOCALIZATION NOTE:
@@ -75,14 +75,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "კეშის შეზღუდვა:">
-<!ENTITY limitCacheSizeBefore.accesskey  "შ">
+<!ENTITY limitCacheSizeBefore.accesskey  "კ">
 <!ENTITY limitCacheSizeAfter.label       "MB დისკზე">
 <!ENTITY clearCacheNow.label             "გასუფთავება">
 <!ENTITY clearCacheNow.accesskey         "ფ">
 <!ENTITY clearOfflineAppCacheNow.label   "გასუფთავება">
 <!ENTITY clearOfflineAppCacheNow.accesskey "გ">
 <!ENTITY overrideSmartCacheSize.label    "კეშის ავტომატური მართვის უგულებელყოფა">
-<!ENTITY overrideSmartCacheSize.accesskey "ბ">
+<!ENTITY overrideSmartCacheSize.accesskey "უ">
 
 <!ENTITY updateTab.label                 "განახლება">
 

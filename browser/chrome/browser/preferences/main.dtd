@@ -23,11 +23,11 @@
 <!ENTITY downloads.label     "ჩამოტვირთვები">
 
 <!ENTITY saveTo.label "ფაილების შესანახი მდებარეობა">
-<!ENTITY saveTo.accesskey "ს">
+<!ENTITY saveTo.accesskey "შ">
 <!ENTITY chooseFolderWin.label        "ამორჩევა…">
 <!ENTITY chooseFolderWin.accesskey    "რ">
 <!ENTITY chooseFolderMac.label        "შერჩევა…">
-<!ENTITY chooseFolderMac.accesskey    "e">
+<!ENTITY chooseFolderMac.accesskey    "ე">
 <!ENTITY alwaysAskWhere.label         "ფაილების შენახვისას, ადგილმდებარეობის ყოველ ჯერზე მითითება">
 <!ENTITY alwaysAskWhere.accesskey     "ყ">
 
