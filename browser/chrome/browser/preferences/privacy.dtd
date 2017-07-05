@@ -3,8 +3,6 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ochrana pred sledovaním">
-<!ENTITY  trackingProtection.description       "Internetové spoločnosti vás môžu sledovať a zbierať o vás informácie. Tieto informácie často využívajú na vytvorenie profilu a zobrazovanie personalizovaného obsahu.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Blokovať zobrazovanie obsahu od známych sledovacích spoločností">
 <!ENTITY  trackingProtectionAlways.label       "Vždy">
 <!ENTITY  trackingProtectionAlways.accesskey   "V">
 <!ENTITY  trackingProtectionPrivate.label      "Len v súkromných oknách">
@@ -15,18 +13,15 @@
 <!ENTITY  trackingProtectionExceptions.label   "Výnimky…">
 <!ENTITY  trackingProtectionExceptions.accesskey "m">
 
-<!ENTITY tracking.label                 "Sledovanie">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Používať Ochranu pred sledovaním v režime Súkromné prehliadanie">
 <!ENTITY trackingProtectionPBM5.accesskey     "c">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBMLearnMore.label "Ďalšie informácie">
 <!ENTITY changeBlockList.label          "Zmeniť Zoznam blokovania">
 <!ENTITY changeBlockList.accesskey      "l">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Môžete tiež ">
-<!ENTITY  doNotTrack.settings.label     "spravovať nastavenia funkcie Do Not Track">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.learnMore.label    "Ďalšie informácie">
 
 <!ENTITY  history.label                 "História">
 <!ENTITY  permissions.label             "Povolenia">
