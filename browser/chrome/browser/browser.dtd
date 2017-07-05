@@ -855,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "К">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Отримати більше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "б">
-<!ENTITY customizeMode.emptyOverflowList.description "Переміщуйте елементи тут, щоб мати їх під рукою, але не на панелі інструментів…">
+<!ENTITY customizeMode.emptyOverflowList.description "Переміщуйте елементи сюди, щоб мати їх під рукою, але не на панелі інструментів…">
 <!ENTITY customizeMode.uidensity "Щільність">
 <!ENTITY customizeMode.uidensity.menuNormal.label "Звичайна">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Звичайна">
