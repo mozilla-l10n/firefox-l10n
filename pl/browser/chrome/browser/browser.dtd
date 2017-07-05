@@ -545,7 +545,7 @@
 <!ENTITY quitApplicationCmd.label       "Zakończ" >
 <!ENTITY quitApplicationCmd.accesskey   "k" >
 <!ENTITY quitApplicationCmdMac2.label "Zakończ program &brandShorterName;">
-<!ENTITY quitApplicationCmdUnix.key     "Q">
+<!ENTITY quitApplicationCmd.key "Q">
 
 <!ENTITY closeCmd.label "Zamknij" >
 <!ENTITY closeCmd.key "W" >
