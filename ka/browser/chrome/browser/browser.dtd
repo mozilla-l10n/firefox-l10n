@@ -250,7 +250,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewBookmarksToolbar.label         "სანიშნეთა ხელსაწყოთა ზოლის ჩვენება">
 <!ENTITY searchBookmarks.label              "სანიშნეების ძიება">
 
-<!ENTITY containersMenu.label "სათავსოები">
+<!ENTITY containersMenu.label "სათავსები">
 
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
   -  key should not contain the letters A-F, since these are reserved
@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ფ">
 <!ENTITY customizeMode.emptyOverflowList.description "გადმოიტანეთ და მოათავსეთ ელემენტები აქ, მეტად ხელმისაწვდომობისთვის, ხელსაწყოთა ზოლის გარეთ…">
 <!ENTITY customizeMode.uidensity "სიხშირე">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ჩვეულებრივი">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "ჩვეულებრივი">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "ჩ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "კომპაქტური">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "კომპაქტური">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "კ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "შეხება">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "შეხება">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "შ">
