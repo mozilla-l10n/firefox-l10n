@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Segnapaginas mobils">
 <!ENTITY viewBookmarksSidebar2.label        "Mussar la trav laterala da segnapaginas">
 <!ENTITY viewBookmarksToolbar.label         "Mussar la trav d'utensils da segnapaginas">
+<!ENTITY searchBookmarks.label              "Tschertgar en ils segnapaginas">
 
 <!ENTITY containersMenu.label "Containers">
 
@@ -854,6 +855,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Telechargiar designs">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "T">
+<!ENTITY customizeMode.uidensity "Cumpactadad">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Cumpact">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Cumpact">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Utilisar «Touch» per tablets">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera per cundivider:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

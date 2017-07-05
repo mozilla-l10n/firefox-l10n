@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Success!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; è pront.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaurar tut las fanestras ed ils tabs">
-<!ENTITY welcomeback2.label.restoreSome "Mo restaurar quels ch'jau vi">
+<!ENTITY welcomeback2.restoreAll.label  "Restaurar tut las fanestras &amp; tut ils tabs">
+<!ENTITY welcomeback2.restoreSome.label "Mo restaurar ina part">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
