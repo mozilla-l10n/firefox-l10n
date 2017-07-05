@@ -74,7 +74,7 @@
 <!ENTITY projectPanel_runtimeApps "இயக்க நேர செயலிகள்">
 <!ENTITY projectPanel_tabs "கீற்றுகள்">
 <!ENTITY runtimePanel_usb "USB சாதனங்கள்">
-<!ENTITY runtimePanel_wifi "வை-பை சாதனங்கள்">
+<!ENTITY runtimePanel_wifi "அருகலைச் சாதனங்கள்">
 <!ENTITY runtimePanel_simulator "பகர்ப்புகள்">
 <!ENTITY runtimePanel_other "பிற">
 <!ENTITY runtimePanel_installsimulator "சிமுலேட்டரை நிறுவு">
