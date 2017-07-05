@@ -204,8 +204,8 @@
 <!ENTITY pref_content_notifications "வலைத்தள புதுப்பிப்புகள்">
 <!ENTITY pref_content_notifications_summary2 "ஆதரவுள்ள தளங்களிலிருந்து புதிய உள்ளடக்கத்தை கண்டுபிடி">
 <!ENTITY pref_developer_remotedebugging_usb "USB மூலமாக தொலைநிலை வழுநீக்கல்">
-<!ENTITY pref_developer_remotedebugging_wifi "வை-பை ஊடாக வழுநீக்கம்">
-<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "வை-பை ஊடாக வழுநீக்க உங்கள் கருவியில் QR குறி படிக்கும் செயலி நிறுவப்பட்டிருக்க வேண்டும்.">
+<!ENTITY pref_developer_remotedebugging_wifi "அருகலை வழி வழுநீக்கம்">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "அருகலை ஊடாக வழுநீக்க உங்கள் கருவியில் QR குறி படிக்கும் செயலி நிறுவப்பட்டிருக்க வேண்டும்.">
 <!ENTITY pref_remember_signons2 "புகுபதிகைகளை நினைவில்கொள்">
 <!ENTITY pref_manage_logins "உள்நுழைவுகளை நிர்வகி">
 
@@ -215,7 +215,7 @@
 <!ENTITY pref_category_home_add_ons "கூடுதல் இணைப்புகள்">
 <!ENTITY pref_home_updates2 "உள்ளடக்க புதுப்பிப்புகள்">
 <!ENTITY pref_home_updates_enabled "செயல்படுத்தப்பட்டது">
-<!ENTITY pref_home_updates_wifi "வை-பை வழியாக மட்டும்">
+<!ENTITY pref_home_updates_wifi "அருகலை வழியாக மட்டும்">
 <!ENTITY pref_category_home_homepage "முகப்புப்பக்கம்">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
@@ -261,7 +261,7 @@
 
 <!ENTITY pref_tap_to_load_images_title2 "படங்களைக் காட்டு">
 <!ENTITY pref_tap_to_load_images_enabled "எப்போதும்">
-<!ENTITY pref_tap_to_load_images_data "வை-பை வழியாக மட்டும்">
+<!ENTITY pref_tap_to_load_images_data "அருகலை வழியாக மட்டும்">
 <!ENTITY pref_tap_to_load_images_disabled2 "தடுக்கப்பட்டது">
 
 <!ENTITY pref_show_web_fonts "இணைய எழுத்துருக்களைக் காட்டு">
@@ -444,12 +444,12 @@
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "நொறுக்கு அறிக்கையாளர்">
 <!ENTITY datareporting_wifi_title2 "&vendorShortName;வின் இடமறியும் சேவை">
-<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலக வரைபடத்தை வரையலாம்! எங்களின் புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை வை-பை மற்றும் செல்லுலார் மூலம் பகிரவும்">
+<!ENTITY datareporting_wifi_geolocation_summary4 "&vendorShortName; என்பதற்கு உதவுவதன் மூலம் உலக வரைபடத்தை வரையலாம்! எங்களின் புவியிடம் வழங்கும் சேவை செம்மைப்படுத்த உங்கள் கருவியின் தோராயமான இடத்தை அருகலை மற்றும் செல்லுலார் மூலம் பகிரவும்">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "தானியக்க புதுப்பித்தல்கள்">
-<!ENTITY pref_update_autodownload_wifi "வை-பை வழியாக மட்டும்">
+<!ENTITY pref_update_autodownload_wifi "அருகலை வழியாக மட்டும்">
 <!ENTITY pref_update_autodownload_never "எப்போதுமில்லை">
 <!ENTITY pref_update_autodownload_always "எப்போதும்">
 <!-- Localization note (help_menu) : This string is used in the main menu-->
