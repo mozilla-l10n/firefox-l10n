@@ -858,12 +858,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "л">
 <!ENTITY customizeMode.emptyOverflowList.description "Нәрселерді қолжетерлік, бірақ саймандар панелінен тыс ұстау үшін, оларды осында тартып апарыңыз…">
 <!ENTITY customizeMode.uidensity "Тығыздығы">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Қалыпты">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Қалыпты">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "л">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Ықшам">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ықшам">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "Ы">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Тию">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Тию">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Т">
