@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "הגנת מעקב">
+<!ENTITY  trackingProtection2.description      "מעקב הוא איסוף של נתוני הגלישה שלך ממגוון אתרים. ניתן להשתמש במעקב כדי להרכיב פרופיל ולהציג עבורך תוכן בהתבסס על הפרטים האישיים ונתוני הגלישה שלך.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "שימוש בהגנת מעקב לחסימת רכיבי מעקב ידועים">
 <!ENTITY  trackingProtectionAlways.label       "תמיד">
 <!ENTITY  trackingProtectionAlways.accesskey   "ת">
@@ -19,6 +20,7 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "ה">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "שימוש בהגנת מעקב בגלישה פרטית לחסימת רכיבי מעקב ידועים">
+<!ENTITY trackingProtectionPBM6.accesskey     "ט">
 <!ENTITY trackingProtectionPBMLearnMore.label "מידע נוסף">
 <!ENTITY changeBlockList.label          "שינוי רשימת חסימות">
 <!ENTITY changeBlockList.accesskey      "ש">
