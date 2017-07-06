@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Tha aithriseadh dàta à comas airson rèiteachadh a’ bhuild seo">
+
 <!ENTITY healthReportDesc.label          "Bheir seo fiosrachadh dhut air dèanadas a' bhrabhsair agad agus cuiridh e dàta air slàinte a' bhrabhsair agad dha &vendorShortName;">
 <!ENTITY enableHealthReport.label        "Cuir an comas aithisg slàinte &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "s">
@@ -97,7 +99,7 @@ available. -->
  -->
 <!ENTITY updateApplication.version.pre   "Tionndadh ">
 <!ENTITY updateApplication.version.post  "">
-
+<!ENTITY updateApplication.description   "Thoir cead dha &brandShortName;">
 <!ENTITY updateAuto2.label               "Stàlaich na h-ùrachaidhean gu fèin-obrachail (mholamaid seo airson tèarainteachd nas fhearr)">
 <!ENTITY updateAuto2.accesskey           "S">
 <!ENTITY updateCheckChoose2.label        "Thoir sùil airson ùrachaidhean ann leig leam co-dhùnadh a bheil mi airson an stàladh">
@@ -111,8 +113,10 @@ available. -->
 <!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas na h-ùrachaidhean sa chùlaibh">
 <!ENTITY useService.accesskey            "C">
 
+<!ENTITY enableSearchUpdate2.label       "na h-einnseanan-luirg ùrachadh gu fèin-obrachail">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
-
+<!ENTITY reports.label                   "Aithisgean">
 
 <!ENTITY offlineStorageNotify.label               "Innis ma bhios làrach-lìn ag iarraidh dàta a stòradh a chum cleachdaidh far loidhne">
 <!ENTITY offlineStorageNotify.accesskey           "t">
@@ -126,7 +130,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Thoir air falbh an dàta far loidhne">
 
 <!ENTITY certificateTab.label            "Teisteanasan">
-
+<!ENTITY certPersonal2.description       "Nuair a dh’iarras frithealaiche an teisteanas pearsanta agad">
 <!ENTITY selectCerts.auto                "Taghar fear leis fhèin">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Faighnich dhìot gach turas">
@@ -138,14 +142,15 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Uidheaman tèarainteachd">
 <!ENTITY viewSecurityDevices.accesskey   "n">
 
-
-
-
-
-
-
-
-
-
+<!ENTITY performance.label               "Dèanadas">
+<!ENTITY useRecommendedPerformanceSettings2.label "Cleachd na roghainnean dèanadais a mholamaid-ne">
+<!ENTITY useRecommendedPerformanceSettings2.description "Chaidh na roghainnean seo a thaghadh airson ’s gum freagair iad air bathar-cruaidh agus siostam-obrachaidh a’ choimpiutair agad.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "o">
+<!ENTITY performanceSettingsLearnMore.label "Barrachd fiosrachaidh">
+<!ENTITY limitContentProcessOption.label "Crìoch pròiseasadh na susbaint">
+<!ENTITY limitContentProcessOption.description "Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.">
+<!ENTITY limitContentProcessOption.accesskey   "n">
+<!ENTITY limitContentProcessOption.disabledDescription "Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am &brandShortName; ioma-phròiseasach.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">

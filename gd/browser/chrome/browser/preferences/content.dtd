@@ -20,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Cruthan-clò ⁊ dathan">
 
-
-
-
+<!ENTITY  defaultFont2.label          "An cruth-clò bunaiteach">
+<!ENTITY  defaultFont2.accesskey      "u">
+<!ENTITY  defaultSize2.label          "Meud">
+<!ENTITY  defaultSize2.accesskey      "M">
 
 <!ENTITY  advancedFonts.label         "Adhartach…">
 <!ENTITY  advancedFonts.accesskey     "h">

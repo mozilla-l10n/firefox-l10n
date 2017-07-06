@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Dìon o thracadh">
+<!ENTITY  trackingProtection2.description      "Tha tracadh a’ ciallachadh gu bheil cuideigin a’ cumail sùil air an dàta bhrabhsaidh agad air feadh grunn làraichean-lìn. ’S urrainn do dhaoine pròifil a chruthachadh le dàta tracaidh mar seo, stèidhichte air an dàta bhrabhsaidh agus an dàta phearsanta agad.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Cleachd dìon o thracadh airson casg a chur air tracaichean aithnichte">
 <!ENTITY  trackingProtectionAlways.label       "An-còmhnaidh">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Ann an uinneagan prìobhaideach a-mhàin">
@@ -17,20 +19,23 @@
 <!ENTITY trackingProtectionPBM5.label         "Cleachd dìon o thracadh ann an uinneagan prìobhaideach">
 <!ENTITY trackingProtectionPBM5.accesskey     "u">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Cleachd dìon o thracadh sa bhrabhsadh phrìobhaideach airson casg a chur air tracaichean aithnichte">
+<!ENTITY trackingProtectionPBM6.accesskey     "p">
 <!ENTITY trackingProtectionPBMLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY changeBlockList.label          "Cleachd liosta bacaidh eile">
 <!ENTITY changeBlockList.accesskey      "C">
 
-
-
-
+<!ENTITY  doNotTrack.description        "Cuir sanas “Na dèan tracadh orm” gu làraichean-lìn a dh’innseas nach eil thu ag iarraidh gun dèanar tracadh ort">
+<!ENTITY  doNotTrack.learnMore.label    "Barrachd fiosrachaidh">
+<!ENTITY  doNotTrack.default.label      "Dìreach nuair a chleachdar dìon o thracadh">
+<!ENTITY  doNotTrack.always.label       "An-còmhnaidh">
 
 <!ENTITY  history.label                 "Eachdraidh">
-
+<!ENTITY  permissions.label             "Ceadan">
 
 <!ENTITY  locationBar.label             "Bàr an t-seòlaidh">
 
+<!ENTITY  locbar.suggest2.label         "Nuair a chleachdas mi bàr an t-seòlaidh, mol dhomh">
 <!ENTITY  locbar.history.label          "Eachdraidh">
 <!ENTITY  locbar.history.accesskey      "h">
 <!ENTITY  locbar.bookmarks.label        "Comharran-lìn">
@@ -40,13 +45,14 @@
 <!ENTITY  locbar.searches.label         "Luirg cho-cheangailte on einnsean-luirg bhunaiteach">
 <!ENTITY  locbar.searches.accesskey     "L">
 
+<!ENTITY  suggestionSettings2.label     "Atharraich na roghainnean a thaobh mholaidhean o einnseanan-luirg">
 
 <!ENTITY  acceptCookies.label           "Gabh ri briosgaidean o làraichean">
 <!ENTITY  acceptCookies.accesskey       "a">
 
 <!ENTITY  acceptThirdParty.pre.label      "Gabh ri briosgaidean treas pàrtaidh:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "G">
-
+<!ENTITY  acceptThirdParty.always.label   "An-còmhnaidh">
 <!ENTITY  acceptThirdParty.never.label    "Chan ann idir">
 <!ENTITY  acceptThirdParty.visited.label  "O fheadhainn air an deach tadhal">
 
@@ -62,7 +68,8 @@
 <!ENTITY  showCookies.label             "Seall na briosgaidean…">
 <!ENTITY  showCookies.accesskey         "S">
 
-
+<!ENTITY  historyHeader2.pre.label         "Nì &brandShortName; na leanas:">
+<!ENTITY  historyHeader2.pre.accesskey     "N">
 <!ENTITY  historyHeader.remember.label     "Cuimhnich an eachdraidh">
 <!ENTITY  historyHeader.dontremember.label "Na cuimhnich an eachdraidh idir">
 <!ENTITY  historyHeader.custom.label       "Cleachd roghainnean gnàthaichte airson na h-eachdraidh">
