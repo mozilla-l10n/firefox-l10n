@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Roghainnean na liosta puist">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Seall clàr-taice co-theacsail leabhar nan seòladh">
 <!ENTITY addressbookPicker.label            "Leabhar nan seòladh:">
 <!ENTITY addressbookPicker.accesskey        "L">
 <!ENTITY searchContacts.label               "Lorg san luchd-aithne:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "e">
 <!ENTITY editMailingListContext.label       "Deasaich an liosta">
 <!ENTITY editMailingListContext.accesskey   "e">
+
+<!ENTITY newContactAbContext.label          "Neach-aithne ùr">
+<!ENTITY newContactAbContext.accesskey      "N">
+<!ENTITY newListAbContext.label             "Liosta ùr">
+<!ENTITY newListAbContext.accesskey         "L">
 
 <!ENTITY toButton.label                     "Cuir ri &quot;Gu&quot;:">
 <!ENTITY toButton.accesskey                 "C">
