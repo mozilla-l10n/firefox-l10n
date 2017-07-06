@@ -23,7 +23,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "版本">
 <!ENTITY aboutSupport.extensionId "ID">
 
-<!ENTITY aboutSupport.featuresTitle "&brandShortName; 特性">
+<!ENTITY aboutSupport.featuresTitle "&brandShortName; 功能">
 <!ENTITY aboutSupport.featureName "名称">
 <!ENTITY aboutSupport.featureVersion "版本">
 <!ENTITY aboutSupport.featureId "ID">
