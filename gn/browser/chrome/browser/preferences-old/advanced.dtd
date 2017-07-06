@@ -131,13 +131,13 @@ available. -->
 
 <!ENTITY performance.label               "Mba'eaporã">
 <!ENTITY useRecommendedPerformanceSettings.label "Eipuru ñemboheko tembiapokue oje'epyréva">
-
+<!ENTITY useRecommendedPerformanceSettings.description "Ko'ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "E">
 <!ENTITY performanceSettingsLearnMore.label "Kuaave">
 <!ENTITY limitContentProcessOption.label "Tembe'y tetepy taperekoguáva">
-
+<!ENTITY limitContentProcessOption.description "Umi taperekogua tetepy mbohetapy ikatu omopu'ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu'arenda.">
 <!ENTITY limitContentProcessOption.accesskey   "l">
-
+<!ENTITY limitContentProcessOption.disabledDescription "Pe mba'eapo papapy moambue retepy ikatu oiko mba'eapoita &brandShortName; ndive añónte.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink "Eikuaápa mba'éichapa eha'ãjeýta multiproceso ijurujáva">
 <!ENTITY allowHWAccel.label              "Hardware mbopya'eha oĩmba vove jepuru">
 <!ENTITY allowHWAccel.accesskey          "r">

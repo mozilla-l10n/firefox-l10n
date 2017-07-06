@@ -104,8 +104,8 @@ available. -->
 <!ENTITY updateAuto2.accesskey           "A">
 <!ENTITY updateCheckChoose2.label        "Tekopyahu jejhechajeýva, hákatu eheja taiporavo amboguejysépa">
 <!ENTITY updateCheckChoose2.accesskey    "C">
-
-
+<!ENTITY updateManual2.label             "Ani eheka ñembohekopyahu (jerovia'ỹ)">
+<!ENTITY updateManual2.accesskey         "A">
 
 <!ENTITY updateHistory2.label            "Tembiasakue rekopyahu jehechauka…">
 <!ENTITY updateHistory2.accesskey        "p">
@@ -113,7 +113,8 @@ available. -->
 <!ENTITY useService.label                "Eipuru peteĩ mba'epytyvõrã mokõiha pegua remboguejy hag̃ua tekopyahu">
 <!ENTITY useService.accesskey            "m">
 
-
+<!ENTITY enableSearchUpdate2.label       "Jehekaha mongu'eha ñembohekopyahu ijeheguíva">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
 <!ENTITY reports.label                   "Momarandu">
 
@@ -142,14 +143,14 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "Mba'eaporã">
-
-
-
+<!ENTITY useRecommendedPerformanceSettings2.label "Eipuru ñemboheko tembiapokue oje'epyréva">
+<!ENTITY useRecommendedPerformanceSettings2.description "Ko'ã ñemoĩporã oñombojuehe hardware ha ne mohendaha apopyvusu rembiapo rehe.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "E">
 <!ENTITY performanceSettingsLearnMore.label "Kuaave">
-
-
-
-
-
+<!ENTITY limitContentProcessOption.label "Tetepy ha tembe'y mba'eapo">
+<!ENTITY limitContentProcessOption.description "Umi taperekogua tetepy mbohetapy ikatu omopu'ã apopyre oipurúvo heta tendayke, hákatu avei oipurúta hetave mandu'arenda.">
+<!ENTITY limitContentProcessOption.accesskey   "l">
+<!ENTITY limitContentProcessOption.disabledDescription "Pe mba'eapo papapy moambue retepy ikatu oiko mba'eapoita &brandShortName; ndive añónte.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Eikuaa mba'éichapa ehechajeýta mba'eapoita ijuruja jave">
 <!ENTITY allowHWAccel.label              "Hardware mbopya'eha oĩmba vove jepuru">
 <!ENTITY allowHWAccel.accesskey          "r">

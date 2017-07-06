@@ -19,7 +19,7 @@
 <!ENTITY  paneContent.title       "Tetepy">
 <!ENTITY  paneApplications.title  "Tembipuru'i">
 <!ENTITY  panePrivacy.title       "Ñemigua">
-
+<!ENTITY  paneContainers.title    "Tendayke Guerekoha">
 <!ENTITY  paneSecurity.title      "Tekorosã">
 <!ENTITY  paneAdvanced.title      "Opanungáva">
 <!-- LOCALIZATION NOTE (paneSync.title): This should match syncBrand.shortName.label in ../syncBrand.dtd -->
