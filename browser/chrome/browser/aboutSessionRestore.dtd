@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Valmista!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; on valmis käytettäväksi.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Palauta kaikki ikkunat ja välilehdet">
-<!ENTITY welcomeback2.label.restoreSome "Palauta vain valitut ikkunat ja välilehdet">
+<!ENTITY welcomeback2.restoreAll.label  "Palauta kaikki ikkunat ja välilehdet">
+<!ENTITY welcomeback2.restoreSome.label "Palauta vain haluamasi">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
