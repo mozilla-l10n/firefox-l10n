@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Kannettavan laitteen kirjanmerkit">
 <!ENTITY viewBookmarksSidebar2.label        "Näytä kirjanmerkkien sivupaneeli">
 <!ENTITY viewBookmarksToolbar.label         "Näytä kirjanmerkkipalkki">
+<!ENTITY searchBookmarks.label              "Etsi kirjanmerkeistä">
 
 <!ENTITY containersMenu.label "Luokitukset">
 
@@ -854,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Lataa lisää teemoja">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "L">
+<!ENTITY customizeMode.emptyOverflowList.description "Vedä ja pudota kohteita tänne pitääksesi ne käden ulottuvissa mutta poissa työkalupalkista…">
+<!ENTITY customizeMode.uidensity "Tiiviys">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Tavallinen">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Tavallinen">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "T">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Tiivis">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Tiivis">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "v">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Kosketusoptimoitu">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Kosketusoptimoitu">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "K">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Käytä kosketusoptimoitua tablettitilassa">
 
 <!ENTITY getUserMedia.selectCamera.label "Jaettava kamera:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
