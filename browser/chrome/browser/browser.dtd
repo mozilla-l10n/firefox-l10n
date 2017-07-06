@@ -876,7 +876,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.uidensity.menuTouch.label "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "لمس">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
-
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "استفاده از لمس برای حالت تبلت">
 
 <!ENTITY getUserMedia.selectCamera.label "دوربین جهت به‌اشتراک‌گذاری:">
 <!ENTITY getUserMedia.selectCamera.accesskey "د">
