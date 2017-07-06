@@ -873,8 +873,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "لمس">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "لمس">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "ل">
 
 
 <!ENTITY getUserMedia.selectCamera.label "دوربین جهت به‌اشتراک‌گذاری:">
