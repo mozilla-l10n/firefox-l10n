@@ -105,8 +105,9 @@
 <!ENTITY  clearOnCloseSettings.label     "Ñemboheko…">
 <!ENTITY  clearOnCloseSettings.accesskey "t">
 
+<!ENTITY  browserContainersHeader.label         "Tendayke Guerekoha">
 <!ENTITY  browserContainersLearnMore.label      "Kuaave">
-
-
+<!ENTITY  browserContainersEnabled.label        "Embojuruja tendayke guerekoha">
+<!ENTITY  browserContainersEnabled.accesskey    "n">
 <!ENTITY  browserContainersSettings.label        "Ñemboheko…">
 <!ENTITY  browserContainersSettings.accesskey    "i">

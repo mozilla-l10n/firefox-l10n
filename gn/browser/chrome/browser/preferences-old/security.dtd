@@ -11,11 +11,14 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "Ejoko tetepy kyhyjerã ha imarãkuaáva">
+<!ENTITY  enableSafeBrowsing.accesskey    "E">
 
 <!ENTITY  blockDownloads.label            "Ejoko ñemboguejy kyhyjerãva">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "Ejesareko software oiko'ỹva ha ojekuaa'ỹva">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "Oĩ'ỹva…">
 <!ENTITY  addonExceptions.accesskey     "E">
