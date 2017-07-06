@@ -39,9 +39,9 @@
 <!ENTITY  mediaDimension        "الأبعاد:">
 <!ENTITY  mediaLongdesc         "الوصف المطوّل:">
 <!ENTITY  mediaBlockImage.accesskey "ص">
-<!ENTITY  mediaSaveAs           "احفظ ك‍…">
-<!ENTITY  mediaSaveAs.accesskey "ك">
-<!ENTITY  mediaSaveAs2.accesskey "ك">
+<!ENTITY  mediaSaveAs           "احفظ باسم…">
+<!ENTITY  mediaSaveAs.accesskey "س">
+<!ENTITY  mediaSaveAs2.accesskey "س">
 <!ENTITY  mediaPreview          "معاينة الوسائط:">
 
 <!ENTITY  feedTab               "التلقيمات">
