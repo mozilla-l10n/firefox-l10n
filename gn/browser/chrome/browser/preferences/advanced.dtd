@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Pe mba'ekuaarã momarandu oñemboguéma ko ñemboheko guasúpe g̃uarã">
+
 <!ENTITY healthReportDesc.label          "Oipytyvõ chupe oikumby hag̃ua ikundahára rembiapo ha ombohasa mba'ekuaarã &vendorShortName; ndive mbaéichapa oĩhína kóva">
 <!ENTITY enableHealthReport.label        "Emomarandu mba'éichapa oĩ &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -41,8 +43,9 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "Kuaave">
 
-
-
+<!ENTITY crashReporterDesc2.label         "Marandu ñepytyvõ jejavy rehegua &vendorShortName; omoĩporã apañuãi ha ojapóta ne kundahágui hekopyta ha hekorosãva">
+<!ENTITY alwaysSubmitCrashReports.label   "Emoneĩ &brandShortName; omondóvo marandu'í jejavygua nde rérape hasypeterei">
+<!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "Kuaave">
 
 <!ENTITY networkTab.label                "Ñanduti">
@@ -59,8 +62,8 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 
 <!ENTITY siteData.label                  "Mba'ekuaarã tenda rehegua">
-
-
+<!ENTITY clearSiteData.label             "Embogue opaite mba'ekuaarã">
+<!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "Ñemboheko…">
 <!ENTITY siteDataSettings.accesskey      "i">
 <!ENTITY siteDataLearnMoreLink.label     "Kuaave">
