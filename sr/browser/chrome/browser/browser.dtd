@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Мобилне забелешке">
 <!ENTITY viewBookmarksSidebar2.label        "Прикажи у бочној палети">
 <!ENTITY viewBookmarksToolbar.label         "Прикажи траку са забелешкама">
+<!ENTITY searchBookmarks.label              "Претражи забелешке">
 
 <!ENTITY containersMenu.label "Контејнери">
 
@@ -854,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Набавите теме">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Н">
+<!ENTITY customizeMode.emptyOverflowList.description "Превуците и спустите ставке овде како бисте их држали близу али ван алатне траке…">
+<!ENTITY customizeMode.uidensity "Збијеност">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Обична">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Обична">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "О">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "К">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "На додир">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "На додир">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "Н">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Користи На додир у режиму таблета">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за дељење:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">

@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Успех!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; је спреман.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Обнови све прозоре и језичке">
-<!ENTITY welcomeback2.label.restoreSome "Обнови само оне које желим">
+<!ENTITY welcomeback2.restoreAll.label  "Обнови све прозоре &amp; језичке">
+<!ENTITY welcomeback2.restoreSome.label "Обновите само оне које желите">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
