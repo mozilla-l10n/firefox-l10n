@@ -3,7 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY addressbookWindow.title                        "Catálogo de endereços">
-<!ENTITY blankResultsPaneMessage.label                  "Esse catálogo de endereços mostra os contatos só depois de uma pesquisa">
+<!ENTITY blankResultsPaneMessage.label                  "Este catálogo de endereços mostra contatos somente após uma pesquisa">
 <!ENTITY localResultsOnlyMessage.label                  "Contatos do catálogo de endereços remotos não são mostradas até que você pesquise">
 
 <!-- File Menu -->
