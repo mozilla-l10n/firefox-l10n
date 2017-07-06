@@ -22,6 +22,7 @@
 <!ENTITY changeBlockList.accesskey      "l">
 
 <!ENTITY  doNotTrack.learnMore.label    "Ďalšie informácie">
+<!ENTITY  doNotTrack.always.label       "Vždy">
 
 <!ENTITY  history.label                 "História">
 <!ENTITY  permissions.label             "Povolenia">
