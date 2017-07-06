@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Propriedades da lista de discussão">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Exibir o menu de contexto da lista de endereços">
 <!ENTITY addressbookPicker.label            "Catálogo de endereços:">
 <!ENTITY addressbookPicker.accesskey        "t">
 <!ENTITY searchContacts.label               "Pesquisar contatos:">

@@ -464,7 +464,7 @@
 <!ENTITY imStatus.available          "Disponível">
 <!ENTITY imStatus.unavailable        "Ocupado">
 <!ENTITY imStatus.offline            "Off-line">
-<!ENTITY imStatus.showAccounts       "Contas de bate-papo…">
+<!ENTITY imStatus.showAccounts       "Mostrar contas…">
 <!ENTITY joinChatCmd.label "Entrar em uma sala de bate-papo…">
 <!ENTITY joinChatCmd.accesskey "E">
 <!ENTITY savedFiles.label "Arquivos salvos">
@@ -586,7 +586,7 @@
 <!ENTITY junkButton.tooltip "Marcar mensagens selecionadas como spam">
 <!ENTITY notJunkButton.tooltip "Marcar mensagens selecionadas como não spam">
 <!ENTITY addressBookButton.tooltip "Catálogo de endereços">
-<!ENTITY chatButton.tooltip "Exibir aba de bate-papo">
+<!ENTITY chatButton.tooltip "Mostrar a aba de bate-papo">
 <!ENTITY tagButton.tooltip "Aplicar tag em mensagens">
 <!ENTITY compactButton.tooltip "Remover as mensagens excluídas da pasta selecionada">
 <!ENTITY appmenuButton1.tooltip "Exibir o menu &brandShortName;">

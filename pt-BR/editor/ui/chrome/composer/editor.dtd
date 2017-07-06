@@ -46,7 +46,7 @@
 <!ENTITY NormalModeTab.label "Normal">
 <!ENTITY NormalMode.label "Modo de edição normal">
 <!ENTITY NormalMode.accesskey "N">
-<!ENTITY NormalMode.tooltip "Exibir bordas nas tabelas e âncoras nomeadas">
+<!ENTITY NormalMode.tooltip "Mostrar bordas nas tabelas e âncoras nomeadas">
 <!ENTITY AllTagsModeTab.label "Etiquetas HTML">
 <!ENTITY AllTagsMode.label "Tags HTML">
 <!ENTITY AllTagsMode.accesskey "a">

@@ -65,7 +65,7 @@
 <!ENTITY borderEditField.accessKey "B">
 
 <!-- These controls are in the Link Box -->
-<!ENTITY showImageLinkBorder.label "Exibir borda em imagem com link">
+<!ENTITY showImageLinkBorder.label "Mostrar borda ao redor da imagem com link">
 <!ENTITY showImageLinkBorder.accessKey "k">
 <!ENTITY LinkAdvancedEditButton.label "Edição avançada do link…">
 <!ENTITY LinkAdvancedEditButton.accessKey "l">

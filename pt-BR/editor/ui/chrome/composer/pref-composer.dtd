@@ -17,7 +17,7 @@
 <!ENTITY  preserveExisting.tooltip      "Preservar quebras de linha e formatação original da página">
 <!ENTITY  saveAssociatedFiles.label     "Salvar imagens e outros arquivos associados ao salvar páginas">
 <!ENTITY  saveAssociatedFiles.accesskey "S">
-<!ENTITY  showPublishDialog.label       "Sempre exibir a janela de publicação quando publicar páginas">
+<!ENTITY  showPublishDialog.label       "Sempre Mostrar a caixa de diálogo publicar ao publicar páginas">
 <!ENTITY  showPublishDialog.accesskey   "a">
 <!ENTITY  composerEditing.label         "Edição">
 <!ENTITY  maintainStructure.label       "Manter layout da tabela ao inserir ou excluir células">
