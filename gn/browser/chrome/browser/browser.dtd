@@ -781,7 +781,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY identity.permissions "Moneĩ">
 <!ENTITY identity.permissionsEmpty "Nome'ẽi ko tenda ñemoneĩ ha'etéva.">
-
+<!ENTITY identity.permissionsReloadHint "Ikatu hína kuatiarogue emyanyhẽjey umi moambuepyre oñemboheko hag̃ua.">
 <!-- Name for the tabs toolbar as spoken by screen readers.
      The word "toolbar" is appended automatically and should not be contained below! -->
 
@@ -856,24 +856,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ehekave Mbojeguaha">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Embosyryry ha epoi ko'ápe mba'epuru ehupytykuaa potávo hákatu ne rembipuru renda nahániri…">
+<!ENTITY customizeMode.uidensity "Tuicháva">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Ha'etéva">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Ha'etéva">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "H">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Hatãva">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Hatãva">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "H">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Jepoko">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Jepoko">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "J">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Eipuru jepoko tableta rekópe g̃uarã">
 
 <!ENTITY getUserMedia.selectCamera.label "Ta'angamýi hetápe guarãva:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -956,25 +959,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "Eikuaave DRM rehe...">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
-
-
-
-
+<!ENTITY updateAvailable.message "Embohekopyahu &brandShorterName; ipya'e ha iñemive hag̃ua.">
+<!ENTITY updateAvailable.whatsnew.label "Ehecha mba'épa ipyahuvéva.">
+<!ENTITY updateAvailable.header.message "Ipyahúva &brandShorterName; ñembohekopyahu eipurukuáva.">
+<!ENTITY updateAvailable.acceptButton.label "Mbohekopyahu ñemboguejy">
+<!ENTITY updateAvailable.acceptButton.accesskey "M">
 <!ENTITY updateAvailable.cancelButton.label "Ani ko'ág̃a">
 <!ENTITY updateAvailable.cancelButton.accesskey "A">
+<!ENTITY updateAvailable.panelUI.label "Emboguejy &brandShorterName; mbohekopyahu">
 
-
-
-
+<!ENTITY updateManual.message "Emboguejy &brandShorterName; pyahu ha reñepytyvõta emohendaha hag̃ua.">
+<!ENTITY updateManual.whatsnew.label "Ehecha mba'épa ipyahuvéva.">
+<!ENTITY updateManual.header.message "&brandShorterName; ndaikatúi embohekopyahu osẽramovévape.">
 <!ENTITY updateManual.acceptButton.label "Emboguejy &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "E">
 <!ENTITY updateManual.cancelButton.label "Ani ko'ág̃a">
 <!ENTITY updateManual.cancelButton.accesskey "A">
+<!ENTITY updateManual.panelUI.label "Emboguejy &brandShorterName; osẽramovéva.">
 
-
-
-
-
+<!ENTITY updateRestart.message "Emoñepyrũjey rire &brandShorterName; omboguevijeýta opaite tendayke ijurujáva ha ovetãnguéra avei.">
+<!ENTITY updateRestart.header.message2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
+<!ENTITY updateRestart.acceptButton.label "Moñepyrũ ha mboguevijey">
+<!ENTITY updateRestart.acceptButton.accesskey "M">
 <!ENTITY updateRestart.cancelButton.label "Ani ko'ág̃a">
 <!ENTITY updateRestart.cancelButton.accesskey "A">
 <!ENTITY updateRestart.panelUI.label2 "Emoñepyrũjey embohekopyahu hag̃ua &brandShorterName;">
