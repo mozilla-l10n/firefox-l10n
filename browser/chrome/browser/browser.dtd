@@ -247,7 +247,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "মোবাইলের বুকমার্ক">
 <!ENTITY viewBookmarksSidebar2.label        "বুকমার্ক সাইডবার প্রদর্শন">
 <!ENTITY viewBookmarksToolbar.label         "বুকমার্ক টুলবার প্রদর্শন">
-
+<!ENTITY searchBookmarks.label              "বুকমার্ক অনুসন্ধান">
 
 <!ENTITY containersMenu.label "কন্টেইনার">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "সাম্প্রতিক ইতিহাস অপসারণ…">
 <!ENTITY appMenuHistory.restoreSession.label "পূর্ববর্তী সেশন পুনরুদ্ধার">
 <!ENTITY appMenuHistory.viewSidebar.label "ইতিহাস সাইডবার প্রদর্শন">
-
+<!ENTITY appMenuHelp.label "সাহায্য">
 <!ENTITY appMenuHelp.tooltip "সহায়তা মেনু খুলুন">
 
 <!ENTITY appMenuRemoteTabs.label "সিঙ্ককৃত ট্যাব">
@@ -389,7 +389,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "ওভারফ্লো মেনুতে যোগ করুন">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "M">
 <!ENTITY customizeMenu.moveToToolbar.label "টুলবারে স্থানান্তর করুন o">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "o">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -413,6 +414,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
 
+<!ENTITY moreMenu.label "আরও">
+
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "অনুসন্ধান বা ঠিকানা দিন">
 <!ENTITY urlbar.accesskey             "d">
@@ -428,11 +431,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "হ্যাঁ">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "পরামর্শ:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "পরিবর্তন অপশন…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "পরিবর্তন পছন্দসমূহ…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -466,6 +471,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "অনুসন্ধান">
+<!ENTITY searchIcon.tooltip           "অনুসন্ধান">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -549,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "L">
 <!ENTITY bookmarkThisFrameCmd.label      "এই ফ্রেম বুকমার্ক করা হবে">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "URL অনুলিপি করুন">
 <!ENTITY emailPageCmd.label           "লিঙ্ক ইমেইল করুন... E">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "পাতা নতুনভাবে সংরক্ষণ…">
@@ -615,8 +622,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "d">
 <!ENTITY mediaPlaybackRate050x2.label "Slow (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "স্বাভাবিক">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Fast (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "F">
 <!ENTITY mediaPlaybackRate150x2.label "Faster (1.5×)">
@@ -676,7 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "সাইডবার বন্ধ করুন">
-
+<!ENTITY sidebarMenuClose.label         "সাইডবার বন্ধ করুন">
 
 <!ENTITY quitApplicationCmdWin2.label       "প্রস্থান">
 <!ENTITY quitApplicationCmdWin2.accesskey   "x">
@@ -686,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "প্রস্থান"> 
 <!ENTITY quitApplicationCmd.accesskey   "Q">
 <!ENTITY quitApplicationCmdMac2.label   "&brandShorterName; থেকে প্রস্থান">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "বন্ধ">  
 <!ENTITY closeCmd.key                   "W">  
@@ -730,6 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "অভিধান যোগ…">
 <!ENTITY spellAddDictionaries.accesskey "A">
 
+<!ENTITY editBookmark.done.label                     "সম্পন্ন">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "নিরাপদ সংযোগ">
@@ -737,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "এই পাতা আপনার কম্পিউটারে জমা হয়েছে।">
 <!ENTITY identity.connectionVerified2 "আপনি নিরাপদে এই সাইটে সংযুক্ত, যার মালিক:">
 <!ENTITY identity.connectionInternal "এটি একটি সুরক্ষিত &brandShortName; পাতা।">
-
+<!ENTITY identity.extensionPage "এই পাতাটি কোন এক্সটেনশন থেকে লোড হয়েছে।">
 <!ENTITY identity.insecureLoginForms2 "এই পাতায় লগইন করতে যে তথ্য দিয়েছেন তা চুরি হতে পারে।">
 <!-- Strings for connection state warnings. -->
 
@@ -836,9 +844,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "আরো টুলস চান?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "হাজারেরও বেশি অ্যাড-অন থেকে পছন্দ করুন">
 <!ENTITY customizeMode.restoreDefaults "ডিফল্ট মান পুনরায় স্থাপন করুন">
-
+<!ENTITY customizeMode.done "সম্পন্ন">
 <!ENTITY customizeMode.titlebar "শিরোনাম বার">
-
+<!ENTITY customizeMode.toolbars2 "টুলবার">
 <!ENTITY customizeMode.lwthemes "থিম">
 <!ENTITY customizeMode.lwthemes.myThemes "আমার থিমগুলি">
 <!ENTITY customizeMode.lwthemes.recommended "সুপারিশকৃত">
@@ -847,7 +855,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "আরও থিম পান">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 
-
+<!ENTITY customizeMode.uidensity "ঘনত্ব">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
 
