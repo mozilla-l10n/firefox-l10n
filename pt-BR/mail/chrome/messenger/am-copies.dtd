@@ -18,7 +18,7 @@
 <!ENTITY bccAddress.label "Cco para estes endereços:">
 <!ENTITY bccAddress.accesskey "C">
 <!ENTITY bccAddressList.placeholder "Separe endereços com vírgulas">
-<!ENTITY saveMessageDlg.label "Notificar ao salvar mensagens">
+<!ENTITY saveMessageDlg.label "Mostrar caixa de diálogo de confirmação quando salvar mensagens">
 <!ENTITY saveMessageDlg.accesskey "N">
 <!-- LOCALIZATION NOTE (sentFolderOn.label): OK to translate this, bug #57440 -->
 <!ENTITY sentFolderOn.label "Pasta “Enviados” da conta:">

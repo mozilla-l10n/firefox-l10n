@@ -93,7 +93,7 @@
 <!ENTITY viewToolbarsMenu.accesskey                     "B">
 <!ENTITY menubarCmd.label                               "Barra de menus">
 <!ENTITY menubarCmd.accesskey                           "m">
-<!ENTITY showAbToolbarCmd.label                         "Padrão">
+<!ENTITY showAbToolbarCmd.label                         "Barra de ferramentas do catálogo de endereços">
 <!ENTITY showAbToolbarCmd.accesskey                     "a">
 <!ENTITY showTaskbarCmd.label                           "Barra de status">
 <!ENTITY showTaskbarCmd.accesskey                       "s">
@@ -105,7 +105,7 @@
 <!ENTITY showDirectoryPane.accesskey                    "P">
 <!ENTITY showContactPane2.label                         "Painel do contato">
 <!ENTITY showContactPane2.accesskey                     "a">
-<!ENTITY menu_ShowNameAs.label                          "Exibir nome como">
+<!ENTITY menu_ShowNameAs.label                          "Mostrar nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "n">
 <!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
 because displayed names don't have the comma in between. -->

@@ -130,7 +130,7 @@
 <!-- View Menu -->
 <!ENTITY menubarCmd.label "Barra de menus">
 <!ENTITY menubarCmd.accesskey "m">
-<!ENTITY showMessengerToolbarCmd.label "Padrão">
+<!ENTITY showMessengerToolbarCmd.label "Barra de ferramentas de correio">
 <!ENTITY showMessengerToolbarCmd.accesskey "a">
 <!ENTITY customizeToolbar.label "Personalizar…">
 <!ENTITY customizeToolbar.accesskey "P">
