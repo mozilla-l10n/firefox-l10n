@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Vlastnosti rozosielacieho zoznamu">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Zobrazí kontextovú ponuku adresára">
 <!ENTITY addressbookPicker.label            "Adresár:">
 <!ENTITY addressbookPicker.accesskey        "A">
 <!ENTITY searchContacts.label               "Vyhľadávať v kontaktoch:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "U">
 <!ENTITY editMailingListContext.label       "Upraviť zoznam">
 <!ENTITY editMailingListContext.accesskey   "U">
+
+<!ENTITY newContactAbContext.label          "Nový kontakt">
+<!ENTITY newContactAbContext.accesskey      "t">
+<!ENTITY newListAbContext.label             "Nový zoznam">
+<!ENTITY newListAbContext.accesskey         "z">
 
 <!ENTITY toButton.label                     "Pridať do Komu:">
 <!ENTITY toButton.accesskey                 "K">
