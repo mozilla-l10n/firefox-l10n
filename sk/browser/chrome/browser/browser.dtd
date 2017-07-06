@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Záložky mobilného Firefoxu">
 <!ENTITY viewBookmarksSidebar2.label        "Zobraziť bočný panel Záložky">
 <!ENTITY viewBookmarksToolbar.label         "Zobraziť panel nástrojov Záložky">
+<!ENTITY searchBookmarks.label              "Hľadať v záložkách">
 
 <!ENTITY containersMenu.label "Kontajnery">
 
@@ -854,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "S">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Získať ďalšie témy">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "Z">
+<!ENTITY customizeMode.emptyOverflowList.description "Sem môžete presunúť položky, ktoré chcete mať poruke, ale nie priamo v paneli nástrojov…">
+<!ENTITY customizeMode.uidensity "Hustota">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normálna">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normálna hustota">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktná">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktná hustota">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Pre dotykové zariadenia">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Hustota pre dotykové zariadenia">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "V režime tabletu použiť hustotu pre dotykové zariadenia">
 
 <!ENTITY getUserMedia.selectCamera.label "Zdieľať kameru:">
 <!ENTITY getUserMedia.selectCamera.accesskey "k">
