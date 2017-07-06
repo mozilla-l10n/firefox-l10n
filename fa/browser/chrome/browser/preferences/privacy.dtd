@@ -4,7 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "محافظت در برابر ردگیری">
 
-
+<!ENTITY  trackingProtection2.radioGroupLabel  "استفاده از محافظ دنبال کردن برای مسدود کردن دنبال کنندگان ناشناس">
 <!ENTITY  trackingProtectionAlways.label       "همیشه">
 <!ENTITY  trackingProtectionAlways.accesskey   "م">
 <!ENTITY  trackingProtectionPrivate.label      "تنها در پنجره‌های ناشناس">
