@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Seurannan suojaus">
+<!ENTITY  trackingProtection2.description      "Seuranta on selaustietojen keräämistä useiden sivustojen yli. Seurantaa voidaan käyttää profilointiin ja näyttämään sisältöä selaus- ja henkilötietojesi perusteella.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Käytä seurannan suojausta estämään tunnettuja seurantamenetelmiä">
 <!ENTITY  trackingProtectionAlways.label       "Aina">
 <!ENTITY  trackingProtectionAlways.accesskey   "n">
 <!ENTITY  trackingProtectionPrivate.label      "Vain yksityisen selaamisen ikkunoissa">
@@ -17,11 +19,16 @@
 <!ENTITY trackingProtectionPBM5.label         "Käytä seurannan suojausta yksityisen selaamisen ikkunoissa">
 <!ENTITY trackingProtectionPBM5.accesskey     "y">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Käytä seurannan suojausta yksityisessä selauksessa estämään tunnettuja seurantamenetelmiä">
+<!ENTITY trackingProtectionPBM6.accesskey     "m">
 <!ENTITY trackingProtectionPBMLearnMore.label "Lue lisää">
 <!ENTITY changeBlockList.label          "Muuta estolistaa">
 <!ENTITY changeBlockList.accesskey      "M">
 
+<!ENTITY  doNotTrack.description        "Lähetä sivustoille Älä seuraa -signaali, että et halua sinua seurattavan">
 <!ENTITY  doNotTrack.learnMore.label    "Lue lisää">
+<!ENTITY  doNotTrack.default.label      "Vain käytettäessä seurannan suojausta">
+<!ENTITY  doNotTrack.always.label       "Aina">
 
 <!ENTITY  history.label                 "Historiatiedot">
 <!ENTITY  permissions.label             "Oikeudet">
