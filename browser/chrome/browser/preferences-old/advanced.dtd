@@ -135,9 +135,9 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings.accesskey "o">
 <!ENTITY performanceSettingsLearnMore.label "Barrachd fiosrachaidh">
 <!ENTITY limitContentProcessOption.label "Crìoch pròiseasadh na susbaint">
-
+<!ENTITY limitContentProcessOption.description "Ma cheadaicheas tu pròiseasan susbaint a bharrachd, dh﻿﻿’fhaoidte gum faigh thu dèanadas nas fhearr ach feumaidh e barrachd cuimhne aig an aon àm.">
 <!ENTITY limitContentProcessOption.accesskey   "n">
-
-
+<!ENTITY limitContentProcessOption.disabledDescription "Chan urrainn dhut àireamh nam pròiseasan susbaint atharrachadh ach ann am &brandShortName; ioma-phròiseasach.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Mar a dh’fhiosraicheas tu a bheil ioma-phròiseasadh an comas">
 <!ENTITY allowHWAccel.label              "Cleachd luathachadh a' bhathar-bhog ma bhios e ri làimh">
 <!ENTITY allowHWAccel.accesskey          "m">

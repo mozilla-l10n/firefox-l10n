@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Comharran-lìn mobile">
 <!ENTITY viewBookmarksSidebar2.label        "Seall bàr-taoibh nan comharra-lìn">
 <!ENTITY viewBookmarksToolbar.label         "Seall bàr nan comharra-lìn">
-
+<!ENTITY searchBookmarks.label              "Lorg sna comharran-lìn">
 
 <!ENTITY containersMenu.label "Soithichean">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "l">
 <!ENTITY mediaPlaybackRate050x2.label "Slaodach (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "S">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Àbhaisteach">
+<!ENTITY mediaPlaybackRate100x2.accesskey "b">
 <!ENTITY mediaPlaybackRate125x2.label "Luath (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "u">
 <!ENTITY mediaPlaybackRate150x2.label "Nas luaithe (1.5×)">
@@ -856,24 +856,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Faigh barrachd ùrlaran">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Slaod is leig às rudan an-seo airson ’s gum bi iad ri do làimh ach chan ann air a’ bhàr-inneal agad...">
+<!ENTITY customizeMode.uidensity "Dùmhlachd">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Àbhaisteach">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "À&amp;bhaisteach">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "b">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Dùmhail">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Dùmhail">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "m">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Suathadh">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Suathadh">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "t">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Cleachd suathadh airson modh nam tablaid">
 
 <!ENTITY getUserMedia.selectCamera.label "An camara a thèid a cho-roinneadh:">
 <!ENTITY getUserMedia.selectCamera.accesskey "c">

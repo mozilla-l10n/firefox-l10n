@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "an eachdraidh agam">
 <!ENTITY engine.history.accesskey   "r">
-
-
+<!ENTITY engine.logins.label        "Clàraidhean a-steach">
+<!ENTITY engine.logins.accesskey    "l">
 <!ENTITY engine.prefs.label         "na roghainnean agam">
 <!ENTITY engine.prefs.accesskey     "n">
 <!ENTITY engine.addons.label        "na tuilleadain">

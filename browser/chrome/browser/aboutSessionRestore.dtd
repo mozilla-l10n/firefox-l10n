@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Soirbheas!">
 <!ENTITY welcomeback2.pageInfo1     "Tha &brandShortName; deiseil is deònach.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Aisig gach uinneag ⁊ taba">
 <!ENTITY welcomeback2.restoreSome.label "Na aisig ach an fheadhainn a tha a dhìth ort">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
