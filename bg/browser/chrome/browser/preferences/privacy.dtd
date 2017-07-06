@@ -25,6 +25,10 @@
 <!ENTITY changeBlockList.label          "Промяна списъка за блокиране">
 <!ENTITY changeBlockList.accesskey      "б">
 
+<!ENTITY  doNotTrack.description        "Указване на сайтовете, че не желаете да бъдете проследявани">
+<!ENTITY  doNotTrack.learnMore.label    "Научете повече">
+<!ENTITY  doNotTrack.default.label      "Само при използване на Защита от проследяване">
+<!ENTITY  doNotTrack.always.label       "Винаги">
 
 <!ENTITY  history.label                 "История">
 <!ENTITY  permissions.label             "Права">
