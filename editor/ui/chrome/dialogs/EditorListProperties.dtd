@@ -11,7 +11,7 @@
 <!ENTITY startingNumber.label "Iniciar a:">
 <!ENTITY startingNumber.accessKey "I">
 <!ENTITY none.value "Nenhum">
-<!ENTITY bulletList.value "Lista de marcas (não numerada)">
+<!ENTITY bulletList.value "Lista com marcas (não numerada)">
 <!ENTITY numberList.value "Lista numerada">
 <!ENTITY definitionList.value "Lista de definições">
 <!ENTITY changeEntireListRadio.label "Alterar toda a lista">
