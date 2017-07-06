@@ -20,9 +20,9 @@
 <!ENTITY printerInput.accesskey "N">
 
 <!ENTITY printrangeGroup.label "মুদ্রণের পরিসীমা">
-<!ENTITY allpagesRadio.label "সব পৃষ্ঠা (A)">
+<!ENTITY allpagesRadio.label "সব পাতা">
 <!ENTITY allpagesRadio.accesskey "A">
-<!ENTITY rangeRadio.label  "পৃষ্ঠা (P)">
+<!ENTITY rangeRadio.label  "পাতা">
 <!ENTITY rangeRadio.accesskey  "P">
 <!ENTITY frompageInput.label  "শুরু (r)">
 <!ENTITY frompageInput.accesskey  "r">

@@ -8,11 +8,11 @@
 
 <!ENTITY accessibility.label             "প্রবেশযোগ্যতা">
 
-<!ENTITY useCursorNavigation.label       "বিভিন্ন পৃষ্ঠার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কী ব্যবহার করা হবে c">
+<!ENTITY useCursorNavigation.label       "বিভিন্ন পাতার মধ্যে চলাচলের জন্য সর্বদা কার্সার-কী ব্যবহার করা হবে">
 <!ENTITY useCursorNavigation.accesskey   "c">
 <!ENTITY searchOnStartTyping.label       "টাইপ আরম্ভ করলে তৎক্ষণাৎ অনুসন্ধান শুরু করা হবে">
 <!ENTITY searchOnStartTyping.accesskey   "x">
-<!ENTITY blockAutoReload.label           "ওয়েবসাইট কোনো পৃষ্ঠা রিলোড বা রিডিরেক্ট করার চেষ্টা করলে সতর্ক করা হবে">
+<!ENTITY blockAutoReload.label           "ওয়েবসাইট কোনো পাতা রিলোড বা রিডিরেক্ট করার চেষ্টা করলে সতর্ক করা হবে">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "প্রয়োজনে একটি টাচ kকিবোর্ড প্রদর্শন">
 <!ENTITY useOnScreenKeyboard.accesskey   "k">
