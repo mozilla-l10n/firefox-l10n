@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "স্ক্রিনশট">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "রানটাইম তথ্য">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "মনিটর">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "সাইট সংক্রান্ত পছন্দসমূহ">

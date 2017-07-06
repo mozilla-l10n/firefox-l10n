@@ -6,7 +6,7 @@
 <!ENTITY  window.width                    "38em">
 <!ENTITY  window.macWidth                 "41em">
 
-<!ENTITY  overrideDefaultPageColors.label        "উপরে নির্বাচিত মানের পরিবর্তে, পৃষ্ঠাগুলো নিজস্ব রং নির্বাচন করতে পারবে:">
+<!ENTITY  overrideDefaultPageColors.label        "উপরে নির্বাচিত মানের পরিবর্তে, পাতাগুলো নিজস্ব রং নির্বাচন করতে পারবে:">
 <!ENTITY  overrideDefaultPageColors.accesskey    "O">
 
 <!ENTITY  overrideDefaultPageColors.always.label "সর্বদা">

@@ -15,10 +15,10 @@
 <!ENTITY safeb.palm.notdeceptive.accesskey "d">
 <!ENTITY safeb.palm.reportPage.label "এই পেজটি কেন ব্লক করা হয়েছিলো?">
 
-<!ENTITY safeb.blocked.malwarePage.title "আক্রমণ পৃষ্ঠা প্রতিবেদন করা হয়েছে!">
+<!ENTITY safeb.blocked.malwarePage.title "রিপোর্টকৃত আক্রমনকারী পাতা!">
 <!-- Localization note (safeb.blocked.malwarePage.shortDesc) - Please don't translate the contents of the <span id="malware_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->
 <!ENTITY safeb.blocked.malwarePage.shortDesc "<span id='malware_sitename'/> এ ওয়েবসাইটটি আক্রমণকারী হিসেবে রিপোর্ট করা হয়েছে এবং আপনার নিরাপত্তা পছন্দ অনুযায়ী ব্লক করা হয়েছে।">
-<!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্রমণকারী পৃষ্ঠা তথ্য চুরি করতে প্রোগ্রাম ইন্সটল করার চেষ্টা করে, অন্য কম্পিউটারকে আক্রমন করতে আপনার কম্পিটার ব্যবহার করে, বা আপনার সিস্টেম ধ্বংস করে।</p><p>কিছু আক্রমণকারী পৃষ্ঠা ইচ্ছাকৃত ভাবে ক্ষতিকর সফটওয়্যার বিতরণ করে, কিন্তু অনেকে না বুঝেই এগুলোকে কাজ করতে অনুমোদন দেয়।</p>">
+<!ENTITY safeb.blocked.malwarePage.longDesc "<p>আক্রমণকারী পাতা তথ্য চুরি করতে প্রোগ্রাম ইন্সটল করার চেষ্টা করে, অন্য কম্পিউটারকে আক্রমন করতে আপনার কম্পিটার ব্যবহার করে, বা আপনার সিস্টেম ধ্বংস করে।</p><p>কিছু আক্রমণকারী পাতা ইচ্ছাকৃত ভাবে ক্ষতিকর সফটওয়্যার বিতরণ করে, কিন্তু অনেকে না বুঝেই এগুলোকে কাজ করতে অনুমোদন দেয়।</p>">
 
 <!ENTITY safeb.blocked.unwantedPage.title "সন্দেহভাজন অবাঞ্ছিত সফটওয়্যার সাইট!">
 <!-- Localization note (safeb.blocked.unwantedPage.shortDesc) - Please don't translate the contents of the <span id="unwanted_sitename"/> tag.  It will be replaced at runtime with a domain name (e.g. www.badsite.com) -->

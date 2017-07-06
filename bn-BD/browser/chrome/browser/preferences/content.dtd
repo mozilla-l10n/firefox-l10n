@@ -32,7 +32,7 @@
 
 
 <!ENTITY languages.label              "ভাষা">
-<!ENTITY chooseLanguage.label         "পৃষ্ঠা প্রদর্শনের জন্য পছন্দসই ভাষা নির্বাচন">
+<!ENTITY chooseLanguage.label         "পাতা প্রদর্শনে পছন্দসই ভাষা নির্বাচন করুন">
 <!ENTITY chooseButton.label           "নির্বাচন… o">
 <!ENTITY chooseButton.accesskey       "o">
 

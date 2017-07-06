@@ -61,7 +61,7 @@
 <!ENTITY  useDefaultFontSerif.label               "সেরিফ">
 <!ENTITY  useDefaultFontSansSerif.label           "সাণ্স শেরিফ">
 
-<!ENTITY  allowPagesToUseOwn.label                "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পৃষ্ঠাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে">
+<!ENTITY  allowPagesToUseOwn.label                "উপরে নির্বাচিত ফন্ট উপেক্ষা করে, পাতাগুলো নিজস্ব ফন্ট ব্যবহার করতে পারবে">
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "লিগ্যাসি কন্টেটের জন্য ক্যারেক্টার এনকোডিং">

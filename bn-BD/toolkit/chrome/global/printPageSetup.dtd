@@ -4,7 +4,7 @@
 <!-- extracted from printjoboptions.xul -->
 
 
-<!ENTITY printSetup.title    "পৃষ্ঠার সেটআপ">
+<!ENTITY printSetup.title    "পাতার সেটআপ">
 
 <!ENTITY basic.tab           "বিন্যাস ও অপশন">
 
@@ -20,7 +20,7 @@
 <!ENTITY scale.accesskey     "S">
 <!ENTITY scalePercent        "&#037;">
 
-<!ENTITY shrinkToFit.label   "পৃষ্ঠার প্রস্থের সাথে মানানসই করার জন্য সংকোচন করা হবে (W)">
+<!ENTITY shrinkToFit.label   "পাতার প্রস্থের সাথে মানানসই করার জন্য সংকোচন করা হবে">
 <!ENTITY shrinkToFit.accesskey "W">
 
 <!ENTITY optionsGroup.label  "অপশন">
@@ -57,8 +57,8 @@
 <!ENTITY hfTitle             "শিরোনাম">
 <!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "তারিখ/সময়">
-<!ENTITY hfPage              "পৃষ্ঠা #">
-<!ENTITY hfPageAndTotal      "পৃষ্ঠা # সর্বমোট পৃষ্ঠা #">
+<!ENTITY hfPage              "পাতা #">
+<!ENTITY hfPageAndTotal      "পাতা # সর্বমোট পাতা #">
 <!ENTITY hfBlank             "--ফাঁকা--">
 <!ENTITY hfCustom            "স্বনির্ধারিত…">
 
