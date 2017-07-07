@@ -25,6 +25,7 @@
 <!ENTITY changeBlockList.label          "Breyta lokunarlista">
 <!ENTITY changeBlockList.accesskey      "B">
 
+<!ENTITY  doNotTrack.description        "Senda vefsvæðum “Do Not Track” merki um að þú viljir ekki láta fylgjast með þér">
 <!ENTITY  doNotTrack.learnMore.label    "Fræðast meira">
 <!ENTITY  doNotTrack.default.label      "Aðeins þegar notað er vörn gegn gagnasöfnun">
 <!ENTITY  doNotTrack.always.label       "Alltaf">
