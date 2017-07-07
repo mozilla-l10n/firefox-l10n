@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "M">
 <!ENTITY customizeMode.emptyOverflowList.description "Sleep items hiernaartoe om ze binnen handbereik maar buiten uw werkbalk te houden…">
 <!ENTITY customizeMode.uidensity "Dichtheid">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normaal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normaal">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Compact">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Touch">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Touch">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Pagina-acties">
 
-<!ENTITY sendToDevice.label "Verzenden naar apparaat…">
+<!ENTITY sendToDevice.label2 "Verzenden naar apparaat">
 <!ENTITY sendToDevice.viewTitle "Verzenden naar apparaat">
 <!ENTITY sendToDevice.fxaRequired.label "Vereist">
 <!ENTITY sendToDevice.noDevices.label "Geen apparaten beschikbaar">
