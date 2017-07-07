@@ -34,17 +34,17 @@ available. -->
 <!ENTITY healthReportDesc.label          "আপনার ব্রাউজারের স্বাস্থ্য সম্পর্কে আপনাকে ব্রাউজারের কার্যকারিতা বুঝতে সহায়তা করে এবং &vendorShortName; এর সাথে তথ্যাদি শেয়ার করে">
 <!ENTITY enableHealthReport.label        "&brandShortName; স্বাস্থ্য প্রতিবেদন সক্রিয় করা হবে">
 <!ENTITY enableHealthReport.accesskey    "R">
-
+<!ENTITY healthReportLearnMore.label     "আরও জানুন">
 
 <!ENTITY telemetryDesc.label             "&brandShortName;-কে আরও ভাল করে তুলতে আমাদের সাহায্য করার জন্য আপনার ব্রাউজারের কর্মক্ষমতা, ব্যবহার, হার্ডওয়্যার এবং স্বনির্ধারণ সম্পর্কিত তথ্য &vendorShortName;-কে জানায়">
 <!ENTITY enableTelemetryData.label       "বাড়তি ডাটা শেয়ার করুন (যেমন টেলিমেট্রি)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "আরও জানুন">
 
 <!ENTITY crashReporterDesc2.label         "ক্র্যাশ প্রতিবেদনগুলি &vendorShortName; কে সাহায্য করে; সমস্যাগুলি ঠিক করুন এবং আপনার ব্রাউজার আরো স্থিতিশীল এবং নিরাপদ করুন">
 <!ENTITY alwaysSubmitCrashReports.label   "আপনার backlogged জমে থাকা ক্র্যাশ রিপোর্ট প্রেরণ করার জন্যে &brandShortName; কে অনুমতি দিন">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
-
+<!ENTITY crashReporterLearnMore.label     "আরও জানুন">
 
 <!ENTITY networkTab.label                "নেটওয়ার্ক">
 
@@ -64,7 +64,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "l">
 <!ENTITY siteDataSettings.label          "সেটিং">
 <!ENTITY siteDataSettings.accesskey      "i">
-
+<!ENTITY siteDataLearnMoreLink.label     "আরও জানুন">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -127,10 +127,11 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "কার্যকারিতা">
 
 
 
-
+<!ENTITY performanceSettingsLearnMore.label "আরও জানুন">
 
 
 

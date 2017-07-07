@@ -10,8 +10,8 @@
 <!ENTITY engine.tabs.accesskey      "T">
 <!ENTITY engine.history.label       "ইতিহাস">
 <!ENTITY engine.history.accesskey   "r">
-
-
+<!ENTITY engine.logins.label        "লগইন">
+<!ENTITY engine.logins.accesskey    "L">
 <!ENTITY engine.prefs.label         "পছন্দসমূহ">
 <!ENTITY engine.prefs.accesskey     "s">
 <!ENTITY engine.addons.label        "অ্যাড-অন">
