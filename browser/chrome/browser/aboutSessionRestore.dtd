@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "成功！">
 <!ENTITY welcomeback2.pageInfo1     "已經準備好可以使用 &brandShortName;。">
 
-<!ENTITY welcomeback2.label.restoreAll  "還原所有視窗與分頁">
-<!ENTITY welcomeback2.label.restoreSome "只還原您想要的視窗與分頁">
+<!ENTITY welcomeback2.restoreAll.label  "還原所有視窗與分頁">
+<!ENTITY welcomeback2.restoreSome.label "僅還原想要的項目">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
