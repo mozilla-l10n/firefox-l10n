@@ -15,7 +15,7 @@
 
 <!ENTITY tracking.label                 "Gagnasöfnun">
 <!ENTITY trackingProtectionPBM5.label         "Nota vörn gegn gagnasöfnun í huliðsgluggum">
-<!ENTITY trackingProtectionPBM5.accesskey     "ö">
+<!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Fræðast meira">
 <!ENTITY changeBlockList.label          "Breyta lokunarlista">
 <!ENTITY changeBlockList.accesskey      "B">
