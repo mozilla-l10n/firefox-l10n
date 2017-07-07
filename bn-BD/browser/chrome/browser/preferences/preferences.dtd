@@ -13,14 +13,16 @@
 <!ENTITY  prefWinMinSize.styleMac       "width: 50em; min-height: 45em;">
 <!ENTITY  prefWinMinSize.styleGNOME     "width: 50em; min-height: 45em;">
 
+<!ENTITY  paneSearchResults.title       "অনুসন্ধানের ফলাফল">
 <!ENTITY  paneGeneral.title             "সাধারণ">
-
-
+<!ENTITY  paneFilesApplications.title   "ফাইল ও অ্যাপ্লিকেশন">
+<!ENTITY  panePrivacySecurity.title     "গোপনীয়তা ও নিরাপত্তা">
 <!ENTITY  paneContainers.title          "কন্টেইনার ট্যাব">
-
+<!ENTITY  paneUpdates.title             "হালনাগাদ">
 <!-- LOCALIZATION NOTE (paneSync1.title): This should match syncBrand.fxAccount.label in ../syncBrand.dtd -->
 
 <!ENTITY  paneSync1.title          "Firefox Account">
 
+<!ENTITY  helpButton2.label        "&brandShortName; সাপোর্ট">
 
 <!ENTITY  searchInput.label        "অনুসন্ধান">

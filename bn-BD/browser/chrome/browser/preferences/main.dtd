@@ -4,7 +4,8 @@
 
 <!ENTITY startup.label             "স্টার্টআপ">
 
-
+<!ENTITY startupPage2.label        "যখন &brandShortName; শুরু হবে">
+<!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "আপনার হোমপেজ দেখান">
 <!ENTITY startupBlankPage.label    "ফাঁকা পাতা দেখাও">
 <!ENTITY startupPrevSession.label  "শেষ সময় থেকে আপনার উইন্ডো এবং ট্যাব প্রদর্শন করা হবে">
@@ -40,6 +41,6 @@
 <!ENTITY separateProfileMode.label        "অনুমতি দিন &brandShortName; এবং ফায়ারফক্স একই সময়ে চালানোর জন্য">
 <!ENTITY useFirefoxSync.label             "টিপ: এটি পৃথক প্রোফাইল ব্যাবহার করে। তাদের মধ্যে তথ্য শেয়ার করার জন্য সিঙ্ক ব্যবহার করুন।">
 <!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; এ সাইন ইন করুন…">
-
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; এর পছন্দসমূহ খুলুন">
 
 <!ENTITY e10sEnabled.label                "মাল্টি-প্রসেস সক্রিয় &brandShortName;">

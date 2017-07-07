@@ -20,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "ফন্ট এবং রং">
 
-
-
-
+<!ENTITY  defaultFont2.label          "ডিফল্ট ফন্ট">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "আকার">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "A উচ্চপর্যায়ের...">
 <!ENTITY  advancedFonts.accesskey     "A">
