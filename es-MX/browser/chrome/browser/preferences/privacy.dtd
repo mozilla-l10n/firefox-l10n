@@ -18,10 +18,13 @@
 <!ENTITY trackingProtectionPBM5.label         "Usar protección de rastreo en Ventanas Privadas">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Saber más">
 <!ENTITY changeBlockList.label          "Cambiar lista de bloqueos">
 <!ENTITY changeBlockList.accesskey      "C">
 
+<!ENTITY  doNotTrack.learnMore.label    "Aprender más">
+<!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
 <!ENTITY  permissions.label             "Permisos">
