@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "¡Hecho!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; está listo para ser usado.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restaurar todas las ventanas y pestañas">
-<!ENTITY welcomeback2.label.restoreSome "Restaurar solo algunas">
+<!ENTITY welcomeback2.restoreAll.label  "Restaurar todas las ventanas y pestañas">
+<!ENTITY welcomeback2.restoreSome.label "Restaurar solo las que quieres">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
