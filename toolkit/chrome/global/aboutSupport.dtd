@@ -120,6 +120,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallTID "TID">
 <!ENTITY aboutSupport.sandboxSyscallProcType "ప్రాసెస్ రకం">
 <!ENTITY aboutSupport.sandboxSyscallNumber "సిస్‌కాల్">
+<!ENTITY aboutSupport.sandboxSyscallArgs "చర్చలు">
 
 <!ENTITY aboutSupport.safeModeTitle "సేఫ్ మోడ్ ప్రయత్నించండి">
 <!ENTITY aboutSupport.restartInSafeMode.label "పొడిగింతలను అచేతనించి పునఃప్రారంభించు…">

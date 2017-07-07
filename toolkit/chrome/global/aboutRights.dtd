@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "హక్కులు గురించి">
-<!ENTITY rights.intro-header    "మీ హక్కుల గురించి">
+<!ENTITY rights.title "మీ హక్కుల గురించి">
 <!ENTITY rights.intro "ప్రపంచంలో అన్ని ప్రాంతాలనుండి వేల మంది సముదాయముచే తయారు చేయబడిన &brandFullName; ఒక స్వేచ్ఛామూలాలు ఉచితంగా కల సాఫ్ట్‌వేర్. మీరు తెలుసుకోవాలిసిన కొన్ని సంగతులు:">
 
 <!-- Note on pointa / pointb / pointc form:
