@@ -56,8 +56,8 @@
 <!ENTITY  versioninfo.waiting             "Dit kan enkele minuten duren…">
 
 <!ENTITY  installerrors.wizard.title      "Problemen bij het installeren van updates">
-<!ENTITY  installerrors.intro.label       "&brandShortName; had problemen bij het bijwerken van 
-                                           sommige van uw add-ons.">
+<!ENTITY  installerrors.intro.label       "&brandShortName; had problemen bij het bijwerken van
+                                           een of meer add-ons.">
 
 <!-- general strings used by several of the finish pages -->
 <!ENTITY  clickFinish.label               "Klik op Voltooien om door te gaan met het starten van &brandShortName;.">
