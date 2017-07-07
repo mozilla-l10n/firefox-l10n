@@ -14,8 +14,6 @@
 <!ENTITY importFromNothing.accesskey "N">
 <!ENTITY importFromSafari.label "Safari">
 <!ENTITY importFromSafari.accesskey "S">
-<!ENTITY importFromChrome.label "Chrome">
-<!ENTITY importFromChrome.accesskey "C">
 <!ENTITY importFromCanary.label "Chrome Canary">
 <!ENTITY importFromCanary.accesskey "h">
 <!ENTITY importFromChrome.label "Chrome">
