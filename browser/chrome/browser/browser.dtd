@@ -81,7 +81,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY menubarCmd.label "Γραμμή εργαλείων μενού">
 <!ENTITY menubarCmd.accesskey "θ">
 <!ENTITY navbarCmd.label "Γραμμή εργαλείων πλοήγησης">
-<!ENTITY personalbarCmd.label "Γραμμή εργαλείων σελιδοδεικτών">
+<!ENTITY personalbarCmd.label "Γραμμή σελιδοδεικτών">
 <!ENTITY personalbarCmd.accesskey "γ">
 <!ENTITY bookmarksToolbarItem.label "Στοιχεία γραμμής εργαλείων σελιδοδεικτών">
 
@@ -275,7 +275,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY addons.accesskey             "θ">
 <!ENTITY addons.commandkey            "A">
 
-<!ENTITY webDeveloperMenu.label       "Εργαλεία Προγραμματιστή">
+<!ENTITY webDeveloperMenu.label       "Εργαλεία προγραμματιστή">
 <!ENTITY webDeveloperMenu.accesskey   "Π">
 
 <!ENTITY inspectContextMenu.label     "Έλεγχος αντικειμένου">
@@ -333,7 +333,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY viewCustomizeToolbar.label       "Προσαρμογή…"> 
 <!ENTITY viewCustomizeToolbar.accesskey     "Π">
 
-<!ENTITY historyMenu.label "Ιστορικο">
+<!ENTITY historyMenu.label "Ιστορικό">
 <!ENTITY historyMenu.accesskey "Ι">
 <!ENTITY historyUndoMenu.label "Πρόσφατα κλεισμένες καρτέλες">
 <!-- LOCALIZATION NOTE (historyUndoWindowMenu): see bug 394759 -->
@@ -376,7 +376,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.title "Καμία συγχρονισμένη καρτέλα… ακόμη!">
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
-<!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα καρτελών από τις άλλες συσκευές σας.">
+<!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
 <!ENTITY appMenuRemoteTabs.signin.label "Είσοδος στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
@@ -678,9 +678,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoomResetCmd.commandkey    "0">
 <!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label        "Μεγέθυνση μόνο του κειμένου">
+<!ENTITY fullZoomToggleCmd.label        "Ζουμ μόνο στο κείμενο">
 <!ENTITY fullZoomToggleCmd.accesskey    "κ">
-<!ENTITY fullZoom.label                 "Μεγέθυνση">
+<!ENTITY fullZoom.label                 "Ζουμ">
 <!ENTITY fullZoom.accesskey             "γ">
 
 <!ENTITY sidebarCloseButton.tooltip     "Κλείσιμο πλευρικής στήλης">
@@ -779,7 +779,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.moreInfoLinkText2 "Περισσότερες πληροφορίες">
 
 <!ENTITY identity.permissions "Δικαιώματα">
-<!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες σε αυτή τη σελίδα.">
+<!ENTITY identity.permissionsEmpty "Δεν έχετε χορηγήσει ειδικές άδειες στη σελίδα.">
 <!ENTITY identity.permissionsReloadHint "Ίσως χρειαστεί να φορτώσετε εκ νέου τη σελίδα για εφαρμογή των αλλαγών.">
 
 <!-- Name for the tabs toolbar as spoken by screen readers.
@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "γ">
 <!ENTITY customizeMode.emptyOverflowList.description "Σύρετε και εναποθέστε στοιχεία εδώ για να τα έχετε πάντα κοντά, αλλά όχι στη γραμμή εργαλείων…">
 <!ENTITY customizeMode.uidensity "Πυκνότητα">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Κανονικό">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Κανονικό">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "Κ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Πολύ πυκνό">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Πολύ πυκνό">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "Π">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Αφή">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Αφή">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Α">

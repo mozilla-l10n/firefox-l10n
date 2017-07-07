@@ -11,7 +11,7 @@
 #define bookmarks_heading Σελιδοδείκτες
 
 #define bookmarks_toolbarfolder Φάκελος γραμμής εργαλείων σελιδοδεικτών
-#define bookmarks_toolbarfolder_description Προσθέστε σελιδοδείκτες σε αυτό το φάκελο για να εμφανιστούν στη γραμμή εργαλείων σελιδοδεικτών
+#define bookmarks_toolbarfolder_description Προσθέστε σελιδοδείκτες σε αυτό το φάκελο για να εμφανιστούν στη γραμμή σελιδοδεικτών
 
 # LOCALIZATION NOTE (getting_started):
 # link title for https://www.mozilla.org/en-US/firefox/central/
