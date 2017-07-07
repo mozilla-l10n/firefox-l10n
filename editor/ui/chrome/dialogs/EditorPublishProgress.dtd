@@ -8,7 +8,7 @@
 <!ENTITY otherSubdir.label     "Afbeeldingssubmap:">
 
 <!ENTITY status.label          "Publiceren…">
-<!ENTITY fileList.label        "Publiceerstatus">
+<!ENTITY fileList.label        "Publicatiestatus">
 <!ENTITY succeeded.label       "Geslaagd">
 <!ENTITY failed.label          "Mislukt">
 
