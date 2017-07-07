@@ -38,7 +38,6 @@
 <!ENTITY locbar.searches.accesskey "">
 
 <!ENTITY suggestionSettings2.label "Zmień ustawienia podpowiedzi dostarczanych przez wyszukiwarki">
-<!ENTITY suggestionSettings.accesskey "">
 
 <!ENTITY history.label "Historia">
 <!ENTITY historyHeader2.pre.label "Program &brandShortName;:">
