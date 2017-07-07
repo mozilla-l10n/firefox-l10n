@@ -357,7 +357,8 @@
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Tak">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "T">
 
-<!ENTITY urlbar.searchSuggestionsNotification.hint "Wyszukuj łatwiej! Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwarek.">
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Wyszukuj łatwiej!">
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Ikona &#x1F50E; sygnalizuje podpowiedzi wyszukiwarek.">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Zmień opcje…">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "Z">
 <!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Zmień preferencje…">
