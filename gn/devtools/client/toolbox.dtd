@@ -31,6 +31,8 @@
   -  for the checkbox option to enable collapse attributes in the Inspector
   -  panel. -->
 
+<!ENTITY options.collapseAttrs.label "Tekome'ẽ DOM ñemboyke">
+<!ENTITY options.collapseAttrs.tooltip "Tekome'ẽ ipukúva moambuekuaávape ñemboyke">
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.label): This is the label for a
   -  dropdown list that controls the default color unit used in the inspector.
   -  This label is visible in the options panel. -->
@@ -78,7 +80,7 @@
   -  boolean preference in about:config, in the options panel. -->
 
 <!ENTITY options.enableRemote.label3    "Ñemopotĩ okayguáva myandy">
-
+<!ENTITY options.enableRemote.tooltip2  "Emyandývo ko poravopyrã omoneĩta mboguatahára tembiporukuérape omopotĩvo mba'e okaygua Firefox mab'éva, Firefox OS ichagua">
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
   -  boolean preference in about:config, in the options panel. -->
@@ -96,7 +98,7 @@
   -  tooltip for the checkbox that toggles the HTTP cache on or off. -->
 
 <!ENTITY options.disableHTTPCache.label     "Kache HTTP ñemonge (tembipuru ryru ijuruja jave)">
-
+<!ENTITY options.disableHTTPCache.tooltip   "Emyandývo ko porãvopyrã oipe'áta kache HTTP opavave tenda'i ombojurujáva tembipuru renda. Mba'apoharakuérape ndohupytýi ko tembiapo hesegua.">
 <!-- LOCALIZATION NOTE (options.enableServiceWorkersHTTP.label,
   -  options.enableServiceWorkersHTTP.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles the service workers testing features on or off. This option enables service workers over HTTP. -->
@@ -106,6 +108,8 @@
 <!-- LOCALIZATION NOTE (options.selectDefaultTools.label2): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
   -  tools. -->
+
+<!ENTITY options.selectDefaultTools.label2    "Tembipuru mboguatahára ijypyguáva">
 <!-- LOCALIZATION NOTE (options.selectAdditionalTools.label): This is the label for
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
@@ -143,9 +147,13 @@
 <!ENTITY options.timestampMessages.tooltip    "Remyandývo ko poravopyrã, je'epohýi ha iñesẽ mba'e'okarupápe ohechaukáta aravo rehegua">
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
+
+<!ENTITY options.debugger.label            "Mopotĩha">
 <!-- LOCALIZATION NOTE (options.sourceMap.label): This is the
    - label for the checkbox that toggles source maps in the Debugger -->
 
+<!ENTITY options.sourceMaps.label      "Embojuruja yvyra'ãnga ypýva">
+<!ENTITY options.sourceMaps.tooltip    "Embojurujárõ ko porãvopyrã, teñoiha omboajéta mopotĩha ha mba'e'okarupápe.">
 <!-- LOCALIZATION NOTE (options.styleeditor.label): This is the label for the
   -  heading of the group of Style Editor preferences in the options
   -  panel. -->
@@ -164,12 +172,18 @@
 <!-- LOCALIZATION NOTE (options.screenshot.label): This is the label for the
    -  heading of the group of Screenshot preferences in the options
    -  panel. -->
+
+<!ENTITY options.screenshot.label            "Mba'erechaha japyhypyre reko">
 <!-- LOCALIZATION NOTE (options.screenshot.clipboard.label): This is the
    - label for the checkbox that toggles screenshot to clipboard feature. -->
 
+<!ENTITY options.screenshot.clipboard.label      "Mba'erechaha japyhypyre kuatiajokohápe">
+<!ENTITY options.screenshot.clipboard.tooltip    "Eñongatu mba'erechaha japyhypyre kuatiajokohaitépe">
 <!-- LOCALIZATION NOTE (options.screenshot.audio.label): This is the
    - label for the checkbox that toggles the camera shutter audio for screenshot tool -->
 
+<!ENTITY options.screenshot.audio.label      "Emboheta mba'epu ta'ãnga nohẽháme">
+<!ENTITY options.screenshot.audio.tooltip    "Emyendy mba'epu henduýva ta'ãnga nohẽha pegua mba'erechaha japyhypyrépe">
 <!-- LOCALIZATION NOTE (options.commonprefs): This is the label for the heading
       of all preferences that affect both the Web Console and the Network
       Monitor -->
