@@ -17,6 +17,7 @@
 <!ENTITY trackingProtectionPBM5.label         "Χρήση Προστασίας από καταγραφή στα ιδιωτικά παράθυρα">
 <!ENTITY trackingProtectionPBM5.accesskey     "ρ">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "δ">
 <!ENTITY trackingProtectionPBMLearnMore.label "Μάθετε περισσότερα">
 <!ENTITY changeBlockList.label          "Αλλαγή λίστας αποκλεισμού">
 <!ENTITY changeBlockList.accesskey      "Α">
