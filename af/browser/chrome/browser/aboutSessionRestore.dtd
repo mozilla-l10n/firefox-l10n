@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Sukses!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; is reg om te rol.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Herstel alle vensters en oortjies">
 <!ENTITY welcomeback2.restoreSome.label "Herstel slegs dié wat ek kies">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively

@@ -683,7 +683,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Z">
 
 <!ENTITY sidebarCloseButton.tooltip     "Sluit kantbalk">
-
+<!ENTITY sidebarMenuClose.label         "Sluit kantbalk">
 
 <!ENTITY quitApplicationCmdWin2.label       "Afsluit">
 <!ENTITY quitApplicationCmdWin2.accesskey   "s">
@@ -693,7 +693,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Afsluit"> 
 <!ENTITY quitApplicationCmd.accesskey   "A">
 <!ENTITY quitApplicationCmdMac2.label   "Sluit &brandShorterName; af">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Sluit">  
 <!ENTITY closeCmd.key                   "W">  
@@ -737,6 +737,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Voeg woordeboeke by…">
 <!ENTITY spellAddDictionaries.accesskey "V">
 
+<!ENTITY editBookmark.done.label                     "Klaar">
 <!ENTITY editBookmark.removeBookmark.accessKey       "V">
 
 <!ENTITY identity.connectionSecure "Beveiligde verbinding">
@@ -744,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Dié blad word op u rekenaar gestoor.">
 <!ENTITY identity.connectionVerified2 "U is veilig verbind aan dié werf besit deur:">
 <!ENTITY identity.connectionInternal "Hierdie is 'n beveiligde &brandShortName;-bladsy.">
-
+<!ENTITY identity.extensionPage "Dié bladsy is uit 'n uitbreiding gelaai.">
 <!ENTITY identity.insecureLoginForms2 "Aanmeldinligting ingetik op dié bladsy kan gekompromitteer word. ">
 <!-- Strings for connection state warnings. -->
 
@@ -843,9 +844,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Lus vir meer gereedskap?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Kies uit duisende byvoegings">
 <!ENTITY customizeMode.restoreDefaults "Laai verstek terug">
-
+<!ENTITY customizeMode.done "Klaar">
 <!ENTITY customizeMode.titlebar "Titelbalk">
-
+<!ENTITY customizeMode.toolbars2 "Nutsbalke">
 <!ENTITY customizeMode.lwthemes "Temas">
 <!ENTITY customizeMode.lwthemes.myThemes "My temas">
 <!ENTITY customizeMode.lwthemes.recommended "Aanbeveel">
@@ -853,7 +854,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "B">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Kry meer temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
-
+<!ENTITY customizeMode.emptyOverflowList.description "Sleep en los items hier om hulle byderhand, maar uit die nutsbalk te haal…">
 
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -862,15 +863,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompak">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompak">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Aanraking">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Aanraking">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "r">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Gebruik aanraking vir tabletmodus">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera om te deel:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -977,10 +980,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "r">
 <!ENTITY updateRestart.cancelButton.label "Nie nou nie">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "Herbegin om &brandShorterName; by te werk">
 
 
+<!ENTITY sendToDevice.label "Stuur na toestel…">
+<!ENTITY sendToDevice.viewTitle "Stuur na toestel">
 
-
-
-
+<!ENTITY sendToDevice.noDevices.label "Geen toestelle beskikbaar nie">
 
