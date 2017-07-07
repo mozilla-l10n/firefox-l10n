@@ -848,6 +848,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "మరిన్ని అలంకారాలను పొందండి">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "సాధారణం">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "సాధారణం">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "కుదించు">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "కుదించు">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "తాకండి">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "తాకండి">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "టాబ్లెట్ మోడ్ కోసం టచ్ ఉపయోగించండి">
 
 <!ENTITY getUserMedia.selectCamera.label "పంచుకోవాల్సిన కేమెరా:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -930,6 +949,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY emeLearnMoreContextMenu.label            "DRM గురించి ఇంకా తెలుసుకోండి…">
 <!ENTITY emeLearnMoreContextMenu.accesskey        "D">
 
+<!ENTITY updateAvailable.message "వేగం మరియు గోప్యత కోసం మీ &brandShorterName;ని తాజాగా నవీకరించండి.">
 <!ENTITY updateAvailable.whatsnew.label "కొత్తవేమిటో చూడండి.">
 <!ENTITY updateAvailable.header.message "ఒక కొత్త &brandShorterName; తాజాకరణ అందుబాటులో ఉంది.">
 <!ENTITY updateAvailable.acceptButton.label "తాజాకరణను దించుకోండి">
@@ -938,6 +958,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "N">
 <!ENTITY updateAvailable.panelUI.label "&brandShorterName; తాజాకరణను దించుకోండి">
 
+<!ENTITY updateManual.message "&brandShorterName; ఒక తాజా కాపీని డౌన్లోడ్ చేయండి మరియు మేము ఇన్స్టాల్ చేయడానికి సహాయం చేస్తాము.">
 <!ENTITY updateManual.whatsnew.label "కొత్తవేమిటో చూడండి.">
 <!ENTITY updateManual.acceptButton.label "&brandShorterName;‌ను దించుకోండి">
 <!ENTITY updateManual.acceptButton.accesskey "D">
@@ -948,6 +969,11 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.acceptButton.accesskey "R">
 <!ENTITY updateRestart.cancelButton.label "ఇప్పుడు వద్దు">
 <!ENTITY updateRestart.cancelButton.accesskey "N">
+<!ENTITY updateRestart.panelUI.label2 "&brandShorterName;‌ను నవీకరించడానికి పునఃప్రారంభించండి">
 
 <!ENTITY pageActionButton.tooltip "పేజీ చర్యలు">
 
+<!ENTITY sendToDevice.label "పరికరానికి పంపు…">
+<!ENTITY sendToDevice.viewTitle "పరికరానికి పంపు">
+<!ENTITY sendToDevice.fxaRequired.label "అవసరం">
+<!ENTITY sendToDevice.noDevices.label "పరికరాలు అందుబాటులో లేవు">
