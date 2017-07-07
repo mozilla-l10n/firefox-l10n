@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "行動書籤">
 <!ENTITY viewBookmarksSidebar2.label        "檢視書籤欄">
 <!ENTITY viewBookmarksToolbar.label         "檢視書籤工具列">
+<!ENTITY searchBookmarks.label              "搜尋書籤">
 
 <!ENTITY containersMenu.label "容器">
 
@@ -854,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "下載更多佈景主題">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "將圖示拖曳到此處，讓您方便使用但不占用空間…">
+<!ENTITY customizeMode.uidensity "密度">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "標準">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "標準">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "緊密">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "緊密">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "觸控">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "觸控">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "在平板電腦模式中使用觸控大小">
 
 <!ENTITY getUserMedia.selectCamera.label "要分享的攝影機:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">

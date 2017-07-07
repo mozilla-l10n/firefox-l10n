@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "追蹤保護">
-<!ENTITY  trackingProtection.description       "某些公司會收集您的資訊，用來對不同的網路使用者分組，並依照收集到的上網行為與個人資料來顯示內容。">
-<!ENTITY  trackingProtection.radioGroupLabel   "封鎖已知的網路追蹤公司提供的內容">
+<!ENTITY  trackingProtection2.description      "「網路追蹤」就是在您瀏覽不同網站時，收集您的上網資料，以用來建立您的個人喜好輪廓，並依照您的瀏覽紀錄與個人資訊來投放廣告。">
+<!ENTITY  trackingProtection2.radioGroupLabel  "使用追蹤保護功能，封鎖已知的追蹤器">
 <!ENTITY  trackingProtectionAlways.label       "總是">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "僅在隱私瀏覽視窗">
@@ -15,18 +15,20 @@
 <!ENTITY  trackingProtectionExceptions.label   "例外網站…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "追蹤">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "在隱私瀏覽視窗中使用追蹤保護功能">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "在隱私瀏覽模式使用追蹤保護功能，封鎖已知的追蹤器">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "詳細資訊">
 <!ENTITY changeBlockList.label          "變更封鎖清單">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "您也可以">
-<!ENTITY  doNotTrack.settings.label     "管理您的 Do Not Track 設定">
-<!ENTITY  doNotTrack.post.label         "。">
+<!ENTITY  doNotTrack.description        "傳送 “Do Not Track” 訊號，告訴網站您不想被追蹤">
+<!ENTITY  doNotTrack.learnMore.label    "了解更多">
+<!ENTITY  doNotTrack.default.label      "只在使用追蹤保護功能時">
+<!ENTITY  doNotTrack.always.label       "總是">
 
 <!ENTITY  history.label                 "瀏覽紀錄">
 <!ENTITY  permissions.label             "權限">
