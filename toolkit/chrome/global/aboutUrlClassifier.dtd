@@ -23,7 +23,6 @@
 <!ENTITY aboutUrlClassifier.cacheNCacheExpiry "Scadenza cache negativa">
 <!ENTITY aboutUrlClassifier.cacheFullhash "Hash completo">
 <!ENTITY aboutUrlClassifier.cachePCacheExpiry "Scadenza cache positiva">
-<!ENTITY aboutUrlClassifier.cacheTitle "Cache">
 <!ENTITY aboutUrlClassifier.debugTitle "Debug">
 <!ENTITY aboutUrlClassifier.debugModuleBtn "Imposta moduli di log">
 <!ENTITY aboutUrlClassifier.debugFileBtn "Imposta file di log">

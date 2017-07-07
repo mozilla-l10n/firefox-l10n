@@ -565,7 +565,6 @@
 <!ENTITY syncedTabs.sidebar.noclients.title "Nessuna scheda sincronizzata (per ora)">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "Come fare per visualizzare in questa sezione le schede da altri dispositivi?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco delle schede dagli altri dispositivi connessi.">
-<!ENTITY syncedTabs.sidebar.notsignedin.label "Accedi per visualizzare un elenco delle schede aperte in altri dispositivi.">
 <!ENTITY syncedTabs.sidebar.notabs.label "Nessuna scheda aperta">
 <!ENTITY syncedTabs.sidebar.openprefs.label "Apri le impostazioni di &syncBrand.shortName.label;">
 <!ENTITY syncedTabs.sidebar.tabsnotsyncing.label "Attiva la sincronizzazione delle schede per visualizzare le schede disponibili negli altri dispositivi.">
