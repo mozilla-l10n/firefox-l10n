@@ -873,10 +873,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-<!ENTITY customizeMode.uidensity.menuTouch.label "Dótknyć so">
-<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dótknyć so">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Dótknjenje">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dótknjenje">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
-<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Touch za tabletowy modus wužiwać">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Dótknjenje za tabletowy modus wužiwać">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kotraž ma so hromadźe wužiwać:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
