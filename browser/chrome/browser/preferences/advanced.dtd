@@ -143,7 +143,7 @@ available. -->
 <!ENTITY useRecommendedPerformanceSettings2.accesskey "u">
 <!ENTITY performanceSettingsLearnMore.label "Meer inligting">
 <!ENTITY limitContentProcessOption.label "Perk op inhoudprosesse">
-
+<!ENTITY limitContentProcessOption.description "Meer inhoudprosesse kan werkverrigting verbeter met klomp oortjies, maar sal ook meer geheue gebruik.">
 <!ENTITY limitContentProcessOption.accesskey   "P">
 
 
