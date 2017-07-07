@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "যোগ হয়েছে">
 <!ENTITY col.lastmodified.label  "সর্বশেষ পরিবর্তন">
 
+<!ENTITY search.placeholder  "অনুসন্ধান">
 
 <!ENTITY cmd.find.key  "f">
 
