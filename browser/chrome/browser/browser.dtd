@@ -351,7 +351,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Maak onlangse geskiedenis skoon…">
 <!ENTITY appMenuHistory.restoreSession.label "Laai vorige sessie terug">
 <!ENTITY appMenuHistory.viewSidebar.label "Wys geskiedeniskantbalk">
-
+<!ENTITY appMenuHelp.label "Hulp">
 <!ENTITY appMenuHelp.tooltip "Open Hulpkieslys">
 
 <!ENTITY appMenuRemoteTabs.label "Gesinkroniseerde oortjies">
@@ -430,11 +430,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ja">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "j">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Wenk:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Kry hulp met soektogte! Kyk uit vir die &#x1F50E; langs soekvoorstelle.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Verander keuses…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "V">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Verander voorkeure…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "V">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -468,6 +471,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Soek">
+<!ENTITY searchIcon.tooltip           "Soek">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -551,7 +556,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "s">
 <!ENTITY bookmarkThisFrameCmd.label      "Boekmerk hierdie raam">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "r">
-
+<!ENTITY copyURLCmd.label             "Kopieer URL">
 <!ENTITY emailPageCmd.label           "E-pos skakel…">
 <!ENTITY emailPageCmd.accesskey       "E">
 <!ENTITY savePageCmd.label            "Stoor bladsy as…">
