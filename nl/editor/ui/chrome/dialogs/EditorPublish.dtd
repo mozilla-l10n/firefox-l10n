@@ -4,7 +4,7 @@
 
 <!-- Window title -->
 <!ENTITY windowTitle.label            "Pagina publiceren">
-<!ENTITY windowTitleSettings.label    "Publiceerinstellingen">
+<!ENTITY windowTitleSettings.label    "Publicatiewebsite-instellingen">
 <!ENTITY publishTab.label             "Publiceren">
 <!ENTITY settingsTab.label            "Instellingen">
 <!ENTITY publishButton.label          "Publiceren">
