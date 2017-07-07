@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobilni zaznamki">
 <!ENTITY viewBookmarksSidebar2.label        "Prikaži stransko vrstico zaznamkov">
 <!ENTITY viewBookmarksToolbar.label         "Prikaži orodno vrstico zaznamkov">
+<!ENTITY searchBookmarks.label              "Iskanje po zaznamkih">
 
 <!ENTITY containersMenu.label "Vsebniki">
 
@@ -854,6 +855,26 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "U">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Več tem">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "V">
+<!ENTITY customizeMode.emptyOverflowList.description "Sem povlecite predmete, ki jih želite imeti na dosegu, vendar izven orodne vrstice …">
+<!ENTITY customizeMode.uidensity "Gostota">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Običajno">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Običajno">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "O">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Strnjeno">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Strnjeno">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "S">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Dotik">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Dotik">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "D">
 
 <!ENTITY getUserMedia.selectCamera.label "Uporabi kamero:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
