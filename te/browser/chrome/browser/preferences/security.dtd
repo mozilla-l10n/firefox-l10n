@@ -26,6 +26,7 @@
 
 <!ENTITY  formsAndPasswords.label       "ఫారాలు &amp; సంకేతపదాలు">
 
+<!ENTITY  rememberLogins1.label          "సైట్ల కోసం లాగిన్లు మరియు పాస్వర్డ్లను గుర్తుంచుకో">
 <!ENTITY  rememberLogins1.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "మినహాయింపులు…">
 <!ENTITY  passwordExceptions.accesskey  "x">

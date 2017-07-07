@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ చూపు">
 <!ENTITY cmd.hideReleaseNotes.label           "విడుదల నోట్స్ మరుగుపరచు">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "ఈ నవీకరణ కొరకు విడుదల నోట్స్ మరుగుపరచు">
+<!ENTITY cmd.findReplacement.label            "ప్రత్యామ్నాయాలు కనుగొను">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -254,3 +255,5 @@
 
 <!ENTITY pluginDeprecation.description "ఏదైనా లేదా? కొన్ని ప్లగిన్లకు &brandShortName; ఇకపై తోడ్పాటు లేదు.">
 <!ENTITY pluginDeprecation.learnMore "మరింత తెలుసుకోండి.">
+
+<!ENTITY legacyWarning.description "ఏదైనా లేదా? కొన్ని పొడగింతలను &brandShortName; ఇకపై తోడ్పాటు లేదు.">

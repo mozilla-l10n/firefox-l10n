@@ -13,23 +13,24 @@
 <!ENTITY  trackingProtectionExceptions.label   "మినహాయింపులు…">
 <!ENTITY  trackingProtectionExceptions.accesskey "x">
 
-<!ENTITY tracking.label                 "ట్రాకింగు">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "అంతరంగిక విండోలలో ట్రాకింగ్ సంరక్షణను వాడు">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "ఇంకా తెలుసుకోండి">
 <!ENTITY changeBlockList.label          "నిషేధిత జాబితా మార్చు">
 <!ENTITY changeBlockList.accesskey      "C">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "మీరు ">
-<!ENTITY  doNotTrack.settings.label     "మీ ట్రాక్ చేయవద్దు అమరికలను నిర్వహించుకోవచ్చు">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.learnMore.label    "ఇంకా తెలుసుకోండి">
+<!ENTITY  doNotTrack.always.label       "ఎల్లప్పుడూ">
 
 <!ENTITY  history.label                 "చరిత్ర">
+<!ENTITY  permissions.label             "అనుమతులు">
 
 <!ENTITY  locationBar.label             "స్థానపు పట్టీ">
 
+<!ENTITY  locbar.suggest2.label         "స్థానపు పట్టీ వాడుతునప్పుడు, వీటి నుండి సూచించు">
 <!ENTITY  locbar.history.label          "చరిత్ర">
 <!ENTITY  locbar.history.accesskey      "H">
 <!ENTITY  locbar.bookmarks.label        "ఇష్టాంశాలు">
@@ -39,6 +40,7 @@
 <!ENTITY  locbar.searches.label         "అప్రమేయ శోధన యంత్రం నుండి సంభందిత శోధనలు">
 <!ENTITY  locbar.searches.accesskey     "d">
 
+<!ENTITY  suggestionSettings2.label     "శోధన యత్ర సూచనల అభిరుచులను మార్చండి">
 
 <!ENTITY  acceptCookies.label           "సైట్ల నుండి కుకీలను ఆమోదించు">
 <!ENTITY  acceptCookies.accesskey       "A">

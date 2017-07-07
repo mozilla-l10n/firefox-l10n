@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "జతచేయబడింది">
 <!ENTITY col.lastmodified.label  "చివరిగా సవరించిన">
 
-<!ENTITY search.label                              "శోధించు:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "వెతుకు">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "e">
 <!ENTITY detailsPane.selectAnItemText.description "ఒక అంశము యొక్క లక్షణములను చూసుటకు మరియు సరిచేయుటకు ఎంపికచేయి">
 
-<!ENTITY find.label               "వెతుకు:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "వీక్షించు">
 <!ENTITY view.accesskey           "w">
 <!ENTITY byDate.label             "తేదీని అనుసరించి">

@@ -41,3 +41,5 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "పరిష్కరించు">
 <!ENTITY aboutNetworking.dnsDomain             "డొమైన్">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPs">
+<!ENTITY aboutNetworking.rcwn                  "RCWN గణాంకాలు">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN స్థితి">

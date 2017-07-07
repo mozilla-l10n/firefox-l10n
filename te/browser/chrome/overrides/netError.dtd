@@ -46,6 +46,7 @@
 
 <!ENTITY captivePortal.title "నెట్వర్కులోనికి ప్రవేశించండి">
 
+<!ENTITY openPortalLoginPage.label2 "నెట్వర్క్ లాగిన్ పేజీని తెరవండి">
 
 <!ENTITY malformedURI.title "ఈ చిరునామా సరైనది కాదు">
 <!ENTITY malformedURI.longDesc "

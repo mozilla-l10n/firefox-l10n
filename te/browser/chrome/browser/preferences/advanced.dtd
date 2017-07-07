@@ -28,6 +28,10 @@
 
 <!ENTITY dataChoicesTab.label            "దత్తాంశం ఎంపికలు">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+
 <!ENTITY healthReportDesc.label          "మీ బ్రౌజర్ పనితనం అర్ధంచేసుకొనుటకు మీకు సహాయంచేయును మరియు మీ బ్రౌజర్ ఆరోగ్యమును గురించి &vendorShortName; తో దత్తాంశం పంచుకొనును.">
 <!ENTITY enableHealthReport.label        "&brandShortName; ఆరోగ్య నివేదిక చేతనంచేయి">
 <!ENTITY enableHealthReport.accesskey    "R">
@@ -137,5 +141,10 @@
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
 <!ENTITY performance.label               "పనితనం">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey
+                                         "U">
+<!ENTITY performanceSettingsLearnMore.label
+                                         "ఇంకా తెలుసుకోండి">
+<!ENTITY limitContentProcessOption.accesskey   "L">
 <!ENTITY allowHWAccel.label              "అందుబాటులో ఉన్నప్పుడు హార్డువేర్ యాక్సెలరేషన్ ఉపయోగించు">
 <!ENTITY allowHWAccel.accesskey          "r">

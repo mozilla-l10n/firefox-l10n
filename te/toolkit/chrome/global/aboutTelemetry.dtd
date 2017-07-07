@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "టెలీమెట్రీ సమాచారం">
 
-<!ENTITY aboutTelemetry.changeDataChoices "మార్చు">
-
-<!ENTITY aboutTelemetry.uploadEnabled "FHR డేటా అప్లోడ్ <span> ఎనేబుల్ </span> ఉంది .">
-
-<!ENTITY aboutTelemetry.uploadDisabled "FHR డేటా అప్లోడ్ <span> ఎనేబుల్ </span> ఉంది .">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "విస్తరించిన టెలిమెట్రీ రికార్డింగ్ ఉంది <span>ప్రారంభించబడింది</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "విస్తరించిన టెలిమెట్రీ రికార్డింగ్ ఉంది <span>ఆపివేయబడింది</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "పింగ్ డేటా మూలం :">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "ప్రస్తుత పింగ్ డేటా">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "బధ్రపరిచారు పింగ్ డేటా">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "పింగ్ డేటా ప్రదర్శన :">
-
-<!ENTITY aboutTelemetry.structured "నిర్మితీకృత">
 
 <!ENTITY aboutTelemetry.raw "ముడి JSON">
 
@@ -33,8 +19,6 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; క్రొత్త పింగ్">
 
 <!ENTITY aboutTelemetry.showOlderPing "పాత పింగ్ &gt;&gt;">
-
-<!ENTITY aboutTelemetry.rawPingData "రా పింగ్ డేటా…">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "వారం">
 
@@ -76,18 +60,11 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "సెషేన్ యొక్క సమాచారం">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "హిస్టోగ్రామ్స్ పొడిగింతలచే సేకరించబడెను">
-
-<!ENTITY aboutTelemetry.toggle "విభాగాన్ని తెరవడానికి లేక మూయడానికి నొక్కండి">
-
-<!ENTITY aboutTelemetry.emptySection "(ఏ సమాచారమూ సేకరించలేదు)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "గమనిక: నిదానమైన SQL డీబగ్గింగ్ చేతనమైంది. పూర్తి SQL స్ట్రింగ్స్ కిందన ప్రదర్శించవచ్చు అయితే అవి టెలీమెట్రీకు సమర్పించబడవు.">
 
+<!ENTITY aboutTelemetry.fetchStackSymbols "స్టాక్స్ కొరకు ఫంక్షన్ పేర్లను వెతికితెమ్ము">
 
 
 <!ENTITY aboutTelemetry.filterText "వడపోత (పదబంధం లేక /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "పేలోడ్">
-
-<!ENTITY aboutTelemetry.rawPayload " రా పేలోడ్">
