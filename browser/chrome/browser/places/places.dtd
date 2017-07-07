@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Bygevoeg">
 <!ENTITY col.lastmodified.label  "Laas gewysig">
 
+<!ENTITY search.placeholder  "Soek">
 
 <!ENTITY cmd.find.key  "f">
 

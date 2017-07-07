@@ -138,9 +138,9 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "t">
 
 <!ENTITY performance.label               "Werkverrigting">
+<!ENTITY useRecommendedPerformanceSettings2.label "Gebruik aanbevole instellings vir werkverrigting">
 
-
-
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "u">
 <!ENTITY performanceSettingsLearnMore.label "Meer inligting">
 <!ENTITY limitContentProcessOption.label "Perk op inhoudprosesse">
 

@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Wys die vrystellingaantekeninge vir hierdie bywerking">
 <!ENTITY cmd.hideReleaseNotes.label           "Versteek vrystellingaantekeninge">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Versteek die vrystellingaantekeninge vir hierdie bywerking">
-
+<!ENTITY cmd.findReplacement.label            "Soek vir plaasvervanger">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -255,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Kort iets? Sommige inproppe word nie meer ondersteun deur &brandShortName; nie.">
 <!ENTITY pluginDeprecation.learnMore "Meer inligting.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Kort iets? Sommige uitbreidings word nie meer ondersteun deur &brandShortName; nie.">
+<!ENTITY legacyWarning.showLegacy "Wys verouderde uitbreidings">
+<!ENTITY legacyExtensions.title "Verouderde uitbreidings">
+<!ENTITY legacyExtensions.description "Dié uitbreidings voldoen nie aan &brandShortName; se huidige standaarde nie, en is dus gedeaktiveer.">
+<!ENTITY legacyExtensions.learnMore "Lees meer oor veranderinge aan byvoegings">
