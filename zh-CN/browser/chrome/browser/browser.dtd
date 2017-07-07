@@ -855,14 +855,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "获取更多主题">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-<!ENTITY customizeMode.emptyOverflowList.description "把东西拖到这个对话框里，既方便使用又不占用工具栏空间…">
+<!ENTITY customizeMode.emptyOverflowList.description "按钮可以拖放到这里，方便使用、不占用工具栏空间">
 <!ENTITY customizeMode.uidensity "密度">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "普通">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "普通">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "紧凑">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "紧凑">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "触控">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "触控">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
