@@ -23,18 +23,19 @@
 <!ENTITY rights.intro-point2-c ".">
 
 <!-- point 2.5 text for official branded builds -->
-<!ENTITY rights.intro-point2.5 "Am na ay doxalini &brandShortName;, lu melni li lay wax ci ngiroo, dafa lay may nga jokkoo ak &vendorShortName;. Boo taamoo yonnee xibaar yi, di nga may &vendorShortName; mu gën baaxal mbir mi, siiwal ci dalub web yi ak di ko tasaarer.">
+<!ENTITY rights.intro-point2.5 "Am na ay solo ci &brandShortName;, niki yëgalekaayu taxaw bi, di na la may nga yónnee ag tontu &vendorShortName;. Boo taamoo yónnee tontu gi, mooy ne sañal nga &vendorShortName; muy jëfandikoo tontu gi ngir gën a baaxal mbir mi, siiwal tontu yi ci dali webam yi, te it ak di wesaare tontu yi.">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "Ni ñuy jëfandikoo say xibaari bopp ak li ngay yonnee &vendorShortName; ci ndimbalu &brandShortName; ñi ngi koy faramfacce ci ">
-<!ENTITY rights2.intro-point3b "politigu deeyante &brandShortName;">
+<!ENTITY rights2.intro-point3a "Ni ñuy jëfandikoo say xibaari bopp ak tontu gi ngay yónnee &vendorShortName; ci ndimbalu &brandShortName; ñi ngi koy faramfàcce ci ">
+<!ENTITY rights2.intro-point3b "Politigu sutura bu &brandShortName;">
 <!ENTITY rights.intro-point3c ".">
 
 <!-- point 3 text for unbranded builds -->
-<!ENTITY rights.intro-point3-unbranded "War nañu wone fii bépp politigu kersa bu ànd ak xeltéef bi.">
+<!ENTITY rights.intro-point3-unbranded "Bépp politigu sutura bu bii jëfekaay farees na koo limaate fii.">
 
 <!-- point 4 text for official branded builds -->
-<!ENTITY rights.intro-point4b "anamu jëfandikoo yi">
+<!ENTITY rights2.intro-point4a "Yenn solo yu &brandShortName; dañuy faral a jëfandikooy xibaar yu nekk ci web bi, ba tax, maneesul a wax ci lu wóor 100 &#37; ne amuñuy njuumte. Yeneeni xibaar, bokk nañ ci nan nga man a doxadil solo yiy jëfandikoo yooyu xibaar, manees na leen gis ci ">
+<!ENTITY rights.intro-point4b "anami njëfandikoo gi">
 <!ENTITY rights.intro-point4c ".">
 
 <!-- point 4 text for unbranded builds -->
