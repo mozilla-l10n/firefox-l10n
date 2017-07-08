@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Готово!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; готов к работе.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Восстановить все окна и вкладки">
-<!ENTITY welcomeback2.label.restoreSome "Восстановить только те, которые вы хотите">
+<!ENTITY welcomeback2.restoreAll.label  "Восстановить все окна и вкладки">
+<!ENTITY welcomeback2.restoreSome.label "Восстановить только те, которые вы хотите">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,

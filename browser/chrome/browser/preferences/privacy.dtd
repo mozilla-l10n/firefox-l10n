@@ -3,8 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Защита от отслеживания">
-<!ENTITY  trackingProtection.description       "Отслеживание — это когда компании собирают о вас информацию, чтобы создать ваш профиль и отображать содержимое на основе посещаемых вами сайтов и личных данных.">
-<!ENTITY  trackingProtection.radioGroupLabel   "Блокировать показ содержимого от известных отслеживающих компаний">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Использовать защиту от отслеживания для блокировки известных трекеров">
 <!ENTITY  trackingProtectionAlways.label       "Всегда">
 <!ENTITY  trackingProtectionAlways.accesskey   "е">
 <!ENTITY  trackingProtectionPrivate.label      "Только в приватных окнах">
@@ -15,18 +14,20 @@
 <!ENTITY  trackingProtectionExceptions.label   "Исключения…">
 <!ENTITY  trackingProtectionExceptions.accesskey "л">
 
-<!ENTITY tracking.label                 "Отслеживание">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 <!ENTITY trackingProtectionPBM5.label         "Использовать защиту от отслеживания в Приватных окнах">
 <!ENTITY trackingProtectionPBM5.accesskey     "о">
+<!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Использовать защиту от отслеживания в приватном просмотре для блокировки известных трекеров">
+<!ENTITY trackingProtectionPBM6.accesskey     "о">
 <!ENTITY trackingProtectionPBMLearnMore.label "Подробнее">
 <!ENTITY changeBlockList.label          "Сменить список блокировки">
 <!ENTITY changeBlockList.accesskey      "б">
 
-<!-- LOCALIZATION NOTE (doNotTrack.pre.label): include a trailing space as needed -->
-<!-- LOCALIZATION NOTE (doNotTrack.post.label): include a starting space as needed -->
-<!ENTITY  doNotTrack.pre.label          "Вы также можете ">
-<!ENTITY  doNotTrack.settings.label     "управлять параметрами «Не отслеживать»">
-<!ENTITY  doNotTrack.post.label         ".">
+<!ENTITY  doNotTrack.description        "Передавать сайтам сигнал “Не отслеживать”, означающий, чтобы вы не хотите быть отслеживаемыми">
+<!ENTITY  doNotTrack.learnMore.label    "Подробнее">
+<!ENTITY  doNotTrack.default.label      "Только при использовании защиты от отслеживания">
+<!ENTITY  doNotTrack.always.label       "Всегда">
 
 <!ENTITY  history.label                 "История">
 <!ENTITY  permissions.label             "Разрешения">

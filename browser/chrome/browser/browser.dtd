@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Мобильные закладки">
 <!ENTITY viewBookmarksSidebar2.label        "Показать боковую панель закладок">
 <!ENTITY viewBookmarksToolbar.label         "Показать панель закладок">
+<!ENTITY searchBookmarks.label              "Поиск закладок">
 
 <!ENTITY containersMenu.label "Контейнеры">
 
@@ -854,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "п">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Получить больше тем">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "о">
+<!ENTITY customizeMode.emptyOverflowList.description "Перемещайте элементы сюда, чтобы иметь их под рукой, но не на панели инструментов…">
+<!ENTITY customizeMode.uidensity "Значки">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Обычные">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Обычные">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "ы">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Компактные">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Компактные">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "п">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Мобильные">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Мобильные">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "и">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Использовать Мобильные для планшетного режима">
 
 <!ENTITY getUserMedia.selectCamera.label "Доступ к камере:">
 <!ENTITY getUserMedia.selectCamera.accesskey "к">
