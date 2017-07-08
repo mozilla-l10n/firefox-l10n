@@ -214,6 +214,9 @@
 <!ENTITY custom_tabs_menu_footer "Funkcja programu &brandShortName;">
 <!ENTITY custom_tabs_hint_url_copy "Skopiowano adres">
 
+<!ENTITY pref_pwa "Nowoczesne aplikacje internetowe">
+<!ENTITY pref_pwa_summary "Umożliwia dodawanie aplikacji internetowych do ekranu głównego">
+
 <!ENTITY pref_activity_stream "Activity Stream">
 <!ENTITY pref_activity_stream_summary "Wizualna historia i nowa strona domowa, ułatwiające wyszukiwanie treści w przeglądarce &brandShortName;.">
 
