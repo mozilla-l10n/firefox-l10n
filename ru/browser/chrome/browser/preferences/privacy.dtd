@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Защита от отслеживания">
+<!ENTITY  trackingProtection2.description      "Отслеживание - это сбор ваших данных веб-серфинга на множестве веб-сайтов. Отслеживание можно использовать для построения профиля и отображения содержимого на основе вашего веб-серфинга и персональной информации.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Использовать защиту от отслеживания для блокировки известных трекеров">
 <!ENTITY  trackingProtectionAlways.label       "Всегда">
 <!ENTITY  trackingProtectionAlways.accesskey   "е">
