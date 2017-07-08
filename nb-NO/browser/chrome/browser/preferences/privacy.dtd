@@ -21,6 +21,7 @@
 <!ENTITY changeBlockList.label          "Endre blokkeringsliste">
 <!ENTITY changeBlockList.accesskey      "b">
 
+<!ENTITY  doNotTrack.description        "Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet">
 <!ENTITY  doNotTrack.learnMore.label    "Les mer">
 <!ENTITY  doNotTrack.always.label       "Alltid">
 
