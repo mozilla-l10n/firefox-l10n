@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  trackingProtectionHeader2.label      "Chajinïk chuwäch kanoxïk">
+<!ENTITY  trackingProtectionHeader2.label      "Chajinïk chuwäch Ojqanïk">
 <!ENTITY  trackingProtection2.description      "Ri ojqanïk ja ri kimolik taq atzij ye'awokisaj pa k'amaya'l pa k'ïy ruxaq k'amaya'l. Ri ojqanïk tikirel nokisäx richin ninuk' jun ruwäch b'i'aj chuqa' tikirel nik'ut pe rupam na'oj elesan pe chi rij ri awokem pa k'amaya'l chuqa' awetamab'al.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Tokisäx ri Chajinïk chuwäch Ojqanïk richin yeq'at ri kanonela' etaman kiwäch">
 <!ENTITY  trackingProtectionAlways.label       "Junelïk">
@@ -16,7 +16,7 @@
 <!ENTITY  trackingProtectionExceptions.accesskey "e">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM5.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to true. This currently happens on the release and beta channel. -->
 
-<!ENTITY trackingProtectionPBM5.label         "Tokisäx chajinem chuwäch kanoxïk pan ichinan taq tzuwäch">
+<!ENTITY trackingProtectionPBM5.label         "Tokisäx Chajinïk chuwäch Ojqanïk pan ichinan taq tzuwäch">
 <!ENTITY trackingProtectionPBM5.accesskey     "a">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Tokisäx ri Chajinïk chuwäch Ojqanïk pan ichinan okem pa k'amaya'l richin yeq'at ri kanonela' etaman kiwäch">
