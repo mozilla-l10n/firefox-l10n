@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Свойства списка рассылки">
 <!ENTITY mailingListPropertiesMenu.accesskey "в">
 
+<!ENTITY abContextMenuButton.tooltip        "Отобразить контекстное меню адресной книги">
 <!ENTITY addressbookPicker.label            "Адресная книга:">
 <!ENTITY addressbookPicker.accesskey        "е">
 <!ENTITY searchContacts.label               "Поиск контактов:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "м">
 <!ENTITY editMailingListContext.label       "Изменить список">
 <!ENTITY editMailingListContext.accesskey   "м">
+
+<!ENTITY newContactAbContext.label          "Новый контакт">
+<!ENTITY newContactAbContext.accesskey      "ы">
+<!ENTITY newListAbContext.label             "Новый список">
+<!ENTITY newListAbContext.accesskey         "и">
 
 <!ENTITY toButton.label                     "Кому:">
 <!ENTITY toButton.accesskey                 "о">
