@@ -3,9 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- rights.locale-direction instead of the usual local.dir entity, so RTL can skip translating page. -->
 <!ENTITY rights.locale-direction "ltr">
-<!ENTITY rights.pagetitle       "ci mbiri : sañ sañ yi">
-<!ENTITY rights.intro-header    "Ci sa mbiri sañ sañ">
-<!ENTITY rights.intro "&brandFullName; xeltéef la bu amul moomeel te ubbeeku, ñi ko defar ay nit yu bari lañu ci adinz. Lii ngeen wara xam :">
+<!ENTITY rights.title "Ñeel say àq">
+<!ENTITY rights.intro "&brandFullName; jëfekaay bu kenn moomul te ubbeeku la, ñi ko defar ay téemeéri nit lañu ci àdduna bépp. Am na lenn loo ci war a xam:">
 
 <!-- Note on pointa / pointb / pointc form:
      These points each have an embedded link in the HTML, so each point is
@@ -15,9 +14,9 @@
 
      Also note the leading/trailing whitespace in strings here, which is
      deliberate for formatting around the embedded links. -->
-<!ENTITY rights.intro-point1a "&brandShortName; mi ngi féex ci ay tëralini ">
-<!ENTITY rights.intro-point1b "Yaatalu biti bu Mosiyaa ">
-<!ENTITY rights.intro-point1c ". Lii dafay wone ni mën nga jëfandikoo, duppi ak tasaare &brandShortName; Mën nga itam soppi suulaale cosaanu &brandShortName; ci ni nga ko bëgge. Yaatalu Mozilla may nala nga tasaare sumb yi nga soppi.">
+<!ENTITY rights.intro-point1a "&brandShortName; mi ngi jàppandi ci anami ">
+<!ENTITY rights.intro-point1b "Mozilla Public License">
+<!ENTITY rights.intro-point1c ". Lii dafay wone ni man nga jëfandikoo, duppi ak tasaare &brandShortName;. Man nga itam soppi yoonu gongikuwaayu &brandShortName; ci sa coobare. Sañal gu Mozilla may na la nga tasaare sumb yi nga soppi.">
 
 <!ENTITY rights.intro-point2-a "Kenn joxula sañ sañ ou walla yaatal ci mark Fondasiyoŋ Mosiyaa walla keneen ci tur walla logo Firefox. Mën nga seet yeneen xibaar ci mark depóse ">
 <!ENTITY rights.intro-point2-b "fii">
