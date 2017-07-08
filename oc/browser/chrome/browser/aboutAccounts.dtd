@@ -10,5 +10,5 @@
 <!ENTITY aboutAccounts.noConnection.title "Sens connexion">
 <!ENTITY aboutAccounts.noConnection.description "Vos cal èsser connectat per aviar la session.">
 <!ENTITY aboutAccounts.noConnection.retry "Ensajatz tornarmai">
-
-
+<!ENTITY aboutAccounts.badConfig.title "Configuracion incorrècta">
+<!ENTITY aboutAccounts.badConfig.description "Fracàs al moment de determinar la configuracion del servidor de vòstre compte Firefox. Mercés de tornar ensajar mai tard.">
