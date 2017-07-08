@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Sporingsbeskyttelse">
+<!ENTITY  trackingProtection2.description      "Sporing er en innsamling av dine nettleserdata fra flere nettsider. Sporing kan brukes til å bygge en profil, og for å vise innhold basert på surfingen din og din egen personlige informasjon.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Bruk sporingsbeskyttelse til å blokkere kjente sporere">
 <!ENTITY  trackingProtectionAlways.label       "Alltid">
 <!ENTITY  trackingProtectionAlways.accesskey   "l">
 <!ENTITY  trackingProtectionPrivate.label      "Bare i private vinduer">
@@ -17,12 +19,15 @@
 <!ENTITY trackingProtectionPBM5.label         "Bruk sporingsbeskyttelse i private vinduer">
 <!ENTITY trackingProtectionPBM5.accesskey     "u">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Bruk sporingsbeskyttelse i privat nettlesing for å blokkere kjente sporere">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Les mer">
 <!ENTITY changeBlockList.label          "Endre blokkeringsliste">
 <!ENTITY changeBlockList.accesskey      "b">
 
 <!ENTITY  doNotTrack.description        "Send nettsider et «Ikke spor»-signal om at du ikke vil bli sporet">
 <!ENTITY  doNotTrack.learnMore.label    "Les mer">
+<!ENTITY  doNotTrack.default.label      "Berre når du bruker sporingsbeskyttelse">
 <!ENTITY  doNotTrack.always.label       "Alltid">
 
 <!ENTITY  history.label                 "Historikk">
