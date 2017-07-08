@@ -25,7 +25,7 @@
 <!ENTITY changeBlockList.accesskey      "W">
 
 <!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
-
+<!ENTITY  doNotTrack.default.label      "E sahaa ndeenka rewindo tan">
 <!ENTITY  doNotTrack.always.label       "Sahaa kala">
 
 <!ENTITY  history.label                 "Aslol">
