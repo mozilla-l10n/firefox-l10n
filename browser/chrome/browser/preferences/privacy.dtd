@@ -20,7 +20,7 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "u">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Bruk sporingsvern i Privat nettlesing for å blokkere kjende sporfølgjarar">
-<!ENTITY trackingProtectionPBM6.accesskey     "B">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Les meir">
 <!ENTITY changeBlockList.label          "Endre blokkeringsliste">
 <!ENTITY changeBlockList.accesskey      "b">
