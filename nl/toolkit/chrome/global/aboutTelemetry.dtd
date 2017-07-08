@@ -40,8 +40,24 @@ Oudere ping &gt;&gt;
 Week
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Pingtype
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Vandaag
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Gisteren
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Ouder
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
