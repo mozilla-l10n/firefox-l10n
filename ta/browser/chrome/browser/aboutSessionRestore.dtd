@@ -6,11 +6,11 @@
 <!-- LOCALIZATION NOTE: The title is intended to be apologetic and disarming, expressing dismay
      and regret that we are unable to restore the session for the user -->
 
-<!ENTITY restorepage.errorTitle     "சரி, இது தொந்தரவானது.">
+<!ENTITY restorepage.errorTitle     "நன்று, இது தடுமாறியிருக்கிறது.">
 <!ENTITY restorepage.problemDesc    "&brandShortName; உங்கள் சாளரங்கள் மற்றும் கீற்றுகளை மீட்பதில் சிக்கலை கொண்டுள்ளது. இது சமீபத்தில் திறக்கப்பட்ட இணைய பக்கத்தால் ஏற்படுகிறது.">
-<!ENTITY restorepage.tryThis        "நீங்கள் முயற்சிக்கலாம்:">
-<!ENTITY restorepage.restoreSome    "ஒன்று அல்லது பல கீற்றுகளை நீக்குவதை நீங்கள் சிக்கல் உண்டாக்கலாம் என நினைக்கலாம்">
-<!ENTITY restorepage.startNew       "முழுவதும் ஒரு புதிய உலாவும் அமர்வை துவக்குகிறது">
+<!ENTITY restorepage.tryThis        "பின்வரும் வழிமுறைகளை முயற்சித்து பாருங்கள்:">
+<!ENTITY restorepage.restoreSome    "சிக்கல் உண்டாக்கலாம் என நீங்கள் நினைக்கும் ஒன்று அல்லது சில கீற்றுகளை நீக்குகிறது.">
+<!ENTITY restorepage.startNew       "ஒரு புதிய அமர்வைத் துவங்கி உலாவுங்கள்">
 
 <!ENTITY restorepage.tryagainButton "மறுசேமி">
 <!ENTITY restorepage.restore.access "R">
