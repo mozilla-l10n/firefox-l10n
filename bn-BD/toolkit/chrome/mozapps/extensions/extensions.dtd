@@ -254,7 +254,8 @@
 <!ENTITY pluginDeprecation.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন প্লাগইন &brandShortName; আর সমর্থন করে না।">
 <!ENTITY pluginDeprecation.learnMore "আরও জানুন।">
 
-
+<!ENTITY legacyWarning.description "কোন কিছু পাওয়া যাচ্ছে না? কোন কোন এক্সটেনশন &brandShortName; আর সমর্থন করে না।">
+<!ENTITY legacyWarning.showLegacy "সব পুরাতন এক্সটেনশন দেখাও">
 
 
 
