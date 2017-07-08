@@ -44,7 +44,7 @@ before and after the the "learn more" link (welcomeback2.link.pageInfo2).
 Localizers can use one of them, or both, to better adapt this sentence to
 their language.
 -->
-<!ENTITY welcomeback2.beforelink.pageInfo2  "您的附加组件和个性化调整已经移除，您的浏览器设置也已恢复到默认值。如果这没有解决您的问题，">
+<!ENTITY welcomeback2.beforelink.pageInfo2  "您的附加组件和个性化调整已被移除，浏览器设置也已恢复到默认值。如果这样还无法解决您的问题，">
 <!ENTITY welcomeback2.afterlink.pageInfo2   "">
 
 <!ENTITY welcomeback2.link.pageInfo2        "您可进一步了解还能做什么。">

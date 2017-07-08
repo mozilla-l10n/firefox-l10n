@@ -16,7 +16,7 @@
      deliberate for formatting around the embedded links. -->
 <!ENTITY rights.intro-point1a "&brandShortName; 提供给您时依照的条款为 ">
 <!ENTITY rights.intro-point1b "Mozilla 公共许可证（MPL）">
-<!ENTITY rights.intro-point1c "。这表示您可以使用、复制和向他人分发 &brandShortName;。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。Mozilla 公共许可证也允许您分发您自己修改过的软件版本。">
+<!ENTITY rights.intro-point1c "。这表示您可以使用、复制和向他人分发 &brandShortName;。我们也非常欢迎您按自己的需要修改 &brandShortName; 的源代码。Mozilla 公共许可证还授予您分发您自己修改过的软件版本的权利。">
 
 <!ENTITY rights.intro-point2-a "您没有获得 Mozilla 基金会或其他任何一方的商标权利或许可，这包括但不限于 Firefox 的名称或标志。有关商标的其他信息在：">
 <!ENTITY rights.intro-point2-b "这里">
@@ -26,7 +26,7 @@
 <!ENTITY rights.intro-point2.5 "&brandShortName; 的一些功能（例如崩溃报告器）使您可以向 &vendorShortName; 提供反馈。提交反馈的同时，您授权 &vendorShortName; 使用反馈信息改进产品、在其网站上发布反馈信息，以及分发反馈内容。">
 
 <!-- point 3 text for official branded builds -->
-<!ENTITY rights2.intro-point3a "关于我们如何使用您已提交给 &vendorShortName; 的个人信息和反馈，&brandShortName; 已经描述在 ">
+<!ENTITY rights2.intro-point3a "关于我们如何使用您已提交给 &vendorShortName; 的个人信息和反馈，&brandShortName; 参见 ">
 <!ENTITY rights2.intro-point3b "&brandShortName; 隐私权政策">
 <!ENTITY rights.intro-point3c "。">
 
@@ -68,7 +68,7 @@
 <!-- location aware browsing points for branded builds -->
 <!ENTITY rights.locationawarebrowsing-a "位置感知浏览：">
 <!ENTITY rights.locationawarebrowsing-b "是否启用的选择权永远在您的手中。未经您的许可不会有位置信息被发送。如果您想完全禁用此功能，请按照下列步骤操作：">
-<!ENTITY rights.locationawarebrowsing-term1a "在网址栏中，输入 ">
+<!ENTITY rights.locationawarebrowsing-term1a "在地址栏中，输入 ">
 <!ENTITY rights.locationawarebrowsing-term1b "about:config">
 <!ENTITY rights.locationawarebrowsing-term2 "输入 geo.enabled">
 <!ENTITY rights.locationawarebrowsing-term3 "双击 geo.enabled 项目">
