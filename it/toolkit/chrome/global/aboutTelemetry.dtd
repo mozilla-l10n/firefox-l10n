@@ -12,7 +12,11 @@
 <!ENTITY aboutTelemetry.showNewerPing "&lt;&lt; Ping più recente">
 <!ENTITY aboutTelemetry.showOlderPing "Ping più vecchio &gt;&gt;">
 <!ENTITY aboutTelemetry.archiveWeekHeader "Settimana">
+<!ENTITY aboutTelemetry.archivePingType "Tipo di ping">
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+<!ENTITY aboutTelemetry.optionGroupToday "Oggi">
+<!ENTITY aboutTelemetry.optionGroupYesterday "Ieri">
+<!ENTITY aboutTelemetry.optionGroupOlder "Più vecchi">
 <!ENTITY aboutTelemetry.generalDataSection "Dati generali">
 <!ENTITY aboutTelemetry.environmentDataSection "Dati ambiente">
 <!ENTITY aboutTelemetry.telemetryLogSection "Registro telemetria">
