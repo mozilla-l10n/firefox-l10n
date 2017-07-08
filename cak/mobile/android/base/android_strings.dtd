@@ -529,7 +529,7 @@
      whether or not the dynamic toolbar is enabled. -->
 
 <!ENTITY pref_scroll_title_bar2 "Okem pa k\u0027amaya\u0027l pa chijun ruwa kematz\u0027ib\u0027">
-<!ENTITY pref_scroll_title_bar_summary2 "Tewäx &brandShortName; ri rukajtz\u0027ik b\u0027i\u0027aj toq xtiqasäx pa jun ruxaq">
+<!ENTITY pref_scroll_title_bar_summary2 "Tewäx ri rumolsamajib\u0027al &brandShortName; toq xkaqa pa jun ruxaq">
 
 <!ENTITY pref_tab_queue_title3 "Rucholajem ruwi\u0027">
 <!ENTITY pref_tab_queue_summary4 "Ke\u0027ayaka\u0027 kan taq ximonel, k\u0027a richin toq xtajäq chik ri &brandShortName;">
