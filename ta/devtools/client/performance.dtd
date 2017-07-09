@@ -63,7 +63,7 @@
 <!ENTITY performanceUI.invertTree.tooltiptext "இளம் சட்டங்களிலிருந்து தொடங்கி பழைய சட்டங்களாக வெளிப்படும் அழைப்பு பாதை விவரக்குறிப்புகளை வரிசைகளை தழைகீழாக்குகிறது.">
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
-
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext "பிளேம் அட்டவணை வரிசைகளை தலைகீழாக்குவது இளம் சட்டங்களிலிருந்து தொடங்கி பழைய சட்டங்கள் வரை அழைப்பு பாதை விவரக்குறிப்புகளைக் காட்டுகிறது.">
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
