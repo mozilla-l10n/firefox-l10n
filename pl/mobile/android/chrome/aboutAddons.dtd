@@ -3,7 +3,7 @@
     - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY aboutAddons.title2 "Dodatki">
-<!ENTITY aboutAddons.header2 "Twoje dodatki">
+<!ENTITY aboutAddons.header2 "Zainstalowane dodatki">
 <!ENTITY aboutAddons.options "Ustawienia">
 
 <!ENTITY addonAction.enable "Włącz">
