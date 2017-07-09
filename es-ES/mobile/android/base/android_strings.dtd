@@ -177,6 +177,8 @@
 <!ENTITY custom_tabs_menu_item_open_in "Abrir en &formatS;">
 <!ENTITY custom_tabs_menu_footer "Basado en &brandShortName;">
 <!ENTITY custom_tabs_hint_url_copy "URL copiada">
+<!ENTITY pref_pwa "Aplicaciones web progresivas">
+<!ENTITY pref_pwa_summary "Permitir a las aplicaciones web añadirse a la pantalla de inicio">
 <!ENTITY pref_activity_stream "Flujo de actividad">
 <!ENTITY pref_activity_stream_summary "Un canal visual enriquecido del historial y una página de inicio rediseñada que hacen más fácil que nunca encontrar exactamente lo que está buscando en &brandShortName;.">
 <!ENTITY tracking_protection_prompt_title "Ahora con protección contra rastreo">
