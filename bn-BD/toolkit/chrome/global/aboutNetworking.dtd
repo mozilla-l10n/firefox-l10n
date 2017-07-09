@@ -41,8 +41,8 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "রিজলভ">
 <!ENTITY aboutNetworking.dnsDomain             "ডোমেইন">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "আইপি সমূহ">
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN পরিসংখ্যান">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN অবস্থা">
 
 
 
