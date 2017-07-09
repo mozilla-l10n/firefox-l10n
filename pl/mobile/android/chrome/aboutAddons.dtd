@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2 "Dodatki">
 <!ENTITY aboutAddons.header2 "Zainstalowane dodatki">
-<!ENTITY aboutAddons.options "Ustawienia">
 
 <!ENTITY addonAction.enable "Włącz">
 <!ENTITY addonAction.disable "Wyłącz">
