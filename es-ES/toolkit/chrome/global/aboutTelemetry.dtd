@@ -29,9 +29,16 @@ Ping más antiguo &gt;&gt;
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semana
 ">
+<!ENTITY aboutTelemetry.archivePingType "Tipo de ping">
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
 ">
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hoy">
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ayer">
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Más antiguo">
 <!ENTITY aboutTelemetry.generalDataSection "
   Datos generales">
 <!ENTITY aboutTelemetry.environmentDataSection "
