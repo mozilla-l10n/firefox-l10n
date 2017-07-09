@@ -59,7 +59,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "ამ ელ-ფოსტის დავიწყება">
 <!ENTITY forget.accesskey            "ყ">
 
-<!ENTITY signedOut.caption            "წაიყოლეთ თქვენი ინტერნეტი თან">
+<!ENTITY signedOut.caption            "წაიყოლეთ თქვენი მონაცემები თან">
 <!ENTITY signedOut.description        "დაასინქრონეთ თქვენი სანიშნეები, ისტორია, ჩანართები, პაროლები, დამატებები და პარამეტრები ყველა მოწყობილობაზე.">
 <!ENTITY signedOut.accountBox.title   "&syncBrand.fxAccount.label; - დაკავშირება">
 <!ENTITY signedOut.accountBox.create  "ანგარიშის შექმნა">
