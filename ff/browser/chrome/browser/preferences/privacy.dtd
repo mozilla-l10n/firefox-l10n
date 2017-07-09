@@ -25,6 +25,7 @@
 <!ENTITY changeBlockList.label          "Waylu Doggol Daaƴol">
 <!ENTITY changeBlockList.accesskey      "W">
 
+<!ENTITY  doNotTrack.description        "Neldu lowe internet siñaal &quot;Hoto rewindo&quot; so a yiɗaa ñukkindeede">
 <!ENTITY  doNotTrack.learnMore.label    "Ɓeydu humpito">
 <!ENTITY  doNotTrack.default.label      "E sahaa ndeenka rewindo tan">
 <!ENTITY  doNotTrack.always.label       "Sahaa kala">
