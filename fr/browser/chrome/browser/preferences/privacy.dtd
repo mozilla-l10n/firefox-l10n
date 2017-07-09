@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Protection contre le pistage">
+<!ENTITY  trackingProtection2.description      "Le pistage correspond à la collecte de vos données de navigation depuis plusieurs sites web. Le pistage peut servir à établir un profil et afficher du contenu en rapport avec votre navigation et vos données personnelles.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Utiliser la protection contre le pistage pour bloquer les traqueurs connus">
 <!ENTITY  trackingProtectionAlways.label       "Toujours">
 <!ENTITY  trackingProtectionAlways.accesskey   "T">
@@ -19,13 +20,14 @@
 <!ENTITY trackingProtectionPBM5.accesskey     "i">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
 <!ENTITY trackingProtectionPBM6.label         "Utiliser la protection contre le pistage en navigation privée pour bloquer les traqueurs connus">
+<!ENTITY trackingProtectionPBM6.accesskey     "i">
 <!ENTITY trackingProtectionPBMLearnMore.label "En savoir plus">
 <!ENTITY changeBlockList.label          "Modifier les listes de blocage">
 <!ENTITY changeBlockList.accesskey      "b">
 
 <!ENTITY  doNotTrack.description        "Envoyer aux sites web un signal « Ne pas me pister » indiquant que vous ne souhaitez pas être pisté">
 <!ENTITY  doNotTrack.learnMore.label    "En savoir plus">
-<!ENTITY  doNotTrack.default.label      "Seulement en utilisant la protection contre le pistage">
+<!ENTITY  doNotTrack.default.label      "Seulement lorsque la protection contre le pistage est utilisée">
 <!ENTITY  doNotTrack.always.label       "Toujours">
 
 <!ENTITY  history.label                 "Historique">
