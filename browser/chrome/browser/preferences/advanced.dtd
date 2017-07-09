@@ -114,6 +114,7 @@ available. -->
 <!ENTITY enableSearchUpdate2.label       "স্বয়ংক্রিয়ভাবে সার্চ ইঞ্জিন হালনাগাদ হবে">
 <!ENTITY enableSearchUpdate2.accesskey   "e">
 
+<!ENTITY reports.label                   "প্রতিবেদন">
 
 <!ENTITY offlineStorageNotify.label               "অফলাইন অবস্থায় ব্যবহারের জন্য কোনো ওয়েবসাইট তথ্য সংরক্ষণের চেষ্টা করলে আপনাকে জানাবে">
 <!ENTITY offlineStorageNotify.accesskey           "T">
@@ -139,6 +140,7 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "নিরাপত্তা ডিভাইস">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "কার্যকারিতা">
 
 
 
