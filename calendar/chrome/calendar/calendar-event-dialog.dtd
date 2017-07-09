@@ -40,7 +40,7 @@
 <!ENTITY event.attendees.notifyundisclosed.tooltip   "هذا الخيار يرسل رسالة دعوة واحدة لكل حاضر. كل دعوة تحتوي فقط على الحاضر المتلقي للدعوة بحيث لا يُفصح عن هويات الحضور الأخرى.">
 <!ENTITY event.attendees.disallowcounter.label       "امنع العداد">
 <!ENTITY event.attendees.disallowcounter.accesskey   "ن">
-<!ENTITY event.attendees.disallowcounter.tooltip     "يوضح أنك لن تقبل العروض المضادة.">
+<!ENTITY event.attendees.disallowcounter.tooltip     "يوضح أنك لن تقبل العروض المضادة">
 <!-- Keyboard Shortcuts -->
 
 <!ENTITY event.dialog.new.event.key2              "I">
@@ -190,10 +190,10 @@
 
 <!ENTITY counter.button.proposal.label                    "طبق الطلب">
 <!ENTITY counter.button.proposal.accesskey                "ط">
-<!ENTITY counter.button.proposal.tooltip2                 "ستُملأ حقول الحدث بالقيم من العرض المضاد، الحفظ مع أو بدون أي تغييرات إضافية سينبه المشاركين بذلك.">
+<!ENTITY counter.button.proposal.tooltip2                 "ستُملأ حقول الحدث بالقيم من العرض المضاد، الحفظ مع أو بدون أي تغييرات إضافية سينبه المشاركين بذلك">
 <!ENTITY counter.button.original.label                    "طبق البيانات الأصلية">
 <!ENTITY counter.button.original.accesskey                "ص">
-<!ENTITY counter.button.original.tooltip2                 "ستُملأ الحقول بالقيم من الحدث الأصلي ما قبل العرض المضاد.">
+<!ENTITY counter.button.original.tooltip2                 "ستُملأ الحقول بالقيم من الحدث الأصلي ما قبل العرض المضاد">
 <!-- Main page -->
 
 <!ENTITY event.title.textbox.label                        "الاسم:" >
