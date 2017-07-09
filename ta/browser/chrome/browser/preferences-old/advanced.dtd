@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "இந்தக் கட்டமைப்பிற்கு தரவு அறிக்கை முடக்கப்பட்டுள்ளது">
+
 <!ENTITY healthReportDesc.label          "உங்கள் உலாவியின் செயல்திறனைப் புரிந்துகொள்ள உதவுகிறது, மேலும் உங்கள் உலாவியின் ஆரோக்கியத்தைப் பற்றி &vendorShortName; தரவைப் பகிர்ந்துகொள்கிறது">
 <!ENTITY enableHealthReport.label        "&brandShortName; ஆரோக்கிய அறிக்கையை செயல்படுத்தவும்">
 <!ENTITY enableHealthReport.accesskey    "அ">
@@ -117,7 +119,7 @@ available. -->
 <!ENTITY certPersonal.label              "கோரிக்கைகள்">
 <!ENTITY certPersonal.description        "ஒரு சேவையகம் உங்கள் தனிப்பட்ட சான்றிதழைக் கேட்டால்:">
 <!ENTITY selectCerts.auto                "தானாக ஒன்றைத் தேர்ந்தெடு">
-
+<!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "ஒவ்வொரு முறையும் உங்களைக் கேட்கவும்">
 <!ENTITY selectCerts.ask.accesskey       "அ">
 <!ENTITY enableOCSP.label                "சான்றிதழ்களின் செல்லுபடி நிலையை உறுதிப்படுத்துவதற்காக OCSP பதிலளிப்பு சேவையகங்களிடம் வினவு">
@@ -127,13 +129,14 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "பாதுகாப்பு சாதனங்கள்">
 <!ENTITY viewSecurityDevices.accesskey   "D">
 
+<!ENTITY performance.label               "செயல்திறன்">
 <!ENTITY useRecommendedPerformanceSettings.label "பரிந்துரைக்கப்பட்ட செயல்திறன் அமைவுகளைப் பயன்படுத்தவும்">
-
+<!ENTITY useRecommendedPerformanceSettings.description "இந்த அமைவுகள் உங்கள் கணினியின் வன்பொருள் மற்றும் இயக்க முறைமைக்கு ஏற்ப அமைந்துள்ளது.">
 <!ENTITY useRecommendedPerformanceSettings.accesskey "U">
 <!ENTITY performanceSettingsLearnMore.label "மேலும் அறிய">
-
-
-
+<!ENTITY limitContentProcessOption.label "உள்ளடக்க செயல்முறை வரம்பு">
+<!ENTITY limitContentProcessOption.description "பல கீற்றுகளைப் பயன்படுத்தும் போது கூடுதல் உள்ளடக்க செயலாக்கங்கள் செயல்திறனை மேம்படுத்தும், ஆனால் அது அதிக நினைவகத்தைப் பயன்படுத்தும்.">
+<!ENTITY limitContentProcessOption.accesskey   "l">
 
 
 <!ENTITY allowHWAccel.label              "கிடைக்கும்போது வன்பொருள் முடுக்கத்தை பயன்படுத்தவும்">
