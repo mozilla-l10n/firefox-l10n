@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
+<!ENTITY  applications.label       "பயன்பாடுகள்">
+<!ENTITY  applications.description "நீங்கள் உலாவும்போது இணையம் அல்லது பயன்பாடுகளிலிருந்து பதிவிறக்கும் கோப்புகளை &brandShortName; எவ்வாறு கையாள வேண்டும் என்பதைத் தேர்ந்தெடு.">
 
 <!ENTITY  typeColumn.label        "உள்ளடக்க வகை">
 <!ENTITY  typeColumn.accesskey    "T">
