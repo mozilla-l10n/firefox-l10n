@@ -35,7 +35,7 @@
 <!ENTITY runtimeMenu_takeScreenshot_label "திரைப்பிடிப்பு">
 <!ENTITY runtimeMenu_takeScreenshot_accesskey "S">
 <!ENTITY runtimeMenu_showDetails_label "இயக்க நேரம் தகவல்">
-
+<!ENTITY runtimeMenu_showDetails_accesskey "E">
 <!ENTITY runtimeMenu_showMonitor_label "கண்காணிப்பு">
 <!ENTITY runtimeMenu_showMonitor_accesskey "M">
 <!ENTITY runtimeMenu_showDevicePrefs_label "சாதன முன்னுரிமைகள்">
