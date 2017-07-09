@@ -98,14 +98,15 @@ available. -->
 <!ENTITY updateApplication.version.pre   "সংস্করণ ">
 <!ENTITY updateApplication.version.post  "">
 <!ENTITY updateApplication.description   "&brandShortName; কে যে কাজে অনুমতি দেওয়া হবে">
+<!ENTITY updateAuto2.label               "হালনাগাদ স্বয়ংক্রিয়ভাবে ইনস্টল হয় (উন্নত নিরাপত্তার জন্য প্রস্তাবিত)">
+<!ENTITY updateAuto2.accesskey           "A">
+<!ENTITY updateCheckChoose2.label        "হালনাগাদকরণ যাচাই করুন তবে ইনস্টলের পূর্বে আপনাকে জানাবে">
+<!ENTITY updateCheckChoose2.accesskey    "C">
 
 
 
-
-
-
-
-
+<!ENTITY updateHistory2.label            "হালনাগাদের ইতিহাস দেখাও…">
+<!ENTITY updateHistory2.accesskey        "p">
 
 <!ENTITY useService.label                "হালনাগাদ ইনস্টলের জন্য একটি পটভূমির সার্ভিস ব্যবহার করুন b">
 <!ENTITY useService.accesskey            "b">
@@ -126,7 +127,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "অফলাইন ডাটা মুছে ফেলা হবে">
 
 <!ENTITY certificateTab.label            "সনদপত্র">
-
+<!ENTITY certPersonal2.description       "যখন কোনো সার্ভার আপনার ব্যক্তিগত সার্টিফিকেট অনুরোধ করে">
 <!ENTITY selectCerts.auto                "স্বয়ংক্রিয়ভাবে নির্বাচন করা হবে">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "আপনাকে প্রতিবার জিজ্ঞেস করা">
