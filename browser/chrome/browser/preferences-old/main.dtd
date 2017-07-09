@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "பயர்பாக்ஸ்சும் &brandShortName; ம் ஒரே நேரத்தில் இயங்க அனுமதி">
 <!ENTITY useFirefoxSync.label             "குறிப்பு: தனித்தனி சுயவிவரங்களைப் பயன்படுத்துகிறது. ஒத்திசைவு மூலம் அவைகளுக்கிடையே தரவை பகிரவும்.">
-
-
+<!ENTITY getStarted.notloggedin.label     "&syncBrand.shortName.label; என்பதற்கு புகுபதிக…">
+<!ENTITY getStarted.configured.label      "&syncBrand.shortName.label; முன்னுரிமைகளைத் திற">
 
 <!ENTITY e10sEnabled.label                "பற்செயல்பாடுகளை &brandShortName; செயல்படுத்து">
