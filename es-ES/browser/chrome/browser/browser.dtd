@@ -613,6 +613,17 @@
 <!ENTITY customizeMode.lwthemes.menuGetMore "Conseguir más temas">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "C">
 <!ENTITY customizeMode.emptyOverflowList.description "Arrastre y suelte elementos aquí para conservarlos a mano pero fuera de su barra de herramientas…">
+<!ENTITY customizeMode.uidensity "Densidad">
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!ENTITY customizeMode.uidensity.menuCompact.label "Compacto">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacto">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tocar">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tocar">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Use los toques en el modo tableta">
 <!ENTITY getUserMedia.selectCamera.label "Cámara para compartir:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
 <!ENTITY getUserMedia.selectMicrophone.label "Micrófono para compartir:">
@@ -686,7 +697,7 @@
 <!ENTITY updateRestart.cancelButton.accesskey "N">
 <!ENTITY updateRestart.panelUI.label2 "Reinicie para actualizar &brandShorterName;">
 <!ENTITY pageActionButton.tooltip "Acciones con la página">
-<!ENTITY sendToDevice.label "Enviar al dispositivo…">
+<!ENTITY sendToDevice.label2 "Enviar al dispositivo">
 <!ENTITY sendToDevice.viewTitle "Enviar al dispositivo">
 <!ENTITY sendToDevice.fxaRequired.label "Requerido">
 <!ENTITY sendToDevice.noDevices.label "No hay dispositivos disponibles">
