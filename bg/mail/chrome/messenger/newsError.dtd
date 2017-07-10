@@ -12,15 +12,20 @@
 
 <!-- LOCALIZATION NOTE (articleNotFound.desc): A longer description for the news
      error page. -->
+<!ENTITY articleNotFound.desc "Сървърът на дискусионната група не може да намери статията.">
 
 <!-- LOCALIZATION NOTE (serverResponded.title): A string preceding the text
      response from the newsgroup server describing the error. -->
+<!ENTITY serverResponded.title "Отговор от сървъра на дискусионната група:">
 
 <!-- LOCALIZATION NOTE (articleExpired.title): A string explaining that the
      article may have expired. -->
+<!ENTITY articleExpired.title "Възможно ли е статията да е с изтекъл срок?">
 
 <!-- LOCALIZATION NOTE (trySearching.title): A string preceding the message's
      ID. -->
+<!ENTITY trySearching.title "Опитайте да търсите статия:">
 
 <!-- LOCALIZATION NOTE (removeExpiredArticles.title): The label for the button
      to remove all expired articles from the newsgroup. -->
+<!ENTITY removeExpiredArticles.title "Премахване на всички статии с изтекъл срок">
