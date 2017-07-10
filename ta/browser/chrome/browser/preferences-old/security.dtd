@@ -11,6 +11,8 @@
   https://developers.google.com/safe-browsing/developers_guide_v2#AcceptableUsage
 -->
 
+<!ENTITY  enableSafeBrowsing.label        "ஆபத்தான தீங்கிழைக்கும் உள்ளடக்கத்தைத் தடு">
+<!ENTITY  enableSafeBrowsing.accesskey    "B">
 
 <!ENTITY  blockDownloads.label            "ஆபத்தான பதிவிறக்கங்களை முடக்கு">
 <!ENTITY  blockDownloads.accesskey        "d">
