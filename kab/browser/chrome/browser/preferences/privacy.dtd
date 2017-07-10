@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Ammesten mgal asfuγel">
+<!ENTITY  trackingProtection2.description      "Asfuγel d aleqqaḍ n isefka inek n iminig sγur ismal web. asfuγel seqdacent akken ad k-d-seknen agbur iddan akked isefka inek udmawanen d isefka n iminig inek.">
 <!ENTITY  trackingProtection2.radioGroupLabel  "Seqdec amesten mgal asfuγel akken ad teswaḥleḍ imsfuγal irusinin">
 <!ENTITY  trackingProtectionAlways.label       "Yal ass">
 <!ENTITY  trackingProtectionAlways.accesskey   "Y">
@@ -24,6 +25,7 @@
 <!ENTITY changeBlockList.label          "Snifel tabdart n usewḥel">
 <!ENTITY changeBlockList.accesskey      "S">
 
+<!ENTITY  doNotTrack.description        "Ad yazen tamuli “ur sfu$yul ara” γer ismal web akken ad gzun d akken ur tebγiḍ ara asfuγel">
 <!ENTITY  doNotTrack.learnMore.label    "Issin ugar">
 <!ENTITY  doNotTrack.default.label      "Ala s useqdec n ummesten mgal aḍfaṛ">
 <!ENTITY  doNotTrack.always.label       "Yal tikelt">
