@@ -36,14 +36,17 @@
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "  தொங்கிய நூல்">
 
+<!ENTITY aboutTelemetry.capturedStacksSection "  கைப்பற்றிய அடுக்குகள்">
 
 <!ENTITY aboutTelemetry.scalarsSection "  அளவுகள்">
 
+<!ENTITY aboutTelemetry.keyedScalarsSection "  விசை திசையிலிகள்">
 
 <!ENTITY aboutTelemetry.histogramsSection "  செவ்வக வரைபடங்கள்">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "  விசையாலான செவ்வகப்படங்கள்">
 
+<!ENTITY aboutTelemetry.eventsSection "நிகழ்வுகள்">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "  எளிய அளவீடுகள்">
 
@@ -57,6 +60,7 @@
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "  ஸ்டேக்குகளுக்காக செயல்தொகுதி பெயர்களைப் பெறு">
 
+<!ENTITY aboutTelemetry.hideStackSymbols "  அடுக்கின் பதனிடாத தரவைக் காண்பி">
 
 <!ENTITY aboutTelemetry.filterText "  வடிகட்டு(சரளங்கள் அல்லது /regexp/)">
 
