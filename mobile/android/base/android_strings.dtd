@@ -817,11 +817,11 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY promotion_add_to_homescreen "添加到主屏幕">
 
 <!ENTITY helper_first_offline_bookmark_title "离线阅读">
-<!ENTITY helper_first_offline_bookmark_message "在您的书签中打开您的阅读项目，离线也不怕。">
+<!ENTITY helper_first_offline_bookmark_message "在书签中打开您的阅读项目，没网也不怕。">
 <!ENTITY helper_first_offline_bookmark_button "转至书签">
 
 <!ENTITY helper_triple_readerview_open_title "没网也能读">
-<!ENTITY helper_triple_readerview_open_message "加入书签的阅读视图项目可以离线阅读。">
+<!ENTITY helper_triple_readerview_open_message "为阅读项目添加书签，没网也能读。">
 <!ENTITY helper_triple_readerview_open_button "添加书签">
 
 <!ENTITY activity_stream_topsites "常用网站">
