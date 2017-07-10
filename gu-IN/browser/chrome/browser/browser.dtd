@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "મોબાઇલ બુકમાર્કો">
 <!ENTITY viewBookmarksSidebar2.label        "બુકમાર્ક બાજુપટ્ટીને જુઓ">
 <!ENTITY viewBookmarksToolbar.label         "બુકમાર્ક સાધનપટ્ટીને દર્શાવો">
+<!ENTITY searchBookmarks.label              "બુકમાર્ક્સ શોધો">
 
 <!ENTITY containersMenu.label "કંટેનર">
 
@@ -749,7 +750,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.insecureLoginForms2 "આ પાનાં પર દાખલ લૉગિન્સ ચેડા થઈ શકે છે.">
 
 <!-- Strings for connection state warnings. -->
-<!ENTITY identity.activeBlocked "&BrandShortName; એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.">
+<!ENTITY identity.activeBlocked "&brandShortName; એ આ પૃષ્ઠના ભાગોને અવરોધિત કર્યા છે જે સુરક્ષિત નથી.">
 <!ENTITY identity.passiveLoaded "આ પૃષ્ઠનાં ભાગો સુરક્ષિત નથી (જેમ કે છબીઓ).">
 <!ENTITY identity.activeLoaded "તમે આ પૃષ્ઠ પર રક્ષણ અક્ષમ કર્યું છે.">
 <!ENTITY identity.weakEncryption "આ પાનું નબળા એન્ક્રિપ્શન વાપરે છે.">
@@ -789,6 +790,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncTabsMenu3.label     "સમન્વિત કરેલા ટૅબ્સ">
 
 <!ENTITY syncedTabs.sidebar.label              "સમન્વિત કરેલા ટૅબ્સ">
+<!ENTITY syncedTabs.sidebar.noclients.label    "અહીંયા તેમના ટૅબ્સ જોવા માટે તમારા અન્ય ઉપકરણો માંથી ફાયરફોક્સ સાઇન ઇન કરો.">
 <!ENTITY syncedTabs.sidebar.noclients.title    "કોઈ સમન્વયિત ટેબ્સ નથી...હજી!">
 <!ENTITY syncedTabs.sidebar.noclients.subtitle "અહીં અન્ય ઉપકરણોથી તમારા ટેબ્સ જોવા માંગો છો?">
 <!ENTITY syncedTabs.sidebar.notsignedin.label  "તમારા અન્ય ઉપકરણોમાંથી ટેબ્સની સૂચિ જોવા માટે સાઇન ઇન કરો.">
@@ -853,6 +855,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "વધુ વિષય મેળવો">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
+<!ENTITY customizeMode.emptyOverflowList.description "આઇટમ્સને અહીં પહોંચવા માટે અથવા તમારા ટૂલબારમાંથી બહાર રાખવા માટે તેને અહીં ખેંચો અને છોડો…">
+<!ENTITY customizeMode.uidensity "ઘનતા">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "સામાન્ય">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "સામાન્ય">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "સંકોચો">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "સંકોચો">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "સ્પર્શ">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "સ્પર્શ">
 
 <!ENTITY getUserMedia.selectCamera.label "વહેંચવા માટે કૅમેરા:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
