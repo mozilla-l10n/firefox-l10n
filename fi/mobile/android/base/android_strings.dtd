@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Aloitussivu">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Käytä myös uusille välilehdille">
 <!ENTITY home_homepage_title "Aseta aloitussivu">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,6 +290,8 @@
 <!ENTITY pref_custom_tabs_summary3 "Salli sovellusten avata verkkosivustoja mukautetulla &brandShortName;in versiolla">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
+<!ENTITY custom_tabs_menu_item_open_in "Avaa &formatS;">
+<!ENTITY custom_tabs_menu_footer "Toiminnon tarjoaa &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Osoite kopioitu">
 
@@ -365,6 +368,8 @@
 
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+<!ENTITY pref_use_system_font_size "Käytä järjestelmän kirjasinkokoa">
+<!ENTITY pref_use_system_font_size_summary "Skaalaa verkkosisältö järjestelmän kirjasinkoon perusteella">
 
 <!ENTITY pref_media_autoplay_enabled "Salli automaattinen toisto">
 <!ENTITY pref_media_autoplay_enabled_summary "Voivatko verkkosivustot toistaa automaattisesti videoita ja muuta sisältöä">
@@ -495,6 +500,7 @@
 <!ENTITY contextmenu_open_private_tab "Avaa yksityiseen välilehteen">
 <!ENTITY contextmenu_remove "Poista">
 <!ENTITY contextmenu_add_to_launcher "Lisää linkki kotinäkymään">
+<!ENTITY contextmenu_set_as_homepage "Aseta aloitussivuksi">
 <!ENTITY contextmenu_share "Jaa">
 <!ENTITY contextmenu_pasteandgo "Liitä ja avaa">
 <!ENTITY contextmenu_paste "Liitä">
