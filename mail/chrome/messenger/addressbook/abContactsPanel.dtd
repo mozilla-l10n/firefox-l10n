@@ -35,6 +35,10 @@
 <!ENTITY editMailingListContext.label       "Lista szerkesztése">
 <!ENTITY editMailingListContext.accesskey   "L">
 
+
+
+
+
 <!ENTITY toButton.label                     "Címzett:">
 <!ENTITY toButton.accesskey                 "C">
 <!ENTITY ccButton.label                     "Másolat:">
