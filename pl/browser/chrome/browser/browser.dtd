@@ -371,6 +371,9 @@
 <!ENTITY contentSearchInput.label "Pole wyszukiwania">
 <!ENTITY contentSearchSubmit.tooltip "Szukaj">
 
+<!ENTITY searchInput.placeholder "Szukaj">
+<!ENTITY searchIcon.tooltip "Szukaj">
+
 <!ENTITY searchFor.label "Wyszukaj „">
 <!ENTITY searchWith.label "” z:">
 <!ENTITY search.label "Szukaj z ">
