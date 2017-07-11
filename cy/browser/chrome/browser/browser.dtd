@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Nodau Tudalen Symudol">
 <!ENTITY viewBookmarksSidebar2.label        "Gweld Bar Offer Nodau Tudalen">
 <!ENTITY viewBookmarksToolbar.label         "Gweld Bar Offer Nodau Tudalen">
-
+<!ENTITY searchBookmarks.label              "Chwilio'r Nodau Tudalen">
 
 <!ENTITY containersMenu.label "Cynwysyddion">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "y">
 <!ENTITY mediaPlaybackRate050x2.label "Araf (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "A">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Arferol">
+<!ENTITY mediaPlaybackRate100x2.accesskey "A">
 <!ENTITY mediaPlaybackRate125x2.label "Cyflym (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "C">
 <!ENTITY mediaPlaybackRate150x2.label "Cyflymach (1.5×)">
@@ -856,24 +856,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "R">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Estyn Rhagor o Themâu">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "E">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Llusgwch a gollwng eitemau yma i'w cadw o fewn gafael ond allan o'ch bar offer…">
+<!ENTITY customizeMode.uidensity "Dwysedd">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Arferol">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Arferol">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "A">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Cywasgu">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Crynhoi">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Cyffwrdd">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Cyffwrdd">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Defnyddiwch Cyffwrdd ar gyfer y Modd Tabled">
 
 <!ENTITY getUserMedia.selectCamera.label "Camera i'w rannu:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
