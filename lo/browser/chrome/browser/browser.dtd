@@ -134,10 +134,13 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      sentence to their language. -->
 <!ENTITY fullscreenWarning.beforeDomain.label "">
 <!ENTITY fullscreenWarning.afterDomain.label "ເຕັມຈໍຢູ່">
+<!ENTITY fullscreenWarning.generic.label "ເອກະສານນີ້ເຕັມຈໍຢູ່">
 
 <!-- LOCALIZATION NOTE (exitDOMFullscreen.button,
      exitDOMFullscreenMac.button): the "escape" button on PC keyboards
      is uppercase, while on Mac keyboards it is lowercase -->
+<!ENTITY exitDOMFullscreen.button "ອອກຈາກໂມດເຕັມຫນ້າຈໍ (Esc)">
+<!ENTITY exitDOMFullscreenMac.button "ອອກຈາກໂມດເຕັມຫນ້າຈໍ (Esc)">
 <!ENTITY leaveDOMFullScreen.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
 <!ENTITY leaveDOMFullScreen.accesskey "u">
 
