@@ -15,13 +15,21 @@
                                                                 inside the private browsing mode -->
 <!ENTITY mainWindow.titlePrivateBrowsingSuffix "(ການຄົ້ນຫາແບບສ່ວນຕົວ)">
 
+<!ENTITY appmenu.tooltip                     "ເປີດເມນູ">
+<!ENTITY navbarOverflow.label                "ເຄື່ອງມືເພີ່ມເຕີມ…">
 
 <!-- Tab context menu -->
 <!ENTITY  reloadTab.label                    "ໂລດແທັບຄືນໃຫມ່">
 <!ENTITY  reloadTab.accesskey                "R">
+<!ENTITY  reloadAllTabs.label                "ໂຫລດແທັບທັງຫມົດຄືນໃຫມ່">
+<!ENTITY  reloadAllTabs.accesskey            "A​">
 <!-- LOCALIZATION NOTE (closeTabsToTheEnd.label): This should indicate the
 direction in which tabs are closed, i.e. locales that use RTL mode should say
 left instead of right. -->
+<!ENTITY  closeTabsToTheEnd.label            "ປິດແທັບໄປທາງຂວາ">
+<!ENTITY  closeTabsToTheEnd.accesskey        "i">
+<!ENTITY  closeOtherTabs.label               "ປິດແທັບອື່ນໆ">
+<!ENTITY  closeOtherTabs.accesskey           "o">
 
 <!-- LOCALIZATION NOTE (pinTab.label, unpinTab.label): "Pin" is being
 used as a metaphor for expressing the fact that these tabs are "pinned" to the
@@ -32,8 +40,18 @@ can reach it easily. -->
 <!ENTITY  pinTab.accesskey                   "P">
 <!ENTITY  unpinTab.label                     "ບໍ່ປັກແທັບ">
 <!ENTITY  unpinTab.accesskey                 "b">
+<!ENTITY  sendTabToDevice.label              "ສົ່ງແທັບໄປຫາອຸປະກອນ">
+<!ENTITY  sendTabToDevice.accesskey          "D​">
+<!ENTITY  sendPageToDevice.label             "ສົ່ງຫນ້າໄປຫາອຸປະກອນ">
+<!ENTITY  sendPageToDevice.accesskey         "D​">
+<!ENTITY  sendLinkToDevice.label             "ສົ່ງລີ້ງໄປຫາອຸປະກອນ">
+<!ENTITY  sendLinkToDevice.accesskey         "D​">
 <!ENTITY  moveToNewWindow.label              "ຍ້າຍໄປຫນ້າຕ່າງໃຫມ່">
 <!ENTITY  moveToNewWindow.accesskey          "W">
+<!ENTITY  bookmarkAllTabs.label              "ບຸກມາກແທັບທັງຫມົດ...">
+<!ENTITY  bookmarkAllTabs.accesskey          "T">
+<!ENTITY  undoCloseTab.label                 "ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ">
+<!ENTITY  undoCloseTab.accesskey             "​">
 <!ENTITY  closeTab.label                     "ປິດແທັບ">
 <!ENTITY  closeTab.accesskey                 "C">
 
@@ -45,6 +63,7 @@ can reach it easily. -->
 <!-- LOCALIZATION NOTE (openLocationCmd.label): "Open Location" is only
 displayed on OS X, and only on windows that aren't main browser windows, or
 when there are no windows but Firefox is still running. -->
+<!ENTITY openLocationCmd.label "ເປີດຕຳແຫນ່ງທີ່ຕັ້ງ…">
 <!ENTITY openFileCmd.label "ເປີດ...">
 <!ENTITY openFileCmd.accesskey "O">
 <!ENTITY openFileCmd.commandkey "o">
@@ -61,10 +80,17 @@ when there are no windows but Firefox is still running. -->
 
 <!ENTITY menubarCmd.label "ແຖບລາຍການ">
 <!ENTITY menubarCmd.accesskey "M">
+<!ENTITY navbarCmd.label "ແຖບເຄື່ອງມືນຳທາງ">
 <!ENTITY personalbarCmd.label "ແຖບເຄື່ອງມືບຸກມາກ">
 <!ENTITY personalbarCmd.accesskey "B">
 <!ENTITY bookmarksToolbarItem.label "ລາຍການຂອງແຖບເຄື່ອງມືບຸກມາກ">
 
+<!ENTITY toolbarContextMenu.reloadAllTabs.label "ໂຫລດແທັບທັງຫມົດຄືນໃຫມ່">
+<!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "A​">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.label "ບຸກມາກແທັບທັງຫມົດ...">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "T">
+<!ENTITY toolbarContextMenu.undoCloseTab.label "ເອີ້ນຄືນແທັບທີ່ຫາກະປິດ">
+<!ENTITY toolbarContextMenu.undoCloseTab.accesskey "​">
 
 <!ENTITY pageSourceCmd.label "ທີ່ມາຂອງຫນ້ານີ້">
 <!ENTITY pageSourceCmd.accesskey "o">
@@ -72,6 +98,8 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY pageInfoCmd.label "ຂໍ້ມູນຂອງຫນ້ານີ້">
 <!ENTITY pageInfoCmd.accesskey "I">
 <!ENTITY pageInfoCmd.commandkey "i">
+<!ENTITY mirrorTabCmd.label "ສະທ້ອນແທັບ">
+<!ENTITY mirrorTabCmd.accesskey "m">
 <!-- LOCALIZATION NOTE (enterFullScreenCmd.label, exitFullScreenCmd.label):
 These should match what Safari and other Apple applications use on OS X Lion. -->
 <!ENTITY enterFullScreenCmd.label "ເຂົ້າສູ່ໂມດເຕັມຫນ້າຈໍ">
@@ -83,11 +111,17 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY fullScreenCmd.macCommandKey "f">
 <!ENTITY showAllTabsCmd.label "ສະແດງທຸກໆແທັບ">
 <!ENTITY showAllTabsCmd.accesskey "A">
+<!ENTITY toggleReaderMode.key "R">
 
+<!ENTITY fxaSignIn.label "ເຂົ້າສູ່ລະບົບເພື່ອ &syncBrand.shortName.label;">
+<!ENTITY fxaSignedIn.tooltip "ເປີດການຕັ້ງຄ່າ &syncBrand.shortName.label;">
+<!ENTITY fxaSignInError.label "ເຊື່ອມຕໍກັບ &syncBrand.shortName.label; ໃຫມ່">
+<!ENTITY fxaUnverified.label "ກວດສອບບັນຊີຂອງທ່ານ">
 
 
 <!ENTITY fullScreenMinimize.tooltip "ເຮັດໃຫ້ນ້ອຍລົງ">
 <!ENTITY fullScreenRestore.tooltip "ກູ້ຄືນ">
+<!ENTITY fullScreenClose.tooltip "ປິດ">
 <!ENTITY fullScreenAutohide.label "ເຊື່ອງແຖບເຄືອງມື">
 <!ENTITY fullScreenAutohide.accesskey "H">
 <!ENTITY fullScreenExit.label "ອອກຈາກໂມດເຕັມຫນ້າຈໍ">
@@ -301,6 +335,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (contentSearchInput.label):
      This is set as the aria-label attribute for the search input box in the
      in-content search UI, to be used by screen readers. -->
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -553,6 +590,15 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 <!ENTITY customizeMode.lwthemes.menuManage "ຈັດການ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 
 
 <!-- LOCALIZATION NOTE (trackingProtection.unblock.label, trackingProtection.unblock.accesskey):
