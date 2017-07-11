@@ -35,6 +35,10 @@
 <!ENTITY editMailingListContext.label       "Edita la llista">
 <!ENTITY editMailingListContext.accesskey   "E">
 
+
+
+
+
 <!ENTITY toButton.label                     "Afegeix a A:">
 <!ENTITY toButton.accesskey                 "A">
 <!ENTITY ccButton.label                     "Afegeix a Cc:">
