@@ -855,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "У">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Повече теми">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "т">
+<!ENTITY customizeMode.emptyOverflowList.description "Завлачете елементи тук, за да ги имате под ръка, но да не са на лентата с инструменти…">
+<!ENTITY customizeMode.uidensity "Плътност">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Нормална">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Нормална">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "Н">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Компактна">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "К">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "За докосване">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "За докосване">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "д">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Използване на За докосване при режим за таблети">
 
 <!ENTITY getUserMedia.selectCamera.label "Камера за споделяне:">
 <!ENTITY getUserMedia.selectCamera.accesskey "К">
