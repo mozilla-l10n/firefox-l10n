@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Llwyddiant!">
 <!ENTITY welcomeback2.pageInfo1     "Mae &brandShortName; yn barod i fynd.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Adfer pob ffenestr a thab">
 <!ENTITY welcomeback2.restoreSome.label "Adfer dim ond y rhai rydych eu heisiau">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
