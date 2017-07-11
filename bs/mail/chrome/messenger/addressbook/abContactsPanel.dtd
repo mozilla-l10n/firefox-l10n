@@ -35,6 +35,10 @@
 <!ENTITY editMailingListContext.label       "Uredi popis">
 <!ENTITY editMailingListContext.accesskey   "e">
 
+
+
+
+
 <!ENTITY toButton.label                     "Dodaj u Za:">
 <!ENTITY toButton.accesskey                 "D">
 <!ENTITY ccButton.label                     "Dodaj u Cc:">
