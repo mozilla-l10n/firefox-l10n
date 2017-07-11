@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Priodweddau Rhestr E-bostio">
 <!ENTITY mailingListPropertiesMenu.accesskey "o">
 
+<!ENTITY abContextMenuButton.tooltip        "Dangos Cyd-destun Dewislen y Llyfr Cyfeiriadau">
 <!ENTITY addressbookPicker.label            "Llyfr Cyfeiriadau:">
 <!ENTITY addressbookPicker.accesskey        "L">
 <!ENTITY searchContacts.label               "Chwilio drwy'r Cysylltiadau:">
@@ -35,9 +36,10 @@
 <!ENTITY editMailingListContext.label       "Golygu Rhestr">
 <!ENTITY editMailingListContext.accesskey   "G">
 
-
-
-
+<!ENTITY newContactAbContext.label          "Cysylltiad Newydd">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Rhestr Newydd">
+<!ENTITY newListAbContext.accesskey         "R">
 
 <!ENTITY toButton.label                     "Ychwanegu at:">
 <!ENTITY toButton.accesskey                 "a">
