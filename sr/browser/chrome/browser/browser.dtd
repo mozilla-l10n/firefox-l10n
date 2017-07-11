@@ -948,7 +948,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteTabsAndWindows    "Затворити све <html:strong>језичке</html:strong> и <html:strong>прозоре</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "Отворити нови прозор">
 
-<!ENTITY panicButton.view.undoWarning             "Ова радња не може да се поништи.">
+<!ENTITY panicButton.view.undoWarning             "Ова радња се не може опозвати.">
 <!ENTITY panicButton.view.forgetButton            "Заборави!">
 
 <!ENTITY panicButton.thankyou.msg1                "Недавна историја је обрисана.">
