@@ -35,6 +35,10 @@
 <!ENTITY editMailingListContext.label       "Keisti sąrašą">
 <!ENTITY editMailingListContext.accesskey   "K">
 
+
+
+
+
 <!ENTITY toButton.label                     "Pridėti į „Kam“">
 <!ENTITY toButton.accesskey                 "P">
 <!ENTITY ccButton.label                     "Pridėti į „Kopija“">
