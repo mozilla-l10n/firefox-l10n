@@ -443,8 +443,8 @@
 <!-- Localization note (datareporting_crashreporter_title_short) : This string matches
      (crashReporterSection.label) in en-US/chrome/browser/preferences/advanced.dtd.-->
 <!ENTITY datareporting_crashreporter_title_short "Pelapor Ranap">
-<!ENTITY datareporting_wifi_title2 "&vendorShortName; Lokasi Perkhidmatan">
-<!ENTITY datareporting_wifi_geolocation_summary4 "Bantu &vendorShortName; memetai dunia! Kongsi lokasi Wi-Fi dan talian peranti anda untuk memperbaikkan perkhidmatan geolokasi kami.">
+<!ENTITY datareporting_wifi_title2 "Perkhidmatan Lokasi &vendorShortName;">
+<!ENTITY datareporting_wifi_geolocation_summary4 "Bantu &vendorShortName; memeta dunia! Kongsi lokasi Wi-Fi dan talian peranti anda untuk memperbaik perkhidmatan geolokasi kami.">
 <!-- Localization note (pref_update_autodownload2) : This should mention downloading
      specifically, since the pref only prevents automatic downloads and not the
      actual notification that an update is available. -->
@@ -496,7 +496,7 @@
 <!ENTITY media_pause "Jeda">
 <!ENTITY media_stop "Berhenti">
 
-<!ENTITY contextmenu_open_new_tab "Buka di Tab Baru">
+<!ENTITY contextmenu_open_new_tab "Buka dalam Tab Baru">
 <!ENTITY contextmenu_open_private_tab "Buka dalam Tab Peribadi">
 <!ENTITY contextmenu_remove "Alih keluar">
 <!ENTITY contextmenu_add_to_launcher "Tambah ke Skrin Halaman utama">

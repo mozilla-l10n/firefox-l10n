@@ -4,7 +4,7 @@
 
 <!ENTITY aboutAccounts.connected.title "Akaun Firefox">
 <!ENTITY aboutAccounts.connected.description "Anda dihubungkan sebagai">
-<!ENTITY aboutAccounts.syncPreferences.label "Tap di sini untuk menyemak tetapan Sycn">
+<!ENTITY aboutAccounts.syncPreferences.label "Tap di sini untuk menyemak tetapan Sync">
 
 <!ENTITY aboutAccounts.noConnection.title "Tiada sambungan internet">
 <!ENTITY aboutAccounts.retry.label "Cuba lagi">
