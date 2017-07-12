@@ -4,7 +4,7 @@
 
 <!ENTITY  updateWizard.title              "&brandShortName; - განახლება">
 
-<!ENTITY  offline.title                   "&brandShortName; ავტონომიურ რეჟიმშია">
+<!ENTITY  offline.title                   "&brandShortName; კავშირგარეშე რეჟიმშია">
 <!ENTITY  offline.description             "&brandShortName; საჭიროებს კავშირის რეჟიმში გადასვლას რათა შეამოწმოს 
 თქვენი მოდულების შესაძლო განახლებები თქვენს მიმდინარე ვერსიასთან 
 თავსებადობის უზრუნველსაყოფად.">

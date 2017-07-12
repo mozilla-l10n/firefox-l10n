@@ -24,7 +24,7 @@
 <!-- manager entities -->
 <!ENTITY            pmDescription.label    "&brandShortName; მონაცემებს თქვენი პარამეტრების, მახასიათებლებისა და სხვა ელემენტების შესახებ თქვენს პროფილში ინახავს.">
 
-<!ENTITY            offlineState.label    "ავტონომიური რეჟიმი">
+<!ENTITY            offlineState.label    "კავშირგარეშე რეჟიმი">
 <!ENTITY            offlineState.accesskey "o">
 
 <!ENTITY            useSelected.label       "ჩატვირთვის დროს ამ პროფილის გამოყენება შეკითხვის გარეშე">
