@@ -11,5 +11,5 @@
                           დამატებების მმართველში გადასვლით.">
 <!ENTITY continue        "გაგრძელება">
 <!ENTITY restartMessage  "დამატების ჩადგმის დასასრულებლად საჭიროა &brandShortName;-ის ხელახლა გაშვება.">
-<!ENTITY restartButton   "&brandShortName;-ის გადატვირთვა">
+<!ENTITY restartButton   "&brandShortName;-ის ხელახლა გაშვება">
 <!ENTITY cancelButton    "გაუქმება">
