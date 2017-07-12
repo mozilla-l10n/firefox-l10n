@@ -984,8 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Gweredoù ar bajenn">
 
-<!ENTITY sendToDevice.label "Kas d'an trevnad...">
-<!ENTITY sendToDevice.viewTitle "Kas d'an trevnad">
+
 <!ENTITY sendToDevice.fxaRequired.label "Azgoulennet">
 <!ENTITY sendToDevice.noDevices.label "Trevnad ebet hegerz">
 <!ENTITY sendToDevice.syncNotReady.label "Trevnadoù o c'houbredañ...">
