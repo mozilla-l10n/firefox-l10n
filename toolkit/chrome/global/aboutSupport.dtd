@@ -128,7 +128,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.sandboxSyscallArgs "არგუმენტები">
 
 <!ENTITY aboutSupport.safeModeTitle "სცადეთ უსაფრთხო რეჟიმი">
-<!ENTITY aboutSupport.restartInSafeMode.label "გადატვირთვა გამორთული დამატებებით...">
+<!ENTITY aboutSupport.restartInSafeMode.label "ხელახლა გაშვება გამორთული დამატებებით...">
 
 <!ENTITY aboutSupport.graphicsFeaturesTitle "ფუნქციები">
 <!ENTITY aboutSupport.graphicsDiagnosticsTitle "დიაგნოსტიკა">

@@ -67,10 +67,10 @@
 <!-- LOCALIZATION NOTE (finishedBackground.more): This string describes the button labels defined by restartNowButton and restartLaterButton in updates.properties. -->
 <!ENTITY  finishedBackground.more         "განახლება ჩაიდგმება &brandShortName; შემდეგ სეანსზე. შეგიძლიათ დახუროთ და ხელახლა 
 გახსნათ &brandShortName; ან გააგრძელოთ მუშაობა და გააკეთოთ ეს მოგვიანებით.">
-<!ENTITY  finishedBackground.moreElevated "ეს განახლება ადმინისტრატორის პრივილეგიებს მოითხოვს. განახლება დაყენდბეა
-                                           &brandShortName;-ის შემდეგი ჩართვისას. შეგიძლიათ
-                                           &brandShortName; ახლვე გადატვირთოთ, მუშაობა განაგრძოთ და მოგვიანებით გადატვირთოთ, ან უარყოთ
-                                           განახლება.">
+<!ENTITY  finishedBackground.moreElevated "ეს განახლება ითხოვს ადმინისტრატორის უფლებებს. განახლება
+                                           დაყენდება &brandShortName;-ის მომდევნო გაშვებისას. შეგიძლიათ
+                                           ხელახლა გაუშვათ &brandShortName; ახლვე, ან განაგრძოთ მუშაობა და მოგვიანებით გაუშვათ ხელახლა, ან უარი თქვათ
+                                           განახლებაზე.">
 
 <!ENTITY  update.details.label            "ვრცლად">
 <!ENTITY  update.installedOn.label        "ჩაიდგა:">

@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "კეშის გამოყენება">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "ქსელით კეშის ჩანაცვლება">
 <!ENTITY aboutNetworking.totalNetworkRequests  "ქსელის მოთხოვნები სულ">
+<!ENTITY aboutNetworking.rcwnOperation         "ოპერაცია ქეშზე">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "გახსნა">
+<!ENTITY aboutNetworking.rcwnPerfRead          "წაკითხვა">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "ჩაწერა">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "შესაყვანის გახსნა">
+<!ENTITY aboutNetworking.rcwnAvgShort          "მოკლე საშუალო">
+<!ENTITY aboutNetworking.rcwnAvgLong           "გრძელი საშუალო">
+<!ENTITY aboutNetworking.rcwnStddevLong        "გრძელი სტანდარტული გადახრა">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "ქეშის შენელების რაოდენობა">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "ქეშის რაოდენობა შენელების გარეშე">

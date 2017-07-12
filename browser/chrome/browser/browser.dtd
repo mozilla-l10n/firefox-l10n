@@ -197,7 +197,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY forwardButton.tooltip        "ერთი გვერდით წინ">
 <!ENTITY backForwardButtonMenu.tooltip "ისტორიის საჩვენებლად გამოიყენეთ მარჯვენა წკაპი ან ჩამოქაჩეთ">
 <!ENTITY backForwardButtonMenuMac.tooltip "ისტორიის საჩვენებლად ჩამოქაჩეთ">
-<!ENTITY reloadCmd.label              "გადატვირთვა">
+<!ENTITY reloadCmd.label              "განახლება">
 <!ENTITY stopCmd.label                "გაჩერება">
 <!ENTITY stopCmd.macCommandKey        ".">
 <!ENTITY goEndCap.tooltip             "მისამართზე გადასვლა">
@@ -942,17 +942,17 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "გაგრძელებისას მოხდება:">
-<!ENTITY panicButton.view.deleteCookies           "ბოლო <html:strong>ფუნთუშების</html:strong> წაშლა">
-<!ENTITY panicButton.view.deleteHistory           "ბოლო <html:strong>ისტორიის</html:strong> წაშლა">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "ყველა <html:strong>ჩანართის</html:strong> და <html:strong>ფანჯრის</html:strong> დახურვა">
+<!ENTITY panicButton.view.mainActionDesc          "გაგრძელებისას:">
+<!ENTITY panicButton.view.deleteCookies           "წაიშლება <html:strong>ფუნთუშები</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "წაიშლება <html:strong>ისტორია</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "დაიხურება ყველა <html:strong>ჩანართი</html:strong> და <html:strong>ფანჯარა</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "ახალი სუფთა ფანჯრის გახსნა">
 
 <!ENTITY panicButton.view.undoWarning             "ეს ქმედება შეუქცევადია.">
 <!ENTITY panicButton.view.forgetButton            "დავივიწყოთ!">
 
 <!ENTITY panicButton.thankyou.msg1                "ბოლოს მონახულებული გვერდების ისტორია გასუფთავებულია.">
-<!ENTITY panicButton.thankyou.msg2                "გვერდების მონახულება უსაფრთხოდ!">
+<!ENTITY panicButton.thankyou.msg2                "მოინახულეთ გვერდები უსაფრთხოდ!">
 <!ENTITY panicButton.thankyou.buttonlabel         "გმადლობთ!">
 
 <!ENTITY emeLearnMoreContextMenu.label            "გაიგეთ მეტი DRM-ის შესახებ…">
@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "ვებ-გვერდზე მოქმედებები">
 
-<!ENTITY sendToDevice.label "მოწყობილობაზე გაგზავნა…">
+<!ENTITY sendToDevice.label2 "მოწყობილობაზე გაგზავნა">
 <!ENTITY sendToDevice.viewTitle "მოწყობილობაზე გაგზავნა">
 <!ENTITY sendToDevice.fxaRequired.label "აუცილებელია">
 <!ENTITY sendToDevice.noDevices.label "მოწყობილობები არაა ხელმისაწვდომი">
