@@ -42,7 +42,7 @@
 <!-- Localization note: These are used as the titles of different pages on the home screen.
      They are automatically converted to all caps by the Android platform. -->
 
-<!ENTITY  bookmarks_title "Yakäl taq yaketal">
+<!ENTITY  bookmarks_title "Taq yaketal">
 <!ENTITY  history_title "Natab\u0027äl">
 
 <!ENTITY  switch_to_tab "Tiq\u0027asäx pa ri ruwi\u0027">
@@ -67,13 +67,13 @@
 
 <!ENTITY bookmark "Yaketal">
 <!ENTITY bookmark_remove "Tiyuj el ri yaketal">
-<!ENTITY bookmark_added "Yakäl etal tz\u0027aqatisan">
+<!ENTITY bookmark_added "Yaketal tz\u0027aqatisan">
 <!-- Localization note (bookmark_already_added) : This string is
      used as a label in a toast. It is the verb "to bookmark", not
      the noun "a bookmark". -->
 <!ENTITY bookmark_already_added "K\u0027o chik pa taq yaketal">
-<!ENTITY bookmark_removed "Yakäl etal elesan el">
-<!ENTITY bookmark_updated "Yakäl etal k\u0027exon ruwäch">
+<!ENTITY bookmark_removed "Yaketal elesan el">
+<!ENTITY bookmark_updated "Yaketal k\u0027exon ruwäch">
 <!ENTITY bookmark_options "Taq cha\u0027oj">
 <!ENTITY bookmark_save "Tiyak">
 <!ENTITY screenshot_added_to_bookmarks "Xtz\u0027aqatisäx pa taq yaketal ri chapoj ruwäch">
@@ -544,7 +544,7 @@
 
 <!ENTITY page_removed "Yujun ruxaq">
 
-<!ENTITY bookmark_edit_title "Tinuk\u0027 ri yakäl etal">
+<!ENTITY bookmark_edit_title "Tinuk\u0027 ri yaketal">
 <!ENTITY bookmark_edit_name "B\u0027i\u0027aj">
 <!ENTITY bookmark_edit_location "Rochochib\u0027al">
 <!ENTITY bookmark_edit_keyword "Ewan tzij">
@@ -590,7 +590,7 @@
 <!ENTITY home_history_back_to2 "Jumul chik ri tz\u0027aqät Natab\u0027äl">
 <!ENTITY home_clear_history_button "Tiyuj el runatab\u0027al ri okik\u0027amaya\u0027l">
 <!ENTITY home_clear_history_confirm "¿La kan nawajo\u0027 nayüj el rupam ri natab\u0027äl?">
-<!ENTITY home_bookmarks_empty "Ri taq yakäl etal xe\u0027aköl, xkeq\u0027alajin pe wawe\u0027.">
+<!ENTITY home_bookmarks_empty "Ri taq yaketal xe\u0027aköl, xkeq\u0027alajin pe wawe\u0027.">
 <!ENTITY home_closed_tabs_title2 "Nimakol titz\u0027apïx">
 <!ENTITY home_last_tabs_empty "Ri k\u0027ak\u0027a\u0027 taq ruwi\u0027 awichin, xkeq\u0027alajin pe wawe\u0027.">
 <!ENTITY home_restore_all "Titzolïx ronojel">
@@ -673,7 +673,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
 <!ENTITY bookmarkhistory_button_import "Tijik\u0027 pe">
 <!ENTITY bookmarkhistory_import_both "Kejik\u0027 pe ri taq yaketal chuqa\u0027 natab\u0027äl pan Android">
-<!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yakäl etal chuwäch ri Android">
+<!ENTITY bookmarkhistory_import_bookmarks "Kek\u0027wäx el ri taq yaketal chuwäch ri Android">
 <!ENTITY bookmarkhistory_import_history "Tijik\u0027 pe ri natab\u0027äl pan Android">
 <!ENTITY bookmarkhistory_import_wait "Tab\u0027ana\u0027 utzil, tawoyob\u0027ej...">
 
