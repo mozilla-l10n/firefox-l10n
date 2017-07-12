@@ -87,7 +87,7 @@ available. -->
 <!ENTITY updateTab.label                 "განახლება">
 
 <!ENTITY updateApplication.label         "&brandShortName;-ის განახლებები">
-<!ENTITY updateAuto1.label               "განახლებების ავტომატური ინსტალაცია (რეკომენდებული: გაუმჯობესებულია უსფართხოება)">
+<!ENTITY updateAuto1.label               "ავტომატურად დააყენოს განახლებები (რეკომენდებულია უსაფრთხოების გასაუმჯობესებლად)">
 <!ENTITY updateAuto1.accesskey           "ა">
 <!ENTITY updateCheckChoose.label         "შემოწმდეს განახლებებზე, მაგრამ თავად მიუთითებთ, დააყენდეს თუ არა">
 <!ENTITY updateCheckChoose.accesskey     "ე">
