@@ -22,7 +22,11 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Week">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+
+
 
 <!ENTITY aboutTelemetry.generalDataSection "  General Data">
 
