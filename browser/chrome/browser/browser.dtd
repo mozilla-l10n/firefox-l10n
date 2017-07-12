@@ -985,7 +985,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Dejanja strani">
 
-<!ENTITY sendToDevice.label "Pošlji na napravo …">
 <!ENTITY sendToDevice.viewTitle "Pošlji na napravo">
 <!ENTITY sendToDevice.fxaRequired.label "Zahtevano">
 <!ENTITY sendToDevice.noDevices.label "Nobena naprava ni na voljo">
