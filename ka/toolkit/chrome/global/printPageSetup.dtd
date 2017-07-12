@@ -55,7 +55,7 @@
 <!ENTITY footerRight.tip     "მარჯვხენა ქვესართი">
 
 <!ENTITY hfTitle             "სათაური">
-<!ENTITY hfURL               "მისამართი">
+<!ENTITY hfURL               "URL">
 <!ENTITY hfDateAndTime       "თარიღი">
 <!ENTITY hfPage              "გვერდი #">
 <!ENTITY hfPageAndTotal      "გვერდი # სულ #">
