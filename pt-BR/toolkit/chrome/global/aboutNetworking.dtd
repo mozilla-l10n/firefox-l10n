@@ -51,7 +51,8 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Ler">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Escrever">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entrada aberta">
-<!ENTITY aboutNetworking.rcwnAvgShort          "Média curta">
-<!ENTITY aboutNetworking.rcwnStddevLong        "Desvio-padrão longo">
-<!ENTITY aboutNetworking.rcwnCacheSlow         "Contagem lenta de cache">
-<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Contagem não lenta de cache">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Média de operações curtas">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Média de operações longas">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Desvio-padrão de operações longas">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Contagem de cache slow">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Contagem de cache not slow">
