@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cyfrif storfa wedi ei ennill">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Cyfrif rhwyd wedi ei ennill">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Cyfanswm cyfrif ceisiadau rhwydwaith">
+<!ENTITY aboutNetworking.rcwnOperation         "Gweithred Storfa">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ar Agor">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Darllen">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Ysgrifennu">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Cofnod Ar Agor">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Cyfartaledd Hir">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Cyfartaledd Hir">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Gwyriad Safonol Hir">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cyfrif araf storfa">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cyfrif nid araf storfa">
