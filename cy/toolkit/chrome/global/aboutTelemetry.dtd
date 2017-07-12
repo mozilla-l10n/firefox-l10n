@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wythnos">
 
+<!ENTITY aboutTelemetry.archivePingType "Math Ping">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Heddiw">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Ddoe">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Hŷn">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Data Cyffredinol">
 
