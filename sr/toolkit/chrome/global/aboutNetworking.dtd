@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Кеш је победио">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net је победио">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Укупан број мрежних захтева">
+<!ENTITY aboutNetworking.rcwnOperation         "Кеш операције">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Отвори">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Читај">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Пиши">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Унос отворен">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Кратка просечна">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Дужа просечна">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Дугачко подразумевано одступање">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Број успореног кеша">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Брз неуспореног кеша">
