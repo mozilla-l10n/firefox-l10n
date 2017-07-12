@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mugikorreko laster-markak">
 <!ENTITY viewBookmarksSidebar2.label        "Ikusi laster-marken tresna-barra">
 <!ENTITY viewBookmarksToolbar.label         "Ikusi laster-marken tresna-barra">
-
+<!ENTITY searchBookmarks.label              "Bilatu laster-markak">
 
 <!ENTITY containersMenu.label "Edukiontziak">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -865,8 +865,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Trinkoa">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Trinkoa">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "T">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is

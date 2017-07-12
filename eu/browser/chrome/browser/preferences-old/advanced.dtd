@@ -31,6 +31,8 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Datuen berri ematea desgaituta dago eraikitze-konfigurazio honetarako">
+
 <!ENTITY healthReportDesc.label          "Nabigatzailearen errendimendua ulertzen laguntzen dizu eta nabigatzailearen osasunaren inguruko datuak partekatzen ditu &vendorShortName;(r)ekin">
 <!ENTITY enableHealthReport.label        "Gaitu &brandShortName;(r)en osasun-txostena">
 <!ENTITY enableHealthReport.accesskey    "o">
