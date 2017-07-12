@@ -589,7 +589,7 @@
 <!ENTITY home_synced_devices_one "1 peranti">
 <!ENTITY home_history_back_to2 "Kembali ke Sejarah penuh">
 <!ENTITY home_clear_history_button "Buang sejarah pelayaran">
-<!ENTITY home_clear_history_confirm "Adakah anda pasti anda mahu membuang sejarah anda?">
+<!ENTITY home_clear_history_confirm "Adakah anda pasti mahu membuang sejarah anda?">
 <!ENTITY home_bookmarks_empty "Tandabuku yang anda simpan dipaparkan di sini.">
 <!ENTITY home_closed_tabs_title2 "Terkini ditutup">
 <!ENTITY home_last_tabs_empty "Tab terkini anda dipaparkan di sini.">
