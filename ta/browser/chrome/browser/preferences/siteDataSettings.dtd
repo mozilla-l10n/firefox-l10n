@@ -3,13 +3,13 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY     window.title                  "அமைவுகள் - தள தரவு">
-
+<!ENTITY     hostCol.label                 "தளம்">
 <!ENTITY     statusCol.label               "நிலை">
-
-
-
-
-
+<!ENTITY     usageCol.label                "கிடங்கு">
+<!ENTITY     searchTextboxPlaceHolder             "தேடிய வலைத்தளங்கள்">
+<!ENTITY     searchTextboxPlaceHolder.accesskey   "S">
+<!ENTITY     removeSelected.label          "தேர்ந்ததை நீக்குக">
+<!ENTITY     removeSelected.accesskey      "R">
 <!ENTITY     save.label                    "மாற்றங்களைச் சேமி">
 <!ENTITY     save.accesskey                "a">
 <!ENTITY     cancel.label                  "இரத்து">

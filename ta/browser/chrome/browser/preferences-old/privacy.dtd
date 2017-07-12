@@ -37,10 +37,11 @@
 <!ENTITY  locbar.bookmarks.accesskey    "k">
 <!ENTITY  locbar.openpage.label         "கீற்றுகளைத் திற">
 <!ENTITY  locbar.openpage.accesskey     "O">
+<!ENTITY  locbar.searches.label         "முன்னிருப்பு தேடுபொறியிலிருந்து தொடர்புடைய தேடல்கள்">
+<!ENTITY  locbar.searches.accesskey     "d">
 
-
-
-
+<!ENTITY  suggestionSettings.label      "தேடுபொறி பரிந்துரைத்துலுக்கான முன்னுரிமைகளை மாற்றுக">
+<!ENTITY  suggestionSettings.accesskey  "g">
 
 <!ENTITY  acceptCookies.label           "இணைய தளங்களிலிருந்து நினைவிகளை அனுமதிக்கவும்">
 <!ENTITY  acceptCookies.accesskey       "அ">

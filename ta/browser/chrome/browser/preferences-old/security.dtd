@@ -17,7 +17,8 @@
 <!ENTITY  blockDownloads.label            "ஆபத்தான பதிவிறக்கங்களை முடக்கு">
 <!ENTITY  blockDownloads.accesskey        "d">
 
-
+<!ENTITY  blockUncommonAndUnwanted.label     "தேவையற்ற பொதுவல்லாத மென்பொருள் பற்றி உங்களுக்கு எச்சரிக்கிறோம்">
+<!ENTITY  blockUncommonAndUnwanted.accesskey "c">
 
 <!ENTITY  addonExceptions.label         "விதிவிலக்குகள்…">
 <!ENTITY  addonExceptions.accesskey     "E">
@@ -25,7 +26,8 @@
 
 <!ENTITY  logins.label                  "புகுபதிகைகள்">
 
-
+<!ENTITY  rememberLogins.label          "இணைய தளங்களுக்கு உள்நுழைவுகளை நினைவுப்படுத்து">
+<!ENTITY  rememberLogins.accesskey      "R">
 <!ENTITY  passwordExceptions.label      "விதிவிலக்குகள்…">
 <!ENTITY  passwordExceptions.accesskey  "x">
 
