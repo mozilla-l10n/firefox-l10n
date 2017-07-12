@@ -24,12 +24,12 @@
 <!ENTITY changeBlockList.label          "Aldatu blokeo-zerrenda">
 <!ENTITY changeBlockList.accesskey      "A">
 
+<!ENTITY  doNotTrack.learnMore.label    "Argibide gehiago">
 
-
-
+<!ENTITY  doNotTrack.always.label       "Beti">
 
 <!ENTITY  history.label                 "Historia">
-
+<!ENTITY  permissions.label             "Baimenak">
 
 <!ENTITY  locationBar.label             "Helbide-barra">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Onartu hirugarrenen cookieak:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "n">
-
+<!ENTITY  acceptThirdParty.always.label   "Beti">
 <!ENTITY  acceptThirdParty.never.label    "Inoiz ez">
 <!ENTITY  acceptThirdParty.visited.label  "Bisitatutako guneetatik">
 
