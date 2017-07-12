@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL copiado">
 
+<!ENTITY pref_pwa "Aplicativos Web progressivos">
+<!ENTITY pref_pwa_summary "Permitir que aplicativos web sejam adicionados à tela inicial">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Fluxo de atividade">
 <!ENTITY pref_activity_stream_summary "Um visual impressionante do histórico e uma pagina inicial reimaginada tornam mais fácil localizar exatamente o que está procurando no &brandShortName;.">
