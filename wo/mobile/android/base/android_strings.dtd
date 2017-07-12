@@ -205,6 +205,7 @@
 <!ENTITY pref_content_notifications_summary2 "Gis ëmbiit yi bees ci dal yiñ nangu">
 <!ENTITY pref_developer_remotedebugging_usb "Caytu ci soree ak USB">
 <!ENTITY pref_developer_remotedebugging_wifi "Caytu ci soree ak WI-FI">
+<!ENTITY pref_developer_remotedebugging_wifi_disabled_summary "Le débogage par Wi-Fi nécessite que votre appareil dispose d’une application permettant de lire les QR codes.">
 <!ENTITY pref_remember_signons2 "Fàttliku duggukaay yi">
 <!ENTITY pref_manage_logins "Yorug duggukaay yi">
 
@@ -264,6 +265,7 @@
 <!ENTITY pref_tap_to_load_images_disabled2 "Téye">
 
 <!ENTITY pref_show_web_fonts "Wone arafi web yi">
+<!ENTITY pref_show_web_fonts_summary2 "Yebbiwaale loy yu sori yi soo yeb aw xët">
 
 <!ENTITY pref_tracking_protection_title2 "Kaaraange bañ ku lay topp">
 <!ENTITY pref_tracking_protection_summary3 "Doxalees ko sooy joow ci sutura">
@@ -292,6 +294,9 @@
 <!ENTITY custom_tabs_menu_footer "Liggéeyu &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Duppees nañ URL bi">
+
+<!ENTITY pref_pwa "Progressive Web Apps">
+<!ENTITY pref_pwa_summary "Sañal ñu man a yokk dali web yi ci sa xët wu njëkk">
 
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Walug yëngu-yëngu">
