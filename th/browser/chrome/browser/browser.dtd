@@ -853,12 +853,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore "รับชุดตกแต่งเพิ่มเติม">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ร">
 <!ENTITY customizeMode.uidensity "ความหนาแน่น">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "ปกติ">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "ปกติ">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "ป">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "กะทัดรัด">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "กะทัดรัด">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "ก">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "สัมผัส">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "สัมผัส">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ส">
@@ -973,6 +982,6 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "การดำเนินการของหน้า">
 
-<!ENTITY sendToDevice.label "ส่งไปยังอุปกรณ์…">
+<!ENTITY sendToDevice.label2 "ส่งไปยังอุปกรณ์">
 <!ENTITY sendToDevice.viewTitle "ส่งไปยังอุปกรณ์">
 <!ENTITY sendToDevice.syncNotReady.label "กำลังซิงค์อุปกรณ์…">
