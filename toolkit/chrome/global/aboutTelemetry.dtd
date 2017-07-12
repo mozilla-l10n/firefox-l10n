@@ -4,44 +4,16 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Подаци телеметрије">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Промени
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR отпремање података је <span>омогућено</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR отпремање података је <span>онемогућено</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Проширено снимање телеметрије је <span>омогућено</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Проширено снимање телеметрије је <span>онемогућено</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
-Ping извор података:
+Извор података пинга:
 ">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Тренутни ping подаци
+Подаци тренутног пинга
 ">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Архивирани ping подаци
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Приказ Ping података:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Структурирано
+Архивирани подаци пинга
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -53,27 +25,39 @@ Ping извор података:
 ">
 
 <!ENTITY aboutTelemetry.choosePing "
-Изабери ping:
+Изабери пинг:
 ">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Новији ping
+&lt;&lt; Новији пинг
 ">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Старији ping &gt;&gt;
-">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Необрађени ping подаци…
+Старији пинг &gt;&gt;
 ">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Седмица
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Врста пинга
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
-Ping
+Пинг
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Данас
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Јуче
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Старије
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -138,18 +122,6 @@ Ping
   Информације о сесији
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Хистограми додатака
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Кликните да промените стање секције
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Подаци нису прикупљени)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   Напона: Споро SQL решавање је укључено. SQL стрингови ће можда бити приказани испод али не могу бити послати телеметрији.
 ">
@@ -166,8 +138,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Payload
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Необрађен Payload
 ">
