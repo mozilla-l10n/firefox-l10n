@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Levelezőlista tulajdonságai">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "A címjegyzék környezeti menüjének megjelenítése">
 <!ENTITY addressbookPicker.label            "Címjegyzék:">
 <!ENTITY addressbookPicker.accesskey        "C">
 <!ENTITY searchContacts.label               "Partnerek keresése:">
@@ -35,9 +36,10 @@
 <!ENTITY editMailingListContext.label       "Lista szerkesztése">
 <!ENTITY editMailingListContext.accesskey   "L">
 
-
-
-
+<!ENTITY newContactAbContext.label          "Új névjegy">
+<!ENTITY newContactAbContext.accesskey      "n">
+<!ENTITY newListAbContext.label             "Új lista">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Címzett:">
 <!ENTITY toButton.accesskey                 "C">
