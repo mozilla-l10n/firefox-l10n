@@ -4,6 +4,7 @@
 
 <!ENTITY  trackingProtectionHeader2.label      "Προστασία από παρακολούθηση">
 <!ENTITY  trackingProtection2.description      "Παρακολούθηση είναι η συλλογή των δεδομένων περιήγησής σας σε πολλαπλές ιστοσελίδες. Η παρακολούθηση μπορεί να χρησιμοποιηθεί για τη δημιουργία ενός προφίλ και την προβολή περιεχομένου βάσει των διαδικτυακών και προσωπικών πληροφοριών σας.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Χρήση προστασίας από παρακολούθηση για φραγή γνωστών ιχνηλατών">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
 <!ENTITY  trackingProtectionAlways.accesskey   "α">
 <!ENTITY  trackingProtectionPrivate.label      "Μόνο σε ιδιωτικά παράθυρα">
