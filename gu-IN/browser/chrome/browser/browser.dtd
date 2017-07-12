@@ -6,7 +6,7 @@
 <!-- LOCALIZATION NOTE : FILE Do not translate commandkeys --> 
 
 <!-- LOCALIZATION NOTE (mainWindow.title): DONT_TRANSLATE -->
-<!ENTITY mainWindow.title "&brandFullName;">
+<!ENTITY mainWindow.title "&brandullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifier) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.titlemodifier "&brandFullName;">
 <!-- LOCALIZATION NOTE (mainWindow.titlemodifiermenuseparator): DONT_TRANSLATE -->
@@ -745,7 +745,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionNotSecure "જોડાણ સુરક્ષિત નથી">
 <!ENTITY identity.connectionFile "આ પૃષ્ઠને તમારા કમ્પ્યુટર પર સંગ્રહિત છે.">
 <!ENTITY identity.connectionVerified2 "તમે આ સાઇટ સાથે સુરક્ષિત રીતે કનેક્ટેડ છો, દ્વારા માલિકી:">
-<!ENTITY identity.connectionInternal "આ એક સુરક્ષિત brandShortName; છે પાનું.">
+<!ENTITY identity.connectionInternal "આ એક સુરક્ષિત &brandShortName; પાનું છે.">
 <!ENTITY identity.extensionPage "આ પાનું એક એક્સ્ટેન્શનથી લોડ કરવામાં આવે છે.">
 <!ENTITY identity.insecureLoginForms2 "આ પાનાં પર દાખલ લૉગિન્સ ચેડા થઈ શકે છે.">
 
@@ -974,7 +974,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.acceptButton.accesskey "D">
 <!ENTITY updateManual.cancelButton.label "હમણાં નહિં">
 <!ENTITY updateManual.cancelButton.accesskey "N">
-<!ENTITY updateManual.panelUI.label "&brandShorterName;ની એક નવી નકલ ડાઉનલોડ કરો">
+<!ENTITY updateManual.panelUI.label "&brandShorterName; ની એક નવી નકલ ડાઉનલોડ કરો">
 
 <!ENTITY updateRestart.message "ઝડપી પુનઃપ્રારંભ, &brandShorterName; તમારા બધા ખુલ્લા ટેબ્સ અને વિંડોઝને પુનઃસ્થાપિત કરશે.">
 <!ENTITY updateRestart.header.message2 "અપડેટ કરવા માટે પુનઃપ્રારંભ કરો &brandShorterName;.">
