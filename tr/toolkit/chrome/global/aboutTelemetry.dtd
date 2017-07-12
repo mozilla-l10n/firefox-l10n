@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetri Verileri">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Değiştir">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FSR veri yüklemesi <span>etkin</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FSR veri yüklemesi <span>devre dışı</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Genişletilmiş Telemetri kaydı <span>etkin</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Genişletilmiş Telemetri kaydı <span>devre dışı</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping verisi kaynağı:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Şu anki ping verisi">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arşivlenmiş ping verisi">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Ping verisi görünümü:">
-
-<!ENTITY aboutTelemetry.structured "Yapılandırılmış">
 
 <!ENTITY aboutTelemetry.raw "Ham JSON">
 
@@ -34,11 +20,25 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Daha eski ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Ham ping veri verisi…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Hafta">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Ping türü
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Bugün
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Dün
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Daha eski
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Genel Veriler">
 
@@ -74,12 +74,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "   Oturum Bilgisi">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "   Eklentiler Tarafından Toplanan Histogramlar ">
-
-<!ENTITY aboutTelemetry.toggle "   Bölümü açmak/kapatmak için tıklayın ">
-
-<!ENTITY aboutTelemetry.emptySection "  (Hiç veri toplanmadı)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "   NOT: Yavaş SQL hata ayıklaması etkin durumda. Tam SQL dizgileri aşağıdaki gösterilebilir ama Telemetri'ye gönderilmezler. ">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -91,5 +85,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filtrele (dizgiler veya /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Yük">
-
-<!ENTITY aboutTelemetry.rawPayload "  Ham yük">
