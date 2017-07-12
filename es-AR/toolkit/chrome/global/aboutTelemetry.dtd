@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Datos de Telemetry">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Cambiar
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Subida de datos FHR <span>habilitada</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Subida de datos FHR <span>deshabilitada</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Grabación de Telemetry estendida <span>habilitada</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Grabación de Telemetry extendida <span>deshabilitada</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Fuente de datos de ping:
 ">
@@ -34,14 +14,6 @@ Datos de ping actuales
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Datos de ping archivados
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Mostrar datos de ping:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Estructurados
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@ Elegir ping:
 Ping más antiguo &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Datos de ping en bruto ...
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semana
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Tipo de ping
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hoy
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Ayer
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Antiguo
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -139,18 +123,6 @@ Ping
   Información de sesión
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogramas recolectados por complementos
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Clic para intercambiar sección
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (No hay datos recolectados)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
@@ -169,8 +141,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Payload
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Payload en bruto
 ">
