@@ -31,7 +31,7 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
-<!ENTITY healthReportingDisabled.label   "Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiladiad hwn.">
+<!ENTITY healthReportingDisabled.label   "Mae adrodd ar ddata wedi ei analluogi ar gyfer ffurfweddiad yr adeiledd hwn">
 
 <!ENTITY healthReportDesc.label          "Mae'n eich cynorthwyo i ddeall berfformiad eich porwr ac yn rhannu data gyda &vendorShortName; am iechyd eich porwr">
 <!ENTITY enableHealthReport.label        "Galluogi Adroddiad Iechyd &brandShortName;">
