@@ -208,7 +208,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.defaultNotificationAnchor.tooltip         "შეტყობინებების პანელის გახსნა">
 <!ENTITY urlbar.geolocationNotificationAnchor.tooltip     "მდებარეობის მოთხოვნის პანელის გახსნა">
-<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ინსტალაციის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.addonsNotificationAnchor.tooltip          "დამატების ჩადგმისას შეტყობინების არის გახსნა">
 <!ENTITY urlbar.indexedDBNotificationAnchor.tooltip       "კავშირგარეშე საცავის შეტყობინების პანელის გახსნა">
 <!ENTITY urlbar.passwordNotificationAnchor.tooltip        "პაროლის შენახვის შეტყობინების პანელის გახსნა">
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "გამოყენებული მოდულების მართვა">
@@ -220,7 +220,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "საიტისთვის თქვენი მიკროფონის გაზიარების მართვა">
 <!ENTITY urlbar.webRTCShareScreenNotificationAnchor.tooltip       "საიტისთვის თქვენი ფანჯრების ან ეკრანის გაზიარების მართვა">
 
-<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ინსტალაციის შეტყობინების პანელის გახსნა">
+<!ENTITY urlbar.servicesNotificationAnchor.tooltip        "ჩადგმისას შეტყობინების არის გახსნა">
 <!ENTITY urlbar.translateNotificationAnchor.tooltip       "გვერდის თარგმნა">
 <!ENTITY urlbar.translatedNotificationAnchor.tooltip      "გვერდის თარგმნის მართვა">
 <!ENTITY urlbar.emeNotificationAnchor.tooltip             "DRM პროგრამის გამოყენების მართვა">
