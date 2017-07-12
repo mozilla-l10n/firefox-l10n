@@ -12,6 +12,7 @@
 <!ENTITY mailingListPropertiesMenu.label    "Propiedades de lista de correo">
 <!ENTITY mailingListPropertiesMenu.accesskey "i">
 
+<!ENTITY abContextMenuButton.tooltip        "Mostrar menú contextual de la libreta de direcciones">
 <!ENTITY addressbookPicker.label            "Libreta de direcciones:">
 <!ENTITY addressbookPicker.accesskey        "d">
 <!ENTITY searchContacts.label               "Buscar contactos:">
@@ -34,6 +35,11 @@
 <!ENTITY editContactContext.accesskey       "E">
 <!ENTITY editMailingListContext.label       "Editar lista">
 <!ENTITY editMailingListContext.accesskey   "E">
+
+<!ENTITY newContactAbContext.label          "Nuevo contacto">
+<!ENTITY newContactAbContext.accesskey      "C">
+<!ENTITY newListAbContext.label             "Nueva lista">
+<!ENTITY newListAbContext.accesskey         "l">
 
 <!ENTITY toButton.label                     "Agregar a Para:">
 <!ENTITY toButton.accesskey                 "A">
