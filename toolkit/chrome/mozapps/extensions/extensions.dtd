@@ -102,7 +102,7 @@
 <!ENTITY cmd.neverActivate.label              "არასდროს გაეშვას">
 <!ENTITY cmd.neverActivate.tooltip            "არასდროს გამოიყენო ეს დამატება">
 <!ENTITY cmd.stateMenu.tooltip                "აირჩიეთ, როდის გაეშვას ეს დამატება">
-<!ENTITY cmd.installAddon.label               "ინსტალაცია">
+<!ENTITY cmd.installAddon.label               "ჩადგმა">
 <!ENTITY cmd.installAddon.accesskey           "ი">
 <!ENTITY cmd.uninstallAddon.label             "ამოღება">
 <!ENTITY cmd.uninstallAddon.accesskey         "ა">
@@ -207,8 +207,8 @@
 <!ENTITY addon.undoRemove.label               "დაბრუნება">
 <!ENTITY addon.undoRemove.tooltip             "დაყენებული დამატების დატოვება">
 <!ENTITY addon.restartNow.label               "ხელახლა გაშვება">
-<!ENTITY addon.install.label                  "ინსტალაცია">
-<!ENTITY addon.install.tooltip                "ამ დამატების ინსტალაცია">
+<!ENTITY addon.install.label                  "ჩადგმა">
+<!ENTITY addon.install.tooltip                "დამატების ჩადგმა">
 <!ENTITY addon.updateNow.label                "განახლება">
 <!ENTITY addon.updateNow.tooltip              "ამ დამატების განახლების დაყენება">
 <!ENTITY addon.includeUpdate.label            "განახლებასთან ერთად">

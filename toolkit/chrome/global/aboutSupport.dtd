@@ -111,7 +111,7 @@ variant of aboutSupport.showDir.label. -->
 
 <!ENTITY aboutSupport.libraryVersionsTitle "ბიბლიოთეკის ვერსიები">
 
-<!ENTITY aboutSupport.installationHistoryTitle "ინსტალაციის ისტორია">
+<!ENTITY aboutSupport.installationHistoryTitle "დაყენების ისტორია">
 <!ENTITY aboutSupport.updateHistoryTitle "განახლების ისტორია">
 
 <!ENTITY aboutSupport.copyTextToClipboard.label "დატექსტის ბუფერში კოპირება">
