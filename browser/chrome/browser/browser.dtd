@@ -983,8 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateRestart.panelUI.label2 "Herbegin om &brandShorterName; by te werk">
 
 
-<!ENTITY sendToDevice.label "Stuur na toestel…">
-<!ENTITY sendToDevice.viewTitle "Stuur na toestel">
+
 
 <!ENTITY sendToDevice.noDevices.label "Geen toestelle beskikbaar nie">
 
