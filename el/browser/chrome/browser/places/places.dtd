@@ -48,7 +48,7 @@
 <!ENTITY cmd.open.accesskey              "ν">
 <!ENTITY cmd.open_window.label           "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY cmd.open_window.accesskey       "π">
-<!ENTITY cmd.open_private_window.label     "Άνοιγμα σε νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY cmd.open_private_window.label     "Άνοιγμα σε νέο ιδιωτικό παράθυρο">
 <!ENTITY cmd.open_private_window.accesskey "θ">
 <!ENTITY cmd.open_tab.label              "Άνοιγμα σε νέα καρτέλα">
 <!ENTITY cmd.open_tab.accesskey          "κ">

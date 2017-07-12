@@ -288,9 +288,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY newNavigatorCmd.label        "Νέο παράθυρο">
 <!ENTITY newNavigatorCmd.key        "N">
 <!ENTITY newNavigatorCmd.accesskey      "Ν">
-<!ENTITY newPrivateWindow.label     "Νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY newPrivateWindow.label     "Νέο ιδιωτικό παράθυρο">
 <!ENTITY newPrivateWindow.accesskey "δ">
-<!ENTITY newNonRemoteWindow.label   "Νέο Παράθυρο χωρίς την λειτουργία ηλεκτρόλυσης">
+<!ENTITY newNonRemoteWindow.label   "Νέο μη-e10s παράθυρο">
 
 <!ENTITY editMenu.label         "Επεξεργασία"> 
 <!ENTITY editMenu.accesskey       "Ε"> 
@@ -509,9 +509,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY openLinkCmdInTab.label       "Άνοιγμα δεσμού σε νέα καρτέλα">
 <!ENTITY openLinkCmdInTab.accesskey   "τ">
-<!ENTITY openLinkCmd.label            "Άνοιγμα δεσμού σε νέο παράθυρο">
+<!ENTITY openLinkCmd.label            "Άνοιγμα συνδέσμου σε νέο παράθυρο">
 <!ENTITY openLinkCmd.accesskey        "δ">
-<!ENTITY openLinkInPrivateWindowCmd.label "Άνοιγμα δεσμού σε νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY openLinkInPrivateWindowCmd.label "Άνοιγμα συνδέσμου σε νέο ιδιωτικό παράθυρο">
 <!ENTITY openLinkInPrivateWindowCmd.accesskey "δ">
 <!ENTITY openLinkCmdInCurrent.label     "Άνοιγμα δεσμού">
 <!ENTITY openLinkCmdInCurrent.accesskey "ο">
@@ -810,7 +810,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY syncedTabs.context.openInNewTab.accesskey           "κ">
 <!ENTITY syncedTabs.context.openInNewWindow.label            "Άνοιγμα σε νέο παράθυρο">
 <!ENTITY syncedTabs.context.openInNewWindow.accesskey        "ν">
-<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Άνοιγμα σε νέο παράθυρο ιδιωτικής περιήγησης">
+<!ENTITY syncedTabs.context.openInNewPrivateWindow.label     "Άνοιγμα σε νέο ιδιωτικό παράθυρο">
 <!ENTITY syncedTabs.context.openInNewPrivateWindow.accesskey "Π">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.label          "Η καρτέλα ως σελιδοδείκτης…">
 <!ENTITY syncedTabs.context.bookmarkSingleTab.accesskey      "Β">

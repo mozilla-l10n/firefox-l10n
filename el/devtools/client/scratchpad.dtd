@@ -25,7 +25,7 @@
 <!ENTITY fileMenu.label               "Αρχείο">
 <!ENTITY fileMenu.accesskey           "Α">
 
-<!ENTITY newWindowCmd.label           "Νέο Παράθυρο">
+<!ENTITY newWindowCmd.label           "Νέο παράθυρο">
 <!ENTITY newWindowCmd.accesskey       "Ν">
 <!ENTITY newWindowCmd.commandkey      "n">
 
