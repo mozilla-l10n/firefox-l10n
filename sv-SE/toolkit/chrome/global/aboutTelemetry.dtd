@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetridata">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Ändra">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  FHR-dataöverföring är <span>aktiverad</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  FHR-dataöverföring är <span>inaktiverad</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Utökad telemetri-inspelning är <span>aktiverad</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Utökad telemetri-inspelning är <span>inaktiverad</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping datakälla:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Aktuell ping-data">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Arkiverad ping-data">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Visa ping-data:">
-
-<!ENTITY aboutTelemetry.structured "Strukturerad">
 
 <!ENTITY aboutTelemetry.raw "Rå JSON">
 
@@ -34,11 +20,17 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Äldre ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Rå ping-data ...">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Vecka">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping-typ">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Idag">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Igår">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Äldre">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Allmän data">
 
@@ -76,12 +68,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Sessionsinformation">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram insamlade av tillägg">
-
-<!ENTITY aboutTelemetry.toggle "  Klicka för att öppna/stänga sektion">
-
-<!ENTITY aboutTelemetry.emptySection "  (Ingen insamlad data)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  OBS: Långsam SQL-avlusning är aktiverad. Fullständiga SQL-strängar kan visas nedan men de kommer inte att skickas in av Telemetri.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -95,5 +81,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filter (strängar eller /regexp/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Nyttolast">
-
-<!ENTITY aboutTelemetry.rawPayload "  Rå nyttolast">

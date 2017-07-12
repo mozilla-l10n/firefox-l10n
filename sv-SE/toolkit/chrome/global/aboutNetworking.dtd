@@ -46,3 +46,5 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Antal cache won">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Antal net won">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antal nätverksförfrågningar">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Kort medelvärde">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Långt medelvärde">
