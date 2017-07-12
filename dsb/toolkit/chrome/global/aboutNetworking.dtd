@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Licba wužywanjow cacha">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Licba wužywanjow seśi">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Licba seśowych napšašowanjow dogromady">
+<!ENTITY aboutNetworking.rcwnOperation         "Operacija cache">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Wócyniś">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Cytaś">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Pisaś">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Zapisk wócynjony">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Krotki pśerězk">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Dłujki pśerězk">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Dłujke standardne wótchylenje">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Pomałe licenje pufrowaś">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Pomałe licenje njepufrowaś">
