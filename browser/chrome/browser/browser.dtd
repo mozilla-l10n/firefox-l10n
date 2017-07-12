@@ -933,10 +933,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!-- LOCALIZATION NOTE: (panicButton.view.mainTimeframeDesc, panicButton.view.5min, panicButton.view.2hr, panicButton.view.day):
      The .mainTimeframeDesc string combined with any of the 3 others is meant to form a complete sentence, e.g. "Forget the last: Five minutes".
      Please ensure that this remains the case in the translation. -->
-<!ENTITY panicButton.view.mainTimeframeDesc       "დავივიწყოთ ბოლო:">
-<!ENTITY panicButton.view.5min                    "ხუთი წუთი">
-<!ENTITY panicButton.view.2hr                     "ორი საათი">
-<!ENTITY panicButton.view.day                     "24 საათი">
+<!ENTITY panicButton.view.mainTimeframeDesc       "დავიწყება ბოლო:">
+<!ENTITY panicButton.view.5min                    "ხუთი წუთის">
+<!ENTITY panicButton.view.2hr                     "ორი საათის">
+<!ENTITY panicButton.view.day                     "24 საათის">
 
 <!-- LOCALIZATION NOTE: (panicButton.view.mainLabel, panicButton.view.deleteCookies, panicButton.view.deleteHistory, panicButton.view.deleteTabsAndWindows, panicButton.view.openNewWindow):
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
@@ -946,10 +946,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY panicButton.view.deleteCookies           "წაიშლება <html:strong>ფუნთუშები</html:strong>">
 <!ENTITY panicButton.view.deleteHistory           "წაიშლება <html:strong>ისტორია</html:strong>">
 <!ENTITY panicButton.view.deleteTabsAndWindows    "დაიხურება ყველა <html:strong>ჩანართი</html:strong> და <html:strong>ფანჯარა</html:strong>">
-<!ENTITY panicButton.view.openNewWindow           "ახალი სუფთა ფანჯრის გახსნა">
+<!ENTITY panicButton.view.openNewWindow           "გაიხსნება ახალი სუფთა ფანჯარა">
 
 <!ENTITY panicButton.view.undoWarning             "ეს ქმედება შეუქცევადია.">
-<!ENTITY panicButton.view.forgetButton            "დავივიწყოთ!">
+<!ENTITY panicButton.view.forgetButton            "დავიწყება!">
 
 <!ENTITY panicButton.thankyou.msg1                "ბოლოს მონახულებული გვერდების ისტორია გასუფთავებულია.">
 <!ENTITY panicButton.thankyou.msg2                "მოინახულეთ გვერდები უსაფრთხოდ!">
