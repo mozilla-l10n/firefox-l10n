@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Xuch'äk ajilanem ri jumejyak">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Ch'akon chijun ajilanem">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Chijun kajilanem taq kik'utuxik k'amab'ey">
+<!ENTITY aboutNetworking.rcwnOperation         "Rusamaj Jumejyak">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Tijaq">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Tisik'ïx">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Titz'ib'äx">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Jaqäl Okitz'b'">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Ko'öl Junamilal">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Nïm Junamilal">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Nïm Rutzalenik pa Rub'eyal">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Eqal rutaqoya'l jumejyak">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Man Eqal ta rutaqoya'l jumejyak">

@@ -987,7 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Taq rub'anoj ruxaq">
 
-<!ENTITY sendToDevice.label "Titaq pa Okisaxel…">
+<!ENTITY sendToDevice.label2 "Titaq pan Okisaxel">
 <!ENTITY sendToDevice.viewTitle "Titaq pan Okisaxel">
 <!ENTITY sendToDevice.fxaRequired.label "Ajowan">
 <!ENTITY sendToDevice.noDevices.label "Majun okisaxel k'o">

@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Wuqq'ij">
 
+<!ENTITY aboutTelemetry.archivePingType "Ruwäch chi Ping">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Wakami">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Iwir">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Nimalaxel">
 
 <!ENTITY aboutTelemetry.generalDataSection "Chijun taq Tzij">
 

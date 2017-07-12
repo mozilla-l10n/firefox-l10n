@@ -36,7 +36,7 @@
 <!ENTITY setAsMyDefaultBrowser2.label     "Tib'an kan richin wi chi re">
 <!ENTITY setAsMyDefaultBrowser2.accesskey "k">
 <!ENTITY isDefault.label                  "&brandShortName; ja awokik'amaya'l kan k'o wi">
-<!ENTITY isNotDefault.label               "&brandShortName; man ja ta awokik'amaya'l kan k'o wi">
+<!ENTITY isNotDefault.label               "&brandShortName; man ja ta ri awokik'amaya'l kan k'o wi">
 
 <!ENTITY separateProfileMode.label        "Tiya' q'ij chi ri &brandShortName; chuqa' Firefox ketzije' junam">
 <!ENTITY useFirefoxSync.label             "Pixa': Re re' nrokisaj jachon taq ruwäch b'i'aj. Tawokisaj Ximoj richin nakomonij na'oj chi kikojol.">
