@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "İkonları buraya daşıyıb ataraq həm yaxında saxlayın, həm də alət sətrini doldurmayın…">
 <!ENTITY customizeMode.uidensity "Qalınlıq">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Yığcam">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Yığcam">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Toxunuş">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Toxunuş">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Səhifə əməliyyatları">
 
-<!ENTITY sendToDevice.label "Cihaza göndər…">
+<!ENTITY sendToDevice.label2 "Cihaza göndər">
 <!ENTITY sendToDevice.viewTitle "Cihaza göndər">
 <!ENTITY sendToDevice.fxaRequired.label "Tələb edilir">
 <!ENTITY sendToDevice.noDevices.label "Cihaz yoxdur">
