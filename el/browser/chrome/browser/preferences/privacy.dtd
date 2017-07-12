@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "Προστασία από παρακολούθηση">
+<!ENTITY  trackingProtection2.description      "Παρακολούθηση είναι η συλλογή των δεδομένων περιήγησής σας σε πολλαπλές ιστοσελίδες. Η παρακολούθηση μπορεί να χρησιμοποιηθεί για τη δημιουργία ενός προφίλ και την προβολή περιεχομένου βάσει των διαδικτυακών και προσωπικών πληροφοριών σας.">
 <!ENTITY  trackingProtectionAlways.label       "Πάντα">
 <!ENTITY  trackingProtectionAlways.accesskey   "α">
 <!ENTITY  trackingProtectionPrivate.label      "Μόνο σε ιδιωτικά παράθυρα">
@@ -22,6 +23,7 @@
 <!ENTITY changeBlockList.label          "Αλλαγή λίστας αποκλεισμού">
 <!ENTITY changeBlockList.accesskey      "Α">
 
+<!ENTITY  doNotTrack.description        "Αποστολή σήματος “Αποτροπή καταγραφής” που σημαίνει ότι δεν θέλετε να καταγράφεστε από τις ιστοσελίδες">
 <!ENTITY  doNotTrack.learnMore.label    "Μάθετε περισσότερα">
 <!ENTITY  doNotTrack.default.label      "Μόνο κατά τη χρήση προστασίας από παρακολούθηση">
 <!ENTITY  doNotTrack.always.label       "Πάντα">
