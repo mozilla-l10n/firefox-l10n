@@ -294,6 +294,9 @@
 <!ENTITY custom_tabs_menu_footer "A motorháztető alatt: &brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL másolva">
+
+<!ENTITY pref_pwa "Progresszív webappok">
+<!ENTITY pref_pwa_summary "Webappok kezdőképernyőhöz adásának engedélyezése">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Tevékenységfolyam">
