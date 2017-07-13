@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "Iiayithem ze-&formatD;">
 <!ENTITY bookmark_folder_one_item "1 iayithem">
-
-
+<!ENTITY bookmark_parent_folder "IFolda yoMzali">
+<!ENTITY bookmark_add_folder "Yongeza ifolda entsha">
 
 <!ENTITY reader_saved_offline "Igcinwe ngaphandle kwe-intanethi">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "Iphepha elisekuqaleni">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "Kwakhona yisebenzisele iithebhu ezintsha">
 <!ENTITY home_homepage_title "Seta iphepha elisekuqaleni">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,10 +290,13 @@
 <!ENTITY pref_custom_tabs_summary3 "Vumela ii-app ukuba zivule iiwebhsayithi zisebenzisa uhlobo olukhastomayiziweyo lwe-&brandShortName;">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "Yivule kwi-&formatS;">
+<!ENTITY custom_tabs_menu_footer "Ixhaswa yi-&brandShortName;">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "ikhutshelwe kwi-URL">
 
-
+<!ENTITY pref_pwa "Ii-App zeWebhu ezineNkqubela">
+<!ENTITY pref_pwa_summary "Vumela ii-app zewebhu ukuba zongezelelwe kwiskrini esiphezulu">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Istrimu Somsebenzi">
@@ -366,6 +370,8 @@
 <!ENTITY pref_restore_quit "Musa ukubuyisela izinto emva kuyeka i-&brandShortName;">
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
+
+<!ENTITY pref_use_system_font_size "Sebenzisa isayizi yefonti yenkqubo">
 
 
 <!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
