@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "الإضافات">
 <!ENTITY aboutAddons.header2                    "إضافاتك">
-<!ENTITY aboutAddons.options                    "الخيارات">
 
 <!ENTITY addonAction.enable                     "فعّل">
 <!ENTITY addonAction.disable                    "عطّل">
