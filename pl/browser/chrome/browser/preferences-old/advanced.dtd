@@ -26,6 +26,7 @@
 
 <!ENTITY dataChoicesTab.label "Udostępniane dane">
 
+<!ENTITY healthReportingDisabled.label "Przesyłanie danuch jest wyłączone przy tej konfiguracji programu">
 <!ENTITY healthReportDesc.label "Raport o zdrowiu Firefoksa ułatwia zrozumienie wydajności przeglądarki i udostępnia dane o jej stanie organizacji &vendorShortName;.">
 <!ENTITY enableHealthReport.label "Raport o zdrowiu programu &brandShortName;.">
 <!ENTITY enableHealthReport.accesskey "F">
