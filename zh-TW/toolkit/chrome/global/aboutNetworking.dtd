@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "快取優先計數">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "網路優先計數">
 <!ENTITY aboutNetworking.totalNetworkRequests  "總網路請求數量">
+<!ENTITY aboutNetworking.rcwnOperation         "快取操作">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "開啟">
+<!ENTITY aboutNetworking.rcwnPerfRead          "讀取">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "寫入">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "項目開啟">
+<!ENTITY aboutNetworking.rcwnAvgShort          "短平均">
+<!ENTITY aboutNetworking.rcwnAvgLong           "長平均">
+<!ENTITY aboutNetworking.rcwnStddevLong        "長標準差">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "快取較慢數量">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "快取較快數量">
