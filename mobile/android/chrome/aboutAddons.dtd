@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "एड-अनहरू">
 <!ENTITY aboutAddons.header2                    "तपाईँका एडअनहरू">
-<!ENTITY aboutAddons.options                    "विकल्पहरू">
 
 <!ENTITY addonAction.enable                     "सक्षम पार्नुहोस्">
 <!ENTITY addonAction.disable                    "अक्षम पार्नुहोस्">
