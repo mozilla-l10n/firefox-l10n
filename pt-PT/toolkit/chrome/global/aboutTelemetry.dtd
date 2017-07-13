@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Fraco">
 
+<!ENTITY aboutTelemetry.archivePingType "Tipo de ping">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Hoje">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Ontem">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Antigo">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dados gerais">
 

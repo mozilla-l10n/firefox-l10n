@@ -987,7 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Ações da página">
 
-<!ENTITY sendToDevice.label "Enviar para dispositivo…">
+<!ENTITY sendToDevice.label2 "Enviar para dispositivo">
 <!ENTITY sendToDevice.viewTitle "Enviar para dispositivo">
 <!ENTITY sendToDevice.fxaRequired.label "Requerido">
 <!ENTITY sendToDevice.noDevices.label "Sem dispositivos disponíveis">
