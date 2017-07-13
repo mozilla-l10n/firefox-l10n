@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Gehigarriak">
 <!ENTITY aboutAddons.header2                    "Zure gehigarriak">
-<!ENTITY aboutAddons.options                    "Aukerak">
 
 <!ENTITY addonAction.enable                     "Gaitu">
 <!ENTITY addonAction.disable                    "Desgaitu">
