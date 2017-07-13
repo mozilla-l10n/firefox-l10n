@@ -46,3 +46,4 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Лік выйгрышаў кэша">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Лік выйгрышаў сеткі">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Агульная колькасць сеткавых запытаў">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Адкрыць">

@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "А">
 <!ENTITY customizeMode.emptyOverflowList.description "Перацягніце элементы сюды, каб трымаць іх пад рукой, але не на паліцы прылад…">
 <!ENTITY customizeMode.uidensity "Шчыльнасць">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Звычайна">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Звычайна">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "З">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Кампактна">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Кампактна">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "К">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Дотык">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Дотык">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "Д">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Дзеянні старонкі">
 
-<!ENTITY sendToDevice.label "Даслаць на прыладу…">
+<!ENTITY sendToDevice.label2 "Даслаць на прыладу">
 <!ENTITY sendToDevice.viewTitle "Даслаць на прыладу">
 <!ENTITY sendToDevice.fxaRequired.label "Патрабуецца">
 <!ENTITY sendToDevice.noDevices.label "Няма даступных прылад">
