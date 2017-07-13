@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Qoʻshimcha dasturlar">
 <!ENTITY aboutAddons.header2                    "Qo‘shimcha dasturlaringiz">
-<!ENTITY aboutAddons.options                    "Parametrlar">
 
 <!ENTITY addonAction.enable                     "Yoqib qo‘yish">
 <!ENTITY addonAction.disable                    "O‘chirib qo‘yish">
