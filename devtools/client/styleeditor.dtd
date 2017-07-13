@@ -18,7 +18,7 @@
 <!ENTITY importButton.tooltip       "Εισαγωγή και επισύναψη ενός υπάρχοντος φύλλου στυλ στο έγγραφο">
 <!ENTITY importButton.accesskey     "Ε">
 
-<!ENTITY visibilityToggle.tooltip   "Εναλλαγή ορατότητας φύλλου στυλ">
+<!ENTITY visibilityToggle.tooltip   "(Απ)ενεργοποίηση ορατότητας φύλλου στυλ">
 
 <!ENTITY saveButton.label           "Αποθήκευση">
 <!ENTITY saveButton.tooltip         "Αποθήκευση φύλλου στυλ σε αρχείο">
