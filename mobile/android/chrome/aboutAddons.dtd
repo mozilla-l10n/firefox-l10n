@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Complements">
 <!ENTITY aboutAddons.header2                    "Els vostres complements">
-<!ENTITY aboutAddons.options                    "Opcions">
 
 <!ENTITY addonAction.enable                     "Habilita">
 <!ENTITY addonAction.disable                    "Inhabilita">
