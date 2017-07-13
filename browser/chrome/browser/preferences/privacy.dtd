@@ -25,6 +25,7 @@
 <!ENTITY changeBlockList.accesskey      "C">
 
 <!ENTITY  doNotTrack.learnMore.label    "Aprender más">
+<!ENTITY  doNotTrack.default.label      "Solo al usar Protección contra el Rastreo">
 <!ENTITY  doNotTrack.always.label       "Siempre">
 
 <!ENTITY  history.label                 "Historial">
