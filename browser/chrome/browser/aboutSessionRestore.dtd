@@ -34,8 +34,8 @@
 <!ENTITY welcomeback2.pageTitle     "Sukceso!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; pretas.">
 
-<!ENTITY welcomeback2.label.restoreAll  "Restarigi ĉiujn fenestrojn kaj langetojn">
-<!ENTITY welcomeback2.label.restoreSome "Restarigi nur tiujn, kiujn vi volas">
+<!ENTITY welcomeback2.restoreAll.label  "Restarigi ĉiujn fenestrojn kaj langetojn">
+<!ENTITY welcomeback2.restoreSome.label "Restarigi nur tiujn, kiujn vi volas">
 
 
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
