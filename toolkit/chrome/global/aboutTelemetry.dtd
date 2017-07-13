@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "வாரம்">
 
+<!ENTITY aboutTelemetry.archivePingType "பிங் வகை">
+
 <!ENTITY aboutTelemetry.archivePingHeader "பிங்">
+
+<!ENTITY aboutTelemetry.optionGroupToday "இன்று">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "நேற்று">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "பழையவை">
 
 <!ENTITY aboutTelemetry.generalDataSection "  பொது தரவு">
 

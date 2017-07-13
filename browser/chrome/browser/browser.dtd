@@ -987,7 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "பக்க செயல்கள்">
 
-<!ENTITY sendToDevice.label "சாதனத்திற்கு அனுப்பு…">
+<!ENTITY sendToDevice.label2 "சாதனத்திற்கு அனுப்பு">
 <!ENTITY sendToDevice.viewTitle "சாதனத்திற்கு அனுப்பு">
 <!ENTITY sendToDevice.fxaRequired.label "தேவை">
 <!ENTITY sendToDevice.noDevices.label "சாதனங்கள் ஏதுமில்லை">

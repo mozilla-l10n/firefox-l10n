@@ -45,4 +45,14 @@
 <!ENTITY aboutNetworking.rcwnStatus            "RCWN நிலவரம்">
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "இடையக சேமிப்பு எண்ணிக்கை">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "புதிய வெற்றி எண்ணிக்கை">
-
+<!ENTITY aboutNetworking.totalNetworkRequests  "மொத்த பிணைய கோரிக்கை எண்ணிகை">
+<!ENTITY aboutNetworking.rcwnOperation         "செயல்பாட்டின் தற்காலிக சேமிப்பு">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "திற">
+<!ENTITY aboutNetworking.rcwnPerfRead          "வாசி">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "எழுது">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "உள்ளீடைத் திற">
+<!ENTITY aboutNetworking.rcwnAvgShort          "குறுகிய சராசரி">
+<!ENTITY aboutNetworking.rcwnAvgLong           "யீண்ட சராசரி">
+<!ENTITY aboutNetworking.rcwnStddevLong        "நீண்ட கால அட்டவணை">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "இடையக எண்ணிக்கை">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "மெதுவான இடையக எண்">
