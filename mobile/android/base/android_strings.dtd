@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL kopiearre">
 
+<!ENTITY pref_pwa "Progressive Web Apps">
+<!ENTITY pref_pwa_summary "Tastean dat webapps tafoege wurde oan it startskerm">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Aktiviteitenstream">
 <!ENTITY pref_activity_stream_summary "In rike fisuele skiednisfeed en in opnij opsette startside meitsje it makliker as ea om yn &brandShortName; presys dat te finen wat jo sykje">
