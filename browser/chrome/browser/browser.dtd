@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "頁面操作">
 
-<!ENTITY sendToDevice.label "傳送到裝置…">
+<!ENTITY sendToDevice.label2 "傳送到裝置">
 <!ENTITY sendToDevice.viewTitle "傳送到裝置">
 <!ENTITY sendToDevice.fxaRequired.label "必需">
 <!ENTITY sendToDevice.noDevices.label "無裝置可用">

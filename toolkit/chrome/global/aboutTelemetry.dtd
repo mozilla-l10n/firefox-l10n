@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry 資料">
 
-<!ENTITY aboutTelemetry.changeDataChoices "變更">
-
-<!ENTITY aboutTelemetry.uploadEnabled "<span>已啟用</span> Firefox 健康檢查報告資料上傳。">
-
-<!ENTITY aboutTelemetry.uploadDisabled "<span>已停用</span> Firefox 健康檢查報告資料上傳。">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "<span>已啟用</span> Extended Telemetry 紀錄。">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "<span>已停用</span> Extended Telemetry 紀錄。">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping 資料來源:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "目前的 ping 資料">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "已封存的 ping 資料">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "顯示 ping 資料:">
-
-<!ENTITY aboutTelemetry.structured "結構化">
 
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
@@ -34,11 +20,17 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "較舊的 ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "原始 ping 資料…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "週">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping 類型">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "今天">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "昨天">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "較舊">
 
 <!ENTITY aboutTelemetry.generalDataSection "一般資料">
 
@@ -73,12 +65,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "使用階段資訊">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "附加元件所收集資訊的柱狀圖">
-
-<!ENTITY aboutTelemetry.toggle "點選以切換段落">
-
-<!ENTITY aboutTelemetry.emptySection "（未收集資料）">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "注意: 已啟用慢速 SQL 除錯。完整的 SQL 字串將會在下面顯示，但將不會被送出給 Telemetry。">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "取得堆疊的函數名稱">
@@ -88,5 +74,3 @@
 <!ENTITY aboutTelemetry.filterText "篩選（字串或 /regexp/）">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "酬載">
-
-<!ENTITY aboutTelemetry.rawPayload "原始酬載">
