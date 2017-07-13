@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Dodanki">
 <!ENTITY aboutAddons.header2                    "Waše dodanki">
-<!ENTITY aboutAddons.options                    "Nastajenja">
 
 <!ENTITY addonAction.enable                     "Zmóžniś">
 <!ENTITY addonAction.disable                    "Znjemóžniś">
