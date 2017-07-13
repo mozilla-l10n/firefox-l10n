@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Dodaci">
 <!ENTITY aboutAddons.header2                    "Vaši dodaci">
-<!ENTITY aboutAddons.options                    "Mogućnosti">
 
 <!ENTITY addonAction.enable                     "Omogući">
 <!ENTITY addonAction.disable                    "Onemogući">
