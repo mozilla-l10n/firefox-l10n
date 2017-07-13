@@ -214,7 +214,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.pluginsNotificationAnchor.tooltip         "Lawula ukusetyenziswa kwezinto eziplagwayo">
 <!ENTITY urlbar.webNotificationAnchor.tooltip             "Tshintsha enoba ungafumana isaziso kule sayithi">
 <!ENTITY urlbar.persistentStorageNotificationAnchor.tooltip     "Gcina idatha kuGcino oluQhubekayo">
-
+<!ENTITY urlbar.remoteControlNotificationAnchor.tooltip   "Ibhrawza iphantsi kolawulo lwerimoti">
 
 <!ENTITY urlbar.webRTCShareDevicesNotificationAnchor.tooltip      "Lawula ukwabelana ngekhamera yakho kunye/okanye imayikhrofowuni yakho nesayithi">
 <!ENTITY urlbar.webRTCShareMicrophoneNotificationAnchor.tooltip   "Lawula ukwabelana ngemayikhrofowuni yakho nesayithi">
@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Bonisa imbali">
 
+<!ENTITY searchItem.title             "Khangela">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Ekhaya">
@@ -247,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "IZalathisi eZiphawulayo zeMobhayili">
 <!ENTITY viewBookmarksSidebar2.label        "Bona ibha esecaleni yeeBhukhmakhi">
 <!ENTITY viewBookmarksToolbar.label         "Bona iThulbha Yeebhukhmakhi">
-
+<!ENTITY searchBookmarks.label              "Khangela iiBhukhmakhi">
 
 <!ENTITY containersMenu.label "Iikhonteyina">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -303,7 +304,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY cutCmd.key             "X">  
 <!ENTITY cutCmd.accesskey         "k"> 
 <!ENTITY copyCmd.label            "Kopa">  
-
+<!ENTITY copyCmd.key            "C">  
 <!ENTITY copyCmd.accesskey          "K"> 
 <!ENTITY pasteCmd.label           "Ncamathelisa">  
 <!ENTITY pasteCmd.key           "V">  
@@ -351,7 +352,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuHistory.clearRecent.label "Susa iMbali Yakutshanje…">
 <!ENTITY appMenuHistory.restoreSession.label "Buyisela Iseshini yangaPhambili">
 <!ENTITY appMenuHistory.viewSidebar.label "Bona ibha esecaleni yeMbali">
-
+<!ENTITY appMenuHelp.label "Uncedo">
 <!ENTITY appMenuHelp.tooltip "Vula iMenyu yoNcedo">
 
 <!ENTITY appMenuRemoteTabs.label "Iithebhu Ezingqamanisiweyo">
@@ -389,7 +390,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      The overflow menu is the menu that appears if you click the chevron (>> button)
      in the location bar. These labels are only used in Photon, where you can put
      items into this menu permanently (pinned). -->
-
+<!ENTITY customizeMenu.addToOverflowMenu.label "Yongeza kwiMenyu yokuPhuphuma">
+<!ENTITY customizeMenu.addToOverflowMenu.accesskey "k">
 <!ENTITY customizeMenu.moveToToolbar.label "Fudukela kwiThulbha">
 <!ENTITY customizeMenu.moveToToolbar.accesskey "u">
 <!-- LOCALIZATION NOTE (customizeMenu.moveToPanel.accesskey, customizeMenu.pinToOverflowMenu.accesskey)
@@ -399,10 +401,10 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      keys.  -->
 <!ENTITY customizeMenu.moveToPanel.label "Fudukela kwiMenyu">
 <!ENTITY customizeMenu.moveToPanel.accesskey "u">
-
-
-
-
+<!ENTITY customizeMenu.pinToOverflowMenu.label "Qhoboshela kwiMenyu yokuPhuphuma">
+<!ENTITY customizeMenu.pinToOverflowMenu.accesskey "Q">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.label "Yikhulule kwiMenyu yokuPhuphuma">
+<!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Y">
 <!ENTITY customizeMenu.removeFromToolbar.label "Yishenxise kwiThulbha">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "Y">
 <!ENTITY customizeMenu.removeFromMenu.label "Yishenxise kwiMenyu">
@@ -412,6 +414,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (moreMenu.label) This label is used in the new Photon
     app (hamburger) menu. When clicked, it opens a subview that contains
     secondary commands. -->
+
+<!ENTITY moreMenu.label "Okungakumbi">
 
 <!ENTITY openCmd.commandkey           "l">
 <!ENTITY urlbar.placeholder2          "Khangela okanye ngenisa idilesi">
@@ -428,11 +432,14 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY urlbar.searchSuggestionsNotification.enable "Ewe">
 <!ENTITY urlbar.searchSuggestionsNotification.enable.accesskey "y">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hintPrefix): Shown just before the suggestions opt-out hint. -->
+
+<!ENTITY urlbar.searchSuggestionsNotification.hintPrefix "Icebiso:">
 <!-- LOCALIZATION NOTE (urlbar.searchSuggestionsNotification.hint): &#x1F50E; is the magnifier icon emoji, please don't change it. -->
-
-
-
-
+<!ENTITY urlbar.searchSuggestionsNotification.hint "Fumana uncedo lokufumana izinto! Khangela i-&#x1F50E; ecaleni kwamacebiso okukhangela.">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin "Tshintsha uKhetho…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsWin.accesskey "C">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix "Tshintsha uKhetho…">
+<!ENTITY urlbar.searchSuggestionsNotification.changeSettingsUnix.accesskey "C">
 <!--
   Comment duplicated from browser-sets.inc:
 
@@ -466,6 +473,8 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!-- LOCALIZATION NOTE (searchInput.placeholder):
      This string is displayed in the search box when the input field is empty. -->
 
+<!ENTITY searchInput.placeholder      "Khangela">
+<!ENTITY searchIcon.tooltip           "Khangela">
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
      search providers:  "Search for <used typed keywords> with:" -->
@@ -549,7 +558,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarkThisLinkCmd.accesskey  "K">
 <!ENTITY bookmarkThisFrameCmd.label      "Faka Ibhukhmakhi Kwesi Sakhelo">
 <!ENTITY bookmarkThisFrameCmd.accesskey  "m">
-
+<!ENTITY copyURLCmd.label             "Khuphela i-URL">
 <!ENTITY emailPageCmd.label           "Ikhonkco leimeyile…">
 <!ENTITY emailPageCmd.accesskey       "l">
 <!ENTITY savePageCmd.label            "Gcina iphepha njenge…">
@@ -615,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "a">
 <!ENTITY mediaPlaybackRate050x2.label "Ecothayo (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "E">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Okuqhelekileyo">
+<!ENTITY mediaPlaybackRate100x2.accesskey "O">
 <!ENTITY mediaPlaybackRate125x2.label "Ekhawulezayo (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "E">
 <!ENTITY mediaPlaybackRate150x2.label "Ebukhawuleza (1.5×)">
@@ -676,7 +685,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fullZoom.accesskey             "Y">
 
 <!ENTITY sidebarCloseButton.tooltip     "Vala ibha esecaleni">
-
+<!ENTITY sidebarMenuClose.label         "Vala iBha eseCaleni">
 
 <!ENTITY quitApplicationCmdWin2.label       "Phuma">
 <!ENTITY quitApplicationCmdWin2.accesskey   "h">
@@ -686,7 +695,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY quitApplicationCmd.label       "Yeka"> 
 <!ENTITY quitApplicationCmd.accesskey   "Y">
 <!ENTITY quitApplicationCmdMac2.label   "Yeka i-&brandShorterName;">
-
+<!ENTITY quitApplicationCmd.key         "Q">
 
 <!ENTITY closeCmd.label                 "Vala">  
 <!ENTITY closeCmd.key                   "W">  
@@ -730,6 +739,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY spellAddDictionaries.label "Yongeza izichazi-magama…">
 <!ENTITY spellAddDictionaries.accesskey "Y">
 
+<!ENTITY editBookmark.done.label                     "Kugqityiwe">
 <!ENTITY editBookmark.removeBookmark.accessKey       "R">
 
 <!ENTITY identity.connectionSecure "Unxibelelwano lonxibelelwano">
@@ -737,7 +747,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY identity.connectionFile "Eli phepha liyagcinwa kwikhompyutha yakho.">
 <!ENTITY identity.connectionVerified2 "Uqhagamshele ngokukhuselekileyo kule sayithi, enomnini oyi:">
 <!ENTITY identity.connectionInternal "Le yi-&brandShortName; ekhuselekileyo indawo yolawulo.">
-
+<!ENTITY identity.extensionPage "Eli phepha lilowudwe kwisongezelelo.">
 <!ENTITY identity.insecureLoginForms2 "Iiogini ezifakwe kweli phepha zinokuba sengozini.">
 <!-- Strings for connection state warnings. -->
 
@@ -836,9 +846,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.menuAndToolbars.empty "Ufuna izixhobo ezingakumbi?">
 <!ENTITY customizeMode.menuAndToolbars.emptyLink "Khetha kumawaka-waka ezongezelelo">
 <!ENTITY customizeMode.restoreDefaults "Buyisela ezisisiseko">
-
+<!ENTITY customizeMode.done "Kugqityiwe">
 <!ENTITY customizeMode.titlebar "Ibha yomxholo">
-
+<!ENTITY customizeMode.toolbars2 "&amp;Iithulbha">
 <!ENTITY customizeMode.lwthemes "Imixholo">
 <!ENTITY customizeMode.lwthemes.myThemes "Imixholo yam">
 <!ENTITY customizeMode.lwthemes.recommended "Okucetyisiweyo">
