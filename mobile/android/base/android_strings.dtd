@@ -87,8 +87,8 @@
 
 <!ENTITY bookmark_folder_items "&formatD; ಅಂಶಗಳು">
 <!ENTITY bookmark_folder_one_item "೧ ಅಂಶ">
-
-
+<!ENTITY bookmark_parent_folder "ಪೋಷಕ ಕಡತಕೋಶ">
+<!ENTITY bookmark_add_folder "ಕಡತ ಕೋಶ ಸೇರಿಸು">
 
 <!ENTITY reader_saved_offline "ಆಫ್‌ಲೈನ್ ಉಳಿಸಲಾಗಿದೆ">
 <!-- Localization note (reader_switch_to_bookmarks) : This
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "ಮುಖಪುಟ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "ಹೊಸ ಹಾಳೆಗಳಿಗೂ ">
 <!ENTITY home_homepage_title "ಮುಖಪುಟ ಹೊಂದಿಸು">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -289,8 +290,13 @@
 <!ENTITY pref_custom_tabs_summary3 "ಅನ್ವಯಗಳನ್ನು ಅಗತ್ಯಾನುಗುಣಗೊಳಿಸಿದ &brandShortName; ನ ಆವೃತ್ತಿಯಲ್ಲಿ ಜಾಲತಾಣಗಳನ್ನು‍ ತೆರೆಯಲು ಅನುಮತಿಸು‍">
 <!-- Localization note (custom_tabs_menu_item_open_in): The variable is replaced by the name of
      default browser from user's preference, such as "Open in Firefox" -->
-
+<!ENTITY custom_tabs_menu_item_open_in "&formatS; ನಲ್ಲಿ ">
+<!ENTITY custom_tabs_menu_footer "&brandShortName;ನಿಂದ ಬೆಂಬಲಿತ">
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
+<!ENTITY custom_tabs_hint_url_copy "URL ನಕಲಿಸ">
+
+<!ENTITY pref_pwa "ಪ್ರೋಗ್ರೆಸಿವ್ ಜಾಲ ">
+<!ENTITY pref_pwa_summary "ಜಾಲ ಅನ್ವಯಗಳನ್ನು ಮುಖಪುಟದ ಪರದೆಗೆ ಸೇರಿಸುವುದನ್ನು ">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "ಚಟುವಟಿಕೆ ಹರಿವು">
@@ -365,6 +371,8 @@
 <!-- Localization note (pref_use_system_font_size, pref_use_system_font_size_summary):
      Font size here refers to the name of the corresponding Android system setting. -->
 
+<!ENTITY pref_use_system_font_size "ಗಣಕ ವ್ಯವಸ್ಥೆಯ ಅಕ್ಷರ ಶೈಲಿ ಬಳಸಿ">
+<!ENTITY pref_use_system_font_size_summary "ಗಣಕ ವ್ಯವಸ್ಥೆಯ ಅಕ್ಷರ ಶೈಲಿ ಪ್ರಕಾರ ಜಾಲಪುಟದ  ಹಿಗ್ಗಿಸು ಅಥವಾ ಕುಗ್ಗಿಸು">
 
 <!ENTITY pref_media_autoplay_enabled "ಆಟೋ ಪ್ಲೇ ಅನುಮತಿಸು">
 <!ENTITY pref_media_autoplay_enabled_summary "ಜಾಲತಾಣಗಳು ಸ್ವಯಂ ವೀಡಿಯೊ ಮತ್ತು ಇತರೆ ಮೀಡಿಯಾ ವಿಷಯಗಳನ್ನು ಪ್ಲೇ ಮಾಡುತ್ತಿದ್ದಲ್ಲಿ ನಿಯಂತ್ರಿಸಿ">
@@ -495,7 +503,7 @@
 <!ENTITY contextmenu_open_private_tab "ಖಾಸಗಿ ಟ್ಯಾಬ್ ನಲ್ಲಿ ತೆರೆ">
 <!ENTITY contextmenu_remove "ತೆಗೆದು ಹಾಕು">
 <!ENTITY contextmenu_add_to_launcher "ಮುಖಪುಟ ಪರದೆಗೆ ಸೇರಿಸಿ">
-
+<!ENTITY contextmenu_set_as_homepage "ಮುಖಪುಟವನ್ನಾಗಿ ಹೊಂದಿಸು">
 <!ENTITY contextmenu_share "ಹಂಚು">
 <!ENTITY contextmenu_pasteandgo "ಅಂಟಿಸು ಹಾಗು ಮುಂದುವರೆ">
 <!ENTITY contextmenu_paste "ಅಂಟಿಸು">
@@ -543,7 +551,7 @@
 <!ENTITY bookmark_edit_name "ಹೆಸರು">
 <!ENTITY bookmark_edit_location "ಸ್ಥಳ">
 <!ENTITY bookmark_edit_keyword "ಸೂಚಕ ಪದ">
-
+<!ENTITY bookmark_select_folder "ಕಡತ ಕೋಶ ಆಯ್ಕೆಮಾಡು">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -565,7 +573,7 @@
 <!ENTITY button_yes "ಹೌದು">
 <!ENTITY button_no "ಇಲ್ಲ">
 <!ENTITY button_clear_data "ದತ್ತಾಂಶ ಬರಿದುಮಾಡು">
-
+<!ENTITY button_set "ನಿಶ್ಚಯಿಸು">
 <!ENTITY button_clear "ಅಳಿಸು">
 <!ENTITY button_copy "ಪ್ರತಿ ಮಾಡು">
 
