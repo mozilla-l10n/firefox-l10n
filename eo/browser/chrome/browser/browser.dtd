@@ -248,6 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Poŝaparataj legosignoj">
 <!ENTITY viewBookmarksSidebar2.label        "Montri flankan strion de legosignoj">
 <!ENTITY viewBookmarksToolbar.label         "Montri ilaron de legosignoj">
+<!ENTITY searchBookmarks.label              "Serĉi legosignojn">
 
 <!ENTITY containersMenu.label "Ingoj">
 
@@ -469,6 +470,11 @@ These should match what Safari and other Apple applications use on OS X Lion. --
      in-content search UI, to be used by screen readers. -->
 <!ENTITY contentSearchInput.label     "Kion serĉi">
 <!ENTITY contentSearchSubmit.tooltip  "Sendi serĉon">
+
+<!-- LOCALIZATION NOTE (searchInput.placeholder):
+     This string is displayed in the search box when the input field is empty. -->
+<!ENTITY searchInput.placeholder      "Serĉi">
+<!ENTITY searchIcon.tooltip           "Serĉi">
 
 <!-- LOCALIZATION NOTE (searchFor.label, searchWith.label):
      These two strings are used to build the header above the list of one-click
@@ -849,6 +855,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "A">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Ricevi pli da etosoj">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "R">
+<!ENTITY customizeMode.emptyOverflowList.description "Trenu elementojn kaj faligu ilin ĉi tie, por havi ilin estos ĉemane sed ne en via ilaro…">
+<!ENTITY customizeMode.uidensity "Denseco">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normala">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normala">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompakta">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakta">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
+<!ENTITY customizeMode.uidensity.menuTouch.label "Tuŝekrana">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tuŝekrana">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Uzi tuŝekranan densecon por tabulkomputila reĝimo">
 
 <!ENTITY getUserMedia.selectCamera.label "Dividota filmilo:">
 <!ENTITY getUserMedia.selectCamera.accesskey "f">
@@ -959,7 +986,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Agoj de la paĝo">
 
-<!ENTITY sendToDevice.label "Sendi al aparato…">
+<!ENTITY sendToDevice.label2 "Sendi al aparato">
 <!ENTITY sendToDevice.viewTitle "Sendi al aparato">
 <!ENTITY sendToDevice.fxaRequired.label "Postulata">
 <!ENTITY sendToDevice.noDevices.label "Neniu disponebla aparato">
+<!ENTITY sendToDevice.syncNotReady.label "Aparatoj spegulataj…">
