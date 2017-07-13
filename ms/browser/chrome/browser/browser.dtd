@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
 <!ENTITY customizeMode.emptyOverflowList.description "Seret dan lepas item di sini untuk memastikan mudah dicapai tetapi di uar bar alat anda…">
 <!ENTITY customizeMode.uidensity "Ketumpatan">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normal">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Kompak">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compact">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Sentuh">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Sentuh">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "S">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Tindakan halaman">
 
-<!ENTITY sendToDevice.label "Hantar ke Peranti…">
+<!ENTITY sendToDevice.label2 "Hantar ke Peranti">
 <!ENTITY sendToDevice.viewTitle "Hantar ke Peranti">
 <!ENTITY sendToDevice.fxaRequired.label "Diperlukan">
 <!ENTITY sendToDevice.noDevices.label "Tiada Peranti Tersedia">

@@ -4,35 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  
-  Ubah">
-
-<!ENTITY aboutTelemetry.uploadEnabled "Muat naik data FHR <span>dibolehkan</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  
-  FHR memuat naik data <span> dinyahdaya</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Rakaman Telemetri Lanjutan <span>didayakan</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Rakaman Telemetri Lanjutan <span>dinyahdayakan</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping semasa">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping diarkibkan">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Paparan data ping:">
-
-<!ENTITY aboutTelemetry.structured "
-Berstruktur">
 
 <!ENTITY aboutTelemetry.raw "
 JSON Mentah
@@ -51,13 +27,26 @@ Pilih ping:">
 <!ENTITY aboutTelemetry.showOlderPing "
 Ping lebih lama &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Data ping mentah…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
+
+<!ENTITY aboutTelemetry.archivePingType "
+Jenis Ping
+">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping ">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hari ini
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Semalam
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Lebih lama
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "
   
@@ -107,12 +96,6 @@ Ping ">
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Maklumat Sesi">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram Dikumpul oleh Add-on">
-
-<!ENTITY aboutTelemetry.toggle "  Klik untuk buka seksyen">
-
-<!ENTITY aboutTelemetry.emptySection "  (Tiada data terkumpul)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Slow SQL debugging is enabled. Full SQL strings may be displayed below but they will not be submitted to Telemetry.
 ">
@@ -129,7 +112,3 @@ Ping ">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Muat beban">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Muatan Mentah
-">
