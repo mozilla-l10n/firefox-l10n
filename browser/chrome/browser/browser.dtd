@@ -984,8 +984,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 
-<!ENTITY sendToDevice.label "Siųsti į įrenginį…">
-<!ENTITY sendToDevice.viewTitle "Siųsti į įrenginį">
+
 <!ENTITY sendToDevice.fxaRequired.label "Privaloma">
 <!ENTITY sendToDevice.noDevices.label "Įrenginių nėra">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
