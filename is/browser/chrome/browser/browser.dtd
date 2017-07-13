@@ -987,8 +987,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Síðu aðgerðir">
 
-<!ENTITY sendToDevice.label "Senda í tæki…">
-<!ENTITY sendToDevice.viewTitle "Senda í tæki">
+
 <!ENTITY sendToDevice.fxaRequired.label "Nauðsynlegt">
 <!ENTITY sendToDevice.noDevices.label "Engin tæki tiltæk">
 <!ENTITY sendToDevice.syncNotReady.label "Samstilli tæki…">
