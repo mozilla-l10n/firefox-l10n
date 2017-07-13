@@ -386,6 +386,8 @@
 <!ENTITY home_remote_tabs_many_hidden_devices "&formatD; dispositivi nascosti">
 <!ENTITY home_remote_tabs_hidden_devices_title "Dispositivi nascosti">
 <!ENTITY home_remote_tabs_unhide_selected_devices "Mostra dispositivi nascosti">
+<!ENTITY home_pinned_site "Aggiunto alla bacheca">
+<!ENTITY home_unpinned_site "Rimosso dalla bacheca">
 <!ENTITY remote_tabs_panel_moved_title "Dove sono finite le schede?">
 <!ENTITY remote_tabs_panel_moved_desc "Le schede provenienti da altri dispositivi sono disponibili in un pannello della pagina principale, facilmente accessibile ogni volta che si apre una nuova scheda.">
 <!ENTITY remote_tabs_panel_moved_link "Apri il nuovo pannello.">
