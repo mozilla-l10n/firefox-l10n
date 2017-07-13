@@ -46,3 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Oantal wûn troch buffer">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Oantal wûn troch netwurk">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Totale oantal netwurkoanfragen">
+<!ENTITY aboutNetworking.rcwnOperation         "Bufferbewurking">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Iepenje">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Lêze">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Skriuwe">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Fermelding iepenje">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Koart gemiddelde">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Lang gemiddelde">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Lange standertdeviaasje">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Oantal trage buffers">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Oantal net-trage buffers">
