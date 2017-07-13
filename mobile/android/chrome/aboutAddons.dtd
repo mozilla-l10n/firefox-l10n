@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Priedai">
 <!ENTITY aboutAddons.header2                    "Jūsų priedai">
-<!ENTITY aboutAddons.options                    "Nustatymai">
 
 <!ENTITY addonAction.enable                     "Įjungti">
 <!ENTITY addonAction.disable                    "Išjungti">
