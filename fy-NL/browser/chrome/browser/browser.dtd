@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "K">
 <!ENTITY customizeMode.emptyOverflowList.description "Sleep items hjirnei ta om se deunby mar bûten jo arkbalke te hâlden…">
 <!ENTITY customizeMode.uidensity "Tichtens">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normaal">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normaal">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Kompakt">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompakt">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Oanraking">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Oanraking">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "O">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Side-aksjes">
 
-<!ENTITY sendToDevice.label "Ferstjoere nei apparaat…">
+<!ENTITY sendToDevice.label2 "Ferstjoere nei apparaat">
 <!ENTITY sendToDevice.viewTitle "Ferstjoere nei apparaat">
 <!ENTITY sendToDevice.fxaRequired.label "Fereaske">
 <!ENTITY sendToDevice.noDevices.label "Gjin apparaten beskikber">

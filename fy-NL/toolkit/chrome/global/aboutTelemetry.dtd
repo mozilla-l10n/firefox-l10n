@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetry-gegevens">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Wizigje
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR-gegevensoplaad is <span>ynskeakele</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR-gegevensoplaad is <span>útskeakele</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Wiidweide Telemetry-opname is <span>ynskeakele</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Wiidweide Telemetry-opname is <span>útskeakele</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Ping-gegevensboarne:
 ">
@@ -34,14 +14,6 @@ Aktuele ping-gegevens
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Argivearre ping-gegevens
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Ping-gegevenswerjefte:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Strukturearre
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@ Ping kieze:
 Aldere ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Net bewurke ping-gegevens …
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Wike
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Pingtype
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Hjoed
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Juster
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Alder
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -140,18 +124,6 @@ Ping
   Sesjeynformaasje
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrammen sammele troch add-ons
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klik om seksje yn of út te klappen
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Gjin gegevens sammele)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE: Trage SQL-debugging is ynskeakele. Folsleine SQL-strings kinne hjirûnder toand wurde, mar se sille net ferstjoerd wurde nei Telemetry.
 ">
@@ -170,8 +142,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Nettolading
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Net bewurke nettolading
 ">
