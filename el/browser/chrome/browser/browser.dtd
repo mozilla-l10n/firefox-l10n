@@ -986,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Ενέργειες σελίδας">
 
-<!ENTITY sendToDevice.label "Αποστολή σε συσκευή…">
+<!ENTITY sendToDevice.label2 "Αποστολή σε συσκευή">
 <!ENTITY sendToDevice.viewTitle "Αποστολή σε συσκευή">
 <!ENTITY sendToDevice.fxaRequired.label "Απαιτείται">
 <!ENTITY sendToDevice.noDevices.label "Καμία διαθέσιμη συσκευή">

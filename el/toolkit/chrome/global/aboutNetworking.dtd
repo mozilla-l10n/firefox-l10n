@@ -46,3 +46,6 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Αριθμός νικών cache">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Αριθμός νικών δικτύου">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Αριθμός συνολικών αιτημάτων δικτύου">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Άνοιγμα">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Ανάγνωση">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Εγγραφή">

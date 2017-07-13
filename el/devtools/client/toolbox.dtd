@@ -46,6 +46,7 @@
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.authored): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
+<!ENTITY options.defaultColorUnit.authored "Ως συγγραφέας">
 
 <!-- LOCALIZATION NOTE (options.defaultColorUnit.hex): This is used in the
   -  'Default color unit' dropdown list and is visible in the options panel. -->
@@ -110,6 +111,7 @@
   -  the heading of group of checkboxes corresponding to the developer tools
   -  added by add-ons. This heading is hidden when there is no developer tool
   -  installed by add-ons. -->
+<!ENTITY options.selectAdditionalTools.label  "Τα εργαλεία για προγραμματιστές εγκαταστάθηκαν από τα πρόσθετα">
 
 <!-- LOCALIZATION NOTE (options.selectEnabledToolboxButtons.label): This is the label for
   -  the heading of group of checkboxes corresponding to the default developer
@@ -138,6 +140,7 @@
 <!-- LOCALIZATION NOTE (options.timestampMessages.label): This is the
    - label for the checkbox that toggles timestamps in the Web Console -->
 <!ENTITY options.timestampMessages.label      "Ενεργοποίηση χρονοσημάνσεων">
+<!ENTITY options.timestampMessages.tooltip    "Αν ενεργοποιήσετε αυτή την επιλογή, οι εντολές και η έξοδος στην κονσόλα ιστού θα εμφανίσουν μια χρονική σήμανση">
 
 <!-- LOCALIZATION NOTE (options.debugger.label): This is the label for the
   -  heading of the group of Debugger preferences in the options panel. -->
@@ -188,13 +191,15 @@
   -  network monitor,  i.e. devtools.webconsole.persistlog a boolean preference in
   -  about:config, in the options panel. -->
 <!ENTITY options.enablePersistentLogs.label    "Ενεργοποίηση επίμονων αρχείων καταγραφών">
-<!ENTITY options.enablePersistentLogs.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, η Κονσόλα Ιστού και η Εποπτεία Δικτύου δεν θα διαγράφουν την έξοδο κάθε φορά που πλοηγείστε σε μια νέα σελίδα">
+<!ENTITY options.enablePersistentLogs.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, η κονσόλα ιστού και η εποπτεία δικτύου δεν θα διαγράφουν την έξοδο κάθε φορά που πλοηγείστε σε μια νέα σελίδα">
 
 <!-- LOCALIZATION NOTE (options.showPlatformData.label): This is the
   -  label for the checkbox that toggles the display of the platform data in the,
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Εμφάνιση δεδομένων πλατφόρμας Gecko">
+<!ENTITY options.showPlatformData.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, οι αναφορές του JavaScript Profiler θα συμπεριλαμβάνουν
+σύμβολα της πλατφόρμας Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
   -  section. -->

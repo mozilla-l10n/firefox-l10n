@@ -4,25 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Δεδομένα τηλεμετρίας">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Αλλαγή">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Η μεταφόρτωση δεδομένων FHR είναι <span>ενεργή</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Η μεταφόρτωση δεδομένων FHR είναι <span>ανενεργή</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Η εκτεταμένη καταγραφή τηλεμετρίας είναι <span>ενεργή</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Η εκτεταμένη καταγραφή τηλεμετρίας είναι <span>ανενεργή</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Πηγή δεδομένων ping:
 ">
@@ -33,14 +14,6 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Αρχειοθετημένα δεδομένα ping
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Εμφάνιση δεδομένων ping:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Δομημένο
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -63,15 +36,27 @@
 Παλαιότερο ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Ακατέργαστα δεδομένα ping…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Εβδομάδα">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Τύπος ping
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Σήμερα
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Χθες
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Παλαιότερα
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -138,18 +123,6 @@ Ping
   Πληροφορίες συνεδρίας
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Ιστογράμματα συλλεγμένα από πρόσθετα
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Κάντε κλικ για εναλλαγή ενότητας
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Δεν συλλέχθηκαν δεδομένα)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   ΣΗΜΕΙΩΣΗ: Η αργή αποσφαλμάτωση SQL είναι ενεργή. Τα πλήρη νήματα SQL ενδέχεται να εμφανίζονται παρακάτω, αλλά δεν θα υποβάλλονται στην Τηλεμετρία.
 ">
@@ -168,8 +141,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Ωφέλιμο φορτίο
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Ακατέργαστο ωφέλιμο φορτίο
 ">

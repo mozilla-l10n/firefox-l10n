@@ -36,7 +36,7 @@
 <!ENTITY copyValue.accesskey "τ">
 <!ENTITY modify.label "Τροποποίηση">
 <!ENTITY modify.accesskey "ρ">
-<!ENTITY toggle.label "Εναλλαγή">
+<!ENTITY toggle.label "(Απ)ενεργοποίηση">
 <!ENTITY toggle.accesskey "Ε">
 <!ENTITY reset.label "Επαναφορά">
 <!ENTITY reset.accesskey "π">
