@@ -978,8 +978,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 
 
-<!ENTITY sendToDevice.label "آلہ پر ارسال کریں…">
-<!ENTITY sendToDevice.viewTitle "آلہ پر ارسال کریں">
+
 <!ENTITY sendToDevice.fxaRequired.label "مطلوب">
 <!ENTITY sendToDevice.noDevices.label "کوئِ آلہ دستیاب نہیں ہے">
 
