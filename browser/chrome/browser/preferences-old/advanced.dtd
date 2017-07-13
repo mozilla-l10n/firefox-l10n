@@ -35,7 +35,7 @@ available. -->
 
 <!ENTITY healthReportDesc.label          "Mae'n eich cynorthwyo i ddeall berfformiad eich porwr ac yn rhannu data gyda &vendorShortName; am iechyd eich porwr">
 <!ENTITY enableHealthReport.label        "Galluogi Adroddiad Iechyd &brandShortName;">
-<!ENTITY enableHealthReport.accesskey    "A">
+<!ENTITY enableHealthReport.accesskey    "I">
 <!ENTITY healthReportLearnMore.label     "Dysgu rhagor">
 
 <!ENTITY telemetryDesc.label             "Mae'n rhannu data perfformiad, defnydd, caledwedd a chyfaddasu eich porwr gyda &vendorShortName; er mwyn gwella &brandShortName;">
@@ -121,7 +121,7 @@ available. -->
 <!ENTITY selectCerts.auto                "Dewis un yn awtomatig">
 <!ENTITY selectCerts.auto.accesskey      "T">
 <!ENTITY selectCerts.ask                 "Gofyn i mi bob tro">
-<!ENTITY selectCerts.ask.accesskey       "A">
+<!ENTITY selectCerts.ask.accesskey       "G">
 <!ENTITY enableOCSP.label                "Ymholi â gweinyddion atebwr OCSP i gadarnhau dilysrwydd cyfredol y tystysgrifau">
 <!ENTITY enableOCSP.accesskey            "Y">
 <!ENTITY viewCerts.label                 "Darllen Tystysgrifau">
