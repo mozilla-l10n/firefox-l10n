@@ -625,6 +625,11 @@
      the text of a button; we expect more than one device. -->
 <!ENTITY home_remote_tabs_unhide_selected_devices "Geselecteerde apparaten zichtbaar maken">
 
+<!-- Localization note (home_pinned_site) : This is a snackbar label displayed after
+    a site is pinned or unpinned. -->
+<!ENTITY home_pinned_site "Website vastgemaakt">
+<!ENTITY home_unpinned_site "Website losgemaakt">
+
 <!ENTITY remote_tabs_panel_moved_title "Waar zijn mijn tabbladen gebleven?">
 <!ENTITY remote_tabs_panel_moved_desc "We hebben uw tabbladen van andere apparaten naar een paneel op uw startpagina verplaatst dat telkens wanneer u een nieuw tabblad opent makkelijk bereikbaar is.">
 <!ENTITY remote_tabs_panel_moved_link "Breng me naar mijn nieuwe paneel.">
