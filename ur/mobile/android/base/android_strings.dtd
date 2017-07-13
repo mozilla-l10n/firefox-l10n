@@ -87,7 +87,7 @@
 
 <!ENTITY bookmark_folder_items "&formatD; شہ">
 <!ENTITY bookmark_folder_one_item "۱ شہ">
-
+<!ENTITY bookmark_parent_folder "جد پوشہ">
 <!ENTITY bookmark_add_folder "نئے پوشہ کا اضافہ کریں">
 
 <!ENTITY reader_saved_offline "آف لائن محفوظ کردیا گیا">
@@ -219,6 +219,7 @@
 <!ENTITY pref_category_home_homepage "ابتدائی صفحہ">
 <!-- Localization note (home_homepage_every_new_tab): The user will see a switch to determine if the
      home page will be use in every new tab. -->
+<!ENTITY home_homepage_every_new_tab "نئے ٹیبس کے لیئے بھی استعمال کریں">
 <!ENTITY home_homepage_title "ابتدائی صفحہ پر سیٹ کرے">
 <!-- Localization note (home_homepage_radio_user_address): The user will see a series of radio
      buttons to choose the homepage they'd like to start on. When they click the radio
@@ -497,7 +498,7 @@
 <!ENTITY contextmenu_open_private_tab "نجی ٹیب میں کھولیں">
 <!ENTITY contextmenu_remove "ہٹائیں">
 <!ENTITY contextmenu_add_to_launcher "ابتدائی سکرین میں ڈالیں">
-
+<!ENTITY contextmenu_set_as_homepage "ابتدائی صفحہ پر سیٹ کرے">
 <!ENTITY contextmenu_share "شیئر">
 <!ENTITY contextmenu_pasteandgo "چسپاں کریں &amp; جائیں">
 <!ENTITY contextmenu_paste "جوڑیں">
