@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Breiseáin">
 <!ENTITY aboutAddons.header2                    "Do chuid Breiseán">
-<!ENTITY aboutAddons.options                    "Roghanna">
 
 <!ENTITY addonAction.enable                     "Cumasaigh">
 <!ENTITY addonAction.disable                    "Díchumasaigh">
