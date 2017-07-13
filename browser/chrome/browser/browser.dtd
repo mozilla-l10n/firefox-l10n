@@ -986,8 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 
-<!ENTITY sendToDevice.label "साधनाकडे पाठवा…">
-<!ENTITY sendToDevice.viewTitle "साधनाकडे पाठवा">
+
 <!ENTITY sendToDevice.fxaRequired.label "आवश्यक">
 <!ENTITY sendToDevice.noDevices.label "कोणतेही साधने उपकरणे उपलब्ध नाहीत">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
