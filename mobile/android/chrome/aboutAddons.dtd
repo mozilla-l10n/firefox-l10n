@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Extras">
 <!ENTITY aboutAddons.header2                    "Os seus extras">
-<!ENTITY aboutAddons.options                    "Opções">
 
 <!ENTITY addonAction.enable                     "Ativar">
 <!ENTITY addonAction.disable                    "Desativar">
