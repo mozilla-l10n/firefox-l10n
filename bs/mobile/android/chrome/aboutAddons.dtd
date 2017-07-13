@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Add-oni">
 <!ENTITY aboutAddons.header2                    "Vaši add-oni">
-<!ENTITY aboutAddons.options                    "Opcije">
 
 <!ENTITY addonAction.enable                     "Omogući">
 <!ENTITY addonAction.disable                    "Onemogući">
