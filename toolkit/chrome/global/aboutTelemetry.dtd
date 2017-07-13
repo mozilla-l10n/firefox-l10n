@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Kaukomittaustiedot">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Muuta
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  FHR-data <span>siirretään</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  FHR-dataa <span>ei siirretä</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Laajennettujen kaukomittaustietojen keräys on <span>päällä</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Laajennettujen kaukomittaustietojen keräys on <span>pois päältä</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Ping-datan lähde:
 ">
@@ -34,14 +14,6 @@ Tämänhetkinen ping-data
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Arkistoitu ping-data
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Ping-datan näyttämistapa:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Rakenteinen
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@ Valitse ping:
 Vanhempi ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Raaka ping-data…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Viikko
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Pingin tyyppi
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Tänään
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Eilen
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Vanhemmat
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -140,18 +124,6 @@ Ping
   Istunnon tiedot
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Lisäosien keräämät histogrammit
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Avaa tai sulje osio napsauttamalla
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Ei kerättyjä tietoja)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   Huom.: Hidas SQL-virheenetsintä on päällä. Täydelliset SQL-lausekkeet saattavat näkyä alla, mutta niitä ei lähetetä mittaustietona.
 ">
@@ -170,8 +142,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Tiedot
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Raakatiedot
 ">
