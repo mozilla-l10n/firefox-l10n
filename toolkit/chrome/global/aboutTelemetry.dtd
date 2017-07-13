@@ -22,7 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Tydźeń">
 
+<!ENTITY aboutTelemetry.archivePingType "Ping-typ">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Dźensa">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Wčera">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "Starši">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Powšitkowne daty">
 
