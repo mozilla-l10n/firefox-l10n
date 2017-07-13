@@ -4,7 +4,6 @@
 
 <!ENTITY aboutAddons.title2                     "Հավելումներ">
 <!ENTITY aboutAddons.header2                    "Ձեր Հավելումները">
-<!ENTITY aboutAddons.options                    "Ընտրանքներ">
 
 <!ENTITY addonAction.enable                     "Միացնել">
 <!ENTITY addonAction.disable                    "Անջատել">
