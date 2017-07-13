@@ -983,8 +983,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Oldal műveletek">
 
-<!ENTITY sendToDevice.label "Küldés eszközre…">
-<!ENTITY sendToDevice.viewTitle "Küldés eszközre">
+
 <!ENTITY sendToDevice.fxaRequired.label "Szükséges">
 <!ENTITY sendToDevice.noDevices.label "Nincs elérhető eszköz">
 
