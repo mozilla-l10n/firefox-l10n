@@ -28,6 +28,11 @@
 
 <!ENTITY dataChoicesTab.label            "Elektado de datumoj">
 
+<!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
+disabled data sharing options in developer builds or builds with no Telemetry support
+available. -->
+<!ENTITY healthReportingDisabled.label   "La raporto de datumoj estas malŝaltita pro la agordoj de konstruo">
+
 <!ENTITY healthReportDesc.label          "Tiu raporto helpas vin kompreni la efikecon de via retumilo kaj dividas datumojn kun &vendorShortName; pri la sano de via retumilo">
 <!ENTITY enableHealthReport.label        "Aktivigi la sanraporton de &brandShortName;">
 <!ENTITY enableHealthReport.accesskey    "R">

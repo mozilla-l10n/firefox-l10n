@@ -85,8 +85,7 @@
 <!ENTITY col.dateadded.label     "Aldonita">
 <!ENTITY col.lastmodified.label  "Laste modifita">
 
-<!ENTITY search.label                              "Serĉi:">
-<!ENTITY search.accesskey                          "S">
+<!ENTITY search.placeholder  "Serĉi">
 
 <!ENTITY cmd.find.key  "f">
 
@@ -104,8 +103,6 @@
 <!ENTITY detailsPane.less.accesskey "m">
 <!ENTITY detailsPane.selectAnItemText.description "Elekti elementon por vidi kaj modifi ĝiajn atributojn">
 
-<!ENTITY find.label               "Serĉi:">
-<!ENTITY find.accesskey           "S">
 <!ENTITY view.label               "Vidi">
 <!ENTITY view.accesskey           "v">
 <!ENTITY byDate.label             "Laŭ dato">
