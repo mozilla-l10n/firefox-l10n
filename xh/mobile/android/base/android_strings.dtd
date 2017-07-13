@@ -372,7 +372,7 @@
      Font size here refers to the name of the corresponding Android system setting. -->
 
 <!ENTITY pref_use_system_font_size "Sebenzisa isayizi yefonti yenkqubo">
-
+<!ENTITY pref_use_system_font_size_summary "Linganisa isiqulatho sewebhu ngokuvumelana nesayizi yefonti yenkqubo">
 
 <!ENTITY pref_media_autoplay_enabled "Vumela ukudlala ngokuzenzekelayo">
 <!ENTITY pref_media_autoplay_enabled_summary "Lawula xa iiwebhusayithi zikakho ukuzidlalela ngokuzenzelayo iivido kunye neminye imiba yemidiya">
@@ -503,7 +503,7 @@
 <!ENTITY contextmenu_open_private_tab "Vula kwithebhu yangasese">
 <!ENTITY contextmenu_remove "Susa">
 <!ENTITY contextmenu_add_to_launcher "Yongeza kwiSkrini sasekhaya">
-
+<!ENTITY contextmenu_set_as_homepage "Seta njengePhepha elisekuQaleni">
 <!ENTITY contextmenu_share "Yabelana">
 <!ENTITY contextmenu_pasteandgo "Ncamathisela &amp; uhambe">
 <!ENTITY contextmenu_paste "Ncamathelisa">
@@ -551,7 +551,7 @@
 <!ENTITY bookmark_edit_name "Igama">
 <!ENTITY bookmark_edit_location "Indawo">
 <!ENTITY bookmark_edit_keyword "Igama eliphambili">
-
+<!ENTITY bookmark_select_folder "Khetha ifolda">
 <!-- Localization note (site_settings_*) : These strings are used in the "Site Settings"
      dialog that appears after selecting the "Edit Site Settings" context menu item. -->
 
@@ -573,7 +573,7 @@
 <!ENTITY button_yes "Ewe">
 <!ENTITY button_no "Hayi">
 <!ENTITY button_clear_data "Susa iinkcukacha">
-
+<!ENTITY button_set "Seta">
 <!ENTITY button_clear "Susa">
 <!ENTITY button_copy "Kopa">
 
