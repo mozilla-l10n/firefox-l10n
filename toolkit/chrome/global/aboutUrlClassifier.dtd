@@ -8,6 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "Πάροχος">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "Χρόνος τελευταίας ενημέρωσης">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "Χρόνος επόμενης ενημέρωσης">
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "Χρόνος διακοπής">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "Τελευταία ενημέρωση κατάστασης">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "Ενημέρωση">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "Cache">

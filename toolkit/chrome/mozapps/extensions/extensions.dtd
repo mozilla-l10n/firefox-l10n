@@ -118,6 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Προβολή των σημειώσεων έκδοσης για αυτή την ενημέρωση">
 <!ENTITY cmd.hideReleaseNotes.label           "Απόκρυψη σημειώσεων έκδοσης">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Απόκρυψη των σημειώσεων έκδοσης για αυτή την ενημέρωση">
+<!ENTITY cmd.findReplacement.label            "Βρείτε μία αντικατάσταση">
 
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
@@ -256,3 +257,9 @@
 
 <!ENTITY pluginDeprecation.description "Λείπει τίποτα; Ορισμένες πρόσθετες λειτουργίες δεν υποστηρίζονται πλέον από το &brandShortName;.">
 <!ENTITY pluginDeprecation.learnMore "Μάθετε περισσότερα.">
+
+<!ENTITY legacyWarning.description "Λείπει κάτι; Ορισμένες επεκτάσεις δεν υποστηρίζονται πλέον από το &brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Εμφάνιση επεκτάσεων παλαιού τύπου">
+<!ENTITY legacyExtensions.title "Επεκτάσεις παλαιού τύπου">
+<!ENTITY legacyExtensions.description "Αυτές οι επεκτάσεις δεν πληρούν τα τρέχοντα κριτήρια του &brandShortName;, επομένως έχουν απενεργοποιηθεί.">
+<!ENTITY legacyExtensions.learnMore "Μάθετε σχετικά με τις αλλαγές στα πρόσθετα">
