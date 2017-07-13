@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "遥测数据">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  更改">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Firefox 健康报告数据上传<span>已启用</span>。">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Firefox 健康报告数据上传<span>已禁用</span>。">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  增强的遥测记录<span>已启用</span>。">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  增强的遥测记录<span>已禁用</span>。">
-
 <!ENTITY aboutTelemetry.pingDataSource "Ping 数据源：">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "当前 ping 数据">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "存档的 ping 数据">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "显示 ping 数据：">
-
-<!ENTITY aboutTelemetry.structured "结构化">
 
 <!ENTITY aboutTelemetry.raw "原始 JSON">
 
@@ -34,11 +20,25 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "较旧的 ping &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "原始 ping 数据...">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "周">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Ping 类型
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+今天
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+昨天
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+更早
+">
 
 <!ENTITY aboutTelemetry.generalDataSection "常规数据">
 
@@ -76,12 +76,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "会话信息">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "由附加组件收集的直方图">
-
-<!ENTITY aboutTelemetry.toggle "  点击切换此部分">
-
-<!ENTITY aboutTelemetry.emptySection "  （没有已收集的数据）">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "   注意：慢速 SQL 排错已启用。所有 SQL 字符串都可能在下面显示，但它们不会被遥测技术所提交。">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -95,7 +89,3 @@
 <!ENTITY aboutTelemetry.filterText "  筛选器（字符串或者 /正则表达式/）">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "载荷">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  原始载荷
-">
