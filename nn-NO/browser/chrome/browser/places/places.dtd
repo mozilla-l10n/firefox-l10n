@@ -77,7 +77,7 @@
 <!ENTITY cmd.moveBookmarks.accesskey              "F">
 
 <!ENTITY col.name.label          "Namn">
-<!ENTITY col.tags.label          "Merkelapp">
+<!ENTITY col.tags.label          "Etikettar">
 <!ENTITY col.url.label           "Adresse">
 <!ENTITY col.mostrecentvisit.label "Sist besøkt">
 <!ENTITY col.visitcount.label    "Tal på besøk">
