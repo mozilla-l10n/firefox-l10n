@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Lethbhreac dhen URL air a dhèanamh">
 
-
+<!ENTITY pref_pwa "Aplacaidean-lìn adhartach">
+<!ENTITY pref_pwa_summary "Gabhaidh aplacaidean-lìn a chur ris an sgrìn mhòr">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Sruth na gnìomhachd">
