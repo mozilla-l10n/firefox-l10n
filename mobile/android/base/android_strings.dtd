@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Сілтеме көшірілді">
 
-
+<!ENTITY pref_pwa "Прогрессивті веб қолданбалар">
+<!ENTITY pref_pwa_summary "Веб қолданбаларға үй экранына қосылуды рұқсат ету">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Белсенділік ағыны">
