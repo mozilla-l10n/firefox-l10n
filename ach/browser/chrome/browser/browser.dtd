@@ -235,6 +235,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 
 <!ENTITY urlbar.openHistoryPopup.tooltip                "Nyut gin mukato">
 
+<!ENTITY searchItem.title             "Yeny">
 <!-- Toolbar items -->
 
 <!ENTITY homeButton.label             "Gang">

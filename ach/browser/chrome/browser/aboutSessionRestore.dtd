@@ -34,6 +34,7 @@
 <!ENTITY welcomeback2.pageTitle     "Loc!">
 <!ENTITY welcomeback2.pageInfo1     "&brandShortName; tye ayuba me wot.">
 
+<!ENTITY welcomeback2.restoreAll.label  "Dwok dirica ki dirica matino weng">
 <!ENTITY welcomeback2.restoreSome.label "Nwo cano ma imito keken">
 <!-- LOCALIZATION NOTE (welcomeback2.beforelink.pageInfo2,
 welcomeback2.afterlink.pageInfo2): these two string are used respectively
