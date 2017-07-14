@@ -24,12 +24,12 @@
 <!ENTITY changeBlockList.label          "Lok jami bulok">
 <!ENTITY changeBlockList.accesskey      "L">
 
+<!ENTITY  doNotTrack.learnMore.label    "Nong ngec mapol">
 
-
-
+<!ENTITY  doNotTrack.always.label       "Jwijwi">
 
 <!ENTITY  history.label                 "Gin mukato">
-
+<!ENTITY  permissions.label             "Rukuca">
 
 <!ENTITY  locationBar.label             "Gintic me kabedo">
 
@@ -50,7 +50,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "Yee angija ki bot dul me adek:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "e">
-
+<!ENTITY  acceptThirdParty.always.label   "Jwijwi">
 <!ENTITY  acceptThirdParty.never.label    "Pe matwal">
 <!ENTITY  acceptThirdParty.visited.label  "Ki i ma kilimo">
 

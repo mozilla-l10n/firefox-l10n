@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Kimedo">
 <!ENTITY col.lastmodified.label  "Yub me agiki">
 
+<!ENTITY search.placeholder  "Yeny">
 
 <!ENTITY cmd.find.key  "f">
 
