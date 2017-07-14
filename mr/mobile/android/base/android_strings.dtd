@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL ची प्रत बनवली">
 
-
+<!ENTITY pref_pwa "प्रगतीशील वेब अॅप्स">
+<!ENTITY pref_pwa_summary "वेब अॅप्सला मुख्य पडद्यावर जोडण्यासाठी परवानगी द्या">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "उपक्रम मालिका">
