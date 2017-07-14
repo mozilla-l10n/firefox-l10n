@@ -405,9 +405,9 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY customizeMenu.pinToOverflowMenu.accesskey "Κ">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.label "Ξεκαρφίτσωμα από το μενού">
 <!ENTITY customizeMenu.unpinFromOverflowMenu.accesskey "Ξ">
-<!ENTITY customizeMenu.removeFromToolbar.label "Απομάκρυνση από την εργαλειοθήκη">
+<!ENTITY customizeMenu.removeFromToolbar.label "Αφαίρεση από τη γραμμή εργαλείων">
 <!ENTITY customizeMenu.removeFromToolbar.accesskey "R">
-<!ENTITY customizeMenu.removeFromMenu.label "Απομάκρυνση από το μενού">
+<!ENTITY customizeMenu.removeFromMenu.label "Αφαίρεση από το μενού">
 <!ENTITY customizeMenu.removeFromMenu.accesskey "Ρ">
 <!ENTITY customizeMenu.addMoreItems.label "Προσθήκη περισσότερων αντικειμένων…">
 <!ENTITY customizeMenu.addMoreItems.accesskey "α">

@@ -199,7 +199,7 @@
   -  Profiler i.e. devtools.profiler.ui.show-platform-data a boolean preference
   -  in about:config, in the options panel. -->
 <!ENTITY options.showPlatformData.label    "Εμφάνιση δεδομένων πλατφόρμας Gecko">
-<!ENTITY options.showPlatformData.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, οι αναφορές του JavaScript Profiler θα συμπεριλαμβάνουν
+<!ENTITY options.showPlatformData.tooltip  "Αν ενεργοποιήσετε αυτή την επιλογή, οι αναφορές του προγράμματος προφίλ JavaScript θα περιλαμβάνουν
 σύμβολα της πλατφόρμας Gecko">
 
 <!-- LOCALIZATION NOTE (options.sourceeditor.*): Options under the editor
