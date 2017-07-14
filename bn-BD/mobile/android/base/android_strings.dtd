@@ -295,7 +295,8 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL কপি হয়েছে">
 
-
+<!ENTITY pref_pwa "প্রোগ্রেসিভ ওয়েব অ্যাপ">
+<!ENTITY pref_pwa_summary "হোম স্ক্রিনে ওয়েব অ্যাপ যোগের অনুমতি দিন">
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 
 <!ENTITY pref_activity_stream "Activity Stream">
