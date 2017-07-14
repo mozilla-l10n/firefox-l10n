@@ -46,3 +46,4 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Antall cache won">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Antall net won">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antall nettverksforespørsler">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Åpne">
