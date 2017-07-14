@@ -377,7 +377,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY appMenuRemoteTabs.noclients.subtitle "Θέλετε να δείτε τις καρτέλες από τις άλλες σας συσκευές εδώ;">
 <!ENTITY appMenuRemoteTabs.openprefs.label "Προτιμήσεις συγχρονισμού">
 <!ENTITY appMenuRemoteTabs.notsignedin.label "Συνδεθείτε για να δείτε μία λίστα με καρτέλες από τις άλλες σας συσκευές.">
-<!ENTITY appMenuRemoteTabs.signin.label "Είσοδος στο Sync">
+<!ENTITY appMenuRemoteTabs.signin.label "Σύνδεση στο Sync">
 <!ENTITY appMenuRemoteTabs.managedevices.label "Διαχείριση συσκευών…">
 <!ENTITY appMenuRemoteTabs.sidebar.label "Δείτε την πλευρική στήλη του Συγχρονισμού">
 
@@ -825,7 +825,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY syncBrand.shortName.label    "Sync">
 
-<!ENTITY syncSignIn.label             "Είσοδος στο &syncBrand.shortName.label;…">
+<!ENTITY syncSignIn.label             "Σύνδεση στο &syncBrand.shortName.label;…">
 <!ENTITY syncSignIn.accesskey         "Υ">
 <!ENTITY syncSyncNowItem.label        "Συγχρονισμός τώρα">
 <!ENTITY syncSyncNowItem.accesskey    "Σ">

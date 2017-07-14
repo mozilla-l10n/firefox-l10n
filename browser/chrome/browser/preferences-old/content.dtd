@@ -39,7 +39,7 @@
 <!ENTITY chooseButton.accesskey       "λ">
 
 <!ENTITY translateWebPages.label      "Μετάφραση περιεχομένου του ιστού">
-<!ENTITY translateWebPages.accesskey  "τ">
+<!ENTITY translateWebPages.accesskey  "Μ">
 <!ENTITY translateExceptions.label    "Εξαιρέσεις…">
 <!ENTITY translateExceptions.accesskey "ξ">
 
@@ -53,8 +53,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "Μεταφράσεις από">
 <!ENTITY translation.options.attribution.afterLogo "">
 
-<!ENTITY  drmContent.label             "Περιεχόμενο με DRM">
+<!ENTITY  drmContent.label             "Περιεχόμενο DRM">
 
-<!ENTITY  playDRMContent.label         "Αναπαραγωγή περιεχομένου με DRM">
+<!ENTITY  playDRMContent.label         "Αναπαραγωγή περιεχομένου DRM">
 <!ENTITY  playDRMContent.accesskey     "Α">
-<!ENTITY  playDRMContent.learnMore.label "Μάθε περισσότερα">
+<!ENTITY  playDRMContent.learnMore.label "Μάθετε περισσότερα">
