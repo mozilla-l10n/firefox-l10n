@@ -3,8 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "मागोवा संरक्षण">
-
-
+<!ENTITY  trackingProtection2.description      "ट्रॅकिंग म्हणजे अनेक वेबसाईट्स वरच्या आपल्या ब्राउजिंग माहिती ची साठवण. ट्रॅकिंग चा वापर वापरकर्त्यांची एक प्रोफाइल बनवून, त्याच्या ब्राऊझिंग आणि वैयक्तिक माहिती वर आधारित मजकूर दाखवण्यासाठी केला जाऊ शकतो.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "माहित असलेले ट्रॅकर अडवण्यावासाठी ट्रॅक संरक्षण वापरा">
 <!ENTITY  trackingProtectionAlways.label       "नेहमी">
 <!ENTITY  trackingProtectionAlways.accesskey   "y">
 <!ENTITY  trackingProtectionPrivate.label      "फक्त खाजगी पटलामध्ये">
@@ -19,14 +19,16 @@
 <!ENTITY trackingProtectionPBM5.label         "खाजगी पटलामध्ये मागोवा सुरक्षेचा अवलंबन करा">
 <!ENTITY trackingProtectionPBM5.accesskey     "v">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "माहित असलेले ट्रॅकर अडवण्यावासाठी प्रायव्हेट ब्राऊझिंग मध्ये मागोवा संरक्षण वापरा">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "आणखी शिका">
 <!ENTITY changeBlockList.label          "अवरोधित सूचीमध्ये बदल करा">
 <!ENTITY changeBlockList.accesskey      "C">
 
-
-
-
+<!ENTITY  doNotTrack.description        "आपल्याला ट्रॅक न करण्यासाठी वेबसाइट्सना &quot;ट्रॅक करू नका&quot; हा इशारा पाठवा">
+<!ENTITY  doNotTrack.learnMore.label    "आणखी जाणा">
+<!ENTITY  doNotTrack.default.label      "फक्त ट्रॅकिंग संरक्षण वापरत असताना">
+<!ENTITY  doNotTrack.always.label       "नेहमी">
 
 <!ENTITY  history.label                 "इतिहास">
 <!ENTITY  permissions.label             "परवानग्या">
@@ -50,7 +52,7 @@
 
 <!ENTITY  acceptThirdParty.pre.label      "तिसरे-पक्षीय कूकिज स्वीकारा:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "y">
-
+<!ENTITY  acceptThirdParty.always.label   "नेहमी">
 <!ENTITY  acceptThirdParty.never.label    "कधीच नाही">
 <!ENTITY  acceptThirdParty.visited.label  "भेट दिलेल्यांमधून">
 

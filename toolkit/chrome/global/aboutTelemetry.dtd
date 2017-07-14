@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "आठवडा">
 
+<!ENTITY aboutTelemetry.archivePingType "पिंग प्रकार">
 
 <!ENTITY aboutTelemetry.archivePingHeader "पिंग">
 
+<!ENTITY aboutTelemetry.optionGroupToday "आज">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "काल">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "जुने">
 
 <!ENTITY aboutTelemetry.generalDataSection "  सामान्य माहिती">
 

@@ -46,13 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "सफल कॅश मोजणी">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "एकूण कॅश मोजणी">
 <!ENTITY aboutNetworking.totalNetworkRequests  "एकूण नेटवर्क विनंती मोजणी">
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnOperation         "कॅशे ऑपरेशन">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "उघडा">
+<!ENTITY aboutNetworking.rcwnPerfRead          "वाचन">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "लेखन">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "नोंद उघडा">
+<!ENTITY aboutNetworking.rcwnAvgShort          "छोटी सरासरी">
+<!ENTITY aboutNetworking.rcwnAvgLong           "लांब सरासरी">
+<!ENTITY aboutNetworking.rcwnStddevLong        "लॉंग स्टेंडर्ड डेव्हिएशन">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "कॅशे हळु मोजणी">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "कॅशे हळु मोजणी नाही">
