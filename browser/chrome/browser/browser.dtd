@@ -49,7 +49,7 @@ can reach it easily. -->
 <!ENTITY  moveToNewWindow.label              "Μετακίνηση σε νέο παράθυρο">
 <!ENTITY  moveToNewWindow.accesskey          "π">
 <!ENTITY  bookmarkAllTabs.label              "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
-<!ENTITY  bookmarkAllTabs.accesskey          "τ">
+<!ENTITY  bookmarkAllTabs.accesskey          "Κ">
 <!ENTITY  undoCloseTab.label                 "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY  undoCloseTab.accesskey             "ν">
 <!ENTITY  closeTab.label                     "Κλείσιμο καρτέλας">
@@ -88,7 +88,7 @@ when there are no windows but Firefox is still running. -->
 <!ENTITY toolbarContextMenu.reloadAllTabs.label "Ανανέωση όλων των καρτελών">
 <!ENTITY toolbarContextMenu.reloadAllTabs.accesskey "ο">
 <!ENTITY toolbarContextMenu.bookmarkAllTabs.label "Προσθήκη όλων των καρτελών στους σελιδοδείκτες…">
-<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "τ">
+<!ENTITY toolbarContextMenu.bookmarkAllTabs.accesskey "Κ">
 <!ENTITY toolbarContextMenu.undoCloseTab.label "Αναίρεση κλεισίματος καρτέλας">
 <!ENTITY toolbarContextMenu.undoCloseTab.accesskey "ι">
 
@@ -160,7 +160,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenu.accesskey "Σ">
 <!ENTITY bookmarkThisPageCmd.label "Προσθήκη στους σελιδοδείκτες">
 <!ENTITY editThisBookmarkCmd.label "Επεξεργασία σελιδοδείκτη">
-<!ENTITY bookmarkThisPageCmd.commandkey "d">
+<!ENTITY bookmarkThisPageCmd.commandkey "π">
 <!-- LOCALIZATION NOTE (findShareServices.label):
   -  Use the unicode ellipsis char, \u2026,
   -  or use "..." if \u2026 doesn't suit traditions in your locale. -->
@@ -310,7 +310,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY pasteCmd.key           "V">  
 <!ENTITY pasteCmd.accesskey         "π"> 
 <!ENTITY deleteCmd.label          "Διαγραφή">  
-<!ENTITY deleteCmd.key            "D">  
+<!ENTITY deleteCmd.key            "Δ">  
 <!ENTITY deleteCmd.accesskey        "Δ"> 
 <!ENTITY selectAllCmd.label         "Επιλογή όλων">  
 <!ENTITY selectAllCmd.key         "A">  
@@ -942,10 +942,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      The .mainActionDesc string combined with any of the 4 others is meant to form a complete sentence, e.g. "Proceeding will: Delete Recent Cookies".
      Note also that the deleteCookies, deleteHistory and deleteTabsAndWindows strings include <html:strong> tags for emphasis on the words "Cookies", "History", "Tabs" and "Windows".
      The translation should do the same. -->
-<!ENTITY panicButton.view.mainActionDesc          "Εάν συνεχίσετε θα:">
-<!ENTITY panicButton.view.deleteCookies           "διαγραφούν τα πρόσφατα <html:strong>Cookies</html:strong>">
-<!ENTITY panicButton.view.deleteHistory           "διαγραφεί το πρόσφατο <html:strong>ιστορικό</html:strong>">
-<!ENTITY panicButton.view.deleteTabsAndWindows    "κλείσουν όλες οι <html:strong>καρτέλες</html:strong> και τα <html:strong>παράθυρα</html:strong>">
+<!ENTITY panicButton.view.mainActionDesc          "Εάν συνεχίσετε:">
+<!ENTITY panicButton.view.deleteCookies           "Θα διαγραφούν τα πρόσφατα <html:strong>cookies</html:strong>">
+<!ENTITY panicButton.view.deleteHistory           "Θα διαγραφεί το πρόσφατο <html:strong>ιστορικό</html:strong>">
+<!ENTITY panicButton.view.deleteTabsAndWindows    "Θα κλείσουν όλες οι <html:strong>καρτέλες</html:strong> και τα <html:strong>παράθυρα</html:strong>">
 <!ENTITY panicButton.view.openNewWindow           "ανοίξει ένα νέο παράθυρο">
 
 <!ENTITY panicButton.view.undoWarning             "Δεν είναι δυνατή η αναίρεση αυτής της ενέργειας.">

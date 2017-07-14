@@ -74,11 +74,13 @@
   -  checkbox that toggles chrome debugging, i.e. devtools.chrome.enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableChrome.label5    "Ενεργοποίηση εργαλειοθηκών προγράμματος περιήγησης chrome και προσθέτων αποσφαλμάτωσης">
+<!ENTITY options.enableChrome.tooltip3  "Η ενεργοποίηση αυτής της επιλογής θα σάς επιτρέψει να χρησιμοποιήσετε διάφορα εργαλεία προγραμματιστή στο πλαίσιο του προγράμματος περιήγησης (μέσω του Εργαλεία > Προγραμματιστής ιστού > Εργαλειοθήκη προγράμματος περιήγησης) και να αποσφαλματώσετε πρόσθετα στη διαχείριση προσθέτων">
 
 <!-- LOCALIZATION NOTE (options.enableRemote.label3): This is the label for the
   -  checkbox that toggles remote debugging, i.e. devtools.debugger.remote-enabled
   -  boolean preference in about:config, in the options panel. -->
 <!ENTITY options.enableRemote.label3    "Ενεργοποίηση απομακρυσμένης αποσφαλμάτωσης">
+<!ENTITY options.enableRemote.tooltip2  "Η ενεργοποίηση αυτής της επιλογής θα επιτρέψει στα εργαλεία προγραμματιστή να αποσφαλματώσουν μια απομακρυσμένη παρουσία, όπως το Firefox OS">
 
 <!-- LOCALIZATION NOTE (options.enableWorkers.label): This is the label for the
   -  checkbox that toggles worker debugging, i.e. devtools.debugger.workers
@@ -90,6 +92,7 @@
   -  options.disableJavaScript.tooltip): This is the options panel label and
   -  tooltip for the checkbox that toggles JavaScript on or off. -->
 <!ENTITY options.disableJavaScript.label     "Απενεργοποίηση JavaScript *">
+<!ENTITY options.disableJavaScript.tooltip   "Η ενεργοποίηση αυτής της επιλογής θα απενεργοποιήσει το JavaScript για την τρέχουσα καρτέλα. Αν η καρτέλα ή η εργαλειοθήκη είναι κλειστή, τότε αυτή η ρύθμιση θα ξεχαστεί.">
 
 <!-- LOCALIZATION NOTE (options.disableHTTPCache.label,
   -  options.disableHTTPCache.tooltip): This is the options panel label and
