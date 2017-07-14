@@ -167,6 +167,8 @@ mën nga jéemaat ci kanam.</li>
 <!ENTITY cspBlocked.title "Blocked by Content Security Policy">
 <!ENTITY cspBlocked.longDesc "<p>&brandShortName; prevented this page from loading in this way because the page has a content security policy that disallows it.</p>">
 
+<!ENTITY corruptedContentErrorv2.title "Njuumteg Ëmbéef gees Ger">
+<!ENTITY corruptedContentErrorv2.longDesc "<p>Xët wi ngay jéem a xool maneesu koo wone ndax ag njuumte gees nemmeeku ci yónneeg njoxéef yi.</p><ul><li>Di la sàkku nga jéem a jot boroom dal bi ngir yegge ko gii jafe-jafe.</li></ul>">
 
 <!ENTITY securityOverride.linkText "Walla mën nga yokk lu kenn tëggaalewul…">
 <!ENTITY securityOverride.getMeOutOfHereButton "Génn xët wi!">
