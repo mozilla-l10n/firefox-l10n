@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
+<!ENTITY pluginActivationWarning                             "Tha an làrach seo a’ cleachdadh plugan a dh’fhaodadh maille a chur air &brandShortName;.">
 <!ENTITY tapToPlayPlugin                                     "Gnog an-seo gus am plugan a chur an gnìomh.">
 <!ENTITY clickToActivatePlugin                               "Cuir am plugan an gnìomh.">
 <!ENTITY checkForUpdates                                     "Thoir sùil airson ùrachaidhean…">
@@ -28,4 +30,4 @@
 <!ENTITY plugin.file                                         "Faidhle">
 <!ENTITY plugin.mimeTypes                                    "Seòrsachan MIME">
 <!ENTITY plugin.flashProtectedMode.label                     "Cuir an comas modh dìonta Adobe Flash">
-
+<!ENTITY plugin.enableBlocklists.label                       "Bac susbaint chunnartach is shàithteach Flash">

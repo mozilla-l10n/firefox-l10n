@@ -14,7 +14,7 @@
 <!ENTITY aboutNetworking.autoRefresh           "Ath-nuadhaich a h-uile 3 diogan">
 <!ENTITY aboutNetworking.hostname              "Ainm an òstair">
 <!ENTITY aboutNetworking.port                  "Port">
-
+<!ENTITY aboutNetworking.http2                 "HTTP/2">
 <!ENTITY aboutNetworking.ssl                   "SSL">
 <!ENTITY aboutNetworking.active                "Gnìomhach">
 <!ENTITY aboutNetworking.idle                  "Idle">
@@ -41,18 +41,18 @@
 <!ENTITY aboutNetworking.dnsLookupButton       "Fuasgail">
 <!ENTITY aboutNetworking.dnsDomain             "Àrainn">
 <!ENTITY aboutNetworking.dnsLookupTableColumn  "IPan">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwn                  "RCWN Stats">
+<!ENTITY aboutNetworking.rcwnStatus            "RCWN Status">
+<!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
+<!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
+<!ENTITY aboutNetworking.totalNetworkRequests  "Total network request count">
+<!ENTITY aboutNetworking.rcwnOperation         "Cache Operation">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Open">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Read">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Write">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Entry Open">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Short Average">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Long Average">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Long Standard Deviation">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cache slow count">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cache not slow count">

@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Seall nòtaichean sgaoilidh an ùrachaidh seo">
 <!ENTITY cmd.hideReleaseNotes.label           "Cuir na nòtaichean sgaoilidh am falach">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Cuir nòtaichean sgaoilidh an ùrachaidh seo am falach">
-
+<!ENTITY cmd.findReplacement.label            "Faigh rud a ghabhas àite">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -189,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "DÌLEABACH">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -254,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a phlugain tuilleadh.">
 <!ENTITY pluginDeprecation.learnMore "Barrachd fiosrachaidh.">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Dad a dhìth ort? Chan eil &brandShortName; a’ cur taic ri cuid a thuilleadain tuilleadh.">
+<!ENTITY legacyWarning.showLegacy "Seall leudachain dhìleabach">
+<!ENTITY legacyExtensions.title "Leudachain dhìleabach">
+<!ENTITY legacyExtensions.description "Chan eil na leudachain seo a’ coileanadh stannardan &brandShortName; agus chaidh an cur às comas ri linn sin.">
+<!ENTITY legacyExtensions.learnMore "Fiosraich na tha ùr a thaobh leudachan">

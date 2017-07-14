@@ -33,3 +33,4 @@
 <!ENTITY loaddevice.browse                      "Brabhsaich…">
 <!ENTITY loaddevice.browse.accesskey            "B">
 
+<!ENTITY loaddevice.title2                      "Load PKCS#11 Device Driver">
