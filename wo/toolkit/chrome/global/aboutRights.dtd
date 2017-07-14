@@ -46,6 +46,7 @@
 <!ENTITY rights2.webservices-header "Sarwisi xibaar Web bu &brandFullName;">
 
 <!-- point 5 -->
+<!ENTITY rights.intro-point5 "Ngir man a taal yenn xeeti ëmbéefi wideo, &brandShortName; dafay yebbe feneen yenn ciy yokkéef yuy tekki ëmbéef.">
 
 <!-- Note that this paragraph references a couple of entities from
      preferences/security.dtd, so that we can refer to text the user sees in
