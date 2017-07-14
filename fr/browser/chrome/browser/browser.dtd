@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "O">
 <!ENTITY customizeMode.emptyOverflowList.description "Faites glisser et déposer les éléments ici pour les garder à portée de main, mais hors de votre barre d’outils…">
 <!ENTITY customizeMode.uidensity "Densité">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "Normale">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "Normale">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "Compacte">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "Compacte">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "C">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "Tactile">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "Tactile">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Actions de la page">
 
-<!ENTITY sendToDevice.label "Envoyer à un appareil…">
+<!ENTITY sendToDevice.label2 "Envoyer à un appareil">
 <!ENTITY sendToDevice.viewTitle "Envoyer à un appareil">
 <!ENTITY sendToDevice.fxaRequired.label "Requis">
 <!ENTITY sendToDevice.noDevices.label "Aucun appareil disponible">
