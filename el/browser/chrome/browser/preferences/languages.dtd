@@ -11,7 +11,7 @@
 <!ENTITY languages.customize.moveDown.label             "Μετακίνηση κάτω">
 <!ENTITY languages.customize.moveDown.accesskey         "κ">
 <!ENTITY languages.customize.deleteButton.label         "Αφαίρεση">
-<!ENTITY languages.customize.deleteButton.accesskey     "μ">
+<!ENTITY languages.customize.deleteButton.accesskey     "Α">
 <!ENTITY languages.customize.selectLanguage.label       "Επιλέξτε μια γλώσσα για προσθήκη…">
 <!ENTITY languages.customize.addButton.label            "Προσθήκη">
 <!ENTITY languages.customize.addButton.accesskey        "θ">
