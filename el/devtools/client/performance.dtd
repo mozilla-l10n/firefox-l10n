@@ -13,6 +13,7 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusTooltip): This string
   -  is displayed as the tooltip for the buffer capacity during a recording. -->
+<!ENTITY performanceUI.bufferStatusTooltip "Το πρόγραμμα προφίλ αποθηκεύει δείγματα σε ένα κυκλικό ρυθμιστή και μόλις ο ρυθμιστής φτάσει στο όριο για μια εγγραφή, νεότερα δείγματα αρχίζουν να αντικαθιστούν τα πρώτα δείγματα της εγγραφής.">
 
 <!-- LOCALIZATION NOTE (performanceUI.disabledRealTime.nonE10SBuild): This string
   -  is displayed as a message for why the real time overview graph is disabled
@@ -26,12 +27,12 @@
 
 <!-- LOCALIZATION NOTE (performanceUI.bufferStatusFull): This string
   -  is displayed when the profiler's circular buffer has started to overlap. -->
-<!ENTITY performanceUI.bufferStatusFull "Η ενδιάμεση μνήμη είναι πλήρης. Παλιότερα δείγματα θα διαγράφονται από εδώ και πέρα με νεότερα.">
+<!ENTITY performanceUI.bufferStatusFull "Ο ρυθμιστής είναι πλήρης. Τα παλαιότερα δείγματα θα αντικαθίστανται πλέον.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while the profiler is unavailable, for example, while
   -  in Private Browsing mode. -->
-<!ENTITY performanceUI.unavailableNoticePB "Η εγγραφή ενός προφίλ δεν είναι διαθέσιμη αυτή τη στιγμή. Κλείστε όλα τα παράθυρα ιδιωτικής περιήγησης και ξαναδοκιμάστε.">
+<!ENTITY performanceUI.unavailableNoticePB "Η εγγραφή ενός προφίλ δεν είναι διαθέσιμη αυτή τη στιγμή. Κλείστε όλα τα παράθυρα ιδιωτικής περιήγησης και δοκιμάστε ξανά.">
 
 <!-- LOCALIZATION NOTE (performanceUI.loadingNotice): This is the label shown
   -  in the details view while loading a profile. -->
@@ -82,6 +83,7 @@
   -  label for the checkbox that toggles whether or not Gecko platform data
   -  is displayed in the profiler. -->
 <!ENTITY performanceUI.showPlatformData             "Εμφάνιση δεδομένων πλατφόρμας Gecko">
+<!ENTITY performanceUI.showPlatformData.tooltiptext "Η εμφάνιση των δεδομένων πλατφόρμας επιτρέπει στις αναφορές του προγράμματος προφίλ JavaScript να περιλαμβάνουν σύμβολα της πλατφόρμας Gecko.">
 
 <!-- LOCALIZATION NOTE (performanceUI.showJITOptimizations): This string
   -  is displayed next to a checkbox determining whether or not JIT optimization data
