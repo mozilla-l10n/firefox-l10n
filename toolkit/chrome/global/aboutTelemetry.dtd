@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Апта">
 
+<!ENTITY aboutTelemetry.archivePingType "Пинг түрі">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Пинг">
 
+<!ENTITY aboutTelemetry.optionGroupToday "Бүгін">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "Кеше">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Ескілеу">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Жалпы деректер">
 

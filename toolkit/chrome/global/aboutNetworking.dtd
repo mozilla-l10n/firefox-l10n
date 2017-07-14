@@ -46,7 +46,7 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Кэшке сәтті қатынаудың саны">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Желіге қатынаудың саны">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Желілік сұранымдардың жалпы саны">
-
+<!ENTITY aboutNetworking.rcwnOperation         "Кэш операциялары">
 
 
 
