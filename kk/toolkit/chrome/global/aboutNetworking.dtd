@@ -47,12 +47,12 @@
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Желіге қатынаудың саны">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Желілік сұранымдардың жалпы саны">
 <!ENTITY aboutNetworking.rcwnOperation         "Кэш операциялары">
-
-
-
-
-
-
-
-
-
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Ашу">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Оқу">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Жазу">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Нәрсе ашық">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Қысқа орташа мәні">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Ұзақ орташа мәні">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Ұзақ стандартты ауытқу">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Кэшке баяу қатынаудың саны">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Кэшке баяу емес қатынаудың саны">
