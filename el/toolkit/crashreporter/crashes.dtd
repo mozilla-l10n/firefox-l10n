@@ -10,4 +10,4 @@
 <!ENTITY dateSubmitted.heading      "Ημερομηνία υποβολής">
 <!ENTITY noReports.label            "Δεν έχουν υποβληθεί αναφορές προβλημάτων.">
 <!ENTITY noConfig.label             "Αυτή η εφαρμογή δεν έχει ρυθμιστεί για να εμφανίζει αναφορές προβλημάτων. Θα πρέπει να ρυθμιστούν οι προτιμήσεις στο <code>breakpad.reportURL</code>.">
-<!ENTITY clearAllReports.label      "Απομάκρυνση όλων των αναφορών">
+<!ENTITY clearAllReports.label      "Αφαίρεση όλων των αναφορών">

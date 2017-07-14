@@ -75,14 +75,14 @@ available. -->
   &limitCacheSizeBefore.label [textbox for cache size in MB] &limitCacheSizeAfter.label;
 -->
 <!ENTITY limitCacheSizeBefore.label      "Περιορισμός cache έως">
-<!ENTITY limitCacheSizeBefore.accesskey  "ρ">
+<!ENTITY limitCacheSizeBefore.accesskey  "Π">
 <!ENTITY limitCacheSizeAfter.label       "MB χώρου">
 <!ENTITY clearCacheNow.label             "Εκκαθάριση τώρα">
-<!ENTITY clearCacheNow.accesskey         "ι">
+<!ENTITY clearCacheNow.accesskey         "Ε">
 <!ENTITY clearOfflineAppCacheNow.label   "Εκκαθάριση τώρα">
-<!ENTITY clearOfflineAppCacheNow.accesskey "τ">
+<!ENTITY clearOfflineAppCacheNow.accesskey "Τ">
 <!ENTITY overrideSmartCacheSize.label    "Παράκαμψη αυτόματης διαχείρισης cache">
-<!ENTITY overrideSmartCacheSize.accesskey "ψ">
+<!ENTITY overrideSmartCacheSize.accesskey "Π">
 
 <!ENTITY updateTab.label                 "Ενημέρωση">
 
