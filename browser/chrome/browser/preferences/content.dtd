@@ -2,7 +2,6 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "Αναδυόμενα παράθυρα">
 
 <!ENTITY  blockPopups.label           "Φραγή αναδυόμενων παραθύρων">
 <!ENTITY  blockPopups.accesskey       "Φ">
@@ -19,7 +18,7 @@
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
 <!ENTITY  popupExceptions.accesskey   "ξ">
 
-<!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; Χρώματα">
+<!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; χρώματα">
 
 <!ENTITY  defaultFont2.label          "Προεπιλεγμένη γραμματοσειρά">
 <!ENTITY  defaultFont2.accesskey      "Π">

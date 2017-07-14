@@ -15,7 +15,7 @@
 <!ENTITY            availprofiles.label    "Διαθέσιμα προφίλ">
 
 <!ENTITY            newButton.label        "Δημιουργία προφίλ…">
-<!ENTITY            newButton.accesskey    "π">
+<!ENTITY            newButton.accesskey    "Δ">
 <!ENTITY            renameButton.label     "Μετονομασία προφίλ…">
 <!ENTITY            renameButton.accesskey "Μ">
 <!ENTITY            deleteButton.label     "Διαγραφή προφίλ…">
@@ -25,7 +25,7 @@
 <!ENTITY            pmDescription.label    "Το &brandShortName; αποθηκεύει πληροφορίες για τις ρυθμίσεις, τις προτιμήσεις και άλλα στοιχεία χρήστη στο προφίλ χρήστη σας.">
 
 <!ENTITY            offlineState.label    "Εργασία εκτός σύνδεσης">
-<!ENTITY            offlineState.accesskey "χ">
+<!ENTITY            offlineState.accesskey "σ">
 
 <!ENTITY            useSelected.label       "Χρήση επιλεγμένου προφίλ χωρίς ερώτηση στην εκκίνηση">
 <!ENTITY            useSelected.accesskey   "ρ">
