@@ -53,13 +53,16 @@
      the UI, without this page being forgotten every time those strings are
      updated.  -->
 <!-- intro paragraph for branded builds -->
+<!ENTITY rights2.webservices-a "&brandFullName; dafay jëfandikoo ay joxekaayu xibaar yu web ngir man di joxe yenn ci solo yees la jébbal ak bii sumb bu &brandShortName; ci anam yiñ la biral sànk. Soo bëggul jëfandikoo yenn ci yooyu joxekaayu xibaar walla nga jàpp ne anam yees la biral sànk jaaduwuñ, man ngaa doxadil yooyu solo. Ay tektal ci naka lees man a doxadilee senn solo si man nga koo gis ci ">
 <!ENTITY rights2.webservices-b "fii">
+<!ENTITY rights3.webservices-c ". Yeneen solo yi man nga leen doxadilee ci jekk-jekkaluwaayu Jëfekaay bi.">
 
 <!-- safe browsing points for branded builds -->
 <!ENTITY rights.safebrowsing-a "Tëye dali musiba yi : ">
 <!ENTITY rights.safebrowsing-b "Li gën mooy baña suuxal doxalin bii ndax mën nga joow  ci dal yu wóorul. Boo bëggee suuxal doxalin lëpp, toppal tektal yii :">
 <!ENTITY rights.safebrowsing-term1 "Ubbil taamu yi walla tànneefi tëralin bi">
 <!ENTITY rights.safebrowsing-term2 "Falal pano kaaraange gi">
+<!ENTITY rights2.safebrowsing-term3 "Faladil tànnéefu &quot;&enableSafeBrowsing.label;&quot;">
 <!ENTITY rights.safebrowsing-term4 "Bolokasu dali musiba yi suux na">
 
 <!-- location aware browsing points for branded builds -->
