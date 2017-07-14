@@ -45,7 +45,7 @@ available. -->
 
 <!ENTITY crashReporterDesc2.label         "Οι αναφορές καταρρεύσεων βοηθούν τη &vendorShortName; να διορθώνει προβλήματα και να κάνει το πρόγραμμα περιήγησής σας πιο σταθερό και ασφαλές">
 <!ENTITY alwaysSubmitCrashReports.label   "Να επιτρέπεται στο &brandShortName; να στέλνει εκ μέρους σας αναφορές καταρρεύσεων">
-<!ENTITY alwaysSubmitCrashReports.accesskey "c">
+<!ENTITY alwaysSubmitCrashReports.accesskey "κ">
 <!ENTITY crashReporterLearnMore.label     "Μάθετε περισσότερα">
 
 <!ENTITY networkTab.label                "Δίκτυο">

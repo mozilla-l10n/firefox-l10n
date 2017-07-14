@@ -3,15 +3,19 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/.  -->
 <!ENTITY aboutDialog.title          "Σχετικά με το &brandFullName;">
 
+<!-- LOCALIZATION NOTE (update.*):
+# These strings are also used in the update pane of preferences.
+# See about:preferences#advanced.
+-->
 <!-- LOCALIZATION NOTE (update.checkForUpdatesButton.*, update.updateButton.*):
 # Only one button is present at a time.
 # The button when displayed is located directly under the Firefox version in
 # the about dialog (see bug 596813 for screenshots).
 -->
 <!ENTITY update.checkForUpdatesButton.label       "Έλεγχος για ενημερώσεις">
-<!ENTITY update.checkForUpdatesButton.accesskey   "C">
+<!ENTITY update.checkForUpdatesButton.accesskey   "Ε">
 <!ENTITY update.updateButton.label3               "Επανεκκίνηση για ενημέρωση του &brandShorterName;">
-<!ENTITY update.updateButton.accesskey            "π">
+<!ENTITY update.updateButton.accesskey            "Ε">
 
 
 <!-- LOCALIZATION NOTE (warningDesc.version): This is a warning about the experimental nature of Nightly and Aurora builds. It is only shown in those versions. -->
@@ -91,7 +95,7 @@
 <!ENTITY update.unsupported.linkText "Μάθετε περισσότερα">
 <!ENTITY update.unsupported.end      "">
 
-<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
+<!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and
      update.downloading.end all go into one line, with the amount downloaded inserted in between. As this
      is all in one line, try to make the localized text short (see bug 596813 for screenshots). The — is
      the "em dash" (long dash).

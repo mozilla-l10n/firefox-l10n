@@ -19,7 +19,7 @@
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
 <!ENTITY  popupExceptions.accesskey   "ξ">
 
-<!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; Χρώματα">
+<!ENTITY  fontsAndColors.label        "Γραμματοσειρές &amp; χρώματα">
 
 <!ENTITY  defaultFont.label           "Προεπιλεγμένη γραμματοσειρά:">
 <!ENTITY  defaultFont.accesskey       "γ">
