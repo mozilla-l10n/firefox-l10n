@@ -5,5 +5,5 @@
 <!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
 <!ENTITY printWindow.title "Προεπισκόπηση εκτύπωσης"> 
 <!ENTITY title   "Τίτλος:"> 
-<!ENTITY preparing "Προετοιμασία...">
+<!ENTITY preparing "Προετοιμασία…">
 <!ENTITY progress "Πρόοδος:">

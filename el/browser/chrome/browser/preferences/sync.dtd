@@ -47,7 +47,7 @@ both, to better adapt this sentence to their language.
 <!ENTITY signedInLoginFailure.aftername.label "">
 
 <!ENTITY notSignedIn.label           "Δεν έχετε συνδεθεί.">
-<!ENTITY signIn.label                "Είσοδος">
+<!ENTITY signIn.label                "Σύνδεση">
 <!ENTITY signIn.accesskey            "σ">
 <!ENTITY profilePicture.tooltip      "Αλλαγή εικόνας προφίλ">
 <!ENTITY verifiedManage.label        "Διαχείριση λογαριασμού">
@@ -59,12 +59,12 @@ both, to better adapt this sentence to their language.
 <!ENTITY forget.label                "Διαγραφή email">
 <!ENTITY forget.accesskey            "Γ">
 
-<!ENTITY signedOut.caption            "Πάρτε μαζί σας το Διαδίκτυο">
+<!ENTITY signedOut.caption            "Πάρτε μαζί σας το διαδίκτυο">
 <!ENTITY signedOut.description        "Συγχρονίστε τους σελιδοδείκτες, το ιστορικό, τις καρτέλες, τους κωδικούς πρόσβασης, τα πρόσθετα και τις προτιμήσεις σας σε όλες τις συσκευές σας.">
 <!ENTITY signedOut.accountBox.title   "Σύνδεση με ένα λογαριασμό Firefox">
 <!ENTITY signedOut.accountBox.create  "Δημιουργία λογαριασμού">
 <!ENTITY signedOut.accountBox.create.accesskey  "Π">
-<!ENTITY signedOut.accountBox.signin  "Είσοδος">
+<!ENTITY signedOut.accountBox.signin  "Σύνδεση">
 <!ENTITY signedOut.accountBox.signin.accesskey  "Σ">
 
 <!ENTITY signedIn.settings.label       "Ρυθμίσεις Sync">

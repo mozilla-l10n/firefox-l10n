@@ -2,21 +2,21 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY print.label          "Εκτύπωση...">
-<!ENTITY print.accesskey      "P">
-<!ENTITY pageSetup.label      "Διαμόρφωση σελίδας...">
-<!ENTITY pageSetup.accesskey  "u">
+<!ENTITY print.label          "Εκτύπωση…">
+<!ENTITY print.accesskey      "Ε">
+<!ENTITY pageSetup.label      "Διαμόρφωση σελίδας…">
+<!ENTITY pageSetup.accesskey  "δ">
 <!ENTITY page.label           "Σελίδα:">
-<!ENTITY page.accesskey       "a">
+<!ENTITY page.accesskey       "ε">
 <!ENTITY of.label             "από">
 <!ENTITY scale.label          "Κλίμακα:">
-<!ENTITY scale.accesskey      "S">
+<!ENTITY scale.accesskey      "Κ">
 <!ENTITY portrait.label       "Κατακόρυφα">
-<!ENTITY portrait.accesskey   "o">
+<!ENTITY portrait.accesskey   "α">
 <!ENTITY landscape.label      "Οριζόντια">
-<!ENTITY landscape.accesskey  "L">
+<!ENTITY landscape.accesskey  "Ο">
 <!ENTITY close.label          "Κλείσιμο">
-<!ENTITY close.accesskey      "C">
+<!ENTITY close.accesskey      "Κ">
 <!ENTITY p30.label            "30&#037;">
 <!ENTITY p40.label            "40&#037;">
 <!ENTITY p50.label            "50&#037;">
@@ -33,7 +33,7 @@
 <!ENTITY ShrinkToFit.label    "Αυτόματη προσαρμογή">
 <!ENTITY customPrompt.title   "Προσαρμοσμένη κλίμακα...">
 <!ENTITY simplifyPage.label   "Απλοποίηση σελίδας">
-<!ENTITY simplifyPage.accesskey "i">
+<!ENTITY simplifyPage.accesskey "π">
 <!ENTITY simplifyPage.enabled.tooltip  "Αλλαγή διάταξης για ευκολότερη ανάγνωση">
 <!ENTITY simplifyPage.disabled.tooltip "Δεν είναι δυνατή η αυτόματη απλοποίηση της σελίδας">
 
