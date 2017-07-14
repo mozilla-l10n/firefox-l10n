@@ -9,5 +9,5 @@
 <!ENTITY doNotTrackCheckbox2.label    "Πάντα εφαρμογή της αποτροπής καταγραφής">
 <!ENTITY doNotTrackCheckbox2.accesskey "Π">
 
-<!ENTITY doNotTrackTPInfo.description "Ο &brandShortName; θα στέλνει ένδειξη ότι δεν επιθυμείτε να καταγράφεστε όταν η Προστασία Δεδομένων Περιήγησης είναι ενεργή.">
+<!ENTITY doNotTrackTPInfo.description "Το &brandShortName; θα στέλνει ένδειξη ότι δεν επιθυμείτε να καταγράφεστε όταν η προστασία από παρακολούθηση είναι ενεργή.">
 <!ENTITY doNotTrackLearnMore.label    "Μάθετε περισσότερα">

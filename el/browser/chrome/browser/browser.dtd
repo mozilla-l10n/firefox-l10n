@@ -884,7 +884,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY getUserMedia.audioCapture.label "Θα μοιραστεί ο ήχος από την καρτέλα.">
 <!ENTITY getUserMedia.allWindowsShared.message "Θα μοιραστούν όλα τα ορατά παράθυρα της οθόνη σας.">
 
-<!ENTITY trackingProtection.title "Προστασία δεδομένων περιήγησης">
+<!ENTITY trackingProtection.title "Προστασία από παρακολούθηση">
 <!ENTITY trackingProtection.detectedBlocked3 "Ο &brandShortName; εμποδίζει τμήματα της σελίδας που μπορούν να καταγράψουν τη συμπεριφορά σας.">
 <!ENTITY trackingProtection.detectedNotBlocked3 "Αυτή η ιστοσελίδα περιέχει στοιχεία που μπορούν να καταγράψουν τη συμπεριφορά σας. Έχετε απενεργοποιήσει την προστασία.">
 <!ENTITY trackingProtection.notDetected3 "Κανένα στοιχείο καταγραφής σε αυτή τη σελίδα.">
@@ -909,7 +909,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY trackingContentBlocked.unblock2.accesskey "Δ">
 <!ENTITY trackingContentBlocked.block.label "Ενεργοποίηση προστασίας">
 <!ENTITY trackingContentBlocked.block.accesskey "Ε">
-<!ENTITY trackingContentBlocked.disabled.message "Η προστασία δεδομένων περιήγησης είναι απενεργοποιημένη">
+<!ENTITY trackingContentBlocked.disabled.message "Η προστασία από παρακολούθηση είναι ανενεργή">
 
 <!ENTITY pluginNotification.showAll.label "Προβολή όλων">
 <!ENTITY pluginNotification.showAll.accesskey "β">

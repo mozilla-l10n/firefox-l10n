@@ -25,9 +25,9 @@
      Translate "Latin" as the name of Latin (Roman) script, not as the name of the Latin language. -->
 <!ENTITY  font.langGroup.latin                    "Λατινική">
 <!ENTITY  font.langGroup.japanese                 "Ιαπωνική">
-<!ENTITY  font.langGroup.trad-chinese             "Παρ. Κινέζικη (Taiwan)">
-<!ENTITY  font.langGroup.simpl-chinese            "Απλ. Κινέζικη">
-<!ENTITY  font.langGroup.trad-chinese-hk          "Παρ. Κινέζικη  (Hong Kong)">
+<!ENTITY  font.langGroup.trad-chinese             "Παραδοσιακή Κινεζική (Ταϊβάν)">
+<!ENTITY  font.langGroup.simpl-chinese            "Απλοποιημένη Κινεζική">
+<!ENTITY  font.langGroup.trad-chinese-hk          "Παραδοσιακή Κινεζική (Χονγκ Κονγκ)">
 <!ENTITY  font.langGroup.korean                   "Κορεάτικη">
 <!ENTITY  font.langGroup.cyrillic                 "Κυριλλική">
 <!ENTITY  font.langGroup.el                       "Ελληνική">
@@ -39,7 +39,7 @@
 <!ENTITY  font.langGroup.tamil                    "Ταμίλ">
 <!ENTITY  font.langGroup.armenian                 "Αρμενική">
 <!ENTITY  font.langGroup.bengali                  "Μπενγκάλι">
-<!ENTITY  font.langGroup.canadian                 "Ενοποιημένο Καναδικό συλλαβάριο">
+<!ENTITY  font.langGroup.canadian                 "Ενοποιημένο καναδικό συλλαβάριο">
 <!ENTITY  font.langGroup.ethiopic                 "Αιθιοπική">
 <!ENTITY  font.langGroup.georgian                 "Γεωργιανή">
 <!ENTITY  font.langGroup.gujarati                 "Γκουαρατί">
@@ -78,10 +78,10 @@
 <!ENTITY languages.customize.Fallback.cewindows   "Κεντρική Ευρωπαϊκή, Microsoft">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.simplified):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.simplified  "Κινέζικη, Απλοποιημένη">
+<!ENTITY languages.customize.Fallback.simplified  "Κινεζική, Απλοποιημένη">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.traditional):
      Translate "Chinese" as an adjective for an encoding, not as the name of the language. -->
-<!ENTITY languages.customize.Fallback.traditional "Κινέζικη, Παραδοσιακή">
+<!ENTITY languages.customize.Fallback.traditional "Κινεζική, Παραδοσιακή">
 <!ENTITY languages.customize.Fallback.cyrillic    "Κυριλλική">
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.greek):
      Translate "Greek" as an adjective for an encoding, not as the name of the language. -->
@@ -104,4 +104,4 @@
 <!-- LOCALIZATION NOTE (languages.customize.Fallback.vietnamese):
      Translate "Vietnamese" as an adjective for an encoding, not as the name of the language. -->
 <!ENTITY languages.customize.Fallback.vietnamese  "Βιετναμέζικη">
-<!ENTITY languages.customize.Fallback.other       "Άλλη (συμπ. Δυτική Ευρωπαϊκή)">
+<!ENTITY languages.customize.Fallback.other       "Άλλη (συμπ. Δυτικής Ευρωπαϊκής)">

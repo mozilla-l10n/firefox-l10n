@@ -35,7 +35,7 @@
 
 <!ENTITY  locationBar.label             "Γραμμή διευθύνσεων">
 
-<!ENTITY  locbar.suggest2.label         "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση">
+<!ENTITY  locbar.suggest2.label         "Κατά τη χρήση της γραμμής διευθύνσεων, να γίνεται πρόταση:">
 <!ENTITY  locbar.history.label          "Ιστορικού">
 <!ENTITY  locbar.history.accesskey      "Ι">
 <!ENTITY  locbar.bookmarks.label        "Σελιδοδεικτών">
