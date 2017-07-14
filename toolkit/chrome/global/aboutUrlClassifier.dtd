@@ -8,7 +8,7 @@
 <!ENTITY aboutUrlClassifier.provider                    "पुरविणारा">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime      "या आधी अद्ययावत केले ती वेळ">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime      "पुढील अद्ययावत करायची वेळ">
-
+<!ENTITY aboutUrlClassifier.providerBackOffTime         "बॅक-ऑफ वेळ">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus    "या आधी अद्ययावत केले त्याची स्थिती">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn           "अद्ययावत करा">
 <!ENTITY aboutUrlClassifier.cacheTitle                  "कॅशे">
