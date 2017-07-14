@@ -21,9 +21,10 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionVersion "Tionndadh">
 <!ENTITY aboutSupport.extensionId "ID">
 
-
-
-
+<!ENTITY aboutSupport.featuresTitle "Gleusan &brandShortName;">
+<!ENTITY aboutSupport.featureName "Ainm">
+<!ENTITY aboutSupport.featureVersion "Tionndadh">
+<!ENTITY aboutSupport.featureId "ID">
 
 <!ENTITY aboutSupport.experimentsTitle "Gleusan deuchainneach">
 <!ENTITY aboutSupport.experimentName "Ainm">
@@ -103,7 +104,7 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.a11yTitle "Inntrigeachd">
 <!ENTITY aboutSupport.a11yActivated "Air gnìomhachadh">
 <!ENTITY aboutSupport.a11yForceDisabled "Casg air so-inntrigeachd">
-
+<!ENTITY aboutSupport.a11yHandlerUsed "Làimhsichear na so-inntrigeachd a chaidh a chleachdadh">
 
 <!ENTITY aboutSupport.libraryVersionsTitle "Tionndaidhean leabharlainn">
 

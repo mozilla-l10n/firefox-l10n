@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "Seachdain">
 
+<!ENTITY aboutTelemetry.archivePingType "Seòrsa a’ phing">
 
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
 
+<!ENTITY aboutTelemetry.optionGroupToday "An-diugh">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "An-dè">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "Nas sine">
 
 <!ENTITY aboutTelemetry.generalDataSection "  Dàta coitcheann">
 
