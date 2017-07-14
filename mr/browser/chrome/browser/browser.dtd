@@ -856,7 +856,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "अधिक थिम्स मिळवा">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
+<!ENTITY customizeMode.emptyOverflowList.description "आपल्या साधनपट्टीच्या बाहेर पण त्वरित उपलब्ध होण्यासाठी ओढून घटक इथे सोडा…">
 <!ENTITY customizeMode.uidensity "घनता">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
@@ -873,9 +873,10 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "स्पर्श">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "स्पर्श">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "T">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "टॅबलेट मोड मध्ये स्पर्श वापरा">
 
 <!ENTITY getUserMedia.selectCamera.label "शेअर करण्याजोगी कॅमेरा:">
 <!ENTITY getUserMedia.selectCamera.accesskey "C">
@@ -986,7 +987,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "पृष्ठाच्या कृती">
 
-
+<!ENTITY sendToDevice.label2 "साधनाकडे पाठवा">
+<!ENTITY sendToDevice.viewTitle "साधनाकडे पाठवा">
 <!ENTITY sendToDevice.fxaRequired.label "आवश्यक">
 <!ENTITY sendToDevice.noDevices.label "कोणतेही साधने उपकरणे उपलब्ध नाहीत">
 <!ENTITY sendToDevice.syncNotReady.label "उपकरणे सिंक करत आहे…">
