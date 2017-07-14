@@ -63,7 +63,7 @@ available. -->
 <!--  Site Data section manages sites using Storage API and is under Network -->
 <!ENTITY siteData.label                  "Δεδομένα ιστοσελίδας">
 <!ENTITY clearSiteData.label             "Εκκαθάριση όλων των δεδομένων">
-<!ENTITY clearSiteData.accesskey         "φ">
+<!ENTITY clearSiteData.accesskey         "κ">
 <!ENTITY siteDataSettings.label          "Ρυθμίσεις…">
 <!ENTITY siteDataSettings.accesskey      "ι">
 <!ENTITY siteDataLearnMoreLink.label     "Μάθετε περισσότερα">
@@ -132,15 +132,15 @@ available. -->
 <!ENTITY certificateTab.label            "Πιστοποιητικά">
 <!ENTITY certPersonal2.description       "Όταν ένας διακομιστής απαιτεί το προσωπικό σας πιστοποιητικό">
 <!ENTITY selectCerts.auto                "Αυτόματη επιλογή">
-<!ENTITY selectCerts.auto.accesskey      "Δ">
+<!ENTITY selectCerts.auto.accesskey      "Α">
 <!ENTITY selectCerts.ask                 "Ερώτηση κάθε φορά">
-<!ENTITY selectCerts.ask.accesskey       "Π">
+<!ENTITY selectCerts.ask.accesskey       "Ε">
 <!ENTITY enableOCSP.label                "Ερώτηση στους διακομιστές για OCSP ανταπόκριση ώστε να επιβεβαιωθεί η τρέχουσα εγκυρότητα των πιστοποιητικών">
-<!ENTITY enableOCSP.accesskey            "Ε">
+<!ENTITY enableOCSP.accesskey            "Ρ">
 <!ENTITY viewCerts.label                 "Προβολή πιστοποιητικών">
-<!ENTITY viewCerts.accesskey             "ο">
+<!ENTITY viewCerts.accesskey             "Π">
 <!ENTITY viewSecurityDevices.label       "Συσκευές ασφαλείας">
-<!ENTITY viewSecurityDevices.accesskey   "σ">
+<!ENTITY viewSecurityDevices.accesskey   "Σ">
 
 <!ENTITY performance.label               "Επιδόσεις">
 <!ENTITY useRecommendedPerformanceSettings2.label

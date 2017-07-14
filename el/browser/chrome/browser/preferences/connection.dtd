@@ -33,12 +33,12 @@
 <!ENTITY  socks5.label                  "SOCKS v5">
 <!ENTITY  socks5.accesskey              "v">
 <!ENTITY  socksRemoteDNS.label2         "Διαμεσολαβητής DNS κατά τη χρήση του SOCKS v5">
-<!ENTITY  socksRemoteDNS.accesskey      "π">
+<!ENTITY  socksRemoteDNS.accesskey      "d">
 <!ENTITY  port.label                    "Θύρα:">
-<!ENTITY  HTTPport.accesskey            "ρ">
-<!ENTITY  SSLport.accesskey             "ρ">
+<!ENTITY  HTTPport.accesskey            "Θ">
+<!ENTITY  SSLport.accesskey             "υ">
 <!ENTITY  FTPport.accesskey             "ρ">
-<!ENTITY  SOCKSport.accesskey           "ρ">
+<!ENTITY  SOCKSport.accesskey           "α">
 <!ENTITY  noproxy.label                 "Χωρίς διαμεσολαβητή για:">
 <!ENTITY  noproxy.accesskey             "Χ">
 <!ENTITY  noproxyExplain.label          "Για παράδειγμα: .mozilla.org, .net.nz, 192.168.1.0/24">
