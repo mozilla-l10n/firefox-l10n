@@ -46,4 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Antall cache won">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Antall net won">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Totalt antall nettverksforespørsler">
+<!ENTITY aboutNetworking.rcwnOperation         "Cache-operasjon">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Åpne">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Les">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Skriv">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Åpen oppføring">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Kort gjennomsnitt">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Langt gjennomsnitt">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Langt standardavvik">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Antall langsom cache">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Antall ikke-langsom cache">
