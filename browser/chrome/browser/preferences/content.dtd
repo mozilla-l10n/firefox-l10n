@@ -13,7 +13,7 @@
 <!ENTITY  notificationsPolicyButton.label      "Επιλογή…">
 <!ENTITY  notificationsDoNotDisturb.label      "Μην ενοχλείτε">
 <!ENTITY  notificationsDoNotDisturb.accesskey  "ν">
-<!ENTITY  notificationsDoNotDisturbDetails.value "Δεν θα εμφανίζονται ειδοποιήσεις μέχρι να επανεκκινήσετε τον &brandShortName;">
+<!ENTITY  notificationsDoNotDisturbDetails.value "Δεν θα εμφανίζονται ειδοποιήσεις μέχρι να επανεκκινήσετε το &brandShortName;">
 
 <!ENTITY  popupExceptions.label       "Εξαιρέσεις...">
 <!ENTITY  popupExceptions.accesskey   "ξ">
