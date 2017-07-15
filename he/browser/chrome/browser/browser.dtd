@@ -857,12 +857,21 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "ק">
 <!ENTITY customizeMode.emptyOverflowList.description "יש לגרור ולשחרר לכאן פריטים כדי להשאיר אותם בהישג יד אך לא בסרגל הכלים…">
 <!ENTITY customizeMode.uidensity "צפיפות">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
+     “Normal” is displayed in the Customize screen, under the Density menu. -->
 <!ENTITY customizeMode.uidensity.menuNormal.label "רגילה">
 <!ENTITY customizeMode.uidensity.menuNormal.tooltip "רגילה">
 <!ENTITY customizeMode.uidensity.menuNormal.accessKey "ר">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
+     “Compact” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Compact). -->
 <!ENTITY customizeMode.uidensity.menuCompact.label "צפופה">
 <!ENTITY customizeMode.uidensity.menuCompact.tooltip "צפופה">
 <!ENTITY customizeMode.uidensity.menuCompact.accessKey "צ">
+<!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
+     “Touch” is displayed in the Customize screen, under the Density menu.
+     It’s an adjective (Density -> Touch), and it means that control layout is
+     optimized for touch devices. -->
 <!ENTITY customizeMode.uidensity.menuTouch.label "מגע">
 <!ENTITY customizeMode.uidensity.menuTouch.tooltip "מגע">
 <!ENTITY customizeMode.uidensity.menuTouch.accessKey "ג">
@@ -977,7 +986,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "פעולות דף">
 
-<!ENTITY sendToDevice.label "שליחה להתקן…">
+<!ENTITY sendToDevice.label2 "שליחה להתקן">
 <!ENTITY sendToDevice.viewTitle "שליחה להתקן">
 <!ENTITY sendToDevice.fxaRequired.label "נדרש">
 <!ENTITY sendToDevice.noDevices.label "אין התקנים זמינים">
