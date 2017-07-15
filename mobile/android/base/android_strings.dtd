@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "URL скопирован">
 
+<!ENTITY pref_pwa "Прогрессивные веб-приложения">
+<!ENTITY pref_pwa_summary "Разрешить веб-приложениям добавляться на домашний экран">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Лента активности">
 <!ENTITY pref_activity_stream_summary "Наглядная история действий и переосмысленная домашняя страница делают поиск в &brandShortName; именно того, что вы ищете, проще, чем когда-либо прежде.">
