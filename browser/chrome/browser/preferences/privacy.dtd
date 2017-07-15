@@ -2,7 +2,9 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-
+<!ENTITY  trackingProtectionHeader2.label      "Ukhuseleko Lokutreka">
+<!ENTITY  trackingProtection2.description      "Ukutreka yingqokelela yedatha yokubhrawza kwiiwebhu ezininzi. Ukutreka kunokusetyenziselwa ukwakha iprofayile nokubonisa isiqulatho ngokusekelwe kwinkcazelo yokubhrawza neyobuqu.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Sebenzisa uKhuseleko lokuTreka ukuze ubhloke abatreki abaziwayo">
 <!ENTITY  trackingProtectionAlways.label       "Qho">
 <!ENTITY  trackingProtectionAlways.accesskey   "o">
 <!ENTITY  trackingProtectionPrivate.label      "Kuphela kwiiwindow zabucala">
@@ -17,20 +19,23 @@
 <!ENTITY trackingProtectionPBM5.label         "Sebenzisa Ukhuseleko Lokutreka Kwiifestile Zabucala">
 <!ENTITY trackingProtectionPBM5.accesskey     "c">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
-
+<!ENTITY trackingProtectionPBM6.label         "Sebenzisa uKhuseleko lokuTreka ukuBhrawza kwaBucala ukuze ubhloke abatreki abaziwayo">
+<!ENTITY trackingProtectionPBM6.accesskey     "v">
 <!ENTITY trackingProtectionPBMLearnMore.label "Funda okungakumbi">
 <!ENTITY changeBlockList.label          "Tshintsha Uludwe Lokubloka">
 <!ENTITY changeBlockList.accesskey      "T">
 
-
-
-
+<!ENTITY  doNotTrack.description        "Thumelela iiwebhsayithi umqondiso othi &quot;Musa ukuTreka&quot; obonisa ukuba akufuni kutrekwa">
+<!ENTITY  doNotTrack.learnMore.label    "Funda ngakumbi">
+<!ENTITY  doNotTrack.default.label      "Kuphela xa usebenzisa uKhuseleko lokuTreka">
+<!ENTITY  doNotTrack.always.label       "Qho">
 
 <!ENTITY  history.label                 "Imbali">
-
+<!ENTITY  permissions.label             "Iimvume">
 
 <!ENTITY  locationBar.label             "Ibha yendawo">
 
+<!ENTITY  locbar.suggest2.label         "Cebisa xa usebenzisa ibha yendawo">
 <!ENTITY  locbar.history.label          "Imbali">
 <!ENTITY  locbar.history.accesskey      "I">
 <!ENTITY  locbar.bookmarks.label        "Iibhukhmakhi">
@@ -40,13 +45,14 @@
 <!ENTITY  locbar.searches.label         "Ukukhangela okufana noku ukusuka kwinjini yokukhangela esisiseko">
 <!ENTITY  locbar.searches.accesskey     "a">
 
+<!ENTITY  suggestionSettings2.label     "Tshintsha iipreferensi zamacebiso enjini yokukhangela">
 
 <!ENTITY  acceptCookies.label           "Yamkela iikhukhi kwiisayithi">
 <!ENTITY  acceptCookies.accesskey       "Y">
 
 <!ENTITY  acceptThirdParty.pre.label      "Yamkela iikhukhi zomnye umntu:">
 <!ENTITY  acceptThirdParty.pre.accesskey  "m">
-
+<!ENTITY  acceptThirdParty.always.label   "Qho">
 <!ENTITY  acceptThirdParty.never.label    "Ungaze">
 <!ENTITY  acceptThirdParty.visited.label  "Isuka kwetyelelweyo">
 
@@ -62,7 +68,8 @@
 <!ENTITY  showCookies.label             "Bonisa iiKhukhi…">
 <!ENTITY  showCookies.accesskey         "B">
 
-
+<!ENTITY  historyHeader2.pre.label         "I-&brandShortName; iya">
+<!ENTITY  historyHeader2.pre.accesskey     "i">
 <!ENTITY  historyHeader.remember.label     "Khumbula imbali">
 <!ENTITY  historyHeader.dontremember.label "Ungaze ukhumbule imbali">
 <!ENTITY  historyHeader.custom.label       "Sebenzisa iisethingi zesiqhelo kwimbali">
