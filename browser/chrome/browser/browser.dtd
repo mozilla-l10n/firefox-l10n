@@ -248,7 +248,7 @@ These should match what Safari and other Apple applications use on OS X Lion. --
 <!ENTITY bookmarksMenuButton.mobile.label "Mobilusis adresynas">
 <!ENTITY viewBookmarksSidebar2.label        "Rodyti adresyną parankinėje">
 <!ENTITY viewBookmarksToolbar.label         "Rodyti adresyno juostą">
-
+<!ENTITY searchBookmarks.label              "Ieškoti adresyne">
 
 <!ENTITY containersMenu.label "Sudėtinės kortelės">
 <!-- LOCALIZATION NOTE (bookmarksSidebarGtkCmd.commandkey): This command
@@ -624,8 +624,8 @@ items are mutually exclusive. -->
 <!ENTITY mediaPlaybackRate2.accesskey "e">
 <!ENTITY mediaPlaybackRate050x2.label "Lėtas (0.5×)">
 <!ENTITY mediaPlaybackRate050x2.accesskey "L">
-
-
+<!ENTITY mediaPlaybackRate100x2.label "Normalus">
+<!ENTITY mediaPlaybackRate100x2.accesskey "N">
 <!ENTITY mediaPlaybackRate125x2.label "Greitas (1.25×)">
 <!ENTITY mediaPlaybackRate125x2.accesskey "G">
 <!ENTITY mediaPlaybackRate150x2.label "Greitesnis (1.5×)">
@@ -856,24 +856,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Gauti daugiau temų">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Nutempkite elementus čia, kad jie būtų pasiekiami, tačiau neužimtų vietos įrankinėje…">
+<!ENTITY customizeMode.uidensity "Tankis">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Normalus">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "&amp;Normalus">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "N">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Kompaktiškas">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Kompaktiškas">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "K">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Lietimui">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Lietimui">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "L">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Naudoti „lietimui“ planšetės veiksenoje">
 
 <!ENTITY getUserMedia.selectCamera.label "Kamera, kurią leisite pasiekti:">
 <!ENTITY getUserMedia.selectCamera.accesskey "K">
@@ -984,7 +987,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Tinklalapio veiksmai">
 
-
+<!ENTITY sendToDevice.label2 "Siųsti į įrenginį">
+<!ENTITY sendToDevice.viewTitle "Siųsti į įrenginį">
 <!ENTITY sendToDevice.fxaRequired.label "Privaloma">
 <!ENTITY sendToDevice.noDevices.label "Įrenginių nėra">
 <!ENTITY sendToDevice.syncNotReady.label "Sinchronizuojami įrenginiai…">
