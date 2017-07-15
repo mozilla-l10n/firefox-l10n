@@ -22,8 +22,8 @@
 <!ENTITY dnsNotFound.longDesc "<ul> 
 <li>בדוק כי הכתובת הוקלדה ללא שגיאות כגון 
 <strong>ww</strong>.example.com במקום <strong>www</strong>.example.com</li> 
-<li>אם אינך יכול לטעון כל דף, בדוק את החיבור לרשת של המחשב.</li> 
-<li>אם המחשב או הרשת מוגנים בחומת אש או בשרת מתווך, ודא כי &brandShortName; מורשה לגשת לרשת.</li> 
+<li>אם אין באפשרותך לטעון כל דף, עליך לבדוק את החיבור לרשת של המחשב.</li> 
+<li>אם המחשב או הרשת מוגנים בחומת אש או בשרת מתווך, יש לוודא כי &brandShortName; מורשה לגשת לרשת.</li> 
 </ul>">
 
 <!ENTITY fileNotFound.title "קובץ לא נמצא">
