@@ -38,6 +38,7 @@
 
 <!ENTITY newContactAbContext.label          "Nový kontakt">
 <!ENTITY newContactAbContext.accesskey      "K">
+<!ENTITY newListAbContext.label             "Nová skupina">
 <!ENTITY newListAbContext.accesskey         "S">
 
 <!ENTITY toButton.label                     "Komu">
