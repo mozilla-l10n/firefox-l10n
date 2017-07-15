@@ -22,4 +22,5 @@
 <!ENTITY windowClose.key      "w">
 
 <!ENTITY button.ok.label      "પૂર્ણ થયું">
+<!ENTITY button.ok.accesskey  "D">
 
