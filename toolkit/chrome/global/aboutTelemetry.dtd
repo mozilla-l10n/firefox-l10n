@@ -4,82 +4,87 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Данные телеметрии">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Изменить ">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Выгрузка данных FHR <span>включена</span>. ">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Выгрузка данных FHR <span>отключена</span>. ">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Запись расширенной телеметрии <span>включена</span>. ">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Запись расширенной телеметрии <span>отключена</span>. ">
-
 <!ENTITY aboutTelemetry.pingDataSource "
-Источник данных пинга:">
+Источник данных пинга:
+">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "
-Данные текущего пинга ">
+Данные текущего пинга
+">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
-Данные архивированного пинга ">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Отображение данных пинга: ">
-
-<!ENTITY aboutTelemetry.structured "
-Структурированное ">
+Данные архивированного пинга
+">
 
 <!ENTITY aboutTelemetry.raw "
-Необработанный JSON ">
+Необработанный JSON
+">
 
 <!ENTITY aboutTelemetry.showSubsessionData "
-Отображать данные подсессии ">
+Отображать данные подсессии
+">
 
 <!ENTITY aboutTelemetry.choosePing "
-Выберите пинг: ">
+Выберите пинг:
+">
 
 <!ENTITY aboutTelemetry.showNewerPing "
-&lt;&lt; Более новый пинг ">
+&lt;&lt; Более новый пинг
+">
 
 <!ENTITY aboutTelemetry.showOlderPing "
-Более старый пинг &gt;&gt; ">
-
-<!ENTITY aboutTelemetry.rawPingData "
-Необработанные данные пинга…">
+Более старый пинг &gt;&gt;
+">
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Неделя
+">
+
+<!ENTITY aboutTelemetry.archivePingType "
+Тип пинга
 ">
 
 <!ENTITY aboutTelemetry.archivePingHeader "
 Пинг
 ">
 
+<!ENTITY aboutTelemetry.optionGroupToday "
+Сегодня
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Вчера
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Ранее
+">
+
 <!ENTITY aboutTelemetry.generalDataSection "
-   Общие данные">
+  Общие данные
+">
 
 <!ENTITY aboutTelemetry.environmentDataSection "
-   Данные окружения ">
+  Данные окружения
+">
 
 <!ENTITY aboutTelemetry.telemetryLogSection "
-   Лог телеметрии ">
+  Лог телеметрии
+">
 
 <!ENTITY aboutTelemetry.slowSqlSection "
-   Медленные SQL-инструкции ">
+  Медленные SQL-инструкции
+">
 
 <!ENTITY aboutTelemetry.chromeHangsSection "
-   Зависания браузера ">
+  Зависания браузера
+">
 
 <!ENTITY aboutTelemetry.threadHangStatsSection "
-   Зависания потоков ">
+  Зависания потоков
+">
 
 <!ENTITY aboutTelemetry.capturedStacksSection "
-
   Захваченные Стеки
 ">
 
@@ -88,46 +93,44 @@
 ">
 
 <!ENTITY aboutTelemetry.keyedScalarsSection "
-  Скаляры ключей">
+  Скаляры ключей
+">
 
 <!ENTITY aboutTelemetry.histogramsSection "
-   Гистограммы ">
+  Гистограммы
+">
 
 <!ENTITY aboutTelemetry.keyedHistogramsSection "
-  Гистограммы ключей">
+  Гистограммы ключей
+">
 
 <!ENTITY aboutTelemetry.eventsSection "
   События
 ">
 
 <!ENTITY aboutTelemetry.simpleMeasurementsSection "
-   Простые измерения ">
+  Простые измерения
+">
 
 <!ENTITY aboutTelemetry.addonDetailsSection "
-   Сведения о дополнении ">
+  Сведения о дополнении
+">
 
 <!ENTITY aboutTelemetry.lateWritesSection "
-  Поздние записи">
+  Поздние записи
+">
 
 <!ENTITY aboutTelemetry.sessionInfoSection "
   Информация о сессии
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-   Гистограммы, собранные дополнениями ">
-
-<!ENTITY aboutTelemetry.toggle "
-  Щёлкните, чтобы развернуть/свернуть раздел
+<!ENTITY aboutTelemetry.fullSqlWarning "
+  ПРИМЕЧАНИЕ: Включён медленный режим отладки SQL. Внизу могут быть показаны полные строки SQL, но в телеметрию они отправлены не будут.
 ">
 
-<!ENTITY aboutTelemetry.emptySection "
-   (данные не собраны) ">
-
-<!ENTITY aboutTelemetry.fullSqlWarning "
-      ПРИМЕЧАНИЕ: Включён медленный режим отладки SQL. Внизу могут быть показаны полные строки SQL, но в телеметрию они отправлены не будут. ">
-
 <!ENTITY aboutTelemetry.fetchStackSymbols "
-  Загрузить имена функций для стеков">
+  Загрузить имена функций для стеков
+">
 
 <!ENTITY aboutTelemetry.hideStackSymbols "
   Показать сырые данные стека
@@ -139,8 +142,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Нагрузка
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Необработанная нагрузка
 ">
