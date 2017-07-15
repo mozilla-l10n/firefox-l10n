@@ -856,24 +856,27 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY customizeMode.lwthemes.menuManage.accessKey "M">
 <!ENTITY customizeMode.lwthemes.menuGetMore "Fumana Neminye Imixholo">
 <!ENTITY customizeMode.lwthemes.menuGetMore.accessKey "G">
-
-
+<!ENTITY customizeMode.emptyOverflowList.description "Tsala uzokufaka ii-aythem apha ukuze uzigcine zifumaneka kodwa zingabi kwithulbha yakho…">
+<!ENTITY customizeMode.uidensity "Uxinano">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuNormal.*):
      “Normal” is displayed in the Customize screen, under the Density menu. -->
-
-
+<!ENTITY customizeMode.uidensity.menuNormal.label "Okuqhelekileyo">
+<!ENTITY customizeMode.uidensity.menuNormal.tooltip "Okuqhelekileyo">
+<!ENTITY customizeMode.uidensity.menuNormal.accessKey "O">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuCompact.*):
      “Compact” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Compact). -->
-
-
+<!ENTITY customizeMode.uidensity.menuCompact.label "Ikhompakti">
+<!ENTITY customizeMode.uidensity.menuCompact.tooltip "Ikhompakti">
+<!ENTITY customizeMode.uidensity.menuCompact.accessKey "I">
 <!-- LOCALIZATION NOTE (customizeMode.uidensity.menuTouch.*):
      “Touch” is displayed in the Customize screen, under the Density menu.
      It’s an adjective (Density -> Touch), and it means that control layout is
      optimized for touch devices. -->
-
-
-
+<!ENTITY customizeMode.uidensity.menuTouch.label "Chukumisa">
+<!ENTITY customizeMode.uidensity.menuTouch.tooltip "Chukumisa">
+<!ENTITY customizeMode.uidensity.menuTouch.accessKey "C">
+<!ENTITY customizeMode.uidensity.autoTouchMode.checkbox.label "Sebenzisa uChukumisa kwiMowudi yeTablethi">
 
 <!ENTITY getUserMedia.selectCamera.label "Ikhamera yokubolekisana:">
 <!ENTITY getUserMedia.selectCamera.accesskey "I">
@@ -968,21 +971,24 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateManual.message "Khuphela ikopi entsha ye-&brandShorterName; yaye siza kukunceda uyifakele.">
 <!ENTITY updateManual.whatsnew.label "Bona into entsha.">
 <!ENTITY updateManual.header.message "I-&brandShorterName; ayikwazi kuhlaziya ukuya kuhlobo lwamvanje.">
+<!ENTITY updateManual.acceptButton.label "Khuphela i-&brandShorterName;">
+<!ENTITY updateManual.acceptButton.accesskey "K">
+<!ENTITY updateManual.cancelButton.label "Hayi Ngoku">
+<!ENTITY updateManual.cancelButton.accesskey "H">
+<!ENTITY updateManual.panelUI.label "Khuphela ikopi entsha ye-&brandShorterName;">
 
+<!ENTITY updateRestart.message "Emva kokukhawuleza uqale kwakhona, i&brandShorterName; iya kubuyisela zonke iithebhu neewindow zakho ezivulekileyo.">
+<!ENTITY updateRestart.header.message2 "Phinda uqale ukuze uhlaziye i-&brandShorterName;.">
+<!ENTITY updateRestart.acceptButton.label "Phinda uqalise uze uHlaziye">
+<!ENTITY updateRestart.acceptButton.accesskey "P">
+<!ENTITY updateRestart.cancelButton.label "Hayi Ngoku">
+<!ENTITY updateRestart.cancelButton.accesskey "H">
+<!ENTITY updateRestart.panelUI.label2 "Phinda uqale ukuze uhlaziye i-&brandShorterName;">
 
+<!ENTITY pageActionButton.tooltip "Okwenzeka kumakhasi">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!ENTITY sendToDevice.label2 "Thumela kwiSixhobo">
+<!ENTITY sendToDevice.viewTitle "Thumela kwiSixhobo">
+<!ENTITY sendToDevice.fxaRequired.label "Iyafuneka">
+<!ENTITY sendToDevice.noDevices.label "Akukho Zixhobo Zikhoyo">
+<!ENTITY sendToDevice.syncNotReady.label "Iingqamanisa iziXhobo…">
