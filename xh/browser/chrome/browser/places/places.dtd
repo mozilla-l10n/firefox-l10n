@@ -85,6 +85,7 @@
 <!ENTITY col.dateadded.label     "Okongeziweyo">
 <!ENTITY col.lastmodified.label  "Ihlengahlengiswe Okokugqibela">
 
+<!ENTITY search.placeholder  "Khangela">
 
 <!ENTITY cmd.find.key  "f">
 

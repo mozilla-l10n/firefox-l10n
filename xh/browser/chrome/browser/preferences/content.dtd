@@ -20,9 +20,10 @@
 
 <!ENTITY  fontsAndColors.label        "Iifonti neMibala">
 
-
-
-
+<!ENTITY  defaultFont2.label          "Ifonti esisiseko">
+<!ENTITY  defaultFont2.accesskey      "I">
+<!ENTITY  defaultSize2.label          "Isayizi">
+<!ENTITY  defaultSize2.accesskey      "I">
 
 <!ENTITY  advancedFonts.label         "Kwangaphambili…">
 <!ENTITY  advancedFonts.accesskey     "K">

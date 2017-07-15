@@ -118,7 +118,7 @@
 <!ENTITY cmd.showReleaseNotes.tooltip         "Bonisa amanqaku okukhulula olu hlaziyo">
 <!ENTITY cmd.hideReleaseNotes.label           "Fihla amanqaku okukhulula">
 <!ENTITY cmd.hideReleaseNotes.tooltip         "Fihla amanqaku okukhulula olu hlaziyo">
-
+<!ENTITY cmd.findReplacement.label            "Fumana eza kuThath' Indawo">
 <!-- discovery view -->
 <!-- LOCALIZATION NOTE (discover.title,discover.description,discover.footer):
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
@@ -189,6 +189,7 @@
 <!-- LOCALIZATION NOTE (addon.legacy.label): This appears in a badge next
      to the add-on name for extensions that are not webextensions, which
      will stop working in Firefox 57. -->
+<!ENTITY addon.legacy.label                   "ISIKHOKELO">
 <!-- LOCALIZATION NOTE (addon.disabled.postfix): This is used in a normal list
      to signify that an add-on is disabled, in the form
      "<Addon name> <1.0> (disabled)" -->
@@ -254,7 +255,8 @@
 <!ENTITY pluginDeprecation.description "Ngaba kukho into engekhoyo? Ezinye iiplagini azisaxhaswa yi-&brandShortName;">
 <!ENTITY pluginDeprecation.learnMore "Funda Okungakumbi">
 
-
-
-
-
+<!ENTITY legacyWarning.description "Ngaba kukho into engekhoyo? Ezinye izongezelelo azisaxhaswa yi-&brandShortName;.">
+<!ENTITY legacyWarning.showLegacy "Bonisa izongezelelo ezizizikhokelo">
+<!ENTITY legacyExtensions.title "IZongezelelo zeziKhokelo">
+<!ENTITY legacyExtensions.description "Ezi zongezelelo azidibani nemilinganiselo ye&brandShortName; ekhoyo ngoko iye yayekiswa.">
+<!ENTITY legacyExtensions.learnMore "Funda ngotshintsho kwizongezelelo">
