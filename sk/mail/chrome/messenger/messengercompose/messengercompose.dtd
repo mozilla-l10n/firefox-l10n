@@ -40,7 +40,7 @@
 <!ENTITY saveAsCmd.accesskey "k">
 <!ENTITY saveAsFileCmd.label "Súbor…">
 <!ENTITY saveAsFileCmd.accesskey "S">
-<!ENTITY saveAsDraftCmd.label "Návrh">
+<!ENTITY saveAsDraftCmd.label "Koncept">
 <!ENTITY saveAsDraftCmd.accesskey "N">
 <!ENTITY saveAsTemplateCmd.label "Šablónu">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
