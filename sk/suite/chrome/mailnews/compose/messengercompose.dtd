@@ -21,7 +21,7 @@
 <!ENTITY saveAsCmd.accesskey "k">
 <!ENTITY saveAsFileCmd.label "Súbor…">
 <!ENTITY saveAsFileCmd.accesskey "S">
-<!ENTITY saveAsDraftCmd.label "Návrh">
+<!ENTITY saveAsDraftCmd.label "Koncept">
 <!ENTITY saveAsDraftCmd.accesskey "N">
 <!ENTITY saveAsTemplateCmd.label "Šablónu">
 <!ENTITY saveAsTemplateCmd.accesskey "b">
@@ -54,11 +54,11 @@
 <!ENTITY showFormatToolbarCmd.label "Panel Formátovanie">
 <!ENTITY showFormatToolbarCmd.accesskey "F">
 
-<!-- Format Menu -->
+<!-- Format menu items -->
 <!ENTITY formatMenu.label "Formát">
 <!ENTITY formatMenu.accesskey "F">
 
-<!-- Options Menu -->
+<!-- Options menu items -->
 <!ENTITY optionsMenu.label "Možnosti">
 <!ENTITY optionsMenu.accesskey "M">
 
@@ -87,7 +87,7 @@
 <!ENTITY dsnMenu.accesskey "N">
 
 <!ENTITY outputFormatMenu.label "Formát">
-<!ENTITY outputFormatMenu.accesskey "F">
+<!ENTITY outputFormatMenu.accesskey  "F">
 <!ENTITY autoFormatCmd.label "Automaticky">
 <!ENTITY autoFormatCmd.accesskey "A">
 <!ENTITY plainTextFormatCmd.label "Len text">
@@ -114,12 +114,12 @@
 <!-- We already inherit &menuBar.tooltip and &mailToolbar.tooltip from messenger.dtd -->
 <!ENTITY addressBar.tooltip "Panel s adresou">
 <!ENTITY formatToolbar.tooltip "Panel Formátovanie">
-<!ENTITY sendButton.tooltip "Odoslať správu">
-<!ENTITY sendlaterButton.tooltip "Odoslať túto správu neskôr">
-<!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára">
-<!ENTITY attachButton.tooltip "Priložiť súbor">
-<!ENTITY saveButton.tooltip "Uložiť túto správu">
-<!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos">
+<!ENTITY sendButton.tooltip "Odoslať správu"> 
+<!ENTITY sendlaterButton.tooltip "Odoslať túto správu neskôr"> 
+<!ENTITY addressButton.tooltip "Vybrať adresáta z Adresára"> 
+<!ENTITY attachButton.tooltip "Priložiť súbor"> 
+<!ENTITY saveButton.tooltip "Uložiť túto správu"> 
+<!ENTITY stopButton.tooltip "Zastaviť aktuálny prenos"> 
 
 <!-- context menu items -->
 <!ENTITY openAttachment.label "Otvoriť">
