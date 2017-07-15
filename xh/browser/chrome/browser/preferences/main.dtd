@@ -40,7 +40,7 @@
 
 <!ENTITY separateProfileMode.label        "Vumela i-&brandShortName; kunye ne-Firefox ukuba zisebenze ngaxeshanye">
 <!ENTITY useFirefoxSync.label             "Ingcebiso: Le isebenzisa iiprofayile eyahlukeneyo. Sebenzisa ungqamaniso ukwabelana ngenkcukacha phakathi kwazo.">
-
-
+<!ENTITY getStarted.notloggedin.label     "Sayina ungene kwi-&syncBrand.shortName.label;…">
+<!ENTITY getStarted.configured.label      "Vula iipriferensi ze-&syncBrand.shortName.label;">
 
 <!ENTITY e10sEnabled.label                "Vumela inkqubo eninzi i-&brandShortName;">
