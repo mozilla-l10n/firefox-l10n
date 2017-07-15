@@ -4,7 +4,7 @@
 <!-- These strings are used in the about:newtab page -->
 
 <!ENTITY newtab.pageTitle "Ithebhu entsha">
-
+<!ENTITY newtab.customize.classic "Bonisa iisayithi zakho eziphezulu">
 <!ENTITY newtab.customize.cog.enhanced "Quka iisayithi ezicetyisiweyo">
 <!ENTITY newtab.customize.cog.title2 "IZILAWULI ZETHEBHU ENTSHA">
 <!ENTITY newtab.customize.cog.learn "Funda malunga netab entsha">
