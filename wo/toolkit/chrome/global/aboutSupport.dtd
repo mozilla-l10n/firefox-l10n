@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Xibaari depaane">
+<!ENTITY aboutSupport.pageTitle "Xibaari seet jafe-jafe">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "  Xët wii dafa ëmb ay xibaar yu xarala tu am solo 
@@ -16,6 +16,7 @@ This is likely the same like id.heading in crashes.dtd. -->
 <!ENTITY aboutSupport.extensionName "Tur">
 <!ENTITY aboutSupport.extensionEnabled "Suqaliku">
 <!ENTITY aboutSupport.extensionVersion "Sumb">
+
 
 <!ENTITY aboutSupport.experimentHomepage "Xëtu dalal">
 
@@ -38,6 +39,7 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+
 
 
 
