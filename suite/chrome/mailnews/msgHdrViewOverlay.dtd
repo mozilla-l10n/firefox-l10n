@@ -14,6 +14,7 @@
 <!ENTITY bccField.label "Skrytá kópia: ">
 <!ENTITY newsgroupsField.label "Skupiny: ">
 <!ENTITY followupToField.label "Pokračovať na: ">
+
 <!ENTITY tagsHdr.label "Popis: ">
 <!ENTITY dateField.label "Dátum: ">
 <!ENTITY userAgentField.label "Program: ">
@@ -22,7 +23,7 @@
 <!ENTITY inReplyToField.label "In-Reply-To: ">
 <!ENTITY originalWebsite.label "Webový server:">
 
-<!ENTITY editMessage.label                 "Upraviť návrh…">
+<!ENTITY editMessage.label                 "Upraviť konceptu…">
 <!ENTITY editMessage.accesskey             "v">
 
 <!ENTITY attachmentsTree.label             "Prílohy:">
