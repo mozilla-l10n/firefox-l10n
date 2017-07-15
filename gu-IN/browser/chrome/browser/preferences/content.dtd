@@ -2,17 +2,28 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY  popups.label                "પોપ-અપ">
 
 <!ENTITY  blockPopups.label           "પોપ-અપ વિન્ડો અટકાવો">
 <!ENTITY  blockPopups.accesskey       "B">
 
+<!ENTITY  notificationsPolicy.label            "સૂચનાઓ">
+<!ENTITY  notificationsPolicyLearnMore.label   "વધુ શીખો">
+<!ENTITY  notificationsPolicyDesc3.label       "કઈ સાઇટ્સને તમને સૂચનાઓ મોકલવાની મંજૂરી છે તે પસંદ કરો">
+<!ENTITY  notificationsPolicyButton.accesskey  "h">
+<!ENTITY  notificationsPolicyButton.label      "પસંદ કરો…">
+<!ENTITY  notificationsDoNotDisturb.label      "મને હેરાન કરશો નહી">
+<!ENTITY  notificationsDoNotDisturb.accesskey  "n">
+<!ENTITY  notificationsDoNotDisturbDetails.value "કોઈ સૂચના બતાવવામાં આવશે નહી જ્યાં સુધી તમે &brandShortName; પુન: શરૂ ન કરો">
 
 <!ENTITY  popupExceptions.label       "અપવાદો...">
 <!ENTITY  popupExceptions.accesskey   "E">
 
 <!ENTITY  fontsAndColors.label        "ફોન્ટ &amp; રંગો">
 
+<!ENTITY  defaultFont2.label          "મૂળભૂત ફોન્ટ">
+<!ENTITY  defaultFont2.accesskey      "D">
+<!ENTITY  defaultSize2.label          "માપ">
+<!ENTITY  defaultSize2.accesskey      "S">
 
 <!ENTITY  advancedFonts.label         "અદ્યતન...">
 <!ENTITY  advancedFonts.accesskey     "A">
@@ -41,4 +52,8 @@
 <!ENTITY translation.options.attribution.beforeLogo "નાં વડે અનુવાદ">
 <!ENTITY translation.options.attribution.afterLogo "">
 
+<!ENTITY  drmContent.label             "DRM સામગ્રી">
 
+<!ENTITY  playDRMContent.label         "DRM સામગ્રી ચાલુ કરો">
+<!ENTITY  playDRMContent.accesskey     "P">
+<!ENTITY  playDRMContent.learnMore.label "વધુ શીખો">
