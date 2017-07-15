@@ -46,3 +46,10 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Число выигрышей кэша">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Число выигрышей сети">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Общее число запросов сети">
+<!ENTITY aboutNetworking.rcwnOperation         "Работа кэша">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Открыто">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Прочитано">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Записано">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Открыто записей">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Счётчик медленного кэша">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Счётчик не медленного кэша">
