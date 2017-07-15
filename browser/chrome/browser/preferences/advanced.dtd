@@ -31,20 +31,22 @@
 disabled data sharing options in developer builds or builds with no Telemetry support
 available. -->
 
+<!ENTITY healthReportingDisabled.label   "Ukuxelwa kwedatha kuyekisiwe ngenxa yolu lwakheko">
+
 <!ENTITY healthReportDesc.label          "Kukunceda ukuqonde ukusebenza kwebhrawuza yakho kwaye wabelane ngengcombolo yakho ne-&vendorShortName; malungi nempilo yebhrawuza yakho">
 <!ENTITY enableHealthReport.label        "Yenza isebenze i-&brandShortName; iNgxelo yeMpilo">
 <!ENTITY enableHealthReport.accesskey    "y">
-
+<!ENTITY healthReportLearnMore.label     "Funda okungakumbi">
 
 <!ENTITY telemetryDesc.label             "Yabelana ngomsebenzi, usetyenziso, ihadiwe kunye nolungiselelo lwengcombolo emalunga nebhrawuza yakho ye-&vendorShortName; ukusinceda ekwenzeni i-&brandShortName; ibe ngcono">
 <!ENTITY enableTelemetryData.label       "Yabelana ngeNgcombolo eyoNgezelelweyo (oko kukuthi yi-Telemetry)">
 <!ENTITY enableTelemetryData.accesskey   "T">
-
+<!ENTITY telemetryLearnMore.label        "Funda okungakumbi">
 
 <!ENTITY crashReporterDesc2.label         "Uncedo lweengxelo zokukhresha &vendorShortName; lungisa iingxaki wenze ibhrawuza yakho izinze ngakumbi kwaye ikhuseleke">
 <!ENTITY alwaysSubmitCrashReports.label   "Vumela &brandShortName; lithumele iingxelo ezifumbileyo egameni lakho">
 <!ENTITY alwaysSubmitCrashReports.accesskey "f">
-
+<!ENTITY crashReporterLearnMore.label     "Funda okungakumbi">
 
 <!ENTITY networkTab.label                "Inethiwekhi">
 
@@ -64,7 +66,7 @@ available. -->
 <!ENTITY clearSiteData.accesskey         "i">
 <!ENTITY siteDataSettings.label          "Iietingi…">
 <!ENTITY siteDataSettings.accesskey      "e">
-
+<!ENTITY siteDataLearnMoreLink.label     "Funda okungakumbi">
 <!-- LOCALIZATION NOTE:
   The entities limitCacheSizeBefore.label and limitCacheSizeAfter.label appear on a single
   line in preferences as follows:
@@ -95,6 +97,7 @@ available. -->
 # after the version number, and is empty on purpose for English. You can use it
 # if required by your language.
  -->
+<!ENTITY updateApplication.version.pre   "Uhlobo ">
 <!ENTITY updateApplication.version.post  "">
 
 
