@@ -99,21 +99,24 @@ available. -->
  -->
 <!ENTITY updateApplication.version.pre   "Uhlobo ">
 <!ENTITY updateApplication.version.post  "">
+<!ENTITY updateApplication.description   "Vumela i-&brandShortName; ukuba">
+<!ENTITY updateAuto2.label               "Fakela uhlaziyo ngokuzenzekela (kucetyiswa njalo ukwenzela ukhuseleko oluphuculweyo)">
+<!ENTITY updateAuto2.accesskey           "F">
+<!ENTITY updateCheckChoose2.label        "Khangela uhlaziyo, kodwa ikuvumela ukuba ukhethe ukuba ungazifaka na">
+<!ENTITY updateCheckChoose2.accesskey    "K">
+<!ENTITY updateManual2.label             "Ungaze ukhangele uhlaziyo (akunconyelwa)">
+<!ENTITY updateManual2.accesskey         "U">
 
-
-
-
-
-
-
-
-
+<!ENTITY updateHistory2.label            "Bonisa iMbali yoHlaziyo…">
+<!ENTITY updateHistory2.accesskey        "l">
 
 <!ENTITY useService.label                "Sebenzisa inkonzo yokungasemva ukufakela uhlaziyo">
 <!ENTITY useService.accesskey            "y">
 
+<!ENTITY enableSearchUpdate2.label       "Ngokuzenzekelayo hlaziya iinjini zokukhangela">
+<!ENTITY enableSearchUpdate2.accesskey   "e">
 
-
+<!ENTITY reports.label                   "Iingxelo">
 
 <!ENTITY offlineStorageNotify.label               "Iyakuxelela xa iwebhusayithi icela ukugcina iingcombolo ezinokusetyenziswa xa ingekho kwinethiwekhi">
 <!ENTITY offlineStorageNotify.accesskey           "I">
@@ -127,7 +130,7 @@ available. -->
 <!ENTITY offlineAppRemove.confirm        "Shenxisa ingcombolo yangaphandle kweintanethi">
 
 <!ENTITY certificateTab.label            "Izatifikethi">
-
+<!ENTITY certPersonal2.description       "Xa iseva icela isatifikethi sakho">
 <!ENTITY selectCerts.auto                "Khetha esinye ngokuzenzekela">
 <!ENTITY selectCerts.auto.accesskey      "S">
 <!ENTITY selectCerts.ask                 "Iyakubuza ngawo onke amaxesha">
@@ -139,6 +142,7 @@ available. -->
 <!ENTITY viewSecurityDevices.label       "Izixhobo zokhuseleko">
 <!ENTITY viewSecurityDevices.accesskey   "z">
 
+<!ENTITY performance.label               "Ukusebenza">
 
 
 
