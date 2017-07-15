@@ -25,6 +25,7 @@
 <!ENTITY changeBlockList.label          "שינוי רשימת חסימות">
 <!ENTITY changeBlockList.accesskey      "ש">
 
+<!ENTITY  doNotTrack.description        "שליחת חיווי ”נא לא לעקוב” לאתרים שאין ברצונך שיעקבו אחריך">
 <!ENTITY  doNotTrack.learnMore.label    "מידע נוסף">
 <!ENTITY  doNotTrack.default.label      "רק בעת שימוש בהגנת מעקב">
 <!ENTITY  doNotTrack.always.label       "תמיד">
