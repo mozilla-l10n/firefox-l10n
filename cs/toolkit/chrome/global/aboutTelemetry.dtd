@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Telemetrická data">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Změnit
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Nahrávání dat FHR je <span>povoleno</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Nahrávání dat FHR je <span>zakázáno</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Rozšířené nahrávání telemetrie je <span>povoleno</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Rozšířené nahrávání telemetrie je <span>zakázáno</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Zdroj dat pro ping:
 ">
@@ -34,14 +14,6 @@ Současná data pro ping
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Archivovaná data pro ping
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Zobrazení ping dat:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Strukturováno
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@ Vybrat ping:
 Starší ping &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Surová ping data ...
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Týden
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Typ pingu
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Dnes
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Včera
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Starší
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -128,14 +112,6 @@ Ping
   Informace o relaci
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "Histogramy sebrané doplňky">
-
-<!ENTITY aboutTelemetry.toggle "
-  Klepněte pro přepnutí sekce
-">
-
-<!ENTITY aboutTelemetry.emptySection "(Žádná sebraná data)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "Poznámka: Ladění pomalých dotazů SQL je zapnuto. Ve výpisu se mohou objevit úplné dotazy SQL, které ale nejsou odesílány.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "Získat názvy funkcí ze zásobníků">
@@ -148,8 +124,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Obsah
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Raw obsah
 ">
