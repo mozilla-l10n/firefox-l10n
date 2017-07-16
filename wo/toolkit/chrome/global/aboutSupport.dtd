@@ -5,35 +5,58 @@
 <!ENTITY aboutSupport.pageTitle "Xibaari seet jafe-jafe">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "  Xët wii dafa ëmb ay xibaar yu xarala tu am solo 
-boo bëggee saafara benn jafe jafe. Soo bëggee ay tontu ci laaj yi gëna bari 
-ci &brandShortName;, mën nga laaj sunu <a id='supportLink'>dalu ndimbal</a>.">
+<!ENTITY aboutSupport.pageSubtitle "
+  Cette page contient des informations techniques qui pourraient être utiles quand vous essayez
+  de résoudre un problème. Si vous cherchez des réponses à des questions courantes
+  sur &brandShortName;, veuillez consulter notre <a id='supportLink'>site web d’assistance</a>.
+">
 
+<!ENTITY aboutSupport.crashes.title "Xibaari Taxaw">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
 This is likely the same like id.heading in crashes.dtd. -->
+<!ENTITY aboutSupport.crashes.id "ID bu xibaar bi">
+<!ENTITY aboutSupport.crashes.sendDate "Yónnees">
+<!ENTITY aboutSupport.crashes.allReports "Xibaari Taxaw yépp">
+<!ENTITY aboutSupport.crashes.noConfig "Bii jëfekaay kenn jekk-jekkaluñ ko ngir mu man di wone xibaari taxaw.">
 
-<!ENTITY aboutSupport.extensionsTitle "Yokk yi">
+<!ENTITY aboutSupport.extensionsTitle "Lawal">
 <!ENTITY aboutSupport.extensionName "Tur">
-<!ENTITY aboutSupport.extensionEnabled "Suqaliku">
+<!ENTITY aboutSupport.extensionEnabled "Doxalees">
 <!ENTITY aboutSupport.extensionVersion "Sumb">
+<!ENTITY aboutSupport.extensionId "ID">
 
+<!ENTITY aboutSupport.featuresTitle "Soloy &brandShortName;">
+<!ENTITY aboutSupport.featureName "Tur">
+<!ENTITY aboutSupport.featureVersion "Sumb">
+<!ENTITY aboutSupport.featureId "ID">
 
+<!ENTITY aboutSupport.experimentsTitle "Solo yu noppeeguñ">
+<!ENTITY aboutSupport.experimentName "Tur">
+<!ENTITY aboutSupport.experimentId "ID">
+<!ENTITY aboutSupport.experimentDescription "Tekki">
+<!ENTITY aboutSupport.experimentActive "Doxees">
+<!ENTITY aboutSupport.experimentEndDate "Bésu jeex">
 <!ENTITY aboutSupport.experimentHomepage "Xëtu dalal">
+<!ENTITY aboutSupport.experimentBranch "Bànqaas">
 
-<!ENTITY aboutSupport.appBasicsTitle "Paraameetar yi jëkk yu tërëlin bi">
+<!ENTITY aboutSupport.appBasicsTitle "Xibaar yu dàtt yu jëfekaay bi">
 <!ENTITY aboutSupport.appBasicsName "Tur">
 <!ENTITY aboutSupport.appBasicsVersion "Sumb">
+<!ENTITY aboutSupport.appBasicsBuildID "ID bu tabax gi">
 
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsUpdateChannel, aboutSupport.appBasicsUpdateHistory, aboutSupport.appBasicsShowUpdateHistory):
 "Update" is a noun here, not a verb. -->
+<!ENTITY aboutSupport.appBasicsUpdateChannel "Yoonu yeesal">
+<!ENTITY aboutSupport.appBasicsUpdateHistory "Jaar-jaaru yeesal yi">
+<!ENTITY aboutSupport.appBasicsShowUpdateHistory "Wone jaar-jaaru yeesal yi">
 
-<!ENTITY aboutSupport.appBasicsProfileDir "Wayndare jëmmalin">
+<!ENTITY aboutSupport.appBasicsProfileDir "Wayndareb jëmm">
 <!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
 This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
 Windows/Mac use the term "Folder" instead of "Directory" -->
-<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Wayndare jëmm">
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dencukaay bu jëmm">
 
-<!ENTITY aboutSupport.appBasicsEnabledPlugins "Plugins yi ñu suqali">
+<!ENTITY aboutSupport.appBasicsEnabledPlugins "Lawal yees doxal">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
 <!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
 <!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
