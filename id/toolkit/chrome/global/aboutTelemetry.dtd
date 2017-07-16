@@ -4,25 +4,11 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Data Telemetri">
 
-<!ENTITY aboutTelemetry.changeDataChoices "  Ubah">
-
-<!ENTITY aboutTelemetry.uploadEnabled "  Pengunggahan data FHR <span>aktif</span>.">
-
-<!ENTITY aboutTelemetry.uploadDisabled "  Pengunggahan data FHR <span>nonaktif</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "  Perekaman Telemetri Diperluas <span>aktif</span>.">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "  Perekaman Telemetri Diperluas <span>nonaktif</span>.">
-
 <!ENTITY aboutTelemetry.pingDataSource "Sumber data ping:">
 
 <!ENTITY aboutTelemetry.showCurrentPingData "Data ping saat ini">
 
 <!ENTITY aboutTelemetry.showArchivedPingData "Data ping arsip">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "Tampilan data ping">
-
-<!ENTITY aboutTelemetry.structured "Terstruktur">
 
 <!ENTITY aboutTelemetry.raw "JSON Mentah">
 
@@ -34,11 +20,14 @@
 
 <!ENTITY aboutTelemetry.showOlderPing "Ping lebih lama &gt;&gt;">
 
-<!ENTITY aboutTelemetry.rawPingData "Data ping mentah…">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "Minggu">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "Ping">
+
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Kemarin">
+
 
 <!ENTITY aboutTelemetry.generalDataSection "   Data Umum">
 
@@ -77,12 +66,6 @@
 
 <!ENTITY aboutTelemetry.sessionInfoSection "  Informasi Sistem">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Histogram yang Dikumpulkan berdasar Pengaya">
-
-<!ENTITY aboutTelemetry.toggle "  Klik untuk membentangkan/menciutkan bagian">
-
-<!ENTITY aboutTelemetry.emptySection "  (Tidak ada data yang dikumpulkan)">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  Catatan: Proses debug SQL diaktifkan. String SQL lengkap mungkin ditampilkan di bawah tetapi tidak akan dikirim ke server Telemetri.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -94,5 +77,3 @@
 <!ENTITY aboutTelemetry.filterText "  Filter (string atau /ekspresi reguler/)">
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "  Muatan">
-
-<!ENTITY aboutTelemetry.rawPayload "  Muatan Mentah">
