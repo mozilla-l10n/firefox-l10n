@@ -54,3 +54,5 @@
 <!ENTITY aboutNetworking.rcwnAvgShort          "Promedio corto">
 <!ENTITY aboutNetworking.rcwnAvgLong           "Promedio largo">
 <!ENTITY aboutNetworking.rcwnStddevLong        "Desviación estándar larga">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Cuenta lenta de caché">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Cuenta de caché no lenta">
