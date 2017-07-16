@@ -5,11 +5,10 @@
 <!ENTITY aboutSupport.pageTitle "Xibaari saafaray gàllankoor">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
-<!ENTITY aboutSupport.pageSubtitle "
-  Cette page contient des informations techniques qui pourraient être utiles quand vous essayez
-  de résoudre un problème. Si vous cherchez des réponses à des questions courantes
-  sur &brandShortName;, veuillez consulter notre <a id='supportLink'>site web d’assistance</a>.
-">
+<!ENTITY aboutSupport.pageSubtitle " 
+ Xët wii dafa ëmb xibaari xarala yu la man a amal njariñ soo nekkee di jéem a  
+ saafara ag jafe-jafe. Soo bëggee ay tontu ci laaj yees gën di def
+ ñeel &brandShortName;, xoolal sunu <a id='supportLink'>dalu jàpple</a>.">
 
 <!ENTITY aboutSupport.crashes.title "Xibaari Taxaw">
 <!-- LOCALIZATION NOTE (aboutSupport.crashes.id):
