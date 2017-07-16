@@ -48,6 +48,7 @@
 <!ENTITY performanceUI.toolbar.allocations.tooltiptext "Εμφανίζει πως η μνήμη ήταν καταμερισμένη κατά την εγγραφή.">
 <!ENTITY performanceUI.toolbar.js-flamegraph "Γράφημα Φωτιάς JS">
 <!ENTITY performanceUI.toolbar.js-flamegraph.tooltiptext "Εμφανίζει τη στοίβα κλήσεων JavaScript από όλη τη διάρκεια της εγγραφής.">
+<!ENTITY performanceUI.toolbar.memory-flamegraph 'Γράφημα "flame" εκχωρήσεων'>
 
 <!-- LOCALIZATION NOTE (performanceUI.table.*): These strings are displayed
   -  in the call tree headers for a recording. -->
@@ -60,9 +61,12 @@
 <!ENTITY performanceUI.table.selfPercentage           "Ίδιο Κόστος">
 <!ENTITY performanceUI.table.selfPercentage.tooltip   "Το ποσοστό του χρόνου που σπαταλήθηκε μόνο μέσα στη συνάρτηση.">
 <!ENTITY performanceUI.table.samples                  "Δείγματα">
+<!ENTITY performanceUI.table.samples.tooltip          "Ο αριθμός των φορών που αυτή η συνάρτηση βρισκόταν στη στοίβα όταν το πρόγραμμα προφίλ σύλλεξε ένα δείγμα.">
 <!ENTITY performanceUI.table.function                 "Συνάρτηση">
 <!ENTITY performanceUI.table.function.tooltip         "Το όνομα και η τοποθεσία στον κώδικα της συνάρτησης δειγματοληψίας.">
 <!ENTITY performanceUI.table.totalAlloc               "Συνολικοί Καταμερισμοί Δειγμάτων">
+<!ENTITY performanceUI.table.totalAlloc.tooltip       "Ο συνολικός αριθμός εκχωρήσεων αντικειμένων, από τα οποία λήφθηκε δείγμα σε αυτή την τοποθεσία και στους καλούντες.">
+<!ENTITY performanceUI.table.selfAlloc                "Εκχωρήσεις αυτόματης δειγματοληψίας">
 <!ENTITY performanceUI.table.selfAlloc.tooltip        "Ο αριθμός των κατανομών αντικειμένων δειγματοληψίας σε αυτή την τοποθεσία.">
 
 <!-- LOCALIZATION NOTE (performanceUI.options.filter.tooltiptext): This string
@@ -76,10 +80,12 @@
 <!-- LOCALIZATION NOTE (performanceUI.invertTree): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's call tree. -->
 <!ENTITY performanceUI.invertTree             "Αναστροφή δέντρου κλήσεων">
+<!ENTITY performanceUI.invertTree.tooltiptext "Η αναστροφή του δέντρου κλήσεων εμφανίζει τις διαδρομές κλήσεων σε προφίλ, ξεκινώντας από τα νεώτερα πλαίσια έως και τα παλαιότερα.">
 
 <!-- LOCALIZATION NOTE (performanceUI.invertFlameGraph): This is the label shown next to
   -  a checkbox that inverts and un-inverts the profiler's flame graph. -->
 <!ENTITY performanceUI.invertFlameGraph             'Αναστροφή γραφήματος "flame"'>
+<!ENTITY performanceUI.invertFlameGraph.tooltiptext 'Η αναστροφή του γραφήματος "flame" εμφανίζει τις διαδρομές κλήσεων σε προφίλ, ξεκινώντας από τα νεώτερα πλαίσια έως και τα παλαιότερα.'>
 
 <!-- LOCALIZATION NOTE (performanceUI.showPlatformData): This is the
   -  label for the checkbox that toggles whether or not Gecko platform data
@@ -91,11 +97,13 @@
   -  is displayed next to a checkbox determining whether or not JIT optimization data
   -  should be displayed. -->
 <!ENTITY performanceUI.showJITOptimizations             "Εμφάνιση βελτιστοποιήσεων JIT">
+<!ENTITY performanceUI.showJITOptimizations.tooltiptext "Εμφάνιση δεδομένων βελτιστοποίησης JIT σε κάθε πλαίσιο JavaScript.">
 
 <!-- LOCALIZATION NOTE (performanceUI.flattenTreeRecursion): This is the
   -  label for the checkbox that toggles the flattening of tree recursion in inspected
   -  functions in the profiler. -->
-<!ENTITY performanceUI.flattenTreeRecursion             '"Ισοπέδωση" αναδρομής δέντρου'>
+<!ENTITY performanceUI.flattenTreeRecursion             "Ομαλοποίηση αναδρομής δέντρου">
+<!ENTITY performanceUI.flattenTreeRecursion.tooltiptext "Ομαλοποίηση αναδρομής κατά την επιθεώρηση συναρτήσεων.">
 
 <!-- LOCALIZATION NOTE (performanceUI.enableMemory): This string
   -  is displayed next to a checkbox determining whether or not memory

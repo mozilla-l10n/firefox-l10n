@@ -51,3 +51,8 @@
 <!ENTITY aboutNetworking.rcwnPerfRead          "Ανάγνωση">
 <!ENTITY aboutNetworking.rcwnPerfWrite         "Εγγραφή">
 <!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Ανοικτή είσοδος">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Μικρός μέσος όρος">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Μεγάλος μέσος όρος">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Μακρά τυπική απόκλιση">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Αργή μέτρηση cache">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Η cache δεν μετρά αργά">
