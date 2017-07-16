@@ -35,6 +35,11 @@
 <!ENTITY editMailingListContext.label       "Uredi seznam">
 <!ENTITY editMailingListContext.accesskey   "e">
 
+<!ENTITY newContactAbContext.label          "Nov stik">
+<!ENTITY newContactAbContext.accesskey      "s">
+<!ENTITY newListAbContext.label             "Nov seznam">
+<!ENTITY newListAbContext.accesskey         "e">
+
 <!ENTITY toButton.label                     "Dodaj v Za:">
 <!ENTITY toButton.accesskey                 "Z">
 <!ENTITY ccButton.label                     "Dodaj v Kp:">
