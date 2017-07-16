@@ -32,8 +32,8 @@ This is likely the same like id.heading in crashes.dtd. -->
 
 <!ENTITY aboutSupport.experimentsTitle "Solo yu noppeeguñ">
 <!ENTITY aboutSupport.experimentName "Tur">
-<!ENTITY aboutSupport.experimentId "ID">
-<!ENTITY aboutSupport.experimentDescription "Tekki">
+<!ENTITY aboutSupport.experimentId "Xàmmeekaay">
+<!ENTITY aboutSupport.experimentDescription "Tektal">
 <!ENTITY aboutSupport.experimentActive "Doxees">
 <!ENTITY aboutSupport.experimentEndDate "Bésu jeex">
 <!ENTITY aboutSupport.experimentHomepage "Xëtu dalal">
@@ -84,31 +84,39 @@ variant of aboutSupport.showDir.label.  This allows us to use the preferred
 variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.showWin2.label "Ubbi Dencukaay bi">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Coppiteg Tannéef yu am solo">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Tànnéef yu am solo yees Soppi">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
-<!ENTITY aboutSupport.modifiedPrefsValue "Solo">
+<!ENTITY aboutSupport.modifiedPrefsValue "Maanaa">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
 <!ENTITY aboutSupport.userJSTitle "Tànnéefi user.js">
-<!ENTITY aboutSupport.userJSDescription "Sa wayndare jëmm dafa ëmb <a id='prefs-user-js-link'>dencukaay jëfandikookat.js</a>, te am ay taamu yu &brandShortName; sosul.">
+<!ENTITY aboutSupport.userJSDescription "Dencukaay bu sa jëmm ëmb na <a id='prefs-user-js-link'>ŋara user.js</a>, te amaale itam ay tànnéef yu &brandShortName; sosul.">
 
+<!ENTITY aboutSupport.lockedKeyPrefsTitle "Tànnéef yu am solo yees Caabi">
+<!ENTITY aboutSupport.lockedPrefsName "Tur">
+<!ENTITY aboutSupport.lockedPrefsValue "Maanaa">
 
-<!ENTITY aboutSupport.graphicsTitle "Làbbali">
+<!ENTITY aboutSupport.graphicsTitle "Rëddaatu">
 
+<!ENTITY aboutSupport.placeDatabaseTitle "Dàttub njoxéefu ay barab">
+<!ENTITY aboutSupport.placeDatabaseIntegrity "Ñummaay">
+<!ENTITY aboutSupport.placeDatabaseVerifyIntegrity "Saytu Ñummaay">
 
 <!ENTITY aboutSupport.jsTitle "JavaScript">
-<!ENTITY aboutSupport.jsIncrementalGC "Incremental GC">
+<!ENTITY aboutSupport.jsIncrementalGC "GC guy yokku">
 
-<!ENTITY aboutSupport.a11yTitle "Yomb jot">
-<!ENTITY aboutSupport.a11yActivated "Suqali">
-<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+<!ENTITY aboutSupport.a11yTitle "Jotu">
+<!ENTITY aboutSupport.a11yActivated "Doxalees">
+<!ENTITY aboutSupport.a11yForceDisabled "Tere jotu gi">
+<!ENTITY aboutSupport.a11yHandlerUsed "Saytukaay bu Jotu lees Jëfandikoo">
 
-<!ENTITY aboutSupport.libraryVersionsTitle "Sumbu kaggu yi">
+<!ENTITY aboutSupport.libraryVersionsTitle "Sumbi kàggu yi">
 
-<!ENTITY aboutSupport.installationHistoryTitle "Jaar jaaru samp">
+<!ENTITY aboutSupport.installationHistoryTitle "Jaar-jaaru Camp gi">
+<!ENTITY aboutSupport.updateHistoryTitle "Yeesal Jaar-jaar gi">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit yi">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Duppi xibaar ci dencandikkaayu kayit yi">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit bi">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Taf xibaar yi ci dencandikkaayu kayit bi">
 
 
 
