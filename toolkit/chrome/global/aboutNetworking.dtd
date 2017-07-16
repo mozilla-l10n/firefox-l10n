@@ -46,3 +46,4 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Počet vítězství mezipaměti">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Počet vítězství sítě">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Celkový počet síťových požadavků">
+<!ENTITY aboutNetworking.rcwnOperation         "Operace s mezipamětí">
