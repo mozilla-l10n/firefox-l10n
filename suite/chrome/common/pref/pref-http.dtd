@@ -13,11 +13,7 @@
 <!ENTITY prefEnableHTTP11.label              "Usar HTTP 1.1">
 <!ENTITY prefEnableHTTP11.accesskey          "U">
 <!ENTITY prefEnableHTTP11Proxy.accesskey     "T">
-<!ENTITY prefEnablePipelining.label          "Habilitar tunelado">
-<!ENTITY prefEnablePipelining.accesskey      "H">
-<!ENTITY prefEnablePipeliningProxy.accesskey "N">
 <!ENTITY prefPara                            "Las conexiones HTTP pueden ser calibradas usando estas opciones para mejorar tanto el rendimiento como la compatibilidad. Algunos servidores proxy, por ejemplo, pueden necesitar HTTP/1.0 (vea las notas de la versión para más detalles).">
-<!ENTITY prefPipeWarning                     "ADVERTENCIA: el tunelado es una funcionalidad experimental, diseñada para mejorar el rendimiento de carga de páginas, que, lamentablemente, puede no funcionar bien con algunos servidores y proxies.">
 <!ENTITY prefUseragent.label                 "Cadena de agente de usuario">
 <!ENTITY prefFirefoxCompat.label             "Publicitar compatibilidad de Firefox">
 <!ENTITY prefFirefoxCompat.accesskey         "F">
