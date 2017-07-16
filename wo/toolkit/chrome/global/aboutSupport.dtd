@@ -2,7 +2,7 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageTitle "Xibaari seet jafe-jafe">
+<!ENTITY aboutSupport.pageTitle "Xibaari saafaray gàllankoor">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -115,8 +115,27 @@ variant of aboutSupport.showDir.label. -->
 <!ENTITY aboutSupport.installationHistoryTitle "Jaar-jaaru Camp gi">
 <!ENTITY aboutSupport.updateHistoryTitle "Yeesal Jaar-jaar gi">
 
-<!ENTITY aboutSupport.copyTextToClipboard.label "Duppi ci dencandikaayu kayit bi">
-<!ENTITY aboutSupport.copyRawDataToClipboard.label "Taf xibaar yi ci dencandikkaayu kayit bi">
+<!ENTITY aboutSupport.copyTextToClipboard.label "Denc ci dencandikaayu kayit bi">
+<!ENTITY aboutSupport.copyRawDataToClipboard.label "Denc xibaar yi ci dencandikaayu kayit bi">
 
+<!ENTITY aboutSupport.sandboxTitle "Defukaayu suuf">
+<!ENTITY aboutSupport.sandboxSyscallLogTitle "Wooteeb noste bees lànk">
+<!ENTITY aboutSupport.sandboxSyscallIndex "#">
+<!ENTITY aboutSupport.sandboxSyscallAge "Simili ci ginnaaw">
+<!ENTITY aboutSupport.sandboxSyscallPID "PID">
+<!ENTITY aboutSupport.sandboxSyscallTID "TID">
+<!ENTITY aboutSupport.sandboxSyscallProcType "Xeetu jëfiin">
+<!ENTITY aboutSupport.sandboxSyscallNumber "Syscall">
+<!ENTITY aboutSupport.sandboxSyscallArgs "Joxaale">
 
+<!ENTITY aboutSupport.safeModeTitle "Jéem ci Anamu Kaaraange">
+<!ENTITY aboutSupport.restartInSafeMode.label "Doxadil Lawal yi te Tàmbaliwaat...">
 
+<!ENTITY aboutSupport.graphicsFeaturesTitle "Solo">
+<!ENTITY aboutSupport.graphicsDiagnosticsTitle "Caytu">
+<!ENTITY aboutSupport.graphicsFailureLogTitle "Yénekaayu Njuumte yi">
+<!ENTITY aboutSupport.graphicsGPU1Title "GPU #1">
+<!ENTITY aboutSupport.graphicsGPU2Title "GPU #2">
+<!ENTITY aboutSupport.graphicsDecisionLogTitle "Yénekaayu Dogal yi">
+<!ENTITY aboutSupport.graphicsCrashGuardsTitle "Saytukaayu Taxaw gee Doxadil Solo yi">
+<!ENTITY aboutSupport.graphicsWorkaroundsTitle "Saafara">
