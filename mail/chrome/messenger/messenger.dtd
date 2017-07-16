@@ -229,7 +229,7 @@
 <!ENTITY threadsWithUnreadCmd.accesskey "l">
 <!ENTITY watchedThreadsWithUnreadCmd.label "Sledovaná vlákna s nepřečtenými">
 <!ENTITY watchedThreadsWithUnreadCmd.accesskey "d">
-<!ENTITY ignoredThreadsCmd.label "Ignorovat vlákna">
+<!ENTITY ignoredThreadsCmd.label "Ignorovaná vlákna">
 <!ENTITY ignoredThreadsCmd.accesskey "I">
 
 <!ENTITY headersMenu.label "Záhlaví">
