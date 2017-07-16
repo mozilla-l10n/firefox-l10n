@@ -3,6 +3,8 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  trackingProtectionHeader2.label      "İzlenme Koruması">
+<!ENTITY  trackingProtection2.description      "Siz çeşitli sitelerde gezerken gezinti verilerinizin toplanmasına “izlenme” veya “takip” diyoruz. Sizi izleyen kodlar, hangi sitelerde gezdiğinize ve kişisel bilgilerinize dayanarak profilinizi oluşturmak ve size özel reklamlar göstermek için kullanılabilir.">
+<!ENTITY  trackingProtection2.radioGroupLabel  "Bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
 <!ENTITY  trackingProtectionAlways.label       "Her zaman">
 <!ENTITY  trackingProtectionAlways.accesskey   "H">
 <!ENTITY  trackingProtectionPrivate.label      "Yalnızca gizli pencerelerde">
@@ -17,11 +19,16 @@
 <!ENTITY trackingProtectionPBM5.label         "Gizli pencerelerde izlenme korumasını kullan">
 <!ENTITY trackingProtectionPBM5.accesskey     "G">
 <!-- LOCALIZATION NOTE (trackingProtectionPBM6.label): This string is displayed if privacy.trackingprotection.ui.enabled is set to false. This currently happens on the nightly channel. -->
+<!ENTITY trackingProtectionPBM6.label         "Gizli Gezinti’de bilinen takipçileri engellemek için İzlenme Koruması’nı kullan">
+<!ENTITY trackingProtectionPBM6.accesskey     "G">
 <!ENTITY trackingProtectionPBMLearnMore.label "Daha fazla bilgi al">
 <!ENTITY changeBlockList.label          "Engelleme listesini değiştir">
 <!ENTITY changeBlockList.accesskey      "E">
 
+<!ENTITY  doNotTrack.description        "Web sitelerine izlenmek istemediğimi bildiren “Do Not Track” sinyalini gönder">
 <!ENTITY  doNotTrack.learnMore.label    "Daha fazla bilgi al">
+<!ENTITY  doNotTrack.default.label      "Yalnızca İzlenme Koruması’nı kullanırken">
+<!ENTITY  doNotTrack.always.label       "Her zaman">
 
 <!ENTITY  history.label                 "Geçmiş">
 <!ENTITY  permissions.label             "İzinler">
