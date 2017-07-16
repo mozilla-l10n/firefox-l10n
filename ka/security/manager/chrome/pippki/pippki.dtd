@@ -21,7 +21,7 @@
 <!ENTITY downloadCert.trustSSL "ვებ-საიტების დამოწმების ამ CA-სთვის ნდობა.">
 <!ENTITY downloadCert.trustEmail "ამ სააგენტოს ნდობა ელფოსტის კლიენტთა იდენტიფიცირებისათვის.">
 <!ENTITY downloadCert.trustObjSign "ამ სააგენტოს ნდობა პროგრამების შემქმნელთა იდენტიფიცირებისათვის.">
-<!ENTITY downloadCert.message3 "სანამ ენდობოდეთ ამ სააგენტოს რომელიმე დანიშნულებით, უნდა შეამოწმოთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
+<!ENTITY downloadCert.message3 "სანამ CA-ს ნდობას გამოუცხადებთ, ჯერ შეამოწმეთ მისი სერთიფიკატი, პირობები და პროცედურები (თუ გააჩნია).">
 <!ENTITY downloadCert.viewCert.label "ჩვენება">
 <!ENTITY downloadCert.viewCert.text "სააგენტოს სერთიფიკატის შემოწმება">
 
