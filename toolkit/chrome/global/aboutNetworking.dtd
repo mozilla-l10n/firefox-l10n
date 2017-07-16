@@ -47,3 +47,12 @@
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Počet vítězství sítě">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Celkový počet síťových požadavků">
 <!ENTITY aboutNetworking.rcwnOperation         "Operace s mezipamětí">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Otevření">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Čtení">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Zápis">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Otevření položky">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Krátkodobý průměr">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Dlouhodobý průměr">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Dlouhodobá směrodatná odchylka">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Počet pomalých přístupů do mezipaměti">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Počet rychlých přístupů do mezipaměti">
