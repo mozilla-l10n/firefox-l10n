@@ -6,7 +6,7 @@
 <!ENTITY window.maxWidth              "400">
 
 <!ENTITY startSafeMode.label          "Start i trygg modus">
-<!ENTITY refreshProfile.label         "Frisk opp &brandShortName;">
+<!ENTITY refreshProfile.label         "Tilbakestill &brandShortName;">
 
 <!ENTITY safeModeDescription3.label   "Trygg Modus er ein spesiell modus i &brandShortName; som kan brukast for å feilsøke problem.">
 <!ENTITY safeModeDescription4.label   "Utvidingar og tilpassa innstillingar vil mellombels slåast av.">
