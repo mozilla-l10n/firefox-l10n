@@ -26,7 +26,7 @@
 <!ENTITY checkUserSpelling.label         "მართლწერის შემოწმება ტექსტის აკრეფისას">
 <!ENTITY checkUserSpelling.accesskey     "მ">
 
-<!ENTITY dataChoicesTab.label            "მონაცემთა არჩევანი">
+<!ENTITY dataChoicesTab.label            "მონაცემთა შერჩევა">
 
 <!-- LOCALIZATION NOTE (healthReportingDisabled.label): This message is displayed above
 disabled data sharing options in developer builds or builds with no Telemetry support
