@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Données télémétriques">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Modifier
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  L’envoi de données FHR est <span>activé</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  L’envoi de données FHR est <span>désactivé</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  L’enregistrement télémétrique étendu est <span>activé</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  L’enregistrement télémétrique étendu est <span>désactivé</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Source des données de ping :
 ">
@@ -34,14 +14,6 @@ Données de ping actuelles
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Données de ping archivées
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Affichage des données de ping :
-">
-
-<!ENTITY aboutTelemetry.structured "
-Structuré
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,17 +36,19 @@ Sélectionner le ping :
 Ping plus ancien &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Données brutes de ping…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Semaine
 ">
 
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Ping
 ">
+
+<!ENTITY aboutTelemetry.optionGroupToday "Aujourd’hui">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "Hier">
+
 
 <!ENTITY aboutTelemetry.generalDataSection "
   Données générales
@@ -140,18 +114,6 @@ Ping
   Informations sur la session
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "
-  Histogrammes collectés par les modules complémentaires
-">
-
-<!ENTITY aboutTelemetry.toggle "
-  Cliquer pour développer/réduire la section
-">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Aucune donnée collectée)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "
   NOTE : Le débogage des requêtes SQL lentes est activé. Des requêtes SQL complètes peuvent être affichées ci-dessous, mais elles ne seront pas envoyées par télémétrie.
 ">
@@ -170,8 +132,4 @@ Ping
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Charge
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Charge brute
 ">
