@@ -967,14 +967,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY updateAvailable.cancelButton.accesskey "n">
 <!ENTITY updateAvailable.panelUI.label "Last ned &brandShorterName;-oppdatering">
 
-<!ENTITY updateManual.message "Last ned en frisk kopi av &brandShorterName; og vi vil hjelpe deg med å installere den.">
+<!ENTITY updateManual.message "Last ned en ny kopi av &brandShorterName; og vi vil hjelpe deg med å installere den.">
 <!ENTITY updateManual.whatsnew.label "Se hva som er nytt.">
 <!ENTITY updateManual.header.message "&brandShorterName; kan ikke oppdateres til den seneste versjonen.">
 <!ENTITY updateManual.acceptButton.label "Last ned &brandShorterName;">
 <!ENTITY updateManual.acceptButton.accesskey "L">
 <!ENTITY updateManual.cancelButton.label "Ikke nå">
 <!ENTITY updateManual.cancelButton.accesskey "n">
-<!ENTITY updateManual.panelUI.label "Last ned en frisk kopi av &brandShorterName;">
+<!ENTITY updateManual.panelUI.label "Last ned en ny kopi av &brandShorterName;">
 
 <!ENTITY updateRestart.message "Etter en rask omstart, vil &brandShorterName; gjenopprette alle dine åpne faner og vinduer.">
 <!ENTITY updateRestart.header.message2 "Start på nytt for å oppdatere &brandShorterName;.">

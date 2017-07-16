@@ -10,6 +10,6 @@
 <!ENTITY refreshProfile.dialog.button.label  "Tilbakestill &brandShortName;">
 
 <!ENTITY refreshProfile.title                "Gi &brandShortName; en overhaling">
-<!ENTITY refreshProfile.button.label         "Frisk opp &brandShortName;…">
+<!ENTITY refreshProfile.button.label         "Tilbakestill &brandShortName;…">
 
 <!ENTITY refreshProfile.cleaning.description "Nesten ferdig …">
