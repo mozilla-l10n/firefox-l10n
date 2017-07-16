@@ -453,7 +453,7 @@
      actual notification that an update is available. -->
 <!ENTITY pref_update_autodownload3 "自动更新">
 <!ENTITY pref_update_autodownload_wifi "仅通过 Wi-Fi">
-<!ENTITY pref_update_autodownload_never "总不">
+<!ENTITY pref_update_autodownload_never "永不">
 <!ENTITY pref_update_autodownload_always "总是">
 
 <!-- Localization note (help_menu) : This string is used in the main menu-->
@@ -698,20 +698,20 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 
  <!-- Updater notifications -->
 <!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
-<!ENTITY updater_start_select2 "轻触此处立即下载">
+<!ENTITY updater_start_select2 "轻触此处下载">
 
 <!ENTITY updater_downloading_title2 "正在下载 &brandShortName;">
 <!ENTITY updater_downloading_title_failed2 "下载失败">
-<!ENTITY updater_downloading_select2 "下载完毕后请轻触此处以应用更新">
-<!ENTITY updater_downloading_retry2 "轻触此处立即重试">
+<!ENTITY updater_downloading_select2 "轻触此处在下载完成后安装更新">
+<!ENTITY updater_downloading_retry2 "轻触此处重试">
 
-<!ENTITY updater_apply_title3 "应用已下载的 &brandShortName; 更新">
-<!ENTITY updater_apply_select3 "轻触此处开始安装">
+<!ENTITY updater_apply_title3 "新版 &brandShortName; 下载完毕">
+<!ENTITY updater_apply_select3 "轻触此处安装">
 
 <!-- Localization note (updater_permission_text): This text is shown in a notification and as a snackbar
      if the app requires a runtime permission to download updates. Currently, the updater only sees
      remotely advertised updates in the Nightly and Aurora channels. -->
-<!ENTITY updater_permission_text "要下载文件和进行更新，请允许 &brandShortName; 访问存储设备。">
+<!ENTITY updater_permission_text "为了下载文件和进行更新，请允许 &brandShortName; 访问存储空间。">
 <!-- LOCALIZATION NOTE (updater_permission_allow): This action is shown in a snackbar along with updater_permission_text. -->
 <!ENTITY updater_permission_allow "允许">
 
@@ -786,7 +786,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY restrictable_feature_clear_history "清除历史记录">
 <!ENTITY restrictable_feature_clear_history_description "允许家庭成员删除有关他们访问的网站和页面的信息，">
 <!ENTITY restrictable_feature_advanced_settings "高级设置">
-<!ENTITY restrictable_feature_advanced_settings_description "这包含导入书签、恢复标签页和自动更新。关闭此选项可简化家庭成员使用时所须设定的内容。">
+<!ENTITY restrictable_feature_advanced_settings_description "这包含导入书签、恢复标签页和自动更新。关闭此选项可简化家人使用时须设定的内容。">
 <!ENTITY restrictable_feature_camera_microphone "相机和麦克风">
 <!ENTITY restrictable_feature_camera_microphone_description "允许家庭成员在网站上即时通讯。">
 <!ENTITY restrictable_feature_block_list "拦截列表">
