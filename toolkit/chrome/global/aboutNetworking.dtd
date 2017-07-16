@@ -46,3 +46,4 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Cache won count">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Net won count">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Total jumlah permintaan jaringan">
+<!ENTITY aboutNetworking.rcwnPerfOpen          "Buka">
