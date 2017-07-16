@@ -143,14 +143,14 @@ available. -->
 <!ENTITY viewSecurityDevices.accesskey   "z">
 
 <!ENTITY performance.label               "Ukusebenza">
-
-
-
-
-
-
-
-
-
+<!ENTITY useRecommendedPerformanceSettings2.label "Sebenzisa iisetingi ezinconyelwayo zokusebenza">
+<!ENTITY useRecommendedPerformanceSettings2.description "Ezi setingi zilungiselelwe ihadwe nenkqubo yokusebenza yekhompyutha yakho.">
+<!ENTITY useRecommendedPerformanceSettings2.accesskey "S">
+<!ENTITY performanceSettingsLearnMore.label "Funda okungakumbi">
+<!ENTITY limitContentProcessOption.label "Inkqubo yesiqulatho nomlinganiselo">
+<!ENTITY limitContentProcessOption.description "Iinkqubo ezongezelelekileyo zesiqulatho zinokuphucula ukusebenza xa usebenzisa iithebhu ezininzi, kodwa iya kusebenzisa imemori engakumbi.">
+<!ENTITY limitContentProcessOption.accesskey   "l">
+<!ENTITY limitContentProcessOption.disabledDescription "Ukuphucula inani leenkqubo zeziqulatho kunokwenzeka kuphela ngeenkqubo ezininzi ze-&brandShortName;.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink "Funda indlela yokuhlola ukuba zivuliwe iinkqubo ezininzi">
 <!ENTITY allowHWAccel.label              "Sebenzisa ukhawuleziso lwehadiwe xa lufumaneka">
 <!ENTITY allowHWAccel.accesskey          "d">
