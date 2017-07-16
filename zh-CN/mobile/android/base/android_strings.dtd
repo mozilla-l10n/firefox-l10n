@@ -697,7 +697,7 @@ just addresses the organization to follow, e.g. "This site is run by " -->
 <!ENTITY searchable_description "书签及历史">
 
  <!-- Updater notifications -->
-<!ENTITY updater_start_title2 "&brandShortName; 有可用更新">
+<!ENTITY updater_start_title2 "&brandShortName; 有新版本可用">
 <!ENTITY updater_start_select2 "轻触此处下载">
 
 <!ENTITY updater_downloading_title2 "正在下载 &brandShortName;">
