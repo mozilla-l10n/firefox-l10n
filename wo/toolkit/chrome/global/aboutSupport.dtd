@@ -57,29 +57,39 @@ Windows/Mac use the term "Folder" instead of "Directory" -->
 <!ENTITY aboutSupport.appBasicsProfileDirWinMac "Dencukaay bu jëmm">
 
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Lawal yees doxal">
-<!ENTITY aboutSupport.appBasicsBuildConfig "Tabbinu dajale">
-<!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikookat">
-<!ENTITY aboutSupport.appBasicsMemoryUse "Jëfandikoo damb">
+<!ENTITY aboutSupport.appBasicsBuildConfig "Jekk-jakkali tabax">
+<!ENTITY aboutSupport.appBasicsUserAgent "Jëfandikukat">
+<!ENTITY aboutSupport.appBasicsOS "Nosteg doxiin">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Njëfandikug xel mi">
+<!ENTITY aboutSupport.appBasicsPerformance "Gaawaay">
 
 <!-- LOCALIZATION NOTE the term "Service Workers" should not be translated. -->
+<!ENTITY aboutSupport.appBasicsServiceWorkers "Service Workers yees denc">
 
+<!ENTITY aboutSupport.appBasicsProfiles "Jëmm">
 
+<!ENTITY aboutSupport.appBasicsMultiProcessSupport "Palanteeri bari-jëfiin">
 
+<!ENTITY aboutSupport.appBasicsKeyGoogle "Caabi Google">
+<!ENTITY aboutSupport.appBasicsKeyMozilla "Caabig Mozilla Location Service">
 
+<!ENTITY aboutSupport.appBasicsSafeMode "Anam gu am kaaraange">
 
-<!ENTITY aboutSupport.showDir.label "Ubbi wayndare bi mu andal">
+<!ENTITY aboutSupport.showDir.label "Ubbi Wayndare bi">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
 variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-<!ENTITY aboutSupport.showMac.label "Wone ci biir Finder">
+<!ENTITY aboutSupport.showMac.label "Wone ci Finder">
 <!-- LOCALIZATION NOTE (aboutSupport.showWin2.label): This is the Windows-specific
 variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin2.label "Ubbi Dencukaay bi">
 
-<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Taamu yu am solo yu ñu soppi">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Coppiteg Tannéef yu am solo">
 <!ENTITY aboutSupport.modifiedPrefsName "Tur">
+<!ENTITY aboutSupport.modifiedPrefsValue "Solo">
 
 <!-- LOCALIZATION NOTE (aboutSupport.userJSTitle, aboutSupport.userJSDescription): user.js is the name of the preference override file being checked. -->
-<!ENTITY aboutSupport.userJSTitle "Taamu jëfandikookat.js">
+<!ENTITY aboutSupport.userJSTitle "Tànnéefi user.js">
 <!ENTITY aboutSupport.userJSDescription "Sa wayndare jëmm dafa ëmb <a id='prefs-user-js-link'>dencukaay jëfandikookat.js</a>, te am ay taamu yu &brandShortName; sosul.">
 
 
