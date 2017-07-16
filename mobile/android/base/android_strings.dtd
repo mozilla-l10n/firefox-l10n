@@ -295,6 +295,9 @@
 <!-- Long-click title of CustomTabsActivity will copy URL to clipboard and display this hint -->
 <!ENTITY custom_tabs_hint_url_copy "Adresa URL zkopírována">
 
+<!ENTITY pref_pwa "Progresivní webové aplikace">
+<!ENTITY pref_pwa_summary "Povolit webovým aplikacím přidání na domovskou obrazovku">
+
 <!-- Localization note (pref_activity_stream): Experimental feature, see https://testpilot.firefox.com/experiments/activity-stream  -->
 <!ENTITY pref_activity_stream "Tok událostí">
 <!ENTITY pref_activity_stream_summary "Bohatý vizuální výpis historie a upravená domovská stránka dělají hledání přesně toho, co v aplikaci &brandShortName; chcete, snazší, než kdy dříve.">
