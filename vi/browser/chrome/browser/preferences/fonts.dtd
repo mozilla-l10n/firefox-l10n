@@ -61,9 +61,11 @@
 <!ENTITY  useDefaultFontSerif.label               "Serif">
 <!ENTITY  useDefaultFontSansSerif.label           "Sans Serif">
 
+<!ENTITY  allowPagesToUseOwn.label                "Cho phép các trang web tự lựa chọn phông chữ riêng, thay vì sử dụng phông mà bạn chọn ở trên">
 <!ENTITY  allowPagesToUseOwn.accesskey            "A">
 
 <!ENTITY languages.customize.Fallback2.grouplabel "Mã hóa văn bản cho nội dung cũ">
+<!ENTITY languages.customize.Fallback2.label      "Mã hóa văn bản dự phòng:">
 <!ENTITY languages.customize.Fallback2.accesskey  "T">
 <!ENTITY languages.customize.Fallback2.desc       "Mã hóa văn bản này được dùng cho nội dung cũ mà thất bại trong việc khai báo mã hóa của nó.">
 

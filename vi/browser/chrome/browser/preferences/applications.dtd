@@ -3,6 +3,7 @@
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY  applications.label       "Ứng dụng">
+<!ENTITY  applications.description "Chọn cách &brandShortName; xử lý các tập tin bạn tải về từ web hoặc các ứng dụng bạn sử dụng khi duyệt web.">
 
 <!ENTITY  typeColumn.label        "Kiểu dữ liệu">
 <!ENTITY  typeColumn.accesskey    "K">
