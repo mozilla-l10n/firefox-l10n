@@ -260,5 +260,6 @@ einige der besten und populärsten Add-ons zum Ausprobieren anbieten.">
 
 <!ENTITY legacyWarning.description "Fehlt etwas? Einige Erweiterungen werden nicht mehr von Firefox unterstützt.">
 <!ENTITY legacyWarning.showLegacy "Erweiterungen des alten Add-on-Typs anzeigen">
+<!ENTITY legacyExtensions.title "Alter Add-on-Typ">
 <!ENTITY legacyExtensions.description "Diese Erweiterungen erfüllen nicht die Firefox-Standards und wurden deshalb deaktiviert.">
 <!ENTITY legacyExtensions.learnMore "Weitere Informationen über Änderungen bei der Unterstützung von Add-ons für Firefox">

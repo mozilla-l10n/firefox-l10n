@@ -137,5 +137,9 @@
 <!ENTITY limitContentProcessOption.description
                                          "Mehr Inhaltsprozesse verbessern die Leistung bei Verwendung mehrerer Tabs, aber nutzen auch mehr Arbeitsspeicher.">
 <!ENTITY limitContentProcessOption.accesskey   "M">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "Das Ändern der Anzahl der Inhaltsprozesse ist nur in &brandShortName; mit mehreren Prozessen möglich.">
+<!ENTITY limitContentProcessOption.disabledDescriptionLink
+                                         "Wie Sie herausfinden, ob Firefox mit mehreren Prozessen ausgeführt wird">
 <!ENTITY allowHWAccel.label              "Hardwarebeschleunigung verwenden, wenn verfügbar">
 <!ENTITY allowHWAccel.accesskey          "v">
