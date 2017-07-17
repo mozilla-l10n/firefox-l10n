@@ -22,11 +22,15 @@
 
 <!ENTITY aboutTelemetry.archiveWeekHeader "أسبوع">
 
+<!ENTITY aboutTelemetry.archivePingType "نوع الطرْق">
 
 <!ENTITY aboutTelemetry.archivePingHeader "طرْق">
 
+<!ENTITY aboutTelemetry.optionGroupToday "اليوم">
 
+<!ENTITY aboutTelemetry.optionGroupYesterday "أمس">
 
+<!ENTITY aboutTelemetry.optionGroupOlder "أقدم">
 
 <!ENTITY aboutTelemetry.generalDataSection "  بيانات عامة">
 
