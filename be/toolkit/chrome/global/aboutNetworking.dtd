@@ -46,4 +46,13 @@
 <!ENTITY aboutNetworking.rcwnCacheWonCount     "Лік выйгрышаў кэша">
 <!ENTITY aboutNetworking.rcwnNetWonCount       "Лік выйгрышаў сеткі">
 <!ENTITY aboutNetworking.totalNetworkRequests  "Агульная колькасць сеткавых запытаў">
+<!ENTITY aboutNetworking.rcwnOperation         "Аперацыі кэшу">
 <!ENTITY aboutNetworking.rcwnPerfOpen          "Адкрыць">
+<!ENTITY aboutNetworking.rcwnPerfRead          "Прачытана">
+<!ENTITY aboutNetworking.rcwnPerfWrite         "Запісана">
+<!ENTITY aboutNetworking.rcwnPerfEntryOpen     "Адкрыта запісаў">
+<!ENTITY aboutNetworking.rcwnAvgShort          "Кароткае сярэдняе">
+<!ENTITY aboutNetworking.rcwnAvgLong           "Доўгае сярэдняе">
+<!ENTITY aboutNetworking.rcwnStddevLong        "Доўгае сярэднеквадратычнае адхіленне">
+<!ENTITY aboutNetworking.rcwnCacheSlow         "Лік маруднага кэша">
+<!ENTITY aboutNetworking.rcwnCacheNotSlow      "Лік не-маруднага кэша">

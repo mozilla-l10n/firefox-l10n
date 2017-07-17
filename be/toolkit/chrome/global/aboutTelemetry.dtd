@@ -4,26 +4,6 @@
 
 <!ENTITY aboutTelemetry.pageTitle "Дадзеныя тэлеметрыі">
 
-<!ENTITY aboutTelemetry.changeDataChoices "
-  Змяніць
-">
-
-<!ENTITY aboutTelemetry.uploadEnabled "
-  Зацягванне дадзеных FHR <span>уключана</span>.
-">
-
-<!ENTITY aboutTelemetry.uploadDisabled "
-  Зацягванне дадзеных FHR <span>адключана</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingEnabled "
-  Запіс пашыранай тэлеметрыі <span>уключана</span>.
-">
-
-<!ENTITY aboutTelemetry.extendedRecordingDisabled "
-  Запіс пашыранай тэлеметрыі <span>адключана</span>.
-">
-
 <!ENTITY aboutTelemetry.pingDataSource "
 Крыніца дадзеных пінга:
 ">
@@ -34,14 +14,6 @@
 
 <!ENTITY aboutTelemetry.showArchivedPingData "
 Дадзеныя архіўнага пінга
-">
-
-<!ENTITY aboutTelemetry.pingDataDisplay "
-Адлюстраванне дадзеных пінга:
-">
-
-<!ENTITY aboutTelemetry.structured "
-Структураванае
 ">
 
 <!ENTITY aboutTelemetry.raw "
@@ -64,16 +36,28 @@
 Больш стары пінг &gt;&gt;
 ">
 
-<!ENTITY aboutTelemetry.rawPingData "
-Неапрацаваныя дадзеныя пінга…
-">
-
 <!ENTITY aboutTelemetry.archiveWeekHeader "
 Тыдзень
 ">
 
+<!ENTITY aboutTelemetry.archivePingType "
+Тып пінгу
+">
+
 <!ENTITY aboutTelemetry.archivePingHeader "
 Пінг
+">
+
+<!ENTITY aboutTelemetry.optionGroupToday "
+Сёння
+">
+
+<!ENTITY aboutTelemetry.optionGroupYesterday "
+Учора
+">
+
+<!ENTITY aboutTelemetry.optionGroupOlder "
+Раней
 ">
 
 <!ENTITY aboutTelemetry.generalDataSection "
@@ -128,14 +112,6 @@
   Інфармацыя сесіі
 ">
 
-<!ENTITY aboutTelemetry.addonHistogramsSection "  Гістаграма, пазбіраныя дадаткамі">
-
-<!ENTITY aboutTelemetry.toggle "  Пстрыкніце, каб пераключыць раздзел">
-
-<!ENTITY aboutTelemetry.emptySection "
-  (Няма сабраных дадзеных)
-">
-
 <!ENTITY aboutTelemetry.fullSqlWarning "  УВАГА: дазволена марудная наладка SQL. Поўныя радкі SQL могуць адлюстроўвацца ніжэй, але яны не будуць падавацца тэлеметрыі.">
 
 <!ENTITY aboutTelemetry.fetchStackSymbols "
@@ -151,8 +127,4 @@
 
 <!ENTITY aboutTelemetry.payloadChoiceHeader "
   Нагрузка
-">
-
-<!ENTITY aboutTelemetry.rawPayload "
-  Неапрацаваная нагрузка
 ">
