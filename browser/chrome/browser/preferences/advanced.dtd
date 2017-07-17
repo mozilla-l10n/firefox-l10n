@@ -10,7 +10,9 @@
 
 <!ENTITY useCursorNavigation.label       "Cho phép dùng con trỏ để di chuyển bên trong trang">
 <!ENTITY useCursorNavigation.accesskey   "c">
+<!ENTITY searchOnStartTyping.label       "Tìm kiếm văn bản khi bạn bắt đầu nhập">
 <!ENTITY searchOnStartTyping.accesskey   "x">
+<!ENTITY blockAutoReload.label           "Cảnh báo bạn khi trang web cố gắng chuyển hướng hoặc tải lại trang">
 <!ENTITY blockAutoReload.accesskey       "b">
 <!ENTITY useOnScreenKeyboard.label       "Hiện bàn phím cảm ứng khi cần thiết">
 <!ENTITY useOnScreenKeyboard.accesskey   "b">
@@ -21,6 +23,7 @@
 <!ENTITY useAutoScroll.accesskey         "u">
 <!ENTITY useSmoothScrolling.label        "Cuộn uyển chuyển">
 <!ENTITY useSmoothScrolling.accesskey    "y">
+<!ENTITY checkUserSpelling.label         "Kiểm tra chính tả khi bạn gõ">
 <!ENTITY checkUserSpelling.accesskey     "t">
 
 <!ENTITY dataChoicesTab.label            "Lựa chọn dữ liệu">

@@ -8,6 +8,7 @@
 <!ENTITY startupPage2.accesskey    "s">
 <!ENTITY startupUserHomePage.label "Hiển thị trang chủ của bạn">
 <!ENTITY startupBlankPage.label    "Hiện một trang trống">
+<!ENTITY startupPrevSession.label  "Hiển thị cửa sổ và thẻ lần trước của bạn">
 
 <!ENTITY homepage2.label           "Trang chủ">
 <!ENTITY homepage2.accesskey       "P">
