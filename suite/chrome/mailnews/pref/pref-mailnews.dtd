@@ -8,8 +8,8 @@
 <!ENTITY confirmMove.accesskey            "B">
 <!ENTITY preserveThreading.label          "Berichtconversaties bij elkaar houden bij het sorteren van berichten">
 <!ENTITY preserveThreading.accesskey      "v">
-<!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van Mail &amp; nieuwsgroepen">
-<!ENTITY mailBiffOnNewWindow.accesskey    "A">
+<!ENTITY mailBiffOnNewWindow.label        "Alleen op nieuwe berichten controleren na het openen van E-mail &amp; nieuwsgroepen">
+<!ENTITY mailBiffOnNewWindow.accesskey    "c">
 
 <!ENTITY defaultMailSettings.description  "&brandShortName; als de standaardtoepassing gebruiken voor:">
 <!ENTITY setDefaultMail.label             "E-mail">
@@ -19,11 +19,11 @@
 <!ENTITY setDefaultFeed.label             "Feeds">
 <!ENTITY setDefaultFeed.accesskey         "e">
 
-<!ENTITY useInternalSettings.description  "Gebruik &brandShortName; Mail &amp; nieuws bij het openen van browserkoppelingen in:">
+<!ENTITY useInternalSettings.description  "Gebruik &brandShortName; E-mail &amp; nieuwsgroepen bij het openen van browserkoppelingen in:">
 <!ENTITY useInternalMail.label            "Mail (mailto:)">
 <!ENTITY useInternalMail.accesskey        "a">
 <!ENTITY useInternalNews.label            "Nieuws (news:, snews:, nntp:)">
-<!ENTITY useInternalNews.accesskey        "s">
+<!ENTITY useInternalNews.accesskey        "i">
 
 <!ENTITY messengerStartPage.caption       "E-mail-startpagina">
 <!ENTITY enableStartPage.label            "Wanneer Mail start, de startpagina in het berichtgedeelte tonen">

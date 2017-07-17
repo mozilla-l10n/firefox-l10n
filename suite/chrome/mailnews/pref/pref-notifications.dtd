@@ -27,7 +27,7 @@
 <!ENTITY useBuiltInAlert.accesskey        "m">
 
 <!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.accesskey           "k">
 <!ENTITY showBalloon.label                "Een ballonwaarschuwing tonen">
 <!ENTITY showBalloon.accesskey            "n">
 <!ENTITY bounceSystemDockIcon.label       "Het systeemvakpictogram animeren">
