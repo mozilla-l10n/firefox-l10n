@@ -985,7 +985,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY pageActionButton.tooltip "Orri-ekintzak">
 
-
+<!ENTITY sendToDevice.label2 "Bidali gailura">
+<!ENTITY sendToDevice.viewTitle "Bidali gailura">
 <!ENTITY sendToDevice.fxaRequired.label "Beharrezkoa">
 <!ENTITY sendToDevice.noDevices.label "Gailu erabilgarririk ez">
 <!ENTITY sendToDevice.syncNotReady.label "Gailuak sinkronizatzen…">
