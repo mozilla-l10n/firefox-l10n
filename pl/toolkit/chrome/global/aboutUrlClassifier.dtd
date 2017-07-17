@@ -7,6 +7,7 @@
 <!ENTITY aboutUrlClassifier.provider "Dostawca">
 <!ENTITY aboutUrlClassifier.providerLastUpdateTime "Ostatnie uaktualnienie">
 <!ENTITY aboutUrlClassifier.providerNextUpdateTime "Następne uaktualnienie">
+<!ENTITY aboutUrlClassifier.providerBackOffTime "Wycofano">
 <!ENTITY aboutUrlClassifier.providerLastUpdateStatus "Status ostatniego uaktualnienia">
 <!ENTITY aboutUrlClassifier.providerUpdateBtn "Uaktualnij">
 <!ENTITY aboutUrlClassifier.cacheTitle "Pamięć podręczna">
