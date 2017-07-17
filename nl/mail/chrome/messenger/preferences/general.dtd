@@ -26,7 +26,7 @@
 <!ENTITY customizeMailAlert.accesskey     "A">
 
 <!ENTITY showTrayIcon.label               "Een systeemvakpictogram tonen">
-<!ENTITY showTrayIcon.accesskey           "t">
+<!ENTITY showTrayIcon.accesskey           "k">
 
 <!ENTITY play.label                       "Afspelen">
 <!ENTITY play.accesskey                   "f">
