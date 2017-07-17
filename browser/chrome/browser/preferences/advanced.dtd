@@ -43,6 +43,8 @@ available. -->
 <!ENTITY enableTelemetryData.accesskey   "T">
 <!ENTITY telemetryLearnMore.label        "વધારે શીખો">
 
+<!ENTITY crashReporterDesc2.label         "&vendorShortName; ભંગાણ અહેવાલો સમસ્યાઓ ઠીક કરવામાં સહાય કરે છે અને તમારા બ્રાઉઝરને વધુ સ્થિર અને સલામત બનાવો">
+<!ENTITY alwaysSubmitCrashReports.label   "તમારા વતી &brandShortName; ને બૅકલોગ ક્રેશ રિપોર્ટ્સ મોકલવાની મંજૂરી આપો">
 <!ENTITY alwaysSubmitCrashReports.accesskey "c">
 <!ENTITY crashReporterLearnMore.label     "વધારે શીખો">
 
@@ -143,12 +145,18 @@ available. -->
 <!ENTITY performance.label               "કામગીરી">
 <!ENTITY useRecommendedPerformanceSettings2.label
                                          "આગ્રહણીય પ્રદર્શન સેટિંગ્સનો ઉપયોગ કરો">
+<!ENTITY useRecommendedPerformanceSettings2.description
+                                         "આ સેટિંગ્સ તમારા કમ્પ્યુટરનાં હાર્ડવેર અને ઑપરેટિંગ સિસ્ટમ અનુસાર બનાવાય છે.">
 <!ENTITY useRecommendedPerformanceSettings2.accesskey
                                          "U">
 <!ENTITY performanceSettingsLearnMore.label
                                          "વધુ શીખો">
 <!ENTITY limitContentProcessOption.label "સામગ્રી પ્રક્રિયા મર્યાદા">
+<!ENTITY limitContentProcessOption.description
+                                         "બહુવિધ ટૅબ્સનો ઉપયોગ કરતી વખતે વધારાની સામગ્રી પ્રક્રિયાઓ પ્રભાવ સુધારી શકે છે, પરંતુ તે વધુ મેમરીનો પણ ઉપયોગ કરશે.">
 <!ENTITY limitContentProcessOption.accesskey   "L">
+<!ENTITY limitContentProcessOption.disabledDescription
+                                         "મલ્ટિપ્રોસેસ સાથે સામગ્રી પ્રોસેસની સંખ્યામાં ફેરફાર કરવો શક્ય છે &brandShortName;.">
 <!ENTITY limitContentProcessOption.disabledDescriptionLink
                                          "મલ્ટિપ્રોસેસ સક્રિય કરે છે કે નહીં તે કેવી રીતે તપાસવું તે જાણો">
 <!ENTITY allowHWAccel.label              "હાર્ડવેર વેગને વાપરો જ્યારે ઉપલબ્ધ હોય">
