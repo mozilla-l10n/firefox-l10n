@@ -258,5 +258,5 @@
 <!ENTITY legacyWarning.description "چیزی گم کرده‌اید؟ بعضی از افزونه‌ها دیگر توسط &brandShortName; پشتیبانی نمی‌شود.">
 <!ENTITY legacyWarning.showLegacy "نمایش ضمیمه‌های قدیمی">
 <!ENTITY legacyExtensions.title "ضمیمه‌های قدیمی">
-
-
+<!ENTITY legacyExtensions.description "این ضمیمه‌ها استاندارهای لازم &brandShortName; را ندارند و به همین دلیل غیرفعال شده‌اند.">
+<!ENTITY legacyExtensions.learnMore "در مورد تغییرات در افزودنی‌ها بیشتر بدانید">
