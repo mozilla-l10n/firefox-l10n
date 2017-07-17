@@ -2,6 +2,8 @@
    - License, v. 2.0. If a copy of the MPL was not distributed with this
    - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+
+<!ENTITY pluginActivationWarning                             "இத்தளம் மெதுவான செருகியைப் பாவிப்பதால் &brandShortName; மெவாக்குகிறது.">
 <!ENTITY tapToPlayPlugin                                     "செருகுநிரலைச் செயல்படுத்த இங்கு தட்டவும்.">
 <!ENTITY clickToActivatePlugin                               "செருகுநிரலைச் செயல்படுத்து.">
 <!ENTITY checkForUpdates                                     "மேம்படுத்தல்கள் உள்ளதா எனக் காண்க…">
@@ -28,4 +30,4 @@
 <!ENTITY plugin.file                                         "கோப்பு">
 <!ENTITY plugin.mimeTypes                                    "MIME வகைகள்">
 <!ENTITY plugin.flashProtectedMode.label                     "Adobe Flash ஐ பாதுகாப்பு முறைமையைச் செயற்படுத்து">
-
+<!ENTITY plugin.enableBlocklists.label                       "ஆபத்தான ஊடுருவக்கூடிய அசைவூட்ட உள்ளடக்கத்தைத் தடு">
