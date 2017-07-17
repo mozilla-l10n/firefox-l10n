@@ -28,7 +28,7 @@
 
 <!-- Footer stuff -->
 <!ENTITY prefs.tosLink.label        "Tjenestevilkår">
-<!ENTITY fxaPrivacyNotice.link.label "Personvern">
+<!ENTITY fxaPrivacyNotice.link.label "Personvernbestemmelser">
 
 <!-- LOCALIZATION NOTE (signedInUnverified.beforename.label,
 signedInUnverified.aftername.label): these two string are used respectively
